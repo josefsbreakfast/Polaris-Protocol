@@ -1,6 +1,6 @@
 # 🧭 Political Mapping: The Two-Axis Model  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
-*A simple X-Y framework for locating ideologies by both values and attitudes to government involvement.*
+**First created:** 2025-11-07 | **Last updated:** 2025-12-19  
+*A simple X-Y framework for locating ideologies by both values and attitudes to government involvement.*  
 
 ---
 
@@ -94,10 +94,11 @@ political spectrum, x-y axis, intervention vs autonomy, actor mapping, demos map
 *Political Mapping: The Two-Axis Model* is a living node of the Polaris Protocol.  
 It provides a simple geometric framework for situating ideologies by both moral values and preferred degree of state involvement, with extensions for mapping actors vs the demos, a reflective alchemy of method, and clear lineage to its predecessors.  
 
-> 📡 Cross-references:  
-> - [🏛️ Prevent as Market Regulation Case Study](../🏛️_prevent_as_market_regulation_case_study.md) — applied example of state–market balance  
-> - [Big Picture Protocols](../) — systemic analysis directory  
+> 📡 Cross-references:
+> 
+> - [🏛️ Prevent as Market Regulation Case Study] — *applied example of state–market balance*  
+> - [Big Picture Protocols] — *systemic analysis directory*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
+_Last updated: 2025-12-19_
