@@ -1,5 +1,5 @@
 # 🧬 Echo Script Templates & Chain Ledger Specification  
-**First created:** 2025-11-09 | **Last updated:** 2025-11-09  
+**First created:** 2025-11-09 | **Last updated:** 2025-12-19  
 *Reusable templates for echo chains, cadence scripts, and verification ledgers.*
 
 ---
