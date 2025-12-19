@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 01:33:09 UTC_
+_Generated on 2025-12-19 01:34:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3342,6 +3342,7 @@ _Generated on 2025-12-19 01:33:09 UTC_
       - [`🧬_digital_twin_vector_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_digital_twin_vector_logic.md)
       - [`🧬_duplicate_points_c4isr_twinning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_duplicate_points_c4isr_twinning.md)
       - [`🧬_emotional_telemetry_propagation_across_digital_twins.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_emotional_telemetry_propagation_across_digital_twins.md)
+      - [`🧬_just_call_it_spin.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_just_call_it_spin.md)
       - [`🧬_metadata_twinning_analysis.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_metadata_twinning_analysis.md)
       - [`🧬_on_twinning_weird_obsession.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_on_twinning_weird_obsession.md)
       - [`🧬_sim_pathways_map.json`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_sim_pathways_map.json)
@@ -3731,7 +3732,6 @@ _Generated on 2025-12-19 01:33:09 UTC_
     - [`🧬_harm_without_perpetrators_architecture_failure_model.md`](Polaris_Nest/Git_Intake_Drawer/🧬_harm_without_perpetrators_architecture_failure_model.md)
     - [`🧬_how_gossip_shapes_risk_flags.md`](Polaris_Nest/Git_Intake_Drawer/🧬_how_gossip_shapes_risk_flags.md)
     - [`🧬_how_institutions_misfold_data.md`](Polaris_Nest/Git_Intake_Drawer/🧬_how_institutions_misfold_data.md)
-    - [`🧬_just_call_it_spin.md`](Polaris_Nest/Git_Intake_Drawer/🧬_just_call_it_spin.md)
     - [`🧬_keystone_rca.md`](Polaris_Nest/Git_Intake_Drawer/🧬_keystone_rca.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_metadata_driven_racism.md`](Polaris_Nest/Git_Intake_Drawer/🧬_metadata_driven_racism.md)
