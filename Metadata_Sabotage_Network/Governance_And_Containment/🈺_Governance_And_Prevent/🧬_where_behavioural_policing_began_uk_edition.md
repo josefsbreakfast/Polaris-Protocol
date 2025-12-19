@@ -1,6 +1,6 @@
 # 🧬 Where Behavioural Policing Began: Quilliam, CTSA 2015, and the New Surveillance State  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How a privately funded think-tank (Quilliam) and a single piece of legislation (CTSA 2015) transformed UK policing by shifting the focus from actions to behaviours, emotions, identity formation, and political expression — marking the true birth of behavioural policing in Britain.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-19  
+*How a privately funded think-tank (Quilliam) and a single piece of legislation (CTSA 2015) transformed UK policing by shifting the focus from actions to behaviours, emotions, identity formation, and political expression — marking the true birth of behavioural policing in Britain.*  
 
 ---
 
@@ -219,4 +219,4 @@ It explains how Prevent shifted UK governance from criminal policing toward beha
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-19_
