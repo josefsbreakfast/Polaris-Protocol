@@ -1,5 +1,5 @@
 # 🧄 Market Deregulation and Shylock’s Monologue  
-**First created:** 2025-12-19 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-02 | **Last updated:** 2025-12-19  
 *How coerced “middleman economies” become scapegoats — and how deregulated frontier markets keep the archetype alive.*
 
 ---
