@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 07:26:49 UTC_
+_Generated on 2025-12-19 07:28:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -760,6 +760,7 @@ _Generated on 2025-12-19 07:26:49 UTC_
         - [`🧭_respectability_pipelines.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧭_respectability_pipelines.md)
         - [`🧮_behavioural_risk_scoring_and_internet_triage_systems.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧮_behavioural_risk_scoring_and_internet_triage_systems.md)
         - [`🧮_datafication_as_risk_vector.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧮_datafication_as_risk_vector.md)
+        - [`🧮_environmental_grooming_ecosystems_1980s_2020s.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧮_environmental_grooming_ecosystems_1980s_2020s.md)
         - [`🧾_rehabilitation_ops.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧾_rehabilitation_ops.md)
         - [`🧿_central_uncertainty_protocols.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧿_central_uncertainty_protocols.md)
         - [`🧿_uk_slow_burn_constitutional_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧿_uk_slow_burn_constitutional_crisis.md)
@@ -3771,7 +3772,6 @@ _Generated on 2025-12-19 07:26:49 UTC_
     - [`🧮_algorithms_of_the_wolf.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithms_of_the_wolf.md)
     - [`🧮_audit_necromancy.md`](Polaris_Nest/Git_Intake_Drawer/🧮_audit_necromancy.md)
     - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
-    - [`🧮_environmental_grooming_ecosystems_1980s_2020s.md`](Polaris_Nest/Git_Intake_Drawer/🧮_environmental_grooming_ecosystems_1980s_2020s.md)
     - [`🧮_focus_group_of_one.md`](Polaris_Nest/Git_Intake_Drawer/🧮_focus_group_of_one.md)
     - [`🧮_forensic_transparency_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧮_forensic_transparency_toolkit.md)
     - [`🧮_k_anonymity_data_integrity_and_reidentification_risk.md`](Polaris_Nest/Git_Intake_Drawer/🧮_k_anonymity_data_integrity_and_reidentification_risk.md)
