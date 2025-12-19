@@ -1,6 +1,6 @@
 # 🧩 Voice Misuse, Misattribution, and Accountability Gaps  
-**First created:** 2025-12-18 | **Last updated:** 2025-12-18  
-*When crawler-based analysis blurs identity, no one seems responsible for finding out.*
+**First created:** 2025-12-18 | **Last updated:** 2025-12-19  
+*When crawler-based analysis blurs identity, no one seems responsible for finding out.*  
 
 ---
 
@@ -235,10 +235,10 @@ It documents how modern analysis pipelines can enable harm through ambiguity, wh
 
 > 📡 Cross-references:
 > 
-> - [🧿 Lexicon Governance Failures](./🧿_lexicon_governance_failures.md) — upstream classification risks  
-> - [🧿 Targeting Logic & Metadata Signatures](../🛰️ Metadata_Sabotage_Network/🧿_targeting_logic_metadata_signatures.md) — how linkage is produced  
-> - [⚖️ From Survivor Code to Research Ethics](../Big_Picture_Protocols/⚖️_Legal_State_Governance/📜_from_survivor_code_to_research_ethics.md) — duty of care in analysis  
+> - [🧿 Lexicon Governance Failures] — *upstream classification risks*  
+> - [🧿 Targeting Logic & Metadata Signatures] — *how linkage is produced*  
+> - [⚖️ From Survivor Code to Research Ethics] — *duty of care in analysis*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-18_
+_Last updated: 2025-12-19_
