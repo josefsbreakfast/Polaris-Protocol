@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 07:28:17 UTC_
+_Generated on 2025-12-19 07:29:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3325,6 +3325,7 @@ _Generated on 2025-12-19 07:28:17 UTC_
       - [`🧬_complaint_drift_and_twin_overcorrection.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_complaint_drift_and_twin_overcorrection.md)
       - [`🧬_focus_group_of_one_failure_mode.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_focus_group_of_one_failure_mode.md)
       - [`🧬_post_digital_data_world.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_post_digital_data_world.md)
+      - [`🧮_focus_group_of_one.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧮_focus_group_of_one.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
       - [`🪞_why_twinning_agreements_break.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪞_why_twinning_agreements_break.md)
       - [`🪦_memetic_hauntology.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪦_memetic_hauntology.md)
@@ -3772,7 +3773,6 @@ _Generated on 2025-12-19 07:28:17 UTC_
     - [`🧮_algorithms_of_the_wolf.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithms_of_the_wolf.md)
     - [`🧮_audit_necromancy.md`](Polaris_Nest/Git_Intake_Drawer/🧮_audit_necromancy.md)
     - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
-    - [`🧮_focus_group_of_one.md`](Polaris_Nest/Git_Intake_Drawer/🧮_focus_group_of_one.md)
     - [`🧮_forensic_transparency_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧮_forensic_transparency_toolkit.md)
     - [`🧮_k_anonymity_data_integrity_and_reidentification_risk.md`](Polaris_Nest/Git_Intake_Drawer/🧮_k_anonymity_data_integrity_and_reidentification_risk.md)
     - [`🧮_optimisation_and_the_fascism_of_efficiency.md`](Polaris_Nest/Git_Intake_Drawer/🧮_optimisation_and_the_fascism_of_efficiency.md)
