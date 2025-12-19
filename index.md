@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 06:37:49 UTC_
+_Generated on 2025-12-19 06:39:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3356,6 +3356,7 @@ _Generated on 2025-12-19 06:37:49 UTC_
       - [`🧬_duplicate_points_c4isr_twinning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_duplicate_points_c4isr_twinning.md)
       - [`🧬_emotional_telemetry_propagation_across_digital_twins.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_emotional_telemetry_propagation_across_digital_twins.md)
       - [`🧬_ghost_vector_synthetic_offspring.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_ghost_vector_synthetic_offspring.md)
+      - [`🧬_how_institutions_misfold_data.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_how_institutions_misfold_data.md)
       - [`🧬_just_call_it_spin.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_just_call_it_spin.md)
       - [`🧬_metadata_twinning_analysis.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_metadata_twinning_analysis.md)
       - [`🧬_on_twinning_weird_obsession.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_on_twinning_weird_obsession.md)
@@ -3737,7 +3738,6 @@ _Generated on 2025-12-19 06:37:49 UTC_
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
-    - [`🧬_how_institutions_misfold_data.md`](Polaris_Nest/Git_Intake_Drawer/🧬_how_institutions_misfold_data.md)
     - [`🧬_keystone_rca.md`](Polaris_Nest/Git_Intake_Drawer/🧬_keystone_rca.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_metadata_driven_racism.md`](Polaris_Nest/Git_Intake_Drawer/🧬_metadata_driven_racism.md)
