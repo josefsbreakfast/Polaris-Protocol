@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 01:23:48 UTC_
+_Generated on 2025-12-19 01:24:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -915,6 +915,7 @@ _Generated on 2025-12-19 01:23:48 UTC_
         - [`global_crown_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/global_crown_timeline.png)
         - [`israel_eurozone_financial_watchlist.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/israel_eurozone_financial_watchlist.png)
         - [`natcon_speakers_2023_2025.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/natcon_speakers_2023_2025.csv)
+        - [`natcon_speakers_2023_2025_full.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/natcon_speakers_2023_2025_full.csv)
         - [`☄️_ww3_started_years_ago.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/☄️_ww3_started_years_ago.md)
         - [`♻️_declining_ore_grades_and_the_end_of_substitution_myths.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/♻️_declining_ore_grades_and_the_end_of_substitution_myths.md)
         - [`⚖️_contingent_conservatism_and_long_horizon_politics.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_contingent_conservatism_and_long_horizon_politics.md)
@@ -3633,7 +3634,6 @@ _Generated on 2025-12-19 01:23:48 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`ZDC_README.md`](Polaris_Nest/Git_Intake_Drawer/ZDC_README.md)
     - [`natcon_speakers_2023_2025.csv`](Polaris_Nest/Git_Intake_Drawer/natcon_speakers_2023_2025.csv)
-    - [`natcon_speakers_2023_2025_full.csv`](Polaris_Nest/Git_Intake_Drawer/natcon_speakers_2023_2025_full.csv)
     - [`political_two_axis_model_coloured.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_coloured.png)
     - [`political_two_axis_model_diagram.png`](Polaris_Nest/Git_Intake_Drawer/political_two_axis_model_diagram.png)
     - [`post_CCRU_diaspora_network_diagram.png`](Polaris_Nest/Git_Intake_Drawer/post_CCRU_diaspora_network_diagram.png)
