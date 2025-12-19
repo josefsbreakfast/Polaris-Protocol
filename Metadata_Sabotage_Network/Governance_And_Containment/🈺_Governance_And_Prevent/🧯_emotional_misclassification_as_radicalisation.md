@@ -1,5 +1,5 @@
 # 🧯 Emotional Misclassification as “Radicalisation”  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
+**First created:** 2025-11-23 | **Last updated:** 2025-12-19  
 *How Prevent and Channel routinely misinterpret ordinary emotional expression — grief, fear, anger, trauma, identity formation — as indicators of extremism, creating structural harm for young people and racialised communities.*
 
 ---
@@ -190,9 +190,9 @@ Prevent • emotional misclassification • radicalisation • trauma • grief 
 is an emotional-governance node of the Polaris Protocol.  
 It explains how Prevent turns human emotional life into a risk category — punishing grief, anger, trauma, and neurodivergence through suspicion-coded logic.
 
-> 📡 **Cross-references:**  
+> 📡 Cross-references:  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-19_
