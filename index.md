@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 02:27:30 UTC_
+_Generated on 2025-12-19 02:28:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3536,8 +3536,7 @@ _Generated on 2025-12-19 02:27:30 UTC_
       - [`🧭_misroute_visibility.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧭_misroute_visibility.md)
       - [`🧵_content_unravelling_protocols.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧵_content_unravelling_protocols.md)
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
-  - [**📉_Suppression_Layers/**](Metadata_Sabotage_Network/📉_Suppression_Layers/)
-    - [`🧬_echo_script.md`](Metadata_Sabotage_Network/📉_Suppression_Layers/🧬_echo_script.md)
+    - [`🧬_echo_script.md`](Metadata_Sabotage_Network/Suppression_Layers/🧬_echo_script.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
     - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
     - [`🀄_play_foia_moj_edition.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🀄_play_foia_moj_edition.png)
