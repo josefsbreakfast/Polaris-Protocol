@@ -1,7 +1,6 @@
 # 🧮 k-Anonymity: Data Integrity & Re-identification Risk  
-
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
-*A minimal guide to calculating and maintaining the k-anonymity constant in structured datasets.*
+**First created:** 2025-11-03 | **Last updated:** 2025-12-19  
+*A minimal guide to calculating and maintaining the k-anonymity constant in structured datasets.*  
 
 ---
 
@@ -73,10 +72,11 @@ data privacy, k-anonymity, re-identification risk, statistical disclosure contro
 *🧮 k-Anonymity: Data Integrity & Re-identification Risk* is a technical appendix of the Polaris Protocol.  
 It outlines how to calculate the k constant and maintain anonymity as datasets evolve.  
 
-> 📡 Cross-references:  
-> - [⚖️ Threats and Countermeasures to Democracy from Machine Learning](../📊_Machine_Learning_And_Democracy/⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md) — policy context  
-> - [🧭 Data Integrity and Re-identification Risk](../🧭_data_integrity_and_reidentification_risk.md) — governance overview  
+> 📡 Cross-references:
+> 
+> - [⚖️ Threats and Countermeasures to Democracy from Machine Learning] — policy context  
+> - [🧭 Data Integrity and Re-identification Risk] — governance overview  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2025-12-19_
