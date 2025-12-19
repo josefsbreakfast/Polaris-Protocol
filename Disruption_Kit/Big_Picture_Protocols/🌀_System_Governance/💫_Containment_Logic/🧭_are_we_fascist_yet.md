@@ -1,6 +1,6 @@
 # 🧭 Are We Fascist Yet?  
-**First created:** 2025-11-09  |  **Last updated:** 2025-11-09  
-*A UK-specific diagnostic for recognising protofascist drift before collapse.*
+**First created:** 2025-11-09 | **Last updated:** 2025-12-19  
+*A UK-specific diagnostic for recognising protofascist drift before collapse.*  
 
 ---
 
@@ -71,11 +71,11 @@ It documents the UK’s protofascist condition and maps civic strategies for con
 
 > 📡 Cross-references:  
 > 
-> - [⚖️ Above the Law — Protofascism Threshold](⚖️_above_the_law_protofascism_threshold.md) — *legal and economic immunity diagnostic*  
-> - [Case Study — Keir Starmer](Case_Study_Keir_Starmer.md) — *data politics and perception management*  
-> - [🐝 Post-Protofascist Reconstruction](🐝_post_protofascist_reconstruction.md) — *commons-based rebuilding*  
-> - [🛰️ Civic Oversight of AI Partnerships](🛰️_civic_oversight_of_ai_partnerships.md) — *transparency in algorithmic governance*  
+> - [⚖️ Above the Law — Protofascism Threshold] — *legal and economic immunity diagnostic*  
+> - [Case Study — Keir Starmer] — *data politics and perception management*  
+> - [🐝 Post-Protofascist Reconstruction] — *commons-based rebuilding*  
+> - [🛰️ Civic Oversight of AI Partnerships] — *transparency in algorithmic governance*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-09_
+_Last updated: 2025-12-19_
