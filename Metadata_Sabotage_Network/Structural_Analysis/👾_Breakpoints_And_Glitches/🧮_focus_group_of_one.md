@@ -1,5 +1,5 @@
 # 🧮 Focus Group of One  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-19  
 *How small subgroups get mathematically inflated into “the public mood” — and why one lad in Slough becomes 200,000 citizens in a policy brief.*
 
 ---
@@ -198,11 +198,12 @@ post-stratification, sampling bias, weighting, subgroup volatility, conflict dat
 *🧮 Focus Group of One* is a living node of the **Polaris Protocol**.  
 It documents how statistical weighting in small samples can fabricate or distort “public opinion”, especially in conflict and humanitarian research — making one respondent speak as thousands.
 
-> 📡 Cross-references:  
-> - [📿 Vulnerable Data Populations](../Metadata_Sabotage_Network/🔥_Data_Risks/📿_vulnerable_data_populations.md) — *how groups become statistically fragile*  
-> - [📚 Narrative Management](../Big_Picture_Protocols/🌀_Systems_&_Governance/📚_Narrative_Management/) — *how distorted data becomes story*  
-> - [🍄 Suppression Layers](../Metadata_Sabotage_Network/🍄_Suppression_Layers/) — *how weighting effects can be exploited*
+> 📡 Cross-references:
+> 
+> - [📿 Vulnerable Data Populations] — *how groups become statistically fragile*  
+> - [📚 Narrative Management] — *how distorted data becomes story*  
+> - [🍄 Suppression Layers] — *how weighting effects can be exploited*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-17_
+_Last updated: 2025-12-19_
