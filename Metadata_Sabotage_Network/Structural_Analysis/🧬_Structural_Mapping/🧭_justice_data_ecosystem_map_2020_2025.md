@@ -1,6 +1,6 @@
 # 🧭 Justice Data Ecosystem Map (2020–2025)  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
-*Who holds the keys, and how the datasets talk to each other.*
+**First created:** 2025-11-11 | **Last updated:** 2025-12-19  
+*Who holds the keys, and how the datasets talk to each other.*  
 
 ---
 
@@ -90,11 +90,12 @@ justice data, ministry of justice, data first, adr uk, ons secure research servi
 *🧭 Justice Data Ecosystem Map (2020–2025)* is a living node of the Polaris Protocol.  
 It charts the architecture of justice-data systems during the UK’s integration wave, documenting both collaboration and risk.
 
-> 📡 Cross-references:  
-> - [🧾 Data Lineage Review — How to Trace a Record’s Provenance](../🧩_System_Governance/🧾_data_lineage_review_how_to_trace_a_records_provenance.md)  
-> - [🪙 Token Integrity Audit](../🧩_System_Governance/🪙_Token_Integrity_Audit/)  
-> - [🧰 Cross-Agency Data Integrity](../⚖️_Legal_&_State_Governance/🧰_cross_agency_data_integrity_role_directionality_in_multi_agency_panels.md)  
+> 📡 Cross-references:
+> 
+> - [🧾 Data Lineage Review — How to Trace a Record’s Provenance]  
+> - [🪙 Token Integrity Audit]  
+> - [🧰 Cross-Agency Data Integrity]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2025-12-19_
