@@ -1,7 +1,6 @@
 # 🧮 Environmental Grooming Ecosystems (1980s–2020s)  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*How far-right movements conditioned digital culture long before today’s recruits ever logged on.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-19  
+*How far-right movements conditioned digital culture long before today’s recruits ever logged on.*  
 
 ---
 
@@ -138,14 +137,15 @@ Not because of belief, but because of attachment.
 ---
 
 ## 🏮 Footer  
-**Environmental Grooming Ecosystems (1980s–2020s)** is a living node of the Polaris Protocol.  
+*🧮 Environmental Grooming Ecosystems (1980s–2020s)* is a living node of the Polaris Protocol.  
 It maps the historical and behavioural conditions that made modern digital radicalisation possible, emphasising that vulnerability was engineered, not innate.
 
-> 📡 Cross-references:  
-> - [🧠 Fascism as Scaled Coercive Control](./fascism_scaled_coercive_control.md)  
-> - [🪓 Charisma Is Just Coercion](./charisma_is_just_coercion.md)  
-> - [🧨 Why Tech Bros Were the Perfect Target](./tech_bro_vulnerability.md)
+> 📡 Cross-references:
+> 
+> - [🧠 Fascism as Scaled Coercive Control]  
+> - [🪓 Charisma Is Just Coercion]  
+> - [🧨 Why Tech Bros Were the Perfect Target]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-12-19_
