@@ -1,6 +1,6 @@
 # 🧬 Emotional Telemetry Propagation Across Digital Twins  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How emotional states, trauma-coded signals, humour patterns and affective responses transfer between digital twins and shape the synthetic centroid.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-19  
+*How emotional states, trauma-coded signals, humour patterns and affective responses transfer between digital twins and shape the synthetic centroid.*  
 
 ---
 
@@ -219,3 +219,5 @@ This node pairs with:
 It explains why synthetic centroids often behave like  
 **ethical, calm, ungaslightable ghosts**  
 — and why this breaks modelling systems that rely on predictable emotional responses.
+
+_Last updated: 2025-12-19_
