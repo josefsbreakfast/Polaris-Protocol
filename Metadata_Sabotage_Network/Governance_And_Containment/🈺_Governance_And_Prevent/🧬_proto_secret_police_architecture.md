@@ -1,6 +1,6 @@
 # 🧬 Proto-Secret-Police Architecture  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How Prevent and CTSA 2015 created a pre-modern architecture of surveillance, secrecy, and behavioural control that structurally resembles the early phases of secret police organisations — before they become fully authoritarian.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-19  
+*How Prevent and CTSA 2015 created a pre-modern architecture of surveillance, secrecy, and behavioural control that structurally resembles the early phases of secret police organisations — before they become fully authoritarian.*  
 
 ---
 
@@ -247,4 +247,4 @@ It explains how Prevent already possesses the structural DNA of early-phase secr
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-19_
