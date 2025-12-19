@@ -1,7 +1,6 @@
 # 🧬 Focus Group of One — Thick of It Failure Modes in Algorithmic Governance  
-**First created:** 2025-11-17  
-**Last updated:** 2025-11-17  
-*How the Thick of It’s “focus group of one” joke became a real failure mode inside algorithmic and institutional decision-making.*
+**First created:** 2025-11-17 | **Last updated:** 2025-12-19  
+*How the Thick of It’s “focus group of one” joke became a real failure mode inside algorithmic and institutional decision-making.*  
 
 ---
 
@@ -195,9 +194,10 @@ is a living node of the Polaris Protocol.
 It uses the structure of political satire to explain the real-world dangers of representational collapse in governance and AI systems.
 
 > 📡 Cross-references:
-> - [🧮 Audit Necromancy](../../../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/...)  
-> - [📣 The Shouting Whisper](../../../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/...)  
-> - [🇬🇧 British Pragmatics Nodes](../../../British_English_Compendium/)  
+> 
+> - [🧮 Audit Necromancy]  
+> - [📣 The Shouting Whisper]  
+> - [🇬🇧 British Pragmatics Nodes]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-17_
+_Last updated: 2025-12-19_
