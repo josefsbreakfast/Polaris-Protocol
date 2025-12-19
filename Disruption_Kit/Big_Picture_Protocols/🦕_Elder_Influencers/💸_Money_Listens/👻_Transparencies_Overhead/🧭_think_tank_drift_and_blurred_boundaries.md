@@ -1,6 +1,6 @@
 # 🧭 Think-Tank Drift and Blurred Boundaries  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How mainstream policy spaces slid closer to transformation projects 2018–2024.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-19  
+*How mainstream policy spaces slid closer to transformation projects 2018–2024.*  
 
 ---
 
@@ -71,4 +71,4 @@ think tanks, ideological drift, overton window, political volatility, transforma
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-18_
+_Last updated: 2025-12-19_
