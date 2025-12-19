@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 06:53:50 UTC_
+_Generated on 2025-12-19 06:55:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -329,6 +329,7 @@ _Generated on 2025-12-19 06:53:50 UTC_
         - [`🧬_multi_year_pipeline_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_multi_year_pipeline_architecture.md)
         - [`🧬_transparency_as_antigenic_defense.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_transparency_as_antigenic_defense.md)
         - [`🧬_two_sided_dependency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_two_sided_dependency.md)
+        - [`🧭_are_we_fascist_yet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧭_are_we_fascist_yet.md)
         - [`🧭_data_slip_to_narrative_spiral.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧭_data_slip_to_narrative_spiral.md)
         - [`🧮_deepthought_datagov_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧮_deepthought_datagov_problem.md)
         - [`🧾_due_diligence_and_operational_capacity_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md)
@@ -3750,7 +3751,6 @@ _Generated on 2025-12-19 06:53:50 UTC_
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
-    - [`🧭_are_we_fascist_yet.md`](Polaris_Nest/Git_Intake_Drawer/🧭_are_we_fascist_yet.md)
     - [`🧭_data_governance_swiss_cheese_model_case_vs_role_level_joins.md`](Polaris_Nest/Git_Intake_Drawer/🧭_data_governance_swiss_cheese_model_case_vs_role_level_joins.md)
     - [`🧭_how_authoritarian_drift_feels_from_the_inside.md`](Polaris_Nest/Git_Intake_Drawer/🧭_how_authoritarian_drift_feels_from_the_inside.md)
     - [`🧭_justice_data_ecosystem_map_2020_2025.md`](Polaris_Nest/Git_Intake_Drawer/🧭_justice_data_ecosystem_map_2020_2025.md)
