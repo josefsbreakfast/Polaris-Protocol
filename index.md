@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 07:25:05 UTC_
+_Generated on 2025-12-19 07:26:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3392,6 +3392,7 @@ _Generated on 2025-12-19 07:25:05 UTC_
       - [`🧭_data_swiss_cheese_case_vs_role_level_joins.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧭_data_swiss_cheese_case_vs_role_level_joins.md)
       - [`🧭_justice_data_ecosystem_map_2020_2025.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧭_justice_data_ecosystem_map_2020_2025.md)
       - [`🧮_data_error_decay_table.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧮_data_error_decay_table.md)
+      - [`🧮_dewey_decimal_and_the_ethics_of_order.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧮_dewey_decimal_and_the_ethics_of_order.md)
       - [`🧾_briefing_note_oversight_failure_triple_lock.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_briefing_note_oversight_failure_triple_lock.md)
       - [`🧾_twin_records_as_vulnerability.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_twin_records_as_vulnerability.md)
       - [`🧿_metadata_spin.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧿_metadata_spin.md)
@@ -3770,7 +3771,6 @@ _Generated on 2025-12-19 07:25:05 UTC_
     - [`🧮_algorithms_of_the_wolf.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithms_of_the_wolf.md)
     - [`🧮_audit_necromancy.md`](Polaris_Nest/Git_Intake_Drawer/🧮_audit_necromancy.md)
     - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
-    - [`🧮_dewey_decimal_dynamics.md`](Polaris_Nest/Git_Intake_Drawer/🧮_dewey_decimal_dynamics.md)
     - [`🧮_environmental_grooming_ecosystems_1980s_2020s.md`](Polaris_Nest/Git_Intake_Drawer/🧮_environmental_grooming_ecosystems_1980s_2020s.md)
     - [`🧮_focus_group_of_one.md`](Polaris_Nest/Git_Intake_Drawer/🧮_focus_group_of_one.md)
     - [`🧮_forensic_transparency_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧮_forensic_transparency_toolkit.md)
