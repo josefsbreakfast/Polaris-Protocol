@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 04:02:02 UTC_
+_Generated on 2025-12-19 04:02:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -829,6 +829,7 @@ _Generated on 2025-12-19 04:02:02 UTC_
           - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/data_misuse_continuum_flowchart.png)
           - [`defacto_uk_hsip.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/defacto_uk_hsip.png)
           - [`spv_dataflow_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/spv_dataflow_redacted.png)
+          - [`⚖️_prison_contractor_questions.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/⚖️_prison_contractor_questions.md)
           - [`⚖️_surveillance_driven_wealth_tort_exposure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/⚖️_surveillance_driven_wealth_tort_exposure.md)
           - [`⚙️_overclocked_capitalism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/⚙️_overclocked_capitalism.md)
           - [`🎊_multi_party_data_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md)
@@ -3651,7 +3652,6 @@ _Generated on 2025-12-19 04:02:02 UTC_
     - [`ZDC_README.md`](Polaris_Nest/Git_Intake_Drawer/ZDC_README.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`⚖️_prison_contractor_questions.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_prison_contractor_questions.md)
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🇬🇧_the_uk_and_existential_delusions.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_the_uk_and_existential_delusions.md)
