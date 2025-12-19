@@ -1,6 +1,6 @@
 # 🧬 Therapeutic Resistance as Acquired Immunity  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
-*When epistemic gaslighting re-codes the body’s capacity to receive care.*
+**First created:** 2025-10-23 | **Last updated:** 2025-12-19  
+*When epistemic gaslighting re-codes the body’s capacity to receive care.*  
 
 ---
 
@@ -60,10 +60,11 @@ therapeutic resistance, meta-trauma, gaslighting, algorithmic reassurance, trust
 It sits within **“Looped-In, Locked-Out”** in the **⚙️ Galactic Map of Archives**, charting the psychological antibodies that form when care itself has been co-opted by containment.  
 It guides designers, regulators, and clinicians toward recognising mistrust as a rational, data-informed survival strategy.
 
-> 📡 Cross-references:  
-> - [⚙️ Galactic Map of Archives](/Big_Picture_Protocols/🌀_System_Governance/⚙️_galactic_map_of_archives.md) — macro-scale visibility mapping  
-> - [🐝 Body Politic](/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/README.md) — collective emotional infrastructure  
+> 📡 Cross-references:
+> 
+> - [⚙️ Galactic Map of Archives] — macro-scale visibility mapping  
+> - [🐝 Body Politic] — collective emotional infrastructure  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-23_
+_Last updated: 2025-12-19_
