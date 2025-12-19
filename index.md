@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 06:43:52 UTC_
+_Generated on 2025-12-19 06:45:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3306,6 +3306,7 @@ _Generated on 2025-12-19 06:43:52 UTC_
       - [`🧬_clone_multiplicity_knot_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_clone_multiplicity_knot_logic.md)
       - [`🧬_complaint_drift_and_twin_overcorrection.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_complaint_drift_and_twin_overcorrection.md)
       - [`🧬_focus_group_of_one_failure_mode.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_focus_group_of_one_failure_mode.md)
+      - [`🧬_post_digital_data_world.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_post_digital_data_world.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
       - [`🪞_why_twinning_agreements_break.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪞_why_twinning_agreements_break.md)
       - [`🪦_memetic_hauntology.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪦_memetic_hauntology.md)
@@ -3742,7 +3743,6 @@ _Generated on 2025-12-19 06:43:52 UTC_
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
-    - [`🧬_post_digital_data_world.md`](Polaris_Nest/Git_Intake_Drawer/🧬_post_digital_data_world.md)
     - [`🧬_selective_permeability.md`](Polaris_Nest/Git_Intake_Drawer/🧬_selective_permeability.md)
     - [`🧬_structural_vulnerability_why_soft_boys_were_always_the_primary_target.md`](Polaris_Nest/Git_Intake_Drawer/🧬_structural_vulnerability_why_soft_boys_were_always_the_primary_target.md)
     - [`🧬_transparency_as_antigenic_defense.md`](Polaris_Nest/Git_Intake_Drawer/🧬_transparency_as_antigenic_defense.md)
