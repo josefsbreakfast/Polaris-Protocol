@@ -2,7 +2,7 @@
 **First created:** 2025-10-30 | **Last updated:** 2025-12-19  
 *How the “woke” concern sang UK–NATO–EU defence relations to sleep.*  
 
-> *Or: British men, once again, being undone by their love of bossy women.*  
+> *Or: British men, once again, being undone by their love of bossy women. Again.*  
 
 ---
 
