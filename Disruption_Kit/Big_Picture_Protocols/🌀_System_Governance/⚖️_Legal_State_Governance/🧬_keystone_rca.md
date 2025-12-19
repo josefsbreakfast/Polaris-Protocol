@@ -8,10 +8,12 @@
 Every British public inquiry dealing with violence, policing, intelligence, or mass public harm circles the same invisible gravitational centre: the **executive decision layer**.
 
 Downstream actors (police, soldiers, civilians, paramilitaries) are repeatedly scrutinised.  
-Midstream actors (chief constables, prosecutors, senior officers) are partially scrutinised.  
-The **keystone** — *the central strategic decision-making of Whitehall, MI5/MI6, Cabinet Office committees, and Prime Ministerial authorisations* — is systematically excluded.
 
-This Root Cause Analysis maps that absented layer: how it shaped conflict, how it shaped escalation, and how its removal from accountability architectures prevents national closure.
+Midstream actors (chief constables, prosecutors, senior officers) are partially scrutinised.  
+
+The **keystone** — *the central strategic decision-making of Whitehall, MI5/MI6, Cabinet Office committees, and Prime Ministerial authorisations* — is systematically excluded.  
+
+This Root Cause Analysis maps that absented layer: how it shaped conflict, how it shaped escalation, and how its removal from accountability architectures prevents national closure.  
 
 ---
 
@@ -138,10 +140,10 @@ It outlines the root executive-layer mechanism shaping UK state conflicts, inqui
 
 > 📡 Cross-references:
 > 
-> - [🧠 Systems & Governance](../Disruption_Kit/Big_Picture_Protocols/🌀_systems_&_governance/) — macro decision architectures  
-> - [🩸 Troubles Legacy](../Disruption_Kit/Big_Picture_Protocols/🐍_ouroborotic_violence/) — historical recursion patterns  
-> - [🕸️ World Webs](../Disruption_Kit/Big_Picture_Protocols/🪄_expression_of_norms/) — political narrative control  
+> - [🧠 Systems & Governance] — *macro decision architectures*  
+> - [🩸 Troubles Legacy] — *historical recursion patterns*  
+> - [🕸️ World Webs] — *political narrative control*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-20_
+_Last updated: 2025-12-19_
