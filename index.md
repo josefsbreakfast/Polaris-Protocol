@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 05:09:45 UTC_
+_Generated on 2025-12-19 06:29:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2920,6 +2920,7 @@ _Generated on 2025-12-19 05:09:45 UTC_
       - [`🧊_the_care_cage.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧊_the_care_cage.md)
       - [`🧠_why_i_write_like_this.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧠_why_i_write_like_this.md)
       - [`🧨_bad_broker_effect.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧨_bad_broker_effect.md)
+      - [`🧩_voice_misuse_misattribution_and_accountability_gaps.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧩_voice_misuse_misattribution_and_accountability_gaps.md)
       - [`🧬_distributed_trust.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_distributed_trust.md)
       - [`🧬_twinning_as_reputation_repair.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_twinning_as_reputation_repair.md)
       - [`🧶_soft_capture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧶_soft_capture.md)
@@ -3729,7 +3730,6 @@ _Generated on 2025-12-19 05:09:45 UTC_
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
     - [`🧩_the_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_whiteness_of_suspicion.md)
-    - [`🧩_voice_misuse_misattribution.md`](Polaris_Nest/Git_Intake_Drawer/🧩_voice_misuse_misattribution.md)
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
