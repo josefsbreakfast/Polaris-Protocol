@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 07:39:12 UTC_
+_Generated on 2025-12-19 07:41:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3083,6 +3083,7 @@ _Generated on 2025-12-19 07:39:12 UTC_
       - [`🧬_uk_feasibility_chain_for_animal_assisted_deradicalisation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_uk_feasibility_chain_for_animal_assisted_deradicalisation.md)
       - [`🧬_where_behavioural_policing_began_uk_edition.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_where_behavioural_policing_began_uk_edition.md)
       - [`🧭_transformational_change_must_be_systemic.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧭_transformational_change_must_be_systemic.md)
+      - [`🧯_emotional_misclassification_as_radicalisation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧯_emotional_misclassification_as_radicalisation.md)
       - [`🧯_prevent_as_a_political_atomisation_engine.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧯_prevent_as_a_political_atomisation_engine.md)
       - [`🧿_lomir_redn_aoys_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧿_lomir_redn_aoys_prevent.md)
       - [`🪖_authoritarian_capture_of_policing_institutions.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪖_authoritarian_capture_of_policing_institutions.md)
@@ -3779,7 +3780,6 @@ _Generated on 2025-12-19 07:39:12 UTC_
     - [`🧮_audit_necromancy.md`](Polaris_Nest/Git_Intake_Drawer/🧮_audit_necromancy.md)
     - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
     - [`🧮_forensic_transparency_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧮_forensic_transparency_toolkit.md)
-    - [`🧯_emotional_misclassification_as_radicalisation.md`](Polaris_Nest/Git_Intake_Drawer/🧯_emotional_misclassification_as_radicalisation.md)
     - [`🧯_pipework_anomaly.md`](Polaris_Nest/Git_Intake_Drawer/🧯_pipework_anomaly.md)
     - [`🧯_signs_your_brain_is_tired_because_society_is_batshit.md`](Polaris_Nest/Git_Intake_Drawer/🧯_signs_your_brain_is_tired_because_society_is_batshit.md)
     - [`🧯_sonata_aftershock_and_fear_procurement.md`](Polaris_Nest/Git_Intake_Drawer/🧯_sonata_aftershock_and_fear_procurement.md)
