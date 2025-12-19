@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 07:07:31 UTC_
+_Generated on 2025-12-19 07:09:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -756,6 +756,7 @@ _Generated on 2025-12-19 07:07:31 UTC_
         - [`🧩_fragmented_identities_as_feedstock.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧩_fragmented_identities_as_feedstock.md)
         - [`🧩_why_the_left_looks_scary_during_deradicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧩_why_the_left_looks_scary_during_deradicalisation.md)
         - [`🧪_how_scientists_go_nazi.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧪_how_scientists_go_nazi.md)
+        - [`🧭_respectability_pipelines.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧭_respectability_pipelines.md)
         - [`🧮_behavioural_risk_scoring_and_internet_triage_systems.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧮_behavioural_risk_scoring_and_internet_triage_systems.md)
         - [`🧮_datafication_as_risk_vector.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧮_datafication_as_risk_vector.md)
         - [`🧾_rehabilitation_ops.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧾_rehabilitation_ops.md)
@@ -3758,7 +3759,6 @@ _Generated on 2025-12-19 07:07:31 UTC_
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
-    - [`🧭_respectability_pipelines.md`](Polaris_Nest/Git_Intake_Drawer/🧭_respectability_pipelines.md)
     - [`🧭_signal_alignment.md`](Polaris_Nest/Git_Intake_Drawer/🧭_signal_alignment.md)
     - [`🧭_temporal_flattening_near_disclosure_deadlines.md`](Polaris_Nest/Git_Intake_Drawer/🧭_temporal_flattening_near_disclosure_deadlines.md)
     - [`🧭_the_metadata_fallacy.md`](Polaris_Nest/Git_Intake_Drawer/🧭_the_metadata_fallacy.md)
