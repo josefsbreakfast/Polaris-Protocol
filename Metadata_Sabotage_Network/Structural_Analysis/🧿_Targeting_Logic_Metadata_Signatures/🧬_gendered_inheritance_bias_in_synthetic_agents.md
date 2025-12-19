@@ -1,5 +1,5 @@
 # 🧬 Gendered Inheritance Bias in Synthetic Agents  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-19  
 *How gender-coded traits are algorithmically inherited, exaggerated, or erased when systems generate synthetic centroids or ghost personas.*
 
 ---
@@ -251,3 +251,5 @@ It sets the stage for the next nodes on:
 - **Centroid Collapse**,  
 - **PR Simulation Breakdown**,  
 - **Ethical Centroid Archetype**.
+
+_Last updated: 2025-12-19_
