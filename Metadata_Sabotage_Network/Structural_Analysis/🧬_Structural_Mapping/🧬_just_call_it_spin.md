@@ -1,6 +1,6 @@
 # 🧬 Just Call It Spin  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
-*Tracing the family tree of how data inherited its language — from physics to chemistry, computation, and conversation.*
+**First created:** 2025-11-01 | **Last updated:** 2025-12-19  
+*Tracing the family tree of how data inherited its language — from physics to chemistry, computation, and conversation.*  
 
 ---
 
@@ -139,15 +139,12 @@ spin, recursion, feedback, chemistry, pedagogy, interdisciplinarity, data metaph
 ---
 
 ## 🏮 Footer  
-*Just Call It Spin* is a living node of the Polaris Protocol.  
+*🧬 Just Call It Spin* is a living node of the Polaris Protocol.  
 It traces how scientific and computational language inherits its geometry from shared mathematical roots and demonstrates how that geometry re-emerges in chemistry, culture, and pedagogy.  
 It invites readers to treat translation across disciplines not as simplification but as an act of expansion — a recursive teaching loop that keeps knowledge alive.  
 
 > 📡 Cross-references:  
-> - [🧿 Visual Palette](../Admin_Kit/🧿_visual_palette.md) — emoji registers and constellations  
-> - [🔮 House Style](../Admin_Kit/🔮_house_style.md) — formatting and tone conventions  
-> - [🎛️ Drafting Rules Cluster — Survivor Voice Fidelity](../Admin_Kit/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md) — undertone integrity  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2025-12-19_
