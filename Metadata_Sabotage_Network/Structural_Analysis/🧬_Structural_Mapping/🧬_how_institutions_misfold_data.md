@@ -1,6 +1,6 @@
 # 🧬 How Institutions Misfold Data  
-**First created:** 2025-12-16 | **Last updated:** 2025-12-16  
-*Why organisational systems reliably turn uncertainty into stable harm.*
+**First created:** 2025-12-16 | **Last updated:** 2025-12-19  
+*Why organisational systems reliably turn uncertainty into stable harm.*  
 
 ---
 
@@ -205,11 +205,11 @@ It documents the structural mechanisms by which organisations reliably transform
 
 > 📡 Cross-references:
 > 
-> - [🧬 Data as Protein Folding](./🧬_data_as_protein_folding.md) — structural model  
-> - [🧬 Data Bonding Taxonomy](./🧬_data_bonding_taxonomy.md) — coupling mechanics  
-> - [🧬 Data Denaturation](./🧬_data_denaturation.md) — points of no return  
-> - [🌿 The Maths of Life](./🌿_the_maths_of_life.md) — foundational convergence  
+> - [🧬 Data as Protein Folding] — *structural model*  
+> - [🧬 Data Bonding Taxonomy] — *coupling mechanics*  
+> - [🧬 Data Denaturation] — *points of no return*  
+> - [🌿 The Maths of Life] — *foundational convergence*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-16_
+_Last updated: 2025-12-19_
