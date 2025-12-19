@@ -1,6 +1,6 @@
-# 🧮 **Forensic Transparency Toolkit — Donor & Capital Mapping**  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
-*A civic-tech blueprint for mapping donor holdings, capital flows, sectoral influence, and ideological alignment using only open-data sources.*
+# 🧮 Forensic Transparency Toolkit — Donor & Capital Mapping  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-19  
+*A civic-tech blueprint for mapping donor holdings, capital flows, sectoral influence, and ideological alignment using only open-data sources.*  
 
 ---
 
@@ -72,5 +72,3 @@ This is the raw material — already public, but rarely unified.
 
 ---
 
-### 🧩 3. Proposed Schema  
-Each entry becomes a structured, comparable object:
