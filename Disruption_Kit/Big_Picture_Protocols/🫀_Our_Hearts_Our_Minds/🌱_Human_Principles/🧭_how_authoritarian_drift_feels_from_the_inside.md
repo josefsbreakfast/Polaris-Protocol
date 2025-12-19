@@ -1,8 +1,6 @@
-File: 🧭_how_authoritarian_drift_feels_from_the_inside.md
-
 # 🧭 How Authoritarian Drift Feels From the Inside  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*The lived, emotional, and sensory experience of realising your country is drifting authoritarian — often long before institutions or media acknowledge it.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-19  
+*The lived, emotional, and sensory experience of realising your country is drifting authoritarian — often long before institutions or media acknowledge it.*  
 
 ---
 
@@ -18,13 +16,7 @@ It does not arrive with:
 It arrives as *feelings*:  
 subtle, cumulative, relational, bureaucratic, atmospheric.
 
-This node documents the **interior experience** — the early human signals that something is structurally shifting long before the public narrative catches up.
-
-It belongs to the cluster with:  
-- 🧯 *prevent_as_political_atomisation_engine*  
-- 🧩 *asymmetric_democratic_policing*  
-- 📛 *bureaucratic_memory_failure_and_identity_contamination*  
-- 🧠 *political_black_box_logic*
+This node documents the **interior experience** — the early human signals that something is structurally shifting long before the public narrative catches up.  
 
 ---
 
@@ -204,10 +196,12 @@ Your nervous system is functioning as designed.
 ---
 
 ## 🏮 Footer  
-**How Authoritarian Drift Feels From the Inside** is part of Polaris’ Democratic Drift Phenomenology cluster.  
+*🧭 How Authoritarian Drift Feels From the Inside* is part of Polaris’ Democratic Drift Phenomenology cluster.  
 It validates lived experience as a diagnostic tool and maps the early emotional signatures of a system slipping into authoritarian modes.
 
 Crosslinks:  
 - 🧯 *prevent_as_political_atomisation_engine*  
 - 🧩 *asymmetric_democratic_policing*  
 - 📛 *bureaucratic_memory_failure_and_identity_contamination*
+
+_Last updated: 2025-12-19_
