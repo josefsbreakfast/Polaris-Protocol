@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 02:28:38 UTC_
+_Generated on 2025-12-19 02:31:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1326,6 +1326,7 @@ _Generated on 2025-12-19 02:28:38 UTC_
         - [`🧩_the_recognition_event.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_the_recognition_event.md)
         - [`🧪_the_wall_tester_type.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧪_the_wall_tester_type.md)
         - [`🧫_the_default_on_being_unbroken.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧫_the_default_on_being_unbroken.md)
+        - [`🧬_the_bell_curve_bends.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧬_the_bell_curve_bends.md)
         - [`🧬_therapeutic_resistance_as_acquired_immunity.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧬_therapeutic_resistance_as_acquired_immunity.md)
         - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
         - [`🩺_when_data_harm_becomes_physical_harm_frailty_node.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🩺_when_data_harm_becomes_physical_harm_frailty_node.md)
@@ -3740,7 +3741,6 @@ _Generated on 2025-12-19 02:28:38 UTC_
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_metadata_driven_racism.md`](Polaris_Nest/Git_Intake_Drawer/🧬_metadata_driven_racism.md)
     - [`🧬_monsters_of_the_machine.md`](Polaris_Nest/Git_Intake_Drawer/🧬_monsters_of_the_machine.md)
-    - [`🧬_nonlinear_intelligence_and_asynchrony.md`](Polaris_Nest/Git_Intake_Drawer/🧬_nonlinear_intelligence_and_asynchrony.md)
     - [`🧬_post_digital_data_world.md`](Polaris_Nest/Git_Intake_Drawer/🧬_post_digital_data_world.md)
     - [`🧬_selective_permeability.md`](Polaris_Nest/Git_Intake_Drawer/🧬_selective_permeability.md)
     - [`🧬_structural_vulnerability_why_soft_boys_were_always_the_primary_target.md`](Polaris_Nest/Git_Intake_Drawer/🧬_structural_vulnerability_why_soft_boys_were_always_the_primary_target.md)
