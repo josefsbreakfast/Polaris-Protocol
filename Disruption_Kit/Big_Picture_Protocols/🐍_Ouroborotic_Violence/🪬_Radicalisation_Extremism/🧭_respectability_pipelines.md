@@ -1,6 +1,6 @@
 # 🧭 Respectability Pipelines  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How extremist movements recruit through prestige‑coded, intellectual, and socially respectable pathways.*
+**First created:** 2025-11-22 | **Last updated:** 2025-12-19  
+*How extremist movements recruit through prestige‑coded, intellectual, and socially respectable pathways.*  
 
 ---
 
@@ -83,3 +83,5 @@ respectability pipeline, elite radicalisation, natcon, prestige recruitment, int
 ## 🏮 Footer  
 *🧭 Respectability Pipelines* is a living node of the Polaris Protocol.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-19_
