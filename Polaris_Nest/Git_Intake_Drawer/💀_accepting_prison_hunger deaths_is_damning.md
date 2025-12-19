@@ -1,5 +1,5 @@
 # 💀 Accepting Prison Hunger Deaths Is Damning
-**First created:** 2025-12-17 | **Last updated:** 2025-12-17  
+**First created:** 2025-12-17 | **Last updated:** 2025-12-19  
 *When the state knowingly accepts the risk of death in custody, responsibility is no longer ambiguous.*
 
 ---
@@ -48,9 +48,10 @@ custodial deaths, hunger strike, state duty of care, foreseeable risk, article 2
 It records a red-line governance failure where prevention was possible and refused.
 
 > 📡 Cross-references:
-> - [System Thresholds](../Big_Picture_Protocols/🉑_system_thresholds.md) — red-line escalation logic  
-> - [Our Hearts, Our Minds](../Big_Picture_Protocols/🫀_our_hearts_our_minds.md) — trauma ethics in governance  
+> 
+> - [System Thresholds] — red-line escalation logic  
+> - [Our Hearts, Our Minds] — trauma ethics in governance  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2025-12-19_
