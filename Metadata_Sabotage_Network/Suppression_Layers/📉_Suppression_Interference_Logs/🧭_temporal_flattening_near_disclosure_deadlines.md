@@ -1,5 +1,5 @@
 # 🧭 Temporal Flattening Near Disclosure Deadlines  
-**First created:** 2025-10-27 | **Last updated:** 2025-10-27  
+**First created:** 2025-10-27 | **Last updated:** 2025-12-19  
 *Observing the cognitive and emotional compression that precedes information-release dates (FOIA / SAR / audit responses).*  
 
 ---
@@ -79,11 +79,12 @@ temporal flattening, FOIA cycle, cognitive fatigue, emotional recursion, micro-d
 *🧭 Temporal Flattening Near Disclosure Deadlines* is a living field log of the Polaris Protocol.  
 It captures real-time observations of psychological containment phenomena linked to disclosure timetables and institutional response cycles.  
 
-> 📡 Cross-references:  
-> - [🧠 Psychological Containment](./README.md) — *parent folder*  
-> - [⏳ Delay Scripts Near Deadlines](./⏳_delay_scripts_near_deadlines.md) — *mechanical twin*  
-> - [⏳ Looped Waiting Rooms](./⏳_looped_waiting_rooms.md) — *temporal parallel*  
+> 📡 Cross-references:
+> 
+> - [🧠 Psychological Containment] — *parent folder*  
+> - [⏳ Delay Scripts Near Deadlines] — *mechanical twin*  
+> - [⏳ Looped Waiting Rooms] — *temporal parallel*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-27_
+_Last updated: 2025-12-19_
