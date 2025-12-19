@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 07:11:22 UTC_
+_Generated on 2025-12-19 07:12:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3527,6 +3527,7 @@ _Generated on 2025-12-19 07:11:22 UTC_
       - [`🛰️_seo_as_a_pressure_surface.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🛰️_seo_as_a_pressure_surface.md)
       - [`🧪_r_and_d_as_silent_leakage_corridor.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🧪_r_and_d_as_silent_leakage_corridor.md)
       - [`🧬_echo_script.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🧬_echo_script.md)
+      - [`🧭_temporal_flattening_near_disclosure_deadlines.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🧭_temporal_flattening_near_disclosure_deadlines.md)
       - [`🧰_vendor_r_and_d_as_de_facto_declassification.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🧰_vendor_r_and_d_as_de_facto_declassification.md)
       - [`🪅_platform_safe_zones_and_shadowbans.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🪅_platform_safe_zones_and_shadowbans.md)
       - [`🪞_background_activity_fog.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🪞_background_activity_fog.md)
@@ -3760,7 +3761,6 @@ _Generated on 2025-12-19 07:11:22 UTC_
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
-    - [`🧭_temporal_flattening_near_disclosure_deadlines.md`](Polaris_Nest/Git_Intake_Drawer/🧭_temporal_flattening_near_disclosure_deadlines.md)
     - [`🧭_the_metadata_fallacy.md`](Polaris_Nest/Git_Intake_Drawer/🧭_the_metadata_fallacy.md)
     - [`🧭_think_tank_drift_and_blurred_boundaries.md`](Polaris_Nest/Git_Intake_Drawer/🧭_think_tank_drift_and_blurred_boundaries.md)
     - [`🧭_when_to_enter_the_grey_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧭_when_to_enter_the_grey_zone.md)
