@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-19 06:39:55 UTC_
+_Generated on 2025-12-19 06:41:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -162,6 +162,7 @@ _Generated on 2025-12-19 06:39:55 UTC_
         - [`🧨_the_schmittian_drift_in_exceptional_detention_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_the_schmittian_drift_in_exceptional_detention_governance.md)
         - [`🧩_distributed_executive_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧩_distributed_executive_governance.md)
         - [`🧬_irreversible_limits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_irreversible_limits.md)
+        - [`🧬_keystone_rca.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_keystone_rca.md)
         - [`🧬_recycling_violence_through_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_recycling_violence_through_governance.md)
         - [`🪻_lavender_fields_uk_transplant_legal_overview.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪻_lavender_fields_uk_transplant_legal_overview.md)
       - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/)
@@ -3738,7 +3739,6 @@ _Generated on 2025-12-19 06:39:55 UTC_
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
-    - [`🧬_keystone_rca.md`](Polaris_Nest/Git_Intake_Drawer/🧬_keystone_rca.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_metadata_driven_racism.md`](Polaris_Nest/Git_Intake_Drawer/🧬_metadata_driven_racism.md)
     - [`🧬_monsters_of_the_machine.md`](Polaris_Nest/Git_Intake_Drawer/🧬_monsters_of_the_machine.md)
