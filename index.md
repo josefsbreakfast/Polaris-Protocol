@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 12:25:29 UTC_
+_Generated on 2025-12-20 12:32:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -149,6 +149,7 @@ _Generated on 2025-12-20 12:25:29 UTC_
         - [`🌍_treaty_for_the_english_speaking_internet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌍_treaty_for_the_english_speaking_internet.md)
         - [`🍞_why_food_safety_is_aggressively_regulated.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🍞_why_food_safety_is_aggressively_regulated.md)
         - [`🏛️_consultancy_power_vs_democratic_safeguards.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_consultancy_power_vs_democratic_safeguards.md)
+        - [`🏛️_elite_non_prosecution_undermines_the_rule_of_law.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_elite_non_prosecution_undermines_the_rule_of_law.md)
         - [`🏛️_parliamentary_safeguards.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_parliamentary_safeguards.md)
         - [`🐕_reading_the_dog_whistle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🐕_reading_the_dog_whistle.md)
         - [`📜_duty_to_correct.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_duty_to_correct.md)
