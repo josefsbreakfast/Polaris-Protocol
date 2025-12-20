@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 12:40:20 UTC_
+_Generated on 2025-12-20 12:40:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -154,6 +154,7 @@ _Generated on 2025-12-20 12:40:20 UTC_
         - [`🏛️_consultancy_power_vs_democratic_safeguards.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_consultancy_power_vs_democratic_safeguards.md)
         - [`🏛️_elite_non_prosecution_undermines_the_rule_of_law.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_elite_non_prosecution_undermines_the_rule_of_law.md)
         - [`🏛️_impunity_creates_authoritarian_openings.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_impunity_creates_authoritarian_openings.md)
+        - [`🏛️_optics_are_not_legitimacy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_optics_are_not_legitimacy.md)
         - [`🏛️_parliamentary_safeguards.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_parliamentary_safeguards.md)
         - [`🏛️_reputation_management_is_not_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_reputation_management_is_not_governance.md)
         - [`🏛️_soft_power_dies_in_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_soft_power_dies_in_silence.md)
