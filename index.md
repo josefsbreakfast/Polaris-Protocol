@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 12:39:00 UTC_
+_Generated on 2025-12-20 12:40:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -150,6 +150,7 @@ _Generated on 2025-12-20 12:39:00 UTC_
         - [`🌋_whistleblowers_as_emergency_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌋_whistleblowers_as_emergency_governance.md)
         - [`🌍_treaty_for_the_english_speaking_internet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌍_treaty_for_the_english_speaking_internet.md)
         - [`🍞_why_food_safety_is_aggressively_regulated.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🍞_why_food_safety_is_aggressively_regulated.md)
+        - [`🏛️_a_state_that_cannot_confront_abuse_cannot_protect.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_a_state_that_cannot_confront_abuse_cannot_protect.md)
         - [`🏛️_consultancy_power_vs_democratic_safeguards.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_consultancy_power_vs_democratic_safeguards.md)
         - [`🏛️_elite_non_prosecution_undermines_the_rule_of_law.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_elite_non_prosecution_undermines_the_rule_of_law.md)
         - [`🏛️_impunity_creates_authoritarian_openings.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_impunity_creates_authoritarian_openings.md)
