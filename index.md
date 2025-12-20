@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 08:46:49 UTC_
+_Generated on 2025-12-20 08:47:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3729,6 +3729,7 @@ _Generated on 2025-12-20 08:46:49 UTC_
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`✈️_arresting_justice.md`](Polaris_Nest/Git_Intake_Drawer/✈️_arresting_justice.md)
     - [`✈️_just_arrest_them.md`](Polaris_Nest/Git_Intake_Drawer/✈️_just_arrest_them.md)
+    - [`✈️_justice_forbidden.md`](Polaris_Nest/Git_Intake_Drawer/✈️_justice_forbidden.md)
     - [`✈️_nonce_or_negligence.md`](Polaris_Nest/Git_Intake_Drawer/✈️_nonce_or_negligence.md)
     - [`✈️_the_dragging_out_of_predictable_let_down.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_dragging_out_of_predictable_let_down.md)
     - [`✈️_the_trauma_porn_of_it_all.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_trauma_porn_of_it_all.md)
