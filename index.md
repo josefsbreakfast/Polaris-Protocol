@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 17:16:04 UTC_
+_Generated on 2025-12-20 17:16:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3842,6 +3842,7 @@ _Generated on 2025-12-20 17:16:04 UTC_
     - [`🛰️_crash_constellation_overview.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_crash_constellation_overview.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
     - [`🛰️_field_log_missing_frequencies.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_missing_frequencies.md)
+    - [`🛰️_intelligence_isr_and_vicarious_trauma.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_intelligence_isr_and_vicarious_trauma.md)
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
