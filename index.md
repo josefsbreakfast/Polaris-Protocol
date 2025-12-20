@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 08:52:40 UTC_
+_Generated on 2025-12-20 08:53:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3734,6 +3734,7 @@ _Generated on 2025-12-20 08:52:40 UTC_
     - [`✈️_justice_forbidden.md`](Polaris_Nest/Git_Intake_Drawer/✈️_justice_forbidden.md)
     - [`✈️_nonce_or_negligence.md`](Polaris_Nest/Git_Intake_Drawer/✈️_nonce_or_negligence.md)
     - [`✈️_the_dragging_out_of_predictable_let_down.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_dragging_out_of_predictable_let_down.md)
+    - [`✈️_the_politics_of_redaction.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_politics_of_redaction.md)
     - [`✈️_the_trauma_porn_of_it_all.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_trauma_porn_of_it_all.md)
     - [`✈️_who_wants_these_creeps_in_charge.md`](Polaris_Nest/Git_Intake_Drawer/✈️_who_wants_these_creeps_in_charge.md)
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
