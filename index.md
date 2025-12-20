@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 12:36:00 UTC_
+_Generated on 2025-12-20 12:36:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -182,6 +182,7 @@ _Generated on 2025-12-20 12:36:00 UTC_
         - [`🧬_irreversible_limits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_irreversible_limits.md)
         - [`🧬_keystone_rca.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_keystone_rca.md)
         - [`🧬_recycling_violence_through_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_recycling_violence_through_governance.md)
+        - [`🧬_restorative_and_transformative_justice_where_it_actually_works.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_restorative_and_transformative_justice_where_it_actually_works.md)
         - [`🧬_what_a_csa_system_optimised_for_prevention_looks_like.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_what_a_csa_system_optimised_for_prevention_looks_like.md)
         - [`🪻_lavender_fields_uk_transplant_legal_overview.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪻_lavender_fields_uk_transplant_legal_overview.md)
       - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/)
