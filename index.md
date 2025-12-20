@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 16:29:27 UTC_
+_Generated on 2025-12-20 16:33:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -106,6 +106,7 @@ _Generated on 2025-12-20 16:29:27 UTC_
         - [`⚖️_elbit_systems_uk_legal_structure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_elbit_systems_uk_legal_structure.md)
         - [`⚖️_elite_impunity_is_a_national_security_risk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_elite_impunity_is_a_national_security_risk.md)
         - [`⚖️_harm_reduction_vs_adversarial_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_harm_reduction_vs_adversarial_governance.md)
+        - [`⚖️_how_many_adult_survivors_outlive_prosecution.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_how_many_adult_survivors_outlive_prosecution.md)
         - [`⚖️_how_the_cps_operates.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_how_the_cps_operates.md)
         - [`⚖️_inquiries_are_a_pressure_release_valve.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_inquiries_are_a_pressure_release_valve.md)
         - [`⚖️_institutional_realisation_to_remediation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_institutional_realisation_to_remediation.md)
