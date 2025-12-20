@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 17:08:44 UTC_
+_Generated on 2025-12-20 17:09:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3866,6 +3866,7 @@ _Generated on 2025-12-20 17:08:44 UTC_
     - [`🧬_a_ladder_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧬_a_ladder_of_accountability.md)
     - [`🧬_accountability_is_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧬_accountability_is_infrastructure.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
+    - [`🧬_forensic_psychology_is_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧬_forensic_psychology_is_infrastructure.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
     - [`🧮_algorithms_of_the_wolf.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithms_of_the_wolf.md)
