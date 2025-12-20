@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 12:23:17 UTC_
+_Generated on 2025-12-20 12:23:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -105,6 +105,7 @@ _Generated on 2025-12-20 12:23:17 UTC_
         - [`⚖️_elite_impunity_is_a_national_security_risk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_elite_impunity_is_a_national_security_risk.md)
         - [`⚖️_harm_reduction_vs_adversarial_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_harm_reduction_vs_adversarial_governance.md)
         - [`⚖️_how_the_cps_operates.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_how_the_cps_operates.md)
+        - [`⚖️_inquiries_are_a_pressure_release_valve.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_inquiries_are_a_pressure_release_valve.md)
         - [`⚖️_institutional_realisation_to_remediation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_institutional_realisation_to_remediation.md)
         - [`⚖️_international_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_international_laundering.md)
         - [`⚖️_ipco_audit_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_ipco_audit_cycle.md)
