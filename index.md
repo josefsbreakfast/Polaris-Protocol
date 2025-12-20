@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 12:06:28 UTC_
+_Generated on 2025-12-20 12:18:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -114,6 +114,7 @@ _Generated on 2025-12-20 12:06:28 UTC_
         - [`⚖️_misclassified_data_download.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_misclassified_data_download.md)
         - [`⚖️_monarchical_neutrality_as_structural_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_monarchical_neutrality_as_structural_vulnerability.md)
         - [`⚖️_official_secrets_reform_and_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_official_secrets_reform_and_accountability.md)
+        - [`⚖️_options_for_action_high_access_abusers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_options_for_action_high_access_abusers.md)
         - [`⚖️_paying_for_your_porn_is_good_defence_doctrine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_paying_for_your_porn_is_good_defence_doctrine.md)
         - [`⚖️_presumption_of_innocence_and_the_limits_of_exceptional_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_presumption_of_innocence_and_the_limits_of_exceptional_power.md)
         - [`⚖️_protection_racket_as_system_design.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_protection_racket_as_system_design.md)
