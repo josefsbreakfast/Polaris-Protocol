@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 12:40:58 UTC_
+_Generated on 2025-12-20 12:41:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -156,6 +156,7 @@ _Generated on 2025-12-20 12:40:58 UTC_
         - [`🏛️_impunity_creates_authoritarian_openings.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_impunity_creates_authoritarian_openings.md)
         - [`🏛️_optics_are_not_legitimacy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_optics_are_not_legitimacy.md)
         - [`🏛️_parliamentary_safeguards.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_parliamentary_safeguards.md)
+        - [`🏛️_precedent_is_policy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_precedent_is_policy.md)
         - [`🏛️_reputation_management_is_not_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_reputation_management_is_not_governance.md)
         - [`🏛️_soft_power_dies_in_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_soft_power_dies_in_silence.md)
         - [`🐕_reading_the_dog_whistle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🐕_reading_the_dog_whistle.md)
