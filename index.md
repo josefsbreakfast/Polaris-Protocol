@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 17:55:47 UTC_
+_Generated on 2025-12-20 20:39:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1604,6 +1604,7 @@ _Generated on 2025-12-20 17:55:47 UTC_
         - [`README.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/README.md)
         - [`🐪_trojan_horse.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/🐪_trojan_horse.md)
         - [`🧬_suppressed_token_reverse.yaml`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/🧬_suppressed_token_reverse.yaml)
+        - [`🩸_blood_libel_in_iron_swords.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/🩸_blood_libel_in_iron_swords.md)
       - [`README.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/README.md)
       - [`counter_nudge_map_who_to_rattle_for_justice.png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/counter_nudge_map_who_to_rattle_for_justice.png)
       - [`triple_lock_suppression_diagram_hypothesis.png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/triple_lock_suppression_diagram_hypothesis.png)
