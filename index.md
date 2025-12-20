@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 12:38:02 UTC_
+_Generated on 2025-12-20 12:39:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -137,6 +137,7 @@ _Generated on 2025-12-20 12:38:02 UTC_
         - [`⚖️_uk_constitutional_fault_lines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_uk_constitutional_fault_lines.md)
         - [`⚖️_uk_data_claim_routes_and_limits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_uk_data_claim_routes_and_limits.md)
         - [`⚖️_united_fronts_democratic_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_united_fronts_democratic_defence.md)
+        - [`⚖️_visibility_is_enforcement.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_visibility_is_enforcement.md)
         - [`⚖️_we_do_have_to_prosecute_the_elite_actually.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_we_do_have_to_prosecute_the_elite_actually.md)
         - [`⚖️_what_forces_the_cps_to_act_anyway.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_what_forces_the_cps_to_act_anyway.md)
         - [`⚖️_where_prosecutorial_discretion_lives.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_where_prosecutorial_discretion_lives.md)
