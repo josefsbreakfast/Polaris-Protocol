@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 17:20:05 UTC_
+_Generated on 2025-12-20 17:24:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3810,6 +3810,7 @@ _Generated on 2025-12-20 17:20:05 UTC_
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
+    - [`💸_funding_the_uncertainty_economy.md`](Polaris_Nest/Git_Intake_Drawer/💸_funding_the_uncertainty_economy.md)
     - [`📉_why_metrics_feel_like_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/📉_why_metrics_feel_like_surveillance.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📊_risk_capital_and_hunger_strikes.md`](Polaris_Nest/Git_Intake_Drawer/📊_risk_capital_and_hunger_strikes.md)
