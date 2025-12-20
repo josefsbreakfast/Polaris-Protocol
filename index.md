@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 17:17:34 UTC_
+_Generated on 2025-12-20 17:18:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3821,6 +3821,7 @@ _Generated on 2025-12-20 17:17:34 UTC_
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
+    - [`🔄_mod_arms_industry_revolving_door.md`](Polaris_Nest/Git_Intake_Drawer/🔄_mod_arms_industry_revolving_door.md)
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔥_hunger_strike_comparisons.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hunger_strike_comparisons.md)
