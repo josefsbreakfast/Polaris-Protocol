@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 12:34:08 UTC_
+_Generated on 2025-12-20 12:34:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -174,6 +174,7 @@ _Generated on 2025-12-20 12:34:08 UTC_
         - [`🦮_who_authorises_animal_assisted_ve_interventions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦮_who_authorises_animal_assisted_ve_interventions.md)
         - [`🧠_early_secret_police_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧠_early_secret_police_architecture.md)
         - [`🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md)
+        - [`🧨_if_you_dont_prosecute_you_invite_predators.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_if_you_dont_prosecute_you_invite_predators.md)
         - [`🧨_the_schmittian_drift_in_exceptional_detention_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_the_schmittian_drift_in_exceptional_detention_governance.md)
         - [`🧩_distributed_executive_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧩_distributed_executive_governance.md)
         - [`🧬_irreversible_limits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_irreversible_limits.md)
