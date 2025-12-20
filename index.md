@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 12:54:45 UTC_
+_Generated on 2025-12-20 12:58:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -111,6 +111,7 @@ _Generated on 2025-12-20 12:54:45 UTC_
         - [`⚖️_international_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_international_laundering.md)
         - [`⚖️_ipco_audit_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_ipco_audit_cycle.md)
         - [`⚖️_judicial_deference.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_judicial_deference.md)
+        - [`⚖️_judicial_reviews_parliamentary_committees_and_procedural_delay.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_judicial_reviews_parliamentary_committees_and_procedural_delay.md)
         - [`⚖️_judicial_scrutiny_of_delay_over_substance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_judicial_scrutiny_of_delay_over_substance.md)
         - [`⚖️_lawful_conscience_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_lawful_conscience_protocol.md)
         - [`⚖️_legal_frameworks_remits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_legal_frameworks_remits.md)
