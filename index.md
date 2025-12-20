@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 20:39:31 UTC_
+_Generated on 2025-12-20 21:36:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4203,6 +4203,7 @@ _Generated on 2025-12-20 20:39:31 UTC_
       - [`🕹️_sims_god_adversary_archetype.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/🕹️_sims_god_adversary_archetype.md)
     - [**🪦_Haunting_Ghosts/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪦_Haunting_Ghosts/)
       - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪦_Haunting_Ghosts/README.md)
+      - [`🏴_forever_antifascist.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪦_Haunting_Ghosts/🏴_forever_antifascist.md)
     - [**🪹_Network_Ghosts/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪹_Network_Ghosts/)
       - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪹_Network_Ghosts/README.md)
       - [`🪞_audience_ambiguity_and_the_black_goat_problem.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪹_Network_Ghosts/🪞_audience_ambiguity_and_the_black_goat_problem.md)
