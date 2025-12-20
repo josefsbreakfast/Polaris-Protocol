@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 17:10:49 UTC_
+_Generated on 2025-12-20 17:11:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3853,6 +3853,7 @@ _Generated on 2025-12-20 17:10:49 UTC_
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧠_fear_moves_when_justice_fails.md`](Polaris_Nest/Git_Intake_Drawer/🧠_fear_moves_when_justice_fails.md)
     - [`🧠_hypervigilance_is_a_governance_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧠_hypervigilance_is_a_governance_failure.md)
+    - [`🧠_institutions_confuse_calm_with_safety.md`](Polaris_Nest/Git_Intake_Drawer/🧠_institutions_confuse_calm_with_safety.md)
     - [`🧠_why_people_downplay_elite_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧠_why_people_downplay_elite_abuse.md)
     - [`🧨_institutional_gaslighting.md`](Polaris_Nest/Git_Intake_Drawer/🧨_institutional_gaslighting.md)
     - [`🧨_legal_gaslighting.md`](Polaris_Nest/Git_Intake_Drawer/🧨_legal_gaslighting.md)
