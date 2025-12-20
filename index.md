@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 17:07:59 UTC_
+_Generated on 2025-12-20 17:08:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3863,6 +3863,7 @@ _Generated on 2025-12-20 17:07:59 UTC_
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
+    - [`🧬_a_ladder_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧬_a_ladder_of_accountability.md)
     - [`🧬_accountability_is_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧬_accountability_is_infrastructure.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
