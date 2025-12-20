@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 12:41:35 UTC_
+_Generated on 2025-12-20 12:53:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -179,6 +179,7 @@ _Generated on 2025-12-20 12:41:35 UTC_
         - [`🦮_who_authorises_animal_assisted_ve_interventions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦮_who_authorises_animal_assisted_ve_interventions.md)
         - [`🧠_early_secret_police_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧠_early_secret_police_architecture.md)
         - [`🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md)
+        - [`🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md)
         - [`🧨_if_you_dont_prosecute_you_invite_predators.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_if_you_dont_prosecute_you_invite_predators.md)
         - [`🧨_the_public_can_handle_the_truth.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_the_public_can_handle_the_truth.md)
         - [`🧨_the_schmittian_drift_in_exceptional_detention_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_the_schmittian_drift_in_exceptional_detention_governance.md)
