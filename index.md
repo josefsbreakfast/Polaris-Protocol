@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 17:19:05 UTC_
+_Generated on 2025-12-20 17:19:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3824,6 +3824,7 @@ _Generated on 2025-12-20 17:19:05 UTC_
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
     - [`🔄_mod_arms_industry_revolving_door.md`](Polaris_Nest/Git_Intake_Drawer/🔄_mod_arms_industry_revolving_door.md)
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
+    - [`🔕_internal_dissent_and_closing_of_recourse_uk_and_israel.md`](Polaris_Nest/Git_Intake_Drawer/🔕_internal_dissent_and_closing_of_recourse_uk_and_israel.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔥_hunger_strike_comparisons.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hunger_strike_comparisons.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
