@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 12:33:38 UTC_
+_Generated on 2025-12-20 12:34:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -153,6 +153,7 @@ _Generated on 2025-12-20 12:33:38 UTC_
         - [`🏛️_impunity_creates_authoritarian_openings.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_impunity_creates_authoritarian_openings.md)
         - [`🏛️_parliamentary_safeguards.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_parliamentary_safeguards.md)
         - [`🏛️_reputation_management_is_not_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_reputation_management_is_not_governance.md)
+        - [`🏛️_soft_power_dies_in_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_soft_power_dies_in_silence.md)
         - [`🐕_reading_the_dog_whistle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🐕_reading_the_dog_whistle.md)
         - [`📜_duty_to_correct.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_duty_to_correct.md)
         - [`📜_from_survivor_code_to_research_ethics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_from_survivor_code_to_research_ethics.md)
