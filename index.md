@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 16:26:25 UTC_
+_Generated on 2025-12-20 16:29:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -96,6 +96,7 @@ _Generated on 2025-12-20 16:26:25 UTC_
         - [`⏳_governance_latency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⏳_governance_latency.md)
         - [`⏳_hinge_point_when_delay_becomes_liability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⏳_hinge_point_when_delay_becomes_liability.md)
         - [`⚖️_authorisation_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_authorisation_and_oversight.md)
+        - [`⚖️_cluedo_certainty_vs_court_certainty.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_cluedo_certainty_vs_court_certainty.md)
         - [`⚖️_compliance_as_opacity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_compliance_as_opacity.md)
         - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md)
         - [`⚖️_courts_as_sites_of_harm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_courts_as_sites_of_harm.md)
