@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 11:28:55 UTC_
+_Generated on 2025-12-20 11:29:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -132,6 +132,7 @@ _Generated on 2025-12-20 11:28:55 UTC_
         - [`⚖️_united_fronts_democratic_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_united_fronts_democratic_defence.md)
         - [`⚖️_we_do_have_to_prosecute_the_elite_actually.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_we_do_have_to_prosecute_the_elite_actually.md)
         - [`⚖️_where_prosecutorial_discretion_lives.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_where_prosecutorial_discretion_lives.md)
+        - [`⚖️_why_inquiries_replace_prosecutions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_why_inquiries_replace_prosecutions.md)
         - [`⚖️_why_the_death_penalty_makes_no_sense_for_the_united_kingdom.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_why_the_death_penalty_makes_no_sense_for_the_united_kingdom.md)
         - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_wrong_people_in_power.md)
         - [`⚠️_the_erosion_of_duty_of_care_under_exception_logic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚠️_the_erosion_of_duty_of_care_under_exception_logic.md)
