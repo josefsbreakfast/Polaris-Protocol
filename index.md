@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 17:09:46 UTC_
+_Generated on 2025-12-20 17:10:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3851,6 +3851,7 @@ _Generated on 2025-12-20 17:09:46 UTC_
     - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
+    - [`🧠_fear_moves_when_justice_fails.md`](Polaris_Nest/Git_Intake_Drawer/🧠_fear_moves_when_justice_fails.md)
     - [`🧠_hypervigilance_is_a_governance_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧠_hypervigilance_is_a_governance_failure.md)
     - [`🧨_institutional_gaslighting.md`](Polaris_Nest/Git_Intake_Drawer/🧨_institutional_gaslighting.md)
     - [`🧨_legal_gaslighting.md`](Polaris_Nest/Git_Intake_Drawer/🧨_legal_gaslighting.md)
