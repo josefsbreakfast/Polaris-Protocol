@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 08:31:40 UTC_
+_Generated on 2025-12-20 08:32:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3810,6 +3810,7 @@ _Generated on 2025-12-20 08:31:40 UTC_
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧨_institutional_gaslighting.md`](Polaris_Nest/Git_Intake_Drawer/🧨_institutional_gaslighting.md)
     - [`🧨_legal_gaslighting.md`](Polaris_Nest/Git_Intake_Drawer/🧨_legal_gaslighting.md)
+    - [`🧨_perfectly_legal_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧨_perfectly_legal_abuse.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
