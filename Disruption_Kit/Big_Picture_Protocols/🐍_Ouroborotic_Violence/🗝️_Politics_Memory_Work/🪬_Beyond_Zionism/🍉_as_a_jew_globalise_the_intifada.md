@@ -1,6 +1,6 @@
-# 🍉 As a Jew: “Globalise the Intifada”
-**First created:** 2025-12-17 | **Last updated:** 2025-12-17  
-*A Jewish, UK-based analysis of how political rhetoric misuses antisemitism frameworks, collapses Jewish plurality, and heightens risk for racialised groups.*
+# 🍉 As a Jew: “Globalise the Intifada”  
+**First created:** 2025-12-17 | **Last updated:** 2025-12-21  
+*A Jewish, UK-based analysis of how political rhetoric misuses antisemitism frameworks, collapses Jewish plurality, and heightens risk for racialised groups.*  
 
 ---
 
@@ -10,7 +10,7 @@ It responds as a British Jewish perspective grounded in historical literacy, PSE
 
 ---
 
-## ✨ Key Claims (Summary)
+## ✨ Key Claims  
 
 - Jewish communities are **not monolithic**, and foreign state assessments do not represent Jewish sentiment in the UK.
 - Treating Palestinian liberation language as inherently antisemitic is **historically inaccurate** and politically instrumental.
@@ -34,7 +34,7 @@ To treat the term itself as violent or antisemitic is a **selective historical r
 
 ---
 
-## ⚖️ PSED: Who Is Actually Being Considered?
+## ⚖️ PSED: Who Is Actually Being Considered?  
 
 Public Sector Equality Duty requires *due regard* to **all affected groups**, including:
 
@@ -113,11 +113,11 @@ Under pressure, racist tropes reshuffle rather than disappear:
 None of this protects Jews.  
 It **heightens inter-community risk and resentment**.  
 
-## 🦚 IHRA Misapplication, Ally Erasure, and the Pressure to Visibly Authenticate Jewishness
+## 🦚 IHRA Misapplication, Ally Erasure, and the Pressure to Visibly Authenticate Jewishness  
 
 Recent police operational decisions — particularly the claim that chanting *“globalise the intifada”* is arrestable because “the context has changed” — reveal a **structurally antisemitic interpretation of the IHRA working definition**, rather than a faithful application of it.
 
-## 🐍 IHRA Inversion: Protection Recast as Pathology
+## 🐍 IHRA Inversion: Protection Recast as Pathology  
 
 The operational logic appears to assume that:
 - Jewish people form a single emotional bloc;
@@ -130,7 +130,7 @@ That is an antisemitic move, even when framed as concern.
 
 ---
 
-## 🪼 “Changed Context” and the Misattribution of Risk
+## 🪼 “Changed Context” and the Misattribution of Risk  
 
 The invocation of external violence (e.g. the Bondi Beach attack) as justification for suppressing UK-based Palestinian protest relies on an implied chain:
 
@@ -144,7 +144,7 @@ Historically, this is precisely how backlash forms.
 
 ---
 
-## 🫥 Ally Erasure and the Betrayal of Community Cohesion
+## 🫥 Ally Erasure and the Betrayal of Community Cohesion  
 
 This logic also erases real acts of solidarity.
 
@@ -159,7 +159,7 @@ This directly undermines **community cohesion**, violating the third limb of PSE
 
 ---
 
-## ✡️ Visibility Pressure and the Quiet Return of Authentication
+## ✡️ Visibility Pressure and the Quiet Return of Authentication  
 
 The cumulative effect of this discourse has produced a subtler, but deeply troubling pressure: the push for Jews to **visibly authenticate their identity** in order to be understood.
 
@@ -174,7 +174,7 @@ That is not a healthy civic environment.
 
 ---
 
-## 🧿 What This Reveals
+## 🧿 What This Reveals  
 
 Taken together, these patterns show that:
 - IHRA is being operationalised in a way that **reproduces antisemitic assumptions**;
@@ -214,10 +214,11 @@ antisemitism, intifada, ihra, pseg, dual loyalty, jewish plurality, islamophobia
 It documents a survivor-led, historically grounded intervention into contemporary misuse of antisemitism frameworks.
 
 > 📡 Cross-references:
-> - [🈺 Governance and Prevent](../Big_Picture_Protocols/🈺_governance_and_prevent.md) — risk and compliance logic  
-> - [🫀 Our Hearts, Our Minds](../Big_Picture_Protocols/🫀_our_hearts_our_minds.md) — trauma-aware governance  
-> - [🪆 Narrative Interference](../Metadata_Sabotage_Network/🎭_narrative_interference.md) — framing mechanics  
+> 
+> - [🈺 Governance and Prevent] — *risk and compliance logic*  
+> - [🫀 Our Hearts, Our Minds] — *trauma-aware governance*  
+> - [🪆 Narrative Interference] — *framing mechanics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2025-12-21_
