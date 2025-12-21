@@ -1,6 +1,6 @@
-# 📉 Why Metrics Feel Like Surveillance
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*How measurement systems trigger threat perception without observing subjects*
+# 📉 Why Metrics Feel Like Surveillance  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+*How measurement systems trigger threat perception without observing subjects.*  
 
 ---
 
@@ -135,15 +135,15 @@ measurement systems, bots, repetition, threat interpretation
 
 ## 🏮 Footer
 
-Why Metrics Feel Like Surveillance is a living node of the **Polaris Protocol**.
+*Why Metrics Feel Like Surveillance* is a living node of the **Polaris Protocol**.
 It documents how abstract measurement systems can trigger sensations of
 observation or scrutiny without observing subjects.
 
 > 📡 Cross-references:
 >
-> - [📊 Who Is Actually Reading This](./📊_who_is_actually_reading_this.md) — audience misinterpretation  
-> - [🕳️ Ambient Threat Simulation](./🕳️_ambient_threat_simulation.md) — threat sensation without agency  
+> - [📊 Who Is Actually Reading This] — *audience misinterpretation*  
+> - [🕳️ Ambient Threat Simulation] — *threat sensation without agency*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-21_
