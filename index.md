@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:39:19 UTC_
+_Generated on 2025-12-21 02:41:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -170,6 +170,7 @@ _Generated on 2025-12-21 02:39:19 UTC_
         - [`🐕_reading_the_dog_whistle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🐕_reading_the_dog_whistle.md)
         - [`💀_accepting_prison_hunger_deaths_is_damning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/💀_accepting_prison_hunger_deaths_is_damning.md)
         - [`💀_prison_deaths_look_bad_at_the_icj.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/💀_prison_deaths_look_bad_at_the_icj.md)
+        - [`📊_risk_capital_and_hunger_strikes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📊_risk_capital_and_hunger_strikes.md)
         - [`📜_duty_to_correct.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_duty_to_correct.md)
         - [`📜_from_survivor_code_to_research_ethics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_from_survivor_code_to_research_ethics.md)
         - [`📜_harm_assessment_protocols.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_harm_assessment_protocols.md)
@@ -3816,7 +3817,6 @@ _Generated on 2025-12-21 02:39:19 UTC_
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
-    - [`📊_risk_capital_and_hunger_strikes.md`](Polaris_Nest/Git_Intake_Drawer/📊_risk_capital_and_hunger_strikes.md)
     - [`📊_who_is_actually_reading_this.md`](Polaris_Nest/Git_Intake_Drawer/📊_who_is_actually_reading_this.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📡_algorithmic_violence_ecology.md`](Polaris_Nest/Git_Intake_Drawer/📡_algorithmic_violence_ecology.md)
