@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:26:25 UTC_
+_Generated on 2025-12-21 02:28:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -168,6 +168,7 @@ _Generated on 2025-12-21 02:26:25 UTC_
         - [`🏛️_reputation_management_is_not_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_reputation_management_is_not_governance.md)
         - [`🏛️_soft_power_dies_in_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_soft_power_dies_in_silence.md)
         - [`🐕_reading_the_dog_whistle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🐕_reading_the_dog_whistle.md)
+        - [`💀_accepting_prison_hunger_deaths_is_damning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/💀_accepting_prison_hunger_deaths_is_damning.md)
         - [`📜_duty_to_correct.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_duty_to_correct.md)
         - [`📜_from_survivor_code_to_research_ethics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_from_survivor_code_to_research_ethics.md)
         - [`📜_harm_assessment_protocols.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_harm_assessment_protocols.md)
@@ -3806,7 +3807,6 @@ _Generated on 2025-12-21 02:26:25 UTC_
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
     - [`👈_nudges_for_grudges.md`](Polaris_Nest/Git_Intake_Drawer/👈_nudges_for_grudges.md)
-    - [`💀_accepting_prison_hunger deaths_is_damning.md`](Polaris_Nest/Git_Intake_Drawer/💀_accepting_prison_hunger deaths_is_damning.md)
     - [`💀_prison_deaths_look_bad_at_icj.md`](Polaris_Nest/Git_Intake_Drawer/💀_prison_deaths_look_bad_at_icj.md)
     - [`💇‍♀️_the_dumb_blonde_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💇‍♀️_the_dumb_blonde_protocol.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
