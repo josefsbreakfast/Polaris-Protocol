@@ -1,6 +1,6 @@
-# 💀 Accepting Prison Hunger Deaths Is Damning
-**First created:** 2025-12-17 | **Last updated:** 2025-12-19  
-*When the state knowingly accepts the risk of death in custody, responsibility is no longer ambiguous.*
+# 💀 Accepting Prison Hunger Deaths Is Damning  
+**First created:** 2025-12-17 | **Last updated:** 2025-12-21  
+*When the state knowingly accepts the risk of death in custody, responsibility is no longer ambiguous.*  
 
 ---
 
@@ -9,23 +9,23 @@ This node documents a specific governance failure pattern: **conscious acceptanc
 
 ---
 
-## 🧿 Analysis  
-
-### Foreseeability Ends Ambiguity  
+## 🧿 Foreseeability Ends Ambiguity  
 Once medical professionals advise escalation and the risk of death is known, uncertainty collapses. From that point onward, continued inaction is not delay — it is choice.
 
 Hunger strikes in custody are not private acts. They occur within a total-care environment where the state controls food access, medical access, isolation, and emergency response. The detainee’s agency is constrained; the state’s duty is elevated.
 
-### Risk Acceptance as Governance  
+# 🧨 Risk Acceptance as Governance  
 Institutions rarely say “let them die.” Instead, they:
 - Reframe protest as self-harm  
 - Elevate security over clinical authority  
 - Block or delay external medical transfer  
 - Disperse responsibility across agencies  
 
-This produces a stable outcome: **death becomes an acceptable externality** rather than an explicit aim.
+This produces a stable outcome: **death becomes an acceptable externality** rather than an explicit aim.  
 
-### Why This Is Damning  
+This is the antithesis of Britian's supposed moral and Christian values.  
+
+## 🩻 Why This Is Damning  
 At this point, liability is no longer speculative. The state has:
 - Knowledge  
 - Capacity to intervene  
@@ -44,14 +44,14 @@ custodial deaths, hunger strike, state duty of care, foreseeable risk, article 2
 ---
 
 ## 🏮 Footer  
-*Accepting Prison Hunger Deaths Is Damning* is a living node of the Polaris Protocol.  
+*💀 Accepting Prison Hunger Deaths Is Damning* is a living node of the Polaris Protocol.  
 It records a red-line governance failure where prevention was possible and refused.
 
 > 📡 Cross-references:
 > 
-> - [System Thresholds] — red-line escalation logic  
-> - [Our Hearts, Our Minds] — trauma ethics in governance  
+> - [System Thresholds] — *red-line escalation logic*  
+> - [Our Hearts, Our Minds] — *trauma ethics in governance*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-19_
+_Last updated: 2025-12-21_
