@@ -25,7 +25,7 @@ These realities are not mutually exclusive.
 
 Large-scale philanthropy operates across:
 - universities and research institutions,
-- cultural organisations,
+- cultural and heritage organisations,
 - NGOs and foundations,
 - policy-adjacent bodies,
 - and elite social networks.
@@ -46,44 +46,106 @@ Philanthropy is frequently encouraged as part of:
 - crisis response,
 - or legacy construction.
 
-This does not negate the value of the funded work.
-It **does** change the context in which giving occurs.
+This does not negate the value of funded work.
+It **does** alter the strategic context in which giving occurs.
 
-Timing, framing, and promotion matter.
-
----
-
-## Explicit and Implicit Strings
-
-Not all influence is contractual.
-
-Philanthropic influence may arise through:
-- gratitude,
-- dependency,
-- prestige association,
-- donor proximity to leadership,
-- or fear of withdrawal.
-
-Institutions may self-censor or soften positions without being asked.
-
-Absence of a written condition does not equal absence of effect.
+Timing, framing, and promotional emphasis matter.
 
 ---
 
-## Philanthropy and Institutional Silence
+## Intermediaries and Insulation
 
-Where institutions:
-- rely on major gifts,
-- benefit reputationally from association,
-- or fear donor loss,
+Controversial money rarely moves directly.
 
-they may be less inclined to:
-- raise concerns,
-- escalate safeguarding issues,
-- cooperate fully with scrutiny,
-- or revisit past decisions.
+It is often routed through:
+- intermediaries,
+- business vehicles,
+- trusts and foundations,
+- or donor-advised funds.
 
-Silence can be structural rather than conspiratorial.
+This layering:
+- diffuses responsibility,
+- complicates attribution,
+- and increases plausible deniability.
+
+Mapping must follow structures, not names.
+
+---
+
+## Vulnerable Institutions as Silence Targets
+
+Money with the least insulation is often placed in:
+- financially precarious institutions,
+- reputationally sensitive organisations,
+- or entities dependent on donor continuity.
+
+The reputational damage of disclosure:
+- disproportionately harms these institutions,
+- creating strong incentives for silence.
+
+This can buy quiet without explicit coercion.
+
+---
+
+## Single-Point Versus Systemic Failure
+
+Discovery of a single compromised institution does not resolve systemic questions.
+
+It may reflect:
+- isolated governance failure,
+- diffuse pressure across multiple nodes,
+- or sector-wide vulnerability.
+
+Treating one institution as “the problem” risks obscuring:
+- upstream incentives,
+- intermediary roles,
+- and broader patterns of influence.
+
+---
+
+## Diversion Through Partial Disclosure
+
+Public focus on:
+- small donations,
+- marginal institutions,
+- or symbolic targets
+
+can function as diversion.
+
+This does not mean such disclosures are irrelevant.
+It means they should be **used strategically**, not exhaustively.
+
+Attention is finite.
+It should be spent where it produces leverage.
+
+---
+
+## Survivor-Led Prioritisation
+
+Survivors are best placed to articulate what justice means to them.
+
+If survivors:
+- de-emphasise minor donations,
+- resist fixation on small actors,
+- or call for systemic accountability,
+
+those priorities should guide focus.
+
+Symbolic victories should not replace substantive justice.
+
+---
+
+## Using Small Disclosures Effectively
+
+Small or awkward disclosures can be valuable when used to:
+- demonstrate governance weakness,
+- establish patterns of silence,
+- justify broader inquiry,
+- or apply pressure to larger actors.
+
+They are entry points, not endpoints.
+
+Exposure without strategy wastes leverage.
 
 ---
 
@@ -115,79 +177,43 @@ This evaluates **process**, not motive.
 
 ---
 
-## When Gifts Are Publicly Known
+## When Gifts Are Known
 
-If a gift is already known or reported:
+If a gift is publicly reported:
 - institutions can be asked to disclose records relating to
   - acceptance procedures,
   - governance review,
   - safeguarding considerations,
   - and policy compliance.
 
-FOI responses reveal:
-- record quality,
-- policy consistency,
-- and institutional confidence.
+Responses reveal:
+- consistency,
+- clarity,
+- and confidence.
 
 ---
 
-## When Gifts Are Not Known
+## When Gifts Are Unknown
 
 If it is unclear whether gifts exist:
 - FOI requests may seek
   - donation registers,
   - gift acceptance logs,
   - or disclosure policies
-within defined time periods.
+within defined periods.
 
-Responses often indicate:
-- comfort,
-- hesitation,
-- or avoidance.
-
-Avoidance is informative even without confirmation.
+Reluctance to disclose is itself informative.
 
 ---
 
-## Interpreting Institutional Discomfort
+## Protecting Legitimate Institutions
 
-Discomfort may appear as:
-- refusal to disclose non-exempt information,
-- excessive or inconsistent redaction,
-- vague policy references,
-- or shifting justifications.
+Clear, careful audit practice:
+- protects institutions acting in good faith,
+- avoids scapegoating,
+- and distinguishes coercion from complicity.
 
-This does not prove wrongdoing.
-It signals **governance stress**.
-
-Governance stress is auditable.
-
----
-
-## Disclosure Versus Reputation
-
-Institutions may be comfortable with philanthropy in principle but uncomfortable with:
-- public scrutiny,
-- retrospective review,
-- or reputational association.
-
-That distinction matters.
-
-Reluctance to disclose often reflects risk management — and risk management itself is subject to oversight.
-
----
-
-## No Requirement to Prove Harm
-
-Auditing philanthropy does not require:
-- alleging misconduct,
-- proving improper influence,
-- or demonstrating harm occurred.
-
-The procedural question is sufficient:
-- *Are governance systems operating as claimed?*
-
-Failure to demonstrate this justifies further scrutiny.
+The goal is accountability, not collateral damage.
 
 ---
 
@@ -200,22 +226,11 @@ Philanthropic relationships should be mapped alongside:
 - and governance roles.
 
 This reveals:
-- overlap of influence,
-- concentration of access,
-- and potential incentive alignment.
+- concentration of influence,
+- pressure points,
+- and systemic vulnerabilities.
 
 Mapping asks about **structure**, not virtue.
-
----
-
-## Protecting Legitimate Philanthropy
-
-Clear, consistent audit practices:
-- protect institutions acting in good faith,
-- reduce suspicion through transparency,
-- and distinguish genuine independence from capture.
-
-Good faith benefits from clarity.
 
 ---
 
@@ -223,8 +238,9 @@ Good faith benefits from clarity.
 
 Philanthropy can heal.
 It can also shield.
+It can also be used to buy quiet where institutions are most fragile.
 
-Including it in power mapping and procedural audit reduces blind spots without presuming intent.
+Understanding where money sits — and why — allows accountability to move upstream, where it belongs.
 
 Transparency is not hostility.
 It is democratic hygiene.
