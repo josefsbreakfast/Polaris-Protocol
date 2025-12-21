@@ -1,6 +1,6 @@
-# 🍉 Why Peacetime vs Wartime Matters For Democracy
-**First created:** 2025-12-18 | **Last updated:** 2025-12-18  
-*Why legal posture, not narrative intensity, determines the boundaries of democratic action.*
+# 🍉 Why Peacetime vs Wartime Matters For Democracy  
+**First created:** 2025-12-18 | **Last updated:** 2025-12-21  
+*Why legal posture, not narrative intensity, determines the boundaries of democratic action.*  
 
 ---
 
@@ -138,10 +138,11 @@ peacetime law, wartime posture, democracy, information war, genocide framing, ci
 It exists to defend democratic clarity when narrative intensity threatens to outrun the law.
 
 > 📡 Cross-references:
-> - **🪼 Who Is Acting?** — attribution and authority under fog  
-> - **🧠 Big Picture Protocols** — systems-level governance analysis  
-> - **🔥 Data Risks** — lifecycle and democratic harms  
+> 
+> - [🪼 Who Is Acting?] — *attribution and authority under fog*  
+> - [🧠 Big Picture Protocols] — *systems-level governance analysis*  
+> - [🔥 Data Risks] — *lifecycle and democratic harms*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-18_
+_Last updated: 2025-12-21_
