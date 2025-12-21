@@ -1,6 +1,6 @@
-# 🚗 When allies should take the keys
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Why allyship increases duty to intervene — and how non-intervention entrenches harm.*
+# 🚗 When allies should take the keys  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+*Why allyship increases duty to intervene — and how non-intervention entrenches harm.*  
 
 ---
 
@@ -138,10 +138,10 @@ It exists to clarify that restraint is not abandonment, and that timely boundary
 
 > 📡 Cross-references:
 >
-> - [🧬 Distributed complicity in modern warfare](./🧬_distributed_complicity_in_modern_warfare.md) — *how enabling chains operate*
-> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *where keys were not taken*
-> - [🏛️ Ministerial authority and collapse of lawful refusal](./🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *why downstream actors couldn’t intervene*
+> - [🧬 Distributed complicity in modern warfare] — *how enabling chains operate*
+> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)] — *where keys were not taken*
+> - [🏛️ Ministerial authority and collapse of lawful refusal] — *why downstream actors couldn’t intervene*
 >
 > *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-21_
