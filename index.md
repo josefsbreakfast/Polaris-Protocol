@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 03:04:36 UTC_
+_Generated on 2025-12-21 03:06:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3301,6 +3301,7 @@ _Generated on 2025-12-21 03:04:36 UTC_
       - [`🔥_the_beta_brothers.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🔥_the_beta_brothers.md)
       - [`🕯️_hope_withholding.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕯️_hope_withholding.md)
       - [`🕯️_shabbat_exemption_inversion.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕯️_shabbat_exemption_inversion.md)
+      - [`🕳️_ambient_threat_simulation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕳️_ambient_threat_simulation.md)
       - [`🗺️_the_emotional_cartography_of_radicalisation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🗺️_the_emotional_cartography_of_radicalisation.md)
       - [`😴_cognitive_load_as_infrastructure.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md)
       - [`😴_exhaustion_as_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_exhaustion_as_containment.md)
@@ -3833,7 +3834,6 @@ _Generated on 2025-12-21 03:04:36 UTC_
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
-    - [`🕳️_ambient_threat_simulation.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_ambient_threat_simulation.md)
     - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
     - [`🗄️_data_shadows_and_identity_residue.md`](Polaris_Nest/Git_Intake_Drawer/🗄️_data_shadows_and_identity_residue.md)
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
