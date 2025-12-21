@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:30:35 UTC_
+_Generated on 2025-12-21 02:33:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -425,6 +425,7 @@ _Generated on 2025-12-21 02:30:35 UTC_
         - [`🏛️_respectability_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🏛️_respectability_laundering.md)
         - [`🐐_old_school_scapegoating.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🐐_old_school_scapegoating.md)
         - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👁️_panopticon_as_industry.md)
+        - [`💄_the_dumb_blonde_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💄_the_dumb_blonde_protocol.md)
         - [`💣_trident_as_modern_kraken_security_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💣_trident_as_modern_kraken_security_theatre.md)
         - [`💥_reputational_insurance_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💥_reputational_insurance_collapse.md)
         - [`💼_narrative_capture_and_linguistic_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💼_narrative_capture_and_linguistic_power.md)
@@ -3808,7 +3809,6 @@ _Generated on 2025-12-21 02:30:35 UTC_
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
     - [`👈_nudges_for_grudges.md`](Polaris_Nest/Git_Intake_Drawer/👈_nudges_for_grudges.md)
-    - [`💇‍♀️_the_dumb_blonde_protocol.md`](Polaris_Nest/Git_Intake_Drawer/💇‍♀️_the_dumb_blonde_protocol.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
