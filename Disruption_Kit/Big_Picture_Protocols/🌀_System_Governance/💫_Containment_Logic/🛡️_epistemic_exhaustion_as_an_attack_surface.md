@@ -1,21 +1,21 @@
 # 🛡️ Epistemic Exhaustion as an Attack Surface  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*How population-level burnout collapses verification capacity and becomes a low-cost national security vulnerability.*
+**First created:** 2025-12-14 | **Last updated:** 2025-12-21  
+*How population-level burnout collapses verification capacity and becomes a low-cost national security vulnerability.*  
 
 ---
 
-## 🛰️ Orientation
+## 🛰️ Orientation  
 
-This node reframes **cognitive exhaustion** as a security condition.
+This node reframes **cognitive exhaustion** as a security condition.  
 
-In overclocked societies, attention, verification, and scepticism are no longer abundant resources. They are depleted. When this happens at population scale, exhaustion itself becomes an **attack surface** — one that adversaries can exploit without breaching hardened systems.
+In overclocked societies, attention, verification, and scepticism are no longer abundant resources. They are depleted. When this happens at population scale, exhaustion itself becomes an **attack surface** — one that adversaries can exploit without breaching hardened systems.  
 
 This is not a failure of software.  
-It is a failure of *human verification capacity* under sustained load.
+It is a failure of *human verification capacity* under sustained load.  
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features  
 
 - Burnout as a national security risk, not a wellness issue  
 - Verification collapse as the primary failure mode  
@@ -25,11 +25,7 @@ It is a failure of *human verification capacity* under sustained load.
 
 ---
 
-## 🧿 Analysis / Content
-
----
-
-### 1. **From Cybersecurity to Epistemic Security**
+## From Cybersecurity to Epistemic Security  
 
 Traditional security models assume:
 - alert operators  
@@ -48,7 +44,7 @@ This marks a shift from *technical compromise* to *cognitive compromise*.
 
 ---
 
-### 2. **Burnout as a Strategic Weakness**
+## Burnout as a Strategic Weakness  
 
 Burnout degrades exactly the faculties security depends on:
 
@@ -68,7 +64,7 @@ An exhausted population is not inattentive — it is **structurally unable to ca
 
 ---
 
-### 3. **Verification Collapse**
+## Verification Collapse  
 
 Verification is labour.
 
@@ -88,7 +84,7 @@ Things simply drift — unnoticed, unchallenged, uncorrected.
 
 ---
 
-### 4. **Low-Cost Adversarial Exploitation**
+## Low-Cost Adversarial Exploitation  
 
 In epistemically exhausted environments, adversaries do not need:
 
@@ -114,7 +110,7 @@ It is **opportunistic infection**.
 
 ---
 
-### 5. **Why LLMs Intensify the Risk**
+## Why LLMs Intensify the Risk  
 
 LLMs do not create epistemic exhaustion.  
 They **scale its consequences**.
@@ -133,7 +129,7 @@ The system fails quietly — which is exactly what makes it dangerous.
 
 ---
 
-### 6. **Imperial-Core Exposure**
+## Imperial-Core Exposure  
 
 This attack surface is not evenly distributed.
 
@@ -166,10 +162,11 @@ epistemic exhaustion, attack surface, burnout security, verification collapse, l
 It documents how population-level burnout undermines verification capacity and creates a new class of security vulnerability rooted in attention, cognition, and institutional fatigue.
 
 > 📡 Cross-references:
+> 
 > - **🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash** — origin conditions  
 > - **📱 Digital Literacy as Democratic Infrastructure** — civic resilience layer  
 > - **🧠 Psychological_Containment** — fatigue as a control vector  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-21_
