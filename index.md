@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:37:36 UTC_
+_Generated on 2025-12-21 02:39:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3616,6 +3616,7 @@ _Generated on 2025-12-21 02:37:36 UTC_
       - [`📉_force_closed_comments_2025-08-04.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_force_closed_comments_2025-08-04.md)
       - [`📉_newsroom_deprioritisation_patterns.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_newsroom_deprioritisation_patterns.md)
       - [`📉_suppression_interruption_log_2025-08-04.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_suppression_interruption_log_2025-08-04.md)
+      - [`📉_why_metrics_feel_like_surveillance.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_why_metrics_feel_like_surveillance.md)
       - [`🔌_comment_loop_interference.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🔌_comment_loop_interference.md)
       - [`🕳️_the_archive_is_shaped_by_witheld_data.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🕳️_the_archive_is_shaped_by_witheld_data.md)
       - [`🕹️_handler_override_incidents.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🕹️_handler_override_incidents.md)
@@ -3814,7 +3815,6 @@ _Generated on 2025-12-21 02:37:36 UTC_
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
-    - [`📉_why_metrics_feel_like_surveillance.md`](Polaris_Nest/Git_Intake_Drawer/📉_why_metrics_feel_like_surveillance.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📊_risk_capital_and_hunger_strikes.md`](Polaris_Nest/Git_Intake_Drawer/📊_risk_capital_and_hunger_strikes.md)
     - [`📊_who_is_actually_reading_this.md`](Polaris_Nest/Git_Intake_Drawer/📊_who_is_actually_reading_this.md)
