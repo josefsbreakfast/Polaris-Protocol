@@ -1,7 +1,7 @@
-# 🔄 MOD–arms industry revolving door
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How lawful career circulation shapes risk tolerance, precedent anxiety, and reluctance to draw red lines.*
-
+# 🔄 MOD–Arms Industry Revolving Door  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+*How lawful career circulation shapes risk tolerance, precedent anxiety, and reluctance to draw red lines.*  
+<!--It's been that long since I had a free lunch in the NHS that I forgot to pur them in the node...-->
 ---
 
 ## 🧭 What this node is
@@ -125,10 +125,10 @@ It exists to explain why lawful systems can still resist decisive action under s
 
 > 📡 Cross-references:
 >
-> - [🚁 Arms exports, dual-use technology, and UAV drift](./🚁_arms_exports_dual_use_technology_and_uav_drift.md) — *where continuity manifests*
-> - [🏛️ Ministerial authority and collapse of lawful refusal](./🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *who bears the consequences*
-> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *why interruption mattered*
+> - [🚁 Arms exports, dual-use technology, and UAV drift] — *where continuity manifests*
+> - [🏛️ Ministerial authority and collapse of lawful refusal] — *who bears the consequences*
+> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)] — *why interruption mattered*
 >
 > *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-21_
