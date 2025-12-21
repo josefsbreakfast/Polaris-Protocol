@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:53:55 UTC_
+_Generated on 2025-12-21 02:55:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -439,6 +439,7 @@ _Generated on 2025-12-21 02:53:55 UTC_
         - [`📜_loss_management_performance_of_composure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📜_loss_management_performance_of_composure.md)
         - [`📢_calm_down_its_just_british.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📢_calm_down_its_just_british.md)
         - [`📣_pr_simulation_breakdown.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📣_pr_simulation_breakdown.md)
+        - [`📺_cover_up_as_cultural_genre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📺_cover_up_as_cultural_genre.md)
         - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_clone_friendly_architecture.md)
         - [`🕸️_interlocking_influence_economy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_interlocking_influence_economy.md)
         - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_web_of_resilience.md)
@@ -3822,7 +3823,6 @@ _Generated on 2025-12-21 02:53:55 UTC_
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
-    - [`📺_coverup_as_cultural_genre.md`](Polaris_Nest/Git_Intake_Drawer/📺_coverup_as_cultural_genre.md)
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
