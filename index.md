@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 03:07:24 UTC_
+_Generated on 2025-12-21 03:09:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -658,6 +658,7 @@ _Generated on 2025-12-21 03:07:24 UTC_
         - [`🕌_ornamental_survival_and_misfiled_survivals.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🕌_ornamental_survival_and_misfiled_survivals.md)
         - [`🕎_jewish_conscience_anti_racist_governance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🕎_jewish_conscience_anti_racist_governance.md)
         - [`🕯️_containment_through_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🕯️_containment_through_loneliness.md)
+        - [`🕳️_social_memory_of_impunity.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🕳️_social_memory_of_impunity.md)
         - [`🗝_contingency_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝_contingency_erasure.md)
         - [`🗝_custodianship_illusion.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝_custodianship_illusion.md)
         - [`🗝_privatised_record_keeping.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝_privatised_record_keeping.md)
@@ -3834,7 +3835,6 @@ _Generated on 2025-12-21 03:07:24 UTC_
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
-    - [`🕳️_social_memory_of_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_social_memory_of_impunity.md)
     - [`🗄️_data_shadows_and_identity_residue.md`](Polaris_Nest/Git_Intake_Drawer/🗄️_data_shadows_and_identity_residue.md)
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
