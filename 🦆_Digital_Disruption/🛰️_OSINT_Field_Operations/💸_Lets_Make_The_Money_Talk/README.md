@@ -1,5 +1,6 @@
 # 💸 Let’s Make the Money Talk  
-**OSINT Field Operations | Digital Disruption**
+**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
+*OSINT field operations for making reputational laundering, compliance failure, and impunity expensive — lawfully, structurally, and survivor-aligned.*  
 
 ---
 
@@ -151,3 +152,19 @@ And accountability should not depend on heroism.
 
 This work proceeds slowly, carefully, and together —  
 so that justice, where it has been delayed, is no longer optional.
+
+---
+
+## 🏮 Footer  
+
+*Let’s Make the Money Talk* is an operational folder within the **Polaris Protocol**, under **🦆 Digital_Disruption / 🛰️ OSINT_Field_Operations**.  
+It exists to translate public disclosures into lawful public audit pressure — with survivor sovereignty as a hard constraint and financial accountability as a primary lever.  
+
+> 📡 Cross-references:
+> 
+> - [✈️ The Politics of Redaction] — disclosure as power and labour allocation  
+> - [🐦‍🔥 Survivors of the Files Deserve Better] — survivor-centred accountability baseline  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-21_
