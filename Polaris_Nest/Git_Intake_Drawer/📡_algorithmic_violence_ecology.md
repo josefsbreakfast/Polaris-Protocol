@@ -1,10 +1,10 @@
-# 📡 Algorithmic Violence Ecology
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*How harm is produced and sustained by automated systems acting at scale*
+# 📡 Algorithmic Violence Ecology  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-21  
+*How harm is produced and sustained by automated systems acting at scale.*  
 
 ---
 
-## 🛰️ Orientation
+## 🛰️ Orientation  
 Not all violence is direct, intentional, or interpersonal.
 
 Some harms are produced by systems whose core functions are classification, optimisation, and replication. When those systems amplify, preserve, or repeatedly surface harmful material, they can generate injury without a perpetrator acting in the present tense.
@@ -13,7 +13,7 @@ This node frames algorithmic violence as ecological: distributed, persistent, an
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features  
 - Harm can continue without current intent or active actors.
 - Replication systems preserve semantics while stripping context.
 - Exposure becomes environmental: ambient, repeated, and hard to “close.”
@@ -22,15 +22,13 @@ This node frames algorithmic violence as ecological: distributed, persistent, an
 
 ---
 
-## 🧿 Analysis / Content
-
-### 1) Core claim: harm without a present actor
+## 🔥 Core claim: Harm Without A Present Actor
 Algorithmic violence occurs when automated systems enact conditions that predictably harm people — even if no single human is choosing to harm them now.
 
 This is not “machines are evil.”
 It is: optimisation + scale + replication can produce violence-like outcomes as a byproduct.
 
-### 2) Why this is an ecology (not a line)
+## 🍄 Why This Is An Ecology (Not A Line)
 Algorithmic violence is ecological because it involves:
 - multiple systems interacting,
 - feedback loops,
@@ -41,7 +39,7 @@ Algorithmic violence is ecological because it involves:
 No single system is fully responsible.
 The harm emerges from combined behaviour across the environment.
 
-### 3) Common mechanism bundle
+## 🐍 Common Mechanism Bundle
 Algorithmic violence is typically produced through combinations of:
 - indexing without context,
 - ranking without meaning,
@@ -57,7 +55,7 @@ These mechanisms can act on:
 - misindexed identity data,
 - historically hostile content.
 
-### 4) Persistence without intent
+## 🧨 Persistence Without Intent
 Unlike interpersonal harm, algorithmic violence often continues after:
 - the original behaviour has stopped,
 - a report has been filed,
@@ -68,7 +66,7 @@ Replication systems preserve fragments, strip context, and re-surface meaning wi
 
 This produces impact without a current actor.
 
-### 5) Lived effects
+## 🫀 Lived Effects
 From the perspective of the affected person, algorithmic violence appears as:
 - repeated exposure without interaction,
 - difficulty establishing “closure,”
@@ -78,7 +76,7 @@ From the perspective of the affected person, algorithmic violence appears as:
 
 The harm is environmental rather than confrontational.
 
-### 6) Distinction from abuse or harassment
+## ⚖️ Distinction From Abuse Or Harassment  
 | Interpersonal harm | Algorithmic violence |
 |---|---|
 | actor-driven | system-driven |
@@ -90,7 +88,7 @@ The harm is environmental rather than confrontational.
 This does not reduce severity.
 It changes attribution and mitigation strategy.
 
-### 7) Why this matters
+## Why This Matters  
 If harm is framed only as individual wrongdoing:
 - structural contributors disappear,
 - responsibility is misplaced,
@@ -112,14 +110,14 @@ algorithmic harm, structural violence, replication, indexing, ranking, caching, 
 
 ## 🏮 Footer
 
-Algorithmic Violence Ecology is a living node of the **Polaris Protocol**.
+*📡 Algorithmic Violence Ecology* is a living node of the **Polaris Protocol**.
 It documents how harm can be produced and sustained by automated systems acting at scale, even when no human actor is choosing harm in the present tense.
 
 > 📡 Cross-references:
 >
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic analysis and framing shifts  
-> - [Metadata Sabotage Network](../Metadata_Sabotage_Network/) — interference, persistence, and visibility manipulation  
+> - [Big Picture Protocols] — *systemic analysis and framing shifts*  
+> - [Metadata Sabotage Network] — *interference, persistence, and visibility manipulation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-21_
