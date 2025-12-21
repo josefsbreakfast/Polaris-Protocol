@@ -1,6 +1,6 @@
-# 🛰️ Intelligence, ISR, and vicarious trauma
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How continuous observation without intervention externalises moral injury onto analysts and operators.*
+# 🛰️ Intelligence, ISR, and vicarious trauma  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+*How continuous observation without intervention externalises moral injury onto analysts and operators.*  
 
 ---
 
@@ -121,10 +121,10 @@ It exists to show that harm from prevention failure is not confined to victims o
 
 > 📡 Cross-references:
 >
-> - [🧬 Distributed complicity in modern warfare](./🧬_distributed_complicity_in_modern_warfare.md) — *how observation becomes enabling*
-> - [🏛️ Ministerial authority and collapse of lawful refusal](./🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *why analysts cannot refuse*
-> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *why harm persists*
+> - [🧬 Distributed complicity in modern warfare] — *how observation becomes enabling*
+> - [🏛️ Ministerial authority and collapse of lawful refusal] — *why analysts cannot refuse*
+> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)] — *why harm persists*
 >
 > *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-21_
