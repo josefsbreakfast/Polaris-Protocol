@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:51:15 UTC_
+_Generated on 2025-12-21 02:53:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -85,6 +85,7 @@ _Generated on 2025-12-21 02:51:15 UTC_
       - [`🌀_chaff.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🌀_chaff.md)
       - [`🌊_fighting_on_the_beaches.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🌊_fighting_on_the_beaches.md)
       - [`🌹_feel_the_fear_and_fight_fascism_anyway.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🌹_feel_the_fear_and_fight_fascism_anyway.md)
+      - [`📱_institutional_tech_archetypes_uk_state.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/📱_institutional_tech_archetypes_uk_state.md)
       - [`🦕_political_pokedex_nick_clegg_the_digital_diplomat.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦕_political_pokedex_nick_clegg_the_digital_diplomat.md)
       - [`🧰_JSP_9-17A_Annex_D_Lawful_Escalation_Command_And_Conscience_Protocol.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🧰_JSP_9-17A_Annex_D_Lawful_Escalation_Command_And_Conscience_Protocol.md)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
@@ -3821,7 +3822,6 @@ _Generated on 2025-12-21 02:51:15 UTC_
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
-    - [`📱_institutional_tech_archetypes_uk_state.md`](Polaris_Nest/Git_Intake_Drawer/📱_institutional_tech_archetypes_uk_state.md)
     - [`📺_coverup_as_cultural_genre.md`](Polaris_Nest/Git_Intake_Drawer/📺_coverup_as_cultural_genre.md)
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
