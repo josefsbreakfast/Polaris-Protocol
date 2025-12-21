@@ -1,12 +1,10 @@
-# 💇‍♀️ The Dumb Blonde Protocol  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-23  
+# 💄 The Dumb Blonde Protocol  
+**First created:** 2025-11-01 | **Last updated:** 2025-12-21  
 *How the “dumb blonde” became patriarchy’s favourite containment spell — and how women learned to weaponise it.*  
-<!--G-d please can you make me a man next time. I would like to see just how much of this is testosterone, and just how much of this is the socialisation into overconfidence and stupidity.  
-See also the endless questions of "gamer girls" and the pathological need to undermine their "knowledge" of games in purity testing "20 questions of niche fandom lore".  
-Get. A. Life.-->
+ 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 From 18th-century salons to TikTok’s algorithmic glamour, the “dumb blonde” has never been about hair.  
 
 It’s a reflex of male insecurity — a narrative loop designed to neutralise women who learn how to survive by performance, irony, or charm.  
@@ -15,7 +13,7 @@ What began as literary revenge against powerful courtesans became Hollywood come
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Courtesans as proto-professionals** — the first women to convert language into income.  
 - **Containment through ridicule** — satire as social policing.  
 - **Performance as reversal** — Monroe and Hilton turning mockery into authorship.  
@@ -23,9 +21,7 @@ What began as literary revenge against powerful courtesans became Hollywood come
 
 ---
 
-## 🔍 Analysis  
-
-### ⚔️ Courtesans as Proto-Professionals  
+## ⚔️ Courtesans as Proto-Professionals  
 When “marry or die” was the only civic option, courtesans became **female land pirates** — raiding the soft economies of conversation, art, and desire.  
 
 They were poets, diplomats, and fundraisers for their own survival.  
@@ -36,7 +32,7 @@ Satire like *Les Curiosités de la Foire* (1775) mocked the socially ambitious c
 
 ---
 
-### 🎬 The Monroe Paradox — Performance as Camouflage  
+## 🎬 The Monroe Paradox — Performance as Camouflage  
 Monroe’s Lorelei Lee isn’t stupid; she’s a tactical sociologist.  
 
 > “I can be smart when it’s important, but most men don’t like it.”
@@ -50,7 +46,7 @@ The culture laughed at her, proving her hypothesis: a brilliant woman can tell y
 
 ---
 
-### 🪞 Schrödinger’s Empowerment — Living Inside the Trope  
+## 🪞 Schrödinger’s Empowerment — Living Inside the Trope  
 Discourse about the “dumb blonde” diverges sharply by gender.  
 
 When men discuss it, they are evaluating a symbol from the outside.    
@@ -69,7 +65,7 @@ If that makes you angry, the anger belongs with the **hierarchy of power**, not 
 
 ---
 
-### 🧠 The Dunning–Kruger Gender Gulf  
+## 🧠 The Dunning–Kruger Gender Gulf  
 The persistence of the stereotype isn’t cognitive error; it’s social design.  
 
 Men are rewarded for overconfidence, women punished for accuracy.  
@@ -84,7 +80,7 @@ Her brightness itself must be dimmed.
 
 ---
 
-### 📱 Paris Hilton — The Algorithm Learns the Mask  
+## 📱 Paris Hilton — The Algorithm Learns the Mask  
 Hilton closed the loop.  
 
 She turned “dumb blonde” into a **performative operating system**, trademarked the voice, and sold the persona back to the machine.  
@@ -100,7 +96,7 @@ Men thought they were laughing at her; they were **funding her experiment**.
 
 ---
 
-### 🤯 Male Surprise as Data Leak  
+## 🤯 Male Surprise as Data Leak  
 The collective male astonishment — *“wait, she was doing it on purpose?”* — is not analysis; it’s confession.  
 That disbelief is the diagnostic moment: proof that the containment script has glitched.  
 
@@ -111,7 +107,7 @@ So when the mask slips and the authorship is revealed, their shock isn’t revel
 
 ---
 
-### 💫 Containment Inversion  
+## 💫 Containment Inversion  
 Across three centuries, the archetype flips:  
 
 - **18th C. Courtesan** — intellect eroticised, then ridiculed.  
@@ -124,7 +120,7 @@ Every woman who pretends not to notice she’s underestimated is running a count
 
 ---
 
-### 🎮 Sequel — The Digital Blonde  
+## 🎮 Sequel — The Digital Blonde  
 The containment myth didn’t die; it respawned online.  
 
 The “fake gamer girl” panic is the dumb blonde’s digital reincarnation — disbelief retooled for an algorithmic age.  
@@ -135,11 +131,11 @@ Each new medium invents a fresh vocabulary for the same old shock: *how dare she
 
 The stereotype migrates, but the logic endures — policing women’s presence under the guise of protecting authenticity.  
 
-See [🎮 Fake Gamer Girl Protocol](./🎮_fake_gamer_girl_protocol.md) for the current battleground.  
+See [🎮 Fake Gamer Girl Protocol] for the current battleground.  
 
 ---
 
-### 🪞 Final Reflection — The Mirror Flips Back  
+## 🪞 Final Reflection — The Mirror Flips Back  
 If you underestimate someone because of how they look, that failure is yours to carry.  
 
 The “dumb blonde” was never proof of women’s limits — it was a diagnostic for men’s perception.  
@@ -163,14 +159,13 @@ dumb blonde, courtesans, Marilyn Monroe, Paris Hilton, performance, containment,
 ---
 
 ## 🏮 Footer  
-*The Dumb Blonde Protocol* is a living node of the Polaris Protocol.  
+*💄 The Dumb Blonde Protocol* is a living node of the Polaris Protocol.  
 It traces the evolution of a containment myth into a strategic tool — from satire to spectacle to self-sovereignty.  
 
 > 📡 Cross-references:
 > 
 > - [🪄 Expression of Norms] — *how identity scripts are written and inverted*  
-> - [🎛️ Pocket Rules — Survivor Voice Fidelity] — *maintaining undertone integrity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-21_
