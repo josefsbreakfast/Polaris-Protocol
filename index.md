@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 03:12:27 UTC_
+_Generated on 2025-12-21 03:13:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -184,6 +184,7 @@ _Generated on 2025-12-21 03:12:27 UTC_
         - [`🕰️_citizen_follow_up_timeline_security_breach.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🕰️_citizen_follow_up_timeline_security_breach.md)
         - [`🕰️_national_security_and_protective_marking_exemption_timelines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🕰️_national_security_and_protective_marking_exemption_timelines.md)
         - [`🗂️_bureaucratic_attrition_as_governance_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🗂️_bureaucratic_attrition_as_governance_strategy.md)
+        - [`🚗_when_allies_should_take_the_keys.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🚗_when_allies_should_take_the_keys.md)
         - [`🚨_red_flags_of_authoritarian_capture_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🚨_red_flags_of_authoritarian_capture_in_policing.md)
         - [`🛂_suspect_class_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🛂_suspect_class_governance.md)
         - [`🛰️_civic_oversight_of_ai_partnerships.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🛰️_civic_oversight_of_ai_partnerships.md)
@@ -3840,7 +3841,6 @@ _Generated on 2025-12-21 03:12:27 UTC_
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
-    - [`🚗_when_allies_should_take_the_keys.md`](Polaris_Nest/Git_Intake_Drawer/🚗_when_allies_should_take_the_keys.md)
     - [`🚢_flotilla_blockade_and_maritime_non_intervention.md`](Polaris_Nest/Git_Intake_Drawer/🚢_flotilla_blockade_and_maritime_non_intervention.md)
     - [`🚢_royal_navy_and_the_definite_reality_of_underwater_threats.md`](Polaris_Nest/Git_Intake_Drawer/🚢_royal_navy_and_the_definite_reality_of_underwater_threats.md)
     - [`🚨_institutional_crisis_mode_behaviours.md`](Polaris_Nest/Git_Intake_Drawer/🚨_institutional_crisis_mode_behaviours.md)
