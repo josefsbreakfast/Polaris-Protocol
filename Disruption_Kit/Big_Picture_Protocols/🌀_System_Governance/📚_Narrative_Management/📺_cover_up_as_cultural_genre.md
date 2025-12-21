@@ -1,10 +1,6 @@
-# 📺 *Cover-Up as Cultural Genre*
-**A Satirical Typology of the British Art of Concealment**
-
-**Date Created:** 2025-11-03  
-**Polaris Protocol Repository**  
-**Folder:** System_Governance / Trust_Decay  
-**Category:** Cultural Semiotics / Political Satire / Institutional Behaviour  
+# 📺 *Cover-Up as Cultural Genre*  
+**Date Created:** 2025-11-03 | **Last updated:** 2025-12-21  
+*A Satirical Typology of the British Art of Concealment*  
 
 ---
 
@@ -81,15 +77,4 @@ we are curating its exhibition.
 
 ---
 
-## ✳️ Constellations
-
-— `🕳️ social_memory_of_impunity.md` → repetition culture  
-— `🧩 accountability_failures_and_public_trust.md` → inquiry fatigue context  
-— `🗞️ institutional_silence_as_public_signal.md` → linguistic continuation  
-— `🎭 apology_theatre_and_trust_repair.md` → emotional aftermath  
-— `🪶 tea_toast_and_transparency.md` → humour lineage  
-
----
-
-**Last Updated:** 2025-11-03  
-**Stardust Tags:** #CoverUpGenre #CulturalSatire #InstitutionalBehaviour #TrustDecay #PolarisSystem  
+_Last updated: 2025-12-21_
