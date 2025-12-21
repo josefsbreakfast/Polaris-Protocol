@@ -1,6 +1,6 @@
 # 🍞 The Great British Imperial Starvation Machine  
-**First created:** 2025-12-17 | **Last updated:** 2025-12-17  
-*How starvation functioned as a recurring tool of British imperial governance — and why this history still matters.*
+**First created:** 2025-12-17 | **Last updated:** 2025-12-21  
+*How starvation functioned as a recurring tool of British imperial governance — and why this history still matters.*  
 
 ---
 
@@ -153,10 +153,10 @@ It documents a historical pattern in which hunger functioned as a tool of govern
 
 > 📡 Cross-references:
 > 
-> - [📊 Risk, Capital, and Hunger Strikes](../Disruption_Kit/Big_Picture_Protocols/📊_risk_capital_and_hunger_strikes.md) — contemporary governance stress-tests  
-> - [🫀 Our Hearts, Our Minds](../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/) — trauma and ethics  
-> - [⚖️ Legal State Governance](../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/)
+> - [📊 Risk, Capital, and Hunger Strikes] — *contemporary governance stress-tests*  
+> - [🫀 Our Hearts, Our Minds] — *trauma and ethics*  
+> - [⚖️ Legal & State Governance]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2025-12-21_
