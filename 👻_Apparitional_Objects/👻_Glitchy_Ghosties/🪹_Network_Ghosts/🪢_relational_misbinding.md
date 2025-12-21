@@ -256,6 +256,6 @@ It documents a principle-level network ghost used to explain how inferred relati
 > - [🛰️ SCP-VoiceX](../../../Polaris_Nest/SCP-VoiceX_Casefiles/SCP-VoiceX.md) - *early creative writing output*  
 
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral. Never keep early copies.*
 
 _Last updated: 2025-12-21_
