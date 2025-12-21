@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:58:02 UTC_
+_Generated on 2025-12-21 02:59:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2988,6 +2988,7 @@ _Generated on 2025-12-21 02:58:02 UTC_
       - [`💸_the_cost_of_a_closed_mouth.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/💸_the_cost_of_a_closed_mouth.md)
       - [`📜_terms_of_erasement.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/📜_terms_of_erasement.md)
       - [`📠_when_truth_becomes_a_trade.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/📠_when_truth_becomes_a_trade.md)
+      - [`🔄_reputation_arms_race_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🔄_reputation_arms_race_loop.md)
       - [`🕳️_when_the_censor_is_a_contractor.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕳️_when_the_censor_is_a_contractor.md)
       - [`🕳️_whistlebridge_correlation_notes.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕳️_whistlebridge_correlation_notes.md)
       - [`🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)
@@ -3827,7 +3828,6 @@ _Generated on 2025-12-21 02:58:02 UTC_
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
-    - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_internal_dissent_and_closing_of_recourse_uk_and_israel.md`](Polaris_Nest/Git_Intake_Drawer/🔕_internal_dissent_and_closing_of_recourse_uk_and_israel.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔥_hunger_strike_comparisons.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hunger_strike_comparisons.md)
