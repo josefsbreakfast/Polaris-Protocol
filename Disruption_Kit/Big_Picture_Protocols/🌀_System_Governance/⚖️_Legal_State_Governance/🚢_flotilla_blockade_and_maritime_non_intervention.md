@@ -1,6 +1,6 @@
-# 🚢 Flotilla, blockade, and maritime non-intervention
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How watching at sea became a choice — and why non-intervention hardened into acceptance.*
+# 🚢 Flotilla, blockade, and maritime non-intervention  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+*How watching at sea became a choice — and why non-intervention hardened into acceptance.*  
 
 ---
 
@@ -148,10 +148,10 @@ It exists to show how prevention can fail **in full view**, and why watching fro
 
 > 📡 Cross-references:
 >
-> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *where omission mattered*
-> - [🧬 Distributed complicity in modern warfare](./🧬_distributed_complicity_in_modern_warfare.md) — *how observation enables harm*
-> - [🚗 When allies should take the keys](./🚗_when_allies_should_take_the_keys.md) — *ally duty under capacity*
+> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)] — *where omission mattered*  
+> - [🧬 Distributed complicity in modern warfare] — *how observation enables harm*  
+> - [🚗 When allies should take the keys] — *ally duty under capacity*  
 >
 > *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-21_
