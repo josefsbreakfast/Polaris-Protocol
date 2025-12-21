@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:04:37 UTC_
+_Generated on 2025-12-21 02:07:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -570,6 +570,7 @@ _Generated on 2025-12-21 02:04:37 UTC_
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
         - [**🪬_Beyond_Zionism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/README.md)
+          - [`🍉_as_a_jew_globalise_the_intifada.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍉_as_a_jew_globalise_the_intifada.md)
           - [`🍉_why_do_we_care_about_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md)
           - [`🍷_crypto_before_it_was_cool.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍷_crypto_before_it_was_cool.md)
           - [`🍷_next_year_in_jerusalem.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍷_next_year_in_jerusalem.md)
@@ -3783,7 +3784,6 @@ _Generated on 2025-12-21 02:04:37 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
     - [`🌾_on_the_importance_of_trading_fairly.md`](Polaris_Nest/Git_Intake_Drawer/🌾_on_the_importance_of_trading_fairly.md)
-    - [`🍉_asajew_globalise_the_intifada.md`](Polaris_Nest/Git_Intake_Drawer/🍉_asajew_globalise_the_intifada.md)
     - [`🍉_why_peacetime_vs_wartime_matters_for_democracy.md`](Polaris_Nest/Git_Intake_Drawer/🍉_why_peacetime_vs_wartime_matters_for_democracy.md)
     - [`🍉_why_the_long_prison_stay.md`](Polaris_Nest/Git_Intake_Drawer/🍉_why_the_long_prison_stay.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
