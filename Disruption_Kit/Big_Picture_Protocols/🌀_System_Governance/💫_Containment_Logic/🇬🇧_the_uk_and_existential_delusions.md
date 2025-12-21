@@ -1,6 +1,6 @@
-# 🇬🇧 The UK and Existential Delusions
-**First created:** 2025-12-17 | **Last updated:** 2025-12-17  
-*When states misclassify political difficulty as existential necessity, safeguards collapse.*
+# 🇬🇧 The UK and Existential Delusions  
+**First created:** 2025-12-17 | **Last updated:** 2025-12-21  
+*When states misclassify political difficulty as existential necessity, safeguards collapse.*  
 
 ---
 
@@ -103,14 +103,15 @@ existential threat framing, alliance dependency, uk foreign policy, governance p
 ---
 
 ## 🏮 Footer  
-*The UK and Existential Delusions* is a living node of the Polaris Protocol.  
+*🇬🇧 The UK and Existential Delusions* is a living node of the Polaris Protocol.  
 It documents how misclassified threat perception distorts governance across domains.
 
 > 📡 Cross-references:
-> - [Prison Deaths Look Bad at the ICJ](./💀_prison_deaths_look_bad_at_icj.md) — credibility erosion  
-> - [Did the UK Learn from the Troubles?](./🧿_did_the_uk_learn_from_the_troubles.md) — continuity analysis  
-> - [Ouroborotic Violence](../Big_Picture_Protocols/🐍_ouroborotic_violence.md) — self-reinforcing harm loops  
+> 
+> - [Prison Deaths Look Bad at the ICJ] — *credibility erosion*  
+> - [Did the UK Learn from the Troubles?] — *continuity analysis*  
+> - [Ouroborotic Violence] — *self-reinforcing harm loops*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2025-12-21_
