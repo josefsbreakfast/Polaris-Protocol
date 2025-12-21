@@ -1,10 +1,10 @@
 # 📱 Institutional Tech Archetypes (UK State)  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*A cultural diagnostic of how British institutions relate to technology — and why that relationship shapes security, governance, and failure modes.*
+**First created:** 2025-12-14 | **Last updated:** 2025-12-21  
+*A cultural diagnostic of how British institutions relate to technology — and why that relationship shapes security, governance, and failure modes.*  
 
 ---
 
-## 🛰️ Orientation
+## 🛰️ Orientation  
 
 Institutions do not interact with technology neutrally.  
 They relate to it through **culture, identity, hierarchy, and myth**.
@@ -17,7 +17,7 @@ Satire is used here as an analytical lens: humour surfaces truths that formal po
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features  
 
 - Device choice as institutional psychology  
 - Cultural tech illiteracy as a governance risk  
@@ -27,11 +27,7 @@ Satire is used here as an analytical lens: humour surfaces truths that formal po
 
 ---
 
-## 🧿 Analysis / Content
-
----
-
-### 1. **MOD — The Hardware Maximalist**
+## 1. MOD — The Hardware Maximalist  
 
 **Archetype:**  
 Believes physical robustness equals security.
@@ -52,7 +48,7 @@ If it looks tough, it must be safe.
 
 ---
 
-### 2. **GCHQ — The Exhausted Specialist Collective**
+## 2. GCHQ — The Exhausted Specialist Collective  
 
 **Archetype:**  
 Hyper-competent, deeply technical, permanently tired.
@@ -73,7 +69,7 @@ Technology is dangerous, powerful, and requires constant vigilance.
 
 ---
 
-### 3. **MI5 — The Control-Seeking Pragmatist**
+## 3. MI5 — The Control-Seeking Pragmatist  
 
 **Archetype:**  
 Wants mastery through settings, permissions, and toggles.
@@ -93,7 +89,7 @@ If everything is locked down correctly, risk is contained.
 
 ---
 
-### 4. **MI6 — The Aesthetic Technologist**
+## 4. MI6 — The Aesthetic Technologist  
 
 **Archetype:**  
 Technology as prestige object.
@@ -114,7 +110,7 @@ If it looks elite, it must be advanced.
 
 ---
 
-### 5. **Cabinet Office — The Reluctant User**
+## 5. Cabinet Office — The Reluctant User  
 
 **Archetype:**  
 Technology as unavoidable nuisance.
@@ -135,7 +131,7 @@ Digital systems are external to “real” governance.
 
 ---
 
-### 6. **NHS — The Legacy Loyalist**
+## 6. NHS — The Legacy Loyalist  
 
 **Archetype:**  
 Trusts what has always been there.
@@ -156,7 +152,7 @@ If it’s familiar, it’s safe.
 
 ---
 
-### 7. **Home Office — The Stagnant Modernist**
+## 7. Home Office — The Stagnant Modernist  
 
 **Archetype:**  
 Frozen at the moment technology once felt manageable.
@@ -176,7 +172,7 @@ Past competence becomes permanent reference point.
 
 ---
 
-### 8. **HMRC — The Queue-Oriented Bureaucrat**
+## 8. HMRC — The Queue-Oriented Bureaucrat  
 
 **Archetype:**  
 Believes order itself is security.
@@ -196,7 +192,7 @@ If there is a system, it must be working.
 
 ---
 
-### 9. **Why These Archetypes Matter**
+## 9. Why These Archetypes Matter  
 
 These archetypes persist because they:
 - reinforce institutional identity  
@@ -239,4 +235,4 @@ It uses cultural analysis and satire to surface how institutional relationships 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-21_
