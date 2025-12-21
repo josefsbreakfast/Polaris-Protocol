@@ -1,6 +1,6 @@
-# 💀 Prison Deaths Look Bad at the ICJ
-**First created:** 2025-12-17 | **Last updated:** 2025-12-17  
-*Domestic acceptance of foreseeable custodial death corrodes a state’s credibility in genocide-prevention litigation.*
+# 💀 Prison Deaths Look Bad at the ICJ  
+**First created:** 2025-12-17 | **Last updated:** 2025-12-21  
+*Domestic acceptance of foreseeable custodial death corrodes a state’s credibility in genocide-prevention litigation.*  
 
 ---
 
@@ -11,9 +11,7 @@ It does not argue that prison deaths create automatic international liability. I
 
 ---
 
-## 🧿 Analysis  
-
-### Genocide Law Is About Prevention, Not Intent  
+## Genocide Law Is About Prevention, Not Intent  
 Under settled ICJ jurisprudence (notably *Bosnia and Herzegovina v Serbia and Montenegro*), responsibility for genocide-related breaches does **not** require intent to destroy a group.
 
 It requires:
@@ -25,7 +23,7 @@ Credibility in prevention therefore matters.
 
 ---
 
-### Domestic Conduct as Credibility Evidence  
+## Domestic Conduct as Credibility Evidence  
 When a state claims internationally that it:
 - Takes civilian death seriously  
 - Acts early to prevent foreseeable harm  
@@ -43,7 +41,7 @@ then its assurances of preventive vigilance weaken.
 
 ---
 
-### Risk Acceptance as a Pattern  
+## Risk Acceptance as a Pattern  
 The issue is not a single death. It is **decision logic**.
 
 Where a state demonstrates that:
@@ -57,7 +55,7 @@ That argument directly undermines claims of good faith in genocide-prevention co
 
 ---
 
-### Why the ICJ Notices This  
+## Why the ICJ Notices This  
 The ICJ does not rule in a vacuum. It evaluates:
 - Whether a state *acts like* a prevention-oriented actor  
 - Whether assurances are borne out by behaviour  
@@ -67,7 +65,7 @@ A state that accepts foreseeable death in custody provides **contemporary counte
 
 ---
 
-### What This Does *Not* Do  
+## What This Does *Not* Do  
 - It does **not** establish genocide liability  
 - It does **not** prove complicity  
 - It does **not** substitute for factual findings in the principal case  
@@ -89,14 +87,15 @@ icj credibility, genocide prevention, third state conduct, custodial deaths, dut
 ---
 
 ## 🏮 Footer  
-*Prison Deaths Look Bad at the ICJ* is a living node of the Polaris Protocol.  
+*💀 Prison Deaths Look Bad at the ICJ* is a living node of the Polaris Protocol.  
 It documents how domestic governance failures reverberate into international legal credibility.
 
 > 📡 Cross-references:
-> - [Accepting Prison Hunger Deaths Is Damning](./💀_accepting_prison_hunger_deaths_is_damning.md) — risk acceptance threshold  
-> - [Did the UK Learn from the Troubles?](./🧿_did_the_uk_learn_from_the_troubles.md) — continuity analysis  
-> - [System Thresholds](../Big_Picture_Protocols/🉑_system_thresholds.md) — red-line governance logic  
+> 
+> - [💀 Accepting Prison Hunger Deaths Is Damning](./💀_accepting_prison_hunger_deaths_is_damning.md) — *risk acceptance threshold*  
+> - [Did the UK Learn from the Troubles?] — *continuity analysis*  
+> - [System Thresholds] — *red-line governance logic*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2025-12-21_
