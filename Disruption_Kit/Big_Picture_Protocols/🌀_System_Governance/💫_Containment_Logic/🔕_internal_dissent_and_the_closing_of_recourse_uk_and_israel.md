@@ -1,5 +1,5 @@
-# 🔕 Internal dissent and the closing of recourse (UK and Israel)
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
+# 🔕 Internal Dissent And The Closing Of Recourse (UK and Israel)
+**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
 *How systems under legal and moral stress suppress internal correction while preserving the appearance of choice.*
 
 ---
@@ -130,16 +130,16 @@ internal dissent, whistleblowing, refusal, speech suppression, emergency powers,
 
 ## 🏮 Footer
 
-*Internal dissent and the closing of recourse (UK and Israel)* is a contextual systems node in the **Polaris Protocol**.
+*🔕 Internal Dissent And The Closing Of Recourse (UK and Israel)* is a contextual systems node in the **Polaris Protocol**.
 
 It exists to explain why warning signals failed to alter course, and how systems can appear stable while actively disabling their own capacity to correct.
 
 > 📡 Cross-references:
 >
-> - [🏛️ Ministerial authority and collapse of lawful refusal](./🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *why refusal vanished*
-> - [🛰️ Intelligence, ISR, and vicarious trauma](./🛰️_intelligence_isr_and_vicarious_trauma.md) — *where silence accumulates*
-> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *what happens when dissent closes*
+> - [🏛️ Ministerial authority and collapse of lawful refusal] — *why refusal vanished*
+> - [🛰️ Intelligence, ISR, and vicarious trauma] — *where silence accumulates*
+> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)] — *what happens when dissent closes*
 >
 > *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-21_
