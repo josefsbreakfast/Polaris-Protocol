@@ -1,10 +1,10 @@
-# 🗄️ Data Shadows and Identity Residue
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*How fragments of identity persist, detach, and reappear across data systems*
+# 🗄️ Data Shadows and Identity Residue  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-21  
+*How fragments of identity persist, detach, and reappear across data systems*  
 
 ---
 
-## 🛰️ Orientation
+## 🛰️ Orientation  
 
 Digital systems do not store people.
 They store fragments: names, associations, keywords, references, classifications.
@@ -18,7 +18,7 @@ person it describes, and why it is difficult to remove once established.
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features  
 - Identity persists as fragments rather than narratives.
 - Data shadows survive correction, explanation, and context.
 - Residue is reproduced automatically, not deliberately.
@@ -129,15 +129,15 @@ misclassification, persistence, semantic fragments, digital identity
 
 ## 🏮 Footer
 
-Data Shadows and Identity Residue is a living node of the **Polaris Protocol**.
+*Data Shadows and Identity Residue* is a living node of the **Polaris Protocol**.
 It documents how fragments of identity persist and circulate across digital
 systems, often detached from the person they reference.
 
 > 📡 Cross-references:
 >
-> - [📡 Algorithmic Violence Ecology](./📡_algorithmic_violence_ecology.md) — structural harm produced by automated systems  
-> - [🗂️ The Afterlife of Harm](./🗂️_the_afterlife_of_harm.md) — persistence beyond the originating event  
+> - [📡 Algorithmic Violence Ecology] — *structural harm produced by automated systems*  
+> - [🗂️ The Afterlife of Harm] — *persistence beyond the originating event*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-21_
