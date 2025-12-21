@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-20 22:20:41 UTC_
+_Generated on 2025-12-21 02:02:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -261,6 +261,7 @@ _Generated on 2025-12-20 22:20:41 UTC_
         - [`⭕️_erosion_of_legitimacy_loops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⭕️_erosion_of_legitimacy_loops.md)
         - [`🃏_the_fool_card_and_machine_innocence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🃏_the_fool_card_and_machine_innocence.md)
         - [`🇬🇧_diet_authoritarianism_uk_homebrew.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🇬🇧_diet_authoritarianism_uk_homebrew.md)
+        - [`🇬🇧_the_uk_and_existential_delusions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🇬🇧_the_uk_and_existential_delusions.md)
         - [`🌀_ambiguity_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_ambiguity_as_containment.md)
         - [`🌀_behavioural_containment_when_governance_becomes_psychology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_behavioural_containment_when_governance_becomes_psychology.md)
         - [`🌀_fall_of_institutional_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_fall_of_institutional_integrity.md)
@@ -3778,7 +3779,6 @@ _Generated on 2025-12-20 22:20:41 UTC_
     - [`✈️_who_wants_these_creeps_in_charge.md`](Polaris_Nest/Git_Intake_Drawer/✈️_who_wants_these_creeps_in_charge.md)
     - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
-    - [`🇬🇧_the_uk_and_existential_delusions.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_the_uk_and_existential_delusions.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
     - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
