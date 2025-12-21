@@ -1,21 +1,6 @@
----
-title: 🕰️ National-Security & Protective-Marking Exemption Timelines  
-cluster: ⚙️ Data Governance / Legal Process Diagnostics  
-created: 2025-11-06  
-status: reference-node  
-tags:
-  - national-security
-  - data-protection
-  - litigation
-  - GDPR
-  - procedural-timelines
-stardust:
-  - protocol_integrity_sop.md
-  - 🔮_house_style.md
----
-
 # 🕰️ National-Security & Protective-Marking Exemption Timelines  
-**Reference guide to how long security-based data-handling exemptions normally last under UK law.**
+**First created:** 2025-11-06 | **Last updated:** 2025-12-21  
+*Reference guide to how long security-based data-handling exemptions normally last under UK law.*
 
 ---
 
@@ -44,11 +29,6 @@ Cases involving defence, intelligence, or counter-terrorism data routinely sit t
 
 ---
 
-## ✳️ Constellations  
-- ⚖️ *Protocol Integrity SOP*  
-- 🧩 *Health → Prevent → CT Data Interlock*  
-- 🗂️ *FOI & SAR Procedural Guides*
-
----
-
 *Purpose → To provide a standard reference for expected time-frames when data-disclosure is delayed on national-security grounds.*
+
+_Last updated: 2025-12-21_
