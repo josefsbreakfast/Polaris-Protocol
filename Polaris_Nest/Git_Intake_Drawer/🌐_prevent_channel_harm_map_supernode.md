@@ -1,6 +1,6 @@
-# 🌐 The Prevent/Channel Harm Map (Supernode)  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*A synthesised, panoramic map of all structural, behavioural, racialised, democratic, and safeguarding harms produced by Prevent and Channel — connecting the 34-node architecture into one unified harm-logic model.*
+# 🌐 The Prevent/Channel Harm Map  
+**First created:** 2025-11-23 | **Last updated:** 2025-12-21  
+*A synthesised, panoramic map of all structural, behavioural, racialised, democratic, and safeguarding harms produced by Prevent and Channel — connecting the 34-node architecture into one unified harm-logic model.*  
 
 ---
 
@@ -219,4 +219,4 @@ It synthesises every harm vector produced by Prevent and Channel, mapping the sy
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-21_
