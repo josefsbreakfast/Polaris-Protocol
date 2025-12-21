@@ -1,6 +1,6 @@
 # 🫀 Eating Disorder Comparisons To Hunger Strikes  
-**First created:** 2025-12-18 | **Last updated:** 2025-12-18  
-*Why “choice” is a dangerous framing — without equating illness and protest.*
+**First created:** 2025-12-18 | **Last updated:** 2025-12-21  
+*Why “choice” is a dangerous framing — without equating illness and protest.*  
 
 ---
 
@@ -81,4 +81,4 @@ It defends ethical consistency without collapsing distinct forms of suffering.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-18_
+_Last updated: 2025-12-21_
