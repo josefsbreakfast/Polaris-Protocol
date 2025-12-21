@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 03:18:20 UTC_
+_Generated on 2025-12-21 03:20:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -329,6 +329,7 @@ _Generated on 2025-12-21 03:18:20 UTC_
         - [`🕳️_the_grievance_sinkhole.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕳️_the_grievance_sinkhole.md)
         - [`🕸️_macro_containment_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕸️_macro_containment_architecture.md)
         - [`🖍️_the_colouring_book_experiment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🖍️_the_colouring_book_experiment.md)
+        - [`🗞️_institutional_silence_as_public_signal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🗞️_institutional_silence_as_public_signal.md)
         - [`😳_institutional_embarrassment_dynamics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/😳_institutional_embarrassment_dynamics.md)
         - [`😶‍🌫_institutional_freeze_fog_correction_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/😶‍🌫_institutional_freeze_fog_correction_cycle.md)
         - [`🚨_absence_of_intervention_as_early_warning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🚨_absence_of_intervention_as_early_warning.md)
@@ -3841,7 +3842,6 @@ _Generated on 2025-12-21 03:18:20 UTC_
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
-    - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
