@@ -1,6 +1,6 @@
 # 💸 Funding the Uncertainty Economy  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How money, legitimacy, and selective doubt reshape child-abuse forensics without coordination*
+**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+*How money, legitimacy, and selective doubt reshape child-abuse forensics without coordination.*  
 
 ---
 
@@ -21,9 +21,7 @@ The focus is *structural outcome*, not motive.
 
 ---
 
-## 🧿 Analysis / Content  
-
-### 1) Funding–Visibility Matrix  
+## 🧿 Funding–Visibility Matrix  
 *Who pays, how visible they are, and what kind of influence they buy*
 
 | Actor type | Visibility | Respectability cover | What they fund | What leverage it buys | Typical footprint |
@@ -41,7 +39,7 @@ the least *visible* money creates pressure and speed.
 
 ---
 
-### 2) Case-to-Capital Flow Diagram  
+## 💰 Case-to-Capital Flow Diagram  
 *How one funded case reshapes the baseline*
 
 ```text
@@ -82,7 +80,7 @@ The ecosystem does not need universal wins — it only needs ratchets.
 
 ---
 
-## 3) Risk-Profiling Tool  
+## 🦆 Risk-Profiling Tool  
 *Spotting structurally leveraged cases in the wild*
 
 Score each domain **0–2**.  
@@ -175,7 +173,7 @@ This tool does not infer motive. It flags **structural leverage** — cases that
 
 ---
 
-## 4) Why This Persists  
+## 🏛️ Why This Persists  
 
 ### Cost Asymmetry  
 - **Doubt is expensive once, cheap forever.**  
@@ -201,7 +199,7 @@ The result is a stable equilibrium biased toward inaction.
 
 ---
 
-## 5) Boundary Conditions (What This Is *Not*)  
+## 🧨 Boundary Conditions (What This Is *Not*)  
 
 This analysis does **not** claim that:
 - child abuse is fabricated or rare  
@@ -218,7 +216,7 @@ Legitimate scepticism becomes harmful **only when its downstream effects are ign
 
 ---
 
-## 6) Practical Use Notes  
+## 🍋 Practical Use Notes  
 
 - Use the **Risk-Profiling Tool** early, before narratives harden.  
 - Track **reusability attempts** after outcomes (training asks, policy memos, “courts now recognise…” claims).  
@@ -226,7 +224,7 @@ Legitimate scepticism becomes harmful **only when its downstream effects are ign
 
 ---
 
-## 7) Closing Insight  
+## 🐝 Closing Insight  
 
 The ecosystem does not advance by winning every case.  
 It advances by **ratcheting the baseline**, one cautious judgment, one added test, one softened standard at a time.
@@ -247,17 +245,17 @@ funding ecology, uncertainty economy, wrongful conviction advocacy, forensic sce
 
 ## 🏮 Footer  
 
-*Funding the Uncertainty Economy* is a living node of the **Polaris Protocol**.  
+*💸 Funding the Uncertainty Economy* is a living node of the **Polaris Protocol**.  
 It documents how capital, legitimacy, and selective doubt interact to shift evidentiary baselines in child-abuse cases without requiring coordination, conspiracy, or shared ideology.
 
 The node is intended as a **diagnostic and anticipatory tool**: to recognise leveraged cases early, to distinguish legitimate scepticism from system-shaping erosion, and to support proportionate counter-leverage that protects children without collapsing due process.
 
 > 📡 Cross-references:
 > 
-> - **🧠 Big_Picture_Protocols** — systems, law, and governance analysis  
-> - **🌸 Containment_Studies** — mechanisms of structural erosion  
-> - **🧰 Survivor_Tools** — applied diagnostics and field-use instruments  
+> - **🧠 Big_Picture_Protocols** — *systems, law, and governance analysis*  
+> - **🌸 Containment_Studies** — *mechanisms of structural erosion*  
+> - **🧰 Survivor_Tools** — *applied diagnostics and field-use instruments*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-21_
