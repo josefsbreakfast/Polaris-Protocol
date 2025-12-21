@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 10:16:11 UTC_
+_Generated on 2025-12-21 10:18:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3833,6 +3833,7 @@ _Generated on 2025-12-21 10:16:11 UTC_
     - [`🐝_anarchist_answers_to_the_question_of_extreme_antisocial_predation.md`](Polaris_Nest/Git_Intake_Drawer/🐝_anarchist_answers_to_the_question_of_extreme_antisocial_predation.md)
     - [`🐝_time_to_clarity.md`](Polaris_Nest/Git_Intake_Drawer/🐝_time_to_clarity.md)
     - [`🐦‍⬛_cards_indices_grids.md`](Polaris_Nest/Git_Intake_Drawer/🐦‍⬛_cards_indices_grids.md)
+    - [`🐦‍🔥_survivors_of_the_files_deserve_better.md`](Polaris_Nest/Git_Intake_Drawer/🐦‍🔥_survivors_of_the_files_deserve_better.md)
     - [`🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md`](Polaris_Nest/Git_Intake_Drawer/🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
