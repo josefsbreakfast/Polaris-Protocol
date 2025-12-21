@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:48:19 UTC_
+_Generated on 2025-12-21 02:48:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3432,6 +3432,7 @@ _Generated on 2025-12-21 02:48:19 UTC_
       - [`📊_spreadsheet_of_silence.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📊_spreadsheet_of_silence.md)
       - [`📊_update_weighted_overrepresentation.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📊_update_weighted_overrepresentation.md)
       - [`📚_library_as_algorithmic_interface.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📚_library_as_algorithmic_interface.md)
+      - [`📡_algorithmic_violence_ecology.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📡_algorithmic_violence_ecology.md)
       - [`📡_provenance_chain_audit.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📡_provenance_chain_audit.md)
       - [`🔗_engagement_spillover_how_one_post_creates_a_niche.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🔗_engagement_spillover_how_one_post_creates_a_niche.md)
       - [`🕎_regional_business_sensitivity_matrix_doc_r22_a.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕎_regional_business_sensitivity_matrix_doc_r22_a.md)
@@ -3819,7 +3820,6 @@ _Generated on 2025-12-21 02:48:19 UTC_
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
-    - [`📡_algorithmic_violence_ecology.md`](Polaris_Nest/Git_Intake_Drawer/📡_algorithmic_violence_ecology.md)
     - [`📱_digital_literacy_as_democratic_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/📱_digital_literacy_as_democratic_infrastructure.md)
     - [`📱_institutional_tech_archetypes_uk_state.md`](Polaris_Nest/Git_Intake_Drawer/📱_institutional_tech_archetypes_uk_state.md)
     - [`📺_coverup_as_cultural_genre.md`](Polaris_Nest/Git_Intake_Drawer/📺_coverup_as_cultural_genre.md)
