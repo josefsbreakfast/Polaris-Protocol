@@ -1,6 +1,6 @@
 # 🐢 Behavioural Proxies All the Way Down  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How fascist power operates through behavioural inference rather than articulated belief*
+**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+*How fascist power operates through behavioural inference rather than articulated belief.*  
 
 ---
 
@@ -30,9 +30,7 @@ This belongs in **Big Picture Protocols** because once you see it, you start rec
 
 ---
 
-## 🧿 Analysis / Content  
-
-### 1. Fascism does not need belief — it needs thresholds  
+## 🔥 Fascism Does Not Need Belief — It Needs Thresholds  
 
 Fascist systems rarely say what they are doing in plain terms.
 
@@ -54,7 +52,7 @@ It only needs to ask whether a threshold has been crossed.
 
 ---
 
-### 2. Policy laundering: “We target behaviour, not people”  
+## 🪬 Policy Laundering: “We Target Behaviour, Not People”  
 
 Behavioural proxies allow a specific kind of moral sleight-of-hand.
 
@@ -73,7 +71,7 @@ This is how discrimination becomes compliance.
 
 ---
 
-### 3. Micro to macro: why lived haunting matters (but is not the same thing)  
+## 👻 Micro To Macro: Why Lived Haunting Matters (But Is Not The Same Thing)  
 
 At the individual level, the same logic shows up as:
 - anger → proxy for threat  
@@ -93,7 +91,7 @@ This node is the second.
 
 ---
 
-### 4. Why proxies are perfect for modern systems  
+## 🩻 Why Proxies Are Perfect For Modern Systems  
 
 Behavioural proxies give fascist systems three things they desperately need:
 
@@ -117,7 +115,7 @@ It automated it.
 
 ---
 
-### 5. The quiet slide of liberal systems  
+## 🪼 The Quiet Slide Of Liberal Systems  
 
 Liberal democracies do not usually *choose* fascism.
 
@@ -154,9 +152,9 @@ It contributes structural analysis explaining how coercive systems operate throu
 
 > 📡 Cross-references:
 > 
-> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic governance analysis  
-> - [Containment Studies](../Disruption_Kit/Containment_Studies/) — lived and structural containment mechanisms  
+> - [Big Picture Protocols] — *systemic governance analysis*  
+> - [Containment Studies] — *lived and structural containment mechanisms*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-21_
