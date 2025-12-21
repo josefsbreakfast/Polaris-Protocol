@@ -87,6 +87,57 @@ This can buy quiet without explicit coercion.
 
 ---
 
+## Safeguarding Weakness and Governance Blind Spots
+
+Institutions that have historically struggled with:
+- child safeguarding,
+- internal accountability,
+- or whistleblowing protection
+
+often overlap with environments where:
+- reputational risk is tightly managed,
+- scrutiny is externally controlled,
+- and disclosure is culturally discouraged.
+
+This overlap is structural, not moral.
+
+Weak safeguarding governance creates conditions in which:
+- abuse can persist,
+- accountability is delayed,
+- and reputational containment becomes prioritised over protection.
+
+---
+
+## Surveillance Expansion and Narrative Capture
+
+Periods of expanded surveillance and secrecy powers often coincide with:
+- reduced transparency,
+- greater asymmetry between institutions and the public,
+- and increased capacity for narrative management.
+
+In several jurisdictions, including the UK, major safeguarding scandals emerged alongside:
+- growth in surveillance law,
+- widening confidentiality regimes,
+- and institutional defensiveness.
+
+These conditions increase vulnerability to reputational laundering and external capture.
+
+---
+
+## Timing and Exposure
+
+The timeline of known abuse and subsequent disclosures overlaps with periods when:
+- institutions were least transparent,
+- accountability mechanisms were weakest,
+- and reputational risk management was most developed.
+
+This does not imply coordinated intent.
+It explains **why reputational influence was unusually effective** during that period.
+
+Context matters.
+
+---
+
 ## Single-Point Versus Systemic Failure
 
 Discovery of a single compromised institution does not resolve systemic questions.
@@ -177,46 +228,6 @@ This evaluates **process**, not motive.
 
 ---
 
-## When Gifts Are Known
-
-If a gift is publicly reported:
-- institutions can be asked to disclose records relating to
-  - acceptance procedures,
-  - governance review,
-  - safeguarding considerations,
-  - and policy compliance.
-
-Responses reveal:
-- consistency,
-- clarity,
-- and confidence.
-
----
-
-## When Gifts Are Unknown
-
-If it is unclear whether gifts exist:
-- FOI requests may seek
-  - donation registers,
-  - gift acceptance logs,
-  - or disclosure policies
-within defined periods.
-
-Reluctance to disclose is itself informative.
-
----
-
-## Protecting Legitimate Institutions
-
-Clear, careful audit practice:
-- protects institutions acting in good faith,
-- avoids scapegoating,
-- and distinguishes coercion from complicity.
-
-The goal is accountability, not collateral damage.
-
----
-
 ## Integration With Power Mapping
 
 Philanthropic relationships should be mapped alongside:
@@ -238,9 +249,10 @@ Mapping asks about **structure**, not virtue.
 
 Philanthropy can heal.
 It can also shield.
-It can also be used to buy quiet where institutions are most fragile.
+It can also operate most effectively where governance is weakest.
 
-Understanding where money sits — and why — allows accountability to move upstream, where it belongs.
+Understanding these overlaps allows accountability to move upstream —  
+away from sacrificial targets and toward systemic correction.
 
 Transparency is not hostility.
 It is democratic hygiene.
