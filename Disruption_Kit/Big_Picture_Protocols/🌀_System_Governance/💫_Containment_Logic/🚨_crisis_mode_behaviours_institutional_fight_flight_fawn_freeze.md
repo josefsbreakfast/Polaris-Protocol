@@ -1,6 +1,6 @@
 # 🚨 Crisis-Mode Behaviours (Institutional Fight / Flight / Fawn / Freeze)  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-18  
-*How institutions behave once posture collapses — shifting into primitive defensive patterns that mirror human trauma responses: fight, flight, fawn, and freeze.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-21  
+*How institutions behave once posture collapses — shifting into primitive defensive patterns that mirror human trauma responses: fight, flight, fawn, and freeze.*  
 
 ---
 
@@ -240,3 +240,5 @@ This node links directly with:
 
 It forms the second chapter of the *institutional psychology* cluster  
 that concludes the Polaris collapse arc.
+
+_Last updated: 2025-12-21_
