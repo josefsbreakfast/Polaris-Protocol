@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 03:31:09 UTC_
+_Generated on 2025-12-21 03:33:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1418,6 +1418,7 @@ _Generated on 2025-12-21 03:31:09 UTC_
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
         - [`🪨_male_survivor_silence.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪨_male_survivor_silence.md)
         - [`🪸_floating_commons_humane_sovereignty_at_sea.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪸_floating_commons_humane_sovereignty_at_sea.md)
+        - [`🫀_ed_comparisons_to_hunger_strikes.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🫀_ed_comparisons_to_hunger_strikes.md)
         - [`🫀_extracted_potential_grief.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🫀_extracted_potential_grief.md)
         - [`🫀_the_return_of_vulnerability_why_soft_men_bounce_back_fastest.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🫀_the_return_of_vulnerability_why_soft_men_bounce_back_fastest.md)
         - [`🫖_no_this_is_not_proper.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🫖_no_this_is_not_proper.md)
@@ -3987,7 +3988,6 @@ _Generated on 2025-12-21 03:31:09 UTC_
     - [`🪻_who_died_for_your_vote.md`](Polaris_Nest/Git_Intake_Drawer/🪻_who_died_for_your_vote.md)
     - [`🪼_beyond_containment.md`](Polaris_Nest/Git_Intake_Drawer/🪼_beyond_containment.md)
     - [`🪼_who_is_acting.md`](Polaris_Nest/Git_Intake_Drawer/🪼_who_is_acting.md)
-    - [`🫀_ed_comparisons_to_hunger_strikes.md`](Polaris_Nest/Git_Intake_Drawer/🫀_ed_comparisons_to_hunger_strikes.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
