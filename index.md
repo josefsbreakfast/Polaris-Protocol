@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:17:14 UTC_
+_Generated on 2025-12-21 02:20:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -158,6 +158,7 @@ _Generated on 2025-12-21 02:17:14 UTC_
         - [`🍞_why_food_safety_is_aggressively_regulated.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🍞_why_food_safety_is_aggressively_regulated.md)
         - [`🏛️_a_state_that_cannot_confront_abuse_cannot_protect.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_a_state_that_cannot_confront_abuse_cannot_protect.md)
         - [`🏛️_consultancy_power_vs_democratic_safeguards.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_consultancy_power_vs_democratic_safeguards.md)
+        - [`🏛️_diplomatic_inviolability_and_influence_drift.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_diplomatic_inviolability_and_influence_drift.md)
         - [`🏛️_elite_non_prosecution_undermines_the_rule_of_law.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_elite_non_prosecution_undermines_the_rule_of_law.md)
         - [`🏛️_impunity_creates_authoritarian_openings.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_impunity_creates_authoritarian_openings.md)
         - [`🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md)
@@ -3793,7 +3794,6 @@ _Generated on 2025-12-21 02:17:14 UTC_
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
-    - [`🏛️_diplomatic_inviolability_and_influence_drift.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_diplomatic_inviolability_and_influence_drift.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots.md)
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md)
