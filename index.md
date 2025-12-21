@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 03:26:09 UTC_
+_Generated on 2025-12-21 03:31:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -349,6 +349,7 @@ _Generated on 2025-12-21 03:26:09 UTC_
         - [`🦕_post_modern_fellow_travellers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦕_post_modern_fellow_travellers.md)
         - [`🦠_toxic_legitimacy_cycles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦠_toxic_legitimacy_cycles.md)
         - [`🦯_algorithmic_delay_and_pacing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦯_algorithmic_delay_and_pacing.md)
+        - [`🧀_swiss_cheese_multi_agency_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧀_swiss_cheese_multi_agency_failure.md)
         - [`🧊_the_freeze_sector_wide_silence_handling_pattern.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧊_the_freeze_sector_wide_silence_handling_pattern.md)
         - [`🧠_bureaucratic_fast_thinking_and_reputational_harm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_bureaucratic_fast_thinking_and_reputational_harm.md)
         - [`🧠_cognitive_feedback_and_bureaucratic_amplification.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_cognitive_feedback_and_bureaucratic_amplification.md)
@@ -3860,7 +3861,6 @@ _Generated on 2025-12-21 03:26:09 UTC_
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
-    - [`🧊_swiss_cheese_multi_agency_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧊_swiss_cheese_multi_agency_failure.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧠_fear_moves_when_justice_fails.md`](Polaris_Nest/Git_Intake_Drawer/🧠_fear_moves_when_justice_fails.md)
