@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 22:03:55 UTC_
+_Generated on 2025-12-21 22:05:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4307,6 +4307,7 @@ _Generated on 2025-12-21 22:03:55 UTC_
     - [**💸_Lets_Make_The_Money_Talk/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/README.md)
       - [`💸_money_and_compliance.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/💸_money_and_compliance.md)
+      - [`📑_foi_and_sar_playbook.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/📑_foi_and_sar_playbook.md)
       - [`🗺️_power_mapping.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🗺️_power_mapping.md)
       - [`🧭_principles.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🧭_principles.md)
     - [**🕊️_War_Or_Peace/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/)
