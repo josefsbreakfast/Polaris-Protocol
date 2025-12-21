@@ -1,5 +1,5 @@
 # 📱 Digital Literacy as Democratic Infrastructure  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-21  
 *Why baseline public understanding of digital systems is now a prerequisite for democratic resilience.*
 
 ---
@@ -25,11 +25,7 @@ This node argues that **digital literacy now functions as democratic infrastruct
 
 ---
 
-## 🧿 Analysis / Content
-
----
-
-### 1. **From Optional Skill to Civic Requirement**
+## 1. From Optional Skill to Civic Requirement  
 
 For decades, digital competence was framed as:
 - a career advantage  
@@ -50,7 +46,7 @@ Democracy cannot function when its infrastructure is unintelligible to its citiz
 
 ---
 
-### 2. **“I’m Not a Computer Person” as Democratic Risk**
+## 2. “I’m Not a Computer Person” as Democratic Risk  
 
 The phrase sounds harmless.  
 In practice, it signals:
@@ -68,7 +64,7 @@ A democracy in which large numbers of people feel *excluded by default* from und
 
 ---
 
-### 3. **Digital Literacy as Infrastructure, Not Expertise**
+## 3. Digital Literacy as Infrastructure, Not Expertise  
 
 Digital literacy does **not** mean:
 - everyone learns to code  
@@ -87,7 +83,7 @@ This is why it functions as infrastructure, not enrichment.
 
 ---
 
-### 4. **The Herd-Immunity Model of Civic Understanding**
+## 4. The Herd-Immunity Model of Civic Understanding  
 
 Public understanding behaves like immunity:
 
@@ -102,7 +98,7 @@ When digital literacy drops below that threshold, epistemic contagion spreads ra
 
 ---
 
-### 5. **Burnout, Disengagement, and Opting Out**
+## 5. Burnout, Disengagement, and Opting Out  
 
 Burnout interacts with digital exclusion in dangerous ways.
 
@@ -121,7 +117,7 @@ Digital literacy cannot be treated as a purely educational issue when it is also
 
 ---
 
-### 6. **LLMs, Automation, and the Illusion of Competence**
+## 6. LLMs, Automation, and the Illusion of Competence  
 
 Generative systems raise the stakes.
 
@@ -140,7 +136,7 @@ It is the predictable outcome of deploying powerful systems into populations tha
 
 ---
 
-### 7. **Public Cognitive Resilience as Democratic Defence**
+## 7. Public Cognitive Resilience as Democratic Defence  
 
 Democratic resilience now depends on:
 - shared baseline understanding  
@@ -177,10 +173,11 @@ digital literacy, democratic infrastructure, civic resilience, herd immunity mod
 It establishes digital understanding as a collective civic requirement and documents how public cognitive resilience functions as a democratic defence layer in computational societies.
 
 > 📡 Cross-references:
+> 
 > - **🛡️ Epistemic Exhaustion as an Attack Surface** — security implications of disengagement  
 > - **🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash** — origin conditions  
 > - **🧠 Cognitive Immunology** — population-level resilience framework  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-21_
