@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:59:31 UTC_
+_Generated on 2025-12-21 03:01:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -310,6 +310,7 @@ _Generated on 2025-12-21 02:59:31 UTC_
         - [`🔇_silence_harm_and_acknowledgment_delay.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔇_silence_harm_and_acknowledgment_delay.md)
         - [`🔍_institutional_freeze_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔍_institutional_freeze_patterns.md)
         - [`🔍_mistaken_release_as_friction_shortcut.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔍_mistaken_release_as_friction_shortcut.md)
+        - [`🔕_internal_dissent_and_the_closing_of_recourse_uk_and_israel.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔕_internal_dissent_and_the_closing_of_recourse_uk_and_israel.md)
         - [`🔥_opportunistic_escalation_peri_system_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔥_opportunistic_escalation_peri_system_collapse.md)
         - [`🔥_reputational_blowback_failure_mode.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔥_reputational_blowback_failure_mode.md)
         - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔬_lost_checks_and_balances.md)
@@ -3828,7 +3829,6 @@ _Generated on 2025-12-21 02:59:31 UTC_
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
-    - [`🔕_internal_dissent_and_closing_of_recourse_uk_and_israel.md`](Polaris_Nest/Git_Intake_Drawer/🔕_internal_dissent_and_closing_of_recourse_uk_and_israel.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔥_hunger_strike_comparisons.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hunger_strike_comparisons.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
