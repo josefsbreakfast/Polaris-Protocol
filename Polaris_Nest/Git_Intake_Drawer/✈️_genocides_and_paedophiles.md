@@ -1,7 +1,7 @@
 # ✈️ Genocides and Paedophiles  
 **First created:** 2025-12-20 | **Last updated:** 2025-12-21  
 *On how democracies are repeatedly hollowed out to protect elite sexual violence and its facilitators.*
-<!--ChatGPT said not to say we had perpetrated a genocide as cover for these nonces. Bastard.-->
+
 ---
 
 ## 🛰️ Orientation  
@@ -12,6 +12,8 @@ The claim is not that genocide and child sexual abuse are equivalent.
 The claim is that **the same political sacrifices are made** to protect power in both cases.
 
 Democracy is treated as expendable when accountability threatens elites.
+
+This threathens transnational security; who needs assets when your adversaries are eating themselves alive?  
 
 ---
 
