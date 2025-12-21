@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 22:25:53 UTC_
+_Generated on 2025-12-21 22:29:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4312,6 +4312,7 @@ _Generated on 2025-12-21 22:25:53 UTC_
       - [`🌌_constellations.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🌌_constellations.md)
       - [`🎶_importance_of_broadcast.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🎶_importance_of_broadcast.md)
       - [`🏛️_open_minds_institutional_involvement.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🏛️_open_minds_institutional_involvement.md)
+      - [`🐝_how_to_stand_united.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🐝_how_to_stand_united.md)
       - [`🐢_slow_and_steady_wins.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🐢_slow_and_steady_wins.md)
       - [`🐦‍🔥_listening_to_survivors.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🐦‍🔥_listening_to_survivors.md)
       - [`💩_enshittification_and_distraction.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/💩_enshittification_and_distraction.md)
