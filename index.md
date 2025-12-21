@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 03:10:55 UTC_
+_Generated on 2025-12-21 03:12:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -915,6 +915,7 @@ _Generated on 2025-12-21 03:10:55 UTC_
           - [`🐝_honeybot_underwriting_fails.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🐝_honeybot_underwriting_fails.md)
           - [`💞_moflin_and_the_ethics_of_engineered_affection.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/💞_moflin_and_the_ethics_of_engineered_affection.md)
           - [`🗞️_docility_engine_print_edition.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🗞️_docility_engine_print_edition.md)
+          - [`🚁_arms_exports_dual_use_technology_and_uav_drift.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🚁_arms_exports_dual_use_technology_and_uav_drift.md)
           - [`🦤_honeybot_consent_as_service.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🦤_honeybot_consent_as_service.md)
           - [`🦾_dual_uses_that_never_come.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🦾_dual_uses_that_never_come.md)
           - [`🧠_voice_clones_ai_and_the_threat_to_policing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧠_voice_clones_ai_and_the_threat_to_policing.md)
@@ -3839,7 +3840,6 @@ _Generated on 2025-12-21 03:10:55 UTC_
     - [`🗞️_institutional_silence_as_public_signal.md`](Polaris_Nest/Git_Intake_Drawer/🗞️_institutional_silence_as_public_signal.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
-    - [`🚁_arms_exports_dual_use_technology_and_uav_drift.md`](Polaris_Nest/Git_Intake_Drawer/🚁_arms_exports_dual_use_technology_and_uav_drift.md)
     - [`🚗_when_allies_should_take_the_keys.md`](Polaris_Nest/Git_Intake_Drawer/🚗_when_allies_should_take_the_keys.md)
     - [`🚢_flotilla_blockade_and_maritime_non_intervention.md`](Polaris_Nest/Git_Intake_Drawer/🚢_flotilla_blockade_and_maritime_non_intervention.md)
     - [`🚢_royal_navy_and_the_definite_reality_of_underwater_threats.md`](Polaris_Nest/Git_Intake_Drawer/🚢_royal_navy_and_the_definite_reality_of_underwater_threats.md)
