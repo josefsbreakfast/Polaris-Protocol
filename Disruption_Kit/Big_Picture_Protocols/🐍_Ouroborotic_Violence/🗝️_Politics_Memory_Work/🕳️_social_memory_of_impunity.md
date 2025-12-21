@@ -1,5 +1,6 @@
-# 🕳️ *Social Memory of Impunity — When Cover-Ups Become Cultural Reflex*  
+# 🕳️ Social Memory of Impunity — When Cover-Ups Become Cultural Reflex  
 **Date Created:** 2025-11-02 | **Last updated:** 2025-12-21  
+
 ---
 
 ## 🧭 Orientation  
