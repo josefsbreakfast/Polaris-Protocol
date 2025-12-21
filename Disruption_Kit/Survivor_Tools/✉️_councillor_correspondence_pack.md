@@ -1,6 +1,6 @@
 # ✉️ Councillor Correspondence Pack — Survivor-Voice Civic Letters  
-**First created:** 2025-11-18 | **Last updated:** 2025-11-22  
-*Reusable letters and tone guides.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-21  
+*Reusable letters and tone guides.*  
 
 ---
 
@@ -36,4 +36,4 @@ civic letters, correspondence, survivor voice
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2025-12-21_
