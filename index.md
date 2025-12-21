@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:12:11 UTC_
+_Generated on 2025-12-21 02:15:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1333,6 +1333,7 @@ _Generated on 2025-12-21 02:12:11 UTC_
         - [`🌿_the_maths_of_life.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿_the_maths_of_life.md)
         - [`🌿🦁_green_lion_as_liminality.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿🦁_green_lion_as_liminality.md)
         - [`🍎_how_to_internet_for_kids.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍎_how_to_internet_for_kids.md)
+        - [`🍑_desire_without_shame.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍑_desire_without_shame.md)
         - [`🍑_the_soft_boy_restoration_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍑_the_soft_boy_restoration_protocol.md)
         - [`🍻_gullivar_syndrome_why_sailors_keep_washing_up_drunk.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍻_gullivar_syndrome_why_sailors_keep_washing_up_drunk.md)
         - [`🎶_theology_of_the_mix.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🎶_theology_of_the_mix.md)
@@ -3786,7 +3787,6 @@ _Generated on 2025-12-21 02:12:11 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
     - [`🌾_on_the_importance_of_trading_fairly.md`](Polaris_Nest/Git_Intake_Drawer/🌾_on_the_importance_of_trading_fairly.md)
-    - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
     - [`🍞_the_great_british_imperial_starvation_machine.md`](Polaris_Nest/Git_Intake_Drawer/🍞_the_great_british_imperial_starvation_machine.md)
     - [`🏏_Pitch_at_Palace_Audit_Practice_README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice_README.md)
     - [`🏙️_nottingham_divestment_motion_context.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_nottingham_divestment_motion_context.md)
