@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:48:45 UTC_
+_Generated on 2025-12-21 02:51:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -304,6 +304,7 @@ _Generated on 2025-12-21 02:48:45 UTC_
         - [`📜_when_containment_becomes_identity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📜_when_containment_becomes_identity.md)
         - [`📠_the_72_hour_comedy_of_compliance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📠_the_72_hour_comedy_of_compliance.md)
         - [`📡_institutional_risk_posture_diagnostics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📡_institutional_risk_posture_diagnostics.md)
+        - [`📱_digital_literacy_as_democratic_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📱_digital_literacy_as_democratic_infrastructure.md)
         - [`🔁_recursive_parliamentary_containment_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔁_recursive_parliamentary_containment_loop.md)
         - [`🔇_silence_harm_and_acknowledgment_delay.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔇_silence_harm_and_acknowledgment_delay.md)
         - [`🔍_institutional_freeze_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔍_institutional_freeze_patterns.md)
@@ -3820,7 +3821,6 @@ _Generated on 2025-12-21 02:48:45 UTC_
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
-    - [`📱_digital_literacy_as_democratic_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/📱_digital_literacy_as_democratic_infrastructure.md)
     - [`📱_institutional_tech_archetypes_uk_state.md`](Polaris_Nest/Git_Intake_Drawer/📱_institutional_tech_archetypes_uk_state.md)
     - [`📺_coverup_as_cultural_genre.md`](Polaris_Nest/Git_Intake_Drawer/📺_coverup_as_cultural_genre.md)
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
