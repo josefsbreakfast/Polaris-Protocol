@@ -1,6 +1,6 @@
 # 📊 Risk, Capital, and Hunger Strikes  
-**First created:** 2025-12-17 | **Last updated:** 2025-12-17  
-*How financialised risk management collides with frontline clinical judgment during politically sensitive hunger strikes.*
+**First created:** 2025-12-17 | **Last updated:** 2025-12-21  
+*How financialised risk management collides with frontline clinical judgment during politically sensitive hunger strikes.*  
 
 ---
 
@@ -267,10 +267,10 @@ It contributes structural analysis of how financialised governance shapes life-a
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Legal State Governance](../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/) — escalation and liability  
-> - [🫀 Our Hearts, Our Minds](../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/) — trauma-informed governance  
-> - [🧰 Survivor Tools](../Disruption_Kit/Survivor_Tools/) — frontline protection and countermeasures  
+> - [⚖️ Legal & State Governance] — *escalation and liability*  
+> - [🫀 Our Hearts, Our Minds] — *trauma-informed governance*  
+> - [🧰 Survivor Tools] — *frontline protection and countermeasures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2025-12-21_
