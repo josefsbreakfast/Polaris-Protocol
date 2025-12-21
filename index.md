@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:15:05 UTC_
+_Generated on 2025-12-21 02:17:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -991,6 +991,7 @@ _Generated on 2025-12-21 02:15:05 UTC_
         - [`🌏_china_soft_ops_vs_russia_hard_ops.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_china_soft_ops_vs_russia_hard_ops.md)
         - [`🌏_from_escalation_to_play.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_from_escalation_to_play.md)
         - [`🍌_racism_as_epistemic_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🍌_racism_as_epistemic_collapse.md)
+        - [`🍞_the_great_british_imperial_starvation_machine.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🍞_the_great_british_imperial_starvation_machine.md)
         - [`🎩_archetype_of_the_sensible_man.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🎩_archetype_of_the_sensible_man.md)
         - [`🎭_natcon_2023_25_hinge_point.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🎭_natcon_2023_25_hinge_point.md)
         - [`🎶_state_voice_fidelity_the_choral_body_as_archive.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🎶_state_voice_fidelity_the_choral_body_as_archive.md)
@@ -3787,7 +3788,6 @@ _Generated on 2025-12-21 02:15:05 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
     - [`🌾_on_the_importance_of_trading_fairly.md`](Polaris_Nest/Git_Intake_Drawer/🌾_on_the_importance_of_trading_fairly.md)
-    - [`🍞_the_great_british_imperial_starvation_machine.md`](Polaris_Nest/Git_Intake_Drawer/🍞_the_great_british_imperial_starvation_machine.md)
     - [`🏏_Pitch_at_Palace_Audit_Practice_README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice_README.md)
     - [`🏙️_nottingham_divestment_motion_context.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_nottingham_divestment_motion_context.md)
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
