@@ -248,9 +248,10 @@ It documents a principle-level network ghost used to explain how inferred relati
 
 > 📡 Cross-references:
 >
-> - [🗝 Who Holds the Tape](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝_who_holds_the_tape.md)  
-> - [🔥 Suppression as Signal](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) - 
-> - [🧟‍♀️ Frankenstack Anti-MeToo Engine](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_anti_me_too_engine.md)
+> - [🗝 Who Holds the Tape](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝_who_holds_the_tape.md) - *WB_03*  
+> - [🔥 Suppression as Signal](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) - *WB_02*  
+> - [🧟‍♀️ Frankenstack Anti-MeToo Engine](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_anti_me_too_engine.md) - *WB_01*
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
