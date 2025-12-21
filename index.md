@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 23:18:49 UTC_
+_Generated on 2025-12-21 23:23:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4213,6 +4213,7 @@ _Generated on 2025-12-21 23:18:49 UTC_
     - [**🪹_Network_Ghosts/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪹_Network_Ghosts/)
       - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪹_Network_Ghosts/README.md)
       - [`🪞_audience_ambiguity_and_the_black_goat_problem.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪹_Network_Ghosts/🪞_audience_ambiguity_and_the_black_goat_problem.md)
+      - [`🪢_relational_misbinding.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪹_Network_Ghosts/🪢_relational_misbinding.md)
     - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/README.md)
   - [**🦴_Skeletal_Shards/**](👻_Apparitional_Objects/🦴_Skeletal_Shards/)
     - [`README.md`](👻_Apparitional_Objects/🦴_Skeletal_Shards/README.md)
