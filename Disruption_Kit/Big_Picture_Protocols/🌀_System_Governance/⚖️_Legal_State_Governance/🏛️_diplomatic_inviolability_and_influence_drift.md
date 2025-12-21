@@ -1,10 +1,10 @@
-# 🏛️ Diplomatic inviolability and influence drift
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How protected diplomatic space enables influence without trace, and why weak process turns relationship management into policy capture.*
+# 🏛️ Diplomatic Inviolability & Influence Drift  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+*How protected diplomatic space enables influence without trace, and why weak process turns relationship management into policy capture.*  
 
 ---
 
-## 🧭 What this node is
+## 🧭 What This Node Is  
 This node explains how **diplomatic inviolability**, informal engagement, and elite relationship management can:
 
 - bypass ordinary transparency,
@@ -16,7 +16,7 @@ It maps **structural opacity**.
 
 ---
 
-## 🏛️ Inviolability (what it is, what it isn’t)
+## 🏛️ Inviolability (What It Is, What It Isn’t)
 Embassies are **not sovereign territory**.
 
 They are:
@@ -33,7 +33,7 @@ This is a design feature of diplomacy.
 
 ---
 
-## 🧩 Influence without transaction
+## 🧩 Influence Without Transaction
 Modern diplomatic influence rarely looks like:
 
 - bribes,
@@ -56,7 +56,7 @@ Nothing illegal needs to happen.
 
 ---
 
-## 🧠 Why ministers are the focal point
+## 🧠 Why Ministers Are The Focal Point
 Because UK authority is concentrated:
 
 - influencing ministers influences the system,
@@ -70,7 +70,7 @@ Once ministers are comfortable:
 
 ---
 
-## 🔁 Drift mechanics (how it happens)
+## 🔁 Drift Mechanics (How It Happens)
 Influence drift typically follows this pattern:
 
 1. Early crisis framed as exceptional.
@@ -85,7 +85,7 @@ Together they entrench posture.
 
 ---
 
-## ⚖️ Why this matters for prevention
+## ⚖️ Why This Matters For Prevention
 Genocide prevention and IHL compliance require:
 
 - early interruption,
@@ -101,7 +101,7 @@ By the time influence is visible externally, **prevention windows have closed**.
 
 ---
 
-## 🧯 Downstream effects
+## 🧯 Downstream Effects
 - Ministerial comfort substitutes for legal certainty.
 - Civil servants lack grounds to refuse.
 - Courts and committees inherit faits accomplis.
@@ -110,7 +110,7 @@ By the time influence is visible externally, **prevention windows have closed**.
 
 ---
 
-## 🧷 Working claim
+## 🧷 Working Claim
 Diplomatic inviolability does not cause harm.
 
 But where:
@@ -134,16 +134,16 @@ diplomatic inviolability, embassy influence, informal diplomacy, relationship ma
 
 ## 🏮 Footer
 
-*Diplomatic inviolability and influence drift* is a structural diplomacy node in the **Polaris Protocol**.
+*🏛️ Diplomatic Inviolability & Influence Drift* is a structural diplomacy node in the **Polaris Protocol**.
 
 It exists to explain how lawful diplomatic practices can, under weak process conditions, undermine early intervention duties without leaving evidence of wrongdoing.
 
 > 📡 Cross-references:
 >
-> - [🏛️ Ministerial authority and collapse of lawful refusal](./🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *where influence lands*
-> - [⚖️ Judicial reviews, parliamentary committees, and procedural delay](./⚖️_judicial_reviews_parliamentary_committees_and_procedural_delay.md) — *why drift is not corrected*
-> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *where drift mattered*
+> - [🏛️ Ministerial authority and collapse of lawful refusal] — *where influence lands*
+> - [⚖️ Judicial reviews, parliamentary committees, and procedural delay] — *why drift is not corrected*
+> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)] — *where drift mattered*
 >
 > *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-21_
