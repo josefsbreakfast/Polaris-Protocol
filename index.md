@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 03:01:12 UTC_
+_Generated on 2025-12-21 03:02:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -177,6 +177,7 @@ _Generated on 2025-12-21 03:01:12 UTC_
         - [`📜_harm_assessment_protocols.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_harm_assessment_protocols.md)
         - [`📡_the_governance_of_bodies_that_refuse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📡_the_governance_of_bodies_that_refuse.md)
         - [`🔁_post_realisation_phase.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🔁_post_realisation_phase.md)
+        - [`🔥_hunger_strike_comparisons.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🔥_hunger_strike_comparisons.md)
         - [`🔥_when_law_has_collapsed_into_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🔥_when_law_has_collapsed_into_power.md)
         - [`🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
         - [`🕎_the_esther_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🕎_the_esther_protocol.md)
@@ -3830,7 +3831,6 @@ _Generated on 2025-12-21 03:01:12 UTC_
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
-    - [`🔥_hunger_strike_comparisons.md`](Polaris_Nest/Git_Intake_Drawer/🔥_hunger_strike_comparisons.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🕰️_when_the_clock_stops_for_security.md`](Polaris_Nest/Git_Intake_Drawer/🕰️_when_the_clock_stops_for_security.md)
     - [`🕳️_ambient_threat_simulation.md`](Polaris_Nest/Git_Intake_Drawer/🕳️_ambient_threat_simulation.md)
