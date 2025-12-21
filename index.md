@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 03:24:32 UTC_
+_Generated on 2025-12-21 03:26:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -339,6 +339,7 @@ _Generated on 2025-12-21 03:24:32 UTC_
         - [`🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
         - [`🛰️_disappearing_public_surgery.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_disappearing_public_surgery.md)
+        - [`🛰️_intelligence_isr_and_vicarious_trauma.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_intelligence_isr_and_vicarious_trauma.md)
         - [`🛰️_predictive_logic_sans_predictive_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_predictive_logic_sans_predictive_infrastructure.md)
         - [`🛰️_separation_of_systems_university_prevent_mod.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_separation_of_systems_university_prevent_mod.md)
         - [`🤖_mr_meeseeks_and_the_shutdown_resistance_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🤖_mr_meeseeks_and_the_shutdown_resistance_problem.md)
@@ -3851,7 +3852,6 @@ _Generated on 2025-12-21 03:24:32 UTC_
     - [`🛰️_crash_constellation_overview.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_crash_constellation_overview.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
     - [`🛰️_field_log_missing_frequencies.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_field_log_missing_frequencies.md)
-    - [`🛰️_intelligence_isr_and_vicarious_trauma.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_intelligence_isr_and_vicarious_trauma.md)
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
