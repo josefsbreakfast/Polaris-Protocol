@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:20:01 UTC_
+_Generated on 2025-12-21 02:26:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -284,6 +284,7 @@ _Generated on 2025-12-21 02:20:01 UTC_
         - [`🏛️_institutional_posture_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_institutional_posture_collapse.md)
         - [`🏛️_the_boringing_uk_2010_2025.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_the_boringing_uk_2010_2025.md)
         - [`🏛️_yet_another_commission_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_yet_another_commission_as_containment.md)
+        - [`🐢_behavioural_proxies_all_the_way_down.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🐢_behavioural_proxies_all_the_way_down.md)
         - [`👹_how_predators_weaponise_safeguarding_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👹_how_predators_weaponise_safeguarding_systems.md)
         - [`👾_intent_free_authoritarian_drift.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👾_intent_free_authoritarian_drift.md)
         - [`💣_austerity_as_time_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💣_austerity_as_time_collapse.md)
@@ -3800,7 +3801,6 @@ _Generated on 2025-12-21 02:20:01 UTC_
     - [`🐝_abolitionists_answer_the_question_of_extreme_antisocial_predation.md`](Polaris_Nest/Git_Intake_Drawer/🐝_abolitionists_answer_the_question_of_extreme_antisocial_predation.md)
     - [`🐝_anarchist_answers_to_the_question_of_extreme_antisocial_predation.md`](Polaris_Nest/Git_Intake_Drawer/🐝_anarchist_answers_to_the_question_of_extreme_antisocial_predation.md)
     - [`🐝_time_to_clarity.md`](Polaris_Nest/Git_Intake_Drawer/🐝_time_to_clarity.md)
-    - [`🐢_behavioural_proxies_all_the_way_down.md`](Polaris_Nest/Git_Intake_Drawer/🐢_behavioural_proxies_all_the_way_down.md)
     - [`🐦‍⬛_cards_indices_grids.md`](Polaris_Nest/Git_Intake_Drawer/🐦‍⬛_cards_indices_grids.md)
     - [`🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md`](Polaris_Nest/Git_Intake_Drawer/🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
