@@ -1,4 +1,4 @@
-# 🧠 Survivors and Listening
+# 🐦‍🔥 Listening To Survivors  
 
 **First created:** 2025-12-21 | **Last updated:** 2025-12-21  
 *Survivor sovereignty as constraint, not resource.*
