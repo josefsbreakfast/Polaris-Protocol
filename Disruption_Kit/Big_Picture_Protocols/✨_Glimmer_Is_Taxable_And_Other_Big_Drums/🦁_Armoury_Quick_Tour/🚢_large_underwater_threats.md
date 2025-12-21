@@ -1,8 +1,6 @@
-File: 🚢_royal_navy_and_the_definite_reality_of_underwater_threats.md
-
 # 🚢 Royal Navy & The Definite Reality of Underwater Threats  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
-*Why navies throughout history — including the Royal Navy — have relied on exaggerated, unverifiable, and often completely imaginary underwater threats to justify budgets, prestige, and political leverage.*
+**First created:** 2025-11-17 | **Last updated:** 2025-12-21  
+*Why navies throughout history — including the Royal Navy — have relied on exaggerated, unverifiable, and often completely imaginary underwater threats to justify budgets, prestige, and political leverage.*  
 
 ---
 
@@ -209,3 +207,5 @@ It uses humour to dissect how imaginary monsters and vague aquatic adversaries c
 Crosslinks:  
 - 🦑 *kraken-based_defence_budget_satire*  
 - 🗡️ *why_trident_is_lowkey_kraken_insurance*
+
+_Last updated: 2025-12-21_
