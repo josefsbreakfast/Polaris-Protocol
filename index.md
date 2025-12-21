@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:03:42 UTC_
+_Generated on 2025-12-21 02:04:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3068,6 +3068,7 @@ _Generated on 2025-12-21 02:03:42 UTC_
       - [`❌_nothing_to_hide_fallacy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/❌_nothing_to_hide_fallacy.md)
       - [`🈺_prevent_as_structural_marginalisation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🈺_prevent_as_structural_marginalisation.md)
       - [`🌐_prevent_as_a_democracy_suppression_engine.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌐_prevent_as_a_democracy_suppression_engine.md)
+      - [`🌐_the_prevent_channel_harm_map_supernode.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌐_the_prevent_channel_harm_map_supernode.md)
       - [`🌑_prevent_as_britains_racialised_surveillance_system.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌑_prevent_as_britains_racialised_surveillance_system.md)
       - [`🌫_the_safeguarding_mirage.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌫_the_safeguarding_mirage.md)
       - [`🌱_prevent_logic_as_authoritarian_seedling.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌱_prevent_logic_as_authoritarian_seedling.md)
@@ -3781,7 +3782,6 @@ _Generated on 2025-12-21 02:03:42 UTC_
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
-    - [`🌐_prevent_channel_harm_map_supernode.md`](Polaris_Nest/Git_Intake_Drawer/🌐_prevent_channel_harm_map_supernode.md)
     - [`🌾_on_the_importance_of_trading_fairly.md`](Polaris_Nest/Git_Intake_Drawer/🌾_on_the_importance_of_trading_fairly.md)
     - [`🍉_asajew_globalise_the_intifada.md`](Polaris_Nest/Git_Intake_Drawer/🍉_asajew_globalise_the_intifada.md)
     - [`🍉_why_peacetime_vs_wartime_matters_for_democracy.md`](Polaris_Nest/Git_Intake_Drawer/🍉_why_peacetime_vs_wartime_matters_for_democracy.md)
