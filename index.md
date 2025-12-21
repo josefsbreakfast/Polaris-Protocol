@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:55:45 UTC_
+_Generated on 2025-12-21 02:58:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -919,6 +919,7 @@ _Generated on 2025-12-21 02:55:45 UTC_
           - [`🧿_dual_use_narratives_and_the_illusion_of_knowing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧿_dual_use_narratives_and_the_illusion_of_knowing.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/README.md)
         - [`💸_funding_the_uncertainty_economy.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/💸_funding_the_uncertainty_economy.md)
+        - [`🔄_mod_arms_industry_revolving_door.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🔄_mod_arms_industry_revolving_door.md)
         - [`🧠🔢_calculus_of_religious_affect.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🧠🔢_calculus_of_religious_affect.md)
       - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/README.md)
@@ -3826,7 +3827,6 @@ _Generated on 2025-12-21 02:55:45 UTC_
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
-    - [`🔄_mod_arms_industry_revolving_door.md`](Polaris_Nest/Git_Intake_Drawer/🔄_mod_arms_industry_revolving_door.md)
     - [`🔄_reputation_arms_race_loop.md`](Polaris_Nest/Git_Intake_Drawer/🔄_reputation_arms_race_loop.md)
     - [`🔕_internal_dissent_and_closing_of_recourse_uk_and_israel.md`](Polaris_Nest/Git_Intake_Drawer/🔕_internal_dissent_and_closing_of_recourse_uk_and_israel.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
