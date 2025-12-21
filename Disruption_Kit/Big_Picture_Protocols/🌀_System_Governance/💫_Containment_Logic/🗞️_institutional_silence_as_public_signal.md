@@ -1,10 +1,6 @@
-# 🗞️ *Institutional Silence as Public Signal*
-**When Saying Nothing Becomes a Form of Communication**
-
-**Date Created:** 2025-11-03  
-**Polaris Protocol Repository**  
-**Folder:** System_Governance / Trust_Decay  
-**Category:** Cultural Semiotics / Bureaucratic Psychology / Information Theory  
+# 🗞️ *Institutional Silence as Public Signal*  
+**First created:** 2025-11-03 | **Last updated:** 2025-12-21  
+*When Saying Nothing Becomes a Form of Communication*  
 
 ---
 
@@ -106,5 +102,5 @@ To break the spell, one must not shout — only listen carefully enough to hear 
 
 ---
 
-**Last Updated:** 2025-11-03  
+_Last updated: 2025-12-21_
 **Stardust Tags:** #InstitutionalSilence #CulturalSemiotics #TrustDecay #BureaucraticPsychology #PolarisSystem  
