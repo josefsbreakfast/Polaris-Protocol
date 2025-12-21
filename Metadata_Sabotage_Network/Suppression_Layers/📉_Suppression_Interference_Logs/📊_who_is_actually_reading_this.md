@@ -1,10 +1,10 @@
-# 📊 Who Is Actually Reading This
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*Interpreting small audiences, machine traffic, and perceived scrutiny in digital work*
+# 📊 Who Is Actually Reading This  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-21  
+*Interpreting small audiences, machine traffic, and perceived scrutiny in digital work.*  
 
 ---
 
-## 🛰️ Orientation
+## 🛰️ Orientation  
 
 When publishing analytical or niche material online, it is common for
 creators to misread audience size, intent, or attention.
@@ -18,7 +18,7 @@ produce the *feeling* of being widely read or closely watched.
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features  
 - Analytics often exaggerate perceived attention.
 - Machine traffic produces depth without audience.
 - Small numbers of engaged readers create disproportionate signal.
@@ -27,9 +27,7 @@ produce the *feeling* of being widely read or closely watched.
 
 ---
 
-## 🧿 Analysis / Content
-
-### 1) Analytics do not measure people
+## Analytics Do Not Measure People
 Most analytics systems measure:
 - page loads,
 - requests,
@@ -47,7 +45,7 @@ metrics that feel socially significant.
 
 ---
 
-### 2) Machine traffic dominates small projects
+## Machine Traffic Dominates Small Projects
 In small or specialised repositories, traffic is often composed of:
 - indexing bots,
 - search crawlers,
@@ -65,7 +63,7 @@ Their activity is structural, not interested.
 
 ---
 
-### 3) The deep-reader effect
+## The Deep-Reader Effect
 A small number of human readers — sometimes as few as one —
 can produce:
 - long sessions,
@@ -78,7 +76,7 @@ In reality, it is often a single curious person.
 
 ---
 
-### 4) Why this feels like scrutiny
+## Why This Feels Llike Sscrutiny
 Human nervous systems interpret:
 - repetition,
 - persistence,
@@ -93,7 +91,7 @@ This is a perceptual completion, not evidence.
 
 ---
 
-### 5) Absence of social feedback
+## Absence Of Social Feedback
 In many publishing contexts there is:
 - no comment section,
 - no likes,
@@ -107,7 +105,7 @@ The result is uncertainty, not surveillance.
 
 ---
 
-### 6) What this does *not* indicate
+## What This Does *Not* Indicate
 Small-scale analytics do not indicate:
 - institutional monitoring,
 - targeted observation,
@@ -119,7 +117,7 @@ substantially from ordinary crawler and reader behaviour.
 
 ---
 
-### 7) Reframing the question
+## Reframing The Question
 A more accurate framing is often:
 
 “Is this being indexed?”  
@@ -144,15 +142,15 @@ small readership, indexing, machine traffic, visibility
 
 ## 🏮 Footer
 
-Who Is Actually Reading This is a living node of the **Polaris Protocol**.
+*📊 Who Is Actually Reading This* is a living node of the **Polaris Protocol**.
 It documents how analytics systems and small audiences can produce
 a sense of scrutiny without corresponding human attention.
 
 > 📡 Cross-references:
 >
-> - [🕳️ Ambient Threat Simulation](./🕳️_ambient_threat_simulation.md) — perception of danger without agency  
-> - [📡 Algorithmic Violence Ecology](./📡_algorithmic_violence_ecology.md) — system-driven effects misread as intent  
+> - [🕳️ Ambient Threat Simulation] — *perception of danger without agency*  
+> - [📡 Algorithmic Violence Ecology] — *system-driven effects misread as intent*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-21_
