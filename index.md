@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:09:31 UTC_
+_Generated on 2025-12-21 02:10:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -154,6 +154,7 @@ _Generated on 2025-12-21 02:09:31 UTC_
         - [`🌋_whistleblowers_as_emergency_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌋_whistleblowers_as_emergency_governance.md)
         - [`🌍_treaty_for_the_english_speaking_internet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌍_treaty_for_the_english_speaking_internet.md)
         - [`🍉_why_peacetime_vs_wartime_matters_for_democracy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🍉_why_peacetime_vs_wartime_matters_for_democracy.md)
+        - [`🍉_why_the_long_prison_stay.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🍉_why_the_long_prison_stay.md)
         - [`🍞_why_food_safety_is_aggressively_regulated.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🍞_why_food_safety_is_aggressively_regulated.md)
         - [`🏛️_a_state_that_cannot_confront_abuse_cannot_protect.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_a_state_that_cannot_confront_abuse_cannot_protect.md)
         - [`🏛️_consultancy_power_vs_democratic_safeguards.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_consultancy_power_vs_democratic_safeguards.md)
@@ -3785,7 +3786,6 @@ _Generated on 2025-12-21 02:09:31 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
     - [`🌾_on_the_importance_of_trading_fairly.md`](Polaris_Nest/Git_Intake_Drawer/🌾_on_the_importance_of_trading_fairly.md)
-    - [`🍉_why_the_long_prison_stay.md`](Polaris_Nest/Git_Intake_Drawer/🍉_why_the_long_prison_stay.md)
     - [`🍑_soft_boy_sexuality_desire_without_shame.md`](Polaris_Nest/Git_Intake_Drawer/🍑_soft_boy_sexuality_desire_without_shame.md)
     - [`🍞_the_great_british_imperial_starvation_machine.md`](Polaris_Nest/Git_Intake_Drawer/🍞_the_great_british_imperial_starvation_machine.md)
     - [`🏏_Pitch_at_Palace_Audit_Practice_README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice_README.md)
