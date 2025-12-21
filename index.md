@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-21 02:10:52 UTC_
+_Generated on 2025-12-21 02:12:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2872,6 +2872,7 @@ _Generated on 2025-12-21 02:10:52 UTC_
       - [`🪬_tos_non_compliance_as_stealthing.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/🪬_tos_non_compliance_as_stealthing.md)
     - [`README.md`](Disruption_Kit/Survivor_Tools/README.md)
     - [`⛳️_capture_the_flag_game.md`](Disruption_Kit/Survivor_Tools/⛳️_capture_the_flag_game.md)
+    - [`✉️_councillor_correspondence_pack.md`](Disruption_Kit/Survivor_Tools/✉️_councillor_correspondence_pack.md)
     - [`➿_fork_loop_disruptors.md`](Disruption_Kit/Survivor_Tools/➿_fork_loop_disruptors.md)
     - [`🇫🇷_escaping_english_shitification.md`](Disruption_Kit/Survivor_Tools/🇫🇷_escaping_english_shitification.md)
     - [`🍃_two_layer_resilience_protocol.md`](Disruption_Kit/Survivor_Tools/🍃_two_layer_resilience_protocol.md)
@@ -3781,7 +3782,6 @@ _Generated on 2025-12-21 02:10:52 UTC_
     - [`✈️_the_politics_of_redaction.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_politics_of_redaction.md)
     - [`✈️_the_trauma_porn_of_it_all.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_trauma_porn_of_it_all.md)
     - [`✈️_who_wants_these_creeps_in_charge.md`](Polaris_Nest/Git_Intake_Drawer/✈️_who_wants_these_creeps_in_charge.md)
-    - [`✉️_councillor_correspondence_pack.md`](Polaris_Nest/Git_Intake_Drawer/✉️_councillor_correspondence_pack.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
