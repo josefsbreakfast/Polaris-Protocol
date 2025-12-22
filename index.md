@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-22 05:28:09 UTC_
+_Generated on 2025-12-22 05:28:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4025,6 +4025,7 @@ _Generated on 2025-12-22 05:28:09 UTC_
     - [`🪞_coercive_control_in_surveillance_systems.md`](Polaris_Nest/Git_Intake_Drawer/🪞_coercive_control_in_surveillance_systems.md)
     - [`🪞_gendered_awkwardness.md`](Polaris_Nest/Git_Intake_Drawer/🪞_gendered_awkwardness.md)
     - [`🪞_mirror_logic_of_concern.md`](Polaris_Nest/Git_Intake_Drawer/🪞_mirror_logic_of_concern.md)
+    - [`🪞_russia_china_narrative_substitution_matrix.md`](Polaris_Nest/Git_Intake_Drawer/🪞_russia_china_narrative_substitution_matrix.md)
     - [`🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md)
     - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
