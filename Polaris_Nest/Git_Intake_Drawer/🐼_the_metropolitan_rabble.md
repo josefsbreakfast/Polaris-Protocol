@@ -4,14 +4,16 @@
 
 ---
 
-> "They reckon you've got concussion...  
-> I couldn't give a tart's furry cup if half your brains are falling out.
-> Don't ever waltz into my kingdom acting king of the jungle."  
+> "They reckon you've got concussion...
+> 
+> I couldn't give a tart's furry cup if half your brains are falling out.  
+> 
+> Don't **ever** waltz into my kingdom acting king of the jungle."  
 > 
 > "Who the hell are you?"
 > 
 > "Gene Hunt. Your DCI. And it's 1973. Almost dinner time. I'm 'aving 'oops."
->
+>  
 > *- Life On Mars.*  
 
 ---
@@ -158,12 +160,13 @@ Without that, reforms remain cosmetic.
 ---
 
 > "But we've got even bigger fish to fry in this hornet's nest.
-> We only have one stab at it otherwise it'll be like rats leaving a sinking ship."
->
+>   
+> We only have one stab at it otherwise it'll be like rats leaving a sinking ship."  
+>  
 > "Metaphors... all over the shop..."  
->
+>  
 > "I know. Clever, innit?"
->
+>  
 > *- Ashes To Ashes.*
 
 ---
