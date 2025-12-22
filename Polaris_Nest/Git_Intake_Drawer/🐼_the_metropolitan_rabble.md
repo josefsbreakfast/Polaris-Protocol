@@ -157,6 +157,17 @@ Without that, reforms remain cosmetic.
 <!--Also, the Commissioner's blood pressure might need the help by now.-->
 ---
 
+> "But we've got even bigger fish to fry in this hornet's nest.
+> We only have one stab at it otherwise it'll be like rats leaving a sinking ship."
+>
+> "Metaphors... all over the shop..."  
+>
+> "I know. Clever, innit?"
+>
+> *- Ashes To Ashes.*
+
+---
+
 ## 🌌 Constellations  
 
 🐼 🧱 🎭 ⚖️ 🧠 — institutional indiscipline, policing culture, legitimacy, authority failure  
