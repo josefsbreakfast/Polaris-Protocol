@@ -29,3 +29,7 @@ More stable. Accessibility still severely limited.
 The amount of burying of craken-specific nodes, I have just noticed, and I am rather amused by.  
 
 ---
+
+Social apps force closing, reloading, resets accessibility settings.  
+
+---
