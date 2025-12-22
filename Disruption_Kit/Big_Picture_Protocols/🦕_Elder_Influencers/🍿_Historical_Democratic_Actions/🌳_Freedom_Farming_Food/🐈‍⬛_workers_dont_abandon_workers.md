@@ -19,7 +19,9 @@ As a result, people who:
 are rhetorically nudged outside the category of “workers.”
 
 This has not harmed farming elites.  
-It has harmed **working farmers** — and weakened worker politics more broadly.
+It has harmed **working farmers** — and weakened worker politics more broadly.  
+
+Farmers do not live on the traditional binary of "owner" of means of production, vs "labourer" who creates capital under ownership; praxis must respresent *who farmers are*, not what they may be under classification systems not-yet-decolonised.  
 
 ---
 
