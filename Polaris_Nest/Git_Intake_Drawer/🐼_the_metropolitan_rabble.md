@@ -4,7 +4,8 @@
 
 ---
 
-> "They reckon you've got concussion - I couldn't give a tart's furry cup if half your brains are falling out.
+> "They reckon you've got concussion...  
+> I couldn't give a tart's furry cup if half your brains are falling out.
 > Don't ever waltz into my kingdom acting king of the jungle."  
 > 
 > "Who the hell are you?"
