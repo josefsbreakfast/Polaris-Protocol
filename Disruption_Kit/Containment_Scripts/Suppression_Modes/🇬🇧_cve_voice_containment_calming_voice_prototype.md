@@ -1,5 +1,5 @@
 # 🇬🇧 CVE Voice Containment: Calming Voice Prototype  
-**First created:** 2025-08-31 | **Last updated:** 2025-12-21  
+**First created:** 2025-08-31 | **Last updated:** 2025-12-22  
 *Forensic note on UK countering violent extremism (CVE) projects and voice-based containment tools*  
 
 ---
@@ -62,5 +62,5 @@ It situates calming-voice artefacts within UK CVE frameworks, highlighting how s
 > - [🧨 Dual-Use Frankenstack](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🧨_dual_use_frankenstack.md) - *how to look for CVE adjacent frankenstacks*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-
-_Last updated: 2025-12-21_  
+<!--Hiding in plain sight.-->
+_Last updated: 2025-12-22_  
