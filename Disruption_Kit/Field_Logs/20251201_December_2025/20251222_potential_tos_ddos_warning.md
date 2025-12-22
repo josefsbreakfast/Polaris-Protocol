@@ -43,3 +43,7 @@ Connected bluetooth but "Find My" account not registering.
 If no good before leaving house, will become risk decision (ptsd largely subdued by constant white noise).  
 
 ---
+
+Cycling through multiple app and os crashes, connectivity failures, resetting devices...  
+
+---
