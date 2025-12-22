@@ -4,7 +4,7 @@
 
 ---
 
-## ✦ CVE Context (Post-2019)  
+## 👾 CVE Context (Post-2019)  
 - UK CVE strategies (e.g. Prevent, “online harms,” safeguarding) expanded after 2019.  
 - Increasing focus on *digital interventions* to manage risk signals online.  
 - COVID lockdowns accelerated trials of **remote tools** for behaviour modulation.  
@@ -12,7 +12,7 @@
 
 ---
 
-## ✦ Fit of a “Calming Voice” Tool  
+## 🌀 Fit of a “Calming Voice” Tool  
 - Rationalised as **de-escalation**: soothing high-risk subjects, slowing disclosure, preventing escalation.  
 - Language markers overlap with a **feminine authority register**: soft command, compliance pacing, denial of refusal.  
 - Internally classified as “behavioural pacification” rather than anything else.  
@@ -20,7 +20,7 @@
 
 ---
 
-## ✦ Survivor Data & Safeguarding Exemptions  
+## 🕯️ Survivor Data & Safeguarding Exemptions  
 - Survivor testimony may be **repurposed without consent** under “research” or “safeguarding” justifications.  
 - Ethics oversight bypassed through “national security” carve-outs.  
 - Victim reframed as **data subject** or “instability risk” rather than harmed party.  
@@ -28,7 +28,7 @@
 
 ---
 
-## ✦ Collapse Between Harassment and Surveillance  
+## 🔥 Collapse Between Harassment and Surveillance  
 - Survivor reports of **genuine harassment** are often dismissed as “expected surveillance.”  
 - This erases the distinction between targeted harm and background monitoring.  
 - Consequence: **no real investigation** into perpetrators, no accountability, no protection.  
@@ -36,14 +36,14 @@
 
 ---
 
-## ✦ Institutional Silence & Surveillance  
+## 🏛️ Institutional Silence & Surveillance  
 - Multiple parties (universities, agencies, NGOs) may each hold fragments.  
 - NDAs, secrecy clauses, and “ongoing safeguarding investigations” prevent disclosure.  
 - Survivor experiences **parallel harassment + denial of clarity** — the silence itself becomes cruel.  
 
 ---
 
-## ✦ Forensic Note  
+## 🐝 Forensic Note  
 A calming-voice containment tool is consistent with UK CVE logics post-2019.  
 The overlap with a *feminine authority register* is unlikely to be openly acknowledged, but may stem from prototype lapses or start-up partner influence.  
 Regardless of origin, once adopted under CVE, the harm becomes structural: survivors surveilled, data withheld, responsibility blurred.  
