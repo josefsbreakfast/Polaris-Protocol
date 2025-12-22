@@ -23,3 +23,9 @@ Please clone if material required for reference.
 Potential linked content can be viewed in Actions history.  
 
 ---
+
+More stable. Accessibility still severely limited.  
+
+The amount of burying of craken-specific nodes, I have just noticed, and I am rather amused by.  
+
+---
