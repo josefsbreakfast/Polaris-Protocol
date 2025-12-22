@@ -231,14 +231,13 @@ Institutional_Drift · Panic_Dynamics · Signal_Collapse · Governance_Failure �
 ---
 
 # 🏮 Footer  
-This node links directly with:
+This node forms the second chapter of the *institutional psychology* cluster  
+that concludes the Polaris collapse arc.  
 
-- **Institutional Posture Collapse (Node 41)**  
-- **Next: Reconstruction Logic (How Systems Repair Themselves After Failure)**  
-- **Full-Stack Institutional Failure (Node 39)**  
-- **Seven Layers of Safeguard Breakdown (Node 40)**
-
-It forms the second chapter of the *institutional psychology* cluster  
-that concludes the Polaris collapse arc.
+> 📡 Cross-references:
+>
+> - [🕶️ Whistleblowing and Entrapment in the Para-Intelligence Economy](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)  
+> - [🐐 Old-School Scapegoating](../🌀_System_Governance/📚_Narrative_Management/🐐_old_school_scapegoating.md)  
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
 
 _Last updated: 2025-12-21_
