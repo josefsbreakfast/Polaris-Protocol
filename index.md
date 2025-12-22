@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-22 01:07:02 UTC_
+_Generated on 2025-12-22 01:07:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -843,6 +843,7 @@ _Generated on 2025-12-22 01:07:02 UTC_
       - [**🍿_Historical_Democratic_Actions/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/)
         - [**🌳_Freedom_Farming_Food/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/README.md)
+          - [`✂️_enclosure_as_efficiency_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/✂️_enclosure_as_efficiency_theatre.md)
           - [`🌳_food_is_not_optional.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌳_food_is_not_optional.md)
           - [`🌾_home_front_memory_and_food.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌾_home_front_memory_and_food.md)
           - [`🏹_the_commons_and_collective_survival.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🏹_the_commons_and_collective_survival.md)
