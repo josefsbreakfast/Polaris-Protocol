@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-22 01:30:45 UTC_
+_Generated on 2025-12-22 01:31:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -844,6 +844,7 @@ _Generated on 2025-12-22 01:30:45 UTC_
         - [**🌳_Freedom_Farming_Food/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/README.md)
           - [`✂️_enclosure_as_efficiency_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/✂️_enclosure_as_efficiency_theatre.md)
+          - [`🌱_land_trusts_custodianship_models.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌱_land_trusts_custodianship_models.md)
           - [`🌳_food_is_not_optional.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌳_food_is_not_optional.md)
           - [`🌾_home_front_memory_and_food.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌾_home_front_memory_and_food.md)
           - [`🍞_use_value_vs_hoarding.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🍞_use_value_vs_hoarding.md)
