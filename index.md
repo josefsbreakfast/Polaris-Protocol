@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-22 05:27:15 UTC_
+_Generated on 2025-12-22 05:27:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3979,6 +3979,7 @@ _Generated on 2025-12-22 05:27:15 UTC_
     - [`🧾_soft_wipe_cache_evidence.md`](Polaris_Nest/Git_Intake_Drawer/🧾_soft_wipe_cache_evidence.md)
     - [`🧾_the_system_already_has_a_story_about_you.md`](Polaris_Nest/Git_Intake_Drawer/🧾_the_system_already_has_a_story_about_you.md)
     - [`🧿_atrocity_pattern_recognition_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧿_atrocity_pattern_recognition_toolkit.md)
+    - [`🧿_attribution_as_narrative_attack_surface.md`](Polaris_Nest/Git_Intake_Drawer/🧿_attribution_as_narrative_attack_surface.md)
     - [`🧿_cluster_level_behavioural_modulation_no_vendor_logs.md`](Polaris_Nest/Git_Intake_Drawer/🧿_cluster_level_behavioural_modulation_no_vendor_logs.md)
     - [`🧿_de_anonymisation_by_composite_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧿_de_anonymisation_by_composite_architecture.md)
     - [`🧿_did_the_uk_learn_from_the_troubles.md`](Polaris_Nest/Git_Intake_Drawer/🧿_did_the_uk_learn_from_the_troubles.md)
