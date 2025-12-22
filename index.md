@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-22 05:08:58 UTC_
+_Generated on 2025-12-22 05:16:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3878,6 +3878,7 @@ _Generated on 2025-12-22 05:08:58 UTC_
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
+    - [`📿_vulnerable_data_populations_at_fcdo.md`](Polaris_Nest/Git_Intake_Drawer/📿_vulnerable_data_populations_at_fcdo.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🗄️_epstein_files_are_red_herrings.md`](Polaris_Nest/Git_Intake_Drawer/🗄️_epstein_files_are_red_herrings.md)
