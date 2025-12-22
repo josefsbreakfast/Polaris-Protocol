@@ -1,5 +1,5 @@
 # 🇬🇧 CVE Voice Containment: Calming Voice Prototype  
-**First created:** 2025-08-31 | **Last updated:** 2025-09-13  
+**First created:** 2025-08-31 | **Last updated:** 2025-12-21  
 *Forensic note on UK countering violent extremism (CVE) projects and voice-based containment tools*  
 
 ---
@@ -54,10 +54,13 @@ Regardless of origin, once adopted under CVE, the harm becomes structural: survi
 *CVE Voice Containment: Calming Voice Prototype* is a living node of the Polaris Protocol.  
 It situates calming-voice artefacts within UK CVE frameworks, highlighting how survivor data can be co-opted and concealed under safeguarding logics.  
 
-> 📡 Cross-references:  
-> - [SCP-VoiceX Casefiles](../SCP-VoiceX_Casefiles/) — breach testimony and containment artefacts  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic timelines of CVE and safeguarding  
+> 📡 Cross-references:
+> 
+> - [🛰️ SCP-VoiceX](../Polaris_Nest/SCP-VoiceX_Casefiles/SCP-VoiceX.md) — *creative writing*  
+> - [🌀 Docility Engine](../../Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md)
+> - [🕶️ Whistleblowing and Entrapment in the Para-Intelligence Economy](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)
+> - [🧨 Dual-Use Frankenstack](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🧨_dual_use_frankenstack.md) - *how to look for CVE adjacent frankenstacks*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_  
+_Last updated: 2025-12-21_  
