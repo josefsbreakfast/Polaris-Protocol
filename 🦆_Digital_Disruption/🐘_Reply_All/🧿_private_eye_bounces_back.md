@@ -1,12 +1,14 @@
 # 🧿 Private Eye Bounces Back  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-14  
+**First created:** 2025-11-03 | **Last updated:** 2025-12-22  
 *When Britain’s oldest satirical paper rediscovers its bite, it signals that the absurd has overtaken the official.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Between 2024 and 2025, *Private Eye* shifted from cautious mockery to full‑scale investigative audacity.  
 The magazine’s renewed humour coincides with political absurdity peaking: censorship tightening, PR machines overreaching, and journalists rediscovering irony as a public‑interest weapon.  
+
+Even [Sky News](https://vm.tiktok.com/ZNR2H6Guu/) is addressing the question, "is satire dead?", and bemoaning the clonability of narrative politicians in 2025.  
 
 ---
 
