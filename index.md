@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-22 01:02:58 UTC_
+_Generated on 2025-12-22 01:04:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -845,6 +845,7 @@ _Generated on 2025-12-22 01:02:58 UTC_
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/README.md)
           - [`🌳_food_is_not_optional.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌳_food_is_not_optional.md)
           - [`🚜_tools_are_not_costumes.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🚜_tools_are_not_costumes.md)
+          - [`🧾_the_tax_collector_problem.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🧾_the_tax_collector_problem.md)
         - [**👾_Debugging_The_Men/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
           - [**🧬_Further_Potential_Male_Nonsense/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/)
             - [**Quick_Easy_Guides_Plain_Text/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/Quick_Easy_Guides_Plain_Text/)
