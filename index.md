@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-22 05:33:03 UTC_
+_Generated on 2025-12-22 06:56:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3872,6 +3872,7 @@ _Generated on 2025-12-22 05:33:03 UTC_
     - [`🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md`](Polaris_Nest/Git_Intake_Drawer/🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
+    - [`🐼_the_metropolitan_rabble.md`](Polaris_Nest/Git_Intake_Drawer/🐼_the_metropolitan_rabble.md)
     - [`👈_nudges_for_grudges.md`](Polaris_Nest/Git_Intake_Drawer/👈_nudges_for_grudges.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
