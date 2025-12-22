@@ -1,7 +1,17 @@
 # 🐼 The Metropolitan Rabble  
 **First created:** 2025-12-22 | **Last updated:** 2025-12-22  
 *Why the Met looks less like a disciplined force and more like authority without internal coherence — and why that explains more than “corruption” ever did.*
-<!--At least if we did it for some money it might pad out the budget we don't have. (Why are you working to the interests of everyone who got off 2008 scot-free again? 🤣🤣🤣 You'd get a pay rise faster with the rest of us.)-->
+
+---
+
+> Gene: They reckon you've got concussion - I couldn't give a tart's furry cup if half your brains are falling out.
+> Don't ever waltz into my kingdom acting king of the jungle.  
+> 
+> Sam: Who the hell are you?
+> Gene: Gene Hunt. Your DCI. And it's 1973. Almost dinner time. I'm 'aving 'oops.
+>
+> *- Life On Mars.*  
+
 ---
 
 ## 🛰️ Orientation  
@@ -37,7 +47,8 @@ Some individuals are compromised.
 Some leaders are *useful to power without being paid*.  
 But the dominant pattern is **absence of discipline plus presence of authority**.
 
-That combination is dangerous.
+That combination is dangerous.  
+<!--At least get something for the kitty if you're going to be "useful", jees.-->
 
 ---
 
@@ -88,7 +99,7 @@ But it also hides the more uncomfortable truth:
 The result is not strength.  
 It is **unpredictability**.
 
-And unpredictability is what the public reads as menace.
+And unpredictability is what the public reads as menace.  
 
 ---
 
