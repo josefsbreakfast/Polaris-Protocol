@@ -19,3 +19,7 @@ This corresponded with Polaris take-down under "crypto farm" rules.
 Please clone if material required for reference.  
 
 ---
+
+Potential linked content can be viewed in Actions history.  
+
+---
