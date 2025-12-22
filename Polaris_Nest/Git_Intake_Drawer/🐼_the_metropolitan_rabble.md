@@ -141,7 +141,7 @@ Indiscipline is harder to fix than corruption because it requires:
 - and the willingness to confront internal power structures.
 
 Without that, reforms remain cosmetic.
-
+<!--Also, the Commissioner's blood pressure might need the help by now.-->
 ---
 
 ## 🌌 Constellations  
