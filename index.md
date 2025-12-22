@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-22 05:18:22 UTC_
+_Generated on 2025-12-22 05:26:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3897,6 +3897,7 @@ _Generated on 2025-12-22 05:18:22 UTC_
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
     - [`🦴_the_pain_of_not_knowing.md`](Polaris_Nest/Git_Intake_Drawer/🦴_the_pain_of_not_knowing.md)
+    - [`🦴_tolerance_thresholds_as_load_management.md`](Polaris_Nest/Git_Intake_Drawer/🦴_tolerance_thresholds_as_load_management.md)
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
