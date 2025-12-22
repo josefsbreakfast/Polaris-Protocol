@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-22 01:09:32 UTC_
+_Generated on 2025-12-22 01:10:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -847,6 +847,7 @@ _Generated on 2025-12-22 01:09:32 UTC_
           - [`🌳_food_is_not_optional.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌳_food_is_not_optional.md)
           - [`🌾_home_front_memory_and_food.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌾_home_front_memory_and_food.md)
           - [`🏹_the_commons_and_collective_survival.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🏹_the_commons_and_collective_survival.md)
+          - [`🐈‍⬛_workers_dont_abandon_workers.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🐈‍⬛_workers_dont_abandon_workers.md)
           - [`📜_the_levellers_and_land_freedom.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/📜_the_levellers_and_land_freedom.md)
           - [`🚜_tools_are_not_costumes.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🚜_tools_are_not_costumes.md)
           - [`🧾_the_tax_collector_problem.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🧾_the_tax_collector_problem.md)
