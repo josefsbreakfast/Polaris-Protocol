@@ -32,4 +32,6 @@ The amount of burying of craken-specific nodes, I have just noticed, and I am ra
 
 Social apps force closing, reloading, resets accessibility settings.  
 
+(Crucially, this has thrown off my ShazXAlex clip searching; apportion blame accordingly.)  
+
 ---
