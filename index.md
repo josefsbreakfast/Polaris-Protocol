@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-22 05:30:39 UTC_
+_Generated on 2025-12-22 05:31:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3889,6 +3889,7 @@ _Generated on 2025-12-22 05:30:39 UTC_
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
+    - [`🛂_papers_please_origin_stories_exclusion_to_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🛂_papers_please_origin_stories_exclusion_to_infrastructure.md)
     - [`🛂_why_white_people_invented_passports.md`](Polaris_Nest/Git_Intake_Drawer/🛂_why_white_people_invented_passports.md)
     - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
     - [`🛰️_crash_constellation_overview.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_crash_constellation_overview.md)
