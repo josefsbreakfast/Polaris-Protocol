@@ -6,7 +6,7 @@
 
 ## 🛰️ Orientation  
 
-**[Bella Ciao]** is often treated as a generic protest anthem — interchangeable, aesthetic, decontextualised.
+**Bella Ciao** is often treated as a generic protest anthem — interchangeable, aesthetic, decontextualised.
 
 That reading strips it of what made it dangerous.
 
