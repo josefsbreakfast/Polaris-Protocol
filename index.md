@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-22 01:24:46 UTC_
+_Generated on 2025-12-22 01:29:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -847,6 +847,7 @@ _Generated on 2025-12-22 01:24:46 UTC_
           - [`🌳_food_is_not_optional.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌳_food_is_not_optional.md)
           - [`🌾_home_front_memory_and_food.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌾_home_front_memory_and_food.md)
           - [`🍞_use_value_vs_hoarding.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🍞_use_value_vs_hoarding.md)
+          - [`🎭_procedure_without_legitimacy.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🎭_procedure_without_legitimacy.md)
           - [`🏹_the_commons_and_collective_survival.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🏹_the_commons_and_collective_survival.md)
           - [`🐈‍⬛_workers_dont_abandon_workers.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🐈‍⬛_workers_dont_abandon_workers.md)
           - [`💊_antibiotics_as_crisis_adaptation.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/💊_antibiotics_as_crisis_adaptation.md)
