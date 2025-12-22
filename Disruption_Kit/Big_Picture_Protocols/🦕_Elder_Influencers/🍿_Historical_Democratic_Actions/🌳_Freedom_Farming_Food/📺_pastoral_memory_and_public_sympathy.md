@@ -42,7 +42,7 @@ British media has consistently framed farming through:
 - and friction with abstract authority.
 
 Key refresh points include:
-- *[The Darling Buds of May](https://youtu.be/VpqaoZaCYe8?si=z9B5JhJRDHOy8uWn))* — the tax collector out of place, gently defeated by lived reality  
+- *[The Darling Buds of May](https://youtu.be/VpqaoZaCYe8?si=z9B5JhJRDHOy8uWn)* — the tax collector out of place, gently defeated by lived reality  
 - *[Countryfile](https://youtu.be/ekeA7FMRHUM?si=AlRB0a3XD8WbjaeO)* — farming as national interest, not niche  
 - *[Cold Comfort Farm](https://youtu.be/OpAUoIg4LKg?si=fXsphyc4ApkkCrwr)* — satire that still centres rural work as human and legible  
 
