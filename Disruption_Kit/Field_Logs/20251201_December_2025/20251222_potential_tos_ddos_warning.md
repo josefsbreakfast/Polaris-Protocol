@@ -35,3 +35,11 @@ Social apps force closing, reloading, resets accessibility settings.
 (Crucially, this has thrown off my ShazXAlex clip searching; apportion blame accordingly.)  
 
 ---
+
+AirPods wiped off accounts and stalled re-connection after multiple restarts, >15 min.  
+
+Connected bluetooth but "Find My" account not registering.  
+
+If no good before leaving house, will become risk decision (ptsd largely subdued by constant white noise).  
+
+---
