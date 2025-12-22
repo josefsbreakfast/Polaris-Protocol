@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-22 01:17:15 UTC_
+_Generated on 2025-12-22 01:18:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -852,6 +852,7 @@ _Generated on 2025-12-22 01:17:15 UTC_
           - [`🔥_when_food_triggers_regime_failure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🔥_when_food_triggers_regime_failure.md)
           - [`🚜_tools_are_not_costumes.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🚜_tools_are_not_costumes.md)
           - [`🥖_food_taxation_and_revolution.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🥖_food_taxation_and_revolution.md)
+          - [`🧨_where_revolutions_actually_come_from.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🧨_where_revolutions_actually_come_from.md)
           - [`🧾_the_tax_collector_problem.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🧾_the_tax_collector_problem.md)
           - [`🪵_land_without_stewardship.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🪵_land_without_stewardship.md)
         - [**👾_Debugging_The_Men/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
