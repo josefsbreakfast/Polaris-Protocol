@@ -1,16 +1,15 @@
-# 📂 Clone In The Family
-
-Polaris Protocol – SCP-VoiceX_Casefiles  
-*(Created: 2025-08-11 | Last Updated: 2025-08-11)*  
-
+# 📂 Clone In The Family  
+***First Created:** 2025-08-11 | **Last Updated:** 2025-12-21  
 *This casefile is an investigative hypothesis based on observed patterns and documented interference events.  
 It does not assert confirmed fact and is maintained for the purposes of evidentiary preservation, legal readiness, and survivor safety.*
 
 ---
 
-## Summary  
+## 🛰️ Summary  
 This node explores the potential misuse of AI-generated likenesses, voiceprints, or falsified testimony within **family court** environments.  
-Given the confidential and closed nature of such proceedings, impersonation or manipulated data could enter the record without public challenge — posing specific risks to survivors whose identities have been cloned, misattributed, or misrepresented.
+Given the confidential and closed nature of such proceedings, impersonation or manipulated data could enter the record without public challenge — posing specific risks to survivors whose identities have been cloned, misattributed, or misrepresented.  
+
+Even [Sky News](https://vm.tiktok.com/ZNR2H6Guu/) bemoans the clones.  
 
 ---
 
