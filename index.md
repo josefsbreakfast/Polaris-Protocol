@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-22 09:29:19 UTC_
+_Generated on 2025-12-22 10:48:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4377,6 +4377,7 @@ _Generated on 2025-12-22 09:29:19 UTC_
       - [`🛠️_ai_and_tools.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🛠️_ai_and_tools.md)
       - [`🧠_resisting_nudging.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🧠_resisting_nudging.md)
       - [`🧭_principles.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🧭_principles.md)
+      - [`🪼_who_had_their_voice_stolen.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🪼_who_had_their_voice_stolen.md)
       - [`🫡_governance_and_moderation.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🫡_governance_and_moderation.md)
     - [**🕊️_War_Or_Peace/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md)
