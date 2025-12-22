@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-22 01:21:56 UTC_
+_Generated on 2025-12-22 01:22:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -848,6 +848,7 @@ _Generated on 2025-12-22 01:21:56 UTC_
           - [`🌾_home_front_memory_and_food.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌾_home_front_memory_and_food.md)
           - [`🏹_the_commons_and_collective_survival.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🏹_the_commons_and_collective_survival.md)
           - [`🐈‍⬛_workers_dont_abandon_workers.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🐈‍⬛_workers_dont_abandon_workers.md)
+          - [`💊_antibiotics_as_crisis_adaptation.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/💊_antibiotics_as_crisis_adaptation.md)
           - [`📉_asset_rich_cash_poor_farming.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/📉_asset_rich_cash_poor_farming.md)
           - [`📜_the_levellers_and_land_freedom.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/📜_the_levellers_and_land_freedom.md)
           - [`🔥_when_food_triggers_regime_failure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🔥_when_food_triggers_regime_failure.md)
