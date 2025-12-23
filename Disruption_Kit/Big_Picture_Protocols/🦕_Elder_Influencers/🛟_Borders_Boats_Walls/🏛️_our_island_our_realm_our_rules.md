@@ -156,7 +156,15 @@ xenia, hospitality, migration policy, asylum process, sovereignty without cruelt
 
 ## 🏮 Footer  
 *🏛️ Our Island, Our Realm, Our Rules* is a living node of the Polaris Protocol.  
-It exists to dismantle the false choice between borders and decency.
+It exists to dismantle the false choice between borders and decency.  
+
+> 📡 Cross-references:
+>
+> - [🇬🇧 Flags, False Catharsis, and the Thing We Refused to Say](../../🌀_System_Governance/📚_Narrative_Management/🇬🇧_flags_and_false_catharsis.md) - *symbolic patriotism versus moral clarity*  
+> - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](../../../Survivor_Tools/🧰_tools_against_sock_puppets.md) — *disruption without amplification*  
+> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) - *fleshed out working diagnosis of anti-hunger-striking campaign*  
+> - [🦤 The Just-Eat Hunger Strike Tit](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🦤_the_just_eat_hunger_strike_tit.md) - *the sound of the JEHS tit in the wild*
+> - [🍉 Why The Long Prison Stay](../../🌀_System_Governance/⚖️_Legal_State_Governance/🍉_why_the_long_prison_stay.md) - *why whining about hunger strikers does not beat austerity for the common Briton; hence, the sounding like a tit*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
