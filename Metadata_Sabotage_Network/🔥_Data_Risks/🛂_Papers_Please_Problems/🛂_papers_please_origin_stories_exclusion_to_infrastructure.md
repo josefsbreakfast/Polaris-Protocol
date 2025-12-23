@@ -1,5 +1,5 @@
 # 🛂 Papers, Please: From Exclusion to Infrastructure
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
+**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
 *How temporary controls become permanent systems — and why origin stories matter for modern security analysis.*
 
 ---
@@ -153,9 +153,8 @@ They explain:
 It exists to ensure that modern security analysis accounts for the historical threat models embedded in everyday systems — especially those governing identity, movement, and belonging.
 
 > 📡 Cross-references:
-> - [Big Picture Protocols](../../🌀_System_Governance/) — systemic doctrine  
-> - [Metadata Sabotage Network](../) — data and governance risk  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-23_
