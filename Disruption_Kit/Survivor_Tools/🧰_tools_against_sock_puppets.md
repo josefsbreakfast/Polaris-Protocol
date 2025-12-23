@@ -167,7 +167,13 @@ toolset, counter-mobilisation, sock puppets, practical activism, democratic resi
 
 ## 🏮 Footer  
 *Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them* is a living node of the Polaris Protocol.  
-It prioritises effectiveness over catharsis.
+It prioritises effectiveness over catharsis.  
+
+> 📡 Cross-references:
+>
+> - [🧰 Toolset Add-On: MP & BBC Contact Templates](./🧰_tools_vs_sock_puppets_mp_bbc.md) - *low-friction democratic escalation scripts*  
+> - [🧰 Toolset Add-On: Sock-Puppet Swarm Checklist](./🧰_tools_sock_puppet_swarm_checklist.md) - *rapid identification of coordinated inauthentic behaviour*  
+> - [🧰 Toolset Add-On: Permission Language Pack](./🧰_tools_against_sock_puppets_consent_linguistics.md) - *words that re-enable democratic action*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
