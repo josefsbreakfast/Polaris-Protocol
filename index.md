@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:34:34 UTC_
+_Generated on 2025-12-23 17:35:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3008,6 +3008,7 @@ _Generated on 2025-12-23 17:34:34 UTC_
     - [`🧰_leave_me_alone_playbook.md`](Disruption_Kit/Survivor_Tools/🧰_leave_me_alone_playbook.md)
     - [`🧰_tools_against_sock_puppets.md`](Disruption_Kit/Survivor_Tools/🧰_tools_against_sock_puppets.md)
     - [`🧰_tools_against_sock_puppets_consent_linguistics.md`](Disruption_Kit/Survivor_Tools/🧰_tools_against_sock_puppets_consent_linguistics.md)
+    - [`🧰_tools_sock_puppet_swarm_checklist.md`](Disruption_Kit/Survivor_Tools/🧰_tools_sock_puppet_swarm_checklist.md)
     - [`🧾_evidence_visibility_toolkit2.md`](Disruption_Kit/Survivor_Tools/🧾_evidence_visibility_toolkit2.md)
     - [`🧾_evidence_visibility_toolkit_3.md`](Disruption_Kit/Survivor_Tools/🧾_evidence_visibility_toolkit_3.md)
     - [`🪄_influencer_resilience.md`](Disruption_Kit/Survivor_Tools/🪄_influencer_resilience.md)
@@ -3982,7 +3983,6 @@ _Generated on 2025-12-23 17:34:34 UTC_
     - [`🧰_governance_risk_behaviour_index.md`](Polaris_Nest/Git_Intake_Drawer/🧰_governance_risk_behaviour_index.md)
     - [`🧰_middleware_hijack_agentics.md`](Polaris_Nest/Git_Intake_Drawer/🧰_middleware_hijack_agentics.md)
     - [`🧰_safety_mode_shifts_llm_output_profiles.md`](Polaris_Nest/Git_Intake_Drawer/🧰_safety_mode_shifts_llm_output_profiles.md)
-    - [`🧰_tools_sock_puppet_swarm_ cchecklist.md`](Polaris_Nest/Git_Intake_Drawer/🧰_tools_sock_puppet_swarm_ cchecklist.md)
     - [`🧰_tools_vs_sock_puppets_mp_bbc.md`](Polaris_Nest/Git_Intake_Drawer/🧰_tools_vs_sock_puppets_mp_bbc.md)
     - [`🧰_upstream_compromise_checklist.md`](Polaris_Nest/Git_Intake_Drawer/🧰_upstream_compromise_checklist.md)
     - [`🧱_administrative_precursor_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧱_administrative_precursor_problem.md)
