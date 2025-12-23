@@ -159,7 +159,8 @@ It documents how law is operationally subordinated to power under sustained pres
 > - [🪖 Authoritarian Capture of Policing Institutions](../../Governance_And_Containment/🈺_Governance_And_Prevent/🪖_authoritarian_capture_of_policing_institutions.md) — *structural context*  
 > - [🔥 Asymmetric Overload & Legal Insulation](../../Governance_And_Containment/🈸_Dispatch_And_Training/🔥_asymmetric_overload_and_legal_insulation.md) — *pressure mechanisms*  
 > - [🧠 Ethical Attrition via Asymmetric Burden](../../Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠_ethical_attrition_via_asymmetric_burden.md) — *consequences for personnel*
-> - [🧨 The Schmittian Drift in Exceptional Detention Governance](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_the_schmittian_drift_in_exceptional_detention_governance.md)  
+> - [🧨 The Schmittian Drift in Exceptional Detention Governance](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_the_schmittian_drift_in_exceptional_detention_governance.md)
+> - [⚠️ Erosion of Duty of Care Under Exception Logic](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚠️_the_erosion_of_duty_of_care_under_exception_logic.md) - *how usual legal protections of the person break down when states claim "emergency"*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
