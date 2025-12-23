@@ -51,7 +51,13 @@ Make empathy visible.
 
 ## 🏮 Footer  
 *Toolset Add-On: Sock-Puppet Swarm Checklist* is a rapid-response aid within the Polaris Protocol.  
-It favours calm clarity over reaction.
+It favours calm clarity over reaction.  
+
+> 📡 Cross-references:
+>
+> - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](./🧰_tools_against_sock_puppets.md) - *practical disruption without amplification*  
+> - [🧰 Toolset Add-On: MP & BBC Contact Templates](./🧰_tools_vs_sock_puppets_mp_bbc.md) - *low-friction democratic escalation scripts*  
+> - [🧰 Toolset Add-On: Permission Language Pack](./🧰_tools_against_sock_puppets_consent_linguistics.md) - *words that re-enable democratic action*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
