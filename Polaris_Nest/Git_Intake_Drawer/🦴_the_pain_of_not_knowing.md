@@ -1,7 +1,6 @@
-# 🦴 The Pain of Not Knowing
-
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
-*How unresolved allegations involving power embed fear, uncertainty, and moral injury.*
+# 🦴 The Pain of Not Knowing  
+**First created:** 2025-12-21 | **Last updated:** 2025-12-23  
+*How unresolved allegations involving power embed fear, uncertainty, and moral injury.*  
 
 ---
 
@@ -298,4 +297,5 @@ And justice does not require silence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-Last updated: 2025-12-21
+
+_Last updated: 2025-12-23_
