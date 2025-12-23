@@ -1,5 +1,5 @@
 # 🪼 Beyond Containment
-**First created:** 2025-12-17 | **Last updated:** 2025-12-17  
+**First created:** 2025-12-17 | **Last updated:** 2025-12-23  
 *What governance looks like when harm management gives way to prevention, repair, and restraint.*
 
 ---
@@ -91,14 +91,15 @@ containment failure, governance transition, harm prevention, institutional repai
 ---
 
 ## 🏮 Footer  
-*Beyond Containment* is a living node of the Polaris Protocol.  
+*🪼 Beyond Containment* is a living node of the Polaris Protocol.  
 It functions as a threshold marker — identifying when continued containment produces greater harm than recalibration.
 
 > 📡 Cross-references:
-> - [The Balance of Legal Exposures](./🩻_the_balance_of_legal_exposures.md) — liability-driven entrenchment  
-> - [The UK and Existential Delusions](./🇬🇧_the_uk_and_existential_delusions.md) — misclassified necessity  
-> - [System Thresholds](../Big_Picture_Protocols/🉑_system_thresholds.md) — red-line escalation logic  
+> 
+> - [🩻 The Balance of Legal Exposures] — *liability-driven entrenchment*  
+> - [🇬🇧 The UK and Existential Delusions] — *misclassified necessity*  
+> - [🉑 System Thresholds] — *red-line escalation logic*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2025-12-23_
