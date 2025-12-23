@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:17:11 UTC_
+_Generated on 2025-12-23 17:19:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -362,6 +362,7 @@ _Generated on 2025-12-23 17:17:11 UTC_
         - [`🧠_cognitive_feedback_and_bureaucratic_amplification.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_cognitive_feedback_and_bureaucratic_amplification.md)
         - [`🧠_cross_silo_reflex_mismatch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_cross_silo_reflex_mismatch.md)
         - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_didnt_apply_brain_loop.md)
+        - [`🧠_hypervigilance_as_governance_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_hypervigilance_as_governance_failure.md)
         - [`🧠_institutional_weather_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_institutional_weather_systems.md)
         - [`🧠_multilock_overlapping_covertion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_multilock_overlapping_covertion.md)
         - [`🧠_political_black_box_logic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_political_black_box_logic.md)
@@ -3942,7 +3943,6 @@ _Generated on 2025-12-23 17:17:11 UTC_
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧠_hypervigilance_is_a_governance_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧠_hypervigilance_is_a_governance_failure.md)
     - [`🧠_institutions_confuse_calm_with_safety.md`](Polaris_Nest/Git_Intake_Drawer/🧠_institutions_confuse_calm_with_safety.md)
     - [`🧠_why_people_downplay_elite_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧠_why_people_downplay_elite_abuse.md)
     - [`🧨_certainty_merchants_and_security_adjacent_amplifiers.md`](Polaris_Nest/Git_Intake_Drawer/🧨_certainty_merchants_and_security_adjacent_amplifiers.md)
