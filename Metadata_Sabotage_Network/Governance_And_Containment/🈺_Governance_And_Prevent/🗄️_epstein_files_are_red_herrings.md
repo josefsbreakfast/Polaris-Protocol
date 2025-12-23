@@ -1,11 +1,11 @@
 # 🗄️ Epstein Files Are Red Herrings  
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-21 | **Last updated:** 2025-12-23  
 *How selective disclosure redirects scrutiny while preserving underlying power.*
 
 ---
 
 ## 🛰️ Orientation  
-This node examines the public release of documents relating to **[Jeffrey Epstein](chatgpt://generic-entity?number=0)** as a case study in **misdirection rather than revelation**.
+This node examines the public release of documents relating to **Jeffrey Epstein** as a case study in **misdirection rather than revelation**.
 
 While framed as transparency, the release functions as a **red herring**: drawing attention toward familiar figures, procedural detail, and bureaucratic volume, while diverting scrutiny away from demand, scale, institutional failure, and survivor-centred truth.
 
@@ -30,8 +30,8 @@ A red herring does not deny reality; it **rearranges attention**.
 
 The Epstein files confirm what was already broadly known:
 - that Epstein abused children,
-- that **[Ghislaine Maxwell](chatgpt://generic-entity?number=1)** facilitated,
-- that **[Prince Andrew](chatgpt://generic-entity?number=2)** remains implicated.
+- that **Ghislaine Maxwell** facilitated,
+- that **Andrew Mountbatten-Windsor (aka "Prince" Andrew)** remains implicated.
 
 What they do *not* meaningfully illuminate:
 - the full client base,
@@ -60,7 +60,7 @@ Notably, there is often more granular detail on:
 - lawyers,
 - compliance officers,
 - risk management failures,
-- financial intermediaries (e.g. **[JPMorgan Chase](chatgpt://generic-entity?number=3)**),
+- financial intermediaries (e.g. **JPMorgan Chase**),
 
 than on those who **used** the trafficking system.
 
@@ -134,10 +134,10 @@ It contributes structural analysis of how document releases can function as misd
 
 > 📡 Cross-references:
 > 
-> - [🪞 Reputational Laundering After Admission](../Big_Picture_Protocols/) — post-exposure legitimacy repair  
-> - [🎭 Narrative Interference](../Metadata_Sabotage_Network/) — framing and attention control  
-> - [👅 Voice Disruption & Discrediting](../Metadata_Sabotage_Network/) — survivor silencing dynamics  
+> - [🪞 Reputational Laundering After Admission] — *post-exposure legitimacy repair*  
+> - [🎭 Narrative Interference] — *framing and attention control*  
+> - [👅 Voice Disruption & Discrediting] — *survivor silencing dynamics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-23_
