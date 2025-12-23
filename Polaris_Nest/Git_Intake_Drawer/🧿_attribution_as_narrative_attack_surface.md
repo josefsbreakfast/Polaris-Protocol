@@ -1,6 +1,6 @@
-# 🧿 Attribution as Narrative Attack Surface
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why premature certainty about “who did it” creates exploitable vulnerabilities — and how attribution itself becomes part of the battlespace.*
+# 🧿 Attribution as Narrative Attack Surface  
+**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
+*Why premature certainty about “who did it” creates exploitable vulnerabilities — and how attribution itself becomes part of the battlespace.*  
 
 ---
 
@@ -189,9 +189,8 @@ Handled well, it:
 It exists to prevent belief from becoming an exploitable vulnerability in moments of uncertainty.
 
 > 📡 Cross-references:
-> - [Metadata Sabotage Network](../) — narrative, data, and governance risks  
-> - [Big Picture Protocols](../../🌀_System_Governance/) — systemic doctrine  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-23_
