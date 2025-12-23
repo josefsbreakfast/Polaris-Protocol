@@ -13,7 +13,7 @@ This is a diagnostic node. It may change.
 
 ---
 
-## 🧿 Working Diagnosis (provisional)  
+## 🧿 Working Diagnosis  
 What is being observed does not feel like:
 - spontaneous public backlash,
 - issue-specific advocacy,
@@ -33,7 +33,7 @@ The working hypothesis is that this activity is best understood as **sock-puppet
 
 ---
 
-## 🧩 Comparative Case Texture (why this feels familiar)  
+## 🧩 Comparative Case Texture  
 This pattern does not feel emergent. It feels **rehearsed**.
 
 ### Early “Iron Swords” online mobilisation  
@@ -66,7 +66,7 @@ It is **permission**.
 
 ---
 
-## 🛰️ The Data Exposure Backdrop (why intimidation works)  
+## 🛰️ The Data Exposure Backdrop  
 This working diagnosis sits within a wider UK backdrop: repeated cyber incidents affecting *institutions and populations that are normally bipartisan-protected*.
 
 Over the last few years, the UK has seen major cyber events impacting:
@@ -88,7 +88,7 @@ The more plausible risk is often **like-minded political actors**, networks, or 
 
 ---
 
-## ⚠️ What this diagnosis is *not*  
+## ⚠️ What This Diagnosis Is *Not*  
 This node does **not** claim:
 - proof of payment,
 - proof of central coordination,
@@ -101,7 +101,7 @@ This is about **pattern recognition**, not accusation.
 
 ---
 
-## 🔎 What would update or falsify this theory  
+## 🔎 What Would Update Or Falsify This Theory  
 This working diagnosis should be revised if:
 - comment activity diversifies meaningfully,
 - genuine debate or emotional variance emerges,
@@ -131,7 +131,7 @@ working diagnosis, sock puppets, hunger strikers, information warfare, counter-m
 ---
 
 ## 🏮 Footer  
-*Working Diagnosis: Hunger Strikers Sock-Puppet Campaign* is a living node of the Polaris Protocol.  
+*👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign* is a living node of the Polaris Protocol.  
 It holds provisional analysis in one place so that claims remain bounded, revisable, and ethically constrained.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
