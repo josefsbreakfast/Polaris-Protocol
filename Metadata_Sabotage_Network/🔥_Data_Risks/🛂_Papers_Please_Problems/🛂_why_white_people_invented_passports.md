@@ -1,6 +1,6 @@
-# 🛂 Why White People Invented Passports
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*How racialised fear, exclusion, and population control produced modern identity documentation — and why pretending it was neutral breaks security analysis.*
+# 🛂 Why White People Invented Passports  
+**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
+*How racialised fear, exclusion, and population control produced modern identity documentation — and why pretending it was neutral breaks security analysis.*  
 
 ---
 
@@ -171,9 +171,8 @@ They explain why:
 It exists to surface the historical threat models embedded in modern identity infrastructure — so contemporary analysis does not repeat old errors under new language.
 
 > 📡 Cross-references:
-> - [Big Picture Protocols](../../🌀_System_Governance/) — systemic doctrine  
-> - [Metadata Sabotage Network](../) — data and governance risk  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-23_
