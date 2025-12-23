@@ -310,7 +310,15 @@ presupposition, media framing, movement literacy, misattribution, democratic pre
 
 ## 🏮 Footer  
 *🧠 How Reasonable People Reach the Wrong Conclusion* is a living node of the Polaris Protocol.  
-It exists to slow inference, protect truth, and reduce collateral harm.
+It exists to slow inference, protect truth, and reduce collateral harm.  
+
+> 📡 Cross-references:  
+>
+> - [🍉 Who Are the Sock Puppets?](./🍉_who_are_the_sock_puppets.md) — *identifying coordinated inauthentic actors*  
+> - [🍉 The Puppets Ain’t Israeli](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🍉_the_puppets_aint_israeli.md) — *misattribution as narrative vulnerability*  
+> - [🎭 Apparently, This Was Our Idea](./🎭_apparently_this_was_our_idea.md) — *consent manufactured through silence*  
+> - [🇬🇧 Flags, False Catharsis, and the Thing We Refused to Say](./🇬🇧_flags_and_false_catharsis.md) — *symbolism replacing clarity*  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
