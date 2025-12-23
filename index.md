@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 16:06:18 UTC_
+_Generated on 2025-12-23 16:08:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3502,6 +3502,7 @@ _Generated on 2025-12-23 16:06:18 UTC_
       - [`⚖️_plausible_deniability_exploits.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_plausible_deniability_exploits.md)
       - [`⚖️_schmittian_logic_in_policing_practice.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_schmittian_logic_in_policing_practice.md)
       - [`⚡️_citizen_polaris.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚡️_citizen_polaris.md)
+      - [`✈️_patterns_survivors_and_shatterforks.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/✈️_patterns_survivors_and_shatterforks.md)
       - [`🌀_authoritarian_capture_lifecycle.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_authoritarian_capture_lifecycle.md)
       - [`🌀_loop_notes_on_ai_language.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_loop_notes_on_ai_language.md)
       - [`🌋_escalation_drift_in_complex_datasets.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌋_escalation_drift_in_complex_datasets.md)
@@ -3863,7 +3864,6 @@ _Generated on 2025-12-23 16:06:18 UTC_
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`✈️_patterns_survivors_and_shatterforks.md`](Polaris_Nest/Git_Intake_Drawer/✈️_patterns_survivors_and_shatterforks.md)
     - [`✈️_the_dragging_out_of_predictable_let_down.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_dragging_out_of_predictable_let_down.md)
     - [`✈️_the_politics_of_redaction.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_politics_of_redaction.md)
     - [`✈️_the_trauma_porn_of_it_all.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_trauma_porn_of_it_all.md)
