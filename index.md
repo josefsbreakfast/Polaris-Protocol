@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 16:00:32 UTC_
+_Generated on 2025-12-23 16:06:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3255,6 +3255,7 @@ _Generated on 2025-12-23 16:00:32 UTC_
     - [**🉑_System_Thresholds/**](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/README.md)
       - [`⚙️_engines_of_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/⚙️_engines_of_containment.md)
+      - [`✈️_nonce_or_negligence.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/✈️_nonce_or_negligence.md)
       - [`🎪_when_the_armour_cracks.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🎪_when_the_armour_cracks.md)
       - [`🏛️_oversight_collapse_under_systemic_attrition.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🏛️_oversight_collapse_under_systemic_attrition.md)
       - [`📊_analytics_as_signal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/📊_analytics_as_signal.md)
@@ -3862,7 +3863,6 @@ _Generated on 2025-12-23 16:00:32 UTC_
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`✈️_nonce_or_negligence.md`](Polaris_Nest/Git_Intake_Drawer/✈️_nonce_or_negligence.md)
     - [`✈️_patterns_survivors_and_shatterforks.md`](Polaris_Nest/Git_Intake_Drawer/✈️_patterns_survivors_and_shatterforks.md)
     - [`✈️_the_dragging_out_of_predictable_let_down.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_dragging_out_of_predictable_let_down.md)
     - [`✈️_the_politics_of_redaction.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_politics_of_redaction.md)
