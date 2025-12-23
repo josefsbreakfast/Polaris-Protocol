@@ -1,6 +1,6 @@
 # ✈️ Genocides and Paedophiles  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
-*On how democracies are repeatedly hollowed out to protect elite sexual violence and its facilitators.*
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*On how democracies are repeatedly hollowed out to protect elite sexual violence and its facilitators.*  
 
 ---
 
@@ -158,10 +158,10 @@ It contributes structural analysis of how democratic systems are hollowed out to
 
 > 📡 Cross-references:
 > 
-> - [✈️ Justice Forbidden](./✈️_justice_forbidden.md) — pre-emptive denial of accountability  
-> - [✈️ Arresting Justice](./✈️_arresting_justice.md) — justice delayed as governance strategy  
-> - [🗄️ Epstein Files Are Red Herrings](./🗄️_epstein_files_are_red_herrings.md) — misdirection through disclosure  
+> - [✈️ Justice Forbidden] — *pre-emptive denial of accountability*  
+> - [✈️ Arresting Justice] — *justice delayed as governance strategy*  
+> - [🗄️ Epstein Files Are Red Herrings — *misdirection through disclosure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-23_
