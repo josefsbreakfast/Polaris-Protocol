@@ -1,6 +1,6 @@
-# ⚖️ We Do Have to Prosecute the Elite, Actually
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Why elite non-prosecution is not prudence but democratic self-harm*
+# ⚖️ We Do Have to Prosecute the Elite, Actually  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*Why elite non-prosecution is not prudence but democratic self-harm.*  
 
 ---
 
@@ -156,14 +156,20 @@ elite accountability, rule of law, prosecutorial discretion, institutional failu
 
 ## 🏮 Footer
 
-*We Do Have to Prosecute the Elite, Actually* is a living node of the **Polaris Protocol**.  
+*⚖️ We Do Have to Prosecute the Elite, Actually* is a living node of the **Polaris Protocol**.  
 It documents why elite non-prosecution functions as systemic risk amplification rather than stability management.
 
-> 📡 Cross-references:
-> - **🧠 Big_Picture_Protocols** — structural governance analysis  
-> - **🍄 Suppression_Layers** — how containment manifests in practice  
-> - **🏯 Governance_And_Containment** — institutional self-protection mechanisms  
+> 📡 Cross-references:  
+> 
+> - [🌾 Impunity as Fertile Ground](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌾_impunity_as_fertile_ground.md) - *why rape prevention cannot exist without dismantling permission structures*  
+> - [💸 The Cost of a Closed Mouth](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/💸_the_cost_of_a_closed_mouth.md) — *truth as a commodity*  
+> - [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) - *what functional elite accountability could look like*  
+> - [⚖️ Elite Impunity Is a National Security Risk](./⚖️_elite_impunity_is_a_national_security_risk.md) — *downstream consequences*  
+> - [🕳️ When the Censor Is a Contractor](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕳️_when_the_censor_is_a_contractor.md) - *how elite parties and parties with significant capital outsource the gagging of anyone and everyone*  
+> - [📿 Women, Whistleblowers, & Prevent Drag](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/📿_women_whistleblowers_prevent_drag.md) - *how the UK's "counterterrorism" policies and practice multiply this impact for femme-coded survivors of SV*  
+> - [⚖️ How the CPS Operates](./⚖️_how_the_cps_operates.md) - *what "independence" actually means*  
+> - [⚖️ Where Prosecutorial Discretion Lives](./⚖️_where_prosecutorial_discretion_lives.md) — *how cases stall*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-23_
