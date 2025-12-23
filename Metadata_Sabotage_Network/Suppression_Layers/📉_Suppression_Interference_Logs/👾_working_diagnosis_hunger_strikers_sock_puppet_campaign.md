@@ -136,9 +136,9 @@ It holds provisional analysis in one place so that claims remain bounded, revisa
 
 > 📡 Cross-references:
 >
-> - [👾 Working Diagnosis: UK Data Exposure Accumulation](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👾_working_diagnosis_uk_data_exposure_accumulation.md) — structural conditions enabling interference
-> - [🍉 Who Are the Sock Puppets?](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🍉_who_are_the_sock_puppets.md) — behavioural signatures of coordination
-> - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](Disruption_Kit/Survivor_Tools/🧰_tools_against_sock_puppets.md) — disruption without amplification  
+> - [👾 Working Diagnosis: UK Data Exposure Accumulation](../../Structural_Analysis/🧼_System_Leakage_Signatures/👾_working_diagnosis_uk_data_exposure_accumulation.md) — structural conditions enabling interference
+> - [🍉 Who Are the Sock Puppets?](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🍉_who_are_the_sock_puppets.md) — behavioural signatures of coordination
+> - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](../../../Disruption_Kit/Survivor_Tools/🧰_tools_against_sock_puppets.md) — disruption without amplification  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
