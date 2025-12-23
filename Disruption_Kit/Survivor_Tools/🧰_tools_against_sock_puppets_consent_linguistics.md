@@ -62,7 +62,8 @@ It enables action without coercion.
 >
 > - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](./🧰_tools_against_sock_puppets.md) - *practical disruption without amplification*  
 > - [🧰 Toolset Add-On: MP & BBC Contact Templates](./🧰_tools_vs_sock_puppets_mp_bbc.md) - *low-friction democratic escalation scripts*  
-> - [🧰 Toolset Add-On: Sock-Puppet Swarm Checklist](./🧰_tools_sock_puppet_swarm_checklist.md) - *rapid identification of coordinated inauthentic behaviour*  
+> - [🧰 Toolset Add-On: Sock-Puppet Swarm Checklist](./🧰_tools_sock_puppet_swarm_checklist.md) - *rapid identification of coordinated inauthentic behaviour*
+> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) — *how we got here*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
