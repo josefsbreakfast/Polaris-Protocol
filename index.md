@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:20:44 UTC_
+_Generated on 2025-12-23 17:21:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3466,6 +3466,7 @@ _Generated on 2025-12-23 17:20:44 UTC_
       - [`🧠_illusion_of_cleverness_in_low_skill_adversaries.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_illusion_of_cleverness_in_low_skill_adversaries.md)
       - [`🧠_linguistic_containment_and_sexual_violence.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_linguistic_containment_and_sexual_violence.md)
       - [`🧠_misclassifying_intellectual_intimacy.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_misclassifying_intellectual_intimacy.md)
+      - [`🧠_why_people_downplay_elite_abuse.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_why_people_downplay_elite_abuse.md)
       - [`🧨_trace_resistance_framework.yaml`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧨_trace_resistance_framework.yaml)
       - [`🧩_repairing_trust_chains.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧩_repairing_trust_chains.md)
       - [`🧪_the_strategic_accuser_profile.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧪_the_strategic_accuser_profile.md)
@@ -3944,7 +3945,6 @@ _Generated on 2025-12-23 17:20:44 UTC_
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧠_why_people_downplay_elite_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧠_why_people_downplay_elite_abuse.md)
     - [`🧨_certainty_merchants_and_security_adjacent_amplifiers.md`](Polaris_Nest/Git_Intake_Drawer/🧨_certainty_merchants_and_security_adjacent_amplifiers.md)
     - [`🧨_deterrence_dies_in_private.md`](Polaris_Nest/Git_Intake_Drawer/🧨_deterrence_dies_in_private.md)
     - [`🧨_institutional_gaslighting.md`](Polaris_Nest/Git_Intake_Drawer/🧨_institutional_gaslighting.md)
