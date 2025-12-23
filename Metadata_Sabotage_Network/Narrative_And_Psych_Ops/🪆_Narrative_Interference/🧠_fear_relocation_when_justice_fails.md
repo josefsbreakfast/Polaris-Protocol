@@ -1,6 +1,6 @@
-# 🧠 Fear Moves When Justice Fails
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How unresolved harm displaces fear onto the visible, the powerless, and the convenient*
+# 🧠 Fear Moves When Justice Fails  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*How unresolved harm displaces fear onto the visible, the powerless, and the convenient.*  
 
 ---
 
@@ -156,7 +156,7 @@ fear displacement, justice failure, scapegoating, public anxiety, authoritarian 
 
 ## 🏮 Footer
 
-*Fear Moves When Justice Fails* is a living node of the **Polaris Protocol**.  
+*🧠 Fear Moves When Justice Fails* is a living node of the **Polaris Protocol**.  
 It documents how unresolved harm redirects collective fear toward accessible targets, destabilising democracy and public safety.
 
 > 📡 Cross-references:
@@ -167,4 +167,4 @@ It documents how unresolved harm redirects collective fear toward accessible tar
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-23_
