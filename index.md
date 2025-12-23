@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 16:08:09 UTC_
+_Generated on 2025-12-23 16:10:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3691,6 +3691,7 @@ _Generated on 2025-12-23 16:08:09 UTC_
         - [`last_8_timesteps_full_sim.csv`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/data/last_8_timesteps_full_sim.csv)
         - [`numeric_summary_target_blowback_metrics.csv`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/data/numeric_summary_target_blowback_metrics.csv)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/README.md)
+      - [`✈️_the_dragging_out_of_predictable_let_down.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/✈️_the_dragging_out_of_predictable_let_down.md)
       - [`🌪️_bureaucratic_escalation_rube_goldberg.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🌪️_bureaucratic_escalation_rube_goldberg.md)
       - [`🎙️_abe_and_digital_evidence_as_critical_failure_point.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🎙️_abe_and_digital_evidence_as_critical_failure_point.md)
       - [`🐍_vulnerability_manufacture_to_enmeshment.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🐍_vulnerability_manufacture_to_enmeshment.md)
@@ -3864,7 +3865,6 @@ _Generated on 2025-12-23 16:08:09 UTC_
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`✈️_the_dragging_out_of_predictable_let_down.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_dragging_out_of_predictable_let_down.md)
     - [`✈️_the_politics_of_redaction.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_politics_of_redaction.md)
     - [`✈️_the_trauma_porn_of_it_all.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_trauma_porn_of_it_all.md)
     - [`✈️_who_wants_these_creeps_in_charge.md`](Polaris_Nest/Git_Intake_Drawer/✈️_who_wants_these_creeps_in_charge.md)
