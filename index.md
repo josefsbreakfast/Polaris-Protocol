@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 15:44:22 UTC_
+_Generated on 2025-12-23 15:49:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -223,6 +223,7 @@ _Generated on 2025-12-23 15:44:22 UTC_
         - [`🌅_rise_of_institutional_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌅_rise_of_institutional_integrity.md)
         - [`🌍_cross_border_bias_propagation_in_surveillance_models.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌍_cross_border_bias_propagation_in_surveillance_models.md)
         - [`🌒_the_no_win_box.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌒_the_no_win_box.md)
+        - [`🍉_british_democracy_needs_you.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🍉_british_democracy_needs_you.md)
         - [`🏛️_raac_ruins_squad.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🏛️_raac_ruins_squad.md)
         - [`👁️_restoring_epistemic_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👁️_restoring_epistemic_integrity.md)
         - [`👑_asserting_sovereignty_after_allied_interference.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_asserting_sovereignty_after_allied_interference.md)
@@ -3871,7 +3872,6 @@ _Generated on 2025-12-23 15:44:22 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
     - [`🌾_on_the_importance_of_trading_fairly.md`](Polaris_Nest/Git_Intake_Drawer/🌾_on_the_importance_of_trading_fairly.md)
-    - [`🍉 _british_democracy_needs_you.md`](Polaris_Nest/Git_Intake_Drawer/🍉 _british_democracy_needs_you.md)
     - [`🍉 _the_puppets_aint_israeli.md`](Polaris_Nest/Git_Intake_Drawer/🍉 _the_puppets_aint_israeli.md)
     - [`🍉 _your_voice_is_your_vote.md`](Polaris_Nest/Git_Intake_Drawer/🍉 _your_voice_is_your_vote.md)
     - [`🎖️_training_the_old_guard_as_force_protection.md`](Polaris_Nest/Git_Intake_Drawer/🎖️_training_the_old_guard_as_force_protection.md)
