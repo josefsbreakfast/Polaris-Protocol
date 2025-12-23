@@ -1,6 +1,6 @@
-# 🧬 A Ladder of Accountability
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Designing graduated accountability so systems can act early, proportionately, and decisively*
+# 🧬 A Ladder of Accountability  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*Designing graduated accountability so systems can act early, proportionately, and decisively.*  
 
 ---
 
@@ -228,4 +228,4 @@ It documents how graduated, enforceable accountability prevents harm escalation 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-23_
