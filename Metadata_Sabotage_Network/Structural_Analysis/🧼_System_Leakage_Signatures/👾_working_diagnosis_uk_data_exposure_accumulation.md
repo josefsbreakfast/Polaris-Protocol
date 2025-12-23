@@ -122,9 +122,9 @@ It holds contextual synthesis so we don’t collapse into easy villains or britt
 
 > 📡 Cross-references:
 >
-> [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) - *coordinated suppression masquerading as organic backlash*
-> [🦑 Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) - *do not underestimate how much the big squid wants to go back to bed*
-> [👾 Chan-Style Petitioning](../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/README.md) - *how to tell if shit ain't real*
+> [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) - *coordinated suppression masquerading as organic backlash*  
+> [🦑 Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) - *do not underestimate how much the big squid wants to go back to bed*  
+> [👾 Chan-Style Petitioning](../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/README.md) - *how to tell if shit ain't real*  
 > [🧨 The Schmittian Drift in Exceptional Detention Governance](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_the_schmittian_drift_in_exceptional_detention_governance.md) - *the extremely obvious potential motivation for adverse parties' interference; it's always that lawyer-Nazi bastard's books all the way down*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
