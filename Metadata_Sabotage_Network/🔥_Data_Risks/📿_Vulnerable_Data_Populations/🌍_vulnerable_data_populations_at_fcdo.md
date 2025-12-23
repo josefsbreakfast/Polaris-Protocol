@@ -125,22 +125,18 @@ Ignoring them produces brittle systems that fail under secondary pressure.
 
 ---
 
-## 📡 Cross-References
-
-- 🐉 It’s Not Always Daddy Dragon — misattribution risks  
-- 🧟‍♀️ Residual Shadows at FCDO — long-tail data harm  
-- 🧿 FCDO Data Signatures — targeting logic inference  
-- 🧿 Attribution as Narrative Attack Surface — spoofability  
-- 🦑 CRAKEN System — reflexive load mapping  
-
----
-
 ## 🏮 Footer
 
 *🌍 Vulnerable Data Populations at FCDO* is a living node of the **Polaris Protocol**.  
 It exists to ensure that human risk is modelled explicitly — not assumed away — during cyber incidents involving diplomatic and immigration systems.
 
-> 📡 Cross-references:  
+> 📡 Cross-References:  
+> 
+> - [🐉 It’s Not Always Daddy Dragon](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐉_its_not_always_daddy_dragon.md) — *misattribution risks*
+> - [🌍 Residual Shadows at FCDO](../🧟‍♀️_Residual_Shadows/🌍_residual_shadows_at_fcdo.md) — *delayed exploitation*  
+> - [🧿 FCDO Data Signatures](../../Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_fcdo_data_signatures.md) — *targeting logic inference*  
+> - [🧿 Attribution as Narrative Attack Surface](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_attribution_as_narrative_attack_surface.md) — *spoofability*  
+> - [🦑 C.R.A.K.E.N. System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
