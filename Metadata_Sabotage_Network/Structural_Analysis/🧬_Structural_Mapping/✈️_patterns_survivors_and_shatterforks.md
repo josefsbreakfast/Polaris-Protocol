@@ -1,5 +1,5 @@
 # ✈️ Patterns, Survivors, and Shatterforks  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
 *How survivor outcomes, institutional behaviour, and disintegrative forks align in predictable ways.*
 
 ---
@@ -152,10 +152,10 @@ It contributes pattern-level analysis of how survivor harm, disclosure practices
 
 > 📡 Cross-references:
 > 
-> - [☢️ Shatterfork](./☢️_shatterfork.md) — disintegrative fork mechanics  
-> - [✈️ The Trauma Porn of It All](./✈️_the_trauma_porn_of_it_all.md) — exposure without justice  
-> - [✈️ Justice Forbidden](./✈️_justice_forbidden.md) — accountability structurally blocked  
+> - [☢️ Shatterfork] — *disintegrative fork mechanics*  
+> - [✈️ The Trauma Porn of It All] — *exposure without justice*  
+> - [✈️ Justice Forbidden] — *accountability structurally blocked*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-23_
