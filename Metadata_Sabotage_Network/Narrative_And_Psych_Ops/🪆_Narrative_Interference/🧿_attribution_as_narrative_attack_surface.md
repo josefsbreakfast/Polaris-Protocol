@@ -179,7 +179,7 @@ It exists to prevent belief from becoming an exploitable vulnerability in moment
 > 📡 Cross-References:  
 > 
 > - [🐉 It’s Not Always Daddy Dragon](./🐉_its_not_always_daddy_dragon.md) — *comfort-villain bias*  
-> - [🧿 FCDO Data Signatures](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_fcdo_data_signatures.md) — *structural constraints*  
+> - [🧿 FCDO Data Signatures](../../Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_fcdo_data_signatures.md) — *structural constraints*  
 > - [🌍 Vulnerable Data Populations at FCDO](../../🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md) — *who bears the cost*  
 > - [🌍 Residual Shadows at FCDO](../../🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌍_residual_shadows_at_fcdo.md) — *delayed exploitation*  
 > - [📺 Platforming as Soft Power Capture](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/📺_platforming_as_soft_power_capture.md) — *amplification mechanics*  
