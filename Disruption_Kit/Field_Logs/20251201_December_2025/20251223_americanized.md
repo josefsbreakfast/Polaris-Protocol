@@ -38,3 +38,7 @@ Puppeteering, one might say.
 ---
 
 (It's not that the other grandparents were southern. It's that I'd need to start explaining individual mining villages to you. I appreciate that this is a little bit much for the brain cells which pipe out adverts like the ones I've just had for the publications I've just had. Better to keep it simple with a classics-heavy crossword for you all. Remembering a few tragedies, I appreciate is a little easier on your minds then folk culture above Cambridgeshire.)  
+
+(That is, after all, where The Rebellion lives.)  
+
+---
