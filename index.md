@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:30:37 UTC_
+_Generated on 2025-12-23 17:31:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -242,6 +242,7 @@ _Generated on 2025-12-23 17:30:37 UTC_
         - [`🦠_openai_uk_due_diligence_autoimmunity_map.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_openai_uk_due_diligence_autoimmunity_map.md)
         - [`🦠_systemic_porosity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_systemic_porosity.md)
         - [`🧨_we_are_already_paying_the_cost.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🧨_we_are_already_paying_the_cost.md)
+        - [`🧬_distributed_complicity_in_modern_warfare.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🧬_distributed_complicity_in_modern_warfare.md)
         - [`🧭_reflexive_risk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🧭_reflexive_risk.md)
         - [`🪡_oversight_repair_kit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🪡_oversight_repair_kit.md)
         - [`🪦_cecot_as_rights_void_facility.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🪦_cecot_as_rights_void_facility.md)
@@ -3963,7 +3964,6 @@ _Generated on 2025-12-23 17:30:37 UTC_
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
-    - [`🧬_distributed_complicity_in_modern_warfare.md`](Polaris_Nest/Git_Intake_Drawer/🧬_distributed_complicity_in_modern_warfare.md)
     - [`🧬_forensic_psychology_is_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧬_forensic_psychology_is_infrastructure.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
