@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:16:00 UTC_
+_Generated on 2025-12-23 17:17:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3461,6 +3461,7 @@ _Generated on 2025-12-23 17:16:00 UTC_
       - [`🦠_plague_scapegoat_scripts_reused_across_targets.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🦠_plague_scapegoat_scripts_reused_across_targets.md)
       - [`🧙‍♀️_witch_logic_diagnostic.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md)
       - [`🧠_extraction_loop_data_vs_story.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_extraction_loop_data_vs_story.md)
+      - [`🧠_fear_relocation_when_justice_fails.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_fear_relocation_when_justice_fails.md)
       - [`🧠_illusion_of_cleverness_in_low_skill_adversaries.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_illusion_of_cleverness_in_low_skill_adversaries.md)
       - [`🧠_linguistic_containment_and_sexual_violence.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_linguistic_containment_and_sexual_violence.md)
       - [`🧠_misclassifying_intellectual_intimacy.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_misclassifying_intellectual_intimacy.md)
@@ -3941,7 +3942,6 @@ _Generated on 2025-12-23 17:16:00 UTC_
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧠_fear_moves_when_justice_fails.md`](Polaris_Nest/Git_Intake_Drawer/🧠_fear_moves_when_justice_fails.md)
     - [`🧠_hypervigilance_is_a_governance_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧠_hypervigilance_is_a_governance_failure.md)
     - [`🧠_institutions_confuse_calm_with_safety.md`](Polaris_Nest/Git_Intake_Drawer/🧠_institutions_confuse_calm_with_safety.md)
     - [`🧠_why_people_downplay_elite_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧠_why_people_downplay_elite_abuse.md)
