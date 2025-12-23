@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 15:56:31 UTC_
+_Generated on 2025-12-23 15:58:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -219,6 +219,7 @@ _Generated on 2025-12-23 15:56:31 UTC_
         - [`⚖️_architecture_of_complicity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⚖️_architecture_of_complicity.md)
         - [`⚖️_shielded_roles_and_information_risk_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⚖️_shielded_roles_and_information_risk_governance.md)
         - [`⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)
+        - [`✈️_genocides_and_paedophiles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/✈️_genocides_and_paedophiles.md)
         - [`✈️_worker_positioning_and_safety_culture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/✈️_worker_positioning_and_safety_culture.md)
         - [`🌅_rise_of_institutional_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌅_rise_of_institutional_integrity.md)
         - [`🌍_cross_border_bias_propagation_in_surveillance_models.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌍_cross_border_bias_propagation_in_surveillance_models.md)
@@ -3859,7 +3860,6 @@ _Generated on 2025-12-23 15:56:31 UTC_
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`✈️_genocides_and_paedophiles.md`](Polaris_Nest/Git_Intake_Drawer/✈️_genocides_and_paedophiles.md)
     - [`✈️_just_arrest_them.md`](Polaris_Nest/Git_Intake_Drawer/✈️_just_arrest_them.md)
     - [`✈️_justice_forbidden.md`](Polaris_Nest/Git_Intake_Drawer/✈️_justice_forbidden.md)
     - [`✈️_nonce_or_negligence.md`](Polaris_Nest/Git_Intake_Drawer/✈️_nonce_or_negligence.md)
