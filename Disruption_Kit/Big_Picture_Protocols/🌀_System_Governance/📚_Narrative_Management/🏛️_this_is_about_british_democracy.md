@@ -142,7 +142,7 @@ british democracy, conservative case, authoritarian warning, institutional legit
 ---
 
 ## 🏮 Footer  
-*This Is About British Democracy, Not Palestine Action* is a living node of the Polaris Protocol.  
+*🏛️ This Is About British Democracy, Not Palestine Action* is a living node of the Polaris Protocol.  
 It exists to build cross-spectrum clarity at moments where precedent matters more than ideology.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
