@@ -115,7 +115,7 @@ Still works.
 ---
 
 ## 🌌 Constellations  
-🦕 🕸️ 🧠 🏛️ — elder memory, civic instinct, sovereignty without shouting.
+🦕 🕸️ 🇬🇧 🧠 🏛️ — elder memory, civic instinct, sovereignty without shouting.
 
 ## ✨ Stardust  
 british instinct, sovereignty, elder influence, democratic spine, civic refusal
@@ -123,7 +123,7 @@ british instinct, sovereignty, elder influence, democratic spine, civic refusal
 ---
 
 ## 🏮 Footer  
-*This Is Our Island, Actually* is a living node of the Polaris Protocol.  
+*🇬🇧 This Is Our Island, Actually* is a living node of the Polaris Protocol.  
 It exists to remind people that democratic confidence is older than any algorithm.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
