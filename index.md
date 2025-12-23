@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:23:32 UTC_
+_Generated on 2025-12-23 17:25:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -241,6 +241,7 @@ _Generated on 2025-12-23 17:23:32 UTC_
         - [`🤫_collective_risk_silence_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🤫_collective_risk_silence_loop.md)
         - [`🦠_openai_uk_due_diligence_autoimmunity_map.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_openai_uk_due_diligence_autoimmunity_map.md)
         - [`🦠_systemic_porosity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_systemic_porosity.md)
+        - [`🧨_we_are_already_paying_the_cost.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🧨_we_are_already_paying_the_cost.md)
         - [`🧭_reflexive_risk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🧭_reflexive_risk.md)
         - [`🪡_oversight_repair_kit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🪡_oversight_repair_kit.md)
         - [`🪦_cecot_as_rights_void_facility.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🪦_cecot_as_rights_void_facility.md)
@@ -3952,7 +3953,6 @@ _Generated on 2025-12-23 17:23:32 UTC_
     - [`🧨_perfectly_legal_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧨_perfectly_legal_abuse.md)
     - [`🧨_perfectly_legal_harrassment.md`](Polaris_Nest/Git_Intake_Drawer/🧨_perfectly_legal_harrassment.md)
     - [`🧨_security_science_and_the_performance_of_precision.md`](Polaris_Nest/Git_Intake_Drawer/🧨_security_science_and_the_performance_of_precision.md)
-    - [`🧨_we_are_already_paying_the_cost.md`](Polaris_Nest/Git_Intake_Drawer/🧨_we_are_already_paying_the_cost.md)
     - [`🧩_accountability_failures_and_public_trust.md`](Polaris_Nest/Git_Intake_Drawer/🧩_accountability_failures_and_public_trust.md)
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
