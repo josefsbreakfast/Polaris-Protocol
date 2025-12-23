@@ -1,5 +1,5 @@
 # 🐦‍🔥 Survivors of the Files Deserve Better  
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-21 | **Last updated:** 2025-12-23  
 *A refusal to accept exposure without care, disclosure without justice, and survival without dignity.*
 
 ---
@@ -147,4 +147,4 @@ They are the reason justice exists at all.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-23_
