@@ -1,6 +1,6 @@
-# 🧬 Accountability Is Infrastructure
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Why accountability is not a moral add-on but a load-bearing system of the state*
+# 🧬 Accountability Is Infrastructure  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*Why accountability is not a moral add-on but a load-bearing system of the state.*  
 
 ---
 
@@ -201,7 +201,7 @@ accountability infrastructure, state capacity, institutional design, rule of law
 
 ## 🏮 Footer
 
-*Accountability Is Infrastructure* is a keystone node of the **Polaris Protocol**.  
+*🧬 Accountability Is Infrastructure* is a keystone node of the **Polaris Protocol**.  
 It frames accountability as a foundational system requirement without which justice, safeguarding, democracy, and security cannot function.
 
 > 📡 Cross-references:
@@ -213,4 +213,4 @@ It frames accountability as a foundational system requirement without which just
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-23_
