@@ -1,5 +1,5 @@
-# 🦑 Calcaneus Reflexion Anti-Kraken Ecological Navigation System  
-**First Created:** 2025-11-19 | **Last updated:** 2025-12-11  
+# 🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System  
+**First Created:** 2025-11-19 | **Last updated:** 2025-12-23  
 *The CRAKEN System — a reflexive, load-aware ecological model for geopolitical analysis.*
 
 ---
@@ -189,4 +189,17 @@ is the only way to keep the metaphorical Kraken asleep.
 
 ---
 
-_Last updated: 2025-12-11_
+## 🏮 Footer
+
+*C.R.A.K.E.N.* will be applied until the sea monsters can go back to sleep.  
+
+> 📡 Cross-references:
+>
+> - [⚖️ Defend Forward & Sovereign Cyber Response Ladder](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md) - moving from 2D to 3D-considered defence planning*  
+> - [🐉 It’s Not Always Daddy Dragon](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐉_its_not_always_daddy_dragon.md) — *C.R.A.K.E.N. applied throughout the series on FCDO hack*  
+> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) — *C.R.A.K.E.N. applied to a more mainstreamed sock-puppet campaign*    
+
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2025-12-23_
