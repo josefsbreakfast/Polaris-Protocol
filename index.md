@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:09:35 UTC_
+_Generated on 2025-12-23 17:10:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3456,6 +3456,7 @@ _Generated on 2025-12-23 17:09:35 UTC_
       - [`🚨_fragility_as_performance.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🚨_fragility_as_performance.md)
       - [`🤭_approval_then_forkstorm.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🤭_approval_then_forkstorm.md)
       - [`🦂_racialised_entitlement_violation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🦂_racialised_entitlement_violation.md)
+      - [`🦠_plague_scapegoat_scripts_reused_across_targets.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🦠_plague_scapegoat_scripts_reused_across_targets.md)
       - [`🧙‍♀️_witch_logic_diagnostic.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md)
       - [`🧠_extraction_loop_data_vs_story.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_extraction_loop_data_vs_story.md)
       - [`🧠_illusion_of_cleverness_in_low_skill_adversaries.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_illusion_of_cleverness_in_low_skill_adversaries.md)
@@ -3934,7 +3935,6 @@ _Generated on 2025-12-23 17:09:35 UTC_
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
-    - [`🦠_plague_scapegoat_scripts_reused_across_targets.md`](Polaris_Nest/Git_Intake_Drawer/🦠_plague_scapegoat_scripts_reused_across_targets.md)
     - [`🦴_the_pain_of_not_knowing.md`](Polaris_Nest/Git_Intake_Drawer/🦴_the_pain_of_not_knowing.md)
     - [`🦴_tolerance_thresholds_as_load_management.md`](Polaris_Nest/Git_Intake_Drawer/🦴_tolerance_thresholds_as_load_management.md)
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
