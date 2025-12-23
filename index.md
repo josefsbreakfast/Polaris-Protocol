@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 16:45:30 UTC_
+_Generated on 2025-12-23 16:45:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3083,6 +3083,7 @@ _Generated on 2025-12-23 16:45:30 UTC_
       - [`⚖️_borrowed_legitimacy_and_moral_sorting.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_borrowed_legitimacy_and_moral_sorting.md)
       - [`⚖️_reciprocal_accountability_implementation_checklist.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_reciprocal_accountability_implementation_checklist.md)
       - [`⚖️_reciprocal_accountability_protocol.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_reciprocal_accountability_protocol.md)
+      - [`🈴_allies_and_ethics_are_operational_variables.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🈴_allies_and_ethics_are_operational_variables.md)
       - [`🌩️_who_gets_to_quote_whom.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🌩️_who_gets_to_quote_whom.md)
       - [`🎓_duty_to_recognise_systemic_misclassification.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🎓_duty_to_recognise_systemic_misclassification.md)
       - [`🏛️_non_transferability_of_behavioural_interventions.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🏛️_non_transferability_of_behavioural_interventions.md)
@@ -3874,7 +3875,6 @@ _Generated on 2025-12-23 16:45:30 UTC_
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
-    - [`🈴_allies_and_ethics_are_operational_variables.md`](Polaris_Nest/Git_Intake_Drawer/🈴_allies_and_ethics_are_operational_variables.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
     - [`🌾_on_the_importance_of_trading_fairly.md`](Polaris_Nest/Git_Intake_Drawer/🌾_on_the_importance_of_trading_fairly.md)
