@@ -29,9 +29,10 @@ that would explain why a lot of material is being taken up by the very antiautho
 I am not offended; this is basically my childhood dream.  
 
 I'll tell you about the time I told one of my Geordie grandparents that I wanted to be Margaret Thatcher, because she was the first female Prime Minister, when I grew up, later.  
-
+<!--Incidentally, my miner's lung great-grandfather died around the same time, essentially partially from these complications and how they show up in healthcare; will discuss teaching the boarding school crowd about miner's knee another time. Empathy does exist; there is a reason we are divided, chaps.-->
 Lead balloon. That was the conservative voter in the family. That's how deep this shit is up north.  
-Although let's not pretend they were not a cabinet of men backing her.  
+
+Although let's not pretend there were not a cabinet of men backing her.  
 
 Puppeteering, one might say.  
 
