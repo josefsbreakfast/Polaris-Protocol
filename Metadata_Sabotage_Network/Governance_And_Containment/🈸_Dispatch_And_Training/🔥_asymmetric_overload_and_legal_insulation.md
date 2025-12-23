@@ -1,6 +1,6 @@
 # 🔥 Asymmetric Overload & Legal Insulation  
-**First created:** 2025-12-13 | **Last updated:** 2025-12-13  
-*How violence, burnout, and legal buffering are used to exhaust policing capacity and distort enforcement outcomes.*
+**First created:** 2025-12-13 | **Last updated:** 2025-12-23  
+*How violence, burnout, and legal buffering are used to exhaust policing capacity and distort enforcement outcomes.*  
 
 ---
 
@@ -148,14 +148,15 @@ burnout, policing overload, legal insulation, selective enforcement, authoritari
 
 ## 🏮 Footer  
 
-*Asymmetric Overload & Legal Insulation* is a living node of the **Polaris Protocol**.  
+*🔥 Asymmetric Overload & Legal Insulation* is a living node of the **Polaris Protocol**.  
 It documents how violence and legal buffering are used to exhaust policing systems and redirect enforcement away from powerful actors.
 
 > 📡 Cross-references:
-> - 🪖 *Authoritarian Capture of Policing Institutions* — structural context  
-> - 🧬 *Authoritarian Personnel Purification* — removal of internal brakes  
-> - 🧠 *Ethical Attrition via Asymmetric Burden* — long-term exit effects  
+> 
+> - [🪖 Authoritarian Capture of Policing Institutions](./🪖_authoritarian_capture_of_policing_institutions.md) — *how it is that policing misses this, as a whole*  
+> - [🧬 Authoritarian Personnel Purification](../🉑_System_Thresholds/🧬_authoritarian_personnel_purification.md) — *removal of internal brakes*  
+> - [🧠 Ethical Attrition via Asymmetric Burden](../../Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠_ethical_attrition_via_asymmetric_burden.md) — *long-term exit effects*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2025-12-23_
