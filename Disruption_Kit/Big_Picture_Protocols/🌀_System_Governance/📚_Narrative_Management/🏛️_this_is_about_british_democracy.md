@@ -147,9 +147,9 @@ It exists to build cross-spectrum clarity at moments where precedent matters mor
 
 > 📡 Cross-references:  
 >
-> - [🍉 British Democracy Needs You](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🍉_british_democracy_needs_you.md) — public permission as democratic fuel  
-> - [🛡️ This Is the Home Front](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🛡️_this_is_the_home_front.md) — civic defence under digital pressure  
-> - [🎭 Apparently, This Was Our Idea](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_apparently_this_was_our_idea.md) — how hesitation becomes consent  
+> - [🍉 British Democracy Needs You](../👑_Ownership_Control/🍉_british_democracy_needs_you.md) — public permission as democratic fuel  
+> - [🛡️ This Is the Home Front](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🛡️_this_is_the_home_front.md) — civic defence under digital pressure  
+> - [🎭 Apparently, This Was Our Idea](./🎭_apparently_this_was_our_idea.md) — how hesitation becomes consent  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
