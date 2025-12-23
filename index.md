@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:22:39 UTC_
+_Generated on 2025-12-23 17:23:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3288,6 +3288,7 @@ _Generated on 2025-12-23 17:22:39 UTC_
       - [`🦴_tolerance_thresholds_as_load_management.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🦴_tolerance_thresholds_as_load_management.md)
       - [`🧠_personality_authority_and_stress_amplification.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧠_personality_authority_and_stress_amplification.md)
       - [`🧠_psychological_containment_loops_living_below_the_threshold.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧠_psychological_containment_loops_living_below_the_threshold.md)
+      - [`🧨_deterrence_dies_in_private.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_deterrence_dies_in_private.md)
       - [`🧨_soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_soft_suspension_is_still_containment.md)
       - [`🧨_system_agitation_shopping_list.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_system_agitation_shopping_list.md)
       - [`🧨_the_fire_they_fear.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_the_fire_they_fear.md)
@@ -3946,7 +3947,6 @@ _Generated on 2025-12-23 17:22:39 UTC_
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧨_deterrence_dies_in_private.md`](Polaris_Nest/Git_Intake_Drawer/🧨_deterrence_dies_in_private.md)
     - [`🧨_institutional_gaslighting.md`](Polaris_Nest/Git_Intake_Drawer/🧨_institutional_gaslighting.md)
     - [`🧨_legal_gaslighting.md`](Polaris_Nest/Git_Intake_Drawer/🧨_legal_gaslighting.md)
     - [`🧨_perfectly_legal_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧨_perfectly_legal_abuse.md)
