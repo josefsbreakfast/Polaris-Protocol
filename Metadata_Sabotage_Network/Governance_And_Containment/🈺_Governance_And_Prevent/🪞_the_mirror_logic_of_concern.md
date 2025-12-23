@@ -1,6 +1,6 @@
 # 🪞 The Mirror Logic of “Concern”: How White Fear Becomes Risk Classification  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*How Prevent and Channel convert white unease, discomfort, and projection into “risk indicators,” transforming subjective feelings into structural suspicion against racialised people.*
+**First created:** 2025-11-23 | **Last updated:** 2025-12-23  
+*How Prevent and Channel convert white unease, discomfort, and projection into “risk indicators,” transforming subjective feelings into structural suspicion against racialised people.*  
 
 ---
 
@@ -181,4 +181,4 @@ It shows how Prevent converts white unease into institutional suspicion, turning
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-12-23_
