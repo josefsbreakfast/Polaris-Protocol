@@ -1,6 +1,6 @@
 # ✈️ The Dragging-Out of Predictable Let-Down  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
-*How institutions stretch disclosure and process over time to exhaust expectation, not to deliver justice.*
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*How institutions stretch disclosure and process over time to exhaust expectation, not to deliver justice.*  
 
 ---
 
@@ -126,10 +126,10 @@ It contributes analysis of how delay and managed expectation function as tools o
 
 > 📡 Cross-references:
 > 
-> - [✈️ Arresting Justice](./✈️_arresting_justice.md) — justice stalled mid-motion  
-> - [✈️ Justice Forbidden](./✈️_justice_forbidden.md) — accountability pre-empted  
-> - [🗄️ Epstein Files Are Red Herrings](./🗄️_epstein_files_are_red_herrings.md) — misdirection through disclosure  
+> - [✈️ Arresting Justice] — justice stalled mid-motion  
+> - [✈️ Justice Forbidden] — accountability pre-empted  
+> - [🗄️ Epstein Files Are Red Herrings] — misdirection through disclosure  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-23_
