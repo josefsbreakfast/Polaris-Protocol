@@ -3,6 +3,7 @@
 **Classification:** Imported Banter / Low-Energy Cruelty Meme  
 **Threat Level:** Socially Corrosive, Intellectually Embarrassing  
 
+**First Sighted:** 2025-12-23 | **Last Seen:** 2025-12-23  
 ---
 
 ## 🪶 Description  
@@ -109,7 +110,7 @@ If the joke feels imported, tired, and stupid — that’s because it is.
 ---
 
 ## 🦤 Conservation Status  
-**Extinct on Contact with Self-Respect**
+**Extinct on Contact with Self-Respect**  
 
 ---
 
@@ -120,3 +121,14 @@ If the joke feels imported, tired, and stupid — that’s because it is.
 
 *Filed under Potential Dodos:  
 ideas that should never be allowed to breed.*
+
+---
+
+---
+
+> 📡 Cross-references:
+>
+> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) - *first spotted in the comments sections*
+> - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](../../../Disruption_Kit/Survivor_Tools/🧰_tools_against_sock_puppets.md) - *how to set one free*
+
+_Last updated: 2025-12-23_
