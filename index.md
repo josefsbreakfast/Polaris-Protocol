@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:19:28 UTC_
+_Generated on 2025-12-23 17:20:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3549,6 +3549,7 @@ _Generated on 2025-12-23 17:19:28 UTC_
       - [`🕸️_practical_irreversibility_when_feedback_becomes_architecture.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕸️_practical_irreversibility_when_feedback_becomes_architecture.md)
       - [`🛸_metadata_logic_of_the_repo.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🛸_metadata_logic_of_the_repo.md)
       - [`🧠_behavioral_shadow_modelling_in_distributed_ml_systems.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧠_behavioral_shadow_modelling_in_distributed_ml_systems.md)
+      - [`🧠_institutions_confuse_calm_with_safety.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧠_institutions_confuse_calm_with_safety.md)
       - [`🧠_reframing_loops_in_ml_products.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧠_reframing_loops_in_ml_products.md)
       - [`🧩_human_computation_games_the_puzzle_economy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_human_computation_games_the_puzzle_economy.md)
       - [`🧩_the_data_empathy_gap.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_the_data_empathy_gap.md)
@@ -3943,7 +3944,6 @@ _Generated on 2025-12-23 17:19:28 UTC_
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧠_institutions_confuse_calm_with_safety.md`](Polaris_Nest/Git_Intake_Drawer/🧠_institutions_confuse_calm_with_safety.md)
     - [`🧠_why_people_downplay_elite_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧠_why_people_downplay_elite_abuse.md)
     - [`🧨_certainty_merchants_and_security_adjacent_amplifiers.md`](Polaris_Nest/Git_Intake_Drawer/🧨_certainty_merchants_and_security_adjacent_amplifiers.md)
     - [`🧨_deterrence_dies_in_private.md`](Polaris_Nest/Git_Intake_Drawer/🧨_deterrence_dies_in_private.md)
