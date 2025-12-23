@@ -1,13 +1,17 @@
-# 🪞 The Harper’s Principle — Vulnerability, Ego, and Fascist Capture
-**First created:** 2025-11-13 | **Last updated:** 2025-11-13
-*How personal wounds, humiliation, and emotional vulnerabilities create openings for authoritarian recruitment.*
+# 🪞 The Thompson Principle — Vulnerability, Ego, and Fascist Capture
+**First created:** 2025-11-13 | **Last updated:** 2025-12-23  
+*How personal wounds, humiliation, and emotional vulnerabilities create openings for authoritarian recruitment.*  
+
+---
 
 ## 🛰️ Orientation
-This node isolates the psychological dimension of fascist recruitment, expanding Dorothy Thompson’s 1941 Harper’s essay *“Who Goes Nazi?”* to modern radicalisation contexts.
+This node isolates the psychological dimension of fascist recruitment, expanding Dorothy Thompson’s 1941 Thompson’s essay *“Who Goes Nazi?”* to modern radicalisation contexts.
 
 The thesis:
 **People do not go Nazi because of ideology.
-They go Nazi because of psychological vulnerability.**
+They go Nazi because of psychological vulnerability.**  
+
+---
 
 ## ✨ Key Features
 - Ego wounds as radicalisation pathways
@@ -17,7 +21,9 @@ They go Nazi because of psychological vulnerability.**
 - Loneliness, shame, and identity gaps exploited
 - Application to STEM, military, police, governance
 
-## 1. 🌑 Fascism recruits through need
+---
+
+## 🌑 Fascism Recruits Through Need  
 Fascism appeals to faults, fractures, and wounds:
 
 - unacknowledged insecurity
@@ -28,7 +34,9 @@ Fascism appeals to faults, fractures, and wounds:
 - fear of insignificance
 - craving for belonging without intimacy
 
-## 2. 🪞 Ego wounds as entry points
+---
+
+## 🪞 Ego Wounds As Entry Points  
 Common vulnerabilities:
 
 - imposter syndrome
@@ -40,7 +48,9 @@ Common vulnerabilities:
 
 Fascism soothes the wound with specialness, destiny, insider identity.
 
-## 3. 🧩 Humiliation → rage → authoritarianism
+---
+
+## 🧩 Humiliation → Rage → Authoritarianism  
 Thompson:
 > “The Nazi type is one who is easily humiliated.”
 
@@ -54,7 +64,9 @@ Humiliation mutates into:
 
 Fascism gives the humiliated a sanctioned outlet.
 
-## 4. 🤝 Loneliness + belonging demand
+---
+
+## 🤝 Loneliness + Belonging Demand  
 People with thin social ties are primed for authoritarian belonging.
 
 Fascism promises:
@@ -66,7 +78,9 @@ Fascism promises:
 - identity
 - unconditional acceptance (in exchange for obedience)
 
-## 5. 🩻 Emotional illiteracy
+---
+
+## 🩻 Emotional Illiteracy  
 Cultures that punish emotion produce:
 
 - shame secrecy
@@ -77,7 +91,9 @@ Cultures that punish emotion produce:
 
 Fascism provides rigid certainty where emotional skill is missing.
 
-## 6. 🏛️ Power-adjacent flattery
+---
+
+## 🏛️ Power-Adjacent Flattery  
 The most vulnerable are not powerful — but *near* power:
 
 - junior officers
@@ -88,7 +104,9 @@ The most vulnerable are not powerful — but *near* power:
 
 Authoritarian recruitment flatters their frustration.
 
-## 7. 🧪 Why STEM/military/policing are vulnerable
+---
+
+## 🧪 Why STEM/Military/Policing Are Vulnerable  
 These cultures produce:
 
 - isolation
@@ -97,9 +115,11 @@ These cultures produce:
 - emotional stunting
 - performance trauma
 
-Paired with Harper’s vulnerabilities, they become ripe for capture.
+Paired with Thompson’s vulnerabilities, they become ripe for capture.
 
-## 8. 🔨 Fascism exploits wounds, not ideology
+---
+
+## 🔨 Fascism Exploits Wounds, Not Ideology  
 Recruits stay loyal not to fascism but to the thing that soothed their pain.
 
 Deradicalisation requires:
@@ -110,13 +130,19 @@ Deradicalisation requires:
 
 Not debate.
 
+---
+
 ## 🌌 Constellations
 🪞 🧠 🧩 🩻 — internal architecture, vulnerability, reflection, emotional topology.
 
 ## ✨ Stardust
-harpers principle, fascist vulnerability, ego wounds, humiliation, radicalisation, authoritarian capture, insecurity, emotional illiteracy, belonging, identity fractures
+Thompsons principle, fascist vulnerability, ego wounds, humiliation, radicalisation, authoritarian capture, insecurity, emotional illiteracy, belonging, identity fractures
+
+---
 
 ## 🏮 Footer
-*The Harper’s Principle — Vulnerability, Ego, and Fascist Capture* is a living node of the Polaris Protocol.
-*Survivor authorship is sovereign. Containment is never neutral.*
-_Last updated: 2025-11-13_
+*🪞 The Thompson’s Principle — Vulnerability, Ego, and Fascist Capture* is a living node of the Polaris Protocol.  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-23_
