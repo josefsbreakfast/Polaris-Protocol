@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:13:33 UTC_
+_Generated on 2025-12-23 17:14:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3284,6 +3284,7 @@ _Generated on 2025-12-23 17:13:33 UTC_
       - [`🚦_trigger_architecture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🚦_trigger_architecture.md)
       - [`🛠️_right_to_correction_after_data_poisoning.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🛠️_right_to_correction_after_data_poisoning.md)
       - [`🦤_false_pretexts_manufactured_justifications_for_intervention.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🦤_false_pretexts_manufactured_justifications_for_intervention.md)
+      - [`🦴_tolerance_thresholds_as_load_management.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🦴_tolerance_thresholds_as_load_management.md)
       - [`🧠_personality_authority_and_stress_amplification.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧠_personality_authority_and_stress_amplification.md)
       - [`🧠_psychological_containment_loops_living_below_the_threshold.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧠_psychological_containment_loops_living_below_the_threshold.md)
       - [`🧨_soft_suspension_is_still_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_soft_suspension_is_still_containment.md)
@@ -3481,8 +3482,6 @@ _Generated on 2025-12-23 17:13:33 UTC_
       - [`🪼_modern_extremism_recruits_through_vibes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪼_modern_extremism_recruits_through_vibes.md)
     - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md)
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
-    - [**🉑_System_Thresholds/**](Metadata_Sabotage_Network/Structural_Analysis/🉑_System_Thresholds/)
-      - [`🦴_tolerance_thresholds_as_load_management.md`](Metadata_Sabotage_Network/Structural_Analysis/🉑_System_Thresholds/🦴_tolerance_thresholds_as_load_management.md)
     - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/README.md)
       - [`🏚️_pre_digital_meets_post_digital.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🏚️_pre_digital_meets_post_digital.md)
