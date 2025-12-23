@@ -1,6 +1,6 @@
 # ✈️ Justice Forbidden  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
-*How redaction, misfocus, and reputational triage function to pre-empt justice before it can begin.*
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*How redaction, misfocus, and reputational triage function to pre-empt justice before it can begin.*  
 
 ---
 
@@ -201,10 +201,10 @@ It contributes analysis of how justice is structurally prevented through redacti
 
 > 📡 Cross-references:
 > 
-> - [✈️ Arresting Justice](./✈️_arresting_justice.md) — justice slowed and suspended  
-> - [🗄️ Epstein Files Are Red Herrings](./🗄️_epstein_files_are_red_herrings.md) — misdirection through disclosure  
-> - [🪞 Reputational Laundering After Admission](../Big_Picture_Protocols/) — post-exposure asset protection  
+> - [✈️ Arresting Justice] — *justice slowed and suspended*  
+> - [🗄️ Epstein Files Are Red Herrings] — *misdirection through disclosure*  
+> - [🪞 Reputational Laundering After Admission] — *post-exposure asset protection*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-23_
