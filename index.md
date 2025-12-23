@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:06:07 UTC_
+_Generated on 2025-12-23 17:09:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -580,6 +580,7 @@ _Generated on 2025-12-23 17:06:07 UTC_
         - [`💔_romance_lens_as_ontology_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/💔_romance_lens_as_ontology_failure.md)
         - [`📁_absence_of_check_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/📁_absence_of_check_in.md)
         - [`🛰️_counter_extremism_by_network.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🛰️_counter_extremism_by_network.md)
+        - [`🤖_ai_big_tech_and_israeli_apartheid_as_deregulated_security_lab.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🤖_ai_big_tech_and_israeli_apartheid_as_deregulated_security_lab.md)
         - [`🦕_geological_timescale_economics_make_new_dinosaurs.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🦕_geological_timescale_economics_make_new_dinosaurs.md)
         - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md)
         - [`🧠_the_dev.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧠_the_dev.md)
@@ -3930,7 +3931,6 @@ _Generated on 2025-12-23 17:06:07 UTC_
     - [`🛰️_token_switching_is_back_apparantly.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_token_switching_is_back_apparantly.md)
     - [`🛰️_whistleblower_ai_trust_network_sandbox.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_whistleblower_ai_trust_network_sandbox.md)
     - [`🛰️_why_proxy_logs_arent_golden_goose.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_why_proxy_logs_arent_golden_goose.md)
-    - [`🤖_ai_big_tech_and_israel_as_deregulated_security_lab.md`](Polaris_Nest/Git_Intake_Drawer/🤖_ai_big_tech_and_israel_as_deregulated_security_lab.md)
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
