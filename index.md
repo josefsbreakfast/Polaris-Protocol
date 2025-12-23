@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 15:52:07 UTC_
+_Generated on 2025-12-23 15:53:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1104,6 +1104,7 @@ _Generated on 2025-12-23 15:52:07 UTC_
         - [`⚖️_containment_contract_trace_hotel_edition.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_containment_contract_trace_hotel_edition.md)
         - [`🌀_forced_migration_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🌀_forced_migration_as_governance.md)
         - [`🏘️_council_incentives_hotels.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏘️_council_incentives_hotels.md)
+        - [`🏛️_our_island_our_realm_our_rules.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_our_island_our_realm_our_rules.md)
         - [`🏛️_uk_identity_cards_2000s.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_uk_identity_cards_2000s.md)
         - [`💷_migration_as_liability_shield.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/💷_migration_as_liability_shield.md)
         - [`📈_id_function_creep.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/📈_id_function_creep.md)
@@ -3882,7 +3883,6 @@ _Generated on 2025-12-23 15:52:07 UTC_
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
-    - [`🏛️_our_island_our_realm_our_rules.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_our_island_our_realm_our_rules.md)
     - [`🏛️_this_is_about_british_democracy.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_this_is_about_british_democracy.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`🐉_its_not_always_daddy_dragon.md`](Polaris_Nest/Git_Intake_Drawer/🐉_its_not_always_daddy_dragon.md)
