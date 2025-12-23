@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:14:26 UTC_
+_Generated on 2025-12-23 17:16:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3874,6 +3874,7 @@ _Generated on 2025-12-23 17:14:26 UTC_
       - [**audit/**](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/audit/)
         - [`📜_residual_shadow_audit.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/audit/📜_residual_shadow_audit.md)
       - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/README.md)
+      - [`🌍_residual_shadows_at_fcdo.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌍_residual_shadows_at_fcdo.md)
       - [`🌑_residual_violence_risk_via_inherited_offender_metadata.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌑_residual_violence_risk_via_inherited_offender_metadata.md)
       - [`👥_twin_profiles_biometrics.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/👥_twin_profiles_biometrics.md)
       - [`🕸️_voice_lineage_and_dataset_chain.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🕸️_voice_lineage_and_dataset_chain.md)
@@ -3940,7 +3941,6 @@ _Generated on 2025-12-23 17:14:26 UTC_
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧟‍♀️_residual_shadows_at_fcdo.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_residual_shadows_at_fcdo.md)
     - [`🧠_fear_moves_when_justice_fails.md`](Polaris_Nest/Git_Intake_Drawer/🧠_fear_moves_when_justice_fails.md)
     - [`🧠_hypervigilance_is_a_governance_failure.md`](Polaris_Nest/Git_Intake_Drawer/🧠_hypervigilance_is_a_governance_failure.md)
     - [`🧠_institutions_confuse_calm_with_safety.md`](Polaris_Nest/Git_Intake_Drawer/🧠_institutions_confuse_calm_with_safety.md)
