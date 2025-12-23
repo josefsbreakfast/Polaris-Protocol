@@ -1,5 +1,5 @@
 # 🐉 It’s Not Always Daddy Dragon
-**First created:** 2025-12-11 | **Last updated:** 2025-12-22  
+**First created:** 2025-12-11 | **Last updated:** 2025-12-23  
 *Why defaulting to a familiar great-power villain misplaces analytical load — and how that failure endangers real people.*
 
 ---
@@ -150,10 +150,8 @@ It reopens the analytical field and forces load to be redistributed where the ha
 *🐉 It’s Not Always Daddy Dragon* is a living node of the **Polaris Protocol**.  
 It exists to prevent premature narrative closure in moments of uncertainty — especially where bureaucratic systems and vulnerable populations absorb the real load.
 
-> 📡 Cross-references:
-> - [Metadata Sabotage Network](../) — narrative, data, and governance interference  
-> - [Big Picture Protocols](../../🌀_System_Governance/) — structural analysis  
+> 📡 Cross-references:  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-23_
