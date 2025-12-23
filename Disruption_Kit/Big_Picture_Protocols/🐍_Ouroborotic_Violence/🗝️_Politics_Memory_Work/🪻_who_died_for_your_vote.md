@@ -1,6 +1,6 @@
-# 🪻 Who Died For Your Vote  
-**First created:** 2025-12-18 | **Last updated:** 2025-12-18  
-*Remembering the women whose imprisonment, starvation, and deaths secured democratic rights in Britain.*
+# 🪻 Who Died For Your Vote?  
+**First created:** 2025-12-18 | **Last updated:** 2025-12-23  
+*Remembering the women whose imprisonment, starvation, and deaths secured democratic rights in Britain.*  
 
 ---
 
@@ -84,9 +84,9 @@ suffragettes, hunger strikes, force feeding, women’s suffrage, political impri
 ---
 
 ## 🏮 Footer  
-*🪻 Who Died For Your Vote* is a living node of the **Polaris Protocol**.  
-It restores historical accuracy where sanitisation has replaced truth.
+*🪻 Who Died For Your Vote?* is a living node of the **Polaris Protocol**.  
+It restores historical accuracy where sanitisation has replaced truth.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-18_
+_Last updated: 2025-12-23_
