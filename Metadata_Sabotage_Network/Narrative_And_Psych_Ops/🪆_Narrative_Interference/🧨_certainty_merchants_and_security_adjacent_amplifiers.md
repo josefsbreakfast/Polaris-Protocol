@@ -1,6 +1,6 @@
-# 🧨 Certainty Merchants and Security-Adjacent Amplifiers
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*How overconfident interpretation, incentive capture, and platform dynamics turn uncertainty into false authority — and why this accelerates strategic error.*
+# 🧨 Certainty Merchants and Security-Adjacent Amplifiers  
+**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
+*How overconfident interpretation, incentive capture, and platform dynamics turn uncertainty into false authority — and why this accelerates strategic error.*  
 
 ---
 
@@ -198,10 +198,8 @@ These slow error without suppressing speech.
 *🧨 Certainty Merchants and Security-Adjacent Amplifiers* is a living node of the **Polaris Protocol**.  
 It exists to identify and contain narrative acceleration pathways that turn uncertainty into strategic vulnerability.
 
-> 📡 Cross-references:
-> - [Metadata Sabotage Network](../) — narrative and governance risks  
-> - [Big Picture Protocols](../../🌀_System_Governance/) — systemic doctrine  
+> 📡 Cross-references:  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-23_
