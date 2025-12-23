@@ -1,6 +1,6 @@
-# 📺 Platforming as Soft Power Capture
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why who is given airtime, legitimacy, and repetition matters more than formal appointments in modern influence environments.*
+# 📺 Platforming as Soft Power Capture  
+**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
+*Why who is given airtime, legitimacy, and repetition matters more than formal appointments in modern influence environments.*  
 
 ---
 
@@ -160,9 +160,7 @@ Unexamined platform power creates **systemic fragility**.
 It exists to ensure that media infrastructure is analysed as part of the threat environment — not treated as a neutral backdrop.
 
 > 📡 Cross-references:
-> - [Big Picture Protocols](../../🌀_System_Governance/) — systemic doctrine  
-> - [Metadata Sabotage Network](../) — narrative and governance risk  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-23_
