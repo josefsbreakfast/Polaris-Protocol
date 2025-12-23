@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 16:59:03 UTC_
+_Generated on 2025-12-23 17:01:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3833,6 +3833,7 @@ _Generated on 2025-12-23 16:59:03 UTC_
     - [**📿_Vulnerable_Data_Populations/**](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/)
       - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/README.md)
       - [`♿_disabled_people_id_exclusion.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/♿_disabled_people_id_exclusion.md)
+      - [`🌍_vulnerable_data_populations_at_fcdo.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md)
       - [`🌑_why_a_child_rape_survivor_is_treated_as_a_violent_sexual_offender_by_government_systems.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌑_why_a_child_rape_survivor_is_treated_as_a_violent_sexual_offender_by_government_systems.md)
       - [`🐣_children_youth_id_card_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🐣_children_youth_id_card_risks.md)
       - [`💔_gender_sex_discrimination_id_cards.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/💔_gender_sex_discrimination_id_cards.md)
@@ -3913,7 +3914,6 @@ _Generated on 2025-12-23 16:59:03 UTC_
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
-    - [`📿_vulnerable_data_populations_at_fcdo.md`](Polaris_Nest/Git_Intake_Drawer/📿_vulnerable_data_populations_at_fcdo.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🗄️_epstein_files_are_red_herrings.md`](Polaris_Nest/Git_Intake_Drawer/🗄️_epstein_files_are_red_herrings.md)
