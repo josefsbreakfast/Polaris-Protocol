@@ -167,19 +167,7 @@ Handled poorly, it:
 Handled well, it:
 - constrains attacker incentives,
 - protects the right surfaces,
-- and keeps the system resilient under uncertainty.
-
----
-
-## 📡 Cross-References
-
-- 🐉 It’s Not Always Daddy Dragon — comfort-villain bias  
-- 🧿 FCDO Data Signatures — structural targeting logic  
-- 📿 Vulnerable Data Populations at FCDO — who bears the cost  
-- 🧟‍♀️ Residual Shadows at FCDO — delayed exploitation  
-- 📺 Platforming as Soft Power Capture — amplification dynamics  
-- 🦴 Tolerance Thresholds as Load Management — deferred harm  
-- 🦑 CRAKEN System — reflexive ecological mapping  
+- and keeps the system resilient under uncertainty.  
 
 ---
 
@@ -188,8 +176,15 @@ Handled well, it:
 *🧿 Attribution as Narrative Attack Surface* is a living node of the **Polaris Protocol**.  
 It exists to prevent belief from becoming an exploitable vulnerability in moments of uncertainty.
 
-> 📡 Cross-references:
-
+> 📡 Cross-References:  
+> 
+> - [🐉 It’s Not Always Daddy Dragon](./🐉_its_not_always_daddy_dragon.md) — *comfort-villain bias*  
+> - [🧿 FCDO Data Signatures](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_fcdo_data_signatures.md) — *structural constraints*  
+> - [🌍 Vulnerable Data Populations at FCDO](../../🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md) — *who bears the cost*  
+> - [🌍 Residual Shadows at FCDO](../../🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌍_residual_shadows_at_fcdo.md) — *delayed exploitation*  
+> - [📺 Platforming as Soft Power Capture](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/📺_platforming_as_soft_power_capture.md) — *amplification mechanics*  
+> - [🦴 Tolerance Thresholds as Load Management](../../Governance_And_Containment/🉑_System_Thresholds/🦴_tolerance_thresholds_as_load_management.md) — *deferred harm*  
+> - [🦑 C.R.A.K.E.N. System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
