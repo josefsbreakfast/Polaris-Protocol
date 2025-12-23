@@ -1,7 +1,7 @@
 # 🧠 How Reasonable People Reach the Wrong Conclusion  
 **First created:** 2025-12-23 | **Last updated:** 2025-12-23  
 *On presupposition, journalistic distance, and why assumptions harden so quickly.*
-
+<!--Hm. This node is really struggling to generate cleanly. For ref, I'm talking about how this doesn't look classically alike to Palestine Action, doesn't make sense under their current strategy for escalation, and instances like this are worth cautioning without clear knowledge or claim, as they functional structurally akin to how Freikorps operated, in that Nazis go "false flag" heavy because they are the most unoriginal people on planet Earth. https://vm.tiktok.com/ZNRj1M34a -->
 ---
 
 ## 🛰️ Orientation  
