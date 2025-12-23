@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 15:55:21 UTC_
+_Generated on 2025-12-23 15:56:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -417,6 +417,7 @@ _Generated on 2025-12-23 15:55:21 UTC_
         - [`political_two_axis_model_diagram.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/political_two_axis_model_diagram.png)
         - [`⚖️_election_candidacy_query.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/⚖️_election_candidacy_query.md)
         - [`⚖️_narrative_control_and_legal_responsibility.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/⚖️_narrative_control_and_legal_responsibility.md)
+        - [`✈️_classy_if_youre_rich.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✈️_classy_if_youre_rich.md)
         - [`✈️_crash_logic_state_grief_and_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✈️_crash_logic_state_grief_and_erasure.md)
         - [`✝️_why_moralising_disability_is_not_theology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✝️_why_moralising_disability_is_not_theology.md)
         - [`🇩🇪_trauma_sovereignty_as_foreign_policy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇩🇪_trauma_sovereignty_as_foreign_policy.md)
@@ -3858,7 +3859,6 @@ _Generated on 2025-12-23 15:55:21 UTC_
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`✈️_classy_if_youre_rich.md`](Polaris_Nest/Git_Intake_Drawer/✈️_classy_if_youre_rich.md)
     - [`✈️_genocides_and_paedophiles.md`](Polaris_Nest/Git_Intake_Drawer/✈️_genocides_and_paedophiles.md)
     - [`✈️_just_arrest_them.md`](Polaris_Nest/Git_Intake_Drawer/✈️_just_arrest_them.md)
     - [`✈️_justice_forbidden.md`](Polaris_Nest/Git_Intake_Drawer/✈️_justice_forbidden.md)
