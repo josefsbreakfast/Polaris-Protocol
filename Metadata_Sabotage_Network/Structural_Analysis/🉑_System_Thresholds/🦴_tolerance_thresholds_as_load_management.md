@@ -1,6 +1,6 @@
-# 🦴 Tolerance Thresholds as Load Management
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why systems tolerate harm not because they approve of it, but because absorbing it preserves structural control.*
+# 🦴 Tolerance Thresholds as Load Management  
+**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
+*Why systems tolerate harm not because they approve of it, but because absorbing it preserves structural control.*  
 
 ---
 
@@ -195,9 +195,9 @@ They are **structural diagnostics**, not moral judgements.
 It exists to explain why harmful conditions persist inside powerful systems — and why ignoring tolerance dynamics guarantees surprise.
 
 > 📡 Cross-references:
-> - [Metadata Sabotage Network](../) — governance, data, and narrative stress  
-> - [Big Picture Protocols](../../🌀_System_Governance/) — systemic analysis  
+> 
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-23_
