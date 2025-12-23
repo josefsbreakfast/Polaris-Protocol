@@ -1,6 +1,6 @@
-# 🧠 Why People Downplay Elite Abuse
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How power, hierarchy, and cognition combine to minimise harm without conscious intent*
+# 🧠 Why People Downplay Elite Abuse  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*How power, hierarchy, and cognition combine to minimise harm without conscious intent.*  
 
 ---
 
@@ -187,4 +187,4 @@ It documents the predictable psychological responses that allow elite abuse to p
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-23_
