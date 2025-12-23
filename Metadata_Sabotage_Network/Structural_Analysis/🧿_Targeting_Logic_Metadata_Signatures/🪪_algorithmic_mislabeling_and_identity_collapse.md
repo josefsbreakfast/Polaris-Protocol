@@ -1,7 +1,6 @@
 # 🪪 Algorithmic Mislabeling & Identity Collapse  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*How automated systems misclassify vulnerable people into the wrong identity funnels — and how those misclassifications become lived reality.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-23  
+*How automated systems misclassify vulnerable people into the wrong identity funnels — and how those misclassifications become lived reality.*  
 
 ---
 
@@ -224,14 +223,15 @@ Because he is finally out of the category.
 ---
 
 ## 🏮 Footer  
-**Algorithmic Mislabeling & Identity Collapse** is a living node of the Polaris Protocol.  
+*Algorithmic Mislabeling & Identity Collapse* is a living node of the Polaris Protocol.  
 It explains how identity is distorted by automated classification systems and how these distortions create vulnerability to extremist recruitment and self-loss.
 
-> 📡 Cross-references:  
-> - [🎩 Sorting Hat as Proto-Algorithmic Misclassification](./the_sorting_hat_as_proto_algorithmic_misclassification.md)  
-> - [🐈 Kylo Ren as Algorithmically Misclassified Softboy](./kylo_ren_as_algorithmically_misclassified_softboy.md)  
-> - [🧿 The Tech Bro → Kylo Ren Pipeline](./the_tech_bro_to_kylo_ren_pipeline.md)
+> 📡 Cross-references:
+> 
+> - [🎩 Sorting Hat as Proto-Algorithmic Misclassification]  
+> - [🐈 Kylo Ren as Algorithmically Misclassified Softboy]  
+> - [🧿 The Tech Bro → Kylo Ren Pipeline]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2025-11-23_
