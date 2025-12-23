@@ -1,6 +1,6 @@
 # ✈️ The Politics of Redaction  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
-*How redaction redistributes labour, power, and risk — and why survivors always pay the price.*
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*How redaction redistributes labour, power, and risk — and why survivors always pay the price.*  
 
 ---
 
@@ -386,10 +386,10 @@ It contributes analysis of how redaction functions as a political choice — red
 
 > 📡 Cross-references:
 > 
-> - [✈️ Justice Forbidden](./✈️_justice_forbidden.md) — accountability pre-empted  
-> - [✈️ Patterns, Survivors, and Shatterforks](./✈️_patterns_survivors_and_shatterforks.md) — patterned survivor harm  
-> - [🗄️ Epstein Files Are Red Herrings](./🗄️_epstein_files_are_red_herrings.md) — misdirection through disclosure  
+> - [✈️ Justice Forbidden] — *accountability pre-empted*  
+> - [✈️ Patterns, Survivors, and Shatterforks] — *patterned survivor harm*  
+> - [🗄️ Epstein Files Are Red Herrings] — *misdirection through disclosure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-23_
