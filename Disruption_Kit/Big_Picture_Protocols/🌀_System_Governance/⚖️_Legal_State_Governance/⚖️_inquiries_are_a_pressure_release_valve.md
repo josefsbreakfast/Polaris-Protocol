@@ -1,6 +1,6 @@
-# ⚖️ Inquiries Are a Pressure Release Valve
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How inquiries absorb public anger, stabilise institutions, and substitute for legal accountability*
+# ⚖️ Inquiries Are a Pressure Release Valve  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*How inquiries absorb public anger, stabilise institutions, and substitute for legal accountability.*  
 
 ---
 
@@ -172,15 +172,17 @@ public inquiries, accountability theatre, pressure release, non-prosecution, ins
 
 ## 🏮 Footer
 
-*Inquiries Are a Pressure Release Valve* is a living node of the **Polaris Protocol**.  
+*⚖️ Inquiries Are a Pressure Release Valve* is a living node of the **Polaris Protocol**.  
 It documents how inquiries function as stabilisation mechanisms that often displace legal accountability.
 
-> 📡 Cross-references:
-> - **⚖️ Where Prosecutorial Discretion Lives** — how cases stall  
-> - **⚖️ We Do Have to Prosecute the Elite, Actually** — accountability as public good  
-> - **⚖️ Elite Impunity Is a National Security Risk** — downstream consequences  
-> - **🏯 Governance_And_Containment** — institutional self-protection logic  
+> 📡 Cross-references:  
+> 
+> - [⚖️ Where Prosecutorial Discretion Lives](./⚖️_where_prosecutorial_discretion_lives.md) — *how cases stall*  
+> - [⚖️ We Do Have to Prosecute the Elite, Actually](./⚖️_we_do_have_to_prosecute_the_elite_actually.md) — *accountability as public good*  
+> - [⚖️ Elite Impunity Is a National Security Risk](./⚖️_elite_impunity_is_a_national_security_risk.md) — *downstream consequences*  
+> - [🕳️ When the Censor Is a Contractor](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕳️_when_the_censor_is_a_contractor.md) - *how elite parties and parties with significant capital outsource the gagging of anyone and everyone*  
+> - [📿 Women, Whistleblowers, & Prevent Drag](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/📿_women_whistleblowers_prevent_drag.md) - *how the UK's "counterterrorism" policies and practice multiply this impact for femme-coded survivors of SV*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-23_
