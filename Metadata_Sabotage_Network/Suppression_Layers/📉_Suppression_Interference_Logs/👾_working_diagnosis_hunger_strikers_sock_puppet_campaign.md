@@ -132,7 +132,14 @@ working diagnosis, sock puppets, hunger strikers, information warfare, counter-m
 
 ## 🏮 Footer  
 *👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign* is a living node of the Polaris Protocol.  
-It holds provisional analysis in one place so that claims remain bounded, revisable, and ethically constrained.
+It holds provisional analysis in one place so that claims remain bounded, revisable, and ethically constrained.  
+
+> 📡 Cross-references:
+>
+> - [👾 Working Diagnosis: UK Data Exposure Accumulation](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👾_working_diagnosis_uk_data_exposure_accumulation.md) — structural conditions enabling interference
+> - [🍉 Who Are the Sock Puppets?](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🍉_who_are_the_sock_puppets.md) — behavioural signatures of coordination
+> - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](Disruption_Kit/Survivor_Tools/🧰_tools_against_sock_puppets.md) — disruption without amplification  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
