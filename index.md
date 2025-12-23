@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 20:48:11 UTC_
+_Generated on 2025-12-23 20:50:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3722,6 +3722,7 @@ _Generated on 2025-12-23 20:48:11 UTC_
       - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_targeting_logic_empathy_is_a_threat.md)
       - [`🧿_targeting_logic_metadata_signatures_prevent.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_targeting_logic_metadata_signatures_prevent.md)
       - [`🪞_algorithmic_reframing.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪞_algorithmic_reframing.md)
+      - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪪_algorithmic_mislabeling_and_identity_collapse.md)
       - [`🪬_professional_profiles_with_high_system_literacy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪬_professional_profiles_with_high_system_literacy.md)
       - [`🪼_racialised_dual_attribution.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪼_racialised_dual_attribution.md)
       - [`🪼_when_data_pretends_to_be_meaning.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪼_when_data_pretends_to_be_meaning.md)
@@ -4072,7 +4073,6 @@ _Generated on 2025-12-23 20:48:11 UTC_
     - [`🪞_gendered_awkwardness.md`](Polaris_Nest/Git_Intake_Drawer/🪞_gendered_awkwardness.md)
     - [`🪞_mirror_logic_of_concern.md`](Polaris_Nest/Git_Intake_Drawer/🪞_mirror_logic_of_concern.md)
     - [`🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md)
-    - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
