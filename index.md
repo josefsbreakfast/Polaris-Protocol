@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 15:53:07 UTC_
+_Generated on 2025-12-23 15:55:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3149,6 +3149,7 @@ _Generated on 2025-12-23 15:53:07 UTC_
       - [`⚖️_adaptive_containment_thresholds.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_adaptive_containment_thresholds.md)
       - [`⚖️_palestine_action_prescription_case_study.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_palestine_action_prescription_case_study.md)
       - [`⚠️_misaligned_risk_reflexes_in_safeguarding_and_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚠️_misaligned_risk_reflexes_in_safeguarding_and_prevent.md)
+      - [`✈️_arresting_justice.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_arresting_justice.md)
       - [`❌_nothing_to_hide_fallacy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/❌_nothing_to_hide_fallacy.md)
       - [`🈺_prevent_as_structural_marginalisation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🈺_prevent_as_structural_marginalisation.md)
       - [`🌐_prevent_as_a_democracy_suppression_engine.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌐_prevent_as_a_democracy_suppression_engine.md)
@@ -3857,7 +3858,6 @@ _Generated on 2025-12-23 15:53:07 UTC_
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`✈️_arresting_justice.md`](Polaris_Nest/Git_Intake_Drawer/✈️_arresting_justice.md)
     - [`✈️_classy_if_youre_rich.md`](Polaris_Nest/Git_Intake_Drawer/✈️_classy_if_youre_rich.md)
     - [`✈️_genocides_and_paedophiles.md`](Polaris_Nest/Git_Intake_Drawer/✈️_genocides_and_paedophiles.md)
     - [`✈️_just_arrest_them.md`](Polaris_Nest/Git_Intake_Drawer/✈️_just_arrest_them.md)
