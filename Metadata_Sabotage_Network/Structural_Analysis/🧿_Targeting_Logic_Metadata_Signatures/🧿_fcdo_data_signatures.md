@@ -1,6 +1,6 @@
-# 🧿 FCDO Data Signatures
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*What the selection, structure, and handling of affected systems reveals — independent of attribution claims.*
+# 🧿 FCDO Data Signatures  
+**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
+*What the selection, structure, and handling of affected systems reveals — independent of attribution claims.*  
 
 ---
 
@@ -174,10 +174,9 @@ They are the calcaneus lines you read *before* deciding where the pressure came 
 *🧿 FCDO Data Signatures* is a living node of the **Polaris Protocol**.  
 It exists to preserve analytical integrity when attribution pressure is high and evidence remains partial.
 
-> 📡 Cross-references:
-> - [Metadata Sabotage Network](../) — structural analysis and governance risk  
-> - [Big Picture Protocols](../../🌀_System_Governance/) — systemic frameworks  
+> 📡 Cross-references:  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-23_
