@@ -59,6 +59,7 @@ It prioritises institutional leverage over online noise.
 > - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](./🧰_tools_against_sock_puppets.md) - *practical disruption without amplification*  
 > - [🧰 Toolset Add-On: Sock-Puppet Swarm Checklist](./🧰_tools_sock_puppet_swarm_checklist.md) - *rapid identification of coordinated inauthentic behaviour*  
 > - [🧰 Toolset Add-On: Permission Language Pack](./🧰_tools_against_sock_puppets_consent_linguistics.md) - *words that re-enable democratic action*  
+> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) — *how we got here*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
