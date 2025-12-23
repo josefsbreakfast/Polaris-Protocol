@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 16:12:02 UTC_
+_Generated on 2025-12-23 16:14:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -220,6 +220,7 @@ _Generated on 2025-12-23 16:12:02 UTC_
         - [`⚖️_shielded_roles_and_information_risk_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⚖️_shielded_roles_and_information_risk_governance.md)
         - [`⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)
         - [`✈️_genocides_and_paedophiles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/✈️_genocides_and_paedophiles.md)
+        - [`✈️_who_wants_these_creeps_in_charge.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/✈️_who_wants_these_creeps_in_charge.md)
         - [`✈️_worker_positioning_and_safety_culture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/✈️_worker_positioning_and_safety_culture.md)
         - [`🌅_rise_of_institutional_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌅_rise_of_institutional_integrity.md)
         - [`🌍_cross_border_bias_propagation_in_surveillance_models.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌍_cross_border_bias_propagation_in_surveillance_models.md)
@@ -3401,6 +3402,7 @@ _Generated on 2025-12-23 16:12:02 UTC_
     - [**🪆_Narrative_Interference/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)
       - [`♻️_semantic_echo.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/♻️_semantic_echo.md)
+      - [`✈️_the_trauma_porn_of_it_all.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/✈️_the_trauma_porn_of_it_all.md)
       - [`🌀_synthetic_narratives.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🌀_synthetic_narratives.md)
       - [`🍉_the_puppets_aint_israeli.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🍉_the_puppets_aint_israeli.md)
       - [`🍌_self_eating_system.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🍌_self_eating_system.md)
@@ -3866,8 +3868,6 @@ _Generated on 2025-12-23 16:12:02 UTC_
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`✈️_the_trauma_porn_of_it_all.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_trauma_porn_of_it_all.md)
-    - [`✈️_who_wants_these_creeps_in_charge.md`](Polaris_Nest/Git_Intake_Drawer/✈️_who_wants_these_creeps_in_charge.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🇬🇧_flags_and_false_catharsis.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_flags_and_false_catharsis.md)
     - [`🇬🇧_this_is_our_island_actually.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_this_is_our_island_actually.md)
