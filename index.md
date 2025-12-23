@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:40:06 UTC_
+_Generated on 2025-12-23 18:06:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -432,6 +432,7 @@ _Generated on 2025-12-23 17:40:06 UTC_
         - [`🌀_dual_loyalty_loops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌀_dual_loyalty_loops.md)
         - [`🌀_uk_low_cost_influence_environment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌀_uk_low_cost_influence_environment.md)
         - [`🌐_late_stage_autocracy_vibe_diagnostics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌐_late_stage_autocracy_vibe_diagnostics.md)
+        - [`🍉_who_are_the_sock_puppets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🍉_who_are_the_sock_puppets.md)
         - [`🍉_your_voice_is_your_vote.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🍉_your_voice_is_your_vote.md)
         - [`🍿_imperial_core_drama_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🍿_imperial_core_drama_cycle.md)
         - [`🎞️_authoritarian_aesthetics_collapse_curve.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎞️_authoritarian_aesthetics_collapse_curve.md)
