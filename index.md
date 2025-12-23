@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 16:48:11 UTC_
+_Generated on 2025-12-23 16:49:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3422,6 +3422,7 @@ _Generated on 2025-12-23 16:48:11 UTC_
       - [`🎶_shared_tech_voicex_institutional_reports.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎶_shared_tech_voicex_institutional_reports.md)
       - [`🏛️_50_shades_of_avoiding_damages.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🏛️_50_shades_of_avoiding_damages.md)
       - [`🐈_kylo_ren_as_algorithmically_misclassified_softboy.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐈_kylo_ren_as_algorithmically_misclassified_softboy.md)
+      - [`🐉_its_not_always_daddy_dragon.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐉_its_not_always_daddy_dragon.md)
       - [`🐉_she_is_a_dragon_a_corrective_mythology_for_thin_data_worlds.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐉_she_is_a_dragon_a_corrective_mythology_for_thin_data_worlds.md)
       - [`🐍_survivor_voice_misread_as_intensity.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐍_survivor_voice_misread_as_intensity.md)
       - [`👁_narrative_inversion_after_boundary_setting.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/👁_narrative_inversion_after_boundary_setting.md)
@@ -3888,7 +3889,6 @@ _Generated on 2025-12-23 16:48:11 UTC_
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
     - [`🏛️_this_is_about_british_democracy.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_this_is_about_british_democracy.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
-    - [`🐉_its_not_always_daddy_dragon.md`](Polaris_Nest/Git_Intake_Drawer/🐉_its_not_always_daddy_dragon.md)
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots.md)
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md)
     - [`🐝_abolitionists_answer_the_question_of_extreme_antisocial_predation.md`](Polaris_Nest/Git_Intake_Drawer/🐝_abolitionists_answer_the_question_of_extreme_antisocial_predation.md)
