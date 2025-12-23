@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 16:10:35 UTC_
+_Generated on 2025-12-23 16:12:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3154,6 +3154,7 @@ _Generated on 2025-12-23 16:10:35 UTC_
       - [`✈️_arresting_justice.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_arresting_justice.md)
       - [`✈️_just_arrest_them.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_just_arrest_them.md)
       - [`✈️_justice_forbidden.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_justice_forbidden.md)
+      - [`✈️_the_politics_of_redaction.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_the_politics_of_redaction.md)
       - [`❌_nothing_to_hide_fallacy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/❌_nothing_to_hide_fallacy.md)
       - [`🈺_prevent_as_structural_marginalisation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🈺_prevent_as_structural_marginalisation.md)
       - [`🌐_prevent_as_a_democracy_suppression_engine.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌐_prevent_as_a_democracy_suppression_engine.md)
@@ -3865,7 +3866,6 @@ _Generated on 2025-12-23 16:10:35 UTC_
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`✈️_the_politics_of_redaction.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_politics_of_redaction.md)
     - [`✈️_the_trauma_porn_of_it_all.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_trauma_porn_of_it_all.md)
     - [`✈️_who_wants_these_creeps_in_charge.md`](Polaris_Nest/Git_Intake_Drawer/✈️_who_wants_these_creeps_in_charge.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
