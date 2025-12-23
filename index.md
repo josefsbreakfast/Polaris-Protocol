@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 16:46:47 UTC_
+_Generated on 2025-12-23 16:47:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -433,6 +433,7 @@ _Generated on 2025-12-23 16:46:47 UTC_
         - [`🎡_the_aesthetic_economy_of_states.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎡_the_aesthetic_economy_of_states.md)
         - [`🎪_not_even_a_mole_to_be_found.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎪_not_even_a_mole_to_be_found.md)
         - [`🎭_apology_theatre_and_trust_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_apology_theatre_and_trust_repair.md)
+        - [`🎭_apparently_this_was_our_idea.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_apparently_this_was_our_idea.md)
         - [`🎭_kremlin_aesthetic_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_kremlin_aesthetic_timeline.md)
         - [`🎭_reputation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_reputation_as_governance.md)
         - [`🎭_respectibility_theatre_bullshit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_respectibility_theatre_bullshit.md)
@@ -3879,7 +3880,6 @@ _Generated on 2025-12-23 16:46:47 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
     - [`🌾_on_the_importance_of_trading_fairly.md`](Polaris_Nest/Git_Intake_Drawer/🌾_on_the_importance_of_trading_fairly.md)
-    - [`🎭_apparently_this_was_our_idea.md`](Polaris_Nest/Git_Intake_Drawer/🎭_apparently_this_was_our_idea.md)
     - [`🏏_Pitch_at_Palace_Audit_Practice_README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice_README.md)
     - [`🏙️_nottingham_divestment_motion_context.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_nottingham_divestment_motion_context.md)
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
