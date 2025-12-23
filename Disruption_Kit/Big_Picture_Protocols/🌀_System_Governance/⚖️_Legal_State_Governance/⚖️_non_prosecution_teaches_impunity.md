@@ -1,6 +1,6 @@
-# ⚖️ Non-Prosecution Teaches Impunity
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How repeated non-action reshapes behaviour, incentives, and the moral economy of the law*
+# ⚖️ Non-Prosecution Teaches Impunity  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*How repeated non-action reshapes behaviour, incentives, and the moral economy of the law.*  
 
 ---
 
@@ -174,15 +174,17 @@ non-prosecution, impunity, deterrence failure, elite accountability, precedent e
 
 ## 🏮 Footer
 
-*Non-Prosecution Teaches Impunity* is a living node of the **Polaris Protocol**.  
+*⚖️ Non-Prosecution Teaches Impunity* is a living node of the **Polaris Protocol**.  
 It documents how repeated non-action reshapes incentives and undermines deterrence at a systemic level.
 
-> 📡 Cross-references:
-> - **⚖️ Inquiries Are a Pressure Release Valve** — substitution dynamics  
-> - **⚖️ Where Prosecutorial Discretion Lives** — decision mechanics  
-> - **⚖️ Elite Impunity Is a National Security Risk** — downstream exposure  
-> - **🏯 Governance_And_Containment** — institutional self-protection  
+> 📡 Cross-references:  
+> 
+> - [⚖️ Inquiries Are a Pressure Release Valve](./⚖️_inquiries_are_a_pressure_release_valve.md) — *substitution dynamics*  
+> - [⚖️ Where Prosecutorial Discretion Lives](./⚖️_where_prosecutorial_discretion_lives.md) — *decision mechanics*  
+> - [⚖️ Elite Impunity Is a National Security Risk](./⚖️_elite_impunity_is_a_national_security_risk.md) — *downstream exposure*  
+> - [🌾 Impunity as Fertile Ground](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌾_impunity_as_fertile_ground.md) - *why rape prevention cannot exist without dismantling permission structures*
+> - [⚖️ Norman Law and the Geometry of Impunity](../../🦕_Elder_Influencers/📜_Statutes/⚖️_norman_law_and_the_geometry_of_impunity.md) - *how it is even legally possible to have less real-terms legal protection when one is **not** treated as property of a male*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-23_
