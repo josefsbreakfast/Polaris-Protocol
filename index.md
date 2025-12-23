@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 16:41:40 UTC_
+_Generated on 2025-12-23 16:42:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1554,6 +1554,7 @@ _Generated on 2025-12-23 16:41:40 UTC_
         - [`🌍_muslim_identity_racialisation_parallels_to_historic_antisemitism.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🌍_muslim_identity_racialisation_parallels_to_historic_antisemitism.md)
         - [`🌹_white_rose_leaflet_as_counter_suicide_signal.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🌹_white_rose_leaflet_as_counter_suicide_signal.md)
         - [`🏉_regaining_possession.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🏉_regaining_possession.md)
+        - [`🐦_the_canaries_are_still_singing.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🐦_the_canaries_are_still_singing.md)
         - [`👁️‍🗨️_mindfuck_reflex.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/👁️‍🗨️_mindfuck_reflex.md)
         - [`📅_blm_uk_2020_2025_timeline_outputs.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/📅_blm_uk_2020_2025_timeline_outputs.md)
         - [`📚_student_default_faultline.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/📚_student_default_faultline.md)
@@ -3892,7 +3893,6 @@ _Generated on 2025-12-23 16:41:40 UTC_
     - [`🐝_abolitionists_answer_the_question_of_extreme_antisocial_predation.md`](Polaris_Nest/Git_Intake_Drawer/🐝_abolitionists_answer_the_question_of_extreme_antisocial_predation.md)
     - [`🐝_anarchist_answers_to_the_question_of_extreme_antisocial_predation.md`](Polaris_Nest/Git_Intake_Drawer/🐝_anarchist_answers_to_the_question_of_extreme_antisocial_predation.md)
     - [`🐝_time_to_clarity.md`](Polaris_Nest/Git_Intake_Drawer/🐝_time_to_clarity.md)
-    - [`🐦_the_ canaries_are_still_singing.md`](Polaris_Nest/Git_Intake_Drawer/🐦_the_ canaries_are_still_singing.md)
     - [`🐦‍⬛_cards_indices_grids.md`](Polaris_Nest/Git_Intake_Drawer/🐦‍⬛_cards_indices_grids.md)
     - [`🐦‍🔥_survivors_of_the_files_deserve_better.md`](Polaris_Nest/Git_Intake_Drawer/🐦‍🔥_survivors_of_the_files_deserve_better.md)
     - [`🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md`](Polaris_Nest/Git_Intake_Drawer/🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md)
