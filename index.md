@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:25:09 UTC_
+_Generated on 2025-12-23 17:26:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3260,6 +3260,7 @@ _Generated on 2025-12-23 17:25:09 UTC_
       - [`🧩_how_precrime_systems_create_crises.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_how_precrime_systems_create_crises.md)
       - [`🧩_policy_capture_quilliam_ctsa_2015.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_policy_capture_quilliam_ctsa_2015.md)
       - [`🧩_the_neurodivergence_misread.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_the_neurodivergence_misread.md)
+      - [`🧬_a_ladder_of_accountability.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_a_ladder_of_accountability.md)
       - [`🧬_metadata_driven_racism.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_metadata_driven_racism.md)
       - [`🧬_proto_secret_police_architecture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_proto_secret_police_architecture.md)
       - [`🧬_uk_feasibility_chain_for_animal_assisted_deradicalisation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_uk_feasibility_chain_for_animal_assisted_deradicalisation.md)
@@ -3960,7 +3961,6 @@ _Generated on 2025-12-23 17:25:09 UTC_
     - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
-    - [`🧬_a_ladder_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧬_a_ladder_of_accountability.md)
     - [`🧬_accountability_is_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧬_accountability_is_infrastructure.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_distributed_complicity_in_modern_warfare.md`](Polaris_Nest/Git_Intake_Drawer/🧬_distributed_complicity_in_modern_warfare.md)
