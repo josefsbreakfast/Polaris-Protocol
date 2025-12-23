@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 15:10:27 UTC_
+_Generated on 2025-12-23 15:11:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3917,6 +3917,7 @@ _Generated on 2025-12-23 15:10:27 UTC_
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
     - [`🛂_papers_please_origin_stories_exclusion_to_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🛂_papers_please_origin_stories_exclusion_to_infrastructure.md)
     - [`🛂_why_white_people_invented_passports.md`](Polaris_Nest/Git_Intake_Drawer/🛂_why_white_people_invented_passports.md)
+    - [`🛡️_this_is_the_home_front.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_this_is_the_home_front.md)
     - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
     - [`🛰️_crash_constellation_overview.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_crash_constellation_overview.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
