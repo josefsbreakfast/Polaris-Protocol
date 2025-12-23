@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 15:09:44 UTC_
+_Generated on 2025-12-23 15:10:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3873,6 +3873,7 @@ _Generated on 2025-12-23 15:09:44 UTC_
     - [`🍉 _the_puppets_aint_israeli.md`](Polaris_Nest/Git_Intake_Drawer/🍉 _the_puppets_aint_israeli.md)
     - [`🍉 _your_voice_is_your_vote.md`](Polaris_Nest/Git_Intake_Drawer/🍉 _your_voice_is_your_vote.md)
     - [`🎖️_training_the_old_guard_as_force_protection.md`](Polaris_Nest/Git_Intake_Drawer/🎖️_training_the_old_guard_as_force_protection.md)
+    - [`🏉_regaining_possession.md`](Polaris_Nest/Git_Intake_Drawer/🏉_regaining_possession.md)
     - [`🏏_Pitch_at_Palace_Audit_Practice_README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice_README.md)
     - [`🏙️_nottingham_divestment_motion_context.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_nottingham_divestment_motion_context.md)
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
