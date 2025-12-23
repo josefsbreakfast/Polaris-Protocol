@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:35:50 UTC_
+_Generated on 2025-12-23 17:37:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3610,6 +3610,7 @@ _Generated on 2025-12-23 17:35:50 UTC_
       - [`🩸_sexual_capital_extraction_model.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🩸_sexual_capital_extraction_model.md)
       - [`🩺_stakeholder_mapping_from_symptoms.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🩺_stakeholder_mapping_from_symptoms.md)
       - [`🪞_twin_narrative_distortion_loop.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🪞_twin_narrative_distortion_loop.md)
+      - [`🪼_who_is_acting.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🪼_who_is_acting.md)
     - [**🧼_System_Leakage_Signatures/**](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/README.md)
       - [`☔️_leak_pattern_taxonomy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/☔️_leak_pattern_taxonomy.md)
@@ -4072,7 +4073,6 @@ _Generated on 2025-12-23 17:35:50 UTC_
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
     - [`🪻_who_died_for_your_vote.md`](Polaris_Nest/Git_Intake_Drawer/🪻_who_died_for_your_vote.md)
     - [`🪼_beyond_containment.md`](Polaris_Nest/Git_Intake_Drawer/🪼_beyond_containment.md)
-    - [`🪼_who_is_acting.md`](Polaris_Nest/Git_Intake_Drawer/🪼_who_is_acting.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
