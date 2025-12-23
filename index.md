@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:31:16 UTC_
+_Generated on 2025-12-23 17:32:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -545,6 +545,7 @@ _Generated on 2025-12-23 17:31:16 UTC_
         - [`🧨_overclocked_capitalism_2020_cognitive_crash.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧨_overclocked_capitalism_2020_cognitive_crash.md)
         - [`🧪_bad_procurement_as_a_security_vector.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧪_bad_procurement_as_a_security_vector.md)
         - [`🧬_accountability_is_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧬_accountability_is_infrastructure.md)
+        - [`🧬_forensic_psychology_is_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧬_forensic_psychology_is_infrastructure.md)
         - [`🧲_what_bcg_takes_from_the_uk_and_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧲_what_bcg_takes_from_the_uk_and_palestine.md)
       - [**🧊_Antarctic_Biscuit_Defence_Directory/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/)
         - [`☕️_biscuit_press_index.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_biscuit_press_index.md)
@@ -3964,7 +3965,6 @@ _Generated on 2025-12-23 17:31:16 UTC_
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
-    - [`🧬_forensic_psychology_is_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧬_forensic_psychology_is_infrastructure.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
     - [`🧮_algorithms_of_the_wolf.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithms_of_the_wolf.md)
