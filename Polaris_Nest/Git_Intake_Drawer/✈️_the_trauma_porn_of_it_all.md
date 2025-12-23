@@ -1,6 +1,6 @@
 # ✈️ The Trauma Porn of It All  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
-*How exposure without justice turns harm into consumable spectacle.*
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*How exposure without justice turns harm into consumable spectacle.*  
 
 ---
 
@@ -153,10 +153,10 @@ It contributes analysis of how unmanaged disclosure transforms suffering into sp
 
 > 📡 Cross-references:
 > 
-> - [✈️ The Dragging-Out of Predictable Let-Down](./✈️_the_dragging_out_of_predictable_let_down.md) — exhaustion by delay  
-> - [✈️ Justice Forbidden](./✈️_justice_forbidden.md) — accountability pre-empted  
-> - [🗄️ Epstein Files Are Red Herrings](./🗄️_epstein_files_are_red_herrings.md) — misdirection through exposure  
+> - [✈️ The Dragging-Out of Predictable Let-Down] — *exhaustion by delay*  
+> - [✈️ Justice Forbidden] — *accountability pre-empted*  
+> - [🗄️ Epstein Files Are Red Herrings] — *misdirection through exposure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-23_
