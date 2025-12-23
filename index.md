@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 15:49:25 UTC_
+_Generated on 2025-12-23 15:50:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3393,6 +3393,7 @@ _Generated on 2025-12-23 15:49:25 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)
       - [`♻️_semantic_echo.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/♻️_semantic_echo.md)
       - [`🌀_synthetic_narratives.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🌀_synthetic_narratives.md)
+      - [`🍉_the_puppets_aint_israeli.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🍉_the_puppets_aint_israeli.md)
       - [`🍌_self_eating_system.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🍌_self_eating_system.md)
       - [`🎣_polaris_scares_men.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎣_polaris_scares_men.md)
       - [`🎪_moles_in_the_circus.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎪_moles_in_the_circus.md)
@@ -3872,7 +3873,6 @@ _Generated on 2025-12-23 15:49:25 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
     - [`🌾_on_the_importance_of_trading_fairly.md`](Polaris_Nest/Git_Intake_Drawer/🌾_on_the_importance_of_trading_fairly.md)
-    - [`🍉 _the_puppets_aint_israeli.md`](Polaris_Nest/Git_Intake_Drawer/🍉 _the_puppets_aint_israeli.md)
     - [`🍉 _your_voice_is_your_vote.md`](Polaris_Nest/Git_Intake_Drawer/🍉 _your_voice_is_your_vote.md)
     - [`🎖️_training_the_old_guard_as_force_protection.md`](Polaris_Nest/Git_Intake_Drawer/🎖️_training_the_old_guard_as_force_protection.md)
     - [`🎭_apparently_this_was_our_idea.md`](Polaris_Nest/Git_Intake_Drawer/🎭_apparently_this_was_our_idea.md)
