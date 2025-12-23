@@ -1,15 +1,15 @@
-# ⚖️ Case Study: Palestine Action & Prescription Under Legal Ambiguity  
-**First created:** 2025-12-13 | **Last updated:** 2025-12-13  
+# ⚖️ Case Study: Palestine Action & Proscription Under Legal Ambiguity  
+**First created:** 2025-12-13 | **Last updated:** 2025-12-23  
 *A live case study of how legal indeterminacy, political pressure, and institutional stress produce enforcement instability.*
 
 ---
 
 ## 🛰️ Orientation  
 
-This node examines the prescription of *Palestine Action* as a **live, contested case study** — not to adjudicate the correctness of the decision, but to analyse how policing institutions behave when law, politics, and security narratives are all in flux.
+This node examines the proscription of *Palestine Action* as a **live, contested case study** — not to adjudicate the correctness of the decision, but to analyse how policing institutions behave when law, politics, and security narratives are all in flux.
 
 At the time of writing:
-- the prescription decision is under judicial challenge,
+- the proscription decision is under judicial challenge,
 - legal interpretation remains unsettled,
 - and frontline policing is required to act as if the law were stable.
 
@@ -19,7 +19,7 @@ This creates a rare opportunity to observe **institutional behaviour under legal
 
 ## ⚖️ Live Legal Indeterminacy  
 
-Prescription decisions are subject to:
+Proscription decisions are subject to:
 - judicial review,
 - evidentiary scrutiny,
 - and prolonged legal timelines by design.
@@ -76,7 +76,7 @@ Incidents associated with Palestine Action have raised unaddressed questions, in
 - how access to secured or military sites was achieved,
 - whether perimeter, staffing, or resourcing failures were involved.
 
-The public response has largely focused on prescription rather than on **systemic security assessment**.
+The public response has largely focused on proscription rather than on **systemic security assessment**.
 
 This creates an international signalling risk:
 - strong reactions can unintentionally advertise insecurity,
@@ -93,7 +93,7 @@ Crucially, public unease does not depend on detailed legal knowledge.
 
 Even without understanding:
 - terrorism law,
-- prescription thresholds,
+- proscription thresholds,
 - or judicial review procedures,
 
 the public can perceive:
@@ -124,7 +124,7 @@ It demonstrates the risks of acting before:
 ## 🚨 Analytical Boundaries  
 
 This node does **not** determine:
-- whether prescription is justified,
+- whether proscription is justified,
 - whether property damage is acceptable,
 - or what the final legal outcome should be.
 
@@ -139,20 +139,22 @@ Its purpose is diagnostic:
 ---
 
 ## ✨ Stardust  
-legal ambiguity, prescription, policing under pressure, enforcement inconsistency, public trust, security signalling
+legal ambiguity, proscription, policing under pressure, enforcement inconsistency, public trust, security signalling
 
 ---
 
 ## 🏮 Footer  
 
-*Case Study: Palestine Action & Prescription Under Legal Ambiguity* is a living node of the **Polaris Protocol**.  
+*⚖️ Case Study: Palestine Action & Proscription Under Legal Ambiguity* is a living node of the **Polaris Protocol**.  
 It documents real-time institutional dynamics when policing is required to act under unresolved legal and political conditions.
 
 > 📡 Cross-references:
-> - 🪖 *Authoritarian Capture of Policing Institutions* — structural context  
-> - ⚖️ *Schmittian Logic in Policing Practice* — law subordinated to power  
-> - 🔥 *Asymmetric Overload & Legal Insulation* — enforcement distortion  
+> 
+> - [🪖 Authoritarian Capture of Policing Institutions](./🪖_authoritarian_capture_of_policing_institutions.md) — *how it is that policing misses this, as a whole*  
+> - [⚖️ Schmittian Logic in Policing Practice](../../Structural_Analysis/🧬_Structural_Mapping/⚖️_schmittian_logic_in_policing_practice.md) — *law subordinated to power*  
+> - [🔥 Asymmetric Overload & Legal Insulation](../🈸_Dispatch_And_Training/🔥_asymmetric_overload_and_legal_insulation.md) — *how lawfare and violence are utilised to undermine and exhaust policing*
+> - [🏛️ This Is About British Democracy, Not (Just) Palestine Action](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🏛️_this_is_about_british_democracy.md) - *how this can branch out beyond anything to do with the 1967 borders for UK citizens*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2025-12-23_
