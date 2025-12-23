@@ -34,7 +34,7 @@ british democracy, public institutions, bbc pressure, civic responsibility, hung
 ---
 
 ## 🏮 Footer  
-*British Democracy Needs You* is a living node of the Polaris Protocol.  
+*🍉 British Democracy Needs You* is a living node of the Polaris Protocol.  
 It situates the current moment as democratic maintenance rather than partisan crisis.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
