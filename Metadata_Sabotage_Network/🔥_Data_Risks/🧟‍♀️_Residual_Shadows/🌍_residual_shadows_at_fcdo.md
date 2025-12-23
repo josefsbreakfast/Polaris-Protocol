@@ -148,7 +148,7 @@ It exists to ensure that cyber incidents are analysed across their full temporal
 
 > 📡 Cross-References:  
 > 
-> - [🌍 Vulnerable Data Populations at FCDO](../🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md) — *who bears the cost*  
+> - [🌍 Vulnerable Data Populations at FCDO](../📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md) — *who bears the cost*  
 > - [🐉 It’s Not Always Daddy Dragon](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐉_its_not_always_daddy_dragon.md) — *misattribution traps*  
 > - [🧿 FCDO Data Signatures](../../Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_fcdo_data_signatures.md) — *what the targeting reveals*  
 > - [🧿 Attribution as Narrative Attack Surface](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_attribution_as_narrative_attack_surface.md) — *spoofability*  
