@@ -40,8 +40,16 @@ sock puppets, synthetic engagement, comment swarming, narrative interference, al
 ---
 
 ## 🏮 Footer  
-*Who Are the Sock Puppets?* is a living node of the Polaris Protocol.  
-It documents behavioural patterns while refusing paranoia, ethnicisation, or speculative attribution.
+*🍉 Who Are the Sock Puppets?* is a living node of the Polaris Protocol.  
+It documents behavioural patterns while refusing paranoia, ethnicisation, or speculative attribution.  
+
+> 📡 Cross-references:
+>
+> - [🍉 The Puppets Ain’t Israeli](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🍉_the_puppets_aint_israeli.md) - *the argument to consider other sources*
+> - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](../../../Survivor_Tools/🧰_tools_against_sock_puppets.md) — *disruption without amplification*
+> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) - *fleshed out working diagnosis of anti-hunger-striking campaign*
+> - [🦤 The Just-Eat Hunger Strike Tit](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🦤_the_just_eat_hunger_strike_tit.md) - *the sound of the JEHS tit in the wild*
+> - [🍉 Why The Long Prison Stay](../⚖️_Legal_State_Governance/🍉_why_the_long_prison_stay.md) - *why whining about hunger strikers does not beat austerity for the common Briton; hence, the sounding like a tit*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
