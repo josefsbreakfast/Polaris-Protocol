@@ -1,5 +1,5 @@
 # 🪖 Authoritarian Capture of Policing Institutions  
-**First created:** 2025-12-13 | **Last updated:** 2025-12-13  
+**First created:** 2025-12-13 | **Last updated:** 2025-12-23  
 *Why police are an early and strategic target in authoritarian projects — and why this is deliberate, not accidental.*
 
 ---
@@ -125,14 +125,17 @@ authoritarianism, policing, institutional capture, governance failure, law and p
 
 ## 🏮 Footer  
 
-*Authoritarian Capture of Policing Institutions* is a living node of the **Polaris Protocol**.  
+*🪖 Authoritarian Capture of Policing Institutions* is a living node of the **Polaris Protocol**.  
 It establishes the core analytical frame for understanding how coercive state institutions are strategically undermined and repurposed under authoritarian pressure.
 
 > 📡 Cross-references:
-> - 🧬 *Authoritarian Personnel Purification* — removal of internal ethical brakes  
-> - 🔥 *Asymmetric Overload & Legal Insulation* — burnout as a political tool  
-> - ⚖️ *Schmittian Logic in Policing Practice* — law collapsing into power  
+> 
+> - [🧬 Authoritarian Personnel Purification](../🉑_System_Thresholds/🧬_authoritarian_personnel_purification.md) — *removal of internal ethical brakes*  
+> - [🔥 Asymmetric Overload & Legal Insulation](../🈸_Dispatch_And_Training/🔥_asymmetric_overload_and_legal_insulation.md) — *how lawfare and violence are utilised to undermine and exhaust policing*  
+> - [⚖️ Schmittian Logic in Policing Practice](../../Structural_Analysis/🧬_Structural_Mapping/⚖️_schmittian_logic_in_policing_practice.md) — *law collapsing into power*
+> - [🐼 The Metropolitan Rabble](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🐼_the_metropolitan_rabble.md) - *how it all starts with asking police to burn the candle at all 3 ends and not let any protests happen and do the training modules, whilst deeper cultural issues go untouched*
+> - [👾 British Policing & PREVENT in the Post-BLM Era](./👾_british_policing_and_prevent_in_the_post_blm_era.md) - *the argument to rethink how policing happens across society, post-2020*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2025-12-23_
