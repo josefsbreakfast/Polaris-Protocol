@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 16:50:31 UTC_
+_Generated on 2025-12-23 16:51:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3599,6 +3599,7 @@ _Generated on 2025-12-23 16:50:31 UTC_
       - [`👻_metadata_ghosting_how_interference_haunts_its_maker.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👻_metadata_ghosting_how_interference_haunts_its_maker.md)
       - [`👻_template_ghosts.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👻_template_ghosts.md)
       - [`👾_temporal_glitches.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👾_temporal_glitches.md)
+      - [`👾_working_diagnosis_uk_data_exposure_accumulation.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👾_working_diagnosis_uk_data_exposure_accumulation.md)
       - [`💔_shared_vendor_anomalies.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/💔_shared_vendor_anomalies.md)
       - [`💥_systemic_vendor_failure.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/💥_systemic_vendor_failure.md)
       - [`💾_token_switching_pseudonymisation_gone_wrong.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/💾_token_switching_pseudonymisation_gone_wrong.md)
@@ -3900,7 +3901,6 @@ _Generated on 2025-12-23 16:50:31 UTC_
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
     - [`👈_nudges_for_grudges.md`](Polaris_Nest/Git_Intake_Drawer/👈_nudges_for_grudges.md)
-    - [`👾_uk_data_exposure_accumulation.md`](Polaris_Nest/Git_Intake_Drawer/👾_uk_data_exposure_accumulation.md)
     - [`👾_working_diagnosis_hunger_strikes_sock_puppet_campaign.md`](Polaris_Nest/Git_Intake_Drawer/👾_working_diagnosis_hunger_strikes_sock_puppet_campaign.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
