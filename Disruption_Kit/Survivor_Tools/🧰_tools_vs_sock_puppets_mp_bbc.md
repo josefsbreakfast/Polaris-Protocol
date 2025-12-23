@@ -52,7 +52,13 @@ They are intentionally short, non-partisan, and outcome-focused.
 
 ## 🏮 Footer  
 *Toolset Add-On: MP & BBC Contact Templates* is a practical extension of the Polaris Protocol.  
-It prioritises institutional leverage over online noise.
+It prioritises institutional leverage over online noise.  
+
+> 📡 Cross-references:
+>
+> - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](./🧰_tools_against_sock_puppets.md) - *practical disruption without amplification*  
+> - [🧰 Toolset Add-On: Sock-Puppet Swarm Checklist](./🧰_tools_sock_puppet_swarm_checklist.md) - *rapid identification of coordinated inauthentic behaviour*  
+> - [🧰 Toolset Add-On: Permission Language Pack](./🧰_tools_against_sock_puppets_consent_linguistics.md) - *words that re-enable democratic action*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
