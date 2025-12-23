@@ -1,5 +1,5 @@
-# 📿 Vulnerable Data Populations at FCDO
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
+# 🌍 Vulnerable Data Populations at FCDO
+**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
 *Why cyber incidents touching diplomatic and immigration systems place specific human beings at disproportionate risk.*
 
 ---
@@ -137,13 +137,12 @@ Ignoring them produces brittle systems that fail under secondary pressure.
 
 ## 🏮 Footer
 
-*📿 Vulnerable Data Populations at FCDO* is a living node of the **Polaris Protocol**.  
+*🌍 Vulnerable Data Populations at FCDO* is a living node of the **Polaris Protocol**.  
 It exists to ensure that human risk is modelled explicitly — not assumed away — during cyber incidents involving diplomatic and immigration systems.
 
-> 📡 Cross-references:
-> - [Metadata Sabotage Network](../) — data, narrative, and governance risks  
-> - [Big Picture Protocols](../../🌀_System_Governance/) — systemic analysis  
+> 📡 Cross-references:  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-23_
