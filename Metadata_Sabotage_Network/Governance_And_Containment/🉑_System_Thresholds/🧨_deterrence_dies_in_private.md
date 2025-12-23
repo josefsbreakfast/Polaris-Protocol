@@ -1,6 +1,6 @@
-# 🧨 Deterrence Dies in Private
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Why hidden accountability teaches risk-taking, not restraint*
+# 🧨 Deterrence Dies in Private  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*Why hidden accountability teaches risk-taking, not restraint.*  
 
 ---
 
@@ -185,4 +185,4 @@ It documents why hidden accountability collapses deterrence and invites repeat h
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-23_
