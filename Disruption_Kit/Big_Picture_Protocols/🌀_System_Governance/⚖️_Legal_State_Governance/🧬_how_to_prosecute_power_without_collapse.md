@@ -1,6 +1,6 @@
 # 🧬 How to Prosecute Power Without Collapse
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Designing elite accountability so institutions bend without breaking*
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*Designing elite accountability so institutions bend without breaking.*  
 
 ---
 
@@ -228,15 +228,16 @@ elite prosecution, system resilience, accountability architecture, institutional
 
 ## 🏮 Footer
 
-*How to Prosecute Power Without Collapse* is a living node of the **Polaris Protocol**.  
+*🧬 How to Prosecute Power Without Collapse* is a living node of the **Polaris Protocol**.  
 It documents how elite accountability can be structured to strengthen — not destabilise — democratic systems.
 
-> 📡 Cross-references:
-> - **⚖️ Risk Aversion Is Policy** — why fear governs  
-> - **⚖️ Non-Prosecution Teaches Impunity** — behavioural costs  
-> - **🏛️ Elite Non-Prosecution Undermines the Rule of Law** — constitutional risk  
-> - **🧬 What a CSA System Optimised for Prevention Looks Like** — design-first thinking  
+> 📡 Cross-references:  
+> 
+> - [⚖️ Risk Aversion Is Policy](./⚖️_risk_aversion_is_policy.md) — *why fear governs*  
+> - [⚖️ Non-Prosecution Teaches Impunity](./⚖️_non_prosecution_teaches_impunity.md) — *behavioural costs*  
+> - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *constitutional risk*  
+> - [🧬 What a CSA System Optimised for Prevention Looks Like](./🧬_what_a_csa_system_optimised_for_prevention_looks_like.md) — *design-first thinking*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-23_
