@@ -1,6 +1,6 @@
-# 🦠 Plague Scapegoat Scripts Reused Across Targets
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*How societies repeatedly recycle the same blame narratives under stress — and why these scripts reliably degrade security analysis.*
+# 🦠 Plague Scapegoat Scripts Reused Across Targets  
+**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
+*How societies repeatedly recycle the same blame narratives under stress — and why these scripts reliably degrade security analysis.*  
 
 ---
 
@@ -179,9 +179,9 @@ Identifying script reuse is therefore a **defensive skill**.
 *🦠 Plague Scapegoat Scripts Reused Across Targets* is a living node of the **Polaris Protocol**.  
 It exists to prevent recycled fear narratives from masquerading as analysis during moments of crisis.
 
-> 📡 Cross-references:
-> - [Big Picture Protocols](../../🌀_System_Governance/) — systemic doctrine  
+> 📡 Cross-references:  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-23_
