@@ -1,6 +1,6 @@
-# 🪞 Russia–China Narrative Substitution Matrix
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why interchangeable adversary stories are a warning sign — and how substitution reveals incentive, not evidence.*
+# 🪞 Russia–China Narrative Substitution Matrix  
+**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
+*Why interchangeable adversary stories are a warning sign — and how substitution reveals incentive, not evidence.*  
 
 ---
 
@@ -142,18 +142,7 @@ Within CRAKEN, narrative substitution indicates:
 - unexamined tolerance thresholds,
 - and pressure to stabilise perception prematurely.
 
-It flags moments where the system is **choosing reassurance over accuracy**.
-
----
-
-## 📡 Cross-References
-
-- 🐉 It’s Not Always Daddy Dragon — comfort-villain bias  
-- 🧿 Attribution as Narrative Attack Surface — spoofability  
-- 🧿 FCDO Data Signatures — structural constraints  
-- 📺 Platforming as Soft Power Capture — amplification mechanics  
-- 🦴 Tolerance Thresholds as Load Management — deferred harm  
-- 🦑 CRAKEN System — reflexive ecological mapping  
+It flags moments where the system is **choosing reassurance over accuracy**.  
 
 ---
 
@@ -162,10 +151,16 @@ It flags moments where the system is **choosing reassurance over accuracy**.
 *🪞 Russia–China Narrative Substitution Matrix* is a living node of the **Polaris Protocol**.  
 It exists to help analysts distinguish evidence-driven uncertainty from narrative convenience — and to prevent familiar adversaries from becoming analytical placeholders.
 
-> 📡 Cross-references:
-> - [Metadata Sabotage Network](../) — narrative and governance risks  
-> - [Big Picture Protocols](../../🌀_System_Governance/) — systemic doctrine  
+> 📡 Cross-References:  
+> 
+> - [🐉 It’s Not Always Daddy Dragon](./🐉_its_not_always_daddy_dragon.md) — *comfort-villain bias*  
+> - [🧿 Attribution as Narrative Attack Surface](./🧿_attribution_as_narrative_attack_surface.md) — *spoofability*  
+> - [🧿 FCDO Data Signatures](../../Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_fcdo_data_signatures.md) — *structural constraints*  
+> - [📺 Platforming as Soft Power Capture](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/📺_platforming_as_soft_power_capture.md) — *amplification mechanics*  
+> - [🦴 Tolerance Thresholds as Load Management](../../Governance_And_Containment/🉑_System_Thresholds/🦴_tolerance_thresholds_as_load_management.md) — *deferred harm*  
+> - [🦑 C.R.A.K.E.N. System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-23_
