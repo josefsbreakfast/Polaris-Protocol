@@ -1,6 +1,6 @@
-# 💰 BRICS and Petrol Dollars
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*How energy pricing, currency settlement, and tolerated instability shape geopolitical pressure — and why conflicts around Venezuela, Ukraine, and Gaza cannot be separated from monetary power.*
+# 💰 BRICS and Petrol Dollars  
+**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
+*How energy pricing, currency settlement, and tolerated instability shape geopolitical pressure — and why conflicts around Venezuela, Ukraine, and Gaza cannot be separated from monetary power.*  
 
 ---
 
@@ -35,7 +35,7 @@ Any threat — real or perceived — to this system generates reflexive geopolit
 
 ---
 
-## 🌍 [BRICS](chatgpt://generic-entity?number=0) as Load Rebalancers
+## 🌍 BRICS as Load Rebalancers
 
 BRICS initiatives toward:
 - non-USD settlement,
@@ -56,7 +56,7 @@ This is why *discussion alone* can trigger instability narratives, threat inflat
 
 ## 🛢️ Venezuela: Sanctions, Oil, and Tolerated Collapse
 
-[Venezuela](chatgpt://generic-entity?number=1) sits at a critical junction:
+Venezuela sits at a critical junction:
 - vast oil reserves,
 - sanctions-induced exclusion from dollar systems,
 - and long-term economic degradation.
@@ -69,13 +69,13 @@ Sanctions:
 CRAKEN observation:
 > Prolonged suffering can be strategically tolerated when instability elsewhere preserves monetary dominance.
 
-The role of companies such as [ExxonMobil](chatgpt://generic-entity?number=2) in adjacent regional energy dynamics reinforces how **corporate, state, and monetary incentives overlap** without requiring conspiracy.
+The role of companies such as ExxonMobil in adjacent regional energy dynamics reinforces how **corporate, state, and monetary incentives overlap** without requiring conspiracy.
 
 ---
 
 ## 🛢️ Ukraine: Energy Corridors and Monetary Pressure
 
-[Ukraine](chatgpt://generic-entity?number=3) is not only a territorial conflict zone.
+Ukraine is not only a territorial conflict zone.
 It is a **transit and leverage corridor**.
 
 Key dynamics include:
@@ -115,12 +115,12 @@ but it does not require central coordination to be **structurally useful**.
 
 Gaza cannot be analysed in isolation from Eastern Mediterranean energy.
 
-The [Leviathan gas field](chatgpt://generic-entity?number=4) represents:
+The Leviathan gas field represents:
 - regional gas potential,
 - EU diversification interest,
 - and monetisable offshore infrastructure.
 
-[Gaza Strip](chatgpt://generic-entity?number=5) functions structurally as:
+The Gaza Strip functions structurally as:
 - a pressure sink,
 - a zone of constrained sovereignty,
 - and a population absorbing chronic instability.
@@ -195,9 +195,8 @@ They are **load-bearing architecture**.
 *💰 BRICS and Petrol Dollars* is a living node of the **Polaris Protocol**.  
 It exists to situate security, cyber, and narrative events within the monetary structures that silently shape tolerance, escalation, and instability.
 
-> 📡 Cross-references:
-> - [Big Picture Protocols](../../🌀_System_Governance/) — systemic doctrine  
+> 📡 Cross-references:  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-23_
