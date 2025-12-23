@@ -1,5 +1,5 @@
 # ✈️ Arresting Justice  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
 *How justice is slowed, grounded, or indefinitely delayed through procedural saturation and narrative management.*
 
 ---
@@ -143,10 +143,10 @@ It contributes analysis of how justice is functionally halted through delay, dif
 
 > 📡 Cross-references:
 > 
-> - [🗄️ Epstein Files Are Red Herrings](./🗄️_epstein_files_are_red_herrings.md) — misdirection through disclosure  
-> - [🪞 Reputational Laundering After Admission](../Big_Picture_Protocols/) — post-exposure containment  
-> - [🎭 Narrative Interference](../Metadata_Sabotage_Network/) — attention and meaning control  
+> - [🗄️ Epstein Files Are Red Herrings] — *misdirection through disclosure*  
+> - [🪞 Reputational Laundering After Admission] — *post-exposure containment*  
+> - [🎭 Narrative Interference] — *attention and meaning control*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-23_
