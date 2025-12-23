@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 20:11:22 UTC_
+_Generated on 2025-12-23 20:13:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -728,6 +728,7 @@ _Generated on 2025-12-23 20:11:22 UTC_
         - [`🪭_cultural_charisma_as_governance_tool.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪭_cultural_charisma_as_governance_tool.md)
         - [`🪮_on_hair_and_memory.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪮_on_hair_and_memory.md)
         - [`🪷_being_soft_does_take_pretty_big_balls_actually.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪷_being_soft_does_take_pretty_big_balls_actually.md)
+        - [`🪻_who_died_for_your_vote.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪻_who_died_for_your_vote.md)
         - [`🫀_attachment_trauma_and_intimacy_deficit.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫀_attachment_trauma_and_intimacy_deficit.md)
         - [`🫀_holding_a_weapon_you_do_not_understand.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫀_holding_a_weapon_you_do_not_understand.md)
         - [`🫛_amplification_by_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md)
@@ -4073,7 +4074,6 @@ _Generated on 2025-12-23 20:11:22 UTC_
     - [`🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md`](Polaris_Nest/Git_Intake_Drawer/🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md)
     - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
-    - [`🪻_who_died_for_your_vote.md`](Polaris_Nest/Git_Intake_Drawer/🪻_who_died_for_your_vote.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
