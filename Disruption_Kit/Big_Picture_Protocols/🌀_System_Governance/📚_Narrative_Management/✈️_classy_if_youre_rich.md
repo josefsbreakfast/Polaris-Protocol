@@ -1,6 +1,6 @@
 # ✈️ Classy If You’re Rich  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
-*How the same conduct is aestheticised as “complex” or “sophisticated” at the top, and criminalised at the bottom.*
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*How the same conduct is aestheticised as “complex” or “sophisticated” at the top, and criminalised at the bottom.*  
 
 ---
 
@@ -143,10 +143,10 @@ It contributes analysis of how class shapes moral framing, legal response, and p
 
 > 📡 Cross-references:
 > 
-> - [✈️ Justice Forbidden](./✈️_justice_forbidden.md) — accountability pre-empted  
-> - [✈️ Just Arrest Them](./✈️_just_arrest_them.md) — enforcement withheld upward  
-> - [🗄️ Epstein Files Are Red Herrings](./🗄️_epstein_files_are_red_herrings.md) — euphemism and misdirection  
+> - [✈️ Justice Forbidden] — *accountability pre-empted*  
+> - [✈️ Just Arrest Them] — *enforcement withheld upward*  
+> - [🗄️ Epstein Files Are Red Herrings] — *euphemism and misdirection*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-23_
