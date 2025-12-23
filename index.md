@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 16:42:33 UTC_
+_Generated on 2025-12-23 16:43:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -423,6 +423,7 @@ _Generated on 2025-12-23 16:42:33 UTC_
         - [`✈️_crash_logic_state_grief_and_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✈️_crash_logic_state_grief_and_erasure.md)
         - [`✝️_why_moralising_disability_is_not_theology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✝️_why_moralising_disability_is_not_theology.md)
         - [`🇩🇪_trauma_sovereignty_as_foreign_policy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇩🇪_trauma_sovereignty_as_foreign_policy.md)
+        - [`🇬🇧_flags_and_false_catharsis.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇬🇧_flags_and_false_catharsis.md)
         - [`🌀_dual_loyalty_loops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌀_dual_loyalty_loops.md)
         - [`🌀_uk_low_cost_influence_environment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌀_uk_low_cost_influence_environment.md)
         - [`🌐_late_stage_autocracy_vibe_diagnostics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌐_late_stage_autocracy_vibe_diagnostics.md)
@@ -3872,7 +3873,6 @@ _Generated on 2025-12-23 16:42:33 UTC_
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
-    - [`🇬🇧_flags_and_false_catharsis.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_flags_and_false_catharsis.md)
     - [`🇬🇧_this_is_our_island_actually.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_this_is_our_island_actually.md)
     - [`🈴_allies_and_ethics_are_operational_variables.md`](Polaris_Nest/Git_Intake_Drawer/🈴_allies_and_ethics_are_operational_variables.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
