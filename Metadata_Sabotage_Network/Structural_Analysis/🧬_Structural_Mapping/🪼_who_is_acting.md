@@ -1,6 +1,6 @@
-# 🪼 Who Is Acting?
-**First created:** 2025-12-18 | **Last updated:** 2025-12-18  
-*Tracing authority, agency, and attribution under conditions of information war and peacetime law.*
+# 🪼 Who Is Acting?  
+**First created:** 2025-12-18 | **Last updated:** 2025-12-23  
+*Tracing authority, agency, and attribution under conditions of information war and peacetime law.*  
 
 ---
 
@@ -108,4 +108,4 @@ It maps attribution ambiguity to support governance clarity without presuming in
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-18_
+_Last updated: 2025-12-23_
