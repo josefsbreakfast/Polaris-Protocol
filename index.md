@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 20:55:35 UTC_
+_Generated on 2025-12-23 20:57:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3280,6 +3280,7 @@ _Generated on 2025-12-23 20:55:35 UTC_
       - [`🧯_prevent_as_a_political_atomisation_engine.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧯_prevent_as_a_political_atomisation_engine.md)
       - [`🧿_lomir_redn_aoys_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧿_lomir_redn_aoys_prevent.md)
       - [`🪖_authoritarian_capture_of_policing_institutions.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪖_authoritarian_capture_of_policing_institutions.md)
+      - [`🪞_the_mirror_logic_of_concern.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪞_the_mirror_logic_of_concern.md)
       - [`🪢_refusal_as_resistance_not_risk.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪢_refusal_as_resistance_not_risk.md)
       - [`🪫_why_we_cannot_know_who_prevent_targets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪫_why_we_cannot_know_who_prevent_targets.md)
       - [`🪼_plausible_deniability_rhetoric.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪼_plausible_deniability_rhetoric.md)
@@ -4072,7 +4073,6 @@ _Generated on 2025-12-23 20:55:35 UTC_
     - [`🪝_if_you_do_not_have_a_hook_they_create_one.md`](Polaris_Nest/Git_Intake_Drawer/🪝_if_you_do_not_have_a_hook_they_create_one.md)
     - [`🪞_coercive_control_in_surveillance_systems.md`](Polaris_Nest/Git_Intake_Drawer/🪞_coercive_control_in_surveillance_systems.md)
     - [`🪞_gendered_awkwardness.md`](Polaris_Nest/Git_Intake_Drawer/🪞_gendered_awkwardness.md)
-    - [`🪞_mirror_logic_of_concern.md`](Polaris_Nest/Git_Intake_Drawer/🪞_mirror_logic_of_concern.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
