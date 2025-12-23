@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 16:45:57 UTC_
+_Generated on 2025-12-23 16:46:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3117,6 +3117,7 @@ _Generated on 2025-12-23 16:45:57 UTC_
       - [`🪹_empty_nesting.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪹_empty_nesting.md)
     - [**🈸_Dispatch_And_Training/**](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/README.md)
+      - [`🎖️_training_the_old_guard_as_force_protection.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🎖️_training_the_old_guard_as_force_protection.md)
       - [`💾_archival_drift.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/💾_archival_drift.md)
       - [`📡_signal_lost.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📡_signal_lost.md)
       - [`📦_final_dispatch_entry.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📦_final_dispatch_entry.md)
@@ -3878,7 +3879,6 @@ _Generated on 2025-12-23 16:45:57 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
     - [`🌾_on_the_importance_of_trading_fairly.md`](Polaris_Nest/Git_Intake_Drawer/🌾_on_the_importance_of_trading_fairly.md)
-    - [`🎖️_training_the_old_guard_as_force_protection.md`](Polaris_Nest/Git_Intake_Drawer/🎖️_training_the_old_guard_as_force_protection.md)
     - [`🎭_apparently_this_was_our_idea.md`](Polaris_Nest/Git_Intake_Drawer/🎭_apparently_this_was_our_idea.md)
     - [`🏏_Pitch_at_Palace_Audit_Practice_README.md`](Polaris_Nest/Git_Intake_Drawer/🏏_Pitch_at_Palace_Audit_Practice_README.md)
     - [`🏙️_nottingham_divestment_motion_context.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_nottingham_divestment_motion_context.md)
