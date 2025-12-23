@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 20:04:51 UTC_
+_Generated on 2025-12-23 20:11:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -415,6 +415,7 @@ _Generated on 2025-12-23 20:04:51 UTC_
         - [`🪢_hygienic_cut.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪢_hygienic_cut.md)
         - [`🪦_the_protagonist_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪦_the_protagonist_problem.md)
         - [`🪶_tea_toast_and_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪶_tea_toast_and_transparency.md)
+        - [`🪼_beyond_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪼_beyond_containment.md)
         - [`🫀_pixels_do_not_touch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫀_pixels_do_not_touch.md)
         - [`🫒_occupation_as_containment_regime.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫒_occupation_as_containment_regime.md)
         - [`🫥_when_you_dont_want_to_be_seen_touching_it.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫥_when_you_dont_want_to_be_seen_touching_it.md)
@@ -4073,7 +4074,6 @@ _Generated on 2025-12-23 20:04:51 UTC_
     - [`🪪_algorithmic_mislabeling_and_identity_collapse.md`](Polaris_Nest/Git_Intake_Drawer/🪪_algorithmic_mislabeling_and_identity_collapse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
     - [`🪻_who_died_for_your_vote.md`](Polaris_Nest/Git_Intake_Drawer/🪻_who_died_for_your_vote.md)
-    - [`🪼_beyond_containment.md`](Polaris_Nest/Git_Intake_Drawer/🪼_beyond_containment.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
