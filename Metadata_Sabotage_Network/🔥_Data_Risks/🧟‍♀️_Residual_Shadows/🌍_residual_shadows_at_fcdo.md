@@ -1,5 +1,5 @@
-# 🧟‍♀️ Residual Shadows at FCDO
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
+# 🌍 Residual Shadows at FCDO
+**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
 *Why data harm persists long after systems are patched — and why diplomatic breaches have afterlives.*
 
 ---
@@ -153,13 +153,12 @@ Ignoring them guarantees surprise.
 
 ## 🏮 Footer
 
-*🧟‍♀️ Residual Shadows at FCDO* is a living node of the **Polaris Protocol**.  
+*🌍 Residual Shadows at FCDO* is a living node of the **Polaris Protocol**.  
 It exists to ensure that cyber incidents are analysed across their full temporal arc — not truncated at administrative resolution.
 
 > 📡 Cross-references:
-> - [Metadata Sabotage Network](../) — data afterlives and governance risks  
-> - [Big Picture Protocols](../../🌀_System_Governance/) — systemic analysis  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-23_
