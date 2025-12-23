@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:11:46 UTC_
+_Generated on 2025-12-23 17:12:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1522,6 +1522,7 @@ _Generated on 2025-12-23 17:11:46 UTC_
         - [`🥀_the_politics_of_male_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🥀_the_politics_of_male_loneliness.md)
         - [`🦔_hedgehog_on_fire.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🦔_hedgehog_on_fire.md)
         - [`🦔_orbicularis_panniculi_logic.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🦔_orbicularis_panniculi_logic.md)
+        - [`🦴_the_pain_of_not_knowing.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🦴_the_pain_of_not_knowing.md)
         - [`🧠_behavioural_trajectories_lab_to_institution.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_behavioural_trajectories_lab_to_institution.md)
         - [`🧠_depersonalised_systems_as_cptsd_triggers.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_depersonalised_systems_as_cptsd_triggers.md)
         - [`🧠_good_doctors_are_not_nazis.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_good_doctors_are_not_nazis.md)
@@ -3935,7 +3936,6 @@ _Generated on 2025-12-23 17:11:46 UTC_
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
-    - [`🦴_the_pain_of_not_knowing.md`](Polaris_Nest/Git_Intake_Drawer/🦴_the_pain_of_not_knowing.md)
     - [`🦴_tolerance_thresholds_as_load_management.md`](Polaris_Nest/Git_Intake_Drawer/🦴_tolerance_thresholds_as_load_management.md)
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
