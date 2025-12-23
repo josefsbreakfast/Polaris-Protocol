@@ -131,17 +131,7 @@ It must be read *before*:
 - alliances signal  
 - mitigation priorities lock  
 
-It reopens the analytical field and forces load to be redistributed where the harm actually lives.
-
----
-
-## 📡 Cross-References
-
-- 📿 Vulnerable Data Populations — human risk surfaces  
-- 🧟‍♀️ Residual Shadows — long-tail data harm  
-- 🧿 Targeting Logic Metadata Signatures — decision fingerprints  
-- 🧿 Attribution as Narrative Attack Surface — spoofability  
-- 🦑 CRAKEN System — reflexive load mapping  
+It reopens the analytical field and forces load to be redistributed where the harm actually lives.  
 
 ---
 
@@ -150,7 +140,13 @@ It reopens the analytical field and forces load to be redistributed where the ha
 *🐉 It’s Not Always Daddy Dragon* is a living node of the **Polaris Protocol**.  
 It exists to prevent premature narrative closure in moments of uncertainty — especially where bureaucratic systems and vulnerable populations absorb the real load.
 
-> 📡 Cross-references:  
+> 📡 Cross-References:  
+> 
+> - [🌍 Vulnerable Data Populations at FCDO](../../🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md) — *human risk surfaces*  
+> - [🌍 Residual Shadows at FCDO](../../🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌍_residual_shadows_at_fcdo.md) — *long-tail data harm*  
+> - [🧿 FCDO Data Signatures](../../Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_fcdo_data_signatures.md) — *decision fingerprints*  
+> - [🧿 Attribution as Narrative Attack Surface](./🧿_attribution_as_narrative_attack_surface.md) — *spoofability*  
+> - [🦑 C.R.A.K.E.N. System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
