@@ -1,6 +1,6 @@
-# 🧬 Forensic Psychology Is Infrastructure
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Why treatment, assessment, and behavioural management are core public-safety systems*
+# 🧬 Forensic Psychology Is Infrastructure  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*Why treatment, assessment, and behavioural management are core public-safety systems.*  
 
 ---
 
@@ -196,7 +196,7 @@ forensic psychology, risk assessment, treatment infrastructure, behavioural mana
 
 ## 🏮 Footer
 
-*Forensic Psychology Is Infrastructure* is a living node of the **Polaris Protocol**.  
+*🧬 Forensic Psychology Is Infrastructure* is a living node of the **Polaris Protocol**.  
 It documents why assessment and treatment are essential components of functional justice and safeguarding systems.
 
 > 📡 Cross-references:
@@ -207,4 +207,4 @@ It documents why assessment and treatment are essential components of functional
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-23_
