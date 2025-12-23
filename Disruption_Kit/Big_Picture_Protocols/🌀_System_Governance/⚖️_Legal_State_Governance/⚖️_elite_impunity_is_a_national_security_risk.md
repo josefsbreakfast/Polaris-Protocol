@@ -1,6 +1,6 @@
-# ⚖️ Elite Impunity Is a National Security Risk
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How tolerated elite wrongdoing creates blackmail exposure, coercion vectors, and democratic fragility*
+# ⚖️ Elite Impunity Is a National Security Risk  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*How tolerated elite wrongdoing creates blackmail exposure, coercion vectors, and democratic fragility.*  
 
 ---
 
@@ -203,15 +203,17 @@ elite impunity, national security risk, blackmail leverage, coercion, prosecutor
 
 ## 🏮 Footer
 
-*Elite Impunity Is a National Security Risk* is a living node of the **Polaris Protocol**.  
+*⚖️ Elite Impunity Is a National Security Risk* is a living node of the **Polaris Protocol**.  
 It documents how tolerated elite wrongdoing converts private misconduct into strategic state vulnerability.
 
-> 📡 Cross-references:
-> - **⚖️ How the CPS Operates** — discretion mechanics  
-> - **⚖️ We Do Have to Prosecute the Elite, Actually** — accountability as public good  
-> - **🏯 Governance_And_Containment** — institutional self-protection logic  
-> - **🛰️ Metadata_Sabotage_Network** — information extraction and leverage pathways  
+> 📡 Cross-references:  
+> 
+> - [⚖️ How the CPS Operates](./⚖️_how_the_cps_operates.md) - *what "independence" actually means*  
+> - [⚖️ We Do Have to Prosecute the Elite, Actually](./⚖️_we_do_have_to_prosecute_the_elite_actually.md) — *accountability as public good*  
+> - [🕳️ When the Censor Is a Contractor](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕳️_when_the_censor_is_a_contractor.md) - *how elite parties and parties with significant capital outsource the gagging of anyone and everyone*  
+> - [📿 Women, Whistleblowers, & Prevent Drag](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/📿_women_whistleblowers_prevent_drag.md) - *how the UK's "counterterrorism" policies and practice multiply this impact for femme-coded survivors of SV*  
+> - [🦑 C.R.A.K.E.N. System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological risk and threat mapping*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-23_
