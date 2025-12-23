@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 15:33:09 UTC_
+_Generated on 2025-12-23 15:43:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -81,6 +81,7 @@ _Generated on 2025-12-23 15:33:09 UTC_
         - [`📺_gb_not_news.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/📺_gb_not_news.md)
         - [`🦤_dodo_and_adjacent_activity_index.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🦤_dodo_and_adjacent_activity_index.yaml)
         - [`🦤_dodo_importer_tommy_robinson.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🦤_dodo_importer_tommy_robinson.md)
+        - [`🦤_the_just_eat_hunger_strike_tit.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🦤_the_just_eat_hunger_strike_tit.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/README.md)
       - [`⚖️_two_way_seal.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/⚖️_two_way_seal.md)
       - [`🌀_chaff.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🌀_chaff.md)
