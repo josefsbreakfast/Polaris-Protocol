@@ -1,6 +1,6 @@
 # ✈️ Just Arrest Them  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
-*On how the refusal to make arrests functions as a political choice, not a legal constraint.*
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*On how the refusal to make arrests functions as a political choice, not a legal constraint.*  
 
 ---
 
@@ -133,10 +133,10 @@ It contributes analysis of how the refusal to make arrests — despite credible 
 
 > 📡 Cross-references:
 > 
-> - [✈️ Justice Forbidden](./✈️_justice_forbidden.md) — accountability pre-empted  
-> - [✈️ Arresting Justice](./✈️_arresting_justice.md) — justice stalled in motion  
-> - [🗄️ Epstein Files Are Red Herrings](./🗄️_epstein_files_are_red_herrings.md) — misdirection through disclosure  
+> - [✈️ Justice Forbidden] — *accountability pre-empted*  
+> - [✈️ Arresting Justice] — *justice stalled in motion*  
+> - [🗄️ Epstein Files Are Red Herrings] — *misdirection through disclosure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-23_
