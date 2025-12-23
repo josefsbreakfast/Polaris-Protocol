@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 15:59:17 UTC_
+_Generated on 2025-12-23 16:00:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3153,6 +3153,7 @@ _Generated on 2025-12-23 15:59:17 UTC_
       - [`⚠️_misaligned_risk_reflexes_in_safeguarding_and_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚠️_misaligned_risk_reflexes_in_safeguarding_and_prevent.md)
       - [`✈️_arresting_justice.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_arresting_justice.md)
       - [`✈️_just_arrest_them.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_just_arrest_them.md)
+      - [`✈️_justice_forbidden.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_justice_forbidden.md)
       - [`❌_nothing_to_hide_fallacy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/❌_nothing_to_hide_fallacy.md)
       - [`🈺_prevent_as_structural_marginalisation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🈺_prevent_as_structural_marginalisation.md)
       - [`🌐_prevent_as_a_democracy_suppression_engine.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌐_prevent_as_a_democracy_suppression_engine.md)
@@ -3861,7 +3862,6 @@ _Generated on 2025-12-23 15:59:17 UTC_
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`✈️_justice_forbidden.md`](Polaris_Nest/Git_Intake_Drawer/✈️_justice_forbidden.md)
     - [`✈️_nonce_or_negligence.md`](Polaris_Nest/Git_Intake_Drawer/✈️_nonce_or_negligence.md)
     - [`✈️_patterns_survivors_and_shatterforks.md`](Polaris_Nest/Git_Intake_Drawer/✈️_patterns_survivors_and_shatterforks.md)
     - [`✈️_the_dragging_out_of_predictable_let_down.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_dragging_out_of_predictable_let_down.md)
