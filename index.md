@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 18:09:35 UTC_
+_Generated on 2025-12-23 18:10:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -482,7 +482,6 @@ _Generated on 2025-12-23 18:09:35 UTC_
         - [`🦩_from_disability_to_trans_panic_the_reusable_script.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🦩_from_disability_to_trans_panic_the_reusable_script.md)
         - [`🦴_reputational_management_as_harm_producing_system.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🦴_reputational_management_as_harm_producing_system.md)
         - [`🧠_how_reasonable_people_reach_the_wrong_conclusion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_how_reasonable_people_reach_the_wrong_conclusion.md)
-        - [`🧠_pattern_recognition_violence_non_violence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_pattern_recognition_violence_non_violence.md)
         - [`🧠_politicians_and_public_contact.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_politicians_and_public_contact.md)
         - [`🧠_the_men_had_a_plan.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_the_men_had_a_plan.md)
         - [`🧠_the_ministry_of_overconfident_misreadings.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_the_ministry_of_overconfident_misreadings.md)
