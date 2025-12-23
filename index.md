@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:37:11 UTC_
+_Generated on 2025-12-23 17:38:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3483,6 +3483,7 @@ _Generated on 2025-12-23 17:37:11 UTC_
       - [`🧪_the_strategic_accuser_profile.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧪_the_strategic_accuser_profile.md)
       - [`🧬_cross_trained_voice_loops.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧬_cross_trained_voice_loops.md)
       - [`🧱_keystone_dependency_trace.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧱_keystone_dependency_trace.md)
+      - [`🧿_attribution_as_narrative_attack_surface.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_attribution_as_narrative_attack_surface.md)
       - [`🧿_grandma_classification_theory.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_grandma_classification_theory.md)
       - [`🧿_representation_logic_vs_platform_optimisation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_representation_logic_vs_platform_optimisation.md)
       - [`🩺_containment_catchphrases.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🩺_containment_catchphrases.md)
@@ -4022,7 +4023,6 @@ _Generated on 2025-12-23 17:37:11 UTC_
     - [`🧾_soft_wipe_cache_evidence.md`](Polaris_Nest/Git_Intake_Drawer/🧾_soft_wipe_cache_evidence.md)
     - [`🧾_the_system_already_has_a_story_about_you.md`](Polaris_Nest/Git_Intake_Drawer/🧾_the_system_already_has_a_story_about_you.md)
     - [`🧿_atrocity_pattern_recognition_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧿_atrocity_pattern_recognition_toolkit.md)
-    - [`🧿_attribution_as_narrative_attack_surface.md`](Polaris_Nest/Git_Intake_Drawer/🧿_attribution_as_narrative_attack_surface.md)
     - [`🧿_cluster_level_behavioural_modulation_no_vendor_logs.md`](Polaris_Nest/Git_Intake_Drawer/🧿_cluster_level_behavioural_modulation_no_vendor_logs.md)
     - [`🧿_de_anonymisation_by_composite_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧿_de_anonymisation_by_composite_architecture.md)
     - [`🧿_did_the_uk_learn_from_the_troubles.md`](Polaris_Nest/Git_Intake_Drawer/🧿_did_the_uk_learn_from_the_troubles.md)
