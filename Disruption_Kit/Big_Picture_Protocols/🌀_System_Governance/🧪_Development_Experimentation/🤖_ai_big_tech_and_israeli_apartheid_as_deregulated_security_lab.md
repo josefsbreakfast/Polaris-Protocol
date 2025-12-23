@@ -1,10 +1,10 @@
-# 🤖 AI, big tech, and Israel as a deregulated security lab
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How conflict, deregulation, and exceptionality make certain jurisdictions attractive testing grounds for AI-enabled power.*
+# 🤖 AI, Big Tech, And Israeli Apartheid As A Deregulated Security Lab  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*How conflict, deregulation, and exceptionality make certain jurisdictions attractive testing grounds for AI-enabled power.*  
 
 ---
 
-## 🧭 What this node is
+## 🧭 What This Node Is
 This node examines how Israel functions, for Western governments and corporations, as a **high-value testing and integration environment** for:
 
 - AI systems,
@@ -17,7 +17,7 @@ It maps **structural convergence**.
 
 ---
 
-## 🤖 Why AI seeks exception zones
+## 🤖 Why AI Seeks Exception Zones
 AI development favours environments with:
 
 - large, real-time data flows,
@@ -35,7 +35,7 @@ Israel offers these **without being framed as a failed state**.
 
 ---
 
-## ☁️ Big tech incentives
+## ☁️ Big Tech Incentives
 For major technology firms, Israel provides:
 
 - deep integration with security services,
@@ -52,7 +52,7 @@ This is **market logic**, not ideology.
 
 ---
 
-## 🧩 Civil–military collapse
+## 🧩 Civil–Military Collapse
 In this environment:
 
 - civilian data feeds military systems,
@@ -67,7 +67,7 @@ This collapse matters because:
 
 ---
 
-## ⚖️ Legal friction reduction
+## ⚖️ Legal Friction Reduction
 Exceptionality reduces friction by:
 
 - framing harm as “security necessity,”
@@ -82,7 +82,7 @@ For AI systems, this means:
 
 ---
 
-## 🧠 Why this affects UK decision-making
+## 🧠 Why This Affects UK Decision-Making
 The UK’s increasing interest in:
 
 - AI-assisted governance,
@@ -101,7 +101,7 @@ This shapes **risk tolerance**, even without explicit pressure.
 
 ---
 
-## 🧯 Downstream harms
+## 🧯 Downstream Harms
 This convergence produces:
 
 - normalisation of population-scale surveillance,
@@ -113,7 +113,7 @@ Conflict becomes a **development environment**.
 
 ---
 
-## 🧷 Working claim
+## 🧷 Working Claim
 Israel’s role as a deregulated security lab is not the result of a single plan.
 
 It emerges where:
@@ -137,16 +137,16 @@ artificial intelligence, big tech, cloud infrastructure, surveillance capitalism
 
 ## 🏮 Footer
 
-*AI, big tech, and Israel as a deregulated security lab* is a political-economy node in the **Polaris Protocol**.
+*🤖 AI, Big Tech, And Israeli Apartheid As A Deregulated Security Lab* is a political-economy node in the **Polaris Protocol**.
 
 It exists to explain why conflict environments become attractive sites for AI-enabled power, and how those technologies migrate back into democratic governance without their emergency origins being acknowledged.
 
 > 📡 Cross-references:
 >
-> - [🔄 MOD–arms industry revolving door](./🔄_mod_arms_industry_revolving_door.md) — *capital and continuity incentives*
-> - [🚁 Arms exports, dual-use technology, and UAV drift](./🚁_arms_exports_dual_use_technology_and_uav_drift.md) — *technical enablement*
-> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *where risk tolerance manifested*
+> - [🔄 MOD–arms industry revolving door] — *capital and continuity incentives*
+> - [🚁 Arms exports, dual-use technology, and UAV drift] — *technical enablement*
+> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)] — *where risk tolerance manifested*
 >
 > *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-23_
