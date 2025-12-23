@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 15:11:03 UTC_
+_Generated on 2025-12-23 15:31:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3879,6 +3879,7 @@ _Generated on 2025-12-23 15:11:03 UTC_
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
+    - [`🏛️_our_island_our_realm_our_rules.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_our_island_our_realm_our_rules.md)
     - [`🏛️_this_is_about_british_democracy.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_this_is_about_british_democracy.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`🐉_its_not_always_daddy_dragon.md`](Polaris_Nest/Git_Intake_Drawer/🐉_its_not_always_daddy_dragon.md)
