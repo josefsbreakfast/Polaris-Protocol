@@ -1,6 +1,6 @@
 # ✈️ Nonce or Negligence  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
-*A false dilemma forced by institutional refusal to acknowledge obvious harm.*
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*A false dilemma forced by institutional refusal to acknowledge obvious harm.*  
 
 ---
 
@@ -149,4 +149,4 @@ It examines how institutional refusal to acknowledge obvious child harm forces a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-23_
