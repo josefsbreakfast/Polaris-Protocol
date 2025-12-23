@@ -1,5 +1,5 @@
 # ⚖️ Schmittian Logic in Policing Practice  
-**First created:** 2025-12-13 | **Last updated:** 2025-12-13  
+**First created:** 2025-12-13 | **Last updated:** 2025-12-23  
 *How sustained pressure forces law to collapse into power — and how policing is made to live inside the exception.*
 
 ---
@@ -151,14 +151,16 @@ schmittian logic, law and power, policing exceptions, coercive governance, intim
 
 ## 🏮 Footer  
 
-*Schmittian Logic in Policing Practice* is a living node of the **Polaris Protocol**.  
+*⚖️ Schmittian Logic in Policing Practice* is a living node of the **Polaris Protocol**.  
 It documents how law is operationally subordinated to power under sustained pressure — and how policing becomes the site where the exception is normalised.
 
 > 📡 Cross-references:
-> - 🪖 *Authoritarian Capture of Policing Institutions* — structural context  
-> - 🔥 *Asymmetric Overload & Legal Insulation* — pressure mechanisms  
-> - 🧠 *Ethical Attrition via Asymmetric Burden* — consequences for personnel  
+> 
+> - [🪖 Authoritarian Capture of Policing Institutions](../../Governance_And_Containment/🈺_Governance_And_Prevent/🪖_authoritarian_capture_of_policing_institutions.md) — *structural context*  
+> - [🔥 Asymmetric Overload & Legal Insulation](../../Governance_And_Containment/🈸_Dispatch_And_Training/🔥_asymmetric_overload_and_legal_insulation.md) — *pressure mechanisms*  
+> - [🧠 Ethical Attrition via Asymmetric Burden](../../Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠_ethical_attrition_via_asymmetric_burden.md) — *consequences for personnel*
+> - [🧨 The Schmittian Drift in Exceptional Detention Governance](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_the_schmittian_drift_in_exceptional_detention_governance.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2025-12-23_
