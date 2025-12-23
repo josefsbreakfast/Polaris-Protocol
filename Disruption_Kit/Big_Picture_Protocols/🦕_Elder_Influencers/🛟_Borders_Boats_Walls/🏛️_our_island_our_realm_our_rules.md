@@ -155,7 +155,7 @@ xenia, hospitality, migration policy, asylum process, sovereignty without cruelt
 ---
 
 ## 🏮 Footer  
-*Our Island, Our Realm, Our Rules* is a living node of the Polaris Protocol.  
+*🏛️ Our Island, Our Realm, Our Rules* is a living node of the Polaris Protocol.  
 It exists to dismantle the false choice between borders and decency.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
