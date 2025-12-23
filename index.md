@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:12:17 UTC_
+_Generated on 2025-12-23 17:13:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3481,6 +3481,8 @@ _Generated on 2025-12-23 17:12:17 UTC_
       - [`🪼_modern_extremism_recruits_through_vibes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪼_modern_extremism_recruits_through_vibes.md)
     - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md)
   - [**Structural_Analysis/**](Metadata_Sabotage_Network/Structural_Analysis/)
+    - [**🉑_System_Thresholds/**](Metadata_Sabotage_Network/Structural_Analysis/🉑_System_Thresholds/)
+      - [`🦴_tolerance_thresholds_as_load_management.md`](Metadata_Sabotage_Network/Structural_Analysis/🉑_System_Thresholds/🦴_tolerance_thresholds_as_load_management.md)
     - [**👾_Breakpoints_And_Glitches/**](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/README.md)
       - [`🏚️_pre_digital_meets_post_digital.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🏚️_pre_digital_meets_post_digital.md)
@@ -3936,7 +3938,6 @@ _Generated on 2025-12-23 17:12:17 UTC_
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
-    - [`🦴_tolerance_thresholds_as_load_management.md`](Polaris_Nest/Git_Intake_Drawer/🦴_tolerance_thresholds_as_load_management.md)
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
