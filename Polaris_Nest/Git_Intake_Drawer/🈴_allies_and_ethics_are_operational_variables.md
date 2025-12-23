@@ -1,5 +1,5 @@
 # 🈴 Allies and Ethics Are Operational Variables
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
+**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
 *Why alliances and ethical compromises shape threat exposure, attribution error, and long-term instability — whether acknowledged or not.*
 
 ---
@@ -155,10 +155,8 @@ Ignoring them guarantees analytical distortion.
 *🈴 Allies and Ethics Are Operational Variables* is a living node of the **Polaris Protocol**.  
 It exists to ensure that alliance management and ethical tolerance are analysed as security-relevant forces — not treated as background context.
 
-> 📡 Cross-references:
-> - [Metadata Sabotage Network](../) — governance and containment  
-> - [Big Picture Protocols](../../🌀_System_Governance/) — systemic doctrine  
+> 📡 Cross-references:  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-23_
