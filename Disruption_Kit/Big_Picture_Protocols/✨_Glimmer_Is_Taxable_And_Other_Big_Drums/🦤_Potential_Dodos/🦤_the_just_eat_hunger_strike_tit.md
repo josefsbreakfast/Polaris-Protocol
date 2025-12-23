@@ -121,9 +121,7 @@ If the joke feels imported, tired, and stupid — that’s because it is.
 ---
 
 *Filed under Potential Dodos:  
-ideas that should never be allowed to breed.*
-
----
+ideas that should never be allowed to breed.*  
 
 ---
 
