@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:02:49 UTC_
+_Generated on 2025-12-23 17:04:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3208,6 +3208,7 @@ _Generated on 2025-12-23 17:02:49 UTC_
       - [`🕸️_gendered_harms_from_counter_extremism_algorithms.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕸️_gendered_harms_from_counter_extremism_algorithms.md)
       - [`🕸️_prevent_vawg_overlap_shared_safeguarding_infrastructures.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕸️_prevent_vawg_overlap_shared_safeguarding_infrastructures.md)
       - [`🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md)
+      - [`🗄️_epstein_files_are_red_herrings.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗄️_epstein_files_are_red_herrings.md)
       - [`🗺️_coordinates_for_safety.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗺️_coordinates_for_safety.md)
       - [`🚨_risk_logic_creep.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🚨_risk_logic_creep.md)
       - [`🛂_gated_intake_post_delay_regional_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛂_gated_intake_post_delay_regional_loop.md)
@@ -3918,7 +3919,6 @@ _Generated on 2025-12-23 17:02:49 UTC_
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
-    - [`🗄️_epstein_files_are_red_herrings.md`](Polaris_Nest/Git_Intake_Drawer/🗄️_epstein_files_are_red_herrings.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
