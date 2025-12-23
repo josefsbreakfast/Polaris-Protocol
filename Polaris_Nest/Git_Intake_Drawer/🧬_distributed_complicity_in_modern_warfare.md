@@ -1,10 +1,10 @@
-# 🧬 Distributed complicity in modern warfare
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How contemporary conflict fragments agency while concentrating harm.*
+# 🧬 Distributed Complicity In Modern Warfare  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*How contemporary conflict fragments agency while concentrating harm.*  
 
 ---
 
-## 🧭 What this node is
+## 🧭 What This Node Is
 This node explains how modern warfare distributes responsibility across systems, roles, and institutions in ways that:
 
 - obscure individual agency,
@@ -16,7 +16,7 @@ It exists to explain **how complicity operates at scale**.
 
 ---
 
-## 🧬 The shift: from trigger-pullers to systems
+## 🧬 The Shift: From Trigger-Pullers To Systems
 In contemporary warfare:
 
 - few people pull triggers,
@@ -34,7 +34,7 @@ Responsibility becomes **distributed**, not absent.
 
 ---
 
-## 🛰️ “Just observing” is not neutral
+## 🛰️ “Just Observing” Is Not Neutral
 ISR, intelligence analysis, and surveillance are often framed as:
 
 - passive,
@@ -51,7 +51,7 @@ Once harm is foreseeable, continued observation **changes outcomes**.
 
 ---
 
-## 🔗 The enabling chain (simplified)
+## 🔗 The Enabling Chain  
 Distributed complicity operates through chains such as:
 
 1. Data collection (ISR, SIGINT, imagery)
@@ -66,7 +66,7 @@ The chain as a whole is lethal.
 
 ---
 
-## ⚖️ Legal relevance
+## ⚖️ Legal Relevance
 Under international law, complicity does not require:
 
 - intent to commit the crime,
@@ -84,7 +84,7 @@ They merely complicate attribution.
 
 ---
 
-## 🧠 Why institutions favour distribution
+## 🧠 Why Institutions Favour Distribution
 Distributed complicity is attractive because it:
 
 - spreads risk,
@@ -102,7 +102,7 @@ It is a structural preference.
 
 ---
 
-## 🧯 Moral injury as a system output
+## 🧯 Moral Injury As A System Output
 Distributed complicity produces a distinctive harm:
 
 - individuals feel responsible,
@@ -119,7 +119,7 @@ It is internalised.
 
 ---
 
-## 🚫 Why prevention fails under distribution
+## 🚫 Why Prevention Fails Under Distribution
 Genocide prevention and IHL depend on:
 
 - early friction,
@@ -136,7 +136,7 @@ By the time harm is undeniable, **prevention windows have closed**.
 
 ---
 
-## 🧷 Working claim
+## 🧷 Working Claim
 Modern warfare enables atrocity not because people become cruel, but because systems make cruelty **procedural**.
 
 Distributed complicity:
@@ -157,16 +157,16 @@ distributed complicity, modern warfare, intelligence enabling, ISR ethics, aidin
 
 ## 🏮 Footer
 
-*Distributed complicity in modern warfare* is a core mechanism node in the **Polaris Protocol**.
+*🧬 Distributed Complicity In Modern Warfare* is a core mechanism node in the **Polaris Protocol**.
 
 It exists to explain why harm persists even when no one claims authorship, and why “just support” or “just observation” cannot remain morally or legally neutral once risk is known.
 
 > 📡 Cross-references:
 >
-> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *where prevention failed*
-> - [🏛️ Ministerial authority and collapse of lawful refusal](./🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *why refusal routes vanished*
-> - [⚖️ Judicial reviews, parliamentary committees, and procedural delay](./⚖️_judicial_reviews_parliamentary_committees_and_procedural_delay.md) — *how process absorbs harm*
+> - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)] — *where prevention failed*
+> - [🏛️ Ministerial Authority And Collapse Of Lawful Refusal] — *why refusal routes vanished*
+> - [⚖️ Judicial Reviews, Parliamentary Committees, And Procedural Delay] — *how process absorbs harm*
 >
 > *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-23_
