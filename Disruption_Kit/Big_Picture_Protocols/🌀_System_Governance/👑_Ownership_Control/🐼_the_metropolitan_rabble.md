@@ -1,6 +1,6 @@
 # 🐼 The Metropolitan Rabble  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why the Met looks less like a disciplined force and more like authority without internal coherence — and why that explains more than “corruption” ever did.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
+*Why the Met looks less like a disciplined force and more like authority without internal coherence — and why that explains more than “corruption” ever did.*  
 
 ---
 
@@ -196,10 +196,10 @@ It contributes institutional analysis on why the Met’s behaviour is better exp
 
 > 📡 Cross-references:
 > 
-> - [🎭 Procedure Without Legitimacy](./🎭_procedure_without_legitimacy.md) — rule-following after trust collapses  
-> - [🧨 Where Revolutions Actually Come From](./🧨_where_revolutions_actually_come_from.md) — overreaction and fantasy risk  
-> - [🚜 Tools Are Not Costumes](./🚜_tools_are_not_costumes.md) — protest optics and enforcement failure  
+> - [🎭 Procedure Without Legitimacy] — *rule-following after trust collapses*  
+> - [🧨 Where Revolutions Actually Come From] — *overreaction and fantasy risk*  
+> - [🚜 Tools Are Not Costumes] — *protest optics and enforcement failure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-23_
