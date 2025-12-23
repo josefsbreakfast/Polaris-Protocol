@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 16:49:06 UTC_
+_Generated on 2025-12-23 16:50:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -227,6 +227,7 @@ _Generated on 2025-12-23 16:49:06 UTC_
         - [`🌒_the_no_win_box.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌒_the_no_win_box.md)
         - [`🍉_british_democracy_needs_you.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🍉_british_democracy_needs_you.md)
         - [`🏛️_raac_ruins_squad.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🏛️_raac_ruins_squad.md)
+        - [`🐼_the_metropolitan_rabble.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🐼_the_metropolitan_rabble.md)
         - [`👁️_restoring_epistemic_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👁️_restoring_epistemic_integrity.md)
         - [`👑_asserting_sovereignty_after_allied_interference.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_asserting_sovereignty_after_allied_interference.md)
         - [`👑_soft_power_accountability_gap.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_soft_power_accountability_gap.md)
@@ -3898,7 +3899,6 @@ _Generated on 2025-12-23 16:49:06 UTC_
     - [`🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md`](Polaris_Nest/Git_Intake_Drawer/🐶_how_doge_moonshotted_all_the_way_to_horny_jail.md)
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
-    - [`🐼_the_metropolitan_rabble.md`](Polaris_Nest/Git_Intake_Drawer/🐼_the_metropolitan_rabble.md)
     - [`👈_nudges_for_grudges.md`](Polaris_Nest/Git_Intake_Drawer/👈_nudges_for_grudges.md)
     - [`👾_uk_data_exposure_accumulation.md`](Polaris_Nest/Git_Intake_Drawer/👾_uk_data_exposure_accumulation.md)
     - [`👾_working_diagnosis_hunger_strikes_sock_puppet_campaign.md`](Polaris_Nest/Git_Intake_Drawer/👾_working_diagnosis_hunger_strikes_sock_puppet_campaign.md)
