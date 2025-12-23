@@ -33,7 +33,7 @@ misattribution, antisemitism risk, coalition integrity, narrative discipline, pa
 ---
 
 ## 🏮 Footer  
-*The Puppets Ain’t Israeli* is a living node of the Polaris Protocol.  
+*🍉 The Puppets Ain’t Israeli* is a living node of the Polaris Protocol.  
 It functions as a defensive clarity tool, preventing ethnic or religious scapegoating from collapsing serious analysis.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
