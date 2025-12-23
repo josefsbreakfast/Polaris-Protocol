@@ -155,17 +155,7 @@ They:
 - inform protection priorities
 - anchor analysis under uncertainty
 
-They are the calcaneus lines you read *before* deciding where the pressure came from.
-
----
-
-## 📡 Cross-References
-
-- 🐉 It’s Not Always Daddy Dragon — comfort-villain bias  
-- 📿 Vulnerable Data Populations at FCDO — who bears the risk  
-- 🧟‍♀️ Residual Shadows at FCDO — afterlife exploitation  
-- 🧿 Attribution as Narrative Attack Surface — spoofability  
-- 🦑 CRAKEN System — reflexive load mapping  
+They are the calcaneus lines you read *before* deciding where the pressure came from.  
 
 ---
 
@@ -174,8 +164,13 @@ They are the calcaneus lines you read *before* deciding where the pressure came 
 *🧿 FCDO Data Signatures* is a living node of the **Polaris Protocol**.  
 It exists to preserve analytical integrity when attribution pressure is high and evidence remains partial.
 
-> 📡 Cross-references:  
-
+> 📡 Cross-References:  
+> 
+> - [🐉 It’s Not Always Daddy Dragon](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐉_its_not_always_daddy_dragon.md) — *comfort-villain bias*  
+> - [🌍 Vulnerable Data Populations at FCDO](../../🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md) — *who bears the cost*  
+> - [🌍 Residual Shadows at FCDO](../../🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌍_residual_shadows_at_fcdo.md) — *delayed exploitation*  
+> - [🧿 Attribution as Narrative Attack Surface](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_attribution_as_narrative_attack_surface.md) — *spoofability*  
+> - [🦑 C.R.A.K.E.N. System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
