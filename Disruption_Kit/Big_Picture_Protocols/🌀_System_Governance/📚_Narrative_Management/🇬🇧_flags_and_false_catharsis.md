@@ -141,7 +141,7 @@ That’s the bare minimum.
 ---
 
 ## 🌌 Constellations  
-🏴 🧱 🧠 🏛️ — symbolic politics, suppression mechanics, democratic sovereignty.
+🏴 🧱 🇬🇧 🧠 🏛️ — symbolic politics, suppression mechanics, democratic sovereignty.
 
 ## ✨ Stardust  
 false catharsis, symbolic patriotism, suppression, democracy erosion, sovereignty
@@ -149,8 +149,11 @@ false catharsis, symbolic patriotism, suppression, democracy erosion, sovereignt
 ---
 
 ## 🏮 Footer  
-*Flags, False Catharsis, and the Thing We Refused to Say* is a living node of the Polaris Protocol.  
-It documents how democratic energy can be redirected away from action without anyone having to ban a word.
+*🇬🇧 Flags, False Catharsis, and the Thing We Refused to Say* is a living node of the Polaris Protocol.  
+It documents how democratic energy can be redirected away from action without anyone having to ban a word.  
+
+> - [🧨 Semantic Collapse](./🧨_semantic_collapse.md) - *how the definition of "patriotism" got garbled and spat out doing a "Roman salute"*
+> - [🏛️ Our Island, Our Realm, Our Rules (and Why That Includes Hospitality)](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_our_island_our_realm_our_rules.md) - *on balancing "protecting the realm" with radical compassion for people you are yet to meet*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
