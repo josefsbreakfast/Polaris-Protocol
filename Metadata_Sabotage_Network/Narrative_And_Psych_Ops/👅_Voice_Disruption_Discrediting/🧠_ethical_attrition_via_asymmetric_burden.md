@@ -1,6 +1,6 @@
 # 🧠 Ethical Attrition via Asymmetric Burden  
-**First created:** 2025-12-13 | **Last updated:** 2025-12-13  
-*How ethical, competent officers leave voluntarily under sustained pressure — and why this quietly hollows institutions.*
+**First created:** 2025-12-13 | **Last updated:** 2025-12-23  
+*How ethical, competent officers leave voluntarily under sustained pressure — and why this quietly hollows institutions.*  
 
 ---
 
@@ -125,14 +125,15 @@ ethical attrition, moral injury, policing burnout, institutional hollowing, auth
 
 ## 🏮 Footer  
 
-*Ethical Attrition via Asymmetric Burden* is a living node of the **Polaris Protocol**.  
+*🧠 Ethical Attrition via Asymmetric Burden* is a living node of the **Polaris Protocol**.  
 It documents how authoritarian pressure hollow institutions not through expulsion, but through the quiet loss of those most capable of ethical resistance.
 
 > 📡 Cross-references:
-> - 🪖 *Authoritarian Capture of Policing Institutions* — structural overview  
-> - 🔥 *Asymmetric Overload & Legal Insulation* — pressure generation  
-> - 🧬 *Authoritarian Personnel Purification* — early-stage removal  
+> 
+> - [🪖 Authoritarian Capture of Policing Institutions](../../Governance_And_Containment/🈺_Governance_And_Prevent/🪖_authoritarian_capture_of_policing_institutions.md) — *structural overview*  
+> - [🔥 Asymmetric Overload & Legal Insulation](../../Governance_And_Containment/🈸_Dispatch_And_Training/🔥_asymmetric_overload_and_legal_insulation.md) — *how lawfare and violence are utilised to undermine and exhaust policing*  
+> - [🧬 Authoritarian Personnel Purification](../../Governance_And_Containment/🉑_System_Thresholds/🧬_authoritarian_personnel_purification.md) — *removal of internal ethical brakes*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2025-12-23_
