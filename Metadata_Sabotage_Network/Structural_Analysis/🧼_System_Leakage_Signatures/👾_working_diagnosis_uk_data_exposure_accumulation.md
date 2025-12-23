@@ -31,27 +31,27 @@ This is why **grey-zone ethics** matters: you don’t need to “prove” anythi
 ## 🛰️ Recent UK breach pattern (examples, not an exhaustive list)
 
 ### Democratic infrastructure  
-The UK Electoral Commission disclosed a complex cyber-attack identified in 2022, with hostile access beginning earlier, and later received regulatory action from the ICO.  [oai_citation:0‡Electoral Commission](https://www.electoralcommission.org.uk/privacy-policy/public-notification-cyber-attack-electoral-commission-systems/information-about-cyber-attack?utm_source=chatgpt.com)
+The UK Electoral Commission disclosed a complex cyber-attack identified in 2022, with hostile access beginning earlier, and later received regulatory action from the ICO.  [oai_citation:0‡Electoral Commission](https://www.electoralcommission.org.uk/privacy-policy/public-notification-cyber-attack-electoral-commission-systems/information-about-cyber-attack)
 
 Democratic systems don’t need to be altered to be harmed: confidence, targeting, and intimidation are sufficient.
 
 ### Government departments and migration-related sensitivities  
-In December 2025, UK ministers confirmed the Foreign, Commonwealth & Development Office was hit by a cyber incident in October 2025, with reporting focusing on visa-related systems while official statements urged caution on attribution.  [oai_citation:1‡The Guardian](https://www.theguardian.com/technology/2025/dec/19/uk-foreign-office-victim-cyber-attack-october-?utm_source=chatgpt.com)
+In December 2025, UK ministers confirmed the Foreign, Commonwealth & Development Office was hit by a cyber incident in October 2025, with reporting focusing on visa-related systems while official statements urged caution on attribution.  [oai_citation:1‡The Guardian](https://www.theguardian.com/technology/2025/dec/19/uk-foreign-office-victim-cyber-attack-october)
 
 This matters because migration is a perennial fixation point for authoritarian politics: it is the easiest “outsider lever” to pull.
 
 ### National institutions people love in a bipartisan way  
-The NHS has experienced major cyber disruption in the past (e.g. WannaCry), and more recently, NHS England reported significant disruption from the Synnovis ransomware attack in June 2024.  [oai_citation:2‡nao.org.uk](https://www.nao.org.uk/reports/investigation-wannacry-cyber-attack-and-the-nhs/?utm_source=chatgpt.com)
+The NHS has experienced major cyber disruption in the past (e.g. WannaCry), and more recently, NHS England reported significant disruption from the Synnovis ransomware attack in June 2024.  [oai_citation:2‡nao.org.uk](https://www.nao.org.uk/reports/investigation-wannacry-cyber-attack-and-the-nhs)
 
 When healthcare is hit, it is not “just IT”. It touches fear, trust, and the moral legitimacy of the state.
 
 ### Suppliers, outsourcers, and spillover risk  
-In October 2025, the ICO issued a £14m fine to Capita relating to the 2023 incident affecting millions of people’s personal information.  [oai_citation:3‡ICO](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2025/10/capita-fined-14m-for-data-breach-affecting-over-6m-people/?utm_source=chatgpt.com)
+In October 2025, the ICO issued a £14m fine to Capita relating to the 2023 incident affecting millions of people’s personal information.  [oai_citation:3‡ICO](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2025/10/capita-fined-14m-for-data-breach-affecting-over-6m-people)
 
 Supplier compromise is structurally important because it becomes a low-friction route into many systems at once.
 
 ### Safeguarding-heavy settings  
-The NCSC issued a statement following reports of highly sensitive data being stolen in a cyber incident impacting nurseries.  [oai_citation:4‡NCSC](https://www.ncsc.gov.uk/news/nursery-data-incident?utm_source=chatgpt.com)
+The NCSC issued a statement following reports of highly sensitive data being stolen in a cyber incident impacting nurseries.  [oai_citation:4‡NCSC](https://www.ncsc.gov.uk/news/nursery-data-incident)
 
 That kind of data exposure is politically combustible: it is exactly the sort of material that can generate fear, shame, and silence.
 
@@ -72,7 +72,7 @@ But a more plausible risk model is:
 ---
 
 ## 🧬 Historical precedent: “data as political leverage”  
-The Cambridge Analytica era is a useful reminder of the broader pattern: large-scale data practices and analytics in political contexts can become a legitimacy crisis even when the details are technically complex. The ICO’s “Cambridge Analytica raids” explainer is a good anchor for that institutional memory.  [oai_citation:5‡ICO](https://ico.org.uk/for-the-public/ico-40/cambridge-analytica-raids/?utm_source=chatgpt.com)
+The Cambridge Analytica era is a useful reminder of the broader pattern: large-scale data practices and analytics in political contexts can become a legitimacy crisis even when the details are technically complex. The ICO’s “Cambridge Analytica raids” explainer is a good anchor for that institutional memory.  [oai_citation:5‡ICO](https://ico.org.uk/for-the-public/ico-40/cambridge-analytica-raids)
 
 This matters here as a psychological point: once a public has lived through a data scandal, it becomes easier for future actors to exploit “data dread”.
 
