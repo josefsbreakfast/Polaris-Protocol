@@ -153,7 +153,7 @@ It documents how violence and legal buffering are used to exhaust policing syste
 
 > 📡 Cross-references:
 > 
-> - [🪖 Authoritarian Capture of Policing Institutions](./🪖_authoritarian_capture_of_policing_institutions.md) — *how it is that policing misses this, as a whole*  
+> - [🪖 Authoritarian Capture of Policing Institutions](../🈺_Governance_And_Prevent/🪖_authoritarian_capture_of_policing_institutions.md) — *how it is that policing misses this, as a whole*  
 > - [🧬 Authoritarian Personnel Purification](../🉑_System_Thresholds/🧬_authoritarian_personnel_purification.md) — *removal of internal brakes*  
 > - [🧠 Ethical Attrition via Asymmetric Burden](../../Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠_ethical_attrition_via_asymmetric_burden.md) — *long-term exit effects*  
 
