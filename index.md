@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 17:38:27 UTC_
+_Generated on 2025-12-23 17:40:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3714,6 +3714,7 @@ _Generated on 2025-12-23 17:38:27 UTC_
       - [`🧭_the_metadata_fallacy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧭_the_metadata_fallacy.md)
       - [`🧿_divination_as_gendered_data_pipeline.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_divination_as_gendered_data_pipeline.md)
       - [`🧿_empathy_risk_classifier_satire_maybe.yaml.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_empathy_risk_classifier_satire_maybe.yaml.md)
+      - [`🧿_fcdo_data_signatures.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_fcdo_data_signatures.md)
       - [`🧿_targeting_logic_empathy_is_a_threat.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_targeting_logic_empathy_is_a_threat.md)
       - [`🧿_targeting_logic_metadata_signatures_prevent.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_targeting_logic_metadata_signatures_prevent.md)
       - [`🪞_algorithmic_reframing.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪞_algorithmic_reframing.md)
@@ -4026,7 +4027,6 @@ _Generated on 2025-12-23 17:38:27 UTC_
     - [`🧿_cluster_level_behavioural_modulation_no_vendor_logs.md`](Polaris_Nest/Git_Intake_Drawer/🧿_cluster_level_behavioural_modulation_no_vendor_logs.md)
     - [`🧿_de_anonymisation_by_composite_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧿_de_anonymisation_by_composite_architecture.md)
     - [`🧿_did_the_uk_learn_from_the_troubles.md`](Polaris_Nest/Git_Intake_Drawer/🧿_did_the_uk_learn_from_the_troubles.md)
-    - [`🧿_fcdo_data_signatures.md`](Polaris_Nest/Git_Intake_Drawer/🧿_fcdo_data_signatures.md)
     - [`🧿_his_reaction_is_the_flag.md`](Polaris_Nest/Git_Intake_Drawer/🧿_his_reaction_is_the_flag.md)
     - [`🧿_lexicon_governance_failures.md`](Polaris_Nest/Git_Intake_Drawer/🧿_lexicon_governance_failures.md)
     - [`🧿_mask_slip_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🧿_mask_slip_recognition.md)
