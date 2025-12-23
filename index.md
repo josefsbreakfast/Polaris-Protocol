@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 19:16:51 UTC_
+_Generated on 2025-12-23 19:24:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3176,7 +3176,7 @@ _Generated on 2025-12-23 19:16:51 UTC_
       - [`the_ejaculatory_projection_pipeline.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/the_ejaculatory_projection_pipeline.md)
       - [`transatlantic_protection_rackets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/transatlantic_protection_rackets.md)
       - [`⚖️_adaptive_containment_thresholds.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_adaptive_containment_thresholds.md)
-      - [`⚖️_palestine_action_prescription_case_study.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_palestine_action_prescription_case_study.md)
+      - [`⚖️_palestine_action_proscription_case_study.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_palestine_action_proscription_case_study.md)
       - [`⚠️_misaligned_risk_reflexes_in_safeguarding_and_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚠️_misaligned_risk_reflexes_in_safeguarding_and_prevent.md)
       - [`✈️_arresting_justice.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_arresting_justice.md)
       - [`✈️_just_arrest_them.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_just_arrest_them.md)
