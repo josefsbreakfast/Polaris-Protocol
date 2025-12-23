@@ -1,5 +1,5 @@
 # 🎖️ Training the Old Guard as Force Protection
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
+**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
 *Why bias literacy, narrative awareness, and reflexive thinking are no longer optional skills in modern defence — and why failing to retrain senior actors creates exploitable blind spots.*
 
 ---
@@ -155,10 +155,8 @@ It strengthens the calcaneus rather than replacing it.
 *🎖️ Training the Old Guard as Force Protection* is a living node of the **Polaris Protocol**.  
 It exists to ensure that senior experience remains an asset rather than a liability in reflexive, narrative-saturated threat environments.
 
-> 📡 Cross-references:
-> - [Big Picture Protocols](../../🌀_System_Governance/) — doctrine and governance  
-> - [Metadata Sabotage Network](../) — narrative and data risk  
+> 📡 Cross-references:  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-23_
