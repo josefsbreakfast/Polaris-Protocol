@@ -1,6 +1,6 @@
-# 🧠 Hypervigilance Is a Governance Failure
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Why a permanently anxious population is evidence of institutional malfunction, not public irrationality*
+# 🧠 Hypervigilance Is a Governance Failure  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*Why a permanently anxious population is evidence of institutional malfunction, not public irrationality.*  
 
 ---
 
@@ -172,7 +172,7 @@ hypervigilance, governance failure, public trust, population anxiety, safeguardi
 
 ## 🏮 Footer
 
-*Hypervigilance Is a Governance Failure* is a living node of the **Polaris Protocol**.  
+*🧠 Hypervigilance Is a Governance Failure* is a living node of the **Polaris Protocol**.  
 It documents how persistent public anxiety emerges from accountability failure rather than irrational fear.
 
 > 📡 Cross-references:
@@ -183,4 +183,4 @@ It documents how persistent public anxiety emerges from accountability failure r
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-23_
