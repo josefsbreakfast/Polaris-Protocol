@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 20:57:28 UTC_
+_Generated on 2025-12-23 21:57:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4320,6 +4320,8 @@ _Generated on 2025-12-23 20:57:28 UTC_
     - [`📮_answers_on_a_postcard.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/📮_answers_on_a_postcard.md)
     - [`📮_the_polaris_mail_box.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/📮_the_polaris_mail_box.md)
     - [`🛒_the_data_drift_wedding_registry.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🛒_the_data_drift_wedding_registry.md)
+  - [**🐈‍⬛_Antifacist_Propaganda_Machine/**](🦆_Digital_Disruption/🐈‍⬛_Antifacist_Propaganda_Machine/)
+    - [`README.md`](🦆_Digital_Disruption/🐈‍⬛_Antifacist_Propaganda_Machine/README.md)
   - [**🐘_Reply_All/**](🦆_Digital_Disruption/🐘_Reply_All/)
     - [`README.md`](🦆_Digital_Disruption/🐘_Reply_All/README.md)
     - [`🧿_private_eye_bounces_back.md`](🦆_Digital_Disruption/🐘_Reply_All/🧿_private_eye_bounces_back.md)
