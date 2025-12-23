@@ -1,6 +1,6 @@
-# 🧠 Institutions Confuse Calm With Safety
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Why the absence of visible disruption is mistaken for protection — and how this mistake perpetuates harm*
+# 🧠 Institutions Confuse Calm With Safety  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*Why the absence of visible disruption is mistaken for protection — and how this mistake perpetuates harm.*  
 
 ---
 
@@ -177,4 +177,4 @@ It documents how equating quiet with protection blinds organisations to escalati
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-23_
