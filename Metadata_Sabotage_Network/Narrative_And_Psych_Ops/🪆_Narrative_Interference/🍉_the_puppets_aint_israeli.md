@@ -5,22 +5,34 @@
 ---
 
 ## 🛰️ Orientation  
-There is a growing temptation to explain coordinated hostility around Palestine Action and hunger strikes by naming Israel or Jewish Zionists as the source. This node exists to stop that reflex — not out of politeness, but out of accuracy.
+There is a growing temptation to explain coordinated hostility around Palestine Action and hunger strikes by naming Israel or Jewish Zionists as the source.  
 
-Misattribution is not neutral. It endangers Jewish allies, fractures coalitions, and hands bad actors exactly the cover they want.
+This node exists to stop that reflex — not out of politeness, but out of accuracy.
+
+Misattribution is not neutral. It endangers Jewish allies, fractures coalitions, and hands bad actors exactly the cover they want.  
+
+Could they be Israeli? Sure.  
+
+Do they act in the State of Israel's apparent current interests? Sure.  
+
+Are they functioning anything like previous hasbara sock-puppet campaigns? Not really.  
 
 ---
 
 ## 🧿 Analysis  
 
 ### Why this doesn’t map onto Jewish or Israeli mobilisation  
-Based on tone, structure, and repetition, this activity does not feel like it originates from a single country, community, or issue-specific movement. Instead, it appears to draw from a small set of shared talking points that circulate across transnational right-wing and anti-progressive ecosystems. The comments read as native-level English, task-minimal, and affectively flat, suggesting participation by individuals who may be ideologically aligned but not emotionally invested in the specific issue at hand. This points away from organic disagreement or identity-based mobilisation, and toward a form of generic counter-mobilisation aimed at dampening momentum, fragmenting empathy, and manufacturing the appearance of division.
+Based on tone, structure, and repetition, this activity does not feel like it originates from a single country, community, or issue-specific movement.  
 
-Those with lived experience of Zionist pressure campaigns — especially Jewish critics — recognise a different register entirely. Zionist mobilisation, even when aggressive, is affective and identity-driven. This is not.
+Instead, it appears to draw from a small set of shared talking points that circulate across transnational right-wing and anti-progressive ecosystems. The comments read as native-level English, task-minimal, and affectively flat, suggesting participation by individuals who may be ideologically aligned but not emotionally invested in the specific issue at hand.  
 
-Israel itself is currently internally fragmented, economically strained, and politically unstable. Israeli discourse is focused inward — on leadership failure and state identity — not on micromanaging British protest comment sections.
+This points away from organic disagreement or identity-based mobilisation, and toward a form of generic counter-mobilisation aimed at dampening momentum, fragmenting empathy, and manufacturing the appearance of division.  
 
-Blaming Israel or Jewish communities here does not clarify the situation. It obscures it.
+Those with lived experience of Zionist pressure campaigns — especially Jewish critics — recognise a different register entirely. Zionist mobilisation, even when aggressive, is affective and identity-driven. This is not.  
+
+Israel itself is currently internally fragmented, economically strained, and politically unstable. Israeli discourse is focused inward — on leadership failure and state identity — not on micromanaging British protest comment sections.  
+
+Blaming Israel or Jewish communities here does not clarify the situation. It obscures it.  
 
 ---
 
