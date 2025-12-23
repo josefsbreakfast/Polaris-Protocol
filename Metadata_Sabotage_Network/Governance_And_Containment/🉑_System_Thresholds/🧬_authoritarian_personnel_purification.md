@@ -1,6 +1,6 @@
 # 🧬 Authoritarian Personnel Purification  
-**First created:** 2025-12-13 | **Last updated:** 2025-12-13  
-*How authoritarian projects deliberately remove empathic, complex, and network-minded officers to disable internal resistance.*
+**First created:** 2025-12-13 | **Last updated:** 2025-12-23  
+*How authoritarian projects deliberately remove empathic, complex, and network-minded officers to disable internal resistance.*  
 
 ---
 
@@ -171,14 +171,15 @@ personnel purification, authoritarian policing, empathy suppression, institution
 
 ## 🏮 Footer  
 
-*Authoritarian Personnel Purification* is a living node of the **Polaris Protocol**.  
+*🧬 Authoritarian Personnel Purification* is a living node of the **Polaris Protocol**.  
 It documents a recurring early-stage mechanism by which authoritarian projects disable internal resistance through lawful-looking personnel management.
 
 > 📡 Cross-references:
-> - 🪖 *Authoritarian Capture of Policing Institutions* — structural overview  
-> - 🧠 *Ethical Attrition via Asymmetric Burden* — later-stage voluntary exit  
-> - ⚖️ *Schmittian Logic in Policing Practice* — law subordinated to power  
+> 
+> - [🪖 Authoritarian Capture of Policing Institutions](../🈺_Governance_And_Prevent/🪖_authoritarian_capture_of_policing_institutions.md) — *structural overview*  
+> - [🧠 Ethical Attrition via Asymmetric Burden](../../Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠_ethical_attrition_via_asymmetric_burden.md) — *later-stage voluntary exit*  
+> - [⚖️ Schmittian Logic in Policing Practice](../../Structural_Analysis/🧬_Structural_Mapping/⚖️_schmittian_logic_in_policing_practice.md) — *law subordinated to power*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2025-12-23_
