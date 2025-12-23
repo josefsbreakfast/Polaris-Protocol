@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-23 16:51:45 UTC_
+_Generated on 2025-12-23 16:53:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3710,6 +3710,7 @@ _Generated on 2025-12-23 16:51:45 UTC_
       - [`🌪️_bureaucratic_escalation_rube_goldberg.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🌪️_bureaucratic_escalation_rube_goldberg.md)
       - [`🎙️_abe_and_digital_evidence_as_critical_failure_point.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🎙️_abe_and_digital_evidence_as_critical_failure_point.md)
       - [`🐍_vulnerability_manufacture_to_enmeshment.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🐍_vulnerability_manufacture_to_enmeshment.md)
+      - [`👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md)
       - [`📉_commit_window_collapse_loop.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_commit_window_collapse_loop.md)
       - [`📉_delay_as_procedural_exposure.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_delay_as_procedural_exposure.md)
       - [`📉_force_closed_comments_2025-08-04.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_force_closed_comments_2025-08-04.md)
@@ -3901,7 +3902,6 @@ _Generated on 2025-12-23 16:51:45 UTC_
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
     - [`👈_nudges_for_grudges.md`](Polaris_Nest/Git_Intake_Drawer/👈_nudges_for_grudges.md)
-    - [`👾_working_diagnosis_hunger_strikes_sock_puppet_campaign.md`](Polaris_Nest/Git_Intake_Drawer/👾_working_diagnosis_hunger_strikes_sock_puppet_campaign.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
     - [`💠_respectability_containment_constellation.md`](Polaris_Nest/Git_Intake_Drawer/💠_respectability_containment_constellation.md)
