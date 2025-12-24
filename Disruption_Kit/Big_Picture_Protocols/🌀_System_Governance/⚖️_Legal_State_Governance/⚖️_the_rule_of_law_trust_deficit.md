@@ -1,6 +1,6 @@
 # ⚖️ The Rule-of-Law Trust Deficit  
-**First created:** 2025-10-06 | **Last updated:** 2025-12-17  
-*Governance analysis of unequal terrorism classification and its effect on public legitimacy.*
+**First created:** 2025-10-06 | **Last updated:** 2025-12-24  
+*Governance analysis of unequal terrorism classification and its effect on public legitimacy.*  
 
 ---
 
@@ -181,8 +181,10 @@ It examines how unequal classification corrodes democratic legitimacy and outlin
 > 
 > - [🧨 Differential Classification as Radicalisation Fuel](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_differential_classification_as_radicalisation_fuel.md) - *unequal terrorism designations as a driver of radicalisation*  
 > - [🩸 The Repetition Mechanism](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md) - *selective enforcement as a rehearsal of genocidal permissibility*
-> - [🔥 Narrative Inversion: When Refusal Is Framed as Threat](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md) - *case example of the hunger strikers detained on suspicion (not conviction) of acts consistent with direct action tactics, with discussion of "yes, the public do notice and they generally are revolted when this happens, because it shows lack of respect for the demos"*  
+> - [🔥 Narrative Inversion: When Refusal Is Framed as Threat](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md) - *case example of the hunger strikers detained on suspicion (not conviction) of acts consistent with direct action tactics, with discussion of "yes, the public do notice and they generally are revolted when this happens, because it shows lack of respect for the demos"*
+> - [🧨 Exceptional Sovereignty and the Hunger Strike in Pre-Trial Security Detention](./🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md) - *how exceptional powers can break down a previously stable democracy*  
+> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) - *why it looks an awful lot like that may be the point*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2025-12-24_
