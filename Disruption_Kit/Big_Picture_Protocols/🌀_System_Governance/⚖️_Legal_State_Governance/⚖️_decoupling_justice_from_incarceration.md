@@ -1,6 +1,6 @@
-# ⚖️ Decoupling Justice From Incarceration
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Why treating prison as the default endpoint of justice suppresses accountability and increases harm*
+# ⚖️ Decoupling Justice From Incarceration  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-24  
+*Why treating prison as the default endpoint of justice suppresses accountability and increases harm.*  
 
 ---
 
@@ -184,15 +184,16 @@ decoupling incarceration, proportional justice, sentencing reform, elite account
 
 ## 🏮 Footer
 
-*Decoupling Justice From Incarceration* is a living node of the **Polaris Protocol**.  
+*⚖️ Decoupling Justice From Incarceration* is a living node of the **Polaris Protocol**.  
 It documents how treating prison as the default endpoint of justice suppresses enforcement and enables impunity.
 
-> 📡 Cross-references:
-> - **🧬 How to Prosecute Power Without Collapse** — system stability  
-> - **🧬 What a CSA System Optimised for Prevention Looks Like** — prevention-first design  
-> - **🧬 Restorative and Transformative Justice — Where It Actually Works** — bounded alternatives  
-> - **⚖️ Risk Aversion Is Policy** — fear-driven paralysis  
+> 📡 Cross-references:  
+> 
+> - [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) — *system stability*  
+> - [🧬 What a CSA System Optimised for Prevention Looks Like](./🧬_what_a_csa_system_optimised_for_prevention_looks_like.md) — *prevention-first design*  
+> - [🧬 Restorative and Transformative Justice — Where It Actually Works](./🧬_restorative_and_transformative_justice_where_it_actually_works.md) — *bounded alternatives*  
+> - [⚖️ Risk Aversion Is Policy](./⚖️_risk_aversion_is_policy.md) — *fear-driven paralysis*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-24_
