@@ -1,7 +1,7 @@
 # 🪖 Respectfully Asking the MOD to Declassify (and How Defensive Cabinet Fails Defence)  
 **First created:** 2025-12-24 | **Last updated:** 2025-12-24  
 *How political defensiveness, not security need, produces silence that degrades lawful defence governance.*
-<!--I was legally a child. They have legally managed all other stakeholders. Cabinet have not honoured the teenage girl who was stolen.-->
+<!--I was legally a child. They have likely legally managed other stakeholders. Cabinet have not honoured the teenage girl who was stolen.-->
 ---
 
 ## 🛰️ Orientation
