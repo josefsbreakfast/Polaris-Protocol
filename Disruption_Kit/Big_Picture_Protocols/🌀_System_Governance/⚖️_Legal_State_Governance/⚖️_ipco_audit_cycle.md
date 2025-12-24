@@ -10,13 +10,15 @@
 
 ---
 
+## 🛰️ Orientation  
+
 The watchers get watched, or so the story goes.  
 
 Survivors know that being watched twice doesn’t always make you safer.  
 
 ---
 
-## 🛰️ Routine Inspections  
+## 🧿 Routine Inspections  
 - **Frequency**: typically twice yearly for each agency.  
 - **Scope**: warrant execution, data retention, deletion, compliance logs.  
 
@@ -42,6 +44,8 @@ Survivors know that being watched twice doesn’t always make you safer.
 - Findings can be escalated to the IPT for remedies.  
 
 ---
+
+## 👻 Ghosts Of Our Lives  
 
 Random samples don’t feel random when your life is the dataset.  
 
