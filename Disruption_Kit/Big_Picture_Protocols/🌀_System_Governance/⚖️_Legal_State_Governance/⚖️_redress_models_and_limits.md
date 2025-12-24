@@ -1,5 +1,5 @@
 # ⚖️ Redress Models and Limits  
-**First created:** 2025-09-26 | **Last updated:** 2025-12-15  
+**First created:** 2025-09-26 | **Last updated:** 2025-12-24  
 *Learning from UK precedents to frame hybrid compensation for systemic harms.*  
 
 ---
@@ -54,10 +54,12 @@ It documents why hybrid models are suitable for systemic data-twin/false-provena
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md) - *looking at the economic and civil case for systematic review*  
+> - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md) - *looking at the economic and civil case for systematic review*
+> - [⚖️ Inquiries Are a Pressure Release Valve](./⚖️_inquiries_are_a_pressure_release_valve.md)  
 > - [⚖️ Registered Professions Impact](./⚖️_registered_professions_impact.md) - *specifc impacts and pressures on the workers with professional registrations*  
-> - [💷 Survivor Costing Estimate](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💷_survivor_costing_estimate.md) - *a rough costing of one survivor of "reputation management" by containment*  
+> - [💷 Survivor Costing Estimate](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💷_survivor_costing_estimate.md) - *a rough costing of one survivor of "reputation management" by containment*
+> - [🍉 Why The Long Prison Stay](./🍉_why_the_long_prison_stay.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-24_
