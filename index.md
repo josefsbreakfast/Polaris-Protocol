@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-24 22:52:03 UTC_
+_Generated on 2025-12-24 22:53:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3933,6 +3933,7 @@ _Generated on 2025-12-24 22:52:03 UTC_
     - [`⛴️_stop_the_boats_trust_the_bots.md`](Polaris_Nest/Git_Intake_Drawer/⛴️_stop_the_boats_trust_the_bots.md)
     - [`✈️_release_the_british_files.md`](Polaris_Nest/Git_Intake_Drawer/✈️_release_the_british_files.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
+    - [`🇬🇧_the_price_of_a_childs_life.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_the_price_of_a_childs_life.md)
     - [`🇬🇧_the_uk_history_of_stealing_childrens_identities.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_the_uk_history_of_stealing_childrens_identities.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
