@@ -1,6 +1,6 @@
 # ⚖️ UK Constitutional Fault Lines  
-**First created:** 2025-09-04 | **Last updated:** 2025-12-17  
-*Mapping overlapping pressures on the UK’s unwritten constitution.*
+**First created:** 2025-09-04 | **Last updated:** 2025-12-24  
+*Mapping overlapping pressures on the UK’s unwritten constitution.*  
 
 ---
 
@@ -96,8 +96,12 @@ It documents systemic pressures on the UK’s unwritten constitution and their i
 > 📡 Cross-references:
 > 
 > - [⚖️ Judicial Deference](./⚖️_judicial_deference.md) - *deferring judicial norms to the executive (or pseudo-executive) is strange behaviour*  
-> - [⚖️ Shadow Governance Timeline](./⚖️_shadow_governance_timeline.md) - *beware blondes in governance*  
+> - [⚖️ Shadow Governance Timeline](./⚖️_shadow_governance_timeline.md) - *beware blondes in governance*
+> - [🧿 UK Slow Burn Constitutional Crisis: The Fault Lines](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧿_uk_slow_burn_constitutional_crisis.md) - *a real risk to UK democracy*  
+> - [👾 Working Diagnosis: UK Data Exposure Accumulation](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👾_working_diagnosis_uk_data_exposure_accumulation.md) - *how data is weaponised to undermine UK democracy*  
+> - [🐈‍⬛ Antifascist Propaganda Machine](../../../../🦆_Digital_Disruption/🐈‍⬛_Antifacist_Propaganda_Machine/README.md) - *the alt-right could never admit any of us were organised or powerful; perfect cover*
+> - [⚖️ United Fronts as Democratic Defence](./⚖️_united_fronts_democratic_defence.md) - *call yourself by whatever word you want; I don't want to be forced to stick a "z" in every other word*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2025-12-24_
