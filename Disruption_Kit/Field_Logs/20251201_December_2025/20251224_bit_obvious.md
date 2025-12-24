@@ -21,3 +21,9 @@ Unrelated note: who is presiding when the deceased was making all of those comme
 Again: men should be on conditional release, as a general rule. 🙄  
 
 ---
+
+I know the screenshot because "...the complexity of your request and the volume of information that needs to be retrieved and reviewed...", or Edward Said is too controversial?  
+
+Pick one.  
+
+---
