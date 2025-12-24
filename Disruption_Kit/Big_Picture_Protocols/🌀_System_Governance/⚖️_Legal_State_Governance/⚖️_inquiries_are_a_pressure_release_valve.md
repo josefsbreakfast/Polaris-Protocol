@@ -1,5 +1,5 @@
 # ⚖️ Inquiries Are a Pressure Release Valve  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-24  
 *How inquiries absorb public anger, stabilise institutions, and substitute for legal accountability.*  
 
 ---
@@ -185,4 +185,4 @@ It documents how inquiries function as stabilisation mechanisms that often displ
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2025-12-24_
