@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-24 22:04:05 UTC_
+_Generated on 2025-12-24 22:07:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4082,6 +4082,7 @@ _Generated on 2025-12-24 22:04:05 UTC_
     - [`🪐_prosociality_as_nudge_surface.md`](Polaris_Nest/Git_Intake_Drawer/🪐_prosociality_as_nudge_surface.md)
     - [`🪔_survivor_poetics_hebrew_register.md`](Polaris_Nest/Git_Intake_Drawer/🪔_survivor_poetics_hebrew_register.md)
     - [`🪖_a_previous_cabinets_errors.md`](Polaris_Nest/Git_Intake_Drawer/🪖_a_previous_cabinets_errors.md)
+    - [`🪖_a_teenage_girl_was_always_worth_more_than_the_reputation_of_dishonourable_men.md`](Polaris_Nest/Git_Intake_Drawer/🪖_a_teenage_girl_was_always_worth_more_than_the_reputation_of_dishonourable_men.md)
     - [`🪖_classification_suppression_misuse.md`](Polaris_Nest/Git_Intake_Drawer/🪖_classification_suppression_misuse.md)
     - [`🪖_how_politicians_legally_strangle_the_mod._in_real_lives_terms.md`](Polaris_Nest/Git_Intake_Drawer/🪖_how_politicians_legally_strangle_the_mod._in_real_lives_terms.md)
     - [`🪖_repairing_stolen_lives.md`](Polaris_Nest/Git_Intake_Drawer/🪖_repairing_stolen_lives.md)
