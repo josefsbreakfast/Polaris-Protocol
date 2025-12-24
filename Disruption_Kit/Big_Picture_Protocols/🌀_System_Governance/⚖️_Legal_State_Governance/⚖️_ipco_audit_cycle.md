@@ -215,7 +215,7 @@ It outlines the inspection and compliance processes that govern MI5, MI6, and GC
 > - [🧬 Data Anomalies: Twins & Zombies](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_anomalies_twins_zombies.md) - *How duplicate and obsolete records distort intelligence systems*  
 > - [🧬 Data Correction Notices](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_data_correction_notices.md) - *Internal mechanisms for correcting anomalies in intelligence systems*
 > - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md)  
-- [⚖️ Elite Impunity Is a National Security Risk](./⚖️_elite_impunity_is_a_national_security_risk.md)  
+> - [⚖️ Elite Impunity Is a National Security Risk](./⚖️_elite_impunity_is_a_national_security_risk.md)  
  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
