@@ -22,9 +22,7 @@ Polaris work frequently operates in the gap between the two. Survivors, journali
 
 ---
 
-## 🧿 Analysis / Content  
-
-### 🕵️ Cluedo Certainty  
+## 🧿 Cluedo Certainty  
 
 Cluedo certainty is the moment where the pattern locks in.
 
@@ -48,7 +46,7 @@ Institutions quietly rely on this form of reasoning all the time — in intellig
 
 ---
 
-### ⚖️ Court Certainty  
+## ⚖️ Court Certainty  
 
 Court certainty is not about truth.  
 It is about **survivability inside a hostile procedural environment**.
@@ -67,7 +65,7 @@ It is a **narrower**, more brittle one.
 
 ---
 
-### 🧠 Why the Gap Exists  
+## 🧠 Why the Gap Exists  
 
 The gap between Cluedo and court certainty is not accidental.
 
@@ -81,7 +79,7 @@ As a result, obvious truths are often treated as “unproven” indefinitely.
 
 ---
 
-### 🧾 What Evidence Adds (Even When You’re Already Sure)  
+## 🧾 What Evidence Adds (Even When You’re Already Sure)  
 
 Evidence does **not** exist to convince you.  
 It exists to **bind others**.
@@ -98,7 +96,7 @@ It is about **cost creation**.
 
 ---
 
-### 🧨 The Institutional Abuse of “Insufficient Evidence”  
+## 🧨 The Institutional Abuse of “Insufficient Evidence”  
 
 When institutions say:
 > “There is insufficient evidence”
@@ -114,7 +112,7 @@ Understanding this prevents self-gaslighting.
 
 ---
 
-### 🧩 Polaris Framing  
+## 🧩 Polaris Framing  
 
 In Polaris terms:
 - **Cluedo certainty** = diagnostic truth  
