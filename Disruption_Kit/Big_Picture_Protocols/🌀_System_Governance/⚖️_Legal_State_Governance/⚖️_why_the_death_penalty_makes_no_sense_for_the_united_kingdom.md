@@ -1,5 +1,5 @@
 # ⚖️ Why the Death Penalty Makes No Sense for the United Kingdom  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-17  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-23  
 *Evidence, ethics, and efficiency — the capital punishment trap.*  
 
 ---
@@ -104,10 +104,10 @@ It documents how capital punishment functions as moral theatre and activist cont
 
 > 📡 Cross‑references
 > 
-> – [⚖️ The History of Justice as Spectacle](../💫_Containment_Logic/⚖️_the_history_of_justice_as_spectacle.md) - *some days I am genuinely suprised that we are not yet extinct*  
-> – [🐍 Ouroborotic Violence](../../🐍_Ouroborotic_Violence/README.md) - *violence self-consumes unto its own destruction*  
-> – [🧠 Shame Economics — Why Visibility Breaks the Capture Loop](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_shame_economics.md) - *how to weaponise exposure of harms as a means of mooting calls for spectator violence*  
+> - [⚖️ The History of Justice as Spectacle](../💫_Containment_Logic/⚖️_the_history_of_justice_as_spectacle.md) - *how are we still here??*  
+> - [🌑 Residual Violence Risk via Inherited Offender Metadata](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌑_residual_violence_risk_via_inherited_offender_metadata.md) - *looking at potential data risks to family and to victims through R&D, regardless of jsutice outcome*  
+> - [🧠 Shame Economics](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_shame_economics.md) - *how to weaponise exposure of harms as a means of mooting calls for spectator violence*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2025-12-23_
