@@ -1,5 +1,5 @@
 # ⚖️ The Conduit and the Safeguard  
-**First created:** 2025-11-06 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-06 | **Last updated:** 2025-12-24  
 *Explaining to British compliance officers why cross‑jurisdictional data flows require explicit safeguards when Israeli law is in play.*  
 
 ---
@@ -116,7 +116,9 @@ uk data protection, israeli law, cross‑jurisdictional safeguards, gdpr complia
 > - [🌍 Israel–Five Eyes Structural Interdependency](../💫_Containment_Logic/🌍_israel_five_eyes_structural_interdependency.md) - *structural necessity of apartheid and interdependence of white supremacy (such supremacy requires this much bolstering to "exist natrually", apparently)*
 > - [🛰️ Microsoft Partial Cut — Israel Surveillance](../🛰️_Infrastructure_Procurement/🛰️_microsoft_partial_cut_israel_surveillance.md) - *even surveillance capitalists put safeguards in place, occasionally*
 > - [🛰️ OSINT Field Operations](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations) - *have fun using open-source information and ethical techniques to investigate this data transfer further, with any of: **🍉 Academic Liberty**, **🕊️ War Or Peace**, **💰 Underwriting the Occupation**, **💰 Budget Twinsies**, **🧪 Sciencing Apartheid***
+> - [🧠 Good Jew / Bad Jew State Template](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧠_good_jew_bad_jew_state_template.md) - *British and Jewish? Welcome to your only 2 legal options!*
+> - [🏛️ Welcome to Western Imperialism](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🏛️_welcome_to_western_imperialism.md) - *why we are only given these two options*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-17_
+_Last updated: 2025-12-24_
