@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-24 00:32:34 UTC_
+_Generated on 2025-12-24 00:33:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -310,6 +310,7 @@ _Generated on 2025-12-24 00:32:34 UTC_
         - [`💥_shock_freeze_stall.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💥_shock_freeze_stall.md)
         - [`💰_elite_authoritarianism_and_spvs.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💰_elite_authoritarianism_and_spvs.md)
         - [`💰_genocide_as_authoritarian_spv.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💰_genocide_as_authoritarian_spv.md)
+        - [`💰_migration_as_spv.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💰_migration_as_spv.md)
         - [`📈_polished_authoritarianism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📈_polished_authoritarianism.md)
         - [`📋_loop_tickbox_vs_cognitive_load.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_loop_tickbox_vs_cognitive_load.md)
         - [`📋_tick_box_compliance_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📋_tick_box_compliance_as_containment.md)
