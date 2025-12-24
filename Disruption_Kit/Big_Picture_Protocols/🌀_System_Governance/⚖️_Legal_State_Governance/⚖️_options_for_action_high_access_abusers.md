@@ -1,6 +1,6 @@
 # ⚖️ Options for Action — High-Access Abusers  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Escalation pathways when harassment or surveillance is commissioned via professionals or institutions.*
+**First created:** 2025-12-20 | **Last updated:** 2025-12-24  
+*Escalation pathways when harassment or surveillance is commissioned via professionals or institutions.*  
 
 ---
 
@@ -115,10 +115,13 @@ It functions as an escalation map for survivors facing commissioned harassment v
 
 > 📡 Cross-references:
 >
-> - [Survivor_Tools] — practical countermeasures  
-> - [Big_Picture_Protocols] — systemic analysis  
-> - [Containment_Scripts] — suppression modes & counter-nudges
+> - [🌾 Impunity as Fertile Ground](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌾_impunity_as_fertile_ground.md)  
+> - [⚖️ The Architecture of Complicity — When Justice Stops at the Dock](../👑_Ownership_Control/⚖️_architecture_of_complicity.md)  
+> - [✈️ Worker Positioning & Safety Culture](../👑_Ownership_Control/✈️_worker_positioning_and_safety_culture.md)
+> - [🫀 AI Black Box Inquests](../👑_Ownership_Control/🫀_ai_black_box_inquests.md)
+> - [⚖️ Narrative Control and Legal Responsibility](../📚_Narrative_Management/⚖️_narrative_control_and_legal_responsibility.md)
+> - [🦴 Reputational Management As Harm-Producing System](../📚_Narrative_Management/🦴_reputational_management_as_harm_producing_system.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-24_
