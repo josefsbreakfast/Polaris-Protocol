@@ -1,6 +1,6 @@
-# ⚖️ Defend Forward & Sovereign Cyber Response Ladder
-**First created:** 2025-10-13  |  **Last updated:** 2025-12-17  
-*An inherited escalation framework under strain in a weightless, reflexive digital world.*
+# ⚖️ Defend Forward & Sovereign Cyber Response Ladder  
+**First created:** 2025-10-13 | **Last updated:** 2025-12-24  
+*An inherited escalation framework under strain in a weightless, reflexive digital world.*  
 
 ---
 
@@ -204,4 +204,4 @@ It situates inherited cyber escalation frameworks within their historical contex
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2025-12-24_
