@@ -269,10 +269,10 @@ Where judicial deference prevents courts from interrogating this pattern, the sy
 > Somebody dies in police custody,
 > Soon there are questions from the family.
 > 
-> At first the situation makes the lawmen look so filthy,
+> At first the situation makes the lawmen look so filthy,  
 > But they investigate themselves and it turns out that they're not guilty."
 > 
-> - Geoff Berner. Daloy Polizei; *Victory Party* (2011).  
+> – Geoff Berner. Daloy Polizei; *Victory Party* (2011).  
 
 ---
 
