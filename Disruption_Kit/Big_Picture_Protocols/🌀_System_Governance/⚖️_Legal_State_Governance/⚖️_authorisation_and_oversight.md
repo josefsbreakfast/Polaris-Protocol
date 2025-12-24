@@ -1,6 +1,6 @@
 # ⚖️ Authorisation and Oversight  
-**First created:** 2025-09-26 | **Last updated:** 2025-12-17  
-*How intelligence powers are authorised — and how lawful systems drift away from consent.*
+**First created:** 2025-09-26 | **Last updated:** 2025-12-24  
+*How intelligence powers are authorised — and how lawful systems drift away from consent.*  
 
 ---
 
@@ -343,8 +343,11 @@ It explains how intelligence warrants are issued and checked in the UK — and h
 > 📡 Cross-references:
 > 
 > - [⚖️ Legal Frameworks and Remits](./⚖️_legal_frameworks_remits.md) — *where mandates expand or blur*  
-> - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md) — *oversight rhythms as ritual*  
+> - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md) — *oversight rhythms as ritual*
+> - [🧠 The Continuum of Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md) - *how the UK's PREVENT counterterrorism polcy machine has vibrated the Islands across the kitchen towards authoritarianism*  
+> - [👾 Intent-Free Authoritarian Drift](../💫_Containment_Logic/👾_intent_free_authoritarian_drift.md) - *how this can happen without any intent to do so at all (we can all accidentally nudge the machine off its plinth*  
+> - [👾 Why Policing and PREVENT Are Susceptible to Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_authoritarian_drift.md) - *how policing and PREVENT are, by nature, susceptible to this drift - again, without needing intent*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2025-12-24_
