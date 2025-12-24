@@ -1,6 +1,6 @@
 # ⚖️ Judicial Deference  
 **First created:** 2025-09-14 | **Last updated:** 2025-12-24  
-*When courts outsource responsibility back to the executive — and call it restraint.*
+*When courts outsource responsibility back to the executive — and call it restraint.*  
 
 ---
 
@@ -172,7 +172,107 @@ A judiciary capable of acting as a genuine safeguard would require:
 - **Willingness to accept institutional discomfort** in defence of rights  
 
 Judicial courage is not activism.  
-It is the refusal to outsource responsibility where harm is plausible.
+It is the refusal to outsource responsibility where harm is plausible.  
+
+---
+
+## ⚖️ Uneven Accountability and the Visibility Problem
+
+Public trust in oversight is not shaped only by abstract procedure.
+It is shaped by **pattern recognition**.
+
+Where deaths occur following police action or during custody, the public repeatedly observes:
+- uneven investigation thresholds,
+- inconsistent charging decisions,
+- variable disclosure practices,
+- and radically different outcomes for superficially similar cases.
+
+Even when each decision is individually justified, the aggregate effect is corrosive:
+> accountability appears contingent, not principled.
+
+This matters for surveillance and national security oversight because these systems operate **almost entirely outside public view**.
+
+If accountability appears uneven in cases that are:
+- visible,
+- documented,
+- and often subject to media scrutiny,
+
+it is reasonable to infer that **unevenness may be greater where evidence is classified, complainants lack standing, and proceedings are opaque**.
+
+This is not an allegation of bad faith.
+It is a structural inference.
+
+Oversight regimes that rely on secrecy and internal review cannot rely on trust alone when comparable open systems already demonstrate asymmetrical application of accountability.
+In such conditions, reassurance statements (“no wrongdoing found”) function less as comfort and more as provocation.
+
+The result is a public perception gap:
+- not because people are irrational,
+- but because they are extrapolating from observed patterns.
+
+Where accountability is experienced as selective in the open, its invisibility elsewhere does not reassure — it alarms.  
+
+---
+
+## 🧬 Corruption-Compatible Design and the Scapegoat Risk
+
+A critical risk in opaque accountability systems is not that corruption is proven — but that it is **structurally survivable**.
+
+Where oversight operates through:
+- selective investigation,
+- discretionary escalation,
+- and non-transparent decision-making,
+
+it becomes impossible for external observers to distinguish between:
+- random unevenness, and
+- deliberate protection of power.
+
+This ambiguity is itself a governance risk.
+
+Incentive analysis matters here.
+
+In any hierarchical organisation, a manager or senior officer acting in bad faith would be rationally motivated to:
+- demonstrate visible accountability through sacrificial cases,
+- concentrate scrutiny on individuals with less institutional protection,
+- and quietly shield those whose exposure would threaten leadership, networks, or reputations.
+
+This produces a familiar pattern:
+> harsh treatment of politically "expendable" actors,  
+> leniency or invisibility for strategically "valuable" ones.
+
+This becomes a point not of justice, but who senior management will protect; by definition, this is unlikely to be actors who engage with community in good faith, actors who do not routinely escalate when confronted, or actors who are unlikely to bend rules for politics or colleagues.  
+
+The "best" officers in the eyes of the public are nost at risk of scapegoating within this logic, with the "worst" being the most protected from consequence or exposure.  
+
+Crucially, this pattern does not require coordination or conspiracy.  
+
+It emerges naturally in systems where:
+- oversight is internal,  
+- outcomes are discretionary,  
+- and external verification is impossible.  
+
+The presence of sincere investigators or ethical actors does not eliminate this risk.  
+
+It merely coexists with it.
+
+From a public trust perspective, the effect is the same:  
+- accountability appears selective,
+- punishment appears performative,
+- and integrity appears contingent.
+
+Where judicial deference prevents courts from interrogating this pattern, the system becomes **corruption-compatible by design** — even if corruption cannot be demonstrated in any individual case.  
+
+---
+
+> "I've played a lot of places, and I'll play them all again,  
+> And everywhere I go I hear the same old thing again.  
+> 
+> Somebody dies in police custody,
+> Soon there are questions from the family.
+> 
+> At first the situation makes the lawmen look so filthy,
+> But they investigate themselves and it turns out that they're not guilty."
+> 
+> - Geoff Berner. Daloy Polizei; *Victory Party* (2011).  
 
 ---
 
