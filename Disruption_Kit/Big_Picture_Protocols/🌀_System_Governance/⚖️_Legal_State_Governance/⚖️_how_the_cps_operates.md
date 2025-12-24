@@ -1,12 +1,12 @@
-# ⚖️ How the CPS Operates
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*What prosecutorial independence really means, where discretion lives, and how decisions are quietly shaped*
+# ⚖️ How the CPS Operates  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*What prosecutorial independence really means, where discretion lives, and how decisions are quietly shaped,*  
 
 ---
 
 ## 🛰️ Orientation
 
-This node explains how the **[Crown Prosecution Service](chatgpt://generic-entity?number=0)** (CPS) actually functions in England and Wales — not in theory, but in practice.
+This node explains how the **Crown Prosecution Service** (CPS) actually functions in England and Wales — not in theory, but in practice.
 
 It exists to clarify:
 - what the CPS can and cannot do
@@ -193,14 +193,17 @@ crown prosecution service, public interest test, prosecutorial discretion, elite
 
 ## 🏮 Footer
 
-*How the CPS Operates* is a living node of the **Polaris Protocol**.  
+*⚖️ How the CPS Operates* is a living node of the **Polaris Protocol**.  
 It documents the internal logic by which lawful prosecutorial discretion can produce systemic accountability failure.
 
-> 📡 Cross-references:
-> - **⚖️ We Do Have to Prosecute the Elite, Actually** — why discretion breaks at scale  
-> - **🏯 Governance_And_Containment** — institutional self-protection dynamics  
-> - **🍄 Suppression_Layers** — downstream effects of non-action  
+> 📡 Cross-references:  
+> 
+> - [⚖️ We Do Have to Prosecute the Elite, Actually](./⚖️_we_do_have_to_prosecute_the_elite_actually.md) — *accountability as public good*  
+> - [🌾 Impunity as Fertile Ground](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌾_impunity_as_fertile_ground.md) - *why rape prevention cannot exist without dismantling permission structures*  
+> - [💸 The Cost of a Closed Mouth](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/💸_the_cost_of_a_closed_mouth.md) — *truth as a commodity*  
+> - [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) - *what functional elite accountability could look like*  
+> - [⚖️ Elite Impunity Is a National Security Risk](./⚖️_elite_impunity_is_a_national_security_risk.md) — *downstream consequences*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-23_
