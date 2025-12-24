@@ -1,5 +1,5 @@
 # 🇷🇺 Russia Is a Threat… When Process Is Weak  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-24  
 *Why procedural fragility, not external hostility alone, defines contemporary security risk.*  
 
 ---
@@ -217,7 +217,7 @@ russia threat assessment, procedural weakness, international law credibility, se
 
 ## 🏮 Footer
 
-*🇷🇺 Russia is a threat when process is weak* is a contextual security node in the **Polaris Protocol**.
+*🇷🇺 Russia Is a Threat… When Process Is Weak* is a contextual security node in the **Polaris Protocol**.
 
 It exists to counter narratives that treat external actors as the primary danger while ignoring how **internal procedural collapse creates strategic vulnerability**.  
 
@@ -231,4 +231,4 @@ It also answers the age-old question: [🌌 Ам я всё ещё слишком
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2025-12-24_
