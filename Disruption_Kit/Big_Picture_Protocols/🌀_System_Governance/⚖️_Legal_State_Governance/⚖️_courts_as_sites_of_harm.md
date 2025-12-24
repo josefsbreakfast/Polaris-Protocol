@@ -1,6 +1,6 @@
 # ⚖️ Courts as Sites of Harm — When Justice Architecture Becomes Trauma Architecture  
-**First created:** 2025-12-10 | **Last updated:** 2025-12-19  
-*Why legal venues designed for justice routinely inflict secondary harm — especially on survivors, disabled claimants, and people targeted by false or malicious reporting.*
+**First created:** 2025-12-10 | **Last updated:** 2025-12-24  
+*Why legal venues designed for justice routinely inflict secondary harm — especially on survivors, disabled claimants, and people targeted by false or malicious reporting.*  
 
 ---
 
@@ -159,13 +159,15 @@ court trauma, institutional harm, re-experiencing, disability tribunals, credibi
 
 ## 🏮 Footer  
 
-*⚖️ Courts as Sites of Harm — When Justice Architecture Becomes Trauma Architecture* documents how legal spaces reproduce trauma for survivors and vulnerable people. It situates courts not only as forums of justice but as repeated environments of embodied harm.
+*⚖️ Courts as Sites of Harm — When Justice Architecture Becomes Trauma Architecture* documents how legal spaces reproduce trauma for survivors and vulnerable people.  
+It situates courts not only as forums of justice but as repeated environments of embodied harm.  
 
 > 📡 Cross-references:
 > 
-> - [🧠 Big_Picture_Protocols] — structural analysis of institutional violence  
-> - [🧬 Survivor_Tools] — grounding and procedural supports
+> - [⚖️ How the CPS Operates](./⚖️_how_the_cps_operates.md) - *how "independence of procedure" works in the UK*  
+> - [⚖️ Heavy Bundles: CPS, VPS, Centralisation, and High-Control Analysis](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/⚖️_heavy_bundle_cps_vps_centralisation.md) - *existant digital harms in the UK justice system, begging for corrective action*  
+> - [*Pending:* 🧱 Hostile Architecture vs Universal Design] - *further benefits and harms of actual structure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-19_
+_Last updated: 2025-12-24_
