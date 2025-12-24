@@ -1,11 +1,10 @@
-# 🇷🇺 Russia Is a Threat… When Process Is Weak
-
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23
-*Why procedural fragility, not external hostility alone, defines contemporary security risk.*
+# 🇷🇺 Russia Is a Threat… When Process Is Weak  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*Why procedural fragility, not external hostility alone, defines contemporary security risk.*  
 
 ---
 
-## ✨ What This Node Is
+## ✨ What This Node Is  
 
 This node reframes “Russia as a threat” away from caricatured aggression narratives and toward a **process-centred security analysis**.
 
@@ -19,7 +18,7 @@ It is an analysis of **vulnerability vectors**.
 
 ---
 
-## 🧱 Threat Is Relational, Not Absolute
+## 🪆 Threat Is Relational, Not Absolute  
 
 Russia is not uniquely effective because of:
 
@@ -38,7 +37,7 @@ Russia is effective when:
 
 ---
 
-## ⚖️ Process Weakness as a Security Multiplier
+## ⚖️ Process Weakness as a Security Multiplier  
 
 Process weakness includes:
 
@@ -60,7 +59,7 @@ It needs only to **point**.
 
 ---
 
-## 🧩 Gaza as a Process Stress-Test
+## 🫒 Gaza as a Process Stress-Test
 
 The Gaza period exposed how:
 
