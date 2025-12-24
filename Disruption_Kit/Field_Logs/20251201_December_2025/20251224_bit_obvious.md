@@ -1,3 +1,6 @@
+<details>
+  <summary>Previous entry</summary>
+
 See attached three new screenshots.  
 
 I was sort of hoping that it was all about how great I was, and not a man, but no. 🙄  
@@ -30,3 +33,17 @@ Pick one.
 that induce avoidance, that characteristic turning away from a difficult and principled position,
 which you know to be the right one, but which you decide not to take."](../../Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
 — Edward Said, on the suppression of Palestinian truth
+
+---
+
+</details>
+
+It's clicked.  
+
+It's clicked where I haven't counted a request refusal and who that's by and what it means.  
+
+The bear needs to hibernate for a bit; pretty grim.  
+
+At least I got a truth for Christmas? Yik.  
+
+---
