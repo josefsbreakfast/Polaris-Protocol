@@ -84,9 +84,10 @@ You only need enough forms.
 
 ---
 
-> "My makeup is dry and it cracks round my chin,
+> "My makeup is dry and it cracks round my chin,  
 > I'm drowning my sorrows in whiskey and gin.
-> The lion-tamer's whip doesn't crack anymore –
+> 
+> The lion-tamer's whip doesn't crack anymore –  
 > The lions they won't fight and the tigers won't roar."
 >
 > – David Davies (solo release), with The Kinks. Death Of A Clown (1967).  
