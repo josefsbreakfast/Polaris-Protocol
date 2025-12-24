@@ -1,6 +1,6 @@
 # ⚖️ Cluedo Certainty vs Court Certainty  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Why being sure is not the same as proving — and why evidence still matters even when the answer is obvious.*
+**First created:** 2025-12-20 | **Last updated:** 2025-12-24  
+*Why being sure is not the same as proving — and why evidence still matters even when the answer is obvious.*  
 
 ---
 
@@ -144,10 +144,10 @@ It clarifies the epistemic gap exploited by institutions and reframes evidence a
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Visibility Is Enforcement](../Disruption_Kit/Big_Picture_Protocols/⚖️_visibility_is_enforcement.md) — why being seen changes outcomes  
-> - [🏛️ Precedent Is Policy](../Disruption_Kit/Big_Picture_Protocols/🏛️_precedent_is_policy.md) — why institutions fear proof  
-> - [⚖️ Non-Prosecution Teaches Impunity](../Disruption_Kit/Big_Picture_Protocols/⚖️_non_prosecution_teaches_impunity.md) — consequences of refusal  
+> - [⚖️ Visibility Is Enforcement](./⚖️_visibility_is_enforcement.md) — *why being seen changes outcomes*  
+> - [🏛️ Precedent Is Policy](./🏛️_precedent_is_policy.md) — *why institutions fear proof*  
+> - [⚖️ Non-Prosecution Teaches Impunity](./⚖️_non_prosecution_teaches_impunity.md) — *consequences of refusal*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-24_
