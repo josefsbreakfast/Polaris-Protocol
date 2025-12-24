@@ -1,6 +1,6 @@
 # ⚖️ Institutional Realisation to Remediation  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-23  
-*How institutions move from recognising failure to managing, limiting, or repairing harm.*
+**First created:** 2025-12-14 | **Last updated:** 2025-12-24  
+*How institutions move from recognising failure to managing, limiting, or repairing harm.*  
 
 ---
 
@@ -135,4 +135,4 @@ It documents how institutions move from recognising harm to selecting remediatio
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2025-12-24_
