@@ -185,7 +185,28 @@ Add explicit harm-oriented audit tests:
 
 ### 5) External Constraint and Cross-Border Recourse
 A safe oversight ecosystem includes credible routes outside the state when the state is conflicted.
-This is part of why external rights architectures matter in practice, not just in theory.
+This is part of why external rights architectures matter in practice, not just in theory.  
+
+---
+
+## 🕳️ The Complainant Risk Paradox
+
+Finally, it must be acknowledged that approaching IPCO is itself a **risk event** for the individual.
+
+By the time a person considers raising concerns about surveillance, they are already in an asymmetrical position:
+- they suspect state error,
+- they lack access to evidence,
+- and they are engaging the same institutional ecosystem that may have caused the harm.
+
+This creates a deterrent loop.
+
+First, there is a credible fear that concern itself may be reframed — explicitly or implicitly — as a *safeguarding*, *instability*, or *mental health* issue rather than a governance question.  
+Second, the request being made is structurally paradoxical: the citizen is asked to trust an opaque surveillance apparatus to investigate its own potential failure, without reciprocal transparency, without notification guarantees, and without meaningful democratic visibility.
+
+In effect, the burden of confidence is placed entirely on the person least equipped to carry it.
+
+Where oversight requires individuals to expose themselves to additional risk simply to ask whether a mistake occurred, trust is not merely eroded — it is structurally discouraged.  
+A system that is safe in theory but unsafe to approach in practice cannot function as a genuine safeguard.  
 
 ---
 
