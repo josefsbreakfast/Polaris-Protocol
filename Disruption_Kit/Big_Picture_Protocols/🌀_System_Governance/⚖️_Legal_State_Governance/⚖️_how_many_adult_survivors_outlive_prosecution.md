@@ -415,7 +415,7 @@ It contributes to the archive by converting an emotionally “invisible” survi
 
 > 📡 Cross-references:
 > 
-> - [🧠 Value of the Outlier](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_value_of_the_outlier.md) - *how to alchemise predation into gold*  
+> - [🧠 Value of the Outlier](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_value_of_the_outlier.md) - *how to alchemise predation into gold for the soul*  
 > - [🧪 Adversary Playbook: Twinning Outliers](../../../../👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🧪_adversary_playbook_twinning_outliers.md) - *how survivor testimony can be silenced by threat actors*  
 > - [📚 Over Recognition](../📚_Narrative_Management/📚_over_recognition.md) - *when institutions "listen"*  
 > - [🎥 Anomaly Incentives in Surveillance](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎥_anomaly_incentives_in_surveillance.md) - *Why surveillance architectures create incentives to keep outliers under permanent scrutiny*  
