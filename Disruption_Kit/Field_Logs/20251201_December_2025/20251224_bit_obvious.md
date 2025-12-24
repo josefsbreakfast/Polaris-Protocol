@@ -13,3 +13,11 @@ Something I will say, though is that whoever came up with the idea to use a week
 The NHS pays out the nose to make sure that can never happen; complete ballache.  
 
 ---
+
+(There's been continuous attempts to access anything with cloud permissions in my name, and there's ongoing disturbance, but I just can't be bothered to record it right now. It's been jittery since Friday. My recommendation is to never apply for the military boarding school that no longer exists in the UK, and never trust a cabinet that won't do anything about the data breach after a laptop goes missing. Seeing Tony Blair trying to make fascist fetch happen, with this claim of over-diagnosis? It's the closest thing I've had to an emotion in months.)  
+
+Unrelated note: who is presiding when the deceased was making all of those comments about managing reputations? I hope we didn't sign over any state owned data for that.  
+
+Again: men should be on conditional release, as a general rule. 🙄  
+
+---
