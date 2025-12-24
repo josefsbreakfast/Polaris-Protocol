@@ -1,7 +1,6 @@
-# ⚖️ Elite Impunity Is a National Security Risk
-
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23
-*How tolerated elite wrongdoing creates blackmail exposure, coercion vectors, and democratic fragility.*
+# ⚖️ Elite Impunity Is a National Security Risk  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*How tolerated elite wrongdoing creates blackmail exposure, coercion vectors, and democratic fragility.*  
 
 ---
 
@@ -142,10 +141,10 @@ No state can credibly promote a “rules-based order” while shielding powerful
 
 Inquiries:
 
-* acknowledge harm
-* manage reputational fallout
-* spread responsibility
-* avoid adversarial testing
+- acknowledge harm
+- manage reputational fallout
+- spread responsibility
+- avoid adversarial testing
 
 They do **not** eliminate blackmail material.
 They do **not** neutralise coercive leverage.
@@ -159,11 +158,11 @@ From a security standpoint, they are **damage control**, not risk elimination.
 
 Credible prosecution does something silence never can:
 
-* collapses leverage value
-* replaces secrets with records
-* removes ambiguity
-* equalises exposure
-* restores deterrence
+- collapses leverage value
+- replaces secrets with records
+- removes ambiguity
+- equalises exposure
+- restores deterrence
 
 Once facts are judicially tested, the blackmail premium drops to zero.
 
@@ -176,17 +175,17 @@ Secrecy is not.
 
 Elite non-prosecution is often justified as:
 
-* cheaper
-* quieter
-* less destabilising
+- cheaper
+- quieter
+- less destabilising
 
 This ignores downstream costs:
 
-* intelligence exposure
-* foreign coercion
-* institutional capture
-* democratic erosion
-* long-term economic damage
+- intelligence exposure
+- foreign coercion
+- institutional capture
+- democratic erosion
+- long-term economic damage
 
 Security failures are rarely loud at first.
 They compound quietly — until they don’t.
