@@ -1,5 +1,5 @@
 # ⚖️ Public Inquiry Business Case  
-**First created:** 2025-09-26 | **Last updated:** 2025-12-15  
+**First created:** 2025-09-26 | **Last updated:** 2025-12-24  
 *Evidential integrity and data-twin exploitation, requiring formal inquiry.*  
 
 ---
@@ -67,8 +67,11 @@ It frames the rationale, scope, and model for a formal inquiry into evidential w
 > 
 > - [⚖️ Registered Professions Impact](./⚖️_registered_professions_impact.md) - *how this impacts workers with professional registration*   
 > - [⚖️ Redress Models and Limits](./⚖️_redress_models_and_limits.md) - *differing models of "making safe and making good" following hamrs*  
-> - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) - *deeper dives into data structure*  
+> - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) - *deeper dives into data structure*
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)
+> - [🗝 Who Holds the Tape](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝_who_holds_the_tape.md)
+> - [⚖️ Legal Hooks for Muted Books](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-24_
