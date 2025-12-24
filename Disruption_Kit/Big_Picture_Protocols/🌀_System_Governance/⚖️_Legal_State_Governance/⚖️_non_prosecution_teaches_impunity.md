@@ -1,5 +1,5 @@
 # ⚖️ Non-Prosecution Teaches Impunity  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-24  
 *How repeated non-action reshapes behaviour, incentives, and the moral economy of the law.*  
 
 ---
@@ -187,4 +187,4 @@ It documents how repeated non-action reshapes incentives and undermines deterren
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2025-12-24_
