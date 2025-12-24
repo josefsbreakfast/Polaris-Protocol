@@ -1,5 +1,5 @@
 # ⚖️ Elite Impunity Is a National Security Risk  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-24  
 *How tolerated elite wrongdoing creates blackmail exposure, coercion vectors, and democratic fragility.*  
 
 ---
@@ -334,4 +334,4 @@ It documents how tolerated elite wrongdoing converts private misconduct into str
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2025-12-24_
