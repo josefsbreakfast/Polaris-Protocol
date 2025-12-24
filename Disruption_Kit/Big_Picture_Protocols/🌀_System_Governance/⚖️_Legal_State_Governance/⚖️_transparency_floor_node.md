@@ -1,5 +1,5 @@
 # ⚖️ Transparency Floor Node — Litmus Test Class & FOIA Disempowerment  
-**First created:** 2025-09-20 | **Last updated:** 2025-12-15  
+**First created:** 2025-09-20 | **Last updated:** 2025-12-24  
 *Explains how the least empowered citizens often detect systemic anomalies through FOIA/SAR use, yet lack the capacity to enforce rights, creating a structural blind spot in transparency law.*  
 
 ---
@@ -82,8 +82,9 @@ It documents how FOIA/SAR frameworks structurally disempower those most likely t
 > 
 > - [📓 Paper Diary Sovereignty](../../../Survivor_Tools/📓_paper_diary_sovereignty.md) - *why and how paper diarists can bring receipts for the last five years of their lives if you try to lie to them (elite class nerdery)*
 > - [⚖️ Registered Professions Impact](./⚖️_registered_professions_impact.md) - *the impact of process milling on the workers who hold professional registration (doctors, nurses, lawyers)*  
-> - [🪄 Influencer Resilience](../../../Survivor_Tools/🪄_influencer_resilience.md) - *how social media influencers are strangely safeguarded by media design, whilst being inherently exposed*  
+> - [🪄 Influencer Resilience](../../../Survivor_Tools/🪄_influencer_resilience.md) - *how social media influencers are strangely safeguarded by media design, whilst being inherently exposed*
+> - [🪢 Re-Embodied Dialogue & Civic Presence](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/🪢_re_embodied_dialogue_and_civic_presence.md) - *engaging the body is useful in other ways, too*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-24_
