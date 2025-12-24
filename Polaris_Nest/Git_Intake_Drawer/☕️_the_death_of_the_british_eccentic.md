@@ -90,7 +90,7 @@ You only need enough forms.
 > The lion-tamer's whip doesn't crack anymore –  
 > The lions they won't fight and the tigers won't roar."
 >
-> – David Davies (solo release), with The Kinks. Death Of A Clown (1967).  
+> – David Davies (solo release), with The Kinks. [Death Of A Clown](https://vm.tiktok.com/ZNRj8Vouf/), (1967).  
 
 ---
 
