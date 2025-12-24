@@ -1,10 +1,10 @@
-# 🇷🇺 Russia is a threat when process is weak
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Why procedural fragility, not external hostility alone, defines contemporary security risk.*
+# 🇷🇺 Russia Is A Threat... When Process Is Weak  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+*Why procedural fragility, not external hostility alone, defines contemporary security risk.*  
 
 ---
 
-## 🧭 What this node is
+## ✨ What This Node Is  
 This node reframes “Russia as a threat” away from caricatured aggression narratives and toward a **process-centred security analysis**.
 
 It argues that:
@@ -16,7 +16,7 @@ It is an analysis of **vulnerability vectors**.
 
 ---
 
-## 🧱 Threat is relational, not absolute
+## 🧱 Threat Is Relational, Not Absolute  
 Russia is not uniquely powerful because of:
 - moral superiority,
 - ideological coherence,
@@ -52,7 +52,7 @@ It needs only to **point**.
 
 ---
 
-## 🧩 Gaza as a process stress-test
+## 🧩 Gaza As A Process Stress-Test  
 The Gaza period exposed how:
 
 - genocide prevention duties can be procedurally diluted,
@@ -67,7 +67,7 @@ This matters for Russia because:
 
 ---
 
-## 🛰️ Information warfare feeds on inconsistency
+## 🛰️ Information Warfare Feeds On Inconsistency  
 Russia’s information strategy relies on:
 - highlighting Western double standards,
 - amplifying legal incoherence,
@@ -84,7 +84,7 @@ It is **process failure**.
 
 ---
 
-## 🧠 Security realism (non-cynical)
+## 🧠 Security Realism (Not Completely Cynical)  
 A process-strong state:
 - enforces rules consistently,
 - interrupts harm early,
@@ -100,7 +100,7 @@ Only the latter is strategically fragile.
 
 ---
 
-## 🧷 Working claim
+## 🦅 Working Claim  
 Russia is most dangerous **not when it is strong**, but when others are procedurally incoherent.
 
 The UK’s difficulty in operationalising prevention, refusal, and accountability does more to weaken security than any external adversary.
@@ -111,7 +111,7 @@ It is enforced by **process integrity**.
 ---
 
 ## 🌌 Constellations
-🇷🇺 ⚖️ 🧱 🧠 — adversarial exploitation; legal consistency; institutional resilience; process-based security.
+🇷🇺 ⚖️ 🦅 🧱 🧠 — adversarial exploitation; legal consistency; institutional resilience; process-based security.
 
 ---
 
@@ -128,10 +128,10 @@ It exists to counter narratives that treat external actors as the primary danger
 
 > 📡 Cross-references:
 >
-> - [*Pending:* ⚖️ Judicial reviews, parliamentary committees, and procedural delay](./⚖️_judicial_reviews_parliamentary_committees_and_procedural_delay.md) — *how process absorbs risk*
-> - [*Pending:* 🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *where norm credibility fractures*
-> - [*Pending:* 🏛️ Ministerial authority and collapse of lawful refusal](./🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *authority without friction*
+> - [⚖️ Judicial Reviews, Parliamentary Committees, And Procedural Delay](./⚖️_judicial_reviews_parliamentary_committees_and_procedural_delay.md) — *how process absorbs risk*
+> - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *where norm credibility fractures*
+> - [🏛️ Ministerial Authority And Collapse Of Lawful Refusal](./🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *authority without friction*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-23_
