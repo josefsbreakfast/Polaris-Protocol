@@ -26,4 +26,7 @@ I know the screenshot because "...the complexity of your request and the volume 
 
 Pick one.  
 
----
+["Nothing in my view is more reprehensible than those habits of mind in the intellectual
+that induce avoidance, that characteristic turning away from a difficult and principled position,
+which you know to be the right one, but which you decide not to take."](../Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
+— Edward Said, on the suppression of Palestinian truth
