@@ -1,6 +1,6 @@
-# ⚖️ Rights on Paper, Punishment in Practice
-**First created:** 2025-12-16 | **Last updated:** 2025-12-17  
-*How formal disability rights coexist with material coercion — and why diagnosis becomes a shield rather than a choice.*
+# ⚖️ Rights on Paper, Punishment in Practice  
+**First created:** 2025-12-16 | **Last updated:** 2025-12-24  
+*How formal disability rights coexist with material coercion — and why diagnosis becomes a shield rather than a choice.*  
 
 ---
 
@@ -179,8 +179,11 @@ It documents how formal rights coexist with coercive systems, and why diagnosis 
 > 
 > - [🤖 Classification Machines](../../🦕_Elder_Influencers/🕊️_Just_Boxes/🤖_classification_machines_ai_diagnostic_pressure.md) — *system pressure*  
 > - [💰 Capital First](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💰_capital_first_choice_under_extraction.md) — *political economy*  
-> - [🧠 Where Is This “Over-Diagnosis”?](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧠_where_is_this_overdiagnosis.md) — *rhetorical frame*  
+> - [🧠 Where Is This “Over-Diagnosis”?](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧠_where_is_this_overdiagnosis.md) — *rhetorical frame*
+> - [♿ Have You Asked Disabled People, Though?](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/♿_have_you_asked_disabled_people_though.md)  
+> - [🛠️ Disabled Design Benefits You, Too](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🛠️_disabled_design_benefits_you_too.md)  
+> - [🧠 Where Is This “Over-Diagnosis”?](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧠_where_is_this_overdiagnosis.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-17_
+_Last updated: 2025-12-24_
