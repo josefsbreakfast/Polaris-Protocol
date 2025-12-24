@@ -256,8 +256,12 @@ It documents how contemporary suppression operates through silence, risk logic, 
 
 > 📡 Cross-references:
 > 
-> - [📚 Forensic Silence](../../🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md) — *absence as evidence*  
-> - [🪞 Cascade of Chilling](./🪞_cascade_of_chilling.md) — *how suppression propagates across systems*  
+> - [📚 Forensic Silence](../../🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md) — *absence as evidence*
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
+> - [📚 Muted Book Investigation](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📚_muted_book_investigation.md)
+> - [📚 Banned Books and the Timing of Truth](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📚_banned_books_and_the_timing_of_truth.md)
+> - [🔥 Suppression and Quasi-Suppression](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🔥_suppression_and_quasi_suppression.md)
+> - [💌 Letter by Letter: Erasure Protocol](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/💌_letter_by_letter_erasure_protocol.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
