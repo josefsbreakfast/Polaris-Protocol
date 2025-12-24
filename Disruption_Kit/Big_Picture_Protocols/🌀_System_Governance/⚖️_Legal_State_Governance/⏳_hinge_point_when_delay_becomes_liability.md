@@ -1,5 +1,5 @@
 # ⏳ Hinge Point: When Delay Becomes Liability  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-15  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-24  
 *The moment institutional avoidance flips into procedural exposure.*  
 
 ---
@@ -109,8 +109,9 @@ It documents the predictable moment where postponement ceases to protect institu
 > 📡 Cross-references:
 > 
 > - [⚖️ Judicial Scrutiny of Delay Over Substance](./⚖️_judicial_scrutiny_of_delay_over_substance.md) - *how shows of delay tend to fair with judges (tldr not very well)*  
-> - [🛰️ Regulatory Adjacency Effects on Decision Timelines](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🛰️_regulatory_adjacency_effects_on_delay_dynamics.md) - *how institutions behave when people near them are under regulatory scrutiny*  
+> - [🛰️ Regulatory Adjacency Effects on Decision Timelines](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🛰️_regulatory_adjacency_effects_on_delay_dynamics.md) - *how institutions behave when people near them are under regulatory scrutiny*
+> - [*Pending:* 🧰 Governance Risk Behaviour Index](🧰_governance_risk_behaviour_index.md) - *observing public bodies changing risk status*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-24_
