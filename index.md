@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-24 21:53:28 UTC_
+_Generated on 2025-12-24 21:56:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4082,6 +4082,7 @@ _Generated on 2025-12-24 21:53:28 UTC_
     - [`🪐_prosociality_as_nudge_surface.md`](Polaris_Nest/Git_Intake_Drawer/🪐_prosociality_as_nudge_surface.md)
     - [`🪔_survivor_poetics_hebrew_register.md`](Polaris_Nest/Git_Intake_Drawer/🪔_survivor_poetics_hebrew_register.md)
     - [`🪖_classification_suppression_misuse.md`](Polaris_Nest/Git_Intake_Drawer/🪖_classification_suppression_misuse.md)
+    - [`🪖_respectfully_asking_the_mod_to_declassify_and_how_defensive_cabinet_fails_defence.md`](Polaris_Nest/Git_Intake_Drawer/🪖_respectfully_asking_the_mod_to_declassify_and_how_defensive_cabinet_fails_defence.md)
     - [`🪖_why_intelligence_agencies_dont_understand_joy.md`](Polaris_Nest/Git_Intake_Drawer/🪖_why_intelligence_agencies_dont_understand_joy.md)
     - [`🪝_if_you_do_not_have_a_hook_they_create_one.md`](Polaris_Nest/Git_Intake_Drawer/🪝_if_you_do_not_have_a_hook_they_create_one.md)
     - [`🪞_coercive_control_in_surveillance_systems.md`](Polaris_Nest/Git_Intake_Drawer/🪞_coercive_control_in_surveillance_systems.md)
