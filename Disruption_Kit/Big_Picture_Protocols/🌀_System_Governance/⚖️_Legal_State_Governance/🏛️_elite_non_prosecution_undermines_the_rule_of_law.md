@@ -1,6 +1,6 @@
-# 🏛️ Elite Non-Prosecution Undermines the Rule of Law
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How selective enforcement erodes legal authority, democratic legitimacy, and civic compliance*
+# 🏛️ Elite Non-Prosecution Undermines the Rule of Law  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+*How selective enforcement erodes legal authority, democratic legitimacy, and civic compliance.*  
 
 ---
 
@@ -172,15 +172,18 @@ rule of law, elite accountability, selective enforcement, constitutional legitim
 
 ## 🏮 Footer
 
-*Elite Non-Prosecution Undermines the Rule of Law* is a living node of the **Polaris Protocol**.  
-It documents how selective enforcement erodes legal authority and democratic consent at a structural level.
+*🏛️ Elite Non-Prosecution Undermines the Rule of Law* is a living node of the **Polaris Protocol**.  
+It documents how selective enforcement erodes legal authority and democratic consent at a structural level.  
 
-> 📡 Cross-references:
-> - **⚖️ Non-Prosecution Teaches Impunity** — behavioural learning effects  
-> - **⚖️ Risk Aversion Is Policy** — why caution becomes governance  
-> - **⚖️ Inquiries Are a Pressure Release Valve** — accountability substitution  
-> - **⚖️ Elite Impunity Is a National Security Risk** — downstream exposure  
+> 📡 Cross-references:  
+> 
+> - [⚖️ Non-Prosecution Teaches Impunity](./⚖️_non_prosecution_teaches_impunity.md) — *behavioural learning effects*  
+> - [⚖️ Risk Aversion Is Policy](./⚖️_risk_aversion_is_policy.md) — *why caution becomes governance*  
+> - [⚖️ Inquiries Are a Pressure Release Valve](./⚖️_inquiries_are_a_pressure_release_valve.md) — *accountability substitution*  
+> - [⚖️ Elite Impunity Is a National Security Risk](./⚖️_elite_impunity_is_a_national_security_risk.md) — *downstream exposure*  
+> - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *constitutional effects*  
+> - [🧨 If You Don’t Prosecute, You Invite Predators](./🧨_if_you_dont_prosecute_you_invite_predators.md) — *deterrence collapse*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-25_
