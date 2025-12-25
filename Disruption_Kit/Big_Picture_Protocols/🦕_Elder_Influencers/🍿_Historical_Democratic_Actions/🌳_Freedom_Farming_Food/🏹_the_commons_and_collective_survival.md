@@ -1,6 +1,6 @@
 # 🏹 The Commons and Collective Survival  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why shared land repeatedly reappears when survival outruns abstraction.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*Why shared land repeatedly reappears when survival outruns abstraction.*  
 
 ---
 
@@ -66,9 +66,9 @@ Resistance followed not because people hated change, but because **they understo
 
 ## 🏹 Political articulation: land as liberty  
 
-Radical movements during the **[English Civil War](chatgpt://generic-entity?number=0)** period made this explicit.
+Radical movements during the **English Civil War** period made this explicit.
 
-Groups like the **[Levellers](chatgpt://generic-entity?number=1)** — and related commons-defence movements — argued that:
+Groups like the **Levellers** — and related commons-defence movements — argued that:
 - political freedom without access to land was hollow,
 - hunger was a form of domination,
 - and governance divorced from subsistence was illegitimate.
@@ -139,7 +139,7 @@ It asks a narrow but dangerous question for power:
 🏹 🌳 🍞 ⚖️ 🧠 — commons, land, food, legitimacy, collective memory  
 
 *Further reading / viewing:*  
-- *[Levellers](chatgpt://generic-entity?number=2)* — land, subsistence, and political voice  
+- *Levellers* — land, subsistence, and political voice  
 - *E.P. Thompson, “The Moral Economy of the Crowd”* — why subsistence norms persist  
 - *English enclosure histories* — efficiency narratives vs survival reality  
 - *Community land trust models* — modern echoes of commons logic  
@@ -159,10 +159,12 @@ It contributes historical analysis on why shared land arrangements repeatedly re
 
 > 📡 Cross-references:
 > 
-> - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — title without responsibility  
-> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — extraction beyond survival limits  
-> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — food as a hard constraint on governance  
+> - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — *title without responsibility*  
+> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — *extraction beyond survival limits*  
+> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — *food as a hard constraint on governance*
+> - [🇬🇧 Diet Authoritarianism: UK Homebrew](../../../🌀_System_Governance/💫_Containment_Logic/🇬🇧_diet_authoritarianism_uk_homebrew.md) - *why sometimes a little bit of impoliteness now can save a lot of impoliteness later*
+> - [🧠 Institutional Weather Systems](../../../🌀_System_Governance/💫_Containment_Logic/🧠_institutional_weather_systems.md) - *how the state can be read like the sky*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
