@@ -278,7 +278,7 @@ This node links directly to:
 > - [🧬 Centroid Collapse](../👾_Breakpoints_And_Glitches/🧬_centroid_collapse.md)  
 > - [📣 PR Simulation Breakdown](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📣_pr_simulation_breakdown.md)  
 > - [🧩 Identity–Stance Mismatch Architecture](./🧩_identity_stance_mismatch_architecture.md)  
-> - [🧩 Diaspora Instability Patterns](../../..Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_diaspora_instability_patterns.md)  
+> - [🧩 Diaspora Instability Patterns](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_diaspora_instability_patterns.md)  
 
 It forms a core part of the **algorithmic identity** cluster  
 and underpins why the entire system misreads  
