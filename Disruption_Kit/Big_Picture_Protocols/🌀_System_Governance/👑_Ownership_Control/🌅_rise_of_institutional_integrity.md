@@ -1,5 +1,5 @@
 # 🌅 Rise of Institutional Integrity  
-**First created:** 2025-11-02  |  **Last updated:** 2025-11-12  
+**First created:** 2025-11-02 | **Last updated:** 2025-12-25  
 *How democratic systems relearn coherence after collapse — from translation to trust.*  
 
 ---
@@ -98,10 +98,10 @@ It maps how language, law, and trust are re-stitched after capture — and why t
 
 > 📡 Cross-references:
 > 
-> - 🌀 Fall of Institutional Integrity — *preceding node*  
-> - ⚖️ Linguistic Integrity as Security Risk — *policy alignment*  
-> - 🧭 How We Got Here — *orientation anchor*  
+> - [🌀 Fall of Institutional Integrity](../💫_Containment_Logic/🌀_fall_of_institutional_integrity.md) — *preceding node*  
+> - [⚖️ Linguistic Integrity as Security Risk](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚖️_linguistic_integrity_as_security_risk.md) — *policy alignment*  
+> - [🧭 How We Got Here](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md) — *orientation anchor*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-25_
