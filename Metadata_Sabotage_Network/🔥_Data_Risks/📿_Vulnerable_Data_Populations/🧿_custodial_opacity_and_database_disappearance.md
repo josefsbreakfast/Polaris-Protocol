@@ -127,6 +127,8 @@ It defines how loss of traceability transforms lawful custody into a rights‑vi
 > - [🌀 Rule of Law Failure Cascade](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌀_rule_of_law_failure_cascade.md) — *structural sequence*
 > - [🪦 CECOT as a Rights‑Void Facility](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🪦_cecot_as_rights_void_facility.md) — *offshored opacity*
 > - [🛰️ Satellite Imagery as Circumstantial Evidence](../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md) — *corroboration logic*
+> - [⚠️ Prelude Conditions to Atrocity](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/⚠️_prelude_conditions_to_atrocity.md) — *escalation analysis*
+> - [🩸 Genocide Denialism](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/README.md) - *we never forget, because never again*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
