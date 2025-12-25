@@ -1,5 +1,5 @@
 # 🛰️ Financial Attrition as Suppression  
-**First created:** 2025-09-29 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-29 | **Last updated:** 2025-12-25  
 *Not all censorship shouts. Some just starve the signal.*  
 
 ---
@@ -45,13 +45,14 @@ boycott laws, contract coercion, Ravish Kumar, While We Watched
 
 ## 🏮 Footer  
 
-*Financial Attrition as Suppression* is a living node of the Polaris Protocol.  
+*🛰️ Financial Attrition as Suppression* is a living node of the Polaris Protocol.  
 It documents non-overt forms of silencing via money, contracts, and institutional withholding.  
 
-> 📡 Cross-references:  
-> - [🈺 Governance and Prevent](../📜_Statutes/🈺_governance_and_prevent.md)  
-> - [🔥 Suppression as Signal](../Big_Picture_Protocols/🔥_suppression_as_signal.md)  
+> 📡 Cross-references:
+> 
+> - [🈺 Governance & Prevent](../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)  
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-12-25_
