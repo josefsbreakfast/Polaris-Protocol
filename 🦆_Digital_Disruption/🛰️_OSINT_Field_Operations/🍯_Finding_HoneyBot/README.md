@@ -1,49 +1,57 @@
 # 🍯 Finding HoneyBot  
-**Status:** Active OSINT Field Operation  
-**Scope:** Credibility, Affected Parties, Regulatory Compliance  
-**Last updated:** 2025-12-24  
+**First created:** 2025-12-25 | **Last updated:** 2025-12-25  
+*From satire to safeguards.*
+<!--I'm telling you... there is a 99.99% chance that The Men™️ have been up to some weird shit.-->
+---
 
-*This is not an exposé. This is an audit trigger.*
+## 🧭 Positioning Within the HoneyBot™ Series  
+
+**HoneyBot™** began as a satirical / speculative exploration of:
+- sex-tech
+- dual-use research
+- behavioural surveillance
+- institutional ethics failure
+
+It asked a deliberately uncomfortable question:
+
+> *What happens when intimacy, data extraction, prestige funding, and national-security logic quietly converge?*
+
+**Finding HoneyBot** is the point where the joke stops being funny.
+
+This node exists because elements once framed as satire now appear **uncomfortably adjacent to documented institutional behaviour** — particularly where:
+- donors shaped access or agendas
+- research governance weakened
+- consent and disclosure became ambiguous
+- reputational containment replaced safeguarding
 
 ---
 
-## 🛰️ Purpose  
+## 🎯 Purpose  
 
 **Finding HoneyBot** is an OSINT field operation designed to identify:
 
-1. **Credibility signals** in publicly released Epstein-related materials  
+1. **Credibility signals** in publicly released Epstein-related material  
 2. **Affected parties** who may require notification, audit, or safeguarding review  
-3. **Regulatory and governance gaps** within institutions where documented overlaps exist  
+3. **Regulatory and governance gaps** at institutions where documented overlaps exist  
 
-This work is **not** about:
-- proving criminal guilt  
-- naming perpetrators  
-- doxxing individuals  
-- speculative network hunting  
+This project does **not** allege that HoneyBot-like systems exist.
 
-It is about **institutional accountability, consent, and compliance**.
+It asks:
+> *If any activities resembled the risks satirised in HoneyBot™, would institutions, participants, and regulators even know?*
 
 ---
 
-## 🎯 Core Question  
+## 🔍 Scope (Strictly Bounded)  
 
-> *Where do documented Epstein-linked materials intersect with institutions, research activities, or governance structures in ways that create unresolved compliance or safeguarding obligations?*
+This investigation only considers intersections between:
 
-If no such intersection exists, no action is required.
-
----
-
-## 🔍 Scope (Strictly Limited)  
-
-This investigation only considers overlaps between:
-
-### 1. **Epstein Files**
+### 1. **Epstein-Linked Public Materials**
 - Black book
 - Sworn depositions
 - Court exhibits
-- Public correspondence
+- Correspondence
 - Funding disclosures
-- Official institutional reviews
+- Institutional review reports
 
 ### 2. **Named Institutions**
 - Universities
@@ -60,63 +68,43 @@ This investigation only considers overlaps between:
 - Data collection
 - Recording or documentation
 
-**No inference is made beyond what connects these domains.**
+If no documented overlap exists, **no claim is made**.
 
 ---
 
-## 🧭 What This Project Produces  
+## 🧠 Affected Parties (Non-Doxxing Definition)  
 
-### ✅ Yes
-- Timelines
-- Funding → activity mappings
-- Role-based accountability analysis
-- Identification of **who should audit**, not who should be accused
-- Identification of **who may require notification**
-- Regulatory and policy gap analysis
-
-### ❌ No
-- Accusations
-- Guilt attribution
-- Vigilantism
-- Doxxing
-- Survivor identification
-- Speculative intent analysis
-
----
-
-## 🧠 Affected Parties (Definition)  
-
-An **affected party** is **not** a perpetrator or suspect.
+An **affected party** is **not** an accused individual.
 
 An affected party may include:
 - students
 - researchers
 - staff
-- participants
 - speakers
-- attendees
+- participants or attendees
 
 …whose:
 - data
 - likeness
 - communications
-- participation
+- recorded participation
 - work output
 
-may have been used, recorded, stored, or associated with activities **funded or convened** by Epstein-linked entities **without full disclosure**.
+may have been used, stored, processed, or associated with activities **funded or convened by Epstein-linked entities**, **without full disclosure**.
 
-This project exists to identify **where notification or audit may be required**, not to name individuals publicly.
+The objective is to identify **where notification or audit obligations may exist** — not to publish names.
 
 ---
 
 ## ⚖️ Compliance & Governance Lens  
 
 Analysis is framed through:
-- data protection principles (e.g. consent, transparency, notification)
-- research ethics standards
+- data protection principles (consent, transparency, notification)
+- human-subjects research ethics
 - safeguarding duties
 - donor governance policies
 - institutional duty of care
+- dual-use research oversight norms
 
 **Criminal thresholds are not required** to trigger:
 - audits
@@ -125,27 +113,13 @@ Analysis is framed through:
 
 ---
 
-## 🛑 Hard Boundaries  
-
-This project will not:
-- speculate about secret agendas
-- allege intelligence operations
-- infer criminal conduct
-- engage with tabloid framing
-- pursue dark-web activity
-- attempt to “solve” Epstein’s crimes
-
-Those activities actively harm accountability efforts.
-
----
-
 ## 🧪 Method (OSINT Discipline)  
 
-1. Start from **documents**, not theories  
-2. Anchor analysis at **money** and **people**, separately  
-3. Only state connections that are **documented**  
+1. Start from documents, not theories  
+2. Anchor analysis at **money** and **people** separately  
+3. State only what is **documented and citable**  
 4. Stop when evidence stops  
-5. Escalate only governance questions, not narratives  
+5. Escalate governance questions, not narratives  
 
 If a claim cannot survive:
 - plain language
@@ -156,40 +130,59 @@ If a claim cannot survive:
 
 ---
 
-## 🧯 Why “HoneyBot”?  
+## 🛑 Hard Boundaries  
 
-“HoneyBot” refers to **systems that attract interaction without explicit disclosure**, creating:
-- asymmetrical knowledge
-- unbalanced consent
-- latent risk
+This project will not:
+- speculate about secret agendas
+- allege intelligence operations
+- infer criminal conduct
+- engage in tabloid framing
+- identify or expose survivors
+- pursue dark-web activity
+- attempt to “solve” Epstein’s crimes
 
-This project examines whether:
-- institutional prestige
-- donor money
-- elite access
-
-functioned as **implicit capture mechanisms** that now require remediation.
+Those actions actively undermine accountability and safeguarding.
 
 ---
 
-## 🧩 Outputs & Use  
+## 🍯 Why “Finding HoneyBot”?  
 
-Outputs are intended for:
+“HoneyBot” describes systems that:
+- attract interaction
+- extract data
+- normalise surveillance
+- blur consent
+- hide dual-use risk behind novelty or prestige
+
+**Finding HoneyBot** asks whether:
+- institutional prestige
+- donor access
+- elite convening power
+
+functioned as **implicit capture mechanisms** requiring remediation —  
+even where no explicit wrongdoing occurred.
+
+---
+
+## 🧩 Outputs & Intended Use  
+
+Outputs are designed for:
 - institutional audit teams
-- regulators
-- unions
 - compliance officers
-- journalists working at governance level
-- affected institutions seeking to self-correct
+- regulators
+- unions and staff bodies
+- governance-focused journalists
+- institutions seeking to self-correct
 
 They are **not** intended for:
-- social media amplification
-- public naming campaigns
-- harassment or pressure tactics
+- social-media amplification
+- naming campaigns
+- harassment
+- speculation-driven exposure
 
 ---
 
-## 🧭 Ethical Position  
+## 🧠 Ethical Position  
 
 > *Safeguarding and consent do not begin at conviction.  
 They begin at credible, documented risk.*
@@ -197,15 +190,15 @@ They begin at credible, documented risk.*
 This project exists because:
 - disclosure lag creates harm
 - silence compounds risk
-- and governance failures repeat when left unexamined
+- satire becomes prophecy when governance fails
 
 ---
 
 ## 🏮 Footer  
 
-🍯 *Finding HoneyBot* is part of **🛰️ OSINT Field Operations** under **🦆 Digital Disruption**.
+🍯 *Finding HoneyBot* is part of **🛰️ OSINT Field Operations** under **🦆 Digital Disruption**, and a downstream accountability track of the **HoneyBot™** series.
 
-It is intentionally boring, procedural, and bounded — because **that is what accountability actually looks like**.
+It is intentionally boring, procedural, and bounded — because **that is what prevents satire from becoming reality**.
 
 *Survivor authorship is sovereign.  
 Containment is never neutral.*
