@@ -272,13 +272,23 @@ Silence, too, is a signal.
 
 Ask: who benefits?  
 
-When we are:  
-
+with our systems are not showing us the problem, but we are still:  
 - divided,
 - uncertain,
 - chaotic,
 - confused,
-- generally cross at each other.  
+- generally cross at each other.
+
+Then, who benefits?  
+
+When we are:  
+- divided,
+- uncertain,
+- chaotic,
+- confused,
+- generally cross at each other.
+
+(I would then compare with whoever fundeds any of the tooling that we use for the analysis, but then I am a bit of a nerd.)  
 
 ---
 
