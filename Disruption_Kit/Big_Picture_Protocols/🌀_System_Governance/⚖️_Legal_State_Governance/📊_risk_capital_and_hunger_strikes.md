@@ -1,5 +1,5 @@
 # 📊 Risk, Capital, and Hunger Strikes  
-**First created:** 2025-12-17 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-17 | **Last updated:** 2025-12-25  
 *How financialised risk management collides with frontline clinical judgment during politically sensitive hunger strikes.*  
 
 ---
@@ -267,10 +267,12 @@ It contributes structural analysis of how financialised governance shapes life-a
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Legal & State Governance] — *escalation and liability*  
-> - [🫀 Our Hearts, Our Minds] — *trauma-informed governance*  
-> - [🧰 Survivor Tools] — *frontline protection and countermeasures*  
+> - [⚖️ Presumption of Innocence and the Limits of Exceptional Power](./⚖️_presumption_of_innocence_and_the_limits_of_exceptional_power.md) - *how criminal justice is supposed to work, on paper, in a "rule of law" system*  
+> - [🧨 Schmittian Drift in Exceptional Detention Governance](./🧨_the_schmittian_drift_in_exceptional_detention_governance.md) - *why this is Carl Schmitt behaviour (a Nazi; the man was a Nazi)*  
+> - [🧨 Exceptional Sovereignty in Pretrial Detention](./🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md) - *detail on the specific moral and legal clashes in the hunger strikers case, and why this is exceptionally dangerous to them and to the nation entire*  
+> - [🔥 Hunger Strike as Counter-Sovereignty](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md) - *how hunger strikes function as a reclaimation of personal sovereignity and dignity, without minimising the extreme risk they pose to those who participate in them*
+> - [📦 Containment as Industry](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/📦_containment_as_industry.md) - *why and how the exact same industries which exploit the Israeli apartheid to extract from Palestinians and Palestine, are making profit from imprisoned Palestine Action affiliated hunger strikers; capitalism all the way down, and we could spend the taxes on schools and hospital beds instead of blowing up schools and hospitals, or keeping these people on indefinite remand*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-25_
