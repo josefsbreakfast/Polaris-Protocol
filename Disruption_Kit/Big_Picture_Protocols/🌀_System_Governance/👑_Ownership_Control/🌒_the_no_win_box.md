@@ -1,6 +1,6 @@
 # 🌒 The No-Win Box  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-07  
-*The psychological container hostile actors place themselves in when a survivor becomes transparent, autonomous, and witnessed.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-25  
+*The psychological container hostile actors place themselves in when a survivor becomes transparent, autonomous, and witnessed.*  
 
 ---
 
@@ -210,8 +210,16 @@ no-win box, projection collapse, escalation paradox, autonomy backlash, narrativ
 
 ## 🏮 Footer  
 *🌒 The No-Win Box* is a living node of the Polaris Protocol.  
-It describes the paradoxical state in which hostile actors undermine themselves when confronted with survivor transparency, autonomy, and structural clarity.
+It describes the paradoxical state in which hostile actors undermine themselves when confronted with survivor transparency, autonomy, and structural clarity.  
+
+> 📡 Cross-references:
+> 
+> - [🎶 Shared Technology — VoiceX and Institutional Reports](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎶_shared_tech_voicex_institutional_reports.md)  
+> - [🗣️ Voice Laundering](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)  
+> - [🎣 Polaris Scares Men](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎣_polaris_scares_men.md)  
+> - [💄 Hypothetical Case — Disinfo Narrative Control](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💄_hypothetical_case_disinfo_narrative_control.md)  
+> - [🧃 COGAT Is a Containment Operation](../../🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-25_
