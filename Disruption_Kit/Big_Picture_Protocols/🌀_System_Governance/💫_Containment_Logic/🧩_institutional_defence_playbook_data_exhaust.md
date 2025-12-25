@@ -1,5 +1,5 @@
 # 🧩 Institutional Defence Playbook — Data Exhaust  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
 *How institutions predictably respond when challenged about data exhaust, identifiability, and harm.*
 
 ---
@@ -215,10 +215,10 @@ It catalogues the predictable strategies institutions deploy when challenged abo
 
 > 📡 Cross-references:
 > 
-> - [♻️ Data Exhaust in UK Law] — legal interpretation and rights  
-> - [🛡️ High-Security Settlement Logic] — escalation and containment dynamics  
-> - [📚 Memory, Market, and the Machinery of Data Exhaust] — political-economic context
+> - [♻️ Data Exhaust in UK Law](../../🦕_Elder_Influencers/📜_Statutes/♻️_data_exhaust_uk_law.md) — *legal interpretation and rights*  
+> - [🛡️ High-Security Settlement Logic](../📚_Narrative_Management/🛡️_high_security_settlement_logic_data_exhaust.md) — *escalation and containment dynamics*  
+> - [📚 Memory, Market, and the Machinery of Data Exhaust](../👑_Ownership_Control/📚_memory_market_machinery_of_data_exhaust.md) — *political-economic context*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-25_
