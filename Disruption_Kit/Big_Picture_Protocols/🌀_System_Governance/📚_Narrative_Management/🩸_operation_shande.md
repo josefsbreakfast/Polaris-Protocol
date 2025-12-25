@@ -1,5 +1,5 @@
-# 🤦‍♀️ Operation Shande — the bureaucratic shame engine  
-**First created:** 2025-10-25 | **Last updated:** 2025-12-13  
+# 🩸 Operation Shande  
+**First created:** 2025-10-25 | **Last updated:** 2025-12-25  
 *When the instrument of scandal becomes the measure of compliance.*  
 
 ---
@@ -76,7 +76,7 @@ shame politics, scandal cycles, administrative virtue, moral laundering, reputat
 ---
 
 ## 🏮 Footer
-*Operation Shande — the bureaucratic shame engine* is a living node of the Polaris Protocol.  
+*🩸 Operation Shande — the bureaucratic shame engine* is a living node of the Polaris Protocol.  
 It studies the feedback loop where institutions convert embarrassment into governance,  
 and where citizens learn to metabolise that shame back into witness.
 
@@ -88,4 +88,4 @@ and where citizens learn to metabolise that shame back into witness.
 
 *Because sometimes the most ethical act is to blush, publicly, together.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2025-12-25_
