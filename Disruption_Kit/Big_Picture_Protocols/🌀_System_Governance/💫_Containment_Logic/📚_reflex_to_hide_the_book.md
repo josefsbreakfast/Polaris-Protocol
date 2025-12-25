@@ -1,6 +1,6 @@
-# 📚 The Reflex to Hide the Book
-**First created:** 2025-11-08 | **Last updated:** 2025-12-10  
-*When critique triggers containment faster than reflection.*
+# 📚 The Reflex to Hide the Book  
+**First created:** 2025-11-08 | **Last updated:** 2025-12-25  
+*When critique triggers containment faster than reflection.*  
 
 ---
 
@@ -48,8 +48,8 @@ It analyses how suppression behaviour validates the very critiques it seeks to e
 > 📡 Cross-references:
 > 
 > - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *diagnostic framework for overreaction*  
-> - [🕸️ Macro Containment Architecture] — *upstream policy reflexes*  
+> - [🕸️ Macro Containment Architecture](./🕸️_macro_containment_architecture.md) — *upstream policy reflexes*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2025-12-25_
