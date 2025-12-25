@@ -1,6 +1,6 @@
-# 🏛️ Soft Power Dies in Silence
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How secrecy, selective accountability, and quiet containment collapse international credibility*
+# 🏛️ Soft Power Dies in Silence  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+*How secrecy, selective accountability, and quiet containment collapse international credibility.*  
 
 ---
 
@@ -184,15 +184,16 @@ soft power, international credibility, selective accountability, silence strateg
 
 ## 🏮 Footer
 
-*Soft Power Dies in Silence* is a living node of the **Polaris Protocol**.  
+*🏛️ Soft Power Dies in Silence* is a living node of the **Polaris Protocol**.  
 It documents how domestic non-accountability translates directly into international credibility loss.
 
 > 📡 Cross-references:
-> - **🏛️ Reputation Management Is Not Governance** — optics vs authority  
-> - **⚖️ Elite Impunity Is a National Security Risk** — coercion exposure  
-> - **🏛️ Impunity Creates Authoritarian Openings** — legitimacy collapse  
-> - **⚖️ Inquiries Are a Pressure Release Valve** — containment failure  
+>
+> - [🏛️ Reputation Management Is Not Governance](./🏛️_reputation_management_is_not_governance.md) — *optics vs authority*  
+> - [⚖️ Elite Impunity Is a National Security Risk](./⚖️_elite_impunity_is_a_national_security_risk.md) — *coercion exposure*  
+> - [🏛️ Impunity Creates Authoritarian Openings](./🏛️_impunity_creates_authoritarian_openings.md) — *legitimacy collapse*  
+> - [⚖️ Inquiries Are a Pressure Release Valve](./⚖️_inquiries_are_a_pressure_release_valve.md) — *containment failure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-25_
