@@ -143,8 +143,8 @@ It documents how punishment spectacle replaces legality as a source of authority
 > - [🌀 Rule of Law Failure Cascade](../../🌀_System_Governance/⚖️_Legal_State_Governance/🌀_rule_of_law_failure_cascade.md) — *structural erosion*  
 > - [🛑 Alligator Alcatraz — Traceability Breakdown](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🛑_alligator_alcatraz_traceability_breakdown.md) — *domestic spectacle*  
 > - [🪦 CECOT as a Rights-Void Facility](../../🌀_System_Governance/👑_Ownership_Control/🪦_cecot_as_rights_void_facility.md) — *offshored spectacle*  
-> - [🧃 COGAT Is a Containment Operation](../../🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)  
-> - [🛑 GHF Is a Weapon](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🛑_ghf_is_a_weapon.md)  
+> - [🧃 COGAT Is a Containment Operation](../../🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md) — *when spectacle and "just boxes" collide*  
+> - [🛑 GHF Is a Weapon](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🛑_ghf_is_a_weapon.md) — *secondary impact targets*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
