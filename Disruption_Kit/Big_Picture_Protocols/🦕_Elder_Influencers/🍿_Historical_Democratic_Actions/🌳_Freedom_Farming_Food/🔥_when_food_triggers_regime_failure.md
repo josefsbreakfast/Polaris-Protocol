@@ -1,5 +1,5 @@
 # 🔥 When Food Triggers Regime Failure  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
 *Why governments often survive inequality, corruption, and repression — but not food system misalignment.*
 
 ---
@@ -149,7 +149,10 @@ It is adaptive.
 - *[French Revolution](chatgpt://generic-entity?number=1)* — bread as the trigger, not ideology  
 - *E.P. Thompson, “The Moral Economy of the Crowd”* — subsistence as political threshold  
 - *Comparative food crisis histories* — repeated sequence across regimes  
-- *Modern food price shock analyses* — compression effects and instability  
+- *Modern food price shock analyses* — compression effects and instability
+- [Finance Bill Sub-Committee (inc evidence portal](https://committees.parliament.uk/committee/230/finance-bill-subcommittee/news/209304/finance-bill-subcommittee-launches-call-for-evidence/) - *relevant parliamentary subcommittee*  
+- [Watch: Liaison Committee (Mon 15 Dec 2025)](https://parliamentlive.tv/event/index/5b150344-5bcf-4bd8-9358-51c29ace334b?in=14:47:17) - *the Finance Bill Subcommittee raised concerns from Mon 08 Dec 2025 session in this committee, watch time set to start accordingly*  
+- [Farmers rejoice as Starmer caves in to pressure and waters down inheritance tax raid](https://www.independent.co.uk/news/uk/politics/inheritance-tax-farmers-labour-starmer-b2889532.html) - *update to live story; inheritance tax threshold raised to protect family farmers after subcommittee representation*  
 
 ---
 
@@ -166,10 +169,10 @@ It contributes pattern-level analysis on why food system mismanagement accelerat
 
 > 📡 Cross-references:
 > 
-> - [🥖 Food, Taxation, and Revolution](./🥖_food_taxation_and_revolution.md) — extraction under scarcity  
-> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — survival as hard constraint  
-> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — procedure without legitimacy  
+> - [🥖 Food, Taxation, and Revolution](./🥖_food_taxation_and_revolution.md) — *extraction under scarcity*  
+> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — *survival as hard constraint*  
+> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — *procedure without legitimacy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
