@@ -1,5 +1,5 @@
 # 📊 Gen Z Procedural Protest & Spreadsheet Organising  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-25  
 *Why Gen Z approaches protest like a project-managed operation, and how their procedural culture reshapes collective action.*  
 
 ---
@@ -237,10 +237,10 @@ It supports the **Generational Dynamics** and **Digital Disruption** clusters th
 
 > 📡 Cross-references:
 > 
-> - [📱 Millennials as Phone-Dependent Protest Liability]  
-> - [🗑️ Orthopaedic Anarchism]  
-> - [😩 Millennial Exhaustion as a Political Condition]  
+> - [📱 Millennials as Phone-Dependent Protest Liability](./📱_millennials_phone_dependent_protest_liability.md)  
+> - [🗑️ Orthopaedic Anarchism](../🐝_Body_Politic/🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md)  
+> - [😩 Millennial Exhaustion as a Political Condition](../🐝_Body_Politic/😴_millennial_exhaustion_as_a_political_condition.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2025-12-25_
