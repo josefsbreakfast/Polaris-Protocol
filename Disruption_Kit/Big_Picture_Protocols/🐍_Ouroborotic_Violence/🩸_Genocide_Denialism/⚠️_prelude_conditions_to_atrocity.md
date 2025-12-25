@@ -1,7 +1,6 @@
-# ⚠️ Prelude Conditions to Atrocity
-
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*How democratic systems generate the conditions for mass harm before violence becomes explicit*
+# ⚠️ Prelude Conditions to Atrocity  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+*How democratic systems generate the conditions for mass harm before violence becomes explicit.*  
 
 ---
 
@@ -159,15 +158,15 @@ prelude conditions, genocide studies, fascism, democratic backsliding, escalatio
 
 ## 🏮 Footer
 
-*Prelude Conditions to Atrocity* is a synthesis node of the **Polaris Protocol**.
+*⚠️ Prelude Conditions to Atrocity* is a synthesis node of the **Polaris Protocol**.
 It documents how structural, legal, and narrative conditions converge to make mass harm possible long before explicit violence occurs.
 
 > 📡 Cross-references:
 >
-> * [🌀 Rule of Law Failure Cascade] — structural breakdown
-> * [🎭 Performative Cruelty as Governance] — spectacle dynamics
-> * [🧿 Custodial Opacity and Database Disappearance] — disappearance risk
+> - [🌀 Rule of Law Failure Cascade](../../🌀_System_Governance/⚖️_Legal_State_Governance/🌀_rule_of_law_failure_cascade.md) — structural breakdown*  
+> - [🎭 Performative Cruelty as Governance](../🗝️_Politics_Memory_Work/🎭_performative_cruelty_as_governance.md) — spectacle dynamics*  
+> - [🧿 Custodial Opacity and Database Disappearance](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧿_custodial_opacity_and_database_disappearance.md) — *disappearance risk*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+_Last updated: 2025-12-25_
