@@ -1,5 +1,5 @@
 # ⚖️ Shielded Roles and Information Risk Governance  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-25  
 *Why MOD’s SIROs remain nameless and what that means for accountability.*  
 
 ---
@@ -36,8 +36,10 @@ siro, information risk, mod governance, accountability, foia
 > 📡 Cross-references:
 > 
 > - [⚖️ Official Secrets Reform and Accountability](../⚖️_Legal_State_Governance/⚖️_official_secrets_reform_and_accountability.md)  
-> - [🪖 Applied Demolition Science and the GCSE Problem](/)  
+> - [🪖 Applied Demolition Science and the GCSE Problem](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🪖_applied_demolition_science_and_the_gcse_problem.md)
+> - [🪖 Collateral Shame: Moral Injury, Veterans, & the Counterinsurgency Age](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪖_collateral_shame.md)
+> - [*Pending:* 🪖 How Politicians Legally Strangle the MOD (in Real-Lives Terms)]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-13_
+_Last updated: 2025-12-25_
