@@ -159,7 +159,8 @@ It contributes design-level analysis on how land can be governed for continuity,
 > 
 > - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — *ownership without responsibility*  
 > - [🫏 Stewardship Without Sovereignty](./🫏_stewardship_without_sovereignty.md) — *responsibility without control*  
-> - [🕸️ Food as National Infrastructure](./🕸️_food_as_national_infrastructure.md) — *continuity obligations*  
+> - [🕸️ Food as National Infrastructure](./🕸️_food_as_national_infrastructure.md) — *continuity obligations*
+> - [🐄 Land Scarcity and Space Dignity](../../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐄_land_scarcity_and_space_dignity.md) - *exploring the "no-room" myth*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
