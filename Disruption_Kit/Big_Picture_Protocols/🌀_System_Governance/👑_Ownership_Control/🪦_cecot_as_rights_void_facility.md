@@ -149,7 +149,9 @@ It documents how offshored detention collapses enforceable rights while preservi
 >
 > - [🌀 Rule of Law Failure Cascade](../⚖️_Legal_State_Governance/🌀_rule_of_law_failure_cascade.md) — *structural sequence*  
 > - [🧿 Custodial Opacity and Database Disappearance](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧿_custodial_opacity_and_database_disappearance.md) — *traceability loss*  
-> - [🛰️ Satellite Imagery as Circumstantial Evidence](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md) — *corroborative OSINT*  
+> - [🛰️ Satellite Imagery as Circumstantial Evidence](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md) — *corroborative OSINT*
+> - [⚠️ Prelude Conditions to Atrocity](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/⚠️_prelude_conditions_to_atrocity.md) — *escalation analysis*
+> - [🩸 Genocide Denialism](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/README.md) - *we never forget, because never again*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
