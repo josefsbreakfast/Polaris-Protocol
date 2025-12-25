@@ -1,4 +1,4 @@
-# 🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)  
+# 🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)  
 **First created:** 2025-12-20 | **Last updated:** 2025-12-25  
 *How UK continuity, delay, and “risk management” displaced the Genocide Convention’s prevention duty into procedural fog.*  
 
