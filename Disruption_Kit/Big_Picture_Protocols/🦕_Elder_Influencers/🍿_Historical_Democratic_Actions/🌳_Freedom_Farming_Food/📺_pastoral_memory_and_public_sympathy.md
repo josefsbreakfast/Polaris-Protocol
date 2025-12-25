@@ -1,6 +1,6 @@
 # 📺 Pastoral Memory and Public Sympathy  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why cultural memory quietly protects farmers — and why authority keeps underestimating it.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*Why cultural memory quietly protects farmers — and why authority keeps underestimating it.*  
 
 ---
 
@@ -42,9 +42,9 @@ British media has consistently framed farming through:
 - and friction with abstract authority.
 
 Key refresh points include:
-- *[The Darling Buds of May](https://youtu.be/VpqaoZaCYe8?si=z9B5JhJRDHOy8uWn)* — the tax collector out of place, gently defeated by lived reality  
-- *[Countryfile](https://youtu.be/ekeA7FMRHUM?si=AlRB0a3XD8WbjaeO)* — farming as national interest, not niche  
-- *[Cold Comfort Farm](https://youtu.be/OpAUoIg4LKg?si=fXsphyc4ApkkCrwr)* — satire that still centres rural work as human and legible  
+- *The Darling Buds of May* — the tax collector out of place, gently defeated by lived reality  
+- *Countryfile* — farming as national interest, not niche  
+- *Cold Comfort Farm* — satire that still centres rural work as human and legible  
 
 None of these are political treatises.  
 That’s precisely why they work.
@@ -153,9 +153,10 @@ It makes it brittle.
 📺 🌾 🧠 ⚖️ 🚜 — media memory, farming, public sympathy, legitimacy, protest optics  
 
 *Further reading / viewing:*  
-- *[The Darling Buds of May](chatgpt://generic-entity?number=3)* — authority misreads the room  
-- *[Countryfile](chatgpt://generic-entity?number=4)* — farming as national concern  
-- *[Cold Comfort Farm](chatgpt://generic-entity?number=5)* — satire that preserves moral legibility  
+
+- *[The Darling Buds of May](https://youtu.be/VpqaoZaCYe8?si=z9B5JhJRDHOy8uWn)* — authority misreads the room  
+- *[Countryfile](https://youtu.be/ekeA7FMRHUM?si=AlRB0a3XD8WbjaeO)* — farming as national concern  
+- *[Cold Comfort Farm](https://youtu.be/OpAUoIg4LKg?si=fXsphyc4ApkkCrwr)* — satire that preserves moral legibility  
 - *British rural media studies* — how sympathy is culturally maintained  
 
 ---
@@ -173,10 +174,11 @@ It contributes cultural analysis on why farming retains public legitimacy throug
 
 > 📡 Cross-references:
 > 
-> - [🌾 Home Front Memory and Food](./🌾_home_front_memory_and_food.md) — survival framing and public judgment  
-> - [🚜 Tools Are Not Costumes](./🚜_tools_are_not_costumes.md) — optics and identity in protest  
-> - [🎭 Procedure Without Legitimacy](./🎭_procedure_without_legitimacy.md) — when enforcement collides with cognition  
+> - [🌾 Home Front Memory and Food](./🌾_home_front_memory_and_food.md) — *survival framing and public judgment*  
+> - [🚜 Tools Are Not Costumes](./🚜_tools_are_not_costumes.md) — *optics and identity in protest*  
+> - [🎭 Procedure Without Legitimacy](./🎭_procedure_without_legitimacy.md) — *when enforcement collides with cognition*
+> - [☕ The Auntie Model of Memetic Transmission](../../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/☕_the_auntie_model_of_memetic_transmission.md) — *they all love Countryfile, they love a rural soap opera (whichever language applies), and there's a >70% chance their favourite Mills & Boon is pastorally-themed; do not piss these women off*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
