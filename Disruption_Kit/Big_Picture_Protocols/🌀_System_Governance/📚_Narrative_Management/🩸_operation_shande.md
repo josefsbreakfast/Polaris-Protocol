@@ -82,9 +82,9 @@ and where citizens learn to metabolise that shame back into witness.
 
 > 📡 Cross-references:
 > 
-> - [🔥 Suppression as Signal]  
-> - [⚙️ Automated Escalation — Workflow Engines of Containment]  
-> - [🧠 Misclassifying Intellectual Intimacy]  
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
+> - [⚙️ Automated Escalation — Workflow Engines of Containment](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/⚙️_engines_of_containment.md)  
+> - [🧠 Misclassifying Intellectual Intimacy](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_misclassifying_intellectual_intimacy.md)  
 
 *Because sometimes the most ethical act is to blush, publicly, together.*
 
