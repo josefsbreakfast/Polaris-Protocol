@@ -1,6 +1,6 @@
 # 🧨 Where Revolutions Actually Come From  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why successful revolutionary movements depend on cross-class bridges — and why their absence matters.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*Why successful revolutionary movements depend on cross-class bridges — and why their absence matters.*  
 
 ---
 
@@ -54,7 +54,7 @@ This is precisely why authoritarian movements have historically courted — and 
 ## 🔥 What it looks like *when it actually happens*
 
 ### France (1789)  
-The **[French Revolution](chatgpt://generic-entity?number=0)** escalated when:
+The **French Revolution** escalated when:
 - urban unrest aligned with rural food pressure,
 - grain, land, and taxation converged,
 - and subsistence politics bridged class divides.
@@ -70,7 +70,7 @@ Italian fascism was acutely aware of rural power.
 - Land, food, and order were rhetorically central  
 - Betrayal followed consolidation  
 
-The resistance that emerged later — including the partisan tradition from which **[Bella Ciao](chatgpt://generic-entity?number=1)** originates — was deeply rooted in **northern farming communities**.
+The resistance that emerged later — including the partisan tradition from which **Bella Ciao** originates — was deeply rooted in **northern farming communities**.
 
 This was not incidental.  
 It was structural.
@@ -78,7 +78,7 @@ It was structural.
 ---
 
 ### Spain under Franco  
-**[Francisco Franco](chatgpt://generic-entity?number=2)** understood the same risk.
+**Francisco Franco** understood the same risk.
 
 Rural organisation was:
 - monitored,
@@ -206,10 +206,10 @@ Understanding how revolutions actually form allows societies to avoid panicked o
 🧨 🌾 🧠 ⚖️ 🔗 — revolutionary ignition, farming, political alignment, legitimacy, movement bridging  
 
 *Further reading / viewing:*  
-- *[French Revolution](chatgpt://generic-entity?number=4)* — rural–urban convergence  
+- *French Revolution* — rural–urban convergence  
 - *Italian partisan history* — farmer-based resistance networks  
-- *[Bella Ciao](chatgpt://generic-entity?number=5)* — cultural memory of agrarian resistance  
-- *[January 6 United States Capitol attack](chatgpt://generic-entity?number=6)* — modern example of cross-group mobilisation  
+- *Bella Ciao* — cultural memory of agrarian resistance  
+- *January 6 United States Capitol attack* — modern example of cross-group mobilisation  
 
 ---
 
@@ -226,10 +226,10 @@ It contributes historical and analytical clarity on the structural conditions th
 
 > 📡 Cross-references:
 > 
-> - [🔥 When Food Triggers Regime Failure](./🔥_when_food_triggers_regime_failure.md) — food as an accelerant  
-> - [🤝 Workers Don’t Abandon Workers](./🤝_workers_dont_abandon_workers.md) — solidarity and misalignment  
-> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — survival before ideology  
+> - [🔥 When Food Triggers Regime Failure](./🔥_when_food_triggers_regime_failure.md) — *food as an accelerant*  
+> - [🐈‍⬛ Workers Don’t Abandon Workers](./🐈‍⬛_workers_dont_abandon_workers.md) — *solidarity and misalignment*  
+> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — *survival before ideology*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
