@@ -51,7 +51,7 @@ This trope persists because it encodes a simple judgment:
 > Authority that does not understand use-value  
 > forfeits moral authority, even if it retains legal power.
 
-Popular culture has repeated this for decades — including in *[The Darling Buds of May](chatgpt://generic-entity?number=0)*, where the official is not evil, just absurdly misaligned with reality.
+Popular culture has repeated this for decades — including in *The Darling Buds of May*, where the official is not evil, just absurdly misaligned with reality.
 
 The lesson is not anti-state.  
 It is **anti-clueless authority**.
@@ -70,7 +70,7 @@ Conflicts around:
 were not primarily about ideology.  
 They were about **survival versus abstraction**.
 
-Movements like the **[Levellers](chatgpt://generic-entity?number=1)** argued that land governance without regard to those who worked it produced domination, not order.
+Movements like the **Levellers** argued that land governance without regard to those who worked it produced domination, not order.
 
 Enclosure was repeatedly justified as “efficiency.”  
 Resistance was repeatedly framed as disorder.
@@ -91,7 +91,7 @@ The escalation pattern is remarkably stable:
 5. Enforcement escalates  
 6. Legitimacy collapses suddenly, not gradually  
 
-The **[French Revolution](chatgpt://generic-entity?number=2)** followed this sequence almost perfectly.
+The **French Revolution** followed this sequence almost perfectly.
 
 It was not ignited by revolutionary theory.  
 It was ignited by food prices, taxation, and elite insulation from consequence.
@@ -180,7 +180,8 @@ It contributes historical and structural analysis on why extraction without situ
 > 📡 Cross-references:
 > 
 > - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — *food as a hard constraint on governance*  
-> - [🚜 Tools Are Not Costumes](./🚜_tools_are_not_costumes.md) — *identity-filtering through enforcement*  
+> - [🚜 Tools Are Not Costumes](./🚜_tools_are_not_costumes.md) — *identity-filtering through enforcement*
+> - [📜 The Levellers and Land Freedom](./📜_the_levellers_and_land_freedom.md)  
 > - [🍿 Historical Democratic Actions](../) — *recurring legitimacy fractures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
