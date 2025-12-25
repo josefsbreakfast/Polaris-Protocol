@@ -1,7 +1,6 @@
-# 🎭 Performative Cruelty as Governance
-
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*How spectacle, punishment, and insecurity replace legality as a source of authority*
+# 🎭 Performative Cruelty as Governance  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+*How spectacle, punishment, and insecurity replace legality as a source of authority.*  
 
 ---
 
@@ -136,15 +135,17 @@ performative cruelty, governance spectacle, punitive populism, domination aesthe
 
 ## 🏮 Footer
 
-*Performative Cruelty as Governance* is an analytic node of the **Polaris Protocol**.
+*🎭 Performative Cruelty as Governance* is an analytic node of the **Polaris Protocol**.
 It documents how punishment spectacle replaces legality as a source of authority in insecure political systems.
 
 > 📡 Cross-references:
 >
-> * [🌀 Rule of Law Failure Cascade] — structural erosion
-> * [🛑 Alligator Alcatraz — Traceability Breakdown] — domestic spectacle
-> * [🪦 CECOT as a Rights-Void Facility] — offshored spectacle
+> - [🌀 Rule of Law Failure Cascade](../../🌀_System_Governance/⚖️_Legal_State_Governance/🌀_rule_of_law_failure_cascade.md) — *structural erosion*  
+> - [🛑 Alligator Alcatraz — Traceability Breakdown](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🛑_alligator_alcatraz_traceability_breakdown.md) — *domestic spectacle*  
+> - [🪦 CECOT as a Rights-Void Facility](../../🌀_System_Governance/👑_Ownership_Control/🪦_cecot_as_rights_void_facility.md) — *offshored spectacle*  
+> - [🧃 COGAT Is a Containment Operation](../../🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)  
+> - [🛑 GHF Is a Weapon](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🛑_ghf_is_a_weapon.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+_Last updated: 2025-12-25_
