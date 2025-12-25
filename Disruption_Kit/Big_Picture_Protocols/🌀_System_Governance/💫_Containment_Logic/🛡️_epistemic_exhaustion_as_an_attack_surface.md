@@ -1,5 +1,5 @@
 # 🛡️ Epistemic Exhaustion as an Attack Surface  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
 *How population-level burnout collapses verification capacity and becomes a low-cost national security vulnerability.*  
 
 ---
@@ -163,10 +163,11 @@ It documents how population-level burnout undermines verification capacity and c
 
 > 📡 Cross-references:
 > 
-> - **🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash** — origin conditions  
-> - **📱 Digital Literacy as Democratic Infrastructure** — civic resilience layer  
-> - **🧠 Psychological_Containment** — fatigue as a control vector  
+> - [🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash](../🛰️_Infrastructure_Procurement/🧨_overclocked_capitalism_2020_cognitive_crash.md) — *origin conditions*  
+> - [📱 Digital Literacy as Democratic Infrastructure](./📱_digital_literacy_as_democratic_infrastructure.md) — *civic resilience layer*  
+> - [🧠 Cognitive Immunology](../../🦕_Elder_Influencers/🕸️_World_Webs/🧠_cognitive_immunology.md) — *fatigue as a control vector*  
+> - [🦉 Language As Attack Surface](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-25_
