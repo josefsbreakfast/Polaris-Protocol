@@ -1,6 +1,6 @@
 # 🧠 The Moral Floor of Taxation  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why redistribution stops working once it crosses survival logic — and why people feel this before they argue it.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*Why redistribution stops working once it crosses survival logic — and why people feel this before they argue it.*  
 
 ---
 
@@ -156,10 +156,12 @@ It contributes cognitive and historical analysis on why taxation that destabilis
 
 > 📡 Cross-references:
 > 
-> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — extraction beyond situational intelligence  
-> - [📉 Asset-Rich, Cash-Poor Farming](./📉_asset_rich_cash_poor_farming.md) — paper wealth vs continuity  
-> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — survival as hard constraint  
+> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — *extraction beyond situational intelligence  
+> - [📉 Asset-Rich, Cash-Poor Farming](./📉_asset_rich_cash_poor_farming.md) — *paper wealth vs continuity*  
+> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — *survival as hard constraint*
+> - [🥖 Food, Taxation, and Revolution](./🥖_food_taxation_and_revolution.md) — *why states cannot survive food pressures*
+> - [🦠 Farming Under Uninsurable Catastrophe](./🦠_farming_under_uninsurable_catastrophe.md) — *current farming pressures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
