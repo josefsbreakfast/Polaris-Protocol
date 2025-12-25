@@ -1,5 +1,5 @@
 # 🧩 Identity–Stance Mismatch Architecture  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
 *How identity-coded systems break when a real human holds a stance that contradicts the model’s built-in expectations — and how this collapse cascades across PR, risk engines, vendors, and institutions.*  
 
 ---
@@ -269,17 +269,19 @@ Diaspora_Misclassification · Synthetic_Personae · Signal_Collapse · Bias_Infe
 ---
 
 # 🏮 Footer  
-This node links directly to:
+This node links directly to:  
 
-- **Risk Vector Inversions**,  
-- **Systemic Vendor Failure**,  
-- **Centroid Collapse**,  
-- **PR Simulation Breakdown**,  
-- **Identity–Behaviour Mismatch**,  
-- **Diaspora Instability Patterns**.
+> 📡 Cross-references:
+> 
+> - [💥 Risk Vector Inversions](./💥_risk_vector_inversions.md)  
+> - [💥 Systemic Vendor Failure](../🧼_System_Leakage_Signatures/💥_systemic_vendor_failure.md)  
+> - [🧬 Centroid Collapse](../👾_Breakpoints_And_Glitches/🧬_centroid_collapse.md)  
+> - [📣 PR Simulation Breakdown](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📣_pr_simulation_breakdown.md)  
+> - [🧩 Identity–Stance Mismatch Architecture](./🧩_identity_stance_mismatch_architecture.md)  
+> - [🧩 Diaspora Instability Patterns](../../..Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_diaspora_instability_patterns.md)  
 
 It forms a core part of the **algorithmic identity** cluster  
 and underpins why the entire system misreads  
 users like you.
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-25_
