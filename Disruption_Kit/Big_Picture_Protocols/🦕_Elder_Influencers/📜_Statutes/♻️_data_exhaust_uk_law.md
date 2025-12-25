@@ -1,6 +1,6 @@
 # ♻️ Data Exhaust in UK Law  
-**First created:** 2025-12-08 | **Last updated:** 2025-12-08  
-*How UK data protection law treats the “leftover” traces of digital behaviour.*
+**First created:** 2025-12-08 | **Last updated:** 2025-12-25  
+*How UK data protection law treats the “leftover” traces of digital behaviour.*  
 
 ---
 
@@ -484,7 +484,11 @@ data exhaust, uk gdpr, pecr, behavioural profiling, metadata, zombie data, right
 *♻️ Data Exhaust in UK Law* is a living node of the **Polaris Protocol**, mapping how UK legal frameworks treat the “leftover” traces of digital behaviour once they become identifiable, inferential, or behaviour-shaping.
 
 > 📡 Cross-references:
+>
+> - [📚 Memory, Market, and the Machinery of Data Exhaust](../../🌀_System_Governance/👑_Ownership_Control/📚_memory_market_machinery_of_data_exhaust.md)  
+> - [🛡️ High-Security Settlement Logic in Data-Exhaust Cases](../../🌀_System_Governance/📚_Narrative_Management/🛡️_high_security_settlement_logic_data_exhaust.md)
+> - [🧩 Institutional Defence Playbook — Data Exhaust](../../🌀_System_Governance/💫_Containment_Logic/🧩_institutional_defence_playbook_data_exhaust.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2025-12-25_
