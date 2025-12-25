@@ -1,6 +1,6 @@
 # 🌳 Food Is Not Optional  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why food collapses normal class logic — and why states keep forgetting this.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*Why food collapses normal class logic — and why states keep forgetting this.*  
 
 ---
 
@@ -146,9 +146,13 @@ It contributes pattern-level analysis on how food production constrains governan
 
 > 📡 Cross-references:
 > 
-> - [🍿 Historical Democratic Actions](../) — culturally legible moments of legitimacy fracture  
-> - [🦕 Elder Influencers](../../) — long-memory power and inherited authority  
-> - [🧠 Big Picture Protocols](../../../) — systemic governance analysis  
+> - [🌱 Land Trusts & Custodianship Models](./🌱_land_trusts_custodianship_models.md) - *exploring present and historical alternatives to current land law*  
+> - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — *ownership without responsibility*  
+> - [🫏 Stewardship Without Sovereignty](./🫏_stewardship_without_sovereignty.md) — *responsibility without control*  
+> - [🕸️ Food as National Infrastructure](./🕸️_food_as_national_infrastructure.md) — *continuity obligations*  
+> - [🐄 Land Scarcity and Space Dignity](../../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐄_land_scarcity_and_space_dignity.md) - *exploring the "no-room" myth*  
+> - [🫀 Eating Disorder Comparisons To Hunger Strikes](../../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🫀_ed_comparisons_to_hunger_strikes.md) - *food and consumption as endlessly political*
+> - [⚖️ Norman Law and the Geometry of Impunity](../../../🦕_Elder_Influencers/📜_Statutes/⚖️_norman_law_and_the_geometry_of_impunity.md) - *how land law shapes law in the UK*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
