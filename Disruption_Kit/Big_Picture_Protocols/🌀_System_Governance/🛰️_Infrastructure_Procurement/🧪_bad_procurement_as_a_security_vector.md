@@ -1,5 +1,5 @@
 # 🧪 Bad Procurement as a Security Vector  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-15  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
 *How ordinary purchasing decisions quietly introduce systemic security risk in exhausted institutions.*  
 
 ---
@@ -186,11 +186,12 @@ bad procurement, supply chain risk, accidental infiltration, r&d security, insti
 *🧪 Bad Procurement as a Security Vector* is a living node of the **Polaris Protocol**.  
 It documents how ordinary purchasing decisions, made under conditions of exhaustion and speed, quietly introduce persistent security vulnerabilities into institutional systems.
 
-> 📡 Cross-references:
-> - **🛡️ Epistemic Exhaustion as an Attack Surface** — burnout as exploitable condition  
-> - **🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash** — origin conditions  
-> - **📱 Digital Literacy as Democratic Infrastructure** — public understanding and scrutiny  
+> 📡 Cross-references:  
+> 
+> - [🛡️ Epistemic Exhaustion as an Attack Surface](../💫_Containment_Logic/🛡️_epistemic_exhaustion_as_an_attack_surface.md) — *burnout as exploitable condition*  
+> - [🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash](./🧨_overclocked_capitalism_2020_cognitive_crash.md) — *origin conditions*  
+> - [📱 Digital Literacy as Democratic Infrastructure](../💫_Containment_Logic/📱_digital_literacy_as_democratic_infrastructure.md) — *public understanding and scrutiny*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-25_
