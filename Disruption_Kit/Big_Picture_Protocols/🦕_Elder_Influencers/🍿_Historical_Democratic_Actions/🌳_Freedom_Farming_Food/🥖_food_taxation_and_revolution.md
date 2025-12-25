@@ -1,6 +1,6 @@
 # 🥖 Food, Taxation, and Revolution  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why states survive inequality but rarely survive food pressure combined with extraction.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*Why states survive inequality but rarely survive food pressure combined with extraction.*  
 
 ---
 
@@ -35,7 +35,7 @@ Food pressure bypasses ideology and speaks directly to survival logic.
 
 ## 🥖 The canonical case (why it’s always referenced)
 
-The **[French Revolution](chatgpt://generic-entity?number=0)** did not ignite because people suddenly discovered republican philosophy.
+The **French Revolution** did not ignite because people suddenly discovered republican philosophy.
 
 It ignited because:
 - bread prices consumed wages,
@@ -143,7 +143,7 @@ States that don’t — relearn the lesson publicly.
 🥖 🍞 ⚖️ 🧠 🔥 — food scarcity, taxation, moral economy, legitimacy collapse  
 
 *Further reading / viewing:*  
-- *[French Revolution](chatgpt://generic-entity?number=1)* — bread prices as ignition, not ideology  
+- *French Revolution* — bread prices as ignition, not ideology  
 - *E.P. Thompson, “The Moral Economy of the Crowd”* — why food riots are rational  
 - *Early modern grain riot case studies* — enforcement versus subsistence  
 - *Comparative food crisis histories* — repeated sequence across regimes  
@@ -163,10 +163,11 @@ It contributes comparative historical analysis on how food systems constrain tax
 
 > 📡 Cross-references:
 > 
-> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — survival before ideology  
-> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — extraction without situational intelligence  
-> - [🏹 The Commons and Collective Survival](./🏹_the_commons_and_collective_survival.md) — subsistence buffers and legitimacy  
+> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — *survival before ideology*  
+> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — *extraction without situational intelligence*  
+> - [🏹 The Commons and Collective Survival](./🏹_the_commons_and_collective_survival.md) — *subsistence buffers and legitimacy*
+> - [💰 The Surveillance Dividend Social Contract](../../../🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/💰_the_surveillance_dividend_social_contract.md) — *easier targets for tax revenure generation (if considering public opinion alone)*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
