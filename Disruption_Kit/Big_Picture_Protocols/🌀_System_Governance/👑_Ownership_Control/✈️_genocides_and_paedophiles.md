@@ -163,9 +163,7 @@ It contributes structural analysis of how democratic systems are hollowed out to
 > - [🧬 How to Prosecute Power Without Collapse](../⚖️_Legal_State_Governance/🧬_how_to_prosecute_power_without_collapse.md) - *what functional elite accountability could look like*  
 > - [✈️ Arresting Justice](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_arresting_justice.md) — *justice delayed as governance strategy*  
 > - [🗄️ Epstein Files Are Red Herrings](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗄️_epstein_files_are_red_herrings.md) — *misdirection through disclosure*  
-> - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)](../⚖️_Legal_State_Governance/🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md)  
-> - [🧬 Distributed Complicity In Modern Warfare](./🧬_distributed_complicity_in_modern_warfare.md) — *why “just observing” becomes material support*  
-> - [🧬 What a CSA System Optimised for Prevention Looks Like](../⚖️_Legal_State_Governance/🧬_what_a_csa_system_optimised_for_prevention_looks_like.md) — *design-first thinking*  
+> - [✈️ Who Wants These Creeps in Charge?](./✈️_who_wants_these_creeps_in_charge.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
