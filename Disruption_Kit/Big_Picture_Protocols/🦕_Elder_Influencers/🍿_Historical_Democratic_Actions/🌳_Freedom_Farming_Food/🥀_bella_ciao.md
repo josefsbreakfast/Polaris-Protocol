@@ -1,6 +1,6 @@
 # 🥀 Bella Ciao  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*How a song about labour, land, and resistance became a warning that power keeps forgetting.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*How a song about labour, land, and resistance became a warning that power keeps forgetting.*  
 
 ---
 
@@ -160,10 +160,11 @@ It contributes cultural–historical analysis on how songs rooted in agricultura
 
 > 📡 Cross-references:
 > 
-> - [🤝 Workers Don’t Abandon Workers](./🤝_workers_dont_abandon_workers.md) — labour solidarity across sectors  
-> - [🔥 When Food Triggers Regime Failure](./🔥_when_food_triggers_regime_failure.md) — food, legitimacy, rupture  
-> - [🏹 The Commons and Collective Survival](./🏹_the_commons_and_collective_survival.md) — land-based resistance traditions  
+> - [🐈‍⬛ Workers Don’t Abandon Workers](./🐈‍⬛_workers_dont_abandon_workers.md) — *labour solidarity across sectors*  
+> - [🔥 When Food Triggers Regime Failure](./🔥_when_food_triggers_regime_failure.md) — *food, legitimacy, rupture*  
+> - [🏹 The Commons and Collective Survival](./🏹_the_commons_and_collective_survival.md) — *land-based resistance traditions*
+> - [🎶 Banned Broadcasts Cooperative](../../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md) — *more songs, with books and films, to bother one's "betters" with*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
