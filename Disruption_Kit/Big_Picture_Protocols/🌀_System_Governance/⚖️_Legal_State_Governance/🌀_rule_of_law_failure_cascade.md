@@ -1,5 +1,5 @@
 # 🌀 Rule of Law Failure Cascade  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-15  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
 *How custody, opacity, and exceptionalism combine to erode legal accountability.*  
 
 ---
@@ -149,8 +149,9 @@ It provides a structural framework for understanding how lawful systems generate
 >
 > - [🧿 Custodial Opacity and Database Disappearance](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧿_custodial_opacity_and_database_disappearance.md) — *traceability failure*  
 > - [🪦 CECOT as a Rights-Void Facility](../👑_Ownership_Control/🪦_cecot_as_rights_void_facility.md) — *offshored custody*  
-> - [⚠️ Prelude Conditions to Atrocity](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/⚠️_prelude_conditions_to_atrocity.md) — *escalation analysis*  
+> - [⚠️ Prelude Conditions to Atrocity](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/⚠️_prelude_conditions_to_atrocity.md) — *escalation analysis*
+> - [🩸 Genocide Denialism](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/README.md) - *we never forget, because never again*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-25_
