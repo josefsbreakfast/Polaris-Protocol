@@ -1,5 +1,5 @@
 # ⚖️ United Fronts as Democratic Defence  
-**First created:** 2025-11-09 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-09 | **Last updated:** 2025-12-25  
 *Cross-ideological coalitions as immune systems for democratic institutions.*  
 
 ---
@@ -84,7 +84,8 @@ It defines how cross-ideological coalitions act as defensive reflexes within dem
 > - [🧿 SASSI as Counter-Surveillance Accountability](🦆_Digital_Disruption/🐘_Reply_All/🧿_sassi_as_counter_surveillance_accountability.md) - *forensic proof-of-concept for citizen-led audit and containment of surveillance infrastructure, in southern US*  
 > - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) - *we could call it data convergence, or a united front; take your pick*  
 > - [🐝 All In Commons](../../../../🦆_Digital_Disruption/🐝_All_In_Commons/README.md) - *cooperative civic infrastructure for a world that still believes in each other*
+> - [🐈‍⬛ Workers Don’t Abandon Workers](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🐈‍⬛_workers_dont_abandon_workers.md) - *why building bridges is essential, with farmers as hybrid "owener" and "worker" in traditional working class politics as living example*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-25_
