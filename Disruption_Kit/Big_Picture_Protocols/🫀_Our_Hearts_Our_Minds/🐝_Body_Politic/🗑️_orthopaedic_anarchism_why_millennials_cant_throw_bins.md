@@ -1,6 +1,6 @@
 # 🗑️ Orthopaedic Anarchism (Why Millennials Can’t Throw Bins)  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-12  
-*The limits of millennial radicalism explained through biomechanics, burnout, and a generation raised on back pain instead of barricades.*
+**First created:** 2025-11-17 | **Last updated:** 2025-12-25  
+*The limits of millennial radicalism explained through biomechanics, burnout, and a generation raised on back pain instead of barricades.*  
 
 ---
 
@@ -218,9 +218,10 @@ It feeds into the **Generational Dynamics** and **Containment Studies** clusters
 
 > 📡 Cross-references:
 > 
-> - [📊 Gen Z Procedural Protest & Spreadsheet Organising]  
-> - [📱 Millennials as Phone-Dependent Protest Liability]  
-> - [😩 Millennial Exhaustion as a Political Condition]  
+> - [📊 Gen Z Procedural Protest & Spreadsheet Organising](../🌱_Human_Principles/📊_gen_z_procedural_protest.md)  
+> - [📱 Millennials as Phone-Dependent Protest Liability](../🌱_Human_Principles/📱_millennials_phone_dependent_protest_liability.md)  
+> - [😩 Millennial Exhaustion as a Political Condition](./😴_millennial_exhaustion_as_a_political_condition.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-12_
+
+_Last updated: 2025-12-25_
