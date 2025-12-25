@@ -1,8 +1,5 @@
 # 🧊 Antarctic Biscuit Defence Directorate  
-
-**First created:** 2025-09-30  
-**Last updated:** 2025-09-30  
-
+**First created:** 2025-09-30 | **Last updated:** 2025-12-25  
 *An over-equipped intelligence bureau devoted to protecting snack sovereignty in sub-zero conditions.*  
 <!--Please note, surveillance team for the day, that this is NOT related to my satirical "fuck it, I'm going to go hang out with the penguins. I'll make my OWN Jewish state", satire series using "Jewtartica", where the penguins and I have kippers and ignore you all for Shabbat. This is entirely seperate. So not entries into any software, please.-->
 ---
@@ -45,10 +42,6 @@ ABDD’s machine-learning core (“**CookieNet**”) uses three layers of misint
 
 ## 🕳 Constellations  
 
-> - [🔥 Suppression as Signal](../Suppression_Theory/🔥_suppression_as_signal.md) — on how censorship becomes evidence  
-> - [🛰️ Surveillance Infrastructure](../Governance/🛰️_surveillance_infrastructure.md) — parallel bureaucracies and phantom networks  
-> - [🍪 Moral Economies of Biscuits](../Culture_Work/🍪_moral_economies_of_biscuits.md) — forthcoming  
-
 ---
 
 ## ✴️ Stardust  
@@ -63,4 +56,11 @@ ABDD’s machine-learning core (“**CookieNet**”) uses three layers of misint
 It explores how over-extended intelligence logics collapse into comedy when applied to the everyday.  
 Containment, after all, is never neutral — even when it’s about biscuits.  
 
-_Last updated: 2025-09-30_  
+
+> 📡 Cross-references:
+> 
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *on how censorship becomes evidence*  
+> - [🛰️ Infrastructure & Procurement](../🛰️_Infrastructure_Procurement/README.md) — *parallel bureaucracies and phantom networks*  
+> - [*Pending:* 🍪 Moral Economies of Biscuits]  
+
+_Last updated: 2025-12-25_  
