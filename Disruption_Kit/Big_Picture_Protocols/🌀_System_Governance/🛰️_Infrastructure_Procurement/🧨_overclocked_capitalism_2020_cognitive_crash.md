@@ -1,6 +1,6 @@
 # 🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash  
-**First created:** 2025-12-10 | **Last updated:** 2025-12-10  
-*Why the pandemic broke the social contract of labour, and why exhausted populations now outsource cognition to LLMs without adequate safety friction.*
+**First created:** 2025-12-10 | **Last updated:** 2025-12-25  
+*Why the pandemic broke the social contract of labour, and why exhausted populations now outsource cognition to LLMs without adequate safety friction.*  
 
 ---
 
@@ -291,9 +291,11 @@ It documents how structural over-extraction, mass trauma, and economic precarity
 
 > 📡 Cross-references:  
 >   
-> - [⚙️ Overclocked Capitalism](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/⚙️_overclocked_capitalism.md) - *when economics rules the body*
+> - [⚙️ Overclocked Capitalism](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/⚙️_overclocked_capitalism.md) - *when economics rules the body*  
 > - [🧠 The Cognitive Vulnerability Stack of Lonely Men](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_the_cognitive_vulnerability_stack_of_lonely_men.md) - *the specific threats posed to all men under capitalism in overdrive, in pre-existing patriachy and white supremacy*  
+> - [🛡️ Epistemic Exhaustion as an Attack Surface](../../🌀_System_Governance/💫_Containment_Logic/🛡️_epistemic_exhaustion_as_an_attack_surface.md) — *burnout as exploitable condition*  
+> - [🧠 Cognitive Immunology](../../🦕_Elder_Influencers/🕸️_World_Webs/🧠_cognitive_immunology.md) — *fatigue as a control vector*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-*Last updated: 2025-12-10*
+_Last updated: 2025-12-25_
