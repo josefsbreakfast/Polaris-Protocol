@@ -1,6 +1,6 @@
-# 🏛️ Precedent Is Policy
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How repeated decisions quietly replace written law as the governing force*
+# 🏛️ Precedent Is Policy  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+*How repeated decisions quietly replace written law as the governing force.*  
 
 ---
 
@@ -160,15 +160,16 @@ precedent, policy by practice, elite accountability, selective enforcement, rule
 
 ## 🏮 Footer
 
-*Precedent Is Policy* is a living node of the **Polaris Protocol**.  
+*🏛️ Precedent Is Policy* is a living node of the **Polaris Protocol**.  
 It documents how repeated institutional behaviour quietly supplants written law as the true governing framework.
 
 > 📡 Cross-references:
-> - **⚖️ Non-Prosecution Teaches Impunity** — behavioural learning  
-> - **⚖️ Visibility Is Enforcement** — signalling mechanics  
-> - **🏛️ Elite Non-Prosecution Undermines the Rule of Law** — constitutional impact  
-> - **🏛️ Optics Are Not Legitimacy** — appearance vs authority  
+>
+> - [⚖️ Non-Prosecution Teaches Impunity](./⚖️_non_prosecution_teaches_impunity.md) — *behavioural learning*  
+> - [⚖️ Visibility Is Enforcement](./⚖️_visibility_is_enforcement.md) — *signalling mechanics*  
+> - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *constitutional impact*  
+> - [🏛️ Optics Are Not Legitimacy](./🏛️_optics_are_not_legitimacy.md) — *appearance vs authority*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-25_
