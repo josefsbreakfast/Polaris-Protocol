@@ -224,7 +224,7 @@ This node links directly with:
 
 > 📡 Cross-references:
 > 
-> - [🧩 Diaspora Instability Patterns]../../../(Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_diaspora_instability_patterns.md)  
+> - [🧩 Diaspora Instability Patterns](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_diaspora_instability_patterns.md)  
 > - [🧩 Identity–Stance Mismatch Architecture](../🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_stance_mismatch_architecture.md)  
 > - [🧩 Identity–Behaviour Mismatch](../🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_behaviour_mismatch.md)  
 > - [💥 Risk Vector Inversions](../🧿_Targeting_Logic_Metadata_Signatures/💥_risk_vector_inversions.md)  
