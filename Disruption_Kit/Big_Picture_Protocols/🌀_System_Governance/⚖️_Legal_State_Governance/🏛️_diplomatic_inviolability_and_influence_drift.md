@@ -1,5 +1,5 @@
 # 🏛️ Diplomatic Inviolability & Influence Drift  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
 *How protected diplomatic space enables influence without trace, and why weak process turns relationship management into policy capture.*  
 
 ---
@@ -140,10 +140,15 @@ It exists to explain how lawful diplomatic practices can, under weak process con
 
 > 📡 Cross-references:
 >
-> - [🏛️ Ministerial authority and collapse of lawful refusal] — *where influence lands*
-> - [⚖️ Judicial reviews, parliamentary committees, and procedural delay] — *why drift is not corrected*
-> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)] — *where drift mattered*
->
-> *Survivor authorship is sovereign. Containment is never neutral.*
+> - [🏛️ Ministerial Authority And Collapse Of Lawful Refusal](./🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *where influence lands*
+> - [⚖️ Judicial Reviews, Parliamentary Committees, And Procedural Delay](./⚖️_judicial_reviews_parliamentary_committees_and_procedural_delay.md) — *why drift is not corrected*
+> - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *where drift mattered*
+> - [🧵 Policy Born in Fear](../../🦕_Elder_Influencers/🕊️_Just_Boxes/🧵_policy_born_in_fear.md) — *development of post-9/11 policy by abusing human capacity for sentiment*
+> - [🫀 Empathetic Burnout and Cognitive Exhaustion](../../../../Containment_Studies/🌙_Everyday_Containment/🫀_empathetic_burnout_and_cognitive_exhaustion.md) — *the use of emotional exptraction and generation*
+> - [💔 Weaponised Empathy Gaps](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps.md) — *how to weaponise lack and belonging*
+> - [🧩 The Data Empathy Gap](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_the_data_empathy_gap.md) — *when only the machine recognises you*
+> - [🪄 Performative Empathy Economies](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪄_performative_empathy_economies.md) — *how to monetise empathy and care*  
 
-_Last updated: 2025-12-21_
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2025-12-25_
