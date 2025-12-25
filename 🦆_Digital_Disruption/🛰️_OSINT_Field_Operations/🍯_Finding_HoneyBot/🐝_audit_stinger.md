@@ -288,6 +288,26 @@ Silence or refusal to clarify constitutes a **governance risk in itself**.
 
 ---
 
+### ✈️ "Easy" Cabinet Option: PQs / PMQs  
+
+> "To ask the Minister for the Cabinet Office, whether any historical or legacy government programmes, described at the time as therapeutic, rehabilitative, preventative, or behavioural, are within the scope of current or planned safeguarding, data protection, or disclosure reviews relating to associations with Jeffrey Epstein or Epstein-linked institutions; and if so, which department holds responsibility for oversight of such reviews."
+>
+> Or:
+>
+> "To ask the Minister for the Cabinet Office, whether any historical government-endorsed programmes involving human participation and data collection — including voice, image, behavioural, or psychological data — have been assessed for relevance to safeguarding or disclosure obligations arising from publicly released Epstein-related materials."
+>
+> Or:
+>
+> "Can the Prime Minister confirm whether the Cabinet Office has reviewed any historical government-endorsed therapeutic or behavioural programmes to ensure they fall within safeguarding and data-protection reviews linked to publicly released Epstein-related material?"
+>
+> Paired with:
+>
+> "We’re not alleging wrongdoing — we’re asking Cabinet to confirm whether any historical programmes fall within safeguarding and data-disclosure review scope, so that nothing is silently excluded."
+>  
+
+
+---
+
 ## 🏮 Footer  
 
 🐝 *Audit Stinger* is part of **🛰️ OSINT Field Operations** under **🦆 Digital Disruption**.
