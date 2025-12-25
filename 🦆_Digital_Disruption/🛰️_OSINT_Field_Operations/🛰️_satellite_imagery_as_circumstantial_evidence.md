@@ -162,7 +162,9 @@ It clarifies how geospatial data functions responsibly within cumulative human-r
 >
 > - [🌀 Rule of Law Failure Cascade](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌀_rule_of_law_failure_cascade.md) — *structural context*  
 > - [🪦 CECOT as a Rights-Void Facility](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🪦_cecot_as_rights_void_facility.md)  — *application context*  
-> - [🧿 Custodial Opacity and Database Disappearance](../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧿_custodial_opacity_and_database_disappearance.md) — *traceability failure*  
+> - [🧿 Custodial Opacity and Database Disappearance](../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧿_custodial_opacity_and_database_disappearance.md) — *traceability failure*
+> - [⚠️ Prelude Conditions to Atrocity](../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/⚠️_prelude_conditions_to_atrocity.md) — *escalation analysis*
+> - [🩸 Genocide Denialism](../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/README.md) - *we never forget, because never again*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
