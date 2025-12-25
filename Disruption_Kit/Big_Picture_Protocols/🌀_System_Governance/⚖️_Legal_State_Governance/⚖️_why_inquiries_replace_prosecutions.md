@@ -1,6 +1,6 @@
-# ⚖️ Why Inquiries Replace Prosecutions
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How accountability theatre becomes a substitute for justice*
+# ⚖️ Why Inquiries Replace Prosecutions  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+*How accountability theatre becomes a substitute for justice.*  
 
 ---
 
@@ -85,14 +85,16 @@ public inquiries, accountability theatre, non-prosecution, institutional reviews
 
 ## 🏮 Footer
 
-*Why Inquiries Replace Prosecutions* is a living node of the **Polaris Protocol**.  
+*⚖️ Why Inquiries Replace Prosecutions* is a living node of the **Polaris Protocol**.  
 It documents how governance mechanisms absorb pressure while avoiding legal reckoning.
 
-> 📡 Cross-references:
-> - **⚖️ Where Prosecutorial Discretion Lives**
-> - **⚖️ We Do Have to Prosecute the Elite, Actually**
-> - **🍄 Suppression_Layers**
+> 📡 Cross-references:  
+> 
+> - [⚖️ Where Prosecutorial Discretion Lives](./⚖️_where_prosecutorial_discretion_lives.md)  
+> - [⚖️ We Do Have to Prosecute the Elite, Actually](./⚖️_we_do_have_to_prosecute_the_elite_actually.md)  
+> - [🧨 If You Don’t Prosecute, You Invite Predators](./🧨_if_you_dont_prosecute_you_invite_predators.md) — *opportunity signalling*  
+> - [⚖️ Non-Prosecution Teaches Impunity](./⚖️_non_prosecution_teaches_impunity.md) — *behavioural learning*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-25_
