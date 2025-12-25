@@ -1,6 +1,6 @@
 # 🧨 Accidental Soft-Infiltration of Early Labour Movements  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-14  
-*How middle-class norms, emotional expectations, and “respectability politics” entered labour organising unintentionally — and reshaped the movement from within.*
+**First created:** 2025-11-17 | **Last updated:** 2025-12-25  
+*How middle-class norms, emotional expectations, and “respectability politics” entered labour organising unintentionally — and reshaped the movement from within.*  
 
 ---
 
@@ -190,15 +190,15 @@ from the parts of the tradition worth keeping.
 labour movement history, soft infiltration, middle class norms, tone policing, respectability politics, class psychology, emotional suppression
 
 ## 🏮 Footer  
-*Accidental Soft-Infiltration of Early Labour Movements* is a living node of the Polaris Protocol.  
+*🧨 Accidental Soft-Infiltration of Early Labour Movements* is a living node of the Polaris Protocol.  
 It supports the **Big Picture Protocols** cluster and the **Political Homeostasis** spine by tracing inherited emotional and structural drift.
 
 > 📡 Cross-references:
 > 
-> - [🟥 Labour as the Alternative to Revolution]  
-> - [🔁 Recursive Parliamentary Containment Loop]  
-> - [💍 Two-Party System as an Old-Fashioned Marriage]  
+> - [🟥 Labour as the Alternative to Revolution](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🌹_for_the_serious_red_chaps.md)  
+> - [🔁 Recursive Parliamentary Containment Loop](../../🌀_System_Governance/💫_Containment_Logic/🔁_recursive_parliamentary_containment_loop.md)  
+> - [💍 Two-Party System as an Old-Fashioned Marriage](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/💍_two_party_system_as_an_old_fashioned_marriage.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-25_
