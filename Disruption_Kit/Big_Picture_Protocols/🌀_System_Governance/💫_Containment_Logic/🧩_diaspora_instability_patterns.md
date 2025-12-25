@@ -1,5 +1,5 @@
 # 🧩 Diaspora Instability Patterns  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
 *Why diaspora-coded users consistently break behavioural models, risk engines, PR simulations, demographic segmentation, and synthetic personas — and why this is a failure of the system, not the diaspora.*  
 
 ---
@@ -237,15 +237,17 @@ Diaspora_Misclassification · Identity_Mismatch · Trauma_Literacy · Signal_Col
 # 🏮 Footer  
 This node links directly to:
 
-- **Identity–Stance Mismatch Architecture**,  
-- **Identity–Behaviour Mismatch**,  
-- **Risk Vector Inversions**,  
-- **Systemic Vendor Failure**,  
-- **Centroid Collapse**,  
-- **Solidarity-Induced Model Failure**.
+> 📡 Cross-references:
+> 
+> - [🧩 Identity–Stance Mismatch Architecture](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_stance_mismatch_architecture.md)  
+> - [🧩 Identity–Behaviour Mismatch](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_behaviour_mismatch.md)  
+> - [💥 Risk Vector Inversions](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/💥_risk_vector_inversions.md)  
+> - [💥 Systemic Vendor Failure](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/💥_systemic_vendor_failure.md)  
+> - [🧬 Centroid Collapse](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_centroid_collapse.md)  
+> - [💥 Solidarity-Induced Model Failure](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/💥_solidarity_induced_model_failure.md)  
 
 It forms a core part of the *diaspora intelligence* cluster,  
 where Polaris maps what institutions repeatedly fail to understand  
 about people who exist across more than one world.
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-25_
