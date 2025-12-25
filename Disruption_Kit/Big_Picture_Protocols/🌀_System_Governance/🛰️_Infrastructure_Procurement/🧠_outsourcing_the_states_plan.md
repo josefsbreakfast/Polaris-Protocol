@@ -1,6 +1,6 @@
 # 🧠 Outsourcing the State’s Brain  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*Why UK defence relies on consultancies — and how strategic outsourcing erodes democratic accountability.*
+**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+*Why UK defence relies on consultancies — and how strategic outsourcing erodes democratic accountability.*  
 
 ---
 
@@ -151,15 +151,15 @@ outsourcing state capacity, uk defence consulting, strategic dependency, plausib
 
 ## 🏮 Footer  
 
-*Outsourcing the State’s Brain* is a living node of the **Polaris Protocol**.  
+*🧠 Outsourcing the State’s Brain* is a living node of the **Polaris Protocol**.  
 It documents how reliance on consultancies for strategic thought reshapes defence governance, accountability, and the balance between security and civic law.
 
 > 📡 Cross-references:
 > 
-> - [🏛️ Consultancy Power vs Democratic Safeguards](../🏛️_consultancy_power_vs_democratic_safeguards.md) — *structural incentive conflict*  
-> - [🧭 Migration Crisis as a Consultancy Revenue Environment](../🧭_migration_crisis_as_a_consultancy_revenue_environment.md) — *crisis-driven demand*  
-> - [🧬 Classification as Extraction](../🧬_classification_as_extraction_recycling_violence_through_governance_systems.md) — *how harm travels*
+> - [🏛️ Consultancy Power vs Democratic Safeguards](../⚖️_Legal_State_Governance/🏛️_consultancy_power_vs_democratic_safeguards.md) — *structural incentive conflict*  
+> - [🧭 Migration Crisis as a Consultancy Revenue Environment](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🧭_migration_crisis_as_a_consultancy_revenue_environment.md) — *crisis-driven demand*
+> - [🧬 Classification as Extraction](../⚖️_Legal_State_Governance/🧬_recycling_violence_through_governance.md) — *how harm is re-encoded*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-25_
