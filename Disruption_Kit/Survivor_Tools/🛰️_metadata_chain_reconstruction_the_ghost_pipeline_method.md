@@ -1,5 +1,5 @@
 # 🛰️ Metadata-Chain Reconstruction (The Ghost Pipeline Method)  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
 *How to rebuild the true data-processing journey from fragmentary metadata, revealing hidden vendors, unacknowledged systems, and ghost pipelines invisible to FOI/SAR statements.*  
 
 ---
@@ -306,15 +306,17 @@ Metadata_Foreensics · Ghost_Pipelines · Transparency_Warfare · Risk_Vector_In
 # 🏮 Footer  
 This node links directly to:
 
-- **Vendor Blindspot Mapping**,  
-- **Incomplete Search Diagnostics**,  
-- **Triangulated FOI/SAR Method**,  
-- **ICO-Ready Contradiction Framing**,  
-- **Institutional Panic Dynamics**,  
-- **Seven Layers of Safeguard Breakdown**.
+> 📡 Cross-references:
+> 
+> - [🛰️ Vendor Blindspot Mapping](../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_vendor_blindspot_mapping.md)  
+> - [📜 Incomplete Search Behaviour (Diagnostics)](./📱_Digital_But_Make_It_Secure/📜_incomplete_search_behaviour_diagnostics.md)  
+> - [*Pending:* Triangulated FOI/SAR Method]  
+> - [📜 ICO-Ready Contradiction Framing](./📱_Digital_But_Make_It_Secure/📜_ico_ready_contradiction_framing.md)  
+> - [💥 Institutional Panic Dynamics](../Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💥_institutional_panic_dynamics.md)  
+> - [🏚️ Seven Layers of Safeguard Breakdown](../Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_seven_layers_of_safeguard_breakdown.md)  
 
 It is the technical backbone of Polaris’s forensic toolkit —  
 the part where you stop asking institutions what happened  
 and begin *demonstrating* what happened.
 
-_Last updated: 2025-12-12_
+_Last updated: 2025-12-25_
