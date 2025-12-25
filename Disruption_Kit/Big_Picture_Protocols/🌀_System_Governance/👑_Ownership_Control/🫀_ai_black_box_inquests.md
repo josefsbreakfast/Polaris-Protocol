@@ -1,5 +1,5 @@
 # 🫀 AI Black Box Inquests  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-06 | **Last updated:** 2025-12-25  
 *Proposed framework for post-incident investigation when AI logic contributes to human harm or death.*  
 <!--This is me being Captain Subtle about the pending responses from several stakeholders.-->
 ---
@@ -365,9 +365,11 @@ It outlines a survivor-centred framework for investigating AI-linked harm throug
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Containment Contract Trace](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *systemic parallels in legal containment*  
-> - [🧬 Cloneproof](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md) — *countermeasures for algorithmic manipulation*  
+> - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *systemic parallels in legal containment*  
+> - [🧬 Cloneproof](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md) — *countermeasures for algorithmic manipulation*  
+> - [🧠 AI Ethicswash](../../🪄_Expression_Of_Norms/🙀_Chronically_Online/🧠_ai_ethicswash.md)  
+> - [🐛 Algorithmic SCP: “Glitch in the System” Meme; Unknown Class](../../../../👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/🐛_algorithmic_scp_unknown_class.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-25_
