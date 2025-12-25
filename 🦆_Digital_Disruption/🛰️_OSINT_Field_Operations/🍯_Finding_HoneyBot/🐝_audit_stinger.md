@@ -312,7 +312,15 @@ Silence or refusal to clarify constitutes a **governance risk in itself**.
 
 🐝 *Audit Stinger* is part of **🛰️ OSINT Field Operations** under **🦆 Digital Disruption**.
 
-It exists to convert documentation into **mandatory action**, and to ensure that silence is never mistaken for compliance.
+It exists to convert documentation into **mandatory action**, and to ensure that silence is never mistaken for compliance.  
+
+> 📡 Cross-references:
+>
+> *Trigger warning: the author is a CSA survivor with gallows humour on steriods (the humour, not the author).  
+> 
+> - [🍯 HoneyBot™](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🍯_honeybot_dual_use_thought_experiment.md) - *the trigger warning is for this*  
+> - [🐝 HoneyBot Underwriting Fails — and How to Rectify Them](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🐝_honeybot_underwriting_fails.md) - *because someone always funds some nonsense*  
+> - [🦤 HoneyBot: Consent-as-Service](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🦤_honeybot_consent_as_service.md) - *why we even have to check these things*  
 
 *Survivor authorship is sovereign.  
 Containment is never neutral.*  
