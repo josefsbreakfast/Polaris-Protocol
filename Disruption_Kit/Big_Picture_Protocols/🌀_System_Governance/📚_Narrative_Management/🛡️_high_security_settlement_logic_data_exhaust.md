@@ -207,7 +207,7 @@ It documents why security-critical institutions disproportionately favour early 
 > 📡 Cross-references:
 > 
 > - [♻️ Data Exhaust in UK Law](../../🦕_Elder_Influencers/📜_Statutes/♻️_data_exhaust_uk_law.md) — *legal interpretation of exhaust*  
-> - [📚 Memory, Market, and the Machinery of Data Exhaust](../📚_memory_market_machinery_of_data_exhaust.md) — *political-economic context*  
+> - [📚 Memory, Market, and the Machinery of Data Exhaust](../👑_Ownership_Control/📚_memory_market_machinery_of_data_exhaust.md) — *political-economic context*  
 > - [🧩 Institutional Defence Playbook — Data Exhaust](../💫_Containment_Logic/🧩_institutional_defence_playbook_data_exhaust.md) — *standard organisational responses*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
