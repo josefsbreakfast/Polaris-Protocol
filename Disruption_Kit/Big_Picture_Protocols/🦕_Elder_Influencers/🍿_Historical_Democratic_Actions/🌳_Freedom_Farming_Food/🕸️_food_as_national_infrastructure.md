@@ -1,6 +1,6 @@
 # 🕸️ Food as National Infrastructure  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why food should be governed like power, water, and transport — not like a discretionary market.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*Why food should be governed like power, water, and transport — not like a discretionary market.*  
 
 ---
 
@@ -175,10 +175,11 @@ It contributes a reframing lens that aligns historical memory, public intuition,
 
 > 📡 Cross-references:
 > 
-> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — survival as hard constraint  
-> - [🫏 Stewardship Without Sovereignty](./🫏_stewardship_without_sovereignty.md) — care without control  
-> - [📉 Asset-Rich, Cash-Poor Farming](./📉_asset_rich_cash_poor_farming.md) — liquidity failure under misclassification  
+> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — *survival as hard constraint*  
+> - [🫏 Stewardship Without Sovereignty](./🫏_stewardship_without_sovereignty.md) — *care without control*  
+> - [📉 Asset-Rich, Cash-Poor Farming](./📉_asset_rich_cash_poor_farming.md) — *liquidity failure under misclassification*
+> - [🧨 We Are Already Paying the Cost](../../../🌀_System_Governance/👑_Ownership_Control/🧨_we_are_already_paying_the_cost.md) — *more satisfying ways to raise money for the national coffers*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
