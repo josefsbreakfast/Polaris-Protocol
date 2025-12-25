@@ -1,6 +1,6 @@
 # 🧩 Ideal Whitehall Response Sequence — Counter-Impersonation and Oversight Integrity  
-**First created:** 2025-10-26 | **Last updated:** 2025-12-14  
-*How the UK Government should respond when a Cabinet-adjacent or security-cleared individual is impersonated or targeted through hostile-state or allied cyber operations.*
+**First created:** 2025-10-26 | **Last updated:** 2025-12-25  
+*How the UK Government should respond when a Cabinet-adjacent or security-cleared individual is impersonated or targeted through hostile-state or allied cyber operations.*  
 
 ---
 
@@ -207,15 +207,15 @@ whitehall response, impersonation, cyber attack, protective security, ncsc, uksv
 
 ## 🏮 Footer  
 
-*Ideal Whitehall Response Sequence — Counter-Impersonation and Oversight Integrity* is a diagnostic node of the **Polaris Protocol**.  
+*🧩 Ideal Whitehall Response Sequence — Counter-Impersonation and Oversight Integrity* is a diagnostic node of the **Polaris Protocol**.  
 It models the lawful and operational sequence that should protect UK officials and citizens when targeted through impersonation or digital deception.  
 
 > 📡 Cross-references:
 > 
-> - [🧿 Oversight Paralysis — When Allies Breach the Firewall]  
-> - [📨 FOI Safeguards Against Allied Cybersecurity Abuse]  
-> - [⚖️ Legal & State Governance]  
-
+> - [*Pending:* 🧿 Oversight Paralysis — When Allies Breach the Firewall]  
+> - [📨 FOI Safeguards Against Allied Cybersecurity Abuse](../../../Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📨_foi_safeguards_against_allied_cybersecurity_abuse.md)  
+> - [👑 Asserting Sovereignty After Allied Interference](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_asserting_sovereignty_after_allied_interference.md)
+> - [🌀 Containment Under Observation](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🌀_containment_under_observation.md)  
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-25_
