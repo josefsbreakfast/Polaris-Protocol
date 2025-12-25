@@ -1,6 +1,6 @@
 # 🧲 What BCG Takes from the UK … and Palestine  
-**First created:** 2025-08-04 | **Last updated:** 2025-12-14  
-*How analytical access enables extraction of population knowledge across unequal contexts — and why this creates shared downstream harm.*
+**First created:** 2025-08-04 | **Last updated:** 2025-12-25  
+*How analytical access enables extraction of population knowledge across unequal contexts — and why this creates shared downstream harm.*  
 
 ---
 
@@ -171,10 +171,15 @@ It documents how analytical access enables extraction of population-scale knowle
 
 > 📡 Cross-references:
 > 
-> - [🛑 GHF Is a Weapon] — *pacification and narrative arrest*  
+> - [🛑 GHF Is a Weapon](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🛑_ghf_is_a_weapon.md) — *pacification and narrative arrest*  
 > - [🧬 Classification as Extraction] — *how harm is re-encoded*  
-> - [🧪 Occupation as R&D Environment] — *unequal testing grounds for dual-use systems*
+> - [*Pending:* 🧪 Occupation as R&D Environment] — *unequal testing grounds for dual-use systems*  
+> - [🩸 Genocide Denialism: 🍉 Palestine](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/README.md)
+> - [🇬🇧 Flags, False Catharsis, and the Thing We Refused to Say](../📚_Narrative_Management/🇬🇧_flags_and_false_catharsis.md)
+> - [🍉 Your Voice Is Your Vote](../📚_Narrative_Management/🍉_your_voice_is_your_vote.md)  
+> - [✂🌹 Machine Pruning Logic](../../🦕_Elder_Influencers/🕊️_Just_Boxes/✂🌹_machine_pruning_logic.md)
+> - [🧬 The Policies We Never Reckoned With](../../🦕_Elder_Influencers/🕊️_Just_Boxes/🧬_the_policies_we_never_reckoned_with.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-25_
