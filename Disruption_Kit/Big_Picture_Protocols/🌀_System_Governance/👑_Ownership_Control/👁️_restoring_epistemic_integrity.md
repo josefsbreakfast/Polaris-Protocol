@@ -1,5 +1,5 @@
 # 👁️ Restoring Epistemic Integrity  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-25  
 *How institutions rebuild the ability to interpret reality after collapse — reconstructing signal literacy, narrative coherence, meaning-making, and moral sight.*  
 
 ---
@@ -228,14 +228,17 @@ Epistemic_Restoration · Institutional_Reconstruction · Narrative_Coherence · 
 This is the capstone of the *Institutional Collapse → Reconstruction* constellation.  
 It completes the arc that began with:
 
-- **Identity–Stance Mismatch**,  
-- **Ghost Persona Collapse**,  
-- **Signal Collapse**,  
-- **Institutional Panic**,  
-- **Full-Stack Failure**,  
-- **Seven Safeguard Breakdown Layers**,  
-- **Reconstruction Logic**,  
-- **Corrective Governance**,  
+> 📡 Cross-references:
+> 
+> - [🧩 Identity–Stance Mismatch Architecture](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_stance_mismatch_architecture.md)  
+> - [👻 Ghost Persona Error Modes](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/👻_ghost_persona_error_modes.md)  
+> - [🦤 Signal Collapse](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🦤_signal_collapse.md)  
+> - [💥 Institutional Panic Dynamics](../💫_Containment_Logic/💥_institutional_panic_dynamics.md)  
+> - [🧬 Centroid Collapse](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_centroid_collapse.md)  
+> - [*Pending:* 🏚️ Full-Stack Institutional Failure]  
+> - [🏚️ Seven Layers of Safeguard Breakdown](../💫_Containment_Logic/🏚️_seven_layers_of_safeguard_breakdown.md)  
+> - [*Pending:* 🧱 Reconstruction Logic]  
+> - [🏗️ Corrective Governance Architecture](../💫_Containment_Logic/🏗️_corrective_governance_architecture.md)  
 
 and concludes with:
 
@@ -243,4 +246,4 @@ and concludes with:
 
 This is where Polaris ends this chapter.
 
-_Last updated: 2025-12-09_
+_Last updated: 2025-12-25_
