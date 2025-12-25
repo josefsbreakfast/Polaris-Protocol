@@ -1,6 +1,6 @@
 # 🌀 Self-Consuming Cycles — When Systems Eat Their Own Ethics  
-**First created:** 2025-10-25 | **Last updated:** 2025-10-31  
-*How bureaucratic, psychological, and technological structures metabolise critique into fuel.*
+**First created:** 2025-10-25 | **Last updated:** 2025-12-25  
+*How bureaucratic, psychological, and technological structures metabolise critique into fuel.*  
 
 ---
 
@@ -78,10 +78,10 @@ and offers methods to name and interrupt repetition.
 
 > 📡 Cross-references:
 > 
-> - [🤦‍♀️ Operation Shande — the bureaucratic shame engine] *TBC*  
-> - [🪖 Moral Injury & Veterans] *TBC*  
-> - [🔥 Suppression as Signal] *TBC*  
+> - [🩸 Operation Shande](../📚_Narrative_Management/🩸_operation_shande.md)  
+> - [🪖 Collateral Shame: Moral Injury, Veterans, & the Counterinsurgency Age](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪖_collateral_shame.md)  
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
 
 *Recognition is not enough; the loop breaks only when the appetite for its own virtue runs out.*
 
-_Last updated: 2025-10-31_
+_Last updated: 2025-12-25_
