@@ -1,7 +1,7 @@
 # 🐼 The Metropolitan Rabble  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
 *Why the Met looks less like a disciplined force and more like authority without internal coherence — and why that explains more than “corruption” ever did.*  
-
+<!--It is healthy to laugh at ourselves; please see previously generated 2 million words. You got this.-->
 ---
 
 > "They reckon you've got concussion...
@@ -196,10 +196,12 @@ It contributes institutional analysis on why the Met’s behaviour is better exp
 
 > 📡 Cross-references:
 > 
-> - [🎭 Procedure Without Legitimacy] — *rule-following after trust collapses*  
-> - [🧨 Where Revolutions Actually Come From] — *overreaction and fantasy risk*  
-> - [🚜 Tools Are Not Costumes] — *protest optics and enforcement failure*  
+> - [🎭 Procedure Without Legitimacy](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🎭_procedure_without_legitimacy.md) — *rule-following after trust collapses*  
+> - [🧨 Where Revolutions Actually Come From](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🧨_where_revolutions_actually_come_from.md) — *overreaction and fantasy risk*  
+> - [🚜 Tools Are Not Costumes](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🚜_tools_are_not_costumes.md) — *protest optics and enforcement failure*
+> - [🕊️ Just Boxes](../../🦕_Elder_Influencers/🕊️_Just_Boxes/README.md) — *boxes we justify putting people in*
+> - [☘️ The Good Friday Agreement and Palestine Action Prisoners](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/☘️_the_good_friday_agreement_and_palestine_action_prisoners.md) — *why whoever is the sticky wicket on policy or resource could do with a careful test-wobble*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2025-12-25_
