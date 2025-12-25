@@ -1,4 +1,4 @@
-# 🧬 Transparency as Antigenic Defense  
+# 🧬 Transparency as Antigenic Defence  
 **First created:** 2025-11-05 | **Last updated:** 2025-12-19  
 *How democratic transparency functions as an immune response to misinformation and authoritarian anxiety.*  
 
@@ -97,12 +97,12 @@ a ready‑made dose of IgG transparency that neutralises panic while the broader
 ---
 
 ## ✨ Stardust  
-transparency, disinformation, autoimmunity, democracy, antigenic defense, governance health, citizen journalism, civic metabolism, information ecology  
+transparency, disinformation, autoimmunity, democracy, antigenic defence, governance health, citizen journalism, civic metabolism, information ecology  
 
 ---
 
 ## 🏮 Footer  
-*🧬 Transparency as Antigenic Defense* is a living node of the **Polaris Protocol**.  
+*🧬 Transparency as Antigenic Defence* is a living node of the **Polaris Protocol**.  
 It reframes disclosure not as risk but as metabolism — the way democracies stay alive by processing their own mistakes in daylight.  
 
 > 📡 Cross-references:
