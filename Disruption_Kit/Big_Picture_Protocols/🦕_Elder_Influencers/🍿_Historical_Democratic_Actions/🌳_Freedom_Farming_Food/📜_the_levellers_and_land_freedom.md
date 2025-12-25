@@ -1,6 +1,6 @@
 # 📜 The Levellers and Land Freedom  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why land, food, and political voice were never separate questions — and why that argument keeps returning.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*Why land, food, and political voice were never separate questions — and why that argument keeps returning.*  
 
 ---
 
@@ -10,7 +10,7 @@ The Levellers are often remembered as a constitutional movement: votes, represen
 
 That memory is incomplete.
 
-For the **[Levellers](chatgpt://generic-entity?number=0)**, political liberty without material survival was a contradiction.  
+For the **Levellers**, political liberty without material survival was a contradiction.  
 Land access, food security, and freedom were understood as a single problem — not three adjacent ones.
 
 This node traces how land freedom functioned as a **precondition** of democracy in Leveller thought, and why that framing resurfaces whenever subsistence is threatened.
@@ -19,7 +19,7 @@ This node traces how land freedom functioned as a **precondition** of democracy 
 
 ## 🧿 What the Levellers were actually arguing  
 
-Leveller texts and agitation emerged during the **[English Civil War](chatgpt://generic-entity?number=1)**, when authority was visibly unstable and legitimacy openly contested.
+Leveller texts and agitation emerged during the **English Civil War**, when authority was visibly unstable and legitimacy openly contested.
 
 Their core position can be summarised simply:
 
@@ -122,8 +122,8 @@ That insight is four centuries old — and repeatedly rediscovered the hard way.
 📜 🏹 🌳 🍞 ⚖️ — land freedom, commons, food, legitimacy, democratic voice  
 
 *Further reading / viewing:*  
-- *[Levellers](chatgpt://generic-entity?number=2)* — pamphlets and demands on land and liberty  
-- *[English Civil War](chatgpt://generic-entity?number=3)* — legitimacy collapse and survival politics  
+- *Levellers* — pamphlets and demands on land and liberty  
+- *English Civil War* — legitimacy collapse and survival politics  
 - *E.P. Thompson on moral economy* — subsistence as political floor  
 - *Commons and enclosure histories* — material roots of democratic resistance  
 
@@ -142,10 +142,12 @@ It contributes historical analysis on why land access and food security function
 
 > 📡 Cross-references:
 > 
-> - [🏹 The Commons and Collective Survival](./🏹_the_commons_and_collective_survival.md) — shared land as survival infrastructure  
-> - [✂️ Enclosure as Efficiency Theatre](./✂️_enclosure_as_efficiency_theatre.md) — abstraction versus subsistence  
-> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — food as a hard constraint on governance  
+> - [🏹 The Commons and Collective Survival](./🏹_the_commons_and_collective_survival.md) — *shared land as survival infrastructure*  
+> - [✂️ Enclosure as Efficiency Theatre](./✂️_enclosure_as_efficiency_theatre.md) — *abstraction versus subsistence*  
+> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — *food as a hard constraint on governance*  
+> - [🌱 Land Trusts & Custodianship Models](./🌱_land_trusts_custodianship_models.md) - *exploring present and historical alternatives to current land law*  
+> - [🕸️ Food as National Infrastructure](./🕸️_food_as_national_infrastructure.md) — *continuity obligations*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
