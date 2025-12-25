@@ -1,5 +1,5 @@
 # 😴 Millennial Exhaustion as a Political Condition  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-25  
 *How a generation raised under permanent crisis became too tired to revolt, too traumatised to trust stability, and permanently convinced every building should be housing.*  
 
 ---
@@ -193,10 +193,12 @@ It contributes to the **Big Picture Protocols** cluster by tracing generational 
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Transitional Change vs Rapid Revolutionary Shock]  
-> - [🧨 Accidental Soft-Infiltration of Early Labour Movements]  
-> - [💍 Two-Party System as an Old-Fashioned Marriage]  
+> - [⚖️ Transitional Change vs Rapid Revolutionary Shock](../../🦕_Elder_Influencers/🕸️_World_Webs/⚖️_transitional_change_vs_rapid_revolutionary_shock.md)  
+> - [🧨 Accidental Soft-Infiltration of Early Labour Movements](../../🦕_Elder_Influencers/🕸️_World_Webs/🧨_accidental_soft_infiltration_of_early_labour_movements.md)  
+> - [💍 Two-Party System as an Old-Fashioned Marriage](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/💍_two_party_system_as_an_old_fashioned_marriage.md)  
+> - [📊 Gen Z Procedural Protest & Spreadsheet Organising](../🌱_Human_Principles/📊_gen_z_procedural_protest.md)  
+> - [📱 Millennials as Phone-Dependent Protest Liability](../🌱_Human_Principles/📱_millennials_phone_dependent_protest_liability.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2025-12-25_
