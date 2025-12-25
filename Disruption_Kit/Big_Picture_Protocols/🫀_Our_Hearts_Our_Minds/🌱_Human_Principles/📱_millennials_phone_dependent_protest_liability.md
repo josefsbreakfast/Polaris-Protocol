@@ -213,7 +213,7 @@ It supports the **Generational Dynamics** and **Containment Studies** clusters b
 > - [📊 Gen Z Procedural Protest & Spreadsheet Organising](./📊_gen_z_procedural_protest.md)
 >
 >   For my fellow millenials:
-> - [⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md) - *looks like housing to me...*  
+> - [⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure](../../🌀_System_Governance/👑_Ownership_Control/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md) - *looks like housing to me...*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
