@@ -1,6 +1,6 @@
-# 🛰️ Crash Constellation Overview
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-06  
-*Orientation and index for the ten-node Crash Constellation of the Polaris Protocol.*
+# 🛰️ Crash Constellation Overview  
+**First created:** 2025-11-06  |  **Last updated:** 2025-12-25  
+*Orientation and index for the ten-node Crash Constellation of the Polaris Protocol.*  
 
 ---
 
@@ -55,8 +55,8 @@ It serves as the master index for the ten-node crash cycle, mapping how loss is 
 
 > 📡 Cross-references:  
 > - [🗺️ Crash Constellation Mermaid Diagram](./🗺️_crash_constellation_mermaid_diagram.md) — visual schema  
-> - [🔥 Suppression as Signal](../Disruption_Kit/Big_Picture_Protocols/🔥_Suppression_as_Signal.md) — conceptual root  
+> - [🔥 Suppression as Signal](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — conceptual root  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2025-12-25_
