@@ -1,6 +1,6 @@
 # 📨 FOI Draft — Safeguards Against Allied Cybersecurity Abuse  
-**First created:** 2025-10-26 | **Last updated:** 2025-12-10  
-*Suggested FOI wording to request UK Government assurances on citizen data protection in allied cybersecurity cooperation, with reference to Israel’s Emergency Regulations (Defence) 1945 and related emergency-powers frameworks.*
+**First created:** 2025-10-26 | **Last updated:** 2025-12-25  
+*Suggested FOI wording to request UK Government assurances on citizen data protection in allied cybersecurity cooperation, with reference to Israel’s Emergency Regulations (Defence) 1945 and related emergency-powers frameworks.*  
 
 ---
 
@@ -95,10 +95,11 @@ It models a lawful and respectful route for citizens to request transparency on 
 
 > 📡 Cross-references:
 > 
-> - [🧿 Oversight Paralysis — When Allies Breach the Firewall]  
-> - [⚖️ Legal & State Governance]  
-> - [Survivor Tools]  
+> - [*Pending:* 🧿 Oversight Paralysis — When Allies Breach the Firewall]  
+> - [👑 Asserting Sovereignty After Allied Interference](../../Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_asserting_sovereignty_after_allied_interference.md)
+> - [🌀 Containment Under Observation](../../Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🌀_containment_under_observation.md)
+> - [🩸 Operation Shande](../../Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🩸_operation_shande.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2025-12-25_
