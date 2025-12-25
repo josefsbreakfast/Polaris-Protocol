@@ -1,6 +1,6 @@
 # ✈️ Who Wants These Creeps in Charge?  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
-*On legitimacy, moral authority, and the collapse of consent.*
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+*On legitimacy, moral authority, and the collapse of consent.*  
 
 ---
 
@@ -165,8 +165,16 @@ It names the legitimacy crisis that follows when power protects itself instead o
 
 Consent is not infinite.  
 Authority is not automatic.  
-And trust, once broken, must be earned again.
+And trust, once broken, must be earned again.  
+
+> 📡 Cross-references:  
+> 
+> - [✈️ Genocides and Paedophiles](./✈️_genocides_and_paedophiles.md) — *how democracy got hollowed out for... this*  
+> - [🗄️ Epstein Files Are Red Herrings](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗄️_epstein_files_are_red_herrings.md) — *misdirection through disclosure*  
+> - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)](../⚖️_Legal_State_Governance/🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md)  
+> - [🧬 Distributed Complicity In Modern Warfare](./🧬_distributed_complicity_in_modern_warfare.md) — *why “just observing” becomes material support*  
+> - [🧬 What a CSA System Optimised for Prevention Looks Like](../⚖️_Legal_State_Governance/🧬_what_a_csa_system_optimised_for_prevention_looks_like.md) — *design-first thinking*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2025-12-25_
