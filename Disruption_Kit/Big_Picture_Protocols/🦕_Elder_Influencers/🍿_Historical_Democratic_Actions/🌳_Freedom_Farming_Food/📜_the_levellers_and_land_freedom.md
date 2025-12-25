@@ -146,7 +146,8 @@ It contributes historical analysis on why land access and food security function
 > - [✂️ Enclosure as Efficiency Theatre](./✂️_enclosure_as_efficiency_theatre.md) — *abstraction versus subsistence*  
 > - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — *food as a hard constraint on governance*  
 > - [🌱 Land Trusts & Custodianship Models](./🌱_land_trusts_custodianship_models.md) - *exploring present and historical alternatives to current land law*  
-> - [🕸️ Food as National Infrastructure](./🕸️_food_as_national_infrastructure.md) — *continuity obligations*  
+> - [🕸️ Food as National Infrastructure](./🕸️_food_as_national_infrastructure.md) — *continuity obligations*
+> - [🥨 Bread No Roses](../🥨_Bread_No_Roses/README.md) — *food-as-politics in 2025*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
