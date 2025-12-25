@@ -1,6 +1,6 @@
 # 🐈‍⬛ Workers Don’t Abandon Workers  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why excluding farmers from “worker” politics was a strategic error — and how it enabled capture.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*Why excluding farmers from “worker” politics was a strategic error — and how it enabled capture.*  
 
 ---
 
@@ -175,10 +175,12 @@ It contributes corrective analysis on how excluding food producers from worker s
 
 > 📡 Cross-references:
 > 
-> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — survival before ideology  
-> - [🏹 The Commons and Collective Survival](./🏹_the_commons_and_collective_survival.md) — shared risk foundations  
-> - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — responsibility without control  
+> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — *survival before ideology*  
+> - [🏹 The Commons and Collective Survival](./🏹_the_commons_and_collective_survival.md) — *shared risk foundations*  
+> - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — *responsibility without control*
+> - [✂️ Engineered Disjuncture of Allies](../../../🌀_System_Governance/💫_Containment_Logic/✂️_engineered_disjuncture_of_allies.md) - *how "divide and conquer" is used to make it harder to just eat berries and vibe*
+> - [🐙 The Octopus of Knowledge](../../../../../🦆_Digital_Disruption/🐝_All_In_Commons/🐙_the_octopus_of_knowledge.md) - *why we all need to talk and listen, even us city folk who read all the books (especially us)*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
