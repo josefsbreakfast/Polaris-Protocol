@@ -99,8 +99,8 @@ It maps the pressure points where prosecutorial discretion collapses under exter
 
 > 📡 Cross-references:  
 > 
-> - [⚖️ How the CPS Operates](./⚖️_how_the_cps_operates.md)  
-> - [⚖️ Where Prosecutorial Discretion Lives](./⚖️_where_prosecutorial_discretion_lives.md)  
+> - [⚖️ How the CPS Operates](./⚖️_how_the_cps_operates.md) - *what "independence" actually means*  
+> - [⚖️ We Do Have to Prosecute the Elite, Actually](./⚖️_we_do_have_to_prosecute_the_elite_actually.md) — *accountability as public good*  
 > - [🏛️ Reputation Management Is Not Governance](./🏛️_reputation_management_is_not_governance.md) — *optics vs authority*  
 > - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *constitutional effects*  
 
