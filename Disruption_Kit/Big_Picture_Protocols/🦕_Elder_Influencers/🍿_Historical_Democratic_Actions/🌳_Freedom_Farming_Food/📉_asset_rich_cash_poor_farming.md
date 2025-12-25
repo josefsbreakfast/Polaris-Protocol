@@ -175,7 +175,10 @@ It contributes structural analysis on how treating productive land as liquid wea
 > 
 > - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — *extraction without situational intelligence*  
 > - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — *title divorced from responsibility*  
-> - [🤝 Workers Don’t Abandon Workers](./🤝_workers_dont_abandon_workers.md) — *class misclassification and capture*  
+> - [🐈‍⬛ Workers Don’t Abandon Workers](./🐈‍⬛_workers_dont_abandon_workers.md) — *class misclassification and capture*
+> - [🫏 Stewardship Without Sovereignty](./🫏_stewardship_without_sovereignty.md) — *responsibility without control*  
+> - [🕸️ Food as National Infrastructure](./🕸️_food_as_national_infrastructure.md) — *continuity obligations*  
+> - [🐄 Land Scarcity and Space Dignity](../../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐄_land_scarcity_and_space_dignity.md) - *exploring the "no-room" myth*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
