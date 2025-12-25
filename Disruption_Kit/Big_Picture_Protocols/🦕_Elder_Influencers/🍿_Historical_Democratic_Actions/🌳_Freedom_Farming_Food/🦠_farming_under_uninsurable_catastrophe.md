@@ -1,6 +1,6 @@
 # 🦠 Farming Under Uninsurable Catastrophe  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*How disease policy, compulsory culls, and insurance failure force rational people into crisis behaviour.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*How disease policy, compulsory culls, and insurance failure force rational people into crisis behaviour.*  
 
 ---
 
@@ -173,10 +173,12 @@ It contributes structural analysis on how misallocated risk in disease policy de
 
 > 📡 Cross-references:
 > 
-> - [📉 Asset-Rich, Cash-Poor Farming](./📉_asset_rich_cash_poor_farming.md) — liquidity fragility  
-> - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — responsibility without protection  
-> - [🤝 Workers Don’t Abandon Workers](./🤝_workers_dont_abandon_workers.md) — labour under structural risk  
+> - [📉 Asset-Rich, Cash-Poor Farming](./📉_asset_rich_cash_poor_farming.md) — *liquidity fragility*  
+> - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — *responsibility without protection*  
+> - [🐈‍⬛ Workers Don’t Abandon Workers](./🐈‍⬛_workers_dont_abandon_workers.md) — *labour under structural risk*
+> - [🕸️ Food as National Infrastructure](./🕸️_food_as_national_infrastructure.md) — *continuity obligations*
+> - [🧨 Real vs Fake Duty of Care](../../../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧨_real_vs_fake_duty_of_care.md) — *the language of "concern" vs the real politics of embodied, compassionate, person-centred care (aka "giving a shit")*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
