@@ -170,7 +170,7 @@ ministerial responsibility, civilian control, lawful orders, manifestly unlawful
 
 ## 🏮 Footer
 
-*🏛️ Ministerial authority and the collapse of lawful refusal* is a core structural node in the **Polaris Protocol**.
+*🏛️ Ministerial Authority And The Collapse Of Lawful Refusal* is a core structural node in the **Polaris Protocol**.
 
 It exists to explain **why downstream actors could not stop**, even when they could see harm, and why responsibility therefore concentrates at the point of ministerial decision.
 
