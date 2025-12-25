@@ -1,6 +1,6 @@
 # ✂️ Enclosure as Efficiency Theatre  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*How “efficiency” became the moral cover for dispossession — and why the script still runs.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*How “efficiency” became the moral cover for dispossession — and why the script still runs.*  
 
 ---
 
@@ -157,7 +157,7 @@ When climate, disease, or market volatility hits, the costs return — not as th
 *Further reading / viewing:*  
 - *English enclosure histories* — how “improvement” justified dispossession  
 - *E.P. Thompson, enclosure and moral economy* — survival norms vs abstraction  
-- *[Levellers](chatgpt://generic-entity?number=0)* — political resistance to land abstraction  
+- *Levellers* — political resistance to land abstraction  
 - *Modern agribusiness consolidation reports* — enclosure logic in contemporary form  
 
 ---
@@ -175,10 +175,10 @@ It contributes historical and structural analysis on how efficiency narratives r
 
 > 📡 Cross-references:
 > 
-> - [🏹 The Commons and Collective Survival](./🏹_the_commons_and_collective_survival.md) — shared land as survival infrastructure  
-> - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — title detached from responsibility  
-> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — procedural legitimacy collapse  
+> - [🏹 The Commons and Collective Survival](./🏹_the_commons_and_collective_survival.md) — *shared land as survival infrastructure*  
+> - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — *title detached from responsibility*  
+> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — *procedural legitimacy collapse*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
