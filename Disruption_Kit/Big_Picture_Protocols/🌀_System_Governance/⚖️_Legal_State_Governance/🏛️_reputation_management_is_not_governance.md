@@ -1,6 +1,6 @@
-# 🏛️ Reputation Management Is Not Governance
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Why substituting image control for accountability corrodes state capacity and democratic trust*
+# 🏛️ Reputation Management Is Not Governance  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+*Why substituting image control for accountability corrodes state capacity and democratic trust.*  
 
 ---
 
@@ -163,15 +163,16 @@ reputation management, governance failure, accountability substitution, nda cult
 
 ## 🏮 Footer
 
-*Reputation Management Is Not Governance* is a living node of the **Polaris Protocol**.  
+*🏛️ Reputation Management Is Not Governance* is a living node of the **Polaris Protocol**.  
 It documents how substituting image control for accountability undermines state capacity and democratic legitimacy.
 
 > 📡 Cross-references:
-> - **⚖️ Inquiries Are a Pressure Release Valve** — optics over enforcement  
-> - **⚖️ Risk Aversion Is Policy** — avoidance as governance choice  
-> - **🏛️ Elite Non-Prosecution Undermines the Rule of Law** — constitutional effects  
-> - **⚖️ Elite Impunity Is a National Security Risk** — downstream exposure  
+>
+> - [⚖️ Inquiries Are a Pressure Release Valve](./⚖️_inquiries_are_a_pressure_release_valve.md) — *optics over enforcement*  
+> - [⚖️ Risk Aversion Is Policy](./⚖️_risk_aversion_is_policy.md) — *avoidance as governance choice*  
+> - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *constitutional effects*  
+> - [⚖️ Elite Impunity Is a National Security Risk](./⚖️_elite_impunity_is_a_national_security_risk.md) — *downstream exposure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-25_
