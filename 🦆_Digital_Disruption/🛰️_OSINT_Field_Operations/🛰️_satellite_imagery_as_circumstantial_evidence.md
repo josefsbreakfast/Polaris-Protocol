@@ -1,7 +1,6 @@
-# 🛰️ Satellite Imagery as Circumstantial Evidence
-
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*How geospatial anomalies function as corroborative evidence in closed systems*
+# 🛰️ Satellite Imagery as Circumstantial Evidence  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+*How geospatial anomalies function as corroborative evidence in closed systems.*  
 
 ---
 
@@ -161,10 +160,10 @@ It clarifies how geospatial data functions responsibly within cumulative human-r
 
 > 📡 Cross-references:
 >
-> * [🌀 Rule of Law Failure Cascade] — structural context
-> * [🪦 CECOT as a Rights-Void Facility]  — application context
-> * [🧿 Custodial Opacity and Database Disappearance] — traceability failure
+> - [🌀 Rule of Law Failure Cascade](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌀_rule_of_law_failure_cascade.md) — *structural context*  
+> - [🪦 CECOT as a Rights-Void Facility](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🪦_cecot_as_rights_void_facility.md)  — *application context*  
+> - [🧿 Custodial Opacity and Database Disappearance](../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧿_custodial_opacity_and_database_disappearance.md) — *traceability failure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+_Last updated: 2025-12-14_
