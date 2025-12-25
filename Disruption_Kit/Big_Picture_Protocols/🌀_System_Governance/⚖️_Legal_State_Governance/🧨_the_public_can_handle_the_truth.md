@@ -1,5 +1,5 @@
 # 🧨 The Public Can Handle the Truth
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
 *Why withholding reality in the name of stability produces fragility, not safety*
 
 ---
@@ -168,15 +168,16 @@ public trust, transparency, truth disclosure, institutional fear, accountability
 
 ## 🏮 Footer
 
-*The Public Can Handle the Truth* is a living node of the **Polaris Protocol**.  
+*🧨 The Public Can Handle the Truth* is a living node of the **Polaris Protocol**.  
 It documents why withholding reality in the name of stability produces long-term fragility and democratic risk.
 
 > 📡 Cross-references:
-> - **🏛️ Reputation Management Is Not Governance** — optics vs authority  
-> - **⚖️ Inquiries Are a Pressure Release Valve** — managed containment  
-> - **🏛️ Soft Power Dies in Silence** — international credibility loss  
-> - **🏛️ Impunity Creates Authoritarian Openings** — legitimacy collapse  
+>
+> - [🏛️ Reputation Management Is Not Governance](./🏛️_reputation_management_is_not_governance.md) — *optics vs authority*  
+> - [⚖️ Inquiries Are a Pressure Release Valve](./⚖️_inquiries_are_a_pressure_release_valve.md) — *managed containment*  
+> - [🏛️ Soft Power Dies in Silence](./🏛️_soft_power_dies_in_silence.md) — *international credibility loss*  
+> - [🏛️ Impunity Creates Authoritarian Openings](./🏛️_impunity_creates_authoritarian_openings.md) — *legitimacy collapse*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-25_
