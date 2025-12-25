@@ -163,7 +163,8 @@ It contributes historical analysis on why shared land arrangements repeatedly re
 > - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — *extraction beyond survival limits*  
 > - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — *food as a hard constraint on governance*
 > - [🇬🇧 Diet Authoritarianism: UK Homebrew](../../../🌀_System_Governance/💫_Containment_Logic/🇬🇧_diet_authoritarianism_uk_homebrew.md) - *why sometimes a little bit of impoliteness now can save a lot of impoliteness later*
-> - [🧠 Institutional Weather Systems](../../../🌀_System_Governance/💫_Containment_Logic/🧠_institutional_weather_systems.md) - *how the state can be read like the sky*  
+> - [🧠 Institutional Weather Systems](../../../🌀_System_Governance/💫_Containment_Logic/🧠_institutional_weather_systems.md) - *how the state can be read like the sky*
+> - [📜 The Levellers and Land Freedom](./📜_the_levellers_and_land_freedom.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
