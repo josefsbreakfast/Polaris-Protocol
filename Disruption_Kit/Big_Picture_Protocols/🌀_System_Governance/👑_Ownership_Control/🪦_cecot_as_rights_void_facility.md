@@ -1,7 +1,6 @@
-# 🪦 CECOT as a Rights-Void Facility
-
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*Why offshored detention collapses safeguards even without explicit illegality*
+# 🪦 CECOT as a Rights-Void Facility  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+*Why offshored detention collapses safeguards even without explicit illegality.*  
 
 ---
 
@@ -143,15 +142,15 @@ cecot, offshored detention, rights-void facility, effective control, torture ris
 
 ## 🏮 Footer
 
-*CECOT as a Rights-Void Facility* is a living node of the **Polaris Protocol**.
+*🪦 CECOT as a Rights-Void Facility* is a living node of the **Polaris Protocol**.
 It documents how offshored detention collapses enforceable rights while preserving formal legality.
 
 > 📡 Cross-references:
 >
-> * [🌀 Rule of Law Failure Cascade] — structural sequence
-> * [🧿 Custodial Opacity and Database Disappearance] — traceability loss
-> * [🛰️ Satellite Imagery as Circumstantial Evidence] — corroborative OSINT
+> - [🌀 Rule of Law Failure Cascade](../⚖️_Legal_State_Governance/🌀_rule_of_law_failure_cascade.md) — *structural sequence*  
+> - [🧿 Custodial Opacity and Database Disappearance](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧿_custodial_opacity_and_database_disappearance.md) — *traceability loss*  
+> - [🛰️ Satellite Imagery as Circumstantial Evidence](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md) — *corroborative OSINT*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+_Last updated: 2025-12-25_
