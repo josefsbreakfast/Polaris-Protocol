@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-25 23:03:11 UTC_
+_Generated on 2025-12-25 23:41:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3970,6 +3970,7 @@ _Generated on 2025-12-25 23:03:11 UTC_
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
     - [`🔕_the_silence_clause.md`](Polaris_Nest/Git_Intake_Drawer/🔕_the_silence_clause.md)
+    - [`🔥_limits_of_harm_reduction.md`](Polaris_Nest/Git_Intake_Drawer/🔥_limits_of_harm_reduction.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
