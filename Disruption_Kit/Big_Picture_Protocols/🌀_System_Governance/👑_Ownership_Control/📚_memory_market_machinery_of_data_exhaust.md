@@ -1,6 +1,6 @@
 # 📚 Memory, Market, and the Machinery of Data Exhaust  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*How capitalism converts memory, behaviour, and cultural residue into extractable value.*
+**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+*How capitalism converts memory, behaviour, and cultural residue into extractable value.*  
 
 ---
 
@@ -197,10 +197,10 @@ It situates data exhaust within a longer history of capitalist extraction, cultu
 
 > 📡 Cross-references:
 > 
-> - [♻️ Data Exhaust in UK Law] — legal diagnostics and regulatory framing  
-> - [🛡️ High-Security Settlement Logic] — institutional risk behaviour  
-> - [📚 The Library Book] — civic memory vs platform extraction (conceptual link)
+> - [♻️ Data Exhaust in UK Law](../../🦕_Elder_Influencers/📜_Statutes/♻️_data_exhaust_uk_law.md) — *legal diagnostics and regulatory framing*  
+> - [🛡️ High-Security Settlement Logic in Data-Exhaust Cases](../📚_Narrative_Management/🛡️_high_security_settlement_logic_data_exhaust.md) — *institutional risk behaviour*  
+> - [📚 Libraries, Metrics, and the One-Book Civic Hack](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/📚_libraries_metrics_and_the_one_book_civic_hack.md) — *civic memory vs platform extraction (conceptual link)*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-25_
