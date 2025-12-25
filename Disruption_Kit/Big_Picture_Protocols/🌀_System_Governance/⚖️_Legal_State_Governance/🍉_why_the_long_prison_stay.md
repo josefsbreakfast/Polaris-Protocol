@@ -1,5 +1,5 @@
-# 🍉 Why The Long Prison Stay  
-**First created:** 2025-12-19 | **Last updated:** 2025-12-21  
+# 🍉 Why The Long Prison Stay?  
+**First created:** 2025-12-19 | **Last updated:** 2025-12-25  
 *How prolonged remand happens, why it is exceptional, and what it costs the taxpayer.*  
 
 ---
@@ -357,10 +357,13 @@ It documents how prolonged remand emerges, why it is exceptional, and why it is 
 
 > 📡 Cross-references:
 > 
-> - [🔥 Hunger Strike Comparisons]  
-> - [📊 Risk, Capital, and Hunger Strikes]  
-> - [⚖️ Legal State Governance]  
+> - [🔥 Hunger Strike Comparisons](./🔥_hunger_strike_comparisons.md)  
+> - [📊 Risk, Capital, and Hunger Strikes](./📊_risk_capital_and_hunger_strikes.md)  
+> - [⚖️ Case Study: Palestine Action & Proscription Under Legal Ambiguity](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_palestine_action_proscription_case_study.md)  
+> - [⚖️ Elbit Systems UK — Legal & Control Structure](./⚖️_elbit_systems_uk_legal_structure.md)  
+> - [⚖️ Presumption of Innocence and the Limits of Exceptional Power](./⚖️_presumption_of_innocence_and_the_limits_of_exceptional_power.md)  
+> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-25_
