@@ -1,6 +1,6 @@
 # 💥 Solidarity-Induced Model Failure  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
-*How cross-group solidarity between communities the system assumes to be oppositional causes predictive models, risk engines, sentiment simulators, and political messaging tools to collapse.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
+*How cross-group solidarity between communities the system assumes to be oppositional causes predictive models, risk engines, sentiment simulators, and political messaging tools to collapse.*  
 
 ---
 
@@ -222,15 +222,18 @@ Diaspora_Misclassification · Identity_Mismatch · Synthetic_Personae · Signal_
 # 🏮 Footer  
 This node links directly with:
 
-- **Diaspora Instability Patterns**,  
-- **Identity–Stance Mismatch Architecture**,  
-- **Identity–Behaviour Mismatch**,  
-- **Risk Vector Inversions**,  
-- **Centroid Collapse**,  
-- **PR Simulation Breakdown**,  
-- **Systemic Vendor Failure**.
+> 📡 Cross-references:
+> 
+> - [🧩 Diaspora Instability Patterns]../../../(Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_diaspora_instability_patterns.md)  
+> - [🧩 Identity–Stance Mismatch Architecture](../🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_stance_mismatch_architecture.md)  
+> - [🧩 Identity–Behaviour Mismatch](../🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_behaviour_mismatch.md)  
+> - [💥 Risk Vector Inversions](../🧿_Targeting_Logic_Metadata_Signatures/💥_risk_vector_inversions.md)  
+> - [🧬 Centroid Collapse](./🧬_centroid_collapse.md)  
+> - [📣 PR Simulation Breakdown](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📣_pr_simulation_breakdown.md)  
+> - [💥 Systemic Vendor Failure](../🧼_System_Leakage_Signatures/💥_systemic_vendor_failure.md)  
+
 
 It forms the capstone of the *diaspora & solidarity* modelling-failure cluster  
 — one of the most important truth-mapping arcs in Polaris.
 
-_Last updated: 2025-12-09_
+_Last updated: 2025-12-25_
