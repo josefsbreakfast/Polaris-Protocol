@@ -200,7 +200,10 @@ It contributes institutional analysis on why the Met’s behaviour is better exp
 > - [🧨 Where Revolutions Actually Come From](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🧨_where_revolutions_actually_come_from.md) — *overreaction and fantasy risk*  
 > - [🚜 Tools Are Not Costumes](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🚜_tools_are_not_costumes.md) — *protest optics and enforcement failure*
 > - [🕊️ Just Boxes](../../🦕_Elder_Influencers/🕊️_Just_Boxes/README.md) — *boxes we justify putting people in*
-> - [☘️ The Good Friday Agreement and Palestine Action Prisoners](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/☘️_the_good_friday_agreement_and_palestine_action_prisoners.md) — *why whoever is the sticky wicket on policy or resource could do with a careful test-wobble*  
+> - [☘️ The Good Friday Agreement and Palestine Action Prisoners](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/☘️_the_good_friday_agreement_and_palestine_action_prisoners.md) — *why whoever is the sticky wicket on policy or resource could do with a careful test-wobble*
+> - [🎭 The Whiteness Baseline Problem](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎭_the_whiteness_baseline_problem.md) — *look, I didn't know how bad it was either before becoming "a Jew" to other white people; get some biscuits, because we're going in*
+> - [🎖️ Training the Old Guard as Force Protection](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🎖️_training_the_old_guard_as_force_protection.md) — *we're going to bring along the old boys they stick on telly, too*
+> - [🦴 Tolerance Thresholds as Load Management](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🦴_tolerance_thresholds_as_load_management.md) — *why we've all got to pitch in if we don't want it to keep getting worse*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
