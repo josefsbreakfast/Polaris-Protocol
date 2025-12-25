@@ -1,6 +1,6 @@
 # 📊 Analytics Without the Panic
 **First created:** 2025-12-25 | **Last updated:** 2025-12-25  
-*Why contemporary policy analytics listens for convergence, not volume — and what that changes about governance.*
+*Why contemporary policy analytics listens for convergence, not volume — and what that changes about governance.*  
 
 ---
 
@@ -224,7 +224,61 @@ This node is **not**:
 - a technocratic endorsement.
 
 Analytics does not replace judgment.  
-It flags where judgment has been deferred too long.
+It flags where judgment has been deferred too long.  
+
+
+---
+
+## 🕳️ Notable Absences: A Question for the Reader  
+
+Patterns are shaped as much by what fails to surface as by what converges.
+
+Across this cluster — and across the wider repository — some topics recur persistently in source material, OSINT, and long-form analysis, yet remain strikingly absent from downstream policy uptake, parliamentary framing, or analytic amplification.
+
+Notably among these are:
+- Palestine-related analysis and protest activity in the UK context  
+- Hunger strikers within UK detention or carceral systems  
+- Prolonged moral injury and deprivation that does not present as “capacity”  
+- Issues that resist reframing into neutral, technocratic language  
+
+This node does not assert a single explanation for these absences.
+
+They may arise from:
+- analytics tooling that deprioritises politically volatile topics,  
+- automated moderation or bot-mediated visibility effects,  
+- institutional risk aversion and agenda triage,  
+- or simple human discretion and discomfort.
+
+It may be one of these.  
+It may be several at once.
+
+What matters is not attribution, but recognition.
+
+If you are reading this from a policy, analysis, or institutional vantage point, the question is not:
+> *“Why wasn’t this included?”*
+
+The question is:
+> **“Why was this less speakable than other forms of structural harm?”**
+
+At this point, the interpretive baton is no longer with the author.
+
+It sits with the reader — and with the systems they use — to examine how certain forms of suffering become legible as governance problems, while others remain perpetually outside the frame.
+
+Silence, too, is a signal.  
+
+---
+
+## 💸 And As Always...  
+
+Ask: who benefits?  
+
+When we are:  
+
+- divided,
+- uncertain,
+- chaotic,
+- confused,
+- generally cross at each other.  
 
 ---
 
