@@ -1,5 +1,5 @@
-# ⚖️ What Forces the CPS to Act Anyway
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
+# ⚖️ What Forces the CPS to Act Anyway?
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
 *The rare conditions under which elite prosecution becomes unavoidable*
 
 ---
@@ -94,14 +94,16 @@ elite prosecution, forcing functions, cps action triggers, evidential overdeterm
 
 ## 🏮 Footer
 
-*What Forces the CPS to Act Anyway* is a living node of the **Polaris Protocol**.  
+*⚖️ What Forces the CPS to Act Anyway* is a living node of the **Polaris Protocol**.  
 It maps the pressure points where prosecutorial discretion collapses under external force.
 
-> 📡 Cross-references:
-> - **⚖️ How the CPS Operates**
-> - **⚖️ Where Prosecutorial Discretion Lives**
-> - **🛰️ Metadata_Sabotage_Network**
+> 📡 Cross-references:  
+> 
+> - [⚖️ How the CPS Operates](./⚖️_how_the_cps_operates.md)  
+> - [⚖️ Where Prosecutorial Discretion Lives](./⚖️_where_prosecutorial_discretion_lives.md)  
+> - [🏛️ Reputation Management Is Not Governance](./🏛️_reputation_management_is_not_governance.md) — *optics vs authority*  
+> - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *constitutional effects*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-25_
