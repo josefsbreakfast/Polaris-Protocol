@@ -1,5 +1,5 @@
 # ✨ Glimmer Is Taxable And Other Big Drums  
-**First created:** 2025-10-12 | **Last updated:** 2025-12-16  
+**First created:** 2025-10-12 | **Last updated:** 2025-12-25  
 *What ho, chaps, chapettes and chapettex...! All aboard for a wonderful deep dive into ethical quandry, complete with all the Czech hedgehogs and Mulberry harbours one could wish for!*  
 
 *Keep calm and, indeed, do carry on.*
@@ -46,7 +46,7 @@ I do rather love that for our little Polaris Protocol, don't you?
 
 ["They've asked for the Moonstone; they'll have her... and her Captain."](https://youtu.be/NKUDfW2PZ9g?si=lF9iR6Zl0jEuCeUr) - the serious one.  
 
-*Side notes for the non-coastal folk: Civilian services like the RNLI often only deployed one man per family out on parrols wherever possible, due to the real risk of loss. Trust in one's craft becomes not dissimilar to a chair, crutch, prostethetic, or crutch user's relationship with their kit; these tools become an extension of you, and someone else touching them feels similarly intimate. This is discussed excellently in Disability Intimacy by the late Alice Wong (z"L). Tl;dr: This was that unquestionable intaiacy with the Moonstone, not deliberate disobedience.*  
+*Side notes for the non-coastal folk: Civilian services like the RNLI often only deployed one man per family out on patrols wherever possible, due to the real risk of loss. Trust in one's craft becomes not dissimilar to a chair, crutch, prostethetic, or crutch user's relationship with their kit; these tools become an extension of you, and someone else touching them feels similarly intimate. This is discussed excellently in Disability Intimacy by the late Alice Wong (z"L). Tl;dr: This was that unquestionable intaiacy with the Moonstone, not deliberately malicious disobedience.*  
 
 ---
 
@@ -67,4 +67,4 @@ It contributes to the archive by banter alone.
 
 *What. Ho.*  
 
-_Last updated: 2025-12-16_
+_Last updated: 2025-12-25_
