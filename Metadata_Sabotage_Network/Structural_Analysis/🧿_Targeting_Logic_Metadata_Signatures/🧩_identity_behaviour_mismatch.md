@@ -1,5 +1,5 @@
 # 🧩 Identity–Behaviour Mismatch  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
 *How models misclassify safe, healthy, culturally-normal, trauma-literate, or socially-standard behaviour as “risk” simply because it contradicts an identity stereotype embedded in the model.*  
 
 ---
@@ -249,15 +249,17 @@ Signal_Collapse · Diaspora_Misclassification · Synthetic_Personae · Trauma_Li
 # 🏮 Footer  
 This node connects directly to:
 
-- **Identity–Stance Mismatch Architecture**,  
-- **Risk Vector Inversions**,  
-- **Systemic Vendor Failure**,  
-- **Metadata-Chain Reconstruction**,  
-- **PR Simulation Breakdown**,  
-- **Centroid Collapse**.
+> 📡 Cross-references:
+> 
+> - [🧩 Identity–Stance Mismatch Architecture](./🧩_identity_stance_mismatch_architecture.md)  
+> - [💥 Risk Vector Inversions](./💥_risk_vector_inversions.md)  
+> - [💥 Systemic Vendor Failure](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/💥_systemic_vendor_failure.md)  
+> - [🛰️ Metadata-Chain Reconstruction (The Ghost Pipeline Method)](../../../Disruption_Kit/Survivor_Tools/🛰️_metadata_chain_reconstruction_the_ghost_pipeline_method.md)  
+> - [📣 PR Simulation Breakdown](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📣_pr_simulation_breakdown.md)  
+> - [🧬 Centroid Collapse](../👾_Breakpoints_And_Glitches/🧬_centroid_collapse.md)  
 
 Together, they explain why  
 *the more human you are, the more the system misclassifies you*  
 when the system is built on bias.
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-25_
