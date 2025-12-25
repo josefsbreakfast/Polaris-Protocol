@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-25 06:46:49 UTC_
+_Generated on 2025-12-25 06:49:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -393,7 +393,7 @@ _Generated on 2025-12-25 06:46:49 UTC_
         - [`🧬_harm_without_perpetrators_the_architecture_failure_model.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_harm_without_perpetrators_the_architecture_failure_model.md)
         - [`🧬_how_gossip_shapes_risk_flags.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_how_gossip_shapes_risk_flags.md)
         - [`🧬_multi_year_pipeline_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_multi_year_pipeline_architecture.md)
-        - [`🧬_transparency_as_antigenic_defense.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_transparency_as_antigenic_defense.md)
+        - [`🧬_transparency_as_antigenic_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_transparency_as_antigenic_defence.md)
         - [`🧬_two_sided_dependency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_two_sided_dependency.md)
         - [`🧭_are_we_fascist_yet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧭_are_we_fascist_yet.md)
         - [`🧭_data_slip_to_narrative_spiral.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧭_data_slip_to_narrative_spiral.md)
