@@ -1,5 +1,5 @@
-# 🚗 When allies should take the keys  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+# 🚗 When Allies Should Take The Keys  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
 *Why allyship increases duty to intervene — and how non-intervention entrenches harm.*  
 
 ---
@@ -132,16 +132,16 @@ ally responsibility, prevention duty, aiding and assisting, leverage, boundary s
 
 ## 🏮 Footer
 
-*When allies should take the keys* is a core synthesis node in the **Polaris Protocol**.
+*🚗 When Allies Should Take The Keys* is a core synthesis node in the **Polaris Protocol**.
 
 It exists to clarify that restraint is not abandonment, and that timely boundary-setting is often the only way to prevent deeper harm — including harm to the ally being “supported.”
 
 > 📡 Cross-references:
 >
-> - [🧬 Distributed complicity in modern warfare] — *how enabling chains operate*
-> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)] — *where keys were not taken*
-> - [🏛️ Ministerial authority and collapse of lawful refusal] — *why downstream actors couldn’t intervene*
->
+> - [🧬 Distributed Complicity In Modern Warfare](../👑_Ownership_Control/🧬_distributed_complicity_in_modern_warfare.md) — *why “just support” becomes material*  
+> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *where keys were not taken*
+> - [🏛️ Ministerial Authority And The Collapse Of Lawful Refusal](./🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *why downstream actors couldn’t intervene*  
+
 > *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-25_
