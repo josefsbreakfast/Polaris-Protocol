@@ -1,6 +1,6 @@
 # ⚖️ The Architecture of Complicity — When Justice Stops at the Dock  
-**First created:** 2025-11-07 | **Last updated:** 2025-12-22  
-*How accountability is structurally routed toward individuals while sponsor power remains insulated.*
+**First created:** 2025-11-07 | **Last updated:** 2025-12-25  
+*How accountability is structurally routed toward individuals while sponsor power remains insulated.*  
 
 ---
 
@@ -183,10 +183,11 @@ It analyses how legal and political systems route blame toward individuals while
 
 > 📡 Cross-references:
 > 
-> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md) — silence as equilibrium  
-> - [🕳️ Absence as Signal](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕳️_absence_as_signal.md) — what cannot be recorded  
-> - [🧬 Twinning as Reputation Repair](../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_twinning_as_reputation_repair.md) — ethical laundering  
+> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md) — *silence as equilibrium*  
+> - [🕳️ Absence as Signal](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕳️_absence_as_signal.md) — *what cannot be recorded*  
+> - [🧬 Twinning as Reputation Repair](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_twinning_as_reputation_repair.md) — *ethical laundering*
+> - [🎭 Apology Theatre and Trust Repair](../📚_Narrative_Management/🎭_apology_theatre_and_trust_repair.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
