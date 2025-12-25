@@ -1,6 +1,6 @@
 # 🛑 GHF Is a Weapon  
-**First created:** 2025-08-02 | **Last updated:** 2025-12-14  
-*A pacification operation deployed after ceasefire to neutralise Western moral pressure.*
+**First created:** 2025-08-02 | **Last updated:** 2025-12-25  
+*A pacification operation deployed after ceasefire to neutralise Western moral pressure.*  
 
 ---
 
@@ -145,15 +145,19 @@ ghf is a weapon, humanitarian distraction, post ceasefire pacification, psycholo
 
 ## 🏮 Footer  
 
-*GHF Is a Weapon* is a living node of the **Polaris Protocol**.  
+*🛑 GHF Is a Weapon* is a living node of the **Polaris Protocol**.  
 It documents how humanitarian framing can be deployed as a post-ceasefire containment weapon to neutralise civilian pressure and delay accountability.
 
 > 📡 Cross-references:
 > 
-> - [🎭 Narrative & Psych Ops] — *distraction, framing, and audience management*  
-> - [🧠 Psychological Containment] — *fatigue, patience, and compliance mechanisms*  
-> - [🧪 Occupation as R&D Environment] — *extractive testing grounds for dual-use systems*
+> - [🎭 Performative Cruelty as Governance](../🗝️_Politics_Memory_Work/🎭_performative_cruelty_as_governance.md) — *spectacle dynamics*  
+> - [🧲 What BCG Takes from the UK … and Palestine](../../🌀_System_Governance/🛰️_Infrastructure_Procurement/🧲_what_bcg_takes_from_the_uk_and_palestine.md) — *fatigue, patience, and compliance mechanisms*  
+> - [*Pending:* 🧪 Occupation as R&D Environment] — *extractive testing grounds for dual-use systems*  
+> - [🧪 Sciencing Apartheid — Field Operations Index](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/README.md)  
+> - [🎭 Identity Without Self](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎭_identity_without_self.md)  
+> - [🩸 Genocide Denialism: 🍉 Palestine](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/README.md)  
+> - [🏛️ Welcome to Western Imperialism](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🏛️_welcome_to_western_imperialism.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-25_
