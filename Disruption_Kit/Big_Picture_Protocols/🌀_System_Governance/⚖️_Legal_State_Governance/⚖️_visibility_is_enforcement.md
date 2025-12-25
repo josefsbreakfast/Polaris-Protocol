@@ -1,6 +1,6 @@
-# ⚖️ Visibility Is Enforcement
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Why law that operates out of sight fails to deter, persuade, or protect*
+# ⚖️ Visibility Is Enforcement  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+*Why law that operates out of sight fails to deter, persuade, or protect.*  
 
 ---
 
@@ -176,15 +176,18 @@ enforcement visibility, deterrence mechanics, nda culture, private settlements, 
 
 ## 🏮 Footer
 
-*Visibility Is Enforcement* is a living node of the **Polaris Protocol**.  
+*⚖️ Visibility Is Enforcement* is a living node of the **Polaris Protocol**.  
 It documents why accountability that cannot be seen fails to deter harm or sustain legal authority.
 
-> 📡 Cross-references:
-> - **🧨 If You Don’t Prosecute, You Invite Predators** — opportunity signalling  
-> - **⚖️ Non-Prosecution Teaches Impunity** — behavioural learning  
-> - **🏛️ Reputation Management Is Not Governance** — optics vs authority  
-> - **🏛️ Elite Non-Prosecution Undermines the Rule of Law** — constitutional effects  
+> 📡 Cross-references:  
+> 
+> - [🧨 If You Don’t Prosecute, You Invite Predators](./🧨_if_you_dont_prosecute_you_invite_predators.md) — *opportunity signalling*  
+> - [⚖️ Non-Prosecution Teaches Impunity](./⚖️_non_prosecution_teaches_impunity.md) — *behavioural learning*  
+> - [🏛️ Reputation Management Is Not Governance](./🏛️_reputation_management_is_not_governance.md
+) — *optics vs authority*  
+> - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *constitutional effects*
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-25_
