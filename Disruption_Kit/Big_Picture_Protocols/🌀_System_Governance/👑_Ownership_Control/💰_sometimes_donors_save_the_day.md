@@ -1,6 +1,6 @@
 # 💰 Sometimes Donors Save the Day  
-**First created:** 2025-12-16 | **Last updated:** 2025-12-16  
-*How informal legitimacy pressure breaks institutional deadlock — and what this reveals about endurance extraction, siloed governance, and preventable harm.*
+**First created:** 2025-12-16 | **Last updated:** 2025-12-25  
+*How informal legitimacy pressure breaks institutional deadlock — and what this reveals about endurance extraction, siloed governance, and preventable harm.*  
 
 ---
 
@@ -255,11 +255,11 @@ It documents how accountability is often financially mediated, how pressure is e
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Soft Law Governance] — informal power without oversight  
-> - [⚖️ The Rule-of-Law Trust Deficit] — legitimacy erosion dynamics  
-> - [🎭 Narrative Interference] — silence, framing, and containment  
-> - [🧯 System Thresholds] — when waiting becomes dangerous  
+> - [⚖️ Soft Law Governance](../⚖️_Legal_State_Governance/⚖️_soft_law_governance.md) — *informal power without oversight*  
+> - [⚖️ The Rule-of-Law Trust Deficit](../⚖️_Legal_State_Governance/⚖️_the_rule_of_law_trust_deficit.md) — *legitimacy erosion dynamics*  
+> - [🪷 Narrative Reclamation](../../../🏮_AntiContainment_Clauses/🪷_narrative_reclamation.md) — *how to refind one's voice*  
+> - [ 50 Shades of Avoiding Damages](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🏛️_50_shades_of_avoiding_damages.md) — *semi-satire*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-16_
+_Last updated: 2025-12-25_
