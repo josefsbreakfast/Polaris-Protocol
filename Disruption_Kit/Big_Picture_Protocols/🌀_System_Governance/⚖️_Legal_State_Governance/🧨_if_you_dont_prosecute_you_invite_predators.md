@@ -1,6 +1,6 @@
-# 🧨 If You Don’t Prosecute, You Invite Predators
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Why visible non-enforcement signals opportunity to the most dangerous offenders*
+# 🧨 If You Don’t Prosecute, You Invite Predators  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+*Why visible non-enforcement signals opportunity to the most dangerous offenders.*  
 
 ---
 
@@ -166,15 +166,16 @@ non-prosecution, deterrence failure, predatory behaviour, elite impunity, safegu
 
 ## 🏮 Footer
 
-*If You Don’t Prosecute, You Invite Predators* is a living node of the **Polaris Protocol**.  
+*🧨 If You Don’t Prosecute, You Invite Predators* is a living node of the **Polaris Protocol**.  
 It documents how visible non-enforcement functions as an opportunity signal to high-risk offenders.
 
 > 📡 Cross-references:
-> - **⚖️ Non-Prosecution Teaches Impunity** — behavioural precedent  
-> - **⚖️ Risk Aversion Is Policy** — avoidance as governance  
-> - **🏛️ Elite Non-Prosecution Undermines the Rule of Law** — legitimacy collapse  
-> - **⚖️ Elite Impunity Is a National Security Risk** — downstream exposure  
+>
+> - [⚖️ Non-Prosecution Teaches Impunity](./⚖️_non_prosecution_teaches_impunity.md) — *behavioural precedent*  
+> - [⚖️ Risk Aversion Is Policy](./⚖️_risk_aversion_is_policy.md) — *avoidance as governance*  
+> - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *legitimacy collapse*  
+> - [⚖️ Elite Impunity Is a National Security Risk](./⚖️_elite_impunity_is_a_national_security_risk.md) — *downstream exposure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-25_
