@@ -1,5 +1,5 @@
 # 📡 Language as Attack Surface  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-02 | **Last updated:** 2025-12-25  
 *How linguistic drift becomes an exploitable vector for coordinated manipulation and how to defend against it.*  
 
 ---
@@ -68,7 +68,11 @@ Each shows how controlling language becomes equivalent to controlling territory.
 
 ## 🌌 Constellations  
 
-🧿 📡 ⚖️ 🎭 🛰️ — diagnostic · protective · counter-propaganda register.
+🧿 📡 ⚖️ 🎭 🛰️ — diagnostic · protective · counter-propaganda register.  
+
+*Further viewing:*  
+
+- [Watch: Leading lights in the Anglican Church push back against the far right activist Tommy Robinson and his band of "patriots", from Yasmin Alibhai-Brown](https://vm.tiktok.com/ZNRjP3sVf/)  
 
 ---
 
@@ -92,4 +96,4 @@ It anchors operational tracking of linguistic manipulation and provides tools fo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2025-12-25_
