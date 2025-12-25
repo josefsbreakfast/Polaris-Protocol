@@ -172,7 +172,7 @@ It documents how analytical access enables extraction of population-scale knowle
 > 📡 Cross-references:
 > 
 > - [🛑 GHF Is a Weapon](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🛑_ghf_is_a_weapon.md) — *pacification and narrative arrest*  
-> - [🧬 Classification as Extraction] — *how harm is re-encoded*  
+> - [🧬 Classification as Extraction](../⚖️_Legal_State_Governance/🧬_recycling_violence_through_governance.md) — *how harm is re-encoded*  
 > - [*Pending:* 🧪 Occupation as R&D Environment] — *unequal testing grounds for dual-use systems*  
 > - [🩸 Genocide Denialism: 🍉 Palestine](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/README.md)
 > - [🇬🇧 Flags, False Catharsis, and the Thing We Refused to Say](../📚_Narrative_Management/🇬🇧_flags_and_false_catharsis.md)
