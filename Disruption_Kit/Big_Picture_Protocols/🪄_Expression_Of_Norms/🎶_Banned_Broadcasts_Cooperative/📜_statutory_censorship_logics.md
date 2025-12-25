@@ -1,5 +1,5 @@
 # 📜 Statutory Censorship Logics  
-**First created:** 2025-09-29 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-29 | **Last updated:** 2025-12-25  
 *Not every silencing is illegal. Some are precisely lawful.*  
 
 ---
@@ -80,10 +80,14 @@ These cases demonstrate how statutory tools operate not as neutral law, but as t
 It documents the legal mechanisms by which speech is curtailed through contracts, policies, and legislative traps —  
 and how “freedom” is filtered at the level of compliance.  
 
-> 📡 Cross-references:  
-> - [🈺 Governance and Prevent](../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md) - *Prevent logic and governance suppression frameworks*  
-> - [🔥 Suppression as Signal](../../Big_Picture_Protocols/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) - *How the act of burying a book becomes its own marketing engine*  
+> 📡 Cross-references:
+> 
+> - [🈺 Governance and Prevent](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md) - *Prevent logic and governance suppression frameworks*  
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) - *How the act of burying a book becomes its own marketing engine*
+> - [💎 Therapeutic Sandbox — AI-Assisted Boundary Rehabilitation](../../../../🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/💎_therapeutic_sandbox.md)
+> - [✈️ The Politics of Redaction](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_the_politics_of_redaction.md)
+> - [🌑 Prevent as Britain’s Racialised Surveillance System](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌑_prevent_as_britains_racialised_surveillance_system.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-12-25_  
