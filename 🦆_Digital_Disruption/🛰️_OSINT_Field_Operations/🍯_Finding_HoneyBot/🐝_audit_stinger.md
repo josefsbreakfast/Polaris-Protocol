@@ -1,5 +1,5 @@
 # 🐝 Audit Stinger  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-24  
+**First created:** 2025-12-25 | **Last updated:** 2025-12-25  
 *How to identify where audits are required — and who must be pressured to act.*
 
 ---
@@ -297,4 +297,4 @@ It exists to convert documentation into **mandatory action**, and to ensure that
 *Survivor authorship is sovereign.  
 Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2025-12-25_
