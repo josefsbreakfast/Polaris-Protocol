@@ -115,7 +115,7 @@ It situates consultancy influence as a structural governance risk where commerci
 
 > 📡 Cross-references:
 > 
-> - [*Pending:* 🧬 Classification as Extraction] — *how harm is re-encoded*  
+> - [🧬 Classification as Extraction](./🧬_recycling_violence_through_governance.md) — *how harm is re-encoded*  
 > - [🧲 What BCG Takes from the UK … and Palestine](../🛰️_Infrastructure_Procurement/🧲_what_bcg_takes_from_the_uk_and_palestine.md) — *cross-context and cross-juristictional extraction*
 > - [🔥 Prevent: The Big Sell](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_prevent_the_big_sell.md) — *how safeguarding was transformed into a vector for surveillence capitalism at a state level*
 > - [🔦 Why We Cannot Know Who Prevent Really Targets](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔦_why_we_cannot_know_who_prevent_really_targets.md) — *no KPI in sight*
