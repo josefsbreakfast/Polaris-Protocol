@@ -1,5 +1,5 @@
 # 🎶 Containment by Review — JSTOR (2018)  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-27 | **Last updated:** 2025-12-25  
 *Observation log of hostile review dynamics around the author’s pre-2022 book.*  
 
 ---
@@ -62,11 +62,12 @@ hostile review, JSTOR indexing, metadata suppression, academic containment, SEO 
 *🎶 Containment by Review — JSTOR (2018)* is a living node of the Polaris Protocol.  
 It captures how hostile reviews can function as **containment anchors**, shaping cursory impressions and discouraging deeper engagement.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🎶 Book Discoverability Shift (2022 Title)](./🎶_book_discoverability_shift_2022_title.md) — *visibility anomalies in metadata*  
 > - [⚖️ Legal Hooks for Muted Books](./⚖️_legal_hooks_for_muted_books.md) — *legal frameworks for reputational harm*  
-> - [🔥 Suppression as Signal](../🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *how suppression itself becomes a marketing engine*  
+> - [🔥 Suppression as Signal](../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *how suppression itself becomes a marketing engine*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-12-25_  
