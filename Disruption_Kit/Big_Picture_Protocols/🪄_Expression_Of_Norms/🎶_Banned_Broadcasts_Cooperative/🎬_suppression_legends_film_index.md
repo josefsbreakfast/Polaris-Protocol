@@ -1,5 +1,5 @@
 # 🎬 Suppression Legends Film Index  
-**First created:** 2025-09-29 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-29 | **Last updated:** 2025-12-25  
 *Films that became cultural detonators precisely because someone tried to mute them.*  
 
 ---
@@ -58,9 +58,9 @@ and supports broader diagnostics of narrative control across media formats.
 
 > 📡 Cross-references:
 > 
-> - [🔥 Suppression as Signal](../🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) - *How the act of burying a book becomes its own marketing engine*  
+> - [🔥 Suppression as Signal](../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) - *How the act of burying a book becomes its own marketing engine*  
 > - [🎶 Banned Broadcasts Cooperative](../🎶_Banned_Broadcasts_Cooperative/README.md) - *A cooperative archive of outlaw sound, banned books, and suppressed signals*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-12-25_  
