@@ -1,6 +1,6 @@
 # 🧩 Bringing Farmers, Environment, and the Public Together  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why alignment keeps failing — and what conditions make convergence possible without fantasy or force.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*Why alignment keeps failing — and what conditions make convergence possible without fantasy or force.*  
 
 ---
 
@@ -184,10 +184,10 @@ It contributes synthesis-level analysis on why alignment fails under misallocate
 
 > 📡 Cross-references:
 > 
-> - [🫏 Stewardship Without Sovereignty](./🫏_stewardship_without_sovereignty.md) — care without control  
-> - [🌱 Land Trusts & Custodianship Models](./🌱_land_trusts_custodianship_models.md) — stabilising tenure  
-> - [🕸️ Food as National Infrastructure](./🕸️_food_as_national_infrastructure.md) — continuity obligations  
+> - [🫏 Stewardship Without Sovereignty](./🫏_stewardship_without_sovereignty.md) — *care without control*  
+> - [🌱 Land Trusts & Custodianship Models](./🌱_land_trusts_custodianship_models.md) — *stabilising tenure*  
+> - [🕸️ Food as National Infrastructure](./🕸️_food_as_national_infrastructure.md) — *continuity obligations*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
