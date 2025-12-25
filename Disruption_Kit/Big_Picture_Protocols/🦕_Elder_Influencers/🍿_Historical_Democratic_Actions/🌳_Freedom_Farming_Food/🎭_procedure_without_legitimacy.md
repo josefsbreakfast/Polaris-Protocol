@@ -1,6 +1,6 @@
 # 🎭 Procedure Without Legitimacy  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why “following the rules” stops working when authority loses situational credibility.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*Why “following the rules” stops working when authority loses situational credibility.*  
 
 ---
 
@@ -178,10 +178,12 @@ It contributes structural analysis on why rule-based governance fails when detac
 
 > 📡 Cross-references:
 > 
-> - [🧠 The Moral Floor of Taxation](./🧠_the_moral_floor_of_taxation.md) — where legality stops persuading  
-> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — extraction without understanding  
-> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — survival as legitimacy constraint  
+> - [🧠 The Moral Floor of Taxation](./🧠_the_moral_floor_of_taxation.md) — *where legality stops persuading*  
+> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — *extraction without understanding*  
+> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — *survival as legitimacy constraint*  
+> - [⚖️ Soft Law Governance](../../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_soft_law_governance.md) — *how something can become "the law" without ever being a law*  
+> - [🏛️ Precedent Is Policy](../../../🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_precedent_is_policy.md) — *how "that's how we've always done it" becomes "the law"*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
