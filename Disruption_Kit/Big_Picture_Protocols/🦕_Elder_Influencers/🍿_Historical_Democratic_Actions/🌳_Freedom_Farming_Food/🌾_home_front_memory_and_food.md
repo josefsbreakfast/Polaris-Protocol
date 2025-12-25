@@ -1,6 +1,6 @@
 # 🌾 Home Front Memory and Food  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why wartime food memory never expired — and why farming still sits outside normal political logic.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*Why wartime food memory never expired — and why farming still sits outside normal political logic.*  
 
 ---
 
@@ -17,7 +17,7 @@ That memory continues to shape public judgment long after ration books disappear
 
 ## 🧿 What “home front” actually means  
 
-During the **[Second World War](chatgpt://generic-entity?number=0)**, the British state made an unusually explicit move:
+During the **Second World War**, the British state made an unusually explicit move:
 
 It told the public, repeatedly and clearly, that:
 - food production was a civic duty,
@@ -59,7 +59,7 @@ British media has continuously reinforced this framing through:
 - smallholding narratives,
 - and gentle satire where authority figures misunderstand rural reality.
 
-*[The Darling Buds of May](chatgpt://generic-entity?number=1)* did not invent the trope — it refreshed it.
+*The Darling Buds of May* did not invent the trope — it refreshed it.
 
 The underlying message is consistent:
 - farming is human,
@@ -129,9 +129,9 @@ It is historically trained.
 🌾 🍞 🧠 ⚖️ 📺 — farming, food, public memory, legitimacy, cultural reinforcement  
 
 *Further reading / viewing:*  
-- *[Second World War](chatgpt://generic-entity?number=2) (UK home front)* — farming framed as national defence  
+- *Second World War (UK home front)* — farming framed as national defence  
 - *Dig for Victory campaigns* — land use as civic obligation  
-- *[The Darling Buds of May](chatgpt://generic-entity?number=3)* — pastoral legitimacy vs bureaucratic abstraction  
+- *The Darling Buds of May* — pastoral legitimacy vs bureaucratic abstraction  
 - *Wartime rationing histories* — how food governance reshaped public expectations  
 
 ---
@@ -149,10 +149,11 @@ It documents how wartime framing of agriculture continues to shape public legiti
 
 > 📡 Cross-references:
 > 
-> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — food as a hard constraint on governance  
-> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — when procedure collides with survival logic  
-> - [🍿 Historical Democratic Actions](../) — culturally legible legitimacy fractures  
+> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — *food as a hard constraint on governance*  
+> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — *when procedure collides with survival logic*  
+> - [🍿 Historical Democratic Actions](./README.md) — *culturally legible legitimacy fractures*
+> - [🪖 Home Front 2.0](../../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/README.md) - *pro-social civic hats on because it's our fixer-upper to fix up*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
