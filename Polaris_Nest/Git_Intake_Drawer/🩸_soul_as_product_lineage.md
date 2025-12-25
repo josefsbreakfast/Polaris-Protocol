@@ -1,5 +1,5 @@
 # 🩸 Soul as Product Lineage  
-**First created:** 2025-10-19 | **Last updated:** 2025-11-14  
+**First created:** 2025-10-19 | **Last updated:** 2025-12-25  
 *From ritual sacrifice to algorithmic containment — tracing the architectures that bleed the soul into product.*  
 
 ---
@@ -70,9 +70,9 @@ Each phase marks a refinement of the same apparatus — to bleed the soul clean 
 
 > 📡 Cross-references:
 > 
-> - [🔥 Suppression as Signal](../Big_Picture_Protocols/🔥_suppression_as_signal.md) — *how erasure performs visibility*  
+> - [🔥 Suppression as Signal](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *how erasure performs visibility*  
 > - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md) — *legal architectures of obedience*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-14_
+_Last updated: 2025-12-25_
