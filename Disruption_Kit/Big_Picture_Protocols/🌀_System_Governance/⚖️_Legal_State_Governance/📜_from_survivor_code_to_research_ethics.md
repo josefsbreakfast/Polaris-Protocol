@@ -1,5 +1,5 @@
 # 📜 From Survivor Code to Research Ethics  
-**First created:** 2025-11-07 | **Last updated:** 2025-12-18  
+**First created:** 2025-11-07 | **Last updated:** 2025-12-25  
 *How atrocity testimony rebuilt biomedical morality.*  
 
 ---
@@ -204,6 +204,15 @@ research ethics, nuremberg code, survivor testimony, consent governance, institu
 *📜 From Survivor Code to Research Ethics* is a living node of the Polaris Protocol.  
 It documents the conversion of trauma into guardrails.  
 
+> 📡 Cross-references:
+>
+> - [📿 Vulnerable Data Populations](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/README.md)  
+> - [🧟‍♀️ Residual Shadows](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/README.md)  
+> - [🈺 Governance & Prevent](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)  
+> - [🈸 Dispatch & Training](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/README.md)  
+> - [🧪 Sciencing Apartheid](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/README.md)  
+> - [🍉 Academic Liberty](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/README.md)  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-18_
+_Last updated: 2025-12-25_
