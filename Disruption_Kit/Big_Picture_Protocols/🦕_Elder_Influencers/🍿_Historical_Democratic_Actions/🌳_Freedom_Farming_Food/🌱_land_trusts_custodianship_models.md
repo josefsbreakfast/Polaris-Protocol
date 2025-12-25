@@ -1,6 +1,6 @@
 # 🌱 Land Trusts & Custodianship Models  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*How land can be protected for use without triggering expropriation panic — and why this space is consistently ignored.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*How land can be protected for use without triggering expropriation panic — and why this space is consistently ignored.*  
 
 ---
 
@@ -157,10 +157,10 @@ It contributes design-level analysis on how land can be governed for continuity,
 
 > 📡 Cross-references:
 > 
-> - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — ownership without responsibility  
-> - [🫏 Stewardship Without Sovereignty](./🫏_stewardship_without_sovereignty.md) — responsibility without control  
-> - [🕸️ Food as National Infrastructure](./🕸️_food_as_national_infrastructure.md) — continuity obligations  
+> - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — *ownership without responsibility*  
+> - [🫏 Stewardship Without Sovereignty](./🫏_stewardship_without_sovereignty.md) — *responsibility without control*  
+> - [🕸️ Food as National Infrastructure](./🕸️_food_as_national_infrastructure.md) — *continuity obligations*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
