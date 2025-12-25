@@ -177,7 +177,8 @@ It contributes historical and structural analysis on how efficiency narratives r
 > 
 > - [🏹 The Commons and Collective Survival](./🏹_the_commons_and_collective_survival.md) — *shared land as survival infrastructure*  
 > - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — *title detached from responsibility*  
-> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — *procedural legitimacy collapse*  
+> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — *procedural legitimacy collapse*
+> - [📜 The Levellers and Land Freedom](./📜_the_levellers_and_land_freedom.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
