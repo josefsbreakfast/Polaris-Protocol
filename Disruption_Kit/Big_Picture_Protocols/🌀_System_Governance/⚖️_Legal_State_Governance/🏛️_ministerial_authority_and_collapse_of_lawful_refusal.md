@@ -1,6 +1,6 @@
-# 🏛️ Ministerial authority and the collapse of lawful refusal
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How UK constitutional design concentrates moral authority upward while denying lawful refusal downward.*
+# 🏛️ Ministerial Authority And The Collapse Of Lawful Refusal  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+*How UK constitutional design concentrates moral authority upward while denying lawful refusal downward.*  
 
 ---
 
@@ -170,16 +170,16 @@ ministerial responsibility, civilian control, lawful orders, manifestly unlawful
 
 ## 🏮 Footer
 
-*Ministerial authority and the collapse of lawful refusal* is a core structural node in the **Polaris Protocol**.
+*🏛️ Ministerial authority and the collapse of lawful refusal* is a core structural node in the **Polaris Protocol**.
 
 It exists to explain **why downstream actors could not stop**, even when they could see harm, and why responsibility therefore concentrates at the point of ministerial decision.
 
 > 📡 Cross-references:
 >
-> - [*Pending:* 🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)] — *where prevention failed*
-> - [*Pending:* 🧬 Distributed complicity in modern warfare] — *why “just support” becomes material*
-> - [*Pending:* 🚗 When allies should take the keys] — *ally duty and leverage*
->
-> *Survivor authorship is sovereign. Containment is never neutral.*
+> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *where prevention failed*  
+> - [🧬 Distributed Complicity In Modern Warfare](../👑_Ownership_Control/🧬_distributed_complicity_in_modern_warfare.md) — *why “just support” becomes material*  
+> - [🚗 When Allies Should Take The Keys](./🚗_when_allies_should_take_the_keys.md) — *ally duty and leverage*  
 
-_Last updated: 2025-12-20_
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-25_
