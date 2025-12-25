@@ -1,7 +1,6 @@
 # 🧿 Custodial Opacity and Database Disappearance
-
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*When loss of traceability itself becomes a human‑rights violation*
+**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+*When loss of traceability itself becomes a human‑rights violation.*  
 
 ---
 
@@ -120,15 +119,15 @@ database disappearance, custodial opacity, enforced disappearance risk, traceabi
 
 ## 🏮 Footer
 
-*Custodial Opacity and Database Disappearance* is a core analytic node of the **Polaris Protocol**.
+*🧿 Custodial Opacity and Database Disappearance* is a core analytic node of the **Polaris Protocol**.
 It defines how loss of traceability transforms lawful custody into a rights‑violating condition.
 
 > 📡 Cross‑references:
 >
-> * [🌀 Rule of Law Failure Cascade] — structural sequence
-> * [🪦 CECOT as a Rights‑Void Facility] — offshored opacity
-> * [🛰️ Satellite Imagery as Circumstantial Evidence] — corroboration logic
+> - [🌀 Rule of Law Failure Cascade](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌀_rule_of_law_failure_cascade.md) — *structural sequence*
+> - [🪦 CECOT as a Rights‑Void Facility](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🪦_cecot_as_rights_void_facility.md) — *offshored opacity*
+> - [🛰️ Satellite Imagery as Circumstantial Evidence](../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md) — *corroboration logic*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+_Last updated: 2025-12-25_
