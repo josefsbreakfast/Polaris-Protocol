@@ -277,7 +277,7 @@ This node links directly to:
 > - [🧩 Identity–Behaviour Mismatch](../🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_behaviour_mismatch.md)  
 > - [💥 Risk Vector Inversions](../🧿_Targeting_Logic_Metadata_Signatures/💥_risk_vector_inversions.md)  
 > - [🧩 Diaspora Instability Patterns](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_diaspora_instability_patterns.md)  
-> - [📣 PR Simulation Breakdown]((../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📣_pr_simulation_breakdown.md)  
+> - [📣 PR Simulation Breakdown](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📣_pr_simulation_breakdown.md)  
 > - [💥 Systemic Vendor Failure](../🧼_System_Leakage_Signatures/💥_systemic_vendor_failure.md)  
 
 It forms the core of the **Synthetic Persona Collapse** cluster  
