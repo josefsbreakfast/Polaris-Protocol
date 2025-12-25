@@ -4,7 +4,7 @@
 
 > *Or: British men, once again, being undone by their love of bossy women.*  
 > *Pairs well with [⚖️ Paying for Your Porn Is Good Defence Doctrine](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_paying_for_your_porn_is_good_defence_doctrine.md).*  
-
+<!--I didn't even see this shit until now. https://www.dailymail.co.uk/news/article-14920999/jeffrey-epstein-funded-mit-child-sex-robots-pedophiles.html -->
 ---
 
 ## 🧠 The (Satirical...ish) Pitch  
