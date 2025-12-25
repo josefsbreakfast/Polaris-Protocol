@@ -297,4 +297,11 @@ When we are:
 *📊 Analytics Without the Panic* is a living node of the **Polaris Protocol**.  
 It documents how contemporary policy systems increasingly attend to quiet convergence rather than loud outrage.
 
+> - [🧬 Deliberate Data Twinning and Silencing Dissent](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_deliberate_data_twinning.md)  
+> - [🫛 Amplification by Convergence (Theoretical Concept → Resolution)](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md)  
+> - [🧬 When Twins Meet](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_when_twins_meet.md)
+> - [🛂 Hidden Prevent](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛂_hidden_prevent.md)  
+
+
+
 *Survivor authorship is sovereign. Containment is never neutral.*
