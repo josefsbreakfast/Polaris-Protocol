@@ -47,10 +47,6 @@ What once lived in internal dashboards now sits in archives and leaks:
 
 ## 🕳 Constellations  
 
-> - [🧊 Antarctic Biscuit Defence Directorate](./🧊_antarctic_biscuit_defence_directorate.md)  
-> - [🔥 Suppression as Signal](../Suppression_Theory/🔥_suppression_as_signal.md)  
-> - [🛰️ Surveillance Infrastructure](../Governance/🛰️_surveillance_infrastructure.md)  
-
 ---
 
 ## ✴️ Stardust  
@@ -65,4 +61,10 @@ What once lived in internal dashboards now sits in archives and leaks:
 It imagines the moment when bureaucratic farce meets public record —  
 where every redaction line is an accidental punchline.  
 
-_Last updated: 2025-09-30_  
+> 📡 Cross-references:
+> 
+> - [🧊 Antarctic Biscuit Defence Directorate](./🚀_start_here.md)  
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
+> - [🛰️ Infrastructure & Procurement](../🛰️_Infrastructure_Procurement/README.md)  
+
+_Last updated: 2025-12-25_  
