@@ -1,6 +1,6 @@
 # 🏚️ Millennial Property Psychosis (Everything Is Housing)  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-08  
-*Why millennials compulsively evaluate every empty building as potential housing — and what this reveals about generational trauma, class identity, and political behaviour.*
+**First created:** 2025-11-17 | **Last updated:** 2025-12-25  
+*Why millennials compulsively evaluate every empty building as potential housing — and what this reveals about generational trauma, class identity, and political behaviour.*  
 
 ---
 
@@ -209,10 +209,13 @@ It supports the **Big Picture Protocols** and **Generational Dynamics** clusters
 
 > 📡 Cross-references:
 > 
-> - [😩 Millennial Exhaustion as a Political Condition]  
-> - [📊 Gen Z Procedural Protest & Spreadsheet Organising]  
-> - [🗑️ Orthopaedic Anarchism]
+> - [😩 Millennial Exhaustion as a Political Condition](../🐝_Body_Politic/😴_millennial_exhaustion_as_a_political_condition.md)  
+> - [📊 Gen Z Procedural Protest & Spreadsheet Organising](./📊_gen_z_procedural_protest.md)  
+> - [🗑️ Orthopaedic Anarchism](../🐝_Body_Politic/🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md)
+>   
+>   *Looks like housing to me...*
+> - [⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure](../../🌀_System_Governance/👑_Ownership_Control/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2025-12-25_
