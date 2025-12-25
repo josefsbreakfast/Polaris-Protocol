@@ -1,6 +1,6 @@
 # 🪵 Land Without Stewardship  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*How inherited title detached from use-value destabilises food, ecology, and legitimacy.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*How inherited title detached from use-value destabilises food, ecology, and legitimacy.*  
 
 ---
 
@@ -65,7 +65,7 @@ They emerged when:
 - efficiency narratives displaced survival logic,
 - and those who worked land lost voice over its use.
 
-Movements like the **[Levellers](chatgpt://generic-entity?number=0)** recognised this early:  
+Movements like the **Levellers** recognised this early:  
 land governance without accountability to those who depend on it produces domination, not order.
 
 The language has changed.  
@@ -127,7 +127,7 @@ They make visible what the current system prefers to hide: **that land governanc
 🪵 🌳 ⚖️ 🧠 🌱 — land, stewardship, legitimacy, public cognition, ecology  
 
 *Further reading / viewing:*  
-- *[Levellers](chatgpt://generic-entity?number=1)* — land, subsistence, and political voice  
+- *Levellers* — land, subsistence, and political voice  
 - *E.P. Thompson on enclosure and moral economy* — survival logic vs abstraction  
 - *British enclosure histories* — efficiency narratives and dispossession  
 - *Rewilding debates* — stewardship without sovereignty in modern form  
@@ -147,10 +147,11 @@ It contributes structural analysis on how land governance divorced from use-valu
 
 > 📡 Cross-references:
 > 
-> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — food as a non-negotiable constraint  
-> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — extraction without situational intelligence  
-> - [🌾 Home Front Memory and Food](./🌾_home_front_memory_and_food.md) — survival framing and public judgment  
+> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — *food as a non-negotiable constraint*  
+> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — *extraction without situational intelligence*  
+> - [🌾 Home Front Memory and Food](./🌾_home_front_memory_and_food.md) — *survival framing and public judgment*
+> - [📜 The Levellers and Land Freedom](./📜_the_levellers_and_land_freedom.md) — *a short introduction to an older English movement*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
