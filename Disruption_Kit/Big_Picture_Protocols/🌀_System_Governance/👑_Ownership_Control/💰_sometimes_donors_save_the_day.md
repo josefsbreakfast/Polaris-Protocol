@@ -258,7 +258,7 @@ It documents how accountability is often financially mediated, how pressure is e
 > - [⚖️ Soft Law Governance](../⚖️_Legal_State_Governance/⚖️_soft_law_governance.md) — *informal power without oversight*  
 > - [⚖️ The Rule-of-Law Trust Deficit](../⚖️_Legal_State_Governance/⚖️_the_rule_of_law_trust_deficit.md) — *legitimacy erosion dynamics*  
 > - [🪷 Narrative Reclamation](../../../🏮_AntiContainment_Clauses/🪷_narrative_reclamation.md) — *how to refind one's voice*  
-> - [ 50 Shades of Avoiding Damages](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🏛️_50_shades_of_avoiding_damages.md) — *semi-satire*  
+> - [🏛️ 50 Shades of Avoiding Damages](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🏛️_50_shades_of_avoiding_damages.md) — *semi-satire*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
