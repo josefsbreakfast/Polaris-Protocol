@@ -50,7 +50,7 @@ It documents non-overt forms of silencing via money, contracts, and institutiona
 
 > 📡 Cross-references:
 > 
-> - [🈺 Governance & Prevent](../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)  
+> - [🈺 Governance & Prevent](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)  
 > - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
