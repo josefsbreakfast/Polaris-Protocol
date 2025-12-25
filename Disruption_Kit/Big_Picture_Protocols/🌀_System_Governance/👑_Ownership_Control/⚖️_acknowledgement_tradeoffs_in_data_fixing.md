@@ -40,7 +40,8 @@ data fixing, acknowledgment trade‑offs, dataset integrity, legal governance, r
 > - [🌐 The Prevent/Channel Harm Map](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌐_the_prevent_channel_harm_map_supernode.md)  
 > - [📿 Cluster-Specific Harms in Probabilistic Targeting](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/📿_cluster_specific_harms_in_probabilistic_targeting.md)  
 > - [🕸️ Voice Lineage and Dataset Chain](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🕸️_voice_lineage_and_dataset_chain.md)  
-> - [🗂️ The Afterlife of Harm](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🗂️_the_afterlife_of_harm.md)  
+> - [🗂️ The Afterlife of Harm](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🗂️_the_afterlife_of_harm.md)
+> - [🎭 Apology Theatre and Trust Repair](../📚_Narrative_Management/🎭_apology_theatre_and_trust_repair.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
