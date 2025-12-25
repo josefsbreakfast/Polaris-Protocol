@@ -1,5 +1,5 @@
 # 🌍 Cross-Border Bias Propagation in Surveillance Models  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
 *How racialised behavioural data moves between states, vendors, and security ecosystems, reproducing discriminatory logic across borders.*  
 
 ---
@@ -167,6 +167,17 @@ Colonial_Loops · Metadata_Dependence · Diaspora-Error · Signal_Collapse
 
 ## 🏮 Footer  
 This node pairs with “Israel–Five Eyes Structural Interdependency” and “Apartheid Algorithm Dependency Theory.”  
-Together, they map the **cross-border circulation of racialised data**, the fragility of imported security tools, and the systemic vulnerabilities created when injustice becomes a technical requirement for model stability.
+Together, they map the **cross-border circulation of racialised data**, the fragility of imported security tools, and the systemic vulnerabilities created when injustice becomes a technical requirement for model stability.  
 
-_Last updated: 2025-12-07_
+> 📡 Cross-references:
+> 
+> - [🌍 Israel–Five Eyes Structural Interdependency](../💫_Containment_Logic/🌍_israel_five_eyes_structural_interdependency.md)  
+> - [🌍 Apartheid Algorithm Dependency Theory](../../🦕_Elder_Influencers/🕸️_World_Webs/🌍_apartheid_algorithm_dependency_theory.md)  
+> - [🦁 We Are Citizens, Not Datasets](../💫_Containment_Logic/🦁_we_are_citizens_not_datasets.md)  
+> - [🧬 Metadata-Driven Racism](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_metadata_driven_racism.md)
+> - [🧿 UK Persuasion Engine on Palestine](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧿_uk_persuasion_engine_on_palestine.md)  
+> - [🐍 PREVENT as a Self-Eating Snake (Early Detection Drift)](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🐍_prevent_as_a_self_eating_snake.md)  
+> - [🧬 Proto-Secret-Police Architecture](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_proto_secret_police_architecture.md)  
+> - [🧠 Early Secret Police Architecture](../⚖️_Legal_State_Governance/🧠_early_secret_police_architecture.md)  
+
+_Last updated: 2025-12-25_
