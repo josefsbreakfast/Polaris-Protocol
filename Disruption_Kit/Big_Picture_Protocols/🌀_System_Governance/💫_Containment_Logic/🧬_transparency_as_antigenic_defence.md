@@ -1,5 +1,5 @@
 # 🧬 Transparency as Antigenic Defence  
-**First created:** 2025-11-05 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-05 | **Last updated:** 2025-12-25  
 *How democratic transparency functions as an immune response to misinformation and authoritarian anxiety.*  
 
 ---
@@ -107,8 +107,10 @@ It reframes disclosure not as risk but as metabolism — the way democracies sta
 
 > 📡 Cross-references:
 > 
-> - [🔥 Suppression as Signal](../../🔥_Suppression_as_Signal.md) — *autoimmunity and control loops*  
-> - [🩸 Governance Autoimmunity](../🩸_Governance_Autoimmunity.md) — *when fear becomes pathology*  
-> - [🌞 Transparency as Self-Correction](../../Big_Picture_Protocols/🌞_Transparency_as_Self_Correction.md) — *operational manual for open information systems*  
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *autoimmunity and control loops*  
+> - [*Pending:* 🌞 Transparency as Self-Correction] — *operational manual for open information systems*
+> - [📜 ICO-Ready Contradiction Framing](../../../Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_ico_ready_contradiction_framing.md)
+> - [⚖️ Defend Forward & Sovereign Cyber Response Ladder](../⚖️_Legal_State_Governance/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
+> - [🕊️ Trust Repair Protocols](../../../../🦆_Digital_Disruption/🐝_All_In_Commons/🕊️_trust_repair_protocols.md)  
 
-_Last updated: 2025-12-19_
+_Last updated: 2025-12-25_
