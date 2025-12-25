@@ -1,6 +1,6 @@
 # 🍞 Use-Value vs Hoarding  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why the public distinguishes between wealth that feeds people and wealth that merely accumulates.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*Why the public distinguishes between wealth that feeds people and wealth that merely accumulates.*  
 
 ---
 
@@ -146,10 +146,12 @@ It contributes analytical clarity on why the public distinguishes between produc
 
 > 📡 Cross-references:
 > 
-> - [📉 Asset-Rich, Cash-Poor Farming](./📉_asset_rich_cash_poor_farming.md) — paper wealth vs lived reality  
-> - [🧠 The Moral Floor of Taxation](./🧠_the_moral_floor_of_taxation.md) — where redistribution stops working  
-> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — survival before ideology  
+> - [📉 Asset-Rich, Cash-Poor Farming](./📉_asset_rich_cash_poor_farming.md) — *paper wealth vs lived reality*  
+> - [🧠 The Moral Floor of Taxation](./🧠_the_moral_floor_of_taxation.md) — *where redistribution stops working*  
+> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — *survival before ideology*
+> - [🐄 Land Scarcity and Space Dignity](../../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐄_land_scarcity_and_space_dignity.md) - *land and production are always political*  
+> - [🫀 Eating Disorder Comparisons To Hunger Strikes](../../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🫀_ed_comparisons_to_hunger_strikes.md) - *food and consumption are always political*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
