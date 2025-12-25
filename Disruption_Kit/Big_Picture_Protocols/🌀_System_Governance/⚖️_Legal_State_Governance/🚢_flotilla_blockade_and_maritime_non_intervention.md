@@ -1,5 +1,5 @@
-# 🚢 Flotilla, blockade, and maritime non-intervention  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+# 🚢 Flotilla, Blockade, And Maritime Non-Intervention  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
 *How watching at sea became a choice — and why non-intervention hardened into acceptance.*  
 
 ---
@@ -142,16 +142,16 @@ naval blockade, humanitarian flotilla, maritime law, starvation prohibition, non
 
 ## 🏮 Footer
 
-*Flotilla, blockade, and maritime non-intervention* is a supporting case-study node in the **Polaris Protocol**.
+*🚢 Flotilla, Blockade, And Maritime Non-Intervention* is a supporting case-study node in the **Polaris Protocol**.
 
 It exists to show how prevention can fail **in full view**, and why watching from the waterline without acting converts neutrality into acceptance.
 
 > 📡 Cross-references:
 >
-> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)] — *where omission mattered*  
-> - [🧬 Distributed complicity in modern warfare] — *how observation enables harm*  
-> - [🚗 When allies should take the keys] — *ally duty under capacity*  
->
-> *Survivor authorship is sovereign. Containment is never neutral.*
+> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *where omission mattered*  
+> - [🧬 Distributed Complicity In Modern Warfare](../👑_Ownership_Control/🧬_distributed_complicity_in_modern_warfare.md) — *how observation enables harm*  
+> - [🚗 When Allies Should Take The Keys](./🚗_when_allies_should_take_the_keys.md) — *ally duty under capacity*  
 
-_Last updated: 2025-12-21_
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2025-12-25_
