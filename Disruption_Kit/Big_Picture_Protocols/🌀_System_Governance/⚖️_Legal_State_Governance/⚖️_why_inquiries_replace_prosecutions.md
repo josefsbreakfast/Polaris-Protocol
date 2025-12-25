@@ -90,8 +90,8 @@ It documents how governance mechanisms absorb pressure while avoiding legal reck
 
 > 📡 Cross-references:  
 > 
-> - [⚖️ Where Prosecutorial Discretion Lives](./⚖️_where_prosecutorial_discretion_lives.md)  
-> - [⚖️ We Do Have to Prosecute the Elite, Actually](./⚖️_we_do_have_to_prosecute_the_elite_actually.md)  
+> - [⚖️ How the CPS Operates](./⚖️_how_the_cps_operates.md) - *what "independence" actually means*  
+> - [⚖️ We Do Have to Prosecute the Elite, Actually](./⚖️_we_do_have_to_prosecute_the_elite_actually.md) — *accountability as public good*  
 > - [🧨 If You Don’t Prosecute, You Invite Predators](./🧨_if_you_dont_prosecute_you_invite_predators.md) — *opportunity signalling*  
 > - [⚖️ Non-Prosecution Teaches Impunity](./⚖️_non_prosecution_teaches_impunity.md) — *behavioural learning*  
 
