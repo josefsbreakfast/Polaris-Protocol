@@ -1,5 +1,5 @@
 # 🇷🇺 Russia Is a Threat… When Process Is Weak  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-24  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
 *Why procedural fragility, not external hostility alone, defines contemporary security risk.*  
 
 ---
@@ -228,7 +228,8 @@ It also answers the age-old question: [🌌 Ам я всё ещё слишком
 > - [⚖️ Judicial Reviews, Parliamentary Committees, And Procedural Delay](./⚖️_judicial_reviews_parliamentary_committees_and_procedural_delay.md) — *how process absorbs risk*
 > - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *where norm credibility fractures*
 > - [🏛️ Ministerial Authority And Collapse Of Lawful Refusal](./🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *authority without friction*
+> - [🧿 UK Slow Burn Constitutional Crisis: The Fault Lines](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧿_uk_slow_burn_constitutional_crisis.md) — *the actual problem*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-24_
+_Last updated: 2025-12-25_
