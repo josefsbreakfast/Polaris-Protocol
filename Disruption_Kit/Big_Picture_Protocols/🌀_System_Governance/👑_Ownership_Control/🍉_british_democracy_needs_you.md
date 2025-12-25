@@ -1,6 +1,6 @@
 # 🍉 British Democracy Needs You  
-**First created:** 2025-12-23 | **Last updated:** 2025-12-23  
-*Why public clarity protects institutions under pressure.*
+**First created:** 2025-12-23 | **Last updated:** 2025-12-25  
+*Why public clarity protects institutions under pressure.*  
 
 ---
 
@@ -35,8 +35,18 @@ british democracy, public institutions, bbc pressure, civic responsibility, hung
 
 ## 🏮 Footer  
 *🍉 British Democracy Needs You* is a living node of the Polaris Protocol.  
-It situates the current moment as democratic maintenance rather than partisan crisis.
+It situates the current moment as democratic maintenance rather than partisan crisis.  
+
+> 📡 Cross-references:
+> 
+> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) — *how we got here*  
+> - [🍉 The Puppets Ain’t Israeli](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🍉_the_puppets_aint_israeli.md) - *the argument to consider other sources*  
+> - [👾 Working Diagnosis: UK Data Exposure Accumulation](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👾_working_diagnosis_uk_data_exposure_accumulation.md) — *structural conditions enabling interference*  
+> - [🍉 Who Are the Sock Puppets?](../📚_Narrative_Management/🍉_who_are_the_sock_puppets.md) — *behavioural signatures of coordination*  
+> - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](../../../Survivor_Tools/🧰_tools_against_sock_puppets.md) — *disruption without amplification*
+> - [🏛️ Our Island, Our Realm, Our Rules (and Why That Includes Hospitality)](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_our_island_our_realm_our_rules.md)
+> - [🇬🇧 Flags, False Catharsis, and the Thing We Refused to Say](../📚_Narrative_Management/🇬🇧_flags_and_false_catharsis.md) - *symbolic patriotism versus moral clarity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2025-12-25_
