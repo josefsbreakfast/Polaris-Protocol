@@ -1,5 +1,5 @@
 # 🧠 Cognitive Immunology  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
 *A framework for understanding how societies resist or succumb to epistemic harm at population scale.*  
 
 ---
@@ -172,10 +172,11 @@ cognitive immunology, epistemic health, herd immunity model, misinformation resi
 It provides a conceptual framework for understanding how epistemic harm spreads, how burnout suppresses collective resistance, and how societies can rebuild population-level resilience in computational environments.
 
 > 📡 Cross-references:
-> - **📱 Digital Literacy as Democratic Infrastructure** — civic foundations  
-> - **🛡️ Epistemic Exhaustion as an Attack Surface** — security implications  
-> - **🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash** — origin conditions  
+> 
+> - [📱 Digital Literacy as Democratic Infrastructure](../../🌀_System_Governance/💫_Containment_Logic/📱_digital_literacy_as_democratic_infrastructure.md) — *civic foundations*  
+> - [🛡️ Epistemic Exhaustion as an Attack Surface](../../🌀_System_Governance/💫_Containment_Logic/🛡️_epistemic_exhaustion_as_an_attack_surface.md) — *security implications*  
+> - [🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash](../../🌀_System_Governance/🛰️_Infrastructure_Procurement/🧨_overclocked_capitalism_2020_cognitive_crash.md) — *origin conditions*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-25_
