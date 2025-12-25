@@ -1,6 +1,6 @@
 # 🧭 Migration Crisis as a Consultancy Revenue Environment  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*How prolonged migration crises create structural demand for classification, control, and optimisation services.*
+**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+*How prolonged migration crises create structural demand for classification, control, and optimisation services.*  
 
 ---
 
@@ -108,14 +108,17 @@ migration crisis, consultancy governance, population classification, equality ac
 
 ## 🏮 Footer  
 
-*Migration Crisis as a Consultancy Revenue Environment* is a living node of the **Polaris Protocol**.  
+*🧭 Migration Crisis as a Consultancy Revenue Environment* is a living node of the **Polaris Protocol**.  
 It documents how prolonged migration instability is transformed into sustained demand for classificatory governance systems that undermine civic equality and democratic accountability.
 
 > 📡 Cross-references:
 > 
-> - [🏛️ Consultancy Power vs Democratic Safeguards] — *structural incentive conflict*  
-> - [🧲 What BCG Takes from the UK … and Palestine] — *extraction pathways*  
+> - [🏛️ Consultancy Power vs Democratic Safeguards](../../🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_consultancy_power_vs_democratic_safeguards.md) — *structural incentive conflict*  
+> - [🧲 What BCG Takes from the UK … and Palestine](../../🌀_System_Governance/🛰️_Infrastructure_Procurement/🧲_what_bcg_takes_from_the_uk_and_palestine.md) — *extraction pathways*
+> - [🧪 Bad Procurement as a Security Vector](../../🌀_System_Governance/🛰️_Infrastructure_Procurement/🧪_bad_procurement_as_a_security_vector.md)  
+> - [💥 Systemic Vendor Failure](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/💥_systemic_vendor_failure.md)  
+> - [🛠️ Work Check Duplication](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/🛠️_work_check_duplication.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-25_
