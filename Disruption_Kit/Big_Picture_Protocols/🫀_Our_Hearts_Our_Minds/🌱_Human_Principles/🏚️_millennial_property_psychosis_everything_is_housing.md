@@ -213,7 +213,7 @@ It supports the **Big Picture Protocols** and **Generational Dynamics** clusters
 > - [📊 Gen Z Procedural Protest & Spreadsheet Organising](./📊_gen_z_procedural_protest.md)  
 > - [🗑️ Orthopaedic Anarchism](../🐝_Body_Politic/🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md)
 >   
->   *Looks like housing to me...*
+>   *Looks like housing to me...:*  
 > - [⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure](../../🌀_System_Governance/👑_Ownership_Control/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
