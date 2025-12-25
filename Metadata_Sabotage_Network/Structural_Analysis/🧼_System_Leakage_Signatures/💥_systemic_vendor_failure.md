@@ -1,5 +1,5 @@
 # 💥 Systemic Vendor Failure  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
 *How a flaw in one vendor, one risk engine, or one behavioural-model pipeline creates cascading failures across governments, agencies, NGOs, reputational systems, and crisis-comms architectures.*  
 
 ---
@@ -289,13 +289,15 @@ Metadata_Foreensics · Vendor_Ecosystem · Transparency_Warfare · Signal_Collap
 # 🏮 Footer  
 This node connects directly with:
 
-- **Metadata-Chain Reconstruction**,  
-- **Vendor Blindspot Mapping**,  
-- **Incomplete Search Diagnostics**,  
-- **Institutional Panic Dynamics**,  
-- **Risk Vector Inversions**,  
-- **Full-Stack Institutional Failure**.
+> 📡 Cross-references:
+> 
+> - [🛰️ Metadata-Chain Reconstruction (The Ghost Pipeline Method)](../../../Disruption_Kit/Survivor_Tools/🛰️_metadata_chain_reconstruction_the_ghost_pipeline_method.md)  
+> - [🛰️ Vendor Blindspot Mapping](../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_vendor_blindspot_mapping.md)  
+> - [📜 Incomplete Search Behaviour (Diagnostics)](../../../Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_incomplete_search_behaviour_diagnostics.md)  
+> - [💥 Institutional Panic Dynamics](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💥_institutional_panic_dynamics.md)  
+> - [💥 Risk Vector Inversions](../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/💥_risk_vector_inversions.md)  
+> - [*Pending:* 🏚️ Full-Stack Institutional Failure]  
 
 It is the gateway into the **Ecosystem Collapse** nodes that follow.
 
-_Last updated: 2025-12-09_
+_Last updated: 2025-12-25_
