@@ -1,5 +1,5 @@
 # 📉 Asset-Rich, Cash-Poor Farming  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
 *Why paper wealth breaks working farms — and why policy keeps pretending it doesn’t.*
 
 ---
@@ -153,7 +153,10 @@ Food production cannot be treated like a passive store of value without conseque
 - *Agricultural balance-sheet analyses* — asset valuation vs cash flow  
 - *Inheritance tax case studies in farming* — consolidation outcomes  
 - *Rural finance reports* — debt, volatility, and liquidity traps  
-- *Land concentration research* — policy-driven accumulation  
+- *Land concentration research* — policy-driven accumulation
+- [Finance Bill Sub-Committee (inc evidence portal](https://committees.parliament.uk/committee/230/finance-bill-subcommittee/news/209304/finance-bill-subcommittee-launches-call-for-evidence/) - *relevant parliamentary subcommittee*  
+- [Watch: Liaison Committee (Mon 15 Dec 2025)](https://parliamentlive.tv/event/index/5b150344-5bcf-4bd8-9358-51c29ace334b?in=14:47:17) - *the Finance Bill Subcommittee raised concerns from Mon 08 Dec 2025 session in this committee, watch time set to start accordingly*  
+- [Farmers rejoice as Starmer caves in to pressure and waters down inheritance tax raid](https://www.independent.co.uk/news/uk/politics/inheritance-tax-farmers-labour-starmer-b2889532.html) - *update to live story; inheritance tax threshold raised to protect family farmers after subcommittee representation*  
 
 ---
 
@@ -170,10 +173,10 @@ It contributes structural analysis on how treating productive land as liquid wea
 
 > 📡 Cross-references:
 > 
-> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — extraction without situational intelligence  
-> - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — title divorced from responsibility  
-> - [🤝 Workers Don’t Abandon Workers](./🤝_workers_dont_abandon_workers.md) — class misclassification and capture  
+> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — *extraction without situational intelligence*  
+> - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — *title divorced from responsibility*  
+> - [🤝 Workers Don’t Abandon Workers](./🤝_workers_dont_abandon_workers.md) — *class misclassification and capture*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
