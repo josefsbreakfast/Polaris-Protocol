@@ -1,5 +1,5 @@
 # 💍 Two-Party System as an Old-Fashioned Marriage  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-25  
 *Why Labour and the Conservatives function like a compulsory marriage contract — and what breaks when either partner abandons their role.*  
 
 ---
@@ -139,10 +139,10 @@ It supports the **Big Picture Protocols** cluster by mapping interdependent part
 
 > 📡 Cross-references:
 > 
-> - [🟥 Labour as the Alternative to Revolution]  
-> - [🟦 Conservatives as the Counterbalance to Radical Change]  
-> - [🧭 Political Homeostasis]  
+> - [🟥 Labour as the Alternative to Revolution](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🌹_for_the_serious_red_chaps.md)  
+> - [🟦 Conservatives as the Counterbalance to Radical Change](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🖌️_for_the_serious_blue_chaps.md)  
+> - [⚠️ Alt‑Right Threat to Both Parties](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/⚠️_alt_right_threat_to_both_parties.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-09_
+_Last updated: 2025-12-25_
