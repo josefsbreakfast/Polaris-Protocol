@@ -1,6 +1,6 @@
-# 🏛️ A State That Cannot Confront Abuse Cannot Protect
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Why avoidance of abuse accountability destroys the state’s core protective function*
+# 🏛️ A State That Cannot Confront Abuse Cannot Protect  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+*Why avoidance of abuse accountability destroys the state’s core protective function.*  
 
 ---
 
@@ -163,15 +163,16 @@ state protection, abuse accountability, safeguarding failure, elite impunity, le
 
 ## 🏮 Footer
 
-*A State That Cannot Confront Abuse Cannot Protect* is a living node of the **Polaris Protocol**.  
+*🏛️ A State That Cannot Confront Abuse Cannot Protect* is a living node of the **Polaris Protocol**.  
 It documents how failure to confront abuse undermines the state’s fundamental protective mandate.
 
-> 📡 Cross-references:
-> - **🏛️ Elite Non-Prosecution Undermines the Rule of Law** — constitutional failure  
-> - **🧨 If You Don’t Prosecute, You Invite Predators** — deterrence collapse  
-> - **🏛️ Impunity Creates Authoritarian Openings** — political backblast  
-> - **🧬 How to Prosecute Power Without Collapse** — repair mechanisms  
+> 📡 Cross-references:  
+> 
+> - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *constitutional effects*  
+> - [🧨 If You Don’t Prosecute, You Invite Predators](./🧨_if_you_dont_prosecute_you_invite_predators.md) — *deterrence collapse*  
+> - [🏛️ Impunity Creates Authoritarian Openings](./🏛️_impunity_creates_authoritarian_openings.md) — *political backblast*  
+> - [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) — *repair mechanisms*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-25_
