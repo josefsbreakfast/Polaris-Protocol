@@ -1,6 +1,6 @@
 # 🌳 Freedom, Farming, and Food  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*How land, food production, and democratic legitimacy repeatedly collide — and why the public notices.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*How land, food production, and democratic legitimacy repeatedly collide — and why the public notices.*  
 
 ---
 
@@ -74,7 +74,12 @@ These are moments where:
 
 ## 🌌 Constellations  
 
-🌳 ⚖️ 🧠 🛰️ 🍞 — land stewardship, legitimacy, public cognition, governance, food systems.
+🌳 ⚖️ 🧠 🛰️ 🍞 — land stewardship, legitimacy, public cognition, governance, food systems.  
+
+*Further reading and viewing:*  
+- [Finance Bill Sub-Committee (inc evidence portal](https://committees.parliament.uk/committee/230/finance-bill-subcommittee/news/209304/finance-bill-subcommittee-launches-call-for-evidence/) - *relevant parliamentary subcommittee*  
+- [Watch: Liaison Committee (Mon 15 Dec 2025)](https://parliamentlive.tv/event/index/5b150344-5bcf-4bd8-9358-51c29ace334b?in=14:47:17) - *the Finance Bill Subcommittee raised concerns from Mon 08 Dec 2025 session in this committee, watch time set to start accordingly*  
+- [Farmers rejoice as Starmer caves in to pressure and waters down inheritance tax raid](https://www.independent.co.uk/news/uk/politics/inheritance-tax-farmers-labour-starmer-b2889532.html) - *update to live story; inheritance tax threshold raised to protect family farmers after subcommittee representation*  
 
 ---
 
@@ -91,10 +96,10 @@ It contributes long-memory analysis on how food systems act as a stabilising —
 
 > 📡 Cross-references:
 > 
-> - [🦕 Elder Influencers](../) — inherited power and deep legitimacy structures  
-> - [🍿 Historical Democratic Actions](../) — public-facing moments where authority fractures  
-> - [🧠 Big Picture Protocols](../../) — systemic governance analysis  
+> - [🦕 Elder Influencers](../../README.md) — *inherited power and deep legitimacy structures*  
+> - [🍿 Historical Democratic Actions](../README.md) — *public-facing moments where authority fractures*  
+> - [🧠 Big Picture Protocols](../../../README.md) — *systemic governance analysis*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
