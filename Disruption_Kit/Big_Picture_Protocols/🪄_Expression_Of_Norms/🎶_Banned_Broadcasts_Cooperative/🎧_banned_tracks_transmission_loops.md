@@ -1,5 +1,5 @@
 # 🎧 Banned Tracks Transmission Loops  
-**First created:** 2025-09-29 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-29 | **Last updated:** 2025-12-25  
 *When the state bans a song, the speakers get louder.*  
 
 ---
@@ -89,10 +89,11 @@ banned music, bootlegs, peer-to-peer resistance, audio censorship, Gil Scott-Her
 *🎧 Banned Tracks Transmission Loops* is a living node of the Polaris Protocol.  
 It traces the architecture of sonic suppression and how music — more than text — resists metadata throttling.  
 
-> 📡 Cross-references:  
-> - [🔥 Suppression as Signal](../🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *How the act of burying a book becomes its own marketing engine*  
+> 📡 Cross-references:
+> 
+> - [🔥 Suppression as Signal](../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *How the act of burying a book becomes its own marketing engine*  
 > - [🎬 Suppression Legends Film Index](./🎬_suppression_legends_film_index.md) — *Films that became cultural detonators precisely because someone tried to mute them*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-12-25_  
