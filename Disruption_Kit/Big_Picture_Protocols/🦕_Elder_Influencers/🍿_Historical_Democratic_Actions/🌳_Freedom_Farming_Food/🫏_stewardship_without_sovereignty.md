@@ -1,6 +1,6 @@
 # 🫏 Stewardship Without Sovereignty  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why demanding care without control reliably breaks systems — and why farming keeps being asked to do exactly that.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*Why demanding care without control reliably breaks systems — and why farming keeps being asked to do exactly that.*  
 
 ---
 
@@ -174,10 +174,10 @@ It contributes structural analysis on why assigning care without control reliabl
 
 > 📡 Cross-references:
 > 
-> - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — title without responsibility  
-> - [🦠 Farming Under Uninsurable Catastrophe](./🦠_farming_under_uninsurable_catastrophe.md) — risk without protection  
-> - [🎭 Procedure Without Legitimacy](./🎭_procedure_without_legitimacy.md) — authority without sense  
+> - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — *title without responsibility*  
+> - [🦠 Farming Under Uninsurable Catastrophe](./🦠_farming_under_uninsurable_catastrophe.md) — *risk without protection*  
+> - [🎭 Procedure Without Legitimacy](./🎭_procedure_without_legitimacy.md) — *authority without sense*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
