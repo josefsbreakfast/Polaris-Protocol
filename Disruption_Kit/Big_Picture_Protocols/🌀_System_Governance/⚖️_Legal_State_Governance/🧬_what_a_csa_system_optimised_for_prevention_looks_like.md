@@ -1,6 +1,6 @@
-# 🧬 What a CSA System Optimised for Prevention Looks Like
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Designing child sexual abuse prevention as public safety infrastructure, not moral aftercare*
+# 🧬 What a CSA System Optimised for Prevention Looks Like  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+*Designing child sexual abuse prevention as public safety infrastructure, not moral aftercare.*  
 
 ---
 
@@ -226,15 +226,16 @@ child sexual abuse prevention, system design, forensic psychology, harm reductio
 
 ## 🏮 Footer
 
-*What a CSA System Optimised for Prevention Looks Like* is a living node of the **Polaris Protocol**.  
+*🧬 What a CSA System Optimised for Prevention Looks Like* is a living node of the **Polaris Protocol**.  
 It documents how child protection fails when systems prioritise punishment optics over early intervention and harm reduction.
 
-> 📡 Cross-references:
-> - **⚖️ Risk Aversion Is Policy** — why systems stall  
-> - **🧨 If You Don’t Prosecute, You Invite Predators** — deterrence failure  
-> - **🏛️ Elite Non-Prosecution Undermines the Rule of Law** — legitimacy effects  
-> - **🧬 Forensic_Psychology_Is_Infrastructure** — treatment as safety  
+> 📡 Cross-references:  
+> 
+> - [⚖️ Risk Aversion Is Policy](./⚖️_risk_aversion_is_policy.md) — *why systems stall*  
+> - [🧨 If You Don’t Prosecute, You Invite Predators](./🧨_if_you_dont_prosecute_you_invite_predators.md) — *deterrence failure*  
+> - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *legitimacy effects*  
+> - [🧬 Forensic Psychology Is Infrastructure](../🛰️_Infrastructure_Procurement/🧬_forensic_psychology_is_infrastructure.md) — *treatment as safety*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-25_
