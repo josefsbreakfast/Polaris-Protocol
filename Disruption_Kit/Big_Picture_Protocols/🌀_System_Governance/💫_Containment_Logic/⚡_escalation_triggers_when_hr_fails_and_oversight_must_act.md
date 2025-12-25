@@ -1,6 +1,6 @@
 # ⚡ Escalation Triggers — When HR Fails and Oversight Must Act  
-**First created:** 2025-10-26 | **Last updated:** 2025-10-28  
-*The hard-threshold moments that convert a misclassified “HR issue” into a protective-security and governance event.*
+**First created:** 2025-10-26 | **Last updated:** 2025-12-25  
+*The hard-threshold moments that convert a misclassified “HR issue” into a protective-security and governance event.*  
 
 ---
 
@@ -93,10 +93,11 @@ It identifies the hard-threshold points at which interpersonal or HR-framed inci
 
 > 📡 Cross-references:
 > 
-> – [💫 Containment Logic Index](../💫_Containment_Logic/README.md) — documentation of procedural delay and escalation mechanics  
-> – [🌀 System Governance](../) — structural analysis of oversight and accountability systems  
-> – [🏮 Admin Kit](../../../🏮_Admin_Kit/README.md) — house style and protocol scaffolding  
+> - [🌀 Containment Under Observation](../../🦕_Elder_Influencers/📜_Statutes/🌀_containment_under_observation.md)  
+> - [*Pending:* 🧿 Oversight Paralysis — When Allies Breach the Firewall]  
+> - [🧩 Ideal Whitehall Response Sequence](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧩_ideal_whitehall_response_sequence.md)
+> - [👑 Asserting Sovereignty After Allied Interference](../👑_Ownership_Control/👑_asserting_sovereignty_after_allied_interference.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-28_
+_Last updated: 2025-12-25_
