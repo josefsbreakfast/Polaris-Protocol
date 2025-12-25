@@ -1,6 +1,6 @@
 # 💊 Antibiotics as Crisis Adaptation  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*Why practices condemned as unethical are often rational responses to uninsurable risk.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*Why practices condemned as unethical are often rational responses to uninsurable risk.*  
 
 ---
 
@@ -136,10 +136,11 @@ It contributes structural analysis on why antibiotic reliance in farming is a pr
 
 > 📡 Cross-references:
 > 
-> - [🦠 Farming Under Uninsurable Catastrophe](./🦠_farming_under_uninsurable_catastrophe.md) — the risk environment  
-> - [📉 Asset-Rich, Cash-Poor Farming](./📉_asset_rich_cash_poor_farming.md) — liquidity pressure  
-> - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — responsibility without protection  
+> - [🦠 Farming Under Uninsurable Catastrophe](./🦠_farming_under_uninsurable_catastrophe.md) — *the risk environment*  
+> - [📉 Asset-Rich, Cash-Poor Farming](./📉_asset_rich_cash_poor_farming.md) — *liquidity pressure*  
+> - [🪵 Land Without Stewardship](./🪵_land_without_stewardship.md) — *responsibility without protection*
+> - [🧲 The Magnet Doesn’t Care: Applied Science vs Tech-Bro Cosmology](../../../🌀_System_Governance/🧪_Development_Experimentation/🧲_the_magnet_doesnt_care.md) - *sometimes science says, "no", and it's getting close to putting its foot down on antibiotic discovery; reasons to help our farming colleagues farm as sustainably as they are able*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
