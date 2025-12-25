@@ -1,5 +1,5 @@
 # 👻 Ghost Persona Error Modes  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
 *How synthetic personas — the statistical “children” created from twin vectors and centroids — behave when their internal logic collapses under contradictory identity, stance, and behavioural inputs.*  
 
 ---
@@ -270,15 +270,17 @@ Synthetic_Personae · Centroid_Collapse · Signal_Collapse · Ghost_Pipelines ·
 # 🏮 Footer  
 This node links directly to:
 
-- **Centroid Collapse**,  
-- **Identity–Stance Mismatch Architecture**,  
-- **Identity–Behaviour Mismatch**,  
-- **Risk Vector Inversions**,  
-- **Diaspora Instability Patterns**,  
-- **PR Simulation Breakdown**,  
-- **Systemic Vendor Failure**.
+> 📡 Cross-references:
+> 
+> - [🧬 Centroid Collapse](./🧬_centroid_collapse.md)  
+> - [🧩 Identity–Stance Mismatch Architecture](../🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_stance_mismatch_architecture.md)  
+> - [🧩 Identity–Behaviour Mismatch](../🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_behaviour_mismatch.md)  
+> - [💥 Risk Vector Inversions](../🧿_Targeting_Logic_Metadata_Signatures/💥_risk_vector_inversions.md)  
+> - [🧩 Diaspora Instability Patterns](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_diaspora_instability_patterns.md)  
+> - [📣 PR Simulation Breakdown]((../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📣_pr_simulation_breakdown.md)  
+> - [💥 Systemic Vendor Failure](../🧼_System_Leakage_Signatures/💥_systemic_vendor_failure.md)  
 
 It forms the core of the **Synthetic Persona Collapse** cluster  
 within the Polaris modelling-failure architecture.
 
-_Last updated: 2025-12-09_
+_Last updated: 2025-12-25_
