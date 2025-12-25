@@ -1,6 +1,6 @@
-# 🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*How UK continuity, delay, and “risk management” displaced the Genocide Convention’s prevention duty into procedural fog.*
+# 🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+*How UK continuity, delay, and “risk management” displaced the Genocide Convention’s prevention duty into procedural fog.*  
 
 ---
 
@@ -196,16 +196,16 @@ genocide convention, duty to prevent, icj provisional measures, uk state respons
 
 ## 🏮 Footer
 
-*Failure of genocide prevention: UK state (Jan–Aug 2024)* is a living node of the **Polaris Protocol**.  
+*🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)* is a living node of the **Polaris Protocol**.  
 It exists to pin down where prevention duties became operational, where UK levers existed, and how continuity displaced obligation into process.
 
 > 📡 Cross-references:
 >
-> - [*Pending:* 🏛️ Ministerial authority and collapse of lawful refusal] — *why downstream refusal routes failed*
-> - [*Pending:* 🧬 Distributed complicity in modern warfare] — *why “just observing” becomes material support*
-> - [*Pending:* 🚗 When allies should take the keys] — *ally duty, leverage, and boundary-setting*
-> - [*Pending:* 🚢 Flotilla, blockade, and maritime non-intervention] — *knowledge + choice at sea*
+> - [🏛️ Ministerial Authority And The Collapse Of Lawful Refusal](./🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *why downstream refusal routes failed*
+> - [🧬 Distributed Complicity In Modern Warfare](../👑_Ownership_Control/🧬_distributed_complicity_in_modern_warfare.md) — *why “just observing” becomes material support*
+> - [🚗 When Allies Should Take The Keys](./🚗_when_allies_should_take_the_keys.md) — *ally duty, leverage, and boundary-setting*
+> - [🚢 Flotilla, Blockade, And Maritime Non-Intervention](./🚢_flotilla_blockade_and_maritime_non_intervention.md) — *knowledge + choice at sea*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-25_
