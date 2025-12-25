@@ -1,5 +1,5 @@
 # ✈️ Genocides and Paedophiles  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
 *On how democracies are repeatedly hollowed out to protect elite sexual violence and its facilitators.*  
 
 ---
@@ -158,10 +158,15 @@ It contributes structural analysis of how democratic systems are hollowed out to
 
 > 📡 Cross-references:
 > 
-> - [✈️ Justice Forbidden] — *pre-emptive denial of accountability*  
-> - [✈️ Arresting Justice] — *justice delayed as governance strategy*  
-> - [🗄️ Epstein Files Are Red Herrings — *misdirection through disclosure*  
+> - [✈️ Justice Forbidden](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_justice_forbidden.md) — *pre-emptive denial of accountability*  
+> - [🏛️ Ministerial Authority And The Collapse Of Lawful Refusal](../⚖️_Legal_State_Governance/🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *why downstream refusal routes failed*  
+> - [🧬 How to Prosecute Power Without Collapse](../⚖️_Legal_State_Governance/🧬_how_to_prosecute_power_without_collapse.md) - *what functional elite accountability could look like*  
+> - [✈️ Arresting Justice](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_arresting_justice.md) — *justice delayed as governance strategy*  
+> - [🗄️ Epstein Files Are Red Herrings](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗄️_epstein_files_are_red_herrings.md) — *misdirection through disclosure*  
+> - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)](../⚖️_Legal_State_Governance/🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md)  
+> - [🧬 Distributed Complicity In Modern Warfare](./🧬_distributed_complicity_in_modern_warfare.md) — *why “just observing” becomes material support*  
+> - [🧬 What a CSA System Optimised for Prevention Looks Like](../⚖️_Legal_State_Governance/🧬_what_a_csa_system_optimised_for_prevention_looks_like.md) — *design-first thinking*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2025-12-25_
