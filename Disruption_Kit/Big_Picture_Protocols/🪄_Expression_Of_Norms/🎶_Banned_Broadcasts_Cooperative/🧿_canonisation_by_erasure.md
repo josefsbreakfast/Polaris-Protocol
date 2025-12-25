@@ -1,5 +1,5 @@
 # 🧿 Canonisation by Erasure  
-**First created:** 2025-09-29 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-29 | **Last updated:** 2025-12-25  
 *When a work is buried, it becomes holy.*  
 
 ---
@@ -65,10 +65,11 @@ resistance myth, forbidden archive, narrative leakage
 It maps the inverse effect of suppression: how attempted silencing guarantees a legacy  
 through curiosity, resistance, and memory.  
 
-> 📡 Cross-references:  
-> - [🔥 Suppression as Signal](../Big_Picture_Protocols/🔥_suppression_as_signal.md)  
-> - [🎬 Suppression Legends Film Index](../🎶_Banned_Broadcasts_Cooperative/🎬_suppression_legends_film_index.md)  
+> 📡 Cross-references:
+> 
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
+> - [🎬 Suppression Legends Film Index](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎬_suppression_legends_film_index.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-12-25_  
