@@ -171,7 +171,9 @@ It contributes pattern-level analysis on why food system mismanagement accelerat
 > 
 > - [🥖 Food, Taxation, and Revolution](./🥖_food_taxation_and_revolution.md) — *extraction under scarcity*  
 > - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — *survival as hard constraint*  
-> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — *procedure without legitimacy*  
+> - [🧾 The Tax Collector Problem](./🧾_the_tax_collector_problem.md) — *procedure without legitimacy*
+> - [🧿 UK Slow Burn Constitutional Crisis: The Fault Lines](../../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧿_uk_slow_burn_constitutional_crisis.md) — *why this is a delicate moment for the UK*
+> - [🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *a framework to help you land-lubbers with managing multiple stressors at once*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
