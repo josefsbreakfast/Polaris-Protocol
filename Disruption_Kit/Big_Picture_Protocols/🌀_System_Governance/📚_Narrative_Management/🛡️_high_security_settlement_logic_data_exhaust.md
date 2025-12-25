@@ -1,6 +1,6 @@
 # 🛡️ High-Security Settlement Logic in Data-Exhaust Cases  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*Why defence and intelligence institutions disproportionately favour early settlement in data-exhaust disputes.*
+**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+*Why defence and intelligence institutions disproportionately favour early settlement in data-exhaust disputes.*  
 
 ---
 
