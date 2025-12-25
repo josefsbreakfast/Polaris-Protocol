@@ -1,6 +1,6 @@
-# 🧬 Restorative and Transformative Justice — Where It Actually Works
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Separating evidence-based application from romanticised abolition narratives*
+# 🧬 Restorative and Transformative Justice — Where It Actually Works  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+*Separating evidence-based application from romanticised abolition narratives.*  
 
 ---
 
@@ -196,15 +196,16 @@ restorative justice, transformative justice, harm reduction, accountability desi
 
 ## 🏮 Footer
 
-*Restorative and Transformative Justice — Where It Actually Works* is a living node of the **Polaris Protocol**.  
+*🧬 Restorative and Transformative Justice — Where It Actually Works* is a living node of the **Polaris Protocol**.  
 It documents the conditions under which non-carceral justice models reduce harm — and where their misuse creates new forms of violence.
 
-> 📡 Cross-references:
-> - **🧬 What a CSA System Optimised for Prevention Looks Like** — prevention-first design  
-> - **🧬 How to Prosecute Power Without Collapse** — accountability architecture  
-> - **⚖️ Risk Aversion Is Policy** — avoidance vs responsibility  
-> - **🧨 If You Don’t Prosecute, You Invite Predators** — deterrence limits  
+> 📡 Cross-references:  
+> 
+> - [🧬 What a CSA System Optimised for Prevention Looks Like](./🧬_what_a_csa_system_optimised_for_prevention_looks_like.md) — *prevention-first design*  
+> - [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) — *accountability architecture*  
+> - [⚖️ Risk Aversion Is Policy](./⚖️_risk_aversion_is_policy.md) — *avoidance vs responsibility*  
+> - [🧨 If You Don’t Prosecute, You Invite Predators](./🧨_if_you_dont_prosecute_you_invite_predators.md) — *deterrence limits*  
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-25_
