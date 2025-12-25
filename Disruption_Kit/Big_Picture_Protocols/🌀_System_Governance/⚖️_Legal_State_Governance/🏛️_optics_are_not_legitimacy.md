@@ -1,6 +1,6 @@
-# 🏛️ Optics Are Not Legitimacy
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Why performative stability corrodes authority faster than open failure*
+# 🏛️ Optics Are Not Legitimacy  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+*Why performative stability corrodes authority faster than open failure.*  
 
 ---
 
@@ -161,15 +161,16 @@ optics, legitimacy, performative governance, accountability theatre, trust colla
 
 ## 🏮 Footer
 
-*Optics Are Not Legitimacy* is a living node of the **Polaris Protocol**.  
+*🏛️ Optics Are Not Legitimacy* is a living node of the **Polaris Protocol**.  
 It documents how confusing appearance for authority accelerates democratic and institutional failure.
 
 > 📡 Cross-references:
-> - **🏛️ Reputation Management Is Not Governance** — category error  
-> - **⚖️ Inquiries Are a Pressure Release Valve** — performance substitution  
-> - **🏛️ Elite Non-Prosecution Undermines the Rule of Law** — legitimacy mechanics  
-> - **🏛️ Soft Power Dies in Silence** — external consequences  
+>
+> - [🏛️ Reputation Management Is Not Governance](./🏛️_reputation_management_is_not_governance.md) — *category error*  
+> - [⚖️ Inquiries Are a Pressure Release Valve](./⚖️_inquiries_are_a_pressure_release_valve.md) — *performance substitution*  
+> - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *legitimacy mechanics*  
+> - [🏛️ Soft Power Dies in Silence](./🏛️_soft_power_dies_in_silence.md) — *external consequences*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-20_
+_Last updated: 2025-12-25_
