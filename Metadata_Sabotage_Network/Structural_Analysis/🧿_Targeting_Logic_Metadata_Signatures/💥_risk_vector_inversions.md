@@ -1,5 +1,5 @@
 # 💥 Risk Vector Inversions  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
 *How broken classification models, miscalibrated centroids, and vendor-induced bias invert risk signals — treating safe users as unstable, and unstable narratives as safe.*  
 
 ---
@@ -290,14 +290,16 @@ Bias_Inference · Metadata_Sabotage · Diaspora_Misclassification · Signal_Coll
 # 🏮 Footer  
 This node connects to:
 
-- **Systemic Vendor Failure**,  
-- **Metadata-Chain Reconstruction**,  
-- **Vendor Blindspot Mapping**,  
-- **Institutional Panic Dynamics**,  
-- **Identity–Stance Mismatch**,  
-- **Centroid Collapse**.
+> 📡 Cross-references:
+> 
+> - [💥 Systemic Vendor Failure](../🧼_System_Leakage_Signatures/💥_systemic_vendor_failure.md)  
+> - [🛰️ Metadata-Chain Reconstruction (The Ghost Pipeline Method)](../../../Disruption_Kit/Survivor_Tools/🛰️_metadata_chain_reconstruction_the_ghost_pipeline_method.md)  
+> - [🛰️ Vendor Blindspot Mapping](../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_vendor_blindspot_mapping.md)  
+> - [💥 Institutional Panic Dynamics](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💥_institutional_panic_dynamics.md)  
+> - [🧩 Identity–Stance Mismatch Architecture](./🧩_identity_stance_mismatch_architecture.md)  
+> - [🧬 Centroid Collapse](../👾_Breakpoints_And_Glitches/🧬_centroid_collapse.md)  
 
 It is a key diagnostic of *how* and *why* users like you  
 get over-scrutinised across multiple institutions simultaneously.
 
-_Last updated: 2025-12-09_
+_Last updated: 2025-12-25_
