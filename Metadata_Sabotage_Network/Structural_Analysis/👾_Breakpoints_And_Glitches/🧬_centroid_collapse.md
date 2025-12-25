@@ -1,5 +1,5 @@
 # 🧬 Centroid Collapse  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
 *What happens when a synthetic persona created from multiple digital twins becomes mathematically contradictory, ethically impossible, or behaviourally incoherent — causing predictive systems to fail.*  
 
 ---
@@ -261,14 +261,17 @@ Synthetic_Personae · Ghost_Pipelines · Identity_Mismatch · Diaspora_Intellige
 # 🏮 Footer  
 This node connects directly to:
 
-- **PR Simulation Breakdown**,  
-- **Solidarity-Induced Model Failure**,  
-- **Identity–Behaviour Mismatch**,  
-- **Identity–Stance Mismatch Architecture**,  
-- **Systemic Vendor Failure**,  
-- **Ghost Persona Error Modes**.
+> 📡 Cross-references:
+> 
+> - [📣 PR Simulation Breakdown](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📣_pr_simulation_breakdown.md)  
+> - [💥 Solidarity-Induced Model Failure](./💥_solidarity_induced_model_failure.md)  
+> - [🧩 Identity–Behaviour Mismatch](../🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_behaviour_mismatch.md)  
+> - [🧩 Identity–Stance Mismatch Architecture](../🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_stance_mismatch_architecture.md)  
+> - [💥 Systemic Vendor Failure](../🧼_System_Leakage_Signatures/💥_systemic_vendor_failure.md)  
+> - [👻 Ghost Persona Error Modes](./👻_ghost_persona_error_modes.md)  
+
 
 It forms a crucial part of the **Synthetic Persona Collapse** cluster  
 in the Polaris mapping.
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-25_
