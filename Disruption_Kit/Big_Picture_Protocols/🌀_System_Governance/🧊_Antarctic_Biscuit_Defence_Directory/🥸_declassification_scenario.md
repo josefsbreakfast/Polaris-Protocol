@@ -1,8 +1,5 @@
 # 🥸 Declassification Scenario  
-
-**First created:** 2025-09-30  
-**Last updated:** 2025-09-30  
-
+**First created:** 2025-09-30 | **Last updated:** 2025-12-25  
 *A contingency plan for what happens if the Biscuit Directorate’s antics are ever dragged into daylight.*  
 
 ---
