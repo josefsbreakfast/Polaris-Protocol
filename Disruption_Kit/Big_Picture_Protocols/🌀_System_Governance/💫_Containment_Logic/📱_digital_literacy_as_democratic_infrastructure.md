@@ -1,6 +1,6 @@
 # 📱 Digital Literacy as Democratic Infrastructure  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-21  
-*Why baseline public understanding of digital systems is now a prerequisite for democratic resilience.*
+**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+*Why baseline public understanding of digital systems is now a prerequisite for democratic resilience.*  
 
 ---
 
@@ -170,14 +170,14 @@ digital literacy, democratic infrastructure, civic resilience, herd immunity mod
 ## 🏮 Footer
 
 *📱 Digital Literacy as Democratic Infrastructure* is a living node of the **Polaris Protocol**.  
-It establishes digital understanding as a collective civic requirement and documents how public cognitive resilience functions as a democratic defence layer in computational societies.
+It establishes digital understanding as a collective civic requirement and documents how public cognitive resilience functions as a democratic defence layer in computational societies.  
 
 > 📡 Cross-references:
 > 
-> - **🛡️ Epistemic Exhaustion as an Attack Surface** — security implications of disengagement  
-> - **🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash** — origin conditions  
-> - **🧠 Cognitive Immunology** — population-level resilience framework  
+> - [🛡️ Epistemic Exhaustion as an Attack Surface](./🛡️_epistemic_exhaustion_as_an_attack_surface.md) — *security implications*  
+> - [🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash](../🛰️_Infrastructure_Procurement/🧨_overclocked_capitalism_2020_cognitive_crash.md) — *origin conditions*  
+> - [🧠 Cognitive Immunology](../../🦕_Elder_Influencers/🕸️_World_Webs/🧠_cognitive_immunology.md) — *population-level resilience framework*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-25_
