@@ -1,6 +1,6 @@
 # 🧾 The Tax Collector Problem  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-22  
-*When authority is technically lawful but socially illegible — and why that’s where legitimacy breaks.*
+**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+*When authority is technically lawful but socially illegible — and why that’s where legitimacy breaks.*  
 
 ---
 
@@ -156,10 +156,13 @@ They fail *suddenly*, when the public stops granting benefit of the doubt.
 🧾 🌳 ⚖️ 🧠 📺 — taxation, land, legitimacy, public cognition, cultural memory  
 
 *Further reading / viewing:*  
-- *[The Darling Buds of May](chatgpt://generic-entity?number=3)* — the tax collector as legitimacy farce  
+- *The Darling Buds of May* — the tax collector as legitimacy farce  
 - *E.P. Thompson, “The Moral Economy of the Crowd”* — why resistance to extraction is often rational  
-- *[Levellers](chatgpt://generic-entity?number=4)* — land, subsistence, and political voice  
-- *[French Revolution](chatgpt://generic-entity?number=5)* — taxation + food as ignition, not theory  
+- *Levellers* — land, subsistence, and political voice  
+- *French Revolution* — taxation + food as ignition, not theory
+- [Finance Bill Sub-Committee (inc evidence portal](https://committees.parliament.uk/committee/230/finance-bill-subcommittee/news/209304/finance-bill-subcommittee-launches-call-for-evidence/) - *relevant parliamentary subcommittee*  
+- [Watch: Liaison Committee (Mon 15 Dec 2025)](https://parliamentlive.tv/event/index/5b150344-5bcf-4bd8-9358-51c29ace334b?in=14:47:17) - *the Finance Bill Subcommittee raised concerns from Mon 08 Dec 2025 session in this committee, watch time set to start accordingly*  
+- [Farmers rejoice as Starmer caves in to pressure and waters down inheritance tax raid](https://www.independent.co.uk/news/uk/politics/inheritance-tax-farmers-labour-starmer-b2889532.html) - *update to live story; inheritance tax threshold raised to protect family farmers after subcommittee representation*  
 
 ---
 
@@ -176,10 +179,10 @@ It contributes historical and structural analysis on why extraction without situ
 
 > 📡 Cross-references:
 > 
-> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — food as a hard constraint on governance  
-> - [🚜 Tools Are Not Costumes](./🚜_tools_are_not_costumes.md) — identity-filtering through enforcement  
-> - [🍿 Historical Democratic Actions](../) — recurring legitimacy fractures  
+> - [🌳 Food Is Not Optional](./🌳_food_is_not_optional.md) — *food as a hard constraint on governance*  
+> - [🚜 Tools Are Not Costumes](./🚜_tools_are_not_costumes.md) — *identity-filtering through enforcement*  
+> - [🍿 Historical Democratic Actions](../) — *recurring legitimacy fractures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2025-12-25_
