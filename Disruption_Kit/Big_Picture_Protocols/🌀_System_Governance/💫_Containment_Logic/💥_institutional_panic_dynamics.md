@@ -1,5 +1,5 @@
 # 💥 Institutional Panic Dynamics  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
 *How institutions behave when confronted with potential data breaches, unexplained processing pathways, or contradictory disclosures — and why panic makes everything worse.*
 
 ---
@@ -245,15 +245,17 @@ Institutional_Drift · Metadata_Foreensics · Transparency_Warfare · Risk_Vecto
 # 🏮 Footer  
 This node connects directly with:
 
-- **Pre-Escalation Friction Mapping**,  
-- **ICO-Ready Contradiction Framing**,  
-- **Triangulated FOI/SAR Method**,  
-- **Seven Layers of Safeguard Breakdown**,  
-- **Vendor Blindspot Mapping**,  
-- **Institutional Overload Analysis**.
+> 📡 Cross-references:
+> 
+> - [*Pending:* Pre-Escalation Friction Mapping]  
+> - [📜 ICO-Ready Contradiction Framing](../../../Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_ico_ready_contradiction_framing.md)  
+> - [*Pending:* Triangulated FOI/SAR Method]  
+> - [🏚️ Seven Layers of Safeguard Breakdown](./🏚️_seven_layers_of_safeguard_breakdown.md)  
+> - [🛰️ Vendor Blindspot Mapping](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_vendor_blindspot_mapping.md)  
+> - [*Pending:* Institutional Overload Analysis]  
 
 Together, these explain the full choreography of  
 *why institutions crumble when metadata contradicts their official story*  
 and how Polaris users can navigate that collapse effectively.
 
-_Last updated: 2025-12-09_
+_Last updated: 2025-12-25_
