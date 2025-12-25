@@ -1,6 +1,6 @@
 # ⚖️ Transitional Change vs Rapid Revolutionary Shock  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-07  
-*Why societies destabilise under rapid ideological change, and why measured transitional pacing is essential for constitutional and economic survival.*
+**First created:** 2025-11-17 | **Last updated:** 2025-12-25  
+*Why societies destabilise under rapid ideological change, and why measured transitional pacing is essential for constitutional and economic survival.*  
 
 ---
 
@@ -173,10 +173,10 @@ It supports the **Big Picture Protocols** cluster by clarifying the kinetic thre
 
 > 📡 Cross-references:
 > 
-> - [💍 Two-Party System as an Old-Fashioned Marriage]  
-> - [🔁 Recursive Parliamentary Containment Loop]  
-> - [🟦 Conservatives as the Counterbalance to Radical Change]  
+> - [💍 Two-Party System as an Old-Fashioned Marriage](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/💍_two_party_system_as_an_old_fashioned_marriage.md)  
+> - [🔁 Recursive Parliamentary Containment Loop](../../🌀_System_Governance/💫_Containment_Logic/🔁_recursive_parliamentary_containment_loop.md)  
+> - [🟦 Conservatives as the Counterbalance to Radical Change](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🖌️_for_the_serious_blue_chaps.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-25_
