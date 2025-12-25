@@ -1,5 +1,5 @@
 # 📦 Containment as Industry  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-16 | **Last updated:** 2025-12-25  
 *How border enforcement, asylum backlogs, and detention are turned into revenue streams.*  
 
 ---
@@ -86,8 +86,12 @@ It documents how migration policy is converted into a revenue stream, rooted in 
 > 
 > - [⚖️ Containment Contract Trace](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *follow the money*  
 > - [🏘️ Council Incentives Hotels](./🏘️_council_incentives_hotels.md) — *why local authorities host hotels*  
-> - [💷 Migration as Liability Shield](./💷_migration_as_liability_shield.md) — *how elites deflect costs downward*  
+> - [💷 Migration as Liability Shield](./💷_migration_as_liability_shield.md) — *how elites deflect costs downward*
+> - [🦠 Plague Scapegoat Scripts Reused Across Targets](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🦠_plague_scapegoat_scripts_reused_across_targets.md) — *why white people invented passports (grim reading)*  
+> - [📜 The Levellers and Land Freedom](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/📜_the_levellers_and_land_freedom.md) — *a brief tour of an interesting English commons movement*
+> - [🕊️ Refugees & Asylum ID Risks](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🕊️_refugees_asylum_id_risks.md) — *how biometric ID creates risks, especially for people seeking asylum*  
+> - [🌍 Vulnerable Data Populations at FCDO](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md) — *why cyber incidents at the FCDO can generate risk even if personal data is assessed "safe"*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_  
+_Last updated: 2025-12-25_  
