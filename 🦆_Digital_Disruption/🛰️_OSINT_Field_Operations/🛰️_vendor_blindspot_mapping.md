@@ -1,5 +1,5 @@
 # 🛰️ Vendor Blindspot Mapping  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
 *How hidden vendors, sub-processors, pipeline contractors, and third-party integrations create institutional blindspots that surface as contradictions in FOI/SAR responses — and how to map them.*  
 
 ---
@@ -271,15 +271,17 @@ Metadata_Foreensics · Vendor_Analysis · Transparency_Warfare · Institutional_
 # 🏮 Footer  
 This node connects with:
 
-- **Triangulated FOI/SAR Method**,  
-- **Pre-Escalation Friction Mapping**,  
-- **ICO-Ready Contradiction Framing**,  
-- **Institutional Panic Dynamics**,  
-- **Full-Stack Institutional Failure**,  
-- **Seven Layers of Safeguard Breakdown**.
+> 📡 Cross-references:
+> 
+> - [*Pending:* Triangulated FOI/SAR Method]  
+> - [*Pending:* Pre-Escalation Friction Mapping]  
+> - [📜 ICO-Ready Contradiction Framing](../../Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_ico_ready_contradiction_framing.md)  
+> - [💥 Institutional Panic Dynamics](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💥_institutional_panic_dynamics.md)  
+> - [*Pending:* 🏚️ Full-Stack Institutional Failure]  
+> - [🏚️ Seven Layers of Safeguard Breakdown](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_seven_layers_of_safeguard_breakdown.md)  
 
 It forms the technical backbone for identifying  
 *hidden pipelines, invisible processors, and unacknowledged systems*  
 inside modern data environments.
 
-_Last updated: 2025-12-12_
+_Last updated: 2025-12-25_
