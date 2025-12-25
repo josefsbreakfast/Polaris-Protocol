@@ -1,5 +1,5 @@
 # 🔥 Suppression and Quasi-Suppression  
-**First created:** 2025-09-18 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-18 | **Last updated:** 2025-12-25  
 *How both censorship and scarcity fuel the same rebound effect.*  
 
 ---
@@ -82,11 +82,14 @@ suppression paradox, banned books, quasi-suppression, scarcity marketing, reboun
 *🔥 Suppression and Quasi-Suppression* is a companion node to *Suppression as Signal*.  
 It highlights how stigma and scarcity amplify books as powerfully as direct bans, especially in the algorithmic age.  
 
-> 📡 Backlinks:  
-> - [📚 The Banned Book Paradox](../🎶_Banned_Broadcasts_Cooperative/📚_banned_book_paradox.md) — prohibition as immortaliser  
-> - [🚀 Scarcity + Prohibition = Rocket Fuel](../🎶_Banned_Broadcasts_Cooperative/🚀_scarcity_prohibition_rocket_fuel.md) — scarcity as accelerant  
-> - [🔥 Suppression as Signal](../🎶_Banned_Broadcasts_Cooperative/🔥_suppression_as_signal.md) — suppression as marketing code  
+> 📡 Backlinks:
+> 
+> - [📚 The Banned Book Paradox](./📚_banned_book_paradox.md) — *prohibition as immortaliser*  
+> - [🚀 Scarcity + Prohibition = Rocket Fuel](./🚀_scarcity_prohibition_rocket_fuel.md) — *scarcity as accelerant*  
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.mdd) — *suppression as marketing code*
+> - [🔥 Why Metadata Is More Dangerous Than Human Referral](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_metadata_more_dangerous_than_humans.md)  
+> - [🛰️ Anonymous Reporting Abuse Vectors](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_anonymous_reporting_abuse_vectors.md)  
 
 *What power hides, readers hunt.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-12-25_  
