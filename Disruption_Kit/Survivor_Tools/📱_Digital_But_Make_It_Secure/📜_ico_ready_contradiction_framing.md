@@ -1,6 +1,6 @@
 # 📜 ICO-Ready Contradiction Framing  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-10  
-*How to translate institutional inconsistencies, metadata anomalies, and contradictory disclosures into regulatory-ready evidence for the Information Commissioner’s Office (ICO) without overclaiming or triggering institutional panic.*
+**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
+*How to translate institutional inconsistencies, metadata anomalies, and contradictory disclosures into regulatory-ready evidence for the Information Commissioner’s Office (ICO) without overclaiming or triggering institutional panic.*  
 
 ---
 
@@ -218,14 +218,16 @@ Transparency_Warfare · Metadata_Foreensics · Institutional_Drift · FOI_Strate
 # 🏮 Footer  
 This node connects directly to:
 
-- **Triangulated FOI/SAR Method**,  
-- **Pre-Escalation Friction Mapping**,  
-- **Seven Layers of Safeguard Breakdown**,  
-- **Institutional Panic Dynamics**,  
-- **Functional FOI Targeting**,  
-- **Metadata Chain Reconstruction**.
+> 📡 Cross-references:
+> 
+> - [*Pending:* Triangulated FOI/SAR Method]  
+> - [*Pending:* Pre-Escalation Friction Mapping]  
+> - [🏚️ Seven Layers of Safeguard Breakdown](../../Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_seven_layers_of_safeguard_breakdown.md)  
+> - [💥 Institutional Panic Dynamics](../../Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💥_institutional_panic_dynamics.md)  
+> - [*Pending:* Functional FOI Targeting]  
+> - [🛰️ Metadata-Chain Reconstruction (The Ghost Pipeline Method)](../🛰️_metadata_chain_reconstruction_the_ghost_pipeline_method.md)  
 
 It is essential for any regulatory-facing Polaris bundle  
 or any user preparing to take an institution to the ICO with grace, accuracy, and lethal precision.  
 
-_Last updated: 2025-12-10_
+_Last updated: 2025-12-25_
