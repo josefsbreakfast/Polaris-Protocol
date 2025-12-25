@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-25 06:58:04 UTC_
+_Generated on 2025-12-25 07:01:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -481,7 +481,6 @@ _Generated on 2025-12-25 06:58:04 UTC_
         - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md)
         - [`🚪_doorbell_of_denial.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚪_doorbell_of_denial.md)
         - [`🛡️_high_security_settlement_logic_data_exhaust.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🛡️_high_security_settlement_logic_data_exhaust.md)
-        - [`🤦‍♀️_operation_shande.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🤦‍♀️_operation_shande.md)
         - [`🥸_paid_male_gossipers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🥸_paid_male_gossipers.md)
         - [`🦇_how_many_words_to_fell_an_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🦇_how_many_words_to_fell_an_industry.md)
         - [`🦩_from_disability_to_trans_panic_the_reusable_script.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🦩_from_disability_to_trans_panic_the_reusable_script.md)
@@ -500,6 +499,7 @@ _Generated on 2025-12-25 06:58:04 UTC_
         - [`🧭_political_mapping_the_two_axis_model.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧭_political_mapping_the_two_axis_model.md)
         - [`🧯_reputational_management_as_governance_signal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧯_reputational_management_as_governance_signal.md)
         - [`🩸_ideological_skinwalkers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🩸_ideological_skinwalkers.md)
+        - [`🩸_operation_shande.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🩸_operation_shande.md)
         - [`🪞_cross_context_verification_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_cross_context_verification_failure.md)
         - [`🪞_the_emperors_dashboard.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_the_emperors_dashboard.md)
         - [`🪞_the_i_got_got_moment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_the_i_got_got_moment.md)
