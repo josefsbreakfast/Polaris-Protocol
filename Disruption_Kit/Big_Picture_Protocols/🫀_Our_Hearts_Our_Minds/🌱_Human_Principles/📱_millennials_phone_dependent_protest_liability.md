@@ -1,5 +1,5 @@
 # 📱 Millennials as Phone-Dependent Protest Liability  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-25  
 *Why millennials cannot turn their phones off at protests, and how this shapes risk, coordination, anxiety, and the emotional architecture of modern mobilisation.*  
 
 ---
@@ -208,10 +208,13 @@ It supports the **Generational Dynamics** and **Containment Studies** clusters b
 
 > 📡 Cross-references:
 > 
-> - [😩 Millennial Exhaustion as a Political Condition]  
-> - [🏚️ Millennial Property Psychosis]  
-> - [📊 Gen Z Procedural Protest & Spreadsheet Organising]  
+> - [😩 Millennial Exhaustion as a Political Condition](../🐝_Body_Politic/😴_millennial_exhaustion_as_a_political_condition.md)  
+> - [🏚️ Millennial Property Psychosis](./🏚️_millennial_property_psychosis_everything_is_housing.md)  
+> - [📊 Gen Z Procedural Protest & Spreadsheet Organising](./📊_gen_z_procedural_protest.md)
+>
+>   For my fellow millenials:
+> - [⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md) - *looks like housing to me...*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2025-12-25_
