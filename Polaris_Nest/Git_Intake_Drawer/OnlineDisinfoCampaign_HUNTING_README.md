@@ -1,4 +1,4 @@
-# 🦊 Hunting, Rural Policing, and Fracture Politics  
+# 🐎 Hunting, Rural Policing, and Fracture Politics  
 *A short index and reading guide*
 
 ---
