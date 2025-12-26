@@ -1,5 +1,5 @@
 # 👑 Soft Power Accountability Gap  
-**First created:** 2025‑11‑02 | **Last updated:** 2025-12-09  
+**First created:** 2025‑11‑02 | **Last updated:** 2025-12-26  
 *The royal blind spot in Britain’s constitutional design.*  
 
 ---
@@ -95,14 +95,15 @@ soft power, constitutional blind spot, royal accountability, trust decay, britai
 
 *👑 Soft Power Accountability Gap* is a living node of the **Polaris Protocol** that exposes the structural blind spot where monarchical influence operates without transparent oversight. It provides a conceptual framework for analyzing, documenting, and ultimately rem  edying the soft‑power accountability gap within Britain’s constitutional design.
 
+
 > 📡 Cross‑references:  
 > 
-> - [⚖️ soft_power_without_soft_accountability.md] — *preceding node*  
-> - [🌍 deregulation_as_diplomatic_infrastructure.md] — *structural twin*  
-> - [🏏 Pitch_at_Palace_Audit_Practice/] — *applied prestige‑network case*  
-> - [🧱 trickle_down_impunity.md] — *cultural downstream*  
-> - [📘 diplomatic_archiving_standards.md] — *policy remediation*  
+> - [⚖️ Soft Power Without Soft Accountability](../../🦕_Elder_Influencers/🕸️_World_Webs/⚖️_soft_power_without_soft_accountability.md) — *preceding node*  
+> - [🌍 Deregulation as Diplomatic Infrastructure](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🌍_deregulation_as_diplomatic_infrastructure.md) — *structural twin*  
+> - [🏏 Test Cricket for Public Service — “You Can Watch the Game and File an FOI Between Overs”](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🏏_test_cricket_for_public_service.md) — *applied prestige‑network case*  
+> - [*Pending:* 🧱 Trickle-Down Impunity — How Elite Exemption Becomes a Civic Contagion] — *cultural downstream*  
+> - [*Pending:* 📘 Diplomatic Archiving Standards]— *policy remediation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2025-12-26_
