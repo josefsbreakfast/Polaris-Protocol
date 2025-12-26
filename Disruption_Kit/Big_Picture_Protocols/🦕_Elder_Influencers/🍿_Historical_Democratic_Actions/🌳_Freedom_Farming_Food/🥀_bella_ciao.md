@@ -34,7 +34,7 @@ That matters.
 
 ---
 
-## 🌾 From fields to forests: the partisan transformation  
+## 🌾 From Fields To Forests: The Partisan Transformation  
 
 During the Second World War, the song was adapted by Italian partisans resisting Nazi occupation and fascist rule.
 
@@ -54,7 +54,7 @@ Partisan movements in northern Italy were deeply entangled with:
 
 ---
 
-## 🧠 Why fascist regimes feared farmers  
+## 🧠 Why Fascist Regimes Feared Farmers  
 
 Italian fascism — like other authoritarian regimes — understood a basic truth:
 
@@ -71,7 +71,7 @@ The song encodes that memory.
 
 ---
 
-## ⚖️ What the lyrics actually say  
+## ⚖️ What The Lyrics Actually Say  
 
 Stripped of myth, the song is stark:
 - a worker leaves their home,
@@ -86,7 +86,7 @@ There is duty, loss, and land.
 
 ---
 
-## 🌍 Why it keeps returning  
+## 🌍 Why It Keeps Returning  
 
 *Bella Ciao* resurfaces in moments where:
 - authority overreaches,
@@ -102,7 +102,7 @@ People reach for it when they recognise:
 
 ---
 
-## ⚠️ How modern usage is misread  
+## ⚠️ How Modern Usage Is Misread  
 
 Institutions often react to *Bella Ciao* as if:
 - it signals imminent violence,
@@ -120,7 +120,7 @@ It is a diagnostic signal, not a threat.
 
 ---
 
-## 🧩 Why this belongs in the farming cluster  
+## 🧩 Why This Belongs In The Farming Cluster  
 
 *Bella Ciao* is not just a protest song.  
 It is a **farming song that became a resistance song**.
@@ -140,7 +140,7 @@ Understanding it turns noise back into signal.
 🥀 🌾 🎶 🧠 ⚖️ — labour song, farming history, resistance memory, legitimacy warning  
 
 *Further reading / viewing:*  
-- *[Bella Ciao](chatgpt://generic-entity?number=1)* — lyric histories and variations  
+- *Bella Ciao* — lyric histories and variations  
 - *Italian partisan histories* — rural resistance networks  
 - *Mussolini-era agrarian policy analyses* — promise, control, betrayal  
 - *Labour song traditions* — music as survival memory  
