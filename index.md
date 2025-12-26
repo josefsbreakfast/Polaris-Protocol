@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-26 07:39:52 UTC_
+_Generated on 2025-12-26 07:41:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3929,6 +3929,7 @@ _Generated on 2025-12-26 07:39:52 UTC_
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`☕️_the_death_of_the_british_eccentic.md`](Polaris_Nest/Git_Intake_Drawer/☕️_the_death_of_the_british_eccentic.md)
+    - [`⚖️_rights_as_friction.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_rights_as_friction.md)
     - [`⛴️_prevent_the_bots_and_boats.md`](Polaris_Nest/Git_Intake_Drawer/⛴️_prevent_the_bots_and_boats.md)
     - [`⛴️_stop_the_boats_trust_the_bots.md`](Polaris_Nest/Git_Intake_Drawer/⛴️_stop_the_boats_trust_the_bots.md)
     - [`✈️_reindexing_is_routine.md`](Polaris_Nest/Git_Intake_Drawer/✈️_reindexing_is_routine.md)
