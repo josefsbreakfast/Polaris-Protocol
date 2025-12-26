@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-26 12:33:25 UTC_
+_Generated on 2025-12-26 12:57:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4027,6 +4027,7 @@ _Generated on 2025-12-26 12:33:25 UTC_
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
+    - [`🧭_trail_hunting_timeline_staging_how_to_move_forward.md`](Polaris_Nest/Git_Intake_Drawer/🧭_trail_hunting_timeline_staging_how_to_move_forward.md)
     - [`🧮_algorithms_of_the_wolf.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithms_of_the_wolf.md)
     - [`🧮_audit_necromancy.md`](Polaris_Nest/Git_Intake_Drawer/🧮_audit_necromancy.md)
     - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
