@@ -1,5 +1,22 @@
 ngl it was easier to put sam altman next to south park episodes than it is getting this gen sorted; blood from dry stones.  
 
+struggled with these, looping, errors, smoothing etc etc:  
+
+## Three explicit strands on the public record (named)
+
+### 1) Active Israel MoD contract
+Palantir publicly announced a strategic partnership with the Israeli Ministry of Defense on 12 January 2024 to supply technology in support of Israel’s “war-related missions”.
+
+### 2) Epstein-adjacent finance: Epstein → Thiel’s Valar Ventures
+Reporting shows Jeffrey Epstein invested $40m into funds managed by Valar Ventures (a firm co-founded by Peter Thiel), and that this stake grew into a major asset of Epstein’s estate. This is a direct financial link, not just social adjacency.
+
+### 3) Declared far-right political funding
+Peter Thiel is a documented major funder of hard-right Republican politics, including reported $15m support for JD Vance’s 2022 Senate run.
+
+Taken together: an active defence relationship in an occupation/war context, elite impunity networks with direct financial ties, and declared funding of a rights-eroding political project form a convergence that predictably concentrates risk onto people with the least ability to contest system outputs — children, migrants, patients, survivors, and those caught in carceral systems.  
+
+---
+
 ---
 
 # 🔺 The Alignment Triangle  
