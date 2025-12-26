@@ -42,7 +42,7 @@ You do not need to read everything.
 Each node stands alone, but they connect if you want depth.
 
 ### Start here if you are confused or angry
-- **🦊 Fox Hunting: Law, Ritual, and the Unfinished Settlement**  
+- **🐎 Fox Hunting: Law, Ritual, and the Unfinished Settlement**  
   History, law, culture, enforcement ambiguity, and why the issue never resolved cleanly.
 
 ### Start here if you are interested in politics or policy
