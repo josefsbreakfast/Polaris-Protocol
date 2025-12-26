@@ -119,7 +119,7 @@ There is duty, loss, and land.
 > Mi seppellire lassù in montagna,  
 > Sotto l'ombra di un bel fiore.
 >
-> *Bury me up in the mountain,*
+> *Bury me up in the mountain,*  
 > *Under the shade of a beautiful flower.*  
 
 *Bella Ciao* resurfaces in moments where:
