@@ -1,5 +1,5 @@
 # 🪪 Algorithmic Mislabeling & Identity Collapse  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-23  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
 *How automated systems misclassify vulnerable people into the wrong identity funnels — and how those misclassifications become lived reality.*  
 
 ---
@@ -223,15 +223,19 @@ Because he is finally out of the category.
 ---
 
 ## 🏮 Footer  
-*Algorithmic Mislabeling & Identity Collapse* is a living node of the Polaris Protocol.  
+*🪪 Algorithmic Mislabeling & Identity Collapse* is a living node of the Polaris Protocol.  
 It explains how identity is distorted by automated classification systems and how these distortions create vulnerability to extremist recruitment and self-loss.
 
 > 📡 Cross-references:
 > 
-> - [🎩 Sorting Hat as Proto-Algorithmic Misclassification]  
-> - [🐈 Kylo Ren as Algorithmically Misclassified Softboy]  
-> - [🧿 The Tech Bro → Kylo Ren Pipeline]  
+> - [🎩 Sorting Hat as Proto-Algorithmic Misclassification](./🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md)  
+> - [🐈 Kylo Ren as Algorithmically Misclassified Softboy](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐈_kylo_ren_as_algorithmically_misclassified_softboy.md)  
+> - [*Pending:* 🧿 The Tech Bro → Kylo Ren Pipeline]
+> - [🧠 Misclassification Through Trauma Reflexes](../../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_misclassification_via_trauma_reflexes.md)
+> - [🧠 Misclassifying Intellectual Intimacy](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_misclassifying_intellectual_intimacy.md)
+> - [🛰️ Prevent / IHRA Misclassification Loop](../../Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_prevent_ihra_misclassification_loop.md)
+> - [🧠 Identity Sliding: Race–Religion Discrimination](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧠_identity_sliding_race_religion_discrimination.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2025-11-26_
