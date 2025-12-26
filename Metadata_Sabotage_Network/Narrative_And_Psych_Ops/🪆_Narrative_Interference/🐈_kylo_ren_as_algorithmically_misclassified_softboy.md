@@ -1,5 +1,5 @@
 # 🐈 Kylo Ren as Algorithmically Misclassified Softboy  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-08  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
 *On how a tender, neurotic, Tumblr-coded softboy was shoved into the role of fascist heir by narrative misclassification — mirroring real-world algorithmic identity errors.*  
 
 ---
@@ -201,10 +201,10 @@ It offers a narrative analogy for misclassification, coercion, and the emotional
 
 > 📡 Cross-references:
 > 
-> - [💻 Why Tech Bros Were the Perfect Target]  
-> - [🧨 The PUA-to-Fascist Pipeline]  
-> - [🌀 The Visibility Pitch in Radicalisation]  
+> - [🦆 Why Tech Bros Were Sitting Ducks](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦆_why_tech_bros_were_sitting_ducks.md)  
+> - [🧨 The PUA-to-Fascist Pipeline](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_the_pua_to_fascist_pipeline.md)  
+> - [🌀 The Visibility Pitch in Radicalisation](../🧠_Psychological_Containment/🌀_the_visibility_pitch_in_radicalisation.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2025-12-26_
