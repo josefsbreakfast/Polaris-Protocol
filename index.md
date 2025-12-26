@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-26 07:28:01 UTC_
+_Generated on 2025-12-26 07:29:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3969,6 +3969,7 @@ _Generated on 2025-12-26 07:28:01 UTC_
     - [`💰_problem_manufacture_capitalism_as_perpetual_malfunction.md`](Polaris_Nest/Git_Intake_Drawer/💰_problem_manufacture_capitalism_as_perpetual_malfunction.md)
     - [`📊_analytics_without_the_panic.md`](Polaris_Nest/Git_Intake_Drawer/📊_analytics_without_the_panic.md)
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
+    - [`📊_misinformation_disinformation_fracture_politics.md`](Polaris_Nest/Git_Intake_Drawer/📊_misinformation_disinformation_fracture_politics.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
