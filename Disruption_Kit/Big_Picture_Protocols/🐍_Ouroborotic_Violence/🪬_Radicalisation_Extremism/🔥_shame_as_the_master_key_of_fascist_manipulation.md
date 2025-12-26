@@ -245,7 +245,7 @@ It illuminates shame as the primary emotional vector of radicalisation and provi
 > - [🪪 Algorithmic Mislabeling & Identity Collapse](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪪_algorithmic_mislabeling_and_identity_collapse.md)  
 > - [🌋 Why Fascist Recruiters Promise Visibility](./🌋_why_fascist_recruiters_promise_visibility.md)  
 > - [💸 Shame as Control Currency](./💸_shame_as_control_currency_the_architecture_of_self_silencing.md)  
-> - [📿 Strength as Gihasta](D../../🦕_Elder_Influencers/🕸️_World_Webs/📿_strength_as_gihasta.md)  
+> - [📿 Strength as Gihasta](../../🦕_Elder_Influencers/🕸️_World_Webs/📿_strength_as_gihasta.md)  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
