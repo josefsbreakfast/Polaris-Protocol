@@ -1,5 +1,5 @@
 # 🧠 Charisma Is Just Coercion  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
 *Fascist “charisma” is a myth. The behaviours being described are coercive-control techniques, not magic.*  
 
 ---
@@ -181,10 +181,11 @@ It provides survivor-framed clarity for recognising manipulative political actor
 
 > 📡 Cross-references:
 > 
-> - [🧠 Fascism as Scaled Coercive Control]  
-> - [🧨 PUA-to-Fascism Recruitment Patterns]  
-> - [🧩 Trauma, Shame & Leaving a Coercive Ideology]  
+> - [🧠 Fascism as Scaled Coercive Control](./🧠_fascism_as_scaled_coercive_control.md)  
+> - [🧨 The PUA-to-Fascist Pipeline](./🧨_the_pua_to_fascist_pipeline.md)  
+> - [🧮 Environmental Grooming Ecosystems](./🧮_environmental_grooming_ecosystems_1980s_2020s.md)  
+> - [🧩 Why “The Left” Looks Scary During De-Radicalisation](./🧩_why_the_left_looks_scary_during_deradicalisation.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-11_
+_Last updated: 2025-12-26_
