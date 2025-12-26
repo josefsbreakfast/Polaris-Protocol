@@ -1,6 +1,6 @@
 # 🛡️ Why Fascism Fears Softness  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-12  
-*Why the gentleness, empathy, creativity, and emotional honesty of soft boys, queer communities, and progressive subcultures represent an existential threat to authoritarian power.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
+*Why the gentleness, empathy, creativity, and emotional honesty of soft boys, queer communities, and progressive subcultures represent an existential threat to authoritarian power.*  
 
 ---
 
@@ -237,10 +237,10 @@ It articulates the strategic, emotional, and political threat softness poses to 
 
 > 📡 Cross-references:
 > 
-> - [💗 Soft Boy Restoration Protocol]  
-> - [🔥 Shame as the Master Key of Fascist Manipulation]  
-> - [🧬 Structural Vulnerability of Soft Boys]  
+> - [🍑 Soft Boy Restoration Protocol](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍑_the_soft_boy_restoration_protocol.md)  
+> - [🔥 Shame as the Master Key of Fascist Manipulation](../🪬_Radicalisation_Extremism/🔥_shame_as_the_master_key_of_fascist_manipulation.md)  
+> - [🧬 Structural Vulnerability: Why Soft Boys Were Always the Primary Target](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧬_structural_vulnerability.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-12_
+_Last updated: 2025-12-26_
