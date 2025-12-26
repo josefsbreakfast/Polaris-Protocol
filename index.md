@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-26 07:42:34 UTC_
+_Generated on 2025-12-26 07:43:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4002,6 +4002,7 @@ _Generated on 2025-12-26 07:42:34 UTC_
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧠_ideology_without_conspiracy.md`](Polaris_Nest/Git_Intake_Drawer/🧠_ideology_without_conspiracy.md)
     - [`🧠_unfulfilled_first_brain.md`](Polaris_Nest/Git_Intake_Drawer/🧠_unfulfilled_first_brain.md)
+    - [`🧨_cyber_insecurity_and_friction_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧨_cyber_insecurity_and_friction_systems.md)
     - [`🧨_institutional_gaslighting.md`](Polaris_Nest/Git_Intake_Drawer/🧨_institutional_gaslighting.md)
     - [`🧨_legal_gaslighting.md`](Polaris_Nest/Git_Intake_Drawer/🧨_legal_gaslighting.md)
     - [`🧨_perfectly_legal_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧨_perfectly_legal_abuse.md)
