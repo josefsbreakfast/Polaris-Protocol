@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-26 07:31:24 UTC_
+_Generated on 2025-12-26 07:32:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3951,6 +3951,7 @@ _Generated on 2025-12-26 07:31:24 UTC_
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`🐎_hunting_law_ritual_settlement.md`](Polaris_Nest/Git_Intake_Drawer/🐎_hunting_law_ritual_settlement.md)
+    - [`🐎_ritual_catharsis.md`](Polaris_Nest/Git_Intake_Drawer/🐎_ritual_catharsis.md)
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots.md)
     - [`🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md`](Polaris_Nest/Git_Intake_Drawer/🐕‍🦺_animal_assisted_deradicalisation_pilots_FULL.md)
     - [`🐝_abolitionists_answer_the_question_of_extreme_antisocial_predation.md`](Polaris_Nest/Git_Intake_Drawer/🐝_abolitionists_answer_the_question_of_extreme_antisocial_predation.md)
