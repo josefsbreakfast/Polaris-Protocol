@@ -139,10 +139,10 @@ People reach for it when they recognise:
 ## ⚠️ How Modern Usage Is Misread  
 
 > E le genti che passeranno,  
-> Mi diranno: "Che bel fior".
+> Mi diranno: "Che bel fior!"
 >
 > *And all those who shall pass,*  
-> *Will tell you "what a beautiful flower".*  
+> *Will tell you "What a beautiful flower!"*  
 
 Institutions often react to *Bella Ciao* as if:
 - it signals imminent violence,
