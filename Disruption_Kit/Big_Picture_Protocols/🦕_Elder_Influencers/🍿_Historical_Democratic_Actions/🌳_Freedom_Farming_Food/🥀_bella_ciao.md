@@ -142,7 +142,7 @@ People reach for it when they recognise:
 > Mi diranno: "Che bel fior!"
 >
 > *And all those who shall pass,*  
-> *Will tell you "What a beautiful flower!"*  
+> *Will tell you, "What a beautiful flower!"*  
 
 Institutions often react to *Bella Ciao* as if:
 - it signals imminent violence,
