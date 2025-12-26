@@ -1,6 +1,6 @@
 # 🐎 Hunting, Rural Policing, and Fracture Politics  
 *A short index and reading guide*
-
+<!--I can't have the actual animal emoji, I'm so soft, so taking some time to make sure stakeholders represented but personal bias declared and upfront.-->
 ---
 
 ## Why this exists
