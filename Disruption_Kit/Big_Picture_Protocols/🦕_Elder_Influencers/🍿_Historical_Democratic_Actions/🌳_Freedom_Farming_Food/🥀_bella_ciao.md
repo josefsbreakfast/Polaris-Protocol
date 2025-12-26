@@ -103,7 +103,7 @@ Stripped of myth, the song is stark:
 - and asks to be remembered not as a hero, but as someone who resisted.
 
 > *And if I die as a partisan,*  
-> *Oh my beautiful, goodbye, goodbye, my beauty, goodbye.*  
+> *Oh my beautiful, goodbye; goodbye, my beauty, goodbye.*  
 > *And if I die as a partisan,*  
 > *Then you must bury me.*  
 
