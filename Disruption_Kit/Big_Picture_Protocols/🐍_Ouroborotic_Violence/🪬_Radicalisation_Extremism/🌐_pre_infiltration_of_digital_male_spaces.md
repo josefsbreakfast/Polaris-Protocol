@@ -1,5 +1,5 @@
 # 🌐 Pre-Infiltration of Digital Male Spaces  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
 *How far-right strategists seeded gamer, coder, and proto-internet communities decades before the “tech bro” demographic existed.*  
 
 ---
@@ -165,10 +165,10 @@ It maps the long-term metapolitics behind digital male radicalisation, emphasisi
 
 > 📡 Cross-references:
 > 
-> - [🧮 Environmental Grooming Ecosystems]  
-> - [🧠 Fascism as Scaled Coercive Control]  
-> - [💻 Why Tech Bros Were the Perfect Target]  
+> - [🧠 Fascism as Scaled Coercive Control](./🧠_fascism_as_scaled_coercive_control.md)  
+> - [🧮 Environmental Grooming Ecosystems](./🧮_environmental_grooming_ecosystems_1980s_2020s.md)  
+> - [🦆 Why Tech Bros Were Sitting Ducks](./🦆_why_tech_bros_were_sitting_ducks.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-26_
