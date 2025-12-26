@@ -1,5 +1,5 @@
 # 🎭 Identity Cosplay: How Men Perform Hardness They Don’t Believe In  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-08  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-25  
 *Understanding the psychological and cultural forces that lead gentle, sensitive men to adopt aggressive personas that contradict their true emotional makeup.*  
 
 ---
@@ -215,10 +215,12 @@ It reframes reactionary male behaviour as adaptive performance rather than convi
 
 > 📡 Cross-references:
 > 
-> - [🌫️ Shame–Visibility Collapse Loop]  
-> - [💗 Soft Boy Restoration Protocol]  
-> - [🧩 Why the Left Looks Scary During De-Radicalisation]  
+> - [🌫️ Shame–Visibility Collapse Loop](./🌫️_the_shame_visibility_collapse_loop.md)  
+> - [🍑 Soft Boy Restoration Protocol](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍑_the_soft_boy_restoration_protocol.md)  
+> - [🧩 Why “The Left” Looks Scary During De-Radicalisation](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧩_why_the_left_looks_scary_during_deradicalisation.md)  
+> - [🧠 The Cognitive Vulnerability Stack of Lonely Men](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_the_cognitive_vulnerability_stack_of_lonely_men.md)  
+> - [🔥 Shame as the Master Key of Fascist Manipulation](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🔥_shame_as_the_master_key_of_fascist_manipulation.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-08_
+_Last updated: 2025-12-25_
