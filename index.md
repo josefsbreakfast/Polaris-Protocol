@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-26 03:07:49 UTC_
+_Generated on 2025-12-26 06:45:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4022,6 +4022,7 @@ _Generated on 2025-12-26 03:07:49 UTC_
     - [`🧰_upstream_compromise_checklist.md`](Polaris_Nest/Git_Intake_Drawer/🧰_upstream_compromise_checklist.md)
     - [`🧱_administrative_precursor_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧱_administrative_precursor_problem.md)
     - [`🧱_cabinet_led_collective_executive_models_for_the_uk.md`](Polaris_Nest/Git_Intake_Drawer/🧱_cabinet_led_collective_executive_models_for_the_uk.md)
+    - [`🧱_friction_fields_and_the_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🧱_friction_fields_and_the_dashboard.md)
     - [`🧱_hostile_architecture_vs_universal_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_hostile_architecture_vs_universal_design.md)
     - [`🧱_ideological_loyalty_as_pyramid_scheme.md`](Polaris_Nest/Git_Intake_Drawer/🧱_ideological_loyalty_as_pyramid_scheme.md)
     - [`🧱_legal_exception_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧱_legal_exception_zone.md)
