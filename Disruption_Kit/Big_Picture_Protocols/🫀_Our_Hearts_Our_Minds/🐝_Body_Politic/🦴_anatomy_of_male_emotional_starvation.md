@@ -250,7 +250,7 @@ It maps the structural deprivation of emotional nourishment experienced by men a
 
 > 📡 Cross-references:
 > 
-> - [🧠 Cognitive Vulnerability Stack](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_the_cognitive_vulnerability_stack_of_lonely_men.md)  
+> - [🧠 The Cognitive Vulnerability Stack of Lonely Men](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_the_cognitive_vulnerability_stack_of_lonely_men.md)  
 > - [🍑 Soft Boy Restoration Protocol](../🌱_Human_Principles/🍑_the_soft_boy_restoration_protocol.md)  
 > - [*Pending:* 🧸 Softness as Counter-Extremism Infrastructure]  
 > - [🫂 Mixed-Gender & Queer Sociality as Radicalisation Antidote](./🫂_mixed_gender_queer_sociality_as_radicalisation_antidote.md)  
