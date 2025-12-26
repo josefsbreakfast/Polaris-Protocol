@@ -1,5 +1,5 @@
 # 🦆 Why Tech Bros Were Sitting Ducks  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
 *How a generation of clever, lonely, emotionally earnest men became the ideal demographic for extremist grooming.*  
 
 ---
@@ -220,10 +220,10 @@ It reframes alt-right recruitment not as an inevitability, but as a deliberate e
 
 > 📡 Cross-references:
 > 
-> - [🧮 Environmental Grooming Ecosystems]  
-> - [🌐 Pre-Infiltration of Digital Male Spaces]  
-> - [🪓 Charisma Is Just Coercion]  
+> - [🧮 Environmental Grooming Ecosystems](./🧮_environmental_grooming_ecosystems_1980s_2020s.md)  
+> - [🌐 Pre-Infiltration of Digital Male Spaces](./🌐_pre_infiltration_of_digital_male_spaces.md)  
+> - [🧠 Charisma Is Just Coercion](./🧠_charisma_as_coercion.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-09_
+_Last updated: 2025-12-26_
