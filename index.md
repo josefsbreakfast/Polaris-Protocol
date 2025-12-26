@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-26 07:37:07 UTC_
+_Generated on 2025-12-26 07:38:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3997,6 +3997,7 @@ _Generated on 2025-12-26 07:37:07 UTC_
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
+    - [`🧠_ideology_without_conspiracy.md`](Polaris_Nest/Git_Intake_Drawer/🧠_ideology_without_conspiracy.md)
     - [`🧠_unfulfilled_first_brain.md`](Polaris_Nest/Git_Intake_Drawer/🧠_unfulfilled_first_brain.md)
     - [`🧨_institutional_gaslighting.md`](Polaris_Nest/Git_Intake_Drawer/🧨_institutional_gaslighting.md)
     - [`🧨_legal_gaslighting.md`](Polaris_Nest/Git_Intake_Drawer/🧨_legal_gaslighting.md)
