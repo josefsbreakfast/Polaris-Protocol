@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-26 06:45:17 UTC_
+_Generated on 2025-12-26 07:05:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3922,6 +3922,7 @@ _Generated on 2025-12-26 06:45:17 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
+    - [`OnlineDisinfoCampaign_HUNTING_README.md`](Polaris_Nest/Git_Intake_Drawer/OnlineDisinfoCampaign_HUNTING_README.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`ZDC_README.md`](Polaris_Nest/Git_Intake_Drawer/ZDC_README.md)
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
