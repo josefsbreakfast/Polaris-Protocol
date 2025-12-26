@@ -1,5 +1,5 @@
 # 💞 Queer Theory as Relational Literacy  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
 *Queer theory as everyday emotional and structural competence.*  
 
 ---
@@ -54,7 +54,11 @@ It positions queer theory as foundational to sustainable human connection.
 
 > 📡 Cross-references:
 > 
-> - [📿 Strength as Gihasta]  
+> - [📿 Strength as Gihasta](../../🦕_Elder_Influencers/🕸️_World_Webs/📿_strength_as_gihasta.md)
+> - [💄 Plastic Masculinity Knives](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💄_plastic_masculinity_knives.md)
+> - [💸 Shame as Control Currency](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💸_shame_as_control_currency_the_architecture_of_self_silencing.md)
+> - [🫂 Mixed-Gender & Queer Sociality as Radicalisation Antidote](../🐝_Body_Politic/🫂_mixed_gender_queer_sociality_as_radicalisation_antidote.md)  
+> - [🏳️‍🌈 Queer-Adjacent Masculinity as Soft Boy Compass](./🏳️‍🌈_queer_adjacent_masculinity_as_soft_boy_compass.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-09_
+_Last updated: 2025-12-25_
