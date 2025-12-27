@@ -1,5 +1,5 @@
 # 🕳️ The Pothole Problem  
-**First created:** 2025-10-09 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-09 | **Last updated:** 2025-12-27  
 *When six-hundred-year-old law meets twenty-first-century asphalt.*  
 
 ---
@@ -127,9 +127,16 @@ highways act 1555, highways act 1980, procurement failure, weak enforcement, uti
 
 ## 🏮 Footer  
 
-*The Pothole Problem* is a living node of the Polaris Protocol.  
+*🕳️ The Pothole Problem* is a living node of the Polaris Protocol.  
 It traces the persistence of Tudor-era road law through modern procurement loops to reveal how visible neglect becomes political currency.  
+
+> 📡 Cross-references:
+> 
+> - [🗺️ Linguistic Silk Road — How Words Travel](../../🦕_Elder_Influencers/🕸️_World_Webs/🗺️_linguistic_silk_road_how_words_travel.md)  
+> - [🚜 Tools Are Not Costumes](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🚜_tools_are_not_costumes.md)
+> - [🧃 COGAT Is a Containment Operation](../../🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
+> - [🦕 Partition Loop — Borders as Violence](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🦕_partition_loop.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-12-27_
