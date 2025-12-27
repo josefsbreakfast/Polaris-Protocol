@@ -1,4 +1,4 @@
-# 🧩 Algorithmic Conscience  
+# 🤖 Algorithmic Conscience  
 **First created:** 2025-11-10 | **Last updated:** 2025-12-27  
 *When an empathy-machine’s design forces its operators back toward humanitarian law.*  
 
