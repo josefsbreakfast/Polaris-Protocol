@@ -4,13 +4,13 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Explores the cultural logic of procedural inaction in British institutions — the reflex to pause, defer, and let deadlines perform the work of decision.  
 This is the governance equivalent of the stiff upper lip: paperwork as exorcism, silence as safety.  
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Temporal containment:** problems are allowed to “time out” rather than be solved.  
 - **Distributed responsibility:** no one ever *decides* — they merely “await clarification.”  
 - **Moral aesthetics:** restraint masquerades as professionalism; to act would be “inappropriate while under review.”  
@@ -18,9 +18,7 @@ This is the governance equivalent of the stiff upper lip: paperwork as exorcism,
 
 ---
 
-## 🔍 Analysis  
-
-### 1️⃣ The Mechanism  
+## 🧨 The Mechanism  
 A ritual sequence common across UK public bodies:  
 1. A complaint or anomaly surfaces.  
 2. An acknowledgement is issued (“Thank you for your correspondence; we are reviewing the matter”).  
@@ -31,14 +29,14 @@ Thus, action is achieved through inaction — a temporal machine for risk avoida
 
 ---
 
-### 2️⃣ Cultural Roots  
+## 🔮 Cultural Roots  
 - **Civil service ethos:** prudence > initiative. Better a thousand non-decisions than one unvetted email.  
 - **Legal caution:** everything is potentially discoverable, so silence is a form of self-redaction.  
 - **Social training:** conflict is impolite; time will take care of it.  
 
 ---
 
-### 3️⃣ Operational Forms  
+## 🦤 Operational Forms  
 | Domain | Typical Ritual | Outcome |  
 |---------|----------------|---------|  
 | Data Protection | “Awaiting confirmation from the relevant team.” | Deletion by calendar expiry. |  
@@ -48,7 +46,7 @@ Thus, action is achieved through inaction — a temporal machine for risk avoida
 
 ---
 
-### 4️⃣ Psychology of Waiting  
+## 🧠 Psychology of Waiting  
 The comfort of procedural suspense: if nothing is said, nothing can be *wrong.*  
 Collective patience becomes a defence mechanism, and the passage of time is misread as due diligence.  
 
