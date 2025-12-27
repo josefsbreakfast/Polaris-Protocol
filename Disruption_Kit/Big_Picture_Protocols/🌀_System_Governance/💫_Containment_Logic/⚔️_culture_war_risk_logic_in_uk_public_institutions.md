@@ -35,9 +35,7 @@ This node maps how that shift happens, why it accelerates during democratic stre
 
 ---
 
-## 🧿 Analysis / Content  
-
-### 🚨 1. What “Culture War Risk Logic” *Is*  
+## 🔥 What “Culture War Risk Logic” *Is*  
 It is *not* ideology.  
 It is not bigotry by default.  
 It is not always conscious.
@@ -60,7 +58,7 @@ This produces a defensive mindset:
 
 ---
 
-### 🧨 2. How Culture War Logic Enters Institutions  
+## 🧨 How Culture War Logic Enters Institutions  
 There are four main doorways:
 
 #### **a) Ministerial Signalling**
@@ -106,7 +104,7 @@ The rise of:
 
 ---
 
-### 🧩 3. The Culture War Distortion Pipeline  
+## 🔬 The Culture War Distortion Pipeline  
 
 ```mermaid
 flowchart LR
@@ -120,7 +118,7 @@ The organisation misinterprets identity, behaviour or speech as “risk” becau
 
 ---
 
-### 🎭 4. Symbolic Harm vs Real Harm  
+## 🎭 Symbolic Harm vs Real Harm  
 Culture war logic prioritises:
 
 - flags  
@@ -152,7 +150,7 @@ It’s optics over outcomes.
 
 ---
 
-### 🧠 5. Why Institutions Become More Reactive During Democratic Drift  
+## 🧠 Why Institutions Become More Reactive During Democratic Drift  
 When confidence in the political system erodes, public bodies start:
 
 - acting like they’re under siege  
@@ -174,7 +172,7 @@ The less stable the state, the more irrational the bureaucracy becomes.
 
 ---
 
-### 🔄 6. Who Gets Misread First  
+## 👾 Who Gets Misread First  
 Culture war misinterpretation disproportionately affects:
 
 - political minorities  
@@ -192,7 +190,7 @@ Because cultural difference becomes **risk-coded**.
 
 ---
 
-### 🧭 7. Impact on Data Systems  
+## 🪼 Impact on Data Systems  
 Culture war logic does not remain rhetorical — it becomes **metadata**:
 
 - ambiguous labels  
@@ -212,7 +210,7 @@ This leads to:
 
 ---
 
-### 🔧 8. Why This Node Matters for Polaris  
+## 🐦‍🔥 Why This Node Matters for Polaris  
 Polaris sees culture war risk logic as:
 
 - a structural explanation for bureaucratic overreach  
