@@ -28,21 +28,6 @@ This node sketches those hooks, while also mapping *how* suppression now operate
 
 ---
 
-## ⚖️ Doctrines Considered
-
-1. Loss of earnings — tortious interference  
-2. Defamation — reputational harm by implication  
-3. Harassment / psychiatric injury  
-4. Equality law — discrimination  
-5. Equality law — harassment / sexual harassment  
-6. Freedom of expression — Article 10 ECHR  
-7. Private and family life — Article 8 ECHR  
-8. Conspiracy / unlawful means  
-
-These doctrines frequently **overlap** in muted-book cases.
-
----
-
 ## 🔥 What “Muting” Does (Legally)
 
 Muting commonly produces:
@@ -54,7 +39,22 @@ Muting commonly produces:
 - Pressure on authors to self-censor or withdraw  
 
 Law does not require a ban to recognise harm.  
-Patterned absence is evidence.
+Patterned absence is evidence.  
+
+---
+
+## ⚖️ Legal Doctrines Considered
+
+1. Loss of earnings — tortious interference  
+2. Defamation — reputational harm by implication  
+3. Harassment / psychiatric injury  
+4. Equality law — discrimination  
+5. Equality law — harassment / sexual harassment  
+6. Freedom of expression — Article 10 ECHR  
+7. Private and family life — Article 8 ECHR  
+8. Conspiracy / unlawful means  
+
+These doctrines frequently **overlap** in muted-book cases.  
 
 ---
 
