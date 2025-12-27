@@ -1,5 +1,5 @@
 # 🧬 Distributed Complicity In Modern Warfare  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-27  
 *How contemporary conflict fragments agency while concentrating harm.*  
 
 ---
@@ -163,10 +163,10 @@ It exists to explain why harm persists even when no one claims authorship, and w
 
 > 📡 Cross-references:
 >
-> - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)] — *where prevention failed*
-> - [🏛️ Ministerial Authority And Collapse Of Lawful Refusal] — *why refusal routes vanished*
-> - [⚖️ Judicial Reviews, Parliamentary Committees, And Procedural Delay] — *how process absorbs harm*
->
-> *Survivor authorship is sovereign. Containment is never neutral.*
+> - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)](../⚖️_Legal_State_Governance/🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *where prevention failed*
+> - [🏛️ Ministerial Authority And Collapse Of Lawful Refusal](../⚖️_Legal_State_Governance/🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *why refusal routes vanished*
+> - [⚖️ Judicial Reviews, Parliamentary Committees, And Procedural Delay](../⚖️_Legal_State_Governance/⚖️_judicial_reviews_parliamentary_committees_and_procedural_delay.md) — *how process absorbs harm*
 
-_Last updated: 2025-12-23_
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2025-12-27_
