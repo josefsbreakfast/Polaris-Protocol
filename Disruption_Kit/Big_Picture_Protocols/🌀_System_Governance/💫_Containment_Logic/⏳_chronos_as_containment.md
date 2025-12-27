@@ -1,5 +1,5 @@
 # ⏳ Chronos as Containment  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-12 | **Last updated:** 2025-12-27  
 *Mapping how bureaucratic and institutional systems weaponise time.*  
 
 ---
@@ -33,9 +33,11 @@ It documents the temporal levers used by institutions to shape behaviour and enf
 
 > 📡 Cross‑references:  
 > 
-> - [🧭 Temporal Governance Overview] — high‑level framework for time‑based policy.  
-> - [🛰️ Field Log 2025‑11‑12 – Time‑Control Incident] — concrete case study.
+> - [🧨 Procedural Wait Your Turn](../../../Containment_Scripts/Counter_Nudges/🧨_procedural_wait_your_turn.md) — *high‑level framework for time‑based policy*  
+> - [⏳ Looped Waiting Rooms](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_looped_waiting_rooms.md) — *concrete case study*
+> - [🐌 Delays Are Violence](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md)
+> - [🧠 Transformative Learning Window](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_transformative_learning_window.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-27_
