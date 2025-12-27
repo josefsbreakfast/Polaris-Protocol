@@ -1,5 +1,5 @@
 # 🔥 When Food Triggers Regime Failure  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2025-12-27  
 *Why governments often survive inequality, corruption, and repression — but not food system misalignment.*
 
 ---
@@ -16,7 +16,7 @@ This node documents a consistent historical pattern:
 
 ---
 
-## 🧿 What makes food different  
+## 🧿 What Makes Food Different  
 
 Food has properties that no other political issue shares:
 
@@ -31,7 +31,7 @@ You cannot manage hunger the same way.
 
 ---
 
-## 🧠 The legitimacy compression effect  
+## 🧠 The Legitimacy Compression Effect  
 
 Most political pressure accumulates slowly.
 
@@ -50,7 +50,7 @@ They are just misread as “noise.”
 
 ---
 
-## 🥖 The canonical failure sequence  
+## 🥖 The Canonical Failure Sequence  
 
 Across cases, the pattern is strikingly similar:
 
@@ -62,14 +62,14 @@ Across cases, the pattern is strikingly similar:
 6. **Repression escalates**  
 7. **Regime legitimacy collapses**  
 
-The **[French Revolution](chatgpt://generic-entity?number=0)** is the textbook example — not because it is unique, but because it is clear.
+The **French Revolution** is the textbook example — not because it is unique, but because it is clear.
 
 Bread broke the system.  
 Philosophy followed.
 
 ---
 
-## ⚖️ Why repression backfires here  
+## ⚖️ Why Repression Backfires Here  
 
 When food systems are misaligned, enforcement stops being read as order.
 
@@ -88,7 +88,7 @@ It is survival logic responding to constraint.
 
 ---
 
-## 🌾 Producers as legitimacy linchpins  
+## 🌾 Producers As Legitimacy Linchpins  
 
 Food crises often centre producers — not consumers.
 
@@ -106,7 +106,7 @@ This recognition travels faster than policy explanation.
 
 ---
 
-## ⚠️ The elite misread (again)  
+## ⚠️ The Elite Misread (Again)  
 
 Elites repeatedly assume:
 - unrest is organised,
@@ -124,7 +124,7 @@ This is why food crises often produce **unexpected coalitions** and sudden shift
 
 ---
 
-## 🧩 Why this keeps being relearned  
+## 🧩 Why This Keeps Being Relearned  
 
 Modern governance relies heavily on:
 - delayed effects,
@@ -146,7 +146,7 @@ It is adaptive.
 🔥 🥖 🍞 ⚖️ 🧠 — food stress, moral economy, repression, legitimacy collapse  
 
 *Further reading / viewing:*  
-- *[French Revolution](chatgpt://generic-entity?number=1)* — bread as the trigger, not ideology  
+- *French Revolution* — bread as the trigger, not ideology  
 - *E.P. Thompson, “The Moral Economy of the Crowd”* — subsistence as political threshold  
 - *Comparative food crisis histories* — repeated sequence across regimes  
 - *Modern food price shock analyses* — compression effects and instability
