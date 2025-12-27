@@ -111,7 +111,7 @@ It maps the moment when economic impunity mutates civic frameworks into containm
 > - [*Pending:* 🛰️ Surveillance FOI-SAR Dual Oversight Protocol] — *public oversight methodology*
 > - [👾 Intent-Free Authoritarian Drift](./👾_intent_free_authoritarian_drift.md)
 > - [🏛️ The Boringing (UK 2010–2025)](./🏛️_the_boringing_uk_2010_2025.md)
-> - [🪬 Authoritarianism Beyond Left Right](../../../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_authoritarianism_beyond_left_right.md)
+> - [🪬 Authoritarianism Beyond Left Right](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_authoritarianism_beyond_left_right.md)
 > - [🩺 Stakeholder Mapping from Symptoms](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🩺_stakeholder_mapping_from_symptoms.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
