@@ -1,5 +1,5 @@
 # 🧨 We Are Already Paying the Cost  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-27  
 *Why avoiding accountability does not save money, stability, or lives — it defers and multiplies the bill.*  
 
 ---
@@ -191,15 +191,16 @@ cost of impunity, prevention economics, accountability investment, trauma burden
 
 ## 🏮 Footer
 
-*We Are Already Paying the Cost* is a living node of the **Polaris Protocol**.  
+*🧨 We Are Already Paying the Cost* is a living node of the **Polaris Protocol**.  
 It documents how avoidance of accountability produces higher long-term economic, social, and democratic costs than early intervention and enforcement.
 
 > 📡 Cross-references:
-> - **🧬 Accountability Is Infrastructure** — cost of under-investment  
-> - **🧬 What a CSA System Optimised for Prevention Looks Like** — prevention economics  
-> - **⚖️ Decoupling Justice From Incarceration** — reducing failure spend  
-> - **🧨 Deterrence Dies in Private** — cost of repeat harm  
+> 
+> - [🧬 Accountability Is Infrastructure](../🛰️_Infrastructure_Procurement/🧬_accountability_is_infrastructure.md) — *cost of under-investment*  
+> - [🧬 What a CSA System Optimised for Prevention Looks Like](../⚖️_Legal_State_Governance/🧬_what_a_csa_system_optimised_for_prevention_looks_like.md) — *prevention economics*  
+> - [⚖️ Decoupling Justice From Incarceration](../⚖️_Legal_State_Governance/⚖️_decoupling_justice_from_incarceration.md) — *reducing failure spend*  
+> - [🧨 Deterrence Dies in Private](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_deterrence_dies_in_private.md) — *cost of repeat harm*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2025-12-27_
