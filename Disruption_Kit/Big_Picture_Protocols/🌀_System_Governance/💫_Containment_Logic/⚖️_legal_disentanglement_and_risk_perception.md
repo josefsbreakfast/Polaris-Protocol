@@ -1,5 +1,5 @@
 # ⚖️ Legal Disentanglement & Risk Perception  
-**First created:** 2025‑11‑12 | **Last updated:** 2025-12-07  
+**First created:** 2025‑11‑12 | **Last updated:** 2025-12-27  
 *Examining how legal ambiguity in data‑twinning and ownership generates risk‑avoidance behaviour and institutional silence.*  
 
 ---
@@ -34,8 +34,12 @@ legal disentanglement, risk perception, data twinning, shared liability, jurisdi
 
 > 📡 Cross‑references:  
 > 
-> - *(add any related node or folder here when available)*  
+> - [🪁 Contracts That Colonise Memory](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🪁_contracts_that_colonise_memory.md)  
+> - [🎓 Duty to Recognise Systemic Misclassification](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🎓_duty_to_recognise_systemic_misclassification.md)
+> - [🧟‍♀️ Digital ID Zombie Profiles](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_digital_id_zombie_profiles.md)  
+> - [📜 Terms of Erasement](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/📜_terms_of_erasement.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-27_
