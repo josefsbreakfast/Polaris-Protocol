@@ -1,5 +1,5 @@
 # 🧩 Algorithmic Conscience  
-**First created:** 2025-11-10 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-10 | **Last updated:** 2025-12-27  
 *When an empathy-machine’s design forces its operators back toward humanitarian law.*  
 
 ---
@@ -73,4 +73,4 @@ It maps the paradox whereby systems built to quantify harm become instruments of
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-27_
