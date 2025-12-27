@@ -45,11 +45,11 @@ It anchors the **Metadata Integrity** and **Voice Fidelity** constellations, lin
 
 > 📡 Cross-references:
 > 
-> - [📊 Crown-Service Flag and Metadata Drift](./README.md) - *How administrative shorthand inside databases mis-codes authority and jurisdiction*  
+> - [*Pending:* 📊 Crown-Service Flag and Metadata Drift] - *How administrative shorthand inside databases mis-codes authority and jurisdiction*  
 > - [🌋 Escalation Drift in Complex Datasets](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌋_escalation_drift_in_complex_datasets.md)  
 > - [📥 Entry-Point Abuse in Automated Datasets](../../../..Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📥_entry_point_abuse_in_automated_datasets.md)  
-| [🧠 Cognitive Feedback and Bureaucratic Amplification](./🧠_cognitive_feedback_and_bureaucratic_amplification.md)  
-| [📠 The 72-Hour Comedy of Compliance](./📠_the_72_hour_comedy_of_compliance.md)  
+> - [🧠 Cognitive Feedback and Bureaucratic Amplification](./🧠_cognitive_feedback_and_bureaucratic_amplification.md)  
+> - [📠 The 72-Hour Comedy of Compliance](./📠_the_72_hour_comedy_of_compliance.md)  
 
 > *Integrity is not a file format. It’s a habit of correction.*  
 
