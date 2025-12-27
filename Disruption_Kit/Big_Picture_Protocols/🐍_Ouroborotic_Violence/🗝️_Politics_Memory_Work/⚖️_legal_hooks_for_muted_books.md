@@ -130,7 +130,7 @@ Silence, when orchestrated, carries the scent of conspiracy.
 
 ---
 
-## ⚖️ Doctrine Deepening (Summary)
+#### ⚖️ Doctrine Deepening (Summary)
 
 Muted books may engage law through:
 
