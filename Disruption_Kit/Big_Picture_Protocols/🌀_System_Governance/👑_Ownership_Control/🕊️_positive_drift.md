@@ -1,5 +1,5 @@
 # 🕊️ Positive Drift — Leadership Shifts in Counter-Terrorism and Heritage-Aligned Governance  
-**First created:** 2025-11-08 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-08 | **Last updated:** 2025-12-27  
 *Small rotations that change the tone of an entire field.*  
 
 ---
@@ -64,6 +64,15 @@ counter-terrorism, leadership change, heritage foundation, ideological patronage
 *🕊️ Positive Drift* is a current-events node of the Polaris Protocol.  
 It logs incremental reform — the kind that rarely makes headlines but quietly re-balances power toward transparency and skill.  
 
+> 📡 Cross-references:
+> 
+> - [🎽 Think Tanks, Surveillance, and Conferencing](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🎽_think_tanks_surveillance_and_conferencing.md)  
+> - [💸 Opacity Architecture: AI, Defence & Foreign Alignment](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💸_opacity_architecture.md)
+> - [🧪 Think-Tanks & Their Funding (2010–16)](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🧪_think_tanks_and_their_funding_2010_2016.md)
+> - [🧭 Think-Tank Drift and Blurred Boundaries](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🧭_think_tank_drift_and_blurred_boundaries.md)
+> - [🎶 Police The Vibes!](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_police_the_vibes.md)
+> - [🚨 Risk Logic Creep](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🚨_risk_logic_creep.md)  
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-11_
+_Last updated: 2025-12-27_
