@@ -1,6 +1,6 @@
 # ⚓ Sea Org as Containment Prototype  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-12  
-*L. Ron Hubbard’s maritime escape as early containment architecture.*
+**First created:** 2025-11-07 | **Last updated:** 2025-12-27  
+*L. Ron Hubbard’s maritime escape as early containment architecture.*  
 
 ---
 
@@ -17,6 +17,8 @@ It traces maritime sovereignty as an early rehearsal of digital off-shoring and 
 > 📡 Cross-references:
 > 
 > - [🪸 Floating Commons — Humane Sovereignty at Sea](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪸_floating_commons_humane_sovereignty_at_sea.md)
+> - [🧬 Exit, Exploitation, and Immortality — The Thiel Paradox](../../🦕_Elder_Influencers/🕸️_World_Webs/🧬_exit_exploitation_and_immortality_the_thiel_paradox.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-12_
+
+_Last updated: 2025-12-27_
