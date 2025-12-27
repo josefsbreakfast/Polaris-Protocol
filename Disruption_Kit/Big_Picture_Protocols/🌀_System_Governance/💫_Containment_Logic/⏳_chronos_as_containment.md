@@ -9,6 +9,7 @@
 This node maps **time itself** as an institutional containment mechanism.
 
 Not speed, not efficiency — but *delay, suspension, deferral, and waiting* as tools of control.  
+
 Chronos here is not neutral chronology; it is **engineered duration**: time stretched, looped, or withheld to shape behaviour, dampen resistance, and launder responsibility.
 
 Chronos as Containment sits upstream of multiple Polaris clusters — governance, psychological containment, procedural suppression — as a **foundational mechanic** rather than a downstream effect.
