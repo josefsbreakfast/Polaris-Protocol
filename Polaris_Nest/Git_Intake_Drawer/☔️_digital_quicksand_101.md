@@ -274,3 +274,82 @@ Only after that does it make sense to discuss:
 ### Final grounding line
 
 > **When complex systems lose legibility under pressure, instability does not look like collapse — it looks like people acting in good faith and sinking anyway.**
+
+---
+
+## Further Reading & Media  
+*These works approach the problem from different angles — political theory, systems governance, information conflict, and lived experience. They do not agree on causes or solutions. Together, they map the terrain.*
+
+### Core framing & systems thinking
+- **James C. Scott — *Seeing Like a State***  
+  How large-scale simplification in governance produces blind spots and harm.
+
+- **Jerry Z. Muller — *The Tyranny of Metrics***  
+  Why KPI- and OKR-driven systems fail where judgement and legitimacy matter.
+
+- **Charles Perrow — *Normal Accidents***  
+  Why complex systems fail in ways that feel personal, uncanny, and uncontestable.
+
+---
+
+### Trauma, culture, and learned helplessness
+- **Mark Fisher — *Capitalist Realism***  
+  Essential for understanding inevitability narratives, institutional paralysis, and learned helplessness.
+
+- **Sherry Turkle — *Alone Together***  
+  Early but prescient analysis of emotional substitution and authority drift in human–machine interaction.
+
+---
+
+### Authoritarian drift & emergency politics
+- **Azeem Ibrahim — *The Authoritarian Century***  
+  How adaptive authoritarianism exploits instability, emergency framing, and democratic fragmentation.
+
+- **Steven Levitsky & Daniel Ziblatt — *How Democracies Die***  
+  Democratic erosion through norm decay rather than coups.
+
+- **Timothy Snyder — *The Road to Unfreedom***  
+  Narrative collapse, inevitability politics, and the strategic use of confusion.
+
+---
+
+### Information warfare & epistemic instability
+- **Peter Pomerantsev — *This Is Not Propaganda***  
+  How modern information conflict works through confusion, exhaustion, and emotional saturation.
+
+- **Peter Pomerantsev — *Nothing Is True and Everything Is Possible***  
+  How reality becomes negotiable under sustained narrative pressure.
+
+- **Yochai Benkler et al. — *Network Propaganda***  
+  Data-driven analysis of how disinformation ecosystems actually function.
+
+- **Thomas Rid — *Active Measures***  
+  Historical grounding on disinformation as a long-standing state practice.
+
+---
+
+### Automation, opacity, and administrative harm
+- **Cathy O’Neil — *Weapons of Math Destruction***  
+  How automated systems magnify inequality while obscuring responsibility.
+
+- **Frank Pasquale — *The Black Box Society***  
+  Why opacity becomes a democratic governance problem, not just a technical one.
+
+- **Virginia Eubanks — *Automating Inequality***  
+  How people experience systemic harm without anyone intending it.
+
+---
+
+### Media & narrative case studies
+- **The New York Times — *Rabbit Hole* (podcast)**  
+  How ordinary people fall into destabilising feedback loops online.
+
+- **ProPublica**  
+  Investigative reporting on administrative harm, algorithmic governance, and accountability gaps.
+
+- **The Markup**  
+  Clear, empirical reporting on how technical decisions cascade into real-world harm.
+
+---
+
+*These sources are not a syllabus. They are reference points for understanding why instability now behaves like weather rather than crisis — persistent, patterned, and shaped by systems rather than single actors.*
