@@ -1,6 +1,6 @@
 # ⚔️ Culture War Risk Logic in UK Public Institutions  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-15  
-*How culture war narratives infiltrate public bodies, distort safeguarding and governance priorities, and create reactive, optics-driven misinterpretation loops.*
+**First created:** 2025-11-16 | **Last updated:** 2025-12-27  
+*How culture war narratives infiltrate public bodies, distort safeguarding and governance priorities, and create reactive, optics-driven misinterpretation loops.*  
 
 ---
 
@@ -241,4 +241,4 @@ It analyses how political narratives distort operational decision-making, creati
 > - [🗃️ Safeguarding Logic Mission Creep & Identity-Pathologising](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md) - *how "safeguarding" can become fascist and/or authoritarian in nature*  
 
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-27_
