@@ -1,6 +1,6 @@
 # ☕ Administrative Necromancy — How British Bureaucracy Waits Problems to Death  
-**First created:** 2025-10-30 | **Last updated:** 2025-10-30  
-*When in doubt, adjourn until reality expires.*
+**First created:** 2025-10-30 | **Last updated:** 2025-12-27  
+*When in doubt, adjourn until reality expires.*  
 
 ---
 
@@ -69,6 +69,14 @@ bureaucracy, delay as strategy, data retention, governance culture, british inst
 *☕ Administrative Necromancy — How British Bureaucracy Waits Problems to Death* is a living node of the Polaris Protocol.  
 It documents the temporal suppression techniques used by UK institutions to transform unresolved issues into archived trivia.  
 
+> 📡 Cross-references:
+> 
+> - [🧨 Procedural Wait Your Turn](../../../Containment_Scripts/Counter_Nudges/🧨_procedural_wait_your_turn.md)  
+> - [⏳ Delay Scripts Near Deadlines](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_delay_scripts_near_deadlines.md)
+> - [🛰️ Regulatory adjacency effects on decision timelines](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🛰️_regulatory_adjacency_effects_on_delay_dynamics.md)
+> - [⏳ Hinge Point: When Delay Becomes Liability](../⚖️_Legal_State_Governance/⏳_hinge_point_when_delay_becomes_liability.md)
+> - [🐌 Delays Are Violence](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md)  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-30_
+_Last updated: 2025-12-27_
