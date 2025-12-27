@@ -1,6 +1,6 @@
 # ☢️ The Empathy Project  
-**First created:** 2025-11-10  |  **Last updated:** 2025-11-12  
-*From Los Alamos to affective computing — how wartime freedom for odd minds became peacetime containment for the same impulses.*
+**First created:** 2025-11-10 | **Last updated:** 2025-12-27  
+*From Los Alamos to affective computing — how wartime freedom for odd minds became peacetime containment for the same impulses.*  
 
 ---
 
@@ -103,9 +103,10 @@ It examines how the freedom that birthed atomic science evolved into the control
 
 > 📡 Cross-references:
 > 
-> – 🧩 Algorithmic Conscience — *machines that enforce ethics through evidence*  
-> – ⚖️ The Teaching Hospital Loophole — *human-subject data capture and ethics laundering*  
+> - [📚 Library as Algorithmic Interface](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📚_library_as_algorithmic_interface.md)
+> - [🤖 Algorithmic Conscience](../📚_Narrative_Management/🤖_algorithmic_conscience.md) — *machines that enforce ethics through evidence*  
+> - [⚖️ The Teaching Hospital Loophole](../🧪_Development_Experimentation/⚖️_the_teaching_hospital_loophole.md) — *human-subject data capture and ethics laundering*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-27_
