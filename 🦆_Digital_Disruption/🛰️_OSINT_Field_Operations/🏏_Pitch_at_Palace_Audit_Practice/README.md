@@ -1,3 +1,5 @@
+🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/README.md
+
 note what seems odd in this one, because we are doing insteresting squiggling today 😏  
 
 these guys seriously had my teenage test scores on a uni iq feeder test and are suprised im not thick as mince.  
@@ -106,3 +108,5 @@ Associated / meta-humour files
 - 📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md – humour + integrity in statistical storytelling
 
 2025-11-02
+
+🔮 https://www.bbc.co.uk/news/articles/c5y0zl17g29o
