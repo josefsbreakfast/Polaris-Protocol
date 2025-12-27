@@ -37,6 +37,7 @@ Chronos as Containment sits upstream of multiple Polaris clusters — governance
 ## 😶‍🌫️ Time Is Not Neutral Infrastructure  
 
 Bureaucratic systems present time as background — a shared, external constraint.  
+
 In practice, time is **allocated, gated, and unevenly distributed**.
 
 Waiting is not a side effect of process; it *is* the process.
@@ -56,6 +57,7 @@ Instead of “no,” the system offers:
 - “We will update you in due course.”
 
 Each phrase sounds reasonable.  
+
 Collectively, they function as **non-resolution with plausible deniability**.
 
 ---
@@ -97,9 +99,41 @@ Chronos containment works precisely because it externalises harm while internali
 ### ⚖️ Institutional Memory vs Human Memory  
 
 Institutions outsource time to archives, ticket numbers, and databases.  
+
 People must carry time *in their bodies*.
 
-Missed deadlines, delayed responses, or burnout are then reframed as **non-compliance**, rather than predictable effects of imposed waiting.
+Missed deadlines, delayed responses, or burnout are then reframed as **non-compliance**, rather than predictable effects of imposed waiting.  
+
+---
+
+## ⚡️ Kronos: Devouring the Future by Delay  
+
+In Greek myth, Kronos does not kill his children to rule — he contains them.  
+
+Fearing displacement, he swallows his offspring whole. They remain alive, conscious, and suspended inside his body for years.  
+
+Not dead.  
+Not growing.  
+Not arriving.  
+
+This is temporal containment in its purest form: the future eaten and stored.  
+
+The violence is not the act itself, but the duration. Kronos rules by ensuring that succession cannot emerge. Time continues, but progress does not.  
+
+Only Zeus, hidden outside the system, escapes this suspended state. His eventual victory is not merely physical overthrow but temporal rupture — forcing time forward again and releasing those trapped in enforced waiting.  
+
+Read through this lens, the myth (as recorded in Theogony) describes a governance model based on delay rather than denial.  
+
+Kronos does not say, “no.”  
+He says, “later,”.  
+Indefinitely.  
+
+Modern institutions no longer swallow bodies.  
+
+They swallow cases, appeals, careers, diagnoses, safeguards, and futures — holding them in procedural stomachs where nothing technically ends, but nothing meaningfully begins.  
+
+Kronos falls not because time resists control, but because time cannot be permanently held without rupture.  
+
 
 ---
 
@@ -118,6 +152,7 @@ time control, bureaucratic delay, administrative patience, emotional attrition, 
 ## 🏮 Footer  
 
 *⏳ Chronos as Containment* is a living node of the **Polaris Protocol**.  
+
 It documents the temporal levers used by institutions to shape behaviour and enforce containment.
 
 > 📡 Cross‑references:  
