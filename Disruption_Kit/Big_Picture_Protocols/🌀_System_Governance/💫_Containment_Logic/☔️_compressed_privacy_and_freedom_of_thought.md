@@ -1,6 +1,6 @@
 # ☔️ Article 8 & 9 Breach Pathways — Privacy and Freedom of Thought in Compression  
-**First created:** 2025-10-13 | **Last updated:** 2025-10-20  
-*A rights-based stress-test tracing how ordinary “lawful processing” can cumulatively erode privacy (Art 8 ECHR) and freedom of thought (Art 9).*
+**First created:** 2025-10-13 | **Last updated:** 2025-12-27  
+*A rights-based stress-test tracing how ordinary “lawful processing” can cumulatively erode privacy (Art 8 ECHR) and freedom of thought (Art 9).*  
 
 ---
 
@@ -71,11 +71,12 @@ It traces how lawful infrastructures can, through accumulation, reproduce the em
 
 > 📡 Cross-references:
 > 
-> - [🧱 Systemic Porosity] *TBC* — structural vulnerability map  
-> - [🧠 Multi-Lock Hypothetical] *TBC* — compound lawful layer model  
-> - [🧩 Hybrid Threat Overlay] *TBC* — external manipulation risk  
-> - [⚖️ Oversight Repair Kit] *TBC* — policy countermeasures  
+> - [🦠 Systemic Porosity](../👑_Ownership_Control/🦠_systemic_porosity.md) — *structural vulnerability map*  
+> - [🧠 Multi-Lock Hypothetical](./🧠_multilock_overlapping_covertion.md) — *compound lawful layer model*  
+> - [🦠 Hybrid Threat Overlay](../⚖️_Legal_State_Governance/🦠_hybrid_threat_overlay.md) — *external manipulation risk*  
+> - [🪡 Oversight Repair Kit](../👑_Ownership_Control/🪡_oversight_repair_kit.md) — *policy countermeasures*
+> - [🐍 Timeline of Capture — How Manufactured Vulnerability Matures into Enmeshment](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🐍_vulnerability_manufacture_to_enmeshment.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-12-27_
