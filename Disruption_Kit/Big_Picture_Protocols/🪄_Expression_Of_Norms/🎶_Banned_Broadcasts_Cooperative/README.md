@@ -1,5 +1,5 @@
 # 🎶 Banned Broadcasts Cooperative  
-**First created:** 2025-09-15 | **Last updated:** 2025-10-08  
+**First created:** 2025-09-15 | **Last updated:** 2025-12-27  
 *A cooperative archive of outlaw sound, banned books, and suppressed signals.*  
 
 ---
@@ -16,7 +16,6 @@ This folder exists to track not only the suppression but the **resistance archit
 
 ## ✨ Current Contents  
 
-* [⚖️ Legal Hooks for Muted Books](./⚖️_legal_hooks_for_muted_books.md) — legal and contractual levers used to mute circulation.  
 * [⚡ Structural Throughline](./⚡_structural_throughline.md) — synthesis of the pattern: containment hits legitimacy, not danger.  
 * [➰ Appeasement Loop Policing Bias](./➰_appeasement_loop_policing_bias.md) — why leftist groups are over-policed while fascists slide.  
 * [🎙 Congress Radio and Partition Cinema](./🎙_congress_radio_and_partition_cinema.md) — clandestine signals of the Quit India movement, and their cinematic memory.  
@@ -80,4 +79,4 @@ It documents the suppression of community transmission — and the ways those si
 
 🏮 [Return to Big Picture Protocols](../README.md)  
 
-_Last updated: 2025-10-08_  
+_Last updated: 2025-12-27_  
