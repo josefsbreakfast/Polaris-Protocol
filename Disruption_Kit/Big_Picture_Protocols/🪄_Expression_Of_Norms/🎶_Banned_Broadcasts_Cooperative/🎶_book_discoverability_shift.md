@@ -1,5 +1,5 @@
 # 🎶 Book Discoverability Shift (2022 Title)  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-27 | **Last updated:** 2025-12-27  
 *Observation log of sudden visibility changes for the 2022 book.*  
 
 ---
@@ -58,10 +58,11 @@ book discoverability, search suppression, metadata manipulation, hostile reviews
 *🎶 Book Discoverability Shift (2022 Title)* is a living node of the Polaris Protocol.  
 It tracks visibility anomalies in book circulation, showing how metadata errors and ranking shifts can suppress presence without overt bans.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [📚 Forensic Silence](../🌀_System_Governance/📚_forensic_silence.md) — *search and metadata erosion*  
-> - [⚖️ Legal Hooks for Muted Books](./⚖️_legal_hooks_for_muted_books.md) — *legal doctrines for framing suppression as injury*  
+> - [⚖️ Legal Hooks for Muted Books](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md) — *legal doctrines for framing suppression as injury*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-12-27_  
