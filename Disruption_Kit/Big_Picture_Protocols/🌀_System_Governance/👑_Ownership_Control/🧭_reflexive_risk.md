@@ -132,7 +132,6 @@ It serves as both diagnostic and compass for those who find themselves becoming 
 
 > 📡 Cross-references:
 > 
-> - [1up](./README.md)  
 > - [⚖️ Defend Forward & Sovereign Cyber Response Ladder](../⚖️_Legal_State_Governance/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
 > - [⛩️ Postmodern Gateway](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⛩️_postmodern_gateway.md)
 > - [⚖️ Due Diligence as Moral Defence](../⚖️_Legal_State_Governance/⚖️_due_diligence_as_moral_defence.md)
