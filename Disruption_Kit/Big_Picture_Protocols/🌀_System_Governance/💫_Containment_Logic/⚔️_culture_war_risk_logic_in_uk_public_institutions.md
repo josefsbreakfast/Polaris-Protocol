@@ -61,7 +61,7 @@ This produces a defensive mindset:
 ## 🧨 How Culture War Logic Enters Institutions  
 There are four main doorways:
 
-#### **a) Ministerial Signalling**
+#### **1. Ministerial Signalling**
 Departing from evidence-based instruction, ministers often communicate via:
 
 - speeches  
@@ -71,7 +71,7 @@ Departing from evidence-based instruction, ministers often communicate via:
 
 …that public bodies interpret as **policy direction**, even when they’re not.
 
-#### **b) Media Pressure**
+#### **2. Media Pressure**
 Public bodies are acutely aware of:
 
 - GB News framing  
@@ -81,7 +81,7 @@ Public bodies are acutely aware of:
 
 This leads to pre-emptive action.
 
-#### **c) Training Gaps**
+#### **3. Training Gaps**
 Staff lack literacy in:
 
 - minority identity  
@@ -92,7 +92,7 @@ Staff lack literacy in:
 
 So they misread culture war stories as **safeguarding truths**.
 
-#### **d) Legal Fear**
+#### **4. Legal Fear**
 The rise of:
 
 - strategic litigation  
