@@ -97,7 +97,7 @@ Chronos containment works precisely because it externalises harm while internali
 
 ---
 
-### ⚖️ Institutional Memory vs Human Memory  
+## ⚖️ Institutional Memory vs Human Memory  
 
 Institutions outsource time to archives, ticket numbers, and databases.  
 
