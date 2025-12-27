@@ -4,13 +4,13 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node models how parallel UK frameworks—data protection, counter-terrorism, health research, and platform governance—can, through cumulative exceptions, create conditions that feel like cognitive or expressive constraint.  
 It is **conceptual**, not accusatory: a map for legal and ethical self-audit.
 
 ---
 
-## 🧩 Core Mechanism  
+## ✨ Core Mechanism  
 
 | Step | Legal anchor | Rights pressure point |
 |------|---------------|------------------------|
@@ -24,7 +24,7 @@ Each layer is defensible alone, but together they compress the lawful space for 
 
 ---
 
-## 🔍  Analysis  
+## 🧠  Analysis  
 
 1. **From Privacy → Prediction** – Continuous metadata fusion converts interior life into external signal.  
 2. **From Thought → Threat** – Emotional or ideological variance may be scored as risk.  
@@ -48,7 +48,7 @@ Under Strasbourg case-law (e.g., *S. and Marper v UK*), even proportionate data 
 
 ---
 
-## 🧱  Practical Implications  
+## 🐝  Practical Implications  
 - **For regulators:** require explicit “mental privacy” impact statements in AI or behavioural pilots.  
 - **For institutions:** separate welfare, research, and security data layers.  
 - **For citizens:** document patterns, use SARs, and seek ICO review when algorithmic inference alters treatment or access.  
