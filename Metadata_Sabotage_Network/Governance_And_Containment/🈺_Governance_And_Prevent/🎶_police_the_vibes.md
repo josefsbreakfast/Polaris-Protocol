@@ -1,5 +1,5 @@
-# 🎶 Police The Vibes!  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
+# 🎶 Police The Vibes  
+**First created:** 2025-11-18 | **Last updated:** 2025-12-27  
 *How a counter-terrorism duty drifted into mood interpretation, tone surveillance, and behaviour dampening.*  
 
 ---
@@ -66,7 +66,7 @@ Recognising the subjective drift is a first step toward reframing the duty and r
 ---
 
 ## Footer
-*🎶 Police The Vibes!* is a node in the Governance & Prevent cluster.  
+*🎶 Police The Vibes* is a node in the Governance & Prevent cluster.  
 It documents the system’s drift from structured counter-extremism to subjective behavioural moderation and outlines the risks associated with tone-based decision-making.  
 
 > Cross-references:
@@ -76,4 +76,4 @@ It documents the system’s drift from structured counter-extremism to subjectiv
 > - No Plausible Deniability for PREVENT Practitioners
 > - PREVENT as Tool for Coercive Control
 
-_Last updated: 2025-12-09_
+_Last updated: 2025-12-27_
