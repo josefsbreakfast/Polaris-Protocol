@@ -63,7 +63,7 @@ Patterned absence is evidence.
 When paperback runs, reviews, or distribution are cut short, authors lose royalties and contracts wobble.  
 If a third party deliberately interferes with publishing agreements or business expectancy, this can be actionable.
 
-Key tests: **interference + causation + damage**.
+Key tests: **interference + causation + damage**.  
 
 ---
 
