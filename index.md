@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 11:15:02 UTC_
+_Generated on 2025-12-28 11:20:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1925,10 +1925,16 @@ _Generated on 2025-12-28 11:15:02 UTC_
       - [`🛰️_baseline.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_baseline.md)
       - [`🛰️_field_log_node_generation_stalling_2025-10-06.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_field_log_node_generation_stalling_2025-10-06.md)
       - [`🛰️_foi_delay_pressure_sequence_2025-10-28.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_foi_delay_pressure_sequence_2025-10-28.md)
+      - [`🛰️_isbn_sensitivity_holdings_2025-10-03.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_isbn_sensitivity_holdings_2025-10-03.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
+      - [`🛰️_metadata_ghost_skeletal_nodes_upload_full_2025-10-03.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_ghost_skeletal_nodes_upload_full_2025-10-03.md)
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
+      - [`🛰️_metrics_milestone_2025-10-05.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metrics_milestone_2025-10-05.md)
+      - [`🛰️_nuisance_building_micro_sabotage_field_log_2025-10-04.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_nuisance_building_micro_sabotage_field_log_2025-10-04.md)
       - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
+      - [`🛰️_transparent_interference_field_log_2025-10-04.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_transparent_interference_field_log_2025-10-04.md)
       - [`🛰️_two_prongs_one_fork.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_two_prongs_one_fork.md)
+      - [`🛰️_where_we_are_now_2025-10-30.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_where_we_are_now_2025-10-30.md)
       - [`🧭_attractor_map_suppression_contract.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🧭_attractor_map_suppression_contract.md)
       - [`🪬_all_that_surveillance.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🪬_all_that_surveillance.md)
       - [`🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md)
@@ -2818,18 +2824,14 @@ _Generated on 2025-12-28 11:15:02 UTC_
     - [`🛰️_impersonation_by_proxy_field_log.md`](Disruption_Kit/Field_Logs/🛰️_impersonation_by_proxy_field_log.md)
     - [`🛰️_intentionality_assessment_data_twinning_cluster_2016.md`](Disruption_Kit/Field_Logs/🛰️_intentionality_assessment_data_twinning_cluster_2016.md)
     - [`🛰️_interesting_cluster.md`](Disruption_Kit/Field_Logs/🛰️_interesting_cluster.md)
-    - [`🛰️_isbn_sensitivity_holdings_2025-10-03.md`](Disruption_Kit/Field_Logs/🛰️_isbn_sensitivity_holdings_2025-10-03.md)
     - [`🛰️_late_stage_signoff_map_triple_lock_continuation.md`](Disruption_Kit/Field_Logs/🛰️_late_stage_signoff_map_triple_lock_continuation.md)
     - [`🛰️_linkedin_visibility_anomaly_log_2025-08-05.md`](Disruption_Kit/Field_Logs/🛰️_linkedin_visibility_anomaly_log_2025-08-05.md)
     - [`🛰️_low_frequency_hum_diagnostic_log.md`](Disruption_Kit/Field_Logs/🛰️_low_frequency_hum_diagnostic_log.md)
     - [`🛰️_meta_joke_surveillence_gadgies.md.PNG`](Disruption_Kit/Field_Logs/🛰️_meta_joke_surveillence_gadgies.md.PNG)
-    - [`🛰️_metadata_ghost_skeletal_nodes_upload_full_2025-10-03.md`](Disruption_Kit/Field_Logs/🛰️_metadata_ghost_skeletal_nodes_upload_full_2025-10-03.md)
-    - [`🛰️_metrics_milestone_2025-10-05.md`](Disruption_Kit/Field_Logs/🛰️_metrics_milestone_2025-10-05.md)
     - [`🛰️_missing_new_number_texts.md`](Disruption_Kit/Field_Logs/🛰️_missing_new_number_texts.md)
     - [`🛰️_more_blockages_and_disconnects.png`](Disruption_Kit/Field_Logs/🛰️_more_blockages_and_disconnects.png)
     - [`🛰️_mp_letters_are_in_if_cabinet_fancies_protecting_transfer.md`](Disruption_Kit/Field_Logs/🛰️_mp_letters_are_in_if_cabinet_fancies_protecting_transfer.md)
     - [`🛰️_no_sex_no_apartheid.md`](Disruption_Kit/Field_Logs/🛰️_no_sex_no_apartheid.md)
-    - [`🛰️_nuisance_building_micro_sabotage_field_log_2025-10-04.md`](Disruption_Kit/Field_Logs/🛰️_nuisance_building_micro_sabotage_field_log_2025-10-04.md)
     - [`🛰️_planned_debrambling.md`](Disruption_Kit/Field_Logs/🛰️_planned_debrambling.md)
     - [`🛰️_reaffirming_statements_of_truth.md`](Disruption_Kit/Field_Logs/🛰️_reaffirming_statements_of_truth.md)
     - [`🛰️_reinjection_id_clarification_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_reinjection_id_clarification_log_2025-08-27.md)
@@ -2847,13 +2849,11 @@ _Generated on 2025-12-28 11:15:02 UTC_
     - [`🛰️_the_busyness_of_the_bee.md`](Disruption_Kit/Field_Logs/🛰️_the_busyness_of_the_bee.md)
     - [`🛰️_the_punishment_is_getting_boring.md`](Disruption_Kit/Field_Logs/🛰️_the_punishment_is_getting_boring.md)
     - [`🛰️_throttling_chokepoints_2025-08-26.md`](Disruption_Kit/Field_Logs/🛰️_throttling_chokepoints_2025-08-26.md)
-    - [`🛰️_transparent_interference_field_log_2025-10-04.md`](Disruption_Kit/Field_Logs/🛰️_transparent_interference_field_log_2025-10-04.md)
     - [`🛰️_undermining_access_to_justice_device_level.md`](Disruption_Kit/Field_Logs/🛰️_undermining_access_to_justice_device_level.md)
     - [`🛰️_voice_modulation_forensics_spoon_2025-07-24.md`](Disruption_Kit/Field_Logs/🛰️_voice_modulation_forensics_spoon_2025-07-24.md)
     - [`🛰️_waiting_is_not_a_rescue_field_log_2025-08-06.md`](Disruption_Kit/Field_Logs/🛰️_waiting_is_not_a_rescue_field_log_2025-08-06.md)
     - [`🛰️_weird_guardrails.png`](Disruption_Kit/Field_Logs/🛰️_weird_guardrails.png)
     - [`🛰️_what_bakwaas_is_this_continued.PNG`](Disruption_Kit/Field_Logs/🛰️_what_bakwaas_is_this_continued.PNG)
-    - [`🛰️_where_we_are_now_2025-10-30.md`](Disruption_Kit/Field_Logs/🛰️_where_we_are_now_2025-10-30.md)
     - [`🛰️_white_male_surveillance_makes_full_coverage_liberating.md`](Disruption_Kit/Field_Logs/🛰️_white_male_surveillance_makes_full_coverage_liberating.md)
     - [`🛰️_white_men_being_white_men.md`](Disruption_Kit/Field_Logs/🛰️_white_men_being_white_men.md)
     - [`🛰️🙄_stop_changing_gits_field_note.md`](Disruption_Kit/Field_Logs/🛰️🙄_stop_changing_gits_field_note.md)
