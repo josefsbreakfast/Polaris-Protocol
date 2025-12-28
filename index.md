@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:46:40 UTC_
+_Generated on 2025-12-28 10:48:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1790,6 +1790,8 @@ _Generated on 2025-12-28 10:46:40 UTC_
       - [`🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md)
       - [`🛰️_frankenstack_interaction_2025-09-16.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_frankenstack_interaction_2025-09-16.md)
       - [`🛰️_from_escalation_to_play_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_from_escalation_to_play_2025-09-20.md)
+      - [`🛰️_glass_box_containment_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_glass_box_containment_field_log_2025-09-26.md)
+      - [`🛰️_hope_withholding_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_hope_withholding_field_log_2025-09-13.md)
       - [`🛰️_loneliness_as_a_system_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_loneliness_as_a_system_field_log_2025-09-13.md)
       - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
     - [**20251001_October_2025/**](Disruption_Kit/Field_Logs/20251001_October_2025/)
@@ -2765,10 +2767,8 @@ _Generated on 2025-12-28 10:46:40 UTC_
     - [`🛰️_found_source_orgone.md`](Disruption_Kit/Field_Logs/🛰️_found_source_orgone.md)
     - [`🛰️_genitals_again_surveillance_fails.md`](Disruption_Kit/Field_Logs/🛰️_genitals_again_surveillance_fails.md)
     - [`🛰️_ghost_session_compete_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_ghost_session_compete_log_2025-08-27.md)
-    - [`🛰️_glass_box_containment_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_glass_box_containment_field_log_2025-09-26.md)
     - [`🛰️_gps_lags.md`](Disruption_Kit/Field_Logs/🛰️_gps_lags.md)
     - [`🛰️_handlers_at_the_table.md`](Disruption_Kit/Field_Logs/🛰️_handlers_at_the_table.md)
-    - [`🛰️_hope_withholding_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_hope_withholding_field_log_2025-09-13.md)
     - [`🛰️_i_thought_christians_shut_up_on_sundays.md`](Disruption_Kit/Field_Logs/🛰️_i_thought_christians_shut_up_on_sundays.md)
     - [`🛰️_icc_tag_thread_containment.md`](Disruption_Kit/Field_Logs/🛰️_icc_tag_thread_containment.md)
     - [`🛰️_impersonation_by_proxy_field_log.md`](Disruption_Kit/Field_Logs/🛰️_impersonation_by_proxy_field_log.md)
