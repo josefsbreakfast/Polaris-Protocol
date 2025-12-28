@@ -1,5 +1,5 @@
 # 🛰️ DNS Failure for Explaining Myself Accurately — Field Log  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-21 | **Last updated:** 2025-12-28  
 *Dated log capturing the loss of an attempted self-record via DNS failure, and the wider sense of containment through infrastructure.*  
 
 ---
@@ -46,16 +46,13 @@
 
 ---
 
-## 📡 Cross-References  
-- [🛰️ Codename Table Loss — Field Log (2025-09-20)](../Field_Logs/🛰️_codename_table_loss_2025-09-20.md)  
-- [🛰️ Commit Interference Fork Anomaly Save (2025-09-09)](../Field_Logs/🛰️_commit_interference_fork_anomaly_save_2025-09-09.md)  
-
----
-
 ## 🏮 Footer  
-*DNS Failure for Explaining Myself Accurately — Field Log* is a living node of the Polaris Protocol.  
-It documents how a failed act of self-record (DNS error) became evidence of containment through infrastructure.  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-28_
