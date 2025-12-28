@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:25:32 UTC_
+_Generated on 2025-12-28 10:27:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1738,6 +1738,7 @@ _Generated on 2025-12-28 10:25:32 UTC_
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20250801_August_2025/**](Disruption_Kit/Field_Logs/20250801_August_2025/)
       - [`📍_10_day_tactical_forecast_2025-08-08_to_08-18.md`](Disruption_Kit/Field_Logs/20250801_August_2025/📍_10_day_tactical_forecast_2025-08-08_to_08-18.md)
+      - [`🚀_governance_is_great_2nd_spring_clean.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🚀_governance_is_great_2nd_spring_clean.md)
       - [`🛰️_purge_sequence_2025-08-11_to_2025-08-13.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)
       - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🧱_loft_packet_dump_theory_2025-08-06.md)
     - [**20250901_September_2025/**](Disruption_Kit/Field_Logs/20250901_September_2025/)
@@ -1828,6 +1829,10 @@ _Generated on 2025-12-28 10:25:32 UTC_
       - [`😒_x_rated_dementors.md`](Disruption_Kit/Field_Logs/20251001_October_2025/😒_x_rated_dementors.md)
       - [`😴_sleeps_and_occam.md`](Disruption_Kit/Field_Logs/20251001_October_2025/😴_sleeps_and_occam.md)
       - [`🙀_oh_my_word_she_mentioned_anarchism.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🙀_oh_my_word_she_mentioned_anarchism.md)
+      - [`🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md)
+      - [`🚀_alreet_lads.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🚀_alreet_lads.md)
+      - [`🚀_hmmm_why_are_we_twinned_actually.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🚀_hmmm_why_are_we_twinned_actually.md)
+      - [`🚀_strange_emails_and_disconnects.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🚀_strange_emails_and_disconnects.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
       - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
@@ -1916,6 +1921,7 @@ _Generated on 2025-12-28 10:25:32 UTC_
       - [`🕸️_shabbos.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🕸️_shabbos.md)
       - [`🙄_at_least_we_know_why_it_needs_mummy_domme_chat_just_to_function_now.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_at_least_we_know_why_it_needs_mummy_domme_chat_just_to_function_now.md)
       - [`🙄_please_can_someone_pick_up_their_walter_mitty.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_please_can_someone_pick_up_their_walter_mitty.md)
+      - [`🙄_this_just_feels_like_trying_to_initial_the_break.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_this_just_feels_like_trying_to_initial_the_break.md)
       - [`🙄_you_were_literally_told_in_2022.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_you_were_literally_told_in_2022.md)
       - [`🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md)
       - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md)
@@ -2685,12 +2691,6 @@ _Generated on 2025-12-28 10:25:32 UTC_
     - [`😐_stop_embarrassing_me_big_brother.PNG`](Disruption_Kit/Field_Logs/😐_stop_embarrassing_me_big_brother.PNG)
     - [`🙄_at_least_we_know_why_it_needs_mummy_domme_chat_just_to_function_now.png`](Disruption_Kit/Field_Logs/🙄_at_least_we_know_why_it_needs_mummy_domme_chat_just_to_function_now.png)
     - [`🙄_making_men_cry_was_literally_my_job_bro.PNG`](Disruption_Kit/Field_Logs/🙄_making_men_cry_was_literally_my_job_bro.PNG)
-    - [`🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md`](Disruption_Kit/Field_Logs/🙄_so_i_hear_you_have_thoughts_about_hostage_taking.md)
-    - [`🙄_this_just_feels_like_trying_to_initial_the_break.md`](Disruption_Kit/Field_Logs/🙄_this_just_feels_like_trying_to_initial_the_break.md)
-    - [`🚀_alreet_lads.md`](Disruption_Kit/Field_Logs/🚀_alreet_lads.md)
-    - [`🚀_governance_is_great_2nd_spring_clean.md`](Disruption_Kit/Field_Logs/🚀_governance_is_great_2nd_spring_clean.md)
-    - [`🚀_hmmm_why_are_we_twinned_actually.md`](Disruption_Kit/Field_Logs/🚀_hmmm_why_are_we_twinned_actually.md)
-    - [`🚀_strange_emails_and_disconnects.md`](Disruption_Kit/Field_Logs/🚀_strange_emails_and_disconnects.md)
     - [`🚀_to_the_moon_bullseye.md`](Disruption_Kit/Field_Logs/🚀_to_the_moon_bullseye.md)
     - [`🚩_400_pension_risks.md`](Disruption_Kit/Field_Logs/🚩_400_pension_risks.md)
     - [`🚩_tldr_i_want_out_now.md`](Disruption_Kit/Field_Logs/🚩_tldr_i_want_out_now.md)
