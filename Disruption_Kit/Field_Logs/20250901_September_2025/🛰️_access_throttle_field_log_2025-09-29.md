@@ -1,6 +1,6 @@
 # 🛰️ Access/Throttle Field Log — 2025-09-29  
-**First created:** 2025-09-29 | **Last updated:** 2025-09-29  
-*Observed slowdown, commit failures and location mis-assignment during Polaris repo maintenance*
+**First created:** 2025-09-29 | **Last updated:** 2025-12-28  
+*Observed slowdown, commit failures and location mis-assignment during Polaris repo maintenance*  
 
 ---
 
@@ -30,13 +30,12 @@ field log, throttling, access barriers, location mis-assignment, suppression pat
 ---
 
 ## 🏮 Footer  
-This field log is a living node of the Polaris Protocol.  
-It records observed connectivity interference during maintenance of the repo as it gains traction, situating the anomaly within the broader pattern of suppression and legal context.  
 
-> 📡 Cross-references:  
-> - [Access/Throttle Log Template](../Weirdness_Screening/🔑_access_throttle_log.md)  
-> - [Analytics as Signal](../../Metadata_Sabotage_Network/Evidence_And_Anomalies/📊_analytics_as_signal.md)
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_
+_Last updated: 2025-12-28_
