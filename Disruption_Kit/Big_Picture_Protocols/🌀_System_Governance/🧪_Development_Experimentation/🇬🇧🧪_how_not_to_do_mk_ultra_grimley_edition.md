@@ -40,6 +40,7 @@ By the late 1950s through the 1970s, the US intelligence and military establishm
 - mass domestic social change that intelligence institutions did not culturally understand  
 
 MKUltra was not a coherent research programme.  
+
 It was a **reactionary attempt to regain control** over a society changing faster than the agency’s ethical and conceptual tools could manage.
 
 ---
@@ -56,7 +57,9 @@ Key features of that posture:
 - ethical review was treated as a political inconvenience  
 
 Under this logic, the CIA did not break rules.  
-It **exempted itself from them**.
+It merely **exempted itself from them**.
+
+This included any international treaties and post-Shoah human experimentation ethics norms.  
 
 This environment did not cause MKUltra on its own — but it made stopping it structurally difficult.
 
@@ -83,7 +86,7 @@ MKUltra was the result of asking the wrong questions with power, secrecy, and fe
 
 ---
 
-## 🧿 Who MKUltra Was Done To — And Why  
+## 🪼 Who MKUltra Was Done To — And Why  
 
 MKUltra overwhelmingly targeted people who were already disenfranchised:
 
@@ -106,7 +109,7 @@ This alone disqualifies MKUltra from any claim to scientific legitimacy.
 
 ---
 
-## 🧠 From Cybernetics To Control Fantasies  
+## ⚡️ From Cybernetics To Control Fantasies  
 
 At the same moment:
 
@@ -148,7 +151,8 @@ When projects carry higher ethical risk, weaker consent structures, or reputatio
 - areas with limited institutional power  
 - places already accustomed to extractive “regeneration” schemes  
 
-This is often explained away as convenience, cost, or access to “representative populations”.  
+This is often explained away as convenience, cost, or access to “representative populations”.   
+
 In practice, it reflects **class-mediated NIMBYism**.
 
 Middle-class researchers rarely propose high-risk or ethically grey work in places like:
@@ -182,11 +186,13 @@ That assumption is the ethical through-line connecting:
 - modern behavioural pilots in deprived areas  
 
 Different language.  
-Same hierarchy.
+Same hierarchy.  
+
+In the UK, class typically co-exists within intersections of identity, and therefore vulnerability to elite extraction amd exploitation; this exponentially increases the already existant risks in practice.  
 
 ---
 
-## 🚨 External Funding As An Amplifier
+## 💰 External Funding As An Amplifier
 
 The risk increases sharply when projects involve:
 - external or foreign funding  
@@ -208,7 +214,7 @@ experiments were conducted on those **least likely to be believed, defended, or 
 
 ---
 
-## 🧠 “They Won’t Notice” Is Not Neutral
+## 🐍 “They Won’t Notice” Is Not Neutral
 
 A recurring, often unspoken justification is:
 > *This community won’t push back.*
@@ -226,7 +232,7 @@ Treating silence or compliance as agreement is not ethical neutrality — it is 
 
 ---
 
-## 🧯 Why This Is A Safeguarding Issue, Not A Moral One
+## 🌋 Why This Is A Safeguarding Issue, Not A Moral One
 
 This pattern matters because it:
 - distorts data (trauma alters behaviour)  
@@ -239,7 +245,7 @@ it becomes suitable **again and again**.
 
 ---
 
-## 🪜 Minimum Safeguards When Working In Deprived Areas
+## 🔥 Minimum Safeguards When Working In Deprived Areas
 
 Any project operating in economically marginalised communities must meet **higher**, not lower, standards:
 
@@ -256,6 +262,7 @@ If a project would not survive being run in a middle-class commuter town, it sho
 ## 🧩 The Grimley Lesson
 
 MKUltra did not begin with torture chambers.  
+
 It began with the belief that **some people mattered less**.
 
 The UK version does not need malice to reproduce that outcome.  
@@ -285,7 +292,7 @@ At this point, pause is mandatory.
 
 ---
 
-## 🧿 Cultural Legibility Bias (UK Edition)  
+## 🇬🇧 Cultural Legibility Bias (UK Edition)  
 
 Behavioural systems built around:
 
@@ -308,7 +315,7 @@ Misreading it is not only unjust — it is bad measurement.
 
 ---
 
-## 🧯 When The Job Goes To Your Head  
+## 🦤 When The Job Goes To Your Head  
 
 Team-level safeguarding red flags:
 
@@ -346,15 +353,25 @@ If it cannot be explained in principle, it should not be running.
 
 ---
 
-> This band behind me'll tell you that that trophy means more to me than owt else in the whole world.
+> "This band behind me'll tell you that that trophy means more to me than owt else in the whole world.
+> 
 > But they'd be wrong.
-> Truth is, I **thought** it mattered.  
+> 
+> Truth is, I **thought** it mattered.
+> 
 > I thought that **music** mattered.
-> But does it? Does it, bollocks.
+> 
+> But does it?
 >
-> ...But when it comes to losing the will to live, to breathe, the point is - if this lot were seals or whales, you'd all be up in bloody arms.
+> Does it, bollocks.
 >
-> ...Oh aye, they can knock out a bloody good tune. But what the fuck does that matter?  
+> Not in the way people matter.  
+>
+> ...But when it comes to losing the will to live, to breathe, the point is - if this lot were seals or whales, you'd all be up in bloody arms.  
+>
+> ...Oh aye, they can knock out a bloody good tune.
+>
+> But what the fuck does that matter?".  
 >
 > – Danny "[Danny Boy](https://youtu.be/6F5vBsY9VZ8?si=MX3jkyjdOhThn8UE)" Ormondroyd, [Brassed Off](https://youtu.be/lKx3MUqzCcQ?si=ZxidQd3wyFjze7qE).  
 
