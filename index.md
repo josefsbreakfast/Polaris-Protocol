@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:05:45 UTC_
+_Generated on 2025-12-28 10:06:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1801,6 +1801,7 @@ _Generated on 2025-12-28 10:05:45 UTC_
       - [`👻_new_ghost_to_be_vetoed.md`](Disruption_Kit/Field_Logs/20251001_October_2025/👻_new_ghost_to_be_vetoed.md)
       - [`👾_20251028_sexualised_hijack.md`](Disruption_Kit/Field_Logs/20251001_October_2025/👾_20251028_sexualised_hijack.md)
       - [`👾_coercing_silence.md`](Disruption_Kit/Field_Logs/20251001_October_2025/👾_coercing_silence.md)
+      - [`👾_legal_notariety.md`](Disruption_Kit/Field_Logs/20251001_October_2025/👾_legal_notariety.md)
       - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🖍_weirdest_yom_kippur.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
@@ -2636,7 +2637,6 @@ _Generated on 2025-12-28 10:05:45 UTC_
     - [`👾_coercing_silence_example_reupload.PNG`](Disruption_Kit/Field_Logs/👾_coercing_silence_example_reupload.PNG)
     - [`👾_end_point_exhaustion__cannot_hit_run_workflow_loop_1.PNG`](Disruption_Kit/Field_Logs/👾_end_point_exhaustion__cannot_hit_run_workflow_loop_1.PNG)
     - [`👾_end_point_exhaustion__cannot_hit_run_workflow_loop_2.PNG`](Disruption_Kit/Field_Logs/👾_end_point_exhaustion__cannot_hit_run_workflow_loop_2.PNG)
-    - [`👾_legal_notariety.md`](Disruption_Kit/Field_Logs/👾_legal_notariety.md)
     - [`👾_lo_the_field_upon_which_i_grow_my_fucks.PNG`](Disruption_Kit/Field_Logs/👾_lo_the_field_upon_which_i_grow_my_fucks.PNG)
     - [`👾_lo_the_field_upon_which_i_grow_my_fucks.png`](Disruption_Kit/Field_Logs/👾_lo_the_field_upon_which_i_grow_my_fucks.png)
     - [`👾_more_sexualised_content.PNG`](Disruption_Kit/Field_Logs/👾_more_sexualised_content.PNG)
