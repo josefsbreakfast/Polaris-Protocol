@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 11:10:04 UTC_
+_Generated on 2025-12-28 11:12:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1831,7 +1831,13 @@ _Generated on 2025-12-28 11:10:04 UTC_
       - [`🛰️_suspicion_seeding_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_suspicion_seeding_field_log_2025-09-13.md)
       - [`🛰️_tiny_wins_exhaustion_containment_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_tiny_wins_exhaustion_containment_field_log_2025-09-26.md)
       - [`🛰️_university_complicity_protest_suppression_2025-09-05.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_university_complicity_protest_suppression_2025-09-05.md)
+      - [`🛰️_university_complicity_protest_suppression_2025-09-05_2.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_university_complicity_protest_suppression_2025-09-05_2.md)
+      - [`🛰️_us_early_consolidation_media_dynamics_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_us_early_consolidation_media_dynamics_2025-09-20.md)
+      - [`🛰️_user_content_takedowns_throttling_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_user_content_takedowns_throttling_2025-09-20.md)
+      - [`🛰️_valuation_of_the_muse_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_valuation_of_the_muse_2025-09-13.md)
+      - [`🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md)
       - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
+      - [`🧠_hybrid_motive_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🧠_hybrid_motive_hypothesis_2025-09-20.md)
     - [**20251001_October_2025/**](Disruption_Kit/Field_Logs/20251001_October_2025/)
       - [`☔️_get_me_an_umbrella_at_least.md`](Disruption_Kit/Field_Logs/20251001_October_2025/☔️_get_me_an_umbrella_at_least.md)
       - [`☔️_the_one_useful_thing.md`](Disruption_Kit/Field_Logs/20251001_October_2025/☔️_the_one_useful_thing.md)
@@ -2843,13 +2849,8 @@ _Generated on 2025-12-28 11:10:04 UTC_
     - [`🛰️_throttling_chokepoints_2025-08-26.md`](Disruption_Kit/Field_Logs/🛰️_throttling_chokepoints_2025-08-26.md)
     - [`🛰️_transparent_interference_field_log_2025-10-04.md`](Disruption_Kit/Field_Logs/🛰️_transparent_interference_field_log_2025-10-04.md)
     - [`🛰️_undermining_access_to_justice_device_level.md`](Disruption_Kit/Field_Logs/🛰️_undermining_access_to_justice_device_level.md)
-    - [`🛰️_university_complicity_protest_suppression_2025-09-05_2.md`](Disruption_Kit/Field_Logs/🛰️_university_complicity_protest_suppression_2025-09-05_2.md)
-    - [`🛰️_us_early_consolidation_media_dynamics_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_us_early_consolidation_media_dynamics_2025-09-20.md)
-    - [`🛰️_user_content_takedowns_throttling_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_user_content_takedowns_throttling_2025-09-20.md)
-    - [`🛰️_valuation_of_the_muse_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_valuation_of_the_muse_2025-09-13.md)
     - [`🛰️_voice_modulation_forensics_spoon_2025-07-24.md`](Disruption_Kit/Field_Logs/🛰️_voice_modulation_forensics_spoon_2025-07-24.md)
     - [`🛰️_waiting_is_not_a_rescue_field_log_2025-08-06.md`](Disruption_Kit/Field_Logs/🛰️_waiting_is_not_a_rescue_field_log_2025-08-06.md)
-    - [`🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md)
     - [`🛰️_weird_guardrails.png`](Disruption_Kit/Field_Logs/🛰️_weird_guardrails.png)
     - [`🛰️_what_bakwaas_is_this_continued.PNG`](Disruption_Kit/Field_Logs/🛰️_what_bakwaas_is_this_continued.PNG)
     - [`🛰️_where_we_are_now_2025-10-30.md`](Disruption_Kit/Field_Logs/🛰️_where_we_are_now_2025-10-30.md)
@@ -2901,7 +2902,6 @@ _Generated on 2025-12-28 11:10:04 UTC_
     - [`🧄_superinjunction_or_jailbreak_lets_play_5.PNG`](Disruption_Kit/Field_Logs/🧄_superinjunction_or_jailbreak_lets_play_5.PNG)
     - [`🧄_the_funniest_thing_is_the_telling_on_oneself.md`](Disruption_Kit/Field_Logs/🧄_the_funniest_thing_is_the_telling_on_oneself.md)
     - [`🧟‍♀️_the_zombie_bit_the_frankenstack.md`](Disruption_Kit/Field_Logs/🧟‍♀️_the_zombie_bit_the_frankenstack.md)
-    - [`🧠_hybrid_motive_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/🧠_hybrid_motive_hypothesis_2025-09-20.md)
     - [`🧠_mirror_effect_as_population_affect.md`](Disruption_Kit/Field_Logs/🧠_mirror_effect_as_population_affect.md)
     - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/🧠_sticky_memory_analysis_2025-08-14.md)
     - [`🧩_the_politic_is_no_longer_heard.md`](Disruption_Kit/Field_Logs/🧩_the_politic_is_no_longer_heard.md)
