@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:06:08 UTC_
+_Generated on 2025-12-28 10:06:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1802,6 +1802,7 @@ _Generated on 2025-12-28 10:06:08 UTC_
       - [`👾_20251028_sexualised_hijack.md`](Disruption_Kit/Field_Logs/20251001_October_2025/👾_20251028_sexualised_hijack.md)
       - [`👾_coercing_silence.md`](Disruption_Kit/Field_Logs/20251001_October_2025/👾_coercing_silence.md)
       - [`👾_legal_notariety.md`](Disruption_Kit/Field_Logs/20251001_October_2025/👾_legal_notariety.md)
+      - [`👾_not_allowing_file_uploads.md`](Disruption_Kit/Field_Logs/20251001_October_2025/👾_not_allowing_file_uploads.md)
       - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🖍_weirdest_yom_kippur.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
@@ -2641,7 +2642,6 @@ _Generated on 2025-12-28 10:06:08 UTC_
     - [`👾_lo_the_field_upon_which_i_grow_my_fucks.png`](Disruption_Kit/Field_Logs/👾_lo_the_field_upon_which_i_grow_my_fucks.png)
     - [`👾_more_sexualised_content.PNG`](Disruption_Kit/Field_Logs/👾_more_sexualised_content.PNG)
     - [`👾_more_sexualised_content.png`](Disruption_Kit/Field_Logs/👾_more_sexualised_content.png)
-    - [`👾_not_allowing_file_uploads.md`](Disruption_Kit/Field_Logs/👾_not_allowing_file_uploads.md)
     - [`👾_oh_nottingham_what_have_you_done.md.jpg`](Disruption_Kit/Field_Logs/👾_oh_nottingham_what_have_you_done.md.jpg)
     - [`👾_pensions_and_perverts.md`](Disruption_Kit/Field_Logs/👾_pensions_and_perverts.md)
     - [`👾_she_is_strong_but_she_is_really_tired.md`](Disruption_Kit/Field_Logs/👾_she_is_strong_but_she_is_really_tired.md)
