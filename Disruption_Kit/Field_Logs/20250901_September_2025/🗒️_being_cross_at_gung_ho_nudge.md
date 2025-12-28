@@ -1,5 +1,5 @@
 # 🗒️ Field Note — Being Cross at Gung-Ho Nudge  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-20 | **Last updated:** 2025-12-28  
 *Captures survivor’s emotional response to the discovery that evidence-based cautions on behavioural insights were noted but ignored in UK politics (2014–2016)*  
 
 ---
@@ -34,13 +34,12 @@ Anger and frustration at the way British politics adopted nudging as a flagship 
 ---
 
 ## 🏮 Footer  
-*Being Cross at Gung-Ho Nudge* is a Field Log node of the Polaris Protocol.  
-It records the emotional register of discovering that sensible cautions on nudging were ignored in UK politics.  
 
-> 📡 Cross-references:  
-> - [🛑 Ignored Evidence Node](../Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/🛑_ignored_evidence_behavioural_insights_2014_2016.md)  
-> - [🧭 Nudge Origin → Sludge Node](../Big_Picture_Protocols/🧭_nudge_origin_to_sludge.md)  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-12-28_
