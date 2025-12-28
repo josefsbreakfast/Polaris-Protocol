@@ -1,6 +1,6 @@
-# 🛰️ Easter Egg Audit Protocol
-**First created:** 2025-09-24 | **Last updated:** 2025-09-24  
-*Joint observational audit protocol (passive observational mode). For lawful, auditable capture of publicly observable "nudges" and environmental stimuli. Not an instruction manual for provocation or targeting.*
+# 🛰️ Easter Egg Audit Protocol  
+**First created:** 2025-09-24 | **Last updated:** 2025-12-28  
+*Joint observational audit protocol (passive observational mode). For lawful, auditable capture of publicly observable "nudges" and environmental stimuli. Not an instruction manual for provocation or targeting.*  
 
 ## 1. Purpose
 This node documents a lawful, auditable procedure for a **joint observational audit** across multiple observers and jurisdictions. The goal is to record *publicly observable* stimuli and any downstream system behaviour (indexing, replies, visible processing) while preserving legal/ethical safeguards and chain-of-custody for evidence.
@@ -96,5 +96,16 @@ clarification after legal notice:
 
 This is literally what I’ve just described "
 
+---
 
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-28_
 
