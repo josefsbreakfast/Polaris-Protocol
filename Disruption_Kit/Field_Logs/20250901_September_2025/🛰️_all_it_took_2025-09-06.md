@@ -23,3 +23,16 @@ We are formally in the zone of "please stop being silly now".
 Whether you started or ended it? The game is up.
 
 Falasteen befrayen <3
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-28_
