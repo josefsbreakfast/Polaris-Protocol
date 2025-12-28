@@ -1,5 +1,5 @@
 # 🛰️ 2025-09-22 — Web of Resilience Duplicate Fix  
-**First created:** 2025-09-22 | **Last updated:** 2025-09-26  
+**First created:** 2025-09-22 | **Last updated:** 2025-12-28  
 *Incident log recording duplicate file confusion and restoration of 🕸️_web_of_resilience.md.*  
 
 ---
@@ -31,19 +31,17 @@ The node was then **restored from commit 370738a**.
 ## Lessons  
 - Always verify which path Git recognises as canonical before deleting intake versions.  
 - Intake duplicates should be **permanently excluded** via `.gitignore` or housekeeping rules.  
-- Such anomalies match wider patterns described in [🛰️ SEC-2025-09](./🛰️_sec_2025-09.md).  
+- Such anomalies match wider patterns described in [🛰️ SEC-2025-09] (`🛰️_sec_2025-09.md`).  
 
 ---
 
 ## 🏮 Footer  
 
-*2025-09-22 — Web of Resilience Duplicate Fix* is a living node of the Polaris Protocol.  
-It records a Git anomaly where duplicate deletion cascaded to the canonical file, requiring restoration.  
-
-> 📡 Cross-references:  
-> - [🕸️ Web of Resilience](../Big_Picture_Protocols/🌀_System_Governance/🕸️_web_of_resilience.md) — canonical file  
-> - [🛰️ SEC-2025-09](./🛰️_sec_2025-09.md) — token-switch / fork anomaly log  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-26_  
+_Last updated: 2025-12-28_
