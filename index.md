@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 11:14:38 UTC_
+_Generated on 2025-12-28 11:15:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1924,6 +1924,7 @@ _Generated on 2025-12-28 11:14:38 UTC_
       - [`🛰️_azure_entera_email_repeat.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_azure_entera_email_repeat.md)
       - [`🛰️_baseline.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_baseline.md)
       - [`🛰️_field_log_node_generation_stalling_2025-10-06.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_field_log_node_generation_stalling_2025-10-06.md)
+      - [`🛰️_foi_delay_pressure_sequence_2025-10-28.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_foi_delay_pressure_sequence_2025-10-28.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
       - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
@@ -2801,7 +2802,6 @@ _Generated on 2025-12-28 11:14:38 UTC_
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md`](Disruption_Kit/Field_Logs/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md)
     - [`🛰️_feed_oscillation_spends.md`](Disruption_Kit/Field_Logs/🛰️_feed_oscillation_spends.md)
     - [`🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md`](Disruption_Kit/Field_Logs/🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md)
-    - [`🛰️_foi_delay_pressure_sequence_2025-10-28.md`](Disruption_Kit/Field_Logs/🛰️_foi_delay_pressure_sequence_2025-10-28.md)
     - [`🛰️_foi_sar_silence_reliance.md`](Disruption_Kit/Field_Logs/🛰️_foi_sar_silence_reliance.md)
     - [`🛰️_forensic_mapping_ghost_vs_trauma_report.md`](Disruption_Kit/Field_Logs/🛰️_forensic_mapping_ghost_vs_trauma_report.md)
     - [`🛰️_forensic_thread_analysis_icc_2025-08-07.md`](Disruption_Kit/Field_Logs/🛰️_forensic_thread_analysis_icc_2025-08-07.md)
