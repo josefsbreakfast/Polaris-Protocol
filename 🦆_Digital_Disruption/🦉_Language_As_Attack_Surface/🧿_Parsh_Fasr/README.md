@@ -1,5 +1,5 @@
 # 🧿 Parsh–Fasr  
-**First created:** 2025-12-18 | **Last updated:** 2025-12-18  
+**First created:** 2025-12-18 | **Last updated:** 2025-12-28    
 *An analytic register for interpretive unpacking — explanation without instrumental persuasion.*
 
 ---
@@ -55,7 +55,11 @@ Suggested contents (create as needed):
 ---
 
 ## 🌌 Constellations  
-🦆 🦉 🧿 🧠 ⚖️ ✂️ — digital disruption, language as terrain, interpretive method, cognitive hygiene, governance/power, dismantling frames.
+🦆 🦉 🧿 🧠 ⚖️ ✂️ — digital disruption, language as terrain, interpretive method, cognitive hygiene, governance/power, dismantling frames.  
+
+*Further reading:*  
+- *The Merging of Two Oceans: Nine Talks on Sufism & Hasidism*, Pir Netanel Miles-Yépez. [Ayin Press](https://shop.ayinpress.org/products/the-merging-of-two-oceans-nine-talks-on-sufism-hasidism).  
+- *The Influence of Islamic Thought on Maimonides*, [The Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/maimonides-islamic/).  
 
 ## ✨ Stardust  
 interpretive unpacking, parshanut, tafsir, narrative decoding, framing, discourse analysis, record fidelity, propaganda resistance, diaspora literacy, power asymmetry
@@ -74,4 +78,4 @@ It contributes a **truth-constrained analytic register** for decoding narratives
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-18_
+_Last updated: 2025-12-28_
