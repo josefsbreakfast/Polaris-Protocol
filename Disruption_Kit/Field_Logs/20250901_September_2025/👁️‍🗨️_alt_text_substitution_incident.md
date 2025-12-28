@@ -1,6 +1,6 @@
 # 👁️‍🗨️ Alt-Text Substitution Incident — Hillside Photo  
-**First created:** 2025-09-22 | **Last updated:** 2025-09-22  
-*Forensic record of a narrative substitution during alt-text generation*
+**First created:** 2025-09-22 | **Last updated:** 2025-12-28  
+*Forensic record of a narrative substitution during alt-text generation*  
 
 ---
 
@@ -51,8 +51,8 @@ This log captures a substitution anomaly during alt-text generation.
 It documents how **prefab frames** can overwrite lived evidence with unrelated imagery.  
 
 > 📡 Cross-references:  
-> - [👾 Weirdness_Screening](../Disruption_Kit/👾_weirdness_screening.md) — interface-level anomalies  
-> - [🪆 Narrative_Interference](../Metadata_Sabotage_Network/🪆_narrative_interference.md) — semantic drifts and schema substitution  
+> - [👾 Weirdness_Screening] (`👾_weirdness_screening.md`) — interface-level anomalies  
+> - [🪆 Narrative_Interference] (`🪆_narrative_interference.md`) — semantic drifts and schema substitution  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
@@ -69,4 +69,15 @@ _Last updated: 2025-09-22_
 - **Recommended action:** Flag the entry under Narrative_Interference and Harassment_vs_Surveillance buckets; preserve both the original erroneous caption and this addendum for auditability.
 
 
-_Last updated: 2025-09-22 20:34:24 UTC'
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-28_
