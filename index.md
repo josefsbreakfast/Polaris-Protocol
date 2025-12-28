@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:00:29 UTC_
+_Generated on 2025-12-28 10:01:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1749,6 +1749,7 @@ _Generated on 2025-12-28 10:00:29 UTC_
       - [`🐓_have_you_noticed.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🐓_have_you_noticed.md)
       - [`🐓_no_gpt_for_the_annoyed_femme.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🐓_no_gpt_for_the_annoyed_femme.md)
       - [`🐪_new_question.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🐪_new_question.md)
+      - [`👁️‍🗨️_alt_text_substitution_incident.md`](Disruption_Kit/Field_Logs/20250901_September_2025/👁️‍🗨️_alt_text_substitution_incident.md)
       - [`📝_field_log_chatgpt_export_glitch_2025-09-16.md`](Disruption_Kit/Field_Logs/20250901_September_2025/📝_field_log_chatgpt_export_glitch_2025-09-16.md)
       - [`📝_hollow_node_export_glitch_2025-09-17.md`](Disruption_Kit/Field_Logs/20250901_September_2025/📝_hollow_node_export_glitch_2025-09-17.md)
       - [`🛰️_ai_interference_vs_baseline_generation.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_ai_interference_vs_baseline_generation.md)
@@ -2622,7 +2623,6 @@ _Generated on 2025-12-28 10:00:29 UTC_
     - [`🐣_fast_forward_1_day_despite_correct_entry.jpg`](Disruption_Kit/Field_Logs/🐣_fast_forward_1_day_despite_correct_entry.jpg)
     - [`🐦‍⬛_my_kidney_infections_solve_everything.PNG`](Disruption_Kit/Field_Logs/🐦‍⬛_my_kidney_infections_solve_everything.PNG)
     - [`🐦‍⬛_pretending_all_of_our_vulnerabilities_are_someone_else_and_hiding_behind_them_is_unfair_in_every_instance_of_data_trickery.PNG`](Disruption_Kit/Field_Logs/🐦‍⬛_pretending_all_of_our_vulnerabilities_are_someone_else_and_hiding_behind_them_is_unfair_in_every_instance_of_data_trickery.PNG)
-    - [`👁️‍🗨️_alt_text_substitution_incident.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_alt_text_substitution_incident.md)
     - [`👁️‍🗨️_i_am_aware_stop_doing_it.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_i_am_aware_stop_doing_it.md)
     - [`👒_weekend_workflows_and_grinding_ops.md`](Disruption_Kit/Field_Logs/👒_weekend_workflows_and_grinding_ops.md)
     - [`👻_new_ghost_to_be_vetoed.md`](Disruption_Kit/Field_Logs/👻_new_ghost_to_be_vetoed.md)
