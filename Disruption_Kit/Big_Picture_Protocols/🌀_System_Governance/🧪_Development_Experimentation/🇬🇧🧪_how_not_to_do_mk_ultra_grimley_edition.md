@@ -353,21 +353,28 @@ If it cannot be explained in principle, it should not be running.
 
 ---
 
-> "This band behind me'll tell you that that trophy means more to me than owt else in the whole world.
+> "This band behind me'll tell you that that trophy means more to me than owt else in the whole world.  
 > 
-> But they'd be wrong.
+> But they'd be wrong.  
 > 
-> Truth is, I **thought** it mattered.  
-> I thought that **music** mattered.
+> Truth is, I thought it mattered.  
+> I thought that music mattered.  
 > 
 > But does it?  
 > Does it, bollocks.  
 >
-> Not in the way people matter.  
+> Not compared to how people matter.  
 >
-> ...But when it comes to losing the will to live, to breathe, the point is - if this lot were seals or whales, you'd all be up in bloody arms.  
+> ...Because over the last ten years, this bloody government has systematically destroyed an entire industry.
+> Our industry.
+> 
+> And not just our industry - our communities, our homes, our lives.
+> 
+> All in the name of "progress". And for a few lousy bob.  
 >
-> ...Oh aye, they can knock out a bloody good tune.
+> ...if this lot were seals or whales, you'd all be up in bloody arms.  
+>
+> ...Oh aye, they can knock out a bloody good tune.  
 >
 > But what the fuck does that matter?"  
 >
