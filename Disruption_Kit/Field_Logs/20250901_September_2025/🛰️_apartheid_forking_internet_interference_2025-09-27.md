@@ -1,6 +1,6 @@
 # 🛰️ Apartheid Forking and Internet Interference  
-**First created:** 2025-09-28 | **Last updated:** 2025-09-28  
-*Log of 27 Sept 2025 — connection instability, decision-tree forking, and progressive friction during ChatGPT use.*
+**First created:** 2025-09-28 | **Last updated:** 2025-12-28  
+*Log of 27 Sept 2025 — connection instability, decision-tree forking, and progressive friction during ChatGPT use.*  
 
 ---
 
@@ -55,23 +55,13 @@
 
 ---
 
-## 📡 Cross-References  
-- [🛰️ Surveillance Forking Incident 2025-09-26](./🛰️_surveillance_forking_incident_2025-09-26.md) *(if exists)*  
-- [🍴 Fork Taxonomy](../Fork_Taxonomy/README.md) — behavioural split strategies  
-- [🌀 System_Governance](../Big_Picture_Protocols/🌀_System_Governance/) — loops and control logic  
-- [🧠 Franklin Stack Concept](../Big_Picture_Protocols/🧠_franklin_stack.md) *(if exists)*  
-
----
-
 ## 🏮 Footer  
 
-This field log is a living node of the Polaris Protocol.  
-It documents dated forensic evidence for survivor-led record-keeping and its direct economic and collateral impacts.  
-
-> 📡 Cross-references:  
-> - [Field Logs](../Field_Logs/) — dated forensic documentation  
-> - [Fork Taxonomy](../Fork_Taxonomy/) — containment fork typologies  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2025-12-28_
