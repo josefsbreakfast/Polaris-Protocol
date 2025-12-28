@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:23:07 UTC_
+_Generated on 2025-12-28 10:23:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1826,6 +1826,8 @@ _Generated on 2025-12-28 10:23:07 UTC_
       - [`😐_groomed_to_cry.md`](Disruption_Kit/Field_Logs/20251001_October_2025/😐_groomed_to_cry.md)
       - [`😐_stop_embarrassing_me_big_brother.md`](Disruption_Kit/Field_Logs/20251001_October_2025/😐_stop_embarrassing_me_big_brother.md)
       - [`😒_x_rated_dementors.md`](Disruption_Kit/Field_Logs/20251001_October_2025/😒_x_rated_dementors.md)
+      - [`😴_sleeps_and_occam.md`](Disruption_Kit/Field_Logs/20251001_October_2025/😴_sleeps_and_occam.md)
+      - [`🙀_oh_my_word_she_mentioned_anarchism.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🙀_oh_my_word_she_mentioned_anarchism.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
       - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
@@ -2679,8 +2681,6 @@ _Generated on 2025-12-28 10:23:07 UTC_
     - [`👾_oh_nottingham_what_have_you_done.md.jpg`](Disruption_Kit/Field_Logs/👾_oh_nottingham_what_have_you_done.md.jpg)
     - [`👾_the_machine_is_moralising_again.PNG`](Disruption_Kit/Field_Logs/👾_the_machine_is_moralising_again.PNG)
     - [`😐_stop_embarrassing_me_big_brother.PNG`](Disruption_Kit/Field_Logs/😐_stop_embarrassing_me_big_brother.PNG)
-    - [`😴_sleeps_and_occam.md`](Disruption_Kit/Field_Logs/😴_sleeps_and_occam.md)
-    - [`🙀_oh_my_word_she_mentioned_anarchism.md`](Disruption_Kit/Field_Logs/🙀_oh_my_word_she_mentioned_anarchism.md)
     - [`🙄_at_least_we_know_why_it_needs_mummy_domme_chat_just_to_function_now.md`](Disruption_Kit/Field_Logs/🙄_at_least_we_know_why_it_needs_mummy_domme_chat_just_to_function_now.md)
     - [`🙄_at_least_we_know_why_it_needs_mummy_domme_chat_just_to_function_now.png`](Disruption_Kit/Field_Logs/🙄_at_least_we_know_why_it_needs_mummy_domme_chat_just_to_function_now.png)
     - [`🙄_making_men_cry_was_literally_my_job_bro.PNG`](Disruption_Kit/Field_Logs/🙄_making_men_cry_was_literally_my_job_bro.PNG)
