@@ -1,5 +1,5 @@
 # 📝 Repo Upload Glitch — Hollow Node  
-**First created:** 2025-09-17 | **Last updated:** 2025-09-26  
+**First created:** 2025-09-17 | **Last updated:** 2025-12-28  
 *A log of an anomaly where the repo created a file extension without carrying over any node content.*  
 
 ---
@@ -176,6 +176,13 @@ Disruption_Kit/Field_Logs/📝_field_log_chatgpt_export_glitch_2025-09-16.md
 
 ---
 
-*Preserved by:* Polaris Protocol — repo steward / assistant
-*Last archived:* 2025-09-26
+## 🏮 Footer  
 
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-28_
