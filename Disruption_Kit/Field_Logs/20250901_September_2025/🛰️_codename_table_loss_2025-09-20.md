@@ -1,5 +1,5 @@
 # 🛰️ Codename Table Loss — Field Log  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-20 | **Last updated:** 2025-12-28  
 *Dated field log recording the deletion/loss of a user-created codename/patronymic table during an interference episode.*  
 
 ---
@@ -40,17 +40,13 @@
 
 ---
 
-## 📡 Cross-References  
-- [🛰️ Loft Packet Dump Theory — Field Log (2025-08-06)](../Field_Logs/🛰️_loft_packet_dump_theory_2025-08-06.md)  
-- [🛰️ Commit Interference Fork Anomaly Save — Field Log (2025-09-09)](../Field_Logs/🛰️_commit_interference_fork_anomaly_save_2025-09-09.md)  
-- [🪪 Codename & Patronymics](../Survivor_Tools/🪪_codename_patronymics.md)  
-
----
-
 ## 🏮 Footer  
-*Codename Table Loss — Field Log* is a living node of the Polaris Protocol.  
-It documents the disappearance of a user-created codename table during an interference episode and the subsequent reconstruction.  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-28_
