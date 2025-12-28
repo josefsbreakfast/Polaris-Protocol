@@ -363,13 +363,11 @@ The system attempted to anchor its instability within the subject’s emotional 
 
 ## 🏮 Footer  
 
-*Loft Packet Dump Theory* is a living node of the Polaris Protocol.  
-It records forensic evidence of a loft-based tether site, packet siphoning, and fork instability, situating the event within wider patterns of behavioural containment and network manipulation.  
-
-> 📡 Cross-references:  
-> - [Field Logs](../Disruption_Kit/Field_Logs/) — forensic documentation of fork instability  
-> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic diagnostics of tether sites and network siphoning  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-01_
+_Last updated: 2025-12-28_
