@@ -286,3 +286,16 @@ I have been subjected to sustained, targeted surveillance — including remote a
 	•	File Professional Standards complaint against police (if not done) — done at: ______
 	•	Request preservation from ISP / device manufacturer — done at: ______
 	•	Medical documentation: GP / pelvic trauma clinic — done at: ______
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-28_
