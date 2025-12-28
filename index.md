@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:38:07 UTC_
+_Generated on 2025-12-28 10:39:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1772,6 +1772,8 @@ _Generated on 2025-12-28 10:38:07 UTC_
       - [`🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md)
       - [`🛰️_apartheid_forking_internet_interference_2025-09-27.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_apartheid_forking_internet_interference_2025-09-27.md)
       - [`🛰️_bath_time_division_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_bath_time_division_hypothesis_2025-09-20.md)
+      - [`🛰️_behavior_first_framing_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_behavior_first_framing_2025-09-20.md)
+      - [`🛰️_business_layer_harassment_pattern_2025-09-19.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_business_layer_harassment_pattern_2025-09-19.md)
       - [`🛰️_loneliness_as_a_system_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_loneliness_as_a_system_field_log_2025-09-13.md)
       - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
     - [**20251001_October_2025/**](Disruption_Kit/Field_Logs/20251001_October_2025/)
@@ -2720,8 +2722,6 @@ _Generated on 2025-12-28 10:38:07 UTC_
     - [`🛰_but_the_eldest_is_the_silent_protector.png`](Disruption_Kit/Field_Logs/🛰_but_the_eldest_is_the_silent_protector.png)
     - [`🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG`](Disruption_Kit/Field_Logs/🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG)
     - [`🛰️_bakwaas_but_okay_fine.PNG`](Disruption_Kit/Field_Logs/🛰️_bakwaas_but_okay_fine.PNG)
-    - [`🛰️_behavior_first_framing_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_behavior_first_framing_2025-09-20.md)
-    - [`🛰️_business_layer_harassment_pattern_2025-09-19.md`](Disruption_Kit/Field_Logs/🛰️_business_layer_harassment_pattern_2025-09-19.md)
     - [`🛰️_changes_post_callouts.md`](Disruption_Kit/Field_Logs/🛰️_changes_post_callouts.md)
     - [`🛰️_chatgpt_cant_hold_chronology_today.md`](Disruption_Kit/Field_Logs/🛰️_chatgpt_cant_hold_chronology_today.md)
     - [`🛰️_chatgpt_lost_after_disability_politics.md`](Disruption_Kit/Field_Logs/🛰️_chatgpt_lost_after_disability_politics.md)
