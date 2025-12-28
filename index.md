@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:20:40 UTC_
+_Generated on 2025-12-28 10:21:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1755,6 +1755,8 @@ _Generated on 2025-12-28 10:20:40 UTC_
       - [`📝_field_log_repo_upload_glitch.md`](Disruption_Kit/Field_Logs/20250901_September_2025/📝_field_log_repo_upload_glitch.md)
       - [`📝_hollow_node_export_glitch_2025-09-17.md`](Disruption_Kit/Field_Logs/20250901_September_2025/📝_hollow_node_export_glitch_2025-09-17.md)
       - [`🔗_event_linkage_false_proof_pattern.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🔗_event_linkage_false_proof_pattern.md)
+      - [`🗒️_being_cross_at_gung_ho_nudge.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🗒️_being_cross_at_gung_ho_nudge.md)
+      - [`🗒️_conversation_drift_and_anchors.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🗒️_conversation_drift_and_anchors.md)
       - [`🛰️_ai_interference_vs_baseline_generation.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_ai_interference_vs_baseline_generation.md)
       - [`🛰️_loneliness_as_a_system_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_loneliness_as_a_system_field_log_2025-09-13.md)
       - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
@@ -2671,8 +2673,6 @@ _Generated on 2025-12-28 10:20:40 UTC_
     - [`👾_more_sexualised_content.png`](Disruption_Kit/Field_Logs/👾_more_sexualised_content.png)
     - [`👾_oh_nottingham_what_have_you_done.md.jpg`](Disruption_Kit/Field_Logs/👾_oh_nottingham_what_have_you_done.md.jpg)
     - [`👾_the_machine_is_moralising_again.PNG`](Disruption_Kit/Field_Logs/👾_the_machine_is_moralising_again.PNG)
-    - [`🗒️_being_cross_at_gung_ho_nudge.md`](Disruption_Kit/Field_Logs/🗒️_being_cross_at_gung_ho_nudge.md)
-    - [`🗒️_conversation_drift_and_anchors.md`](Disruption_Kit/Field_Logs/🗒️_conversation_drift_and_anchors.md)
     - [`😐.md`](Disruption_Kit/Field_Logs/😐.md)
     - [`😐_groomed_to_cry.md`](Disruption_Kit/Field_Logs/😐_groomed_to_cry.md)
     - [`😐_stop_embarrassing_me_big_brother.PNG`](Disruption_Kit/Field_Logs/😐_stop_embarrassing_me_big_brother.PNG)
