@@ -1,6 +1,6 @@
-# 🛰️ "Bath-Time Division" Hypothesis — Field Log (2025-09-20)
-**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
-*Field log recording the user's hypothesised operational model: a scalable ambient-audio + logistics-manipulation capability (colloquially: "bath-time division") used to time deliveries and intrusions for surveillance, harassment, or coercion.*
+# 🛰️ "Bath-Time Division" Hypothesis — Field Log (2025-09-20)  
+**First created:** 2025-09-20 | **Last updated:** 2025-12-28  
+*Field log recording the user's hypothesised operational model: a scalable ambient-audio + logistics-manipulation capability (colloquially: "bath-time division") used to time deliveries and intrusions for surveillance, harassment, or coercion.*  
 
 ---
 
@@ -63,3 +63,15 @@ _Last updated: 2025-09-27_
 2. Check recruitment/ads on forums and gig platforms for roles offering paid audio review, annotation, or verification.  
 3. Correlate temporal patterns of flagged audio events to cheap contractor shift patterns (time-of-day clusters).
 
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-28_
