@@ -1,5 +1,5 @@
 # 🔗 Event Linkage Node — Multi-Event False-Proof Pattern  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-20 | **Last updated:** 2025-12-28  
 *How temporally separated events can be stitched into a false “proof” via weak co-presence signals.*  
 
 ---
@@ -38,14 +38,12 @@
 ---
 
 ## 🏮 Footer  
-*Event Linkage Node — Multi-Event False-Proof Pattern* is a living field log of the Polaris Protocol.  
-It documents how weak anchors are stitched into fabricated “proof,” and names defensive measures for preserving truth.  
 
-> 📡 Cross-references:  
-> - [Field Logs](../Field_Logs/) — lived anomalies and patterns  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic analysis of containment logics  
-> - [Voice Fidelity Casefiles](../SCP-VoiceX_Casefiles/) — related misclassification and false narrative threads  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-28_
