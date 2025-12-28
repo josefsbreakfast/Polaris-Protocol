@@ -1,5 +1,5 @@
 # 🛰️ Behavior-First Framing — Field Log  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-20 | **Last updated:** 2025-12-28  
 *Field log documenting analytic reflection on prioritising behaviour/impact over ideological labels, and the insertion of this framing into the Patterns node.*  
 
 ---
@@ -37,14 +37,12 @@
 ---
 
 ## 🏮 Footer  
-*Behavior-First Framing — Field Log* is a living node of the Polaris Protocol.  
-It documents analytic reflection on reframing attribution towards behaviour and impact, recorded as part of the Field Logs constellation.  
 
-> 📡 Cross-references:  
-> - [💸 Russian Overlap Patterns](../Big_Picture_Protocols/💸_russian_overlap_patterns.md) — systemic interference mapping  
-> - [Field Logs](../Field_Logs/) — lived anomalies and analytic reflections  
-> - [Survivor Tools](../Survivor_Tools/) — operational countermeasures  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-28_
