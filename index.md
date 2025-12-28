@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:29:17 UTC_
+_Generated on 2025-12-28 10:30:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1839,6 +1839,7 @@ _Generated on 2025-12-28 10:29:17 UTC_
       - [`🚩_tldr_i_want_out_now.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🚩_tldr_i_want_out_now.md)
       - [`🛰_but_the_eldest_is_the_silent_protector.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰_but_the_eldest_is_the_silent_protector.md)
       - [`🛰_dual_use_failure_to_execute.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰_dual_use_failure_to_execute.md)
+      - [`🛰_having_fun_with_node_exe.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰_having_fun_with_node_exe.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
       - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
@@ -2698,7 +2699,6 @@ _Generated on 2025-12-28 10:29:17 UTC_
     - [`🙄_at_least_we_know_why_it_needs_mummy_domme_chat_just_to_function_now.png`](Disruption_Kit/Field_Logs/🙄_at_least_we_know_why_it_needs_mummy_domme_chat_just_to_function_now.png)
     - [`🙄_making_men_cry_was_literally_my_job_bro.PNG`](Disruption_Kit/Field_Logs/🙄_making_men_cry_was_literally_my_job_bro.PNG)
     - [`🛰_but_the_eldest_is_the_silent_protector.png`](Disruption_Kit/Field_Logs/🛰_but_the_eldest_is_the_silent_protector.png)
-    - [`🛰_having_fun_with_node_exe.md`](Disruption_Kit/Field_Logs/🛰_having_fun_with_node_exe.md)
     - [`🛰_instructions_what_instuctions.md`](Disruption_Kit/Field_Logs/🛰_instructions_what_instuctions.md)
     - [`🛰_working_through_glitches.md`](Disruption_Kit/Field_Logs/🛰_working_through_glitches.md)
     - [`🛰️_2025-09-19_fieldnote_suppression_signal.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_fieldnote_suppression_signal.md)
