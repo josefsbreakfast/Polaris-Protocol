@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:56:16 UTC_
+_Generated on 2025-12-28 10:57:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1804,6 +1804,7 @@ _Generated on 2025-12-28 10:56:16 UTC_
       - [`🛰️_network_instability_app_behaviour_2025-09-16.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_network_instability_app_behaviour_2025-09-16.md)
       - [`🛰️_network_instability_deliberate_forking_hypothesis_2025-09-16.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_network_instability_deliberate_forking_hypothesis_2025-09-16.md)
       - [`🛰️_not_caldicott_fans_2025-09-21.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_not_caldicott_fans_2025-09-21.md)
+      - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
       - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
     - [**20251001_October_2025/**](Disruption_Kit/Field_Logs/20251001_October_2025/)
       - [`☔️_get_me_an_umbrella_at_least.md`](Disruption_Kit/Field_Logs/20251001_October_2025/☔️_get_me_an_umbrella_at_least.md)
@@ -2797,7 +2798,6 @@ _Generated on 2025-12-28 10:56:16 UTC_
     - [`🛰️_more_blockages_and_disconnects.png`](Disruption_Kit/Field_Logs/🛰️_more_blockages_and_disconnects.png)
     - [`🛰️_mp_letters_are_in_if_cabinet_fancies_protecting_transfer.md`](Disruption_Kit/Field_Logs/🛰️_mp_letters_are_in_if_cabinet_fancies_protecting_transfer.md)
     - [`🛰️_no_sex_no_apartheid.md`](Disruption_Kit/Field_Logs/🛰️_no_sex_no_apartheid.md)
-    - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](Disruption_Kit/Field_Logs/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
     - [`🛰️_nuisance_building_micro_sabotage_field_log_2025-10-04.md`](Disruption_Kit/Field_Logs/🛰️_nuisance_building_micro_sabotage_field_log_2025-10-04.md)
     - [`🛰️_observed_memory_variations_2025-09-16.md`](Disruption_Kit/Field_Logs/🛰️_observed_memory_variations_2025-09-16.md)
     - [`🛰️_pathologising_sensitivity_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_pathologising_sensitivity_field_log_2025-09-13.md)
