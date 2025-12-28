@@ -1,13 +1,13 @@
 # 🛰️ Delays Are Violence Field Log — 2025-09-26  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
-*Field evidence of delay as administrative obstruction and psychological attrition.*
+**First created:** 2025-09-26 | **Last updated:** 2025-12-28  
+*Field evidence of delay as administrative obstruction and psychological attrition.*  
 
 ---
 
 ## 🧾 Summary  
 
 This log captures **instances of deliberate or patterned delay** — situations where time itself becomes the weapon.  
-It pairs with the analytic node [🐌 Delays Are Violence](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md), documenting how waiting and procedural deferral inflict measurable harm.  
+It pairs with the analytic node [🐌 Delays Are Violence] (`../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md`), documenting how waiting and procedural deferral inflict measurable harm.  
 
 ---
 
@@ -33,8 +33,8 @@ It pairs with the analytic node [🐌 Delays Are Violence](../Narrative_And_Psyc
 
 ## 🔍 Correlation Pointers  
 
-- Cross-reference with [🌒 Waiting Is Not a Rescue](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌒_waiting_is_not_a_rescue.md) — delay framed as care.  
-- Compare timestamps with [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) to identify synchronised slowdowns.  
+- Cross-reference with [🌒 Waiting Is Not a Rescue] (`../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌒_waiting_is_not_a_rescue.md`) — delay framed as care.  
+- Compare timestamps with [📉 Suppression Interference Logs] (`../../📉_Suppression_Interference_Logs.md`) to identify synchronised slowdowns.  
 - Track recurring justifications (“pending authorisation,” “awaiting approval”) across cases.  
 
 ---
@@ -54,16 +54,11 @@ delays, administrative violence, enforced waiting, humanitarian obstruction, med
 
 ## 🏮 Footer  
 
-*🛰️ Delays Are Violence Field Log — 2025-09-26* is a living node of the Polaris Protocol.  
-It records real-world manifestations of delay as violence — from humanitarian choke-points to bureaucratic time theft — paired with the analytic framework [🐌 Delays Are Violence](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md).  
-
-> 📡 Cross-references:  
-> - [🐌 Delays Are Violence](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md) — analytic framework  
-> - [🌒 Waiting Is Not a Rescue](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌒_waiting_is_not_a_rescue.md) — delay reframed as care  
-> - [🌑 Induced Futility](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md) — hopelessness as governance  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — technical overlap  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — logging standards  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-28_
