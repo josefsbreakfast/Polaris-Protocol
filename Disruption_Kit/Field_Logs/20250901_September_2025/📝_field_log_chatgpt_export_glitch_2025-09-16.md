@@ -1,5 +1,5 @@
 # 📝 Field Log — Export Glitch & Voice Suppression (2025-09-16)  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-26  
+**First created:** 2025-09-16 | **Last updated:** 2025-12-28  
 *Multiple nodes authored in ChatGPT and committed via GitHub web editor exported as hollow shells. Facts survived, but cultural, future-facing, and voice-rich content disappeared. Experienced by author as targeted suppression, extraction, and gagging of creative expression.*  
 
 ---
@@ -49,13 +49,12 @@
 ---
 
 ## 🏮 Footer  
-*Export Glitch & Voice Suppression (2025-09-16)* is a field log of the Polaris Protocol.  
-It documents both the technical loss and the lived harm of targeted erasure.  
 
-> 📡 Cross-references:  
-> - `🎛️_pocket_rules_survivor_voice_fidelity.md` — systemic targeting of survivor authorship  
-> - `🩻_Weirdness_Screening/📂_Data_Shifts/📝_repo_upload_glitch_hollow_node.md` — related anomaly pattern  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-26_  
+_Last updated: 2025-12-28_
