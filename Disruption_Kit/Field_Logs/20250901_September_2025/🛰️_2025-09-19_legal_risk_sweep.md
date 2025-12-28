@@ -1,5 +1,5 @@
 # 🛰️ 2025-09-19 — Legal Risk Sweep  
-**First created:** 2025-09-19 | **Last updated:** 2025-09-26  
+**First created:** 2025-09-19 | **Last updated:** 2025-12-28  
 *Field log recording elevated legal-risk outputs due to wording anomalies; mitigation included drafting a structured reporting template.*  
 
 ---
@@ -59,14 +59,11 @@ body:
 
 ## 🏮 Footer  
 
-*2025-09-19 — Legal Risk Sweep* is a living node of the Polaris Protocol.  
-It documents a risk window where outputs carried elevated legal exposure, and the mitigations created to manage it.  
-
-> 📡 Cross-references:  
-> - [🛰️ SEC-2025-09](./🛰️_sec_2025-09.md) — token-switch anomaly log  
-> - [🛰️ 2025-09-19 Sexualisation Sweep](./🛰️_2025-09-19_sexualisation_sweep.md) — parallel incident log  
-> - [🏮 Admin Kit](../../Polaris_Nest/🏮_Admin_Kit/) — meta guidance and templates  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-26_  
+_Last updated: 2025-12-28_
