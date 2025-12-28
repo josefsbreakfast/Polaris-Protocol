@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:27:19 UTC_
+_Generated on 2025-12-28 10:28:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1833,6 +1833,8 @@ _Generated on 2025-12-28 10:27:19 UTC_
       - [`🚀_alreet_lads.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🚀_alreet_lads.md)
       - [`🚀_hmmm_why_are_we_twinned_actually.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🚀_hmmm_why_are_we_twinned_actually.md)
       - [`🚀_strange_emails_and_disconnects.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🚀_strange_emails_and_disconnects.md)
+      - [`🚀_to_the_moon_bullseye.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🚀_to_the_moon_bullseye.md)
+      - [`🚩_400_pension_risks.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🚩_400_pension_risks.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
       - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
@@ -2691,8 +2693,6 @@ _Generated on 2025-12-28 10:27:19 UTC_
     - [`😐_stop_embarrassing_me_big_brother.PNG`](Disruption_Kit/Field_Logs/😐_stop_embarrassing_me_big_brother.PNG)
     - [`🙄_at_least_we_know_why_it_needs_mummy_domme_chat_just_to_function_now.png`](Disruption_Kit/Field_Logs/🙄_at_least_we_know_why_it_needs_mummy_domme_chat_just_to_function_now.png)
     - [`🙄_making_men_cry_was_literally_my_job_bro.PNG`](Disruption_Kit/Field_Logs/🙄_making_men_cry_was_literally_my_job_bro.PNG)
-    - [`🚀_to_the_moon_bullseye.md`](Disruption_Kit/Field_Logs/🚀_to_the_moon_bullseye.md)
-    - [`🚩_400_pension_risks.md`](Disruption_Kit/Field_Logs/🚩_400_pension_risks.md)
     - [`🚩_tldr_i_want_out_now.md`](Disruption_Kit/Field_Logs/🚩_tldr_i_want_out_now.md)
     - [`🛡️_clearance_impact.md`](Disruption_Kit/Field_Logs/🛡️_clearance_impact.md)
     - [`🛰_but_the_eldest_is_the_silent_protector.md`](Disruption_Kit/Field_Logs/🛰_but_the_eldest_is_the_silent_protector.md)
