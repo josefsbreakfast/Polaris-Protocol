@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 11:02:23 UTC_
+_Generated on 2025-12-28 11:03:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1818,6 +1818,8 @@ _Generated on 2025-12-28 11:02:23 UTC_
       - [`🛰️_retrospective_cross_references_throttling_2025-09-22.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_retrospective_cross_references_throttling_2025-09-22.md)
       - [`🛰️_safety_transparency_email_2025-09-05.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_safety_transparency_email_2025-09-05.md)
       - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
+      - [`🛰️_shabbat_exemption_inversion_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_shabbat_exemption_inversion_field_log_2025-09-26.md)
+      - [`🛰️_silent_witness_effect_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_silent_witness_effect_field_log_2025-09-13.md)
       - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
     - [**20251001_October_2025/**](Disruption_Kit/Field_Logs/20251001_October_2025/)
       - [`☔️_get_me_an_umbrella_at_least.md`](Disruption_Kit/Field_Logs/20251001_October_2025/☔️_get_me_an_umbrella_at_least.md)
@@ -2822,9 +2824,7 @@ _Generated on 2025-12-28 11:02:23 UTC_
     - [`🛰️_search_autocomplete_anomaly_content_substitution.md`](Disruption_Kit/Field_Logs/🛰️_search_autocomplete_anomaly_content_substitution.md)
     - [`🛰️_sec_2025-09.md`](Disruption_Kit/Field_Logs/🛰️_sec_2025-09.md)
     - [`🛰️_sensitive_to_🇺🇸_source_of_surveillance_considered.md`](Disruption_Kit/Field_Logs/🛰️_sensitive_to_🇺🇸_source_of_surveillance_considered.md)
-    - [`🛰️_shabbat_exemption_inversion_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_shabbat_exemption_inversion_field_log_2025-09-26.md)
     - [`🛰️_shit_shes_frowning_abort_abort.md.PNG`](Disruption_Kit/Field_Logs/🛰️_shit_shes_frowning_abort_abort.md.PNG)
-    - [`🛰️_silent_witness_effect_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_silent_witness_effect_field_log_2025-09-13.md)
     - [`🛰️_stasi_style_email_mirroring_concerns_2025-09-27.md`](Disruption_Kit/Field_Logs/🛰️_stasi_style_email_mirroring_concerns_2025-09-27.md)
     - [`🛰️_still_sec_snags.md`](Disruption_Kit/Field_Logs/🛰️_still_sec_snags.md)
     - [`🛰️_stop_witholding_c_and_v_children.md`](Disruption_Kit/Field_Logs/🛰️_stop_witholding_c_and_v_children.md)
