@@ -1,5 +1,5 @@
 # 🛰️ Exhaustion as Containment Field Log — 2025-09-13  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-13 | **Last updated:** 2025-12-28  
 *Field evidence of fatigue, sleep interference, and attention hijacking used to reduce capacity for resistance.*  
 
 ---
@@ -7,7 +7,7 @@
 ## 🧾 Summary  
 
 This log captures **episodes of enforced fatigue or disruption** — sleep interference, alert saturation, workflow overload, and cognitive depletion.  
-It operates as the evidentiary counterpart to the analytic node [😴 Exhaustion as Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_exhaustion_as_containment_2025-09-13.md).  
+It operates as the evidentiary counterpart to the analytic node [😴 Exhaustion as Containment] (`../Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_exhaustion_as_containment_2025-09-13.md`).  
 
 ---
 
@@ -33,9 +33,9 @@ It operates as the evidentiary counterpart to the analytic node [😴 Exhaustion
 
 ## 🔍 Correlation Pointers  
 
-- Compare timestamps with [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) for overlapping technical anomalies.  
-- Cross-reference [😴 Cognitive Load as Infrastructure](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md) — micro-distortions that produce macro-fatigue.  
-- Align with [🌑 Induced Futility](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md) — hopelessness emerging from exhaustion.  
+- Compare timestamps with [📉 Suppression Interference Logs] (`../../📉_Suppression_Interference_Logs.md`) for overlapping technical anomalies.  
+- Cross-reference [😴 Cognitive Load as Infrastructure] (`../Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md`) — micro-distortions that produce macro-fatigue.  
+- Align with [🌑 Induced Futility] (`../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md`) — hopelessness emerging from exhaustion.  
 
 ---
 
@@ -54,16 +54,11 @@ exhaustion containment, fatigue suppression, sleep interference, attention hijac
 
 ## 🏮 Footer  
 
-*🛰️ Exhaustion as Containment Field Log — 2025-09-13* is a living node of the Polaris Protocol.  
-It records real-world manifestations of fatigue and depletion used as psychological containment, paired with the analytic framework [😴 Exhaustion as Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_exhaustion_as_containment_2025-09-13.md).  
-
-> 📡 Cross-references:  
-> - [😴 Exhaustion as Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_exhaustion_as_containment_2025-09-13.md) — analytic framework  
-> - [😴 Cognitive Load as Infrastructure](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md) — fatigue through micro-distortion  
-> - [🌑 Induced Futility](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md) — hopelessness through depletion  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — concurrent network anomalies  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — log standards  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-28_
