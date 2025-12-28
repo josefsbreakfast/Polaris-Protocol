@@ -1,5 +1,5 @@
 # 🛰️ Content Injection & Surveillance Leak — Field Log  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-21 | **Last updated:** 2025-12-28  
 *Dated log documenting alleged content injection, tarot-reading leaks of co-accused views, FOIA refusals, and ongoing surveillance concerns.*  
 
 ---
@@ -71,17 +71,13 @@
 
 ---
 
-## 📡 Cross-References  
-- [🛰️ Interference and Throttling Context — Field Log (2025-09-22)](../Field_Logs/🛰️_interference_and_throttling_context_2025-09-22.md)  
-- [🛰️ Frankenstack Interaction — Field Log (2025-09-16)](../Field_Logs/🛰️_frankenstack_interaction_2025-09-16.md)  
-- [🛡️ Exploitability & Defensive Strategy](../Big_Picture_Protocols/🛡️_exploitability_and_defensive_strategy.md)  
-
----
-
 ## 🏮 Footer  
-*Content Injection & Surveillance Leak — Field Log* is a living node of the Polaris Protocol.  
-It records alleged algorithmic content injection and FOIA/privacy breaches around co-accused surveillance.  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-28_
