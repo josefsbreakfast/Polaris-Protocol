@@ -389,7 +389,17 @@ If it cannot be explained in principle, it should not be running.
 
 - *They Don't Give A Fuck About Us*, Tupac Shakur.
 - *Gresford (Miner's Hymn)*, Various.
-- *We Don’t know Impossible*, Propaganda.  
+- *We Don’t know Impossible*, Propaganda.
+
+*Further arts / reading:*  
+
+- *The Pitman Painters*
+- *Street-Fighting Years:
+An Autobiography of the Sixties*, Tariq Ali.
+- *The Story of Work: A New History of Humankind*, Jan Lucassen.
+- *The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World*, Antony Loewenstein.
+- *Who Do We Trust?
+Power, Solidarity, and Anti-Authoritarianism*, Dana Williams.
 
 ---
 
