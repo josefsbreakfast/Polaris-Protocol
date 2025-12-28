@@ -1,5 +1,5 @@
 # 📝 Repo Upload Glitch — Hollow Node  
-**First created:** 2025-09-17 | **Last updated:** 2025-09-17  
+**First created:** 2025-09-17 | **Last updated:** 2025-12-28  
 *A log of an anomaly where the repo created a file extension without carrying over any node content.*  
 
 ---
@@ -32,6 +32,12 @@ The event is minor in isolation, but its **cumulative weight** contributes to er
 ---
 
 ## 🏮 Footer  
-*Field logs exist to mark these moments. A hollow node is not neutral; even small anomalies are part of the pattern when they repeat.*  
 
-_Last updated: 2025-09-17_  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-28_
