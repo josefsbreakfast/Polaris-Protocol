@@ -156,7 +156,9 @@ Middle-class researchers rarely propose high-risk or ethically grey work in plac
 - elite universities’ immediate surroundings  
 - areas with strong legal, media, or civic scrutiny  
 
-Instead, risk is displaced.
+Instead, risk is displaced.  
+
+[It always is.](https://youtu.be/SZDlzlHpl1s?si=dHo_0zTWWJoR2Q2j)  
 
 ---
 
