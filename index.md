@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:14:37 UTC_
+_Generated on 2025-12-28 10:15:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1752,6 +1752,7 @@ _Generated on 2025-12-28 10:14:37 UTC_
       - [`🐪_new_question.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🐪_new_question.md)
       - [`👁️‍🗨️_alt_text_substitution_incident.md`](Disruption_Kit/Field_Logs/20250901_September_2025/👁️‍🗨️_alt_text_substitution_incident.md)
       - [`📝_field_log_chatgpt_export_glitch_2025-09-16.md`](Disruption_Kit/Field_Logs/20250901_September_2025/📝_field_log_chatgpt_export_glitch_2025-09-16.md)
+      - [`📝_field_log_repo_upload_glitch.md`](Disruption_Kit/Field_Logs/20250901_September_2025/📝_field_log_repo_upload_glitch.md)
       - [`📝_hollow_node_export_glitch_2025-09-17.md`](Disruption_Kit/Field_Logs/20250901_September_2025/📝_hollow_node_export_glitch_2025-09-17.md)
       - [`🛰️_ai_interference_vs_baseline_generation.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_ai_interference_vs_baseline_generation.md)
       - [`🛰️_loneliness_as_a_system_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_loneliness_as_a_system_field_log_2025-09-13.md)
@@ -1811,6 +1812,7 @@ _Generated on 2025-12-28 10:14:37 UTC_
       - [`📚_bookworm_bitches_unite.md`](Disruption_Kit/Field_Logs/20251001_October_2025/📚_bookworm_bitches_unite.md)
       - [`📚_processing_the_forbidden_information_point.md`](Disruption_Kit/Field_Logs/20251001_October_2025/📚_processing_the_forbidden_information_point.md)
       - [`📚_the_banned_book_first_reading.md`](Disruption_Kit/Field_Logs/20251001_October_2025/📚_the_banned_book_first_reading.md)
+      - [`📛_goyish_polizei.md`](Disruption_Kit/Field_Logs/20251001_October_2025/📛_goyish_polizei.md)
       - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🖍_weirdest_yom_kippur.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
@@ -1892,6 +1894,7 @@ _Generated on 2025-12-28 10:14:37 UTC_
       - [`💀_why_i_use_skeleton_drafting.md`](Disruption_Kit/Field_Logs/20251101_November_2025/💀_why_i_use_skeleton_drafting.md)
       - [`💌_how_i_was_that_confident_it_was_bs.md`](Disruption_Kit/Field_Logs/20251101_November_2025/💌_how_i_was_that_confident_it_was_bs.md)
       - [`📓_field_log_metadata_interference_and_defamation_campaign.md`](Disruption_Kit/Field_Logs/20251101_November_2025/📓_field_log_metadata_interference_and_defamation_campaign.md)
+      - [`📚_yes_it_is_a_hint_for_institutional_clarfication.md`](Disruption_Kit/Field_Logs/20251101_November_2025/📚_yes_it_is_a_hint_for_institutional_clarfication.md)
       - [`🙄_you_were_literally_told_in_2022.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_you_were_literally_told_in_2022.md)
       - [`🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md)
       - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md)
@@ -2658,9 +2661,6 @@ _Generated on 2025-12-28 10:14:37 UTC_
     - [`👾_more_sexualised_content.png`](Disruption_Kit/Field_Logs/👾_more_sexualised_content.png)
     - [`👾_oh_nottingham_what_have_you_done.md.jpg`](Disruption_Kit/Field_Logs/👾_oh_nottingham_what_have_you_done.md.jpg)
     - [`👾_the_machine_is_moralising_again.PNG`](Disruption_Kit/Field_Logs/👾_the_machine_is_moralising_again.PNG)
-    - [`📚_yes_it_is_a_hint_for_institutional_clarfication.md`](Disruption_Kit/Field_Logs/📚_yes_it_is_a_hint_for_institutional_clarfication.md)
-    - [`📛_goyish_polizei.md`](Disruption_Kit/Field_Logs/📛_goyish_polizei.md)
-    - [`📝_field_log_repo_upload_glitch.md`](Disruption_Kit/Field_Logs/📝_field_log_repo_upload_glitch.md)
     - [`📲_so_is_it_pegasus_or_not.md`](Disruption_Kit/Field_Logs/📲_so_is_it_pegasus_or_not.md)
     - [`🔗_event_linkage_false_proof_pattern.md`](Disruption_Kit/Field_Logs/🔗_event_linkage_false_proof_pattern.md)
     - [`🔥_data_mafia_debrief.md`](Disruption_Kit/Field_Logs/🔥_data_mafia_debrief.md)
