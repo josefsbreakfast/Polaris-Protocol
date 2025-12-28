@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:40:35 UTC_
+_Generated on 2025-12-28 10:40:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1779,6 +1779,7 @@ _Generated on 2025-12-28 10:40:35 UTC_
       - [`🛰️_commit_interference_fork_anomaly_save_2025-09-09.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_commit_interference_fork_anomaly_save_2025-09-09.md)
       - [`🛰️_confused_feed_field_log_2025-09-29.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_confused_feed_field_log_2025-09-29.md)
       - [`🛰️_content_injection_surveillance_leak_2025-09-21.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_content_injection_surveillance_leak_2025-09-21.md)
+      - [`🛰️_delay_script_field_log_2025-09-29.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_delay_script_field_log_2025-09-29.md)
       - [`🛰️_loneliness_as_a_system_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_loneliness_as_a_system_field_log_2025-09-13.md)
       - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
     - [**20251001_October_2025/**](Disruption_Kit/Field_Logs/20251001_October_2025/)
@@ -2734,7 +2735,6 @@ _Generated on 2025-12-28 10:40:35 UTC_
     - [`🛰️_constant_interference.md`](Disruption_Kit/Field_Logs/🛰️_constant_interference.md)
     - [`🛰️_coping_strategies.md`](Disruption_Kit/Field_Logs/🛰️_coping_strategies.md)
     - [`🛰️_crashes_all_downstream_use_related.md`](Disruption_Kit/Field_Logs/🛰️_crashes_all_downstream_use_related.md)
-    - [`🛰️_delay_script_field_log_2025-09-29.md`](Disruption_Kit/Field_Logs/🛰️_delay_script_field_log_2025-09-29.md)
     - [`🛰️_delays_are_violence_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/🛰️_delays_are_violence_field_log_2025-09-26.md)
     - [`🛰️_direct_interference_on_clarity_2025-09-11.md`](Disruption_Kit/Field_Logs/🛰️_direct_interference_on_clarity_2025-09-11.md)
     - [`🛰️_disconnects_and_dampening_down.md`](Disruption_Kit/Field_Logs/🛰️_disconnects_and_dampening_down.md)
