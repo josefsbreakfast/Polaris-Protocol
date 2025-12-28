@@ -1,13 +1,13 @@
 # 🛰️ Delay Script Field Log — 2025-09-29  
-**First created:** 2025-09-29 | **Last updated:** 2025-10-05  
-*Field evidence of procedural delay scripting around critical deadlines.*
+**First created:** 2025-09-29 | **Last updated:** 2025-12-28  
+*Field evidence of procedural delay scripting around critical deadlines.*  
 
 ---
 
 ## 🧾 Summary  
 
 This log captures direct observations, timestamps, and communication excerpts showing how **institutional delay** is deployed to suppress exposure.  
-It operates as the evidentiary counterpart to the analytic node [⏳ Delay Scripts Near Deadlines](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_delay_scripts_near_deadlines.md).  
+It operates as the evidentiary counterpart to the analytic node [⏳ Delay Scripts Near Deadlines] (`../Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_delay_scripts_near_deadlines.md`).  
 
 ---
 
@@ -32,8 +32,8 @@ It operates as the evidentiary counterpart to the analytic node [⏳ Delay Scrip
 
 ## 🔍 Correlation Pointers  
 
-- Cross-match timestamps with [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) for parallel UI or upload failures.  
-- Compare wording with [🧠 Psychological Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/) nodes for pattern replication.  
+- Cross-match timestamps with [📉 Suppression Interference Logs] (`../../📉_Suppression_Interference_Logs.md`) for parallel UI or upload failures.  
+- Compare wording with [🧠 Psychological Containment] (`../Narrative_And_Psych_Ops/🧠_Psychological_Containment/`) nodes for pattern replication.  
 - Flag any **deadline shifts** authorised after internal awareness of anomaly.
 
 ---
@@ -47,19 +47,15 @@ It operates as the evidentiary counterpart to the analytic node [⏳ Delay Scrip
 ## ✨ Stardust  
 
 deadline manipulation, procedural delay, institutional suppression, workflow scripts, psychological containment, metadata sabotage, forensic logging
-
 ---
 
 ## 🏮 Footer  
 
-*🛰️ Delay Script Field Log — 2025-09-29* is a living node of the Polaris Protocol.  
-It records real-world manifestations of administrative postponement used as suppression, paired with the analytic framework [⏳ Delay Scripts Near Deadlines](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_delay_scripts_near_deadlines.md).  
-
-> 📡 Cross-references:  
-> - [⏳ Delay Scripts Near Deadlines](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_delay_scripts_near_deadlines.md) — analytic framework  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — UI and commit-failure parallels  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — logging conventions  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-28_
