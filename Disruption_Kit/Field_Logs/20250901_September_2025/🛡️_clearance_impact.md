@@ -1,5 +1,5 @@
 # 🛡️ Clearance Impact Node — Effects on People with Security Clearance  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-29  
+**First created:** 2025-09-20 | **Last updated:** 2025-12-28  
 *How manufactured provenance affects personnel under vetting regimes*  
 
 ---
@@ -30,13 +30,12 @@
 ---
 
 ## 🏮 Footer  
-*Clearance Impact Node* is a living node of the Polaris Protocol.  
-It documents how manufactured provenance destabilises security clearance regimes and identifies defensive practices.  
 
-> 📡 Cross-references:  
-> - [🔗 Event Linkage Node — Multi-Event False-Proof Pattern](../Field_Logs/🔗_event_linkage_false_proof_pattern.md)  
-> - [📡 eSIM Risk Node](../Big_Picture_Protocols/📡_esim_risk_node.md)  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-29_  
+_Last updated: 2025-12-28_
