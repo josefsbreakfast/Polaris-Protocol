@@ -361,6 +361,125 @@ So they choose:
 
 ---
 
+## ⚖️ Transparency, Consent, and Foreseeable Failure
+
+For research-driven systems, experimental services, and data-mediated governance, this pattern is not merely suboptimal.
+
+It is **ethically invalid**.
+
+---
+
+## 🧠 Informed Consent Requires Information
+
+Informed consent is not a box-ticking exercise.
+It relies on three conditions:
+
+- awareness of risk,
+- understanding of impact,
+- and knowledge of change.
+
+When institutions:
+- expose people to harm through flawed data or systems,
+- allow individuals to adapt their lives accordingly,
+- then quietly correct the issue without disclosure,
+
+they retroactively invalidate the consent they continue to rely on.
+
+Consent without updated information is not consent.
+It is **procedural fiction**.
+
+---
+
+## 🧪 Why This Matters for Experimental and Research Services
+
+Many contemporary systems operate under:
+- pilot frameworks,
+- experimental exemptions,
+- research ethics approvals,
+- or “continuous improvement” models.
+
+These frameworks assume:
+- transparency,
+- feedback loops,
+- and participant awareness.
+
+Quiet fixes sever that loop.
+
+Participants are treated as:
+- test subjects when risk exists,
+- end-users when it is convenient,
+- but never as informed agents entitled to update their understanding.
+
+That is not ethical experimentation.
+It is extraction.
+
+---
+
+## ⚠️ The Legal Risk Is Not Hypothetical
+
+This is an obvious future litigation vector.
+
+A competent lawyer does not need to prove:
+- malice,
+- intent,
+- or conspiracy.
+
+They only need to show that:
+- risk existed,
+- behaviour changed in response,
+- improvements were made,
+- and affected parties were not informed.
+
+At that point, the question becomes:
+> “On what basis was consent still assumed?”
+
+Silence is not neutral in law.
+It is evidence.
+
+---
+
+## 🧩 Why This Will Scale Badly
+
+As data-driven systems expand:
+- across sectors,
+- across populations,
+- across borders,
+
+this pattern does not merely expose individual institutions.
+
+It threatens:
+- entire research paradigms,
+- experimental service models,
+- and industries built on implied consent.
+
+What looks like reputational risk today becomes **systemic liability** tomorrow.
+
+---
+
+## 🧭 The Sensible Option Institutions Avoid
+
+There is a straightforward alternative:
+
+- acknowledge fallibility,
+- disclose correction,
+- update risk communication,
+- restore informed consent.
+
+This does not require:
+- blame admission,
+- liability confession,
+- or moral theatre.
+
+It requires **ethical adulthood**.
+
+Failing to do this is not caution.
+It is short-term containment that guarantees long-term collapse.
+
+And that collapse will not be philosophical.
+It will be legal.  
+
+---
+
 ## 🌌 Constellations
 ⚖️ 🌀 👑 🧿 🧠 — governance ethics, ownership control, accountability risk, epistemic authority, institutional cognition.
 
