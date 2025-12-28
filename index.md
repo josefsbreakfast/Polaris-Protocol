@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:48:46 UTC_
+_Generated on 2025-12-28 10:49:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1792,6 +1792,7 @@ _Generated on 2025-12-28 10:48:46 UTC_
       - [`🛰️_from_escalation_to_play_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_from_escalation_to_play_2025-09-20.md)
       - [`🛰️_glass_box_containment_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_glass_box_containment_field_log_2025-09-26.md)
       - [`🛰️_hope_withholding_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_hope_withholding_field_log_2025-09-13.md)
+      - [`🛰️_induced_futility_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_induced_futility_field_log_2025-09-13.md)
       - [`🛰️_loneliness_as_a_system_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_loneliness_as_a_system_field_log_2025-09-13.md)
       - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
     - [**20251001_October_2025/**](Disruption_Kit/Field_Logs/20251001_October_2025/)
@@ -2772,7 +2773,6 @@ _Generated on 2025-12-28 10:48:46 UTC_
     - [`🛰️_i_thought_christians_shut_up_on_sundays.md`](Disruption_Kit/Field_Logs/🛰️_i_thought_christians_shut_up_on_sundays.md)
     - [`🛰️_icc_tag_thread_containment.md`](Disruption_Kit/Field_Logs/🛰️_icc_tag_thread_containment.md)
     - [`🛰️_impersonation_by_proxy_field_log.md`](Disruption_Kit/Field_Logs/🛰️_impersonation_by_proxy_field_log.md)
-    - [`🛰️_induced_futility_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_induced_futility_field_log_2025-09-13.md)
     - [`🛰️_intentionality_assessment_data_twinning_cluster_2016.md`](Disruption_Kit/Field_Logs/🛰️_intentionality_assessment_data_twinning_cluster_2016.md)
     - [`🛰️_interesting_cluster.md`](Disruption_Kit/Field_Logs/🛰️_interesting_cluster.md)
     - [`🛰️_interference_and_throttling_context_2025-09-22.md`](Disruption_Kit/Field_Logs/🛰️_interference_and_throttling_context_2025-09-22.md)
