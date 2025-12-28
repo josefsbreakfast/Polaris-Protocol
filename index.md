@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 09:19:13 UTC_
+_Generated on 2025-12-28 09:51:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1894,6 +1894,7 @@ _Generated on 2025-12-28 09:19:13 UTC_
       - [`20251223_americanized.md`](Disruption_Kit/Field_Logs/20251201_December_2025/20251223_americanized.md)
       - [`20251224_bit_obvious.md`](Disruption_Kit/Field_Logs/20251201_December_2025/20251224_bit_obvious.md)
       - [`20251226.md`](Disruption_Kit/Field_Logs/20251201_December_2025/20251226.md)
+      - [`20251227.md`](Disruption_Kit/Field_Logs/20251201_December_2025/20251227.md)
       - [`20251228.md`](Disruption_Kit/Field_Logs/20251201_December_2025/20251228.md)
       - [`IMG_0184.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_0184.png)
       - [`IMG_0737.png`](Disruption_Kit/Field_Logs/20251201_December_2025/IMG_0737.png)
@@ -3928,7 +3929,6 @@ _Generated on 2025-12-28 09:19:13 UTC_
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
-    - [`20251227.md`](Polaris_Nest/Git_Intake_Drawer/20251227.md)
     - [`OnlineDisinfoCampaign_HUNTING_README.md`](Polaris_Nest/Git_Intake_Drawer/OnlineDisinfoCampaign_HUNTING_README.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`ZDC_README.md`](Polaris_Nest/Git_Intake_Drawer/ZDC_README.md)
