@@ -1,6 +1,6 @@
 # 🛰️ Personal Suppression Signal  
-**First created:** 2025-09-19 | **Last updated:** 2025-09-19  
-*Tracing how a fraudulent harassment claim and book-order trigger revealed targeted suppression and backfire effects*
+**First created:** 2025-09-19 | **Last updated:** 2025-12-28  
+*Tracing how a fraudulent harassment claim and book-order trigger revealed targeted suppression and backfire effects*  
 
 ---
 
@@ -54,13 +54,11 @@ Maintaining accountability in such instances is vital: it discourages further us
 
 ## 🏮 Footer  
 
-*Personal Suppression Signal* is a living node of the Polaris Protocol.  
-It documents how false allegations and identity interference can be leveraged as suppression insurance, and how targeted escalation may backfire into evidence and amplification.  
-
-> 📡 Cross-references:  
-> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — logs of suppression and interference  
-> - [Field Logs](../Field_Logs/) — chronological evidence tracking  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-19_
+_Last updated: 2025-12-28_
