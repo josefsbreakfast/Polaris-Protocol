@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:05:20 UTC_
+_Generated on 2025-12-28 10:05:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1875,6 +1875,7 @@ _Generated on 2025-12-28 10:05:20 UTC_
       - [`🐺_what_to_do.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🐺_what_to_do.md)
       - [`👒_weekend_workflows_and_grinding_ops.md`](Disruption_Kit/Field_Logs/20251101_November_2025/👒_weekend_workflows_and_grinding_ops.md)
       - [`👾_and_we_have_to_ask_why_this_is_such_a_common_algorithmic_motif.md`](Disruption_Kit/Field_Logs/20251101_November_2025/👾_and_we_have_to_ask_why_this_is_such_a_common_algorithmic_motif.md)
+      - [`👾_end_point_exhaustion__cannot_hit_run_workflow_loop.md`](Disruption_Kit/Field_Logs/20251101_November_2025/👾_end_point_exhaustion__cannot_hit_run_workflow_loop.md)
       - [`🙄_you_were_literally_told_in_2022.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_you_were_literally_told_in_2022.md)
       - [`🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md)
       - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md)
@@ -2633,7 +2634,6 @@ _Generated on 2025-12-28 10:05:20 UTC_
     - [`👾_broke_it_again.png`](Disruption_Kit/Field_Logs/👾_broke_it_again.png)
     - [`👾_coercing_silence_example.png`](Disruption_Kit/Field_Logs/👾_coercing_silence_example.png)
     - [`👾_coercing_silence_example_reupload.PNG`](Disruption_Kit/Field_Logs/👾_coercing_silence_example_reupload.PNG)
-    - [`👾_end_point_exhaustion__cannot_hit_run_workflow_loop.md`](Disruption_Kit/Field_Logs/👾_end_point_exhaustion__cannot_hit_run_workflow_loop.md)
     - [`👾_end_point_exhaustion__cannot_hit_run_workflow_loop_1.PNG`](Disruption_Kit/Field_Logs/👾_end_point_exhaustion__cannot_hit_run_workflow_loop_1.PNG)
     - [`👾_end_point_exhaustion__cannot_hit_run_workflow_loop_2.PNG`](Disruption_Kit/Field_Logs/👾_end_point_exhaustion__cannot_hit_run_workflow_loop_2.PNG)
     - [`👾_legal_notariety.md`](Disruption_Kit/Field_Logs/👾_legal_notariety.md)
