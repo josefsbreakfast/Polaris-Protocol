@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:01:59 UTC_
+_Generated on 2025-12-28 10:02:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1798,6 +1798,7 @@ _Generated on 2025-12-28 10:01:59 UTC_
       - [`🐦‍⬛_pretending_all_of_our_vulnerabilities_are_someone_else_and_hiding_behind_them_is_unfair_in_every_instance_of_data_trickery.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🐦‍⬛_pretending_all_of_our_vulnerabilities_are_someone_else_and_hiding_behind_them_is_unfair_in_every_instance_of_data_trickery.md)
       - [`👀_help_my_eyes.md`](Disruption_Kit/Field_Logs/20251001_October_2025/👀_help_my_eyes.md)
       - [`👁️‍🗨️_i_am_aware_stop_doing_it.md`](Disruption_Kit/Field_Logs/20251001_October_2025/👁️‍🗨️_i_am_aware_stop_doing_it.md)
+      - [`👻_new_ghost_to_be_vetoed.md`](Disruption_Kit/Field_Logs/20251001_October_2025/👻_new_ghost_to_be_vetoed.md)
       - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🖍_weirdest_yom_kippur.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
@@ -2625,7 +2626,6 @@ _Generated on 2025-12-28 10:01:59 UTC_
     - [`🐣_fast_forward_1_day_despite_correct_entry.jpg`](Disruption_Kit/Field_Logs/🐣_fast_forward_1_day_despite_correct_entry.jpg)
     - [`🐦‍⬛_my_kidney_infections_solve_everything.PNG`](Disruption_Kit/Field_Logs/🐦‍⬛_my_kidney_infections_solve_everything.PNG)
     - [`🐦‍⬛_pretending_all_of_our_vulnerabilities_are_someone_else_and_hiding_behind_them_is_unfair_in_every_instance_of_data_trickery.PNG`](Disruption_Kit/Field_Logs/🐦‍⬛_pretending_all_of_our_vulnerabilities_are_someone_else_and_hiding_behind_them_is_unfair_in_every_instance_of_data_trickery.PNG)
-    - [`👻_new_ghost_to_be_vetoed.md`](Disruption_Kit/Field_Logs/👻_new_ghost_to_be_vetoed.md)
     - [`👾_20251028_sexualised_hijack.md`](Disruption_Kit/Field_Logs/👾_20251028_sexualised_hijack.md)
     - [`👾_and_we_have_to_ask_why_this_is_such_a_common_algorithmic_motif.PNG`](Disruption_Kit/Field_Logs/👾_and_we_have_to_ask_why_this_is_such_a_common_algorithmic_motif.PNG)
     - [`👾_and_we_have_to_ask_why_this_is_such_a_common_algorithmic_motif.md`](Disruption_Kit/Field_Logs/👾_and_we_have_to_ask_why_this_is_such_a_common_algorithmic_motif.md)
