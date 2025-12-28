@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 11:05:56 UTC_
+_Generated on 2025-12-28 11:06:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1812,6 +1812,7 @@ _Generated on 2025-12-28 11:05:56 UTC_
       - [`🛰️_patterns_update_interference_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_patterns_update_interference_2025-09-20.md)
       - [`🛰️_patterns_update_user_observations_context_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_patterns_update_user_observations_context_2025-09-20.md)
       - [`🛰️_persistent_discrediting_force_field_log_2025-09-15.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_persistent_discrediting_force_field_log_2025-09-15.md)
+      - [`🛰️_precursors_summary_2025-09-19.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_precursors_summary_2025-09-19.md)
       - [`🛰️_proximity_to_experiments_st_georges_2016_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_proximity_to_experiments_st_georges_2016_2025-09-20.md)
       - [`🛰️_recognition_without_resolution_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_recognition_without_resolution_field_log_2025-09-13.md)
       - [`🛰️_repressed_obsessions_in_surveillance_referencing_2025-09-21.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_repressed_obsessions_in_surveillance_referencing_2025-09-21.md)
@@ -2817,7 +2818,6 @@ _Generated on 2025-12-28 11:05:56 UTC_
     - [`🛰️_no_sex_no_apartheid.md`](Disruption_Kit/Field_Logs/🛰️_no_sex_no_apartheid.md)
     - [`🛰️_nuisance_building_micro_sabotage_field_log_2025-10-04.md`](Disruption_Kit/Field_Logs/🛰️_nuisance_building_micro_sabotage_field_log_2025-10-04.md)
     - [`🛰️_planned_debrambling.md`](Disruption_Kit/Field_Logs/🛰️_planned_debrambling.md)
-    - [`🛰️_precursors_summary_2025-09-19.md`](Disruption_Kit/Field_Logs/🛰️_precursors_summary_2025-09-19.md)
     - [`🛰️_reaffirming_statements_of_truth.md`](Disruption_Kit/Field_Logs/🛰️_reaffirming_statements_of_truth.md)
     - [`🛰️_reinjection_id_clarification_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_reinjection_id_clarification_log_2025-08-27.md)
     - [`🛰️_repeated_disconnections_24hrs.md`](Disruption_Kit/Field_Logs/🛰️_repeated_disconnections_24hrs.md)
