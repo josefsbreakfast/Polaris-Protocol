@@ -1,5 +1,5 @@
 # 🛰️ FLS Hard Today — Field Log  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-16 | **Last updated:** 2025-12-28  
 *Dated log capturing difficulty in even recording short field logs due to network instability or interference.*  
 
 ---
@@ -33,16 +33,13 @@
 
 ---
 
-## 📡 Cross-References  
-- [🛰️ DNS Failure for Explaining Myself Accurately — Field Log (2025-09-21)](../Field_Logs/🛰️_dns_failure_explaining_myself_accurately_2025-09-21.md)  
-- [🛰️ Codename Table Loss — Field Log (2025-09-20)](../Field_Logs/🛰️_codename_table_loss_2025-09-20.md)  
-
----
-
 ## 🏮 Footer  
-*FLS Hard Today — Field Log* is a living node of the Polaris Protocol.  
-It documents difficulty in even creating short records, treating minor anomalies as part of systemic containment.  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-28_
