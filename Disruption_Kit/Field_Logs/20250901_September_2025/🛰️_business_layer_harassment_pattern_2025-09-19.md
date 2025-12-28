@@ -1,5 +1,5 @@
 # 🛰️ Business-Layer Harassment Pattern — Field Log  
-**First created:** 2025-09-19 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-19 | **Last updated:** 2025-12-28  
 *Tracking second-week interference cycle echoing August 2025 attacks.*  
 
 ---
@@ -55,17 +55,13 @@ The author recognises:
 
 ---
 
-## 📡 Cross-References  
-- [Field Logs](../Disruption_Kit/Field_Logs/) — dated forensic records  
-- [Git Intake Drawer](../Polaris_Nest/Git_Intake_Drawer/) — intake holding area for tampered material  
-- [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic diagnostics  
-
----
-
 ## 🏮 Footer  
-*Business-Layer Harassment Pattern — Field Log* is a living node of the Polaris Protocol.  
-It documents the September 2025 interference cycle, links it to August 2025 precedents, and situates survivor testimony within civic rights and systemic suppression.  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-28_
