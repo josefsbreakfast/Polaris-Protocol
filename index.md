@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:30:25 UTC_
+_Generated on 2025-12-28 10:32:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1760,6 +1760,11 @@ _Generated on 2025-12-28 10:30:25 UTC_
       - [`🗒️_conversation_drift_and_anchors.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🗒️_conversation_drift_and_anchors.md)
       - [`😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md`](Disruption_Kit/Field_Logs/20250901_September_2025/😔_they_wont_leave_a_single_part_of_my_body_or_my_life_alone.md)
       - [`🛡️_clearance_impact.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛡️_clearance_impact.md)
+      - [`🛰️_2025-09-19_fieldnote_suppression_signal.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_2025-09-19_fieldnote_suppression_signal.md)
+      - [`🛰️_2025-09-19_legal_risk_sweep.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_2025-09-19_legal_risk_sweep.md)
+      - [`🛰️_2025-09-19_security_signal_sweep.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_2025-09-19_security_signal_sweep.md)
+      - [`🛰️_2025-09-22_web_of_resilience_duplicate_fix.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_2025-09-22_web_of_resilience_duplicate_fix.md)
+      - [`🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)
       - [`🛰️_ai_interference_vs_baseline_generation.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_ai_interference_vs_baseline_generation.md)
       - [`🛰️_loneliness_as_a_system_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_loneliness_as_a_system_field_log_2025-09-13.md)
       - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
@@ -1840,6 +1845,9 @@ _Generated on 2025-12-28 10:30:25 UTC_
       - [`🛰_but_the_eldest_is_the_silent_protector.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰_but_the_eldest_is_the_silent_protector.md)
       - [`🛰_dual_use_failure_to_execute.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰_dual_use_failure_to_execute.md)
       - [`🛰_having_fun_with_node_exe.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰_having_fun_with_node_exe.md)
+      - [`🛰_instructions_what_instuctions.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰_instructions_what_instuctions.md)
+      - [`🛰_working_through_glitches.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰_working_through_glitches.md)
+      - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
       - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
@@ -2699,14 +2707,6 @@ _Generated on 2025-12-28 10:30:25 UTC_
     - [`🙄_at_least_we_know_why_it_needs_mummy_domme_chat_just_to_function_now.png`](Disruption_Kit/Field_Logs/🙄_at_least_we_know_why_it_needs_mummy_domme_chat_just_to_function_now.png)
     - [`🙄_making_men_cry_was_literally_my_job_bro.PNG`](Disruption_Kit/Field_Logs/🙄_making_men_cry_was_literally_my_job_bro.PNG)
     - [`🛰_but_the_eldest_is_the_silent_protector.png`](Disruption_Kit/Field_Logs/🛰_but_the_eldest_is_the_silent_protector.png)
-    - [`🛰_instructions_what_instuctions.md`](Disruption_Kit/Field_Logs/🛰_instructions_what_instuctions.md)
-    - [`🛰_working_through_glitches.md`](Disruption_Kit/Field_Logs/🛰_working_through_glitches.md)
-    - [`🛰️_2025-09-19_fieldnote_suppression_signal.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_fieldnote_suppression_signal.md)
-    - [`🛰️_2025-09-19_legal_risk_sweep.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_legal_risk_sweep.md)
-    - [`🛰️_2025-09-19_security_signal_sweep.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-19_security_signal_sweep.md)
-    - [`🛰️_2025-09-22_web_of_resilience_duplicate_fix.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-22_web_of_resilience_duplicate_fix.md)
-    - [`🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md`](Disruption_Kit/Field_Logs/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)
-    - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Disruption_Kit/Field_Logs/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
     - [`🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG`](Disruption_Kit/Field_Logs/🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG)
     - [`🛰️_access_throttle_field_log_2025-09-29.md`](Disruption_Kit/Field_Logs/🛰️_access_throttle_field_log_2025-09-29.md)
     - [`🛰️_algorithmic_foil_recycling_2025-10-03.md`](Disruption_Kit/Field_Logs/🛰️_algorithmic_foil_recycling_2025-10-03.md)
