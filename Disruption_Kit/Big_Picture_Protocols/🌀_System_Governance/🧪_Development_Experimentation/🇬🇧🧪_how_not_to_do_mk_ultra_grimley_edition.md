@@ -368,7 +368,7 @@ If it cannot be explained in principle, it should not be running.
 > ...Because over the last ten years, this bloody government has systematically destroyed an entire industry.
 > Our industry.
 > 
-> And not just our industry - our communities, our homes, our lives.
+> And not just our industry: our communities, our homes, our lives.
 > 
 > All in the name of "progress". And for a few lousy bob.  
 >
@@ -383,7 +383,13 @@ If it cannot be explained in principle, it should not be running.
 ---
 
 ## 🌌 Constellations  
-🧠 🧪 🛰️ ⚖️ 🫀 — behavioural science, experimentation risk, counter-terror governance, ethics, human impact.
+🧠 🧪 🛰️ ⚖️ 🫀 — behavioural science, experimentation risk, counter-terror governance, ethics, human impact.  
+
+*Further listening:*  
+
+- *They Don't Give A Fuck About Us*, Tupac Shakur.
+- *Gresford (Miner's Hymn)*, Various.
+- *We Don’t know Impossible*, Propaganda.  
 
 ---
 
