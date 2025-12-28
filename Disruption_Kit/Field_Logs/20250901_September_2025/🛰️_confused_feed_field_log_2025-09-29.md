@@ -1,6 +1,6 @@
 # 🛰️ Confused Feed Field Log — 2025-09-29  
-**First created:** 2025-09-29 | **Last updated:** 2025-10-05  
-*Field evidence of incoherence, scrambled messaging, and algorithmic disorientation used as containment.*
+**First created:** 2025-09-29 | **Last updated:** 2025-12-28  
+*Field evidence of incoherence, scrambled messaging, and algorithmic disorientation used as containment.*  
 
 ---
 
@@ -8,7 +8,7 @@
 
 This log captures concrete examples of **engineered confusion**:  
 contradictory communications, broken search returns, and incoherent or looping responses from institutions, platforms, or automated systems.  
-It operates as the evidentiary counterpart to the analytic node [🌀 Confused Feed as Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_confused_feed_as_containment.md).  
+It operates as the evidentiary counterpart to the analytic node [🌀 Confused Feed as Containment] (`../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_confused_feed_as_containment.md`).  
 
 ---
 
@@ -34,8 +34,8 @@ It operates as the evidentiary counterpart to the analytic node [🌀 Confused F
 
 ## 🔍 Correlation Pointers  
 
-- Compare timestamps with [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) to track overlapping failures.  
-- Cross-link with [🧠 Psychological Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/) cluster for context.  
+- Compare timestamps with [📉 Suppression Interference Logs] (`../../📉_Suppression_Interference_Logs.md`) to track overlapping failures.  
+- Cross-link with [🧠 Psychological Containment] (`../Narrative_And_Psych_Ops/🧠_Psychological_Containment/`) cluster for context.  
 - Note instances where disorientation coincides with **VPN disruption** or **workflow suppression** events.
 
 ---
@@ -54,14 +54,11 @@ confusion loops, metadata sabotage, disinformation, scrambled feeds, platform in
 
 ## 🏮 Footer  
 
-*🛰️ Confused Feed Field Log — 2025-09-29* is a living node of the Polaris Protocol.  
-It records observed manifestations of confusion as containment — from contradictory replies to algorithmic disorientation — paired with the analytic framework [🌀 Confused Feed as Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_confused_feed_as_containment.md).  
-
-> 📡 Cross-references:  
-> - [🌀 Confused Feed as Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_confused_feed_as_containment.md) — analytic framework  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — parallel UI sabotage  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — log template  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-28_
