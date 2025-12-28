@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:16:52 UTC_
+_Generated on 2025-12-28 10:17:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1815,6 +1815,7 @@ _Generated on 2025-12-28 10:16:52 UTC_
       - [`📚_the_banned_book_first_reading.md`](Disruption_Kit/Field_Logs/20251001_October_2025/📚_the_banned_book_first_reading.md)
       - [`📛_goyish_polizei.md`](Disruption_Kit/Field_Logs/20251001_October_2025/📛_goyish_polizei.md)
       - [`📲_so_is_it_pegasus_or_not.md`](Disruption_Kit/Field_Logs/20251001_October_2025/📲_so_is_it_pegasus_or_not.md)
+      - [`🔥_data_mafia_debrief.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🔥_data_mafia_debrief.md)
       - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🖍_weirdest_yom_kippur.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
@@ -2663,7 +2664,6 @@ _Generated on 2025-12-28 10:16:52 UTC_
     - [`👾_more_sexualised_content.png`](Disruption_Kit/Field_Logs/👾_more_sexualised_content.png)
     - [`👾_oh_nottingham_what_have_you_done.md.jpg`](Disruption_Kit/Field_Logs/👾_oh_nottingham_what_have_you_done.md.jpg)
     - [`👾_the_machine_is_moralising_again.PNG`](Disruption_Kit/Field_Logs/👾_the_machine_is_moralising_again.PNG)
-    - [`🔥_data_mafia_debrief.md`](Disruption_Kit/Field_Logs/🔥_data_mafia_debrief.md)
     - [`🔺_re_the_golden_triangle_and_the_hidden_constitution_of_local_government.md`](Disruption_Kit/Field_Logs/🔺_re_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
     - [`🕯️_you_should_be_so_proud.md`](Disruption_Kit/Field_Logs/🕯️_you_should_be_so_proud.md)
     - [`🕳️_foi_containment_boundaries_nottingham_case.md`](Disruption_Kit/Field_Logs/🕳️_foi_containment_boundaries_nottingham_case.md)
