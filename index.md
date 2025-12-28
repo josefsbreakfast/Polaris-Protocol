@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 09:59:46 UTC_
+_Generated on 2025-12-28 10:00:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1794,6 +1794,7 @@ _Generated on 2025-12-28 09:59:46 UTC_
       - [`🐝_making_nodes_slowly_being_squished_to_pulp_by_my_own_body.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🐝_making_nodes_slowly_being_squished_to_pulp_by_my_own_body.md)
       - [`🐣_fast_forward_1_day.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🐣_fast_forward_1_day.md)
       - [`🐦‍⬛_my_kidney_infections_solve_everything.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🐦‍⬛_my_kidney_infections_solve_everything.md)
+      - [`🐦‍⬛_pretending_all_of_our_vulnerabilities_are_someone_else_and_hiding_behind_them_is_unfair_in_every_instance_of_data_trickery.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🐦‍⬛_pretending_all_of_our_vulnerabilities_are_someone_else_and_hiding_behind_them_is_unfair_in_every_instance_of_data_trickery.md)
       - [`👀_help_my_eyes.md`](Disruption_Kit/Field_Logs/20251001_October_2025/👀_help_my_eyes.md)
       - [`🖍_weirdest_yom_kippur.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🖍_weirdest_yom_kippur.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
@@ -2621,7 +2622,6 @@ _Generated on 2025-12-28 09:59:46 UTC_
     - [`🐣_fast_forward_1_day_despite_correct_entry.jpg`](Disruption_Kit/Field_Logs/🐣_fast_forward_1_day_despite_correct_entry.jpg)
     - [`🐦‍⬛_my_kidney_infections_solve_everything.PNG`](Disruption_Kit/Field_Logs/🐦‍⬛_my_kidney_infections_solve_everything.PNG)
     - [`🐦‍⬛_pretending_all_of_our_vulnerabilities_are_someone_else_and_hiding_behind_them_is_unfair_in_every_instance_of_data_trickery.PNG`](Disruption_Kit/Field_Logs/🐦‍⬛_pretending_all_of_our_vulnerabilities_are_someone_else_and_hiding_behind_them_is_unfair_in_every_instance_of_data_trickery.PNG)
-    - [`🐦‍⬛_pretending_all_of_our_vulnerabilities_are_someone_else_and_hiding_behind_them_is_unfair_in_every_instance_of_data_trickery.md`](Disruption_Kit/Field_Logs/🐦‍⬛_pretending_all_of_our_vulnerabilities_are_someone_else_and_hiding_behind_them_is_unfair_in_every_instance_of_data_trickery.md)
     - [`👁️‍🗨️_alt_text_substitution_incident.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_alt_text_substitution_incident.md)
     - [`👁️‍🗨️_i_am_aware_stop_doing_it.md`](Disruption_Kit/Field_Logs/👁️‍🗨️_i_am_aware_stop_doing_it.md)
     - [`👒_weekend_workflows_and_grinding_ops.md`](Disruption_Kit/Field_Logs/👒_weekend_workflows_and_grinding_ops.md)
