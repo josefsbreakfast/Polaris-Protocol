@@ -1,5 +1,5 @@
 # 🗒️ Field Note — Conversation Drift & Anchors  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-20 | **Last updated:** 2025-12-28  
 *Observing scope drift and meta-artifacts during an extended exchange.*  
 
 ---
@@ -44,14 +44,12 @@
 ---
 
 ## 🏮 Footer  
-*Conversation Drift & Anchors* is a Field Log node of the Polaris Protocol.  
-It documents scope drift, anchor capture, and meta-artifacts during an extended analytic exchange.  
 
-> 📡 Cross-references:  
-> - [🔗 Event Linkage Node — Multi-Event False-Proof Pattern](../Field_Logs/🔗_event_linkage_false_proof_pattern.md)  
-> - [📜 Registered Professions Node](../Big_Picture_Protocols/📜_registered_professions_node.md)  
-> - [🧬 Cloneproof](../Survivor_Tools/🧬_cloneproof.md)  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-28_
