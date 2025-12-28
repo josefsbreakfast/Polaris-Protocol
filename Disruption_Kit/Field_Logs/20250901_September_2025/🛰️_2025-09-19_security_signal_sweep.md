@@ -1,5 +1,5 @@
 # 🛰️ 2025-09-19 — Security Signal Sweep  
-**First created:** 2025-09-19 | **Last updated:** 2025-09-26  
+**First created:** 2025-09-19 | **Last updated:** 2025-12-28  
 *Field log recording anomalous outputs with potential API/exploit behaviour. Mitigation included drafting a structured Security Signal template.*  
 
 ---
@@ -55,14 +55,11 @@ body:
 
 ## 🏮 Footer  
 
-*2025-09-19 — Security Signal Sweep* is a living node of the Polaris Protocol.  
-It documents anomalous outputs and exploit-like behaviours, and the operational mitigations created to contain them.  
-
-> 📡 Cross-references:  
-> - [🛰️ 2025-09-19 Legal Risk Sweep](./🛰️_2025-09-19_legal_risk_sweep.md) — parallel incident log  
-> - [🛰️ 2025-09-19 Sexualisation Sweep](./🛰️_2025-09-19_sexualisation_sweep.md) — related risk window  
-> - [🏮 Admin Kit](../../Polaris_Nest/🏮_Admin_Kit/) — meta guidance and templates  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-26_  
+_Last updated: 2025-12-28_
