@@ -201,6 +201,20 @@ If it cannot be explained in principle, it should not be running.
 
 ---
 
+> This band behind me'll tell you that that trophy means more to me than owt else in the whole world.
+> But they'd be wrong.
+> Truth is, I **thought** it mattered.  
+> I thought that **music** mattered.
+> But does it? Does it, bollocks.
+>
+> ...But when it comes to losing the will to live, to breathe, the point is - if this lot were seals or whales, you'd all be up in bloody arms.
+>
+> ...Oh aye, they can knock out a bloody good tune. But what the fuck does that matter?  
+>
+> - Danny Boy, Brassed Off. 
+
+---
+
 ## 🌌 Constellations  
 🧠 🧪 🛰️ ⚖️ 🫀 — behavioural science, experimentation risk, counter-terror governance, ethics, human impact.
 
