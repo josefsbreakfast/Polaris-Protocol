@@ -1,6 +1,6 @@
 # 🌹 Moving Plan  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-27  
-*A field log noting the sheer labour of reorganising Polaris nodes and files.*
+**First created:** 2025-09-21 | **Last updated:** 2025-12-28  
+*A field log noting the sheer labour of reorganising Polaris nodes and files.*  
 
 ---
 
@@ -22,14 +22,11 @@ It was about confronting just how much has been made to carry.
 
 ## 🏮 Footer  
 
-*🌹 Moving Plan* is a living node of the Polaris Protocol.  
-It documents the moment when moving files became itself a testimony —  
-labour as evidence, and evidence as labour.  
-
-> 📡 Cross-references:  
-> - [🏮 Admin Kit](../🏮_Admin_Kit/) — house style and scaffolding rules  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — tactical forensic entries  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_
+_Last updated: 2025-12-28_
