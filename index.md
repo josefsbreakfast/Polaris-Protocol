@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:17:44 UTC_
+_Generated on 2025-12-28 10:18:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1899,6 +1899,7 @@ _Generated on 2025-12-28 10:17:44 UTC_
       - [`📓_field_log_metadata_interference_and_defamation_campaign.md`](Disruption_Kit/Field_Logs/20251101_November_2025/📓_field_log_metadata_interference_and_defamation_campaign.md)
       - [`📚_yes_it_is_a_hint_for_institutional_clarfication.md`](Disruption_Kit/Field_Logs/20251101_November_2025/📚_yes_it_is_a_hint_for_institutional_clarfication.md)
       - [`🔺_re_the_golden_triangle_and_the_hidden_constitution_of_local_government.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🔺_re_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
+      - [`🕯️_you_should_be_so_proud.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🕯️_you_should_be_so_proud.md)
       - [`🙄_you_were_literally_told_in_2022.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_you_were_literally_told_in_2022.md)
       - [`🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md)
       - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md)
@@ -2665,7 +2666,6 @@ _Generated on 2025-12-28 10:17:44 UTC_
     - [`👾_more_sexualised_content.png`](Disruption_Kit/Field_Logs/👾_more_sexualised_content.png)
     - [`👾_oh_nottingham_what_have_you_done.md.jpg`](Disruption_Kit/Field_Logs/👾_oh_nottingham_what_have_you_done.md.jpg)
     - [`👾_the_machine_is_moralising_again.PNG`](Disruption_Kit/Field_Logs/👾_the_machine_is_moralising_again.PNG)
-    - [`🕯️_you_should_be_so_proud.md`](Disruption_Kit/Field_Logs/🕯️_you_should_be_so_proud.md)
     - [`🕳️_foi_containment_boundaries_nottingham_case.md`](Disruption_Kit/Field_Logs/🕳️_foi_containment_boundaries_nottingham_case.md)
     - [`🕳️_i_aint_saying_the_gc_are_goldiggers.md`](Disruption_Kit/Field_Logs/🕳️_i_aint_saying_the_gc_are_goldiggers.md)
     - [`🕸️_rights_lab_ingenuity_centre_imh_bridging_map.md`](Disruption_Kit/Field_Logs/🕸️_rights_lab_ingenuity_centre_imh_bridging_map.md)
