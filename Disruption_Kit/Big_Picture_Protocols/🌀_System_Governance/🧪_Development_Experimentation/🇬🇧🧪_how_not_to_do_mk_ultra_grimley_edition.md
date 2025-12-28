@@ -1,6 +1,20 @@
 # 🇬🇧🧪 How Not To Do MKUltra: Grimley Edition  
 **First created:** 2025-12-28 | **Last updated:** 2025-12-28  
-*Safeguarding against small, secretive counter-terror projects reinventing human experimentation by accident.*
+*Safeguarding against small, secretive counter-terror projects reinventing human experimentation by accident.*  
+
+---
+
+> "What do you know?"
+>
+> "Well, I've been practicing Rodrigo's Concierto de Aranjuez."  
+>
+> "You what?"  
+>
+> "Orange Juice to you."  
+>
+> "Oh, aye."
+>
+> - [Brassed Off](https://youtu.be/9LnGM2Ee9lY?si=5jjxRPujLMklT_Q4), 1996.  
 
 ---
 
@@ -211,7 +225,7 @@ If it cannot be explained in principle, it should not be running.
 >
 > ...Oh aye, they can knock out a bloody good tune. But what the fuck does that matter?  
 >
-> - Danny Boy, Brassed Off. 
+> - Danny "[Danny Boy](https://youtu.be/6F5vBsY9VZ8?si=MX3jkyjdOhThn8UE)" Ormondroyd, [Brassed Off](https://youtu.be/lKx3MUqzCcQ?si=ZxidQd3wyFjze7qE).  
 
 ---
 
