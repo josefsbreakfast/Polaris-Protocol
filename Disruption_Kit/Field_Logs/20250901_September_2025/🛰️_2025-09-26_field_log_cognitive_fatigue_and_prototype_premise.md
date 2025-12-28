@@ -1,6 +1,6 @@
-# 🛰️ 2025-09-26 Field Log — Cognitive Fatigue and Prototype Premise
-**First created:** 2025-09-26 | **Last updated:** 2025-09-26  
-*Observational note of prolonged interference, cognitive fatigue, migraine onset and emerging “prototype” premise preceding 1 October whistleblower window.*
+# 🛰️ 2025-09-26 Field Log — Cognitive Fatigue and Prototype Premise  
+**First created:** 2025-09-26 | **Last updated:** 2025-12-28  
+*Observational note of prolonged interference, cognitive fatigue, migraine onset and emerging “prototype” premise preceding 1 October whistleblower window.*  
 
 ---
 
@@ -79,14 +79,11 @@ Today’s entry documents the cumulative effects and physical consequences.
 
 ## 🏮 Footer  
 
-This field log is a living node of the Polaris Protocol.  
-It documents first-person physiological and environmental effects of interference and containment tactics around whistleblower windows.
-
-> 📡 Cross-references:  
-> - [Field Logs](../Field_Logs/) — dated forensic documentation  
-> - [🐦‍🔥 Trauma_Psycology_Medical_Misuse](../Big_Picture_Protocols/🐦‍🔥_Trauma_Psycology_Medical_Misuse/) — medical coercion and psychological tactics  
-> - [🌀 System_Governance](../Big_Picture_Protocols/🌀_System_Governance/) — containment loops and cheap tricks  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-26_
+_Last updated: 2025-12-28_
