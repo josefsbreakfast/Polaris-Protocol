@@ -133,7 +133,136 @@ Risk arises when:
 - local pilots avoid scrutiny by being “small”  
 - behavioural inference is framed as prevention  
 
-Small, plausible, local projects — the “Grimley edition” — are often **less visible and less governed**, not more.
+Small, plausible, local projects — the “Grimley edition” — are often **less visible and less governed**, not more.  
+
+---
+
+## 🏭 Where This Usually Happens (And Why It Is Not An Accident)
+
+Ethically dubious research does not distribute itself evenly across the UK.
+
+When projects carry higher ethical risk, weaker consent structures, or reputational sensitivity, they are **disproportionately likely** to appear in:
+
+- post-industrial towns  
+- economically depressed regions  
+- areas with limited institutional power  
+- places already accustomed to extractive “regeneration” schemes  
+
+This is often explained away as convenience, cost, or access to “representative populations”.  
+In practice, it reflects **class-mediated NIMBYism**.
+
+Middle-class researchers rarely propose high-risk or ethically grey work in places like:
+- their own neighbourhoods  
+- elite universities’ immediate surroundings  
+- areas with strong legal, media, or civic scrutiny  
+
+Instead, risk is displaced.
+
+---
+
+## 🧿 Class Blindness As Research Infrastructure
+
+This displacement is not usually conscious cruelty.  
+It is **structural dehumanisation**.
+
+In UK class politics, the working class is routinely treated as:
+- resilient by default  
+- less harmed by disruption  
+- more “used to it”  
+- less entitled to refusal  
+
+This creates a quiet, dangerous assumption:
+> *If something goes wrong here, it will be tolerated.*
+
+That assumption is the ethical through-line connecting:
+- colonial experimentation  
+- MKUltra’s choice of subjects  
+- modern behavioural pilots in deprived areas  
+
+Different language.  
+Same hierarchy.
+
+---
+
+## 🚨 External Funding As An Amplifier
+
+The risk increases sharply when projects involve:
+- external or foreign funding  
+- security-linked grants  
+- prestige-driven timelines  
+- opaque partnership structures  
+
+In these cases, local populations become:
+- proof of delivery  
+- convenient testbeds  
+- means to an end  
+
+And crucially:
+- accountability flows upward  
+- risk flows downward  
+
+This mirrors MKUltra’s logic precisely:
+experiments were conducted on those **least likely to be believed, defended, or compensated**.
+
+---
+
+## 🧠 “They Won’t Notice” Is Not Neutral
+
+A recurring, often unspoken justification is:
+> *This community won’t push back.*
+
+That belief rests on:
+- economic precarity  
+- limited access to legal challenge  
+- mistrust of institutions (earned)  
+- exhaustion  
+
+None of these indicate consent.  
+They indicate **structural vulnerability**.
+
+Treating silence or compliance as agreement is not ethical neutrality — it is exploitation.
+
+---
+
+## 🧯 Why This Is A Safeguarding Issue, Not A Moral One
+
+This pattern matters because it:
+- distorts data (trauma alters behaviour)  
+- increases harm while hiding it  
+- reproduces inequality under the banner of research  
+- erodes public trust in science and governance  
+
+And because once a community is framed as “suitable” for risk,
+it becomes suitable **again and again**.
+
+---
+
+## 🪜 Minimum Safeguards When Working In Deprived Areas
+
+Any project operating in economically marginalised communities must meet **higher**, not lower, standards:
+
+- enhanced consent processes  
+- explicit right to refusal without penalty  
+- independent local representation in governance  
+- clear redress and compensation mechanisms  
+- published justification for site selection  
+
+If a project would not survive being run in a middle-class commuter town, it should not be run anywhere.
+
+---
+
+## 🧩 The Grimley Lesson
+
+MKUltra did not begin with torture chambers.  
+It began with the belief that **some people mattered less**.
+
+The UK version does not need malice to reproduce that outcome.  
+It only needs:
+- class blindness  
+- displaced risk  
+- and the belief that inconvenience equals consent.
+
+That is what this node exists to interrupt.
 
 ---
 
