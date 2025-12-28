@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:59:29 UTC_
+_Generated on 2025-12-28 11:00:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1812,6 +1812,8 @@ _Generated on 2025-12-28 10:59:29 UTC_
       - [`🛰️_patterns_update_user_observations_context_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_patterns_update_user_observations_context_2025-09-20.md)
       - [`🛰️_persistent_discrediting_force_field_log_2025-09-15.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_persistent_discrediting_force_field_log_2025-09-15.md)
       - [`🛰️_proximity_to_experiments_st_georges_2016_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_proximity_to_experiments_st_georges_2016_2025-09-20.md)
+      - [`🛰️_recognition_without_resolution_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_recognition_without_resolution_field_log_2025-09-13.md)
+      - [`🛰️_repressed_obsessions_in_surveillance_referencing_2025-09-21.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_repressed_obsessions_in_surveillance_referencing_2025-09-21.md)
       - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
     - [**20251001_October_2025/**](Disruption_Kit/Field_Logs/20251001_October_2025/)
       - [`☔️_get_me_an_umbrella_at_least.md`](Disruption_Kit/Field_Logs/20251001_October_2025/☔️_get_me_an_umbrella_at_least.md)
@@ -2809,10 +2811,8 @@ _Generated on 2025-12-28 10:59:29 UTC_
     - [`🛰️_planned_debrambling.md`](Disruption_Kit/Field_Logs/🛰️_planned_debrambling.md)
     - [`🛰️_precursors_summary_2025-09-19.md`](Disruption_Kit/Field_Logs/🛰️_precursors_summary_2025-09-19.md)
     - [`🛰️_reaffirming_statements_of_truth.md`](Disruption_Kit/Field_Logs/🛰️_reaffirming_statements_of_truth.md)
-    - [`🛰️_recognition_without_resolution_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/🛰️_recognition_without_resolution_field_log_2025-09-13.md)
     - [`🛰️_reinjection_id_clarification_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_reinjection_id_clarification_log_2025-08-27.md)
     - [`🛰️_repeated_disconnections_24hrs.md`](Disruption_Kit/Field_Logs/🛰️_repeated_disconnections_24hrs.md)
-    - [`🛰️_repressed_obsessions_in_surveillance_referencing_2025-09-21.md`](Disruption_Kit/Field_Logs/🛰️_repressed_obsessions_in_surveillance_referencing_2025-09-21.md)
     - [`🛰️_reputational_unit_12_saluting_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_reputational_unit_12_saluting_2025-08-13.md)
     - [`🛰️_rerouting_after_mark_commit_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_rerouting_after_mark_commit_2025-09-20.md)
     - [`🛰️_reset_state_analysis_2025-08-13.md`](Disruption_Kit/Field_Logs/🛰️_reset_state_analysis_2025-08-13.md)
