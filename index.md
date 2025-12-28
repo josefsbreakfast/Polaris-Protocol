@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-27 15:22:42 UTC_
+_Generated on 2025-12-28 04:10:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -585,6 +585,7 @@ _Generated on 2025-12-27 15:22:42 UTC_
         - [`⚖️_non_consent_psych_experimentation_gap.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/⚖️_non_consent_psych_experimentation_gap.md)
         - [`⚖️_the_teaching_hospital_loophole.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/⚖️_the_teaching_hospital_loophole.md)
         - [`✨_defeated_by_audit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/✨_defeated_by_audit.md)
+        - [`🇬🇧🧪_how_not_to_do_mk_ultra_grimley_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🇬🇧🧪_how_not_to_do_mk_ultra_grimley_edition.md)
         - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🌀_rune_the_dev.png)
         - [`🎭_the_recognisable_researcher.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🎭_the_recognisable_researcher.md)
         - [`🐕‍🦺_animal_assisted_deradicalisation_pilots.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🐕‍🦺_animal_assisted_deradicalisation_pilots.md)
