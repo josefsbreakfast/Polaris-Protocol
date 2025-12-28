@@ -78,3 +78,16 @@ This log documents the systematic removal, consolidation, and reclassification o
 Spring cleaning is not cosmetic. In Polaris, it is evidence handling.  
 Every file we keep, archive, or cross-link is part of the forensic chain.  
 Governance is not bureaucracy. Governance is survivorship.
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-28_
