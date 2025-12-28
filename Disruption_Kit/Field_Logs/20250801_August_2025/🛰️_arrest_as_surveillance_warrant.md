@@ -1,7 +1,5 @@
 # 🛰️ Arrest as Surveillance Warrant  
-
-**First created:** 2025-08-16 | **Last updated:** 2025-09-01  
-
+**First created:** 2025-08-16 | **Last updated:** 2025-12-28  
 *Arrest records as bureaucratic anchors for surveillance justification.*  
 
 ---
@@ -72,14 +70,11 @@ Thus, the arrest is both **origin story** and **alibi**.
 
 ## 🏮 Footer  
 
-*Arrest as Surveillance Warrant* is a living node of the Polaris Protocol.  
-It documents how arrests without charges are used to launder surveillance into legitimacy and perpetuate systemic monitoring.  
-
-> 📡 Cross-references:  
-> - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/⚖️_containment_contract_trace.md) — arrest records as covert contract equivalents  
-> - [🚫 Blocked at the Gateway](../Containment_Scripts/🚫_blocked_at_the_gateway.md) — infrastructure-level suppression aligned with arrest narrative  
-> - [🧨 Reach Metrics Are Not Neutral](../Containment_Scripts/🧨_reach_metrics_are_not_neutral.md) — how bureaucratic justifications mirror analytics distortions  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-01_  
+_Last updated: 2025-12-28_
