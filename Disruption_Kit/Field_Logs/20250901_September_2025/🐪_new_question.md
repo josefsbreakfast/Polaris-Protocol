@@ -22,3 +22,16 @@ why have so many things i have wsnted to do, been blocked, stopped, nudged away 
 it's just so odd.
 
 2025-09-24
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-28_
