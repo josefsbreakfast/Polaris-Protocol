@@ -1,5 +1,5 @@
 # 🛰️⚔️ The Orientalism Is Mindblowing  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-21 | **Last updated:** 2025-12-28  
 *Preserves verbatim a contemporaneous survivor-authored note recorded on 21 September 2025 (Rosh Hashanah).*  
 
 ---
@@ -71,9 +71,11 @@
 
 ## 🏮 Footer  
 
-*The Orientalism Is Mindblowing* is a raw intake node of the Polaris Protocol.  
-It preserves verbatim survivor-authored observations, capturing racialised projection, metadata manipulation, and colonially coded harassment.  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-28_
