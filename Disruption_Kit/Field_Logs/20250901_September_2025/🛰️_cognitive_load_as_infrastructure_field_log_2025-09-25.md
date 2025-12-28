@@ -1,5 +1,5 @@
 # 🛰️ Cognitive Load as Infrastructure Field Log — 2025-09-25  
-**First created:** 2025-09-25 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-25 | **Last updated:** 2025-12-28  
 *Field evidence of micro-distortions, workflow fatigue, and administrative drag used as containment.*  
 
 ---
@@ -7,7 +7,7 @@
 ## 🧾 Summary  
 
 This log documents **instances of small systemic distortions** — broken forms, login loops, unexplained rejections, or cumulative admin friction — that collectively produce cognitive overload and fatigue.  
-It operates as the evidentiary counterpart to the analytic node [😴 Cognitive Load as Infrastructure](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md).  
+It operates as the evidentiary counterpart to the analytic node [😴 Cognitive Load as Infrastructure] (`../Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md`).  
 
 ---
 
@@ -33,9 +33,9 @@ It operates as the evidentiary counterpart to the analytic node [😴 Cognitive 
 
 ## 🔍 Correlation Pointers  
 
-- Align entries with [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) for technical overlap.  
-- Compare with [🌀 Recognition Without Resolution](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution_2025-09-13.md) — similar cognitive looping.  
-- Tag fatigue spikes alongside [🌑 Induced Futility](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md).  
+- Align entries with [📉 Suppression Interference Logs] (`../../📉_Suppression_Interference_Logs.md`) for technical overlap.  
+- Compare with [🌀 Recognition Without Resolution] (`../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution_2025-09-13.md`) — similar cognitive looping.  
+- Tag fatigue spikes alongside [🌑 Induced Futility] (`../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md`).  
 
 ---
 
@@ -54,16 +54,11 @@ cognitive load, fatigue containment, administrative friction, micro-distortion, 
 
 ## 🏮 Footer  
 
-*🛰️ Cognitive Load as Infrastructure Field Log — 2025-09-25* is a living node of the Polaris Protocol.  
-It records real-world manifestations of micro-distortion and administrative fatigue used as psychological containment, paired with the analytic framework [😴 Cognitive Load as Infrastructure](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md).  
-
-> 📡 Cross-references:  
-> - [😴 Cognitive Load as Infrastructure](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md) — analytic framework  
-> - [🌑 Induced Futility](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md) — hopelessness through exhaustion  
-> - [🌀 Recognition Without Resolution](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution_2025-09-13.md) — looping ambiguity  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — parallel interference tracking  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — logging conventions  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-28_
