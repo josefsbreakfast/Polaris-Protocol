@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:33:21 UTC_
+_Generated on 2025-12-28 10:33:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1849,6 +1849,7 @@ _Generated on 2025-12-28 10:33:21 UTC_
       - [`🛰_instructions_what_instuctions.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰_instructions_what_instuctions.md)
       - [`🛰_working_through_glitches.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰_working_through_glitches.md)
       - [`🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_3_obvious_telecoms_nudges_inc_other_uk_citizens_first_15_mins_writing_skeleton.md)
+      - [`🛰️_algorithmic_foil_recycling_2025-10-03.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_algorithmic_foil_recycling_2025-10-03.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_metadata_twinning_commit_difficulty.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_twinning_commit_difficulty.md)
       - [`🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_racialised_surveillance_abuse_feed_log_2025-10-03.md)
@@ -2709,7 +2710,6 @@ _Generated on 2025-12-28 10:33:21 UTC_
     - [`🙄_making_men_cry_was_literally_my_job_bro.PNG`](Disruption_Kit/Field_Logs/🙄_making_men_cry_was_literally_my_job_bro.PNG)
     - [`🛰_but_the_eldest_is_the_silent_protector.png`](Disruption_Kit/Field_Logs/🛰_but_the_eldest_is_the_silent_protector.png)
     - [`🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG`](Disruption_Kit/Field_Logs/🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG)
-    - [`🛰️_algorithmic_foil_recycling_2025-10-03.md`](Disruption_Kit/Field_Logs/🛰️_algorithmic_foil_recycling_2025-10-03.md)
     - [`🛰️_all_it_took_2025-09-06.md`](Disruption_Kit/Field_Logs/🛰️_all_it_took_2025-09-06.md)
     - [`🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md)
     - [`🛰️_another_witness_lost_signal.md`](Disruption_Kit/Field_Logs/🛰️_another_witness_lost_signal.md)
