@@ -1,7 +1,5 @@
-# 📍 10-Day Tactical Forecast (UK Institutional Fracture Window) 
-
-**First created:** 2025-08-08 | **Last updated:** 2025-09-01
-
+# 📍 10-Day Tactical Forecast (UK Institutional Fracture Window)  
+**First created:** 2025-08-08 | **Last updated:** 2025-12-28  
 *Operational pressure and narrative destabilisation plan.*  
 
 ---
@@ -46,7 +44,7 @@ Sustained pressure and narrative destabilisation across UK legal, surveillance, 
 - Send formal email to Northeast CPS and **[REDACTED]** Crown Court.  
 - Attach/quote the full unabridged VPS with metadata note.  
 - Flag sealed-record suspicion but keep primary ask clean and unambiguous.  
-- Begin compiling [🧾 vps_reclamation_log.md](../SCP-VoiceX_Casefiles/🧾_vps_reclamation_log.md).  
+- Begin compiling [🧾 vps_reclamation_log.md].  
 
 ### 🔥 Mid-Window Escalation (2025-08-11 – 2025-08-15)  
 - Substack drop: *“We Don’t Want Your Cells, We Want Each Other.”*  
@@ -79,14 +77,11 @@ This means: your content is increasingly being *seen directly* by senior figures
 
 ## 🏮 Footer  
 
-*10-day tactical forecast (UK institutional fracture window)* is a living node of the Polaris Protocol.  
-It outlines operational pressure cycles and narrative destabilisation strategies during institutional fracture windows.  
-
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic diagnostics and inversion theory  
-> - [Survivor Tools](../Survivor_Tools/) — survivor-led strategies and countermeasures  
-> - [Field Logs](../Field_Logs/) — forensic documentation and evidence trails  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-01_  
+_Last updated: 2025-12-28_
