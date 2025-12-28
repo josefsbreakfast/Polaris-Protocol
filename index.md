@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-28 10:32:27 UTC_
+_Generated on 2025-12-28 10:33:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1765,6 +1765,7 @@ _Generated on 2025-12-28 10:32:27 UTC_
       - [`🛰️_2025-09-19_security_signal_sweep.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_2025-09-19_security_signal_sweep.md)
       - [`🛰️_2025-09-22_web_of_resilience_duplicate_fix.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_2025-09-22_web_of_resilience_duplicate_fix.md)
       - [`🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_2025-09-26_field_log_cognitive_fatigue_and_prototype_premise.md)
+      - [`🛰️_access_throttle_field_log_2025-09-29.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_access_throttle_field_log_2025-09-29.md)
       - [`🛰️_ai_interference_vs_baseline_generation.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_ai_interference_vs_baseline_generation.md)
       - [`🛰️_loneliness_as_a_system_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_loneliness_as_a_system_field_log_2025-09-13.md)
       - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
@@ -2708,7 +2709,6 @@ _Generated on 2025-12-28 10:32:27 UTC_
     - [`🙄_making_men_cry_was_literally_my_job_bro.PNG`](Disruption_Kit/Field_Logs/🙄_making_men_cry_was_literally_my_job_bro.PNG)
     - [`🛰_but_the_eldest_is_the_silent_protector.png`](Disruption_Kit/Field_Logs/🛰_but_the_eldest_is_the_silent_protector.png)
     - [`🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG`](Disruption_Kit/Field_Logs/🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG)
-    - [`🛰️_access_throttle_field_log_2025-09-29.md`](Disruption_Kit/Field_Logs/🛰️_access_throttle_field_log_2025-09-29.md)
     - [`🛰️_algorithmic_foil_recycling_2025-10-03.md`](Disruption_Kit/Field_Logs/🛰️_algorithmic_foil_recycling_2025-10-03.md)
     - [`🛰️_all_it_took_2025-09-06.md`](Disruption_Kit/Field_Logs/🛰️_all_it_took_2025-09-06.md)
     - [`🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md`](Disruption_Kit/Field_Logs/🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md)
