@@ -139,7 +139,116 @@ This produces a form of **institutional gaslighting** — not through explicit d
 
 ---
 
-## 🫀 Why This Feels Worse Than Error
+## ♻️ Behavioural Drag and the Cost of Unsignalled Safety
+
+When a system is genuinely unsafe, people adapt.
+
+They:
+- alter routines,
+- restrict movement,
+- avoid institutions or services,
+- reduce exposure,
+- make personal risk calculations and safety plans.
+
+This is not irrational.
+It is competent survival behaviour.
+
+---
+
+## 🍌 What Happens When the Risk Changes but No One Says So
+
+If institutions quietly fix a problem but do not communicate that conditions have improved, people do **not** automatically revert.
+
+They continue to live as if:
+- the system is hostile,
+- the data is unreliable,
+- the risk remains active.
+
+From the outside, this looks like:
+- disengagement,
+- lack of uptake,
+- “community apathy,”
+- mistrust.
+
+From the inside, it is simply **unupdated safety logic**.
+
+---
+
+## 💸 The Hidden Economic and Social Costs
+
+Unsignalled safety improvements create real losses:
+
+- People avoid services they would otherwise use.
+- Economic participation remains suppressed.
+- Social trust and communal presence fail to recover.
+- Protective behaviours calcify into long-term withdrawal.
+
+These are not abstract harms.
+They show up as:
+- reduced footfall,
+- lower reporting,
+- diminished civic engagement,
+- fragmented communities.
+
+The institution logs “issue resolved.”
+The public continues paying the price.
+
+---
+
+## 🦇 Why This Is Not a "Communications Problem"
+
+This is often misdiagnosed as:
+> “We need better outreach.”
+
+But the failure is not persuasion.
+It is **acknowledgement**.
+
+Without an explicit signal that:
+- something was wrong,
+- it has been addressed,
+- and the risk profile has changed,
+
+people have no rational basis to update their behaviour.
+
+Silence preserves caution.
+
+---
+
+## ⚠️ Risk Aversion Becomes Structural
+
+Over time, precaution hardens.
+
+What began as situational risk management becomes:
+- chronic avoidance,
+- intergenerational distrust,
+- institutional folklore (“don’t go near that system”).
+
+This is especially pronounced where:
+- harm was unevenly distributed,
+- marginalised groups bore the cost,
+- early warnings were ignored.
+
+Quiet fixes do not reverse this.
+They entrench it.
+
+---
+
+## 🙈 The Irony Institutions Miss
+
+Institutions often fear that admitting past risk will:
+- scare people,
+- reduce confidence,
+- damage legitimacy.
+
+In reality, the opposite occurs.
+
+Failure to signal improvement locks communities into **permanent defensive mode** — a far greater drag on economic, social, and communal life than any admission of fallibility.
+
+People cannot stand down from vigilance they were never told is no longer necessary.  
+
+---
+
+## 🫀 Why Gaslighting Feels Worse Than Error
 
 Most people understand that:
 - systems are built by humans,
