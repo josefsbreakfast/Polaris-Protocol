@@ -200,11 +200,11 @@ Yet the character of governance alters.
 
 > 📡 Cross‑references:  
 >
-> - [🔺 _the_alignment_triangle]  
-> - [🧠 _ideology_without_conspiracy]  
-> - [🧱 _palantir_as_infrastructure]  
-> - [⚖️ _rights_as_friction]  
-> - [🛡️ _securitisation_and_fragile_governance]  
+> - [🔺 The Alignment Triangle](./🔺_the_alignment_triangle.md)  
+> - [🧠 Ideology Without Conspiracy](./🧠_ideology_without_conspiracy.md)  
+> - [🔮 Palantir as Infrastructure](../🛰️_Infrastructure_Procurement/🔮_palantir_as_infrastructure.md)  
+> - [🔥 Rights as Friction](../⚖️_Legal_State_Governance/🔥_rights_as_friction.md)  
+> - [🛡️ Securitisation & Fragile Governance](./💫_Containment_Logic/🛡️_securitisation_and_fragile_governance.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
