@@ -1,13 +1,13 @@
 # 🛰️ Memory Fogging Field Log — 2025-09-13  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
-*Field evidence of altered sequence, duplicated correspondence, or engineered confusion over event order.*
+**First created:** 2025-09-13 | **Last updated:** 2025-12-29  
+*Field evidence of altered sequence, duplicated correspondence, or engineered confusion over event order.*  
 
 ---
 
 ## 🧾 Summary  
 
 This log captures forensic traces of **timeline manipulation** and **memory interference** — changes in record order, contradictory timestamps, or mismatched correspondence chains.  
-It operates as the evidentiary counterpart to the analytic node [🌫️ Memory Fogging](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌫️_memory_fogging.md).  
+It operates as the evidentiary counterpart to the analytic node [🌫️ Memory Fogging] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌫️_memory_fogging.md`.  
 
 ---
 
@@ -33,8 +33,8 @@ It operates as the evidentiary counterpart to the analytic node [🌫️ Memory 
 
 ## 🔍 Correlation Pointers  
 
-- Cross-check with [🌀 Confused Feed as Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_confused_feed_as_containment.md) for incoherence overlap.  
-- Link anomalies to [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) when errors coincide with failed uploads or vanished commits.  
+- Cross-check with [🌀 Confused Feed as Containment] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_confused_feed_as_containment.md` for incoherence overlap.  
+- Link anomalies to [📉 Suppression Interference Logs] `../../📉_Suppression_Interference_Logs.md` when errors coincide with failed uploads or vanished commits.  
 - Compare metadata hashes across devices or export formats to confirm tampering windows.  
 
 ---
@@ -54,15 +54,11 @@ memory fogging, metadata drift, timestamp manipulation, credibility sabotage, ti
 
 ## 🏮 Footer  
 
-*🛰️ Memory Fogging Field Log — 2025-09-13* is a living node of the Polaris Protocol.  
-It records real-world manifestations of temporal and narrative distortion, paired with the analytic framework [🌫️ Memory Fogging](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌫️_memory_fogging.md).  
-
-> 📡 Cross-references:  
-> - [🌫️ Memory Fogging](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌫️_memory_fogging.md) — analytic framework  
-> - [🌀 Confused Feed as Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_confused_feed_as_containment.md) — related interference  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — corroborative system evidence  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — log standards  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-29_
