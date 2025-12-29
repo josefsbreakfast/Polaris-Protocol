@@ -37,7 +37,33 @@ The result is predictable: harm continues, responsibility diffuses, and perpetra
 - Platforms **already possess the analytic capacity** to identify it  
 - Failure to act represents **governance choice**, not ignorance  
 - The burden of proof is unfairly shifted onto survivors  
-- Children are exposed through the same permissive logic  
+- Children are exposed through the same permissive logic
+
+---
+
+## 🥀 A Rose By Any Other Name...  
+
+If the same metadata patterns appeared around:
+	-	a corporation
+	-	a politician
+	-	a military asset
+	-	a financial system
+
+…we call the behaviour targeting, hostile reconnaissance, or influence operations.
+
+When it happens to women, it’s called:
+
+“online behaviour”.  
+
+We are downgraded, as are children, not due to logic or analysis, but simply because qualifying tye behaviour as adversary would make some men uncomfortable.  
+
+This avoidance of discomfort to the rich straight white male repeats through the acceptance of online harrassment of any and all marginalised people and our digital experiences.  
+
+The great minds of men believe in the absolute authority of quantifiable data...  
+
+Until accountability rests with them.  
+
+The problem gets reframed as somehow the nature of data, and they pray that the world moves on.  
 
 ---
 
