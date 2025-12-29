@@ -1,6 +1,6 @@
 # 🛰️ Sensitivity in Referencing Reports  
-**First created:** 2025-09-05 | **Last updated:** 2025-09-27  
-*Field log on system sensitivity when naming or citing specific safeguarding and inquiry reports.*
+**First created:** 2025-09-05 | **Last updated:** 2025-12-29  
+*Field log on system sensitivity when naming or citing specific safeguarding and inquiry reports.*  
 
 ---
 
@@ -37,13 +37,11 @@ During live drafting and dictation:
 
 ## 🏮 Footer  
 
-*Sensitivity in Referencing Reports* is a living Field Log of the Polaris Protocol.  
-It documents how interference arises not from legality, but from systemic sensitivity around safeguarding inquiries, producing obstacles in survivor dictation and referencing.  
-
-> 📡 Cross-references:  
-> - [⚖️ Inversion and Laundering as State Technique](../Big_Picture_Protocols/🌐_System_Governance/⚖️_inversion_and_laundering_as_state_technique.md) — systemic node relying on precise report naming  
-> - [Field Logs](../Field_Logs/) — parallel traces of FOI/SAR requests and survivor communication  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_
+_Last updated: 2025-12-29_
