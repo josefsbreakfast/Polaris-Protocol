@@ -99,9 +99,10 @@ It maps how systems use mental health framing to convert legitimate structural c
 
 > 📡 Cross-references:
 > 
-> - [🤝 Polite Containment — How Civility Becomes a Control Mechanism](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤝_polite_containment.md)  
-> - [🎭 Reputation as Governance — How Institutions Script Their Own Credibility](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_reputation_as_governance.md)  
-> - [*Pending:* 💣 Syntactic Drift and Clone Theatre]  
+> - [🤝 Polite Containment — How Civility Becomes a Control Mechanism](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤝_polite_containment.md)  
+> - [🎭 Reputation as Governance — How Institutions Script Their Own Credibility](../📚_Narrative_Management/🎭_reputation_as_governance.md)  
+> - [💣 Syntactic Drift and Clone Tone](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
+> - [🧬 Twinning as Reputation Repair](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_twinning_as_reputation_repair.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
