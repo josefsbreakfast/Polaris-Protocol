@@ -1,6 +1,6 @@
 # ✈️ Release the British Files  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-24  
-*Why the UK public has a legitimate right to understand elite exposure in the Epstein network.*
+**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
+*Why the UK public has a legitimate right to understand elite exposure in the Epstein network.*  
 
 ---
 
@@ -142,7 +142,7 @@ It is increasingly difficult to accept that British involvement is minimal when:
 - British social, political, and academic elites intersected with his milieu  
 - Other jurisdictions have acknowledged uncomfortable exposure  
 
-Notably, **[Bill Clinton](chatgpt://generic-entity?number=0)** has publicly called for transparency regarding the files — despite appearing within them.
+Notably, **Bill Clinton** has publicly called for transparency regarding the files — despite appearing within them.
 
 That contrast matters.
 
@@ -179,7 +179,10 @@ We are a geographically small territory; the risk is real and we need knowledge 
 ---
 
 ## 🌌 Constellations  
-✈️ 🛰️ ⚖️ 🧠 🧿 — mobility and jurisdiction, intelligence gaps, rule-of-law stress, elite cognition, risk visibility.
+✈️ 🛰️ ⚖️ 🧠 🧿 — mobility and jurisdiction, intelligence gaps, rule-of-law stress, elite cognition, risk visibility.  
+
+*Further reading:*  
+- [Bill Clinton's spokesperson calls for release of all Epstein files related to former president](https://abcnews.go.com/US/bill-clintons-spokesperson-calls-release-epstein-files-related/story?id=128643851), ABC News.  
 
 ---
 
@@ -195,10 +198,11 @@ It documents a public-interest transparency gap where elite exposure intersects 
 
 > 📡 Cross-references:
 > 
-> - [🧠 Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic risk analysis  
-> - [🛰️ OSINT Field Operations](../Digital_Disruption/🛰️_OSINT_Field_Operations/) — ethical investigation methods  
-> - [⚖️ Systems & Governance](../Disruption_Kit/Big_Picture_Protocols/🌀_Systems_&_Governance/) — institutional accountability frames  
+> - [🗄️ Epstein Files Are Red Herrings](../🈺_Governance_And_Prevent/🗄️_epstein_files_are_red_herrings.md)  
+> - [🏛️ The Reckoning Lag — Prince Andrew, Epstein, and Institutional Containment](./🏛️_the_reckoning_lag_prince_andrew_epstein_and_institutional_containment.md)  
+> - [🧩 Interlocking Timelines: QAnon / Epstein / Clinton–FBI](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧩_interlocking_timelines_qanon_epstein_clinton_fbi.md)  
+> - [✈️ The Trauma Porn of It All](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/✈️_the_trauma_porn_of_it_all.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2025-12-29_
