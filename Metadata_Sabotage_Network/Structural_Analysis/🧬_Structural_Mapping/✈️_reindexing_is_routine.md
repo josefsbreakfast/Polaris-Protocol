@@ -209,7 +209,7 @@ It documents the gap between public claims of impossibility and private-sector r
 
 > 📡 Cross-references:
 > 
-> - [✈️ Reindexing the Files] (./✈️_reindexing_the_files.md) — technical method  
+> - [✈️ Reindexing the Files](./✈️_reindexing_the_files.md) — *technical method*  
 > - [🛰️ OSINT Field Operations](../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/) — *independent verification practices*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
