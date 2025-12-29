@@ -1,5 +1,5 @@
 # 🛰️ Precursors Summary — What Immediately Preceded the Incidents  
-**First created:** 2025-09-19 | **Last updated:** 2025-09-22  
+**First created:** 2025-09-19 | **Last updated:** 2025-12-29  
 *Concise summary of the immediate events and patterns that directly preceded the early-August attacks and the current September escalation.*  
 
 ---
@@ -48,13 +48,11 @@
 
 ## 🏮 Footer  
 
-*Precursors Summary* is a Field Log node of the Polaris Protocol.  
-It tracks narrative and technical triggers that preceded escalations in August and September 2025.  
-
-> 📡 Backlinks:  
-> - [👾 Weirdness Screening](../Big_Picture_Protocols/👾_weirdness_screening.md) — triage of anomalies and glitches  
-> - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md) — corporate profit around containment  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-22_  
+_Last updated: 2025-12-29_
