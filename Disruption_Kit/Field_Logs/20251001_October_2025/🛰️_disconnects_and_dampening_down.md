@@ -84,3 +84,16 @@ And that's interesting because it's been like this for about a week or so where 
 
 
 I can confirm that I am adequately motivated to see how this all comes out in the wash. 🤣🤣🤣  
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-29_
