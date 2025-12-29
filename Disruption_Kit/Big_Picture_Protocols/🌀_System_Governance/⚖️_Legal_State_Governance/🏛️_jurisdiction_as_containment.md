@@ -282,7 +282,13 @@ This is not authoritarianism.
 It is **constitutional self-defence**.
 
 When transparency collides with sovereignty, the UK system does not shout.  
-It **closes**.
+It **closes**.  
+
+There is no such thing as "the contractor has too much control", when the contractor threatens the ancient adge of, "it's our bloody island".  
+
+The foreign parties trying to cross our shores and take our jobs, our democracy, our homes, and our lives are not seeking asylum; they are seeking monopoly capital control.  
+
+We have one King and one is plenty, respectfully.  
 
 ---
 
@@ -305,7 +311,10 @@ It documents how UK constitutional practice neutralises disclosure-based leverag
 > 
 > - [🌍 Vulnerable Data Populations at FCDO](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md)  
 > - [🧩 Why the Machine Tags High-Friction Profiles](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_why_the_machine_tags_high_friction_profiles.md)  
-> - [⚙️ High-Friction People and Systemic Mismatch](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/⚙️_high_friction_people_and_systemic_mismatch.md)  
+> - [⚙️ High-Friction People and Systemic Mismatch](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/⚙️_high_friction_people_and_systemic_mismatch.md)
+> - [🇬🇧 This Is Our Island, Actually](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🇬🇧_this_is_our_island_actually.md)
+> - [🏛️ Our Island, Our Realm, Our Rules (and Why That Includes Hospitality)](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_our_island_our_realm_our_rules.md)
+> - [🍉 Your Voice Is Your Vote](../📚_Narrative_Management/🍉_your_voice_is_your_vote.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
