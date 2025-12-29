@@ -1,6 +1,6 @@
-# ✈️ Surveillance Capitalism, State Capture, and the Risk Envelope
-**First created:** 2025-12-26 | **Last updated:** 2025-12-26  
-*Why the UK’s current posture is no longer about reputational risk, but national stability.*
+# ✈️ Ridiculous Risk Envelopes: Surveillance Capitalism & State Capture  
+**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+*Why the UK’s current posture is no longer about reputational risk, but national stability.*  
 
 ---
 
@@ -189,9 +189,16 @@ surveillance capitalism, state capture, uk governance, safeguarding failure, lev
 ---
 
 ## 🏮 Footer  
-*Surveillance Capitalism, State Capture, and the Risk Envelope* is a living node of the Polaris Protocol.  
-It documents a system-level risk assessment under conditions of elite exposure, technological capture, and democratic fragility.
+*✈️ Surveillance Capitalism, State Capture, and the Risk Envelope* is a living node of the Polaris Protocol.  
+It documents a system-level risk assessment under conditions of elite exposure, technological capture, and democratic fragility.  
+
+
+> 📡 Cross-references:
+> 
+> - [📊 Risk Scoring Architectures — How Numbers Decide](../../Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📊_risk_scoring_architectures.md)
+> - [🪞 Misunderstanding as Risk Signal — How Surveillance Turns Bias into Evidence](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_misunderstanding_as_risk_signal.md)
+> - [🔥 Why Metadata Is More Dangerous Than Human Referral](../🈺_Governance_And_Prevent/🔥_metadata_more_dangerous_than_humans.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-26_
+_Last updated: 2025-12-29_
