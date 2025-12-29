@@ -1,5 +1,8 @@
 # 🧠 Ideology Without Conspiracy  
-*How alignment happens without coordination*
+**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+*How alignment happens without coordination.*
+
+---
 
 ## Summary
 
@@ -186,3 +189,7 @@ This node connects directly to:
 ## One-line takeaway
 
 > You do not need a conspiracy to change how power works — you only need aligned incentives, shared blind spots, and systems that outpace ethics.
+
+---
+
+_Last updated: 2025-12-29_
