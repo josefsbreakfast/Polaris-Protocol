@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 14:39:10 UTC_
+_Generated on 2025-12-29 14:47:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -543,6 +543,7 @@ _Generated on 2025-12-29 14:39:10 UTC_
         - [`📊_skillset_risk_matrix.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/📊_skillset_risk_matrix.md)
         - [`📡_inquiry_convergence_theory.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/📡_inquiry_convergence_theory.md)
         - [`🔥_the_latency_years_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🔥_the_latency_years_timeline.md)
+        - [`🔮_palantir_as_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🔮_palantir_as_infrastructure.md)
         - [`🕸️_exploitability_and_defensive_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🕸️_exploitability_and_defensive_strategy.md)
         - [`🚀_mordernising_information_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🚀_mordernising_information_defence.md)
         - [`🛠️_fixing_the_uk_algorithmic_safety_stack.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛠️_fixing_the_uk_algorithmic_safety_stack.md)
@@ -4070,7 +4071,6 @@ _Generated on 2025-12-29 14:39:10 UTC_
     - [`🧱_hostile_architecture_vs_universal_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_hostile_architecture_vs_universal_design.md)
     - [`🧱_ideological_loyalty_as_pyramid_scheme.md`](Polaris_Nest/Git_Intake_Drawer/🧱_ideological_loyalty_as_pyramid_scheme.md)
     - [`🧱_legal_exception_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧱_legal_exception_zone.md)
-    - [`🧱_palantir_as_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧱_palantir_as_infrastructure.md)
     - [`🧱_predation_logic_vulnerability_power_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🧱_predation_logic_vulnerability_power_targeting.md)
     - [`🧱_prevent_unappealable_decisions.md`](Polaris_Nest/Git_Intake_Drawer/🧱_prevent_unappealable_decisions.md)
     - [`🧱_reconstruction_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧱_reconstruction_logic.md)
