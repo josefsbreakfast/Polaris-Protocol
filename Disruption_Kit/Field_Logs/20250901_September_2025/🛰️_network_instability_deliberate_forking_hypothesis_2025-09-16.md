@@ -1,5 +1,5 @@
 # 🛰️ Network Instability & Deliberate Forking Hypothesis — Field Log  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-16 | **Last updated:** 2025-12-29  
 *Field log capturing app crashes, lag, and VPN-based mitigation; testing whether instability is engineered rather than incidental.*  
 
 ---
@@ -41,22 +41,19 @@
 ---
 
 ## 📡 Cross-Links  
-- [🛰️ Throttling Chokepoints (2025-08-26)](./🛰️_throttling_chokepoints_2025-08-26.md)  
-- [🧱 Loft Packet Dump Theory (2025-08-06)](./🧱_loft_packet_dump_theory_2025-08-06.md)  
-- [🛰️ Direct Interference on Clarity (2025-09-11)](./🛰️_direct_interference_on_clarity_2025-09-11.md)  
+- [🛰️ Throttling Chokepoints (2025-08-26)] `./🛰️_throttling_chokepoints_2025-08-26.md`  
+- [🧱 Loft Packet Dump Theory (2025-08-06)] `./🧱_loft_packet_dump_theory_2025-08-06.md`  
+- [🛰️ Direct Interference on Clarity (2025-09-11)] `./🛰️_direct_interference_on_clarity_2025-09-11.md`  
 
 ---
 
 ## 🏮 Footer  
-*Network Instability & Deliberate Forking Hypothesis — Field Log* is a living node of the Polaris Protocol.  
-It tracks whether instability in inference is accidental load or engineered fork.  
 
-Not assessed as officially sanctioned state behaviour; pattern more consistent with outsourced enforcement, commercial shaping, or structural neglect — interference by incentive, not by decree.  
-
-> 📡 Cross-references:  
-> - [Field Logs](../Disruption_Kit/Field_Logs/) — forensic capture of anomalies  
-> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — platform-level suppression logs  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-29_
