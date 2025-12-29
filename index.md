@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 13:41:37 UTC_
+_Generated on 2025-12-29 13:44:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3467,6 +3467,7 @@ _Generated on 2025-12-29 13:41:37 UTC_
     - [**🪆_Narrative_Interference/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)
       - [`♻️_semantic_echo.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/♻️_semantic_echo.md)
+      - [`✈️_the_baby_ranch_is_boring.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/✈️_the_baby_ranch_is_boring.md)
       - [`✈️_the_trauma_porn_of_it_all.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/✈️_the_trauma_porn_of_it_all.md)
       - [`🌀_synthetic_narratives.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🌀_synthetic_narratives.md)
       - [`🍉_the_puppets_aint_israeli.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🍉_the_puppets_aint_israeli.md)
@@ -3958,7 +3959,6 @@ _Generated on 2025-12-29 13:41:37 UTC_
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`✈️_the_baby_ranch_is_boring.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_baby_ranch_is_boring.md)
     - [`✈️_they_always_think_they_are_geniuses.md`](Polaris_Nest/Git_Intake_Drawer/✈️_they_always_think_they_are_geniuses.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`❓_why_parliamentary_questions_come_first.md`](Polaris_Nest/Git_Intake_Drawer/❓_why_parliamentary_questions_come_first.md)
