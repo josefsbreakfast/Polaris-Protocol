@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 05:42:46 UTC_
+_Generated on 2025-12-29 07:44:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4419,6 +4419,7 @@ _Generated on 2025-12-29 05:42:46 UTC_
     - [`📡_commons_signal_networks.md`](🦆_Digital_Disruption/🐝_All_In_Commons/📡_commons_signal_networks.md)
     - [`🔧_democratic_resilience_architecture_for_21st_century_britain.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🔧_democratic_resilience_architecture_for_21st_century_britain.md)
     - [`🕊️_trust_repair_protocols.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🕊️_trust_repair_protocols.md)
+    - [`🗺️_digital_hybrid_sociality.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🗺️_digital_hybrid_sociality.md)
     - [`🛠️_mutual_aid_stack.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🛠️_mutual_aid_stack.md)
     - [`🧠_nerd_alignment_protocol.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🧠_nerd_alignment_protocol.md)
     - [`🧩_distributed_decision_framework.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🧩_distributed_decision_framework.md)
