@@ -1,7 +1,10 @@
 # 🌳 The Ents in the Room  
+**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
 *On slow power, ancient processes, and decisions that arrive centuries too late*
 
 > *“We have decided… to do nothing.”*
+
+---
 
 ## What This Is (and Is Not)
 
@@ -202,3 +205,5 @@ It should be read *after* those nodes, not instead of them.
 ## One-line takeaway
 
 > The Ents in the room are not asleep — they are thinking very carefully while the future installs itself around them.
+
+_Last updated: 2025-12-29_
