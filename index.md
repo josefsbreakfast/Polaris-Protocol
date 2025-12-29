@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 04:29:06 UTC_
+_Generated on 2025-12-29 04:37:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4361,6 +4361,7 @@ _Generated on 2025-12-29 04:29:06 UTC_
       - [`👻_who_are_the_ghosts.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/👻_who_are_the_ghosts.md)
       - [`💥_one_guy_with_vibes.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/💥_one_guy_with_vibes.md)
       - [`🕹️_sims_god_adversary_archetype.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/🕹️_sims_god_adversary_archetype.md)
+      - [`🧿_temporal_metadata_ghosts.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/🧿_temporal_metadata_ghosts.md)
     - [**🪦_Haunting_Ghosts/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪦_Haunting_Ghosts/)
       - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪦_Haunting_Ghosts/README.md)
       - [`🏴_forever_antifascist.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪦_Haunting_Ghosts/🏴_forever_antifascist.md)
