@@ -1,6 +1,6 @@
 # ⚖️ Above the Law — Protofascism Threshold  
-**First created:** 2025-11-09 | **Last updated:** 2025-11-09  
-*When capital becomes immune to law, democracy enters its protofascist phase.*
+**First created:** 2025-11-09 | **Last updated:** 2025-12-27  
+*When capital becomes immune to law, democracy enters its protofascist phase.*  
 
 ---
 
@@ -106,10 +106,14 @@ It maps the moment when economic impunity mutates civic frameworks into containm
 
 > 📡 Cross-references:
 > 
-> - [🧭 Are We Fascist Yet?](.🧭_are_we_fascist_yet.md)  — *situational analysis of UK protofascism*  
-> - [🐝 Post-Protofascist Reconstruction](.🐝_post_protofascist_reconstruction.md) — *civic recovery blueprint*  
-> - [🛰️ Surveillance FOI-SAR Dual Oversight Protocol](.🛰️_surveillance_foi_sar_dual_oversight_protocol.md) — *public oversight methodology*  
+> - [🧭 Are We Fascist Yet?](./🧭_are_we_fascist_yet.md)  — *situational analysis of UK protofascism*  
+> - [🐝 Post-Protofascist Reconstruction](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🐝_post_protofascist_reconstruction.md) — *civic recovery blueprint*  
+> - [*Pending:* 🛰️ Surveillance FOI-SAR Dual Oversight Protocol] — *public oversight methodology*
+> - [👾 Intent-Free Authoritarian Drift](./👾_intent_free_authoritarian_drift.md)
+> - [🏛️ The Boringing (UK 2010–2025)](./🏛️_the_boringing_uk_2010_2025.md)
+> - [🪬 Authoritarianism Beyond Left Right](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_authoritarianism_beyond_left_right.md)
+> - [🩺 Stakeholder Mapping from Symptoms](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🩺_stakeholder_mapping_from_symptoms.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-09_
+_Last updated:2025-12-27_

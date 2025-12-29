@@ -17,24 +17,36 @@ This node traces the song’s origins and explains why it continues to surface w
 
 ---
 
-## 🧿 Origins: labour before resistance  
+## 🧿 Origins: Labour Before Rresistance  
 
-The melody and structure of *Bella Ciao* are widely believed to predate fascism.
+The melody and structure of *Bella Ciao* are widely believed to predate fascism.  
 
-Early forms are associated with **mondine** — seasonal women agricultural workers in northern Italy’s rice fields in the late 19th and early 20th centuries.
+Early forms are associated with **mondine** — seasonal women agricultural workers in northern Italy’s rice fields in the late 19th and early 20th centuries.  
+
+> E fra gli insetti e le zanzare,  
+> Un dur lavoro mi tocca far.
+> 
+> *And between insects and mosquitoes,*  
+> *A hard day's work I have to do.*  
 
 These songs:
 - described brutal working conditions,
 - expressed exhaustion and exploitation,
 - and articulated refusal in intimate, embodied language.
 
-Before it was a resistance song, *Bella Ciao* was a **labour song**.
+Before it was a resistance song, *Bella Ciao* was a **labour song**.  
 
-That matters.
+That matters.  
 
 ---
 
-## 🌾 From fields to forests: the partisan transformation  
+## 🌾 From Fields To Forests: The Partisan Transformation  
+
+> Una mattina mi son svegliato,  
+> Eo ho trovato l'invasor.
+>  
+> *One morning I awakened,*  
+> *And I found the invader.*  
 
 During the Second World War, the song was adapted by Italian partisans resisting Nazi occupation and fascist rule.
 
@@ -48,13 +60,19 @@ Rural and mountain communities:
 Partisan movements in northern Italy were deeply entangled with:
 - farming populations,
 - land-based survival,
-- and collective refusal of imposed authority.
+- and collective refusal of imposed authority.  
 
-“Bella Ciao” moved from field to forest because the same people were involved.
+“Bella Ciao” moved from field to forest because the same people were involved.  
 
 ---
 
-## 🧠 Why fascist regimes feared farmers  
+## 🧠 Why Fascist Regimes Feared Farmers  
+
+> O partigiano porta mi via,  
+> Che mi sento di morir.
+>
+> *Oh partisan carry me away,*  
+> *Because I feel death approaching.*  
 
 Italian fascism — like other authoritarian regimes — understood a basic truth:
 
@@ -71,7 +89,12 @@ The song encodes that memory.
 
 ---
 
-## ⚖️ What the lyrics actually say  
+## ⚖️ What The Lyrics Actually Say  
+
+> E se io muoio da partigiano,  
+> O bella ciao, bella ciao, bella ciao ciao ciao.  
+> E se io muoio da partigiano,  
+> Tu mi devi seppellir.  
 
 Stripped of myth, the song is stark:
 - a worker leaves their home,
@@ -79,14 +102,25 @@ Stripped of myth, the song is stark:
 - accepts the possibility of death,
 - and asks to be remembered not as a hero, but as someone who resisted.
 
+> *And if I die as a partisan,*  
+> *Oh my beautiful, goodbye; goodbye, my beauty, goodbye.*  
+> *And if I die as a partisan,*  
+> *Then you must bury me.*  
+
 There is no triumphalism.  
 There is no abstract ideology.
 
-There is duty, loss, and land.
+There is duty, loss, and land.  
 
 ---
 
-## 🌍 Why it keeps returning  
+## 🌍 Why It Keeps Returning  
+
+> Mi seppellire lassù in montagna,  
+> Sotto l'ombra di un bel fiore.
+>
+> *Bury me up in the mountain,*  
+> *Under the shade of a beautiful flower.*  
 
 *Bella Ciao* resurfaces in moments where:
 - authority overreaches,
@@ -102,7 +136,13 @@ People reach for it when they recognise:
 
 ---
 
-## ⚠️ How modern usage is misread  
+## ⚠️ How Modern Usage Is Misread  
+
+> E le genti che passeranno,  
+> Mi diranno: "Che bel fior!"
+>
+> *And all those who shall pass,*  
+> *Will tell you, "What a beautiful flower!"*  
 
 Institutions often react to *Bella Ciao* as if:
 - it signals imminent violence,
@@ -120,7 +160,13 @@ It is a diagnostic signal, not a threat.
 
 ---
 
-## 🧩 Why this belongs in the farming cluster  
+## 🧩 Why This Belongs In The Farming Cluster  
+
+> È questo il fiore del partigiano,  
+> Morto per la libertà.
+>
+> *This is the flower of the partisan,*  
+> *Who died for freedom.*  
 
 *Bella Ciao* is not just a protest song.  
 It is a **farming song that became a resistance song**.
@@ -140,7 +186,7 @@ Understanding it turns noise back into signal.
 🥀 🌾 🎶 🧠 ⚖️ — labour song, farming history, resistance memory, legitimacy warning  
 
 *Further reading / viewing:*  
-- *[Bella Ciao](chatgpt://generic-entity?number=1)* — lyric histories and variations  
+- *[Bella Ciao](https://en.wikipedia.org/wiki/Bella_ciao)* — lyric histories and variations  
 - *Italian partisan histories* — rural resistance networks  
 - *Mussolini-era agrarian policy analyses* — promise, control, betrayal  
 - *Labour song traditions* — music as survival memory  

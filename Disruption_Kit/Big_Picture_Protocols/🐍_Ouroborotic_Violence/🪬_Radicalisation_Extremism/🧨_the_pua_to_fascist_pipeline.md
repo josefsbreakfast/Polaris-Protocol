@@ -1,5 +1,5 @@
 # 🧨 The PUA-to-Fascist Pipeline  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
 *How pickup-artist grooming tactics were repurposed into political recruitment mechanisms.*  
 
 ---
@@ -196,15 +196,15 @@ Recognition liberates them.
 ---
 
 ## 🏮 Footer  
-**The PUA-to-Fascist Pipeline** is a living node of the Polaris Protocol.  
+*🧨 The PUA-to-Fascist Pipeline* is a living node of the Polaris Protocol.  
 It explains how authoritarian movements recycle interpersonal coercive technologies to build political loyalty, especially among emotionally isolated digital men.
 
 > 📡 Cross-references:
 > 
-> - [🪓 Charisma Is Just Coercion]  
-> - [💻 Why Tech Bros Were the Perfect Target]  
-> - [🌀 The Visibility Pitch in Radicalisation]  
+> - [🧠 Charisma Is Just Coercion](./🧠_charisma_as_coercion.md)  
+> - [🦆 Why Tech Bros Were Sitting Ducks](./🦆_why_tech_bros_were_sitting_ducks.md)  
+> - [🌀 The Visibility Pitch in Radicalisation](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_the_visibility_pitch_in_radicalisation.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-26_

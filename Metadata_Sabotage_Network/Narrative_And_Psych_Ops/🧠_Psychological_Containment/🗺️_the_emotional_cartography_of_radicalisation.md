@@ -1,7 +1,6 @@
 # 🗺️ The Emotional Cartography of Radicalisation  
-**First created:** 2025-11-19  
-**Last updated:** 2025-12-12  
-*Mapping the emotional terrains—loneliness, shame, invisibility, hunger for recognition—that extremists navigate like geographers.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
+*Mapping the emotional terrains—loneliness, shame, invisibility, hunger for recognition—that extremists navigate like geographers.*  
 
 ---
 
@@ -181,13 +180,16 @@ They are **changing maps**.
 ---
 
 ## 🏮 Footer  
-**The Emotional Cartography of Radicalisation** is a living node of the Polaris Protocol.  
+*The Emotional Cartography of Radicalisation* is a living node of the Polaris Protocol.  
 It reframes radicalisation as an emotional geography navigated by predatory political movements and offers a map for restoring agency and identity.
 
-> 📡 Cross-references:  
-> - [🪪 Algorithmic Mislabeling & Identity Collapse]  
-> - [🧿 The Tech Bro → Kylo Ren Pipeline]  
-> - [🌋 Why Fascist Recruiters Promise Visibility]  
+> 📡 Cross-references:
+> 
+> - [🪪 Algorithmic Mislabeling & Identity Collapse](../../Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪪_algorithmic_mislabeling_and_identity_collapse.md)  
+> - [*Pending:* 🧿 The Tech Bro → Kylo Ren Pipeline]  
+> - [🌋 Why Fascist Recruiters Promise Visibility](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌋_why_fascist_recruiters_promise_visibility.md)  
+> - [💞 Connection as Leverage](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💞_connection_as_leverage.md)  
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-12_
+_Last updated: 2025-12-26_

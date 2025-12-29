@@ -1,5 +1,5 @@
 # ⚖️ Administrative Delay as Structural Harm for Disabled Survivors  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-22 | **Last updated:** 2025-12-27  
 *Why “wait several months” functions as violence when a survivor is misclassified, disabled, and denied lawful care.*  
 
 ---
@@ -115,9 +115,12 @@ It documents how bureaucratic time-lag becomes a vector of harm when survivors a
 
 > 📡 Cross-references:
 > 
-> - [🔥 Data Risks] — *harm pathways*  
-> - [🐦‍🔥 Trauma, Psychology, & Medical Misuse] — *trauma-impact framework*  
+> - [🔥 Data Risks](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/README.md) — *harm pathways*  
+> - [🐍 Trauma Commodification](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_trauma_commodification.md)  
+> - [🐌 Delays Are Violence](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md)  
+> - [⚖️ Institutional Parasitism of Deradicalisation Work](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/⚖️_institutional_parasitism_of_deradicalisation_work.md)  
+> - [🐺 Dickwolves Survivors Guild](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐺_dickwolves_survivors_guild.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-27_

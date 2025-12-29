@@ -1,5 +1,5 @@
 # 🧠 Fascism as Scaled Coercive Control  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
 *Fascism is not “charisma” or ideology — it is coercive control expanded from the household to the state.*  
 
 ---
@@ -161,10 +161,10 @@ It supports survivor-led deradicalisation analysis by reframing authoritarianism
 
 > 📡 Cross-references:
 > 
-> - [🪓 Charisma Is Just Coercion]  
-> - [🧮 Pre-Infiltration of Digital Male Spaces]  
-> - [🎭 Liberals vs Leftists in Deradicalisation]  
+> - [🧠 Charisma Is Just Coercion](./🧠_charisma_as_coercion.md)  
+> - [🌐 Pre-Infiltration of Digital Male Spaces](./🌐_pre_infiltration_of_digital_male_spaces.md)  
+> - [🧩 Why “The Left” Looks Scary During De-Radicalisation](./🧩_why_the_left_looks_scary_during_deradicalisation.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-11_
+_Last updated: 2025-12-26_

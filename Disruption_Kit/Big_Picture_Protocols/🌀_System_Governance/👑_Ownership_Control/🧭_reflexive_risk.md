@@ -1,6 +1,6 @@
 # 🧭 Reflexive Risk  
-**First created:** 2025-10-20 | **Last updated:** 2025-10-20  
-*When a system begins to see itself, suppression becomes self-defence.*
+**First created:** 2025-10-20 | **Last updated:** 2025-12-27  
+*When a system begins to see itself, suppression becomes self-defence.*  
 
 ---
 
@@ -130,9 +130,14 @@ reflexive risk, self-observation, whistleblowing, systemic containment, suppress
 *🧭 Reflexive Risk* examines the fragility of self-awareness inside systems of control and maps the predictable choreography of containment that follows revelation.  
 It serves as both diagnostic and compass for those who find themselves becoming the mirror.  
 
-> 📡 Cross-references:  *TBC*
-
+> 📡 Cross-references:
+> 
+> - [⚖️ Defend Forward & Sovereign Cyber Response Ladder](../⚖️_Legal_State_Governance/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
+> - [⛩️ Postmodern Gateway](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⛩️_postmodern_gateway.md)
+> - [⚖️ Due Diligence as Moral Defence](../⚖️_Legal_State_Governance/⚖️_due_diligence_as_moral_defence.md)
+> - [🍌 The Self-Eating System: Simulated Authenticity and Cultural Cannibalism](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🍌_self_eating_system.md)  
+> - [⚖️ Harm Reduction vs Adversarial Governance](../⚖️_Legal_State_Governance/⚖️_harm_reduction_vs_adversarial_governance.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-12-27_

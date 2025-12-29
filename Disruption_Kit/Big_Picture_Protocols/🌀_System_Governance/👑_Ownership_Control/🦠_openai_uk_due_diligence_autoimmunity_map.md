@@ -1,5 +1,5 @@
 # 🦠 OpenAI UK Due Diligence & Autoimmunity Map  
-**First created:** 2025-11-05 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-05 | **Last updated:** 2025-12-26  
 *Who is actually in the web, and who inherits the antibodies anyway.*  
 
 ---
@@ -164,12 +164,14 @@ OpenAI UK, due diligence, research consortia, Azure OpenAI, ChatGPT Edu, autoimm
 *🦠 OpenAI UK Due Diligence & Autoimmunity Map* is a living diagnostic node of the Polaris Protocol.  
 It documents both the **formal institutional ties** and the **immunological spillover** of OpenAI’s models across UK academia and public services, so that harms cannot later be dismissed as unforeseeable.  
 
- — sits with:  
-
-- [🦠 Algorithmic Autoimmunity] – *the systemic pathology*  
-- [📈 Stakeholder Mapping from Symptoms] – *the diagnostic, “who flinched where” method*  
-- [🏛️ Becoming a Genocide Scholar] – *how you ended up doing this work at all*  
+> 📡 Cross‑references:  
+> 
+> - [⚖️ Soft Power Without Soft Accountability](../../🦕_Elder_Influencers/🕸️_World_Webs/⚖️_soft_power_without_soft_accountability.md)  
+> - [🦠 Algorithmic Autoimmunity](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🦠_algorithmic_autoimmunity.md) – *the systemic pathology*
+> - [🫀 AI Black Box Inquests](./🫀_ai_black_box_inquests.md)  
+> - [*Pending:* 📈 Stakeholder Mapping from Symptoms] – *the diagnostic, “who flinched where” method*  
+> - [*Pending:* 🏛️ Becoming a Genocide Scholar] – *how you ended up doing this work at all*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2025-12-26_

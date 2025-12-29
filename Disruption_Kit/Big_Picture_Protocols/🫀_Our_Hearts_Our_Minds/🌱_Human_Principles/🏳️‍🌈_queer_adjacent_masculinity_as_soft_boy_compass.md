@@ -1,5 +1,5 @@
 # 🏳️‍🌈 Queer-Adjacent Masculinity as Soft Boy Compass  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-08  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-25  
 *How queer-coded culture offers straight, soft, emotionally earnest men a roadmap back to themselves — and why queer masculinity has become the stabilising pole for post-radicalised identity reconstruction.*  
 
 ---
@@ -220,10 +220,13 @@ It maps how queer-coded culture provides emotional modelling and relational safe
 
 > 📡 Cross-references:
 > 
-> - [🧸 Softness as Counter-Extremism Infrastructure]  
-> - [🎭 Identity Cosplay]  
-> - [💗 Soft Boy Restoration Protocol]  
+> - [*Pending:* 🧸 Softness as Counter-Extremism Infrastructure]  
+> - [🎭 Identity Cosplay](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎭_identity_cosplay.md)  
+> - [🍑 Soft Boy Restoration Protocol](./🍑_the_soft_boy_restoration_protocol.md)
+> - [💞 Queer Theory as Relational Literacy](./💞_queer_theory_as_relational_literacy.md)
+> - [💄 Plastic Masculinity Knives](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💄_plastic_masculinity_knives.md)
+> - [💸 Shame as Control Currency](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💸_shame_as_control_currency_the_architecture_of_self_silencing.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-08_
+_Last updated: 2025-12-25_

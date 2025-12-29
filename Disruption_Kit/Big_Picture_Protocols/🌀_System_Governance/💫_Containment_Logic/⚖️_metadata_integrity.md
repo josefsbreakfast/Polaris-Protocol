@@ -1,6 +1,6 @@
 # ⚖️ Metadata Integrity  
-**First created:** 2025-10-31 | **Last updated:** 2025-12-07  
-*Architectures of oversight, error, and self-correction inside automated bureaucracies.*
+**First created:** 2025-10-31 | **Last updated:** 2025-12-27  
+*Architectures of oversight, error, and self-correction inside automated bureaucracies.*  
 
 ---
 
@@ -11,19 +11,7 @@ It tracks the small, nearly invisible choices—metadata fields, risk flags, pol
 Each node studies a different hinge between accuracy and authority:  
 how a typo becomes a classification, how belief becomes evidence, and how compliance becomes comedy.
 
-> *Governance fails most quietly when it follows its own rules too well.*
-
----
-
-## 🧩 Core Nodes  
-
-| **Node** | **Focus** |
-|-----------|-----------|
-| [📊 Crown-Service Flag and Metadata Drift](📊_crown_service_flag_and_metadata_drift.md) | How administrative shorthand inside databases mis-codes authority and jurisdiction. |
-| [📈 Escalation Drift in Complex Datasets](📈_escalation_drift_in_complex_datasets.md) | How minor local improvisations evolve into institutional “truths.” |
-| [📥 Entry-Point Abuse in Automated Datasets](📥_entry_point_abuse_in_automated_datasets.md) | How discretion at ingestion turns into structural distortion. |
-| [🧠 Cognitive Feedback and Bureaucratic Amplification](🧠_cognitive_feedback_and_bureaucratic_amplification.md) | How conviction and repetition make organisations believe their own paperwork. |
-| [📠 The 72-Hour Comedy of Compliance](📠_the_72_hour_comedy_of_compliance.md) | How the GDPR breach-report window reveals the theatre of institutional fear. |
+> *Governance fails most quietly when it follows its own rules too well.*  
 
 ---
 
@@ -55,8 +43,14 @@ system governance · metadata integrity · procedural ethics · compliance theat
 *⚖️ Metadata Integrity* is the skeleton of the Polaris Protocol’s accountability map.  
 It anchors the **Metadata Integrity** and **Voice Fidelity** constellations, linking technical provenance to narrative ethics.  
 
-> *Integrity is not a file format. It’s a habit of correction.*
+> 📡 Cross-references:
+> 
+> - [*Pending:* 📊 Crown-Service Flag and Metadata Drift] - *How administrative shorthand inside databases mis-codes authority and jurisdiction*  
+> - [🌋 Escalation Drift in Complex Datasets](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌋_escalation_drift_in_complex_datasets.md)  
+> - [📥 Entry-Point Abuse in Automated Datasets](../../../..Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📥_entry_point_abuse_in_automated_datasets.md)  
+> - [🧠 Cognitive Feedback and Bureaucratic Amplification](./🧠_cognitive_feedback_and_bureaucratic_amplification.md)  
+> - [📠 The 72-Hour Comedy of Compliance](./📠_the_72_hour_comedy_of_compliance.md)  
 
----
+> *Integrity is not a file format. It’s a habit of correction.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-27_

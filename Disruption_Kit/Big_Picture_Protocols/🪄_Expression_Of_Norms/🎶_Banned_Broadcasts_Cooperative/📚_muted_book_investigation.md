@@ -1,5 +1,5 @@
 # 📚 Muted Book Investigation  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-16 | **Last updated:** 2025-12-27  
 *Replicable protocol for checking whether a trade title has been published and then effectively muted (plausible-deniability suppression vs natural obscurity).*  
 
 ---
@@ -179,8 +179,8 @@ It provides a replicable methodology for diagnosing whether a book’s low visib
 > 📡 Cross-references:  
 > - [📚 Forensic Silence](../🌀_System_Governance/📚_forensic_silence.md)  
 > - [🪞 Cascade of Chilling](../🌀_System_Governance/🪞_cascade_of_chilling.md)  
-> - [⚖️ Legal Hooks for Muted Books](./⚖️_legal_hooks_for_muted_books.md)  
+> - [⚖️ Legal Hooks for Muted Books](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2025-12-27_  

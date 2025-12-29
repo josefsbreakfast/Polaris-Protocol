@@ -1,6 +1,6 @@
 # 🦠 Systemic Porosity — When Legal Flexibility Becomes National-Security Debt  
-**First created:** 2025-10-13  |  **Last updated:** 2025-10-20  
-*A structural-risk sketch showing how loosely coupled UK oversight regimes create exploitable seams.*
+**First created:** 2025-10-13 | **Last updated:** 2025-12-27  
+*A structural-risk sketch showing how loosely coupled UK oversight regimes create exploitable seams.*  
 
 ---
 
@@ -64,13 +64,13 @@ oversight architecture, national security debt, legal loopholes, data protection
 It outlines the governance mechanics by which multiple compliant frameworks can, in aggregate, erode accountability and invite external manipulation.  
 It is a theoretical systems-diagnostic intended to support oversight reform.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
 > 
-> - [🧠 Multi-Lock Hypothetical] *TBC* — *compound lawful layer model*  
-> - [🛡 Article 8 Breach Pathways] *TBC* — *privacy erosion logic*  
-> - [🧩 Hybrid Threat Overlay] *TBC* — *external exploitation map*  
-> - [⚖️ Oversight Repair Kit] *TBC* — *design recommendations*  
+> - [🧠 Multi-Lock Hypothetical](../💫_Containment_Logic/🧠_multilock_overlapping_covertion.md) — *compound lawful layer model*  
+> - [*Pending:* 🛡 Article 8 Breach Pathways] — *privacy erosion logic*  
+> - [🦠 Hybrid Threat Overlay](../⚖️_Legal_State_Governance/🦠_hybrid_threat_overlay.md) — *external exploitation map*  
+> - [🪡 Oversight Repair Kit](./🪡_oversight_repair_kit.md) *TBC* — *design recommendations*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-12-27_

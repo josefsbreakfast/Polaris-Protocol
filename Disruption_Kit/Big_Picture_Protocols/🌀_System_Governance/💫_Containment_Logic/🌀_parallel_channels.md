@@ -1,6 +1,6 @@
 # 🌀 Parallel Channels  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
-*Duplication of process where survivors are bounced between contradictory pathways — a containment treadmill.*
+**First created:** 2025-09-14 | **Last updated:** 2025-12-29  
+*Duplication of process where survivors are bounced between contradictory pathways — a containment treadmill.*  
 
 ---
 
@@ -66,13 +66,17 @@ parallel process, contradictory systems, intake failure, bounced complaints, ins
 
 ## 🏮 Footer  
 
-*Parallel Channels* is a living node of the Polaris Protocol.  
+*🌀 Parallel Channels* is a living node of the Polaris Protocol.  
 It maps how survivors are trapped in duplicated intake pathways that lead nowhere — containment through contradiction.
 
 > 📡 Cross-references:
 > 
-> - [🌀 Systems & Governance](../README.md)
+> - [🧟‍♀️ Frankenstack Bytes](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/README.md)
+> - [🧟‍♀️ The Frankenstack Problem](../🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md)
+> - [🪼 Frankenstack Social Field Effects](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🪼_frankenstack_social_field_effects.md)
+> - [🗺️ Frankenstack Power Mapping: Incentives, Turbulence, Responsibility](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🗺️_power_mapping_frankenstack_ecosystem.md)
+> - [🧟‍♀️ Frankenstack: Neurodivergent-Friendly Explainer](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_explainer_neurodivergent.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-12-29_

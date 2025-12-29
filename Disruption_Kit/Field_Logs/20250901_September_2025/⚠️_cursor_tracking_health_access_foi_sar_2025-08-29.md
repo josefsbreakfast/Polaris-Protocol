@@ -1,7 +1,5 @@
 # ⚠️ Cursor Tracking, Health Access, FOI/SAR  
-
-**First created:** 2025-08-29 | **Last updated:** 2025-09-01
-
+**First created:** 2025-08-29 | **Last updated:** 2025-12-28  
 *Field log documenting anomalous cursor movements, device tracking, and parallel institutional access updates.*  
 
 ---
@@ -37,13 +35,11 @@
 
 ## 🏮 Footer  
 
-*Cursor Tracking, Health Access, FOI/SAR* is a living node of the Polaris Protocol.  
-It records how device-level anomalies intersect with health, communications, and information-access systems.  
-
-> 📡 Cross-references:  
-> - [Field Logs](../Field_Logs/) — dated forensic documentation and evidence trails  
-> - [Survivor Tools](../Survivor_Tools/) — countermeasures for device anomalies and access manipulations  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-01_  
+_Last updated: 2025-12-28_

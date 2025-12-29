@@ -1,5 +1,5 @@
 # 🎶 Endorser Network Traces  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-06  
+**First created:** 2025-09-27 | **Last updated:** 2025-12-27  
 *Observation log of foreword writers, blurbers, and endorsers tied to the book.*  
 
 ---
@@ -127,11 +127,12 @@ book endorsements, blurbs, forewords, reputation networks, solidarity mapping, r
 *🎶 Endorser Network Traces* is a living node of the Polaris Protocol.  
 It explores whether endorsement networks are themselves targets, and how suppression may radiate outward through reputational chilling.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🎶 Dedication Absences in Books](./🎶_dedication_absences_in_books.md) — *paratext as metadata*  
 > - [🎶 Containment by Review — JSTOR (2018)](./🎶_containment_by_review_jstor_2018.md) — *reviews as containment anchors*  
-> - [⚖️ Legal Hooks for Muted Books](./⚖️_legal_hooks_for_muted_books.md) — *mapping doctrines of reputational harm*  
+> - [⚖️ Legal Hooks for Muted Books](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md) — *mapping doctrines of reputational harm*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_  
+_Last updated: 2025-12-27_  

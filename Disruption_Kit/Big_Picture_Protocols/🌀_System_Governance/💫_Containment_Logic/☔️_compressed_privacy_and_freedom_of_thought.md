@@ -1,16 +1,16 @@
 # ☔️ Article 8 & 9 Breach Pathways — Privacy and Freedom of Thought in Compression  
-**First created:** 2025-10-13 | **Last updated:** 2025-10-20  
-*A rights-based stress-test tracing how ordinary “lawful processing” can cumulatively erode privacy (Art 8 ECHR) and freedom of thought (Art 9).*
+**First created:** 2025-10-13 | **Last updated:** 2025-12-27  
+*A rights-based stress-test tracing how ordinary “lawful processing” can cumulatively erode privacy (Art 8 ECHR) and freedom of thought (Art 9).*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node models how parallel UK frameworks—data protection, counter-terrorism, health research, and platform governance—can, through cumulative exceptions, create conditions that feel like cognitive or expressive constraint.  
 It is **conceptual**, not accusatory: a map for legal and ethical self-audit.
 
 ---
 
-## 🧩 Core Mechanism  
+## ✨ Core Mechanism  
 
 | Step | Legal anchor | Rights pressure point |
 |------|---------------|------------------------|
@@ -24,7 +24,7 @@ Each layer is defensible alone, but together they compress the lawful space for 
 
 ---
 
-## 🔍  Analysis  
+## 🧠  Analysis  
 
 1. **From Privacy → Prediction** – Continuous metadata fusion converts interior life into external signal.  
 2. **From Thought → Threat** – Emotional or ideological variance may be scored as risk.  
@@ -48,7 +48,7 @@ Under Strasbourg case-law (e.g., *S. and Marper v UK*), even proportionate data 
 
 ---
 
-## 🧱  Practical Implications  
+## 🐝  Practical Implications  
 - **For regulators:** require explicit “mental privacy” impact statements in AI or behavioural pilots.  
 - **For institutions:** separate welfare, research, and security data layers.  
 - **For citizens:** document patterns, use SARs, and seek ICO review when algorithmic inference alters treatment or access.  
@@ -71,11 +71,12 @@ It traces how lawful infrastructures can, through accumulation, reproduce the em
 
 > 📡 Cross-references:
 > 
-> - [🧱 Systemic Porosity] *TBC* — structural vulnerability map  
-> - [🧠 Multi-Lock Hypothetical] *TBC* — compound lawful layer model  
-> - [🧩 Hybrid Threat Overlay] *TBC* — external manipulation risk  
-> - [⚖️ Oversight Repair Kit] *TBC* — policy countermeasures  
+> - [🦠 Systemic Porosity](../👑_Ownership_Control/🦠_systemic_porosity.md) — *structural vulnerability map*  
+> - [🧠 Multi-Lock Hypothetical](./🧠_multilock_overlapping_covertion.md) — *compound lawful layer model*  
+> - [🦠 Hybrid Threat Overlay](../⚖️_Legal_State_Governance/🦠_hybrid_threat_overlay.md) — *external manipulation risk*  
+> - [🪡 Oversight Repair Kit](../👑_Ownership_Control/🪡_oversight_repair_kit.md) — *policy countermeasures*
+> - [🐍 Timeline of Capture — How Manufactured Vulnerability Matures into Enmeshment](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🐍_vulnerability_manufacture_to_enmeshment.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-12-27_

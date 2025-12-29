@@ -1,6 +1,6 @@
 # ☢️ The Empathy Project  
-**First created:** 2025-11-10  |  **Last updated:** 2025-11-12  
-*From Los Alamos to affective computing — how wartime freedom for odd minds became peacetime containment for the same impulses.*
+**First created:** 2025-11-10 | **Last updated:** 2025-12-27  
+*From Los Alamos to affective computing — how wartime freedom for odd minds became peacetime containment for the same impulses.*  
 
 ---
 
@@ -24,9 +24,7 @@ This node traces how the wartime licence to be strange hardened into peacetime c
 
 ---
 
-## 🧿 Analysis  
-
-### 1. Los Alamos — Sanctioned Madness  
+## 🏜️ Los Alamos — Sanctioned Madness  
 Groves’ genius was administrative empathy: he understood that brilliance needs insulation from bureaucracy.  
 He built Los Alamos as a paradox — military discipline outside, creative anarchy inside.  
 The physicists behaved like artists; the army treated them like hazardous material.  
@@ -34,7 +32,7 @@ This temporary bubble of permissiveness birthed the bomb — proof that *letting
 
 ---
 
-### 2. Leslie Groves and the Human Geometry of Command  
+## 🗺️ Leslie Groves and the Human Geometry of Command  
 Groves was no scientist; he was a logistical architect of human behaviour.  
 His achievement lay in balancing three ecosystems that rarely co-exist peacefully:  
 
@@ -52,7 +50,7 @@ Ethically, it remains a caution: his silo architecture protected a secret once; 
 
 ---
 
-### 3. Aftermath and Moral Fragmentation  
+## 🧠 Aftermath and Moral Fragmentation  
 When the mushroom cloud cleared, the psychological debris scattered across personalities:  
 - **Feynman** — repelled, seeking purity in smaller, funnier physics.  
 - **Oppenheimer** — mythic guilt; Faust with a clearance level.  
@@ -61,7 +59,7 @@ The state watched and learned: total freedom produces both innovation and trauma
 
 ---
 
-### 4. Reich and the Outlaw Line  
+## 🌦️ Reich and the Outlaw Line  
 While Los Alamos was protected, Reich’s orgone research was criminalised.  
 He was exploring energy, emotion, weather — the same liminal spaces of matter and feeling — but without military custody.  
 So the state discredited him through administrative law, not scientific debate.  
@@ -69,7 +67,7 @@ His prosecution marked the transfer of “life-energy research” from public cu
 
 ---
 
-### 5. Containment as Governance Model  
+## 🧃 Containment as Governance Model  
 Post-war research adopted the Manhattan template in reverse:  
 - tightly budgeted eccentricity;   
 - oversight committees in place of Groves’ intuition;   
@@ -78,7 +76,7 @@ Freedom became a controlled variable.
 
 ---
 
-### 6. Affective Computing as The New Los Alamos  
+## 🧪 Affective Computing as The New Los Alamos  
 Today’s empathy-AI labs are micro-Manhattan Projects — clusters of neuro-divergent brilliance under bureaucratic supervision.  
 They chase another invisible force: emotion as data.  
 Once again the state and its proxies want to *quantify the unquantifiable*; once again the guardians promise that the odd minds are safely managed.  
@@ -103,9 +101,10 @@ It examines how the freedom that birthed atomic science evolved into the control
 
 > 📡 Cross-references:
 > 
-> – 🧩 Algorithmic Conscience — *machines that enforce ethics through evidence*  
-> – ⚖️ The Teaching Hospital Loophole — *human-subject data capture and ethics laundering*  
+> - [📚 Library as Algorithmic Interface](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📚_library_as_algorithmic_interface.md)
+> - [🤖 Algorithmic Conscience](../📚_Narrative_Management/🤖_algorithmic_conscience.md) — *machines that enforce ethics through evidence*  
+> - [⚖️ The Teaching Hospital Loophole](../🧪_Development_Experimentation/⚖️_the_teaching_hospital_loophole.md) — *human-subject data capture and ethics laundering*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-27_

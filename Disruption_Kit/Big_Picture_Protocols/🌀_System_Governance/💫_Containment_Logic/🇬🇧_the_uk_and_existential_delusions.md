@@ -1,5 +1,5 @@
 # 🇬🇧 The UK and Existential Delusions  
-**First created:** 2025-12-17 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-17 | **Last updated:** 2025-12-29  
 *When states misclassify political difficulty as existential necessity, safeguards collapse.*  
 
 ---
@@ -108,10 +108,10 @@ It documents how misclassified threat perception distorts governance across doma
 
 > 📡 Cross-references:
 > 
-> - [Prison Deaths Look Bad at the ICJ] — *credibility erosion*  
-> - [Did the UK Learn from the Troubles?] — *continuity analysis*  
-> - [Ouroborotic Violence] — *self-reinforcing harm loops*  
+> - [💀 Prison Deaths Look Bad at the ICJ](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/💀_prison_deaths_look_bad_at_the_icj.md) — *credibility erosion*  
+> - [*Pending:* 🧿 Did the UK Learn from the Troubles?] — *continuity analysis*  
+> - [🐍 Ouroborotic Violence](../../🐍_Ouroborotic_Violence/README.md) — *self-reinforcing harm loops*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2025-12-29_

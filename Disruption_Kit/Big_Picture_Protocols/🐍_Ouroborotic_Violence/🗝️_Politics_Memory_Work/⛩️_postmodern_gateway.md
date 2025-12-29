@@ -1,5 +1,5 @@
-# 🚪 Postmodern Gateway  
-**First created:** 2025-09-29 | **Last updated:** 2025-10-18  
+# ⛩️ Postmodern Gateway  
+**First created:** 2025-09-29 | **Last updated:** 2025-12-27  
 *A threshold moment where society must decide whether to honour its stated principles or collapse into regression.*  
 
 ---
@@ -56,14 +56,15 @@ epistemic rupture, paradigm shift, crisis of modernity, postmodern gateway, hist
 
 ## 🏮 Footer  
 
-*Postmodern Gateway* is a living node of the Polaris Protocol.  
+*⛩️ Postmodern Gateway* is a living node of the Polaris Protocol.  
 It documents the idea that our present is not simply an era of knowledge change, but a threshold where society must decide whether to continue its stated principles or regress.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🗝️ Political Economy & Memory Work](./README.md) — *on memory, narrative suppression, and politicised identity*  
 > - [🌀 Systems & Governance](../../🌀_System_Governance/README.md) — *on oversight and authorisation chains*  
 > - [🔥 Suppression as Signal](./🔥_suppression_as_signal.md) — *on censorship and banned media as signals of systemic strain*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2025-12-27_  

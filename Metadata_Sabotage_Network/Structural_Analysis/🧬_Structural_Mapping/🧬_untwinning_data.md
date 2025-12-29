@@ -1,5 +1,5 @@
 # 🧬 Untwinning Data  
-**First created:** 2025-09-01 | **Last updated:** 2025-09-01  
+**First created:** 2025-09-01 | **Last updated:** 2025-12-29  
 *Countermeasures for breaking or weakening suppressive data twinning.*  
 
 ---
@@ -45,7 +45,12 @@ Instead of targeted suppression or hyper-personalised ads, you start seeing **ge
 
 - **Untwinning ≠ erasure.** Once linked, data usually persists. The aim is to make links unreliable, contested, and costly to act upon.  
 - Effectiveness increases when **multiple layers** are combined (technical + legal + social).  
-- **Survivor priority:** protect the ability to speak, organise, and move without disproportionate penalty.  
+- **Survivor priority:** protect the ability to speak, organise, and move without disproportionate penalty.
+
+---
+
+*Further reading:*  
+- [Government announces significant restrictions on data sharing between NHS and Home Office](https://www.ein.org.uk/news/government-announces-significant-restrictions-data-sharing-between-nhs-and-home-office), Electronic Immigration Network.    
 
 ---
 
@@ -61,4 +66,4 @@ It documents strategies to resist and dismantle suppressive record-linkages acro
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-01_  
+_Last updated: 2025-12-29_  

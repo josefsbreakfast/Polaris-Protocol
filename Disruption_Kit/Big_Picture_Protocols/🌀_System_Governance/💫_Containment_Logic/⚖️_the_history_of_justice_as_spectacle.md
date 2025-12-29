@@ -1,6 +1,6 @@
 # ⚖️ The History of Justice as Spectacle  
-**First created:** 2025-10-14 | **Last updated:** 2025-10-20  
-*On how punishment became performance and visibility a weapon of legitimacy.*
+**First created:** 2025-10-14 | **Last updated:** 2025-12-29  
+*On how punishment became performance and visibility a weapon of legitimacy.*  
 
 ---
 
@@ -41,10 +41,10 @@ It examines how the performance of justice sustains authority, and how spectacle
 
 > 📡 Cross-references:
 > 
-> - [🏙️ Industrial Layout Ghosts] — *built hierarchies of observation*  
-> - [🕸️ The Capacity of Cross-Linking] — *alternative models of visibility and meaning*  
-> - [📺 Money Talks Media](../..//🪄_Expression_Of_Norms/📺_Money_Talks_Media/README.md) — *media capture and narrative orchestration*  
+> - [🏙️ Industrial Layout Ghosts](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🏙️_industrial_layout_ghosts.md) — *built hierarchies of observation*  
+> - [*Pending:* 🕸️ The Capacity of Cross-Linking] — *alternative models of visibility and meaning*  
+> - [📺 Money Talks Media](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/README.md) — *media capture and narrative orchestration*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-12-29_

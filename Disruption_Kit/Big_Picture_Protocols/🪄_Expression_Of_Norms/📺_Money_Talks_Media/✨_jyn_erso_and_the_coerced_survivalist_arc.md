@@ -1,5 +1,5 @@
 # ✨ Jyn Erso and the Coerced Survivalist Arc  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
 *Why Jyn is the opposite of Kylo: not misclassified, but shaped by structural abandonment and survival coercion.*  
 
 ---
@@ -199,10 +199,10 @@ It serves as an emotional counterpoint to Kylo Ren, mapping the trauma pathway t
 
 > 📡 Cross-references:
 > 
-> - [🐈 Kylo Ren as Algorithmically Misclassified Softboy]  
-> - [💻 Why Tech Bros Were the Perfect Target]  
-> - [🧮 Environmental Grooming Ecosystems]  
+> - [🐈 Kylo Ren as Algorithmically Misclassified Softboy](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐈_kylo_ren_as_algorithmically_misclassified_softboy.md)  
+> - [🦆 Why Tech Bros Were Sitting Ducks](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦆_why_tech_bros_were_sitting_ducks.md)  
+> - [🧮 Environmental Grooming Ecosystems](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧮_environmental_grooming_ecosystems_1980s_2020s.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-26_

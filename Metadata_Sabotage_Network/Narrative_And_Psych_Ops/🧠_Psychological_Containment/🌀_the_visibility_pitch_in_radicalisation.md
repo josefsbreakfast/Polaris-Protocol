@@ -1,5 +1,5 @@
 # 🌀 The “Visibility Pitch” in Radicalisation  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
 *“You’re not invisible.” The universal emotional hook used by fascists, cults, manipulators, and grifters.*  
 
 ---
@@ -157,10 +157,10 @@ It supports deradicalisation efforts by identifying visibility hunger as the pri
 
 > 📡 Cross-references:
 > 
-> - [🧠 Fascism as Scaled Coercive Control]  
-> - [🪓 Charisma Is Just Coercion]  
-> - [🧮 Environmental Grooming Ecosystems]  
+> - [🧠 Fascism as Scaled Coercive Control](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_fascism_as_scaled_coercive_control.md)  
+> - [🧠 Charisma Is Just Coercion](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_charisma_as_coercion.md)  
+> - [🧮 Environmental Grooming Ecosystems](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧮_environmental_grooming_ecosystems_1980s_2020s.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-26_

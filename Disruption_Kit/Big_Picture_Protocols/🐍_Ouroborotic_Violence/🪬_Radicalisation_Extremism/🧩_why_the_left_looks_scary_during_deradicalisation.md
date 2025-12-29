@@ -1,5 +1,5 @@
 # 🧩 Why “The Left” Looks Scary During De-Radicalisation  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
 *Understanding why newly de-radicalising men often perceive left spaces as hostile, chaotic, or judgmental — and why this perception is an artefact of shame, not reality.*  
 <!--We are absolutely crackers over here, but there are decent people. The food is also pretty good.-->
 ---
@@ -255,14 +255,15 @@ The right just looks safe because it’s fake.
 ---
 
 ## 🏮 Footer  
-**Why the “Left” Looks Scary During De-Radicalisation** is a living node of the Polaris Protocol.  
+*🧩 Why the “Left” Looks Scary During De-Radicalisation* is a living node of the Polaris Protocol.  
 It clarifies the psychological reasons de-radicalising men misread left spaces and offers emotional translation tools for safely integrating into community.
 
 > 📡 Cross-references:  
-> - [🧠 Vulnerability Stack of Lonely Men]  
-> - [💗 Soft Boy Restoration Protocol]  
-> - [🛡️ Why Fascism Fears Softness]
+> 
+> - [🧠 The Cognitive Vulnerability Stack of Lonely Men](./🧠_the_cognitive_vulnerability_stack_of_lonely_men.md)  
+> - [🍑 Soft Boy Restoration Protocol](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍑_the_soft_boy_restoration_protocol.md)  
+> - [🛡️ Why Fascism Fears Softness](../🗝️_Politics_Memory_Work/🛡️_why_fascism_fears_softness.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-15_
+_Last updated: 2025-12-26_

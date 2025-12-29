@@ -1,5 +1,5 @@
 # ⭕️ Erosion of Legitimacy Loops  
-**First created:** 2025‑11‑02 | **Last updated:** 2025-12-09  
+**First created:** 2025‑11‑02 | **Last updated:** 2025-12-29  
 *How scandal feedback becomes a system of governance.*  
 
 ---
@@ -111,12 +111,12 @@ trust decay, legitimacy erosion, scandal feedback, governance psychology, politi
 
 > 📡 Cross‑references:  
 > 
-> - [🧩 accountability_failures_and_public_trust.md] — *emotional fatigue link*  
-> - [🕳️ social_memory_of_impunity.md] — *repetition as memory*  
-> - [🧱 trickle_down_impunity.md] — *behavioural contagion*  
-> - [🪶 tea_toast_and_transparency.md] — *inquiry satire*  
-> - [📗 legitimacy_restoration_index.md] — *policy metric*  
+> - [*Pending:* 🧩 accountability_failures_and_public_trust.md] — *emotional fatigue link*  
+> - [🕳️ Social Memory of Impunity — When Cover-Ups Become Cultural Reflex](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🕳️_social_memory_of_impunity.md) — *repetition as memory*  
+> - [*Pending:* 🧱 trickle_down_impunity.md] — *behavioural contagion*  
+> - [*Pending:* 🪶 tea_toast_and_transparency.md] — *inquiry satire*  
+> - [*Pending:* 📗 legitimacy_restoration_index.md] — *policy metric*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2025-12-29_

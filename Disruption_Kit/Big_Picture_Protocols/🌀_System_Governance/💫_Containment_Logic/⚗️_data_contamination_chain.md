@@ -1,6 +1,6 @@
 # ⚗️ Data Contamination Chain  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-12  
-*How one early misclassification of personal data mutates into systemic reuse and long-term dataset contamination.*
+**First created:** 2025-11-07 | **Last updated:** 2025-12-29  
+*How one early misclassification of personal data mutates into systemic reuse and long-term dataset contamination.*  
 
 ---
 
@@ -113,10 +113,10 @@ It documents how an initial data-classification error can propagate through inst
 
 > 📡 Cross-references:
 > 
-> - 🕸️ Voice Lineage and Dataset Chain — *tracing multi-entity reuse of voice data*  
+> - [🕸️ Voice Lineage and Dataset Chain](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🕸️_voice_lineage_and_dataset_chain.md) — *tracing multi-entity reuse of voice data*  
 > - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *analysis of layered contractual opacity*  
-> - 🗣️ How to Detect if Your Voice Has Been Used in a Dataset — *forensic detection and SAR templates*  
+> - [🗣️ How to Detect if Your Voice Has Been Used in a Dataset](../../../Survivor_Tools/📱_Digital_But_Make_It_Secure/🗣️_how_to_detect_if_your_voice_has_been_used_in_a_dataset.md) — *forensic detection and SAR templates*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-29_

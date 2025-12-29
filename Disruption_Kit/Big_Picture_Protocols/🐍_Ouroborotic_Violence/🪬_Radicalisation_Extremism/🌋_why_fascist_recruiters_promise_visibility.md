@@ -1,6 +1,6 @@
 # 🌋 Why Fascist Recruiters Promise Visibility (“We See You”)  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-07  
-*Breaking down the weaponised emotional script behind “You are not invisible” — the foundational spell of every authoritarian pipeline.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
+*Breaking down the weaponised emotional script behind “You are not invisible” — the foundational spell of every authoritarian pipeline.*  
 
 ---
 
@@ -225,10 +225,10 @@ It frames visibility as an essential emotional nutrient manipulated by authorita
 
 > 📡 Cross-references:
 > 
-> - [🌀 The Visibility Pitch in Radicalisation]  
-> - [🧨 The PUA-to-Fascist Pipeline]  
-> - [💻 Why Tech Bros Were the Perfect Target]  
+> - [🌀 The Visibility Pitch in Radicalisation](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_the_visibility_pitch_in_radicalisation.md)  
+> - [🧨 The PUA-to-Fascist Pipeline](./🧨_the_pua_to_fascist_pipeline.md)  
+> - [🦆 Why Tech Bros Were Sitting Ducks](./🦆_why_tech_bros_were_sitting_ducks.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-26_

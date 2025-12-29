@@ -1,6 +1,6 @@
 # 🌀 When System Behaviour Stops Making Sense: Cognitive Dissonance in Drift  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-07  
-*The eerie psychological, bureaucratic, and political moment when institutions begin behaving irrationally, inconsistently, or self-defeatingly — and why this is one of the most reliable indicators of authoritarian drift.*
+**First created:** 2025-11-19 | **Last updated:** 2025-12-29  
+*The eerie psychological, bureaucratic, and political moment when institutions begin behaving irrationally, inconsistently, or self-defeatingly — and why this is one of the most reliable indicators of authoritarian drift.*  
 
 ---
 
@@ -180,10 +180,16 @@ Your clarity is not a liability — it is insight.
 *🌀 When System Behaviour Stops Making Sense: Cognitive Dissonance in Drift* is part of Polaris’ Democratic Drift Phenomenology cluster.  
 It validates the uncanny recognition that institutions are no longer behaving rationally, and reframes that recognition as a form of structural intelligence rather than personal anxiety.
 
-Crosslinks:  
-- 🚫 *when_no_one_steps_in*  
-- ⚡ *why_some_people_become_systemic_lightning_rods*  
-- 🗂️ *when_institutions_start_treating_you_as_a_category_not_a_person*  
-- 🧭 *how_authoritarian_drift_feels_from_the_inside*
 
-_Last updated: 2025-12-07_
+> 📡 Cross-references:
+> 
+> - [🧩 The Recognition Event: When You Realise You’re Not Imagining It](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_the_recognition_event.md)  
+- [*Pending:* 🚫 when_no_one_steps_in]  
+- [⚡ Why Some People Become Systemic Lightning Rods](../../🦕_Elder_Influencers/🕊️_Just_Boxes/⚡_why_some_people_become_systemic_lightning_rods.md)  
+- [🗂️ When Institutions Start Treating You as a Category, Not a Person](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗂️_when_institutions_start_treating_you_as_a_category_not_a_person.md)  
+- [🧭 How Authoritarian Drift Feels From the Inside](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_how_authoritarian_drift_feels_from_the_inside.md)  
+- [🧠 The Continuum of Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-29_

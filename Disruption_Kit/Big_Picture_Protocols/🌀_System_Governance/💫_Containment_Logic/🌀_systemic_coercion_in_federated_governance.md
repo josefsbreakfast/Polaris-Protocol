@@ -1,5 +1,5 @@
 # 🌀 Systemic Coercion in Federated Governance  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-17 | **Last updated:** 2025-12-29  
 *How federated public systems generate coercive behaviours without intent.*  
 
 ---
@@ -49,9 +49,11 @@ It documents how structural design produces coercive outcomes even in the absenc
 
 > 📡 Cross-references:
 > 
-> - [🧼 System_Leakage_Signatures] — emergent instability  
-> - [📚 Narrative_Management] — opacity + silence patterns  
+> - [🌀 Reverse Colonisation Timeline: Metadata and Outsourcing](../🛰️_Infrastructure_Procurement/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)  
+> - [🧭 UK Tech Talent, Scaling, and Policy Timeline](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧭_uk_tech_talent_scaling_policy_timeline.md)
+> - [*Pending:* 💋 Surveillance as the New Pimp]
+> - [🧬 Untwinning Data](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_untwinning_data.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-29_

@@ -1,5 +1,5 @@
 # 🎩 The Sorting Hat as Proto-Algorithmic Misclassification  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-08  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
 *How a children’s fantasy device accidentally modelled the dangers of early algorithmic identity assignment.*  
 
 ---
@@ -189,12 +189,13 @@ Not destiny assignments.
 *🎩 The Sorting Hat as Proto-Algorithmic Misclassification* is a living node of the Polaris Protocol.  
 It reframes a familiar cultural object as a prototype for modern algorithmic harms and the narratives that encourage young people to accept externally imposed identities.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
 > 
-> - [🐈 Kylo Ren as Algorithmically Misclassified Softboy]  
-> - [✨ Jyn Erso and the Coerced Survivalist Arc]  
-> - [🧨 The PUA-to-Fascist Pipeline]  
+> - [🐈 Kylo Ren as Algorithmically Misclassified Softboy](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐈_kylo_ren_as_algorithmically_misclassified_softboy.md)  
+> - [✨ Jyn Erso and the Coerced Survivalist Arc](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/✨_jyn_erso_and_the_coerced_survivalist_arc.md)  
+> - [🧨 The PUA-to-Fascist Pipeline](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_the_pua_to_fascist_pipeline.md)  
+> - [🪪 Algorithmic Mislabeling & Identity Collapse](./🪪_algorithmic_mislabeling_and_identity_collapse.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-08_
+_Last updated: 2025-12-26_

@@ -1,6 +1,6 @@
 # 🌀 Ambiguity as Containment  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
-*Rules written so vaguely that survivors are trapped in a bureaucratic fog — uncertainty becomes the cage.*
+**First created:** 2025-09-14 | **Last updated:** 2025-12-29  
+*Rules written so vaguely that survivors are trapped in a bureaucratic fog — uncertainty becomes the cage.*  
 
 ---
 
@@ -72,7 +72,9 @@ It maps how vague rules and unclear expectations create strategic fog that preve
 > 📡 Cross-references:
 > 
 > - [🌀 Systems & Governance](../README.md)
+> - [🪞 Audience Ambiguity and the Black Goat Problem](../../../../👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪹_Network_Ghosts/🪞_audience_ambiguity_and_the_black_goat_problem.md)
+> - [🧩 Ambiguity Tolerance And First-Mover Dynamics](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧩_ambiguity_tolerance_and_first_mover_dynamics.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2025-12-29_

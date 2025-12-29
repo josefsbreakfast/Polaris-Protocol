@@ -1,6 +1,6 @@
 # 🌀 Behavioural Containment — When Governance Becomes Psychology  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-12  
-*When systems explain dissent as disorder.*
+**First created:** 2025-11-11 | **Last updated:** 2025-12-29  
+*When systems explain dissent as disorder.*  
 
 ---
 
@@ -97,11 +97,13 @@ behavioural containment, psychologisation, governance psychology, survivor credi
 *🌀 Behavioural Containment — When Governance Becomes Psychology* is a living node of the Polaris Protocol.  
 It maps how systems use mental health framing to convert legitimate structural critique into manageable affect — and how to restore epistemic balance.
 
-> 📡 Cross-references:  
-> - 🤝 Polite Containment — How Civility Becomes a Control Mechanism  
-> - 🎭 Reputation as Governance — How Institutions Script Their Own Credibility  
-> - 💣 Syntactic Drift and Clone Theatre  
+> 📡 Cross-references:
+> 
+> - [🤝 Polite Containment — How Civility Becomes a Control Mechanism](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤝_polite_containment.md)  
+> - [🎭 Reputation as Governance — How Institutions Script Their Own Credibility](../📚_Narrative_Management/🎭_reputation_as_governance.md)  
+> - [💣 Syntactic Drift and Clone Tone](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💣_syntactic_drift_and_clone_tone.md)
+> - [🧬 Twinning as Reputation Repair](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_twinning_as_reputation_repair.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-29_

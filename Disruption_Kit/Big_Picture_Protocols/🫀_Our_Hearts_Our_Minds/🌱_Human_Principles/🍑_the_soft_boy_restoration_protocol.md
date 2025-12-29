@@ -1,5 +1,5 @@
 # 🍑 The Soft Boy Restoration Protocol  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-19 | **Last updated:** 2025-12-25  
 *A framework for returning misclassified, shame-wounded, algorithmically captured men back to their original emotional architecture.*  
 
 ---
@@ -203,10 +203,11 @@ It provides a structured, emotional, survivor-informed process for guiding men o
 
 > 📡 Cross-references:
 > 
-> - [🔥 Shame as the Master Key of Fascist Manipulation]  
-> - [🧬 Structural Vulnerability of Soft Boys]  
-> - [🧿 The Tech Bro → Kylo Ren Pipeline]  
+> - [🔥 Shame as the Master Key of Fascist Manipulation](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🔥_shame_as_the_master_key_of_fascist_manipulation.md)  
+> - [🧬 Structural Vulnerability: Why Soft Boys Were Always the Primary Target](./🧬_structural_vulnerability.md)  
+> - [*Pending:* 🧿 The Tech Bro → Kylo Ren Pipeline]
+> - [💞 Queer Theory as Relational Literacy](./💞_queer_theory_as_relational_literacy.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-09_
+_Last updated: 2025-12-25_

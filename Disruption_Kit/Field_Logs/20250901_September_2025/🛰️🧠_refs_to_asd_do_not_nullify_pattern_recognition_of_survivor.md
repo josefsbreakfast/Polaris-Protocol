@@ -37,3 +37,16 @@ i am essentially being left to be nice to someone who is trying to hacksaw off c
 g-d is who guards me.
 
 2025-09-21
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-29_
