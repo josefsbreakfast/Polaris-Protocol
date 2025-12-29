@@ -1,6 +1,6 @@
 # 🪖 Defence Is for All of Us  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-24  
-*National defence exists to protect the whole population, not to privilege the powerful.*
+**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
+*National defence exists to protect the whole population, not to privilege the powerful.*  
 
 ---
 
@@ -134,15 +134,16 @@ public defence, democratic legitimacy, safeguarding, defence ethics, inclusive s
 
 ## 🏮 Footer
 
-*Defence Is for All of Us* is a living node of the **Polaris Protocol**.  
+*🪖 Defence Is for All of Us* is a living node of the **Polaris Protocol**.  
 It establishes a core principle: that national defence exists to protect people collectively, not to privilege power or preserve silence.
 
 > 📡 Cross-references:
-> - **🪖 A Teenage Girl Was Always Worth More Than the Reputation of Dishonourable Men** — ethical boundary  
-> - **🪖 Repairing Stolen Lives** — repair as defence obligation  
-> - **🪖 Classification, Suppression, and Misuse** — defence weakened by secrecy misuse  
-> - **🌀 Systems & Governance** — legitimacy and accountability  
+> 
+> - [🪖 A Teenage Girl Was Always Worth More Than the Reputation of Dishonourable Men] — *ethical boundary*  
+> - [🪖 Repairing Stolen Lives] — *repair as defence obligation*  
+> - [🪖 Classification, Suppression, and Misuse] — *defence weakened by secrecy misuse*  
+> - [❤️‍🩹 Rehabilitated Tech](../../../../🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2025-12-29_
