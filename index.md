@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 14:47:34 UTC_
+_Generated on 2025-12-29 14:48:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -357,6 +357,7 @@ _Generated on 2025-12-29 14:47:34 UTC_
         - [`🚨_crisis_mode_behaviours_institutional_fight_flight_fawn_freeze.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🚨_crisis_mode_behaviours_institutional_fight_flight_fawn_freeze.md)
         - [`🛂_public_legal_illiteracy_as_an_attack_surface_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛂_public_legal_illiteracy_as_an_attack_surface_uk.md)
         - [`🛡️_epistemic_exhaustion_as_an_attack_surface.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛡️_epistemic_exhaustion_as_an_attack_surface.md)
+        - [`🛡️_securitisation_and_fragile_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛡️_securitisation_and_fragile_governance.md)
         - [`🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
         - [`🛰️_disappearing_public_surgery.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_disappearing_public_surgery.md)
@@ -4015,7 +4016,6 @@ _Generated on 2025-12-29 14:47:34 UTC_
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
     - [`🚜_rural_policing_as_electoral_stress_test.md`](Polaris_Nest/Git_Intake_Drawer/🚜_rural_policing_as_electoral_stress_test.md)
     - [`🚩_angleland_ahoy_mk_ii.md`](Polaris_Nest/Git_Intake_Drawer/🚩_angleland_ahoy_mk_ii.md)
-    - [`🛡️_securitisation_and_fragile_governance.md`](Polaris_Nest/Git_Intake_Drawer/🛡️_securitisation_and_fragile_governance.md)
     - [`🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md`](Polaris_Nest/Git_Intake_Drawer/🛰_counter_terrorism_turn_from_behavioural_policing_to_data_epistemology_SKELETON.md)
     - [`🛰️_crash_constellation_overview.md`](Polaris_Nest/Git_Intake_Drawer/🛰️_crash_constellation_overview.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv`](Polaris_Nest/Git_Intake_Drawer/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_next_actions_merged.csv)
