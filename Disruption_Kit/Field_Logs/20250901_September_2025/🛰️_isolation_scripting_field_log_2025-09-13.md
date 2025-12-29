@@ -1,5 +1,5 @@
 # 🛰️ Isolation Scripting Field Log — 2025-09-13  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-13 | **Last updated:** 2025-12-29  
 *Field evidence of manufactured solitude and network fragmentation used as containment.*  
 
 ---
@@ -7,7 +7,7 @@
 ## 🧾 Summary  
 
 This log captures **documented instances of isolation scripting** — withheld communication, simultaneous silences, or systemic removal from contact networks.  
-It operates as the evidentiary counterpart to the analytic node [🚪 Isolation Scripting](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚪_isolation_scripting_2025-09-13.md).  
+It operates as the evidentiary counterpart to the analytic node [🚪 Isolation Scripting] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚪_isolation_scripting_2025-09-13.md`.  
 
 Isolation scripting transforms natural pauses in communication into engineered solitude, eroding support networks and normalising abandonment.  
 
@@ -35,9 +35,9 @@ Isolation scripting transforms natural pauses in communication into engineered s
 
 ## 🔍 Correlation Pointers  
 
-- Compare with [🫂 Intimacy Gatekeeping](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md) — rationed closeness.  
-- Cross-reference [💔 Weaponised Empathy Gaps](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps_2025-09-13.md) — selective empathy withdrawal.  
-- Align timestamps with [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) for technical overlap.  
+- Compare with [🫂 Intimacy Gatekeeping] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md` — rationed closeness.  
+- Cross-reference [💔 Weaponised Empathy Gaps] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps_2025-09-13.md` — selective empathy withdrawal.  
+- Align timestamps with [📉 Suppression Interference Logs] `../../📉_Suppression_Interference_Logs.md` for technical overlap.  
 
 ---
 
@@ -56,16 +56,11 @@ isolation scripting, network sabotage, withheld communication, social containmen
 
 ## 🏮 Footer  
 
-*🛰️ Isolation Scripting Field Log — 2025-09-13* is a living node of the Polaris Protocol.  
-It records real-world manifestations of engineered solitude and contact withdrawal, paired with the analytic framework [🚪 Isolation Scripting](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚪_isolation_scripting_2025-09-13.md).  
-
-> 📡 Cross-references:  
-> - [🚪 Isolation Scripting](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚪_isolation_scripting_2025-09-13.md) — analytic framework  
-> - [🫂 Intimacy Gatekeeping](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md) — rationed connection  
-> - [💔 Weaponised Empathy Gaps](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps_2025-09-13.md) — selective care withdrawal  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — corresponding visibility loss  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — logging conventions  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-29_
