@@ -13,3 +13,16 @@ i have been in burnout for almost a decade.
 i'm ready to use some of that annual leave accrual.  
 
 2025-10-26  
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-29_
