@@ -51,3 +51,16 @@ None of them spend the entirity of their own degrees on /pol/ instead of actuall
 (What can I say? Think before rickrolling a rickroller? The tactics don't work when I also see the joke, do they?)
 
 2025-10-04
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-29_
