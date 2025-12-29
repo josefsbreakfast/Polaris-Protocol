@@ -1,6 +1,6 @@
 # ⚡ Tempo Differential — When Recognition Lags Behind Perception  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-28  
-*Different speeds of healing and cognition.*
+**First created:** 2025-10-23 | **Last updated:** 2025-12-29  
+*Different speeds of healing and cognition.*  
 
 ---
 
@@ -50,10 +50,9 @@ It analyses the mismatch of institutional and survivor tempos, outlining how awa
 
 > 📡 Cross-references:
 > 
-> – [💫 Containment Logic Index](./README.md) — analyses of delay, pacing, and bureaucratic tempo  
-> – [⚡ Escalation Triggers — When HR Fails and Oversight Must Act](./⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md) — threshold mechanics in procedural response  
-  
+> - [💫 Containment Logic Index](./README.md) — *analyses of delay, pacing, and bureaucratic tempo*  
+> - [⚡ Escalation Triggers — When HR Fails and Oversight Must Act](./⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md) — *threshold mechanics in procedural response*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-28_
+_Last updated: 2025-12-29_
