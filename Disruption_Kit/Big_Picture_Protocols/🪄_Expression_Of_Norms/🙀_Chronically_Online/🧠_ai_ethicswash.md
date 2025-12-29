@@ -1,5 +1,5 @@
 # 🧠 AI Ethicswash  
-**First created:** 2025-11-03 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-03 | **Last updated:** 2025-12-29  
 *How “ethical AI” rhetoric launders reputations and conceals extraction.*  
 
 ---
@@ -45,9 +45,12 @@ It traces how “responsibility” language can serve as camouflage for extracti
 
 > 📡 Cross‑references:
 > 
-> - [🧿 Private Eye Bounces Back]  — humour as counter‑forensics  
-> - [🪄 Expression of Norms] — systemic analyses of behavioural governance  
+> - [🧿 Private Eye Bounces Back](../../../../🦆_Digital_Disruption/🐘_Reply_All/🧿_private_eye_bounces_back.md) — *humour as counter‑forensics*
+> - [🤖 The Robot Didn’t Know You Meant “Don’t Burn the House Down”](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🤖_the_robot_didnt_know_you_meant_dont_burn_the_house_down.md)  
+> - [🧿 Against Pseudoanthropy](../../../../Containment_Studies/🪐_Meta_Containment/🧿_against_pseudoanthropy.md)
+> - [👾 What Robots Did to Words](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/👾_what_robots_did_to_words.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_  
+_Last updated: 2025-12-29_  
