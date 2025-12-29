@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 14:27:54 UTC_
+_Generated on 2025-12-29 14:32:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -306,6 +306,7 @@ _Generated on 2025-12-29 14:27:54 UTC_
         - [`🏚️_cultural_drift_toward_coercive_logic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_cultural_drift_toward_coercive_logic.md)
         - [`🏚️_seven_layers_of_safeguard_breakdown.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_seven_layers_of_safeguard_breakdown.md)
         - [`🏛️_institutional_posture_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_institutional_posture_collapse.md)
+        - [`🏛️_state_drift_and_crisis_adoption.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_state_drift_and_crisis_adoption.md)
         - [`🏛️_the_boringing_uk_2010_2025.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_the_boringing_uk_2010_2025.md)
         - [`🏛️_yet_another_commission_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_yet_another_commission_as_containment.md)
         - [`🐢_behavioural_proxies_all_the_way_down.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🐢_behavioural_proxies_all_the_way_down.md)
@@ -3976,7 +3977,6 @@ _Generated on 2025-12-29 14:27:54 UTC_
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
-    - [`🏛️_state_drift_and_crisis_adoption.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_state_drift_and_crisis_adoption.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
     - [`🐎_hunting_law_ritual_settlement.md`](Polaris_Nest/Git_Intake_Drawer/🐎_hunting_law_ritual_settlement.md)
     - [`🐎_ritual_catharsis.md`](Polaris_Nest/Git_Intake_Drawer/🐎_ritual_catharsis.md)
