@@ -1,6 +1,6 @@
-# 🧩 Ambiguity tolerance and first-mover dynamics  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*Why the least ambiguity-tolerant actor breaks silence first.*
+# 🧩 Ambiguity Tolerance And First-Mover Dynamics  
+**First created:** 2025-12-14 | **Last updated:** 2025-12-29  
+*Why the least ambiguity-tolerant actor breaks silence first.*  
 
 ---
 
@@ -87,7 +87,7 @@ ambiguity tolerance, first mover dynamics, reputational risk, network scrutiny, 
 
 ## 🏮 Footer  
 
-*Ambiguity tolerance and first-mover dynamics* is a living node of the **Polaris Protocol**.  
+*🧩 Ambiguity Tolerance And First-Mover Dynamics* is a living node of the **Polaris Protocol**.  
 It documents how differential risk thresholds cause one actor to break silence first, destabilising collective non-response.
 
 > 📡 Cross-references:
@@ -97,4 +97,4 @@ It documents how differential risk thresholds cause one actor to break silence f
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2025-12-29_
