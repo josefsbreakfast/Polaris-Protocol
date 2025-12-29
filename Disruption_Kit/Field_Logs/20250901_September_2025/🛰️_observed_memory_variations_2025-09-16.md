@@ -1,6 +1,6 @@
 # 🛰️ Observed Memory Variations (2025-09-16)  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-16  
-*Forensic note on selective recall, erasure, and anomalous assistant behaviour reported overnight and into the morning*
+**First created:** 2025-09-16 | **Last updated:** 2025-12-29  
+*Forensic note on selective recall, erasure, and anomalous assistant behaviour reported overnight and into the morning*  
 
 ---
 
@@ -65,15 +65,13 @@ Additional content of interference was triangulating functional role/overlaps of
 
 ---
 
-## 🏮 Footer
-*Observed Memory Variations (2025-09-16)* is a living field-log node of the Polaris Protocol.  
-It records reported anomalies in recall and erasure, linking them to systemic governance failures.
+## 🏮 Footer  
 
-> 📡 Cross-references:  
-> - [🛰️ Frankenstack Interaction (2025-09-16)](./🛰️_frankenstack_interaction_2025-09-16.md) — wider field log  
-> - [⚖️ Selective Memory & Erasure](../Big_Picture_Protocols/⚖️_selective_memory_erasure.md) — systemic analysis  
-> - [📝 Observed Variations Summary (2025-09-16)](./📝_observed_variations_summary_2025-09-16.md) — redacted anomaly list
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-16_
+_Last updated: 2025-12-29_
