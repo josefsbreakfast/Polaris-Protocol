@@ -65,3 +65,16 @@ If a girl is beating you?
 That is your own fault.  
 
 So pick up the pace, stop whining, and keep up.  
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-29_
