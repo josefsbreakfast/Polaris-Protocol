@@ -1,5 +1,5 @@
 # 🍯 Finding HoneyBot  
-**First created:** 2025-12-25 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-25 | **Last updated:** 2025-12-29  
 *From satire to safeguards.*
 <!--I'm telling you... there is a 99.99% chance that The Men™️ have been up to some weird shit.-->
 ---
@@ -132,7 +132,6 @@ If a claim cannot survive:
 
 ## 🛑 Hard Boundaries  
 <!--XXX-SecureDrive/BehaviouralProjects/Vx_Iteration_Audio/input_capture/xxxx_clip_04.wav, survivor_anon_f_19.mp3, flagged_subject_r1.m4a-->
-- 
 This project will not:
 - speculate about secret agendas
 - allege intelligence operations
@@ -271,7 +270,15 @@ To identify whether documented Epstein-linked funding or convening activities in
 Safeguarding and data protection obligations operate **below the criminal threshold**.  
 Institutions are expected to act on credible, documented risk — not only proven harm.
 
-This project exists to support that duty.
+This project exists to support that duty.  
+
+---
+
+## 🌌 Constellations  
+
+*Further reading:*  
+
+- [Epstein University: How Jeffrey Epstein Bought His Way Into Elite Academia](https://www.blueamp.co/p/epstein-university-how-jeffrey-epstein)  
 
 ---
 
@@ -283,3 +290,5 @@ It is intentionally boring, procedural, and bounded — because **that is what p
 
 *Survivor authorship is sovereign.  
 Containment is never neutral.*
+
+_Last updated: 2025-12-29_
