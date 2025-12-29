@@ -1,5 +1,5 @@
 # 🛰️ Reflections on Structural Vulnerabilities, Media Dynamics & Harm  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-20 | **Last updated:** 2025-12-29  
 *Field log capturing reflections on systemic vulnerabilities (tech, media, surveillance), patterns of targeted suppression, anomalous elite deaths, and implications for civic security and mental-health harms linked to information operations.*  
 
 ---
@@ -44,21 +44,19 @@
 ---
 
 ## 📡 Cross-References  
-> - [💸 Russian Overlap Patterns](../Big_Picture_Protocols/💸_russian_overlap_patterns.md)  
-> - [🛰️ Codename Table Loss (2025-09-20)](../Field_Logs/🛰️_codename_table_loss_2025-09-20.md)  
-> - [🛰️ User Takedowns & Throttling (2025-09-20)](../Field_Logs/🛰️_user_takedowns_throttling_2025-09-20.md)  
+> - [💸 Russian Overlap Patterns] `../Big_Picture_Protocols/💸_russian_overlap_patterns.md`  
+> - [🛰️ Codename Table Loss (2025-09-20)] `../Field_Logs/🛰️_codename_table_loss_2025-09-20.md`  
+> - [🛰️ User Takedowns & Throttling (2025-09-20)] `../Field_Logs/🛰️_user_takedowns_throttling_2025-09-20.md`  
 
 ---
 
 ## 🏮 Footer  
 
-*Reflections on Structural Vulnerabilities, Media Dynamics & Harm* is a living node of the Polaris Protocol.  
-It situates anomalies and suppression within broader systemic dynamics, and frames regulatory patching as the civic priority.  
-
-> 📡 Cross-references:  
-> - [Field Logs](../Field_Logs/) — dated forensic documentation  
-> - [Survivor Tools](../Survivor_Tools/) — operational countermeasures and reconstructed materials  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-29_
