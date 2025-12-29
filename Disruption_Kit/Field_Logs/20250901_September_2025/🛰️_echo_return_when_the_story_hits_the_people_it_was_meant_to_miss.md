@@ -1,7 +1,5 @@
 # 🛰️ Echo Return: When the Story Hits the People It Was Meant to Miss  
-
-**First created:** 2025-09-01 | **Last updated:** 2025-09-01 
-
+**First created:** 2025-09-01 | **Last updated:** 2025-12-29  
 *Containment breaches marked by resurfacing contacts and narrative leaks.*  
 
 ---
@@ -55,14 +53,11 @@ Confirms a live resonance breach: the story has crossed its engineered perimeter
 
 ## 🏮 Footer  
 
-*Echo Return: When the Story Hits the People It Was Meant to Miss* is a living node of the Polaris Protocol.  
-It documents moments when narrative suppression fails and content re-enters the awareness of actors previously excluded from its reach.  
-
-> 📡 Cross-references:  
-> - [Containment Scripts](../Containment_Scripts/) — methods of suppression and their breaches  
-> - [Field Logs](../Field_Logs/) — dated forensic documentation of anomalies  
-> - [Survivor Tools](../Survivor_Tools/) — countermeasures for unexpected resurfacing and narrative leaks  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-01_  
+_Last updated: 2025-12-29_
