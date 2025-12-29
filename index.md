@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 14:50:40 UTC_
+_Generated on 2025-12-29 14:55:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -377,6 +377,7 @@ _Generated on 2025-12-29 14:50:40 UTC_
         - [`🧠_cognitive_feedback_and_bureaucratic_amplification.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_cognitive_feedback_and_bureaucratic_amplification.md)
         - [`🧠_cross_silo_reflex_mismatch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_cross_silo_reflex_mismatch.md)
         - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_didnt_apply_brain_loop.md)
+        - [`🧠_epistemic_asymmetry_in_security_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_epistemic_asymmetry_in_security_systems.md)
         - [`🧠_hypervigilance_as_governance_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_hypervigilance_as_governance_failure.md)
         - [`🧠_ideology_without_conspiracy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_ideology_without_conspiracy.md)
         - [`🧠_institutional_weather_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_institutional_weather_systems.md)
@@ -4031,7 +4032,6 @@ _Generated on 2025-12-29 14:50:40 UTC_
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
-    - [`🧠_epistemic_asymmetry_in_security_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧠_epistemic_asymmetry_in_security_systems.md)
     - [`🧠_unfulfilled_first_brain.md`](Polaris_Nest/Git_Intake_Drawer/🧠_unfulfilled_first_brain.md)
     - [`🧨_cyber_insecurity_and_friction_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧨_cyber_insecurity_and_friction_systems.md)
     - [`🧨_institutional_gaslighting.md`](Polaris_Nest/Git_Intake_Drawer/🧨_institutional_gaslighting.md)
