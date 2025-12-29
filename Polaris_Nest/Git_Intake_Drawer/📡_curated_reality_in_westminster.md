@@ -1,5 +1,8 @@
 # 📡 Curated Reality in Westminster  
-*How policy comes to see the world*
+**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+*How policy comes to see the world.*  
+
+---
 
 ## Summary
 
@@ -183,3 +186,7 @@ This node links directly to:
 ## One-line takeaway
 
 > When governance is driven by curated feeds rather than contestable reality, power shifts toward those who control what is seen, prioritised, and ignored.
+
+---
+
+_Last updated: 2025-12-29_
