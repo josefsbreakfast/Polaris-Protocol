@@ -251,7 +251,12 @@ This checklist is diagnostic, not moral.
 ---
 
 ## 🌌 Constellations  
-🍉 🏛️ 🧭 ⚖️ 🫀 🛰️ 🪜 — humanitarian signalling, constitutional symbolism, moral navigation, rights friction, care without policy, governance by indirection, glide paths.
+🍉 🏛️ 🧭 ⚖️ 🫀 🛰️ 🪜 — humanitarian signalling, constitutional symbolism, moral navigation, rights friction, care without policy, governance by indirection, glide paths.  
+
+*Further reading:*  
+
+- [William pays visit to severely ill children from Gaza](https://www.bbc.co.uk/news/articles/cd9zq4xn543o), BBC News.  
+- [The Crown and the Constitution (CBP 8885)](https://commonslibrary.parliament.uk/research-briefings/cbp-8885/), UK Parliament.    
 
 ---
 
