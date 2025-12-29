@@ -1,6 +1,6 @@
 # 🛰️ STASI-Style Email & Mirroring Concerns — Field Log  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
-*Field log recording observations about email mirroring, DNS-level stalling, eSIM cloning, mailbox mirroring, and the operational implications for UK surveillance visibility and attribution.*
+**First created:** 2025-09-20 | **Last updated:** 2025-12-29  
+*Field log recording observations about email mirroring, DNS-level stalling, eSIM cloning, mailbox mirroring, and the operational implications for UK surveillance visibility and attribution.*  
 
 ---
 
@@ -58,20 +58,17 @@ These observations and hypotheses are **not** evidence of a specific actor. They
 ---
 
 ## 📡 Cross-References  
-> - [🛰️ Codename Table Loss (2025-09-20)](../Field_Logs/🛰️_codename_table_loss_2025-09-20.md)  
-> - [💸 Russian Overlap Patterns](../Big_Picture_Protocols/💸_russian_overlap_patterns.md)
-
+> - [🛰️ Codename Table Loss (2025-09-20)] `../Field_Logs/🛰️_codename_table_loss_2025-09-20.md`  
+> - [💸 Russian Overlap Patterns] `../Big_Picture_Protocols/💸_russian_overlap_patterns.md`  
 ---
 
 ## 🏮 Footer  
 
-*STASI-Style Email & Mirroring Concerns — Field Log* is a living node of the Polaris Protocol.  
-It captures user-observed anomalies in email routing, mirroring, and SIM/eSIM handling, and outlines immediate preservation and mitigation steps.  
-
-> 📡 Cross-references:  
-> - [Field Logs](../Field_Logs/) — interference and anomaly records  
-> - [Survivor Tools](../Survivor_Tools/) — operational countermeasures and reconstructed materials  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-29_
