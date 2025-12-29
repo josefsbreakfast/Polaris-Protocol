@@ -1,13 +1,13 @@
 # 🛰️ Looped Waiting Rooms Field Log — 2025-09-13  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
-*Field evidence of FOIA, SAR, and procedural loops used as containment*
+**First created:** 2025-09-13 | **Last updated:** 2025-12-29  
+*Field evidence of FOIA, SAR, and procedural loops used as containment*  
 
 ---
 
 ## 🧾 Summary  
 
 This log captures real-world examples of **looped waiting rooms** — endless “pending” or “under review” statuses in response to FOIAs, SARs, or internal requests.  
-It operates as the evidentiary counterpart to [⏳ Looped Waiting Rooms](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_looped_waiting_rooms_2025-09-13.md).  
+It operates as the evidentiary counterpart to [⏳ Looped Waiting Rooms] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_looped_waiting_rooms_2025-09-13.md`.  
 
 ---
 
@@ -35,21 +35,17 @@ It operates as the evidentiary counterpart to [⏳ Looped Waiting Rooms](../Narr
 
 ## ✨ Stardust  
 
-FOIA delays, SAR delays, pending status, procedural limbo, psychological containment, forensic logging, metadata sabotage
+FOIA delays, SAR delays, pending status, procedural limbo, psychological containment, forensic logging, metadata sabotage  
 
 ---
 
 ## 🏮 Footer  
 
-*Looped Waiting Rooms Field Log — 2025-09-13* is a living node of the Polaris Protocol.  
-It records real-world manifestations of endless “pending” statuses used as psychological containment, paired with the analytic framework [⏳ Looped Waiting Rooms](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_looped_waiting_rooms_2025-09-13.md).  
-
 > 📡 Cross-references:
 > 
-> - [⏳ Looped Waiting Rooms](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_looped_waiting_rooms_2025-09-13.md) — *analytic framework*  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — *UI and commit-failure parallels*  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — *logging conventions*  
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-29_
