@@ -1,5 +1,5 @@
 # 🛰️ Pathologising Sensitivity Field Log — 2025-09-13  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-13 | **Last updated:** 2025-12-29  
 *Field evidence of empathy, responsiveness, or legitimate distress reframed as pathology or instability.*  
 
 ---
@@ -7,7 +7,7 @@
 ## 🧾 Summary  
 
 This log captures **instances of emotional or perceptive responses being medicalised or discredited**.  
-It operates as the evidentiary counterpart to the analytic node [🫀 Pathologising Sensitivity](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_pathologising_sensitivity_2025-09-13.md).  
+It operates as the evidentiary counterpart to the analytic node [🫀 Pathologising Sensitivity] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_pathologising_sensitivity_2025-09-13.md`.  
 
 These cases show how **diagnostic or behavioural labels** can be used to delegitimise perception, suppress escalation, or reroute advocacy into containment.  
 
@@ -35,9 +35,9 @@ These cases show how **diagnostic or behavioural labels** can be used to delegit
 
 ## 🔍 Correlation Pointers  
 
-- Cross-reference [👅 Voice Disruption Discrediting](../Narrative_And_Psych_Ops/👅_voice_disruption_discrediting.md) — undermining speech.  
-- Compare timing with [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) for coinciding access restrictions.  
-- Link with [🫂 Intimacy Gatekeeping](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md) — emotional isolation as follow-on tactic.  
+- Cross-reference [👅 Voice Disruption Discrediting] `../Narrative_And_Psych_Ops/👅_voice_disruption_discrediting.md` — undermining speech.  
+- Compare timing with [📉 Suppression Interference Logs] `../../📉_Suppression_Interference_Logs.md` for coinciding access restrictions.  
+- Link with [🫂 Intimacy Gatekeeping] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md` — emotional isolation as follow-on tactic.  
 
 ---
 
@@ -56,16 +56,11 @@ pathologising sensitivity, empathy weaponised, emotional discrediting, psychiatr
 
 ## 🏮 Footer  
 
-*🛰️ Pathologising Sensitivity Field Log — 2025-09-13* is a living node of the Polaris Protocol.  
-It records real-world manifestations of empathy or legitimate distress reframed as instability, paired with the analytic framework [🫀 Pathologising Sensitivity](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_pathologising_sensitivity_2025-09-13.md).  
-
-> 📡 Cross-references:  
-> - [🫀 Pathologising Sensitivity](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_pathologising_sensitivity_2025-09-13.md) — analytic framework  
-> - [👅 Voice Disruption Discrediting](../Narrative_And_Psych_Ops/👅_voice_disruption_discrediting.md) — speech undermining  
-> - [🫂 Intimacy Gatekeeping](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md) — isolation and rationed closeness  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — corroborative interference  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — logging template  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-29_
