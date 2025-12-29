@@ -1,5 +1,5 @@
 # ☕️ The Death of the British Eccentic  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-24  
+**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
 *How risk governance, reputational fear, and procedural conformity erased a cultural safety valve.*
 
 ---
@@ -76,7 +76,7 @@ It is cognitive, civic, and democratic.
 ---
 
 ### 5. Why this connects to Prevent  
-Systems like **[Prevent](chatgpt://generic-entity?number=0)** did not intend to eliminate eccentricity.  
+Systems like **Prevent** did not intend to eliminate eccentricity.  
 But when weak signals are treated as risk, and curiosity is logged as concern, the outcome is the same.
 
 You do not need authoritarianism to kill a culture.  
@@ -110,10 +110,11 @@ It documents how informal tolerance was replaced by formal suspicion, and why th
 
 > 📡 Cross-references:
 > 
-> - [⛴️ Stop the Boats, Trust the Bots](./⛴️_stop_the_boats_trust_the_bots.md) — attention theatre vs automated control  
-> - [🎭 Narrative Interference](../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🪆_narrative_interference/) — legitimacy laundering  
-> - [🧠 Psychological Containment](../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🧠_psychological_containment/) — internalised self-policing  
+> - [*Pending:* ⛴️ Stop the Boats, Trust the Bots] — attention theatre vs automated control  
+> - [👻 Downstream Acceptance — The Psychology of Passing the Fork](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👻_the_psychology_of_passing_the_fork.md)
+> - [🪞 Erosion of Duty of Care](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪞_erosion_of_duty_of_care.md)
+> - [💔 The Need for Touch](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/💔_the_need_for_touch.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2025-12-29_
