@@ -1,5 +1,5 @@
 # 🛰️ Not Caldicott Fans — Field Log  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-21 | **Last updated:** 2025-12-29  
 *Brief log capturing fatigue-related interference errors while saving and updating the Caldicott compliance node.*  
 
 ---
@@ -34,15 +34,18 @@
 ---
 
 ## 📡 Cross-References  
-- [🗝️ Illusion of Caldicott Compliance](../Big_Picture_Protocols/🗝️_illusion_of_caldicott_compliance.md)  
-- [Git Intake Drawer](../Polaris_Nest/Git_Intake_Drawer/)  
+- [🗝️ Illusion of Caldicott Compliance] `../Big_Picture_Protocols/🗝️_illusion_of_caldicott_compliance.md`  
+- [Git Intake Drawer] `../Polaris_Nest/Git_Intake_Drawer/`  
 
 ---
 
 ## 🏮 Footer  
-*Not Caldicott Fans — Field Log* is a living node of the Polaris Protocol.  
-It documents a quick-capture note of interference/fatigue errors while updating Caldicott-related content.  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-29_
