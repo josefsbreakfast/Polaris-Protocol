@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 03:50:17 UTC_
+_Generated on 2025-12-29 04:00:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3701,6 +3701,7 @@ _Generated on 2025-12-29 03:50:17 UTC_
       - [`🌐_global_migration_of_signatures.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🌐_global_migration_of_signatures.md)
       - [`🍉_civic_participation_and_ai_risk_classification.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🍉_civic_participation_and_ai_risk_classification.md)
       - [`🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🎩_the_sorting_hat_as_proto_algorithmic_misclassification.md)
+      - [`👑_metadata_as_sovereign_exposure.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/👑_metadata_as_sovereign_exposure.md)
       - [`💥_risk_vector_inversions.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/💥_risk_vector_inversions.md)
       - [`💥_synthetic_personas_and_actuarial_failure.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/💥_synthetic_personas_and_actuarial_failure.md)
       - [`💫_indie_verification_of_targeting_logic.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/💫_indie_verification_of_targeting_logic.md)
