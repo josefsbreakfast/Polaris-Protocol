@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 13:59:40 UTC_
+_Generated on 2025-12-29 14:02:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1480,6 +1480,7 @@ _Generated on 2025-12-29 13:59:40 UTC_
         - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
         - [`🧭_why_survivors_see_the_full_picture.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_why_survivors_see_the_full_picture.md)
         - [`🩺_when_data_harm_becomes_physical_harm_frailty_node.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🩺_when_data_harm_becomes_physical_harm_frailty_node.md)
+        - [`🪖_defence_is_for_all_of_us.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪖_defence_is_for_all_of_us.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
         - [`🪨_male_survivor_silence.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪨_male_survivor_silence.md)
         - [`🪸_floating_commons_humane_sovereignty_at_sea.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪸_floating_commons_humane_sovereignty_at_sea.md)
@@ -4140,7 +4141,6 @@ _Generated on 2025-12-29 13:59:40 UTC_
     - [`🪖_a_previous_cabinets_errors.md`](Polaris_Nest/Git_Intake_Drawer/🪖_a_previous_cabinets_errors.md)
     - [`🪖_a_teenage_girl_was_always_worth_more_than_the_reputation_of_dishonourable_men.md`](Polaris_Nest/Git_Intake_Drawer/🪖_a_teenage_girl_was_always_worth_more_than_the_reputation_of_dishonourable_men.md)
     - [`🪖_classification_suppression_misuse.md`](Polaris_Nest/Git_Intake_Drawer/🪖_classification_suppression_misuse.md)
-    - [`🪖_defence_is_for_all_of_us.md`](Polaris_Nest/Git_Intake_Drawer/🪖_defence_is_for_all_of_us.md)
     - [`🪖_how_politicians_legally_strangle_the_mod_in_real_lives_terms.md`](Polaris_Nest/Git_Intake_Drawer/🪖_how_politicians_legally_strangle_the_mod_in_real_lives_terms.md)
     - [`🪖_repairing_stolen_lives.md`](Polaris_Nest/Git_Intake_Drawer/🪖_repairing_stolen_lives.md)
     - [`🪖_respectfully_asking_the_mod_to_declassify_and_how_defensive_cabinet_fails_defence.md`](Polaris_Nest/Git_Intake_Drawer/🪖_respectfully_asking_the_mod_to_declassify_and_how_defensive_cabinet_fails_defence.md)
