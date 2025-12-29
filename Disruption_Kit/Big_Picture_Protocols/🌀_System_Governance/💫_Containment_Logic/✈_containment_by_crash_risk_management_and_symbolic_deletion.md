@@ -1,5 +1,5 @@
-# ✈ Containment by Crash — Risk Management and Symbolic Deletion
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-12  
+# ✈ Containment by Crash — Risk Management and Symbolic Deletion  
+**First created:** 2025-11-06 | **Last updated:** 2025-12-29  
 *Disaster as the reset function of authoritarian infrastructure.*  
 
 ---
@@ -46,8 +46,8 @@ It documents how engineered accidents act as a cleansing mechanism for systems t
 
 > 📡 Cross-references:
 > 
-> - 🕳️ Black Box Epistemology in Post-Soviet Accidents — *epistemic counterpart*  
+> - [🕳️ Black Box Epistemology in Post-Soviet Accidents](../../🦕_Elder_Influencers/🕸️_World_Webs/🕳️_black_box_epistemology_in_post_soviet_accidents.md) — *epistemic counterpart*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-29_
