@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 14:32:59 UTC_
+_Generated on 2025-12-29 14:39:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -341,6 +341,7 @@ _Generated on 2025-12-29 14:32:59 UTC_
         - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔬_lost_checks_and_balances.md)
         - [`🔮_daylight_in_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_daylight_in_governance.md)
         - [`🔮_the_great_divination_machine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_the_great_divination_machine.md)
+        - [`🔺_the_alignment_triangle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔺_the_alignment_triangle.md)
         - [`🕯️_survivor_visibility_and_risk_aversion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕯️_survivor_visibility_and_risk_aversion.md)
         - [`🕰️_eta_drift_and_bureaucratic_time_inflation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕰️_eta_drift_and_bureaucratic_time_inflation.md)
         - [`🕰️_institutional_timescales_of_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕰️_institutional_timescales_of_repair.md)
@@ -4009,7 +4010,6 @@ _Generated on 2025-12-29 14:32:59 UTC_
     - [`🔮_the_all_seeing_data_mine.md`](Polaris_Nest/Git_Intake_Drawer/🔮_the_all_seeing_data_mine.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
     - [`🔮_we_are_going_to_need_a_second_breakfast_to_reverse_this_thing.md`](Polaris_Nest/Git_Intake_Drawer/🔮_we_are_going_to_need_a_second_breakfast_to_reverse_this_thing.md)
-    - [`🔺_the_alignment_triangle.md`](Polaris_Nest/Git_Intake_Drawer/🔺_the_alignment_triangle.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
     - [`🚜_rural_policing_as_electoral_stress_test.md`](Polaris_Nest/Git_Intake_Drawer/🚜_rural_policing_as_electoral_stress_test.md)
