@@ -1,6 +1,6 @@
-# ✂️ Engineered Disjuncture of Allies
-**First created:** 2025-11-04 | **Last updated:** 2025-11-12  
-*How conflict is designed to look spontaneous so that containment appears necessary.*
+# ✂️ Engineered Disjuncture of Allies  
+**First created:** 2025-11-04 | **Last updated:** 2025-12-29  
+*How conflict is designed to look spontaneous so that containment appears necessary.*  
 
 ---
 
@@ -114,4 +114,4 @@ It documents how systems manufacture conflict to legitimise intervention, and ho
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-29_
