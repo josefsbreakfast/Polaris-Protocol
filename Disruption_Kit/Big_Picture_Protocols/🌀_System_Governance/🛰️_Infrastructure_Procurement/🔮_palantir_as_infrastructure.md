@@ -210,10 +210,10 @@ This node links directly to:
 > 📡 Cross‑references:  
 >
 > - [🔺 The Alignment Triangle](../💫_Containment_Logic/🔺_the_alignment_triangle.md)  
-> - [*Pending:* 🧠 _ideology_without_conspiracy]  
+> - [🧠 Ideology Without Conspiracy](../💫_Containment_Logic/🧠_ideology_without_conspiracy.md)  
 > - [🏛️ State Drift & Crisis Adoption](../💫_Containment_Logic/🏛️_state_drift_and_crisis_adoption.md)  
 > - [🔥 Rights as Friction](../⚖️_Legal_State_Governance/🔥_rights_as_friction.md)  
-> - [*Pending:* 🧠 _epistemic_asymmetry_in_security_systems]  
+> - [🧠 Epistemic Asymmetry in Security Systems](../💫_Containment_Logic/🧠_epistemic_asymmetry_in_security_systems.md)  
 
 _Last updated: 2025-12-29_
 
