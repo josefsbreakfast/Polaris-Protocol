@@ -1,6 +1,6 @@
 # 🇬🇧 The Price of a Child’s Life  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-24  
-*What it means when a state quietly decides some harms are affordable.*
+**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
+*What it means when a state quietly decides some harms are affordable.*  
 
 ---
 
@@ -151,15 +151,16 @@ child harm, moral accounting, institutional silence, safeguarding failure, delay
 
 ## 🏮 Footer
 
-*The Price of a Child’s Life* is a living node of the **Polaris Protocol**.  
+*🇬🇧 The Price of a Child’s Life* is a living node of the **Polaris Protocol**.  
 It names the moral failure that underlies repeated institutional harm: the attempt to calculate an acceptable cost for a child’s suffering.
 
 > 📡 Cross-references:
-> - **🇬🇧 The UK History of Stealing Children’s Identities** — historical pattern  
-> - **🪖 A Teenage Girl Was Always Worth More Than the Reputation of Dishonourable Men** — ethical boundary  
-> - **🪖 Repairing Stolen Lives** — long-term harm and repair  
-> - **🌀 Systems & Governance** — structural accountability failure  
+> 
+> - [🇬🇧 The UK History of Stealing Children’s Identities] — *historical pattern*  
+> - [🪖 A Teenage Girl Was Always Worth More Than the Reputation of Dishonourable Men] — *ethical boundary*  
+> - [🪖 Repairing Stolen Lives] — *long-term harm and repair*
+> - [🕊️ The Public Witness Protocol](../../../../🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🕊️_the_public_witness_protocol.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2025-12-29_
