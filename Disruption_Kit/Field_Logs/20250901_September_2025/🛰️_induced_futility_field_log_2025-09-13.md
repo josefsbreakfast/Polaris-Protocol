@@ -1,13 +1,13 @@
 # 🛰️ Induced Futility Field Log — 2025-09-13  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
-*Field evidence of manufactured hopelessness and systemic obstruction loops.*
+**First created:** 2025-09-13 | **Last updated:** 2025-12-29  
+*Field evidence of manufactured hopelessness and systemic obstruction loops.*  
 
 ---
 
 ## 🧾 Summary  
 
 This log captures FOIA, SAR, restitution, or institutional complaint cases that **acknowledge input but perpetuate delay or denial**, producing cycles of futility.  
-It operates as the evidentiary counterpart to the analytic node [🌑 Induced Futility](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md).  
+It operates as the evidentiary counterpart to the analytic node [🌑 Induced Futility] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md`.  
 
 ---
 
@@ -33,9 +33,9 @@ It operates as the evidentiary counterpart to the analytic node [🌑 Induced Fu
 
 ## 🔍 Correlation Pointers  
 
-- Map overlaps with [🌀 Recognition Without Resolution](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution_2025-09-13.md).  
+- Map overlaps with [🌀 Recognition Without Resolution] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution_2025-09-13.md`.  
 - Compare repeated phrasing (“we are looking into this,” “under consideration”) across departments.  
-- Align with suppression events in [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md).  
+- Align with suppression events in [📉 Suppression Interference Logs] `../../📉_Suppression_Interference_Logs.md`.  
 
 ---
 
@@ -55,14 +55,13 @@ induced futility, learned helplessness, FOIA obstruction, complaint loops, resti
 ## 🏮 Footer  
 
 *🛰️ Induced Futility Field Log — 2025-09-13* is a living node of the Polaris Protocol.  
-It records real-world manifestations of administrative and legal hopelessness used to suppress escalation, paired with the analytic framework [🌑 Induced Futility](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md).  
+It records real-world manifestations of administrative and legal hopelessness used to suppress escalation, paired with the analytic framework [🌑 Induced Futility] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md`.  
 
-> 📡 Cross-references:  
-> - [🌑 Induced Futility](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md) — analytic framework  
-> - [🌀 Recognition Without Resolution](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution_2025-09-13.md) — acknowledgment loops  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — parallel interference evidence  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — log conventions  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-29_
