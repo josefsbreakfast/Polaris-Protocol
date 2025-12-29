@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 15:05:45 UTC_
+_Generated on 2025-12-29 15:12:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -387,6 +387,7 @@ _Generated on 2025-12-29 15:05:45 UTC_
         - [`🧠_principled_escalation_vs_risk_based_institutions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_principled_escalation_vs_risk_based_institutions.md)
         - [`🧠_smart_women_get_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_smart_women_get_surveillance.md)
         - [`🧠_the_black_box_of_executive_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_the_black_box_of_executive_power.md)
+        - [`🧨_cyber_insecurity_and_friction_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧨_cyber_insecurity_and_friction_systems.md)
         - [`🧩_asymmetric_democratic_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_asymmetric_democratic_policing.md)
         - [`🧩_colonial_scripts_in_modern_bureaucracies.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_colonial_scripts_in_modern_bureaucracies.md)
         - [`🧩_containment_economics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_containment_economics.md)
@@ -4033,7 +4034,6 @@ _Generated on 2025-12-29 15:05:45 UTC_
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧠_unfulfilled_first_brain.md`](Polaris_Nest/Git_Intake_Drawer/🧠_unfulfilled_first_brain.md)
-    - [`🧨_cyber_insecurity_and_friction_systems.md`](Polaris_Nest/Git_Intake_Drawer/🧨_cyber_insecurity_and_friction_systems.md)
     - [`🧨_institutional_gaslighting.md`](Polaris_Nest/Git_Intake_Drawer/🧨_institutional_gaslighting.md)
     - [`🧨_legal_gaslighting.md`](Polaris_Nest/Git_Intake_Drawer/🧨_legal_gaslighting.md)
     - [`🧨_perfectly_legal_abuse.md`](Polaris_Nest/Git_Intake_Drawer/🧨_perfectly_legal_abuse.md)
