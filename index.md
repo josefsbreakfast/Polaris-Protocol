@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 11:29:08 UTC_
+_Generated on 2025-12-29 11:38:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3206,6 +3206,7 @@ _Generated on 2025-12-29 11:29:08 UTC_
       - [`⚖️_adaptive_containment_thresholds.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_adaptive_containment_thresholds.md)
       - [`⚖️_palestine_action_proscription_case_study.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_palestine_action_proscription_case_study.md)
       - [`⚠️_misaligned_risk_reflexes_in_safeguarding_and_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚠️_misaligned_risk_reflexes_in_safeguarding_and_prevent.md)
+      - [`⛴️_prevent_the_bots.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⛴️_prevent_the_bots.md)
       - [`✈️_arresting_justice.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_arresting_justice.md)
       - [`✈️_just_arrest_them.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_just_arrest_them.md)
       - [`✈️_justice_forbidden.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_justice_forbidden.md)
@@ -3950,7 +3951,6 @@ _Generated on 2025-12-29 11:29:08 UTC_
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`⛴️_prevent_the_bots_and_boats.md`](Polaris_Nest/Git_Intake_Drawer/⛴️_prevent_the_bots_and_boats.md)
     - [`⛴️_stop_the_boats_trust_the_bots.md`](Polaris_Nest/Git_Intake_Drawer/⛴️_stop_the_boats_trust_the_bots.md)
     - [`✈️_reindexing_is_routine.md`](Polaris_Nest/Git_Intake_Drawer/✈️_reindexing_is_routine.md)
     - [`✈️_reindexing_the_files.md`](Polaris_Nest/Git_Intake_Drawer/✈️_reindexing_the_files.md)
