@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 14:57:26 UTC_
+_Generated on 2025-12-29 14:57:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -329,6 +329,7 @@ _Generated on 2025-12-29 14:57:26 UTC_
         - [`📜_precrime_governance_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📜_precrime_governance_uk.md)
         - [`📜_when_containment_becomes_identity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📜_when_containment_becomes_identity.md)
         - [`📠_the_72_hour_comedy_of_compliance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📠_the_72_hour_comedy_of_compliance.md)
+        - [`📡_curated_reality_in_westminster.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📡_curated_reality_in_westminster.md)
         - [`📡_institutional_risk_posture_diagnostics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📡_institutional_risk_posture_diagnostics.md)
         - [`📱_digital_literacy_as_democratic_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📱_digital_literacy_as_democratic_infrastructure.md)
         - [`🔁_recursive_parliamentary_containment_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔁_recursive_parliamentary_containment_loop.md)
@@ -4004,7 +4005,6 @@ _Generated on 2025-12-29 14:57:26 UTC_
     - [`📊_cross_domain_visibility_systems_diagram.md`](Polaris_Nest/Git_Intake_Drawer/📊_cross_domain_visibility_systems_diagram.md)
     - [`📊_misinformation_disinformation_fracture_politics.md`](Polaris_Nest/Git_Intake_Drawer/📊_misinformation_disinformation_fracture_politics.md)
     - [`📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md`](Polaris_Nest/Git_Intake_Drawer/📋_checkpoint_nodes_counterterrorism_metadata_thread_2025-11-10.md)
-    - [`📡_curated_reality_in_westminster.md`](Polaris_Nest/Git_Intake_Drawer/📡_curated_reality_in_westminster.md)
     - [`📺_suppressing_innoculating_histories.md`](Polaris_Nest/Git_Intake_Drawer/📺_suppressing_innoculating_histories.md)
     - [`📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md`](Polaris_Nest/Git_Intake_Drawer/📻_andy_zaltzman_and_the_ethics_of_statistical_comedy.md)
     - [`📻_direct_testimony_distortion.md`](Polaris_Nest/Git_Intake_Drawer/📻_direct_testimony_distortion.md)
