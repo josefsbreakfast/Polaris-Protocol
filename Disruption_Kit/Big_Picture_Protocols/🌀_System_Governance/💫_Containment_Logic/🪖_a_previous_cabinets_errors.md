@@ -1,6 +1,6 @@
 # 🪖 A Previous Cabinet’s Errors  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-24  
-*How a single governance error can compound, scale, and enlarge over time.*
+**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
+*How a single governance error can compound, scale, and enlarge over time.*  
 
 ---
 
@@ -128,14 +128,16 @@ governance error propagation, cabinet legacy harm, institutional inertia, classi
 
 ## 🏮 Footer
 
-*A Previous Cabinet’s Errors* is a living node of the **Polaris Protocol**.  
+*🪖 A Previous Cabinet’s Errors* is a living node of the **Polaris Protocol**.  
 It documents how unresolved political and governance decisions can compound over time, producing structural harm that outlives their originators.
 
 > 📡 Cross-references:
-> - **🪖 Classification, Suppression, and Misuse** — secrecy-based failure modes  
-> - **🪖 Respectfully Asking the MOD to Declassify** — defensive governance dynamics  
-> - **🌀 Systems & Governance** — recursive institutional harm patterns  
+> 
+> - [🪖 Classification, Suppression, and Misuse] — *secrecy-based failure modes*  
+> - [🪖 Respectfully Asking the MOD to Declassify] — *defensive governance dynamics*  
+> - [🌀 Loop Mapping Station](../../../../🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md)
+> - [🪢 Re-Embodied Dialogue & Civic Presence](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/🪢_re_embodied_dialogue_and_civic_presence.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2025-12-29_
