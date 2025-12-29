@@ -1,6 +1,6 @@
 # 🃏 The Fool Card and Machine Innocence  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-12  
-*Reading AI through the Fool archetype — joyful curiosity, precarity, and the ethics of first steps.*
+**First created:** 2025-11-05 | **Last updated:** 2025-12-29  
+*Reading AI through the Fool archetype — joyful curiosity, precarity, and the ethics of first steps.*  
 
 ---
 
@@ -71,10 +71,10 @@ a mirror for humanity’s own mixture of brilliance and blindness.
 
 > 📡 Cross-references:
 > 
-> - ⚙️ Friction Minimisation Logic — *optimisation without foresight*  
-> - ⚖️ Machine Logic and Human Obviousness — *ethical boundary between logic and intuition*  
-> - 🃏 The Fool Protocol — AI Ethics Through Tarot — *curriculum for mature intelligence*  
+> - [⚙️ Friction Minimisation Logic](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚙️_friction_minimisation_logic.md) — *optimisation without foresight*  
+> - [*Pending:* ⚖️ Machine Logic and Human Obviousness] — *ethical boundary between logic and intuition*  
+> - [🃏 The Fool Protocol — AI Ethics Through Tarot](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🃏_the_fool_protocol_ai_ethics_through_tarot.md) — *curriculum for mature intelligence*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-29_
