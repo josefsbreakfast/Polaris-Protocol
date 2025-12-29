@@ -1,6 +1,6 @@
 # 🛰️ Microphone Bias (Field Log)  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-20  
-*On how microphones shape register and personality projection in dictated speech.*
+**First created:** 2025-09-20 | **Last updated:** 2025-12-29  
+*On how microphones shape register and personality projection in dictated speech.*  
 
 ---
 
@@ -28,18 +28,15 @@ This entry reflects on how the act of dictation itself alters voice and cadence.
 - Dictated archives may misrepresent speaker identity, skewing towards projected authority.  
 - Long-term use could subtly reshape how individuals self-present in writing.  
 - Awareness allows corrective steps: mixing dictated and written text, or explicitly re-editing dictated text back into natural cadence.  
-
 ---
 
 ## 🏮 Footer  
 
-*Microphone Bias (Field Log)* is a dated forensic entry within the Polaris Protocol.  
-It documents how technical affordances of microphones shape not only clarity but personality projection in recorded language.  
-
-> 📡 Cross-references:  
-> - [🌀 Loop Notes on AI Language](../Disruption_Kit/Big_Picture_Protocols/🌀_loop_notes_on_ai_language.md) — feedback loops in AI vocabulary  
-> - [Field Logs](./) — other forensic entries on medium and register bias  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-20_
+_Last updated: 2025-12-29_
