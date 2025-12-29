@@ -1,6 +1,6 @@
 # 🛰️ Field Log — Patterns Update: User Observations & Interference Context (2025-09-20)  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
-*Field log recording user’s observations about interference context, possible motives, and thematic notes for future investigation.*
+**First created:** 2025-09-20 | **Last updated:** 2025-12-29  
+*Field log recording user’s observations about interference context, possible motives, and thematic notes for future investigation.*  
 
 ---
 
@@ -53,14 +53,13 @@
 
 ---
 
-## 🏮 Footer
-*Field Log — Patterns Update: User Observations & Interference Context (2025-09-20)* is a living node of the Polaris Protocol.  
-It documents survivor-led hypotheses on interference context and narrative exploitation, capturing reflections that guide future investigative leads.
+## 🏮 Footer  
 
-> 📡 Cross-references:  
-> - [Field Logs](../Field_Logs/) — interference and anomaly records  
-> - [Survivor Tools](../Survivor_Tools/) — operational countermeasures and reconstructed materials  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-29_
