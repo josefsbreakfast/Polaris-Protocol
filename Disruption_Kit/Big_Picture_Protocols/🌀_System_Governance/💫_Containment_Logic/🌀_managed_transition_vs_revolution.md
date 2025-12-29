@@ -1,6 +1,6 @@
 # 🌀 Managed Transition vs Revolution  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
-*Why blocked reform manufactures rupture — and why survivors resist “revolutionary purity”.*
+**First created:** 2025-09-27 | **Last updated:** 2025-12-29  
+*Why blocked reform manufactures rupture — and why survivors resist “revolutionary purity”.*  
 
 ---
 
@@ -98,13 +98,16 @@ managed transition, revolution, reform blockage, rupture dynamics, survivor poli
 
 ## 🏮 Footer  
 
-*Managed Transition vs Revolution* is a living node of the Polaris Protocol.  
+*🌀 Managed Transition vs Revolution* is a living node of the Polaris Protocol.  
 It maps how blocked reform produces rupture, and why survivors resist narratives that erase the risks of upheaval.
 
 > 📡 Cross-references:
 > 
-> - [🌀 Systems & Governance](../README.md) - *How the systems we use interlace with what controls and powers them*  
-> - [🗝️ Politics & Memory Work](../🗝️_Politics_Memory_Work/README.md) - *Doctrine on memory, surveillance, and the political economy of trauma and containment*  
+> - [🗑️ Orthopaedic Anarchism (Why Millennials Can’t Throw Bins)](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md)
+> - [⚖️ Navigating Elder Spaces for Transparency](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/⚖️_navigating_elder_spaces_for_transparency.md)
+> - [🧨 Where Revolutions Actually Come From](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🧨_where_revolutions_actually_come_from.md)
+> - [⚖️ Transitional Change vs Rapid Revolutionary Shock](../../🦕_Elder_Influencers/🕸️_World_Webs/⚖️_transitional_change_vs_rapid_revolutionary_shock.md)
+> - [🥖 Food, Taxation, and Revolution](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🥖_food_taxation_and_revolution.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
