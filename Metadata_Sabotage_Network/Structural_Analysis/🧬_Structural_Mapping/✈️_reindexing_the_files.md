@@ -125,7 +125,8 @@ It documents a repeatable method for restoring access to public records when off
 > 📡 Cross-references:
 > 
 > - [🛰️ OSINT Field Operations](../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md) — *independent verification practices*  
-> - [🔎 Evidence & Anomalies](../../🔎_Evidence_And_Anomalies/README.md) — *visibility failures and record gaps*  
+> - [🔎 Evidence & Anomalies](../../🔎_Evidence_And_Anomalies/README.md) — *visibility failures and record gaps*
+> - [🛰️ SEO as a Pressure Surface](../../Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🛰️_seo_as_a_pressure_surface.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
