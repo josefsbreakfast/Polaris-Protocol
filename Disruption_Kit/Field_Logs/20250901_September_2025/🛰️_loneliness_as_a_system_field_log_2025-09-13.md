@@ -1,5 +1,5 @@
 # 🛰️ Loneliness as a System Field Log — 2025-09-13  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-13 | **Last updated:** 2025-12-29  
 *Field evidence of engineered disconnection and the systemic manufacture of social isolation.*  
 
 ---
@@ -7,7 +7,7 @@
 ## 🧾 Summary  
 
 This log captures **instances where isolation is produced structurally** — by platform design, housing policy, algorithmic filtering, or bureaucratic barriers to connection.  
-It serves as the evidentiary counterpart to the analytic node [🥀 Loneliness as a System](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥀_loneliness_as_a_system_2025-09-13.md).  
+It serves as the evidentiary counterpart to the analytic node [🥀 Loneliness as a System] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥀_loneliness_as_a_system_2025-09-13.md`.  
 
 ---
 
@@ -33,9 +33,9 @@ It serves as the evidentiary counterpart to the analytic node [🥀 Loneliness a
 
 ## 🔍 Correlation Pointers  
 
-- Cross-reference [🚪 Isolation Scripting](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚪_isolation_scripting_2025-09-13.md) — staged interpersonal withdrawal.  
-- Compare with [🫂 Intimacy Gatekeeping](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md) — rationed closeness.  
-- Overlay policy and platform timestamps with [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — visibility loss correlation.  
+- Cross-reference [🚪 Isolation Scripting] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚪_isolation_scripting_2025-09-13.md` — staged interpersonal withdrawal.  
+- Compare with [🫂 Intimacy Gatekeeping] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md` — rationed closeness.  
+- Overlay policy and platform timestamps with [📉 Suppression Interference Logs] `../../📉_Suppression_Interference_Logs.md` — visibility loss correlation.  
 
 ---
 
@@ -54,17 +54,11 @@ loneliness system, structural isolation, engineered disconnection, social contai
 
 ## 🏮 Footer  
 
-*🛰️ Loneliness as a System Field Log — 2025-09-13* is a living node of the Polaris Protocol.  
-It records real-world manifestations of engineered isolation and the systemic manufacture of loneliness, paired with the analytic framework [🥀 Loneliness as a System](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥀_loneliness_as_a_system_2025-09-13.md).  
-
-> 📡 Cross-references:  
-> - [🥀 Loneliness as a System](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥀_loneliness_as_a_system_2025-09-13.md) — analytic framework  
-> - [🚪 Isolation Scripting](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚪_isolation_scripting_2025-09-13.md) — interpersonal isolation  
-> - [🫂 Intimacy Gatekeeping](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md) — rationed connection  
-> - [💔 Weaponised Empathy Gaps](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps_2025-09-13.md) — care withdrawal  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — visibility / communication overlap  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — logging conventions  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-29_
