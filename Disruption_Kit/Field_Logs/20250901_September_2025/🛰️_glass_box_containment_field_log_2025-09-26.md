@@ -1,5 +1,5 @@
 # 🛰️ Glass Box Containment Field Log — 2025-09-26  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-26 | **Last updated:** 2025-12-29  
 *Field evidence of visibility without access — proximity engineered as isolation.*  
 
 ---
@@ -7,7 +7,7 @@
 ## 🧾 Summary  
 
 This log captures **instances where contact is technically possible yet functionally blocked** — messages seen but unanswered, posts visible but unacknowledged, presence recognised but interaction denied.  
-It operates as the evidentiary counterpart to the analytic node [🧊 Glass Box Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧊_glass_box_containment.md).  
+It operates as the evidentiary counterpart to the analytic node [🧊 Glass Box Containment] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧊_glass_box_containment.md`.  
 
 Glass box containment keeps survivors within sight of connection but outside its reach.  
 
@@ -35,9 +35,9 @@ Glass box containment keeps survivors within sight of connection but outside its
 
 ## 🔍 Correlation Pointers  
 
-- Compare with [🫂 Intimacy Gatekeeping](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md) — rationed closeness.  
-- Cross-reference [🚪 Isolation Scripting](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚪_isolation_scripting_2025-09-13.md) — manufactured solitude.  
-- Align timestamps with [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — potential metadata suppression overlaps.  
+- Compare with [🫂 Intimacy Gatekeeping] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md` — rationed closeness.  
+- Cross-reference [🚪 Isolation Scripting] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚪_isolation_scripting_2025-09-13.md` — manufactured solitude.  
+- Align timestamps with [📉 Suppression Interference Logs] `../../📉_Suppression_Interference_Logs.md` — potential metadata suppression overlaps.  
 
 ---
 
@@ -57,16 +57,12 @@ glass box containment, visibility without access, proximity isolation, shadow vi
 ## 🏮 Footer  
 
 *🛰️ Glass Box Containment Field Log — 2025-09-26* is a living node of the Polaris Protocol.  
-It records real-world manifestations of transparent isolation and engineered visibility, paired with the analytic framework [🧊 Glass Box Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧊_glass_box_containment.md).  
-
-> 📡 Cross-references:  
-> - [🧊 Glass Box Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧊_glass_box_containment.md) — analytic framework  
-> - [🫂 Intimacy Gatekeeping](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md) — rationed closeness  
-> - [🚪 Isolation Scripting](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚪_isolation_scripting_2025-09-13.md) — manufactured solitude  
-> - [🥀 Loneliness as a System](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥀_loneliness_as_a_system_2025-09-13.md) — structural isolation  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — technical containment evidence  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — logging conventions  
+It records real-world manifestations of transparent isolation and engineered visibility, paired with the analytic framework [🧊 Glass Box Containment] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧊_glass_box_containment.md`.  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-29_
