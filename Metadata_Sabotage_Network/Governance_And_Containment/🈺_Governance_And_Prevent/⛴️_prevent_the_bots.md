@@ -1,5 +1,5 @@
 # ⛴️ Prevent, the Bots, and the Boats  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-24  
+**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
 *How transatlantic data trawling, automated analysis, and allied “risk logic” bleed into UK Prevent governance.*
 
 ---
@@ -21,7 +21,7 @@ It is not about a single programme or conspiracy. It is about **structural drift
 ## 🧿 Analysis  
 
 ### 1. Imported epistemology  
-UK **[Prevent](chatgpt://generic-entity?number=0)** borrows heavily from post-9/11 US counter-radicalisation frameworks: pre-crime indicators, behavioural proxies, and network adjacency over intent.  
+UK **Prevent** borrows heavily from post-9/11 US counter-radicalisation frameworks: pre-crime indicators, behavioural proxies, and network adjacency over intent.  
 The result is a system that *looks British* but *reasons American*.
 
 ### 2. Bots without borders  
@@ -42,7 +42,7 @@ Risk signals travel as:
 - “best practice” guidance  
 - training material  
 
-This allows allied sharing under **[Five Eyes](chatgpt://generic-entity?number=1)** norms without an obvious domestic decision point.
+This allows allied sharing under **Five Eyes** norms without an obvious domestic decision point.
 
 ### 4. Think tanks as soft tissue  
 Think tanks translate upstream analytics into policy-ready language.  
@@ -80,10 +80,13 @@ It documents how foreign-origin analytics can shape domestic counter-extremism p
 
 > 📡 Cross-references:
 > 
-> - [🈺 Governance and Prevent](../Metadata_Sabotage_Network/🏯_Governance_And_Containment/🈺_governance_and_prevent/) — Prevent as system layer  
-> - [🧿 Targeting Logic & Metadata Signatures](../Metadata_Sabotage_Network/🦒_Structural_Analysis/🧿_targeting_logic_metadata_signatures/) — how risk is inferred  
-> - [🎭 Narrative Interference](../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🪆_narrative_interference/) — laundering via legitimacy  
+> - [🛟 Borders, Boats & Walls](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/README.md)
+> - [🧪 Think-Tanks & Their Funding (2010–16)](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🧪_think_tanks_and_their_funding_2010_2016.md)
+> - [🎽 Think Tanks, Surveillance, and Conferencing](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🎽_think_tanks_surveillance_and_conferencing.md)
+> - [🌍 Cross-Border Bias Propagation in Surveillance Models](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌍_cross_border_bias_propagation_in_surveillance_models.md)
+> - [🌍 Overseas Passport Risk Outcomes](../../🔥_Data_Risks/🛂_Papers_Please_Problems/🌍_overseas_passport_risk_outcomes.md)
+> - [🌍 Vulnerable Data Populations at FCDO](../../🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2025-12-29_
