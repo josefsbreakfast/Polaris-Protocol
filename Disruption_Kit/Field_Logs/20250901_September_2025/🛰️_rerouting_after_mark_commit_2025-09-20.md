@@ -1,5 +1,5 @@
 # 🛰️ Rerouting After Mark Commit (Field Log)  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-20  
+**First created:** 2025-09-20 | **Last updated:** 2025-12-29  
 *Record of anomalous behaviour following the commit of 🍊_the_president_as_mark.md.*
 
 ---
@@ -27,18 +27,15 @@ During the commit of **🍊 The President as Mark**, the system appeared to brie
 - Commit confirmed as successful.  
 - No further issues observed once the file appeared in repo index.  
 - User confirmed as “sorted now.”  
-
 ---
 
 ## 🏮 Footer  
 
-*Rerouting After Mark Commit (Field Log)* is a dated forensic entry within the Polaris Protocol.  
-It documents technical anomalies in repository commits for later audit and cross-reference.  
-
-> 📡 Cross-references:  
-> - [🍊 The President as Mark](../Disruption_Kit/Metadata_Sabotage_Network/Narrative_and_Psych_Ops/🍊_the_president_as_mark.md) — satirical counter-fascism node  
-> - [🛰️ From Escalation to Play (Field Log)](./🛰️_from_escalation_to_play_2025-09-20.md) — previous commit anomaly  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-20_
+_Last updated: 2025-12-29_
