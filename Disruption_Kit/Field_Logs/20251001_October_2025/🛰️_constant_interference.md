@@ -22,3 +22,16 @@ The people who are usually discredited, or also consistently being discredited, 
 Some messages are pinging normally, close contants are not sounding normal notifications, so I miss the reach out of close contacts.  
 
 2025-10-10  
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-29_
