@@ -1,5 +1,5 @@
 # 🛰️ Frankenstack Forks for White Perpetrators — Field Log  
-**First created:** 2025-09-17 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-17 | **Last updated:** 2025-12-29  
 *Dated log capturing user’s experience of repeated device/app interference when attempting to research or document governance failures relating to sexual violence and accountability.*  
 
 ---
@@ -57,9 +57,9 @@
 ---
 
 ## 📡 Cross-References  
-- [🛰️ FLS Hard Today — Field Log (2025-09-16)](../Field_Logs/🛰️_fls_hard_today_2025-09-16.md)  
-- [🛰️ DNS Failure for Explaining Myself Accurately — Field Log (2025-09-21)](../Field_Logs/🛰️_dns_failure_explaining_myself_accurately_2025-09-21.md)  
-- [🛰️ Codename Table Loss — Field Log (2025-09-20)](../Field_Logs/🛰️_codename_table_loss_2025-09-20.md)  
+- [🛰️ FLS Hard Today — Field Log (2025-09-16)] `../Field_Logs/🛰️_fls_hard_today_2025-09-16.md`  
+- [🛰️ DNS Failure for Explaining Myself Accurately — Field Log (2025-09-21)] `../Field_Logs/🛰️_dns_failure_explaining_myself_accurately_2025-09-21.md`  
+- [🛰️ Codename Table Loss — Field Log (2025-09-20)] `../Field_Logs/🛰️_codename_table_loss_2025-09-20.md`  
 
 ---
 
@@ -67,6 +67,11 @@
 *Frankenstack Forks for White Perpetrators — Field Log* is a living node of the Polaris Protocol.  
 It documents the intersection of device interference, sexual-violence accountability, and the emotional toll of systemic friction.  
 
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-29_
