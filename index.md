@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 08:03:55 UTC_
+_Generated on 2025-12-29 11:05:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -253,6 +253,7 @@ _Generated on 2025-12-29 08:03:55 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/README.md)
         - [`⏳_chronos_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⏳_chronos_as_containment.md)
         - [`☔️_compressed_privacy_and_freedom_of_thought.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☔️_compressed_privacy_and_freedom_of_thought.md)
+        - [`☔️_digital_quicksand_101.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☔️_digital_quicksand_101.md)
         - [`☕_administrative_necromancy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☕_administrative_necromancy.md)
         - [`☢️_the_empathy_project.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☢️_the_empathy_project.md)
         - [`⚓_sea_org_as_containment_prototype.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚓_sea_org_as_containment_prototype.md)
@@ -3944,7 +3945,6 @@ _Generated on 2025-12-29 08:03:55 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`ZDC_README.md`](Polaris_Nest/Git_Intake_Drawer/ZDC_README.md)
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
-    - [`☔️_digital_quicksand_101.md`](Polaris_Nest/Git_Intake_Drawer/☔️_digital_quicksand_101.md)
     - [`☔️_stuck_in_digital_quicksand.md`](Polaris_Nest/Git_Intake_Drawer/☔️_stuck_in_digital_quicksand.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
