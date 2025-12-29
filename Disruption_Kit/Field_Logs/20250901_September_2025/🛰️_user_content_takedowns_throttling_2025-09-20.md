@@ -1,5 +1,5 @@
 # 🛰️ User Content Takedowns & Throttling — Field Log (2025-09-20)  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-20 | **Last updated:** 2025-12-29  
 *Field log recording observations about content takedowns, throttling, and asymmetric amplification during surveillance episodes.*  
 
 ---
@@ -35,14 +35,11 @@ The user expressed concern about asymmetric patterns of amplification and thrott
 
 ## 🏮 Footer  
 
-*User Content Takedowns & Throttling — Field Log (2025-09-20)* is a living node of the Polaris Protocol.  
-
-> 📡 Cross-references:  
-> - [Field Logs](../Field_Logs/) — interference and anomaly records  
-> - [🛰️ Codename Table Loss (2025-09-20)](../Field_Logs/🛰️_codename_table_loss_2025-09-20.md)  
-> - [🛰️ Patterns Update — User Observations (2025-09-20)](../Field_Logs/🛰️_patterns_update_user_observations_2025-09-20.md)  
-> - [Patterns Node — Russian Overlap Patterns](../Big_Picture_Protocols/💸_russian_overlap_patterns.md)  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-29_
