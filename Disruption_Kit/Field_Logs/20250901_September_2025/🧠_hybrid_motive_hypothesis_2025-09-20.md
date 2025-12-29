@@ -1,5 +1,5 @@
 # 🧠 Hybrid Motive Hypothesis — Deliberate + Ideological Drivers  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-20  
+**First created:** 2025-09-20 | **Last updated:** 2025-12-29  
 *Records the working hypothesis that the 2016 data-twinning cluster (and related events) may reflect a mixture of deliberate exploitation and ideological conviction by actors involved — i.e., a hybrid of targeted action and actors who genuinely believed the method would "work".*
 
 ---
@@ -37,9 +37,15 @@ The subject hypothesises a hybrid motive: some actions were deliberately enginee
 - Score cluster with the Intentionality rubric for prioritisation.  
 - Seek vendor admin logs and carrier provisioning records for high-priority anchors.  
 - If score indicates strong intentionality, escalate to independent forensics / counsel.
-
 ---
 
-## 🏮 Footer
-*Hybrid Motive Hypothesis* is a Field Log node of the Polaris Protocol: preserves the analytic claim that both deliberate exploitation and ideological conviction plausibly drove the observed cluster.  
-_Last updated: 2025-09-20_
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-29_
