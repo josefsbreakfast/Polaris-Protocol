@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 11:38:49 UTC_
+_Generated on 2025-12-29 13:16:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -158,6 +158,7 @@ _Generated on 2025-12-29 11:38:49 UTC_
         - [`🌀_rule_of_law_failure_cascade.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌀_rule_of_law_failure_cascade.md)
         - [`🌋_whistleblowers_as_emergency_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌋_whistleblowers_as_emergency_governance.md)
         - [`🌍_treaty_for_the_english_speaking_internet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌍_treaty_for_the_english_speaking_internet.md)
+        - [`🌳_the_ents_in_the_room.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌳_the_ents_in_the_room.md)
         - [`🍉_why_peacetime_vs_wartime_matters_for_democracy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🍉_why_peacetime_vs_wartime_matters_for_democracy.md)
         - [`🍉_why_the_long_prison_stay.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🍉_why_the_long_prison_stay.md)
         - [`🍞_why_food_safety_is_aggressively_regulated.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🍞_why_food_safety_is_aggressively_regulated.md)
@@ -3965,7 +3966,6 @@ _Generated on 2025-12-29 11:38:49 UTC_
     - [`🇬🇧_the_uk_history_of_stealing_childrens_identities.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_the_uk_history_of_stealing_childrens_identities.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
-    - [`🌳_the_ents_in_the_room.md`](Polaris_Nest/Git_Intake_Drawer/🌳_the_ents_in_the_room.md)
     - [`🌾_on_the_importance_of_trading_fairly.md`](Polaris_Nest/Git_Intake_Drawer/🌾_on_the_importance_of_trading_fairly.md)
     - [`🏙️_nottingham_divestment_motion_context.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_nottingham_divestment_motion_context.md)
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
