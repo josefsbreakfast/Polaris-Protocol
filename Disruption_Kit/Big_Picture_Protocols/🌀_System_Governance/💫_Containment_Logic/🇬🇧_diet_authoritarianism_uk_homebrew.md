@@ -1,6 +1,6 @@
 # 🇬🇧 Diet Authoritarianism: UK Homebrew  
-**First created:** 2025-11-20 | **Last updated:** 2025-12-07  
-*How Britain built a soft authoritarian system using politeness, paperwork, and plausible deniability rather than tanks or uniforms.*
+**First created:** 2025-11-20 | **Last updated:** 2025-12-29  
+*How Britain built a soft authoritarian system using politeness, paperwork, and plausible deniability rather than tanks or uniforms.*  
 
 ---
 
@@ -245,12 +245,12 @@ It maps how Britain maintains a soft, deniable authoritarian system through bure
 
 > 📡 Cross-references:
 > 
-> - [🈺 Governance & Prevent]  
-> - [🧨 Prevent: The Parliamentary Surveillance Machine]  
-> - [🕷️ Prevent as Soft-Coup Infrastructure]  
-> - [🧿 Targeting Logic Metadata Signatures]  
-> - [🪆 Narrative Interference]  
+> - [🈺 Governance & Prevent](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)  
+> - [🧨 Prevent: The Parliamentary Surveillance Machine](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧨_prevent_the_parliamentary_surveillance_machine.md)  
+> - [🕷️ Prevent as Soft-Coup Infrastructure](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕷️_prevent_as_soft_coup_infrastructure.md)  
+> - [🧿 Targeting Logic Metadata Signatures](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README.md)  
+> - [🪆 Narrative Interference](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-29_
