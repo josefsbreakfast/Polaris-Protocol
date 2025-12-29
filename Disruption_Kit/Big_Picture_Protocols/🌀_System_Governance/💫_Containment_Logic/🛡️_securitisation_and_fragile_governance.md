@@ -1,4 +1,4 @@
-.# 🛡️ Securitisation & Fragile Governance  
+# 🛡️ Securitisation & Fragile Governance  
 **First created:** 2025-12-26 | **Last updated:** 2025-12-29  
 *Why everything starts to look like a threat*  
 
