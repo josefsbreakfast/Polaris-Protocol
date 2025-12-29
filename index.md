@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 01:54:34 UTC_
+_Generated on 2025-12-29 01:54:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1929,6 +1929,7 @@ _Generated on 2025-12-29 01:54:34 UTC_
       - [`🛰️_connection_drift_log.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_connection_drift_log.md)
       - [`🛰️_constant_interference.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_constant_interference.md)
       - [`🛰️_coping_strategies.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_coping_strategies.md)
+      - [`🛰️_crashes_all_downstream_use_related.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_crashes_all_downstream_use_related.md)
       - [`🛰️_field_log_node_generation_stalling_2025-10-06.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_field_log_node_generation_stalling_2025-10-06.md)
       - [`🛰️_foi_delay_pressure_sequence_2025-10-28.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_foi_delay_pressure_sequence_2025-10-28.md)
       - [`🛰️_isbn_sensitivity_holdings_2025-10-03.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_isbn_sensitivity_holdings_2025-10-03.md)
@@ -2798,7 +2799,6 @@ _Generated on 2025-12-29 01:54:34 UTC_
     - [`🛰_but_the_eldest_is_the_silent_protector.png`](Disruption_Kit/Field_Logs/🛰_but_the_eldest_is_the_silent_protector.png)
     - [`🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG`](Disruption_Kit/Field_Logs/🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG)
     - [`🛰️_bakwaas_but_okay_fine.PNG`](Disruption_Kit/Field_Logs/🛰️_bakwaas_but_okay_fine.PNG)
-    - [`🛰️_crashes_all_downstream_use_related.md`](Disruption_Kit/Field_Logs/🛰️_crashes_all_downstream_use_related.md)
     - [`🛰️_disconnects_and_dampening_down.md`](Disruption_Kit/Field_Logs/🛰️_disconnects_and_dampening_down.md)
     - [`🛰️_dols_delays_significant_interference.md`](Disruption_Kit/Field_Logs/🛰️_dols_delays_significant_interference.md)
     - [`🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md`](Disruption_Kit/Field_Logs/🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md)
