@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 14:02:17 UTC_
+_Generated on 2025-12-29 14:05:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -416,6 +416,7 @@ _Generated on 2025-12-29 14:02:17 UTC_
         - [`🩺_governing_doctors_in_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩺_governing_doctors_in_uk.md)
         - [`🪆_containment_logic_as_witch_logic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪆_containment_logic_as_witch_logic.md)
         - [`🪖_SAS_special_forces_and_complaints.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪖_SAS_special_forces_and_complaints.md)
+        - [`🪖_a_previous_cabinets_errors.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪖_a_previous_cabinets_errors.md)
         - [`🪖_overlap_accountability_and_why_we_cannot_recruit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪖_overlap_accountability_and_why_we_cannot_recruit.md)
         - [`🪜_temporal_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪜_temporal_containment.md)
         - [`🪞_conditional_whiteness_and_twinning_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_conditional_whiteness_and_twinning_as_containment.md)
@@ -4138,7 +4139,6 @@ _Generated on 2025-12-29 14:02:17 UTC_
     - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
     - [`🪐_prosociality_as_nudge_surface.md`](Polaris_Nest/Git_Intake_Drawer/🪐_prosociality_as_nudge_surface.md)
     - [`🪔_survivor_poetics_hebrew_register.md`](Polaris_Nest/Git_Intake_Drawer/🪔_survivor_poetics_hebrew_register.md)
-    - [`🪖_a_previous_cabinets_errors.md`](Polaris_Nest/Git_Intake_Drawer/🪖_a_previous_cabinets_errors.md)
     - [`🪖_a_teenage_girl_was_always_worth_more_than_the_reputation_of_dishonourable_men.md`](Polaris_Nest/Git_Intake_Drawer/🪖_a_teenage_girl_was_always_worth_more_than_the_reputation_of_dishonourable_men.md)
     - [`🪖_classification_suppression_misuse.md`](Polaris_Nest/Git_Intake_Drawer/🪖_classification_suppression_misuse.md)
     - [`🪖_how_politicians_legally_strangle_the_mod_in_real_lives_terms.md`](Polaris_Nest/Git_Intake_Drawer/🪖_how_politicians_legally_strangle_the_mod_in_real_lives_terms.md)
