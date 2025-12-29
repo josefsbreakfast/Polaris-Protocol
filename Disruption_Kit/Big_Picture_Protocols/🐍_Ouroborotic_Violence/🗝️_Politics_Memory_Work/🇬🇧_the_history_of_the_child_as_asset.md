@@ -1,6 +1,6 @@
 # 🇬🇧 The History of the Child as Asset  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-24  
-*How British systems repeatedly treated children as economic, political, and administrative resources.*
+**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
+*How British systems repeatedly treated children as economic, political, and administrative resources.*  
 
 ---
 
@@ -185,15 +185,19 @@ child as asset, institutional harm, empire, child labour, colonisation, identity
 
 ## 🏮 Footer
 
-*The History of the Child as Asset* is a living node of the **Polaris Protocol**.  
+*🇬🇧 The History of the Child as Asset* is a living node of the **Polaris Protocol**.  
 It documents how British systems repeatedly treated children as resources to be managed — and why that logic must be fully dismantled.
 
 > 📡 Cross-references:
-> - **🇬🇧 The Price of a Child’s Life** — moral accounting failure  
-> - **🇬🇧 The UK History of Stealing Children’s Identities** — identity misuse  
-> - **🪖 Defence Is for All of Us** — inclusive protection doctrine  
-> - **🌀 Systems & Governance** — structural harm patterns  
+> 
+> - [🇬🇧 The Price of a Child’s Life] — moral accounting failure  
+> - [🇬🇧 The UK History of Stealing Children’s Identities] — identity misuse  
+> - [🪖 Defence Is for All of Us] — inclusive protection doctrine  
+> - [🕯 Exorcising Safeguarding Shadows](../../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/README.md)
+> - [🪖 Collateral Shame: Moral Injury, Veterans, & the Counterinsurgency Age](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪖_collateral_shame.md)
+> - [💰 The Surveillance Dividend Social Contract](../../🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/💰_the_surveillance_dividend_social_contract.md)
+> - [🧬 The Policies We Never Reckoned With](../../🦕_Elder_Influencers/🕊️_Just_Boxes/🧬_the_policies_we_never_reckoned_with.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2025-12-29_
