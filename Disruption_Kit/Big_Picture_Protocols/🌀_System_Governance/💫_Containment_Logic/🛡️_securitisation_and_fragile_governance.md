@@ -1,5 +1,8 @@
 # 🛡️ Securitisation & Fragile Governance  
-*Why everything starts to look like a threat*
+**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+*Why everything starts to look like a threat*  
+
+---
 
 ## Summary
 
@@ -192,3 +195,5 @@ This node links directly to:
 ## One-line takeaway
 
 > Securitisation thrives in fragile governance environments, narrowing debate and accelerating infrastructure choices whose consequences outlast the crisis that justified them.
+
+_Last updated: 2025-12-29_
