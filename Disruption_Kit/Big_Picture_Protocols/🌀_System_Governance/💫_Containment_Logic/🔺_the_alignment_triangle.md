@@ -288,8 +288,8 @@ It documents a recurring structural pattern explaining how high-risk systems emb
 > 
 > - [🏛️ State Drift & Crisis Adoption](./🏛️_state_drift_and_crisis_adoption.mdd) — *governance under pressure*  
 > - [🔥 Rights as Friction](../⚖️_Legal_State_Governance/🔥_rights_as_friction.md) — *why safeguards are treated as obstacles*  
-> - [*Pending:* 🧱 Palantir as Infrastructure] — *platforms as durable systems*
-> - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)](../⚖️_Legal_State_Governance/🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md)
+> - [🔮 Palantir as Infrastructure](../🛰️_Infrastructure_Procurement/🔮_palantir_as_infrastructure.md) — *platforms as durable systems*  
+> - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)](../⚖️_Legal_State_Governance/🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md)  
 > - [⚖️ Case Study: Palestine Action & Proscription Under Legal Ambiguity](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_palestine_action_proscription_case_study.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
