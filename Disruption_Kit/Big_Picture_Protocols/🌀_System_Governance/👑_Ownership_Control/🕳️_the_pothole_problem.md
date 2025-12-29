@@ -1,5 +1,5 @@
 # 🕳️ The Pothole Problem  
-**First created:** 2025-10-09 | **Last updated:** 2025-12-27  
+**First created:** 2025-10-09 | **Last updated:** 2025-12-29  
 *When six-hundred-year-old law meets twenty-first-century asphalt.*  
 
 ---
@@ -118,6 +118,9 @@ In the economics of optics, **repairing the same road twice** is better politics
 ## 🌌 Constellations  
 🕳️ 🧱 🧿 🛰️ — Legal sediment → incentive decay → political capture.
 
+*Further reading:*  
+- [Pothole claims up 90% in three years, says RAC](https://www.bbc.co.uk/news/articles/clyzyww1jp2o), BBC News.  
+
 ---
 
 ## ✨ Stardust  
@@ -139,4 +142,4 @@ It traces the persistence of Tudor-era road law through modern procurement loops
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-27_
+_Last updated: 2025-12-29_
