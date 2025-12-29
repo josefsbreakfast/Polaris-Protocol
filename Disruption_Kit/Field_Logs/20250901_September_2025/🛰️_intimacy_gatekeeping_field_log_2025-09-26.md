@@ -1,5 +1,5 @@
 # 🛰️ Intimacy Gatekeeping Field Log — 2025-09-26  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-26 | **Last updated:** 2025-12-29  
 *Field evidence of withheld or delayed closeness and touch used as a containment tactic*  
 
 ---
@@ -7,7 +7,7 @@
 ## 🧾 Summary  
 
 This log captures **real-world instances of intimacy gatekeeping** — barriers, surveillance, or restrictions that ration closeness and touch.  
-It operates as the evidentiary counterpart to the analytic node [🫂 Intimacy Gatekeeping](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md).  
+It operates as the evidentiary counterpart to the analytic node [🫂 Intimacy Gatekeeping] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md`.  
 
 ---
 
@@ -33,9 +33,9 @@ It operates as the evidentiary counterpart to the analytic node [🫂 Intimacy G
 
 ## 🔍 Correlation Pointers  
 
-- Compare timing with [🐌 Delays Are Violence](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md) — time as harm.  
-- Cross-reference [🪟 Glass Box Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪟_glass_box_containment.md) — proximity without touch.  
-- Align with [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) if communication slowdowns coincide.  
+- Compare timing with [🐌 Delays Are Violence] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md` — time as harm.  
+- Cross-reference [🪟 Glass Box Containment] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪟_glass_box_containment.md` — proximity without touch.  
+- Align with [📉 Suppression Interference Logs] `../../📉_Suppression_Interference_Logs.md` if communication slowdowns coincide.  
 
 ---
 
@@ -53,16 +53,11 @@ intimacy gatekeeping, rationed closeness, conjugal denial, partner exclusion, co
 
 ## 🏮 Footer  
 
-*🛰️ Intimacy Gatekeeping Field Log — 2025-09-26* is a living node of the Polaris Protocol.  
-It records real-world manifestations of withheld or delayed intimacy and touch, paired with the analytic framework [🫂 Intimacy Gatekeeping](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md).  
-
-> 📡 Cross-references:  
-> - [🫂 Intimacy Gatekeeping](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md) — analytic framework  
-> - [🐌 Delays Are Violence](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md) — delay as harm  
-> - [🪟 Glass Box Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪟_glass_box_containment.md) — proximity without touch  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — parallel evidence  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — log template  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-29_
