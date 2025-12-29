@@ -1,6 +1,6 @@
 # 🛰️ Field Log — Nudge vs Fisher Probe  
-**First created:** 2025-09-11 | **Last updated:** 2025-09-27  
-*Mini-experiment testing containment response when comparing Thaler/Sunstein’s *Nudge* with Mark Fisher’s *Post-Capitalist Desire*.*
+**First created:** 2025-09-11 | **Last updated:** 2025-12-29  
+*Mini-experiment testing containment response when comparing Thaler/Sunstein’s *Nudge* with Mark Fisher’s *Post-Capitalist Desire*.*  
 
 ---
 
@@ -50,13 +50,12 @@ nudge, Fisher, post-capitalist desire, containment probe, LinkedIn job nudges, a
 ---
 
 ## 🏮 Footer  
-*Field Log — Nudge vs Fisher Probe* is a living node of the Polaris Protocol.  
-It documents a live experiment in containment testing: *what happens when you compare the manager’s handbook to the dissident’s lecture notes?*  
 
-> 📡 Cross-references:  
-> - [💞 Ethics of Nudging vs Desire](../Big_Picture_Protocols/💞_ethics_of_nudging_vs_desire.md) — conceptual hinge between *nudge* and *trieb*  
-> - [Disruption Kit / Field Logs](../Field_Logs/) — other live containment probes  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-29_
