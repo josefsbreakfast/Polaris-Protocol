@@ -1,5 +1,5 @@
 # 🛰️ Hope Withholding Field Log — 2025-09-13  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-13 | **Last updated:** 2025-12-29  
 *Field evidence of promised relief or progress engineered to be withdrawn.*  
 
 ---
@@ -7,7 +7,7 @@
 ## 🧾 Summary  
 
 This log captures **instances where hope is signalled, then revoked** — approvals reversed, replies that vanish, kindness punished.  
-It operates as the evidentiary counterpart to the analytic node [🕯️ Hope Withholding](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕯️_hope_withholding.md).  
+It operates as the evidentiary counterpart to the analytic node [🕯️ Hope Withholding] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕯️_hope_withholding.md`.  
 
 ---
 
@@ -33,9 +33,9 @@ It operates as the evidentiary counterpart to the analytic node [🕯️ Hope Wi
 
 ## 🔍 Correlation Pointers  
 
-- Cross-reference with [💔 Weaponised Empathy Gaps](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps_2025-09-13.md) — care withdrawal parallels hope withdrawal.  
-- Compare timing with [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) for overlapping reversals or commit failures.  
-- Check for linkage to [🌫️ Memory Fogging](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌫️_memory_fogging.md) — sequence distortions following revoked promises.  
+- Cross-reference with [💔 Weaponised Empathy Gaps] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps_2025-09-13.md` — care withdrawal parallels hope withdrawal.  
+- Compare timing with [📉 Suppression Interference Logs] `../../📉_Suppression_Interference_Logs.md` for overlapping reversals or commit failures.  
+- Check for linkage to [🌫️ Memory Fogging] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌫️_memory_fogging.md` — sequence distortions following revoked promises.  
 
 ---
 
@@ -55,15 +55,13 @@ hope withholding, promise reversal, intermittent reinforcement, emotional condit
 ## 🏮 Footer  
 
 *🛰️ Hope Withholding Field Log — 2025-09-13* is a living node of the Polaris Protocol.  
-It records real-world manifestations of engineered hope and reversal, paired with the analytic framework [🕯️ Hope Withholding](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕯️_hope_withholding.md).  
+It records real-world manifestations of engineered hope and reversal, paired with the analytic framework [🕯️ Hope Withholding] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕯️_hope_withholding.md`.  
 
-> 📡 Cross-references:  
-> - [🕯️ Hope Withholding](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🕯️_hope_withholding.md) — analytic framework  
-> - [💔 Weaponised Empathy Gaps](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps_2025-09-13.md) — selective care withdrawal  
-> - [🌫️ Memory Fogging](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌫️_memory_fogging.md) — sequence distortion  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — overlapping metadata failures  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — logging conventions  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-29_
