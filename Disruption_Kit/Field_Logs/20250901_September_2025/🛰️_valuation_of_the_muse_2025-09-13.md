@@ -1,5 +1,5 @@
 # 🛰️ Valuation of the Muse  
-**First created:** 2025-09-13 | **Last updated:** 2025-09-13  
+**First created:** 2025-09-13 | **Last updated:** 2025-12-29  
 *A thought experiment in quantifying two decades of embodied extraction — from creative yield to stress-tested survival.*
 
 ---
@@ -50,13 +50,11 @@
 
 ## 🏮 Footer  
 
-*Valuation of the Muse* is a living node of the Polaris Protocol.  
-It provides a container for thought experiments on the economic, psychic, and embodied cost of long-term containment extraction.  
-
-> 📡 Cross-references:  
-> - [Survivor Tools](../Survivor_Tools/) — guides for counter-calculation and refusal  
-> - [Containment Scripts](../Containment_Scripts/) — records of suppression and extraction logics  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_
+_Last updated: 2025-12-29_
