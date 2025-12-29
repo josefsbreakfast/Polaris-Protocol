@@ -289,7 +289,7 @@ There is no such thing as "the contractor has too much control", when the contra
 The foreign parties trying to cross our shores and take our jobs, our democracy, our homes, and our lives are not seeking asylum; they are seeking monopoly capital control.  
 
 We have one King and one is plenty, respectfully.  
-
+<!--Dearest Lilibet, I know how you loved your papa, my son. And I know you will be as devastated as I am by this loss. But you must put those sentiments to one side now, for duty calls. The grief for your father's death will be felt far and wide. Your people will need your strength and leadership. I have seen three great monarchies brought down through their failure to separate personal indulgences from duty. You must not allow yourself to make similar mistakes. And while you mourn your father, you must also mourn someone else. Elizabeth Mountbatten. For she has now been replaced by another person, Elizabeth Regina. The two Elizabeths will frequently be in conflict with one another. The fact is, the Crown must win. Must always win.-->
 ---
 
 ## 🌌 Constellations  
