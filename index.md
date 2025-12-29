@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 13:48:38 UTC_
+_Generated on 2025-12-29 13:50:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -153,6 +153,7 @@ _Generated on 2025-12-29 13:48:38 UTC_
         - [`⚖️_why_the_death_penalty_makes_no_sense_for_the_united_kingdom.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_why_the_death_penalty_makes_no_sense_for_the_united_kingdom.md)
         - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_wrong_people_in_power.md)
         - [`⚠️_the_erosion_of_duty_of_care_under_exception_logic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚠️_the_erosion_of_duty_of_care_under_exception_logic.md)
+        - [`❓_why_parliamentary_questions_come_first.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/❓_why_parliamentary_questions_come_first.md)
         - [`🇷🇺_russia_is_a_threat_when_process_is_weak.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🇷🇺_russia_is_a_threat_when_process_is_weak.md)
         - [`🌀_justice_infrastructure_mismatch_1990s_law_2025_tech.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌀_justice_infrastructure_mismatch_1990s_law_2025_tech.md)
         - [`🌀_rule_of_law_failure_cascade.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌀_rule_of_law_failure_cascade.md)
@@ -3961,7 +3962,6 @@ _Generated on 2025-12-29 13:48:38 UTC_
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
-    - [`❓_why_parliamentary_questions_come_first.md`](Polaris_Nest/Git_Intake_Drawer/❓_why_parliamentary_questions_come_first.md)
     - [`🇬🇧_the_history_of_the_child_as_asset.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_the_history_of_the_child_as_asset.md)
     - [`🇬🇧_the_price_of_a_childs_life.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_the_price_of_a_childs_life.md)
     - [`🇬🇧_the_uk_history_of_stealing_childrens_identities.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_the_uk_history_of_stealing_childrens_identities.md)
