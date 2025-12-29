@@ -1,5 +1,5 @@
 # 🛰️ Suspicion Seeding Field Log — 2025-09-13  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-13 | **Last updated:** 2025-12-29  
 *Field evidence of low-level doubts planted to corrode trust in allies and witnesses.*  
 
 ---
@@ -7,7 +7,7 @@
 ## 🧾 Summary  
 
 This log captures **instances where subtle cues, rumours, or algorithmic patterns sow distrust** between survivors, allies, or witnesses.  
-It operates as the evidentiary counterpart to the analytic node [🪤 Suspicion Seeding](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪤_suspicion_seeding_2025-09-13.md).  
+It operates as the evidentiary counterpart to the analytic node [🪤 Suspicion Seeding] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪤_suspicion_seeding_2025-09-13.md`.  
 
 Suspicion seeding thrives on ambiguity — these logs transform ambiguity back into data.  
 
@@ -35,9 +35,9 @@ Suspicion seeding thrives on ambiguity — these logs transform ambiguity back i
 
 ## 🔍 Correlation Pointers  
 
-- Cross-reference [🧿 Persistent Discrediting Force](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧿_persistent_discrediting_force.md) — sustained DARVO and credibility collapse.  
-- Compare with [🪞 Transparent Interference](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪞_transparent_interference.md) — overt anomalies.  
-- Check overlaps with [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — timing of smear coinciding with technical disruption.  
+- Cross-reference [🧿 Persistent Discrediting Force] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧿_persistent_discrediting_force.md` — sustained DARVO and credibility collapse.  
+- Compare with [🪞 Transparent Interference] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪞_transparent_interference.md` — overt anomalies.  
+- Check overlaps with [📉 Suppression Interference Logs] `../../📉_Suppression_Interference_Logs.md` — timing of smear coinciding with technical disruption.  
 
 ---
 
@@ -51,21 +51,15 @@ Shows how small doubts fracture solidarity.
 ## ✨ Stardust  
 
 suspicion seeding, trust erosion, disinformation, smear loops, whisper networks, algorithmic framing, psychological containment, forensic logging  
-
 ---
 
 ## 🏮 Footer  
 
-*🛰️ Suspicion Seeding Field Log — 2025-09-13* is a living node of the Polaris Protocol.  
-It records real-world manifestations of whispered doubt, algorithmic framing, and smear/mimic loops, paired with the analytic framework [🪤 Suspicion Seeding](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪤_suspicion_seeding_2025-09-13.md).  
-
-> 📡 Cross-references:  
-> - [🪤 Suspicion Seeding](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪤_suspicion_seeding_2025-09-13.md) — analytic framework  
-> - [🧿 Persistent Discrediting Force](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧿_persistent_discrediting_force.md) — DARVO and credibility collapse  
-> - [🪞 Transparent Interference](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪞_transparent_interference.md) — overt anomalies  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — overlapping evidence  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — logging conventions  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-29_
