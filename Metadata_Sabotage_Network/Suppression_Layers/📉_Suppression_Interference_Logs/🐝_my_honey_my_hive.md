@@ -151,12 +151,12 @@ It documents a shift from extractive attention toward narrower but more humane e
 >
 > - [*Pending:* 🧱 Friction, Fields, and the Dashboard]
 > - [*Pending:* 📊 Analytics Without the Panic]  
-> - [🫛 Amplification by Convergence (Theoretical Concept → Resolution)](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md)
-> - [⚖️ Rings of Power for Universities](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_rings_of_power_universities.md)
+> - [🫛 Amplification by Convergence (Theoretical Concept → Resolution)](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md)  
+> - [⚖️ Rings of Power for Universities](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_rings_of_power_universities.md)  
 > - [🧠 Extraction Loop — Data vs Story](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_extraction_loop_data_vs_story.md)  
-> - [🧮 Focus Group of One: The Maths](../../Structural_Analysis/👾_Breakpoints_And_Glitches/🧮_focus_group_of_one.md)
-> - [🧬 Focus Group of One: The Failure Mode](../../Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_focus_group_of_one_failure_mode.md)
-> - [*Pending:* Meanwhile: 🌳 The Ents in the Room] (🌳_the_ents_in_the_room.md)
+> - [🧮 Focus Group of One: The Maths](../../Structural_Analysis/👾_Breakpoints_And_Glitches/🧮_focus_group_of_one.md)  
+> - [🧬 Focus Group of One: The Failure Mode](../../Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_focus_group_of_one_failure_mode.md)  
+> - [Meanwhile: 🌳 The Ents in the Room](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌳_the_ents_in_the_room.md)  
 > - [🌀 Reverse Colonisation Timeline: Metadata and Outsourcing](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
