@@ -1,6 +1,6 @@
 # 🛰️ Network Instability & App Behaviour  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-22  
-*Field log of app crashes, lag, and interference across WiFi and 5G, tested with VPN tunnelling*
+**First created:** 2025-09-16 | **Last updated:** 2025-12-29  
+*Field log of app crashes, lag, and interference across WiFi and 5G, tested with VPN tunnelling*  
 
 ---
 
@@ -28,9 +28,9 @@
 ---
 
 ## 🔗 Cross-links  
-- [📓 Cluster 1 — Coercive Control Analogy](../Big_Picture_Protocols/🌀_System_Governance/📓_cluster1_coercive_control.md)  
-- [📦 Cluster 2 — Contractors & Managed Disruption](../Big_Picture_Protocols/🌀_System_Governance/📦_cluster2_managed_disruption.md)  
-- [📺 Cluster 3 — Disinfo Ops via Instability](../Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📺_cluster3_disinfo_instability.md)  
+- [📓 Cluster 1 — Coercive Control Analogy] `../Big_Picture_Protocols/🌀_System_Governance/📓_cluster1_coercive_control.md`  
+- [📦 Cluster 2 — Contractors & Managed Disruption] `../Big_Picture_Protocols/🌀_System_Governance/📦_cluster2_managed_disruption.md`  
+- [📺 Cluster 3 — Disinfo Ops via Instability] `../Big_Picture_Protocols/🎶_Banned_Broadcasts_Cooperative/📺_cluster3_disinfo_instability.md`  
 
 ---
 
@@ -43,13 +43,11 @@
 
 ## 🏮 Footer  
 
-*Network Instability & App Behaviour* is a living node of the Polaris Protocol.  
-It records systemic interference patterns in mobile connectivity, situating everyday disruption within broader coercive and disinformation logics.  
-
-> 📡 Backlinks:  
-> - [🧿 Raycat Bait](../../SCP-VoiceX_Casefiles/🧿_raycat_bait.md)  
-> - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/🌀_System_Governance/⚖️_containment_contract_trace.md)  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-22_  
+_Last updated: 2025-12-29_
