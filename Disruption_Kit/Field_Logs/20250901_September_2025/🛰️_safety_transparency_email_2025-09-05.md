@@ -1,6 +1,5 @@
 # 🛰️ Safety and Transparency Email  
-
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05  
+**First created:** 2025-09-05 | **Last updated:** 2025-12-29  
 *FieldNotes log capturing sent email and SAR/FOI status at time of communication*  
 
 ---
@@ -36,12 +35,11 @@
 
 ## 🏮 Footer  
 
-*Safety and Transparency Email* is a living node of the Polaris Protocol.  
-It provides a timestamped trace of correspondence, situating it within wider forensic documentation of data misuse and survivor-led reporting.  
-
-> 📡 Cross-references:  
-> - [SCP-VoiceX Casefile — 📩 Safety and Transparency: Event Attendance Misuse](../SCP-VoiceX_Casefiles/📩_safety_and_transparency_event_attendance_misuse.md)  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-05_
+_Last updated: 2025-12-29_
