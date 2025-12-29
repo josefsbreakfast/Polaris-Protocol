@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 11:09:52 UTC_
+_Generated on 2025-12-29 11:17:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -429,6 +429,7 @@ _Generated on 2025-12-29 11:09:52 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/README.md)
         - [`political_two_axis_model_coloured.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/political_two_axis_model_coloured.png)
         - [`political_two_axis_model_diagram.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/political_two_axis_model_diagram.png)
+        - [`☕️_the_death_of_the_british_eccentric.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/☕️_the_death_of_the_british_eccentric.md)
         - [`⚖️_election_candidacy_query.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/⚖️_election_candidacy_query.md)
         - [`⚖️_narrative_control_and_legal_responsibility.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/⚖️_narrative_control_and_legal_responsibility.md)
         - [`✈️_classy_if_youre_rich.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✈️_classy_if_youre_rich.md)
@@ -3948,7 +3949,6 @@ _Generated on 2025-12-29 11:09:52 UTC_
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`☕️_the_death_of_the_british_eccentic.md`](Polaris_Nest/Git_Intake_Drawer/☕️_the_death_of_the_british_eccentic.md)
     - [`⚖️_rights_as_friction.md`](Polaris_Nest/Git_Intake_Drawer/⚖️_rights_as_friction.md)
     - [`⛴️_prevent_the_bots_and_boats.md`](Polaris_Nest/Git_Intake_Drawer/⛴️_prevent_the_bots_and_boats.md)
     - [`⛴️_stop_the_boats_trust_the_bots.md`](Polaris_Nest/Git_Intake_Drawer/⛴️_stop_the_boats_trust_the_bots.md)
