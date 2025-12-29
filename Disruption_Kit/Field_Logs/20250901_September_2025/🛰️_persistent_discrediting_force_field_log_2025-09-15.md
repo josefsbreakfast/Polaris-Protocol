@@ -1,5 +1,5 @@
 # 🛰️ Persistent Discrediting Force Field Log — 2025-09-15  
-**First created:** 2025-09-15 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-15 | **Last updated:** 2025-12-29  
 *Field evidence of sustained discrediting, institutional DARVO, and the replacement of protection with silence.*  
 
 ---
@@ -7,7 +7,7 @@
 ## 🧾 Summary  
 
 This log documents **repeated or systemic discrediting actions** — unanswered safety questions, contradictory responses, and administrative DARVO (Deny, Attack, Reverse Victim and Offender).  
-It operates as the evidentiary counterpart to the analytic node [🧿 Persistent Discrediting Force](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧿_persistent_discrediting_force.md).  
+It operates as the evidentiary counterpart to the analytic node [🧿 Persistent Discrediting Force] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧿_persistent_discrediting_force.md`.  
 
 The pattern is long-range: credibility erosion through fatigue, surveillance, and procedural gaslighting until exhaustion replaces voice.  
 
@@ -35,10 +35,10 @@ The pattern is long-range: credibility erosion through fatigue, surveillance, an
 
 ## 🔍 Correlation Pointers  
 
-- Compare with [😴 Exhaustion as Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_exhaustion_as_containment_2025-09-13.md) — fatigue loops.  
-- Cross-reference [🌑 Induced Futility](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md) — hopelessness progression.  
-- Align with [💔 Weaponised Empathy Gaps](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps_2025-09-13.md) — selective care withdrawal.  
-- Link to [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — moments when technical suppression overlaps with narrative containment.  
+- Compare with [😴 Exhaustion as Containment] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_exhaustion_as_containment_2025-09-13.md` — fatigue loops.  
+- Cross-reference [🌑 Induced Futility] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md` — hopelessness progression.  
+- Align with [💔 Weaponised Empathy Gaps] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps_2025-09-13.md` — selective care withdrawal.  
+- Link to [📉 Suppression Interference Logs] `../../📉_Suppression_Interference_Logs.md` — moments when technical suppression overlaps with narrative containment.  
 
 ---
 
@@ -57,17 +57,11 @@ persistent discrediting, DARVO loops, credibility sabotage, record erasure, inst
 
 ## 🏮 Footer  
 
-*🛰️ Persistent Discrediting Force Field Log — 2025-09-15* is a living node of the Polaris Protocol.  
-It records real-world manifestations of survivor discrediting, DARVO cycles, and withheld safety confirmations, paired with the analytic framework [🧿 Persistent Discrediting Force](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧿_persistent_discrediting_force.md).  
-
-> 📡 Cross-references:  
-> - [🧿 Persistent Discrediting Force](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧿_persistent_discrediting_force.md) — analytic framework  
-> - [😴 Exhaustion as Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_exhaustion_as_containment_2025-09-13.md) — fatigue loops  
-> - [🌑 Induced Futility](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md) — hopelessness progression  
-> - [💔 Weaponised Empathy Gaps](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps_2025-09-13.md) — selective care withdrawal  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — corresponding metadata interference  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — logging conventions  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-29_
