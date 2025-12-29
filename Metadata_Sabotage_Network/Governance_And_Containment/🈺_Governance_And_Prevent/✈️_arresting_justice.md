@@ -1,6 +1,6 @@
 # ✈️ Arresting Justice  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
-*How justice is slowed, grounded, or indefinitely delayed through procedural saturation and narrative management.*
+**First created:** 2025-12-20 | **Last updated:** 2025-12-29  
+*How justice is slowed, grounded, or indefinitely delayed through procedural saturation and narrative management.*  
 
 ---
 
@@ -42,7 +42,7 @@ This preserves institutional legitimacy while avoiding decisive consequence.
 ---
 
 ### 2. Document Dumps as Speed Brakes  
-Large, disordered releases — such as those relating to **[Jeffrey Epstein](chatgpt://generic-entity?number=0)** — function as **velocity killers**.
+Large, disordered releases — such as those relating to **Jeffrey Epstein** — function as **velocity killers**.
 
 Instead of clarity, they produce:
 - cognitive overload,
@@ -143,10 +143,14 @@ It contributes analysis of how justice is functionally halted through delay, dif
 
 > 📡 Cross-references:
 > 
-> - [🗄️ Epstein Files Are Red Herrings] — *misdirection through disclosure*  
-> - [🪞 Reputational Laundering After Admission] — *post-exposure containment*  
-> - [🎭 Narrative Interference] — *attention and meaning control*  
+> - [🗄️ Epstein Files Are Red Herrings](./🗄️_epstein_files_are_red_herrings.md) — *misdirection through disclosure*  
+> - [*Pending:* 🪞 Reputational Laundering After Admission] — *post-exposure containment*  
+> - [🪞 Twinned Silence](../../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪞_twinned_silence.md)  
+> - [🔥 Suppression as Signal](../../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
+> - [🐝 My Honey, My Hive: Why Less Extraction Feels Better](../../Suppression_Layers/📉_Suppression_Interference_Logs/🐝_my_honey_my_hive.md)  
+> - [🧬 When Twins Meet](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_when_twins_meet.md)  
+> - [🗝 Who Holds the Tape](../../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝_who_holds_the_tape.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2025-12-29_
