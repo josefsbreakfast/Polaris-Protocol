@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 14:05:10 UTC_
+_Generated on 2025-12-29 14:08:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -675,6 +675,7 @@ _Generated on 2025-12-29 14:05:10 UTC_
         - [`⛩️_postmodern_gateway.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⛩️_postmodern_gateway.md)
         - [`✝️_protestant_work_ethic_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/✝️_protestant_work_ethic_as_containment.md)
         - [`🇬🇧_the_history_of_the_child_as_asset.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🇬🇧_the_history_of_the_child_as_asset.md)
+        - [`🇬🇧_the_price_of_a_childs_life.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🇬🇧_the_price_of_a_childs_life.md)
         - [`🌒_charisma_as_container.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🌒_charisma_as_container.md)
         - [`🎙️_the_state_that_cannot_sing.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🎙️_the_state_that_cannot_sing.md)
         - [`🎭_hypocrisy_profile_uk_blair_cabinet.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🎭_hypocrisy_profile_uk_blair_cabinet.md)
@@ -3965,7 +3966,6 @@ _Generated on 2025-12-29 14:05:10 UTC_
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
-    - [`🇬🇧_the_price_of_a_childs_life.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_the_price_of_a_childs_life.md)
     - [`🇬🇧_the_uk_history_of_stealing_childrens_identities.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_the_uk_history_of_stealing_childrens_identities.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
