@@ -1,6 +1,6 @@
 # 🌀 The Fall of Institutional Integrity  
-**First created:** 2025-11-02  |  **Last updated:** 2025-11-12  
-*A structural autopsy of how democratic institutions decay — and how it always starts in language.*
+**First created:** 2025-11-02 | **Last updated:** 2025-12-29  
+*A structural autopsy of how democratic institutions decay — and how it always starts in language.*  
 
 ---
 
@@ -81,10 +81,10 @@ It documents the structural and linguistic processes through which democratic sy
 
 > 📡 Cross-references:
 > 
-> - 📡 Language as Attack Surface — *linguistic precursor*  
-> - ⚖️ Linguistic Integrity as Security Risk — *policy relevance*  
-> - 🌅 Rise of Institutional Integrity — *reconstruction pathway*  
+> - [🦉 Language As Attack Surface](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/README.md) — *linguistic precursor*  
+> - [⚖️ Linguistic Integrity as Security Risk](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚖️_linguistic_integrity_as_security_risk.md) — *policy relevance*  
+> - [🌅 Rise of Institutional Integrity](../👑_Ownership_Control/🌅_rise_of_institutional_integrity.md) — *reconstruction pathway*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2025-12-29_
