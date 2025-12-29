@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 13:30:45 UTC_
+_Generated on 2025-12-29 13:36:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3131,6 +3131,7 @@ _Generated on 2025-12-29 13:30:45 UTC_
       - [`⚖️_borrowed_legitimacy_and_moral_sorting.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_borrowed_legitimacy_and_moral_sorting.md)
       - [`⚖️_reciprocal_accountability_implementation_checklist.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_reciprocal_accountability_implementation_checklist.md)
       - [`⚖️_reciprocal_accountability_protocol.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_reciprocal_accountability_protocol.md)
+      - [`✈️_release_the_british_files.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/✈️_release_the_british_files.md)
       - [`🈴_allies_and_ethics_are_operational_variables.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🈴_allies_and_ethics_are_operational_variables.md)
       - [`🌩️_who_gets_to_quote_whom.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🌩️_who_gets_to_quote_whom.md)
       - [`🎓_duty_to_recognise_systemic_misclassification.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🎓_duty_to_recognise_systemic_misclassification.md)
@@ -3956,7 +3957,6 @@ _Generated on 2025-12-29 13:30:45 UTC_
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`✈️_release_the_british_files.md`](Polaris_Nest/Git_Intake_Drawer/✈️_release_the_british_files.md)
     - [`✈️_ridiculous_risk_envelopes.md`](Polaris_Nest/Git_Intake_Drawer/✈️_ridiculous_risk_envelopes.md)
     - [`✈️_the_baby_ranch_is_boring.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_baby_ranch_is_boring.md)
     - [`✈️_they_always_think_they_are_geniuses.md`](Polaris_Nest/Git_Intake_Drawer/✈️_they_always_think_they_are_geniuses.md)
