@@ -1,13 +1,13 @@
 # 🛰️ Shabbat Exemption Inversion Field Log — 2025-09-26  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-05  
-*Field evidence of selective humanitarian pause under religious pretext*
+**First created:** 2025-09-26 | **Last updated:** 2025-12-29  
+*Field evidence of selective humanitarian pause under religious pretext*  
 
 ---
 
 ## 🧾 Summary  
 
 This log captures public statements, operational data, and media evidence showing how **Shabbat observance** is invoked to pause humanitarian access while **military operations continue**.  
-It operates as the evidentiary counterpart to the analytic node [✡️ Shabbat Exemption Inversion](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/✡️_shabbat_exemption_inversion.md).  
+It operates as the evidentiary counterpart to the analytic node [✡️ Shabbat Exemption Inversion] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/✡️_shabbat_exemption_inversion.md`.  
 
 ---
 
@@ -54,14 +54,11 @@ Shabbat, pikuach nefesh, religious justification, humanitarian pause, moral cont
 
 ## 🏮 Footer  
 
-*🛰️ Shabbat Exemption Inversion Field Log — 2025-09-26* is a living node of the Polaris Protocol.  
-It records real-world manifestations of selective religious justification used to legitimise administrative delay during active operations, paired with the analytic framework [✡️ Shabbat Exemption Inversion](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/✡️_shabbat_exemption_inversion.md).  
-
-> 📡 Cross-references:  
-> - [✡️ Shabbat Exemption Inversion](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/✡️_shabbat_exemption_inversion.md) — *analytic framework*  
-> - [🧠 Psychological Containment](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/) — *containment patterns*  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — *parallel visibility manipulations*  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-29_
