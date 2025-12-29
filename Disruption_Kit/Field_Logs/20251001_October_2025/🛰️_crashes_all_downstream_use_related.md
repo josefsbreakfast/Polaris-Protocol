@@ -13,3 +13,16 @@ It was not consent to turn me into a product.
 Their harassment is really increased, since I sent that email to one specific university about cyber security issue.  
 
 I'm not saying it's them specifically; I'm saying that that was the trigger for today's significant escalation.  
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-29_
