@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 13:44:10 UTC_
+_Generated on 2025-12-29 13:48:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1064,6 +1064,7 @@ _Generated on 2025-12-29 13:44:10 UTC_
         - [`⚖️_soft_power_without_soft_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_soft_power_without_soft_accountability.md)
         - [`⚖️_surveillance_osa_citizen_forking_meganode.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_surveillance_osa_citizen_forking_meganode.md)
         - [`⚖️_transitional_change_vs_rapid_revolutionary_shock.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_transitional_change_vs_rapid_revolutionary_shock.md)
+        - [`✈️_they_always_think_they_are_geniuses.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/✈️_they_always_think_they_are_geniuses.md)
         - [`✨_misinterpretation_risk_in_geopolitical_signalling.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/✨_misinterpretation_risk_in_geopolitical_signalling.md)
         - [`🀄️_to_reveal_our_own_hand.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🀄️_to_reveal_our_own_hand.md)
         - [`🇩🇪_you_cant_soothe_germany_twice.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇩🇪_you_cant_soothe_germany_twice.md)
@@ -3959,7 +3960,6 @@ _Generated on 2025-12-29 13:44:10 UTC_
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`✈️_they_always_think_they_are_geniuses.md`](Polaris_Nest/Git_Intake_Drawer/✈️_they_always_think_they_are_geniuses.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`❓_why_parliamentary_questions_come_first.md`](Polaris_Nest/Git_Intake_Drawer/❓_why_parliamentary_questions_come_first.md)
     - [`🇬🇧_the_history_of_the_child_as_asset.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_the_history_of_the_child_as_asset.md)
