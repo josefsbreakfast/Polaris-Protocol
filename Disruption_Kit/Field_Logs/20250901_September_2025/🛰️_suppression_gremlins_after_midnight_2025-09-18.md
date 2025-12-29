@@ -1,6 +1,6 @@
 # 🛰️ Suppression Gremlins After Midnight  
-**First created:** 2025-09-18 | **Last updated:** 2025-09-27  
-*Field log noting late-night throttling, suppression, and narrative seeding interference, recorded as a contemporaneous note-to-self.*
+**First created:** 2025-09-18 | **Last updated:** 2025-12-29  
+*Field log noting late-night throttling, suppression, and narrative seeding interference, recorded as a contemporaneous note-to-self.*  
 
 ---
 
@@ -28,13 +28,11 @@
 
 ## 🏮 Footer  
 
-*Suppression Gremlins After Midnight* is a Field Log node of the Polaris Protocol.  
-It documents late-night suppression patterns, with direct provenance from a contemporaneous survivor note.  
-
-> 📡 Cross-references:  
-> - [🛰️ Interference & Throttling Context (2025-09-22)](../Field_Logs/🛰️_interference_and_throttling_context_2025-09-22.md)  
-> - [🛰️ Retrospective — Throttling Cross-References (2025-09-22)](../Field_Logs/🛰️_retrospective_cross_references_throttling_2025-09-22.md)  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-29_
