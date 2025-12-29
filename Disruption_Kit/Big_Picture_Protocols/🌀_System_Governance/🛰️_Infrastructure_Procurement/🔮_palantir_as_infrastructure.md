@@ -1,5 +1,8 @@
-# 🧱 Palantir as Infrastructure  
-*Why this is not “just software”*
+# 🔮 Palantir as Infrastructure  
+**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+*Why this is not “just software”.*  
+
+---
 
 ## Summary
 
@@ -200,3 +203,17 @@ This node links directly to:
 ## One-line takeaway
 
 > Palantir is not dangerous because it makes decisions, but because it quietly reshapes how decisions are seen, prioritised, and justified — and then makes that shape difficult to undo.
+
+---
+
+
+> 📡 Cross‑references:  
+>
+> - [🔺 The Alignment Triangle](../💫_Containment_Logic/🔺_the_alignment_triangle.md)  
+> - [*Pending:* 🧠 _ideology_without_conspiracy]  
+> - [🏛️ State Drift & Crisis Adoption](../💫_Containment_Logic/🏛️_state_drift_and_crisis_adoption.md)  
+> - [🔥 Rights as Friction](../⚖️_Legal_State_Governance/🔥_rights_as_friction.md)  
+> - [*Pending:* 🧠 _epistemic_asymmetry_in_security_systems]  
+
+_Last updated: 2025-12-29_
+
