@@ -1,6 +1,6 @@
 # 🛰️ From Escalation to Play (Field Log)  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-20  
-*Field record of analysis on escalation dynamics and the logic of play.*
+**First created:** 2025-09-20 | **Last updated:** 2025-12-29  
+*Field record of analysis on escalation dynamics and the logic of play.*  
 
 ---
 
@@ -47,10 +47,11 @@ Escalation looks “realist” but corrodes power. Play, cooperation, and restra
 *From Escalation to Play (Field Log)* is a dated forensic record within the Polaris Protocol.  
 It captures a reflection that could not be committed under Big Picture Protocols, preserving the content in the Field Logs archive.  
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — structural system diagnostics  
-> - [🔥 The Strength of Humour](../Disruption_Kit/Metadata_Sabotage_Network/Narrative_and_Psych_Ops/🔥_the_strength_of_humour.md) — humour as solvent of escalation theatre  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-20_
+_Last updated: 2025-12-29_
