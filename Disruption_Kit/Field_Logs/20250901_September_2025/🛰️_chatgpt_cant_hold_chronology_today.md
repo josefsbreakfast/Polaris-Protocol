@@ -1,6 +1,6 @@
 # 🛰️ ChatGPT Can’t Hold Chronology Today — Field Log  
-**First created:** 2025-09-23 | **Last updated:** 2025-09-27  
-*Personal testimony about AI’s difficulty holding event chronology alongside ongoing experiences of harm and coercion.*
+**First created:** 2025-09-23 | **Last updated:** 2025-12-29  
+*Personal testimony about AI’s difficulty holding event chronology alongside ongoing experiences of harm and coercion.*  
 
 ---
 
@@ -47,9 +47,12 @@ User reports that on 23 Sept 2025 AI was unable to maintain a coherent chronolog
 ---
 
 ## 🏮 Footer  
-*This is a living field log of the Polaris Protocol. It preserves survivor testimony about perceived harms and AI response anomalies. Cross-references: [Field Logs](../Field_Logs/).*
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_
-
+_Last updated: 2025-12-29_
