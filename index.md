@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 01:55:34 UTC_
+_Generated on 2025-12-29 01:56:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1784,6 +1784,7 @@ _Generated on 2025-12-29 01:55:34 UTC_
       - [`🛰️_delays_are_violence_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_delays_are_violence_field_log_2025-09-26.md)
       - [`🛰️_direct_interference_on_clarity_2025-09-11.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_direct_interference_on_clarity_2025-09-11.md)
       - [`🛰️_dns_failure_explaining_myself_accurately_2025-09-21.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_dns_failure_explaining_myself_accurately_2025-09-21.md)
+      - [`🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md)
       - [`🛰️_entrapment_by_protection_2025-09-27.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_entrapment_by_protection_2025-09-27.md)
       - [`🛰️_exhaustion_as_containment_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_exhaustion_as_containment_field_log_2025-09-13.md)
       - [`🛰️_fls_hard_today_2025-09-16.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_fls_hard_today_2025-09-16.md)
@@ -2801,7 +2802,6 @@ _Generated on 2025-12-29 01:55:34 UTC_
     - [`🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG`](Disruption_Kit/Field_Logs/🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG)
     - [`🛰️_bakwaas_but_okay_fine.PNG`](Disruption_Kit/Field_Logs/🛰️_bakwaas_but_okay_fine.PNG)
     - [`🛰️_dols_delays_significant_interference.md`](Disruption_Kit/Field_Logs/🛰️_dols_delays_significant_interference.md)
-    - [`🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md`](Disruption_Kit/Field_Logs/🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md)
     - [`🛰️_election_node_interference.md`](Disruption_Kit/Field_Logs/🛰️_election_node_interference.md)
     - [`🛰️_embedded_observers_field_log_2025-08-06.md`](Disruption_Kit/Field_Logs/🛰️_embedded_observers_field_log_2025-08-06.md)
     - [`🛰️_erasure_of_erasure.md`](Disruption_Kit/Field_Logs/🛰️_erasure_of_erasure.md)
