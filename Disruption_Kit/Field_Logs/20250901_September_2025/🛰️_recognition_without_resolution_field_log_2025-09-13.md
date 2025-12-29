@@ -1,13 +1,13 @@
 # 🛰️ Recognition Without Resolution Field Log — 2025-09-13  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
-*Field evidence of partial acknowledgments offered without repair.*
+**First created:** 2025-09-13 | **Last updated:** 2025-12-29  
+*Field evidence of partial acknowledgments offered without repair.*  
 
 ---
 
 ## 🧾 Summary  
 
 This log captures FOIA, SAR, complaint, or platform replies that **acknowledge a request but do not resolve it**.  
-It operates as the evidentiary counterpart to the analytic node [🌀 Recognition Without Resolution](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution_2025-09-13.md).  
+It operates as the evidentiary counterpart to the analytic node [🌀 Recognition Without Resolution] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution_2025-09-13.md`.  
 
 ---
 
@@ -36,19 +36,15 @@ It operates as the evidentiary counterpart to the analytic node [🌀 Recognitio
 ## ✨ Stardust  
 
 partial acknowledgments, FOIA delays, SAR delays, moral laundering, recognition loops, psychological containment, forensic logging, metadata sabotage
-
 ---
 
 ## 🏮 Footer  
 
-*🛰️ Recognition Without Resolution Field Log — 2025-09-13* is a living node of the Polaris Protocol.  
-It records real-world manifestations of partial acknowledgments and non-resolutions used as psychological containment, paired with the analytic framework [🌀 Recognition Without Resolution](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution_2025-09-13.md).  
-
-> 📡 Cross-references:  
-> - [🌀 Recognition Without Resolution](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution_2025-09-13.md) — analytic framework  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — parallel visibility manipulations  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — logging conventions  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-29_
