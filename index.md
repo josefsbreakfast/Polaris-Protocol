@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 03:45:56 UTC_
+_Generated on 2025-12-29 03:50:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -546,6 +546,7 @@ _Generated on 2025-12-29 03:45:56 UTC_
         - [`🛰️_surveillance_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_surveillance_infrastructure.md)
         - [`🛰️_vendor_lock_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_vendor_lock_in.md)
         - [`🦋_butterfly_effect_in_small_states.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🦋_butterfly_effect_in_small_states.md)
+        - [`🦤_contractor_chain_leakage.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🦤_contractor_chain_leakage.md)
         - [`🧠_austerity_as_security_doctrine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧠_austerity_as_security_doctrine.md)
         - [`🧠_immortality_fantasies_of_the_ultra_rich.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧠_immortality_fantasies_of_the_ultra_rich.md)
         - [`🧠_outsourcing_the_states_plan.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧠_outsourcing_the_states_plan.md)
