@@ -1,5 +1,5 @@
 # 🛰️ Mind Games Projection — Feed Insertion Log  
-**First created:** 2025-09-13 | **Last updated:** 2025-09-13  
+**First created:** 2025-09-13 | **Last updated:** 2025-12-29  
 *Field note capturing musical projection artifact tied to diagnostic overlays and national atmosphere*  
 
 ---
@@ -33,17 +33,15 @@ Overlay resonates with far-right atmosphere in London, amplifying coercive under
 - Node type: **Field Log — Narrative/Projection Artifact**  
 - Category: *Narrative & Psych Ops → Voice Disruption / Discrediting*  
 - Classification: **Projection artifact echoing diagnostic framings**  
-
 ---
 
 ## 🏮 Footer  
-This entry logs a real-time projection artifact.  
-It situates feed-level insertions within the wider diagnostic and political overlays that shape survivor containment.  
 
-> 📡 Cross-references:  
-> - [Field Logs](../Disruption_Kit/Field_Logs/) — anomaly traces  
-> - [👅 Voice Disruption / Discrediting](../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/) — smear pattern documentation  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_  
+_Last updated: 2025-12-29_
