@@ -1,12 +1,12 @@
 # ⛴️ Stop the Boats, Trust the Bots  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-24  
-*How border theatre distracts from automated risk governance already in operation.*
+**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
+*How border theatre distracts from automated risk governance already in operation.*  
 
 ---
 
 ## 🛰️ Orientation  
 “Stop the boats” operates as a loud, visual promise of control: borders, arrivals, exclusion.  
-But the systems shaping **[Prevent](chatgpt://generic-entity?number=0)** do not arrive by sea.
+But the systems shaping **Prevent** do not arrive by sea.
 
 They arrive upstream.
 
@@ -43,3 +43,7 @@ The system exercises control far from it.
 
 The boats are loud.  
 The bots are decisive.
+
+---
+
+_Last updated: 2025-12-29_
