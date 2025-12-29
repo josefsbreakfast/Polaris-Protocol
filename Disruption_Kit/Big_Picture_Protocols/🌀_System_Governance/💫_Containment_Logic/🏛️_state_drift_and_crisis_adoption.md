@@ -1,5 +1,8 @@
 # 🏛️ State Drift & Crisis Adoption  
-*Why governments say yes*
+**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+*Why governments say "yes".*  
+
+---
 
 ## Summary
 
@@ -183,21 +186,26 @@ No vote is taken.
 No manifesto promise is broken.
 No law is changed — at first.
 
-Yet the character of governance alters.
-
----
-
-## How This Node Connects
-
-This node links directly to:
-- 🔺 _the_alignment_triangle
-- 🧠 _ideology_without_conspiracy
-- 🧱 _palantir_as_infrastructure
-- ⚖️ _rights_as_friction
-- 🛡️ _securitisation_and_fragile_governance
+Yet the character of governance alters.  
 
 ---
 
 ## One-line takeaway
 
 > Governments rarely choose infrastructure futures outright — they inherit them, normalise them, and eventually defend them as unavoidable.
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross‑references:  
+>
+> - [🔺 The Alignment Triangle](./🔺_the_alignment_triangle.md)  
+> - [🧠 Ideology Without Conspiracy](./🧠_ideology_without_conspiracy.md)  
+> - [🔮 Palantir as Infrastructure](../🛰️_Infrastructure_Procurement/🔮_palantir_as_infrastructure.md)  
+> - [🔥 Rights as Friction](../⚖️_Legal_State_Governance/🔥_rights_as_friction.md)  
+> - [🛡️ Securitisation & Fragile Governance](./💫_Containment_Logic/🛡️_securitisation_and_fragile_governance.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-29_

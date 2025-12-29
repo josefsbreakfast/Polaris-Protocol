@@ -1,5 +1,5 @@
 # ✈️ The Dragging-Out of Predictable Let-Down  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-29  
 *How institutions stretch disclosure and process over time to exhaust expectation, not to deliver justice.*  
 
 ---
@@ -126,10 +126,13 @@ It contributes analysis of how delay and managed expectation function as tools o
 
 > 📡 Cross-references:
 > 
-> - [✈️ Arresting Justice] — justice stalled mid-motion  
-> - [✈️ Justice Forbidden] — accountability pre-empted  
-> - [🗄️ Epstein Files Are Red Herrings] — misdirection through disclosure  
+> - [✈️ Arresting Justice](../../Governance_And_Containment/🈺_Governance_And_Prevent/✈️_arresting_justice.md) — *justice stalled mid-motion*  
+> - [✈️ Justice Forbidden](../../Governance_And_Containment/🈺_Governance_And_Prevent/✈️_justice_forbidden.md) — *accountability pre-empted*  
+> - [🗄️ Epstein Files Are Red Herrings](../../Governance_And_Containment/🈺_Governance_And_Prevent/🗄️_epstein_files_are_red_herrings.md) — *misdirection through disclosure*  
+> - [⏳ Looped Waiting Rooms](../../Narrative_And_Psych_Ops/🧠_Psychological_Containment/⏳_looped_waiting_rooms.md)  
+> - [🌑 Induced Futility](../../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌑_induced_futility.md)  
+> - [🐌 Delays Are Violence](../../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2025-12-29_

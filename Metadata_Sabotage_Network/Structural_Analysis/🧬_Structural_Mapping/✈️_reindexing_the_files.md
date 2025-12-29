@@ -1,6 +1,6 @@
 # ✈️ Reindexing the Files  
-**First created:** 2025-12-25 | **Last updated:** 2025-12-25  
-*How public records remain intact while discoverability quietly fails — and how to restore it.*
+**First created:** 2025-12-25 | **Last updated:** 2025-12-29  
+*How public records remain intact while discoverability quietly fails — and how to restore it.*  
 <!--It just buys time for anything hiding in plain sight.-->
 ---
 
@@ -124,9 +124,10 @@ It documents a repeatable method for restoring access to public records when off
 
 > 📡 Cross-references:
 > 
-> - [🛰️ OSINT Field Operations](../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/) — independent verification practices  
-> - [🔎 Evidence & Anomalies](../🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/) — visibility failures and record gaps  
+> - [🛰️ OSINT Field Operations](../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md) — *independent verification practices*  
+> - [🔎 Evidence & Anomalies](../../🔎_Evidence_And_Anomalies/README.md) — *visibility failures and record gaps*
+> - [🛰️ SEO as a Pressure Surface](../../Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🛰️_seo_as_a_pressure_surface.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2025-12-29_

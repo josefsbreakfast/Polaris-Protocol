@@ -1,5 +1,8 @@
 # 🛡️ Securitisation & Fragile Governance  
-*Why everything starts to look like a threat*
+**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+*Why everything starts to look like a threat*  
+
+---
 
 ## Summary
 
@@ -174,21 +177,24 @@ When the crisis passes:
 - and the baseline shifts
 
 Governance does not return to normal.
-It adapts to the new infrastructure.
-
----
-
-## How This Node Connects
-
-This node links directly to:
-- 🔺 _the_alignment_triangle
-- 🏛️ _state_drift_and_crisis_adoption
-- ⚖️ _rights_as_friction
-- 🧱 _palantir_as_infrastructure
-- 🧨 _cyber_insecurity_and_friction_systems
+It adapts to the new infrastructure.  
 
 ---
 
 ## One-line takeaway
 
 > Securitisation thrives in fragile governance environments, narrowing debate and accelerating infrastructure choices whose consequences outlast the crisis that justified them.
+
+---
+
+## How This Node Connects
+
+> 📡 Cross-references:
+> 
+> - [🔺 The Alignment Triangle](./🔺_the_alignment_triangle.md)  
+> - [🏛️ State Drift & Crisis Adoption](./🏛️_state_drift_and_crisis_adoption.md)  
+> - [🔥 Rights as Friction](../⚖️_Legal_State_Governance/🔥_rights_as_friction.md)  
+> - [🔮 Palantir as Infrastructure](../🛰️_Infrastructure_Procurement/🔮_palantir_as_infrastructure.md)  
+> - [🧨 Cyber Insecurity & Friction Systems](./🧨_cyber_insecurity_and_friction_systems.md)  
+
+_Last updated: 2025-12-29_

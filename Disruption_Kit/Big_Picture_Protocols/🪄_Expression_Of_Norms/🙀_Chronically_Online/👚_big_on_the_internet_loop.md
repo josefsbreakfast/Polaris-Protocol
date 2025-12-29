@@ -1,6 +1,6 @@
 # 👚 Big on the Internet Loop  
-**First created:** 2025-12-26  
-*How niche visibility cycles between irony, legitimacy, and relief — and why that’s the healthiest place to land.*
+**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+*How niche visibility cycles between irony, legitimacy, and relief — and why that’s the healthiest place to land.*  
 
 ---
 
@@ -127,6 +127,13 @@ internet microfame, niche visibility, irony as containment, cultural loops, refu
 ## 🏮 Footer  
 
 *👚 Big on the Internet Loop* is a living node of the **Polaris Protocol**.  
-It documents how humour preserves scale, how irony protects authorship, and why being “known enough” is often better than being known.
+It documents how humour preserves scale, how irony protects authorship, and why being “known enough” is often better than being known.  
+
+> 📡 Cross‑references:
+> 
+> - [🔮 Astrology, Projected](./🔮_astrology_projected.md)  
+> - [🕸️ Algorithmic Hearing Is Not Listening](./🕸️_algorithmic_hearing_is_not_listening.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2025-12-29_

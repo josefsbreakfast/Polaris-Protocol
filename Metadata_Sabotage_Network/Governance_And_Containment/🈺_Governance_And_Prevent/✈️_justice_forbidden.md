@@ -1,5 +1,5 @@
 # ✈️ Justice Forbidden  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-29  
 *How redaction, misfocus, and reputational triage function to pre-empt justice before it can begin.*  
 
 ---
@@ -115,7 +115,7 @@ It is weakened everywhere else.
 ---
 
 ### 6. The Case Study Problem  
-In high-profile cases involving figures such as **[Jeffrey Epstein](chatgpt://generic-entity?number=0)**, the state often treats disclosure as reputational crisis management rather than survivor-centred truth.
+In high-profile cases involving figures such as **Jeffrey Epstein**, the state often treats disclosure as reputational crisis management rather than survivor-centred truth.
 
 The result is a case study that teaches the wrong lesson:
 > that exposure substitutes for accountability.
@@ -146,7 +146,7 @@ This is especially dangerous given the long-standing tactic of recasting organis
 
 The current political environment amplifies this risk.
 
-Movements aligned with figures such as **[Donald Trump](chatgpt://generic-entity?number=0)** and contemporary MAGA discourse have repeatedly weaponised claims of:
+Movements aligned with figures such as **Donald Trump** and contemporary MAGA discourse have repeatedly weaponised claims of:
 - institutional overreach,
 - fabricated abuse narratives,
 - elite victimhood,
@@ -201,10 +201,13 @@ It contributes analysis of how justice is structurally prevented through redacti
 
 > 📡 Cross-references:
 > 
-> - [✈️ Arresting Justice] — *justice slowed and suspended*  
-> - [🗄️ Epstein Files Are Red Herrings] — *misdirection through disclosure*  
-> - [🪞 Reputational Laundering After Admission] — *post-exposure asset protection*  
+> - [✈️ Arresting Justice](./✈️_arresting_justice.md) — *justice slowed and suspended*  
+> - [🗄️ Epstein Files Are Red Herrings](./🗄️_epstein_files_are_red_herrings.md) — *misdirection through disclosure*  
+> - [*Pending:* 🪞 Reputational Laundering After Admission] — *post-exposure asset protection*
+> - [🍊 The President as Mark](../../Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🍊_the_president_as_mark.md)
+> - [👅 Bad Deepfakes — Why “Surveillance-Level” Clones Fail](../../Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/👅_bad_deepfakes.md)
+> - [🧀 Child Data Swiss-Cheese Model — Systemic Risk Framework](../../🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧀_child_data_swiss_cheese_model_systemic_risk_framework.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2025-12-29_

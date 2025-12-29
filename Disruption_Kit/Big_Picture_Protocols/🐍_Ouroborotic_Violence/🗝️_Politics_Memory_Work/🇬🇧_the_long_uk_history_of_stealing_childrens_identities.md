@@ -1,6 +1,6 @@
-# 🇬🇧 The UK History of Stealing Children’s Identities  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-24  
-*How British institutions repeatedly treated children’s identities as usable state resources.*
+# 🇬🇧 The Long UK History of Stealing Children’s Identities  
+**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
+*How British institutions repeatedly treated children’s identities as usable state resources.*  
 
 ---
 
@@ -34,7 +34,7 @@ This assumption was often implicit, rarely stated, and devastating in effect.
 
 ## 🧿 Domain 1: undercover policing and impersonation
 
-The most explicit and now formally acknowledged case is the undercover policing scandal, often referred to as **[Spycops](chatgpt://generic-entity?number=0)**.
+The most explicit and now formally acknowledged case is the undercover policing scandal, often referred to as **Spycops**.
 
 In this practice:
 - officers assumed the identities of **dead children**,
@@ -70,7 +70,7 @@ Children’s records were especially vulnerable because:
 
 ## 🧿 Domain 3: healthcare, bodies, and personhood
 
-Scandals such as **[Alder Hey organ scandal](chatgpt://generic-entity?number=1)** and the **[Bristol Royal Infirmary inquiry](chatgpt://generic-entity?number=2)** exposed a related logic.
+Scandals such as **Alder Hey organ scandal** and the **Bristol Royal Infirmary inquiry** exposed a related logic.
 
 Here, it was not identity documents but **children’s bodies** that were fragmented, retained, and repurposed without consent.
 
@@ -91,7 +91,7 @@ In immigration and nationality systems, children’s identities have been:
 - lost across agencies,
 - or invalidated in adulthood.
 
-The **[Windrush scandal](chatgpt://generic-entity?number=3)** exposed how lawful identities — including those formed in childhood — could be erased by the state and then treated as individual fault.
+The **Windrush scandal** exposed how lawful identities — including those formed in childhood — could be erased by the state and then treated as individual fault.
 
 Again, children’s legal personhood was not treated as inviolable.
 
@@ -192,15 +192,18 @@ children’s identities, spycops, organ retention, safeguarding failure, identit
 
 ## 🏮 Footer
 
-*The UK History of Stealing Children’s Identities* is a living node of the **Polaris Protocol**.  
+*🇬🇧 The Long UK History of Stealing Children’s Identities* is a living node of the **Polaris Protocol**.  
 It documents how British institutions repeatedly treated children’s identities as usable resources — and why that logic must be permanently dismantled.
 
 > 📡 Cross-references:
-> - **🪖 A Teenage Girl Was Always Worth More Than the Reputation of Dishonourable Men** — ethical boundary  
-> - **🪖 Defence Is for All of Us** — inclusive defence doctrine  
-> - **🪖 Repairing Stolen Lives** — long-term impact and repair  
-> - **🌀 Systems & Governance** — structural failure patterns  
+> 
+> - [🪖 A Teenage Girl Was Always Worth More Than the Reputation of Dishonourable Men](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪖_a_teenage_girl_was_always_worth_more_than_the_reputation_of_dishonourable_men.md) — *ethical boundary*  
+> - [🪖 Defence Is for All of Us](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪖_defence_is_for_all_of_us.md) — *inclusive defence doctrine*  
+> - [*Pending:* 🪖 Repairing Stolen Lives] — *long-term impact and repair*  
+> - [⚙️ Friction Minimisation Logic](./⚙️_friction_minimisation_logic.md)  
+> - [🗝 Privatised Record Keeping](./🗝_privatised_record_keeping.md)  
+> - [🛫 Frequent Flyers Club](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🛫_frequent_flyers_club.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2025-12-29_

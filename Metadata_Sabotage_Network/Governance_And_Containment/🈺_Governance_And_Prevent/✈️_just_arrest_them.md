@@ -1,5 +1,5 @@
 # ✈️ Just Arrest Them  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-20 | **Last updated:** 2025-12-29  
 *On how the refusal to make arrests functions as a political choice, not a legal constraint.*  
 
 ---
@@ -67,7 +67,7 @@ It is an **asymmetric advantage**.
 ---
 
 ### 4. Known Actors, Known Patterns  
-In cases involving figures such as **[Jeffrey Epstein](chatgpt://generic-entity?number=0)**, the state has repeatedly demonstrated it can:
+In cases involving figures such as **Jeffrey Epstein**, the state has repeatedly demonstrated it can:
 - document abuse,
 - trace facilitation networks,
 - and acknowledge harm,
@@ -133,10 +133,10 @@ It contributes analysis of how the refusal to make arrests — despite credible 
 
 > 📡 Cross-references:
 > 
-> - [✈️ Justice Forbidden] — *accountability pre-empted*  
-> - [✈️ Arresting Justice] — *justice stalled in motion*  
-> - [🗄️ Epstein Files Are Red Herrings] — *misdirection through disclosure*  
+> - [✈️ Justice Forbidden](./✈️_justice_forbidden.md) — *accountability pre-empted*  
+> - [✈️ Arresting Justice](./✈️_arresting_justice.md) — *justice stalled in motion*  
+> - [🗄️ Epstein Files Are Red Herrings](./🗄️_epstein_files_are_red_herrings.md) — *misdirection through disclosure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2025-12-29_

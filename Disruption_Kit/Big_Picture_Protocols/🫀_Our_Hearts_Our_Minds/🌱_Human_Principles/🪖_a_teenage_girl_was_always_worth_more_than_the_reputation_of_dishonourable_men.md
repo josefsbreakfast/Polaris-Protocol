@@ -1,6 +1,6 @@
 # 🪖 A Teenage Girl Was Always Worth More Than the Reputation of Dishonourable Men  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-24  
-*Defence institutions do not exist to protect elite reputations at the expense of human life.*
+**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
+*Defence institutions do not exist to protect elite reputations at the expense of human life.*  
 <!--I mean, so were the several honourable men and women who got gagged with the OSA when they tried to help me, but I'm feeling a bit prickly.-->
 ---
 
@@ -140,15 +140,17 @@ safeguarding, reputation misuse, elite insulation, defence ethics, moral hierarc
 
 ## 🏮 Footer
 
-*A Teenage Girl Was Always Worth More Than the Reputation of Dishonourable Men* is a living node of the **Polaris Protocol**.  
+*🪖 A Teenage Girl Was Always Worth More Than the Reputation of Dishonourable Men* is a living node of the **Polaris Protocol**.  
 It establishes a clear ethical boundary against the misuse of defence institutions for elite reputational protection.
 
 > 📡 Cross-references:
-> - **🪖 Repairing Stolen Lives** — life-scale harm and repair  
-> - **🪖 Classification, Suppression, and Misuse** — secrecy as misuse  
-> - **🪖 How Politicians Legally Strangle the MOD** — upstream pressure, downstream harm  
-> - **🌀 Systems & Governance** — ethical failure modes  
+> 
+> - [🪖 Repairing Stolen Lives] — *life-scale harm and repair*  
+> - [🪖 Classification, Suppression, and Misuse] — *secrecy as misuse*  
+> - [🪖 How Politicians Legally Strangle the MOD] — *upstream pressure, downstream harm*  
+> - [🐙 The Octopus of Knowledge](../../../../🦆_Digital_Disruption/🐝_All_In_Commons/🐙_the_octopus_of_knowledge.md) — *Polaris is an octopus-friendly zone*  
+> - [🛠️ Mutual Aid Stack](../../../../🦆_Digital_Disruption/🐝_All_In_Commons/🛠️_mutual_aid_stack.md) — *we will win*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2025-12-29_

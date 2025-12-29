@@ -1,6 +1,6 @@
 # ✈️ The “Baby Ranch” Is Boring  
-**First created:** 2025-12-25 | **Last updated:** 2025-12-25  
-*Why elite abuse fantasies are not shocking, novel, or complex — and why treating them as such does harm.*
+**First created:** 2025-12-25 | **Last updated:** 2025-12-29  
+*Why elite abuse fantasies are not shocking, novel, or complex — and why treating them as such does harm.*  
 <!--They're just boring. A risk? Yes. Interesting? No. These are the least creative perverts on G-d's green earth; for the live of all that is holy, stop flattering them and fond the financial network. Istg this stuff reads like one of their own texts to each other.-->
 ---
 
@@ -230,10 +230,10 @@ It exists to counter sensational framing by situating elite abuse fantasies with
 
 > 📡 Cross-references:
 > 
-> - [✈️ Reindexing the Files](./✈️_reindexing_the_files.md) — restoring plain access to records  
-> - [🧾 Reindexing Is Routine](./🧾_reindexing_is_routine.md) — feasibility and costing  
-> - [🛰️ OSINT Field Operations](../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/) — evidence-first analysis  
+> - [✈️ Reindexing the Files](../../Structural_Analysis/🧬_Structural_Mapping/✈️_reindexing_the_files.md) — *restoring plain access to records*  
+> - [✈️ Reindexing Is Routine](../../Structural_Analysis/🧬_Structural_Mapping/✈️_reindexing_is_routine.md) — *feasibility and costing*  
+> - [🛰️ OSINT Field Operations](../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/) — *evidence-first analysis*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2025-12-29_

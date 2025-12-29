@@ -1,6 +1,6 @@
 # ❓ Why Parliamentary Questions Come First  
-**First created:** 2025-12-26  
-*How MPs surface pressure points before positions — and why rural policing appearing early matters.*
+**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+*How MPs surface pressure points before positions — and why rural policing appearing early matters.*  
 
 ---
 
@@ -153,7 +153,7 @@ In other words:
 
 ---
 
-## 🏮 Closing note
+## ✨ Closing note
 
 PQs are not the end of the conversation.
 They are the beginning.
@@ -161,4 +161,19 @@ They are the beginning.
 They tell you where pressure is building **before** it turns into speeches, headlines, or protest.
 
 Seeing rural policing surface here is not dramatic.
-It is procedural — and that is precisely why it matters.
+It is procedural — and that is precisely why it matters.  
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross‑references
+> 
+> - [🧨 Prevent: The Parliamentary Surveillance Machine](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧨_prevent_the_parliamentary_surveillance_machine.md)  
+> - [🏛️ Parliamentary Safeguards — The Missing Curriculum for Power](./🏛️_parliamentary_safeguards.md)
+> - [👁️‍🗨️ Mindfuck Reflex — Obama Lineage and UK Fragmentation](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/👁️‍🗨️_mindfuck_reflex.md)  
+> - [🏉 Regaining Possession](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🏉_regaining_possession.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2025-12-29_

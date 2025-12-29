@@ -1,6 +1,6 @@
 # ✈️ Reindexing Is Routine  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-24  
-*Why large-scale document reindexing is treated as impossible in public — and as standard practice in private.*
+**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
+*Why large-scale document reindexing is treated as impossible in public — and as standard practice in private.*  
 <!--This is why not doing it, or pretending it's impossible, is a choice.-->
 ---
 
@@ -209,9 +209,10 @@ It documents the gap between public claims of impossibility and private-sector r
 
 > 📡 Cross-references:
 > 
-> - [✈️ Reindexing the Files](./✈️_reindexing_the_files.md) — technical method  
-> - [🛰️ OSINT Field Operations](../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/) — independent verification practices  
+> - [✈️ Reindexing the Files](./✈️_reindexing_the_files.md) — *technical method*  
+> - [🛰️ OSINT Field Operations](../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/) — *independent verification practices*
+> - [🛰️ SEO as a Pressure Surface](../../Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🛰️_seo_as_a_pressure_surface.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2025-12-29_

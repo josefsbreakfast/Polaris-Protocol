@@ -1,6 +1,6 @@
 # ✈️ They Always Think They Are Geniuses  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-24  
-*Why elite abusers, controlling donors, and high-power figures reliably mistake entitlement for intelligence.*
+**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
+*Why elite abusers, controlling donors, and high-power figures reliably mistake entitlement for intelligence.*  
 <!--Tldr: they have soft egos and a wallet. Neither require many grey cells.-->
 ---
 
@@ -178,10 +178,10 @@ It exists to demystify how entitlement, money, and insulation repeatedly masquer
 
 > 📡 Cross-references:
 > 
-> - [✈️ The “Baby Ranch” Is Boring](./✈️_the_baby_ranch_is_boring.md) — demystifying elite abuse fantasy  
-> - [🧾 Reindexing Is Routine](./🧾_reindexing_is_routine.md) — governance over mystique  
-> - [✈️ Reindexing the Files](./✈️_reindexing_the_files.md) — boring work that matters  
+> - [✈️ The “Baby Ranch” Is Boring](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/✈️_the_baby_ranch_is_boring.md) — *demystifying elite abuse fantasy*  
+> - [✈️ Reindexing Is Routine](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/✈️_reindexing_is_routine.md) — *governance over mystique*  
+> - [✈️ Reindexing the Files](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/✈️_reindexing_the_files.md) — *boring work that matters*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2025-12-29_
