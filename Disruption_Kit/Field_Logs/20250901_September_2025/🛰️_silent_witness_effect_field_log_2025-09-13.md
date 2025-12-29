@@ -1,5 +1,5 @@
 # 🛰️ Silent Witness Effect Field Log — 2025-09-13  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-13 | **Last updated:** 2025-12-29  
 *Field evidence of perceived or real observation altering behaviour.*  
 
 ---
@@ -7,7 +7,7 @@
 ## 🧾 Summary  
 
 This log captures **moments of felt surveillance** — instances where survivors changed their behaviour due to perceived observers, read receipts, “coincidences,” or visible monitoring equipment.  
-It operates as the evidentiary counterpart to the analytic node [👁️ Silent Witness Effect](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/👁️_silent_witness_effect_2025-09-13.md).  
+It operates as the evidentiary counterpart to the analytic node [👁️ Silent Witness Effect] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/👁️_silent_witness_effect_2025-09-13.md`.  
 
 ---
 
@@ -33,8 +33,8 @@ It operates as the evidentiary counterpart to the analytic node [👁️ Silent 
 
 ## 🔍 Correlation Pointers  
 
-- Compare with [🪆 Narrative Interference](../../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪆_narrative_interference.md) — tone-shift tactics.  
-- Cross-reference [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) for coinciding platform events.  
+- Compare with [🪆 Narrative Interference] `../../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪆_narrative_interference.md` — tone-shift tactics.  
+- Cross-reference [📉 Suppression Interference Logs] `../../📉_Suppression_Interference_Logs.md` for coinciding platform events.  
 - Track the gap between observation cues and self-censorship behaviour.  
 
 ---
@@ -53,14 +53,11 @@ silent witness effect, surveillance cues, observer effect, behavioural change, s
 
 ## 🏮 Footer  
 
-*🛰️ Silent Witness Effect Field Log — 2025-09-13* is a living node of the Polaris Protocol.  
-It records real-world manifestations of felt surveillance altering behaviour, paired with the analytic framework [👁️ Silent Witness Effect](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/👁️_silent_witness_effect_2025-09-13.md).  
-
-> 📡 Cross-references:  
-> - [👁️ Silent Witness Effect](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/👁️_silent_witness_effect_2025-09-13.md) — analytic framework  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — overlapping platform evidence  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — logging conventions  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-29_
