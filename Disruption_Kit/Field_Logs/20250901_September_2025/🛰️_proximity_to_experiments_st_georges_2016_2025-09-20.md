@@ -1,6 +1,6 @@
 # 🛰️ Field Log — Proximity to Experiments: Counterfactual St George’s 2016  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
-*Hypothesis that attending St George’s (London) in 2016 would have increased exposure to early behavioural-insight pilots, and that displacement to Nottingham reduced that proximity.*
+**First created:** 2025-09-20 | **Last updated:** 2025-12-29  
+*Hypothesis that attending St George’s (London) in 2016 would have increased exposure to early behavioural-insight pilots, and that displacement to Nottingham reduced that proximity.*  
 
 ---
 
@@ -41,16 +41,19 @@ The subject reflects that if they had attended **St George’s, University of Lo
 ---
 
 ## 📡 Cross-References  
-- [🧭 Nudge Origin → Sludge Node](../Big_Picture_Protocols/🧭_nudge_origin_to_sludge.md)  
-- [🧭 Counterfactual — St George’s 2016](../Big_Picture_Protocols/🧭_counterfactual_st_georges_2016.md)  
-- [⚖️ Transparency Floor Node](../Big_Picture_Protocols/⚖️_transparency_floor.md)  
+- [🧭 Nudge Origin → Sludge Node] `../Big_Picture_Protocols/🧭_nudge_origin_to_sludge.md`  
+- [🧭 Counterfactual — St George’s 2016] `../Big_Picture_Protocols/🧭_counterfactual_st_georges_2016.md`  
+- [⚖️ Transparency Floor Node] `../Big_Picture_Protocols/⚖️_transparency_floor.md`  
 
 ---
 
 ## 🏮 Footer  
-*Field Log — Proximity to Experiments: Counterfactual St George’s 2016* is a living node of the Polaris Protocol.  
-It records the subject’s reflection on displacement away from early behavioural pilot zones and the anomalous “test-like” feel of the nudge itself.  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-29_
