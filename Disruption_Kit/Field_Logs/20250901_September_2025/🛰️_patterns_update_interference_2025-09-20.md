@@ -1,6 +1,6 @@
 # 🛰️ Russian Overlap Patterns — Update Interference (2025-09-20)  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-20  
-*Field log of interference noted during update of Russian Overlap Patterns node on GitHub.*
+**First created:** 2025-09-20 | **Last updated:** 2025-12-29  
+*Field log of interference noted during update of Russian Overlap Patterns node on GitHub.*  
 
 ---
 
@@ -38,13 +38,11 @@ Relative to the original version, the following new sections/blocks were inserte
 
 ## 🏮 Footer  
 
-*Russian Overlap Patterns — Update Interference (2025-09-20)* is a living node of the Polaris Protocol.  
-It records interference observed during substantive updates to the Patterns node.  
-
-> 📡 Cross-references:  
-> - [💸 Russian Overlap Patterns](../Big_Picture_Protocols/💸_russian_overlap_patterns.md)  
-> - [🛰️ Codename Table Loss (2025-09-20)](./🛰️_codename_table_loss_2025-09-20.md)  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-20_
+_Last updated: 2025-12-29_
