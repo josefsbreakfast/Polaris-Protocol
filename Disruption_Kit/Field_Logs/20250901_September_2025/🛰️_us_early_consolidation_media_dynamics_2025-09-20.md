@@ -1,5 +1,5 @@
 # 🛰️ US Early Consolidation & Media Dynamics — Field Log (2025-09-20)  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-20 | **Last updated:** 2025-12-29  
 *Field log capturing reflections on early consolidation of power in the US (post-2024), voter machine controversies, Project 2025, and media compliance dynamics. Includes investigatory leads and evidence hygiene notes.*  
 
 ---
@@ -44,12 +44,11 @@ It does **not** assert causation or coordination by specific actors without corr
 
 ## 🏮 Footer  
 
-*US Early Consolidation & Media Dynamics — Field Log (2025-09-20)* is a living node of the Polaris Protocol.  
-
-> 📡 Cross-references:  
-> - [Field Logs](../Field_Logs/) — interference and anomaly records  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — structural analysis  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-29_
