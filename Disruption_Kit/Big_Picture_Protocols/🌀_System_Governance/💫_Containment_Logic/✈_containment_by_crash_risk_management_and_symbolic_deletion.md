@@ -46,7 +46,9 @@ It documents how engineered accidents act as a cleansing mechanism for systems t
 
 > 📡 Cross-references:
 > 
-> - [🕳️ Black Box Epistemology in Post-Soviet Accidents](../../🦕_Elder_Influencers/🕸️_World_Webs/🕳️_black_box_epistemology_in_post_soviet_accidents.md) — *epistemic counterpart*  
+> - [🕳️ Black Box Epistemology in Post-Soviet Accidents](../../🦕_Elder_Influencers/🕸️_World_Webs/🕳️_black_box_epistemology_in_post_soviet_accidents.md) — *epistemic counterpart*
+> - [🕯️ Crash Sites as Temporal Loops](../../🦕_Elder_Influencers/🕸️_World_Webs/🕯️_crash_sites_as_temporal_loops.md)
+> - [🏒 Ice and Ideology — The VVS Hockey Team Crash](../../🦕_Elder_Influencers/🕸️_World_Webs/🏒_ice_and_ideology_the_vvs_hockey_team_crash.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
