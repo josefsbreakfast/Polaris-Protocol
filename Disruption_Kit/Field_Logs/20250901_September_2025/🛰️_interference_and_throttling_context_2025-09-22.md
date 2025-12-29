@@ -1,5 +1,5 @@
 # 🛰️ Interference and Throttling Context — Field Log  
-**First created:** 2025-09-22 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-22 | **Last updated:** 2025-12-29  
 *Record of a concentrated week (2025-09-15 → 2025-09-22) of pronounced interference, connectivity outages, and the effects on capacity and workflow.*  
 
 ---
@@ -73,16 +73,13 @@ Over this seven-day window the intensity and frequency of interference noticeabl
 
 ---
 
-## 📡 Cross-References  
-- [Field Logs](../Field_Logs/) — dated forensic documentation  
-- [Containment Scripts](../Containment_Scripts/) — suppression and throttling methods  
-
----
-
 ## 🏮 Footer  
-*Interference and Throttling Context — Field Log* is a living node of the Polaris Protocol.  
-It documents the impacts of sustained interference and throttling — across a defined seven-day window — situating technical disruption alongside physical, tactical, and livelihood impacts.  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-29_
