@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 11:07:40 UTC_
+_Generated on 2025-12-29 11:09:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1402,6 +1402,7 @@ _Generated on 2025-12-29 11:07:40 UTC_
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)
         - [`uk_morale_post_2016.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/uk_morale_post_2016.png)
+        - [`☔️_stuck_in_digital_quicksand.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/☔️_stuck_in_digital_quicksand.md)
         - [`♨️_prosocial_nudge_burnout_syndrome.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/♨️_prosocial_nudge_burnout_syndrome.md)
         - [`⚙️_high_friction_people_and_systemic_mismatch.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/⚙️_high_friction_people_and_systemic_mismatch.md)
         - [`🃏_the_fool_protocol_ai_ethics_through_tarot.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🃏_the_fool_protocol_ai_ethics_through_tarot.md)
@@ -3945,7 +3946,6 @@ _Generated on 2025-12-29 11:07:40 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`ZDC_README.md`](Polaris_Nest/Git_Intake_Drawer/ZDC_README.md)
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
-    - [`☔️_stuck_in_digital_quicksand.md`](Polaris_Nest/Git_Intake_Drawer/☔️_stuck_in_digital_quicksand.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`☕️_the_death_of_the_british_eccentic.md`](Polaris_Nest/Git_Intake_Drawer/☕️_the_death_of_the_british_eccentic.md)
