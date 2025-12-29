@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 13:25:10 UTC_
+_Generated on 2025-12-29 13:26:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3577,6 +3577,7 @@ _Generated on 2025-12-29 13:25:10 UTC_
       - [`⚖️_schmittian_logic_in_policing_practice.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_schmittian_logic_in_policing_practice.md)
       - [`⚡️_citizen_polaris.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚡️_citizen_polaris.md)
       - [`✈️_patterns_survivors_and_shatterforks.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/✈️_patterns_survivors_and_shatterforks.md)
+      - [`✈️_reindexing_is_routine.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/✈️_reindexing_is_routine.md)
       - [`🌀_authoritarian_capture_lifecycle.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_authoritarian_capture_lifecycle.md)
       - [`🌀_loop_notes_on_ai_language.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_loop_notes_on_ai_language.md)
       - [`🌋_escalation_drift_in_complex_datasets.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌋_escalation_drift_in_complex_datasets.md)
@@ -3954,7 +3955,6 @@ _Generated on 2025-12-29 13:25:10 UTC_
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`✈️_reindexing_is_routine.md`](Polaris_Nest/Git_Intake_Drawer/✈️_reindexing_is_routine.md)
     - [`✈️_reindexing_the_files.md`](Polaris_Nest/Git_Intake_Drawer/✈️_reindexing_the_files.md)
     - [`✈️_release_the_british_files.md`](Polaris_Nest/Git_Intake_Drawer/✈️_release_the_british_files.md)
     - [`✈️_ridiculous_risk_envelopes.md`](Polaris_Nest/Git_Intake_Drawer/✈️_ridiculous_risk_envelopes.md)
