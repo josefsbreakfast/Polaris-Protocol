@@ -1,5 +1,5 @@
 # 🛰️ Field Log — Retrospective Throttling Cross-References (2025-09-22)  
-**First created:** 2025-09-22 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-22 | **Last updated:** 2025-12-29   
 *Collects BlueSky posts, screenshots, device logs, timestamps, and short notes documenting throttling patterns. Built for evidence preservation and legal prep.*  
 
 ---
@@ -42,15 +42,17 @@
 ---
 
 ## 📡 Cross-References  
-- [🛰️ Interference and Throttling Context (2025-09-22)](../Field_Logs/🛰️_interference_and_throttling_context_2025-09-22.md)  
-- [Survivor Tools](../Survivor_Tools/) — extraction templates and checklists  
-
+- [🛰️ Interference and Throttling Context (2025-09-22)] `../Field_Logs/🛰️_interference_and_throttling_context_2025-09-22.md`  
+- [Survivor Tools] `../Survivor_Tools/` — extraction templates and checklists  
 ---
 
 ## 🏮 Footer  
-*Field Log — Retrospective Throttling Cross-References (2025-09-22)* is a living node of the Polaris Protocol.  
-It documents throttling evidence across platforms, preserving materials for forensic and legal review.  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-29_
