@@ -1,5 +1,5 @@
 # 🛰️ Weaponised Empathy Gaps Field Log — 2025-09-13  
-**First created:** 2025-09-13 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-13 | **Last updated:** 2025-12-29  
 *Field evidence of strategic empathy withdrawal or selective caring used as containment.*  
 
 ---
@@ -7,7 +7,7 @@
 ## 🧾 Summary  
 
 This log captures **documented absences of empathy** — moments where help, solidarity, or validation were withheld at critical junctures.  
-It operates as the evidentiary counterpart to the analytic node [💔 Weaponised Empathy Gaps](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps_2025-09-13.md).  
+It operates as the evidentiary counterpart to the analytic node [💔 Weaponised Empathy Gaps] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps_2025-09-13.md`.  
 
 ---
 
@@ -33,9 +33,9 @@ It operates as the evidentiary counterpart to the analytic node [💔 Weaponised
 
 ## 🔍 Correlation Pointers  
 
-- Cross-reference [🫀 Pathologising Sensitivity](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_pathologising_sensitivity_2025-09-13.md) — when empathy becomes liability.  
-- Compare timing with [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) for overlapping silence events.  
-- Link to [🫂 Intimacy Gatekeeping](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md) — withheld touch as parallel mechanism.  
+- Cross-reference [🫀 Pathologising Sensitivity] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_pathologising_sensitivity_2025-09-13.md` — when empathy becomes liability.  
+- Compare timing with [📉 Suppression Interference Logs] `../../📉_Suppression_Interference_Logs.md` for overlapping silence events.  
+- Link to [🫂 Intimacy Gatekeeping] `../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md` — withheld touch as parallel mechanism.  
 
 ---
 
@@ -53,16 +53,11 @@ empathy gaps, selective care, moral withdrawal, psychological containment, silen
 
 ## 🏮 Footer  
 
-*🛰️ Weaponised Empathy Gaps Field Log — 2025-09-13* is a living node of the Polaris Protocol.  
-It records real-world manifestations of empathy withdrawal and moral non-intervention, paired with the analytic framework [💔 Weaponised Empathy Gaps](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps_2025-09-13.md).  
-
-> 📡 Cross-references:  
-> - [💔 Weaponised Empathy Gaps](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps_2025-09-13.md) — analytic framework  
-> - [🫀 Pathologising Sensitivity](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫀_pathologising_sensitivity_2025-09-13.md) — empathy reframed as instability  
-> - [🫂 Intimacy Gatekeeping](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🫂_intimacy_gatekeeping.md) — withheld connection  
-> - [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs.md) — technical cross-validation  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/) — logging standards  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2025-12-29_
