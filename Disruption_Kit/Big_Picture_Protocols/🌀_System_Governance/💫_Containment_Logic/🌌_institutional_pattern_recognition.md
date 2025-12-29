@@ -1,5 +1,5 @@
 # 🌌 Institutional Pattern Recognition  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-16 | **Last updated:** 2025-12-29  
 *How institutions recognise behavioural anomalies — not through surveillance, but through human pattern-reading and administrative friction.*  
 
 ---
@@ -210,6 +210,13 @@ institutional perception, pattern recognition, administrative friction, behaviou
 *🌌 Institutional Pattern Recognition* is a living node of the Polaris Protocol.  
 It explains how institutions recognise behavioural anomalies not through surveillance, but through the repetition, tone, and context of human behaviour.
 
+> 📡 **Cross-references:**
+>
+> [🧠 The Continuum of Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md)  
+> [🐍 Venomous Pattern Mapping](../../../Survivor_Tools/🐍_venomous_pattern_mapping.md)  
+> [🪶 Pattern Tracking Protocols](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_pattern_tracking_protocols.md)  
+> [🧩 The Recognition Event: When You Realise You’re Not Imagining It](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_the_recognition_event.md)  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-29_
