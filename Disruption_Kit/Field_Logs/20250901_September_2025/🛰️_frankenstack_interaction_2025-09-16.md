@@ -1,5 +1,5 @@
 # 🛰️ Frankenstack Interaction — Field Log  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-16 | **Last updated:** 2025-12-29  
 *Forensic log capturing reported misclassification, compliance opacity, and survivor response.*  
 
 ---
@@ -43,16 +43,20 @@
 ---
 
 ## 📡 Cross-References  
-- [🛰️ Frankenstack Forks for White Perpetrators — Field Log (2025-09-17)](../Field_Logs/🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md)  
-- [⚖️ Compliance as Opacity — UK CVE](../Big_Picture_Protocols/⚖️_compliance_as_opacity_uk_cve.md)  
-- [Survivor Tools](../Survivor_Tools/) — playbooks and countermeasures  
+- [🛰️ Frankenstack Forks for White Perpetrators — Field Log (2025-09-17)]( `../Field_Logs/🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md`  
+- [⚖️ Compliance as Opacity — UK CVE] `../Big_Picture_Protocols/⚖️_compliance_as_opacity_uk_cve.md`  
+- [Survivor Tools] `../Survivor_Tools/` — playbooks and countermeasures  
 
 ---
 
 ## 🏮 Footer  
 *Frankenstack Interaction — Field Log* is a living evidence node of the Polaris Protocol.  
 It records survivor experience of Frankenstack anomalies, linking them to systemic opacity and potential abuse of classifiers.  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-29_
