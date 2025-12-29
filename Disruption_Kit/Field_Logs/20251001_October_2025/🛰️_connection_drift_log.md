@@ -107,14 +107,12 @@ connection drift, recall lapse, semantic stall, buffer overload, markdown render
 ---
 
 ## 🏮 Footer  
-*Connection Drift Log — Session Fragmentation during Oversight-Cluster Build* is a dated **Field Log** of the Polaris Protocol.  
-It records interface, semantic, and behavioural discontinuities observed during the Oversight-Collapse cluster build, including apparent agentic-mimicry behaviour that mirrors the systemic drift analysed in companion nodes.
 
-> 📡 Cross-references:  
-> - [🧩 Hybrid Threat Overlay](../🧩_hybrid_threat_overlay.md) — first freeze location  
-> - [⚙️ Silent Escalation](../⚙️_silent_escalation.md) — conceptual analogue  
-> - [🧱 Systemic Porosity](../🧱_systemic_porosity.md) — macro-level version of same logic  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2025-12-29_
