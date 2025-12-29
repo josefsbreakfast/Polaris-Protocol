@@ -1,6 +1,6 @@
 # 🛰️ Repressed Obsessions in Surveillance Referencing  
-**First created:** 2025-09-21 | **Last updated:** 2025-09-27  
-*Field log on recurring adult-entertainment projections within surveillance overlays, and the tonal shift following a public complaint.*
+**First created:** 2025-09-21 | **Last updated:** 2025-12-29  
+*Field log on recurring adult-entertainment projections within surveillance overlays, and the tonal shift following a public complaint.*  
 
 ---
 
@@ -41,13 +41,11 @@ This log captures that tonal change and the persistence of metadata/references a
 
 ## 🏮 Footer  
 
-*Repressed Obsessions in Surveillance Referencing* is a living node of the Polaris Protocol.  
-It documents the timeline of a grooming-linked complaint, the immediate tonal shift that followed, and the persistence of projection through metadata traces.  
-
-> 📡 Cross-references:  
-> - [Field Logs](../Disruption_Kit/Field_Logs/) — dated forensic notes and anomalies  
-> - [🐦‍🔥 Trauma Psychology & Medical Misuse](../Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_trauma_psychology_medical_misuse.md) — on grooming impacts and systemic misuse  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-29_
