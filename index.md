@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 13:36:36 UTC_
+_Generated on 2025-12-29 13:41:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3320,6 +3320,7 @@ _Generated on 2025-12-29 13:36:36 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/README.md)
       - [`⚙️_engines_of_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/⚙️_engines_of_containment.md)
       - [`✈️_nonce_or_negligence.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/✈️_nonce_or_negligence.md)
+      - [`✈️_ridiculous_risk_envelopes.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/✈️_ridiculous_risk_envelopes.md)
       - [`🎪_when_the_armour_cracks.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🎪_when_the_armour_cracks.md)
       - [`🏛️_oversight_collapse_under_systemic_attrition.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🏛️_oversight_collapse_under_systemic_attrition.md)
       - [`📊_analytics_as_signal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/📊_analytics_as_signal.md)
@@ -3957,7 +3958,6 @@ _Generated on 2025-12-29 13:36:36 UTC_
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
     - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
-    - [`✈️_ridiculous_risk_envelopes.md`](Polaris_Nest/Git_Intake_Drawer/✈️_ridiculous_risk_envelopes.md)
     - [`✈️_the_baby_ranch_is_boring.md`](Polaris_Nest/Git_Intake_Drawer/✈️_the_baby_ranch_is_boring.md)
     - [`✈️_they_always_think_they_are_geniuses.md`](Polaris_Nest/Git_Intake_Drawer/✈️_they_always_think_they_are_geniuses.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
