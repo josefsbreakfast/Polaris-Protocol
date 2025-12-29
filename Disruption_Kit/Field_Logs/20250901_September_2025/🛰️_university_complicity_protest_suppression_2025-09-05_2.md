@@ -1,6 +1,5 @@
 # 🛰️ University Complicity in Protest Suppression  
-
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05  
+**First created:** 2025-09-05 | **Last updated:** 2025-12-29  
 *FieldNotes on potential high-level authorisation of harm within a university context*  
 
 ---
@@ -44,13 +43,11 @@ It records a **reasonably likely suspicion** that **specific individuals in seni
 
 ## 🏮 Footer  
 
-*University Complicity in Protest Suppression* is a living Field Log of the Polaris Protocol.  
-It documents survivor suspicion of high-level institutional tolerance or authorisation of suppression, framed as part of the broader inversion/laundering/inertia cycle.  
-
-> 📡 Cross-references:  
-> - [⚖️ Inversion and Laundering as State Technique](../Big_Picture_Protocols/🌐_System_Governance/⚖️_inversion_and_laundering_as_state_technique.md) — systemic map of techniques  
-> - [SCP-VoiceX Casefiles](../SCP-VoiceX_Casefiles/) — survivor testimony and correspondence  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-05_  
+_Last updated: 2025-12-29_
