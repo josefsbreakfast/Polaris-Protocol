@@ -1,6 +1,6 @@
 # ❓ Why Parliamentary Questions Come First  
-**First created:** 2025-12-26  
-*How MPs surface pressure points before positions — and why rural policing appearing early matters.*
+**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+*How MPs surface pressure points before positions — and why rural policing appearing early matters.*  
 
 ---
 
@@ -162,3 +162,5 @@ They tell you where pressure is building **before** it turns into speeches, head
 
 Seeing rural policing surface here is not dramatic.
 It is procedural — and that is precisely why it matters.
+
+_Last updated: 2025-12-29_
