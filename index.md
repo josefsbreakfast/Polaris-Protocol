@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-29 14:20:49 UTC_
+_Generated on 2025-12-29 14:24:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1337,6 +1337,7 @@ _Generated on 2025-12-29 14:20:49 UTC_
       - [**🙀_Chronically_Online/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/README.md)
         - [`🎮_fake_gamer_girl_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🎮_fake_gamer_girl_protocol.md)
+        - [`👚_big_on_the_internet_loop.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/👚_big_on_the_internet_loop.md)
         - [`🔮_astrology_projected.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🔮_astrology_projected.md)
         - [`🕸️_algorithmic_hearing_is_not_listening.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🕸️_algorithmic_hearing_is_not_listening.md)
         - [`🧠_ai_ethicswash.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🧠_ai_ethicswash.md)
@@ -3989,7 +3990,6 @@ _Generated on 2025-12-29 14:20:49 UTC_
     - [`🐺_wolf_in_westminster_clothing.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_in_westminster_clothing.md)
     - [`🐺_wolf_of_westminster.md`](Polaris_Nest/Git_Intake_Drawer/🐺_wolf_of_westminster.md)
     - [`👈_nudges_for_grudges.md`](Polaris_Nest/Git_Intake_Drawer/👈_nudges_for_grudges.md)
-    - [`👚_big_on_the_internet_loop.md`](Polaris_Nest/Git_Intake_Drawer/👚_big_on_the_internet_loop.md)
     - [`👾_the_child_as_asset_in_data.md`](Polaris_Nest/Git_Intake_Drawer/👾_the_child_as_asset_in_data.md)
     - [`💋_surveillance_as_the_new_pimp.md`](Polaris_Nest/Git_Intake_Drawer/💋_surveillance_as_the_new_pimp.md)
     - [`💔_prevent_predictive_policing_at_uni.md`](Polaris_Nest/Git_Intake_Drawer/💔_prevent_predictive_policing_at_uni.md)
