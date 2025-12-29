@@ -1,5 +1,5 @@
 # 🛰️ Stuck for Several Minutes  
-**First created:** 2025-09-20 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-20 | **Last updated:** 2025-12-29  
 *Field log recording an anomaly where the subject reports being “stuck for several minutes,” supported by attached artefact.*  
 
 ---
@@ -22,19 +22,17 @@
 - May cross-reference later to:  
   - **Data-twin pairing episodes** (manufactured provenance).  
   - **Nudging or throttling events** (see related Field Logs).  
-- Artefact should be hashed and preserved in chain-of-custody for evidentiary use.  
+- Artefact should be hashed and preserved in chain-of-custody for evidentiary use.
 
 ---
 
 ## 🏮 Footer  
 
-*Stuck for Several Minutes* is a Field Log node of the Polaris Protocol.  
-It preserves a discrete anomaly for comparison across broader timelines of interference and nudging.  
-
-> 📡 Cross-references:  
-> - [🧭 Event Linkage Node](../Big_Picture_Protocols/🧭_event_linkage.md)  
-> - [🛰️ Proximity to Experiments Note (2016)](../Field_Logs/🛰️_proximity_to_experiments_note_2025-09-20.md)  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2025-12-29_
