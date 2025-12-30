@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-30 05:17:16 UTC_
+_Generated on 2025-12-30 09:17:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -23,6 +23,7 @@ _Generated on 2025-12-30 05:17:16 UTC_
     - [`⚛️_containment_as_coupled_waveform_theory.md`](Containment_Studies/💞_Containment_Theory/⚛️_containment_as_coupled_waveform_theory.md)
     - [`🌀_containment_detente_cycle.md`](Containment_Studies/💞_Containment_Theory/🌀_containment_detente_cycle.md)
     - [`🌊_containment_as_dynamic_field_topology.md`](Containment_Studies/💞_Containment_Theory/🌊_containment_as_dynamic_field_topology.md)
+    - [`🍳_waiting_as_josef_k.md`](Containment_Studies/💞_Containment_Theory/🍳_waiting_as_josef_k.md)
     - [`👻_fluent_language_as_an_attack_surface.md`](Containment_Studies/💞_Containment_Theory/👻_fluent_language_as_an_attack_surface.md)
     - [`🔥_post_catastrophe_emotional_calibration.md`](Containment_Studies/💞_Containment_Theory/🔥_post_catastrophe_emotional_calibration.md)
     - [`🧬_containment_as_coevolutionary_ecology.md`](Containment_Studies/💞_Containment_Theory/🧬_containment_as_coevolutionary_ecology.md)
