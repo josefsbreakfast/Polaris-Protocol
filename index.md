@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-30 05:05:20 UTC_
+_Generated on 2025-12-30 05:07:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4034,6 +4034,7 @@ _Generated on 2025-12-30 05:05:20 UTC_
     - [`🦖_20_years_of_trex_behaviour.md`](Polaris_Nest/Git_Intake_Drawer/🦖_20_years_of_trex_behaviour.md)
     - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
+    - [`🧄_central_inspectorate_of_allium.md`](Polaris_Nest/Git_Intake_Drawer/🧄_central_inspectorate_of_allium.md)
     - [`🧋_the_£50_milkshake_principle.md`](Polaris_Nest/Git_Intake_Drawer/🧋_the_£50_milkshake_principle.md)
     - [`🧟‍♀️_data_as_attempted_deletion.md`](Polaris_Nest/Git_Intake_Drawer/🧟‍♀️_data_as_attempted_deletion.md)
     - [`🧠_unfulfilled_first_brain.md`](Polaris_Nest/Git_Intake_Drawer/🧠_unfulfilled_first_brain.md)
