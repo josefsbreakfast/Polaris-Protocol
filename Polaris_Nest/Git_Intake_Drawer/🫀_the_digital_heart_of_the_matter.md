@@ -1,5 +1,5 @@
 # 🫀 The Digital Heart of the Matter  
-**First created:** 2025-01-31 | **Last updated:** 2025-01-31  
+**First created:** 2025-12-31 | **Last updated:** 2025-12-31  
 *How data exhaust, corruption, and inconsistency create a temporary but dangerous exposure window for democracies*
 
 ---
