@@ -377,7 +377,23 @@ It is the **endgame of an ungoverned data era**.
 
 The task now is persistence.
 
-Long enough for the pressure to burn itself out.
+Long enough for the pressure to burn itself out.  
+
+---
+
+## 🏭 Capitalism, Permission, and Atrocity Without Ideology
+
+A common misconception is that corporate involvement in extreme harm requires ideological commitment. History shows otherwise.
+
+Some of the most severe abuses of the twentieth century were enabled not by corporate belief, but by profit-seeking behaviour operating under political permission. European industrial firms integrated forced labour from concentration and death camps into production systems, treating human beings as expendable inputs. Many of these firms survived, expanded, and were never meaningfully held to account for the economic benefit extracted.
+
+This was not an aberration of ideology. It was an outcome of incentives.
+
+Capitalism does not require hatred to produce atrocity. It requires only legal cover, market access, and the absence of enforcement. When states signal that certain actions are tolerated, strategic, or too costly to prosecute, corporate systems adapt efficiently.
+
+This historical continuity matters today. Modern firms operating across defence, surveillance, analytics, and logistics do not need political alignment to participate in harmful systems. They need contracts, deniability, and regulatory silence.
+
+The danger lies not in individual intent, but in structures that reward compliance with power and delay accountability. That is how proximity to abuse becomes normalised — and how future liability is quietly accumulated.
 
 ---
 
