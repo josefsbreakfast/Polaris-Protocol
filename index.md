@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2025-12-31 06:11:46 UTC_
+_Generated on 2025-12-31 06:15:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1320,6 +1320,7 @@ _Generated on 2025-12-31 06:11:46 UTC_
         - [`🕳_narrative_misattribution_and_war_testimony.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🕳_narrative_misattribution_and_war_testimony.md)
         - [`🖨️_print_culture_as_precedent.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🖨️_print_culture_as_precedent.md)
         - [`🚀_scarcity_prohibition_rocket_fuel.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🚀_scarcity_prohibition_rocket_fuel.md)
+        - [`🤭_who_is_scared_of_the_internationale.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🤭_who_is_scared_of_the_internationale.md)
         - [`🧠_language_of_the_information_age.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🧠_language_of_the_information_age.md)
         - [`🧿_canonisation_by_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🧿_canonisation_by_erasure.md)
         - [`🪄_the_magical_disappearing_book.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🪄_the_magical_disappearing_book.md)
