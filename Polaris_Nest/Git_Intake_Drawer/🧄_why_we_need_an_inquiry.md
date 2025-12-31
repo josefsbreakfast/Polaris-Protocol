@@ -306,7 +306,32 @@ A credible inquiry would:
 - and reaffirm that power does not exempt responsibility  
 
 Democracies that confront harm become stronger.  
-Democracies that avoid it become brittle.
+Democracies that avoid it become brittle.  
+
+---
+
+## 🧭 Why This Is Not Partisan
+
+If the issues raised in this document were merely partisan, they would already have been aggressively weaponised.
+
+In the UK’s adversarial political system, major parties routinely exploit far less serious failures to damage opponents. The absence of sustained, cross-party attack on this issue is therefore not reassuring — it is diagnostic.
+
+This silence suggests that:
+- exposure would cut across party lines
+- reputational damage would not be containable to one faction
+- and mutual restraint has replaced democratic accountability
+
+In other words, this is not a left–right issue.
+It is a **power–accountability issue**.
+
+The inquiry proposed here does not advantage one party over another.  
+It clarifies institutional responsibility, regardless of political alignment.
+
+That is precisely why it has not been pursued.  
+
+Politics should not be a ticket out of responsibility, in facilitating child sexual exploitation, or indeed committing the offences where this is the case.  
+
+We should not be protecting anyone implicated in these crimes against our children.  
 
 ---
 
