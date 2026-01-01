@@ -1,6 +1,6 @@
-# 🪝 **Recruitment Through Professional Ruin — How Systemic Harm Primes People for Capture**  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
-*The most effective recruitment tool is not a message — it is a career collapse, a reputational injury, or an institutional betrayal that leaves a person exposed, isolated, and in search of meaning.*
+# 🪝 If You Do Not Have A Hook? They Will Create One  
+**First created:** 2025-11-12 | **Last updated:** 2026-01-01  
+*The most effective recruitment tool is not a message — it is a career collapse, a reputational injury, or an institutional betrayal that leaves a person exposed, isolated, and in search of meaning.*  
 
 ---
 
@@ -251,4 +251,4 @@ It reveals how systemic injury creates recruitment conditions and how survivors 
 
 *Survivor authorship is sovereign. They targeted your injuries, not your integrity.*
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-01-01_
