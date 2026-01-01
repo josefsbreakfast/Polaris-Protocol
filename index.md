@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:50:12 UTC_
+_Generated on 2026-01-01 08:50:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1825,6 +1825,7 @@ _Generated on 2026-01-01 08:50:12 UTC_
       - [`🛰️_entrapment_by_protection_2025-09-27.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_entrapment_by_protection_2025-09-27.md)
       - [`🛰️_exhaustion_as_containment_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_exhaustion_as_containment_field_log_2025-09-13.md)
       - [`🛰️_fls_hard_today_2025-09-16.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_fls_hard_today_2025-09-16.md)
+      - [`🛰️_foi_sar_silence_reliance.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_foi_sar_silence_reliance.md)
       - [`🛰️_forking_and_interference_on_survivor_nodes_2025-09-15.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_forking_and_interference_on_survivor_nodes_2025-09-15.md)
       - [`🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md)
       - [`🛰️_frankenstack_interaction_2025-09-16.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_frankenstack_interaction_2025-09-16.md)
@@ -2914,7 +2915,6 @@ _Generated on 2026-01-01 08:50:12 UTC_
     - [`🛰_but_the_eldest_is_the_silent_protector.png`](Disruption_Kit/Field_Logs/🛰_but_the_eldest_is_the_silent_protector.png)
     - [`🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG`](Disruption_Kit/Field_Logs/🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG)
     - [`🛰️_bakwaas_but_okay_fine.PNG`](Disruption_Kit/Field_Logs/🛰️_bakwaas_but_okay_fine.PNG)
-    - [`🛰️_foi_sar_silence_reliance.md`](Disruption_Kit/Field_Logs/🛰️_foi_sar_silence_reliance.md)
     - [`🛰️_forensic_mapping_ghost_vs_trauma_report.md`](Disruption_Kit/Field_Logs/🛰️_forensic_mapping_ghost_vs_trauma_report.md)
     - [`🛰️_forensic_thread_analysis_icc_2025-08-07.md`](Disruption_Kit/Field_Logs/🛰️_forensic_thread_analysis_icc_2025-08-07.md)
     - [`🛰️_forkbreach_2025-07-24_redacted_V6.md`](Disruption_Kit/Field_Logs/🛰️_forkbreach_2025-07-24_redacted_V6.md)
