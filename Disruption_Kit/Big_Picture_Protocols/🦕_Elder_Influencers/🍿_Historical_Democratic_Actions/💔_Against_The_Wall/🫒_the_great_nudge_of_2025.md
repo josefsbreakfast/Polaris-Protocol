@@ -270,9 +270,11 @@ nudging, dispersion, preventive repression, convergence failure, activism contai
 It documents how modern movements are managed through decentralised discouragement rather than overt repression, particularly where symbolic infrastructure must not be tested.
 
 > 📡 Cross-references:
-> - 🧠 Big_Picture_Protocols — systemic containment analysis  
-> - 🛰️ OSINT_Field_Operations — movement observability and legibility  
-> - 🪼 Psychological_Containment — care, fear, and self-dispersion dynamics  
+> 
+> - [📊 Risk, Capital, and Hunger Strikes](../../🌀_System_Governance/⚖️_Legal_State_Governance/📊_risk_capital_and_hunger_strikes.md)  
+> - [🧱 Gaza as Containment: Displacement, Walls, and the Long Arc of Closure](./🧱_gaza_as_containment_history.md)
+> - [🌳 Food Is Not Optional](../🌳_Freedom_Farming_Food/🌳_food_is_not_optional.md)
+> - [📦 Containment as Industry](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/📦_containment_as_industry.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
