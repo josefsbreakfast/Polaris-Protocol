@@ -1,103 +1,134 @@
-# 📊 *Cricket and Open-Source Investigation Theory — How Oversight Became a Spectator Sport*
-
-**Date Created:** 2025-11-02 | **Last updated:** 2025-11-13  
+# 📊 Cricket and Open-Source Investigation Theory  
+**First created:** 2025-11-02 | **Last updated:** 2026-01-01  
+*How patience, pattern recognition, and scorekeeping turn oversight into a participatory civic sport.*  
 
 ---
 
-## 🧭 Orientation
+## 🧭 Orientation  
 
 Cricket is not just a game; it is a data culture.  
-Every delivery, every run, every catch is quantified, indexed, and argued over — usually with great civility and mild passive aggression.  
+Every delivery, every run, every catch is recorded, indexed, replayed, and argued over — usually with great civility and mild passive aggression.
 
-That same spirit can power democratic oversight.  
-If the nation can debate an LBW for 45 minutes, it can learn to read a redacted PDF.  
+That same spirit can power democratic oversight.
 
-This node explores **cricket analytics as a civic metaphor**: how patient observation, pattern recognition, and rule-bounded improvisation can turn public scrutiny into a participatory art.  
+If a nation can debate an LBW decision for forty-five minutes,  
+it can learn to read a redacted PDF.
+
+This node explores **cricket analytics as a civic metaphor**:  
+how observation, patience, and rule-bounded improvisation turn scrutiny into a shared public practice.
 
 ---
 
-## 🏏 Why Cricket Works as Analogy
+## 🏏 Why Cricket Works as Analogy  
 
 | Cricket Concept | Oversight Equivalent | Shared Logic |
-|------------------|----------------------|---------------|
-| **Scorecard** | FOI/SAR spreadsheet | granular, cumulative record |
-| **Umpire review (DRS)** | Independent regulator / ICO / court appeal | slow, technical, public replay |
-| **Test Match patience** | Long-form transparency campaign | endurance over spectacle |
-| **Net practice** | Mock FOIs / data literacy exercises | skill built in low-stakes environment |
+|---|---|---|
+| **Scorecard** | FOI / SAR spreadsheet | granular, cumulative record |
+| **Umpire review (DRS)** | Regulator, ICO, or court appeal | slow, technical, public replay |
+| **Test-match patience** | Long-form transparency campaign | endurance over spectacle |
+| **Net practice** | Mock FOIs, data literacy drills | skill built without penalty |
 | **Commentary box** | Investigative journalists | narrative stitching of live data |
-| **Duckworth-Lewis method** | Partial data analysis | compensating for missing variables |
+| **Duckworth–Lewis method** | Partial-data analysis | compensating for missing variables |
 
-Cricket teaches procedural optimism: that the game *will* resume after the rain delay, and the score *will* still count.  
-
----
-
-## 🧩 Open-Source Oversight as League Play
-
-Open-source investigators are like club cricketers: self-organised, data-driven, occasionally sunburnt, united by shared spreadsheets.  
-Each FOI, each dataset, is an innings — some short, some historic.  
-
-The challenge is not speed but *consistency*:  
-- Knowing when to swing (press inquiry).  
-- When to block (appeal).  
-- When to rest and let the field reposition (wait for next disclosure window).  
-
-The rhythm of transparency is seasonal, not viral.  
+Cricket teaches procedural optimism:  
+the game resumes after rain, and the score still counts.
 
 ---
 
-## 🧮 Metrics and Morale
+## 🧩 Open-Source Oversight as League Play  
+
+Open-source investigators resemble club cricketers:  
+self-organised, spreadsheet-driven, occasionally sunburnt, and quietly competitive.
+
+Each FOI and dataset is an innings —  
+some brief, some historic.
+
+The challenge is not speed but **consistency**:
+- knowing when to swing (press inquiry)  
+- when to block (appeal)  
+- when to wait while the field repositions  
+
+Transparency operates on seasons, not virality.
+
+---
+
+## 🧮 Metrics and Morale  
 
 | Metric | Civic Equivalent | Comment |
-|---------|------------------|----------|
-| Batting average | FOI success rate | shows persistence not aggression |
-| Bowling economy | efficiency of follow-ups | fewer scattergun requests, more precision |
-| Field placement | coalition mapping | where civic energy is concentrated |
-| Run rate | public engagement tempo | attention span vs bureaucracy lag |
+|---|---|---|
+| Batting average | FOI success rate | persistence over aggression |
+| Bowling economy | follow-up efficiency | precision beats scatter |
+| Field placement | coalition mapping | where civic energy concentrates |
+| Run rate | public engagement tempo | attention vs bureaucracy lag |
 
-Oversight thrives on **collective scorekeeping** — citizens turning governance into a shared analytic sport.  
-
----
-
-## 🧠 The Zaltzman Principle
-
-Named affectionately for the statistician-comedian who can extract suspense from decimals, the *Zaltzman Principle* states:  
-
-> “If a nation can memorise batting averages, it can learn to audit a budget.”  
-
-Data literacy is cultural, not technical.  
-Cricket is Britain’s accidental open-data project — 200 years old and entirely crowd-sourced.  
+Oversight thrives on **collective scorekeeping** —  
+citizens turning governance into a shared analytic exercise.
 
 ---
 
-## ☀️ Match Conditions
+## 🧠 The Zaltzman Principle  
 
-Transparency, like cricket, is weather-dependent.  
-Rain delays come as:  
-- Election periods (purdah).  
-- Data protection reviews.  
-- “Ongoing investigations.”  
+Named for the statistician-comedian who can extract drama from decimals, the principle states:
 
-You play on when the light returns.  
+> “If a nation can memorise batting averages, it can learn to audit a budget.”
 
----
+Data literacy is cultural, not technical.
 
-## 🧭 Closing Reflection
-
-Civic oversight is not about hostility; it’s about scorekeeping with grace.  
-Every spreadsheet is a pitch. Every FOI, a delivery.  
-Even a “no result” adds to the national average.  
+Cricket may be Britain’s accidental open-data project:  
+two centuries old, obsessively documented, and entirely crowd-sourced.
 
 ---
 
-## ✳️ Constellations
+## ☀️ Match Conditions  
 
-— `🧭 overview_pitch_at_palace_structure.md` → defines the field of play  
-— `📜 foi_and_sar_exercise_pack.md` → tools for the innings  
-— `🧩 pattern_detection_and_response_mapping.md` → analytics engine  
-— `🪶 tea_toast_and_transparency.md` → cultural satire of post-match commentary  
-— `🌍 deregulation_as_diplomatic_infrastructure.md` → international test series context  
+Transparency, like cricket, is weather-dependent.
+
+Rain delays appear as:
+- election periods (purdah)  
+- data-protection reviews  
+- “ongoing investigations”  
+
+You play on when the light returns.
 
 ---
 
-**Last Updated:** 2025-11-02  
-**Stardust Tags:** #CricketTheory #OpenSourceInvestigation #CivicOversight #DigitalDecoy #SpreadsheetActivism  
+## 🧭 Closing Reflection  
+
+Civic oversight is not hostility.  
+It is scorekeeping with grace.
+
+Every spreadsheet is a pitch.  
+Every FOI, a delivery.
+
+Even a “no result” contributes to the national average.
+
+---
+
+## 🌌 Constellations  
+
+📊 🏏 ⚖️ 🧠 🪶 — open-source investigation, civic analytics, FOI culture, endurance oversight, humour as maintenance.
+
+---
+
+## ✨ Stardust  
+
+cricket metaphor, open-source investigation, civic oversight, transparency analytics, spreadsheet activism, democratic endurance
+
+---
+
+## 🏮 Footer  
+
+*📊 Cricket and Open-Source Investigation Theory* is a living node of the **Polaris Protocol**.  
+It reframes democratic oversight as a participatory, data-literate practice grounded in patience, collective analysis, and procedural optimism.
+
+> 📡 Cross-references:
+> 
+> - [🧭 Overview — Pitch @ Palace Structure](./🧭_overview_pitch_at_palace_structure.md) — *defines the field of play*  
+> - [📜 FOI + SAR Exercise Pack](./📜_foi_and_sar_exercise_pack.md) — *tools for the innings*  
+> - [🧩 Pattern Detection & Response Mapping](./🧩_pattern_detection_and_response_mapping.md) — *analytics engine*  
+> - [☕️ Tea, Toast, & Transparency](./☕️_tea_toast_transparency.md) — *post-match commentary culture*  
+> - [🌍 Deregulation as Diplomatic Infrastructure](./🌍_deregulation_as_diplomatic_infrastructure.md) — *international test-series context*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-01-01_

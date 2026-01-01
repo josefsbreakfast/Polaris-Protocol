@@ -1,6 +1,6 @@
-# 🔍 *How to Trace Event Data Flows*  
-**Date Created:** 2025-11-03 | **Last updated:** 2025-11-13  
-*A Decision Tree for SAR and FOI Navigation*
+# 🔍 How to Trace Event Data Flows  
+**First created:** 2025-11-03 | **Last updated:** 2026-01-01  
+*A decision tree for navigating SAR and FOI routes across event-based data systems.*  
 
 ---
 
@@ -95,22 +95,41 @@ The key is documentation density — every unanswered email is an evidence node.
 
 ## 🧭 Closing Reflection
 
-Tracing event data is not about scandal; it’s about structure.  
-To follow the flow of a single guest list is to glimpse how soft power, administration, and narrative intertwine.  
 
-What we call “transparency” is often just a better-lit maze — but with a map, even a maze reveals its logic.  
+Tracing event data is not about scandal.  
+It is about **structure**.
 
----
+To follow a single guest list is to glimpse how soft power, administration, and narrative intertwine.
 
-## ✳️ Constellations
-
-— `⚖️ uk_data_claim_routes_and_limits.md` → procedural counterpart  
-— `🏏 pitch_palace_outpicture_paths.md` → applied case study  
-— `👑 soft_power_accountability_gap.md` → constitutional relevance  
-— `System_Governance/Transparency_Reform/📗 event_data_traceability_protocol.md` → toolkit extension  
-— `Metadata_Sabotage_Network/Narrative_And_Psych_Ops/📚 narrative_management_and_metadata_sabotage.md` → thematic resonance  
+Transparency is often just a better-lit maze —  
+but with a map, even a maze reveals its logic.
 
 ---
 
-**Last Updated:** 2025-11-03  
-**Stardust Tags:** #DataTransparency #FOI #SAR #CivicForensics #PolarisSystem  
+## 🌌 Constellations  
+
+🔍 📜 ⚖️ 🧠 🗂️ — data traceability, FOI/SAR navigation, civic forensics, institutional mapping, transparency tooling.
+
+---
+
+## ✨ Stardust  
+
+event data flows, subject access requests, freedom of information, civic forensics, transparency mapping, oversight methodology
+
+---
+
+## 🏮 Footer  
+
+*🔍 How to Trace Event Data Flows* is a living node of the **Polaris Protocol**.  
+It provides a reproducible decision framework for tracing how data moves through event-based governance and prestige networks using lawful access routes.
+
+> 📡 Cross-references:
+> 
+> - [👑 Pitch Palace Outpicture Paths](./👑_pitch_palace_outpicture_paths.md) — *applied case study*  
+> - [⚖️ Soft Power Without Soft Accountability](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_soft_power_without_soft_accountability.md) — *prestige systems analysis*  
+> - [👑 Soft Power Accountability Gap](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_soft_power_accountability_gap.md) — *royal dimension*  
+> - [📚 Narrative Management and Metadata Sabotage](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md) — *thematic resonance*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-01-01_

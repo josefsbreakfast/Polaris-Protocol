@@ -1,5 +1,5 @@
 # 🐝 Audit Stinger  
-**First created:** 2025-12-25 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-25 | **Last updated:** 2025-12-29  
 *How to identify where audits are required — and who must be pressured to act.*
 
 ---
@@ -303,8 +303,15 @@ Silence or refusal to clarify constitutes a **governance risk in itself**.
 > Paired with:
 >
 > "We’re not alleging wrongdoing — we’re asking Cabinet to confirm whether any historical programmes fall within safeguarding and data-disclosure review scope, so that nothing is silently excluded."
->  
 
+---
+
+## 🌌 Constellations  
+
+*Further reading:*  
+
+- [Epstein University: How Jeffrey Epstein Bought His Way Into Elite Academia](https://www.blueamp.co/p/epstein-university-how-jeffrey-epstein)
+- [University urged to suspend links with 'known associates' of Epstein](https://www.bbc.co.uk/news/articles/cz081ne3g25o), BBC News.  
 
 ---
 
@@ -325,4 +332,4 @@ It exists to convert documentation into **mandatory action**, and to ensure that
 *Survivor authorship is sovereign.  
 Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2025-12-29_
