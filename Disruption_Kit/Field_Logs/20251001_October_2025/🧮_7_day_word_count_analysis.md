@@ -21,3 +21,16 @@
 - still very mindful of rough draft staging of significant portions of corpus, future task for working plan to update as appropriate  
 
 2025-10-10  
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
