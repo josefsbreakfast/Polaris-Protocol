@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:36:55 UTC_
+_Generated on 2026-01-01 08:37:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1875,6 +1875,7 @@ _Generated on 2026-01-01 08:36:55 UTC_
       - [`🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md)
       - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
       - [`🧠_hybrid_motive_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🧠_hybrid_motive_hypothesis_2025-09-20.md)
+      - [`🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md)
       - [`🧾_codename_table_reconstruction.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🧾_codename_table_reconstruction.md)
       - [`🩰_petty_princesses_with_beards.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🩰_petty_princesses_with_beards.md)
       - [`🩰_registering_my_daily_fuck_this.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🩰_registering_my_daily_fuck_this.md)
@@ -2995,7 +2996,6 @@ _Generated on 2026-01-01 08:36:55 UTC_
     - [`🧠_mirror_effect_as_population_affect.md`](Disruption_Kit/Field_Logs/🧠_mirror_effect_as_population_affect.md)
     - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/🧠_sticky_memory_analysis_2025-08-14.md)
     - [`🧩_the_politic_is_no_longer_heard.md`](Disruption_Kit/Field_Logs/🧩_the_politic_is_no_longer_heard.md)
-    - [`🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md`](Disruption_Kit/Field_Logs/🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md)
     - [`🧬_data_twin_malfunctioning_job_recs.jpg`](Disruption_Kit/Field_Logs/🧬_data_twin_malfunctioning_job_recs.jpg)
     - [`🧬_do_try_to_act_your_combined_ages.PNG`](Disruption_Kit/Field_Logs/🧬_do_try_to_act_your_combined_ages.PNG)
     - [`🧬_when_you_get_twinned_to_the_nest_eggs.PNG`](Disruption_Kit/Field_Logs/🧬_when_you_get_twinned_to_the_nest_eggs.PNG)
