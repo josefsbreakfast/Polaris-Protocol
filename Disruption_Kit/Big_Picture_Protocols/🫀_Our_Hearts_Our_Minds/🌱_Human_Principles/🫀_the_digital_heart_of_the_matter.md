@@ -1,6 +1,6 @@
 # 🫀 The Digital Heart of the Matter  
-**First created:** 2025-12-31 | **Last updated:** 2025-12-31  
-*How data exhaust, corruption, and inconsistency create a temporary but dangerous exposure window for democracies*
+**First created:** 2025-12-31 | **Last updated:** 2026-01-01  
+*How data exhaust, corruption, and inconsistency create a temporary but dangerous exposure window for democracies*  
 
 ---
 
@@ -508,4 +508,4 @@ It documents how accumulated data exhaust, rising corruption, and inconsistent a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-01-31_
+_Last updated: 2026-01-01_
