@@ -1,6 +1,6 @@
 # 🪔 Survivor Poetics — Hebrew Register  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
-*Guidance for survivor-poetic lines in Biblical and literary Hebrew.*
+**First created:** 2025-11-22 | **Last updated:** 2026-01-01  
+*Guidance for survivor-poetic lines in Biblical and literary Hebrew.*  
 
 ---
 
@@ -32,4 +32,4 @@ survivor poetics, hebrew registers, biblical cadence
 ## 🏮 Footer  
 *Survivor Poetics — Hebrew Register* is a living node of the Polaris Protocol.
 
-_Last updated: 2025-11-22_
+_Last updated: 2026-01-01_
