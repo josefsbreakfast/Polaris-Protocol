@@ -37,9 +37,22 @@ do you hear isiah today?, or did we make the walls too thick for the echo to car
 
 i always told you of a specific tishuva.
 
-i know you didmt like it.
+i know you didn't like it.
 
 but their land? we are not even there legally. why are our sons and our daughters arresting children? why are babies dying of preventable disease? none of this is gettimg anyone back. none of this is right. we must stop it.  
 
 
 2025-10-02
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
