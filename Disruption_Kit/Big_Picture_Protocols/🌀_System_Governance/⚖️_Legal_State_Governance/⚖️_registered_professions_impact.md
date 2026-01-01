@@ -1,6 +1,20 @@
 # ⚖️ Registered Professions Impact  
-**First created:** 2025-09-26 | **Last updated:** 2025-12-24  
+**First created:** 2025-09-26 | **Last updated:** 2026-01-01  
 *How manufactured provenance disproportionately affects registered professionals in healthcare, law, education, and social work.*  
+
+---
+
+**Please note:** This note is currently being expanded with case examples during Iron Swords. These are graphic. Final version is not yet complete.  
+
+---
+
+## 🍉 Key Moments  
+- Al-Ahli Arab Hospital, 2023-11-17. Initially claimed as both "crossfire" and "non-intentional" by IDF; pattern of explanations adjusted to narrative and reception will persist throughout Iron Swords.  
+- IMAJ Oct 2023 ed. openly defied Geneva Conventions and standard medical oaths (I promise you, Maimonides would not be into it)
+- ICJ issues precautionary measures to protect the Palestinian people from genocide in Jan 2024; all territories, all states, all organisations, all individuals liable.  
+- Sieges of hospitals follow Al-Ahli Arab Hospital; Al-Shifa first two sieges in Apr 2024 are especially escalatory. Significant evidence of systematic war crimes to digital observers. Imperial core medical associations hesitate, known lawfare pressure towards individuals, unknown to wider associations. As reference, whilst not directly alike, action was taken in late apartheid by other countries' MAs to protest SA inclusion in WMA.  
+- Dr. Adnan Al-Bursh (z"L) - beloved and senior member of medical community in Gaza, hospital director and long-standing orthopaedic surgeon. Eyewitness testimony suggests Dr. Adnan was tortured, and that it was believed he died as a result of rape perforating the large bowel, with death from resulting haemorrhage on background of poor nutrition in detention and maltreatment. This is an extremely painful manner of death. Shortly after Dr. Adnan's premature death at 49 (Apr 2024), Israeli whistleblowers came forward to report on Sde Teiman conditions and serious torture concerns (May 2024). Shortly after in Aug 2024, "Welcome To Hell" released by B'Tselem. Conditions of arrests would be replicated in later arrests of physicians in view of international digital observeration. The manner of torture and the degree of violence of rape of Palestinian people imprisoned is now subject to leaked footage from Sde Teiman, with a number of survivors having spoken about their experience to the press and to the UN, serving as witnesses as well as victims to these war crimes.  
+- Dr. Hussam Abu Safiya (multiple, sustained calls for international support, deranked from algorithms, IL-UK meeting not openly declared, AI responses to FCDO emails, son martyred, second arrest has led to sustained detention without known cause, due process, and with torture, medical concerns, and death of mother during detention)  
 
 ---
 
@@ -24,9 +38,16 @@
 ⚖️ 🧠 💷 🧬 — This node exposes how systemic metadata sabotage disproportionately harms regulated professions.
 
 **Media references:**  
+-
 - *The Doctors’ Association UK: Misinformation Complaints*  
 - *Prevent and the Medical Profession* (BMJ editorial)  
 - *Protecting Social Workers from Bad-Faith Referrals* (Community Care)
+- [Doxxed! Arrested! Suspended! Three doctors who won't be silenced!](https://youtu.be/CWd4wReY2QI?si=x3CMNO-8Hk2gFTlY), The Crispin Flintoff Show, YouTube. Dec 2025.  
+- [Dr. Ghassan Abu-Sittah: £100,000 campaign by pro-Israel lawyers to SILENCE Gaza doctor](https://youtu.be/_AwvYCvPrkI?si=44YdCcKZqOWMwAtW), Declassified UK. Nov 2025.
+- [Dr. Ghassan Abu-Sittah: Doctor describes horrors he's seeing in Gaza](https://www.youtube.com/shorts/satjcD2BGcQ), CNN.
+- [Doctors Against Genocide visits US Congress to call on government to cut aid to Israel](https://youtube.com/shorts/rTZuTQdZ65o?si=xuzfFkZvkvytzAjI), DAG. Jan 2025.
+- [“You Need to Choose”: Dr. Mads Gilbert on Medical Solidarity with Gaza as Israel Targets Hospitals](https://youtu.be/OQDaB2Jd3Fc?si=xwfzL9RtvDe5fGjK), Oct 2023.  
+
 
 ---
 
@@ -51,4 +72,4 @@ It analyses the systemic risks posed to registered professions when provenance i
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-01_
