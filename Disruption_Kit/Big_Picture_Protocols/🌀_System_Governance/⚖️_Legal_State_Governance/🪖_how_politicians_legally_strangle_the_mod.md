@@ -152,10 +152,11 @@ defence governance failure, veterans harm, political risk avoidance, war pension
 It documents how upstream political and legal pressures translate into downstream human harm for service personnel and veterans.
 
 > 📡 Cross-references:
-> - **🪖 Repairing Stolen Lives** — cumulative life-scale harm  
-> - **🪖 A Previous Cabinet’s Errors** — legacy harm across time  
-> - **🪖 Classification, Suppression, and Misuse** — secrecy as a control mechanism  
-> - **🌀 Systems & Governance** — structural accountability failure  
+> 
+> - **🪖 Repairing Stolen Lives** — *cumulative life-scale harm*  
+> - **🪖 A Previous Cabinet’s Errors** — *legacy harm across time*  
+> - [🪖 Classification, Suppression, and Misuse](./🪖_classification_suppression_and_misuse.md) — *secrecy as a control mechanism*  
+> - **🌀 Systems & Governance** — *structural accountability failure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
