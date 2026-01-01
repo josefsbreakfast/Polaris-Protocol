@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:09:52 UTC_
+_Generated on 2026-01-01 08:10:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1982,6 +1982,7 @@ _Generated on 2026-01-01 08:09:52 UTC_
       - [`🪬_all_that_surveillance.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🪬_all_that_surveillance.md)
       - [`🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md)
       - [`🪬_subtweeting.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🪬_subtweeting.md)
+      - [`🫀_the_stress_of_the_dogwhistles.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🫀_the_stress_of_the_dogwhistles.md)
       - [`🫜_divorce_support.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🫜_divorce_support.md)
     - [**20251101_November_2025/**](Disruption_Kit/Field_Logs/20251101_November_2025/)
       - [`20251116_B-I-N-G-O.md`](Disruption_Kit/Field_Logs/20251101_November_2025/20251116_B-I-N-G-O.md)
@@ -3008,7 +3009,6 @@ _Generated on 2026-01-01 08:09:52 UTC_
     - [`🪼_interruption_index_update.png`](Disruption_Kit/Field_Logs/🪼_interruption_index_update.png)
     - [`🪼_the_word_is_butthurt.png`](Disruption_Kit/Field_Logs/🪼_the_word_is_butthurt.png)
     - [`🪼_the_word_is_still_butthurt.md`](Disruption_Kit/Field_Logs/🪼_the_word_is_still_butthurt.md)
-    - [`🫀_the_stress_of_the_dogwhistles.md`](Disruption_Kit/Field_Logs/🫀_the_stress_of_the_dogwhistles.md)
   - [**Survivor_Tools/**](Disruption_Kit/Survivor_Tools/)
     - [**📱_Digital_But_Make_It_Secure/**](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/)
       - [`README.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/README.md)
