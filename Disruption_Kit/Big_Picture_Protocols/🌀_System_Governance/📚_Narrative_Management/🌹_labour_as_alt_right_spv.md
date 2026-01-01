@@ -1,6 +1,6 @@
 # 🌹 Labour as Alt-Right SPV  
-**First created:** 2025-12-31 | **Last updated:** 2025-12-31  
-*How right-wing populist logics can be routed through left institutional legitimacy*
+**First created:** 2025-12-31 | **Last updated:** 2026-01-01  
+*How right-wing populist logics can be routed through left institutional legitimacy*  
 
 ---
 
@@ -85,9 +85,10 @@ labour party, populism, institutional legitimacy, executive centralisation, poli
 It exists to map how political ideas move through institutions under pressure, and how legitimacy can be repurposed without explicit intent.
 
 > 📡 Cross-references:
+> 
 > - [🏛️ Protect Checks and Balances] (./🏛️_protect_checks_and_balances.md) — institutional safeguards  
 > - [🌀 Systems & Governance] (../Big_Picture_Protocols/🌀_systems_and_governance.md) — power architecture  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-31_
+_Last updated: 2026-01-01_
