@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:36:30 UTC_
+_Generated on 2026-01-01 08:36:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1985,6 +1985,7 @@ _Generated on 2026-01-01 08:36:30 UTC_
       - [`🛰️_transparent_interference_field_log_2025-10-04.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_transparent_interference_field_log_2025-10-04.md)
       - [`🛰️_two_prongs_one_fork.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_two_prongs_one_fork.md)
       - [`🛰️_where_we_are_now_2025-10-30.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_where_we_are_now_2025-10-30.md)
+      - [`🧫_is_this_your_drug_allergy.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🧫_is_this_your_drug_allergy.md)
       - [`🧬_dear_blue_team.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🧬_dear_blue_team.md)
       - [`🧬_dopamine_depletion_log.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🧬_dopamine_depletion_log.md)
       - [`🧬_more_astro_memeing.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🧬_more_astro_memeing.md)
@@ -2995,7 +2996,6 @@ _Generated on 2026-01-01 08:36:30 UTC_
     - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/🧠_sticky_memory_analysis_2025-08-14.md)
     - [`🧩_the_politic_is_no_longer_heard.md`](Disruption_Kit/Field_Logs/🧩_the_politic_is_no_longer_heard.md)
     - [`🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md`](Disruption_Kit/Field_Logs/🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md)
-    - [`🧫_is_this_your_drug_allergy.md`](Disruption_Kit/Field_Logs/🧫_is_this_your_drug_allergy.md)
     - [`🧬_data_twin_malfunctioning_job_recs.jpg`](Disruption_Kit/Field_Logs/🧬_data_twin_malfunctioning_job_recs.jpg)
     - [`🧬_do_try_to_act_your_combined_ages.PNG`](Disruption_Kit/Field_Logs/🧬_do_try_to_act_your_combined_ages.PNG)
     - [`🧬_when_you_get_twinned_to_the_nest_eggs.PNG`](Disruption_Kit/Field_Logs/🧬_when_you_get_twinned_to_the_nest_eggs.PNG)
