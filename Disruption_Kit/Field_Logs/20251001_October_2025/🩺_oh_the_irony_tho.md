@@ -28,3 +28,16 @@ notice how I just wrote it, and didn't actually call anyone's MH team?
 that's what added value to the dark comedy.  
 
 (first gen antipsy is harsh tbf. meaty stuff.)  
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
