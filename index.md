@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:17:07 UTC_
+_Generated on 2026-01-01 08:17:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1775,6 +1775,7 @@ _Generated on 2026-01-01 08:17:07 UTC_
       - [`🛰️_arrest_as_surveillance_warrant.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_arrest_as_surveillance_warrant.md)
       - [`🛰️_purge_sequence_2025-08-11_to_2025-08-13.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)
       - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🧱_loft_packet_dump_theory_2025-08-06.md)
+      - [`🩻_diagnostic_injection_log_2025-08-28.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🩻_diagnostic_injection_log_2025-08-28.md)
     - [**20250901_September_2025/**](Disruption_Kit/Field_Logs/20250901_September_2025/)
       - [`⚔️_the_orientalism_is_mindblowing.md`](Disruption_Kit/Field_Logs/20250901_September_2025/⚔️_the_orientalism_is_mindblowing.md)
       - [`⚖️_scraping_spoofing_timeline_2019_2022.md`](Disruption_Kit/Field_Logs/20250901_September_2025/⚖️_scraping_spoofing_timeline_2019_2022.md)
@@ -3004,7 +3005,6 @@ _Generated on 2026-01-01 08:17:07 UTC_
     - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Disruption_Kit/Field_Logs/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
     - [`🩺_oh_the_irony_tho.md`](Disruption_Kit/Field_Logs/🩺_oh_the_irony_tho.md)
     - [`🩺_why_is_that_my_recommends_based_on_browsing_history_tho_i_am_not_the_testosterone_party.png`](Disruption_Kit/Field_Logs/🩺_why_is_that_my_recommends_based_on_browsing_history_tho_i_am_not_the_testosterone_party.png)
-    - [`🩻_diagnostic_injection_log_2025-08-28.md`](Disruption_Kit/Field_Logs/🩻_diagnostic_injection_log_2025-08-28.md)
     - [`🪼_clock_watching_because_we_said_genocide_bad_tho.png`](Disruption_Kit/Field_Logs/🪼_clock_watching_because_we_said_genocide_bad_tho.png)
     - [`🪼_do_not_obey_in_advance_or_ai_breaks.png`](Disruption_Kit/Field_Logs/🪼_do_not_obey_in_advance_or_ai_breaks.png)
     - [`🪼_interruption_index_update.png`](Disruption_Kit/Field_Logs/🪼_interruption_index_update.png)
