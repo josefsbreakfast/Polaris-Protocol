@@ -149,3 +149,16 @@ it doesnt feel like this R&D set was safetnetted and i can't be the one person i
 ---
 
 2025-11-01  
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
