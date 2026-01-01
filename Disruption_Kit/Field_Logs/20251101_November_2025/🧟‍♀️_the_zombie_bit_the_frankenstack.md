@@ -126,3 +126,16 @@ those assets are not protected by ipa; ours are, and our citizens are our best o
 
 ---
 <!--goof to see you're putting slightly less insert into the musoc; i can tell when it doesn't make sense for a real person, and you're not matching on the taste quite right. please stop condensing a continent that is bigger than ours, and a diaspora with a rich british herotage. this is embarassing. please stop being That White Guy. can see why sunak want keen.-->
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
