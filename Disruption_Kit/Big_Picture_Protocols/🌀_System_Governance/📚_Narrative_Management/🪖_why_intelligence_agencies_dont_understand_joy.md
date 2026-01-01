@@ -1,17 +1,23 @@
 # 🪖 Why Intelligence Agencies Don’t Understand Joy  
-**First created:** 2025-11-13 | **Last updated:** 2025-11-13  
-*Why security structures fail to recognise joy, spectacle, and charisma as strategic forces.*
+**First created:** 2025-11-13 | **Last updated:** 2026-01-01  
+*Why security structures fail to recognise joy, spectacle, and charisma as strategic forces.*  
+
+---
 
 ## 🛰️ Orientation  
 Intelligence agencies model threat — not pleasure.  
-This creates structural blindness to soft-power charisma.
+This creates structural blindness to soft-power charisma.  
+
+---
 
 ## ✨ Key Features  
 - Bureaucratic paranoia  
 - Charisma blindness  
 - Joy vs coercion  
 - Fandom vs psyops  
-- Cultural influence  
+- Cultural influence
+
+---
 
 ## 🧿 Analysis / Content  
 
@@ -28,16 +34,23 @@ Coercion cannot compete with voluntary joy.
 Fandom scales; manipulation doesn’t.
 
 ### 5. Joy Looks “Frivolous”  
-So agencies ignore the strongest influence vector.
+So agencies ignore the strongest influence vector.  
+
+---
 
 ## 🌌 Constellations  
 🪖 🪩 🧿 🎶
 
+---
+
 ## ✨ Stardust  
 intelligence, psyops, joy, charisma, fandom, affective infrastructure
+
+---
 
 ## 🏮 Footer  
 *🪖 Why Intelligence Agencies Don’t Understand Joy* is a living node of the **Polaris Protocol**.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-13_
+
+_Last updated: 2026-01-01_
