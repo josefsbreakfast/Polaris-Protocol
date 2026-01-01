@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:21:16 UTC_
+_Generated on 2026-01-01 08:21:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2082,6 +2082,7 @@ _Generated on 2026-01-01 08:21:16 UTC_
       - [`🙄_you_were_literally_told_in_2022.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_you_were_literally_told_in_2022.md)
       - [`🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md)
       - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md)
+      - [`🧿_this_is_better_than_ch_4.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧿_this_is_better_than_ch_4.md)
       - [`🪐_polaris_week13_state_of_repo.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🪐_polaris_week13_state_of_repo.md)
       - [`🪞_field_note_guardrail_encounter.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🪞_field_note_guardrail_encounter.md)
       - [`🪡_11_screenshots_and_some_stitching_later.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🪡_11_screenshots_and_some_stitching_later.md)
@@ -3003,7 +3004,6 @@ _Generated on 2026-01-01 08:21:16 UTC_
     - [`🧿_supervision_said_absolutely_bloody_not.PNG`](Disruption_Kit/Field_Logs/🧿_supervision_said_absolutely_bloody_not.PNG)
     - [`🧿_supervision_said_absolutely_bloody_not.md`](Disruption_Kit/Field_Logs/🧿_supervision_said_absolutely_bloody_not.md)
     - [`🧿_the_crew_are_being_very_sensitive_about_this_given_why_we_are_even_here.png`](Disruption_Kit/Field_Logs/🧿_the_crew_are_being_very_sensitive_about_this_given_why_we_are_even_here.png)
-    - [`🧿_this_is_better_than_ch_4.md`](Disruption_Kit/Field_Logs/🧿_this_is_better_than_ch_4.md)
     - [`🩺_why_is_that_my_recommends_based_on_browsing_history_tho_i_am_not_the_testosterone_party.png`](Disruption_Kit/Field_Logs/🩺_why_is_that_my_recommends_based_on_browsing_history_tho_i_am_not_the_testosterone_party.png)
     - [`🪼_clock_watching_because_we_said_genocide_bad_tho.png`](Disruption_Kit/Field_Logs/🪼_clock_watching_because_we_said_genocide_bad_tho.png)
     - [`🪼_do_not_obey_in_advance_or_ai_breaks.png`](Disruption_Kit/Field_Logs/🪼_do_not_obey_in_advance_or_ai_breaks.png)
