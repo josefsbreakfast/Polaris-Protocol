@@ -4,6 +4,12 @@
 
 ---
 
+## ✨ Background Context  
+
+The wall along the parimeter of Gaza and Israel is illegal under international law, the ICJ has ruled it is unlawful, and it is the main barrier preventing the ending of the seige.  
+
+Lives could be saved if that wall was deleted; the wall stops food and medicine getting in.  
+
 ## 🛰️ Orientation  
 
 This node documents a pattern observed in early–mid 2025:  
