@@ -128,11 +128,11 @@ It provides a structural map of how the Pitch @ Palace platform was constituted,
 
 > 📡 Cross-references:
 > 
-> - [📜 FOI + SAR Exercise Pack] — lawful access templates  
-> - [⚖️ Regulatory and Risk Framework — Pitch @ Palace] — compliance context  
-> - [🎭 Why It Attracts Bad Actors] — behavioural analysis  
-> - [🌍 Deregulation as Diplomatic Infrastructure] — macro-economic pattern  
-> - [🕳️ Social Memory of Impunity] — trust and legitimacy fallout  
+> - [📜 FOI + SAR Exercise Pack](./📜_foi_and_sar_exercise_pack.md) — *lawful access templates*  
+> - [⚖️ Regulatory and Risk Framework — Pitch @ Palace](./⚖️_regulatory_and_risk_framework.md) — *compliance context*  
+> - [🎭 Why It Attracts Bad Actors](./🎭_why_it_attracts_bad_actors.md) — *behavioural analysis*  
+> - [🌍 Deregulation as Diplomatic Infrastructure](./🌍_deregulation_as_diplomatic_infrastructure.md) — *macro-economic pattern*  
+> - [🕳️ Social Memory of Impunity](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🕳️_social_memory_of_impunity.md) — *trust and legitimacy fallout*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
