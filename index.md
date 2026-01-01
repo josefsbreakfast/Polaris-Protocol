@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 10:49:17 UTC_
+_Generated on 2026-01-01 10:50:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1505,6 +1505,7 @@ _Generated on 2026-01-01 10:49:17 UTC_
         - [`🩺_when_data_harm_becomes_physical_harm_frailty_node.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🩺_when_data_harm_becomes_physical_harm_frailty_node.md)
         - [`🪖_a_teenage_girl_was_always_worth_more_than_the_reputation_of_dishonourable_men.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪖_a_teenage_girl_was_always_worth_more_than_the_reputation_of_dishonourable_men.md)
         - [`🪖_defence_is_for_all_of_us.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪖_defence_is_for_all_of_us.md)
+        - [`🪖_repairing_stolen_lives.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪖_repairing_stolen_lives.md)
         - [`🪞_on_human_impulse.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪞_on_human_impulse.md)
         - [`🪨_male_survivor_silence.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪨_male_survivor_silence.md)
         - [`🪸_floating_commons_humane_sovereignty_at_sea.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪸_floating_commons_humane_sovereignty_at_sea.md)
@@ -4178,7 +4179,6 @@ _Generated on 2026-01-01 10:49:17 UTC_
     - [`🪔_survivor_poetics_hebrew_register.md`](Polaris_Nest/Git_Intake_Drawer/🪔_survivor_poetics_hebrew_register.md)
     - [`🪖_classification_suppression_misuse.md`](Polaris_Nest/Git_Intake_Drawer/🪖_classification_suppression_misuse.md)
     - [`🪖_how_politicians_legally_strangle_the_mod_in_real_lives_terms.md`](Polaris_Nest/Git_Intake_Drawer/🪖_how_politicians_legally_strangle_the_mod_in_real_lives_terms.md)
-    - [`🪖_repairing_stolen_lives.md`](Polaris_Nest/Git_Intake_Drawer/🪖_repairing_stolen_lives.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
