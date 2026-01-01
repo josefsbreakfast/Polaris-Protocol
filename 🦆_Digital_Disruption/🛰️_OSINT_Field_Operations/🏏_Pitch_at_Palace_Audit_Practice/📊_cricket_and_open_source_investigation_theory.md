@@ -123,11 +123,11 @@ It reframes democratic oversight as a participatory, data-literate practice grou
 
 > 📡 Cross-references:
 > 
-> - [🧭 Overview — Pitch @ Palace Structure] — defines the field of play  
-> - [📜 FOI and SAR Exercise Pack] — tools for the innings  
-> - [🧩 Pattern Detection and Response Mapping] — analytics engine  
-> - [☕️ Tea, Toast, Transparency & Impunity] — post-match commentary culture  
-> - [🌍 Deregulation as Diplomatic Infrastructure] — international test-series context  
+> - [🧭 Overview — Pitch @ Palace Structure](./🧭_overview_pitch_at_palace_structure.md) — *defines the field of play*  
+> - [📜 FOI + SAR Exercise Pack](./📜_foi_and_sar_exercise_pack.md) — *tools for the innings*  
+> - [🧩 Pattern Detection & Response Mapping](./🧩_pattern_detection_and_response_mapping.md) — *analytics engine*  
+> - [☕️ Tea, Toast, & Transparency](./☕️_tea_toast_transparency.md) — *post-match commentary culture*  
+> - [🌍 Deregulation as Diplomatic Infrastructure](./🌍_deregulation_as_diplomatic_infrastructure.md) — *international test-series context*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
