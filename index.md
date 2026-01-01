@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:21:54 UTC_
+_Generated on 2026-01-01 08:22:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1984,6 +1984,7 @@ _Generated on 2026-01-01 08:21:54 UTC_
       - [`🛰️_two_prongs_one_fork.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_two_prongs_one_fork.md)
       - [`🛰️_where_we_are_now_2025-10-30.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_where_we_are_now_2025-10-30.md)
       - [`🧭_attractor_map_suppression_contract.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🧭_attractor_map_suppression_contract.md)
+      - [`🧿_supervision_said_absolutely_bloody_not.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🧿_supervision_said_absolutely_bloody_not.md)
       - [`🧿_why_do_you_tolerate_my_imprisonment.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🧿_why_do_you_tolerate_my_imprisonment.md)
       - [`🩸_there_have_been_many_outs_suggested.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🩸_there_have_been_many_outs_suggested.md)
       - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
@@ -3002,7 +3003,6 @@ _Generated on 2026-01-01 08:21:54 UTC_
     - [`🧿_server_lag_github.md`](Disruption_Kit/Field_Logs/🧿_server_lag_github.md)
     - [`🧿_sorry_how_many_women_chose_NOT_to_twin_to_your_bank_account.PNG`](Disruption_Kit/Field_Logs/🧿_sorry_how_many_women_chose_NOT_to_twin_to_your_bank_account.PNG)
     - [`🧿_supervision_said_absolutely_bloody_not.PNG`](Disruption_Kit/Field_Logs/🧿_supervision_said_absolutely_bloody_not.PNG)
-    - [`🧿_supervision_said_absolutely_bloody_not.md`](Disruption_Kit/Field_Logs/🧿_supervision_said_absolutely_bloody_not.md)
     - [`🧿_the_crew_are_being_very_sensitive_about_this_given_why_we_are_even_here.png`](Disruption_Kit/Field_Logs/🧿_the_crew_are_being_very_sensitive_about_this_given_why_we_are_even_here.png)
     - [`🩺_why_is_that_my_recommends_based_on_browsing_history_tho_i_am_not_the_testosterone_party.png`](Disruption_Kit/Field_Logs/🩺_why_is_that_my_recommends_based_on_browsing_history_tho_i_am_not_the_testosterone_party.png)
     - [`🪼_clock_watching_because_we_said_genocide_bad_tho.png`](Disruption_Kit/Field_Logs/🪼_clock_watching_because_we_said_genocide_bad_tho.png)
