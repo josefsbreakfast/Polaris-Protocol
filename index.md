@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:53:02 UTC_
+_Generated on 2026-01-01 08:53:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1996,6 +1996,7 @@ _Generated on 2026-01-01 08:53:02 UTC_
       - [`🛰️_transparent_interference_field_log_2025-10-04.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_transparent_interference_field_log_2025-10-04.md)
       - [`🛰️_two_prongs_one_fork.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_two_prongs_one_fork.md)
       - [`🛰️_where_we_are_now_2025-10-30.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_where_we_are_now_2025-10-30.md)
+      - [`🦇_training_model_for_you_not_on_me.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🦇_training_model_for_you_not_on_me.md)
       - [`🦤_addressing_the_male_pick_me.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🦤_addressing_the_male_pick_me.md)
       - [`🦤_dont_punish_reminders_of_your_mother.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🦤_dont_punish_reminders_of_your_mother.md)
       - [`🦤_romance_will_bot_save_you.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🦤_romance_will_bot_save_you.md)
@@ -2987,7 +2988,6 @@ _Generated on 2026-01-01 08:53:02 UTC_
     - [`🦇_oh_it_gets_better.PNG`](Disruption_Kit/Field_Logs/🦇_oh_it_gets_better.PNG)
     - [`🦇_subtly_never_got_me_anywhere.PNG`](Disruption_Kit/Field_Logs/🦇_subtly_never_got_me_anywhere.PNG)
     - [`🦇_training_model_for_you_not_on_me.PNG`](Disruption_Kit/Field_Logs/🦇_training_model_for_you_not_on_me.PNG)
-    - [`🦇_training_model_for_you_not_on_me.md`](Disruption_Kit/Field_Logs/🦇_training_model_for_you_not_on_me.md)
     - [`🦇_training_model_for_you_not_on_me_redux.PNG`](Disruption_Kit/Field_Logs/🦇_training_model_for_you_not_on_me_redux.PNG)
     - [`🦋🏛️_i_mean_i_guess_youre_trying_and_talking_to_girls_is_tough.PNG`](Disruption_Kit/Field_Logs/🦋🏛️_i_mean_i_guess_youre_trying_and_talking_to_girls_is_tough.PNG)
     - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.PNG`](Disruption_Kit/Field_Logs/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.PNG)
