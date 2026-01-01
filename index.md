@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 09:08:28 UTC_
+_Generated on 2026-01-01 09:08:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1878,6 +1878,7 @@ _Generated on 2026-01-01 09:08:28 UTC_
       - [`🛰️_valuation_of_the_muse_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_valuation_of_the_muse_2025-09-13.md)
       - [`🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md)
       - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
+      - [`🥸_two_men_one_park.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🥸_two_men_one_park.md)
       - [`🦤_expectations_remain.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🦤_expectations_remain.md)
       - [`🧠_hybrid_motive_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🧠_hybrid_motive_hypothesis_2025-09-20.md)
       - [`🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md)
@@ -2982,7 +2983,6 @@ _Generated on 2026-01-01 09:08:28 UTC_
     - [`🥕_british_carrots_and_oscillatory_impacts.md`](Disruption_Kit/Field_Logs/🥕_british_carrots_and_oscillatory_impacts.md)
     - [`🥸_how_dare_she_have_feelings.md`](Disruption_Kit/Field_Logs/🥸_how_dare_she_have_feelings.md)
     - [`🥸_tos_non_compliance_as_stealthing.md`](Disruption_Kit/Field_Logs/🥸_tos_non_compliance_as_stealthing.md)
-    - [`🥸_two_men_one_park.md`](Disruption_Kit/Field_Logs/🥸_two_men_one_park.md)
     - [`🦆_regularly.png`](Disruption_Kit/Field_Logs/🦆_regularly.png)
     - [`🦇_being_vocal_and_female_online.PNG`](Disruption_Kit/Field_Logs/🦇_being_vocal_and_female_online.PNG)
     - [`🦇_oh_it_gets_better.PNG`](Disruption_Kit/Field_Logs/🦇_oh_it_gets_better.PNG)
