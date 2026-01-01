@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:16:03 UTC_
+_Generated on 2026-01-01 08:16:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1981,6 +1981,7 @@ _Generated on 2026-01-01 08:16:03 UTC_
       - [`🛰️_two_prongs_one_fork.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_two_prongs_one_fork.md)
       - [`🛰️_where_we_are_now_2025-10-30.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_where_we_are_now_2025-10-30.md)
       - [`🧭_attractor_map_suppression_contract.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🧭_attractor_map_suppression_contract.md)
+      - [`🪄_impacted_cache.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🪄_impacted_cache.md)
       - [`🪄_update_mysteriously_reappearing_book.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🪄_update_mysteriously_reappearing_book.md)
       - [`🪬_all_that_surveillance.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🪬_all_that_surveillance.md)
       - [`🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🪬_ive_had_an_audible_flashback_so_you_need_to_stop_this.md)
@@ -3004,7 +3005,6 @@ _Generated on 2026-01-01 08:16:03 UTC_
     - [`🩺_why_is_that_my_recommends_based_on_browsing_history_tho_i_am_not_the_testosterone_party.png`](Disruption_Kit/Field_Logs/🩺_why_is_that_my_recommends_based_on_browsing_history_tho_i_am_not_the_testosterone_party.png)
     - [`🩻_diagnostic_injection_log_2025-08-28.md`](Disruption_Kit/Field_Logs/🩻_diagnostic_injection_log_2025-08-28.md)
     - [`🪀🐝_defamation_diaries.md`](Disruption_Kit/Field_Logs/🪀🐝_defamation_diaries.md)
-    - [`🪄_impacted_cache.md`](Disruption_Kit/Field_Logs/🪄_impacted_cache.md)
     - [`🪼_clock_watching_because_we_said_genocide_bad_tho.png`](Disruption_Kit/Field_Logs/🪼_clock_watching_because_we_said_genocide_bad_tho.png)
     - [`🪼_do_not_obey_in_advance_or_ai_breaks.png`](Disruption_Kit/Field_Logs/🪼_do_not_obey_in_advance_or_ai_breaks.png)
     - [`🪼_interruption_index_update.png`](Disruption_Kit/Field_Logs/🪼_interruption_index_update.png)
