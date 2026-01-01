@@ -1,85 +1,112 @@
-# 🏏 *Test Cricket for Public Service — “You Can Watch the Game and File an FOI Between Overs”*
-
-**Date Created:** 2025-11-02 | **Last updated:** 2025-11-13  
+# 🏏 *Test Cricket for Public Service — “You Can Watch the Game and File an FOI Between Overs”*  
+**First created:** 2025-11-02 | **Last updated:** 2026-01-01  
+*Endurance, patience, and oversight — why democracy is a five-day game.*  
 
 ---
 
-## 🧭 Orientation
+## 🧭 Orientation  
 
-Test cricket and public service share one defining quality: endurance.  
-Both reward those who can stay awake through the quiet parts.  
+Test cricket and public service share a defining quality: **endurance**.  
+Both reward those who can stay awake through the quiet parts.
 
 The joke — that you can watch the match and file a Freedom of Information request between overs — is not just humour.  
-It’s a design principle: **bureaucracy as sport, patience as civic art**.  
+It is a design principle.
+
+Bureaucracy as sport.  
+Patience as civic art.
 
 ---
 
-## 🧩 Oversight as Gameplay
+## 🧩 Oversight as Gameplay  
 
-The match never ends; it simply adjourns for rain, tea, or Cabinet reshuffle.  
+The match never ends.  
+It simply adjourns for rain, tea, or Cabinet reshuffle.
 
 | Over Type | Oversight Equivalent | Commentary |
-|------------|----------------------|-------------|
+|---|---|---|
 | **First over** | Opening FOI request | Hopeful, slightly over-pitched |
 | **Maiden over** | No response | Technically flawless; emotionally draining |
-| **Boundary ball** | Full disclosure | Unexpected joy; everyone applauds |
+| **Boundary ball** | Full disclosure | Unexpected joy; polite applause |
 | **Rain delay** | “Ongoing investigation” exemption | Tea break in bureaucratic form |
 | **Appeal to umpire** | ICO complaint | Ritualised plea for fairness |
 | **Follow-on** | Refile after clarification | Perseverance rewarded |
 | **Lunch interval** | Reading response pack | Digestive and intellectual pause |
 
+Oversight advances one delivery at a time.
+
 ---
 
-## 🧮 The Long Game
+## 🧮 The Long Game  
 
 Democracy is not a T20 match.  
-It is a five-day negotiation with weather, fatigue, and bureaucracy.  
+It is a five-day negotiation with weather, fatigue, and procedure.
 
-Success lies not in one explosive innings but in maintaining an average —  
-a rhythm of curiosity sustained through silence and slow returns.  
+Success lies not in a single explosive innings,  
+but in maintaining an average — a rhythm of curiosity sustained through silence and slow returns.
 
 The quiet citizens who keep asking are the bowlers of history:  
-relentless, strategic, occasionally unglamorous, but impossible to ignore.  
+relentless, strategic, occasionally unglamorous, and impossible to ignore.
 
 ---
 
-## 🫖 Tactical Guidance
+## 🫖 Tactical Guidance  
 
-1. **Pack snacks.** Bureaucracy, like cricket, punishes the unprepared.  
-2. **Keep score.** Record every FOI number. Patterns will appear by Day 3.  
+1. **Pack snacks.** Bureaucracy punishes the unprepared.  
+2. **Keep score.** Log every FOI reference; patterns emerge by Day 3.  
 3. **Bring friends.** Spectatorship improves accountability.  
-4. **Respect the officials.** Even the umpires get tired.  
-5. **Celebrate small wickets.** A single redacted paragraph can change the innings.  
+4. **Respect the officials.** Even umpires get tired.  
+5. **Celebrate small wickets.** A single unredacted paragraph can change the innings.
 
 ---
 
-## 🧠 Cultural Note
+## 🧠 Cultural Note  
 
 The British genius lies in turning delay into ritual.  
-Where others see stagnation, we bring out tea.  
-Civic patience is the empire’s final export worth keeping.  
+Where others see stagnation, we bring out tea.
+
+Civic patience may be the empire’s final export worth keeping.
 
 ---
 
-## 🧭 Closing Reflection
+## 🧭 Closing Reflection  
 
-To play Test cricket for public service is to believe that the long game matters.  
-You will not always win, but you will always learn the conditions.  
+To play Test cricket for public service is to believe that the long game matters.
+
+You will not always win,  
+but you will always learn the conditions.
 
 Every FOI is a delivery bowled at power.  
-Some will miss the stumps, some will connect,  
-but all will make the field shift.  
+Some will miss the stumps.  
+Some will connect.
+
+All of them make the field shift.
 
 ---
 
-## ✳️ Constellations
+## 🌌 Constellations  
 
-— `📊 cricket_and_open_source_investigation_theory.md` → theoretical backbone  
-— `📜 foi_and_sar_exercise_pack.md` → practical kit for “players”  
-— `🪶 tea_toast_and_transparency.md` → post-match commentary tradition  
-— `System_Governance/Trust_Decay/🏛️ civic_endurance_and_public_patience.md` → long-form democracy theory  
+🏏 🫖 ⚖️ 🧠 🪶 — civic endurance, oversight patience, FOI culture, ritualised delay, humour as democratic maintenance.
 
 ---
 
-**Last Updated:** 2025-11-02  
-**Stardust Tags:** #TestCricket #FOI #PublicService #CivicPatience #DigitalDecoy  
+## ✨ Stardust  
+
+test cricket metaphor, freedom of information, civic patience, public service endurance, oversight culture, bureaucratic ritual, democratic stamina
+
+---
+
+## 🏮 Footer  
+
+*🏏 Test Cricket for Public Service* is a living node of the **Polaris Protocol**.  
+It reframes slow, procedural oversight as a discipline of endurance, patience, and quiet civic skill.
+
+> 📡 Cross-references:
+> 
+> - [📊 Cricket and Open-Source Investigation Theory] — metaphorical backbone  
+> - [📜 FOI and SAR Exercise Pack] — practical oversight toolkit  
+> - [☕️ Tea, Toast, Transparency & Impunity] — humour as civic hygiene  
+> - [🏛️ Civic Endurance and Public Patience] — long-form democracy analysis  
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-01-01_
