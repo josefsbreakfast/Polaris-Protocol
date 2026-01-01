@@ -35,7 +35,8 @@ faced serious ethical dilemmas. More than that, I am writing [this letter] to wa
 among those dealing with health in the Incarceration of Unlawful
 Combatants Law" (domestic IL law).  
 - Transatlantic appearance of student encampments start in Apr 2024, all host universities have investments which are illegal under ICJ provisions, all students report and document previous lobbying.
-- May 2024 first British Jewish dissent in UK major media. American Jewish dissent in resignation from Whote House. Core justification narrative starting to break.  
+- May 2024 first British Jewish dissent in UK major media. American Jewish dissent in resignation from Whote House. Core justification narrative starting to break.
+- ICJP seeks clarification re reconaissance flights from FCDO and MoD May 2024.  
 - Dr. Hussam Abu Safiya (multiple, sustained calls for international support, deranked from algorithms, IL-UK meeting not openly declared, AI responses to FCDO emails, son martyred, second arrest has led to sustained detention without known cause, due process, and with torture, medical concerns, and death of mother during detention)
 - Professionals, academics, journalists: all classical first targets in historic crimes of genocide, as well as of totalitarian, fascist, and authoritarian regiemes.
 - UNRWA under ix multiple times as extension of this violence; recent COGAT being COGAT increasing severity of bureaucracy as means of abusive witholding and neglect in recent days.  
