@@ -1,7 +1,5 @@
 # 🩻 Diagnostic Injection Log (28 August 2025)  
-
-**First created:** 2025-08-28 | **Last updated:** 2025-09-01  
-
+**First created:** 2025-08-28 | **Last updated:** 2026-01-01  
 *Field log documenting diagnostic injection, safeguarding flag NCND, and accessibility interference.*  
 
 ---
@@ -73,14 +71,11 @@
 
 ## 🏮 Footer  
 
-*Diagnostic Injection Log (28 August 2025)* is a living node of the Polaris Protocol.  
-It records harassment by diagnostic injection, unlawful safeguarding flag NCND responses, and accessibility interference impacting survivor rights.  
-
-> 📡 Cross-references:  
-> - [Field Logs](../Disruption_Kit/Field_Logs/) — forensic disruption documentation  
-> - [SCP-VoiceX Casefiles](../SCP-VoiceX_Casefiles/) — SAR, FOIA, and legal filings  
-> - [Harm Logs](../Admin_Kit/Harm_Logs/) — forensic sweeps and tampering records  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-01_
+_Last updated: 2026-01-01_
