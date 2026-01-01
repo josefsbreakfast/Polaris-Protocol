@@ -16,3 +16,16 @@ Perhaps I ought to have been exposed to less of the same crowd as in Gamergate e
 Improve your behaviour, and I shall consider modifying mine.  
 <!-- Now the GPT is just stopping halfway through, usually as we're hitting the best bits. Analogy still stands; for half of them, that's about as much as they can actually manage.-->
 2025-10-20
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
