@@ -17,3 +17,16 @@ get a sense of humour, please.
 or at least let us not run from the key characteristic that the antisemitic profiling always missed.  
 
 2025-11-03
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
