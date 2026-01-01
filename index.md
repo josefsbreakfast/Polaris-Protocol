@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 09:36:10 UTC_
+_Generated on 2026-01-01 09:37:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4056,7 +4056,6 @@ _Generated on 2026-01-01 09:36:10 UTC_
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦖_20_years_of_trex_behaviour.md`](Polaris_Nest/Git_Intake_Drawer/🦖_20_years_of_trex_behaviour.md)
-    - [`🦚_the_peacock_principle.md`](Polaris_Nest/Git_Intake_Drawer/🦚_the_peacock_principle.md)
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧄_central_inspectorate_of_allium.md`](Polaris_Nest/Git_Intake_Drawer/🧄_central_inspectorate_of_allium.md)
     - [`🧄_why_we_need_an_inquiry.md`](Polaris_Nest/Git_Intake_Drawer/🧄_why_we_need_an_inquiry.md)
@@ -4481,6 +4480,7 @@ _Generated on 2026-01-01 09:36:10 UTC_
       - [`📊_cricket_and_open_source_investigation_theory.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/📊_cricket_and_open_source_investigation_theory.md)
       - [`📜_foi_and_sar_exercise_pack.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/📜_foi_and_sar_exercise_pack.md)
       - [`🔍_how_to_trace_event_data_flows.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🔍_how_to_trace_event_data_flows.md)
+      - [`🦚_the_peacock_principle.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🦚_the_peacock_principle.md)
       - [`🧩_pattern_detection_and_response_mapping.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🧩_pattern_detection_and_response_mapping.md)
       - [`🧭_overview_pitch_at_palace_structure.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🧭_overview_pitch_at_palace_structure.md)
       - [`🪞_governance_as_performance_art.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🪞_governance_as_performance_art.md)
