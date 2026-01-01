@@ -42,3 +42,16 @@ again, thos undermines the automative element, undermines the integrity of the t
 this is just some twerp, or twerps plural, being difficult because a girl isnt stupid, and shes playing in their domain, and WAAAAAA WHY DID ANITA HAVE TO SAY CHAINMAIL BIKINIS WERENT PERFECT.  
 
 get the fuck over yourselves.  
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
