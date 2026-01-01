@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:28:55 UTC_
+_Generated on 2026-01-01 08:29:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1875,6 +1875,7 @@ _Generated on 2026-01-01 08:28:55 UTC_
       - [`🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md)
       - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
       - [`🧠_hybrid_motive_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🧠_hybrid_motive_hypothesis_2025-09-20.md)
+      - [`🧾_codename_table_reconstruction.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🧾_codename_table_reconstruction.md)
       - [`🩰_petty_princesses_with_beards.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🩰_petty_princesses_with_beards.md)
       - [`🩰_registering_my_daily_fuck_this.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🩰_registering_my_daily_fuck_this.md)
       - [`🪐_my_britannia.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🪐_my_britannia.md)
@@ -2998,7 +2999,6 @@ _Generated on 2026-01-01 08:28:55 UTC_
     - [`🧮_7_day_word_count_analysis.md`](Disruption_Kit/Field_Logs/🧮_7_day_word_count_analysis.md)
     - [`🧯_calm_doon_lads.md`](Disruption_Kit/Field_Logs/🧯_calm_doon_lads.md)
     - [`🧼_regarding_nizoral.md`](Disruption_Kit/Field_Logs/🧼_regarding_nizoral.md)
-    - [`🧾_codename_table_reconstruction.md`](Disruption_Kit/Field_Logs/🧾_codename_table_reconstruction.md)
     - [`🧿_i_see_you.png`](Disruption_Kit/Field_Logs/🧿_i_see_you.png)
     - [`🧿_i_will_stfu_when_you_all_gtfo.jpg`](Disruption_Kit/Field_Logs/🧿_i_will_stfu_when_you_all_gtfo.jpg)
     - [`🧿_sorry_how_many_women_chose_NOT_to_twin_to_your_bank_account.PNG`](Disruption_Kit/Field_Logs/🧿_sorry_how_many_women_chose_NOT_to_twin_to_your_bank_account.PNG)
