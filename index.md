@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 10:42:13 UTC_
+_Generated on 2026-01-01 10:43:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3564,6 +3564,7 @@ _Generated on 2026-01-01 10:42:13 UTC_
       - [`🧿_grandma_classification_theory.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_grandma_classification_theory.md)
       - [`🧿_representation_logic_vs_platform_optimisation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_representation_logic_vs_platform_optimisation.md)
       - [`🩺_containment_catchphrases.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🩺_containment_catchphrases.md)
+      - [`🪞_gendered_awkwardness_and_metadata_misinterpretation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_gendered_awkwardness_and_metadata_misinterpretation.md)
       - [`🪞_narrative_drift_when_systems_inherit_the_wrong_story.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_narrative_drift_when_systems_inherit_the_wrong_story.md)
       - [`🪞_narrative_self_repair_index.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_narrative_self_repair_index.md)
       - [`🪞_plausibly_deniable_equivocation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_plausibly_deniable_equivocation.md)
@@ -4178,7 +4179,6 @@ _Generated on 2026-01-01 10:42:13 UTC_
     - [`🪖_why_intelligence_agencies_dont_understand_joy.md`](Polaris_Nest/Git_Intake_Drawer/🪖_why_intelligence_agencies_dont_understand_joy.md)
     - [`🪝_if_you_do_not_have_a_hook_they_create_one.md`](Polaris_Nest/Git_Intake_Drawer/🪝_if_you_do_not_have_a_hook_they_create_one.md)
     - [`🪞_coercive_control_in_surveillance_systems.md`](Polaris_Nest/Git_Intake_Drawer/🪞_coercive_control_in_surveillance_systems.md)
-    - [`🪞_gendered_awkwardness.md`](Polaris_Nest/Git_Intake_Drawer/🪞_gendered_awkwardness.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
