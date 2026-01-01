@@ -26,4 +26,16 @@ It is **not** diagnosis or treatment guidance; it gives **common language + stru
 
 ## 1) IDENTIFY — Structured History-Taking
 [...content truncated for brevity in code block...]
-_Last updated: 2025-10-05_
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
