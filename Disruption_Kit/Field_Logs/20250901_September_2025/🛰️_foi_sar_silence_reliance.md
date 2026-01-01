@@ -1,6 +1,6 @@
 # 🛰️ FOI/SAR Silence Reliance  
-**First created:** 2025-09-05 | **Last updated:** 2025-09-05  
-*Log of emotional and structural impacts of delayed institutional information requests and engineered isolation*
+**First created:** 2025-09-05 | **Last updated:** 2026-01-01  
+*Log of emotional and structural impacts of delayed institutional information requests and engineered isolation*  
 
 ---
 
@@ -36,18 +36,15 @@
 - Survivors in these systems are **not meant to be in contact** with one another.  
 - The fragmentation ensures that even when stories surface, they appear as isolated cases rather than connected patterns.  
 - The silence is not passive — it is engineered.  
-
 ---
 
 ## 🏮 Footer  
 
-*FOI/SAR Silence Reliance* is a living node of the Polaris Protocol.  
-It documents how delayed disclosures and engineered isolation create emotional and structural pressure for survivor silence.  
-
-> 📡 Cross-references:  
-> - [Field Logs](../Field_Logs/) — forensically dated captures of systemic suppression  
-> - [Survivor Tools](../Survivor_Tools/) — strategies for surviving partial disclosures and enforced isolation  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-05_
+_Last updated: 2026-01-01_
