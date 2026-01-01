@@ -1,5 +1,5 @@
 # 🩺 Live Probe Ethics & Extraction Decision Sheet
-**First created:** 2025-10-13  |  **Last updated:** 2025-11-14  
+**First created:** 2025-10-13 | **Last updated:** 2026-01-01  
 *One‑page gate for using a real person as a probe, balancing data value with duty of care.*  
 
 ---
@@ -40,12 +40,13 @@ Physical threats; doxxing; acute mental‑health risk; credential theft; attacke
 
 ---
 
-## 🌌 Constellations  
-- 🚑 Extraction Quick Checklist  
-- 🕰️ Why Exposure Persists  
-- ⏳ Governance Latency  
+## 🏮 Footer  
 
-## ✨ Stardust  
-duty of care, informed consent, ephemeral telemetry, oversight renewal, extraction planning  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
-*Last updated 2025-11-14 | Ethics first, data second.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
