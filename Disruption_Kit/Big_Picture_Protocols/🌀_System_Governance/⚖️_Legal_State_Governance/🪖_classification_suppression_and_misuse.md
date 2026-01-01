@@ -141,10 +141,15 @@ classification misuse, over-classification, institutional silence, whistleblower
 It documents recognised governance failure modes where secrecy frameworks obstruct lawful disclosure without explicit refusal.
 
 > 📡 Cross-references:
-> - **🌀 Systems & Governance** — structural compliance failure patterns  
-> - **🛰️ Metadata Sabotage Network** — silence as operational signal  
-> - **⚖️ Legal State Governance** — SAR, FOI, and oversight mechanics  
-
+> 
+> - [⚖️ Official Secrets Reform and Accountability](./⚖️_official_secrets_reform_and_accountability.md)  
+> - [📮 OSA Flag Clarification Request (Template)](../../../Survivor_Tools/📱_Digital_But_Make_It_Secure/📮_osa_flag_clarification_request.md)  
+> - [🦠 Systemic Porosity — When Legal Flexibility Becomes National-Security Debt](../👑_Ownership_Control/🦠_systemic_porosity.md)
+> - [⚖️ Consent and Purpose Limitation Failure in ML R&D](../🧪_Development_Experimentation/⚖️_consent_and_purpose_limitation_failure_in_ml_rnd.md)  
+> - [🧬 Distributed Complicity In Modern Warfare](../👑_Ownership_Control/🧬_distributed_complicity_in_modern_warfare.md)
+> - [🌀 Docility Engine](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md)
+> - [🗞️ Docility Engine Print Edition](../../🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🗞️_docility_engine_print_edition.md)  
+<!--I could have made more pointed crosslinks, but I will pause.-->
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-01-01_
