@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:53:35 UTC_
+_Generated on 2026-01-01 08:54:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1996,6 +1996,7 @@ _Generated on 2026-01-01 08:53:35 UTC_
       - [`🛰️_transparent_interference_field_log_2025-10-04.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_transparent_interference_field_log_2025-10-04.md)
       - [`🛰️_two_prongs_one_fork.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_two_prongs_one_fork.md)
       - [`🛰️_where_we_are_now_2025-10-30.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_where_we_are_now_2025-10-30.md)
+      - [`🦇_men_already_have_rights.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🦇_men_already_have_rights.md)
       - [`🦇_training_model_for_you_not_on_me.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🦇_training_model_for_you_not_on_me.md)
       - [`🦤_addressing_the_male_pick_me.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🦤_addressing_the_male_pick_me.md)
       - [`🦤_dont_punish_reminders_of_your_mother.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🦤_dont_punish_reminders_of_your_mother.md)
@@ -2984,7 +2985,6 @@ _Generated on 2026-01-01 08:53:35 UTC_
     - [`🦇_being_vocal_and_female_online.PNG`](Disruption_Kit/Field_Logs/🦇_being_vocal_and_female_online.PNG)
     - [`🦇_being_vocal_and_female_online.md`](Disruption_Kit/Field_Logs/🦇_being_vocal_and_female_online.md)
     - [`🦇_drift.md`](Disruption_Kit/Field_Logs/🦇_drift.md)
-    - [`🦇_men_already_have_rights.md`](Disruption_Kit/Field_Logs/🦇_men_already_have_rights.md)
     - [`🦇_oh_it_gets_better.PNG`](Disruption_Kit/Field_Logs/🦇_oh_it_gets_better.PNG)
     - [`🦇_subtly_never_got_me_anywhere.PNG`](Disruption_Kit/Field_Logs/🦇_subtly_never_got_me_anywhere.PNG)
     - [`🦇_training_model_for_you_not_on_me.PNG`](Disruption_Kit/Field_Logs/🦇_training_model_for_you_not_on_me.PNG)
