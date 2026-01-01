@@ -1,5 +1,5 @@
 # 🪀🐝 Defamation Diaries  
-**First created:** 2025-10-26 | **Last updated:** 2025-11-13  
+**First created:** 2025-10-26 | **Last updated:** 2026-01-01  
 *Things we can all blame one guy for, alledgedly.* 🙄  
 
 ---
@@ -67,14 +67,11 @@ There may be times where I'm going to slightly adjust what's sad to make it more
 
 ## 🏮 Footer  
 
-*🪀🐝 Defamation Diaries* is a living node of the Polaris Protocol.  
-It contributes to the archive by explaining how everything terrible is one person's fault, alledgely.  
-
 > 📡 Cross-references:
 > 
-> - [🧬 Survivor Tools]() — *practical countermeasures*  
-> - [🧠 Big Picture Protocols]() — *systemic analysis*  
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-13_
+_Last updated: 2026-01-01_
