@@ -121,11 +121,11 @@ It analyses how prestige events function as informal governance infrastructure, 
 
 > 📡 Cross-references:
 > 
-> - [🌍 Deregulation as Diplomatic Infrastructure] — macro context  
-> - [⚖️ Soft Power Without Soft Accountability] — prestige systems analysis  
-> - [👑 Soft Power Accountability Gap] — royal dimension  
-> - [🦇 Prestige Capture Mechanisms] — institutional follow-on  
-> - [🪞 Governance as Performance Art] — symbolic governance analysis  
+> - [🌍 Deregulation as Diplomatic Infrastructure](./🌍_deregulation_as_diplomatic_infrastructure.md) — *macro context*  
+> - [⚖️ Soft Power Without Soft Accountability](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_soft_power_without_soft_accountability.md) — *prestige systems analysis*  
+> - [👑 Soft Power Accountability Gap](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_soft_power_accountability_gap.md) — *royal dimension*  
+> - [*Pending:* 🦇 Prestige Capture Mechanisms] — *institutional follow-on*  
+> - [🪞 Governance as Performance Art](./🪞_governance_as_performance_art.md) — *symbolic governance analysis*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
