@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:47:08 UTC_
+_Generated on 2026-01-01 08:48:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1773,6 +1773,7 @@ _Generated on 2026-01-01 08:47:08 UTC_
       - [`📍_10_day_tactical_forecast_2025-08-08_to_08-18.md`](Disruption_Kit/Field_Logs/20250801_August_2025/📍_10_day_tactical_forecast_2025-08-08_to_08-18.md)
       - [`🚀_governance_is_great_2nd_spring_clean.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🚀_governance_is_great_2nd_spring_clean.md)
       - [`🛰️_arrest_as_surveillance_warrant.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_arrest_as_surveillance_warrant.md)
+      - [`🛰️_embedded_observers_field_log_2025-08-06.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_embedded_observers_field_log_2025-08-06.md)
       - [`🛰️_purge_sequence_2025-08-11_to_2025-08-13.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)
       - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🧠_sticky_memory_analysis_2025-08-14.md)
       - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🧱_loft_packet_dump_theory_2025-08-06.md)
@@ -2909,7 +2910,6 @@ _Generated on 2026-01-01 08:47:08 UTC_
     - [`🛰_but_the_eldest_is_the_silent_protector.png`](Disruption_Kit/Field_Logs/🛰_but_the_eldest_is_the_silent_protector.png)
     - [`🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG`](Disruption_Kit/Field_Logs/🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG)
     - [`🛰️_bakwaas_but_okay_fine.PNG`](Disruption_Kit/Field_Logs/🛰️_bakwaas_but_okay_fine.PNG)
-    - [`🛰️_embedded_observers_field_log_2025-08-06.md`](Disruption_Kit/Field_Logs/🛰️_embedded_observers_field_log_2025-08-06.md)
     - [`🛰️_erasure_of_erasure.md`](Disruption_Kit/Field_Logs/🛰️_erasure_of_erasure.md)
     - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md`](Disruption_Kit/Field_Logs/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md)
     - [`🛰️_feed_oscillation_spends.md`](Disruption_Kit/Field_Logs/🛰️_feed_oscillation_spends.md)
