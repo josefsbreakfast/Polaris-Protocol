@@ -22,7 +22,8 @@ Likely to split into 2 nodes.
 fuel, electricity and food into Gaza".
 - UK Parliament confirms UK citizens can serve in IDF. No concerns of potential war crimes liability expressed.  
 - ICJ issues precautionary measures to protect the Palestinian people from genocide in Jan 2024; all territories, all states, all organisations, all individuals liable.
-- Jan 2024 BMA issues first position paper.  
+- Jan 2024 BMA issues first position paper.
+- Hind Rajab is murdered in Jan 2024. Emergency responders hit en route to attend. Hind can be heard being talked through the trauma of being stuck in a vehicle with the deceased bodies of six relatives, by PRCS calk responders. BBC reports as "found dead", without agency. US-made anti-tank shell found with over 300 rounds; investigation conducted over following months divides international community. Due to mainstream language in media reporting, diaspora citizens are most impacted with little knowledge or hnderstanding from wider imperial core society. Algorithmically siloed.  
 - Sieges of hospitals follow Al-Ahli Arab Hospital; Al-Shifa first two sieges in Apr 2024 are especially escalatory. Significant evidence of systematic war crimes to digital observers. Imperial core medical associations hesitate, known lawfare pressure towards individuals, unknown to wider associations. As reference, whilst not directly alike, action was taken in late apartheid by other countries' MAs to protest SA inclusion in WMA, inc BMA. Drs' unions are political because unions are political bodies by their very nature; this should not be so difficult for politicians and political commentators to understand. GMC by comparison is highly socially conservative, biases are still in place today and strategic plans within wider profession to action downstream impacts (which remain significant).
 - By Mar 2024, JAMA has still published several letters with APR, and debunked claims re health facilities. BBC publishing IDF auth account of Al-Shifa seige, without reference to mass graves.
 - Mar 2024 BMA calls for investigation into treatment of healthcare staff; emphathises medical neutrality.
@@ -37,7 +38,8 @@ Combatants Law" (domestic IL law).
 - Transatlantic appearance of student encampments start in Apr 2024, all host universities have investments which are illegal under ICJ provisions, all students report and document previous lobbying.
 - May 2024 first British Jewish dissent in UK major media. American Jewish dissent in resignation from Whote House. Core justification narrative starting to break.
 - ICJP seeks clarification re reconaissance flights from FCDO and MoD May 2024.
-- Prominant British Rabbi livelihood threatened for intercommunity grieg; June 2024.  
+- Prominant British Rabbi livelihood threatened for intercommunity grieg; June 2024.
+- Hogh Court in IL orders Israeli government to provode evidemce of sufficient aid, on basis of ICJ measures.  
 - Dr. Hussam Abu Safiya (multiple, sustained calls for international support, deranked from algorithms, IL-UK meeting not openly declared, AI responses to FCDO emails, son martyred, second arrest has led to sustained detention without known cause, due process, and with torture, medical concerns, and death of mother during detention)
 - Professionals, academics, journalists: all classical first targets in historic crimes of genocide, as well as of totalitarian, fascist, and authoritarian regiemes.
 - UNRWA under ix multiple times as extension of this violence; recent COGAT being COGAT increasing severity of bureaucracy as means of abusive witholding and neglect in recent days.  
