@@ -125,11 +125,10 @@ It provides a reproducible decision framework for tracing how data moves through
 
 > 📡 Cross-references:
 > 
-> - [⚖️ UK Data Claim Routes and Limits] — procedural counterpart  
-> - [👑 Pitch Palace Outpicture Paths] — applied case study  
-> - [👑 Soft Power Accountability Gap] — constitutional relevance  
-> - [📗 Event Data Traceability Protocol] — toolkit extension  
-> - [📚 Narrative Management and Metadata Sabotage] — thematic resonance  
+> - [👑 Pitch Palace Outpicture Paths](./👑_pitch_palace_outpicture_paths.md) — *applied case study*  
+> - [⚖️ Soft Power Without Soft Accountability](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_soft_power_without_soft_accountability.md) — *prestige systems analysis*  
+> - [👑 Soft Power Accountability Gap](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_soft_power_accountability_gap.md) — *royal dimension*  
+> - [📚 Narrative Management and Metadata Sabotage](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md) — *thematic resonance*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
