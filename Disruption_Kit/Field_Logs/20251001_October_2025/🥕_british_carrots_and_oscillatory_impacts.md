@@ -15,3 +15,16 @@ Even G-d designed this shit easier than the tech bros, honestly.
 (Potentially better access to the full *Plantae*, *regenum*, to be fair.)  
 
 2025-10-29  
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
