@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 10:40:14 UTC_
+_Generated on 2026-01-01 10:41:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3572,6 +3572,7 @@ _Generated on 2026-01-01 10:40:14 UTC_
       - [`🪞_strong_women_apparently.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_strong_women_apparently.md)
       - [`🪞_the_thompson_principle.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_the_thompson_principle.md)
       - [`🪶_narrative_saturation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪶_narrative_saturation.md)
+      - [`🪼_catfishing.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪼_catfishing.md)
       - [`🪼_ephemeral_lexical_reactivation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪼_ephemeral_lexical_reactivation.md)
       - [`🪼_modern_extremism_recruits_through_vibes.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪼_modern_extremism_recruits_through_vibes.md)
     - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md)
@@ -4179,7 +4180,6 @@ _Generated on 2026-01-01 10:40:14 UTC_
     - [`🪞_coercive_control_in_surveillance_systems.md`](Polaris_Nest/Git_Intake_Drawer/🪞_coercive_control_in_surveillance_systems.md)
     - [`🪞_gendered_awkwardness.md`](Polaris_Nest/Git_Intake_Drawer/🪞_gendered_awkwardness.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
-    - [`🪼_catfishing.md`](Polaris_Nest/Git_Intake_Drawer/🪼_catfishing.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
