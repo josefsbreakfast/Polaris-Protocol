@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 09:22:04 UTC_
+_Generated on 2026-01-01 09:36:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3995,7 +3995,6 @@ _Generated on 2026-01-01 09:22:04 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`ZDC_README.md`](Polaris_Nest/Git_Intake_Drawer/ZDC_README.md)
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
-    - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🇬🇧_how_brexit_killed_microexporters.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_how_brexit_killed_microexporters.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
@@ -4472,6 +4471,7 @@ _Generated on 2026-01-01 09:22:04 UTC_
       - [`🐝_audit_stinger.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/🐝_audit_stinger.md)
     - [**🏏_Pitch_at_Palace_Audit_Practice/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/README.md)
+      - [`☕️_tea_toast_transparency.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/☕️_tea_toast_transparency.md)
       - [`⚖️_regulatory_and_risk_framework.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/⚖️_regulatory_and_risk_framework.md)
       - [`🌍_deregulation_as_diplomatic_infrastructure.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🌍_deregulation_as_diplomatic_infrastructure.md)
       - [`🎭_why_it_attracts_bad_actors.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🎭_why_it_attracts_bad_actors.md)
