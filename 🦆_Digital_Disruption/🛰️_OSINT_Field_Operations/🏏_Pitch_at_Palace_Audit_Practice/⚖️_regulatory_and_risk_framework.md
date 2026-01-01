@@ -120,10 +120,10 @@ It provides a non-allegational compliance map for analysing prestige-linked inve
 
 > 📡 Cross-references:
 > 
-> - [🧭 Overview — Pitch @ Palace Structure] — *organisational backbone*  
-> - [📜 FOI and SAR Exercise Pack] — *request templates derived from this framework*  
-> - [🌍 Deregulation as Diplomatic Infrastructure] — *macro-pattern analysis*  
-> - [💬 Whistleblowers as Emergency Governance] — *last-resort oversight logic*  
+> - [🧭 Overview — Pitch @ Palace Structure](./🧭_overview_pitch_at_palace_structure.md) — *structural map of the platform*  
+> - [📜 FOI + SAR Exercise Pack](./📜_foi_and_sar_exercise_pack.md) — *operational access toolkit*  
+> - [🌍 Deregulation as Diplomatic Infrastructure](./🌍_deregulation_as_diplomatic_infrastructure.md) — *macro-pattern analysis*  
+> - [🌋 Whistleblowers as Emergency Governance](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌋_whistleblowers_as_emergency_governance.md) — *last-resort oversight logic*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
