@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:18:28 UTC_
+_Generated on 2026-01-01 08:18:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1982,6 +1982,7 @@ _Generated on 2026-01-01 08:18:28 UTC_
       - [`🛰️_two_prongs_one_fork.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_two_prongs_one_fork.md)
       - [`🛰️_where_we_are_now_2025-10-30.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_where_we_are_now_2025-10-30.md)
       - [`🧭_attractor_map_suppression_contract.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🧭_attractor_map_suppression_contract.md)
+      - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
       - [`🩺_oh_the_irony_tho.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🩺_oh_the_irony_tho.md)
       - [`🪀🐝_defamation_diaries.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🪀🐝_defamation_diaries.md)
       - [`🪄_impacted_cache.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🪄_impacted_cache.md)
@@ -3003,7 +3004,6 @@ _Generated on 2026-01-01 08:18:28 UTC_
     - [`🩰_petty_princesses_with_beards.md`](Disruption_Kit/Field_Logs/🩰_petty_princesses_with_beards.md)
     - [`🩰_registering_my_daily_fuck_this.md`](Disruption_Kit/Field_Logs/🩰_registering_my_daily_fuck_this.md)
     - [`🩸_there_have_been_many_outs_suggested.md`](Disruption_Kit/Field_Logs/🩸_there_have_been_many_outs_suggested.md)
-    - [`🩺_live_probe_ethics_and_extraction_decision_sheet.md`](Disruption_Kit/Field_Logs/🩺_live_probe_ethics_and_extraction_decision_sheet.md)
     - [`🩺_why_is_that_my_recommends_based_on_browsing_history_tho_i_am_not_the_testosterone_party.png`](Disruption_Kit/Field_Logs/🩺_why_is_that_my_recommends_based_on_browsing_history_tho_i_am_not_the_testosterone_party.png)
     - [`🪼_clock_watching_because_we_said_genocide_bad_tho.png`](Disruption_Kit/Field_Logs/🪼_clock_watching_because_we_said_genocide_bad_tho.png)
     - [`🪼_do_not_obey_in_advance_or_ai_breaks.png`](Disruption_Kit/Field_Logs/🪼_do_not_obey_in_advance_or_ai_breaks.png)
