@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 10:34:59 UTC_
+_Generated on 2026-01-01 10:37:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -453,6 +453,7 @@ _Generated on 2026-01-01 10:34:59 UTC_
         - [`🌀_dual_loyalty_loops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌀_dual_loyalty_loops.md)
         - [`🌀_uk_low_cost_influence_environment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌀_uk_low_cost_influence_environment.md)
         - [`🌐_late_stage_autocracy_vibe_diagnostics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌐_late_stage_autocracy_vibe_diagnostics.md)
+        - [`🌹_labour_as_alt_right_spv.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌹_labour_as_alt_right_spv.md)
         - [`🍉_who_are_the_sock_puppets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🍉_who_are_the_sock_puppets.md)
         - [`🍉_your_voice_is_your_vote.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🍉_your_voice_is_your_vote.md)
         - [`🍿_imperial_core_drama_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🍿_imperial_core_drama_cycle.md)
@@ -4000,7 +4001,6 @@ _Generated on 2026-01-01 10:34:59 UTC_
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌈_prism_party.md`](Polaris_Nest/Git_Intake_Drawer/🌈_prism_party.md)
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
-    - [`🌹_labour_as_alt_right_spv.md`](Polaris_Nest/Git_Intake_Drawer/🌹_labour_as_alt_right_spv.md)
     - [`🌾_on_the_importance_of_trading_fairly.md`](Polaris_Nest/Git_Intake_Drawer/🌾_on_the_importance_of_trading_fairly.md)
     - [`🏙️_nottingham_divestment_motion_context.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_nottingham_divestment_motion_context.md)
     - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
