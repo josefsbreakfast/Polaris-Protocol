@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:29:57 UTC_
+_Generated on 2026-01-01 08:30:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2088,6 +2088,7 @@ _Generated on 2026-01-01 08:29:57 UTC_
       - [`🙄_you_were_literally_told_in_2022.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🙄_you_were_literally_told_in_2022.md)
       - [`🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🤣_imagine_being_so_risk_adverse_as_a_billionaire_tech_entrepreneur.md)
       - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.md)
+      - [`🧼_regarding_nizoral.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧼_regarding_nizoral.md)
       - [`🧿_i_will_stfu_when_you_all_gtfo.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧿_i_will_stfu_when_you_all_gtfo.md)
       - [`🧿_interference_plus_add_defamation.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧿_interference_plus_add_defamation.md)
       - [`🧿_this_is_better_than_ch_4.md`](Disruption_Kit/Field_Logs/20251101_November_2025/🧿_this_is_better_than_ch_4.md)
@@ -2998,7 +2999,6 @@ _Generated on 2026-01-01 08:29:57 UTC_
     - [`🧭_redacted_mid_england_civic_cohesion_overlay.md`](Disruption_Kit/Field_Logs/🧭_redacted_mid_england_civic_cohesion_overlay.md)
     - [`🧮_7_day_word_count_analysis.md`](Disruption_Kit/Field_Logs/🧮_7_day_word_count_analysis.md)
     - [`🧯_calm_doon_lads.md`](Disruption_Kit/Field_Logs/🧯_calm_doon_lads.md)
-    - [`🧼_regarding_nizoral.md`](Disruption_Kit/Field_Logs/🧼_regarding_nizoral.md)
     - [`🧿_i_see_you.png`](Disruption_Kit/Field_Logs/🧿_i_see_you.png)
     - [`🧿_i_will_stfu_when_you_all_gtfo.jpg`](Disruption_Kit/Field_Logs/🧿_i_will_stfu_when_you_all_gtfo.jpg)
     - [`🧿_sorry_how_many_women_chose_NOT_to_twin_to_your_bank_account.PNG`](Disruption_Kit/Field_Logs/🧿_sorry_how_many_women_chose_NOT_to_twin_to_your_bank_account.PNG)
