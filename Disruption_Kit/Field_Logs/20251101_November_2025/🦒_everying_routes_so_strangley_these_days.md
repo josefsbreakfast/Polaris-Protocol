@@ -30,3 +30,16 @@ There are only a cluster of things that could've really set this off.
 Believe me, it is annoying to me how this all seems to link together.  
 
 I want a quiet life on an island with more deer than there are humans.  
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
