@@ -447,4 +447,17 @@ contractors and institutions?
 
 someone has the capability to see where the leak is and lock out this user(s).
 
-2025-09-24
+2025-09-24  
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
