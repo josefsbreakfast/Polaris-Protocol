@@ -122,11 +122,12 @@ It analyses how deregulation operates as a geopolitical tool, enabling access, i
 
 > 📡 Cross-references:
 > 
-> - [🧭 Overview — Pitch @ Palace Structure] — micro-case anchor  
-> - [⚖️ Regulatory and Risk Framework — Pitch @ Palace] — compliance schema  
-> - [🎭 Why It Attracts Bad Actors] — behavioural manifestation  
-> - [🧱 Regulatory Friction and Legitimacy] — macro-governance analysis  
-> - [📚 Narrative Management and Metadata Sabotage] — narrative infrastructure  
+> - [🧭 Overview — Pitch @ Palace Structure](./🧭_overview_pitch_at_palace_structure.md) — *micro-case anchor*  
+> - [⚖️ Regulatory and Risk Framework — Pitch @ Palace](./⚖️_regulatory_and_risk_framework.md) — *compliance schema*  
+> - [🎭 Why It Attracts Bad Actors](./🎭_why_it_attracts_bad_actors.md) — *behavioural manifestation*  
+> - [🎭 Friction Tactics Catalogue](../../🧨_Counter_Nudge_Playbook/🎭_friction_tactics_catalogue.md)
+> - [🧩 Friction Patterns](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_friction_patterns.md)  
+> - [📚 Narrative Management and Metadata Sabotage](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md) — *narrative infrastructure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
