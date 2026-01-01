@@ -39,7 +39,7 @@ Different users will enter at different points.
 
 ## 🧱 Core Orientation Nodes (Start Here)
 
-### 🧭 Overview — Pitch @ Palace Structure
+#### [🧭 Overview — Pitch @ Palace Structure](./🧭_overview_pitch_at_palace_structure.md)  
 
 **Purpose:** Structural map
 
@@ -54,7 +54,7 @@ Read this first to understand *what you are looking at* before touching FOIs.
 
 ---
 
-### 🌍 Deregulation as Diplomatic Infrastructure
+#### [🌍 Deregulation as Diplomatic Infrastructure](./🌍_deregulation_as_diplomatic_infrastructure.md)  
 
 **Purpose:** Macro context
 
@@ -71,7 +71,7 @@ It is a **systemic pattern**, not a personality story.
 
 ## ⚖️ Compliance & Risk Lens
 
-### ⚖️ Regulatory and Risk Framework — Pitch @ Palace
+#### [⚖️ Regulatory and Risk Framework — Pitch @ Palace](./⚖️_regulatory_and_risk_framework.md)  
 
 **Purpose:** Legal topology
 
@@ -93,7 +93,7 @@ It explains **why scrutiny is structurally justified**.
 
 ## 🎭 Prestige & Behaviour Analysis
 
-### 🎭 Why It Attracts Bad Actors
+#### [🎭 Why It Attracts Bad Actors](./🎭_why_it_attracts_bad_actors.md)  
 
 **Purpose:** Behavioural gravity
 
@@ -107,7 +107,7 @@ Use this to understand *who is drawn in* and *why*.
 
 ---
 
-### 👑 Pitch Palace Outpicture Paths
+#### [👑 Pitch Palace Outpicture Paths](./👑_pitch_palace_outpicture_paths.md)  
 
 **Purpose:** Influence mechanics
 
@@ -121,7 +121,7 @@ This is where **images become infrastructure**.
 
 ---
 
-### 🪞 Governance as Performance Art
+#### [🪞 Governance as Performance Art](./🪞_governance_as_performance_art.md)  
 
 **Purpose:** Cultural-psychological frame
 
@@ -137,7 +137,7 @@ This helps explain why these systems persist *even when widely criticised*.
 
 ## 🛠️ Operational OSINT Toolkit
 
-### 📜 FOI + SAR Exercise Pack
+#### [📜 FOI + SAR Exercise Pack](./📜_foi_and_sar_exercise_pack.md)  
 
 **Purpose:** Lawful access
 
@@ -151,7 +151,7 @@ This is the **hands-on entry point** for practitioners.
 
 ---
 
-### 🔍 How to Trace Event Data Flows
+#### [🔍 How to Trace Event Data Flows](./🔍_how_to_trace_event_data_flows.md)  
 
 **Purpose:** Routing logic
 
@@ -165,7 +165,7 @@ Use this before sending requests to avoid dead ends.
 
 ---
 
-### 🧩 Pattern Detection & Response Mapping
+#### [🧩 Pattern Detection & Response Mapping](./🧩_pattern_detection_and_response_mapping.md)  
 
 **Purpose:** Meaning extraction
 
@@ -183,7 +183,7 @@ This is where transparency becomes analysis, not frustration.
 
 ## 🏏 Civic Endurance & Culture Nodes
 
-### 🏏 Test Cricket for Public Service
+#### [🏏 Test Cricket for Public Service](./🏏_test_cricket_for_public_service.md)  
 
 **Purpose:** Ethos
 
@@ -196,7 +196,7 @@ This keeps investigators from burning out.
 
 ---
 
-### 📊 Cricket and Open-Source Investigation Theory
+#### [📊 Cricket and Open-Source Investigation Theory](./📊_cricket_and_open_source_investigation_theory.md)  
 
 **Purpose:** Cultural literacy
 
@@ -212,7 +212,7 @@ Why slow oversight *works*.
 
 ## ☕ Humour, Ritual & Resilience
 
-### ☕️ Tea, Toast, Transparency & Impunity
+#### [☕️ Tea, Toast, & Transparency](./☕️_tea_toast_transparency.md)  
 
 **Purpose:** Civic metabolism
 
@@ -226,7 +226,7 @@ Important for maintaining humanity without surrender.
 
 ---
 
-### 🦚 The Peacock Principle
+#### [🦚 The Peacock Principle](./🦚_the_peacock_principle.md)  
 
 **Purpose:** Ceremonial distraction
 
