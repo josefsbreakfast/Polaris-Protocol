@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:37:50 UTC_
+_Generated on 2026-01-01 08:38:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1774,6 +1774,7 @@ _Generated on 2026-01-01 08:37:50 UTC_
       - [`🚀_governance_is_great_2nd_spring_clean.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🚀_governance_is_great_2nd_spring_clean.md)
       - [`🛰️_arrest_as_surveillance_warrant.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_arrest_as_surveillance_warrant.md)
       - [`🛰️_purge_sequence_2025-08-11_to_2025-08-13.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)
+      - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🧠_sticky_memory_analysis_2025-08-14.md)
       - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🧱_loft_packet_dump_theory_2025-08-06.md)
       - [`🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md)
       - [`🩻_diagnostic_injection_log_2025-08-28.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🩻_diagnostic_injection_log_2025-08-28.md)
@@ -2995,7 +2996,6 @@ _Generated on 2026-01-01 08:37:50 UTC_
     - [`🧄_the_funniest_thing_is_the_telling_on_oneself.md`](Disruption_Kit/Field_Logs/🧄_the_funniest_thing_is_the_telling_on_oneself.md)
     - [`🧟‍♀️_the_zombie_bit_the_frankenstack.md`](Disruption_Kit/Field_Logs/🧟‍♀️_the_zombie_bit_the_frankenstack.md)
     - [`🧠_mirror_effect_as_population_affect.md`](Disruption_Kit/Field_Logs/🧠_mirror_effect_as_population_affect.md)
-    - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/🧠_sticky_memory_analysis_2025-08-14.md)
     - [`🧬_data_twin_malfunctioning_job_recs.jpg`](Disruption_Kit/Field_Logs/🧬_data_twin_malfunctioning_job_recs.jpg)
     - [`🧬_do_try_to_act_your_combined_ages.PNG`](Disruption_Kit/Field_Logs/🧬_do_try_to_act_your_combined_ages.PNG)
     - [`🧬_when_you_get_twinned_to_the_nest_eggs.PNG`](Disruption_Kit/Field_Logs/🧬_when_you_get_twinned_to_the_nest_eggs.PNG)
