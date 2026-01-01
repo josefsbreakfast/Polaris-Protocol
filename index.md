@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:31:25 UTC_
+_Generated on 2026-01-01 08:32:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1986,6 +1986,7 @@ _Generated on 2026-01-01 08:31:25 UTC_
       - [`🛰️_two_prongs_one_fork.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_two_prongs_one_fork.md)
       - [`🛰️_where_we_are_now_2025-10-30.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_where_we_are_now_2025-10-30.md)
       - [`🧭_attractor_map_suppression_contract.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🧭_attractor_map_suppression_contract.md)
+      - [`🧯_calm_doon_lads.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🧯_calm_doon_lads.md)
       - [`🧿_my_feed_needs_a_sweep.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🧿_my_feed_needs_a_sweep.md)
       - [`🧿_oh_chaps_is_it_that_deep.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🧿_oh_chaps_is_it_that_deep.md)
       - [`🧿_server_lag_github.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🧿_server_lag_github.md)
@@ -2998,7 +2999,6 @@ _Generated on 2026-01-01 08:31:25 UTC_
     - [`🧬_when_you_get_twinned_to_the_nest_eggs.PNG`](Disruption_Kit/Field_Logs/🧬_when_you_get_twinned_to_the_nest_eggs.PNG)
     - [`🧭_redacted_mid_england_civic_cohesion_overlay.md`](Disruption_Kit/Field_Logs/🧭_redacted_mid_england_civic_cohesion_overlay.md)
     - [`🧮_7_day_word_count_analysis.md`](Disruption_Kit/Field_Logs/🧮_7_day_word_count_analysis.md)
-    - [`🧯_calm_doon_lads.md`](Disruption_Kit/Field_Logs/🧯_calm_doon_lads.md)
     - [`🧿_i_see_you.png`](Disruption_Kit/Field_Logs/🧿_i_see_you.png)
     - [`🧿_i_will_stfu_when_you_all_gtfo.jpg`](Disruption_Kit/Field_Logs/🧿_i_will_stfu_when_you_all_gtfo.jpg)
     - [`🧿_sorry_how_many_women_chose_NOT_to_twin_to_your_bank_account.PNG`](Disruption_Kit/Field_Logs/🧿_sorry_how_many_women_chose_NOT_to_twin_to_your_bank_account.PNG)
