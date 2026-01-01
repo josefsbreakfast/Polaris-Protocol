@@ -1,6 +1,6 @@
 # 🧠 Mirror Effect as Population Affect  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
-*How behavioural-AI mirrors turn individual mood into a population-level weather system.*
+**First created:** 2025-11-07 | **Last updated:** 2026-01-01  
+*How behavioural-AI mirrors turn individual mood into a population-level weather system.*  
 
 ---
 
@@ -228,13 +228,15 @@ This node connects to:
 
 It contributes to the archive by **naming and mapping the mirror effect as a structural, not purely personal, driver of post-2020 mental distress** – a bridge between mental-health data, behavioural-AI design, and containment theory.
 
-> 📡 Cross-references:  
-> - [Survivor Tools](../Disruption_Kit/Survivor_Tools/) — practical countermeasures and scripts for setting digital boundaries  
-> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic analysis of how these loops arise and are maintained  
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
-
-🏮 [Return to Admin Kit](../Polaris_Nest/🏮_Admin_Kit/README.md)  
-🪄 [Follow the Branding Usage Guide](../Polaris_Nest/🏮_Admin_Kit/🪄_branding_usage_guide.md)
+_Last updated: 2026-01-01_
