@@ -92,6 +92,8 @@ Over the years, restrictions have included bans on items as trivial as:
 - foodstuffs  
 - basic household goods  
 
+Nutmeg is banned by COGAT, for example.  
+
 These restrictions were not about symbolism.  
 They were about **governing life through scarcity**.
 
@@ -99,7 +101,7 @@ The wall is the mechanism that enforces this.
 
 ---
 
-## 🚶 Attempts to Leave Gaza: A Repeated History  
+## 🥀 Attempts to Leave Gaza: A Repeated History  
 
 Palestinians in Gaza have repeatedly attempted to leave:
 - through legal crossings  
@@ -153,7 +155,7 @@ Containment produces explosion.
 Notably, Hamas under the leadership of Yahya Sinwar were willing to undergo investigation for war crimes, subject to fair trial norms.  
 
 If the West genuinely wanted to persue due process and justice, it would not use Jewish women's dead bodies as rhetorical capital, nor would it support the assasination of a willing party with command influence.  
-
+<!--Oh, of course this pisses me off; would it not piss you off, if it were you?-->
 ---
 
 ## 🧠 Analytical Through-Line  
