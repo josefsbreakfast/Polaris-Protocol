@@ -41,3 +41,16 @@ ding ding:
 `🧿_sorry_how_many_women_chose_NOT_to_twin_to_your_bank_account.PNG`
 
 please go to /pol/ or twitter and argue with women there like a normal sexually frustrated male in need of some grass-touching.  
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
