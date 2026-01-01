@@ -11,3 +11,16 @@ so i just wanted to pass on that there are some invented health appointments of 
 i am clearly holding myself back from ripping into the idea of this as somehow effective ct work; clearly some of the medical ethics pronciples are still in the head box somewhere.  
 
 2025-11-08
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
