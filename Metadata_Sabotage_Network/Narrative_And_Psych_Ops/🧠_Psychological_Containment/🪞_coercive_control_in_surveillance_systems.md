@@ -1,6 +1,6 @@
 # 🪞 Coercive Control in Surveillance Systems  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
-*Digital coercion mirrors physical captivity — with different tools, same logic.*
+**First created:** 2025-11-22 | **Last updated:** 2026-01-01  
+*Digital coercion mirrors physical captivity — with different tools, same logic.*  
 
 ---
 
@@ -75,12 +75,13 @@ coercive control, surveillance, digital captivity, metadata harm, threat archite
 ---
 
 ## 🏮 Footer  
-*Coercive Control in Surveillance Systems* is a living node of the Polaris Protocol.  
+*🪞 Coercive Control in Surveillance Systems* is a living node of the Polaris Protocol.  
 It formalises the parallels between physical coercion and digital containment.
 
 > 📡 Cross-references:
-> - [🩸 Big Boy Pimps Node](../🛰️Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🩸_when_little_bureaucrats_play_big_boy_pimps.md)
+> 
+> - [🩸 Big Boy Pimps Node] (../🛰️Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/🩸_when_little_bureaucrats_play_big_boy_pimps.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2026-01-01_
