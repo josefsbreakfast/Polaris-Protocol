@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 10:50:57 UTC_
+_Generated on 2026-01-01 10:51:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -216,6 +216,7 @@ _Generated on 2026-01-01 10:50:57 UTC_
         - [`🧬_recycling_violence_through_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_recycling_violence_through_governance.md)
         - [`🧬_restorative_and_transformative_justice_where_it_actually_works.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_restorative_and_transformative_justice_where_it_actually_works.md)
         - [`🧬_what_a_csa_system_optimised_for_prevention_looks_like.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_what_a_csa_system_optimised_for_prevention_looks_like.md)
+        - [`🪖_classification_suppression_and_misuse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪖_classification_suppression_and_misuse.md)
         - [`🪖_how_politicians_legally_strangle_the_mod.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪖_how_politicians_legally_strangle_the_mod.md)
         - [`🪖_respectfully_asking_the_mod_to_declassify.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪖_respectfully_asking_the_mod_to_declassify.md)
         - [`🪻_lavender_fields_uk_transplant_legal_overview.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪻_lavender_fields_uk_transplant_legal_overview.md)
@@ -4178,7 +4179,6 @@ _Generated on 2026-01-01 10:50:57 UTC_
     - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
     - [`🪐_prosociality_as_nudge_surface.md`](Polaris_Nest/Git_Intake_Drawer/🪐_prosociality_as_nudge_surface.md)
     - [`🪔_survivor_poetics_hebrew_register.md`](Polaris_Nest/Git_Intake_Drawer/🪔_survivor_poetics_hebrew_register.md)
-    - [`🪖_classification_suppression_misuse.md`](Polaris_Nest/Git_Intake_Drawer/🪖_classification_suppression_misuse.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
