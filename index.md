@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:43:15 UTC_
+_Generated on 2026-01-01 08:43:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1875,6 +1875,7 @@ _Generated on 2026-01-01 08:43:15 UTC_
       - [`🛰️_valuation_of_the_muse_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_valuation_of_the_muse_2025-09-13.md)
       - [`🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md)
       - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
+      - [`🦤_expectations_remain.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🦤_expectations_remain.md)
       - [`🧠_hybrid_motive_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🧠_hybrid_motive_hypothesis_2025-09-20.md)
       - [`🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🧪_ghb_exposure_as_poorly_understood_mechanism_for_false_compliance_and_addiction_grooming.md)
       - [`🧾_codename_table_reconstruction.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🧾_codename_table_reconstruction.md)
@@ -2989,7 +2990,6 @@ _Generated on 2026-01-01 08:43:15 UTC_
     - [`🦒_everying_routes_so_strangley_these_days.md`](Disruption_Kit/Field_Logs/🦒_everying_routes_so_strangley_these_days.md)
     - [`🦤_addressing_the_male_pick_me.md`](Disruption_Kit/Field_Logs/🦤_addressing_the_male_pick_me.md)
     - [`🦤_dont_punish_reminders_of_your_mother.md`](Disruption_Kit/Field_Logs/🦤_dont_punish_reminders_of_your_mother.md)
-    - [`🦤_expectations_remain.md`](Disruption_Kit/Field_Logs/🦤_expectations_remain.md)
     - [`🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.PNG`](Disruption_Kit/Field_Logs/🧁_bro_i_was_looking_at_chai_creme_brulee_was_is_the_issue_there.PNG)
     - [`🧄_superinjunction_or_jailbreak_lets_play_1.PNG`](Disruption_Kit/Field_Logs/🧄_superinjunction_or_jailbreak_lets_play_1.PNG)
     - [`🧄_superinjunction_or_jailbreak_lets_play_2.PNG`](Disruption_Kit/Field_Logs/🧄_superinjunction_or_jailbreak_lets_play_2.PNG)
