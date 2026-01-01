@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 22:25:22 UTC_
+_Generated on 2026-01-01 22:29:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -962,6 +962,7 @@ _Generated on 2026-01-01 22:25:22 UTC_
           - [`🫤_why_elite_denials_dont_work_anymore.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🫤_why_elite_denials_dont_work_anymore.md)
           - [`🫧_the_bleurgh_principle.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🫧_the_bleurgh_principle.md)
         - [**💔_Against_The_Wall/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/💔_Against_The_Wall/)
+          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/💔_Against_The_Wall/README.md)
           - [`🫒_the_great_nudge_of_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/💔_Against_The_Wall/🫒_the_great_nudge_of_2025.md)
         - [**🥨_Bread_No_Roses/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/README.md)
