@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:49:09 UTC_
+_Generated on 2026-01-01 08:49:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1980,6 +1980,7 @@ _Generated on 2026-01-01 08:49:09 UTC_
       - [`🛰️_election_node_interference.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_election_node_interference.md)
       - [`🛰️_erasure_of_erasure.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_erasure_of_erasure.md)
       - [`🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_exchange_authentication_anomaly_pre_FOIA_deadline_PATTERN_RECUR_UPDATED.md)
+      - [`🛰️_feed_oscillation_spends.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_feed_oscillation_spends.md)
       - [`🛰️_field_log_node_generation_stalling_2025-10-06.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_field_log_node_generation_stalling_2025-10-06.md)
       - [`🛰️_foi_delay_pressure_sequence_2025-10-28.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_foi_delay_pressure_sequence_2025-10-28.md)
       - [`🛰️_isbn_sensitivity_holdings_2025-10-03.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_isbn_sensitivity_holdings_2025-10-03.md)
@@ -2912,7 +2913,6 @@ _Generated on 2026-01-01 08:49:09 UTC_
     - [`🛰_but_the_eldest_is_the_silent_protector.png`](Disruption_Kit/Field_Logs/🛰_but_the_eldest_is_the_silent_protector.png)
     - [`🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG`](Disruption_Kit/Field_Logs/🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG)
     - [`🛰️_bakwaas_but_okay_fine.PNG`](Disruption_Kit/Field_Logs/🛰️_bakwaas_but_okay_fine.PNG)
-    - [`🛰️_feed_oscillation_spends.md`](Disruption_Kit/Field_Logs/🛰️_feed_oscillation_spends.md)
     - [`🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md`](Disruption_Kit/Field_Logs/🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md)
     - [`🛰️_foi_sar_silence_reliance.md`](Disruption_Kit/Field_Logs/🛰️_foi_sar_silence_reliance.md)
     - [`🛰️_forensic_mapping_ghost_vs_trauma_report.md`](Disruption_Kit/Field_Logs/🛰️_forensic_mapping_ghost_vs_trauma_report.md)
