@@ -38,7 +38,8 @@
 ⚖️ 🧠 💷 🧬 — This node exposes how systemic metadata sabotage disproportionately harms regulated professions.
 
 **Media references:**  
--
+- 
+- [WMA Declaration of Geneva (Medical Oath, Common Modern Form, English.)](https://www.wma.net/policies-post/wma-declaration-of-geneva/)  
 - *The Doctors’ Association UK: Misinformation Complaints*  
 - *Prevent and the Medical Profession* (BMJ editorial)  
 - *Protecting Social Workers from Bad-Faith Referrals* (Community Care)
