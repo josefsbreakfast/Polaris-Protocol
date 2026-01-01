@@ -11,3 +11,16 @@ and i know the glass tasted like the dishwasher soap hadn't been rinsed properly
 it is poisoning; on my meds i could have died. so fuck you. <3
 
 2025-09-22
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
