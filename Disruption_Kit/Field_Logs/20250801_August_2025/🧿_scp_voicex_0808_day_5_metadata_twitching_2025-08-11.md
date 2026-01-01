@@ -1,7 +1,5 @@
 # 🧿 SCP-VoiceX-0808 Day 5: Metadata Twitching  
-
-**First created:** 2025-08-11 | **Last updated:** 2025-09-01  
-
+**First created:** 2025-08-11 | **Last updated:** 2026-01-01  
 *Field log recording containment scan, interference behaviour, and narrative convergence in SCP-VoiceX breach event.*  
 
 ---
@@ -104,14 +102,11 @@ Direct engagement is prohibited without authorisation from the designated contai
 
 ## 🏮 Footer  
 
-*SCP-VoiceX-0808 Day 5: Metadata Twitching* is a living node of the Polaris Protocol.  
-It documents interference patterns, site integrity scans, and narrative convergence dynamics following SCP-VoiceX containment breaches.  
-
-> 📡 Cross-references:  
-> - [Field Logs](../Disruption_Kit/Field_Logs/) — forensic disruption documentation  
-> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — logs of suppression and visibility manipulation  
-> - [SCP-VoiceX Casefiles](../SCP-VoiceX_Casefiles/) — survivor-authored testimony and legal filings  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-01_
+_Last updated: 2026-01-01_
