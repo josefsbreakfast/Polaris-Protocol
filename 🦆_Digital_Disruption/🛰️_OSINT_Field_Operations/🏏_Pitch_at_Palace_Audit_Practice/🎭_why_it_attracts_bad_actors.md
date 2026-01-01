@@ -108,11 +108,11 @@ It analyses how prestige-driven platforms generate structural incentives for opp
 
 > 📡 Cross-references:
 > 
-> - [🧭 Overview — Pitch @ Palace Structure] — structural summary  
-> - [⚖️ Regulatory and Risk Framework — Pitch @ Palace] — compliance context  
-> - [📜 FOI and SAR Exercise Pack] — transparency toolkit  
-> - [🌍 Deregulation as Diplomatic Infrastructure] — macro-level parallel  
-> - [☕️ Tea, Toast, Transparency & Impunity] — satire as civic hygiene  
+> - [🧭 Overview — Pitch @ Palace Structure](./🧭_overview_pitch_at_palace_structure.md) — *structural summary*  
+> - [⚖️ Regulatory and Risk Framework — Pitch @ Palace](./⚖️_regulatory_and_risk_framework.md) — *compliance context*  
+> - [📜 FOI + SAR Exercise Pack](./📜_foi_and_sar_exercise_pack.md) — *transparency toolkit*  
+> - [🌍 Deregulation as Diplomatic Infrastructure](./🌍_deregulation_as_diplomatic_infrastructure.md) — *macro-level parallel*  
+> - [☕️ Tea, Toast, & Transparency](./☕️_tea_toast_transparency.md) — *satire as civic hygiene*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
