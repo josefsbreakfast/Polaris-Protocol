@@ -1,6 +1,6 @@
 # 🪼 We choose to allow online stalking of women and children  
-**First created:** 2025-12-29 | **Last updated:** 2025-12-29  
-*On the deliberate tolerance of digitally legible harm.*
+**First created:** 2025-12-29 | **Last updated:** 2026-01-01  
+*On the deliberate tolerance of digitally legible harm.*  
 
 ---
 
@@ -90,4 +90,4 @@ It records a systemic decision point where detectable harm is normalised rather 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-01-01_
