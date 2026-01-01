@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 10:51:44 UTC_
+_Generated on 2026-01-01 10:52:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3089,6 +3089,7 @@ _Generated on 2026-01-01 10:51:44 UTC_
     - [`🧾_evidence_visibility_toolkit2.md`](Disruption_Kit/Survivor_Tools/🧾_evidence_visibility_toolkit2.md)
     - [`🧾_evidence_visibility_toolkit_3.md`](Disruption_Kit/Survivor_Tools/🧾_evidence_visibility_toolkit_3.md)
     - [`🪄_influencer_resilience.md`](Disruption_Kit/Survivor_Tools/🪄_influencer_resilience.md)
+    - [`🪔_survivor_poetics_hebrew_register.md`](Disruption_Kit/Survivor_Tools/🪔_survivor_poetics_hebrew_register.md)
     - [`🪪_codename_patronymics.md`](Disruption_Kit/Survivor_Tools/🪪_codename_patronymics.md)
     - [`🪷_name_reclamation_protocol.md`](Disruption_Kit/Survivor_Tools/🪷_name_reclamation_protocol.md)
     - [`🫥_presumption_as_erasure.md`](Disruption_Kit/Survivor_Tools/🫥_presumption_as_erasure.md)
@@ -4178,7 +4179,6 @@ _Generated on 2026-01-01 10:51:44 UTC_
     - [`🪆_why_authoritarianism_always_loses_its_camp.md`](Polaris_Nest/Git_Intake_Drawer/🪆_why_authoritarianism_always_loses_its_camp.md)
     - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
     - [`🪐_prosociality_as_nudge_surface.md`](Polaris_Nest/Git_Intake_Drawer/🪐_prosociality_as_nudge_surface.md)
-    - [`🪔_survivor_poetics_hebrew_register.md`](Polaris_Nest/Git_Intake_Drawer/🪔_survivor_poetics_hebrew_register.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
