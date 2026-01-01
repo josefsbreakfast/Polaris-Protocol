@@ -5,9 +5,9 @@ i wish you and your delight all the best ❤️
 
 OR  
 
-the aprtheid bros have finally decided to do the unthinkable, "may this will work?"  
+the aprtheid bros have finally decided to do the unthinkable, "maybe this will work?"  
 (+/- cuckhold guy is back on shift; who knows)  
-(yes, ravist men will sonetimes fetishise racialised breeder cuckholdry scenarios and some will pay for that pleasure; i suggest if this seems suprising, you may want to stick all the filters on your searches, because this is barely the tip of that iceburg, you sweet summer child, you.)  
+(yes, racist men will sonetimes fetishise racialised breeder cuckholdry scenarios and some will pay for that pleasure; i suggest if this seems suprising, you may want to stick all the filters on your searches, because this is barely the tip of that iceburg, you sweet summer child, you.)  
 
 OR  
 
@@ -48,4 +48,17 @@ it's something that an incredibly select group of people tend to pick up about u
 
 because it is such intimate knowledge, and such an intimate ritual act, it really did not feel so disimmilar to the time the remote function on an intimate item was hijacked.  
 
-that probably sounds very strange from an outsider's perspective; everyone has repeated things thst they do whoch help them live in this world, and the connection of the Shekinah and the Shabbat is an incredibly intimate part of Jewish life as a woman, and particularly as the head of house. (i mean, we are, though.)-->
+that probably sounds very strange from an outsider's perspective; everyone has repeated things thst they do which help them live in this world, and the connection of the Shekinah and the Shabbat is an incredibly intimate part of Jewish life as a woman, and particularly as the head of house. (i mean, we are, though.)-->
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
