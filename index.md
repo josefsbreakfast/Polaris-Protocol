@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 10:41:24 UTC_
+_Generated on 2026-01-01 10:42:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3611,6 +3611,7 @@ _Generated on 2026-01-01 10:41:24 UTC_
       - [`🧬_post_digital_data_world.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_post_digital_data_world.md)
       - [`🧮_focus_group_of_one.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧮_focus_group_of_one.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
+      - [`🧰_upstream_compromise_remote_middleware_checklist.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧰_upstream_compromise_remote_middleware_checklist.md)
       - [`🪞_why_twinning_agreements_break.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪞_why_twinning_agreements_break.md)
       - [`🪦_memetic_hauntology.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪦_memetic_hauntology.md)
     - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
@@ -4094,7 +4095,6 @@ _Generated on 2026-01-01 10:41:24 UTC_
     - [`🧰_governance_risk_behaviour_index.md`](Polaris_Nest/Git_Intake_Drawer/🧰_governance_risk_behaviour_index.md)
     - [`🧰_middleware_hijack_agentics.md`](Polaris_Nest/Git_Intake_Drawer/🧰_middleware_hijack_agentics.md)
     - [`🧰_safety_mode_shifts_llm_output_profiles.md`](Polaris_Nest/Git_Intake_Drawer/🧰_safety_mode_shifts_llm_output_profiles.md)
-    - [`🧰_upstream_compromise_checklist.md`](Polaris_Nest/Git_Intake_Drawer/🧰_upstream_compromise_checklist.md)
     - [`🧱_administrative_precursor_problem.md`](Polaris_Nest/Git_Intake_Drawer/🧱_administrative_precursor_problem.md)
     - [`🧱_cabinet_led_collective_executive_models_for_the_uk.md`](Polaris_Nest/Git_Intake_Drawer/🧱_cabinet_led_collective_executive_models_for_the_uk.md)
     - [`🧱_friction_fields_and_the_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🧱_friction_fields_and_the_dashboard.md)
