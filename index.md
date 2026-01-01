@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 09:12:41 UTC_
+_Generated on 2026-01-01 09:22:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3995,7 +3995,6 @@ _Generated on 2026-01-01 09:12:41 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`ZDC_README.md`](Polaris_Nest/Git_Intake_Drawer/ZDC_README.md)
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
-    - [`☕️_tea_and_impunity.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_and_impunity.md)
     - [`☕️_tea_toast_transparency.md`](Polaris_Nest/Git_Intake_Drawer/☕️_tea_toast_transparency.md)
     - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🇬🇧_how_brexit_killed_microexporters.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_how_brexit_killed_microexporters.md)
