@@ -220,11 +220,11 @@ It provides lawful, reproducible transparency exercises for examining prestige-l
 
 > 📡 Cross-references:
 > 
-> - [🧭 Overview — Pitch @ Palace Structure] — organisational summary  
-> - [⚖️ Regulatory and Risk Framework — Pitch @ Palace] — legal context  
-> - [🧩 Pattern Detection and Response Mapping] — visual analytics layer  
-> - [🌍 Deregulation as Diplomatic Infrastructure] — macro-governance frame  
-> - [🔍 How to Trace Event Data Flows] — technical decision tree  
+> - [🧭 Overview — Pitch @ Palace Structure](./🧭_overview_pitch_at_palace_structure.md) — *organisational summary*  
+> - [⚖️ Regulatory and Risk Framework — Pitch @ Palace](./⚖️_regulatory_and_risk_framework.md) — *legal context*  
+> - [🧩 Pattern Detection & Response Mapping](./🧩_pattern_detection_and_response_mapping.md) — *visual analytics layer*  
+> - [🌍 Deregulation as Diplomatic Infrastructure](./🌍_deregulation_as_diplomatic_infrastructure.md) — *macro-governance frame*  
+> - [🔍 How to Trace Event Data Flows](./🔍_how_to_trace_event_data_flows.md) — *technical decision tree*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
