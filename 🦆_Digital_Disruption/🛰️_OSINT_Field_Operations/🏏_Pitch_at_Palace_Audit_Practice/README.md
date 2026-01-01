@@ -1,6 +1,6 @@
-🏏 Pitch @ Palace Audit Practice  
-First created: 2025-11-02 | Last updated: 2026-01-01  
-OSINT field guide for auditing prestige-linked governance interfaces  
+# 🏏 Pitch @ Palace Audit Practice  
+**First created:** 2025-11-02 | **Last updated:** 2026-01-01  
+*OSINT field guide for auditing prestige-linked governance interfaces.*  
 
 ---
 
