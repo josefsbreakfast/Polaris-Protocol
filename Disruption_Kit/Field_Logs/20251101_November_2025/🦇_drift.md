@@ -17,3 +17,16 @@ this is all just part of my life, now, and i hate that.
 (do you know what i dont hate? ethical divestment from harm and reinvestment in local markets.)  
 
 2025-11-11
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
