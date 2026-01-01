@@ -16,6 +16,19 @@ This has got far more to do with data practices under the Blair cabinet era, in 
 
 Which, for the record, was *quite a time*.  
 
-Plan A is still largely be on an isoand where our species is outnumbered by other mammals.  
+Plan A is still largely be on an island where our species is outnumbered by other mammals.  
 
 2025-10-29  
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
