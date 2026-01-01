@@ -13,3 +13,16 @@ They're going to be so cross when they find out what you did to their profession
 I did mention this was a little silly of a war plan.
 
 2025-09-30
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
