@@ -1,6 +1,6 @@
 # 🧩 The Politic Is No Longer Heard  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-11  
-*On the vanishing feedback loop between public life and political hearing.*
+**First created:** 2025-11-11 | **Last updated:** 2026-01-01  
+*On the vanishing feedback loop between public life and political hearing.*  
 <!--Whoever nudged this? They can put their choice of givernment in power. I'm sure that won't go wrong.-->
 ---
 
@@ -43,13 +43,12 @@ representation, civic repair, feedback loops, democracy, local infrastructure, v
 ---
 
 ## 🏮 Footer  
-*The Politic Is No Longer Heard* is a living node of the Polaris Protocol.  
-It examines how democratic feedback has been replaced by algorithmic hearing, and why civic repair requires re-embodied dialogue.  
 
-> 📡 Cross-references:  
-> - [🧠 Big Picture Protocols / 🌀 Systems & Governance](../Big_Picture_Protocols/🌀_systems_&_governance/)  
-> - [🦆 Digital Disruption / 🪖 Home Front 2.0](../Digital_Disruption/🪖_home_front_2.0/)  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2026-01-01_
