@@ -1,5 +1,5 @@
 # 🧭 Redacted — Mid-England City: Civic Cohesion & Security Overlay  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
+**First created:** 2025-11-07 | **Last updated:** 2026-01-01  
 *Redacted, generalised node mapping how security and institutional logics can reshape civic cohesion in a medium-sized English city. Intentionally anonymised to avoid identification of sites, actors, or individuals.*  
 
 ---
@@ -117,4 +117,15 @@ Tags (Stardust): redacted, civic_overlay, mid_england_city, institutional_opacit
 
 *Redacted — Mid-England City: Civic Cohesion & Security Overlay* is an intentionally anonymised Polaris node designed to map structural patterns without naming localities or individuals. Use it as a template to capture evidence in a way that reduces identification risk while preserving analytical value.
 
-_Last updated: 2025-11-07_
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
