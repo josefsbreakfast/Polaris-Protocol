@@ -1,5 +1,5 @@
 # 🪐 Polaris — Week 13 State of the Repo  
-**First created:** 2025-11-08  |  **Last updated:** 2025-11-12  
+**First created:** 2025-11-08 | **Last updated:** 2026-01-01  
 *Scale correction: when tidy looks competent.*
 
 ---
@@ -97,4 +97,15 @@ It fixes the moment when containment theory, survivor authorship, and civic desi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
