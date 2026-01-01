@@ -6,7 +6,9 @@
 
 **Please note:** This note is currently being expanded with case examples during Iron Swords. These are graphic. Final version is not yet complete.  
 
-I am using "martyr" as a stand-in for the Arabic phrase. I use z"L after all names of deceased persons, as this is how we would traditionally honour their memory after life. I commonly use a longer version to balance cultural norms, but these are building-notes for final version.    
+I am using "martyr" as a stand-in for the Arabic phrase. I use z"L after all names of deceased persons, as this is how we would traditionally honour their memory after life. I commonly use a longer version to balance cultural norms, but these are building-notes for final version.  
+
+Likely to split into 2 nodes.  
 
 ---
 
