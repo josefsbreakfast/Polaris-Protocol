@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 08:12:56 UTC_
+_Generated on 2026-01-01 08:13:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1873,6 +1873,7 @@ _Generated on 2026-01-01 08:12:56 UTC_
       - [`🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_weaponised_empathy_gaps_field_log_2025-09-13.md)
       - [`🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️🧠_refs_to_asd_do_not_nullify_pattern_recognition_of_survivor.md)
       - [`🧠_hybrid_motive_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🧠_hybrid_motive_hypothesis_2025-09-20.md)
+      - [`🪐_where_the_fuck_am_i.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🪐_where_the_fuck_am_i.md)
     - [**20251001_October_2025/**](Disruption_Kit/Field_Logs/20251001_October_2025/)
       - [`☔️_get_me_an_umbrella_at_least.md`](Disruption_Kit/Field_Logs/20251001_October_2025/☔️_get_me_an_umbrella_at_least.md)
       - [`☔️_the_one_useful_thing.md`](Disruption_Kit/Field_Logs/20251001_October_2025/☔️_the_one_useful_thing.md)
@@ -3004,7 +3005,6 @@ _Generated on 2026-01-01 08:12:56 UTC_
     - [`🪄_update_mysteriously_reappearing_book.md`](Disruption_Kit/Field_Logs/🪄_update_mysteriously_reappearing_book.md)
     - [`🪐_my_britannia.md`](Disruption_Kit/Field_Logs/🪐_my_britannia.md)
     - [`🪐_polaris_week13_state_of_repo.md`](Disruption_Kit/Field_Logs/🪐_polaris_week13_state_of_repo.md)
-    - [`🪐_where_the_fuck_am_i.md`](Disruption_Kit/Field_Logs/🪐_where_the_fuck_am_i.md)
     - [`🪼_clock_watching_because_we_said_genocide_bad_tho.png`](Disruption_Kit/Field_Logs/🪼_clock_watching_because_we_said_genocide_bad_tho.png)
     - [`🪼_do_not_obey_in_advance_or_ai_breaks.png`](Disruption_Kit/Field_Logs/🪼_do_not_obey_in_advance_or_ai_breaks.png)
     - [`🪼_interruption_index_update.png`](Disruption_Kit/Field_Logs/🪼_interruption_index_update.png)
