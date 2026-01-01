@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 10:38:46 UTC_
+_Generated on 2026-01-01 10:40:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3845,6 +3845,7 @@ _Generated on 2026-01-01 10:38:46 UTC_
       - [`🪅_platform_safe_zones_and_shadowbans.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🪅_platform_safe_zones_and_shadowbans.md)
       - [`🪞_background_activity_fog.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🪞_background_activity_fog.md)
       - [`🪞_the_magnifying_glass_effect.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🪞_the_magnifying_glass_effect.md)
+      - [`🪼_we_choose_to_allow_online_stalking_of_women_and_children.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🪼_we_choose_to_allow_online_stalking_of_women_and_children.md)
     - [**🔮_Visibility_Indexing_Anomalies/**](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/)
       - [`README.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/README.md)
       - [`🌾_possibly_poetry_pipeline.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🌾_possibly_poetry_pipeline.md)
@@ -4179,7 +4180,6 @@ _Generated on 2026-01-01 10:38:46 UTC_
     - [`🪞_gendered_awkwardness.md`](Polaris_Nest/Git_Intake_Drawer/🪞_gendered_awkwardness.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
     - [`🪼_catfishing.md`](Polaris_Nest/Git_Intake_Drawer/🪼_catfishing.md)
-    - [`🪼_we_choose_to_allow_online_stalking_of_women_and_children.md`](Polaris_Nest/Git_Intake_Drawer/🪼_we_choose_to_allow_online_stalking_of_women_and_children.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
