@@ -1,6 +1,6 @@
 # 🪞 Gendered Awkwardness & Metadata Misinterpretation  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
-*How gendered expectations shape the way institutions read tone, behaviour, and communication — and why awkwardness in women and neurodivergent people is disproportionately flagged as risk.*
+**First created:** 2025-11-16 | **Last updated:** 2026-01-01  
+*How gendered expectations shape the way institutions read tone, behaviour, and communication — and why awkwardness in women and neurodivergent people is disproportionately flagged as risk.*  
 
 ---
 
@@ -227,9 +227,9 @@ gender bias, ND misinterpretation, tone policing, prevent, safeguarding bias, me
 ---
 
 ## 🏮 Footer  
-*Gendered Awkwardness & Metadata Misinterpretation* is a living node of the Polaris Protocol.  
+*🪞 Gendered Awkwardness & Metadata Misinterpretation* is a living node of the Polaris Protocol.  
 It maps how gender norms, neurotypical expectations, and structural bias distort tone interpretation — producing misclassification and institutional harm.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2026-01-01_
