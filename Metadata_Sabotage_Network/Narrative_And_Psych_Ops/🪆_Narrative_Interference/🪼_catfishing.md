@@ -1,6 +1,6 @@
 # 🪼 Catfishing  
-**First created:** 2025-12-27 | **Last updated:** 2025-12-27  
-*Deception by identity performance in digital space — not a crime by name, but rarely neutral.*
+**First created:** 2025-12-27 | **Last updated:** 2026-01-01  
+*Deception by identity performance in digital space — not a crime by name, but rarely neutral.*  
 
 ---
 
@@ -97,7 +97,7 @@ Result: under-charging, non-charging, or misclassification as “relationship is
 ---
 
 ## 🌌 Constellations  
-🎭 🧿 🧠 🛰️ ⚖️ — identity performance, deception, cognition, digital mediation, legal thresholds.
+🎭 🧿 🧠 🛰️ 🪼 ⚖️ — identity performance, deception, cognition, digital mediation, legal thresholds.
 
 ---
 
@@ -107,7 +107,7 @@ catfishing, identity deception, fraud by false representation, digital coercion,
 ---
 
 ## 🏮 Footer  
-*🎭 Catfishing* is a living node of the **Polaris Protocol**.  
+*🪼 Catfishing* is a living node of the **Polaris Protocol**.  
 It documents identity deception as a structural harm vector rather than a novelty internet behaviour.
 
 > 📡 Cross-references:
@@ -118,4 +118,4 @@ It documents identity deception as a structural harm vector rather than a novelt
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-27_
+_Last updated: 2026-01-01_
