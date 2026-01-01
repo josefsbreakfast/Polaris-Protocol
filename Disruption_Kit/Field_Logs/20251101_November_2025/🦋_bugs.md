@@ -36,3 +36,16 @@ We have entered the most non-ceasing-of-fire ceasefire possible, and we are sudd
 Absolutely fascinating.  
 
 Which reminds me. On the subject of fascinating things. I really need to chase that SAR with the labour party.
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
