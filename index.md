@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 10:43:24 UTC_
+_Generated on 2026-01-01 10:44:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3498,6 +3498,7 @@ _Generated on 2026-01-01 10:43:24 UTC_
       - [`🧲_why_defence_assets_are_misinformation_magnets.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧲_why_defence_assets_are_misinformation_magnets.md)
       - [`🧿_persistent_discrediting_force.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧿_persistent_discrediting_force.md)
       - [`🩰_escaping_the_frame.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🩰_escaping_the_frame.md)
+      - [`🪞_coercive_control_in_surveillance_systems.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪞_coercive_control_in_surveillance_systems.md)
       - [`🪞_transparent_interference.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪞_transparent_interference.md)
       - [`🪤_nuisance_building_micro_sabotage.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪤_nuisance_building_micro_sabotage.md)
       - [`🪤_suspicion_seeding.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🪤_suspicion_seeding.md)
@@ -4178,7 +4179,6 @@ _Generated on 2026-01-01 10:43:24 UTC_
     - [`🪖_respectfully_asking_the_mod_to_declassify_and_how_defensive_cabinet_fails_defence.md`](Polaris_Nest/Git_Intake_Drawer/🪖_respectfully_asking_the_mod_to_declassify_and_how_defensive_cabinet_fails_defence.md)
     - [`🪖_why_intelligence_agencies_dont_understand_joy.md`](Polaris_Nest/Git_Intake_Drawer/🪖_why_intelligence_agencies_dont_understand_joy.md)
     - [`🪝_if_you_do_not_have_a_hook_they_create_one.md`](Polaris_Nest/Git_Intake_Drawer/🪝_if_you_do_not_have_a_hook_they_create_one.md)
-    - [`🪞_coercive_control_in_surveillance_systems.md`](Polaris_Nest/Git_Intake_Drawer/🪞_coercive_control_in_surveillance_systems.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
