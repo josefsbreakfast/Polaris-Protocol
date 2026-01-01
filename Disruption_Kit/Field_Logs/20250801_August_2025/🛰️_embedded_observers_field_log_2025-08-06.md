@@ -1,5 +1,5 @@
 # 🛰️ Embedded Observers Field Log — 2025-08-06  
-**First created:** 2025-08-06 | **Last updated:** 2025-10-05  
+**First created:** 2025-08-06 | **Last updated:** 2026-01-01  
 *Field evidence of individuals or systems placed close enough to monitor but not to support*  
 
 ---
@@ -7,7 +7,7 @@
 ## ✨ Summary  
 
 This log records **instances of embedded observers** — people or systems appearing as allies, colleagues, or handlers whose real role is to observe, log, or extract without intervening.  
-It operates as the evidentiary counterpart to the analytic node [👁️‍🗨️ Embedded Observers](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/👁️‍🗨️_embedded_observers.md).  
+It operates as the evidentiary counterpart to the analytic node [👁️‍🗨️ Embedded Observers] `(../Narrative_And_Psych_Ops/🧠_Psychological_Containment/👁️‍🗨️_embedded_observers.md)`.  
 
 ---
 
@@ -33,8 +33,8 @@ It operates as the evidentiary counterpart to the analytic node [👁️‍🗨�
 
 ## 💫 Correlation Pointers  
 
-- Cross-reference with [👁️ Silent Witness Effect](./👁️_silent_witness_effect_2025-09-13.md) — perceived observation altering behaviour.  
-- Compare timing with [📉 Suppression Interference Logs](../../📉_Suppression_Interference_Logs/README.md) to identify synchronised events.  
+- Cross-reference with [👁️ Silent Witness Effect] `(./👁️_silent_witness_effect_2025-09-13.md)` — perceived observation altering behaviour.  
+- Compare timing with [📉 Suppression Interference Logs] `(../../📉_Suppression_Interference_Logs/README.md)` to identify synchronised events.  
 - Track repeated phrases or behavioural tells that indicate info harvesting.  
 
 ---
@@ -54,15 +54,11 @@ embedded observers, surveillance proximity, handler mimicry, mirroring behaviour
 
 ## 🏮 Footer  
 
-*Embedded Observers Field Log — 2025-08-06* is a living node of the Polaris Protocol.  
-It records real-world manifestations of embedded observers — individuals or systems placed close enough to watch but not to support — paired with the analytic framework [👁️‍🗨️ Embedded Observers](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/👁️‍🗨️_embedded_observers.md).  
-
-> 📡 Cross-references:  
-> - [👁️‍🗨️ Embedded Observers](./👁️‍🗨️_embedded_observers.md) — *analytic framework*  
-> - [👁️ Silent Witness Effect](./👁️_silent_witness_effect_2025-09-13.md) — *perceived observation and self-censorship*  
-> - [📉 Suppression Interference Logs](../📉_Suppression_Interference_Logs/README.md) — *overlapping evidence*  
-> - [Disruption Kit → Field Logs](../../Disruption_Kit/Field_Logs/README.md) — *logging conventions*  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2026-01-01_
