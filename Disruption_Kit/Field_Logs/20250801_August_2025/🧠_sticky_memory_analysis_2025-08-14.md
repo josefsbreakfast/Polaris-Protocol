@@ -1,7 +1,5 @@
 # 🧠 Memory Stickiness & Purge Pattern ([REDACTED INSTITUTION])  
-
-**First created:** 2025-08-14 | **Last updated:** 2025-09-01  
-
+**First created:** 2025-08-14 | **Last updated:** 2026-01-01  
 *Forensic reconstruction of institutional memory interference and selective purge bias.*  
 
 ---
@@ -96,14 +94,11 @@ The [REDACTED INSTITUTION] case aligns with purge patterns in other Polaris node
 
 ## 🏮 Footer  
 
-*Memory Stickiness & Purge Pattern ([REDACTED INSTITUTION])* is a living node of the Polaris Protocol.  
-It documents selective deletion, purge bias, and narrative weighting strategies designed to mask institutional culpability while undermining survivor testimony.  
-
-> 📡 Cross-references:  
-> - [Field Logs](../Disruption_Kit/Field_Logs/) — forensic records of purge and interference events  
-> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic diagnostics of inversion and redaction strategies  
-> - [SCP-VoiceX Casefiles](../SCP-VoiceX_Casefiles/) — survivor testimony and legal filings  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-01_
+_Last updated: 2026-01-01_
