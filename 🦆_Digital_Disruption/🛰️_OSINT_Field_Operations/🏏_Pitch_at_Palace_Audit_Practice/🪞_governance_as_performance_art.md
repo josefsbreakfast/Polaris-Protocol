@@ -138,11 +138,10 @@ It examines how modern oversight operates through ritual, spectacle, and managed
 
 > 📡 Cross-references:
 > 
-> - [🦚 The Peacock Principle] — ceremonial distraction mechanics  
-> - [👑 Pitch Palace Outpicture Paths] — event-level manifestation  
-> - [☕️ Tea, Toast, Transparency & Impunity] — humour as civic metabolism  
-> - [🧩 Accountability Failures and Public Trust] — inquiry fatigue dynamics  
-> - [🎭 Civic Stagecraft Reform Protocol] — proposed counter-model  
+> - [🦚 The Peacock Principle](./🦚_the_peacock_principle.md) — *ceremonial distraction mechanics*  
+> - [👑 Pitch Palace Outpicture Paths](./👑_pitch_palace_outpicture_paths.md) — *event-level manifestation*  
+> - [☕️ Tea, Toast, & Transparency](./☕️_tea_toast_transparency.md) — *humour as civic metabolism*  
+> - [🧩 Pattern Detection & Response Mapping](./🧩_pattern_detection_and_response_mapping.md) — *inquiry fatigue dynamics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
