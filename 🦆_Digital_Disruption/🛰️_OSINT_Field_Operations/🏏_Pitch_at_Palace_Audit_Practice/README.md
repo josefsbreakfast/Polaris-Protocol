@@ -315,11 +315,11 @@ It explains how to examine prestige-linked governance interfaces using lawful OS
 
 > 📡 Cross-references:  
 > 
-> - [🧭 Overview — Pitch @ Palace Structure] — structural map of the platform  
-> - [⚖️ Regulatory and Risk Framework — Pitch @ Palace] — compliance and AML context  
-> - [📜 FOI + SAR Exercise Pack] — operational access toolkit  
-> - [🔍 How to Trace Event Data Flows] — routing and decision logic  
-> - [🧩 Pattern Detection & Response Mapping] — behavioural analysis layer  
+> - [🧭 Overview — Pitch @ Palace Structure](./🧭_overview_pitch_at_palace_structure.md) — *structural map of the platform*  
+> - [⚖️ Regulatory and Risk Framework — Pitch @ Palace](./⚖️_regulatory_and_risk_framework.md) — *compliance and AML context*  
+> - [📜 FOI + SAR Exercise Pack](./📜_foi_and_sar_exercise_pack.md) — *operational access toolkit*  
+> - [🔍 How to Trace Event Data Flows](./🔍_how_to_trace_event_data_flows.md) — *routing and decision logic*  
+> - [🧩 Pattern Detection & Response Mapping](./🧩_pattern_detection_and_response_mapping.md) — *behavioural analysis layer*  
 
 Survivor authorship is sovereign. Containment is never neutral.
 
