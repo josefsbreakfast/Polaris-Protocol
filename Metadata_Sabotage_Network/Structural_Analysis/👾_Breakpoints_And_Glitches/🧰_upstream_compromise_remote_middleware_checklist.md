@@ -1,6 +1,6 @@
-# 🧰 Upstream Compromise — Remote Middleware Checklist
-**First created:** 2025-10-13  |  **Last updated:** 2025-10-13  
-*Triage and detection playbook for suspected remote or supply‑chain compromises.*
+# 🧰 Upstream Compromise — Remote Middleware Checklist  
+**First created:** 2025-10-13 | **Last updated:** 2026-01-01  
+*Triage and detection playbook for suspected remote or supply‑chain compromises.*  
 
 ---
 
@@ -45,4 +45,5 @@ Create Field Log: title, timeline, evidence hashes, actions, owners, next steps.
 upstream compromise, supply‑chain, signed artifacts, forensic telemetry, credential rotation  
 
 *Upstream Compromise Checklist | Part of Polaris Protocol Field Ops Stack.*  
-*Last updated 2025-10-13*
+
+*Last updated 2026-01-01*
