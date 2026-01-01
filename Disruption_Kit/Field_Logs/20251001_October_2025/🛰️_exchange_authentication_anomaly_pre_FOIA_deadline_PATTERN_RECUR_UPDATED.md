@@ -1,6 +1,6 @@
 # 🛰️ Exchange Authentication Anomaly — Pre-FOIA Deadline  
-**First created:** 2025-10-27 | **Last updated:** 2025-10-27  
-*Spike in Exchange-level sign-in failures two weeks before statutory FOIA/SAR deadlines.*
+**First created:** 2025-10-27 | **Last updated:** 2026-01-01  
+*Spike in Exchange-level sign-in failures two weeks before statutory FOIA/SAR deadlines.*  
 
 ---
 
@@ -90,14 +90,11 @@ azure ad, exchange online, authentication failure, university tenant, data contr
 
 ## 🏮 Footer  
 
-*Exchange Authentication Anomaly — Pre-FOIA Deadline* is a living **Field Log** of the Polaris Protocol.  
-It records time-sensitive identity-infrastructure anomalies intersecting with statutory information-rights timelines.  
-
-> 📡 Cross-references:  
-> - [🧿 Watch the Watchers](../Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/) — oversight of oversight  
-> - [⚖️ Legal & State Governance](../Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/) — accountability under UK GDPR and FOIA  
-> - [🛰️ Infrastructure Procurement](../Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/) — cloud contracts and processor roles  
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-27_
+_Last updated: 2026-01-01_
