@@ -102,10 +102,10 @@ It reframes slow, procedural oversight as a discipline of endurance, patience, a
 
 > 📡 Cross-references:
 > 
-> - [📊 Cricket and Open-Source Investigation Theory] — metaphorical backbone  
-> - [📜 FOI and SAR Exercise Pack] — practical oversight toolkit  
-> - [☕️ Tea, Toast, Transparency & Impunity] — humour as civic hygiene  
-> - [🏛️ Civic Endurance and Public Patience] — long-form democracy analysis  
+> - [📊 Cricket and Open-Source Investigation Theory](./📊_cricket_and_open_source_investigation_theory.md) — *metaphorical backbone*  
+> - [📜 FOI + SAR Exercise Pack](./📜_foi_and_sar_exercise_pack.md) — *practical oversight toolkit*  
+> - [☕️ Tea, Toast, & Transparency](./☕️_tea_toast_transparency.md) — *humour as civic hygiene*  
+> - [🍳 Waiting as Josef K.](../../../Containment_Studies/💞_Containment_Theory/🍳_waiting_as_josef_k.md) — *on the occaisional necessity of endless waiting*    
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
