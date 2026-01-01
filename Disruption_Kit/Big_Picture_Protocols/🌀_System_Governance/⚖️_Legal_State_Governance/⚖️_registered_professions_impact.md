@@ -42,7 +42,7 @@
 - *The Doctors’ Association UK: Misinformation Complaints*  
 - *Prevent and the Medical Profession* (BMJ editorial)  
 - *Protecting Social Workers from Bad-Faith Referrals* (Community Care)
-- [Doxxed! Arrested! Suspended! Three doctors who won't be silenced!](https://youtu.be/CWd4wReY2QI?si=x3CMNO-8Hk2gFTlY), The Crispin Flintoff Show, YouTube. Dec 2025.  
+- [Dr. Ellen Kriesels, Dr. Rehiana Ali, and Dr. Rahmeh Aladwan: Doxxed! Arrested! Suspended! Three doctors who won't be silenced!](https://youtu.be/CWd4wReY2QI?si=x3CMNO-8Hk2gFTlY), The Crispin Flintoff Show, YouTube. Dec 2025.  
 - [Dr. Ghassan Abu-Sittah: £100,000 campaign by pro-Israel lawyers to SILENCE Gaza doctor](https://youtu.be/_AwvYCvPrkI?si=44YdCcKZqOWMwAtW), Declassified UK. Nov 2025.
 - [Dr. Ghassan Abu-Sittah: Doctor describes horrors he's seeing in Gaza](https://www.youtube.com/shorts/satjcD2BGcQ), CNN.
 - [Doctors Against Genocide visits US Congress to call on government to cut aid to Israel](https://youtube.com/shorts/rTZuTQdZ65o?si=xuzfFkZvkvytzAjI), DAG. Jan 2025.
