@@ -148,10 +148,10 @@ It documents how information-access responses can be analysed as behavioural dat
 
 > 📡 Cross-references:
 > 
-> - [📜 FOI + SAR Exercise Pack] — source requests  
-> - [⚖️ Regulatory and Risk Framework — Pitch @ Palace] — interpretive risk taxonomy  
-> - [🌍 Deregulation as Diplomatic Infrastructure] — macro-pattern comparison  
-> - [📉 Erosion of Legitimacy Loops] — feedback effects on public trust  
+> - [📜 FOI + SAR Exercise Pack](./📜_foi_and_sar_exercise_pack.md) — *source requests*  
+> - [⚖️ Regulatory and Risk Framework — Pitch @ Palace](./⚖️_regulatory_and_risk_framework.md) — *interpretive risk taxonomy*  
+> - [🌍 Deregulation as Diplomatic Infrastructure](./🌍_deregulation_as_diplomatic_infrastructure.md) — *macro-pattern comparison*  
+> - [⭕️ Erosion of Legitimacy Loops](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⭕️_erosion_of_legitimacy_loops.md) — feedback effects on public trust*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
