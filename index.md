@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 10:46:36 UTC_
+_Generated on 2026-01-01 10:48:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -517,6 +517,7 @@ _Generated on 2026-01-01 10:46:36 UTC_
         - [`🧯_reputational_management_as_governance_signal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧯_reputational_management_as_governance_signal.md)
         - [`🩸_ideological_skinwalkers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🩸_ideological_skinwalkers.md)
         - [`🩸_operation_shande.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🩸_operation_shande.md)
+        - [`🪖_why_intelligence_agencies_dont_understand_joy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪖_why_intelligence_agencies_dont_understand_joy.md)
         - [`🪞_cross_context_verification_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_cross_context_verification_failure.md)
         - [`🪞_the_emperors_dashboard.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_the_emperors_dashboard.md)
         - [`🪞_the_i_got_got_moment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_the_i_got_got_moment.md)
@@ -4178,7 +4179,6 @@ _Generated on 2026-01-01 10:46:36 UTC_
     - [`🪖_how_politicians_legally_strangle_the_mod_in_real_lives_terms.md`](Polaris_Nest/Git_Intake_Drawer/🪖_how_politicians_legally_strangle_the_mod_in_real_lives_terms.md)
     - [`🪖_repairing_stolen_lives.md`](Polaris_Nest/Git_Intake_Drawer/🪖_repairing_stolen_lives.md)
     - [`🪖_respectfully_asking_the_mod_to_declassify_and_how_defensive_cabinet_fails_defence.md`](Polaris_Nest/Git_Intake_Drawer/🪖_respectfully_asking_the_mod_to_declassify_and_how_defensive_cabinet_fails_defence.md)
-    - [`🪖_why_intelligence_agencies_dont_understand_joy.md`](Polaris_Nest/Git_Intake_Drawer/🪖_why_intelligence_agencies_dont_understand_joy.md)
     - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
