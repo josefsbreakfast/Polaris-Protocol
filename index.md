@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-01 10:52:40 UTC_
+_Generated on 2026-01-01 10:53:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3012,6 +3012,7 @@ _Generated on 2026-01-01 10:52:40 UTC_
     - [`🧿_supervision_said_absolutely_bloody_not.PNG`](Disruption_Kit/Field_Logs/🧿_supervision_said_absolutely_bloody_not.PNG)
     - [`🧿_the_crew_are_being_very_sensitive_about_this_given_why_we_are_even_here.png`](Disruption_Kit/Field_Logs/🧿_the_crew_are_being_very_sensitive_about_this_given_why_we_are_even_here.png)
     - [`🩺_why_is_that_my_recommends_based_on_browsing_history_tho_i_am_not_the_testosterone_party.png`](Disruption_Kit/Field_Logs/🩺_why_is_that_my_recommends_based_on_browsing_history_tho_i_am_not_the_testosterone_party.png)
+    - [`🪪_research_contribution_log_nottingham_divestment_motion.md`](Disruption_Kit/Field_Logs/🪪_research_contribution_log_nottingham_divestment_motion.md)
     - [`🪼_clock_watching_because_we_said_genocide_bad_tho.png`](Disruption_Kit/Field_Logs/🪼_clock_watching_because_we_said_genocide_bad_tho.png)
     - [`🪼_do_not_obey_in_advance_or_ai_breaks.png`](Disruption_Kit/Field_Logs/🪼_do_not_obey_in_advance_or_ai_breaks.png)
     - [`🪼_interruption_index_update.png`](Disruption_Kit/Field_Logs/🪼_interruption_index_update.png)
@@ -4179,7 +4180,6 @@ _Generated on 2026-01-01 10:52:40 UTC_
     - [`🪆_why_authoritarianism_always_loses_its_camp.md`](Polaris_Nest/Git_Intake_Drawer/🪆_why_authoritarianism_always_loses_its_camp.md)
     - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
     - [`🪐_prosociality_as_nudge_surface.md`](Polaris_Nest/Git_Intake_Drawer/🪐_prosociality_as_nudge_surface.md)
-    - [`🪪_research_contribution_log_divestment_motion.md`](Polaris_Nest/Git_Intake_Drawer/🪪_research_contribution_log_divestment_motion.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
     - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
       - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
