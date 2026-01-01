@@ -111,10 +111,11 @@ It documents how ceremony and pageantry are deployed as governance substitutes, 
 
 > 📡 Cross-references:
 > 
-> - [☕️ Tea and Impunity] — *procedural satire and comfort rituals*  
-> - [🎭 Apology Theatre and Trust Repair] — *emotional performance mechanics*  
-> - [🪞 Governance as Performance Art] — *meta-analysis of spectacle governance*  
-> - [👑 Soft Power Accountability Gap] — *ceremonial legitimacy structures*  
+> - [☕️ Tea, Toast, & Transparency](./☕️_tea_toast_transparency.md) — *procedural satire and comfort rituals*  
+> - [🎭 Apology Theatre and Trust Repair](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_apology_theatre_and_trust_repair.md) — *emotional performance mechanics*  
+> - [🪞 Governance as Performance Art](./🪞_governance_as_performance_art.md) — *meta-analysis of spectacle governance*  
+> - [⚖️ Soft Power Without Soft Accountability](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_soft_power_without_soft_accountability.md) — *prestige systems analysis*  
+> - [👑 Soft Power Accountability Gap](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_soft_power_accountability_gap.md) — *royal dimension*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
