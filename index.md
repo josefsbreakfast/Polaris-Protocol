@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-02 11:23:05 UTC_
+_Generated on 2026-01-02 11:23:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1792,6 +1792,7 @@ _Generated on 2026-01-02 11:23:05 UTC_
       - [`🛰️_embedded_observers_field_log_2025-08-06.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_embedded_observers_field_log_2025-08-06.md)
       - [`🛰️_forensic_mapping_ghost_vs_trauma_report.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_forensic_mapping_ghost_vs_trauma_report.md)
       - [`🛰️_forensic_thread_analysis_icc_2025-08-07.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_forensic_thread_analysis_icc_2025-08-07.md)
+      - [`🛰️_ghost_session_compete_log_2025-08-27.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_ghost_session_compete_log_2025-08-27.md)
       - [`🛰️_purge_sequence_2025-08-11_to_2025-08-13.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)
       - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🧠_sticky_memory_analysis_2025-08-14.md)
       - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🧱_loft_packet_dump_theory_2025-08-06.md)
@@ -2961,7 +2962,6 @@ _Generated on 2026-01-02 11:23:05 UTC_
     - [`🛰_but_the_eldest_is_the_silent_protector.png`](Disruption_Kit/Field_Logs/🛰_but_the_eldest_is_the_silent_protector.png)
     - [`🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG`](Disruption_Kit/Field_Logs/🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG)
     - [`🛰️_bakwaas_but_okay_fine.PNG`](Disruption_Kit/Field_Logs/🛰️_bakwaas_but_okay_fine.PNG)
-    - [`🛰️_ghost_session_compete_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_ghost_session_compete_log_2025-08-27.md)
     - [`🛰️_gps_lags.md`](Disruption_Kit/Field_Logs/🛰️_gps_lags.md)
     - [`🛰️_handlers_at_the_table.md`](Disruption_Kit/Field_Logs/🛰️_handlers_at_the_table.md)
     - [`🛰️_i_thought_christians_shut_up_on_sundays.md`](Disruption_Kit/Field_Logs/🛰️_i_thought_christians_shut_up_on_sundays.md)
