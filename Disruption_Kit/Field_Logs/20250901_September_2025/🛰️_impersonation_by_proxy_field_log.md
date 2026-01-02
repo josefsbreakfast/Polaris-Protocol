@@ -93,4 +93,15 @@ Honestly difficult to tell at this point.-->
 
 *🛰️ Impersonation by Proxy* is a running field log of perceived narrative manipulation around a suppressed author and related rumours. It forms part of the wider **Metadata Sabotage Network** documentation.  
 
-_Last updated: 2025-09-30_
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
