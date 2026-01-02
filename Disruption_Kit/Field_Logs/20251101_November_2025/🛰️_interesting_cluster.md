@@ -49,3 +49,15 @@ It also seems to be easier for our esteemed colleagues on the other side of the 
 So far, the best that's been done on Lumo is just to take out parts of the instruction, so as if a command has been muted.  
 
 
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
