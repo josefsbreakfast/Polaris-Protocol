@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-02 11:29:51 UTC_
+_Generated on 2026-01-02 11:30:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1861,6 +1861,7 @@ _Generated on 2026-01-02 11:29:51 UTC_
       - [`🛰️_intimacy_gatekeeping_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_intimacy_gatekeeping_field_log_2025-09-26.md)
       - [`🛰️_isolation_scripting_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_isolation_scripting_field_log_2025-09-13.md)
       - [`🛰️_late_stage_signoff_map_triple_lock_continuation.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_late_stage_signoff_map_triple_lock_continuation.md)
+      - [`🛰️_linkedin_visibility_anomaly_log_2025-08-05.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_linkedin_visibility_anomaly_log_2025-08-05.md)
       - [`🛰️_loneliness_as_a_system_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_loneliness_as_a_system_field_log_2025-09-13.md)
       - [`🛰️_looped_waiting_rooms_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_looped_waiting_rooms_field_log_2025-09-13.md)
       - [`🛰️_mainstream_visibility_anomalies_2025-09-12.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_mainstream_visibility_anomalies_2025-09-12.md)
@@ -2970,7 +2971,6 @@ _Generated on 2026-01-02 11:29:51 UTC_
     - [`🛰_but_the_eldest_is_the_silent_protector.png`](Disruption_Kit/Field_Logs/🛰_but_the_eldest_is_the_silent_protector.png)
     - [`🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG`](Disruption_Kit/Field_Logs/🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG)
     - [`🛰️_bakwaas_but_okay_fine.PNG`](Disruption_Kit/Field_Logs/🛰️_bakwaas_but_okay_fine.PNG)
-    - [`🛰️_linkedin_visibility_anomaly_log_2025-08-05.md`](Disruption_Kit/Field_Logs/🛰️_linkedin_visibility_anomaly_log_2025-08-05.md)
     - [`🛰️_low_frequency_hum_diagnostic_log.md`](Disruption_Kit/Field_Logs/🛰️_low_frequency_hum_diagnostic_log.md)
     - [`🛰️_meta_joke_surveillence_gadgies.md.PNG`](Disruption_Kit/Field_Logs/🛰️_meta_joke_surveillence_gadgies.md.PNG)
     - [`🛰️_missing_new_number_texts.md`](Disruption_Kit/Field_Logs/🛰️_missing_new_number_texts.md)
