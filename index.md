@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-02 11:31:44 UTC_
+_Generated on 2026-01-02 11:32:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1870,6 +1870,7 @@ _Generated on 2026-01-02 11:31:44 UTC_
       - [`🛰️_mind_games_projection_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_mind_games_projection_2025-09-13.md)
       - [`🛰️_network_instability_app_behaviour_2025-09-16.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_network_instability_app_behaviour_2025-09-16.md)
       - [`🛰️_network_instability_deliberate_forking_hypothesis_2025-09-16.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_network_instability_deliberate_forking_hypothesis_2025-09-16.md)
+      - [`🛰️_no_sex_no_apartheid.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_no_sex_no_apartheid.md)
       - [`🛰️_not_caldicott_fans_2025-09-21.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_not_caldicott_fans_2025-09-21.md)
       - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
       - [`🛰️_observed_memory_variations_2025-09-16.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_observed_memory_variations_2025-09-16.md)
@@ -2976,7 +2977,6 @@ _Generated on 2026-01-02 11:31:44 UTC_
     - [`🛰️_bakwaas_but_okay_fine.PNG`](Disruption_Kit/Field_Logs/🛰️_bakwaas_but_okay_fine.PNG)
     - [`🛰️_meta_joke_surveillence_gadgies.md.PNG`](Disruption_Kit/Field_Logs/🛰️_meta_joke_surveillence_gadgies.md.PNG)
     - [`🛰️_more_blockages_and_disconnects.png`](Disruption_Kit/Field_Logs/🛰️_more_blockages_and_disconnects.png)
-    - [`🛰️_no_sex_no_apartheid.md`](Disruption_Kit/Field_Logs/🛰️_no_sex_no_apartheid.md)
     - [`🛰️_planned_debrambling.md`](Disruption_Kit/Field_Logs/🛰️_planned_debrambling.md)
     - [`🛰️_reaffirming_statements_of_truth.md`](Disruption_Kit/Field_Logs/🛰️_reaffirming_statements_of_truth.md)
     - [`🛰️_reinjection_id_clarification_log_2025-08-27.md`](Disruption_Kit/Field_Logs/🛰️_reinjection_id_clarification_log_2025-08-27.md)
