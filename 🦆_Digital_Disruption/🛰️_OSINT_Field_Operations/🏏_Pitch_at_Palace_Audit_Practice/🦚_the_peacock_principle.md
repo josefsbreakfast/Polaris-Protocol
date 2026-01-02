@@ -1,5 +1,5 @@
 # 🦚 The Peacock Principle  
-**First created:** 2025-11-03 | **Last updated:** 2026-01-01  
+**First created:** 2025-11-03 | **Last updated:** 2026-01-02  
 *How ceremony, spectacle, and pageantry are used to distract from institutional failure.*  
 
 ---
@@ -111,7 +111,7 @@ It documents how ceremony and pageantry are deployed as governance substitutes, 
 
 > 📡 Cross-references:
 > 
-> - [☕️ Tea, Toast, & Transparency](./☕️_tea_toast_transparency.md) — *procedural satire and comfort rituals*  
+> - [☕️ Tea, Toast, & Transparency](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☕️_tea_toast_and_transparency.md) — *procedural satire and comfort rituals*  
 > - [🎭 Apology Theatre and Trust Repair](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎭_apology_theatre_and_trust_repair.md) — *emotional performance mechanics*  
 > - [🪞 Governance as Performance Art](./🪞_governance_as_performance_art.md) — *meta-analysis of spectacle governance*  
 > - [⚖️ Soft Power Without Soft Accountability](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_soft_power_without_soft_accountability.md) — *prestige systems analysis*  
@@ -119,4 +119,4 @@ It documents how ceremony and pageantry are deployed as governance substitutes, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-01-02_
