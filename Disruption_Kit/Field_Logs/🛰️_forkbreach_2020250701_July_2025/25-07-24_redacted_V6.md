@@ -80,7 +80,7 @@ If the EIP pathway is misapplied to someone without psychosis, the NHS cost is s
 
 📊 *One misallocated EIP placement = 20 people treated in therapy, or a quarter of a crisis café’s annual operating budget, or 200 physical health checks denied to at-risk patients.*  
 
-![Opportunity Cost Chart](./opportunity_cost_chart.png)
+![Opportunity Cost Chart] (./opportunity_cost_chart.png)
 
 ---
 
@@ -136,9 +136,20 @@ If a safeguarding flag was raised **maliciously** or **without appropriate groun
 It records survivor testimony around confirmed live fork interference and situates it within wider patterns of coercion and response.  
 
 > 📡 Cross-references:  
-> - [Field Logs](../Field_Logs/) — dated forensic documentation and evidence files  
-> - [SCP-VoiceX Casefiles](../SCP-VoiceX_Casefiles/) — personal testimony and legal filings  
+> - [Field Logs] (../Field_Logs/) — dated forensic documentation and evidence files  
+> - [SCP-VoiceX Casefiles] (../SCP-VoiceX_Casefiles/) — personal testimony and legal filings  
 
 *Survivor authorship is sovereign. Containment is never neutral.* 
 
-_Last updated: 2025-09-01_
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
