@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-02 11:20:58 UTC_
+_Generated on 2026-01-02 11:21:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2004,6 +2004,7 @@ _Generated on 2026-01-02 11:20:58 UTC_
       - [`🛰️_field_log_node_generation_stalling_2025-10-06.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_field_log_node_generation_stalling_2025-10-06.md)
       - [`🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_file_failure_frankenstack_history_socratic_motivational_interviewing.md)
       - [`🛰️_foi_delay_pressure_sequence_2025-10-28.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_foi_delay_pressure_sequence_2025-10-28.md)
+      - [`🛰️_forked_md_files_found.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_forked_md_files_found.md)
       - [`🛰️_isbn_sensitivity_holdings_2025-10-03.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_isbn_sensitivity_holdings_2025-10-03.md)
       - [`🛰️_lagging_around_preemptive_counterterror_papers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_lagging_around_preemptive_counterterror_papers.md)
       - [`🛰️_metadata_ghost_skeletal_nodes_upload_full_2025-10-03.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🛰️_metadata_ghost_skeletal_nodes_upload_full_2025-10-03.md)
@@ -2957,7 +2958,6 @@ _Generated on 2026-01-02 11:20:58 UTC_
     - [`🛰_but_the_eldest_is_the_silent_protector.png`](Disruption_Kit/Field_Logs/🛰_but_the_eldest_is_the_silent_protector.png)
     - [`🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG`](Disruption_Kit/Field_Logs/🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG)
     - [`🛰️_bakwaas_but_okay_fine.PNG`](Disruption_Kit/Field_Logs/🛰️_bakwaas_but_okay_fine.PNG)
-    - [`🛰️_forked_md_files_found.md`](Disruption_Kit/Field_Logs/🛰️_forked_md_files_found.md)
     - [`🛰️_forking_on_poetic_rhythm_search.md`](Disruption_Kit/Field_Logs/🛰️_forking_on_poetic_rhythm_search.md)
     - [`🛰️_found_source_orgone.md`](Disruption_Kit/Field_Logs/🛰️_found_source_orgone.md)
     - [`🛰️_genitals_again_surveillance_fails.md`](Disruption_Kit/Field_Logs/🛰️_genitals_again_surveillance_fails.md)
