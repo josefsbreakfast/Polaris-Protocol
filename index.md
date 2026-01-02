@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-02 11:24:56 UTC_
+_Generated on 2026-01-02 11:26:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1794,6 +1794,7 @@ _Generated on 2026-01-02 11:24:56 UTC_
       - [`🛰️_forensic_thread_analysis_icc_2025-08-07.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_forensic_thread_analysis_icc_2025-08-07.md)
       - [`🛰️_ghost_session_compete_log_2025-08-27.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_ghost_session_compete_log_2025-08-27.md)
       - [`🛰️_handlers_at_the_table.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_handlers_at_the_table.md)
+      - [`🛰️_icc_tag_thread_containment.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_icc_tag_thread_containment.md)
       - [`🛰️_purge_sequence_2025-08-11_to_2025-08-13.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)
       - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🧠_sticky_memory_analysis_2025-08-14.md)
       - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🧱_loft_packet_dump_theory_2025-08-06.md)
@@ -2965,7 +2966,6 @@ _Generated on 2026-01-02 11:24:56 UTC_
     - [`🛰_but_the_eldest_is_the_silent_protector.png`](Disruption_Kit/Field_Logs/🛰_but_the_eldest_is_the_silent_protector.png)
     - [`🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG`](Disruption_Kit/Field_Logs/🛰️_SHIT_DELETE_THE_EVIDENCE_STEVE.PNG)
     - [`🛰️_bakwaas_but_okay_fine.PNG`](Disruption_Kit/Field_Logs/🛰️_bakwaas_but_okay_fine.PNG)
-    - [`🛰️_icc_tag_thread_containment.md`](Disruption_Kit/Field_Logs/🛰️_icc_tag_thread_containment.md)
     - [`🛰️_impersonation_by_proxy_field_log.md`](Disruption_Kit/Field_Logs/🛰️_impersonation_by_proxy_field_log.md)
     - [`🛰️_intentionality_assessment_data_twinning_cluster_2016.md`](Disruption_Kit/Field_Logs/🛰️_intentionality_assessment_data_twinning_cluster_2016.md)
     - [`🛰️_interesting_cluster.md`](Disruption_Kit/Field_Logs/🛰️_interesting_cluster.md)
