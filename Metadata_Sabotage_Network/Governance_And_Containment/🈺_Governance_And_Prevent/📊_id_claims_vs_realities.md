@@ -1,5 +1,5 @@
 # 📊 ID Claims vs. Realities  
-**First created:** 2025-09-26 | **Last updated:** 2025-11-20  
+**First created:** 2025-09-26 | **Last updated:** 2026-01-02  
 *Comparative analysis of government justifications for ID schemes versus operational realities and underlying drivers.*
 
 ---
@@ -242,6 +242,7 @@ that the opposite of control is not chaos, but trust.
 - **Computer Weekly** — [Government IT and the Mirage of Simplification](https://www.computerweekly.com/news/366623403/Will-the-government-be-able-to-achieve-its-45bn-savings-target-through-tech).  
 - **Privacy International (2024)** — *Digital Identity Myths and Public Harm.*  
 - **openDemocracy (2024)** — *How “Modernisation” Became an Excuse for Surveillance Expansion.*
+- [Britain's Digital ID: I Followed The Money](https://youtu.be/Z8wJs-_3BGU?si=ozwAQlC1ju1HL9qo), Fine Print. Youtube.  
 
 ---
 
@@ -266,4 +267,4 @@ and situates those claims within a wider pattern of political theatre, vendor de
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-20_
+_Last updated: 2026-01-02_
