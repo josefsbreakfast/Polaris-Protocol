@@ -44,9 +44,19 @@ This log outlines who may still be signing off at this stage, and the associated
 It captures how continued suppression is sustained through a split sign-off chain, highlighting fracture points and liability escalation.  
 
 > 📡 Cross-references:  
-> - [🧨 Triple Lock Suppression Hypothesis](../Suppression_Modes/🧨_triple_lock_suppression_hypothesis.md)  
-> - [🛰️ Forensic Thread Analysis (ICC 2025-08-07)](../Field_Logs/🛰️_forensic_thread_analysis_icc_2025-08-07.md)  
+> - [🧨 Triple Lock Suppression Hypothesis] (../Suppression_Modes/🧨_triple_lock_suppression_hypothesis.md)  
+> - [🛰️ Forensic Thread Analysis (ICC 2025-08-07)] (../Field_Logs/🛰️_forensic_thread_analysis_icc_2025-08-07.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-07_
+_Last updated: 2026-01-01_
