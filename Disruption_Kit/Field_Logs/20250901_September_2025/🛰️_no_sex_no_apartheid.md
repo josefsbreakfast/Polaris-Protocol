@@ -37,9 +37,20 @@ TBC - gpt didnt even want to describe this as an observation - vvv cagey
 It records a dated survivor observation for forensic continuity.  
 
 > 📡 Cross-references:  
-> - [Field Logs](../Field_Logs/) — dated survivor documentation  
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — systemic analysis and typologies  
+> - [Field Logs] (../Field_Logs/) — dated survivor documentation  
+> - [Big Picture Protocols] (../Big_Picture_Protocols/) — systemic analysis and typologies  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-26_  
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-02_
