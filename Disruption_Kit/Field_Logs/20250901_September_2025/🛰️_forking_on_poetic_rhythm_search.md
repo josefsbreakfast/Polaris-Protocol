@@ -39,11 +39,15 @@ Notably, the same corporate ecosystem (YouTube) contains multiple creator videos
 *Forking on Poetic Rhythm Search* is a living node of the Polaris Protocol.  
 It documents algorithmic denial of cultural continuity between Elizabethan verse and modern rap, framing it as an instance of search-based containment.  
 
-> 📡 Cross-references:  
-> - [Field Logs](../Disruption_Kit/Field_Logs/) — other anomaly captures  
-> - [🧨_comment_order_is_a_governance_layer.md](../Disruption_Kit/Containment_Scripts/🧨_comment_order_is_a_governance_layer.md) — suppression via presentation order  
-> - [📚_print_culture_as_precedent.md](../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_print_culture_as_precedent.md) — historical parallels in knowledge control  
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-15_
+_Last updated: 2026-01-01_
