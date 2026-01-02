@@ -1,5 +1,5 @@
 # 🪞 Governance as Performance Art  
-**First created:** 2025-11-03 | **Last updated:** 2026-01-01  
+**First created:** 2025-11-03 | **Last updated:** 2026-01-02  
 *Ceremonial transparency, accountability theatre, and the aesthetics of oversight.*  
 
 ---
@@ -140,9 +140,9 @@ It examines how modern oversight operates through ritual, spectacle, and managed
 > 
 > - [🦚 The Peacock Principle](./🦚_the_peacock_principle.md) — *ceremonial distraction mechanics*  
 > - [👑 Pitch Palace Outpicture Paths](./👑_pitch_palace_outpicture_paths.md) — *event-level manifestation*  
-> - [☕️ Tea, Toast, & Transparency](./☕️_tea_toast_transparency.md) — *humour as civic metabolism*  
+> - [☕️ Tea, Toast, & Transparency](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☕️_tea_toast_and_transparency.md) — *humour as civic metabolism*  
 > - [🧩 Pattern Detection & Response Mapping](./🧩_pattern_detection_and_response_mapping.md) — *inquiry fatigue dynamics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-01-02_
