@@ -1,10 +1,10 @@
 # 🔮 UK Digital ID Risk Forecast  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-30  
+**First created:** 2025-09-26 | **Last updated:** 2026-01-02  
 *Projected risks if the UK government revives a digital ID scheme, drawing on 2000s precedent and global trend data.*  
 
 ---
 
-## 🧟 1. Zombie Data by Design  
+## 🧟 Zombie Data by Design  
 
 Vendor test sets, temporary enrolment records, and inter-agency copies persist regardless of “destruction” orders.  
 Even after repeal, digital residues remain — cached in backups, analytics mirrors, and contractor sandboxes.  
@@ -12,7 +12,7 @@ Data is never truly deleted; it just becomes **untraceable accountability debt**
 
 ---
 
-## 👥 2. Twin Profiles & Shadow Records  
+## 👥 Twin Profiles & Shadow Records  
 
 Biometric mismatches generate duplicate identities.  
 In the UK’s fragmented databases, correction is slow, expensive, and reputation-damaging.  
@@ -21,7 +21,7 @@ What begins as a technical glitch becomes **civil existence drift**.
 
 ---
 
-## 🛂 3. Migration “Solution” Myth  
+## 🛂 Migration “Solution” Myth  
 
 - No credible evidence that ID systems reduce irregular migration.  
 - Risk of exclusion for lawful residents via database error or false mismatch.  
@@ -31,7 +31,7 @@ What begins as a technical glitch becomes **civil existence drift**.
 
 ---
 
-## 🏗️ 4. Structural Insecurity  
+## 🏗️ Structural Insecurity  
 
 The UK government IT estate is built on **legacy creep** and patchwork oversight.  
 Adding a centralised identity layer introduces a **single point of failure** —  
@@ -39,7 +39,7 @@ a national honeypot for misuse, breach, and ransomware leverage.
 
 ---
 
-## 💼 5. Industry Capture  
+## 💼 Industry Capture  
 
 Big consultancies profit from both delivery and remediation.  
 The state absorbs political fallout; citizens carry data risk.  
@@ -48,7 +48,7 @@ recursion through dependency.
 
 ---
 
-## 🛠️ 6. False Simplification — The Work-Check Problem  
+## 🛠️ False Simplification — The Work-Check Problem  
 
 - **Current system:** Employers already use Home Office–approved software to scan passports, visas, and biometric residence permits (BRPs).  
 - **Claimed benefit:** ID cards would “simplify” checks via one document.  
@@ -57,7 +57,7 @@ recursion through dependency.
 
 ---
 
-## ❌ 7. The “Nothing to Hide” Fallacy  
+## ❌ The “Nothing to Hide” Fallacy  
 
 - **Claim:** “If you’re not doing anything wrong, you shouldn’t worry.”  
 - **Reality:** ID systems expose *marginalised groups* to *greater harm*:  
@@ -70,7 +70,7 @@ recursion through dependency.
 
 ---
 
-## 📊 8. Claimed Benefits vs. Reality vs. Real Drivers  
+## 📊 Claimed Benefits vs. Reality vs. Real Drivers  
 
 | **Government Claim** | **Reality in Practice** | **Likely Real Driver** |
 |-----------------------|-------------------------|-------------------------|
@@ -95,6 +95,9 @@ recursion through dependency.
 
 🔮 💼 ❌ 🏛️ — This node sits in the *governance-risk* and *containment-architecture* constellations, mapping how technical ambition and political fear merge into cyclical identity revival.  
 
+*Further reading / viewing:*  
+- [Britain's Digital ID: I Followed The Money](https://youtu.be/Z8wJs-_3BGU?si=ozwAQlC1ju1HL9qo), Fine Print. Youtube.  
+
 ---
 
 ## ✨ Stardust  
@@ -118,4 +121,4 @@ It projects the next wave of UK digital-identity risks by analysing prior system
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-30_
+_Last updated: 2026-01-02_
