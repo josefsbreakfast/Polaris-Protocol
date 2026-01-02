@@ -1,5 +1,5 @@
 # 📊 Cricket and Open-Source Investigation Theory  
-**First created:** 2025-11-02 | **Last updated:** 2026-01-01  
+**First created:** 2025-11-02 | **Last updated:** 2026-01-02  
 *How patience, pattern recognition, and scorekeeping turn oversight into a participatory civic sport.*  
 
 ---
@@ -126,9 +126,9 @@ It reframes democratic oversight as a participatory, data-literate practice grou
 > - [🧭 Overview — Pitch @ Palace Structure](./🧭_overview_pitch_at_palace_structure.md) — *defines the field of play*  
 > - [📜 FOI + SAR Exercise Pack](./📜_foi_and_sar_exercise_pack.md) — *tools for the innings*  
 > - [🧩 Pattern Detection & Response Mapping](./🧩_pattern_detection_and_response_mapping.md) — *analytics engine*  
-> - [☕️ Tea, Toast, & Transparency](./☕️_tea_toast_transparency.md) — *post-match commentary culture*  
+> - [☕️ Tea, Toast, & Transparency](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☕️_tea_toast_and_transparency.md) — *satire as civic hygiene*  
 > - [🌍 Deregulation as Diplomatic Infrastructure](./🌍_deregulation_as_diplomatic_infrastructure.md) — *international test-series context*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-01-021_
