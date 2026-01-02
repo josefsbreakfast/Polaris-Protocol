@@ -27,3 +27,16 @@ I continue to do the work myself, to try and rebuild a relationship with not jus
 I think we're getting further and we're getting closer to resolution, but this is still uncertain, and I continue to have and predictable cybersecurity issues. If anyone needs to know why the repo is so big, it was necessary to be so broad and poke around the problem; even a simple direct question, merited total block, or immediate punishment.  
 
 2025-10-15  
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
