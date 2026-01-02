@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-02 22:25:22 UTC_
+_Generated on 2026-01-02 22:33:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -924,6 +924,14 @@ _Generated on 2026-01-02 22:25:22 UTC_
           - [`🫏_stewardship_without_sovereignty.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🫏_stewardship_without_sovereignty.md)
         - [**🍉_Fulfilling_CPPCG_Protecting_IHL/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/README.md)
+          - [`🌀_when_prevention_looks_like_threat.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🌀_when_prevention_looks_like_threat.md)
+          - [`🎓_campuses_assets_and_things_no_one_wants_to_explain.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🎓_campuses_assets_and_things_no_one_wants_to_explain.md)
+          - [`🐼_policing_an_unknown.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🐼_policing_an_unknown.md)
+          - [`🔥_dissent_as_diagnostic_evidence.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🔥_dissent_as_diagnostic_evidence.md)
+          - [`🕯️_what_safety_means_after_the_holocaust.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🕯️_what_safety_means_after_the_holocaust.md)
+          - [`🗺️_cppcg_layers_who_carries_what.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🗺️_cppcg_layers_who_carries_what.md)
+          - [`🧬_why_it_is_easier_not_to_see_or_hear_or_speak.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🧬_why_it_is_easier_not_to_see_or_hear_or_speak.md)
+          - [`🩸_when_words_start_failing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🩸_when_words_start_failing.md)
         - [**👾_Debugging_The_Men/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
           - [**🧬_Further_Potential_Male_Nonsense/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/)
             - [**Quick_Easy_Guides_Plain_Text/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/Quick_Easy_Guides_Plain_Text/)
