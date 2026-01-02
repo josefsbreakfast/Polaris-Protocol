@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-02 08:11:36 UTC_
+_Generated on 2026-01-02 08:12:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4479,7 +4479,6 @@ _Generated on 2026-01-02 08:11:36 UTC_
       - [`🐝_audit_stinger.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/🐝_audit_stinger.md)
     - [**🏏_Pitch_at_Palace_Audit_Practice/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/README.md)
-      - [`☕️_tea_toast_transparency.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/☕️_tea_toast_transparency.md)
       - [`⚖️_regulatory_and_risk_framework.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/⚖️_regulatory_and_risk_framework.md)
       - [`🌍_deregulation_as_diplomatic_infrastructure.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🌍_deregulation_as_diplomatic_infrastructure.md)
       - [`🎭_why_it_attracts_bad_actors.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🎭_why_it_attracts_bad_actors.md)
