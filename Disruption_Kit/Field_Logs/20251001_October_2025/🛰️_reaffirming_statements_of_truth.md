@@ -83,4 +83,16 @@ statements of truth, witness protection, harassment log, circular reasoning, coe
 ## 🏮 Footer  
 *🧾 Field Log — Reaffirmation of Statements of Truth* is a live record within the **Polaris Protocol**.  
 It documents observed disinformation loops and reaffirms professional standards of accuracy, privacy, and lawful conduct.  
-**Last updated:** 2025-10-21
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-02_
