@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-02 08:05:29 UTC_
+_Generated on 2026-01-02 08:11:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -263,6 +263,7 @@ _Generated on 2026-01-02 08:05:29 UTC_
         - [`☔️_compressed_privacy_and_freedom_of_thought.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☔️_compressed_privacy_and_freedom_of_thought.md)
         - [`☔️_digital_quicksand_101.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☔️_digital_quicksand_101.md)
         - [`☕_administrative_necromancy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☕_administrative_necromancy.md)
+        - [`☕️_tea_toast_and_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☕️_tea_toast_and_transparency.md)
         - [`☢️_the_empathy_project.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☢️_the_empathy_project.md)
         - [`⚓_sea_org_as_containment_prototype.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚓_sea_org_as_containment_prototype.md)
         - [`⚔️_culture_war_risk_logic_in_uk_public_institutions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚔️_culture_war_risk_logic_in_uk_public_institutions.md)
@@ -436,7 +437,6 @@ _Generated on 2026-01-02 08:05:29 UTC_
         - [`🪞_the_muu_class.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_the_muu_class.md)
         - [`🪢_hygienic_cut.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪢_hygienic_cut.md)
         - [`🪦_the_protagonist_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪦_the_protagonist_problem.md)
-        - [`🪶_tea_toast_and_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪶_tea_toast_and_transparency.md)
         - [`🪼_beyond_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪼_beyond_containment.md)
         - [`🫀_pixels_do_not_touch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫀_pixels_do_not_touch.md)
         - [`🫒_occupation_as_containment_regime.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫒_occupation_as_containment_regime.md)
