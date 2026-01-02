@@ -248,7 +248,11 @@ This folder exists to pause that drift — to re-establish what international la
 It contributes to the archive by situating democratic dissent, institutional behaviour, and state action within layered genocide-prevention obligations under international law.
 
 > 📡 Cross-references:
-> 
+>
+> [🩸 Genocide Denialism](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/README.md) – *on rewriting and erasure*
+> [🌒 Waiting Is Not a Rescue](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌒_waiting_is_not_a_rescue.md) – *core principle*  
+> [🔥 Controlled Fury in Analysis](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🔥_controlled_fury_in_analysis.md) – *this is the time, and the place*
+> [🕊️ War Or Peace](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md) – *OSINT investigation as to current formal and informal UK posture*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
