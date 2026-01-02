@@ -64,9 +64,9 @@ This node evaluates whether the cluster was **intentional** (deliberate manufact
 ---
 
 ## 📡 Cross-References  
-- [🛰️ Data-Twinning 2016 — Observation Node](../Field_Logs/🛰️_data_twinning_2016_observation.md)  
-- [🛡️ Exploitability & Defensive Strategy](../Big_Picture_Protocols/🛡️_exploitability_and_defensive_strategy.md)  
-- [⚖️ Public Inquiry Business Case](../Big_Picture_Protocols/⚖️_public_inquiry_business_case.md)  
+- [🛰️ Data-Twinning 2016 — Observation Node] (../Field_Logs/🛰️_data_twinning_2016_observation.md)  
+- [🛡️ Exploitability & Defensive Strategy] (../Big_Picture_Protocols/🛡️_exploitability_and_defensive_strategy.md)  
+- [⚖️ Public Inquiry Business Case] (../Big_Picture_Protocols/⚖️_public_inquiry_business_case.md)  
 
 ---
 
@@ -76,4 +76,15 @@ It documents both sides of the intentionality question, provides a scoring rubri
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
