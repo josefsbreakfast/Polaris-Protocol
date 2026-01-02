@@ -1,5 +1,5 @@
 # 🎭 Why It Attracts Bad Actors — Reputation Laundering in Prestige Networks  
-**First created:** 2025-11-02 | **Last updated:** 2026-01-01  
+**First created:** 2025-11-02 | **Last updated:** 2026-01-02  
 *How prestige-driven platforms become reputational amplifiers for opportunistic actors.*  
 
 ---
@@ -112,8 +112,8 @@ It analyses how prestige-driven platforms generate structural incentives for opp
 > - [⚖️ Regulatory and Risk Framework — Pitch @ Palace](./⚖️_regulatory_and_risk_framework.md) — *compliance context*  
 > - [📜 FOI + SAR Exercise Pack](./📜_foi_and_sar_exercise_pack.md) — *transparency toolkit*  
 > - [🌍 Deregulation as Diplomatic Infrastructure](./🌍_deregulation_as_diplomatic_infrastructure.md) — *macro-level parallel*  
-> - [☕️ Tea, Toast, & Transparency](./☕️_tea_toast_transparency.md) — *satire as civic hygiene*  
+> - [☕️ Tea, Toast, & Transparency](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☕️_tea_toast_and_transparency.md) — *satire as civic hygiene*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-01-02_
