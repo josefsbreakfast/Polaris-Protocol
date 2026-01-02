@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-02 08:15:20 UTC_
+_Generated on 2026-01-02 08:28:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1151,6 +1151,7 @@ _Generated on 2026-01-02 08:15:20 UTC_
         - [`🧬_exit_exploitation_and_immortality_the_thiel_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧬_exit_exploitation_and_immortality_the_thiel_paradox.md)
         - [`🧬_monsters_of_the_machine.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧬_monsters_of_the_machine.md)
         - [`🧶_nato_knitting_circle.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧶_nato_knitting_circle.md)
+        - [`🪆_why_authoritarianism_always_loses_its_camp.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪆_why_authoritarianism_always_loses_its_camp.md)
         - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
         - [`🪞_gitmo_as_western_moral_rupture.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪞_gitmo_as_western_moral_rupture.md)
         - [`🪞_mirror_ideologies.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪞_mirror_ideologies.md)
@@ -4186,7 +4187,6 @@ _Generated on 2026-01-02 08:15:20 UTC_
     - [`🩻_the_balance_of_legal_exposures.md`](Polaris_Nest/Git_Intake_Drawer/🩻_the_balance_of_legal_exposures.md)
     - [`🪄_metaphor_not_madness_personifying_systems.md`](Polaris_Nest/Git_Intake_Drawer/🪄_metaphor_not_madness_personifying_systems.md)
     - [`🪆_male_fear_throttling_trigger.md`](Polaris_Nest/Git_Intake_Drawer/🪆_male_fear_throttling_trigger.md)
-    - [`🪆_why_authoritarianism_always_loses_its_camp.md`](Polaris_Nest/Git_Intake_Drawer/🪆_why_authoritarianism_always_loses_its_camp.md)
     - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
     - [`🪐_prosociality_as_nudge_surface.md`](Polaris_Nest/Git_Intake_Drawer/🪐_prosociality_as_nudge_surface.md)
   - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
