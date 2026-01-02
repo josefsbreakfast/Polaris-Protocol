@@ -105,11 +105,15 @@ The thread used staggered replies, embedded screenshots, and real-time metadata 
 *ICC Tag Thread Containment* is a living node of the Polaris Protocol.  
 It records forensic documentation of LinkedIn thread suppression, evidentiary anchoring, and jurisdictional framing around ICC/ICJ visibility breaches.  
 
-> 📡 Cross-references:  
-> - [Field Logs](../Disruption_Kit/Field_Logs/) — dated forensic documentation and evidence trails  
-> - [Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/) — systemic diagnostics and typologies  
-> - [Containment Scripts](../Disruption_Kit/Containment_Scripts/) — platform suppression and visibility manipulation logs  
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-01_
+_Last updated: 2026-01-01_
