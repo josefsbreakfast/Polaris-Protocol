@@ -6,9 +6,7 @@
 
 ## 🧭 Orientation  
 
-This node merges **☕️ Tea and Impunity** with **☕️ Tea, Toast & Transparency — Humour as a Form of Resilience**.
-
-Together, they map the double life of tea in British governance culture:
+There exists a double life of tea in British governance culture:
 
 - as a **comfort ritual that dissolves accountability**, and  
 - as a **humorous pause that allows the public to metabolise absurdity without surrendering to it**.
