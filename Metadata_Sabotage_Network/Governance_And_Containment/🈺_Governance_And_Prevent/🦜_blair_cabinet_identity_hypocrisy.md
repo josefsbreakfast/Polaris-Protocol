@@ -1,10 +1,10 @@
 # 🦜 Blair Cabinet Identity Hypocrisy  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-30  
+**First created:** 2025-09-26 | **Last updated:** 2026-01-02  
 *Rhetoric of freedom and modernisation versus coercive biometric registry in Blair-era policy.*  
 
 ---
 
-## 🪄 1. Rhetoric vs Reality  
+## 🪄 Rhetoric vs Reality  
 
 The Blair government sold **identity cards** as symbols of progress —  
 *modernisation, security, and global freedom* — a sleek rebrand of bureaucratic control.  
@@ -17,7 +17,7 @@ selling liberty while engineering surveillance.
 
 ---
 
-## 🪞 2. Hypocrisy Strands  
+## 🪞 Hypocrisy Strands  
 
 - **Civil liberties rhetoric:** championed “freedom” and “trust in citizens” while mandating data submission.  
 - **Choice illusion:** presented as voluntary, but tied to work eligibility, visas, and essential services.  
@@ -28,7 +28,7 @@ The same cabinet that invoked *“rights and responsibilities”* built a system
 
 ---
 
-## 🎁 3. Consequences  
+## 🎁 Consequences  
 
 - **Coalition backlash:** opposition united civil libertarians, technologists, and fiscal conservatives.  
 - **Narrative erosion:** “modernisation” became shorthand for coercion; digital government lost moral authority.  
@@ -53,6 +53,9 @@ but its logic — *surveillance as reform* — became administrative instinct.
 
 🦜 🏛️ 💼 🔮 — This node sits in the *governance capture* and *political narrative inversion* constellations, tracing how liberal branding masked coercive registry.  
 
+*Further readong / viewing:*  
+- [Britain's Digital ID: I Followed The Money](https://youtu.be/Z8wJs-_3BGU?si=ozwAQlC1ju1HL9qo), Fine Print. Youtube.  
+
 ---
 
 ## ✨ Stardust  
@@ -70,8 +73,9 @@ It examines how political branding of liberty and modernisation concealed coerci
 > 
 > - [🏛️ UK Identity Cards (2000s)](../../../Disruption_Kit/Big_Picture_Protocols/🛟_Borders_Boats_Walls/🏛️_uk_identity_cards_2000s.md)  
 > - [🧩 Cabinet Churn: Identity Cards](./🧩_cabinet_churn_identity_cards.md)
-> - [💼 Industry Capture in Identity Systems](./💼_industry_capture_identity_systems.md)  
+> - [💼 Industry Capture in Identity Systems](./💼_industry_capture_identity_systems.md).
+> - [✈️ Release the British Files](../🈴_Allies_And_Ethics/✈️_release_the_british_files.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-30_
+_Last updated: 2026-01-02_
