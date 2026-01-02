@@ -89,3 +89,16 @@ otherwise im having an argument with chatgpt about how it handles discussions of
 i would take this as a marker of going in the direction of improvement to my personal baseline. this is me.  
 
 ---
+
+---
+
+## 🏮 Footer  
+
+> 📡 Cross-references:
+> 
+> - [1up](./README.md)  
+> - [2up](../README.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-01_
