@@ -4,27 +4,28 @@
 
 ---
 
-## 🧭 Orientation
+## 🛰️ Orientation
 
 This node is not an attack on Christianity.  
 
-Nor is it an actual comment on the project or the structure it centres.  
+Nor is it an evaluative comment on the project or the structure it centres.  
 
 It is an explanation of **discursive responsibility** — who can speak without their words being weaponised, and why that matters when large religious symbols enter shared civic space.
 
-The “hoop” — the **Eternal Wall of Answered Prayer** — sits at the intersection of faith, money, planning power, and national identity anxiety.  
+The “hoop” — the Eternal Wall of Answered Prayer — sits at the intersection of faith, money, planning power, and national identity anxiety.  
 
 In that intersection, **who speaks** matters as much as *what is said*.  
 
-And some of us, in the current UK political environmemt, cannot safely speak.  
+And some of us, in the current UK political environment, cannot safely speak **without distortion or weaponisation**.
 
-My honest first reaction was one of anxiety and fear, because the recent racialisation of many of us and the rhetoric of "go home" is intense enough, that however sweet and lovely a project would be, the size and scale of the project in context triggered those emotions for me.  
+My honest first reaction was one of anxiety and fear. This was not because of the project’s intent, nor its spiritual framing, but because the recent racialisation of many of us — and the intensification of “go home” rhetoric — has been severe enough that the **scale and visibility** of the project, in context, triggered those emotions for me.
 
-This is not a comment on the project in its form, or of the work and effort over many years; clickbait headlines flattened this dimension, and my first response was fear.  
+This is not a judgement on the work, care, or effort invested over many years.  
+Clickbait headlines flattened important nuance, and my initial response was shaped by that framing as much as by the wider political climate.
 
-I am dosclosing this with the vulnerability of a doxxed, harrased Jewish woman; I know that this carries risk to voice anything, but I know how many other people feel this way, may have a similar reaction, and feel they cannot say anything at all, or must publically agree to assimilate.  
+I am disclosing this with the vulnerability of a doxxed, harassed Jewish woman. I know this carries risk. I also know how many other people feel similarly unsettled, may have comparable reactions, and feel they cannot say anything at all — or feel pressured to publicly agree or assimilate in order to remain safe.
 
-This is an invotation to dialogue, an invitation to transparency, and an invotation to white Christians and those passably so, to speak to protect and uplift of those most impacted in your UK community.  
+This node is an invitation to dialogue, an invitation to transparency, and an invitation to white Christians — and those passably so — to speak in ways that **protect and uplift those most impacted** within your UK communities.
 
 ---
 
@@ -32,13 +33,13 @@ This is an invotation to dialogue, an invitation to transparency, and an invotat
 
 In the current UK climate, critique does not land evenly.
 
-- When **white, Christian-presenting people** question the project, it is read as:
+- When **white, Christian-presenting people** question the project, it is often read as:
   - internal debate  
   - healthy disagreement  
   - stewardship concerns  
   - proportional scrutiny  
 
-- When **minority voices** raise the *same* points, it is often reframed as:
+- When **minority voices** raise the *same* points, it is frequently reframed as:
   - hostility to Christianity  
   - intolerance  
   - proof of “repression”  
@@ -60,7 +61,7 @@ When white Christians do not publicly interrogate:
 - donor power  
 - planning privilege  
 
-…the only visible critics become those whose words can be twisted.
+…the only visible critics become those whose words are most easily twisted.
 
 This creates a closed loop:
 1. Minorities speak → critique is weaponised  
@@ -81,7 +82,7 @@ No one is:
 - closing churches  
 - censoring belief  
 
-This is a debate about **monumentality in shared space**, not the right to faith.
+This is a debate about **monumentality in shared civic space**, not the right to faith.
 
 Conflating the two is politically useful — and intellectually dishonest.
 
@@ -89,16 +90,16 @@ Conflating the two is politically useful — and intellectually dishonest.
 
 ## 🧿 Why Minority Unease Is Not the Same as Hostility
 
-Many minority critics would not be not saying:
+Many minority critics are not saying:
 - “This must be torn down”
 - “Christianity doesn’t belong here”
 
-They may be wish to say:
+They may be wishing to say:
 - “This feels unsettling *in this moment*”
 - “This reads differently after years of exclusionary rhetoric”
 - “This changes how belonging is felt, not just how space looks”
 
-That distinction gets lost when majority voices stay quiet.
+That distinction is often lost when majority voices stay quiet.
 
 ---
 
@@ -112,7 +113,7 @@ Silence allows others to claim:
 - “Only outsiders object”
 - “Criticism proves we’re under attack”
 
-At that point, the project stops being pastoral and starts being **political by default** — whether intended or not.
+At that point, the project stops being pastoral and becomes **political by default** — whether intended or not.
 
 ---
 
@@ -126,27 +127,23 @@ It is about **grounded, internal critique**:
 - “Does monumentality serve faith, or replace practice?”  
 - “Would restraint communicate more care right now?”  
 
-These questions land differently — and more safely — when they come from inside the majority.  
+These questions land differently — and more safely — when they come from inside the majority.
 
-Even if a project is generally agreed upon and everyone is happy to go ahead, the positioning of this in the further right side of mainstream media, is an uncomfortable signal.  
+Even if a project is broadly supported and proceeds with goodwill, its positioning within the further-right edges of mainstream media is an uncomfortable signal.
 
-So use the moment.  
+So use the moment.
 
 Talk about prayers for migrants.  
-
 Talk about the cost of living.  
-
-Talk about getting the rich men through the eye of the needle.  
-
+Talk about getting rich men through the eye of the needle.  
 Talk about community and welcome.  
+Talk about the good, restorative, outward-facing values associated with your Christ.
 
-Talk about all the good, posotive things associated and stemming from your Christ.  
+You have a moment of attention. Use it.
 
-You have your moment: use it.  
+Get ahead of the story before those who appropriate Christianity as cover for racism do.
 
-Get ahead of the story before those who are appropriating Christianity as a cover for their racism do.  
-
-(It'll really fluster them; it'll be worth it.)  
+(It will genuinely fluster them. It will be worth it.)
 
 ---
 
@@ -157,7 +154,7 @@ In plural societies, **those least likely to be misheard carry the most responsi
 That is not guilt.  
 It is capacity.
 
-And capacity unused becomes power misused.
+And capacity left unused becomes power misused.
 
 ---
 
