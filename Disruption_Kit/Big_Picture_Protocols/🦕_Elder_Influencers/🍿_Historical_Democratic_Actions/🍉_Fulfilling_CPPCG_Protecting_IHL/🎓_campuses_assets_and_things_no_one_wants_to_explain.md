@@ -149,7 +149,109 @@ Observed effects include:
 - lower tolerance for ambiguity  
 - faster escalation in subsequent events  
 
-This is predictive securitisation driven by precedent anxiety, not intelligence.
+This is predictive securitisation driven by precedent anxiety, not intelligence.  
+
+---
+
+## 🧮 Risk assessment drift and individual tagging  
+
+One downstream effect of treating university campuses as defence-adjacent or asset-sensitive space is that it reshapes how individuals associated with those sites are assessed over time.
+
+Where security provision includes, or is perceived to include, defence-linked personnel or counter-terrorism frameworks, the risk profile of the location itself changes. That change does not remain spatial; it becomes **associative**.
+
+In practical terms, this means that:
+- individuals present at, organising, or repeatedly associated with such sites  
+- may be recorded within policing systems as having proximity to “national security–relevant” environments  
+- even where their activity is lawful, non-violent, and protest-related  
+
+This does not require a criminal threshold to be crossed.
+
+Risk assessment systems are designed to be precautionary. Once an environment is categorised as sensitive, people connected to it may be subject to:
+- heightened scrutiny  
+- lower tolerance for ambiguity  
+- different escalation pathways in future encounters  
+
+This can affect how individuals are treated:
+- at subsequent protests  
+- during stop-and-search or questioning  
+- in future investigations unrelated to the original campus activity  
+
+The concern here is not intent, but inertia.
+
+Risk classifications, once applied, are difficult to unwind — particularly where the original rationale was never made explicit or publicly explained.
+
+---
+
+## ⚖️ Why this matters for proportionality and civil liberty  
+
+Where individuals’ freedom is constrained, questioned, or evaluated under counter-terrorism frameworks, the basis for that assessment must be intelligible and proportionate.
+
+If defence-adjacent security arrangements on campuses contribute — even indirectly — to individuals being treated as ongoing national security risks, then transparency is not optional.
+
+It is a safeguard.
+
+Without clear explanation of:
+- why a site was treated as exceptional  
+- what security framework was actually in place  
+- and how long any elevated risk classification persists  
+
+there is no meaningful way to challenge or contextualise future risk assessments.
+
+In such conditions, exceptional treatment risks becoming permanent background noise in a person’s civic life.
+
+—-
+
+## 🚓 Resource strain and escalation bias  
+
+Once environments or groups are treated as higher-risk, policing responses must scale accordingly — regardless of whether underlying activity has changed.
+
+This creates a structural pressure on policing resources.
+
+Higher-risk categorisation typically requires:
+- more officers per incident  
+- more senior oversight  
+- additional reporting and documentation  
+- tighter adherence to counter-terrorism protocols  
+
+These requirements are resource-intensive.
+
+Where policing capacity is already stretched, this can produce an escalation bias:  
+situations are managed at a higher level of seriousness not because threat has increased, but because **downgrading carries professional risk**, while upgrading does not.
+
+In such contexts:
+- de-escalation becomes harder to justify internally  
+- precautionary measures become the default  
+- and officers may feel compelled to act “by the book” even when the book was written for a different class of risk  
+
+This is not primarily a matter of individual intent or prejudice.  
+It is a predictable outcome of resource scarcity interacting with elevated risk frameworks.
+
+Over time, this dynamic can normalise disproportionate responses — not because they are effective, but because they are administratively safer.
+
+—-
+
+## ⚖️ When subjectivity hardens into system error  
+
+Where key stakeholders providing initial evidence, assessments, or expert opinion are later shown to hold strong ideological or political positions, this introduces subjectivity into what is otherwise treated as a neutral risk pipeline.
+
+If such inputs are not transparently weighted, challenged, or contextualised, downstream decision-making can inherit those assumptions as fact.
+
+In these circumstances, the system does not need to act in bad faith to miscarry justice.
+
+Once a risk classification is established:
+- policing responses escalate automatically  
+- prosecutorial thresholds may lower  
+- judicial scrutiny may be framed by prior categorisation  
+
+This creates a situation where:
+- actions are justified by precedent rather than evidence  
+- proportionality is evaluated against an already-inflated baseline  
+- and correction becomes institutionally difficult  
+
+Where later scrutiny reveals that foundational inputs were partisan, incomplete, or contested, it becomes reasonable to ask whether justice was miscarried **by process**, rather than by intention.
+
+This is not a claim about individual guilt or innocence.  
+It is a claim about system design, feedback loops, and the dangers of unexamined authority.
 
 ---
 
