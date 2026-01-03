@@ -1,7 +1,7 @@
 # 🐼 Policing an Unknown  
 **First created:** 2026-01-02 | **Last updated:** 2026-01-03  
 *How overreach happens without villains — when uncertainty hardens into authority.*
-<!--Please bear with me on a table update; it has been allsorts of strange in production.-->
+
 ---
 
 ## 🛰️ Orientation  
@@ -24,7 +24,7 @@ It is an analysis of **how uncertainty propagates through systems**, and how tha
 
 ---
 
-## ⚖️ The core problem: uncertainty defaults to severity  
+## ⚖️ The Core Problem: Uncertainty Defaults to Severity  
 
 When frontline officers and commanders face unclear boundaries, several predictable dynamics emerge:
 
@@ -45,7 +45,7 @@ It is how complex organisations behave under pressure.
 
 ---
 
-## 🧱 Why Palestine-related policing became especially distorted  
+## 🧱 Why Palestine-related Policing Became Especially Distorted  
 
 Several factors converged to make Palestine solidarity activity unusually vulnerable to misclassification:
 
@@ -61,11 +61,33 @@ Several factors converged to make Palestine solidarity activity unusually vulner
 - **Early high-profile arrests creating informal precedent**  
   Once some cases were escalated, later ones were treated as comparable by default.
 
-The result is a situation where **policing behaviour appeared to change faster than the law itself**.
+The result is a situation where **policing behaviour appeared to change faster than the law itself**.  
 
 ---
 
-## 🧮 Risk assessment as a moving target  
+## 📑 Policy Atmosphere: Project 2025, Project Esther, and the Normalisation of Securitised Dissent
+
+During this same period, a number of policy documents and briefings were circulating within transatlantic political and think-tank ecosystems that framed Palestine solidarity activity as an internal security risk rather than a civil-liberties issue.  
+
+In the United States, Project 2025 and its associated initiatives — including Project Esther — advanced a model in which campus protest, anti-Zionist organising, and certain forms of journalism were conceptualised through counter-extremism and national-security lenses.  
+
+While these projects are not UK government policy, their arguments were widely discussed, cited, and echoed across shared policy spaces, conferences, media commentary, and allied think-tank networks in the UK and Europe.  
+
+This matters not because such documents were formally adopted, but because they helped **normalise a particular way of seeing dissent** — one in which protest against genocide, colonialism, or state violence is reinterpreted as destabilising, radicalising, or security-relevant by default.  
+
+In an environment already marked by legal uncertainty and political discomfort, **the circulation of these frameworks made escalation feel reasonable, precautionary, and professionally defensible** — even where the law itself had not materially changed.  
+
+The risk is not covert coordination, but conceptual alignment:  
+
+When the same assumptions are “in the air,” systems can drift together without anyone explicitly directing them to do so.  
+
+On a background of widespread, historically-normalised anti-Palestinian racism dating from the British Mandate period, and the expansion of British colonial policing and attitudes to Empire subjects under that Mandate, as well as nascient upper-class and legal profession antisemitism in the style of semi-philosemitic Christian Zionism, these policies were not subject to the rigorous scrutiny one might expect.  
+
+This is how it was possible for their information basis to be sparse and their methodological process to be lacking, and yet their policy suggestions taken up so readily.  
+
+---
+
+## 🧮 Risk Assessment As A Moving Target  
 
 Risk assessment is not static.  
 It is shaped by what police believe other parts of the state are doing.
@@ -84,7 +106,7 @@ It is inherited.
 
 ---
 
-## 🧾 Transparency gaps and institutional drift  
+## 🧾 Transparency Gaps and Institutional Drift  
 
 A recurring feature since 2024 has been a mismatch between:
 
@@ -110,7 +132,7 @@ Leadership is required to re-anchor the system.
 
 ---
 
-## 🎓 MOD-adjacent precedent and risk propagation  
+## 🎓 MOD-Adjacent Precedent and Risk Propagation  
 
 Where university campuses are informally treated as defence-adjacent or asset-sensitive space, a precedent is set.
 
@@ -129,7 +151,7 @@ The difficulty is that what began as site-based caution can become **person-base
 
 ---
 
-## ⚖️ Equality impact and baseline securitisation  
+## ⚖️ Equality Impact and Baseline Securitisation  
 
 In this context, it must be stated clearly:
 
@@ -158,7 +180,7 @@ Expecting this of people at risk of genocide, strongly suggests that that risk i
 
 ---
 
-## 🪬 Rebound effects on Jewish dissent  
+## 🪬 Rebound Effects on Jewish Dissent  
 
 This dynamic does not protect Jewish communities.  
 It destabilises them.
@@ -182,7 +204,7 @@ Given the specific histry which tools like the IHRA seek to protect, the foregoi
 
 ---
 
-## 💔 Police wellbeing and moral injury  
+## 💔 Police Wellbeing and Moral Injury  
 
 This period has also imposed significant ethical strain on policing.
 
@@ -205,7 +227,7 @@ These are survival adaptations — but they increase the likelihood of overreach
 
 ---
 
-## 📦 Arrest pattern snapshot (contextual, non-exhaustive)
+## 📦 Arrest Pattern Snapshot (contextual, non-exhaustive)
 
 > **Purpose:**  
 > This table illustrates pattern and clustering, not guilt or innocence.  
@@ -214,21 +236,22 @@ These are survival adaptations — but they increase the likelihood of overreach
 
 | Date (first arrest / raid) | Individual / Group | Role / Activity | Legal framing used | Notes relevant to this node |
 |---------------------------|-------------------|-----------------|-------------------|-----------------------------|
-| 20 Oct 2023 | Tony Greenstein | Jewish anti-Zionist writer | Terrorism Act | Early test case; critique of IHRA and Zionism |
+| 20 Oct 2023 | Tony Greenstein | Journalist / author | Terrorism Act | Early test case; critique of IHRA and Zionism. Jewish antizionist |
 | 06 Aug 2024 | Filton 10 | Direct action (arms factory disruption) | Terrorism Act | Core group; later arrests and hunger strikes |
-| 14 Aug 2024 | Richard Barnard | Palestine Action | Terrorism Act | Non-violent direct action |
-| 15 Aug 2024 | Richard Medhurst | Journalist | Terrorism Act | Reporting / analysis; Syrian Christian |
+| 14 Aug 2024 | Richard Barnard | Palestine Action co-founder | Terrorism Act | Non-violent direct action |
+| 15 Aug 2024 | Richard Medhurst | Journalist | Terrorism Act | Reporting / analysis; previous OSINT and Wikileaks coverage |
 | 29 Aug 2024 | Sara Wilkinson | Journalist / author | Terrorism Act | Gaza reporting |
-| 17 Oct 2024 | Asa Winstanley | Journalist (Electronic Intifada) | Terrorism Act | Raid; devices seized |
-| 15 Nov 2024 | Natalie Strecker | Activist | Terrorism Act | Not Jewish; protest-related |
+| 17 Oct 2024 | Asa Winstanley | Journalist | Terrorism Act | Raid; devices seized. Jewish antizionist |
+| 15 Nov 2024 | Natalie Strecker | Activist | Terrorism Act | Protest-related |
 | 19 Nov 2024 | Further Filton activists | Direct action | Terrorism Act | Second Filton cluster |
 | Jan 2025 | PSC national march | Protest participants | Questioning / detention | Includes MPs and Holocaust survivor Stephen Kapos |
+| 2025 | Israeli embassey Jewish-led Shabbat protests | Jewish writers, speakers, protesters affiliated to IJAN | Arrests, protest limits | Included Haim Bresheeth and Yael Kahn  |
 
 Patterns include repeated arrests, inherited risk, and escalation across roles.
 
 ---
 
-## 🧄 Risk untagging and reset (what correction looks like)  
+## 🧄 Risk Untagging and Reset (what correction looks like)  
 
 Correction does not require humiliation or admissions of bad faith.
 
@@ -243,7 +266,7 @@ Risk, once applied, must be capable of being **unwound**.
 
 ---
 
-## 🌀 Why this feels chaotic from the inside  
+## 🌀 Why This Feels Chaotic From The Inside  
 
 From within institutions, this period feels fragmented rather than coordinated:
 
@@ -257,7 +280,7 @@ It is **system stress without leadership**.
 
 ---
 
-## 🗺️ CPPCG implications  
+## 🗺️ CPPCG Implications  
 
 Article I of the CPPCG establishes a positive duty to prevent genocide.
 
@@ -269,7 +292,7 @@ It is **structural prevention failure**.
 
 ## 🌌 Constellations  
 
-🐼 → 🌀 → 🎓 → 🔥 → 🗺️  
+🐼 🌀 🎓 🔥 🗺️  
 Uncertainty propagation, institutional drift, dissent misrecognition, and prevention inversion.
 
 ## ✨ Stardust  
