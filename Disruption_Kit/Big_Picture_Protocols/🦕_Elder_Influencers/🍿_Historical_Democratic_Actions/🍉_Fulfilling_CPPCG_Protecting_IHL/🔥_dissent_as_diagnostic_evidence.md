@@ -354,22 +354,20 @@ Listening early is cheaper than containment later.
 
 ## 🌌 Constellations  
 
-This node connects to:
-
-- 🌀 _when_prevention_looks_like_threat  
-- 🐼 _policing_an_unknown  
-- 🧬 _why_it_is_easier_not_to_see_or_hear_or_speak  
-- 🗺️ _cppcg_layers_who_carries_what  
+🌀 🐼 🧬 🎓 🗺️ 
 
 ---
 
 ## ✨ Stardust  
 
-dissent, early warning, genocide prevention, misrecognition, anti-Palestinian racism, securitisation, narrative collapse, legal discomfort, colonial policing legacies, institutional stress
+dissent, early warning, genocide prevention, misrecognition, anti-palestinian racism, policing escalation, counterterror drift, institutional anxiety, narrative collapse, cppeg article i, authoritarian vulnerability, trauma responses, moral injury  
 
 ---
 
-*Dissent is not noise.*  
-*It is the system telling you where it hurts.*
+## 🏮 Footer  
+
+*🔥 Dissent as Diagnostic Evidence* is a diagnostic node within the **Polaris Protocol**, situated in the **Fulfilling CPPCG / Protecting IHL** cluster.
+
+It maps how dissent functions as an early signal under conditions of moral, legal, and narrative stress, and how suppression of that signal increases systemic risk.
 
 _Last updated: 2026-01-03_
