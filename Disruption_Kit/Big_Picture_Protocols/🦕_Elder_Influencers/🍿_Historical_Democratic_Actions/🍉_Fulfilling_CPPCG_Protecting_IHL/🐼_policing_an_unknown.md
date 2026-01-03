@@ -245,6 +245,8 @@ This table will be updated; some dates are held as I need to retrace initial dat
 
 The alt-right activity in both Summer 2024 and Summer 2025 mens that some people who have been subject to significant unprecedented arrests, particularly women who are racialised in the UK, have made bespoke decisions around public knowledge to manage their personal safety as far as they are able to.  
 
+What is notable is that with Project Esther in the policy space (which later fails and undermines Jewish safety, demonstrably, in the US, with the ADL facing in-house push-back for its support), there is the use of the Terrorism Act as a legal instrument, whilst after the Shawcross Report is releeased, whilst imperfect, the legal instruments are altered, but the physicality of policing increases.  
+
 | Date (first arrest / raid) | Individual / Group | Role / Activity | Legal framing used | Notes relevant to this node |
 |---------------------------|-------------------|-----------------|-------------------|-----------------------------|
 | 20 Oct 2023 | Tony Greenstein | Journalist / author | Terrorism Act | Early test case; critique of IHRA and Zionism. Jewish antizionist |
