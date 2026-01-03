@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-03 08:47:00 UTC_
+_Generated on 2026-01-03 11:33:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3431,6 +3431,7 @@ _Generated on 2026-01-03 08:47:00 UTC_
     - [**👅_Voice_Disruption_Discrediting/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/README.md)
       - [`✂️_tone_misclassification_and_emotional_flattening.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/✂️_tone_misclassification_and_emotional_flattening.md)
+      - [`⭕️_why_white_christians_need_to_speak_up_about_the_hoop.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/⭕️_why_white_christians_need_to_speak_up_about_the_hoop.md)
       - [`🇬🇧_british_english_is_not_a_threat_vector.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🇬🇧_british_english_is_not_a_threat_vector.md)
       - [`🍊_the_president_as_mark.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🍊_the_president_as_mark.md)
       - [`🎪_racialised_projection_as_harassment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🎪_racialised_projection_as_harassment.md)
