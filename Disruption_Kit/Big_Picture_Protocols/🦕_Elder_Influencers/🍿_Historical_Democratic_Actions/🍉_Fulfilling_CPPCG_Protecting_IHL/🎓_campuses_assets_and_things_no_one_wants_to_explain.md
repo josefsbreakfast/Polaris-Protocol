@@ -285,7 +285,7 @@ It documents how defence-adjacent infrastructure, jurisdictional ambiguity, and 
 
 > 📡 Cross-references:
 > 
-> - [🍉 Academic Liberty — Encampments 2024 Mini‑Dossier](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty) — *OSINT exercises*  
+> - [🍉 Academic Liberty — Encampments 2024 Mini‑Dossier](../../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty) — *OSINT exercises*  
 > - [🐼 Policing an Unknown](./🐼_policing_an_unknown.md) — *how uncertainty produces escalation and procedural drift*  
 > - [🔥 Dissent As Diagnostic Evidence](./🔥_dissent_as_diagnostic_evidence.md) — *how suppression becomes a signal of misrecognition*  
 > - [🌀 When Prevention Looks Like Threat](./🌀_when_prevention_looks_like_threat.md) — *the prevention-as-threat inversion across systems*
