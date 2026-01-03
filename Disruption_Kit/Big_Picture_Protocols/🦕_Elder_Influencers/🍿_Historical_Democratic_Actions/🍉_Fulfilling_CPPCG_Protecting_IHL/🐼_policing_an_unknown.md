@@ -231,8 +231,19 @@ These are survival adaptations — but they increase the likelihood of overreach
 
 > **Purpose:**  
 > This table illustrates pattern and clustering, not guilt or innocence.  
-> It shows how escalation logic propagated across journalism, protest, and student activity.
+> It shows how escalation logic propagated across journalism, protest, and student activity.  
 
+The arrests in this table are laregly of white/passing people who have been subject to arrest, where they have discussed their arrest in the public domain, and who have not required retraction of that information for their own safety.  
+
+As this node is framed to policy and policing spaces in the UK, this should serve to highlight how the escalation is evident.  
+
+We should be very clear, however, that many more people have been arrested, many repeatedly. Many registered professionals have been reported repeatedly to their professional bodies. Many have received complaints where there normally are none to record in their workplaces.  
+
+There have been several arrests of doctors, and several activists have faced repeated arrests; many of whom have faced repeated doxxing, harrassment, and had personal life difficulties which are difficult to explain succinctly to police, and for which would require specialist skills to investigate in policing.  
+
+This table will be updated; some dates are held as I need to retrace initial dates via media sources and check which are in public domain at this time.  
+
+The alt-right activity in both Summer 2024 and Summer 2025 mens that some people who have been subject to significant unprecedented arrests, particularly women who are racialised in the UK, have made bespoke decisions around public knowledge to manage their personal safety as far as they are able to.  
 
 | Date (first arrest / raid) | Individual / Group | Role / Activity | Legal framing used | Notes relevant to this node |
 |---------------------------|-------------------|-----------------|-------------------|-----------------------------|
@@ -242,10 +253,11 @@ These are survival adaptations — but they increase the likelihood of overreach
 | 15 Aug 2024 | Richard Medhurst | Journalist | Terrorism Act | Reporting / analysis; previous OSINT and Wikileaks coverage |
 | 29 Aug 2024 | Sara Wilkinson | Journalist / author | Terrorism Act | Gaza reporting |
 | 17 Oct 2024 | Asa Winstanley | Journalist | Terrorism Act | Raid; devices seized. Jewish antizionist |
+| 01 Nov 2024 | Haim Bresheeth | Activist | Terrorism Act | Protest-related |
 | 15 Nov 2024 | Natalie Strecker | Activist | Terrorism Act | Protest-related |
 | 19 Nov 2024 | Further Filton activists | Direct action | Terrorism Act | Second Filton cluster |
-| Jan 2025 | PSC national march | Protest participants | Questioning / detention | Includes MPs and Holocaust survivor Stephen Kapos |
-| 2025 | Israeli embassey Jewish-led Shabbat protests | Jewish writers, speakers, protesters affiliated to IJAN | Arrests, protest limits | Included Haim Bresheeth and Yael Kahn  |
+| Jan - Feb 2025 | PSC national march | Protest participants; inc. John McDonnell MP, Jeremy Corbyn MP, and Holocaust survivor Stephen Kapos | Questioning / detention | Unclear operational outcomes, march changed to standing protest short notice. Shortly followed Shawcross Report |
+| 16 Apr 2025 | Yael Kahn | Protester, affiliated to IJAN | Public Order | Complainant party from Chabad, framed as intracommunity |
 
 Patterns include repeated arrests, inherited risk, and escalation across roles.
 
