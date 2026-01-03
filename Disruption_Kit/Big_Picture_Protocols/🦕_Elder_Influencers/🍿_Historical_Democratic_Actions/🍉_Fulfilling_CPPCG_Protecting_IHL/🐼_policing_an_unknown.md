@@ -1,6 +1,6 @@
 # 🐼 Policing an Unknown  
 **First created:** 2026-01-02 | **Last updated:** 2026-01-03  
-*How overreach happens without villains — when uncertainty hardens into authority.*
+*How overreach happens without villains — when uncertainty hardens into authority.*  
 
 ---
 
@@ -323,15 +323,16 @@ It explains how ambiguity, precedent pressure, and misaligned leadership can dri
 
 > 📡 Cross-references:
 >
-> - [🛰️ OSINT for Anti-Palestinian Racism Detection — Using Social Media Responsibly](../../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🛰️_OSINT_for_anti_palestinian_racism_detection.md)
-> - [🍉 Friction, Erasure, and the Machine View of Resistance](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_friction_erasure_and_the_machine_view_of_resistance.md)  
-> - [🍌 Project 2025 UK Edition — A Field Guide for Aspiring Dodos](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/README.md)  
-> - [🧥 Empire’s Old Coat](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧥_empires_old_clothes.md)
-> - [🫒 Occupation as Containment Regime](../../🌀_System_Governance/💫_Containment_Logic/🫒_occupation_as_containment_regime.md)
-> - [🪞 Humiliation as Spectacle — Echoes Across Genocides](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪞_humiliation_as_spectacle.md)  
-> - [🍉 As a Jew: “Globalise the Intifada”](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍉_as_a_jew_globalise_the_intifada.md)
-> - [🧠 Good Jew / Bad Jew State Template](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧠_good_jew_bad_jew_state_template.md)
-> - [🐼 The Metropolitan Rabble](../../🌀_System_Governance/👑_Ownership_Control/🐼_the_metropolitan_rabble.md)  
+> - [🛰️ OSINT for Anti-Palestinian Racism Detection — Using Social Media Responsibly](../../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🛰️_OSINT_for_anti_palestinian_racism_detection.md) – *getting started on syntax drift*  
+> - [🍉 Friction, Erasure, and the Machine View of Resistance](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_friction_erasure_and_the_machine_view_of_resistance.md) – *how AI hurts people*  
+> - [🍌 Project 2025 UK Edition — A Field Guide for Aspiring Dodos](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/README.md) – *why this policy set is nonsense and why it is fascist and not very fun*    
+> - [🧥 Empire’s Old Coat](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧥_empires_old_clothes.md) – *Britain learns no new tricks*  
+> - [🫒 Occupation as Containment Regime](../../🌀_System_Governance/💫_Containment_Logic/🫒_occupation_as_containment_regime.md) – *the occupation is a box for Palestinian life which gets smaller and smaller with every breath*  
+> - [🪞 Humiliation as Spectacle — Echoes Across Genocides](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪞_humiliation_as_spectacle.md) – *weaponising shame to suppress*  
+> - [🍉 As a Jew: “Globalise the Intifada”](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍉_as_a_jew_globalise_the_intifada.md) – *policing is gearing up to learn modern Arabic*  
+> - [🧠 Good Jew / Bad Jew State Template](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧠_good_jew_bad_jew_state_template.md) – *the state occaisionally recognises more than one type of Jew...*
+> - [🐼 The Metropolitan Rabble](../../🌀_System_Governance/👑_Ownership_Control/🐼_the_metropolitan_rabble.md) – *when austerity cuts to the quick*  
+> - [🌍 Cross-Border Bias Propagation in Surveillance Models](../../🌀_System_Governance/👑_Ownership_Control/🌍_cross_border_bias_propagation_in_surveillance_models.md) – *why the computer hates Palestinians and antifascists*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
