@@ -45,7 +45,7 @@ It is how complex organisations behave under pressure.
 
 ---
 
-## 🧱 Why Palestine-related Policing Became Especially Distorted  
+## 🍉 Why Palestine-Related Policing Became Especially Distorted  
 
 Several factors converged to make Palestine solidarity activity unusually vulnerable to misclassification:
 
