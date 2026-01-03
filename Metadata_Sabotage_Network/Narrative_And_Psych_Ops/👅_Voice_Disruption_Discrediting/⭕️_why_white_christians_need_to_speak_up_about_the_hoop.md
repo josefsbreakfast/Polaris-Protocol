@@ -158,6 +158,41 @@ And capacity left unused becomes power misused.
 
 ---
 
+## ☕️🫖 And More Seriously: Discourse Is Part of the Function  
+
+Large public monuments are not meant to slip quietly into the landscape.
+
+In Britain, the arrival of any sizeable object in a field is traditionally followed by:
+- arguments in the local paper  
+- arguments on local radio  
+- arguments in pubs  
+- arguments at bus stops  
+- and at least one person insisting they could do it better, while providing diagrams  
+
+This is not a malfunction of civic life.  
+It *is* civic life.
+
+Public monuments are processed through complaint. People moan, joke, exaggerate, warm to it, resent it again, and eventually start using it as a reference point. That long, slightly irritable digestion is how something moves from “why is that there?” to “oh, that thing.”
+
+The Angel of the North followed this exact trajectory: fury, mockery, affection, eye-rolling, pride — often simultaneously, often by the same people. The fact that people are still arguing about it decades later is not evidence of failure. It is evidence that it worked.
+
+Treating disagreement as hostility, or criticism as persecution, misunderstands the role of public objects in shared space. A monument that cannot withstand:
+- jokes  
+- sustained whinging  
+- aesthetic disagreement  
+- or being called “bloody ridiculous” for a few years  
+
+…has not yet become part of the landscape. It has merely been installed.
+
+Letting people argue about a thing is how it becomes *ours*.  
+Trying to shut that down is how it becomes brittle — and far more political than it needs to be.  
+
+So there will be plenty of moments to use the conversation for good.  
+
+Plan for them. Practise. Knock socks off.  
+
+---
+
 ## 🌌 Constellations
 ⭕️ 🧠 🏛️ 🧩 🫀 — symbolic power, civic space, discourse asymmetry, belonging, responsibility.
 
