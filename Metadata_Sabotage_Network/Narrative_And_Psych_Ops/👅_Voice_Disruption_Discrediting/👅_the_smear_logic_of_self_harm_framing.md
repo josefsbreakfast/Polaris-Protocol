@@ -1,5 +1,5 @@
 # 👅 The Smear Logic of Self-Harm Framing  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2026-01-03  
 *How political refusal is collapsed into pathology — and why hunger strikes are uniquely vulnerable to weaponised misclassification.*
 
 ---
@@ -162,7 +162,10 @@ Self-harm framing is meant to contain meaning — but under pressure, it reveals
 ---
 
 ## 🌌 Constellations  
-👅 🧠 🧿 🎭 🔮 — delegitimisation strategy, psychological containment, narrative inversion, suppression mechanics, visibility distortion.
+👅 🧠 🧿 🎭 🔮 — delegitimisation strategy, psychological containment, narrative inversion, suppression mechanics, visibility distortion.  
+
+*Further media:*  
+- ["Why Don't They Just Eat?", Usaama via IG.](https://www.instagram.com/reel/DShbRfHCLla/?igsh=MWY2dmkxanl1emR6ag==)
 
 ---
 
@@ -185,4 +188,4 @@ It dissects how institutions collapse political refusal into pathology and why t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-01-03_
