@@ -280,15 +280,20 @@ universities, defence-adjacent research, dual-use assets, jurisdictional ambigui
 
 ## 🏮 Footer  
 
-*Campuses, Assets, and Things No One Wants to Explain* is a living node of the **Polaris Protocol**.  
+*🎓 Campuses, Assets, and Things No One Wants to Explain* is a living node of the **Polaris Protocol**.  
 It documents how defence-adjacent infrastructure, jurisdictional ambiguity, and risk frameworks can drive disproportionate securitisation — and why transparency, equality impact mitigation, and proportionality are necessary safeguards where liberty is constrained.
 
 > 📡 Cross-references:
 > 
-> - [README](./README.md) — *CPPCG / IHL cluster orientation and layer mapping*  
-> - [🐼 policing an unknown](./🐼_policing_an_unknown.md) — *how uncertainty produces escalation and procedural drift*  
-> - [🔥 dissent as diagnostic evidence](./🔥_dissent_as_diagnostic_evidence.md) — *how suppression becomes a signal of misrecognition*  
-> - [🌀 when prevention looks like threat](./🌀_when_prevention_looks_like_threat.md) — *the prevention-as-threat inversion across systems*  
+> - [🍉 Academic Liberty — Encampments 2024 Mini‑Dossier](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty) — *OSINT exercises*  
+> - [🐼 Policing an Unknown](./🐼_policing_an_unknown.md) — *how uncertainty produces escalation and procedural drift*  
+> - [🔥 Dissent As Diagnostic Evidence](./🔥_dissent_as_diagnostic_evidence.md) — *how suppression becomes a signal of misrecognition*  
+> - [🌀 When Prevention Looks Like Threat](./🌀_when_prevention_looks_like_threat.md) — *the prevention-as-threat inversion across systems*
+> - [⚖️ Rings of Power for Universities](../../../🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_rings_of_power_universities.md)
+> - [⛩️ Very Secret Peer Review](../../../🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⛩️_very_secret_peer_review.md)
+> - [⚖️ The Strangest Duty of Care](../../../🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_the_strangest_duty_of_care.md)
+> - [🎓 Reputation Management and University Protest Response](../../../🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🎓_reputation_management_and_university_protest_response.md)
+> - [🎓 Safeguarding as Surveillance](../../../🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🎓_safeguarding_as_surveillance.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
