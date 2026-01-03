@@ -1,6 +1,6 @@
-# 🌀 When prevention looks like threat  
-**First created:** 2026-01-02 | **Last updated:** 2026-01-02  
-*How genocide-prevention behaviour is misrecognised as extremism under institutional pressure*  
+# 🌀 When Prevention Looks Like Threat  
+**First created:** 2026-01-02 | **Last updated:** 2026-01-03  
+*How genocide-prevention behaviour is misrecognised as extremism under institutional pressure.*  
 
 ---
 
@@ -31,7 +31,7 @@ Specifically: how warning, dissent, refusal, documentation, and disruption — a
 
 ---
 
-## ⚖️ The prevention problem  
+## ⚖️ The Prevention Problem  
 
 Under the Convention on the Prevention and Punishment of the Crime of Genocide (CPPCG), prevention is required **before certainty**, not after verdict.
 
@@ -47,7 +47,7 @@ Systems that require certainty before action will always act too late.
 
 ---
 
-## 🌀 The inversion  
+## 🌀 The Inversion  
 
 Across contexts, a familiar category shift appears:
 
@@ -63,7 +63,7 @@ The inversion protects **narrative stability**, not people.
 
 ---
 
-## 🚧 How drift happens  
+## 🚧 How Drift Happens  
 
 Governance drift rarely announces itself.
 
@@ -84,7 +84,7 @@ It requires institutions that cannot tolerate uncertainty.
 
 ---
 
-## 🧠 Misrecognition, not malice  
+## 🧠 Misrecognition, Not Malice  
 
 This pattern does not require villains.
 
@@ -98,7 +98,7 @@ It is the **loss of corrective feedback** at the moment it is most needed.
 
 ---
 
-## 🟥 How this operates as anti-Palestinian racism  
+## 🟥 How This Operates As Anti-Palestinian Racism  
 
 Anti-Palestinian racism rarely presents as explicit hostility.  
 It presents as **systematic misrecognition**.
@@ -117,21 +117,21 @@ The prevention-threat inversion lands unevenly because Palestinians are position
 
 ---
 
-## 🎬 Cultural rehearsal of Palestinian disposability  
+## 🎬 Cultural Rehearsal of Palestinian Disposability  
 
 Popular film and television have long normalised this frame by treating Palestinian presence as background risk rather than human life.
 
 Examples include:
 
-- **[Munich](chatgpt://generic-entity?number=0)**  
+- **Munich**  
   Israeli trauma is foregrounded; Palestinian death becomes contextual noise.  
   Prevention is framed through elimination rather than justice.
 
-- **[World War Z](chatgpt://generic-entity?number=1)**  
+- **World War Z**  
   Israel is depicted as uniquely rational and defensive.  
   Palestinian absence becomes part of the fantasy of safety.
 
-- **[Fauda](chatgpt://generic-entity?number=2)**  
+- **Fauda**  
   Palestinian society is rendered primarily as militant infrastructure.  
   Everyday Palestinian life is rarely legible except as cover for threat.
 
@@ -142,7 +142,7 @@ It rehearses the emotional logic that policy later relies on.
 
 ---
 
-## 🔥 Why this disables genocide prevention  
+## 🔥 Why This Disables Genocide Prevention  
 
 Genocide prevention depends on recognising:
 - civilians as civilians  
@@ -170,7 +170,7 @@ The same logic rebounds onto others — journalists, academics, Jewish anti-Zion
 
 ---
 
-## 🧩 What this node is not  
+## 🧩 What This Node Is Not  
 
 This node is not:
 - a legal brief  
@@ -182,7 +182,7 @@ Those questions are handled elsewhere in the cluster.
 
 ---
 
-## 🧭 How to read the cluster  
+## 🧭 How To Read The Cluster  
 
 This node is the **door**, not the room.
 
@@ -196,7 +196,7 @@ Read later nodes as specialisations of this inversion, not repetitions.
 
 ---
 
-## 🔁 how the prevention–threat inversion rebounds onto jewish dissent
+## 🔁 How The Prevention–Threat Inversion Rebounds Onto Jewish Dissent
 
 once anti-palestinian racism is normalised as misrecognition,
 it does not stay contained.
@@ -237,7 +237,7 @@ expressed through enforced monolith rather than overt hostility.
 
 ---
 
-## 🧭 diagnostic checklist: signs of anti-palestinian misrecognition
+## 🧭 Diagnostic Checklist: Signs of Anti-Palestinian Misrecognition
 
 you may be looking at anti-palestinian misrecognition
 rather than neutral security judgement if:
@@ -285,15 +285,16 @@ genocide prevention, cppcg, early warning, anti-palestinian racism, misrecogniti
 
 ## 🏮 Footer  
 
-*When prevention looks like threat* is a living node of the **Polaris Protocol**.
+*🌀 When Prevention Looks Like Threat* is a living node of the **Polaris Protocol**.
 
 It contributes by naming a repeatable failure mode that appears when genocide-prevention obligations collide with institutional risk management and unresolved historical self-narratives.
 
 > 📡 Cross-references:
-> - 🍉 *Fulfilling CPPCG & Protecting IHL* — cluster orientation  
-> - 🗺️ *CPPCG layers: who carries what* — responsibility mapping  
+> 
+> - [🍉 Fulfilling CPPCG & Protecting IHL](./README.md) — *cluster orientation*  
+> - [*Pending:* 🗺️ CPPCG layers: who carries what] — *responsibility mapping*  
 
 *Survivor authorship is sovereign.*  
 *Containment is never neutral.*  
 
-_Last updated: 2026-01-02_
+_Last updated: 2026-01-03_
