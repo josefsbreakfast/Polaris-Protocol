@@ -18,6 +18,14 @@ In that intersection, **who speaks** matters as much as *what is said*.
 
 And some of us, in the current UK political environmemt, cannot safely speak.  
 
+My honest first reaction was one of anxiety and fear, because the recent racialisation of many of us and the rhetoric of "go home" is intense enough, that however sweet and lovely a project would be, the size and scale of the project in context triggered those emotions for me.  
+
+This is not a comment on the project in its form, or of the work and effort over many years; clickbait headlines flattened this dimension, and my first response was fear.  
+
+I am dosclosing this with the vulnerability of a doxxed, harrased Jewish woman; I know that this carries risk to voice anything, but I know how many other people feel this way, may have a similar reaction, and feel they cannot say anything at all, or must publically agree to assimilate.  
+
+This is an invotation to dialogue, an invitation to transparency, and an invotation to white Christians and those passably so, to speak to protect and uplift of those most impacted in your UK community.  
+
 ---
 
 ## 🧩 The Asymmetry Problem
@@ -167,6 +175,11 @@ religious monuments, pluralism, discourse asymmetry, christian identity, public 
 
 *Why White Christians Need to Speak Up About the Hoop* is a living node of the **Polaris Protocol**.  
 It documents how silence, asymmetry, and symbolic power interact in contested civic space — and why responsibility shifts toward those most able to speak without distortion.
+
+> 📡 Cross-references:
+> 
+> - [✨ How Much to Turn the Stars Back On](../../../🦆_Digital_Disruption/🐝_All_In_Commons/✨_how_much_to_turn_the_stars_back_on.md)
+> - [🪢 Re-Embodied Dialogue & Civic Presence](../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/🪢_re_embodied_dialogue_and_civic_presence.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
