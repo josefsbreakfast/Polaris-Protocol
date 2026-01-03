@@ -368,6 +368,15 @@ dissent, early warning, genocide prevention, misrecognition, anti-palestinian ra
 
 *🔥 Dissent as Diagnostic Evidence* is a diagnostic node within the **Polaris Protocol**, situated in the **Fulfilling CPPCG / Protecting IHL** cluster.
 
-It maps how dissent functions as an early signal under conditions of moral, legal, and narrative stress, and how suppression of that signal increases systemic risk.
+It maps how dissent functions as an early signal under conditions of moral, legal, and narrative stress, and how suppression of that signal increases systemic risk.  
+
+> 📡 Cross-references:
+> 
+> - [🐼 Policing an Unknown](./🐼_policing_an_unknown.md)
+> - [🗺️ CPPCG Layers: Who Carries What](./🗺️_cppcg_layers_who_carries_what.md)
+> - [🔥 Narrative Inversion: When Refusal Is Framed as Threat](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md)  
+> - [🔮 Visibility Collapse of Dissenting Bodies](../../../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md)
+> - [🩸 Bodily Risk as Political Speech](../../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_bodily_risk_as_political_speech.md)  
+
 
 _Last updated: 2026-01-03_
