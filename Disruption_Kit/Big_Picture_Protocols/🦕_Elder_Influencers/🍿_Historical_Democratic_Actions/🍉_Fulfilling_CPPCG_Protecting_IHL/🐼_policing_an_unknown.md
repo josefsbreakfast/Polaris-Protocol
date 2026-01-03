@@ -1,7 +1,7 @@
 # 🐼 Policing an Unknown  
 **First created:** 2026-01-02 | **Last updated:** 2026-01-03  
 *How overreach happens without villains — when uncertainty hardens into authority.*
-
+<!--Please bear with me on a table update; it has been allsorts of strange in production.-->
 ---
 
 ## 🛰️ Orientation  
