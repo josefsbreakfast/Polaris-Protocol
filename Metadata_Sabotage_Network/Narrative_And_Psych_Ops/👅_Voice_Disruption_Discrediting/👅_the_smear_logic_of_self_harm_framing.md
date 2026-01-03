@@ -23,9 +23,7 @@ The goal of this node is not to litigate moral correctness, but to map the mecha
 
 ---
 
-## 🧿 Analysis
-
-## 1. What Self-Harm Framing Does  
+## 🔥 What Self-Harm Framing Does  
 Self-harm framing performs three key rhetorical mutations:
 
 1. **Political refusal → emotional instability**  
@@ -43,7 +41,7 @@ Pathologisation is not accidental; it is functional.
 
 ---
 
-## 2. Why Hunger Strikes Are Especially Vulnerable  
+## 🌀 Why Hunger Strikes Are Especially Vulnerable  
 Hunger strikes occupy a liminal space in institutional logic:
 
 - They involve deliberate bodily harm,  
@@ -62,7 +60,7 @@ This becomes a semantic shortcut to avoid confronting the political meaning of t
 
 ---
 
-## 3. Case Example: Palestine Action Hunger Strikes  
+## 🍉 Case Example: Palestine Action Hunger Strikes  
 In the current context, several young detainees associated with Palestine Action:
 
 - are in prolonged pre-trial detention,  
@@ -84,7 +82,7 @@ The clash between **political refusal** and **pathological framing** becomes its
 
 ---
 
-## 4. The Four Tactics of Self-Harm Smear Logic
+## 👾 The Four Tactics of Self-Harm Smear Logic
 
 ### **a. Depoliticising Language**  
 Refusal becomes “self-neglect,” “refusal of sustenance,” or “risk behaviour.”  
@@ -107,7 +105,7 @@ These tactics operate together to dissolve meaning into pathology.
 
 ---
 
-## 5. Why Institutions Use This Frame  
+## 🦤 Why Institutions Use This Frame  
 Self-harm framing solves institutional dilemmas:
 
 - **It eliminates the need to engage with political grievances.**  
@@ -120,7 +118,7 @@ The refusal body threatens classification; the smear restores it.
 
 ---
 
-## 6. Where the Logic Breaks: Embodiment vs Pathology  
+## 💔 Where the Logic Breaks: Embodiment vs Pathology  
 Self-harm framing becomes difficult to maintain when:
 
 - deterioration is visible,  
@@ -141,7 +139,7 @@ Institutional overreach and narrative incoherence amplify this suspicion.
 
 ---
 
-## 7. The Governance Risk of Misclassification  
+## 🧨 The Governance Risk of Misclassification  
 Smear logic is not merely rhetorical — it produces governance outcomes.
 
 Misclassifying political refusal as self-harm:
