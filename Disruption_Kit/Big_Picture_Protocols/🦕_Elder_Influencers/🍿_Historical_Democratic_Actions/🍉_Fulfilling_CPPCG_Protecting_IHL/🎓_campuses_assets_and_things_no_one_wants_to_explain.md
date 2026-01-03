@@ -273,7 +273,90 @@ This node should be read **before**:
 - arrest-pattern analysis  
 - dissent-as-evidence discussions  
 
-It explains why systems may appear to overreact without assuming intent, and how structural ambiguity feeds into the broader **prevention-as-threat inversion**.
+It explains why systems may appear to overreact without assuming intent, and how structural ambiguity feeds into the broader **prevention-as-threat inversion**.  
+
+---
+
+## 🧭 What correction would look like (without humiliation)
+
+A functional correction does not require admissions of bad faith, nor does it require retrospective punishment of institutions or individuals.
+
+It requires **procedural reset**, not moral theatre.
+
+Reasonable corrective steps would include:
+
+- **Re-baselining risk assessments**  
+  Reassessing individuals and groups without inherited terrorism or national-security tags where no new evidence exists.
+
+- **Clarifying the evidentiary threshold**  
+  Explicit separation between:
+  - lawful protest and speech  
+  - disruptive but non-terroristic direct action  
+  - genuinely violent or coercive activity  
+
+- **Decoupling political dissent from extremism frameworks**  
+  Especially where dissent is explicitly framed as genocide prevention, humanitarian protection, or compliance with international law.
+
+- **Issuing guidance updates rather than reversals**  
+  “We have refined policy in light of evolving legal and international context” allows institutions to step back without reputational collapse.
+
+- **Restoring proportionality as the default**  
+  Terrorism powers should be exceptional tools, not the baseline response to uncertainty.
+
+This approach allows institutions to correct course **without conceding malign intent**, while still meaningfully repairing harm.
+
+
+## 🗺️ Mapping this failure to CPPCG duties (Article I)
+
+Under the Convention on the Prevention and Punishment of the Crime of Genocide (CPPCG), Article I establishes a **positive duty to prevent** genocide — not merely to punish it after the fact.
+
+This duty operates across multiple layers:
+
+### Individual layer  
+Citizens, journalists, academics, and activists may reasonably interpret their obligation as:
+- raising alarm  
+- documenting harm  
+- disrupting enabling systems  
+- refusing complicity  
+
+Criminalising such actions without clear necessity risks **penalising compliance** with Article I.
+
+### Institutional layer  
+Universities, police forces, regulators, and courts hold a duty to:
+- avoid facilitating genocide materially or indirectly  
+- ensure freedom of expression around atrocity prevention  
+- prevent over-reach that suppresses early warning signals  
+
+Opaque security arrangements and inconsistent risk narratives undermine this duty.
+
+### State layer  
+States must ensure that:
+- counterterrorism frameworks are not misused to silence genocide prevention  
+- arms, finance, and intelligence decisions are subject to scrutiny  
+- domestic law does not obstruct international legal obligations  
+
+Where systems punish prevention efforts, the state risks **breaching Article I by default**, even absent intent.
+
+
+## 🧪 Safeguards checklist: how to stop this happening again
+
+This is a **post-hoc diagnostic** for policymakers, institutions, and oversight bodies.
+
+You are likely looking at a system-level failure if several of the following are true:
+
+- Risk assessments rely on **expert inputs later shown to be partisan or ideologically aligned**
+- Terrorism powers are used **pre-emptively**, without concrete evidence of violent intent
+- Transparency gaps exist between **FOI disclosures and observable practice**
+- Policing responses escalate based on **precedent rather than behaviour**
+- Protesters or journalists are treated as risks due to **association or narrative**, not action
+- Dissent is framed as “emotional,” “inflammatory,” or “destabilising” rather than evaluated on substance
+- Corrections are avoided due to **institutional embarrassment or fear of political fallout**
+
+If these conditions are present, the issue is not public order.
+
+It is **systemic misrecognition**.
+
+And without intervention, such systems will continue to escalate — not because they are malicious, but because they are designed to.
 
 ---
 
@@ -286,7 +369,7 @@ Universities as defence-adjacent space; jurisdictional ambiguity; securitisation
 
 ## ✨ Stardust  
 
-universities, defence research, dual-use assets, jurisdictional ambiguity, FOI, transparency, securitisation drift, precedent anxiety, policing escalation
+universities, defence research, dual-use assets, jurisdictional ambiguity, FOI, transparency, securitisation drift, precedent anxiety, policing escalation, project esther, project 2025  
 
 ---
 
