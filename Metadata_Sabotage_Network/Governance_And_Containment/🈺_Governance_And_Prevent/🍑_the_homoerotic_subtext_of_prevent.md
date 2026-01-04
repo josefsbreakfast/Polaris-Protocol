@@ -123,10 +123,7 @@ We apologise for nothing.
 > 
 > - [🧪 Male Ejaculation Encoded in Female Data Subjects](./🧪_male_ejaculation_encoded_in_female_data_subjects.md) – *and yet still: somehow our problem*
 > - [🧬 Metadata-Driven Racism](./🧬_metadata_driven_racism.md)
-> - [✈️ The Politics of Redaction](./✈️_the_politics_of_redaction.md)
-> - [✈️ Release the British Files](../🈴_Allies_And_Ethics/✈️_release_the_british_files.md)
-> - [🧬 What a CSA System Optimised for Prevention Looks Like](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_what_a_csa_system_optimised_for_prevention_looks_like.md)
-> - [⚔️ Culture War Risk Logic in UK Public Institutions](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚔️_culture_war_risk_logic_in_uk_public_institutions.md)
+> - [🦂 Fanon: Symbolic Possession & Racialised Sexual Domination](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🦂_fanon_symbolic_possession_and_racialised_sexual_domination.md)  
 > - [💞 Queer Theory as Relational Literacy](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💞_queer_theory_as_relational_literacy.md)  
 
 _Last updated: 2026-01-04_
