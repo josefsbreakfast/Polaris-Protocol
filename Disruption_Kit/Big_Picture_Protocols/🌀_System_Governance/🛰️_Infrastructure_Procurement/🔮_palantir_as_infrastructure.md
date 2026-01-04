@@ -1,10 +1,10 @@
 # 🔮 Palantir as Infrastructure  
-**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-26 | **Last updated:** 2026-01-04  
 *Why this is not “just software”.*  
 
 ---
 
-## Summary
+## 🛰️ Summary
 
 This node explains why Palantir should be understood as **infrastructure**, not a tool or application.
 
@@ -18,7 +18,7 @@ Once embedded, infrastructure:
 
 ---
 
-## The Category Error: Treating Platforms as Tools
+## 🔬 The Category Error: Treating Platforms as Tools
 
 Public discussion often frames Palantir as:
 - analytics software
@@ -43,7 +43,7 @@ Palantir functions as the latter.
 
 ---
 
-## What Palantir Actually Does
+## 🪣 What Palantir Actually Does
 
 At a technical and organisational level, platforms like Palantir:
 
@@ -65,7 +65,7 @@ They:
 
 ---
 
-## Ontology: The Hidden Power
+## 🧨 Ontology: The Hidden Power
 
 Every platform encodes an **ontology** — a model of what exists and how it relates.
 
@@ -85,7 +85,7 @@ Users interact with outputs, not assumptions.
 
 ---
 
-## Dashboards Are Not Neutral
+## 👾 Dashboards Are Not Neutral
 
 Dashboards:
 - privilege what can be counted
@@ -105,7 +105,7 @@ What is not surfaced is treated as non-existent.
 
 ---
 
-## Workflow Is Governance
+## 👑 Workflow Is Governance
 
 Infrastructure governs not by command, but by **making some actions easy and others hard**.
 
@@ -125,7 +125,7 @@ Governance shifts without formal change.
 
 ---
 
-## Path Dependency and Lock-In
+## 🧪 Path Dependency and Lock-In
 
 Once embedded, infrastructure creates dependency through:
 - training costs
@@ -144,7 +144,7 @@ This is the defining feature of infrastructure power.
 
 ---
 
-## Why This Matters in High-Stakes Domains
+## ⚡️ Why This Matters in High-Stakes Domains
 
 When such platforms operate in:
 - healthcare
@@ -170,7 +170,7 @@ It lands hardest on:
 
 ---
 
-## Not Malice — Amplification
+## 🌋 Not Malice — Amplification
 
 None of this requires:
 - bad faith
@@ -202,7 +202,7 @@ This node links directly to:
 
 ## One-line takeaway
 
-> Palantir is not dangerous because it makes decisions, but because it quietly reshapes how decisions are seen, prioritised, and justified — and then makes that shape difficult to undo.
+> Palantir is not dangerous because it makes decisions, but because it quietly reshapes how decisions are seen, prioritised, and justified — and then makes that shape difficult to undo.  
 
 ---
 
@@ -215,5 +215,5 @@ This node links directly to:
 > - [🔥 Rights as Friction](../⚖️_Legal_State_Governance/🔥_rights_as_friction.md)  
 > - [🧠 Epistemic Asymmetry in Security Systems](../💫_Containment_Logic/🧠_epistemic_asymmetry_in_security_systems.md)  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-01-04_
 
