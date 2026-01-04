@@ -106,7 +106,7 @@ It documents how innovation frameworks reclassify human experimentation as pedag
 
 > 📡 Cross-references:
 > 
-> - [🩹 Pain Is Not a KPI](./💫_Containment_Logic/🩹_pain_is_not_a_kpi.md) — *incentive structures and invisibility of suffering*  
+> - [🩹 Pain Is Not a KPI](../💫_Containment_Logic/🩹_pain_is_not_a_kpi.md) — *incentive structures and invisibility of suffering*  
 > - [🧠 Good Doctors Are Not Nazis](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_good_doctors_are_not_nazis.md)  
 > - [🧪 How Scientists Go Nazi](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧪_how_scientists_go_nazi.md)  
 > - [🩺 Governing Doctors in the UK](../💫_Containment_Logic/🩺_governing_doctors_in_uk.md)  
