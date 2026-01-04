@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-04 18:39:23 UTC_
+_Generated on 2026-01-04 18:39:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3293,7 +3293,6 @@ _Generated on 2026-01-04 18:39:23 UTC_
       - [`british_bureaucratic_theocracy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/british_bureaucratic_theocracy.md)
       - [`male_emotion_as_epistemic_authority.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/male_emotion_as_epistemic_authority.md)
       - [`male_emotional_states_as_risk_metadata.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/male_emotional_states_as_risk_metadata.md)
-      - [`safeguarding_as_soft_authoritarianism.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/safeguarding_as_soft_authoritarianism.md)
       - [`the_ejaculatory_projection_pipeline.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/the_ejaculatory_projection_pipeline.md)
       - [`transatlantic_protection_rackets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/transatlantic_protection_rackets.md)
       - [`⚖️_adaptive_containment_thresholds.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_adaptive_containment_thresholds.md)
@@ -3383,6 +3382,7 @@ _Generated on 2026-01-04 18:39:23 UTC_
       - [`🧨_pathways_of_escalation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧨_pathways_of_escalation.md)
       - [`🧨_prevent_as_an_institutional_fear_engine.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧨_prevent_as_an_institutional_fear_engine.md)
       - [`🧨_prevent_the_parliamentary_surveillance_machine.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧨_prevent_the_parliamentary_surveillance_machine.md)
+      - [`🧨_safeguarding_as_soft_authoritarianism.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧨_safeguarding_as_soft_authoritarianism.md)
       - [`🧨_unusual_contact_misread.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧨_unusual_contact_misread.md)
       - [`🧩_bit_vs_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_bit_vs_prevent.md)
       - [`🧩_cabinet_churn_identity_cards.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)
