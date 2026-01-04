@@ -1,5 +1,5 @@
 # ⚖️ Registered Professions Impact  
-**First created:** 2025-09-26 | **Last updated:** 2026-01-01  
+**First created:** 2025-09-26 | **Last updated:** 2026-01-04  
 *How manufactured provenance disproportionately affects registered professionals in healthcare, law, education, and social work.*  
 
 ---
@@ -23,7 +23,7 @@ fuel, electricity and food into Gaza".
 - UK Parliament confirms UK citizens can serve in IDF. No concerns of potential war crimes liability expressed.  
 - ICJ issues precautionary measures to protect the Palestinian people from genocide in Jan 2024; all territories, all states, all organisations, all individuals liable.
 - Jan 2024 BMA issues first position paper.
-- Hind Rajab is murdered in Jan 2024. Emergency responders hit en route to attend. Hind can be heard being talked through the trauma of being stuck in a vehicle with the deceased bodies of six relatives, by PRCS calk responders. BBC reports as "found dead", without agency. US-made anti-tank shell found with over 300 rounds; investigation conducted over following months divides international community. Due to mainstream language in media reporting, diaspora citizens are most impacted with little knowledge or hnderstanding from wider imperial core society. Algorithmically siloed.  
+- Hind Rajab is murdered in Jan 2024. Emergency responders hit en route to attend. Hind can be heard being talked through the trauma of being stuck in a vehicle with the deceased bodies of six relatives, by PRCS call responders. BBC reports as "found dead", without agency. US-made anti-tank shell found, with over 300 rounds in vehicle itself; investigation conducted over following months divides international community. Due to poor linguistics within mainstream media reporting, diaspora citizens are left most impacted with little knowledge or hnderstanding from wider imperial core society. Algorithmically siloed.  
 - Sieges of hospitals follow Al-Ahli Arab Hospital; Al-Shifa first two sieges in Apr 2024 are especially escalatory. Significant evidence of systematic war crimes to digital observers. Imperial core medical associations hesitate, known lawfare pressure towards individuals, unknown to wider associations. As reference, whilst not directly alike, action was taken in late apartheid by other countries' MAs to protest SA inclusion in WMA, inc BMA. Drs' unions are political because unions are political bodies by their very nature; this should not be so difficult for politicians and political commentators to understand. GMC by comparison is highly socially conservative, biases are still in place today and strategic plans within wider profession to action downstream impacts (which remain significant).
 - By Mar 2024, JAMA has still published several letters with APR, and debunked claims re health facilities. BBC publishing IDF auth account of Al-Shifa seige, without reference to mass graves.
 - Mar 2024 BMA calls for investigation into treatment of healthcare staff; emphathises medical neutrality.
@@ -76,7 +76,11 @@ Combatants Law" (domestic IL law).
 - [Dr. Ghassan Abu-Sittah: Doctor describes horrors he's seeing in Gaza](https://www.youtube.com/shorts/satjcD2BGcQ), CNN.
 - [Doctors Against Genocide visits US Congress to call on government to cut aid to Israel](https://youtube.com/shorts/rTZuTQdZ65o?si=xuzfFkZvkvytzAjI), DAG. Jan 2025.
 - [“You Need to Choose”: Dr. Mads Gilbert on Medical Solidarity with Gaza as Israel Targets Hospitals](https://youtu.be/OQDaB2Jd3Fc?si=xwfzL9RtvDe5fGjK), Oct 2023.
-- [B’Tselem: "Welcome to Hell" Report](https://www.btselem.org/publications/202408_welcome_to_hell)  
+- [B’Tselem: "Welcome to Hell" Report](https://www.btselem.org/publications/202408_welcome_to_hell)
+- [Recent coverage, "The Voice Of Hind Rajab" cinematic release](https://vm.tiktok.com/ZNRMCEuaN/), Sky News.
+- [Contemporanious coverage of discovery of Hind's body (z"L](https://english.almayadeen.net/news/politics/search-for-hind-comes-to-tragic-end--found-dead-amid-pile-of), Al Mayadeen.
+- [Contemporanious coverage of Hind Rajab Foundation prosecution cases: "Legal noose tightens: Israeli commanders, politicians, 1,000 soldiers could face ICC action"](https://www.aa.com.tr/en/middle-east/legal-noose-tightens-israeli-commanders-politicians-1-000-soldiers-could-face-icc-action/3413175#), Anadolu Ajansı.
+- 
 
 
 ---
@@ -102,4 +106,4 @@ It analyses the systemic risks posed to registered professions when provenance i
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-01-04_
