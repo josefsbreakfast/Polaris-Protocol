@@ -107,7 +107,8 @@ It marks the point where market smoothing masks democratic collapse.
 > 
 > - [📜 Funding and Charitable Status Timeline](./📜_funding_and_charitable_status_timeline.md)  
 > - [⚖️ Charitable Status Paradox](./⚖️_charitable_status_paradox.md)
-> - [🌀 The Full Authoritarian Capture Lifecycle](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_authoritarian_capture_lifecycle.md)  
+> - [🌀 The Full Authoritarian Capture Lifecycle](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_authoritarian_capture_lifecycle.md)
+> - [👾 Why Policing and PREVENT Are Susceptible to Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_authoritarian_drift.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
