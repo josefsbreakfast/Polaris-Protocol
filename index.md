@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-04 18:41:30 UTC_
+_Generated on 2026-01-04 18:42:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3290,8 +3290,6 @@ _Generated on 2026-01-04 18:41:30 UTC_
         - [`👾_why_policing_and_prevent_are_susceptible_the_literal_fashion_police.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_the_literal_fashion_police.md)
         - [`👾_why_policing_and_prevent_are_susceptible_transphobia.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_transphobia.md)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)
-      - [`male_emotional_states_as_risk_metadata.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/male_emotional_states_as_risk_metadata.md)
-      - [`the_ejaculatory_projection_pipeline.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/the_ejaculatory_projection_pipeline.md)
       - [`⚖️_adaptive_containment_thresholds.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_adaptive_containment_thresholds.md)
       - [`⚖️_palestine_action_proscription_case_study.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_palestine_action_proscription_case_study.md)
       - [`⚠️_misaligned_risk_reflexes_in_safeguarding_and_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚠️_misaligned_risk_reflexes_in_safeguarding_and_prevent.md)
@@ -3335,6 +3333,7 @@ _Generated on 2026-01-04 18:41:30 UTC_
       - [`🔥_metadata_vs_human_referral.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_metadata_vs_human_referral.md)
       - [`🔥_prevent_the_big_sell.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔥_prevent_the_big_sell.md)
       - [`🔦_why_we_cannot_know_who_prevent_really_targets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔦_why_we_cannot_know_who_prevent_really_targets.md)
+      - [`🔬 _the_ejaculatory_projection_pipeline.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔬 _the_ejaculatory_projection_pipeline.md)
       - [`🔮_uk_digital_id_risk_forecast.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🔮_uk_digital_id_risk_forecast.md)
       - [`🕯️_prevent_and_the_encampment_silence.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕯️_prevent_and_the_encampment_silence.md)
       - [`🕳️_the_channel_panel_problem.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕳️_the_channel_panel_problem.md)
@@ -3375,6 +3374,7 @@ _Generated on 2026-01-04 18:41:30 UTC_
       - [`🧠_behavioral_nudge_as_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_behavioral_nudge_as_containment.md)
       - [`🧠_behavioral_reengagement_as_containment_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_behavioral_reengagement_as_containment_loop.md)
       - [`🧠_gendered_and_racialised_prevent_channel_misuse.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_gendered_and_racialised_prevent_channel_misuse.md)
+      - [`🧠_male_emotional_states_as_risk_metadata.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_male_emotional_states_as_risk_metadata.md)
       - [`🧠_safeguarding_to_ai_pipeline.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_safeguarding_to_ai_pipeline.md)
       - [`🧠_the_continuum_of_authoritarian_drift.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md)
       - [`🧠_white_immunity_blindspot.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_white_immunity_blindspot.md)
