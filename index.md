@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-04 18:39:04 UTC_
+_Generated on 2026-01-04 18:39:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3291,7 +3291,6 @@ _Generated on 2026-01-04 18:39:04 UTC_
         - [`👾_why_policing_and_prevent_are_susceptible_transphobia.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_transphobia.md)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)
       - [`british_bureaucratic_theocracy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/british_bureaucratic_theocracy.md)
-      - [`male_ejaculation_encoded_in_female_data_subjects.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/male_ejaculation_encoded_in_female_data_subjects.md)
       - [`male_emotion_as_epistemic_authority.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/male_emotion_as_epistemic_authority.md)
       - [`male_emotional_states_as_risk_metadata.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/male_emotional_states_as_risk_metadata.md)
       - [`safeguarding_as_soft_authoritarianism.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/safeguarding_as_soft_authoritarianism.md)
@@ -3393,6 +3392,7 @@ _Generated on 2026-01-04 18:39:04 UTC_
       - [`🧩_how_precrime_systems_create_crises.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_how_precrime_systems_create_crises.md)
       - [`🧩_policy_capture_quilliam_ctsa_2015.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_policy_capture_quilliam_ctsa_2015.md)
       - [`🧩_the_neurodivergence_misread.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_the_neurodivergence_misread.md)
+      - [`🧪_male_ejaculation_encoded_in_female_data_subjects.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧪_male_ejaculation_encoded_in_female_data_subjects.md)
       - [`🧬_a_ladder_of_accountability.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_a_ladder_of_accountability.md)
       - [`🧬_metadata_driven_racism.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_metadata_driven_racism.md)
       - [`🧬_proto_secret_police_architecture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_proto_secret_police_architecture.md)
