@@ -160,9 +160,9 @@ It identifies recurring belief structures that enable repeated economic harm whi
 
 > 📡 Cross-references:
 > 
-> - [🦕 Geological Timescale Economics: Make New Dinosaurs](../../🌀_System_Governance/🧪_Development_Experimentation/🦕_geological_timescale_economics_make_new_dinosaurs.md) — *exposed absurdity*  
-> - [🧬 Irreversible Limits: When Physics Refuses Economic Fantasy](../../🌀_System_Governance/⚖️_Legal_State_Governance/🧬_irreversible_limits.md) — *boundary conditions*  
-> - [🪦 The Protagonist Problem](../../🌀_System_Governance/💫_Containment_Logic/🪦_the_protagonist_problem.md) — *narrative immunity*  
+> - [🦕 Geological Timescale Economics: Make New Dinosaurs](../../../🌀_System_Governance/🧪_Development_Experimentation/🦕_geological_timescale_economics_make_new_dinosaurs.md) — *exposed absurdity*  
+> - [🧬 Irreversible Limits: When Physics Refuses Economic Fantasy](../../../🌀_System_Governance/⚖️_Legal_State_Governance/🧬_irreversible_limits.md) — *boundary conditions*  
+> - [🪦 The Protagonist Problem](../../../🌀_System_Governance/💫_Containment_Logic/🪦_the_protagonist_problem.md) — *narrative immunity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
