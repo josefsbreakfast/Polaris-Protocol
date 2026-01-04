@@ -1,6 +1,6 @@
 # 🎙️ ABE and Digital Evidence as a Critical Failure Point  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*Why audio-visual evidence—especially ABE interviews—forms the most fragile and leakiest point in sexual offence investigations.*
+**First created:** 2025-12-14 | **Last updated:** 2026-01-04  
+*Why audio-visual evidence—especially ABE interviews—forms the most fragile and leakiest point in sexual offence investigations.*  
 
 ---
 
@@ -173,15 +173,15 @@ abe_interviews, digital_evidence, audio_visual_risk, transcription_tools, redact
 
 ## 🏮 Footer  
 
-*ABE and Digital Evidence as a Critical Failure Point* is a suppression-layer node of the **Polaris Protocol**.  
+*🎙️ ABE and Digital Evidence as a Critical Failure Point* is a suppression-layer node of the **Polaris Protocol**.  
 It documents how the most protective evidential practice in sexual offence investigations becomes the most fragile point once it enters modern digital workflows.
 
 > 📡 Cross-references:
 > 
-> - [🧪 R&D as a Silent Leakage Corridor] — downstream processing  
-> - [🏷️ High Schedule Is System-Bound, Not Data-Bound] — protection collapse  
-> - [🎯 Probabilistic Targeting Over Individual Hacking] — pressure dynamics  
+> - [🧪 R&D as a Silent Leakage Corridor](./🧪_r_and_d_as_silent_leakage_corridor.md) — *downstream processing*  
+> - [🏷️ High Schedule Is System-Bound, Not Data-Bound](../../Structural_Analysis/🧼_System_Leakage_Signatures/🏷️_high_schedule_is_system_bound_not_data_bound.md) — *protection collapse*  
+> - [🎯 Probabilistic Targeting Over Individual Hacking](../../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎯_probabilistic_targeting_over_individual_hacking.md) — *pressure dynamics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-04_
