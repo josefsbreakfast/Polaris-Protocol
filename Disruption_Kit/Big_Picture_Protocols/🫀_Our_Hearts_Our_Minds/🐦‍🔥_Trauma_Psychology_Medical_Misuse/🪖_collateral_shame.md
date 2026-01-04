@@ -1,6 +1,6 @@
-# 🪖 Collateral Shame: Moral Injury, Veterans, & the Counterinsurgency Age
-**First created:** 2025-10-25 | **Last updated:** 2025-11-12  
-*How modern warfare externalises responsibility and internalises trauma.*
+# 🪖 Collateral Shame: Moral Injury, Veterans, & the Counterinsurgency Age  
+**First created:** 2025-10-25 | **Last updated:** 2026-01-04  
+*How modern warfare externalises responsibility and internalises trauma.*  
 
 ---
 
@@ -116,10 +116,10 @@ and how survivors—military and civilian alike—can reassemble accountability 
 
 > 📡 Cross-references:
 > 
-> - 🤦‍♀️ Operation Shande — the bureaucratic shame engine  
-> - ⚙️ Automated Escalation — Workflow Engines of Containment  
+> - [🩸 Operation Shande](../../🌀_System_Governance/📚_Narrative_Management/🩸_operation_shande.md) — the bureaucratic shame engine  
+> - [⚙️ Automated Escalation — Workflow Engines of Containment](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/⚙️_engines_of_containment.md) — Workflow Engines of Containment  
 > - 🧠 Misclassifying Intellectual Intimacy  
 
 *Repair begins when responsibility is shared, not shifted.*
 
-_Last update: 2025-11-12_
+_Last update: 2026-01-04_
