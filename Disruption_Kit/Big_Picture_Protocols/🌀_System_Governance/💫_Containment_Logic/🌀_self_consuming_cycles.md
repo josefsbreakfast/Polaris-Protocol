@@ -1,5 +1,5 @@
 # 🌀 Self-Consuming Cycles — When Systems Eat Their Own Ethics  
-**First created:** 2025-10-25 | **Last updated:** 2025-12-25  
+**First created:** 2025-10-25 | **Last updated:** 2026-01-04  
 *How bureaucratic, psychological, and technological structures metabolise critique into fuel.*  
 
 ---
@@ -23,12 +23,12 @@ This node provides a shared vocabulary to spot and document such loops throughou
 
 | Cycle type | Description | Example Polaris nodes | What it consumes |
 |-------------|--------------|-----------------------|------------------|
-| **Administrative shame loop** | Institution exposed → apologises → performs reform → re-uses scandal as proof of virtue | [🤦‍♀️ Operation Shande](../🤦‍♀️_operation_shande.md), [⚙️ Automated Escalation](../⚙️_automated_escalation.md) | Its own embarrassment |
-| **Therapeutic containment loop** | Harm named → routed into therapy → system unchanged → new case proves service “needed” | [🪖 Moral Injury & Veterans](../🪖_moral_injury_and_veterans.md), [🪬 Survivor Tools](../🪬_survivor_tools.md) | The symptom it treats |
-| **Visibility-suppression loop** | Data exposed → flagged → hidden → suppression logged as moderation success | [🔥 Suppression as Signal](../🔥_suppression_as_signal.md), [🧿 Metadata Sabotage Network](../🧿_metadata_sabotage_network.md) | Its own corrective |
-| **Innovation-risk loop** | Tech failure → ethics board → new grant → same structure rebuilt | [🧠 Machine Learning as Moral Re-education](../🧠_machine_learning_as_moral_re_education.md), [🎛 Docility Engine](../🎛_docility_engine.md) | Its own critique |
-| **Mutual-aid fatigue loop** | Community overextends → burnout → institutional praise → renewed extraction | [⚖️ Rights & Redress](../⚖️_rights_and_redress.md), [🪞 Community Ombuds Node](../🪞_community_ombuds_node.md) | Its own care impulse |
-| **Narrative-control loop** | Leak → PR containment → inquiry → leaks about inquiry → reputation rebuilt | [🎈 Intentional Leak Hypothesis](../🎈_intentional_leak_hypothesis.md), [📊 Leak Archive Protocol](../📊_leak_archive_protocol.md) | Its own exposure |
+| **Administrative shame loop** | Institution exposed → apologises → performs reform → re-uses scandal as proof of virtue | [🩸 Operation Shande](../📚_Narrative_Management/🩸_operation_shande.md), [⚙️ Automated Escalation — Workflow Engines of Containment](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/⚙️_engines_of_containment.md) | Its own embarrassment |
+| **Therapeutic containment loop** | Harm named → routed into therapy → system unchanged → new case proves service “needed” | [🪖 Collateral Shame: Moral Injury, Veterans, & the Counterinsurgency Age](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪖_collateral_shame.md), [🧬 Survivor Tools](../../../Survivor_Tools/README.md) | The symptom it treats |
+| **Visibility-suppression loop** | Data exposed → flagged → hidden → suppression logged as moderation success | [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md), [🛰️ Metadata Sabotage Network](../../../../Metadata_Sabotage_Network/README.md) | Its own corrective |
+| **Innovation-risk loop** | Tech failure → ethics board → new grant → same structure rebuilt | [🧠 Machine Learning as Moral Re-education](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧠_machine_learning_as_moral_reeducation.md), [🌀 Docility Engine](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md) | Its own critique |
+| **Mutual-aid fatigue loop** | Community overextends → burnout → institutional praise → renewed extraction | [⚖️ Redress Models and Limits](../⚖️_Legal_State_Governance/⚖️_redress_models_and_limits.md), [*Pending:* 🪞 Community Ombuds Node] | Its own care impulse |
+| **Narrative-control loop** | Leak → PR containment → inquiry → leaks about inquiry → reputation rebuilt | [🎈 Intentional Leak Hypothesis](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🎈_intentional_leak_hypothesis.md), [🌂 Leak Archive Protocol](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🌂_leak_archive_protocol.md) | Its own exposure |
 
 ---
 
@@ -84,4 +84,4 @@ and offers methods to name and interrupt repetition.
 
 *Recognition is not enough; the loop breaks only when the appetite for its own virtue runs out.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-04_
