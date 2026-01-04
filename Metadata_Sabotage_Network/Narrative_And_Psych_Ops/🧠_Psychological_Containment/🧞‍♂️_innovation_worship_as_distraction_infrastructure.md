@@ -1,6 +1,6 @@
-# 🧞‍♂️ Innovation worship as distraction infrastructure  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*How innovation rhetoric functions as narrative cover for resource depletion, systemic fragility, and governance failure.*
+# 🧞‍♂️ Innovation Worship As Distraction Infrastructure  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-04  
+*How innovation rhetoric functions as narrative cover for resource depletion, systemic fragility, and governance failure.*  
 
 ---
 
@@ -172,15 +172,15 @@ innovation rhetoric, narrative distraction, tech ideology, progress myths, metad
 
 ## 🏮 Footer  
 
-*🧞‍♂️ Innovation worship as distraction infrastructure* is a narrative-analysis node of the **Polaris Protocol**.  
+*🧞‍♂️ Innovation Worship As Distraction Infrastructure* is a narrative-analysis node of the **Polaris Protocol**.  
 It documents how innovation discourse functions to obscure material limits, delay accountability, and redirect attention away from systemic risk.
 
 > 📡 Cross-references:
 > 
-> - [🔮 Magical thinking as an economic operating system] — belief persistence  
-> - [🌍 When virtual minds govern a physical planet] — abstraction mismatch  
-> - [🧠 Death-denial as policy] — elite escapism  
+> - [🔮 Magical Thinking As An Economic Operating System](../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🔮_magical_thinking_as_an_economic_operating_system.md) — *belief persistence*  
+> - [🌍 When Virtual Minds Govern A Physical Planet](../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md) — *abstraction mismatch*  
+> - [🧠 Death-Denial As Policy: Immortality Fantasies Of The Ultra-Rich](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧠_immortality_fantasies_of_the_ultra_rich.md) — *elite escapism*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-04_
