@@ -6,7 +6,7 @@ debate.*
 
 ---
 
-## 1. Why This Node Matters
+## 🛰️ Why This Node Matters
 
 You've probably seen the headlines about a West Midlands Police briefing
 that mistakenly claimed Maccabi Tel Aviv "last played in the UK in
@@ -17,7 +17,7 @@ is dangerously misplaced.
 
 ---
 
-## 2. What Really Drove the Policing Decision
+## 🗺️ What Really Drove the Policing Decision
 
 ### **Amsterdam 2023 was the true trigger**
 
@@ -44,7 +44,7 @@ This is the environment the UK police were operating in.
 
 ---
 
-## 3. The Clerical Error: What It Was and Why It Was Irrelevant
+## 👾 The Clerical Error: What It Was and Why It Was Irrelevant
 
 ### **How the mistake likely happened**
 
@@ -74,7 +74,7 @@ The November fixture error was irrelevant.
 
 ---
 
-## 4. How the Media Turned a Footnote into a Story
+## 🧿 How the Media Turned a Footnote into a Story
 
 Multiple mainstream outlets framed the error as a scandal because it
 was: - simple
@@ -91,7 +91,7 @@ operational reality.
 
 ---
 
-## 5. Parliamentary Distortion: When Politics Overrules Facts
+## 🦤 Parliamentary Distortion: When Politics Overrules Facts
 
 The committee examining this included MPs from: - Conservative Friends
 of Israel
@@ -109,7 +109,7 @@ The politicians were.
 
 ---
 
-## 6. Why This Was Not Antisemitic
+## 🪬 Why This Was Not Antisemitic
 
 You don't protect British Jews - or anyone - by ignoring genuine
 public‑order risk.
@@ -129,7 +129,7 @@ exist.*
 
 ---
 
-## 7. Genocidal Violence Doesn't Stay at Home
+## 🧨 Genocidal Violence Doesn't Stay at Home
 
 When a conflict involves: - racialised target groups
 - counterinsurgency-trained forces
@@ -150,7 +150,7 @@ They are the people the British state is obligated to protect.
 
 ---
 
-## 8. Policing Limits: The UK Cannot Safely Absorb This Risk
+## 🐼 Policing Limits: The UK Cannot Safely Absorb This Risk
 
 UK police are not equipped to: - neutralise counterinsurgency‑trained
 groups
@@ -167,7 +167,7 @@ Safety in your own city is not.
 
 ---
 
-## 9. The Real Legal Issue: The UK's Duty to Prevent Genocide
+## ⚖️ The Real Legal Issue: The UK's Duty to Prevent Genocide
 
 Under: - the **Genocide Convention**,
 - the **ICC Act 2001**,
@@ -185,7 +185,7 @@ This is the real legal risk - not a clerical error in a briefing.
 
 ---
 
-## 10. Overton Drift: When Genocide Prevention Is Framed as "Unfair"
+## 🔥 Overton Drift: When Genocide Prevention Is Framed as "Unfair"
 
 The public argument became: > "Isn't it unfair to the Maccabi fans?"
 
