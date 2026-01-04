@@ -1,5 +1,5 @@
 # 🫀 Disabled Refusal as Politics  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-03 | **Last updated:** 2026-01-04  
 *Why “no” to hospital logic is systemic, not personal.*  
 
 ---
@@ -41,9 +41,14 @@ refusal, politics, dignity, disability justice, hospital logic, containment, sur
 
 ## 🏮 Footer  
 
-*Disabled Refusal as Politics* is a living node of the Polaris Protocol.  
+*🫀 Disabled Refusal as Politics* is a living node of the Polaris Protocol.  
 It asserts refusal as collective politics, not private stubbornness.  
+
+> 📡 Cross-references:
+> 
+> - [🛠️ Disabled Design Benefits You, Too](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🛠️_disabled_design_benefits_you_too.md)  
+> - [♿ Disabled People & ID Exclusion](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/♿_disabled_people_id_exclusion.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-01-04_  
