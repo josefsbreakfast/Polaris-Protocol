@@ -1,5 +1,5 @@
 # 🪖 A Teenage Girl Was Always Worth More Than the Reputation of Dishonourable Men  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-24 | **Last updated:** 2026-01-04  
 *Defence institutions do not exist to protect elite reputations at the expense of human life.*  
 <!--I mean, so were the several honourable men and women who got gagged with the OSA when they tried to help me, but I'm feeling a bit prickly.-->
 ---
@@ -145,12 +145,12 @@ It establishes a clear ethical boundary against the misuse of defence institutio
 
 > 📡 Cross-references:
 > 
-> - [🪖 Repairing Stolen Lives] — *life-scale harm and repair*  
-> - [🪖 Classification, Suppression, and Misuse] — *secrecy as misuse*  
-> - [🪖 How Politicians Legally Strangle the MOD] — *upstream pressure, downstream harm*  
+> - [🪖 Repairing Stolen Lives](./🪖_repairing_stolen_lives.md) — *life-scale harm and repair*  
+> - [🪖 Classification, Suppression, and Misuse](../../🌀_System_Governance/⚖️_Legal_State_Governance/🪖_classification_suppression_and_misuse.md) — *secrecy as misuse*  
+> - [🪖 How Politicians Legally Strangle the MOD](../../🌀_System_Governance/⚖️_Legal_State_Governance/🪖_how_politicians_legally_strangle_the_mod.md) — *upstream pressure, downstream harm*  
 > - [🐙 The Octopus of Knowledge](../../../../🦆_Digital_Disruption/🐝_All_In_Commons/🐙_the_octopus_of_knowledge.md) — *Polaris is an octopus-friendly zone*  
 > - [🛠️ Mutual Aid Stack](../../../../🦆_Digital_Disruption/🐝_All_In_Commons/🛠️_mutual_aid_stack.md) — *we will win*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-01-04_
