@@ -1,6 +1,6 @@
 # 🏷️ High Schedule Is System-Bound, Not Data-Bound  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*Why “special category” protections attach to software environments and staff behaviour, not to the data itself.*
+**First created:** 2025-12-14 | **Last updated:** 2026-01-04  
+*Why “special category” protections attach to software environments and staff behaviour, not to the data itself.*  
 
 ---
 
@@ -28,9 +28,7 @@ This distinction explains why sexual offence data can be lawfully handled and ye
 
 ---
 
-## 🧿 Analysis  
-
-### 1. What “high schedule” actually means in practice  
+## 🦤 What “High Schedule” Actually Means In Practice  
 
 Within police, CPS, and court systems, “high schedule” typically manifests as:
 
@@ -50,7 +48,7 @@ They do not alter the data artefact itself.
 
 ---
 
-### 2. The critical misconception: classification travels with the file  
+## 🧨 The Critical Misconception: Classification Travels With The File  
 
 Many people assume that if data is “special category,” it remains so wherever it goes.
 
@@ -78,7 +76,7 @@ The moment of export is the moment of **declassification in practice**.
 
 ---
 
-### 3. Protection relies on “reasonable person” behaviour  
+## 🦆 Protection Relies On “Reasonable Person” Behaviour  
 
 Once outside the originating system, protection depends on:
 
@@ -101,7 +99,7 @@ The infrastructure does not enforce it.
 
 ---
 
-### 4. Why R&D is where the classification finally collapses  
+## 🧪 Why R&D Is Where The Classification Finally Collapses  
 
 R&D workflows are designed to:
 - transform data  
@@ -128,7 +126,7 @@ It is a predictable outcome of modern development practices.
 
 ---
 
-### 5. Legal protection vs technical protection  
+## 🩻 Legal Protection vs Technical Protection  
 
 There is a crucial asymmetry:
 
@@ -147,7 +145,7 @@ The system is compliant but unsafe.
 
 ---
 
-### 6. Consequences for sexual offence cases  
+## ⚡️ Consequences For Sexual Offence Cases  
 
 Because rape and sexual offence cases involve:
 - uniquely sensitive material  
@@ -182,15 +180,15 @@ high schedule data, special category data, system-bound protection, data export 
 
 ## 🏮 Footer  
 
-*High Schedule Is System-Bound, Not Data-Bound* is a structural analysis node of the **Polaris Protocol**.  
+*🏷️ High Schedule Is System-Bound, Not Data-Bound* is a structural analysis node of the **Polaris Protocol**.  
 It documents the precise point at which legal sensitivity ceases to function as effective protection, enabling downstream exposure without formal breach.
 
 > 📡 Cross-references:
 > 
-> - [🧼 Justice System Data as an Attack Surface] — architectural framing  
-> - [🧪 R&D as a Silent Leakage Corridor] — downstream collapse  
-> - [🧰 Vendor R&D as De-facto Declassification] — private-sector implications  
+> - [🧼 Justice System Data as an Attack Surface](./🧼_justice_system_data_as_attack_surface.md) — *architectural framing*  
+> - [🧪 R&D as a Silent Leakage Corridor](../../Suppression_Layers/📉_Suppression_Interference_Logs/🧪_r_and_d_as_silent_leakage_corridor.md) — *downstream collapse*  
+> - [🧰 Vendor R&D as De-facto Declassification](../../Suppression_Layers/📉_Suppression_Interference_Logs/🧰_vendor_r_and_d_as_de_facto_declassification.md) — *private-sector implications*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-04_
