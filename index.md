@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-04 15:17:15 UTC_
+_Generated on 2026-01-04 15:31:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3305,6 +3305,7 @@ _Generated on 2026-01-04 15:17:15 UTC_
       - [`✈️_just_arrest_them.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_just_arrest_them.md)
       - [`✈️_justice_forbidden.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_justice_forbidden.md)
       - [`✈️_the_politics_of_redaction.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_the_politics_of_redaction.md)
+      - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
       - [`❌_nothing_to_hide_fallacy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/❌_nothing_to_hide_fallacy.md)
       - [`🈺_prevent_as_structural_marginalisation.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🈺_prevent_as_structural_marginalisation.md)
       - [`🌐_prevent_as_a_democracy_suppression_engine.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌐_prevent_as_a_democracy_suppression_engine.md)
@@ -4054,7 +4055,6 @@ _Generated on 2026-01-04 15:17:15 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`ZDC_README.md`](Polaris_Nest/Git_Intake_Drawer/ZDC_README.md)
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
-    - [`✡️_faith_ethics_and_the_legal_basis_of_prevent.md`](Polaris_Nest/Git_Intake_Drawer/✡️_faith_ethics_and_the_legal_basis_of_prevent.md)
     - [`🇬🇧_how_brexit_killed_microexporters.md`](Polaris_Nest/Git_Intake_Drawer/🇬🇧_how_brexit_killed_microexporters.md)
     - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌈_prism_party.md`](Polaris_Nest/Git_Intake_Drawer/🌈_prism_party.md)
