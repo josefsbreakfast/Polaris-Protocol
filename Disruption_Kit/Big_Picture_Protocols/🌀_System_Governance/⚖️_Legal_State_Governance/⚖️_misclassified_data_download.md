@@ -115,7 +115,7 @@ It bridges intellectual-property, data-protection and defence-law frameworks for
 > 📡 Cross-references:
 > 
 > [🎙️ Unconsented Voice Beta](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎙️_unconsented_voice_beta.md) - *CVE R&D but make it somehow worse*  
-> [🎓 Student Data Abuse](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🎓_student_data_abuse.md) - *the surveillence of learning*
+> [🎓 Student Data Abuse](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🎓_student_data_abuse.md) - *the surveillence of learning*  
 > [🎓 University Vector Surveillance](../../🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🎓_university_vector_surveillance.md) - *how universities fit into the wider surveillence capitalism industrial network*  
 
 
