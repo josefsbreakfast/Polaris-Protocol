@@ -70,7 +70,7 @@ It maps how the infrastructures of influence — research funding, conferences, 
 > - [🪬 Radicalisation & Extremism](../../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md) — *for overlaps with policy laundering under security rhetoric*
 > - [🧪 Think-Tanks & Their Funding (2010–16)](./🧪_think_tanks_and_their_funding_2010_2016.md)  
 > - [🧭 Think-Tank Drift and Blurred Boundaries](./🧭_think_tank_drift_and_blurred_boundaries.md)  
-> - [🏛️ The Grey Zone Inside the Think Tan](../../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🏛️_the_grey_zone_inside_the_think_tank.md)  
+> - [🏛️ The Grey Zone Inside the Think Tank](../../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🏛️_the_grey_zone_inside_the_think_tank.md)  
 > - [🏛️ Neocon Think Tank Cluster](../../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/🏛️_neocon_think_tank_cluster.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
