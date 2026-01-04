@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-04 15:50:32 UTC_
+_Generated on 2026-01-04 15:52:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4155,7 +4155,6 @@ _Generated on 2026-01-04 15:50:32 UTC_
     - [`🧱_hostile_architecture_vs_universal_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_hostile_architecture_vs_universal_design.md)
     - [`🧱_ideological_loyalty_as_pyramid_scheme.md`](Polaris_Nest/Git_Intake_Drawer/🧱_ideological_loyalty_as_pyramid_scheme.md)
     - [`🧱_legal_exception_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧱_legal_exception_zone.md)
-    - [`🧱_predation_logic_vulnerability_power_targeting.md`](Polaris_Nest/Git_Intake_Drawer/🧱_predation_logic_vulnerability_power_targeting.md)
     - [`🧱_prevent_unappealable_decisions.md`](Polaris_Nest/Git_Intake_Drawer/🧱_prevent_unappealable_decisions.md)
     - [`🧱_reconstruction_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧱_reconstruction_logic.md)
     - [`🧱_rise_of_algorithmic_safety_in_the_uk_internet.md`](Polaris_Nest/Git_Intake_Drawer/🧱_rise_of_algorithmic_safety_in_the_uk_internet.md)
