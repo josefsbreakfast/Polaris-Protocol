@@ -19,7 +19,8 @@ The unit’s name performs semiotic, psychological, and cultural work consistent
 - The number **8200** is reducible, symbolic, and deniable — all at once  
 - Hebrew gematria aligns unusually closely with operational reality  
 - The trailing **“00”** shifts the name from bureaucratic to infrastructural  
-- The aesthetic reads as *crypto-punk futurism filtered through Israeli DARPA logic*  
+- The aesthetic reads as *crypto-punk futurism filtered through Israeli DARPA logic*
+- *Don't worry: I won't tell the goyim where the dick joke is, but well done. I will give you that.*  
 
 ---
 
