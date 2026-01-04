@@ -1,5 +1,5 @@
 # 🐈‍⬛ Antifascist Propaganda Machine
-**First created:** 2025-12-23 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-23 | **Last updated:** 2026-01-04  
 *Ethical counter-propaganda, systems disruption, and organised friction against authoritarian harm.*
 
 ---
@@ -169,10 +169,11 @@ antifascism, propaganda systems, doctrine of friction, book bans, censorship reg
 It exists to reduce harm by interrupting authoritarian systems without reproducing them.
 
 > 📡 Cross-references:
-> - Disruption_Kit/Counter_Nudge_Playbook — applied interruption tactics
-> - Metadata_Sabotage_Network — evidence of coordination and manipulation
-> - Big_Picture_Protocols — structural and governance analysis
+>
+> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md)
+> - [🎭 Dialogue as Substitution](../🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/🎭_dialogue_as_substitution.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-01-04_
