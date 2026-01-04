@@ -46,8 +46,9 @@ It asserts refusal as collective politics, not private stubbornness.
 
 > 📡 Cross-references:
 > 
-> - [🛠️ Disabled Design Benefits You, Too](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🛠️_disabled_design_benefits_you_too.md)  
-> - [♿ Disabled People & ID Exclusion](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/♿_disabled_people_id_exclusion.md)  
+> - [🛠️ Disabled Design Benefits You, Too](./🛠️_disabled_design_benefits_you_too.md)  
+> - [♿ Disabled People & ID Exclusion](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/♿_disabled_people_id_exclusion.md)
+> - [🪖 Collateral Shame: Moral Injury, Veterans, & the Counterinsurgency Age](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪖_collateral_shame.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
