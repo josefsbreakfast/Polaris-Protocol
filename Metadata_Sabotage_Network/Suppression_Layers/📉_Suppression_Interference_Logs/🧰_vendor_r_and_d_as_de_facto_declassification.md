@@ -1,6 +1,6 @@
 # 🧰 Vendor R&D as De-facto Declassification  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*How private-sector research, testing, and support workflows effectively strip justice data of its protected status.*
+**First created:** 2025-12-14 | **Last updated:** 2026-01-04  
+*How private-sector research, testing, and support workflows effectively strip justice data of its protected status.*  
 
 ---
 
@@ -29,9 +29,7 @@ It is a routine feature of modern justice infrastructure.
 
 ---
 
-## 🧿 Analysis  
-
-### 1. What counts as “vendor R&D” in justice systems  
+## 🔬 What Counts As “Vendor R&D” In Justice Systems  
 
 Private vendors engaged by police, CPS, or courts routinely perform:
 
@@ -48,7 +46,7 @@ Each of these activities may require **real data** to be effective.
 
 ---
 
-### 2. The authorisation trap  
+## 🕳️ The Authorisation Trap  
 
 When justice bodies provide data to vendors, it is usually under:
 
@@ -73,7 +71,7 @@ The data is now governed by **vendor norms**, not justice norms.
 
 ---
 
-### 3. How de-facto declassification happens  
+## 🧨 How De-Facto Declassification Happens  
 
 De-facto declassification occurs when:
 
@@ -90,7 +88,7 @@ The protection simply **ceases to function**.
 
 ---
 
-### 4. Why sexual offence data is especially exposed  
+## 🔥 Why Sexual Offence Data Is Especially Exposed  
 
 Sexual offence cases are disproportionately routed to vendors because they involve:
 
@@ -105,7 +103,7 @@ This funnels the **most sensitive data** into the **least justice-aware environm
 
 ---
 
-### 5. Vendor personnel realities  
+## 🦤 Vendor Personnel Realities  
 
 Vendor R&D environments commonly include:
 
@@ -128,7 +126,7 @@ The risk is structural, not personal.
 
 ---
 
-### 6. Cloud amplification  
+## ☔️ Cloud Amplification  
 
 Most vendor platforms rely on cloud infrastructure that:
 
@@ -144,7 +142,7 @@ This further entrenches de-facto declassification.
 
 ---
 
-### 7. Accountability dilution  
+## 🧪 Accountability Dilution  
 
 When exposure occurs through vendor R&D:
 
@@ -158,7 +156,7 @@ The harm, however, is immediate and irreversible.
 
 ---
 
-### 8. Why this belongs in suppression layers  
+## 🌩️ Why This Belongs In Suppression Layers  
 
 Vendor R&D rarely produces a single dramatic failure.  
 Instead, it contributes to:
@@ -189,15 +187,15 @@ vendor_r_and_d, de_facto_declassification, justice_data_outsourcing, cloud_infra
 
 ## 🏮 Footer  
 
-*Vendor R&D as De-facto Declassification* is a suppression-layer node of the **Polaris Protocol**.  
+*🧰 Vendor R&D as De-facto Declassification* is a suppression-layer node of the **Polaris Protocol**.  
 It documents how authorised private-sector workflows effectively nullify justice-system data protections without triggering breach recognition or timely accountability.
 
 > 📡 Cross-references:
 > 
-> - [🧪 R&D as a Silent Leakage Corridor] — structural pathway  
-> - [🏷️ High Schedule Is System-Bound, Not Data-Bound] — protection mechanics  
-> - [🧬 Metadata Exhaust as Pre-Investigative Exposure] — upstream exposure  
+> - [🧪 R&D as a Silent Leakage Corridor](./🧪_r_and_d_as_silent_leakage_corridor.md) — *structural pathway*  
+> - [🏷️ High Schedule Is System-Bound, Not Data-Bound](../../Structural_Analysis/🧼_System_Leakage_Signatures/🏷️_high_schedule_is_system_bound_not_data_bound.md) — *protection mechanics*  
+> - [🧬 Metadata Exhaust as Pre-Investigative Exposure](../../🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧬_metadata_exhaust_as_pre_investigative_exposure.md) — *upstream exposure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-04_
