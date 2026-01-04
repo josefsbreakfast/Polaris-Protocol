@@ -1,7 +1,7 @@
 # 🐽 Sticky Scandal Effect  
 **First created:** 2026-01-04 | **Last updated:** 2026-01-04  
 *How a single scandal can permanently destabilise authority and disrupt propaganda momentum.*
-
+<!--Oink oink.-->
 ---
 
 ## 🛰️ Orientation
