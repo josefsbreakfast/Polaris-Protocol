@@ -209,7 +209,10 @@ It provides a structural account of how power consolidates through alignment rat
 > - [🔮 Palantir as Infrastructure](./🔮_palantir_as_infrastructure.md) — *systems as governance*  
 > - [🏛️ State Drift & Crisis Adoption](./🏛️_state_drift_and_crisis_adoption.md) — *emergency normalisation*  
 > - [🔥 Rights as Friction](../⚖️_Legal_State_Governance/🔥_rights_as_friction.md) — *resistance surfaces*
-> - [Intent-Free Authoritarian Drift](./👾_intent_free_authoritarian_drift.md)  
+> - [Intent-Free Authoritarian Drift](./👾_intent_free_authoritarian_drift.md)
+> - [💰 The Surveillance Dividend Social Contract](../../🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/💰_the_surveillance_dividend_social_contract.md)
+> - [🎶 Shared Technology — VoiceX and Institutional Reports](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎶_shared_tech_voicex_institutional_reports.md)
+> - [📉 Dominance Loopholes](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/📉_dominance_loopholes.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
