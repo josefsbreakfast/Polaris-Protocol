@@ -40,9 +40,11 @@ It argues that while technology can observe or simulate affection, only embodied
 
 > 📡 Cross-references:
 >
-> -	[🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *dignity frameworks*
-> -	[🍯 HoneyBot — A Dual-Use Thought Experiment](../../🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🍯_honeybot_dual_use_thought_experiment.md) — *satire on replication and consent*
+> -	[🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *dignity frameworks*  
+> -	[🍯 HoneyBot — A Dual-Use Thought Experiment](../../🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🍯_honeybot_dual_use_thought_experiment.md) — *satire on replication and consent*  
+> -	[💔 The Need for Touch](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/💔_the_need_for_touch.md)  
+> -	[🪖 Touch Grass: Re-Embedding Technology In The Physical World](../../../../🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🪖_touch_grass_reembedding_technology_in_the_physical_world.md)  
 
 Survivor authorship is sovereign. Containment is never neutral.
 
-Last updated: 2025-10-20
+_Last updated: 2026-01-04_
