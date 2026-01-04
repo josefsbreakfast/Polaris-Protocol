@@ -30,9 +30,7 @@ It arises from how audio-visual evidence interacts with vendors, cloud systems, 
 
 ---
 
-## 🧿 Analysis  
-
-### 1. Why ABE evidence is structurally different  
+## 🎙️ Why ABE Evidence Is Structurally Different  
 
 Unlike written statements, ABE interviews are:
 
@@ -54,7 +52,7 @@ Each step increases exposure.
 
 ---
 
-### 2. The ABE handling pipeline  
+## 🕳️ The ABE Handling Pipeline  
 
 A typical ABE workflow may involve:
 
@@ -72,7 +70,7 @@ At no point does a single, continuous protection regime persist.
 
 ---
 
-### 3. Transcription as an exposure multiplier  
+## 🧬 Transcription As An Exposure Multiplier  
 
 Transcription is one of the most common reasons ABE data leaves core systems.
 
@@ -93,7 +91,7 @@ Once transcribed, **the protection collapses**.
 
 ---
 
-### 4. Redaction and editing risks  
+## 🦠 Redaction And Editing Risks  
 
 Redaction tools require:
 - access to full recordings,
@@ -111,7 +109,7 @@ These processes are authorised, yet opaque.
 
 ---
 
-### 5. Defence disclosure amplification  
+## 🕸️ Defence Disclosure Amplification  
 
 ABE material must be disclosed to the defence.
 
@@ -126,7 +124,7 @@ Each duplication weakens containment.
 
 ---
 
-### 6. Why sexual offence cases are uniquely exposed  
+## 🌋 Why Sexual Offence Cases Are Uniquely Exposed  
 
 Sexual offence ABE interviews often include:
 - intimate detail,
@@ -144,7 +142,7 @@ The evidential heart of the case becomes its weakest link.
 
 ---
 
-### 7. ABE as a suppression lever  
+## 👾 ABE As A Suppression Lever  
 
 Exposure does not need to be explicit.
 
@@ -167,7 +165,7 @@ voice and testimony, suppression layers, experimentation, data flows, exposure r
 
 ## ✨ Stardust  
 
-abe_interviews, digital_evidence, audio_visual_risk, transcription_tools, redaction_software, sexual_offence_cases, evidence_handling, suppression_layers
+abe interviews, digital evidence, audio visual risk, transcription tools, redaction software, sexual offence_cases, evidence handling, suppression layers, rape, sexual violence, witness testimony, transparency, security, cybersecurity, forensic integrity, avoidance, justice
 
 ---
 
