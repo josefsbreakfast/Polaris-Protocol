@@ -39,7 +39,8 @@ That combination defines responsibility in both law and history.
 💀 ⚖️ 🧿 🛰️ 🧠 — custodial death, legal thresholds, moral clarity, governance failure.  
 
 *Further media:*  
-- ["They are being left to die", GoodLawProject via TikTok.](https://vm.tiktok.com/ZNRMa7fvN/)  
+- ["They are being left to die", GoodLawProject via TikTok.](https://vm.tiktok.com/ZNRMa7fvN/)
+- ["URGENT: Massive and disproportionate police presence now outside HMP Pentonville.", The Canary with Prisoners4Palestine, via Tiktok.](https://vm.tiktok.com/ZNRMauet9/)
 
 ## ✨ Stardust  
 custodial deaths, hunger strike, state duty of care, foreseeable risk, article 2, prison healthcare, risk acceptance
