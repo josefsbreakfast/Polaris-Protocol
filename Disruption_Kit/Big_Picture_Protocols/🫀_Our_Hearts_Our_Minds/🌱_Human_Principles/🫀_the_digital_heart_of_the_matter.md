@@ -1,5 +1,5 @@
 # 🫀 The Digital Heart of the Matter  
-**First created:** 2025-12-31 | **Last updated:** 2026-01-01  
+**First created:** 2025-12-31 | **Last updated:** 2026-01-04  
 *How data exhaust, corruption, and inconsistency create a temporary but dangerous exposure window for democracies*  
 
 ---
@@ -502,10 +502,11 @@ data exhaust, salience thresholds, corruption index, transparency decline, insti
 It documents how accumulated data exhaust, rising corruption, and inconsistent accountability interact to create a temporary but dangerous exposure window for democracies — and why that window is structurally self-closing if the rule of law is held consistently.
 
 > 📡 Cross-references:
-> - **🧠 Big_Picture_Protocols** — governance and systems analysis  
-> - **🛰️ Metadata_Sabotage_Network** — interference, leakage, and inference pathways  
-> - **🔥 Data_Risks / 🧟‍♀️ Residual_Shadows** — long-tail exposure from legacy exhaust  
+> 
+> - [📚 Memory, Market, and the Machinery of Data Exhaust](../../🌀_System_Governance/👑_Ownership_Control/📚_memory_market_machinery_of_data_exhaust.md)  
+> - [♻️ Data Exhaust in UK Law](../../🦕_Elder_Influencers/📜_Statutes/♻️_data_exhaust_uk_law.md)  
+> - [🧬 Metadata Exhaust as Pre-Investigative Exposure](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧬_metadata_exhaust_as_pre_investigative_exposure.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-01-04_
