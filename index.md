@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-04 19:57:51 UTC_
+_Generated on 2026-01-04 20:00:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3352,11 +3352,11 @@ _Generated on 2026-01-04 19:57:51 UTC_
       - [`🛑_prevent_is_not_safeguarding.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛑_prevent_is_not_safeguarding.md)
       - [`🛡️_the_pre_crime_architecture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛡️_the_pre_crime_architecture.md)
       - [`🛡️_the_seven_layers_of_safeguard_breakdown.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛡️_the_seven_layers_of_safeguard_breakdown.md)
-      - [`🛰️ _transatlantic_protection_rackets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️ _transatlantic_protection_rackets.md)
       - [`🛰️_anonymous_reporting_abuse_vectors.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_anonymous_reporting_abuse_vectors.md)
       - [`🛰️_prevent_ihra_misclassification_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_prevent_ihra_misclassification_loop.md)
       - [`🛰️_the_digital_prevent_pipeline.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_the_digital_prevent_pipeline.md)
       - [`🛰️_threat_escalation_pipeline_racialised_gender.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_threat_escalation_pipeline_racialised_gender.md)
+      - [`🛰️_transatlantic_protection_rackets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_transatlantic_protection_rackets.md)
       - [`🛰️_who_built_prevent_policy_ecosystem_2010_16.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_who_built_prevent_policy_ecosystem_2010_16.md)
       - [`🛰️_why_safeguarding_plus_counterterrorism_equals_a_democratic_black_hole.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_why_safeguarding_plus_counterterrorism_equals_a_democratic_black_hole.md)
       - [`🤖_the_robot_didnt_know_you_meant_due_process.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🤖_the_robot_didnt_know_you_meant_due_process.md)
