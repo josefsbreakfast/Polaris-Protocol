@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-04 18:40:56 UTC_
+_Generated on 2026-01-04 18:41:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3292,7 +3292,6 @@ _Generated on 2026-01-04 18:40:56 UTC_
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)
       - [`male_emotional_states_as_risk_metadata.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/male_emotional_states_as_risk_metadata.md)
       - [`the_ejaculatory_projection_pipeline.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/the_ejaculatory_projection_pipeline.md)
-      - [`transatlantic_protection_rackets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/transatlantic_protection_rackets.md)
       - [`⚖️_adaptive_containment_thresholds.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_adaptive_containment_thresholds.md)
       - [`⚖️_palestine_action_proscription_case_study.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_palestine_action_proscription_case_study.md)
       - [`⚠️_misaligned_risk_reflexes_in_safeguarding_and_prevent.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚠️_misaligned_risk_reflexes_in_safeguarding_and_prevent.md)
@@ -3354,6 +3353,7 @@ _Generated on 2026-01-04 18:40:56 UTC_
       - [`🛑_prevent_is_not_safeguarding.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛑_prevent_is_not_safeguarding.md)
       - [`🛡️_the_pre_crime_architecture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛡️_the_pre_crime_architecture.md)
       - [`🛡️_the_seven_layers_of_safeguard_breakdown.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛡️_the_seven_layers_of_safeguard_breakdown.md)
+      - [`🛰️ _transatlantic_protection_rackets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️ _transatlantic_protection_rackets.md)
       - [`🛰️_anonymous_reporting_abuse_vectors.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_anonymous_reporting_abuse_vectors.md)
       - [`🛰️_prevent_ihra_misclassification_loop.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_prevent_ihra_misclassification_loop.md)
       - [`🛰️_the_digital_prevent_pipeline.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🛰️_the_digital_prevent_pipeline.md)
