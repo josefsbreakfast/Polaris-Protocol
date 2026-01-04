@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-04 18:39:56 UTC_
+_Generated on 2026-01-04 18:40:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3290,7 +3290,6 @@ _Generated on 2026-01-04 18:39:56 UTC_
         - [`👾_why_policing_and_prevent_are_susceptible_the_literal_fashion_police.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_the_literal_fashion_police.md)
         - [`👾_why_policing_and_prevent_are_susceptible_transphobia.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_transphobia.md)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)
-      - [`british_bureaucratic_theocracy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/british_bureaucratic_theocracy.md)
       - [`male_emotion_as_epistemic_authority.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/male_emotion_as_epistemic_authority.md)
       - [`male_emotional_states_as_risk_metadata.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/male_emotional_states_as_risk_metadata.md)
       - [`the_ejaculatory_projection_pipeline.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/the_ejaculatory_projection_pipeline.md)
@@ -3320,6 +3319,7 @@ _Generated on 2026-01-04 18:39:56 UTC_
       - [`🎶_korobeiniki_misread_as_signal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_korobeiniki_misread_as_signal.md)
       - [`🎶_police_the_vibes.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_police_the_vibes.md)
       - [`🎶_prevent_eats_teenagers_music.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_prevent_eats_teenagers_music.md)
+      - [`🏛️_british_bureaucratic_theocracy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🏛️_british_bureaucratic_theocracy.md)
       - [`🏛️_how_states_weaponise_ihra.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🏛️_how_states_weaponise_ihra.md)
       - [`🏛️_who_regulates_nudging_the_governance_vacuum.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🏛️_who_regulates_nudging_the_governance_vacuum.md)
       - [`🐍_prevent_as_a_self_eating_snake.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🐍_prevent_as_a_self_eating_snake.md)
