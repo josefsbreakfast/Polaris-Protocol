@@ -1,5 +1,5 @@
 # ⚖️ Citizen Recourse: Private Surveillance in the UK  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-03 | **Last updated:** 2026-01-04  
 *What citizens can actually do when confronted with covert monitoring, influence, or data collection by state or private actors.*  
 
 ---
@@ -100,8 +100,9 @@ It consolidates fragmented oversight mechanisms into a single civic map of recou
 > 📡 Cross-references:
 > 
 > - [🧠 Swiss-Cheese Suicide Model in Custody](./🧠_swiss_cheese_suicide_model_in_custody.md) — *structural analysis of custodial opacity*  
-> - [🧩 Risk Industries and Custody Failure](./🧩_risk_industries_and_custody_failure.md) — *privatised secrecy networks*  
+> - [🧩 Risk Industries and Custody Failure](./🧩_risk_industries_and_custody_failure.md) — *privatised secrecy networks*
+> - [➰ Ghost Loop Interrupters](../../../💣_Syntax_Bombs/➰_ghost_loop_interrupters.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_  
+_Last updated: 2026-01-04_  
