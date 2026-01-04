@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-04 17:02:48 UTC_
+_Generated on 2026-01-04 18:31:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -315,6 +315,7 @@ _Generated on 2026-01-04 17:02:48 UTC_
         - [`🏛️_the_boringing_uk_2010_2025.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_the_boringing_uk_2010_2025.md)
         - [`🏛️_yet_another_commission_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_yet_another_commission_as_containment.md)
         - [`🐢_behavioural_proxies_all_the_way_down.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🐢_behavioural_proxies_all_the_way_down.md)
+        - [`🐼_dearresting_and_palestine_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🐼_dearresting_and_palestine_policing.md)
         - [`👹_how_predators_weaponise_safeguarding_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👹_how_predators_weaponise_safeguarding_systems.md)
         - [`👾_intent_free_authoritarian_drift.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👾_intent_free_authoritarian_drift.md)
         - [`💣_austerity_as_time_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💣_austerity_as_time_collapse.md)
