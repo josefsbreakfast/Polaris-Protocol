@@ -124,6 +124,7 @@ We apologise for nothing.
 > - [🧪 Male Ejaculation Encoded in Female Data Subjects](./🧪_male_ejaculation_encoded_in_female_data_subjects.md) – *and yet still: somehow our problem*
 > - [🧬 Metadata-Driven Racism](./🧬_metadata_driven_racism.md)
 > - [🦂 Fanon: Symbolic Possession & Racialised Sexual Domination](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🦂_fanon_symbolic_possession_and_racialised_sexual_domination.md)  
-> - [💞 Queer Theory as Relational Literacy](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💞_queer_theory_as_relational_literacy.md)  
+> - [💞 Queer Theory as Relational Literacy](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💞_queer_theory_as_relational_literacy.md)
+> - [⚠️ Rejection as Existential Threat](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚠️_rejection_as_existential_threat.md)  
 
 _Last updated: 2026-01-04_
