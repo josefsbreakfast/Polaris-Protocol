@@ -1,7 +1,6 @@
-# 🧵 Policy Born in Fear
-
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12
-*How post‑7/7 and post‑9/11 fear hardened into institutional architecture, producing governance systems driven by panic rather than evidence.*
+# 🧵 Policy Born in Fear  
+**First created:** 2025-12-12 | **Last updated:** 2026-01-04  
+*How post‑7/7 and post‑9/11 fear hardened into institutional architecture, producing governance systems driven by panic rather than evidence.*  
 
 ---
 
@@ -23,9 +22,7 @@ What began as crisis response gradually ossified into permanent systems, long af
 
 ---
 
-## 🧿 Analysis
-
-### 1. Shock as Policy Accelerator
+## 🔥 Shock as Policy Accelerator
 
 Large‑scale attacks create a unique political environment:
 
@@ -39,7 +36,7 @@ In these conditions, speed is rewarded over accuracy, and **symbolic decisivenes
 
 ---
 
-### 2. From Emergency to Infrastructure
+## 📛 From Emergency to Infrastructure
 
 Initial counter‑terror responses were explicitly temporary.
 
@@ -54,7 +51,7 @@ Fear‑driven responses quietly became **baseline governance**.
 
 ---
 
-### 3. Evidence Lag and Lock‑In
+## 🐉 Evidence Lag and Lock‑In
 
 Robust research into radicalisation pathways developed slowly and often contradicted early assumptions.
 
@@ -70,7 +67,7 @@ Institutional inertia made course correction politically risky.
 
 ---
 
-### 4. Incentive Structures
+## 🎁 Incentive Structures
 
 Fear‑born policy persists because it aligns with:
 
@@ -83,7 +80,7 @@ Admitting misdiagnosis can appear costlier than continuing a flawed system.
 
 ---
 
-### 5. Downstream Consequences
+## 🚀 Downstream Consequences
 
 Policy born in fear tends to:
 
@@ -116,10 +113,10 @@ It documents how crisis‑driven responses solidify into long‑term governance 
 
 > 📡 Cross‑references:
 >
-> * [🧨 Securitisation Feedback Loop] — recursive escalation
-> * [🛂 Suspect Class Governance] — administrative outcomes
-> * [🪞 Domestic PsyOps Paradox] — inward turn of security logic
+> - [🧨 Securitisation Feedback Loop](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_securitisation_feedback_loop.md) — *recursive escalation*
+> - [🛂 Suspect Class Governance](../../🌀_System_Governance/⚖️_Legal_State_Governance/🛂_suspect_class_governance.md) — *administrative outcomes*
+> - [🪞 Domestic PsyOps Paradox](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪞_domestic_psyops_paradox.md) — *inward turn of security logic*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-12*
+_Last updated: 2026-01-04_
