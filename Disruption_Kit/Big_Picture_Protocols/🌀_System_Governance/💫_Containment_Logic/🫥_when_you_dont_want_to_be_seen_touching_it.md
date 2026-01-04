@@ -1,5 +1,5 @@
 # 🫥 When You Don’t Want to Be Seen Touching It  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-05 | **Last updated:** 2026-01-04  
 *Why plausible deniability is the core product of the grey-zone market, and how to recognise when you’re starting to buy it.*  
 
 ---
@@ -90,9 +90,9 @@ It maps the decision logic that turns caution into complicity and explains why d
 
 > 📡 Cross-references:
 > 
-> - 🧭 When to Enter the Grey Zone — *operational thresholds*  
-> - 🕳️ When the Censor Is a Contractor — *case study in outsourced suppression*  
+> - [🧭 When to Enter the Grey Zone](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🧭_when_to_enter_the_grey_zone.md) — *operational thresholds*  
+> - [🕳️ When the Censor Is a Contractor](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕳️_when_the_censor_is_a_contractor.md) — *case study in outsourced suppression*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-01-04_
