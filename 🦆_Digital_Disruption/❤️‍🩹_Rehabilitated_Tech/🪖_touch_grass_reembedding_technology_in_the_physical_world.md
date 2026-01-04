@@ -193,9 +193,9 @@ It articulates a pathway for technology to rejoin the material, ecological, and 
 
 > 📡 Cross-references:
 > 
-> - [🧲 The Magnet Doesn’t Care: Applied Science vs Tech-Bro Cosmology](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧲_the_magnet_doesnt_care.md) — applied limits  
-> - [🌍 When Virtual Minds Govern A Physical Planet](../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md) — abstraction failure  
-> - [🧞‍♂️ Innovation Worship As Distraction Infrastructure](../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧞‍♂️_innovation_worship_as_distraction_infrastructure.md) — narrative cover  
+> - [🧲 The Magnet Doesn’t Care: Applied Science vs Tech-Bro Cosmology](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧲_the_magnet_doesnt_care.md) — *applied limits*  
+> - [🌍 When Virtual Minds Govern A Physical Planet](../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md) — *abstraction failure*  
+> - [🧞‍♂️ Innovation Worship As Distraction Infrastructure](../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧞‍♂️_innovation_worship_as_distraction_infrastructure.md) — *narrative cover*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
