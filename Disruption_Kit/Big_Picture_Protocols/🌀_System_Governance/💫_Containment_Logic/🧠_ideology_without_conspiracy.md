@@ -208,7 +208,8 @@ It provides a structural account of how power consolidates through alignment rat
 > - [🔺 The Alignment Triangle](./🔺_the_alignment_triangle.md) — *incentive convergence*  
 > - [🔮 Palantir as Infrastructure](./🔮_palantir_as_infrastructure.md) — *systems as governance*  
 > - [🏛️ State Drift & Crisis Adoption](./🏛️_state_drift_and_crisis_adoption.md) — *emergency normalisation*  
-> - [🔥 Rights as Friction](../⚖️_Legal_State_Governance/🔥_rights_as_friction.md) — *resistance surfaces*  
+> - [🔥 Rights as Friction](../⚖️_Legal_State_Governance/🔥_rights_as_friction.md) — *resistance surfaces*
+> - [Intent-Free Authoritarian Drift](./👾_intent_free_authoritarian_drift.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
