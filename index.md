@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-04 18:40:30 UTC_
+_Generated on 2026-01-04 18:40:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3290,7 +3290,6 @@ _Generated on 2026-01-04 18:40:30 UTC_
         - [`👾_why_policing_and_prevent_are_susceptible_the_literal_fashion_police.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_the_literal_fashion_police.md)
         - [`👾_why_policing_and_prevent_are_susceptible_transphobia.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_transphobia.md)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)
-      - [`male_emotion_as_epistemic_authority.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/male_emotion_as_epistemic_authority.md)
       - [`male_emotional_states_as_risk_metadata.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/male_emotional_states_as_risk_metadata.md)
       - [`the_ejaculatory_projection_pipeline.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/the_ejaculatory_projection_pipeline.md)
       - [`transatlantic_protection_rackets.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/transatlantic_protection_rackets.md)
@@ -3366,6 +3365,7 @@ _Generated on 2026-01-04 18:40:30 UTC_
       - [`🤖_the_robot_doesnt_know_what_equal_protection_means_to_you.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🤖_the_robot_doesnt_know_what_equal_protection_means_to_you.md)
       - [`🦁_gender_defiance_targeting_and_vexatious_complaint_logic.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦁_gender_defiance_targeting_and_vexatious_complaint_logic.md)
       - [`🦜_blair_cabinet_identity_hypocrisy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦜_blair_cabinet_identity_hypocrisy.md)
+      - [`🦤_male_emotion_as_epistemic_authority.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦤_male_emotion_as_epistemic_authority.md)
       - [`🦩_prevent_misreads_everything.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦩_prevent_misreads_everything.md)
       - [`🧊_hidden_prevent_unseen_side.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧊_hidden_prevent_unseen_side.md)
       - [`🧊_the_inversion_problem.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧊_the_inversion_problem.md)
