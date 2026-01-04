@@ -87,7 +87,7 @@ It maps the procedural machinery through which institutional surveillance conver
 > - [🦇 How Many Words to Fell an Industry](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🦇_how_many_words_to_fell_an_industry.md) — *linguistic collapse and institutional decay*
 > - [🎶 Sonata Server Sympathies](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🎶_sonata_server_sympathies.md)
 > - [🕶️ Whistleblowing and Entrapment in the Para-Intelligence Economy](../../Governance_And_Containment/㊙_Containment_Contracts/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)  
-
+- [*Pending:* 🚜 Rural Policing as an Electoral Stress Test]  
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-01-04_
