@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-04 07:12:39 UTC_
+_Generated on 2026-01-04 07:14:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3998,6 +3998,7 @@ _Generated on 2026-01-04 07:12:39 UTC_
       - [`♿_disabled_people_id_exclusion.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/♿_disabled_people_id_exclusion.md)
       - [`🌍_vulnerable_data_populations_at_fcdo.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md)
       - [`🌑_why_a_child_rape_survivor_is_treated_as_a_violent_sexual_offender_by_government_systems.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌑_why_a_child_rape_survivor_is_treated_as_a_violent_sexual_offender_by_government_systems.md)
+      - [`🎓_student_data_abuse.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🎓_student_data_abuse.md)
       - [`🐣_children_youth_id_card_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🐣_children_youth_id_card_risks.md)
       - [`💔_gender_sex_discrimination_id_cards.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/💔_gender_sex_discrimination_id_cards.md)
       - [`💔_risk_of_violent_treatment.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/💔_risk_of_violent_treatment.md)
@@ -4011,7 +4012,6 @@ _Generated on 2026-01-04 07:12:39 UTC_
       - [`🧟_the_zombie_data_genocide.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧟_the_zombie_data_genocide.md)
       - [`🧟‍♀️_zombie_data_and_population_targeting.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧟‍♀️_zombie_data_and_population_targeting.md)
       - [`🧬_metadata_exhaust_as_pre_investigative_exposure.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧬_metadata_exhaust_as_pre_investigative_exposure.md)
-      - [`🧾_student_data_abuse.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧾_student_data_abuse.md)
       - [`🧿_custodial_opacity_and_database_disappearance.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧿_custodial_opacity_and_database_disappearance.md)
       - [`🩺_healthcare_access_id_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🩺_healthcare_access_id_risks.md)
     - [**🛂_Papers_Please_Problems/**](Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/)
