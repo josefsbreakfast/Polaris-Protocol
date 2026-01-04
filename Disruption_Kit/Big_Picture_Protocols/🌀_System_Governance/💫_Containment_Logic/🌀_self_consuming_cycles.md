@@ -81,6 +81,8 @@ and offers methods to name and interrupt repetition.
 > - [🩸 Operation Shande](../📚_Narrative_Management/🩸_operation_shande.md)  
 > - [🪖 Collateral Shame: Moral Injury, Veterans, & the Counterinsurgency Age](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪖_collateral_shame.md)  
 > - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
+> - [🍌 The Self-Eating System: Simulated Authenticity and Cultural Cannibalism](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🍌_self_eating_system.md)  
+> - [🐍 PREVENT as a Self-Eating Snake (Early Detection Drift)](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🐍_prevent_as_a_self_eating_snake.md)  
 
 *Recognition is not enough; the loop breaks only when the appetite for its own virtue runs out.*
 
