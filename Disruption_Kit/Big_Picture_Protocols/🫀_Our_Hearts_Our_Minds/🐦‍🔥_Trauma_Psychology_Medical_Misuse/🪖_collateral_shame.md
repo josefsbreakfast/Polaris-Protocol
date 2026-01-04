@@ -109,8 +109,7 @@ moral injury, veterans, counterinsurgency, institutional shame, duty of care, ac
 ---
 
 ## 🏮 Footer
-*🪖 Collateral Shame: Moral Injury, Veterans, & the Counterinsurgency Age*  
-is a living node of the **Polaris Protocol**.  
+*🪖 Collateral Shame: Moral Injury, Veterans, & the Counterinsurgency Age* is a living node of the **Polaris Protocol**.  
 It documents how moral responsibility is fragmented by design,  
 and how survivors—military and civilian alike—can reassemble accountability through testimony, law, and care.
 
