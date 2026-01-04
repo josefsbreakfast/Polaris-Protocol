@@ -128,8 +128,16 @@ prevent, religion, ethics, halakha, sharia, article 9 echr, equality act 2010, p
 
 ## 🏮 Footer
 
-*✡️ Faith, Ethics, and the Legal Basis of Prevent* is a living analytical node in the **Civil Security** cluster of **🛰️ OSINT Field Operations**. It documents how algorithmic risk governance can penalise conscience when conscience is rooted in rule-based ethical traditions.
+*✡️ Faith, Ethics, and the Legal Basis of Prevent* is a living analytical node in the **Civil Security** cluster of **🛰️ OSINT Field Operations**. It documents how algorithmic risk governance can penalise conscience when conscience is rooted in rule-based ethical traditions.  
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+> 📡 Cross-references:
+> 
+> - [🎶 Korobeiniki Misread as Signal](./🎶_korobeiniki_misread_as_signal.md)  
+> - [🌱 PREVENT Logic as Authoritarian Seedling](./🌱_prevent_logic_as_authoritarian_seedling.md)  
+> - [🕎 Jewish Assimilation vs Eurocentric Algorithms](../../Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🕎_jewish_assimilation_vs_eurocentric_algorithms.md)  
+> - [🕍 Jewish Trauma Literacy for Non-Jewish Audiences](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕍_jewish_trauma_literacy_for_non_jewish_audiences.md)  
+> - [🙄 Forensic Schema — Why the Dual Loyalty Accusation ‘Pings’ Harder than Rape Disclosure](../../Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🙄_jewish_loyalty_pings_faster_than_rape.md)  
 
-*Last updated: 2026-01-04*
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-04_
