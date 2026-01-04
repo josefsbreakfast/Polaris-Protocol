@@ -1,5 +1,5 @@
 # 🦿 Eugenics as Everyday Metaphor  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-03 | **Last updated:** 2026-01-04  
 *How insults and metaphors recycle eugenic logics even in radical spaces.*  
 
 ---
@@ -43,9 +43,15 @@ eugenics, ableist language, insults, metaphor, leftist hypocrisy, dignity, every
 
 ## 🏮 Footer  
 
-*Eugenics as Everyday Metaphor* is a living node of the Polaris Protocol.  
+*🦿 Eugenics as Everyday Metaphor* is a living node of the Polaris Protocol.  
 It exposes how ableism remains the unbroken chain of eugenic logic in everyday language and politics.  
+
+> 📡 Cross-references:
+> 
+> - [🦔 Hedgehog on Fire](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/🦔_hedgehog_on_fire.md)  
+> - [♿ Have You Asked Disabled People, Though?](./♿_have_you_asked_disabled_people_though.md)
+> - [🫀 Disabled Refusal as Politics](./🫀_disabled_refusal_as_politics.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-01-04_  
