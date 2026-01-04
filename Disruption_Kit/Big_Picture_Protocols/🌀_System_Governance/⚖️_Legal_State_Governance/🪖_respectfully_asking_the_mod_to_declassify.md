@@ -1,7 +1,7 @@
 # 🪖 Respectfully Asking the MOD to Declassify (and How Defensive Cabinet Fails Defence)  
-**First created:** 2025-12-24 | **Last updated:** 2026-01-01  
+**First created:** 2025-12-24 | **Last updated:** 2026-01-04  
 *How political defensiveness, not security need, produces silence that degrades lawful defence governance.*
-<!--I was legally a child. They have likely legally managed other stakeholders. Cabinet have not honoured the teenage girl who was stolen.-->
+
 ---
 
 ## 🛰️ Orientation
@@ -136,14 +136,19 @@ mod declassification, defensive cabinet, classification misuse, institutional si
 
 ## 🏮 Footer
 
-*Respectfully Asking the MOD to Declassify (and How Defensive Cabinet Fails Defence)* is a living node of the **Polaris Protocol**.  
+*🪖 Respectfully Asking the MOD to Declassify (and How Defensive Cabinet Fails Defence)* is a living node of the **Polaris Protocol**.  
 It documents how political defensiveness can distort classification practice and undermine lawful defence governance.
 
 > 📡 Cross-references:
-> - **🪖 Classification, Suppression, and Misuse** — terminology and failure modes  
-> - **🌀 Systems & Governance** — structural risk aversion patterns  
-> - **⚖️ Legal State Governance** — SAR, FOI, and oversight escalation  
+> 
+> - [🪖 Classification, Suppression, and Misuse](./🪖_classification_suppression_and_misuse.md) — *terminology and failure modes*  
+> - [🪖 How Politicians Legally Strangle the MOD (in Real-Lives Terms)](./🪖_how_politicians_legally_strangle_the_mod.md)  
+> - [☕️ The Death of the British Eccentic](../📚_Narrative_Management/☕️_the_death_of_the_british_eccentric.md)  
+> - [🏛️ Respectability Laundering](../📚_Narrative_Management/🏛️_respectability_laundering.md)  
+> - [🥸 Paid Male Gossipers](../📚_Narrative_Management/🥸_paid_male_gossipers.md)
+> - [🪖 Defence Is for All of Us](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪖_defence_is_for_all_of_us.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-01-04_
