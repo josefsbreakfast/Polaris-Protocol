@@ -1,5 +1,5 @@
 # 🧭 Data Slip → Narrative Spiral  
-**First created:** 2025-12-02 | **Last updated:** 2025-12-19  
+**First created:** 2025-12-02 | **Last updated:** 2026-01-04  
 *A concise, reader-facing case study of a clerical error, its political
 inflation, and the genocide‑prevention duties obscured in public
 debate.*
@@ -205,7 +205,10 @@ The clerical error is a distraction from the bigger truth.
 ## 🌌 Constellations
 
 🪞 ✂️ 🧩 🧠 🛰️ narrative distortion mapping; public‑order doctrine;
-genocide‑prevention ethics; operational literacy; demographic risk.
+genocide‑prevention ethics; operational literacy; demographic risk.  
+
+*Further media:*  
+- [NoJustice covers ongoing alt-right X discourse around bans of Maccabi Tel Aviv, via TikTok](https://vm.tiktok.com/ZNRMaVFsc/) - *anyone in the UK framing critics as "the demands of the Islamists", is high risk for being closet antisemite, if the closet was made of glass. Same orientalism, different target.*  
 
 ---
 
@@ -228,4 +231,4 @@ symbolic geopolitics and genocide‑prevention duties.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-01-04_
