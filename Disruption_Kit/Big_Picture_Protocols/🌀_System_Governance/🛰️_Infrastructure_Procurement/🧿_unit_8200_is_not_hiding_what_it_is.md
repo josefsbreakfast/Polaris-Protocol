@@ -1,12 +1,12 @@
 # 🧿 Unit 8200 Is Not Hiding What It Is  
 **First created:** 2026-01-04 | **Last updated:** 2026-01-04  
 *Give me Hebrew cryptopunk but with a dash of DARPA and a heady base of British colonial policing.*
-
+<!--"The unit is composed primarily of 18–21 year olds." And apparantly a spoonful of chan board gooning, for flavour.-->
 ---
 
 ## 🛰️ Orientation  
 
-This node examines the naming of **[Unit 8200](chatgpt://generic-entity?number=0)** not as a cryptic accident or numerological curiosity, but as a legible institutional signal.
+This node examines the naming of **Unit 8200** not as a cryptic accident or numerological curiosity, but as a legible institutional signal.
 
 The argument is simple:  
 **8200 does not obscure meaning — it stabilises it.**  
