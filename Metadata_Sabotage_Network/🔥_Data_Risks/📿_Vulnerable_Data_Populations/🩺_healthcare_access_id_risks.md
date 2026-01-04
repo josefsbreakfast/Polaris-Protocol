@@ -114,9 +114,9 @@ It documents how identity systems reshape access to care, producing exclusion th
 
 > 📡 Cross-references:
 > 
-> - [📿 Refugees & Asylum ID Risks](./🕊️_refugees_asylum_id_risks.md) — *displacement and documentation gaps*  
+> - [🕊️ Refugees & Asylum ID Risks](./🕊️_refugees_asylum_id_risks.md) — *displacement and documentation gaps*  
 > - [♿ Disabled People & ID Exclusion](./♿_disabled_people_id_exclusion.md) — *care continuity failures*  
-> - [🔮 UK Digital ID Risk Forecast](./🔮_uk_digital_id_risk_forecast.md) — *future-facing system impacts*  
+> - [🔮 UK Digital ID Risk Forecast](../../Governance_And_Containment/🈺_Governance_And_Prevent/🔮_uk_digital_id_risk_forecast.md) — *future-facing system impacts*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
