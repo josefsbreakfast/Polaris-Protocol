@@ -1,7 +1,7 @@
 # 🐽 Sticky Scandal Effect  
 **First created:** 2026-01-04 | **Last updated:** 2026-01-04  
 *How a single scandal can permanently destabilise authority and disrupt propaganda momentum.*
-<!--Oink oink.-->
+<!--Oink, oink.-->
 ---
 
 ## 🛰️ Orientation
@@ -239,7 +239,10 @@ And power is not entitled to comfort.*
 ---
 
 ## 🌌 Constellations  
-🐈‍⬛ 🧠 🎭 🧨 — antifascist praxis, cognition, narrative interference, directed friction.
+🐈‍⬛ 🧠 🎭 🧨 — antifascist praxis, cognition, narrative interference, directed friction.  
+
+*Further reading:*  
+- Animal Farm, George Orwell.  
 
 ---
 
