@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-04 02:57:46 UTC_
+_Generated on 2026-01-04 03:31:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3116,6 +3116,7 @@ _Generated on 2026-01-04 02:57:46 UTC_
     - [`🧬_we_dont_want_your_cells_we_want_each_other.md`](Disruption_Kit/Survivor_Tools/🧬_we_dont_want_your_cells_we_want_each_other.md)
     - [`🧭_ordinary_seo_volatility_vs_pressure_patterns.md`](Disruption_Kit/Survivor_Tools/🧭_ordinary_seo_volatility_vs_pressure_patterns.md)
     - [`🧰_early_warning_signs_of_crawl_layer_pressure.md`](Disruption_Kit/Survivor_Tools/🧰_early_warning_signs_of_crawl_layer_pressure.md)
+    - [`🧰_how_to_foia_sar_uk_embassies.md`](Disruption_Kit/Survivor_Tools/🧰_how_to_foia_sar_uk_embassies.md)
     - [`🧰_how_to_respond_to_overdiagnosis_claims.md`](Disruption_Kit/Survivor_Tools/🧰_how_to_respond_to_overdiagnosis_claims.md)
     - [`🧰_leave_me_alone_playbook.md`](Disruption_Kit/Survivor_Tools/🧰_leave_me_alone_playbook.md)
     - [`🧰_tools_against_sock_puppets.md`](Disruption_Kit/Survivor_Tools/🧰_tools_against_sock_puppets.md)
