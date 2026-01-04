@@ -1,5 +1,5 @@
 # 💀 Accepting Prison Hunger Deaths Is Damning  
-**First created:** 2025-12-17 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-17 | **Last updated:** 2026-01-04  
 *When the state knowingly accepts the risk of death in custody, responsibility is no longer ambiguous.*  
 
 ---
@@ -36,7 +36,10 @@ That combination defines responsibility in both law and history.
 ---
 
 ## 🌌 Constellations  
-💀 ⚖️ 🧿 🛰️ 🧠 — custodial death, legal thresholds, moral clarity, governance failure.
+💀 ⚖️ 🧿 🛰️ 🧠 — custodial death, legal thresholds, moral clarity, governance failure.  
+
+*Further media:*  
+- ["They are being left to die", GoodLawProject via TikTok.](https://vm.tiktok.com/ZNRMa7fvN/)  
 
 ## ✨ Stardust  
 custodial deaths, hunger strike, state duty of care, foreseeable risk, article 2, prison healthcare, risk acceptance
@@ -60,4 +63,4 @@ It records a red-line governance failure where prevention was possible and refus
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-04_
