@@ -208,7 +208,7 @@ The clerical error is a distraction from the bigger truth.
 genocide‑prevention ethics; operational literacy; demographic risk.  
 
 *Further media:*  
-- [NoJustice covers ongoing alt-right X discourse around bans of Maccabi Tel Aviv, via TikTok](https://vm.tiktok.com/ZNRMaVFsc/) - *anyone in the UK framing critics as "the demands of the Islamists", is high risk for being closet antisemite, if the closet was made of glass. Same orientalism, different target.*  
+- [NoJustice covers ongoing alt-right X discourse around bans of Maccabi Tel Aviv, via TikTok](https://vm.tiktok.com/ZNRMaVFsc/) - *anyone in the UK using "the demands of the Islamists" framing for anything that isn't a list of demands from someone of that soecific political ideology, is high risk for being closet antisemite, if the closet was made of glass. Same orientalism, different target.*  
 
 ---
 
@@ -227,7 +227,11 @@ Protocol**, clarifying how minor administrative inaccuracies become
 political leverage points when public‑order realities collide with
 symbolic geopolitics and genocide‑prevention duties.
 
-> 📡 Cross‑references: 
+> 📡 Cross‑references:
+>
+> - [🕌 Muslims as Primary Outgroup in Holocaust Mechanism](../../🦕_Elder_Influencers/🕸️_World_Webs/🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md) – *why cynical misuse of this debate is highly concerning*
+> - [🌍 Muslim Identity Racialisation Parallels to Historic Antisemitism](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🌍_muslim_identity_racialisation_parallels_to_historic_antisemitism.md) – *why it looks like closet antisemitosm from here*
+> - [🔮 Challenge of AI](../../../../👻_Apparitional_Objects/🦴_Skeletal_Shards/🔮_challenge_of_ai.md) – *AI glues data shards like a toddler let loose with PVA glue*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
