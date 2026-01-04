@@ -1,5 +1,5 @@
 # 🔥 Hunger Strike as Counter-Sovereignty  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-17  
+**First created:** 2025-12-12 | **Last updated:** 2026-01-04  
 *How the refusal to eat destabilises the state’s monopoly on moral, narrative, and bodily authority.*  
 
 ---
@@ -183,7 +183,10 @@ This is the emergent danger now in motion.
 ---
 
 ## 🌌 Constellations  
-🔥 🧠 🧿 🛰️ 🩸 — counter-sovereignty, governance panic, narrative distortion, embodied dissent, refusal ethics.
+🔥 🧠 🧿 🛰️ 🩸 — counter-sovereignty, governance panic, narrative distortion, embodied dissent, refusal ethics.  
+
+*Further media:*  
+- ["Show up for Heba. Show up for justice.", LeftBrain via TikTok.](https://vm.tiktok.com/ZNRMasnkc/) - *inc helpful summary of circumstances of protest*  
 
 ---
 
@@ -206,4 +209,4 @@ It maps the destabilising power of embodied refusal, analysing how hunger strike
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2026-01-04_
