@@ -1,6 +1,6 @@
 # 🧼 Justice System Data as an Attack Surface  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*How criminal justice data—particularly sexual offence cases—functions as an unintended vulnerability within modern data infrastructure.*
+**First created:** 2025-12-14 | **Last updated:** 2026-01-04  
+*How criminal justice data—particularly sexual offence cases—functions as an unintended vulnerability within modern data infrastructure.*  
 
 ---
 
@@ -178,10 +178,11 @@ It establishes the architectural conditions under which justice data—particula
 
 > 📡 Cross-references:
 > 
-> - [🧪 R&D as a Silent Leakage Corridor] — vendor and innovation exposure  
-> - [🧬 Metadata Exhaust as Pre-Investigative Exposure] — pre-report targeting  
-> - [🏷️ High Schedule Is System-Bound, Not Data-Bound] — protection collapse mechanics  
+> - [🧪 R&D as a Silent Leakage Corridor](../../Suppression_Layers/📉_Suppression_Interference_Logs/🧪_r_and_d_as_silent_leakage_corridor.md) — *vendor and innovation exposure*  
+> - [🧬 Metadata Exhaust as Pre-Investigative Exposure](../../🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧬_metadata_exhaust_as_pre_investigative_exposure.md) — *pre-report targeting*  
+> - [🏷️ High Schedule Is System-Bound, Not Data-Bound](./🏷️_high_schedule_is_system_bound_not_data_bound.md) — *protection collapse mechanics*
+> - [🧰 Vendor R&D as De-facto Declassification](../../Suppression_Layers/📉_Suppression_Interference_Logs/🧰_vendor_r_and_d_as_de_facto_declassification.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-04_
