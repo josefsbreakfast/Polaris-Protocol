@@ -246,7 +246,9 @@ It exists to make opaque state data practices legible, reduce unnecessary fear, 
 > - [🇬🇧 Britain as Global Butler](../Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_britain_as_global_butler.md)  
 > - [⚖️ Containment Contract Trace](../Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *contractual logic in governance*  
 > - [🎊 Multi-Party Data Twinning](../Big_Picture_Protocols/💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md
-) — *intermediaries as fusers of overlapping interests*  
+) — *intermediaries as fusers of overlapping interests*
+> - [🧿 Jewish Nationalisms](../Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧿_jewish_nationalisms.md) – *alternatives to a Medinat birthed by Zionism*  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
