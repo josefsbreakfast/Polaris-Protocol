@@ -1,5 +1,5 @@
 # 🫂 Mixed-Gender & Queer Sociality as Radicalisation Antidote  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-19 | **Last updated:** 2026-01-04  
 *How friendships with women, queer people, and emotionally literate communities dismantle the conditions extremists rely on.*  
 
 ---
@@ -219,11 +219,14 @@ They know what’s at stake.
 *🫂 Mixed-Gender & Queer Sociality as Radicalisation Antidote* is a living node of the Polaris Protocol.  
 It details how relational diversity, emotional plurality, and community belonging dissolve the conditions extremists rely on — restoring humanity before ideology.
 
-> 📡 Cross-references:  
-> - [🧸 Softness as Counter-Extremism Infrastructure]  
-> - [🛡️ Why Fascism Fears Softness]  
-> - [💗 Soft Boy Restoration Protocol]  
+> 📡 Cross-references:
+> 
+> - [*Pending:* 🧸 Softness as Counter-Extremism Infrastructure]  
+> - [🛡️ Why Fascism Fears Softness](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🛡️_why_fascism_fears_softness.md)  
+> - [🍑 Soft Boy Restoration Protocol](../🌱_Human_Principles/🍑_the_soft_boy_restoration_protocol.md)
+> - [⚖️ Safe Humanitarian Speech in High-Risk Discursive Environments](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚖️_safe_humanitarian_speech_in_high_risk_discursive_environments.md)
+> - [🔥 Suppression and Quasi-Suppression](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🔥_suppression_and_quasi_suppression.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-01-04_
