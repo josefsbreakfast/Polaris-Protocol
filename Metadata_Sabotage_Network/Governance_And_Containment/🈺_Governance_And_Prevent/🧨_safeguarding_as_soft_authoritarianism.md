@@ -1,4 +1,4 @@
-# 🛡️ Safeguarding as Soft Authoritarianism  
+# 🧨 Safeguarding as Soft Authoritarianism  
 **First created:** 2025-11-16 | **Last updated:** 2025-11-16  
 *How safeguarding frameworks are repurposed into control systems.*
 
