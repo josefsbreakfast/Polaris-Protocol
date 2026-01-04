@@ -1,5 +1,5 @@
 # 🧪 Think-Tanks & Their Funding (2010–16)  
-**First created:** 2025-11-23 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-23 | **Last updated:** 2026-01-04  
 *Mapping the think-tanks that shaped UK counter-extremism policy during 2010–2016, their funding sources, and how their ideological agendas influenced Prevent and the CTSA framework.*  
 
 ---
@@ -196,9 +196,15 @@ Prevent • think tanks • funding • CTSA 2015 • Quilliam • Policy Exchan
 is a policy-capture node of the Polaris Protocol.  
 It exposes the opaque financial and ideological ecosystem that shaped Prevent, CTSA 2015, and the UK’s racialised counter-extremism framework.
 
-> 📡 **Cross-references:**  
+> 📡 **Cross-references:**
+>
+> - [🎽 Think Tanks, Surveillance, and Conferencing](./🎽_think_tanks_surveillance_and_conferencing.md)  
+> - [🧭 Think-Tank Drift and Blurred Boundaries](./🧭_think_tank_drift_and_blurred_boundaries.md)  
+> - [🏛️ The Grey Zone Inside the Think Tank](../../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🏛️_the_grey_zone_inside_the_think_tank.md)  
+> - [🏛️ Neocon Think Tank Cluster](../../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/🏛️_neocon_think_tank_cluster.md)  
+
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-01-04_
