@@ -1,6 +1,6 @@
-# 🪦 The protagonist problem: why billionaires cannot see systems  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*How narrative self-exceptionalism collapses systems thinking — and why power concentrated in protagonists produces governance failure.*
+# 🪦 The Protagonist Problem: Why Billionaires Cannot See Systems  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-04  
+*How narrative self-exceptionalism collapses systems thinking — and why power concentrated in protagonists produces governance failure.*  
 
 ---
 
@@ -185,15 +185,15 @@ protagonist problem, billionaire psychology, systems failure, narrative narcissi
 
 ## 🏮 Footer  
 
-*🪦 The protagonist problem: why billionaires cannot see systems* is a critical diagnostic node of the **Polaris Protocol**.  
+*🪦 The Protagonist Problem: Why Billionaires Cannot See Systems* is a critical diagnostic node of the **Polaris Protocol**.  
 It documents how narrative self-exceptionalism undermines systems awareness, producing governance failures that compound across generations.
 
 > 📡 Cross-references:
 > 
-> - [🧠 Death-denial as policy] — mortality refusal  
-> - [🔮 Magical thinking as an economic operating system] — belief recursion  
-> - [🌍 When virtual minds govern a physical planet] — abstraction mismatch  
+> - [🧠 Death-Denial As Policy: Immortality Fantasies Of The Ultra-Rich](../🛰️_Infrastructure_Procurement/🧠_immortality_fantasies_of_the_ultra_rich.md) — *mortality refusal*  
+> - [🔮 Magical Thinking As An Economic Operating System](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🔮_magical_thinking_as_an_economic_operating_system.md) — *belief recursion*  
+> - [🌍 When Virtual Minds Govern A Physical Planet](../../🦕_Elder_Influencers/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md) — *abstraction mismatch*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-04_
