@@ -187,6 +187,10 @@ This record exists so the answer is:
 ## 🌌 Constellations  
 🛰️ 🧠 📊 🧬 🍉 — OSINT practice, pattern inference, accountability scaffolding, and Palestine/Gaza contextual preservation.
 
+*Further media:*  
+- ["Media Insider EXPOSES Israel's Capture Of British Politics | Aaron Bastani Meets Peter
+Oborne"](https://youtu.be/k5m-qp8alBU?si=qS5ZX3eb1d6QezHh), Novara Media via YouTube.  
+
 ---
 
 ## ✨ Stardust  
