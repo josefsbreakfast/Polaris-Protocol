@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-05 03:24:49 UTC_
+_Generated on 2026-01-05 03:25:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4519,6 +4519,7 @@ _Generated on 2026-01-05 03:24:49 UTC_
         - [`📵_platform_visibility_logs.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/📚_evidence_registers/📵_platform_visibility_logs.md)
         - [`🕰️_withdrawal_and_silence_timelines.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/📚_evidence_registers/🕰️_withdrawal_and_silence_timelines.md)
       - [**🧩_synthesis_notes/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧩_synthesis_notes/)
+        - [`📎_intent_and_foreseeability_context.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧩_synthesis_notes/📎_intent_and_foreseeability_context.md)
         - [`🧩_cross_register_patterns.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧩_synthesis_notes/🧩_cross_register_patterns.md)
       - [**🧬_methods/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/)
         - [`📊_baseline_vs_anomaly_logic.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/📊_baseline_vs_anomaly_logic.md)
