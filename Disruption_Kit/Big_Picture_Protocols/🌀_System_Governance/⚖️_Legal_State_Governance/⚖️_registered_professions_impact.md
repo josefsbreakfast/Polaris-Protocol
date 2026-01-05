@@ -1,5 +1,5 @@
 # ⚖️ Registered Professions Impact  
-**First created:** 2025-09-26 | **Last updated:** 2026-01-04  
+**First created:** 2025-09-26 | **Last updated:** 2026-01-05  
 *How manufactured provenance disproportionately affects registered professionals in healthcare, law, education, and social work.*  
 
 ---
@@ -80,6 +80,8 @@ Combatants Law" (domestic IL law).
 - [Recent coverage, "The Voice Of Hind Rajab" cinematic release](https://vm.tiktok.com/ZNRMCEuaN/), Sky News.
 - [Contemporanious coverage of discovery of Hind's body (z"L](https://english.almayadeen.net/news/politics/search-for-hind-comes-to-tragic-end--found-dead-amid-pile-of), Al Mayadeen.
 - [Contemporanious coverage of Hind Rajab Foundation prosecution cases: "Legal noose tightens: Israeli commanders, politicians, 1,000 soldiers could face ICC action"](https://www.aa.com.tr/en/middle-east/legal-noose-tightens-israeli-commanders-politicians-1-000-soldiers-could-face-icc-action/3413175#), Anadolu Ajansı.
+- [Policy Paper: “Medicide” in Gaza and International Law:
+Time for Banning the Bombing of Hospitals](https://www.palestine-studies.org/sites/default/files/attachments/policypapers/Nicola%20Perugini%20-%20Neve%20Gordon%20ENG%20094.pdf), Institute for Palestine Studies. *Note: paper has been subject of takedowns elsewhere; evidence removal from institutional profiles; metadata suggests previous targetting.*  
 - 
 
 
@@ -106,4 +108,4 @@ It analyses the systemic risks posed to registered professions when provenance i
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-01-05_
