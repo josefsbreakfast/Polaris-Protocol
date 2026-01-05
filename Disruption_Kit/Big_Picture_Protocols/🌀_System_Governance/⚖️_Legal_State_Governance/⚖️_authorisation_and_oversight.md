@@ -1,5 +1,5 @@
 # ⚖️ Authorisation and Oversight  
-**First created:** 2025-09-26 | **Last updated:** 2025-12-24  
+**First created:** 2025-09-26 | **Last updated:** 2026-01-05  
 *How intelligence powers are authorised — and how lawful systems drift away from consent.*  
 
 ---
@@ -346,8 +346,10 @@ It explains how intelligence warrants are issued and checked in the UK — and h
 > - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md) — *oversight rhythms as ritual*
 > - [🧠 The Continuum of Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md) - *how the UK's PREVENT counterterrorism polcy machine has vibrated the Islands across the kitchen towards authoritarianism*  
 > - [👾 Intent-Free Authoritarian Drift](../💫_Containment_Logic/👾_intent_free_authoritarian_drift.md) - *how this can happen without any intent to do so at all (we can all accidentally nudge the machine off its plinth*  
-> - [👾 Why Policing and PREVENT Are Susceptible to Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_authoritarian_drift.md) - *how policing and PREVENT are, by nature, susceptible to this drift - again, without needing intent*  
+> - [👾 Why Policing and PREVENT Are Susceptible to Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_authoritarian_drift.md) - *how policing and PREVENT are, by nature, susceptible to this drift - again, without needing intent*
+> - [👅 Bad Deepfakes — Why “Surveillance-Level” Clones Fail](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/👅_bad_deepfakes.md)
+> - [🩸 When Little Bureaucrats Play Big Boy Pimps](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🩸_when_little_bureaucrats_play_big_boy_pimps.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-05_
