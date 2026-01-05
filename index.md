@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-05 03:14:21 UTC_
+_Generated on 2026-01-05 03:16:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4513,6 +4513,8 @@ _Generated on 2026-01-05 03:14:21 UTC_
       - [`🛰️_OSINT_for_anti_palestinian_racism_detection.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🛰️_OSINT_for_anti_palestinian_racism_detection.md)
       - [`🧩_diaspora_repetition_and_trauma_informed_duty.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🧩_diaspora_repetition_and_trauma_informed_duty.md)
     - [**🍉_Collecting_Intent_Adjunct_Material/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/)
+      - [**🧬_methods/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/)
+        - [`🧬_pattern_and_deviation_analysis.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/🧬_pattern_and_deviation_analysis.md)
       - [**🧭_orientation_and_guardrails/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/)
         - [`⚖️_contextual_evidence_and_intent.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/⚖️_contextual_evidence_and_intent.md)
         - [`🔐_risk_and_hygiene_basics.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/🔐_risk_and_hygiene_basics.md)
