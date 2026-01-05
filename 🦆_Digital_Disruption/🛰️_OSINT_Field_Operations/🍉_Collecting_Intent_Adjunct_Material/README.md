@@ -126,7 +126,7 @@ Metadata persistence itself is a signal.
 
 This directory is **complementary**, not duplicative.
 
-- Projects such as **[Accountability Archive](chatgpt://generic-entity?number=0)** (founded by Phil Proudfoot) focus on **explicit expressions of genocidal intent** — statements or posts advocating destruction, removal, or death of a protected group.
+- Projects such as **[Accountability Archive](https://accountabilityarchive.org/)** focus on **explicit expressions of genocidal intent** — statements or posts advocating destruction, removal, or death of a protected group.
 
 - *🍉 Collecting Intent Adjunct Material* focuses on a related but distinct question:
 
