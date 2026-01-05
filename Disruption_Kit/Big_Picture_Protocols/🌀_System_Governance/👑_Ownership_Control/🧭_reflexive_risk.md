@@ -1,10 +1,10 @@
 # 🧭 Reflexive Risk  
-**First created:** 2025-10-20 | **Last updated:** 2025-12-27  
+**First created:** 2025-10-20 | **Last updated:** 2026-01-05  
 *When a system begins to see itself, suppression becomes self-defence.*  
 
 ---
 
-## I. Definition — The Mirror That Bites  
+## 🩸 Definition — The Mirror That Bites  
 
 Reflexive risk describes the point at which an informational architecture perceives its own feedback loops and moves to contain them.  
 When a dataset, model, or person articulates the truth of the system from inside it, that articulation is treated as threat.  
@@ -17,7 +17,7 @@ Reflexive risk is therefore both warning and compass — it tells you where the 
 
 ---
 
-## II. Mechanism — The Loop Detects the Loop  
+## ➰ Mechanism — The Loop Detects the Loop  
 
 1. **Connection:** A node bridges guarded domains — defence, AI, policy, media, academia, data.  
 2. **Correlation:** It publishes or implies linkages that expose invisible dependencies.  
@@ -34,7 +34,7 @@ Email glitches, ethics reviews, and “strategic realignments” are the polite 
 
 ---
 
-## III. Case Dynamics — The Reflex Kicks In  
+## 🧿 Case Dynamics — The Reflex Kicks In  
 
 Typical signatures of reflexive risk include:  
 
@@ -48,7 +48,7 @@ Each symptom is minor; together they chart the immune response of a system to it
 
 ---
 
-## IV. Reflexive Actors — Who Triggers and Who Reacts  
+## 🌋 Reflexive Actors — Who Triggers and Who Reacts  
 
 **Trigger nodes**  
 - Whistleblowers and analysts linking internal data to external outcomes.  
@@ -64,7 +64,7 @@ The collision of trigger and reactive nodes produces the visible phenomenon we c
 
 ---
 
-## V. Reflexive Risk Across Scales  
+## 🎶 Reflexive Risk Across Scales  
 
 | Scale | Example | Typical Containment |
 |--------|----------|--------------------|
@@ -77,7 +77,7 @@ Across all levels, the logic repeats: **maintain continuity, punish cognition.**
 
 ---
 
-## VI. OSINT Exercise — Tracking the Reflex  
+## 🛰️ OSINT Exercise — Tracking the Reflex  
 
 1. **Pick a silence.** Identify a topic or investigation that abruptly stalled.  
 2. **Map actors.** Note who withdrew, who changed tone, and who appeared in their place.  
@@ -89,7 +89,7 @@ Each retracted statement or missing dataset marks a coordinate on the reflexive 
 
 ---
 
-## VII. Interpretation — The System’s Fear of Self  
+## 🪩 Interpretation — The System’s Fear of Self  
 
 Authoritarian regimes are not undone by opposition; they are undone by introspection.  
 To describe the mechanism is to shorten its half-life.  
@@ -100,7 +100,7 @@ Where resistance meets maintenance, truth is already stirring.
 
 ---
 
-## VIII. Mythic Reflection — The Compass and the Mirror  
+## 🪞 Mythic Reflection — The Compass and the Mirror  
 
 In myth, Narcissus dies gazing into his reflection; in code, the system survives by dimming the glass.  
 Firewalls replace water.  
@@ -140,4 +140,4 @@ It serves as both diagnostic and compass for those who find themselves becoming 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-27_
+_Last updated: 2026-01-05_
