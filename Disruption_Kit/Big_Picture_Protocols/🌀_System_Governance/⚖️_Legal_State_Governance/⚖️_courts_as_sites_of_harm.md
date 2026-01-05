@@ -1,5 +1,5 @@
 # ⚖️ Courts as Sites of Harm — When Justice Architecture Becomes Trauma Architecture  
-**First created:** 2025-12-10 | **Last updated:** 2025-12-24  
+**First created:** 2025-12-10 | **Last updated:** 2026-01-05  
 *Why legal venues designed for justice routinely inflict secondary harm — especially on survivors, disabled claimants, and people targeted by false or malicious reporting.*  
 
 ---
@@ -166,8 +166,11 @@ It situates courts not only as forums of justice but as repeated environments of
 > 
 > - [⚖️ How the CPS Operates](./⚖️_how_the_cps_operates.md) - *how "independence of procedure" works in the UK*  
 > - [⚖️ Heavy Bundles: CPS, VPS, Centralisation, and High-Control Analysis](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/⚖️_heavy_bundle_cps_vps_centralisation.md) - *existant digital harms in the UK justice system, begging for corrective action*  
-> - [*Pending:* 🧱 Hostile Architecture vs Universal Design] - *further benefits and harms of actual structure*  
+> - [*Pending:* 🧱 Hostile Architecture vs Universal Design] - *further benefits and harms of actual structure*
+> - [🦁 Gender-Defiance Targeting & Vexatious Complaint Logic](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦁_gender_defiance_targeting_and_vexatious_complaint_logic.md)
+> - [🦔 Enrolment Trauma Risks](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🦔_enrolment_trauma_risks.md)
+> - [⚖️ Borrowed Legitimacy and Moral Sorting](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_borrowed_legitimacy_and_moral_sorting.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-05_
