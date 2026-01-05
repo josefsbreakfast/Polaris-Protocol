@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-05 03:17:30 UTC_
+_Generated on 2026-01-05 03:18:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4515,6 +4515,7 @@ _Generated on 2026-01-05 03:17:30 UTC_
     - [**🍉_Collecting_Intent_Adjunct_Material/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/)
       - [**🧬_methods/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/)
         - [`📊_baseline_vs_anomaly_logic.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/📊_baseline_vs_anomaly_logic.md)
+        - [`🕰️_timing_and_anticipation.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/🕰️_timing_and_anticipation.md)
         - [`🧬_pattern_and_deviation_analysis.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/🧬_pattern_and_deviation_analysis.md)
       - [**🧭_orientation_and_guardrails/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/)
         - [`⚖️_contextual_evidence_and_intent.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/⚖️_contextual_evidence_and_intent.md)
