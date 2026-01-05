@@ -1,5 +1,5 @@
 # ⏳ Governance Latency in Population-Scale Cyber Events  
-**First created:** 2025-10-13 | **Last updated:** 2025-12-24  
+**First created:** 2025-10-13 | **Last updated:** 2026-01-05  
 *Why mid-scale cyber events harm real populations long before institutions are structurally able to respond.*  
 
 ---
@@ -249,8 +249,11 @@ It documents how structural delay functions as an unacknowledged governance mech
 > 
 > - [📿 Vulnerable Data Populations](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/README.md) - *deeper dives into most at-risk populations in data harm cases*
 > - [🧟‍♀️ The Frankenstack Problem](../🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md) - *overview of current UK patchwork stack vulnerabilities*
-> - [🧨 Dual-Use Frankenstack](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🧨_dual_use_frankenstack.md) - *hypothetical composite frankenstack, written for OSINT investigation around academia and red flags for dual-use digital harm tooling*  
+> - [🧨 Dual-Use Frankenstack](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🧨_dual_use_frankenstack.md) - *hypothetical composite frankenstack, written for OSINT investigation around academia and red flags for dual-use digital harm tooling*
+> - [⏳ Chronos as Containment](../💫_Containment_Logic/⏳_chronos_as_containment.md)
+> - [⚖️ Ethics Timeout — When Research Datasets Expire and Disappear](../🧪_Development_Experimentation/⚖️_ethics_timeout_retention_clock.md)
+> - [⏱️ Timebase Desyncs](../../../../🩻_Weirdness_Screening/🌐_Connection_Hiccups/⏱️_timebase_desyncs.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-05_
