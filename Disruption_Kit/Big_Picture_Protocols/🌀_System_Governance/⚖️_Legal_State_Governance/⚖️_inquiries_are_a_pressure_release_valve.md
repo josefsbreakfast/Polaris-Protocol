@@ -1,5 +1,5 @@
 # ⚖️ Inquiries Are a Pressure Release Valve  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-24  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-05  
 *How inquiries absorb public anger, stabilise institutions, and substitute for legal accountability.*  
 
 ---
@@ -181,8 +181,10 @@ It documents how inquiries function as stabilisation mechanisms that often displ
 > - [⚖️ We Do Have to Prosecute the Elite, Actually](./⚖️_we_do_have_to_prosecute_the_elite_actually.md) — *accountability as public good*  
 > - [⚖️ Elite Impunity Is a National Security Risk](./⚖️_elite_impunity_is_a_national_security_risk.md) — *downstream consequences*  
 > - [🕳️ When the Censor Is a Contractor](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕳️_when_the_censor_is_a_contractor.md) - *how elite parties and parties with significant capital outsource the gagging of anyone and everyone*  
-> - [📿 Women, Whistleblowers, & Prevent Drag](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/📿_women_whistleblowers_prevent_drag.md) - *how the UK's "counterterrorism" policies and practice multiply this impact for femme-coded survivors of SV*  
+> - [📿 Women, Whistleblowers, & Prevent Drag](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/📿_women_whistleblowers_prevent_drag.md) - *how the UK's "counterterrorism" policies and practice multiply this impact for femme-coded survivors of SV*
+> - [🫆 Metadata Fingerprints — Hidden Fields and Author Traces](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🫆__metadata_fingerprints.md)  
+> - [🧠 How Bad Actors Incriminate Themselves](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧠_how_bad_actors_incriminate_themselves.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-05_
