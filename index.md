@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-04 23:42:59 UTC_
+_Generated on 2026-01-05 03:07:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4512,6 +4512,8 @@ _Generated on 2026-01-04 23:42:59 UTC_
       - [`🕸️_sector_coordination_hypothesis.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🕸️_sector_coordination_hypothesis.md)
       - [`🛰️_OSINT_for_anti_palestinian_racism_detection.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🛰️_OSINT_for_anti_palestinian_racism_detection.md)
       - [`🧩_diaspora_repetition_and_trauma_informed_duty.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🧩_diaspora_repetition_and_trauma_informed_duty.md)
+    - [**🍉_Collecting_Intent_Adjunct_Material/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/)
+      - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/README.md)
     - [**🍯_Finding_HoneyBot/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/README.md)
       - [`🐝_audit_stinger.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/🐝_audit_stinger.md)
