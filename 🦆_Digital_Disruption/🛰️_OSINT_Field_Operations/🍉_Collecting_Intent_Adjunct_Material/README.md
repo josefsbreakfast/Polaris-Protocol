@@ -1,31 +1,3 @@
-🍉_Collecting_Intent_Adjunct_Material/
-│
-├── README.md
-│
-├── 🧭_orientation_and_guardrails/
-│   ├── 🧭_what_this_is_and_is_not.md
-│   ├── 🔐_risk_and_hygiene_basics.md
-│   └── ⚖️_use_of_contextual_evidence_in_courts.md
-│
-├── 🧬_methods_and_standards/
-│   ├── 🧬_pattern_and_deviation_analysis.md
-│   ├── 📊_baseline_vs_anomaly_logic.md
-│   ├── 🕰️_temporal_significance.md
-│   └── 🧠_evidentiary_silence.md
-│
-├── 📚_evidence_registers/
-│   ├── 📉_complaint_and_regulatory_pressure.md
-│   ├── 🕰️_withdrawal_and_silence_timelines.md
-│   ├── 📣_media_narrative_shifts.md
-│   └── 📵_platform_visibility_logs.md
-│
-└── 🧩_synthesis_notes/
-    ├── 🧩_cross_register_patterns.md
-    └── 📎_intent_and_foreseeability_context.md
-
----
-
-
 # 🍉 Collecting Intent Adjunct Material  
 **First created:** 2026-01-05 | **Last updated:** 2026-01-05  
 *Distributed OSINT practices for preserving contextual evidence relevant to intent, anticipation, and evidentiary suppression.*
