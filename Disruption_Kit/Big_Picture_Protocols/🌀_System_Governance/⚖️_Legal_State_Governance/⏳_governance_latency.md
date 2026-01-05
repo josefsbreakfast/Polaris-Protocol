@@ -247,12 +247,13 @@ It documents how structural delay functions as an unacknowledged governance mech
 
 > 📡 Cross-references:
 > 
-> - [📿 Vulnerable Data Populations](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/README.md) - *deeper dives into most at-risk populations in data harm cases*
-> - [🧟‍♀️ The Frankenstack Problem](../🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md) - *overview of current UK patchwork stack vulnerabilities*
-> - [🧨 Dual-Use Frankenstack](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🧨_dual_use_frankenstack.md) - *hypothetical composite frankenstack, written for OSINT investigation around academia and red flags for dual-use digital harm tooling*
-> - [⏳ Chronos as Containment](../💫_Containment_Logic/⏳_chronos_as_containment.md)
-> - [⚖️ Ethics Timeout — When Research Datasets Expire and Disappear](../🧪_Development_Experimentation/⚖️_ethics_timeout_retention_clock.md)
+> - [📿 Vulnerable Data Populations](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/README.md) - *deeper dives into most at-risk populations in data harm cases*  
+> - [🧟‍♀️ The Frankenstack Problem](../🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md) - *overview of current UK patchwork stack vulnerabilities*  
+> - [🧨 Dual-Use Frankenstack](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🧨_dual_use_frankenstack.md) - *hypothetical composite frankenstack, written for OSINT investigation around academia and red flags for dual-use digital harm tooling*  
+> - [⏳ Chronos as Containment](../💫_Containment_Logic/⏳_chronos_as_containment.md)  
+> - [⚖️ Ethics Timeout — When Research Datasets Expire and Disappear](../🧪_Development_Experimentation/⚖️_ethics_timeout_retention_clock.md)  
 > - [⏱️ Timebase Desyncs](../../../../🩻_Weirdness_Screening/🌐_Connection_Hiccups/⏱️_timebase_desyncs.md)  
+> - [🧨 Delayed Visibility Is a Signal](../../../Containment_Scripts/Suppression_Modes/🧨_delayed_visibility_is_a_signal.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
