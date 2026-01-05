@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-05 03:13:50 UTC_
+_Generated on 2026-01-05 03:14:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4515,6 +4515,7 @@ _Generated on 2026-01-05 03:13:50 UTC_
     - [**🍉_Collecting_Intent_Adjunct_Material/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/)
       - [**🧭_orientation_and_guardrails/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/)
         - [`⚖️_contextual_evidence_and_intent.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/⚖️_contextual_evidence_and_intent.md)
+        - [`🔐_risk_and_hygiene_basics.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/🔐_risk_and_hygiene_basics.md)
         - [`🧭_what_this_is_and_is_not.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/🧭_what_this_is_and_is_not.md)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/README.md)
     - [**🍯_Finding_HoneyBot/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/)
