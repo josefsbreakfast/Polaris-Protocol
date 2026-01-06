@@ -1,6 +1,6 @@
 # ⚖️ Procedural Correctness as Safeguard  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-07  
-*Why institutions become rigid, hyper-formal, and slow when a coercive or litigious actor is present — and how perfect procedure becomes the only viable protection.*
+**First created:** 2025-11-16 | **Last updated:** 2026-01-06  
+*Why institutions become rigid, hyper-formal, and slow when a coercive or litigious actor is present — and how perfect procedure becomes the only viable protection.*  
 
 ---
 
@@ -36,9 +36,7 @@ This node explains why institutions behave strangely or “freeze” when risk i
 
 ---
 
-## 🧿 Analysis  
-
-### 1️⃣ Why Procedure Becomes Sacred  
+## 👑 Why Procedure Becomes Sacred  
 A coercive or litigious actor can weaponise absolutely any irregularity.
 
 Therefore:
@@ -56,7 +54,7 @@ If the system acts informally too early, the bad actor acquires legal ammunition
 
 ---
 
-### 2️⃣ How Litigious Actors Use Irregularity  
+## 🧨 How Litigious Actors Use Irregularity  
 A single informal email, a misplaced note, or a skipped “step in the flowchart” can be used to claim:
 
 - unfair treatment  
@@ -80,7 +78,7 @@ Thus the safest pathway is:
 
 ---
 
-### 3️⃣ Why This Feels Like “Being Ignored”  
+## 🧊 Why This Feels Like “Being Ignored”  
 Survivors often interpret procedural correctness as:
 
 - abandonment  
@@ -106,7 +104,7 @@ Both perceptions are real.
 
 ---
 
-### 4️⃣ Why Institutions Avoid Informal Help  
+## 🔥 Why Institutions Avoid Informal Help  
 Support that looks ordinary in other cases becomes dangerous here.
 
 Examples:
@@ -136,7 +134,7 @@ This feels inhuman — but it protects the eventual outcome.
 
 ---
 
-### 5️⃣ The Temporary Nature of Procedural Rigidity  
+## ✂️ The Temporary Nature of Procedural Rigidity  
 Procedural rigidity is not permanent.
 
 It lasts only until:
@@ -160,7 +158,7 @@ The rigidity is a cocoon, not a judgment.
 
 ---
 
-### 6️⃣ Survivor Guidance: How to Interpret Procedural Correctness  
+## 🐦‍🔥 Survivor Guidance: How to Interpret Procedural Correctness  
 Recognise that rigidity often means:
 
 - **they believe you enough to protect the process**  
@@ -188,12 +186,12 @@ procedure, rigidity, legal hygiene, coercive actors, safeguarding, survivor supp
 
 *⚖️ Procedural Correctness as Safeguard* is a Governance & Containment node explaining why institutions cannot improvise or provide informal support until procedural purity is guaranteed.
 
-Pairs with:
-
-- **🪢 Hygienic Cut**  
-- **🔍 Institutional Freeze Patterns**  
-- **🧙‍♀️ Witch Logic Diagnostic**
+> 📡 Cross-references:
+> 
+> - [🪢 Hygienic Cut](./🪢_hygienic_cut.md)  
+> - [🔍 Institutional Freeze Patterns](./🔍_institutional_freeze_patterns.md)  
+> - [🧙‍♀️ Witch Logic Diagnostic](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-01-06_

@@ -1,5 +1,5 @@
 # ⚖️ Elbit Systems UK — Legal & Control Structure  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-24  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-05  
 *Formal ownership, control vectors, and limits of disclosure in the UK context.*  
 
 ---
@@ -156,8 +156,11 @@ It records formal ownership, practical control mechanisms, and the limits of pub
 > 
 > - [📊 Risk, Capital, and Hunger Strikes](./📊_risk_capital_and_hunger_strikes.md) - *due to commercial interest overlap, the same benefactors of Elbit are often benefactors of prisons, asylum incarceration, and security where the state has so justified a contract*  
 > - [📜 UK Cabinet Conflict & Opacity Map (2025)](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/📜_uk_cabinet_conflict_and_opacity_map_2025.md) - *CoI power-mapping of UK Cabinet as comparison*  
-> - [🛰️ OSINT Field Operations](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md)- *how to trace the ghosts of hot money*  
+> - [🛰️ OSINT Field Operations](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md)- *how to trace the ghosts of hot money*
+> - [🍉 Why The Long Prison Stay](./🍉_why_the_long_prison_stay.md)  
+> - [🔥 Hunger Strike Comparisons](./🔥_hunger_strike_comparisons.md)  
+> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-05_

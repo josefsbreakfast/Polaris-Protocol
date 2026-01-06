@@ -1,5 +1,5 @@
 # ✈️ Who Wants These Creeps in Charge?  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-04  
 *On legitimacy, moral authority, and the collapse of consent.*  
 
 ---
@@ -149,7 +149,10 @@ Until then, the public’s question stands:
 ---
 
 ## 🌌 Constellations  
-✈️ 🏛️ ⚖️ 🧠 🪞 — legitimacy, authority, moral credibility, governance failure, public trust.
+✈️ 🏛️ ⚖️ 🧠 🪞 — legitimacy, authority, moral credibility, governance failure, public trust.  
+
+*Further media:*  
+- [The Onion Investigates: Jeffrey Epstein](https://youtu.be/XjhSoGcQhWU?si=Om4rjhmugnId84x4)  
 
 ---
 
@@ -177,4 +180,4 @@ And trust, once broken, must be earned again.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-04_

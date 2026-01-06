@@ -1,6 +1,8 @@
 # 🛰️ Transatlantic Protection Rackets  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+**First created:** 2025-11-16 | **Last updated:** 2026-01-04  
 *How Prevent and Project 2025 mirror each other as moral-governance engines masquerading as safety.*
+
+---
 
 ## 🛰️ Orientation  
 This node maps the deep similarity between:
@@ -14,6 +16,8 @@ systems that create fear, moral panic, and reputational precarity, then offer �
 This is not coincidence.  
 It is a **transatlantic moral-governance operating system**.
 
+---
+
 ## ✨ Key Features  
 
 - **Purity logic disguised as safety** — sexual, behavioural, political and identity non-compliance framed as “risk.”  
@@ -22,9 +26,9 @@ It is a **transatlantic moral-governance operating system**.
 - **Culture-war laundering** — UK soft power using US moral scripts, minus the explicit religion.  
 - **Protection as leverage** — the system manufactures vulnerability, then sells itself as the solution.  
 
-## 🧿 Analysis  
 
-### 1. 🇬🇧 Prevent and 🇺🇸 Project 2025 share the same skeleton  
+
+## 🇬🇧 Prevent and 🇺🇸 Project 2025 share the same skeleton  
 Both systems enforce a **dominant cultural morality** under the aesthetic of “risk management.”  
 Where the US uses explicit religious authority, Britain uses:
 
@@ -48,7 +52,7 @@ Prevent avoids the overt theocratic language of Project 2025, but still punishes
 Project 2025 shouts.  
 Prevent whispers — with consequences.
 
-### 3. Purity policing becomes reputational policing  
+### 🐼 Purity policing becomes reputational policing  
 In Project 2025:  
 > “You are immoral.”
 
@@ -64,7 +68,7 @@ Prevent rewrites **morality** into **risk**, which makes its purity enforcement 
 
 This is reputational violence disguised as procedure.
 
-### 4. Both systems discipline women through male projection  
+## 🧿 Both systems discipline women through male projection  
 Project 2025 does it explicitly:  
 female autonomy → moral disorder.
 
@@ -76,7 +80,7 @@ into **female culpability**.
 
 This is why private behaviour becomes “evidence” only when a man feels something.
 
-### 5. Both systems manufacture the vulnerability they claim to fix  
+## 👾 Both systems manufacture the vulnerability they claim to fix  
 The protection racket formula:
 
 1. Define a moral/code violation.  
@@ -88,7 +92,7 @@ The protection racket formula:
 It’s the same pattern used by organised crime.  
 Prevent simply uses risk assessments instead of baseball bats.
 
-### 6. The transatlantic pipeline: shared ideology, different branding  
+## 🕳️ The transatlantic pipeline: shared ideology, different branding  
 Project 2025 provides the **ideology**.  
 Prevent provides the **bureaucratic implementation model**.
 
@@ -101,7 +105,7 @@ British governance often imports US moral frameworks, then “professionalisers�
 
 It is cultural laundering.
 
-### 7. Why this matters  
+## 🔮 Why this matters  
 Because the UK still believes it is immune to Project 2025-style authoritarianism.
 
 It isn’t.  
@@ -109,21 +113,28 @@ It has simply **translated it into HR-speak**, embedded it in frontline services
 
 Prevent is Project 2025 in a suit.
 
+---
+
 ## 🌌 Constellations  
 🧿 🈺 🔥 🛰️ — interference, governance, moral-risk recoding, transnational authoritarian drift.
+
+---
 
 ## ✨ Stardust  
 prevent, project 2025, purity logic, governance, safeguarding theatre, moral policing, reputational control, culture war laundering, authoritarianism, risk logic
 
+---
+
 ## 🏮 Footer  
-*Transatlantic Protection Rackets* is a living node of the Polaris Protocol.  
+*🛰️ Transatlantic Protection Rackets* is a living node of the Polaris Protocol.  
 It maps the shared moral-governance architecture linking the UK’s Prevent regime with US purity-politics frameworks, exposing both as protection rackets operating under the guise of safety.
 
-> 📡 Cross-references:  
-> - [🈺 Governance_And_Prevent](../Metadata_Sabotage_Network/🏯_Governance_And_Containment/)  
-> - [🧠 Systems & Governance](../Big_Picture_Protocols/🌀_Systems_&_Governance/)  
-> - [🎭 Narrative & Psych-Ops](../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/)
+> 📡 Cross-references:
+> 
+> - [🈺 Governance_And_Prevent] (../Metadata_Sabotage_Network/🏯_Governance_And_Containment/)  
+> - [🧠 Systems & Governance] (../Big_Picture_Protocols/🌀_Systems_&_Governance/)  
+> - [🎭 Narrative & Psych-Ops] (../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-16_
+_Last updated: 2026-01-04_

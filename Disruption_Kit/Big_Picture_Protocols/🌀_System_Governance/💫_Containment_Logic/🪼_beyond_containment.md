@@ -1,6 +1,6 @@
 # 🪼 Beyond Containment
-**First created:** 2025-12-17 | **Last updated:** 2025-12-23  
-*What governance looks like when harm management gives way to prevention, repair, and restraint.*
+**First created:** 2025-12-17 | **Last updated:** 2026-01-06  
+*What governance looks like when harm management gives way to prevention, repair, and restraint.*  
 
 ---
 
@@ -11,9 +11,7 @@ Containment — of protest, of risk, of narrative, of liability — is often tre
 
 ---
 
-## 🧿 Analysis  
-
-### What Containment Is Good For  
+## 🧿 What Containment Is Good For  
 Containment can be appropriate when:
 - Information is incomplete  
 - Immediate escalation would worsen harm  
@@ -25,7 +23,7 @@ Used indefinitely, it replaces judgment.
 
 ---
 
-### When Containment Becomes the Problem  
+## 🎁 When Containment Becomes the Problem  
 Containment fails when:
 - Risks are known and documented  
 - Interventions are available  
@@ -36,7 +34,7 @@ At this point, containment no longer protects the system — it **locks it into 
 
 ---
 
-### The Illusion of Control  
+## 🍄 The Illusion of Control  
 Extended containment creates the appearance of order while:
 - Increasing foreseeability of harm  
 - Narrowing decision-making  
@@ -47,7 +45,7 @@ This is how institutions appear calm while approaching crisis.
 
 ---
 
-### Beyond Containment: The Required Shift  
+## 🦆 Beyond Containment: The Required Shift  
 Moving beyond containment requires:
 - Acknowledging uncertainty without paralysis  
 - Reopening oversight and external input  
@@ -59,7 +57,7 @@ It is **governance maturity**.
 
 ---
 
-### Why This Is Rare  
+## 🪼 Why This Is Rare  
 States resist moving beyond containment because:
 - It exposes earlier misjudgments  
 - It disrupts internal hierarchies  
@@ -71,7 +69,7 @@ It compounds harm.
 
 ---
 
-### The Cost of Delay  
+## 🧨 The Cost of Delay  
 Every moment spent maintaining containment past its utility:
 - Increases legal exposure  
 - Deepens public mistrust  
@@ -96,10 +94,10 @@ It functions as a threshold marker — identifying when continued containment pr
 
 > 📡 Cross-references:
 > 
-> - [🩻 The Balance of Legal Exposures] — *liability-driven entrenchment*  
-> - [🇬🇧 The UK and Existential Delusions] — *misclassified necessity*  
-> - [🉑 System Thresholds] — *red-line escalation logic*  
+> - [*Pending:* 🩻 The Balance of Legal Exposures] — *liability-driven entrenchment*  
+> - [🇬🇧 The UK and Existential Delusions](./🇬🇧_the_uk_and_existential_delusions.md) — *misclassified necessity*  
+> - [🉑 System Thresholds](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/README.md) — *red-line escalation logic*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-01-06_

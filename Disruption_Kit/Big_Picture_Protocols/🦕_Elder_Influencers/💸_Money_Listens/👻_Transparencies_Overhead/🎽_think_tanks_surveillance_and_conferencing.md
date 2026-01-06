@@ -1,6 +1,6 @@
 # 🎽 Think Tanks, Surveillance, and Conferencing  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-19  
-*How influence networks and conference circuits act as surveillance architecture disguised as policy dialogue.*
+**First created:** 2025-10-03 | **Last updated:** 2026-01-04  
+*How influence networks and conference circuits act as surveillance architecture disguised as policy dialogue.*  
 
 ---
 
@@ -67,8 +67,12 @@ It maps how the infrastructures of influence — research funding, conferences, 
 > 📡 Cross-references:
 > 
 > - [💸 Money Listens](../README.md) — *core folder on lobbying, corporate capture, and narrative finance*  
-> - [🪬 Radicalisation & Extremism](../../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md) — *for overlaps with policy laundering under security rhetoric*  
+> - [🪬 Radicalisation & Extremism](../../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md) — *for overlaps with policy laundering under security rhetoric*
+> - [🧪 Think-Tanks & Their Funding (2010–16)](./🧪_think_tanks_and_their_funding_2010_2016.md)  
+> - [🧭 Think-Tank Drift and Blurred Boundaries](./🧭_think_tank_drift_and_blurred_boundaries.md)  
+> - [🏛️ The Grey Zone Inside the Think Tank](../../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🏛️_the_grey_zone_inside_the_think_tank.md)  
+> - [🏛️ Neocon Think Tank Cluster](../../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/🏛️_neocon_think_tank_cluster.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-13_
+_Last updated: 2026-01-04_

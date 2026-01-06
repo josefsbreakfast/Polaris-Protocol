@@ -1,6 +1,6 @@
 # 🪖 SAS & Special Forces — Accountability and Complaints  
-**First created:** 2025-10-07  |  **Last updated:** 2025-10-18  
-*A Polaris node explaining who the UK’s special forces are, how they differ from police or private security, the legal framework for domestic deployment (MACA), and how civilians can seek accountability or file complaints.*
+**First created:** 2025-10-07 | **Last updated:** 2026-01-06  
+*A Polaris node explaining who the UK’s special forces are, how they differ from police or private security, the legal framework for domestic deployment (MACA), and how civilians can seek accountability or file complaints.*  
 
 ---
 
@@ -114,9 +114,17 @@ special forces; SAS; MACA; accountability; civil–military relations; oversight
 
 ## 🏮 Footer  
 
-*This node belongs to the Polaris Protocol governance cluster.*  
-It summarises lawful domestic use of the armed forces and practical avenues for public accountability.  
+This node summarises lawful domestic use of the armed forces and practical avenues for public accountability.  
+
+> 📡 Cross-references:
+> 
+> - [🎶 Sonata Server Sympathies](../../🦕_Elder_Influencers/🕊️_Just_Boxes/🎶_sonata_server_sympathies.md)  
+> - [*Pending:* 🧯 Sonata Aftershock & Fear Procurement]  
+> - [📦 Containment by Classification](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📦_containment_by_classification.md)  
+> - [🇬🇧 The Long UK History of Stealing Children’s Identities](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🇬🇧_the_long_uk_history_of_stealing_childrens_identities.md)  
+> - [☘️ The Good Friday Agreement and Palestine Action Prisoners](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/☘️_the_good_friday_agreement_and_palestine_action_prisoners.md)
+> - [🧰 Lawful Escalation Playbook (MOD & Contractors)](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🧰_JSP_9-17A_Annex_D_Lawful_Escalation_Command_And_Conscience_Protocol.md) - *some satire, why not*  
 
 *Survivor authorship is sovereign — containment is never neutral.*  
 
-_Last updated 2025-10-18_
+_Last updated 2026-01-06_

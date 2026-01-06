@@ -1,5 +1,5 @@
 # 🔍 Institutional Freeze Patterns  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-16 | **Last updated:** 2026-01-06  
 *Why institutions stall, slow down, or become hyper-formal around survivor cases involving coercive, litigious, or system-embedded actors — and how to recognise when freeze is a structural reflex rather than personal rejection.*  
 
 ---
@@ -29,9 +29,7 @@ This node maps the underlying drivers, symptoms, and impacts of institutional fr
 
 ---
 
-## 🧿 Analysis  
-
-### 1️⃣ What Is Institutional Freeze?  
+## ❄️ What Is Institutional Freeze?  
 Institutional freeze occurs when:
 
 - risk is high  
@@ -50,7 +48,7 @@ Freeze mimics apathy, but it is actually **risk triage**.
 
 ---
 
-### 2️⃣ Why Freeze Happens  
+## ⚡️ Why Freeze Happens  
 Freeze happens when staff believe:
 
 - “If I act, I might get it wrong.”  
@@ -71,7 +69,7 @@ All three things can be true.
 
 ---
 
-### 3️⃣ How Freeze Manifests  
+## 🧊 How Freeze Manifests  
 Common signs:
 
 - escalating formality  
@@ -92,7 +90,7 @@ These behaviours are diagnostic of structural fear, not personal judgment.
 
 ---
 
-### 4️⃣ The Role of the Coercive Actor  
+## 🌋 The Role of the Coercive Actor  
 Freeze is strongest when the bad actor is:
 
 - litigious  
@@ -117,7 +115,7 @@ Thus:
 
 ---
 
-### 5️⃣ Survivor Experience of Freeze  
+## 🧨 Survivor Experience of Freeze  
 Survivors describe freeze as:
 
 - “Everyone pulled away from me.”  
@@ -138,7 +136,7 @@ The gap between survivor perspective and institutional perspective is wide, pain
 
 ---
 
-### 6️⃣ What Resolves Freeze  
+## ✂️ What Resolves Freeze  
 Freeze typically ends when:
 
 - the hygienic cut occurs  
@@ -164,7 +162,7 @@ It is **a pre‑safety phase**.
 
 ---
 
-### 7️⃣ Diagnostic Questions for Survivors  
+## 🐦‍🔥 Diagnostic Questions for Survivors  
 To recognise freeze:
 
 - Are staff unusually formal or hesitant?  
@@ -193,12 +191,12 @@ institutional freeze, procedural fear, coercive actors, survivor support delay, 
 
 *🔍 Institutional Freeze Patterns* explains why systems appear to “abandon” survivors when in fact they are locked in risk triage around a coercive or litigious actor.
 
-It completes the set with:
-
-- **🪢 Hygienic Cut**  
-- **⚖️ Procedural Correctness as Safeguard**  
-- **🧙‍♀️ Witch Logic Diagnostic**  
+> 📡 Cross-references:
+> 
+> - [🪢 Hygienic Cut](./🪢_hygienic_cut.md)  
+> - [⚖️ Procedural Correctness as Safeguard](./⚖️_procedural_correctness_as_safeguard.md)  
+> - [🧙‍♀️ Witch Logic Diagnostic](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-01-06_

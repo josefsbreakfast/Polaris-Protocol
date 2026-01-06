@@ -1,6 +1,6 @@
-# 🫒 Occupation as Containment Regime
-**First created:** 2025-11-04 | **Last updated:** 2025-11-12  
-*When the performance of conflict becomes the structure of control.*
+# 🫒 Occupation as Containment Regime  
+**First created:** 2025-11-04 | **Last updated:** 2026-01-06  
+*When the performance of conflict becomes the structure of control.*  
 
 ---
 
@@ -112,10 +112,15 @@ It situates “occupation” as a systemic method of control sustained through r
 
 > 📡 Cross-references:
 > 
-> - ✂️ Engineered Disjuncture of Allies — *source logic of antagonism as engine*
-> - 🧠 Big Picture Protocols — *macro-diagnostic frameworks of containment*
+> - [✂️ Engineered Disjuncture of Allies](./✂️_engineered_disjuncture_of_allies.md) — *source logic of antagonism as engine*
+> - [🧃 COGAT Is a Containment Operation](../../🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
+> - [🛑 GHF Is a Weapon](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🛑_ghf_is_a_weapon.md)
+> - [🧲 What BCG Takes from the UK … and Palestine](../🛰️_Infrastructure_Procurement/🧲_what_bcg_takes_from_the_uk_and_palestine.md)
+> - [✂🌹 Machine Pruning Logic](../../🦕_Elder_Influencers/🕊️_Just_Boxes/✂🌹_machine_pruning_logic.md)
+> - [🧿 UK Persuasion Engine on Palestine](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧿_uk_persuasion_engine_on_palestine.md)
+> - [🧠 Bargain Bin Mossad](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_bargain_bin_mossad.md)  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-01-06_

@@ -1,5 +1,5 @@
 # ⚖️ Due Diligence as Moral Defence  
-**First created:** 2025-10-17 | **Last updated:** 2025-12-24  
+**First created:** 2025-10-17 | **Last updated:** 2026-01-05  
 *Ideological note on how bureaucratic fragmentation erodes accountability and enables atrocity through cultivated ignorance.*  
 
 ---
@@ -87,6 +87,8 @@ It articulates how governance cultures that fragment responsibility incubate mor
 > 📡 Cross-references:
 > 
 > - [🏛️ The Wannsee Template: How Bureaucratic Genocide Operates](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🏛️_wannsee_template_bureaucratic_genocide.md) - *how events like the Holocaust get "signed off" in the paperwork the perpetrators forget to destroy, so we know what to look for in prevention and deescalation today*  
-> - [🐕 Reading the Dog Whistle — Bureaucratic Language and Atrocity Risk](./🐕_reading_the_dog_whistle.md) - *how events like the Holocaust, through to the genocides which include the people of Palestine, South Sudan, and Congo today, get normalised through coded language*  
+> - [🐕 Reading the Dog Whistle — Bureaucratic Language and Atrocity Risk](./🐕_reading_the_dog_whistle.md) - *how events like the Holocaust, through to the genocides which include the people of Palestine, South Sudan, and Congo today, get normalised through coded language*
+> - [🛑 Alligator Alcatraz — Traceability Breakdown](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🛑_alligator_alcatraz_traceability_breakdown.md)
+> - [🪼 We Choose To Allow Online Stalking Of Women And Children](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🪼_we_choose_to_allow_online_stalking_of_women_and_children.md)  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-05_

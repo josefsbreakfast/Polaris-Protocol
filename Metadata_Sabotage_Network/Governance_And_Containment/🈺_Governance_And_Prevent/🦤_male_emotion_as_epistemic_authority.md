@@ -1,4 +1,4 @@
-# 🧩 Male Emotion as Epistemic Authority  
+# 🦤 Male Emotion as Epistemic Authority  
 **First created:** 2025-11-16 | **Last updated:** 2025-11-16  
 *How male affective states become treated as superior knowledge within institutional decision-making.*
 

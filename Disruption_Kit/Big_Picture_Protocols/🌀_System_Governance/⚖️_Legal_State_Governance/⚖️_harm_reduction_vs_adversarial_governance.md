@@ -1,5 +1,5 @@
 # ⚖️ Harm Reduction vs Adversarial Governance  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-24  
+**First created:** 2025-12-12 | **Last updated:** 2026-01-05  
 *How precautionary care becomes reframed as obstruction — and why systems degrade as a result.*  
 
 ---
@@ -155,7 +155,10 @@ It explains how care-based interventions become reframed as threats — and why 
 > - [💼 Narrative Capture & Linguistic Power](../📚_Narrative_Management/💼_narrative_capture_and_linguistic_power.md) — *framing and delay*  
 > - [📜 Lawfare, SLAPPs & Chilling Effects](../../🦕_Elder_Influencers/📜_Statutes/📜_lawfare_slapps_and_chilling_effects.md) — *procedural escalation*  
 > - [🧠 Qualitative Harm in Quantitative Systems](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_qualitative_harm_in_quantitative_systems.md) — *governance mismatch*  
+> - [📊 The Missing National Risk Register 2023 – 2025](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📊_the_missing_national_risk_register_2023_2025.md)  
+> - [🌒 Waiting Is Not a Rescue](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌒_waiting_is_not_a_rescue.md)  
+> - [🪼 Catfishing](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪼_catfishing.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-05_

@@ -1,5 +1,5 @@
 # 🌐 Cross-Jurisdiction Patterning — Global Migration of Signatures  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-10 | **Last updated:** 2026-01-04  
 *How vendor logic travels faster than law.*
 
 ---
@@ -118,8 +118,13 @@ global policy, vendor logic, interoperability, standardisation, surveillance, co
 *🌐 Cross-Jurisdiction Patterning — Global Migration of Signatures* is a living node of the Polaris Protocol.  
 It follows containment across borders and languages — tracing how code becomes law faster than lawmakers can read it.  
 
-> 📡 Cross-references: *TBC*  
+> 📡 Cross-references:
+>
+> - [🚩 Feedback Loops — When Being Flagged Creates the Evidence](./🚩_when_being_flagged_creates_the_evidence.md)  
+> - [🌍 Residual Shadows at FCDO](../../🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌍_residual_shadows_at_fcdo.md)
+> - [🧟 The Zombie Data Genocide](../../🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧟_the_zombie_data_genocide.md)  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-20_  
+
+_Last updated: 2026-01-04_  

@@ -1,6 +1,6 @@
 # ⚖️ Containment Contract Trace  
-**First created:** 2025-08-07 | **Last updated:** 2025-12-24  
-*Unconsented containment, metadata silencing, and covert NDAs.*
+**First created:** 2025-08-07 | **Last updated:** 2026-01-05  
+*Unconsented containment, metadata silencing, and covert NDAs.*  
 <!--I'm a bit too raw to update and correct this, so keeping as is for now.-->
 ---
 
@@ -102,8 +102,9 @@ It documents unconsented containment mechanisms that simulate NDA effects and st
 > 
 > - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) - *the inner architecture of metadata sabotage systems*  
 > - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) - *manipulation and coercion*
-> - [🩹 Patch Repair Governance](../💫_Containment_Logic/🩹_patch_repair_governance.md) - *containment systems as stitched patchwork with holes aplenty*  
+> - [🩹 Patch Repair Governance](../💫_Containment_Logic/🩹_patch_repair_governance.md) - *containment systems as stitched patchwork with holes aplenty*
+> - [🫜 Divorce Support](../../../Field_Logs/20251001_October_2025/🫜_divorce_support.md) - *דו ביסט באַרעכטיקט*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-05_

@@ -1,5 +1,5 @@
 # ⚖️ Cluedo Certainty vs Court Certainty  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-24  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-05  
 *Why being sure is not the same as proving — and why evidence still matters even when the answer is obvious.*  
 
 ---
@@ -144,8 +144,13 @@ It clarifies the epistemic gap exploited by institutions and reframes evidence a
 > 
 > - [⚖️ Visibility Is Enforcement](./⚖️_visibility_is_enforcement.md) — *why being seen changes outcomes*  
 > - [🏛️ Precedent Is Policy](./🏛️_precedent_is_policy.md) — *why institutions fear proof*  
-> - [⚖️ Non-Prosecution Teaches Impunity](./⚖️_non_prosecution_teaches_impunity.md) — *consequences of refusal*  
+> - [⚖️ Non-Prosecution Teaches Impunity](./⚖️_non_prosecution_teaches_impunity.md) — *consequences of refusal*
+> - [🧠 Ethical Attrition via Asymmetric Burden](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠_ethical_attrition_via_asymmetric_burden.md)  
+> - [🧠 Psych-Ops of Tone — The Science of Disbelief](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠_psychops_of_tone_the_science_of_disbelief.md)  
+> - [👾 Reduced Integrity Checks Downstream](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👾_reduced_integrity_checks_downstream.md)
+> - [🌀 Loop Mapping Station](../../../../🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md)
+> - [🪢 Re-Embodied Dialogue & Civic Presence](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/🪢_re_embodied_dialogue_and_civic_presence.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-05_

@@ -1,6 +1,6 @@
-# 🔮 Magical thinking as an economic operating system  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*How faith in self-correcting markets, infinite growth, and innovation-as-salvation became a governing ideology rather than a cognitive error.*
+# 🔮 Magical Thinking As An Economic Operating System  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-04  
+*How faith in self-correcting markets, infinite growth, and innovation-as-salvation became a governing ideology rather than a cognitive error.*  
 
 ---
 
@@ -155,15 +155,15 @@ magical thinking, economic ideology, growth theology, market myths, financial cr
 
 ## 🏮 Footer  
 
-*🔮 Magical thinking as an economic operating system* is a diagnostic node of the **Polaris Protocol**.  
+*🔮 Magical Thinking As An Economic Operating System* is a diagnostic node of the **Polaris Protocol**.  
 It identifies recurring belief structures that enable repeated economic harm while resisting empirical correction.
 
 > 📡 Cross-references:
 > 
-> - [🦕 Geological timescale economics] — exposed absurdity  
-> - [🧬 Irreversible limits] — boundary conditions  
-> - [🪦 The protagonist problem] — narrative immunity  
+> - [🦕 Geological Timescale Economics: Make New Dinosaurs](../../../🌀_System_Governance/🧪_Development_Experimentation/🦕_geological_timescale_economics_make_new_dinosaurs.md) — *exposed absurdity*  
+> - [🧬 Irreversible Limits: When Physics Refuses Economic Fantasy](../../../🌀_System_Governance/⚖️_Legal_State_Governance/🧬_irreversible_limits.md) — *boundary conditions*  
+> - [🪦 The Protagonist Problem](../../../🌀_System_Governance/💫_Containment_Logic/🪦_the_protagonist_problem.md) — *narrative immunity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-04_

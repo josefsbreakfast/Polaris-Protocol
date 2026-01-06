@@ -1,10 +1,10 @@
-# 🧾 Student Data Abuse — The Surveillance of Learning  
-**First created:** 2025-10-23 | **Last updated:** 2025-12-15  
+# 🎓 Student Data Abuse — The Surveillance of Learning  
+**First created:** 2025-10-23 | **Last updated:** 2026-01-04  
 *How education’s duty of care became a data-extraction industry.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 This node exposes the structural transformation of student information from record-keeping to commodity.  
 Between 2018 and 2025, testing boards, universities, ed-tech vendors, and government “innovation units” built a market that treats the daily behaviour of children and young adults as an investable asset.  
@@ -257,7 +257,7 @@ The crime is not only technical but linguistic: the words *impact*, *well-being*
 
 ## 🏮 Footer  
 
-*🧾 Student Data Abuse — The Surveillance of Learning* is a living node of the **Polaris Protocol**.  
+*🎓 Student Data Abuse — The Surveillance of Learning* is a living node of the **Polaris Protocol**.  
 It documents the conversion of education’s moral contract into a market instrument and traces the legal, technical, and linguistic architecture that enabled it.
 
 > 📡 Cross-references:
@@ -265,10 +265,11 @@ It documents the conversion of education’s moral contract into a market instru
 > - [🎓 British University Compliance Service](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/README.md)  
 > - [🧿 Watch the Watchers](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md)  
 > - [💸 Money Listens](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/README.md)
+> - [🎓 University Vector Surveillance](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🎓_university_vector_surveillance.md)
+> - [⚖️ Rings of Power for Universities](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_rings_of_power_universities.md)
+> - [⚖️ The Strangest Duty of Care](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_the_strangest_duty_of_care.md)
+> - [⚖️ Charitable Status Paradox](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_charitable_status_paradox.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
-
-
-
+_Last updated: 2026-01-04_

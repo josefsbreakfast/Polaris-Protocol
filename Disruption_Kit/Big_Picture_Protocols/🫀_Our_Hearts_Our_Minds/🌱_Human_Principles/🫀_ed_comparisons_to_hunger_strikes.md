@@ -1,5 +1,5 @@
 # 🫀 Eating Disorder Comparisons To Hunger Strikes  
-**First created:** 2025-12-18 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-18 | **Last updated:** 2026-01-03  
 *Why “choice” is a dangerous framing — without equating illness and protest.*  
 
 ---
@@ -79,6 +79,14 @@ eating disorders, hunger strikes, choice rhetoric, mental health stigma, politic
 *🫀 Eating Disorder Comparisons To Hunger Strikes* is a living node of the **Polaris Protocol**.  
 It defends ethical consistency without collapsing distinct forms of suffering.
 
+> 📡 Cross-references:
+> 
+> - [👅 The Smear Logic of Self-Harm Framing](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/👅_the_smear_logic_of_self_harm_framing.md)
+> - [🔮 Visibility Collapse of Dissenting Bodies](../../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md)  
+> - [⚖️ The Refusal Body as Unmanageable Risk](../🐝_Body_Politic/⚖️_the_refusal_body_as_unmanageable_risk.md)  
+> - [🔥 Hunger Strike as Counter-Sovereignty](../👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md)  
+
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-01-03_

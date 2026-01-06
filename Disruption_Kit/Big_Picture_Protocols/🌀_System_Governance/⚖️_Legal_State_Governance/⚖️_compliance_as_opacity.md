@@ -1,5 +1,5 @@
 # ⚖️ Compliance as Opacity — UK CVE & Hidden Levers  
-**First created:** 2025-09-16 | **Last updated:** 2025-12-24  
+**First created:** 2025-09-16 | **Last updated:** 2026-01-05  
 *How “compliance”, secrecy, and CVE practice in the UK create plausible deniability, gaslighting, and governance failure — with remedies.*  
 
 ---
@@ -61,6 +61,8 @@ This node unpacks the mechanics of that fog, the harms it produces, and a set of
 - *Disrupting the Disruptors* (Byline Times, 2022) — on Prevent, counter-extremism, and opacity theatre  
 - *Coded Bias* (2020) — wider AI opacity and explainability crisis
 
+---
+
 ## ✨ Stardust  
 CVE, opacity, plausible deniability, UK Prevent, algorithmic containment, gaslighting, explainability, compliance theatre
 
@@ -75,8 +77,11 @@ It maps how secrecy dressed as “compliance” breeds gaslighting and systemic 
 > 
 > - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md) - *ministerial and judicial checks on intelligence powers*  
 > - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) - *coercion and manipulation through procedure and governance frameworks*   
-> - [🩹 Patch Repair Governance](../💫_Containment_Logic/🩹_patch_repair_governance.md) - *how ordinary citizens can get toed down in red tape through the patchwork natire of governance*  
+> - [🩹 Patch Repair Governance](../💫_Containment_Logic/🩹_patch_repair_governance.md) - *how ordinary citizens can get toed down in red tape through the patchwork natire of governance*
+> - [🎓 Civic Craft Curriculum](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/🎓_civic_craft_curriculum.md)  
+> - [🪼 Plausible Deniability Rhetoric](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪼_plausible_deniability_rhetoric.md)  
+> - [🦠 Algorithmic Autoimmunity](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🦠_algorithmic_autoimmunity.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-05_

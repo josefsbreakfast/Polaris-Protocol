@@ -1,5 +1,5 @@
 # 🧮 Data Dividend — The Unpaid Labour of Verification  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-16 | **Last updated:** 2026-01-06  
 *Why security puzzles created an invisible workforce.*  
 
 ---
@@ -50,9 +50,10 @@ It advocates for recognising the unpaid cognitive labour embedded in verificatio
 
 > 📡 Cross-references:
 > 
-> - [🧩 Human Computation Games — The Puzzle Economy]  
-> - [🧩 CAPTCHA Loop — Containment Disguised as Verification]  
+> - [🧩 Human Computation Games — The Puzzle Economy](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧩_human_computation_games_the_puzzle_economy.md)  
+> - [🛰️ CAPTCHA Loop — Containment Disguised as Verification](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🛰️_captcha_loop_containment_disguised_as_verification.md)
+> - [➰ Ghost Loop Interrupters](../../../💣_Syntax_Bombs/➰_ghost_loop_interrupters.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-01-06_

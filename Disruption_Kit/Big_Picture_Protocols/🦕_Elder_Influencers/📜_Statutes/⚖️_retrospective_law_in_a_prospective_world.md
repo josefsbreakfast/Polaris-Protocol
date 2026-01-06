@@ -1,5 +1,5 @@
 # ⚖️ Retrospective Law in a Prospective World  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-11  
+**First created:** 2025-11-04 | **Last updated:** 2026-01-04  
 *On the temporal gap between harm and accountability.*  
 
 ---
@@ -93,8 +93,8 @@ It analyses how legal systems trail behind technological power, mapping the stru
 
 > 📡 Cross-references:
 > 
-> - 🕳️ How to Catch a Whistleblower — *procedural containment and data pipelines*  
+> - 🕳️ [How to Catch a Whistleblower](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🕳️_how_to_catch_a_whistleblower.md) — *procedural containment and data pipelines*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-01-04_

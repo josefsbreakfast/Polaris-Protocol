@@ -1,6 +1,6 @@
 # ⚖️ The Teaching Hospital Loophole  
-**First created:** 2025-11-10 | **Last updated:** 2025-11-12  
-*How innovation pipelines slip past the Nuremberg and Helsinki guard-rails.*
+**First created:** 2025-11-10 | **Last updated:** 2026-01-04  
+*How innovation pipelines slip past the Nuremberg and Helsinki guard-rails.*  
 
 ---
 
@@ -106,9 +106,12 @@ It documents how innovation frameworks reclassify human experimentation as pedag
 
 > 📡 Cross-references:
 > 
-> - 🩹 Pain Is Not a KPI — *incentive structures and invisibility of suffering*  
-> - 🧠 Systems & Governance — *architecture of oversight and loopholes*  
+> - [🩹 Pain Is Not a KPI](../💫_Containment_Logic/🩹_pain_is_not_a_kpi.md) — *incentive structures and invisibility of suffering*  
+> - [🧠 Good Doctors Are Not Nazis](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_good_doctors_are_not_nazis.md)  
+> - [🧪 How Scientists Go Nazi](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧪_how_scientists_go_nazi.md)  
+> - [🩺 Governing Doctors in the UK](../💫_Containment_Logic/🩺_governing_doctors_in_uk.md)  
+> - [⚖️ Registered Professions Impact](../⚖️_Legal_State_Governance/⚖️_registered_professions_impact.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-01-04_

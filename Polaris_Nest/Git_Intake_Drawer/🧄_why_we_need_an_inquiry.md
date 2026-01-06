@@ -1,6 +1,6 @@
 # 🧄 Why We Need an Inquiry  
-**First created:** 2025-12-31 | **Last updated:** 2025-12-31  
-*Why unresolved elite abuse, silence, and non-process now constitute a democratic vulnerability*
+**First created:** 2025-12-31 | **Last updated:** 2026-01-04  
+*Why unresolved elite abuse, silence, and non-process now constitute a democratic vulnerability.*  
 
 ---
 
@@ -102,7 +102,7 @@ Unresolved truth creates instability.
 The absence of a democratic, transparent reckoning with elite sexual abuse created a vacuum.  
 That vacuum was not neutral.
 
-It was filled by **[QAnon](chatgpt://generic-entity?number=0)**, which functioned not as an investigation, but as a **myth system** built on an unresolved truth.
+It was filled by **QAnon**, which functioned not as an investigation, but as a **myth system** built on an unresolved truth.
 
 ### What QAnon Did *Not* Invent
 
@@ -114,7 +114,7 @@ QAnon did not invent the following facts:
 - that accountability was partial, delayed, or absent  
 - that institutions failed to provide closure  
 
-These facts were established through journalism, court records, and survivor testimony — including in the case of **[Jeffrey Epstein](chatgpt://generic-entity?number=1)**.
+These facts were established through journalism, court records, and survivor testimony — including in the case of **Jeffrey Epstein**.
 
 ### What QAnon *Did* Do
 
@@ -336,7 +336,10 @@ We should not be protecting anyone implicated in these crimes against our childr
 ---
 
 ## 🌌 Constellations  
-🏛️ 🧿 🧠 ⚖️ 🧄 — institutional accountability, safeguarding, democratic repair, influence risk.
+🏛️ 🧿 🧠 ⚖️ 🧄 — institutional accountability, safeguarding, democratic repair, influence risk.  
+
+*Further media:*  
+- [The Onion Investigates: Jeffrey Epstein](https://youtu.be/XjhSoGcQhWU?si=Om4rjhmugnId84x4)  
 
 ## ✨ Stardust  
 public inquiry, safeguarding, elite accountability, democratic legitimacy, extremism prevention, antisemitism prevention, institutional trust, qanon, extremist capture, antisemitic conspiracy, post-epstein accountability gap, democratic resilience, counter-extremism
@@ -349,10 +352,11 @@ public inquiry, safeguarding, elite accountability, democratic legitimacy, extre
 It exists to articulate why unresolved elite abuse and institutional silence now constitute a democratic and safeguarding vulnerability.
 
 > 📡 Cross-references:
-> - [🏛️ Protect Checks and Balances] (./🏛️_protect_checks_and_balances.md) — institutional restraint  
-> - [🌹 Labour as Alt-Right SPV] (./🌹_labour_as_alt_right_spv.md) — legitimacy risk patterns  
-> - [🍉 Academic Liberty] (../Digital_Disruption/OSINT_Field_Operations/🍉_academic_liberty.md) — epistemic protection  
+> 
+> - [*Pending:* 🏛️ Protect Checks and Balances] (./🏛️_protect_checks_and_balances.md) — *institutional restraint*  
+> - [🌹 Labour as Alt-Right SPV] (Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌹_labour_as_alt_right_spv.md) — *legitimacy risk patterns*  
+> - [🍉 Academic Liberty] (🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/README.md) — *epistemic protection*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-31_
+_Last updated: 2026-01-04_

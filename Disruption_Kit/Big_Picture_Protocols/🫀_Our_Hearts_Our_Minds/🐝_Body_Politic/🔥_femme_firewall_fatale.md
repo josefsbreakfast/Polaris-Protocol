@@ -1,5 +1,5 @@
 # 🔥 Femme Firewall Fatale — The Panic at Female Intelligence  
-**First created:** 2025-10-23 | **Last updated:** 2025-12-15  
+**First created:** 2025-10-23 | **Last updated:** 2026-01-06  
 *Systems that tolerate radical ideas but not women’s authority.*  
 
 ---
@@ -34,7 +34,7 @@ Systems firewall by reframing—“unbalanced,” “too emotional,” “uncoop
 ---
 
 ## 🌌 Constellations  
-🚫 🪄 🫀 🧩 — gender, power, fear, recognition.
+🚫 🪄 🔥 🫀 🧩 — gender, power, fear, recognition.
 
 ---
 
@@ -47,4 +47,9 @@ female intellect, firewall reflex, patriarchy, authorship, recognition, institut
 *🔥 Femme Firewall Fatale — The Panic at Female Intelligence* is a living node of the Polaris Protocol.  
 It traces how progressive systems reproduce gender hierarchy at the moment of recognising brilliance and offers archival counter-practices.  
 
-_Last updated: 2025-12-15_
+> 📡 Cross-references:
+> 
+> - [🦆 She Weighs the Same as a Duck](./🦆_she_weighs_the_same_as_a_duck.md) – *humour-analysis of witch tests*
+> - [🧙‍♀️ Witch Logic Diagnostic](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md)  
+
+_Last updated: 2026-01-06_

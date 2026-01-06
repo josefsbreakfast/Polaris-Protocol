@@ -1,5 +1,5 @@
 # ⚠️ Authoritarian Incentives in Universities  
-**First created:** 2025-09-23 | **Last updated:** 2025-09-30  
+**First created:** 2025-09-23 | **Last updated:** 2026-01-04  
 *Why UK universities are structurally nudged toward authoritarian contracts, and why this is a democratic crisis.*  
 
 ---
@@ -100,13 +100,16 @@ We are standing at a fork:
 
 ## 🏮 Footer  
 
-*Authoritarian Incentives in Universities* is a living node of the Polaris Protocol.  
+*⚠️ Authoritarian Incentives in Universities* is a living node of the Polaris Protocol.  
 It marks the point where market smoothing masks democratic collapse.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [📜 Funding and Charitable Status Timeline](./📜_funding_and_charitable_status_timeline.md)  
-> - [⚖️ Charitable Status Paradox](./⚖️_charitable_status_paradox.md)  
+> - [⚖️ Charitable Status Paradox](./⚖️_charitable_status_paradox.md)
+> - [🌀 The Full Authoritarian Capture Lifecycle](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_authoritarian_capture_lifecycle.md)
+> - [👾 Why Policing and PREVENT Are Susceptible to Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_authoritarian_drift.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-23_  
+_Last updated: 2026-01-04_  

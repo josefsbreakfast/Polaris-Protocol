@@ -1,5 +1,5 @@
 # 🪖 How Politicians Legally Strangle the MOD (in Real-Lives Terms)  
-**First created:** 2025-12-24 | **Last updated:** 2026-01-01  
+**First created:** 2025-12-24 | **Last updated:** 2026-01-04  
 *When political risk management converts defence institutions into vehicles of human attrition.*  
 
 ---
@@ -153,11 +153,10 @@ It documents how upstream political and legal pressures translate into downstrea
 
 > 📡 Cross-references:
 > 
-> - **🪖 Repairing Stolen Lives** — *cumulative life-scale harm*  
-> - **🪖 A Previous Cabinet’s Errors** — *legacy harm across time*  
+> - [🪖 Repairing Stolen Lives](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪖_repairing_stolen_lives.md) — *cumulative life-scale harm*  
+> - [🪖 A Previous Cabinet’s Errors](../💫_Containment_Logic/🪖_a_previous_cabinets_errors.md) — *legacy harm across time*  
 > - [🪖 Classification, Suppression, and Misuse](./🪖_classification_suppression_and_misuse.md) — *secrecy as a control mechanism*  
-> - **🌀 Systems & Governance** — *structural accountability failure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-01-04_

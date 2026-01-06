@@ -1,5 +1,5 @@
 # 🧰 Toolset Add-On: Sock-Puppet Swarm Checklist  
-**First created:** 2025-12-23 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-23 | **Last updated:** 2026-01-06  
 *What to do when a comment section turns weird.*
 
 ---
@@ -58,8 +58,9 @@ It favours calm clarity over reaction.
 > - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](./🧰_tools_against_sock_puppets.md) - *practical disruption without amplification*  
 > - [🧰 Toolset Add-On: MP & BBC Contact Templates](./🧰_tools_vs_sock_puppets_mp_bbc.md) - *low-friction democratic escalation scripts*  
 > - [🧰 Toolset Add-On: Permission Language Pack](./🧰_tools_against_sock_puppets_consent_linguistics.md) - *words that re-enable democratic action*  
-> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) — *how we got here*  
+> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) — *how we got here*
+> - [🚀 Your Emotions Are Being Weaponised Against Your Values](../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚀_your_emotions_are_being_weaponised_against_your_values.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-01-06_

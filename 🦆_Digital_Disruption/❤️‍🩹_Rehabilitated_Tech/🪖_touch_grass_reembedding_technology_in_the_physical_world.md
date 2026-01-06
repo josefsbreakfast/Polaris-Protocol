@@ -1,6 +1,6 @@
-# 🪖 Touch grass: re-embedding technology in the physical world  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*Why technological practice must be re-grounded in material limits, ecological reality, and collective maintenance.*
+# 🪖 Touch Grass: Re-Embedding Technology In The Physical World  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-04  
+*Why technological practice must be re-grounded in material limits, ecological reality, and collective maintenance.*  
 
 ---
 
@@ -188,15 +188,15 @@ rehabilitated tech, repair culture, degrowth technology, material limits, mainte
 
 ## 🏮 Footer  
 
-*🪖 Touch grass: re-embedding technology in the physical world* is a forward-facing repair node of the **Polaris Protocol**.  
+*🪖 Touch Grass: Re-Embedding Technology In The Physical World* is a forward-facing repair node of the **Polaris Protocol**.  
 It articulates a pathway for technology to rejoin the material, ecological, and social systems it depends on — without illusion, exceptionalism, or escape fantasies.
 
 > 📡 Cross-references:
 > 
-> - [🧲 The magnet doesn’t care] — applied limits  
-> - [🌍 When virtual minds govern a physical planet] — abstraction failure  
-> - [🧞‍♂️ Innovation worship as distraction infrastructure] — narrative cover  
+> - [🧲 The Magnet Doesn’t Care: Applied Science vs Tech-Bro Cosmology](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧲_the_magnet_doesnt_care.md) — *applied limits*  
+> - [🌍 When Virtual Minds Govern A Physical Planet](../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md) — *abstraction failure*  
+> - [🧞‍♂️ Innovation Worship As Distraction Infrastructure](../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧞‍♂️_innovation_worship_as_distraction_infrastructure.md) — *narrative cover*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-04_

@@ -1,17 +1,17 @@
 # 🪜 Temporal Containment — The British Audit Cycle as Suppression Script  
-**First created:** 2025-10-30  |  **Last updated:** 2025-10-30  
-*When the calendar does the censorship.*
+**First created:** 2025-10-30 | **Last updated:** 2026-01-06  
+*When the calendar does the censorship.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Explores how institutional timekeeping itself becomes a mechanism of control.  
 British governance structures use the rhythm of audits, quarters, and reviews to neutralise live issues.  
 Problems aren’t solved — they’re scheduled out of existence.
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Chronocratic discipline:** the calendar as compliance device.  
 - **Deadline theatre:** silence and delay framed as due process.  
 - **Quarter-end purgatory:** everything important “awaits confirmation.”  
@@ -20,9 +20,7 @@ Problems aren’t solved — they’re scheduled out of existence.
 
 ---
 
-## 🔍 Analysis  
-
-### 1️⃣ The Containment Curve  
+## 🎁 The Containment Curve  
 Containment operates on predictable cadence:  
 1. Incident emerges.  
 2. Pre-audit pause invoked (“under review”).  
@@ -33,28 +31,28 @@ The system achieves closure not by action but by waiting.
 
 ---
 
-### 2️⃣ Administrative Astrology  
+## 🔮 Administrative Astrology  
 Every British institution moves to its own constellation of review cycles — financial, academic, legal.  
 By aligning inquiries with those cycles, agencies can “let the stars decide.”  
 It’s governance as horology: the clock determines ethics.
 
 ---
 
-### 3️⃣ Audit as Ablution  
+## 🧼 Audit as Ablution  
 The monthly report cleanses all sins.  
 Metrics show that everything has been “considered,” which is bureaucratic code for “safely forgotten.”  
 The archive swells; accountability shrinks.
 
 ---
 
-### 4️⃣ Psychology of the Wait  
+## 🐌 Psychology of the Wait  
 Staff learn that inaction is safer than initiative.  
 “Awaiting further information” becomes both shield and mantra.  
 Time replaces courage as the currency of compliance.
 
 ---
 
-### 5️⃣ Counter-Design Ideas  
+## 🦁 Counter-Design Ideas  
 - Publish rolling, not terminal, audit cycles.  
 - Require “closure statements” explaining *how* an issue was resolved, not just *when*.  
 - Track “issues expired by time” as a performance metric.  
@@ -79,9 +77,11 @@ It documents how the passage of time itself functions as a containment device wi
 
 > 📡 Cross-references:  
 >
-> - [☕ Administrative Necromancy](../☕_administrative_necromancy.m) — waiting as governance  
-> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *diagnostic continuum*  
+> - [☕ Administrative Necromancy](./☕_administrative_necromancy.md) — *waiting as governance*  
+> - [🗂️ When Institutions Start Treating You as a Category, Not a Person](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗂️_when_institutions_start_treating_you_as_a_category_not_a_person.md)  
+> - [🧠 Psych-Ops of Tone — The Science of Disbelief](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠_psychops_of_tone_the_science_of_disbelief.md)  
+> - [🌪️ Bureaucratic Escalation Rube Goldberg](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🌪️_bureaucratic_escalation_rube_goldberg.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-30_
+_Last updated: 2026-01-06_

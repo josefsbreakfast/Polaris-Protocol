@@ -1,170 +1,250 @@
-# 🗺️ CPPCG Layers: Who Carries What
-
-**Folder:** Disruption_Kit / Big_Picture_Protocols / 🦕_Elder_Influencers / 🍿_Historical_Democratic_Actions / 🍉_Fulfilling_CPPCG_Protecting_IHL  
-**Status:** Skeleton  
-**Scope:** Legal–ethical mapping across actors  
-**Function:** Clarificatory + accountability-routing
+# 🗺️ CPPCG Layers: Who Carries What  
+**First created:** 2026-01-02 | **Last updated:** 2026-01-06  
+*Why genocide prevention fails when responsibility is misrouted.*
 
 ---
 
-## Orientation
+## 🛰️ Orientation  
 
-- Why genocide prevention fails when responsibility is treated as singular  
-- How the CPPCG distributes duties across actors, not just states  
-- Why confusion over “who should act” enables inaction
+This node clarifies how responsibility under the Convention on the Prevention and Punishment of the Crime of Genocide (CPPCG) is **distributed, layered, and concurrent**.
 
----
+It exists because genocide prevention repeatedly fails when:
+- responsibility is treated as singular,
+- action is deferred “upward,” or
+- one layer suppresses another under the guise of order, neutrality, or competence.
 
-## The core premise
-
-The Convention on the Prevention and Punishment of the Crime of Genocide (CPPCG) does not assign responsibility to a single actor.
-
-It creates **layered, overlapping duties** that operate simultaneously.
-
-Failure occurs when:
-- each layer waits for another, or
-- one layer suppresses the actions of another.
+The CPPCG does not imagine a single heroic actor.  
+It imagines **systems that work together — or fail together**.
 
 ---
 
-## Layer 1: Individuals
+## ⚖️ The core premise  
 
-### What individuals can reasonably carry
-- Raising alarm
-- Bearing witness
-- Documenting harm
-- Refusing complicity
-- Peaceful protest and disruption
+The CPPCG creates **overlapping duties** across different actors.
 
-### Common failure mode
-- Criminalising prevention activity
-- Treating moral urgency as instability
-- Expecting silence until certainty
+These duties:
+- operate simultaneously,
+- are context-dependent,
+- and cannot be discharged by delegation alone.
+
+Failure most often occurs not through explicit refusal, but through:
+- misinterpretation of scope,
+- over-deference to authority,
+- or obstruction disguised as procedural caution.
+
+---
+
+## 🧍 Layer 1: Individuals  
+
+### What individuals can reasonably carry  
+
+Under Article I, individuals may act in prevention through:
+
+- raising alarm,
+- bearing witness,
+- documenting harm,
+- refusing complicity,
+- peaceful protest and disruption,
+- journalism, research, and public communication.
+
+These actions are **not optional moral extras**.  
+They are often the *first line* of prevention.
+
+### Common failure mode  
+
+- Criminalising or chilling prevention activity  
+- Treating moral urgency as instability  
+- Expecting silence until certainty  
+- Demanding neutrality in the face of atrocity  
 
 **Risk:** Penalising compliance with Article I.
 
+When individuals are punished for acting early, the system teaches that prevention is unsafe.
+
 ---
 
-## Layer 2: Institutions
+## 🏛️ Layer 2: Institutions  
 
-### Who this includes
-- Universities
-- Media organisations
-- Police forces
-- Corporations
-- Professional bodies
-- Courts and regulators
+### Who this includes  
 
-### What institutions carry
-- Risk assessment without overreach
-- Protection of lawful speech
-- Transparency in decision-making
-- Avoidance of facilitation or laundering of harm
+- Universities and schools  
+- Media organisations and publishers  
+- Police forces and oversight bodies  
+- Corporations and financial institutions  
+- Professional associations  
+- Courts, regulators, and quasi-judicial bodies  
 
-### Common failure mode
-- Procedural deferral (“not our remit”)
-- Over-classification of risk
-- Collapsing dissent into disorder
+Institutions are the **transmission layer** between individuals and the state.
+
+### What institutions carry  
+
+Institutions are responsible for:
+
+- receiving dissent and alarm without reflexive suppression,  
+- conducting risk assessment without category drift,  
+- protecting lawful speech and inquiry,  
+- maintaining transparency in justification and process,  
+- avoiding material, reputational, or procedural facilitation of harm.
+
+They are not neutral bystanders.  
+Their procedures shape outcomes.
+
+### Common failure mode  
+
+- Procedural deferral (“not our remit”)  
+- Over-classification of risk  
+- Treating dissent as disorder  
+- Prioritising institutional comfort over legal duty  
 
 **Risk:** Structural obstruction of prevention.
 
+Institutions often fail by **mistaking risk management for prevention**.
+
 ---
 
-## Layer 3: State actors
+## 🏴 Layer 3: State actors  
 
-### Who this includes
-- Government departments
-- Legislatures
-- Executives
-- Military and security apparatus
-- Diplomatic corps
+### Who this includes  
 
-### What states carry
-- Duty to prevent (Article I)
-- Duty not to aid or abet genocide
-- Duty to align domestic law with international obligations
-- Duty to protect those acting in prevention
+- Government departments  
+- Legislatures and executives  
+- Military and security services  
+- Diplomatic and trade apparatus  
+- Senior civil service leadership  
 
-### Common failure mode
-- Prioritising narrative stability over legal duty
-- Using counterterrorism to manage reputational risk
-- Treating prevention as foreign policy disruption
+States are the **only layer** with full legal capacity — but not the only one with responsibility.
+
+### What states carry  
+
+Under the CPPCG, states carry:
+
+- the positive duty to prevent (Article I),  
+- the duty not to aid or abet genocide,  
+- the duty to align domestic law with international obligations,  
+- the duty to protect those acting in prevention,  
+- the duty to correct misapplication across institutions.
+
+### Common failure mode  
+
+- Prioritising narrative stability over legal obligation  
+- Externalising prevention to international bodies  
+- Using counter-terrorism or public order law to manage reputational risk  
+- Treating prevention as foreign-policy disruption  
 
 **Risk:** Breach by omission or misapplication.
 
----
-
-## Layer interaction failures
-
-Prevention collapses when:
-
-- Individuals are silenced by institutions  
-- Institutions defer upward to the state  
-- States externalise responsibility internationally  
-- Each layer claims it acted “within its role”
-
-This produces **total failure without individual intent**.
+States most often fail by **acting too late, too indirectly, or too defensively**.
 
 ---
 
-## Anti-Palestinian misrecognition across layers
+## 🔄 Layer interaction failures  
 
-- Individuals’ speech framed as suspect
-- Institutions interpret Palestinian solidarity as inherent risk
-- States prioritise alliance maintenance over civilian protection
+Genocide prevention collapses when:
 
-The harm compounds across layers.
+- individuals are silenced by institutions,  
+- institutions defer upward to the state,  
+- states externalise responsibility internationally,  
+- each layer claims it acted “within its role.”
 
----
+This produces **total failure without individual malice**.
 
-## Rebound effects on Jewish dissent
-
-- Jewish individuals punished for breaking expected narratives
-- Institutions pathologise dissent as emotional or destabilising
-- States benefit from presenting Jewish opinion as monolithic
-
-This is a layered antisemitic failure.
+No one actor needs to intend harm.  
+The system fails by design.
 
 ---
 
-## Diagnostic questions
+## 🍉 Anti-Palestinian misrecognition across layers  
 
-Ask at each layer:
+Across the layers, a consistent distortion appears:
 
-- What is my actual duty under Article I?
-- Am I blocking another layer from acting?
-- Am I mistaking risk management for prevention?
+- Individual Palestinian or solidarity speech is framed as suspect  
+- Institutions interpret Palestinian advocacy as inherent risk  
+- States prioritise alliance maintenance over civilian protection  
+
+Each layer amplifies the next.
+
+What begins as misrecognition becomes **structural exclusion**.
+
+---
+
+## ✡️ Rebound effects on Jewish dissent  
+
+This failure does not only harm Palestinians.
+
+It also produces layered antisemitic effects:
+
+- Jewish individuals are punished for breaking expected narratives  
+- Institutions pathologise Jewish dissent as emotional or destabilising  
+- States benefit from presenting Jewish opinion as monolithic  
+
+Jewish plurality is sacrificed for political convenience.
+
+This is not protection.  
+It is instrumentalisation.
+
+---
+
+## 🧪 Diagnostic questions  
+
+At **each layer**, ask:
+
+- What is my actual duty under Article I?  
+- Am I enabling another layer — or blocking it?  
+- Am I mistaking stability for safety?  
+- Am I treating dissent as information or as threat?  
 - Who benefits from delay?
 
----
-
-## What this node is not
-
-- Not a legal brief
-- Not an assignment of guilt
-- Not a hierarchy of moral worth
+If the answer is “someone else will handle it,” failure is already underway.
 
 ---
 
-## Why this node exists
+## 🚫 What this node is not  
 
-- To redistribute responsibility correctly
-- To prevent paralysis through misrouting
-- To make prevention actionable at every level
+This node is not:
 
----
+- a legal indictment,  
+- a hierarchy of moral worth,  
+- a claim that all actors have equal power,  
+- or a demand for uniform tactics.
 
-## Constellation
-
-- 🌀 _when_prevention_looks_like_threat  
-- 🔥 _dissent_as_diagnostic_evidence  
-- 🐼 _policing_an_unknown  
-- 🧬 _why_it_is_easier_not_to_see_or_hear_or_speak  
+It is a **routing map** — not a verdict.
 
 ---
 
-*Stardust:*  
-Genocide prevention fails not because no one is responsible,  
-but because everyone assumes someone else is.
+## 🧭 Why this node exists  
 
-*Polaris Protocol – Skeleton*
+This node exists to:
+
+- redistribute responsibility accurately,  
+- prevent paralysis through misrouting,  
+- make prevention actionable at every level,  
+- and clarify that *inaction is also a choice*.
+
+---
+
+## 🌌 Constellations  
+
+🗺️ cppcg_layers  
+🌀 prevention_as_threat  
+🔥 dissent_as_signal  
+🐼 policing_under_uncertainty  
+🧬 avoidance_and_denial  
+
+---
+
+## ✨ Stardust  
+
+cppcg, genocide prevention, article i, layered responsibility, institutional failure, prevention duty, misrecognition, accountability routing
+
+---
+
+## 🏮 Footer  
+
+*CPPCG Layers: Who Carries What* is a clarificatory node within the **Polaris Protocol**.
+
+It exists to make prevention concrete, distributed, and actionable — and to show how genocide prevention fails not because responsibility is absent, but because it is continually misassigned.
+
+*Prevention is not a baton to be passed upward.*  
+*It is a system that must function at every layer.*
+
+_Last updated: 2026-01-06_

@@ -1,5 +1,5 @@
 # 🪖 Defence Is for All of Us  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-24 | **Last updated:** 2026-01-04  
 *National defence exists to protect the whole population, not to privilege the powerful.*  
 
 ---
@@ -139,11 +139,11 @@ It establishes a core principle: that national defence exists to protect people 
 
 > 📡 Cross-references:
 > 
-> - [🪖 A Teenage Girl Was Always Worth More Than the Reputation of Dishonourable Men] — *ethical boundary*  
-> - [🪖 Repairing Stolen Lives] — *repair as defence obligation*  
-> - [🪖 Classification, Suppression, and Misuse] — *defence weakened by secrecy misuse*  
+> - [🪖 A Teenage Girl Was Always Worth More Than the Reputation of Dishonourable Men](./🪖_a_teenage_girl_was_always_worth_more_than_the_reputation_of_dishonourable_men.md) — *ethical boundary*  
+> - [🪖 Repairing Stolen Lives](./🪖_repairing_stolen_lives.md) — *repair as defence obligation*  
+> - [🪖 Classification, Suppression, and Misuse](../../🌀_System_Governance/⚖️_Legal_State_Governance/🪖_classification_suppression_and_misuse.md) — *defence weakened by secrecy misuse*  
 > - [❤️‍🩹 Rehabilitated Tech](../../../../🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-01-04_

@@ -1,7 +1,6 @@
-# ⚖️ Non‑Consent Psychological Experimentation Gap
-
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12
-*The legal vacuum where psychological influence escapes the definitions of “human experimentation,” allowing state programmes to operate without ethics oversight or rights protections.*
+# ⚖️ Non‑Consent Psychological Experimentation Gap  
+**First created:** 2025-12-12 | **Last updated:** 2026-01-04  
+*The legal vacuum where psychological influence escapes the definitions of “human experimentation,” allowing state programmes to operate without ethics oversight or rights protections.*  
 
 ---
 
@@ -29,9 +28,7 @@ As a result, programmes framed as “communications,” “strategic messaging,�
 
 ---
 
-## 🧿 Analysis
-
-### 1. The Definition Mismatch
+## 🧬 The Definition Mismatch
 
 International and domestic protections against non‑consensual experimentation (e.g. post‑war human‑rights instruments) were drafted with **medical and scientific trials** in mind.
 
@@ -45,7 +42,7 @@ This definitional narrowness creates a **regulatory blind spot**.
 
 ---
 
-### 2. Functional Criteria vs Legal Labels
+## 🩻 Functional Criteria vs Legal Labels
 
 Functionally, behavioural influence programmes often involve:
 
@@ -60,7 +57,7 @@ Legally, however, reclassification as “communications” or “policy delivery
 
 ---
 
-### 3. Consent Evasion by Design
+## 🦠 Consent Evasion by Design
 
 Because subjects are not told they are participants:
 
@@ -73,7 +70,7 @@ Lack of awareness becomes the mechanism that prevents legal challenge.
 
 ---
 
-### 4. National‑Security Shielding
+## 🧨 National‑Security Shielding
 
 When behavioural programmes are justified as security‑critical:
 
@@ -86,7 +83,7 @@ Security framing transforms **ethical absence** into **operational necessity**.
 
 ---
 
-### 5. Discriminatory Exposure Risk
+## 🔬 Discriminatory Exposure Risk
 
 Because these programmes often target:
 
@@ -119,10 +116,13 @@ It identifies a structural failure in legal and ethical governance where behavio
 
 > 📡 Cross‑references:
 >
-> * [🪞 Domestic PsyOps Paradox] — *inward deployment of influence doctrine*
-> * [🧨 Securitisation Feedback Loop] — *recursive harm dynamics*
-> * [🪬 Racialised Threat Construction] — *unequal exposure patterns*
+> - [🪞 Domestic PsyOps Paradox](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪞_domestic_psyops_paradox.md) — *inward deployment of influence doctrine*
+> - [🧨 Securitisation Feedback Loop](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_securitisation_feedback_loop.md) — *recursive harm dynamics*
+> - [🪬 Racialised Threat Construction](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_racialised_threat_construction.md) — *unequal exposure patterns*
+> - [✈️ The Dragging-Out of Predictable Let-Down](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/✈️_the_dragging_out_of_predictable_let_down.md)
+> - [🎙️ ABE and Digital Evidence as a Critical Failure Point](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🎙️_abe_and_digital_evidence_as_critical_failure_point.md)
+> - [🕶️ Whistleblowing and Entrapment in the Para-Intelligence Economy](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)  
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-*Last updated: 2025-12-12*
+_Last updated: 2026-01-04_

@@ -1,5 +1,5 @@
 # 🧠 Institutional Weather Systems  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-13  
+**First created:** 2025-11-16 | **Last updated:** 2026-01-06  
 *How public bodies, bureaucracies, and governance structures develop “weather systems” — emotional climates, behavioural moods, and procedural atmospheres that shape how cases are handled.*  
 
 ---
@@ -37,9 +37,7 @@ This node explains how institutions generate collective “weather systems”, w
 
 ---
 
-## 🧿 Analysis  
-
-### 1️⃣ What Is an Institutional Weather System?  
+## ☔️ What Is an Institutional Weather System?  
 An institutional weather system is the **emotional and behavioural atmosphere** that shapes:
 
 - risk tolerance  
@@ -64,7 +62,7 @@ This weather is not personal; it is **systemic**.
 
 ---
 
-### 2️⃣ Who Sets the Weather?  
+## ☂️ Who Sets the Weather?  
 Weather emerges from a combination of:
 
 - leadership tone  
@@ -92,7 +90,7 @@ depending on what feels “safe” inside the current climate.
 
 ---
 
-### 3️⃣ Examples of Weather Systems  
+## 🌈 Examples of Weather Systems  
 #### 🌤️ *Calm, Stable Weather*  
 - predictable decisions  
 - timely communication  
@@ -129,7 +127,7 @@ This is the weather survivors often encounter when a coercive actor is nearby.
 
 ---
 
-### 4️⃣ Weather as Risk Posture  
+## 🌂 Weather as Risk Posture  
 Institutional weather determines whether staff feel:
 
 - safe  
@@ -157,7 +155,7 @@ Weather shapes behaviour more than individual personality.
 
 ---
 
-### 5️⃣ Why Weather Matters for Survivors  
+## 🐦‍🔥 Why Weather Matters for Survivors  
 A survivor in crisis does not encounter:
 
 - a person  
@@ -188,7 +186,7 @@ This is especially true in the presence of a coercive, litigious actor.
 
 ---
 
-### 6️⃣ Weather Shifts  
+## ⛈️ Weather Shifts  
 Weather changes when:
 
 - leadership changes  
@@ -228,12 +226,12 @@ institutional weather, governance climate, bureaucratic mood, survivor experienc
 
 *🧠 Institutional Weather Systems* is a Polaris governance-analysis node that maps how bureaucracies develop emotional climates — and how those climates shape survivor access, procedural behaviour, and institutional risk-taking.
 
-Pairs with:
-
-- **🪢 Hygienic Cut**  
-- **⚖️ Procedural Correctness as Safeguard**  
-- **🔍 Institutional Freeze Patterns**  
+> 📡 Cross-references:
+> 
+> - [🪢 Hygienic Cut](./🪢_hygienic_cut.md)
+> - [⚖️ Procedural Correctness as Safeguard](./⚖️_procedural_correctness_as_safeguard.md)  
+> - [🔍 Institutional Freeze Patterns](./🔍_institutional_freeze_patterns.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-01-06_

@@ -1,5 +1,5 @@
 # ⚖️ Rings of Power for Universities  
-**First created:** 2025-09-05 | **Last updated:** 2025-09-30  
+**First created:** 2025-09-05 | **Last updated:** 2026-01-04  
 *How universities are tempted with containment bargains: sovereignty traded for the illusion of stability.*  
 
 ---
@@ -20,7 +20,14 @@
 ---
 
 ## 🏮 Footer  
-*Rings of Power for Universities* is a living node of the Polaris Protocol.  
+*⚖️ Rings of Power for Universities* is a living node of the Polaris Protocol.  
 It documents how containment bargains function as an industry, with universities trading independence for the illusion of safety.  
 
-_Last updated: 2025-09-30_
+> 📡 Cross-references:
+> 
+> - [⚖️ Charitable Status Paradox](./⚖️_charitable_status_paradox.md)
+> - [⚖️ The Strangest Duty of Care](./⚖️_the_strangest_duty_of_care.md)
+> - [⚠️ Authoritarian Incentives in Universities](./⚠️_authoritarian_incentives_in_universities.md)
+> - [🌀 The Full Authoritarian Capture Lifecycle](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_authoritarian_capture_lifecycle.md)  
+
+_Last updated: 2026-01-04_

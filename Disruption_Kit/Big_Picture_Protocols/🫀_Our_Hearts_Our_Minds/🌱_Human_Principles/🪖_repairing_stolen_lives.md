@@ -1,5 +1,5 @@
 # 🪖 Repairing Stolen Lives  
-**First created:** 2025-12-24 | **Last updated:** 2026-01-01  
+**First created:** 2025-12-24 | **Last updated:** 2026-01-04  
 *When governance failure does not merely harm outcomes, but consumes decades of a life.*  
 
 ---
@@ -245,14 +245,18 @@ long-term harm, stolen lives, cumulative governance failure, moral injury, delay
 
 ## 🏮 Footer
 
-*Repairing Stolen Lives* is a living node of the **Polaris Protocol**.  
+*🪖 Repairing Stolen Lives* is a living node of the **Polaris Protocol**.  
 It documents how prolonged governance failure can consume decades of a person’s life, and why repair must account for time lost, not merely errors made.
 
 > 📡 Cross-references:
-> - **🪖 A Previous Cabinet’s Errors** — harm propagation across time  
-> - **🪖 Classification, Suppression, and Misuse** — structural origins of silence  
-> - **🌀 Systems & Governance** — institutional responsibility for repair  
+> 
+> - [🪖 A Previous Cabinet’s Errors](../../🌀_System_Governance/💫_Containment_Logic/🪖_a_previous_cabinets_errors.md) — *harm propagation across time*  
+> - [🪖 Classification, Suppression, and Misuse](../../🌀_System_Governance/⚖️_Legal_State_Governance/🪖_classification_suppression_and_misuse.md) — *structural origins of silence*  
+> - [🫀 Holding a Weapon You Don’t Understand](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫀_holding_a_weapon_you_do_not_understand.md)  
+> - [☕🫖 Is the Current UK Government a Threat to National Security?](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/☕🫖_uk_gov_national_security_risk.md)  
+> - [💸 Shame as Control Currency — The Architecture of Self-Silencing](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💸_shame_as_control_currency_the_architecture_of_self_silencing.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-01-04_

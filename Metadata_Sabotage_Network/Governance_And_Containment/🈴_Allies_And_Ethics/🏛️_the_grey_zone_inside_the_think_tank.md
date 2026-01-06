@@ -1,5 +1,5 @@
 # 🏛️ The Grey Zone Inside the Think Tank  
-**First created:** 2025-11-05 | **Last updated:** 2025-12-08  
+**First created:** 2025-11-05 | **Last updated:** 2026-01-04  
 *When policy institutes borrow the tools of repression to manage internal dissent.*  
 <!--Grey zone, Twilight Zone... what's the difference?-->
 ---
@@ -177,10 +177,14 @@ It documents how institutions that sell analysis can end up practising containme
 
 > 📡 Cross‑references:
 > 
-> - [🫥 When You Don’t Want to Be Seen Touching It] — *deniability as product*  
-> - [🧭 When to Enter the Grey Zone] — *decision logic for grey‑zone use*  
-> - [🕳️ When the Censor Is a Contractor] — *case study in outsourced suppression*  
+> - [🫥 When You Don’t Want to Be Seen Touching It](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫥_when_you_dont_want_to_be_seen_touching_it.md) — *deniability as product*  
+> - [🧭 When to Enter the Grey Zone](../㊙_Containment_Contracts/🧭_when_to_enter_the_grey_zone.md )— *decision logic for grey‑zone use*  
+> - [🕳️ When the Censor Is a Contractor](../㊙_Containment_Contracts/🕳️_when_the_censor_is_a_contractor.md) — *case study in outsourced suppression*
+> - [🎽 Think Tanks, Surveillance, and Conferencing](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🎽_think_tanks_surveillance_and_conferencing.md)  
+> - [🧪 Think-Tanks & Their Funding (2010–16)](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🧪_think_tanks_and_their_funding_2010_2016.md)  
+> - [🧭 Think-Tank Drift and Blurred Boundaries](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🧭_think_tank_drift_and_blurred_boundaries.md)  
+> - [🏛️ Neocon Think Tank Cluster](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🏛️_neocon_think_tank_cluster.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-01-04_

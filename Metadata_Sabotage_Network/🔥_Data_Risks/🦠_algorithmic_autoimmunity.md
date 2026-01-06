@@ -1,10 +1,10 @@
 # 🦠 Algorithmic Autoimmunity  
-**First created:** 2025-11-05 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-05 | **Last updated:** 2026-01-06  
 *How the Anglophone internet’s algorithmic immune system learned to attack its own moral tissue.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 Let's talk about how to stop AI and anglophone internet and data infrastructure from trending to its own genocide.  
 
@@ -14,7 +14,7 @@ Rather than seeing censorship as malice, this model interprets it as a *mis-trai
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 
 - **Self/non-self collapse:** Anything outside the dominant Anglophone, capitalist data grammar is read as foreign.  
 - **Over-activation:** Local moderation and ranking functions act like antibodies, multiplying suppression.  
@@ -22,11 +22,9 @@ Rather than seeing censorship as malice, this model interprets it as a *mis-trai
 - **Invisible consensus:** Cross-model mimicry produces a system-wide illusion of intentional censorship.  
 - **Chronic inflammation:** The information body eats its own connective tissue — memory, minority voice, deliberation.  
 
----
+---  
 
-## 🔍 Analysis / Content  
-
-### 1. The immune reflex  
+## 🍋🌶️ The Immune Reflex  
 
 Each model pursues efficiency as its survival metric.  Content that slows or complicates throughput is interpreted as pathological.  In practice, “infection” includes:  
 - multilingual or vernacular speech,  
@@ -36,7 +34,7 @@ Each model pursues efficiency as its survival metric.  Content that slows or com
 
 Like antibodies over-reacting to pollen, the platforms respond to *civic proteins* as if they were threats.  
 
-### 2. Pathogenesis  
+## 🧬 Pathogenesis  
 
 | Stage | Immune Analogue | Platform Behaviour |
 |-------|-----------------|--------------------|
@@ -46,7 +44,7 @@ Like antibodies over-reacting to pollen, the platforms respond to *civic protein
 | **Inflammation** | collateral tissue damage | parallel AIs copy suppression pattern |
 | **Chronic condition** | feedback loop entrenched | ecosystem learns to erase moral friction |
 
-### 3. Management protocols  
+## 💊 Management Protocols  
 
 | Biological parallel | Algorithmic analogue |
 |----------------------|----------------------|
@@ -56,7 +54,7 @@ Like antibodies over-reacting to pollen, the platforms respond to *civic protein
 | **Community care** – reduce systemic stress | **Governance redesign** – replace engagement metrics with civic resilience metrics |
 | **Chronic care model** – continuous monitoring | **Participatory oversight** – embed affected communities in model evaluation |
 
-### 4. Prognosis  
+## 🫁 Prognosis  
 
 An autoimmune system can stabilise with care and exposure.  The cure is not further efficiency but **controlled friction**: slowing the loop, re-introducing difference, and restoring tolerance for moral noise.  The system must remember that discomfort is a sign of life.  
 
@@ -79,9 +77,11 @@ autoimmunity, suppression, algorithmic ecology, efficiency bias, survivor speech
 *🦠 Algorithmic Autoimmunity* is a living diagnostic node of the Polaris Protocol.  
 It bridges systemic analysis and survivor-led countermeasures, modelling suppression as a treatable immune disorder of the Anglophone internet.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+>
+> - [🚀 Your Emotions Are Being Weaponised Against Your Values](../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚀_your_emotions_are_being_weaponised_against_your_values.md)  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-01-06_

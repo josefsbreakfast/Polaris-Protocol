@@ -1,6 +1,6 @@
-# 🧠 Death-denial as policy: immortality fantasies of the ultra-rich  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*How elite refusal of mortality distorts governance, misallocates resources, and accelerates systemic collapse.*
+# 🧠 Death-Denial As Policy: Immortality Fantasies Of The Ultra-Rich  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-04  
+*How elite refusal of mortality distorts governance, misallocates resources, and accelerates systemic collapse.*  
 
 ---
 
@@ -165,15 +165,16 @@ death denial, elite psychology, immortality fantasies, cryonics, transhumanism c
 
 ## 🏮 Footer  
 
-*🧠 Death-denial as policy: immortality fantasies of the ultra-rich* is a diagnostic node of the **Polaris Protocol**.  
+*🧠 Death-Denial As Policy: Immortality Fantasies Of The Ultra-Rich* is a diagnostic node of the **Polaris Protocol**.  
 It documents how elite refusal of mortality distorts priorities, weakens collective systems, and accelerates structural collapse.
 
 > 📡 Cross-references:
 > 
-> - [🔮 Magical thinking as an economic operating system] — belief persistence  
-> - [🪦 The protagonist problem] — narrative isolation  
-> - [🌍 When virtual minds govern a physical planet] — escapism vs material reality  
+> - [🔮 Magical Thinking As An Economic Operating System](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🔮_magical_thinking_as_an_economic_operating_system.md) — *belief persistence*  
+> - [🪦 The Protagonist Problem](../💫_Containment_Logic/🪦_the_protagonist_problem.md) — *narrative isolation*  
+> - [🌍 When Virtual Minds Govern A Physical Planet](../../🦕_Elder_Influencers/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md) — *escapism vs material reality*  
+> - [🩸 Genocide Denialism](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/README.md) — *co-occurant*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-04_

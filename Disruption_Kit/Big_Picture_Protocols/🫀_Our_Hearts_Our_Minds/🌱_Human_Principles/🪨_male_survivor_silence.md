@@ -1,5 +1,5 @@
-# 🪨 Male Survivor Silence — How Patriarchy Forbids Men From Speaking About Their Trauma
-**First created:** 2025-11-12 | **Last updated:** 2025-12-11  
+# 🪨 Male Survivor Silence — How Patriarchy Forbids Men From Speaking About Their Trauma  
+**First created:** 2025-11-12 | **Last updated:** 2026-01-04  
 *Why so many men, boys, and trans men carry sexual trauma alone — and how silence is enforced structurally.*  
 
 ---
@@ -83,9 +83,9 @@ It restores visibility to male survivors whose trauma has been systemically eras
 
 > 📡 Cross-references:
 > 
-> - [🩸 The Long Fuse (2010–2017)]  
-> - [🧱 Predation Logic — Vulnerability, Power, and Targeting]  
+> - [🩸 The Long Fuse (2010–2017)](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🩸_the_long_fuse_2010_2017.md)  
+> - [🦤 Predation Logic — Vulnerability, Power, and Targeting](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🦤_predation_logic_vulnerability_power_targeting.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-01-04_

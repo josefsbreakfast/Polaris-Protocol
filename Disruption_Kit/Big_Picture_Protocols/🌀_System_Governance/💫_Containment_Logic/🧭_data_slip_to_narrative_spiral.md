@@ -1,12 +1,12 @@
 # 🧭 Data Slip → Narrative Spiral  
-**First created:** 2025-12-02 | **Last updated:** 2025-12-19  
+**First created:** 2025-12-02 | **Last updated:** 2026-01-04  
 *A concise, reader-facing case study of a clerical error, its political
 inflation, and the genocide‑prevention duties obscured in public
 debate.*
 
 ---
 
-## 1. Why This Node Matters
+## 🛰️ Why This Node Matters
 
 You've probably seen the headlines about a West Midlands Police briefing
 that mistakenly claimed Maccabi Tel Aviv "last played in the UK in
@@ -17,7 +17,7 @@ is dangerously misplaced.
 
 ---
 
-## 2. What Really Drove the Policing Decision
+## 🗺️ What Really Drove the Policing Decision
 
 ### **Amsterdam 2023 was the true trigger**
 
@@ -44,7 +44,7 @@ This is the environment the UK police were operating in.
 
 ---
 
-## 3. The Clerical Error: What It Was and Why It Was Irrelevant
+## 👾 The Clerical Error: What It Was and Why It Was Irrelevant
 
 ### **How the mistake likely happened**
 
@@ -74,7 +74,7 @@ The November fixture error was irrelevant.
 
 ---
 
-## 4. How the Media Turned a Footnote into a Story
+## 🧿 How the Media Turned a Footnote into a Story
 
 Multiple mainstream outlets framed the error as a scandal because it
 was: - simple
@@ -91,7 +91,7 @@ operational reality.
 
 ---
 
-## 5. Parliamentary Distortion: When Politics Overrules Facts
+## 🦤 Parliamentary Distortion: When Politics Overrules Facts
 
 The committee examining this included MPs from: - Conservative Friends
 of Israel
@@ -109,7 +109,7 @@ The politicians were.
 
 ---
 
-## 6. Why This Was Not Antisemitic
+## 🪬 Why This Was Not Antisemitic
 
 You don't protect British Jews - or anyone - by ignoring genuine
 public‑order risk.
@@ -129,7 +129,7 @@ exist.*
 
 ---
 
-## 7. Genocidal Violence Doesn't Stay at Home
+## 🧨 Genocidal Violence Doesn't Stay at Home
 
 When a conflict involves: - racialised target groups
 - counterinsurgency-trained forces
@@ -150,7 +150,7 @@ They are the people the British state is obligated to protect.
 
 ---
 
-## 8. Policing Limits: The UK Cannot Safely Absorb This Risk
+## 🐼 Policing Limits: The UK Cannot Safely Absorb This Risk
 
 UK police are not equipped to: - neutralise counterinsurgency‑trained
 groups
@@ -167,7 +167,7 @@ Safety in your own city is not.
 
 ---
 
-## 9. The Real Legal Issue: The UK's Duty to Prevent Genocide
+## ⚖️ The Real Legal Issue: The UK's Duty to Prevent Genocide
 
 Under: - the **Genocide Convention**,
 - the **ICC Act 2001**,
@@ -185,7 +185,7 @@ This is the real legal risk - not a clerical error in a briefing.
 
 ---
 
-## 10. Overton Drift: When Genocide Prevention Is Framed as "Unfair"
+## 🔥 Overton Drift: When Genocide Prevention Is Framed as "Unfair"
 
 The public argument became: > "Isn't it unfair to the Maccabi fans?"
 
@@ -205,7 +205,10 @@ The clerical error is a distraction from the bigger truth.
 ## 🌌 Constellations
 
 🪞 ✂️ 🧩 🧠 🛰️ narrative distortion mapping; public‑order doctrine;
-genocide‑prevention ethics; operational literacy; demographic risk.
+genocide‑prevention ethics; operational literacy; demographic risk.  
+
+*Further media:*  
+- [NoJustice covers ongoing alt-right X discourse around bans of Maccabi Tel Aviv, via TikTok](https://vm.tiktok.com/ZNRMaVFsc/) - *anyone in the UK using "the demands of the Islamists" framing for anything that isn't a list of demands from someone of that soecific political ideology, is high risk for being closet antisemite, if the closet was made of glass. Same orientalism, different target.*  
 
 ---
 
@@ -224,8 +227,12 @@ Protocol**, clarifying how minor administrative inaccuracies become
 political leverage points when public‑order realities collide with
 symbolic geopolitics and genocide‑prevention duties.
 
-> 📡 Cross‑references: 
+> 📡 Cross‑references:
+>
+> - [🕌 Muslims as Primary Outgroup in Holocaust Mechanism](../../🦕_Elder_Influencers/🕸️_World_Webs/🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md) – *why cynical misuse of this debate is highly concerning*
+> - [🌍 Muslim Identity Racialisation Parallels to Historic Antisemitism](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🌍_muslim_identity_racialisation_parallels_to_historic_antisemitism.md) – *why it looks like closet antisemitosm from here*
+> - [🔮 Challenge of AI](../../../../👻_Apparitional_Objects/🦴_Skeletal_Shards/🔮_challenge_of_ai.md) – *AI glues data shards like a toddler let loose with PVA glue*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-01-04_
