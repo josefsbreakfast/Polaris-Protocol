@@ -1,5 +1,5 @@
 # 🧭 What This Is — and What It Is Not  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-05  
+**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
 *Scope, limits, and guardrails for collecting intent-adjunct OSINT material.*
 
 ---
@@ -138,11 +138,12 @@ scope, guardrails, osint ethics, contextual evidence, intent inference limits, g
 *🧭 What This Is — and What It Is Not* is an orientation node within **🍉 Collecting Intent Adjunct Material**.  
 It exists to define limits, prevent misuse, and ensure this work remains careful, legible, and usable over time.
 
-> 📡 Cross-references:  
-> - [🍉 Collecting Intent Adjunct Material — README](../README.md) — directory overview  
-> - [🧬 Methods](../🧬_methods/) — how patterns are identified   
-> - [📚 Registers](../📚_registers/) — where material is logged  
+> 📡 Cross-references:
+> 
+> - [🍉 Collecting Intent Adjunct Material — README](../README.md) — *directory overview*  
+> - [🧬 Methods](../🧬_methods/) — *how patterns are identified*   
+> - [📚 Registers](../📚_registers/) — *where material is logged*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-06_
