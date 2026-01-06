@@ -1,5 +1,6 @@
 # 🫀 A Question of Questions  
-### Prolonged Starvation, Parliamentary Process, and Democratic Accountability
+**First created:** 2026-01-06 | **Last updated:** 2026-01-06  
+*Prolonged starvation, parliamentary process, and democratic accountability*  
 
 ---
 
@@ -189,3 +190,20 @@ Silence without explanation is not neutrality.
 In time-dependent injury, it is **policy by omission**.
 
 ---
+
+---
+
+## 🏮 Footer  
+
+*A Question of Questions* is a living node of the **Polaris Protocol**.  
+It examines how democratic and parliamentary processes respond to time-dependent physiological harm in custody, and whether accountability mechanisms function proportionately under conditions of escalating, irreversible risk.
+
+> 📡 Cross-references:
+>
+> - [
+> - [
+> - [
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-06_
