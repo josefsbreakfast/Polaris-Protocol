@@ -1,5 +1,5 @@
 # 🪖 A Previous Cabinet’s Errors  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-24 | **Last updated:** 2026-01-06  
 *How a single governance error can compound, scale, and enlarge over time.*  
 
 ---
@@ -133,11 +133,12 @@ It documents how unresolved political and governance decisions can compound over
 
 > 📡 Cross-references:
 > 
-> - [🪖 Classification, Suppression, and Misuse] — *secrecy-based failure modes*  
-> - [🪖 Respectfully Asking the MOD to Declassify] — *defensive governance dynamics*  
-> - [🌀 Loop Mapping Station](../../../../🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md)
-> - [🪢 Re-Embodied Dialogue & Civic Presence](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/🪢_re_embodied_dialogue_and_civic_presence.md)  
+> - [🪖 Classification, Suppression, and Misuse](./🪖_classification_suppression_and_misuse.md) — *secrecy-based failure modes*  
+> - [🪖 Respectfully Asking the MOD to Declassify](./🪖_respectfully_asking_the_mod_to_declassify.md) — *defensive governance dynamics*  
+> - [🌀 Loop Mapping Station](../../../../🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md)  
+> - [🪢 Re-Embodied Dialogue & Civic Presence](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/🪢_re_embodied_dialogue_and_civic_presence.md)
+> - [🧬 Restorative and Transformative Justice — Where It Actually Works](../⚖️_Legal_State_Governance/🧬_restorative_and_transformative_justice_where_it_actually_works.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-01-06_
