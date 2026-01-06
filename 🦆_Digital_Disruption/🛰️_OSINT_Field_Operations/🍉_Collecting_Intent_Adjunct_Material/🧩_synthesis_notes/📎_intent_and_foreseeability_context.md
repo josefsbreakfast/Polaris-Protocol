@@ -1,5 +1,5 @@
 # 📎 Intent and Foreseeability — Contextual Notes  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-05  
+**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
 *How accumulated contextual material may inform questions of intent, knowledge, and foreseeability.*
 
 ---
@@ -109,9 +109,11 @@ intent inference, foreseeability, contextual relevance, genocide prevention, leg
 It frames relevance without asserting conclusions.
 
 > 📡 Cross-references:
+>
+> - [🍉 Collecting Intent Adjunct Material – README](../README.md)  
 > - [🧩 Cross-Register Patterns](./🧩_cross_register_patterns.md)  
 > - [⚖️ Contextual Evidence and Intent](../🧭_orientation/⚖️_contextual_evidence_and_intent.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-06_
