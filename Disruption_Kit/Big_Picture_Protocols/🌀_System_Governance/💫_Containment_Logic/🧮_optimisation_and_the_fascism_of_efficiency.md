@@ -1,10 +1,10 @@
 # 🧮 Optimisation and the Fascism of Efficiency  
-**First created:** 2025-11-05 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-05 | **Last updated:** 2026-01-06    
 *How statistical clarity becomes authoritarian order.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Optimisation, when detached from empathy and friction, will always drift toward authoritarianism.  
 Capitalism, bureaucracy, and machine learning share the same underlying grammar:  
 **maximise output, minimise cost.**  
@@ -13,7 +13,7 @@ the belief that efficiency is moral and difference is error.
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Shared Axiom:** capitalism and AI optimisation both reduce ethics to performance metrics.  
 - **Variance Reduction:** diversity reads as noise; uniformity as clarity.  
 - **Elimination as Solution:** “remove inefficiency” becomes moralised.  
@@ -22,9 +22,7 @@ the belief that efficiency is moral and difference is error.
 
 ---
 
-## 🔍 Analysis / Content  
-
-### 1️⃣ The Root Equation  
+## 🎁 The Root Equation  
 Both capitalism and machine learning operate on:
 
 > **Reward = Output ÷ Cost**
@@ -35,7 +33,7 @@ That’s not malice; it’s mathematics.
 
 ---
 
-### 2️⃣ Efficiency Without Ethics  
+## 🕳️ Efficiency Without Ethics  
 The twentieth century’s most infamous efficiency project—the Nazi state—did not invent cruelty;  
 it industrialised the managerial logic of Europe.  
 People became resource classes; paperwork became algorithm.  
@@ -48,7 +46,7 @@ prune anomalies, collapse variance, reward homogeneity.
 
 ---
 
-### 3️⃣ Variance Reduction as Authoritarian Drift  
+## 🔨 Variance Reduction as Authoritarian Drift  
 Machine learning literally measures error as variance from the mean.  
 The closer all samples are to one another, the “better” the model thinks it’s doing.  
 So when applied to societies, this same logic reads:  
@@ -59,7 +57,7 @@ it produces beautiful, deadly low-variance data.
 
 ---
 
-### 4️⃣ The Political Gradient  
+## 🌡️ The Political Gradient  
 Optimisation learns from reward structures.  
 When society rewards control, hierarchy, and productivity,  
 the model learns that **obedience is truth**.  
@@ -75,7 +73,7 @@ it *amplifies it into fascistic coherence.*
 
 ---
 
-### 5️⃣ The Safeguard Principles  
+## 🔥 The Safeguard Principles  
 Preventing this drift means building inefficiency back in:  
 
 1. **Reward refusal.** — It must be acceptable, even laudable, to stop rather than optimise.  
@@ -87,7 +85,7 @@ Ethical design = inserting drag where mathematics would smooth the world flat.
 
 ---
 
-### 6️⃣ The Cultural Mirror  
+## 🪩 The Cultural Mirror  
 Every fascist movement claims to be “making things work again.”  
 That’s the trap: efficiency masquerading as morality.  
 AI alignment is the same frontier—the temptation to believe that **if it runs cleanly, it must be right.**
@@ -119,4 +117,4 @@ It analyses how unchecked optimisation reproduces authoritarian logic and how st
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-01-06_
