@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-06 05:46:41 UTC_
+_Generated on 2026-01-06 05:51:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4708,6 +4708,7 @@ _Generated on 2026-01-06 05:46:41 UTC_
       - [`README.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/README.md)
       - [`🐘_the_ghost_of_a_very_big_elephant.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/🐘_the_ghost_of_a_very_big_elephant.md)
     - [`README.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/README.md)
+    - [`🧠_context_deprivation_effect.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_context_deprivation_effect.md)
     - [`🧠_cumulative_surveillance_burden.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_cumulative_surveillance_burden.md)
   - [`README.md`](🦆_Digital_Disruption/README.md)
 - [**🩻_Weirdness_Screening/**](🩻_Weirdness_Screening/)
