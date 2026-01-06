@@ -215,6 +215,7 @@ It maps how British–Israeli security cooperation obscures accountability and p
 > - [🧿 UK Persuasion Engine on Palestine](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧿_uk_persuasion_engine_on_palestine.md) — *narrative shaping within UK political and media ecosystems*
 > - [🍉 Why Peacetime vs Wartime Matters For Democracy](../⚖️_Legal_State_Governance/🍉_why_peacetime_vs_wartime_matters_for_democracy.md)  
 > - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)](../⚖️_Legal_State_Governance/🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md)  
+> - [📡 The Governance of Bodies That Refuse](../⚖️_Legal_State_Governance/📡_the_governance_of_bodies_that_refuse.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
