@@ -1,5 +1,5 @@
 # 🧙‍♀️ Witch Logic Diagnostic  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-13  
+**First created:** 2025-11-16 | **Last updated:** 2026-01-06  
 *A field guide to recognising when women’s intelligence, articulation, or survival is being treated as “witchcraft” by families, institutions, or systems.*  
 
 ---
@@ -26,9 +26,7 @@ It’s about how fear, patriarchy, class anxiety, and institutional self-protect
 
 ---
 
-## 🧿 Analysis  
-
-### 1️⃣ What is Witch Logic?  
+## 🧿 What is Witch Logic?  
 Witch logic is not “someone called me a witch”.  
 It is a *pattern* where:
 
@@ -53,7 +51,7 @@ The underlying move is the same:
 
 ---
 
-### 2️⃣ Who Attracts Witch Logic?  
+## 🔮 Who Attracts Witch Logic?  
 Witch logic is most often applied to women who show a mix of:
 
 - **Literacy & articulation** – reads policies, writes clearly, documents events  
@@ -75,7 +73,7 @@ In environments with:
 
 ---
 
-### 3️⃣ From Duck Weighing to Paperwork: Modern Witch Tests  
+## 🦆 From Duck Weighing to Paperwork: Modern Witch Tests  
 In the Monty Python sketch, the villagers decide:
 
 > “If she weighs the same as a duck, she’s a witch.”
@@ -97,7 +95,7 @@ The point is not truth. The point is containment.
 
 ---
 
-### 4️⃣ Institutional Witch Logic  
+## 🏛️ Institutional Witch Logic  
 Institutions enact witch logic when they:
 
 - treat a woman’s insight into coercive dynamics as inherently destabilising  
@@ -118,7 +116,7 @@ Her ability to *see what is happening* is what makes her dangerous to those who 
 
 ---
 
-### 5️⃣ Family & Class Versions of Witch Logic  
+## 🧠 Family & Class Versions of Witch Logic  
 At the family or class level, witch logic looks like:
 
 - “Who does she think she is?”  
@@ -147,7 +145,7 @@ So she is treated, subtly or explicitly, as if she were dangerous.
 
 ---
 
-### 6️⃣ For Survivors: Using Witch Logic as a Diagnostic, Not a Self-Description  
+## 🐦‍🔥 For Survivors: Using Witch Logic as a Diagnostic, Not a Self-Description  
 This node is not an invitation to internalise “witch” as your identity.  
 It is a tool to *externalise* the pattern.
 
@@ -180,13 +178,13 @@ witch logic, credibility tests, survivor misreading, literate women, class-coded
 
 *🧙‍♀️ Witch Logic Diagnostic* is a Polaris analysis node for recognising when modern systems are replaying the old “witch trial” pattern against women whose intelligence and survival threaten entrenched power.
 
-It pairs closely with:
-
-- **🦆 She Weighs the Same as a Duck** – humour-analysis of witch tests  
-- survivor governance nodes in **Disruption Kit / Big Picture Protocols**  
-- narrative interference work in **Metadata Sabotage Network / Narrative & Psych Ops**
+> 📡 Cross-references:
+> 
+> - [🦆 She Weighs the Same as a Duck](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦆_she_weighs_the_same_as_a_duck.md) – *humour-analysis of witch tests*  
+> - [⚖️ Procedural Correctness as Safeguard](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_procedural_correctness_as_safeguard.md)  
+> - [🔥 Femme Firewall Fatale — The Panic at Female Intelligence](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🔥_femme_firewall_fatale.md)  
 
 Survivor authorship is not witchcraft.  
 Systems that fear being seen will always pretend otherwise.
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-01-06_
