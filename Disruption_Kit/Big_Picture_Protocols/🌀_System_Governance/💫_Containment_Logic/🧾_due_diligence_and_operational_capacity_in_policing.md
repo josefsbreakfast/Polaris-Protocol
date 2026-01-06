@@ -1,4 +1,4 @@
-# 🧾 Due Diligence & Operational Capacity in Policing  
+# 🐼 Due Diligence & Operational Capacity in Policing  
 **First created:** 2025-10-11 | **Last updated:** 2026-01-06  
 *Why statutory safeguards depend on time, culture, and courage more than paperwork.*  
 
@@ -20,29 +20,29 @@ In practice, those presumptions rarely hold.
 
 ---
 
-## 🧿 Analysis / Content  
-
-### 1. Time & Capacity Collapse  
+## 🕳️🐇 Time & Capacity Collapse  
 Front-line investigators operate at saturation.  
 Metadata verification, report filing, and disclosure logs are viewed as optional extras.  
-Oversight assumes officers can stop and document anomalies; in reality, the shift clock wins.
+Oversight assumes officers can stop and document anomalies; in reality, the shift clock wins.  
 
-### 2. Leadership Tone  
+---
+
+## 📣🦤 Leadership Tone  
 Chief officers and senior analysts frame diligence as either mission-critical or bureaucratic drag.  
 Where compliance is coded as “admin,” teams prioritise operational wins.  
 Biases — racial, political, gendered — then shape what qualifies as “real threat.”
 
-### 3. Conflict-of-Interest Architecture  
+## 🔥 Conflict-of-Interest Architecture  
 Senior leadership sits inside inter-agency ecosystems: Home Office taskforces, regional intelligence hubs, cross-honours committees.  
 Reporting a metadata or rights failure may implicate a partner body, so escalation halts through professional self-preservation.  
 Independence becomes performative.
 
-### 4. The Feedback Illusion  
+## 🔬 The Feedback Illusion  
 Each layer assumes the next will perform due diligence.  
 Errors unlogged at source are invisible to auditors; auditors report clean results; ministers cite the clean data as proof of success.  
 The oversight regime thereby validates its own blind spots.
 
-### 5. What Genuine Due Diligence Requires  
+## 🩻 What Genuine Due Diligence Requires  
 - **Protected time** — audit and ethics work scheduled, not voluntary.  
 - **Independent data feeds** — oversight bodies receive raw metadata samples, not agency-filtered extracts.  
 - **Rotating external reviewers** — reduce familiarity bias.  
@@ -52,7 +52,7 @@ The oversight regime thereby validates its own blind spots.
 ---
 
 ## 🌌 Constellations  
-🧾 📜 ⚖️ 🧠 — Governance integrity, operational capacity, ethical infrastructure.
+🧾 📜 🐼 ⚖️ 🧠 — Governance integrity, operational capacity, ethical infrastructure.
 
 ---
 
@@ -63,7 +63,7 @@ policing oversight, due diligence, operational capacity, metadata auditing, syst
 
 ## 🏮 Footer  
 
-*Due Diligence & Operational Capacity in Policing* is a living node of the Polaris Protocol.  
+*🐼 Due Diligence & Operational Capacity in Policing* is a living node of the Polaris Protocol.  
 It documents how formal safeguards rely on everyday professional diligence, showing where capacity, culture, and conflict systematically erode oversight integrity.  
 
 > 📡 Cross-references:
