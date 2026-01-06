@@ -1,5 +1,5 @@
 # ⚖️ Contextual Evidence and Intent  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-05  
+**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
 *How contextual and circumstantial material is used when intent is difficult to prove directly.*
 
 ---
@@ -132,10 +132,12 @@ contextual evidence, intent inference, foreseeability, anticipation, chilling ef
 It explains why contextual material is legally relevant without asserting conclusions.
 
 > 📡 Cross-references:
-> - [🧭 What This Is — and What It Is Not](./🧭_what_this_is_and_is_not.md) — scope boundaries  
-> - [🧬 Methods](../🧬_methods/) — analytical standards  
-> - [📚 Registers](../📚_registers/) — contextual material logs  
+>
+> - [🍉 Collecting Intent Adjunct Material – README](../README.md)  
+> - [🧭 What This Is — and What It Is Not](./🧭_what_this_is_and_is_not.md) — *scope boundaries*  
+> - [🧬 Methods](../🧬_methods/) — *analytical standards*  
+> - [📚 Registers](../📚_registers/) — *contextual material logs*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-06_
