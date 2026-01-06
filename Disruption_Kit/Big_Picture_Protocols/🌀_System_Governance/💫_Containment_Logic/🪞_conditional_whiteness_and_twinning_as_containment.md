@@ -1,6 +1,6 @@
-# 🪞 Conditional Whiteness and Twinning as Containment
-**First created:** 2025-11-07 | **Last updated:** 2025-11-12  
-*Diagnostic reflection on how institutions manage belonging through racial coding and oppositional pairing.*
+# 🪞 Conditional Whiteness and Twinning as Containment  
+**First created:** 2025-11-07 | **Last updated:** 2026-01-06  
+*Diagnostic reflection on how institutions manage belonging through racial coding and oppositional pairing.*  
 
 ---
 
@@ -37,9 +37,13 @@ It explores how identity management and twinning operate as containment tools wi
 
 > 📡 Cross-references:
 > 
-> - 🧱 Ideological Loyalty as Pyramid Scheme  
-> - ⚖️ Respectability Containment in Professional Ethics  
+> - [*Pending:* 🧱 Ideological Loyalty as Pyramid Scheme]  
+> - [⚖️ Respectability Containment in Professional Ethics](./⚖️_respectability_containment_in_professional_ethics.md)
+> - [⚖️ Ideological Coding & Voice Discrediting](../../🦕_Elder_Influencers/🕊️_Just_Boxes/⚖️_ideological_coding_and_voice_discrediting.md)
+> - [📚 Narrative of Deservingness](../../🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/📚_narrative_of_deservingness.md)
+> - [🎯 Probabilistic Targeting Over Individual Hacking](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎯_probabilistic_targeting_over_individual_hacking.md)  
+> - [🪞 Russia–China Narrative Substitution Matrix](../../../..Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🪞_russia_china_narrative_substitution_matrix.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-01-06_
