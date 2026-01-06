@@ -1,5 +1,5 @@
 # 📊 Baseline vs Anomaly Logic  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-05  
+**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
 *How normal professional risk is distinguished from abnormal pressure.*
 
 ---
@@ -84,10 +84,11 @@ baseline analysis, anomaly detection, complaint spikes, deviation from norm
 It defines how abnormal pressure is distinguished from ordinary professional risk.
 
 > 📡 Cross-references:
-> 
+>
+> - [🍉 Collecting Intent Adjunct Material – README](../README.md)  
 > - [🧬 Pattern and Deviation Analysis](./🧬_pattern_and_deviation_analysis.md)  
 > - [🧠 Evidentiary Silence and Chilling](./🧠_evidentiary_silence_and_chilling.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-06_
