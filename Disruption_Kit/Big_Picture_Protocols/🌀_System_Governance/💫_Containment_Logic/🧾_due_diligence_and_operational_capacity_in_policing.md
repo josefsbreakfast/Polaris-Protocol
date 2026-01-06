@@ -1,6 +1,6 @@
 # 🧾 Due Diligence & Operational Capacity in Policing  
-**First created:** 2025-10-11  |  **Last updated:** 2025-10-19  
-*Why statutory safeguards depend on time, culture, and courage more than paperwork.*
+**First created:** 2025-10-11 | **Last updated:** 2026-01-06  
+*Why statutory safeguards depend on time, culture, and courage more than paperwork.*  
 
 ---
 
@@ -68,10 +68,12 @@ It documents how formal safeguards rely on everyday professional diligence, show
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Containment & Cut-Through in the Legal Profession](../../🌀_System_Governance/💫_Containment_Logic/⚖️_containment_and_cutthrough_in_the_legal_profession.md) — *parallel professional dynamics*  
+> - [⚖️ Containment & Cut-Through in the Legal Profession](./⚖️_containment_and_cutthrough_in_the_legal_profession.md) — *parallel professional dynamics*  
 > - [🏛️ Procedural Gatekeeping — Speaker & Leader Alignment](../../🦕_Elder_Influencers/📜_Statutes/🏛️_procedural_gatekeeping.md) — *legislative oversight comparison*  
-
+> - [🚓 Police Identification Myth](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/🚓_police_identification_myth.md)  
+> - [⚖️ Schmittian Logic in Policing Practice](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_schmittian_logic_in_policing_practice.md)  
+> - [🔥 Asymmetric Overload & Legal Insulation](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🔥_asymmetric_overload_and_legal_insulation.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-01-06_
