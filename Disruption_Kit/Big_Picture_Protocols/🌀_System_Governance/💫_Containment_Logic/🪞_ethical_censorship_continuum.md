@@ -1,6 +1,6 @@
 # 🪞 Ethical Censorship Continuum  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-12  
-*Mapping the moral terrain between concealment for protection and concealment for power.*
+**First created:** 2025-11-01 | **Last updated:** 2026-01-06  
+*Mapping the moral terrain between concealment for protection and concealment for power.*  
 
 ---
 
@@ -101,7 +101,7 @@ Polaris argues the opposite: silence is ethical only if it carries a built-in me
 
 ## 🌌 Constellations  
 
-🪞 📚 📮 🧠 — connects to *Authoritarian Century — Bridge of Register*, *Banned Books and the Timing of Truth*, and *Answers on a Postcard* within the **Survivor Voice Fidelity** cluster.
+🪞 📚 📮 🧠  
 
 ---
 
@@ -114,8 +114,14 @@ ethical censorship, concealment continuum, survivor voice fidelity, hobbes kant 
 ## 🏮 Footer  
 
 *🪞 Ethical Censorship Continuum* defines the moral gradient between protective silence and authoritarian erasure.  
-It completes the suppression triad alongside *Authoritarian Century — Bridge of Register* and *Banned Books and the Timing of Truth*.  
+
+> 
+> - [📚 The Banned Book Paradox](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📚_banned_book_paradox.md)  
+> - [🤭 Who Is Scared of The Internationale?](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🤭_who_is_scared_of_the_internationale.md)
+> - [🧿 Canonisation by Erasure](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🧿_canonisation_by_erasure.md)  
+> - [📊 Navy Transparency as Resistance](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/data/📊_navy_transparency_as_resistance.md)  
+> - [🫀 Pathologising Sensitivity as Containment](../../../Containment_Scripts/Suppression_Modes/🫀_pathologising_sensitivity_as_containment.md)  
 
 *Silence without expiry is not ethics; it’s inertia disguised as care.*
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-01-06_
