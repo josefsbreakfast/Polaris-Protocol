@@ -231,6 +231,12 @@ residual attentional conditioning injury, rাকি, locus coeruleus, norepinep
 It proposes a mechanism-first construct for persistent attentional capture with circadian and neurometabolic sequelae, and maps it onto adjacent evidence bases and ICD-11 frameworks without forcing diagnostic equivalence.
 
 > 📡 Cross-references:
+>
+> - [🧠 Cumulative Surveillance Burden](./🧠_cumulative_surveillance_burden.md)  
+> - [🐍 Trauma Commodification](../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_trauma_commodification.md)  
+> - [🧠 Bargain Bin Mossad](../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_bargain_bin_mossad.md)  
+> - [🗝 Who Holds the Tape](../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝_who_holds_the_tape.md)  
+> - [🔥 Suppression as Signal](../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
