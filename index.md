@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-06 15:09:37 UTC_
+_Generated on 2026-01-06 15:12:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -316,6 +316,7 @@ _Generated on 2026-01-06 15:09:37 UTC_
         - [`🏛️_yet_another_commission_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_yet_another_commission_as_containment.md)
         - [`🐢_behavioural_proxies_all_the_way_down.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🐢_behavioural_proxies_all_the_way_down.md)
         - [`🐼_dearresting_and_palestine_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🐼_dearresting_and_palestine_policing.md)
+        - [`🐼_due_diligence_and_operational_capacity_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🐼_due_diligence_and_operational_capacity_in_policing.md)
         - [`👹_how_predators_weaponise_safeguarding_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👹_how_predators_weaponise_safeguarding_systems.md)
         - [`👾_intent_free_authoritarian_drift.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👾_intent_free_authoritarian_drift.md)
         - [`💣_austerity_as_time_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/💣_austerity_as_time_collapse.md)
@@ -422,7 +423,6 @@ _Generated on 2026-01-06 15:09:37 UTC_
         - [`🧮_deepthought_datagov_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧮_deepthought_datagov_problem.md)
         - [`🧮_optimisation_and_the_fascism_of_efficiency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧮_optimisation_and_the_fascism_of_efficiency.md)
         - [`🧮_the_unpaid_labour_of_verification.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧮_the_unpaid_labour_of_verification.md)
-        - [`🧾_due_diligence_and_operational_capacity_in_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md)
         - [`🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md)
         - [`🩹_pain_is_not_a_kpi.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_pain_is_not_a_kpi.md)
         - [`🩹_patch_repair_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_patch_repair_governance.md)
