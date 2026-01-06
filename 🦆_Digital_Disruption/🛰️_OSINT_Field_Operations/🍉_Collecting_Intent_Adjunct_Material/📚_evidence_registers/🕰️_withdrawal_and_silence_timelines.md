@@ -1,6 +1,6 @@
 # 🕰️ Withdrawal and Silence Timelines  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-05  
-*Chronological logging of withdrawal, silence, or reduced participation by role-defined actors.*
+**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
+*Chronological logging of withdrawal, silence, or reduced participation by role-defined actors.*  
 
 ---
 
@@ -84,9 +84,11 @@ withdrawal, silence, chilling effects, evidentiary absence, expert disengagement
 It documents absence as context, not allegation.
 
 > 📡 Cross-references:
+>
+> - [🍉 Collecting Intent Adjunct Material – README](../README.md)  
 > - [🕰️ Timing and Anticipation](../🧬_methods/🕰️_timing_and_anticipation.md)  
 > - [🧠 Evidentiary Silence and Chilling Effects](../🧬_methods/🧠_evidentiary_silence_and_chilling.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-06_
