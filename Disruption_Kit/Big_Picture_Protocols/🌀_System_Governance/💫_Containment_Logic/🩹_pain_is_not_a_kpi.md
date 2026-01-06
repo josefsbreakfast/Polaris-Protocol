@@ -1,6 +1,6 @@
 # 🩹 Pain Is Not a KPI  
-**First created:** 2025-11-10 | **Last updated:** 2025-11-13  
-*Why unmeasured pain attracts technology instead of staffing.*
+**First created:** 2025-11-10 | **Last updated:** 2026-01-06  
+*Why unmeasured pain attracts technology instead of staffing.*  
 
 ---
 
@@ -177,8 +177,10 @@ It maps how unmeasured suffering becomes a target for technological “solutions
 > 📡 Cross-references:
 > 
 > - [⚖️ The Teaching Hospital Loophole](../🧪_Development_Experimentation/⚖️_the_teaching_hospital_loophole.md) — *consent laundering in “teaching” environments*  
-> - [🌀 Systems & Governance](../README.md) — *incentive design and oversight architectures*  
+> - [ 🌶️ WHOQOL-BREF Surveillance Impact Scoring](../../../../🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🌶️_WHOQOLBREF_surveillance_impact_scoring.md)  
+> - [🕸️ Algorithmic Hearing Is Not Listening](./../🪄_Expression_Of_Norms/🙀_Chronically_Online/🕸️_algorithmic_hearing_is_not_listening.md)  
+> - [🐣 Maternity Delays as Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐣_maternity_delays_as_containment.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-13_
+_Last updated: 2026-01-06_
