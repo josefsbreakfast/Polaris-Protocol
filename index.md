@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-06 11:04:24 UTC_
+_Generated on 2026-01-06 12:33:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1186,6 +1186,7 @@ _Generated on 2026-01-06 11:04:24 UTC_
         - [`🛟_harm_reduction_at_borders.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🛟_harm_reduction_at_borders.md)
         - [`🦕_partition_loop.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🦕_partition_loop.md)
         - [`🧭_migration_crisis_as_a_consultancy_revenue_environment.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🧭_migration_crisis_as_a_consultancy_revenue_environment.md)
+        - [`🩸_jura_sanguinis_et_soli_protofascism_risk.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🩸_jura_sanguinis_et_soli_protofascism_risk.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/README.md)
     - [**🪄_Expression_Of_Norms/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
       - [**🎓_British_University_Compliance_Service/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/)
