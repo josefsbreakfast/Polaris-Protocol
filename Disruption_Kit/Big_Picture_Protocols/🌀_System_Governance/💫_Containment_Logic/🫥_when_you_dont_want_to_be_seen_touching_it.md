@@ -1,5 +1,5 @@
 # 🫥 When You Don’t Want to Be Seen Touching It  
-**First created:** 2025-11-05 | **Last updated:** 2026-01-04  
+**First created:** 2025-11-05 | **Last updated:** 2026-01-06  
 *Why plausible deniability is the core product of the grey-zone market, and how to recognise when you’re starting to buy it.*  
 
 ---
@@ -23,7 +23,7 @@ This node dissects why clients seek deniability, how contractors monetise that n
 
 ---
 
-## 1.  Why clients buy deniability  
+## 🌈 Why Clients Buy Deniability  
 - **Optics:** appearing neutral or compliant sustains brand, political legitimacy, or diplomatic posture.  
 - **Liability management:** contracting a third party dilutes prosecutable responsibility.  
 - **Internal control bypass:** allows leadership to act without implicating legal or compliance teams.  
@@ -33,7 +33,7 @@ This node dissects why clients seek deniability, how contractors monetise that n
 
 ---
 
-## 2.  The moral and operational cost  
+## 💰 The Moral And Operational Cost  
 | Harm Type | Description | Consequence |
 |------------|--------------|-------------|
 | **Moral hazard** | Decisions feel safer once outsourced | Normalises illegal behaviour |
@@ -44,7 +44,7 @@ This node dissects why clients seek deniability, how contractors monetise that n
 
 ---
 
-## 3.  How contractors monetise your shame  
+## 💸 How Contractors Monetise Your Shame  
 - Price of service rises with **distance from legality**.  
 - Each layer of opacity (cut-out → offshore payment → NDAs) adds markup.  
 - Post-operation, the same contractor or its partner **sells you clean-up services**: SEO scrubbing, takedown notices, SLAPP litigation.  
@@ -52,7 +52,7 @@ This node dissects why clients seek deniability, how contractors monetise that n
 
 ---
 
-## 4.  Governance playbook — recognising and halting the slide  
+## 🏛️ Governance Playbook — Recognising And Halting The Slide  
 1. **Interrogate intent:** if the first reason for outsourcing is “we can’t be seen doing this,” pause.  
 2. **Force plain language:** rewrite the objective as a single sentence in ordinary English; if it sounds unlawful, it is.  
 3. **Require independent legal sign-off** before any external procurement.  
@@ -63,7 +63,7 @@ This node dissects why clients seek deniability, how contractors monetise that n
 
 ---
 
-## 5.  Cultural tell-tales  
+## 👾 Cultural Tell-Tales  
 - Repeated use of euphemisms like “enhanced collection,” “external intelligence facilitation,” “reputation management exercise.”  
 - Sudden legal insistence on oral contracts only.  
 - Presence of risk-management consultants recommending “trusted partners” with no online footprint.  
@@ -95,4 +95,4 @@ It maps the decision logic that turns caution into complicity and explains why d
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-01-06_
