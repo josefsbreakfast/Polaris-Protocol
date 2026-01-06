@@ -1,17 +1,17 @@
 # 🪞 Misunderstanding as Risk Signal — How Surveillance Turns Bias into Evidence  
-**First created:** 2025-10-30  |  **Last updated:** 2025-10-30  
-*When confusion becomes a data point.*
+**First created:** 2025-10-30 | **Last updated:** 2026-01-06  
+*When confusion becomes a data point.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Examines how human misinterpretation is translated into machine certainty.  
 Surveillance frameworks routinely mistake “I don’t understand this” for “this may be dangerous,” transforming personal bias into institutional evidence.  
 It is not the subject who reveals risk — it is the observer who reveals fear.  
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Cognitive bias mechanised:** gut feeling → classification → database record.  
 - **Suspicion without comprehension:** ignorance disguised as vigilance.  
 - **Feedback amplification:** one flag begets another until the label hardens into fact.  
@@ -20,9 +20,7 @@ It is not the subject who reveals risk — it is the observer who reveals fear.
 
 ---
 
-## 🔍 Analysis  
-
-### 1️⃣ From Intuition to Indicator  
+## 🪼 From Intuition to Indicator  
 Surveillance begins as a feeling.  
 A watcher senses anomaly, can’t explain it, and formalises the unease as “potential concern.”  
 Once logged, that unease gains metadata, timestamp, authorisation — and becomes evidence.  
@@ -30,7 +28,7 @@ Thus misunderstanding, when documented, turns into a risk asset.
 
 ---
 
-### 2️⃣ The Bureaucratic Alchemy  
+## 🧪 The Bureaucratic Alchemy  
 | Human reaction | Database translation | Result |
 |----------------|----------------------|---------|
 | “I don’t get this person.” | “Subject exhibits non-normative behaviour.” | Initiate observation. |
@@ -41,21 +39,21 @@ Each translation removes context and multiplies authority.
 
 ---
 
-### 3️⃣ Feedback Loops of Fear  
+## 🕳️ Feedback Loops of Fear  
 The act of flagging justifies further scrutiny.  
 Every new analyst encounters the existing flags and assumes their truth.  
 Suspicion compounds like interest: the system invests in its own paranoia.
 
 ---
 
-### 4️⃣ Epistemic Cost  
+## 💸 Epistemic Cost  
 The administrative imagination shrinks.  
 Where curiosity should live, compliance grows.  
 An entire surveillance regime can run on the simple inability to tolerate ambiguity.
 
 ---
 
-### 5️⃣ Reflective Surveillance as Remedy  
+## 🪄 Reflective Surveillance as Remedy  
 - Build “we might be wrong” clauses into analytic protocols.  
 - Audit trigger language: *anomalous*, *concerning*, *irregular* = human discomfort markers.  
 - Train reviewers to distinguish **difference** from **deception**.  
@@ -82,8 +80,10 @@ It documents how confusion becomes codified as risk and why reflective systems m
 >
 > - [🪞 The MUU Class](./🪞_the_muu_class.md) — *bias and misclassification*  
 > - [🧠 Smart Women Get Surveillance](./🧠_smart_women_get_surveillance.md) — *gendered misclassification*  
-> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *diagnostic continuum*  
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *diagnostic continuum*
+> - [🍃 Two-Layer Resilience Protocol](../../../Survivor_Tools/🍃_two_layer_resilience_protocol.md)  
+> - [🫀 Pathologising Sensitivity as Containment](../../../Containment_Scripts/Suppression_Modes/🫀_pathologising_sensitivity_as_containment.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-30_
+_Last updated: 2026-01-06_
