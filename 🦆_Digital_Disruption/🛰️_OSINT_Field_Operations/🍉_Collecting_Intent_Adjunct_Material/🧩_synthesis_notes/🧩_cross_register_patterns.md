@@ -1,6 +1,6 @@
 # 🧩 Cross-Register Patterns  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-05  
-*Observations that emerge only when multiple evidence registers are read together.*
+**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
+*Observations that emerge only when multiple evidence registers are read together.*  
 
 ---
 
@@ -106,9 +106,11 @@ cross-register analysis, pattern convergence, contextual synthesis, osint aggreg
 It records emergent relationships without asserting conclusions.
 
 > 📡 Cross-references:
+>
+> - [🍉 Collecting Intent Adjunct Material – README](../README.md)  
 > - [📚 Evidence Registers](../📚_evidence_registers/) — source material  
 > - [🧬 Methods](../🧬_methods/) — analytical standards  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-06_
