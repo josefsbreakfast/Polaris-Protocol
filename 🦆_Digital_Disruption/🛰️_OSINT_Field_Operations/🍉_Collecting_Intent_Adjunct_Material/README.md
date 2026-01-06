@@ -1,5 +1,5 @@
 # 🍉 Collecting Intent Adjunct Material  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-05  
+**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
 *Distributed OSINT practices for preserving contextual evidence relevant to intent, anticipation, and evidentiary suppression.*
 
 ---
@@ -20,7 +20,7 @@ In the current context, this includes situations where a *declared ceasefire exi
 
 ---
 
-## 🎯 Scope
+## ✨ Scope
 
 This directory concerns **adjunct material** that may support inference of intent, knowledge, anticipation, or foreseeability when read alongside other evidence.
 
@@ -79,7 +79,7 @@ Silence ≠ guilt.
 
 ---
 
-## 🛡️ For Journalists, Researchers & Constrained Professionals
+## 🕸️ For Journalists, Researchers & Constrained Professionals
 
 This directory explicitly recognises a modern reality:
 
@@ -106,7 +106,7 @@ But **risk-aware contribution matters**.
 
 ---
 
-## 🔐 Open Source, Not Exposure
+## 🧄 Open Source, Not Exposure
 
 Contributions here may be made:
 
@@ -163,7 +163,7 @@ Flagging is a form of *metadata pressure*.
 
 ---
 
-## 🧠 Why This Exists (Plainly)
+## 🫀 Why This Exists (Plainly)
 
 This work exists to ensure that:
 
@@ -205,10 +205,11 @@ It exists to preserve contextual evidence relevant to intent, anticipation, and 
 
 > 📡 Cross-references:
 > 
-> - [🛰️ OSINT Field Operations] (../) — distributed investigative practice  
-> - [🦆 Digital Disruption] (../../) — civic and accountability infrastructure  
-> - [🧠 Big Picture Protocols] (../../../🧠_Big_Picture_Protocols/) — structural analysis  
+> - [🌊 On Being the Manual Override](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🌊_on_being_the_manual_override.md)  
+> - [🛰️ OSINT for Anti-Palestinian Racism Detection — Using Social Media Responsibly](../🍉_Academic_Liberty/🛰️_OSINT_for_anti_palestinian_racism_detection.md)  
+> - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md)
+> - [⏳ Hinge Point: When Delay Becomes Liability](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⏳_hinge_point_when_delay_becomes_liability.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-06_
