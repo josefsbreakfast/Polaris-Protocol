@@ -121,7 +121,9 @@ This node exists to:
 - and support prevention-oriented governance and health thinking.
 
 It does not argue against surveillance.  
-It identifies the predictable consequences of **withholding context** in complex systems.
+It identifies the predictable consequences of **withholding context** in complex systems.  
+
+Furthermore, reintroducing context can decrease inappropriate demand on emergency and policing services, and redivert citizens to more appropriate channels if they have concerns.  
 
 ---
 
