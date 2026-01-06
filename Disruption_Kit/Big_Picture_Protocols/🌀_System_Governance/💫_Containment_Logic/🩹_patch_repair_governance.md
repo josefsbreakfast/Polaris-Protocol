@@ -1,5 +1,5 @@
 # 🩹 Patch Repair Governance  
-**First created:** 2025-09-25 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-25 | **Last updated:** 2026-01-06  
 *Containment systems as stitched patchwork — holes covered until pressure elsewhere forces old rot to reopen.*  
 
 ---
@@ -33,16 +33,16 @@
 
 ## 🏮 Footer  
 
-*Patch Repair Governance* is a living node of the Polaris Protocol.  
+*🩹 Patch Repair Governance* is a living node of the Polaris Protocol.  
 It records how systemic containment functions like a rotten hull stitched with patches — every pressure point forcing cracks to reopen elsewhere.  
 
 > 📡 Cross-references:
 > 
-> - [🌀 Systems & Governance](../🌀_System_Governance/README.md) — *bureaucratic logics and failure architectures*  
-> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment) — *survivor exhaustion in patch-reopen cycles*
 > - [📋 Tick-Box Compliance as Containment](./📋_tick_box_compliance_as_containment.md) - *Institutional minimalism that simulates accountability while erasing systemic responsibility*
-> - [🧟‍♀️ The Frankenstack Problem](../🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md) - *How UK counter-extremism, safeguarding, and healthcare R&D created hybrid surveillance stacks without regulation — leaving survivors as live test subjects*   
+> - [🧟‍♀️ The Frankenstack Problem](../🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md) - *How UK counter-extremism, safeguarding, and healthcare R&D created hybrid surveillance stacks without regulation — leaving survivors as live test subjects*
+> - [🧀 Child Data Swiss-Cheese Model — Systemic Risk Framework](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧀_child_data_swiss_cheese_model_systemic_risk_framework.md)
+> - [🧭 Data-Governance Swiss-Cheese Model — Case vs Role-Level Joins](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧭_data_swiss_cheese_case_vs_role_level_joins.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-01-06_
