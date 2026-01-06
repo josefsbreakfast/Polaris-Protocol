@@ -1,5 +1,5 @@
 # 🪢 Hygienic Cut  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-16 | **Last updated:** 2026-01-06  
 *Why institutions cannot act cleanly until a survivor is fully disentangled from a coercive actor, and how the “hygienic cut” becomes the precondition for safety.*  
 
 ---
@@ -24,9 +24,7 @@ The hygienic cut is the moment the survivor becomes **reachable** without endang
 
 ---
 
-## 🧿 Analysis  
-
-### 1️⃣ What Is a Hygienic Cut?  
+## ✂️ What Is a Hygienic Cut?  
 A hygienic cut is the point where:
 
 - all procedural ties  
@@ -55,7 +53,7 @@ After the cut, institutional actors can finally operate without triggering retal
 
 ---
 
-### 2️⃣ Why Institutions Freeze Before the Cut  
+## ❄️ Why Institutions Freeze Before the Cut  
 When a bad actor is:
 
 - litigious  
@@ -88,7 +86,7 @@ It is structural self-defense.
 
 ---
 
-### 3️⃣ How Coercive Actors Exploit Imperfect Procedure  
+## 👹 How Coercive Actors Exploit Imperfect Procedure  
 A coercive, litigious actor thrives on:
 
 - finding loopholes  
@@ -114,7 +112,7 @@ Thus, the cut must be clean before support can be open.
 
 ---
 
-### 4️⃣ What a Hygienic Cut Looks Like in Practice  
+## ➰ What a Hygienic Cut Looks Like in Practice  
 The cut has *NOT* happened when:
 
 - the actor still has access to shared systems  
@@ -140,7 +138,7 @@ The cut HAS happened when:
 
 ---
 
-### 5️⃣ Why Survivors Feel Unreachable Before the Cut  
+## 🕳️ Why Survivors Feel Unreachable Before the Cut  
 It is not because:
 
 - they are unbelievable  
@@ -179,12 +177,12 @@ hygienic cut, coercive actors, institutional risk, survivor access, procedural f
 
 *🪢 Hygienic Cut* is a Governance & Containment node explaining why institutions cannot safely support a survivor until the bad actor is fully severed from their procedural, data, and organisational environment.
 
-Pairs with:
-
-- **⚖️ Procedural Correctness as Safeguard**  
-- **🔍 Institutional Freeze Patterns**  
-- **🧙‍♀️ Witch Logic Diagnostic**  
+> 📡 Cross-references:
+> 
+> - [🧙‍♀️ Witch Logic Diagnostic](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md)  
+> - [⚖️ Procedural Correctness as Safeguard](./⚖️_procedural_correctness_as_safeguard.md)  
+> - [🔍 Institutional Freeze Patterns](./🔍_institutional_freeze_patterns.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-01-06_
