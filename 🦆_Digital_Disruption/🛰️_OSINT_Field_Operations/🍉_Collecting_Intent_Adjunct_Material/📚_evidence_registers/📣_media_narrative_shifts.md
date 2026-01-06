@@ -82,7 +82,7 @@ It logs framing changes without asserting motive.
 > 📡 Cross-references:
 >
 > - [🍉 Collecting Intent Adjunct Material – README](../README.md)  
-> - [🧩 Cross-Register Patterns](../🧩_synthesis/)  
+> - [🧩 Cross-Register Patterns](../🧩_synthesis_notes/🧩_cross_register_patterns.md)  
 > - [🕰️ Timing and Anticipation](../🧬_methods/🕰️_timing_and_anticipation.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
