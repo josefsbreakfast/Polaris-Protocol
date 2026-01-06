@@ -1,5 +1,5 @@
 # 📵 Platform Visibility and Interference Logs  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-05  
+**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
 *Logging observable platform-level visibility changes affecting relevant voices or material.*
 
 ---
@@ -81,9 +81,11 @@ platform moderation, visibility suppression, reach collapse, content removal, os
 It preserves visibility conditions without asserting intent.
 
 > 📡 Cross-references:
+>
+> - [🍉 Collecting Intent Adjunct Material – README](../README.md)  
 > - [🧠 Evidentiary Silence and Chilling Effects](../🧬_methods/🧠_evidentiary_silence_and_chilling.md)  
 > - [📣 Media Narrative Shifts](./📣_media_narrative_shifts.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-06_
