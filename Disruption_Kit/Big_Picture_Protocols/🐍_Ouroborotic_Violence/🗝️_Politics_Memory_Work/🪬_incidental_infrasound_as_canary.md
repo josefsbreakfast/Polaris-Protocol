@@ -1,5 +1,5 @@
 # 🪬 "Incidental" Infrasound as Canary  
-**First created:** 2025-12-08 | **Last updated:** 2025-12-08  
+**First created:** 2025-12-08 | **Last updated:** 2026-01-06  
 *How “background noise” becomes a coercive technique when burnout, tempo and impunity line up.*
 
 ---
@@ -243,9 +243,9 @@ It uses incidental low-frequency noise as a worked example of how coercive pract
 > 
 > - [☢️ The Empathy Project](../../🌀_System_Governance/💫_Containment_Logic/☢️_the_empathy_project.md) - *why we should treat our colleagues well*  
 > - [🌌 Institutional Pattern Recognition](../../🌀_System_Governance/💫_Containment_Logic/🌌_institutional_pattern_recognition.md) - *how to notice when we do not*  
-> - [🧾 Due Diligence & Operational Capacity in Policing](../../🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md) - *why we should in defence, security, and policing*  
+> - [🐼 Due Diligence & Operational Capacity in Policing](../../🌀_System_Governance/💫_Containment_Logic/🐼_due_diligence_and_operational_capacity_in_policing.md) - *why we should in defence, security, and policing*  
 > - [🌒 The No-Win Box](../../🌀_System_Governance/👑_Ownership_Control/🌒_the_no_win_box.md) - *what happens when we do not*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-01-06_
