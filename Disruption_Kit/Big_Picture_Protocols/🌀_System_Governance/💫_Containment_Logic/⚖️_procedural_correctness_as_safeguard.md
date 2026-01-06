@@ -36,7 +36,7 @@ This node explains why institutions behave strangely or “freeze” when risk i
 
 ---
 
-## 🧿 Why Procedure Becomes Sacred  
+## 👑 Why Procedure Becomes Sacred  
 A coercive or litigious actor can weaponise absolutely any irregularity.
 
 Therefore:
@@ -54,7 +54,7 @@ If the system acts informally too early, the bad actor acquires legal ammunition
 
 ---
 
-## 2️⃣ How Litigious Actors Use Irregularity  
+## 🧨 How Litigious Actors Use Irregularity  
 A single informal email, a misplaced note, or a skipped “step in the flowchart” can be used to claim:
 
 - unfair treatment  
@@ -78,7 +78,7 @@ Thus the safest pathway is:
 
 ---
 
-## 3️⃣ Why This Feels Like “Being Ignored”  
+## 🧊 Why This Feels Like “Being Ignored”  
 Survivors often interpret procedural correctness as:
 
 - abandonment  
@@ -104,7 +104,7 @@ Both perceptions are real.
 
 ---
 
-## 4️⃣ Why Institutions Avoid Informal Help  
+## 🔥 Why Institutions Avoid Informal Help  
 Support that looks ordinary in other cases becomes dangerous here.
 
 Examples:
@@ -134,7 +134,7 @@ This feels inhuman — but it protects the eventual outcome.
 
 ---
 
-## 5️⃣ The Temporary Nature of Procedural Rigidity  
+## ✂️ The Temporary Nature of Procedural Rigidity  
 Procedural rigidity is not permanent.
 
 It lasts only until:
@@ -158,7 +158,7 @@ The rigidity is a cocoon, not a judgment.
 
 ---
 
-## 6️⃣ Survivor Guidance: How to Interpret Procedural Correctness  
+## 🐦‍🔥 Survivor Guidance: How to Interpret Procedural Correctness  
 Recognise that rigidity often means:
 
 - **they believe you enough to protect the process**  
