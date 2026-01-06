@@ -112,7 +112,7 @@ It frames relevance without asserting conclusions.
 >
 > - [🍉 Collecting Intent Adjunct Material – README](../README.md)  
 > - [🧩 Cross-Register Patterns](./🧩_cross_register_patterns.md)  
-> - [⚖️ Contextual Evidence and Intent](../🧭_orientation/⚖️_contextual_evidence_and_intent.md)  
+> - [⚖️ Contextual Evidence and Intent](../🧭_orientation_and_guardrails/⚖️_contextual_evidence_and_intent.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
