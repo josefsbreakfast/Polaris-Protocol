@@ -17,16 +17,20 @@ This node argues that CAPTCHA and similar mechanisms constitute **unpaid digital
 
 ---
 
-## 🧿 Analysis  
+## 👾 Extraction Essentialism  
 Every time you complete a CAPTCHA, you do a few seconds of skilled pattern recognition — labour that, if performed on a crowd-work platform, would be paid.  
 The difference lies in framing: companies define the act as *access*, not *work*.  
-By wrapping compulsory participation in the language of “security,” they evade wage, value, and ownership claims.
+By wrapping compulsory participation in the language of “security,” they evade wage, value, and ownership claims.  
 
-### ⚖️ Economic invisibility  
+---
+
+## 💸 Economic Invisibility  
 Traditional labour metrics can’t register micro-tasks under a second long.  
 Yet multiplied by billions, they form an economy of cognitive energy.  
 
-### 💰 Towards accountability  
+---
+
+## 🧪 Towards Accountability  
 Proposals such as data-dividends, cooperative model licensing, or algorithmic wage floors could re-surface this hidden value.  
 But without collective recognition of this labour’s existence, remuneration remains conceptually impossible.
 
