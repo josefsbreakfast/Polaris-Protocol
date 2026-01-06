@@ -82,7 +82,8 @@ It documents how confusion becomes codified as risk and why reflective systems m
 > - [🧠 Smart Women Get Surveillance](./🧠_smart_women_get_surveillance.md) — *gendered misclassification*  
 > - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *diagnostic continuum*
 > - [🍃 Two-Layer Resilience Protocol](../../../Survivor_Tools/🍃_two_layer_resilience_protocol.md)  
-> - [🫀 Pathologising Sensitivity as Containment](../../../Containment_Scripts/Suppression_Modes/🫀_pathologising_sensitivity_as_containment.md)  
+> - [🫀 Pathologising Sensitivity as Containment](../../../Containment_Scripts/Suppression_Modes/🫀_pathologising_sensitivity_as_containment.md)
+> - [🧠 Misclassifying Intellectual Intimacy](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_misclassifying_intellectual_intimacy.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
