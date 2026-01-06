@@ -200,9 +200,11 @@ It examines how democratic and parliamentary processes respond to time-dependent
 
 > 📡 Cross-references:
 >
-> - [
-> - [
-> - [
+> - [🧠 Good Doctors Are Not Nazis](../../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_good_doctors_are_not_nazis.md)  
+> - [🛰️ Elbit Systems UK — Labour Linkage Map](../../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🛰️_elbit_systems_uk_labour_linkage_map.md)
+> - [⚖️ Elbit Systems UK — Legal & Control Structure](../../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_elbit_systems_uk_legal_structure.md)
+> - [🗺️ CPPCG Layers: Who Carries What](./🗺️_cppcg_layers_who_carries_what.md)  
+> - [💀 Prison Deaths Look Bad at the ICJ](../../../🌀_System_Governance/⚖️_Legal_State_Governance/💀_prison_deaths_look_bad_at_the_icj.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
