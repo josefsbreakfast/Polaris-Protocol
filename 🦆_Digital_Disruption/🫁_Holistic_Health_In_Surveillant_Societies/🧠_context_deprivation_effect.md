@@ -142,4 +142,12 @@ This node defines how absence of contextual information magnifies the health and
 
 ## Footer
 
+> 📡 Cross-references:
+> 
+> - [🧪 Failure Recycling](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧪_failure_recycling.md)  
+> - [👀 Failure Cycle vs Reported Improvements](../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/👀_failure_cycle_vs_reported_improvements.md)
+> - [🌀 Answering Uncertainty in AI Environments](../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🌀_answering_uncertainty_in_ai_environments.md)
+> - [📲 Dopamine Grooming and Self-Regulation](../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/📲_dopamine_grooming_and_self_regulation.md)
+> - [💞 Ethics of Nudging vs Desire](../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/💞_ethics_of_nudging_vs_desire.md)  
+
 _Last updated: 2026-01-06_
