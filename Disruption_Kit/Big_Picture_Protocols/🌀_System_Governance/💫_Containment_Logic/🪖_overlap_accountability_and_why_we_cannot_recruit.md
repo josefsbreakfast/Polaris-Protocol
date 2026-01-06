@@ -1,10 +1,10 @@
 # 🪖 Overlap Accountability and Why We Cannot Recruit  
-**First created:** 2025-10-07  |  **Last updated:** 2025-10-18  
+**First created:** 2025-10-07 | **Last updated:** 2026-01-06  
 *On structural accountability failures when UK and Israeli security systems interoperate.*  
 
 ---
 
-## 🛰️ Why This Node Exists (Executive Summary)
+## 🛰️ Why This Node Exists  
 
 When UK and Israeli security ecosystems interoperate — through training exchanges, shared facilities, joint exercises, vendor pipelines, or intelligence sharing — **accountability becomes obscured**. In the “black box works until it doesn’t” pattern, responsibility can be deferred across borders and bureaucracies, letting harm compound. This node maps the overlap and sets **due-diligence dials** for policy, procurement, oversight, and public accountability.
 
@@ -12,7 +12,7 @@ When UK and Israeli security ecosystems interoperate — through training exchan
 
 ---
 
-## 💫 What We Are Talking About (Scope)
+## 💫 What We Are Talking About  
 
 * **Institutions (UK):** MoD, Home Office, FCDO, MI5/MI6/GCHQ, College of Policing, NCA, Border Force, CTSAs, police forces, DSTL, export control units.
 * **Institutions (Israel):** IDF, ISA/Shin Bet, Mossad, Police Israel, COGAT (civilian administration in occupied territory), Defence Ministry procurement.
@@ -26,7 +26,7 @@ When UK and Israeli security ecosystems interoperate — through training exchan
 
 ---
 
-## 👾 The Black‑Box Problem (Patterns We See)
+## 👾 The Black‑Box Problem  
 
 1. **Interchangeable language**: “liaison”, “capacity building”, “best practice” → hides **direction of influence** and **end‑use control**.
 2. **Distributed authorisation**: each side says “they cleared it”; no one signs for **downstream harms**.
@@ -36,7 +36,7 @@ When UK and Israeli security ecosystems interoperate — through training exchan
 
 ---
 
-## 🦁 Legal–Ethical Anchors We Must Hold (Now Verified)
+## 🦁 Legal–Ethical Anchors We Must Hold  
 
 ### ⚖️ The Lawful Operator Paradox
 
@@ -203,7 +203,7 @@ It examines cross-border defence entanglements, export control ethics, and narra
 
 ## 🏮 Footer  
 
-*Overlap Accountability and Why We Cannot Recruit* is a living accountability scaffold within the Polaris Protocol.  
+*🪖 Overlap Accountability and Why We Cannot Recruit* is a living accountability scaffold within the Polaris Protocol.  
 It maps how British–Israeli security cooperation obscures accountability and provides due-diligence rules for lawful, transparent governance.  
 
 > 📡 Cross-references:
@@ -212,9 +212,11 @@ It maps how British–Israeli security cooperation obscures accountability and p
 > - [🛰️ Microsoft Partial Cut — Israel Surveillance](../🛰️_Infrastructure_Procurement/🛰️_microsoft_partial_cut_israel_surveillance.md) — *partial corporate disengagement and oversight gaps*  
 > - [🧃 COGAT is a Containment Operation](../../🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.mdd) — *civilian administration as population-control infrastructure*  
 > - [🚀 Arms Transparency](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🚀_arms_transparency.md) — *procurement and export transparency failures*  
-> - [🧿 UK Persuasion Engine on Palestine](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧿_uk_persuasion_engine_on_palestine.md) — *narrative shaping within UK political and media ecosystems*  
+> - [🧿 UK Persuasion Engine on Palestine](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧿_uk_persuasion_engine_on_palestine.md) — *narrative shaping within UK political and media ecosystems*
+> - [🍉 Why Peacetime vs Wartime Matters For Democracy](../⚖️_Legal_State_Governance/🍉_why_peacetime_vs_wartime_matters_for_democracy.md)  
+> - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)](../⚖️_Legal_State_Governance/🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-01-06_
 
