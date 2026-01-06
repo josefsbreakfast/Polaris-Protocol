@@ -1,5 +1,5 @@
 # 📉 Complaint and Regulatory Pressure Register  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-05  
+**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
 *Aggregated logging of complaint, disciplinary, or regulatory pressure affecting role-defined cohorts.*
 
 ---
@@ -86,9 +86,11 @@ complaints, regulatory pressure, disciplinary actions, baseline deviation, profe
 It logs pressure indicators without asserting wrongdoing.
 
 > 📡 Cross-references:
+>
+> - [🍉 Collecting Intent Adjunct Material – README](../README.md)  
 > - [📊 Baseline vs Anomaly Logic](../🧬_methods/📊_baseline_vs_anomaly_logic.md)  
 > - [🧠 Evidentiary Silence and Chilling Effects](../🧬_methods/🧠_evidentiary_silence_and_chilling.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-06_
