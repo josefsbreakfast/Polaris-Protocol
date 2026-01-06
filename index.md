@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-06 03:59:23 UTC_
+_Generated on 2026-01-06 05:11:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4703,6 +4703,8 @@ _Generated on 2026-01-06 03:59:23 UTC_
     - [`🪢_re_embodied_dialogue_and_civic_presence.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🪢_re_embodied_dialogue_and_civic_presence.md)
     - [`🪴_care_ecologies_field_manual.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🪴_care_ecologies_field_manual.md)
     - [`🪶_quiet_resistance_primer.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🪶_quiet_resistance_primer.md)
+  - [**🫁_Holistic_Health_In_Surveillant_Societies/**](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/)
+    - [`README.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/README.md)
   - [`README.md`](🦆_Digital_Disruption/README.md)
 - [**🩻_Weirdness_Screening/**](🩻_Weirdness_Screening/)
   - [**🌐_Connection_Hiccups/**](🩻_Weirdness_Screening/🌐_Connection_Hiccups/)
