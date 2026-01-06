@@ -1,5 +1,5 @@
 # 🧠 Voice Clones, AI & the Threat to Policing  
-**First created:** 2025-10-11 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-11 | **Last updated:** 2026-01-06  
 *How synthetic audio undermines evidential integrity, command confidence, and public trust.*
 
 ---
@@ -87,10 +87,10 @@ It documents how synthetic audio technologies compromise operational trust, evid
 
 > 📡 Cross-references:
 > 
-> - [🧾 Due Diligence & Operational Capacity in Policing](../../../🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md) — *capacity and oversight context*  
+> - [🐼 Due Diligence & Operational Capacity in Policing](../../../🌀_System_Governance/💫_Containment_Logic/🐼_due_diligence_and_operational_capacity_in_policing.md) — *capacity and oversight context*  
 > - [🔮 Visibility Indexing Anomalies](../../../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/README.md) — *related informational distortions*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-01-06_
