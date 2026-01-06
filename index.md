@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-06 02:09:41 UTC_
+_Generated on 2026-01-06 02:38:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -934,6 +934,7 @@ _Generated on 2026-01-06 02:09:41 UTC_
           - [`🗺️_cppcg_layers_who_carries_what.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🗺️_cppcg_layers_who_carries_what.md)
           - [`🧬_why_it_is_easier_not_to_see_or_hear_or_speak.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🧬_why_it_is_easier_not_to_see_or_hear_or_speak.md)
           - [`🩸_when_words_start_failing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🩸_when_words_start_failing.md)
+          - [`🫀_a_question_of_questions.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🫀_a_question_of_questions.md)
         - [**👾_Debugging_The_Men/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
           - [**🧬_Further_Potential_Male_Nonsense/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/)
             - [**Quick_Easy_Guides_Plain_Text/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/Quick_Easy_Guides_Plain_Text/)
