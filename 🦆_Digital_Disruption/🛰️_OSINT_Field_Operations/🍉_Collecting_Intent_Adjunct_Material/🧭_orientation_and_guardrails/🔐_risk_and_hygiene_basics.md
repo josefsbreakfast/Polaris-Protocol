@@ -1,5 +1,5 @@
 # 🔐 Risk and Hygiene Basics  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-05  
+**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
 *Practical restraint and safety principles for decentralised OSINT contribution.*
 
 ---
@@ -136,10 +136,12 @@ risk hygiene, osint safety, decentralised contribution, restraint, professional 
 It exists to protect contributors, preserve focus, and reduce unnecessary exposure.
 
 > 📡 Cross-references:
-> - [🧭 What This Is — and What It Is Not](./🧭_what_this_is_and_is_not.md) — scope boundaries  
-> - [⚖️ Contextual Evidence and Intent](./⚖️_contextual_evidence_and_intent.md) — legal relevance  
-> - [📚 Registers](../📚_registers/) — where material is logged  
+>
+> - [🍉 Collecting Intent Adjunct Material – README](../README.md)  
+> - [🧭 What This Is — and What It Is Not](./🧭_what_this_is_and_is_not.md) — *scope boundaries*  
+> - [⚖️ Contextual Evidence and Intent](./⚖️_contextual_evidence_and_intent.md) — *legal relevance*  
+> - [📚 Registers](../📚_registers/) — *where material is logged*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-06_
