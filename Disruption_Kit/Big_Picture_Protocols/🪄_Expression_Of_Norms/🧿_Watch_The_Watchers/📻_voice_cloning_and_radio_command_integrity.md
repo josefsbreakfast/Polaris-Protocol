@@ -1,5 +1,5 @@
 # 📻 Voice Cloning & Radio Command Integrity  
-**First created:** 2025-10-11  |  **Last updated:** 2025-10-19  
+**First created:** 2025-10-11 | **Last updated:** 2026-01-06  
 *When a cloned voice can hijack a net faster than anyone can verify source.*  
 
 ---
@@ -114,9 +114,9 @@ It documents how AI audio manipulation threatens the operational core of radio-b
 > 📡 Cross-references:
 > 
 > - [🧠 Voice Clones, AI & the Threat to Policing](../../🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧠_voice_clones_ai_and_the_threat_to_policing.md) — *broad context*  
-> - [🧾 Due Diligence & Operational Capacity in Policing](../../🌀_System_Governance/💫_Containment_Logic/🧾_due_diligence_and_operational_capacity_in_policing.md) — *oversight constraints*  
+> - [🐼 Due Diligence & Operational Capacity in Policing](../../🌀_System_Governance/💫_Containment_Logic/🐼_due_diligence_and_operational_capacity_in_policing.md) — *oversight constraints*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2025-01-06_
