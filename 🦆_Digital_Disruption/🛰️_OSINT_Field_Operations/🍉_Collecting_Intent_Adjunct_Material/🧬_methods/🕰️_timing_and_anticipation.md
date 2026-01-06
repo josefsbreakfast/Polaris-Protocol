@@ -1,5 +1,5 @@
 # 🕰️ Timing and Anticipation  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-05  
+**First created:** 2026-01-05 | **Last updated:** 2026-01-06    
 *Why temporal alignment transforms context into evidence.*
 
 ---
@@ -64,9 +64,11 @@ timing, anticipation, temporal analysis, foresight, escalation patterns
 It explains why sequence and timing matter for contextual inference.
 
 > 📡 Cross-references:
+>
+> - [🍉 Collecting Intent Adjunct Material – README](../README.md)  
 > - [🧬 Pattern and Deviation Analysis](./🧬_pattern_and_deviation_analysis.md)  
-> - [⚖️ Contextual Evidence and Intent](../🧭_orientation/⚖️_contextual_evidence_and_intent.md)  
+> - [⚖️ Contextual Evidence and Intent](../🧭_orientation_and_guardrails/⚖️_contextual_evidence_and_intent.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-06_
