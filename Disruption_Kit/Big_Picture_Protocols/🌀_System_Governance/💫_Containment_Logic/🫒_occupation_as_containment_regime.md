@@ -1,5 +1,5 @@
 # 🫒 Occupation as Containment Regime  
-**First created:** 2025-11-04 | **Last updated:** 2026-01-04  
+**First created:** 2025-11-04 | **Last updated:** 2026-01-06  
 *When the performance of conflict becomes the structure of control.*  
 
 ---
@@ -123,4 +123,4 @@ It situates “occupation” as a systemic method of control sustained through r
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-01-06_
