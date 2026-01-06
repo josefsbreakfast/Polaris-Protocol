@@ -243,9 +243,11 @@ gi robot, antifascist satire, fascism naming, audio collage lineage, talk radio,
 It documents how culture preserves moral orientation when institutions, platforms, and infrastructure fail to do so.
 
 > 📡 Cross-references:
-> - 🛰️ Metadata Sabotage Network — suppression, takedowns, memory loss  
-> - 🎭 Narrative & Psych Ops — tone policing, false equivalence, inversion  
-> - 🧠 Big Picture Protocols — fascism, failure, and historical inheritance  
+> 
+> - [❤️‍🩹 Rehabilitated Tech](../../../../🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/README.md)  
+> - [📿 Golem of Prague](../../../../👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/📿_golem_of_prague.md)  
+> - [🇬🇧 CVE Voice Containment: Calming Voice Prototype](../../../Containment_Scripts/Suppression_Modes/🇬🇧_cve_voice_containment_calming_voice_prototype.md)  
+> - [🔗 Link Disintegration](../../../../Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🔗_link_disintegration.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
