@@ -1,5 +1,5 @@
 # ⚖️ The Refusal Body as Unmanageable Risk  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-17  
+**First created:** 2025-12-12 | **Last updated:** 2026-01-06  
 *Why institutions cannot model bodies that refuse cooperation — and how hunger strikes expose the limits of risk governance.*
 
 ---
@@ -173,11 +173,11 @@ It explores how refusal destabilises the predictive architectures of governance 
 > 📡 Cross-references:
 > 
 > - [🩸 Bodily Risk as Political Speech](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_bodily_risk_as_political_speech.md) - *embodied political and moral refusal*  
-> - [🧨 Exceptional Sovereignty in Pretrial Detention](./🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md) - *the particular danger zone of non-standard detentions, medical crises, and emergency powers; case example as Palestine Action hunger strikers currently on remand and in critical condition*  
+> - [🧨 Exceptional Sovereignty in Pretrial Detention](../../🌀_System_Governance/⚖️_Legal_State_Governance/🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md) - *the particular danger zone of non-standard detentions, medical crises, and emergency powers; case example as Palestine Action hunger strikers currently on remand and in critical condition*  
 > - [📡 The Governance of Bodies That Refuse](../../🌀_System_Governance/⚖️_Legal_State_Governance/📡_the_governance_of_bodies_that_refuse.md) - *how states react to refusal as a tool of sovereignty*  
 > - [🔥 When Refusal Is Framed as Threat](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md) - *how hunger strikes function as reclaiming power over the body at great cost*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2026-01-06_
