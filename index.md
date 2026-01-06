@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-05 17:24:58 UTC_
+_Generated on 2026-01-06 02:01:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3538,6 +3538,7 @@ _Generated on 2026-01-05 17:24:58 UTC_
       - [`🗺️_the_emotional_cartography_of_radicalisation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🗺️_the_emotional_cartography_of_radicalisation.md)
       - [`😴_cognitive_load_as_infrastructure.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md)
       - [`😴_exhaustion_as_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_exhaustion_as_containment.md)
+      - [`🚀_your_emotions_are_being_weaponised_against_your_values.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚀_your_emotions_are_being_weaponised_against_your_values.md)
       - [`🚪_isolation_scripting.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🚪_isolation_scripting.md)
       - [`🥀_loneliness_as_a_system.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥀_loneliness_as_a_system.md)
       - [`🥕_tiny_wins_exhaustion_containment.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥕_tiny_wins_exhaustion_containment.md)
