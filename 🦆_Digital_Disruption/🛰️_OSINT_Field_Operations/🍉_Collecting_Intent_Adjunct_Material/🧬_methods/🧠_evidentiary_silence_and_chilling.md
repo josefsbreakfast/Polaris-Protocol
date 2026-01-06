@@ -1,5 +1,5 @@
 # 🧠 Evidentiary Silence and Chilling Effects  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-05  
+**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
 *How absence, withdrawal, and silence can become evidentiary context.*
 
 ---
@@ -81,9 +81,11 @@ evidentiary silence, chilling effects, withdrawal, expert suppression, contextua
 It explains how absence can be contextual without implying blame.
 
 > 📡 Cross-references:
+>
+> - [🍉 Collecting Intent Adjunct Material – README](../README.md)  
 > - [📊 Baseline vs Anomaly Logic](./📊_baseline_vs_anomaly_logic.md)  
-> - [📚 Registers](../📚_registers/) — where silence is logged  
+> - [📚 Registers](../📚_registers/) — *where silence is logged*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-06_
