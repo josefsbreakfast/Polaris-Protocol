@@ -1,5 +1,5 @@
 # 🧬 Pattern and Deviation Analysis  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-05  
+**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
 *How patterned effects and abnormal deviations are identified without overclaiming.*
 
 ---
@@ -101,10 +101,11 @@ pattern analysis, deviation, abnormal clustering, comparative method, osint stan
 It defines how patterns are identified without asserting conclusions.
 
 > 📡 Cross-references:  
-
+>
+> - [🍉 Collecting Intent Adjunct Material – README](../README.md)  
 > - [📊 Baseline vs Anomaly Logic](./📊_baseline_vs_anomaly_logic.md)  
 > - [🕰️ Timing and Anticipation](./🕰️_timing_and_anticipation.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-06_
