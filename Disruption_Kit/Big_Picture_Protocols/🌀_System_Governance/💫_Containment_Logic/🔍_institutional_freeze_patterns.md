@@ -29,7 +29,7 @@ This node maps the underlying drivers, symptoms, and impacts of institutional fr
 
 ---
 
-## 🧿 What Is Institutional Freeze?  
+## ❄️ What Is Institutional Freeze?  
 Institutional freeze occurs when:
 
 - risk is high  
@@ -48,7 +48,7 @@ Freeze mimics apathy, but it is actually **risk triage**.
 
 ---
 
-## 2️⃣ Why Freeze Happens  
+## ⚡️ Why Freeze Happens  
 Freeze happens when staff believe:
 
 - “If I act, I might get it wrong.”  
@@ -69,7 +69,7 @@ All three things can be true.
 
 ---
 
-## 3️⃣ How Freeze Manifests  
+## 🧊 How Freeze Manifests  
 Common signs:
 
 - escalating formality  
@@ -90,7 +90,7 @@ These behaviours are diagnostic of structural fear, not personal judgment.
 
 ---
 
-## 4️⃣ The Role of the Coercive Actor  
+## 🌋 The Role of the Coercive Actor  
 Freeze is strongest when the bad actor is:
 
 - litigious  
@@ -115,7 +115,7 @@ Thus:
 
 ---
 
-## 5️⃣ Survivor Experience of Freeze  
+## 🧨 Survivor Experience of Freeze  
 Survivors describe freeze as:
 
 - “Everyone pulled away from me.”  
@@ -136,7 +136,7 @@ The gap between survivor perspective and institutional perspective is wide, pain
 
 ---
 
-## 6️⃣ What Resolves Freeze  
+## ✂️ What Resolves Freeze  
 Freeze typically ends when:
 
 - the hygienic cut occurs  
@@ -162,7 +162,7 @@ It is **a pre‑safety phase**.
 
 ---
 
-## 7️⃣ Diagnostic Questions for Survivors  
+## 🐦‍🔥 Diagnostic Questions for Survivors  
 To recognise freeze:
 
 - Are staff unusually formal or hesitant?  
