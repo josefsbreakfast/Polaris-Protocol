@@ -1,5 +1,5 @@
 # 📣 Media Narrative Shifts  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-05  
+**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
 *Logging changes in framing, emphasis, or narrative treatment across media environments.*
 
 ---
@@ -80,9 +80,11 @@ media framing, narrative shift, public discourse, information environment
 It logs framing changes without asserting motive.
 
 > 📡 Cross-references:
+>
+> - [🍉 Collecting Intent Adjunct Material – README](../README.md)  
 > - [🧩 Cross-Register Patterns](../🧩_synthesis/)  
 > - [🕰️ Timing and Anticipation](../🧬_methods/🕰️_timing_and_anticipation.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-06_
