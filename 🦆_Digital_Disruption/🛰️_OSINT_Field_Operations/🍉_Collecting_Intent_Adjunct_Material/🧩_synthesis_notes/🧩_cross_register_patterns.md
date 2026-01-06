@@ -108,8 +108,8 @@ It records emergent relationships without asserting conclusions.
 > 📡 Cross-references:
 >
 > - [🍉 Collecting Intent Adjunct Material – README](../README.md)  
-> - [📚 Evidence Registers](../📚_evidence_registers/) — source material  
-> - [🧬 Methods](../🧬_methods/) — analytical standards  
+> - [📚 Evidence Registers](../📚_evidence_registers/) — *source material*  
+> - [🧬 Methods](../🧬_methods/) — *analytical standards*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
