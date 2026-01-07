@@ -1,5 +1,5 @@
 # 💸 Let’s Make the Money Talk  
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-21 | **Last updated:** 2026-01-07  
 *OSINT field operations for making reputational laundering, compliance failure, and impunity expensive — lawfully, structurally, and survivor-aligned.*  
 
 ---
@@ -151,7 +151,13 @@ Survivors deserve more than endurance.
 And accountability should not depend on heroism.
 
 This work proceeds slowly, carefully, and together —  
-so that justice, where it has been delayed, is no longer optional.
+so that justice, where it has been delayed, is no longer optional.  
+
+---
+
+## 🎶 To The Tune Of...  
+
+[💸 Let’s Make the Money Talk](https://open.spotify.com/playlist/2S6EwFogqlPLsk80NQW1Uh?si=XNi1J3kpSkewlEJyu-562g&pt=56e0ef9180ea3c5eaf241f95bfac5c08&pi=QYr4blsLQVmAl)  
 
 ---
 
@@ -162,9 +168,9 @@ It exists to translate public disclosures into lawful public audit pressure — 
 
 > 📡 Cross-references:
 > 
-> - [✈️ The Politics of Redaction] — disclosure as power and labour allocation  
-> - [🐦‍🔥 Survivors of the Files Deserve Better] — survivor-centred accountability baseline  
+> - [✈️ The Politics of Redaction](../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_the_politics_of_redaction.md) — *disclosure as power and labour allocation*  
+> - [🐦‍🔥 Survivors of the Files Deserve Better](../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🐦‍🔥_survivors_of_the_files_deserve_better.md) — *survivor-centred accountability baseline*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-01-07_
