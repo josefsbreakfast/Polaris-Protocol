@@ -275,11 +275,8 @@ The node treats scrutiny as a civic skill rather than an adversarial act, and hu
 
 > 📡 Cross-references:
 > 
-> - [🔮 Dual DPIA the Deals] (./03_dual_dpia_the_deals.md) — *parallel scrutiny as process, not confrontation*  
-> - [🧾 Risk Events & Near Misses Explained] (./06_risk_events_near_misses_explained.md) — *why “no breaches” is not the same as “no problems”*  
-> - [🫖 When Systems Get Weird] (./08_when_systems_get_weird.md) — *friction, odd responses, and staying regulated*  
-> - [⚖️ When Compliance Is the Answer] (./07_when_compliance_is_the_answer.md) — *recognising containment and standing down*  
-> - [🌀 Loop Mapping Station](../../🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md)  
+> - [🌀 Loop Mapping Station](../../🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md) — *avoiding recursive loops from poor programming*  
+> - [🫀 Genocide by Containment](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🫀_genocide_by_containment.md) — *how the maths can escalate with no specific intentions if you don't adjust it correctly; why you need wise engineering*  
 
 *Clarity over panic. Process over myth. Steadiness over spectacle.*
 
