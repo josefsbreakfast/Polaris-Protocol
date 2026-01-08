@@ -140,7 +140,8 @@ It documents how reputational instability is deliberately sustained through cont
 
 > 📡 Cross-references:
 > 
-> - [㊙ Containment Contracts](./) — contractual mechanisms of silence and control  
+> - [㊙ Containment Contracts](./) — *contractual mechanisms of silence and control*  
+> - [🏷️ Vendor Ghost Loops — How Recurring Contractors Keep Containment Alive](🏷️_vendor_ghost_loops_how_recurring_contractors_keep_containment_alive.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
