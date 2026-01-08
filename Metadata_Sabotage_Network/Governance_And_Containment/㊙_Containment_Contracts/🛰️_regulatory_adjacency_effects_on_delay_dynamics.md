@@ -1,4 +1,4 @@
-# 🛰️ Regulatory adjacency effects on decision timelines  
+# 🛰️ Regulatory Adjacency Effects On dDecision Timelines  
 **First created:** 2025-12-14 | **Last updated:** 2026-01-08  
 *How oversight in adjacent bodies reshapes risk calculations everywhere.*  
 
