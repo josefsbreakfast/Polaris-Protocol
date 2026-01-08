@@ -33,6 +33,8 @@
 ├── 09_stop_points_and_self_care.md  
 │   # When to pause, hand off, or close the folder  
 │  
+├── 10_what_do_we_do_if_its_a_charlie_foxtrot.md  
+│  
 ├── templates/  
 │   ├── foi_controller_dpia_request.md  
 │   ├── sar_inferred_data_request.md  
