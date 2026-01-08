@@ -1,5 +1,5 @@
 # 🕳️ Whistlebridge Correlation Notes  
-**First created:** 2025-10-19 | **Last updated:** 2025-12-12  
+**First created:** 2025-10-19 | **Last updated:** 2026-01-08  
 *Between signal and seal, the bridge where suppression folds into contract.*  
 
 ---
@@ -84,10 +84,10 @@ Where they meet, the truth refracts: visible long enough to vanish legally.
 
 > 📡 Cross‑references:
 > 
-> - [🔥 Suppression as Signal] — epistemic erasure as evidence.  
-> - [⚖️ Containment Contract Trace] — the legal choreography of silence.  
-> - [🩸 Soul as Product Lineage] — extraction of essence as evidence economy.  
+> - [🔥 Suppression as Signal](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *epistemic erasure as evidence*  
+> - [⚖️ Containment Contract Trace](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *the legal choreography of silence*  
+> - [*Pending:* 🩸 Soul as Product Lineage]() — *extraction of essence as evidence economy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-01-08_
