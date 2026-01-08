@@ -58,10 +58,16 @@ tired drafts, friction spikes, escalation-by-accident, pause as strategy
 
 ## 🏮 Footer  
 
-*Language to Avoid When Tired* is a protective note within **🔮 Polishing Big Balls**.  
+*🏵 Language to Avoid When Tired* is a protective note within **🔮 Polishing Big Balls**.  
 It exists to prevent exhaustion from doing the system’s work for it.
 
 If you’re tired, that’s information.  
-It’s also a good moment to stop.
+It’s also a good moment to stop.  
+
+> 📡 Cross-references:
+> 
+> - [📿 Stop Points & Self-Care](../📿_stop_points_and_self_care.md) — *recognising when tone is a fatigue signal*
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-01-08_
