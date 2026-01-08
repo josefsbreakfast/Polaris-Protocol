@@ -1,5 +1,5 @@
 # 🦠 Systemic Porosity — When Legal Flexibility Becomes National-Security Debt  
-**First created:** 2025-10-13 | **Last updated:** 2025-12-27  
+**First created:** 2025-10-13 | **Last updated:** 2026-01-08  
 *A structural-risk sketch showing how loosely coupled UK oversight regimes create exploitable seams.*  
 
 ---
@@ -73,4 +73,4 @@ It is a theoretical systems-diagnostic intended to support oversight reform.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-27_
+_Last updated: 2026-01-08_
