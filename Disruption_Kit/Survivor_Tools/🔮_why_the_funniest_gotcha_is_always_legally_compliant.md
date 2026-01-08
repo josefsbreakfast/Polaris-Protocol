@@ -169,9 +169,10 @@ legal compliance, institutional accountability, paper trails, gotcha culture, in
 It contributes a structural insight into why lawful process, patience, and documentation consistently outperform confrontation in exposing brittle authority.
 
 > 📡 Cross-references:
-> - [🔮 Paper Trails for Paper Tigers](./🔮_paper_trails_for_paper_tigers.md) — documentation as pressure  
-> - [🔮 How Predictive Behaviour Insight Models Get Easily Confused](./🔮_how_predictive_behaviour_insight_models_get_easily_confused.md) — epistemic failure modes  
-> - [🧠 Big Picture Protocols] (../Disruption_Kit/Big_Picture_Protocols/) — systems and power analysis  
+> 
+> - [🔮 Dual DPIA the Deals](./🔮_dual_dpia_the_deals.md)  
+> - [🔮 How Predictive Behaviour Insight Models Get Easily Confused](./🔮_how_predictive_behaviour_insight_models_get_easily_confused.md)  
+> - [🔮 Why the Funniest Gotcha Is Always Legally Compliant](Disruption_Kit/Survivor_Tools/🔮_why_the_funniest_gotcha_is_always_legally_compliant.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
