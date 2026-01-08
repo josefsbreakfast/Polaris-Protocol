@@ -1,5 +1,5 @@
 # 🕳️ When the Censor Is a Contractor  
-**First created:** 2025-11-05 | **Last updated:** 2026-01-04  
+**First created:** 2025-11-05 | **Last updated:** 2026-01-08  
 *How hack-for-hire shops and reputation-management lawfare become the outsourced arm of state suppression.*  
 
 ---
@@ -132,8 +132,10 @@ It documents how private cyber-contractors and reputation-management firms exten
 > 
 > - [🧭 When to Enter the Grey Zone](./🧭_when_to_enter_the_grey_zone.md) — *operational thresholds*  
 > - [🫥 When You Don’t Want to Be Seen Touching It](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫥_when_you_dont_want_to_be_seen_touching_it.md)  
-> - [📚 The Banned Book Paradox](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📚_banned_book_paradox.md)  
+> - [📚 The Banned Book Paradox](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📚_banned_book_paradox.md)
+> - [🧬 Dark Basin — Hack-for-Hire and Civic Surveillance](./🧬_dark_basin_hack_for_hire_and_civic_surveillance.md)
+> - [➰ Ghost Loop Interrupters](../../../Disruption_Kit/💣_Syntax_Bombs/➰_ghost_loop_interrupters.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-01-08_
