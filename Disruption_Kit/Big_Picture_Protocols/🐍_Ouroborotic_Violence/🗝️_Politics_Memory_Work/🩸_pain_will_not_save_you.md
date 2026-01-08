@@ -109,7 +109,162 @@ This binary:
 - framed violence as moral hygiene  
 
 The laundries were not a response to sin.  
-They were a **sorting mechanism**.
+They were a **sorting mechanism**.  
+
+---
+
+## 🌕 Marian Care and the Moral Contradiction  
+
+The veneration of Mary exposes a core incoherence in pain-as-absolution logic.
+
+Marian imagery consistently depicts:
+- enveloping light  
+- maternal presence  
+- protection without precondition  
+- care at moments of vulnerability  
+
+The prayer *“pray for us, now and at the hour of our death”* invokes **continuous feminine care** — not earned, not conditional, not disciplinary.
+
+It asks for intercession:
+- in ordinary life  
+- in failure  
+- in fear  
+- at the moment of greatest dependence  
+
+There is no instruction to suffer in order to deserve this care.
+
+---
+
+### 🪞 The Impossible Demand  
+
+Women were told simultaneously to:
+- **emulate Mary** — selfless, nurturing, forgiving, ever-present  
+- **enforce cruelty** — discipline, punish, withhold care, deny mercy  
+
+This demand is internally contradictory.
+
+One cannot embody unconditional maternal care while administering suffering as moral correction.
+
+The system resolved this contradiction by:
+- elevating Mary beyond imitation  
+- turning her into an untouchable icon  
+- stripping her of practical ethical force  
+
+Mary’s care became symbolic.  
+Women’s care was suppressed.
+
+---
+
+### 🧨 Weaponised Veneration  
+
+Marian devotion did not produce institutional mercy.  
+It provided **aesthetic cover** for cruelty.
+
+By praising feminine compassion in the abstract while punishing it in practice, institutions:
+- hollowed out care  
+- reframed cruelty as obedience  
+- and blamed women for failing an impossible standard  
+
+This was not theological continuity.  
+It was **moral inversion**.
+
+---
+
+### 🔥 What This Reveals  
+
+If Marian care is taken seriously, then:
+- pain is not redemptive  
+- humiliation is not corrective  
+- cruelty cannot be framed as love  
+
+The fact that institutions invoked Mary while violating everything she symbolised exposes pain-as-absolution as **a power technology, not a moral truth**.
+
+Mary was never the model.
+
+She was the alibi.  
+
+---
+
+## 🌿 Mary, Mother of Anti-Carcerality — Against Imperium  
+
+Read plainly, Marian care is incompatible with empire.
+
+The figure of Mary — as invoked through prayer, iconography, and popular devotion — represents:
+- presence without surveillance  
+- care without punishment  
+- protection without domination  
+- accompaniment without coercion  
+
+“Pray for us, now and at the hour of our death” is an appeal for **non-conditional care across all states of vulnerability** — not moral sorting, not correction through pain.
+
+That ethic is fundamentally **anti-carceral**.
+
+---
+
+### 🧱 Empire Cannot Use Her Honestly  
+
+Empire requires:
+- confinement  
+- discipline  
+- punishment framed as necessity  
+- suffering reframed as virtue  
+
+Mary offers none of this.
+
+To make empire function, her meaning had to be:
+- aestheticised  
+- abstracted  
+- elevated beyond imitation  
+
+She could be venerated, but not followed.
+
+Her image became a halo behind walls she would never have sanctioned.
+
+---
+
+### 🔓 Anti-Carcerality as Maternal Ethics  
+
+If Marian care is taken seriously, then:
+- prisons disguised as “institutions” collapse morally  
+- forced labour cannot be reframed as penance  
+- reproductive violence cannot be justified  
+- cruelty cannot masquerade as love  
+
+Maternal ethics interrupt imperial logic because they refuse the transaction:
+> *suffer now to be worthy later*
+
+Mary does not bargain with pain.
+
+---
+
+### 🔥 Against Imperium  
+
+In this reading, Mary stands not as an enforcer of order, but as its refusal.
+
+Against:
+- empire  
+- carcerality  
+- moral punishment  
+- pain-as-absolution  
+
+She represents a care logic empire cannot metabolise — only mimic.
+
+Which is why her image was preserved, while her ethic was buried.
+
+---
+
+### 🕊️ Reclamation  
+
+To reclaim Mary from imperial distortion is not to become more religious.
+
+It is to insist that:
+- care is not control  
+- suffering is not salvific  
+- and cruelty is not virtue  
+
+In that sense, *Mary, Mother of Anti-Carcerality*, is not symbolic.
+
+She is a line in the sand.
 
 ---
 
