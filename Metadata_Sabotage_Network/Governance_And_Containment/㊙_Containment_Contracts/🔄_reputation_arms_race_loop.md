@@ -1,5 +1,5 @@
 # 🔄 Reputation Arms-Race Loop  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-21  
+**First created:** 2025-11-12 | **Last updated:** 2026-01-08  
 
 ---
 
@@ -23,4 +23,4 @@ Describes the mutually reinforcing market between visibility brokers and erasure
 ## 🏮 Footer  
 *Stub — expand as needed within Polaris archive.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-01-08_
