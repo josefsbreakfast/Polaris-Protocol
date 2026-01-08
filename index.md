@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-08 14:10:35 UTC_
+_Generated on 2026-01-08 14:13:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -35,6 +35,7 @@ _Generated on 2026-01-08 14:10:35 UTC_
     - [`🧩_meta_containment_and_exploited_breakpoints.md`](Containment_Studies/🪐_Meta_Containment/🧩_meta_containment_and_exploited_breakpoints.md)
     - [`🧬_signal_steering.md`](Containment_Studies/🪐_Meta_Containment/🧬_signal_steering.md)
     - [`🧿_against_pseudoanthropy.md`](Containment_Studies/🪐_Meta_Containment/🧿_against_pseudoanthropy.md)
+    - [`🫒_the_occupied_mind.md`](Containment_Studies/🪐_Meta_Containment/🫒_the_occupied_mind.md)
   - [`README.md`](Containment_Studies/README.md)
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
