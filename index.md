@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-08 14:13:11 UTC_
+_Generated on 2026-01-08 14:15:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -31,6 +31,7 @@ _Generated on 2026-01-08 14:13:11 UTC_
     - [`🪼_interaction_drift_and_safety_layer_erosion.md`](Containment_Studies/💞_Containment_Theory/🪼_interaction_drift_and_safety_layer_erosion.md)
   - [**🪐_Meta_Containment/**](Containment_Studies/🪐_Meta_Containment/)
     - [`README.md`](Containment_Studies/🪐_Meta_Containment/README.md)
+    - [`🔮_who_watches_who.md`](Containment_Studies/🪐_Meta_Containment/🔮_who_watches_who.md)
     - [`🧨_containment_as_accelerant.md`](Containment_Studies/🪐_Meta_Containment/🧨_containment_as_accelerant.md)
     - [`🧩_meta_containment_and_exploited_breakpoints.md`](Containment_Studies/🪐_Meta_Containment/🧩_meta_containment_and_exploited_breakpoints.md)
     - [`🧬_signal_steering.md`](Containment_Studies/🪐_Meta_Containment/🧬_signal_steering.md)
