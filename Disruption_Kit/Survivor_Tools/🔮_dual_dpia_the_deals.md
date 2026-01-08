@@ -1,5 +1,6 @@
 # 🔮 Dual DPIA the Deals  
 **First created:** 2026-01-08  
+**Last updated:** 2026-01-08  
 **Status:** Stable  
 **Use case:** Systematic governance scrutiny via parallel DPIA requests  
 
@@ -15,7 +16,8 @@ The **Dual DPIA** method restores clarity by running **parallel, lawful requests
 This node documents:
 - why the method works,
 - how to apply it systematically,
-- and how to reuse it across contracts without escalation or confrontation.
+- how to reuse it across contracts,
+- and how to read the results without over-technical framing.
 
 ---
 
@@ -91,7 +93,7 @@ You are mapping **processing contexts**, not organisations.
 **Request focus:**
 - DPIAs relating to the deployment or use of the vendor/system  
 - risk registers, ethics approvals, sign-off records  
-- procurement documents referencing data protection or profiling  
+- procurement documents referencing data protection, profiling, or inference  
 
 **Key technique:**  
 Always ask for *existence, dates, authors, and titles* even if content may be exempt.
@@ -133,16 +135,62 @@ Patterns across **multiple contracts** matter more than any single failure.
 
 ---
 
-## 🧪 What This Method Reliably Reveals
+## 📊 Comparison Grid Template  
+*(Controller vs Processor vs SAR)*
 
-Across cases, Dual DPIA analysis often surfaces:
-- DPIAs written as insurance artefacts, not risk assessments  
-- copy-paste language across materially different deployments  
-- quiet inference of special category data via proxies  
-- “human-in-the-loop” claims without documented review  
-- absence of senior risk acceptance  
+| Dimension | Controller (FOI) | Processor (Vendor) | SAR (Reality Check) |
+|--------|------------------|--------------------|---------------------|
+| DPIA existence | Claimed / denied | Template supplied? | Referenced indirectly? |
+| Date & version | Pre- or post-deployment | Draft / undated | Reflected in data timing |
+| Scope of processing | Narrow / advisory | Broad / capability-based | Actual use evident |
+| Profiling / inference | Denied / minimised | Described functionally | Present in outputs |
+| Special category data | “Not processed” | Proxy-based features | Inferred attributes |
+| Human review | Policy-level | Tool-level | Evidence of intervention |
+| Retention & sharing | Policy stated | System defaults | Downstream traces |
 
-None of this requires technical access—only process literacy.
+Use inconsistencies as **questions**, not accusations.
+
+---
+
+## 🚩 DPIA Red-Flag Lexicon  
+*Language that reliably signals weakness or theatre*
+
+- “No high risk identified” (without explanation)
+- “The supplier conducted the DPIA”
+- “Advisory only” (while influencing decisions)
+- “No automated decision-making” (but profiling exists)
+- “Data is anonymised” (where re-identification is plausible)
+- “Industry standard safeguards”
+- “Reviewed internally” (no named role or date)
+- “Updated DPIA” (no version history)
+- “Out of scope” (for inference or derived data)
+
+One flag is noise.  
+Repeated flags across contracts are pattern evidence.
+
+---
+
+## 📰 Journalist-Facing Explainer  
+*(Plain language, no GDPR jargon)*
+
+**What’s going on here?**  
+Governments increasingly use analytics companies to help them understand people, risks, or behaviour. These systems often rely on inference rather than direct evidence.
+
+**What’s a DPIA?**  
+A Data Protection Impact Assessment is meant to show that risks to people were identified *before* a system was used—and that someone took responsibility for those risks.
+
+**Why ask both sides?**  
+The government says how it thinks the system is used.  
+The company says what the system can actually do.  
+Your data shows what happens in reality.
+
+When those three stories don’t match, that’s the story.
+
+**Why does this matter?**  
+Because profiling errors, stereotypes, and weak governance don’t show up as scandals right away—they show up as quiet harms spread across many people.
+
+**Is this a loophole?**  
+No. It’s how transparency law is meant to work.
 
 ---
 
@@ -178,18 +226,6 @@ None of this requires technical access—only process literacy.
 - Not “gotcha” tactics  
 
 It is **procedural verification** using the law as written.
-
----
-
-## 🧠 Why Institutions Dislike This Method
-
-Because it:
-- removes narrative control  
-- converts “AI governance” into paper governance  
-- exposes whether compliance exists beyond slide decks  
-- scales easily across contracts  
-
-And because it does not rely on whistleblowers, leaks, or technical access.
 
 ---
 
