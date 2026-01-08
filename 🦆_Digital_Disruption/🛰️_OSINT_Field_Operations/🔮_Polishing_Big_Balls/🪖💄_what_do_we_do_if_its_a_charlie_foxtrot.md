@@ -188,13 +188,21 @@ systemic failure patterns, broken paper trails, escalation as option not duty, v
 
 ## 🏮 Footer  
 
-*What Do We Do If It’s a Charlie Foxtrot* is a contingency node within **🔮 Polishing Big Balls**.  
+*🪖💄 What Do We Do If It’s a Charlie Foxtrot* is a contingency node within **🔮 Polishing Big Balls**.  
 It exists to make escalation legible without making it compulsory.
 
 Most scrutiny should end long before this file is needed.  
 When it doesn’t, calm options still exist.
 
 You are not required to save the system.  
-You are only required to decide — proportionately — what you will do next.
+You are only required to decide — proportionately — what you will do next.  
+
+> 📡 Cross-references:
+> 
+> - [🧿 Dual DPIA for Data Deals](./🧿_dual_dpia_for_data_deals.md) — *showing proportionate groundwork*
+> - [🍹 Comparison Grid Template](./🍹_comparison_grid_template.md) — *evidentiary alignment before escalation*
+> - [📿 Stop Points & Self-Care](./📿_stop_points_and_self_care.md) — *protecting against over-engagement*
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-01-08_
