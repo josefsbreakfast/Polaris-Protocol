@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-08 03:42:41 UTC_
+_Generated on 2026-01-08 03:45:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4624,6 +4624,8 @@ _Generated on 2026-01-08 03:42:41 UTC_
       - [`🪼_who_had_their_voice_stolen.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🪼_who_had_their_voice_stolen.md)
       - [`🫡_governance_and_moderation.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🫡_governance_and_moderation.md)
     - [**🔮_Polishing_Big_Balls/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/)
+      - [**📑_templates/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/📑_templates/)
+        - [`📕_foi_controller_dpia_request.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/📑_templates/📕_foi_controller_dpia_request.md)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/README.md)
       - [`🍹_comparison_grid_template.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🍹_comparison_grid_template.md)
       - [`👻_when_systems_get_weird.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/👻_when_systems_get_weird.md)
