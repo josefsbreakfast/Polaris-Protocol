@@ -163,13 +163,21 @@ standing contracts, framework agreements, subcontracting chains, scope drift, re
 
 ## 🏮 Footer  
 
-*Checking a Public Data Service* is an orientation node within **🔮 Polishing Big Balls**.  
+*🗺 Checking a Public Data Service* is an orientation node within **🔮 Polishing Big Balls**.  
 It exists to reduce confusion caused by layered service delivery and to help people identify the specific service they are actually dealing with before any deeper scrutiny begins.
 
 Nothing in this node assumes failure.  
 Nothing here requires escalation.
 
 Its purpose is simple:  
-to make the system legible enough that further questions — if any — can be asked calmly, accurately, and without unnecessary friction.
+to make the system legible enough that further questions — if any — can be asked calmly, accurately, and without unnecessary friction.  
+
+> 📡 Cross-references:
+> 
+> - [🧭 Controller vs Processor: A Quick Map](./🧭_controller_vs_processor_quick_map.md) — *clarifying roles before asking questions*
+> - [🧿 Dual DPIA for Data Deals](./🧿_dual_dpia_for_data_deals.md) — *what to do once the service is identified*
+> - [👻 When Systems Get Weird](./👻_when_systems_get_weird.md) — *grounding if mapping the service feels unexpectedly difficult*
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-01-08_
