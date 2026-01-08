@@ -1,5 +1,5 @@
 # 🏛 R.A.A.C. — Ruins and Architectural Committee  
-**First created:** 2025-10-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-10-22 | **Last updated:** 2026-01-08  
 *Minutes from the committee on collapse.*  
 
 ---
@@ -96,4 +96,4 @@ It documents the administrative afterlife of modern infrastructure and the symbo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-08_
