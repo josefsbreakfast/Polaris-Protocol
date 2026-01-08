@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-08 17:32:19 UTC_
+_Generated on 2026-01-08 17:34:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -784,13 +784,13 @@ _Generated on 2026-01-08 17:32:19 UTC_
             - [`killed-in-gaza.min.json`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/killed-in-gaza.min.json)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/README.md)
           - [`⚖️_slapps_uk_global_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/⚖️_slapps_uk_global_palestine.md)
+          - [`🛑_ghf_is_a_weapon.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/🛑_ghf_is_a_weapon.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/README.md)
         - [`⚠️_prelude_conditions_to_atrocity.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/⚠️_prelude_conditions_to_atrocity.md)
         - [`🇬🇧_cross_legal_and_law_enforcement_response_to_genocide_risk.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🇬🇧_cross_legal_and_law_enforcement_response_to_genocide_risk.md)
         - [`🌐_suppression_of_holocaust_testimony_online.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🌐_suppression_of_holocaust_testimony_online.md)
         - [`🍉_friction_erasure_and_the_machine_view_of_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_friction_erasure_and_the_machine_view_of_resistance.md)
         - [`🏛️_wannsee_template_bureaucratic_genocide.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🏛️_wannsee_template_bureaucratic_genocide.md)
-        - [`🛑_ghf_is_a_weapon.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🛑_ghf_is_a_weapon.md)
         - [`🧠_cognitive_dissonance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🧠_cognitive_dissonance.md)
         - [`🩸_the_repetition_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md)
       - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/)
