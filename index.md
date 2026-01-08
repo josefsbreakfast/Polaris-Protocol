@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-08 05:54:47 UTC_
+_Generated on 2026-01-08 07:09:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4505,6 +4505,7 @@ _Generated on 2026-01-08 05:54:47 UTC_
     - [`🛒_the_data_drift_wedding_registry.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🛒_the_data_drift_wedding_registry.md)
   - [**🐈‍⬛_Antifacist_Propaganda_Machine/**](🦆_Digital_Disruption/🐈‍⬛_Antifacist_Propaganda_Machine/)
     - [`README.md`](🦆_Digital_Disruption/🐈‍⬛_Antifacist_Propaganda_Machine/README.md)
+    - [`🌱_plantseer_data_mining_coop.md`](🦆_Digital_Disruption/🐈‍⬛_Antifacist_Propaganda_Machine/🌱_plantseer_data_mining_coop.md)
     - [`🐽_sticky_scandal_effect.md`](🦆_Digital_Disruption/🐈‍⬛_Antifacist_Propaganda_Machine/🐽_sticky_scandal_effect.md)
   - [**🐘_Reply_All/**](🦆_Digital_Disruption/🐘_Reply_All/)
     - [`README.md`](🦆_Digital_Disruption/🐘_Reply_All/README.md)
