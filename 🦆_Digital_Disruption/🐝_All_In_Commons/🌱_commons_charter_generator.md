@@ -175,7 +175,7 @@ It provides portable governance scaffolding for communities stewarding shared re
 > 📡 Cross-references:
 > 
 > - [🐝 All In Commons](./README.md) — *cooperative and commons-based infrastructure*  
-> - [🧠 Big Picture Protocols](../../../Disruption_Kit/Big_Picture_Protocols/README.md) — *systems and governance analysis*
+> - [🧠 Big Picture Protocols](../../Disruption_Kit/Big_Picture_Protocols/README.md) — *systems and governance analysis*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
