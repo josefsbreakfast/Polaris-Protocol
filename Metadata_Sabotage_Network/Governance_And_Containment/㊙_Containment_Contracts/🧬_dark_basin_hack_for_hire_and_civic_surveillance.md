@@ -47,7 +47,7 @@ In regulatory terms, it is **vendor capture of law enforcement**: the market for
 ```mermaid
 graph TD
     A[Advocacy Groups / Journalists] --> B[Phishing URLs / Custom Shorteners]
-    B --> C[Infrastructure Logs (UTC+5:30)]
+    B --> C[Infrastructure Logs UTC+5:30]
     C --> D[BellTroX InfoTech Services — India]
     D --> E[Unknown Clients / Commercial Contracts]
     E --> F[Suppression & Disruption of Civil Society]
