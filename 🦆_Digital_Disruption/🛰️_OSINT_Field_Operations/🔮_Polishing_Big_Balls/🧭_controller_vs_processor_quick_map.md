@@ -137,13 +137,21 @@ controller responsibility, processor assistance, outsourced services, blurred bo
 
 ## 🏮 Footer  
 
-*Controller vs Processor: A Quick Map* is a reference node within **🔮 Polishing Big Balls**.  
+*🧭 Controller vs Processor: A Quick Map* is a reference node within **🔮 Polishing Big Balls**.  
 It exists to keep responsibility legible in systems built from multiple layers and contracts.
 
 The distinction is not about blame.  
 It is about knowing who decides, who acts, and where lawful responsibility is meant to rest.
 
 When the map is clear, most conversations become calmer.  
-When it isn’t, confusion tends to do the damage.
+When it isn’t, confusion tends to do the damage.  
+
+> 📡 Cross-references:
+> 
+> - [🧿 Dual DPIA for Data Deals](./🧿_dual_dpia_for_data_deals.md) — *how role distinctions are tested in practice*
+> - [🍹 Comparison Grid Template](./🍹_comparison_grid_template.md) — *where claims about roles can be lined up side by side*
+> - [🌷 Questions People Often Worry Are “Stupid”](./🔖_notes/🌷_questions_people_often_worry_are_stupid.md) — *permission to ask basic responsibility questions*
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-01-08_
