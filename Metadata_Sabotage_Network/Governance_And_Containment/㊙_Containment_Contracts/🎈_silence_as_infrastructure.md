@@ -1,5 +1,5 @@
 # 🎈 Silence as Infrastructure  
-**First created:** 2025-09-09 | **Last updated:** 2025-10-22  
+**First created:** 2025-09-09 | **Last updated:** 2026-01-08  
 *How NDA practices metastasise into systemic silence across law, tech, and media.*  
 
 ---
@@ -142,4 +142,4 @@ It traces how contractual silencing mutates into systemic architecture, mapping 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-22_
+_Last updated: 2026-01-08_
