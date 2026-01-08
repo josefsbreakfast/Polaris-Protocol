@@ -343,7 +343,8 @@ It documents how symbolic power is maintained while functional autonomy is quiet
 > 📡 Cross-references:
 > 
 > - [🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md)  
-> - [🗡️ Why Trident Is Lowkey Kraken Insurance](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🗡️_why_trident_is_lowkey_kraken_insurance.md)  
+> - [🗡️ Why Trident Is Lowkey Kraken Insurance](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🗡️_why_trident_is_lowkey_kraken_insurance.md)
+> - [⚖️ Why Inquiries Replace Prosecutions](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_why_inquiries_replace_prosecutions.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
