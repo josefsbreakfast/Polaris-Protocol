@@ -124,6 +124,7 @@ libraries, public data, behavioural metrics, civic literacy, social credit, aust
 > 
 > - 🪡 [Make-and-Mend Republic — Intergenerational Repair for Hard Times](./🪡_make_and_mend_republic.md)  
 > - 🌍 [Why It All Matters — Shared Epilogue](./🌍_why_it_all_matters_shared_epilogue.md)
+> - [📚 Library as Algorithmic Interface](../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📚_library_as_algorithmic_interface.md)  
 > - [📚 The Tenth Library](../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📚_the_tenth_library.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
