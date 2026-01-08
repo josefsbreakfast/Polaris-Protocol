@@ -1,5 +1,5 @@
 # ⚖️ Shielded Roles and Information Risk Governance  
-**First created:** 2025-11-12 | **Last updated:** 2026-01-06  
+**First created:** 2025-11-12 | **Last updated:** 2026-01-08  
 *Why anonymity in core risk roles can enable transparency — and how the system fails to support it.*  
 
 ---
@@ -182,4 +182,4 @@ It examines how anonymity, risk ownership, and transparency interact within defe
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-01-08_
