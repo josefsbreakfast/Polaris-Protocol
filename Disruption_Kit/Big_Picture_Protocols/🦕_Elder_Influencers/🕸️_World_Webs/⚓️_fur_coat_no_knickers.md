@@ -1,10 +1,10 @@
 # ⚓️ Fur Coat; No Knickers  
 **First created:** 2026-01-08 | **Last updated:** 2026-01-08  
-*Why we provided the getaway dinghy (and became the dad taxi)*
+*Why we provided the getaway dinghy (and became the Dad Taxi™️).*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 This node names a recurring condition in contemporary British governance:  
 **the preservation of prestige without sovereign substrate.**
@@ -15,7 +15,7 @@ This condition is not accidental, and it is not confined to a single domain. It 
 
 ---
 
-## 🧩 Key Ideas  
+## ✨ Key Ideas  
 
 - **Delegated sovereignty:** core enabling functions sit outside domestic control.  
 - **Prestige deterrence:** symbolic power retained while autonomy erodes.  
@@ -238,9 +238,8 @@ delegated sovereignty, prestige deterrence, alliance dependency, trident, nuclea
 It documents how symbolic power is maintained while functional autonomy is quietly outsourced — and how this pattern corrodes legal credibility, strategic choice, and institutional seriousness.
 
 > 📡 Cross-references:
-> - 🧠 Big Picture Protocols — systemic governance analysis  
-> - 🛰️ OSINT Field Operations — case studies in “support” behaviour  
-> - ⚖️ Systems & Governance — sovereignty, contracts, and leverage  
+> 
+> - [🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md)    
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
