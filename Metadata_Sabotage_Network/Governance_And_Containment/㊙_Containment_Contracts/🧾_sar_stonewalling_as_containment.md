@@ -1,6 +1,6 @@
-# 🧾 SAR Stonewalling as Containment
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*How procedural delay, partial response, and ambiguity function as containment mechanisms in data governance.*
+# 🧾 SAR Stonewalling as Containment  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-08  
+*How procedural delay, partial response, and ambiguity function as containment mechanisms in data governance.*  
 
 ---
 
@@ -105,13 +105,15 @@ subject access requests, sar compliance, data governance, institutional delay, p
 ---
 
 ## 🏮 Footer
-*SAR Stonewalling as Containment* is a living node of the **Polaris Protocol**.  
+*🧾 SAR Stonewalling as Containment* is a living node of the **Polaris Protocol**.  
 It documents how ordinary governance behaviours can function as containment mechanisms that delay, diffuse, or narrow accountability without overt refusal.
 
 > 📡 Cross-references:
-> - `🎓_legibility_is_soft_power_in_academia.md` — *how competence alters governance response*  
-> - `📊_update_weighted_overrepresentation.md` — *why some cases attract scrutiny while others fade*
+>
+> - [🧩 Learned Procedural Self-Doubt](../../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧩_learned_procedural_self_doubt.md)  
+> - [🎓 Legibility As Soft Power in Academia](../🈺_Governance_And_Prevent/🎓_legibility_as_soft_power_in_academia.md) — *how competence alters governance response*  
+> - [📊 Update-Weighted Overrepresentation](../../Structural_Analysis/🧬_Structural_Mapping/📊_update_weighted_overrepresentation.md) — *why some cases attract scrutiny while others fade*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-08_
