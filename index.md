@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-08 03:22:51 UTC_
+_Generated on 2026-01-08 03:29:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4625,6 +4625,7 @@ _Generated on 2026-01-08 03:22:51 UTC_
       - [`🫡_governance_and_moderation.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🫡_governance_and_moderation.md)
     - [**🔮_Polishing_Big_Balls/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/README.md)
+      - [`🗺_checking_a_public_data_service.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🗺_checking_a_public_data_service.md)
       - [`🛸_why_this_is_boring_and_thats_good.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🛸_why_this_is_boring_and_thats_good.md)
     - [**🕊️_War_Or_Peace/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md)
