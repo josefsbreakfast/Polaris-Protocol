@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-08 07:40:33 UTC_
+_Generated on 2026-01-08 09:17:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -232,6 +232,7 @@ _Generated on 2026-01-08 07:40:33 UTC_
         - [`✈️_genocides_and_paedophiles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/✈️_genocides_and_paedophiles.md)
         - [`✈️_who_wants_these_creeps_in_charge.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/✈️_who_wants_these_creeps_in_charge.md)
         - [`✈️_worker_positioning_and_safety_culture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/✈️_worker_positioning_and_safety_culture.md)
+        - [`🇵🇸_aida_is_palestinian_sovereign_territory.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🇵🇸_aida_is_palestinian_sovereign_territory.md)
         - [`🌅_rise_of_institutional_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌅_rise_of_institutional_integrity.md)
         - [`🌍_cross_border_bias_propagation_in_surveillance_models.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌍_cross_border_bias_propagation_in_surveillance_models.md)
         - [`🌒_the_no_win_box.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌒_the_no_win_box.md)
