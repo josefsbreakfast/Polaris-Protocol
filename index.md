@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-08 15:19:15 UTC_
+_Generated on 2026-01-08 17:21:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3360,6 +3360,7 @@ _Generated on 2026-01-08 15:19:15 UTC_
       - [`🏛️_who_regulates_nudging_the_governance_vacuum.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🏛️_who_regulates_nudging_the_governance_vacuum.md)
       - [`🐍_prevent_as_a_self_eating_snake.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🐍_prevent_as_a_self_eating_snake.md)
       - [`🐾_animal_assisted_ve_interventions.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🐾_animal_assisted_ve_interventions.md)
+      - [`👁️‍🗨️_anpr_the_eyes_in_the_skies.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👁️‍🗨️_anpr_the_eyes_in_the_skies.md)
       - [`👾_british_policing_and_prevent_in_the_post_blm_era.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_british_policing_and_prevent_in_the_post_blm_era.md)
       - [`👾_post_carceral_era_counter_extremism.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_post_carceral_era_counter_extremism.md)
       - [`👾_prevent_as_national_behaviour_dampener.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_prevent_as_national_behaviour_dampener.md)
