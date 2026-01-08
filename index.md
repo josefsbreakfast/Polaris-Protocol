@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-07 19:37:38 UTC_
+_Generated on 2026-01-08 01:59:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2496,6 +2496,10 @@ _Generated on 2026-01-07 19:37:38 UTC_
       - [`IMG_3699.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3699.png)
       - [`IMG_3703.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3703.png)
       - [`IMG_3767.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3767.png)
+      - [`IMG_3863.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3863.png)
+      - [`IMG_3864.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3864.png)
+      - [`IMG_3865.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3865.png)
+      - [`IMG_3866.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3866.png)
       - [`Screenshot 2026-01-02 102328.png`](Disruption_Kit/Field_Logs/20260101_January_2026/Screenshot 2026-01-02 102328.png)
     - [`20250828_racialisation_hijack.PNG`](Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
     - [`20251028_forcible_conversion_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
