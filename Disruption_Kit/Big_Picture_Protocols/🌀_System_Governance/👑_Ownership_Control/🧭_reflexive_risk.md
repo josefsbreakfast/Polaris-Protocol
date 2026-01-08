@@ -1,5 +1,5 @@
 # 🧭 Reflexive Risk  
-**First created:** 2025-10-20 | **Last updated:** 2026-01-05  
+**First created:** 2025-10-20 | **Last updated:** 2026-01-08  
 *When a system begins to see itself, suppression becomes self-defence.*  
 
 ---
@@ -140,4 +140,4 @@ It serves as both diagnostic and compass for those who find themselves becoming 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-08_
