@@ -141,12 +141,21 @@ odd responses, friction without intent, pressure as optimisation, recording as g
 
 ## 🏮 Footer  
 
-*When Systems Get Weird* is a grounding node within **🔮 Polishing Big Balls**.  
+*👻 When Systems Get Weird* is a grounding node within **🔮 Polishing Big Balls**.  
 It exists to help people stay regulated when lawful curiosity meets brittle infrastructure.
 
 Strangeness is not a summons.  
 Friction is not a verdict.
 
-You are allowed to slow down, take notes, and decide — calmly — what to do next.
+You are allowed to slow down, take notes, and decide — calmly — what to do next.  
+
+> 📡 Cross-references:
+> 
+> - [📿 Stop Points & Self-Care](./📿_stop_points_and_self_care.md) — *slowing down when friction escalates*
+> - [🪻 Language to Use When Calm](./🔖_notes/🪻_language_to_use_when_calm.md) — *keeping responses steady*
+> - [🏵 Language to Avoid When Tired](./🔖_notes/🏵_language_to_avoid_when_tired.md) — *preventing accidental escalation*
+> - [🍹 Comparison Grid Template](./🍹_comparison_grid_template.md) — *turning discomfort into structure*
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-01-08_
