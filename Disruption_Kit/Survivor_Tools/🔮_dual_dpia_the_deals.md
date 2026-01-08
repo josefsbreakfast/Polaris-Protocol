@@ -1,10 +1,6 @@
 # 🔮 Dual DPIA the Deals  
-**First created:** 2026-01-08  
-**Last updated:** 2026-01-08  
-**Status:** Stable  
-**Use case:** Systematic governance scrutiny via parallel DPIA requests  
-
-*A method for testing whether data protection compliance exists in substance rather than theatre, by lawfully requesting DPIA-related material from both data controllers and data processors involved in the same processing activity.*
+**First created:** 2026-01-08 | **Last updated:** 2026-01-08  
+*A method for testing whether data protection compliance exists in substance rather than theatre, by lawfully requesting DPIA-related material from both data controllers and data processors involved in the same processing activity.*  
 
 ---
 
@@ -246,3 +242,12 @@ This node is:
 - designed for calm, lawful scrutiny  
 
 It is a **lens**, not a weapon.
+
+---
+
+> 📡 Cross-references:
+> 
+> - [🔮 How Predictive Behaviour Insight Models Get Easily Confused](.🔮_how_predictive_behaviour_insight_models_get_easily_confused.md)  
+> - [🔮 Why the Funniest Gotcha Is Always Legally Compliant](./🔮_why_the_funniest_gotcha_is_always_legally_compliant.md)  
+> - [🔮 Paper Trails for Paper Tigers](./🔮_paper_trails_for_paper_tigers.md)  
+
