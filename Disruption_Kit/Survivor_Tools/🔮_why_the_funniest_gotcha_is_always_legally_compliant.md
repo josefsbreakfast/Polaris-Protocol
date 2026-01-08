@@ -173,6 +173,7 @@ It contributes a structural insight into why lawful process, patience, and docum
 > - [🔮 Dual DPIA the Deals](./🔮_dual_dpia_the_deals.md)  
 > - [🔮 How Predictive Behaviour Insight Models Get Easily Confused](./🔮_how_predictive_behaviour_insight_models_get_easily_confused.md)  
 > - [🔮 Why the Funniest Gotcha Is Always Legally Compliant](Disruption_Kit/Survivor_Tools/🔮_why_the_funniest_gotcha_is_always_legally_compliant.md)  
+> - [🔮 Paper Trails for Paper Tigers](./🔮_paper_trails_for_paper_tigers.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
