@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-08 14:18:41 UTC_
+_Generated on 2026-01-08 14:47:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -239,6 +239,7 @@ _Generated on 2026-01-08 14:18:41 UTC_
         - [`🌅_rise_of_institutional_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌅_rise_of_institutional_integrity.md)
         - [`🌍_cross_border_bias_propagation_in_surveillance_models.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌍_cross_border_bias_propagation_in_surveillance_models.md)
         - [`🌒_the_no_win_box.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌒_the_no_win_box.md)
+        - [`🌳_the_lads_are_not_pro_countryside.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌳_the_lads_are_not_pro_countryside.md)
         - [`🍉_british_democracy_needs_you.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🍉_british_democracy_needs_you.md)
         - [`🏛️_raac_ruins_squad.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🏛️_raac_ruins_squad.md)
         - [`🐼_the_metropolitan_rabble.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🐼_the_metropolitan_rabble.md)
