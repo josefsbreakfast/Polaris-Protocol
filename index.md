@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-08 03:36:20 UTC_
+_Generated on 2026-01-08 03:37:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4626,6 +4626,7 @@ _Generated on 2026-01-08 03:36:20 UTC_
     - [**🔮_Polishing_Big_Balls/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/README.md)
       - [`🍹_comparison_grid_template.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🍹_comparison_grid_template.md)
+      - [`🔥_risk_events_near_misses_explained.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🔥_risk_events_near_misses_explained.md)
       - [`🗺_checking_a_public_data_service.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🗺_checking_a_public_data_service.md)
       - [`🛸_why_this_is_boring_and_thats_good.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🛸_why_this_is_boring_and_thats_good.md)
       - [`🧭_controller_vs_processor_quick_map.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🧭_controller_vs_processor_quick_map.md)
