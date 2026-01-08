@@ -134,9 +134,9 @@ It documents the legal status of Aida Refugee Camp and clarifies the obligations
 
 > 📡 Cross-references:
 > 
-> - 🕊️ War or Peace — state violence and escalation tracking  
-> - 🏯 Governance & Containment — institutional responsibility and silence dynamics  
-> - 🏛️ Civil Security — civilian infrastructure protection  
+> - [🕊️ War or Peace](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md) — *state violence and escalation tracking*  
+> - [🫒 Occupation as Containment Regime](../💫_Containment_Logic/🫒_occupation_as_containment_regime.md) – *occupation ≠ ownership*  
+> - [🍉 Why Do We Care About Palestine](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md) – *we are not your Holocaust memory to feel good about*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
