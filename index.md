@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-08 02:28:01 UTC_
+_Generated on 2026-01-08 02:34:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3131,6 +3131,7 @@ _Generated on 2026-01-08 02:28:01 UTC_
     - [`📈_signs_your_spoof_email_was_written_by_a_man_who_misunderstands_computers_and_women.md`](Disruption_Kit/Survivor_Tools/📈_signs_your_spoof_email_was_written_by_a_man_who_misunderstands_computers_and_women.md)
     - [`📓_paper_diary_sovereignty.md`](Disruption_Kit/Survivor_Tools/📓_paper_diary_sovereignty.md)
     - [`🔥_your_emotional_campfire_care_kit.md`](Disruption_Kit/Survivor_Tools/🔥_your_emotional_campfire_care_kit.md)
+    - [`🔮_dual_dpia_the_deals.md`](Disruption_Kit/Survivor_Tools/🔮_dual_dpia_the_deals.md)
     - [`🔮_how_predictive_behaviour_insight_models_get_easily_confused.md`](Disruption_Kit/Survivor_Tools/🔮_how_predictive_behaviour_insight_models_get_easily_confused.md)
     - [`🔮_paper_trails_for_paper_tigers.md`](Disruption_Kit/Survivor_Tools/🔮_paper_trails_for_paper_tigers.md)
     - [`🔮_why_the_funniest_gotcha_is_always_legally_compliant.md`](Disruption_Kit/Survivor_Tools/🔮_why_the_funniest_gotcha_is_always_legally_compliant.md)
