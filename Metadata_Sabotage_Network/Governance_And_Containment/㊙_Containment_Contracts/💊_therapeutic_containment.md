@@ -1,6 +1,6 @@
 # 💊 Therapeutic Containment  
-**First created:** 2025-10-31 | **Last updated:** 2025-10-31  
-*How care architectures inherit the logic of control.*
+**First created:** 2025-10-31 | **Last updated:** 2026-01-08  
+*How care architectures inherit the logic of control.*  
 
 ---
 
@@ -149,14 +149,14 @@ therapeutic containment, clinical silence, diagnostic capture, consent loops, re
 
 ## 🏮 Footer  
 
-*Therapeutic Containment* is a living node of the Polaris Protocol.  
+*💊 Therapeutic Containment* is a living node of the Polaris Protocol.  
 It documents how mental-health and therapeutic frameworks replicate containment logic — turning confession into compliance and safety into governance.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [㊙ Containment Contracts](./README.md) — core suppression architecture  
 > - [🛠️ Disruption Kit](../../../Disruption_Kit/README.md) — counter-infrastructure and resistance practices  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-*The data says stable; the body disagrees.*
 
-_Last updated: 2025-10-31_
+_Last updated: 2026-01-08_
