@@ -1,53 +1,3 @@
-🔮_Polishing_Big_Balls/  
-│  
-├── README.md  
-│   # Orientation, tone-setting, reassurance, how to use this folder  
-│  
-├── 00_why_this_is_boring_and_thats_good.md  
-│   # Demystifies the task; frames it as normal civic process literacy  
-│  
-├── 01_checking_a_public_data_service.md  
-│   # Step-by-step, member-of-the-public guide (no escalation language)  
-│  
-├── 02_controller_vs_processor_quick_map.md  
-│   # Plain-language explanation of roles and responsibilities  
-│  
-├── 03_dual_dpia_the_deals.md  
-│   # Core method: parallel FOI/SAR/DPIA checking (neutral tone)  
-│  
-├── 04_comparison_grid_template.md  
-│   # Controller vs Processor vs SAR table (printable / reusable)  
-│  
-├── 05_dpia_red_flag_lexicon.md  
-│   # Weak language, theatre indicators, common failure phrases  
-│  
-├── 06_risk_events_near_misses_explained.md  
-│   # What “non-breach” incidents actually are and why they matter  
-│  
-├── 07_when_compliance_is_the_answer.md  
-│   # How to recognise good governance and why that’s reassuring  
-│  
-├── 08_when_systems_get_weird.md  
-│   # Grounding note: friction, odd responses, and staying regulated  
-│  
-├── 09_stop_points_and_self_care.md  
-│   # When to pause, hand off, or close the folder  
-│  
-├── 10_what_do_we_do_if_its_a_charlie_foxtrot.md  
-│  
-├── templates/  
-│   ├── foi_controller_dpia_request.md  
-│   ├── sar_inferred_data_request.md  
-│   ├── vendor_transparency_request.md  
-│   └── comparison_grid_blank.md  
-│  
-└── notes/  
-    ├── language_to_use_when_calm.md  
-    ├── language_to_avoid_when_tired.md  
-    └── questions_people_often_worry_are_stupid.md  
-
----
-
 # 🔮 Polishing Big Balls  
 **First created:** 2026-01-08 | **Last updated:** 2026-01-08  
 *Demystifying overconfident data systems, one filing cabinet at a time.*
@@ -212,6 +162,97 @@ Either way, we look calmly, we laugh a little, and we write things down.
 That’s all this is.
 
 Welcome to the folder.
+
+---
+
+## 📂 Index  
+*What lives in this folder, and when you might want it.*
+
+---
+
+### 🧭 Orientation & Grounding
+
+- **[README.md](./README.md)**  
+  *Why this folder exists, what it is (and isn’t), and how to approach it without panic.*
+
+- **[👻 When Systems Get Weird](./👻_when_systems_get_weird.md)**  
+  *What friction, odd responses, and “this feels strange” usually mean — and how to stay regulated.*
+
+- **[📿 Stop Points & Self-Care](./📿_stop_points_and_self_care.md)**  
+  *When to pause, hand off, or close the folder without losing the thread.*
+
+---
+
+### 🗺 Understanding the Terrain
+
+- **[🗺 Checking a Public Data Service](./🗺_checking_a_public_data_service.md)**  
+  *How public-sector data services are actually structured, and how to identify the right one.*
+
+- **[🧭 Controller vs Processor: A Quick Map](./🧭_controller_vs_processor_quick_map.md)**  
+  *Who decides, who does the work, and where responsibility is meant to sit.*
+
+---
+
+### 🔍 Core Methods
+
+- **[🧿 Dual DPIA for Data Deals](./🧿_dual_dpia_for_data_deals.md)**  
+  *Parallel FOI/SAR/DPIA checking, adapted for government data contracting.*
+
+- **[🍹 Comparison Grid Template](./🍹_comparison_grid_template.md)**  
+  *A simple side-by-side grid for lining up controller, processor, and SAR responses.*
+
+---
+
+### 🔥 Governance Signals
+
+- **[🔥 Risk Events & Near Misses Explained](./🔥_risk_events_near_misses_explained.md)**  
+  *What “non-breach” incidents actually are, and why they matter more than people think.*
+
+- **[💎 When Compliance Is the Answer](./💎_when_compliance_is_the_answer.md)**  
+  *How to recognise good governance — and why reassurance is a legitimate outcome.*
+
+---
+
+### 🪖 Contingency (Optional)
+
+- **[🪖💄 What Do We Do If It’s a Charlie Foxtrot](./🪖💄_what_do_we_do_if_its_a_charlie_foxtrot.md)**  
+  *A calm menu of options when governance is genuinely broken — escalation without heroics.*
+
+---
+
+### 🔖 Notes (Tone & Sanity Aids)
+
+- **[🪻 Language to Use When Calm](./🔖_notes/🪻_language_to_use_when_calm.md)**  
+  *Phrases that keep requests legible, proportional, and low-friction.*
+
+- **[🏵 Language to Avoid When Tired](./🔖_notes/🏵_language_to_avoid_when_tired.md)**  
+  *Words that feel justified in the moment, but cost you later.*
+
+- **[🌷 Questions People Often Worry Are “Stupid”](./🔖_notes/🌷_questions_people_often_worry_are_stupid.md)**  
+  *They aren’t. They’re usually structural.*
+
+---
+
+### 📑 Templates (Copy / Paste)
+
+- **[📕 FOI: Controller DPIA Request](./📑_templates📕_foi_controller_dpia_request.md)**  
+  *Neutral request for governance documents.*
+
+- **[📗 SAR: Inferred & Derived Data Request](./📑_templates📗_sar_inferred_data_request.md)**  
+  *Explicitly names profiles, inference, and metadata.*
+
+- **[📘 Vendor Transparency Request](./📑_templates📘_vendor_transparency_request.md)**  
+  *Non-statutory clarification of a supplier’s role.*
+
+- **[📙 Comparison Grid (Blank)](./📑_templates📙_comparison_grid_blank.md)**  
+  *Printable grid for calm comparison.*
+
+---
+
+*You do not need to read this folder in order.  
+Most people will only need two or three files.*
+
+*If you find yourself reading everything, that’s usually a sign to pause.*  
 
 ---
 
