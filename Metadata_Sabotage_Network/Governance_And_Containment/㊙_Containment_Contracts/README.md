@@ -92,9 +92,9 @@ It acts as the *contractual and memory substrate* for the wider **Metadata Sabot
 
 Findings from this cluster inform the **Disruption Kit**, where strategies for counter-infrastructure, survivor data sovereignty, and community-led transparency tools are developed.  
 Key downstream implementations:  
-- [🩸 Genocide Denialism](../../../Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/README.md) — *refusal strategies for systemic containment.*  
-- [🧠 HM Dept. Coercive Nudges](../../../Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural governance parallels.*  
-- [💸 Money Listens](../../../Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md) — *economic mirrors to containment logics.*  
+- [🩸 Genocide Denialism](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/README.md) — *refusal strategies for systemic containment.*  
+- [🧠 HM Dept. Coercive Nudges](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural governance parallels.*  
+- [💸 Money Listens](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/README.md) — *economic mirrors to containment logics.*  
 
 ---
 
