@@ -165,7 +165,7 @@ It provides repeatable governance patterns that preserve autonomy, accountabilit
 
 > 📡 Cross-references:  
 > 
-> - [🐝 All In Commons](./) — cooperative and commons-based infrastructure  
+> - [🐝 All In Commons](./README.md) — *cooperative and commons-based infrastructure*  
 > - [🌱 Commons Charter Generator](./🌱_commons_charter_generator.md) — *governance promises*  
 > - [🌿 Regenerative Admin Toolkit](./🌿_regenerative_admin_toolkit.md) — *care-based operations*  
 > - [🧠 Big Picture Protocols](../../Disruption_Kit/Big_Picture_Protocols/README.md) — *systemic context*  
