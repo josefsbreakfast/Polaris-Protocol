@@ -121,12 +121,19 @@ pause points, diminishing returns, hand-off as care, closure rituals, fatigue si
 
 ## 🏮 Footer  
 
-*Stop Points & Self-Care* is a boundary-setting node within **🔮 Polishing Big Balls**.  
+*📿 Stop Points & Self-Care* is a boundary-setting node within **🔮 Polishing Big Balls**.  
 It exists to ensure that clarity does not come at the cost of wellbeing.
 
 Good systems tolerate pauses.  
 Good inquiry includes rest.
 
-You are allowed to stop — and still have done enough.
+You are allowed to stop — and still have done enough.  
+
+> 📡 Cross-references:
+> 
+> - [💎 When Compliance Is the Answer](./💎_when_compliance_is_the_answer.md) — *knowing when “enough” is enough*
+> - [👻 When Systems Get Weird](./👻_when_systems_get_weird.md) — *why pauses are sometimes necessary*
+> - [🪖💄 What Do We Do If It’s a Charlie Foxtrot](./🪖💄_what_do_we_do_if_its_a_charlie_foxtrot.md) — *only if you decide to continue*
+
 
 _Last updated: 2026-01-08_
