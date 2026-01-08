@@ -286,9 +286,11 @@ paper trails, institutional memory, predictive analytics accountability, audit c
 It contributes a structural lens on how documentation, time, and memory expose brittle authority and protect those subjected to opaque governance.
 
 > 📡 Cross-references:
-> - [🔮 How Predictive Behaviour Insight Models Get Easily Confused](./🔮_how_predictive_behaviour_insight_models_get_easily_confused.md) — epistemic failure modes  
-> - [🧠 Big Picture Protocols] (../Disruption_Kit/Big_Picture_Protocols/) — systemic analysis  
-> - [🛰️ Metadata Sabotage Network] (../Metadata_Sabotage_Network/) — inference, records, and suppression patterns  
+> 
+> - [🔮 Dual DPIA the Deals](./🔮_dual_dpia_the_deals.md)  
+> - [🔮 How Predictive Behaviour Insight Models Get Easily Confused](./🔮_how_predictive_behaviour_insight_models_get_easily_confused.md)  
+> - [🔮 Why the Funniest Gotcha Is Always Legally Compliant](./🔮_why_the_funniest_gotcha_is_always_legally_compliant.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
