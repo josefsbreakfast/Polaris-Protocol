@@ -1,5 +1,5 @@
 # 📜 Terms of Erasement  
-**First created:** 2025-08-05 | **Last updated:** 2025-10-22  
+**First created:** 2025-08-05 | **Last updated:** 2026-01-08  
 *Satirical contract exposing platform consent erasure and metadata sabotage.*
 
 ---
@@ -139,4 +139,4 @@ It satirises the coercive consent architectures of platform governance, where vi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-22_
+_Last updated: 2026-01-08_
