@@ -136,13 +136,21 @@ good-enough governance, visible safeguards, narrow scope, residual risk, boring 
 
 ## 🏮 Footer  
 
-*When Compliance Is the Answer* is a stabilising node within **🔮 Polishing Big Balls**.  
+*💎 When Compliance Is the Answer* is a stabilising node within **🔮 Polishing Big Balls**.  
 It exists to legitimise reassurance as a valid and valuable result of scrutiny.
 
 Not every system is broken.  
 Not every check uncovers rot.
 
 Sometimes the most important thing you can say is:  
-*“This is contained — and that matters.”*
+*“This is contained — and that matters.”*  
+
+> 📡 Cross-references:
+> 
+> - [📿 Stop Points & Self-Care](./📿_stop_points_and_self_care.md) — *permission to stop when reassurance is warranted*
+> - [🔥 Risk Events & Near Misses Explained](./🔥_risk_events_near_misses_explained.md) — *understanding risk without scandal*
+> - [🧿 Dual DPIA for Data Deals](./🧿_dual_dpia_for_data_deals.md) — *anchoring reassurance in method*
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-01-08_
