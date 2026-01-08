@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-08 02:36:50 UTC_
+_Generated on 2026-01-08 02:41:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4623,6 +4623,8 @@ _Generated on 2026-01-08 02:36:50 UTC_
       - [`🧱_malicious_compliance_as_signal.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🧱_malicious_compliance_as_signal.md)
       - [`🪼_who_had_their_voice_stolen.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🪼_who_had_their_voice_stolen.md)
       - [`🫡_governance_and_moderation.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🫡_governance_and_moderation.md)
+    - [**🔮_Polishing_Big_Balls/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/)
+      - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/README.md)
     - [**🕊️_War_Or_Peace/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md)
       - [`⚔️_containment_logic_strategy_or_panic.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/⚔️_containment_logic_strategy_or_panic.md)
