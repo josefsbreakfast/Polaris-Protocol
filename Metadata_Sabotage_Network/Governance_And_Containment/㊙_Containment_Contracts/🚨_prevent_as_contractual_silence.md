@@ -1,6 +1,6 @@
 # 🚨 Prevent as Contractual Silence  
-**First created:** 2025-10-31 | **Last updated:** 2025-10-31  
-*How the UK’s Prevent duty operates as a standing nondisclosure clause between the state and its citizens.*
+**First created:** 2025-10-31 | **Last updated:** 2026-01-08  
+*How the UK’s Prevent duty operates as a standing nondisclosure clause between the state and its citizens.*  
 
 ---
 
@@ -143,16 +143,7 @@ The metrics reward silence; the fever goes uncounted.
 > I learn to heal where the metrics cannot see.  
 > Every unlogged recovery is an act of defiance —  
 > a reminder that silence is not health,  
-> and absence is not peace.
-
----
-
-## 📡 Cross-References  
-
-- [㊙ Containment Contracts](../Containment_Contracts/README.md) — upstream governance logic of silence.  
-- [🧠 HM Dept. Coercive Nudges](../../../Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md) — behavioural containment parallels.  
-- [⚖️ Legal State Governance](../../../Disruption_Kit/Big_Picture_Protocols/⚖️_Legal_State_Governance/README.md) — statutory embedding of compliance duties.  
-- [🩸 Genocide Denialism](../../../Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/README.md) — systemic outcome when silence becomes default.  
+> and absence is not peace.  
 
 ---
 
@@ -174,11 +165,13 @@ prevent duty, nda logic, anticipatory silence, safeguarding theatre, coercive co
 *🚨 Prevent as Contractual Silence* is a living node of the Polaris Protocol.  
 It documents how the UK’s Prevent framework operationalises silence as a binding social contract, converting care duties into surveillance obligations and dissolving speech into risk.  
 
-> 📡 Cross-references:  
-> - [㊙ Containment Contracts](./README.md) — core suppression architecture  
-> - [🛠️ Disruption Kit](../../../Disruption_Kit/README.md) — counter-infrastructure and resistance practices  
+> 📡 Cross-references:
+> 
+> - [㊙ Containment Contracts](./README.md) — *core suppression architecture*  
+> - [⛳️ Nudge to Sludge](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/⛳️_nudge_to_sludge.md)  
+> - [✏️ How Prevent Flags Quietly Shape Someone’s Life for Years](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/✏️_how_prevent_flags_quietly_shape_someones_life_for_years.md)  
+> - [👾 The Digital Torture Chamber](./👾_the_digital_torture_chamber.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-*The data says stable; the body disagrees.*
 
-_Last updated: 2025-10-31_
+_Last updated: 2026-01-08_
