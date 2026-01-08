@@ -88,10 +88,17 @@ side-by-side reading, alignment vs drift, absence as signal, paperwork as eviden
 
 ## 🏮 Footer  
 
-*Comparison Grid Template* is a supporting artefact within **🔮 Polishing Big Balls**.  
+*🍹 Comparison Grid Template* is a supporting artefact within **🔮 Polishing Big Balls**.  
 It exists to slow thinking down, reduce emotional load, and make complex systems legible through simple juxtaposition.
 
 The grid does not tell you what to conclude.  
-It helps you see what is already there.
+It helps you see what is already there.  
+
+> 📡 Cross-references:
+> 
+> - [🧿 Dual DPIA for Data Deals](./🧿_dual_dpia_for_data_deals.md) — *context for when and how the grid is used*
+> - [🔥 Risk Events & Near Misses Explained](./🔥_risk_events_near_misses_explained.md) — *interpreting partial, missing, or uneven entries*
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-01-08_
