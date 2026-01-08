@@ -1,5 +1,5 @@
 # 💰 Sometimes Donors Save the Day  
-**First created:** 2025-12-16 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-16 | **Last updated:** 2026-01-08  
 *How informal legitimacy pressure breaks institutional deadlock — and what this reveals about endurance extraction, siloed governance, and preventable harm.*  
 
 ---
@@ -262,4 +262,4 @@ It documents how accountability is often financially mediated, how pressure is e
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-08_
