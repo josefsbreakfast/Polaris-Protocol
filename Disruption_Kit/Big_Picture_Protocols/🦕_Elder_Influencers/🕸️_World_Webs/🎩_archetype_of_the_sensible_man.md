@@ -190,9 +190,9 @@ sensible man, chaotic man, class-coded archetypes, cultural stability scripts, s
 
 Pairs with:
 
-- **📚 Class-Coded Literacy Patterns**  
-- **🧙‍♀️ Witch Logic Diagnostic**  
-- **🔮 Post-Chaos Governance Archetypes**
+> - [📚 Class-Coded Literacy Patterns](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/📚_class_coded_literacy_patterns.md)    
+> - [🧙‍♀️ Witch Logic Diagnostic](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md)  
+> - [🔮 Post-Chaos Governance Archetypes](./🔮_post_chaos_governance_archetypes.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
