@@ -153,13 +153,21 @@ near misses, non-breach incidents, risk registers, control failures, weak signal
 
 ## 🏮 Footer  
 
-*Risk Events & Near Misses Explained* is a grounding node within **🔮 Polishing Big Balls**.  
+*🔥 Risk Events & Near Misses Explained* is a grounding node within **🔮 Polishing Big Balls**.  
 It exists to clarify a layer of governance that is both routine and easily misunderstood.
 
 The presence of recorded risk events is not a failure.  
 The absence of any record at all is what warrants attention.
 
 Most systems fail slowly and quietly.  
-This is where you can see it happening — early, and without spectacle.
+This is where you can see it happening — early, and without spectacle.  
+
+> 📡 Cross-references:
+> 
+> - [💎 When Compliance Is the Answer](./💎_when_compliance_is_the_answer.md) — *why recorded risks can still indicate good governance*
+> - [🧿 Dual DPIA for Data Deals](./🧿_dual_dpia_for_data_deals.md) — *where these records often surface*
+> - [👻 When Systems Get Weird](./👻_when_systems_get_weird.md) — *how repeated near misses can feel from the outside*
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-01-08_
