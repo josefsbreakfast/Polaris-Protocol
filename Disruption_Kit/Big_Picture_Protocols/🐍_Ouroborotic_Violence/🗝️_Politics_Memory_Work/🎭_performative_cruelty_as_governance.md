@@ -1,5 +1,5 @@
 # 🎭 Performative Cruelty as Governance  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-08  
 *How spectacle, punishment, and insecurity replace legality as a source of authority.*  
 
 ---
@@ -144,8 +144,8 @@ It documents how punishment spectacle replaces legality as a source of authority
 > - [🛑 Alligator Alcatraz — Traceability Breakdown](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🛑_alligator_alcatraz_traceability_breakdown.md) — *domestic spectacle*  
 > - [🪦 CECOT as a Rights-Void Facility](../../🌀_System_Governance/👑_Ownership_Control/🪦_cecot_as_rights_void_facility.md) — *offshored spectacle*  
 > - [🧃 COGAT Is a Containment Operation](../../🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md) — *when spectacle and "just boxes" collide*  
-> - [🛑 GHF Is a Weapon](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🛑_ghf_is_a_weapon.md) — *secondary impact targets*  
+> - [🛑 GHF Is a Weapon](../🩸_Genocide_Denialism/🍉_Palestine/🛑_ghf_is_a_weapon.md) — *secondary impact targets*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-08_

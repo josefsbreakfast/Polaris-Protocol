@@ -1,5 +1,5 @@
 # ⚖️ The Architecture of Complicity — When Justice Stops at the Dock  
-**First created:** 2025-11-07 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-07 | **Last updated:** 2026-01-08  
 *How accountability is structurally routed toward individuals while sponsor power remains insulated.*  
 
 ---
@@ -190,4 +190,4 @@ It analyses how legal and political systems route blame toward individuals while
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-08_

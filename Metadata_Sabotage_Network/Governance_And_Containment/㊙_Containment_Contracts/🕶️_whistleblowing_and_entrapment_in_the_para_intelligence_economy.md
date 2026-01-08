@@ -1,5 +1,5 @@
 # 🕶️ Whistleblowing and Entrapment in the Para-Intelligence Economy  
-**First created:** 2025-11-03 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-03 | **Last updated:** 2026-01-08  
 *Why ethical refusal inside the private-intelligence industry is structurally impossible — and how that impossibility is designed.*  
 
 ---
@@ -139,10 +139,10 @@ It documents how secrecy and contract law combine to criminalise conscience and 
 
 > 📡 Cross-references:
 > 
-> - [🕸️ Interlocking Influence Economy] — structural networks of influence  
-> - [⚖️ Citizen Recourse: Private Surveillance in the UK] — civic response mechanisms  
-> - [🧩 Risk Industries and Custody Failure] — systemic opacity across sectors  
+> - [🕸️ Interlocking Influence Economy](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_interlocking_influence_economy.md) — *structural networks of influence*  
+> - [⚖️ Citizen Recourse: Private Surveillance in the UK](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/⚖️_citizen_recourse_private_surveillance_uk.md) — *civic response mechanisms*  
+> - [🧩 Risk Industries and Custody Failure](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧩_risk_industries_and_custody_failure.md) — *systemic opacity across sectors*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-01-08_

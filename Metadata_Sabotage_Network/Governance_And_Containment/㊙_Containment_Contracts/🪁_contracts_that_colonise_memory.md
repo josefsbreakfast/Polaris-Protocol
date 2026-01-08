@@ -1,5 +1,5 @@
 # 🪁 Contracts That Colonise Memory  
-**First created:** 2025-09-09 | **Last updated:** 2025-10-22  
+**First created:** 2025-09-09 | **Last updated:** 2026-01-08  
 *How NDAs reshape memory landscapes and overwrite collective recall.*  
 
 ---
@@ -151,9 +151,11 @@ It examines how contractual silence alters memory itself, embedding erasure as t
 > 📡 Cross-references:
 > 
 > - [㊙ Containment Contracts — README](./README.md)  
-> - [🏯 Governance & Containment — README](../README.md)  
-> - [🧠 Metadata Sabotage Network — README](../../README.md)  
+> - [📚 The Tenth Library](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📚_the_tenth_library.md)
+> - [🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎺_echo_punk.md)
+> - [🌱 Love Is Antifascist](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌱_love_is_antifascist.md)
+> - [🩸 The Repetition Mechanism](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-22_
+_Last updated: 2026-01-08_

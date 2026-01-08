@@ -1,5 +1,5 @@
 # ⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure  
-**First created:** 2025-10-08 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-08 | **Last updated:** 2026-01-08  
 *How redundant churches could seed civic renewal instead of grievance economies.*
 
 ---
@@ -81,4 +81,4 @@ It proposes how legal reform and civic imagination could turn redundant church p
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2026-01-08_

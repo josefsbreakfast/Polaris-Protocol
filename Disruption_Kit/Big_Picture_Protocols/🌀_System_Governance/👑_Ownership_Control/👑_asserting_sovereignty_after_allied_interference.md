@@ -1,5 +1,5 @@
 # 👑 Asserting Sovereignty After Allied Interference  
-**First created:** 2025-10-26 | **Last updated:** 2025-12-25  
+**First created:** 2025-10-26 | **Last updated:** 2026-01-08  
 *How a Five Eyes or allied state reclaims jurisdiction when another partner’s operations breach its laws or harm its citizens.*  
 
 ---
@@ -149,8 +149,9 @@ It details the legal and diplomatic mechanisms by which a state reclaims jurisdi
 > - [🌀 Containment Under Observation](../../🦕_Elder_Influencers/📜_Statutes/🌀_containment_under_observation.md)  
 > - [*Pending:* 🧿 Oversight Paralysis — When Allies Breach the Firewall]  
 > - [⚡ Escalation Triggers — When HR Fails and Oversight Must Act](../💫_Containment_Logic/⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md)  
-> - [🧩 Ideal Whitehall Response Sequence](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧩_ideal_whitehall_response_sequence.md)  
+> - [🧩 Ideal Whitehall Response Sequence](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧩_ideal_whitehall_response_sequence.md)
+> - [🌍 Israel–Five Eyes Structural Interdependency](../💫_Containment_Logic/🌍_israel_five_eyes_structural_interdependency.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-08_

@@ -1,5 +1,5 @@
 # 🦠 OpenAI UK Due Diligence & Autoimmunity Map  
-**First created:** 2025-11-05 | **Last updated:** 2025-12-26  
+**First created:** 2025-11-05 | **Last updated:** 2026-01-08  
 *Who is actually in the web, and who inherits the antibodies anyway.*  
 
 ---
@@ -174,4 +174,4 @@ It documents both the **formal institutional ties** and the **immunological spil
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-26_
+_Last updated: 2026-01-08_

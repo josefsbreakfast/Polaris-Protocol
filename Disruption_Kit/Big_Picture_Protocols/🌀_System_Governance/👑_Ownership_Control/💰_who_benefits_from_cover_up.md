@@ -1,6 +1,6 @@
 # 💰 Who Benefits from Cover-Up — Incentives for Maintaining the Apparatus  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-18  
-*Explains which actors structurally benefit from allowing the current behavioural-insight / manufactured provenance apparatus to continue without reform, focusing on present incentives rather than past harms.*
+**First created:** 2025-09-20 | **Last updated:** 2026-01-08  
+*Explains which actors structurally benefit from allowing the current behavioural-insight / manufactured provenance apparatus to continue without reform, focusing on present incentives rather than past harms.*  
 
 ---
 
@@ -79,4 +79,4 @@ It documents structural incentives for maintaining the apparatus despite known r
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-01-08_

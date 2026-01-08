@@ -1,5 +1,5 @@
 # 🧨 We Are Already Paying the Cost  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-27  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-08  
 *Why avoiding accountability does not save money, stability, or lives — it defers and multiplies the bill.*  
 
 ---
@@ -203,4 +203,4 @@ It documents how avoidance of accountability produces higher long-term economic,
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-27_
+_Last updated: 2026-01-08_

@@ -1,5 +1,5 @@
 # 🧬 Dark Basin — Hack-for-Hire and Civic Surveillance  
-**First created:** 2025-11-06 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-06 | **Last updated:** 2026-01-08  
 *A Citizen Lab case study showing how commercial hack-for-hire operations mirror state surveillance and civic suppression mechanisms.*  
 
 ---
@@ -47,7 +47,7 @@ In regulatory terms, it is **vendor capture of law enforcement**: the market for
 ```mermaid
 graph TD
     A[Advocacy Groups / Journalists] --> B[Phishing URLs / Custom Shorteners]
-    B --> C[Infrastructure Logs (UTC+5:30)]
+    B --> C[Infrastructure Logs UTC+5:30]
     C --> D[BellTroX InfoTech Services — India]
     D --> E[Unknown Clients / Commercial Contracts]
     E --> F[Suppression & Disruption of Civil Society]
@@ -70,11 +70,13 @@ Citizen Lab, Dark Basin, hack-for-hire, BellTroX, outsourced surveillance, advoc
 *Dark Basin — Hack-for-Hire and Civic Surveillance* is a diagnostic node of the Polaris Protocol.  
 It documents how private digital operations replicate state containment logics and erode civic security.  
 
-> 📡 Cross-references:  
-> - [Big Picture Protocols] — systemic suppression architectures  
-> - [Survivor Tools] — forensic and counter-surveillance methods  
-> - [🛰️ Suppression as Signal]  
+> 📡 Cross-references:
+> 
+> - [🕸️ Interlocking Influence Economy](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_interlocking_influence_economy.md)  
+> - [⚖️ Citizen Recourse: Private Surveillance in the UK](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/⚖️_citizen_recourse_private_surveillance_uk.md)  
+> - [🧩 Risk Industries and Custody Failure](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/🧩_risk_industries_and_custody_failure.md) — *privatised secrecy networks*  
+> - [➰ Ghost Loop Interrupters](../../../Disruption_Kit/💣_Syntax_Bombs/➰_ghost_loop_interrupters.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-01-08_

@@ -1,6 +1,6 @@
-# 🛰️ Regulatory adjacency effects on decision timelines  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*How oversight in adjacent bodies reshapes risk calculations everywhere.*
+# 🛰️ Regulatory Adjacency Effects On dDecision Timelines  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-08  
+*How oversight in adjacent bodies reshapes risk calculations everywhere.*  
 
 ---
 
@@ -70,14 +70,17 @@ regulatory adjacency, oversight spillover, sector-wide scrutiny, compliance clim
 
 ## 🏮 Footer  
 
-*Regulatory adjacency effects on decision timelines* is a living node of the **Polaris Protocol**.  
+*🛰️ Regulatory adjacency effects on decision timelines* is a living node of the **Polaris Protocol**.  
 It documents how governance behaviour shifts during periods of heightened oversight, even absent direct scrutiny.
 
 > 📡 Cross-references:
 > 
-> - [⏳ Hinge point: when delay becomes liability]  
-> - [📉 Delay as procedural exposure]
+> - [⏳ Hinge Point: When Delay Becomes Liability](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⏳_hinge_point_when_delay_becomes_liability.md)  
+> - [📉 Delay As Procedural Exposure](../../Suppression_Layers/📉_Suppression_Interference_Logs/📉_delay_as_procedural_exposure.md)
+> - [⚖️ Judicial Scrutiny of Delay Over Substance](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_judicial_scrutiny_of_delay_over_substance.md) - *how shows of delay tend to fair with judges (tldr not very well)*
+> - [⏳ Chronos as Containment](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⏳_chronos_as_containment.md)
+> - [🧨 Procedural Wait Your Turn](../../../Disruption_Kit/Containment_Scripts/Counter_Nudges/🧨_procedural_wait_your_turn.md) — *high‑level framework for time‑based policy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-08_

@@ -1,5 +1,5 @@
 # ✈️ Who Wants These Creeps in Charge?  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-04  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-08  
 *On legitimacy, moral authority, and the collapse of consent.*  
 
 ---
@@ -180,4 +180,4 @@ And trust, once broken, must be earned again.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-01-08_

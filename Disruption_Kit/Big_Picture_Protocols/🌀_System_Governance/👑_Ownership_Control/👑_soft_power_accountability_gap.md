@@ -1,5 +1,5 @@
 # 👑 Soft Power Accountability Gap  
-**First created:** 2025‑11‑02 | **Last updated:** 2025-12-26  
+**First created:** 2025‑11‑02 | **Last updated:** 2026-01-08  
 *The royal blind spot in Britain’s constitutional design.*  
 
 ---
@@ -106,4 +106,4 @@ soft power, constitutional blind spot, royal accountability, trust decay, britai
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-26_
+_Last updated: 2026-01-08_

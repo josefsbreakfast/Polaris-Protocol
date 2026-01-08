@@ -1,5 +1,5 @@
 # 👁️ Restoring Epistemic Integrity  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-19 | **Last updated:** 2026-01-08  
 *How institutions rebuild the ability to interpret reality after collapse — reconstructing signal literacy, narrative coherence, meaning-making, and moral sight.*  
 
 ---
@@ -226,7 +226,13 @@ Epistemic_Restoration · Institutional_Reconstruction · Narrative_Coherence · 
 
 # 🏮 Footer  
 This is the capstone of the *Institutional Collapse → Reconstruction* constellation.  
-It completes the arc that began with:
+It completes the arc that began with:  
+
+and concludes with:
+
+> **The restoration of the institution’s ability to see truthfully.**
+
+This is where Polaris ends this chapter.  
 
 > 📡 Cross-references:
 > 
@@ -240,10 +246,6 @@ It completes the arc that began with:
 > - [*Pending:* 🧱 Reconstruction Logic]  
 > - [🏗️ Corrective Governance Architecture](../💫_Containment_Logic/🏗️_corrective_governance_architecture.md)  
 
-and concludes with:
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-> **The restoration of the institution’s ability to see truthfully.**
-
-This is where Polaris ends this chapter.
-
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-08_

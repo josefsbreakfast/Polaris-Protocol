@@ -1,5 +1,5 @@
 # 📚 Memory, Market, and the Machinery of Data Exhaust  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-08  
 *How capitalism converts memory, behaviour, and cultural residue into extractable value.*  
 
 ---
@@ -203,4 +203,4 @@ It situates data exhaust within a longer history of capitalist extraction, cultu
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-08_

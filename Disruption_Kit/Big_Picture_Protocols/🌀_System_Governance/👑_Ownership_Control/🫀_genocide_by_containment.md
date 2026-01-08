@@ -1,5 +1,5 @@
 # 🫀 Genocide by Containment  
-**First created:** 2025-09-03 | **Last updated:** 2025-12-25  
+**First created:** 2025-09-03 | **Last updated:** 2026-01-08  
 *How bureaucratic disposal mechanisms escalate into genocidal practice.*  
 
 ---
@@ -74,7 +74,7 @@ containment, bureaucratic violence, disposability, asylum policy, racial hierarc
 
 ## 🏮 Footer  
 
-*Genocide by Containment* is a living node of the Polaris Protocol.  
+*🫀 Genocide by Containment* is a living node of the Polaris Protocol.  
 It documents how ordinary bureaucratic systems — housing, surveillance, counter-terror — scale into genocidal practice under the banner of procedure.  
 
 > 📡 Cross-references:
@@ -89,4 +89,4 @@ It documents how ordinary bureaucratic systems — housing, surveillance, counte
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-08_

@@ -1,7 +1,6 @@
-# 🛰️ Mandatory Training as Narrative Containment
-
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*How compulsory antisemitism and extremism training operates as ideological containment rather than protection.*
+# 🛰️ Mandatory Training as Narrative Containment  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-08  
+*How compulsory antisemitism and extremism training operates as ideological containment rather than protection.*  
 
 ---
 
@@ -100,13 +99,15 @@ mandatory training, narrative containment, antisemitism training, institutional 
 
 ## 🏮 Footer
 
-*Mandatory Training as Narrative Containment* is a living node of the **Polaris Protocol**. It analyses how compulsory training regimes can suppress understanding and reproduce harm by enforcing narrow interpretive frameworks under the guise of protection.
+*🛰️ Mandatory Training as Narrative Containment* is a living node of the **Polaris Protocol**. It analyses how compulsory training regimes can suppress understanding and reproduce harm by enforcing narrow interpretive frameworks under the guise of protection.
 
 > 📡 Cross-references:
 >
-> * [🛰️ Prevent / IHRA Misclassification Loop] — downstream effects
-> * [🧠 Good Jew / Bad Jew State Template] — identity sorting
+> - [🛰️ Prevent / IHRA Misclassification Loop](./🛰️_prevent_ihra_misclassification_loop.md) — *downstream effects*  
+> - [🧠 Good Jew / Bad Jew State Template](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧠_good_jew_bad_jew_state_template.md) — *identity sorting*
+> - [🕯️ Shabbat Is Anticapitalist](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🕯️_shabbat_is_anticapitalist.md) — *why they lie about us*  
+> - [🧿 Dependency on Western Definitions](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧿_dependancy_on_western_definitions.md) — *how and why we lie to ourselves*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+_Last updated: 2026-01-08_

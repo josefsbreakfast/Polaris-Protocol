@@ -1,5 +1,5 @@
 # 📚 Libraries, Metrics, and the One-Book Civic Hack
-**First created:** 2025-10-28 | **Last updated:** 2025-10-28  
+**First created:** 2025-10-28 | **Last updated:** 2026-01-08  
 *How to understand and tactically nourish your local library’s data ecosystem.*
 
 ---
@@ -106,17 +106,27 @@ When austerity logic says *“use it or lose it,”* the counter-nudge is: *“u
 ---
 
 ## 🌌 Constellations
-🪄 🫀 🧠 📚 — norms, care, behavioural data, community survival.
+🪄 🫀 🧠 📚 — norms, care, behavioural data, community survival.  
+*Further media:*  
+- [Libraries and Lemonade](https://www.librariesforthepeople.org/lemonade) – *well-resourced toolkit for setting up cold drinks and chatting in your community; framed as leftist, equally useful if you just think people should be able to access knowledge as a public good*
+
+---
 
 ## ✨ Stardust
 libraries, public data, behavioural metrics, civic literacy, social credit, austerity, community infrastructure, counter-nudge, digital inclusion, survivor tools
 
-## 🏮 Footer
-*Libraries, Metrics, and the One-Book Civic Hack* is a living node of the Polaris Protocol. It documents how everyday acts can manipulate bureaucratic metrics toward community survival.
+---
 
-> 📡 Cross-references:  
-> - 🪡 *Make-and-Mend Republic — Intergenerational Repair for Hard Times* (../🪡_make_and_mend_republic.md)  
-> - 🌍 *Why It All Matters — Shared Epilogue* (../🌍_why_it_all_matters_shared_epilogue.md)
+## 🏮 Footer
+*📚 Libraries, Metrics, and the One-Book Civic Hack* is a living node of the Polaris Protocol. It documents how everyday acts can manipulate bureaucratic metrics toward community survival.
+
+> 📡 Cross-references:
+> 
+> - 🪡 [Make-and-Mend Republic — Intergenerational Repair for Hard Times](./🪡_make_and_mend_republic.md)  
+> - 🌍 [Why It All Matters — Shared Epilogue](./🌍_why_it_all_matters_shared_epilogue.md)
+> - [📚 Library as Algorithmic Interface](../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📚_library_as_algorithmic_interface.md)  
+> - [📚 The Tenth Library](../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📚_the_tenth_library.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-28_
+
+_Last updated: 2026-01-08_

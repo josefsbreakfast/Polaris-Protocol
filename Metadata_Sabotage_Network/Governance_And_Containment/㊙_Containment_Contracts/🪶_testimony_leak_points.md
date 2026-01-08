@@ -1,6 +1,6 @@
 # 🪶 Testimony Leak Points  
-**First created:** 2025-10-31 | **Last updated:** 2025-10-31  
-*Where containment fractures, and truth escapes through the seams.*
+**First created:** 2025-10-31 | **Last updated:** 2026-01-08  
+*Where containment fractures, and truth escapes through the seams.*  
 
 ---
 
@@ -105,15 +105,6 @@ A full accounting of suppression must include its leaks — the negative image o
 
 ---
 
-## 📡 Cross-References  
-
-- [🧱 Silence Stack Trace](./🧱_silence_stack_trace.md) — architectural mechanisms of suppression.  
-- [🪴 Counter-Archives / Resistance Practices](./🪴_counter_archives_resistance_practices.md) — how leaks are cultivated into archives.  
-- [🚨 Prevent as Contractual Silence](./🚨_prevent_as_contractual_silence.md) — institutionalisation of pre-emptive silence.  
-- [📜 Terms of Erasement](./📜_terms_of_erasement.md) — coercive consent and erasure contracts.  
-
----
-
 ## 🌌 Constellations  
 
 ㊙ 🪶 🧱 🪴 🕳️ — The diagnostic-resistance constellation.  
@@ -132,12 +123,16 @@ testimony leak, metadata drift, humour as escape, embodied record, cultural osmo
 *🪶 Testimony Leak Points* is a living node of the Polaris Protocol.  
 It maps how truth escapes engineered silence, tracking technical, cultural, and emotional apertures that keep testimony alive despite containment.  
 
-> 📡 Cross-references:
+> 📡 Cross-References  
 > 
-> - [㊙ Containment Contracts](./README.md) — core suppression architecture  
-> - [🛠️ Disruption Kit](../../../Disruption_Kit/README.md) — counter-infrastructure and resistance practices  
+> - [🧱 Silence Stack Trace](./🧱_silence_stack_trace.md) — *architectural mechanisms of suppression*  
+> - [*Pending:* 🪴 Counter-Archives / Resistance Practices] — *how leaks are cultivated into archives*  
+> - [🚨 Prevent as Contractual Silence](./🚨_prevent_as_contractual_silence.md) — *institutionalisation of pre-emptive silence*  
+> - [📜 Terms of Erasement](./📜_terms_of_erasement.md) — *coercive consent and erasure contracts*
+> - [⚖️ Containment Contract Trace](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md)
+> - [🤡 Kompromat Own-Goals](../../Structural_Analysis/🧼_System_Leakage_Signatures/🤡_kompromat_own_goals.md)  
+> - [☔️ Leak Pattern Taxonomy — From Error to Signature](../../Structural_Analysis/🧼_System_Leakage_Signatures/☔️_leak_pattern_taxonomy.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-*The data says stable; the body disagrees.*
 
-_Last updated: 2025-10-31_
+_Last updated: 2026-01-08_

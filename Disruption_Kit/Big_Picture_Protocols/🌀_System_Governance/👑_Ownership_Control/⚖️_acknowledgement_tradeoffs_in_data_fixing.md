@@ -1,6 +1,6 @@
 # ⚖️ Acknowledgement Tradeoffs in Data Fixing
-**First created:** 2025-11-12 | **Last updated:** 2025-12-28  
-*Why institutions sometimes choose correction without confession — and what that reveals about ownership, liability, and power.*
+**First created:** 2025-11-12 | **Last updated:** 2026-01-08  
+*Why institutions sometimes choose correction without confession — and what that reveals about ownership, liability, and power.*  
 
 ---
 
@@ -510,4 +510,4 @@ It documents how governance systems balance repair against responsibility — an
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-28_
+_Last updated: 2026-01-08_

@@ -1,10 +1,10 @@
 # 💸 Let’s Make the Money Talk  
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-21 | **Last updated:** 2026-01-07  
 *OSINT field operations for making reputational laundering, compliance failure, and impunity expensive — lawfully, structurally, and survivor-aligned.*  
 
 ---
 
-## Why this exists
+## 🛰️ Why This Exists
 
 The public has already been shown that serious crimes occurred.
 What has *not* been shown — and what survivors have been systematically denied — is **clear, sustained accountability**.
@@ -22,7 +22,7 @@ This work is undertaken:
 
 ---
 
-## What this project is
+## 🧬 What This Project Is
 
 This is a **lawful, survivor-centred OSINT and public audit initiative**.
 
@@ -42,7 +42,7 @@ This project focuses on:
 
 ---
 
-## What this project is not
+## 👻 What This Project Is Not
 
 This is **not**:
 - a criminal investigation,
@@ -62,7 +62,7 @@ Those actions undermine justice and put survivors at risk.
 
 ---
 
-## Core principle: survivor sovereignty
+## 🐦‍🔥 Core Principle: Survivor Sovereignty
 
 Survivors are not evidence repositories.
 They are not public property.
@@ -78,7 +78,7 @@ This project exists to **shift the burden of accountability away from survivors 
 
 ---
 
-## Why money, compliance, and process matter
+## 💰 Why Money, Compliance, And Process Matter
 
 In situations of extreme power asymmetry, criminal accountability is often:
 - delayed,
@@ -100,7 +100,7 @@ It is **harm reduction**, and it strengthens the rule of law as a whole — incl
 
 ---
 
-## Why this matters beyond this case
+## 🩻 Why This Matters Beyond This Case
 
 The same infrastructures that enable reputational laundering also contribute to:
 - degradation of information ecosystems,
@@ -113,7 +113,7 @@ It **restores civic agency**.
 
 ---
 
-## How this work is done
+## 🫆 How This Work Is Done
 
 - We map **who benefits**, not who to blame.
 - We identify **risk environments**, not secret cabals.
@@ -126,7 +126,7 @@ The goal is to make **impunity expensive, unstable, and unsustainable**.
 
 ---
 
-## Participation and safety
+## 🦤 Participation And Safety
 
 This project values:
 - discipline over speed,
@@ -144,27 +144,33 @@ It requires **process that cannot be ignored**.
 
 ---
 
-## Closing
+## 🌋 Closing
 
 The public deserves to understand how power protects itself.
 Survivors deserve more than endurance.
 And accountability should not depend on heroism.
 
 This work proceeds slowly, carefully, and together —  
-so that justice, where it has been delayed, is no longer optional.
+so that justice, where it has been delayed, is no longer optional.  
+
+---
+
+## 🎶 To The Tune Of...  
+
+[💸 Let’s Make the Money Talk](https://open.spotify.com/playlist/2S6EwFogqlPLsk80NQW1Uh?si=XNi1J3kpSkewlEJyu-562g&pt=56e0ef9180ea3c5eaf241f95bfac5c08&pi=QYr4blsLQVmAl)  
 
 ---
 
 ## 🏮 Footer  
 
-*Let’s Make the Money Talk* is an operational folder within the **Polaris Protocol**, under **🦆 Digital_Disruption / 🛰️ OSINT_Field_Operations**.  
+*💸 Let’s Make the Money Talk* is an operational folder within the **Polaris Protocol**, under **🦆 Digital_Disruption / 🛰️ OSINT_Field_Operations**.  
 It exists to translate public disclosures into lawful public audit pressure — with survivor sovereignty as a hard constraint and financial accountability as a primary lever.  
 
 > 📡 Cross-references:
 > 
-> - [✈️ The Politics of Redaction] — disclosure as power and labour allocation  
-> - [🐦‍🔥 Survivors of the Files Deserve Better] — survivor-centred accountability baseline  
+> - [✈️ The Politics of Redaction](../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_the_politics_of_redaction.md) — *disclosure as power and labour allocation*  
+> - [🐦‍🔥 Survivors of the Files Deserve Better](../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🐦‍🔥_survivors_of_the_files_deserve_better.md) — *survivor-centred accountability baseline*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-01-07_

@@ -1,5 +1,5 @@
 # ㊙ Containment Contracts  
-**First created:** 2025-09-06 | **Last updated:** 2025-10-08  
+**First created:** 2025-09-06 | **Last updated:** 2026-01-08  
 *Terms of erasure, NDA dragnets, and the architectures that monetise silence.*  
 
 ---
@@ -49,13 +49,13 @@ from infrastructure and economy, through trade and memory, to dragnet and satire
 
 ## 🔬 Visuals & Evidence  
 
-- [![💸 Risk Matrix — Cost of a Closed Mouth](./risk_matrix_cost_closed_mouth.png)](./risk_matrix_cost_closed_mouth.png)  
+- [💸 Risk Matrix — Cost of a Closed Mouth](./risk_matrix_cost_closed_mouth.png)  
   *Probability vs impact of silence enforcement across sectors.*  
 
-- [![📉 Cumulative Cost Drag Curve](./drag_curve_closed_mouth.png)](./drag_curve_closed_mouth.png)  
+- [📉 Cumulative Cost Drag Curve](./drag_curve_closed_mouth.png)  
   *Ten-year horizon of systemic economic stagnation caused by hush mechanisms.*  
 
-- [![📊 Sector-Sliced Drag Curve](./sector_drag_curve_closed_mouth.png)](./sector_drag_curve_closed_mouth.png)  
+- [📊 Sector-Sliced Drag Curve](./sector_drag_curve_closed_mouth.png)  
   *Comparative analysis of hush payouts versus innovation losses in STEM, luxury, AI exports, and governance trust.*  
 
 ---
@@ -92,9 +92,9 @@ It acts as the *contractual and memory substrate* for the wider **Metadata Sabot
 
 Findings from this cluster inform the **Disruption Kit**, where strategies for counter-infrastructure, survivor data sovereignty, and community-led transparency tools are developed.  
 Key downstream implementations:  
-- [🩸 Genocide Denialism](../../../Disruption_Kit/Big_Picture_Protocols/🩸_Genocide_Denialism/README.md) — *refusal strategies for systemic containment.*  
-- [🧠 HM Dept. Coercive Nudges](../../../Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural governance parallels.*  
-- [💸 Money Listens](../../../Disruption_Kit/Big_Picture_Protocols/💸_Money_Listens/README.md) — *economic mirrors to containment logics.*  
+- [🩸 Genocide Denialism](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/README.md) — *refusal strategies for systemic containment.*  
+- [🧠 HM Dept. Coercive Nudges](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural governance parallels.*  
+- [💸 Money Listens](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/README.md) — *economic mirrors to containment logics.*  
 
 ---
 
@@ -113,7 +113,7 @@ nda, gag clauses, containment logic, governance suppression, systemic silence, s
 
 ## 🏮 Footer  
 
-*Containment Contracts* is a living node of the Polaris Protocol.  
+*㊙ Containment Contracts* is a living node of the Polaris Protocol.  
 It documents how contractual containment evolves into a totalising architecture of governance — and the counter-archives that resist it.  
 
 > 📡 Cross-references:
@@ -124,4 +124,4 @@ It documents how contractual containment evolves into a totalising architecture 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2026-01-08_

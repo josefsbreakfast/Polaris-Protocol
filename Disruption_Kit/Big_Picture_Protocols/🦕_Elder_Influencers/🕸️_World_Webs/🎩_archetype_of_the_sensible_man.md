@@ -1,5 +1,5 @@
 # 🎩 Archetype of the Sensible Man  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-16 | **Last updated:** 2026-01-08  
 *Why certain men are culturally coded as “safe, boring, stable” — and how this archetype functions as a counterweight to chaos, danger, or class-coded suspicion.*  
 
 ---
@@ -175,6 +175,8 @@ Although not enough merch of the Downing Street cats, tbqh.-->
 
 <!--"Larry has lived at 10 Downing Street during the premierships of six prime ministers" is giving "I have been Queen barely 10 years. I have had 3 Prime Ministers, and not one has lasted the course" energy.-->
 
+Very important new year's update: [we have the Jojo-Prince-Larry beef](https://vm.tiktok.com/ZNRr5WGBQ/). This will function as explaination for sub-optimal rhetorical treatment of Larry in earlier examples.  
+
 ---
 
 ## ✨ Stardust  
@@ -184,14 +186,14 @@ sensible man, chaotic man, class-coded archetypes, cultural stability scripts, s
 
 ## 🏮 Footer  
 
-*Archetype of the Sensible Man* is a Polaris archetype-analysis node mapping how certain men become symbols of stability in cultures recovering from chaos — and why survivors may find this archetype somatically reassuring without romantic interest.
+*🎩Archetype of the Sensible Man* is a Polaris archetype-analysis node mapping how certain men become symbols of stability in cultures recovering from chaos — and why survivors may find this archetype somatically reassuring without romantic interest.
 
 Pairs with:
 
-- **📚 Class-Coded Literacy Patterns**  
-- **🧙‍♀️ Witch Logic Diagnostic**  
-- **🔮 Post-Chaos Governance Archetypes**
+> - [📚 Class-Coded Literacy Patterns](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/📚_class_coded_literacy_patterns.md)    
+> - [🧙‍♀️ Witch Logic Diagnostic](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md)  
+> - [🔮 Post-Chaos Governance Archetypes](./🔮_post_chaos_governance_archetypes.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-08_

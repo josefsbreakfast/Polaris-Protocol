@@ -1,6 +1,6 @@
 # 🤫 Collective Risk Silence Loop  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-22  
-*How shared liability exposure produces sector-wide silence without explicit coordination.*
+**First created:** 2025-11-12 | **Last updated:** 2026-01-08  
+*How shared liability exposure produces sector-wide silence without explicit coordination.*  
 
 ---
 
@@ -166,10 +166,10 @@ It provides a governance-level framework for understanding how silence becomes c
 
 > 📡 Cross-references:
 > 
-> - [🕳️ Absence as Signal](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕳️_absence_as_signal.md) — silence as telemetry  
-> - [🧬 Twinning as Visibility Elevation](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_twinning_as_visibility_elevation.md) — displacement without deletion  
-> - [👑 Ownership & Control](./README.md) — structural power analysis  
+> - [🕳️ Absence as Signal](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕳️_absence_as_signal.md) — *silence as telemetry*  
+> - [🧬 Twinning as Visibility Elevation](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_twinning_as_visibility_elevation.md) — *displacement without deletion*  
+> - [👑 Ownership & Control](./README.md) — *structural power analysis*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2026-01-08_

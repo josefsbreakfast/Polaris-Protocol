@@ -1,5 +1,5 @@
 # 🐙 The Octopus of Knowledge  
-**First created:** 2025-12-16 | **Last updated:** 2025-12-16  
+**First created:** 2025-12-16 | **Last updated:** 2026-01-08  
 *How knowledge feeds, digests, and distributes itself outside silos.*
 
 ---
@@ -378,10 +378,10 @@ It provides a biological and structural model for understanding how insight emer
 
 > 📡 Cross-references:
 > 
-> - [🐝 All In Commons](../🐝_All_In_Commons/) — shared infrastructure for collective work  
-> - [🌿 The Maths of Life](../🌿_the_maths_of_life.md) — structural convergence  
-> - [🧬 Data as Protein Folding](../🧬_data_as_protein_folding.md) — emergence under constraint  
+> - [🐝 All In Commons] (../🐝_All_In_Commons/) — shared infrastructure for collective work  
+> - [🌿 The Maths of Life] (./🌿_the_maths_of_life.md) — structural convergence  
+> - [🧬 Data as Protein Folding] (./🧬_data_as_protein_folding.md) — emergence under constraint  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-16_
+_Last updated: 2026-01-08_

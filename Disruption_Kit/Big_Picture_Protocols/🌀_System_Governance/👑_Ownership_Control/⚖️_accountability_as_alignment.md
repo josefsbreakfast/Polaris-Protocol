@@ -1,5 +1,5 @@
 # ⚖️ Accountability as Alignment  
-**First created:** 2025-11-05 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-05 | **Last updated:** 2026-01-08  
 *Why justice work becomes training data for moral alignment.*  
 
 ---
@@ -112,4 +112,4 @@ justice as negative reward, prosecution as data hygiene, and memory as a moral g
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-08_

@@ -1,5 +1,5 @@
 # 🧭 Data Slip → Narrative Spiral  
-**First created:** 2025-12-02 | **Last updated:** 2026-01-04  
+**First created:** 2025-12-02 | **Last updated:** 2026-01-06  
 *A concise, reader-facing case study of a clerical error, its political
 inflation, and the genocide‑prevention duties obscured in public
 debate.*
@@ -208,7 +208,8 @@ The clerical error is a distraction from the bigger truth.
 genocide‑prevention ethics; operational literacy; demographic risk.  
 
 *Further media:*  
-- [NoJustice covers ongoing alt-right X discourse around bans of Maccabi Tel Aviv, via TikTok](https://vm.tiktok.com/ZNRMaVFsc/) - *anyone in the UK using "the demands of the Islamists" framing for anything that isn't a list of demands from someone of that soecific political ideology, is high risk for being closet antisemite, if the closet was made of glass. Same orientalism, different target.*  
+- [NoJustice covers ongoing alt-right X discourse around bans of Maccabi Tel Aviv, via TikTok](https://vm.tiktok.com/ZNRMaVFsc/) - *anyone in the UK using "the demands of the Islamists" framing for anything that isn't a list of demands from someone of that soecific political ideology, is high risk for being closet antisemite, if the closet was made of glass. Same orientalism, different target.*
+- [Clip: Discussing OSINT error which produced mistake in reporting](https://vm.tiktok.com/ZNRrFjg2o/) – *imagine if sexual violence and child safeguarding reports got this degree of scrutiny from MPs...*  
 
 ---
 
@@ -235,4 +236,4 @@ symbolic geopolitics and genocide‑prevention duties.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-01-06_

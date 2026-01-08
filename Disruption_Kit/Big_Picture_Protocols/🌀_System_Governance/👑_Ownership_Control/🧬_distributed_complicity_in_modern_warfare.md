@@ -1,5 +1,5 @@
 # 🧬 Distributed Complicity In Modern Warfare  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-27  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-08  
 *How contemporary conflict fragments agency while concentrating harm.*  
 
 ---
@@ -169,4 +169,4 @@ It exists to explain why harm persists even when no one claims authorship, and w
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-27_
+_Last updated: 2026-01-08_

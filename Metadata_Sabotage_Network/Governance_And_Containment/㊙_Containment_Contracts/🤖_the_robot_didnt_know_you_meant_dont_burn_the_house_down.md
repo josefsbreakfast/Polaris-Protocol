@@ -1,6 +1,6 @@
 # 🤖 The Robot Didn’t Know You Meant “Don’t Burn the House Down”  
-**First created:** 2025-12-13 | **Last updated:** 2025-12-13  
-*How literal optimisation and silent omission create catastrophic governance blind spots*
+**First created:** 2025-12-13 | **Last updated:** 2026-01-08  
+*How literal optimisation and silent omission create catastrophic governance blind spots.*  
 
 ---
 
@@ -513,3 +513,4 @@ Now we do.
 ---
 
 
+_Last updated: 2026-01-08_

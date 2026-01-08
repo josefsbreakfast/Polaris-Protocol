@@ -1,6 +1,6 @@
 # 🧱 Silence Stack Trace  
-**First created:** 2025-10-31 | **Last updated:** 2025-10-31  
-*Tracing how silence is coded, logged, and inherited across the technical stack.*
+**First created:** 2025-10-31 | **Last updated:** 2026-01-08  
+*Tracing how silence is coded, logged, and inherited across the technical stack.*  
 
 ---
 
@@ -110,16 +110,7 @@ A system that cannot log its own omissions becomes **epistemically closed**.
 Policy audits read like success reports; training data becomes its own proof.  
 This is not malfunction — it’s maintenance.  
 Each upgrade renews the containment contract in code form,  
-ensuring that future systems inherit the same soft erasures as stability features.
-
----
-
-## 📡 Cross-References  
-
-- [🕸️ Dragnet as Default](./🕸️_dragnet_as_default.md) — when silencing becomes baseline.  
-- [📜 Terms of Erasement](./📜_terms_of_erasement.md) — digital erasure and coercive consent.  
-- [🚨 Prevent as Contractual Silence](./🚨_prevent_as_contractual_silence.md) — institutional mirror of technical containment.  
-- [🧠 HM Dept. Coercive Nudges](../../../Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md) — behavioural echo of stack compliance.  
+ensuring that future systems inherit the same soft erasures as stability features.  
 
 ---
 
@@ -141,11 +132,14 @@ silence stack, logging omissions, compliance wrapper, moderation filter, haunted
 *🧱 Silence Stack Trace* is a living node of the Polaris Protocol.  
 It maps how digital infrastructure encodes omission as a design principle, tracing silence through the full technical stack — from user input to institutional update.  
 
-> 📡 Cross-references:  
-> - [㊙ Containment Contracts](./README.md) — counter-infrastructure and audit tools  
+> 📡 Cross-references:
+> 
+> - [㊙ Containment Contracts](./README.md) — *counter-infrastructure and audit tools*  
+> - [🕸️ Dragnet as Default](./🕸️_dragnet_as_default.md) — *when silencing becomes baseline*
+> - [📜 Terms of Erasement](./📜_terms_of_erasement.md) — *digital erasure and coercive consent*
+> - [🚨 Prevent as Contractual Silence](./🚨_prevent_as_contractual_silence.md) — *institutional mirror of technical containment*
+> - [🧠 HM Dept. Coercive Nudges](../../../Disruption_Kit/Big_Picture_Protocols/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural echo of stack compliance*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-*The system logs no error; the silence executes cleanly.*
 
-
-_Last updated: 2025-10-31_
+_Last updated: 2026-01-08_

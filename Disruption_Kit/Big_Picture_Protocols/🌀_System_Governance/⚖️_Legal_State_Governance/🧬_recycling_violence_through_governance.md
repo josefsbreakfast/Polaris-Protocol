@@ -1,5 +1,5 @@
 # 🧬 Classification as Extraction: Recycling Violence Through Governance Systems  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-17  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-08  
 *How data extracted under occupation is recycled into UK governance via classification, misclassification, and dual-use systems.*  
 
 ---
@@ -185,10 +185,10 @@ It documents how coercively extracted data and classificatory logics are sanitis
 
 > 📡 Cross-references:
 > 
-> - [🛑 GHF Is a Weapon](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🛑_ghf_is_a_weapon.md)  — *post-ceasefire pacification mechanics*  
+> - [🛑 GHF Is a Weapon](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/🛑_ghf_is_a_weapon.md)  — *post-ceasefire pacification mechanics*  
 > - [*Pending:* 🧪 Occupation as R&D Environment] — *extractive testing grounds for dual-use systems*  
 > - [🧿 Targeting Logic Metadata Signatures](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README.md) — *how populations become legible as risk*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-17_
+_Last updated: 2026-01-08_

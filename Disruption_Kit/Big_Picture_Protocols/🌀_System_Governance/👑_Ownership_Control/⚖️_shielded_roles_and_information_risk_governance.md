@@ -1,6 +1,6 @@
 # ⚖️ Shielded Roles and Information Risk Governance  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-29  
-*Why anonymity in core risk roles can enable transparency — and how the system fails to support it.*
+**First created:** 2025-11-12 | **Last updated:** 2026-01-08  
+*Why anonymity in core risk roles can enable transparency — and how the system fails to support it.*  
 
 ---
 
@@ -176,10 +176,10 @@ It examines how anonymity, risk ownership, and transparency interact within defe
 > 📡 Cross-references:
 > 
 > - [⚖️ Official Secrets Reform and Accountability](../⚖️_Legal_State_Governance/⚖️_official_secrets_reform_and_accountability.md)  
-> - [🪖 Applied Demolition Science and the GCSE Problem](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🪖_applied_demolition_science_and_the_gcse_problem.md)
-> - [🪖 Collateral Shame: Moral Injury, Veterans, & the Counterinsurgency Age](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪖_collateral_shame.md)
-> - [*Pending:* 🪖 How Politicians Legally Strangle the MOD (in Real-Lives Terms)]  
+> - [🪖 Applied Demolition Science and the GCSE Problem](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🪖_applied_demolition_science_and_the_gcse_problem.md)  
+> - [🪖 Collateral Shame: Moral Injury, Veterans, & the Counterinsurgency Age](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪖_collateral_shame.md)  
+> - [🪖 How Politicians Legally Strangle the MOD (in Real-Lives Terms)](../⚖️_Legal_State_Governance/🪖_how_politicians_legally_strangle_the_mod.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-01-08_

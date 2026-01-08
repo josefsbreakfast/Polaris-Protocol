@@ -1,5 +1,5 @@
 # 👾 The Digital Torture Chamber  
-**First created:** 2025-12-08 | **Last updated:** 2025-12-08  
+**First created:** 2025-12-08 | **Last updated:** 2026-01-08  
 *When a person’s reality is rewritten through hostile environmental control, and there is nowhere to appeal.*
 <!--Get me out of the box.-->
 ---
@@ -417,10 +417,10 @@ It documents how environmental manipulation of digital signals can trap an indiv
 
 > 📡 Cross-references:
 > 
-> - [🦒 Structural Analysis] — how systems internalise and replicate contaminated signals.  
-> - [🧠 Big Picture Protocols] — governance failures enabling emergent cruelty.  
-> - [Survivor Tools] — developing countermeasures where possible.  
+> - [⚖️ Citizen Recourse: Private Surveillance in the UK](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/⚖️_citizen_recourse_private_surveillance_uk.md)  
+> - [🌶️ WHOQOL-BREF Surveillance Impact Scoring](../../../🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🌶️_WHOQOLBREF_surveillance_impact_scoring.md)  
+> - [🧠 Context Deprivation Effect](../../../🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_context_deprivation_effect.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-01-08_

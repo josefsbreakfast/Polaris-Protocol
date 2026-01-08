@@ -1,5 +1,5 @@
 # 🧿 UK Persuasion Engine on Palestine  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-03 | **Last updated:** 2026-01-08  
 *Mapping the UK ecosystem of reputational suppression, smear tactics, and discrediting campaigns around Palestine.*  
 
 ---
@@ -138,7 +138,7 @@ UK persuasion engine, smear campaigns, Palestine speech suppression, discreditin
 
 ## 🏮 Footer  
 
-*UK Persuasion Engine on Palestine* is a living node of the Polaris Protocol.  
+*🧿 UK Persuasion Engine on Palestine* is a living node of the Polaris Protocol.  
 It documents how reputational suppression in Britain functions through convergence across NGOs, newspapers, and whisper networks, distinct from the more centralised US doxing vehicles.  
 It also logs perceptions of **external or opaque influence** — “fingerprints on the glass” — that may shape tactics without clear accountability, including speculative drifts toward Christian Zionist or white-supremacist influence patterns, and historical timeline alignments around Iran policy.  
 
@@ -147,8 +147,9 @@ It also logs perceptions of **external or opaque influence** — “fingerprints
 > - [🧠 Bargain Bin Mossad](./🧠_bargain_bin_mossad.md)  
 > - [🫛 Amplification by Convergence](./🫛_amplification_by_convergence.md)  
 > - [🪬 Authoritarianism Beyond Left Right](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_authoritarianism_beyond_left_right.md)  
-> - [📱 Feed Manipulation and Containment Theatre](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📱_feed_manipulation_and_containment_theatre.md)  
+> - [📱 Feed Manipulation and Containment Theatre](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📱_feed_manipulation_and_containment_theatre.md)
+> - [🪁 Contracts That Colonise Memory](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🪁_contracts_that_colonise_memory.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-01-08_
