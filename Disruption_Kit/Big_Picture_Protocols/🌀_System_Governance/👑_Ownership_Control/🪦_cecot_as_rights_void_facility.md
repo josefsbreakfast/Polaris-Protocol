@@ -1,5 +1,5 @@
 # 🪦 CECOT as a Rights-Void Facility  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-08  
 *Why offshored detention collapses safeguards even without explicit illegality.*  
 
 ---
@@ -155,4 +155,4 @@ It documents how offshored detention collapses enforceable rights while preservi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-08_
