@@ -121,7 +121,7 @@ It contributes a non-carceral, non-preachy model for restoring humane norms in d
 > 📡 Cross-references:
 > 
 > - [🍄 Meme Laundering Pipelines](../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🍄_meme_laundering_pipelines.md) — *how harm is aestheticised*  
-> - [🌱 Plantseer](./🌱_plantseer_data_mining_cooperative.md) — *pattern detection framework*  
+> - [🌱 Plantseer](./🌱_plantseer_data_mining_coop.md) — *pattern detection framework*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
