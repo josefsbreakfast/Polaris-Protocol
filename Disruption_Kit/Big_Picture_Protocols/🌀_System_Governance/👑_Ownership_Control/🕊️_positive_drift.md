@@ -1,5 +1,5 @@
 # 🕊️ Positive Drift — Leadership Shifts in Counter-Terrorism and Heritage-Aligned Governance  
-**First created:** 2025-11-08 | **Last updated:** 2025-12-27  
+**First created:** 2025-11-08 | **Last updated:** 2026-01-08  
 *Small rotations that change the tone of an entire field.*  
 
 ---
@@ -75,4 +75,4 @@ It logs incremental reform — the kind that rarely makes headlines but quietly 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-27_
+_Last updated: 2026-01-08_
