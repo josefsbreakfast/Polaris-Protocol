@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-08 03:46:18 UTC_
+_Generated on 2026-01-08 03:48:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4629,6 +4629,8 @@ _Generated on 2026-01-08 03:46:18 UTC_
         - [`📗_sar_inferred_data_request.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/📑_templates/📗_sar_inferred_data_request.md)
         - [`📘_vendor_transparency_request.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/📑_templates/📘_vendor_transparency_request.md)
         - [`📙_comparison_grid_blank.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/📑_templates/📙_comparison_grid_blank.md)
+      - [**🔖_notes/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🔖_notes/)
+        - [`🪻_language_to_use_when_calm.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🔖_notes/🪻_language_to_use_when_calm.md)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/README.md)
       - [`🍹_comparison_grid_template.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🍹_comparison_grid_template.md)
       - [`👻_when_systems_get_weird.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/👻_when_systems_get_weird.md)
