@@ -65,6 +65,12 @@ neutral phrasing, scope setting, calm precision, friction reduction
 It exists to make lawful curiosity easier to sustain — and harder to misread.
 
 Clear language keeps the work boring.  
-Boring is good.
+Boring is good.  
+
+> 📡 Cross-references:
+> 
+> - [👻 When Systems Get Weird](../👻_when_systems_get_weird.md) — *using calm language under friction*
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-01-08_
