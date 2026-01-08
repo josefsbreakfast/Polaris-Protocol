@@ -1,5 +1,5 @@
 # 🌍 Cross-Border Bias Propagation in Surveillance Models  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-18 | **Last updated:** 2026-01-08  
 *How racialised behavioural data moves between states, vendors, and security ecosystems, reproducing discriminatory logic across borders.*  
 
 ---
@@ -180,4 +180,4 @@ Together, they map the **cross-border circulation of racialised data**, the frag
 > - [🧬 Proto-Secret-Police Architecture](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_proto_secret_police_architecture.md)  
 > - [🧠 Early Secret Police Architecture](../⚖️_Legal_State_Governance/🧠_early_secret_police_architecture.md)  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-08_
