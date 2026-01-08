@@ -1,5 +1,5 @@
 # 🕸️ Dragnet as Default  
-**First created:** 2025-09-09 | **Last updated:** 2025-10-22  
+**First created:** 2025-09-09 | **Last updated:** 2026-01-08  
 *When isolated silencing becomes the default operating mode across systems.*  
 
 ---
@@ -131,9 +131,9 @@ It maps how containment practices expand until silence itself becomes the assume
 > 📡 Cross-references:
 > 
 > - [㊙ Containment Contracts — README](./README.md)  
-> - [🏯 Governance & Containment — README](../README.md)  
-> - [🧠 Metadata Sabotage Network — README](../../README.md)  
+> - [🪅 Platform Safe Zones & Shadowbans](../../Suppression_Layers/📉_Suppression_Interference_Logs/🪅_platform_safe_zones_and_shadowbans.md)  
+> - [🌾 Possibly Poetry Pipeline](../../Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🌾_possibly_poetry_pipeline.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-22_
+_Last updated: 2026-01-08_
