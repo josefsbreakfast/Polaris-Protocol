@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-08 09:58:03 UTC_
+_Generated on 2026-01-08 12:01:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1100,6 +1100,7 @@ _Generated on 2026-01-08 09:58:03 UTC_
         - [`natcon_speakers_2023_2025_full.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/natcon_speakers_2023_2025_full.csv)
         - [`☄️_ww3_started_years_ago.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/☄️_ww3_started_years_ago.md)
         - [`♻️_declining_ore_grades_and_the_end_of_substitution_myths.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/♻️_declining_ore_grades_and_the_end_of_substitution_myths.md)
+        - [`⚓️_fur_coat_no_knickers.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚓️_fur_coat_no_knickers.md)
         - [`⚖️_contingent_conservatism_and_long_horizon_politics.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_contingent_conservatism_and_long_horizon_politics.md)
         - [`⚖️_soft_power_without_soft_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_soft_power_without_soft_accountability.md)
         - [`⚖️_surveillance_osa_citizen_forking_meganode.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_surveillance_osa_citizen_forking_meganode.md)
