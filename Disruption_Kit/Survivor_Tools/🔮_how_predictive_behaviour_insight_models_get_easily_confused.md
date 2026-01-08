@@ -135,9 +135,10 @@ It contributes forensic analysis of epistemic failure in analytics systems used 
 
 > 📡 Cross-references:
 > 
-> - [🧠 Big Picture Protocols] (../Disruption_Kit/Big_Picture_Protocols/) — systemic analysis  
-> - [🛰️ Metadata Sabotage Network] (../Metadata_Sabotage_Network/) — inference and suppression patterns  
-> - [⚙️ Disruption Kit] (../Disruption_Kit/) — practical diagnostics and counter-analysis
+> - [🔮 Dual DPIA the Deals](./🔮_dual_dpia_the_deals.md)  
+> - [🔮 Why the Funniest Gotcha Is Always Legally Compliant](./🔮_why_the_funniest_gotcha_is_always_legally_compliant.md)  
+> - [🔮 Paper Trails for Paper Tigers](./🔮_paper_trails_for_paper_tigers.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
