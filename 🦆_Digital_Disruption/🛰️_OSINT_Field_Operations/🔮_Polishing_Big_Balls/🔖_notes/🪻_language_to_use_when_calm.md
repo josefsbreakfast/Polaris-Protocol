@@ -70,6 +70,7 @@ Boring is good.
 > 📡 Cross-references:
 > 
 > - [👻 When Systems Get Weird](../👻_when_systems_get_weird.md) — *using calm language under friction*
+> - [🏮 AntiContainment Clauses](../../../../Disruption_Kit/🏮_AntiContainment_Clauses/README.md) — *why a pen is a sword*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
