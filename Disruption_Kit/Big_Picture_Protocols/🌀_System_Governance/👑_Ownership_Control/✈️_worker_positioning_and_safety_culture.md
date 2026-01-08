@@ -1,5 +1,5 @@
 # ✈️ Worker Positioning & Safety Culture  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-12 | **Last updated:** 2026-01-08  
 *Why proximity to harm shapes ethics — and why some industries learn while others externalise.*  
 
 ---
@@ -139,4 +139,4 @@ It explains why harm prevention depends less on individual intent than on how re
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-08_
