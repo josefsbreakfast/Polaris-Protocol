@@ -241,9 +241,14 @@ This node is:
 - adaptable to FOI/SAR regimes  
 - designed for calm, lawful scrutiny  
 
-It is a **lens**, not a weapon.
+It is a **lens**, not a weapon.  
+
 
 ---
+
+## 🏮 Footer  
+
+*🔮  Dual DPIA the Deals* is a living node of the **Polaris Protocol**.  
 
 > 📡 Cross-references:
 > 
@@ -251,3 +256,7 @@ It is a **lens**, not a weapon.
 > - [🔮 Why the Funniest Gotcha Is Always Legally Compliant](./🔮_why_the_funniest_gotcha_is_always_legally_compliant.md)  
 > - [🔮 Paper Trails for Paper Tigers](./🔮_paper_trails_for_paper_tigers.md)  
 
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-08_
