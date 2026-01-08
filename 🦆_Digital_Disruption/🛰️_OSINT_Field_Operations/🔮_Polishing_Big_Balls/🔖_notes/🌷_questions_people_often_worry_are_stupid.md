@@ -62,10 +62,17 @@ obvious questions, permission to ask, clarity over cleverness, demystifying conf
 
 ## 🏮 Footer  
 
-*Questions People Often Worry Are “Stupid”* is a reassurance note within **🔮 Polishing Big Balls**.  
+*🌷 Questions People Often Worry Are “Stupid”* is a reassurance note within **🔮 Polishing Big Balls**.  
 It exists to normalise curiosity and reduce self-censorship when dealing with confident systems.
 
 If a question feels basic, it’s probably structural.  
 Structural questions are rarely stupid.
+
+> 📡 Cross-references:
+> 
+> - [🧭 Controller vs Processor: A Quick Map](../🧭_controller_vs_processor_quick_map.md) — *why basic role questions matter*
+> - [🗺 Checking a Public Data Service](../🗺_checking_a_public_data_service.md) — *where simple questions belong*
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-01-08_
