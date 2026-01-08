@@ -181,7 +181,7 @@ parallel requests, DPIA ownership, narrowing tactics, inferred data disclosure, 
 
 ## 🏮 Footer  
 
-*Dual DPIA the Data Deals (Government Contracting Edition)* is a core method node within **🔮 Polishing Big Balls**.  
+*🧿 Dual DPIA the Data Deals (Government Contracting Edition)* is a core method node within **🔮 Polishing Big Balls**.  
 It exists to help people check whether public data contracts are governed as promised, without assuming failure or escalating prematurely.
 
 The method relies on steadiness, specificity, and comparison — not confrontation.  
@@ -189,6 +189,16 @@ Where safeguards exist, the correct response is confidence.
 Where gaps appear, the next steps remain optional and proportionate.
 
 This is paperwork work.  
-It works best when it stays boring.
+It works best when it stays boring.  
+
+> 📡 Cross-references:
+> 
+> - [🍹 Comparison Grid Template](./🍹_comparison_grid_template.md) — *the practical tool for comparing responses*
+> - [🔥 Risk Events & Near Misses Explained](./🔥_risk_events_near_misses_explained.md) — *why “no breach” does not mean “no issue”*
+> - [💎 When Compliance Is the Answer](./💎_when_compliance_is_the_answer.md) — *recognising when governance is sound and stopping is appropriate*
+> - [👻 When Systems Get Weird](./👻_when_systems_get_weird.md) — *staying regulated during the process*
+> - [🪖💄 What Do We Do If It’s a Charlie Foxtrot](./🪖💄_what_do_we_do_if_its_a_charlie_foxtrot.md) — *only if the method consistently fails*
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-01-08_
