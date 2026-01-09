@@ -12,7 +12,7 @@ It situates recent federal violence within a longer structural arc of American s
 
 ---
 
-## 🧠 What “Rapid Schmittian Capture” Means  
+## 🔥 What “Rapid Schmittian Capture” Means  
 
 Carl Schmitt’s theory of sovereignty hinges on a simple proposition:  
 > *Sovereign is he who decides on the exception.*
@@ -33,7 +33,7 @@ The United States does not meet these conditions.
 
 ---
 
-## 🧱 The American Constraint Stack  
+## 🏛️ The American Constraint Stack  
 
 Attempts to force Schmittian acceleration in the US collide with a dense constraint stack:
 
@@ -85,7 +85,7 @@ This is the failure mode of rapid Schmittian capture in plural systems:
 
 ---
 
-## 🔄 Counter-Force Activation  
+## 🪄 Counter-Force Activation  
 
 Crucially, contemporary resistance is not improvised.
 
@@ -107,7 +107,7 @@ This asymmetry favours resistance over acceleration.
 
 ---
 
-## 🧩 The Authoritarian Trap  
+## 🗳️ The Authoritarian Trap  
 
 Rapid capture strategies now face a narrowing set of options:
 
