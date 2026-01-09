@@ -1,5 +1,5 @@
 # ⚖️ UK Data Claim Routes and Limits  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-24  
+**First created:** 2025-11-02 | **Last updated:** 2026-01-09  
 *ICO, Small‑Claims, and Multi‑Track explained – a civic guide to UK data‑rights pathways.*  
 
 ---
@@ -100,4 +100,4 @@ uk data rights, ico complaints, small claims track, multi track litigation, data
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-09_
