@@ -1,6 +1,6 @@
 # 🇷🇺 The End of Russia’s Camp Era  
 **First created:** 2025-11-20 | **Last updated:** 2026-01-09  
-*How Russia moved from flamboyant, theatrical soft power to bunker-grey authoritarianism — and why the Alexandrov Ensemble crash marks the point of no return.*
+*How Russia moved from flamboyant, theatrical soft power to bunker-grey authoritarianism — and why the Alexandrov Ensemble crash marks the point of no return.*  
 
 ---
 
@@ -127,9 +127,11 @@ It documents how aesthetic systems collapse alongside political legitimacy — a
 
 > 📡 Cross-references:
 > 
-> - **🦕 Elder Influencers** — legacy elites and charisma decay  
-> - **🎞️ Authoritarian Aesthetics Collapse Curve** — phase-based degradation model  
-> - **🌀 Systems & Governance** — paranoia, rigidity, and late-stage control  
+> - [🍿 Imperial Core Drama Cycle](../../🌀_System_Governance/📚_Narrative_Management/🍿_imperial_core_drama_cycle.md)  
+> - [🎞️ Authoritarian Aesthetics Collapse Curve](../../🌀_System_Governance/📚_Narrative_Management/🎞️_authoritarian_aesthetics_collapse_curve.md) — *phase-based degradation model*  
+> - [🎪 Not Even a Mole To Be Found](../../🌀_System_Governance/📚_Narrative_Management/🎪_not_even_a_mole_to_be_found.md)
+> - [💸 Russian Overlap Patterns](./💸_russian_overlap_patterns.md)
+> - [⚔️ War on Woke as Containment Architecture](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
