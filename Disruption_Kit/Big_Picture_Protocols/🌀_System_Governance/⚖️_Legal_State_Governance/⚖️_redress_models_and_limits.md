@@ -1,5 +1,5 @@
 # ⚖️ Redress Models and Limits  
-**First created:** 2025-09-26 | **Last updated:** 2025-12-24  
+**First created:** 2025-09-26 | **Last updated:** 2026-01-09  
 *Learning from UK precedents to frame hybrid compensation for systemic harms.*  
 
 ---
@@ -62,4 +62,4 @@ It documents why hybrid models are suitable for systemic data-twin/false-provena
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-09_
