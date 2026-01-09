@@ -1,5 +1,5 @@
 # 📺 Platforming as Soft Power Capture  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-22 | **Last updated:** 2026-01-09  
 *Why who is given airtime, legitimacy, and repetition matters more than formal appointments in modern influence environments.*  
 
 ---
@@ -139,18 +139,7 @@ They:
 - amplify tolerated harm,
 - and determine which actors can act with cover.
 
-Unexamined platform power creates **systemic fragility**.
-
----
-
-## 📡 Cross-References
-
-- 🎖️ Training the Old Guard as Force Protection — who shapes interpretation  
-- 🧨 Certainty Merchants and Security-Adjacent Amplifiers — narrative acceleration  
-- 🐉 It’s Not Always Daddy Dragon — comfort-villain fixation  
-- 🧿 Attribution as Narrative Attack Surface — spoofable certainty  
-- 🦴 Tolerance Thresholds as Load Management — absorbed harm  
-- 🦑 CRAKEN System — reflexive load mapping  
+Unexamined platform power creates **systemic fragility**.  
 
 ---
 
@@ -160,7 +149,14 @@ Unexamined platform power creates **systemic fragility**.
 It exists to ensure that media infrastructure is analysed as part of the threat environment — not treated as a neutral backdrop.
 
 > 📡 Cross-references:
+>
+> - [🎖️ Training the Old Guard as Force Protection](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🎖️_training_the_old_guard_as_force_protection.md) — *who shapes interpretation*  
+> - [🧨 Certainty Merchants and Security-Adjacent Amplifiers](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧨_certainty_merchants_and_security_adjacent_amplifiers.md) — *narrative acceleration*  
+> - [🐉 It’s Not Always Daddy Dragon](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐉_its_not_always_daddy_dragon.md) — *comfort-villain fixation*  
+> - [🧿 Attribution as Narrative Attack Surface](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_attribution_as_narrative_attack_surface.md) — *spoofable certainty*  
+> - [🦴 Tolerance Thresholds as Load Management](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🦴_tolerance_thresholds_as_load_management.md) — *absorbed harm*  
+> - [🦑 CRAKEN System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive load mapping*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-01-09_
