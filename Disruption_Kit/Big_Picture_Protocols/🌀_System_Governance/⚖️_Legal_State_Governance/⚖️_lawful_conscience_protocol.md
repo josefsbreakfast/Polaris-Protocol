@@ -1,5 +1,5 @@
 # ⚖️ Lawful Conscience Protocol  
-**First created:** 2025-10-12 | **Last updated:** 2025-12-24  
+**First created:** 2025-10-12 | **Last updated:** 2026-01-09  
 *When secrecy becomes duress, conscience becomes jurisdiction.*  
 
 ---
@@ -79,8 +79,12 @@ it restores mutual respect to the marriage between Parliament and the Services.
 >
 >  - [⚖️ Two-Way Seal](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/⚖️_two_way_seal.md) — *reciprocity and the wax of secrecy*  
 >  - [📜 Arms Exports as Act of Aggression](../../🦕_Elder_Influencers/📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md) — *complicity and export control*  
->  - [🪞 The Illusion of Choice](../🧪_Development_Experimentation/🪞_the_illusion_of_choice.md) — *on "consent" under duress*  
+>  - [🪞 The Illusion of Choice](../🧪_Development_Experimentation/🪞_the_illusion_of_choice.md) — *on "consent" under duress*
+>  - [🔥 Hunger Strike Comparisons](./🔥_hunger_strike_comparisons.md)  
+>  - [🕊️ From BLM to Palestine — The Suppression Switchboard](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🕊️_from_blm_to_palestine_the_suppression_switchboard.md)  
+>  - [🧵 Community Vulnerability and Early Canaries](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)
+>  - [👀 Public Perception Gap](../../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/👀_public_perception_gap.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-09_
