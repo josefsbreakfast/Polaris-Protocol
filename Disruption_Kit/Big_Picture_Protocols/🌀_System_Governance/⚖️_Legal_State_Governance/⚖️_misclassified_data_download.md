@@ -1,5 +1,5 @@
 # ⚖️ Royalties and Liability for Uncredited Training Data — Misclassification & Special-Purpose Use  
-**First created:** 2025-10-19 | **Last updated:** 2026-01-04  
+**First created:** 2025-10-19 | **Last updated:** 2026-01-09  
 *A reference brief on ownership, compensation, and Crown liability for misclassified or dual-use AI training datasets.*  
 
 ---
@@ -121,4 +121,4 @@ It bridges intellectual-property, data-protection and defence-law frameworks for
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-01-09_
