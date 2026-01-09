@@ -1,5 +1,5 @@
 # 🛂 Suspect Class Governance  
-**First created:** 2025-12-12 | **Last updated:** 2026-01-04  
+**First created:** 2025-12-12 | **Last updated:** 2026-01-09  
 *How “risk-based” frameworks quietly produce suspect classes — and the structural mechanisms by which whole demographics become administratively exceptional.*  
 
 ---
@@ -116,4 +116,4 @@ It documents how neutral-seeming risk frameworks produce unequal governance outc
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-01-09_
