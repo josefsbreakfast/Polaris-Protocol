@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-09 07:33:01 UTC_
+_Generated on 2026-01-09 08:31:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1110,6 +1110,7 @@ _Generated on 2026-01-09 07:33:01 UTC_
         - [`⚖️_soft_power_without_soft_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_soft_power_without_soft_accountability.md)
         - [`⚖️_surveillance_osa_citizen_forking_meganode.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_surveillance_osa_citizen_forking_meganode.md)
         - [`⚖️_transitional_change_vs_rapid_revolutionary_shock.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_transitional_change_vs_rapid_revolutionary_shock.md)
+        - [`✈️_the_men_who_grew_up_with_flight_paths.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/✈️_the_men_who_grew_up_with_flight_paths.md)
         - [`✈️_they_always_think_they_are_geniuses.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/✈️_they_always_think_they_are_geniuses.md)
         - [`✨_misinterpretation_risk_in_geopolitical_signalling.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/✨_misinterpretation_risk_in_geopolitical_signalling.md)
         - [`🀄️_to_reveal_our_own_hand.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🀄️_to_reveal_our_own_hand.md)
