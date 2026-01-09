@@ -1,5 +1,5 @@
 # ⚖️ Due Diligence as Moral Defence  
-**First created:** 2025-10-17 | **Last updated:** 2026-01-05  
+**First created:** 2025-10-17 | **Last updated:** 2026-01-09  
 *Ideological note on how bureaucratic fragmentation erodes accountability and enables atrocity through cultivated ignorance.*  
 
 ---
@@ -91,4 +91,4 @@ It articulates how governance cultures that fragment responsibility incubate mor
 > - [🛑 Alligator Alcatraz — Traceability Breakdown](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🛑_alligator_alcatraz_traceability_breakdown.md)
 > - [🪼 We Choose To Allow Online Stalking Of Women And Children](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🪼_we_choose_to_allow_online_stalking_of_women_and_children.md)  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-09_
