@@ -1,5 +1,5 @@
 # 🧿 Attribution as Narrative Attack Surface  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-22 | **Last updated:** 2026-01-09  
 *Why premature certainty about “who did it” creates exploitable vulnerabilities — and how attribution itself becomes part of the battlespace.*  
 
 ---
@@ -188,4 +188,4 @@ It exists to prevent belief from becoming an exploitable vulnerability in moment
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-01-09_
