@@ -1,5 +1,5 @@
 # 📜 Harm Assessment Protocols  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-09  
 *How institutions evaluate whether damage occurred and what must be done.*  
 
 ---
@@ -75,4 +75,4 @@ It provides a framework for understanding how institutions evaluate and respond 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-09_
