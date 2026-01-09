@@ -173,7 +173,9 @@ It documents the structural risks of population-scale biometric surveillance in 
 > - [⚖️ IPCO Audit Cycle](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_ipco_audit_cycle.md)  
 > - [🧬 Data Correction Notices](../../Structural_Analysis/🧬_Structural_Mapping/🧬_data_correction_notices.md) - *internal mechanisms for correcting anomalies in intelligence systems*
 > - [🔥 Rights as Friction](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🔥_rights_as_friction.md)
-> - [👾 Intent-Free Authoritarian Drift](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👾_intent_free_authoritarian_drift.md)  
+> - [👾 Intent-Free Authoritarian Drift](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👾_intent_free_authoritarian_drift.md)
+> - [🧨 The Schmittian Drift in Exceptional Detention Governance](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_the_schmittian_drift_in_exceptional_detention_governance.md)  
+> - [📦 Containment as Industry](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/📦_containment_as_industry.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
