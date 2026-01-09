@@ -1,5 +1,5 @@
 # ⚖️ The Protection Racket as a System Design Pattern  
-**First created:** 2025-10-18 | **Last updated:** 2025-12-24  
+**First created:** 2025-10-18 | **Last updated:** 2026-01-09  
 *How coercive “protection” mimics governance to monetise fear.*  
 
 ---
@@ -162,4 +162,4 @@ It names the design so that its modern uniforms can be recognised — and refuse
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-09_
