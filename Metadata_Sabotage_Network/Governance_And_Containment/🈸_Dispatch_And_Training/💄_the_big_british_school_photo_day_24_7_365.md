@@ -168,7 +168,12 @@ It documents the structural risks of population-scale biometric surveillance in 
 
 > 📡 Cross-references:
 > 
-> - [
+> - [👁️‍🗨️ ANPR: The Eyes in the Skies](../🈺_Governance_And_Prevent/👁️‍🗨️_anpr_the_eyes_in_the_skies.md)
+> - [🕵️ Collapse Between Harassment and Surveillance](../../../Disruption_Kit/Containment_Scripts/Suppression_Modes/🕵️_harassment_vs_surveillance.md)
+> - [⚖️ IPCO Audit Cycle](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_ipco_audit_cycle.md)  
+> - [🧬 Data Correction Notices](../../Structural_Analysis/🧬_Structural_Mapping/🧬_data_correction_notices.md) - *internal mechanisms for correcting anomalies in intelligence systems*
+> - [🔥 Rights as Friction](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🔥_rights_as_friction.md)
+> - [👾 Intent-Free Authoritarian Drift](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/👾_intent_free_authoritarian_drift.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
