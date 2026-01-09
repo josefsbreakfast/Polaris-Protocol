@@ -1,5 +1,5 @@
 # 🏛️ Precedent Is Policy  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
 *How repeated decisions quietly replace written law as the governing force.*  
 
 ---
@@ -172,4 +172,4 @@ It documents how repeated institutional behaviour quietly supplants written law 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-09_
