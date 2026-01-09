@@ -1,5 +1,5 @@
 # 🪖 How Politicians Legally Strangle the MOD (in Real-Lives Terms)  
-**First created:** 2025-12-24 | **Last updated:** 2026-01-04  
+**First created:** 2025-12-24 | **Last updated:** 2026-01-09  
 *When political risk management converts defence institutions into vehicles of human attrition.*  
 
 ---
@@ -159,4 +159,4 @@ It documents how upstream political and legal pressures translate into downstrea
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-01-09_
