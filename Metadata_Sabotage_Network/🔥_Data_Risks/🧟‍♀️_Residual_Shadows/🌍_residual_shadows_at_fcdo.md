@@ -1,6 +1,6 @@
-# 🌍 Residual Shadows at FCDO
-**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
-*Why data harm persists long after systems are patched — and why diplomatic breaches have afterlives.*
+# 🌍 Residual Shadows at FCDO  
+**First created:** 2025-12-22 | **Last updated:** 2026-01-09  
+*Why data harm persists long after systems are patched — and why diplomatic breaches have afterlives.*  
 
 ---
 
@@ -157,4 +157,4 @@ It exists to ensure that cyber incidents are analysed across their full temporal
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-01-09_
