@@ -1,5 +1,5 @@
 # ⚖️ Containment Contract Trace  
-**First created:** 2025-08-07 | **Last updated:** 2026-01-05  
+**First created:** 2025-08-07 | **Last updated:** 2026-01-09  
 *Unconsented containment, metadata silencing, and covert NDAs.*  
 <!--I'm a bit too raw to update and correct this, so keeping as is for now.-->
 ---
@@ -107,4 +107,4 @@ It documents unconsented containment mechanisms that simulate NDA effects and st
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-09_
