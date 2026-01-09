@@ -1,5 +1,5 @@
 # 🏛️ Diplomatic Inviolability & Influence Drift  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
 *How protected diplomatic space enables influence without trace, and why weak process turns relationship management into policy capture.*  
 
 ---
@@ -151,4 +151,4 @@ It exists to explain how lawful diplomatic practices can, under weak process con
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-09_
