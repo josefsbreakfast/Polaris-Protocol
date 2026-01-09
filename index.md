@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-09 06:42:54 UTC_
+_Generated on 2026-01-09 06:59:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3301,6 +3301,7 @@ _Generated on 2026-01-09 06:42:54 UTC_
     - [**🈸_Dispatch_And_Training/**](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/README.md)
       - [`🎖️_training_the_old_guard_as_force_protection.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🎖️_training_the_old_guard_as_force_protection.md)
+      - [`💄_the_big_british_school_photo_day_24_7_365.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/💄_the_big_british_school_photo_day_24_7_365.md)
       - [`💾_archival_drift.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/💾_archival_drift.md)
       - [`📡_signal_lost.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📡_signal_lost.md)
       - [`📦_final_dispatch_entry.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📦_final_dispatch_entry.md)
