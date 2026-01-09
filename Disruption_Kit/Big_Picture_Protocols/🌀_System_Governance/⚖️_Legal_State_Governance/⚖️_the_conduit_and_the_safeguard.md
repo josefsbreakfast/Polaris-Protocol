@@ -1,5 +1,5 @@
 # ⚖️ The Conduit and the Safeguard  
-**First created:** 2025-11-06 | **Last updated:** 2025-12-24  
+**First created:** 2025-11-06 | **Last updated:** 2026-01-09  
 *Explaining to British compliance officers why cross‑jurisdictional data flows require explicit safeguards when Israeli law is in play.*  
 
 ---
@@ -121,4 +121,4 @@ uk data protection, israeli law, cross‑jurisdictional safeguards, gdpr complia
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-09_
