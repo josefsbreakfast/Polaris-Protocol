@@ -1,5 +1,5 @@
 # 🧬 Keystone RCA  
-**First created:** 2025-11-20 | **Last updated:** 2025-11-20  
+**First created:** 2025-11-20 | **Last updated:** 2026-01-09  
 *Root Cause Analysis of the executive-layer “keystone” in UK state conflicts and inquiries.*
 
 ---
@@ -146,4 +146,4 @@ It outlines the root executive-layer mechanism shaping UK state conflicts, inqui
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-01-09_
