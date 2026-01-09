@@ -1,5 +1,5 @@
 # 🌋 Whistleblowers as Emergency Governance  
-**First created:** 2025‑11‑02 | **Last updated:** 2026-01-01  
+**First created:** 2025‑11‑02 | **Last updated:** 2026-01-09  
 *Informal disclosure as the last remaining oversight mechanism.*  
 
 ---
@@ -99,4 +99,4 @@ whistleblowing, trust decay, emergency governance, civic integrity, informal dis
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-01-09_
