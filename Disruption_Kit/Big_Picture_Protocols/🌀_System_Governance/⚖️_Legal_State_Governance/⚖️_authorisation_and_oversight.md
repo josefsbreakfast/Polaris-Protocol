@@ -1,5 +1,5 @@
 # ⚖️ Authorisation and Oversight  
-**First created:** 2025-09-26 | **Last updated:** 2026-01-05  
+**First created:** 2025-09-26 | **Last updated:** 2026-01-09  
 *How intelligence powers are authorised — and how lawful systems drift away from consent.*  
 
 ---
@@ -291,38 +291,22 @@ Rising coercion, declining consent, and crisis-driven reform under worse conditi
 
 ⚖️ 🛰️ 🧿 🧠 — legal authority, intelligence systems, legitimacy, democratic stability.  
 
-*Media & Further Reading:*
-
-*Documentary / Investigative (Telly; easy-to-digest)*  
-- *The Spy Who Dined With Me* (Channel 4 Dispatches) — privatised surveillance, blurred accountability, and oversight failure  
-- *Undercover: Sexual Abuse of the State* (ITV) — lived impact of undercover policing abuses (SpyCops context)  
-- *Enemies of the State* (2020) — family-level consequences of judicial authorisation gaps  
-
-*Drama / Fiction (Telly; more to chew on)*  
-- *The Capture* (BBC) — warrant culture, deep surveillance, and institutional defensiveness  
-- *The Lives of Others* (2006) — consent, knowledge, and the moral residue of surveillance systems  
-- *Official Secrets* (2019) — legality vs legitimacy in national security decision-making  
-
-*Policing / Institutional Perspectives (Reading; principles & guidelines)*  
-- College of Policing — *Policing by Consent* guidance and historical material  
-- HMICFRS reports on legitimacy, neighbourhood policing, and public confidence  
-- Sir Robert Peel’s Principles of Policing — revisited editions and modern commentaries  
-
-*Critical / Abolitionist / Counter-Perspective (Reading; alternatives at root idea level*  
-- Alex S. Vitale — *The End of Policing* — abolitionist critique; useful for understanding anger and mistrust even where conclusions are disputed  
-- Angela Davis — *Are Prisons Obsolete?* — structural critique of coercive systems and institutional drift  
-- Abolitionist Futures (UK) — essays on surveillance, policing, and community harm  
-
-*Longer & Policy Reading (No pictures; text-heavy)* <!--I don't kow why anyone reads like this, either.-->  
-- David Lyon — *Surveillance Studies* — foundational analysis of surveillance normalisation  
-- Didier Bigo — writings on security, exception, and everyday governance  
-- European Court of Human Rights — case law on surveillance, proportionality, and necessity  
-- UK Investigatory Powers Tribunal — selected judgments on intelligence powers  
-
-*Journalism / Long-Form Analysis (Essay-level reading; some pictures, some in bite-size sections)*  
-- *The Guardian* Long Reads — surveillance, policing, and civil liberties  
-- *London Review of Books* — essays on state power, law, and legitimacy  
-- *openDemocracy* — intelligence, lawfare, and democratic erosion  
+**Further Media:**
+- 📺 [Dispatches: The Police's Dirty Secret](https://www.imdb.com/title/tt3004776/?ref_=ttep_ep_23), Channel 4 (S27, E23; 2013)  
+- 📺 [The Undercover Police Scandal: Love and Lies Exposed](https://www.itv.com/watch/the-undercover-police-scandal-love-and-lies-exposed/10a5198), ITV (2025) — *lived impact of undercover policing abuses (SpyCops context)*  
+- 🎬 [Enemies of the State](https://en.wikipedia.org/wiki/Enemies_of_the_State) (2020) — *family-level consequences of judicial authorisation gaps*  
+- 📺 [The Capture](https://www.bbc.co.uk/programmes/m00085sx), BBC — *warrant culture, deep surveillance, and institutional defensiveness*  
+- 🎬 [The Lives of Others](https://www.youtube.com/watch?v=n3_iLOp6IhM), 2006 — *consent, knowledge, and the moral residue of surveillance systems*  
+- 🎬 [Official Secrets](https://www.youtube.com/watch?v=t64H3S7r4wo), 2019 — *legality vs legitimacy in national security decision-making*  
+- 📜 College of Policing — [Legitamacy: Policing by Consent](https://www.college.police.uk/guidance/improving-public-confidence-police/definitions) *and* [Guidance](https://www.college.police.uk/guidance) *as a building block of that legitamacy*
+- 📑 [HMICFRS](https://hmicfrs.justiceinspectorates.gov.uk/police-forces/) reports on *legitimacy, neighbourhood policing, and public confidence*  
+- 📜 [Sir Robert Peel’s Principles of Policing](https://www.civitas.org.uk/research/crime/facts-comments/principles-of-good-policing/), Civitas
+- 📑 [House of Lords Library, In Focus: Police standards and culture: Restoring public trust](https://lordslibrary.parliament.uk/police-standards-and-culture-restoring-public-trust/), 2023  
+- 📚 [The End of Policing](https://app.thestorygraph.com/books/f2480cb5-f88f-488c-948a-97d521085344), Alex S. Vitale, via SoryGraph — *abolitionist critique; useful for understanding anger and mistrust even where conclusions are disputed*  
+- 📚 [Are Prisons Obsolete?](https://app.thestorygraph.com/books/19cf06c7-7d61-4051-9942-e60fd22d5cad), Angela Y. Davis, via StoryGraph — *structural critique of coercive systems and institutional drift*  
+- Abolitionist Futures (UK) — *essays on surveillance, policing, and community harm*  
+- 📚 [Surveillance Studies: An Overview](https://app.thestorygraph.com/books/3870681d-0fb0-4805-87ea-8d591600575e), David Lyon, via StoryGraph — *foundational analysis of surveillance normalisation*  
+- 📚 [Illiberal Practices of Liberal Regimes: The (in)security Games](https://app.thestorygraph.com/books/d5577eaf-5a58-466f-981a-c203d227e306), Didier Bigo, via StoryGraph — *writings on security, exception, and everyday governance*  
 
 ---
 
@@ -344,12 +328,12 @@ It explains how intelligence warrants are issued and checked in the UK — and h
 > 
 > - [⚖️ Legal Frameworks and Remits](./⚖️_legal_frameworks_remits.md) — *where mandates expand or blur*  
 > - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md) — *oversight rhythms as ritual*
-> - [🧠 The Continuum of Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md) - *how the UK's PREVENT counterterrorism polcy machine has vibrated the Islands across the kitchen towards authoritarianism*  
-> - [👾 Intent-Free Authoritarian Drift](../💫_Containment_Logic/👾_intent_free_authoritarian_drift.md) - *how this can happen without any intent to do so at all (we can all accidentally nudge the machine off its plinth*  
-> - [👾 Why Policing and PREVENT Are Susceptible to Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_authoritarian_drift.md) - *how policing and PREVENT are, by nature, susceptible to this drift - again, without needing intent*
-> - [👅 Bad Deepfakes — Why “Surveillance-Level” Clones Fail](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/👅_bad_deepfakes.md)
-> - [🩸 When Little Bureaucrats Play Big Boy Pimps](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🩸_when_little_bureaucrats_play_big_boy_pimps.md)  
+> - [🧠 The Continuum of Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md) — *how the UK's PREVENT counterterrorism polcy machine has vibrated the Islands across the kitchen towards authoritarianism*  
+> - [👾 Intent-Free Authoritarian Drift](../💫_Containment_Logic/👾_intent_free_authoritarian_drift.md) — *how this can happen without any intent to do so at all (we can all accidentally nudge the machine off its plinth*  
+> - [👾 Why Policing and PREVENT Are Susceptible to Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_authoritarian_drift.md) — *how policing and PREVENT are, by nature, susceptible to this drift - again, without needing intent*
+> - [👅 Bad Deepfakes — Why “Surveillance-Level” Clones Fail](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/👅_bad_deepfakes.md) — *why the tech isn't really "all that"*
+> - [🩸 When Little Bureaucrats Play Big Boy Pimps](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🩸_when_little_bureaucrats_play_big_boy_pimps.md) — *on misogyny and countering the violent extremism of male actors in CVE environments*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-09_
