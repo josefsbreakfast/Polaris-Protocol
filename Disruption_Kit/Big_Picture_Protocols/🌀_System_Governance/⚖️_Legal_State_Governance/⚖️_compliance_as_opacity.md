@@ -1,5 +1,5 @@
-# ⚖️ Compliance as Opacity — UK CVE & Hidden Levers  
-**First created:** 2025-09-16 | **Last updated:** 2026-01-05  
+# ⚖️ Compliance as Opacity  
+**First created:** 2025-09-16 | **Last updated:** 2026-01-09  
 *How “compliance”, secrecy, and CVE practice in the UK create plausible deniability, gaslighting, and governance failure — with remedies.*  
 
 ---
@@ -20,7 +20,21 @@ This node unpacks the mechanics of that fog, the harms it produces, and a set of
 - **Secrecy as default**: rule manifests, explainability packets, decision logs are locked away under the banner of “security.”  
 - **Plausible deniability as script**: officials can say “no record we can share” even while the machinery has already marked and moved you.  
 - **Vendettas amplified**: brittle detection and lazy gating let one malicious report snowball into systemic containment.  
-- **Containment creep**: tools built for the violent few are quietly repurposed to monitor, mute, or suppress the many.  
+- **Containment creep**: tools built for the violent few are quietly repurposed to monitor, mute, or suppress the many.
+
+---
+
+## 🧾 The Withholding Scripts (What They Hide Behind)
+Common “compliance” phrases that function as governance fog:
+
+- **“National security”** — used as a totalising override even when the issue is *administrative handling, accuracy, or safe disclosure method*.
+- **“Ongoing proceedings” / “sealed matter”** — used to avoid even confirming *categories held* or *current controller responsibility*.
+- **“Prevention of crime / future law enforcement”** — used to block basic transparency even where harm has already occurred and the question is *data safety*.
+- **“Third-party data”** — correct for names and identifiers, but often stretched to conceal entire decision chains.
+- **“We don’t hold it / not our remit”** — used to bounce the data subject across controllers while everyone still retains copies.
+- **“Ask the original source” (e.g., NHS)** — used to avoid acknowledging that once data is received, the receiving controller still owes integrity, retention, and safeguarding duties.  
+
+**Key diagnostic:** if they can’t disclose details, they can still disclose **an index of categories, chain-of-custody boundaries, and security posture**. Silence is not a lawful default.  
 
 ---
 
@@ -56,15 +70,15 @@ This node unpacks the mechanics of that fog, the harms it produces, and a set of
 ## 🌌 Constellations  
 ⚖️ 🧠 🔮 🔏 — This node decodes UK CVE logic through opacity and denial mechanisms.
 
-**Media references:**  
-- *The Capture* (BBC) — on opaque surveillance justification  
-- *Disrupting the Disruptors* (Byline Times, 2022) — on Prevent, counter-extremism, and opacity theatre  
-- *Coded Bias* (2020) — wider AI opacity and explainability crisis
+**Further Media:**  
+- 📺 [The Capture](https://www.bbc.co.uk/programmes/m00085sx), BBC — *on opaque surveillance justification*  
+- 📰 ["Government’s Prevent Strategy Oversight Committee has Never Met Since Conservatives Won 2019 General Election" (2022)](https://bylinetimes.com/2022/08/12/governments-prevent-strategy-oversight-committee-has-never-met-since-conservatives-won-2019-general-election/), Byline Times — *on Prevent, counter-extremism, and opacity theatre*  
+- 🎬 [Coded Bias, (2020)](https://www.codedbias.com/) — *wider AI opacity and explainability crisis*
 
 ---
 
 ## ✨ Stardust  
-CVE, opacity, plausible deniability, UK Prevent, algorithmic containment, gaslighting, explainability, compliance theatre
+CVE, counter-violent extremism, UK Prevent, compliance theatre, compliance as opacity, plausible deniability, national security exemptions, sealed procedures, algorithmic containment, administrative containment, misclassification, governance fog, explainability failure, denial by process, shadow rules, silent interventions, data suppression, chain-of-custody failure, institutional gaslighting, weaponised safeguarding, bad-faith reporting, extremist mislabeling, political dissent containment, surveillance creep, contractor black boxes, vendor opacity, algorithmic autoimmunity, civic epistemology collapse, accountability evasion, due process erosion  
 
 ---
 
@@ -84,4 +98,4 @@ It maps how secrecy dressed as “compliance” breeds gaslighting and systemic 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-09_
