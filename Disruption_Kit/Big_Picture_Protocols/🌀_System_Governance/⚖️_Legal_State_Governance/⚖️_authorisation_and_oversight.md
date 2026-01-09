@@ -304,7 +304,7 @@ Rising coercion, declining consent, and crisis-driven reform under worse conditi
 - 📑 [House of Lords Library, In Focus: Police standards and culture: Restoring public trust](https://lordslibrary.parliament.uk/police-standards-and-culture-restoring-public-trust/), 2023  
 - 📚 [The End of Policing](https://app.thestorygraph.com/books/f2480cb5-f88f-488c-948a-97d521085344), Alex S. Vitale, via SoryGraph — *abolitionist critique; useful for understanding anger and mistrust even where conclusions are disputed*  
 - 📚 [Are Prisons Obsolete?](https://app.thestorygraph.com/books/19cf06c7-7d61-4051-9942-e60fd22d5cad), Angela Y. Davis, via StoryGraph — *structural critique of coercive systems and institutional drift*  
-- Abolitionist Futures (UK) — *essays on surveillance, policing, and community harm*  
+- 📑 [Abolitionist Futures UK](https://abolitionistfutures.com) — *teaching and principles of transformative justice, applied to on surveillance, policing, and community harm*  
 - 📚 [Surveillance Studies: An Overview](https://app.thestorygraph.com/books/3870681d-0fb0-4805-87ea-8d591600575e), David Lyon, via StoryGraph — *foundational analysis of surveillance normalisation*  
 - 📚 [Illiberal Practices of Liberal Regimes: The (in)security Games](https://app.thestorygraph.com/books/d5577eaf-5a58-466f-981a-c203d227e306), Didier Bigo, via StoryGraph — *writings on security, exception, and everyday governance*  
 
