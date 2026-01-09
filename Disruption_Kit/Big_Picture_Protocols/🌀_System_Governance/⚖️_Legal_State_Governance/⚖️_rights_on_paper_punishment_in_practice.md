@@ -1,5 +1,5 @@
 # ⚖️ Rights on Paper, Punishment in Practice  
-**First created:** 2025-12-16 | **Last updated:** 2025-12-24  
+**First created:** 2025-12-16 | **Last updated:** 2026-01-09  
 *How formal disability rights coexist with material coercion — and why diagnosis becomes a shield rather than a choice.*  
 
 ---
@@ -186,4 +186,4 @@ It documents how formal rights coexist with coercive systems, and why diagnosis 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-09_
