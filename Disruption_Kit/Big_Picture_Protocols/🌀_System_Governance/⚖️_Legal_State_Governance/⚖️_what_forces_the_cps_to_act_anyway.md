@@ -1,5 +1,5 @@
 # ⚖️ What Forces the CPS to Act Anyway?
-**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
 *The rare conditions under which elite prosecution becomes unavoidable*
 
 ---
@@ -106,4 +106,4 @@ It maps the pressure points where prosecutorial discretion collapses under exter
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-09_
