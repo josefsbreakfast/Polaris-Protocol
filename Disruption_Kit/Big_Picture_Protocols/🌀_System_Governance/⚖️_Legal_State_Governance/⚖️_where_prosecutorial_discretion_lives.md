@@ -1,5 +1,5 @@
 # ⚖️ Where Prosecutorial Discretion Lives  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
 *The precise locations where judgment, risk, and power shape charging decisions.*  
 
 ---
@@ -125,4 +125,4 @@ It maps the distributed points at which lawful judgment accumulates into systemi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-01-09_
