@@ -1,5 +1,5 @@
 # 🇷🇺 Russia Is a Threat… When Process Is Weak  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
 *Why procedural fragility, not external hostility alone, defines contemporary security risk.*  
 
 ---
@@ -232,4 +232,4 @@ It also answers the age-old question: [🌌 Ам я всё ещё слишком
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-09_
