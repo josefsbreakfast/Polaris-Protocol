@@ -1,5 +1,5 @@
 # 🏛️ A State That Cannot Confront Abuse Cannot Protect  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
 *Why avoidance of abuse accountability destroys the state’s core protective function.*  
 
 ---
@@ -175,4 +175,4 @@ It documents how failure to confront abuse undermines the state’s fundamental 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-09_
