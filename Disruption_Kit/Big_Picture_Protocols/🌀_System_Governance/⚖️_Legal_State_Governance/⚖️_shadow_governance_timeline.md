@@ -1,5 +1,5 @@
 # ⚖️ Shadow Governance Timeline  
-**First created:** 2025-09-05 | **Last updated:** 2025-12-24  
+**First created:** 2025-09-05 | **Last updated:** 2026-01-09  
 *How cumulative crises since 2008 hollowed governance and expanded reliance on fixers and shadow networks.*  
 
 ---
@@ -76,4 +76,4 @@ It documents how successive crises hollowed state capacity, producing reliance o
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-09_
