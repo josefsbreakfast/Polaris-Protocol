@@ -1,5 +1,5 @@
 # ⚖️ Elite Impunity Is a National Security Risk  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-05  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
 *How tolerated elite wrongdoing creates blackmail exposure, coercion vectors, and democratic fragility.*  
 
 ---
@@ -315,7 +315,7 @@ Safeguarding survivors, whistleblowers, and democratic legitimacy is inseparable
 
 ## ✨ Stardust
 
-elite impunity, national security risk, blackmail leverage, coercion, prosecutorial failure, democratic vulnerability, soft power erosion
+elite impunity, national security risk, blackmail leverage, coercion, prosecutorial failure, democratic vulnerability, soft power erosion, epstein files, foia, freedom of information, survivor, testimony  
 
 ---
 
@@ -337,4 +337,4 @@ It documents how tolerated elite wrongdoing converts private misconduct into str
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-09_
