@@ -1,5 +1,5 @@
 # 🚨 Red Flags of Authoritarian Capture in Policing  
-**First created:** 2025-12-13 | **Last updated:** 2025-12-15  
+**First created:** 2025-12-13 | **Last updated:** 2026-01-09  
 *A pattern-based early warning checklist for detecting authoritarian drift in policing before it becomes overt.*  
 
 ---
@@ -153,4 +153,4 @@ It provides a practical, pattern-based framework for detecting early-stage insti
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-01-09_
