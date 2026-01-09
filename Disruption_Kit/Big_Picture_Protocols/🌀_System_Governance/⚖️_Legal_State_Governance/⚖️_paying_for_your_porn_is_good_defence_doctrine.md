@@ -1,5 +1,5 @@
 # ⚖️ Paying for Your Porn Is Good Defence Doctrine  
-**First created:** 2025-10-30 | **Last updated:** 2025-12-24  
+**First created:** 2025-10-30 | **Last updated:** 2026-01-09  
 *How the “woke” concern sang UK–NATO–EU defence relations to sleep.*  
 
 ---
@@ -482,4 +482,4 @@ It maps how moral panic, surveillance, and deregulation form a single economy of
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-09_
