@@ -72,8 +72,8 @@ Common “compliance” phrases that function as governance fog:
 
 **Further Media:**  
 - 📺 [The Capture](https://www.bbc.co.uk/programmes/m00085sx), BBC — *on opaque surveillance justification*  
-- 📰 ["Government’s Prevent Strategy Oversight Committee has Never Met Since Conservatives Won 2019 General Election" (2022)](https://bylinetimes.com/2022/08/12/governments-prevent-strategy-oversight-committee-has-never-met-since-conservatives-won-2019-general-election/), Byline Times — *on Prevent, counter-extremism, and opacity theatre*  
-- 🎬 [Coded Bias, (2020)](https://www.codedbias.com/) — *wider AI opacity and explainability crisis*
+- 📰 ["Government’s Prevent Strategy Oversight Committee has Never Met Since Conservatives Won 2019 General Election" (2022)](https://bylinetimes.com/2022/08/12/governments-prevent-strategy-oversight-committee-has-never-met-since-conservatives-won-2019-general-election), Byline Times — *on Prevent, counter-extremism, and opacity theatre*  
+- 🎬 [Coded Bias, (2020)](https://www.codedbias.com) — *wider AI opacity and explainability crisis*  
 
 ---
 
