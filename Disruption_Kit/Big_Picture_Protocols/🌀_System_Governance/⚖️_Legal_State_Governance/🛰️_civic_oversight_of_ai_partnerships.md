@@ -1,5 +1,5 @@
 # 🛰️ Civic Oversight of AI Partnerships  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-22 | **Last updated:** 2026-01-09  
 *Why FOI, OSINT, and civic audit are structural requirements for any state–AI vendor partnership.*  
 
 ---
@@ -160,4 +160,4 @@ It sets out the transparency and accountability structures that must exist befor
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-09_
