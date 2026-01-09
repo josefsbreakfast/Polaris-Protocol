@@ -1,5 +1,5 @@
 # 🧬 Irreversible Limits: When Physics Refuses Economic Fantasy  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-17  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-09  
 *Why material reality places non-negotiable limits on economic systems — and why growth ideology keeps pretending otherwise.*  
 
 ---
@@ -158,4 +158,4 @@ It establishes the non-negotiable role of material reality in constraining econo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2026-01-09_
