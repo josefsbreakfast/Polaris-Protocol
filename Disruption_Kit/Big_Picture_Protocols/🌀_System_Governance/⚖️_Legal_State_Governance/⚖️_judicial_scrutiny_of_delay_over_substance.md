@@ -1,5 +1,5 @@
 # ⚖️ Judicial Scrutiny Of Delay Over Substance  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-24  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-09  
 *Why courts often judge timelines more harshly than the underlying issue.*  
 
 ---
@@ -118,4 +118,4 @@ It documents why courts often treat timelines as more revealing than narratives 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-09_
