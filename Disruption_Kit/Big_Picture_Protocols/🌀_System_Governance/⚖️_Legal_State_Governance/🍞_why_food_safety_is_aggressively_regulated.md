@@ -1,5 +1,5 @@
 # 🍞 Why Food Safety Is Aggressively Regulated  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-12 | **Last updated:** 2026-01-09  
 *What population-scale harm teaches us about regulation, bad actors, and inevitability.*  
 
 ---
@@ -162,4 +162,4 @@ It uses historical precedent to explain why large-scale harm systems cannot rely
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-09_
