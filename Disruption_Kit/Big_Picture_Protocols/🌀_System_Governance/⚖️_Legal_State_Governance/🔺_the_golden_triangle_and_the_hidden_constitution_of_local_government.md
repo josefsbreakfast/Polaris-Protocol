@@ -1,5 +1,5 @@
 # 🔺 The Golden Triangle and the Hidden Constitution of Local Government  
-**First created:** 2025-11-04 | **Last updated:** 2025-12-17  
+**First created:** 2025-11-04 | **Last updated:** 2026-01-09  
 *How three statutory roles became the quiet spine — and sometimes the choke point — of English local governance.*  
 
 ---
@@ -248,4 +248,4 @@ It contributes to the Governance Ecologies cluster by analysing how statutory sa
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2026-01-09_
