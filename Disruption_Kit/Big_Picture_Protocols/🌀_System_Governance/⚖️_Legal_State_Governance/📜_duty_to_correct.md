@@ -1,5 +1,5 @@
 # 📜 Duty to Correct: How Public Bodies Must Fix Wrong Data  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-16 | **Last updated:** 2026-01-09  
 *Why the right to correction is foundational to democratic participation — and how the absence of robust correction mechanisms enables misinterpretation, drift, and long-term bureaucratic harm.*  
 
 ---
@@ -186,4 +186,4 @@ It frames correction not as clerical nicety but as essential civic infrastructur
 > - [🐝 Audit Stinger](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/🐝_audit_stinger.md) - *example audit work to proactively help survivors correct their records*  
 > - [⚖️ Official Secrets Reform and Accountability](./⚖️_official_secrets_reform_and_accountability.md) - *the OSA **must** change to assist in other organisations' duties to correct records*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-09_
