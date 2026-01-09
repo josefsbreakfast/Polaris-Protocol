@@ -1,5 +1,5 @@
 # ⏳ Governance Latency in Population-Scale Cyber Events  
-**First created:** 2025-10-13 | **Last updated:** 2026-01-05  
+**First created:** 2025-10-13 | **Last updated:** 2026-01-09  
 *Why mid-scale cyber events harm real populations long before institutions are structurally able to respond.*  
 
 ---
@@ -257,4 +257,4 @@ It documents how structural delay functions as an unacknowledged governance mech
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-09_
