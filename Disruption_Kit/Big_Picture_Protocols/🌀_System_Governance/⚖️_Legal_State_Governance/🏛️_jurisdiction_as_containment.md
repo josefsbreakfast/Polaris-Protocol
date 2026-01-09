@@ -1,5 +1,5 @@
 # 🏛️ Jurisdiction as Containment  
-**First created:** 2025-12-29 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-29 | **Last updated:** 2026-01-09  
 *Why “going public” fails as leverage against the UK state — and why it predictably backfires.*  
 
 ---
@@ -318,4 +318,4 @@ It documents how UK constitutional practice neutralises disclosure-based leverag
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-01-09_
