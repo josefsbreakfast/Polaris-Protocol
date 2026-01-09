@@ -1,5 +1,5 @@
 # 🏛️ Optics Are Not Legitimacy  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
 *Why performative stability corrodes authority faster than open failure.*  
 
 ---
@@ -173,4 +173,4 @@ It documents how confusing appearance for authority accelerates democratic and i
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-09_
