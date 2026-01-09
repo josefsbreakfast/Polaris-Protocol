@@ -1,5 +1,5 @@
 # ⚖️ How Many Adult Survivors Outlive Prosecution?  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-05  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
 *Small-n justice outcomes, long-tail survivor exposure, and why “closure” is a systems myth.*  
 <!--If we are calling this writing a "job", everything about this job is grim, man. Buckle up. Get coffee. We got this.-->
 ---
@@ -425,4 +425,4 @@ It contributes to the archive by converting an emotionally “invisible” survi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-09_
