@@ -1,5 +1,5 @@
 # 🔁 Post-Realisation Phase  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-19  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-09  
 *What institutions do after recognising procedural failure — and before accountability.*
 
 ---
@@ -354,4 +354,4 @@ It documents the stabilisation behaviours institutions adopt after recognising f
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-01-09_
