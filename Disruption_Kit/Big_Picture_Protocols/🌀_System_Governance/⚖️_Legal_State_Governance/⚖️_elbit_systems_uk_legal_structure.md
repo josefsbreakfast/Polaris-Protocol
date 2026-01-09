@@ -1,5 +1,5 @@
 # ⚖️ Elbit Systems UK — Legal & Control Structure  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-05  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
 *Formal ownership, control vectors, and limits of disclosure in the UK context.*  
 
 ---
@@ -144,8 +144,8 @@ This is **structural power**, not personality-driven influence.
 ---
 
 ## ✨ Stardust  
-elbit systems uk, defence subsidiaries, joint ventures, persons with significant control, export licensing, ip control, programme lock-in, esg scrutiny, royal investment opacity
-
+elbit systems uk, defence subsidiaries, joint ventures, persons with significant control, export licensing, ip control, programme lock-in, esg scrutiny, royal investment opacity, uav, drone, unmanned aerial vehicles, defence technology  
+<!--why-have-i-not-got-my-hoverboard-yet-if-we-are-making-these-->  
 ---
 
 ## 🏮 Footer  
@@ -163,4 +163,4 @@ It records formal ownership, practical control mechanisms, and the limits of pub
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-09_
