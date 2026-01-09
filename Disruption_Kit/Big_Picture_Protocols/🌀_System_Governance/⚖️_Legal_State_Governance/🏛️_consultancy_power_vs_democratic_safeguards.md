@@ -1,5 +1,5 @@
 # 🏛️ Consultancy Power vs Democratic Safeguards  
-**First created:** 2025-08-05 | **Last updated:** 2025-12-25  
+**First created:** 2025-08-05 | **Last updated:** 2026-01-09  
 *Why large consultancies exist in structural tension with civic law, equality duties, and democratic governance.*
 
 ---
@@ -123,4 +123,4 @@ It situates consultancy influence as a structural governance risk where commerci
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-09_
