@@ -141,7 +141,9 @@ It argues that **rapid Schmittian capture is structurally mismatched to the Unit
 🗽 ⚖️ 🧠 🔥 🫀 🛰️ — sovereignty, law, ideology, state violence, moral legitimacy, federal power.  
 
 *Further media:*  
-- [Why you heard about Renee Good before you heard about Keith Porter](https://vm.tiktok.com/ZNRrsnPc1/), Abiola Agoro via TikTok.  
+- 📲 [Why you heard about Renee Good before you heard about Keith Porter](https://vm.tiktok.com/ZNRrsnPc1/), Abiola Agoro via TikTok.
+- 📰 ["Detainee Deaths in ICE Custody Hit Two-Decade High, With at Least 30 Reported in 2025"](https://www.ibtimes.com/detainee-deaths-ice-custody-hit-two-decade-high-least-30-reported-2025-3794148), International Business Times.
+- 🔊 [Episode: "The State Strikes Back"](https://pca.st/episode/0586b438-0f3c-4c36-8a91-7c371e3230df), *It Could Happen Here*, Cool Zone Media, via PocketCasts.  
 
 ---
 
