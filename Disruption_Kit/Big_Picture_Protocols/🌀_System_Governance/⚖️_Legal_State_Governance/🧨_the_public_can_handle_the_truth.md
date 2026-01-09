@@ -1,5 +1,5 @@
 # 🧨 The Public Can Handle the Truth
-**First created:** 2025-12-20 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
 *Why withholding reality in the name of stability produces fragility, not safety*
 
 ---
@@ -180,4 +180,4 @@ It documents why withholding reality in the name of stability produces long-term
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-09_
