@@ -1,6 +1,6 @@
-# 🎖️ Training the Old Guard as Force Protection
-**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
-*Why bias literacy, narrative awareness, and reflexive thinking are no longer optional skills in modern defence — and why failing to retrain senior actors creates exploitable blind spots.*
+# 🎖️ Training the Old Guard as Force Protection  
+**First created:** 2025-12-22 | **Last updated:** 2026-01-09  
+*Why bias literacy, narrative awareness, and reflexive thinking are no longer optional skills in modern defence — and why failing to retrain senior actors creates exploitable blind spots.*  
 
 ---
 
@@ -135,18 +135,7 @@ Within CRAKEN, retraining the old guard:
 - increases system adaptability  
 - lowers the risk of sudden fracture  
 
-It strengthens the calcaneus rather than replacing it.
-
----
-
-## 📡 Cross-References
-
-- 🦴 Tolerance Thresholds as Load Management — why harm persists  
-- 🐉 It’s Not Always Daddy Dragon — comfort-villain bias  
-- 🧿 Attribution as Narrative Attack Surface — spoofability  
-- 🧨 Certainty Merchants and Security-Adjacent Amplifiers — narrative acceleration  
-- 📺 Platforming as Soft Power Capture — legitimacy laundering  
-- 🦑 CRAKEN System — reflexive load mapping  
+It strengthens the calcaneus rather than replacing it.  
 
 ---
 
@@ -155,8 +144,15 @@ It strengthens the calcaneus rather than replacing it.
 *🎖️ Training the Old Guard as Force Protection* is a living node of the **Polaris Protocol**.  
 It exists to ensure that senior experience remains an asset rather than a liability in reflexive, narrative-saturated threat environments.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+>
+> - [🦴 Tolerance Thresholds as Load Management](../🉑_System_Thresholds/🦴_tolerance_thresholds_as_load_management.md) — *why harm persists*  
+> - [🐉 It’s Not Always Daddy Dragon](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐉_its_not_always_daddy_dragon.md) — *comfort-villain bias*  
+> - [🧿 Attribution as Narrative Attack Surface](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_attribution_as_narrative_attack_surface.md) — *spoofability*  
+> - [🧨 Certainty Merchants and Security-Adjacent Amplifiers](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧨_certainty_merchants_and_security_adjacent_amplifiers.md) — *narrative acceleration*  
+> - [📺 Platforming as Soft Power Capture](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/📺_platforming_as_soft_power_capture.md) — *legitimacy laundering*  
+> - [🦑 CRAKEN System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive load mapping*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-01-09_
