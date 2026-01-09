@@ -1,5 +1,5 @@
 # 🦴 Tolerance Thresholds as Load Management  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-22 | **Last updated:** 2026-01-09  
 *Why systems tolerate harm not because they approve of it, but because absorbing it preserves structural control.*  
 
 ---
@@ -174,18 +174,7 @@ Within CRAKEN, tolerance thresholds:
 - explain why certain risks persist,
 - and predict where fracture will occur.
 
-They are **structural diagnostics**, not moral judgements.
-
----
-
-## 📡 Cross-References
-
-- 🐉 It’s Not Always Daddy Dragon — misplaced narrative load  
-- 📿 Vulnerable Data Populations at FCDO — who absorbs harm  
-- 🧟‍♀️ Residual Shadows at FCDO — stored pressure over time  
-- 🧿 Attribution as Narrative Attack Surface — tolerance via misdirection  
-- 🈴 Allies and Ethics Are Operational Variables — tolerated misconduct  
-- 🦑 CRAKEN System — reflexive load mapping  
+They are **structural diagnostics**, not moral judgements.  
 
 ---
 
@@ -195,9 +184,14 @@ They are **structural diagnostics**, not moral judgements.
 It exists to explain why harmful conditions persist inside powerful systems — and why ignoring tolerance dynamics guarantees surprise.
 
 > 📡 Cross-references:
-> 
-
+>
+> - [🐉 It’s Not Always Daddy Dragon](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐉_its_not_always_daddy_dragon.md) — *misplaced narrative load*  
+> - [🌍 Vulnerable Data Populations at FCDO](../../🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md) — *who absorbs harm*  
+> - [🌍 Residual Shadows at FCDO](../../🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌍_residual_shadows_at_fcdo.md) — *stored pressure over time*  
+> - [🧿 Attribution as Narrative Attack Surface](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_attribution_as_narrative_attack_surface.md) — *tolerance via misdirection*  
+> - [🈴 Allies and Ethics Are Operational Variables](../🈴_Allies_And_Ethics/🈴_allies_and_ethics_are_operational_variables.md) — *tolerated misconduct*  
+> - [🦑 CRAKEN System](../../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive load mapping*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-01-09_
