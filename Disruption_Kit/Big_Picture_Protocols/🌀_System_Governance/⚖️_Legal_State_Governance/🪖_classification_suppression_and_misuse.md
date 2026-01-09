@@ -1,5 +1,5 @@
 # 🪖 Classification, Suppression, and Misuse  
-**First created:** 2025-12-24 | **Last updated:** 2026-01-01  
+**First created:** 2025-12-24 | **Last updated:** 2026-01-09  
 *Key governance failure modes where secrecy regimes obstruct lawful disclosure.*  
 
 ---
@@ -152,4 +152,4 @@ It documents recognised governance failure modes where secrecy frameworks obstru
 <!--I could have made more pointed crosslinks, but I will pause.-->
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-01-09_
