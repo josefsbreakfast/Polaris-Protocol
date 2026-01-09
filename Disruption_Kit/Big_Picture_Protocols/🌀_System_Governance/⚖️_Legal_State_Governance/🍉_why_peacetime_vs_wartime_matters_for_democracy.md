@@ -1,5 +1,5 @@
 # 🍉 Why Peacetime vs Wartime Matters For Democracy  
-**First created:** 2025-12-18 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-18 | **Last updated:** 2026-01-09  
 *Why legal posture, not narrative intensity, determines the boundaries of democratic action.*  
 
 ---
@@ -145,4 +145,4 @@ It exists to defend democratic clarity when narrative intensity threatens to out
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-09_
