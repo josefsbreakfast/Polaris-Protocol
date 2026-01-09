@@ -1,6 +1,6 @@
-# 🈴 Allies and Ethics Are Operational Variables
-**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
-*Why alliances and ethical compromises shape threat exposure, attribution error, and long-term instability — whether acknowledged or not.*
+# 🈴 Allies and Ethics Are Operational Variables  
+**First created:** 2025-12-22 | **Last updated:** 2026-01-09  
+*Why alliances and ethical compromises shape threat exposure, attribution error, and long-term instability — whether acknowledged or not.*  
 
 ---
 
@@ -135,18 +135,7 @@ Within CRAKEN, alliances and ethics:
 - redistribute narrative load  
 - and determine where pressure accumulates  
 
-Ignoring them guarantees analytical distortion.
-
----
-
-## 📡 Cross-References
-
-- 🦴 Tolerance Thresholds as Load Management — deferred harm  
-- 🧿 Attribution as Narrative Attack Surface — plausibility boundaries  
-- 🐉 It’s Not Always Daddy Dragon — outward blame reflex  
-- 📿 Vulnerable Data Populations at FCDO — who absorbs cost  
-- 🧟‍♀️ Residual Shadows at FCDO — delayed consequences  
-- 🦑 CRAKEN System — reflexive ecological mapping  
+Ignoring them guarantees analytical distortion.  
 
 ---
 
@@ -155,8 +144,15 @@ Ignoring them guarantees analytical distortion.
 *🈴 Allies and Ethics Are Operational Variables* is a living node of the **Polaris Protocol**.  
 It exists to ensure that alliance management and ethical tolerance are analysed as security-relevant forces — not treated as background context.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+>
+> - [🦴 Tolerance Thresholds as Load Management](../🉑_System_Thresholds/🦴_tolerance_thresholds_as_load_management.md) — *deferred harm*  
+> - [🧿 Attribution as Narrative Attack Surface](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_attribution_as_narrative_attack_surface.md) — *plausibility boundaries*  
+> - [🐉 It’s Not Always Daddy Dragon](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐉_its_not_always_daddy_dragon.md) — *outward blame reflex*  
+> - [🌍 Vulnerable Data Populations at FCDO](../../🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md) — *who absorbs cost*  
+> - [🌍 Residual Shadows at FCDO](../../🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌍_residual_shadows_at_fcdo.md) — *delayed consequences*  
+> - [🦑 CRAKEN System](../../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-01-09_
