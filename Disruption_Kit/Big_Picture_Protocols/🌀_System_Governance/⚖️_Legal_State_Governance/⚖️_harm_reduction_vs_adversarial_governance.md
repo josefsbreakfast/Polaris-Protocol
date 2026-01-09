@@ -1,5 +1,5 @@
 # ⚖️ Harm Reduction vs Adversarial Governance  
-**First created:** 2025-12-12 | **Last updated:** 2026-01-05  
+**First created:** 2025-12-12 | **Last updated:** 2026-01-09  
 *How precautionary care becomes reframed as obstruction — and why systems degrade as a result.*  
 
 ---
@@ -161,4 +161,4 @@ It explains how care-based interventions become reframed as threats — and why 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-09_
