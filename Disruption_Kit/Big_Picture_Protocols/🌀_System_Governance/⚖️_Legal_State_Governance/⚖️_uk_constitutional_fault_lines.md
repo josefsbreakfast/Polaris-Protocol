@@ -1,5 +1,5 @@
 # ⚖️ UK Constitutional Fault Lines  
-**First created:** 2025-09-04 | **Last updated:** 2025-12-24  
+**First created:** 2025-09-04 | **Last updated:** 2026-01-09  
 *Mapping overlapping pressures on the UK’s unwritten constitution.*  
 
 ---
@@ -104,4 +104,4 @@ It documents systemic pressures on the UK’s unwritten constitution and their i
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-09_
