@@ -1,5 +1,5 @@
 # 🪻 Legal Overview — If *Lavender / Where’s Daddy?* Were Transplanted to the UK  
-**First created:** 2025-10-17 | **Last updated:** 2025-12-17  
+**First created:** 2025-10-17 | **Last updated:** 2026-01-09  
 *Thought experiment: what UK law would say if a battlefield AI-targeting stack such as Lavender / Where’s Daddy? were operated on British soil.*  
 
 ---
@@ -81,4 +81,4 @@ It outlines how UK domestic law would respond to the deployment of AI-targeting 
 > - [🧿 Dual-Use Narratives and the Illusion of Knowing](../../🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧿_dual_use_narratives_and_the_illusion_of_knowing.md) - *why we often do not know, even when we try to stay informed*
 
 
-_Last updated: 2025-12-17_
+_Last updated: 2026-01-09_
