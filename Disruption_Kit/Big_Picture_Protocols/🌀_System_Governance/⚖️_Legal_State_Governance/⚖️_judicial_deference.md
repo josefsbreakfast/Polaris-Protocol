@@ -1,5 +1,5 @@
 # ⚖️ Judicial Deference  
-**First created:** 2025-09-14 | **Last updated:** 2025-12-24  
+**First created:** 2025-09-14 | **Last updated:** 2026-01-09  
 *When courts outsource responsibility back to the executive — and call it restraint.*  
 
 ---
@@ -299,4 +299,4 @@ It documents how courts can, through restraint framed as neutrality, stabilise e
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-09_
