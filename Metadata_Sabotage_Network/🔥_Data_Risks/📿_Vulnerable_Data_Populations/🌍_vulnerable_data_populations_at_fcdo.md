@@ -1,6 +1,6 @@
-# 🌍 Vulnerable Data Populations at FCDO
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
-*Why cyber incidents touching diplomatic and immigration systems place specific human beings at disproportionate risk.*
+# 🌍 Vulnerable Data Populations at FCDO  
+**First created:** 2025-12-22 | **Last updated:** 2026-01-09  
+*Why cyber incidents touching diplomatic and immigration systems place specific human beings at disproportionate risk.*  
 
 ---
 
@@ -139,7 +139,6 @@ It exists to ensure that human risk is modelled explicitly — not assumed away 
 > - [🦑 C.R.A.K.E.N. System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*
 > - [📦 Containment as Industry](../../../Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/📦_containment_as_industry.md) — *where capital can be generated with information which may have been gained*  
 
-
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-09_

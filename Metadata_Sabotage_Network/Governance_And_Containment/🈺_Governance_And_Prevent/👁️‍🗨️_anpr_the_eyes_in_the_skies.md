@@ -1,5 +1,5 @@
 # 👁️‍🗨️ ANPR: The Eyes in the Skies  
-**First created:** 2026-01-08 | **Last updated:** 2026-01-08  
+**First created:** 2026-01-08 | **Last updated:** 2026-01-09  
 *A systems-level examination of Automated Number Plate Recognition as surveillance infrastructure, not just a policing tool*
 
 ---
@@ -11,7 +11,9 @@ Automatic Number Plate Recognition (ANPR) is routinely presented as neutral, tec
 In reality, ANPR has become one of the most extensive **mass movement surveillance systems** in the UK.
 
 This node examines ANPR not as a single technology, but as a **governance regime**:  
-how it is justified, how it actually operates at scale, where it fails, and what it quietly displaces.
+how it is justified, how it actually operates at scale, where it fails, and what it quietly displaces.  
+
+This technology may also be reffered to as ALPR: "Automatic Licence Plate Recognition".   
 
 ---
 
@@ -279,7 +281,10 @@ it is reduction.
 ---
 
 ## 🌌 Constellations  
-⚖️ 🛰️ 🧠 💰 🏙️ 🧬 — surveillance governance, systems drift, civic trust, value for money, urban control, structural bias.
+⚖️ 🛰️ 🧠 💰 🏙️ 🧬 — surveillance governance, systems drift, civic trust, value for money, urban control, structural bias.  
+
+*Further media:*  
+- [Deflock Project Mapping](https://deflock.me/) – *mapping and updating caneras across the world, based in US, actively updated*  
 
 ---
 
@@ -295,4 +300,4 @@ It documents how a routine enforcement technology becomes a mass surveillance re
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-01-09_

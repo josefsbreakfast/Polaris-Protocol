@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-08 18:17:25 UTC_
+_Generated on 2026-01-09 13:04:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1110,6 +1110,7 @@ _Generated on 2026-01-08 18:17:25 UTC_
         - [`⚖️_soft_power_without_soft_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_soft_power_without_soft_accountability.md)
         - [`⚖️_surveillance_osa_citizen_forking_meganode.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_surveillance_osa_citizen_forking_meganode.md)
         - [`⚖️_transitional_change_vs_rapid_revolutionary_shock.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_transitional_change_vs_rapid_revolutionary_shock.md)
+        - [`✈️_the_men_who_grew_up_with_flight_paths.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/✈️_the_men_who_grew_up_with_flight_paths.md)
         - [`✈️_they_always_think_they_are_geniuses.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/✈️_they_always_think_they_are_geniuses.md)
         - [`✨_misinterpretation_risk_in_geopolitical_signalling.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/✨_misinterpretation_risk_in_geopolitical_signalling.md)
         - [`🀄️_to_reveal_our_own_hand.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🀄️_to_reveal_our_own_hand.md)
@@ -2472,6 +2473,7 @@ _Generated on 2026-01-08 18:17:25 UTC_
       - [`20260106.md`](Disruption_Kit/Field_Logs/20260101_January_2026/20260106.md)
       - [`20260107.md`](Disruption_Kit/Field_Logs/20260101_January_2026/20260107.md)
       - [`20260108.md`](Disruption_Kit/Field_Logs/20260101_January_2026/20260108.md)
+      - [`20260109.md`](Disruption_Kit/Field_Logs/20260101_January_2026/20260109.md)
       - [`IMG_2401.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_2401.png)
       - [`IMG_2534.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_2534.png)
       - [`IMG_2677.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_2677.png)
@@ -2510,6 +2512,7 @@ _Generated on 2026-01-08 18:17:25 UTC_
       - [`IMG_3866.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3866.png)
       - [`IMG_3901.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3901.png)
       - [`IMG_3902.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3902.png)
+      - [`IMG_3983.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3983.png)
       - [`Screenshot 2026-01-02 102328.png`](Disruption_Kit/Field_Logs/20260101_January_2026/Screenshot 2026-01-02 102328.png)
     - [`20250828_racialisation_hijack.PNG`](Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
     - [`20251028_forcible_conversion_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
@@ -3299,6 +3302,7 @@ _Generated on 2026-01-08 18:17:25 UTC_
     - [**🈸_Dispatch_And_Training/**](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/)
       - [`README.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/README.md)
       - [`🎖️_training_the_old_guard_as_force_protection.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🎖️_training_the_old_guard_as_force_protection.md)
+      - [`💄_the_big_british_school_photo_day_24_7_365.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/💄_the_big_british_school_photo_day_24_7_365.md)
       - [`💾_archival_drift.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/💾_archival_drift.md)
       - [`📡_signal_lost.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📡_signal_lost.md)
       - [`📦_final_dispatch_entry.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/📦_final_dispatch_entry.md)
@@ -3689,6 +3693,7 @@ _Generated on 2026-01-08 18:17:25 UTC_
       - [`📥_entry_point_abuse_in_automated_datasets.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📥_entry_point_abuse_in_automated_datasets.md)
       - [`🔮_semantic_loops_and_authority_breaks.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🔮_semantic_loops_and_authority_breaks.md)
       - [`🕳_audit_glitchpoints_in_racialised_gendered_cases.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🕳_audit_glitchpoints_in_racialised_gendered_cases.md)
+      - [`🗽_the_consequences_of_rapid_schmittian_capture.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🗽_the_consequences_of_rapid_schmittian_capture.md)
       - [`🚀_forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_forkstorm_phase_tracker_2025-08-05.md)
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
       - [`🛠️_frankenstack_failure_modes_in_public_systems.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🛠️_frankenstack_failure_modes_in_public_systems.md)
@@ -3708,10 +3713,10 @@ _Generated on 2026-01-08 18:17:25 UTC_
       - [`🧬_complaint_drift_and_twin_overcorrection.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_complaint_drift_and_twin_overcorrection.md)
       - [`🧬_focus_group_of_one_failure_mode.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_focus_group_of_one_failure_mode.md)
       - [`🧬_post_digital_data_world.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_post_digital_data_world.md)
+      - [`🧬_why_twinning_agreements_break.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_why_twinning_agreements_break.md)
       - [`🧮_focus_group_of_one.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧮_focus_group_of_one.md)
       - [`🧯_file_transport_failure_log.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧯_file_transport_failure_log.md)
       - [`🧰_upstream_compromise_remote_middleware_checklist.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧰_upstream_compromise_remote_middleware_checklist.md)
-      - [`🪞_why_twinning_agreements_break.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪞_why_twinning_agreements_break.md)
       - [`🪦_memetic_hauntology.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🪦_memetic_hauntology.md)
     - [**🧬_Structural_Mapping/**](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/)
       - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md)
@@ -4768,6 +4773,7 @@ _Generated on 2026-01-08 18:17:25 UTC_
       - [`🐘_the_ghost_of_a_very_big_elephant.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/🐘_the_ghost_of_a_very_big_elephant.md)
     - [`README.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/README.md)
     - [`🌶️_WHOQOLBREF_surveillance_impact_scoring.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🌶️_WHOQOLBREF_surveillance_impact_scoring.md)
+    - [`🦅_overstimulated_prey_response.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🦅_overstimulated_prey_response.md)
     - [`🧠_context_deprivation_effect.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_context_deprivation_effect.md)
     - [`🧠_cumulative_surveillance_burden.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_cumulative_surveillance_burden.md)
     - [`🧠_residual_attentional_conditioning_injury.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_residual_attentional_conditioning_injury.md)

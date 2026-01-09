@@ -1,5 +1,5 @@
 # 🔥 Rights as Friction  
-**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-26 | **Last updated:** 2026-01-09    
 *Why safeguards are treated as obstacles*  
 <!-- Cf. behavioural nudges pre-Brexit; valuable target non-state actor possibilities for same industry. To research/check. -->
 
@@ -238,8 +238,11 @@ It clarifies how rights and courts are reframed as “inefficiency” when gover
 > - [☔️ Digital Quicksand 101](../💫_Containment_Logic/☔️_digital_quicksand_101.md) — *emergent instability under pressure*  
 > - [⚖️ The Architecture of Complicity — When Justice Stops at the Dock](../👑_Ownership_Control/⚖️_architecture_of_complicity.md)
 > - [🌀 Rule of Law Failure Cascade](./🌀_rule_of_law_failure_cascade.md)
-> - [🪦 CECOT as a Rights-Void Facility](../👑_Ownership_Control/🪦_cecot_as_rights_void_facility.md)  
+> - [🪦 CECOT as a Rights-Void Facility](../👑_Ownership_Control/🪦_cecot_as_rights_void_facility.md)
+> - [🦤 The Just-Eat Hunger Strike Tit](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🦤_the_just_eat_hunger_strike_tit.md)
+> - [⚖️ Presumption of Innocence and the Limits of Exceptional Power](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_presumption_of_innocence_and_the_limits_of_exceptional_power.md)
+> - [🧨 The Schmittian Drift in Exceptional Detention Governance](../../🌀_System_Governance/⚖️_Legal_State_Governance/🧨_the_schmittian_drift_in_exceptional_detention_governance.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-01-09_

@@ -1,6 +1,6 @@
 # 💾 Archival Drift: When Updates Delete History  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-25  
-*Digital forensics of policy migrations and auto-purge erasures.*
+**First created:** 2025-10-10 | **Last updated:** 2026-01-09  
+*Digital forensics of policy migrations and auto-purge erasures.*  
 
 ---
 
@@ -70,9 +70,12 @@ It treats each deleted version as forensic evidence of containment by refresh �
 
 > 📡 Cross-references:
 > 
-> - [🈸 Dispatch & Training README](./README.md)  
-> - [🕯 Exorcising Safeguarding Shadows](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/README.md)  
+> - [🧾 Artifact Archive Templates](../../../🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧾_artifact_archive_templates.md)  
+> - [🕳️ The Archive Is Shaped by Withheld Data](../../Suppression_Layers/📉_Suppression_Interference_Logs/🕳️_the_archive_is_shaped_by_witheld_data.md)  
+> - [📖 Erased Archives & Survival Bias](../../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📖_erased_archives_and_survival_bias.md)  
+> - [📚 Library as Algorithmic Interface](../../Structural_Analysis/🧬_Structural_Mapping/📚_library_as_algorithmic_interface.md)  
+> - [📊 Navy Transparency as Resistance](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/data/📊_navy_transparency_as_resistance.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-25_
+_Last updated: 2026-01-09_
