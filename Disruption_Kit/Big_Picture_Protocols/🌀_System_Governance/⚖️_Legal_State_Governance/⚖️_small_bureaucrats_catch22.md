@@ -1,5 +1,5 @@
 # ⚖️ Small Bureaucrats Catch-22  
-**First created:** 2025-09-05 | **Last updated:** 2025-12-24  
+**First created:** 2025-09-05 | **Last updated:** 2026-01-09  
 *Documenting the Catch-22 dynamic of complicit middle-layers and the strategy for targeted resistance.*  
 
 ---
@@ -58,4 +58,4 @@ It documents how complicit middle-layers create systemic stalemates and how surv
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-09_
