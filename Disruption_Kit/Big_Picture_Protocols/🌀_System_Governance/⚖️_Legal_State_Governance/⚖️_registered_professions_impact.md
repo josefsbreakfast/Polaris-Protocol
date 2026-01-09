@@ -1,5 +1,5 @@
 # ⚖️ Registered Professions Impact  
-**First created:** 2025-09-26 | **Last updated:** 2026-01-05  
+**First created:** 2025-09-26 | **Last updated:** 2026-01-09  
 *How manufactured provenance disproportionately affects registered professionals in healthcare, law, education, and social work.*  
 
 ---
@@ -108,4 +108,4 @@ It analyses the systemic risks posed to registered professions when provenance i
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-05_
+_Last updated: 2026-01-09_
