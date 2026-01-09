@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-09 08:31:16 UTC_
+_Generated on 2026-01-09 09:13:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3693,6 +3693,7 @@ _Generated on 2026-01-09 08:31:16 UTC_
       - [`📥_entry_point_abuse_in_automated_datasets.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📥_entry_point_abuse_in_automated_datasets.md)
       - [`🔮_semantic_loops_and_authority_breaks.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🔮_semantic_loops_and_authority_breaks.md)
       - [`🕳_audit_glitchpoints_in_racialised_gendered_cases.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🕳_audit_glitchpoints_in_racialised_gendered_cases.md)
+      - [`🗽_the_consequences_of_rapid_schmittian_capture.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🗽_the_consequences_of_rapid_schmittian_capture.md)
       - [`🚀_forkstorm_phase_tracker_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_forkstorm_phase_tracker_2025-08-05.md)
       - [`🚀_metadata_breakpoint_log_2025-08-05.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🚀_metadata_breakpoint_log_2025-08-05.md)
       - [`🛠️_frankenstack_failure_modes_in_public_systems.md`](Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🛠️_frankenstack_failure_modes_in_public_systems.md)
