@@ -1,5 +1,5 @@
-# 🔥 When Law Has Collapsed into Power (Checklist)  
-**First created:** 2025-12-13 | **Last updated:** 2025-12-15  
+# 🔥 When Law Has Collapsed into Power  
+**First created:** 2025-12-13 | **Last updated:** 2026-01-09  
 *A practical checklist for identifying the threshold where legality yields to coercive power in policing practice.*  
 
 ---
@@ -156,4 +156,4 @@ It provides a clear, pattern-based method for identifying when policing practice
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-01-09_
