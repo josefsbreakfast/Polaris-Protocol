@@ -1,5 +1,5 @@
 # ⚖️ Transparency Floor Node — Litmus Test Class & FOIA Disempowerment  
-**First created:** 2025-09-20 | **Last updated:** 2025-12-24  
+**First created:** 2025-09-20 | **Last updated:** 2026-01-09  
 *Explains how the least empowered citizens often detect systemic anomalies through FOIA/SAR use, yet lack the capacity to enforce rights, creating a structural blind spot in transparency law.*  
 
 ---
@@ -87,4 +87,4 @@ It documents how FOIA/SAR frameworks structurally disempower those most likely t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-01-09_
