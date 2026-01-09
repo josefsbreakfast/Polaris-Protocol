@@ -138,7 +138,10 @@ It argues that **rapid Schmittian capture is structurally mismatched to the Unit
 ---
 
 ## 🌌 Constellations  
-🗽 ⚖️ 🧠 🔥 🫀 🛰️ — sovereignty, law, ideology, state violence, moral legitimacy, federal power.
+🗽 ⚖️ 🧠 🔥 🫀 🛰️ — sovereignty, law, ideology, state violence, moral legitimacy, federal power.  
+
+*Further media:*  
+- [Why you heard about Renee Good before you heard about Keith Porter](https://vm.tiktok.com/ZNRrsnPc1/), Abiola Agoro via TikTok.  
 
 ---
 
