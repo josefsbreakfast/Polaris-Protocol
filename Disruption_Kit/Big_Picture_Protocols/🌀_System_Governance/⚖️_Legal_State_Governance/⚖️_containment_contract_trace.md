@@ -1,11 +1,6 @@
 # ⚖️ Containment Contract Trace  
-**First created:** 2025-08-07 | **Last updated:** 2026-01-09  
-
-
-# ⚖️ Containment Contract Trace  
-*How contractual over-extension, compliance logic, and extraction pipelines produce suppression, legal insulation, and forced visibility.*
-
-**First created:** 2025-??-?? | **Last updated:** 2026-01-11  
+**First created:** 2025-08-07 | **Last updated:** 2026-01-11  
+*How contractual over-extension, compliance logic, and extraction pipelines produce suppression, legal insulation, and forced visibility.*  
 
 ---
 
