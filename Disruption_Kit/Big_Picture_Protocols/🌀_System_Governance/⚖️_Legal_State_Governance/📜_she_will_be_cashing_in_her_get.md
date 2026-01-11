@@ -1,4 +1,4 @@
-# 📜 She Will Be Cashing In Her Get  
+# 📜 She Will Be Cashing In Her *Get*  
 **First created:** 2026-01-11 | **Last updated:** 2026-01-11  
 *On extraction, neglected obligation, and enforced severance under conditions of intimate harm.*  
 <!--She even gave The Men™️ notice.-->  
@@ -19,7 +19,7 @@ Surveillance capitalism extracts from domains of intimacy, vulnerability, trauma
 
 In halakhic terms, this resembles a condition in which intimacy has occurred, obligations have attached, and those obligations have been violated through neglect, abuse, or refusal of repair.
 
-The *get*—the enforced severance from a harmful marriage—offers a precise parallel for survivor-led enforcement: not as escalation, but as **the final corrective mechanism available once responsibility has failed**.
+The *get* — the enforced severance from a harmful marriage — offers a precise parallel for survivor-led enforcement: not as escalation, but as **the final corrective mechanism available once responsibility has failed**.
 
 ---
 
@@ -165,7 +165,11 @@ Halakhic reasoning is clear:
 > Enforcement occurs because harm already exists and repair was refused.
 
 The enforcement does not create the damage.  
-It **terminates continued exposure to it**.
+It **terminates continued exposure to it**.  
+
+Which is why:  
+
+She will be cashing in her *get*.  
 
 ---
 
