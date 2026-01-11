@@ -1,6 +1,6 @@
 # ⚖️ Compliance as Opacity  
 **First created:** 2025-09-16 | **Last updated:** 2026-01-11  
-*How “compliance”, secrecy, and CVE practice in the UK create plausible deniability, gaslighting, and governance failure — with remedies.*  
+*How “compliance” and secrecy create plausible deniability, gaslighting, and governance failure, and how to remedy this.*  
 
 ---
 
@@ -97,7 +97,7 @@ It does not remove it.
 ---
 
 ## 🌌 Constellations  
-⚖️ 🧠 🔮 🔏 — This node decodes UK CVE logic through opacity and denial mechanisms.
+⚖️ 🧠 🔮 🔏 — Governance opacity, denial mechanisms, and compliance-as-control, with UK CVE as a stress-test case.  
 
 **Further Media:**  
 - 📺 [The Capture](https://www.bbc.co.uk/programmes/m00085sx), BBC — *on opaque surveillance justification*  
