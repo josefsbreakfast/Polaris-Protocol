@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-11 22:03:37 UTC_
+_Generated on 2026-01-11 22:12:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4002,6 +4002,7 @@ _Generated on 2026-01-11 22:03:37 UTC_
       - [`🖼️_image_blur_sabotage.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🖼️_image_blur_sabotage.md)
       - [`🛑_flag_cascades.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🛑_flag_cascades.md)
       - [`🤖_bot_audit_chokehold.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🤖_bot_audit_chokehold.md)
+      - [`🧊_the_bbc_got_algorithmically_iced.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧊_the_bbc_got_algorithmically_iced.md)
       - [`🧩_feature_fracturing.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧩_feature_fracturing.md)
       - [`🧭_misroute_visibility.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧭_misroute_visibility.md)
       - [`🧵_content_unravelling_protocols.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧵_content_unravelling_protocols.md)
