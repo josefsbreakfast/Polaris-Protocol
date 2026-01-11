@@ -1,5 +1,5 @@
 # ⏳ Governance Latency in Population-Scale Cyber Events  
-**First created:** 2025-10-13 | **Last updated:** 2026-01-09  
+**First created:** 2025-10-13 | **Last updated:** 2026-01-11  
 *Why mid-scale cyber events harm real populations long before institutions are structurally able to respond.*  
 
 ---
@@ -54,7 +54,7 @@ This latency is not accidental. It is the by-product of systems optimised for *c
 
 ---
 
-## ⚡️ Predictable Exploitation Vectors (Social Fault Lines)  
+## ⚡️ Predictable Exploitation Vectors  
 Certain categories of harm consistently experience **longer governance latency** — not because they are technically harder to detect, but because they sit at the intersection of contested legitimacy, fragmented reporting, and political discomfort.
 
 These include impacts shaped by:
@@ -91,7 +91,7 @@ The downstream effect can resemble discriminatory policy outcomes even when the 
 
 ---
 
-## ☔️ Reporting Friction, Burnout & Cognitive Exhaust  
+## ☔️ Reporting Friction, Burnout, & Cognitive Exhaust  
 Governance latency is amplified by population-level burnout among those most affected.
 
 Many individuals have prior experience of raising issues only to be ignored or passed between systems. Over time, this produces moral injury and cognitive exhaustion. The perceived cost of reporting exceeds the expected benefit.
@@ -152,7 +152,7 @@ This is an incentive-structure observation.
 
 ---
 
-## 💼 Normalisation, Moral Distance & “Just Business”  
+## 💼 Normalisation, Moral Distance, & “Just Business”  
 A common objection is: “No one would do that.”
 
 History does not support this assumption.
@@ -232,29 +232,36 @@ It is a silent policy choice.
 ---
 
 ## 🌌 Constellations  
-🛰️ ⚖️ 🌀 🏛️ 🌐 — protocol integrity, legal authority, systems governance, civic response, digital sovereignty.
+🛰️ ⚖️ 🌀 🏛️ 🌐 ⏳ ⚠️ 🧠 — governance latency as legal liability; time-based failure thresholds, institutional cognition, and population-scale cyber harm.
 
 ---
 
 ## ✨ Stardust  
-governance latency, cyber response, population-scale incidents, attribution delay, contingency authority, preparedness, reporting friction, frankenstacks, moral disengagement  
+governance latency, state liability, institutional delay, cyber governance, population-scale cyber events, attribution delay, duty of care, failure to act, administrative inertia, reporting friction, frankenstacks, preparedness
 
 ---
 
 ## 🏮 Footer  
+
 *⏳ Governance Latency in Population-Scale Cyber Events* is a living node of the **Polaris Protocol**.  
-It documents how structural delay functions as an unacknowledged governance mechanism during large-scale digital harm.
+It examines how structural delay becomes a liability multiplier in digital harm cases, particularly where cyber interference affects populations faster than legal or institutional response systems can adapt.
 
 > 📡 Cross-references:
 > 
-> - [📿 Vulnerable Data Populations](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/README.md) - *deeper dives into most at-risk populations in data harm cases*  
-> - [🧟‍♀️ The Frankenstack Problem](../🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md) - *overview of current UK patchwork stack vulnerabilities*  
-> - [🧨 Dual-Use Frankenstack](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🧨_dual_use_frankenstack.md) - *hypothetical composite frankenstack, written for OSINT investigation around academia and red flags for dual-use digital harm tooling*  
-> - [⏳ Chronos as Containment](../💫_Containment_Logic/⏳_chronos_as_containment.md)  
-> - [⚖️ Ethics Timeout — When Research Datasets Expire and Disappear](../🧪_Development_Experimentation/⚖️_ethics_timeout_retention_clock.md)  
-> - [⏱️ Timebase Desyncs](../../../../🩻_Weirdness_Screening/🌐_Connection_Hiccups/⏱️_timebase_desyncs.md)  
-> - [🧨 Delayed Visibility Is a Signal](../../../Containment_Scripts/Suppression_Modes/🧨_delayed_visibility_is_a_signal.md)  
+> - [📿 Vulnerable Data Populations](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/README.md) — *identifies the groups most likely to absorb harm first when governance response is delayed or fragmented*  
+> 
+> - [🧟‍♀️ The Frankenstack Problem](../🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md) — *explains how legacy system coupling and partial modernisation create latency, desynchronisation, and silent failure modes*  
+> 
+> - [🧨 Dual-Use Frankenstack](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🧨_dual_use_frankenstack.md) — *shows how the same fragmented infrastructures can be repurposed or exploited for surveillance and population-scale harm*  
+> 
+> - [⏳ Chronos as Containment](../💫_Containment_Logic/⏳_chronos_as_containment.md) — *conceptual companion node describing how time itself is operationalised as a containment and suppression mechanism*  
+> 
+> - [⚖️ Ethics Timeout — When Research Datasets Expire and Disappear](../🧪_Development_Experimentation/⚖️_ethics_timeout_retention_clock.md) — *illustrates how time-based expiry rules quietly shape accountability, evidence availability, and post-hoc ethics*  
+> 
+> - [⏱️ Timebase Desyncs](../../../../🩻_Weirdness_Screening/🌐_Connection_Hiccups/⏱️_timebase_desyncs.md) — *documents technical manifestations of temporal misalignment that mirror institutional delay at the system level*  
+> 
+> - [🧨 Delayed Visibility Is a Signal](../../../Containment_Scripts/Suppression_Modes/🧨_delayed_visibility_is_a_signal.md) — *operational guide for recognising delay itself as an indicator of interference or suppression, not neutrality*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-11_
