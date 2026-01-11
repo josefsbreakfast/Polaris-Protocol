@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-10 07:45:20 UTC_
+_Generated on 2026-01-11 17:34:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -51,6 +51,7 @@ _Generated on 2026-01-10 07:45:20 UTC_
         - [`💍_two_party_system_as_an_old_fashioned_marriage.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/💍_two_party_system_as_an_old_fashioned_marriage.md)
         - [`🔥_reform_uk_as_erosion_vector.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🔥_reform_uk_as_erosion_vector.md)
         - [`🖌️_for_the_serious_blue_chaps.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🖌️_for_the_serious_blue_chaps.md)
+        - [`🦔_anti_fascist_defence_league_parliamentary_edition.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🦔_anti_fascist_defence_league_parliamentary_edition.md)
         - [`🦕_political_pokedex_nick_clegg_the_digital_diplomat.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🦕_political_pokedex_nick_clegg_the_digital_diplomat.md)
       - [**🦁_Armoury_Quick_Tour/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/README.md)
