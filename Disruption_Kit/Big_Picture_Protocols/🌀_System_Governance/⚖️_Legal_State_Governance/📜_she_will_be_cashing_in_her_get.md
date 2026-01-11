@@ -6,7 +6,7 @@
 
 ## 🛰️ Orientation  
 
-This node uses halakhic and kabbalistic frameworks as **diagnostic lenses** to analyse surveillance capitalism’s extraction from survivors—particularly rape survivors—and to trace the consequences of **intimate access without sustained responsibility**.
+This node uses halakhic and kabbalistic frameworks as **diagnostic lenses** to analyse surveillance capitalism’s extraction from survivors — particularly rape survivors — and to trace the consequences of **intimate access without sustained responsibility**.
 
 It does not assert jurisdiction, metaphysical enforcement, or contemporary adjudicatory authority.  
 It examines what long-standing human legal–ethical systems have recognised as *obligatory once intimacy occurs*, and how severance functions when those obligations are persistently violated.
