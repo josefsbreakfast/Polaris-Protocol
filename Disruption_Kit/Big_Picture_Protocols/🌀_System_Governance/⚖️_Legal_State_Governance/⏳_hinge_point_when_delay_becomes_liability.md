@@ -302,7 +302,7 @@ It documents the predictable moment where postponement ceases to protect institu
 
 > 📡 Cross-references:
 > 
-> - [⏳ Governance Latency in Population-Scale Cyber Events](⏳_governance_latency.md) — *maps how prolonged institutional delay accumulates risk over time, creating the conditions in which hinge points become inevitable*  
+> - [⏳ Governance Latency in Population-Scale Cyber Events](./⏳_governance_latency.md) — *maps how prolonged institutional delay accumulates risk over time, creating the conditions in which hinge points become inevitable*  
 > 
 > - [⚖️ Judicial Scrutiny of Delay Over Substance](./⚖️_judicial_scrutiny_of_delay_over_substance.md) — *examines how courts and oversight bodies interpret delay itself as a governance failure, often prioritising timing over stated intent*  
 > 
