@@ -252,7 +252,7 @@ It clarifies the epistemic and governance gap between knowing and proving, and f
 > - [👾 Reduced Integrity Checks Downstream](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👾_reduced_integrity_checks_downstream.md) — *what happens inside systems once denial becomes habitual and evidentiary standards are selectively applied*  
 > 
 > - [🌀 Loop Mapping Station](../../../../🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md) — *analytical tools for tracing feedback loops created by delayed proof and institutional disbelief*
-> - 
+> 
 > - [🪢 Re-Embodied Dialogue & Civic Presence](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/🪢_re_embodied_dialogue_and_civic_presence.md) — *practices for restoring civic grounding when formal systems refuse to recognise known truth*  
 
 
