@@ -1,5 +1,5 @@
 # ⚖️ Authorisation and Oversight  
-**First created:** 2025-09-26 | **Last updated:** 2026-01-09  
+**First created:** 2025-09-26 | **Last updated:** 2026-01-11  
 *How intelligence powers are authorised — and how lawful systems drift away from consent.*  
 
 ---
@@ -310,14 +310,11 @@ Rising coercion, declining consent, and crisis-driven reform under worse conditi
 
 ---
 
-## ✨ Stardust
+## ✨ Stardust  
 
-authorisation, oversight, warrants, policing by consent, lawfare, surveillance, legitimacy drift, power asymmetry, intelligence governance, arrest powers  
+authorisation, oversight, intelligence powers, warrant approval, judicial oversight, IPCO, IPT, ministerial sign-off, policing by consent, surveillance governance, legitimacy drift, power asymmetry, lawfare  
 
 ---
-
-## ✨ Stardust  
-intelligence powers, warrant approval, judicial oversight, IPCO, IPT, ministerial sign-off
 
 ## 🏮 Footer  
 
@@ -336,4 +333,4 @@ It explains how intelligence warrants are issued and checked in the UK — and h
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-11_
