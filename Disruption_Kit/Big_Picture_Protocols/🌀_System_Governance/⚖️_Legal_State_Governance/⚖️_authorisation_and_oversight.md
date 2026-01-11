@@ -65,22 +65,22 @@ What matters is what oversight can reliably see.
 
 The authorisation framework is optimised for particular risks — and makes trade-offs in doing so.
 
-### What the System Does Well
+### 🔸 What the System Does Well
 - Enables rapid authorisation in high-risk contexts  
 - Distributes decision-making authority  
 - Creates a formal audit trail  
 
-### What the System Trades Away
+### 🔸 What the System Trades Away
 - End-to-end responsibility for outcomes  
 - Visibility of cumulative or cross-agency harm  
 - Clear ownership when downstream harm occurs  
 
-### Who Benefits
+### 🔸 Who Benefits
 - Ministers protected by procedural compliance  
 - Agencies shielded from sole liability  
 - Courts reviewing narrow questions of legality  
 
-### Who Carries the Cost
+### 🔸 Who Carries the Cost
 - Individuals subject to opaque or long-term surveillance  
 - Communities experiencing disproportionate scrutiny  
 - Public trust in oversight as meaningful restraint  
