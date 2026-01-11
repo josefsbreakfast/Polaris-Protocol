@@ -180,10 +180,75 @@ Visibility substitutes for accountability.
 
 ## 📜 Doctrine Appendix: Legal Mechanisms Enabling Extraction Without Redress  
 
-*(Summary of purpose limitation erosion, special-category data exemptions, anonymisation fictions, Crown property doctrines, secrecy statutes, contractual chain reliance, and causation thresholds.)*
+This appendix summarises the legal doctrines that, in combination, permit survivor-derived data, labour, and biometric material to be reused, over-extended, and insulated from challenge or compensation.
 
-Individually, these doctrines are defensible.  
-In combination, they produce extraction without consent renewal, reuse without notice, suppression without adjudication, and harm without remedy.
+Each doctrine is defensible in isolation.  
+Together, they create a closed loop in which harm accumulates without accountability.  
+
+### 1. Purpose Limitation and “Compatible Use” Drift  
+
+Data protection regimes formally require data to be collected for specified and legitimate purposes. In practice, expansive interpretations of “compatible use” allow data to migrate across adjacent domains—justice, safeguarding, research, system improvement—without renewed consent or meaningful notice.
+
+Purpose limitation becomes rhetorical rather than operational.  
+
+### 2. Special-Category Data Exemptions  
+
+Biometric, health, and trauma-related data are nominally afforded heightened protection. However, exemptions for research, public interest, or safeguarding routinely relax consent requirements and defer safeguards to internal governance.
+
+The most sensitive data becomes the most reusable, precisely because it is framed as socially necessary.  
+
+### 3. Anonymisation and Pseudonymisation Fictions  
+
+Legal frameworks treat anonymised or pseudonymised data as low risk. This assumption fails for biometric material.
+
+Voice, affective markers, and behavioural signatures remain inherently identifying. Re-identification risk increases as datasets proliferate and are recombined across systems. Legal safety rests on technical impossibility claims that no longer hold.  
+
+### 4. Crown Property and State Ownership Doctrines  
+
+Evidentiary materials generated within criminal justice processes are often classified as Crown property or held under state ownership regimes.
+
+Once reclassified:
+- subject access rights are curtailed,
+- downstream reuse is undisclosed,
+- consent renewal is structurally impossible,
+- and auditability is blocked by secrecy.
+
+The person from whom the data originates is procedurally erased.  
+
+### 5. Secrecy Statutes and National Security Carve-Outs  
+
+Statutory secrecy provisions are intended to protect investigations and sources. In practice, they extend to block disclosure of data categories, reuse pathways, and scope creep.
+
+Secrecy prevents contestation, obscures causation, and ensures that harm is only discovered after externalisation.  
+
+### 6. Contractual Chain Reliance  
+
+Contract law permits downstream actors to rely on upstream permissions. Through sublicensing and contractor chains, consent propagates while responsibility fragments.
+
+Each actor remains compliant within their contractual role. No actor is required to account for cumulative impact.
+
+Compliance substitutes for judgment.  
+
+### 7. Causation Thresholds and the Compensation Gap  
+
+Compensation regimes require demonstrable causation. In secrecy-heavy, distributed systems, harm is cumulative, delayed, and attribution is structurally unavailable.
+
+As a result, individuals absorb medical, psychological, reputational, and exposure costs while institutions retain legal insulation and extracted value.
+
+Compensation is excluded by design, not oversight.  
+
+### 8. The Combined Effect  
+
+Individually, these doctrines:
+- protect public interests,
+- enable research,
+- preserve investigations.
+
+In combination, they produce:
+- extraction without consent renewal,
+- reuse without notice,
+- suppression without adjudication,
+- and harm without remedy.
 
 The system remains lawful because no single actor violates the rules.  
 The system fails because no actor is required to account for the whole.
