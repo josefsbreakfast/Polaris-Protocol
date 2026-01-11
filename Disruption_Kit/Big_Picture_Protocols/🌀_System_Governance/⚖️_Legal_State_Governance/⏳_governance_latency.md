@@ -334,7 +334,9 @@ It examines how structural delay becomes a liability multiplier in digital harm 
 > 
 > - [⏱️ Timebase Desyncs](../../../../🩻_Weirdness_Screening/🌐_Connection_Hiccups/⏱️_timebase_desyncs.md) — *documents technical manifestations of temporal misalignment that mirror institutional delay at the system level*  
 > 
-> - [🧨 Delayed Visibility Is a Signal](../../../Containment_Scripts/Suppression_Modes/🧨_delayed_visibility_is_a_signal.md) — *operational guide for recognising delay itself as an indicator of interference or suppression, not neutrality*  
+> - [🧨 Delayed Visibility Is a Signal](../../../Containment_Scripts/Suppression_Modes/🧨_delayed_visibility_is_a_signal.md) — *operational guide for recognising delay itself as an indicator of interference or suppression, not neutrality*
+>
+> - [🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) – *reflexive, load-aware ecological model for geopolitical analysis; squid-sedation squad strikes again*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
