@@ -318,18 +318,28 @@ authorisation, oversight, intelligence powers, warrant approval, judicial oversi
 
 ## 🏮 Footer  
 
-*⚖️ Authorisation and Oversight* is a living node of the Polaris Protocol.  
-It explains how intelligence warrants are issued and checked in the UK — and how gaps between process and experience undermine survivor trust.
+*⚖️ Authorisation and Oversight* is a living node of the **Polaris Protocol**.  
+It explains how intelligence warrants are issued and checked in the UK — and how gaps between lawful process, lived experience, and cumulative duration undermine democratic consent.
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Legal Frameworks and Remits](./⚖️_legal_frameworks_remits.md) — *where mandates expand or blur*  
-> - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md) — *oversight rhythms as ritual*
-> - [🧠 The Continuum of Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md) — *how the UK's PREVENT counterterrorism polcy machine has vibrated the Islands across the kitchen towards authoritarianism*  
-> - [👾 Intent-Free Authoritarian Drift](../💫_Containment_Logic/👾_intent_free_authoritarian_drift.md) — *how this can happen without any intent to do so at all (we can all accidentally nudge the machine off its plinth*  
-> - [👾 Why Policing and PREVENT Are Susceptible to Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_authoritarian_drift.md) — *how policing and PREVENT are, by nature, susceptible to this drift - again, without needing intent*
-> - [👅 Bad Deepfakes — Why “Surveillance-Level” Clones Fail](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/👅_bad_deepfakes.md) — *why the tech isn't really "all that"*
-> - [🩸 When Little Bureaucrats Play Big Boy Pimps](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🩸_when_little_bureaucrats_play_big_boy_pimps.md) — *on misogyny and countering the violent extremism of male actors in CVE environments*  
+> - [⏳ Governance Latency in Population-Scale Cyber Events](./⏳_governance_latency.md) — *how legally compliant delay accumulates harm and erodes legitimacy when oversight cannot see population-scale effects*  
+> 
+> - [⏳ Hinge Point: When Delay Becomes Liability](./⏳_hinge_point_when_delay_becomes_liability.md) — *the predictable moment where prolonged procedural delay flips from protection into institutional exposure*  
+> 
+> - [⚖️ Legal Frameworks and Remits](./⚖️_legal_frameworks_remits.md) — *how statutory scope expands, blurs, or stretches under operational pressure*  
+> 
+> - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md) — *why periodic audits struggle to interrupt long-running or cumulative harm*  
+> 
+> - [👾 Intent-Free Authoritarian Drift](../💫_Containment_Logic/👾_intent_free_authoritarian_drift.md) — *how lawful systems drift toward coercion without conspiracy or bad faith*  
+> 
+> - [👾 Why Policing and PREVENT Are Susceptible to Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_authoritarian_drift.md) — *applied analysis of why these systems are structurally vulnerable to drift*  
+> 
+> - [🧠 The Continuum of Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md) — *a systems-level model showing how legitimacy erodes through accumulation, not declaration*  
+> 
+> - [👅 Bad Deepfakes — Why “Surveillance-Level” Clones Fail](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/👅_bad_deepfakes.md) — *a reality check on technical capability versus institutional fear narratives*  
+> 
+> - [🩸 When Little Bureaucrats Play Big Boy Pimps](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🩸_when_little_bureaucrats_play_big_boy_pimps.md) — *how misogyny, power asymmetry, and CVE environments magnify harm under weak oversight*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
