@@ -99,7 +99,7 @@ That’s a **representation failure**, not a moral one.
 
 ---
 
-## 📍 The Constituency Problem (aka: Showing Up Is the Job)
+## 🗺️ The Constituency Problem (aka: Showing Up Is the Job)
 
 The single most effective counter to protest voting is:
 > **Physical presence.**
@@ -140,7 +140,7 @@ Populism collapses under **specificity**.
 
 ---
 
-## 🧑‍🤝‍🧑 Community Is the Counter-Radicalisation Tool  
+## 🫂 Community Is the Counter-Radicalisation Tool  
 
 Owning supporters doesn’t work.  
 Humiliation radicalises.
@@ -189,7 +189,7 @@ It’s the only thing that scales.
 
 ---
 
-## 🧯 What Actually Helps (Summary for the Tired)
+## 🐦‍🔥 What Actually Helps (Summary for the Tired)
 
 - Normalise tactical voting without shame  
 - Normalise coalitions before crisis  
@@ -204,8 +204,154 @@ They fall because people wait too long to act.
 
 ---
 
+## 🦡 A Calm Explanation of the Parliamentary Maths (aka: Why the Memes Are Technically True and Still Misleading)
+
+At some point you will have seen — or will see — a graphic, tweet, or WhatsApp message that looks roughly like this:
+
+> “Reform projected: ~300+ seats.  
+> Biggest party.  
+> It’s over.”
+
+This framing is **not accidental**.  
+It is also **not the whole story**.
+
+Let’s slow it down.
+
+---
+
+### 1️⃣ Why these figures exist at all
+
+The numbers being circulated usually come from:
+- **seat projections under first-past-the-post (FPTP)**  
+- based on **fragmented opposition vote shares**
+- often modelled using **highly sophisticated data targeting**
+
+They are not “fake”.  
+They are **conditional projections**, not outcomes.
+
+They assume:
+- low turnout in some areas
+- vote splitting elsewhere
+- no behavioural response
+- no tactical voting adjustment
+- no campaign effects
+- no institutional friction
+
+In other words:  
+> *They assume people do nothing differently after seeing the projection.*
+
+That assumption is doing a lot of work.
+
+---
+
+### 2️⃣ Why memeing these numbers helps authoritarian politics
+
+When these figures are endlessly repeated, they create:
+
+- **perceived inevitability**
+- **bandwagon effects**
+- **resignation (“what’s the point?”)**
+- **conformity under uncertainty**
+
+Humans are very susceptible to:
+> “Everyone else thinks this is happening.”
+
+That’s why this kind of projection is memed rather than explained.  
+The **psychological effect** matters more than the arithmetic.
+
+---
+
+### 3️⃣ The key technical reality people aren’t being told
+
+Even if a party were projected to win ~300 seats:
+
+- That is **still short of a majority (326)**
+- They would still need to **command confidence**
+- They would still face:
+  - hostile Commons arithmetic
+  - confidence votes
+  - supply votes
+  - procedural constraints
+  - coalition or tolerance requirements
+
+**Largest party ≠ automatic government.**  
+That is not a loophole.  
+That is how the UK constitution works.
+
+---
+
+### 4️⃣ This is strategic voting and micro-targeting — not destiny
+
+What you’re seeing is:
+- **hyper-targeted messaging**
+- **algorithmic reinforcement**
+- **micro-niching**
+- **industrial-scale political marketing**
+
+This is not new.
+Mainstream parties have used versions of this for years.
+
+What’s new is:
+- the *emotional framing*
+- the *inevitability narrative*
+- the *weaponisation of partial truths*
+
+This is a **strategy**, not a prophecy.
+
+---
+
+### 5️⃣ Why this should *embolden*, not paralyse
+
+There are **safety mechanisms** in a functioning democracy — if people use them:
+
+- tactical voting
+- turnout mobilisation
+- constituency-level campaigning
+- cross-party red lines
+- parliamentary confidence rules
+- media scrutiny
+- coalition arithmetic
+- time (there are years, not weeks)
+
+Authoritarian movements succeed when people believe:
+> “Nothing we do matters anymore.”
+
+That belief is **the real threat**.
+
+The maths itself says the opposite:
+> Outcomes are contingent.  
+> Behaviour still matters.  
+> Coordination still works.
+
+---
+
+### 6️⃣ The correct emotional response to these figures
+
+Not:
+- panic  
+- resignation  
+- denial  
+- mockery  
+
+But:
+> “These numbers show where the system is fragile —  
+> and therefore where it can be defended.”
+
+They are a **warning**, not a verdict.
+
+---
+
+### 7️⃣ The line worth repeating (calmly, often)
+
+> “These projections assume people don’t respond.  
+> Democracies respond.”
+
+That one sentence does a lot of quiet work.
+
+---
+
 ## 🌌 Constellations  
-🦔 🧠 🏛️ 🧯 🧵 🧿 — democratic defence, political psychology, parliamentary mechanics, de-radicalisation, community repair.
+🦔 🧠 🏛️ 🐦‍🔥 🧵 🧿 — democratic defence, political psychology, parliamentary mechanics, de-radicalisation, community repair.
 
 ---
 
