@@ -1,7 +1,7 @@
 # 📜 She Will Be Cashing In Her *Get*  
 **First created:** 2026-01-11 | **Last updated:** 2026-01-11  
 *On extraction, neglected obligation, and enforced severance under conditions of intimate harm.*  
-<!--She even gave The Men™️ notice.-->  
+<!--She even gave The Men™️ notice. Or: I warned, probably, a white gpy who was obsessed with impersonating someone I liked, because it's been 6 years and apparantly 6 weeks was not enough attention.-->  
 ---
 
 ## 🛰️ Orientation  
