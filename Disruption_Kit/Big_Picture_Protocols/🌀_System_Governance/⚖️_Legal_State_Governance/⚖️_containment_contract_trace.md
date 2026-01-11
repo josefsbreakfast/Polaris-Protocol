@@ -53,7 +53,7 @@ No single step is unlawful. The harm lies in composition.
 
 ---
 
-## ⚖️ How Contracting Makes This Lawful  
+## ⚖️ How Contracting Makes This "Lawful"  
 
 This process is legalised through standard contracting practices:
 
@@ -67,7 +67,7 @@ The result is legality without accountability.
 
 ---
 
-## 🎙️ Biometric Reuse and the Re-Identification Trap  
+## 📿 Biometric Reuse and the Re-Identification Trap  
 
 One of the clearest failure modes of contractual over-extension is the reuse of survivor-derived biometric data—such as voice recordings from court proceedings or evidentiary archives—in downstream research and development.
 
@@ -125,7 +125,7 @@ The system extracts twice: first from the original violence, then from the admin
 
 ---
 
-## ⏳ Post-2022 Escalation  
+## 🧬 Post-2022 Escalation  
 
 Since 2022, precautionary and risk-based governance regimes have expanded sharply:
 
@@ -138,7 +138,7 @@ These shifts have intensified extraction, increased false positives, and amplifi
 
 ---
 
-## 🏛️ Legal Impact Without Adjudication  
+## 🧨 Legal Impact Without Adjudication  
 
 Affected individuals may experience investigations, restrictions, warnings, delays, or reputational harm without any finding of wrongdoing. These impacts are cumulative, costly, and persistent.
 
@@ -146,7 +146,7 @@ They resemble punishment in effect while remaining precautionary in form.
 
 ---
 
-## 🔦 Forced Visibility as the Only Reset  
+## 🐦‍🔥 Forced Visibility as the Only Reset  
 
 Once over-extracted and suppressed, internal remedies rarely function. The only reliable interruption is forced visibility: public documentation, escalation, and assertion of uniqueness.
 
@@ -156,7 +156,7 @@ Visibility substitutes for accountability.
 
 ---
 
-## ❌ Governance Failures Identified  
+## 🦑 Governance Failures Identified  
 
 - No expiry on extracted permissions  
 - No cumulative harm accounting  
@@ -168,7 +168,7 @@ Visibility substitutes for accountability.
 
 ---
 
-## ✅ Minimum Ethical Corrections  
+## 🐙 Minimum Ethical Corrections  
 
 - Strict purpose limitation and renewal  
 - Expiry and deletion of vulnerability markers  
@@ -178,7 +178,7 @@ Visibility substitutes for accountability.
 
 ---
 
-## 📎 Doctrine Appendix: Legal Mechanisms Enabling Extraction Without Redress  
+## 📜 Doctrine Appendix: Legal Mechanisms Enabling Extraction Without Redress  
 
 *(Summary of purpose limitation erosion, special-category data exemptions, anonymisation fictions, Crown property doctrines, secrecy statutes, contractual chain reliance, and causation thresholds.)*
 
