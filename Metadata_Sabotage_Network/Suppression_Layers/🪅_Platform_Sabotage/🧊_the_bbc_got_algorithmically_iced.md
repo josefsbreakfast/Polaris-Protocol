@@ -6,7 +6,7 @@
 
 ## 🛰️ Orientation
 
-This node documents a specific visibility failure involving an October/November Budget explainer video from **[BBC News](chatgpt://generic-entity?number=0)** on income tax threshold freezes (fiscal drag).  
+This node documents a specific visibility failure involving [an October/November Budget explainer](https://vm.tiktok.com/ZNRhrvrVy/) video from **BBC News** on income tax threshold freezes (fiscal drag).  
 
 The content underperformed relative to the account’s normal baseline at the moment of announcement, then resurfaced approximately three months later (January), coinciding with heightened household financial pressure and contemporaneous council tax hike discourse.
 
@@ -26,9 +26,7 @@ This node analyses that failure mode and maps resilience actions — without ass
 
 ---
 
-## 🧿 Analysis
-
-### 1. Bare Facts (Minimal Claims)
+## 🧿 Observed Context  
 
 - The UK Autumn Budget took place on **30 October 2024**.
 - The BBC published a short-form explainer on income tax threshold freezes.
@@ -41,7 +39,7 @@ No claims are made about intent, coordination, or ideology.
 
 ---
 
-### 2. Why This Information Was Time-Critical
+## ⏰ Why This Information Was Time-Critical
 
 Income tax threshold freezes are:
 
@@ -61,7 +59,7 @@ Once the reassurance window closes, it cannot be recovered.
 
 ---
 
-### 3. Why the BBC Node Matters
+## 📺 Why the BBC Node Matters
 
 For procedural fiscal mechanisms, the BBC is functionally the **only mass baseline-setter**:
 
@@ -75,7 +73,7 @@ Later availability does not compensate for a missed baseline window.
 
 ---
 
-### 4. Failure Modes Identified
+## 🦑 Failure Modes Identified
 
 #### A. Single-Node Fragility
 A media ecology where one outlet carries baseline-setting creates disproportionate risk if distribution under-delivers.
@@ -105,7 +103,7 @@ This converts neutral or stabilising information into reputational damage withou
 
 ---
 
-## 🛠️ Resilience Actions (CRAKEN-Aligned)
+## 🐙 Resilience Actions (CRAKEN-Aligned)
 
 ### Redundancy
 - Syndicate Budget mechanism explainers across multiple outlets simultaneously.
@@ -146,9 +144,11 @@ It documents a structural visibility failure in time-sensitive public-interest i
 
 > 📡 Cross-references:
 > 
-> - [🍄 Suppression Layers](../Metadata_Sabotage_Network/🍄_suppression_layers/) — patterns of attenuation  
-> - [🧠 Big Picture Protocols](../Big_Picture_Protocols/) — systemic analysis  
-> - [🛠️ Survivor Tools](../Disruption_Kit/Survivor_Tools/) — resilience strategies  
+> - [🛑 Flag Cascades](./🛑_flag_cascades.md) — *how flags get misused*
+> 
+> - [📉 Newsroom Deprioritisation Patterns](../📉_Suppression_Interference_Logs/📉_newsroom_deprioritisation_patterns.md) — *how stories get iced upstream*
+> 
+> - [🧭 How We Got Here](../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md) — *resilience strategies*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
