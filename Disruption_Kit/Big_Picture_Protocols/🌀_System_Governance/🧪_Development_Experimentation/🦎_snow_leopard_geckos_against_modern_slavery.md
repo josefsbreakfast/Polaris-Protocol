@@ -16,7 +16,7 @@ It is **structure**, **maths**, and **duty of care**.
 
 ---
 
-## ✨ Key Claims (Summary)
+## ✨ Key Claims  
 
 - Small-n anchoring is not statistically neutral once optimisation pressure exists.
 - Over time, such systems enter **absorbing states** where backfilling becomes mathematically and legally infeasible.
@@ -475,12 +475,18 @@ small-n systems, frozen references, guardrail decay, coercive dependency, algori
 
 ## 🏮 Footer
 
-*Snow Leopard Geckos Against Modern Slavery* is a living node of the **Polaris Protocol**.  
+*🦎 Snow Leopard Geckos Against Modern Slavery* is a living node of the **Polaris Protocol**.  
 It documents how mathematically fragile systems, when left unexamined, can externalise risk onto a single human — and why ordinary behaviour is often the first alarm.
 
 > 📡 Cross-references:
-> - Disruption_Kit/Big_Picture_Protocols — governance and systemic analysis  
-> - Survivor_Tools — exit, objection, and protection strategies  
+> 
+> - [🦎 Basking While the World Is Burning](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦎_basking_while_the_world_is_burning.md)  
+>
+> - [🦎 Algorithmic Autotomy](../👑_Ownership_Control/🦎_alogorithmic_autotomy.md)  
+>
+> - [🐍 Snake Bites and Stolen Voices](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)  
+
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
