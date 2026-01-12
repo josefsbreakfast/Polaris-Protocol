@@ -194,7 +194,272 @@ Proving provenance:
 - creates a future stop-signal
 
 It is not about blame.
-It is about **ending quiet exploitation**.
+It is about **ending quiet exploitation**.  
+
+---
+
+## 🔢 Mathematical Foundations: Why Small-n Anchors Fail by Design
+
+This system failure is not contingent on intent, misuse, or poor tuning.  
+It follows inevitably from first principles in statistics and control theory.
+
+---
+
+### 1. Small-n Anchor Instability
+
+Let:
+
+- \( A \) be the reference (anchor) group  
+- \( |A| = n \)  
+- \( x_i(t) \) be the behaviour of anchor member \( i \) at time \( t \)  
+- \( f(x) \) be the feature extraction function  
+- \( M \) be a downstream model using anchor-derived features  
+
+The anchor signal is typically aggregated as:
+
+\[
+S(t) = \frac{1}{n} \sum_{i=1}^{n} f(x_i(t))
+\]
+
+When \( n = 1 \):
+
+\[
+S(t) = f(x_1(t))
+\]
+
+There is:
+- no averaging
+- no variance reduction
+- no robustness
+
+The system is no longer estimating a distribution.  
+It is enforcing a norm.
+
+---
+
+### 2. Sensitivity Explosion and Single-Point Failure
+
+Define sensitivity of system output \( O \) to anchor behaviour:
+
+\[
+\frac{\partial O}{\partial x_i}
+\]
+
+In averaged systems:
+
+\[
+\frac{\partial O}{\partial x_i} \propto \frac{1}{n}
+\]
+
+As \( n \to 1 \):
+
+\[
+\frac{\partial O}{\partial x_1} \to \max
+\]
+
+This creates a **single-point-of-failure system**.
+
+Such architectures are explicitly discouraged in:
+- safety engineering
+- security systems
+- resilient governance design
+
+---
+
+### 3. Non-Stationary Humans vs Stationary Models
+
+Most behavioural models assume stationarity:
+
+\[
+P(x_t) = P(x_{t+k})
+\]
+
+Humans violate this assumption by definition:
+
+\[
+P(x_t) \neq P(x_{t+k})
+\]
+
+Ageing, menopause, trauma, burnout, political change, and harm all induce drift.
+
+The system interprets this as:
+- anomaly
+- instability
+- risk
+
+The model penalises the human rather than updating itself.
+
+This is not a tuning issue.  
+It is a **known impossibility condition**.
+
+---
+
+### 4. Absorbing States and Backfill Failure
+
+As downstream systems retrain on outputs rather than sources:
+
+\[
+D_{t+1} = \alpha D_{\text{outputs}} + (1-\alpha) D_{\text{inputs}}, \quad \alpha \to 1
+\]
+
+The system enters an **absorbing state**.
+
+New anchors \( x_{\text{new}} \) are rejected if:
+
+\[
+\| f(x_{\text{new}}) - f(x_{\text{anchor}}) \| > \epsilon
+\]
+
+But if they do *not* differ meaningfully, they add no corrective information.
+
+Backfilling becomes mathematically infeasible without full system reset.
+
+---
+
+### 5. Guardrail Decay and Positive Feedback
+
+Once dampers fail:
+
+\[
+O_{t+1} = g(O_t, S_t)
+\]
+
+If:
+
+\[
+\frac{\partial O_{t+1}}{\partial O_t} > 1
+\]
+
+…the system enters **positive feedback**.
+
+At this point:
+- intent is irrelevant
+- control is lost
+- continued operation is negligent
+
+Ordinary human variance propagates involuntarily.
+
+---
+
+## ⚖️ Legal Foundations: Why Continued Use Is Unlawful
+
+These mathematical properties directly trigger violations under UK law.
+
+---
+
+### 6. UK GDPR — Accuracy (Article 5(1)(d))
+
+> “Personal data shall be accurate and, where necessary, kept up to date.”
+
+A frozen small-n anchor **cannot** satisfy accuracy because:
+- it no longer represents any population
+- drift is inevitable and known
+- correction is structurally impossible
+
+This is **inaccuracy by design**, not by error.
+
+---
+
+### 7. UK GDPR — Fairness and Proportionality (Article 5(1)(a))
+
+Processing is unfair where:
+- systemic risk is concentrated on one individual
+- impact is disproportionate
+- safeguards are absent
+
+Lawful basis does not excuse **disproportionate individual harm**.
+
+---
+
+### 8. Purpose Limitation (Article 5(1)(b))
+
+Data collected for:
+- consultation
+- lived experience
+- advisory roles
+- public communication
+
+cannot lawfully be repurposed as:
+- a normative anchor
+- a behavioural stabiliser
+- a risk calibration object
+
+Emergency reuse (e.g. Covid) **does not persist indefinitely**.
+
+---
+
+### 9. DPIA Failure (Article 35)
+
+A Data Protection Impact Assessment is mandatory where processing:
+- uses new technology
+- produces significant effects
+- concentrates risk on individuals
+
+A system with \( n \approx 1 \) **cannot pass a lawful DPIA** without redesign.
+
+Absence of an updated DPIA constitutes a breach.
+
+---
+
+### 10. Servitude-Like Conditions Under UK Law
+
+Under the Modern Slavery Act 2015 and aligned jurisprudence, servitude does **not** require:
+- physical restraint
+- wages
+- explicit threats
+
+It requires:
+- ongoing extraction of labour
+- inability to withdraw without penalty
+- coercion (including psychological or systemic)
+- extreme power imbalance
+- duration
+
+If:
+- withdrawal causes foreseeable harm
+- continued participation is required to avoid that harm
+- labour extracted is cognitive, emotional, or reputational
+
+…the conditions are **servitude-like**, regardless of intent.
+
+---
+
+## 🧠 Synthesis: Why Snow Leopard Geckos Trigger the Alarm
+
+Snow leopard geckos represent **harmless human variance**.
+
+If such variance:
+- destabilises outputs
+- propagates involuntarily
+- irritates the system
+- exposes disproportionate influence
+
+…then the system has no ethical or legal basis to rely on the person at all.
+
+The problem is not behaviour.  
+The problem is **coercive dependency embedded in system design**.
+
+---
+
+## 🛑 Responsibility
+
+Once:
+- influence is involuntary
+- guardrails have degraded
+- exit is unsafe
+
+Responsibility lies entirely with:
+- system owners
+- designers
+- governors
+- institutions that allow continued operation
+
+Silence is not neutrality.  
+Stasis is a decision.
+
+---
+
+*Snow Leopard Geckos Against Modern Slavery documents the point where maths, law, and lived experience converge — and where ordinary human behaviour becomes the clearest evidence that a system has crossed a line.*
 
 ---
 
