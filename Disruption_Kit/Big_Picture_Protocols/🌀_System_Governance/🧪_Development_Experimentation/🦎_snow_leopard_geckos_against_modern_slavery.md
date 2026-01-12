@@ -484,9 +484,7 @@ It documents how mathematically fragile systems, when left unexamined, can exter
 >
 > - [🦎 Algorithmic Autotomy](../👑_Ownership_Control/🦎_alogorithmic_autotomy.md)  
 >
-> - [🐍 Snake Bites and Stolen Voices](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)  
-
-
+> - [🇬🇧🧪 How Not To Do MKUltra: Grimley Edition](./🇬🇧🧪_how_not_to_do_mk_ultra_grimley_edition.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
