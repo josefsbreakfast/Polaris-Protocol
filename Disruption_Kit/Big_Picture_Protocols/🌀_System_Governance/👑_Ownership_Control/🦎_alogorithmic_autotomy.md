@@ -1,5 +1,5 @@
 # 🦎 Algorithmic Autotomy
-**First created:** 2026-01-12  
+**First created:** 2026-01-12 | **Last updated:** 2026-01-12  
 *Why resilient systems must be able to shed load-bearing components — and why human-anchored models fail without a built-in break.*
 
 ---
@@ -446,7 +446,7 @@ Institutions that cannot shed dependencies and collapse under stress.
 
 ---
 
-## 🌞 Sunfooter (Reprise)
+## 🌞 Sunsets  
 
 This entire cluster exists because biology solved problems
 that optimisation culture keeps re-inventing badly.
@@ -458,3 +458,45 @@ They do not confuse gentleness with consent.
 They survive by letting go.
 
 🦎
+
+---
+
+## 🌌 Constellations  
+
+🦎 🔢 🧠 🧱 🔁 — graceful degradation, loss tolerance, fracture-plane design, control theory, abstention under uncertainty, human–system decoupling.
+
+---
+
+## ✨ Stardust  
+
+algorithmic autotomy, graceful degradation, fracture planes, control theory, robustness engineering, human-in-the-loop risk, anchor dependency, confidence decay, abstention modes, loss tolerance, decoupling, non-substitution design, exit paths, survival-first systems
+
+---
+
+## 🏮 Footer  
+
+*🦎 Algorithmic Autotomy* is a living node of **Our Hearts / Our Minds**, within the **Polaris Protocol**.
+
+It names a design truth that optimisation culture resists:  
+that systems built to survive must be able to let go.
+
+This node does not argue for better humans, stricter controls, or tighter loops.  
+It argues for **designed loss**, explicit uncertainty, and exits that do not punish the detached.
+
+Competent systems expect variance.  
+Resilient systems expect loss.  
+Living systems plan for both.  
+
+
+> 📡 Cross-references:
+> 
+> - [🦎 Snow Leopard Geckos Against Modern Slavery](../🧪_Development_Experimentation/🦎_snow_leopard_geckos_against_modern_slavery.md)  
+>
+> - [🦎 Basking While the World Is Burning](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦎_basking_while_the_world_is_burning.md)  
+>
+> - [🐍 Snake Bites and Stolen Voices](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-12_
+
