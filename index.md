@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-12 10:36:07 UTC_
+_Generated on 2026-01-12 11:33:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -255,6 +255,7 @@ _Generated on 2026-01-12 10:36:07 UTC_
         - [`🕳️_the_pothole_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🕳️_the_pothole_problem.md)
         - [`🛡️_constructed_immunity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🛡️_constructed_immunity.md)
         - [`🤫_collective_risk_silence_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🤫_collective_risk_silence_loop.md)
+        - [`🦎_alogorithmic_autotomy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦎_alogorithmic_autotomy.md)
         - [`🦠_openai_uk_due_diligence_autoimmunity_map.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_openai_uk_due_diligence_autoimmunity_map.md)
         - [`🦠_systemic_porosity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_systemic_porosity.md)
         - [`🧨_we_are_already_paying_the_cost.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🧨_we_are_already_paying_the_cost.md)
