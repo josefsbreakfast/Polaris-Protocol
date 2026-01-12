@@ -195,3 +195,27 @@ It is **what competence looks like in hostile environments**.
 algorithmic autotomy, graceful degradation, control theory, fracture planes, small-n failure, human-in-the-loop risk, robustness, gecko models, decoupling
 
 ---
+
+---
+
+## 🌞 Sunfooter
+
+This node was written under residual heat.
+
+Not active fire.
+Not crisis heat.
+Just the warmth that lingers in stone after a long day.
+
+If something here felt calm, survivable, or quietly obvious,  
+that’s because it was never meant to be sharp.
+
+Autotomy is not rupture.  
+Camouflage is not deceit.  
+Detachment is not defeat.
+
+Some systems are built to fight.
+Some are built to last the night.
+
+Leopard geckos know which is which.
+
+🦎
