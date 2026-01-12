@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-12 12:43:48 UTC_
+_Generated on 2026-01-12 12:51:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1517,6 +1517,7 @@ _Generated on 2026-01-12 12:43:48 UTC_
         - [`🕸️_structural_survivorship_in_multi_agency_environments.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕸️_structural_survivorship_in_multi_agency_environments.md)
         - [`😴_witness_fatigue.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/😴_witness_fatigue.md)
         - [`🦉_belief_disconfirmation_reaction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)
+        - [`🦎_basking_while_the_world_is_burning.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦎_basking_while_the_world_is_burning.md)
         - [`🧠_intuition_as_skill.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md)
         - [`🧠_memory_safety_self_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_memory_safety_self_reconstruction.md)
         - [`🧠_shame_economics.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_shame_economics.md)
