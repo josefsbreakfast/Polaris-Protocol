@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-11 22:41:28 UTC_
+_Generated on 2026-01-12 10:34:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -627,6 +627,7 @@ _Generated on 2026-01-11 22:41:28 UTC_
         - [`📁_absence_of_check_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/📁_absence_of_check_in.md)
         - [`🛰️_counter_extremism_by_network.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🛰️_counter_extremism_by_network.md)
         - [`🤖_ai_big_tech_and_israeli_apartheid_as_deregulated_security_lab.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🤖_ai_big_tech_and_israeli_apartheid_as_deregulated_security_lab.md)
+        - [`🦎_snow_leopard_geckos_against_modern_slavery.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🦎_snow_leopard_geckos_against_modern_slavery.md)
         - [`🦕_geological_timescale_economics_make_new_dinosaurs.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🦕_geological_timescale_economics_make_new_dinosaurs.md)
         - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md)
         - [`🧠_the_dev.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧠_the_dev.md)
