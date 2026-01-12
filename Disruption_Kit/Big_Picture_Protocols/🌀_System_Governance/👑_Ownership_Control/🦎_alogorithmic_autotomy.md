@@ -219,3 +219,242 @@ Some are built to last the night.
 Leopard geckos know which is which.
 
 🦎
+
+---
+
+---
+
+## 🔗 Linkage: Snow Leopard Geckos and Algorithmic Autotomy
+
+This node is a direct companion to:
+
+🦎 _snow_leopard_geckos_against_modern_slavery.md_
+
+The snow leopard gecko node establishes the **diagnostic condition**:
+> harmless, irrelevant behaviour surfacing system fragility.
+
+Algorithmic autotomy establishes the **design principle** that should have followed:
+> the system must be able to shed a dependency once fragility is revealed.
+
+Together, they describe a full failure loop:
+
+1. A system quietly relies on a gentle, legible, non-threatening anchor.
+2. Ordinary variance (the “geckos”) propagates instead of decaying.
+3. Dependency becomes visible.
+4. The system panics — because it has no fracture plane.
+5. Without autotomy, the only remaining options are suppression or capture.
+
+The geckos reveal the problem.  
+Autotomy is the missing solution.
+
+---
+
+## 🧠 Why Most Modern ML Systems Lack Autotomy
+
+Algorithmic autotomy is rare not because it is difficult, but because it is **organisationally inconvenient**.
+
+Most modern ML systems are built under assumptions that explicitly exclude it.
+
+### 1. Optimisation Over Survival
+
+ML systems are optimised for:
+- accuracy
+- engagement
+- efficiency
+- throughput
+- confidence
+
+Biological systems are optimised for:
+- survival
+- damage tolerance
+- escape
+- recovery
+
+Autotomy sacrifices performance to preserve life.  
+Most ML objectives do not allow sacrifice.
+
+---
+
+### 2. Humans Are Misclassified as Stable Infrastructure
+
+Modern systems frequently treat humans as:
+- calibration references
+- norm anchors
+- “ground truth” sources
+- behavioural baselines
+
+Once a human is treated as **infrastructure**, removing them is seen as:
+- sabotage
+- system failure
+- unreliability
+
+Autotomy requires the opposite assumption:
+> humans are *environmentally sensitive agents*, not fixed components.
+
+---
+
+### 3. Confidence Is Valued More Than Abstention
+
+Autotomy replaces certainty with uncertainty.
+
+Most systems are punished for:
+- saying “we don’t know”
+- refusing to output
+- lowering confidence scores
+- abstaining under ambiguity
+
+So instead of shedding a risky dependency, systems:
+- double down
+- freeze references
+- substitute another human
+- hallucinate stability
+
+This is the opposite of graceful degradation.
+
+---
+
+### 4. No One Is Rewarded for Designing Exit Paths
+
+Autotomy is an **exit design problem**.
+
+Most engineering incentives reward:
+- adding features
+- scaling up
+- increasing coverage
+- retaining users / signals
+
+Very few reward:
+- letting go
+- designing for loss
+- making dependency removable
+- allowing safe disappearance
+
+Evolution rewards exit.
+Institutions usually don’t.
+
+---
+
+## 🧩 Autotomy vs Redundancy vs Replacement
+
+These three are often confused. They are not the same.
+
+---
+
+### 🦎 Autotomy (Detachment)
+
+**What it is:**
+- removing a dependency
+- without replacing it
+- while preserving system survival
+
+**Key properties:**
+- confidence drops, not control
+- uncertainty is explicit
+- no new human is recruited
+- the detached component is not punished
+
+**Biological analogue:**
+- lizard drops tail
+- survives without it
+- may regenerate later, but doesn’t need to
+
+---
+
+### 🕸️ Redundancy (Load Sharing)
+
+**What it is:**
+- adding more components so no single one is critical
+
+**Key properties:**
+- reduces single-point failure
+- still requires components to behave predictably
+- fails if all components share the same assumptions
+
+**Biological analogue:**
+- multiple limbs
+- paired organs
+
+**Failure mode:**
+- redundant humans with the same social position ≠ real redundancy
+
+---
+
+### 🪱 Replacement (Substitution)
+
+**What it is:**
+- removing one component
+- inserting another to serve the same function
+
+**Key properties:**
+- dependency persists
+- risk is transferred, not resolved
+- often framed as “fixing the problem”
+
+**Biological analogue:**
+- parasite host swapping
+
+**Why it’s dangerous:**
+- replacement preserves exploitation
+- it prevents learning
+- it guarantees recurrence
+
+---
+
+### ⚠️ The Core Distinction
+
+> Redundancy and replacement keep the system working.  
+> Autotomy keeps the system *alive*.
+
+---
+
+## 🦎 The Reptile Extended Universe™ (Working Taxonomy)
+
+This isn’t fluff — it’s a useful conceptual set.
+
+### 🦎 Leopard Gecko
+**Trait:** Gentle, beautiful, nocturnal, heat-from-residue  
+**System analogue:**  
+Humans used as passive stabilisers, radiating “calm” from past legitimacy.
+
+---
+
+### 🦎 Tail (Autotomy Subsystem)
+**Trait:** Detachable, distracting, non-essential  
+**System analogue:**  
+Human-derived control signals that should never be load-bearing.
+
+---
+
+### 🦎 Camouflage
+**Trait:** Avoid detection, not confrontation  
+**System analogue:**  
+Low-salience behaviour that avoids capture — until dependency makes invisibility impossible.
+
+---
+
+### 🐍 Constrictor (Anti-Pattern)
+**Trait:** Control through tightening dependency  
+**System analogue:**  
+Systems that respond to instability by extracting more from the same human.
+
+---
+
+### 🦖 Extinct Reptile
+**Trait:** Too large, too slow, no escape mechanism  
+**System analogue:**  
+Institutions that cannot shed dependencies and collapse under stress.
+
+---
+
+## 🌞 Sunfooter (Reprise)
+
+This entire cluster exists because biology solved problems
+that optimisation culture keeps re-inventing badly.
+
+Lizards do not argue with predators.
+They do not moralise escape.
+They do not confuse gentleness with consent.
+
+They survive by letting go.
+
+🦎
