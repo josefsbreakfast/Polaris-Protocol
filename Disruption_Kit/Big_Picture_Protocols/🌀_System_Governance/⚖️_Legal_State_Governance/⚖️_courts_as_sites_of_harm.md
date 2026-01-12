@@ -25,7 +25,7 @@ The result is predictable:
 
 ---  
 
-## 🏚️ The Architecture Remembers Even When You Try Not To  
+## 🏚️ The Architecture Remembers  
 Court buildings are designed around power: raised benches, formal seating, controlled entrances, security screening.  
 For people who have been harmed *inside* judicial processes (rape trials, bail hearings, tribunal appeals), the body encodes the entire building as danger.
 
@@ -36,8 +36,9 @@ PTSD reacts to **sensory pattern-matching**, not legal categorisation.
 
 ---
 
-## 🏛️ Architectural Somatics — When Buildings Store the Body’s Memory  
-Courts are not neutral rooms. They are built environments engineered to discipline bodies long before any words are spoken.
+## 🏛️ Architectural Somatics  
+Courts are not neutral rooms. They are built environments engineered to discipline bodies long before any words are spoken.  
+These harms occur even when courts follow procedure, apply the law correctly, and act without malice.  
 
 Somatic cues start at the threshold:
 
@@ -79,7 +80,7 @@ The choreography communicates accusation even when the content of the case does 
 
 ---
 
-## 🎭 The Court as Power Theatre — A Stage Where Harm Is Performed as Neutrality  
+## 🎭 The Court as Power Theatre  
 Courts are performance spaces where the state enacts authority.  
 Even when you are innocent, harmed, or simply correcting a bureaucratic mistake, you are required to:
 
@@ -97,7 +98,8 @@ Neutrality becomes indistinguishable from intimidation.
 
 ---
 
-# 🐍 Credibility Degradation — When Trauma Symptoms Are Misinterpreted as Unreliability  
+# 🐍 Credibility Degradation: The Crime Of Survival  
+Over time, these ritualised demands do not remain situational. They accumulate, compound, and begin to function as a credibility filter.  
 One of the most damaging patterns is how trauma erodes a person’s **capacity to perform credibility** — and how institutions misread this erosion as evidence that the person *is not credible*.
 
 A loop forms:
@@ -116,7 +118,7 @@ This is systems-induced unreliability, not intrinsic deterioration.
 
 ---
 
-## 🥀 Repeated Exposure Trauma — The Cumulative Injury of Multiple Court Encounters  
+## 🥀 Repeated Exposure Trauma  
 For many people, harm comes not from a single legal event but from **years of repeated exposure**:
 
 - rape trials,  
@@ -140,10 +142,14 @@ Cumulative effects include:
 - escalating fear of future state contact.
 
 Each exposure increases the load.  
-Over time, people become **less able** to defend themselves precisely because they have had to defend themselves too many times.
+Over time, people become **less able** to defend themselves precisely because they have had to defend themselves too many times.  
 
 This is dose-dependent trauma.  
-Not character failure.
+Not character failure.  
+
+The resulting injury resembles punishment in effect, while remaining procedural in form.  
+
+Any justice system that ignores cumulative exposure as a source of harm is designing blindness into due process.  
 
 ---
 
@@ -164,12 +170,17 @@ It situates courts not only as forums of justice but as repeated environments of
 
 > 📡 Cross-references:
 > 
-> - [⚖️ How the CPS Operates](./⚖️_how_the_cps_operates.md) - *how "independence of procedure" works in the UK*  
-> - [⚖️ Heavy Bundles: CPS, VPS, Centralisation, and High-Control Analysis](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/⚖️_heavy_bundle_cps_vps_centralisation.md) - *existant digital harms in the UK justice system, begging for corrective action*  
-> - [*Pending:* 🧱 Hostile Architecture vs Universal Design] - *further benefits and harms of actual structure*
-> - [🦁 Gender-Defiance Targeting & Vexatious Complaint Logic](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦁_gender_defiance_targeting_and_vexatious_complaint_logic.md)
-> - [🦔 Enrolment Trauma Risks](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🦔_enrolment_trauma_risks.md)
-> - [⚖️ Borrowed Legitimacy and Moral Sorting](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_borrowed_legitimacy_and_moral_sorting.md)  
+> - [⚖️ How the CPS Operates](./⚖️_how_the_cps_operates.md) — *explains how procedural independence functions in UK prosecution, and why correctness of process does not prevent downstream harm*  
+> 
+> - [⚖️ Heavy Bundles: CPS, VPS, Centralisation, and High-Control Analysis](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/⚖️_heavy_bundle_cps_vps_centralisation.md) — *documents existing digital and administrative harms produced by centralised justice workflows*  
+> 
+> - [*Pending:* 🧱 Hostile Architecture vs Universal Design] — *extends the analysis from courts to physical and procedural design choices that produce harm regardless of intent*  
+> 
+> - [🦁 Gender-Defiance Targeting & Vexatious Complaint Logic](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦁_gender_defiance_targeting_and_vexatious_complaint_logic.md) — *shows how nonconforming identity increases exposure to complaint-driven legal and administrative processes*  
+> 
+> - [🦔 Enrolment Trauma Risks](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🦔_enrolment_trauma_risks.md) — *maps how forced participation in institutional systems compounds trauma and degrades capacity*  
+> 
+> - [⚖️ Borrowed Legitimacy and Moral Sorting](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_borrowed_legitimacy_and_moral_sorting.md) — *explains how courts and allied institutions implicitly sort credibility and moral worth*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
