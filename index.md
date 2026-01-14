@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-14 08:39:02 UTC_
+_Generated on 2026-01-14 09:12:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4784,6 +4784,7 @@ _Generated on 2026-01-14 08:39:02 UTC_
   - [**🪖_Home_Front_2.0/**](🦆_Digital_Disruption/🪖_Home_Front_2.0/)
     - [`README.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/README.md)
     - [`🌍_why_it_all_matters_shared_epilogue.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🌍_why_it_all_matters_shared_epilogue.md)
+    - [`🌾_farmers_on_the_bridge.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🌾_farmers_on_the_bridge.md)
     - [`🍞_supply_chain_of_kindness.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🍞_supply_chain_of_kindness.md)
     - [`🎓_civic_craft_curriculum.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🎓_civic_craft_curriculum.md)
     - [`🏡_domestic_infrastructure_as_care_system.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🏡_domestic_infrastructure_as_care_system.md)
