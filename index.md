@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-14 19:29:50 UTC_
+_Generated on 2026-01-14 21:08:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2546,6 +2546,36 @@ _Generated on 2026-01-14 19:29:50 UTC_
       - [`IMG_6055.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6055.png)
       - [`IMG_6056.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6056.png)
       - [`IMG_6057.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6057.png)
+      - [`IMG_6318.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6318.png)
+      - [`IMG_6319.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6319.png)
+      - [`IMG_6320.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6320.png)
+      - [`IMG_6321.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6321.png)
+      - [`IMG_6322.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6322.png)
+      - [`IMG_6323.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6323.png)
+      - [`IMG_6324.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6324.png)
+      - [`IMG_6325.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6325.png)
+      - [`IMG_6326.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6326.png)
+      - [`IMG_6327.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6327.png)
+      - [`IMG_6328.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6328.png)
+      - [`IMG_6329.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6329.png)
+      - [`IMG_6330.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6330.png)
+      - [`IMG_6331.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6331.png)
+      - [`IMG_6332.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6332.png)
+      - [`IMG_6333.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6333.png)
+      - [`IMG_6334.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6334.png)
+      - [`IMG_6335.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6335.png)
+      - [`IMG_6336.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6336.png)
+      - [`IMG_6337.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6337.png)
+      - [`IMG_6338.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6338.png)
+      - [`IMG_6339.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6339.png)
+      - [`IMG_6340.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6340.png)
+      - [`IMG_6341.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6341.png)
+      - [`IMG_6342.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6342.png)
+      - [`IMG_6343.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6343.png)
+      - [`IMG_6344.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6344.png)
+      - [`IMG_6345.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6345.png)
+      - [`IMG_6346.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6346.png)
+      - [`IMG_6347.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_6347.png)
       - [`Screenshot 2026-01-02 102328.png`](Disruption_Kit/Field_Logs/20260101_January_2026/Screenshot 2026-01-02 102328.png)
     - [`20250828_racialisation_hijack.PNG`](Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
     - [`20251028_forcible_conversion_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
