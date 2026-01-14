@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-14 09:27:21 UTC_
+_Generated on 2026-01-14 10:00:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4093,6 +4093,7 @@ _Generated on 2026-01-14 09:27:21 UTC_
       - [`🧬_metadata_exhaust_as_pre_investigative_exposure.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧬_metadata_exhaust_as_pre_investigative_exposure.md)
       - [`🧿_custodial_opacity_and_database_disappearance.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧿_custodial_opacity_and_database_disappearance.md)
       - [`🩺_healthcare_access_id_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🩺_healthcare_access_id_risks.md)
+      - [`🫀_how_genocide_by_data_driven_attrition_occurs.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🫀_how_genocide_by_data_driven_attrition_occurs.md)
     - [**🛂_Papers_Please_Problems/**](Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/)
       - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/README.md)
       - [`🇪🇺_eu_passport_risk_outcomes.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/🇪🇺_eu_passport_risk_outcomes.md)
