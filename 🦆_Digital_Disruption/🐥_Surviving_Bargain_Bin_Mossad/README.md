@@ -418,9 +418,11 @@ canary mission, public shaming, jewish ethics, lubavitcher rebbe, end does not j
 It exists to clarify moral boundaries around digital intimidation and to support survivor-centred Jewish ethics in contested political space.
 
 > 📡 Cross-references:
+> 
 > - 🦆 Digital Disruption — *civic repair under algorithmic pressure*  
 > - 📿 Vulnerable Data Populations — *group-based exposure risks*  
 > - 🫀 Our Hearts, Our Minds — *trauma-aware governance*
+> - [🧠 Bargain Bin Mossad](../../Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_bargain_bin_mossad.md) – *the original and therefore most ridiculous*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
