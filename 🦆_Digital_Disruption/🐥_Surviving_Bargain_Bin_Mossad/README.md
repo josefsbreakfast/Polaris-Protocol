@@ -159,12 +159,12 @@ A second distortion shows up in the same ecosystem as blacklist culture:
 That is **not Torah**.  
 It is a moral loophole people invent when they want to feel righteous while doing harm.
 
-### Tzelem Elokim: the baseline applies to human beings
+### 🫀 Tzelem Elokim: the baseline applies to human beings
 The Torah’s first ethical anchor is not tribal permissioning. It is that human beings are created in the image of G-d (tzelem Elokim). That is not “Jew-only dignity.” It is human dignity.
 
 So: **humiliating non-Jews for sport, for dominance, or for political convenience is not legitimised by halacha.**
 
-### Darchei Shalom: concrete obligations toward non-Jews
+### 🧄 Darchei Shalom: concrete obligations toward non-Jews
 Jewish law explicitly directs Jews to act in ways that preserve life and social peace toward non-Jews — not only as PR, but as normative conduct.
 
 Rambam codifies:
