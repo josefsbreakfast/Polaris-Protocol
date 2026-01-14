@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-14 09:12:55 UTC_
+_Generated on 2026-01-14 09:27:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4783,6 +4783,7 @@ _Generated on 2026-01-14 09:12:55 UTC_
     - [`🪶_civic_immunity_training_manual.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🪶_civic_immunity_training_manual.md)
   - [**🪖_Home_Front_2.0/**](🦆_Digital_Disruption/🪖_Home_Front_2.0/)
     - [`README.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/README.md)
+    - [`🇬🇧_there_is_a_fight_on_the_beaches.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🇬🇧_there_is_a_fight_on_the_beaches.md)
     - [`🌍_why_it_all_matters_shared_epilogue.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🌍_why_it_all_matters_shared_epilogue.md)
     - [`🌾_farmers_on_the_bridge.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🌾_farmers_on_the_bridge.md)
     - [`🍞_supply_chain_of_kindness.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🍞_supply_chain_of_kindness.md)
