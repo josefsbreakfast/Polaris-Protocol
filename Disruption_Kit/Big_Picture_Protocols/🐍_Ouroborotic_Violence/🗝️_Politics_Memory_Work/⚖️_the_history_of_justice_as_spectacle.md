@@ -1,5 +1,5 @@
 # ⚖️ The History of Justice as Spectacle  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
+**First created:** 2025-11-12 | **Last updated:** 2026-01-15  
 *How punishment became performance — and why the crowd never leaves unchanged.*  
 
 ---
@@ -11,7 +11,7 @@ This node traces how the death penalty and its cultural afterlives function as c
 
 ---
 
-## 1. From Scaffold to Screen  
+## From Scaffold to Screen  
 
 - In early modern Europe, public hangings were mass gatherings — sermons in steel. The state performed its sovereignty by displaying the body it destroyed.  
 - When executions went private, the logic didn’t disappear; it moved into media. Courtroom sketches, tabloid headlines, and “true crime” series continue the ritual, offering punishment as entertainment.  
@@ -19,7 +19,7 @@ This node traces how the death penalty and its cultural afterlives function as c
 
 ---
 
-## 2. The Myth of the Cleansing Act  
+## The Myth of the Cleansing Act  
 
 - Every spectacle of death sells itself as *restoration* — the idea that killing can rebalance the moral ledger.  
 - Yet each iteration simply trains the crowd in cruelty. The scaffold, the prison, and the screen all reinforce the same lesson: that suffering legitimises authority.  
@@ -27,7 +27,7 @@ This node traces how the death penalty and its cultural afterlives function as c
 
 ---
 
-## 3. Religious and Political Appropriation  
+## Religious and Political Appropriation  
 
 - The rhetoric of divine justice saturates secular governance: the leader as executioner, the executioner as priest.  
 - But in all three Abrahamic traditions, the power to take life is treated as sacred precisely because it is **not** entrusted to human judgment.  
@@ -35,7 +35,7 @@ This node traces how the death penalty and its cultural afterlives function as c
 
 ---
 
-## 4. The Modern Afterlife of the Spectacle  
+## The Modern Afterlife of the Spectacle  
 
 - In digital culture, justice has migrated into **social media punishment cycles** — viral outrage, cancellation, exposure.  
 - The same theatrical grammar persists: accusation → ritual humiliation → expulsion → applause.  
@@ -43,7 +43,7 @@ This node traces how the death penalty and its cultural afterlives function as c
 
 ---
 
-## 5. Counter‑Spectacle and Refusal  
+## Counter‑Spectacle and Refusal  
 
 - Abolition, truth commissions, and survivor testimony represent a different stagecraft: one of **exposure without replication**.  
 - To refuse the death penalty is not to deny justice — it is to reject the idea that justice must be *seen to hurt*.  
@@ -70,9 +70,11 @@ It examines how punishment becomes performance and how abolition reclaims moral 
 
 > 📡 Cross‑references
 > 
-> – [🧠 Why the Death Penalty Makes No Sense for the United Kingdom](/) — *counter‑node*  
-> – [🧠 Big Picture Protocols](../../README.md) — *systemic analysis*  
+> - [⚖️ Why the Death Penalty Makes No Sense for the United Kingdom](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_why_the_death_penalty_makes_no_sense_for_the_united_kingdom.md) — *counter‑node*  
+> - [🧠 Shame Economics](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_shame_economics.md)  
+> - [🌫️ The Shame–Visibility Collapse Loop](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌫️_the_shame_visibility_collapse_loop.md)  
+> - [🧠 Utilisation of Vulnerability](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-13_
+_Last updated: 2026-01-15_
