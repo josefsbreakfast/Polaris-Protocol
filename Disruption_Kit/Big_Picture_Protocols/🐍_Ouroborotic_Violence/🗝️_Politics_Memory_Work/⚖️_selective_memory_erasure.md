@@ -51,7 +51,8 @@ It records reported phenomena of inconsistent recall and proposes mitigations an
 > - [🫥 Presumption as Erasure](../../../Survivor_Tools/🫥_presumption_as_erasure.md)  
 > - [📊 The Spreadsheet of Silence — When Containment Becomes a Cell Format](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📊_spreadsheet_of_silence.md)  
 > - [📚 How to Find Muted Volumes, for Return to the Cemetery of Forgotten Books](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📚_muted_volumes_from_the_cemetery_of_forgotten_books.md)  
-> - [🧱 Silence Stack Trace](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🧱_silence_stack_trace.md)  
+> - [🧱 Silence Stack Trace](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🧱_silence_stack_trace.md)
+> - [🪦 Memory Erasure in Radicalisation](../🪬_Radicalisation_Extremism/🪦_memory_erasure_in_radicalisation.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
