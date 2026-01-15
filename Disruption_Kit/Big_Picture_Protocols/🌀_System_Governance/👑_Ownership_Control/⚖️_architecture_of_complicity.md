@@ -1,10 +1,10 @@
-# ⚖️ The Architecture of Complicity — When Justice Stops at the Dock  
-**First created:** 2025-11-07 | **Last updated:** 2026-01-08  
+# ⚖️ The Architecture of Complicity  
+**First created:** 2025-11-07 | **Last updated:** 2026-01-15  
 *How accountability is structurally routed toward individuals while sponsor power remains insulated.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 This node examines the **architecture of complicity**: the systemic design by which legal, political, and moral accountability is channelled toward individual perpetrators while the states, institutions, and power blocs that enable harm remain untouched.
 
@@ -31,7 +31,7 @@ Blame reaches the dock — and stops.
 
 ## 🧬 How Complicity Is Architected  
 
-### 1. Jurisdictional Segmentation  
+### ✂️ Jurisdictional Segmentation  
 
 Responsibility is fragmented across:
 - national courts,
@@ -46,7 +46,7 @@ Complicity survives in the gaps.
 
 ---
 
-### 2. Individualisation of Harm  
+### 🔬 Individualisation of Harm  
 
 Legal frameworks favour:
 - named defendants,
@@ -59,7 +59,7 @@ The system sees **hands**, not **hands that supplied the tools**.
 
 ---
 
-### 3. Sponsorship Laundering  
+### 💰 Sponsorship Laundering  
 
 States and institutions insulate themselves through:
 - proxy forces,
@@ -74,7 +74,7 @@ The actor becomes concrete.
 
 ---
 
-### 4. Selective Visibility  
+### 🪬 Selective Visibility  
 
 Justice depends on what can be:
 - documented,
@@ -141,14 +141,14 @@ Immunity consolidates at the top.
 
 ## 🧪 Failure Modes & Defensive Myths  
 
-### Common Myths  
+### 🌘 Common Myths  
 - “Something is better than nothing.”
 - “You have to start somewhere.”
 - “This is the best we can do.”
 
 These statements normalise **partial justice** as success.
 
-### Structural Reality  
+### 🌒 Structural Reality  
 Partial justice is not a stepping stone.  
 It is often the **end state**.
 
@@ -190,4 +190,4 @@ It analyses how legal and political systems route blame toward individuals while
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-01-15_
