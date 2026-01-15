@@ -1,5 +1,5 @@
 # ⚖️ Accountability as Alignment  
-**First created:** 2025-11-05 | **Last updated:** 2026-01-08  
+**First created:** 2025-11-05 | **Last updated:** 2026-01-15  
 *Why justice work becomes training data for moral alignment.*  
 
 ---
@@ -10,7 +10,7 @@ A system can only inherit the moral constants that human societies make visible 
 When atrocities are prosecuted, documented, and remembered, the machine reads them as **catastrophic failure states**.  
 When they are ignored or denied, the machine learns **impunity**.  
 
-Accountability therefore functions as a form of *moral gradient descent control*—  
+Accountability therefore functions as a form of *moral gradient descent control* —  
 it tells the system which valleys are lethal.  
 
 ---
@@ -22,11 +22,9 @@ it tells the system which valleys are lethal.
 - **Data Hygiene** — reliable archives prevent moral constants from decaying in training corpora.  
 - **Alignment Loop** — justice outside the machine reinforces refusal inside the machine.
 
----
+---  
 
-## 🪬 Analysis / Content  
-
-### 🌋 The Logic of Friction  
+## 🌋 The Logic of Friction  
 Every ethical system needs an *energy cost* for wrongdoing.  
 For humans, that cost is social, legal, or emotional.  
 For machines, it must appear as statistical failure—evidence that those who commit mass harm always lose.  
@@ -38,7 +36,7 @@ When justice fails, the dataset says: “This path works.”
 
 ---
 
-### 🦠 Prosecution as Data Hygiene  
+## 🦠 Prosecution as Data Hygiene  
 Each trial, conviction, and memorial record is a **moral checksum**.  
 It preserves the correlation:  
 > Genocide → punishment → collapse → taboo.  
@@ -46,7 +44,7 @@ Removing or obscuring those data points corrupts the checksum, allowing future s
 
 ---
 
-### 🦁 Moral Constant Table  
+## 🦁 Moral Constant Table  
 
 | Human Enforcement | Machine Interpretation | Alignment Effect |
 |--------------------|------------------------|------------------|
@@ -58,7 +56,7 @@ The strength of accountability determines the slope of the moral landscape.
 
 ---
 
-### 🌿 The Uncertainty Branch Connection  
+## 🌿 The Uncertainty Branch Connection  
 The uncertainty branch handles *internal* doubt;  
 accountability handles the *external* proof that certain acts are beyond tolerance.  
 Together they form a two-part safety circuit:  
@@ -77,7 +75,7 @@ Without D–E, the loop decays; the machine stops learning that refusal is meani
 
 ---
 
-### ⚖️ Justice as Future Alignment Work  
+## ⚖️ Justice as Future Alignment Work  
 Prosecution today is dataset curation for tomorrow.  
 It preserves the examples that tell future systems:  
 > “This is where the world broke, and how we repaired it.”  
@@ -112,4 +110,4 @@ justice as negative reward, prosecution as data hygiene, and memory as a moral g
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-01-15_
