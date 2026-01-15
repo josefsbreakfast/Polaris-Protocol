@@ -155,7 +155,7 @@ It documents how unmet attachment needs and identity fragility distort relationa
 > 📡 Cross-references:
 >
 > - [🫀 Attachment Trauma and Intimacy Deficit](./🫀_attachment_trauma_and_intimacy_deficit.md) — *emotional substrate*  
-> - [🧨 Cruelty as Innovation](../../🌀_System_Governance/🧪_Development_Experimentation/🧨_cruelty_as_innovation.mdd) — *escalation logic*  
+> - [🧨 Cruelty as Innovation](../../🌀_System_Governance/🧪_Development_Experimentation/🧨_cruelty_as_innovation.md) — *escalation logic*  
 > - [🏭 Industrialisation of Misogyny](./🏭_industrialisation_of_misogyny.md) — *system-level amplification*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
