@@ -30,7 +30,7 @@ This node documents a **style of failure**: what happens when institutions confu
 
 ---
 
-## 🔍 Cultural Signature
+## 🛠️ Cultural Signature
 
 What follows is not a moral comparison but a **toolchain contrast**.  
 Both systems seek information dominance, but they operate on different epistemologies — and fail in distinct, recognisable ways.
