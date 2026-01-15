@@ -1,5 +1,5 @@
 # ⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure  
-**First created:** 2025-10-08 | **Last updated:** 2026-01-08  
+**First created:** 2025-10-08 | **Last updated:** 2026-01-15  
 *How redundant churches could seed civic renewal instead of grievance economies.*
 
 ---
@@ -19,29 +19,27 @@ This node explores how redundant church property could be re-routed into communi
 
 ---
 
-## 🏛️ Analysis / Content  
-
-### 1. Why the buildings must be sold  
+## 🏛️ Why The Buildings Must Be Sold  
 Empty churches deteriorate quickly in a damp climate. Without heating or ventilation, they rot, invite trespass, and become insurance liabilities. Charity law then demands disposal: keeping them idle drains funds that should support mission and pensions.  
 So sale isn’t always betrayal; sometimes it’s triage.
 
-### 2. Why grievance replaces stewardship  
+## 🧨 Why Grievance Replaces Stewardship  
 Authoritarian Christian movements centre on *symbolic loss*. Actual stewardship demands patient cooperation, paperwork, and pluralism — all antithetical to identity-politics outrage. Thus “saving Christianity” becomes an aesthetic, not a practice.
 
-### 3. The civic fork  
+## 🌳 The Civic Fork  
 > 🔸 **Route A:** the JojaMart path — outsource to corporate developers; heritage becomes commodity.  
 > 🔸 **Route B:** the Community-Centre path — local co-ops rebuild for collective use.  
 
 In *Stardew Valley*, the town’s wellbeing rebounds once players revive the derelict hall; the community re-awakens itself. Church-land reuse can follow the same logic: visible acts of care restore belonging faster than policy speeches.
 
-### 🏡🏘️ 4. Working models  
+## 🏡🏘️ Working Models  
 - **Faith in Affordable Housing (Wales):** sells chapels below market value to social landlords.  
 - **Community Right to Bid (England):** lets residents pause a sale to organise purchase.  
 - **U.S. precedents:** Atlanta Land Trust, Douglass CLT (D.C.), Portland micro-villages — all hold land in trust for long-term residents.  
 
 Adapting these under UK charity law would need a standing legislative carve-out: “mission-aligned below-market disposals” for registered Faith Land Trusts.
 
-### 🐝 5. Cultural dividend  
+## 🐝🍯 Cultural Dividend  
 Each re-purposed church removes one grievance totem from extremist narratives and creates shared civic infrastructure — housing, art, childcare, food co-ops.  
 The faith endures not through purity but through hospitality.  
 
@@ -81,4 +79,4 @@ It proposes how legal reform and civic imagination could turn redundant church p
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-01-15_
