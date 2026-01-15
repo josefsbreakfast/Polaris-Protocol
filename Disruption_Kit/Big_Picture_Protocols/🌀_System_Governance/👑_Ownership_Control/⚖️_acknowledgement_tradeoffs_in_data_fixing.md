@@ -1,5 +1,5 @@
 # ⚖️ Acknowledgement Tradeoffs in Data Fixing
-**First created:** 2025-11-12 | **Last updated:** 2026-01-08  
+**First created:** 2025-11-12 | **Last updated:** 2026-01-15  
 *Why institutions sometimes choose correction without confession — and what that reveals about ownership, liability, and power.*  
 
 ---
@@ -361,7 +361,7 @@ So they choose:
 
 ---
 
-## ⚖️ Transparency, Consent, and Foreseeable Failure
+## 📜 Transparency, Consent, and Foreseeable Failure
 
 For research-driven systems, experimental services, and data-mediated governance, this pattern is not merely suboptimal.
 
@@ -415,7 +415,7 @@ It is extraction.
 
 ---
 
-## ⚠️ The Legal Risk Is Not Hypothetical
+## 🧨 The Legal Risk Is Not Hypothetical
 
 This is an obvious future litigation vector.
 
@@ -456,7 +456,7 @@ What looks like reputational risk today becomes **systemic liability** tomorrow.
 
 ---
 
-## 🧭 The Sensible Option Institutions Avoid
+## 🪬 The Sensible Option Institutions Avoid
 
 There is a straightforward alternative:
 
@@ -510,4 +510,4 @@ It documents how governance systems balance repair against responsibility — an
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-01-15_
