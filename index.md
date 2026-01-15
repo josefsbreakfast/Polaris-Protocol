@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-15 20:26:26 UTC_
+_Generated on 2026-01-15 21:44:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4639,6 +4639,7 @@ _Generated on 2026-01-15 20:26:26 UTC_
     - [`🪞_mirror_commons.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🪞_mirror_commons.md)
   - [**🐥_Surviving_Bargain_Bin_Mossad/**](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/)
     - [`README.md`](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/README.md)
+    - [`✂️_red_tape_removal.md`](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/✂️_red_tape_removal.md)
   - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
     - [**🍉_Academic_Liberty/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/README.md)
