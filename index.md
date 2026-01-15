@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-15 19:28:14 UTC_
+_Generated on 2026-01-15 19:38:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -686,7 +686,7 @@ _Generated on 2026-01-15 19:28:14 UTC_
         - [`jewish_experience_diaspora_matrix_middleman_minorities.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/jewish_experience_diaspora_matrix_middleman_minorities.png)
         - [`jewish_intersections_global.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/jewish_intersections_global.png)
         - [`jewish_intersections_global_visual.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/jewish_intersections_global_visual.png)
-        - [`scale_of_scapegoating_hashtag.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/scale_of_scapegoating_hashtag.png)
+        - [`scale_of_scapegoating.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/scale_of_scapegoating.png)
         - [`sound_ahavah_rabbah.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/sound_ahavah_rabbah.png)
         - [`sound_harmonic_c_minor.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/sound_harmonic_c_minor.png)
         - [`sound_maqam_haqiz.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/sound_maqam_haqiz.png)
