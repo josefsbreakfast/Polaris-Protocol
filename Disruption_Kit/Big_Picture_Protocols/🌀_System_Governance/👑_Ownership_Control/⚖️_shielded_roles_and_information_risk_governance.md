@@ -1,5 +1,5 @@
 # ⚖️ Shielded Roles and Information Risk Governance  
-**First created:** 2025-11-12 | **Last updated:** 2026-01-08  
+**First created:** 2025-11-12 | **Last updated:** 2026-01-15  
 *Why anonymity in core risk roles can enable transparency — and how the system fails to support it.*  
 
 ---
@@ -36,9 +36,7 @@ Understanding that function changes how anonymity, accountability, and transpare
 
 ---
 
-## 🧿 Analysis  
-
-### 1. The SIRO Is Not the System  
+## 🧿 The SIRO Is Not the System  
 A central governance error is treating the SIRO as the origin of information risk.
 
 They are not.
@@ -56,7 +54,7 @@ Accountability that stops at the SIRO is therefore misdirected.
 
 ---
 
-### 2. Why Anonymity Is Structurally Necessary  
+## 🧄 Why Anonymity Is Structurally Necessary  
 The SIRO role is unusually exposed.
 
 It must:
@@ -78,7 +76,7 @@ they would be more defensive.
 
 ---
 
-### 3. The SIRO as a Whistleblower-Adjacent Role  
+## 🦌 The SIRO as a Whistleblower-Adjacent Role  
 At its best, the SIRO role behaves less like executive authority and more like a **formalised whistleblower channel**:
 
 - surfacing risk within classified systems  
@@ -91,7 +89,7 @@ Anonymity allows risk to be surfaced without immediately destroying the messenge
 
 ---
 
-### 4. Where the System Actually Fails  
+## 🧨 Where the System Actually Fails  
 The failure is not that SIROs are nameless.
 
 The failure is that **anonymity has not been paired with structural transparency**.
@@ -111,7 +109,7 @@ The SIRO becomes the visible endpoint of invisible processes.
 
 ---
 
-### 5. Risk, Infiltration, and Corruption Dynamics  
+## 🔥 Risk, Infiltration, and Corruption Dynamics  
 Where corruption, infiltration, or compliance failure exists elsewhere in the system, the SIRO becomes the collection point.
 
 They hold:
@@ -125,7 +123,7 @@ the SIRO absorbs blame while the originating conditions remain untouched.
 
 ---
 
-### 6. What a Healthy Model Would Look Like  
+## 🌱 What a Healthy Model Would Look Like  
 Anonymity can coexist with accountability — but only if redesigned as a **protected transparency node**.
 
 That requires:
@@ -142,7 +140,7 @@ In such a model:
 
 ---
 
-### 7. The Core Inversion  
+## 🏛️ The Core Inversion  
 The current system claims to protect the SIRO.
 
 In practice, it protects the institution **from** the SIRO.
@@ -182,4 +180,4 @@ It examines how anonymity, risk ownership, and transparency interact within defe
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-01-15_
