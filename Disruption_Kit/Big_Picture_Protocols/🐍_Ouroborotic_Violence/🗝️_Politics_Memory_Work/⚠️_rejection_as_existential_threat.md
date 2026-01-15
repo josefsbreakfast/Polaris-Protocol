@@ -1,5 +1,5 @@
 # ⚠️ Rejection as Existential Threat  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-15  
 *How refusal is experienced as annihilation within coercive masculinity systems*
 
 ---
@@ -33,9 +33,7 @@ This pattern explains why ordinary female autonomy is rhetorically inflated into
 
 ---
 
-## 🧿 Analysis
-
-### When Sex Becomes Survival
+## 🪬 When Sex Becomes Survival
 
 In systems where:
 - sex = validation,
@@ -55,7 +53,7 @@ It is the internal experience being described — often unconsciously.
 
 ---
 
-### Autonomy Interpreted as Aggression
+## 📿 Autonomy Interpreted as Aggression
 
 Within dominance-based masculinity frameworks:
 - autonomy reads as defiance,
@@ -72,7 +70,7 @@ The language mirrors the internal alarm state.
 
 ---
 
-### The Freudian Slip: Refusal as “Violence”
+## 🔥 The Freudian Slip: Refusal as “Violence”
 
 When men describe women not having sex with them as:
 - “misandry,”
@@ -91,7 +89,7 @@ The rhetoric is disproportionate because the internal stakes feel catastrophic.
 
 ---
 
-### From Shame to Persecution Narrative
+## 🧠 From Shame to Persecution Narrative
 
 Shame is difficult to tolerate.
 
@@ -111,7 +109,7 @@ Personal distress becomes a collective grievance.
 
 ---
 
-### Why Escalation Feels Justified
+## 🧨 Why Escalation Feels Justified
 
 Once refusal is framed as harm, retaliation becomes rational.
 
@@ -125,7 +123,7 @@ It teaches them to **fight it**.
 
 ---
 
-## 🧩 Why This Node Matters
+## 🧄 Why This Node Matters
 
 Understanding this dynamic is critical because it explains:
 - why coercive rhetoric escalates so quickly,
@@ -151,15 +149,15 @@ rejection sensitivity, existential threat, misogyny rhetoric, refusal framed as 
 
 ## 🏮 Footer
 
-*Rejection as Existential Threat* is a living node of the **Polaris Protocol**.  
+*⚠️ Rejection as Existential Threat* is a living node of the **Polaris Protocol**.  
 It documents how unmet attachment needs and identity fragility distort relational boundaries into perceived acts of aggression.
 
 > 📡 Cross-references:
 >
-> - [🫀 Attachment Trauma and Intimacy Deficit](../🫀_Our_Hearts_Our_Minds/🫀_attachment_trauma_and_intimacy_deficit.md) — emotional substrate  
-> - [🧨 Cruelty as Innovation](../🎭_Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧨_cruelty_as_innovation.md) — escalation logic  
-> - [🏭 Industrialisation of Misogyny](../🐍_Ouroborotic_Violence/🏭_industrialisation_of_misogyny.md) — system-level amplification
+> - [🫀 Attachment Trauma and Intimacy Deficit](../🫀_Our_Hearts_Our_Minds/🫀_attachment_trauma_and_intimacy_deficit.md) — *emotional substrate*  
+> - [🧨 Cruelty as Innovation](../🎭_Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧨_cruelty_as_innovation.md) — *escalation logic*  
+> - [🏭 Industrialisation of Misogyny](../🐍_Ouroborotic_Violence/🏭_industrialisation_of_misogyny.md) — *system-level amplification*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-15_
