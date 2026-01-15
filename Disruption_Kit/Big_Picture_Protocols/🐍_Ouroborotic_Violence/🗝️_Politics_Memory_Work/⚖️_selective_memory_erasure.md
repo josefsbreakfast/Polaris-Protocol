@@ -4,12 +4,12 @@
 
 ---
 
-## Summary
+## ✨ Summary
 Reports of systems recalling some events while omitting or “erasing” others — especially around July incidents (“Loft incident”). Survivors describe paradoxical recall under memory-off settings and repeated omission of narrow topics, suggesting redaction at display or audit layers.
 
 ---
 
-## Reported Behaviours
+## 🌀 Reported Behaviours
 - Inconsistent recall across sessions.  
 - Apparent selective erasure of July events.  
 - Memory-off anomalies (recall when memory disabled).  
@@ -17,7 +17,7 @@ Reports of systems recalling some events while omitting or “erasing” others 
 
 ---
 
-## Possible Explanations
+## 🤖 Possible Explanations
 - Session vs persistent history differences.  
 - Safety/content filters.  
 - Legal holds/preservation orders.  
@@ -26,14 +26,14 @@ Reports of systems recalling some events while omitting or “erasing” others 
 
 ---
 
-## Governance Implications
+## 🏛️ Governance Implications
 - Selective erasure = epistemic harm.  
 - Lack of transparency compounds gaslighting.  
 - Opaque suppression creates audit evasion incentives.
 
 ---
 
-## Mitigations
+## 🧨 Mitigations
 - Independent timestamped local records.  
 - A/B control tests & honeytokens.  
 - Requests for confirmation of preservation orders.  
