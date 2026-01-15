@@ -1,6 +1,6 @@
 # ⚖️ Operatic Capture & Risks  
-**First created:** 2025-10-31 | **Last updated:** 2025-11-12  
-*When escalation becomes performance and procedure mistakes itself for morality.*
+**First created:** 2025-10-31 | **Last updated:** 2026-01-15  
+*When escalation becomes performance and procedure mistakes itself for morality.*  
 
 ---
 
@@ -87,10 +87,10 @@ procedural theatre · escalation fatigue · reputational triage · virtue perfor
 
 > 📡 Cross-references:
 > 
-> - 🩸 Reverse-Victim Logic — *the seed of reversal*  
-> - ⚖️ Professional Influence & Bureaucratic Capture — *authority lending weight to performance*  
-> - 🧠 Cognitive Feedback and Bureaucratic Amplification — *conviction hardened by repetition*  
+> - [*Pending:* 🩸 Reverse-Victim Logic] — *the seed of reversal*  
+> - [⚖️ Professional Influence & Bureaucratic Capture](../../🌀_System_Governance/💫_Containment_Logic/⚖️_professional_influence_and_bureaucratic_capture.md) — *authority lending weight to performance*  
+> - [🧠 Cognitive Feedback and Bureaucratic Amplification](../../🌀_System_Governance/💫_Containment_Logic/🧠_cognitive_feedback_and_bureaucratic_amplification.md) — *conviction hardened by repetition*  
 
 > *Every institution loves a finale; few survive the encore.*
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-01-15_
