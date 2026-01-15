@@ -172,7 +172,9 @@ Rambam codifies:
 > “Our Sages commanded us to visit the gentiles when ill, to bury their dead in addition to the Jewish dead, and support their poor in addition to the Jewish poor — for the sake of peace (darchei shalom).”  [oai_citation:0‡Chabad](https://www.chabad.org/library/article_cdo/aid/1188355/jewish/Melachim-uMilchamot-Chapter-10.htm)
 
 This is not “permission to be decent.”  
-It’s a standard: **you do not get to dehumanize, abandon, or scapegoat non-Jews and call it Jewish strength.**
+It’s a standard: **you do not get to dehumanize, abandon, or scapegoat non-Jews and call it Jewish strength.**  
+
+---
 
 ### 🪼 Noahide language is not a license to brutalize people
 Yes: non-Jews are not bound by Torah mitzvot the same way Jews are, and Judaism has the Noahide framework for universal moral law.
@@ -183,6 +185,8 @@ If someone is acting — even imperfectly, even angrily — out of an impulse th
 > “They’re just antisemitic.”
 
 You may need to address antisemitism **and** still treat the life-protection claim seriously.
+
+---
 
 ### ❤️‍🩹 Pikuach Nefesh comes before insult culture
 Here is the moral order this README is insisting on:
@@ -195,6 +199,8 @@ Here is the moral order this README is insisting on:
 
 If you are not making substantial effort to protect life, you are not in a clean position to throw stones.
 
+---
+
 ### 💔 This is where blacklist logic collapses
 Canary-Mission–style tactics (public dossiers, humiliating compilation, permanent digital marking) collapse moral categories:
 
@@ -203,6 +209,8 @@ Canary-Mission–style tactics (public dossiers, humiliating compilation, perman
 - It replaces life-ethics with **loyalty policing**.
 
 And when that logic gets aimed outward — at goyim, Palestinians, Muslims, activists, students, whoever — it becomes even more obviously incompatible with Torah ethics, because it normalizes dehumanization.
+
+---
 
 ### 🕯️ The line (clear and non-negotiable)
 - Torah does **not** permit humiliating non-Jews “because they are non-Jews.”
@@ -348,10 +356,14 @@ It is a **law-and-ethics system**.
 
 Three principles apply here:
 
+---
+
 ### 💎 You may not stand by while someone’s dignity is destroyed
 Public shaming is treated as a form of violence.  
 Refusing to participate—or helping someone survive it—is not optional kindness.  
 It is harm reduction.
+
+---
 
 ### ⚡️ Disagreement does not cancel obligation
 You are not required to like someone, agree with them, or platform them.
@@ -360,6 +372,8 @@ You *are* required not to assist a system that:
 - denies teshuvah (change),
 - erases proportionality,
 - and converts disagreement into lifelong punishment.
+
+---
 
 ### 🧨 Fear-based control corrodes Jewish life
 A community held together by fear of being “named” is not resilient.  
