@@ -1,6 +1,6 @@
 # ⚙️ Efficiency Bias and the Fascism of Optimisation  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-12  
-*On why centralising for efficiency can save lives — and why it can also quietly erase them.*
+**First created:** 2025-11-05 | **Last updated:** 2026-01-15  
+*On why centralising for efficiency can save lives — and why it can also quietly erase them.*  
 
 ---
 
@@ -74,6 +74,17 @@ efficiency bias, centralisation, optimisation, fascism, care ethics, coordinatio
 ## 🏮 Footer  
 *⚙️ Efficiency Bias and the Fascism of Optimisation* is a living node of the Polaris Protocol.  
 It argues that centralisation is a vital civic tool — until it forgets why it was built.  
-The sweet spot lies where coordination serves life, not the algorithm.
+The sweet spot lies where coordination serves life, not the algorithm.  
 
-_Last updated: 2025-11-12_
+> 📡 Cross-references:
+> 
+> - [🪬 Christian Nationalism as Fascist Laundering](../🪬_Radicalisation_Extremism/🪬_christian_nationalism_as_fascist_laundering.md)  
+> - [🪬 From Christian Zionism to Diaspora Radicalisation](../🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)  
+> - [🪩 No Fap Fascism](../🪬_Radicalisation_Extremism/🪩_no_fap_fascism.md)  
+> - [🧮 Optimisation and the Fascism of Efficiency](../../🌀_System_Governance/💫_Containment_Logic/🧮_optimisation_and_the_fascism_of_efficiency.md)  
+> - [⚙️ Overclocked Capitalism — When Systems Outrun the Body](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/⚙️_overclocked_capitalism.md)  
+> - [🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash](../../🌀_System_Governance/🛰️_Infrastructure_Procurement/🧨_overclocked_capitalism_2020_cognitive_crash.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-15_
