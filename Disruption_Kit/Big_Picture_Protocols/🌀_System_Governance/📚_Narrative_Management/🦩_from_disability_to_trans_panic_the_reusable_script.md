@@ -112,7 +112,9 @@ Moral panic offers:
 
 Disability and trans communities are targeted not because they cause instability, but because they are politically exploitable.  
 
-(Honestly, it's giving, "we pissed off G-d, we must police EVERYTHING" vibes. Understandable, but not always conductive to solving the underlying anxiety.)  
+*(Honestly, it's giving, "we pissed off G-d, we must police EVERYTHING" vibes. Understandable, but not always conductive to solving the underlying anxiety.)*  
+
+Moral panic offers emotional mobilisation precisely where material explanation would require confronting economic redistribution, governance failure, or structural reform.  
 
 ---
 
@@ -175,7 +177,7 @@ The script persists because it:
 - appeals to “common sense”  
 - avoids confronting inequality  
 
-Most importantly, it does not require evidence — only repetition.
+Most importantly, it does not require evidence — only repetition, to redorect attention away from measurable economic decline toward unresolvable moral debate.  
 
 ---
 
@@ -211,7 +213,9 @@ The script breaks when:
 - access is decoupled from moral suspicion  
 - difference is treated as normal variation  
 
-This requires political courage — not rhetorical recycling.
+This requires political courage — not rhetorical recycling.  
+
+Restrictions on civil or medical rights do not repair declining living standards; they merely convert economic loss into moral theatre.  
 
 ---
 
