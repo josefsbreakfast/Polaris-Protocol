@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 07:51:50 UTC_
+_Generated on 2026-01-18 07:59:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -752,7 +752,7 @@ _Generated on 2026-01-18 07:51:50 UTC_
         - [`🦑_timeline_ai_ethics_uk.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🦑_timeline_ai_ethics_uk.md)
         - [`🧠_ai_harms_are_not_new.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_ai_harms_are_not_new.md)
         - [`🧠_bargain_bin_mossad.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_bargain_bin_mossad.md)
-        - [`🧠_extracting_soul_from_prosocial_people.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_extracting_soul_from_prosocial_people.md)
+        - [`🧠_extracting_souls_of_the_prosocial.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_extracting_souls_of_the_prosocial.md)
         - [`🧠_fisher_fork_theory.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_fisher_fork_theory.md)
         - [`🧠_le_carré_meets_alice_in_wonderland.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_le_carré_meets_alice_in_wonderland.md)
         - [`🧠_leveraged_bad_luck.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_leveraged_bad_luck.md)
