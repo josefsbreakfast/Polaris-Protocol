@@ -1,5 +1,5 @@
-# ⚖️ Navigating Elder Spaces for Transparency  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-15  
+# 🌲 Navigating Elder Spaces for Transparency  
+**First created:** 2025-10-03 | **Last updated:** 2026-01-18  
 *How to move with respect among elders while asking for truths that unsettle power.*  
 
 ---
@@ -58,14 +58,17 @@ elders, jewish community, transparency, diaspora deference, disclosure, communal
 
 ## 🏮 Footer  
 
-*Navigating Elder Spaces for Transparency* is a living node of the Polaris Protocol.  
+*🌲 Navigating Elder Spaces for Transparency* is a living node of the Polaris Protocol.  
 It records how survivors can move respectfully yet incisively within age-hierarchical communities to encourage disclosure.  
 
 > 📡 Cross-references:
 > 
-> - [🧿 Diaspora Disclosure Tactics](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🧿_diaspora_disclosure_tactics.md)  
-> - [🌱 Human Principles](../🌱_Human_Principles/README.md)  
+> - [🗞️ Hollowing of the Commons](../../../Survivor_Tools/🗞️_hollowing_of_the_commons.md)  
+> - [🧿 OSINT Guide — Checking Whether Research or Tech Projects Are Community-Led](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧿_is_this_project_community_led.md)  
+> - [🔕 Internal Dissent And The Closing Of Recourse (UK and Israel)](../../🌀_System_Governance/💫_Containment_Logic/🔕_internal_dissent_and_the_closing_of_recourse_uk_and_israel.md)  
+> - [🧠 Good Jew / Bad Jew State Template](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧠_good_jew_bad_jew_state_template.md)  
+> - [🕯️ Kol Nidre And European Viral Ignorance](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🕯️_kol_nidre_and_european_viral_ignorance.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-01-18_
