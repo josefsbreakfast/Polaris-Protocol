@@ -200,7 +200,7 @@ This node situates leakage as an **organisational failure**, not an accident —
 > 📡 Cross-references:
 > 
 > - [👻 Embedding Inertia and Ghost Geometry](../👾_Breakpoints_And_Glitches/👻_embedding_inertia_and_ghost_geometry.md) — *why leaked artefacts persist*  
-> - [🧮 Sparse Cluster Pathology (Micro-clusters)](./🧮_sparse_cluster_pathology_microclusters.md) — *how small R&D datasets distort grouping*  
+> - [🧮 Sparse Cluster Pathology (Micro-Clusters)](./🧮_sparse_cluster_pathology_microclusters.md) — *how small R&D datasets distort grouping*  
 > - [🐶 Internal Dogfooding as a Risk Vector](./🐶_internal_dogfooding_as_risk_vector.md) — *a common source of R&D artefacts*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
