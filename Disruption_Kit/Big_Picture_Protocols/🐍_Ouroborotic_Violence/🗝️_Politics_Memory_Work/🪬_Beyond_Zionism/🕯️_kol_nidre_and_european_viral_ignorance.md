@@ -1,5 +1,5 @@
 # 🕯️ Kol Nidre And European Viral Ignorance  
-**First created:** 2025-11-01 | **Last updated:** 2025-12-18  
+**First created:** 2025-11-01 | **Last updated:** 2026-01-18  
 *A memory-work node tracing how European misreadings of Jewish ritual became durable technologies of suspicion, coercion, and transferable racial violence.*
 
 ---
@@ -311,11 +311,11 @@ It documents how ritual ignorance and legal coercion became transferable technol
 
 > 📡 Cross-references:
 > 
-> - [🐍 Ouroborotic Violence](../../README.md) — *recursive harm cycles*  
-> - [🪬 Beyond Zionism](./README.md) — *antisemitism not reducible to state politics*  
-> - [🫀 Our Hearts, Our Minds](../../../🫀_Our_Hearts_Our_Minds/README.md) — *trauma-aware governance*  
-> - [🦆 Digital Disruption](../../../../../🦆_Digital_Disruption/README.md) — *solidarity and civic repair*  
+> - [🌐 Suppression of Holocaust Testimony Online](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🌐_suppression_of_holocaust_testimony_online.md)  
+> - [⚠️ Prelude Conditions to Atrocity](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/⚠️_prelude_conditions_to_atrocity.md)  
+> - [🫀 Holding a Weapon You Don’t Understand](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫀_holding_a_weapon_you_do_not_understand.md)  
+> - [🧥 Empire’s Old Coat](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧥_empires_old_clothes.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-18_
+_Last updated: 2026-01-18_
