@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 14:09:32 UTC_
+_Generated on 2026-01-18 14:24:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3354,6 +3354,7 @@ _Generated on 2026-01-18 14:09:32 UTC_
       - [`⚖️_borrowed_legitimacy_and_moral_sorting.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_borrowed_legitimacy_and_moral_sorting.md)
       - [`⚖️_reciprocal_accountability_implementation_checklist.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_reciprocal_accountability_implementation_checklist.md)
       - [`⚖️_reciprocal_accountability_protocol.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_reciprocal_accountability_protocol.md)
+      - [`✂_selective_precision_atrocity_edition.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/✂_selective_precision_atrocity_edition.md)
       - [`✈️_release_the_british_files.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/✈️_release_the_british_files.md)
       - [`🈴_allies_and_ethics_are_operational_variables.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🈴_allies_and_ethics_are_operational_variables.md)
       - [`🌩️_who_gets_to_quote_whom.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🌩️_who_gets_to_quote_whom.md)
