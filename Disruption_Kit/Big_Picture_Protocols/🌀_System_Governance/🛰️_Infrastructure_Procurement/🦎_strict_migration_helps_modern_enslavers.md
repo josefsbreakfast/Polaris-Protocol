@@ -129,7 +129,120 @@ Stricter borders mean:
 
 From a systems perspective, the incentives are aligned **against freedom**.
 
-This is why modern anti-slavery networks consistently argue that **safe, legal migration pathways** are anti-trafficking tools — not indulgences.
+This is why modern anti-slavery networks consistently argue that **safe, legal migration pathways** are anti-trafficking tools — not indulgences.  
+
+---
+
+## 🇬🇧 UK-Specific Case Studies: Where Restriction Becomes Enslavement  
+
+#### 🧽 Hand Car Washes  
+
+The UK hand car wash sector has been repeatedly identified as a high-risk site for labour exploitation.
+
+Structural features include:
+- cash-based payment
+- long hours with no contracts
+- isolated or fenced work sites
+- routine underpayment or non-payment
+- credible threats of denunciation
+
+Workers in this sector are frequently migrants without secure status or with visas tied to specific employers. The illegality is not incidental — it is the leverage.
+
+The more aggressive the enforcement environment becomes, the more control shifts to the exploiter, not the state.
+
+---
+
+#### 🛁 Social Care and Domestic Work  
+
+Care work is labour-intensive, feminised, racialised, and structurally undervalued.
+
+Key risk amplifiers:
+- live-in arrangements
+- tied visas or informal sponsorship
+- emotional pressure and isolation
+- blurred boundaries between work and rest
+- fear of losing both income and housing simultaneously
+
+When workers cannot safely leave or report abuse without risking removal, coercion becomes ambient rather than explicit.
+
+---
+
+#### 🥦 Agriculture and Food Processing  
+
+Seasonal labour schemes are often presented as “safe routes.”
+
+In practice, risk increases when:
+- visas are time-limited and non-transferable
+- accommodation is employer-controlled
+- recruitment fees are charged abroad
+- transport and food costs are deducted at source
+
+Debt + immobility + surveillance is not a labour shortage solution.  
+It is indenture with better branding.
+
+---
+
+### 🧩 Myth vs Mechanism (Public Clarification Layer)  
+
+**Myth:** “Tough borders deter trafficking.”  
+**Mechanism:** They increase smuggling fees, debt, and dependency — all core trafficking inputs.
+
+**Myth:** “Illegal work undercuts wages, so enforcement protects workers.”  
+**Mechanism:** Precarity suppresses all wages by destroying bargaining power at the bottom.
+
+**Myth:** “Raids rescue victims.”  
+**Mechanism:** Raids often remove the worker while leaving the employer, debt structure, and recruitment pipeline intact.
+
+**Myth:** “Exploitation happens because rules are broken.”  
+**Mechanism:** Exploitation happens because rules are designed to be unlivable.
+
+---
+
+## 🧄 Why Amnesties Reduce Exploitation Faster Than Raids  
+
+Amnesties are frequently mischaracterised as leniency.
+
+Structurally, they do three critical things:
+
+1. **They remove deportability as a threat vector**  
+   Once a worker can report abuse without self-destruction, coercion collapses rapidly.
+
+2. **They shift risk back onto exploiters**  
+   Employers lose the ability to weaponise immigration status and must compete on actual labour conditions.
+
+3. **They stabilise wages and working conditions**  
+   Legal presence enables job mobility, union access, and enforcement — benefiting the entire labour market.
+
+Raids, by contrast:
+- increase fear
+- silence witnesses
+- fragment communities
+- and incentivise further underground labour practices
+
+If the stated goal is reducing modern slavery, amnesties outperform raids on every relevant metric.
+
+The persistence of raids, despite this evidence, suggests that **deterrence optics** are being prioritised over worker safety.
+
+---
+
+## 🧭 System Summary  
+
+Restrictive migration regimes:
+- do not stop movement  
+- do not stop exploitation  
+- do not protect wages  
+
+They reliably:
+- increase debt bondage  
+- intensify racialisation  
+- enrich intermediaries  
+- suppress labour power  
+
+This is not a policy failure.
+
+It is a policy effect.  
+
+It is, therefore, an active choice.  
 
 ---
 
