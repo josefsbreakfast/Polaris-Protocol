@@ -1,5 +1,5 @@
 # ⚖️ Defend Forward & Sovereign Cyber Response Ladder  
-**First created:** 2025-10-13 | **Last updated:** 2026-01-09  
+**First created:** 2025-10-13 | **Last updated:** 2026-01-18  
 *An inherited escalation framework under strain in a weightless, reflexive digital world.*  
 
 ---
@@ -182,7 +182,11 @@ and keep watch.
 ---
 
 ## 🌌 Constellations  
-⚖️ 🌀 🐙 🐕 🌫️ 🧭 — law, systems & governance, ecological pressure, guardianship, ambiguity, orientation.
+⚖️ 🌀 🐙 🐕 🌫️ 🧭 — law, systems & governance, ecological pressure, guardianship, ambiguity, orientation.  
+*Further media:*  
+
+📲 ["Nations are using ingenious means to break our defences and each one has different tactics. Britain must fight back against a threat that costs £27bn a year"](https://vm.tiktok.com/ZNRkvWmsK/), Rishi Sunak, The Times & The Sunday Times via Tiktok.  
+
 
 ---
 
@@ -207,4 +211,4 @@ It situates inherited cyber escalation frameworks within their historical contex
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-18_
