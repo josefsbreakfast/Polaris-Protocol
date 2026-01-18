@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 16:21:02 UTC_
+_Generated on 2026-01-18 16:30:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3607,6 +3607,7 @@ _Generated on 2026-01-18 16:21:02 UTC_
       - [`🧠_ethical_attrition_via_asymmetric_burden.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠_ethical_attrition_via_asymmetric_burden.md)
       - [`🧠_psychops_of_tone_the_science_of_disbelief.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠_psychops_of_tone_the_science_of_disbelief.md)
       - [`🧠‍💫_neural_fatigue_the_cognitive_cost_of_constant_correction.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠‍💫_neural_fatigue_the_cognitive_cost_of_constant_correction.md)
+      - [`🧣_women_and_their_rights_are_not_your_pawns.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧣_women_and_their_rights_are_not_your_pawns.md)
       - [`🧬_clone_drift_deepfakes_audio_manipulation_and_voice_theft.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧬_clone_drift_deepfakes_audio_manipulation_and_voice_theft.md)
       - [`🧬_witness_pairing_and_projection.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧬_witness_pairing_and_projection.md)
       - [`🧻🐯_paper_thin_samiszdat_for_paper_thin_tigers.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧻🐯_paper_thin_samiszdat_for_paper_thin_tigers.md)
