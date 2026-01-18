@@ -1,5 +1,5 @@
-# 🧠 Moral / Behavioural Extraction from Prosocial People
-**First created:** 2025-11-18 | **Last updated:** 2025-12-13  
+# 🧠 Extracting Souls Of The Prosocial  
+**First created:** 2025-11-18 | **Last updated:** 2026-01-18  
 *How systems quietly extract labour, compliance, and emotional regulation from cooperative individuals.*  
 
 ---
@@ -53,4 +53,4 @@ Cross-references:
 • Weaponised Empathy
 • Gendered Susceptibility (Stepford Surface)
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-01-18_
