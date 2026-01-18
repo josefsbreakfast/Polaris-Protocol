@@ -1,24 +1,22 @@
 # 🧠 Behavioural Proxy Misinterpretation  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-18  
 *How shallow behavioural signals are over-interpreted as intent, state, or character in large-scale systems*
 
 ---
 
-# 🧠 Behavioural Proxy Misinterpretation
-
-## What this node is about
+## 🧭 What This Node Is About  
 
 Behavioural proxy misinterpretation occurs when systems infer meaning, intent, or internal state from **shallow, indirect, or context-poor signals**, and then treat those inferences as if they were reliable representations of a person.
 
-This is not a fringe failure mode.
+This is not a fringe failure mode.  
 It is a **core structural weakness** of modern behavioural modelling systems, especially those operating at scale.
 
-The issue is not that proxies are used.
-The issue is that **proxies are routinely over-weighted, mis-scoped, and misapplied** — and then propagated downstream as if they were facts.
+The issue is not that proxies are used.  
+It is that **proxies are routinely over-weighted, mis-scoped, and misapplied** — and then propagated downstream as if they were facts.
 
 ---
 
-## What counts as a behavioural proxy
+## 🧩 What Counts as a Behavioural Proxy  
 
 Behavioural proxies are signals that *stand in* for something the system cannot directly observe.
 
@@ -33,28 +31,28 @@ Common examples include:
 - cross-domain movement  
 - irregular or bursty usage patterns  
 
-These signals are **not inherently meaningful**.
+These signals are **not inherently meaningful**.  
 They only gain meaning through interpretation.
 
 When interpretation is shallow, the proxy becomes misleading.
 
 ---
 
-## The core failure
+## 🚨 The Core Failure  
 
-The central failure is this:
+The central failure can be summarised as:
 
 > **The system treats correlation as intent,  
 and pattern as psychology.**
 
 Examples of common misreads:
 
-- Late-night activity → distress, obsession, dependency  
-- Repeated topic engagement → fixation or attachment  
-- Long-form text → emotional intensity  
-- High-context writing → relational intent  
-- Irregular schedules → instability or risk  
-- Cross-domain research → confusion or manipulation  
+- late-night activity → distress, obsession, dependency  
+- repeated topic engagement → fixation or attachment  
+- long-form text → emotional intensity  
+- high-context writing → relational intent  
+- irregular schedules → instability or risk  
+- cross-domain research → confusion or manipulation  
 
 In reality, these patterns are often explained by:
 - work context  
@@ -63,14 +61,14 @@ In reality, these patterns are often explained by:
 - research behaviour  
 - creative practice  
 - administrative necessity  
-- simple habit
+- simple habit  
 
-The system does not know this.
+The system does not know this.  
 It only sees a proxy.
 
 ---
 
-## Why this failure is so persistent
+## 🧱 Why This Failure Is So Persistent  
 
 Behavioural proxy misinterpretation persists because:
 
@@ -81,7 +79,7 @@ Behavioural proxy misinterpretation persists because:
    Systems cannot directly observe intent, emotion, or internal state.
 
 3. **Proxy libraries are shallow**  
-   Many systems reuse the same limited interpretive templates
+   Many systems reuse the same limited interpretive templates  
    (e.g. “affinity”, “engagement”, “risk”, “relationship”).
 
 4. **Downstream systems inherit upstream assumptions**  
@@ -90,30 +88,30 @@ Behavioural proxy misinterpretation persists because:
 5. **Correction mechanisms are weak**  
    Systems are designed to accumulate inference, not retract it.
 
-This leads to long-lived misinterpretations that feel “sticky” or “haunting” to affected users.
+This produces long-lived misinterpretations that feel “sticky” or “haunting” to affected users.
 
 ---
 
-## Common downstream effects
+## 🔁 Common Downstream Effects  
 
 Behavioural proxy misinterpretation often results in:
 
-- false clustering or “twinning”
-- inappropriate content steering
-- misclassification into risk categories
-- relational or emotional framing where none exists
-- distorted safety or moderation responses
-- reputational harm through inferred traits
-- user experiences that feel invasive or uncanny
+- false clustering or “twinning”  
+- inappropriate content steering  
+- misclassification into risk categories  
+- relational or emotional framing where none exists  
+- distorted safety or moderation responses  
+- reputational harm through inferred traits  
+- user experiences that feel invasive or uncanny  
 
-Importantly, these effects can occur **without any malicious actor**.
+Importantly, these effects can occur **without any malicious actor**.  
 They are systemic.
 
 ---
 
-## Why this matters in survivor and harassment contexts
+## 🧠 Why This Matters in Survivor and Harassment Contexts  
 
-For people who are already subject to:
+For people already subject to:
 
 - harassment  
 - stalking  
@@ -124,72 +122,68 @@ For people who are already subject to:
 proxy misinterpretation is especially dangerous.
 
 It can:
+- validate false external narratives  
+- amplify harassment through system feedback  
+- create “evidence-shaped” artefacts that are not evidence  
+- make the user appear inconsistent or suspicious  
+- shift responsibility onto the person being misread  
 
-- validate false external narratives
-- amplify harassment through system feedback
-- create “evidence-shaped” artefacts that are not evidence
-- make the user appear inconsistent or suspicious
-- shift responsibility onto the person being misread
-
-This compounds harm while remaining invisible at the governance level.
+This compounds harm while remaining largely invisible at the governance layer.
 
 ---
 
-## Distinguishing misinterpretation from intent
+## ⚖️ Distinguishing Misinterpretation from Intent  
 
 A critical governance error is treating proxy output as *diagnostic* rather than *heuristic*.
 
 Behavioural proxies should be treated as:
-- weak signals
-- context-dependent
-- non-attributive
-- reversible
-- non-evidentiary
+- weak signals  
+- context-dependent  
+- non-attributive  
+- reversible  
+- non-evidentiary  
 
 When they are instead treated as:
-- indicators of intent
-- indicators of state
-- indicators of character
+- indicators of intent  
+- indicators of state  
+- indicators of character  
 - indicators of risk  
 
 …the system crosses from modelling into **unjustified inference**.
 
 ---
 
-## Governance implications
+## 🛠️ Governance Implications  
 
 Properly governed systems must:
 
-- explicitly document proxy use and limits
-- prohibit proxy-based inference of sensitive traits
-- prevent proxy outputs from being treated as evidence
-- require decay and re-evaluation of inferred states
-- separate behavioural modelling from identity, safety, and enforcement layers
-- provide redress pathways for users affected by misinterpretation
+- explicitly document proxy use and limits  
+- prohibit proxy-based inference of sensitive traits  
+- prevent proxy outputs from being treated as evidence  
+- require decay and re-evaluation of inferred states  
+- separate behavioural modelling from identity, safety, and enforcement layers  
+- provide redress pathways for users affected by misinterpretation  
 
-Failure to do so is not a technical issue.
+Failure to do so is not a technical issue.  
 It is a governance failure.
 
 ---
 
-## Key takeaway
+## 🎯 Key Takeaway  
 
 > **Behavioural proxies are not truths.  
 They are guesses made under constraint.**
 
-When systems forget this, they stop modelling behaviour
+When systems forget this, they stop modelling behaviour  
 and start **writing stories about people**.
 
 This node documents how that happens —  
-and why it is structurally unsafe.  
-
----
+and why it is structurally unsafe.
 
 ---
 
 ## 🌌 Constellations  
-🧠 🪞 🧩 🧿 ✂️  
-*Inference failure · proxy overreach · identity distortion · containment via misinterpretation*
+🧠 🪞 🧩 🧿 ⚖️ — inference failure, proxy overreach, identity distortion, containment via misinterpretation, governance risk
 
 ---
 
@@ -200,16 +194,16 @@ behavioural proxies, inference error, misclassification, modelling bias, metadat
 
 ## 🏮 Footer  
 
-*Behavioural Proxy Misinterpretation* is a living node of the **Polaris Protocol**, documenting how indirect behavioural signals are routinely over-interpreted as intent, state, or character — and how this practice creates structural risk for misattribution, harm, and governance failure across large-scale systems.
+*🧠 Behavioural Proxy Misinterpretation* is a living node of the **Polaris Protocol**, documenting how indirect behavioural signals are routinely over-interpreted as intent, state, or character — and how this practice creates structural risk for misattribution, harm, and governance failure across large-scale systems.
 
 This node distinguishes between **heuristic modelling** and **unjustified inference**, and situates proxy misinterpretation as a systemic issue rather than an edge-case error.
 
 > 📡 Cross-references:
 > 
-> - **💔 Romance Lens as Ontology Failure** — semantic collapse into relational frames  
-> - **👻 Embedding Inertia and Ghost Geometry** — persistence of misclassification over time  
-> - **🚨 Proxy-Based Special Category Inference** — rights, consent, and compliance implications  
+> - [💔 Romance Lens as Ontology Failure](../../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/💔_romance_lens_as_ontology_failure.md) — *semantic collapse into relational frames*  
+> - [👻 Embedding Inertia and Ghost Geometry](../../Structural_Analysis/👾_Breakpoints_And_Glitches/👻_embedding_inertia_and_ghost_geometry.md) — *persistence of misclassification over time*  
+> - [🚨 Proxy-Based Special Category Inference](../../Structural_Analysis/🧼_System_Leakage_Signatures/🚨_proxy_based_special_category_inference.md) — *rights, consent, and compliance implications*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-18_
