@@ -1,10 +1,10 @@
 # 🚨 Proxy-Based Special Category Inference  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*When indirect behavioural signals are used to infer protected or sensitive attributes without consent*
+**First created:** 2025-12-14 | **Last updated:** 2026-01-18  
+*When indirect behavioural signals are used to infer protected or sensitive attributes without consent.*  
 
 ---
 
-## What this node is about
+## 🧭 What This Node Is About  
 
 Proxy-based special category inference occurs when systems infer **protected or sensitive attributes** about a person using indirect signals rather than explicit data.
 
@@ -20,7 +20,7 @@ This node documents how proxy inference crosses a legal and ethical boundary —
 
 ---
 
-## What counts as special category data
+## ⚖️ What Counts as Special Category Data  
 
 Under GDPR, UK GDPR, and aligned regimes, special category data includes inferences relating to:
 
@@ -42,7 +42,7 @@ If a system attempts to infer these attributes — even incorrectly — it is pr
 
 ---
 
-## How proxies are used to infer sensitive attributes
+## 🔍 How Proxies Are Used to Infer Sensitive Attributes  
 
 Systems frequently infer sensitive attributes using proxies such as:
 
@@ -58,12 +58,12 @@ These proxies are attractive because:
 - they avoid collecting explicit disclosures  
 - they appear “safer” than direct data  
 
-They are not safer.
+They are not safer.  
 They are **less transparent**.
 
 ---
 
-## Why proxy inference is treated as acceptable (incorrectly)
+## 🧾 Why Proxy Inference Is Treated as Acceptable (Incorrectly)  
 
 Organisations often justify proxy inference by claiming:
 
@@ -75,12 +75,12 @@ Organisations often justify proxy inference by claiming:
 
 None of these arguments remove regulatory obligation.
 
-The relevant test is not certainty.
+The relevant test is not certainty.  
 It is **purpose and effect**.
 
 ---
 
-## The core failure
+## 🚨 The Core Failure  
 
 The core failure can be summarised as:
 
@@ -98,7 +98,7 @@ It only obscures it.
 
 ---
 
-## Interaction with behavioural modelling failures
+## 🧪 Interaction with Behavioural Modelling Failures  
 
 Proxy-based special category inference rarely occurs in isolation.
 
@@ -111,7 +111,7 @@ It is amplified by:
 - dogfooding bias  
 
 When these failures combine, systems may:
-- infer sensitive traits from very little data  
+- infer sensitive traits from minimal data  
 - generalise cluster-level attributes to individuals  
 - persist inferences long after conditions change  
 
@@ -119,11 +119,11 @@ This creates a **durable shadow profile** that users cannot see or contest.
 
 ---
 
-## Why inaccuracy does not mitigate harm
+## 🧨 Why Inaccuracy Does Not Mitigate Harm  
 
 A common misconception is that incorrect inference is harmless.
 
-In fact, inaccurate proxy inference can be worse because it:
+In practice, inaccurate proxy inference can be worse because it:
 
 - cannot be corrected through disclosure  
 - cannot be disproven by the user  
@@ -135,7 +135,7 @@ From a rights perspective, **being wrongly inferred is still being processed**.
 
 ---
 
-## When proxy inference becomes unlawful
+## ⚠️ When Proxy Inference Becomes Unlawful  
 
 Proxy-based special category inference is unlawful when:
 
@@ -152,7 +152,7 @@ The result is silent non-compliance.
 
 ---
 
-## Why this is difficult to detect or audit
+## 🕳️ Why This Is Difficult to Detect or Audit  
 
 Proxy inference is difficult to detect because:
 
@@ -160,13 +160,13 @@ Proxy inference is difficult to detect because:
 - attributes are represented as weights or vectors  
 - no single field contains the sensitive category  
 - documentation avoids explicit naming  
-- systems treat inference as “feature engineering”  
+- systems frame inference as “feature engineering”  
 
 This allows organisations to sincerely claim ignorance while continuing the practice.
 
 ---
 
-## Impact on individuals
+## 🧍 Impact on Individuals  
 
 For individuals, proxy-based special category inference can result in:
 
@@ -182,7 +182,7 @@ The harm occurs **even if no one ever “looks at” the inference**.
 
 ---
 
-## What lawful handling requires
+## 🛠️ What Lawful Handling Requires  
 
 Lawful handling of special category inference requires:
 
@@ -197,7 +197,7 @@ Absent these conditions, the inference should not occur.
 
 ---
 
-## Key takeaway
+## 🎯 Key Takeaway  
 
 > **You cannot infer your way around consent.**
 
@@ -206,7 +206,7 @@ When systems use proxies to guess protected attributes, they are not avoiding re
 ---
 
 ## 🌌 Constellations  
-🚨 🧠 🧪 🐶 👻 — sensitive inference · proxy misuse · governance breach · hidden processing
+🚨 🧠 🧪 👻 ⚖️ — sensitive inference, proxy misuse, hidden processing, rights breach, governance failure
 
 ---
 
@@ -223,11 +223,11 @@ This node frames proxy inference as a **rights issue**, not a modelling shortcut
 
 > 📡 Cross-references:
 > 
-> - **🧠 Behavioural Proxy Misinterpretation** — how weak signals gain meaning  
-> - **🧪 R&D Artefact Leakage into Production** — how experimental inference escapes governance  
-> - **🐶 Internal Dogfooding as a Risk Vector** — how internal norms shape sensitive inference  
-> - **⚖️ Consent and Purpose Limitation Failure in ML R&D** — the legal boundary this crosses  
+> - [🧠 Behavioural Proxy Misinterpretation](../../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_behavioural_proxy_misinterpretation.md) — *how weak signals gain meaning*  
+> - [🧪 R&D Artefact Leakage into Production](./🧪_rnd_artefact_leakage_into_production.md) — *how experimental inference escapes governance*  
+> - [🐶 Internal Dogfooding as a Risk Vector](./🐶_internal_dogfooding_as_risk_vector.md) — *how internal norms shape sensitive inference*  
+> - [⚖️ Consent and Purpose Limitation Failure in ML R&D](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/⚖️_consent_and_purpose_limitation_failure_in_ml_rnd.md) — *the legal boundary this crosses*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-18_
