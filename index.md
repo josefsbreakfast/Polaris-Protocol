@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 16:03:29 UTC_
+_Generated on 2026-01-18 16:10:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3616,6 +3616,7 @@ _Generated on 2026-01-18 16:03:29 UTC_
       - [`🪆_are_you_just_asking_questions.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🪆_are_you_just_asking_questions.md)
       - [`🪞_mirror_campaigns.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🪞_mirror_campaigns.md)
       - [`🪫_credibility_collapse.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🪫_credibility_collapse.md)
+      - [`🪬_diaspora_protest_as_imported_disorder.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🪬_diaspora_protest_as_imported_disorder.md)
     - [**👹_Fork_Behaviour_Containment/**](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/)
       - [`README.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/README.md)
       - [`protocol_flow_new_insert_handling.png`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/protocol_flow_new_insert_handling.png)
