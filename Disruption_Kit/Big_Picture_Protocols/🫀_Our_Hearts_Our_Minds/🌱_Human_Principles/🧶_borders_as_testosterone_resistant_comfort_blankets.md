@@ -29,9 +29,7 @@ They do not.
 
 ---
 
-## 🧿 Analysis / Content  
-
-### 1. Comfort Objects Are Body- and Nervous-System Specific  
+## 🧿 Comfort Objects Are Body, And Nervous-System, Specific  
 
 A comfort object only functions if it aligns with the body and threat-response system using it.
 
@@ -51,7 +49,7 @@ For bodies and identities not organised around patrol comfort, the same object o
 
 ---
 
-### 2. Testosterone-Resistant by Design  
+## 2. Testosterone-Resistant by Design  
 
 For many women and non-male people, borders do not perform their implied function:  
 **they do not make the inside feel safer**.
@@ -68,7 +66,7 @@ Borders regulate territorial anxiety, not relational or environmental safety.
 
 ---
 
-### 3. Patrol Comfort vs Continuity Comfort  
+## 🗺️ Patrol Comfort vs Continuity Comfort  
 
 **Patrol-oriented comfort**
 - Safety through defended boundaries  
@@ -91,7 +89,7 @@ This produces governance failure modes where:
 
 ---
 
-### 4. War as Escalated Border Logic  
+## 🌋 War as Escalated Border Logic  
 
 War is the maximal expression of border-based comfort logic.
 
@@ -110,7 +108,7 @@ Holding the line does not compensate for the loss of:
 
 ---
 
-### 5. Female and Queer Anarchism as Non-Resonance  
+## 💞 Female and Queer Anarchism as Non-Resonance  
 
 Many women and queer people do not reject borders out of utopian optimism.
 
@@ -151,7 +149,7 @@ It re-emerges as escalation.
 
 ---
 
-### Why This Feels Different for Women  
+### ❤️‍🩹 Why This Feels Different for Women  
 
 Many women do not experience safety as something produced by:
 - defended perimeters  
@@ -174,7 +172,7 @@ They are strategies aimed at interiors, not borders.
 
 ---
 
-### Not Men vs Women: The Queer Theory Bridge  
+## 🌈 Not Men vs Women: The Queer Theory Bridge  
 
 This is not a simple sex binary.
 
@@ -193,7 +191,7 @@ The real axis is not men vs women, but **male-coded dominance vs everyone else**
 
 ---
 
-### A Different Question for Governance  
+## 🕯️ A Different Question for Governance  
 
 The forward-facing question becomes:
 
@@ -229,8 +227,11 @@ It contributes affective and structural analysis of borders as uneven emotional 
 
 > 📡 Cross-references:
 > 
-> - [
-> - [
+> - [🫂 Mixed-Gender & Queer Sociality as Radicalisation Antidote](../🐝_Body_Politic/🫂_mixed_gender_queer_sociality_as_radicalisation_antidote.md)  
+> - [💞 Queer Theory as Relational Literacy](./💞_queer_theory_as_relational_literacy.md)
+> - [*Pending:* 🐎 Ritual, Catharsis, and What Policing Can’t Carry ]
+> - [🦕 Partition Loop — Borders as Violence](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🦕_partition_loop.md)
+> - [⚖️ Coercive Control in Border Policy](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
