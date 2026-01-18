@@ -200,7 +200,7 @@ This node distinguishes between **heuristic modelling** and **unjustified infere
 
 > 📡 Cross-references:
 > 
-> - [💔 Romance Lens as Ontology Failure](../../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/💔_romance_lens_as_ontology_failure.md) — *semantic collapse into relational frames*  
+> - [💔 Romance Lens as Ontology Failure](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/💔_romance_lens_as_ontology_failure.md) — *semantic collapse into relational frames*  
 > - [👻 Embedding Inertia and Ghost Geometry](../../Structural_Analysis/👾_Breakpoints_And_Glitches/👻_embedding_inertia_and_ghost_geometry.md) — *persistence of misclassification over time*  
 > - [🚨 Proxy-Based Special Category Inference](../../Structural_Analysis/🧼_System_Leakage_Signatures/🚨_proxy_based_special_category_inference.md) — *rights, consent, and compliance implications*  
 
