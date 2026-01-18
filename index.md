@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 15:00:21 UTC_
+_Generated on 2026-01-18 15:02:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3384,6 +3384,7 @@ _Generated on 2026-01-18 15:00:21 UTC_
       - [`🧬_distributed_trust.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_distributed_trust.md)
       - [`🧬_twinning_as_reputation_repair.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_twinning_as_reputation_repair.md)
       - [`🧶_soft_capture.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧶_soft_capture.md)
+      - [`🧿_accountability_before_proximity.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧿_accountability_before_proximity.md)
       - [`🩸_pain_as_credential.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🩸_pain_as_credential.md)
       - [`🪄_performative_empathy_economies.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪄_performative_empathy_economies.md)
       - [`🪞_mirror_ethics.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪞_mirror_ethics.md)
