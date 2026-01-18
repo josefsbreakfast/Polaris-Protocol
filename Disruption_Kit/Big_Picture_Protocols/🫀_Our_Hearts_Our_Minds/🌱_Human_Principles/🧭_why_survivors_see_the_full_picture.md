@@ -1,5 +1,5 @@
 # 🧭 Why Survivors See the Full Picture  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-22 | **Last updated:** 2026-01-18  
 *Why individuals harmed by cross-silo failures become the only people who can see the entire multi-agency system — and why institutions cannot.*  
 
 ---
@@ -25,9 +25,7 @@ This node explains why:
 
 ---
 
-## 🧿 Analysis / Content  
-
-## 1. Survivors See Everything Because Everything Happens *To Them*  
+## 🧿 Survivors See Everything Because Everything Happens *To Them*  
 Each silo sees a narrow slice:
 
 - healthcare sees health needs  
@@ -75,26 +73,26 @@ These contradictions form a **map of system harm**, visible only from the centre
 ## 4. Institutions Cannot See the Whole Picture  
 Four structural reasons:
 
-### A. **Silo Architecture**  
+#### A. **Silo Architecture**  
 Each system is built to see only itself.
 
-### B. **Information Compartmentalisation**  
+#### B. **Information Compartmentalisation**  
 Cross-silo access is restricted by law, culture, and governance.
 
-### C. **Professional Reflex Differences**  
+#### C. **Professional Reflex Differences**  
 Healthcare escalates →  
 Justice silences →  
 Security withholds →  
 Universities delay →  
 The result is fragmented comprehension.
 
-### D. **Emotional Distance**  
+#### D. **Emotional Distance**  
 Institutions experience harm indirectly.  
 Survivors experience it directly and bodily.
 
 ---
 
-## 5. Survivor Testimony Is a System Diagnostic Tool  
+## 🫀 Survivor Testimony Is a System Diagnostic Tool  
 Survivors produce:
 
 - accurate cross-domain timelines  
@@ -160,7 +158,17 @@ survivor vantage point, cross-silo visibility, data drift, governance insight, s
 ---
 
 ## 🏮 Footer  
-*Why Survivors See the Full Picture* explains the structural reasons survivors understand multi-agency harm more fully than any institution.  
-It reframes survivor clarity as a systems feature, not an emotional artefact.
+*🧭 Why Survivors See the Full Picture* explains the structural reasons survivors understand multi-agency harm more fully than any institution.  
+It reframes survivor clarity as a systems feature, not an emotional artefact.  
 
-_Last updated: 2025-12-19_
+> 📡 Cross-references:
+> 
+> - [🐦 The Canaries Are Still Singing](../👁️‍🗨️_Witness_Historical_Casefiles/🐦_the_canaries_are_still_singing.md)  
+> - [🐣 Canaries and Cassandras — Early Warnings in a System That Won’t Listen](./🐣_canaries_and_cassandras.md)  
+> - [🌒 The No-Win Box](../../🌀_System_Governance/👑_Ownership_Control/🌒_the_no_win_box.md)  
+> - [🧵 Community Vulnerability and Early Canaries](../👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)  
+> - [🧩 The Recognition Event: When You Realise You’re Not Imagining It](./🧩_the_recognition_event.md)  
+> - [*Pending:* 🩸 Soul as Product Lineage]  
+> - [🧠 Extracting Souls Of The Prosocial](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_extracting_souls_of_the_prosocial.md)  
+
+_Last updated: 2026-01-18_
