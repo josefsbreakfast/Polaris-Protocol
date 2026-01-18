@@ -150,10 +150,10 @@ It documents how ethical language is mobilised to manage legitimacy and protect 
 
 > 📡 Cross-references:
 >
-> * **✂ Selective Precision in Atrocity Language** — *how legal precision is applied asymmetrically*
-> * **🔥 Allied-State Violence and Moral Grammar Drift** — *how language softens allied violence*
-> * **⚖️ Humanitarian Law as Opt-In for Powerful States** — *how ethical minimums become discretionary*
-> * **🧠 Accountability Follows Enablement, Not Proximity** — *how responsibility tracks support rather than stated values*
+> - [✂ Selective Precision in Atrocity Language](./✂_selective_precision_atrocity_edition.md) — *how legal precision is applied asymmetrically*  
+> - [🔥 The State Violence Of Grammatical Drift](./🔥_the_state_violence_of_grammatical_drift.md) — *how language softens allied violence*  
+> - [⚖️ Humanitarian Law as Opt-In for Powerful States] — *how ethical minimums become discretionary*  
+> - [🧠 Accountability Follows Enablement, Not Proximity] — *how responsibility tracks support rather than stated values*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
