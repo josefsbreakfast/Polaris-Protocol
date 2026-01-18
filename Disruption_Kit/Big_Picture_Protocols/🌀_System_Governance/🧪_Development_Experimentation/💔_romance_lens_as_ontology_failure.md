@@ -1,21 +1,21 @@
 # 💔 Romance Lens as Ontology Failure  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-18  
 *When systems default to relational or romantic frames because they lack adequate categories for human behaviour*
 
 ---
 
-## What this node is about
+## 🧭 What This Node Is About  
 
-Romance lens ontology failure occurs when behavioural modelling systems interpret patterns of interaction, attention, or intensity through a **relational or romantic frame**, not because such a frame is appropriate, but because the system lacks better conceptual categories.
+Romance lens ontology failure occurs when behavioural modelling systems interpret patterns of interaction, attention, or intensity through a **relational or romantic frame** — not because such a frame is appropriate, but because the system lacks better conceptual categories.
 
-This is not a deliberate choice.
+This is not a deliberate choice.  
 It is a failure of ontology.
 
 When the system cannot meaningfully describe behaviour, it reaches for the **closest available metaphor** — and in many commercial models, that metaphor is romance, attachment, or intimacy.
 
 ---
 
-## What is meant by “ontology failure”
+## 🧩 What Is Meant by “Ontology Failure”  
 
 An ontology defines:
 - what kinds of things exist  
@@ -28,13 +28,14 @@ An ontology failure occurs when:
 - complex behaviour is forced into simplistic frames  
 
 In behavioural systems, this often means:
+
 > **All sustained or textured interaction is treated as “connection.”**
 
 And connection is then interpreted relationally.
 
 ---
 
-## Why romance becomes the default metaphor
+## 💔 Why Romance Becomes the Default Metaphor  
 
 Romance and relationship models are over-represented in behavioural ML because they are:
 
@@ -53,7 +54,7 @@ When reused outside their intended context, **everything starts to look like a c
 
 ---
 
-## What behaviours get misread through this lens
+## 🔍 What Behaviours Get Misread Through This Lens  
 
 The romance lens is commonly triggered by:
 
@@ -71,7 +72,7 @@ They imply **engagement**, not intimacy.
 
 ---
 
-## Why this misreading feels invasive
+## 🧠 Why This Misreading Feels Invasive  
 
 Romantic or relational framing is uniquely intrusive because it:
 
@@ -87,7 +88,7 @@ This is because **romance is not a neutral category**.
 
 ---
 
-## Interaction with sparse clusters and embeddings
+## 🧮 Interaction with Sparse Clusters and Embeddings  
 
 The romance lens is amplified when combined with:
 
@@ -106,7 +107,7 @@ The result can resemble a “dating sim” narrative — not because of intent, 
 
 ---
 
-## Why this is not just a UX problem
+## ⚠️ Why This Is Not Just a UX Problem  
 
 Romance lens failure is often dismissed as:
 - recommendation weirdness  
@@ -126,7 +127,7 @@ When relational inference affects:
 
 ---
 
-## Gendered and survivor-specific impacts
+## 🧬 Gendered and Survivor-Specific Impacts  
 
 Romance-based misinterpretation disproportionately harms:
 
@@ -145,19 +146,19 @@ This reproduces familiar power dynamics — through automation.
 
 ---
 
-## Why accuracy does not fix the problem
+## 🚫 Why Accuracy Does Not Fix the Problem  
 
 Even if the system were “right” (which it usually is not), the issue would remain.
 
-The problem is not misclassification.
+The problem is not misclassification.  
 The problem is **unsanctioned relational inference**.
 
-Inferring intimacy, attraction, or attachment is not a neutral modelling choice.
+Inferring intimacy, attraction, or attachment is not a neutral modelling choice.  
 It is a **normative act** that requires justification and consent.
 
 ---
 
-## What responsible systems must do instead
+## 🛠️ What Responsible Systems Must Do Instead  
 
 Avoiding romance lens failure requires:
 
@@ -172,18 +173,18 @@ Absent these measures, relational misreads will recur.
 
 ---
 
-## Key takeaway
+## 🎯 Key Takeaway  
 
 > **When a system cannot name what it sees,  
 it reaches for romance.**
 
-This is not insight.
+This is not insight.  
 It is conceptual poverty — and it carries real harm.
 
 ---
 
 ## 🌌 Constellations  
-💔 🧠 🧮 👻 🚨 — relational misreading · affective overreach · semantic collapse · survivor harm
+💔 🧠 🧮 👻 🚨 — relational misreading, affective overreach, semantic collapse, survivor harm, governance risk
 
 ---
 
@@ -194,17 +195,17 @@ romance lens, relational inference, ontology failure, parasocial modelling, affe
 
 ## 🏮 Footer  
 
-*Romance Lens as Ontology Failure* is a living node of the **Polaris Protocol**, documenting how behavioural systems default to relational or romantic interpretations when they lack adequate categories — and why this failure is invasive, gendered, and structurally unsafe.
+*💔 Romance Lens as Ontology Failure* is a living node of the **Polaris Protocol**, documenting how behavioural systems default to relational or romantic interpretations when they lack adequate categories — and why this failure is invasive, gendered, and structurally unsafe.
 
 This node frames romance not as a harmless metaphor, but as a **loaded interpretive lens** that systems must be explicitly prevented from applying.
 
 > 📡 Cross-references:
 > 
-> - **🧠 Behavioural Proxy Misinterpretation** — how weak signals gain meaning  
-> - **🧮 Sparse Cluster Pathology (Micro-clusters)** — how scarcity amplifies pairing narratives  
-> - **👻 Embedding Inertia and Ghost Geometry** — why misreads persist  
-> - **🚨 Proxy-Based Special Category Inference** — when relational inference becomes regulated  
+> - [🧠 Behavioural Proxy Misinterpretation](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_behavioural_proxy_misinterpretation.md) — *how weak signals gain meaning*  
+> - [🧮 Sparse Cluster Pathology (Micro-clusters)](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧮_sparse_cluster_pathology_microclusters.md) — *how scarcity amplifies pairing narratives*  
+> - [👻 Embedding Inertia and Ghost Geometry](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/👻_embedding_inertia_and_ghost_geometry.md) — *why misreads persist*  
+> - [🚨 Proxy-Based Special Category Inference](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🚨_proxy_based_special_category_inference.md) — *when relational inference becomes regulated*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-18_
