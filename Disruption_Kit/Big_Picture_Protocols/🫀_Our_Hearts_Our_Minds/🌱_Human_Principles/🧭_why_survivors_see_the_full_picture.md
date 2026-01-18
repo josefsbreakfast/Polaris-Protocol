@@ -41,7 +41,7 @@ This makes the survivor the only person with a complete system-level perception.
 
 ---
 
-## 2. Drift Propagates Across Systems, Not Within  
+## 🪣 Drift Propagates Across Systems, Not Within  
 Data drift behaves like:
 
 - seepage  
@@ -58,7 +58,7 @@ The survivor, however, experiences **every downstream effect**.
 
 ---
 
-## 3. Silence Amplifies Survivor Insight  
+## 🕳 Silence Amplifies Survivor Insight  
 When institutions fall silent (Freeze–Fog–Correction):  
 - survivors notice contradictions  
 - gaps in communication  
@@ -70,23 +70,23 @@ These contradictions form a **map of system harm**, visible only from the centre
 
 ---
 
-## 4. Institutions Cannot See the Whole Picture  
+## 🏛 Institutions Cannot See the Whole Picture  
 Four structural reasons:
 
-#### A. **Silo Architecture**  
+#### 🚧 **Silo Architecture**  
 Each system is built to see only itself.
 
-#### B. **Information Compartmentalisation**  
+#### 👁️‍🗨️ **Information Compartmentalisation**  
 Cross-silo access is restricted by law, culture, and governance.
 
-#### C. **Professional Reflex Differences**  
+#### ♟ **Professional Reflex Differences**  
 Healthcare escalates →  
 Justice silences →  
 Security withholds →  
 Universities delay →  
 The result is fragmented comprehension.
 
-#### D. **Emotional Distance**  
+#### 💔 **Emotional Distance**  
 Institutions experience harm indirectly.  
 Survivors experience it directly and bodily.
 
@@ -109,7 +109,7 @@ It is **the only cross-silo diagnostic output the system has**.
 
 ---
 
-## 6. Why Survivors Are Months Ahead  
+## 🚀 Why Survivors Are Months Ahead  
 Survivors notice patterns instantly because:
 
 - harm is lived, not abstract  
@@ -132,7 +132,7 @@ The institution’s timeline is bureaucratic time.
 
 ---
 
-## 7. The Survivor’s Role Is Structural, Not Chosen  
+## 🏺 The Survivor’s Role Is Structural, Not Chosen  
 Survivors do not *seek* to become system analysts.  
 They are *forced* into that position because:
 
