@@ -1,6 +1,5 @@
 # 🔥 Allied-State Violence and Moral Grammar Drift
-
-**First created:** 2026-01-18 | **Last updated:** 2026-01-18
+**First created:** 2026-01-18 | **Last updated:** 2026-01-18  
 *How grammar quietly reallocates responsibility when violence is committed by allies.*
 
 ---
