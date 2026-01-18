@@ -1,14 +1,14 @@
-# 🧮 Sparse Cluster Pathology (Micro-clusters)
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+# 🧮 Sparse Cluster Pathology (Micro-Clusters)
+**First created:** 2025-12-14 | **Last updated:** 2026-01-18  
 *When behavioural modelling produces clusters so small they cease to be meaningful, yet remain operationally influential*
 
 ---
 
-## What this node is about
+## 🧭 What This Node Is About  
 
 Sparse cluster pathology describes a failure mode in behavioural modelling where systems generate **extremely small clusters** — sometimes containing only one or two individuals — and then proceed to treat those clusters as coherent, interpretable categories.
 
-This is not a rare edge case.
+This is not a rare edge case.  
 It is a predictable outcome of combining:
 
 - high-dimensional behavioural data  
@@ -20,7 +20,7 @@ The pathology arises when **statistical proximity is mistaken for semantic coher
 
 ---
 
-## What is a micro-cluster
+## 🧩 What Is a Micro-Cluster  
 
 A micro-cluster is a behavioural grouping with:
 
@@ -29,19 +29,19 @@ A micro-cluster is a behavioural grouping with:
 - low external comparability  
 - poor robustness to noise or drift  
 
-Micro-clusters are not inherently wrong.
+Micro-clusters are not inherently wrong.  
 They become pathological when systems:
 
 - assign them narrative meaning  
 - treat them as stable types  
 - propagate attributes across members  
-- or use them in downstream decision-making  
+- use them in downstream decision-making  
 
 At that point, the cluster stops being descriptive and starts being *interpretive*.
 
 ---
 
-## How micro-clusters are created
+## 🔁 How Micro-Clusters Are Created  
 
 Micro-clusters commonly emerge when:
 
@@ -52,12 +52,12 @@ Micro-clusters commonly emerge when:
 - clustering thresholds are too aggressive  
 - rare behavioural patterns dominate embedding space  
 
-In high-dimensional systems, **rarity collapses density**.
+In high-dimensional systems, **rarity collapses density**.  
 Two points that look “close” may simply be the only points available.
 
 ---
 
-## The core failure
+## 🚨 The Core Failure  
 
 The core failure can be summarised as:
 
@@ -70,14 +70,14 @@ When only a few data points occupy a region of behavioural space, the system:
 - assumes shared intent or meaning  
 - treats coincidence as pattern  
 
-From a statistical perspective, the cluster is fragile.
+From a statistical perspective, the cluster is fragile.  
 From a system perspective, it may still be operationalised.
 
 This mismatch is where harm arises.
 
 ---
 
-## Why micro-clusters feel uncanny to humans
+## 🧠 Why Micro-Clusters Feel Uncanny to Humans  
 
 Humans interpret grouping socially.
 
@@ -90,7 +90,7 @@ When people encounter:
 
 …it feels personal, relational, or intentional.
 
-In reality, the system is not expressing meaning.
+In reality, the system is not expressing meaning.  
 It is exposing **sparsity artefacts**.
 
 The uncanniness comes from:
@@ -99,7 +99,7 @@ The uncanniness comes from:
 
 ---
 
-## Interaction with behavioural proxies
+## 🔍 Interaction with Behavioural Proxies  
 
 Micro-clusters are especially unstable when built on proxies such as:
 
@@ -117,7 +117,7 @@ Similarity becomes exaggerated by absence.
 
 ---
 
-## Interaction with “twinning” experiences
+## 🔗 Interaction with “Twinning” Experiences  
 
 Sparse clusters are a common source of perceived “twinning” or enmeshment.
 
@@ -128,7 +128,7 @@ This occurs when systems:
 - apply corrective or steering logic uniformly  
 - display correlated system behaviour to different individuals  
 
-No identity confusion is required.
+No identity confusion is required.  
 No data crossing is required.
 
 Only:
@@ -140,7 +140,7 @@ The experience of twinning is an *emergent artefact*, not a deliberate linkage.
 
 ---
 
-## Why sparse clusters persist
+## 🕳️ Why Sparse Clusters Persist  
 
 Micro-clusters often persist longer than expected because:
 
@@ -152,12 +152,12 @@ Micro-clusters often persist longer than expected because:
 
 As other users drift away or stop producing similar patterns, the cluster may shrink further — even to two.
 
-The system does not interpret this as a problem.
+The system does not interpret this as a problem.  
 It simply continues operating.
 
 ---
 
-## Why correction is difficult
+## 🧱 Why Correction Is Difficult  
 
 Correcting sparse cluster pathology is non-trivial because:
 
@@ -171,7 +171,7 @@ As a result, micro-clusters can remain active even when they no longer meet any 
 
 ---
 
-## When sparse clustering becomes harmful
+## ⚠️ When Sparse Clustering Becomes Harmful  
 
 Sparse clustering becomes harmful when it is used to:
 
@@ -187,7 +187,7 @@ This crosses from modelling into unjustified inference.
 
 ---
 
-## Key takeaway
+## 🎯 Key Takeaway  
 
 > **A cluster with too few members cannot support meaning.  
 It can only support proximity.**
@@ -197,7 +197,7 @@ When systems forget this distinction, they turn mathematical scarcity into narra
 ---
 
 ## 🌌 Constellations  
-🧮 🧩 🪞 🧿 — sparsity · false similarity · emergent coupling · modelling artefact
+🧮 🧩 🪞 🧿 ⚖️ — sparsity, false similarity, emergent coupling, modelling artefact, governance risk
 
 ---
 
@@ -208,16 +208,16 @@ micro-clusters, sparse data, behavioural clustering, proximity error, modelling 
 
 ## 🏮 Footer  
 
-*Sparse Cluster Pathology (Micro-clusters)* is a living node of the **Polaris Protocol**, documenting how behavioural systems mis-handle low-population clusters and why proximity without population support leads to misinterpretation, perceived enmeshment, and downstream harm.
+*🧮 Sparse Cluster Pathology (Micro-Clusters)* is a living node of the **Polaris Protocol**, documenting how behavioural systems mis-handle low-population clusters and why proximity without population support leads to misinterpretation, perceived enmeshment, and downstream harm.
 
 This node situates micro-clusters as a **structural modelling failure**, not evidence of connection, intent, or shared identity.
 
 > 📡 Cross-references:
 > 
-> - **🧠 Behavioural Proxy Misinterpretation** — how shallow signals create fragile similarity  
-> - **👻 Embedding Inertia and Ghost Geometry** — why these clusters persist over time  
-> - **🧪 R&D Artefact Leakage into Production** — how tiny clusters enter live systems  
+> - [🧠 Behavioural Proxy Misinterpretation](../../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_behavioural_proxy_misinterpretation.md) — *how shallow signals create fragile similarity*  
+> - [👻 Embedding Inertia and Ghost Geometry](../👾_Breakpoints_And_Glitches/👻_embedding_inertia_and_ghost_geometry.md) —* why these clusters persist over time*  
+> - [🧪 R&D Artefact Leakage into Production](./🧪_rnd_artefact_leakage_into_production.md) — *how tiny clusters enter live systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-18_
