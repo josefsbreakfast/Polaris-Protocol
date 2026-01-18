@@ -1,21 +1,21 @@
 # 🧪 R&D Artefact Leakage into Production  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-18  
 *How experimental models, datasets, and assumptions escape research contexts and shape live systems*
 
 ---
 
-## What this node is about
+## 🧭 What This Node Is About  
 
 R&D artefact leakage describes a systemic failure mode in which **experimental models, datasets, embeddings, or assumptions developed for research purposes are reused — intentionally or accidentally — in production systems** without adequate revalidation, governance, or consent review.
 
-This is not a rare oversight.
+This is not a rare oversight.  
 It is a structural outcome of how modern ML systems are built, iterated, and shipped.
 
 The result is that **exploratory artefacts gain real-world power**, often long after their original context has been forgotten.
 
 ---
 
-## What counts as an R&D artefact
+## 🧱 What Counts as an R&D Artefact  
 
 R&D artefacts include, but are not limited to:
 
@@ -29,12 +29,12 @@ R&D artefacts include, but are not limited to:
 - synthetic or semi-synthetic data  
 - early-stage safety or risk classifiers  
 
-These artefacts are legitimate *inside* R&D.
+These artefacts are legitimate *inside* R&D.  
 They become problematic when treated as production-grade.
 
 ---
 
-## How leakage happens
+## 🔁 How Leakage Happens  
 
 R&D artefact leakage usually occurs through ordinary workflows:
 
@@ -46,12 +46,12 @@ R&D artefact leakage usually occurs through ordinary workflows:
 - documentation is lost as teams change  
 - ownership of the artefact becomes unclear  
 
-No malice is required.
+No malice is required.  
 Only momentum.
 
 ---
 
-## Why R&D artefacts are especially risky
+## 🚨 Why R&D Artefacts Are Especially Risky  
 
 R&D artefacts differ from production assets in critical ways.
 
@@ -69,7 +69,7 @@ When these artefacts leak into production, their **exploratory sensitivity is mi
 
 ---
 
-## Interaction with sparse clusters and ghost geometry
+## 👻 Interaction with Sparse Clusters and Ghost Geometry  
 
 R&D artefact leakage is a primary source of:
 
@@ -89,7 +89,7 @@ When that geometry persists downstream, it creates the illusion of meaningful gr
 
 ---
 
-## Why this leakage often goes unnoticed
+## 🕳️ Why This Leakage Often Goes Unnoticed  
 
 Organisations rarely notice R&D artefact leakage because:
 
@@ -100,12 +100,12 @@ Organisations rarely notice R&D artefact leakage because:
 - responsibility is diffuse  
 - users cannot see the source of inference  
 
-From the outside, the behaviour looks intentional.
+From the outside, the behaviour looks intentional.  
 From the inside, it looks like legacy code.
 
 ---
 
-## Interaction with consent and purpose limitation
+## ⚖️ Interaction with Consent and Purpose Limitation  
 
 A critical governance failure occurs when:
 
@@ -114,14 +114,14 @@ A critical governance failure occurs when:
 - consent boundaries are exceeded silently  
 - special category inference is inherited by downstream systems  
 
-Even if the original R&D use was lawful or internal,
+Even if the original R&D use was lawful or internal,  
 **reuse without renewed legal basis is not**.
 
 R&D artefact leakage often bypasses consent review entirely because the artefact is treated as “technical,” not as data processing.
 
 ---
 
-## Why “it was just a prototype” is not a defence
+## 🚫 Why “It Was Just a Prototype” Is Not a Defence  
 
 Once an artefact influences:
 
@@ -134,14 +134,14 @@ Once an artefact influences:
 
 …it is no longer a prototype.
 
-Intent does not determine impact.
+Intent does not determine impact.  
 Deployment does.
 
-Treating research artefacts as harmless because they were never meant for production obscures the real issue: **they are now operating on people.**
+Treating research artefacts as harmless because they were never meant for production obscures the real issue: **they are now operating on people**.
 
 ---
 
-## When R&D leakage becomes harmful
+## 🧨 When R&D Leakage Becomes Harmful  
 
 R&D artefact leakage becomes harmful when it:
 
@@ -151,12 +151,12 @@ R&D artefact leakage becomes harmful when it:
 - enables proxy-based sensitive inference  
 - affects individuals without transparency or recourse  
 
-At this point, the problem is not technical debt.
+At this point, the problem is not technical debt.  
 It is **unauthorised inference at scale**.
 
 ---
 
-## What proper containment requires
+## 🛠️ What Proper Containment Requires  
 
 Preventing R&D artefact leakage requires:
 
@@ -172,7 +172,7 @@ Absent these controls, leakage is the default outcome.
 
 ---
 
-## Key takeaway
+## 🎯 Key Takeaway  
 
 > **Research artefacts are hypotheses.  
 Production systems treat them as facts.**
@@ -182,7 +182,7 @@ Without deliberate containment, exploratory tools quietly become instruments of 
 ---
 
 ## 🌌 Constellations  
-🧪 👻 🧮 🧠 — experimental artefacts · legacy geometry · sparsity amplification · inference drift
+🧪 👻 🧮 🧠 ⚖️ — experimental artefacts, ghost geometry, sparsity amplification, inference drift, governance failure
 
 ---
 
@@ -193,16 +193,16 @@ R&D leakage, prototype reuse, experimental models, embedding inheritance, techni
 
 ## 🏮 Footer  
 
-*R&D Artefact Leakage into Production* is a living node of the **Polaris Protocol**, documenting how experimental ML artefacts escape their intended context and shape real-world systems without adequate validation, consent, or governance.
+*🧪 R&D Artefact Leakage into Production* is a living node of the **Polaris Protocol**, documenting how experimental ML artefacts escape their intended context and shape real-world systems without adequate validation, consent, or governance.
 
 This node situates leakage as an **organisational failure**, not an accident — and a primary source of downstream harm in behavioural modelling.
 
 > 📡 Cross-references:
 > 
-> - **👻 Embedding Inertia and Ghost Geometry** — why leaked artefacts persist  
-> - **🧮 Sparse Cluster Pathology (Micro-clusters)** — how small R&D datasets distort grouping  
-> - **🐶 Internal Dogfooding as a Risk Vector** — a common source of R&D artefacts  
+> - [👻 Embedding Inertia and Ghost Geometry](../👾_Breakpoints_And_Glitches/👻_embedding_inertia_and_ghost_geometry.md) — *why leaked artefacts persist*  
+> - [🧮 Sparse Cluster Pathology (Micro-clusters)](./🧮_sparse_cluster_pathology_microclusters.md) — *how small R&D datasets distort grouping*  
+> - [🐶 Internal Dogfooding as a Risk Vector](./🐶_internal_dogfooding_as_risk_vector.md) — *a common source of R&D artefacts*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-18_
