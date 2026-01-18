@@ -1,10 +1,10 @@
 # ⚖️ Consent and Purpose Limitation Failure in ML R&D  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*When machine-learning research reuses personal data beyond consented scope or lawful purpose*
+**First created:** 2025-12-14 | **Last updated:** 2026-01-18  
+*When machine-learning research reuses personal data beyond consented scope or lawful purpose.*  
 
 ---
 
-## What this node is about
+## 🧭 What This Node Is About  
 
 Consent and purpose limitation failure occurs when personal data — or derived representations of it — is used in machine-learning research or development **outside the scope for which it was originally collected or consented**.
 
@@ -17,13 +17,13 @@ This node documents how ML R&D routinely exceeds lawful boundaries without recog
 
 ---
 
-## Purpose limitation: the core legal constraint
+## ⚖️ Purpose Limitation: The Core Legal Constraint  
 
 Under GDPR and aligned frameworks, personal data must be:
 
-- collected for **specified, explicit purposes**
-- processed only in ways **compatible with those purposes**
-- not repurposed without a new lawful basis
+- collected for **specified, explicit purposes**  
+- processed only in ways **compatible with those purposes**  
+- not repurposed without a new lawful basis  
 
 This principle applies equally to:
 
@@ -37,7 +37,7 @@ Reformatting data does not reset its legal status.
 
 ---
 
-## Why ML R&D routinely violates purpose limitation
+## 🧪 Why ML R&D Routinely Violates Purpose Limitation  
 
 ML R&D environments tend to:
 
@@ -65,7 +65,7 @@ This is a **purpose shift**, even when intentions are benign.
 
 ---
 
-## Consent failure in R&D contexts
+## 🪪 Consent Failure in R&D Contexts  
 
 Consent failure occurs when:
 
@@ -79,7 +79,7 @@ In many ML R&D cases, **no meaningful consent was obtained at all** — only ass
 
 ---
 
-## Why “research exemption” is often misapplied
+## 🧾 Why “Research Exemption” Is Often Misapplied  
 
 Organisations frequently invoke a vague notion of “research” to justify reuse.
 
@@ -93,13 +93,13 @@ Research exemptions typically require:
 - safeguards against re-identification  
 - non-deployment against individuals  
 
-Private, product-driven ML R&D rarely meets these criteria.
+Most private, product-led ML R&D does not meet these criteria.
 
 Calling it “research” does not make it exempt.
 
 ---
 
-## Derived data is still personal data
+## 🧬 Derived Data Is Still Personal Data  
 
 A common misconception is that:
 
@@ -118,7 +118,7 @@ Derived data inherits the consent and purpose constraints of its source.
 
 ---
 
-## Interaction with proxy-based inference
+## 🔍 Interaction with Proxy-Based Inference  
 
 Purpose limitation failures are amplified when:
 
@@ -132,14 +132,14 @@ it is **creating new regulated data** without lawful basis.
 
 ---
 
-## Why these failures persist
+## 🧱 Why These Failures Persist  
 
 Consent and purpose limitation failures persist because:
 
 - governance frameworks lag ML practice  
 - responsibility is diffused across teams  
 - legal review is siloed  
-- artefacts are framed as technical  
+- artefacts are framed as purely technical  
 - users lack visibility  
 - harms are indirect and delayed  
 
@@ -147,7 +147,7 @@ The absence of immediate failure is mistaken for compliance.
 
 ---
 
-## When this becomes a breach
+## 🚨 When This Becomes a Breach  
 
 A consent and purpose limitation failure becomes a regulatory breach when:
 
@@ -161,7 +161,7 @@ In ML R&D contexts, these conditions are frequently satisfied.
 
 ---
 
-## What lawful ML R&D requires
+## 🛠️ What Lawful ML R&D Requires  
 
 Lawful ML research and development requires:
 
@@ -177,7 +177,7 @@ Absent these measures, R&D activity is not lawful experimentation — it is unau
 
 ---
 
-## Key takeaway
+## 🎯 Key Takeaway  
 
 > **ML research does not exist outside data protection law.**
 
@@ -186,7 +186,7 @@ If a model can affect a person, the data that shaped it remains subject to conse
 ---
 
 ## 🌌 Constellations  
-⚖️ 🚨 🧪 🐶 🧠 — lawful basis · purpose creep · consent failure · research misuse
+⚖️ 🚨 🧪 🧬 🧠 — lawful basis, purpose creep, consent failure, research misuse, proxy inference
 
 ---
 
@@ -197,17 +197,17 @@ consent failure, purpose limitation, ML research governance, GDPR compliance, de
 
 ## 🏮 Footer  
 
-*Consent and Purpose Limitation Failure in ML R&D* is a living node of the **Polaris Protocol**, documenting how machine-learning research frequently exceeds the lawful scope of data use and why technical abstraction does not neutralise legal obligation.
+*⚖️ Consent and Purpose Limitation Failure in ML R&D* is a living node of the **Polaris Protocol**, documenting how machine-learning research frequently exceeds the lawful scope of data use and why technical abstraction does not neutralise legal obligation.
 
-This node situates ML R&D within **data protection law**, not outside it.
+This node situates ML R&D **within data protection law**, not outside it.
 
 > 📡 Cross-references:
 > 
-> - **🚨 Proxy-Based Special Category Inference** — where consent failure becomes a rights violation  
-> - **🧪 R&D Artefact Leakage into Production** — how research outputs gain operational power  
-> - **🐶 Internal Dogfooding as a Risk Vector** — consent complications in employee data use  
-> - **🧯 Governance Gap: Explanation vs Acceptability** — why explanation does not excuse breach  
+> - [🚨 Proxy-Based Special Category Inference](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🚨_proxy_based_special_category_inference.md) — *where consent failure becomes a direct rights violation*  
+> - [🧪 R&D Artefact Leakage into Production](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧪_rnd_artefact_leakage_into_production.md) — *how research outputs quietly gain operational power*  
+> - [🐶 Internal Dogfooding as a Risk Vector](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🐶_internal_dogfooding_as_risk_vector.md) — *consent complications in employee data use*  
+> - [🧯 Governance Gap: Explanation vs Acceptability](./🧯_governance_gap_explanation_vs_acceptability.md) — *why explanation does not excuse breach*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-18_
