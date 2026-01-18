@@ -215,7 +215,7 @@ This node frames persistence itself as a **risk factor** — especially when com
 
 > 📡 Cross-references:
 > 
-> - [🧮 Sparse Cluster Pathology (Micro-clusters)](../🧼_System_Leakage_Signatures/🧮_sparse_cluster_pathology_microclusters.md) — *how low population density distorts meaning*  
+> - [🧮 Sparse Cluster Pathology (Micro-Clusters)](../🧼_System_Leakage_Signatures/🧮_sparse_cluster_pathology_microclusters.md) — *how low population density distorts meaning*  
 > - [🧠 Behavioural Proxy Misinterpretation](../../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_behavioural_proxy_misinterpretation.md) — *how weak signals become embedded assumptions*  
 > - [🧪 R&D Artefact Leakage into Production](../🧼_System_Leakage_Signatures/🧪_rnd_artefact_leakage_into_production.md) — *how old geometry enters live systems*  
 
