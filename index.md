@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 08:16:39 UTC_
+_Generated on 2026-01-18 08:20:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1129,6 +1129,7 @@ _Generated on 2026-01-18 08:16:39 UTC_
         - [`🌏_from_escalation_to_play.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_from_escalation_to_play.md)
         - [`🍌_racism_as_epistemic_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🍌_racism_as_epistemic_collapse.md)
         - [`🍞_the_great_british_imperial_starvation_machine.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🍞_the_great_british_imperial_starvation_machine.md)
+        - [`🍸_borders_as_nightclub_entry_doors.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🍸_borders_as_nightclub_entry_doors.md)
         - [`🎩_archetype_of_the_sensible_man.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🎩_archetype_of_the_sensible_man.md)
         - [`🎭_natcon_2023_25_hinge_point.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🎭_natcon_2023_25_hinge_point.md)
         - [`🎶_state_voice_fidelity_the_choral_body_as_archive.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🎶_state_voice_fidelity_the_choral_body_as_archive.md)
