@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-16 15:18:05 UTC_
+_Generated on 2026-01-18 07:33:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1539,6 +1539,7 @@ _Generated on 2026-01-16 15:18:05 UTC_
         - [`🧭_signal_alignment.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_signal_alignment.md)
         - [`🧭_the_anti_populist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_the_anti_populist.md)
         - [`🧭_why_survivors_see_the_full_picture.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_why_survivors_see_the_full_picture.md)
+        - [`🧶_borders_as_testosterone_resistant_comfort_blankets.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧶_borders_as_testosterone_resistant_comfort_blankets.md)
         - [`🩺_when_data_harm_becomes_physical_harm_frailty_node.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🩺_when_data_harm_becomes_physical_harm_frailty_node.md)
         - [`🪖_a_teenage_girl_was_always_worth_more_than_the_reputation_of_dishonourable_men.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪖_a_teenage_girl_was_always_worth_more_than_the_reputation_of_dishonourable_men.md)
         - [`🪖_defence_is_for_all_of_us.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪖_defence_is_for_all_of_us.md)
