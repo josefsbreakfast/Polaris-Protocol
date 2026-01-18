@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 16:48:49 UTC_
+_Generated on 2026-01-18 16:55:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4154,6 +4154,7 @@ _Generated on 2026-01-18 16:48:49 UTC_
     - [**📿_Vulnerable_Data_Populations/**](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/)
       - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/README.md)
       - [`♿_disabled_people_id_exclusion.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/♿_disabled_people_id_exclusion.md)
+      - [`❤️‍🩹_gendered_data_extraction_under_crisis.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/❤️‍🩹_gendered_data_extraction_under_crisis.md)
       - [`🌍_vulnerable_data_populations_at_fcdo.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md)
       - [`🌑_why_a_child_rape_survivor_is_treated_as_a_violent_sexual_offender_by_government_systems.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌑_why_a_child_rape_survivor_is_treated_as_a_violent_sexual_offender_by_government_systems.md)
       - [`🎓_student_data_abuse.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🎓_student_data_abuse.md)
