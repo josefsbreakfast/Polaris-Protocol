@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 18:25:22 UTC_
+_Generated on 2026-01-18 18:30:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4858,6 +4858,7 @@ _Generated on 2026-01-18 18:25:22 UTC_
     - [`💔_personhood_denial_via_naming_control.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/💔_personhood_denial_via_naming_control.md)
     - [`📊_daily_watchlist.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/📊_daily_watchlist.md)
     - [`📡_language_as_attack_surface.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/📡_language_as_attack_surface.md)
+    - [`📺_moral_grammar_drift_in_media_systems.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/📺_moral_grammar_drift_in_media_systems.md)
     - [`🗣️_counterframes.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🗣️_counterframes.md)
     - [`🗣️_why_euphemisms_matter.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🗣️_why_euphemisms_matter.md)
     - [`🧭_how_we_got_here.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md)
