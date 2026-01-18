@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 16:31:14 UTC_
+_Generated on 2026-01-18 16:37:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4161,6 +4161,7 @@ _Generated on 2026-01-18 16:31:14 UTC_
       - [`💔_gender_sex_discrimination_id_cards.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/💔_gender_sex_discrimination_id_cards.md)
       - [`💔_risk_of_violent_treatment.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/💔_risk_of_violent_treatment.md)
       - [`📅_court_and_listing_metadata_identity_revelation.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/📅_court_and_listing_metadata_identity_revelation.md)
+      - [`📺_forced_visability_as_survival_labour.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/📺_forced_visability_as_survival_labour.md)
       - [`📿_cluster_specific_harms_in_probabilistic_targeting.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/📿_cluster_specific_harms_in_probabilistic_targeting.md)
       - [`📿_women_whistleblowers_prevent_drag.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/📿_women_whistleblowers_prevent_drag.md)
       - [`🕊️_refugees_asylum_id_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🕊️_refugees_asylum_id_risks.md)
