@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 15:58:29 UTC_
+_Generated on 2026-01-18 16:03:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3373,6 +3373,7 @@ _Generated on 2026-01-18 15:58:29 UTC_
       - [`🕸️_networked_morality.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_networked_morality.md)
       - [`🕸️_survivor_consent_frameworks.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_survivor_consent_frameworks.md)
       - [`🕸️_survivor_failure_uk_data.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_survivor_failure_uk_data.md)
+      - [`🗣_agency_laundering_via_passive_voice.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🗣_agency_laundering_via_passive_voice.md)
       - [`😌_the_performance_of_consensus.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/😌_the_performance_of_consensus.md)
       - [`🚀_weaponised_empathy.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚀_weaponised_empathy.md)
       - [`🚫_he_will_not_find_me.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚫_he_will_not_find_me.md)
