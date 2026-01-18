@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 14:45:11 UTC_
+_Generated on 2026-01-18 15:00:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3388,6 +3388,7 @@ _Generated on 2026-01-18 14:45:11 UTC_
       - [`🪄_performative_empathy_economies.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪄_performative_empathy_economies.md)
       - [`🪞_mirror_ethics.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪞_mirror_ethics.md)
       - [`🪞_mirror_log_template.csv`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪞_mirror_log_template.csv)
+      - [`🪦_acute_genocide_vs_genocidal_process.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪦_acute_genocide_vs_genocidal_process.md)
       - [`🪫_moral_burnout.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪫_moral_burnout.md)
       - [`🪬_ihra_vs_jda.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪬_ihra_vs_jda.md)
       - [`🪹_empty_nesting.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🪹_empty_nesting.md)
