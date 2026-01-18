@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 16:55:51 UTC_
+_Generated on 2026-01-18 17:05:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4174,6 +4174,7 @@ _Generated on 2026-01-18 16:55:51 UTC_
       - [`🧟‍♀️_zombie_data_and_population_targeting.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧟‍♀️_zombie_data_and_population_targeting.md)
       - [`🧬_metadata_exhaust_as_pre_investigative_exposure.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧬_metadata_exhaust_as_pre_investigative_exposure.md)
       - [`🧿_custodial_opacity_and_database_disappearance.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧿_custodial_opacity_and_database_disappearance.md)
+      - [`🩸_atrocity_visibility_asymmetry_index.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🩸_atrocity_visibility_asymmetry_index.md)
       - [`🩺_healthcare_access_id_risks.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🩺_healthcare_access_id_risks.md)
       - [`🪬_diaspora_communities_and_twinned_risk.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🪬_diaspora_communities_and_twinned_risk.md)
       - [`🫀_how_genocide_by_data_driven_attrition_occurs.md`](Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🫀_how_genocide_by_data_driven_attrition_occurs.md)
