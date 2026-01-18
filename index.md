@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 14:28:25 UTC_
+_Generated on 2026-01-18 14:32:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3365,6 +3365,7 @@ _Generated on 2026-01-18 14:28:25 UTC_
       - [`🐦‍🔥_held_by_other_peoples_alliances.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🐦‍🔥_held_by_other_peoples_alliances.md)
       - [`🐦‍🔥_survivors_of_the_files_deserve_better.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🐦‍🔥_survivors_of_the_files_deserve_better.md)
       - [`💌_letters_of_refusal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/💌_letters_of_refusal.md)
+      - [`🔥_the_state_violence_of_grammatical_drift.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🔥_the_state_violence_of_grammatical_drift.md)
       - [`🕸️_networked_morality.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_networked_morality.md)
       - [`🕸️_survivor_consent_frameworks.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_survivor_consent_frameworks.md)
       - [`🕸️_survivor_failure_uk_data.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_survivor_failure_uk_data.md)
