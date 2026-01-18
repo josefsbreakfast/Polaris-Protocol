@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 17:56:56 UTC_
+_Generated on 2026-01-18 18:18:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4853,6 +4853,7 @@ _Generated on 2026-01-18 17:56:56 UTC_
     - [`⚖️_linguistic_integrity_as_security_risk.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚖️_linguistic_integrity_as_security_risk.md)
     - [`🌌_language_as_infrastructure.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🌌_language_as_infrastructure.md)
     - [`🎭_poets_as_primary_targets.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🎭_poets_as_primary_targets.md)
+    - [`🎶_language_as_democratic_infrastructure.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🎶_language_as_democratic_infrastructure.md)
     - [`🏛️_archive_capture_template.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🏛️_archive_capture_template.md)
     - [`📊_daily_watchlist.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/📊_daily_watchlist.md)
     - [`📡_language_as_attack_surface.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/📡_language_as_attack_surface.md)
