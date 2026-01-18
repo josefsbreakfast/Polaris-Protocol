@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 11:01:48 UTC_
+_Generated on 2026-01-18 14:09:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4648,6 +4648,8 @@ _Generated on 2026-01-18 11:01:48 UTC_
     - [`✂️_red_tape_removal.md`](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/✂️_red_tape_removal.md)
     - [`📲_algorithmic_decisions.md`](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/📲_algorithmic_decisions.md)
     - [`🥡_bring_food.md`](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/🥡_bring_food.md)
+  - [**🖍️_Art_As_Attack/**](🦆_Digital_Disruption/🖍️_Art_As_Attack/)
+    - [`README.md`](🦆_Digital_Disruption/🖍️_Art_As_Attack/README.md)
   - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
     - [**🍉_Academic_Liberty/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/README.md)
