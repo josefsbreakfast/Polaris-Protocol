@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 15:12:24 UTC_
+_Generated on 2026-01-18 15:52:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1165,6 +1165,7 @@ _Generated on 2026-01-18 15:12:24 UTC_
         - [`🛰️_ally_productivity_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🛰️_ally_productivity_paradox.md)
         - [`🥸_oss_117_and_the_operational_cost_of_cultural_ignorance.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🥸_oss_117_and_the_operational_cost_of_cultural_ignorance.md)
         - [`🥺_we_are_just_a_little_island_honest.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🥺_we_are_just_a_little_island_honest.md)
+        - [`🦁_iran_as_geostrategic_chokepoint.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🦁_iran_as_geostrategic_chokepoint.md)
         - [`🧃_cogat_is_a_containment_op.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
         - [`🧊_the_bunker_has_no_vibes.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧊_the_bunker_has_no_vibes.md)
         - [`🧠_cognitive_immunology.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧠_cognitive_immunology.md)
