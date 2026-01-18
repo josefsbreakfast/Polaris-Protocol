@@ -1,10 +1,10 @@
 # 👻 Embedding Inertia and Ghost Geometry  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-18  
 *How outdated embeddings and legacy geometry persist, distort interpretation, and resist correction*
 
 ---
 
-## What this node is about
+## 🧭 What This Node Is About  
 
 Embedding inertia describes the tendency of machine-learning systems to **retain and reuse outdated behavioural representations**, even after the conditions that produced them have changed.
 
@@ -15,12 +15,12 @@ Together, these phenomena explain why systems can appear to:
 - treat past misclassifications as ongoing facts  
 - behave as if errors have not been corrected  
 
-This is not intentional memory.
+This is not intentional memory.  
 It is architectural persistence.
 
 ---
 
-## What embeddings actually are (and are not)
+## 🧮 What Embeddings Actually Are (and Are Not)  
 
 An embedding is a mathematical compression of behaviour.
 
@@ -34,14 +34,14 @@ It is **not**:
 - an identity  
 - a ground truth representation  
 
-Embeddings trade accuracy for tractability.
+Embeddings trade accuracy for tractability.  
 Once created, they are reused because recalculating them constantly is expensive.
 
 This reuse is where inertia enters.
 
 ---
 
-## How embedding inertia forms
+## 🔁 How Embedding Inertia Forms  
 
 Embedding inertia typically arises when:
 
@@ -61,7 +61,7 @@ The system continues to act on a **fossilised abstraction**.
 
 ---
 
-## Ghost geometry: when the map outlives the territory
+## 👻 Ghost Geometry: When the Map Outlives the Territory  
 
 Ghost geometry emerges when:
 
@@ -81,7 +81,7 @@ The geometry becomes haunted — not by people, but by history.
 
 ---
 
-## Interaction with sparse clusters
+## 🧮 Interaction with Sparse Clusters  
 
 Embedding inertia amplifies sparse cluster pathology.
 
@@ -98,12 +98,12 @@ This produces situations where:
 - similarity appears exaggerated  
 - proximity is misread as significance  
 
-The system does not “notice” the sparsity.
+The system does not “notice” the sparsity.  
 It only sees geometry.
 
 ---
 
-## Why embedding inertia feels personal
+## 🧠 Why Embedding Inertia Feels Personal  
 
 From a human perspective, embedding inertia can feel like:
 
@@ -121,7 +121,7 @@ The mismatch creates a sense of being stuck inside an old version of oneself.
 
 ---
 
-## Why correction does not propagate cleanly
+## 🪞 Why Correction Does Not Propagate Cleanly  
 
 Even when an error is recognised upstream:
 
@@ -137,7 +137,7 @@ This is how “ghosts” survive remediation.
 
 ---
 
-## Interaction with behavioural proxies
+## 🔍 Interaction with Behavioural Proxies  
 
 Embedding inertia is especially dangerous when combined with proxy misinterpretation.
 
@@ -153,7 +153,7 @@ This turns a weak guess into a durable structural feature.
 
 ---
 
-## Why this is not a bug (but still a problem)
+## 🧱 Why This Is Not a Bug (But Still a Problem)  
 
 From an engineering perspective, embedding inertia is often treated as acceptable because:
 
@@ -162,7 +162,7 @@ From an engineering perspective, embedding inertia is often treated as acceptabl
 - legacy compatibility matters  
 - performance metrics may not show obvious degradation  
 
-But from a governance and harm perspective, this means:
+From a governance and harm perspective, this means:
 
 - outdated interpretations persist  
 - people are assessed against past abstractions  
@@ -173,7 +173,7 @@ The system behaves “as designed” — and still causes harm.
 
 ---
 
-## When embedding inertia becomes harmful
+## ⚠️ When Embedding Inertia Becomes Harmful  
 
 Embedding inertia becomes harmful when it is allowed to:
 
@@ -183,12 +183,12 @@ Embedding inertia becomes harmful when it is allowed to:
 - support behavioural steering or risk classification  
 - resist contestation or explanation  
 
-At this point, the system is no longer merely slow to update.
+At this point, the system is no longer merely slow to update.  
 It is **actively misrepresenting the present**.
 
 ---
 
-## Key takeaway
+## 🎯 Key Takeaway  
 
 > **An embedding that does not decay  
 becomes a story the system refuses to forget.**
@@ -198,7 +198,7 @@ When geometry outlives context, yesterday’s guess becomes today’s truth — 
 ---
 
 ## 🌌 Constellations  
-👻 🧠 🧮 🪞 — temporal persistence · fossilised geometry · misclassification memory · structural lag
+👻 🧠 🧮 🪞 ⚖️ — temporal persistence, fossilised geometry, misclassification memory, structural lag, governance risk
 
 ---
 
@@ -209,16 +209,16 @@ embedding inertia, model drift, ghost clusters, legacy geometry, temporal miscla
 
 ## 🏮 Footer  
 
-*Embedding Inertia and Ghost Geometry* is a living node of the **Polaris Protocol**, documenting how outdated embeddings and legacy modelling spaces persist inside active systems, shaping interpretation long after their assumptions have expired.
+*👻 Embedding Inertia and Ghost Geometry* is a living node of the **Polaris Protocol**, documenting how outdated embeddings and legacy modelling spaces persist inside active systems, shaping interpretation long after their assumptions have expired.
 
-This node frames persistence itself as a risk factor — especially when combined with sparse clustering and proxy-based inference.
+This node frames persistence itself as a **risk factor** — especially when combined with sparse clustering and proxy-based inference.
 
 > 📡 Cross-references:
 > 
-> - **🧮 Sparse Cluster Pathology (Micro-clusters)** — how low population density distorts meaning  
-> - **🧠 Behavioural Proxy Misinterpretation** — how weak signals become embedded assumptions  
-> - **🧪 R&D Artefact Leakage into Production** — how old geometry enters live systems  
+> - [🧮 Sparse Cluster Pathology (Micro-clusters)](../🧼_System_Leakage_Signatures/🧮_sparse_cluster_pathology_microclusters.md) — *how low population density distorts meaning*  
+> - [🧠 Behavioural Proxy Misinterpretation](../../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_behavioural_proxy_misinterpretation.md) — *how weak signals become embedded assumptions*  
+> - [🧪 R&D Artefact Leakage into Production](../🧼_System_Leakage_Signatures/🧪_rnd_artefact_leakage_into_production.md) — *how old geometry enters live systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-18_
