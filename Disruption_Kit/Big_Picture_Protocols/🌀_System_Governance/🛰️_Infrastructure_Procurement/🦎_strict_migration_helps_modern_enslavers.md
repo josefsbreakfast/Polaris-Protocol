@@ -265,9 +265,9 @@ It documents how border policy functions as labour-market architecture — shapi
 
 > 📡 Cross-references:
 > 
-> - 🛂 Papers Please Problems — documentation as control  
-> - 📿 Vulnerable Data Populations — risk concentration  
-> - 🧠 Big Picture Protocols — structural analysis  
+> - [💳 Biometric Residence Permits (BRPs) Risks](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/💳_biometric_residence_permits_risks.md) — *documentation as control*  
+> - [📿 Cluster-Specific Harms in Probabilistic Targeting](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/📿_cluster_specific_harms_in_probabilistic_targeting.md)  
+> - [🦎 Snow Leopard Geckos Against Modern Slavery](../🧪_Development_Experimentation/🦎_snow_leopard_geckos_against_modern_slavery.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
