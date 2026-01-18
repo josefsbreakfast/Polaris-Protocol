@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 17:33:31 UTC_
+_Generated on 2026-01-18 17:41:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4040,6 +4040,7 @@ _Generated on 2026-01-18 17:33:31 UTC_
       - [`📉_why_metrics_feel_like_surveillance.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_why_metrics_feel_like_surveillance.md)
       - [`📊_who_is_actually_reading_this.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📊_who_is_actually_reading_this.md)
       - [`🔌_comment_loop_interference.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🔌_comment_loop_interference.md)
+      - [`🔥_platform_moderation_as_narrative_risk_management.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🔥_platform_moderation_as_narrative_risk_management.md)
       - [`🕳️_the_archive_is_shaped_by_witheld_data.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🕳️_the_archive_is_shaped_by_witheld_data.md)
       - [`🕹️_handler_override_incidents.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🕹️_handler_override_incidents.md)
       - [`🛑_alligator_alcatraz_traceability_breakdown.md`](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🛑_alligator_alcatraz_traceability_breakdown.md)
