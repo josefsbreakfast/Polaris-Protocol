@@ -1,4 +1,4 @@
-# 🧣 Women’s Rights as Wedge Narrative  
+# 🧣 Women & Their Rights Are Not Your Pawns  
 **First created:** 2026-01-18 | **Last updated:** 2026-01-18  
 *How appeals to women’s rights are weaponised to fracture solidarity, launder violence, and justify control — without improving women’s lives.*  
 
