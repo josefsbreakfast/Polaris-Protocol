@@ -215,7 +215,7 @@ This node situates micro-clusters as a **structural modelling failure**, not evi
 > 📡 Cross-references:
 > 
 > - [🧠 Behavioural Proxy Misinterpretation](../../Narrative_And_Psych_Ops/🧠_Psychological_Containment/🧠_behavioural_proxy_misinterpretation.md) — *how shallow signals create fragile similarity*  
-> - [👻 Embedding Inertia and Ghost Geometry](../👾_Breakpoints_And_Glitches/👻_embedding_inertia_and_ghost_geometry.md) —* why these clusters persist over time*  
+> - [👻 Embedding Inertia and Ghost Geometry](../👾_Breakpoints_And_Glitches/👻_embedding_inertia_and_ghost_geometry.md) — *why these clusters persist over time*  
 > - [🧪 R&D Artefact Leakage into Production](./🧪_rnd_artefact_leakage_into_production.md) — *how tiny clusters enter live systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
