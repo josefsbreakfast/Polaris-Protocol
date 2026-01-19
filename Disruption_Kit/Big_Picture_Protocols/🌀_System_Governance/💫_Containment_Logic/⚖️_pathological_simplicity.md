@@ -1,6 +1,6 @@
 # ⚖️ Pathological Simplicity — When Algorithms Misread Human Chaos  
-**First created:** 2025-10-16 | **Last updated:** 2025-10-20  
-*Why systems built for calculation falter in societies built for interpretation.*
+**First created:** 2025-10-16 | **Last updated:** 2026-01-19  
+*Why systems built for calculation falter in societies built for interpretation.*  
 
 ---
 
@@ -77,4 +77,4 @@ It documents how computational literalism displaces interpretive governance, rem
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2026-01-19_
