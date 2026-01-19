@@ -1,5 +1,5 @@
 # ⚖️ Legal Disentanglement & Risk Perception  
-**First created:** 2025-11-12 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-12 | **Last updated:** 2026-01-19  
 *How legal ambiguity around data linkage and ownership reshapes institutional risk perception, producing silence, delay, and non-action as default governance responses.*  
 
 ---
@@ -154,4 +154,4 @@ It documents how legal ambiguity around data linkage and ownership reshapes inst
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-19_
