@@ -1,6 +1,6 @@
 # ⚖️ Power, Play, and Containment — The Economics of Structured Desire  
-**First created:** 2025-10-18  |  **Last updated:** 2025-10-20  
-*How contractual life turns control into currency.*
+**First created:** 2025-10-18  |  **Last updated:** 2026-01-19  
+*How contractual life turns control into currency.*  
 
 ---
 
@@ -138,4 +138,14 @@ power exchange, capitalism, containment, contract society, delayed gratification
 
 ## 🏮 Footer  
 *⚖️ Power, Play, and Containment — The Economics of Structured Desire* is a living node of the **Polaris Protocol**.  
-It reads capitalist control structures as the hidden choreography of pleasure, stress, and performance.
+It reads capitalist control structures as the hidden choreography of pleasure, stress, and performance.  
+
+> 📡 Cross-references:
+> 
+> - [🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash](../🛰️_Infrastructure_Procurement/🧨_overclocked_capitalism_2020_cognitive_crash.md)  
+> - [*Pending:* 💰 Problem Manufacture — Capitalism as Perpetual Malfunction]  
+> - [⚙️ Overclocked Capitalism — When Systems Outrun the Body](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/⚙️_overclocked_capitalism.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-19_
