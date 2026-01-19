@@ -1,5 +1,5 @@
 # ☔️ Digital Quicksand 101  
-**First created:** 2025-12-27 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-27 | **Last updated:** 2026-01-19  
 *Why instability now feels permanent — and why struggling harder makes it worse.*  
 
 ---
@@ -303,10 +303,11 @@ It provides a shared language for recognising emergent instability produced by i
 
 > 📡 Cross-references:
 > 
-> - **💫 Containment Logic** — systemic drift and defensive feedback loops  
-> - **🌀 System Governance** — institutional behaviour under stress  
-> - **🌪️ Stuck in Digital Quicksand** — lived experience inside the condition  
+> - [👑 Recolonisation by Frankenstack Federation](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👑_recolonisation_by_frankenstack_federation.md)  
+> - [🧨 Dual-Use Frankenstack](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🧨_dual_use_frankenstack.md)  
+> - [🪬 Gossip Engines](../../../🏮_AntiContainment_Clauses/🪬_gossip_engines.md)  
+> - [🧟‍♀️ The Frankenstack Problem](../🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-01-19_
