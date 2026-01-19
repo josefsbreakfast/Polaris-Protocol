@@ -1,6 +1,6 @@
-# ⚖️ Respectability Containment in Professional Ethics
-**First created:** 2025-11-07 | **Last updated:** 2025-11-12  
-*How professional codes of “ethics” and “civility” are deployed to neutralise dissent and maintain ideological order.*
+# ⚖️ Respectability Containment in Professional Ethics  
+**First created:** 2025-11-07 | **Last updated:** 2026-01-19  
+*How professional codes of “ethics” and “civility” are deployed to neutralise dissent and maintain ideological order.*  
 
 ---
 
@@ -36,9 +36,9 @@ It maps how professional decorum suppresses truth-tellers and maintains institut
 
 > 📡 Cross-references:
 > 
-> - 🧱 Ideological Loyalty as Pyramid Scheme  
-> - 🪞 Conditional Whiteness and Twinning as Containment  
+> - [*Pending:* 🧱 Ideological Loyalty as Pyramid Scheme]  
+> - [🪞 Conditional Whiteness and Twinning as Containment](./🪞_conditional_whiteness_and_twinning_as_containment.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-01-19_
