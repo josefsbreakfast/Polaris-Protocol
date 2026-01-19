@@ -1,6 +1,6 @@
 # ⚖️ Operational Dilemma: Fix It vs Chain of Command  
-**First created:** 2025-09-05 | **Last updated:** 2025-10-18    
-*Weighing the risks of direct internal fixes against using formal oversight pathways.*
+**First created:** 2025-09-05 | **Last updated:** 2026-01-19  
+*Weighing the risks of direct internal fixes against using formal oversight pathways.*  
 
 ---
 
@@ -43,7 +43,7 @@ oversight, internal fixes, chain of command, whistleblower protection, remediati
 
 ## 🏮 Footer  
 
-*Operational Dilemma: Fix It vs Chain of Command* is a living node of the Polaris Protocol.  
+*⚖️ Operational Dilemma: Fix It vs Chain of Command* is a living node of the Polaris Protocol.  
 It records the trade-offs between direct internal fixes, chain-of-command processes, and hybrid approaches that aim to balance speed, accountability, and survivor protection.
 
 > 📡 Cross-references:
@@ -54,4 +54,4 @@ It records the trade-offs between direct internal fixes, chain-of-command proces
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-01-19_
