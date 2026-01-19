@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-18 19:00:12 UTC_
+_Generated on 2026-01-19 13:04:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4850,6 +4850,7 @@ _Generated on 2026-01-18 19:00:12 UTC_
     - [`README.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/README.md)
     - [`frame_drift_watchlist.yaml`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/frame_drift_watchlist.yaml)
     - [`what_they_now_call_X.csv`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/what_they_now_call_X.csv)
+    - [`⚖_professionalism_as_linguistic_exclusion.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚖_professionalism_as_linguistic_exclusion.md)
     - [`⚖️_legal_flagging_incident_report.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚖️_legal_flagging_incident_report.md)
     - [`⚖️_linguistic_integrity_as_security_risk.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚖️_linguistic_integrity_as_security_risk.md)
     - [`🌌_language_as_infrastructure.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🌌_language_as_infrastructure.md)
