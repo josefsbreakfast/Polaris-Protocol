@@ -1,16 +1,16 @@
 # ⚓ Sea Org as Containment Prototype  
-**First created:** 2025-11-07 | **Last updated:** 2025-12-27  
-*L. Ron Hubbard’s maritime escape as early containment architecture.*
+**First created:** 2025-11-07 | **Last updated:** 2026-01-19  
+*L. Ron Hubbard’s maritime escape as early containment architecture.*  
 
 ---
 
 ## 🛰️ Orientation  
 
-This node examines the Sea Organization (“Sea Org”) as an early, real-world **containment laboratory**.
+This node examines the Sea Organization (“Sea Org”) as an early, real-world **containment laboratory**.  
 
-Founded by **[L. Ron Hubbard](chatgpt://generic-entity?number=0)**, the Sea Org transformed maritime mobility into a tool of authoritarian control: jurisdictional evasion reframed as liberation; isolation reframed as purpose.
+Founded by **L. Ron Hubbard**, the Sea Org transformed maritime mobility into a tool of authoritarian control: jurisdictional evasion reframed as liberation; isolation reframed as purpose.  
 
-What appears outwardly as freedom — ships, oceans, movement — functioned inwardly as **total capture**.
+What appears outwardly as freedom — ships, oceans, movement — functioned inwardly as **total capture**.  
 
 ---
 
@@ -117,9 +117,9 @@ It traces maritime sovereignty as an early rehearsal of digital off-shoring and 
 
 > 📡 Cross-references:
 > 
-> - [🪸 Floating Commons — Humane Sovereignty at Sea](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪸_floating_commons_humane_sovereignty_at_sea.md)
+> - [🪸 Floating Commons — Humane Sovereignty at Sea](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪸_floating_commons_humane_sovereignty_at_sea.md)  
 > - [🧬 Exit, Exploitation, and Immortality — The Thiel Paradox](../../🦕_Elder_Influencers/🕸️_World_Webs/🧬_exit_exploitation_and_immortality_the_thiel_paradox.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-27_
+_Last updated: 2026-01-19_
