@@ -1,5 +1,5 @@
 # ⚖️ The Trial as Civic Rite — When Justice Becomes a Personal Chore  
-**First created:** 2025-11-07 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-07 | **Last updated:** 2026-01-19  
 *How institutional failure converts ordinary people into permanent witnesses, prosecutors, and archivists of their own harm.*  
 
 ---
@@ -174,11 +174,11 @@ It documents how the refusal of institutional repair conscripts harmed individua
 
 > 📡 Cross-references:
 > 
-> - [⚖️ The History of Justice as Spectacle] — *when visibility substitutes for repair*  
-> - [⚖️ Legal Disentanglement & Risk Perception] — *how ambiguity produces delay*  
-> - [💣 Austerity as Time Collapse] — *capacity erosion and endless waiting*  
-> - [📚 The Streisand Effect of Justice — Irving v Lipstadt] — *when process amplifies harm*  
+> - [⚖️ The History of Justice as Spectacle](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_the_history_of_justice_as_spectacle.md) — *when visibility substitutes for repair*  
+> - [⚖️ Legal Disentanglement & Risk Perception](../../🌀_System_Governance/💫_Containment_Logic/⚖️_legal_disentanglement_and_risk_perception.md) — *how ambiguity produces delay*  
+> - [💣 Austerity as Time Collapse](../../🌀_System_Governance/💫_Containment_Logic/💣_austerity_as_time_collapse.md) — *capacity erosion and endless waiting*  
+> - [📚 The Streisand Effect of Justice — Irving v Lipstadt](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_the_streisand_effect_of_justice_irving_v_lipstadt.md) — *when process amplifies harm*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-19_
