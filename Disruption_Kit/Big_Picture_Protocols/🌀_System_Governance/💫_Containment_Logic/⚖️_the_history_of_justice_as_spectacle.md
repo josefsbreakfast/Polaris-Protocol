@@ -1,5 +1,5 @@
 # ⚖️ The History of Justice as Spectacle  
-**First created:** 2025-10-14 | **Last updated:** 2026-01-09  
+**First created:** 2025-10-14 | **Last updated:** 2026-01-19  
 *How punishment became performance, visibility became governance, and justice learned to speak in images.*  
 
 ---
@@ -182,11 +182,11 @@ It traces how the performance of justice sustains authority across eras, and how
 
 > 📡 Cross-references:
 > 
-> - [💣 Austerity as Time Collapse] — *when delay replaces justice*  
-> - [🐪 Trojan Horse — Benign Masks for Malignancies] — *respectability as cover*  
-> - [🔄 Reputation Arms-Race Loop] — *visibility, erasure, and panic markets*  
-> - [🕸️ The Capacity of Cross-Linking] — *non-spectacular forms of accountability*  
+> - [💣 Austerity as Time Collapse](./💣_austerity_as_time_collapse.md) — *when delay replaces justice*  
+> - [🐪 Trojan Horse — Benign Masks for Malignancies](../../../Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/🐪_trojan_horse.md) — *respectability as cover*  
+> - [🔄 Reputation Arms-Race Loop](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🔄_reputation_arms_race_loop.md) — *visibility, erasure, and panic markets*  
+> - [🕸️ The Capacity of Cross-Linking](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕸️_networking_as_a_tool_of_novelty.md) — *non-spectacular forms of accountability*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-19_
