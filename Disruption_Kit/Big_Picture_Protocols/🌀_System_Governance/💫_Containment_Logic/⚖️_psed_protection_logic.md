@@ -1,5 +1,5 @@
 # ⚖️ PSED Protection Logic — Divestment as Group-Safety Compliance  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-18 | **Last updated:** 2026-01-19  
 *How divestment motions operationalise Equality Act duties for Jewish, Muslim, and racialised residents.*  
 
 ---
@@ -36,4 +36,4 @@ psed, equality act, divestment, group safety
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-01-19_
