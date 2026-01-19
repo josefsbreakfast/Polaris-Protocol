@@ -1,5 +1,5 @@
 # 🎊 Multi-Party Data Twinning  
-**First created:** 2025-09-17 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-17 | **Last updated:** 2026-01-19  
 *How overlapping state and corporate interests fuse datasets through intermediaries.*  
 
 ---
@@ -113,8 +113,8 @@ It documents how overlapping interests in surveillance and governance exploit in
 > 
 > - [⚖️ Containment Contract Trace](../../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md)  
 > - [🏛️ OSA Misclassification UK–Israel Survivor Records](../../🕸️_World_Webs/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)  
-> - [Survivor Tools](../../../../Survivor_Tools/README.md)
+> - [Survivor Tools](../../../../Survivor_Tools/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-01-19_
