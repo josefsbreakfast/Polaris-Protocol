@@ -1,6 +1,6 @@
 # ☕️ Tea, Toast, and Transparency  
-**First created:** 2025-11-02 | **Last updated:** 2026-01-02  
-*How tea functions simultaneously as civic resilience and institutional solvent — humour as maintenance, inquiry as theatre.*
+**First created:** 2025-11-02 | **Last updated:** 2026-01-19  
+*How tea functions simultaneously as civic resilience and institutional solvent — humour as maintenance, inquiry as theatre.*  
 
 ---
 
@@ -177,4 +177,4 @@ It documents how humour operates as both a **containment tool** when monopolised
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-02_
+_Last updated: 2026-01-19_
