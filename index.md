@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-19 19:13:46 UTC_
+_Generated on 2026-01-19 19:19:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3755,6 +3755,7 @@ _Generated on 2026-01-19 19:13:46 UTC_
       - [`🚨_fragility_as_performance.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🚨_fragility_as_performance.md)
       - [`🤭_approval_then_forkstorm.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🤭_approval_then_forkstorm.md)
       - [`🦂_racialised_entitlement_violation.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🦂_racialised_entitlement_violation.md)
+      - [`🦎_on_the_use_of_feminine_surveillence_extraction_and_the_male_lonliness_charade.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🦎_on_the_use_of_feminine_surveillence_extraction_and_the_male_lonliness_charade.md)
       - [`🦠_plague_scapegoat_scripts_reused_across_targets.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🦠_plague_scapegoat_scripts_reused_across_targets.md)
       - [`🧙‍♀️_witch_logic_diagnostic.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md)
       - [`🧠_extraction_loop_data_vs_story.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧠_extraction_loop_data_vs_story.md)
