@@ -1,5 +1,5 @@
 # ⚖️ Administrative Delay as Structural Harm for Disabled Survivors  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-27  
+**First created:** 2025-11-22 | **Last updated:** 2026-01-19  
 *Why “wait several months” functions as violence when a survivor is misclassified, disabled, and denied lawful care.*  
 
 ---
@@ -123,4 +123,4 @@ It documents how bureaucratic time-lag becomes a vector of harm when survivors a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-27_
+_Last updated: 2026-01-19_
