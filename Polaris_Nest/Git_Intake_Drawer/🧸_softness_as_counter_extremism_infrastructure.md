@@ -1,7 +1,6 @@
 # 🧸 Softness as Counter-Extremism Infrastructure  
-**First created:** 2025-11-19  
-**Last updated:** 2025-11-19  
-*How gentleness, care-work, queer friendship networks, and emotionally literate community spaces function as structural antifascist technologies.*
+**First created:** 2025-11-19 | **Last updated:** 2026-01-19  
+*How gentleness, care-work, queer friendship networks, and emotionally literate community spaces function as structural antifascist technologies.*  
 
 ---
 
@@ -195,14 +194,15 @@ Softness is a renewable antifascist resource.
 ---
 
 ## 🏮 Footer  
-**Softness as Counter-Extremism Infrastructure** is a living node of the Polaris Protocol.  
+*🧸 Softness as Counter-Extremism Infrastructure* is a living node of the Polaris Protocol.  
 It articulates softness not as a personality quirk but as a systematic, repeatable, community-level technology for preventing and reversing extremist influence.
 
-> 📡 Cross-references:  
-> - [🛡️ Why Fascism Fears Softness](./why_fascism_fears_softness.md)  
-> - [💗 The Soft Boy Restoration Protocol](./the_soft_boy_restoration_protocol.md)  
-> - [🔥 Shame as the Master Key of Fascist Manipulation](./shame_as_the_master_key_of_fascist_manipulation.md)
+> 📡 Cross-references:
+> 
+> - [🛡️ Why Fascism Fears Softness]  
+> - [💗 The Soft Boy Restoration Protocol]  
+> - [🔥 Shame as the Master Key of Fascist Manipulation]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-19_
+_Last updated: 2026-01-19_
