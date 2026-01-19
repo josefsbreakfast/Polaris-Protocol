@@ -1,5 +1,5 @@
 # ⚖️ Health vs Justice Reflex Split  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-27  
+**First created:** 2025-11-22 | **Last updated:** 2026-01-19  
 *A comparative governance node explaining why healthcare escalates instantly while justice stalls — and how this reflex split produces cross-domain harm.*  
 
 ---
@@ -186,11 +186,11 @@ Understanding the split is key for stabilising multi-agency failures and reducin
 
 > 📡 Cross-references:
 > 
-> - [🧭 Justice Data Ecosystem Map (2020–2025)](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧭_justice_data_ecosystem_map_2020_2025.md)
+> - [🧭 Justice Data Ecosystem Map (2020–2025)](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧭_justice_data_ecosystem_map_2020_2025.md)  
 > - [⚖️ The Teaching Hospital Loophole](../🧪_Development_Experimentation/⚖️_the_teaching_hospital_loophole.md)  
 > - [⚖️ Courts as Sites of Harm](../⚖️_Legal_State_Governance/⚖️_courts_as_sites_of_harm.md)  
-> - [🏛 R.A.A.C. — Ruins and Architectural Committee](../👑_Ownership_Control/🏛️_raac_ruins_squad.md)
-> - [🩺 Governing Doctors in the UK](../💫_Containment_Logic/🩺_governing_doctors_in_uk.md)  
+> - [🏛 R.A.A.C. — Ruins and Architectural Committee](../👑_Ownership_Control/🏛️_raac_ruins_squad.md)  
+> - [🩺 Governing Doctors in the UK](../💫_Containment_Logic/🩺_governing_doctors_in_uk.md)   
 > - [🧠 Good Doctors Are Not Nazis](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_good_doctors_are_not_nazis.md)  
 
-_Last updated: 2025-12-27_
+_Last updated: 2026-01-19_
