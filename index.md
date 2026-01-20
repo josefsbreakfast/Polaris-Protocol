@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-20 20:50:00 UTC_
+_Generated on 2026-01-20 21:11:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -579,6 +579,7 @@ _Generated on 2026-01-20 20:50:00 UTC_
         - [`🛰️_surveillance_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_surveillance_infrastructure.md)
         - [`🛰️_vendor_lock_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_vendor_lock_in.md)
         - [`🦋_butterfly_effect_in_small_states.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🦋_butterfly_effect_in_small_states.md)
+        - [`🦎_how_to_not_enslave_digitally.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🦎_how_to_not_enslave_digitally.md)
         - [`🦎_strict_migration_helps_modern_enslavers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🦎_strict_migration_helps_modern_enslavers.md)
         - [`🦤_contractor_chain_leakage.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🦤_contractor_chain_leakage.md)
         - [`🧠_austerity_as_security_doctrine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧠_austerity_as_security_doctrine.md)
