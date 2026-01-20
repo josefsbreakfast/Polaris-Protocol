@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-20 18:23:28 UTC_
+_Generated on 2026-01-20 18:44:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2616,6 +2616,14 @@ _Generated on 2026-01-20 18:23:28 UTC_
       - [`IMG_8528.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_8528.png)
       - [`IMG_8529.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_8529.png)
       - [`IMG_8530.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_8530.png)
+      - [`IMG_8557.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_8557.png)
+      - [`IMG_8558.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_8558.png)
+      - [`IMG_8559.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_8559.png)
+      - [`IMG_8560.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_8560.png)
+      - [`IMG_8561.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_8561.png)
+      - [`IMG_8562.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_8562.png)
+      - [`IMG_8563.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_8563.png)
+      - [`IMG_8564.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_8564.png)
       - [`Screenshot 2026-01-02 102328.png`](Disruption_Kit/Field_Logs/20260101_January_2026/Screenshot 2026-01-02 102328.png)
     - [`20250828_racialisation_hijack.PNG`](Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
     - [`20251028_forcible_conversion_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
