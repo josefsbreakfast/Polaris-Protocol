@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-20 04:08:14 UTC_
+_Generated on 2026-01-20 13:30:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4914,6 +4914,7 @@ _Generated on 2026-01-20 04:08:14 UTC_
     - [`🧠_context_deprivation_effect.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_context_deprivation_effect.md)
     - [`🧠_cumulative_surveillance_burden.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_cumulative_surveillance_burden.md)
     - [`🧠_residual_attentional_conditioning_injury.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_residual_attentional_conditioning_injury.md)
+    - [`🧠_the_background_terror.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_the_background_terror.md)
   - [`README.md`](🦆_Digital_Disruption/README.md)
 - [**🩻_Weirdness_Screening/**](🩻_Weirdness_Screening/)
   - [**🌐_Connection_Hiccups/**](🩻_Weirdness_Screening/🌐_Connection_Hiccups/)
