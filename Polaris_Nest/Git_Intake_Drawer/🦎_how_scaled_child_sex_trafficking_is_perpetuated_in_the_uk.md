@@ -1,3 +1,21 @@
+2026-1-21  
+
+This is really hard technically to get the LLM to connect;  
+
+I keep getting forked away from the very obvious systems failure.  
+
+This is who got control of the place my case most likely leaked, after I wrote to the relevant offices to try to end the harrassment; all I got was an improvement in covert practice. They very obviously drilled in my front path to install new wiring, and the internet is a torture box.  
+
+I hate this, and it's not legal, and I'm finding the degree of failure since I applied for a government boarding school I didn't even go to, to be pretty horrific.  
+
+I can't use services here because nothing can be secured.  
+
+Every individual institution appears to be seeing only their own risk, and ignoring the wider picture (where they would be at lower risk to be frank and look into this properly).  
+
+---
+
+
+
 🧱 How sex trafficking is facilitated and networked in the UK (structural analysis)
 
 First created: YYYY-MM-DD | Last updated: YYYY-MM-DD
