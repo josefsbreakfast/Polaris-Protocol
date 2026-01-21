@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-21 09:06:50 UTC_
+_Generated on 2026-01-21 09:14:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4305,6 +4305,7 @@ _Generated on 2026-01-21 09:06:50 UTC_
     - [`🥀_oct_07_and_illegality_of_grief.md`](Polaris_Nest/Git_Intake_Drawer/🥀_oct_07_and_illegality_of_grief.md)
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
+    - [`🦎_how_scaled_child_sex_trafficking_is_perpetuated_in_the_uk.md`](Polaris_Nest/Git_Intake_Drawer/🦎_how_scaled_child_sex_trafficking_is_perpetuated_in_the_uk.md)
     - [`🦖_20_years_of_trex_behaviour.md`](Polaris_Nest/Git_Intake_Drawer/🦖_20_years_of_trex_behaviour.md)
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧄_central_inspectorate_of_allium.md`](Polaris_Nest/Git_Intake_Drawer/🧄_central_inspectorate_of_allium.md)
