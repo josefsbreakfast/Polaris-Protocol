@@ -1,5 +1,5 @@
 # 🔺 The Golden Triangle and the Hidden Constitution of Local Government  
-**First created:** 2025-11-04 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-04 | **Last updated:** 2026-01-22  
 *How three statutory roles became the quiet spine — and sometimes the choke point — of English local governance.*  
 
 ---
@@ -242,10 +242,11 @@ It contributes to the Governance Ecologies cluster by analysing how statutory sa
 > 📡 Cross-references:
 > 
 > - [*Pending:* 🧼 Courtier Class in the Age of Austerity] - *opportunism within hollowed institutions*  
-> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md) - *the sight of an NDA you never signed*
-> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) - *the sound of an NDA you never asked for*
-> - [🕯 Exorcising Safeguarding Shadows](../../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/README.md) - *the power of language in safeguarding*  
+> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md) - *the sight of an NDA you never signed*  
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) - *the sound of an NDA you never asked for*  
+> - [🕯 Exorcising Safeguarding Shadows](../../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/README.md) - *the power of language in safeguarding*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
