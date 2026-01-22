@@ -1,6 +1,6 @@
-# 🦎 Algorithmic Autotomy
-**First created:** 2026-01-12 | **Last updated:** 2026-01-12  
-*Why resilient systems must be able to shed load-bearing components — and why human-anchored models fail without a built-in break.*
+# 🦎 Algorithmic Autotomy  
+**First created:** 2026-01-12 | **Last updated:** 2026-01-22  
+*Why resilient systems must be able to shed load-bearing components — and why human-anchored models fail without a built-in break.*  
 
 ---
 
@@ -491,12 +491,10 @@ Living systems plan for both.
 > 📡 Cross-references:
 > 
 > - [🦎 Snow Leopard Geckos Against Modern Slavery](../🧪_Development_Experimentation/🦎_snow_leopard_geckos_against_modern_slavery.md)  
->
 > - [🦎 Basking While the World Is Burning](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦎_basking_while_the_world_is_burning.md)  
->
 > - [🐍 Snake Bites and Stolen Voices](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-12_
+_Last updated: 2026-01-22_
 
