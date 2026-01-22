@@ -1,5 +1,5 @@
 # 🏛️ Ministerial Authority And The Collapse Of Lawful Refusal  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *How UK constitutional design concentrates moral authority upward while denying lawful refusal downward.*  
 
 ---
@@ -178,8 +178,9 @@ It exists to explain **why downstream actors could not stop**, even when they co
 >
 > - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *where prevention failed*  
 > - [🧬 Distributed Complicity In Modern Warfare](../👑_Ownership_Control/🧬_distributed_complicity_in_modern_warfare.md) — *why “just support” becomes material*  
-> - [🚗 When Allies Should Take The Keys](./🚗_when_allies_should_take_the_keys.md) — *ally duty and leverage*  
+> - [🚗 When Allies Should Take The Keys](./🚗_when_allies_should_take_the_keys.md) — *ally duty and leverage*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
