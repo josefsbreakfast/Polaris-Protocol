@@ -1,5 +1,5 @@
 # ⚖️ Soft Law Governance  
-**First created:** 2025-09-14 | **Last updated:** 2026-01-09  
+**First created:** 2025-09-14 | **Last updated:** 2026-01-22  
 *Guidance, codes of practice, and memoranda that act as law without oversight or consent.*  
 
 ---
@@ -312,9 +312,10 @@ It documents how unofficial rules and unpublished guidance create systems of con
 > - [👑 Soft Power Accountability Gap](../👑_Ownership_Control/👑_soft_power_accountability_gap.md) - *princes being princesses*  
 > - [🎓 Legibility As Soft Power in Academia](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎓_legibility_as_soft_power_in_academia.md) - *a golden goose that never stops*  
 > - [⚖️ Soft Power Without Soft Accountability](../../🦕_Elder_Influencers/🕸️_World_Webs/⚖️_soft_power_without_soft_accountability.md) - *non-princes being princesses*  
-> - [🌍 Soft Power and International Resentment](../../🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🌍_soft_power_and_international_resentment.md) - *who the golden goose is pissing off and why*  #
+> - [🌍 Soft Power and International Resentment](../../🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🌍_soft_power_and_international_resentment.md) - *who the golden goose is pissing off and why*  
 > - [🕯 Exorcising Safeguarding Shadows](../../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/README.md) - *deeper discussion on the influence of soft power in failures of safeguarding, including the various child safeguarding scandals across the UK*  
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
