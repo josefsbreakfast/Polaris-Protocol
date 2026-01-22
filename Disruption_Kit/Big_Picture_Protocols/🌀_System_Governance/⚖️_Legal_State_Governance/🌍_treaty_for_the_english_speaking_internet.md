@@ -1,6 +1,6 @@
 # 🌍 Treaty for the English-Speaking Internet  
-**First created:** 2025-10-15 | **Last updated:** 2026-01-09  
-*A proposal for an inter-English-language federation to fund, govern, and de-sludge the web.*
+**First created:** 2025-10-15 | **Last updated:** 2026-01-22  
+*A proposal for an inter-English-language federation to fund, govern, and de-sludge the web.*  
 
 ---
 
@@ -76,10 +76,11 @@ It outlines a transnational framework for cleaning, governing, and decolonising 
 > 
 > - [💧 Sludgy Solutions](../../../../🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/💧_sludgy_solutions.md) — *countermeasures to online sludge*  
 > - [🍎 How to Internet for Kids](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍎_how_to_internet_for_kids.md) — *opening the conversation for parents, for the challenges of teaching safety to their kids*  
-> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *keeping an eye on surveillance industry*
-> - [🙀 Chronically Online](../../🪄_Expression_Of_Norms/🙀_Chronically_Online/README.md) — *internet culture for the slightly more normal*
-> - [♨️ Prosocial Nudge Burnout](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/♨️_prosocial_nudge_burnout_syndrome.md) — *reasons to ban nudging on children's devices and platforms... and non-consented nudging on everyone else's*  
+> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *keeping an eye on surveillance industry*  
+> - [🙀 Chronically Online](../../🪄_Expression_Of_Norms/🙀_Chronically_Online/README.md) — *internet culture for the slightly more normal*  
+> - [♨️ Prosocial Nudge Burnout](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/♨️_prosocial_nudge_burnout_syndrome.md) — *reasons to ban nudging on children's devices and platforms... and non-consented nudging on everyone else's*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
