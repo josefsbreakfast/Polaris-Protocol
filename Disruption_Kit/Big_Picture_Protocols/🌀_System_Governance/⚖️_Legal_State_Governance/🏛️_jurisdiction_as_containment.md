@@ -1,5 +1,5 @@
 # 🏛️ Jurisdiction as Containment  
-**First created:** 2025-12-29 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-29 | **Last updated:** 2026-01-22  
 *Why “going public” fails as leverage against the UK state — and why it predictably backfires.*  
 
 ---
@@ -311,11 +311,12 @@ It documents how UK constitutional practice neutralises disclosure-based leverag
 > 
 > - [🌍 Vulnerable Data Populations at FCDO](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md)  
 > - [🧩 Why the Machine Tags High-Friction Profiles](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_why_the_machine_tags_high_friction_profiles.md)  
-> - [⚙️ High-Friction People and Systemic Mismatch](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/⚙️_high_friction_people_and_systemic_mismatch.md)
-> - [🇬🇧 This Is Our Island, Actually](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🇬🇧_this_is_our_island_actually.md)
-> - [🏛️ Our Island, Our Realm, Our Rules (and Why That Includes Hospitality)](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_our_island_our_realm_our_rules.md)
+> - [⚙️ High-Friction People and Systemic Mismatch](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/⚙️_high_friction_people_and_systemic_mismatch.md)  
+> - [🇬🇧 This Is Our Island, Actually](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🇬🇧_this_is_our_island_actually.md)  
+> - [🏛️ Our Island, Our Realm, Our Rules (and Why That Includes Hospitality)](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_our_island_our_realm_our_rules.md)  
 > - [🍉 Your Voice Is Your Vote](../📚_Narrative_Management/🍉_your_voice_is_your_vote.md)  
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
