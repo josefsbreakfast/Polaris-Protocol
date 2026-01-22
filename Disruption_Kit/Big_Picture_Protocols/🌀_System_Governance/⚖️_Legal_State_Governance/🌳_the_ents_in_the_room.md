@@ -1,6 +1,6 @@
 # 🌳 The Ents in the Room  
-**First created:** 2025-12-26 | **Last updated:** 2026-01-09  
-*On slow power, ancient processes, and decisions that arrive centuries too late*
+**First created:** 2025-12-26 | **Last updated:** 2026-01-22  
+*On slow power, ancient processes, and decisions that arrive centuries too late.*  
 
 > *“We have decided… to do nothing.”*
 
@@ -198,7 +198,9 @@ This node is a cultural companion to:
 - ⚖️ _rights_as_friction
 - 🧱 _palantir_as_infrastructure
 
-It should be read *after* those nodes, not instead of them.
+It should be read *after* those nodes, not instead of them.  
+
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 ---
 
@@ -206,4 +208,4 @@ It should be read *after* those nodes, not instead of them.
 
 > The Ents in the room are not asleep — they are thinking very carefully while the future installs itself around them.
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
