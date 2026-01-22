@@ -1,5 +1,5 @@
 # 🏛️ Soft Power Dies in Silence  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *How secrecy, selective accountability, and quiet containment collapse international credibility.*  
 
 ---
@@ -192,8 +192,9 @@ It documents how domestic non-accountability translates directly into internatio
 > - [🏛️ Reputation Management Is Not Governance](./🏛️_reputation_management_is_not_governance.md) — *optics vs authority*  
 > - [⚖️ Elite Impunity Is a National Security Risk](./⚖️_elite_impunity_is_a_national_security_risk.md) — *coercion exposure*  
 > - [🏛️ Impunity Creates Authoritarian Openings](./🏛️_impunity_creates_authoritarian_openings.md) — *legitimacy collapse*  
-> - [⚖️ Inquiries Are a Pressure Release Valve](./⚖️_inquiries_are_a_pressure_release_valve.md) — *containment failure*  
+> - [⚖️ Inquiries Are a Pressure Release Valve](./⚖️_inquiries_are_a_pressure_release_valve.md) — *containment failure*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
