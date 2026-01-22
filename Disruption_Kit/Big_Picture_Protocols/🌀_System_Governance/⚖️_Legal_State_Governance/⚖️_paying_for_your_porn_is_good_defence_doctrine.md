@@ -1,5 +1,5 @@
 # ⚖️ Paying for Your Porn Is Good Defence Doctrine  
-**First created:** 2025-10-30 | **Last updated:** 2026-01-09  
+**First created:** 2025-10-30 | **Last updated:** 2026-01-22  
 *How the “woke” concern sang UK–NATO–EU defence relations to sleep.*  
 
 ---
@@ -476,10 +476,11 @@ It maps how moral panic, surveillance, and deregulation form a single economy of
 > 📡 Cross-references:
 >
 > - [⚖️ Defend Forward & Sovereign Cyber Response Ladder](./⚖️_defend_forward_and_sovereign_cyber_response_ladder.md) - *defence in a cyber reality requires new praxis*  
-> - [💊 Addiction and Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💊_addiction_and_extremism.md) - *No-Fap as pornography shame in extremis and precusor risk for targetted violence*
+> - [💊 Addiction and Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💊_addiction_and_extremism.md) - *No-Fap as pornography shame in extremis and precusor risk for targetted violence*  
 > - [👁️‍🗨️ Surveillance of Disabled Bodies](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/👁️‍🗨️_surveillance_of_disabled_bodies.md) - *surveillance of disabled bodies and sex work is often co-occurant, and produces dual cycle of destructive surveillant extraction*  
-> - [🦑 Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) - *paying for your porn is both CRAKEN approved and Kraken approved*  
+> - [🦑 Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) - *paying for your porn is both CRAKEN approved and Kraken approved*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
