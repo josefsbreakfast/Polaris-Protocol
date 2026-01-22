@@ -1,5 +1,5 @@
 # 🌋 Whistleblowers as Emergency Governance  
-**First created:** 2025‑11‑02 | **Last updated:** 2026-01-09  
+**First created:** 2025‑11‑02 | **Last updated:** 2026-01-22  
 *Informal disclosure as the last remaining oversight mechanism.*  
 
 ---
@@ -94,9 +94,10 @@ whistleblowing, trust decay, emergency governance, civic integrity, informal dis
 > 
 > - [*Pending:* 🧩_accountability_failures_and_public_trust.md] — *inquiry‑fatigue precursor*  
 > - [⭕️ Erosion of Legitimacy Loops](../💫_Containment_Logic/⭕️_erosion_of_legitimacy_loops.md) — *scandal‑feedback context*  
-> - [🕳️ Social Memory of Impunity](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🕳️_social_memory_of_impunity.md) — *memory of suppression*
+> - [🕳️ Social Memory of Impunity](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🕳️_social_memory_of_impunity.md) — *memory of suppression*  
 > - [🕳️ Whistlebridge Correlation Notes](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕳️_whistlebridge_correlation_notes.md) — *when a system signs and seals, but does not deliver justice*  
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
