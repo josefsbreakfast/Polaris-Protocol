@@ -1,5 +1,5 @@
 # 🏛️ Impunity Creates Authoritarian Openings  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *How selective enforcement hollows democratic legitimacy and prepares the ground for coercive power.*  
 
 ---
@@ -172,8 +172,9 @@ It documents how failure to enforce accountability against power creates structu
 > - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *constitutional breakdown*  
 > - [⚖️ Non-Prosecution Teaches Impunity](./⚖️_non_prosecution_teaches_impunity.md) — *behavioural learning effects*  
 > - [⚖️ Risk Aversion Is Policy](./⚖️_risk_aversion_is_policy.md) — *avoidance as governance*  
-> - [⚖️ Inquiries Are a Pressure Release Valve](./⚖️_inquiries_are_a_pressure_release_valve.md) — *legitimacy deferral*  
+> - [⚖️ Inquiries Are a Pressure Release Valve](./⚖️_inquiries_are_a_pressure_release_valve.md) — *legitimacy deferral*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
