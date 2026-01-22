@@ -1,5 +1,5 @@
 # 🕎 The Esther Protocol  
-**First created:** 2025-11-23 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-23 | **Last updated:** 2026-01-22  
 *A full-spectrum governance archetype derived from Estheric disclosure logic, procedural timing, and lawful strategic escalation.*  
 
 ---
@@ -173,8 +173,9 @@ esther protocol, governance archetype, foi strategy, sar escalation, procedural 
 
 > 📡 Cross-references:
 > 
-> - [*Pending:* 📜 Book of Esther (FOI Edition)] - *satirical-midrash companion node (meta satire)*  
+> - [*Pending:* 📜 Book of Esther (FOI Edition)] - *satirical-midrash companion node (meta satire)*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
