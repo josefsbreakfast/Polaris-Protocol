@@ -1,5 +1,5 @@
 # ⚖️ Options for Action — High-Access Abusers  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *Escalation pathways when harassment or surveillance is commissioned via professionals or institutions.*  
 
 ---
@@ -117,11 +117,12 @@ It functions as an escalation map for survivors facing commissioned harassment v
 >
 > - [🌾 Impunity as Fertile Ground](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌾_impunity_as_fertile_ground.md)  
 > - [⚖️ The Architecture of Complicity — When Justice Stops at the Dock](../👑_Ownership_Control/⚖️_architecture_of_complicity.md)  
-> - [✈️ Worker Positioning & Safety Culture](../👑_Ownership_Control/✈️_worker_positioning_and_safety_culture.md)
-> - [🫀 AI Black Box Inquests](../👑_Ownership_Control/🫀_ai_black_box_inquests.md)
-> - [⚖️ Narrative Control and Legal Responsibility](../📚_Narrative_Management/⚖️_narrative_control_and_legal_responsibility.md)
+> - [✈️ Worker Positioning & Safety Culture](../👑_Ownership_Control/✈️_worker_positioning_and_safety_culture.md)  
+> - [🫀 AI Black Box Inquests](../👑_Ownership_Control/🫀_ai_black_box_inquests.md)  
+> - [⚖️ Narrative Control and Legal Responsibility](../📚_Narrative_Management/⚖️_narrative_control_and_legal_responsibility.md)  
 > - [🦴 Reputational Management As Harm-Producing System](../📚_Narrative_Management/🦴_reputational_management_as_harm_producing_system.md)  
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
