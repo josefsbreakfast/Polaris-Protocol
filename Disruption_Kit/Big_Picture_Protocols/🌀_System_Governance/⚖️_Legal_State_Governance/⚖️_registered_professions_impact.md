@@ -1,5 +1,5 @@
 # ⚖️ Registered Professions Impact  
-**First created:** 2025-09-26 | **Last updated:** 2026-01-09  
+**First created:** 2025-09-26 | **Last updated:** 2026-01-22  
 *How manufactured provenance disproportionately affects registered professionals in healthcare, law, education, and social work.*  
 
 ---
@@ -101,11 +101,12 @@ It analyses the systemic risks posed to registered professions when provenance i
 > 
 > - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md) - *the case for systematic analysis*  
 > - [⚖️ Redress Models and Limits](./⚖️_redress_models_and_limits.md) - *looking back and forward at how to address and adjust*  
-> - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) - *further exploration of the structures of data infrastructure and form*
-> - [🍉 Why The Long Prison Stay](./🍉_why_the_long_prison_stay.md)
-> - [🩺 Governing Doctors in the UK](../💫_Containment_Logic/🩺_governing_doctors_in_uk.md)
-> - [🧠 Good Doctors Are Not Nazis](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_good_doctors_are_not_nazis.md)  
+> - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) - *further exploration of the structures of data infrastructure and form*  
+> - [🍉 Why The Long Prison Stay](./🍉_why_the_long_prison_stay.md)  
+> - [🩺 Governing Doctors in the UK](../💫_Containment_Logic/🩺_governing_doctors_in_uk.md)  
+> - [🧠 Good Doctors Are Not Nazis](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_good_doctors_are_not_nazis.md)
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
