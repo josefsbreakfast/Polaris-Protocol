@@ -1,6 +1,6 @@
 # 🍉 The Crown as British State Wayfinder  
-**First created:** 2025-12-29 | **Last updated:** 2026-01-09  
-*How non-executive symbolism prepares the ground for state repositioning*
+**First created:** 2025-12-29 | **Last updated:** 2026-01-22  
+*How non-executive symbolism prepares the ground for state repositioning.*  
 
 ---
 
@@ -273,12 +273,13 @@ It documents how symbolic and non-executive actors prepare moral and institution
 > 📡 Cross-references:
 > 
 > - [🔥 Rights as Friction](./🔥_rights_as_friction.md) — *why safeguards are treated as obstacles*  
-> - [🌳 The Ents in the Room](./🌳_the_ents_in_the_room.md)
-> - [⚖️ Operational Dilemma: Fix It vs Chain of Command](../💫_Containment_Logic/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)
-> - [⚖️ Fixivist Chain of Command](../../../Containment_Scripts/Suppression_Modes/⚖️_fixivist_chain_of_command.md)
-> - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md)
-> - [🏛️ Soft Power Dies in Silence](./🏛️_soft_power_dies_in_silence.md)  
+> - [🌳 The Ents in the Room](./🌳_the_ents_in_the_room.md)  
+> - [⚖️ Operational Dilemma: Fix It vs Chain of Command](../💫_Containment_Logic/⚖️_operational_dilemma_fixit_vs_chain_of_command.md)  
+> - [⚖️ Fixivist Chain of Command](../../../Containment_Scripts/Suppression_Modes/⚖️_fixivist_chain_of_command.md)  
+> - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md)  
+> - [🏛️ Soft Power Dies in Silence](./🏛️_soft_power_dies_in_silence.md)
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
