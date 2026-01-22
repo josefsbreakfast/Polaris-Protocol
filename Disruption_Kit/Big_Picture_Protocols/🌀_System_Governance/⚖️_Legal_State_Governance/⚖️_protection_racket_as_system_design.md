@@ -1,5 +1,5 @@
 # ⚖️ The Protection Racket as a System Design Pattern  
-**First created:** 2025-10-18 | **Last updated:** 2026-01-09  
+**First created:** 2025-10-18 | **Last updated:** 2026-01-22  
 *How coercive “protection” mimics governance to monetise fear.*  
 
 ---
@@ -157,9 +157,10 @@ It names the design so that its modern uniforms can be recognised — and refuse
 > 
 > - [🫆 Metadata Fingerprints](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🫆__metadata_fingerprints.md) - *sticky ghosts leave digit prints*  
 > - [🎚️ Algorithmic Throttling Loops](../../../../Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🎚️_algorithmic_throttling_loops.md) - *how engagement is used to throttle community visibility and undermine civil society*  
-> - [🧨 Counter-Nudge Testimony](../../../Containment_Scripts/Counter_Nudges/🧨_counter_nudge_testimony.md) - *coercive nudging as means of control*
-> - [🧠 HM Dept of Coercive Nudges](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) - *the state pays our taxes for this*  
+> - [🧨 Counter-Nudge Testimony](../../../Containment_Scripts/Counter_Nudges/🧨_counter_nudge_testimony.md) - *coercive nudging as means of control*  
+> - [🧠 HM Dept of Coercive Nudges](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) - *the state pays our taxes for this*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
