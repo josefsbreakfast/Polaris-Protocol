@@ -1,5 +1,5 @@
 # ⏳ Hinge Point: When Delay Becomes Liability  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-11  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-22  
 *The moment institutional avoidance flips into procedural exposure.*  
 
 ---
@@ -303,21 +303,15 @@ It documents the predictable moment where postponement ceases to protect institu
 > 📡 Cross-references:
 > 
 > - [⏳ Governance Latency in Population-Scale Cyber Events](./⏳_governance_latency.md) — *maps how prolonged institutional delay accumulates risk over time, creating the conditions in which hinge points become inevitable*  
-> 
 > - [⚖️ Judicial Scrutiny of Delay Over Substance](./⚖️_judicial_scrutiny_of_delay_over_substance.md) — *examines how courts and oversight bodies interpret delay itself as a governance failure, often prioritising timing over stated intent*  
-> 
 > - [🛰️ Regulatory Adjacency Effects on Decision Timelines](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🛰️_regulatory_adjacency_effects_on_delay_dynamics.md) — *explains why institutions accelerate suddenly when scrutiny becomes foreseeable nearby, even if the original issue has not changed*  
-> 
 > - [*Pending:* 🧰 Governance Risk Behaviour Index] — *intended to track observable shifts in institutional behaviour as delay transitions into liability exposure*  
-> 
 > - [🪞 Gitmo as Western Moral Rupture](../../🦕_Elder_Influencers/🕸️_World_Webs/🪞_gitmo_as_western_moral_rupture.md) — *a large-scale example of prolonged delay and avoidance crossing a hinge into irreversible reputational and legal damage*  
-> 
 > - [🎭 NatCon 2023–25 Hinge Point](../../🦕_Elder_Influencers/🕸️_World_Webs/🎭_natcon_2023_25_hinge_point.md) — *an applied political case study showing how cumulative delay reshapes risk perception and triggers abrupt strategic shifts*  
-> 
 > - [➿ Fork Loop Disruptors](../../../Survivor_Tools/➿_fork_loop_disruptors.md) — *tools for interrupting destabilising narrative and behavioural loops that often emerge immediately after hinge moments*  
-> 
-> - [👹 Fork Behaviour Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/README.md) — *downstream containment strategies for managing hostile or manipulative dynamics once exposure and escalation are underway*  
+> - [👹 Fork Behaviour Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/README.md) — *downstream containment strategies for managing hostile or manipulative dynamics once exposure and escalation are underway*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-11_  
+_Last updated: 2026-01-22_  
