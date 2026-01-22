@@ -1,5 +1,5 @@
 # 🏛️ Optics Are Not Legitimacy  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *Why performative stability corrodes authority faster than open failure.*  
 
 ---
@@ -170,7 +170,8 @@ It documents how confusing appearance for authority accelerates democratic and i
 > - [⚖️ Inquiries Are a Pressure Release Valve](./⚖️_inquiries_are_a_pressure_release_valve.md) — *performance substitution*  
 > - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *legitimacy mechanics*  
 > - [🏛️ Soft Power Dies in Silence](./🏛️_soft_power_dies_in_silence.md) — *external consequences*  
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
