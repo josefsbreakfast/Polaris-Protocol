@@ -1,5 +1,5 @@
 # ⚖️ Judicial Deference  
-**First created:** 2025-09-14 | **Last updated:** 2026-01-09  
+**First created:** 2025-09-14 | **Last updated:** 2026-01-22  
 *When courts outsource responsibility back to the executive — and call it restraint.*  
 
 ---
@@ -295,8 +295,9 @@ It documents how courts can, through restraint framed as neutrality, stabilise e
 > 
 > - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md) — *oversight limits and sampling logic*  
 > - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md) — *permissioning under opacity*  
-> - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md) — *how systems close loops without repair*  
+> - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md) — *how systems close loops without repair*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
