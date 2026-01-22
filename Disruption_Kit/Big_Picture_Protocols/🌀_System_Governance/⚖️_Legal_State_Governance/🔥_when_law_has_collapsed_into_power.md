@@ -1,5 +1,5 @@
 # 🔥 When Law Has Collapsed into Power  
-**First created:** 2025-12-13 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-13 | **Last updated:** 2026-01-22  
 *A practical checklist for identifying the threshold where legality yields to coercive power in policing practice.*  
 
 ---
@@ -152,8 +152,9 @@ It provides a clear, pattern-based method for identifying when policing practice
 > 
 > - [⚖️ Schmittian Logic in Policing Practice](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/⚖️_schmittian_logic_in_policing_practice.md) - *theoretical foundation*  
 > - [🚨 Red Flags of Authoritarian Capture in Policing](./🚨_red_flags_of_authoritarian_capture_in_policing.md) - *early warning patterns*  
-> - [🏛️ Oversight Collapse Under Systemic Attrition](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🏛️_oversight_collapse_under_systemic_attrition.md) - *capacity failure context*  
+> - [🏛️ Oversight Collapse Under Systemic Attrition](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🏛️_oversight_collapse_under_systemic_attrition.md) - *capacity failure context*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
