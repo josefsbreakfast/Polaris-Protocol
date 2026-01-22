@@ -1,5 +1,5 @@
 # ⚖️ The Conduit and the Safeguard  
-**First created:** 2025-11-06 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-06 | **Last updated:** 2026-01-22  
 *Explaining to British compliance officers why cross‑jurisdictional data flows require explicit safeguards when Israeli law is in play.*  
 
 ---
@@ -112,13 +112,14 @@ uk data protection, israeli law, cross‑jurisdictional safeguards, gdpr complia
 
 > 📡 Cross‑references:  
 >
-> - [🧨 Gitmo to Gaza Exception Chain](../📚_Narrative_Management/🧨_gitmo_to_gaza_exception_chain.md) - *reciprocal influences of Western and Israeli carcerality through the years*
-> - [🌍 Israel–Five Eyes Structural Interdependency](../💫_Containment_Logic/🌍_israel_five_eyes_structural_interdependency.md) - *structural necessity of apartheid and interdependence of white supremacy (such supremacy requires this much bolstering to "exist natrually", apparently)*
-> - [🛰️ Microsoft Partial Cut — Israel Surveillance](../🛰️_Infrastructure_Procurement/🛰️_microsoft_partial_cut_israel_surveillance.md) - *even surveillance capitalists put safeguards in place, occasionally*
+> - [🧨 Gitmo to Gaza Exception Chain](../📚_Narrative_Management/🧨_gitmo_to_gaza_exception_chain.md) - *reciprocal influences of Western and Israeli carcerality through the years*  
+> - [🌍 Israel–Five Eyes Structural Interdependency](../💫_Containment_Logic/🌍_israel_five_eyes_structural_interdependency.md) - *structural necessity of apartheid and interdependence of white supremacy (such supremacy requires this much bolstering to "exist natrually", apparently)*  
+> - [🛰️ Microsoft Partial Cut — Israel Surveillance](../🛰️_Infrastructure_Procurement/🛰️_microsoft_partial_cut_israel_surveillance.md) - *even surveillance capitalists put safeguards in place, occasionally*  
 > - [🛰️ OSINT Field Operations](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations) - *have fun using open-source information and ethical techniques to investigate this data transfer further, with any of: **🍉 Academic Liberty**, **🕊️ War Or Peace**, **💰 Underwriting the Occupation**, **💰 Budget Twinsies**, **🧪 Sciencing Apartheid***
-> - [🧠 Good Jew / Bad Jew State Template](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧠_good_jew_bad_jew_state_template.md) - *British and Jewish? Welcome to your only 2 legal options!*
+> - [🧠 Good Jew / Bad Jew State Template](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧠_good_jew_bad_jew_state_template.md) - *British and Jewish? Welcome to your only 2 legal options!*  
 > - [🏛️ Welcome to Western Imperialism](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🏛️_welcome_to_western_imperialism.md) - *why we are only given these two options*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
