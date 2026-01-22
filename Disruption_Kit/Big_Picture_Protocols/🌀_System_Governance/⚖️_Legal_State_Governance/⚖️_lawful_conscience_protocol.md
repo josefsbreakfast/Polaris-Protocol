@@ -1,5 +1,5 @@
 # ⚖️ Lawful Conscience Protocol  
-**First created:** 2025-10-12 | **Last updated:** 2026-01-09  
+**First created:** 2025-10-12 | **Last updated:** 2026-01-22  
 *When secrecy becomes duress, conscience becomes jurisdiction.*  
 
 ---
@@ -83,8 +83,9 @@ it restores mutual respect to the marriage between Parliament and the Services.
 >  - [🔥 Hunger Strike Comparisons](./🔥_hunger_strike_comparisons.md)  
 >  - [🕊️ From BLM to Palestine — The Suppression Switchboard](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🕊️_from_blm_to_palestine_the_suppression_switchboard.md)  
 >  - [🧵 Community Vulnerability and Early Canaries](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)
->  - [👀 Public Perception Gap](../../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/👀_public_perception_gap.md)  
+>  - [👀 Public Perception Gap](../../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/👀_public_perception_gap.md)
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
