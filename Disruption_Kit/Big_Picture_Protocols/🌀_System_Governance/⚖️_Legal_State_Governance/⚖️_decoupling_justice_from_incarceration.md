@@ -1,5 +1,5 @@
 # ⚖️ Decoupling Justice From Incarceration  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *Why treating prison as the default endpoint of justice suppresses accountability and increases harm.*  
 
 ---
@@ -192,10 +192,11 @@ It documents how treating prison as the default endpoint of justice suppresses e
 > - [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) — *system stability*  
 > - [🧬 What a CSA System Optimised for Prevention Looks Like](./🧬_what_a_csa_system_optimised_for_prevention_looks_like.md) — *prevention-first design*  
 > - [🧬 Restorative and Transformative Justice — Where It Actually Works](./🧬_restorative_and_transformative_justice_where_it_actually_works.md) — *bounded alternatives*  
-> - [⚖️ Risk Aversion Is Policy](./⚖️_risk_aversion_is_policy.md) — *fear-driven paralysis*
-> - [✈️ Release the British Files](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/✈️_release_the_british_files.md)
-> - [🐦‍🔥 Survivors of the Files Deserve Better](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🐦‍🔥_survivors_of_the_files_deserve_better.md)  
+> - [⚖️ Risk Aversion Is Policy](./⚖️_risk_aversion_is_policy.md) — *fear-driven paralysis*  
+> - [✈️ Release the British Files](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/✈️_release_the_british_files.md)  
+> - [🐦‍🔥 Survivors of the Files Deserve Better](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🐦‍🔥_survivors_of_the_files_deserve_better.md)
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
