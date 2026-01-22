@@ -1,5 +1,5 @@
 # ⚖️ How Many Adult Survivors Outlive Prosecution?  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *Small-n justice outcomes, long-tail survivor exposure, and why “closure” is a systems myth.*  
 <!--If we are calling this writing a "job", everything about this job is grim, man. Buckle up. Get coffee. We got this.-->
 ---
@@ -421,8 +421,9 @@ It contributes to the archive by converting an emotionally “invisible” survi
 > - [🎥 Anomaly Incentives in Surveillance](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎥_anomaly_incentives_in_surveillance.md) - *Why surveillance architectures create incentives to keep outliers under permanent scrutiny*
 > - [🔥 The Strength of Humour](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_the_strength_of_humour.md)  
 > - [☔️ Leak Pattern Taxonomy — From Error to Signature](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/☔️_leak_pattern_taxonomy.md)  
-> - [🤡 Kompromat Own-Goals](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤡_kompromat_own_goals.md)  
+> - [🤡 Kompromat Own-Goals](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🤡_kompromat_own_goals.md)
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
