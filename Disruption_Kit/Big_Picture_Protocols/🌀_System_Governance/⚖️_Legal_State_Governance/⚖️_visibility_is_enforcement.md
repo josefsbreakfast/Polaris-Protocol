@@ -1,5 +1,5 @@
 # ⚖️ Visibility Is Enforcement  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *Why law that operates out of sight fails to deter, persuade, or protect.*  
 
 ---
@@ -183,11 +183,10 @@ It documents why accountability that cannot be seen fails to deter harm or susta
 > 
 > - [🧨 If You Don’t Prosecute, You Invite Predators](./🧨_if_you_dont_prosecute_you_invite_predators.md) — *opportunity signalling*  
 > - [⚖️ Non-Prosecution Teaches Impunity](./⚖️_non_prosecution_teaches_impunity.md) — *behavioural learning*  
-> - [🏛️ Reputation Management Is Not Governance](./🏛️_reputation_management_is_not_governance.md
-) — *optics vs authority*  
+> - [🏛️ Reputation Management Is Not Governance](./🏛️_reputation_management_is_not_governance.md) — *optics vs authority*  
 > - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *constitutional effects*
-
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
