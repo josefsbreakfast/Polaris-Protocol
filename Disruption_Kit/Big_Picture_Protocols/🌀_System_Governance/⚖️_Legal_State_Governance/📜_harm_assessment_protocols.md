@@ -1,5 +1,5 @@
 # 📜 Harm Assessment Protocols  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-22  
 *How institutions evaluate whether damage occurred and what must be done.*  
 
 ---
@@ -65,14 +65,15 @@ It provides a framework for understanding how institutions evaluate and respond 
 > 📡 Cross-references:
 > 
 > - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md) - *how institutions move from causing to remedying harms*  
-> - [🏗️ Skyscraper Over Pebbles](../📚_Narrative_Management/🏗️_skyscraper_over_pebbles.md) - *making mountains out of molehills and calling it "reputational management*
+> - [🏗️ Skyscraper Over Pebbles](../📚_Narrative_Management/🏗️_skyscraper_over_pebbles.md) - *making mountains out of molehills and calling it "reputational management*  
 > - [🚨 Crisis-Mode Behaviours - Institutional Fight / Flight / Fawn / Freeze](../💫_Containment_Logic/🚨_crisis_mode_behaviours_institutional_fight_flight_fawn_freeze.md) - *how institutions may react to discovery of harms*  
 > - [⚖️ Redacted Institution Conflict (2022 Origin)](../../../Containment_Scripts/Suppression_Modes/⚖️_institution_conflict_origin_2022.md) - *example harm*  
 > - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) - *example downstream harm*  
 > - [🗝 Who Holds the Tape](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝_who_holds_the_tape.md) - *example consequential metadata irregularity*  
-> - [⚖️ Legal Hooks for Muted Books](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md) - *surviving and recovering, post-harm*
+> - [⚖️ Legal Hooks for Muted Books](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md) - *surviving and recovering, post-harm*  
 > - [💸 Let’s Make the Money Talk](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/README.md) - *OSINT example case to capture accountability and harms from recent public release of high-interest case; early-as-possible capture = early-as-possible prevention of additional downstream harms*  
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
