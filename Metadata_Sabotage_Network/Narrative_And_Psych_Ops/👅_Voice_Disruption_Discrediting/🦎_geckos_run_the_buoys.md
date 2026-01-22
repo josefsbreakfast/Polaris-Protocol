@@ -1,6 +1,6 @@
 # 🦎 Geckos Run the Buoys  
 **First created:** 2026-01-22 | **Last updated:** 2026-01-22  
-*A metaphor for quiet presence, structural signalling, and why persistence does not require performance.*
+*A metaphor for quiet presence, structural signalling, and why persistence does not require performance.*  
 
 ---
 
@@ -145,9 +145,10 @@ gecko metaphor, buoy signalling, quiet presence, navigational risk, anchoring, s
 It captures a metaphor for understanding signal, presence, and relevance without escalation or performance.
 
 > 📡 Cross-references:
-> - **🦎 Finding One’s Chirp** — minimal coherent signal theory  
-> - **Metadata_Sabotage_Network/** — altered charts and signal distortion  
-> - **Big_Picture_Protocols/** — governance, risk, and navigability
+> 
+> - [🦎 On the Use of Feminine Surveillance Extraction and the Male Loneliness Charade](../🪆_Narrative_Interference/🦎_on_the_use_of_feminine_surveillence_extraction_and_the_male_lonliness_charade.md)  
+> - [🦎 Snow Leopard Geckos Against Modern Slavery](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🦎_snow_leopard_geckos_against_modern_slavery.md)  
+> - [🦎 Finding One’s Chirp](../../../🦆_Digital_Disruption/🐈‍⬛_Antifacist_Propaganda_Machine/🦎_finding_ones_chirp.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
