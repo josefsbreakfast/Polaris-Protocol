@@ -1,5 +1,5 @@
 # 🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *How UK continuity, delay, and “risk management” displaced the Genocide Convention’s prevention duty into procedural fog.*  
 
 ---
@@ -199,13 +199,14 @@ It exists to pin down where prevention duties became operational, where UK lever
 
 > 📡 Cross-references:
 >
-> - [🏛️ Ministerial Authority And The Collapse Of Lawful Refusal](./🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *why downstream refusal routes failed*
-> - [🧬 Distributed Complicity In Modern Warfare](../👑_Ownership_Control/🧬_distributed_complicity_in_modern_warfare.md) — *why “just observing” becomes material support*
-> - [🚗 When Allies Should Take The Keys](./🚗_when_allies_should_take_the_keys.md) — *ally duty, leverage, and boundary-setting*
-> - [🚢 Flotilla, Blockade, And Maritime Non-Intervention](./🚢_flotilla_blockade_and_maritime_non_intervention.md) — *knowledge + choice at sea*
+> - [🏛️ Ministerial Authority And The Collapse Of Lawful Refusal](./🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *why downstream refusal routes failed*  
+> - [🧬 Distributed Complicity In Modern Warfare](../👑_Ownership_Control/🧬_distributed_complicity_in_modern_warfare.md) — *why “just observing” becomes material support*  
+> - [🚗 When Allies Should Take The Keys](./🚗_when_allies_should_take_the_keys.md) — *ally duty, leverage, and boundary-setting*  
+> - [🚢 Flotilla, Blockade, And Maritime Non-Intervention](./🚢_flotilla_blockade_and_maritime_non_intervention.md) — *knowledge + choice at sea*  
 > - [🪖 Overlap Accountability and Why We Cannot Recruit](../💫_Containment_Logic/🪖_overlap_accountability_and_why_we_cannot_recruit.md)  
 > - [🔥 Narrative Inversion: When Refusal Is Framed as Threat](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md)  
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
