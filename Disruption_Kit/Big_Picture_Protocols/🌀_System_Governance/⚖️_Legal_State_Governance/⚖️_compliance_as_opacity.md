@@ -1,5 +1,5 @@
 # ⚖️ Compliance as Opacity  
-**First created:** 2025-09-16 | **Last updated:** 2026-01-11  
+**First created:** 2025-09-16 | **Last updated:** 2026-01-22  
 *How “compliance” and secrecy create plausible deniability, gaslighting, and governance failure, and how to remedy this.*  
 
 ---
@@ -119,21 +119,15 @@ It maps how secrecy dressed as “compliance” breeds gaslighting and systemic 
 > 📡 Cross-references:
 > 
 > - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md) — *how lawful approval structures create blind spots that opacity later exploits*  
-> 
 > - [⏳ Hinge Point: When Delay Becomes Liability](./⏳_hinge_point_when_delay_becomes_liability.md) — *how prolonged opacity eventually converts procedural compliance into institutional exposure*  
-> 
 > - [⚖️ Cluedo Certainty vs Court Certainty](./⚖️_cluedo_certainty_vs_court_certainty.md) — *why institutions demand proof they already believe in, and how “insufficient evidence” becomes a strategic shield*  
-> 
 > - [🪼 Plausible Deniability Rhetoric](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🪼_plausible_deniability_rhetoric.md) — *the language patterns that convert secrecy into apparent innocence*  
-> 
 > - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *how opaque procedure produces confusion, self-doubt, and behavioural suppression*  
-> 
 > - [🦠 Algorithmic Autoimmunity](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🦠_algorithmic_autoimmunity.md) — *how systems defend themselves against correction by rejecting inconvenient signals*  
-> 
 > - [🩹 Patch Repair Governance](../💫_Containment_Logic/🩹_patch_repair_governance.md) — *how individuals are ground down by fragmented accountability and endless procedural rerouting*  
-> 
-> - [🎓 Civic Craft Curriculum](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/🎓_civic_craft_curriculum.md) — *building public literacy to counter opaque governance practices*  
+> - [🎓 Civic Craft Curriculum](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/🎓_civic_craft_curriculum.md) — *building public literacy to counter opaque governance practices*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-11_
+_Last updated: 2026-01-22_
