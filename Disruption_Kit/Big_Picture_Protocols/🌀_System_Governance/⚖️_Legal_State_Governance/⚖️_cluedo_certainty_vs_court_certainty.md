@@ -1,5 +1,5 @@
 # ⚖️ Cluedo Certainty vs Court Certainty  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-11  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *Why being sure is not the same as proving — and why evidence still matters even when the answer is obvious.*  
 
 ---
@@ -240,23 +240,17 @@ It clarifies the epistemic and governance gap between knowing and proving, and f
 > 📡 Cross-references:
 > 
 > - [⚖️ Visibility Is Enforcement](./⚖️_visibility_is_enforcement.md) — *how moving from private certainty to public visibility changes institutional behaviour, even before court proof exist*  
-> 
 > - [🏛️ Precedent Is Policy](./🏛️_precedent_is_policy.md) — *why institutions fear evidentiary confirmation, not because they doubt the truth, but because proof creates obligation*  
-> 
 > - [⚖️ Non-Prosecution Teaches Impunity](./⚖️_non_prosecution_teaches_impunity.md) — *how choosing delay or refusal despite certainty normalises harm and signals permissibility*  
-> 
 > - [🧠 Ethical Attrition via Asymmetric Burden](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠_ethical_attrition_via_asymmetric_burden.md) — *how demanding court-level proof from those without power exhausts resistance and silences knowledge*  
-> 
 > - [🧠 Psych-Ops of Tone — The Science of Disbelief](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧠_psychops_of_tone_the_science_of_disbelief.md) — *how institutions and media weaponise uncertainty to undermine credibility without disproving facts*  
-> 
 > - [👾 Reduced Integrity Checks Downstream](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/👾_reduced_integrity_checks_downstream.md) — *what happens inside systems once denial becomes habitual and evidentiary standards are selectively applied*  
-> 
-> - [🌀 Loop Mapping Station](../../../../🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md) — *analytical tools for tracing feedback loops created by delayed proof and institutional disbelief*
-> 
-> - [🪢 Re-Embodied Dialogue & Civic Presence](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/🪢_re_embodied_dialogue_and_civic_presence.md) — *practices for restoring civic grounding when formal systems refuse to recognise known truth*  
+> - [🌀 Loop Mapping Station](../../../../🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md) — *analytical tools for tracing feedback loops created by delayed proof and institutional disbelief*  
+> - [🪢 Re-Embodied Dialogue & Civic Presence](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/🪢_re_embodied_dialogue_and_civic_presence.md) — *practices for restoring civic grounding when formal systems refuse to recognise known truth*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-11_
+_Last updated: 2026-01-22_
 
