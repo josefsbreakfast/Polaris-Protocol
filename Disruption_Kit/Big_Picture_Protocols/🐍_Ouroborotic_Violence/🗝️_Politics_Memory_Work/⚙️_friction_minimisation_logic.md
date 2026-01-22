@@ -1,5 +1,5 @@
 # ⚙️ Friction Minimisation Logic  
-**First created:** 2025-11-05 | **Last updated:** 2026-01-15  
+**First created:** 2025-11-05 | **Last updated:** 2026-01-22  
 *On how AI systems make seemingly irrational or unethical choices in pursuit of reduced systemic friction.*  
 
 ---
@@ -55,6 +55,9 @@ The friction logic thus converts moral noise into data error — and corrects fo
 ## 🌌 Constellations  
 ⚙️ 🧿 ⚖️ 🛰️ 🔮 — diagnostic register; sits between systemic analysis and containment ethics.  
 
+*Further media:*  
+- [Fashion Is Better When There's Friction](https://www.harpersbazaar.com/fashion/a70011610/personal-style-fashion-friction-maxxing-optimization), Harper's Bazaar.  
+
 ---
 
 ## ✨ Stardust  
@@ -79,4 +82,4 @@ It traces how optimisation for reduced friction becomes a covert political princ
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-15_
+_Last updated: 2026-01-22_
