@@ -1,5 +1,5 @@
 # ⚖️ Where Prosecutorial Discretion Lives  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *The precise locations where judgment, risk, and power shape charging decisions.*  
 
 ---
@@ -121,8 +121,9 @@ It maps the distributed points at which lawful judgment accumulates into systemi
 > - [⚖️ We Do Have to Prosecute the Elite, Actually](./⚖️_we_do_have_to_prosecute_the_elite_actually.md) — *accountability as public good*  
 > - [🌾 Impunity as Fertile Ground](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌾_impunity_as_fertile_ground.md) - *why rape prevention cannot exist without dismantling permission structures*  
 > - [💸 The Cost of a Closed Mouth](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/💸_the_cost_of_a_closed_mouth.md) — *truth as a commodity*  
-> - [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) - *what functional elite accountability could look like*  
+> - [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) - *what functional elite accountability could look like*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
