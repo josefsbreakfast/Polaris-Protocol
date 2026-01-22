@@ -1,5 +1,5 @@
 # 📜 Duty to Correct: How Public Bodies Must Fix Wrong Data  
-**First created:** 2025-11-16 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-16 | **Last updated:** 2026-01-22  
 *Why the right to correction is foundational to democratic participation — and how the absence of robust correction mechanisms enables misinterpretation, drift, and long-term bureaucratic harm.*  
 
 ---
@@ -181,9 +181,10 @@ It frames correction not as clerical nicety but as essential civic infrastructur
 > 
 > - [📛 Bureaucratic Memory Failure & Identity Contamination](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📛_bureaucratic_memory_failure.md) - *how systems misremember people*  
 > - [📡 Cross-System Metadata Echo Chains](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📡_cross_system_metadata_echo_chains.md) - *how data slips between systems, creating falsity and inaccuracy in records*  
-> - [🗃️ Safeguarding Logic Mission Creep & Identity-Pathologising](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md) - *how "safeguarding" can become fascist and/or authoritarian in nature*
-> - [🪼 Who Had Their Voice Stolen?](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🪼_who_had_their_voice_stolen.md) - *example potential complications*
+> - [🗃️ Safeguarding Logic Mission Creep & Identity-Pathologising](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md) - *how "safeguarding" can become fascist and/or authoritarian in nature*  
+> - [🪼 Who Had Their Voice Stolen?](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🪼_who_had_their_voice_stolen.md) - *example potential complications*  
 > - [🐝 Audit Stinger](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/🐝_audit_stinger.md) - *example audit work to proactively help survivors correct their records*  
-> - [⚖️ Official Secrets Reform and Accountability](./⚖️_official_secrets_reform_and_accountability.md) - *the OSA **must** change to assist in other organisations' duties to correct records*  
+> - [⚖️ Official Secrets Reform and Accountability](./⚖️_official_secrets_reform_and_accountability.md) - *the OSA **must** change to assist in other organisations' duties to correct records*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
