@@ -1,5 +1,5 @@
 # ⚖️ Official Secrets Reform and Accountability  
-**First created:** 2025-11-12 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-12 | **Last updated:** 2026-01-22  
 *Re-examining secrecy architecture, the “perpetual hook,” and accountability failure in hybrid state–commercial and cyber governance systems.*  
 
 ---
@@ -222,7 +222,8 @@ It documents how secrecy regimes fail under modern governance and cyber conditio
 > - [㊙ Containment Contracts](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/README.md) — *NDAs as governance theatre*  
 > - [⚖️ Defend Forward & Sovereign Cyber Response Ladder](./⚖️_defend_forward_and_sovereign_cyber_response_ladder.md) — *ambiguity-aware cyber posture*  
 > - [🫀 Our Hearts, Our Minds](../../🫀_Our_Hearts_Our_Minds/README.md) — *trauma-aware governance*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
