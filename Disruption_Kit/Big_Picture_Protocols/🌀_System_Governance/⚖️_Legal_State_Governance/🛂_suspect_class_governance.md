@@ -1,5 +1,5 @@
 # 🛂 Suspect Class Governance  
-**First created:** 2025-12-12 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-12 | **Last updated:** 2026-01-22  
 *How “risk-based” frameworks quietly produce suspect classes — and the structural mechanisms by which whole demographics become administratively exceptional.*  
 
 ---
@@ -111,9 +111,10 @@ It documents how neutral-seeming risk frameworks produce unequal governance outc
 >
 > - [⚖️ Non-Consent Psychological Experimentation Gap](../🧪_Development_Experimentation/⚖️_non_consent_psych_experimentation_gap.md) - *unregulated behavioural exposure*  
 > - [🪬 Racialised Threat Construction](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_racialised_threat_construction.md) - *narrative foundations*  
-> - [🧨 Securitisation Feedback Loop](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_securitisation_feedback_loop.md) - *recursive escalation*
-> - [❌ The “Nothing To Hide” Fallacy](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/❌_nothing_to_hide_fallacy.md)  
+> - [🧨 Securitisation Feedback Loop](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_securitisation_feedback_loop.md) - *recursive escalation*  
+> - [❌ The “Nothing To Hide” Fallacy](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/❌_nothing_to_hide_fallacy.md)
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
