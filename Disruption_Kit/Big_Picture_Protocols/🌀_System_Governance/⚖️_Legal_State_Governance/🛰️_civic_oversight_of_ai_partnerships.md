@@ -1,5 +1,5 @@
 # 🛰️ Civic Oversight of AI Partnerships  
-**First created:** 2025-11-22 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-22 | **Last updated:** 2026-01-22  
 *Why FOI, OSINT, and civic audit are structural requirements for any state–AI vendor partnership.*  
 
 ---
@@ -156,8 +156,9 @@ It sets out the transparency and accountability structures that must exist befor
 > - [🧭 Are We Fascist Yet?](../💫_Containment_Logic/🧭_are_we_fascist_yet.md) - *governance drift diagnostic*  
 > - [⚖️ Above the Law — Protofascism Threshold](../💫_Containment_Logic/⚖️_above_the_law_protofascism_threshold.md) - *why caring about politics might be good for you*  
 > - [🛰️ FOI–SAR Dual Audit Protocol](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md) - *your own unconsented taken data is one of your most powerful democratic tools*  
-> - [🧩 Civic SAR Avalanche Method](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧩_civic_sar_avalanche_method.md) - *DDoS but make it papercraft*  
+> - [🧩 Civic SAR Avalanche Method](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧩_civic_sar_avalanche_method.md) - *DDoS but make it papercraft*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
