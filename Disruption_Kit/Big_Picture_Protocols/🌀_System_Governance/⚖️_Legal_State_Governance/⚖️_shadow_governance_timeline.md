@@ -1,5 +1,5 @@
 # ⚖️ Shadow Governance Timeline  
-**First created:** 2025-09-05 | **Last updated:** 2026-01-09  
+**First created:** 2025-09-05 | **Last updated:** 2026-01-22  
 *How cumulative crises since 2008 hollowed governance and expanded reliance on fixers and shadow networks.*  
 
 ---
@@ -68,12 +68,13 @@ It documents how successive crises hollowed state capacity, producing reliance o
 > 📡 Cross-references:
 > 
 > - [⚖️ Operational Dilemma: Fix It vs Chain of Command](../💫_Containment_Logic/⚖️_operational_dilemma_fixit_vs_chain_of_command.md) - *fast and slow methods of control and command*  
-> - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md) - *the case for systematic analysis*
+> - [⚖️ Public Inquiry Business Case](./⚖️_public_inquiry_business_case.md) - *the case for systematic analysis*  
 > - [🧠 The Continuum of Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md)  
 > - [👾 Intent-Free Authoritarian Drift](../💫_Containment_Logic/👾_intent_free_authoritarian_drift.md)  
 > - [🧭 How Authoritarian Drift Feels From the Inside](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_how_authoritarian_drift_feels_from_the_inside.md)  
 > - [🏚️ Authoritarian Drift in Behavioural Research](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🏚️_authoritarian_drift_in_behavioural_research.md)  
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
