@@ -1,5 +1,5 @@
 # ⚙️ High-Friction People and Systemic Mismatch  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-08 | **Last updated:** 2026-01-22  
 *When curiosity meets bureaucracy, sparks are inevitable.*
 
 ---
@@ -72,6 +72,9 @@ The goal isn’t to remove friction but to **convert it into propulsion** — th
 ## 🌌 Constellations  
 ⚙️ Systems Theory · 🧠 Cognitive Divergence · 🧩 Education · 🏛️ Governance  
 
+*Further media:*  
+- [Fashion Is Better When There's Friction](https://www.harpersbazaar.com/fashion/a70011610/personal-style-fashion-friction-maxxing-optimization), Harper's Bazaar.
+
 ---
 
 ## ✨ Stardust  
@@ -83,6 +86,14 @@ high-friction, non-compliance, gifted behaviour, cognitive mismatch, curiosity, 
 *⚙️ High-Friction People and Systemic Mismatch* is a commentary node of the Polaris Protocol.  
 It reframes disruptive intelligence as diagnostic signal: evidence that structure and speed are mis-aligned.  
 
+> 📡 Cross-references:
+> 
+> - [🧩 Friction Patterns](./🧩_friction_patterns.md)
+> - [🦠 Algorithmic Autoimmunity](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🦠_algorithmic_autoimmunity.md)
+> - [🧩 Why the Machine Tags High-Friction Profiles](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_why_the_machine_tags_high_friction_profiles.md)  
+> - [🔮 Predictive Containment and Emergent Friction](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🔮_predictive_containment_and_emergent_friction.md)
+> - [🍉 Friction, Erasure, and the Machine View of Resistance](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_friction_erasure_and_the_machine_view_of_resistance.md)  
+
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-01-22_
