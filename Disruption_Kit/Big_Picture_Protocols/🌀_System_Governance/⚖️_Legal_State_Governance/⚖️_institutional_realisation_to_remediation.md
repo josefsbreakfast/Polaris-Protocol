@@ -1,5 +1,5 @@
 # ⚖️ Institutional Realisation to Remediation  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-22  
 *How institutions move from recognising failure to managing, limiting, or repairing harm.*  
 
 ---
@@ -130,12 +130,13 @@ It documents how institutions move from recognising harm to selecting remediatio
 > 
 > - [📜 Harm Assessment Protocols](./📜_harm_assessment_protocols.md) — *how institutions decide whether harm “counts”*  
 > - [🔁 Post-Realisation Phase](./🔁_post_realisation_phase.md) — *what institutions do once harm is internally acknowledged*  
-> - [💸 The Cost of a Closed Mouth](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/💸_the_cost_of_a_closed_mouth.md) — *truth as a commodity*
-> - [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) - *what functional elite accountability could look like*
+> - [💸 The Cost of a Closed Mouth](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/💸_the_cost_of_a_closed_mouth.md) — *truth as a commodity*  
+> - [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) - *what functional elite accountability could look like*  
 > - [🧟‍♀️ PREVENT’s Frankenstack Architecture](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧟‍♀️_prevents_frankenstack_architecture.md)  
 > - [🐍 Low-Skill Threat Actors, High Systemic Impact](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🐍_low_skill_threat_actors_high_systemic_impact.md)  
 > - [🪬 Professional Profiles with High System Literacy](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪬_professional_profiles_with_high_system_literacy.md)  
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
