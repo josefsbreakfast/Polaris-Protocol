@@ -1,5 +1,5 @@
 # ❓ Why Parliamentary Questions Come First  
-**First created:** 2025-12-26 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-26 | **Last updated:** 2026-01-22  
 *How MPs surface pressure points before positions — and why rural policing appearing early matters.*  
 
 ---
@@ -170,10 +170,11 @@ It is procedural — and that is precisely why it matters.
 > 📡 Cross‑references
 > 
 > - [🧨 Prevent: The Parliamentary Surveillance Machine](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧨_prevent_the_parliamentary_surveillance_machine.md)  
-> - [🏛️ Parliamentary Safeguards — The Missing Curriculum for Power](./🏛️_parliamentary_safeguards.md)
+> - [🏛️ Parliamentary Safeguards — The Missing Curriculum for Power](./🏛️_parliamentary_safeguards.md)  
 > - [👁️‍🗨️ Mindfuck Reflex — Obama Lineage and UK Fragmentation](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/👁️‍🗨️_mindfuck_reflex.md)  
-> - [🏉 Regaining Possession](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🏉_regaining_possession.md)  
+> - [🏉 Regaining Possession](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🏉_regaining_possession.md)
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
