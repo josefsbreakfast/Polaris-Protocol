@@ -1,5 +1,5 @@
 # ⚖️ Risk Aversion Is Policy  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *Why institutional “caution” is a value choice that actively shapes harm.*  
 
 ---
@@ -201,7 +201,8 @@ It documents how institutional caution functions as an unacknowledged governing 
 > - [⚖️ Elite Impunity Is a National Security Risk](./⚖️_elite_impunity_is_a_national_security_risk.md) — *downstream exposure*  
 > - [🕳️ When the Censor Is a Contractor](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕳️_when_the_censor_is_a_contractor.md) - *how elite parties and parties with significant capital outsource the gagging of anyone and everyone*  
 > - [📿 Women, Whistleblowers, & Prevent Drag](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/📿_women_whistleblowers_prevent_drag.md) - *how the UK's "counterterrorism" policies and practice multiply this impact for femme-coded survivors of SV*  
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
