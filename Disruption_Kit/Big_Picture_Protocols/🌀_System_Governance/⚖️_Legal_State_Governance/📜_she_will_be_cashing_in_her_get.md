@@ -1,5 +1,5 @@
 # 📜 She Will Be Cashing In Her *Get*  
-**First created:** 2026-01-11 | **Last updated:** 2026-01-11  
+**First created:** 2026-01-11 | **Last updated:** 2026-01-22  
 *On extraction, neglected obligation, and enforced severance under conditions of intimate harm.*  
 <!--She even gave fair notice.-->  
 ---
@@ -190,12 +190,11 @@ It examines how long-standing legal–ethical systems recognise that intimate ac
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md) — *contractual over-extension and extraction*
-> 
-> - [⚖️ Compliance as Opacity](./⚖️_compliance_as_opacity.md) — *legality without accountability*
-> 
-> - [🫜 Divorce Support](../../../Field_Logs/20251001_October_2025/🫜_divorce_support.md) — *enforced exit as protection*  
+> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md) — *contractual over-extension and extraction*  
+> - [⚖️ Compliance as Opacity](./⚖️_compliance_as_opacity.md) — *legality without accountability*  
+> - [🫜 Divorce Support](../../../Field_Logs/20251001_October_2025/🫜_divorce_support.md) — *enforced exit as protection*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-11_
+_Last updated: 2026-01-22_
