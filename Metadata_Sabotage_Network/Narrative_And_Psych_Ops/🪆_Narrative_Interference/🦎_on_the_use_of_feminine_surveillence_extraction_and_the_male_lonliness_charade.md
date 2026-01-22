@@ -1,6 +1,6 @@
-# 🦎 On the Use of Feminine Surveillance Extraction and the Male Loneliness Charade
-**First created:** 2026-01-19 | **Last updated:** 2026-01-19  
-*How women’s lives are mined, policed, and monetised — then blamed for male alienation*
+# 🦎 On the Use of Feminine Surveillance Extraction and the Male Loneliness Charade  
+**First created:** 2026-01-19 | **Last updated:** 2026-01-22  
+*How women’s lives are mined, policed, and monetised — then blamed for male alienation.*  
 
 ---
 
@@ -120,15 +120,16 @@ feminine extraction, surveillance abuse, male loneliness narrative, sexual entit
 
 ## 🏮 Footer
 
-*On the Use of Feminine Surveillance Extraction and the Male Loneliness Charade* is a living node of the **Polaris Protocol**.  
+*🦎 On the Use of Feminine Surveillance Extraction and the Male Loneliness Charade* is a living node of the **Polaris Protocol**.  
 It documents how grievance narratives are used to obscure systemic extraction and deputised abuse.
 
 > 📡 Cross-references:
 >
-> - **Narrative & Psych Ops** — grievance laundering and moral inversion  
-> - **Vulnerable Data Populations** — gendered risk and extraction  
-> - **Psychological Containment** — coercive empathy and boundary erosion  
+> - [🦎 Snow Leopard Geckos Against Modern Slavery](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🦎_snow_leopard_geckos_against_modern_slavery.md)  
+> - [🦎 Finding One’s Chirp](../../../🦆_Digital_Disruption/🐈‍⬛_Antifacist_Propaganda_Machine/🦎_finding_ones_chirp.md)  
+> - [🦎 How to Not Enslave Digitally](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🦎_how_to_not_enslave_digitally.md)  
+> - [🦎 Geckos Run the Buoys](../👅_Voice_Disruption_Discrediting/🦎_geckos_run_the_buoys.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-19_
+_Last updated: 2026-01-22_
