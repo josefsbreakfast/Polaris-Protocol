@@ -1,5 +1,5 @@
 # 📡 The Governance of Bodies That Refuse  
-**First created:** 2025-12-12 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-12 | **Last updated:** 2026-01-22  
 *How states attempt to regulate non-cooperative bodies — and what refusal reveals about the limits of sovereign design.*  
 
 ---
@@ -147,9 +147,10 @@ It examines how governance architectures respond to non-cooperative bodies and w
 > - [⚖️ The Refusal Body as Unmanageable Risk](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/⚖️_the_refusal_body_as_unmanageable_risk.md) - *when the body which is non-compliant with systems, refuses*  
 > - [🧨 Exceptional Sovereignty in Pretrial Detention](./🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md) - *the particular danger zone of non-standard detentions, medical crises, and emergency powers; case example as Palestine Action hunger strikers currently on remand and in critical condition*  
 > - [🔥 When Refusal Is Framed as Threat](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md) - *when you say "no" and others feel a slap*  
-> - [🔮 Visibility Collapse of Dissenting Bodies](../../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md) - *how bodies which refuse, are buried from view*  
+> - [🔮 Visibility Collapse of Dissenting Bodies](../../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md) - *how bodies which refuse, are buried from view*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
