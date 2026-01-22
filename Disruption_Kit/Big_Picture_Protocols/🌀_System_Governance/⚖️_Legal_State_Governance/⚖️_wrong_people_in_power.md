@@ -1,6 +1,6 @@
 # ⚖️ Wrong People in Power  
-**First created:** 2025-09-05 | **Last updated:** 2026-01-09  
-*Why suppression operations persist when the authorising class is compromised or unwilling.*
+**First created:** 2025-09-05 | **Last updated:** 2026-01-22  
+*Why suppression operations persist when the authorising class is compromised or unwilling.*  
 
 ---
 
@@ -54,8 +54,9 @@ It documents how suppression operations are sustained by political actors who be
 > - [⚔️ War on Woke as Containment Architecture](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md) - *what they won't stfu about*  
 > - [🌀 The Authoritarian Personality Loop](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌀_authoritarian_personality_loop.md) - *why they won't stfu about it*  
 > - [🐣 Canaries and Cassandras — Early Warnings in a System That Won’t Listen](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐣_canaries_and_cassandras.md) - *who tells them to stfu first*  
-> - [🪖 Home Front 2.0](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/README.md) - *practical things to do until they stfu*  
+> - [🪖 Home Front 2.0](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/README.md) - *practical things to do until they stfu*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
