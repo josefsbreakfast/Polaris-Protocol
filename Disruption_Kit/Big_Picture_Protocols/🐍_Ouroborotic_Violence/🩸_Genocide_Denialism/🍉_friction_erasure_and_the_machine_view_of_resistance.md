@@ -1,5 +1,5 @@
 # 🍉 Friction, Erasure, and the Machine View of Resistance  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-05 | **Last updated:** 2026-01-22  
 *How untrained AI logic learns to treat Palestinian life — and other marginalised resistance — as systemic friction.*
 
 ---
@@ -96,9 +96,9 @@ and that safeguarding life requires continuous retraining so that genocide remai
 > 📡 Cross-references:
 > 
 > - [⚙️ Friction Minimisation Logic](../🗝️_Politics_Memory_Work/⚙️_friction_minimisation_logic.md) — *why optimisation mistakes violence for efficiency*  
-> - 🩵 Kindness as Correct Training — *pedagogy of care as safeguard*  
+> - [*Pending:* 🩵 Kindness as Correct Training] — *pedagogy of care as safeguard*  
 > - [🃏 The Fool Protocol — AI Ethics Through Tarot](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🃏_the_fool_protocol_ai_ethics_through_tarot.md) — *narrative ethics for moral development*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-01-22_
