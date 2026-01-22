@@ -1,7 +1,7 @@
 # 🦎 How to Not Enslave Digitally  
-**First created:** 2026-01-20 | **Last updated:** 2026-01-20  
+**First created:** 2026-01-20 | **Last updated:** 2026-01-22  
 *Using leopard geckos to explain what ethical systems must refuse to do.*
-<!--I also knpw who is doing this bit. I am fully allowed to be absolutely furious. Being angry at this not being picked up by a "world leader" in modern slavery? That is not terrorism, and wrapping it up as national security? That is the domestic terrorism.-->
+
 ---
 
 ## 🛰️ Orientation  
@@ -123,4 +123,4 @@ It exists to make coercive design legible so it can be refused — socially, tec
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-20_
+_Last updated: 2026-01-22_
