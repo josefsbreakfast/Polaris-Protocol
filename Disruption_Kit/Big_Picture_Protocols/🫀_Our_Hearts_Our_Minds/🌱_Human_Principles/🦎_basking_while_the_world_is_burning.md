@@ -1,5 +1,5 @@
 # 🦎 Basking While the World Is Burning  
-**First created:** 2026-01-12 | **Last updated:** 2026-01-12  
+**First created:** 2026-01-12 | **Last updated:** 2026-01-22  
 *Staying alive, sane, and human when systems reward noise, urgency, and self-sacrifice.*  
 
 ---
@@ -224,11 +224,9 @@ It affirms rest, discernment, and embodied presence as legitimate responses to o
 > 📡 Cross-references:
 > 
 > - [🦎 Snow Leopard Geckos Against Modern Slavery](../../🌀_System_Governance/🧪_Development_Experimentation/🦎_snow_leopard_geckos_against_modern_slavery.md)  
->
-> - [🦎 Algorithmic Autotomy](../../🌀_System_Governance/👑_Ownership_Control/🦎_alogorithmic_autotomy.md)  
->
+> - [🦎 Algorithmic Autotomy](../../🌀_System_Governance/👑_Ownership_Control/🦎_algorithmic_autotomy.md)  
 > - [🐍 Snake Bites and Stolen Voices](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-12_
+_Last updated: 2026-01-22_
