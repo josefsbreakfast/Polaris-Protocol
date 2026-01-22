@@ -1,5 +1,5 @@
 # 🍉 Why The Long Prison Stay?  
-**First created:** 2025-12-19 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-19 | **Last updated:** 2026-01-22  
 *How prolonged remand happens, why it is exceptional, and what it costs the taxpayer.*  
 
 ---
@@ -363,7 +363,8 @@ It documents how prolonged remand emerges, why it is exceptional, and why it is 
 > - [⚖️ Elbit Systems UK — Legal & Control Structure](./⚖️_elbit_systems_uk_legal_structure.md)  
 > - [⚖️ Presumption of Innocence and the Limits of Exceptional Power](./⚖️_presumption_of_innocence_and_the_limits_of_exceptional_power.md)  
 > - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)](./🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md)  
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
