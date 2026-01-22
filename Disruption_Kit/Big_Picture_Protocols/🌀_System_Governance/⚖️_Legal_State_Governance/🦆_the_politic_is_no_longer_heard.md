@@ -1,5 +1,5 @@
 # 🦆 The Politic Is No Longer Heard  
-**First created:** 2025-11-16 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-16 | **Last updated:** 2026-01-22  
 *On the vanishing feedback loop between public life and political hearing.*  
 
 ---
@@ -70,8 +70,9 @@ It analyses the structural disappearance of direct democratic hearing and the ri
 > 
 > - [🌱 Love Is Antifascist](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌱_love_is_antifascist.md) - *as advertised*  
 > - [🪖 Home Front 2.0](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/README.md) - *breathing antifascism into daily life*
-> - [✨ Glimmer Is Taxable And Other Big Drums](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/README.md) - *for those of us who need it in a JSP*  
+> - [✨ Glimmer Is Taxable And Other Big Drums](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/README.md) - *for those of us who need it in a JSP*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
