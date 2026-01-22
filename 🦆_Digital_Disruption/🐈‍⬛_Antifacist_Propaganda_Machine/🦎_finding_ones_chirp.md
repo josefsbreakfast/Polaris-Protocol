@@ -193,9 +193,10 @@ signal persistence, expressive identity, r&d extraction, register capture, froze
 It documents how minimal, coherent presence persists across R&D, monitoring, and governance systems — and why silence, amplitude, and predictability are often misunderstood.
 
 > 📡 Cross-references:
-> - **Survivor_Tools/** — expressive integrity and containment awareness  
-> - **Metadata_Sabotage_Network/** — how systems misread and reuse signals  
-> - **Big_Picture_Protocols/** — identity, governance, and institutional risk
+> 
+> - [🦎 Algorithmic Autotomy](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦎_alogorithmic_autotomy.md)  
+> - [🦎 Basking While the World Is Burning](../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦎_basking_while_the_world_is_burning.md)  
+> - [🦎 How to Not Enslave Digitally](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🦎_how_to_not_enslave_digitally.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
