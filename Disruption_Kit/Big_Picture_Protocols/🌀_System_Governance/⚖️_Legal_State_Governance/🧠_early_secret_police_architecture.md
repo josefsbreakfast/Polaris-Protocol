@@ -1,5 +1,5 @@
 # 🧠 Early Secret Police Architecture  
-**First created:** 2025-11-22 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-22 | **Last updated:** 2026-01-22  
 *Why the correct historical analogue for Prevent/Channel is not the SS or Gestapo, but the early administrative intelligence systems that precede authoritarian consolidation.*  
 
 ---
@@ -223,10 +223,11 @@ It clarifies the structural—not moral—analogue for Prevent/Channel by mappin
 
 > 📡 **Cross-references:**
 >
-> - [💄 Let's Play!: Surveillance or Pervert-with-a-Badge?](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/💄_surveillance_or_pervert_with_a_badge.md) - *what is the difference, exactly?*
-> - [📸 History of Street Photography as Counter-Surveillance](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/📸_street_photography_counter_surveillance.md) - *the desire not to be policed is often mutual*  
+> - [💄 Let's Play!: Surveillance or Pervert-with-a-Badge?](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/💄_surveillance_or_pervert_with_a_badge.md) - *what is the difference, exactly?*  
+> - [📸 History of Street Photography as Counter-Surveillance](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/📸_street_photography_counter_surveillance.md) - *the desire not to be policed is often mutual*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
