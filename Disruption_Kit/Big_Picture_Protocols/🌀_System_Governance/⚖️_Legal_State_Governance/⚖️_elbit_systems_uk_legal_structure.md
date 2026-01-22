@@ -1,5 +1,5 @@
 # ⚖️ Elbit Systems UK — Legal & Control Structure  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *Formal ownership, control vectors, and limits of disclosure in the UK context.*  
 
 ---
@@ -159,8 +159,9 @@ It records formal ownership, practical control mechanisms, and the limits of pub
 > - [🛰️ OSINT Field Operations](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md)- *how to trace the ghosts of hot money*
 > - [🍉 Why The Long Prison Stay](./🍉_why_the_long_prison_stay.md)  
 > - [🔥 Hunger Strike Comparisons](./🔥_hunger_strike_comparisons.md)  
-> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md)  
+> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md)
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
