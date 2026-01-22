@@ -1,5 +1,5 @@
 # ⚖️ Non-Prosecution Teaches Impunity  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *How repeated non-action reshapes behaviour, incentives, and the moral economy of the law.*  
 
 ---
@@ -183,8 +183,9 @@ It documents how repeated non-action reshapes incentives and undermines deterren
 > - [⚖️ Where Prosecutorial Discretion Lives](./⚖️_where_prosecutorial_discretion_lives.md) — *decision mechanics*  
 > - [⚖️ Elite Impunity Is a National Security Risk](./⚖️_elite_impunity_is_a_national_security_risk.md) — *downstream exposure*  
 > - [🌾 Impunity as Fertile Ground](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌾_impunity_as_fertile_ground.md) - *why rape prevention cannot exist without dismantling permission structures*
-> - [⚖️ Norman Law and the Geometry of Impunity](../../🦕_Elder_Influencers/📜_Statutes/⚖️_norman_law_and_the_geometry_of_impunity.md) - *how it is even legally possible to have less real-terms legal protection when one is **not** treated as property of a male*  
+> - [⚖️ Norman Law and the Geometry of Impunity](../../🦕_Elder_Influencers/📜_Statutes/⚖️_norman_law_and_the_geometry_of_impunity.md) - *how it is even legally possible to have less real-terms legal protection when one is **not** treated as property of a male*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
