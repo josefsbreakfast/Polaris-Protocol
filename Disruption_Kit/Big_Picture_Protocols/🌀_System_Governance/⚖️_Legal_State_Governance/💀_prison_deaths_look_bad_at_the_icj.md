@@ -1,5 +1,5 @@
 # 💀 Prison Deaths Look Bad at the ICJ  
-**First created:** 2025-12-17 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-17 | **Last updated:** 2026-01-22  
 *Domestic acceptance of foreseeable custodial death corrodes a state’s credibility in genocide-prevention litigation.*  
 
 ---
@@ -97,11 +97,12 @@ It documents how domestic governance failures reverberate into international leg
 > - [🦤 The Just-Eat Hunger Strike Tit](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🦤_the_just_eat_hunger_strike_tit.md) - *the sound of the JEHS tit in the wild*  
 > - [🍉 Why The Long Prison Stay](./🍉_why_the_long_prison_stay.md) - *why whining about hunger strikers does not beat austerity for the common Briton; hence, the sounding like a tit*  
 > - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) - *fleshed out working diagnosis of anti-hunger-striking campaign*  
-> - [⚖️ Presumption of Innocence and the Limits of Exceptional Power](./⚖️_presumption_of_innocence_and_the_limits_of_exceptional_power.md) - *how criminal justice is supposed to work, on paper, in a "rule of law" system*
+> - [⚖️ Presumption of Innocence and the Limits of Exceptional Power](./⚖️_presumption_of_innocence_and_the_limits_of_exceptional_power.md) - *how criminal justice is supposed to work, on paper, in a "rule of law" system*  
 > - [🧨 Exceptional Sovereignty in Pretrial Detention](./🧨_exceptional_sovereignty_and_the_hunger_strike_in_pretrial_security_detention.md) - *detail on the specific moral and legal clashes in the hunger strikers case, and why this is exceptionally dangerous to them and to the nation entire*  
 > - [🔥 Hunger Strike as Counter-Sovereignty](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md) - *how hunger strikes function as a reclaimation of personal sovereignity and dignity, without minimising the extreme risk they pose to those who participate in them*  
-> - [📊 Risk, Capital, and Hunger Strikes](./📊_risk_capital_and_hunger_strikes.md) - *how risk managment and private capital interact with bodily democratic expression*  
+> - [📊 Risk, Capital, and Hunger Strikes](./📊_risk_capital_and_hunger_strikes.md) - *how risk managment and private capital interact with bodily democratic expression*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
