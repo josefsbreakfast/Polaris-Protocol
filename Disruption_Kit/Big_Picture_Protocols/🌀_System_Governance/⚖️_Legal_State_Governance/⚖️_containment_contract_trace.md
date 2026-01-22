@@ -1,5 +1,5 @@
 # ⚖️ Containment Contract Trace  
-**First created:** 2025-08-07 | **Last updated:** 2026-01-11  
+**First created:** 2025-08-07 | **Last updated:** 2026-01-22  
 *How contractual over-extension, compliance logic, and extraction pipelines produce suppression, legal insulation, and forced visibility.*  
 
 ---
@@ -272,17 +272,14 @@ It documents how legality is manufactured through contracting and secrecy, produ
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Compliance as Opacity](./⚖️_compliance_as_opacity.md)
->  
-> - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md)
-> 
+> - [⚖️ Compliance as Opacity](./⚖️_compliance_as_opacity.md)  
+> - [⚖️ Authorisation and Oversight](./⚖️_authorisation_and_oversight.md)  
 > - [⏳ Hinge Point: When Delay Becomes Liability](./⏳_hinge_point_when_delay_becomes_liability.md)  
-> - [⚖️ Cluedo Certainty vs Court Certainty](./⚖️_cluedo_certainty_vs_court_certainty.md)
-> 
-> - [🩹 Patch Repair Governance](../💫_Containment_Logic/🩹_patch_repair_governance.md) - *containment systems as stitched patchwork with holes aplenty*
-> 
-> - [🫜 Divorce Support](../../../Field_Logs/20251001_October_2025/🫜_divorce_support.md) - *דו ביסט באַרעכטיקט*  
+> - [⚖️ Cluedo Certainty vs Court Certainty](./⚖️_cluedo_certainty_vs_court_certainty.md)  
+> - [🩹 Patch Repair Governance](../💫_Containment_Logic/🩹_patch_repair_governance.md) - *containment systems as stitched patchwork with holes aplenty*  
+> - [🫜 Divorce Support](../../../Field_Logs/20251001_October_2025/🫜_divorce_support.md) - *דו ביסט באַרעכטיקט*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-11_
+_Last updated: 2026-01-22_
