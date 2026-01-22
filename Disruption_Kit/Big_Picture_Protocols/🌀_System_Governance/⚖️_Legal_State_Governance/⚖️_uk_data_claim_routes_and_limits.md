@@ -1,5 +1,5 @@
 # ⚖️ UK Data Claim Routes and Limits  
-**First created:** 2025-11-02 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-02 | **Last updated:** 2026-01-22  
 *ICO, Small‑Claims, and Multi‑Track explained – a civic guide to UK data‑rights pathways.*  
 
 ---
@@ -94,10 +94,11 @@ uk data rights, ico complaints, small claims track, multi track litigation, data
 > 📡 Cross‑references:  
 > 
 > - [🔍 How to Trace Event Data Flows](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🔍_how_to_trace_event_data_flows.md) — *practical companion for evidence gathering*  
-> - [🏏 Pitch Palace Outpicture Paths](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice) — *audit practice for when one is rained off*
-> - [📜 ICO-Ready Contradiction Framing](../../../Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_ico_ready_contradiction_framing.md)
-> - [❌ NCND Technique](../../🦕_Elder_Influencers/📜_Statutes/❌_ncnd_technique.md)  
+> - [🏏 Pitch Palace Outpicture Paths](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice) — *audit practice for when one is rained off*  
+> - [📜 ICO-Ready Contradiction Framing](../../../Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_ico_ready_contradiction_framing.md)  
+> - [❌ NCND Technique](../../🦕_Elder_Influencers/📜_Statutes/❌_ncnd_technique.md)
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
