@@ -1,5 +1,5 @@
 # ⚖️ Courts as Sites of Harm — When Justice Architecture Becomes Trauma Architecture  
-**First created:** 2025-12-10 | **Last updated:** 2026-01-12  
+**First created:** 2025-12-10 | **Last updated:** 2026-01-22  
 *Why legal venues designed for justice routinely inflict secondary harm — especially on survivors, disabled claimants, and people targeted by false or malicious reporting.*  
 
 ---
@@ -171,17 +171,13 @@ It situates courts not only as forums of justice but as repeated environments of
 > 📡 Cross-references:
 > 
 > - [⚖️ How the CPS Operates](./⚖️_how_the_cps_operates.md) — *explains how procedural independence functions in UK prosecution, and why correctness of process does not prevent downstream harm*  
-> 
 > - [⚖️ Heavy Bundles: CPS, VPS, Centralisation, and High-Control Analysis](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/⚖️_heavy_bundle_cps_vps_centralisation.md) — *documents existing digital and administrative harms produced by centralised justice workflows*  
-> 
 > - [*Pending:* 🧱 Hostile Architecture vs Universal Design] — *extends the analysis from courts to physical and procedural design choices that produce harm regardless of intent*  
-> 
 > - [🦁 Gender-Defiance Targeting & Vexatious Complaint Logic](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦁_gender_defiance_targeting_and_vexatious_complaint_logic.md) — *shows how nonconforming identity increases exposure to complaint-driven legal and administrative processes*  
-> 
 > - [🦔 Enrolment Trauma Risks](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🦔_enrolment_trauma_risks.md) — *maps how forced participation in institutional systems compounds trauma and degrades capacity*  
-> 
-> - [⚖️ Borrowed Legitimacy and Moral Sorting](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_borrowed_legitimacy_and_moral_sorting.md) — *explains how courts and allied institutions implicitly sort credibility and moral worth*  
+> - [⚖️ Borrowed Legitimacy and Moral Sorting](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/⚖️_borrowed_legitimacy_and_moral_sorting.md) — *explains how courts and allied institutions implicitly sort credibility and moral worth*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-12_
+_Last updated: 2026-01-22_
