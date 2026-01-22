@@ -1,5 +1,5 @@
 # 🧨 The Schmittian Drift in Exceptional Detention Governance  
-**First created:** 2025-12-12 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-12 | **Last updated:** 2026-01-22  
 *How emergency logic becomes ordinary governance — and why pretrial hunger strike crises expose this drift.*  
 
 ---
@@ -130,8 +130,9 @@ schmittian drift, exceptional detention, counter-terrorism overreach, pretrial g
 > - [⚖️ Presumption of Innocence and the Limits of Exceptional Power](./⚖️_presumption_of_innocence_and_the_limits_of_exceptional_power.md) - *the tension between rule of law and "emergency powers" and the risk of democratic breakdown*  
 > - [⚠️ Erosion of Duty of Care Under Exception Logic](./⚠️_the_erosion_of_duty_of_care_under_exception_logic.md) - *how usual legal protections of the person break down when states claim "emergency"*  
 > - [🔥 When Refusal Is Framed as Threat](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md) - *when you say "no" and others feel a slap*  
-> - [🏨 Hotels, Protests, and Power Consolidation](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🏨_hotels_protests_and_power_consolidation.md) - *Schmitt logic in hotels and immigrant detention "management" narratives*
+> - [🏨 Hotels, Protests, and Power Consolidation](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🏨_hotels_protests_and_power_consolidation.md) - *Schmitt logic in hotels and immigrant detention "management" narratives*  
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
