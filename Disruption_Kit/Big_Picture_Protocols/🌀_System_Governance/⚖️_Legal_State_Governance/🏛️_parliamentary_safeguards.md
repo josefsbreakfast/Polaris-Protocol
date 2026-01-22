@@ -1,5 +1,5 @@
 # 🏛️ Parliamentary Safeguards — The Missing Curriculum for Power  
-**First created:** 2025-10-23 | **Last updated:** 2026-01-09  
+**First created:** 2025-10-23 | **Last updated:** 2026-01-22  
 *When the people shaping the law don’t understand its human subjects.*  
 
 ---
@@ -67,8 +67,9 @@ It documents the training void at the heart of governance and proposes a pedagog
 > 
 > - [🌿 The Paradox of Recognition — Polaris in the Wild](../../🦕_Elder_Influencers/🕊️_Just_Boxes/🌿_the_paradox_of_recognition.md) - *what happens when politicians don't understand the tech they work with*  
 > - [🗣️ Survivor Scripts and Institutional Voice-Over](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🗣️_survivor_scripts_and_institutional_voiceover.md) - *how they take your voice (ordinary route)*  
-> - [🧾 Credibility Logs — The Forensics of Restoration](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧾_forensics_of_restoration.md) - *paperwork when protecting and documenting the narrative*  
+> - [🧾 Credibility Logs — The Forensics of Restoration](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🧾_forensics_of_restoration.md) - *paperwork when protecting and documenting the narrative*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
