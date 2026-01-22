@@ -1,5 +1,5 @@
 # ⚖️ Elite Impunity Is a National Security Risk  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *How tolerated elite wrongdoing creates blackmail exposure, coercion vectors, and democratic fragility.*  
 
 ---
@@ -333,8 +333,9 @@ It documents how tolerated elite wrongdoing converts private misconduct into str
 > - [🦑 C.R.A.K.E.N. System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological risk and threat mapping*
 > - [🕎 The Esther Protocol](./🕎_the_esther_protocol.md)  
 > - [✈️ The Dragging-Out of Predictable Let-Down](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/✈️_the_dragging_out_of_predictable_let_down.md)  
-> - [🌀 Recognition Without Resolution](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution.md)  
+> - [🌀 Recognition Without Resolution](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution.md)
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
