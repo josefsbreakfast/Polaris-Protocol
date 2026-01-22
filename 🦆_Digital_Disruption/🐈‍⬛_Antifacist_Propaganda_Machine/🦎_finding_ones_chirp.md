@@ -197,6 +197,7 @@ It documents how minimal, coherent presence persists across R&D, monitoring, and
 > - [🦎 Algorithmic Autotomy](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦎_alogorithmic_autotomy.md)  
 > - [🦎 Basking While the World Is Burning](../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦎_basking_while_the_world_is_burning.md)  
 > - [🦎 How to Not Enslave Digitally](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🦎_how_to_not_enslave_digitally.md)  
+> - [🦎 Geckos Run the Buoys](../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🦎_geckos_run_the_buoys.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
