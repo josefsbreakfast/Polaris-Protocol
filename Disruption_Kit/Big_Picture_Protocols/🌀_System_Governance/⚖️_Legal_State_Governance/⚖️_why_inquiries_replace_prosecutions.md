@@ -1,5 +1,5 @@
 # ⚖️ Why Inquiries Replace Prosecutions  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *How accountability theatre becomes a substitute for justice.*  
 
 ---
@@ -93,8 +93,9 @@ It documents how governance mechanisms absorb pressure while avoiding legal reck
 > - [⚖️ How the CPS Operates](./⚖️_how_the_cps_operates.md) - *what "independence" actually means*  
 > - [⚖️ We Do Have to Prosecute the Elite, Actually](./⚖️_we_do_have_to_prosecute_the_elite_actually.md) — *accountability as public good*  
 > - [🧨 If You Don’t Prosecute, You Invite Predators](./🧨_if_you_dont_prosecute_you_invite_predators.md) — *opportunity signalling*  
-> - [⚖️ Non-Prosecution Teaches Impunity](./⚖️_non_prosecution_teaches_impunity.md) — *behavioural learning*  
+> - [⚖️ Non-Prosecution Teaches Impunity](./⚖️_non_prosecution_teaches_impunity.md) — *behavioural learning*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
