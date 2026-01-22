@@ -1,5 +1,5 @@
 # 🍉 Why Peacetime vs Wartime Matters For Democracy  
-**First created:** 2025-12-18 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-18 | **Last updated:** 2026-01-22  
 *Why legal posture, not narrative intensity, determines the boundaries of democratic action.*  
 
 ---
@@ -141,8 +141,9 @@ It exists to defend democratic clarity when narrative intensity threatens to out
 > 
 > - [🪼 Who Is Acting?](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🪼_who_is_acting.md) — *attribution and authority under fog*  
 > - [⚖️ War Logic in Peacetime](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/⚖️_war_logic_in_peacetime.md) — *mapping the quiet escalation of the new Lukewarm War*  
-> - [⚔️ War on Woke as Containment Architecture](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md) — *how to nudge a population into offensive-defence posturing*  
+> - [⚔️ War on Woke as Containment Architecture](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md) — *how to nudge a population into offensive-defence posturing*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
