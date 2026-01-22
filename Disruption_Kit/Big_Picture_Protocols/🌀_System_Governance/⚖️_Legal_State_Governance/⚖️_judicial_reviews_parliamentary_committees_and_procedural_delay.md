@@ -1,5 +1,5 @@
 # ⚖️ Judicial Reviews, Parliamentary Committees, and Procedural Delay  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *How lawful process is used to manage exposure, absorb pressure, and preserve continuity.*  
 
 ---
@@ -457,10 +457,11 @@ It explains how **lawful process can coexist with preventable harm**, and why me
 > 
 > - [⚖️ Judicial Deference](./⚖️_judicial_deference.md) — *courts outsourcing responsibility*  
 > - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md) — *oversight without remedy*  
-> - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md) — *closure without repair*
-> - [🍉 Palestine](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/README.md) — *cluster tracing mechanisms of denial of the genocide of Palestinian lives*
-> - [🍉 Why Do We Care About Palestine](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md) — *why Western Jews are obligated care about Palestinian liberation, in order to acheive political emancipation in the West, due to the terms of citizenship set by the West*  
+> - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md) — *closure without repair*  
+> - [🍉 Palestine](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/README.md) — *cluster tracing mechanisms of denial of the genocide of Palestinian lives*  
+> - [🍉 Why Do We Care About Palestine](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md) — *why Western Jews are obligated care about Palestinian liberation, in order to acheive political emancipation in the West, due to the terms of citizenship set by the West*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
