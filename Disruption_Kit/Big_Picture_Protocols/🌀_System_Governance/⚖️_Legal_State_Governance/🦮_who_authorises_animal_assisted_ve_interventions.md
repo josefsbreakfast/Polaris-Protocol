@@ -1,5 +1,5 @@
 # 🦮 Who Authorises Animal-Assisted VE Interventions in the UK?  
-**First created:** 2025-11-14 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-14 | **Last updated:** 2026-01-22  
 *A governance-mapping node clarifying which UK actors could legitimately authorise, supervise, or deliver animal-assisted stabilisation work for individuals flagged for vulnerability or early-intervention risk — and why counter‑terrorism bodies are categorically excluded.*  
 
 ---
@@ -177,6 +177,8 @@ AAT, clinical governance, vulnerability pathways, trauma stabilisation, VE adjac
 
 ## 🏮 Footer  
 *🦮 Who Authorises Animal‑Assisted VE Interventions in the UK?* provides a clear governance map locating animal-assisted stabilisation strictly within healthcare and clinical research.  
-It defines the lawful, ethical paths and the hard boundaries separating these from counter‑terrorism frameworks.
+It defines the lawful, ethical paths and the hard boundaries separating these from counter‑terrorism frameworks.  
 
-_Last updated: 2026-01-09_
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
+
+_Last updated: 2026-01-22_
