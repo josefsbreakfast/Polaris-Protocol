@@ -1,6 +1,6 @@
-# 🦎 Snow Leopard Geckos Against Modern Slavery
-**First created:** 2026-01-12 | **Last updated:** 2026-01-12  
-*How small-n behavioural anchors, degraded guardrails, and frozen references create coercive systems — and why harmless variance becomes a legal alarm bell.*
+# 🦎 Snow Leopard Geckos Against Modern Slavery  
+**First created:** 2026-01-12 | **Last updated:** 2026-01-22  
+*How small-n behavioural anchors, degraded guardrails, and frozen references create coercive systems — and why harmless variance becomes a legal alarm bell.*  
 
 ---
 
@@ -481,11 +481,13 @@ It documents how mathematically fragile systems, when left unexamined, can exter
 > 📡 Cross-references:
 > 
 > - [🦎 Basking While the World Is Burning](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦎_basking_while_the_world_is_burning.md)  
->
 > - [🦎 Algorithmic Autotomy](../👑_Ownership_Control/🦎_alogorithmic_autotomy.md)  
->
 > - [🇬🇧🧪 How Not To Do MKUltra: Grimley Edition](./🇬🇧🧪_how_not_to_do_mk_ultra_grimley_edition.md)  
+> - [🦎 How to Not Enslave Digitally](../🛰️_Infrastructure_Procurement/🦎_how_to_not_enslave_digitally.md)  
+> - [🦎 Geckos Run the Buoys](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🦎_geckos_run_the_buoys.md)  
+> - [🦎 On the Use of Feminine Surveillance Extraction and the Male Loneliness Charade](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🦎_on_the_use_of_feminine_surveillence_extraction_and_the_male_lonliness_charade.md)  
+> - [🦎 Finding One’s Chirp](../../../../🦆_Digital_Disruption/🐈‍⬛_Antifacist_Propaganda_Machine/🦎_finding_ones_chirp.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-12_
+_Last updated: 2026-01-22_
