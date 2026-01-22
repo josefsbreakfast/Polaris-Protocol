@@ -1,5 +1,5 @@
 # 🐕 Reading the Dog Whistle — Bureaucratic Language and Atrocity Risk  
-**First created:** 2025-10-17 | **Last updated:** 2026-01-09  
+**First created:** 2025-10-17 | **Last updated:** 2026-01-22  
 *How coded language in official documents conceals intent and signals complicity.*  
 
 ---
@@ -60,8 +60,9 @@ It records how language disguises violence inside ordinary paperwork and why dec
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Due Diligence as Moral Defence](./⚖️_due_diligence_as_moral_defence.md) - *how sensible checks protect us from perpetrating violence*
-> - [🏛️ How Genocidal Bureaucracy Operates — The Wannsee Template](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🏛️_wannsee_template_bureaucratic_genocide.md) - *how the paperwork of atrocities has happened before*
+> - [⚖️ Due Diligence as Moral Defence](./⚖️_due_diligence_as_moral_defence.md) - *how sensible checks protect us from perpetrating violence*  
+> - [🏛️ How Genocidal Bureaucracy Operates — The Wannsee Template](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🏛️_wannsee_template_bureaucratic_genocide.md) - *how the paperwork of atrocities has happened before*  
 > - [🕌 Muslims as Primary Outgroup in Holocaust Mechanism](../../🦕_Elder_Influencers/🕸️_World_Webs/🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md) - *fascists copy-pasted antisemitism onto Muslims and they are ramping up violence, because they are the least creative people on the planet and desperately need an alternative (non-harmful) outlet*  
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
