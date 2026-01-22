@@ -1,5 +1,5 @@
 # ⚖️ Why the Death Penalty Makes No Sense for the United Kingdom  
-**First created:** 2025-11-12 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-12 | **Last updated:** 2026-01-22  
 *Evidence, ethics, and efficiency — the capital punishment trap.*  
 
 ---
@@ -106,8 +106,9 @@ It documents how capital punishment functions as moral theatre and activist cont
 > 
 > - [⚖️ The History of Justice as Spectacle](../💫_Containment_Logic/⚖️_the_history_of_justice_as_spectacle.md) - *how are we still here??*  
 > - [🌑 Residual Violence Risk via Inherited Offender Metadata](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌑_residual_violence_risk_via_inherited_offender_metadata.md) - *looking at potential data risks to family and to victims through R&D, regardless of jsutice outcome*  
-> - [🧠 Shame Economics](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_shame_economics.md) - *how to weaponise exposure of harms as a means of mooting calls for spectator violence*  
+> - [🧠 Shame Economics](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_shame_economics.md) - *how to weaponise exposure of harms as a means of mooting calls for spectator violence*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
