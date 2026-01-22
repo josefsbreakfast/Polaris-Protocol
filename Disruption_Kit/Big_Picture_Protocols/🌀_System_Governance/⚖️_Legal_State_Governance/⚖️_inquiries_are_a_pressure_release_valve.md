@@ -1,5 +1,5 @@
 # ⚖️ Inquiries Are a Pressure Release Valve  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22    
 *How inquiries absorb public anger, stabilise institutions, and substitute for legal accountability.*  
 
 ---
@@ -182,8 +182,9 @@ It documents how inquiries function as stabilisation mechanisms that often displ
 > - [⚖️ Elite Impunity Is a National Security Risk](./⚖️_elite_impunity_is_a_national_security_risk.md) — *downstream consequences*  
 > - [🫆 Metadata Fingerprints — Hidden Fields and Author Traces](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🫆__metadata_fingerprints.md)  
 > - [☢️ Danger Zone & Radiation of Harm](../../../Containment_Scripts/Suppression_Modes/☢️_danger_zone_radiation_of_harm.md)  
-> - [🔥 Cooling the Record](../../../Containment_Scripts/Suppression_Modes/🔥_cooling_the_record.md)  
+> - [🔥 Cooling the Record](../../../Containment_Scripts/Suppression_Modes/🔥_cooling_the_record.md)
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
