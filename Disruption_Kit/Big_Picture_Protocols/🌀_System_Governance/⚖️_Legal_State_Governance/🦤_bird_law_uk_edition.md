@@ -1,5 +1,5 @@
 # ⚖️ Bird Law in the UK  
-**First created:** 2025-09-27 | **Last updated:** 2026-01-09  
+**First created:** 2025-09-27 | **Last updated:** 2026-01-22  
 *On the peculiar overlaps and inconsistencies in UK animal husbandry law.*  
 
 ---
@@ -37,8 +37,9 @@ It examines the contradictions in legal frameworks around animal husbandry, and 
 > - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md) — *on enforcement structures and historical quirks*
 > - [🦅 The Eagle in the Pigeon Suit](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🦅_the_eagle_in_the_pigeon_suit.md) — *lost birds roaming the UK*  
 > - [🕊️ Gustav and the Network of Impossible Messengers](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🕊️_gustav_and_the_network_of_impossible_messengers.md) — *UK bird heroes*
-> - [🦆 She Weighs the Same as a Duck](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦆_she_weighs_the_same_as_a_duck.md) — *independent women vs floaty birds*  
+> - [🦆 She Weighs the Same as a Duck](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦆_she_weighs_the_same_as_a_duck.md) — *independent women vs floaty birds*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
