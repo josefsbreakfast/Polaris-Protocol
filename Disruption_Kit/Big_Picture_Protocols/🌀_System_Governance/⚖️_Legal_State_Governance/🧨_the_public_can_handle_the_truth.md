@@ -1,6 +1,6 @@
-# 🧨 The Public Can Handle the Truth
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
-*Why withholding reality in the name of stability produces fragility, not safety*
+# 🧨 The Public Can Handle the Truth  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+*Why withholding reality in the name of stability produces fragility, not safety.*  
 
 ---
 
@@ -176,8 +176,9 @@ It documents why withholding reality in the name of stability produces long-term
 > - [🏛️ Reputation Management Is Not Governance](./🏛️_reputation_management_is_not_governance.md) — *optics vs authority*  
 > - [⚖️ Inquiries Are a Pressure Release Valve](./⚖️_inquiries_are_a_pressure_release_valve.md) — *managed containment*  
 > - [🏛️ Soft Power Dies in Silence](./🏛️_soft_power_dies_in_silence.md) — *international credibility loss*  
-> - [🏛️ Impunity Creates Authoritarian Openings](./🏛️_impunity_creates_authoritarian_openings.md) — *legitimacy collapse*  
+> - [🏛️ Impunity Creates Authoritarian Openings](./🏛️_impunity_creates_authoritarian_openings.md) — *legitimacy collapse*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
