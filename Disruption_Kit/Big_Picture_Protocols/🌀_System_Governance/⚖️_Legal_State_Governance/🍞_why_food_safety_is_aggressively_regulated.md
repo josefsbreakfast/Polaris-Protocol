@@ -1,5 +1,5 @@
 # 🍞 Why Food Safety Is Aggressively Regulated  
-**First created:** 2025-12-12 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-12 | **Last updated:** 2026-01-22  
 *What population-scale harm teaches us about regulation, bad actors, and inevitability.*  
 
 ---
@@ -155,11 +155,12 @@ It uses historical precedent to explain why large-scale harm systems cannot rely
 > 
 > - [🧠 Qualitative Harm in Quantitative Systems](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_qualitative_harm_in_quantitative_systems.md) — *governance mismatch of value vs volume*  
 > - [🪼 Interaction Drift & Safety Layer Erosion](../../../../Containment_Studies/💞_Containment_Theory/🪼_interaction_drift_and_safety_layer_erosion.md) — *cumulative risk when using common AI chatbots*  
-> - [📂 Emergent Litigation: AI, Language & Psychological Harm](../🛰️_Infrastructure_Procurement/📂_emergent_litigation_ai_language_psychological_harm.md) - *because someone always gets hurt when an entire industry's vibes are "move fast and break things"*
-> - [🧩 Bringing Farmers, Environment, and the Public Together](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🧩_bringing_farmers_environment_and_public_together.md)
-> - [🌳 Food Is Not Optional](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌳_food_is_not_optional.md)
-> - [🕸️ Food as National Infrastructure](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🕸️_food_as_national_infrastructure.md)  
+> - [📂 Emergent Litigation: AI, Language & Psychological Harm](../🛰️_Infrastructure_Procurement/📂_emergent_litigation_ai_language_psychological_harm.md) - *because someone always gets hurt when an entire industry's vibes are "move fast and break things"*  
+> - [🧩 Bringing Farmers, Environment, and the Public Together](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🧩_bringing_farmers_environment_and_public_together.md)  
+> - [🌳 Food Is Not Optional](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌳_food_is_not_optional.md)  
+> - [🕸️ Food as National Infrastructure](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🕸️_food_as_national_infrastructure.md)
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
