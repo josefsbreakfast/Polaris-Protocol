@@ -1,5 +1,5 @@
 # 📜 From Survivor Code to Research Ethics  
-**First created:** 2025-11-07 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-07 | **Last updated:** 2026-01-22  
 *How atrocity testimony rebuilt biomedical morality.*  
 
 ---
@@ -211,8 +211,9 @@ It documents the conversion of trauma into guardrails.
 > - [🈺 Governance & Prevent](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)  
 > - [🈸 Dispatch & Training](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/README.md)  
 > - [🧪 Sciencing Apartheid](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/README.md)  
-> - [🍉 Academic Liberty](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/README.md)  
+> - [🍉 Academic Liberty](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/README.md)
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
