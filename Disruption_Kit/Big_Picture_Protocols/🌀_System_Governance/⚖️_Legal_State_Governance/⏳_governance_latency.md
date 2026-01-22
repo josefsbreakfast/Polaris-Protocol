@@ -1,5 +1,5 @@
 # ⏳ Governance Latency in Population-Scale Cyber Events  
-**First created:** 2025-10-13 | **Last updated:** 2026-01-11  
+**First created:** 2025-10-13 | **Last updated:** 2026-01-22  
 *Why mid-scale cyber events harm real populations long before institutions are structurally able to respond.*  
 
 ---
@@ -323,21 +323,15 @@ It examines how structural delay becomes a liability multiplier in digital harm 
 > 📡 Cross-references:
 > 
 > - [📿 Vulnerable Data Populations](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/README.md) — *identifies the groups most likely to absorb harm first when governance response is delayed or fragmented*  
-> 
 > - [🧟‍♀️ The Frankenstack Problem](../🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md) — *explains how legacy system coupling and partial modernisation create latency, desynchronisation, and silent failure modes*  
-> 
 > - [🧨 Dual-Use Frankenstack](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🧨_dual_use_frankenstack.md) — *shows how the same fragmented infrastructures can be repurposed or exploited for surveillance and population-scale harm*  
-> 
 > - [⏳ Chronos as Containment](../💫_Containment_Logic/⏳_chronos_as_containment.md) — *conceptual companion node describing how time itself is operationalised as a containment and suppression mechanism*  
-> 
 > - [⚖️ Ethics Timeout — When Research Datasets Expire and Disappear](../🧪_Development_Experimentation/⚖️_ethics_timeout_retention_clock.md) — *illustrates how time-based expiry rules quietly shape accountability, evidence availability, and post-hoc ethics*  
-> 
 > - [⏱️ Timebase Desyncs](../../../../🩻_Weirdness_Screening/🌐_Connection_Hiccups/⏱️_timebase_desyncs.md) — *documents technical manifestations of temporal misalignment that mirror institutional delay at the system level*  
-> 
-> - [🧨 Delayed Visibility Is a Signal](../../../Containment_Scripts/Suppression_Modes/🧨_delayed_visibility_is_a_signal.md) — *operational guide for recognising delay itself as an indicator of interference or suppression, not neutrality*
->
-> - [🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) – *reflexive, load-aware ecological model for geopolitical analysis; squid-sedation squad strikes again*  
+> - [🧨 Delayed Visibility Is a Signal](../../../Containment_Scripts/Suppression_Modes/🧨_delayed_visibility_is_a_signal.md) — *operational guide for recognising delay itself as an indicator of interference or suppression, not neutrality*  
+> - [🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) – *reflexive, load-aware ecological model for geopolitical analysis; squid-sedation squad strikes again*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-11_
+_Last updated: 2026-01-22_
