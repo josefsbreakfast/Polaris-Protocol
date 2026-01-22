@@ -1,5 +1,5 @@
 # ⚖️ How the CPS Operates  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
 *What prosecutorial independence really means, where discretion lives, and how decisions are quietly shaped.*  
 
 ---
@@ -203,8 +203,9 @@ It documents the internal logic by which lawful prosecutorial discretion can pro
 > - [💸 The Cost of a Closed Mouth](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/💸_the_cost_of_a_closed_mouth.md) — *truth as a commodity*  
 > - [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) - *what functional elite accountability could look like*  
 > - [⚖️ Elite Impunity Is a National Security Risk](./⚖️_elite_impunity_is_a_national_security_risk.md) — *downstream consequences*  
-> - [🧼 Justice System Data as an Attack Surface](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧼_justice_system_data_as_attack_surface.md)  
+> - [🧼 Justice System Data as an Attack Surface](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🧼_justice_system_data_as_attack_surface.md)
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
