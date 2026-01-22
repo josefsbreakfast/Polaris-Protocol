@@ -1,5 +1,5 @@
 # ⚖️ Authorisation and Oversight  
-**First created:** 2025-09-26 | **Last updated:** 2026-01-11  
+**First created:** 2025-09-26 | **Last updated:** 2026-01-22  
 *How intelligence powers are authorised — and how lawful systems drift away from consent.*  
 
 ---
@@ -324,23 +324,16 @@ It explains how intelligence warrants are issued and checked in the UK — and h
 > 📡 Cross-references:
 > 
 > - [⏳ Governance Latency in Population-Scale Cyber Events](./⏳_governance_latency.md) — *how legally compliant delay accumulates harm and erodes legitimacy when oversight cannot see population-scale effects*  
-> 
 > - [⏳ Hinge Point: When Delay Becomes Liability](./⏳_hinge_point_when_delay_becomes_liability.md) — *the predictable moment where prolonged procedural delay flips from protection into institutional exposure*  
-> 
 > - [⚖️ Legal Frameworks and Remits](./⚖️_legal_frameworks_remits.md) — *how statutory scope expands, blurs, or stretches under operational pressure*  
-> 
 > - [⚖️ IPCO Audit Cycle](./⚖️_ipco_audit_cycle.md) — *why periodic audits struggle to interrupt long-running or cumulative harm*  
-> 
 > - [👾 Intent-Free Authoritarian Drift](../💫_Containment_Logic/👾_intent_free_authoritarian_drift.md) — *how lawful systems drift toward coercion without conspiracy or bad faith*  
-> 
 > - [👾 Why Policing and PREVENT Are Susceptible to Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_authoritarian_drift.md) — *applied analysis of why these systems are structurally vulnerable to drift*  
-> 
 > - [🧠 The Continuum of Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md) — *a systems-level model showing how legitimacy erodes through accumulation, not declaration*  
-> 
 > - [👅 Bad Deepfakes — Why “Surveillance-Level” Clones Fail](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/👅_bad_deepfakes.md) — *a reality check on technical capability versus institutional fear narratives*  
-> 
-> - [🩸 When Little Bureaucrats Play Big Boy Pimps](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🩸_when_little_bureaucrats_play_big_boy_pimps.md) — *how misogyny, power asymmetry, and CVE environments magnify harm under weak oversight*  
+> - [🩸 When Little Bureaucrats Play Big Boy Pimps](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🩸_when_little_bureaucrats_play_big_boy_pimps.md) — *how misogyny, power asymmetry, and CVE environments magnify harm under weak oversight*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-11_
+_Last updated: 2026-01-22_
