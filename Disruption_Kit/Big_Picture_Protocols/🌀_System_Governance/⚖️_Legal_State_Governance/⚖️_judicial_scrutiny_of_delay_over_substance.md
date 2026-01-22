@@ -1,5 +1,5 @@
 # ⚖️ Judicial Scrutiny Of Delay Over Substance  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-22  
 *Why courts often judge timelines more harshly than the underlying issue.*  
 
 ---
@@ -114,8 +114,9 @@ It documents why courts often treat timelines as more revealing than narratives 
 > 
 > - [📉 Delay As Procedural Exposure](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/📉_delay_as_procedural_exposure.md) - *what delay brings to light about process*  
 > - [⏳ Hinge Point: When Delay Becomes Liability](./⏳_hinge_point_when_delay_becomes_liability.md) - *the flip from avoidance to discovery*
-> - [⏳ Chronos as Containment](../../💫_Containment_Logic/⏳_chronos_as_containment.md) - *on weaponising time*  
+> - [⏳ Chronos as Containment](../../💫_Containment_Logic/⏳_chronos_as_containment.md) - *on weaponising time*
+> - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-01-22_
