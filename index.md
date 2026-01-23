@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-23 13:35:48 UTC_
+_Generated on 2026-01-23 13:37:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4913,6 +4913,7 @@ _Generated on 2026-01-23 13:35:48 UTC_
         - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/💄_Charlie_Foxtrot/README.md)
         - [`🦑_kraken_big_ball_polishing.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/💄_Charlie_Foxtrot/🦑_kraken_big_ball_polishing.md)
         - [`🦑_kraken_emergency_governance_activation_protocol.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/💄_Charlie_Foxtrot/🦑_kraken_emergency_governance_activation_protocol.md)
+        - [`🦑_kraken_immediate_risk_categories.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/💄_Charlie_Foxtrot/🦑_kraken_immediate_risk_categories.md)
         - [`🦑_kraken_system_applicability_assessment.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/💄_Charlie_Foxtrot/🦑_kraken_system_applicability_assessment.md)
       - [**📑_templates/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/📑_templates/)
         - [`📕_foi_controller_dpia_request.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/📑_templates/📕_foi_controller_dpia_request.md)
