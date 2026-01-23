@@ -1,5 +1,5 @@
 # 📚 Library as Algorithmic Interface  
-**First created:** 2025-10-16 | **Last updated:** 2026-01-08  
+**First created:** 2025-10-16 | **Last updated:** 2026-01-23  
 *From card catalogues to content classifiers — how bureaucracy taught algorithms to blush.*  
 
 ---
@@ -59,7 +59,10 @@ Appeal systems function like reference desks that never answer.
 ## 🌌 Constellations  
 
 📚 🧠 🔮 🧾 — Occupies the lineage of knowledge governance and metadata ethics.  
-Completes the triptych: *Suppressed Safe → Platform Shadowban → Algorithmic Catalogue.*
+Completes the triptych: *Suppressed Safe → Platform Shadowban → Algorithmic Catalogue.*  
+
+*Further media:*  
+- [BookBike](https://vm.tiktok.com/ZNRSeP1xS/) - *wonderful alternative, promotes bike hire analytics, keeping service available*  
 
 ---
 
@@ -81,4 +84,4 @@ It maps the inheritance between cataloguing bureaucracy and machine moderation �
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-01-23_
