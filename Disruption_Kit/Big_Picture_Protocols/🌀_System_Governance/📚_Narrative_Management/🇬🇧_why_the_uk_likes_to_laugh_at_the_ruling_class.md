@@ -21,6 +21,7 @@ This node explains why ridicule of the ruling class is not merely entertainment,
 - Why “correcting yourself immediately” often backfires in the UK  
 - Why not all scandals are meant to end careers  
 - Class pattern recognition as the real driver of public anger  
+- How elite male obsession is laundered into “public sentiment”  
 
 ---
 
@@ -133,7 +134,7 @@ Many scandals functioned as containment through ridicule, not elimination.
 
 ### 6. Class Pattern Recognition, Not Sexual Shock  
 
-The UK public jokes about the tastes, habits, and excesses of the ruling class not because it is shocked by them — but because it has **seen the pattern repeatedly**.
+The UK public jokes about the tastes, habits, and excesses of the ruling class not because it is shocked by them — but because it has seen the pattern repeatedly.
 
 After decades of exposure cycles, the public is often better at recognising:
 - elite indulgence,
@@ -145,13 +146,6 @@ than individual elites are themselves.
 Scandals are therefore rarely received as surprises.  
 They are received as confirmations.
 
-This is why public anger so often centres on:
-- fairness,
-- consequence,
-- and asymmetry,
-
-rather than on sex itself.
-
 The unspoken grievance is not:
 “Sex is bad.”
 
@@ -162,7 +156,7 @@ It is:
 
 ### 7. Why Sex Often Makes Scandals More Tolerable  
 
-Counterintuitively, the sexual element of many scandals makes them *easier* for the public to process.
+Counterintuitively, the sexual element of many scandals makes them easier for the public to process.
 
 Sex:
 - humanises,
@@ -182,7 +176,41 @@ That is when the ritual breaks.
 
 ---
 
-### 8. The Red Line Everyone Pretends Not to See  
+### 8. When “Public Obsession” Is Actually One Man’s Grievance  
+
+Some of the most famous long-running British media fixations are routinely misdescribed as expressions of national obsession.
+
+In reality, they were often driven by the emotional preoccupations of a very small number of powerful men inside the media ecosystem.
+
+The Charles–Diana saga endured in part because influential male figures in the press:
+- idealised Diana,
+- projected desire and rescue fantasies onto her,
+- and framed Charles as the moral antagonist accordingly.
+
+Decades later, the fixation on Harry and Meghan followed a strikingly similar pattern:
+- personal grievance,
+- wounded male ego,
+- and editorial obsession
+
+recast as “what the public thinks.”
+
+These narratives were not neutral reflections of popular feeling.  
+They were **male desire and resentment amplified through institutional megaphones**.  
+
+You were not "going to rescue" Diana; she was out of your league.  
+
+You were not "definately in there" with Meghan; she was and is out of your league.  
+
+Both projections insult both women's own power and autonomy as full-bodied humans in their own right.  
+
+One imagines that the women in the rotal men's lives probably do also actually like them as people, particularly of the relationship persists with dedication through the continuous harrassmemt via the press; the whole thing reads as "that one guy who she talked to once, who now won't leave her alone" behaviour.  
+<!--Gosh. Such a foreign concept. I could not possibly imagine. A? Or are you still pretending to be the Hot One? Does it annoy you that he's better at system-building than you? What is the beef here, if not, "he said she smelled nice in 2016"?-->
+
+The elite class often misunderstands this — mistaking media persistence for democratic will — and then panics at “public hostility” that was never as organic or unanimous as claimed.
+
+---
+
+### 9. The Red Line Everyone Pretends Not to See  
 
 The people most invested in:
 - killing stories,
@@ -208,7 +236,7 @@ It is class-literate boundary recognition.
 
 ---
 
-### 9. The Indictment Beneath the Laughter  
+### 10. The Indictment Beneath the Laughter  
 
 This pattern *is* an indictment of the national personality.
 
@@ -233,14 +261,14 @@ It is recognition.
 
 ## ✨ Stardust  
 
-british political culture, class divide, catharsis, repression, mockery, ruling class, scandal cycles, sexual politics, emotional expression, engagement misinterpretation
+british political culture, class divide, catharsis, repression, mockery, ruling class, scandal cycles, sexual politics, media obsession, elite grievance
 
 ---
 
 ## 🏮 Footer  
 
 *🇬🇧 Why the UK Likes to Laugh at the Ruling Class* is a living node of the Polaris Protocol.  
-It documents ridicule and laughter as inherited emotional technologies within British civic life, and explains how class awareness — not sexual moralism — shapes public responses to scandal.
+It documents ridicule and laughter as inherited emotional technologies within British civic life, and explains how class awareness — not sexual moralism — and elite grievance shape public responses to scandal.
 
 > 📡 Cross-references:
 > 
