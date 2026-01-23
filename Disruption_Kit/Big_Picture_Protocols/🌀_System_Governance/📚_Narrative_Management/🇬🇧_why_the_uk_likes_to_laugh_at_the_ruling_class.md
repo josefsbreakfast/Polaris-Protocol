@@ -1,7 +1,7 @@
 # 🇬🇧 Why the UK Likes to Laugh at the Ruling Class  
 **First created:** 2026-01-23 | **Last updated:** 2026-01-23  
-*On catharsis, repression, and why mockery is a national emotional technology*
-
+*On catharsis, repression, and why mockery is a national emotional technology.*
+<!--Sex, and fucking up, makes them human. It allows up to better tolerate the rest.-->
 ---
 
 ## 🛰️ Orientation  
