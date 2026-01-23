@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-23 12:49:17 UTC_
+_Generated on 2026-01-23 12:57:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -463,6 +463,7 @@ _Generated on 2026-01-23 12:49:17 UTC_
         - [`✝️_why_moralising_disability_is_not_theology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✝️_why_moralising_disability_is_not_theology.md)
         - [`🇩🇪_trauma_sovereignty_as_foreign_policy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇩🇪_trauma_sovereignty_as_foreign_policy.md)
         - [`🇬🇧_flags_and_false_catharsis.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇬🇧_flags_and_false_catharsis.md)
+        - [`🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md)
         - [`🌀_dual_loyalty_loops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌀_dual_loyalty_loops.md)
         - [`🌀_uk_low_cost_influence_environment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌀_uk_low_cost_influence_environment.md)
         - [`🌐_late_stage_autocracy_vibe_diagnostics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌐_late_stage_autocracy_vibe_diagnostics.md)
