@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-23 13:12:26 UTC_
+_Generated on 2026-01-23 13:29:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4909,6 +4909,8 @@ _Generated on 2026-01-23 13:12:26 UTC_
       - [`🪼_who_had_their_voice_stolen.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🪼_who_had_their_voice_stolen.md)
       - [`🫡_governance_and_moderation.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🫡_governance_and_moderation.md)
     - [**🔮_Polishing_Big_Balls/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/)
+      - [**💄_Charlie_Foxtrot/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/💄_Charlie_Foxtrot/)
+        - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/💄_Charlie_Foxtrot/README.md)
       - [**📑_templates/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/📑_templates/)
         - [`📕_foi_controller_dpia_request.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/📑_templates/📕_foi_controller_dpia_request.md)
         - [`📗_sar_inferred_data_request.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/📑_templates/📗_sar_inferred_data_request.md)
