@@ -1,5 +1,5 @@
 # 🍉 As a Jew: “Globalise the Intifada”  
-**First created:** 2025-12-17 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-17 | **Last updated:** 2026-01-24  
 *A Jewish, UK-based analysis of how political rhetoric misuses antisemitism frameworks, collapses Jewish plurality, and heightens risk for racialised groups.*  
 
 ---
@@ -201,7 +201,12 @@ It is secured by **plurality, solidarity, and historical honesty**.
 ---
 
 ## 🌌 Constellations  
-⚖️ 🧠 🧿 🪞 🫀 🛰️ — equality law, narrative framing, antisemitism safeguards, identity plurality, trauma ethics, governance rhetoric.
+⚖️ 🧠 🧿 🪞 🫀 🛰️ — equality law, narrative framing, antisemitism safeguards, identity plurality, trauma ethics, governance rhetoric.  
+
+*Updated media:*  
+- [Journalists ask Officers over three instances if speaking the word is arrestable offence](https://vm.tiktok.com/ZNRSBCky5/), The Canary via TikTok.
+
+---
 
 ## ✨ Stardust  
 antisemitism, intifada, ihra, pseg, dual loyalty, jewish plurality, islamophobia, political rhetoric, diaspora, solidarity
@@ -221,4 +226,4 @@ It documents a survivor-led, historically grounded intervention into contemporar
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-01-24_
