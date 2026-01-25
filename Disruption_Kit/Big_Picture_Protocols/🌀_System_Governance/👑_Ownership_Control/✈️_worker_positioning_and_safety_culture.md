@@ -1,5 +1,5 @@
 # ✈️ Worker Positioning & Safety Culture  
-**First created:** 2025-12-12 | **Last updated:** 2026-01-08  
+**First created:** 2025-12-12 | **Last updated:** 2026-01-25  
 *Why proximity to harm shapes ethics — and why some industries learn while others externalise.*  
 
 ---
@@ -131,12 +131,12 @@ It explains why harm prevention depends less on individual intent than on how re
 > 
 > - [🍞 Why Food Safety Is Aggressively Regulated](../⚖️_Legal_State_Governance/🍞_why_food_safety_is_aggressively_regulated.md) — *population risk*  
 > - [⚖️ Harm Reduction vs Adversarial Governance](../⚖️_Legal_State_Governance/⚖️_harm_reduction_vs_adversarial_governance.md) — *care vs obstruction*  
-> - [🪼 Interaction Drift & Safety Layer Erosion](../../../../Containment_Studies/💞_Containment_Theory/🪼_interaction_drift_and_safety_layer_erosion.md) — *cumulative risk*
+> - [🪼 Interaction Drift & Safety Layer Erosion](../../../../Containment_Studies/💞_Containment_Theory/🪼_interaction_drift_and_safety_layer_erosion.md) — *cumulative risk*  
 > - [⚖️ Harm Reduction vs Adversarial Governance](../⚖️_Legal_State_Governance/⚖️_harm_reduction_vs_adversarial_governance.md) — *how reasonable precaution can become framed as blockade*  
-> - [🏚️ Pre-Digital Design Flaws in Post-Digital Systems](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🏚️_pre_digital_meets_post_digital.md) — *moving to safety in a digital age*
-> - [☔️ Leak Pattern Taxonomy](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/☔️_leak_pattern_taxonomy.md) — *classifying leaks in a moving digital world, to prevent and resolve harms*
+> - [🏚️ Pre-Digital Design Flaws in Post-Digital Systems](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🏚️_pre_digital_meets_post_digital.md) — *moving to safety in a digital age*  
+> - [☔️ Leak Pattern Taxonomy](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/☔️_leak_pattern_taxonomy.md) — *classifying leaks in a moving digital world, to prevent and resolve harms*  
 > - [👾 Working Diagnosis: UK Data Exposure Accumulation](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👾_working_diagnosis_uk_data_exposure_accumulation.md) — *democratic impacts of lower-quality data governance*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-01-25_
