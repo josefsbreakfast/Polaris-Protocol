@@ -1,10 +1,6 @@
-# 🎭 *Apology Theatre and Trust Repair*
-**The Choreography of Contrition in Late-Stage Governance**
-
-**Date Created:** 2025-11-03  
-**Polaris Protocol Repository**  
-**Folder:** System_Governance / Trust_Decay  
-**Category:** Civic Psychology / Cultural Semiotics / Institutional Rituals  
+# 🎭 Apology Theatre and Trust Repair  
+**Date Created:** 2025-11-03 | **Last updated:** 2026-01-25  
+*The Choreography of Contrition in Late-Stage Governance*  
 
 ---
 
@@ -112,5 +108,5 @@ Until then, we are merely refining the script of guilt.
 
 ---
 
-**Last Updated:** 2025-11-03  
+**Last Updated:** 2026-01-25  
 **Stardust Tags:** #ApologyTheatre #TrustRepair #CivicPsychology #CulturalSemiotics #PolarisSystem  
