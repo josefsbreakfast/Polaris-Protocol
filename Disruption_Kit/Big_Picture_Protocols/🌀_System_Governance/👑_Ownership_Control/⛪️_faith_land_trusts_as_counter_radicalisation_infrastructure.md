@@ -1,6 +1,6 @@
 # ⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure  
-**First created:** 2025-10-08 | **Last updated:** 2026-01-15  
-*How redundant churches could seed civic renewal instead of grievance economies.*
+**First created:** 2025-10-08 | **Last updated:** 2026-01-25  
+*How redundant churches could seed civic renewal instead of grievance economies.*  
 
 ---
 
@@ -70,13 +70,13 @@ It proposes how legal reform and civic imagination could turn redundant church p
 
 > 📡 Cross-references:
 > 
-> - [👹 Coercive Engineers — Intentional Radicalisation and the Normality Trap](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/👹_coercive_engineers_intentional_radicalisation.md) — *cultivating vectors of bias reduction, stress reduction, and time off digital spaces is countering radicalisation infrastructure, actually*
-> - [🪦 Memory Erasure in Radicalisation](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪦_memory_erasure_in_radicalisation.md) - *communities own memory; safeguard it*
+> - [👹 Coercive Engineers — Intentional Radicalisation and the Normality Trap](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/👹_coercive_engineers_intentional_radicalisation.md) — *cultivating vectors of bias reduction, stress reduction, and time off digital spaces is countering radicalisation infrastructure, actually*  
+> - [🪦 Memory Erasure in Radicalisation](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪦_memory_erasure_in_radicalisation.md) - *communities own memory; safeguard it*  
 > - [🧠 HM Dept Coercive Nudges](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural architecture*  
 > - [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *dignity frameworks*  
-> - [🕯 Exorcising Safeguarding Shadows](../../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/README.md) — *moral authority audits*
-> - [🧨 System Agitation Shopping List](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_system_agitation_shopping_list.md) - *live a little (like a human would)*
+> - [🕯 Exorcising Safeguarding Shadows](../../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/README.md) — *moral authority audits*  
+> - [🧨 System Agitation Shopping List](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🧨_system_agitation_shopping_list.md) - *live a little (like a human would)*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-15_
+_Last updated: 2026-01-25_
