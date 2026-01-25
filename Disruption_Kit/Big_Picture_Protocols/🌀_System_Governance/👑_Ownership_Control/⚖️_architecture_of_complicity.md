@@ -1,5 +1,5 @@
 # ⚖️ The Architecture of Complicity  
-**First created:** 2025-11-07 | **Last updated:** 2026-01-15  
+**First created:** 2025-11-07 | **Last updated:** 2026-01-25  
 *How accountability is structurally routed toward individuals while sponsor power remains insulated.*  
 
 ---
@@ -185,9 +185,9 @@ It analyses how legal and political systems route blame toward individuals while
 > 
 > - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md) — *silence as equilibrium*  
 > - [🕳️ Absence as Signal](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🕳️_absence_as_signal.md) — *what cannot be recorded*  
-> - [🧬 Twinning as Reputation Repair](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_twinning_as_reputation_repair.md) — *ethical laundering*
+> - [🧬 Twinning as Reputation Repair](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧬_twinning_as_reputation_repair.md) — *ethical laundering*  
 > - [🎭 Apology Theatre and Trust Repair](../📚_Narrative_Management/🎭_apology_theatre_and_trust_repair.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-15_
+_Last updated: 2026-01-25_
