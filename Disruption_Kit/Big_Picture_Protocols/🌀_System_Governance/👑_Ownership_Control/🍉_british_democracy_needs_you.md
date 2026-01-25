@@ -1,5 +1,5 @@
 # 🍉 British Democracy Needs You  
-**First created:** 2025-12-23 | **Last updated:** 2026-01-08  
+**First created:** 2025-12-23 | **Last updated:** 2026-01-25  
 *Why public clarity protects institutions under pressure.*  
 
 ---
@@ -43,10 +43,10 @@ It situates the current moment as democratic maintenance rather than partisan cr
 > - [🍉 The Puppets Ain’t Israeli](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🍉_the_puppets_aint_israeli.md) - *the argument to consider other sources*  
 > - [👾 Working Diagnosis: UK Data Exposure Accumulation](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👾_working_diagnosis_uk_data_exposure_accumulation.md) — *structural conditions enabling interference*  
 > - [🍉 Who Are the Sock Puppets?](../📚_Narrative_Management/🍉_who_are_the_sock_puppets.md) — *behavioural signatures of coordination*  
-> - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](../../../Survivor_Tools/🧰_tools_against_sock_puppets.md) — *disruption without amplification*
+> - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](../../../Survivor_Tools/🧰_tools_against_sock_puppets.md) — *disruption without amplification*  
 > - [🏛️ Our Island, Our Realm, Our Rules (and Why That Includes Hospitality)](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_our_island_our_realm_our_rules.md)
 > - [🇬🇧 Flags, False Catharsis, and the Thing We Refused to Say](../📚_Narrative_Management/🇬🇧_flags_and_false_catharsis.md) - *symbolic patriotism versus moral clarity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-01-25_
