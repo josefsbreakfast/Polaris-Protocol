@@ -1,6 +1,6 @@
-# 🌳 The lads are not pro-countryside  
-**First created:** 2026-01-08 | **Last updated:** 2026-01-08  
-*Why “pro-countryside” rhetoric collapses under extraction, development pressure, and infrastructure reality*
+# 🌳 The Lads Are Not Pro-Countryside  
+**First created:** 2026-01-08 | **Last updated:** 2026-01-25  
+*Why “pro-countryside” rhetoric collapses under extraction, development pressure, and infrastructure reality.*  
 
 ---
 
@@ -19,7 +19,7 @@ Once the countryside is reframed as *people who resent constraint* rather than *
 
 ---
 
-## 🧩 How “pro-countryside” is redefined  
+## 🧩 How “Pro-Countryside” Is Redefined  
 In practice, the label is used to signal opposition to:
 
 - environmental regulation  
@@ -34,7 +34,7 @@ Land, water, and long-term use quietly disappear from the definition.
 
 ---
 
-## ⚙️ What the policies actually do  
+## ⚙️ What The Policies Actually Do  
 
 ### 1. **Energy extraction (oil, gas, fracking)**  
 Support for onshore extraction introduces:
@@ -87,7 +87,7 @@ The countryside becomes a utility zone: power, land, water, silence.
 
 ---
 
-## 🔍 The displacement pattern  
+## 🔍 The Displacement Pattern  
 Real rural grievances exist:
 - underinvestment  
 - transport poverty  
@@ -104,7 +104,7 @@ Extractive capital and infrastructure operators are quietly exempted from blame.
 
 ---
 
-## 🧠 Comparative note  
+## 🧠 Comparative Note  
 Parties often accused of being “anti-countryside” — including **[Labour Party](chatgpt://generic-entity?number=1)** — tend, in practice, to support:
 - fracking bans  
 - water and pollution regulation  
@@ -127,7 +127,7 @@ The underlying logic is consistent:
 
 ---
 
-## 🧾 One-line conclusion  
+## 🧾 Conclusion  
 You cannot defend villages, farms, water systems, and landscapes  
 **while advocating deregulation, extraction, green-belt erosion, and rural infrastructure saturation**.
 
@@ -137,23 +137,26 @@ It is pro-pressure on rural land.
 ---
 
 ## 🌌 Constellations  
-🌳 🏛️ ⚡️ 🧠 🧿 🛰️ — land, governance, extraction, narrative framing, diagnostic register, infrastructure.
+🌳 🏛️ ⚡️ 🧠 🧿 🛰️ — land, governance, extraction, narrative framing, diagnostic register, infrastructure.  
+
+---
 
 ## ✨ Stardust  
-countryside rhetoric, land use politics, fracking, green belt, data centres, planning deregulation, extractive capital, rural infrastructure, developer pressure
+countryside rhetoric, land use politics, fracking, green belt, data centres, planning deregulation, extractive capital, rural infrastructure, developer pressure  
 
 ---
 
 ## 🏮 Footer  
-*🌳 The lads are not pro-countryside* is a living node of the **Polaris Protocol**.  
-It draws a forensic distinction between countryside as **identity** and countryside as **land**, documenting how the former is used to obscure cumulative harm to the latter.
+*🌳 The Lads Are Not Pro-Countryside* is a living node of the **Polaris Protocol**.  
+It draws a forensic distinction between countryside as **identity** and countryside as **land**, documenting how the former is used to obscure cumulative harm to the latter.  
 
 > 📡 Cross-references:
 > 
-> - 🧠 Big_Picture_Protocols — structural political analysis  
-> - 🦆 Digital_Disruption — civic repair and counter-narratives  
-> - ⚙️ Disruption_Kit — rhetorical diagnostics and counter-language  
+> - [🚜 Tools Are Not Costumes](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🚜_tools_are_not_costumes.md)  
+> - [🌳 Food Is Not Optional](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌳_food_is_not_optional.md) — *why food producers sit outside normal class framing*  
+> - [🕸️ Food as National Infrastructure](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🕸️_food_as_national_infrastructure.md) — *continuity obligations*  
+> - [🌱 Land Trusts & Custodianship Models](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌱_land_trusts_custodianship_models.md) — *exploring present and historical alternatives to current land law*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-01-25_
