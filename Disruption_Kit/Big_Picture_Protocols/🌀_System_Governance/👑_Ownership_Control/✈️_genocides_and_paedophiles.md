@@ -1,5 +1,5 @@
 # ✈️ Genocides and Paedophiles  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-08  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-25  
 *On how democracies are repeatedly hollowed out to protect elite sexual violence and its facilitators.*  
 
 ---
@@ -167,4 +167,4 @@ It contributes structural analysis of how democratic systems are hollowed out to
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-01-25_
