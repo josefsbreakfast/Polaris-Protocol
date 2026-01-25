@@ -1,5 +1,5 @@
 # 🏛 R.A.A.C. — Ruins and Architectural Committee  
-**First created:** 2025-10-22 | **Last updated:** 2026-01-08  
+**First created:** 2025-10-22 | **Last updated:** 2026-01-25  
 *Minutes from the committee on collapse.*  
 
 ---
@@ -91,9 +91,9 @@ It documents the administrative afterlife of modern infrastructure and the symbo
 > 📡 Cross-references:
 > 
 > - [🎺 Echo Punk](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎺_echo_punk.md) — *the acoustic afterlife of derelict structures*  
-> - [🧪 Development & Experimentation](../🧪_Development_Experimentation/README.md) — *material testbeds and design ethics*
+> - [🧪 Development & Experimentation](../🧪_Development_Experimentation/README.md) — *material testbeds and design ethics*  
 > - [🏚️ Millennial Property Psychosis (Everything Is Housing)](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🏚️_millennial_property_psychosis_everything_is_housing.md) — *E.V.E.R.Y.T.H.I.N.G.*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-01-25_
