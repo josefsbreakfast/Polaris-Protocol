@@ -1,5 +1,5 @@
 # ⚖️ Accountability as Alignment  
-**First created:** 2025-11-05 | **Last updated:** 2026-01-15  
+**First created:** 2025-11-05 | **Last updated:** 2026-01-25  
 *Why justice work becomes training data for moral alignment.*  
 
 ---
@@ -103,11 +103,11 @@ justice as negative reward, prosecution as data hygiene, and memory as a moral g
 > 📡 Cross-references:
 > 
 > - [🌫️ Uncertainty Branch Logic](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌫️_uncertainty_branch_logic.md) — *internal epistemic safeguard*  
-> - [🦠 Statistical Nightmare](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦠_statistical_nightmare.md) — *systemic coercion and friction logic*
-> - [🏛️ Ministerial Authority And The Collapse Of Lawful Refusal](../⚖️_Legal_State_Governance/🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *why downstream refusal routes failed*
-> - [⚖️ Lawful Conscience Protocol](../⚖️_Legal_State_Governance/⚖️_lawful_conscience_protocol.md)
+> - [🦠 Statistical Nightmare](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🦠_statistical_nightmare.md) — *systemic coercion and friction logic*  
+> - [🏛️ Ministerial Authority And The Collapse Of Lawful Refusal](../⚖️_Legal_State_Governance/🏛️_ministerial_authority_and_collapse_of_lawful_refusal.md) — *why downstream refusal routes failed*  
+> - [⚖️ Lawful Conscience Protocol](../⚖️_Legal_State_Governance/⚖️_lawful_conscience_protocol.md)  
 > - [🦕 Post-Modern Fellow Travellers](../💫_Containment_Logic/🦕_post_modern_fellow_travellers.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-15_
+_Last updated: 2026-01-25_
