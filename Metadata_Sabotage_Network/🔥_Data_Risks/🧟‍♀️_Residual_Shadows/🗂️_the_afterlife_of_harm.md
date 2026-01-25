@@ -1,6 +1,6 @@
-# 🗂️ The Afterlife of Harm
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*Why harm persists after the event, once it has entered networked systems*
+# 🗂️ The Afterlife of Harm  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-25  
+*Why harm persists after the event, once it has entered networked systems*  
 
 ---
 
@@ -91,9 +91,9 @@ It documents how digital harm persists after the originating behaviour ends, thr
 
 > 📡 Cross-references:
 >
-> - [🛰️ Metadata Sabotage Network](../../) — *interference and persistence mechanisms across systems*
-> - [🔥 Data Risks](../) — *where harm becomes an exposure ecology over time*
+> - [🛰️ Metadata Sabotage Network](../../) — *interference and persistence mechanisms across systems*  
+> - [🔥 Data Risks](../) — *where harm becomes an exposure ecology over time*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-25_
