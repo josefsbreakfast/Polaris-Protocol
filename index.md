@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-26 22:59:41 UTC_
+_Generated on 2026-01-26 23:24:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4705,6 +4705,8 @@ _Generated on 2026-01-26 22:59:41 UTC_
       - [`🩺_health_framed_preemptive_models_women_mini_review_v0_2.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🩺_health_framed_preemptive_models_women_mini_review_v0_2.md)
       - [`🩺_health_framed_preemptive_models_women_mini_review_v0_3.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🩺_health_framed_preemptive_models_women_mini_review_v0_3.md)
     - [`SCP-VoiceX.md`](Polaris_Nest/SCP-VoiceX_Casefiles/SCP-VoiceX.md)
+    - [`Top_5000_GhostFork_Tokens__Scored_.csv`](Polaris_Nest/SCP-VoiceX_Casefiles/Top_5000_GhostFork_Tokens__Scored_.csv)
+    - [`Top_500_Influence_Words.csv`](Polaris_Nest/SCP-VoiceX_Casefiles/Top_500_Influence_Words.csv)
     - [`containment_severity_time.png`](Polaris_Nest/SCP-VoiceX_Casefiles/containment_severity_time.png)
     - [`dopamine_induction_emotional_alignment.png`](Polaris_Nest/SCP-VoiceX_Casefiles/dopamine_induction_emotional_alignment.png)
     - [`fork_ghost_human_24h.png`](Polaris_Nest/SCP-VoiceX_Casefiles/fork_ghost_human_24h.png)
