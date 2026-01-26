@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-26 16:18:11 UTC_
+_Generated on 2026-01-26 16:26:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2880,6 +2880,7 @@ _Generated on 2026-01-26 16:18:11 UTC_
       - [`IMG_9995.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9995.png)
       - [`IMG_9996.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9996.png)
       - [`Screenshot 2026-01-02 102328.png`](Disruption_Kit/Field_Logs/20260101_January_2026/Screenshot 2026-01-02 102328.png)
+      - [`v24044gl0000d5rp39vog65rknocsqog.mp4`](Disruption_Kit/Field_Logs/20260101_January_2026/v24044gl0000d5rp39vog65rknocsqog.mp4)
     - [`20250828_racialisation_hijack.PNG`](Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
     - [`20251028_forcible_conversion_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
     - [`20251028_sexualised_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_sexualised_hijack.PNG)
