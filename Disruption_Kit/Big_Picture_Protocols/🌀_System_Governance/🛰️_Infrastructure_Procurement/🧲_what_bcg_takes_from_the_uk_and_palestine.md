@@ -1,5 +1,5 @@
 # 🧲 What BCG Takes from the UK … and Palestine  
-**First created:** 2025-08-04 | **Last updated:** 2025-12-25  
+**First created:** 2025-08-04 | **Last updated:** 2026-01-28  
 *How analytical access enables extraction of population knowledge across unequal contexts — and why this creates shared downstream harm.*  
 
 ---
@@ -166,7 +166,7 @@ bcg extraction, population knowledge, uk data governance, palestine occupation, 
 
 ## 🏮 Footer  
 
-*What BCG Takes from the UK … and Palestine* is a living node of the **Polaris Protocol**.  
+*🧲 What BCG Takes from the UK … and Palestine* is a living node of the **Polaris Protocol**.  
 It documents how analytical access enables extraction of population-scale knowledge across unequal contexts, and how that knowledge is recycled through governance systems to produce foreseeable harm and liability.
 
 > 📡 Cross-references:
@@ -174,12 +174,12 @@ It documents how analytical access enables extraction of population-scale knowle
 > - [🛑 GHF Is a Weapon](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🛑_ghf_is_a_weapon.md) — *pacification and narrative arrest*  
 > - [🧬 Classification as Extraction](../⚖️_Legal_State_Governance/🧬_recycling_violence_through_governance.md) — *how harm is re-encoded*  
 > - [*Pending:* 🧪 Occupation as R&D Environment] — *unequal testing grounds for dual-use systems*  
-> - [🩸 Genocide Denialism: 🍉 Palestine](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/README.md)
-> - [🇬🇧 Flags, False Catharsis, and the Thing We Refused to Say](../📚_Narrative_Management/🇬🇧_flags_and_false_catharsis.md)
+> - [🩸 Genocide Denialism: 🍉 Palestine](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/README.md)  
+> - [🇬🇧 Flags, False Catharsis, and the Thing We Refused to Say](../📚_Narrative_Management/🇬🇧_flags_and_false_catharsis.md)  
 > - [🍉 Your Voice Is Your Vote](../📚_Narrative_Management/🍉_your_voice_is_your_vote.md)  
-> - [✂🌹 Machine Pruning Logic](../../🦕_Elder_Influencers/🕊️_Just_Boxes/✂🌹_machine_pruning_logic.md)
+> - [✂🌹 Machine Pruning Logic](../../🦕_Elder_Influencers/🕊️_Just_Boxes/✂🌹_machine_pruning_logic.md)  
 > - [🧬 The Policies We Never Reckoned With](../../🦕_Elder_Influencers/🕊️_Just_Boxes/🧬_the_policies_we_never_reckoned_with.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-28_
