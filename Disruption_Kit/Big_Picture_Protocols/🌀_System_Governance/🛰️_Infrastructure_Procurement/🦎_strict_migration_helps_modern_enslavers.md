@@ -1,6 +1,6 @@
 # 🦎 Strict Migration Helps Modern Enslavers  
-**First created:** 2026-01-18 | **Last updated:** 2026-01-18  
-*Why restrictive migration regimes reliably increase trafficking, debt bondage, and wage suppression*
+**First created:** 2026-01-18 | **Last updated:** 2026-01-28  
+*Why restrictive migration regimes reliably increase trafficking, debt bondage, and wage suppression.*  
 
 ---
 
@@ -29,7 +29,7 @@ It is a **predictable systems outcome**.
 
 ---
 
-## 🌍 Restrictive borders do not stop migration — they change *how* it happens  
+## 🌍 Restrictive Borders Do Not Stop Migration — They Change *How* It Happens  
 
 People migrate because of war, climate pressure, famine, debt, family ties, or labour demand.  
 Those drivers are not switched off by paperwork.
@@ -55,7 +55,7 @@ None of this is accidental.
 
 ---
 
-## 🌀 “Hostile environment” policies function as labour discipline  
+## 🌀 “Hostile Environment” Policies Function As Labour Discipline  
 
 Britain’s migration regime is frequently framed in race-neutral language:  
 *skills*, *points*, *compliance*, *risk management*.
@@ -75,7 +75,7 @@ When deportability exists, **coercion does not need chains**.
 
 ---
 
-## 🧨 Racialisation intensifies under containment  
+## 🧨 Racialisation Intensifies Under Containment  
 
 The more people are trapped in illegality, the easier it becomes to justify their mistreatment.
 
@@ -95,7 +95,7 @@ It corrodes the moral and economic floor for *everyone*.
 
 ---
 
-## 💸 Wage suppression is the point, not a side effect  
+## 💸 Wage Suppression Is The Point, Not A Side Effect  
 
 A workforce that cannot complain, organise, or leave is a **dream scenario** for capital.
 
@@ -114,7 +114,7 @@ They fracture it.
 
 ---
 
-## 🔥 Why enslavers benefit from “tough” borders  
+## 🔥 Why Enslavers Benefit From “Tough” Borders  
 
 Modern slavery does not operate *despite* restrictive migration regimes.  
 It operates **because of them**.
@@ -271,4 +271,4 @@ It documents how border policy functions as labour-market architecture — shapi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-18_
+_Last updated: 2026-01-28_
