@@ -1,5 +1,5 @@
-# 🔥 The Latency Years Timeline
-**First created:** 2025-10-13  |  **Last updated:** 2025-12-11  
+# 🔥 The Latency Years Timeline  
+**First created:** 2025-10-13 | **Last updated:** 2026-01-28  
 *Narrative chronology of a prolonged national‑scale digital crisis.*  
 
 ---
@@ -20,9 +20,25 @@ For creative and analytical use: a four‑phase depiction of systemic cyber coll
 ## 🌌 Constellations  
 - ⏳ Governance Latency  
 - 🧰 Middleware Hijack  
-- 🌐 Digital Sovereignty  
+- 🌐 Digital Sovereignty
+
+---
 
 ## ✨ Stardust  
 fictional crisis, national infrastructure, attrition, rebuild, latency era  
 
-*Last updated 2025-12-11 | We kept it from collapsing completely — and that was a win.*
+---
+
+
+## 🏮 Footer  
+
+*🔥 The Latency Years Timeline* is a living node of the Polaris Protocol.  
+
+> 📡 Cross-references:
+> 
+> - [🐝 Post-Protofascist Reconstruction](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🐝_post_protofascist_reconstruction.md)  
+> - [⚖️ Above the Law — Protofascism Threshold](../💫_Containment_Logic/⚖️_above_the_law_protofascism_threshold.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-01-28_
