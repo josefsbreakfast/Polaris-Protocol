@@ -1,6 +1,6 @@
 # 🚀 Modernising Information Defence  
-**First created:** 2025-12-06 | **Last updated:** 2025-12-06  
-*Why national security doctrine must replace PR logic in hostile information environments*
+**First created:** 2025-12-06 | **Last updated:** 2026-01-28  
+*Why national security doctrine must replace PR logic in hostile information environments.*  
 
 ---
 
@@ -231,13 +231,15 @@ information defence, outsourcing risks, national security doctrine, narrative th
 
 ## 🏮 Footer  
 *🚀 Modernising Information Defence* is a living node of the Polaris Protocol.  
-It documents the doctrinal shift required for democratic states to defend their personnel and institutions in hostile information environments, replacing outdated PR containment with sovereign information security logic.
+It documents the doctrinal shift required for democratic states to defend their personnel and institutions in hostile information environments, replacing outdated PR containment with sovereign information security logic.  
 
 > 📡 Cross-references:
-> - [Big_Picture_Protocols/] — systemic analysis and threat typologies  
-> - [Survivor_Tools/] — countermeasures and practical defence  
-> - [Containment_Scripts/] — visibility, suppression, and platform dynamics  
+> 
+> - [⚖️ Defend Forward & Sovereign Cyber Response Ladder](../⚖️_Legal_State_Governance/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)  
+> - [🦑 Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive, ecological pressure mapping*  
+> - [⏳ Governance Latency in Population-Scale Cyber Events](../⚖️_Legal_State_Governance/⏳_governance_latency.md) — *why delay causes real harm*  
+> - [🕸 Metadata Defence](../../../🏮_AntiContainment_Clauses/🕸_metadata_defence.md) — *defence without escalation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-06_
+_Last updated: 2026-01-28_
