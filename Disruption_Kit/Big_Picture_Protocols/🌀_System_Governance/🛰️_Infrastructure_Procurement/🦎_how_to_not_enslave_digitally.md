@@ -1,6 +1,6 @@
 # 🦎 How to Not Enslave Digitally  
-**First created:** 2026-01-20 | **Last updated:** 2026-01-22  
-*Using leopard geckos to explain what ethical systems must refuse to do.*
+**First created:** 2026-01-20 | **Last updated:** 2026-01-28  
+*Using leopard geckos to explain what ethical systems must refuse to do.*  
 
 ---
 
@@ -105,7 +105,9 @@ Digital systems that respect human dignity must allow the same.
 ---
 
 ## 🌌 Constellations  
-🦎 🧠 🛰️ 🧿 ⚖️ — survivorship, cognition, infrastructure, targeting logic, ethics.
+🦎 🧠 🛰️ 🧿 ⚖️ — survivorship, cognition, infrastructure, targeting logic, ethics.  
+
+---
 
 ## ✨ Stardust  
 digital nudging, algorithmic governance, consent erosion, microniching, narrative interference, behavioural extraction, ethical tech, modern slavery
@@ -115,12 +117,15 @@ digital nudging, algorithmic governance, consent erosion, microniching, narrativ
 ## 🏮 Footer  
 
 *🦎 How to Not Enslave Digitally* is a living node of the **Polaris Protocol**.  
-It exists to make coercive design legible so it can be refused — socially, technically, and legally.
+It exists to make coercive design legible so it can be refused — socially, technically, and legally.  
 
 > 📡 Cross-references:
 > 
-> - [*to be added*  
+> - [📜 When Containment Becomes Identity](../💫_Containment_Logic/📜_when_containment_becomes_identity.md)  
+> - [☔️ Digital Quicksand 101](../💫_Containment_Logic/☔️_digital_quicksand_101.md)  
+> - [🦎 Snow Leopard Geckos Against Modern Slavery](../🧪_Development_Experimentation/🦎_snow_leopard_geckos_against_modern_slavery.md)  
+> - [☢️ The Empathy Project](../💫_Containment_Logic/☢️_the_empathy_project.md)  
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-01-28_
