@@ -1,5 +1,5 @@
 # 🧬 Forensic Psychology Is Infrastructure  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-28  
 *Why treatment, assessment, and behavioural management are core public-safety systems.*  
 
 ---
@@ -200,11 +200,12 @@ forensic psychology, risk assessment, treatment infrastructure, behavioural mana
 It documents why assessment and treatment are essential components of functional justice and safeguarding systems.
 
 > 📡 Cross-references:
-> - **🧬 A Ladder of Accountability** — operational placement  
-> - **⚖️ Decoupling Justice From Incarceration** — breaking the bottleneck  
-> - **🧬 What a CSA System Optimised for Prevention Looks Like** — prevention design  
-> - **🧬 Accountability Is Infrastructure** — load-bearing logic  
+> 
+> - [🧬 A Ladder of Accountability](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_a_ladder_of_accountability.md) — *operational placement*  
+> - [⚖️ Decoupling Justice From Incarceration](../⚖️_Legal_State_Governance/⚖️_decoupling_justice_from_incarceration.md) — *breaking the bottleneck*  
+> - [🧬 What a CSA System Optimised for Prevention Looks Like](../⚖️_Legal_State_Governance/🧬_what_a_csa_system_optimised_for_prevention_looks_like.md) — *prevention design*  
+> - [🧬 Accountability Is Infrastructure](./🧬_accountability_is_infrastructure.md) — *load-bearing logic*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-01-28_
