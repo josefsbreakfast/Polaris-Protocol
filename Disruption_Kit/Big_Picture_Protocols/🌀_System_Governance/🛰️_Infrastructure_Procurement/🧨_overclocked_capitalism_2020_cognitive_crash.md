@@ -1,5 +1,5 @@
 # 🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash  
-**First created:** 2025-12-10 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-10 | **Last updated:** 2026-01-28  
 *Why the pandemic broke the social contract of labour, and why exhausted populations now outsource cognition to LLMs without adequate safety friction.*  
 
 ---
@@ -298,4 +298,4 @@ It documents how structural over-extraction, mass trauma, and economic precarity
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-28_
