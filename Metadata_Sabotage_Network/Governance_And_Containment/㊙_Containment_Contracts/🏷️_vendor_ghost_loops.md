@@ -1,5 +1,5 @@
 # 🏷️ Vendor Ghost Loops — How Recurring Contractors Keep Containment Alive  
-**First created:** 2025-11-11 | **Last updated:** 2026-01-08  
+**First created:** 2025-11-11 | **Last updated:** 2026-01-28  
 *The same ghosts, the same dashboards.*  
 
 ---
@@ -65,4 +65,4 @@ It reveals how the same actors, systems, and schemas reproduce containment acros
 > - [👀 Failure Cycle vs Reported Improvements](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/👀_failure_cycle_vs_reported_improvements.md)  
 > - [🌀 Answering Uncertainty in AI Environments](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🌀_answering_uncertainty_in_ai_environments.md)  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-01-28_
