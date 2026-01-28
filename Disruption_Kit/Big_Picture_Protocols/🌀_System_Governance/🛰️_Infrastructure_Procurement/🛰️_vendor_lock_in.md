@@ -1,5 +1,5 @@
 # 🛰️ Vendor Lock-In  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-14 | **Last updated:** 2026-01-28  
 *Procurement inertia: once states buy a surveillance stack, governance logic bends to vendor terms.*  
 
 ---
@@ -51,7 +51,7 @@ Once a surveillance stack is purchased, governance logic adapts to fit the vendo
 ---
 
 ## 🏮 Footer  
-*Vendor Lock-In* is a living node of the Polaris Protocol.  
+*🛰️ Vendor Lock-In* is a living node of the Polaris Protocol.  
 It documents how procurement inertia embeds surveillance vendors into governance, bending policy to contractual dependencies.  
 
 > 📡 Cross-references:
@@ -61,4 +61,4 @@ It documents how procurement inertia embeds surveillance vendors into governance
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-01-28_  
