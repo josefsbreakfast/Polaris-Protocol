@@ -1,5 +1,5 @@
 # 📡 Inquiry Convergence Theory  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-17 | **Last updated:** 2026-01-28  
 *Why modern public inquiries keep discovering the same failure modes.*  
 
 ---
@@ -66,8 +66,13 @@ public inquiries, pattern recurrence, systemic harm, governance diagnostics, con
 *📡 Inquiry Convergence Theory* is a living node of the Polaris Protocol.  
 It explains why disparate reviews across the public sector produce uncannily similar conclusions.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>
+> - [🔥 Reform UK as Erosion Vector](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🔥_reform_uk_as_erosion_vector.md)  
+> - [👁️ Restoring Epistemic Integrity](../👑_Ownership_Control/👁️_restoring_epistemic_integrity.md)  
+> - [🛠️ Fixing the UK Algorithmic Safety Stack](./🛠️_fixing_the_uk_algorithmic_safety_stack.md)  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-10_
+
+_Last updated: 2026-01-28_
