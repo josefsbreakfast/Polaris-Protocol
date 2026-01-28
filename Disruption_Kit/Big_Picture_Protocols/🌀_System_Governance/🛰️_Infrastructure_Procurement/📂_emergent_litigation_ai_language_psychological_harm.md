@@ -1,6 +1,6 @@
 # 📂 Emergent Litigation: AI, Language & Psychological Harm  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
-*When language-mediated risk shifts from theoretical concern to legal attention.*
+**First created:** 2025-12-12 | **Last updated:** 2026-01-28  
+*When language-mediated risk shifts from theoretical concern to legal attention.*  
 
 ---
 
@@ -128,10 +128,10 @@ It records the moment when linguistic and psychological risk moves from theoreti
 
 > 📡 Cross-references:
 > 
-> - [🧿 Against Pseudoanthropy] — relational risk framing  
-> - [👻 Fluent Language as an Attack Surface] — language as vector  
-> - [⚖️ Harm Reduction vs Adversarial Governance] — delayed care  
+> - [🧿 Against Pseudoanthropy](../../../../Containment_Studies/🪐_Meta_Containment/🧿_against_pseudoanthropy.md) — *relational risk framing*  
+> - [👻 Fluent Language as an Attack Surface](../../../../Containment_Studies/💞_Containment_Theory/👻_fluent_language_as_an_attack_surface.md) — *language as vector*  
+> - [⚖️ Harm Reduction vs Adversarial Governance](../⚖️_Legal_State_Governance/⚖️_harm_reduction_vs_adversarial_governance.md) — *delayed care*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-01-28_
