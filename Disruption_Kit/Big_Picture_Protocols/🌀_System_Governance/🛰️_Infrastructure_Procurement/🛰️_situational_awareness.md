@@ -1,6 +1,6 @@
-# 🛰️ Situational Awareness: Human vs Computational
-**First created:** 2025-09-30 | **Last updated:** 2025-10-18  
-*How awareness is built in minds vs. machines, where failure surfaces lurk, and why a safety culture is overdue.*
+# 🛰️ Situational Awareness: Human vs Computational  
+**First created:** 2025-09-30 | **Last updated:** 2026-01-28  
+*How awareness is built in minds vs. machines, where failure surfaces lurk, and why a safety culture is overdue.*  
 
 <a id="top"></a>
 **Jump to:**  
@@ -146,7 +146,7 @@ C4/C5-ISR stacks are now used in civilian domains (policing, social care, financ
 
 ## 🏮 Footer  
 
-*Situational Awareness: Human vs Computational* is a node of the Polaris Protocol.  
+*🛰️ Situational Awareness: Human vs Computational* is a node of the Polaris Protocol.  
 It argues for aviation-grade safety culture across civilian C4/C5-ISR deployments.  
 
 > 📡 Cross-references:
@@ -157,4 +157,4 @@ It argues for aviation-grade safety culture across civilian C4/C5-ISR deployment
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-01-28_  
