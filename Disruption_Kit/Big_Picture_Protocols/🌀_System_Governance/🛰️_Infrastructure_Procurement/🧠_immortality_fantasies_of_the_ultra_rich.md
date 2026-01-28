@@ -1,5 +1,5 @@
 # 🧠 Death-Denial As Policy: Immortality Fantasies Of The Ultra-Rich  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-04  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-28  
 *How elite refusal of mortality distorts governance, misallocates resources, and accelerates systemic collapse.*  
 
 ---
@@ -177,4 +177,4 @@ It documents how elite refusal of mortality distorts priorities, weakens collect
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-01-28_
