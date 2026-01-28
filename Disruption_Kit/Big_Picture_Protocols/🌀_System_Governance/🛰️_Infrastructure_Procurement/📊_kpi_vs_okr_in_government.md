@@ -1,5 +1,5 @@
 # 📊 KPIs vs OKRs in Government  
-**First created:** 2025-09-01 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-01 | **Last updated:** 2026-01-28  
 *A comparative node on measurement logics in UK public services.*  
 
 ---
@@ -49,7 +49,7 @@ kpi vs okr, measurement logics, targets culture, public services, governance ref
 
 ## 🏮 Footer  
 
-*KPIs vs OKRs in Government* is a living node of the Polaris Protocol.  
+*📊 KPIs vs OKRs in Government* is a living node of the Polaris Protocol.  
 It documents how measurement logics shape public service behaviour, and offers alternatives that preserve human dignity within state systems.  
 
 > 📡 Cross-references:
@@ -59,4 +59,4 @@ It documents how measurement logics shape public service behaviour, and offers a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-01-28_
