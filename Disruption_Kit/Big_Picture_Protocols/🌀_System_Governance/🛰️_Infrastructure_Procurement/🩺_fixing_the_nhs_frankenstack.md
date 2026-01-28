@@ -214,9 +214,13 @@ The Frankenstack is a political artefact, not a technical inevitability.
 
 ## 🏮 Footer
 
-*Fixing the NHS Frankenstack* is a Big‑Picture diagnostic node of the Polaris Protocol. It documents systemic failure, incentive misalignment, and the preconditions for safe innovation.
+*🩺 Fixing the NHS Frankenstack* is a Big‑Picture diagnostic node of the Polaris Protocol. It documents systemic failure, incentive misalignment, and the preconditions for safe innovation.
 
-
+> 📡 Cross-references:
+> 
+> - [🧪 Failure Recycling](../🧪_Development_Experimentation/🧪_failure_recycling.md)  
+> - [👀 Failure Cycle vs Reported Improvements](../../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/👀_failure_cycle_vs_reported_improvements.md)  
+> - [🌀 Answering Uncertainty in AI Environments](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🌀_answering_uncertainty_in_ai_environments.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
