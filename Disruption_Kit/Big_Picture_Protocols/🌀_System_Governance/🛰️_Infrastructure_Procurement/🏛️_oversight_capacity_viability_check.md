@@ -1,6 +1,6 @@
 # 🏛️ Oversight Capacity Viability Check  
-**First created:** 2025-12-13 | **Last updated:** 2025-12-13  
-*A diagnostic tool for determining whether policing oversight bodies still have the capacity to function meaningfully under systemic attrition.*
+**First created:** 2025-12-13 | **Last updated:** 2026-01-28  
+*A diagnostic tool for determining whether policing oversight bodies still have the capacity to function meaningfully under systemic attrition.*  
 
 ---
 
