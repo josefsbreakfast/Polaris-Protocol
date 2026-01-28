@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-28 19:47:46 UTC_
+_Generated on 2026-01-28 19:49:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3677,7 +3677,7 @@ _Generated on 2026-01-28 19:47:46 UTC_
       - [`risk_matrix_cost_closed_mouth.png`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/risk_matrix_cost_closed_mouth.png)
       - [`sector_drag_curve_closed_mouth.png`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/sector_drag_curve_closed_mouth.png)
       - [`🎈_silence_as_infrastructure.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🎈_silence_as_infrastructure.md)
-      - [`🏷️_vendor_ghost_loops_how_recurring_contractors_keep_containment_alive.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🏷️_vendor_ghost_loops_how_recurring_contractors_keep_containment_alive.md)
+      - [`🏷️_vendor_ghost_loops.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🏷️_vendor_ghost_loops.md)
       - [`👾_the_digital_torture_chamber.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/👾_the_digital_torture_chamber.md)
       - [`💊_therapeutic_containment.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/💊_therapeutic_containment.md)
       - [`💸_the_cost_of_a_closed_mouth.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/💸_the_cost_of_a_closed_mouth.md)
