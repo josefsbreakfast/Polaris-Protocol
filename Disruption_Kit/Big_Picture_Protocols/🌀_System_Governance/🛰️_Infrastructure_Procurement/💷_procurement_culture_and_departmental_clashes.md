@@ -1,5 +1,5 @@
 # 💷 Procurement Culture and Departmental Clashes  
-**First created:** 2025-09-29 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-29 | **Last updated:** 2026-01-28  
 *How Treasury logics and departmental needs clash, shaping the adoption of surveillance and “fix” technologies.*  
 
 ---
@@ -59,7 +59,7 @@ The clash is structural:
 ---
 
 ## 🏮 Footer  
-*Procurement Culture and Departmental Clashes* is a living node of the Polaris Protocol.  
+*💷 Procurement Culture and Departmental Clashes* is a living node of the Polaris Protocol.  
 It documents how Treasury logics and departmental needs clashed, shaping surveillance adoption and vendor lock-in.  
 
 > 📡 Cross-references:
@@ -69,4 +69,4 @@ It documents how Treasury logics and departmental needs clashed, shaping surveil
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-01-28_  
