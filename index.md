@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-01-28 22:24:25 UTC_
+_Generated on 2026-01-28 22:26:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4389,6 +4389,7 @@ _Generated on 2026-01-28 22:24:25 UTC_
       - [`🪽_those_you_are_god_videos.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪽_those_you_are_god_videos.md)
       - [`🫀_provocation_capture.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🫀_provocation_capture.md)
       - [`🫠_projection_leak_signature.md`](Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🫠_projection_leak_signature.md)
+    - [`README.md`](Metadata_Sabotage_Network/Structural_Analysis/README.md)
   - [**Suppression_Layers/**](Metadata_Sabotage_Network/Suppression_Layers/)
     - [**📉_Suppression_Interference_Logs/**](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/)
       - [**data/**](Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/data/)
