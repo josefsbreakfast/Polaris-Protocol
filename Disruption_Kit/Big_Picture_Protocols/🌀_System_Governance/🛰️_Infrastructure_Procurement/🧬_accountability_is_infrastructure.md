@@ -1,5 +1,5 @@
 # 🧬 Accountability Is Infrastructure  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-20 | **Last updated:** 2026-01-28  
 *Why accountability is not a moral add-on but a load-bearing system of the state.*  
 
 ---
@@ -205,12 +205,13 @@ accountability infrastructure, state capacity, institutional design, rule of law
 It frames accountability as a foundational system requirement without which justice, safeguarding, democracy, and security cannot function.
 
 > 📡 Cross-references:
-> - **⚖️ Risk Aversion Is Policy** — fear replacing design  
-> - **⚖️ Visibility Is Enforcement** — signalling mechanics  
-> - **🏛️ Precedent Is Policy** — behaviour as governance  
-> - **🧬 How to Prosecute Power Without Collapse** — resilient accountability design  
-> - **🧬 What a CSA System Optimised for Prevention Looks Like** — prevention-first architecture  
+> 
+> - [⚖️ Risk Aversion Is Policy](../⚖️_Legal_State_Governance/⚖️_risk_aversion_is_policy.md) — *fear replacing design*  
+> - [⚖️ Visibility Is Enforcement](../⚖️_Legal_State_Governance/⚖️_visibility_is_enforcement.md) — *signalling mechanics*  
+> - [🏛️ Precedent Is Policy](../⚖️_Legal_State_Governance/🏛️_precedent_is_policy.md) — *behaviour as governance*  
+> - [🧬 How to Prosecute Power Without Collapse](../⚖️_Legal_State_Governance/🧬_how_to_prosecute_power_without_collapse.md) — *resilient accountability design*  
+> - [🧬 What a CSA System Optimised for Prevention Looks Like](../⚖️_Legal_State_Governance/🧬_what_a_csa_system_optimised_for_prevention_looks_like.md) — *prevention-first architecture*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-01-28_
