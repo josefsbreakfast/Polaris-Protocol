@@ -1,5 +1,5 @@
 # 🛰️ Moonshot CVE vs OpenAI — Prevention vs Platform  
-**First created:** 2025-11-06 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-06 | **Last updated:** 2026-01-28  
 *Actor-map of harm-prevention logic and platform-growth logic in the algorithmic governance ecosystem.*  
 
 ---
@@ -129,9 +129,9 @@ It maps opposing logics of harm prevention and model proliferation to clarify wh
 
 > 📡 Cross-references:
 > 
-> - [⚖️ AI Black Box Inquests] — forensic framework for post-incident inquiry  
-> - [⚖️ Containment Contract Trace] — systemic analysis of governance tension  
+> - [🫀 AI Black Box Inquests](../👑_Ownership_Control/🫀_ai_black_box_inquests.md) — *forensic framework for post-incident inquiry*  
+> - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *systemic analysis of governance tension*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-01-28_
