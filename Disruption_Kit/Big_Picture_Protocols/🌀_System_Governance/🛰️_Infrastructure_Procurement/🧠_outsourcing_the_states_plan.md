@@ -1,5 +1,5 @@
 # 🧠 Outsourcing the State’s Brain  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-28  
 *Why UK defence relies on consultancies — and how strategic outsourcing erodes democratic accountability.*  
 
 ---
@@ -157,9 +157,9 @@ It documents how reliance on consultancies for strategic thought reshapes defenc
 > 📡 Cross-references:
 > 
 > - [🏛️ Consultancy Power vs Democratic Safeguards](../⚖️_Legal_State_Governance/🏛️_consultancy_power_vs_democratic_safeguards.md) — *structural incentive conflict*  
-> - [🧭 Migration Crisis as a Consultancy Revenue Environment](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🧭_migration_crisis_as_a_consultancy_revenue_environment.md) — *crisis-driven demand*
+> - [🧭 Migration Crisis as a Consultancy Revenue Environment](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🧭_migration_crisis_as_a_consultancy_revenue_environment.md) — *crisis-driven demand*  
 > - [🧬 Classification as Extraction](../⚖️_Legal_State_Governance/🧬_recycling_violence_through_governance.md) — *how harm is re-encoded*  
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-01-28_
