@@ -1,5 +1,5 @@
 # 🛰️ Surveillance Infrastructure  
-**First created:** 2025-08-03 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-03 | **Last updated:** 2026-01-28  
 *Polaris Protocol doctrine on surveillance infrastructure and metadata capture.*  
 
 ---
@@ -95,14 +95,14 @@ surveillance infrastructure, metadata capture, prevent, CVE, behavioural flaggin
 
 ## 🏮 Footer  
 
-*Surveillance Infrastructure* is a living node of the Polaris Protocol.  
+*🛰️ Surveillance Infrastructure* is a living node of the Polaris Protocol.  
 It documents the escalation of surveillance powers from post-9/11 laws through COVID-19 testbeds to Prevent/CVE frameworks.  
 
 > 📡 Cross-references:
 > 
 > - [🛂 Papers Please Problems](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🛂_Papers_Please_Problems/README.md) — *on ID logic and citizen containment*  
-> - [💷 Procurement Culture and Departmental Clashes](./💷_procurement_culture_and_departmental_clashes.md) - *On UK government procurement logics, Treasury culture, and the cost of false fixes*  
+> - [💷 Procurement Culture and Departmental Clashes](./💷_procurement_culture_and_departmental_clashes.md) - *on UK government procurement logics, Treasury culture, and the cost of false fixes*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-01-28_  
