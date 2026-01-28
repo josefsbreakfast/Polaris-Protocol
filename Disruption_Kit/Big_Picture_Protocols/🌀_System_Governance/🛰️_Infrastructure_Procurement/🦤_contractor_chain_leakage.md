@@ -1,6 +1,6 @@
 # 🦤 Contractor Chain Leakage  
-**First created:** 2025-12-29 | **Last updated:** 2025-12-29  
-*How risk-language leaks upstream while records remain formally disclaimed*
+**First created:** 2025-12-29 | **Last updated:** 2026-01-28  
+*How risk-language leaks upstream while records remain formally disclaimed.*  
 
 ---
 
@@ -103,4 +103,4 @@ It contributes analytic language for identifying governance awareness through vo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-01-28_
