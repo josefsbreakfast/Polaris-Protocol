@@ -1,6 +1,6 @@
-# 🌦️ Hope for the Best, Expect the Worst — Transformative Anti‑Exploitation Practice
-**First created:** 2025-10-06 | **Last updated:** 2025-10-18  
-*A governance brief: designing systems and processes that assume occasional bad faith, and reduce the low-effort, high-impact exploits that legacy, federated stacks make possible.*
+# 🌦️ Hope for the Best, Expect the Worst — Transformative Anti‑Exploitation Practice  
+**First created:** 2025-10-06 | **Last updated:** 2026-01-28  
+*A governance brief: designing systems and processes that assume occasional bad faith, and reduce the low-effort, high-impact exploits that legacy, federated stacks make possible.*  
 
 ---
 
@@ -101,4 +101,4 @@ This frames anti-exploitation as pragmatic resilience, not paranoid overreach.
 ## 🏮 Footer
 *🌦️ Hope for the Best, Expect the Worst — Transformative Anti‑Exploitation Practice* is a governance brief intended to translate plausible technical exploits into pragmatic policy and operational fixes. It invites organisations to shift from hopeful design to resilient practice.
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-01-28_
