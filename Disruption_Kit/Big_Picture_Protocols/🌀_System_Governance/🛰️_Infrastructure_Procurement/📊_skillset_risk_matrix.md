@@ -1,6 +1,6 @@
 # 📊 Skillset Risk Matrix  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*How different professional backgrounds intersect with system literacy, recognition duty, and risk of unchallenged misclassification.*
+**First created:** 2025-12-14 | **Last updated:** 2026-01-28  
+*How different professional backgrounds intersect with system literacy, recognition duty, and risk of unchallenged misclassification.*  
 
 ---
 
@@ -129,10 +129,10 @@ It provides a comparative lens for understanding where systemic misclassificatio
 
 > 📡 Cross-references:
 > 
-> - [🎓 Duty to Recognise Systemic Misclassification](../Metadata_Sabotage_Network/Structural_Analysis/🎓_duty_to_recognise_systemic_misclassification.md) — ethical framing.  
-> - [🪬 Professional Profiles with High System Literacy](../Metadata_Sabotage_Network/Structural_Analysis/🪬_professional_profiles_with_high_system_literacy.md) — role analysis.  
-> - [👾 The Digital Torture Chamber](../Metadata_Sabotage_Network/Structural_Analysis/👾_the_digital_torture_chamber.md) — harm model.  
+> - [🎓 Duty to Recognise Systemic Misclassification](../Metadata_Sabotage_Network/Structural_Analysis/🎓_duty_to_recognise_systemic_misclassification.md) — *ethical framing*  
+> - [🪬 Professional Profiles with High System Literacy](../Metadata_Sabotage_Network/Structural_Analysis/🪬_professional_profiles_with_high_system_literacy.md) — *role analysis*  
+> - [👾 The Digital Torture Chamber](../Metadata_Sabotage_Network/Structural_Analysis/👾_the_digital_torture_chamber.md) — *harm model*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-01-28_
