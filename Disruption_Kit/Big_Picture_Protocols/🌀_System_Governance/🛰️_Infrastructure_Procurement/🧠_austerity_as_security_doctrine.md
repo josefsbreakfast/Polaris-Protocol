@@ -1,5 +1,5 @@
 # 🧠 Austerity as Security Doctrine  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-12 | **Last updated:** 2026-01-28  
 *Privatisation drift and moral exhaustion in defence governance.*  
 
 ---
@@ -33,9 +33,11 @@ austerity, privatisation, governance drift, mod culture, accountability
 ## 🏮 Footer  
 *🧠 Austerity as Security Doctrine* is a living node of the Polaris Protocol.  
 
-> 📡 Cross-references:  
-> - [⚖️ Official Secrets Reform and Accountability]  
-> - [📜 When Containment Becomes Identity]  
+> 📡 Cross-references:
+> 
+> - [⚖️ Official Secrets Reform and Accountability](../⚖️_Legal_State_Governance/⚖️_official_secrets_reform_and_accountability.md)  
+> - [📜 When Containment Becomes Identity](../💫_Containment_Logic/📜_when_containment_becomes_identity.md)  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-01-28_
