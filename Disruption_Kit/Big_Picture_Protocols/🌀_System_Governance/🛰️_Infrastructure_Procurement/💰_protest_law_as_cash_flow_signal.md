@@ -1,6 +1,6 @@
 # 💰 Protest Law as a Cash-Flow Signal  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*Reading protest-law drift and unlawful practice as indicators of institutional budget stress*
+**First created:** 2025-12-20 | **Last updated:** 2026-01-28  
+*Reading protest-law drift and unlawful practice as indicators of institutional budget stress.*  
 
 ---
 
@@ -167,10 +167,10 @@ It contributes diagnostic analysis showing how budget stress and capacity collap
 
 > 📡 Cross-references:
 > 
-> - **💰 Protest Law and Procurement Vulnerability** — kit capture under stress  
-> - **🧠 Big Picture Protocols** — institutional overload and governance drift  
-> - **⚖️ Legal State Governance** — protest law and executive stretch  
+> - [🪞 Post-Imperial Recruitment and Cultural Risk in Private Intelligence](../../🦕_Elder_Influencers/🕸️_World_Webs/🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md)  
+> - [⚖️ Harm Reduction vs Adversarial Governance](../⚖️_Legal_State_Governance/⚖️_harm_reduction_vs_adversarial_governance.md)  
+> - [🔥 Breaking Media Blockade Through Body-Based Protest](../../../../🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🔥_breaking_media_blockade_through_body_based_protest.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-20_
+_Last updated: 2026-01-28_
