@@ -1,5 +1,5 @@
 # 🛰️ Data Fusion Centres  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-14 | **Last updated:** 2026-01-28  
 *Nodes where multiple data streams merge (health, education, police), erasing consent boundaries.*  
 
 ---
@@ -94,4 +94,4 @@ It documents how multi-agency hubs merge datasets across domains, collapsing con
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-01-28_  
