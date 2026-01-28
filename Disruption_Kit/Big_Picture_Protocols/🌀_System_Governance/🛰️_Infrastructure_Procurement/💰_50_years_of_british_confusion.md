@@ -1,6 +1,6 @@
 # 💰 50 Years of British Confusion  
-**First created:** 2025-12-29 | **Last updated:** 2025-12-29  
-*How fiscal fear, balance-sheet optics, and institutional trauma inverted British politics*
+**First created:** 2025-12-29 | **Last updated:** 2026-01-28  
+*How fiscal fear, balance-sheet optics, and institutional trauma inverted British politics.*  
 
 ---
 
@@ -220,8 +220,12 @@ austerity, privatisation, fiscal credibility, national debt, balance sheet polit
 It maps the psychological and fiscal through-lines that reshaped British governance over half a century, explaining contemporary incoherence without resorting to caricature.
 
 > 📡 Cross-references:
-> 
+>
+> - [🇬🇧 Why the UK Likes to Laugh at the Ruling Class](../📚_Narrative_Management/🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md)  
+> - [✨ How Much to Turn the Stars Back On](../../../../🦆_Digital_Disruption/🐝_All_In_Commons/✨_how_much_to_turn_the_stars_back_on.md)  
+> - [🦎 Finding One’s Chirp](../../../../🦆_Digital_Disruption/🐈‍⬛_Antifacist_Propaganda_Machine/🦎_finding_ones_chirp.md)  
+> - [🍉 Your Voice Is Your Vote](../📚_Narrative_Management/🍉_your_voice_is_your_vote.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-01-28_
