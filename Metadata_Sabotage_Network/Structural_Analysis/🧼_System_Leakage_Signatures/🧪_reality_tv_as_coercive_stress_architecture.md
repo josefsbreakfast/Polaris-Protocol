@@ -1,7 +1,6 @@
-# 🧪 Reality TV as Coercive Stress Architecture
-
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*How entertainment formats replicate the mechanics of high-stress coercive environments without naming them as such.*
+# 🧪 Reality TV as Coercive Stress Architecture  
+**First created:** 2025-12-14 | **Last updated:** 2026-01-28  
+*How entertainment formats replicate the mechanics of high-stress coercive environments without naming them as such.*  
 
 ---
 
@@ -157,7 +156,10 @@ This reframing restores dignity to participants and accountability to systems.
 
 ## 🌌 Constellations
 
-🧪 🦒 🧠 📺 🧿 — experimentation, structure, psychology, media systems, control.
+🧪 🦒 🧠 📺 🧿 — experimentation, structure, psychology, media systems, control.  
+
+*Further media:*  
+- Bamalobela discusses these issues, as well as Jason Okundaye's The Blair Show piece for The Tribune, [on TikTok](https://vm.tiktok.com/ZNRA6KR2y/).  
 
 ---
 
@@ -169,7 +171,7 @@ coercive stress, reality television, behavioural architecture, surveillance envi
 
 ## 🏮 Footer
 
-*Reality TV as Coercive Stress Architecture* is a living node of the **Polaris Protocol**.
+*🧪 Reality TV as Coercive Stress Architecture* is a living node of the **Polaris Protocol**.
 It maps the repeatable design mechanisms that transform entertainment formats into high-stress behavioural environments, restoring analytical clarity to a normalised cultural practice.
 
 > 📡 Cross-references:
@@ -179,4 +181,4 @@ It maps the repeatable design mechanisms that transform entertainment formats in
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+_Last updated: 2026-01-28_  
