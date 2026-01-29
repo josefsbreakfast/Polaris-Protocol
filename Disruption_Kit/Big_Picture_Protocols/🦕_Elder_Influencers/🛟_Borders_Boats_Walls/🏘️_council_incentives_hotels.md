@@ -1,5 +1,5 @@
 # 🏘️ Council Incentives Hotels  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-16 | **Last updated:** 2026-01-29  
 *How austerity-era cuts and ring-fenced grants shape local authority involvement in asylum accommodation.*  
 
 ---
@@ -55,7 +55,18 @@
 
 ## Counterarguments & Rebuttals  
 - “Councils benefit financially.” → In practice, contractors take billions; councils get mitigation scraps.  
-- “Hotels are unfair on locals.” → Hotels are a symptom of backlog and outsourcing, not a council choice.  
+- “Hotels are unfair on locals.” → Hotels are a symptom of backlog and outsourcing, not a council choice.
+
+---
+
+## Constellations  
+
+*Further media:*  
+- ["Revealed: The UK’s most deprived neighbourhoods where crime and unemployment will rise the most"](https://www.independent.co.uk/news/uk/politics/deprived-crime-unemployment-government-funding-b2909293.html), Dan Haygarth, The Independent.  
+
+---
+
+## Stardust  
 
 ---
 
@@ -72,4 +83,4 @@ It documents how austerity-era cuts and ring-fenced grants shape council incenti
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-01-29_
