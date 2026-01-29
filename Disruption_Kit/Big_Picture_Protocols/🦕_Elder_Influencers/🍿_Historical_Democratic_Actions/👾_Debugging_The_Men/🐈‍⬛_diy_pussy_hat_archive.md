@@ -106,4 +106,4 @@ It preserves the craft-based infrastructure of one of the most accessible and in
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-13_
+_Last updated: 2026-01-29_
