@@ -1,17 +1,17 @@
 # 🌀 Recursive Risk Logic in Private Intelligence  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-03 | **Last updated:** 2026-01-29  
 *How data breaches, talent drift, and market incentives regenerate the very risks the intelligence industry claims to control.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Every major leak or skills exodus from the security sector feeds a self-reinforcing loop:  
 the more data and expertise escape containment, the larger the market for private-intelligence services becomes.  
 This is the *recursive risk logic* of the modern surveillance economy—each breach creates new business for the same mindset that caused it.
 
 ---
 
-## 🧩 1.  Mechanics of the Loop  
+## 🌀 Mechanics of the Loop  
 
 | Stage | Description | Outcome |
 |--------|--------------|----------|
@@ -25,7 +25,7 @@ The loop feeds on itself: control failures create markets for more control.
 
 ---
 
-## 🧠 2.  Feedback and Mutation  
+## 🧠 Feedback and Mutation  
 - **Data breaches become training data.**  Every lost drive becomes a live exercise in reconstruction.  
 - **Declassification drift.**  Once material circulates online, it’s rebranded as “open-source intelligence.”  
 - **Workforce recursion.**  Ex-officers hire their peers; new entrants learn normalised opacity.  
@@ -35,7 +35,7 @@ This is how an intelligence ecosystem reproduces outside the state—by natural 
 
 ---
 
-## ⚙️ 3.  System Consequences  
+## 🧨 System Consequences  
 1. **Proliferation of capacity:** espionage-as-a-service.  
 2. **Privatisation of oversight:** security audits run by those selling insecurity.  
 3. **Cultural normalisation:** secrecy reframed as professionalism.  
@@ -43,7 +43,7 @@ This is how an intelligence ecosystem reproduces outside the state—by natural 
 
 ---
 
-## 🪖 4.  The Exploitability Vector  
+## 🪖 The Exploitability Vector  
 The recursive loop doesn’t only reproduce technology; it reproduces *vulnerable people*.  
 Ex-service and intelligence personnel occupy an ambiguous zone: no longer under formal discipline, still bound by secrecy culture, often financially insecure, and socially networked through trust-based circles.  
 
@@ -60,7 +60,7 @@ It’s not only foreign states who can exploit it; wealthy individuals, corporat
 
 ---
 
-## 🧩 5.  Containment by Design  
+## 🧊 Containment by Design  
 True containment would require structural symmetry:  
 - **Licensing** of all intelligence-adjacent employment.  
 - **Cooling-off periods** for ex-operatives before private contracting.  
@@ -71,7 +71,7 @@ Without these, every attempt at reform simply seeds the next loop.
 
 ---
 
-## 🪶 6.  Literary Mirror  
+## 🪶 Literary Mirror  
 John le Carré saw it first: *“The secret world is a leaking world.”*  
 What he wrote as tragedy has become business logic—the permanent commodification of disillusioned tradecraft.
 
@@ -93,10 +93,10 @@ It traces how the private-intelligence economy perpetuates its own necessity thr
 
 > 📡 Cross-references:
 > 
-> - 🕶️ Whistleblowing and Entrapment in the Para-Intelligence Economy  
-> - 🕸️ Interlocking Influence Economy  
-> - 🪞 Post-Imperial Recruitment and Cultural Risk in Private Intelligence  
+> - [🕶️ Whistleblowing and Entrapment in the Para-Intelligence Economy](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)  
+> - [🕸️ Interlocking Influence Economy](../📚_Narrative_Management/🕸️_interlocking_influence_economy.md)  
+> - [🪞 Post-Imperial Recruitment and Cultural Risk in Private Intelligence](../../🦕_Elder_Influencers/🕸️_World_Webs/🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-01-29_
