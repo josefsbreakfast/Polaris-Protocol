@@ -1,6 +1,6 @@
 # 🐈‍⬛ DIY Pussy Hat Archive  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
-*A community-powered craft archive for the hats that travelled further than any march could.*
+**First created:** 2025-11-12 | **Last updated:** 2026-01-29  
+*A community-powered craft archive for the hats that travelled further than any march could.*  
 
 ---
 
@@ -80,7 +80,10 @@ A symbol that was soft — and absolutely not harmless.
 
 ## 🌌 Constellations  
 
-🧵 🐈‍⬛ 🧠 🦕 — craft as political force, feminist organising, elder power, soft-signal networks.
+🧵 🐈‍⬛ 🧠 🦕 — craft as political force, feminist organising, elder power, soft-signal networks.  
+
+*Further media:*  
+- The Beanie Showroom goves the history and current politics of red hats as resistance in Minnesota, [on TikTok](https://vm.tiktok.com/ZNRAhxe5g/).  
 
 ---
 
