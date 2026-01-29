@@ -1,5 +1,5 @@
 # 🧭 UK Tech Talent, Scaling, and Policy Timeline  
-**First created:** 2025-09-01 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-01 | **Last updated:** 2026-01-29  
 *Tracing decisions since 2000 that shaped the UK’s dependence on foreign contractors.*  
 
 ---
@@ -58,6 +58,18 @@ This is less about capacity than about **policy decisions, procurement culture, 
 
 ---
 
+## Constellations  
+
+*Further media:*  
+- ["France to ban officials from US video tools including Zoom, Teams"](https://www.politico.eu/article/france-ban-officials-us-video-tools-zoom-teams-visio/), Émile Marzolf, Politico.  
+
+
+---
+
+## Stardust  
+
+---
+
 ## 🏮 Footer  
 
 *UK Tech Talent, Scaling, and Policy Timeline* is a living node of the Polaris Protocol.  
@@ -70,4 +82,4 @@ It documents the cumulative effect of 25 years of decisions that entrenched outs
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-01-29_
