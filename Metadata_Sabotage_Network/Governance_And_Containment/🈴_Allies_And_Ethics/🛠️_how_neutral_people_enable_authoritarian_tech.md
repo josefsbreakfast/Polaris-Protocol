@@ -1,5 +1,5 @@
 # 🛠️ How Neutral People Enable Authoritarian Tech  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-16 | **Last updated:** 2026-01-29  
 *Why “I’m just doing my job” becomes the operating system of modern authoritarian drift.*  
 
 ---
@@ -192,6 +192,9 @@ when in reality they are being crushed by **distributed neutrality**.
 ## 🌌 Constellations  
 🛠️ 🦕 🧠 🔥 🛰️  
 
+*Further media:*  
+- ["France to ban officials from US video tools including Zoom, Teams"](https://www.politico.eu/article/france-ban-officials-us-video-tools-zoom-teams-visio/), Émile Marzolf, Politico.  
+
 ---
 
 ## ✨ Stardust  
@@ -205,4 +208,4 @@ It examines how procedural compliance, not malice, becomes the engine of authori
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-01-29_
