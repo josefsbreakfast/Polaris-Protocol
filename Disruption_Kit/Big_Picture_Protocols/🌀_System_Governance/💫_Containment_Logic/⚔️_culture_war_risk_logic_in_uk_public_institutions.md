@@ -1,5 +1,5 @@
 # ⚔️ Culture War Risk Logic in UK Public Institutions  
-**First created:** 2025-11-16 | **Last updated:** 2026-01-19  
+**First created:** 2025-11-16 | **Last updated:** 2026-01-29  
 *How culture war narratives infiltrate public bodies, distort safeguarding and governance priorities, and create reactive, optics-driven misinterpretation loops.*  
 
 ---
@@ -227,6 +227,15 @@ Mapping it helps users:
 
 ---
 
+## Constellations  
+
+*Further media:*  
+- [How culture wars hurt the British economy](https://www.prospectmagazine.co.uk/politics/72199/how-culture-wars-hurt-the-economy), Ben Ansell, Prospect.  
+
+## Stardust
+
+---
+
 ## 🏮 Footer  
 *⚔️ Culture War Risk Logic in UK Public Institutions* is part of Polaris’ Bureaucratic Harm & Democratic Drift cluster.  
 It analyses how political narratives distort operational decision-making, creating long-term harm for individuals and communities most vulnerable to misinterpretation.
@@ -240,4 +249,4 @@ It analyses how political narratives distort operational decision-making, creati
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-19_
+_Last updated: 2026-01-29_
