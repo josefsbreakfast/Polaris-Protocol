@@ -1,5 +1,5 @@
 # 🩺 Fixing the NHS Frankenstack  
-**First created:** 2026-01-28 | **Last updated:** 2026-01-28  
+**First created:** 2026-01-28 | **Last updated:** 2026-01-31  
 *Why NHS interoperability must be fixed before analytics, AI, or efficiency claims are credible.*  
 <!--Recost it if you believe it's wrong.-->
 ---
@@ -341,7 +341,7 @@ This reframes efficiency as *capacity creation*, not care withdrawal.
 
 ---
 
-## 🏁 Core Truth  
+## 🌙 Core Truth  
 
 Frontline staff have been clear for years — not in abstract strategy documents, but in daily workarounds:  
 
@@ -350,7 +350,7 @@ Frontline staff have been clear for years — not in abstract strategy documents
 They already know where the inefficiencies are, because they absorb them personally every day.  
 
 The Frankenstack is not a mystery. It is a political artefact — and it can be dismantled if those closest to the work are finally listened to.  
-
+<!--Example for SCD: recognition should be baseline in UK, for VOC/crisis, time to opiod more likely but not necessarily decreased; likely gains in management of complicated VOC and potential reduction in LoS as well as potential end-organ protective effects by screening out mild-moderate presentations early. Increasing pathology result presentation standarisation decreases risk of "out-of-range" or non-textbook presentations receiving subpar management, esp in period before senior review. If dose-sensitive to opiods (inc from resistance or poor metabolism of), records compliance increase improves ability to give enough and at a safe dose. Reliable history being standardised potentially reduces need to recall entire hx when not yet analgesia-loaded, although only likely one format trusted and institutionalised; future R&D requirement. By protecting end-organ and peripheral blood supply, possible QALY/DALY improvements. Early access of guidelines, if possible, also likely to produce net gain over time.-->
 ---
 
 ## 🏮 Footer
@@ -365,4 +365,4 @@ The Frankenstack is not a mystery. It is a political artefact — and it can be 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-28_ 
+_Last updated: 2026-01-31_ 
