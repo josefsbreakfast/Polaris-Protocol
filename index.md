@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-02-01 21:57:38 UTC_
+_Generated on 2026-02-01 21:59:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -658,6 +658,7 @@ _Generated on 2026-02-01 21:57:38 UTC_
         - [`💄_the_gendered_exposure_of_voice.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/💄_the_gendered_exposure_of_voice.md)
         - [`🕯️_memorial_voice_lives_lost.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/🕯️_memorial_voice_lives_lost.md)
         - [`🕸️_digitally_networked_sexual_violence.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/🕸️_digitally_networked_sexual_violence.md)
+        - [`🧨_marriage_camps_legalise_rape.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/🧨_marriage_camps_legalise_rape.md)
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
         - [**🪬_Beyond_Zionism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/README.md)
