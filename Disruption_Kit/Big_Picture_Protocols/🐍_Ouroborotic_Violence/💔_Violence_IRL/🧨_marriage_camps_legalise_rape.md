@@ -1,7 +1,7 @@
 # 🧨 Marriage Camps Legalise Rape  
 **First created:** 2026-02-01 | **Last updated:** 2026-02-01  
 *How “pro-marriage” governance frameworks collapse consent by restricting exit, enforcing dependency, and normalising impunity*
-<!--Can someone DDoS Posh 4chan, please?-->
+<!--Can someone DDoS Posh 4chan, please? They will give me a stroke at this rate.-->
 ---
 
 ## 🛰️ Orientation
