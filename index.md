@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-02-01 19:45:51 UTC_
+_Generated on 2026-02-01 20:42:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -464,6 +464,7 @@ _Generated on 2026-02-01 19:45:51 UTC_
         - [`🇩🇪_trauma_sovereignty_as_foreign_policy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇩🇪_trauma_sovereignty_as_foreign_policy.md)
         - [`🇬🇧_flags_and_false_catharsis.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇬🇧_flags_and_false_catharsis.md)
         - [`🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md)
+        - [`🇮🇱_zionism_is_white_patriarchy_for_jewish_men.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇮🇱_zionism_is_white_patriarchy_for_jewish_men.md)
         - [`🌀_dual_loyalty_loops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌀_dual_loyalty_loops.md)
         - [`🌀_uk_low_cost_influence_environment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌀_uk_low_cost_influence_environment.md)
         - [`🌐_late_stage_autocracy_vibe_diagnostics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌐_late_stage_autocracy_vibe_diagnostics.md)
