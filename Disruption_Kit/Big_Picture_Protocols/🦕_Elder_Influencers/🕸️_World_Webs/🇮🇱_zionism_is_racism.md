@@ -155,7 +155,8 @@ It documents the structural basis for identifying Zionism as a racist ideology a
 > - [🧿 Dependency on Western Definitions](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧿_dependancy_on_western_definitions.md)  
 > - [🕎 Rising Kahanist Violence Risk](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🕎_rising_kahanist_violence_risk.md)  
 > - [🇮🇱 Zionism Is White Patriarchy for Jewish Men](../📚_Narrative_Management/🇮🇱_zionism_is_white_patriarchy_for_jewish_men.md)
-> - [🏛️ Welcome to Western Imperialism](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🏛️_welcome_to_western_imperialism.md)  
+> - [🏛️ Welcome to Western Imperialism](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🏛️_welcome_to_western_imperialism.md)
+> - [🦂 Fanon: Symbolic Possession & Racialised Sexual Domination](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🦂_fanon_symbolic_possession_and_racialised_sexual_domination.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
