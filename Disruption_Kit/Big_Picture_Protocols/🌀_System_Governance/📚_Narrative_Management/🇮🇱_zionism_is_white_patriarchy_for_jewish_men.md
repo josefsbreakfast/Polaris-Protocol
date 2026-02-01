@@ -143,7 +143,8 @@ It documents the structural relationship between nationalism, patriarchy, race, 
 
 > 📡 Cross-references:
 > 
-> - [🧿 Dependency on Western Definitions](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧿_dependancy_on_western_definitions.md)  
+> - [🧿 Dependency on Western Definitions](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧿_dependancy_on_western_definitions.md)
+> - [🇮🇱 Zionism Is Racism](../../🦕_Elder_Influencers/🕸️_World_Webs/🇮🇱_zionism_is_racism.md)  
 > - [🫀 The Digital Heart of the Matter](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🫀_the_digital_heart_of_the_matter.md)  
 > - [🧠 Smart Women Get Surveillance](../💫_Containment_Logic/🧠_smart_women_get_surveillance.md)  
 > - [🏛️ Welcome to Western Imperialism](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🏛️_welcome_to_western_imperialism.md)  
