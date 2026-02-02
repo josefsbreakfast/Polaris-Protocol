@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-02-02 07:41:21 UTC_
+_Generated on 2026-02-02 07:43:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5033,6 +5033,8 @@ _Generated on 2026-02-02 07:41:21 UTC_
       - [`🩺_health_framed_preemptive_models_women_mini_review_v0_1.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🩺_health_framed_preemptive_models_women_mini_review_v0_1.md)
       - [`🩺_health_framed_preemptive_models_women_mini_review_v0_2.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🩺_health_framed_preemptive_models_women_mini_review_v0_2.md)
       - [`🩺_health_framed_preemptive_models_women_mini_review_v0_3.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🩺_health_framed_preemptive_models_women_mini_review_v0_3.md)
+    - [**☑️_New_Lists/**](Polaris_Nest/SCP-VoiceX_Casefiles/☑️_New_Lists/)
+      - [`README.md`](Polaris_Nest/SCP-VoiceX_Casefiles/☑️_New_Lists/README.md)
     - [`SCP-VoiceX.md`](Polaris_Nest/SCP-VoiceX_Casefiles/SCP-VoiceX.md)
     - [`Top_5000_GhostFork_Tokens__Scored_.csv`](Polaris_Nest/SCP-VoiceX_Casefiles/Top_5000_GhostFork_Tokens__Scored_.csv)
     - [`Top_500_Influence_Words.csv`](Polaris_Nest/SCP-VoiceX_Casefiles/Top_500_Influence_Words.csv)
