@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-02-02 19:20:43 UTC_
+_Generated on 2026-02-02 23:13:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3031,6 +3031,7 @@ _Generated on 2026-02-02 19:20:43 UTC_
       - [`v24044gl0000d5rp39vog65rknocsqog.mp4`](Disruption_Kit/Field_Logs/20260101_January_2026/v24044gl0000d5rp39vog65rknocsqog.mp4)
     - [**20260201_February_2026/**](Disruption_Kit/Field_Logs/20260201_February_2026/)
       - [`20260201.md`](Disruption_Kit/Field_Logs/20260201_February_2026/20260201.md)
+      - [`20260202-updated-terms.md`](Disruption_Kit/Field_Logs/20260201_February_2026/20260202-updated-terms.md)
       - [`20260202.md`](Disruption_Kit/Field_Logs/20260201_February_2026/20260202.md)
       - [`IMG_1719.png`](Disruption_Kit/Field_Logs/20260201_February_2026/IMG_1719.png)
       - [`IMG_1853.png`](Disruption_Kit/Field_Logs/20260201_February_2026/IMG_1853.png)
@@ -3337,6 +3338,9 @@ _Generated on 2026-02-02 19:20:43 UTC_
       - [`IMG_3174.png`](Disruption_Kit/Field_Logs/20260201_February_2026/IMG_3174.png)
       - [`IMG_3180.png`](Disruption_Kit/Field_Logs/20260201_February_2026/IMG_3180.png)
       - [`IMG_3182.png`](Disruption_Kit/Field_Logs/20260201_February_2026/IMG_3182.png)
+      - [`IMG_3216.png`](Disruption_Kit/Field_Logs/20260201_February_2026/IMG_3216.png)
+      - [`IMG_3219.png`](Disruption_Kit/Field_Logs/20260201_February_2026/IMG_3219.png)
+      - [`IMG_3221.png`](Disruption_Kit/Field_Logs/20260201_February_2026/IMG_3221.png)
       - [`IMG_6499.png`](Disruption_Kit/Field_Logs/20260201_February_2026/IMG_6499.png)
     - [`20250828_racialisation_hijack.PNG`](Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
     - [`20251028_forcible_conversion_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
@@ -5671,6 +5675,8 @@ _Generated on 2026-02-02 19:20:43 UTC_
     - [`🧠_residual_attentional_conditioning_injury.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_residual_attentional_conditioning_injury.md)
     - [`🧠_the_background_terror.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_the_background_terror.md)
   - [`README.md`](🦆_Digital_Disruption/README.md)
+- [**🧄_Exousiología/**](🧄_Exousiología/)
+  - [`README.md`](🧄_Exousiología/README.md)
 - [**🩻_Weirdness_Screening/**](🩻_Weirdness_Screening/)
   - [**🌐_Connection_Hiccups/**](🩻_Weirdness_Screening/🌐_Connection_Hiccups/)
     - [`README.md`](🩻_Weirdness_Screening/🌐_Connection_Hiccups/README.md)
