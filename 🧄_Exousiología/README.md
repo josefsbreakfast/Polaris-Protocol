@@ -132,7 +132,15 @@ v2:
     ├── 🪢_what_we_cannot_measure_yet.md
     ├── 🪢_risks_of_co_optation.md
     ├── 🪢_when_theory_becomes_authority.md
-    └── 🪢_future_lines_of_inquiry.md
+    └── 🪢_future_lines_of_inquiry.md  
+
+Additional block:  
+
+🌿_ecological_metaphors/
+├── 🌿_trees_roots_and_canopies.md
+├── 🌿_animals_pack_predator_parasite.md
+├── 🌿_succession_and_regrowth.md
+└── 🌿_mythic_ecologies.md
 
 Notes from LLM:  
 
