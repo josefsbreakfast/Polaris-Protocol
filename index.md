@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-02-02 06:17:26 UTC_
+_Generated on 2026-02-02 06:49:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -786,6 +786,8 @@ _Generated on 2026-02-02 06:17:26 UTC_
         - [`🫛_amplification_by_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫛_amplification_by_convergence.md)
         - [`🫜_asymmetric_discourse_policing.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫜_asymmetric_discourse_policing.md)
         - [`🫥_haunting_through_growth_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🫥_haunting_through_growth_loneliness.md)
+      - [**🦎_Normalisation_Of_Redomination/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/README.md)
       - [**🩸_Genocide_Denialism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/)
         - [**🍉_Palestine/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/)
           - [**🪨_May_Their_Names_Never_Be_Erased/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/)
