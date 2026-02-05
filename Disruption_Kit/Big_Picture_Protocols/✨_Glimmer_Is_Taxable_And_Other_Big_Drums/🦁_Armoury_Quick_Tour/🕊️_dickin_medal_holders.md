@@ -1,5 +1,5 @@
 # 🕊️ Dickin Medal Holders  
-**First created:** 2025-10-12 | **Last updated:** 2025-12-09  
+**First created:** 2025-10-12 | **Last updated:** 2026-01-05  
 *Animals recognised for extraordinary bravery in military or civil-defence service.*
 
 ---
@@ -172,7 +172,10 @@ Each fulfils the same archetype: the **non-human sentry**, stabilising a world t
 - 🎖️ **Victoria Cross** — human analogue  
 - 🧩 **War Animal Memorials** — Blue Cross, National Memorial Arboretum  
 - 🧠 **Algorithmic Recognition Loops** — valorisation mirrors in AI metrics  
-- 📜 **Propaganda & Morale Studies** — animal heroism as affective buffer  
+- 📜 **Propaganda & Morale Studies** — animal heroism as affective buffer
+
+*Further media:*  
+- [More pigeon-related excellence](https://vm.tiktok.com/ZNRUr3TBt/), via TikTok.  
 
 ---
 
@@ -181,4 +184,4 @@ Tags: `#PDSA` `#WWII` `#animal_ethics` `#valorisation` `#sentinel_logic` `#gusta
 
 ---
 
-*Last updated: 2025-12-09*
+_Last updated: 2026-01-05_
