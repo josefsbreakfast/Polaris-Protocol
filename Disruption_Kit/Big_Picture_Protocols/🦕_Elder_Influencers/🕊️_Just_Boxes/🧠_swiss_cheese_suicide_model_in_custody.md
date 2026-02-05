@@ -1,5 +1,5 @@
 # 🧠 Swiss-Cheese Suicide Model in Custody  
-**First created:** 2025-10-04 | **Last updated:** 2025-11-03  
+**First created:** 2025-10-04 | **Last updated:** 2026-02-05  
 *Why “outlier” narratives mislead; how stacked biases punch holes in the net.*
 
 ---
@@ -68,6 +68,9 @@ Accountability does not depend on access to secret data; it depends on a public 
 ## 🌌 Constellations  
 🧠 🧿 ⚖️ 🏴‍☠️ — psychology | witness | law | refusal  
 
+*Further media:*  
+- [A Psychiatrist Reads the Epstein Files: What Actually Went Wrong: Dr Raj Persaud](https://youtu.be/mMjNh7puLkU?si=phB0NQ4nSzEL1ihx), via YouTube.  
+
 ---
 
 ## ✨ Stardust  
@@ -86,4 +89,4 @@ Its purpose is not to speculate on intent but to expose how repeated institution
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-03_
+_Last updated: 2026-02-05_
