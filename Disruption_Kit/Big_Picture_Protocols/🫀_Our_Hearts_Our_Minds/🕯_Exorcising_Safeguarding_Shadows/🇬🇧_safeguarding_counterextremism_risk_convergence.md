@@ -161,6 +161,126 @@ Without deliberate separation of care and security infrastructures, this converg
 
 ---
 
+## 🧭 Counter-Design Note: What Deliberate Separation Looks Like
+
+Breaking safeguarding–counterextremism convergence does not require better monitoring of shared systems.
+It requires **structural separation by design**.
+
+Deliberate separation means recognising that care and security are governed by incompatible logics,
+and refusing architectures that attempt to reconcile them through data reuse or risk aggregation.
+
+This is not inefficiency.
+It is harm prevention.
+
+---
+
+### 1️⃣ Separation of Purpose (Non-Translatable Mandates)
+
+Safeguarding and counterextremism must be treated as **non-translatable domains**.
+
+- Safeguarding exists to respond to harm already experienced.
+- Counterextremism exists to pre-empt hypothetical future threats.
+
+Deliberate separation rejects the idea that indicators from one domain can be meaningfully repurposed by the other.
+Where translation is permitted, it is precisely where misuse emerges.
+
+Design implication:
+> no shared “early warning” frameworks spanning both domains.
+
+---
+
+### 2️⃣ Separation of Infrastructure (No Shared Substrate)
+
+Shared platforms are not neutral.
+
+Case-management systems, data lakes, and analytics layers shape how information is interpreted.
+When care and security share infrastructure, the **stronger logic dominates** — and that logic is always suspicion.
+
+Deliberate separation requires:
+- distinct databases,
+- distinct vendors or system instances,
+- and explicit barriers to cross-domain querying.
+
+Design implication:
+> separation must occur below the policy layer, at the architectural level.
+
+---
+
+### 3️⃣ Separation of Legal Regime (Protections Must Not Cancel)
+
+Safeguarding protections are premised on consent, care, and repair.
+Security regimes are premised on secrecy, pre-emption, and denial of disclosure.
+
+Deliberate separation means refusing designs where:
+- safeguarding data can be retroactively reclassified as intelligence,
+- or security exemptions can be applied to welfare disclosures.
+
+Design implication:
+> no data should move between regimes without **lossless protection**, not merely legal permission.
+
+---
+
+### 4️⃣ Separation of Oversight (No Fragmented Accountability)
+
+Convergence persists because responsibility fragments.
+
+When harm occurs:
+- safeguarding bodies point to security necessity,
+- security bodies point to lawful access,
+- and survivors are left without a forum that can act.
+
+Deliberate separation requires:
+- single-mandate oversight per domain,
+- and prohibition on cross-mandate adjudication of harm.
+
+Design implication:
+> if no single body can order repair, the system is already unsafe.
+
+---
+
+### 5️⃣ Separation of Risk Models (Vulnerability ≠ Threat)
+
+Safeguarding systems model **need**.
+Counterextremism systems model **risk**.
+
+When these models are merged, vulnerability is misread as propensity,
+and harm disclosures become suspicion signals.
+
+Deliberate separation rejects unified scoring, profiling, or prediction across domains.
+
+Design implication:
+> vulnerability indicators must never be upstream inputs into threat models.
+
+---
+
+### 6️⃣ Separation of Narrative Authority (Care Must Not Require Justification)
+
+Finally, deliberate separation protects meaning.
+
+In converged systems, safeguarding must continually justify itself against security priorities.
+Care becomes conditional.
+Protection becomes provisional.
+
+Deliberate separation restores asymmetry:
+- care does not answer to suspicion,
+- safeguarding does not require intelligence value to be legitimate.
+
+Design implication:
+> if care must explain itself in security terms, separation has already failed.
+
+---
+
+### 🛑 Red-Line Principle
+
+If a system cannot guarantee that a disclosure made in search of protection
+will **never** be repurposed as a signal of threat,
+that system should not collect the disclosure at all.
+
+Separation is not optional.
+It is the minimum condition for ethical safeguarding.
+
+---
+
 ## 🌌 Constellations  
 
 🇬🇧 🕯️ 🫀 ⚖️ 🧠 🧩 — UK governance, safeguarding ethics, counterextremism spillover, institutional incentives, structural risk.
