@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-02-05 12:22:14 UTC_
+_Generated on 2026-02-05 13:15:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1719,7 +1719,7 @@ _Generated on 2026-02-05 12:22:14 UTC_
         - [`safeguarding_model_potential.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/safeguarding_model_potential.png)
         - [`vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/vocal_signatories_undermining_survivors_official_opensource_paper_redacted.jpeg)
         - [`⚖️_inversion_and_laundering_as_state_technique.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/⚖️_inversion_and_laundering_as_state_technique.md)
-        - [`⚙️_pseudonym_drift_cascade_how_token_misalignment_spreads_through_systems.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/⚙️_pseudonym_drift_cascade_how_token_misalignment_spreads_through_systems.md)
+        - [`⚙️_pseudonym_drift_cascade.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/⚙️_pseudonym_drift_cascade.md)
         - [`🇬🇧_safeguarding_counterextremism_risk_convergence.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🇬🇧_safeguarding_counterextremism_risk_convergence.md)
         - [`🌀_masculinity_extraction_governance_containment.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🌀_masculinity_extraction_governance_containment.md)
         - [`🌀_semantic_drift_safeguarding_language.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🌀_semantic_drift_safeguarding_language.md)
