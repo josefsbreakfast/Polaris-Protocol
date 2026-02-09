@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-02-09 00:34:59 UTC_
+_Generated on 2026-02-09 01:01:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1366,6 +1366,7 @@ _Generated on 2026-02-09 00:34:59 UTC_
         - [`📜_statutory_censorship_logics.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📜_statutory_censorship_logics.md)
         - [`📡_who_gets_to_transmit.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📡_who_gets_to_transmit.md)
         - [`📱_feed_manipulation_and_containment_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📱_feed_manipulation_and_containment_theatre.md)
+        - [`📻_lobbying_killed_the_radio_star.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📻_lobbying_killed_the_radio_star.md)
         - [`🔥_suppression_and_quasi_suppression.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🔥_suppression_and_quasi_suppression.md)
         - [`🕳_narrative_misattribution_and_war_testimony.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🕳_narrative_misattribution_and_war_testimony.md)
         - [`🖨️_print_culture_as_precedent.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🖨️_print_culture_as_precedent.md)
