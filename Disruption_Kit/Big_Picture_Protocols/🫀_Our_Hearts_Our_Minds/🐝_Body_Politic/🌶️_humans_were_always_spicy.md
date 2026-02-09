@@ -1,5 +1,5 @@
 # 🌶️ Humans Were Always Spicy  
-**First created:** 2026-01-04 | **Last updated:** 2026-01-04  
+**First created:** 2026-01-04 | **Last updated:** 2026-02-09  
 *Why human emotion, volatility, humour, fear, desire, and contradiction are not bugs — and why systems that deny this collapse.*
 
 ---
@@ -168,14 +168,15 @@ human cognition, emotion, rationalism critique, fascism collapse, stoicism conte
 
 ## 🏮 Footer  
 
-*Humans Were Always Spicy* is a living node of the Polaris Protocol.  
+*🌶️ Humans Were Always Spicy* is a living node of the Polaris Protocol.  
 It documents the mismatch between idealised rational models and the embodied human animal they attempt to govern or replace.
 
 > 📡 Cross-references:
 > 
-> - Big_Picture_Protocols — systems, governance, and collapse  
-> - Narrative_And_Psych_Ops — emotional containment and control  
+> - [💰 Resolving the Fear of the Poor — Class Anxiety as Design Logic](./💰_resolving_the_fear_of_the_poor.md)  
+> - [💫 The Middle Register](../🌱_Human_Principles/💫_the_middle_register.md)
+> - [🌿🦁 The Green Lion as Liminality](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿🦁_green_lion_as_liminality.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-02-09_
