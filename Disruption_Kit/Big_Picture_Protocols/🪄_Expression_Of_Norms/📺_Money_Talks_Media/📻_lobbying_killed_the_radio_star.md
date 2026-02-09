@@ -314,7 +314,7 @@ It documents a structural democratic risk: the quiet retreat of journalism under
 
 > 📡 Cross-references:
 > 
-> - [📡 Who Gets to Transmit](./📡_who_gets_to_transmit.md)  
+> - [📡 Who Gets to Transmit](../🎶_Banned_Broadcasts_Cooperative/📡_who_gets_to_transmit.md)  
 > - [🤖 General Issue Robots](../🙀_Chronically_Online/🤖_general_issue_robots.md)  
 > - [💸 Funding the Uncertainty Economy](../🦕_Elder_Influencers/💸_Money_Listens/💸_funding_the_uncertainty_economy.md)
 > - [📡 Media Signal Map](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/📡_media_signal_map.md)
