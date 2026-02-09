@@ -1,5 +1,5 @@
 # 🦋 Butterfly Effect in Small States — Britain’s Data-Scale Paradox  
-**First created:** 2025-11-08 | **Last updated:** 2026-01-28  
+**First created:** 2025-11-08 | **Last updated:** 2026-02-09  
 *Small island, large signal.*  
 <!--Occasionally, the problem is not entirely Kraken-related.-->
 ---
@@ -71,4 +71,4 @@ It explains why transparency and documentation in compact nations can exert outs
 
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2026-01-28_
+_Last updated: 2026-02-09_
