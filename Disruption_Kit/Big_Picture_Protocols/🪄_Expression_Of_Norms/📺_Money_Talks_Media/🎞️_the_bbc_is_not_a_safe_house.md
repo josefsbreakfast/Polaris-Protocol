@@ -269,9 +269,11 @@ It contributes a structural, survivor-centred assessment of institutional safety
 
 > 📡 Cross-references:
 > 
-> - **🧠 Big_Picture_Protocols/** — systemic governance analysis  
-> - **⚙️ Disruption_Kit/Survivor_Tools/** — survivor-led countermeasures  
-> - **🛰️ Metadata_Sabotage_Network/** — containment and suppression patterns  
+> - [📻 Lobbying Killed the Radio Star](./📻_lobbying_killed_the_radio_star.md)  
+> - [📰 DSMA Notices & Atrocity-Risk Reporting](./📰_dsma_notices_and_atrocity_risk_reporting.md)  
+> - [⚖️ Narrative Control and Legal Responsibility](../../🌀_System_Governance/📚_Narrative_Management/⚖️_narrative_control_and_legal_responsibility.md)
+> - [🫁 Oxygen and Oversight — A Clinical Analogy for Governance Titration](../../🌀_System_Governance/📚_Narrative_Management/🫁_oxygen_and_oversight.md)
+> - [🧨 Why Argumentation Fails With Alt‑Right Ideology](../../🌀_System_Governance/📚_Narrative_Management/🧨_why_argumentation_fails_with_alt_right_ideology.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
