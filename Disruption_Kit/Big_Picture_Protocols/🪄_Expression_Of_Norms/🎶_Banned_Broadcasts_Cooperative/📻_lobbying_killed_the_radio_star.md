@@ -319,6 +319,7 @@ It documents a structural democratic risk: the quiet retreat of journalism under
 > - [💸 Funding the Uncertainty Economy](../🦕_Elder_Influencers/💸_Money_Listens/💸_funding_the_uncertainty_economy.md)
 > - [📡 Media Signal Map](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/📡_media_signal_map.md)
 > - [📺 Moral Grammar Drift in Media Systems](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/📺_moral_grammar_drift_in_media_systems.md)
+> - [🪦 CECOT as a Rights-Void Facility](../../🌀_System_Governance/👑_Ownership_Control/🪦_cecot_as_rights_void_facility.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
