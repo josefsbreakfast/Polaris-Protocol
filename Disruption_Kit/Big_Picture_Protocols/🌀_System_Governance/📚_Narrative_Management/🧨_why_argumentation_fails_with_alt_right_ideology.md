@@ -1,5 +1,5 @@
 # 🧨 Why Argumentation Fails With Alt‑Right Ideology  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-22 | **Last updated:** 2026-02-09  
 *Why the alt-right cannot be debated: the moral‑treason logic beneath their worldview.*  
 
 ---
@@ -100,6 +100,11 @@ alt‑right, debate collapse, moral treason, pluralism failure, worldview confli
 
 ## 🏮 Footer  
 *🧨 Why Argumentation Fails With Alt‑Right Ideology* is a living node of the Polaris Protocol.  
+
+> 📡 Cross-references:
+> 
+> - [🤖 General Issue Robots](../../🪄_Expression_Of_Norms/🙀_Chronically_Online/🤖_general_issue_robots.md)  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-02-09_
