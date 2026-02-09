@@ -99,7 +99,38 @@ CECOT represents the **terminal stage** of the failure cascade:
 4. Traceability lost
 5. Outcomes rendered unverifiable
 
-At this point, the system becomes immune to accountability by design.
+At this point, the system becomes immune to accountability by design.  
+
+---
+
+## 📡 Media Interference as a Secondary Containment Layer
+
+The opacity surrounding CECOT is reinforced not only by custodial practices, but by **fragility in media transmission itself**.
+
+In late 2025, a fully produced investigative segment examining conditions at CECOT — commissioned for the U.S. flagship news programme **60 Minutes** on **CBS** — was scheduled for broadcast and then withdrawn at the final stage.  
+The segment had reportedly passed legal review and editorial checks, yet was pulled prior to its U.S. airing on the grounds that “additional reporting” was required.
+
+Notably, the same segment was briefly made available via a **Canadian broadcast distribution channel** associated with **Global**, before also being removed. Copies circulated temporarily as a result.
+
+There has been **no substantiated claim** that the withdrawal was directed by a government administration. However, the incident illustrates a critical structural vulnerability:
+
+* even where abuse allegations are documented,
+* even where journalists gain rare access,
+* and even where reporting clears legal thresholds,
+
+**publication itself can become the failure point**.
+
+This does not require censorship orders or explicit political instruction.  
+It is sufficient that:
+
+* legal exposure is asymmetric,
+* reputational risk is concentrated,
+* and responsibility for harm is diffusely transnational.
+
+In this way, media caution functions as a **secondary containment layer**, reinforcing the rights-void nature of facilities like CECOT by limiting sustained public scrutiny at precisely the point where oversight would otherwise re-enter the system.
+
+The significance of this episode lies not in the editorial decision itself, but in what it demonstrates:  
+that rights-void facilities are stabilised not only through detention practices, but through **interruptions in the evidentiary chain** that prevent abuses from remaining continuously visible.
 
 ---
 
