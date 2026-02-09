@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-02-09 13:48:08 UTC_
+_Generated on 2026-02-09 13:51:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1366,7 +1366,6 @@ _Generated on 2026-02-09 13:48:08 UTC_
         - [`📜_statutory_censorship_logics.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📜_statutory_censorship_logics.md)
         - [`📡_who_gets_to_transmit.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📡_who_gets_to_transmit.md)
         - [`📱_feed_manipulation_and_containment_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📱_feed_manipulation_and_containment_theatre.md)
-        - [`📻_lobbying_killed_the_radio_star.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📻_lobbying_killed_the_radio_star.md)
         - [`🔥_suppression_and_quasi_suppression.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🔥_suppression_and_quasi_suppression.md)
         - [`🕳_narrative_misattribution_and_war_testimony.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🕳_narrative_misattribution_and_war_testimony.md)
         - [`🖨️_print_culture_as_precedent.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🖨️_print_culture_as_precedent.md)
@@ -1394,6 +1393,7 @@ _Generated on 2026-02-09 13:48:08 UTC_
         - [`📰_dsma_notices_and_atrocity_risk_reporting.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/📰_dsma_notices_and_atrocity_risk_reporting.md)
         - [`📺_contractors_vs_media_clusters.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/📺_contractors_vs_media_clusters.md)
         - [`📺_platforming_as_soft_power_capture.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/📺_platforming_as_soft_power_capture.md)
+        - [`📻_lobbying_killed_the_radio_star.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/📻_lobbying_killed_the_radio_star.md)
         - [`🗞️_clone_newsrooms.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🗞️_clone_newsrooms.md)
         - [`🗞️_credibility_corrosion.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🗞️_credibility_corrosion.md)
         - [`🛰️_financial_attrition_as_suppression.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/🛰️_financial_attrition_as_suppression.md)
