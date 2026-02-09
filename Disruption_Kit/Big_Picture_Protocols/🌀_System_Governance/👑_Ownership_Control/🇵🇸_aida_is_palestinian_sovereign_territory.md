@@ -1,5 +1,5 @@
 # 🇵🇸 Aida Is Palestinian Sovereign Territory  
-**First created:** 2026-01-08 | **Last updated:** 2026-01-25  
+**First created:** 2026-01-08 | **Last updated:** 2026-02-09  
 *Legal status of Aida Refugee Camp and implications for third-party institutional responsibility.*  
 
 ---
@@ -23,7 +23,7 @@ This is a **norms-and-compliance node**, not an advocacy document.
 
 Under international law:
 
-- The territory is recognised by the **[United Nations](chatgpt://generic-entity?number=2)** as **Occupied Palestinian Territory**
+- The territory is recognised by the **United Nations** as **Occupied Palestinian Territory**
 - No internationally recognised body treats the land as Israeli sovereign territory
 - The occupation is governed by international humanitarian law, not domestic Israeli planning law
 
@@ -117,7 +117,8 @@ Acknowledging this is compliance, not activism.
 🏛️ ⚖️ 🛰️ 🧿 🏟️ — governance norms, international law, third-party responsibility, civilian infrastructure, sport as protected social good.
 
 *Further media:*  
-- [FIFA urged to stop Israeli demolition of West Bank refugee camp football pitch](https://www.middleeasteye.net/news/fifa-urged-stop-israel-demolishing-west-bank-refugee-camp-football-pitch), Middle East Eye.  
+- [FIFA urged to stop Israeli demolition of West Bank refugee camp football pitch](https://www.middleeasteye.net/news/fifa-urged-stop-israel-demolishing-west-bank-refugee-camp-football-pitch), Middle East Eye.
+- [Under pressure from FIFA and UEFA, Palestinian soccer pitch saved from planned Israeli demolition](https://edition.cnn.com/2026/01/21/sport/soccer-palestinian-pitch-saved-aida-israel-fifa-uefa), CNN Sports.  
 
 ---
 
@@ -140,4 +141,4 @@ It documents the legal status of Aida Refugee Camp and clarifies the obligations
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-25_
+_Last updated: 2026-02-09_
