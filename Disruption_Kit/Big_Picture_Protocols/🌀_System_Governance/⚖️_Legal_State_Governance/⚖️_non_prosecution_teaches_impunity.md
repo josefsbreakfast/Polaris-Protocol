@@ -1,5 +1,5 @@
 # ⚖️ Non-Prosecution Teaches Impunity  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-02-11    
 *How repeated non-action reshapes behaviour, incentives, and the moral economy of the law.*  
 
 ---
@@ -163,7 +163,10 @@ And others will learn the lesson.
 ---
 
 ## 🌌 Constellations
-⚖️ 🧠 🔁 🏛️ 🧨 — law, behavioural learning, feedback loops, institutional precedent, deterrence failure.
+⚖️ 🧠 🔁 🏛️ 🧨 — law, behavioural learning, feedback loops, institutional precedent, deterrence failure.  
+
+*Further media:*  
+- ["Ballot box or strongman?"](https://vm.tiktok.com/ZNRyaauoL/), [Prof Gallagher](https://www.tiktok.com/@professor_politics?_r=1&_t=ZN-93p3VKcpyq6), via TikTok.  
 
 ---
 
@@ -188,4 +191,4 @@ It documents how repeated non-action reshapes incentives and undermines deterren
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-02-11_
