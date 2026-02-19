@@ -18,7 +18,7 @@ NNPD is not clinical; it is a cultural symptom of post-imperial male interiority
 
 ---
 
-## 🧪 Symptoms (satirical)  
+## 🧪 Symptoms (Very Serious. Definitely Not Satire.)  
 - **Everything is about them.**  
   Critique, memes, Hamilton songs, Olivia Pope quotes — all treated as personalised messages.
 
@@ -181,9 +181,9 @@ interpretive narcissism, neocon satire, algorithmic projection, post-imperial ma
 It analyses the narrative collapse point where male political self-importance, sexual metadata, and prestige-TV delusion converge into a misattributed romance arc imposed onto women who are simply being competent.
 
 > 📡 Cross-references:
-> - [🪆 Narrative Interference] — *how people become the story they invented*  
-> - [🪞 Clone Mimic Theatre]— *performance behaviours mistaken for authenticity*  
-> - [🧩 Integrity Drift] — *divergence between self-perception and real impact*
+> 
+> - [🌪️ Field Conditioning — Rewriting the Medium of Influence](../../../🏮_AntiContainment_Clauses/🌪️_field_reconditioning.md)  
+> - [🏛️ Neocon Think Tank Cluster](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/🏛️_neocon_think_tank_cluster.md) — *sightings in the wild*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
