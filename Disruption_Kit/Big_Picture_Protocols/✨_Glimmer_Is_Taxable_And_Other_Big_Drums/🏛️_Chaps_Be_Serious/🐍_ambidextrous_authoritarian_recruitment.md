@@ -58,7 +58,9 @@ Because they tell customised stories, they grow fast:
 ---
 
 ## 🌌 Constellations  
-🐍 🔥 🧠 🛰️ — authoritarian drift; activation; cognition; early-warning signals.
+🐍 🔥 🧠 🛰️ — authoritarian drift; activation; cognition; early-warning signals.  
+
+---
 
 ## ✨ Stardust  
 authoritarianism, fascist logic, recruitment, crisis, identity hunger, narrative engineering
