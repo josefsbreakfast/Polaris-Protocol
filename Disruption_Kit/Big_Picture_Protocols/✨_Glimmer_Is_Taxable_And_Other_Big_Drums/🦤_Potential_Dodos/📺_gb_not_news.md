@@ -69,6 +69,191 @@ the comfort of outrage framed as national duty.
 
 ---
 
+---
+
+## 🕳️ The Hybrid Authority Gap  
+
+### 🧭 The Scenario  
+
+A serving Member of Parliament hosts a studio programme.
+
+Not as a guest.  
+Not as a commentator.  
+As the face of the show.
+
+He speaks outside Parliament.  
+He is not under parliamentary privilege.  
+He is not subject to Commons procedure in that moment.  
+
+But he is unmistakably still an MP.
+
+The question is not what he says.
+
+The question is:
+
+**Which rulebook applies?**
+
+---
+
+### 🧠 Three Regimes, No Owner  
+
+| Domain | Designed For | Why It Falters Here |
+|--------|--------------|--------------------|
+| Parliamentary standards | Speech inside Parliament | This is outside the chamber |
+| Party discipline | Conduct affecting party | Broadcast format muddies jurisdiction |
+| Broadcasting Code | Journalists and presenters | Assumes presenters are not sitting legislators |
+
+Each system was written for a cleaner era.
+
+Each assumes role separation.
+
+The hybrid collapses the separation.
+
+---
+
+### 📱 The Distribution Problem  
+
+On television, the programme may be labelled “current affairs.”
+
+On social media, it is a clip of:
+
+**An MP speaking.**
+
+The platform does not attach licence category metadata.  
+It attaches engagement metrics.
+
+The audience perceives institutional authority.  
+The Code regulates genre.
+
+Those are not the same thing.
+
+---
+
+### ⚖️ The Regulatory Lag  
+
+The Broadcasting Code distinguishes between “news” and “current affairs.”
+
+That distinction presumes:
+
+- identifiable news bulletins  
+- identifiable opinion formats  
+- presenters who are not themselves elected officeholders  
+
+When a legislator becomes a presenter,  
+classification becomes strategic.
+
+And once classification is strategic,  
+compliance becomes negotiable.
+
+---
+
+### 🪞 The Real Exposure  
+
+The controversy did not prove that anyone was uniquely reckless.
+
+It revealed something simpler:
+
+There is no integrated framework governing politician-hosts.
+
+No statute anticipates the hybrid.  
+No regulator fully owns it.  
+No party mechanism cleanly addresses it.  
+
+The gap is not ideological.
+
+It is architectural.
+
+---
+
+### 🪶 Polaris Reading  
+
+The 20th century regulated broadcasters and politicians as separate actors.
+
+The 21st century lets them share a desk.
+
+When roles fuse but rulebooks don’t,  
+grey zones are not accidents.
+
+They are the new operating system.
+
+---
+
+## 🛎️ Stop the Press: The Island Has Been Identified  
+
+### 📰 Update  
+
+Something curious has happened.
+
+The channel that once treated the outer edges of rhetoric as a proving ground now appears to have consulted a map.
+
+The island in question is called:
+
+**UK broadcast regulation.**
+
+---
+
+### 🌊 The Tide Turns  
+
+Where once the temperature ran high — culture-war percussion, declarative nationalism, rhetorical brinkmanship — the recent output reads… noticeably steadier.
+
+- More conventional framing.  
+- Fewer linguistic cliff-edges.  
+- Less flirtation with phrases that require interpretive gymnastics.  
+- A cadence recognisable as mainstream current affairs.
+
+Not neutral.  
+Not ideologically inverted.  
+
+Just recognisably within jurisdiction.
+
+---
+
+### 🧭 Cartography Arrives  
+
+For a period, it seemed possible to broadcast as if classification were optional.
+
+As if “News” were aesthetic rather than regulatory.  
+As if genre were a lighting choice.
+
+Recent months suggest an adjustment.
+
+The tone now reflects an understanding that the channel operates:
+
+- Under Ofcom.  
+- Within UK defamation law.  
+- Inside an advertising ecosystem that values stability.  
+
+The coastline did not move.
+
+The orientation did.
+
+---
+
+### 🪞 The Mature Phase  
+
+Early phases test limits.
+
+Later phases internalise them.
+
+The edges soften.  
+The set remains patriotic.  
+The scripts breathe more easily.
+
+This is not capitulation.
+
+It is navigation.
+
+---
+
+### 🪶 Polaris Reading  
+
+If the earlier era explored how far semantic elasticity could stretch,  
+the present one suggests a more settled cartography.
+
+Maps exist for a reason.
+
+---
+
 ### ⚖️ Satirical Protection Statement  
 This node is **satirical political commentary** and forms part of an ongoing research and artistic project (Polaris Protocol).  
 It is covered by *freedom of expression* protections under **Article 10 of the European Convention on Human Rights**,  
