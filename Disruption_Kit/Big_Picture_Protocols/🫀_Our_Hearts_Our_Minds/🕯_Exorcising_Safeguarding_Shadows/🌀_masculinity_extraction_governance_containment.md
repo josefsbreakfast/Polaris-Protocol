@@ -4,11 +4,8 @@
 
 ---
 
-## ✨ Sections
-1. [Extraction Loop (Economy)](#1-extraction-loop-economy)  
-2. [Containment Loop (Governance)](#2-containment-loop-governance)  
-3. [Citizen Forking](#3-citizen-forking)  
-4. [Closing Frame](#4-closing-frame)  
+## ✨ Summary  
+(In progress)
 
 ---
 
@@ -39,8 +36,6 @@ graph LR
     classDef loop fill:#f0f7ff,stroke:#3b82f6,color:#000000;
 ```
 
-[🔝 Back to top](#🌀-masculinity-extraction-↔-governance-containment)
-
 ---
 
 ## 🏛 Containment Loop (Governance)
@@ -68,8 +63,6 @@ graph TD
     classDef risk fill:#ffcccc,stroke:#cc0000,color:#000000;
 ```
 
-[🔝 Back to top](#🌀-masculinity-extraction-↔-governance-containment)
-
 ---
 
 ## 🍴 Citizen Forking
@@ -94,6 +87,13 @@ Together, the loops converge:
 
 *🌀 Masculinity Extraction ↔ Governance Containment* is a living node of the Polaris Protocol.  
 It documents how economic systems profit from male volatility while governance structures deny or silence its harms.  
+
+> 📡 Cross-references:
+> 
+> - [⚖️ Reputation After Revelation — How Institutions Should Handle Safeguarding in a Post-2022 World](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_reputation_after_revelation.md)  
+> - [🌪️ 2023–Now — The Legitimacy Crisis Era](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🌪️_the_legitamacy_crisis_era_2023_2025.md)  
+> - [💄 Plastic Masculinity Knives](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💄_plastic_masculinity_knives.md)  
+> - [❌ The Alt-Right Is Not the Far-Right](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/❌_the_alt_right_is_not_the_far_right.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
