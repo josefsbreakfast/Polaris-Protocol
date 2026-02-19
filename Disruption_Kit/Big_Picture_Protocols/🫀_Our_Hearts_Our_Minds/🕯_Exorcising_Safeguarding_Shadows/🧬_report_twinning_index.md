@@ -26,9 +26,18 @@ Report twinning is an escalation of the *Disappearing Reviews* pattern: not just
 
 ---
 
+## 🌌 Constellations  
+🌀  
+
+---
+
+## ✨ Stardust  
+
+---
+
 ## 🏮 Footer  
 
-*Report Twinning Index* is a living node of the Polaris Protocol.  
+*🧬 Report Twinning Index* is a living node of the Polaris Protocol.  
 It collates instances where inquiry reports exist in parallel forms, documenting how polluted and displaced links fracture accountability.  
 
 > 📡 Cross-references:
