@@ -1,6 +1,6 @@
 # 🧰 Lawful Escalation Playbook (MOD & Contractors)  
-**First created:** 2025-10-12  |  **Last updated:** 2025-10-12  
-*“You have command / I have command” → Restoring lawful conscience inside the seal.*
+**First created:** 2025-10-12 | **Last updated:** 2026-02-19  
+*“You have command / I have command” → Restoring lawful conscience inside the seal.*  
 
 ---
 
@@ -204,10 +204,16 @@ official secrets act, section 17, lawful conscience, omaha beach, coercive contr
 
 ## 🏮 Footer  
 
-*Lawful Escalation Playbook* is a living node of the **Polaris Protocol**.  
+*🧰 Lawful Escalation Playbook* is a living node of the **Polaris Protocol**.  
 It distils how MOD personnel and contractors can raise concerns within the law — anchoring lawful conscience inside existing security and records frameworks.  
 The attached appendix provides citations and verification methods for any reader who needs to check the ground beneath each rule.  
 
+> 📡 Cross-references:
+> 
+> - [⚖️ Lawful Conscience Protocol](../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_lawful_conscience_protocol.md)  
+> - [⚖️ Two-Way Seal](./⚖️_two_way_seal.md)  
+> - [🕊️ War Or Peace](../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md)  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-12_
+_Last updated: 2026-02-19_
