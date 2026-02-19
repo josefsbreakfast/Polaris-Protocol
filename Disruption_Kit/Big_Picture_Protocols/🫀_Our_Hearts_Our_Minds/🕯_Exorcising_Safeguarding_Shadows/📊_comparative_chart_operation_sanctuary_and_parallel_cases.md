@@ -21,14 +21,25 @@
 
 ---
 
+## 🌌 Constellations  
+🌀  
+
+---
+
+## ✨ Stardust  
+
+---
+
 ## 🏮 Footer  
 
-*Comparative Chart: Operation Sanctuary and Parallel Cases* is a living node of the Polaris Protocol.  
+*📊 Comparative Chart: Operation Sanctuary and Parallel Cases* is a living node of the Polaris Protocol.  
 It traces recurring suppression and denial logics in English safeguarding scandals, showing how institutional silence sustains exploitation until large-scale exposure forces reform.  
 
-> 📡 Cross-references:  
-> - See: Operation Sanctuary (Big Picture Protocols cluster) — Newcastle’s CSE case study  
-> - See: Containment Contract Trace (Big Picture Protocols cluster) — mechanisms of systemic failure  
+> 📡 Cross-references:
+> 
+> - [🔬 Operation No Sanctuary](../👁️‍🗨️_Witness_Historical_Casefiles/🔬_operation_no_sanctuary.md)  
+> - [⚖️ Containment Contract Trace](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md)  
+> - [🏛️ Master Council Overlay Table](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🏛️_master_council_overlay_table.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
