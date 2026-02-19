@@ -63,9 +63,18 @@ flowchart TD
 
 ---
 
+## 🌌 Constellations  
+🌀  
+
+---
+
+## ✨ Stardust  
+
+---
+
 ## 🏮 Footer  
 
-*Report Twinning* is a living node of the Polaris Protocol.  
+*🧬 Report Twinning* is a living node of the Polaris Protocol.  
 It documents how institutions fracture inquiry reports into polluted and displaced versions, suppressing accountability while maintaining plausible deniability.  
 
 > 📡 Cross-references:
