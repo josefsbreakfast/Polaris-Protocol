@@ -204,7 +204,15 @@ concern reporting, prevent, safeguarding escalation, ambiguity, behavioural misi
 
 ## 🏮 Footer  
 *🎐 The Psychology of “Just Raising a Concern”* is a living node of the Polaris Protocol.  
-It analyses how vague, low-evidence concerns become high-impact institutional events — not because of malice, but because of structural design.
+It analyses how vague, low-evidence concerns become high-impact institutional events — not because of malice, but because of structural design.  
+
+> 📡 Cross-references:
+>
+> - [❌ The “Nothing To Hide” Fallacy](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/❌_nothing_to_hide_fallacy.md)  
+> - [🦆 Why Tech Bros Were Sitting Ducks](../..//🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦆_why_tech_bros_were_sitting_ducks.md)  
+> - [🌱 PREVENT Logic as Authoritarian Seedling](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌱_prevent_logic_as_authoritarian_seedling.md)  
+> - [👾 Post-Carceral-Era Counter-Extremism](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_post_carceral_era_counter_extremism.md)  
+> - [🌀 The Authoritarian Personality Loop](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌀_authoritarian_personality_loop.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
