@@ -250,6 +250,13 @@ institutional inversion, safeguarding inertia, comparative moral displacement, a
 *⚖️ Inversion and Laundering as State Technique* is a living node of the Polaris Protocol.  
 It documents how harm is converted into institutional legitimacy — and why justice is now the only stabilising intervention.  
 
+> 📡 Cross-references:
+> 
+> - [💩 Why CTSA 2015 Violated Every Core IICSA Principle](./💩_why_ctsa2015_violated_every_iicsa_principle.md)  
+> - [👻 Embedding Inertia and Ghost Geometry](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/👻_embedding_inertia_and_ghost_geometry.md)  
+> - [⛳️ Flags Increase (Other, Common) Risks](../👁️‍🗨️_Witness_Historical_Casefiles/⛳️_flags_increase_risks.md)
+> - [🦴 Survival Of Reputational Systems As Harm](../👁️‍🗨️_Witness_Historical_Casefiles/🦴_surviving_reputational_systems_as_harm.md)  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-02-19_
