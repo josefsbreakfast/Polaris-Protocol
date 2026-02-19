@@ -165,13 +165,15 @@ university safeguarding, rape culture, compliance theatre, consent disappearance
 
 ## 🏮 Footer  
 
-*Did Unis Really Address the Rape Epidemic Tho* is a living node of the Polaris Protocol.  
+*🧪 Did Unis Really Address the Rape Epidemic Tho* is a living node of the Polaris Protocol.  
 It examines how institutional safeguarding frameworks reproduce the same erasures they claim to prevent —  
 through bureaucratic empathy, cultural inheritance, and the romanticisation of harm.  
 
 > 📡 Cross-references:
 > 
 > - [🕯 Exorcising Safeguarding Shadows](./README.md) — *systemic analysis of safeguarding culture*  
+> - [⚖️ The Strangest Duty of Care](../../🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_the_strangest_duty_of_care.md)  
+> - [⚡ PTSD Is Not a Jump Scare — The Time Physics of the Body](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/⚡_ptsd_is_not_a_jump_scare.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
