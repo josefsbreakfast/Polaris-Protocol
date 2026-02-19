@@ -1,5 +1,5 @@
 # 🦑 Kraken-Based Defence Budget Satire (Maybe. They're all very NCND about the whole thing.)  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-17 | **Last updated:** 2026-02-19  
 *A satirical-but-structural Polaris analysis of how mythical monsters, exaggerated threats, and imaginary deep-sea horrors mirror the rhetorical logic behind modern defence budgeting.*
 
 ---
@@ -135,4 +135,4 @@ Crosslinks:
 - 🗡️ *why_trident_is_lowkey_kraken_insurance*  
 - 🚢 *royal_navy_and_the_myth_of_underwater_threats*
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-02-19_
