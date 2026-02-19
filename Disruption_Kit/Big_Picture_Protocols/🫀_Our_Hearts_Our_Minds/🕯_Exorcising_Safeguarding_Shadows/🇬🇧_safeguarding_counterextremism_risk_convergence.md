@@ -296,7 +296,15 @@ safeguarding convergence, counterextremism risk, dual-use datasets, survivor dat
 ## 🏮 Footer  
 
 *🇬🇧 Safeguarding–Counterextremism Risk Convergence* is a living node of the Polaris Protocol.  
-It documents how UK governance structures unintentionally amplify predation risk by collapsing care and security into shared systems.
+It documents how UK governance structures unintentionally amplify predation risk by collapsing care and security into shared systems.  
+
+> 📡 Cross-references:
+> 
+> - [☕🫖 Is the Current UK Government a Threat to National Security?](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/☕🫖_uk_gov_national_security_risk.md)  
+> - [🕸️ Algorithmic Hearing Is Not Listening](../../🪄_Expression_Of_Norms/🙀_Chronically_Online/🕸️_algorithmic_hearing_is_not_listening.md)  
+> - [🧬 Honeytrap Mechanics](../../../Survivor_Tools/🧬_honeytrap_mechanics.md)  
+> - [👹 Coercive Engineers](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/👹_coercive_engineers_intentional_radicalisation.md)  
+> - [🏛️ Master Council Overlay Table](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🏛️_master_council_overlay_table.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
