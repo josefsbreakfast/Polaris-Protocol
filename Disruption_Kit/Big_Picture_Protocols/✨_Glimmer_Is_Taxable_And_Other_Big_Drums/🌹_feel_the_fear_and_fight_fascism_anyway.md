@@ -1,6 +1,6 @@
 # 🌹 Feel the Fear, and Fight Fascism Anyway  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-29  
-*Courage is not the absence of fear — it is fidelity under surveillance.*
+**First created:** 2025-10-23 | **Last updated:** 2026-02-19  
+*Courage is not the absence of fear — it is fidelity under surveillance.*  
 
 ---
 
@@ -60,10 +60,10 @@ The node links emotional intelligence with civic resistance, grounding political
 
 > 📡 Cross-references:
 > 
-> – [🐣 Canaries and Cassandras](./🐣_canaries_and_cassandras.md) — *early warnings and civic sensitivity*  
-> – [🧬 Therapeutic Resistance as Acquired Immunity](./🧬_therapeutic_resistance_as_acquired_immunity.md) — *meta-trauma and adaptive mistrust*  
+> – [🐣 Canaries and Cassandras](../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🐣_canaries_and_cassandras.md) — *early warnings and civic sensitivity*  
+> – [🧬 Therapeutic Resistance as Acquired Immunity](../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧬_therapeutic_resistance_as_acquired_immunity.md) — *meta-trauma and adaptive mistrust*  
 > – [🩸 Genocide Denialism](../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/README.md) — *systemic repression and moral fatigue*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-28_
+_Last updated: 2026-02-19_
