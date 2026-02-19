@@ -244,4 +244,25 @@ and cryptid-adjacent caution.
 
 ---
 
+## 🌌 Constellations  
+🪖 🐙 🏛️ - dont't ask questions you don't need to know the answer to.  
+
+---
+
+## ✨ Stardust  
+rhetoric, Walter Mitty, draft dodging Presidents, "Dept of War", "going to see The Troops", recruitment and retention.  
+
+---
+
+## 🏮 Footer  
+*🦑 Bring Back Pressganging* is a living node of the Polaris Protocol.  
+
+> 📡 Cross-references:
+> 
+> - [🛩️ The April Fools Department of Defence](./🛩️_the_april_fools_department_of_defence.md) - *the ones who can drop explosions*  
+> - [⚓️ The Service That Went to Sea and Never Came Back](./⚓️_the_service_that_went_to_sea_and_never_came_back.md) - *the ones with really big guns*
+
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
 _Last updated: 2026-02-19_
