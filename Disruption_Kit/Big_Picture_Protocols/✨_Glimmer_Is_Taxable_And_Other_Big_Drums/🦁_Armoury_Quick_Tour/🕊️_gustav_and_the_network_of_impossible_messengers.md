@@ -1,6 +1,6 @@
 # 🕊️ Gustav and the Network of Impossible Messengers  
-**First created:** 2025-10-27 | **Last updated:** 2025-12-09  
-*On antifascist communication, the radical continuity between pigeons, pirate radios, and people who won’t shut up.*
+**First created:** 2025-10-27 | **Last updated:** 2026-02-19  
+*On antifascist communication, the radical continuity between pigeons, pirate radios, and people who won’t shut up.*  
 
 ---
 
@@ -106,6 +106,13 @@ gustav, antifascism, radical communication, community will save us all, pirate r
 *🕊️ Gustav and the Network of Impossible Messengers* is a living node of the Polaris Protocol.  
 It honours the radical infrastructures of honesty that survive every surveillance upgrade — from feathers to fibre optics.  
 
+
+> 📡 Cross-references:
+> 
+> - [🕊️ Dickin Medal Holders](./🕊️_dickin_medal_holders.md)
+> - [🍄 Meme Rewilding Pipelines](../../../../🦆_Digital_Disruption/🐈‍⬛_Antifacist_Propaganda_Machine/🍄_meme_rewilding_pipelines.md)
+> - [🕹️ Anarchist Calisthenics and the Surveillance Industry](../../../../🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🕹️_anarchist_calisthenics_and_the_surveillance_industry.md)  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-02-19_
