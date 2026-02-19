@@ -1,5 +1,5 @@
 # 🦑 Kraken Containment Governance: Roles, Rituals, and Risks  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-02-19  
 *A satirical overview of the institutional architecture allegedly responsible for managing a mythological marine liability.*
 
 ---
@@ -133,10 +133,11 @@ satire, kraken governance, institutional parody, deterrence mythology, bureaucra
 *🦑 Kraken Containment Governance: Roles, Rituals, and Risks* is a satirical structural node within the **Polaris Protocol**, mapping how imagined institutions stabilise mythological threats through ritual, role allocation, and narrative maintenance.
 
 > 📡 Cross-references:
-> - [🦑 The Fathom Response to Containment Phase 3](./🦑_the_fathom_response_to_containment_phase_3.md) — incident escalation  
-> - [🦁 Armoury Quick Tour](./README.md) — satirical context and scope  
-> - [🎭 Narrative & Psych Ops](../../../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/) — analysis of how such systems are misread  
+> 
+> - [🦑 The Fathom Response to Containment Phase 3](./🦑_the_fathom_response_to_containment_phase_3.md) — *incident escalation*  
+> - [🦁 Armoury Quick Tour](./README.md) — *satirical context and scope*  
+> - [🎭 Narrative & Psych Ops](../../../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/) — *analysis of how such systems are misread*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-02-19_
