@@ -1,5 +1,5 @@
 # 📱 Institutional Tech Archetypes (UK State)  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-14 | **Last updated:** 2026-02-19  
 *A cultural diagnostic of how British institutions relate to technology — and why that relationship shapes security, governance, and failure modes.*  
 
 ---
@@ -229,10 +229,11 @@ institutional tech culture, device archetypes, uk governance, digital illiteracy
 It uses cultural analysis and satire to surface how institutional relationships with technology shape governance outcomes, security posture, and repeated failure modes.
 
 > 📡 Cross-references:
-> - **🧪 Bad Procurement as a Security Vector** — operational consequences  
-> - **🛡️ Epistemic Exhaustion as an Attack Surface** — cognitive risk layer  
-> - **📱 Digital Literacy as Democratic Infrastructure** — civic implications  
+> 
+> - [🧪 Bad Procurement as a Security Vector](../🌀_System_Governance/🛰️_Infrastructure_Procurement/🧪_bad_procurement_as_a_security_vector.md) — *operational consequences*  
+> - [🛡️ Epistemic Exhaustion as an Attack Surface](../🌀_System_Governance/💫_Containment_Logic/🛡️_epistemic_exhaustion_as_an_attack_surface.md) — *cognitive risk layer*  
+> - [📱 Digital Literacy as Democratic Infrastructure](../🌀_System_Governance/💫_Containment_Logic/📱_digital_literacy_as_democratic_infrastructure.md) — *civic implications*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-02-19_
