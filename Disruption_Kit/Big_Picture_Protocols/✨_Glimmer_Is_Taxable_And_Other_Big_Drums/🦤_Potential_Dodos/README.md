@@ -1,6 +1,6 @@
 # 🦤 Potential Dodos — Spotters’ Guide to Imported Authoritarian Fauna  
-**First created:** 2025-10-27 | **Last updated:** 2025-10-27  
-*A museum of extinct ideas that keep trying to get passports.*
+**First created:** 2025-10-27 | **Last updated:** 2026-02-19  
+*A museum of extinct ideas that keep trying to get passports.*  
 
 ---
 
@@ -89,7 +89,7 @@ It curates the evolutionary warning signs of antidemocratic behaviour so that ar
 > 
 > - [🍌 Project 2025 UK Edition](./🍌_Project_2025_UK_Edition/README.md)  
 > - [✨ Glimmer Is Taxable (Parent Cluster)](../README.md)  
-> - [🕊️ Gustav and the Network of Impossible Messengers](../🕊️_gustav_and_the_network_of_impossible_messengers.md)
+> - [🕊️ Gustav and the Network of Impossible Messengers](../🦁_Armoury_Quick_Tour/🕊️_gustav_and_the_network_of_impossible_messengers.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-27_
+_Last updated: 2026-02-19_
