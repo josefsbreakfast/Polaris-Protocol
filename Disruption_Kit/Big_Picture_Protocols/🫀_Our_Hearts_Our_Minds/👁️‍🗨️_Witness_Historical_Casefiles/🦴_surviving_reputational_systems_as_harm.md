@@ -1,4 +1,4 @@
-# 🦴 Survival of reputational systems as harm  
+# 🦴 Survival Of Reputational Systems As Harm
 **First created:** 2025-12-14 | **Last updated:** 2025-12-14  
 *When people survive systems rather than events.*
 
@@ -84,7 +84,7 @@ systemic harm, survivorship, reputational systems, cumulative damage, governance
 
 ## 🏮 Footer  
 
-*Survival of reputational systems as harm* is a living node of the **Polaris Protocol**.  
+*🦴 Survival of reputational systems as harm* is a living node of the **Polaris Protocol**.  
 It documents a form of harm produced not by singular acts, but by sustained exposure to dysfunctional governance and reputational machinery.
 
 > 📡 Cross-references:
@@ -94,4 +94,4 @@ It documents a form of harm produced not by singular acts, but by sustained expo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-02-19_
