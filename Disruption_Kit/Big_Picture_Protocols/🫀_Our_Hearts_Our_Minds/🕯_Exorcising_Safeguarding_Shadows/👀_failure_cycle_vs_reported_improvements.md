@@ -71,9 +71,18 @@ flowchart TD
 
 ---
 
+## 🌌 Constellations  
+🌀  
+
+---
+
+## ✨ Stardust  
+
+---
+
 ## 🏮 Footer  
 
-*Failure Cycle vs. Reported Improvements* is a living node of the Polaris Protocol.  
+*👀 Failure Cycle vs. Reported Improvements* is a living node of the Polaris Protocol.  
 It maps how official reports of progress in Newcastle sit within a national pattern of minimisation, scandal, inquiry, and relapse.  
 
 > 📡 Cross-references:
