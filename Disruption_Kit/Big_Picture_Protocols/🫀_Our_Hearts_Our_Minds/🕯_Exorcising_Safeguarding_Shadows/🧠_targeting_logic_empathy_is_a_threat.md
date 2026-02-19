@@ -47,10 +47,26 @@ Then you are likely being profiled not for what you’ve done,
 
 ---
 
+## 🌌 Constellations  
+🌀  
+
+---
+
+## ✨ Stardust  
+
+---
+
 ## 🏮 Footer  
 
-*Targeting Logic: Empathy Is a Threat* is a living node of the Polaris Protocol.  
+*🧠 Targeting Logic: Empathy Is a Threat* is a living node of the Polaris Protocol.  
 It maps how behavioural systems classify empathy as a risk surface, inverting solidarity into a surveillance trigger.  
+
+> 📡 Cross-references:
+> 
+> - [🧿 Targeting Logic & Metadata Signatures](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README.md)  
+> - [🍉 Civic Participation and AI Risk Classification](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🍉_civic_participation_and_ai_risk_classification.md)  
+> - [🫀 Provocation Capture — When Goading Becomes a Data-Generation Method](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🫀_provocation_capture.md)  
+> - [🧿 Empathy Risk Classifier Mock (YAML)](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_empathy_risk_classifier_satire_maybe.yaml.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
