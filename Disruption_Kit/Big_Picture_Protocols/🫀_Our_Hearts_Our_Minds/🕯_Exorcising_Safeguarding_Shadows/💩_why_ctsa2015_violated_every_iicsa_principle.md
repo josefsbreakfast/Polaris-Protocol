@@ -301,16 +301,12 @@ The second system corrodes the first.
 ---
 
 ## 🌌 Constellations  
-**📉 IICSA Principles** — transparency, accountability, equality.  
-**🧱 Secrecy vs Safeguarding** — incompatible paradigms.  
-**🌑 Racialised Governance** — unequal protection for racialised children.  
-**🛰️ Intelligence Logic** — welfare reframed as security.  
-**⚖️ Democratic Integrity** — abuse risk baked into structure.
+📉 🧱 🌑 🛰️ ⚖️  
 
 ---
 
-## ✨ Stardust (Search Keywords)  
-CTSA 2015 • IICSA • Prevent • safeguarding • secrecy • counterterrorism • structural harm • racialisation • children’s rights
+## ✨ Stardust  
+CTSA 2015, IICSA, Prevent, safeguarding, secrecy, counterterrorism, structural harm, racialisation, children’s rights  
 
 ---
 
@@ -318,8 +314,12 @@ CTSA 2015 • IICSA • Prevent • safeguarding • secrecy • counterterroris
 *💩 Why CTSA 2015 Violated Every Core IICSA Principle* is a safeguarding-analysis node of the Polaris Protocol.  
 It shows how Prevent’s counterterror architecture is structurally incompatible with child protection and reproduces the exact institutional risks IICSA identified.
 
-> 📡 **Cross-references:**  
-
+> 📡 Cross-references:
+>
+> - [⚖️ Compliance as Opacity](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_compliance_as_opacity.md)  
+> - [🩸 The Long Fuse (2010–2017)](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🩸_the_long_fuse_2010_2017.md)  
+> - [🩻 2018–2022 — The Era of Structural Revelation](../../_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🩻_the_structural_revelation_2018_2022.md)  
+> - [🔮 2026–2030 — The Post-Legitimacy Landscape](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔮_post_legitimacy_landscape_2026_2030.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
