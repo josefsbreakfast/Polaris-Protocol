@@ -1,5 +1,5 @@
 # ⚖️ Inversion and Laundering as State Technique  
-**First created:** 2025-09-05 | **Last updated:** 2026-02-05  
+**First created:** 2025-09-05 | **Last updated:** 2026-02-19  
 *How harm, coercion, and abuse are reframed as protective or necessary to serve institutional and financial power.*  
 
 ---
@@ -252,4 +252,4 @@ It documents how harm is converted into institutional legitimacy — and why jus
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-05_
+_Last updated: 2026-02-19_
