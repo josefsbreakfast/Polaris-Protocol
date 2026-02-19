@@ -36,9 +36,7 @@ This node maps *how* safeguarding language expands, *why* it expands, and *what 
 
 ---
 
-## 🧿 Analysis / Content  
-
-# 1. **Why Safeguarding Language Is Uniquely Prone to Drift**
+## 🧿 Why Safeguarding Language Is Uniquely Prone to Drift  
 
 Safeguarding terms drift because the system is built on:
 
@@ -63,7 +61,7 @@ These forces stretch language until it can encompass nearly anything.
 
 ---
 
-# 2. **The Lifecycle of Semantic Drift**
+## 🧿 The Lifecycle of Semantic Drift  
 
 ### **Stage 1 — Technical Definition**  
 A term begins with a narrow, concrete meaning.  
@@ -94,7 +92,7 @@ This is where harm begins.
 
 ---
 
-# 3. **Examples of Drifted Safeguarding Terms**
+## 🧿 Examples of Drifted Safeguarding Terms  
 
 ### **“Unusual Contact”**  
 Then: inappropriate approach by an adult.  
@@ -124,7 +122,7 @@ Each shift widens the capture zone.
 
 ---
 
-# 4. **How PREVENT Accelerates Semantic Drift**
+## 🧿 How PREVENT Accelerates Semantic Drift  
 
 PREVENT interprets early signs as critical, therefore:
 
@@ -148,7 +146,7 @@ This is the ouroboros of PREVENT:
 
 ---
 
-# 5. **How Drift Becomes Structural Harm**
+## 🧿 How Drift Becomes Structural Harm  
 
 Semantic drift creates:
 
@@ -173,7 +171,7 @@ Drifted categories create opaque, unchallengeable decisions.
 
 ---
 
-# 6. **Who Suffers the Most?**
+## 🧿 Who Suffers the Most?  
 
 ### **Women**  
 Emotion → instability  
@@ -197,7 +195,7 @@ Semantic drift always harms the most misinterpreted first.
 
 ---
 
-# 7. **Why Drift Is Hard to Reverse**  
+## 🧿 Why Drift Is Hard to Reverse  
 Once a term drifts, it becomes:
 
 - embedded in training,  
@@ -226,7 +224,15 @@ semantic drift, safeguarding language, prevent, metadata expansion, risk inflati
 
 ## 🏮 Footer  
 *🌀 Semantic Drift of Safeguarding Language* is a living node of the Polaris Protocol.  
-It explains how safeguarding terms expand beyond their original intent, gradually absorbing normal behaviour into risk frameworks — enabling structural harm even without malicious actors.
+It explains how safeguarding terms expand beyond their original intent, gradually absorbing normal behaviour into risk frameworks — enabling structural harm even without malicious actors.  
+
+> 📡 Cross-references:
+>
+> - [🎶 Language as Democratic Infrastructure](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🎶_language_as_democratic_infrastructure.md)  
+> - [🏮 AntiContainment Clauses](../../../🏮_AntiContainment_Clauses/README.md)  
+> - [💣 Syntax Bombs](../../../💣_Syntax_Bombs/README.md)  
+> - [🗣️ Survivor Scripts and Institutional Voice-Over](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🗣️_survivor_scripts_and_institutional_voiceover.md)  
+> - [🦉 Language As Attack Surface](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
