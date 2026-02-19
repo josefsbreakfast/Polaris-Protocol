@@ -1,5 +1,5 @@
 # 🧬 NHS Token Switching Integrity  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-04 | **Last updated:** 2026-02-19  
 *Audit protocol for summary-care vs local EHR token switching and evidence preservation.*  
 
 ---
@@ -34,4 +34,4 @@ This is a living node of the Polaris Protocol. It defines minimum viable control
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-02-19_
