@@ -14,4 +14,4 @@
 |     9 | Charity & third‑sector capture            |          0.45 | Medium      | Medium         | Charity Commission actions more visible on certain advocacy groups; trends worth monitoring.                           |
 |    10 | Narrative securitisation of dissent       |          0.8  | High        | High           | Persistent conflation of protest and extremism in rhetoric and Prevent‑related updates.                                |
 
-_Last updated: 2025‑10‑27_
+_Last updated: 2026-02-19_
