@@ -1,5 +1,5 @@
 # 🦕 Political Pokédex: Nick Clegg, The Digital Diplomat  
-**First created:** 2025-10-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-10-22 | **Last updated:** 2026-02-19  
 *A satirical species entry for the Centrist-to-Silicon evolutionary line.*  
 
 ---
@@ -115,4 +115,4 @@ It renders a real public figure as specimen data for governance taxonomy — map
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-02-19_
