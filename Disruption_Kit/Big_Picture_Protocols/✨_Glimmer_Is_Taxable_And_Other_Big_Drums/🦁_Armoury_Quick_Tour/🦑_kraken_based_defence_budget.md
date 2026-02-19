@@ -123,16 +123,27 @@ Because satire:
 - highlights power dynamics  
 - reminds the public that “threat” is a narrative form  
 
-Polaris uses satire as a **disruptive truth tool**.
+Polaris uses satire as a **disruptive truth tool**.  
+
+---
+
+## 🌌 Constellations  
+
+---
+
+## ✨ Stardust  
 
 ---
 
 ## 🏮 Footer  
-*🦑 Kraken-Based Defence Budget* illustrates how mythic threat construction supports political spending.  
+*🦑 Kraken-Based Defence Budget Satire* illustrates how mythic threat construction supports political spending.  
 It uses humour to reveal real structural incentives behind opaque defence justifications.
 
-Crosslinks:  
-- 🗡️ *why_trident_is_lowkey_kraken_insurance*  
-- 🚢 *royal_navy_and_the_myth_of_underwater_threats*
+> 📡 Cross-references:
+> 
+> - [🔱 Why Trident Is Lowkey Kraken Insurance](./🔱_why_trident_is_lowkey_kraken_insurance.md)  
+> - [🚢 Royal Navy & The Definite Reality of Underwater Threats](./🚢_large_underwater_threats.md)
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-02-19_
