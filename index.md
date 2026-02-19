@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-02-19 15:26:53 UTC_
+_Generated on 2026-02-19 15:33:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1744,7 +1744,6 @@ _Generated on 2026-02-19 15:26:53 UTC_
         - [`🧠_targeting_logic_empathy_is_a_threat.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧠_targeting_logic_empathy_is_a_threat.md)
         - [`🧨_real_vs_fake_duty_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧨_real_vs_fake_duty_of_care.md)
         - [`🧪_did_unis_really_address_rape_epidemic_tho.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧪_did_unis_really_address_rape_epidemic_tho.md)
-        - [`🧫_black_mould_audit_checklist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧫_black_mould_audit_checklist.md)
         - [`🧫_black_mould_principle.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧫_black_mould_principle.md)
         - [`🧬_NHS_token_switching_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧬_NHS_token_switching_integrity.md)
         - [`🧬_report_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧬_report_twinning.md)
