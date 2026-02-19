@@ -1,6 +1,6 @@
 # 🦤 Dodo Importer: Tommy Robinson / Stephen Yaxley-Lennon  
-**First created:** 2025-10-27  |  **Last updated:** 2025-10-27  
-*A logistical case study in transnational authoritarian franchising.*
+**First created:** 2025-10-27 | **Last updated:** 2026-02-19  
+*A logistical case study in transnational authoritarian franchising.*  
 
 ---
 
@@ -96,9 +96,10 @@ It illustrates how post-truth entrepreneurs repackage foreign authoritarian meme
 
 > 📡 Cross-references:
 > 
-> - [🦤 Potential Dodos README](./README.md)  
 > - [🍌 Project 2025 UK Edition](./🍌_Project_2025_UK_Edition/README.md)  
-> - [🕊️ Gustav and the Network of Impossible Messengers](../🕊️_gustav_and_the_network_of_impossible_messengers.md)
+> - [🕊️ Gustav and the Network of Impossible Messengers](../🦁_Armoury_Quick_Tour/🕊️_gustav_and_the_network_of_impossible_messengers.md)  
+> - [💄 Plastic Masculinity Knives](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💄_plastic_masculinity_knives.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-27_
+
+_Last updated: 2026-02-19_
