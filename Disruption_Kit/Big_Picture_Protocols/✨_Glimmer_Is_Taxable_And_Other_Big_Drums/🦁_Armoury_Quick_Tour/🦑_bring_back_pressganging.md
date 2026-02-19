@@ -1,6 +1,6 @@
 # 🦑 Bring Back Pressganging  
-**First created:** 2025-11-20 | **Last updated:** 2025-12-11  
-*The Pressgang Party — a civic reallocation mechanism based on British cultural logic.*
+**First created:** 2025-11-20 | **Last updated:** 2026-02-19  
+*The Pressgang Party — a civic reallocation mechanism based on British cultural logic.*  
 
 ## Orientation  
 British public debate has a peculiar reflex:  
@@ -244,4 +244,4 @@ and cryptid-adjacent caution.
 
 ---
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-02-19_
