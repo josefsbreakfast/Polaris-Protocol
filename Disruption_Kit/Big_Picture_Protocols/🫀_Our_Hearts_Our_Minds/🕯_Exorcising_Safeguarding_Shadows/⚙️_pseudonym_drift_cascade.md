@@ -156,7 +156,13 @@ pseudonym drift, token cascade, governance failure, data lineage, safeguarding r
 ## 🏮 Footer  
 
 *⚙️ Pseudonym Drift Cascade* is a living node of the Polaris Protocol.  
-It explains how technical entropy becomes institutional truth — and why prevention is the only ethical response.
+It explains how technical entropy becomes institutional truth — and why prevention is the only ethical response.  
+
+> 📡 Cross-references:
+> 
+> - [🧬 NHS Token Switching Integrity](./🧬_NHS_token_switching_integrity.md)  
+> - [🧬 Report Twinning](./🧬_report_twinning.md)  
+> - [🐕🦴 Dog-with-Bone Principle](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🐕🦴_dog_with_bone_principle.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
