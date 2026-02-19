@@ -1,6 +1,6 @@
 # ⚖️ Two-Way Seal  
-**First created:** 2025-10-12 | **Last updated:** 2025-10-12  
-*When the Official Secrets Act forgets which side holds the wax.*
+**First created:** 2025-10-12 | **Last updated:** 2026-02-19  
+*When the Official Secrets Act forgets which side holds the wax.*  
 
 ---
 
@@ -164,17 +164,17 @@ official secrets act, section 17, reciprocity, lawful conscience, marriage metap
 
 ## 🏮 Footer  
 
-*Two-Way Seal* is a living node of the **Polaris Protocol**.  
+*⚖️ Two-Way Seal* is a living node of the **Polaris Protocol**.  
 It interprets the *Official Secrets Act* as a mutual vow rather than a unilateral command —  
 a constitutional marriage between Parliament and the Services,  
 sealed by the office of the Crown and sustained only by respect moving in both directions.  
 
 > 📡 Cross-references:
 > 
-> – [⚖️ Lawful Conscience Protocol](../🌀_System_Governance/⚖️_lawful_conscience_protocol.md) — *statutory pathway for refusal under duress*  
-> – [📜 Arms Exports as Act of Aggression](../📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md) — *complicity and export-control analysis*  
-> – [🧿 Watch the Watchers](../🧿_Watch_The_Watchers/README.md) — *oversight recursion and meta-accountability*  
+> - [⚖️ Lawful Conscience Protocol](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_lawful_conscience_protocol.md) — *statutory pathway for refusal under duress*  
+> - [⚖️ Arms Exports as Act of Aggression](../../🦕_Elder_Influencers/📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md) — *complicity and export-control analysis*  
+> - [🧿 Watch the Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight recursion and meta-accountability*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-12_
+_Last updated: 2026-02-19_
