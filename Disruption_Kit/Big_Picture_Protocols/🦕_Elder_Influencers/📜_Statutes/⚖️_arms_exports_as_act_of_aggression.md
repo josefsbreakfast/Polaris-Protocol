@@ -1,6 +1,6 @@
 # ⚖️ Arms Exports as Act of Aggression  
-**First created:** 2025-10-11 | **Last updated:** 2025-10-19  
-*When defence becomes denial; when trade becomes complicity.*
+**First created:** 2025-10-11 | **Last updated:** 2026-02-19  
+*When defence becomes denial; when trade becomes complicity.*  
 
 ---
 
@@ -132,9 +132,11 @@ It maps the legal terrain where trade, knowledge, and silence converge — and r
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Defence Without War Powers] *TBC* — *analysis of executive war powers and prerogative deployment*  
+> - [🕊️ War Or Peace](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md)  
+> - [🛑 GHF Is a Weapon](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/🛑_ghf_is_a_weapon.md)  
 > - [🧿 Watch the Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight and accountability nodes*  
+> - [🍉 Friction, Erasure, and the Machine View of Resistance](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_friction_erasure_and_the_machine_view_of_resistance.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-02-19_
