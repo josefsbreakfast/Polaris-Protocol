@@ -1,5 +1,5 @@
 # 🚢 Royal Navy & The Definite Reality of Underwater Threats  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-21  
+**First created:** 2025-11-17 | **Last updated:** 2026-02-19  
 *Why navies throughout history — including the Royal Navy — have relied on exaggerated, unverifiable, and often completely imaginary underwater threats to justify budgets, prestige, and political leverage.*  
 
 ---
@@ -201,11 +201,16 @@ But its **political utility** very much is.
 ---
 
 ## 🏮 Footer  
-**Royal Navy & The Myth of Underwater Threats** is part of Polaris’ Kraken Governance Satire cluster.  
-It uses humour to dissect how imaginary monsters and vague aquatic adversaries continue to shape defence budgets and national myth-making.
+*🚢 Royal Navy & The Myth of Underwater Threats* is part of Polaris’ Kraken Governance Satire cluster.  
+It uses humour to dissect how imaginary monsters and vague aquatic adversaries continue to shape defence budgets and national myth-making.  
 
-Crosslinks:  
-- 🦑 *kraken-based_defence_budget_satire*  
-- 🗡️ *why_trident_is_lowkey_kraken_insurance*
 
-_Last updated: 2025-12-21_
+> 📡 Cross-references:
+> 
+> - [🦑 Kraken-Based Defence Budget Satire](./🦑_kraken_based_defence_budget.md)  
+> - [🔱 Why Trident Is Lowkey Kraken Insurance](./🔱_why_trident_is_lowkey_kraken_insurance.md)  
+> - [🚢 Royal Navy & The Definite Reality of Underwater Threats](./🚢_large_underwater_threats.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-02-19_  
