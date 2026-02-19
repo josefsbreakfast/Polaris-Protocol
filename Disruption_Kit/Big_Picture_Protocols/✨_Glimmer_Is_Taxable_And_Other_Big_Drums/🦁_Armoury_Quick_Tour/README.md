@@ -1,6 +1,6 @@
 # 🦁 Armoury Quick Tour  
-**First created:** 2025-11-13 | **Last updated:** 2025-12-09  
-*A brief orientation to the archive’s less sensible defensive assets.*
+**First created:** 2025-11-13 | **Last updated:** 2026-02-19  
+*A brief orientation to the archive’s less sensible defensive assets.*  
 
 ---
 
@@ -56,9 +56,8 @@ satire, defence folklore, institutional humour, containment mythos, organisation
 > 📡 Cross-references:
 > 
 > - [✨ Glimmer Is Taxable And Other Big Drums](../README.md) — *myth-logic and symbolic economies*  
-> - [🎭 Narrative & Psych Ops](../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md) — *analysis of how such narratives travel*  
-> - [🧠 Big Picture Protocols](../../README.md) — *wider structural mapping*  
+> - [🎭 Narrative & Psych Ops](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md) — *analysis of how such narratives travel*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-02-19_
