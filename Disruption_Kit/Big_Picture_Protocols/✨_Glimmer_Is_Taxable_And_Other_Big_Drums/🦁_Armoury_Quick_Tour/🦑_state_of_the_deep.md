@@ -1,5 +1,5 @@
 # 🦑 The Truss Protocols: The State of The Deep  
-**First created:** 2025-12-09 | **Last updated:** 2025-12-09  
+**First created:** 2025-12-09 | **Last updated:** 2026-02-19  
 *What Liz Truss really means when she talks about "the deep state" ousting her, with no reference to the economic crash, or the Long-Suffering Lettuce.*
 <!--Was it misogyny? Yes. Was she also extremely ridiculous? Also yes. Both can be true.-->
 ---
@@ -97,7 +97,7 @@ but the Kraken did briefly stir during an ill-timed fiscal policy experiment.
 ---
 
 ## 🧩 Constellations  
-🦑 Kraken Governance · 🛡️ Nuclear Folklore · 🎭 Political Archetypes · 🌀 Cognitive Drift Under Mythic Load
+🦑 🛡️ 🎭 🌀  
 
 ---
 
