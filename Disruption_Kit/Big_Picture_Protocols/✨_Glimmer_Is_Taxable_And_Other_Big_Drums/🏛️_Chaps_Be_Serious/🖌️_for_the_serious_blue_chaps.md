@@ -132,19 +132,23 @@ Without this, the country’s political equilibrium cannot hold.
 ---
 
 ## 🌌 Constellations  
-🧊 🧱 🧭 — stabilisation logic, institutional continuity, political risk management.
+🟦 🧊 🧱 🧭 — stabilisation logic, institutional continuity, political risk management.  
+
+---
 
 ## ✨ Stardust  
-conservative party purpose, stabilising force, counterbalance, political ballast, structural roles, constitutional dynamics, anti-chaos governance
+conservative party purpose, stabilising force, counterbalance, political ballast, structural roles, constitutional dynamics, anti-chaos governance  
+
+---
 
 ## 🏮 Footer  
-*Conservatives as the Counterbalance to Radical Change* is a living node of the Polaris Protocol.  
+*🟦 Conservatives as the Counterbalance to Radical Change* is a living node of the Polaris Protocol.  
 It contributes to the **Big Picture Protocols** cluster by clarifying the stabilisation function required for peaceful democratic transition.
 
-> 📡 Cross-references:  
-> - [🟥 Labour as the Alternative to Revolution]  
-> - [🧭 Political Homeostasis]  
-> - [🦕 Elder Influencers]  
+> 📡 Cross-references:
+> 
+> - [🟥 Labour as the Alternative to Revolution](./🌹_for_the_serious_red_chaps.md)  
+> - [🔁 Recursive Parliamentary Containment Loop](../../🌀_System_Governance/💫_Containment_Logic/🔁_recursive_parliamentary_containment_loop.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
