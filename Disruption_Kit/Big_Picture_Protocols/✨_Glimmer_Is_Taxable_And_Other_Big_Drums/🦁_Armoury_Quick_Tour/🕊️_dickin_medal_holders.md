@@ -1,6 +1,6 @@
 # 🕊️ Dickin Medal Holders  
-**First created:** 2025-10-12 | **Last updated:** 2026-01-05  
-*Animals recognised for extraordinary bravery in military or civil-defence service.*
+**First created:** 2025-10-12 | **Last updated:** 2026-02-19  
+*Animals recognised for extraordinary bravery in military or civil-defence service.*  
 
 ---
 
@@ -167,12 +167,7 @@ Each fulfils the same archetype: the **non-human sentry**, stabilising a world t
 ---
 
 ## 🌃 Constellations
-- 🕊️ **Gustav the Truth Courier** → `../Algorithmic_Statecraft/packet_ethics.md`  
-- 🐈 **Larry as Sentinel / Stability Node** → `../Survivor_Voice_Fidelity/signal_constancy.md`  
-- 🎖️ **Victoria Cross** — human analogue  
-- 🧩 **War Animal Memorials** — Blue Cross, National Memorial Arboretum  
-- 🧠 **Algorithmic Recognition Loops** — valorisation mirrors in AI metrics  
-- 📜 **Propaganda & Morale Studies** — animal heroism as affective buffer
+- 🕊️ 🐈 🎖️ 🧩 🧠 📜
 
 *Further media:*  
 - [More pigeon-related excellence](https://vm.tiktok.com/ZNRUr3TBt/), via TikTok.  
@@ -180,8 +175,21 @@ Each fulfils the same archetype: the **non-human sentry**, stabilising a world t
 ---
 
 ## ✨ Stardust
-Tags: `#PDSA` `#WWII` `#animal_ethics` `#valorisation` `#sentinel_logic` `#gustav` `#larry` `#algorithmic_mediation`  
+PDSA, WWII, animal ethics, valorisation, sentinel logic, gustav, larry, algorithmic mediation  
 
 ---
 
-_Last updated: 2026-01-05_
+
+## 🏮 Footer  
+
+*🕊️ Dickin Medal Holders* is a living node of the **Polaris Protocol**.  
+It documents our fabulous animal friends, many of whom have fought and died for this country with more fervour, than many of the suits lecturing us about going to war.  
+
+> 📡 Cross-references:
+> 
+> - [🕊️ Gustav and the Network of Impossible Messengers](./🕊️_gustav_and_the_network_of_impossible_messengers.md)  
+> - [🌱 Love Is Antifascist](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌱_love_is_antifascist.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-02-19_
