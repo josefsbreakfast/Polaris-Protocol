@@ -43,9 +43,18 @@
 
 ---
 
+## 🌌 Constellations  
+🌀  
+
+---
+
+## ✨ Stardust  
+
+---
+
 ## 🏮 Footer  
 
-*CSE Scandals Post-2013 (National Overview)* is a living node of the Polaris Protocol.  
+*🗂️ CSE Scandals Post-2013 (National Overview)* is a living node of the Polaris Protocol.  
 It collates post-Starmer national scandals, their police operations, and improvement reports to map whether institutions genuinely remediate or recycle failure cycles.  
 
 > 📡 Cross-references:
