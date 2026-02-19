@@ -1,5 +1,5 @@
 # 🦈 Surveillance by Misread & Malice: Abuse and Democratic Integrity  
-**First created:** 2025-09-11 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-11 | **Last updated:** 2026-02-19  
 *Diagnostic protocol: tracing how surveillance misuse scales, and how government could audit it with existing tools.*  
 
 ---
@@ -314,4 +314,4 @@ It documents how systemic weaknesses in RIPA oversight allow individual abusers 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-02-19_
