@@ -112,13 +112,17 @@ If it fails to do this, the void it leaves will not remain empty.
 ---
 
 ## 🌌 Constellations  
-🧠 🧭 🧩 — structural analysis, governance arcs, transitional logic.
+🧠 🧭 🧩 — structural analysis, governance arcs, transitional logic.  
+
+---
 
 ## ✨ Stardust  
-labour party purpose, class politics, transitional change, nonviolent alternatives, historical function, democratic pressure valves, working class representation
+labour party purpose, class politics, transitional change, nonviolent alternatives, historical function, democratic pressure valves, working class representation  
+
+---
 
 ## 🏮 Footer  
-*Labour as the Alternative to Revolution* is a living node of the Polaris Protocol.  
+*🟥 Labour as the Alternative to Revolution* is a living node of the Polaris Protocol.  
 It contributes to the **Big Picture Protocols** cluster through deep structural analysis of political roles and constitutional function.
 
 > 📡 Cross-references:
