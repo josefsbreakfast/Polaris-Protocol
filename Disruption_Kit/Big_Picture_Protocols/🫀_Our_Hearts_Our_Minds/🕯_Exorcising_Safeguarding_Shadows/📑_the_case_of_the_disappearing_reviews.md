@@ -47,15 +47,26 @@ This practice can be read as:
 
 ---
 
+## 🌌 Constellations  
+🌀  
+
+---
+
+## ✨ Stardust  
+
+---
+
 ## 🏮 Footer  
 
-*The Case of the Disappearing Reviews* is a living node of the Polaris Protocol.  
+*📑 The Case of the Disappearing Reviews* is a living node of the Polaris Protocol.  
 It documents how councils and safeguarding boards allow key CSE improvement reports to vanish, treating them as reputational liabilities rather than durable governance artefacts.  
 
-> 📡 Cross-references:  
-> - See: CSE Scandals Post-2013 (System Governance cluster)  
-> - See: Failure Cycle vs Reported Improvements (System Governance cluster)  
-> - [📚 Forensic Silence] — parent diagnostic node  
+> 📡 Cross-references:
+>
+> - [⚖️ Selective Memory & Erasure](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_selective_memory_erasure.md)  
+> - [🗂️ CSE Scandals Post-2013 (National Overview)](./🗂️_cse_scandals_post-2013.md)  
+> - [👀 Failure Cycle vs. Reported Improvements](./👀_failure_cycle_vs_reported_improvements.md)  
+> - [🏛️ Master Council Overlay Table](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🏛️_master_council_overlay_table.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
