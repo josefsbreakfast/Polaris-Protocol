@@ -1,5 +1,5 @@
 # 🛡️ This Is the Home Front  
-**First created:** 2025-12-23 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-23 | **Last updated:** 2026-02-19  
 *Why defending democracy online is not escalation — it’s duty.*
 
 ---
@@ -170,16 +170,16 @@ home front, democratic defence, digital sovereignty, public permission, resilien
 ---
 
 ## 🏮 Footer  
-*This Is the Home Front* is a living node of the Polaris Protocol.  
+*🛡️ This Is the Home Front* is a living node of the Polaris Protocol.  
 It exists to legitimise defence without hysteria — and clarity without hatred.
 
 > 📡 Cross-references:
 > 
-> - [👾 Working Diagnosis: UK Data Exposure Accumulation](../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👾_working_diagnosis_uk_data_exposure_accumulation.md) — systemic vulnerability landscape  
-> - [🐦 The Canaries Are Still Singing](../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🐦_the_canaries_are_still_singing.md) — early warnings from marginalised groups
-> - [🏉 Regaining Possession](../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🏉_regaining_possession.md) — restoring agency after sustained pressure  
+> - [👾 Working Diagnosis: UK Data Exposure Accumulation](../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/👾_working_diagnosis_uk_data_exposure_accumulation.md) — *systemic vulnerability landscape*  
+> - [🐦 The Canaries Are Still Singing](../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🐦_the_canaries_are_still_singing.md) — *early warnings from marginalised groups*
+> - [🏉 Regaining Possession](../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🏉_regaining_possession.md) — *restoring agency after sustained pressure*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-02-19_
