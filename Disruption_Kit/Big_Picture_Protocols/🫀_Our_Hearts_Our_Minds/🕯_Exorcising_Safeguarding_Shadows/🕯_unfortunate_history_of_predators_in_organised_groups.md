@@ -81,8 +81,16 @@ child exploitation history, organised abuse, safeguarding shadows, predator beha
 
 ## 🏮 Footer  
 
-*The Unfortunate History of Predators in Organised Groups* is a living node of the Polaris Protocol.  
+*🕯 The Unfortunate History of Predators in Organised Groups* is a living node of the Polaris Protocol.  
 It scaffolds the long view of predation inside organised settings so that survivor-informed risk management can be built with historical memory intact.  
+
+> 📡 Cross-references:
+>
+> - [✈️ Genocides and Paedophiles](../../🌀_System_Governance/👑_Ownership_Control/✈️_genocides_and_paedophiles.md)  
+> - [✈️ Just Arrest Them](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_just_arrest_them.md)  
+> - [🗄️ Epstein Files Are Red Herrings](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗄️_epstein_files_are_red_herrings.md)  
+> - [✈️ Classy If You’re Rich](../../🌀_System_Governance/📚_Narrative_Management/✈️_classy_if_youre_rich.md)  
+> - [✈️ Justice Forbidden](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_justice_forbidden.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
