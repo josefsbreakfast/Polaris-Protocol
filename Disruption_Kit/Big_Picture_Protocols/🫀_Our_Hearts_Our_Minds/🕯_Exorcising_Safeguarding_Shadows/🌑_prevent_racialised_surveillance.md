@@ -182,16 +182,13 @@ a nation ceases to function as a single polity.
 
 ---
 
-## 🧠 Constellations  
-**🌑 Racialised Governance** — surveillance, disparity, structural suspicion.  
-**🛰️ Intelligence Logic** — ideology templates, behavioural risk.  
-**🧩 Social Harm** — chilled speech, trauma misreads, community fear.  
-**⚖️ Democratic Integrity** — unequal citizenship, civic withdrawal.
+## 🌌 Constellations  
+🌑 🛰️ 🧩 ⚖️ 
 
 ---
 
 ## ✨ Stardust (Search Keywords)  
-Prevent • racialised surveillance • Islamophobia • anti-Blackness • antisemitism • diaspora • extremism indicators • metadata • pre-crime • CTSA 2015 • democratic inequality
+Prevent, racialised surveillance, Islamophobia, anti-Blackness, antisemitism, diaspora, extremism indicators, metadata, pre-crime, CTSA 2015, democratic inequality
 
 ---
 
@@ -199,8 +196,13 @@ Prevent • racialised surveillance • Islamophobia • anti-Blackness • anti
 *🌑 Prevent as Britain’s Racialised Surveillance System* is a racialisation-analysis node of the Polaris Protocol.  
 It maps how Prevent’s logic, history, and interpretive frameworks consistently produce racialised harm and civic inequality—even where individual professionals act with good intent.
 
-> 📡 **Cross-references:**  
-
+> 📡 Cross-references:
+> 
+> - [🗣️ Why Euphemisms Matter](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🗣️_why_euphemisms_matter.md)  
+> - [🎭 Poets as Primary Targets](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🎭_poets_as_primary_targets.md)  
+> - [👾 Why Policing and PREVENT Are Susceptible to Racism](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_racism.md)  
+> - [🈺 Prevent as Structural Marginalisation](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🈺_prevent_as_structural_marginalisation.md)  
+> - [🌐 The Prevent/Channel Harm Map](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌐_the_prevent_channel_harm_map_supernode.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
