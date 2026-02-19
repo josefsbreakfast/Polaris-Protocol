@@ -1,5 +1,5 @@
 # 🟥 Labour as the Alternative to Revolution  
-**First created:** 2025-11-15 | **Last updated:** 2025-11-15  
+**First created:** 2025-11-15 | **Last updated:** 2026-02-19  
 *Labour’s constitutional role as the democratic alternative to violent upheaval.*
 
 ---
@@ -121,11 +121,12 @@ labour party purpose, class politics, transitional change, nonviolent alternativ
 *Labour as the Alternative to Revolution* is a living node of the Polaris Protocol.  
 It contributes to the **Big Picture Protocols** cluster through deep structural analysis of political roles and constitutional function.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🦕 Elder Influencers] - long arcs of inherited power  
 > - [🩻 Weirdness Screening] — identifying systemic anomalies in representation  
 > - [🦆 Digital Disruption] — civic action and repair
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-15_
+_Last updated: 2026-02-19_
