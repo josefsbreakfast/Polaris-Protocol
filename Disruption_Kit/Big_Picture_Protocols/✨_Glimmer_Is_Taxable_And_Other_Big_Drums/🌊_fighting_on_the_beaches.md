@@ -1,7 +1,6 @@
 # 🌊 Fighting On The Beaches: Embodied Interdependence at Dunkirk, D-Day, and Cable Street  
-**First created:** 2025-10-19 | **Last updated:** 2025-10-19  
-
-*What unites us is not our uniform, but our shared refusal to let harm spread unchecked.*
+**First created:** 2025-10-19 | **Last updated:** 2026-02-19  
+*What unites us is not our uniform, but our shared refusal to let harm spread unchecked.*  
 
 ---
 
@@ -108,4 +107,4 @@ solidarity, embodied interdependence, Dunkirk, Cable Street, satire, antifascism
 *🌊 Embodied Interdependence — Dunkirk, D-Day, and Cable Street* is a living node of the Polaris Protocol, within *✨ Glimmer Is Taxable and Other Big Drums.*  
 It honours imperfect cooperation as civilisation’s finest art.  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-02-19_
