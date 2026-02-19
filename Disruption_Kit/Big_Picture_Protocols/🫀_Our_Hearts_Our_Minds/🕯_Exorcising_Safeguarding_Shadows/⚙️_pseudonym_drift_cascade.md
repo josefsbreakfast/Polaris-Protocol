@@ -1,6 +1,6 @@
 # ⚙️ Pseudonym Drift Cascade  
-**First created:** 2025-11-11 | **Last updated:** 2026-02-05  
-*How token misalignment spreads through systems — and why it becomes a governance failure.*
+**First created:** 2025-11-11 | **Last updated:** 2026-02-19  
+*How token misalignment spreads through systems — and why it becomes a governance failure.*  
 
 ---
 
@@ -160,4 +160,4 @@ It explains how technical entropy becomes institutional truth — and why preven
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-05_
+_Last updated: 2026-02-19_
