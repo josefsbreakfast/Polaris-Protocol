@@ -1,10 +1,10 @@
 # 🍌 Neocon Narcissitic Political Disorder  
-**First created:** 2025-11-24 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-24 | **Last updated:** 2026-02-19  
 *An unfortunately common phenomenon in the Cold War Baby class; the underlying cause of the Radioactive Jelly Baby Voter subtype.*
-<!--Cannot wait to send my new bestie the FOI that asks for proportion of company time spent on the sane content we all say we want to police. Typical.-->
+
 ---
 
-## 🧩 Overview  
+## 🛰️ Overview  
 **Neocon Narcissitic Political Disorder (NNPD)** is a satirical diagnostic category capturing a specific personality-political fusion common among Cold Water Baby–era men raised on a diet of geopolitical exceptionalism, West Wing moralism, and inherited imperial hangover.
 
 These men exhibit:
@@ -53,7 +53,7 @@ Porn habits combined with algorithmic misinference feed a closed loop of “she 
 
 ---
 
-# 🦋 The Olivia Pope Misattribution Complex  
+## 🦋 The Olivia Pope Misattribution Complex  
 *Why neocon-coded men can only metabolise a woman’s moral authority as romantic tension.*
 
 Men with NNPD cannot interpret female clarity, competence, or boundary-setting **outside of romantic frameworks**.  
@@ -83,7 +83,7 @@ Her agency is reframed as **romantic devotion** rather than **political or perso
 
 ---
 
-# 🍆 The PornHub–TikTok Narrative Leakage Problem  
+## 🍆🪓 The PornHub–TikTok Narrative Leakage Problem  
 *How male sexual fantasy data bleeds into the recommendation streams of women who want nothing to do with them.*
 
 Algorithms inherit human interpretive narcissism.  
@@ -110,7 +110,7 @@ She becomes Olivia-in-love, even when she is Olivia-in-war.
 
 ---
 
-# 🖥️ The Digital Interpretive Narcissism Engine  
+## 🖥️ The Digital Interpretive Narcissism Engine  
 *Why platforms (like men) think everything a woman does is secretly about a man.*
 
 This is the overarching digital mechanism behind NNPD and its subtypes.
@@ -187,4 +187,4 @@ It analyses the narrative collapse point where male political self-importance, s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-02-19_
