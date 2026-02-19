@@ -1,5 +1,5 @@
 # 📚 Romanticism as Coercive Control — Literary Lineage  
-**First created:** 2025-10-06 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-06 | **Last updated:** 2026-02-19  
 *Tracing how 18th–19th century literary tropes of love, madness, and sacrifice became templates for institutional empathy and containment.*  
 
 ---
@@ -114,4 +114,4 @@ and how survivors, writers, and critics continue to rewrite them.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-02-19_
