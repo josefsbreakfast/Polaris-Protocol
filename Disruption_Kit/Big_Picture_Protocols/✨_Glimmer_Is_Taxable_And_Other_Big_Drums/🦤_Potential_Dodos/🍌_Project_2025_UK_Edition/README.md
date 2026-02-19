@@ -1,6 +1,6 @@
 # 🍌 Project 2025 UK Edition — A Field Guide for Aspiring Dodos  
-**First created:** 2025-10-27  |  **Last updated:** 2025-12-12  
-*An educational safari through late-stage governance mimicry, for those who wish to spot the warning signs before they molt.*
+**First created:** 2025-10-27 | **Last updated:** 2026-02-19  
+*An educational safari through late-stage governance mimicry, for those who wish to spot the warning signs before they molt.*  
 
 ---
 
@@ -68,4 +68,4 @@ It documents how imported governance pathogens might adapt to local conditions, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-02-19_
