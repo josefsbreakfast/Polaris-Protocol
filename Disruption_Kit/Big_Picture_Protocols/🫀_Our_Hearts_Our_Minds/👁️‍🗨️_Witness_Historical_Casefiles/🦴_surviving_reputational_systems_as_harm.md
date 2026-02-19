@@ -1,5 +1,5 @@
 # 🦴 Survival Of Reputational Systems As Harm
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-02-19  
 *When people survive systems rather than events.*
 
 ---
