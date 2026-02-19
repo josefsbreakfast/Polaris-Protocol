@@ -307,10 +307,26 @@ So when asking “why can’t the ICO just find it?” the honest answer is: no 
 
 ---
 
+## 🌌 Constellations  
+🌀  
+
+---
+
+## ✨ Stardust  
+
+---
+
 ## 🏮 Footer  
 
-*Surveillance Abuse and Democratic Integrity* is a living node of the Polaris Protocol.  
+*🦈 Surveillance by Misread & Malice: Abuse and Democratic Integrity* is a living node of the Polaris Protocol.  
 It documents how systemic weaknesses in RIPA oversight allow individual abusers to scale containment, and proposes an audit methodology for the UK government to close the gap.  
+
+> 📡 Cross-references:
+> 
+> - [🌐 Prevent as a Democracy Suppression Engine](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🌐_prevent_as_a_democracy_suppression_engine.md)
+> - [🎶 Police The Vibes](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_police_the_vibes.md)  
+> - [🎭 RIPA Compliance Theatre](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🎭_RIPA_compliance_theatre.md)
+> - [⚖️ Phantom Claim and RIPA Escalation](../../../Containment_Scripts/Suppression_Modes/⚖️_phantom_claim_ripa_escalation.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
