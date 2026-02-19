@@ -174,11 +174,11 @@ It functions as a meta-containment and cultural diagnostic, using satire to expo
 
 > 📡 Cross-references:
 > 
-> - **📱 Institutional Tech Archetypes (UK State)** — character dynamics  
-> - **🧪 Bad Procurement as a Security Vector** — operational origins  
-> - **🛡️ Epistemic Exhaustion as an Attack Surface** — underlying vulnerability  
-> - **🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash** — systemic conditions  
+> - [📱 Institutional Tech Archetypes (UK State)](../📱_institutional_tech_archetypes_uk_state.md) — *character dynamics*  
+> - [🧪 Bad Procurement as a Security Vector](../../🌀_System_Governance/🛰️_Infrastructure_Procurement/🧪_bad_procurement_as_a_security_vector.md) — *operational origins*  
+> - [🛡️ Epistemic Exhaustion as an Attack Surface](../..//🌀_System_Governance/💫_Containment_Logic/🛡️_epistemic_exhaustion_as_an_attack_surface.md) — *underlying vulnerability*  
+> - [🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash](../../🌀_System_Governance/🛰️_Infrastructure_Procurement/🧨_overclocked_capitalism_2020_cognitive_crash.md) — *systemic conditions*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated:2026-02-19_
+_Last updated: 2026-02-19_
