@@ -32,3 +32,6 @@ graph TD
     L6[🔧 6. Institution-Building<br/>Commons charters, cooperative law, open civic tech] -->
     L7[🌿 7. Renewal<br/>Cultural renaissance, civic education, ecological repair]
 ```
+
+---
+
