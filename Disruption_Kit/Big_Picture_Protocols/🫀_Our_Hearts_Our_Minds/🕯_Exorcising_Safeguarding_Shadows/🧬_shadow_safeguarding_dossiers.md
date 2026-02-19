@@ -55,9 +55,18 @@ There may have been **pre-existing organised criminal behaviour** around CSE and
 
 ---
 
+## 🌌 Constellations  
+🌀  
+
+---
+
+## ✨ Stardust  
+
+---
+
 ## 🏮 Footer  
 
-*Shadow Safeguarding Dossiers* is a living node of the Polaris Protocol.  
+*🧬 Shadow Safeguarding Dossiers* is a living node of the Polaris Protocol.  
 It demands forensic transparency of safeguarding reports and dossiers, recognising disappearance, twinning, and alteration as potential evidence of organised suppression.  
 
 > 📡 Cross-references:
