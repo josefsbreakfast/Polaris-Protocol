@@ -2,9 +2,7 @@
 **Common Name:** “Have You Tried Ordering a Curry?”  
 **Classification:** Imported Banter / Low-Energy Cruelty Meme  
 **Threat Level:** Socially Corrosive, Intellectually Embarrassing  
-
-**First Sighted:** 2025-12-23 | **Last Seen:** 2025-12-23  
-
+**First Sighted:** 2025-12-23 | **Last Seen:** 2026-02-19  
 ---
 
 ## 🪶 Description  
@@ -127,7 +125,9 @@ ideas that should never be allowed to breed.*
 
 > 📡 Cross-references:
 >
-> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) - *first spotted in the comments sections*
-> - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](../../../Disruption_Kit/Survivor_Tools/🧰_tools_against_sock_puppets.md) - *how to set one free*
+> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) - *first spotted in the comments sections*  
+> - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](../../../Survivor_Tools/🧰_tools_against_sock_puppets.md) - *how to set one free*  
+> - [🔥 Hunger Strike Comparisons](../../🌀_System_Governance/⚖️_Legal_State_Governance/🔥_hunger_strike_comparisons.md)  
+> - [🤖 General Issue Robots](../../🪄_Expression_Of_Norms/🙀_Chronically_Online/🤖_general_issue_robots.md)  
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-02-19_
