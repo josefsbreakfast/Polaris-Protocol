@@ -92,19 +92,37 @@ KCP hears:
 
 Containment officers mark the event as a **Category-2 Lore Leak**,  
 noting that no actual civil service conspiracy occurred,  
-but the Kraken did briefly stir during an ill-timed fiscal policy experiment.
+but the Kraken did briefly stir during an ill-timed fiscal policy experiment.  
 
 ---
 
-## 🧩 Constellations  
-🦑 🛡️ 🎭 🌀  
-
----
-
-## 🏮 Footer  
-
+## ✨ Summary  
 Maps archetypal rhetoric, definitely not real events.  
 No claim is made about actual persons, actions, or institutions.  
 
 Except, obviously, our deep loyalty to the kraken and its favourite humans in tin cans.  
 
+---
+
+## 🌌 Constellations  
+🦑 🛡️ 🎭 🌀  
+
+---
+
+## ✨ Stardust  
+
+
+---
+
+## 🏮 Footer  
+*🦑 The Truss Protocols: The State of The Deep* is a living node of the Polaris Protocol.  
+
+> 📡 Cross-references:
+> 
+> - [🐇 QAnon Vocabulary Origins](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🐇_qanon_vocabulary_origins.md)  
+> - [⚖️ Inversion and Laundering as State Technique](../../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/⚖️_inversion_and_laundering_as_state_technique.md)  
+
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-02-19_
