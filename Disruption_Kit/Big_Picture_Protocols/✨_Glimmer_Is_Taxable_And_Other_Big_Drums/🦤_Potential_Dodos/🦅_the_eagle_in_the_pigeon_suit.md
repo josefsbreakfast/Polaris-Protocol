@@ -1,8 +1,7 @@
 # 🦅 The Eagle in the Pigeon Suit  
 **Alternative Name:** Transatlantic Banter Failure  
 **Classification:** Cultural Mismatch / Predatory Mimicry Gone Wrong  
-
-**First Sighted:** 2025-12-23 | **Last Seen:** 2025-12-23  
+**First Sighted:** 2025-12-23 | **Last Seen:** 2026-02-19  
 
 ---
 
@@ -110,7 +109,9 @@ species best observed briefly, then ignored until they wander off.*
 
 > 📡 Cross-references:
 >
-> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) - *first spotted in danger in the comments sections*
-> - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](../../../Disruption_Kit/Survivor_Tools/🧰_tools_against_sock_puppets.md) - *how to save the trapped eagle*  
+> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) - *first spotted in danger in the comments sections*  
+> - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](../../Survivor_Tools/🧰_tools_against_sock_puppets.md) - *how to save the trapped eagle*  
+> - [🏛️ Our Island, Our Realm, Our Rules (and Why That Includes Hospitality)](../../Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_our_island_our_realm_our_rules.md)  
 
-_Last updated: 2025-12-23_
+
+_Last updated: 2026-02-19_
