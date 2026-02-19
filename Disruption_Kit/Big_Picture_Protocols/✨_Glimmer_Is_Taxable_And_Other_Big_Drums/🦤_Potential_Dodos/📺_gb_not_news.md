@@ -1,6 +1,6 @@
 # 📺 GB Not-News  
-**First created:** 2025-10-27 | **Last updated:** 2025-10-27  
-*A case study in regulatory cosplay — how to sell opinion as journalism and call it compliance.*
+**First created:** 2025-10-27 | **Last updated:** 2026-02-19  
+*A case study in regulatory cosplay — how to sell opinion as journalism and call it compliance.*  
 
 ---
 
@@ -69,6 +69,15 @@ the comfort of outrage framed as national duty.
 
 ---
 
+### ⚖️ Satirical Protection Statement  
+This node is **satirical political commentary** and forms part of an ongoing research and artistic project (Polaris Protocol).  
+It is covered by *freedom of expression* protections under **Article 10 of the European Convention on Human Rights**,  
+as enacted by the **Human Rights Act 1998**, and by **fair-dealing for criticism, review and quotation**  
+under the **Copyright, Designs and Patents Act 1988 s.30**.  
+It makes no factual allegations and should be read as critical, humorous, and analytic expression.  
+<!--"Because you know they love to sue."-->
+---
+
 ## 🌌 Constellations  
 🦤 📺 ⚙️ 🧾 — satire • regulation • media ecology • semantic loopholes  
 
@@ -88,16 +97,7 @@ proof that in post-truth Britain, even compliance can be performative art.
 > 📡 Cross-references:  
 
 > - [🦤 Potential Dodos README](./README.md)  
-> - [🕊️ Gustav and the Network of Impossible Messengers](../🕊️_gustav_and_the_network_of_impossible_messengers.md)
-
----
-
-### ⚖️ Satirical Protection Statement  
-This node is **satirical political commentary** and forms part of an ongoing research and artistic project (Polaris Protocol).  
-It is covered by *freedom of expression* protections under **Article 10 of the European Convention on Human Rights**,  
-as enacted by the **Human Rights Act 1998**, and by **fair-dealing for criticism, review and quotation**  
-under the **Copyright, Designs and Patents Act 1988 s.30**.  
-It makes no factual allegations and should be read as critical, humorous, and analytic expression.
+> - [🕊️ Gustav and the Network of Impossible Messengers](../🦁_Armoury_Quick_Tour/🕊️_gustav_and_the_network_of_impossible_messengers.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-27_
+_Last updated: 2026-02-19_
