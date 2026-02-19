@@ -95,9 +95,10 @@ It documents how a broadcaster can obey the letter of impartiality law while ann
 proof that in post-truth Britain, even compliance can be performative art.
 
 > 📡 Cross-references:  
-
-> - [🦤 Potential Dodos README](./README.md)  
+> 
+> - [⚔️ War on Woke as Containment Architecture](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)  
 > - [🕊️ Gustav and the Network of Impossible Messengers](../🦁_Armoury_Quick_Tour/🕊️_gustav_and_the_network_of_impossible_messengers.md)  
+> - [🎞️ The BBC Is Not a Safe House](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/🎞️_the_bbc_is_not_a_safe_house.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 _Last updated: 2026-02-19_
