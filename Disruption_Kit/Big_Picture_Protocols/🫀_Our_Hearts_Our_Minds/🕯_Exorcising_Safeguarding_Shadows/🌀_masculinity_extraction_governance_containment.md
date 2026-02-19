@@ -1,5 +1,5 @@
 # 🌀 Masculinity Extraction ↔ Governance Containment  
-**First created:** 2025-09-06 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-06 | **Last updated:** 2026-02-19  
 *A diagnostic of how capitalism profits from men’s insecurity while governance denies and silences the harms that follow.*  
 
 ---
@@ -92,10 +92,10 @@ Together, the loops converge:
 
 ## 🏮 Footer
 
-*Masculinity Extraction ↔ Governance Containment* is a living node of the Polaris Protocol.  
+*🌀 Masculinity Extraction ↔ Governance Containment* is a living node of the Polaris Protocol.  
 It documents how economic systems profit from male volatility while governance structures deny or silence its harms.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-02-19_  
 
