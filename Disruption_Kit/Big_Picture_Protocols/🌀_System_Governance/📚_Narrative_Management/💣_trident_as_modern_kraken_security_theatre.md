@@ -1,5 +1,5 @@
 # 💣 Trident as Modern Kraken Security Theatre  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-19 | **Last updated:** 2026-02-19  
 *A Polaris satirical-governance analysis of how the UK’s nuclear deterrent system functions rhetorically, emotionally, and politically like a centuries-old naval tradition of inventing giant sea monsters to justify absurdly large budgets.*  
 <!--AKA why Trident is there to guard the Kraken. I await evidence to the contrary.-->
 ---
@@ -177,9 +177,12 @@ but the rhetorical logic that made it useful absolutely does.
 *💣 Trident as Modern Kraken Security Theatre* concludes the Polaris Kraken Governance Satire arc.  
 It exposes how nuclear deterrent rhetoric inherits the mythic narrative structures of maritime monster folklore — using humour to reveal serious mechanisms of power.
 
-Crosslinks:  
-- 🦑 *kraken-based_defence_budget_satire*  
-- 🗡️ *why_trident_is_lowkey_kraken_insurance*  
-- 🚢 *royal_navy_and_the_myth_of_underwater_threats*
+> 📡 Cross-references:
+> 
+> - [🦑 Kraken-Based Defence Budget Satire](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_kraken_based_defence_budget.md)  
+> - [🔱 Why Trident Is Lowkey Kraken Insurance](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🔱_why_trident_is_lowkey_kraken_insurance.md)  
+> - [🚢 Royal Navy & The Definite Reality of Underwater Threats](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🚢_large_underwater_threats.md)  
 
-_Last updated: 2025-12-09_  
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-02-19_  
