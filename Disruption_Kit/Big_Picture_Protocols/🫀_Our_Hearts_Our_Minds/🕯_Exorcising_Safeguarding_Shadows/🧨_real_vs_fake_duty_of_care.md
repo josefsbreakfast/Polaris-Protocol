@@ -41,12 +41,24 @@ There are **transformational changes** needed to restore accountability:
 
 ---
 
+## 🌌 Constellations  
+🌀  
+
+---
+
+## ✨ Stardust  
+
+---
+
 ## 🏮 Footer  
-*Real vs Fake Duty of Care* is a living node of the Polaris Protocol.  
+*🧨 Real vs Fake Duty of Care* is a living node of the Polaris Protocol.  
 It clarifies how duty-of-care can be either a genuine legal safeguard or a mask for institutional sadism.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🧪 Ego Insurance But Make It Personal](./🧪_ego_insurance_but_make_it_personal.md)  
+> - [🗝 Guardianship as Nonstate Custody](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🗝️_guardianship_as_nonstate_custody.md)  
+> - [🏭 Industrialisation of Misogyny](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🏭_industrialisation_of_misogyny.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
