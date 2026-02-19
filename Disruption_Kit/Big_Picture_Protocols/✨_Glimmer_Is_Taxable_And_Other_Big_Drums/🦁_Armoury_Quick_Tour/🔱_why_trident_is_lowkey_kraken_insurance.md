@@ -1,6 +1,6 @@
-# 🗡️ Why Trident Is Lowkey Kraken Insurance  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-12  
-Why the UK’s nuclear deterrent system — in its opacity, cost, and mythic justification — functions exactly like “anti-Kraken insurance.”*
+# 🔱 Why Trident Is Lowkey Kraken Insurance  
+**First created:** 2025-11-17 | **Last updated:** 2026-02-19  
+Why the UK’s nuclear deterrent system — in its opacity, cost, and mythic justification — functions exactly like “anti-Kraken insurance.”*  
 
 ---
 
@@ -125,11 +125,14 @@ Kraken humour reveals **epistemic absurdity**.
 ---
 
 ## 🏮 Footer  
-**Why Trident Is Lowkey Kraken Insurance** is a comedic meta-node that exposes the mythic structure of deter­rent rhetoric.  
+*🔱Why Trident Is Lowkey Kraken Insurance* is a comedic meta-node that exposes the mythic structure of deter­rent rhetoric.  
 By reframing nuclear policy as sea-monster insurance, Polaris makes defence opacity legible and critique possible.
 
-Crosslinks:  
-- 🦑 *kraken-based_defence_budget_satire*  
-- 💣 *trident_as_modern_kraken_security_theatre*  
+> 📡 Cross-references:
+> 
+> - [🦑 Kraken-Based Defence Budget Satire](./🦑_kraken_based_defence_budget.md)  
+> - [💣 Trident as Modern Kraken Security Theatre](../../🌀_System_Governance/📚_Narrative_Management/💣_trident_as_modern_kraken_security_theatre.md)
 
-_Last updated: 2025-12-12_
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-02-19_
