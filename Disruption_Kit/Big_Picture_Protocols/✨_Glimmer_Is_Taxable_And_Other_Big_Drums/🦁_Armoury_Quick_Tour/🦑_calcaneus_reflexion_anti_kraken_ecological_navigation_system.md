@@ -31,7 +31,7 @@ A load-bearing organism under continuous reshaping.
 
 ---
 
-# 🦴 Conceptual Foundation: The Calcaneus Model  
+## 🦴 Conceptual Foundation: The Calcaneus Model  
 The calcaneus (heel bone) is:
 
 - a load distributor  
@@ -54,7 +54,7 @@ Every force affects the organism.
 
 ---
 
-# 🕸️ The Anti-Kraken Principle  
+## 🕸️ The Anti-Kraken Principle  
 The Kraken symbolises the catastrophic submerged risk  
 unleashed by decisions made without reflexive mapping:
 
@@ -77,7 +77,7 @@ and **triggering submerged risk layers**.
 
 ---
 
-# 🧠 CRAKEN Components  
+## 🧠 CRAKEN Components  
 
 ## 1. Reflexive Load Mapping  
 How your moves reshape:
@@ -142,7 +142,7 @@ CRAKEN flags these as structural fracture points.
 
 ---
 
-# 🧬 Why Doctrine Has No Term for This  
+## 🧬 Why Doctrine Has No Term for This  
 Because legacy systems were built for a world where:
 
 - silos were rewarded  
@@ -157,7 +157,7 @@ CRAKEN is the missing conceptual upgrade.
 
 ---
 
-# 🌐 Use Cases  
+## 🌐 Use Cases  
 
 ### 1. Crisis Prediction  
 Where pressure accumulates, breaks follow.
@@ -176,7 +176,7 @@ Every movement reshapes the organism.
 
 ---
 
-# 🐙 Summary  
+## 🐙 Summary  
 The CRAKEN System provides a reflexive, ecological map  
 for understanding how geopolitical pressures distribute,  
 how actors interpret each other’s moves,  
@@ -189,9 +189,19 @@ is the only way to keep the metaphorical Kraken asleep.
 
 ---
 
+## 🌌 Constellations  
+
+---
+
+## ✨ Stardust  
+
+resilience engineering, nuclear systems engineering, clinical reasoning, root cause analysis, psychoanalytics, systems theory  
+
+---
+
 ## 🏮 Footer
 
-*C.R.A.K.E.N.* will be applied until the sea monsters can go back to sleep.  
+*🦑 C.R.A.K.E.N.* will be applied until the sea monsters can go back to sleep.  
 
 > 📡 Cross-references:
 >
