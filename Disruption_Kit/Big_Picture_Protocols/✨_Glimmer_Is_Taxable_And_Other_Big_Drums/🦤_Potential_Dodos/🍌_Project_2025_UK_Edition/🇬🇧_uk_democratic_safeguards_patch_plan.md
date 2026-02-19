@@ -1,5 +1,8 @@
 # 🇬🇧 Democratic Safeguards — Immediate Patch Plan
-**First created:** 2025‑10‑27 | **Last updated:** 2025‑10‑27
+**First created:** 2025‑10‑27 | **Last updated:** 2026-02-19  
+*"And I love ya.. I just wish you'd stay where you belong..."*  
+
+---
 
 Defensive, non‑partisan actions to harden UK institutions against slow entrenchment and capture. Reverse‑engineered from the Entrenchment Watchlist and Risk Matrix.
 
@@ -31,6 +34,10 @@ Defensive, non‑partisan actions to harden UK institutions against slow entrenc
 ---
 
 ### Owners, Artefacts, Success Metrics
-See the companion YAML for full owner lists, concrete artefacts, and measurable success metrics.
+See the companion YAML for full owner lists, concrete artefacts, and measurable success metrics.  
+
+---
 
 *Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-02-19_
