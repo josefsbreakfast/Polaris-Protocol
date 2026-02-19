@@ -97,7 +97,14 @@ It is correction.
 ---
 
 *Filed under Potential Dodos:  
-species requiring procedural containment before irreversible habitat distortion.*
+species requiring procedural containment before irreversible habitat distortion.*  
+
+---
+
+> 📡 Cross-references:
+> 
+> - [✈️ Genocides and Paedophiles](../../🌀_System_Governance/👑_Ownership_Control/✈️_genocides_and_paedophiles.md)
+> - [✈️ Arresting Justice](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_arresting_justice.md) — *justice delayed as governance strategy*  
 
 ---
 
