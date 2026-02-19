@@ -139,9 +139,9 @@ It supports the **Big Picture Protocols** cluster by mapping interdependent part
 
 > 📡 Cross-references:
 > 
-> - [🟥 Labour as the Alternative to Revolution](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🌹_for_the_serious_red_chaps.md)  
-> - [🟦 Conservatives as the Counterbalance to Radical Change](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🖌️_for_the_serious_blue_chaps.md)  
-> - [⚠️ Alt‑Right Threat to Both Parties](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/⚠️_alt_right_threat_to_both_parties.md)  
+> - [🟥 Labour as the Alternative to Revolution](./🌹_for_the_serious_red_chaps.md)  
+> - [🟦 Conservatives as the Counterbalance to Radical Change](./🖌️_for_the_serious_blue_chaps.md)  
+> - [⚠️ Alt‑Right Threat to Both Parties](./⚠️_alt_right_threat_to_both_parties.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
