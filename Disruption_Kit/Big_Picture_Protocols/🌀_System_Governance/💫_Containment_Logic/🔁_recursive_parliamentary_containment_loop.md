@@ -1,5 +1,5 @@
 # 🔁 Recursive Parliamentary Containment Loop  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-17 | **Last updated:** 2026-02-19  
 *How Labour and the Conservatives became trapped in a mutually weakening performance cycle that prevents either from fulfilling their constitutional function.*  
 
 ---
@@ -127,20 +127,25 @@ something neither party has been allowed to rebuild inside the current ecosystem
 ---
 
 ## 🌌 Constellations  
-🔁 🧭 🧩 — feedback loops, institutional behaviour, governance dynamics.
+🔁 🧭 🧩 — feedback loops, institutional behaviour, governance dynamics.  
+
+---
 
 ## ✨ Stardust  
-political recursion, optics politics, mutual weakening, media amplification, institutional drift, democratic erosion
+political recursion, optics politics, mutual weakening, media amplification, institutional drift, democratic erosion  
+
+---
 
 ## 🏮 Footer  
-*Recursive Parliamentary Containment Loop* is a living node of the Polaris Protocol.  
+*🔁 Recursive Parliamentary Containment Loop* is a living node of the Polaris Protocol.  
 It supports the **Big Picture Protocols** cluster by mapping systemic dysfunction within UK parliamentary behaviour.
 
-> 📡 Cross-references:  
-> - [💍 Two-Party System as an Old-Fashioned Marriage]  
-> - [🟥 Labour as the Alternative to Revolution]  
-> - [🟦 Conservatives as the Counterbalance to Radical Change]  
+> 📡 Cross-references:
+> 
+> - [💍 Two-Party System as an Old-Fashioned Marriage](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/💍_two_party_system_as_an_old_fashioned_marriage.md)  
+> - [🟥 Labour as the Alternative to Revolution](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🌹_for_the_serious_red_chaps.md)  
+> - [🟦 Conservatives as the Counterbalance to Radical Change](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🖌️_for_the_serious_blue_chaps.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-02-19_
