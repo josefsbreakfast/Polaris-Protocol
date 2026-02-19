@@ -52,9 +52,18 @@
 
 ---
 
+## 🌌 Constellations  
+🌀  
+
+---
+
+## ✨ Stardust  
+
+---
+
 ## 🏮 Footer  
 
-*Shadow Audit Trails* is a living node of the Polaris Protocol.  
+*🧬 Shadow Audit Trails* is a living node of the Polaris Protocol.  
 It documents how asystematic but repeated manipulations of inquiry reports evade central audit cycles, leaving traces of suppression that can be read as evidence.  
 
 > 📡 Cross-references:
