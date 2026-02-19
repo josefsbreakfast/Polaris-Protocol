@@ -1,6 +1,6 @@
 # 🏛️ Conservatorship-Like Abuses in the UK (Primer)  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-15  
-*How analogous controls can arise here; where to audit first.*
+**First created:** 2025-10-04 | **Last updated:** 2026-02-19  
+*How analogous controls can arise here; where to audit first.*  
 
 ---
 
@@ -26,4 +26,4 @@ Policy-first orientation with a matching investigation checklist to be expanded.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-02-19_
