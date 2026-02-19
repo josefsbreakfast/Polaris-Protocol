@@ -1,5 +1,5 @@
 # 🕯 The Unfortunate History of Predators in Organised Groups  
-**First created:** 2025-10-05 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-05 | **Last updated:** 2026-02-19  
 *A historical skeleton of child exploitation, grooming, and predation inside organised settings.*
 
 ---
@@ -86,4 +86,4 @@ It scaffolds the long view of predation inside organised settings so that surviv
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-02-19_
