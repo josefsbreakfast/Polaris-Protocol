@@ -2,7 +2,6 @@
 **Alternative Name:** Altitude Without Accountability  
 **Classification:** Nest Intrusion / Institutional Distortion  
 **Status:** Ongoing Hazard  
-
 **First Sighted:** 2026-02-19 | **Last Seen:** Unfortunately ongoing  
 
 ---
