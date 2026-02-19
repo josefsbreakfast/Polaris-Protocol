@@ -136,7 +136,7 @@ satire, kraken governance, institutional parody, deterrence mythology, bureaucra
 > 
 > - [🦑 The Fathom Response to Containment Phase 3](./🦑_the_fathom_response_to_containment_phase_3.md) — *incident escalation*  
 > - [🦁 Armoury Quick Tour](./README.md) — *satirical context and scope*  
-> - [🎭 Narrative & Psych Ops](../../../Metadata_Sabotage_Network/🎭_Narrative_And_Psych_Ops/) — *analysis of how such systems are misread*  
+> - [🎭 Narrative & Psych Ops](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md) — *analysis of how such systems are misread*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
