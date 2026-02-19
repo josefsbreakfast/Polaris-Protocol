@@ -1,6 +1,6 @@
 # 🌀 CH↯FF — Signature Confusion for Power-Weighted Targeting  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-29  
-*When you can’t block the lock, bend the lock-on.*
+**First created:** 2025-10-23 | **Last updated:** 2026-02-19  
+*When you can’t block the lock, bend the lock-on.*  
 
 ---
 
@@ -113,7 +113,6 @@ It reframes “can’t stop the lock” situations into sensor-deception problem
 > – [🧬 Structural Mapping](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) - *the inner architecture of metadata sabotage systems*  
 > – [🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures](../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎺_echo_punk.md) - *some absolute bangers on brass*  
 
-
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-29_
+_Last updated: 2026-02-19_
