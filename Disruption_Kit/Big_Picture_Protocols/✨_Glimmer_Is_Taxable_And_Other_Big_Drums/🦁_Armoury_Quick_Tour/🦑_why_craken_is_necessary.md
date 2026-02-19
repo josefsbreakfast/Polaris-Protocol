@@ -242,4 +242,26 @@ and replaces them with a structure that can actually survive the century.
 
 ---
 
+## 🌌 Constellations  
+
+---
+
+## ✨ Stardust  
+
+---
+
+## 🏮 Footer  
+*🦑 Why the CRAKEN System Is Necessary* is a living node of the Polaris Protocol.  
+
+> 📡 Cross-references:
+> 
+> - [🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System](./🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md)  
+> - [🦑 Kraken-Based Defence Budget Satire](./🦑_kraken_based_defence_budget.md)  
+> - [🦑 Kraken Containment Governance: Roles, Rituals, and Risks](./🦑_kraken_containment_governance_roles_rituals_and_risks.md)  
+> - [🦑 Kraken: Ground Zero](./🦑_kraken_ground_zero.md)  
+> - [🔱 Why Trident Is Lowkey Kraken Insurance](./🔱_why_trident_is_lowkey_kraken_insurance.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
 _Last updated: 2026-02-19_
+
