@@ -1,5 +1,5 @@
 # ⚓️ The Service That Went to Sea and Never Came Back  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-13  
+**First created:** 2025-11-12 | **Last updated:** 2026-02-19  
 *Navy as quantum maritime mystery and tea-based security culture.*  
 <!--Guarding krakens and keeping British men in maritime garden sheds since 1543.-->
 ---
@@ -46,4 +46,4 @@ royal navy, kettle diplomacy, strategic absence, eldritch containment, judgment 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-13_
+_Last updated: 2026-02-19_
