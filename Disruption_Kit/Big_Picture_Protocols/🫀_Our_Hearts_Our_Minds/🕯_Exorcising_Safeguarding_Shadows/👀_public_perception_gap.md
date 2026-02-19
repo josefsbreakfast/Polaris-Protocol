@@ -81,10 +81,26 @@ Focus: how “acceptable” identities are used to mask repression, how respecta
 
 ---
 
+## 🌌 Constellations  
+🌀  
+
+---
+
+## ✨ Stardust  
+
+---
+
 ## 🏮 Footer  
 
-*Public Perception Gap* is a living node of the Polaris Protocol.  
+*👀 Public Perception Gap* is a living node of the Polaris Protocol.  
 It analyses how institutional optics distort harm recognition, creating narrative shields that silence survivor voices.  
+
+> 📡 Cross-references:
+> 
+> - [⚖️ Inversion and Laundering as State Technique](./⚖️_inversion_and_laundering_as_state_technique.md)  
+> - [🏛️ Optics Are Not Legitimacy](../../🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_optics_are_not_legitimacy.md)  
+> - [⏳ Hinge Point: When Delay Becomes Liability](../../🌀_System_Governance/⚖️_Legal_State_Governance/⏳_hinge_point_when_delay_becomes_liability.md)  
+> - [⚖️ Reputation After Revelation — How Institutions Should Handle Safeguarding in a Post-2022 World](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_reputation_after_revelation.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
