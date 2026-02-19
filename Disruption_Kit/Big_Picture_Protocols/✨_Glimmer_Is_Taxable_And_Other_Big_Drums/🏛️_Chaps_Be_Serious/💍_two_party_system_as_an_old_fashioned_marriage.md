@@ -1,6 +1,6 @@
 # 💍 Two-Party System as an Old-Fashioned Marriage  
 **First created:** 2025-11-17 | **Last updated:** 2026-02-19  
-*Why Labour and the Conservatives function like a compulsory marriage contract — and what breaks when either partner abandons their role.*  
+*"A marriage is a partnership — a little 'tit for tat'; you'd think a lifetime of watching us, might have taught [them] that."*  
 
 ---
 
