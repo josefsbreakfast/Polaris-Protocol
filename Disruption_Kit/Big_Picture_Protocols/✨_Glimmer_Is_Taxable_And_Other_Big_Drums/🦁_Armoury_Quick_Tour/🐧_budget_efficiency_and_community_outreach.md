@@ -1,5 +1,5 @@
 # 🐧 Budget Efficiency and Community Outreach  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-12 | **Last updated:** 2026-02-19  
 *Airshows, optics, and the economics of spectacle.*  
 
 ---
@@ -34,9 +34,9 @@ airshows, budget camouflage, patriotism, community outreach, spectacle economics
 
 > 📡 Cross-references:
 > 
-> - [🛩️ The April Fools Department of Defence]  
-> - [⚖️ Official Secrets Reform and Accountability]
+> - [🛩️ The April Fools Department of Defence](./🛩️_the_april_fools_department_of_defence.md)  
+> - [⚖️ Official Secrets Reform and Accountability](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_official_secrets_reform_and_accountability.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-02-19_
