@@ -106,12 +106,15 @@ Nick Clegg, digital diplomacy, tech governance, open internet, reform coalition,
 
 ## 🏮 Footer  
 
-*✨ Political Pokédex: Nick Clegg, The Digital Diplomat* is a living satire node of the Polaris Protocol.  
+*🦕 Political Pokédex: Nick Clegg, The Digital Diplomat* is a living satire node of the Polaris Protocol.  
 It renders a real public figure as specimen data for governance taxonomy — mapping how containment, redemption, and legacy mutate in post-platform ecologies.  
 
 > 📡 Cross-references:
 > 
-
+> - [🗞️ Docility Engine Print Edition](../../🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🗞️_docility_engine_print_edition.md)  
+> - [🧠 Voice Clones, AI & the Threat to Policing](../../🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧠_voice_clones_ai_and_the_threat_to_policing.md)  
+> - [🧨 Dual-Use Frankenstack](../../🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧨_dual_use_frankenstack.md)  
+> - [🐝 My Honey, My Hive: Why Less Extraction Feels Better](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🐝_my_honey_my_hive.md)    
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
