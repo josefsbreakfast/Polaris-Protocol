@@ -1,5 +1,5 @@
 # 💍 Two-Party System as an Old-Fashioned Marriage  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-17 | **Last updated:** 2026-02-19  
 *Why Labour and the Conservatives function like a compulsory marriage contract — and what breaks when either partner abandons their role.*  
 
 ---
@@ -145,4 +145,4 @@ It supports the **Big Picture Protocols** cluster by mapping interdependent part
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-02-19_
