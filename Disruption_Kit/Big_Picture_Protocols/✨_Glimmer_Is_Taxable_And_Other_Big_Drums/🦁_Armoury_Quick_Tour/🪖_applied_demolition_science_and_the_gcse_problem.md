@@ -28,6 +28,8 @@ Its credo: rank will protect you from physics.
 ## 🌌 Constellations  
 🪖 💥 🧠 — containment, explosives, empiricism.  
 
+---
+
 ## ✨ Stardust  
 army, demolition science, field engineering, containment humour, risk culture  
 
