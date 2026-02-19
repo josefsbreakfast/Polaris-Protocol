@@ -2,6 +2,8 @@
 **First created:** 2025-11-20 | **Last updated:** 2026-02-19  
 *The Pressgang Party — a civic reallocation mechanism based on British cultural logic.*  
 
+---
+
 ## Orientation  
 British public debate has a peculiar reflex:  
 whenever civil rights, veterans’ welfare, serving personnel issues, or military oversight are raised,  
