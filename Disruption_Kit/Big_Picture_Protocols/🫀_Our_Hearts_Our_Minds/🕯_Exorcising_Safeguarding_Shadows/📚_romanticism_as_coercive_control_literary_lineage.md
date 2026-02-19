@@ -107,10 +107,16 @@ romanticism, gothic literature, coercive control, jane eyre, fallen woman trope,
 
 ## 🏮 Footer  
 
-*Romanticism as Coercive Control — Literary Lineage* is a living node of the Polaris Protocol.  
+*📚 Romanticism as Coercive Control — Literary Lineage* is a living node of the Polaris Protocol.  
 It traces how cultural empathy scripts from classic literature still shape modern safeguarding and institutional response systems —  
 and how survivors, writers, and critics continue to rewrite them.  
 
+> 📡 Cross-references:
+> 
+> - [📡 Who Gets to Transmit](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📡_who_gets_to_transmit.md)  
+> - [🧠 Charisma Is Just Coercion](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_charisma_as_coercion.md)  
+> - [🎶 WAP as Art](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎶_wap_as_art.md)  
+> - [🏛️ 50 Shades of Avoiding Damages](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🏛️_50_shades_of_avoiding_damages.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
