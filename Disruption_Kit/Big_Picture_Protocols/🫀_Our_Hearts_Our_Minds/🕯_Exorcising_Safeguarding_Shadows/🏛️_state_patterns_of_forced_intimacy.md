@@ -52,10 +52,26 @@ This is the same pattern as *Metadata Twinning*: enforced chastity play without 
 
 ---
 
+## 🌌 Constellations  
+
+🌀 🏛️  
+
+---
+
+## ✨ Stardust  
+
+---
+
 ## 🏮 Footer  
 
-*State Patterns of Forced Intimacy* is a living node of the Polaris Protocol.  
+*🏛️ State Patterns of Forced Intimacy* is a living node of the Polaris Protocol.  
 It records how authoritarian and democratic states alike have used proximity, repression, and enforced intimacy to manage populations and break solidarity.  
+
+> 📡 Cross-references:
+> 
+> - [💄 Let's Play!: Surveillance or Pervert-with-a-Badge?](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/💄_surveillance_or_pervert_with_a_badge.md)  
+> - [📲 Dopamine Grooming and Self-Regulation](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/📲_dopamine_grooming_and_self_regulation.md)  
+> - [💞 Ethics of Nudging vs Desire](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/💞_ethics_of_nudging_vs_desire.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
