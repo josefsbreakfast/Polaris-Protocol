@@ -1,5 +1,5 @@
 # 🕸️ Gendered Harms from Counter-Extremism Algorithms  
-**First created:** 2025-11-01 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-01 | **Last updated:** 2026-02-20  
 *When automation confuses opposition with allegiance, women’s safety work becomes collateral damage.*  
 
 ---
@@ -106,10 +106,10 @@ It documents how automated moderation and counter-extremism tools misclassify ad
 
 > 📡 Cross-references:
 > 
-> - [🐍 Algorithmic Hostage Logic] — containment feedback loops  
-> - [⚖️ Institutional Parasitism of Deradicalisation Work] — extraction of stabilisation labour  
-> - [💇‍♀️ The Dumb Blonde Protocol] — disbelief and containment myths  
+> - [🐍 Algorithmic Hostage Logic](../../Structural_Analysis/👾_Breakpoints_And_Glitches/🐍_algorithmic_hostage_logic.md) — *containment feedback loops*  
+> - [⚖️ Institutional Parasitism of Deradicalisation Work](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/⚖️_institutional_parasitism_of_deradicalisation_work.md) — *extraction of stabilisation labour*  
+> - [💄 The Dumb Blonde Protocol](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💄_the_dumb_blonde_protocol.md) — *disbelief and containment myths*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-02-20_
