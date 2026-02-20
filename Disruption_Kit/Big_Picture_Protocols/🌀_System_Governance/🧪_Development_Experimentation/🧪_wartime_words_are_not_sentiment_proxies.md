@@ -498,7 +498,9 @@ The problem is that **no one is allowed to see the whole picture**, while the pu
 ---
 
 ## 🌌 Constellations  
-⚖️ 🧠 🛰️ 🧿 🐍 — emergency law, cognition under threat, surveillance regimes, targeting logic, recursive harm.
+⚖️ 🧠 🛰️ 🧿 🐍 — emergency law, cognition under threat, surveillance regimes, targeting logic, recursive harm.  
+
+---
 
 ## ✨ Stardust  
 wartime data, diaspora speech, yiddish erasure, liturgical arabic, mourning penalisation, language as risk, mandate law, emergency governance, sentiment analysis failure, epistemic laundering
@@ -511,7 +513,12 @@ wartime data, diaspora speech, yiddish erasure, liturgical arabic, mourning pena
 It documents methodological failure under asymmetrical risk and wartime governance conditions, and exists to prevent surveillance-driven datasets from being misrepresented as neutral social science.
 
 > 📡 Cross-references:
-> 
+>
+> - [🙄 Forensic Schema — Why the Dual Loyalty Accusation ‘Pings’ Harder than Rape Disclosure](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🙄_jewish_loyalty_pings_faster_than_rape.md)
+> - [📜 Book of Esther (FOI Edition)](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📜_book_of_esther_foi_edition.md)  
+> - [👑 Projection Esther](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/👑_projection_esther.md)
+> - [🍌 Project 2025 UK Edition — A Field Guide for Aspiring Dodos](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/README.md)
+> - [🧨 Marriage Camps Legalise Rape](../../🐍_Ouroborotic_Violence/💔_Violence_IRL/🧨_marriage_camps_legalise_rape.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
