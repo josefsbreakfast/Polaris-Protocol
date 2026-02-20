@@ -1,5 +1,5 @@
 # 🧨 Marriage Camps Legalise Rape  
-**First created:** 2026-02-01 | **Last updated:** 2026-02-01  
+**First created:** 2026-02-01 | **Last updated:** 2026-02-20  
 *How “pro-marriage” governance frameworks collapse consent by restricting exit, enforcing dependency, and normalising impunity*
 <!--Can someone DDoS Posh 4chan, please? They will give me a stroke at this rate.-->
 ---
@@ -182,6 +182,16 @@ marriage enforcement, covenant marriage, no-fault divorce rollback, consent coll
 ## 🏮 Footer
 
 *🧨 Marriage Camps Legalise Rape* is a living node of the **Polaris Protocol**.  
-It documents how patriarchal policy stacks collapse consent through exit restriction, impunity, and institutional discipline—while laundering coercion as “family values” and “protection.”
+It documents how patriarchal policy stacks collapse consent through exit restriction, impunity, and institutional discipline—while laundering coercion as “family values” and “protection.”  
 
-_Last updated: 2026-02-01_
+> 📡 Cross-references:
+> 
+> - [🩸 Structural Suppression of Rape Prosecutions](../🗝️_Politics_Memory_Work/🩸_structural_suppression_of_rape_prosecutions.md)  
+> - [🧪 Breeding Trope as Eugenics](../🗝️_Politics_Memory_Work/🧪_breeding_trope_as_eugenics.md)  
+> - [🫀 Holding a Weapon You Don’t Understand](../🗝️_Politics_Memory_Work/🫀_holding_a_weapon_you_do_not_understand.md)
+> - [✈️ They Always Think They Are Geniuses](../../🦕_Elder_Influencers/🕸️_World_Webs/✈️_they_always_think_they_are_geniuses.md)
+> - [✈️ The “Baby Ranch” Is Boring](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/✈️_the_baby_ranch_is_boring.md)
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-02-20_
