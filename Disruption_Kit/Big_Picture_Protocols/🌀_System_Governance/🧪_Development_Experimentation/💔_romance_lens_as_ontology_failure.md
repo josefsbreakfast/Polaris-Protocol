@@ -1,5 +1,5 @@
 # 💔 Romance Lens as Ontology Failure  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-18  
+**First created:** 2025-12-14 | **Last updated:** 2026-02-20  
 *When systems default to relational or romantic frames because they lack adequate categories for human behaviour*
 
 ---
@@ -208,4 +208,4 @@ This node frames romance not as a harmless metaphor, but as a **loaded interpret
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-18_
+_Last updated: 2026-02-20_
