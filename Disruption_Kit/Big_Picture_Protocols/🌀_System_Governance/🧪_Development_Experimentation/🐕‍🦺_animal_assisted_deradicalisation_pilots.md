@@ -140,13 +140,14 @@ deradicalisation, trauma interventions, operant conditioning, therapy dogs, anim
 
 ## 🏮 Footer  
 
-*Animal-Assisted Deradicalisation Pilots* is a living node of the Polaris Protocol.  
+*🐕‍🦺 Animal-Assisted Deradicalisation Pilots* is a living node of the Polaris Protocol.  
 It maps how trauma-responsive animal-assisted methods intersect with deradicalisation and VE-risk intervention — exposing the limits of cognitive-only or security-first models.
 
 > 📡 Cross-references:  
-> - Systems & Governance  
-> - Governance & Prevent  
-> - Narrative & Psych-Ops  
+> 
+> - [🦔 Hedgehog on Fire](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🦔_hedgehog_on_fire.md)  
+> - [⚡ PTSD Is Not a Jump Scare — The Time Physics of the Body](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/⚡_ptsd_is_not_a_jump_scare.md)  
+> - [🦔 Orbicularis Panniculi Logic](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🦔_orbicularis_panniculi_logic.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
