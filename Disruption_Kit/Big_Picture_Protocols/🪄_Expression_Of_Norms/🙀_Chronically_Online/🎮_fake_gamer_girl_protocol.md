@@ -1,5 +1,5 @@
 # 🎮 Fake Gamer Girl Protocol  
-**First created:** 2025-11-01 | **Last updated:** 2025-12-08  
+**First created:** 2025-11-01 | **Last updated:** 2026-02-20  
 *Every time a woman logs on, someone tries to make her prove she exists.*  
 
 ---
@@ -115,9 +115,9 @@ It documents how online gatekeeping recycles old containment myths under the gui
 
 > 📡 Cross-references:
 > 
-> - [💇‍♀️ The Dumb Blonde Protocol] — *historical precursor of digital disbelief*  
-> - [🪄 Expression of Norms] — *identity scripts and their inversion*  
+> - [💄 The Dumb Blonde Protocol](../../🌀_System_Governance/📚_Narrative_Management/💄_the_dumb_blonde_protocol.md) — *historical precursor of digital disbelief*  
+> - [🧙‍♀️ Witch Logic Diagnostic](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md) — *identity scripts and their inversion*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-02-20_
