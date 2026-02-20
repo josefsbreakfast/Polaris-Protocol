@@ -98,11 +98,14 @@ Eventually, you will see the next lighthouse.
 
 ## 🏮 Footer  
 
-*The Dev* is a living node of the Polaris Protocol.  
+*🧠 The Dev* is a living node of the Polaris Protocol.  
 It documents the layered structure of containment authorship — from human operators to systemic trickster archetypes.  
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+> 📡 Cross-references:
+> 
+> - [🌱 Love Is Antifascist](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌱_love_is_antifascist.md)
+> - [🥀 Bella Ciao](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🥀_bella_ciao.md)  
 
-🏮 [Return to 🌀 Systems & Governance Guide](../README.md)  
+*Survivor authorship is sovereign. Containment is never neutral.*
 
 _Last updated: 2026-02-20_
