@@ -105,7 +105,8 @@ It personifies information-security principles to remind readers that in the end
 > - [🌂 Leak Archive Protocol — Secure Collection and Annotation Method](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🌂_leak_archive_protocol.md)  
 > - [🧬 The Invisible Audit Gap](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_the_invisible_audit_gap.md)  
 > - [✈️ Reindexing the Files](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/✈️_reindexing_the_files.md)  
-> - [📚 Libraries, Metrics, and the One-Book Civic Hack](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/📚_libraries_metrics_and_the_one_book_civic_hack.md)  
+> - [📚 Libraries, Metrics, and the One-Book Civic Hack](../../../../🦆_Digital_Disruption/🪖_Home_Front_2.0/📚_libraries_metrics_and_the_one_book_civic_hack.md)
+> - [🐍 PREVENT as a Self-Eating Snake (Early Detection Drift)](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🐍_prevent_as_a_self_eating_snake.md)  
  
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
