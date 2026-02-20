@@ -70,14 +70,24 @@ Small R&D groups often conflate “anonymised” with “safely reusable.” The
 ---
 
 ## 🌌 Constellations
-🎭 🧬 🔒 — identity, style, governance.
+🎭 🧬 🔒 — identity, style, governance.  
+
+---
 
 ## ✨ Stardust
-stylometric risk, voice fingerprinting, naive anonymisation, re-identification, governance, consent, synthetic surrogate, transparency log
+stylometric risk, voice fingerprinting, naive anonymisation, re-identification, governance, consent, synthetic surrogate, transparency log  
 
 ---
 
 ## 🏮 Footer
-*🎭 The Recognisable Researcher* is a short governance note for Polaris. It states the obvious bluntly: in small communities and with weak anonymisation, anonymity is a fiction. Policy and practice must be designed on that basis.
+*🎭 The Recognisable Researcher* is a short governance note for Polaris. It states the obvious bluntly: in small communities and with weak anonymisation, anonymity is a fiction. Policy and practice must be designed on that basis.  
+
+> 📡 Cross-references:
+> 
+> - [🏛️ OSA Misclassification, UK–Israel MoUs, and Survivor Records](../../🦕_Elder_Influencers/🕸️_World_Webs/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)  
+> - [🧿 Raycat Bait](Polaris_Nest/SCP-VoiceX_Casefiles/🧿_raycat_bait.md)  
+> - [🥸 Paid Male Gossipers](../📚_Narrative_Management/🥸_paid_male_gossipers.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-02-20_
