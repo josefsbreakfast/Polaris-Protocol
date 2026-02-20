@@ -200,16 +200,16 @@ governance gap, explainability limits, accountability failure, institutional res
 
 ## 🏮 Footer  
 
-*Governance Gap: Explanation vs Acceptability* is a living node of the **Polaris Protocol**, documenting the institutional failure that occurs when technical explanations are mistaken for ethical or legal justification.
+*🧯 Governance Gap: Explanation vs Acceptability* is a living node of the **Polaris Protocol**, documenting the institutional failure that occurs when technical explanations are mistaken for ethical or legal justification.
 
 This node establishes the boundary where explanation must give way to **accountability, restraint, and redress**.
 
 > 📡 Cross-references:
 > 
-> - **⚖️ Consent and Purpose Limitation Failure in ML R&D** — where explanation does not cure breach  
-> - **🚨 Proxy-Based Special Category Inference** — where technical inference violates rights  
-> - **💔 Romance Lens as Ontology Failure** — where semantic explanation obscures harm  
-> - **🪆 Behavioural Modelling Failure Index** — synthesis of these failures  
+> - [⚖️ Consent and Purpose Limitation Failure in ML R&D](./⚖️_consent_and_purpose_limitation_failure_in_ml_rnd.md) — *where explanation does not cure breach*  
+> - [🚨 Proxy-Based Special Category Inference](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🚨_proxy_based_special_category_inference.md) — *where technical inference violates rights*  
+> - [💔 Romance Lens as Ontology Failure](./💔_romance_lens_as_ontology_failure.md) — *where semantic explanation obscures harm*  
+> - [🪆 Behavioural Modelling Failure Index](./🪆_behavioural_modelling_failure_index.md) — *synthesis of these failures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
