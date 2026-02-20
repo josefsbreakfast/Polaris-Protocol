@@ -1,5 +1,5 @@
 # 🦠 Plague Scapegoat Scripts Reused Across Targets  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-22 | **Last updated:** 2026-02-20  
 *How societies repeatedly recycle the same blame narratives under stress — and why these scripts reliably degrade security analysis.*  
 
 ---
@@ -163,14 +163,12 @@ Identifying script reuse is therefore a **defensive skill**.
 
 ---
 
-## 📡 Cross-References
+## 🌌 Constellations  
+🌀  
 
-- 🐉 It’s Not Always Daddy Dragon — familiar villain reflex  
-- 🪞 Russia–China Narrative Substitution Matrix — interchangeable targets  
-- 🧿 Attribution as Narrative Attack Surface — premature closure  
-- 🧨 Certainty Merchants and Security-Adjacent Amplifiers — narrative acceleration  
-- 🦴 Tolerance Thresholds as Load Management — absorbed harm  
-- 🦑 CRAKEN System — reflexive ecological mapping  
+---
+
+## ✨ Stardust  
 
 ---
 
@@ -179,9 +177,16 @@ Identifying script reuse is therefore a **defensive skill**.
 *🦠 Plague Scapegoat Scripts Reused Across Targets* is a living node of the **Polaris Protocol**.  
 It exists to prevent recycled fear narratives from masquerading as analysis during moments of crisis.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
+> - [🐉 It’s Not Always Daddy Dragon](./🐉_its_not_always_daddy_dragon.md) — *familiar villain reflex*  
+> - [🪞 Russia–China Narrative Substitution Matrix](./🪞_russia_china_narrative_substitution_matrix.md) — *interchangeable targets*  
+> - [🧿 Attribution as Narrative Attack Surface](./🧿_attribution_as_narrative_attack_surface.md) — *premature closure*  
+> - [🧨 Certainty Merchants and Security-Adjacent Amplifiers](./🧨_certainty_merchants_and_security_adjacent_amplifiers.md) — *narrative acceleration*  
+> - [🦴 Tolerance Thresholds as Load Management](../../Governance_And_Containment/🉑_System_Thresholds/🦴_tolerance_thresholds_as_load_management.md) — *absorbed harm*  
+> - [🦑 CRAKEN System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-02-20_
