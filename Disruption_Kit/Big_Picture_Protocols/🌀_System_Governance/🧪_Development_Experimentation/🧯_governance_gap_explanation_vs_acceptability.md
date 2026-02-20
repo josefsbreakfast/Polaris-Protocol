@@ -1,5 +1,5 @@
 # 🧯 Governance Gap: Explanation vs Acceptability  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-02-20  
 *Why being able to explain a system’s behaviour does not make that behaviour acceptable*
 
 ---
@@ -213,4 +213,4 @@ This node establishes the boundary where explanation must give way to **accounta
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-02-20_
