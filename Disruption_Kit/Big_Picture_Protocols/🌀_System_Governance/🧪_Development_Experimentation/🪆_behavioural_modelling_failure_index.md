@@ -180,14 +180,15 @@ behavioural modelling, system failure patterns, ML governance, proxy inference, 
 
 ## 🏮 Footer  
 
-*Behavioural Modelling Failure Index* is a navigational node of the **Polaris Protocol**, synthesising recurring failure modes in behavioural modelling systems and situating them within a coherent structural framework.
+*🪆 Behavioural Modelling Failure Index* is a navigational node of the **Polaris Protocol**, synthesising recurring failure modes in behavioural modelling systems and situating them within a coherent structural framework.
 
 This index exists to prevent explanation from standing in for accountability, and to support meaningful governance intervention.
 
 > 📡 Cross-references:
 > 
-> - All nodes in this sequence  
-> - Adjacent Polaris governance and survivor-protection frameworks  
+> - [⚖️ Consent and Purpose Limitation Failure in ML R&D](./⚖️_consent_and_purpose_limitation_failure_in_ml_rnd.md) — *where explanation does not cure breach*  
+> - [🚨 Proxy-Based Special Category Inference](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🚨_proxy_based_special_category_inference.md) — *where technical inference violates rights*  
+> - [💔 Romance Lens as Ontology Failure](./💔_romance_lens_as_ontology_failure.md) — *where semantic explanation obscures harm*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
