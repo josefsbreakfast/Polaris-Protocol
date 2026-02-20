@@ -1,5 +1,5 @@
 # 🤖 AI, Big Tech, And Israeli Apartheid As A Deregulated Security Lab  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-20 | **Last updated:** 2026-02-20  
 *How conflict, deregulation, and exceptionality make certain jurisdictions attractive testing grounds for AI-enabled power.*  
 
 ---
@@ -149,4 +149,4 @@ It exists to explain why conflict environments become attractive sites for AI-en
 >
 > *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-02-20_
