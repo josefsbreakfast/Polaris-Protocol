@@ -96,6 +96,15 @@ Eventually, you will see the next lighthouse.
 
 ---
 
+## 🌌 Constellations  
+🌀  
+
+---
+
+## ✨ Stardust  
+
+---
+
 ## 🏮 Footer  
 
 *🧠 The Dev* is a living node of the Polaris Protocol.  
