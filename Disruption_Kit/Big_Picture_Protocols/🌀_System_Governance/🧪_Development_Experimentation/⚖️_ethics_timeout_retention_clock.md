@@ -1,5 +1,5 @@
 # ⚖️ Ethics Timeout — When Research Datasets Expire and Disappear  
-**First created:** 2025-10-30  |  **Last updated:** 2025-10-30  
+**First created:** 2025-10-30 | **Last updated:** 2026-02-20  
 *The clock is an ethics committee with no sense of humour.*
 
 ---
@@ -85,4 +85,4 @@ It documents how temporal rules replace ethical judgment and how deletion by sch
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-30_
+_Last updated: 2026-02-20_
