@@ -1,5 +1,5 @@
 # ⚖️ Non‑Consent Psychological Experimentation Gap  
-**First created:** 2025-12-12 | **Last updated:** 2026-01-04  
+**First created:** 2025-12-12 | **Last updated:** 2026-02-20  
 *The legal vacuum where psychological influence escapes the definitions of “human experimentation,” allowing state programmes to operate without ethics oversight or rights protections.*  
 
 ---
@@ -125,4 +125,4 @@ It identifies a structural failure in legal and ethical governance where behavio
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-02-20_
