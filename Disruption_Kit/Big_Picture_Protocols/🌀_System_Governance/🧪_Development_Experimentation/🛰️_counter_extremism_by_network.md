@@ -114,7 +114,8 @@ It documents open-source knowledge on how behavioural and counter-extremism syst
 > 
 > - [🎓 Safeguarding as Surveillance](../../🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🎓_safeguarding_as_surveillance.md) — *institutional pattern*  
 > - [💔 Personhood Denial via Naming Control](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/💔_personhood_denial_via_naming_control.md) — *failure of remediation*  
-> - [🕸️ Digitally Networked Sexual Violence](../../🐍_Ouroborotic_Violence/💔_Violence_IRL/🕸️_digitally_networked_sexual_violence.md)  
+> - [🕸️ Digitally Networked Sexual Violence](../../🐍_Ouroborotic_Violence/💔_Violence_IRL/🕸️_digitally_networked_sexual_violence.md)
+> - [🐍 PREVENT as a Self-Eating Snake (Early Detection Drift)](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🐍_prevent_as_a_self_eating_snake.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
