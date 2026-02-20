@@ -143,10 +143,10 @@ It exists to explain why conflict environments become attractive sites for AI-en
 
 > 📡 Cross-references:
 >
-> - [🔄 MOD–arms industry revolving door] — *capital and continuity incentives*
-> - [🚁 Arms exports, dual-use technology, and UAV drift] — *technical enablement*
-> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)] — *where risk tolerance manifested*
->
-> *Survivor authorship is sovereign. Containment is never neutral.*
+> - [🔄 MOD–Arms Industry Revolving Door](../../🦕_Elder_Influencers/💸_Money_Listens/🔄_mod_arms_industry_revolving_door.md) — *capital and continuity incentives*  
+> - [🚁 Arms Exports, Dual-Use Technology, & UAV Drift](../../🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🚁_arms_exports_dual_use_technology_and_uav_drift.md) — *technical enablement*  
+> - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)](../⚖️_Legal_State_Governance/🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *where risk tolerance manifested*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-02-20_
