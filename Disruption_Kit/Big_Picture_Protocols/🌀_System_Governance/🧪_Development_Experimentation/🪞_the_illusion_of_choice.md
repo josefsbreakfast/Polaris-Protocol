@@ -111,14 +111,26 @@ We rupture it.
 
 ---
 
+## 🌌 Constellations  
+🌀  
+
+---
+
+## ✨ Stardust  
+
+---
+
 ## 🏮 Footer  
 
-*The Illusion of Choice* is a living node of the Polaris Protocol.  
-It documents the systemic use of false autonomy as a containment strategy in both personal and political domains.
+*🪞 The Illusion of Choice* is a living node of the Polaris Protocol.  
+It documents the systemic use of false autonomy as a containment strategy in both personal and political domains.  
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+> 📡 Cross-references:
+> 
+> - [☢️ The Empathy Project](../☢️_the_empathy_project.md)
+> - [🌀 Parallel Channels](../🌀_parallel_channels.md)
 
-🏮 [Return to 🌀 Systems & Governance Guide](./README.md)  
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-02-20_
 
