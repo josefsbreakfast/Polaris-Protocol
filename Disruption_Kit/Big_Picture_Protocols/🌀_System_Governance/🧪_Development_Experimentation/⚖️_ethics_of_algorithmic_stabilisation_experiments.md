@@ -1,5 +1,5 @@
 # ⚖️ Ethics of Algorithmic Stabilisation Experiments  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-01 | **Last updated:** 2026-02-20  
 *Why “safety engineering” becomes human-subjects research the moment real people are exposed to it.*
 
 ---
@@ -110,12 +110,12 @@ It formalises why algorithmic counter-extremism and moderation pilots must be tr
 
 > 📡 Cross-references:
 > 
-> - 🪞 Algorithmic Projection and False Personalisation — *misattribution and paranoia loops*  
-> - 🕸️ Gendered Harms from Counter-Extremism Algorithms — *gendered clustering and risk*  
-> - 🐍 How a CVE Tool Becomes a Vector for Extremism — *recursion of counter-extremism systems*  
-> - 📊 Risk Scaling of Algorithmic Misidentification — *measurement vacuum and scaling logic*  
-> - 🐍 Algorithmic Hostage Logic — *stabilisers trapped inside hostility loops*  
+> - [👾 Algorithmic Projection and False Personalisation](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/👾_algorithmic_projection_and_false_personalisation.md) — *misattribution and paranoia loops*  
+> - [🕸️ Gendered Harms from Counter-Extremism Algorithms](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕸️_gendered_harms_from_counter_extremism_algorithms.md) — *gendered clustering and risk*  
+> - [🐍 How a CVE Tool Becomes a Vector for Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md) — *recursion of counter-extremism systems*  
+> - [📊 Risk Scaling of Algorithmic Misidentification](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📊_risk_scaling_algorithmic_misidentification.md) — *measurement vacuum and scaling logic*  
+> - [🐍 Algorithmic Hostage Logic](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🐍_algorithmic_hostage_logic.md) — *stabilisers trapped inside hostility loops*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-02-20_
