@@ -1,5 +1,5 @@
 # ⚖️ The Teaching Hospital Loophole  
-**First created:** 2025-11-10 | **Last updated:** 2026-01-04  
+**First created:** 2025-11-10 | **Last updated:** 2026-02-20  
 *How innovation pipelines slip past the Nuremberg and Helsinki guard-rails.*  
 
 ---
@@ -114,4 +114,4 @@ It documents how innovation frameworks reclassify human experimentation as pedag
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-02-20_
