@@ -1,5 +1,5 @@
 # 💄 The Dumb Blonde Protocol  
-**First created:** 2025-11-01 | **Last updated:** 2025-12-21  
+**First created:** 2025-11-01 | **Last updated:** 2026-02-20  
 *How the “dumb blonde” became patriarchy’s favourite containment spell — and how women learned to weaponise it.*  
  
 ---
@@ -164,8 +164,10 @@ It traces the evolution of a containment myth into a strategic tool — from sat
 
 > 📡 Cross-references:
 > 
-> - [🪄 Expression of Norms] — *how identity scripts are written and inverted*  
+> - [🦆 She Weighs the Same as a Duck](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦆_she_weighs_the_same_as_a_duck.md)  
+> - [🧙‍♀️ Witch Logic Diagnostic](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md)  
+> - [🔥 Femme Firewall Fatale — The Panic at Female Intelligence](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🔥_femme_firewall_fatale.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-02-20_
