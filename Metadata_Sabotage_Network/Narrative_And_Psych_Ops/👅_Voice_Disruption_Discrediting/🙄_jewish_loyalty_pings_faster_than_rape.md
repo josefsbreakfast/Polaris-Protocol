@@ -1,6 +1,6 @@
 # 🙄 Forensic Schema — Why the Dual Loyalty Accusation ‘Pings’ Harder than Rape Disclosure  
-**First created:** 2025-08-04 | **Last updated:** 2025-11-18  
-*Mapping metadata bias and reputational shielding in survivor-related institutional handling.*
+**First created:** 2025-08-04 | **Last updated:** 2026-02-20  
+*Mapping metadata bias and reputational shielding in survivor-related institutional handling.*  
 
 ---
 
@@ -105,6 +105,4 @@ It documents the bias hierarchies that determine which harms are heard and which
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-18_
-
-_Last updated: 2025-11-09_
+_Last updated: 2026-02-20_
