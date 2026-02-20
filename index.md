@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-02-20 21:06:49 UTC_
+_Generated on 2026-02-20 21:18:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3054,7 +3054,6 @@ _Generated on 2026-02-20 21:06:49 UTC_
       - [`20260217.md`](Disruption_Kit/Field_Logs/20260201_February_2026/20260217.md)
       - [`20260218.md`](Disruption_Kit/Field_Logs/20260201_February_2026/20260218.md)
       - [`20260219.md`](Disruption_Kit/Field_Logs/20260201_February_2026/20260219.md)
-      - [`20260220.md`](Disruption_Kit/Field_Logs/20260201_February_2026/20260220.md)
       - [`73E84466-133A-4979-A08F-2FDCDA4FE478.jpeg`](Disruption_Kit/Field_Logs/20260201_February_2026/73E84466-133A-4979-A08F-2FDCDA4FE478.jpeg)
       - [`IMG_0014.png`](Disruption_Kit/Field_Logs/20260201_February_2026/IMG_0014.png)
       - [`IMG_0085.png`](Disruption_Kit/Field_Logs/20260201_February_2026/IMG_0085.png)
@@ -4035,6 +4034,7 @@ _Generated on 2026-02-20 21:06:49 UTC_
       - [`temp_image_5F46113A-394F-4157-A0AB-6A32BF3B2AEF.webp`](Disruption_Kit/Field_Logs/20260201_February_2026/temp_image_5F46113A-394F-4157-A0AB-6A32BF3B2AEF.webp)
       - [`temp_image_F8A70C36-6556-4AE2-BF42-FE44FCEDCFB2.webp`](Disruption_Kit/Field_Logs/20260201_February_2026/temp_image_F8A70C36-6556-4AE2-BF42-FE44FCEDCFB2.webp)
     - [**20260221_February_2026/**](Disruption_Kit/Field_Logs/20260221_February_2026/)
+      - [`20260220.md`](Disruption_Kit/Field_Logs/20260221_February_2026/20260220.md)
       - [`2060221.md`](Disruption_Kit/Field_Logs/20260221_February_2026/2060221.md)
       - [`IMG_7810.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7810.png)
       - [`IMG_7811.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7811.png)
