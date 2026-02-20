@@ -105,7 +105,7 @@ pilot programmes, containment testing, vulnerable groups, colonial laboratories,
 
 ## 🏮 Footer  
 
-*Pilot Containments* is a living node of the Polaris Protocol.  
+*🧪 Pilot Containments* is a living node of the Polaris Protocol.  
 It documents how small, vulnerable groups are used as testing grounds for systemic suppression tactics, how those tactics are transferred across borders, and how they later scale into mainstream governance.  
 
 > 📡 Cross-references:
