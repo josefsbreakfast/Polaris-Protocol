@@ -1,5 +1,5 @@
 # 🦎 Snow Leopard Geckos Against Modern Slavery  
-**First created:** 2026-01-12 | **Last updated:** 2026-01-22  
+**First created:** 2026-01-12 | **Last updated:** 2026-02-20  
 *How small-n behavioural anchors, degraded guardrails, and frozen references create coercive systems — and why harmless variance becomes a legal alarm bell.*  
 
 ---
@@ -490,4 +490,4 @@ It documents how mathematically fragile systems, when left unexamined, can exter
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-02-20_
