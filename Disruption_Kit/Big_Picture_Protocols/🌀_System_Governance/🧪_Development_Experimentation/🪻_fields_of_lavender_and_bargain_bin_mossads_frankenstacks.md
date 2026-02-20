@@ -1,9 +1,10 @@
-# 🛰️ AI Targeting & “Risk Management” — Unit 8200 Stack (LLM + Lavender/Gospel)  
+# 🪻 Fields of Lavender, & Bargain Bin Mossad's Most Beloved Frankenstacks  
 **First created:** 2025-10-17 | **Last updated:** 2026-02-20  
 *Open-source picture of how Israel’s Unit 8200–linked systems are reported to work: an LLM for intel triage plus ML targeters (Lavender / Gospel / “Where’s Daddy?”), and the policy “risk knobs” that shape harm.*
 <!--Firstly:  
 It's Day 2 of my period and even I can look at grown men naming a new toy, "Where's Daddy?" and think, "awww... they miss their dads, how sweet".  
 How old are we?! 🤣🤣🤣  -->
+<!--Different menstrual period. Can confirm Daddy issues still very obvious and still very funny. What losers.-->
 ---
 
 ## 🧭 Orientation  
@@ -75,11 +76,23 @@ lavender, habsora / gospel, “where’s daddy?”, intercept corpora, decision-
 ---
 
 ## 🏮 Footer  
-*🪻 AI Targeting & “Risk Management” — Unit 8200 Stack* is a living node of the Polaris Protocol.  
-It collates reputable open sources on reported systems and highlights where policy choices (“risk knobs”) drive outcomes as much as code.
+*🪻 Fields of Lavender, & Bargain Bin Mossad's Most Beloved Frankenstacks* is a living node of the Polaris Protocol.  
+It collates reputable open sources on reported systems and highlights where policy choices (“risk knobs”) drive outcomes as much as code.  
+The length of the menu below reflects the interconnectedness of the oppression facilitated by these tools of the self-appointed "masters".  
 
-> 📡 Cross-references: consider linking to **Genocide Denialism**, **Narrative Management**, and **Metadata Sabotage Network** clusters.
+> 📡 Cross-references:  
 >
+> - [🍉 Palestine](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/README.md)  
+> - [🪞 The Illusion of Choice](./🪞_the_illusion_of_choice.md)  
+> - [⚡️ Public Legitimacy Crisis in Behavioural Governance](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/⚡️_public_legitimacy_crisis_in_behavioural_governance.md)  
+> - [✏️ How Prevent Flags Quietly Shape Someone’s Life for Years](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/✏️_how_prevent_flags_quietly_shape_someones_life_for_years.md)  
+> - [💞 Ethics of Nudging vs Desire](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/💞_ethics_of_nudging_vs_desire.md)  
+> - [🧠 State Behavioural Arms — UK (Quick Reference)](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🧠_state_behavioural_arms_uk_quick_reference.md)  
+> - [🇬🇧🧪 How Not To Do MKUltra: Grimley Edition](./🇬🇧🧪_how_not_to_do_mk_ultra_grimley_edition.md)  
+> - [🧿 UK Persuasion Engine on Palestine](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧿_uk_persuasion_engine_on_palestine.md)  
+> - [🧠 Bargain Bin Mossad](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_bargain_bin_mossad.md)  
+> - [🍉 British Democracy Needs You](../👑_Ownership_Control/🍉_british_democracy_needs_you.md)  
+> - [🍉 Why Do We Care About Palestine](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
