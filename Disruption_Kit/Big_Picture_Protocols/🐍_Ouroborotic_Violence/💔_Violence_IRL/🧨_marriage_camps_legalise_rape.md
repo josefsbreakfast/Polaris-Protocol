@@ -188,9 +188,13 @@ It documents how patriarchal policy stacks collapse consent through exit restric
 > 
 > - [🩸 Structural Suppression of Rape Prosecutions](../🗝️_Politics_Memory_Work/🩸_structural_suppression_of_rape_prosecutions.md)  
 > - [🧪 Breeding Trope as Eugenics](../🗝️_Politics_Memory_Work/🧪_breeding_trope_as_eugenics.md)  
-> - [🫀 Holding a Weapon You Don’t Understand](../🗝️_Politics_Memory_Work/🫀_holding_a_weapon_you_do_not_understand.md)
-> - [✈️ They Always Think They Are Geniuses](../../🦕_Elder_Influencers/🕸️_World_Webs/✈️_they_always_think_they_are_geniuses.md)
-> - [✈️ The “Baby Ranch” Is Boring](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/✈️_the_baby_ranch_is_boring.md)
+> - [🫀 Holding a Weapon You Don’t Understand](../🗝️_Politics_Memory_Work/🫀_holding_a_weapon_you_do_not_understand.md)  
+> - [✈️ They Always Think They Are Geniuses](../../🦕_Elder_Influencers/🕸️_World_Webs/✈️_they_always_think_they_are_geniuses.md)  
+> - [✈️ The “Baby Ranch” Is Boring](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/✈️_the_baby_ranch_is_boring.md)  
+> - [👑 Projection Esther](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/👑_projection_esther.md)  
+> - [🇺🇸 Project Esther — National Strategy to Combat Antisemitism (Summary Overview) YAML](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇺🇸_project_esther_summary.yaml)  
+> - [🕎 The Esther Protocol](../../🌀_System_Governance/⚖️_Legal_State_Governance/🕎_the_esther_protocol.md)  
+> - [📿 Women, Whistleblowers, & Prevent Drag](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/📿_women_whistleblowers_prevent_drag.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
