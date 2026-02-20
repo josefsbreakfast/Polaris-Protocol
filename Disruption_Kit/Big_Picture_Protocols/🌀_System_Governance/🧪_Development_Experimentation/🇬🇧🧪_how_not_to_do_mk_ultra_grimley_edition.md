@@ -394,12 +394,10 @@ If it cannot be explained in principle, it should not be running.
 *Further arts / reading:*  
 
 - *The Pitman Painters*
-- *Street-Fighting Years:
-An Autobiography of the Sixties*, Tariq Ali.
+- *Street-Fighting Years: An Autobiography of the Sixties*, Tariq Ali.
 - *The Story of Work: A New History of Humankind*, Jan Lucassen.
 - *The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World*, Antony Loewenstein.
-- *Who Do We Trust?
-Power, Solidarity, and Anti-Authoritarianism*, Dana Williams.
+- *Who Do We Trust? Power, Solidarity, and Anti-Authoritarianism*, Dana Williams.
 
 ---
 
@@ -410,13 +408,14 @@ counter-terror ethics, behavioural proxies, human experimentation, uk governance
 
 ## 🏮 Footer  
 
-*How Not To Do MKUltra: Grimley Edition* is a preventative governance node of the **Polaris Protocol**.  
+*🇬🇧🧪 How Not To Do MKUltra: Grimley Edition* is a preventative governance node of the **Polaris Protocol**.  
 It exists to help institutions recognise when respectable research drifts into ethically live territory — and stop before harm occurs.
 
 > 📡 Cross-references:
-> - **🧠 Big Picture Protocols** — systemic risk patterns  
-> - **🎭 Narrative & Psych Ops** — behavioural framing  
-> - **🫀 Our Hearts, Our Minds** — trauma-aware governance  
+>
+> - [🧪 Shadow Sandboxes](./🧪_shadow_sandboxes.md)  
+> - [🧬 Behavioural Signature Library](../../../../🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧬_behavioural_signature_library.md)  
+> - [🎶 Prevent Eats Teenagers' Music](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_prevent_eats_teenagers_music.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
