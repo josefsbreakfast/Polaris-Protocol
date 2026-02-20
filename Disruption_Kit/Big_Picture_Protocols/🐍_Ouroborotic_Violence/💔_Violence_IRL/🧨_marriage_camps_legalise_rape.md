@@ -32,16 +32,16 @@ This is the same logic as “rights on paper but not enforced” = no rights in 
 ### A) Heritage’s 2026 Special Report: privileging marriage + institutional enforcement
 Heritage’s *Saving America by Saving the Family* (Special Report No. 323, Jan 8 2026) frames “casual sex, abortion, childlessness by choice, and no-fault divorce” as a 60-year moral and policy error, and argues for re-centering marriage as “the lifelong union of one man and one woman.” It then sets policy criteria that explicitly instruct government to **“affirmatively support and privilege marriage as directly and explicitly as possible.”**  
 It also describes “whole-of-government” alignment—e.g., conditioning grants and contracts and making “family policy goals” enforceable through government power (including Justice Department enforcement actions and debarment mechanisms).  
-**Refs:** Heritage SR323 (Jan 8 2026), lines on “no-fault divorce became normalized” + “privilege marriage” + enforceable grant conditions. (SR323.pdf) [oai_citation:0‡The Heritage Foundation](https://www.heritage.org/sites/default/files/2026-01/SR323.pdf)
+**Refs:** Heritage SR323 (Jan 8 2026), lines on “no-fault divorce became normalized” + “privilege marriage” + enforceable grant conditions. (SR323.pdf) [Source: The Heritage Foundation](https://www.heritage.org/sites/default/files/2026-01/SR323.pdf)
 
 ### B) Heritage promotes “covenant marriage” and harder-to-exit divorce regimes
 Heritage’s own marriage policy work has explicitly endorsed “covenant marriage” frameworks where couples renounce no-fault divorce and accept much more difficult exit pathways.  
-**Refs:** *Encouraging Marriage and Discouraging Divorce* (Heritage); covenant marriage description. [oai_citation:1‡The Heritage Foundation](https://www.heritage.org/marriage-and-family/report/encouraging-marriage-and-discouraging-divorce?utm_source=chatgpt.com)
+**Refs:** *Encouraging Marriage and Discouraging Divorce* (Heritage); covenant marriage description. [Source: The Heritage Foundation](https://www.heritage.org/marriage-and-family/report/encouraging-marriage-and-discouraging-divorce?utm_source=chatgpt.com)
 
 ### C) “Project 2025” adjacency and uptake
 Heritage is widely reported as the primary institutional architect behind Project 2025, and its policy blueprint model is discussed as a mechanism for rapid adoption by office-holders.  
-**Refs:** Washington Post reporting on Heritage’s Project 2025 role and agenda diffusion. [oai_citation:2‡The Washington Post](https://www.washingtonpost.com/business/2025/09/03/heritage-foundation-parents-children-birth/?utm_source=chatgpt.com)  
-**Note:** Some claims about no-fault divorce being directly inside the Project 2025 policy book have been contested in coverage; treat “Project 2025 as an enabling ecosystem + advisor network” as the accurate framing unless quoting specific chapter text. [oai_citation:3‡TIME](https://time.com/7000900/project-2025-divorce-law/?utm_source=chatgpt.com)
+**Refs:** Washington Post reporting on Heritage’s Project 2025 role and agenda diffusion. [Source: The Washington Post](https://www.washingtonpost.com/business/2025/09/03/heritage-foundation-parents-children-birth/?utm_source=chatgpt.com)  
+**Note:** Some claims about no-fault divorce being directly inside the Project 2025 policy book have been contested in coverage; treat “Project 2025 as an enabling ecosystem + advisor network” as the accurate framing unless quoting specific chapter text. [Source: TIME](https://time.com/7000900/project-2025-divorce-law/?utm_source=chatgpt.com)
 
 ---
 
@@ -87,7 +87,7 @@ Even without a literal camp, the administrative shape is the same: **a state pip
 ## 🧱 Project Esther: securitising dissent under the guise of “protecting Jews”
 
 Heritage’s *Project Esther* explicitly frames the US pro-Palestinian movement as a “Hamas Support Network,” describes it as “effectively a terrorist support network,” and calls for a coordinated coalition strategy using public–private mechanisms to disrupt, degrade, and deny resources to targets.  
-**Ref:** Heritage Project Esther text: “Hamas Support Network,” “effectively a terrorist support network,” coalition coordination, and “public–private partnership when a willing Administration occupies the White House.” [oai_citation:4‡The Heritage Foundation](https://www.heritage.org/progressivism/report/project-esther-national-strategy-combat-antisemitism)
+**Ref:** Heritage Project Esther text: “Hamas Support Network,” “effectively a terrorist support network,” coalition coordination, and “public–private partnership when a willing Administration occupies the White House.” [Source: The Heritage Foundation](https://www.heritage.org/progressivism/report/project-esther-national-strategy-combat-antisemitism)
 
 ### Why this is relevant to marriage enforcement
 This is the same governance move:
@@ -101,7 +101,7 @@ Multiple critics argue Project Esther:
 - is developed with minimal Jewish input,
 - advances a far-right agenda more than Jewish safety,
 - incorporates or risks reinforcing antisemitic tropes and backlash dynamics (“blood libel” risk is even acknowledged in the document itself).  
-**Refs:** Nexus Project briefing; academic critique of Project Esther as Christian/white nationalist alignment. [oai_citation:5‡Nexus Project](https://nexusproject.us/nexus-resources/project-esther-a-nexus-project-briefing/?utm_source=chatgpt.com)
+**Refs:** Nexus Project briefing; academic critique of Project Esther as Christian/white nationalist alignment. [Source: Nexus Project](https://nexusproject.us/nexus-resources/project-esther-a-nexus-project-briefing/?utm_source=chatgpt.com)
 
 ### The Esther inversion (your point)
 Project Esther uses Esther as branding for a strategy that—functionally—turns Jewish identity (and especially Jewish femininity) into:
@@ -124,8 +124,8 @@ The “ICE-facilitation” claim is best stated structurally:
   - “national security” dossiers built from private lists and surveillance ecosystems.
 
 Recent reporting shows US deportation targeting of pro-Palestinian academics using dossiers sourced in part from a private pro-Israel website, with DHS involvement.  
-**Ref:** Politico reporting on dossiers, DHS “tiger team,” deportation targeting, and the First Amendment challenge. [oai_citation:6‡Politico](https://www.politico.com/news/2025/07/09/pro-palestinian-deportation-documents-trial-00445238?utm_source=chatgpt.com)  
-Additional coverage describes Project Esther as a playbook for crackdown on activism. [oai_citation:7‡Al Jazeera](https://www.aljazeera.com/news/2025/5/31/what-is-project-esther-the-playbook-against-pro-palestine-movement-in-us?utm_source=chatgpt.com)
+**Ref:** Politico reporting on dossiers, DHS “tiger team,” deportation targeting, and the First Amendment challenge. [Source: Politico](https://www.politico.com/news/2025/07/09/pro-palestinian-deportation-documents-trial-00445238?utm_source=chatgpt.com)  
+Additional coverage describes Project Esther as a playbook for crackdown on activism. [Source: Al Jazeera](https://www.aljazeera.com/news/2025/5/31/what-is-project-esther-the-playbook-against-pro-palestine-movement-in-us?utm_source=chatgpt.com)
 
 ---
 
@@ -133,7 +133,7 @@ Additional coverage describes Project Esther as a playbook for crackdown on acti
 
 ### 1) Palestine as a testing ground for repression tech
 A well-documented pattern: surveillance and control technologies are tested under occupation and then sold internationally as “battle-tested.”  
-**Refs:** Scholarly/academic review of *The Palestine Laboratory*; DAWN analysis; Cairo Review on Gaza as “AI human laboratory.” [oai_citation:8‡Universiteit Leiden](https://www.universiteitleiden.nl/project0100/news/book-review-the-palestine-laboratory?utm_source=chatgpt.com)
+**Refs:** Scholarly/academic review of *The Palestine Laboratory*; DAWN analysis; Cairo Review on Gaza as “AI human laboratory.” [Source: Universiteit Leiden](https://www.universiteitleiden.nl/project0100/news/book-review-the-palestine-laboratory?utm_source=chatgpt.com)
 
 ### 2) From periphery to core populations
 When these tools are exported, they are adopted by states and private actors to police:
@@ -145,7 +145,7 @@ When these tools are exported, they are adopted by states and private actors to 
 This is how occupation logistics become domestic governance.
 
 Recent investigative reporting on Israeli military AI/surveillance development using Palestinian data underscores the direction of travel: mass data extraction → model building → operational targeting.  
-**Refs:** Guardian investigations on Unit 8200 AI/LLM from intercepted Palestinian communications; related coverage on US tech services and surveillance misuse. [oai_citation:9‡The Guardian](https://www.theguardian.com/world/2025/mar/06/israel-military-ai-surveillance?utm_source=chatgpt.com)
+**Refs:** Guardian investigations on Unit 8200 AI/LLM from intercepted Palestinian communications; related coverage on US tech services and surveillance misuse. [Source: The Guardian](https://www.theguardian.com/world/2025/mar/06/israel-military-ai-surveillance?utm_source=chatgpt.com)
 
 ---
 
