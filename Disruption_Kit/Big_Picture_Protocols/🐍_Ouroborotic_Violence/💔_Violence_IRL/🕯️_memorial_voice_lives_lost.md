@@ -1,6 +1,6 @@
 # 🕯️ Memorial — Voice Lives Lost  
-**First created:** 2025-10-27 | **Last updated:** 2025-10-27  
-*Remembering creators whose visibility and voice became vectors of fatal harm.*
+**First created:** 2025-10-27 | **Last updated:** 2026-02-20  
+*Remembering creators whose visibility and voice became vectors of fatal harm.*  
 
 ---
 
@@ -49,6 +49,11 @@ memorial, influencer safety, gendered violence, parasociality, online harm, reme
 *🕯️ Memorial — Voice Lives Lost* is a living sub-node of the Polaris Protocol.  
 It preserves the names of those whose visibility became vulnerability, refusing their reduction to case studies or cautionary tales.  
 
+> 📡 Cross-references:
+> 
+> - [🕯 Memory Anchors](../../../💣_Syntax_Bombs/🕯_memory_anchors.md)  
+> - [🦉 Belief–Disconfirmation Reaction](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦉_belief_disconfirmation_reaction.md)  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-27_
+_Last updated: 2026-02-20_
