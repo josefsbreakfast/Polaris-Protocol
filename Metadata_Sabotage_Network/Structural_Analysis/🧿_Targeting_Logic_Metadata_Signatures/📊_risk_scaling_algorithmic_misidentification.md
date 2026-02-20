@@ -81,7 +81,7 @@ It models how negligible probabilities produce tangible human trauma, and how bu
 > 
 > - [👾 Algorithmic Projection and False Personalisation](../👾_Breakpoints_And_Glitches/👾_algorithmic_projection_and_false_personalisation.md) — *projection and paranoia loops*  
 > - [🕸️ Gendered Harms from Counter-Extremism Algorithms](../../Governance_And_Containment/🈺_Governance_And_Prevent/🕸️_gendered_harms_from_counter_extremism_algorithms.md) — *systemic misclassification of advocacy*  
-> - [⚖️ Institutional Parasitism of Deradicalisation Work](../../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/⚖️_institutional_parasitism_of_deradicalisation_work.md) — *extraction of stabilisation labour*  
+> - [⚖️ Institutional Parasitism of Deradicalisation Work](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/⚖️_institutional_parasitism_of_deradicalisation_work.md) — *extraction of stabilisation labour*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 _Last updated: 2026-02-20_
