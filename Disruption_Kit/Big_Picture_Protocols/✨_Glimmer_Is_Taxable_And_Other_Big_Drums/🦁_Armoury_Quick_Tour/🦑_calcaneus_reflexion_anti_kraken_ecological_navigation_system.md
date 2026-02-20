@@ -1,5 +1,5 @@
 # 🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System  
-**First Created:** 2025-11-19 | **Last updated:** 2026-02-19  
+**First Created:** 2025-11-19 | **Last updated:** 2026-02-20  
 *The CRAKEN System — a reflexive, load-aware ecological model for geopolitical analysis.*  
 
 ---
@@ -195,7 +195,7 @@ is the only way to keep the metaphorical Kraken asleep.
 
 ## ✨ Stardust  
 
-resilience engineering, nuclear systems engineering, clinical reasoning, root cause analysis, psychoanalytics, systems theory  
+resilience engineering, nuclear systems engineering, clinical reasoning, root cause analysis, psychoanalytics, systems theory, CRAKEN  
 
 ---
 
@@ -212,4 +212,4 @@ resilience engineering, nuclear systems engineering, clinical reasoning, root ca
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-02-20_
