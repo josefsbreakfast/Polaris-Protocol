@@ -1,5 +1,5 @@
-# 🚁 Arms exports, dual-use technology, and UAV drift
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+# 🚁 Arms Exports, Dual-Use Technology, & UAV Drift  
+**First created:** 2025-12-20 | **Last updated:** 2026-02-20  
 *How dual-use framing and UAV ecosystems turn precautionary controls into continuity engines.*
 
 ---
@@ -134,8 +134,7 @@ arms exports, dual-use technology, uav warfare, export controls, defensive offen
 
 ## 🏮 Footer
 
-*Arms exports, dual-use technology, and UAV drift* is a supporting technical node in the **Polaris Protocol**.
-
+*🚁 Arms Exports, Dual-Use Technology, & UAV Drift* is a supporting technical node in the **Polaris Protocol**.  
 It exists to show how modern export control regimes can facilitate harm through accumulation and categorisation, even where no single licence appears decisive.
 
 > 📡 Cross-references:
@@ -143,7 +142,7 @@ It exists to show how modern export control regimes can facilitate harm through 
 > - [🧬 Distributed complicity in modern warfare] — *how systems enable harm*
 > - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)] — *where continuation mattered*
 > - [⚖️ Judicial reviews, parliamentary committees, and procedural delay] — *why controls lag*
->
-> *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-21_
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-02-20_
