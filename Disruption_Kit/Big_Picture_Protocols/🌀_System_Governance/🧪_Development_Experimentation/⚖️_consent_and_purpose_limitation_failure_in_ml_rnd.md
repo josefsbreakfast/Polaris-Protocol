@@ -1,5 +1,5 @@
 # ⚖️ Consent and Purpose Limitation Failure in ML R&D  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-18  
+**First created:** 2025-12-14 | **Last updated:** 2026-02-20  
 *When machine-learning research reuses personal data beyond consented scope or lawful purpose.*  
 
 ---
@@ -210,4 +210,4 @@ This node situates ML R&D **within data protection law**, not outside it.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-18_
+_Last updated: 2026-02-20_
