@@ -33,19 +33,28 @@ Crisis performance is not incidental — it is a **governing style**.
 - Countermeasures must **archive contradictions** and prevent memory erasure.  
 - Detection should flag **frequency of narrative resets** as a risk signal.  
 - Media and civil society need tooling to **track pivot timelines** and hold leaders to their  
-  previous statements.  
+  previous statements.
+
+---
+
+## 🌌 Constellations  
+🌀  
+
+---
+
+## ✨ Stardust  
 
 ---
 
 ## 🏮 Footer  
 
-*Crisis Actor Dynamics* is a living node of the Polaris Protocol.  
+*🧨 Crisis Actor Dynamics* is a living node of the Polaris Protocol.  
 It analyses how authoritarian actors use performance and crisis manufacture to consolidate control.  
 
 > 📡 Cross-references:
 > 
-> - [🌀 Systems & Governance](../🌀_System_Governance/README.md) — *crisis theatre and inversion diagnostics*  
-> - [🪬 Radicalisation & Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md) — *behavioural indicators of extremist grooming*  
+> - [🕯️ Crash Sites as Temporal Loops](../../🦕_Elder_Influencers/🕸️_World_Webs/🕯️_crash_sites_as_temporal_loops.md)  
+> - [⚖️ Hooked: Authoritarian Hooks & The Long File](../../../../Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_hooked_authoritarian_hooks_long_file.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
