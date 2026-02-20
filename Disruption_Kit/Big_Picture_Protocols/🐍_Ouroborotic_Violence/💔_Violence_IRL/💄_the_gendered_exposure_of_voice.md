@@ -63,6 +63,12 @@ gendered risk, voice cloning, affective computing, harassment, extremism, ethics
 It traces how the sound of identity becomes a vector of both fascination and danger in networked systems.  
 It insists that risk assessment without gender analysis is not ethics — it is denial with paperwork.  
 
+> 📡 Cross-references:
+>
+> - [🗣️ Voice Laundering](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)  
+> - [🧬 Voice Capture Triggers](../../../../👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🧬_voice_capture_triggers.md)  
+> - [🫀 Provocation Capture — When Goading Becomes a Data-Generation Method](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🫀_provocation_capture.md)  
+> - [🗣️ Counter-Voicing — Collective Re-Amplification Methods](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🗣️_counter_voicing_collective_re_amplification_methods.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
