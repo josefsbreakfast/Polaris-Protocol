@@ -507,7 +507,7 @@ wartime data, diaspora speech, yiddish erasure, liturgical arabic, mourning pena
 
 ## 🏮 Footer  
 
-*A Theoretical Experiment That Cannot Succeed* is a living node of the **Polaris Protocol**.  
+*🧪 A Theoretical Experiment That Cannot Succeed* is a living node of the **Polaris Protocol**.  
 It documents methodological failure under asymmetrical risk and wartime governance conditions, and exists to prevent surveillance-driven datasets from being misrepresented as neutral social science.
 
 > 📡 Cross-references:
