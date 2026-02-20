@@ -143,15 +143,16 @@ cruelty as innovation, narrative inversion, abuse as strategy, misogyny rhetoric
 
 ## 🏮 Footer
 
-*Cruelty as Innovation* is a living node of the **Polaris Protocol**.  
+*🧨 Cruelty as Innovation* is a living node of the **Polaris Protocol**.  
 It documents a narrative inversion through which harm is reframed as competence, allowing abusive systems to reproduce without moral friction.
 
 > 📡 Cross-references:
 >
-> - [🏭 Industrialisation of Misogyny](./🏭_industrialisation_of_misogyny.md) — system-level scaling  
-> - [💰 Misogyny in Capitalism](./💰_misogyny_in_capitalism.md) — incentive structures  
-> - [🩸 Sexual Capital Extraction Model](./🩸_sexual_capital_extraction_model.md) — extraction mechanics  
-> - [🫀 Attachment Trauma and Intimacy Deficit](../🫀_Our_Hearts_Our_Minds/🫀_attachment_trauma_and_intimacy_deficit.md) — psychological substrate
+> - [🏭 Industrialisation of Misogyny](./🏭_industrialisation_of_misogyny.md) — *system-level scaling*  
+> - [💰 Misogyny in Capitalism](./💰_misogyny_in_capitalism.md) — *incentive structures*  
+> - [🩸 Sexual Capital Extraction Model](./🩸_sexual_capital_extraction_model.md) — *extraction mechanics*  
+> - [🫀 Attachment Trauma and Intimacy Deficit](../🫀_Our_Hearts_Our_Minds/🫀_attachment_trauma_and_intimacy_deficit.md) — *psychological substrate*
+> - [🐍 PREVENT as a Self-Eating Snake (Early Detection Drift)](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🐍_prevent_as_a_self_eating_snake.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
