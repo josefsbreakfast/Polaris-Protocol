@@ -1,5 +1,5 @@
 # 🐍 How a CVE Tool Becomes a Vector for Extremism  
-**First created:** 2025-11-01 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-01 | **Last updated:** 2026-02-20  
 *When a counter-extremism model reproduces the very networks it was built to contain.*  
 
 ---
@@ -106,10 +106,10 @@ It documents how counter-extremism architectures reproduce their own subject mat
 
 > 📡 Cross-references:
 > 
-> - [🕸️ Gendered Harms from Counter-Extremism Algorithms] — *gendered clustering and risk*  
-> - [🐍 Algorithmic Hostage Logic] — *stabilisers trapped inside volatility loops*  
-> - [📊 Risk Scaling of Algorithmic Misidentification] — *statistical amplification of small errors*  
+> - [🕸️ Gendered Harms from Counter-Extremism Algorithms](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕸️_gendered_harms_from_counter_extremism_algorithms.md) — *gendered clustering and risk*  
+> - [🐍 Algorithmic Hostage Logic](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🐍_algorithmic_hostage_logic.md) — *stabilisers trapped inside volatility loops*  
+> - [📊 Risk Scaling of Algorithmic Misidentification](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/📊_risk_scaling_algorithmic_misidentification.md) — *statistical amplification of small errors*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-02-20_
