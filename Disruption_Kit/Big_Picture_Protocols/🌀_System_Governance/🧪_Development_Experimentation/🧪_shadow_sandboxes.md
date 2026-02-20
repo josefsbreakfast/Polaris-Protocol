@@ -168,7 +168,7 @@ It documents how unaccountable experimental environments allow states to trial g
 > 
 > - [🌀 Systems & Governance](../README.md) — *parent cluster of governance diagnostics*  
 > - [🧬 Structural Mapping](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/README.md) — *logs of systemic trial frameworks*  
-> - [🛰️ Field Logs](../../../Field_Logs/README.md) — *on-the-ground evidence of “pilot” containment tech*  
+> - [🐍 PREVENT as a Self-Eating Snake (Early Detection Drift)](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🐍_prevent_as_a_self_eating_snake.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
