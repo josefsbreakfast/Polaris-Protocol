@@ -122,13 +122,29 @@ The Frankenstack collapses under its own contradictions when those inside force 
 
 ---
 
+## 🌌 Constellations  
+🌀  
+
+---
+
+## ✨ Stardust  
+
+---
+
 ## 🏮 Footer  
 
-*The Frankenstack Problem* is a living node of the Polaris Protocol.  
+*🧟‍♀️ The Frankenstack Problem* is a living node of the Polaris Protocol.  
 It maps how counter-extremism, safeguarding, and healthcare pipelines fused into hybrid surveillance stacks, with survivors as live subjects.  
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+> 📡 Cross-references:
+> 
+> - [🧟‍♀️ Zombie Data and Population Targeting](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧟‍♀️_zombie_data_and_population_targeting.md)  
+> - [🧟‍♀️ Zombie Channel Case Neutralisation](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧟‍♀️_zombie_channel_case_neutralisation.md)  
+> - [👥 Twin Profiles in Biometric Systems](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/👥_twin_profiles_biometrics.md)  
+> - [🧟 Zombie Data in Identity Registers](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_zombie_data_identity_registers.md)  
+> - [🧟‍♀️ PREVENT’s Frankenstack Architecture](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧟‍♀️_prevents_frankenstack_architecture.md)  
+> - [🗂️ The Afterlife of Harm](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🗂️_the_afterlife_of_harm.md)  
 
-🏮 [Return to 🌀 Systems & Governance Guide](../README.md)  
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-02-20_
