@@ -1,6 +1,6 @@
-# 🎭 The Recognisable Researcher — When ‘Anonymised’ Work Becomes Common Knowledge
-**First created:** 2025-11-02 | **Last updated:** 2025-11-13
-*A short, dry node on how poor anonymisation, small R&D communities, and voice/style features combine to make ‘anonymous’ contributors recognisable.*
+# 🎭 The Recognisable Researcher — When ‘Anonymised’ Work Becomes Common Knowledge  
+**First created:** 2025-11-02 | **Last updated:** 2026-02-20  
+*A short, dry node on how poor anonymisation, small R&D communities, and voice/style features combine to make ‘anonymous’ contributors recognisable.*  
 
 ---
 
@@ -80,4 +80,4 @@ stylometric risk, voice fingerprinting, naive anonymisation, re-identification, 
 ## 🏮 Footer
 *🎭 The Recognisable Researcher* is a short governance note for Polaris. It states the obvious bluntly: in small communities and with weak anonymisation, anonymity is a fiction. Policy and practice must be designed on that basis.
 
-_Last updated: 2025-11-13_
+_Last updated: 2026-02-20_
