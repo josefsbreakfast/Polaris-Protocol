@@ -30,9 +30,7 @@ This node situates Section 159 as a linesman marking the edge of lawful conduct,
 
 ---
 
-## 🧿 Analysis  
-
-### 1. Why the Clause Exists  
+## 🧿 Why the Clause Exists  
 
 Prior to codification, UK equality law strongly prohibited treating someone less favourably because of a protected characteristic.  
 
@@ -51,7 +49,7 @@ minimal permission, tightly fenced.
 
 ---
 
-### 2. What It Actually Permits  
+## 🏏 What It Actually Permits  
 
 Section 159 permits a tie-break decision **only when**:
 
@@ -87,7 +85,7 @@ It exists so that when the edge case arises, the law has already drawn the bound
 
 ---
 
-### 4. Political vs Legal Framing  
+## 🎣 Political vs Legal Framing  
 
 Political narratives often frame Section 159 as “forced discrimination.”  
 
@@ -115,8 +113,14 @@ It contributes to the archive by clarifying statutory boundary conditions within
 
 > 📡 Cross-references:
 > 
-> - [🌀 Systems & Governance](../Big_Picture_Protocols/) — structural legal architecture  
-> - [🔮 House Style](../Admin_Kit/🔮_house_style.md) — formatting and structural conventions  
+> - [⚖️ Election Candidacy Query](../../🌀_System_Governance/📚_Narrative_Management/⚖️_election_candidacy_query.md)   
+> - [🌀 UK as a Low-Cost Influence Environment](../../🌀_System_Governance/📚_Narrative_Management/🌀_uk_low_cost_influence_environment.md)
+> - [✝️ Why Moralising Disability Is Not Theology](../../🌀_System_Governance/📚_Narrative_Management/✝️_why_moralising_disability_is_not_theology.md)
+> - [✝️ Protestant Work Ethic as Containment](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/✝️_protestant_work_ethic_as_containment.md)
+> - [🔥 Hot Coals Theory of Insults](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_hot_coals_theory_of_insults.md)
+> - [📚 Class-Coded Literacy Patterns](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/📚_class_coded_literacy_patterns.md)
+> - [💰 Resolving the Fear of the Poor — Class Anxiety as Design Logic](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/💰_resolving_the_fear_of_the_poor.md)
+> - [♿ Have You Asked Disabled People, Though?](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/♿_have_you_asked_disabled_people_though.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
