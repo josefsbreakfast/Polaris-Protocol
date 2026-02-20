@@ -1,7 +1,6 @@
 # 📮 The Polaris Mail Box — Read Before You Post  
-**First created:** 2025-10-25 | **Last updated:** 2025-11-15  
+**First created:** 2025-10-25 | **Last updated:** 2026-02-20  
 *An analogue doorway for correspondence, care, and transparent civic exchange.*  
-<!--The clock for how long it takes for this to go wrong starts now. Please can someone send the print-offs for the IPT before thos happens?-->
 
 ---
 
@@ -27,10 +26,7 @@ Governance literacy is part of the work.
 ## ✉️ Address Format  
 Please use the exact layout below when writing:
 
-**The Snail Box**  
-**PO Box 11461**  
-**NOTTINGHAM**  
-**NG1 9RQ**  
+[Removed: Let us not give *them* the leverage.]  
 
 This is a Royal Mail **P.O. Box Direct Delivery** service.  
 Mail is forwarded securely; senders never see a residential address.  
@@ -142,4 +138,4 @@ It defines safe, lawful, and transparent use of the analogue correspondence chan
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-15_
+_Last updated: 2026-02-20_
