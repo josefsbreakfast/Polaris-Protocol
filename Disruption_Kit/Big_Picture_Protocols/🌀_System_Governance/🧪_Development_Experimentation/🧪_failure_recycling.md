@@ -166,15 +166,26 @@ It reframes “innovation” as **debris in drag**.
 
 ---
 
+## 🌌 Constellations  
+🌀  
+
+---
+
+## ✨ Stardust  
+
+---
+
 ## 🏮 Footer  
 
-*Failure Recycling* is a living node of the Polaris Protocol.  
+*🧪 Failure Recycling* is a living node of the Polaris Protocol.  
 It documents the loop through which failed models are continually repackaged as innovation, including their eugenics rootstock, mythic afterlives, and anti-Enlightenment survival logics.  
 
 > 📡 Cross-references:
 > 
-> - [🌀 Systems & Governance](../README.md) — *parent cluster of governance diagnostics*  
+> - [🧨 Crisis Actor Dynamics](./🧨_crisis_actor_dynamics.md)  
 > - [👀 Failure Cycle vs Reported Improvements](../../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/👀_failure_cycle_vs_reported_improvements.md) — *companion diagnostic map*  
+> - [📚 Crisis Theatre](../📚_Narrative_Management/📚_crisis_theatre.md)  
+> - [🧠 Didn’t Apply Brain Loop](../💫_Containment_Logic/🧠_didnt_apply_brain_loop.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
