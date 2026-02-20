@@ -1,5 +1,5 @@
 # 🇬🇧🧪 How Not To Do MKUltra: Grimley Edition  
-**First created:** 2025-12-28 | **Last updated:** 2025-12-28  
+**First created:** 2025-12-28 | **Last updated:** 2026-02-20  
 *Safeguarding against small, secretive counter-terror projects reinventing human experimentation by accident.*  
 
 ---
@@ -420,4 +420,4 @@ It exists to help institutions recognise when respectable research drifts into e
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-28_
+_Last updated: 2026-02-20_
