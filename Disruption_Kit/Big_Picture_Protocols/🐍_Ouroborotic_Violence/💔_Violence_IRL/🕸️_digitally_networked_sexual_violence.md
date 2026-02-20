@@ -1,6 +1,6 @@
 # 🕸️ Digitally Networked Sexual Violence  
-**First created:** 2025-11-23 | **Last updated:** 2025-11-23  
-*Definition and diagnostic mapping of the emerging harm-pattern in which groups of men use digital platforms to coordinate, validate, or enact sexual violence.*
+**First created:** 2025-11-23 | **Last updated:** 2026-02-20  
+*Definition and diagnostic mapping of the emerging harm-pattern in which groups of men use digital platforms to coordinate, validate, or enact sexual violence.*  
 
 ---
 
@@ -150,14 +150,15 @@ digitally networked violence, image-based abuse, misogynistic networks, organise
 ---
 
 ## 🏮 Footer  
-**Digitally Networked Sexual Violence** is a living node of the **Polaris Protocol**, establishing a structural vocabulary for recognising coordinated sexual violence facilitated through digital networks. It formalises an emerging harm-pattern currently invisible to policing, safeguarding, and platform-governance schemas.
+*🕸️ Digitally Networked Sexual Violence* is a living node of the **Polaris Protocol**, establishing a structural vocabulary for recognising coordinated sexual violence facilitated through digital networks.  
+It formalises an emerging harm-pattern currently invisible to policing, safeguarding, and platform-governance schemas.  
 
 > 📡 Cross-references:
 > 
-> - [Big_Picture_Protocols] — structural diagnostics and system typologies  
-> - [Survivor_Tools] — survivor-led countermeasure design  
-> - [Containment_Scripts] — models of suppression and pattern invisibility  
+> - [👾 The Digital Torture Chamber](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/👾_the_digital_torture_chamber.md)  
+> - [⚖️ Citizen Recourse: Private Surveillance in the UK](../../🦕_Elder_Influencers/🕊️_Just_Boxes/⚖️_citizen_recourse_private_surveillance_uk.md)  
+> - [🕯 The Unfortunate History of Predators in Organised Groups](../../🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🕯_unfortunate_history_of_predators_in_organised_groups.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-23_
+_Last updated: 2026-02-20_
