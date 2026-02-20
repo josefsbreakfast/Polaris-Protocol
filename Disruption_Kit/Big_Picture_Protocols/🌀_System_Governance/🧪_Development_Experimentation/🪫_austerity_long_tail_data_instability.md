@@ -1,5 +1,5 @@
 # 🪫 Austerity Long Tail Data Instability  
-**First created:** 2025-09-17 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-17 | **Last updated:** 2026-02-20  
 *How post-2008 austerity produced decades of degraded infrastructure and unstable data.*  
 
 ---
@@ -59,4 +59,4 @@ It maps how austerity created structural data instability that continues to affe
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-02-20_
