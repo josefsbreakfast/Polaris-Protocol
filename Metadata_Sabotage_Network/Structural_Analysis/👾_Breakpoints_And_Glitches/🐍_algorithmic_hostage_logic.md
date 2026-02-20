@@ -1,6 +1,6 @@
 # 🐍 Algorithmic Hostage Logic  
-**First created:** 2025-11-01 | **Last updated:** 2025-12-08  
-*How systems trap their own stabilisers inside the hostility they diffuse.*
+**First created:** 2025-11-01 | **Last updated:** 2026-02-20  
+*How systems trap their own stabilisers inside the hostility they diffuse.*  
 
 ---
 
@@ -84,10 +84,10 @@ It exposes how engagement algorithms and bureaucratic reflexes trap their own st
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Institutional Parasitism of Deradicalisation Work] — *extraction of stabilisation labour*  
-> - [💇‍♀️ The Dumb Blonde Protocol] — *archetypes of disbelief and containment*  
-> - [🎮 Fake Gamer Girl Protocol] — *digital hostility loops and performance countermeasures*  
+> - [⚖️ Institutional Parasitism of Deradicalisation Work](../../../Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/⚖️_institutional_parasitism_of_deradicalisation_work.md) — *extraction of stabilisation labour*  
+> - [💄 The Dumb Blonde Protocol](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💄_the_dumb_blonde_protocol.md) — *archetypes of disbelief and containment*  
+> - [🎮 Fake Gamer Girl Protocol](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🎮_fake_gamer_girl_protocol.md) — *digital hostility loops and performance countermeasures*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-02-20_
