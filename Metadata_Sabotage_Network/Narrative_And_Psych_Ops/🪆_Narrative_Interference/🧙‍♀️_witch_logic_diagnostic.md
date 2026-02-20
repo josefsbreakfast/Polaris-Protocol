@@ -1,5 +1,5 @@
 # 🧙‍♀️ Witch Logic Diagnostic  
-**First created:** 2025-11-16 | **Last updated:** 2026-01-06  
+**First created:** 2025-11-16 | **Last updated:** 2026-02-20  
 *A field guide to recognising when women’s intelligence, articulation, or survival is being treated as “witchcraft” by families, institutions, or systems.*  
 
 ---
@@ -187,4 +187,4 @@ witch logic, credibility tests, survivor misreading, literate women, class-coded
 Survivor authorship is not witchcraft.  
 Systems that fear being seen will always pretend otherwise.
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-02-20_
