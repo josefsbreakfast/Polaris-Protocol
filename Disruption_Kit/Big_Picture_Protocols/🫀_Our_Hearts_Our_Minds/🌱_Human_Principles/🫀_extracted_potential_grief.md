@@ -1,6 +1,6 @@
-# 🫀 Extracted potential grief  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*The heartbreak of recognising how much human capacity is deliberately throttled under surveillance capital extraction.*
+# 🫀 Extracted Potential Grief  
+**First created:** 2025-12-14 | **Last updated:** 2026-02-20  
+*The heartbreak of recognising how much human capacity is deliberately throttled under surveillance capital extraction.*  
 <!--We are not fully people to them, but we are people.-->
 ---
 
@@ -124,15 +124,15 @@ extracted potential, surveillance capitalism, unrealised capacity, structural gr
 
 ## 🏮 Footer  
 
-*Extracted potential grief* is a living node of the **Polaris Protocol**.  
+*🫀 Extracted Potential Grief* is a living node of the **Polaris Protocol**.  
 It documents an affective consequence of surveillance and extraction systems that is routinely individualised, misdiagnosed, or erased.
 
 > 📡 Cross-references:
 > 
-> - [🩸 Sexual capital extraction model](../Big_Picture_Protocols/🩸_sexual_capital_extraction_model.md) — parallel extraction dynamics  
-> - [📉 Dominance loopholes](../Metadata_Sabotage_Network/🧠_Psychological_Containment/📉_dominance_loopholes.md) — constraint masquerading as openness  
-> - [💔 Romance lens as ontology failure](../Big_Picture_Protocols/💔_romance_lens_as_ontology_failure.md) — misframing systemic harm as personal deficit  
+> - [🩸 Sexual capital extraction model] — parallel extraction dynamics  
+> - [📉 Dominance loopholes] — constraint masquerading as openness  
+> - [💔 Romance lens as ontology failure] — misframing systemic harm as personal deficit  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-02-20_
