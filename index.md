@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-02-21 11:15:01 UTC_
+_Generated on 2026-02-21 11:49:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4040,6 +4040,20 @@ _Generated on 2026-02-21 11:15:01 UTC_
       - [`IMG_7811.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7811.png)
       - [`IMG_7812.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7812.png)
       - [`IMG_7834.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7834.png)
+      - [`IMG_7917.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7917.png)
+      - [`IMG_7918.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7918.png)
+      - [`IMG_7919.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7919.png)
+      - [`IMG_7920.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7920.png)
+      - [`IMG_7921.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7921.png)
+      - [`IMG_7922.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7922.png)
+      - [`IMG_7923.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7923.png)
+      - [`IMG_7924.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7924.png)
+      - [`IMG_7925.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7925.png)
+      - [`IMG_7926.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7926.png)
+      - [`IMG_7927.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7927.png)
+      - [`IMG_7928.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7928.png)
+      - [`IMG_7929.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7929.png)
+      - [`IMG_7930.png`](Disruption_Kit/Field_Logs/20260221_February_2026/IMG_7930.png)
     - [`20250828_racialisation_hijack.PNG`](Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
     - [`20251028_forcible_conversion_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
     - [`20251028_sexualised_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_sexualised_hijack.PNG)
