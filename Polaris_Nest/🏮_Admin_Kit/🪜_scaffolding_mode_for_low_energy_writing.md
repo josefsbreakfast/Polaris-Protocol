@@ -1,5 +1,5 @@
 # 🪜 Scaffolding Mode — Low Energy Writing Protocol
-**First created:** 2025-10-30  
+**First created:** 2025-10-30 | **Last updated:** 2026-02-22  
 *Method for drafting when the mind runs ahead but the body lags behind.*  
 
 ---
@@ -81,4 +81,4 @@ It supports continuity for builders whose ideas exceed their current physical ba
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-*Last updated: 2025-10-30*
+_Last updated: 2026-02-22_
