@@ -21,25 +21,35 @@ This node explores how redundant church property could be re-routed into communi
 
 ## 🏛️ Why The Buildings Must Be Sold  
 Empty churches deteriorate quickly in a damp climate. Without heating or ventilation, they rot, invite trespass, and become insurance liabilities. Charity law then demands disposal: keeping them idle drains funds that should support mission and pensions.  
-So sale isn’t always betrayal; sometimes it’s triage.
+So sale isn’t always betrayal; sometimes it’s triage.  
 
+---
 ## 🧨 Why Grievance Replaces Stewardship  
-Authoritarian Christian movements centre on *symbolic loss*. Actual stewardship demands patient cooperation, paperwork, and pluralism — all antithetical to identity-politics outrage. Thus “saving Christianity” becomes an aesthetic, not a practice.
 
+Authoritarian Christian movements centre on *symbolic loss*. Actual stewardship demands patient cooperation, paperwork, and pluralism — all antithetical to identity-politics outrage. Thus “saving Christianity” becomes an aesthetic, not a practice.  
+
+---
 ## 🌳 The Civic Fork  
+
 > 🔸 **Route A:** the JojaMart path — outsource to corporate developers; heritage becomes commodity.  
 > 🔸 **Route B:** the Community-Centre path — local co-ops rebuild for collective use.  
 
-In *Stardew Valley*, the town’s wellbeing rebounds once players revive the derelict hall; the community re-awakens itself. Church-land reuse can follow the same logic: visible acts of care restore belonging faster than policy speeches.
+In *Stardew Valley*, the town’s wellbeing rebounds once players revive the derelict hall; the community re-awakens itself. Church-land reuse can follow the same logic: visible acts of care restore belonging faster than policy speeches.  
+
+---
 
 ## 🏡🏘️ Working Models  
+
 - **Faith in Affordable Housing (Wales):** sells chapels below market value to social landlords.  
 - **Community Right to Bid (England):** lets residents pause a sale to organise purchase.  
 - **U.S. precedents:** Atlanta Land Trust, Douglass CLT (D.C.), Portland micro-villages — all hold land in trust for long-term residents.  
 
 Adapting these under UK charity law would need a standing legislative carve-out: “mission-aligned below-market disposals” for registered Faith Land Trusts.
 
+---
+
 ## 🐝🍯 Cultural Dividend  
+
 Each re-purposed church removes one grievance totem from extremist narratives and creates shared civic infrastructure — housing, art, childcare, food co-ops.  
 The faith endures not through purity but through hospitality.  
 
