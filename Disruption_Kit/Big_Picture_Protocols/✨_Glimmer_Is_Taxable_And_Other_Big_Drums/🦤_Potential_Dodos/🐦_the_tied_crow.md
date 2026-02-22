@@ -8,7 +8,7 @@
 ---
 
 ## 🪶 Description  
-A corvid entirely at ease in human infrastructure.
+A corvid entirely at ease in human infrastructure, despite the risks posed.  
 
 It does not hunt with spectacle.  
 It observes.  
@@ -24,14 +24,14 @@ Its diet is leverage.
 ---
 
 ## 🧠 Behavioural Indicators  
-- Performs relatability while consolidating influence  
+- Performs relatability to consolidating influence  
 - Aligns state canopy with selectively profitable industries  
 - Signs authorisations at distance from consequence  
 - Prefers confidentiality to contest  
 - Reframes consolidation as innovation  
 
 When challenged, it does not attack.  
-It explains.
+It "explains".
 
 ---
 
@@ -41,16 +41,17 @@ Corvid intelligence is adaptive.
 In balanced ecosystems, it stabilises.
 
 In infrastructure-dense environments,  
-it locates the levers.
+it locates the levers, the vulnerabilities.
 
 It learns that influence outperforms force.  
 That procurement reshapes flight paths more efficiently than open aggression.  
-That secrecy scales better than spectacle.
+That secrecy scales better than spectacle, allowing greater territorial power.
 
 The shift is incremental.
 
 The bird begins by solving problems.  
-It ends by deciding which problems are worth solving.
+It ends by deciding which problems are worth solving.  
+Eventually, it cause the problems that it delivers half a solution for.  
 
 ---
 
@@ -96,7 +97,7 @@ The crow remains invited everywhere.
 
 ## 🦤 Conservation Status  
 **Native to infrastructure.  
-Potentially non-native to restraint.  
+Non-native to restraint.  
 Ongoing governance risk if leverage continues to concentrate.**
 
 ---
@@ -104,7 +105,7 @@ Ongoing governance risk if leverage continues to concentrate.**
 ## 🧯 Containment Protocol  
 - Increase transparency of industry alignment.  
 - Audit discretionary secrecy powers.  
-- Separate charisma from accountability.  
+- Separate "charisma" from accountability.  
 - Re-anchor intelligence to public obligation.  
 
 No spectacle.  
@@ -116,13 +117,13 @@ Structural sunlight is sufficient.
 
 ## ❓ Open Question  
 
-Has the Pied Crow merely adapted to a complex canopy —
+Has the Tied Crow merely adapted to a complex canopy —
 
-or has it crossed into structural capture?
+or has it crossed into structural capture?  
 
 The difference determines whether this is evolution,
 
-or extraction.
+or extraction.  
 
 ---
 
