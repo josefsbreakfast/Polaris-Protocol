@@ -1,10 +1,10 @@
 # 🦠 OpenAI UK Due Diligence & Autoimmunity Map  
-**First created:** 2025-11-05 | **Last updated:** 2026-01-08  
+**First created:** 2025-11-05 | **Last updated:** 2026-02-22  
 *Who is actually in the web, and who inherits the antibodies anyway.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 This node maps **OpenAI’s UK footprint** along three layers:
 
@@ -18,7 +18,7 @@ there is a clear, evidence-backed answer that survives a subpoena.
 
 ---
 
-## 1. Confirmed UK Stakeholders (Formal Ties)
+## 🇬🇧 Confirmed UK Stakeholders (Formal Ties)
 
 These are entities where there is **public documentation** of a direct relationship with OpenAI (or an OpenAI-led programme), beyond “we used the website once”.
 
@@ -57,7 +57,7 @@ These are entities where there is **public documentation** of a direct relations
 
 ---
 
-## 2. Institutional Users & Indirect Nodes
+## 🗺️ Institutional Users & Indirect Nodes
 
 These are institutions where **OpenAI tech is clearly in use**, but where there is no public evidence of a formal research-consortium or MoU relationship.
 
@@ -73,7 +73,7 @@ These are institutions where **OpenAI tech is clearly in use**, but where there 
 
 ---
 
-## 3. Autoimmunity Exposure: How Derivatives Inherit the Same Reflex
+## 🦠 Autoimmunity Exposure: How Derivatives Inherit the Same Reflex
 
 Even where the contract is with Microsoft, Blackboard, or some vendor, the **autoimmune behaviour** of OpenAI’s model family still propagates.
 
@@ -116,7 +116,7 @@ Thus: **Nottingham and SHU are still part of the autoimmune network**, even if t
 
 ---
 
-## 4. Due Diligence Checklist (UK Context)
+## 📋 Due Diligence Checklist (UK Context)
 
 If you need to demonstrate that “due diligence was done” around OpenAI’s UK entanglements, this is the minimal investigative spine:
 
@@ -174,4 +174,4 @@ It documents both the **formal institutional ties** and the **immunological spil
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-02-22_
