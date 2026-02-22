@@ -1,98 +1,190 @@
 # 🏛 R.A.A.C. — Ruins and Architectural Committee  
 **First created:** 2025-10-22 | **Last updated:** 2026-02-22  
-*Minutes from the committee on collapse.*  
+*Minutes from the committee on collapse — and a custody-of-process autopsy.*
 
 ---
 
 ## 🛰️ Orientation  
-A satirical and forensic study of how infrastructures fail in both material and meaning.  
-Recasts **RAAC — Reinforced Autoclaved Aerated Concrete** — as the charter acronym for a fictional oversight body: the **Ruins and Architectural Committee**.  
-Explores how modernity’s “lightweight” materials mirror its “lightweight” governance: short-term efficiency masking long-term disintegration.  
-Part satire, part civic autopsy, part ethical planning document for the ruins of now.
+
+A satirical and forensic study of how infrastructures fail in both material and meaning.
+
+Recasts **RAAC — Reinforced Autoclaved Aerated Concrete** — as the charter acronym for a fictional oversight body: the **Ruins and Architectural Committee**.
+
+This node is also a governance diagnostic: it shows how “lightweight” materials mirror “lightweight” custody.  
+RAAC does not only fail because concrete flakes. It fails because responsibility flakes first.
+
+The underlying question is simple:
+
+> When a public building becomes unsafe, who owns the obligation to know — and who owns the authority to act?
+
+In modern infrastructure governance, those two owners are often different people.  
+That gap is where collapse lives.
 
 ---
 
-## 🗂️ 1. Bureaucracy of Decay — The Paperwork of Crumbling  
-Before the roof falls, there is always a memo.  
-Minutes of deferred maintenance, cost-saving measures, structural risk assessments filed but unread.  
-The Committee convenes too late — its members tasked with documenting collapse rather than preventing it.  
-In the archive, every form is stamped *compliant at the time of inspection.*  
-This is how modern ruin is made: not through disaster, but through **administrative drift**.
+## 👑 1. Custody of Process — Who Owns the Building, Who Owns the Risk?  
+
+Before the roof falls, there is always a chain:
+
+- **Asset owner** (legal title / estate register)  
+- **Duty holder** (health & safety obligations)  
+- **Maintainer** (contractor or facilities team)  
+- **Budget holder** (who can fund remediation)  
+- **Signatory** (who approves works)  
+- **Inspector** (who assesses risk)  
+- **Decision authority** (who can close the site)  
+- **Escalation owner** (who must act when warnings appear)
+
+RAAC failures proliferate when these roles are split across:
+
+- councils, trusts, academy chains, PFI vehicles,  
+- outsourced FM providers and subcontractors,  
+- consultants commissioned for reports with no enforcement power.
+
+Ownership becomes distributed.  
+Risk becomes nobody’s primary job.
+
+This is not only “complexity.”  
+It is **a structural accountability design**.
+
+---
+
+## 🗂️ 2. Bureaucracy of Decay — The Paperwork That Replaces Repair  
+
+Before the roof falls, there is always a memo.
+
+Deferred maintenance registers.  
+Cost-saving measures framed as “efficiency.”  
+Risk assessments filed but not acted upon.
+
+The Committee convenes too late — tasked with documenting collapse rather than preventing it.  
+In the archive, every form is stamped *compliant at the time of inspection.*
+
+This is how modern ruin is made: not through a single disaster, but through **administrative drift**.
 
 > “It was not negligence, merely procedure.”
 
+Procedure is often a way of saying:
+- *no owner had both the information and the authority,*  
+- *and the system was built to tolerate that gap.*
+
 ---
 
-## 🧱 2. Reinforced Ideology — Concrete as Cultural Logic  
+## 🧱 3. Reinforced Ideology — Concrete as Governance Logic  
+
 RAAC was invented to be quick, cheap, and easy — the dream material of managerial modernity.  
-It promised strength without weight, permanence without cost, and safety without oversight.  
-Now it flakes in schools, hospitals, courts: our civic skeleton revealing its foam core.  
-Every crack is a **philosophical failure**, an architectural echo of deregulation.  
-The “reinforcement” was ideological: trust in paperwork, not in steel.
+It promised strength without weight, permanence without cost, and safety without sustained stewardship.
+
+Now it flakes in schools, hospitals, courts: our civic skeleton revealing its foam core.
+
+Every crack is a philosophical failure — an architectural echo of “value engineering,” outsourcing, and budget compression.  
+The “reinforcement” was ideological: trust in audit and paperwork rather than long-term duty.
 
 > The material was autoclaved; the ethics, not.
 
+When short-term savings are rewarded and long-term maintenance is externalised, collapse becomes a rational outcome.
+
 ---
 
-## 🚸 3. Glyphs of Governance — Road Signs, Fonts, and Safety Scripts  
+## 🧾 4. Remit Diffusion — Everyone Can Flag, Nobody Can Fix  
+
+RAAC governance failure often looks like this:
+
+| Step | Actor | What they can do | What they cannot do |
+|------|------|------------------|---------------------|
+| 1 | Staff / users | Notice cracks, report concerns | Force inspection or closure |
+| 2 | Facilities / contractor | Log issue, request works | Approve funding |
+| 3 | Consultant | Produce report | Enforce remediation |
+| 4 | Portfolio lead | Acknowledge risk | Fund capital works without budget |
+| 5 | Finance / procurement | Control spend | Own safety consequences |
+| 6 | Regulator / inspectorate | Flag compliance gaps | Own the asset or execute repairs |
+
+Each participant can point at the problem.  
+No single participant is structurally mandated to resolve it end-to-end.
+
+Unowned problems propagate.  
+Buildings degrade quietly.  
+Risk becomes ambient.
+
+---
+
+## 🚸 5. Glyphs of Governance — Safety Scripts and Their Erosion  
+
 Our cities speak in glyphs: *Give Way. Authorised Vehicles Only. Slow.*  
-They are the runes of a managed people — prescriptive hieroglyphs of order and permission.  
-As RAAC decays, the road markings fade too; the alphabet of control flakes with the concrete beneath.  
-The Committee’s linguistics subcommittee proposes a new field: **Semiotic Structural Integrity** — the study of how instruction erodes.  
-Every signpost that leans becomes a small act of civic poetry.
+They are the runes of a managed people — prescriptive hieroglyphs of order.
+
+As RAAC decays, the road markings fade too; the alphabet of control flakes with the concrete beneath.
+
+The Committee’s linguistics subcommittee proposes a new field: **Semiotic Structural Integrity** — the study of how instruction erodes when maintenance governance erodes.
 
 > When the symbol loses legibility, governance loses its voice.
 
+Degraded signage is not merely aesthetic failure.  
+It is a trace of **maintenance custody failure**.
+
 ---
 
-## 🏗️ 4. Archaeology of the Present — Reading the City’s Autopsy  
-We are not uncovering ruins; we are **living among them.**  
+## 🏗️ 6. Archaeology of the Present — Reading the City’s Autopsy  
+
+We are not uncovering ruins; we are living among them.
+
 Car parks, shopping centres, municipal offices — all humming with the quiet fatigue of material overuse.  
-The archaeologist of the present must read spreadsheets and planning permissions as stratigraphy.  
+The archaeologist of the present reads spreadsheets and planning permissions as stratigraphy.
+
 Our artefacts are insulation foam, CCTV housings, contractor badges.  
-Each layer records a governance style — austerity, outsourcing, “value engineering”.  
-To excavate a building’s failure is to excavate the logic that authorised it.
+Each layer records a governance style — austerity, outsourcing, “efficiency,” deferred liability.
+
+To excavate a building’s failure is to excavate the decision chain that authorised it.
 
 > The city’s bones are bureaucratic.
 
 ---
 
-## 🪶 5. Charter for Future Ruins — Drafting the Committee’s Recommendations  
+## 🪶 7. Charter for Preventing Ruins — Recommendations as Custody Design  
+
 The Committee resolves:
-1. **All architecture shall plan its own obituary.**  
-   Each structure must include a *decommissioning ritual* — an acknowledgment of mortality.  
-2. **Reinforcement shall include ethics.**  
-   A building’s strength will be measured by the integrity of its accountability chain.  
-3. **Public space shall be designed for re-occupation.**  
-   Every derelict site must be acoustically and socially reusable.  
-4. **Maintenance shall be memorial.**  
-   Repair logs will be written as elegies, not invoices.  
-5. **Collapse shall be documented as instruction.**  
-   Future generations will learn from our failures — in tone, texture, and tensile strength.
+
+1. **Every public asset must have a named custodial owner for structural safety outcomes.**  
+   Not “the organisation.” A role. A duty holder. A published line of accountability.
+
+2. **Safety and maintenance must be tied to budget authority.**  
+   If the duty holder cannot access capital, the duty is performative.
+
+3. **Inspection must carry enforcement power or automatic escalation.**  
+   Reports without mandate are archival theatre.
+
+4. **Maintenance logs must be treated as public safety documents.**  
+   Not vendor paperwork. Not optional. Not private.
+
+5. **Closure authority must be explicit and protected from reputational suppression.**  
+   If closing a building is punished institutionally, collapse is incentivised.
 
 > The Committee adjourns. The ceiling creaks. Minutes approved by gravity.
 
 ---
 
 ## 🌌 Constellations  
-🪄 🦕 ⚙️ 🧱 — infrastructure, satire, governance, entropy.  
+
+🏛 👑 🧱 ⚖️ ⚙️ — infrastructure custody, liability drift, procurement logic, inspection ritual, administrative decay.
 
 ---
 
 ## ✨ Stardust  
-r.a.a.c, ruins, architecture, satire, decay, infrastructure ethics, governance parody, modernist material failure, road semiotics, civic collapse  
+
+raac, reinforced autoclaved aerated concrete, infrastructure failure, maintenance custody, liability drift, remit diffusion, outsourcing, audit theatre, value engineering, civic collapse, governance satire
 
 ---
 
 ## 🏮 Footer  
+
 *🏛 R.A.A.C. — Ruins and Architectural Committee* is a living node of the Polaris Protocol.  
-It documents the administrative afterlife of modern infrastructure and the symbolic grammar of decay.  
+It documents the administrative afterlife of modern infrastructure — and how custody-of-process failure turns maintenance into collapse.
 
 > 📡 Cross-references:
 > 
-> - [🎺 Echo Punk](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎺_echo_punk.md) — *the acoustic afterlife of derelict structures*  
-> - [🧪 Development & Experimentation](../🧪_Development_Experimentation/README.md) — *material testbeds and design ethics*  
-> - [🏚️ Millennial Property Psychosis (Everything Is Housing)](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🏚️_millennial_property_psychosis_everything_is_housing.md) — *E.V.E.R.Y.T.H.I.N.G.*  
+> - [🕳️ The Pothole Problem](./🕳️_the_pothole_problem.md) — *liability gaps and enforcement failure in public infrastructure*  
+> - [💰 Who Benefits from Cover-Up](./💰_who_benefits_from_cover_up.md) — *incentives that suppress disclosure and remediation*  
+> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *shielded accountability in institutional systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
