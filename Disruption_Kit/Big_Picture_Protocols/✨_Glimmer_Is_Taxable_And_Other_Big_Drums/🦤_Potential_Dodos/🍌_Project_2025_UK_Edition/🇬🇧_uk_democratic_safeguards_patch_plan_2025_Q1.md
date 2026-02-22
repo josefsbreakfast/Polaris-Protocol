@@ -1,5 +1,5 @@
 # 🇬🇧 Democratic Safeguards — Immediate Patch Plan
-**First created:** 2025‑10‑27 | **Last updated:** 2026-02-19  
+**First created:** 2025‑10‑27 | **Last updated:** 2026-02-22  
 *"And I love ya.. I just wish you'd stay where you belong..."*  
 
 ---
@@ -40,4 +40,4 @@ See the companion YAML for full owner lists, concrete artefacts, and measurable 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-02-22_
