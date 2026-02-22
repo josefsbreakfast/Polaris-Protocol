@@ -1,10 +1,10 @@
 # 🦎 Algorithmic Autotomy  
-**First created:** 2026-01-12 | **Last updated:** 2026-01-22  
+**First created:** 2026-01-12 | **Last updated:** 2026-02-22  
 *Why resilient systems must be able to shed load-bearing components — and why human-anchored models fail without a built-in break.*  
 
 ---
 
-## 🧭 Orientation
+## 🛰️ Orientation
 
 Autotomy is a biological escape mechanism in which an organism deliberately sheds a non-vital part (e.g. a lizard’s tail) to survive predation.
 
@@ -42,7 +42,7 @@ Autotomy is **pre-designed loss tolerance**, not failure.
 
 ---
 
-## 🔢 Formal Framing
+## 🧮 Formal Framing
 
 Let:
 
@@ -75,7 +75,7 @@ If the system collapses as \( \lambda \to 0 \), the component was not auxiliary 
 
 ---
 
-## 🧱 Fracture Planes (The Missing Design Element)
+## ⚡️ Fracture Planes (The Missing Design Element)
 
 Biological autotomy works because:
 
@@ -94,7 +94,7 @@ Most systems lack these entirely.
 
 ---
 
-## 🔁 Why Human Anchors Prevent Autotomy
+## ⚓️ Why Human Anchors Prevent Autotomy
 
 Humans are:
 
@@ -496,5 +496,5 @@ Living systems plan for both.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-02-22_
 
