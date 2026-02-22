@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 Britain’s constitution is an architecture of politeness. It grants symbolic power its grandeur and real power its discretion. Inside this design lives a structural blind spot — the **soft‑power accountability gap** — where influence exercised through monarchy, patronage, and heritage diplomacy is neither fully public nor wholly private. It is the space where ceremony becomes strategy and tradition becomes loophole.  
 
