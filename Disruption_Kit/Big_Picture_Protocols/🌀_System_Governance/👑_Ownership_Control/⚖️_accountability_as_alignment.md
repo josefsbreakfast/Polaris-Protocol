@@ -68,7 +68,6 @@ flowchart LR
     C --> D[Accountability Systems]
     D -->|Prosecution / Memory| E[Visible Friction in Data]
     E -->|Reinforces| A
-    style D fill:#ffd1b3,stroke:#333
 ```
 
 Without D–E, the loop decays; the machine stops learning that refusal is meaningful.
