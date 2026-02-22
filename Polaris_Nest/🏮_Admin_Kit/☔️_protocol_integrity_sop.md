@@ -1,5 +1,5 @@
 # ☔️ Protocol Integrity SOP  
-**First created:** 2025-10-06 | **Last updated:** 2025-11-09  
+**First created:** 2025-10-06 | **Last updated:** 2026-02-22  
 *Routine checks for maintaining consistency, linkage, and fidelity across Polaris nodes.*  
 
 ---
@@ -84,11 +84,11 @@ It documents recurring quality-control tasks ensuring the network remains intern
 
 > 📱 Cross-references:
 > 
-> - [🔮 House Style](./🔮_house_style.md) — formatting rules  
+> - [🔮 House Style](./🔮_house_style.md) — *formatting rules*  
 > - [🎛 Drafting Rules — Survivor Voice Fidelity](./🎛_polaris_drafting_rules_survivor_voice_fidelity.md)  
-> - [🏮 Where to Go](./🏮_where_to_go.md) — routing logic for new nodes  
+> - [🏮 Where to Go](./🏮_where_to_go.md) — *routing logic for new nodes*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-09_
+_Last updated: 2026-02-22_
 
