@@ -1,5 +1,5 @@
 # 🎛️ Polaris Drafting Rules — Survivor Voice Fidelity  
-**First created:** 2025-09-05 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-05 | **Last updated:** 2026-02-22  
 *Comprehensive guide for drafting logs, counter-nudges, and suppression scripts while preserving survivor undertone and fidelity.*  
 
 ---
@@ -41,11 +41,12 @@
 *🎛️ Polaris Drafting Rules — Survivor Voice Fidelity* is a scaffolding node of the Polaris Protocol.  
 It ensures survivor testimony is preserved in tone, undertone, and forensic clarity across rotating project environments.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🎛️ Drafting Rules Cluster — Survivor Voice Fidelity](./🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)  
 > - [🎛️ Pocket Rules — Survivor Voice Fidelity](./🎛️_pocket_rules_survivor_voice_fidelity.md)  
-> - [🏮 Admin Kit](./) — house style and scaffolding rules  
+> - [🏮 Admin Kit](./) — *house style and scaffolding rules*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_
+_Last updated: 2026-02-22_
