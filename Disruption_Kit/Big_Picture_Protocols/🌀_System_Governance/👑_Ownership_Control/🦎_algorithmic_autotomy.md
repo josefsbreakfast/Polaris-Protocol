@@ -44,17 +44,19 @@ Autotomy is **pre-designed loss tolerance**, not failure.
 
 Let:
 
-- \( O_t \) = system output at time \( t \)  
-- \( U_t \) = population-level or aggregate inputs  
-- \( A_t \) = anchor- or human-derived signal  
+- $\( O_t \)$ = system output at time $\( t \)$  
+- $\( U_t \)$ = population-level or aggregate inputs  
+- $\( A_t \)$ = anchor- or human-derived signal  
 
-Typical brittle systems implicitly model:
+Typical brittle systems implicitly model:  
 
+$$
 \[
 O_t = f(U_t, A_t)
 \]
+$$  
 
-where \( A_t \) becomes load-bearing.
+where $\( A_t \)$ becomes load-bearing.
 
 ---
 
@@ -66,9 +68,9 @@ $$
 O_t = f(U_t, \lambda_t A_t) \quad \text{with} \quad \lambda_t \to 0
 $$
 
-and remain **stable** as \( \lambda_t \) decays.
+and remain **stable** as $\( \lambda_t \)$ decays.
 
-If the system collapses as \( \lambda \to 0 \), the component was not auxiliary — it was structural.
+If the system collapses as $\( \lambda \to 0 \)$, the component was not auxiliary — it was structural.
 
 ---
 
