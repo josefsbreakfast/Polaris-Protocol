@@ -1,5 +1,5 @@
 # 🧿 Intake Drawer Declaration on Balancing Harms  
-**First created:** 2025-09-19 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-19 | **Last updated:** 2026-02-22  
 *Declaration of risk calculation and survivor balance of harms in maintaining the Git Intake Drawer.*  
 
 ---
@@ -27,10 +27,11 @@ This is therefore a **best-effort equilibrium**: the fairest option presently av
 *🧿 Intake Drawer Declaration on Balancing Harms* is a living node of the Polaris Protocol.  
 It clarifies the legal and ethical purpose of maintaining an intake zone even under constraint, situating survivor balancing of harms as a valid governance practice.  
 
-> 📡 Cross-references:  
-> - [Git Intake Drawer](../Git_Intake_Drawer/) — holding zone and README  
-> - [🏮 Admin Kit](./) — style and operational scaffolding  
+> 📡 Cross-references:
+> 
+> - [Git Intake Drawer](../Git_Intake_Drawer/) — *holding zone and README*  
+> - [🏮 Admin Kit](./README.md) — *style and operational scaffolding*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_
+_Last updated: 2026-02-22_
