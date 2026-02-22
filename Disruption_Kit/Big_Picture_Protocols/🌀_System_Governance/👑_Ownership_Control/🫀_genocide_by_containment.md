@@ -6,7 +6,7 @@
 
 > "...MS Windows will always be shit because it is built on top of the rickety structure of DOS."
 >
-> - Colquhoun quoting Fisher, in Fisher.  
+> — Colquhoun quoting Fisher, in Fisher.  
 
 ---
 
