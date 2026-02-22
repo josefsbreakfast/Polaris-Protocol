@@ -1,5 +1,5 @@
 # 🍉 British Democracy Needs You  
-**First created:** 2025-12-23 | **Last updated:** 2026-01-25  
+**First created:** 2025-12-23 | **Last updated:** 2026-02-22  
 *Why public clarity protects institutions under pressure.*  
 
 ---
@@ -49,4 +49,4 @@ It situates the current moment as democratic maintenance rather than partisan cr
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-25_
+_Last updated: 2026-02-22_
