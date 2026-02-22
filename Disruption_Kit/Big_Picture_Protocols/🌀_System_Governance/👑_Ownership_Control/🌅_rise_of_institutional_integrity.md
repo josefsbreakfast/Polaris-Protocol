@@ -7,12 +7,14 @@
 ## 🛰️ Orientation  
 
 If the fall of integrity is slow corrosion, the rise is painstaking translation.  
+
 It’s the work of turning satire back into procedure and shock back into law.  
+
 This node traces the post-collapse repair curve: how meaning, legitimacy, and everyday reliability return.
 
 ---
 
-## ⚙️ Phase 4 — Stabilisation (Years 0 – 2 of Recovery)  
+## 🥃 Phase 4 — Stabilisation (Years 0 – 2 of Recovery)  
 
 | Mechanism | First Signs | Practical Outcome |
 |------------|-------------|------------------|
@@ -25,7 +27,7 @@ This node traces the post-collapse repair curve: how meaning, legitimacy, and ev
 
 ---
 
-## ⚙️ Phase 5 — Re-legitimation (Years 2 – 5 of Recovery)  
+## 🛸 Phase 5 — Re-legitimation (Years 2 – 5 of Recovery)  
 
 | Mechanism | Indicator | Cultural Effect |
 |------------|------------|----------------|
@@ -38,7 +40,7 @@ This node traces the post-collapse repair curve: how meaning, legitimacy, and ev
 
 ---
 
-## ⚙️ Phase 6 — Trust Rebuild (Years 5 – 10 of Recovery)  
+## ✈️ Phase 6 — Trust Rebuild (Years 5 – 10 of Recovery)  
 
 | Mechanism | Behaviour | Long-term Outcome |
 |------------|------------|------------------|
@@ -63,10 +65,12 @@ Societies heal at the speed of vocabulary.
 
 ---
 
-## 💬 The Human Clock  
+## 🫀 The Human Clock  
 
 Political recovery drags; biological and emotional lives don’t.  
+
 People start families, careers, and art projects mid-repair because waiting for perfection is another form of loss.  
+
 Institutional time must learn to serve human time again.
 
 ---
@@ -81,7 +85,7 @@ Institutional time must learn to serve human time again.
 
 ## 🌌 Constellations  
 
-🌅 🌀 📡 ⚖️ 🧭 — systemic · restorative · long-form · hopeful  
+🌅 🌀 📡 ⚖️ 🧭  
 
 ---
 
