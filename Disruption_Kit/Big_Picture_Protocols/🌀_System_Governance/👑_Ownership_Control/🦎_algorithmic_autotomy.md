@@ -190,40 +190,6 @@ It is **what competence looks like in hostile environments**.
 
 ---
 
-## ✨ Keywords
-
-algorithmic autotomy, graceful degradation, control theory, fracture planes, small-n failure, human-in-the-loop risk, robustness, gecko models, decoupling
-
----
-
----
-
-## 🌞 Sunfooter
-
-This node was written under residual heat.
-
-Not active fire.
-Not crisis heat.
-Just the warmth that lingers in stone after a long day.
-
-If something here felt calm, survivable, or quietly obvious,  
-that’s because it was never meant to be sharp.
-
-Autotomy is not rupture.  
-Camouflage is not deceit.  
-Detachment is not defeat.
-
-Some systems are built to fight.
-Some are built to last the night.
-
-Leopard geckos know which is which.
-
-🦎
-
----
-
----
-
 ## 🔗 Linkage: Snow Leopard Geckos and Algorithmic Autotomy
 
 This node is a direct companion to:
@@ -409,8 +375,6 @@ These three are often confused. They are not the same.
 
 ## 🦎 The Reptile Extended Universe™ (Working Taxonomy)
 
-This isn’t fluff — it’s a useful conceptual set.
-
 ### 🦎 Leopard Gecko
 **Trait:** Gentle, beautiful, nocturnal, heat-from-residue  
 **System analogue:**  
@@ -446,13 +410,35 @@ Institutions that cannot shed dependencies and collapse under stress.
 
 ---
 
-## 🌞 Sunsets  
+## 🪨 Warm Stone  
 
-This entire cluster exists because biology solved problems
+This node was written under residual heat.
+
+Not active fire.  
+Not crisis heat.  
+Just the warmth that lingers in stone after a long day.
+
+If something here felt calm, survivable, or quietly obvious,  
+that’s because it was never meant to be sharp.
+
+Autotomy is not rupture.  
+Camouflage is not deceit.  
+Detachment is not defeat.
+
+Some systems are built to fight.  
+Some are built to last the night.
+
+Leopard geckos know which is which.  
+
+---
+
+## 🌞 Afterglow  
+
+This entire cluster exists because biology solved problems  
 that optimisation culture keeps re-inventing badly.
 
-Lizards do not argue with predators.
-They do not moralise escape.
+Lizards do not argue with predators.  
+They do not moralise escape.  
 They do not confuse gentleness with consent.
 
 They survive by letting go.
@@ -487,7 +473,6 @@ Competent systems expect variance.
 Resilient systems expect loss.  
 Living systems plan for both.  
 
-
 > 📡 Cross-references:
 > 
 > - [🦎 Snow Leopard Geckos Against Modern Slavery](../🧪_Development_Experimentation/🦎_snow_leopard_geckos_against_modern_slavery.md)  
@@ -497,4 +482,3 @@ Living systems plan for both.
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-02-22_
-
