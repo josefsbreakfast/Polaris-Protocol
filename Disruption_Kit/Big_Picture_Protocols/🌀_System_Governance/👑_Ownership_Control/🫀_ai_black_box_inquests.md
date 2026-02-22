@@ -1,5 +1,5 @@
 # 🫀 AI Black Box Inquests  
-**First created:** 2025-11-06 | **Last updated:** 2026-01-08  
+**First created:** 2025-11-06 | **Last updated:** 2026-02-22  
 *Proposed framework for post-incident investigation when AI logic contributes to human harm or death.*  
 <!--This is me being Captain Subtle about the pending responses from several stakeholders.-->
 ---
@@ -372,4 +372,4 @@ It outlines a survivor-centred framework for investigating AI-linked harm throug
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-02-22_
