@@ -1,5 +1,5 @@
 # 👑 Soft Power Accountability Gap  
-**First created:** 2025‑11‑02 | **Last updated:** 2026-01-08  
+**First created:** 2025‑11‑02 | **Last updated:** 2026-02-22  
 *The royal blind spot in Britain’s constitutional design.*  
 
 ---
@@ -81,7 +81,7 @@ The monarchy’s soft power once stabilised the realm. Now it stabilises opacity
 
 ## 🌌 Constellations  
 
-⚖️ Soft Power Without Soft Accountability · 🌍 Deregulation as Diplomatic Infrastructure · 🏏 Pitch at Palace Audit Practice · 🧱 Trickle‑Down Impunity · 📘 Diplomatic Archiving Standards  
+⚖️ 🌍 🏏 🧱 📘  
 
 ---
 
@@ -106,4 +106,4 @@ soft power, constitutional blind spot, royal accountability, trust decay, britai
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-02-22_
