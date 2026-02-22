@@ -1,5 +1,5 @@
 # 🛡️ Constructed Immunity  
-**First created:** 2025-11-12 | **Last updated:** 2026-01-08  
+**First created:** 2025-11-12 | **Last updated:** 2026-02-22  
 *How power assembles legal, contractual, and narrative shields that function as de facto immunity.*
 
 ---
@@ -135,11 +135,11 @@ It exists to make visible the architectures through which power avoids consequen
 
 > 📡 Cross-references:
 > 
-> - [📂 Emergent Litigation: AI, Language & Psychological Harm](../🛰️_Infrastructure_Procurement/📂_emergent_litigation_ai_language_psychological_harm.md) — harm surfacing at system edges  
-> - [🚀 Modernising Information Defence](../🛰️_Infrastructure_Procurement/🚀_mordernising_information_defence.md) — doctrine vs reality gaps  
-> - [⚖️ Autonomy vs Containment Dial](../💫_Containment_Logic/⚖️_autonomy_vs_containment_dial.md) — governance tension model  
-> - [⚖️ Legal Disentanglement & Risk Perception](../💫_Containment_Logic/⚖️_legal_disentanglement_and_risk_perception.md) — why risk is misread  
+> - [📂 Emergent Litigation: AI, Language & Psychological Harm](../🛰️_Infrastructure_Procurement/📂_emergent_litigation_ai_language_psychological_harm.md) — *harm surfacing at system edges*  
+> - [🚀 Modernising Information Defence](../🛰️_Infrastructure_Procurement/🚀_mordernising_information_defence.md) — *doctrine vs reality gaps*  
+> - [⚖️ Autonomy vs Containment Dial](../💫_Containment_Logic/⚖️_autonomy_vs_containment_dial.md) — *governance tension model*  
+> - [⚖️ Legal Disentanglement & Risk Perception](../💫_Containment_Logic/⚖️_legal_disentanglement_and_risk_perception.md) — *why risk is misread*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-02-22_
