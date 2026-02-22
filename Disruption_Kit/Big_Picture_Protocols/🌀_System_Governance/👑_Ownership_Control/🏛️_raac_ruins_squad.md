@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 A satirical and forensic study of how infrastructures fail in both material and meaning.  
 Recasts **RAAC — Reinforced Autoclaved Aerated Concrete** — as the charter acronym for a fictional oversight body: the **Ruins and Architectural Committee**.  
 Explores how modernity’s “lightweight” materials mirror its “lightweight” governance: short-term efficiency masking long-term disintegration.  
