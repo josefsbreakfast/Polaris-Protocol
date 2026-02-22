@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node maps the *transnational plumbing* of modern surveillance:
 
 > **Bias does not stay inside one country.  
