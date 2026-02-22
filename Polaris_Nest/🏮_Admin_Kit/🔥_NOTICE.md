@@ -1,5 +1,5 @@
 # 🏮 Notice  
-**First created:** 2025-09-19 | **Last updated:** 2025-09-26  
+**First created:** 2025-09-19 | **Last updated:** 2026-02-22  
 *Contextual notice for files routed through the Git Intake Drawer.*  
 
 ---
@@ -17,9 +17,9 @@ This notice exists to prevent accidental reliance on intake drafts.
 It provides orientation for users encountering draft or intake files.  
 
 > 📡 Cross-references:  
-> - [🏮 Admin Kit](../Polaris_Nest/🏮_Admin_Kit/) — style rules and meta guidance  
-> - [Git Intake Drawer Readme](./GIT_INTAKE_README.md) — staging explanation  
+> - [🏮 Admin Kit](../Polaris_Nest/🏮_Admin_Kit/) — *style rules and meta guidance*  
+> - [Git Intake Drawer Readme](./GIT_INTAKE_README.md) — *staging explanation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-26_  
+_Last updated: 2026-02-22_  
