@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Epistemic integrity is the institution’s ability to:
 
 - understand what it sees,  
