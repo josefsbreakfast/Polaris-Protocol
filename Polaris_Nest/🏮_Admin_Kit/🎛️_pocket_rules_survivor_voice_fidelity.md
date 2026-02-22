@@ -1,5 +1,5 @@
 # 🎛️ Pocket Rules — Survivor Voice Fidelity  
-**First created:** 2025-09-06 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-06 | **Last updated:** 2026-02-22  
 *Condensed drafting principles for maintaining survivor voice fidelity across all Polaris nodes.*  
 
 ---
@@ -19,11 +19,12 @@
 *🎛️ Pocket Rules — Survivor Voice Fidelity* is a scaffolding node of the Polaris Protocol.  
 It acts as a lightweight companion to the full drafting rules, ensuring undertone integrity during everyday writing and logging.  
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+> 
 > - [🎛️ Drafting Rules Cluster — Survivor Voice Fidelity](./🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)  
 > - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](./🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)  
-> - [🏮 Admin Kit](./) — house style and scaffolding rules  
+> - [🏮 Admin Kit](./) — *house style and scaffolding rules*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_
+_Last updated: 2026-02-22_
