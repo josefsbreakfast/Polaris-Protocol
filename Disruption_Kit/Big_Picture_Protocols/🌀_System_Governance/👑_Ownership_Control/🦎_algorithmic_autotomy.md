@@ -29,9 +29,7 @@ Autotomy is **pre-designed loss tolerance**, not failure.
 
 ---
 
-## 🧠 The Core Translation to Systems Theory
-
-### Definition
+## 🧠 The Core Translation to Systems Theory  
 
 **Algorithmic autotomy** is the property of a system that allows it to:
 
@@ -64,10 +62,9 @@ where \( A_t \) becomes load-bearing.
 
 For autotomy to exist, the system must support:
 
-\[
-O_t = f(U_t, \lambda_t A_t)
-\quad \text{with} \quad \lambda_t \rightarrow 0
-\]
+$$
+O_t = f(U_t, \lambda_t A_t) \quad \text{with} \quad \lambda_t \to 0
+$$
 
 and remain **stable** as \( \lambda_t \) decays.
 
