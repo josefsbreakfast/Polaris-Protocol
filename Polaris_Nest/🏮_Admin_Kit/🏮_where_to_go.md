@@ -1,5 +1,5 @@
 # 🏮 Where To Go 
-**First created:** 2025-10-28 | **Last updated:** 2025-11-09  
+**First created:** 2025-10-28 | **Last updated:** 2026-02-22  
 *The compass is broken, so we follow the light.*
 
 ---
@@ -175,4 +175,4 @@ routing, filing compass, protocol logic, digital disruption, metadata sabotage n
 *🏮 Where To Go* is an administrative routing map for the Polaris Protocol.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-09_
+_Last updated: 2026-02-22_
