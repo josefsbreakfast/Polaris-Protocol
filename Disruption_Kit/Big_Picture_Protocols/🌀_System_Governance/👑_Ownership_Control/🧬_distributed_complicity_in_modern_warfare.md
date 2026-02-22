@@ -1,10 +1,10 @@
 # 🧬 Distributed Complicity In Modern Warfare  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-08  
+**First created:** 2025-12-20 | **Last updated:** 2026-02-22  
 *How contemporary conflict fragments agency while concentrating harm.*  
 
 ---
 
-## 🧭 What This Node Is
+## 🛰️ Orientation  
 This node explains how modern warfare distributes responsibility across systems, roles, and institutions in ways that:
 
 - obscure individual agency,
@@ -34,7 +34,7 @@ Responsibility becomes **distributed**, not absent.
 
 ---
 
-## 🛰️ “Just Observing” Is Not Neutral
+## 🩻 “Just Observing” Is Not Neutral
 ISR, intelligence analysis, and surveillance are often framed as:
 
 - passive,
@@ -102,7 +102,7 @@ It is a structural preference.
 
 ---
 
-## 🧯 Moral Injury As A System Output
+## 🔥 Moral Injury As A System Output
 Distributed complicity produces a distinctive harm:
 
 - individuals feel responsible,
@@ -119,7 +119,7 @@ It is internalised.
 
 ---
 
-## 🚫 Why Prevention Fails Under Distribution
+## 🧨 Why Prevention Fails Under Distribution
 Genocide prevention and IHL depend on:
 
 - early friction,
@@ -136,7 +136,7 @@ By the time harm is undeniable, **prevention windows have closed**.
 
 ---
 
-## 🧷 Working Claim
+## 🪼 Working Claim
 Modern warfare enables atrocity not because people become cruel, but because systems make cruelty **procedural**.
 
 Distributed complicity:
@@ -169,4 +169,4 @@ It exists to explain why harm persists even when no one claims authorship, and w
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-02-22_
