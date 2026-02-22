@@ -1,5 +1,5 @@
 # 🪦 CECOT as a Rights-Void Facility  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-08  
+**First created:** 2025-12-14 | **Last updated:** 2026-02-22  
 *Why offshored detention collapses safeguards even without explicit illegality.*  
 
 ---
@@ -27,7 +27,7 @@ In such environments, rights exist rhetorically but not operationally.
 
 ---
 
-## 🧩 Structural Features of CECOT
+## 🧊 Structural Features of CECOT
 
 ### 1. Extreme Isolation
 
@@ -186,4 +186,4 @@ It documents how offshored detention collapses enforceable rights while preservi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-02-22_
