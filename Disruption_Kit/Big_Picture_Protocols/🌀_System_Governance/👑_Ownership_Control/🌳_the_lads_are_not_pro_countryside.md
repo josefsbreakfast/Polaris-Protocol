@@ -1,5 +1,5 @@
 # 🌳 The Lads Are Not Pro-Countryside  
-**First created:** 2026-01-08 | **Last updated:** 2026-01-25  
+**First created:** 2026-01-08 | **Last updated:** 2026-02-22  
 *Why “pro-countryside” rhetoric collapses under extraction, development pressure, and infrastructure reality.*  
 
 ---
@@ -159,4 +159,4 @@ It draws a forensic distinction between countryside as **identity** and countrys
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-25_
+_Last updated: 2026-02-22_
