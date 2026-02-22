@@ -1,5 +1,5 @@
-# 🦠 Systemic Porosity — When Legal Flexibility Becomes National-Security Debt  
-**First created:** 2025-10-13 | **Last updated:** 2026-01-08  
+# 🦠 Systemic Porosity  
+**First created:** 2025-10-13 | **Last updated:** 2026-02-22  
 *A structural-risk sketch showing how loosely coupled UK oversight regimes create exploitable seams.*  
 
 ---
@@ -69,8 +69,8 @@ It is a theoretical systems-diagnostic intended to support oversight reform.
 > - [🧠 Multi-Lock Hypothetical](../💫_Containment_Logic/🧠_multilock_overlapping_covertion.md) — *compound lawful layer model*  
 > - [*Pending:* 🛡 Article 8 Breach Pathways] — *privacy erosion logic*  
 > - [🦠 Hybrid Threat Overlay](../⚖️_Legal_State_Governance/🦠_hybrid_threat_overlay.md) — *external exploitation map*  
-> - [🪡 Oversight Repair Kit](./🪡_oversight_repair_kit.md) *TBC* — *design recommendations*  
+> - [🪡 Oversight Repair Kit](./🪡_oversight_repair_kit.md) — *design recommendations*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-02-22_
