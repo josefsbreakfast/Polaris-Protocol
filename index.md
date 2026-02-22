@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-02-22 11:12:33 UTC_
+_Generated on 2026-02-22 12:02:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -76,11 +76,11 @@ _Generated on 2026-02-22 11:12:33 UTC_
       - [**🦤_Potential_Dodos/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/)
         - [**🍌_Project_2025_UK_Edition/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/README.md)
-          - [`🇬🇧_uk_democratic_safeguards_patch_plan.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_democratic_safeguards_patch_plan.md)
-          - [`🇬🇧_uk_democratic_safeguards_patch_plan.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_democratic_safeguards_patch_plan.yaml)
-          - [`🇬🇧_uk_entrenchment_risk_matrix.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_entrenchment_risk_matrix.md)
-          - [`🇬🇧_uk_entrenchment_risk_matrix.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_entrenchment_risk_matrix.yaml)
-          - [`🇬🇧_uk_entrenchment_watchlist.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_entrenchment_watchlist.yaml)
+          - [`🇬🇧_uk_democratic_safeguards_patch_plan_2025_Q4.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_democratic_safeguards_patch_plan_2025_Q4.md)
+          - [`🇬🇧_uk_democratic_safeguards_patch_plan_2025_Q4.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_democratic_safeguards_patch_plan_2025_Q4.yaml)
+          - [`🇬🇧_uk_entrenchment_risk_matrix_2025_Q4.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_entrenchment_risk_matrix_2025_Q4.md)
+          - [`🇬🇧_uk_entrenchment_risk_matrix_2025_Q4.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_entrenchment_risk_matrix_2025_Q4.yaml)
+          - [`🇬🇧_uk_entrenchment_watchlist_2025_Q4.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇬🇧_uk_entrenchment_watchlist_2025_Q4.yaml)
           - [`🇺🇸_project_2025_summary.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇺🇸_project_2025_summary.yaml)
           - [`🇺🇸_project_esther_summary.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🍌_Project_2025_UK_Edition/🇺🇸_project_esther_summary.yaml)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/README.md)
