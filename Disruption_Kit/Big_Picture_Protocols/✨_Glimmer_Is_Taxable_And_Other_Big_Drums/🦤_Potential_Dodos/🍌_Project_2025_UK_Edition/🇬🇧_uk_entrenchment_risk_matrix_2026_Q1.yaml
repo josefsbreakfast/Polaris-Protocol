@@ -1,0 +1,95 @@
+title: "UK Entrenchment Early-Warning Risk Matrix (2026-Q1)"
+last_updated: "2026-02-22"
+scope: "Risk of successful institutional consolidation across UK governance structures."
+
+indicators:
+  - number: 1
+    name: "Local ground control"
+    probability: 0.68
+    severity: "Medium"
+    overall_risk: "High-Medium"
+    commentary: >
+      Increased contestation at local level; legal challenges and FOI activity suggest
+      consolidation efforts face structured resistance.
+
+  - number: 2
+    name: "Personnel pipelines"
+    probability: 0.70
+    severity: "High"
+    overall_risk: "High"
+    commentary: >
+      Heightened scrutiny of senior roles, departures of long-tenured figures,
+      and whistleblower-triggered oversight reduce insulation, though appointment
+      structures remain intact.
+
+  - number: 3
+    name: "Regulatory remit shrinkage"
+    probability: 0.58
+    severity: "High"
+    overall_risk: "High"
+    commentary: >
+      EHRC remit discussions paused amid scrutiny; ICO consultation ongoing
+      without confirmed narrowing of statutory authority.
+
+  - number: 4
+    name: "Emergency/discretionary powers normalised"
+    probability: 0.48
+    severity: "High"
+    overall_risk: "High-Medium"
+    commentary: >
+      Public order instruments advancing, but judicial constraint and reduced
+      Prevent salience limit successful normalisation.
+
+  - number: 5
+    name: "Funding & contract levers"
+    probability: 0.66
+    severity: "High"
+    overall_risk: "High"
+    commentary: >
+      Central guidance remains active, yet enforcement appears contested;
+      pressure increasingly decentralised rather than state-uniform.
+
+  - number: 6
+    name: "Campus & academic pressure"
+    probability: 0.78
+    severity: "High"
+    overall_risk: "High"
+    commentary: >
+      Ongoing tensions around speech and identity issues persist, though
+      consensus pressure appears less unitary than prior quarters.
+
+  - number: 7
+    name: "Civil-service impartiality erosion"
+    probability: 0.48
+    severity: "High"
+    overall_risk: "High-Medium"
+    commentary: >
+      Rhetorical pressure remains but no confirmed structural weakening
+      of impartiality frameworks observed this quarter.
+
+  - number: 8
+    name: "Media & platform regulation pressure"
+    probability: 0.53
+    severity: "Medium-High"
+    overall_risk: "High-Medium"
+    commentary: >
+      Ofcom and ICO enforcement actions suggest regulatory activation
+      rather than executive capture pressure.
+
+  - number: 9
+    name: "Charity & third-sector capture"
+    probability: 0.45
+    severity: "Medium"
+    overall_risk: "Medium"
+    commentary: >
+      No material structural change since Q4; investigations continue
+      without expansion of oversight scope.
+
+  - number: 10
+    name: "Narrative securitisation of dissent"
+    probability: 0.73
+    severity: "High"
+    overall_risk: "High"
+    commentary: >
+      Judicial rulings and recalibrated security messaging reduce dominance
+      of securitisation narratives, though underlying architecture remains.
