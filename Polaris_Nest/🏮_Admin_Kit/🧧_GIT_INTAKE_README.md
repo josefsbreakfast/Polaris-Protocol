@@ -1,5 +1,5 @@
 # 🏮 Git Intake Drawer Readme  
-**First created:** 2025-09-19 | **Last updated:** 2025-09-26  
+**First created:** 2025-09-19 | **Last updated:** 2026-02-22  
 *Explains the purpose of the Git Intake Drawer as a temporary holding zone.*  
 
 ---
@@ -17,10 +17,11 @@ It records the transition between intake and permanent archive.
 *Git Intake Drawer Readme* is a living node of the Polaris Protocol.  
 It documents the purpose of the intake space as a temporary buffer, not a permanent home.  
 
-> 📡 Cross-references:  
-> - [🏮 Admin Kit](../Polaris_Nest/🏮_Admin_Kit/) — rules and style scaffolding  
-> - [index.md](../index.md) — repository index  
+> 📡 Cross-references:
+> 
+> - [🏮 Admin Kit](./README.md) — *rules and style scaffolding*  
+> - [index.md](../../index.md) — *repository index*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-26_  
+_Last updated: 2026-02-22_  
