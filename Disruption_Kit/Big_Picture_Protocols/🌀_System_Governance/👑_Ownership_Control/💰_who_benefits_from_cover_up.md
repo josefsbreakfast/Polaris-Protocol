@@ -1,5 +1,5 @@
-# 💰 Who Benefits from Cover-Up — Incentives for Maintaining the Apparatus  
-**First created:** 2025-09-20 | **Last updated:** 2026-01-08  
+# 💰 Who Benefits from Cover-Up?  
+**First created:** 2025-09-20 | **Last updated:** 2026-02-22  
 *Explains which actors structurally benefit from allowing the current behavioural-insight / manufactured provenance apparatus to continue without reform, focusing on present incentives rather than past harms.*  
 
 ---
@@ -68,7 +68,7 @@ cover-up incentives, behavioural insights, manufactured provenance, false proof,
 ---
 
 ## 🏮 Footer  
-*Who Benefits from Cover-Up* is a Big Picture Protocol node of the Polaris Protocol.  
+*💰 Who Benefits from Cover-Up?* is a Big Picture Protocol node of the Polaris Protocol.  
 It documents structural incentives for maintaining the apparatus despite known risks.  
 
 > 📡 Cross-references:
@@ -79,4 +79,4 @@ It documents structural incentives for maintaining the apparatus despite known r
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-02-22_
