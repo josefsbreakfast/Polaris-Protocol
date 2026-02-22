@@ -1,5 +1,5 @@
 # 💜 Search Field Manual for Self-Training  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-06  
+**First created:** 2025-11-06 | **Last updated:** 2026-02-22  
 *A practical-theoretical guide for learning how to learn: building literacy in Markdown, YAML, GitHub, and accessible information systems.*
 
 ---
@@ -169,7 +169,7 @@ markdown, yaml, github, information architecture, accessibility, digital humanit
 *💜 Search Field Manual for Self-Training* is a living node of the **Polaris Protocol**.  
 It guides survivor-researchers in developing autonomous, accessible learning methods — turning search into both civic skill and creative ritual.  
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
 > 
 > - [🔮 House Style](./🔮_house_style.md) — *formatting and structural rules*  
 > - [🎛️ Pocket Rules — Survivor Voice Fidelity](./🎛️_pocket_rules_survivor_voice_fidelity.md) — *tone integrity during drafting*  
@@ -177,4 +177,4 @@ It guides survivor-researchers in developing autonomous, accessible learning met
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2026-02-22_
