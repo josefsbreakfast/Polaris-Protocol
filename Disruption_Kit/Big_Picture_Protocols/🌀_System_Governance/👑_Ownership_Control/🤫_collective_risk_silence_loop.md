@@ -1,5 +1,5 @@
 # 🤫 Collective Risk Silence Loop  
-**First created:** 2025-11-12 | **Last updated:** 2026-01-08  
+**First created:** 2025-11-12 | **Last updated:** 2026-02-22  
 *How shared liability exposure produces sector-wide silence without explicit coordination.*  
 
 ---
@@ -172,4 +172,4 @@ It provides a governance-level framework for understanding how silence becomes c
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-02-22_
