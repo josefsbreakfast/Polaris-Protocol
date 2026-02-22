@@ -156,17 +156,73 @@ others gain “stable data.”
 If one jurisdiction reforms racism,  
 others lose model stability.
 
-This is the architecture of **globalised apartheid logic**.
+This is the architecture of **globalised apartheid logic**.  
+
+---
+
+## 👑 Ownership Vacuum in Transnational Bias  
+
+The hardest question in cross-border bias propagation is not technical.  
+It is custodial.
+
+When a surveillance model:
+
+- is trained in one jurisdiction,
+- sold by a multinational vendor,
+- refined through joint research,
+- deployed by another state,
+- and calibrated through shared intelligence standards,
+
+…who owns the bias?
+
+No single actor does.
+
+- Vendors claim neutrality: “We supply tools.”
+- States claim sovereignty: “We calibrate locally.”
+- Researchers claim abstraction: “We publish models.”
+- Intelligence alliances claim necessity: “We share standards.”
+
+Bias becomes:
+
+- collectively produced,
+- operationally embedded,
+- legally diffused.
+
+This creates a **custody gap**.
+
+If harm emerges, responsibility fragments along procurement chains.  
+If reform occurs in one node, stability pressures resist change elsewhere.  
+
+Bias persists not because it is invisible —  
+but because it is jointly inherited.
+
+In this environment:
+
+- reform becomes unilateral risk,
+- silence becomes equilibrium,
+- and structural racism becomes technically path-dependent.
+
+Without explicit transnational accountability architecture,  
+cross-border bias has no sovereign owner.
+
+And what has no owner rarely gets dismantled.
 
 ---
 
 ## 🌌 Constellations  
-Colonial_Loops · Metadata_Dependence · Diaspora-Error · Signal_Collapse  
+
+🌍 👑 🧬 ⚖️ 🕸️  
+
+---
+
+## ✨ Stardust  
+
+cross-border bias propagation, surveillance supply chains, metadata schema lock-in, vendor-mediated transfer, alliance intelligence standards, diaspora misclassification, transnational liability gaps, racial calibration drift, procurement dependency, shared exposure equilibrium
 
 ---
 
 ## 🏮 Footer  
-This node pairs with “Israel–Five Eyes Structural Interdependency” and “Apartheid Algorithm Dependency Theory.”  
+*🌍 Cross-Border Bias Propagation in Surveillance Models* pairs with *🌍 Israel–Five Eyes Structural Interdependency* and *🌍 Apartheid Algorithm Dependency Theory.*  
 Together, they map the **cross-border circulation of racialised data**, the fragility of imported security tools, and the systemic vulnerabilities created when injustice becomes a technical requirement for model stability.  
 
 > 📡 Cross-references:
