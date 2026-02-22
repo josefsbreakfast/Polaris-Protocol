@@ -1,5 +1,5 @@
 # 📚 Memory, Market, and the Machinery of Data Exhaust  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-08  
+**First created:** 2025-12-14 | **Last updated:** 2026-02-22  
 *How capitalism converts memory, behaviour, and cultural residue into extractable value.*  
 
 ---
@@ -29,9 +29,7 @@ this node traces how **memory, behaviour, and cultural residue** are repeatedly 
 
 ---
 
-## 🧿 Analysis / Content  
-
-### 1️⃣ Capitalism and the hunt for latent value  
+## 💸 Capitalism and the Hunt for Latent Value  
 
 Marx describes capitalism as a system driven by the continuous search for **latent, unrealised value** — not only in labour, but in *time*, *relations*, and *previously non-economic spaces*.
 
@@ -51,7 +49,7 @@ In contemporary capitalism, this logic extends to:
 
 ---
 
-### 2️⃣ From waste to resource: why “recycling” feels moral  
+## ♻️ From Waste to Resource: Why “Recycling” Feels Moral  
 
 In physical economies, recycling is associated with:
 - care,  
@@ -103,7 +101,7 @@ It requires only an optimisation function that:
 
 ---
 
-### 4️⃣ Orlean and the library as ethical infrastructure  
+## 📖 Orlean and the Library As Ethical Infrastructure  
 
 In *The Library Book*, Susan Orlean presents libraries as:
 - custodians of memory,  
@@ -124,7 +122,7 @@ When Google and similar platforms interact with libraries — learning from libr
 
 ---
 
-### 5️⃣ Zafón and the moral imagination of forgotten books  
+## 📚 Zafón and the Moral Imagination of Forgotten Books  
 
 Zafón’s *Cemetery of Forgotten Books* offers a fictional counter-vision:
 - books as sacred memory,  
@@ -144,7 +142,7 @@ memory ceases to be something we *owe care to* and becomes something we *extract
 
 ---
 
-### 6️⃣ Zombie data and the refusal to forget  
+## 🧟‍♀️ Zombie Data and the Refusal To Forget  
 
 “Zombie data” — data kept beyond purpose or necessity — exists because:
 - storage is cheap,  
@@ -161,7 +159,7 @@ The **Right to Be Forgotten** is therefore not a technical rule but a moral inte
 
 ---
 
-### 7️⃣ Why ethical disagreement feels so deep  
+## 🍇 Why Ethical Disagreement Feels So Deep  
 
 Debates about data exhaust often feel irresolvable because people are using **different ethical frameworks**:
 
@@ -203,4 +201,4 @@ It situates data exhaust within a longer history of capitalist extraction, cultu
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-02-22_
