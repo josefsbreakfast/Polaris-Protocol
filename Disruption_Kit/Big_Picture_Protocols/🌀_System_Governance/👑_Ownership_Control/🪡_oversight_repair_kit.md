@@ -91,7 +91,6 @@ It proposes mechanisms for reconnecting fragmented oversight bodies and embeddin
 > 📡 Cross-references:
 > 
 > - [🦠 Systemic Porosity](./🦠_systemic_porosity.md) — *structural vulnerability map*  
-> - [*Pending:* 🛡 Article 8 & 9 Breach Pathways] — *rights-compression analysis*  
 > - [🦠 Hybrid Threat Overlay](../⚖️_Legal_State_Governance/🦠_hybrid_threat_overlay.md) — *external manipulation risk*  
 > - [🧠 Multi-Lock Hypothetical](../💫_Containment_Logic/🧠_multilock_overlapping_covertion.md) — *compound lawful layer model*  
 
