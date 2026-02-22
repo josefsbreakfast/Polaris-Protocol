@@ -1,19 +1,19 @@
 # 🧨 We Are Already Paying the Cost  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-08  
+**First created:** 2025-12-20 | **Last updated:** 2026-02-22  
 *Why avoiding accountability does not save money, stability, or lives — it defers and multiplies the bill.*  
 
 ---
 
 ## 🛰️ Orientation
 
-This node addresses the most persistent justification for non-action:
+This node addresses the most persistent justification for non-action:  
 
-> **“We can’t afford this.”**
+> **“We can’t afford this.”**  
 
-The claim is false.
+The claim is false.  
 
-The real situation is this:
-> **We are already paying — just in the most inefficient, harmful, and destabilising way possible.**
+The real situation is this:  
+> **We are already paying — just in the most inefficient, harmful, and destabilising way possible.**. 
 
 ---
 
@@ -203,4 +203,4 @@ It documents how avoidance of accountability produces higher long-term economic,
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-02-22_
