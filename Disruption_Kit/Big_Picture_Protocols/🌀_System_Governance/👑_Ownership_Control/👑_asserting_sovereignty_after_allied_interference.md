@@ -4,7 +4,7 @@
 
 ---
 
-## 🌱 Scope  
+## 🛰️ Scope  
 
 Defines the **sovereignty-reassertion process** that should occur when one intelligence or security partner (e.g., within the Five Eyes alliance) is found to have interfered unlawfully inside another’s jurisdiction.  
 Maps the shift from quiet diplomacy to legal assertion — the moment a state must treat ally behaviour as a breach of domestic law, not merely a coordination error.
