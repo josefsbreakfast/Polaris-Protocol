@@ -1,10 +1,10 @@
-# 🕊️ Positive Drift — Leadership Shifts in Counter-Terrorism and Heritage-Aligned Governance  
-**First created:** 2025-11-08 | **Last updated:** 2026-01-08  
+# 🕊️ Positive Drift  
+**First created:** 2025-11-08 | **Last updated:** 2026-02-22  
 *Small rotations that change the tone of an entire field.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Late 2025 saw a quiet but significant refresh of senior posts in UK counter-terrorism and in agencies previously influenced by U.S.-style Heritage-aligned networks.  
 The rotation didn’t come with slogans or manifestos; its importance lies in what it replaced — a generation of *status-quo stewards* who treated risk and culture as exercises in reputation management.
 
@@ -12,7 +12,7 @@ Polaris marks this as a **positive drift**: evidence that the civic immune syste
 
 ---
 
-## 🔄 From Heritage Patronage to Civic Competence  
+## 🌀 From Heritage Patronage to Civic Competence  
 
 | Old Guard Logic | Emerging Logic |
 |-----------------|----------------|
@@ -41,7 +41,7 @@ The positive drift is not revolution; it’s the slow rotation that stops system
 
 ---
 
-## 🧱 Context Note — The Heritage Foundation  
+## 🦤 Context Note — The Heritage Foundation  
 
 The **Heritage Foundation** is a U.S. conservative policy think-tank founded in 1973, long aligned with Republican administrations.  
 Its model of governance emphasises ideological loyalty, donor influence, and media choreography over public-sector procedure.  
@@ -51,7 +51,7 @@ The current reshuffle moves authority away from those circles toward **civic-pro
 ---
 
 ## 🌌 Constellations  
-🕊️ Witness · 🏛️ Governance · ⚖️ Civic Repair  
+🕊️ 🏛️ ⚖️  
 
 ---
 
@@ -75,4 +75,4 @@ It logs incremental reform — the kind that rarely makes headlines but quietly 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-02-22_
