@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 If the fall of integrity is slow corrosion, the rise is painstaking translation.  
 It’s the work of turning satire back into procedure and shock back into law.  
