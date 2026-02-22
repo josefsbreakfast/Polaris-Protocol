@@ -1,5 +1,5 @@
 # 👁️ Restoring Epistemic Integrity  
-**First created:** 2025-11-19 | **Last updated:** 2026-01-08  
+**First created:** 2025-11-19 | **Last updated:** 2026-02-22  
 *How institutions rebuild the ability to interpret reality after collapse — reconstructing signal literacy, narrative coherence, meaning-making, and moral sight.*  
 
 ---
@@ -248,4 +248,4 @@ This is where Polaris ends this chapter.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-02-22_
