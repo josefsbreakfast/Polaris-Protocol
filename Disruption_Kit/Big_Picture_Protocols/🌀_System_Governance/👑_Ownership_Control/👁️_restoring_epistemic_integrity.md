@@ -1,249 +1,261 @@
 # 👁️ Restoring Epistemic Integrity  
 **First created:** 2025-11-19 | **Last updated:** 2026-02-22  
-*How institutions rebuild the ability to interpret reality after collapse — reconstructing signal literacy, narrative coherence, meaning-making, and moral sight.*  
+*How institutions regain control over their data, systems, and decision-making authority after epistemic collapse.*
 
 ---
 
 ## 🛰️ Orientation  
-Epistemic integrity is the institution’s ability to:
 
-- understand what it sees,  
-- interpret signals correctly,  
-- distinguish noise from meaning,  
-- read human behaviour accurately,  
-- recognise bias in its tools,  
-- maintain coherent internal narratives,  
-- hold its own data with honesty,  
-- perceive the truth about its users.
+Epistemic integrity is not abstract “truthfulness.”  
+It is operational control over:
 
-Collapse destroys this ability.  
-Restoring it requires more than technical repair.
+- what the institution knows,
+- how it knows it,
+- who owns that knowledge,
+- how decisions are derived from it,
+- and whether leadership can meaningfully govern the systems in their name.
 
-It requires the institution to **learn to see again**.
+When epistemic integrity collapses, institutions lose:
 
-This is the final stage of institutional recovery.
+- signal literacy,
+- narrative coherence,
+- data custody,
+- system clarity,
+- and moral proportionality.
 
----
+Restoring epistemic integrity is therefore a sovereignty question:
 
-# 🧩 The Four Dimensions of Epistemic Integrity  
+> **Does the institution actually control its own perception of reality?**
 
-To regain epistemic integrity, institutions must rebuild:
-
----
-
-## **1. Signal Literacy**  
-*“Can we understand what a human is actually doing?”*
-
-Signal literacy includes:
-
-- tone comprehension,  
-- trauma-response understanding,  
-- cross-cultural interpretation,  
-- diaspora complexity,  
-- minority humour and register variation,  
-- contextual reasoning.
-
-Institutions retrain staff not to misinterpret:
-
-- clarity as aggression,  
-- humour as instability,  
-- trauma calm as concealment,  
-- solidarity as risk.
-
-### Restored outcomes:
-- fewer safeguarding errors  
-- fewer tone misreads  
-- fewer identity–behaviour mismatches
+If not, it is governing blind.
 
 ---
 
-## **2. Narrative Coherence**  
-*“Can we hold a consistent internal story?”*
+# 🧩 The Four Control Dimensions of Epistemic Integrity  
 
-Epistemic integrity requires:
-
-- unified institutional memory,  
-- cross-team agreement on facts,  
-- clear mapping of data pathways,  
-- elimination of contradictions,  
-- aligned governance decisions.
-
-### Restored outcomes:
-- fewer FOI/SAR contradictions  
-- stable messaging  
-- consistent policy interpretation  
-- coherent internal briefings  
+Epistemic restoration requires rebuilding four forms of institutional control.
 
 ---
 
-## **3. Ontological Clarity**  
-*“Do we understand what our systems *are* now?”*
+## **1. Signal Literacy (Interpretive Control)**  
+*Can we accurately interpret human behaviour without overreach?*
 
-Institutions need clarity about:
+Signal literacy means:
 
-- what each system does,  
-- what data it processes,  
-- what is automated,  
-- what is inferred,  
-- what is vendor-owned,  
-- what counts as profiling,  
-- what counts as risk-scoring,  
-- what a synthetic persona even is.
+- tone comprehension,
+- trauma-response awareness,
+- cross-cultural interpretation,
+- minority and diaspora literacy,
+- contextual reasoning beyond risk heuristics.
 
-### Restored outcomes:
-- no more ghost pipelines  
-- no more phantom metadata  
-- no more unknown vendors  
-- systems matching public DPIAs  
+Failure here produces:
 
----
+- safeguarding over-escalation,
+- identity–stance mismatches,
+- misclassification cascades.
 
-## **4. Moral Sight**  
-*“Can we understand the human stakes again?”*
+Restoration restores proportionality.
 
-Collapse happens partly because humans stop being fully seen.  
-Epistemic restoration reintroduces:
-
-- empathy literacy,  
-- survivor awareness,  
-- diaspora history,  
-- minority context,  
-- structural harm recognition.
-
-### Restored outcomes:
-- ethical decision-making  
-- proportionality  
-- fairness  
-- reduced institutional overreaction  
-- re-humanisation of users  
+This is interpretive sovereignty.
 
 ---
 
-# 💥 The Three-Stage Process of Epistemic Restoration  
+## **2. Narrative Coherence (Institutional Memory Control)**  
+*Do we hold one consistent internal version of reality?*
 
-Institutions rebuild epistemic integrity through three overlapping stages:
+Narrative coherence requires:
 
----
+- unified institutional memory,
+- cross-team agreement on fact patterns,
+- traceable data pathways,
+- elimination of contradictory records,
+- alignment between public statements and internal logs.
 
-## **Stage 1 — Exposure of Truth**  
-This includes:
+Indicators of collapse:
 
-- contradiction mapping,  
-- metadata reconstruction,  
-- recognition of modelling failures,  
-- admission that the system no longer matched reality.
+- FOI/SAR contradictions,
+- inconsistent briefings,
+- shifting explanations,
+- parallel internal narratives.
 
-The institution sees the fracture.
-
----
-
-## **Stage 2 — Reconciliation With Reality**  
-This stage involves:
-
-- correcting DPIAs,  
-- updating governance,  
-- retiring flawed models,  
-- fixing vendor relationships,  
-- amending inaccurate records,  
-- recalibrating internal narratives.
-
-The institution stops fighting the truth  
-and begins walking toward it.
+Restoration re-establishes internal custody of fact.
 
 ---
 
-## **Stage 3 — Recommitment to Meaning**  
-The final stage:
+## **3. Ontological Clarity (System Control)**  
+*Do we understand what our systems actually are and do?*
 
-- interpretive competence training  
-- minority/trauma literacy integration  
-- community accountability  
-- transparent communication  
-- long-term oversight  
-- ethos renewal
+Institutions must know:
 
-This is the moment the institution learns  
-how to **see complexity without collapsing**.
+- which systems are automated,
+- which are inferential,
+- which are vendor-operated,
+- what counts as profiling,
+- what constitutes risk scoring,
+- what synthetic personas are,
+- where metadata flows.
 
-It is the return of epistemic stability.
+Without ontological clarity:
 
----
+- ghost pipelines proliferate,
+- DPIAs become fiction,
+- vendors outpace oversight,
+- leadership loses effective control.
 
-# 🔍 Indicators That Epistemic Integrity Has Been Restored  
+Restoration here is data sovereignty.
 
-You’ll see:
-
-### ✔ tone-accurate interpretation  
-### ✔ minority registers correctly understood  
-### ✔ usable, consistent metadata  
-### ✔ coherent answers across departments  
-### ✔ reduced safeguarding escalation  
-### ✔ stable senior governance  
-### ✔ clarity in FOI and SAR responses  
-### ✔ dependable timelines  
-### ✔ honest error acknowledgements  
-### ✔ no reliance on synthetic personas for decision-making  
-### ✔ strengthened DPIA and vendor oversight  
-### ✔ institutional confidence without defensiveness
-
-Everything stabilises because **meaning** has returned.
+If you cannot describe your stack, you do not govern it.
 
 ---
 
-# 📉 What Happens If Epistemic Integrity Is Not Restored  
-Without epistemic restoration, institutions:
+## **4. Moral Sight (Proportional Authority Control)**  
+*Can we perceive the human stakes accurately and respond proportionally?*
 
-- repeat collapse cycles,  
-- misinterpret users again,  
-- misuse risk engines,  
-- lose public trust,  
-- panic at every anomaly,  
-- rely on broken vendors,  
-- escalate unnecessarily.
+Moral sight includes:
 
-Reconstruction logic (Node 43) is **not enough**  
-without epistemic restitution.
+- survivor awareness,
+- minority context,
+- structural harm recognition,
+- proportional response discipline.
+
+When moral sight collapses:
+
+- anomaly triggers panic,
+- overreaction becomes routine,
+- dissent becomes risk-coded,
+- escalation replaces judgement.
+
+Restoration reintroduces calibrated authority.
 
 ---
 
-# 🧠 Key Insight  
-> **Epistemic integrity is the ability to perceive reality truthfully.  
+# 💥 The Three-Stage Restoration Process  
+
+Epistemic integrity does not return automatically.  
+It is rebuilt deliberately.
+
+---
+
+## **Stage 1 — Exposure (Loss of Control Recognised)**  
+
+- Contradiction mapping.
+- Metadata reconstruction.
+- Vendor audit.
+- Recognition that declared system ≠ actual system.
+- Admission that decision logic drifted from mandate.
+
+This stage answers:
+
+> Where did we lose custody?
+
+---
+
+## **Stage 2 — Reassertion (Control Reclaimed)**  
+
+- Correcting DPIAs.
+- Rewriting governance boundaries.
+- Retiring opaque models.
+- Renegotiating vendor authority.
+- Amending inaccurate records.
+- Clarifying escalation pathways.
+
+This stage answers:
+
+> Who now owns what?
+
+Epistemic sovereignty is re-established through clear custody.
+
+---
+
+## **Stage 3 — Stabilisation (Meaning Reintegrated)**  
+
+- Interpretive competence training.
+- Transparent communication.
+- Oversight reinforcement.
+- Community accountability.
+- Documentation discipline.
+
+This stage ensures:
+
+> Control does not silently drift again.
+
+---
+
+# 🔍 Operational Indicators of Restoration  
+
+Epistemic integrity is visible when:
+
+- ✔ FOI/SAR answers are consistent across departments  
+- ✔ Risk classification logic is explainable  
+- ✔ Vendor responsibilities are documented and enforced  
+- ✔ Escalation pathways are clear and usable  
+- ✔ Metadata is traceable and auditable  
+- ✔ Leadership can accurately describe system architecture  
+- ✔ Tone and behaviour are interpreted proportionally  
+- ✔ Error acknowledgement is specific, not euphemistic  
+- ✔ Synthetic personas are not decision proxies  
+- ✔ DPIAs match operational reality  
+
+When these stabilise, sovereignty has returned.
+
+---
+
+# 📉 If Integrity Is Not Restored  
+
+Without epistemic sovereignty, institutions:
+
+- misinterpret users repeatedly,
+- outsource judgement to vendors,
+- over-escalate minor anomalies,
+- panic at feedback,
+- fracture internally,
+- lose public trust,
+- drift into reflexive suppression.
+
+Collapse becomes cyclical.
+
+Control becomes performative.
+
+---
+
+# 🧠 Core Insight  
+
+> Epistemic integrity is institutional sight plus institutional custody.  
 >  
-> Without it, institutions collapse.  
-> With it, they become capable of fairness again.  
+> It is the ability to perceive reality and own the consequences of that perception.  
 >  
-> Restoring epistemic integrity is not a technical process —  
-> it is a moral one.**
+> Without custody, there is no sovereignty.  
+> Without sovereignty, there is no proportional governance.
 
-This is the true end of the collapse arc.
+Restoring epistemic integrity is not cosmetic reform.  
+It is regaining the ability to govern deliberately rather than reactively.
 
 ---
 
 # 🌌 Constellations  
-Epistemic_Restoration · Institutional_Reconstruction · Narrative_Coherence · Signal_Literacy · Moral_Sight  
+
+👁️ 👑 🧭 🧱 ⚖️  
+
+---
+
+# ✨ Stardust  
+
+epistemic integrity, data sovereignty, signal literacy, narrative coherence, vendor governance, custody of process, institutional control, DPIA accuracy, proportional escalation, system ontology clarity
 
 ---
 
 # 🏮 Footer  
-This is the capstone of the *Institutional Collapse → Reconstruction* constellation.  
-It completes the arc that began with:  
 
-and concludes with:
+*👁️ Restoring Epistemic Integrity* reframes institutional recovery as a question of control, custody, and sovereignty over data and decision-making systems.
 
-> **The restoration of the institution’s ability to see truthfully.**
-
-This is where Polaris ends this chapter.  
+It completes the collapse → reconstruction arc by identifying the moment an institution regains the ability to see clearly — and govern what it sees.
 
 > 📡 Cross-references:
 > 
-> - [🧩 Identity–Stance Mismatch Architecture](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧩_identity_stance_mismatch_architecture.md)  
-> - [👻 Ghost Persona Error Modes](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/👻_ghost_persona_error_modes.md)  
-> - [🦤 Signal Collapse](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🦤_signal_collapse.md)  
-> - [💥 Institutional Panic Dynamics](../💫_Containment_Logic/💥_institutional_panic_dynamics.md)  
-> - [🧬 Centroid Collapse](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧬_centroid_collapse.md)  
-> - [*Pending:* 🏚️ Full-Stack Institutional Failure]  
-> - [🏚️ Seven Layers of Safeguard Breakdown](../💫_Containment_Logic/🏚️_seven_layers_of_safeguard_breakdown.md)  
-> - [*Pending:* 🧱 Reconstruction Logic]  
+> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md)  
+> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md)  
+> - [🧭 Reflexive Risk](./🧭_reflexive_risk.md)  
+> - [🪡 Oversight Repair Kit](./🪡_oversight_repair_kit.md)  
 > - [🏗️ Corrective Governance Architecture](../💫_Containment_Logic/🏗️_corrective_governance_architecture.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
