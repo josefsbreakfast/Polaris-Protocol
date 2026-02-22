@@ -1,6 +1,8 @@
 # 🪄 Branding Usage Guide  
-**First created:** 2025-08-17 | **Last updated:** 2025-09-12 <br>
+**First created:** 2025-08-17 | **Last updated:** 2026-02-22  
 *How to apply branding consistently across Polaris Protocol.*  
+
+---
 
 - **Headers**: use constellation core (🌌, 🕯, 🛰️) for structure.  
 - **Tables**: use warm highlights (🍊, 🦊, 🐝) for emphasis.  
