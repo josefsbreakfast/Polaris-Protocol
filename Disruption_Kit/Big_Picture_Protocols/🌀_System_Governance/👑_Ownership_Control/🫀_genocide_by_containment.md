@@ -1,5 +1,5 @@
 # 🫀 Genocide by Containment  
-**First created:** 2025-09-03 | **Last updated:** 2026-01-08  
+**First created:** 2025-09-03 | **Last updated:** 2026-02-22  
 *How bureaucratic disposal mechanisms escalate into genocidal practice.*  
 
 ---
@@ -89,4 +89,4 @@ It documents how ordinary bureaucratic systems — housing, surveillance, counte
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-02-22_
