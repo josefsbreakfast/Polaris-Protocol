@@ -1,6 +1,6 @@
 # 🍌 Project 2025 UK Edition — A Field Guide for Aspiring Dodos  
-**First created:** 2025-10-27 | **Last updated:** 2026-02-19  
-*An educational safari through late-stage governance mimicry, for those who wish to spot the warning signs before they molt.*  
+**First created:** 2025-10-27 | **Last updated:** 2026-02-22  
+*An educational safari through late-stage governance mimicry, for those who wish to spot the warning signs before they molt.*
 
 ---
 
@@ -17,6 +17,15 @@ Inside you’ll find:
 
 None of these files are blueprints.  
 They are *vaccines*: small doses of absurdity administered to build institutional immunity.
+
+---
+
+## 📊 Quarterly Archive  
+
+| Quarter  | Risk Matrix (MD) | Risk Matrix (YAML) | Patch Plan (MD) | Patch Plan (YAML) | Watchlist |
+|:---------|:------------------|:-------------------|:----------------|:------------------|:----------|
+| 2025-Q4  | [View](./🇬🇧_uk_entrenchment_risk_matrix_2025_Q4.md) | [Data](./🇬🇧_uk_entrenchment_risk_matrix_2025_Q4.yaml) | [View](./🇬🇧_uk_democratic_safeguards_patch_plan_2025_Q4.md) | [Data](./🇬🇧_uk_democratic_safeguards_patch_plan_2025_Q4.yaml) | [YAML](./🇬🇧_uk_entrenchment_watchlist_2025_Q4.yaml) |
+| 2026-Q1  | [View](./🇬🇧_uk_entrenchment_risk_matrix_2026_Q1.md) | [Data](./🇬🇧_uk_entrenchment_risk_matrix_2026_Q1.yaml) | — | — | — |
 
 ---
 
@@ -61,11 +70,11 @@ It documents how imported governance pathogens might adapt to local conditions, 
 
 > 📡 Cross-references:
 > 
-> - [🇬🇧 Entrenchment Watchlist](./🇬🇧_uk_entrenchment_watchlist.yaml)  
-> - [🇬🇧 Risk Matrix](./🇬🇧_uk_entrenchment_risk_matrix.md)  
-> - [🇬🇧 Patch Plan](./🇬🇧_uk_democratic_safeguards_patch_plan.md)  
+> - [🇬🇧 Entrenchment Watchlist (2025-Q4)](./🇬🇧_uk_entrenchment_watchlist_2025_Q4.yaml)  
+> - [🇬🇧 Risk Matrix (2026-Q1)](./🇬🇧_uk_entrenchment_risk_matrix_2026_Q1.md)  
+> - [🇬🇧 Democratic Safeguards Patch Plan (2025-Q4)](./🇬🇧_uk_democratic_safeguards_patch_plan_2025_Q4.md)  
 > - [✨ Glimmer Is Taxable README](../../README.md)  
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-02-22_
