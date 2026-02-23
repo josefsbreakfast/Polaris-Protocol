@@ -1,13 +1,27 @@
 # 👑 Asserting Sovereignty After Allied Interference  
-**First created:** 2025-10-26 | **Last updated:** 2026-02-22  
+**First created:** 2025-10-26 | **Last updated:** 2026-02-23  
 *How a Five Eyes or allied state reclaims jurisdiction when another partner’s operations breach its laws or harm its citizens.*  
 
 ---
 
-## 🛰️ Scope  
+## 🛰️ Orientation  
 
-Defines the **sovereignty-reassertion process** that should occur when one intelligence or security partner (e.g., within the Five Eyes alliance) is found to have interfered unlawfully inside another’s jurisdiction.  
-Maps the shift from quiet diplomacy to legal assertion — the moment a state must treat ally behaviour as a breach of domestic law, not merely a coordination error.
+Alliances are built on trust.  
+Sovereignty is built on law.
+
+When allied cooperation crosses into unlawful interference, the test is not diplomatic comfort — it is constitutional integrity.
+
+This node defines the sovereignty-reassertion process that must activate when one intelligence or security partner (e.g., within the Five Eyes alliance) breaches domestic law, harms nationals, or exceeds authorised cooperation inside another’s jurisdiction.
+
+The shift required is subtle but decisive:
+
+From quiet coordination  
+to lawful substitution.
+
+From alliance discretion  
+to domestic jurisdiction.
+
+A democratic state proves its sovereignty not by hostility toward allies, but by demonstrating that no partner operates above its law.
 
 ---
 
@@ -127,6 +141,26 @@ This “three-month window” is therefore treated in the **Polaris Protocol** a
 
 ---
 
+## 🏮 Closing Principle  
+
+Sovereignty is not theatrical independence.
+
+It is the routine ability to:
+
+- seize evidence,
+- suspend access,
+- compel testimony,
+- prosecute if required,
+- and revise treaties without hesitation.
+
+Alliances endure when they are lawful.  
+They corrode when legality becomes optional.
+
+The strength of a state is measured not by how tightly it clings to partners,  
+but by how confidently it can hold its own amongst them.  
+
+---
+
 ## 🌌 Constellations  
 
 🪄 🧿 🛡️ — norms, sovereignty, oversight, allied interference.
@@ -154,4 +188,4 @@ It details the legal and diplomatic mechanisms by which a state reclaims jurisdi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-02-23_
