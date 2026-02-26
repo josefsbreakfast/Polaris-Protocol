@@ -114,7 +114,7 @@ The music stops.
 🇷🇺 🎭 🎺 🧊 🪦 — elder influence collapse; aesthetic decapitation; performer loss; bunker authoritarianism.  
 
 *Further media:*  
-- [No notes.](https://vm.tiktok.com/ZNR5nb7aw/) Whilst camp is not simply the preserve of the queers, do not tell me that society does not need us; none of you would survive without us.  
+- [No notes.](https://vm.tiktok.com/ZNR5nb7aw/) Whilst camp is not simply the preserve of the queers, do not tell me that society does not need us; [none of you would survive a Europa without us](https://vm.tiktok.com/ZNR5nGMq4/).  
 
 ---
 
