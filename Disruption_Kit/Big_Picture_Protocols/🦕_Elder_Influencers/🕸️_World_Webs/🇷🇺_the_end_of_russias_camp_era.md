@@ -1,5 +1,5 @@
 # 🇷🇺 The End of Russia’s Camp Era  
-**First created:** 2025-11-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-20 | **Last updated:** 2026-02-26  
 *How Russia moved from flamboyant, theatrical soft power to bunker-grey authoritarianism — and why the Alexandrov Ensemble crash marks the point of no return.*  
 
 ---
@@ -111,7 +111,10 @@ The music stops.
 ---
 
 ## 🌌 Constellations  
-🇷🇺 🎭 🎺 🧊 🪦 — elder influence collapse; aesthetic decapitation; performer loss; bunker authoritarianism.
+🇷🇺 🎭 🎺 🧊 🪦 — elder influence collapse; aesthetic decapitation; performer loss; bunker authoritarianism.  
+
+*Further media:*  
+- [No notes.](https://vm.tiktok.com/ZNR5nb7aw/) Whilst camp is not simply the preserve of the queers, do not tell me that society does not need us; none of you would survive without us.  
 
 ---
 
@@ -135,4 +138,4 @@ It documents how aesthetic systems collapse alongside political legitimacy — a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-02-26_
