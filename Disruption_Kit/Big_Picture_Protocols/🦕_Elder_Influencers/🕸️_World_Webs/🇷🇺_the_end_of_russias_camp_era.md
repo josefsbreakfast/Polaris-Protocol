@@ -8,7 +8,7 @@
 Russia once understood camp — not as irony, but as **performative excess in service of power**.  
 Uniforms shimmered. Choirs thundered. The state sang.
 
-That era is over.
+That era is over; the Russian state apparatus is drab, once again.
 
 This node traces the **death of Russian camp-authoritarianism**, locating its symbolic rupture in the 2016 crash that killed much of the Alexandrov Ensemble (the Red Army Choir) — and with it, the last credible performers of imperial spectacle.
 
@@ -24,9 +24,7 @@ This node traces the **death of Russian camp-authoritarianism**, locating its sy
 
 ---
 
-## 🧿 Analysis / Content  
-
-### 🎭 Camp as a Governance Technology  
+## 🎭 Camp as a Governance Technology  
 For decades, Russian power relied on **spectacle with a wink**.  
 The state did not merely command — it **performed**.
 
@@ -40,7 +38,7 @@ It gave citizens something to **feel**, not just fear.
 
 ---
 
-### 🎶 The Alexandrov Ensemble as Living Infrastructure  
+## 🎶 The Alexandrov Ensemble as Living Infrastructure  
 The Alexandrov Ensemble was not entertainment.  
 It was **infrastructure**.
 
@@ -57,7 +55,7 @@ It cannot easily regenerate performers.
 
 ---
 
-### ✈️ The Crash (2016): Aesthetic Decapitation Event  
+## ✈️ The Crash (2016): Aesthetic Decapitation Event  
 When the aircraft carrying much of the Ensemble crashed en route to Syria, the loss was framed as tragedy.
 
 It was also something else:
@@ -74,7 +72,7 @@ but **the regime’s ability to sing itself into legitimacy**.
 
 ---
 
-### 🧊 After Camp: The Bunker Aesthetic  
+## 🧊 After Camp: The Bunker Aesthetic  
 Post-crash, Russian state aesthetics shift decisively:
 
 - Muted palettes  
@@ -92,7 +90,7 @@ Who bunker down because spectacle now feels dangerous.
 
 ---
 
-### 🪦 Why Camp Never Returns  
+## 🪦 Why Camp Never Returns  
 Camp requires confidence.  
 Confidence requires surplus.
 
@@ -114,7 +112,8 @@ The music stops.
 🇷🇺 🎭 🎺 🧊 🪦 — elder influence collapse; aesthetic decapitation; performer loss; bunker authoritarianism.  
 
 *Further media:*  
-- [No notes.](https://vm.tiktok.com/ZNR5nb7aw/) Whilst camp is not simply the preserve of the queers, do not tell me that society does not need us; [none of you would survive a Europa without us](https://vm.tiktok.com/ZNR5nGMq4/).  
+- [No notes.](https://vm.tiktok.com/ZNR5nb7aw/) Whilst camp is not simply the preserve of the queers, do not tell me that society does not need us; [none of you would survive a Europa without us](https://vm.tiktok.com/ZNR5nGMq4/).
+- [Not necessarily queer, but queer coded.](https://youtu.be/RhMYBfF7-hE?si=y6aLCRqmT25Loxrs) You recognise them from Eurovision 2020/1, back when The Boringing was only halfway.  
 
 ---
 
