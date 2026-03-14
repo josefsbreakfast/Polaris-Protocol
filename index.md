@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-03-14 09:50:13 UTC_
+_Generated on 2026-03-14 09:51:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -90,6 +90,7 @@ _Generated on 2026-03-14 09:50:13 UTC_
         - [`🐥🦉_secretaries_of_banality.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🐥🦉_secretaries_of_banality.md)
         - [`🐦_the_tied_crow.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🐦_the_tied_crow.md)
         - [`🐦_the_unsolicited_cuckoo.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🐦_the_unsolicited_cuckoo.md)
+        - [`👻_ghost_flock_web_of_capture.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/👻_ghost_flock_web_of_capture.md)
         - [`📺_gb_not_news.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/📺_gb_not_news.md)
         - [`🦅_the_eagle_in_the_pigeon_suit.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🦅_the_eagle_in_the_pigeon_suit.md)
         - [`🦤_dodo_and_adjacent_activity_index.yaml`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🦤_dodo_and_adjacent_activity_index.yaml)
