@@ -1,5 +1,5 @@
 # 🦕 Post-Modern Fellow Travellers  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-16 | **Last updated:** 2026-03-17  
 *How non-malicious actors enable authoritarian outcomes inside behavioural-surveillance systems.*
 
 ---
@@ -30,9 +30,7 @@ This node explains how harmless intentions become **structural violence** inside
 
 ---
 
-## 🧿 Analysis / Content  
-
-# 1. **Who Are Fellow Travellers?**  
+## 🧿 Who Are Fellow Travellers?  
 They are not predators, bigots, or extremists.  
 They are:
 
@@ -48,7 +46,7 @@ They participate in harm unintentionally.
 
 ---
 
-# 2. **Why Fellow Travellers Matter More Than Villains**  
+## 👀 Why Fellow Travellers Matter More Than Villains  
 Authoritarian systems scale not through conviction but through **compliance**.
 
 Most escalation in Prevent-heavy systems originates from:
@@ -65,7 +63,7 @@ Harm doesn’t need an agent — it needs a process.
 
 ---
 
-# 3. **Mechanisms That Produce Fellow-Traveller Harm**
+## 👻 Mechanisms That Produce Fellow-Traveller Harm
 
 ### **a) Diffusion of Responsibility**  
 “I’m not accusing anyone — I’m just passing this on.”
@@ -87,7 +85,7 @@ If others act cautiously, the individual follows — to avoid being the outlier.
 
 ---
 
-# 4. **Why PREVENT Supercharges This Dynamic**  
+## 👾 Why PREVENT Supercharges This Dynamic  
 Prevent logic institutionalises:
 
 - worst-case thinking,  
@@ -111,7 +109,7 @@ PREVENT magnifies their fears into structural classification.
 
 ---
 
-# 5. **Typical Fellow-Traveller Behaviours**  
+## 🧨 Typical Fellow-Traveller Behaviours  
 
 - “That email felt off — maybe log it, just in case.”  
 - “She’s acting differently — can someone check?”  
@@ -125,7 +123,7 @@ Small actions become large outcomes.
 
 ---
 
-# 6. **How Fellow Travellers Amplify Predators**  
+## 🦖 How Fellow Travellers Amplify Predators  
 Predators rarely act alone.  
 They rely on well-meaning colleagues who:
 
@@ -142,7 +140,7 @@ Good people can — and often do — become the machinery of harm.
 
 ---
 
-# 7. **Survivor Experience: It Feels Like a Network**  
+## 💀 Survivor Experience: It Feels Like a Network  
 To a targeted individual, this distributed procedural obedience feels like:
 
 - everyone is aligned against them,  
@@ -175,4 +173,4 @@ It examines how ordinary procedural behaviour — not malice — produces author
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-03-17_
