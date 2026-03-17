@@ -338,3 +338,5 @@ When you’re ready, next we could:
 	•	co-design a standard “metaphor preface” for nodes so this stays coherent as the archive grows.
 
 This way of thinking will carry you a long way.
+
+> nb: https://en.wikipedia.org/wiki/Living_root_bridge
