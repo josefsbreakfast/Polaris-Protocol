@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-03-17 23:18:46 UTC_
+_Generated on 2026-03-18 01:48:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1164,6 +1164,7 @@ _Generated on 2026-03-17 23:18:46 UTC_
         - [`📚_the_tenth_library.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📚_the_tenth_library.md)
         - [`📜_torah_as_structure_of_truth.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📜_torah_as_structure_of_truth.md)
         - [`📯_soundline_bark_to_trumpet.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📯_soundline_bark_to_trumpet.md)
+        - [`📯_visions_of_isiah_jersusalem_tripwire_stack.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📯_visions_of_isiah_jersusalem_tripwire_stack.md)
         - [`📿_strength_as_gihasta.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📿_strength_as_gihasta.md)
         - [`🔥_hasidic_thought_vs_state_violence_inversion.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🔥_hasidic_thought_vs_state_violence_inversion.md)
         - [`🔥_the_witchings_of_europe.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🔥_the_witchings_of_europe.md)
