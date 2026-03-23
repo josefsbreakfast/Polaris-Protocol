@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-03-23 05:54:13 UTC_
+_Generated on 2026-03-23 07:16:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5351,6 +5351,7 @@ _Generated on 2026-03-23 05:54:13 UTC_
       - [`📚_narrative_management_and_metadata_sabotage.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_narrative_management_and_metadata_sabotage.md)
       - [`📚_the_streisand_effect_of_justice_irving_v_lipstadt.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_the_streisand_effect_of_justice_irving_v_lipstadt.md)
       - [`📩_the_fictional_email_problem.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📩_the_fictional_email_problem.md)
+      - [`🔥_narrative_air_gaps.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_narrative_air_gaps.md)
       - [`🔥_the_strength_of_humour.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_the_strength_of_humour.md)
       - [`🔥_when_refusal_is_framed_as_threat.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🔥_when_refusal_is_framed_as_threat.md)
       - [`🗂️_when_institutions_start_treating_you_as_a_category_not_a_person.md`](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗂️_when_institutions_start_treating_you_as_a_category_not_a_person.md)
