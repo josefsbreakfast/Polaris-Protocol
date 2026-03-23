@@ -1,4 +1,8 @@
-# 🔥 Narrative Air Gaps & Curiosity Capture
+# 🔥 Narrative air gaps & curiosity capture  
+First created: 2026-03-23 | Last updated: 2026-03-23  
+Model of how unresolved curiosity converts into narrative distortion and propagates across networks
+
+---
 
 ## Core Idea
 
@@ -15,76 +19,76 @@ Under conditions of attention, uncertainty, and exposure to narrative ecosystems
 ## System Model
 
 ### 1. Latent State (Air Gap)
-- Incomplete understanding  
-- Missing functional explanation  
-- Often unnoticed in low-attention conditions  
+- incomplete understanding  
+- missing functional explanation  
+- often unnoticed under low-attention conditions  
 
 ---
 
 ### 2. Curiosity Trigger
 > “Why is this happening?”
 
-- Natural human response to unfamiliarity  
-- Not inherently hostile  
+- natural human response to unfamiliarity  
+- not inherently hostile  
 
 ---
 
 ### 3. Failure of Closure
-- No clear explanation available  
-- Conflicting or absent information  
-- Creates cognitive tension
+- no clear explanation available  
+- conflicting or absent information  
+- creates cognitive tension  
 
 ---
 
 ### 4. Emotional Conversion
-- Curiosity → frustration  
-- Frustration → suspicion  
-- Suspicion → outrage  
+- curiosity → frustration  
+- frustration → suspicion  
+- suspicion → outrage  
 
-> Unresolved questions accumulate pressure
+> unresolved questions accumulate pressure  
 
 ---
 
 ### 5. Interception & Redirection
-- First available explanation is encountered  
-- Often:
+- first available explanation is encountered  
+- typically:
   - simple  
   - emotionally charged  
   - morally framed  
 
-> First explanation wins. Emotional explanation spreads.
+> first explanation wins; emotional explanation spreads  
 
 ---
 
 ### 6. Network Amplification
-- Meme repetition  
-- Narrative alignment  
-- Cross-platform spread  
+- meme repetition  
+- narrative alignment  
+- cross-platform spread  
 
-> The gap becomes a propagation channel, not just an absence
+> the gap becomes a propagation channel, not just an absence  
 
 ---
 
 ## Key Principle
 
-> Misinformation succeeds not just by being present, but by resolving discomfort faster than accurate explanations.
+> misinformation succeeds not just by being present, but by resolving discomfort faster than accurate explanations  
 
 ---
 
 ## Risk Factors (High Flammability Conditions)
 
-- Visible but unexplained difference  
-- Minority or unfamiliar community practices  
-- High-attention events (violence, crisis, geopolitics)  
-- Existing narrative pipelines (e.g. conspiracy ecosystems)  
+- visible but unexplained difference  
+- minority or unfamiliar community practices  
+- high-attention events (violence, crisis, geopolitics)  
+- existing narrative pipelines (e.g. conspiracy ecosystems)  
 
 ---
 
-## Example 1: Hatzolah / “Jewish Ambulances”
+## Example 1: Hatzolah / “Jewish ambulances”
 
 ### Air Gap
-- Visible: Jewish volunteer ambulance service  
-- Missing: function, integration, purpose  
+- visible: Jewish volunteer ambulance service  
+- missing: function, integration, purpose  
 
 ### Curiosity
 > “Why do they have their own ambulances?”
@@ -92,34 +96,34 @@ Under conditions of attention, uncertainty, and exposure to narrative ecosystems
 ---
 
 ### Narrative Capture
-- “They operate separately”  
-- “They don’t follow the same rules”  
-- “They have parallel systems”
+- “they operate separately”  
+- “they don’t follow the same rules”  
+- “they have parallel systems”  
 
 ---
 
 ### Reality (Closure)
-- Volunteer emergency responders  
-- Work alongside public systems (e.g. NHS)  
-- Improve access and response time in specific communities  
+- volunteer emergency responders  
+- operate alongside public systems (e.g. NHS)  
+- improve access and response time within specific communities  
 
 ---
 
 ### System Effect
-- Anti-Jewish framing acts as a gateway narrative
-- Historically and structurally:
+- anti-Jewish framing acts as a gateway narrative  
+- historically and structurally:
   - antisemitic conspiracy logic scales outward  
   - becomes a backbone for wider conspiracy ecosystems  
 
-> This is not a contained narrative—it cascades
+> not a contained narrative — it cascades  
 
 ---
 
-## Example 2: Muslim Prayer in Trafalgar Square
+## Example 2: Muslim prayer in Trafalgar Square
 
 ### Air Gap
-- Visible: gender-separated prayer arrangement  
-- Missing: functional and cultural explanation  
+- visible: gender-separated prayer arrangement  
+- missing: functional and cultural explanation  
 
 ### Curiosity
 > “Why are women at the back?”
@@ -127,27 +131,27 @@ Under conditions of attention, uncertainty, and exposure to narrative ecosystems
 ---
 
 ### Narrative Capture
-- “Women are being oppressed”  
-- “They are unequal”  
+- “women are being oppressed”  
+- “they are unequal”  
 
 ---
 
 ### Reality (Closure)
-- Spatial organisation linked to:
+- spatial organisation linked to:
   - modesty norms  
   - focus during prayer  
   - practical considerations  
 
-- Not inherently a statement of value or hierarchy  
+- not inherently a statement of value or hierarchy  
 
 ---
 
 ### System Effect
-- Anti-Muslim framing generalises quickly into:
+- anti-Muslim framing generalises into:
   - broader racialised suspicion  
   - cultural threat narratives  
 
-> Becomes a bridge into wider racism beyond the original context
+> becomes a bridge into wider racism beyond the original context  
 
 ---
 
@@ -155,19 +159,19 @@ Under conditions of attention, uncertainty, and exposure to narrative ecosystems
 
 Different targets, same mechanism:
 
-- Anti-Jewish narratives → fuel conspiracy ecosystems broadly  
-- Anti-Muslim narratives → normalise wider racialised hostility  
+- anti-Jewish narratives → fuel conspiracy ecosystems broadly  
+- anti-Muslim narratives → normalise wider racialised hostility  
 
 Both:
-👉 scale beyond their initial subject
+→ scale beyond their initial subject  
 
 ---
 
 ## The ELI5 Closure Rule
 
-> If a reasonable child could ask a basic “why” question, and it isn’t answered simply, a narrative air gap exists.
+> if a reasonable child could ask a basic “why” question, and it is not answered simply, a narrative air gap exists  
 
-Effective closure:
+Effective closure is:
 - short  
 - functional  
 - familiar  
@@ -177,7 +181,7 @@ Effective closure:
 ## Failure Modes
 
 ### Under-explanation
-- leaves gap open  
+- leaves the gap open  
 - invites distortion  
 
 ---
@@ -196,16 +200,16 @@ Effective closure:
 
 ## Stabilisation Strategy
 
-1. Answer the actual question
-2. Provide functional explanation
-3. Anchor to familiar concepts
-4. Do it early (before narrative capture)
+1. answer the actual question  
+2. provide functional explanation  
+3. anchor to familiar concepts  
+4. act early (before narrative capture)  
 
 ---
 
 ## Final Model
 
-> Air Gap × Attention × Exposure × Lack of Closure → Narrative Ignition
+> air gap × attention × exposure × lack of closure → narrative ignition  
 
 ---
 
@@ -215,8 +219,34 @@ Narrative instability is not driven solely by false information.
 
 It is driven by:
 
-> unresolved curiosity under pressure
+> unresolved curiosity under pressure  
 
 If that curiosity is not satisfied clearly and quickly:
 
-> it will be satisfied emotionally—and that version will spread.
+> it will be satisfied emotionally — and that version will spread  
+
+---
+
+## 🌌 Constellations  
+🧠 🔍 🔥 🧩 — diagnostic model of narrative ignition and propagation dynamics  
+
+---
+
+## ✨ Stardust  
+narrative gaps, curiosity dynamics, misinformation spread, cognitive tension, narrative capture, emotional escalation, conspiracy formation, cultural misinterpretation, information voids, network amplification  
+
+---
+
+## 🏮 Footer  
+
+Narrative air gaps & curiosity capture is a living node of the Polaris Protocol.  
+It defines the mechanism by which unresolved curiosity converts into emotionally charged narratives and scales across networked systems.
+
+> 📡 Cross-references:
+> 
+> - Big Picture Protocols — systemic models of narrative behaviour  
+> - Survivor Tools — applied countermeasures and communication strategies  
+
+Survivor authorship is sovereign. Containment is never neutral.  
+
+Last updated: 2026-03-23
