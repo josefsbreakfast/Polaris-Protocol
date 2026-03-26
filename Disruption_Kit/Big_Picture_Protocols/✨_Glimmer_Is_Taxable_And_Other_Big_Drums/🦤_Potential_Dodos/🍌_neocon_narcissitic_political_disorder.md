@@ -18,6 +18,8 @@ NNPD is not clinical; it is a cultural symptom of post-imperial male interiority
 
 For this to be a clinically remarkable finding, it would have to be abberant of the norm; unfprtunately it is altogether far too common to be argued to be pathological.  
 
+We shall be utilising a real-life example, because I have spent far too much time in the unwanted digital vicinity of the males of my species.  
+
 ---
 
 ## 🧪 Symptoms (A Very Serious List. Definitely Not Satire.)  
