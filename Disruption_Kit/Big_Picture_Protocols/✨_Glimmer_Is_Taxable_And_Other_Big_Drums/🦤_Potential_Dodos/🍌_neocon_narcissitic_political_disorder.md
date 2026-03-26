@@ -1,11 +1,11 @@
 # 🍌 Neocon Narcissitic Political Disorder  
-**First created:** 2025-11-24 | **Last updated:** 2026-02-19  
+**First created:** 2025-11-24 | **Last updated:** 2026-03-26  
 *An unfortunately common phenomenon in the Cold War Baby class; the underlying cause of the Radioactive Jelly Baby Voter subtype.*
 
 ---
 
 ## 🛰️ Overview  
-**Neocon Narcissitic Political Disorder (NNPD)** is a satirical diagnostic category capturing a specific personality-political fusion common among Cold Water Baby–era men raised on a diet of geopolitical exceptionalism, West Wing moralism, and inherited imperial hangover.
+Neocon Narcissitic Political Disorder (NNPD) is a not-at-all-satirical diagnostic category capturing a specific personality-political fusion common among Cold Water Baby–era men raised on a diet of geopolitical exceptionalism, West Wing moralism, and inherited imperial hangover.
 
 These men exhibit:
 - interpretive narcissism,  
@@ -14,29 +14,27 @@ These men exhibit:
 - emotional projection onto media archetypes,  
 - and confusing sexual fantasy metadata with real-world narrative relevance.
 
-NNPD is not clinical; it is a cultural symptom of post-imperial male interiority colliding with digital platforms that reward narrative delusion.
+NNPD is not clinical; it is a cultural symptom of post-imperial male interiority colliding with digital platforms that reward narrative delusion.  
+
+For this to be a clinically remarkable finding, it would have to be abberant of the norm; unfprtunately it is altogether far too common to be argued to be pathological.  
 
 ---
 
-## 🧪 Symptoms (Very Serious. Definitely Not Satire.)  
-- **Everything is about them.**  
+## 🧪 Symptoms (A Very Serious List. Definitely Not Satire.)  
+- **Everything is about Them.**  
   Critique, memes, Hamilton songs, Olivia Pope quotes — all treated as personalised messages.
-
 - **Deterrence-based courtship.**  
   They believe distance increases desirability and boundaries are negotiation tactics.
-
 - **Prestige-TV Identity Leakage.**  
   They map male protagonists onto themselves and female protagonists onto women who terrify them.
-
 - **Romanticising their guilt.**  
   Any woman they wronged becomes a tragic heroine in a drama only they are watching.
-
 - **Weak womanification of strong women.**  
   Every display of female moral force gets softened into secret longing.
 
 ---
 
-## 🧨 Etiology  
+## 🧨 Aetiology  
 Root causes include:
 
 ### 1. **Cold Water Baby Conditioning**  
@@ -59,26 +57,26 @@ Porn habits combined with algorithmic misinference feed a closed loop of “she 
 Men with NNPD cannot interpret female clarity, competence, or boundary-setting **outside of romantic frameworks**.  
 Thus the **Olivia Pope Misattribution Complex (OPMC)**:
 
-### Signs of OPMC  
+### 🔬 Signs of OPMC  
 - A woman exhibits moral clarity →  
-  **He interprets it as desire.**
+  **He interprets it as ✨desire✨.**
 
 - A woman stands up to him →  
-  **He interprets it as chemistry.**
+  **He interprets it as ✨chemistry✨.**
 
 - A woman expresses systemic critique →  
-  **He assumes she is talking about him.**
+  **He assumes ✨she is talking about him✨.**
 
 - A woman mentions Olivia Pope →  
-  **He casts himself as Fitz and assumes a gravity he has not earned.**
+  **He casts himself as Fitz and assumes a gravity he has not earned.** 🙄
 
-### Root Causes  
+### 🫚 Root Causes  
 - **Male-centric narrative templates**: women only exist as love interests.  
 - **Guilt projection**: his own wrongdoing becomes the lens for interpreting her tone.  
 - **Narrative discomfort**: he cannot process a woman having autonomy unrelated to him.  
 - **Psychic threat**: her clarity shreds his self-mythology.
 
-### Net Effect  
+### 🕳️ Net Effect  
 Her agency is reframed as **romantic devotion** rather than **political or personal sovereignty**.
 
 ---
@@ -87,24 +85,25 @@ Her agency is reframed as **romantic devotion** rather than **political or perso
 *How male sexual fantasy data bleeds into the recommendation streams of women who want nothing to do with them.*
 
 Algorithms inherit human interpretive narcissism.  
+
 Thus, TikTok combines **her media consumption** with **male porn metadata** to produce a false narrative dyad.
 
 This forms the **PornHub–TikTok Narrative Leakage Loop (PTNLL):**
 
-### Cycle  
+### ♻️ Cycle  
 1. **She watches Olivia Pope destroying corruption.**  
 2. **Men in her metadata sphere watch porn about angry, powerful women who secretly desire them.**  
 3. TikTok cross-links both behaviours as a “romantic storyline.”  
 4. She gets force-fed emotional-softening Olivia/Fitz edits.  
 5. He gets validation of his fantasy.
 
-### Why the system does this  
+### 💭 Why Does The System Do This?  
 - **Dyadic assumption bias**: intense female energy must be aimed at a male counterpart.  
 - **Porn-driven narrative simplification**: conflict → passion.  
 - **Patriarchal inference models**: women’s pain or clarity is softened into longing.  
 - **Metadata contagion**: male sexual patterns carry more algorithmic weight than female political content.
 
-### Consequences  
+### ⚔️ Consequences  
 Her political agency is overwritten by his sexual narrative.  
 She becomes Olivia-in-love, even when she is Olivia-in-war.
 
@@ -127,7 +126,7 @@ Thus:
 Male behaviour (especially sexual consumption) carries disproportionate narrative weight in recommendation systems.
 
 Thus:  
-**male porn = female storyline, whether or not she ever consented to this pairing.**
+*Male porn choices get delivered to the neighbouring female's storyline, whether or not she ever consented to this pairing.*  
 
 ### 3. **Dyadic Projection Templates**  
 Algorithms reconstruct narrative gaps using heterosexual dramatic tropes.
@@ -156,7 +155,7 @@ TikTok decides:
 In reality:
 - she is processing systems  
 - he is projecting  
-- and the algorithm is merging vibes, not truths  
+- and the algorithm is being a robot about the whole thing  
 
 ### 5. **Post-Imperial Data Romance**  
 Just as the state misreads dissent as sedition, men misread clarity as closeness, and platforms misread users as couples.
@@ -187,4 +186,4 @@ It analyses the narrative collapse point where male political self-importance, s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-03-26_
