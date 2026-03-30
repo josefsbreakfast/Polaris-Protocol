@@ -166,7 +166,134 @@ No configuration fully removes risk in connected systems.
 ---
 
 This layer does not prescribe behaviour.  
-It establishes that **variation in response is expected, valid, and must be accommodated**.
+It establishes that **variation in response is expected, valid, and must be accommodated**.  
+
+---
+
+## 🏛️ UK Policy Timeline (HD — Historical Drift)
+
+This timeline maps the trajectory of UK consumer IoT security policy,  
+highlighting a critical **pivot to industry self-regulation**, followed by a **partial recalibration**.
+
+It demonstrates that current frameworks remain **behind the lived risk landscape**,  
+particularly in intimate and embodied contexts.
+
+---
+
+### Phase 1 — Early Recognition (≈ 2013–2017)  
+- Emergence of:
+  - consumer IoT vulnerabilities  
+  - early cases involving intimate devices  
+- Public reporting and research highlight:
+  - weak security practices  
+  - data exposure risks  
+
+> Risk is **visible**, but framed primarily as technical and infrastructural.
+
+---
+
+### Phase 2 — Policy Formation & Industry Pivot (≈ 2017–2020)  
+- Introduction of voluntary frameworks:
+  - UK Code of Practice for Consumer IoT Security  
+- Emphasis on:
+  - manufacturer responsibility  
+  - best-practice guidance  
+
+> **Critical pivot:**  
+> responsibility shifts from enforceable regulation → **industry-led compliance**
+
+---
+
+### Phase 3 — Stall / Drift Period (≈ 2018–2022)  
+- Adoption is:
+  - inconsistent  
+  - unenforced  
+- Market dynamics:
+  - low-cost devices proliferate  
+  - security remains uneven  
+
+Meanwhile:
+- harms evolve:
+  - coercive control via devices  
+  - intimate data exposure  
+  - embodied and psychological impacts  
+
+> **Gap widens between policy assumptions and real-world risk**
+
+---
+
+### Phase 4 — Recalibration (≈ 2022–Present)  
+- Introduction of legislation:
+  - Product Security and Telecommunications Infrastructure Act (PSTI)  
+- Increased recognition of:
+  - psychological harm  
+  - misuse beyond “hackers”  
+  - safeguarding implications  
+
+> Policy begins to **re-enter regulatory space**,  
+> but remains **catch-up rather than anticipatory**
+
+---
+
+### Current Position — Not Yet Realigned  
+
+Despite progress:
+
+- Frameworks remain:
+  - primarily technical  
+  - insufficiently attuned to **embodied and intimate harm contexts**  
+
+- Gaps persist in:
+  - abuse-aware design  
+  - insider threat modelling  
+  - agency and risk communication  
+  - intimate device classification  
+
+> The system is **partially corrected**, but not yet aligned with:
+> - current device capabilities  
+> - lived user experience  
+> - emerging harm models  
+
+---
+
+## 🔀 Structural Insight  
+
+> Early recognition → premature delegation to industry →  
+> prolonged vulnerability → delayed regulatory correction  
+
+This sequence produces:
+- **persistent design-level weaknesses**  
+- **normalisation of risk exposure**  
+- **lag between harm and response**
+
+---
+
+## 📊 Mermaid Timeline  
+
+```mermaid
+timeline
+    title UK Consumer IoT Policy Drift
+
+    2013-2017 : Early Recognition
+              : Vulnerabilities identified
+              : Risk framed as technical
+
+    2017-2020 : Industry Pivot
+              : Voluntary Code of Practice
+              : Responsibility shifts to manufacturers
+
+    2018-2022 : Stall / Drift
+              : Weak adoption
+              : Harms expand (coercion, intimacy, data)
+
+    2022-2026 : Recalibration
+              : PSTI Act introduced
+              : Psychological harm recognised
+
+    Present   : Partial Alignment
+              : Technical focus persists
+              : Embodied/intimate risk under-integrated
+```
 
 ---
 
