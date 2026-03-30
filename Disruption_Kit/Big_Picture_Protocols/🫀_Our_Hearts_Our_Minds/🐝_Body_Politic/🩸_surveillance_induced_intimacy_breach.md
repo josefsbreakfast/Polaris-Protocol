@@ -364,7 +364,145 @@ Each overlaps but none fully capture the compounded effect of **embodiment + sur
   - intimate IoT security literature  
   - feminist tech + medical sociology intersections  
 - Develop:
-  - agency-based risk communication frameworks  
+  - agency-based risk communication frameworks
+ 
+---
+
+## 🧠 Insider Risk & Cultural Blind Spots  
+
+This layer addresses a persistent gap in technology development and governance:  
+the tendency to model risk as external, while underestimating **internal misuse potential**.
+
+---
+
+### 1. Structural Reality of Access  
+
+Systems that:
+- collect intimate data  
+- mediate bodily interaction  
+- enable remote control  
+
+necessarily create:
+- **asymmetry of access**  
+- **concentration of power**  
+
+> These conditions do not require malicious intent to exist,  
+> but they create the **possibility of misuse over time**.
+
+---
+
+### 2. The “Good People” Assumption  
+
+Technology cultures often rely on:
+- trust in colleagues  
+- perceived integrity of teams  
+- hiring as a safeguard  
+
+However:
+
+> **trust is not a control mechanism**
+
+Even in well-intentioned environments:
+- individuals may behave differently across contexts  
+- harmful behaviour may be:
+  - gradual  
+  - concealed  
+  - situational  
+
+---
+
+### 3. Under-Modelled Risk  
+
+Security frameworks frequently prioritise:
+- external attackers  
+- technical vulnerabilities  
+- user error  
+
+While under-modelling:
+- insider access misuse  
+- boundary drift over time  
+- non-financial motivations (e.g. curiosity, control, violation)
+
+> This creates blind spots in systems handling intimate or embodied data.
+
+---
+
+### 4. Cultural Avoidance  
+
+Discussion of these risks is often limited by:
+- discomfort around:
+  - sexuality  
+  - bodily autonomy  
+  - abuse dynamics  
+- fear of:
+  - implicating colleagues  
+  - appearing accusatory  
+
+This results in:
+> **risk being unspoken rather than absent**
+
+---
+
+### 5. Necessary Cultural Shift  
+
+Mature systems require a shift from:
+- **trust-based assumptions**  
+
+to:
+- **accountability-based design**
+
+This includes:
+- recognising misuse as possible without assigning blame  
+- separating:
+  - individual character  
+  - from system design requirements  
+
+---
+
+### 6. Operational Implications  
+
+Systems interacting with intimate contexts should:
+
+- minimise and segment access  
+- ensure auditability and visibility of actions  
+- implement separation of duties  
+- enable rapid revocation of access  
+- design for detection of anomalous behaviour  
+
+> Safeguards must assume that **perfect behaviour cannot be guaranteed**
+
+---
+
+### 7. Relational & Organisational Layer  
+
+Beyond technical controls, organisations must support:
+
+- open, non-accusatory discussion of risk  
+- ability to question access and behaviour safely  
+- recognition that:
+  - individuals can be trusted  
+  - and systems can still require constraint  
+
+---
+
+### 8. Intersection with Intimate Harm  
+
+In systems involving:
+- bodily interaction  
+- sexual or reproductive health  
+- private behavioural data  
+
+the impact of misuse is amplified:
+
+> **insider access becomes a potential vector for deeply personal violation**
+
+---
+
+This layer does not assume widespread malicious intent.  
+It establishes that **the presence of access itself creates risk**,  
+and that responsible systems must account for this without reliance on personal trust alone.  
+
+*Bros protect bros from being idiots; by telling your froemds when they are being weird, you are helping limit the possibility that they will stumble into the wrath of a lady dragon with the balls to call them out in public.*  
 
 ---
 
