@@ -271,28 +271,14 @@ This sequence produces:
 ## 📊 Mermaid Timeline  
 
 ```mermaid
-timeline
-    title UK Consumer IoT Policy Drift
+flowchart TD
+    A[2013–2017: Early Recognition; Technical framing] 
+    B[2017–2020: Industry Pivot; Voluntary standards]
+    C[2018–2022: Stall / Drift\nWeak adoption; Harms expand]
+    D[2022–Present: Recalibration; PSTI + harm recognition]
+    E[Present: Partial Alignment; Still behind risk]
 
-    2013-2017 : Early Recognition
-              : Vulnerabilities identified
-              : Risk framed as technical
-
-    2017-2020 : Industry Pivot
-              : Voluntary Code of Practice
-              : Responsibility shifts to manufacturers
-
-    2018-2022 : Stall / Drift
-              : Weak adoption
-              : Harms expand (coercion, intimacy, data)
-
-    2022-2026 : Recalibration
-              : PSTI Act introduced
-              : Psychological harm recognised
-
-    Present   : Partial Alignment
-              : Technical focus persists
-              : Embodied/intimate risk under-integrated
+    A --> B --> C --> D --> E
 ```
 
 ---
