@@ -230,8 +230,10 @@ It documents an emergent category of harm at the intersection of surveillance, e
 
 > 📡 Cross-references:
 > 
-> - [🐦‍🔥 Trauma_Psychology_Medical_Misuse](../Disruption_Kit/Big_Picture_Protocols/🐦‍🔥_Trauma_Psychology_Medical_Misuse/) — *psychological and embodied trauma analysis*  
-> - [👁️‍🗨️ Witness_Historical_Casefiles](../Disruption_Kit/Big_Picture_Protocols/👁️‍🗨️_Witness_Historical_Casefiles/) — *testimonies and suppressed histories*  
+> - [👁️‍🗨️ Surveillance of Disabled Bodies](./👁️‍🗨️_surveillance_of_disabled_bodies.md) – *related histories of observation of bodies deviant to the cis-male form*  
+> - [🔥 Femme Firewall Fatale — The Panic at Female Intelligence](./🔥_femme_firewall_fatale.md) — *not unrelated*
+> - [💔 The Need for Touch](./💔_the_need_for_touch.md) – *related but disctinct concepts of human relationships to intimacy*
+> - [🦆 She Weighs the Same as a Duck](./🦆_she_weighs_the_same_as_a_duck.md) – *if all else fails, women can be ruled undeserving of sexual health or agency upon the presence of their capabilities*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
