@@ -214,7 +214,17 @@ Each overlaps but none fully capture the compounded effect of **embodiment + sur
 ---
 
 ## 🌌 Constellations  
-🩸 👁️‍🗨️ 🧠 🧿 🧩 — trauma, witness, embodiment, violation boundary, diagnostic mapping.
+🩸 👁️‍🗨️ 🧠 🧿 🧩 — trauma, witness, embodiment, violation boundary, diagnostic mapping.  
+
+*Further reading & media:*  
+
+- [📑: A review of the risks and psychological harms presented by consumer IoT products; UK DIST.](https://assets.publishing.service.gov.uk/media/672b676dfbd69e1861921c21/A_review_of_the_risks_and_psychological_harms_presented_by_consumer_IoT_products_-_Cote_et_al.pdf)  
+- [📰: "Vibrator app leaks users’ intimate data", 2016.](https://www.theguardian.com/technology/2016/aug/10/vibrator-phone-app-we-vibe-4-plus-bluetooth-hack)  
+- [📰: "Sex toy Bluetooth hacks expose users to control and surveillance risks", Wired.](https://www.wired.com/story/sex-toy-bluetooth-hacks-security-fix/)  
+- [📰: "Hacker could control internet-connected sex toys", 2017.](https://www.bbc.co.uk/news/world-us-canada-39280941)  
+- [📰: "Insecure vibrator app leaks private data", KasperSky](https://www.kaspersky.co.uk/blog/insecure-vibrator/7544/)  
+- [📑: Privacy Not Included: Sex Toys; Mozilla Foundation.](https://foundation.mozilla.org/en/privacynotincluded/categories/sex-toys/)  
+- [📑: Stalkerware: The Hidden Harassment Tool; EFF.](https://www.eff.org/deeplinks/2019/09/stalkerware-hidden-harassment-tool)
 
 ---
 
