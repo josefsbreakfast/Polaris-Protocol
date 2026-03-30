@@ -297,6 +297,34 @@ timeline
 
 ---
 
+## 💭 Implication for This Node
+
+The harms described in this node:
+	•	were technically foreseeable during early phases
+	•	were not structurally addressed during the industry-led period
+	•	are now being retrofitted into policy frameworks
+
+This contributes directly to:
+	-	survivor invisibility
+	-	design gaps
+	-	delayed recognition of harm
+
+---
+
+## 💫 Forward Consideration
+
+Future alignment requires:
+	-	integrating embodiment and intimacy into threat models
+	-	moving beyond:
+	-	“device security”
+toward:
+	-	user safety in context
+	-	recognising that:
+
+policy lag is not neutral — it shapes who is exposed to harm, and for how long.  
+
+---
+
 ## 📚 Adjacent Concepts (Imperfect Parallels)  
 - **Surveillance sexualisation** — feminist surveillance studies: eroticisation of the gaze as control.  
 - **Technosexual violence** — digital sexual harassment or image-based abuse.  
