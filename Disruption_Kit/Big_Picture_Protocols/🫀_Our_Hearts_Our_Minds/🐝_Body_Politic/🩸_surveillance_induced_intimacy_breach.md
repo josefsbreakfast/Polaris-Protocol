@@ -502,7 +502,9 @@ This layer does not assume widespread malicious intent.
 It establishes that **the presence of access itself creates risk**,  
 and that responsible systems must account for this without reliance on personal trust alone.  
 
-*Bros protect bros from being idiots; by telling your froemds when they are being weird, you are helping limit the possibility that they will stumble into the wrath of a lady dragon with the balls to call them out in public.*  
+*Bros protect bros from being idiots; by telling your friends when they are being weird, you are helping limit the possibility that they will stumble into the wrath of a lady dragon with the balls to call them out in public.*  
+
+*Bros don't let bros get so fundamentally ridiculous, that they become lady dragon dinner (in a bad way).*  
 
 ---
 
