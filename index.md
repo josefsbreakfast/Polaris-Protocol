@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-03-30 19:43:52 UTC_
+_Generated on 2026-03-30 19:47:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1604,6 +1604,7 @@ _Generated on 2026-03-30 19:43:52 UTC_
         - [`🧠_where_is_this_overdiagnosis.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧠_where_is_this_overdiagnosis.md)
         - [`🧩_mixed_gender_sociality_as_antidote.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧩_mixed_gender_sociality_as_antidote.md)
         - [`🧩_politics_of_the_body_core_statement.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧩_politics_of_the_body_core_statement.md)
+        - [`🩸_surveillance_induced_intimacy_breach.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🩸_surveillance_induced_intimacy_breach.md)
         - [`🩺_diagnosis_as_agency.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🩺_diagnosis_as_agency.md)
         - [`🩻_reflex_against_care.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🩻_reflex_against_care.md)
         - [`🫀_disabled_refusal_as_politics.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🫀_disabled_refusal_as_politics.md)
@@ -6049,7 +6050,6 @@ _Generated on 2026-03-30 19:43:52 UTC_
     - [`🩸_mimicry_of_blood_libel.md`](Polaris_Nest/Git_Intake_Drawer/🩸_mimicry_of_blood_libel.md)
     - [`🩸_reverse_victim_logic.md`](Polaris_Nest/Git_Intake_Drawer/🩸_reverse_victim_logic.md)
     - [`🩸_soul_as_product_lineage.md`](Polaris_Nest/Git_Intake_Drawer/🩸_soul_as_product_lineage.md)
-    - [`🩸_surveillance_induced_intimacy_breach.md`](Polaris_Nest/Git_Intake_Drawer/🩸_surveillance_induced_intimacy_breach.md)
     - [`🩹_vulnerability_hyper_visibility.md`](Polaris_Nest/Git_Intake_Drawer/🩹_vulnerability_hyper_visibility.md)
     - [`🩺_healthcare_lockout_from_false_offender_classification.md`](Polaris_Nest/Git_Intake_Drawer/🩺_healthcare_lockout_from_false_offender_classification.md)
     - [`🩻_safeguarding_logic_civil_systems.md`](Polaris_Nest/Git_Intake_Drawer/🩻_safeguarding_logic_civil_systems.md)
