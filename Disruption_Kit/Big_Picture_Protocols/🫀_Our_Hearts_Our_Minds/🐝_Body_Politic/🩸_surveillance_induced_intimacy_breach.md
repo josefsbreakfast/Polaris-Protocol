@@ -268,7 +268,7 @@ This sequence produces:
 
 ---
 
-## 📊 Mermaid Timeline  
+## 🇬🇧 UK Policy Timeline  
 
 ```mermaid
 flowchart TD
@@ -286,9 +286,9 @@ flowchart TD
 ## 💭 Implication for This Node
 
 The harms described in this node:
-	•	were technically foreseeable during early phases
-	•	were not structurally addressed during the industry-led period
-	•	are now being retrofitted into policy frameworks
+	-	were technically foreseeable during early phases
+	-	were not structurally addressed during the industry-led period
+	-	are now being retrofitted into policy frameworks
 
 This contributes directly to:
 	-	survivor invisibility
