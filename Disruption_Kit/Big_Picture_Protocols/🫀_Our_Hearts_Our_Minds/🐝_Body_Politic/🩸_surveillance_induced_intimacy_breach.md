@@ -1,3 +1,5 @@
+
+
 # 🩸 Surveillance-Induced Intimacy Breach  
 **First created:** 2025-10-18 | **Last updated:** 2025-11-14  
 *Working note while seeking language for sexualised and psychosexual violation through surveillance.*  
