@@ -28,9 +28,9 @@ When they share vocabulary, communication fails — and politics begins to feel 
 
 ---
 
-## 🧿 Analysis / Content  
+## 🍴 One Vocabulary, Two Worlds  
 
-### 1. One Vocabulary, Two Worlds  
+When language forks, problems begin.  
 
 Examples:
 
@@ -42,7 +42,7 @@ Once meanings diverge, arguments cannot land.
 
 ---
 
-### 2. The Drift to Collapse  
+## 👾 The Drift to Collapse  
 
 Stages:
 
@@ -56,7 +56,7 @@ At stage 5, politics feels haunted.
 
 ---
 
-### 3. Emotional Experience of Collapse  
+## 🫀 Emotional Experience of Collapse  
 
 People report:
 
@@ -68,7 +68,7 @@ This reflects **semantic infrastructure failure**, not individual error.
 
 ---
 
-### 4. Adversarial Exploitation: Propaganda Outside the Frame  
+## 🚀 Adversarial Exploitation: Propaganda Outside the Frame  
 
 Liberal-democratic audiences are structurally **untrained for non-reciprocal semantic systems**.
 
@@ -82,7 +82,7 @@ This creates systematic misreading when interpreted through liberal assumptions 
 
 ---
 
-### 5. Grief Hijacking & Moral Leakage  
+## 🫁 Grief Hijacking & Moral Leakage  
 
 A newer phase emerges when adversarial media routes itself through **unprocessed democratic grief**.
 
@@ -99,7 +99,7 @@ not through trust, but through **acknowledgement of denied or unresolved harms**
 
 ---
 
-### 6. Grievance Alignment Masks Authoritarian Signals  
+## 🐍 Grievance Alignment Masks Authoritarian Signals  
 
 When an actor:
 
@@ -114,7 +114,7 @@ Valid grievances act as **narrative cover**, shielding coercive or contradictory
 
 ---
 
-### 7. Grievance Bundling & False Attribution  
+## 🍌 Grievance Bundling & False Attribution  
 
 A shared structure across propaganda systems and movements such as the alt-right:
 
@@ -129,7 +129,7 @@ This produces **causal compression** — complex systems reduced to single cause
 
 ---
 
-### 8. Acknowledgement Capture & Escalation Bridging  
+## 🪬 Acknowledgement Capture & Escalation Bridging  
 
 Acknowledgement itself becomes a strategic asset.
 
@@ -145,7 +145,7 @@ Mechanism:
 
 ---
 
-### 9. Prosocial Hijack & Moral Overextension  
+## 🔥 Prosocial Hijack & Moral Overextension  
 
 These systems do not exploit “bad” traits.
 
@@ -169,7 +169,7 @@ Result:
 
 ---
 
-### 10. The Critical Boundary: Recognition vs Response  
+## ⚡️ The Critical Boundary: Recognition vs Response  
 
 The core failure point is the collapse between:
 
@@ -188,7 +188,7 @@ because it is a known and recurring human failure mode.
 
 ---
 
-### 11. Why This Feels Convincing  
+### 🍄 Why This Feels Convincing  
 
 These dynamics feel persuasive because they:
 
@@ -201,7 +201,7 @@ These dynamics feel persuasive because they:
 
 ---
 
-### 12. Strategic Implication  
+### 🧨 Strategic Implication  
 
 Semantic collapse is not just breakdown — it is **exploitable terrain**.
 
@@ -274,7 +274,7 @@ The goal is to:
 
 ---
 
-### ✍️ For Journalists (Reporting on the Content)  
+### 🖋️ For Journalists (Reporting on the Content)  
 
 **Core task:** Inform without amplifying the mechanism  
 
@@ -328,8 +328,6 @@ Across all roles:
 👉 **Acknowledge clearly. Attribute accurately. Respond proportionally.**
 
 Break any one of these steps, and the mechanism reactivates.
-
----
 
 ---
 
