@@ -117,8 +117,7 @@ A shared structure across propaganda systems and movements such as the alt-right
 2. **Emotional validation layer**  
 3. **Illegitimate attribution layer**  
 
-👉 trust is built on truth  
-👉 then redirected through distortion  
+Trust is built on truth, then redirected through distortion.    
 
 This produces **causal compression** — complex systems reduced to single causes and enemies.
 
@@ -136,7 +135,7 @@ Mechanism:
 2. **Escalation bridging**  
    - emotional legitimacy used to introduce extreme responses  
 
-👉 recognition of harm is leveraged to make disproportionate or violent responses feel less alien  
+The legitamite recognition of harm is leveraged to make disproportionate or violent responses feel less alien.    
 
 ---
 
@@ -153,9 +152,7 @@ They activate:
 
 All of which are **healthy human functions**
 
-The break occurs when:
-
-👉 targeted moral reasoning → expands into collective blame  
+The break occurs when targeted moral reasoning expands into collective blame.  
 
 Result:
 
@@ -192,7 +189,7 @@ These dynamics feel persuasive because they:
 - reduce complexity  
 - offer direction  
 
-👉 They stabilise uncertainty — even when they distort reality.
+They stabilise uncertainty — even when they distort reality.
 
 ---
 
@@ -210,9 +207,7 @@ Effective response requires:
   - “That harm is real”  
   - “What is a legitimate and proportional response?”  
 
-Failure to do this leaves:
-
-👉 prosocial cognition vulnerable to adversarial redirection  
+Failure to do this leaves prosocial cognition vulnerable to adversarial redirection.  
 
 ---
 
@@ -245,7 +240,7 @@ The goal is to:
 - **Avoid defensive minimisation**  
   - Denial or dilution increases susceptibility to adversarial narratives  
 
-👉 If you do not name harms credibly, others will — and attach them to their own strategic aims  
+If you do not name harms credibly, others will — and attach them to their own strategic aims.  
 
 ---
 
@@ -265,7 +260,7 @@ The goal is to:
 - **Name the mechanism clearly**  
   - e.g. grievance bundling, acknowledgement capture, prosocial hijack  
 
-👉 The goal is to restore **interpretive clarity**, not just factual correction  
+The goal is to restore **interpretive clarity**, not just factual correction.    
 
 ---
 
@@ -289,7 +284,7 @@ Example framing approach:
 
 > “The video draws on real grievances, including [X], but redirects them toward [Y], a simplified or misleading explanation.”
 
-👉 This preserves trust while preventing narrative capture  
+This preserves trust while preventing narrative capture.  
 
 ---
 
@@ -311,8 +306,8 @@ Example framing approach:
 - **Be cautious of collective blame**  
   - “They did this” → “they must all be punished” is the critical jump  
 
-👉 The goal is not to suppress empathy  
-👉 It is to prevent it being **redirected into overreach**
+The goal is not to suppress empathy.  
+It is to prevent it being **redirected into overreach**.  
 
 ---
 
@@ -320,7 +315,7 @@ Example framing approach:
 
 Across all roles:
 
-👉 **Acknowledge clearly. Attribute accurately. Respond proportionally.**
+**Acknowledge clearly. Attribute accurately. Respond proportionally.**
 
 Break any one of these steps, and the mechanism reactivates.
 
