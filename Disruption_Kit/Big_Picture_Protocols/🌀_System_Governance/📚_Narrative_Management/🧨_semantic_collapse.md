@@ -339,7 +339,8 @@ It maps how shared language fractures across incompatible moral systems, and how
 > 📡 Cross-references:
 > 
 > - [💼 Narrative Capture & Linguistic Power](./💼_narrative_capture_and_linguistic_power.md) – *words have more power than we credit them with*
-> - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md) – *this is a transitory mechanism of capture*  
+> - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md) – *this is a transitory mechanism of capture*
+> - [🎪 Not Even a Mole To Be Found](./🎪_not_even_a_mole_to_be_found.md) – *neither loyalty nor choice are required to be assets, particularly in the digital age*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
