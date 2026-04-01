@@ -1,10 +1,10 @@
 # 📃 FOI Request Template — No 10 Vice-Chancellors’ Meeting (May 2024)  
-**First created:** 2025-11-08  |  **Last updated:** 2025-11-08  
+**First created:** 2025-11-08  |  **Last updated:** 2026-04-01  
 *A public-records request template to clarify government–university coordination on protest management during Spring 2024.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 On **8 May 2024**, vice-chancellors met at **10 Downing Street** with senior ministers and officials to discuss campus protest activity and “leadership” responses.  
 This meeting was publicly referenced by multiple universities but no minutes or agenda have been released.  
@@ -12,7 +12,7 @@ The following template assists citizens or journalists in requesting disclosure 
 
 ---
 
-## 📜 1. Request Text  
+## 📜 Request Text  
 
 > **To:** Cabinet Office / Department for Education (whichever body you believe holds the material)  
 >   
@@ -39,7 +39,7 @@ The following template assists citizens or journalists in requesting disclosure 
 
 ---
 
-## 🧩 2. Suggested Follow-Ups  
+## 🧩 Suggested Follow-Ups  
 
 | Scenario | Next Step | Reference Template |
 |-----------|-----------|--------------------|
@@ -50,7 +50,7 @@ The following template assists citizens or journalists in requesting disclosure 
 
 ---
 
-## 🧠 3. Contextual Notes  
+## 🧠 Contextual Notes  
 
 - **Why this matters:**  
   The 10 May 2024 meeting appears to have preceded a nationwide escalation in university disciplinary actions and police liaison concerning Gaza-related protests.  Understanding its scope is essential to evaluating whether public institutions acted independently or under coordinated central direction.  
@@ -95,7 +95,7 @@ A transparent separation of roles—defining what is governmental, what is chari
 
 ---
 
-## 🧭 4. OSINT Integration  
+## 🧭 OSINT Integration  
 
 If denied, parallel evidence can still be traced through:  
 - WhatDoTheyKnow archives (search terms “May 2024 Vice Chancellors Downing Street”);  
@@ -122,8 +122,9 @@ FOI, Cabinet Office, Downing Street, universities, protest, policy formulation, 
 ## 🏮 Footer  
 
 *FOI Request Template — No 10 Vice-Chancellors’ Meeting* supports lawful civic access to public-interest information.  
+
 It enables citizens to trace how state policy guidance on protests was developed and communicated to universities, and examines how non-governmental intermediaries became part of that information chain.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated 2025-11-08_
+_Last updated 2026-04-01_
