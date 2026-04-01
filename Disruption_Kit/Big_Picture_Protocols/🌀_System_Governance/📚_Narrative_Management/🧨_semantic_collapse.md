@@ -92,10 +92,7 @@ Mechanism:
 - flattens them into a shared emotional field  
 - positions itself as the agent of recognition or retaliation  
 
-This produces:
-
-👉 **moral leakage** — where legitimacy partially transfers to adversarial actors  
-not through trust, but through **acknowledgement of denied or unresolved harms**
+This produces **moral leakage** — where legitimacy partially transfers to adversarial actors – not through trust, but through **acknowledgement of denied or unresolved harms**
 
 ---
 
@@ -106,9 +103,7 @@ When an actor:
 - expresses recognisable grievances  
 - while operating under authoritarian logic  
 
-audiences may:
-
-👉 misclassify them as aligned rather than adversarial  
+...audiences may misclassify them as aligned rather than adversarial.  
 
 Valid grievances act as **narrative cover**, shielding coercive or contradictory behaviour.
 
