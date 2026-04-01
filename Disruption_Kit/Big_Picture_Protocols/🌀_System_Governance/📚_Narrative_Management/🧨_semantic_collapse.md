@@ -338,9 +338,8 @@ It maps how shared language fractures across incompatible moral systems, and how
 
 > 📡 Cross-references:
 > 
-> - Big_Picture_Protocols/🎭_narrative_warfare.md — *construction of competing emotional realities*  
-> - Big_Picture_Protocols/⚖️_moral_inversion.md — *distortion of responsibility and ethical framing*  
-> - Big_Picture_Protocols/🧠_cognitive_overload_vectors.md — *limits of interpretation under pressure*  
+> - [💼 Narrative Capture & Linguistic Power](./💼_narrative_capture_and_linguistic_power.md) – *words have more power than we credit them with*
+> - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md) – *this is a transitory mechanism of capture*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
