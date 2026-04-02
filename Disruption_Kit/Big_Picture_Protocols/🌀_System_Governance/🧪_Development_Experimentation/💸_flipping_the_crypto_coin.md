@@ -1,2 +1,15 @@
-- 20250402
-- 
+- 20260402  
+- first blockchain, historical context
+- first backers (fin/cult)
+- 2020/accelarationism as pandemic mortality response
+- memecoins/nfts
+- comparison liq/assets/com
+- presidential campaign/involvement
+- ongoing legality - court re fraud/laundering
+- ongoing legality - acceptance vs none
+- reform uk business
+- role in class conscious mobilisation
+- role in criminality - who benefits? wo is protected? who is at risk?
+- mastercard/visa and sw: in addition, moral hypocrisy of owners and capitalist class - v classic marxist dynamic actually? is accelerationism just making it more "mask off"?
+- possible futures
+- prob need a seperate node for decentralisation bc there are several underpinnings which have dofferent motivatikns/aims
