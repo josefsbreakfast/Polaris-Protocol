@@ -13,3 +13,5 @@
 - mastercard/visa and sw: in addition, moral hypocrisy of owners and capitalist class - v classic marxist dynamic actually? is accelerationism just making it more "mask off"?
 - possible futures
 - prob need a seperate node for decentralisation bc there are several underpinnings which have dofferent motivatikns/aims
+
+- re The Rational Optimist: How Prosperity Evolves (just before move to london, prob life centre, or in visit close): discussion of currency and social role - relevant to discourse today  
