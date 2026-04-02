@@ -1,6 +1,7 @@
 - 20260402  
 - first blockchain, historical context
 - first backers (fin/cult)
+- - because again, epstein network fairly pivotal; influence widesprad, "just" consequence of hypercapitalism?  
 - 2020/accelarationism as pandemic mortality response
 - memecoins/nfts
 - comparison liq/assets/com
