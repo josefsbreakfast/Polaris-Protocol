@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-02 11:24:08 UTC_
+_Generated on 2026-04-02 13:56:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -637,6 +637,7 @@ _Generated on 2026-04-02 11:24:08 UTC_
         - [`🎭_the_recognisable_researcher.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🎭_the_recognisable_researcher.md)
         - [`🐕‍🦺_animal_assisted_deradicalisation_pilots.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🐕‍🦺_animal_assisted_deradicalisation_pilots.md)
         - [`💔_romance_lens_as_ontology_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/💔_romance_lens_as_ontology_failure.md)
+        - [`💸_flipping_the_crypto_coin.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/💸_flipping_the_crypto_coin.md)
         - [`📁_absence_of_check_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/📁_absence_of_check_in.md)
         - [`🛰️_counter_extremism_by_network.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🛰️_counter_extremism_by_network.md)
         - [`🤖_ai_big_tech_and_israeli_apartheid_as_deregulated_security_lab.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🤖_ai_big_tech_and_israeli_apartheid_as_deregulated_security_lab.md)
