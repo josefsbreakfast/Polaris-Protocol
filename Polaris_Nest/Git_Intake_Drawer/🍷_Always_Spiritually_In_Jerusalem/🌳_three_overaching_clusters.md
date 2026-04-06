@@ -148,4 +148,6 @@ Omer 12: day 5 of week 2, therefore hod day of gevurah week --> Hod she'b'gevura
 
 By the end of this, you have done almost two periods of dictating your life around something external, just wothout the blood or pain or physical nightmare of hormones. Appreciate how your wife has done this for many years without choice, and somehow has so far avoided murdering you.  
 
+It'll make your next attempt at Eshet Chaiyal sound like you mean it; counting Omer improves marital relations.  
+
 ---
