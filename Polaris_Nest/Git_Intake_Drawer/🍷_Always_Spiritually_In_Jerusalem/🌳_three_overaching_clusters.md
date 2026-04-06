@@ -24,15 +24,21 @@ Dibbur דִּבּוּר
 *conceptually, each set of diagrams supports each other; use what you want, alter heavily as necessary*  
 
 ```mermaid
-graph TB
-    c1 --> a2
+  graph TB
+
     subgraph one[מוֹחִין = Mochin]
-    a1 --> a2
+        A[Mochin]
     end
-    subgraph two[מִידּוֹת  = Middot]
-    b1 --> b2
+
+    subgraph two[מִידּוֹת = Middot]
+        B[Middot]
     end
+
     subgraph three[מַלְכוּת = Malchut]
-    c1 --> c2
+        C[Malchut]
     end
+
+    A --- B
+    B --- C
+
   ```
