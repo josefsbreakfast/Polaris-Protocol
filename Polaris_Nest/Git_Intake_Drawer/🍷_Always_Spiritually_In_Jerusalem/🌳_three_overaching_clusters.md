@@ -130,3 +130,22 @@ G -.->|New cycle begins| A
 
  
 ```
+
+
+Eg:  
+
+Omer 1: day 1 of week 1, therfore chesed day, chesed week --> Chesed she'b'chesed  
+
+Omer 12: day 5 of week 2, therefore hod day of gevurah week --> Hod she'b'gevurah  
+
+---
+
+1. Wait for new day (twilightish...annoyingly the Christians follow the "normal" calendar,  the Myslims worked out a more precise system which seems more logical, and we're stuck with the most Jewish definition of vague timey-wimey slots. Just do it when it's twilight or when you remember.
+2. Announce the day and the blessing for counting ("There's a blessing for everything!")
+3. Secret tip: spealing of Buddhism, if the bowl of water offering replavement system works for you, just do what works for your brain. Pretty such we've been more of a collective disappointment to G-d before (cf most of Torah is us pissing him off).
+4. Rest of the day is for meditating on the "note of the day", within "the chord of the week. Yes you still have to help with dishes.
+5. It is normal for this to be weirdly exhausing, esp if this is new. You can just do the dats, cycling in 7 sets. It's okay to miss days if you're new; if you break the habit, just start from the spot the moon is now on.
+
+By the end of this, you have done almost two periods of dictating your life around something external, just wothout the blood or pain or physical nightmare of hormones. Appreciate how your wife has done this for many years without choice, and somehow has so far avoided murdering you.  
+
+---
