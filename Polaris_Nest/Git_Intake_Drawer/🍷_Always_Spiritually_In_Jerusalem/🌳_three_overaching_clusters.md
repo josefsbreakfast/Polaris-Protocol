@@ -9,3 +9,10 @@ graph TD
     B --> A
     C --> B
   ```
+
+
+**
+Malchut מַלְכוּת
+*can also be rendered as*
+Dibbur דִּבּוּר    
+*experiment with most fitting for own understanding of electron cloud masquandering as spiritual concept*  
