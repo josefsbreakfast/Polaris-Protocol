@@ -1,4 +1,4 @@
-```mermaid
+````mermaid
 graph TD
     A[מוֹחִין = Mochin] 
     B[מִידּוֹת  = Middot]
@@ -27,18 +27,26 @@ Dibbur דִּבּוּר
   graph TB
 
     subgraph one[מוֹחִין = Mochin]
-        A[Mochin]
+        a1[Keter]
+        a2[Chokhmah]
+        a3[Binah]
     end
 
     subgraph two[מִידּוֹת = Middot]
-        B[Middot]
+        b1[Chesed]
+        b2[Gevurah]
+        b3[Tiferet]
+        b4[Netzach]
+        b5[Hod]
     end
 
     subgraph three[מַלְכוּת = Malchut]
-        C[Malchut]
+        c1[Yesod]
+        c2[Malkhut]
     end
 
-    A --- B
-    B --- C
+    a2 --- b1
+    a3 --- b2
+    b3 --- c1
 
   ```
