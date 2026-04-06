@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-06 17:20:52 UTC_
+_Generated on 2026-04-06 17:31:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6056,6 +6056,7 @@ _Generated on 2026-04-06 17:20:52 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🍷_Always_Spiritually_In_Jerusalem/**](Polaris_Nest/Git_Intake_Drawer/🍷_Always_Spiritually_In_Jerusalem/)
+      - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🍷_Always_Spiritually_In_Jerusalem/README.md)
       - [`🌳_three_overaching_clusters.md`](Polaris_Nest/Git_Intake_Drawer/🍷_Always_Spiritually_In_Jerusalem/🌳_three_overaching_clusters.md)
     - [`OnlineDisinfoCampaign_HUNTING_README.md`](Polaris_Nest/Git_Intake_Drawer/OnlineDisinfoCampaign_HUNTING_README.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
