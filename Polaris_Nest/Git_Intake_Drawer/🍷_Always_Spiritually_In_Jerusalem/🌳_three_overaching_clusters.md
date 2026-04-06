@@ -117,7 +117,7 @@ graph TD
     E[Hod = הוֹד]  
     F[Yesod = יְסוֹד]  
     G[Malkhut = מַלְכוּת]
-end
+
 
 A --> B
 B --> C
