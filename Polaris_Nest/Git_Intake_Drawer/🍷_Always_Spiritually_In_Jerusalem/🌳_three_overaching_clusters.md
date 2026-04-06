@@ -22,3 +22,17 @@ Dibbur דִּבּוּר
 - the upper tier (Mochin) comes as aggregate from each other tier supporting the trunk; not assigned to 49/50 schedule as flieing forth as aggregate value
 
 *conceptually, each set of diagrams supports each other; use what you want, alter heavily as necessary*  
+
+```mermaid
+graph TB
+    c1 --> a2
+    subgraph one
+    a1 --> a2
+    end
+    subgraph two
+    b1 --> b2
+    end
+    subgraph three
+    c1 --> c2
+    end
+  ```
