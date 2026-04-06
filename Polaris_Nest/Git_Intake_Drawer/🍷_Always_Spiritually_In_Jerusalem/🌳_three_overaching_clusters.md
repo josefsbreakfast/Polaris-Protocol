@@ -87,3 +87,11 @@ Malkhut = מַלְכוּת
 - counting Omer focuses on underpinnings, so Keter, Chokhmah, Binah, are all expected to flow from this work; skills for creating tzimtzum will be developed to hold them in the work on "lower" sephirot.
 
 - The idea of higher and lower spheres being more or less important is like saying that roots and branches and the trunk of the tree or somehow are more or less less important than each other. They're not really, are they? Do you use all of them. xx
+
+- Energy travels between the upper spheres, within the middle spheres with Tefiret being in the centre of the connection of the web, and the connections between the costs exist slightly precisely, but in a way that makes sense once you study the spheres themselves.
+
+- It's just supposed to be a system that you can access and a development through, with the idea of being that that's how you access Divinity.
+
+Easy peasy, no?   
+
+(honestly not that difficult, just very confusing at first, especially if you skipped to Hebrew school and you're in the diaspora.)  
