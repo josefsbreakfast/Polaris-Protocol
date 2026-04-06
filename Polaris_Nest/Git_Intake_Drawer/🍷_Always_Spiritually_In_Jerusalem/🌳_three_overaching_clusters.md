@@ -1,4 +1,5 @@
-```graph TD
+```mermaid
+graph TD
     A[Mochin]
     B[Middot]
     C[Malchut]
