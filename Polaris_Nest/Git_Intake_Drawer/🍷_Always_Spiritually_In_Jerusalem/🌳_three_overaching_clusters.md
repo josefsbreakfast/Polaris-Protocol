@@ -60,5 +60,7 @@ Dibbur דִּבּוּר
 
   ```
 
-...  
+...  less "patience is a virtue", more "here are a set of processes you need to have working to not faceplant today...unless G-d wills it, which is always a possibility...and at the end you will have the patience of Hillel when he is patient, and hus lack of chill when directed energy is more useful"    
+
+like buddhism with more horseradish, maybe.
 
