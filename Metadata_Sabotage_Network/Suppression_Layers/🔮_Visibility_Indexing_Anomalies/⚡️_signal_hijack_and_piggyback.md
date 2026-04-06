@@ -5,7 +5,7 @@
 
 ---
 
-## Overview
+## 🛰️ Overview
 
 This node captures a specific SEO manipulation pattern: **Site A introduces a distinctive or unusual search term, and Site B reproduces that term in order to absorb, redirect, or amplify the signal**. The issue is not mere duplication. It is a contest over attribution, query ownership, and ranking dominance.
 
