@@ -126,4 +126,6 @@ D --> E
 E --> F
 F --> G
 
+G --> A: New cycle begins
+
 ```
