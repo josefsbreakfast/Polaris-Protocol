@@ -1,7 +1,7 @@
 # ⚡️ Signal Hijack, Keyword Piggyback  
 
 **First created:** 2026-04-06 | **Last updated:** 2026-04-06  
-*Diagnostic node on how unique search terms get copied, amplified, and contested across sites, including the limits of reciprocal linking as a defensive move.*  
+*Diagnostic node on how unique search terms get copied, amplified, and contested across sites, including the limits of reciprocal linking as a defensive move.* [🦎](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🦎_snow_leopard_geckos_against_modern_slavery.md)
 
 ---
 
