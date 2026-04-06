@@ -172,11 +172,11 @@ keyword piggybacking, keyword hijacking, signal hijacking, parasite seo, seo par
 
 ## 🏮 Footer
 
-*Signal hijacking and keyword piggybacking* is a living node of the **Polaris Protocol**. It documents how unique search terms can be copied, reinforced, and contested across domains, with particular attention to the gap between originating a signal and retaining control of it in search visibility systems.
+*⚡️ Signal Hijack, Keyword Piggyback* is a living node of the **Polaris Protocol**. It documents how unique search terms can be copied, reinforced, and contested across domains, with particular attention to the gap between originating a signal and retaining control of it in search visibility systems.
 
 > 📡 Cross-references:
 >
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — *structural analysis of manipulation patterns, ranking systems, and signal capture dynamics*
+> - [🧭 Diversion Hypothesis Node — “Why we get steered away”](../../../Disruption_Kit/Containment_Scripts/Suppression_Modes/🧭_diversion_hypothesis.md)  
 > - [Containment Scripts](../Containment_Scripts/) — *visibility shaping methods, amplification tactics, and suppression-adjacent behaviours*
 > - [Admin Kit](../Admin_Kit/) — *house style, taxonomy, and operational scaffolding for protocol nodes*
 
