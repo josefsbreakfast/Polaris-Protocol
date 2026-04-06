@@ -178,7 +178,7 @@ keyword piggybacking, keyword hijacking, signal hijacking, parasite seo, seo par
 >
 > - [🧭 Diversion Hypothesis Node — “Why we get steered away”](../../../Disruption_Kit/Containment_Scripts/Suppression_Modes/🧭_diversion_hypothesis.md)  
 > - [🧠 Behavioural Forks — When Institutions Develop Split Personas](../../Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧠_institutional_split_personas.md)  
-> - [Admin Kit](../Admin_Kit/) — *house style, taxonomy, and operational scaffolding for protocol nodes*
+> - [🛜 Signal Reclaimers](../../../Disruption_Kit/💣_Syntax_Bombs/🛜_signal_reclaimers.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
