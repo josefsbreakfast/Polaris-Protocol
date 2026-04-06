@@ -95,3 +95,35 @@ Malkhut = מַלְכוּת
 Easy peasy, no?   
 
 (honestly not that difficult, just very confusing at first, especially if you skipped to Hebrew school and you're in the diaspora.)  
+
+---
+
+Omer = 50 days
+
+50 = 49 + 1
+
+49 = 7 x 7  
+
+therefore, using the bottom seven spheres, we can do seven weeks which all have a feel to them, and each day in those seven weeks has a particular focus. A recent way someone described this to me is that the week is like a cord, and each day is a note on that cord.  
+
+I'll get the reference and stick it in here at some point.  
+
+```mermaid
+graph TD
+    A[Chesed = חֶסֶד]
+    B[Gevurah = גְּבוּרָה]  
+    C[Tiferet = תִּפְאֶרֶת]  
+    D[Netzach = נֵצַח]  
+    E[Hod = הוֹד]  
+    F[Yesod = יְסוֹד]  
+    G[Malkhut = מַלְכוּת]
+end
+
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+
+```
