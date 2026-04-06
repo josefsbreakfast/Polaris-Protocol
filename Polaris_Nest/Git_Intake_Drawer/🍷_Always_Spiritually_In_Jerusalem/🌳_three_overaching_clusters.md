@@ -1,8 +1,8 @@
 ```mermaid
 graph TD
-    A[Mochin]
-    B[Middot]
-    C[Malchut]
+    A[מוֹחִין | Mochin] 
+    B[מִידּוֹת | Middot]
+    C[מַלְכוּת | Malchut]
 
     A --> B
     B --> C
