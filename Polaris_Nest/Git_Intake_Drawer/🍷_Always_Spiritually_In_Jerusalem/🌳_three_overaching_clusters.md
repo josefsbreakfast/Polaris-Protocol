@@ -83,3 +83,7 @@ Yesod = יְסוֹד
 Malkhut = מַלְכוּת
 
 ```
+
+- counting Omer focuses on underpinnings, so Keter, Chokhmah, Binah, are all expected to flow from this work; skills for creating tzimtzum will be developed to hold them in the work on "lower" sephirot.
+
+- The idea of higher and lower spheres being more or less important is like saying that roots and branches and the trunk of the tree or somehow are more or less less important than each other. They're not really, are they? Do you use all of them. xx
