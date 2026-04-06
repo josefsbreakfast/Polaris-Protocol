@@ -109,6 +109,7 @@ therefore, using the bottom seven spheres, we can do seven weeks which all have 
 I'll get the reference and stick it in here at some point.  
 
 ```mermaid
+
 graph TD
     A[Chesed = חֶסֶד]
     B[Gevurah = גְּבוּרָה]  
@@ -126,6 +127,7 @@ D --> E
 E --> F
 F --> G
 
-G --> A: New cycle begins
+G -->  [New cycle begins] A
 
+ 
 ```
