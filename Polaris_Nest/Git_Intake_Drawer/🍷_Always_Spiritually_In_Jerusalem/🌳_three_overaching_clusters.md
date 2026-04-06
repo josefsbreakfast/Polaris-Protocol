@@ -20,7 +20,7 @@ Dibbur דִּבּוּר
 
 - do not assume hierarchy from diagram, could be as easily done 90 deg to current axis
 - energy is viewed as bidirectional in actuality; we follow procession through time for Omer as tradition
-- the upper tier (Mochin) comes as aggregate from each other tier supporting the trunk; not assigned to 49/50 schedule as flieing forth as aggregate value
+- the upper tier (Mochin) comes as aggregate from each other tier supporting the trunk; not assigned to 49/50 schedule as flowing forth as aggregate value
 
 *conceptually, each set of diagrams supports each other; use what you want, alter heavily as necessary*  
 
