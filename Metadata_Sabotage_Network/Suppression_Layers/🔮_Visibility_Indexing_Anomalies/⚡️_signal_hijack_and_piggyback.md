@@ -1,6 +1,9 @@
-# 🧭 Signal hijacking and keyword piggybacking
+# ⚡️ Signal Hijack, Keyword Piggyback  
+
 **First created:** 2026-04-06 | **Last updated:** 2026-04-06  
-*Diagnostic node on how unique search terms get copied, amplified, and contested across sites, including the limits of reciprocal linking as a defensive move.*
+*Diagnostic node on how unique search terms get copied, amplified, and contested across sites, including the limits of reciprocal linking as a defensive move.*  
+
+---
 
 ## Overview
 
@@ -15,6 +18,8 @@ In practical terms, this is best described as a cluster of related behaviours:
 
 Where the copied terms are highly specific, coined, or otherwise unusual, the pattern can also be understood as **signal hijacking**: the capture of a narrow semantic beacon that was originally seeded elsewhere.
 
+---
+
 ## Core dynamic
 
 The strategic problem can be stated simply:
@@ -24,7 +29,9 @@ The strategic problem can be stated simply:
 3. Search engines attempt to determine which site is the origin, which is the better answer, and whether both should rank.
 4. In practice, **originality alone is not enough**. Authority, reinforcement, and user behaviour often outweigh first use.
 
-This means that a weaker originator can lose effective control of a query it introduced.
+This means that a weaker originator can lose effective control of a query it introduced.  
+
+---
 
 ## How search engines tend to resolve the conflict
 
@@ -62,6 +69,8 @@ If users consistently choose Site B and remain there longer, search engines may 
 ### 5. Canonicalisation limits
 When pages are near-duplicates, search engines may try to choose a canonical version. But where the issue is **shared terminology rather than identical pages**, there is often no clean deduplication path. The result is not consolidation but competition.
 
+---
+
 ## Likely outcomes when a unique term is copied
 
 ### Best case for the originator
@@ -76,6 +85,8 @@ When pages are near-duplicates, search engines may try to choose a canonical ver
 - Site B absorbs the signal.
 - Site B becomes the dominant result.
 - Site A loses visibility for a term it introduced.
+
+---
 
 ## Reciprocal linking: what happens if A links to B and B links to A?
 
@@ -108,6 +119,8 @@ If A and B are competing for the same query space, A linking to B can strengthen
 
 That means the weaker site may unintentionally pass relevance and authority to the stronger competitor.
 
+---
+
 ## Strategic implications
 
 The central lesson is uncomfortable but useful:
@@ -124,6 +137,8 @@ Useful defensive moves include:
 - expanding into related semantic variations
 - avoiding careless outbound links to stronger competitors on the exact contested phrase
 
+---
+
 ## Working vocabulary
 
 For future analysis, this chat supports the following distinctions:
@@ -135,14 +150,20 @@ For future analysis, this chat supports the following distinctions:
 - **reciprocal linking** — mutual linking between competing or adjacent sites
 - **closed-loop validation** — a useful analytic phrase for why reciprocal linking is weak compared with third-party endorsements
 
+---
+
 ## Interpretation
 
 This pattern is best understood as a contest over **semantic ownership without formal ownership rights**. A site can introduce a signal yet still lose operational control of it if another actor is better positioned to absorb and amplify that signal inside the ranking system.
 
 That makes the problem less about plagiarism in the ordinary sense and more about **discoverability capture**.
 
+---
+
 ## 🌌 Constellations
 🧭 🕸️ 🪞 ⚖️ 📡 — diagnostic register for search-signal capture, authorship contest, and ranking displacement across linked domains.
+
+---
 
 ## ✨ Stardust
 keyword piggybacking, keyword hijacking, signal hijacking, parasite seo, seo parasitism, reciprocal linking, link exchange, semantic ownership, discoverability capture, closed-loop validation
