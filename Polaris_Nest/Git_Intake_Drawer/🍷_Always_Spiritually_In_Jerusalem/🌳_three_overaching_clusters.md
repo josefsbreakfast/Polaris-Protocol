@@ -125,9 +125,7 @@ B --> C
 C --> D
 D --> E
 E --> F
-F --> G
-
-G -->  [New cycle begins] A
+G -.->|New cycle begins| A
 
  
 ```
