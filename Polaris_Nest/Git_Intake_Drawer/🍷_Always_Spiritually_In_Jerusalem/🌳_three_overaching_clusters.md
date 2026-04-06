@@ -1,4 +1,4 @@
-````mermaid
+```mermaid
 graph TD
     A[מוֹחִין = Mochin] 
     B[מִידּוֹת  = Middot]
@@ -8,6 +8,7 @@ graph TD
     B --> C
     B --> A
     C --> B
+
   ```
 
 
