@@ -46,8 +46,8 @@ Dibbur דִּבּוּר
         c2[Malkhut]
     end
 
-    a2 --- b1
-    a3 --- b2
+    a1 --- a2
+    a2 --- a3
     b3 --- c1
 
   ```
