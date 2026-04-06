@@ -177,7 +177,7 @@ keyword piggybacking, keyword hijacking, signal hijacking, parasite seo, seo par
 > 📡 Cross-references:
 >
 > - [🧭 Diversion Hypothesis Node — “Why we get steered away”](../../../Disruption_Kit/Containment_Scripts/Suppression_Modes/🧭_diversion_hypothesis.md)  
-> - [Containment Scripts](../Containment_Scripts/) — *visibility shaping methods, amplification tactics, and suppression-adjacent behaviours*
+> - [🧠 Behavioural Forks — When Institutions Develop Split Personas](../../Narrative_And_Psych_Ops/👹_Fork_Behaviour_Containment/🧠_institutional_split_personas.md)  
 > - [Admin Kit](../Admin_Kit/) — *house style, taxonomy, and operational scaffolding for protocol nodes*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
