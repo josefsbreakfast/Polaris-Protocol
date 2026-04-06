@@ -68,3 +68,18 @@ like buddhism with more horseradish, maybe.
 look. if you wanted a rabbi, you could pay for one. (plenty of money for bombs, and yet when it comes to seminary placements or long-term stipend stability...)  
 
 🦎
+
+   
+```
+Keter = כֶּתֶר  
+Chokhmah = חָכְמָה  
+Binah = בִּינָה  
+Chesed = חֶסֶד  
+Gevurah = גְּבוּרָה  
+Tiferet = תִּפְאֶרֶת  
+Netzach = נֵצַח  
+Hod = הוֹד  
+Yesod = יְסוֹד  
+Malkhut = מַלְכוּת
+
+```
