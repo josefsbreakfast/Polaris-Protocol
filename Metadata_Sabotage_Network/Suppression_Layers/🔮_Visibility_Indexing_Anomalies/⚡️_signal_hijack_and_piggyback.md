@@ -20,7 +20,7 @@ Where the copied terms are highly specific, coined, or otherwise unusual, the pa
 
 ---
 
-## Core dynamic
+## 🗺️ Core dynamic
 
 The strategic problem can be stated simply:
 
@@ -33,7 +33,7 @@ This means that a weaker originator can lose effective control of a query it int
 
 ---
 
-## How search engines tend to resolve the conflict
+## 🚀 How search engines tend to resolve the conflict
 
 ### 1. Origin and indexing history
 Being first indexed with a distinctive term can help. Crawl history, prior presence, and continuity of usage are all authorship hints. But this is only a partial advantage.
@@ -71,7 +71,7 @@ When pages are near-duplicates, search engines may try to choose a canonical ver
 
 ---
 
-## Likely outcomes when a unique term is copied
+## 🐍 Likely outcomes when a unique term is copied
 
 ### Best case for the originator
 - Site A retains ranking priority.
@@ -88,7 +88,7 @@ When pages are near-duplicates, search engines may try to choose a canonical ver
 
 ---
 
-## Reciprocal linking: what happens if A links to B and B links to A?
+## ⭕️ Reciprocal linking: what happens if A links to B and B links to A?
 
 This is usually called **reciprocal linking** or, in more intentional forms, a **link exchange**.
 
@@ -121,7 +121,7 @@ That means the weaker site may unintentionally pass relevance and authority to t
 
 ---
 
-## Strategic implications
+## 🛠️ Strategic implications
 
 The central lesson is uncomfortable but useful:
 
@@ -139,7 +139,7 @@ Useful defensive moves include:
 
 ---
 
-## Working vocabulary
+## 🔥 Working vocabulary
 
 For future analysis, this chat supports the following distinctions:
 
@@ -152,7 +152,7 @@ For future analysis, this chat supports the following distinctions:
 
 ---
 
-## Interpretation
+## 🧿 Interpretation
 
 This pattern is best understood as a contest over **semantic ownership without formal ownership rights**. A site can introduce a signal yet still lose operational control of it if another actor is better positioned to absorb and amplify that signal inside the ranking system.
 
