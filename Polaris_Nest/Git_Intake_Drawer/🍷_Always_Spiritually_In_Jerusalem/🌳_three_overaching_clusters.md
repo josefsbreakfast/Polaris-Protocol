@@ -26,13 +26,13 @@ Dibbur דִּבּוּר
 ```mermaid
 graph TB
     c1 --> a2
-    subgraph one
+    subgraph one[מוֹחִין = Mochin]
     a1 --> a2
     end
-    subgraph two
+    subgraph two[מִידּוֹת  = Middot]
     b1 --> b2
     end
-    subgraph three
+    subgraph three[מַלְכוּת = Malchut]
     c1 --> c2
     end
   ```
