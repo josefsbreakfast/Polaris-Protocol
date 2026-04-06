@@ -14,5 +14,5 @@ graph TD
 **
 Malchut מַלְכוּת
 *can also be rendered as*
-Dibbur דִּבּוּר    
+Dibbur דִּבּוּר      
 *experiment with most fitting for own understanding of electron cloud masquandering as spiritual concept*  
