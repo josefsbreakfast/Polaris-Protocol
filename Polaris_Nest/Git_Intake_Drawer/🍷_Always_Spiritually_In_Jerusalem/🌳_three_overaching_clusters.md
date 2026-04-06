@@ -65,6 +65,6 @@ Dibbur דִּבּוּר
 like buddhism with more horseradish, maybe.
 
 
-look. if you wanted a rabbi, you could pay for one.  
+look. if you wanted a rabbi, you could pay for one. (plenty of money for bombs, and yet when it comes to seminary placements or long-term stipend stability...)  
 
 🦎
