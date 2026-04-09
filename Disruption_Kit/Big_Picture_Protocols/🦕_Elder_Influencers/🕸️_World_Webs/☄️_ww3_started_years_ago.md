@@ -1,10 +1,10 @@
-# ☄️ Already in World War 3  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-19  
+# ☄️ "WW3" Started Years Ago  
+**First created:** 2025-10-03 | **Last updated:** 2026-04-09  
 *The argument that a third world war is ongoing, but mis-recognised.*  
 
 ---
 
-## 📖 Core Claim  
+## ✨ Core Claim  
 
 World War 3 is not a hypothetical future.  
 It is ongoing — diffuse, distributed, and already several years deep.  
@@ -44,7 +44,7 @@ world war 3, ongoing conflict, distributed warfare, denial, escalation, containm
 
 ## 🏮 Footer  
 
-*☄️ Already in World War 3* is a living node of the Polaris Protocol.  
+*☄️ "WW3" Started Years Ago* is a living node of the Polaris Protocol.  
 It argues that the third world war is not a coming possibility but a present, mis-labelled condition.  
 
 > 📡 Cross-references:
@@ -55,4 +55,4 @@ It argues that the third world war is not a coming possibility but a present, mi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-04-09_
