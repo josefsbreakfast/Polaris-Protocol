@@ -163,7 +163,7 @@ mutual disruption, systemic risk, deterrence theory, interdependence, escalation
 > 📡 Cross-references:
 > 
 > - [☄️ "WW3" Started Years Ago](./☄️_ww3_started_years_ago.md)  
-> - Big Picture Protocols — structural analysis of systemic dynamics  
+> - [🧪 Acid Accelerationism](./🧪_acid_accelerationism.md)  
 
 Survivor authorship is sovereign. Containment is never neutral.  
 
