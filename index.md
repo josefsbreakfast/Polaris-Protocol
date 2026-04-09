@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-09 20:00:00 UTC_
+_Generated on 2026-04-09 20:03:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1193,7 +1193,6 @@ _Generated on 2026-04-09 20:00:00 UTC_
         - [`🧨_structural_racism_as_national_security_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧨_structural_racism_as_national_security_vulnerability.md)
         - [`🧩_from_diffusion_to_forum_cross_pollination.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧩_from_diffusion_to_forum_cross_pollination.md)
         - [`🧩_great_replacement_as_multigroup_elimination_myth.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧩_great_replacement_as_multigroup_elimination_myth.md)
-        - [`🧪_acid_accelerationism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧪_acid_accelerationism.md)
         - [`🧪_futurism_as_fascist_aesthetic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧪_futurism_as_fascist_aesthetic.md)
         - [`🧬_affective_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧬_affective_infrastructure.md)
         - [`🧬_exit_exploitation_and_immortality_the_thiel_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧬_exit_exploitation_and_immortality_the_thiel_paradox.md)
@@ -1421,6 +1420,7 @@ _Generated on 2026-04-09 20:00:00 UTC_
         - [`🕸️_algorithmic_hearing_is_not_listening.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🕸️_algorithmic_hearing_is_not_listening.md)
         - [`🤖_general_issue_robots.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🤖_general_issue_robots.md)
         - [`🧠_ai_ethicswash.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🧠_ai_ethicswash.md)
+        - [`🧪_acid_accelerationism.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🧪_acid_accelerationism.md)
       - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md)
         - [`suppression_experience_spectrum.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/suppression_experience_spectrum.png)
