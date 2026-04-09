@@ -149,7 +149,7 @@ accelerationism, perceptual distortion, time compression, systemic instability, 
 
 > 📡 Cross-references:
 > 
-> - [📌 Mutually Assured Pains in Arses](./📌_mutually_assured_pains_in_arses.md) — *systemic constraint through shared disruption*  
+> - [📌 Mutually Assured Pains in Arses](../../🦕_Elder_Influencers/🕸️_World_Webs/📌_mutually_assured_pains_in_arses.md) — *systemic constraint through shared disruption*  
 > - 🕸️ World Webs — interconnected system dynamics  
 
 Survivor authorship is sovereign. Containment is never neutral.  
