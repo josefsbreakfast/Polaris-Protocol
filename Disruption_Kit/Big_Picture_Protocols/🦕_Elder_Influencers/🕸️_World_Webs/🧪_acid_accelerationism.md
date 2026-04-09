@@ -145,11 +145,11 @@ accelerationism, perceptual distortion, time compression, systemic instability, 
 
 ## 🏮 Footer  
 
-Acid Accelerationism is a living node within the Polaris Protocol, describing how attempts to accelerate or disrupt complex systems can produce both systemic instability and distorted perception. It complements models of constraint by explaining how environments may feel chaotic and meaningful even as underlying structures impose limits.
+*🧪 Acid Accelerationism* is a living node within the Polaris Protocol, describing how attempts to accelerate or disrupt complex systems can produce both systemic instability and distorted perception. It complements models of constraint by explaining how environments may feel chaotic and meaningful even as underlying structures impose limits.
 
 > 📡 Cross-references:
 > 
-> - 📌 Mutually Assured Pains in Arses — systemic constraint through shared disruption  
+> - [📌 Mutually Assured Pains in Arses](./📌_mutually_assured_pains_in_arses.md) — *systemic constraint through shared disruption*  
 > - 🕸️ World Webs — interconnected system dynamics  
 
 Survivor authorship is sovereign. Containment is never neutral.  
