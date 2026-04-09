@@ -97,11 +97,47 @@ But it does not:
 - eliminate miscalculation  
 - guarantee stability  
 
-Under extreme ideological or existential conditions, MAPA may fail.
+Under extreme ideological or existential conditions, MAPA may fail.  
 
 ---
 
-## 🧩 Implications  
+## 🧪 Multi-Domain Cascades
+
+Escalation in contemporary conflicts often activates multiple interdependent systems simultaneously. These include:
+
+- **Energy and trade systems** — disruption to shipping routes and resource flows generates inflationary and logistical pressure  
+- **Digital infrastructure** — risks to undersea cables and communication networks threaten data flow, coordination, and financial operations  
+- **Financial systems** — volatility, capital movement, and liquidity stress amplify economic instability  
+
+While each domain can absorb limited disruption, simultaneous stress across all three produces compounding effects. These cascading pressures increase the systemic cost of escalation for multiple actors, contributing to restraint without requiring coordination.  
+
+This dynamic illustrates how modern conflict functions less as a discrete military contest and more as a system-wide stress event across interconnected global infrastructures.  
+
+---
+
+## 🧠 Perception vs Systemic Reality  
+
+While modern conflicts activate systemic constraints across infrastructure, energy, and financial systems, these dynamics are not always clearly perceived within public information environments.
+
+Digital media ecosystems tend to:
+
+- Prioritise immediacy over duration  
+- Amplify emotionally salient events over structurally significant ones  
+- Present unrelated events within the same temporal and visual frame  
+- Reward repetition and visibility over contextual accuracy  
+
+As a result, escalation may appear continuous or inevitable, even as underlying systems impose limits and generate pressure toward restraint.
+
+This creates a divergence between:
+
+- **Perceived trajectory** — rapid escalation, instability, potential large-scale conflict  
+- **Systemic trajectory** — constrained escalation shaped by interdependence and accumulating cost  
+
+Understanding this gap is critical for accurately interpreting modern geopolitical dynamics, particularly in environments characterised by high information volume and low contextual stability.  
+
+---
+
+## 🌳 Implications  
 
 - Modern power is constrained by systemic entanglement, not just military capability  
 - Perceptions of strength may be distorted when systemic constraints are not visible  
