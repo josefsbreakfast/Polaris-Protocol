@@ -162,7 +162,7 @@ mutual disruption, systemic risk, deterrence theory, interdependence, escalation
 
 > 📡 Cross-references:
 > 
-> - 🕸️ World Webs — networked systems and interdependence mapping  
+> - [☄️ "WW3" Started Years Ago](./☄️_ww3_started_years_ago.md)  
 > - Big Picture Protocols — structural analysis of systemic dynamics  
 
 Survivor authorship is sovereign. Containment is never neutral.  
