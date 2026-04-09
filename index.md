@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-09 18:10:54 UTC_
+_Generated on 2026-04-09 19:32:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1162,6 +1162,7 @@ _Generated on 2026-04-09 18:10:54 UTC_
         - [`💣_energy_rents_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💣_energy_rents_timeline.csv)
         - [`💰_brics_and_petrol_dollars.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💰_brics_and_petrol_dollars.md)
         - [`💸_russian_overlap_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💸_russian_overlap_patterns.md)
+        - [`📌_mutually_assured_pains_in_arses.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📌_mutually_assured_pains_in_arses.md)
         - [`📚_the_tenth_library.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📚_the_tenth_library.md)
         - [`📜_torah_as_structure_of_truth.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📜_torah_as_structure_of_truth.md)
         - [`📯_soundline_bark_to_trumpet.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/📯_soundline_bark_to_trumpet.md)
