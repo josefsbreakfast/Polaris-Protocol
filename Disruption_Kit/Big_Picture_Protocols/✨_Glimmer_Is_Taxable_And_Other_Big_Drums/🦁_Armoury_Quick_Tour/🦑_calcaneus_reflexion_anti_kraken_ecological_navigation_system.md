@@ -208,7 +208,7 @@ resilience engineering, nuclear systems engineering, clinical reasoning, root ca
 
 > 📡 Cross-references:
 >
-> - [⚖️ Defend Forward & Sovereign Cyber Response Ladder](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md) - moving from 2D to 3D-considered defence planning*  
+> - [⚖️ Defend Forward & Sovereign Cyber Response Ladder](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md) - *moving from 2D to 3D-considered defence planning*  
 > - [🐉 It’s Not Always Daddy Dragon](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐉_its_not_always_daddy_dragon.md) — *C.R.A.K.E.N. applied throughout the series on FCDO hack*  
 > - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) — *C.R.A.K.E.N. applied to a more mainstreamed sock-puppet campaign*    
 
