@@ -192,7 +192,7 @@ is the only way to keep the metaphorical Kraken asleep.
 ## 🌌 Constellations  
 
 *Further reading/media:*  
-- [Sky News: "There are 80 indicators on whether a war is looming - and signs may arise as far as 20 years before a crisis occurs.", Dr Rob Johnson.](https://vm.tiktok.com/ZNR4wo1Wc/)  
+- [Sky News: "There are 80 indicators on whether a war is looming - and signs may arise as far as 20 years before a crisis occurs", Dr Rob Johnson.](https://vm.tiktok.com/ZNR4wo1Wc/)  
 
 ---
 
