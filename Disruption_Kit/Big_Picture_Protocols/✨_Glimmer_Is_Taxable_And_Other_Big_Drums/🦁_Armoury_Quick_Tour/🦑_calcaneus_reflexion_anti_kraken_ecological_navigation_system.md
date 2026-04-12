@@ -1,5 +1,5 @@
 # 🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System  
-**First Created:** 2025-11-19 | **Last updated:** 2026-02-20  
+**First Created:** 2025-11-19 | **Last updated:** 2026-04-13  
 *The CRAKEN System — a reflexive, load-aware ecological model for geopolitical analysis.*  
 
 ---
@@ -79,7 +79,7 @@ and **triggering submerged risk layers**.
 
 ## 🧠 CRAKEN Components  
 
-## 1. Reflexive Load Mapping  
+### 1. Reflexive Load Mapping  
 How your moves reshape:
 
 - threat perception  
@@ -89,7 +89,7 @@ How your moves reshape:
 - economic interdependencies  
 - public fear thresholds  
 
-## 2. Mutual Perception Loops  
+### 2. Mutual Perception Loops  
 Actors interpret based on:
 
 - trauma  
@@ -102,7 +102,7 @@ Actors interpret based on:
 CRAKEN models **how they think we think**  
 about how they think.
 
-## 3. Distributed Pressure Awareness  
+### 3. Distributed Pressure Awareness  
 Force vectors spread through:
 
 - markets  
@@ -113,7 +113,7 @@ Force vectors spread through:
 - public opinion  
 - internal factions  
 
-## 4. Strategic Remodelling  
+### 4. Strategic Remodelling  
 Actors change shape when:
 
 - cornered  
@@ -126,7 +126,7 @@ Actors change shape when:
 This is calcaneus remodelling:  
 **forces reshape the structure.**
 
-## 5. Fracture Detection  
+### 5. Fracture Detection  
 Identifying systemic stress lines:
 
 - Taiwan  
@@ -191,6 +191,9 @@ is the only way to keep the metaphorical Kraken asleep.
 
 ## 🌌 Constellations  
 
+*Further reading/media:*  
+- [Sky News: "There are 80 indicators on whether a war is looming - and signs may arise as far as 20 years before a crisis occurs.", Dr Rob Johnson.](https://vm.tiktok.com/ZNR4wo1Wc/)  
+
 ---
 
 ## ✨ Stardust  
@@ -212,4 +215,4 @@ resilience engineering, nuclear systems engineering, clinical reasoning, root ca
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-04-13_
