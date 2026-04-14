@@ -62,8 +62,9 @@ who gets to speak, transmission rights, outlaw media, legitimacy optics, banned 
 
 ## 🏮 Footer  
 *📡 Who Gets to Transmit* is a constellation node of the Polaris Protocol.  
+
 It anchors the **Banned Broadcasts Cooperative**, mapping how states and corporations criminalise, ban, or flood transmissions that challenge their legitimacy.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2026-04-14_  
