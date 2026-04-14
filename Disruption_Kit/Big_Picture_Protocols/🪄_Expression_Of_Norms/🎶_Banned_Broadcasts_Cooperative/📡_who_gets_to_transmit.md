@@ -1,5 +1,5 @@
 # 📡 Who Gets to Transmit  
-**First created:** 2025-09-15 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-15 | **Last updated:** 2026-04-14  
 *Constellation thesis: containment is never about safety, it is about legitimacy.*  
 
 ---
@@ -38,6 +38,10 @@ From Brixton sofa parties to Congress Radio, from algorithmic pastel floods to W
 ## 🌌 Constellations  
 
 📡 🎶 📚 ➰ 🎙 🕳 ⚡ — This node anchors the outlaw broadcast constellation.  
+
+*Related media:*  
+
+- [🎟️: Lo-Wu Live. Chapter 1: The Lost Art of The Sound Man, Shai Space, Peckham.](https://vm.tiktok.com/ZNRVFsKTx/)  
 
 **Constituent nodes:**  
 - [🎶 Pirate Radio as Policed Resistance](./🎶_pirate_radio_as_policed_resistance.md)  
