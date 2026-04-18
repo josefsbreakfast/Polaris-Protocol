@@ -1,45 +1,81 @@
 # 🎙️ Cloneproof Protocol  
-**First created:** 2025-10-31 | **Last updated:** 2025-12-07  
-*Authenticity architectures for voice, data, and identity integrity in post‑synthetic environments.*  
+**First created:** 2025-10-31 | **Last updated:** 2026-04-19  
+*Authenticity architectures for voice, data, and identity integrity in post-synthetic environments.*  
 
 ---
 
 ## 🛰️ Orientation  
 
-The **Cloneproof Protocol** cluster documents the practical side of voice fidelity: how to verify, watermark, and preserve authorship in a landscape where imitation is effortless. It maps the overlap between digital forensics, ethics, and survivor protection—the infrastructure that allows people to prove *who is speaking* and *what was really said.*
+The **Cloneproof Protocol** defines the system-level conditions required to preserve **authorship, fidelity, and consent** in environments where synthetic replication is trivial.  
 
-> *If imitation is inevitable, integrity must become measurable.*
+It establishes how voice, data, and identity can remain **traceable, attributable, and verifiable** across capture, transformation, and distribution.  
+
+Where imitation removes scarcity, cloneproofing restores **distinguishability**.  
+
+> *If imitation is inevitable, integrity must be measurable and enforceable.*
 
 ---
 
 ## ⚖️ Intent  
 
-To build the **integrity scaffolding** that *Voice Disruption* exposes as missing: a set of interoperable standards, checklists, and ethical algorithms that make manipulation visible. Cloneproofing is not a product but a culture of verification—one that treats every recording, transcript, and dataset as a site of care.  
+To build the **integrity infrastructure** required to detect, resist, and evidence manipulation.  
+
+Cloneproofing is not a single tool but a **coordinated system of constraints**, including:
+
+- verifiable provenance chains  
+- cryptographic watermarking and signature layers  
+- consent-aware data handling  
+- audit-ready transformation tracking  
+
+It treats every recording, transcript, and dataset as a **high-risk authenticity surface**, requiring continuous verification rather than assumed trust.
+
+---
+
+## 🧠 Core Principles  
+
+- **Traceability over trust** — all artefacts must be reconstructable through verifiable chains.  
+- **Authorship persistence** — identity linkage must survive transformation and redistribution.  
+- **Consent continuity** — permission must propagate with the artefact across all downstream uses.  
+- **Tamper visibility** — manipulation must be detectable, not merely prohibited.  
+- **System survivability** — verification must remain possible even if original platforms fail.  
+
+---
+
+## 🔗 System Dependencies  
+
+Cloneproof Protocol operates in conjunction with:
+
+- **📡 Provenance Chain Audit** — reconstructs full lifecycle traceability  
+- **⚙️ Verification & Watermarking Standards** — establishes point-in-time authenticity signals  
+- **🛡️ Survivor-Consent Frameworks** — enforces permission integrity across systems  
+
+> Cloneproofing fails if any of these layers are absent or non-interoperable.
 
 ---
 
 ## 🌌 Constellations  
 
-🎙️ 👅 ⚖️ 🧠 🧿 — authenticity · governance · cognition · fidelity · ethics  
+🎙️ 📡 ⚖️ 🧠 🧿 — identity fidelity · forensic trace · accountability · cognition · ethical enforcement  
 
 ---
 
 ## ✨ Stardust  
 
-voice authentication, watermarking, provenance audit, consent architecture, data integrity, synthetic media ethics
+voice authentication, watermarking, provenance chain, consent continuity, data integrity, synthetic media verification, authorship protection  
 
 ---
 
 ## 🏮 Footer  
 
-*🎙️ Cloneproof Protocol* anchors the technical‑ethical interface of the **Polaris Protocol**. It provides the tools that let governance and narrative clusters test themselves for truth drift. Where *Voice Disruption* describes the loss of trust, *Cloneproof* designs its restoration.
+*🎙️ Cloneproof Protocol* is a core node of the **Polaris Protocol**, defining how authenticity is preserved under conditions of infinite reproducibility.  
+It establishes cloneproofing as an infrastructural requirement for any system handling voice, identity, or narrative evidence.  
 
-> 📡 Cross‑references:  
+> 📡 Cross-references:  
 > 
-> - [⚙️ Verification & Watermarking Standards] — *technical foundations for traceable authenticity*  
-> - [🛡️ Survivor‑Consent Frameworks] — *templates for informed participation*  
-> - [📡 Provenance Chain Audit] — *procedures for reconstructing data lineage*  
+> - [⚙️ Verification & Watermarking Standards] — *technical primitives for authenticity signals*  
+> - [🛡️ Survivor-Consent Frameworks] — *permission enforcement across data lifecycles*  
+> - [📡 Provenance Chain Audit] — *end-to-end reconstruction of authorship and custody*  
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-04-19_
