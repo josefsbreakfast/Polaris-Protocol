@@ -1,5 +1,5 @@
 # 🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System  
-**First Created:** 2025-11-19 | **Last updated:** 2026-04-13  
+**First Created:** 2025-11-19 | **Last updated:** 2026-04-18  
 *The CRAKEN System — a reflexive, load-aware ecological model for geopolitical analysis.*  
 
 ---
@@ -192,7 +192,8 @@ is the only way to keep the metaphorical Kraken asleep.
 ## 🌌 Constellations  
 
 *Further reading/media:*  
-- [Sky News: "There are 80 indicators on whether a war is looming - and signs may arise as far as 20 years before a crisis occurs", Dr Rob Johnson.](https://vm.tiktok.com/ZNR4wo1Wc/)  
+- Y axis: [Sky News: "There are 80 indicators on whether a war is looming - and signs may arise as far as 20 years before a crisis occurs", Dr Rob Johnson.](https://vm.tiktok.com/ZNR4wo1Wc/)
+- X axis: []()  
 
 ---
 
@@ -215,4 +216,4 @@ resilience engineering, nuclear systems engineering, clinical reasoning, root ca
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-04-13_
+_Last updated: 2026-04-18_
