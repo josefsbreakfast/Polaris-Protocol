@@ -1,5 +1,5 @@
 # 🕸️ Survivor-Consent Frameworks  
-**First created:** 2025-10-31 | **Last updated:** 2026-04-19  
+**First created:** 2025-10-31 | **Last updated:** 2026-04-18  
 *System architectures for lawful, revocable, and enforceable consent in voice, data, and identity processing.*  
 
 ---
@@ -166,4 +166,4 @@ It establishes consent as a continuous, enforceable condition of system legitima
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-19_
+_Last updated: 2026-04-18_
