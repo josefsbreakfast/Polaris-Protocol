@@ -1,5 +1,5 @@
 # ⚙️ Verification & Watermarking Standards  
-**First created:** 2025-10-31 | **Last updated:** 2026-04-19  
+**First created:** 2025-10-31 | **Last updated:** 2026-04-18  
 *System architectures for proving that a voice, image, or dataset is authentic, intact, and authorised.*  
 
 ---
@@ -16,7 +16,7 @@ They convert:
 
 ---
 
-## 🧩 Core Capabilities  
+## ✨ Core Capabilities  
 
 - **Embedded watermarking** — persistent, machine-detectable signals applied at point of capture  
 - **Cryptographic binding** — hashes linking media, device, and associated metadata  
@@ -90,7 +90,7 @@ For journalists, researchers, and individuals, these standards enable **portable
 
 ---
 
-## 🛠 Implementation Principles  
+## 🚀 Implementation Principles  
 
 | Layer            | Standard or safeguard                                   | Implementation expectation                                                                 |
 |------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------|
@@ -104,7 +104,7 @@ For journalists, researchers, and individuals, these standards enable **portable
 
 ---
 
-## 🔗 System Dependencies  
+## 🐙 System Dependencies  
 
 Verification & Watermarking Standards are not sufficient in isolation.
 
@@ -134,14 +134,15 @@ watermarking, cryptographic verification, provenance linkage, consent binding, c
 ## 🏮 Footer  
 
 *⚙️ Verification & Watermarking Standards* defines the technical layer of authenticity within the **Polaris Protocol**.  
+
 It ensures that digital artefacts can be independently verified, traced, and trusted across systems and over time.  
 
 > 📡 Cross-references:  
 > 
-> - [🎙️ Cloneproof Protocol] — *system-level integrity requirements for identity and media*  
-> - [🛡️ Survivor-Consent Frameworks] — *permission continuity across data lifecycles*  
-> - [📡 Provenance Chain Audit] — *end-to-end reconstruction of custody and transformation*  
+> - [🎙️ Cloneproof Protocol](./🎙️_cloneproof_protocol.md) — *system-level integrity requirements for identity and media*  
+> - [🕸️ Survivor-Consent Frameworks](../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_survivor_consent_frameworks.md) — *permission continuity across data lifecycles*  
+> - [📡 Provenance Chain Audit](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📡_provenance_chain_audit.md) — *end-to-end reconstruction of custody and transformation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-19_
+_Last updated: 2026-04-18_
