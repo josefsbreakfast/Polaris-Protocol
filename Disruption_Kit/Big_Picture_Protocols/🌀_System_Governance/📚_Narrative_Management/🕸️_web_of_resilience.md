@@ -1,226 +1,276 @@
 # 🕸️ Web of Resilience  
-**First created:** 2025-09-03 | **Last updated:** 2025-10-18  
-*Unified field manual for countering insurgency-style information operations across micro, communal, and systemic levels.*  
+**First created:** 2025-09-03 | **Last updated:** 2026-04-18  
+*Unified field manual for navigating and countering high-risk information environments across micro, communal, and systemic levels.*  
 
 ---
 
 ## ✨ Explainer  
+
 This protocol merges two strands of Polaris work:  
 - the **two-layer model** (micro nervous-system survival + macro infrastructure resilience), and  
 - the **three-tier framework** (system, communal, personal).  
 
-🤝 Together, they form a unified manual for hostile data terrains. 🤝  
+🤝 Together, they form a unified manual for hostile or destabilising information terrains. 🤝  
 
-The guiding principle is that **information war behaves like insurgency**: it fragments, pairs, and floods rather than fighting openly.  
-- At the **personal/micro level**, the target is the nervous system: overloading with noise, spikes of humiliation, or ghost inserts.  
-- At the **communal/meso level**, the target is trust: sowing confusion, impersonation, or archive corruption.  
-- At the **system/macro level**, the target is infrastructure: deregulated platforms, cloud choke points, and cross-border turbulence.  
+The guiding principle is that **some information operations exhibit patterns comparable to insurgency dynamics**: fragmentation, pairing, flooding, and context disruption rather than direct confrontation.  
+
+- At the **personal/micro level**, the target is the nervous system: overload, confusion, and emotional spikes.  
+- At the **communal/meso level**, the target is trust: impersonation, misalignment, and archive instability.  
+- At the **system/macro level**, the target is infrastructure: centralisation risk, platform fragility, and regulatory gaps.  
 
 🏯 Resilience must therefore be **layered**: stabilising the body, preserving solidarity, and diversifying infrastructure. 🏯  
 
-This document is not a single recipe. It is a *playbook for recognition and response*, helping users to:  
-1. Identify which level is under attack.  
-2. Apply the correct countermove.  
-3. Conserve energy, prioritising survival and cohesion over confrontation.  
+This document is a *playbook for recognition and response*, helping users to:  
+1. Identify which level is under pressure.  
+2. Apply the appropriate response.  
+3. Conserve energy, prioritising stability and cohesion over escalation.  
+
+---
+
+## ⚠️ Scope Boundary  
+
+This framework is designed for environments experiencing **high-volume, adversarial, or destabilising information flows**.  
+
+It should not be applied indiscriminately to routine disagreement, benign error, or low-risk communication contexts.  
+
+Misapplication can increase stress, reduce clarity, and damage trust.
 
 ---
 
 ## 🩻 Assumptions  
-- The Anglophone internet stack (.com domains, cloud services, major social platforms) is centralized, deregulated, and geopolitically exposed.  
-- Information operations (IO) use insurgency logics: pairing, flooding, fragmentation, and context collapse.  
-- Impacts cascade across three layers: **personal → communal → system**.  
-- Civilians are drawn in as participants without consent.  
-- Objective: preserve nervous-system stability (micro), sustain group trust (meso), and protect core infrastructure (macro).  
+
+- The Anglophone internet stack (.com domains, major platforms, cloud services) is centralised and exposed to systemic risk.  
+- Some information operations use patterns resembling insurgency logics: flooding, fragmentation, and context disruption.  
+- Impacts can cascade across three layers: **personal → communal → system**.  
+- Individuals may be drawn into these dynamics without full awareness or consent.  
+- Objective: maintain nervous-system stability (micro), sustain group trust (meso), and protect core infrastructure (macro).  
 
 ---
 
-## ⚡ 1. Personal / Micro — Nervous System Survival  
+## ⚡ 1. Personal / Micro — Nervous System Stability  
 
 ### 1.1 Intake Triage  
 - **Stable signal** → repeats, coherent, anchored.  
-- **Ghost insert** → one-off, fragment, disappears.  
-- **Rule**: if no repeat within 72h → discard.  
+- **Ghost insert** → fragmentary, non-repeating, low context.  
+- **Rule**: if no repeat or corroboration within ~72h → deprioritise unless independently verified.  
+
+---
 
 ### 1.2 Response Discipline  
-- Fear-driven testing → minimal reassurance + boundary.  
-- Control/cruelty → disengage.  
-- **Pocket tool**:  
+- Fear-driven impulses → minimal reassurance + boundary.  
+- Control or hostility → disengage.  
+
+**Pocket tool:**  
 1. Name the urge.  
-2. Use grounding techniques, visualisation, mediatation to delay urge.    
-3. Delay 10 minutes before acting.  
+2. Pause using grounding (breath, posture, sensory reset).  
+3. Delay action by at least 10 minutes.  
+
+---
 
 ### 1.3 Rest Protocol  
 - Exposure:Rest ratio → 25:5.  
 - Daily hard stop for inputs.  
 - Micro reset: unclench jaw, drop shoulders, 3 slow breaths.  
 
+---
+
 ### 1.4 Evidence Log  
-- Record: date/time, channel, stable/ghost, effect, action.  
-- Cap: 10 minutes. No rumination.  
+- Record: date/time, channel, signal type, effect, action.  
+- Cap: 10 minutes.  
+
+**Purpose:** capture patterns without reinforcing rumination.  
+
+---
 
 ### 1.5 Escalation  
-- Self-harm spike → immediate support line / trusted contact.  
-- Doxxing/stalking → screenshot + escalate.  
+- Acute distress or self-harm risk → contact support or trusted person.  
+- Doxxing, stalking, or credible threat → document and escalate appropriately.  
 
 ---
 
 ## 🎋 2. Communal / Meso — Group Cohesion & Trust  
 
-### 2.1 Tactics in Play  
-- Flood-the-zone: overwhelm with noise.  
-- Identity confusion: paired voices, impersonation.  
-- Narrative laundering: rumour → amplification → citation.  
-- Context collapse: private → hostile public.  
-
-### 2.2 Risks  
-- Fragmented solidarity.  
-- Collapse of communal trust.  
-- Corrupted archives.  
-- False conflicts seeded by inserts.  
-
-### 2.3 Countermoves  
-- **Slow lanes**: digests, documents, not firehoses.  
-- **Verification cells**: small groups checking provenance.  
-- **Memory infrastructure**: resilient archives with cross-signatures.  
-- **Mutual aid protocols**: repair trust explicitly.  
-- **Compartmentalisation**: separate comms by function.  
+### 2.1 Patterns in Play  
+- Flood-the-zone: overwhelming volume  
+- Identity confusion: impersonation or misattribution  
+- Narrative laundering: rumour → amplification → citation  
+- Context collapse: private material entering hostile public space  
 
 ---
 
-## 🎏 3. System / Macro — Infrastructure & Geopolitics  
+### 2.2 Risks  
+- Fragmented solidarity  
+- Erosion of trust  
+- Corrupted or unreliable archives  
+- False conflicts  
 
-### 3.1 Tactics in Play  
-- Deregulation as vulnerability (“move fast, break things”).  
-- Kamikaze posture: burning trust for tactical gains.  
-- Centralisation of risk: .com stack, ISP choke points.  
-- Cross-border turbulence: deregulated zones exporting instability.  
+---
+
+### 2.3 Countermoves  
+- **Slow lanes**: prioritise digests and structured communication  
+- **Verification cells**: small groups applying provenance and verification standards  
+- **Memory infrastructure**: resilient, cross-signed archives  
+- **Mutual aid protocols**: explicit trust repair  
+- **Compartmentalisation**: separate communication by function  
+
+---
+
+## 🎏 3. System / Macro — Infrastructure & Environment  
+
+### 3.1 Patterns in Play  
+- Incentives favouring speed over integrity  
+- Short-term trust sacrifice for tactical gain  
+- Centralisation of infrastructure risk  
+- Cross-border instability affecting information systems  
+
+---
 
 ### 3.2 Risks  
-- Collapse of trust in infrastructure (banking, trade, identity).  
-- Fragility of data and archives.  
-- Strategic dependence on unstable providers.  
+- Loss of trust in systems (identity, finance, communication)  
+- Fragility of archives and data continuity  
+- Dependence on unstable or opaque providers  
+
+---
 
 ### 3.3 Countermoves  
-- Diversify: open protocols, distributed hosting, community-owned networks.  
-- Regulation: recognise IO tactics as systemic risks.  
-- Scenario planning: e.g. “72h cloud outage.”  
-- Encourage redundancy: offline storage, alternate comms, fallback currencies.  
+- Diversification: open protocols, distributed systems  
+- Regulation: recognise systemic information risks  
+- Scenario planning (e.g. temporary platform or cloud loss)  
+- Redundancy: offline storage, alternate communication channels  
 
 ---
 
 ## 🛁 4. Operational Hygiene  
 
 ### Devices & Accounts  
-- Dirty/Clean split (browsing vs. identity).  
-- Hardware security keys > SMS 2FA.  
-- Quarterly audit: sessions, tokens, linked apps.  
+- Separate low-risk and high-risk usage  
+- Hardware security keys preferred over SMS 2FA  
+- Quarterly audit of sessions and access  
+
+---
 
 ### Backups & Docs  
-- 3-2-1 rule: 3 copies, 2 media types, 1 offsite.  
-- Export critical docs monthly, test restore twice yearly.  
+- 3-2-1 rule: 3 copies, 2 media types, 1 offsite  
+- Regular restore testing  
+
+---
 
 ### Comms Fallback  
-- Pre-agreed backup channels + code phrase (“BAT CHECK”).  
-- Offline contact sheet.  
-- Digests over constant feeds.  
+- Pre-agreed backup channels  
+- Offline contact lists  
+- Structured updates over constant streams  
+
+---
 
 ### Info Discipline  
-- Buckets: Verify → Park → Ignore.  
-- 3 sources + timestamps before action.  
-- 24h cooling-off for high-arousal inputs.  
+- Categorise: Verify → Park → Ignore  
+- Require multiple sources + timestamps before acting  
+- Cooling-off period for high-arousal inputs  
+
+---
 
 ### Financial Resilience  
-- Maintain 2 banks, real-time alerts.  
-- Cash reserve + low-limit backup card.  
-- Drill 72h “bank outage” scenario.  
+- Multiple institutions  
+- Alerts and fallback access  
+- Scenario testing (e.g. short-term outage)  
+
+---
 
 ### Incident Response  
-1. Isolate device.  
-2. From clean device: reset credentials.  
-3. Malware scan + patch.  
-4. Document indicators.  
-5. Notify affected contacts.  
+1. Isolate device  
+2. Reset credentials from clean device  
+3. Scan and update systems  
+4. Document indicators  
+5. Notify relevant contacts  
+6. Log briefly without over-analysis  
+
+---
 
 ### Red Lines  
-- Sustained cruelty.  
-- Doxxing or credible threats.  
-- Impersonation.  
-- Overwhelm unrelieved by rest.  
+- Sustained targeted hostility  
+- Doxxing or credible threats  
+- Impersonation  
+- Persistent overwhelm not relieved by rest  
 
 ---
 
-## 🧿 5. Visual Mapping: Two-Layer vs Three-Tier  
+## 🚫 When *Not* to Apply This Protocol  
 
-|                 | **Micro (Personal/Nervous System)** | **Macro (Structural/Systemic)** |
-|-----------------|--------------------------------------|----------------------------------|
-| **Personal**    | Nervous system survival — intake triage, rest cycles, evidence log | Device & account hygiene, evidence discipline, incident response |
-| **Communal**    | Group trust — slow lanes, verification cells, memory infrastructure | Comms fallback, info discipline, mutual aid protocols |
-| **System**      | Infrastructure trust — redundancy, open protocols, regulation | Diversified infrastructure, scenario planning, financial resilience |
+This framework is designed for **high-stress or adversarial conditions**, not everyday interaction.  
 
 ---
 
-## 🧬 6. Background & History  
+### ⚠️ Do not apply when:
 
-The *Web of Resilience* emerges from two prior Polaris threads:  
-
-1. **🍃 Two-Layer Resilience Protocol** (2025-08) — first framed resilience as a dual movement: stabilising the nervous system (micro) and diversifying infrastructure (macro). It documented how survival tactics scale upward into infrastructure questions.  
-
-2. **Three-Tier Framework** (2025-09) — drawn from field logs on communal fracture and archive sabotage, this added the meso/communal layer: trust as a target in itself.  
-
-These strands converged after repeated **field observations**:  
-- Nervous systems collapsing under ghost inserts and humiliation spikes.  
-- Groups fragmenting under impersonation and narrative laundering.  
-- Infrastructure showing fragility at ISP chokepoints and cloud outages.  
-
-Historically, resilience discourse has often been weaponised — used to excuse austerity or demand endurance under harm (see [🧨 Resilience as Suppression Rhetoric](../../../Containment_Scripts/Suppression_Modes/🧨_resilience_as_suppression_rhetoric.md). This manual reclaims the term, grounding it in survivor practice and systemic diagnostics.  
-
-Resilience has long been a **religious and imperial problem**: endurance of pain was sanctified as virtue, then co-opted to compel labour and obedience from populations deemed expendable. This power dynamic has endured for centuries. Yet alongside it runs a **counter-history of refusal** — the oral traditions, survival stories, and quiet practices of communities who resisted being reduced to suffering.  
-
-Those stories show that no one resists alone. Even if situations differ, there are always echoes across time: people like you have faced extraction, humiliation, and coercion before, and they left signals behind. Diversity itself has been a shield — cultures too plural to police completely, experiences too varied to fully erase. The survival of knowledge depends on its passing, whether through words, rituals, or lived memory.  
-
-The *Web* is thus not abstract theory but a synthesis of:  
-- Survivor nervous-system playbooks,  
-- Communal trust-repair protocols,  
-- Systemic governance critiques, and  
-- The long lineage of resistant knowledge carried outside official archives.  
-
-It stands in continuity with earlier insurgency studies (from counterinsurgency manuals to networked protest resilience) but refuses their state-centric posture. Instead, it builds a survivor-led field manual for hostile information terrains.  
+- Disagreement is routine  
+- Errors are benign  
+- Context is stable and transparent  
+- No pattern or repetition is present  
+- Application would increase harm or conflict  
 
 ---
 
-## 👻 7. Default Play  
-1. Label: Stable or Ghost?  
-2. If Ghost → Ignore.  
-3. If Stable → Minimal engagement.  
-4. Rest.  
-5. Log once. Stop.  
-6. If body says “too much” → disengage.  
+### 🧠 Calibration Check  
+
+Before escalation, ask:
+
+1. Is there a pattern or just a single event?  
+2. Is there evidence of coordination or systemic impact?  
+3. Could a simpler explanation account for this?  
+4. Will applying this reduce harm—or amplify it?  
+
+If mostly “no,” do not escalate.
+
+---
+
+### 🪶 Default Alternative  
+
+In low-risk situations, prioritise:
+
+- clarification  
+- dialogue  
+- verification without escalation  
+
+---
+
+> *Not every disturbance is an attack.  
+Discernment is part of resilience.*
+
+---
+
+## 👻 5. Default Play  
+
+1. Label: Stable or Ghost  
+2. If Ghost → Ignore  
+3. If Stable → Controlled, minimal engagement  
+4. Rest  
+5. Log once  
+6. If overwhelmed → disengage  
 
 ---
 
 ## 🌌 Constellations  
 
-🕸️ 🔬 🛡️ 🧠 — This node sits at the intersection of systemic diagnostics, insurgency-style IO, survivor nervous-system tools, and macro-infrastructure resilience.  
+🕸️ 🔬 🛡️ 🧠 — multi-layer resilience · system diagnostics · defensive practice · cognitive stability  
 
 ---
 
 ## ✨ Stardust  
 
-web of resilience, insurgency information operations, nervous system survival, communal trust, infrastructure resilience, radicalisation, counterinsurgency, digital hygiene, verification cells, ghost inserts, cloud monoculture, resilience playbook  
+web of resilience, information environments, nervous system stability, group trust, infrastructure resilience, digital hygiene, verification, operational discipline  
 
 ---
 
 ## 🏮 Footer  
 
-*Web of Resilience* is a living node of the Polaris Protocol.  
-It fuses two-layer and three-tier approaches into a unified manual for navigating insurgency-style information terrains, combining nervous-system survival, communal cohesion, and systemic resilience.  
+*🕸️ Web of Resilience* is a living node of the **Polaris Protocol**, integrating personal stability, communal trust, and systemic resilience into a unified response framework for complex information environments.  
 
 > 📡 Cross-references:
 > 
-> - [🏮 AntiContainment Clauses](../../../AntiContainment_Clauses/README.md) - *Clauses and syntax designed to resist flattening, ghosting, and enforced silence*
-> - [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) - *Foundational survivor axioms — counterfacts to the idea that humans can be processed like code*
-> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) - *Protocol branch tracing practices of counter-surveillance, citizen documentation, and exposure of covert power*
+> - [🏮 AntiContainment Clauses](../../../AntiContainment_Clauses/README.md) — *resistance to suppression and distortion*  
+> - [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *foundational human-centred axioms*  
+> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *counter-surveillance and civic observation*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-04-18_
