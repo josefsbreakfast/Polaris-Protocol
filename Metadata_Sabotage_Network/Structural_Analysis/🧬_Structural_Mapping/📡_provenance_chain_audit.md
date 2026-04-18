@@ -167,10 +167,10 @@ This is particularly important for analysis of true root causes; bolstering for 
 
 The importance of stability of governance cannot be undersold, and even when addressing governance which may have failed, there is a simutaneous importance in recognising and acknowledging the whole truth, in order to address any system vulnerabilities, or simply any actors attempting to avoid a fall.  
 
-### <details><summary>🧪 Case Application — Provenance Extraction Protocol</summary>  
+### 🧪 Case Application — Provenance Extraction Protocol  
 
-This section provides a structured method for applying a provenance chain audit to real-world scenarios.  
-It is designed to convert public claims, decisions, or controversies into a **verifiable evidence chain**.
+This section provides a structured method for <details><summary> applying a provenance chain audit to real-world scenarios.  
+It is designed to convert public claims, decisions, or controversies into a **verifiable evidence chain**.</summary>
 
 ---
 
