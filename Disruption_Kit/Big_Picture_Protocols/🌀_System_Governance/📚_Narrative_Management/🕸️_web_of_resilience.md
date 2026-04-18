@@ -349,6 +349,67 @@ while continuing light monitoring.
 
 ---
 
+## 🕸️ Web of Resilience — Pocket Card  
+
+**Use when something feels “off.” Don’t overthink.**
+
+---
+
+### 🧭 1. What’s reacting first?
+
+- Body spike (stress, urgency) → **MICRO**  
+- People conflict / confusion → **MESO**  
+- System/platform issue → **MACRO**
+
+---
+
+### ⚡ 2. First move only
+
+- **MICRO** → pause, breathe, delay  
+- **MESO** → slow down, verify, don’t react fast  
+- **MACRO** → reduce reliance, check backups  
+
+---
+
+### 🔍 3. Pattern check
+
+- One-off, vague → **ignore / park**  
+- Repeating, spreading → **monitor**  
+
+---
+
+### ⚖️ 4. Sanity check
+
+Ask:
+- Pattern or single event?  
+- Evidence or just intensity?  
+- Simpler explanation possible?  
+
+If unclear → **de-escalate**
+
+---
+
+### 🚨 5. Escalate only if
+
+- repeats over time  
+- spreads across people/systems  
+- evidence increases  
+
+---
+
+### 🪶 Default
+
+- Delay > react  
+- Verify > assume  
+- Rest > push  
+
+---
+
+> *Not every disturbance is an attack.*  
+> *Stability first. Interpretation second.*
+
+---
+
 ## 🌌 Constellations  
 
 🕸️ 🔬 🛡️ 🧠 — multi-layer resilience · system diagnostics · defensive practice · cognitive stability  
