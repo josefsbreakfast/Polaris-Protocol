@@ -157,16 +157,160 @@ It converts a digital artefact from a claim into a **verifiable narrative**.
 
 ---
 
-### 🧪 Case Application: Vetting in case of British Ambassador to the USA, where vetting result appears to be in conflict with statememts from Cabinet actors *(to be developed)*  
+## 🧪 Case Application: Vetting in case of British Ambassador to the USA, where vetting result appears to be in conflict with statememts from Cabinet actors *(to be developed)*  
 
-*A real-world scenario will be used here to stress-test the provenance chain model across:*  
+<details><summary>🧪 Case Application — Provenance Extraction Protocol</summary>  
 
-- multi-system data movement  
-- transformation and decision points  
-- authority and consent validation  
-- identification of breaks or ambiguities  
+This section provides a structured method for applying a provenance chain audit to real-world scenarios.  
+It is designed to convert public claims, decisions, or controversies into a **verifiable evidence chain**.
 
-*(Case study developed in subsequent iteration.)*
+---
+
+### 🌹 Objective  
+
+To reconstruct a complete, timestamped, and attributable chain of:
+
+- statements  
+- decisions  
+- approvals  
+- transformations  
+
+…in order to determine whether the process is **continuous, authorised, and evidentially sound**.
+
+---
+
+### 🧾 Step 1 — Statement Extraction  
+
+Identify and catalogue all **material public statements** relevant to the case.
+
+For each statement, record:
+
+- **Exact quotation** (no paraphrasing)  
+- **Speaker / actor** (named individual + role)  
+- **Date and time** (or closest verifiable approximation)  
+- **Context** (interview, press release, internal memo, etc.)  
+- **Source reference** (link, publication, transcript)
+
+---
+
+### 🕰 Step 2 — Timeline Construction  
+
+Arrange all statements and actions into a **single chronological sequence**.
+
+Requirements:
+
+- All timestamps normalised to a common standard (UTC preferred)  
+- Conflicts in timing explicitly noted  
+- Gaps between events identified and marked  
+
+> Output: a continuous timeline of observable events.
+
+---
+
+### ⚖️ Step 3 — Authority Mapping  
+
+For each action or decision point, identify:
+
+- **Who had authority** to act  
+- **What role they occupied at the time**  
+- **Whether their authority is documented or assumed**  
+
+Flag:
+
+- ambiguous authority  
+- implied authority without documentation  
+- retroactive claims of authority  
+
+---
+
+### 🔄 Step 4 — Transformation Tracking  
+
+Identify where information, decisions, or criteria changed.
+
+For each transformation:
+
+- What changed?  
+- Who made the change?  
+- When did it occur?  
+- Is the change documented or inferred?  
+
+> Undocumented transformations are treated as breaks in the provenance chain.
+
+---
+
+### 🛡 Step 5 — Consent / Mandate Verification  
+
+Where applicable, verify:
+
+- whether actions were within **legal, procedural, or consent-based mandates**  
+- whether downstream actions remained consistent with upstream permissions  
+
+Flag:
+
+- mandate drift  
+- actions exceeding original scope  
+- missing or unverifiable consent / approval basis  
+
+---
+
+### 🔍 Step 6 — Evidence Classification  
+
+For each element in the chain, assign a status:
+
+- **Verified** — directly supported by primary evidence  
+- **Corroborated** — supported by multiple independent sources  
+- **Unverified** — claimed but not evidenced  
+- **Contradicted** — conflicts with other verified elements  
+
+---
+
+### 🚨 Step 7 — Gap & Break Detection  
+
+Identify points where the provenance chain fails:
+
+- missing timestamps  
+- missing actors  
+- undocumented decisions  
+- unexplained delays  
+- inconsistencies across sources  
+
+> Any break in the chain reduces the reliability of the overall narrative.
+
+---
+
+### 🧠 Step 8 — Interpretation Constraints  
+
+Analysis must follow these rules:
+
+- Do not infer intent where evidence is absent  
+- Do not collapse timelines to simplify narrative  
+- Do not substitute paraphrase for quotation  
+- Clearly distinguish **fact, inference, and speculation**
+
+</details>
+
+---
+
+### 📊 Output  
+
+The final output should produce:
+
+1. A **complete timeline** of events and statements  
+2. A **map of authority and decision points**  
+3. A **classification of evidential strength**  
+4. A **list of unresolved gaps or breaks**  
+
+---
+
+### ☔️ Evaluation Rule  
+
+A process can be considered:
+
+- **Valid** → if the provenance chain is continuous and evidenced  
+- **Contested** → if the chain is complete but contains contradictions  
+- **Unverifiable** → if the chain contains significant gaps or breaks  
+
+> If the chain cannot be reconstructed, the claim cannot be treated as established fact.
 
 ---
 
