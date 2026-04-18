@@ -1,99 +1,168 @@
 # 🕸️ Survivor-Consent Frameworks  
-**First created:** 2025-10-31 | **Last updated:** 2025-12-12  
-*Designing lawful, ethical, and emotionally literate consent architectures for voice and data research.*  
+**First created:** 2025-10-31 | **Last updated:** 2026-04-19  
+*System architectures for lawful, revocable, and enforceable consent in voice, data, and identity processing.*  
 
 ---
 
 ## 🛰️ Orientation  
 
-Consent is more than a checkbox; it is the choreography of trust.  
-In voice and data ecosystems, **survivor-consent frameworks** define how autonomy survives automation —  
-how participants keep control of what bears their voice, image, or memory once it enters a system.  
-They are the human layer of the Cloneproof Protocol: verification of permission, not just provenance.
+Consent is not a static agreement; it is a **continuous control relationship** between a participant and a system.  
 
-> *If the system can’t forget on request, it never really asked permission.*
+**Survivor-consent frameworks** define the conditions under which individuals retain **authority over the use, transformation, and persistence** of their voice, image, or data.  
+
+They operationalise consent as something that must remain **visible, enforceable, and revocable** across the full data lifecycle.  
+
+> *If a system cannot honour withdrawal, it did not obtain valid consent.*
 
 ---
 
-## 🧩 Key Features  
+## ⚖️ Intent  
 
-- **Granular permissions** — consent tied to specific uses, timeframes, and data types.  
-- **Revocability** — the ability to withdraw consent and trigger downstream deletion.  
-- **Informed context** — plain-language disclosure of purpose, partners, and risks.  
-- **Reciprocal transparency** — participants can see what the institution sees.  
-- **Safeguarded storage** — consent logs treated as sensitive personal data, not admin notes.
+To establish consent as a **system-level requirement**, not a one-time interaction.  
+
+This includes:
+
+- binding consent to data at creation  
+- enforcing consent conditions during processing  
+- propagating consent constraints across all downstream uses  
+- enabling verifiable withdrawal and remediation  
+
+Consent is treated as a **governing constraint on system behaviour**, not documentation attached after the fact.
+
+---
+
+## 🧠 Core Principles  
+
+- **Granularity** — consent must be specific to purpose, data type, and timeframe  
+- **Revocability** — withdrawal must be actionable and system-enforced  
+- **Continuity** — consent must persist across all derived and downstream artefacts  
+- **Transparency** — participants must be able to inspect how their data is used  
+- **Non-coercion** — refusal must be possible without penalty or loss of essential access  
 
 ---
 
 ## 🧠 Pattern Analysis  
 
-### 1️⃣ From signature to system  
-Traditional consent forms freeze intent at a single moment.  
-Digital environments require **living consent** — continuously visible, updateable, and machine-readable.  
-A participant’s control panel becomes part of the data architecture.
+### 1️⃣ From event to system  
+Consent captured at a single moment is insufficient.  
 
-### 2️⃣ Power and precarity  
-Survivors and whistle-blowers often face asymmetric dependence on institutions.  
-Ethical consent recognises that “agreement” under duress or necessity is not freedom.  
-Frameworks must provide safe refusal: the right to decline without penalty.
+Valid consent requires:
+- machine-readable encoding  
+- real-time visibility  
+- update and withdrawal pathways  
 
-### 3️⃣ Transparency fatigue  
-Excessive paperwork masquerades as protection.  
-Simplified, layered explanations — visual summaries first, legal text second — restore clarity without dilution.  
-Every consent record should tell the participant: *what happens next, and how to undo it.*
+Consent becomes part of the **data architecture**, not an external record.
 
-### 4️⃣ Downstream control  
-True consent includes control over derivative uses.  
-If a recording trains a model, withdrawal must trigger **model audit and deletion** steps, not symbolic acknowledgement.  
-Ethical design means remembering that consent is temporal, not eternal.
+---
+
+### 2️⃣ Power asymmetry  
+Consent given under dependency, pressure, or lack of alternatives may not be freely given.  
+
+Frameworks must account for:
+- imbalance between participant and institution  
+- risk of implicit coercion  
+- need for safe refusal mechanisms  
+
+---
+
+### 3️⃣ Transparency vs overload  
+Excessive documentation reduces comprehension.  
+
+Effective consent systems provide:
+- layered explanations (summary → detail)  
+- clear articulation of downstream use  
+- explicit reversal pathways  
+
+> A valid consent record must answer: *what happens next, and how do I stop it?*
+
+---
+
+### 4️⃣ Downstream enforceability  
+Consent must extend beyond initial use.
+
+If data is:
+- transformed  
+- shared  
+- used to train models  
+
+…then consent conditions must follow.
+
+**System requirement:**  
+Withdrawal must trigger:
+- cessation of use  
+- deletion or de-identification where applicable  
+- audit of derived artefacts  
+
+Symbolic withdrawal is not valid withdrawal.
 
 ---
 
 ## ⚖️ Governance Implications  
 
-Under **UK GDPR** Articles 6 and 7 and **Data Protection Act 2018**, consent must be *freely given, specific, informed, and unambiguous.*  
-When processing special-category data such as voice or biometric material, explicit consent is mandatory.  
-Failure to implement revocable, traceable consent structures risks unlawful processing and ethical breach.  
-Embedding consent management directly into research pipelines transforms compliance from paperwork to practice.
+Survivor-consent frameworks operationalise legal requirements into enforceable system behaviour.
+
+They support:
+
+- **UK GDPR Article 6** — lawful basis for processing  
+- **UK GDPR Article 7** — conditions for valid consent  
+- **UK GDPR Article 9** — explicit consent for special-category data (including biometric/voice data)  
+
+**Regulatory implication:**  
+If consent cannot be demonstrated as specific, informed, and revocable, processing may be unlawful.
+
+Embedding consent into system design transforms compliance from documentation into **continuous accountability**.
 
 ---
 
 ## 🛠 Implementation Principles  
 
-| **Layer** | **Design commitment** |
-|------------|----------------------|
-| **Interface** | Real-time consent dashboard for participants. |
-| **Data layer** | Cryptographically signed consent tokens attached to each dataset. |
-| **Governance** | Independent ethics reviewers monitor withdrawal execution. |
-| **Legal** | Standard operating procedure for consent refresh and expiry. |
-| **Cultural** | Frame consent as collaboration, not transaction. |
+| **Layer** | **System requirement** |
+|------------|------------------------|
+| **Interface** | Participant-facing dashboard showing current consent state and options |
+| **Data binding** | Cryptographically signed consent tokens attached to each record |
+| **Propagation** | Consent conditions inherited by all derived datasets and outputs |
+| **Withdrawal** | Automated workflows for cessation, deletion, and audit logging |
+| **Governance** | Independent oversight of consent enforcement and withdrawal handling |
+| **Auditability** | Full traceability of consent state across time (linked to provenance chain) |
+
+---
+
+## 🔗 System Dependencies  
+
+Survivor-consent frameworks rely on:
+
+- **📡 Provenance Chain Audit** — to verify that consent travelled with the record  
+- **⚙️ Verification & Watermarking Standards** — to bind consent to authentic artefacts  
+- **🎙️ Cloneproof Protocol** — to ensure identity and authorship remain attributable  
+
+> Consent without provenance cannot be verified.  
+> Provenance without consent is not lawful.
 
 ---
 
 ## 🌌 Constellations  
 
-🎙️ 🛡️ ⚖️ 🧠 — authenticity · autonomy · governance · cognition  
+🎙️ 🛡️ ⚖️ 📡 🧠 — identity · autonomy · accountability · traceability · cognition  
 
 ---
 
 ## ✨ Stardust  
 
-granular consent · revocability · ethical design · survivor autonomy · data rights · informed participation · reciprocal transparency  
+granular consent, revocability, consent continuity, data rights, ethical systems design, participant control, auditability  
 
 ---
 
 ## 🏮 Footer  
 
-*🕸️ Survivor-Consent Frameworks* defines the ethical perimeter of authenticity:  
-the rules of engagement between human agency and technical persistence.  
-It aligns with:  
+*🕸️ Survivor-Consent Frameworks* defines the human authority layer of the **Polaris Protocol**, ensuring that individuals retain control over how their data is used, transformed, and retained.  
+It establishes consent as a continuous, enforceable condition of system legitimacy.  
 
-- **🧬 Voice-Model Capture Risks** — where consent fails once a voice becomes data.  
-- **⚙️ Verification & Watermarking Standards** — how permission is technically bound to provenance.  
-- **📡 Provenance Chain Audit** — ensuring consent travels with the record.  
+> 📡 Cross-references:  
 
-> *Every ethical protocol begins with the right to change your mind.*
+> - [🎙️ Cloneproof Protocol] — *system-level integrity requirements for identity and media*  
+> - [⚙️ Verification & Watermarking Standards] — *technical binding of authenticity and consent*  
+> - [📡 Provenance Chain Audit] — *verification that consent persists across the lifecycle*  
 
----
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-04-19_
