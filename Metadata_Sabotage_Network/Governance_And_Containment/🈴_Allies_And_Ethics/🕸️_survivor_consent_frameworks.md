@@ -31,7 +31,7 @@ Consent is treated as a **governing constraint on system behaviour**, not docume
 
 ---
 
-## 🧠 Core Principles  
+## ✨ Core Principles  
 
 - **Granularity** — consent must be specific to purpose, data type, and timeframe  
 - **Revocability** — withdrawal must be actionable and system-enforced  
@@ -127,7 +127,7 @@ Embedding consent into system design transforms compliance from documentation in
 
 ---
 
-## 🔗 System Dependencies  
+## 🐙 System Dependencies  
 
 Survivor-consent frameworks rely on:
 
