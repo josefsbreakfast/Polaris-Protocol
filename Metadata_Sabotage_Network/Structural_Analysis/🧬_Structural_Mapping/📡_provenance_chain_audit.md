@@ -157,7 +157,7 @@ It converts a digital artefact from a claim into a **verifiable narrative**.
 
 ---
 
-## 🧪 Case Application: Vetting in case of British Ambassador to the USA, where vetting result appears to be in conflict with statememts from Cabinet actors *(to be developed)*  
+### 🧪 Case Application: Vetting in case of British Ambassador to the USA, where vetting result appears to be in conflict with statememts from Cabinet actors *(to be developed)*  
 
 *A real-world scenario will be used here to stress-test the provenance chain model across:*  
 
