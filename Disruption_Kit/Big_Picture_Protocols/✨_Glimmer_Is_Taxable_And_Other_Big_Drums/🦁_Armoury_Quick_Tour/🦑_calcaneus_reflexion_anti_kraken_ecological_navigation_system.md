@@ -193,7 +193,7 @@ is the only way to keep the metaphorical Kraken asleep.
 
 *Further reading/media:*  
 - Y axis: [Sky News: "There are 80 indicators on whether a war is looming - and signs may arise as far as 20 years before a crisis occurs", Dr Rob Johnson.](https://vm.tiktok.com/ZNR4wo1Wc/)
-- X axis: []()  
+- X axis: [World Economic Forum: Conversation with Alex Karp, CEO and Co-Founder, Palantir Technologies](https://www.youtube.com/live/_fqxZKdb3J0?si=leu97j73tovQqBAZ)  
 
 ---
 
