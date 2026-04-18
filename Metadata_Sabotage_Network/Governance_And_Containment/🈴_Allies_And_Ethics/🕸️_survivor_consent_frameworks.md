@@ -155,13 +155,14 @@ granular consent, revocability, consent continuity, data rights, ethical systems
 ## 🏮 Footer  
 
 *🕸️ Survivor-Consent Frameworks* defines the human authority layer of the **Polaris Protocol**, ensuring that individuals retain control over how their data is used, transformed, and retained.  
+
 It establishes consent as a continuous, enforceable condition of system legitimacy.  
 
 > 📡 Cross-references:  
-
-> - [🎙️ Cloneproof Protocol] — *system-level integrity requirements for identity and media*  
-> - [⚙️ Verification & Watermarking Standards] — *technical binding of authenticity and consent*  
-> - [📡 Provenance Chain Audit] — *verification that consent persists across the lifecycle*  
+> 
+> - [🎙️ Cloneproof Protocol](../../../Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🎙️_cloneproof_protocol.md) — *system-level integrity requirements for identity and media*  
+> - [⚙️ Verification & Watermarking Standards](../../../Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/⚙️_verification_and_watermarking_standards.md) — *technical binding of authenticity and consent*  
+> - [📡 Provenance Chain Audit](../../Structural_Analysis/🧬_Structural_Mapping/📡_provenance_chain_audit.md) — *verification that consent persists across the lifecycle*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
