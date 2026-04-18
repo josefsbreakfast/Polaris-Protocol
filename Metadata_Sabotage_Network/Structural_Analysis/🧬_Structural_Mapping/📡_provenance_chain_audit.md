@@ -157,7 +157,7 @@ It converts a digital artefact from a claim into a **verifiable narrative**.
 
 ---
 
-## 🧪 Gow To Utilise For Specific Interest Cases  
+## 🧪 Application For Specific Interest Cases  
 
 A current high-interest example, where this process would be particularly useful, is in case of the aparrant process failure British Ambassador to the USA, where vetting result appears to be in conflict with statememts from Cabinet actors, and past and present staffing from the Civil Service.  
 
@@ -167,7 +167,7 @@ This is particularly important for analysis of true root causes; bolstering for 
 
 The importance of stability of governance cannot be undersold, and even when addressing governance which may have failed, there is a simutaneous importance in recognising and acknowledging the whole truth, in order to address any system vulnerabilities, or simply any actors attempting to avoid a fall.  
 
-<details><summary>🧪 Case Application — Provenance Extraction Protocol</summary>  
+### <details><summary>🧪 Case Application — Provenance Extraction Protocol</summary>  
 
 This section provides a structured method for applying a provenance chain audit to real-world scenarios.  
 It is designed to convert public claims, decisions, or controversies into a **verifiable evidence chain**.
