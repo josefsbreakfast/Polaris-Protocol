@@ -169,7 +169,8 @@ The importance of stability of governance cannot be undersold, and even when add
 
 ### 🧪 Case Application — Provenance Extraction Protocol  
 <details><summary> 
-This section provides a structured method for applying a provenance chain audit to real-world scenarios.</summary>  
+This section provides a structured method for applying a provenance chain audit to real-world scenarios.  
+</summary> 
   
 It is designed to convert public claims, decisions, or controversies into a **verifiable evidence chain**. 
 
