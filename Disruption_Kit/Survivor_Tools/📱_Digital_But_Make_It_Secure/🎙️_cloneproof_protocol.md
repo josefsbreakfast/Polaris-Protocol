@@ -1,5 +1,5 @@
 # 🎙️ Cloneproof Protocol  
-**First created:** 2025-10-31 | **Last updated:** 2026-04-19  
+**First created:** 2025-10-31 | **Last updated:** 2026-04-18  
 *Authenticity architectures for voice, data, and identity integrity in post-synthetic environments.*  
 
 ---
@@ -78,4 +78,4 @@ It establishes cloneproofing as an infrastructural requirement for any system ha
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-19_
+_Last updated: 2026-04-18_
