@@ -72,9 +72,9 @@ It establishes cloneproofing as an infrastructural requirement for any system ha
 
 > 📡 Cross-references:  
 > 
-> - [⚙️ Verification & Watermarking Standards] — *technical primitives for authenticity signals*  
-> - [🛡️ Survivor-Consent Frameworks] — *permission enforcement across data lifecycles*  
-> - [📡 Provenance Chain Audit] — *end-to-end reconstruction of authorship and custody*  
+> - [⚙️ Verification & Watermarking Standards](./⚙️_verification_and_watermarking_standards.md) — *technical primitives for authenticity signals*  
+> - [🕸️ Survivor-Consent Frameworks](../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_survivor_consent_frameworks.md) — *permission enforcement across data lifecycles*  
+> - [📡 Provenance Chain Audit](../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📡_provenance_chain_audit.md) — *end-to-end reconstruction of authorship and custody*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
