@@ -1,84 +1,147 @@
 # ⚙️ Verification & Watermarking Standards  
-**First created:** 2025-10-31 | **Last updated:** 2025-12-07  
-*Practical architectures for proving that a voice, image, or dataset is what it claims to be.*  
+**First created:** 2025-10-31 | **Last updated:** 2026-04-19  
+*System architectures for proving that a voice, image, or dataset is authentic, intact, and authorised.*  
 
 ---
 
 ## 🛰️ Orientation  
 
-Authenticity infrastructure has to work faster than forgery. **Verification and watermarking** are the mechanical allies of trust: cryptographic, acoustic, and procedural tools that let an organisation prove origin, integrity, and consent. They transform *“we believe this is real”* into *“we can demonstrate it.”*
+Authenticity infrastructure must operate faster and more reliably than forgery.  
+**Verification and watermarking** provide the technical mechanisms required to prove **origin, integrity, and consent**.  
 
-> *Proof is the quietest form of authority.*
+They convert:  
+- *“this appears genuine”* → into → *“this is cryptographically and procedurally verifiable”*  
+
+> *Proof replaces assertion as the basis of trust.*
 
 ---
 
-## 🧩 Key Features  
+## 🧩 Core Capabilities  
 
-- **Signal watermarking** — imperceptible acoustic patterns embedded during recording.  
-- **Metadata binding** — cryptographic hashes linking file, device, and consent log.  
-- **Chain‑of‑custody tokens** — digital signatures tracking every hand the file passes through.  
-- **Tamper evidence** — checksum verification exposing even a single altered frame.  
-- **Open verification layers** — standardised, interoperable tools that survive platform drift.
+- **Embedded watermarking** — persistent, machine-detectable signals applied at point of capture  
+- **Cryptographic binding** — hashes linking media, device, and associated metadata  
+- **Chain-of-custody signing** — verifiable signatures at each transfer and transformation  
+- **Tamper detection** — integrity checks capable of identifying minimal alteration  
+- **Interoperable verification** — open standards ensuring cross-platform validation  
 
 ---
 
 ## 🧠 Pattern Analysis  
 
-### 1️⃣ Provenance by design  
-Authenticity should not depend on memory or goodwill. When a recording begins, a capture client embeds a timestamp, device ID, and consent token. Verification then becomes mathematics, not persuasion.  
+### 1️⃣ Provenance by construction  
+Authenticity must be embedded at the point of creation.  
+Capture systems should generate:
 
-### 2️⃣ Watermark integrity  
-Acoustic or visual watermarks act like DNA within the media: inaudible but discoverable, resilient through compression, and useless to forgers without the private key. They create a *forensic accent* unique to each authenticated source.  
+- timestamp (trusted clock)  
+- device or capture identity  
+- initial consent or authority token  
 
-### 3️⃣ Cross‑system verification  
-Each subsequent system—storage, transcription, broadcast—adds its own signature. Verification is achieved when every hash in the chain still resolves. Loss of one signature flags partial compromise, not total failure.  
+Verification then becomes a property of the system, not a retrospective claim.
 
-### 4️⃣ Survivorship and decay  
-Long‑term authenticity depends on readable metadata decades later. Use open formats, publish verification algorithms, and rotate cryptographic keys under governance rather than vendor control.  
+---
+
+### 2️⃣ Watermark persistence  
+Watermarks function as embedded identifiers within media.
+
+They must be:
+- resistant to compression and format change  
+- detectable without degrading the media  
+- dependent on private key systems not reproducible by unauthorised actors  
+
+Weak or removable watermarking provides false assurance.
+
+---
+
+### 3️⃣ Multi-layer verification  
+Each system interaction (storage, processing, distribution) must append its own verification layer.
+
+> Authenticity is confirmed when all linked hashes and signatures resolve consistently.
+
+Partial failure indicates **local compromise**, not total invalidity—but must be flagged.
+
+---
+
+### 4️⃣ Survivability over time  
+Authenticity must remain verifiable independent of vendor or platform.
+
+This requires:
+- open or documented formats  
+- publicly verifiable algorithms  
+- managed cryptographic key rotation under governance control  
+
+Without this, verification degrades into historical opacity.
 
 ---
 
 ## ⚖️ Governance Implications  
 
-Verification standards sit between **data protection** and **digital evidence** law. Under **UK GDPR**, embedding provenance enhances the principles of *integrity* and *accountability*. Under **criminal and civil procedure rules**, verified metadata support evidential admissibility. For survivors and journalists, these standards convert personal testimony into legally durable proof without surrendering ownership.  
+Verification and watermarking standards operationalise legal duties by making integrity **demonstrable**.
+
+They support:
+
+- **UK GDPR Article 5(1)(f)** — integrity and confidentiality  
+- **UK GDPR Article 5(2)** — accountability  
+- evidential standards in civil and criminal proceedings (continuity and authenticity)  
+
+**Regulatory implication:**  
+If authenticity cannot be independently verified, evidential reliability is reduced and accountability is weakened.
+
+For journalists, researchers, and individuals, these standards enable **portable proof**—evidence that retains credibility outside originating systems.
 
 ---
 
-## 🛠 Counter‑Measures & Design Principles  
+## 🛠 Implementation Principles  
 
-| Layer            | Standard or safeguard                                   | Example implementation                                                                      |
+| Layer            | Standard or safeguard                                   | Implementation expectation                                                                 |
 |------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Acoustic / visual| Open watermarking libraries using non‑proprietary keys   | Community‑maintained C2PA‑compatible tools                                                |
-| Cryptographic    | SHA‑3 or quantum‑resistant hashing; multi‑party escrow  | Threshold signatures stored across independent custodians                                    |
-| Procedural       | Mandatory consent log per capture session                | Automated log entry linked to each media file                                               |
-| Ethical          | Publish watermark presence; never conceal verification    | UI indicator “Verified – watermark applied” for subjects                                     |
-| Interoperability | Conform to international standards (C2PA, W3C VC)       | Exportable verification package compatible with any compliant verifier                     |  
+| Capture          | Watermark applied at point of origin                    | Device-level or application-level embedding with key control                              |
+| Cryptographic    | Secure hashing and signature schemes                    | SHA-3 or post-quantum-ready methods; multi-party key custody where required               |
+| Chain-of-custody | Event-based signature logging                           | Each transfer or transformation produces a verifiable signature                           |
+| Consent linkage  | Binding of consent/authority to artefact                | Consent tokens cryptographically linked to media and inherited downstream                 |
+| Transparency     | Visible verification state                              | Clear indicator when verification is present, absent, or broken                           |
+| Interoperability | Standards compliance (e.g. C2PA, W3C VC)                | Exportable verification packages usable across systems                                     |
+| Longevity        | Format and key survivability                            | Open formats; governed key rotation; archival verification support                        |
+
+---
+
+## 🔗 System Dependencies  
+
+Verification & Watermarking Standards are not sufficient in isolation.
+
+They require:
+
+- **📡 Provenance Chain Audit** — to reconstruct full lifecycle continuity  
+- **🎙️ Cloneproof Protocol** — to define system-level integrity requirements  
+- **🛡️ Survivor-Consent Frameworks** — to ensure lawful and ethical authority  
+
+> Verification without provenance proves a moment.  
+> Provenance without verification cannot prove integrity.
 
 ---
 
 ## 🌌 Constellations  
 
-🎙️ ⚙️ ⚖️ 🧿 — authenticity · governance · verification · ethics  
+🎙️ ⚙️ 📡 ⚖️ 🧿 — identity fidelity · verification systems · forensic trace · accountability · ethical enforcement  
 
 ---
 
 ## ✨ Stardust  
 
-provenance audit, watermarking, cryptographic hash, consent token, chain‑of‑custody, digital evidence, authenticity infrastructure
+watermarking, cryptographic verification, provenance linkage, consent binding, chain of custody, digital evidence, authenticity systems  
 
 ---
 
 ## 🏮 Footer  
 
-*⚙️ Verification & Watermarking Standards* defines the mechanical vocabulary of trust.  
-It pairs with:
+*⚙️ Verification & Watermarking Standards* defines the technical layer of authenticity within the **Polaris Protocol**.  
+It ensures that digital artefacts can be independently verified, traced, and trusted across systems and over time.  
 
-- [🧬 Voice‑Model Capture Risks] — *why authenticity fails without verification*  
-- [🛡️ Survivor‑Consent Frameworks] — *how ethical design anchors technical proof*  
-- [📡 Provenance Chain Audit] — *the institutional process for checking the math*
+> 📡 Cross-references:  
+> 
+> - [🎙️ Cloneproof Protocol] — *system-level integrity requirements for identity and media*  
+> - [🛡️ Survivor-Consent Frameworks] — *permission continuity across data lifecycles*  
+> - [📡 Provenance Chain Audit] — *end-to-end reconstruction of custody and transformation*  
 
-> *Trust becomes technical the moment belief runs out.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-*Survivor authorship is sovereign. Containment is never neutral.*
-
-_Last updated: 2025-12-07_
+_Last updated: 2026-04-19_
