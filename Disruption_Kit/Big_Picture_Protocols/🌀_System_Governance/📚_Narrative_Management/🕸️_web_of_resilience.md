@@ -245,7 +245,107 @@ Discernment is part of resilience.*
 3. If Stable → Controlled, minimal engagement  
 4. Rest  
 5. Log once  
-6. If overwhelmed → disengage  
+6. If overwhelmed → disengage
+
+---
+
+## 🗺️ Quick Diagnostic — Which Layer Is Under Pressure?  
+
+Use this when something feels “off” but unclear.  
+Move through quickly—don’t overanalyse.
+
+---
+
+### ⚡ Step 1 — What is reacting first?
+
+- **Body (stress, confusion, urgency spike)** → go to **Micro**  
+- **Group (conflict, mistrust, mixed signals)** → go to **Meso**  
+- **System (platform issues, outages, structural instability)** → go to **Macro**
+
+---
+
+### 🔍 Step 2 — Identify the pattern
+
+| Signal | Likely Layer |
+|--------|-------------|
+| Sudden emotional spike with unclear source | Micro |
+| Conflicting accounts between people/groups | Meso |
+| Loss of access, instability, or platform-wide issues | Macro |
+| High volume + low clarity | Meso → Macro |
+| One-off fragment with no follow-up | Micro (Ghost) |
+
+---
+
+### 🧠 Step 3 — Apply first response only  
+
+- **Micro** → pause, regulate, delay response  
+- **Meso** → slow down communication, verify before reacting  
+- **Macro** → check redundancy, reduce dependency on single system  
+
+---
+
+### 🚨 Step 4 — Escalation check  
+
+Escalate only if:
+- the pattern **repeats**, or  
+- impact spreads across layers  
+
+If not, **de-escalate and return to baseline**.
+
+---
+
+### 🪶 Rule of Thumb  
+
+> If you cannot clearly identify the layer,  
+treat it as **Micro first** (stabilise), then reassess.
+
+---
+
+> *Stability first. Interpretation second.*
+
+---
+
+## ⚖️ Signal Check — False Positive vs Real Escalation  
+
+Use this only if something **feels serious but unclear** after the Quick Diagnostic.
+
+---
+
+### 🔍 Compare the pattern
+
+| **Signal** | **Likely False Positive** | **Likely Real Escalation** |
+|------------|--------------------------|-----------------------------|
+| Frequency  | One-off or sporadic      | Repeated or sustained       |
+| Clarity    | Vague, fragmented        | Consistent pattern emerging |
+| Source     | Single, uncorroborated   | Multiple or independent     |
+| Impact     | Local, contained         | Spreading across people/systems |
+| Response   | De-escalates with time   | Persists or intensifies     |
+
+---
+
+### 🧠 Decision Rule  
+
+- **Mostly left column → De-escalate**  
+- **Mostly right column → Monitor or escalate appropriately**  
+
+---
+
+### 🚨 Escalate only if:
+
+- pattern repeats across **time**, or  
+- effects spread across **layers** (micro → meso → macro), or  
+- **evidence accumulates**, not just intensity of feeling  
+
+---
+
+### 🪶 Default Bias  
+
+> When uncertain, bias toward **false positive first**,  
+while continuing light monitoring.
+
+---
+
+> *Intensity is not the same as evidence.*
 
 ---
 
