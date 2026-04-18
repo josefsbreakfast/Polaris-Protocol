@@ -339,13 +339,14 @@ provenance chain, data lineage, consent continuity, audit integrity, digital for
 ## 🏮 Footer  
 
 *📡 Provenance Chain Audit* is a core node of the **Polaris Protocol**, defining how truth is preserved, reconstructed, and challenged across complex systems.  
+
 It establishes provenance as a condition of legitimacy, not an optional layer of trust.  
 
 > 📡 Cross-references:
 > 
 > - [🎙️ Cloneproof Protocol](../../../Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🎙️_cloneproof_protocol.md) — *integrity under replication pressure*
 > - [⚙️ Verification & Watermarking Standards](../../../Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/⚙️_verification_and_watermarking_standards.md) — *point-in-time authenticity checks*  
-> - *🛡️ Survivor-Consent Frameworks* — permission continuity across systems  
+> - [🕸️ Survivor-Consent Frameworks](../../Governance_And_Containment/🈴_Allies_And_Ethics/🕸️_survivor_consent_frameworks.md) — *permission continuity across systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
