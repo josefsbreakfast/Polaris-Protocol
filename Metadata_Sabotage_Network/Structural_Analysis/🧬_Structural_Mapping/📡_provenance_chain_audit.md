@@ -1,5 +1,5 @@
 # 📡 Provenance Chain Audit  
-**First created:** 2025-10-31 | **Last updated:** 2025-12-10  
+**First created:** 2025-10-31 | **Last updated:** 2026-04-18  
 *Tracing authorship, consent, and custody across the life of a digital record.*  
 
 ---
@@ -15,7 +15,7 @@ Where verification proves integrity at a moment, provenance proves it across tim
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 
 - **Chain-of-custody mapping** — documenting every hand-off and transformation.  
 - **Cross-system reconciliation** — aligning internal logs with external signatures.  
@@ -95,4 +95,4 @@ It completes the **Cloneproof Protocol** constellation alongside:
 
 ---
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-04-19_
