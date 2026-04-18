@@ -343,8 +343,8 @@ It establishes provenance as a condition of legitimacy, not an optional layer of
 
 > 📡 Cross-references:
 > 
-> - [🎙️ Cloneproof Protocol](../../../Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🎙️_cloneproof_protocol.md) — *integrity under replication pressure*  
-> - *⚙️ Verification & Watermarking Standards* — point-in-time authenticity checks  
+> - [🎙️ Cloneproof Protocol](../../../Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🎙️_cloneproof_protocol.md) — *integrity under replication pressure*
+> - [⚙️ Verification & Watermarking Standards](../../../Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/⚙️_verification_and_watermarking_standards.md) — *point-in-time authenticity checks*  
 > - *🛡️ Survivor-Consent Frameworks* — permission continuity across systems  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
