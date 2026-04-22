@@ -89,7 +89,93 @@ Each stage feels routine to its participants, yet cumulatively it **replicates s
 - Outputs often include *named individuals* and *risk ratings*, transforming public data into **personal data** under GDPR.  
 - Universities become data controllers — meaning students can issue **Subject Access Requests (SARs)** for any such records.
 
-*To be updated:* as specific structuring can make retreival under DPA more challenging.  
+---
+
+## 🔗 Subcontracting & Data-Subject Impact  
+
+Universities rarely operate these systems alone. Instead, they **outsource collection, analysis, or storage to private contractors**, creating a multi-layered data-processing chain.
+
+This has direct and material consequences for the data subject:
+
+---
+
+### 1. **Opacity of Processing**
+- Personal data may be collected by a contractor (e.g. OSINT scraping) before the university ever sees it.  
+- The university appears as the **visible data controller**, but key processing occurs within vendor systems.  
+- Privacy notices typically reference “third-party providers” without detailing actual data flows.
+
+**Effect:**  
+The data subject cannot realistically determine *who has accessed their data, when, or for what purpose*.
+
+---
+
+### 2. **Fragmented Rights (GDPR Friction)**  
+UK GDPR rights (access, rectification, erasure) depend on identifying responsible actors.
+
+Subcontracting introduces friction:
+
+- **Subject Access Requests (SARs)** submitted to universities may:
+  - Exclude raw intelligence held by contractors  
+  - Return only processed outputs (e.g. “risk scores”)  
+- Contractors may:
+  - Position themselves as processors (no direct duty to respond)  
+  - Or act as independent controllers (diffusing responsibility)
+
+**Effect:**  
+The data subject’s rights exist formally, but are **materially difficult to exercise in practice**.
+
+---
+
+### 3. **Transformation of Public Data into Sensitive Profiles**
+- Contractors aggregate “open-source” data (social media, protest activity, affiliations).  
+- Analytical processing converts this into:
+  - Behavioural profiles  
+  - Political inference  
+  - “Risk” classifications  
+
+This process can elevate:
+- Public data → personal data → **potentially special category data** (e.g. inferred political opinions)
+
+**Effect:**  
+The individual is not simply observed, but **interpreted, scored, and operationalised**—often without knowledge or consent.
+
+---
+
+### 4. **Accountability Dilution**
+- Universities rely on vendor assurances (“GDPR-compliant,” “ethical OSINT”).  
+- Vendors rely on contractual limitations and NDAs.  
+- Data Protection Impact Assessments (DPIAs) often:
+  - Underestimate re-identification and inference risks  
+  - Treat vendor systems as opaque or out-of-scope
+
+**Effect:**  
+When harm occurs (misidentification, escalation, referral),  
+**no single actor is clearly accountable**.
+
+---
+
+### 5. **Chilling Effect & Behavioural Impact**
+Even absent direct enforcement:
+
+- Awareness or suspicion of monitoring alters:
+  - Protest participation  
+  - Political expression  
+  - Patterns of association  
+
+This is intensified where:
+- Monitoring is covert  
+- Risk criteria are undefined  
+
+**Effect:**  
+A **de facto behavioural control system** emerges without formal regulatory classification.
+
+---
+
+### 🗺️ Data Flow (Simplified)
+
+Data subject → public platform (post/activity) → contractor collection (OSINT scrape) → contractor analysis (profiling / scoring) → university dashboard → safeguarding / security response  
+
+> Subcontracting transforms institutional monitoring into a distributed surveillance system in which responsibility is diffused, visibility is reduced, and the data subject’s rights become materially harder to exercise.
 
 ---
 
