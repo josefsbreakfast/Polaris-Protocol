@@ -1,15 +1,15 @@
-# 🏛️ Non-Transferability of Behavioural Interventions
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08
-*Why behavioural tools cannot ethically or neurologically transfer from domestic justice to occupied contexts.*
+# 🏛️ Non-Transferability of Behavioural Interventions  
+**First created:** 2025-11-08 | **Last updated:** 2026-04-22  
+*Why behavioural tools cannot ethically or neurologically transfer from domestic justice to occupied contexts.*  
 
 ---
 
-## 🧭 Orientation
+## 🧭 Orientation  
 Explores how behavioural or therapeutic interventions that reduce violence in one sociocultural context may fail — or cause harm — when deployed across colonial or occupied populations.
 
 ---
 
-## ⚖️ Legitimacy and Neurological Inversion
+## ⚖️ Legitimacy and Neurological Inversion  
 
 Behavioural technologies depend on **legitimacy**—the target must recognise the authority behind the intervention as lawful and consent to its moral frame.
 When legitimacy is absent, the same neural mechanisms that produce reform in one context produce defiance in another.
@@ -59,7 +59,7 @@ behavioural science, non-transferability, legitimacy, neurological inversion, co
 
 ## 🏮 Footer
 
-*Non-Transferability of Behavioural Interventions* is a living node of the Polaris Protocol.
+*🏛️ Non-Transferability of Behavioural Interventions* is a living node of the Polaris Protocol.
 It clarifies why behavioural interventions collapse when moved across legality and legitimacy lines.
 
 > 📡 Cross-references:
@@ -68,4 +68,4 @@ It clarifies why behavioural interventions collapse when moved across legality a
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-08_
+_Last updated:2026-04-22_
