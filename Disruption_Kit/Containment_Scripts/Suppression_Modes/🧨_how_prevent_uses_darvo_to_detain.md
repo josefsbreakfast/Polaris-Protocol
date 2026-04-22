@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Summary  
+## ✨ Summary  
 
 Prevent does not only operate as a referral scheme. It functions as a **discursive inversion machine**.  
 
@@ -14,7 +14,7 @@ This inversion provides justification for coercive interventions, including **ps
 
 ---
 
-## 🧩 The DARVO sequence in Prevent  
+## 📿 The DARVO sequence in Prevent  
 
 ### 1. Deny  
 - “We’re not monitoring you under Prevent.”  
