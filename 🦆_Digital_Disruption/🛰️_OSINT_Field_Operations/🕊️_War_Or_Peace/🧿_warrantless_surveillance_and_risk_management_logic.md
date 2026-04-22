@@ -266,10 +266,10 @@ To convert opaque institutional practice into **traceable, evidence-based public
 
 *Further reading & media:*  
 
-- [Al Jazeera: "British universities paid security firm to ‘spy’ on pro-Palestine students"](https://www.aljazeera.com/news/2026/4/20/uk-universities-pay-to-spy-on-students-social-media-accounts)  
-- [ICJP Press Release: "ICJP condemns disturbing attempts by UK universities to crackdown on civil liberties and monitor student protests"](https://www.icjpalestine.com/2026/04/21/icjp-condemns-disturbing-attempts-by-uk-universities-to-crackdown-on-civil-liberties-and-monitor-student-protests/)  
-- [Liberty Investigates: "British universities paid security firm to monitor pro-Palestine students"](https://libertyinvestigates.org.uk/articles/british-universities-paid-security-firm-monitor-pro-palestine-students/)  
-- [Case Example: The Bristol Cable: "University of Bristol paid private security firm to ‘spy’ on pro-Palestine protesters"](https://thebristolcable.org/2026/04/university-of-bristol-paid-private-security-firm-to-spy-on-pro-palestine-protesters/)
+- [📰: Al Jazeera: "British universities paid security firm to ‘spy’ on pro-Palestine students"](https://www.aljazeera.com/news/2026/4/20/uk-universities-pay-to-spy-on-students-social-media-accounts)  
+- [📑: ICJP Press Release: "ICJP condemns disturbing attempts by UK universities to crackdown on civil liberties and monitor student protests"](https://www.icjpalestine.com/2026/04/21/icjp-condemns-disturbing-attempts-by-uk-universities-to-crackdown-on-civil-liberties-and-monitor-student-protests/)  
+- [📰: Liberty Investigates: "British universities paid security firm to monitor pro-Palestine students"](https://libertyinvestigates.org.uk/articles/british-universities-paid-security-firm-monitor-pro-palestine-students/)  
+- [📰: Case Example: The Bristol Cable: "University of Bristol paid private security firm to ‘spy’ on pro-Palestine protesters"](https://thebristolcable.org/2026/04/university-of-bristol-paid-private-security-firm-to-spy-on-pro-palestine-protesters/)
 
 ---
 
