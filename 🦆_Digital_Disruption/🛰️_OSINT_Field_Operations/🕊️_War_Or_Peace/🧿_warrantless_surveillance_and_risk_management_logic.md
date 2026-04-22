@@ -1,5 +1,5 @@
 # 🧿 Warrantless Surveillance & Risk-Management Logic  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2026-04-22  
 *Explaining how British universities and their contractors built surveillance-adjacent infrastructures that operate outside the Investigatory Powers Act (IPA) by framing them as “risk management” or “duty of care.”*
 
 ---
@@ -124,6 +124,13 @@ The system therefore functions as **outsourced surveillance with deniability**.
 
 🔍 Risk-Management Logic   ⚖️ Institutional Accountability   🛰️ OSINT Field Operations   🧠 Data Ethics  
 
+*Further reading & media:*  
+
+- [Al Jazeera: "British universities paid security firm to ‘spy’ on pro-Palestine students"](https://www.aljazeera.com/news/2026/4/20/uk-universities-pay-to-spy-on-students-social-media-accounts)  
+- [ICJP Press Release: "ICJP condemns disturbing attempts by UK universities to crackdown on civil liberties and monitor student protests"](https://www.icjpalestine.com/2026/04/21/icjp-condemns-disturbing-attempts-by-uk-universities-to-crackdown-on-civil-liberties-and-monitor-student-protests/)  
+- [Liberty Investigates: "British universities paid security firm to monitor pro-Palestine students"](https://libertyinvestigates.org.uk/articles/british-universities-paid-security-firm-monitor-pro-palestine-students/)  
+- [Case Example: The Bristol Cable: "University of Bristol paid private security firm to ‘spy’ on pro-Palestine protesters"](https://thebristolcable.org/2026/04/university-of-bristol-paid-private-security-firm-to-spy-on-pro-palestine-protesters/)
+
 ---
 
 ## ✨ Stardust  
@@ -138,6 +145,10 @@ risk management, surveillance, universities, Prevent, GDPR, legitimate interest,
 It links the legal loopholes of GDPR “legitimate interest” processing with the commercial intelligence culture now embedded in higher education.  
 The node invites civic OSINT to verify, expose, and reform these practices.  
 
+> 📡 Cross-references:
+> 
+> - [
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated 2025-11-08_
+_Last updated 2026-04-22_
