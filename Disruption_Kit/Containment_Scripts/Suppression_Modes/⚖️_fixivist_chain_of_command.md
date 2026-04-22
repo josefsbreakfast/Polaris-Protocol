@@ -1,4 +1,4 @@
-# ⚖️ Fixivist–Institutional Tension  
+# ⚖️ Fixivist vs "Chain of Command" Institutional Tension  
 **First created:** 2025-09-05 | **Last updated:** 2026-04-22  
 *How urgency-driven intervention interacts with institutional command structures—and how this tension is mediated, delayed, and redesigned*
 
