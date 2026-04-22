@@ -4,6 +4,22 @@
 
 ---
 
+## 🛰️ How Does The UK Disclose Conflicts For Public Visibility?  
+
+```
+Full Disclosure (Private)
+        ↓
+Internal Assessment (Perm Sec + Adviser)
+        ↓
+Selective Publication
+        ↓
+Distributed Visibility (Registers / EC / Media)
+        ↓
+Public Interpretation (Partial)
+```
+
+---
+
 ## 🕳️ Conflict / Opacity Classes
 
 **Legend**
@@ -48,7 +64,7 @@
 
 ---
 
-## 🛰️ Pattern Summary
+## 🗺️ Pattern Summary
 
 The January 2026 list makes one thing unmistakable: the central issue is **not hidden interests in a narrow sense**, but a **managed and selective disclosure architecture**. The introduction states that the list is **not a register of all interests**, that declarations are treated in confidence, and that publication is limited to interests judged relevant to ministerial responsibilities. It must be read alongside parliamentary registers and relevant Electoral Commission material.  [oai_citation:26‡List_of_Ministers__Interests_January_2026.pdf](sediment://file_00000000039c724393828c18c7556730)
 
