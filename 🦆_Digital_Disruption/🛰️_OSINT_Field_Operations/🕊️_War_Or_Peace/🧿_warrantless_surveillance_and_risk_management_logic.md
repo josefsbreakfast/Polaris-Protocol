@@ -192,7 +192,24 @@ Without these, compliance becomes a **self-reinforcing loop**.
 - Publish all monitoring contracts  
 - Require independent DPIA audits  
 - Classify risk dashboards as surveillance systems  
-- Introduce duty-of-candour equivalents  
+- Introduce duty-of-candour equivalents
+
+---
+
+## 🧭 OSINT Tasks for Contributors  
+
+These tasks support verification, mapping, and accountability across the university–contractor surveillance ecosystem.
+
+| Task | Goal | Source / Tool |
+|------|------|----------------|
+| **FOI universities** | Obtain contracts, DPIAs, and procurement records for monitoring services (e.g. “Horus,” “social listening,” “threat intelligence”). | WhatDoTheyKnow; Find a Tender |
+| **ICO search** | Identify complaints, rulings, or enforcement actions related to campus monitoring. | ICO decision notice database |
+| **Procurement analysis** | Map vendors supplying universities and public bodies. | Contracts Finder; OpenOpps |
+| **Policy comparison** | Track how Prevent and risk language appears in protest guidance. | University websites; archived PDFs |
+| **DPIA requests** | Request redacted DPIAs covering social-media monitoring and analytics tools. | FOI requests; UK GDPR Art. 15 |
+
+**Purpose:**  
+To convert opaque institutional practice into **traceable, evidence-based public knowledge**.
 
 ---
 
