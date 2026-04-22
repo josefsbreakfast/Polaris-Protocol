@@ -135,7 +135,7 @@ The system therefore functions as **outsourced surveillance with deniability**.
 
 ## ✨ Stardust  
 
-risk management, surveillance, universities, Prevent, GDPR, legitimate interest, Horus, DEMU, IPA, RIPA, data governance, ethical oversight, risk-Management logic, institutional accountability, OSINT field operations, data ethics  
+risk management, surveillance, universities, Prevent, GDPR, legitimate interest, Horus, DEMU, IPA, RIPA, data governance, ethical oversight, risk-management logic, institutional accountability, OSINT field operations, data ethics  
 
 ---
 
