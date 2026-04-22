@@ -79,7 +79,9 @@ Each stage feels routine to its participants, yet cumulatively it **replicates s
 **Why it matters:**  
 - Data collection framed as “monitoring public information,” not surveillance.  
 - Outputs often include *named individuals* and *risk ratings*, transforming public data into **personal data** under GDPR.  
-- Universities become data controllers — meaning students can issue **Subject Access Requests (SARs)** for any such records.  
+- Universities become data controllers — meaning students can issue **Subject Access Requests (SARs)** for any such records.
+
+*To be updated:* as specific structuring can make retreival under DPA more challenging.  
 
 ---
 
