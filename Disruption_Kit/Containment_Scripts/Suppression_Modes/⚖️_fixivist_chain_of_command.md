@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 In harm-response contexts, two operational logics frequently collide:  
 - **Urgency-driven intervention** (rapid repair, harm mitigation)  
@@ -73,77 +73,78 @@ Institutional response follows a patterned escalation:
 
 ---
 
-## 🧑‍🌾 Role Model: Signal Carriers & Gatekeepers  
+## 🎙️ Role Model: Signal Legitimacy & Decision Authority  
 
-### 🌱 Signal Carriers (“Hobbits”)  
-- close to harm, early detection  
-- low institutional legitimacy  
+### 🌱 Low-Legitimacy Signal Carriers  
+- close to harm, early exposure  
+- experiential, immediate signals  
+- high sensitivity, low institutional credibility  
 
-### 🌳 Gatekeepers (“Ents”)  
-- high authority, slow validation  
-- act only after threshold crossing  
+### 🌳 High-Authority Decision Makers  
+- distant from initial harm  
+- require validated, aggregated signals  
+- act with legitimacy but at slower speeds  
 
 ### ⚙️ Translation Layer  
-- converts signals into actionable formats  
-- determines what is legible and when  
+- converts signals into formal, actionable formats  
+- determines what is legible, actionable, or deferred  
 
-> Systems depend on early signals they are not structured to fully trust.
+> Systems depend on early signals they are not structured to fully recognise as authoritative.
 
 ---
 
 ## ⚙️ Translation Layer Dynamics  
 
 ### 🟢 Enablers  
-- amplify and preserve signals  
-- enable early escalation  
+- preserve signal fidelity  
+- escalate appropriately  
+- compress response timelines  
 
 ### 🔴 Blockers  
-- filter, delay, or dilute signals  
-- raise activation thresholds  
+- over-filter or delay signals  
+- prioritise procedural safety  
+- extend response timelines  
 
-> System behaviour is shaped less by policy,  
-> and more by how signals are interpreted.
+> System behaviour is shaped less by policy, and more by how signals are interpreted.
 
 ---
 
 ## 🔄 Role Drift: Enabler ↔ Blocker  
 
-Actors shift between roles based on:
+Actors shift roles based on:
 
-- risk exposure  
+- perceived risk  
 - institutional incentives  
 - feedback and consequences  
 
-> Enablers become blockers when acting feels unsafe.  
-> Blockers become enablers when inaction becomes untenable.
+> Enabling becomes blocking when acting feels unsafe.  
+> Blocking becomes enabling when inaction becomes untenable.
 
 ---
 
-## 🛡️ Protection Conditions  
+## 🕸️ Protection Conditions  
 
-Enabler behaviour persists only when:
+Enabler behaviour persists when:
 
-- institutional backing exists  
+- institutional backing is visible  
 - accountability is proportional  
 - signals are recognised early  
 - low-risk action pathways exist  
 - workload is manageable  
-- feedback is visible  
+- feedback loops are visible  
 
-Without these:
-
-> **Delay becomes the safest option.**
+> Without these, delay becomes the safest option.
 
 ---
 
-## ⚙️ Threshold Redesign  
+## 🌋 Threshold Redesign  
 
-Effective systems use:
+Effective systems introduce:
 
-- **tiered responses** (not binary action)  
+- **tiered responses** (graduated action levels)  
 - **reversible early interventions**  
-- **parallel validation**  
-- **signal weighting**  
+- **parallel validation processes**  
+- **signal weighting (not binary credibility)**  
 - **protected early action channels**  
 
 Goal:
@@ -154,28 +155,38 @@ Goal:
 
 ## ⚗️ Interpretive Model: Activation Energy  
 
-Institutional thresholds function like activation energy in chemistry:
+Institutional thresholds function like activation energy:
 
-- high threshold → delayed reaction  
-- pressure accumulates → sudden response  
+- high threshold → delayed response  
+- pressure accumulates → sudden, large-scale action  
 
 “Catalytic” structures:
 
 - lower the effective threshold  
 - enable earlier, smaller interventions  
-- reduce need for large-scale corrective action  
+- reduce need for large corrective responses  
 
 ---
 
-## 🧩 Functional Insight  
+## ⚡️ Functional Insight  
 
-This system produces a recurring pattern:
+Default pattern:
 
 > **Signal → Translation → Delay → Loss → Legitimised Action**
 
-Redesign shifts this toward:
+Redesigned pattern:
 
 > **Signal → Early Action → Validation → Adjustment**
+
+---
+
+## 🌌 Constellations  
+⚖️ 🧠 ⏳ 🧩 🛰️ — structural diagnostics node mapping tension between urgency, authority, and threshold-based system response.  
+
+---
+
+## ✨ Stardust  
+institutional thresholds, urgency vs procedure, risk translation, signal legitimacy, decision authority, threshold activation, early intervention design, governance systems, harm response dynamics  
 
 ---
 
