@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-22 11:38:34 UTC_
+_Generated on 2026-04-22 11:55:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1694,6 +1694,7 @@ _Generated on 2026-04-22 11:38:34 UTC_
         - [`🦴_surviving_reputational_systems_as_harm.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🦴_surviving_reputational_systems_as_harm.md)
         - [`🧠_how_the_men_got_captured_post_plague.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧠_how_the_men_got_captured_post_plague.md)
         - [`🧩_interlocking_timelines_qanon_epstein_clinton_fbi.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧩_interlocking_timelines_qanon_epstein_clinton_fbi.md)
+        - [`🧬_balancing_support_asymmetry.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧬_balancing_support_asymmetry.md)
         - [`🧬_successor_firms_scl_cambridge_analytica.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧬_successor_firms_scl_cambridge_analytica.md)
         - [`🧱_high_conflict_tolerance_actors_in_governance_systems.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧱_high_conflict_tolerance_actors_in_governance_systems.md)
         - [`🧱_system_literate_actors_and_fatigue_curve_failure.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧱_system_literate_actors_and_fatigue_curve_failure.md)
