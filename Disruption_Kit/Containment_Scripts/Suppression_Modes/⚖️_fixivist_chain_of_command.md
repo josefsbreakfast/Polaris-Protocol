@@ -1,6 +1,6 @@
 # ⚖️ Fixivist vs "Chain of Command" Institutional Tension  
 **First created:** 2025-09-05 | **Last updated:** 2026-04-22  
-*How urgency-driven intervention interacts with institutional command structures—and how this tension is mediated, delayed, and redesigned*
+*How urgency-driven intervention interacts with institutional command structures—and how this tension is mediated, delayed, and redesigned.*
 
 ---
 
@@ -192,7 +192,7 @@ institutional thresholds, urgency vs procedure, risk translation, signal legitim
 
 ## 🏮 Footer  
 
-*⚖️ Fixivist–Institutional Tension* is a living node within the Polaris Protocol.  
+*⚖️ Fixivist vs "Chain of Command" Institutional Tension* is a living node within the Polaris Protocol.  
 
 It tracks how urgency-driven intervention is transformed, mediated, and operationalised within institutional systems.  
 
