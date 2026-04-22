@@ -10,3 +10,4 @@
 - its nice to think thaf all men will magocally deprogram from patriarchy tomorrow, but as women we havent, so unrealistic.
 - messaging tone and context, with "when to gove deference" - eg should survivors always be acknowledged first, should this be standalone, etc.
 - no discussion of preforensic at all does not protect women and children.  
+- building support and provision and tecognition for survivors first, then creates space to build prevention... in our cirrent crisis point, how do we allicate resource?  
