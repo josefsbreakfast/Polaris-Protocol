@@ -64,7 +64,7 @@ This inversion provides justification for coercive interventions, including **ps
 
 ---
 
-## 🛡️ Counter-protocol  
+## 🕸️ Counter-protocol  
 
 - **Name the frame:**  
   - “This is Prevent/MUU logic using DARVO.”  
@@ -82,7 +82,7 @@ This inversion provides justification for coercive interventions, including **ps
 
 ---
 
-## 🖼️ Flow diagram  
+## ⚡️ Flow diagram  
 
 ```text
 DENY → ATTACK → REVERSE VICTIM/OFFENDER 
