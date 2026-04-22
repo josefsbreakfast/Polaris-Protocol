@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 Between 2023 – 2025, many UK universities developed data-collection systems that monitor protest, student conduct, and reputational “risk.”  
 These systems rely on **open-source scraping, internal data pooling, and contractor analytics**, yet they are almost never treated as surveillance.  
