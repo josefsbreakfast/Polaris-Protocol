@@ -156,7 +156,7 @@ The node invites civic OSINT to verify, expose, and reform these practices.
 > - [🏛️ Non-Transferability of Behavioural Interventions](../🧪_Sciencing_Apartheid/🏛️_non_transferability_of_behavioral_interventions.md)  
 > - [🐥 Surviving “Bargain-Bin Mossad”](../../🐥_Surviving_Bargain_Bin_Mossad/README.md)  
 > - [⛩️ Very Secret Peer Review](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⛩️_very_secret_peer_review.md)  
-> - And fwiw, [🫀 Yes, STEM Needs Humanities](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🫀_yes_stem_needs_humanities.md), because we're only ever a small dose of "what if" away from cloning some poor six-legged sheep into existence, left unattended.  
+> - And fwiw, [🫀 Yes, STEM Needs Humanities](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🫀_yes_stem_needs_humanities.md), because we're only ever a small dose of "what if" away from cloning some poor six-legged sheep into existence, left unattended. We just don't want to admit that we're not the smartest at *literally all of the things*; just impose it on us, we'll be grand.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
