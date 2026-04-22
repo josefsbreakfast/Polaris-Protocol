@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-22 11:58:06 UTC_
+_Generated on 2026-04-22 17:14:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -496,6 +496,7 @@ _Generated on 2026-04-22 11:58:06 UTC_
         - [`🏛️_olympus_syndrome.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🏛️_olympus_syndrome.md)
         - [`🏛️_respectability_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🏛️_respectability_laundering.md)
         - [`🏛️_this_is_about_british_democracy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🏛️_this_is_about_british_democracy.md)
+        - [`🐎_pianos_and_horses.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🐎_pianos_and_horses.md)
         - [`🐐_old_school_scapegoating.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🐐_old_school_scapegoating.md)
         - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👁️_panopticon_as_industry.md)
         - [`💄_the_dumb_blonde_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💄_the_dumb_blonde_protocol.md)
