@@ -147,9 +147,13 @@ The node invites civic OSINT to verify, expose, and reform these practices.
 
 > 📡 Cross-references:
 > 
+> - [📃 FOI Request Template — No 10 Vice-Chancellors’ Meeting (May 2024)](../🕊️_War_Or_Peace/📃_FOI_request_template_No10_meeting.md)  
+> - [🍉 Academic Liberty — Encampments 2024 Mini‑Dossier](../🍉_Academic_Liberty/README.md)  
 > - [⚖️ Fixivist Chain of Command](../../../Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_fixivist_chain_of_command.md)  
 > - [🧨 How Prevent Uses DARVO to Detain](../../../Disruption_Kit/Containment_Scripts/Suppression_Modes/🧨_how_prevent_uses_darvo_to_detain.md)  
 > - [🌀 Recursive Risk Logic in Private Intelligence](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌀_recursive_risk_logic_in_private_intelligence.md)  
+> - [🏛️ Non-Transferability of Behavioural Interventions](../🧪_Sciencing_Apartheid/🏛️_non_transferability_of_behavioral_interventions.md)  
+> - [🐥 Surviving “Bargain-Bin Mossad”](../../🐥_Surviving_Bargain_Bin_Mossad/README.md)  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
