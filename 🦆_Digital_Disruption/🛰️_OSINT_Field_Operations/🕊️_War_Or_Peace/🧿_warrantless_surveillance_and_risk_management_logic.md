@@ -26,13 +26,21 @@ The result is a **grey-zone surveillance architecture**: technically lawful, pro
 
 Look in-house. We cannot lecture others if ours is out of sorts.  
 
-Power-grabs are typically bipartisan and are indicators of a system which is lacking balance and respect; the fix does not lie in partisan scapegoating, but in stripping out the discordant rot at the centre of the beaurocratic machine. Machines ought to assist humanity, not suppress or quell it.  
+Power-grabs are typically bipartisan and are indicators of a system which is lacking balance and respect; the fix does not lie in partisan scapegoating, but in stripping out the discordant rot at the centre of the beaurocratic machine.  
+
+Machines ought to assist humanity, not suppress or quell it.  
 
 ---
 
 ## ⚖️ Legal Frame  
 
-This is a demonstration of how a legal case for surveillance *can* be built, not how one *should* be built. Universities have faced increasing funding and resource pressures for nearly a century, and have become more corporate in nature often, at least in part, to manage cash flow risk. Deincentivising the construction of legal cases such as these, are required to minimise the risk to students from these pressures. Furthermore, commpanies and firms catering to this new service under later-stage surveillance capitalism, cannot realistically be expected to not form when there is a market demand, and where regulation has not necessarily been designed to balance corporate activity against public interest. Protesting individual contacts is not enough in isolation - comprehensive change is required to protect the public interest.  
+This is a demonstration of how a legal case for surveillance *can* be built, not how one *should* be built. Universities have faced increasing funding and resource pressures for nearly a century, and have become more corporate in nature often, at least in part, to manage cash flow risk.  
+
+Deincentivising the construction of legal cases such as these, are required to minimise the risk to students from these pressures.  
+
+Furthermore, commpanies and firms catering to this new service under later-stage surveillance capitalism, cannot realistically be expected to not form when there is a market demand, and where regulation has not necessarily been designed to balance corporate activity against public interest.  
+
+Protesting individual contacts is not enough in isolation – comprehensive change is required to protect the public interest.  
 
 | Mechanism | Authorising Law | How It Avoids IPA / RIPA | Typical Actors |
 |------------|----------------|---------------------------|----------------|
