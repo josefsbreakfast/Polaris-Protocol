@@ -1,0 +1,12 @@
+- tie to tap root systems.
+- current online discourse tldr advice was appropriate for part aud only not whole exposure, and high trigger subject.
+- dx if different without any further contrxt/background (as in, how does this impact).
+- this is actually an appropriate time for round up content once reflection.
+- broader node:
+- politics of service provision in respurxe scarcity and liw recog (this is a key part of the anger).
+- why preforensic support is not a bad thing.
+- harm reduction franeworks as "unconfortable but pragmatic".
+- what would a better message deployment lookk like (who gets support first abd is there a linited window for intrvention).
+- its nice to think thaf all men will magocally deprogram from patriarchy tomorrow, but as women we havent, so unrealistic.
+- messaging tone and context, with "when to gove deference" - eg should survivors always be acknowledged first, should this be standalone, etc.
+- no discussion of preforensic at all does not protect women and children.  
