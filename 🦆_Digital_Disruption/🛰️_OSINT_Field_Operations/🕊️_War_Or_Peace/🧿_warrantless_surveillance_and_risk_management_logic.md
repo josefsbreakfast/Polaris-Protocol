@@ -187,6 +187,53 @@ Without these, compliance becomes a **self-reinforcing loop**.
 
 ---
 
+## 🌋 Decision Thresholds & Operational Use  
+
+The existence of data alone does not create harm; harm emerges at the point where analysis is translated into action.
+
+In university risk-management systems, this translation point is often poorly defined, yet operationally significant.
+
+Typical outputs from contractor dashboards or internal monitoring systems include:
+- “risk scores” or prioritisation flags  
+- keyword or network alerts  
+- named individuals associated with events or campaigns  
+
+These outputs may then inform:
+
+- safeguarding referrals (including Prevent pathways)  
+- internal monitoring or case files  
+- event restrictions or security interventions  
+- information-sharing with external partners (e.g. police liaison)  
+
+Crucially, the **thresholds for action** are rarely transparent:
+- what level of “risk” triggers escalation  
+- how confidence or uncertainty is assessed  
+- whether human review meaningfully intervenes  
+- how false positives are identified and corrected  
+
+In practice, low-confidence or context-poor signals can still enter decision-making processes, particularly where institutions are operating under reputational or regulatory pressure.
+
+**Effect:**  
+Analytical outputs produced under conditions of uncertainty can become **operational inputs**, shaping real-world decisions without clear evidentiary standards or accountability.
+
+---
+
+### ⚖️ Structural Risk  
+
+Where thresholds are undefined or precautionary by default, systems tend toward:
+- over-referral  
+- disproportionate scrutiny  
+- normalisation of low-grade suspicion  
+
+This is especially significant in environments where:
+- safeguarding duties are broadly interpreted  
+- reputational risk is treated as a security concern  
+- institutional incentives favour action over restraint  
+
+> The critical issue is not only that data is collected, but that ambiguous signals can be converted into decisions without clear, reviewable thresholds.  
+
+---
+
 ## 🕊️ Civic-Ethical Recommendations  
 
 - Publish all monitoring contracts  
