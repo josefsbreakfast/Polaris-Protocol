@@ -28,7 +28,7 @@ The result is a **grey-zone surveillance architecture**: technically lawful, pro
 
 ---
 
-## 🧩 1.  Legal Frame  
+## ⚖️ Legal Frame  
 
 | Mechanism | Authorising Law | How It Avoids IPA / RIPA | Typical Actors |
 |------------|----------------|---------------------------|----------------|
@@ -42,7 +42,7 @@ The result is a **grey-zone surveillance architecture**: technically lawful, pro
 
 ---
 
-## 🧱 2.  The Risk-Management Funnel  
+## 🧱 The Risk-Management Funnel  
 
 1. **Political cue:** “Universities must show leadership; manage extremist threats.”  
 2. **Administrative translation:** “Ensure safety and reputation; monitor high-risk activity.”  
@@ -54,7 +54,7 @@ Each stage feels routine to its participants, yet cumulatively it **replicates s
 
 ---
 
-## 🧠 3.  Data-Exchange Mechanisms  
+## 🧠 Data-Exchange Mechanisms  
 
 | Channel | Function | Oversight Status |
 |----------|-----------|------------------|
@@ -65,7 +65,7 @@ Each stage feels routine to its participants, yet cumulatively it **replicates s
 
 ---
 
-## 🧪 4.  Case Study — Horus Intelligence  
+## 🧪 Case Study — Horus Intelligence  
 
 **Horus Security / Horus Intelligence Ltd (Hereford, UK)**  
 - Private-security and “protective-intelligence” group staffed by ex-military and police personnel.  
@@ -79,7 +79,7 @@ Each stage feels routine to its participants, yet cumulatively it **replicates s
 
 ---
 
-## ⚖️ 5.  Accountability Vacuum  
+## ⚖️ Accountability Vacuum  
 
 - **No judicial warrant:** activities fall outside IPA 2016 and RIPA 2000.  
 - **Weak DPIAs:** often claim minimal risk because data is “public.”  
@@ -90,7 +90,7 @@ The system therefore functions as **outsourced surveillance with deniability**.
 
 ---
 
-## 🧭 6.  OSINT Tasks for Contributors  
+## 🧭 OSINT Tasks for Contributors  
 
 | Task | Goal | Source / Tool |
 |------|------|----------------|
@@ -102,7 +102,7 @@ The system therefore functions as **outsourced surveillance with deniability**.
 
 ---
 
-## 🌍 7.  Structural Implications  
+## 🌍 Structural Implications  
 
 1. **Function creep:** tools built for safeguarding migrate to protest control.  
 2. **Ethical asymmetry:** students are surveilled; contractors remain invisible.  
@@ -111,7 +111,7 @@ The system therefore functions as **outsourced surveillance with deniability**.
 
 ---
 
-## 🕊️ 8.  Civic-Ethical Recommendations  
+## 🕊️ Civic-Ethical Recommendations  
 
 - Require publication of **all security-monitoring contracts** as part of annual transparency reporting.  
 - Mandate **independent DPIA audits** for any use of external analytics vendors.  
@@ -122,7 +122,7 @@ The system therefore functions as **outsourced surveillance with deniability**.
 
 ## 🌌 Constellations  
 
-🔍 Risk-Management Logic   ⚖️ Institutional Accountability   🛰️ OSINT Field Operations   🧠 Data Ethics  
+🔍 ⚖️ 🛰️ 🧠  
 
 *Further reading & media:*  
 
@@ -135,13 +135,14 @@ The system therefore functions as **outsourced surveillance with deniability**.
 
 ## ✨ Stardust  
 
-risk management, surveillance, universities, Prevent, GDPR, legitimate interest, Horus, DEMU, IPA, RIPA, data governance, ethical oversight  
+risk management, surveillance, universities, Prevent, GDPR, legitimate interest, Horus, DEMU, IPA, RIPA, data governance, ethical oversight, risk-Management logic, institutional accountability, OSINT field operations, data ethics  
 
 ---
 
 ## 🏮 Footer  
 
 *🧿 Warrantless Surveillance & Risk-Management Logic* describes how governance frameworks designed for safety became conduits for warrant-free surveillance.  
+
 It links the legal loopholes of GDPR “legitimate interest” processing with the commercial intelligence culture now embedded in higher education.  
 The node invites civic OSINT to verify, expose, and reform these practices.  
 
@@ -154,7 +155,8 @@ The node invites civic OSINT to verify, expose, and reform these practices.
 > - [🌀 Recursive Risk Logic in Private Intelligence](../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌀_recursive_risk_logic_in_private_intelligence.md)  
 > - [🏛️ Non-Transferability of Behavioural Interventions](../🧪_Sciencing_Apartheid/🏛️_non_transferability_of_behavioral_interventions.md)  
 > - [🐥 Surviving “Bargain-Bin Mossad”](../../🐥_Surviving_Bargain_Bin_Mossad/README.md)  
-
+> - [⛩️ Very Secret Peer Review](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⛩️_very_secret_peer_review.md)  
+> - And fwiw, [🫀 Yes, STEM Needs Humanities](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/🫀_yes_stem_needs_humanities.md), because we're only ever a small dose of "what if" away from cloning some poor six-legged sheep into existence, left unattended.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
