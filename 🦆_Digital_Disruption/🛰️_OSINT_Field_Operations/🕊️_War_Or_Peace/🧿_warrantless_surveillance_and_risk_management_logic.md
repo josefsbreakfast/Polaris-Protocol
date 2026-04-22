@@ -95,9 +95,7 @@ Each stage feels routine to its participants, yet cumulatively it **replicates s
 
 Universities rarely operate these systems alone. Instead, they **outsource collection, analysis, or storage to private contractors**, creating a multi-layered data-processing chain.
 
-This has direct and material consequences for the data subject:
-
----
+This has direct and material consequences for the data subject:  
 
 ### 1. **Opacity of Processing**
 - Personal data may be collected by a contractor (e.g. OSINT scraping) before the university ever sees it.  
@@ -105,9 +103,7 @@ This has direct and material consequences for the data subject:
 - Privacy notices typically reference “third-party providers” without detailing actual data flows.
 
 **Effect:**  
-The data subject cannot realistically determine *who has accessed their data, when, or for what purpose*.
-
----
+The data subject cannot realistically determine *who has accessed their data, when, or for what purpose*.  
 
 ### 2. **Fragmented Rights (GDPR Friction)**  
 UK GDPR rights (access, rectification, erasure) depend on identifying responsible actors.
@@ -122,9 +118,7 @@ Subcontracting introduces friction:
   - Or act as independent controllers (diffusing responsibility)
 
 **Effect:**  
-The data subject’s rights exist formally, but are **materially difficult to exercise in practice**.
-
----
+The data subject’s rights exist formally, but are **materially difficult to exercise in practice**.  
 
 ### 3. **Transformation of Public Data into Sensitive Profiles**
 - Contractors aggregate “open-source” data (social media, protest activity, affiliations).  
@@ -137,9 +131,7 @@ This process can elevate:
 - Public data → personal data → **potentially special category data** (e.g. inferred political opinions)
 
 **Effect:**  
-The individual is not simply observed, but **interpreted, scored, and operationalised**—often without knowledge or consent.
-
----
+The individual is not simply observed, but **interpreted, scored, and operationalised**—often without knowledge or consent.  
 
 ### 4. **Accountability Dilution**
 - Universities rely on vendor assurances (“GDPR-compliant,” “ethical OSINT”).  
@@ -150,9 +142,7 @@ The individual is not simply observed, but **interpreted, scored, and operationa
 
 **Effect:**  
 When harm occurs (misidentification, escalation, referral),  
-**no single actor is clearly accountable**.
-
----
+**no single actor is clearly accountable**.  
 
 ### 5. **Chilling Effect & Behavioural Impact**
 Even absent direct enforcement:
@@ -209,7 +199,40 @@ The potential impacts and harms, therefore, are magnified once applied to any in
 1. **Function creep:** tools built for safeguarding migrate to protest control.  
 2. **Ethical asymmetry:** students are surveilled; contractors remain invisible.  
 3. **Feedback loop:** lack of challenge normalises further monitoring.  
-4. **National-security leakage:** aggregated datasets become **high-payoff intelligence targets** for hostile actors (see `🧪 data-drift_and_infiltration_risk.md`).  
+4. **National-security leakage:** aggregated datasets become **high-payoff intelligence targets** for hostile actors (see `🧪 data-drift_and_infiltration_risk.md`).
+
+---
+
+## ♻️ Recursive Friction & System-Design Failure  
+
+Not all such systems are built with overtly punitive intent. In many cases, they are assembled incrementally as apparently reasonable compliance, safeguarding, or risk-management measures. Each individual component can be justified in isolation; the design failure emerges in the aggregate.
+
+A university or contractor may be able to produce a neat governance flowchart showing lawful collection, assessment, referral, and review. What that chart often fails to test is the lived pathway of the data subject who is repeatedly re-entered into the same system.
+
+Where there is no meaningful exit, correction, or reset, the data subject can become trapped in a recursive loop:
+
+Data subject → observation → risk flag → referral / monitoring → further observation → renewed risk flag
+
+In such a system, prior monitoring itself becomes a basis for future scrutiny. The architecture therefore risks producing **friction by design**:
+- repeated administrative contact
+- cumulative suspicion without formal finding
+- increased difficulty contesting inaccurate inference
+- escalating frustration, alienation, and distrust
+
+This matters even on the system’s own stated terms. If the institutional aim is to reduce harm, maintain safety, or de-escalate protest-related conflict, then architectures which intensify frustration and procedural opacity may be counterproductive. A system that continuously reprocesses individuals without clear off-ramps is not elegant risk management; it is a mechanism for manufacturing antagonism.
+
+The better design question is not merely whether a given data flow is technically lawful, but whether the overall architecture contains:
+- clear thresholds for intervention
+- routes for correction and challenge
+- limits on repeated recirculation
+- deletion and review points
+- a genuine exit from enhanced monitoring
+
+Without these features, compliance architecture can easily become a self-justifying loop in which institutional anxiety is repeatedly projected back onto the same data subjects.
+
+> The central failure is not only over-collection, but the construction of systems that lack graceful exit, accumulate friction, and convert administrative caution into persistent suspicion.
+> A system is not meaningfully protective if it resolves institutional anxiety by repeatedly offloading its costs onto the same data subject.
+> The relevant question is not simply whether each processing step can be defended in isolation, but whether the total architecture produces a fair, bounded, and non-recursive outcome for the person subjected to it.  
 
 ---
 
