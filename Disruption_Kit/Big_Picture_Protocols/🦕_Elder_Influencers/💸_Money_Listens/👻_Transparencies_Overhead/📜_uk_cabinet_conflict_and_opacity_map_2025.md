@@ -4,7 +4,7 @@
 
 ---
 
-## 🛰️ How Does The UK Disclose Conflicts For Public Visibility?  
+## 🛰️ How Does The UK Disclose Potential Conflicts For Public Visibility?  
 
 ```
 Full Disclosure (Private)
