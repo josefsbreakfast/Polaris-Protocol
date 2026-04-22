@@ -14,6 +14,8 @@ The result is a **grey-zone surveillance architecture**: technically lawful, pro
 
 ---
 
+## ✨ Grounding Principles  
+
 >Be calm when the unthinkable arrives.  
 >Modern tyranny is terror management.  
 >When the terrorist attack comes,  
@@ -22,9 +24,9 @@ The result is a **grey-zone surveillance architecture**: technically lawful, pro
 >
 >*Timothy Snyder, Twenty Lessons for Fighting Tyranny*
 
-*Look in-house.*  
+Look in-house. We cannot lecture others if ours is out of sorts.  
 
-*We cannot lecture others if ours is out of sorts.*  
+Power-grabs are typically bipartisan and are indicators of a system which is lacking balance and respect; the fix does not lie in partisan scapegoating, but in stripping out the discordant rot at the centre of the beaurocratic machine. Machines ought to assist humanity, not suppress or quell it.  
 
 ---
 
