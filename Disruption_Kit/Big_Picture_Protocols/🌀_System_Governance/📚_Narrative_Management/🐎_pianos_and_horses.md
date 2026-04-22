@@ -9,4 +9,5 @@ this isn't about the competance or morality of any of the examples, just how nar
 - [Karolina's rant about our complaints about "manly men" and dresses](https://youtu.be/roPQKEZK2X4?si=N8JnPHAH0QLenRQK), because the powerful men of the past would absolutely have beheaded us whilst only feeling sorrow for our lack of masculinity adequately performed.  
 - we need to talk about how [that HoC scene](https://youtu.be/x0bNhdtfX10?si=X2vV-NqEfMqp0MqR) was scripted for the Western male gaze, and therefore does not adequately capture the degree of how much we are missing this  
 
-- for some unknown reason, no western party at an international platform level has taken a good swing of his repression of the fundamental cultural freedoms required for the arts *in eloquent russian*, and i have no idea why, other than our resting at the wheel.  
+- for some unknown reason, no western party at an international platform level has taken a good swing of his repression of the fundamental cultural freedoms required for the arts *in eloquent russian*, and i have no idea why, other than our resting at the wheel.
+- literally such an easy achilles heel but okay.  
