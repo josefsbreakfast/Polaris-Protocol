@@ -28,12 +28,12 @@ It further situates that structure within:
 
 ---
 
-# ⚙️ Structural Specification — Engineering Layer  
+## ⚙️ Structural Specification — Engineering Layer  
 
 This section defines the **formal control architecture**.  
 It is intentionally **non-interpretive**.
 
-## 🧱 Entity Stack  
+### 🧱 Entity Stack  
 
 Elbit Systems Ltd (Israel)  
 ↓ (≥75% ownership + control rights)  
@@ -43,7 +43,7 @@ Subsidiaries + Joint Ventures
 
 ---
 
-## 🧿 Control Specification  
+### 🧿 Control Specification  
 
 Elbit Systems Ltd holds:
 
@@ -58,7 +58,7 @@ Elbit Systems Ltd holds:
 
 ---
 
-## 🧩 Subsidiaries  
+### 🧩 Subsidiaries  
 
 - Instro Precision Limited  
 - UAV Engines Limited  
@@ -68,7 +68,7 @@ Elbit → UK Holdco → Subsidiary
 
 ---
 
-## 🧿 Joint Venture Layer  
+### 🧿 Joint Venture Layer  
 
 ### UAV Tactical Systems Limited  
 - Current PSC: Elbit Systems UK  
@@ -79,7 +79,7 @@ Elbit → UK Holdco → Subsidiary
 
 ---
 
-# 🧠 Control Vectors Beyond Shareholding  
+## 🧠 Control Vectors Beyond Shareholding  
 
 These describe **mechanisms not captured by equity alone**.
 
@@ -107,7 +107,7 @@ Creates:
 
 ---
 
-# 🗺️ Programme Mapping  
+## 🗺️ Programme Mapping  
 
 ```mermaid
 flowchart TB
@@ -131,7 +131,7 @@ flowchart TB
 
 ---
 
-# 🏛️ Royal / Aristocratic Exposure — Negative Test  
+## 🏛️ Royal / Aristocratic Exposure — Negative Test  
 
 - Duchy reports reviewed  
 - No direct named holdings identified  
@@ -143,7 +143,7 @@ flowchart TB
 
 ---
 
-# 🧭 Pressure System — Multi-Channel  
+## 🧭 Pressure System — Multi-Channel  
 
 ```mermaid
 flowchart TB
@@ -172,7 +172,7 @@ flowchart TB
 
 ---
 
-# 🧭 Legal Process Timeline  
+## 🧭 Legal Process Timeline  
 
 ```mermaid
 flowchart LR
@@ -188,14 +188,14 @@ flowchart LR
 
 ---
 
-# 🧭 Translation Layer  
+## 🧭 Translation Layer  
 
-## ⚖️ Legal / IHL Focus  
+### ⚖️ Legal / IHL Focus  
 - platform systems  
 - control relationships  
 - state awareness  
 
-## 🔥 Activism Focus  
+### 🔥 Activism Focus  
 - facilities  
 - insurers  
 - visibility nodes  
@@ -204,7 +204,7 @@ flowchart LR
 
 ---
 
-# 🧭 Public Sympathy Context  
+## 🧭 Public Sympathy Context  
 
 Activism sits within broader concern regarding:
 - civilian harm  
@@ -215,7 +215,7 @@ Activism sits within broader concern regarding:
 
 ---
 
-# 🧭 Perception Gap  
+## 🧭 Perception Gap  
 
 Sympathy emerges when:
 - enforcement appears disproportionate  
@@ -223,7 +223,7 @@ Sympathy emerges when:
 
 ---
 
-# 🧭 Information Asymmetry  
+## 🧭 Information Asymmetry  
 
 - citizens: information = immediate consequence  
 - state: information = threshold-based  
@@ -232,7 +232,7 @@ Sympathy emerges when:
 
 ---
 
-# 🧭 Government Position  
+## 🧭 Government Position  
 
 Driven by:
 - legal thresholds  
@@ -243,7 +243,7 @@ Driven by:
 
 ---
 
-# 🧭 Knowledge & Risk  
+## 🧭 Knowledge & Risk  
 
 Key concept:
 > “knew or should have known”
@@ -253,7 +253,7 @@ but does not establish liability
 
 ---
 
-# 🧭 Cost & Enforcement  
+## 🧭 Cost & Enforcement  
 
 Public concern includes:
 - policing cost  
@@ -264,7 +264,7 @@ Public concern includes:
 
 ---
 
-# 🧩 Analytical Takeaway  
+## 🧩 Analytical Takeaway  
 
 Elbit’s UK position is explained through:
 
@@ -274,6 +274,113 @@ Elbit’s UK position is explained through:
 - multi-channel pressure  
 
 → **structural power, not hidden ownership**
+
+---
+
+## 🧭 Pressure Translation — How Activism Becomes Corporate Change  
+
+The pressure system described above does not operate abstractly.  
+It produces outcomes through a **stepwise translation process** that is often not visible to non-specialist readers.
+
+---
+
+### 🧩 Step 1 — Visibility  
+
+Actions such as:
+
+- protests  
+- direct action  
+- media coverage  
+
+increase:
+
+> **awareness of a specific company, site, or programme**
+
+This shifts an issue from:
+- low-visibility → high-visibility  
+
+---
+
+### ⚠️ Step 2 — Risk Reframing  
+
+Once visible, the issue is reinterpreted by third parties (e.g. insurers, investors, partners) as:
+
+- reputational risk  
+- regulatory risk  
+- operational disruption risk  
+
+At this stage, the question changes from:
+
+> “Is this lawful?”  
+
+to:
+
+> “Is this risky to be associated with?”
+
+---
+
+### 💰 Step 3 — Financial Response  
+
+Actors such as insurers and investors respond to perceived risk by:
+
+- withdrawing coverage  
+- increasing premiums  
+- reducing exposure  
+- reassessing relationships  
+
+This is a **risk-management decision**, not a legal judgement.
+
+---
+
+### 🧱 Step 4 — Operational Impact  
+
+Financial and reputational pressure produces:
+
+- increased operating costs  
+- contract friction  
+- partner hesitation or withdrawal  
+
+This can lead to:
+
+- restructuring  
+- simplification of governance  
+- consolidation of control  
+
+---
+
+### 🔄 Step 5 — Structural Outcome  
+
+Over time, these effects accumulate into:
+
+- changes in corporate structure  
+- shifts in control (e.g. partner exit)  
+- altered programme dynamics  
+
+---
+
+## 🧠 Why This Matters  
+
+Without this translation, it can appear that:
+
+- activism has no material effect, or  
+- corporate change is unrelated  
+
+In practice:
+
+> **activism does not directly change ownership — it changes the environment in which ownership operates**
+
+---
+
+## ⚠️ Clarification  
+
+- This process does **not imply coordination between all actors**  
+- It reflects **independent responses to shared signals**
+
+---
+
+## 🧠 Bottom Line  
+
+> Activism affects corporate behaviour indirectly by increasing visibility and risk, which in turn triggers financial and operational responses that can reshape corporate structure over time.
 
 ---
 
