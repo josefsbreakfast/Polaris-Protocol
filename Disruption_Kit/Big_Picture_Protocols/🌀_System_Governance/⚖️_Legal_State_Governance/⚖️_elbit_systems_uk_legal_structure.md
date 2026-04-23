@@ -53,7 +53,44 @@ Subsidiaries + Joint Ventures
 **Affinity Flying Training Services Limited**  
 - PSCs: Elbit Systems UK + KBR  
 
-⚠️ Non-interpretive; based on public filings.
+⚠️ Non-interpretive; based on public filings.  
+
+---
+
+## 🗺️ Control Structure Snapshots  
+
+### 💾 Previous structure  
+```mermaid
+flowchart TB
+    subgraph P1[Previous structure: shared JV control]
+        A[Elbit Systems Ltd]
+        B[Elbit Systems UK Limited]
+        C[UAV Tactical Systems Limited]
+        D[Thales UK Limited]
+
+        A --> B
+        B --> C
+        D --> C
+
+        B -. active PSC .-> C
+        D -. active PSC .-> C
+    end
+```
+
+### 💿 Current structure  
+```mermaid
+flowchart TB
+    subgraph P2[New structure: consolidated Elbit control]
+        A[Elbit Systems Ltd]
+        B[Elbit Systems UK Limited]
+        C[UAV Tactical Systems Limited]
+
+        A --> B
+        B --> C
+
+        B -. sole PSC .-> C
+    end
+```
 
 ---
 
@@ -89,12 +126,12 @@ Creates:
 
 ```mermaid
 flowchart TB
-    MOD[UK Ministry of Defence]
+    MOD[UK MOD]
 
-    WK[Watchkeeper UAV Programme]
-    TR[Military Flying Training System]
-    OP[Optical Systems]
-    EN[Propulsion / Engines]
+    WK[Watchkeeper UAV]
+    TR[Training System]
+    OP[Optics]
+    EN[Engines]
 
     UTS[UAV Tactical Systems]
     AFF[Affinity]
@@ -105,6 +142,8 @@ flowchart TB
     MOD --> TR --> AFF
     MOD --> OP --> INS
     MOD --> EN --> UEL
+```
+
 ```
 
 ---
