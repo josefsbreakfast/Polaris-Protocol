@@ -3,6 +3,8 @@ idk why everyone is pretending not to understand the vetting process, but.
 not a dbs. active risk mansgement sysyem.  
 why are we discussing this on tv when it's a shield for ns?  
 
+ngl as likely to be finance bros as much as china.  
+
 notes:  
 
 <!--
