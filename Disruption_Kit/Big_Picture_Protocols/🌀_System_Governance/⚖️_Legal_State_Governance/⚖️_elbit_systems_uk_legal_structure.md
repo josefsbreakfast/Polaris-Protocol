@@ -122,7 +122,7 @@ Creates:
 
 ---
 
-## 🗺️ Layer 3 — Programme Embedding (Where It Operates, UK PoV)
+## 🗺️ Layer 3 — Programme Embedding (Where It Operates, UK-centric PoV)
 
 ```mermaid
 flowchart LR
