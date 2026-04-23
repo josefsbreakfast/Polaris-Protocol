@@ -1,4 +1,4 @@
-# 🫖 Tea Minister
+# 🫖 Tea, Minister?
 **First created:** 2026-04-23 | **Last updated:** 2026-04-23  
 *How civil service behaviour becomes culturally legible as “Britishness,” and how that surface style obscures the risk-managed logic underneath.*
 
