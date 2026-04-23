@@ -225,8 +225,75 @@ Elbit’s UK position reflects:
 
 ---
 
+## 🧭 Credibility Erosion — Communication vs Public Trust  
+
+In high-visibility and contested policy environments, government communication strategy can produce unintended credibility effects, independent of underlying intent.
+
+---
+
+### 🧠 Mechanism  
+
+A recurring pattern can be observed:
+
+1. **High-visibility issue**
+   - conflict reporting, legal challenge, protest activity  
+   - incomplete but widely circulated information  
+
+2. **Cautious or qualified government communication**
+   - emphasis on process, evidence, and legal thresholds  
+   - avoidance of definitive or early conclusions  
+
+3. **Public interpretation**
+   - caution is read as **evasion or concealment**  
+   - absence of clarity becomes a signal in itself  
+
+4. **Trust erosion**
+   - reduced willingness to accept official framing  
+   - increased inference of ulterior motives  
+
+5. **Spillover into adjacent policy areas**
+   - subsequent messaging (e.g. defence policy, foreign engagement) is received through a **lower-trust lens**  
+   - scrutiny and scepticism increase beyond the original issue  
+
+---
+
+### 🔍 Analytical Implication  
+
+This dynamic reflects a mismatch between:
+
+- **state communication incentives**  
+  (legal defensibility, evidential caution, diplomatic signalling)
+
+and:
+
+- **public evaluation criteria**  
+  (clarity, perceived honesty, proportionality)
+
+---
+
+### ⚠️ Clarification  
+
+- This does **not imply misconduct or improper intent**  
+- It describes how **communication strategy can produce perceptions of opacity**, even where constraints are legitimate  
+
+---
+
+### 🧠 Bottom Line  
+
+> Prolonged reliance on cautious or non-committal communication in high-visibility contexts can generate a perception of evasion, reducing public trust and complicating government messaging across related policy areas.
+
+---
+
 ## 🌌 Constellations  
 ⚖️ 🧠 🛰️ 🧬 🏛️  
+
+*Further reading & media:*  
+
+- [Financial Times: "UK under pressure over controversial bidders for MoD training contract"](https://www.ft.com/content/b46d135b-8d83-4f69-b5ba-51ced7cb2edd)  
+- [ The Guardian: "Israeli arms manufacturer closes UK facility targeted by Palestine Action: Elbit Systems UK site in Bristol was subject of protest days before direct action group was proscribed"](https://www.theguardian.com/world/2025/sep/06/israeli-arms-manufacturer-elbit-systems-closes-uk-facility-targeted-by-palestine-action)  
+- [Globes: "Elbit-Thales joint venture U-TacS gets $500m order"](https://en.globes.co.il/en/article-1000023254)  
+- [UK Companies House Listing: Elbit Systems UK Ltd. Company number 05241591.](https://find-and-update.company-information.service.gov.uk/company/05241591)  
+- [US Securities and Exchange Commission: Elbit Systems 2024 Annual Report (Form 20-F)](https://www.sec.gov/ix?doc=/Archives/edgar/data/1027664/000162828025013971/eslt-20241231.htm)  
 
 ---
 
