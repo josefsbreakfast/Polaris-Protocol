@@ -316,12 +316,17 @@ It is about how a state whose internal logic is risk-managed and partially opaqu
 ## 🌌 Constellations  
 🫖 🎭 🔒 🧠 ⚖️ — cultural shorthand, managed opacity, and the misreading of constrained institutional behaviour as national personality.
 
+---
+
 ## ✨ Stardust  
 civil service culture, britishness, developed vetting, risk management, neutrality, communication under constraint, yes minister, institutional opacity, soft skills, public misinterpretation
+
+---
 
 ## 🏮 Footer
 
 *🫖 Tea Minister* is a living node of the **Polaris Protocol**.  
+
 It maps how civil service behaviour becomes culturally legible as “Britishness,” while masking the underlying reality of managed risk, controlled disclosure, and institutional constraint.
 
 > 📡 Cross-references:
