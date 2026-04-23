@@ -148,6 +148,7 @@ while civil servants must prioritise:
 - risk management
 
 > They are there to *prevent catestrophoc clusterfuck*, not dictate their whims. They protect the apparatus from the government of the day, whilst imposing its will. This is not an easy dynamic, and is permenant tension.
+> 
 > They are not telling you not to having fun because they don't like fun – they are usually simply advising against doing a kegstand in your fifties with the entire departmental budget on the line on April 2nd.  
 
 ---
