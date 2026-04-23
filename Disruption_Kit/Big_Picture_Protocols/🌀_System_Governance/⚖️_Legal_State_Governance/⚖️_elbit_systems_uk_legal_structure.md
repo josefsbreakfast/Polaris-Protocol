@@ -362,7 +362,7 @@ elbit systems uk, defence structure, joint ventures, programme mapping, control 
 > 📡 Cross-references:
 >
 > - [📊 Risk, Capital, and Hunger Strikes](./📊_risk_capital_and_hunger_strikes.md) - *due to commercial interest overlap, the same benefactors of Elbit are often benefactors of prisons, asylum incarceration, and security where the state has so justified a contract*  
-> - [📜 UK Cabinet Conflict & Opacity Map (2025)](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/📜_uk_cabinet_conflict_and_opacity_map_2025.md) - *CoI power-mapping of UK Cabinet as comparison*  
+> - [📜 UK Cabinet Conflict & Opacity Map (2026)](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/📜_uk_cabinet_conflict_and_opacity_map_2026.md) - *CoI power-mapping of UK Cabinet as comparison*  
 > - [🛰️ OSINT Field Operations](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md)- *how to trace the ghosts of hot money*  
 > - [🍉 Why The Long Prison Stay](./🍉_why_the_long_prison_stay.md)  
 > - [🔥 Hunger Strike Comparisons](./🔥_hunger_strike_comparisons.md)  
