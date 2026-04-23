@@ -1,5 +1,5 @@
 # 📜 UK Cabinet Conflict & Opacity Map (2026)
-**First created:** 2025-10-06 | **Last updated:** 2026-04-22  
+**First created:** 2025-10-06 | **Last updated:** 2026-04-23  
 *Mapping conflict exposure, disclosure asymmetry, and managed opacity across the January 2026 UK Cabinet.*
 
 ---
@@ -236,10 +236,10 @@ It tracks how ministerial disclosure frameworks do not simply reveal or conceal 
 
 > 📡 Cross-references:
 >
-> – [🧿 Watch the Watchers](../../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md)  
-> – [📜 Statutes](../../../🦕_Elder_Influencers/📜_Statutes/README.md)  
-> – [🧠 HM Dept Coercive Nudges](../../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md)
+> - [🧿 Watch the Watchers](../../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md)  
+> - [📜 Statutes](../../../🦕_Elder_Influencers/📜_Statutes/README.md)  
+> - [🧠 HM Dept Coercive Nudges](../../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-22_
+_Last updated: 2026-04-23_
