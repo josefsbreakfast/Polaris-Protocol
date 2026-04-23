@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-22 20:11:43 UTC_
+_Generated on 2026-04-23 10:27:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -232,6 +232,7 @@ _Generated on 2026-04-22 20:11:43 UTC_
         - [`🪖_how_politicians_legally_strangle_the_mod.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪖_how_politicians_legally_strangle_the_mod.md)
         - [`🪖_respectfully_asking_the_mod_to_declassify.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪖_respectfully_asking_the_mod_to_declassify.md)
         - [`🪻_lavender_fields_uk_transplant_legal_overview.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪻_lavender_fields_uk_transplant_legal_overview.md)
+        - [`🫖_tea_minister.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🫖_tea_minister.md)
       - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/README.md)
         - [`bottleneck_mapping_log_template.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/bottleneck_mapping_log_template.csv)
