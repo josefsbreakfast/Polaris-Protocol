@@ -138,7 +138,7 @@ flowchart LR
     UEL[UAV Engines Limited]
 
     ESLT[Elbit Systems UK Limited]
-    ESL[Elbit Systems Ltd (Israel)]
+    ESL[Elbit Systems Ltd in Israel]
 
     %% Programme to delivery
     MOD --> WK --> UTS
