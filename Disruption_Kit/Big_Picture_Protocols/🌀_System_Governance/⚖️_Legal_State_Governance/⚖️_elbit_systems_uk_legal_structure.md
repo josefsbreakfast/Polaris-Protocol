@@ -6,85 +6,63 @@
 
 ## 🛰️ Orientation  
 
-This node documents the **legal structure and control mechanisms** of Elbit Systems within the United Kingdom.
+This node documents the **legal structure and control mechanisms** of Elbit Systems within the United Kingdom, and situates that structure within:
 
-It distinguishes between:
-
-- **formal corporate ownership** (as disclosed in UK filings)  
-- **practical control**, exercised through:
-  - subsidiaries  
-  - joint ventures  
-  - intellectual property  
-  - contract architecture  
-  - export licensing regimes  
-
-It further situates that structure within:
-
-- UK defence programme embedding  
-- public and civil-society pressure pathways  
+- defence programme embedding  
+- public pressure systems  
 - legal and perception dynamics  
 
-> The purpose is evidential clarity: what is disclosed, what is not, and where power sits.
+> The purpose is evidential clarity: what is disclosed, what is not, and where power operates in practice.
 
 ---
 
-## ⚙️ Structural Specification — Engineering Layer  
+# 🧭 System Architecture  
 
-This section defines the **formal control architecture**.  
-It is intentionally **non-interpretive**.
+This document is structured as a **seven-layer system**, moving from verifiable structure → mechanisms → operational embedding → pressure → legal framing → perception → translation.
 
-### 🧱 Entity Stack  
+---
 
+# 🧱 Layer 1 — Engineering Specification (Hard Facts)
+
+## ⚙️ Structural Specification  
+
+### Entity Stack  
 Elbit Systems Ltd (Israel)  
 ↓ (≥75% ownership + control rights)  
 Elbit Systems UK Limited  
 ↓  
 Subsidiaries + Joint Ventures  
 
----
-
-### 🧿 Control Specification  
-
-Elbit Systems Ltd holds:
-
+### Control Specification  
 - ≥75% shares  
 - ≥75% voting rights  
 - right to appoint/remove directors  
 
-→ Enables:
-- ordinary + special resolution control  
-- board control  
-- strategic direction control  
+→ enables full resolution and governance control  
 
----
-
-### 🧩 Subsidiaries  
-
+### Subsidiaries  
 - Instro Precision Limited  
 - UAV Engines Limited  
 
-Control path:  
-Elbit → UK Holdco → Subsidiary  
+### Joint Ventures  
 
----
-
-### 🧿 Joint Venture Layer  
-
-### UAV Tactical Systems Limited  
+**UAV Tactical Systems Limited**  
 - Current PSC: Elbit Systems UK  
 - Historical PSC: Thales UK (ceased Jan 2026)  
 
-### Affinity Flying Training Services Limited  
+**Affinity Flying Training Services Limited**  
 - PSCs: Elbit Systems UK + KBR  
+
+⚠️ Non-interpretive; based on public filings.
 
 ---
 
+# ⚙️ Layer 2 — Control Mechanisms (How Power Works)
+
 ## 🧠 Control Vectors Beyond Shareholding  
 
-These describe **mechanisms not captured by equity alone**.
-
-### 1. Board Control  
-Director appointment rights → strategic control  
+### 1. Board Appointment Rights  
+Parent control of director appointments enables strategic alignment  
 
 ### 2. Intellectual Property  
 Creates:
@@ -99,7 +77,7 @@ Creates:
 → dual regulatory leverage  
 
 ### 4. Programme Lock-In  
-- training pipelines  
+- workforce  
 - doctrine  
 - sustainment  
 
@@ -107,16 +85,16 @@ Creates:
 
 ---
 
-## 🗺️ Programme Mapping  
+# 🗺️ Layer 3 — Programme Embedding (Where It Operates)
 
 ```mermaid
 flowchart TB
-    MOD[UK MOD]
+    MOD[UK Ministry of Defence]
 
-    WK[Watchkeeper UAV]
-    TR[Training System]
-    OP[Optics]
-    EN[Engines]
+    WK[Watchkeeper UAV Programme]
+    TR[Military Flying Training System]
+    OP[Optical Systems]
+    EN[Propulsion / Engines]
 
     UTS[UAV Tactical Systems]
     AFF[Affinity]
@@ -131,30 +109,18 @@ flowchart TB
 
 ---
 
-## 🏛️ Royal / Aristocratic Exposure — Negative Test  
-
-- Duchy reports reviewed  
-- No direct named holdings identified  
-- No York-linked exposure evidenced  
-
-→ indirect pooled exposure cannot be excluded  
-
-**Conclusion:** no evidence of direct royal shareholding  
-
----
-
-## 🧭 Pressure System — Multi-Channel  
+# 🔥 Layer 4 — Pressure System (How It Is Acted On)
 
 ```mermaid
 flowchart TB
-    L[Legal]
-    P[Protest]
-    G[Parliament]
-    F[Finance]
+    L[Legal Challenge]
+    P[Protest & Direct Action]
+    G[Parliamentary Pressure]
+    F[Financial Pressure]
 
-    R[Risk]
-    U[Uncertainty]
-    C[Cost]
+    R[Reputational Risk]
+    U[Legal Uncertainty]
+    C[Cost Increase]
 
     O[Corporate Outcomes]
 
@@ -170,9 +136,19 @@ flowchart TB
     C --> O
 ```
 
+## 🧭 Pressure Translation  
+
+1. Visibility → issue becomes high-profile  
+2. Risk reframing → reputational / operational risk  
+3. Financial response → insurers / investors react  
+4. Operational impact → cost + friction  
+5. Structural outcome → governance shifts  
+
+> Activism changes the environment, not ownership directly.
+
 ---
 
-## 🧭 Legal Process Timeline  
+# ⚖️ Layer 5 — Legal Framing (How It Is Judged)
 
 ```mermaid
 flowchart LR
@@ -186,201 +162,64 @@ flowchart LR
     A --> B --> C --> D --> E --> F
 ```
 
----
-
-## 🧭 Translation Layer  
-
-### ⚖️ Legal / IHL Focus  
-- platform systems  
-- control relationships  
-- state awareness  
-
-### 🔥 Activism Focus  
-- facilities  
-- insurers  
-- visibility nodes  
-
-→ different logics: attribution vs pressure  
+Key concepts:
+- evidential thresholds  
+- sequential process  
+- jurisdictional complexity  
+- “knew or should have known”  
 
 ---
 
-## 🧭 Public Sympathy Context  
+# 🧠 Layer 6 — Perception Layer (How It Is Experienced)
 
-Activism sits within broader concern regarding:
-- civilian harm  
-- conflict impacts  
-- supply chains  
+- sympathy driven by perceived proportionality  
+- enforcement optics  
+- cost opacity  
+- information asymmetry  
 
-→ not limited to formal activists  
-
----
-
-## 🧭 Perception Gap  
-
-Sympathy emerges when:
-- enforcement appears disproportionate  
-- moral framing ≠ legal framing  
+→ moral framing diverges from legal framing  
 
 ---
 
-## 🧭 Information Asymmetry  
+# 🧭 Layer 7 — Translation Layer (How It Is Understood)
 
-- citizens: information = immediate consequence  
-- state: information = threshold-based  
+## Journalists  
+- clarifies attribution  
+- highlights programme relevance  
 
-→ perceived inconsistency  
+## Policymakers  
+- identifies dependency  
+- explains pressure pathways  
 
----
+## Distinction  
 
-## 🧭 Government Position  
-
-Driven by:
-- legal thresholds  
-- evidential caution  
-- diplomatic constraints  
-
-→ slower response than public expectation  
-
----
-
-## 🧭 Knowledge & Risk  
-
-Key concept:
-> “knew or should have known”
-
-High-visibility environment increases relevance  
-but does not establish liability  
+| Legal | Activism |
+|--|--|
+| attribution | pressure |
+| evidence | visibility |
 
 ---
 
-## 🧭 Cost & Enforcement  
+# 🏛️ Royal Exposure — Analytical Check  
 
-Public concern includes:
-- policing cost  
-- legal cost  
-- security cost  
+- no direct named holdings identified  
+- no credible York linkage  
+- pooled exposure possible but unproven  
 
-→ rarely aggregated  
+→ negative test only  
 
 ---
 
-## 🧩 Analytical Takeaway  
+# 🧩 Analytical Takeaway  
 
-Elbit’s UK position is explained through:
+Elbit’s UK position reflects:
 
 - corporate control  
 - programme embedding  
 - structural dependency  
 - multi-channel pressure  
 
-→ **structural power, not hidden ownership**
-
----
-
-## 🧭 Pressure Translation — How Activism Becomes Corporate Change  
-
-The pressure system described above does not operate abstractly.  
-It produces outcomes through a **stepwise translation process** that is often not visible to non-specialist readers.
-
----
-
-### 🧩 Step 1 — Visibility  
-
-Actions such as:
-
-- protests  
-- direct action  
-- media coverage  
-
-increase:
-
-> **awareness of a specific company, site, or programme**
-
-This shifts an issue from:
-- low-visibility → high-visibility  
-
----
-
-### ⚠️ Step 2 — Risk Reframing  
-
-Once visible, the issue is reinterpreted by third parties (e.g. insurers, investors, partners) as:
-
-- reputational risk  
-- regulatory risk  
-- operational disruption risk  
-
-At this stage, the question changes from:
-
-> “Is this lawful?”  
-
-to:
-
-> “Is this risky to be associated with?”
-
----
-
-### 💰 Step 3 — Financial Response  
-
-Actors such as insurers and investors respond to perceived risk by:
-
-- withdrawing coverage  
-- increasing premiums  
-- reducing exposure  
-- reassessing relationships  
-
-This is a **risk-management decision**, not a legal judgement.
-
----
-
-### 🧱 Step 4 — Operational Impact  
-
-Financial and reputational pressure produces:
-
-- increased operating costs  
-- contract friction  
-- partner hesitation or withdrawal  
-
-This can lead to:
-
-- restructuring  
-- simplification of governance  
-- consolidation of control  
-
----
-
-### 🔄 Step 5 — Structural Outcome  
-
-Over time, these effects accumulate into:
-
-- changes in corporate structure  
-- shifts in control (e.g. partner exit)  
-- altered programme dynamics  
-
----
-
-## 🧠 Why This Matters  
-
-Without this translation, it can appear that:
-
-- activism has no material effect, or  
-- corporate change is unrelated  
-
-In practice:
-
-> **activism does not directly change ownership — it changes the environment in which ownership operates**
-
----
-
-## ⚠️ Clarification  
-
-- This process does **not imply coordination between all actors**  
-- It reflects **independent responses to shared signals**
-
----
-
-## 🧠 Bottom Line  
-
-> Activism affects corporate behaviour indirectly by increasing visibility and risk, which in turn triggers financial and operational responses that can reshape corporate structure over time.
+→ structural power, not hidden ownership  
 
 ---
 
@@ -390,14 +229,13 @@ In practice:
 ---
 
 ## ✨ Stardust  
-elbit systems uk, defence subsidiaries, joint ventures, programme mapping, control systems, governance, export licensing, activism, public perception  
+elbit systems uk, defence structure, joint ventures, programme mapping, control systems, governance, export licensing, activism, public perception  
 
 ---
 
 ## 🏮 Footer  
 
-*⚖️ Elbit Systems UK — Legal & Control Structure* is a living node of the **Polaris Protocol**.  
-It documents ownership, control, programme embedding, and public pressure dynamics in UK defence governance.
+*⚖️ Elbit Systems UK — Legal & Control Structure* is a living node of the Polaris Protocol.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
