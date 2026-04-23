@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-23 10:31:10 UTC_
+_Generated on 2026-04-23 10:34:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -176,6 +176,7 @@ _Generated on 2026-04-23 10:31:10 UTC_
         - [`🍉_why_peacetime_vs_wartime_matters_for_democracy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🍉_why_peacetime_vs_wartime_matters_for_democracy.md)
         - [`🍉_why_the_long_prison_stay.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🍉_why_the_long_prison_stay.md)
         - [`🍞_why_food_safety_is_aggressively_regulated.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🍞_why_food_safety_is_aggressively_regulated.md)
+        - [`🏉_vetting_is_a_game_of_engagement.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏉_vetting_is_a_game_of_engagement.md)
         - [`🏛️_a_state_that_cannot_confront_abuse_cannot_protect.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_a_state_that_cannot_confront_abuse_cannot_protect.md)
         - [`🏛️_consultancy_power_vs_democratic_safeguards.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_consultancy_power_vs_democratic_safeguards.md)
         - [`🏛️_diplomatic_inviolability_and_influence_drift.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🏛️_diplomatic_inviolability_and_influence_drift.md)
