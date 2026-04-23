@@ -1,167 +1,297 @@
 # ⚖️ Elbit Systems UK — Legal & Control Structure  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
-*Formal ownership, control vectors, and limits of disclosure in the UK context.*  
+**First created:** 2025-12-20 | **Last updated:** 2026-04-23  
+*Formal ownership, control vectors, programme embedding, public pressure pathways, legal context, and limits of disclosure in the UK defence environment.*
 
 ---
 
 ## 🛰️ Orientation  
-This node documents the **legal structure and control mechanisms** of Elbit Systems within the United Kingdom.  
-It distinguishes between **formal corporate ownership** (as disclosed in UK filings) and **practical control** exercised through joint ventures, contracts, IP, and export regimes.
 
-The purpose is evidential clarity:  
-- what *is* disclosed,  
-- what *is not*, and  
-- where governance power actually sits.
+This node documents the **legal structure and control mechanisms** of Elbit Systems within the United Kingdom.
 
----
+It distinguishes between:
 
-## ✨ Key Features  
-- UK presence organised through **private limited companies**  
-- **Israeli parent** disclosed as controlling shareholder at the UK holdco level  
-- Operational delivery mediated through **UK subsidiaries and joint ventures**  
-- Control exercised through **board rights, IP ownership, export licensing, and programme lock-in**  
-- No public evidence of **UK royal or aristocratic direct shareholding**
+- **formal corporate ownership** (as disclosed in UK filings)  
+- **practical control**, exercised through:
+  - subsidiaries  
+  - joint ventures  
+  - intellectual property  
+  - contract architecture  
+  - export licensing regimes  
 
----
+It further situates that structure within:
 
-## 🧿 Corporate Structure (UK)
+- UK defence programme embedding  
+- public and civil-society pressure pathways  
+- legal and perception dynamics  
 
-### 1. Parent Company  
-- Elbit Systems Ltd (Israel)  
-- Publicly listed  
-- Ultimate strategic, financial, and IP control
+> The purpose is evidential clarity: what is disclosed, what is not, and where power sits.
 
 ---
 
-### 2. UK Holding Company  
-- Elbit Systems UK Limited  
-- Incorporated in England & Wales  
-- Registered with Companies House
+# ⚙️ Structural Specification — Engineering Layer  
 
-**Disclosed control (PSC register):**
-- Elbit Systems Ltd (Israel) holds:
-  - ≥75% of shares  
-  - ≥75% of voting rights  
-  - Right to appoint/remove directors  
+This section defines the **formal control architecture**.  
+It is intentionally **non-interpretive**.
 
-This establishes **formal foreign parent control** under UK company law.
+## 🧱 Entity Stack  
+
+Elbit Systems Ltd (Israel)  
+↓ (≥75% ownership + control rights)  
+Elbit Systems UK Limited  
+↓  
+Subsidiaries + Joint Ventures  
 
 ---
 
-### 3. UK Operating Companies (examples)
+## 🧿 Control Specification  
+
+Elbit Systems Ltd holds:
+
+- ≥75% shares  
+- ≥75% voting rights  
+- right to appoint/remove directors  
+
+→ Enables:
+- ordinary + special resolution control  
+- board control  
+- strategic direction control  
+
+---
+
+## 🧩 Subsidiaries  
+
 - Instro Precision Limited  
-  - Controlled via Elbit Systems UK Limited  
-  - Operational delivery and manufacturing functions
+- UAV Engines Limited  
+
+Control path:  
+Elbit → UK Holdco → Subsidiary  
 
 ---
 
-### 4. Joint Venture Vehicles (control without sole ownership)
+## 🧿 Joint Venture Layer  
 
-#### UAV Tactical Systems Limited  
-- PSCs:  
-  - Elbit Systems UK Limited  
-  - Thales UK Limited  
-- Shared governance by design  
-- Used for UK defence programmes (e.g. UAV delivery)
+### UAV Tactical Systems Limited  
+- Current PSC: Elbit Systems UK  
+- Historical PSC: Thales UK (ceased Jan 2026)  
 
-#### Affinity Flying Training Services Limited  
-- PSCs:  
-  - Elbit Systems UK Limited  
-  - Kellogg Brown & Root (UK)  
-- Training pipeline and workforce dependency node
-
-**Note:**  
-Joint ventures often provide **greater practical control** than outright ownership due to:
-- board symmetry and veto rights  
-- programme embedment  
-- high exit costs for the UK state
+### Affinity Flying Training Services Limited  
+- PSCs: Elbit Systems UK + KBR  
 
 ---
 
-## 🧠 Control Vectors Beyond Shareholding
+# 🧠 Control Vectors Beyond Shareholding  
 
-### 1. Board Appointment Rights  
-The Israeli parent’s right to appoint/remove UK directors provides **strategic control** even where day-to-day operations are localised.
+These describe **mechanisms not captured by equity alone**.
+
+### 1. Board Control  
+Director appointment rights → strategic control  
 
 ### 2. Intellectual Property  
-Core IP is typically retained at parent or programme level, creating:
+Creates:
 - upgrade dependency  
 - sustainment leverage  
-- asymmetric exit costs
+- exit asymmetry  
 
-### 3. Export & Re-export Licensing  
-Defence exports are subject to:
-- Israeli export controls  
+### 3. Export Licensing  
+- Israeli controls  
 - UK licensing  
-This creates **dual-state leverage** independent of UK corporate form.
+
+→ dual regulatory leverage  
 
 ### 4. Programme Lock-In  
-Long-term defence and training contracts embed suppliers in:
-- workforce pipelines  
+- training pipelines  
 - doctrine  
-- sustainment systems  
+- sustainment  
 
-Replacement cost functions as a **power mechanism**.
-
----
-
-## 🏛️ Royal / Aristocratic Exposure — Findings
-
-### Duchy of Lancaster & Duchy of Cornwall  
-- Annual accounts reviewed across recent years  
-- Investments disclosed **in aggregate**, not as line-by-line equity holdings  
-- **No direct, named disclosure** of Elbit Systems or ESLT identified  
-- Indirect exposure via pooled funds **cannot be excluded**, but cannot be evidenced from public reports
-
-### Duke of York / “York” Vehicles  
-- No “Duchy of York” investment estate exists  
-- Prince Andrew–linked entities (e.g. Pitch@Palace vehicles) reviewed at a high level  
-- **No credible public source** linking York-associated vehicles to Elbit Systems or ESLT
-
-**Conclusion:**  
-There is **no public evidence** of direct royal or aristocratic shareholding in Elbit Systems UK entities.  
-Opacity exists primarily through **institutional capital and pooled investment vehicles**, not named individuals.
+→ switching cost = power  
 
 ---
 
-## 🧩 Analytical Takeaway  
-Elbit’s UK power does **not** depend on hidden domestic shareholders.  
-It is exercised through:
+# 🗺️ Programme Mapping  
 
-- foreign parent control  
-- UK corporate compliance structures  
-- joint-venture governance  
-- IP and export regimes  
-- defence programme embedment  
+```mermaid
+flowchart TB
+    MOD[UK MOD]
 
-This is **structural power**, not personality-driven influence.
+    WK[Watchkeeper UAV]
+    TR[Training System]
+    OP[Optics]
+    EN[Engines]
+
+    UTS[UAV Tactical Systems]
+    AFF[Affinity]
+    INS[Instro]
+    UEL[UAV Engines]
+
+    MOD --> WK --> UTS
+    MOD --> TR --> AFF
+    MOD --> OP --> INS
+    MOD --> EN --> UEL
+```
+
+---
+
+# 🏛️ Royal / Aristocratic Exposure — Negative Test  
+
+- Duchy reports reviewed  
+- No direct named holdings identified  
+- No York-linked exposure evidenced  
+
+→ indirect pooled exposure cannot be excluded  
+
+**Conclusion:** no evidence of direct royal shareholding  
+
+---
+
+# 🧭 Pressure System — Multi-Channel  
+
+```mermaid
+flowchart TB
+    L[Legal]
+    P[Protest]
+    G[Parliament]
+    F[Finance]
+
+    R[Risk]
+    U[Uncertainty]
+    C[Cost]
+
+    O[Corporate Outcomes]
+
+    L --> U
+    L --> R
+    P --> R
+    G --> R
+    G --> U
+
+    R --> F
+    U --> F
+    F --> C
+    C --> O
+```
+
+---
+
+# 🧭 Legal Process Timeline  
+
+```mermaid
+flowchart LR
+    A[Policy]
+    B[Challenge]
+    C[Ruling]
+    D[Appeal]
+    E[Uncertainty]
+    F[Final decision]
+
+    A --> B --> C --> D --> E --> F
+```
+
+---
+
+# 🧭 Translation Layer  
+
+## ⚖️ Legal / IHL Focus  
+- platform systems  
+- control relationships  
+- state awareness  
+
+## 🔥 Activism Focus  
+- facilities  
+- insurers  
+- visibility nodes  
+
+→ different logics: attribution vs pressure  
+
+---
+
+# 🧭 Public Sympathy Context  
+
+Activism sits within broader concern regarding:
+- civilian harm  
+- conflict impacts  
+- supply chains  
+
+→ not limited to formal activists  
+
+---
+
+# 🧭 Perception Gap  
+
+Sympathy emerges when:
+- enforcement appears disproportionate  
+- moral framing ≠ legal framing  
+
+---
+
+# 🧭 Information Asymmetry  
+
+- citizens: information = immediate consequence  
+- state: information = threshold-based  
+
+→ perceived inconsistency  
+
+---
+
+# 🧭 Government Position  
+
+Driven by:
+- legal thresholds  
+- evidential caution  
+- diplomatic constraints  
+
+→ slower response than public expectation  
+
+---
+
+# 🧭 Knowledge & Risk  
+
+Key concept:
+> “knew or should have known”
+
+High-visibility environment increases relevance  
+but does not establish liability  
+
+---
+
+# 🧭 Cost & Enforcement  
+
+Public concern includes:
+- policing cost  
+- legal cost  
+- security cost  
+
+→ rarely aggregated  
+
+---
+
+# 🧩 Analytical Takeaway  
+
+Elbit’s UK position is explained through:
+
+- corporate control  
+- programme embedding  
+- structural dependency  
+- multi-channel pressure  
+
+→ **structural power, not hidden ownership**
 
 ---
 
 ## 🌌 Constellations  
-⚖️ 🧠 🛰️ 🧬 🏛️ — legal structure, governance, defence procurement, ownership vs control, ESG scrutiny.
+⚖️ 🧠 🛰️ 🧬 🏛️  
 
 ---
 
 ## ✨ Stardust  
-elbit systems uk, defence subsidiaries, joint ventures, persons with significant control, export licensing, ip control, programme lock-in, esg scrutiny, royal investment opacity, uav, drone, unmanned aerial vehicles, defence technology  
-<!--why-have-i-not-got-my-hoverboard-yet-if-we-are-making-these-->  
+elbit systems uk, defence subsidiaries, joint ventures, programme mapping, control systems, governance, export licensing, activism, public perception  
+
 ---
 
 ## 🏮 Footer  
-*⚖️ Elbit Systems UK — Legal & Control Structure* is a living node of the **Polaris Protocol**.  
-It records formal ownership, practical control mechanisms, and the limits of public disclosure in defence-sector governance.  
 
-> 📡 Cross-references:
-> 
-> - [📊 Risk, Capital, and Hunger Strikes](./📊_risk_capital_and_hunger_strikes.md) - *due to commercial interest overlap, the same benefactors of Elbit are often benefactors of prisons, asylum incarceration, and security where the state has so justified a contract*  
-> - [📜 UK Cabinet Conflict & Opacity Map (2025)](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/📜_uk_cabinet_conflict_and_opacity_map_2025.md) - *CoI power-mapping of UK Cabinet as comparison*  
-> - [🛰️ OSINT Field Operations](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md)- *how to trace the ghosts of hot money*
-> - [🍉 Why The Long Prison Stay](./🍉_why_the_long_prison_stay.md)  
-> - [🔥 Hunger Strike Comparisons](./🔥_hunger_strike_comparisons.md)  
-> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md)
-> - [⚖️ Legal & State Governance - Return to README](./README.md)  
+*⚖️ Elbit Systems UK — Legal & Control Structure* is a living node of the **Polaris Protocol**.  
+It documents ownership, control, programme embedding, and public pressure dynamics in UK defence governance.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-04-23_
