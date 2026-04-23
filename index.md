@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-23 10:27:38 UTC_
+_Generated on 2026-04-23 10:29:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -192,6 +192,7 @@ _Generated on 2026-04-23 10:27:38 UTC_
         - [`💀_accepting_prison_hunger_deaths_is_damning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/💀_accepting_prison_hunger_deaths_is_damning.md)
         - [`💀_prison_deaths_look_bad_at_the_icj.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/💀_prison_deaths_look_bad_at_the_icj.md)
         - [`📊_risk_capital_and_hunger_strikes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📊_risk_capital_and_hunger_strikes.md)
+        - [`📑_civil_servants_are_simply_systems_engineers_who_prefer_tea_to_coffee.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📑_civil_servants_are_simply_systems_engineers_who_prefer_tea_to_coffee.md)
         - [`📜_duty_to_correct.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_duty_to_correct.md)
         - [`📜_from_survivor_code_to_research_ethics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_from_survivor_code_to_research_ethics.md)
         - [`📜_harm_assessment_protocols.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_harm_assessment_protocols.md)
