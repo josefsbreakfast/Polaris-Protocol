@@ -16,35 +16,35 @@ This node documents the **legal structure and control mechanisms** of Elbit Syst
 
 ---
 
-# 🧭 System Architecture  
+## 🧭 System Architecture  
 
 This document is structured as a **seven-layer system**, moving from verifiable structure → mechanisms → operational embedding → pressure → legal framing → perception → translation.
 
 ---
 
-# 🧱 Layer 1 — Engineering Specification (Hard Facts)
+## 🧱 Layer 1 — Engineering Specification (Hard Facts)
 
-## ⚙️ Structural Specification  
+### ⚙️ Structural Specification  
 
-### Entity Stack  
+#### Entity Stack  
 Elbit Systems Ltd (Israel)  
 ↓ (≥75% ownership + control rights)  
 Elbit Systems UK Limited  
 ↓  
 Subsidiaries + Joint Ventures  
 
-### Control Specification  
+#### Control Specification  
 - ≥75% shares  
 - ≥75% voting rights  
 - right to appoint/remove directors  
 
 → enables full resolution and governance control  
 
-### Subsidiaries  
+#### Subsidiaries  
 - Instro Precision Limited  
 - UAV Engines Limited  
 
-### Joint Ventures  
+#### Joint Ventures  
 
 **UAV Tactical Systems Limited**  
 - Current PSC: Elbit Systems UK  
@@ -57,26 +57,26 @@ Subsidiaries + Joint Ventures
 
 ---
 
-# ⚙️ Layer 2 — Control Mechanisms (How Power Works)
+## ⚙️ Layer 2 — Control Mechanisms (How Power Works)
 
-## 🧠 Control Vectors Beyond Shareholding  
+### 🧠 Control Vectors Beyond Shareholding  
 
-### 1. Board Appointment Rights  
+#### 1. Board Appointment Rights  
 Parent control of director appointments enables strategic alignment  
 
-### 2. Intellectual Property  
+#### 2. Intellectual Property  
 Creates:
 - upgrade dependency  
 - sustainment leverage  
 - exit asymmetry  
 
-### 3. Export Licensing  
+#### 3. Export Licensing  
 - Israeli controls  
 - UK licensing  
 
 → dual regulatory leverage  
 
-### 4. Programme Lock-In  
+#### 4. Programme Lock-In  
 - workforce  
 - doctrine  
 - sustainment  
@@ -85,7 +85,7 @@ Creates:
 
 ---
 
-# 🗺️ Layer 3 — Programme Embedding (Where It Operates)
+## 🗺️ Layer 3 — Programme Embedding (Where It Operates)
 
 ```mermaid
 flowchart TB
@@ -109,7 +109,7 @@ flowchart TB
 
 ---
 
-# 🔥 Layer 4 — Pressure System (How It Is Acted On)
+## 🔥 Layer 4 — Pressure System (How It Is Acted On)
 
 ```mermaid
 flowchart TB
@@ -136,7 +136,7 @@ flowchart TB
     C --> O
 ```
 
-## 🧭 Pressure Translation  
+### 🧭 Pressure Translation  
 
 1. Visibility → issue becomes high-profile  
 2. Risk reframing → reputational / operational risk  
@@ -148,7 +148,7 @@ flowchart TB
 
 ---
 
-# ⚖️ Layer 5 — Legal Framing (How It Is Judged)
+## ⚖️ Layer 5 — Legal Framing (How It Is Judged)
 
 ```mermaid
 flowchart LR
@@ -170,7 +170,7 @@ Key concepts:
 
 ---
 
-# 🧠 Layer 6 — Perception Layer (How It Is Experienced)
+## 🧠 Layer 6 — Perception Layer (How It Is Experienced)
 
 - sympathy driven by perceived proportionality  
 - enforcement optics  
@@ -181,17 +181,17 @@ Key concepts:
 
 ---
 
-# 🧭 Layer 7 — Translation Layer (How It Is Understood)
+## 🧭 Layer 7 — Translation Layer (How It Is Understood)
 
-## Journalists  
+### Journalists  
 - clarifies attribution  
 - highlights programme relevance  
 
-## Policymakers  
+### Policymakers  
 - identifies dependency  
 - explains pressure pathways  
 
-## Distinction  
+### Distinction  
 
 | Legal | Activism |
 |--|--|
@@ -200,7 +200,7 @@ Key concepts:
 
 ---
 
-# 🏛️ Royal Exposure — Analytical Check  
+## 🏛️ Royal Exposure — Analytical Check  
 
 - no direct named holdings identified  
 - no credible York linkage  
@@ -210,7 +210,7 @@ Key concepts:
 
 ---
 
-# 🧩 Analytical Takeaway  
+## 🧩 Analytical Takeaway  
 
 Elbit’s UK position reflects:
 
@@ -220,6 +220,8 @@ Elbit’s UK position reflects:
 - multi-channel pressure  
 
 → structural power, not hidden ownership  
+
+<!--The Kraken has other projects to busy themselves with.-->
 
 ---
 
