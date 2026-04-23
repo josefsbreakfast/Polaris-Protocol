@@ -125,24 +125,36 @@ Creates:
 ## 🗺️ Layer 3 — Programme Embedding (Where It Operates)
 
 ```mermaid
-flowchart TB
-    MOD[UK MOD]
+flowchart LR
+    MOD[UK Ministry of Defence]
 
-    WK[Watchkeeper UAV]
-    TR[Training System]
-    OP[Optics]
-    EN[Engines]
+    WK[Watchkeeper UAV Programme]
+    TR[UK Military Flying Training System]
 
-    UTS[UAV Tactical Systems]
-    AFF[Affinity]
-    INS[Instro]
-    UEL[UAV Engines]
+    UTS[UAV Tactical Systems Limited]
+    AFF[Affinity Flying Training Services Limited]
 
+    INS[Instro Precision Limited]
+    UEL[UAV Engines Limited]
+
+    ESLT[Elbit Systems UK Limited]
+    ESL[Elbit Systems Ltd (Israel)]
+
+    %% Programme to delivery
     MOD --> WK --> UTS
     MOD --> TR --> AFF
-    MOD --> OP --> INS
-    MOD --> EN --> UEL
-```
+
+    %% Subsystem / component flow
+    UTS --> INS
+    UTS --> UEL
+
+    %% Corporate control (rightward consolidation)
+    INS --> ESLT
+    UEL --> ESLT
+    UTS --> ESLT
+    AFF --> ESLT
+
+    ESLT --> ESL
 
 ```
 
