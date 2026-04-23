@@ -292,7 +292,7 @@ and:
 - [Financial Times: "UK under pressure over controversial bidders for MoD training contract"](https://www.ft.com/content/b46d135b-8d83-4f69-b5ba-51ced7cb2edd)  
 - [ The Guardian: "Israeli arms manufacturer closes UK facility targeted by Palestine Action: Elbit Systems UK site in Bristol was subject of protest days before direct action group was proscribed"](https://www.theguardian.com/world/2025/sep/06/israeli-arms-manufacturer-elbit-systems-closes-uk-facility-targeted-by-palestine-action)  
 - [Globes: "Elbit-Thales joint venture U-TacS gets $500m order"](https://en.globes.co.il/en/article-1000023254)  
-- [UK Companies House Listing: Elbit Systems UK Ltd. Company number 05241591.](https://find-and-update.company-information.service.gov.uk/company/05241591)  
+- [UK Companies House Listing: Elbit Systems UK Ltd; company number 05241591](https://find-and-update.company-information.service.gov.uk/company/05241591)  
 - [US Securities and Exchange Commission: Elbit Systems 2024 Annual Report (Form 20-F)](https://www.sec.gov/ix?doc=/Archives/edgar/data/1027664/000162828025013971/eslt-20241231.htm)  
 
 ---
