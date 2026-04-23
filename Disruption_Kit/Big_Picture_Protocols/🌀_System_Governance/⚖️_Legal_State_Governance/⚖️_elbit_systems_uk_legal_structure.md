@@ -289,6 +289,8 @@ and:
 
 *Further reading & media:*  
 
+- [DefenceNews: "Elbit bets on UK as its European drone sales hub"](https://www.defensenews.com/global/europe/2026/01/26/elbit-bets-on-uk-as-its-european-drone-sales-hub/)  
+- [Declassified UK: "How a failed British drone project won millions for Israeli arms firm: Elbit Systems profiting from doomed drone programme which cost UK taxpayer £1.5 billion"](https://www.declassifieduk.org/how-a-failed-british-drone-project-won-millions-for-israeli-arms-firm/)  
 - [Financial Times: "UK under pressure over controversial bidders for MoD training contract"](https://www.ft.com/content/b46d135b-8d83-4f69-b5ba-51ced7cb2edd)  
 - [ The Guardian: "Israeli arms manufacturer closes UK facility targeted by Palestine Action: Elbit Systems UK site in Bristol was subject of protest days before direct action group was proscribed"](https://www.theguardian.com/world/2025/sep/06/israeli-arms-manufacturer-elbit-systems-closes-uk-facility-targeted-by-palestine-action)  
 - [Globes: "Elbit-Thales joint venture U-TacS gets $500m order"](https://en.globes.co.il/en/article-1000023254)  
