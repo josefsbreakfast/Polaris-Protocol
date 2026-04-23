@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-23 20:52:08 UTC_
+_Generated on 2026-04-23 20:57:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1042,7 +1042,7 @@ _Generated on 2026-04-23 20:52:08 UTC_
           - [`💷_potential_tort_exposure.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💷_potential_tort_exposure.md)
           - [`💷_survivor_costing_estimate.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💷_survivor_costing_estimate.md)
           - [`💸_opacity_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💸_opacity_architecture.md)
-          - [`📜_uk_cabinet_conflict_and_opacity_map_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/📜_uk_cabinet_conflict_and_opacity_map_2025.md)
+          - [`📜_uk_cabinet_conflict_and_opacity_map_2026.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/📜_uk_cabinet_conflict_and_opacity_map_2026.md)
           - [`🔮_magical_thinking_as_an_economic_operating_system.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🔮_magical_thinking_as_an_economic_operating_system.md)
           - [`🚀_arms_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🚀_arms_transparency.md)
           - [`🧪_think_tanks_and_their_funding_2010_2016.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🧪_think_tanks_and_their_funding_2010_2016.md)
