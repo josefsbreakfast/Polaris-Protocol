@@ -1,239 +1,198 @@
 # 🌍 Cross-Border Bias Propagation in Surveillance Models  
-**First created:** 2025-11-18 | **Last updated:** 2026-02-22  
-*How racialised behavioural data moves between states, vendors, and security ecosystems, reproducing discriminatory logic across borders.*  
+**First created:** 2025-11-18 | **Last updated:** 2026-04-24  
+*How behavioural data and risk models move between jurisdictions, carrying embedded bias across systems.*  
 
 ---
 
 ## 🛰️ Orientation  
-This node maps the *transnational plumbing* of modern surveillance:
+This node maps how surveillance systems exchange data and logic across borders.
 
-> **Bias does not stay inside one country.  
-It travels through vendors, datasets, procurement chains, and shared technical standards.**
+> **Bias does not remain local. It moves through vendors, datasets, procurement chains, and shared standards.**
 
-As states and corporations exchange:
+States and corporations routinely exchange:
 
-- risk models,  
-- behavioural classifiers,  
-- sentiment engines,  
-- metadata taxonomies,  
-- “extremism” signals,  
-- reputational scoring tools,  
+- risk models  
+- behavioural classifiers  
+- sentiment analysis tools  
+- metadata schemas  
+- “extremism” indicators  
+- reputational scoring systems  
 
-…the **racism baked into one jurisdiction becomes the baseline of another.**
+When these systems move, the assumptions within them move as well.
 
-This creates **cross-border propagation loops**, where:
-
-- Western Islamophobia becomes Israeli calibration,  
-- Israeli counterinsurgency logic becomes Western “public safety,”  
-- US policing data becomes European risk-model architecture,  
-- Five Eyes metadata conventions become global de facto norms.
-
-Bias travels.  
-Bias mutates.  
-Bias becomes infrastructure.
+The result is not a single, fixed bias, but a **circulating baseline** reused across jurisdictions.
 
 ---
 
 ## 🧩 Mechanisms of Propagation  
 
 ### 1. **Vendor-Mediated Transfer**  
-Large surveillance vendors operate in:
+Large vendors operate across multiple security environments (policing, counterterrorism, border control, and military systems).
 
-- US policing,  
-- UK counterterrorism,  
-- EU border enforcement,  
-- Israeli military tech,  
-- Gulf-state cyber-security.
+Models are:
 
-A model trained in Chicago is sold in London,  
-refined in Tel Aviv,  
-packaged for Canberra,  
-embedded in Dublin’s cloud stack.
+- trained in one context,  
+- adapted in another,  
+- and deployed elsewhere.  
 
-**Bias becomes a product SKU.**
-
-### 2. **Metadata Schema Lock-In**  
-If one dominant vendor defines:
-
-- “risk,”  
-- “instability,”  
-- “deviance,”  
-- “foreign influence,”  
-- “extremism,”
-
-…then every adopting institution inherits those racial logics.
-
-Changing the schema becomes technically expensive →  
-so nobody changes it.
-
-### 3. **Shared Academic Pipelines**  
-University labs, research centres, and consultancy arms collaborate across borders:
-
-- behavioural science departments,  
-- counter-extremism research units,  
-- affective-computing groups,  
-- OSINT labs.
-
-If a flawed classification paper becomes “canonical,”  
-its errors ripple into multiple nations’ software.
-
-### 4. **Diaspora Data as a Seam of Influence**  
-Diaspora communities are present across the same states that share surveillance tech.
-
-So biases toward:
-
-- Muslims,  
-- Arabs,  
-- Black communities,  
-- Jewish dissenters,  
-- migrant populations,
-
-…are *coordinated* by the movement of both **people** and **data**.
+This creates continuity of assumptions across otherwise distinct systems.
 
 ---
 
-## 🔥 Why This Matters for Apartheid/Colonial Systems  
-When Israel imports Western data:
+### 2. **Metadata Schema Lock-In**  
+Core categories—such as “risk,” “instability,” or “extremism”—are often defined upstream.
 
-- Islamophobia is reified as “risk,”  
-- Palestinian-coded behaviour is shaped by external corpora,  
-- diaspora Jewish dissent becomes an “anomaly,”  
-- Western anti-immigrant sentiment informs checkpoint logic.
+Once embedded in widely used systems:
 
-When the West imports Israeli tech:
+- institutions inherit these definitions,  
+- changing them becomes costly,  
+- and alternative interpretations are rarely implemented.  
 
-- occupation-era logic is laundered into “public-safety algorithms,”  
-- counterinsurgency architecture becomes “urban threat detection,”  
-- profiling becomes “community risk assessment.”
+Bias persists through **technical inertia**, not just intent.
 
-This is the **post-colonial data loop**.
+---
 
-Each system reinforces the other.
+### 3. **Shared Research Pipelines**  
+Academic and consultancy networks contribute to model design across borders.
+
+Common inputs include:
+
+- behavioural science research  
+- counter-extremism frameworks  
+- affective computing models  
+- OSINT methodologies  
+
+When flawed assumptions become widely cited, they propagate into multiple operational systems.
+
+---
+
+### 4. **Diaspora Data Overlap**  
+Populations monitored across jurisdictions (e.g. diaspora communities) appear in multiple datasets.
+
+This creates:
+
+- repeated classification across systems,  
+- reinforcement of prior labels,  
+- and cross-context consistency that may not reflect local reality.  
+
+---
+
+## 🔄 System Interaction Effects  
+
+Cross-border exchange creates feedback between systems.
+
+- Data produced in one context influences model behaviour in another.  
+- Imported tools reshape local classification practices.  
+- Outputs are then reabsorbed into shared pipelines.  
+
+This produces **reinforcing loops**, even where systems are formally independent.
+
+---
+
+## 📊 Case Example: Observed Effects (2024–2025)  
+
+During 2024–2025, there were observable shifts in how certain risk classifications and behavioural signals appeared across jurisdictions.
+
+These included:
+
+- increased consistency in how specific communities were flagged across different national systems,  
+- convergence in “extremism” or “risk” labelling language,  
+- similar edge-case misclassifications appearing in otherwise distinct deployments.  
+
+These patterns are **consistent with cross-border model reuse and shared data pipelines**, as described above.
+
+However:
+
+- direct causation is difficult to establish,  
+- multiple systems operate simultaneously,  
+- and access to underlying training data and calibration processes is limited.  
+
+This section should therefore be read as a **pattern observation**, not a definitive attribution.
 
 ---
 
 ## 📉 Points of Structural Failure  
 
-### **A. Calibration Drift**  
-If one node in the network reforms its data ethics  
-(e.g., UK tightening Prevent definitions),  
-the others experience **model distortion**.
+### A. **Calibration Drift**  
+Changes in one jurisdiction (e.g. revised definitions or safeguards) can reduce compatibility with shared systems.
 
-### **B. Divergent Racial Hierarchies**  
-If Australian racism ≠ UK racism ≠ US racism,  
-and the system treats them as interchangeable,  
-you get **misclassification spikes**.
+---
 
-### **C. Local Context Gets Overwritten**  
-Imported models override local nuance:
+### B. **Context Mismatch**  
+Models trained in one social context may misclassify behaviour in another.
 
-- differences in naming conventions,  
-- religious practice,  
-- cultural gestures,  
-- political vocabulary.
+Differences in:
 
-Everything becomes flattened to a single, racialised meta-model.
+- language  
+- cultural practice  
+- political context  
 
-### **D. Survivor & Minority Outliers Break Everything**  
-A single survivor-coded dissenter (Jewish, Muslim, migrant, queer, etc.)  
-can trigger:
+are often flattened.
 
-- “identity mismatch errors,”  
-- “stance contradiction flags,”  
-- “risk vector inversion.”
+---
 
-This is not personal.  
-It is **the system unable to reconcile transnational bias inheritance**.
+### C. **Schema Overreach**  
+Broad classification frameworks can override local nuance, leading to overgeneralisation.
+
+---
+
+### D. **Edge Case Instability**  
+Individuals or groups that do not align with expected patterns (e.g. cross-identity or dissenting positions) can produce inconsistent outputs across systems.
 
 ---
 
 ## 🧠 Key Insight  
-> **Bias is not a static defect.  
-It is a transnational supply chain.**
+> **Bias in surveillance systems functions less as a local defect and more as a distributed dependency.**
 
-If one jurisdiction keeps racism in place,  
-others gain “stable data.”  
-If one jurisdiction reforms racism,  
-others lose model stability.
+Stability across systems often depends on maintaining consistent assumptions.
 
-This is the architecture of **globalised apartheid logic**.  
+Changing those assumptions in one place can introduce friction elsewhere.
 
 ---
 
-## 👑 Ownership Vacuum in Transnational Bias  
+## 👑 Ownership and Accountability  
 
-The hardest question in cross-border bias propagation is not technical.  
-It is custodial.
+Responsibility for bias is distributed across:
 
-When a surveillance model:
+- vendors (system design),  
+- states (deployment and calibration),  
+- researchers (model inputs),  
+- alliances (standards and interoperability).  
 
-- is trained in one jurisdiction,
-- sold by a multinational vendor,
-- refined through joint research,
-- deployed by another state,
-- and calibrated through shared intelligence standards,
+This creates a **custodial gap**:
 
-…who owns the bias?
+- no single actor fully owns the outcome,  
+- responsibility is fragmented across the chain,  
+- and incentives to change are uneven.  
 
-No single actor does.
+As a result:
 
-- Vendors claim neutrality: “We supply tools.”
-- States claim sovereignty: “We calibrate locally.”
-- Researchers claim abstraction: “We publish models.”
-- Intelligence alliances claim necessity: “We share standards.”
-
-Bias becomes:
-
-- collectively produced,
-- operationally embedded,
-- legally diffused.
-
-This creates a **custody gap**.
-
-If harm emerges, responsibility fragments along procurement chains.  
-If reform occurs in one node, stability pressures resist change elsewhere.  
-
-Bias persists not because it is invisible —  
-but because it is jointly inherited.
-
-In this environment:
-
-- reform becomes unilateral risk,
-- silence becomes equilibrium,
-- and structural racism becomes technically path-dependent.
-
-Without explicit transnational accountability architecture,  
-cross-border bias has no sovereign owner.
-
-And what has no owner rarely gets dismantled.
+- reform in one node can carry operational risk,  
+- maintaining the status quo can appear safer,  
+- and embedded bias can persist through coordination rather than oversight.
 
 ---
 
 ## 🌌 Constellations  
-
-🌍 👑 🧬 ⚖️ 🕸️  
+🌍 👑 🧬 ⚖️ 🕸️ — transnational systems mapping; governance + accountability gaps  
 
 ---
 
 ## ✨ Stardust  
-
-cross-border bias propagation, surveillance supply chains, metadata schema lock-in, vendor-mediated transfer, alliance intelligence standards, diaspora misclassification, transnational liability gaps, racial calibration drift, procurement dependency, shared exposure equilibrium
+cross-border bias, surveillance systems, data propagation, metadata schemas, vendor ecosystems, model transfer, diaspora classification, calibration drift, accountability gaps  
 
 ---
 
 ## 🏮 Footer  
-*🌍 Cross-Border Bias Propagation in Surveillance Models* pairs with *🌍 Israel–Five Eyes Structural Interdependency* and *🌍 Apartheid Algorithm Dependency Theory.*  
-Together, they map the **cross-border circulation of racialised data**, the fragility of imported security tools, and the systemic vulnerabilities created when injustice becomes a technical requirement for model stability.  
+*🌍 Cross-Border Bias Propagation in Surveillance Models* is a living node of the **Polaris Protocol**.  
+It maps how bias persists through system interoperability, shared standards, and distributed responsibility across jurisdictions.  
 
 > 📡 Cross-references:
 > 
 > - [🌍 Israel–Five Eyes Structural Interdependency](../💫_Containment_Logic/🌍_israel_five_eyes_structural_interdependency.md)  
 > - [🌍 Apartheid Algorithm Dependency Theory](../../🦕_Elder_Influencers/🕸️_World_Webs/🌍_apartheid_algorithm_dependency_theory.md)  
-> - [🦁 We Are Citizens, Not Datasets](../💫_Containment_Logic/🦁_we_are_citizens_not_datasets.md)  
 > - [🧬 Metadata-Driven Racism](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_metadata_driven_racism.md)  
-> - [🧿 UK Persuasion Engine on Palestine](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧿_uk_persuasion_engine_on_palestine.md)  
-> - [🐍 PREVENT as a Self-Eating Snake (Early Detection Drift)](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🐍_prevent_as_a_self_eating_snake.md)  
-> - [🧬 Proto-Secret-Police Architecture](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_proto_secret_police_architecture.md)  
-> - [🧠 Early Secret Police Architecture](../⚖️_Legal_State_Governance/🧠_early_secret_police_architecture.md)  
 
-_Last updated: 2026-02-22_
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-04-24_
