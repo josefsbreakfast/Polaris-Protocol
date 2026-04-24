@@ -114,6 +114,8 @@ Factors that may influence approach include:
 ## 🌌 Constellations  
 ⚖️ 🧪 🔍 🔐 — governance response; oversight structures; decision pathways  
 
+> 🔗 Supporting node: [⚖️ Fixivist vs Chain-of-Command](../../../Containment_Scripts/Suppression_Modes/⚖️_fixivist_chain_of_command.md) — outlines how these pathways can behave in practice under pressure, including patterns of opacity, delay, and containment.
+
 ---
 
 ## ✨ Stardust  
