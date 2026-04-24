@@ -92,6 +92,8 @@ bureaucracy, delay, administrative process, governance culture, procedural timel
 *☕ Administrative Necromancy — How British Bureaucracy Waits Problems to Death* is a reflective node within the **Polaris Protocol**.  
 It captures a recurring pattern in administrative systems where time, rather than decision, shapes outcomes.  
 
+*Filed under: observational satire (with uncomfortable levels of recognition).*
+
 > 📡 Cross-references:
 > 
 > - [🧨 Procedural Wait Your Turn](../../../Containment_Scripts/Counter_Nudges/🧨_procedural_wait_your_turn.md)  
