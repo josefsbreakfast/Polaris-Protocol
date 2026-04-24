@@ -2,7 +2,7 @@
 **First created:** 2026-04-24 | **Last updated:** 2026-04-24  
 *Why recent US signalling is difficult to interpret from a UK perspective.*  
 *Tldr: we are extremely confused about what you are doing and why.*
-
+<!--I am /extremely/ close to putting reels of lyrics from Hamilton in this. Upon a serious note, this is just a little bit confusing in terms of signalling, to us. It's a bit unclear what the point is supposed to be.-->
 ---
 
 ## 🛰️ Orientation  
