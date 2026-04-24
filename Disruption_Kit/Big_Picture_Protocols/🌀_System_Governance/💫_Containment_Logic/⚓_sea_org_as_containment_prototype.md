@@ -6,7 +6,7 @@
 
 ## 🛰️ Orientation  
 
-This node examines the Sea Organization (“Sea Org”), associated with :contentReference[oaicite:0]{index=0}, as a case study in **high-control organisational environments**.
+This node examines the Sea Organization (“Sea Org”), associated with Scientology, as a case study in **high-control organisational environments**.
 
 > **Structures that appear mobile or voluntary can, in practice, become highly restrictive depending on how they are implemented.**
 
