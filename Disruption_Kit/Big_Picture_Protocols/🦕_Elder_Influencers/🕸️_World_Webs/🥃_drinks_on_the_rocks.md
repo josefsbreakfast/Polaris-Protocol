@@ -217,8 +217,7 @@ It examines how signalling between close allies can produce unintended friction 
 
 > 📡 Cross-references:
 > 
-> - Big_Picture_Protocols/ — *analysis of alliance behaviour and signalling systems*  
-> - 🧭_why_the_uk_is_in_the_falklands.md — *foundational context for sovereignty and sensitivity*  
+> - [🇬🇧 Why the UK Is in the Falklands](./🇬🇧_why_the_uk_is_in_the_falklands.md) — *foundational context for sovereignty and sensitivity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
