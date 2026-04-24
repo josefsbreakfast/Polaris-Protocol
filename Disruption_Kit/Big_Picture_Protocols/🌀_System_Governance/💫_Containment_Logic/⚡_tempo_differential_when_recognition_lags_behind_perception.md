@@ -1,58 +1,90 @@
 # ⚡ Tempo Differential — When Recognition Lags Behind Perception  
-**First created:** 2025-10-23 | **Last updated:** 2025-12-29  
-*Different speeds of healing and cognition.*  
+**First created:** 2025-10-23 | **Last updated:** 2026-04-24  
+*How differences in processing speed shape perception, response, and recovery.*  
 
 ---
 
 ## 🛰️ Orientation  
-Explores relational and institutional mismatch when one party perceives faster than others.  
-Some process harm in real time; others require years.  
-Tempo Differential maps the friction between fast-seeing and slow-healing worlds.
+This node explores **tempo mismatch** in relational and institutional settings.  
+
+Different actors process harm, information, and risk at different speeds.  
+Some perceive patterns quickly and respond in real time; others require extended timeframes for validation, interpretation, or action.  
+
+**Tempo Differential** describes the friction that emerges when these speeds do not align.
 
 ---
 
 ## 🔥 Perceptual Velocity  
-Survivors trained by risk learn to think at survival speed — scanning, predicting, pattern-matching.  
-Institutions trained by denial think at bureaucratic tempo — delay as stability.  
-Their clocks are incompatible.
+In some contexts, individuals exposed to repeated risk develop faster pattern-recognition and anticipatory processing.  
+
+Institutions, by contrast, often operate through:
+
+- staged validation processes,  
+- procedural checks,  
+- and deliberate pacing.  
+
+This can create a mismatch where:
+
+- one party experiences urgency,  
+- while another experiences the need for verification.  
+
+The result is not necessarily disagreement on substance,  
+but **misalignment in timing**.
 
 ---
 
 ## 💸 Synchronisation Costs  
-The fast seer must decelerate to be understood; the slow learner must accelerate to catch up.  
-Both expend energy that could have gone to restoration.
+Bridging this gap carries costs for both sides:
+
+- Faster processors may need to slow down to remain legible within formal systems  
+- Slower processes may need to accelerate to prevent loss of trust or harm escalation  
+
+This creates:
+
+- cognitive load,  
+- emotional strain,  
+- and inefficiency in response  
+
+Resources are spent on **alignment**, rather than resolution.
 
 ---
 
 ## 🐦‍🔥 Re-Timing Practices  
-- Acknowledge clock drift explicitly.  
-- Schedule pauses; clarity requires pacing.  
-- Practise asynchronous care — written over spoken, reflection over reaction.  
+Where tempo mismatch is recognised, mitigation strategies may include:
 
-Healing happens in mixed tempo.
+- explicitly acknowledging differences in processing speed  
+- using asynchronous communication (e.g. written formats)  
+- pacing decision-making while maintaining momentum  
+- separating urgency signals from evidentiary thresholds  
+
+Effective handling often requires:
+
+> **coordinating tempo, not forcing uniform speed.**
 
 ---
 
 ## 🌌 Constellations  
-⚡ 🫀 🧠 🪞 — maps the tension between speed, emotion, and cognition within the 🌀 System Governance / 💫 Containment Logic constellation.
+
+⚡ 🫀 🧠 🪞 — speed, emotion, cognition, perception  
 
 ---
 
 ## ✨ Stardust  
-tempo differential, perception, healing speed, cognition, empathy, timing, institutional lag, survivor strategy
+
+tempo differential, processing speed, perception gap, institutional timing, cognitive load, synchronisation, response mismatch  
 
 ---
 
 ## 🏮 Footer  
 
 *⚡ Tempo Differential — When Recognition Lags Behind Perception* is a living node of the Polaris Protocol.  
-It analyses the mismatch of institutional and survivor tempos, outlining how awareness, empathy, and governance must adjust across unequal speeds.  
+It examines how differences in processing speed affect understanding, response, and trust across individuals and institutions.  
 
 > 📡 Cross-references:
 > 
-> - [💫 Containment Logic Index](./README.md) — *analyses of delay, pacing, and bureaucratic tempo*  
-> - [⚡ Escalation Triggers — When HR Fails and Oversight Must Act](./⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md) — *threshold mechanics in procedural response*  
+> - [💫 Containment Logic Index](./README.md)  
+> - [⚡ Escalation Triggers — When HR Fails and Oversight Must Act](./⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-04-24_
