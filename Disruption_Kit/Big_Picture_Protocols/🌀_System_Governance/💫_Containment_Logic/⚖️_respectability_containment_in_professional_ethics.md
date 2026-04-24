@@ -138,9 +138,8 @@ professional ethics, respectability, institutional culture, dissent, tone, credi
 
 ## 🏮 Footer  
 
-*⚖️ Respectability Containment in Professional Ethics* examines how expectations of professionalism interact with dissent, and how ethical frameworks can shape what is heard within institutions.
-
-> **When tone becomes the threshold, substance can become secondary.**
+*⚖️ Respectability Containment in Professional Ethics* examines how expectations of professionalism interact with dissent, and how ethical frameworks can shape what is heard within institutions.  
+When tone becomes the threshold, substance can become secondary.  
 
 > 📡 Cross-references:
 > 
