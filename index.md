@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-24 18:33:21 UTC_
+_Generated on 2026-04-24 19:38:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1144,6 +1144,7 @@ _Generated on 2026-04-24 18:33:21 UTC_
         - [`🇩🇪_you_cant_soothe_germany_twice.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇩🇪_you_cant_soothe_germany_twice.md)
         - [`🇬🇧_britain_as_global_butler.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_britain_as_global_butler.md)
         - [`🇬🇧_britain_is_queenless_now.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_britain_is_queenless_now.md)
+        - [`🇬🇧_why_the_uk_is_in_the_falklands.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_why_the_uk_is_in_the_falklands.md)
         - [`🇮🇱_zionism_is_racism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇮🇱_zionism_is_racism.md)
         - [`🇷🇺_the_end_of_russias_camp_era.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)
         - [`🌍_apartheid_algorithm_dependency_theory.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌍_apartheid_algorithm_dependency_theory.md)
