@@ -131,6 +131,8 @@ but to recognise when:
 ## 🌌 Constellations  
 ⚖️ 🔐 🧠 🕳️ — containment patterns; organisational behaviour; suppression modes  
 
+> 🔗 Supporting node: [⚖️ Operational Dilemma: Fix It vs Chain of Command](../../Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_operational_dilemma_fixit_vs_chain_of_command.md) — provides the formal governance pathways and trade-offs that underpin these behavioural patterns.
+
 ---
 
 ## ✨ Stardust  
