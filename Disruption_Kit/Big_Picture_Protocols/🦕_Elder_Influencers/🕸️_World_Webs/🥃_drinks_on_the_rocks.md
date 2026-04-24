@@ -18,7 +18,7 @@ Instead, it focuses on:
 
 ---
 
-## ⚖️ The Signal  
+## 📻 The Signal  
 
 A recent US signal referencing the Falkland Islands has introduced uncertainty into an otherwise stable area of UK–US alignment.
 
@@ -26,7 +26,7 @@ The signal itself is less important than how it is interpreted.
 
 ---
 
-## 🎯 Core Question  
+## 🧨 Core Question  
 
 > What outcome is this signal designed to produce?
 
@@ -48,7 +48,7 @@ This creates a central problem:
 
 ---
 
-## 🧠 Why This Feels Off in the UK  
+## 🇬🇧 Why This Feels Off in the UK  
 
 ### 1. Domain mismatch  
 The Falklands sit within a category of:
@@ -99,7 +99,7 @@ In this case, the perceived gap between expectation and delivery creates uncerta
 
 ---
 
-## 🔄 Not Everything Is About the UK  
+## 🍷 Not Everything Is About the UK  
 
 It is important to recognise:
 
@@ -128,7 +128,7 @@ It reflects how states assess:
 
 ---
 
-## 🧠 Decision-Making Reality  
+## 📑 Decision-Making Reality  
 
 Having advisory systems doesn’t guarantee good outcomes.  
 Decisions can still be shaped by incomplete assumptions, competing priorities, or misread constraints.  
@@ -137,7 +137,7 @@ When a signal predictably generates resistance rather than cooperation, it sugge
 
 ---
 
-## 🔍 Strategic Uncertainty  
+## 🌀 Strategic Uncertainty  
 
 The signal raises a question:
 
@@ -170,7 +170,29 @@ Rather than strengthening alignment, the signal risks constraining it.
 
 ---
 
-## 🧠 Bottom Line  
+## 🌋 Meta Reflection — Threshold Awareness  
+
+Across multiple recent signals, there is a growing awareness of where boundaries sit.
+
+This is not a claim that any one actor is deliberately testing those boundaries.
+
+However, when several issues intersect—particularly around sovereignty, defence, and alliance commitments—it can create a sense that:
+
+> the conditions under which states would escalate are being more actively considered.
+
+From a UK perspective, this does not necessarily indicate an increased likelihood of conflict.
+
+But it does reflect a shift in attention toward:
+
+- deterrence thresholds  
+- credibility commitments  
+- and the limits of alliance flexibility  
+
+This kind of reflection is often a by-product of uncertainty rather than a signal of intent.  
+
+---
+
+## ☕️ Bottom Line  
 
 - The UK reaction is structurally predictable  
 - The strategic benefit to the US is not clearly visible  
