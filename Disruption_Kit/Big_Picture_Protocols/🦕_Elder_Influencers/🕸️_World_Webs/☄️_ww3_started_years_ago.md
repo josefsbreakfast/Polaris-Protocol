@@ -1,5 +1,5 @@
 # ☄️ "WW3" Started Years Ago  
-**First created:** 2025-10-03 | **Last updated:** 2026-04-09  
+**First created:** 2025-10-03 | **Last updated:** 2026-04-24  
 *An exploration of the argument that a third world war may already be underway, but mis-recognised.*  
 
 ---
@@ -60,4 +60,4 @@ It examines a contested analytical frame in which contemporary conflicts are int
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-09_
+_Last updated: 2026-04-24_
