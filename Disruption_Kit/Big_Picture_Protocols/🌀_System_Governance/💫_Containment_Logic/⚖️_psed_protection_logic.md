@@ -191,7 +191,7 @@ PSED shapes how decisions are justified — not which decisions must be made.
 
 > 📡 Cross-references:
 > 
-> - []()  
+> - [⚖️ Containment & Cut-Through in the Legal Profession](./⚖️_containment_and_cutthrough_in_the_legal_profession.md)  
 > - []()  
 > - []()  
 
