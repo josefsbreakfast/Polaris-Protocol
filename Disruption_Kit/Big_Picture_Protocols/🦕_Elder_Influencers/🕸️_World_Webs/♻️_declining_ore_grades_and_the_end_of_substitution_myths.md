@@ -1,6 +1,6 @@
 # ♻️ Declining Ore Grades & The End Of Substitution Myths  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-16  
-*Why material depletion makes “just substitute it” economics mathematically and physically untenable.*  
+**First created:** 2025-12-14 | **Last updated:** 2026-04-24  
+*Why material depletion constrains substitution and challenges “just substitute it” economic assumptions.*  
 
 ---
 
@@ -9,7 +9,7 @@
 This node addresses a quiet but decisive failure point in modern economic reasoning:  
 **the assumption that depleted resources can always be substituted, priced around, or innovated away.**
 
-In reality, extraction follows physical laws, not market narratives.  
+Extraction is governed by physical laws, even when market narratives attempt to abstract them.  
 As easily accessible deposits are exhausted, what remains is:
 - harder to reach  
 - lower in concentration  
@@ -18,17 +18,17 @@ As easily accessible deposits are exhausted, what remains is:
 - more geopolitically entangled  
 
 Declining ore grades are not a market anomaly.  
-They are the expected behaviour of a finite planet under sustained extraction pressure.
+They are the expected behaviour of a finite planet under sustained extraction pressure, widely documented across multiple mining sectors.
 
 ---
 
 ## ✨ Key Features  
 
 - Explains what declining ore grades are and why they matter  
-- Shows why price signals do not solve physical depletion  
-- Breaks down the “substitution myth” in resource economics  
+- Shows why price signals do not fully resolve physical depletion  
+- Breaks down the limits of substitution in resource economics  
 - Connects mining reality to energy, ecology, and geopolitics  
-- Grounds degrowth arguments in extractive physics, not ideology  
+- Grounds degrowth arguments in extractive physics rather than ideology  
 
 ---
 
@@ -48,7 +48,7 @@ Over time:
 - extraction requires more digging, crushing, and processing  
 
 This is not inefficiency.  
-It is **inevitable depletion dynamics**.
+It is **a typical depletion dynamic observed across extractive systems**.
 
 The same pattern appears across:
 - gold  
@@ -68,32 +68,32 @@ Lower ore grades require:
 - more waste rock  
 - larger tailings piles  
 
-At a certain point, extraction becomes:
+At a certain point, extraction can become:
 - economically marginal  
-- energetically irrational  
-- environmentally catastrophic  
+- energetically or systemically irrational under realistic constraints  
+- environmentally severe in impact  
 
-Prices may rise, but rising prices do not create new high-grade deposits.
-
-They only justify **more damage for less return**.
+Prices may rise, but rising prices do not create new high-grade deposits.  
+They may make lower-quality deposits viable, but often at increased ecological and energetic cost.
 
 ---
 
-### 3. Why substitution fails in practice  
+### 3. Why substitution is constrained in practice  
 
 Economic theory often assumes:
 - materials are interchangeable  
 - functions can be reallocated  
 - scarcity triggers innovation  
 
-But in material systems:
-- copper’s conductivity is not arbitrary  
-- lithium’s electrochemical properties are specific  
-- helium’s inert cryogenic behaviour is irreplaceable  
-- phosphorus has no substitute in biology  
+In practice, substitution is often partial, context-dependent, and constrained by physical properties.  
 
-Substitution works for abstractions.  
-It fails for elements with unique physical properties.
+- copper’s conductivity is difficult to replicate without trade-offs  
+- lithium’s electrochemical properties are highly specific  
+- helium’s inert cryogenic behaviour has no direct substitute  
+- phosphorus has no substitute in biological systems  
+
+Substitution works in some domains.  
+In critical material systems, it can be limited or fail entirely.
 
 ---
 
@@ -103,13 +103,14 @@ Technological advances can:
 - improve efficiency  
 - reduce waste  
 - extend deposit lifetimes  
+- increase recovery efficiency  
 
 They cannot:
 - reverse depletion  
-- improve ore concentration  
-- regenerate exhausted geology  
+- increase underlying geological concentration  
+- regenerate exhausted mineral deposits  
 
-Technology changes *how* we extract, not *what exists*.
+Technology changes *how* resources are extracted and used, not *what physically exists*.
 
 Treating innovation as a replenishment mechanism confuses optimisation with creation.
 
@@ -121,57 +122,57 @@ Markets respond to price.
 The planet responds to mass, energy, and chemistry.
 
 When depletion accelerates:
-- markets see opportunity  
-- physics sees limits  
+- markets may interpret scarcity as opportunity  
+- physical systems reflect increasing constraint  
 
-This mismatch leads to:
+This mismatch can contribute to:
 - overinvestment in extractive frontiers  
-- geopolitical conflict over remaining resources  
-- ecological overshoot  
-- false confidence in substitution  
+- geopolitical competition over remaining resources  
+- ecological strain  
+- overconfidence in substitution pathways  
 
-By the time markets react meaningfully, the physical damage is already done.
+By the time market signals fully reflect physical limits, significant environmental and structural impacts may already be in motion.
 
 ---
 
 ### 6. Degrowth as depletion-aware economics  
 
-Degrowth emerges here as **material realism**, not moralism.
+Degrowth can be interpreted here as a form of **material realism**, rather than purely ideological positioning.
 
 It acknowledges that:
-- extraction curves bend downward  
+- extraction curves tend to decline over time  
 - substitution has limits  
-- energy return on investment declines  
+- energy return on investment can decrease  
 - ecological costs compound  
 
-Planning for reduced throughput is not pessimism.  
-It is adaptation to extractive reality.
+Planning for reduced material throughput is not necessarily pessimism.  
+It can be understood as adaptation to extractive and planetary constraints.
 
 ---
 
 ## 🌌 Constellations  
 
-♻️ 🪨 🔋 ⚖️ 🌍 — resource cycles, geology, energy cost, governance, planetary limits.
+♻️ 🪨 🔋 ⚖️ 🌍 — resource cycles, geology, energy cost, governance, planetary limits.  
 
 ---
 
 ## ✨ Stardust  
 
-declining ore grades, resource depletion, substitution myth, mining economics, material limits, degrowth theory, extraction costs, finite resources
+declining ore grades, resource depletion, substitution limits, mining economics, material constraints, degrowth theory, extraction costs, finite resources  
 
 ---
 
 ## 🏮 Footer  
 
 *♻️ Declining Ore Grades & The End Of Substitution Myths* is a structural analysis node of the **Polaris Protocol**.  
-It grounds economic debate in the physical realities of extraction, showing why substitution narratives collapse under material scrutiny.
+It examines how physical depletion constrains economic assumptions, particularly the expectation that substitution and innovation can fully offset material limits.
 
 > 📡 Cross-references:
 > 
-> - [🧬 Irreversible Limits: When Physics Refuses Economic Fantasy](../../🌀_System_Governance/⚖️_Legal_State_Governance/🧬_irreversible_limits.md) - *sometimes physics says, "no"*  
-> - [🦕 Geological Timescale Economics](../../🌀_System_Governance/🧪_Development_Experimentation/🦕_geological_timescale_economics_make_new_dinosaurs.md) - *make us some new dinosaurs, thanks*  
-> - [🌍 When Virtual Minds Govern A Physical Planet](./🌍_when_virtual_minds_govern_a_physical_planet.md) - *why billionaire brain does not compute*  
+> - [🧬 Irreversible Limits: When Physics Refuses Economic Fantasy](../../🌀_System_Governance/⚖️_Legal_State_Governance/🧬_irreversible_limits.md) — *boundary conditions where substitution fails*  
+> - [🦕 Geological Timescale Economics](../../🌀_System_Governance/🧪_Development_Experimentation/🦕_geological_timescale_economics_make_new_dinosaurs.md) — *timescale mismatch between extraction and formation*  
+> - [🌍 When Virtual Minds Govern A Physical Planet](./🌍_when_virtual_minds_govern_a_physical_planet.md) — *decision systems vs material constraints*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-16_
+_Last updated: 2026-04-24_
