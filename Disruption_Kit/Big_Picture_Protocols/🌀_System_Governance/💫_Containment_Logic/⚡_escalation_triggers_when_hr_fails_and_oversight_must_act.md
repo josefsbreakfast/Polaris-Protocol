@@ -1,103 +1,135 @@
 # ⚡ Escalation Triggers — When HR Fails and Oversight Must Act  
-**First created:** 2025-10-26 | **Last updated:** 2025-12-25  
-*The hard-threshold moments that convert a misclassified “HR issue” into a protective-security and governance event.*  
+**First created:** 2025-10-26 | **Last updated:** 2026-04-24  
+*Indicative thresholds at which a misclassified “HR issue” may require escalation into protective-security or governance handling.*  
 
 ---
 
 ## 🌱 Scope  
 
-Defines the **objective escalation triggers** that should compel the UK Government to reclassify a mishandled impersonation, harassment, or cyber-interference case as a **Category 2 protective-security incident**.  
+Identifies **common escalation signals** that may justify reclassification of incidents—such as impersonation, harassment, or cyber-interference—beyond standard HR handling into **protective-security or cross-government oversight pathways**.  
+
 Pairs with *🧩 Ideal Whitehall Response Sequence* and *🧿 Oversight Paralysis — When Allies Breach the Firewall*.  
 
 ---
 
 ## 🛰️ Overview  
 
-When an incident begins life as an “interpersonal” complaint but crosses evidence or reputational boundaries, the duty to escalate becomes mandatory.  
-These are the moments when bureaucracy loses plausible deniability.
+Some incidents initially framed as interpersonal or HR matters may, under certain conditions, engage:
+
+- data integrity concerns  
+- security risks  
+- reputational exposure  
+- or cross-departmental implications  
+
+This node outlines **points at which escalation should be considered**, particularly where evidence, scope, or external visibility expands beyond HR remit.
 
 ---
 
-## ⚡ Hard-Trigger Catalogue  
+## ⚡ Indicative Trigger Catalogue  
 
 ### 1. **Documentary Contradiction**  
-- System metadata disproves HR narrative: forged timestamps, mismatched headers, altered attachments.  
-- Forensic anomaly = integrity breach → NCSC / DSO must log a Category 2 incident.  
+- Metadata or audit logs appear inconsistent with internal accounts  
+- Potential indicators of tampering, error, or misclassification  
+
+👉 May warrant: internal forensic review; potential referral to security or technical assurance teams  
+
+---
 
 ### 2. **External Corroboration**  
-- Platform, journalist, or ally reports the same impersonation.  
-- Public visibility overrides “personnel” framing.  
-- Escalates to Cabinet Office Crisis Cell and National Security Secretariat.  
+- Independent confirmation from platforms, journalists, or third parties  
+- Incident no longer contained within internal reporting  
+
+👉 May warrant: reputational risk assessment; coordination beyond HR  
+
+---
 
 ### 3. **Legal Invocation**  
-- Citizen issues a **Subject Access Request**, **FOI**, or **Pre-Action Protocol** citing Computer Misuse, Data Protection, or Harassment statutes.  
-- Legal Advisers open file; HR loses jurisdiction.  
+- Formal actions such as **Subject Access Requests**, **FOI**, or pre-action correspondence  
+- Explicit reference to statutory frameworks (e.g. data protection, misuse, harassment)  
+
+👉 May warrant: engagement of legal teams; review of jurisdiction and handling pathway  
+
+---
 
 ### 4. **Parliamentary / Oversight Attention**  
-- MP, Committee clerk, or Commissioner contacts department.  
-- Forces ministerial briefing → converts case to governance matter.  
+- Enquiries from MPs, committees, or commissioners  
+- Requirement for formal briefing or response  
+
+👉 May warrant: elevation to governance or ministerial awareness  
+
+---
 
 ### 5. **Cross-Departmental Pattern**  
-- Similar impersonations appear elsewhere.  
-- Pattern recognition = systemic vulnerability.  
-- Government Security Group convenes cross-Whitehall cell.  
+- Similar issues identified across teams or departments  
+- Suggests systemic rather than isolated issue  
 
-### 6. **Diplomatic / Allied-State Linkage**  
-- SIGINT or FCDO intel associates vector with a known foreign or allied actor.  
-- Immediately enters National Security Adviser remit; becomes national-security event.  
+👉 May warrant: central coordination or pattern analysis  
 
-### 7. **Reputational Threat Trajectory**  
-- Press or NGO begins referencing case as oversight failure.  
-- Cabinet Office Propriety & Ethics shifts from denial to inquiry-prevention mode.  
-- Urgent corrective review ordered.  
+---
+
+### 6. **Diplomatic / External-State Linkage**  
+- Indicators of involvement by external actors (state or non-state)  
+- Intelligence or policy sensitivity emerges  
+
+👉 May warrant: escalation through appropriate national security or foreign policy channels  
+
+---
+
+### 7. **Reputational Risk Trajectory**  
+- Increasing likelihood of media, NGO, or public scrutiny  
+- Narrative risk shifts from internal issue to institutional concern  
+
+👉 May warrant: proactive review, communications coordination, or senior oversight  
 
 ---
 
 ## 🔥 Threshold Summary  
 
-| Trigger Type | Typical Signal | Escalation Path |
-|---------------|----------------|-----------------|
-| Forensic contradiction | Metadata / audit-log mismatch | NCSC / DSO immediate log |
-| External corroboration | Press, platform, or ally confirmation | Cabinet Office Crisis Cell |
-| Legal invocation | Pre-action, SAR, or FOI | Legal Advisers → NSS |
-| Oversight attention | MP or Commissioner enquiry | Ministerial briefing |
-| Cross-department pattern | Multiple linked cases | Government Security Group |
-| Diplomatic linkage | Ally or hostile-state vector | FCDO & NSA escalation |
-| Media exposure | Sustained coverage | Inquiry-prevention taskforce |
+| Trigger Type | Typical Signal | Potential Escalation Path |
+|--------------|----------------|----------------------------|
+| Forensic inconsistency | Metadata mismatch | Technical / security review |
+| External corroboration | Independent confirmation | Cross-functional coordination |
+| Legal invocation | Formal legal engagement | Legal + governance review |
+| Oversight attention | Parliamentary enquiry | Ministerial awareness |
+| Pattern emergence | Repeated incidents | Central coordination |
+| External linkage | State or actor involvement | Security / policy escalation |
+| Reputational exposure | Sustained scrutiny risk | Senior review |
 
 ---
 
 ## 🧮 Rule of Thumb  
 
-> **One external vector or one forensic inconsistency = automatic escalation.**  
-> Once an event leaves the HR circuit or contradicts technical records, it must be logged as a protective-security breach.
+> **Where an incident extends beyond internal handling—through evidence, scope, or visibility—escalation should be actively considered.**  
+
+HR framing may be appropriate at the outset,  
+but may become insufficient as complexity increases.
 
 ---
 
 ## 🌌 Constellations  
 
-🪄 🧿 ⚡ — escalation logic, oversight reflex, procedural integrity.  
+🪄 🧿 ⚡ — escalation logic, oversight reflex, procedural integrity  
 
 ---
 
 ## ✨ Stardust  
 
-escalation triggers, oversight, hr failure, ncsc, cabinet office, national security, crisis cell, metadata contradiction, legal invocation, parliamentary inquiry  
+escalation signals, governance thresholds, HR limitations, oversight pathways, metadata risk, legal triggers, reputational exposure  
 
 ---
 
 ## 🏮 Footer  
 
 *⚡ Escalation Triggers — When HR Fails and Oversight Must Act* is a diagnostic node of the Polaris Protocol.  
-It identifies the hard-threshold points at which interpersonal or HR-framed incidents must be reclassified as national-security and governance events, ensuring escalation to formal oversight mechanisms.  
+It maps common signals indicating when incidents may require escalation beyond HR into broader governance, legal, or security frameworks.  
 
 > 📡 Cross-references:
 > 
 > - [🌀 Containment Under Observation](../../🦕_Elder_Influencers/📜_Statutes/🌀_containment_under_observation.md)  
 > - [*Pending:* 🧿 Oversight Paralysis — When Allies Breach the Firewall]  
-> - [🧩 Ideal Whitehall Response Sequence](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧩_ideal_whitehall_response_sequence.md)
-> - [👑 Asserting Sovereignty After Allied Interference](../👑_Ownership_Control/👑_asserting_sovereignty_after_allied_interference.md)
+> - [🧩 Ideal Whitehall Response Sequence](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧩_ideal_whitehall_response_sequence.md)  
+> - [👑 Asserting Sovereignty After Allied Interference](../👑_Ownership_Control/👑_asserting_sovereignty_after_allied_interference.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-04-24_
