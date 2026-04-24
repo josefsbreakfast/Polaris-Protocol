@@ -79,7 +79,28 @@ The United Kingdom responded militarily and retook the islands after approximate
 The war remains significant because it:
 - re-established UK control  
 - reinforced the importance of **deterrence and credibility**  
-- embedded the islands in UK defence thinking  
+- embedded the islands in UK defence thinking
+
+---
+
+## 🎬 Cultural Framing — The Distance Question  
+
+A commonly referenced illustration of the UK perspective appears in the film *The Iron Lady*, which dramatises conversations around the Falklands War.
+
+In the scene, a US official questions why the United Kingdom would commit military force to defend islands thousands of miles from its mainland.
+
+The response draws a comparison:
+
+> Would the United States choose not to defend Hawaii under similar circumstances?
+
+The reference to the Pearl Harbor attack is not intended as a direct equivalence, but as a way of reframing the question.
+
+The scene highlights a broader difference in perspective:
+
+- One view treats the islands as distant and strategically marginal  
+- The other treats them as part of a **credibility and defence commitment**, regardless of geography  
+
+While fictionalised, this framing captures a recurring gap in how the issue is understood across different audiences.  
 
 ---
 
