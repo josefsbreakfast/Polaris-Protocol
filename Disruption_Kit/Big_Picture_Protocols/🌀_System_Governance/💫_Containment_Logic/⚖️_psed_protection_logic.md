@@ -192,7 +192,9 @@ PSED shapes how decisions are justified — not which decisions must be made.
 > 📡 Cross-references:
 > 
 > - [⚖️ Containment & Cut-Through in the Legal Profession](./⚖️_containment_and_cutthrough_in_the_legal_profession.md)  
-> - []()  
-> - []()  
+> - [🦑 Toxic Systems Don’t Need Monsters — Harm Emerges from the Water Itself](./🦑_toxic_systems_dont_need_monsters.md)  
+> - [🧠 Cognitive Feedback and Bureaucratic Amplification](./🧠_cognitive_feedback_and_bureaucratic_amplification.md)
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-04-24_
