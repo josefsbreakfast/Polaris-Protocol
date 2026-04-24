@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-23 22:33:18 UTC_
+_Generated on 2026-04-24 00:10:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1024,6 +1024,7 @@ _Generated on 2026-04-23 22:33:18 UTC_
           - [`📜_charity_regime_reform.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/📜_charity_regime_reform.md)
           - [`🦾_invest_appropriately.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/🦾_invest_appropriately.md)
           - [`🧭_mutual_aid_vs_charity.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/🧭_mutual_aid_vs_charity.md)
+          - [`🧵_suiting_as_defence_of_the_realm.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/🧵_suiting_as_defence_of_the_realm.md)
         - [**👻_Transparencies_Overhead/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/README.md)
           - [`data_misuse_continuum_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/data_misuse_continuum_flowchart.png)
