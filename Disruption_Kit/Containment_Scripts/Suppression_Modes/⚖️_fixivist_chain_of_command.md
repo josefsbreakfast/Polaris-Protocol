@@ -1,5 +1,5 @@
 # ⚖️ Fixivist vs Chain-of-Command  
-**First created:** 2025-11-?? | **Last updated:** 2026-04-24  
+**First created:** 2025-09-12 | **Last updated:** 2026-04-24  
 *How organisations respond to internal problems under pressure: rapid internal fixes versus procedural escalation—and how both can function as containment modes.*  
 
 ---
