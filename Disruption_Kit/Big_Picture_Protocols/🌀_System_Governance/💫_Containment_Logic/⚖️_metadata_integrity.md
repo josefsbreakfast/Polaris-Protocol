@@ -1,56 +1,91 @@
 # ⚖️ Metadata Integrity  
-**First created:** 2025-10-31 | **Last updated:** 2026-01-19  
-*Architectures of oversight, error, and self-correction inside automated bureaucracies.*  
+**First created:** 2025-10-31 | **Last updated:** 2026-04-24  
+*Architectures of oversight, error, and self-correction in data-driven governance systems.*  
 
 ---
 
 ## 🛰️ Orientation  
 
-The **Metadata Integrity** cluster examines how law, automation, and human habit intertwine.  
-It tracks the small, nearly invisible choices—metadata fields, risk flags, polite silences—that shape the entire moral geometry of data governance.  
-Each node studies a different hinge between accuracy and authority:  
-how a typo becomes a classification, how belief becomes evidence, and how compliance becomes comedy.
+The **Metadata Integrity** cluster examines how law, automation, and human practice interact in contemporary governance systems.
 
-> *Governance fails most quietly when it follows its own rules too well.*  
+It focuses on how small design and operational decisions—such as:
+
+- metadata fields,  
+- risk classifications,  
+- system defaults,  
+- and communication norms  
+
+can influence larger outcomes in:
+
+- decision-making,  
+- accountability,  
+- and error propagation.  
+
+> *Governance failures often emerge not from rule-breaking, but from the cumulative effect of routine processes.*  
 
 ---
 
 ## ⚖️ Intent  
 
-To document the *governance layer as ecosystem*:  
-- the code that governs the human,  
-- the human who governs the code,  
-- and the silence that passes for both compliance and care.  
+This cluster approaches governance as an interconnected system:
 
-Each node functions as a **diagnostic lens**—a way to see how oversight collapses under its own etiquette.
+- code shaping human decision-making,  
+- human judgement shaping system behaviour,  
+- and procedural norms shaping both.  
+
+Each node functions as a **diagnostic lens**, examining how:
+
+- data is interpreted,  
+- authority is assigned,  
+- and errors are introduced, amplified, or corrected.  
+
+The focus is not on individual fault,  
+but on **systemic patterns of interaction**.
+
+---
+
+## 🧿 Analytical Focus  
+
+Across the cluster, key themes include:
+
+- how classification systems affect outcomes,  
+- how uncertainty is recorded or suppressed,  
+- how procedural compliance interacts with accuracy,  
+- and how correction mechanisms succeed or fail.  
+
+This includes examining:
+
+- the relationship between metadata and meaning,  
+- the persistence of errors across systems,  
+- and the conditions under which systems self-correct—or do not.  
 
 ---
 
 ## 🌌 Constellations  
 
-⚖️ 🛰️ 🧠 📈 📊 📥 📠 — governance · cognition · automation · recursion · performance  
+⚖️ 🛰️ 🧠 📈 📊 📥 📠 — governance · cognition · automation · feedback · data flow  
 
 ---
 
 ## ✨ Stardust  
 
-system governance · metadata integrity · procedural ethics · compliance theatre · oversight architecture · recursion of authority  
+metadata integrity · data governance · procedural systems · classification · error propagation · oversight · accountability  
 
 ---
 
 ## 🏮 Footer  
 
-*⚖️ Metadata Integrity* is the skeleton of the Polaris Protocol’s accountability map.  
-It anchors the **Metadata Integrity** and **Voice Fidelity** constellations, linking technical provenance to narrative ethics.  
+*⚖️ Metadata Integrity* forms a core structural cluster within the **Polaris Protocol**.  
+It connects technical data practices with governance outcomes, focusing on how systems maintain—or fail to maintain—accuracy and accountability over time.  
 
 > 📡 Cross-references:
 > 
-> - [*Pending:* 📊 Crown-Service Flag and Metadata Drift] - *How administrative shorthand inside databases mis-codes authority and jurisdiction*  
+> - [*Pending:* 📊 Crown-Service Flag and Metadata Drift]  
 > - [🌋 Escalation Drift in Complex Datasets](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌋_escalation_drift_in_complex_datasets.md)  
 > - [📥 Entry-Point Abuse in Automated Datasets](../../../..Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📥_entry_point_abuse_in_automated_datasets.md)  
 > - [🧠 Cognitive Feedback and Bureaucratic Amplification](./🧠_cognitive_feedback_and_bureaucratic_amplification.md)  
 > - [📠 The 72-Hour Comedy of Compliance](./📠_the_72_hour_comedy_of_compliance.md)  
 
-> *Integrity is not a file format. It’s a habit of correction.*  
+> *Integrity is not a file format. It is a process of continuous correction.*  
 
-_Last updated: 2026-01-19_
+_Last updated: 2026-04-24_
