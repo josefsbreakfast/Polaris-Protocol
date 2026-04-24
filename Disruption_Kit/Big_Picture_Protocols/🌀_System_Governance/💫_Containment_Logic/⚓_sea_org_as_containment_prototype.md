@@ -1,119 +1,153 @@
 # ⚓ Sea Org as Containment Prototype  
-**First created:** 2025-11-07 | **Last updated:** 2026-01-19  
-*L. Ron Hubbard’s maritime escape as early containment architecture.*  
+**First created:** 2025-11-07 | **Last updated:** 2026-04-24  
+*How maritime isolation and organisational structure can combine to produce highly controlled environments.*  
 
 ---
 
 ## 🛰️ Orientation  
 
-This node examines the Sea Organization (“Sea Org”) as an early, real-world **containment laboratory**.  
+This node examines the Sea Organization (“Sea Org”), associated with :contentReference[oaicite:0]{index=0}, as a case study in **high-control organisational environments**.
 
-Founded by **L. Ron Hubbard**, the Sea Org transformed maritime mobility into a tool of authoritarian control: jurisdictional evasion reframed as liberation; isolation reframed as purpose.  
+> **Structures that appear mobile or voluntary can, in practice, become highly restrictive depending on how they are implemented.**
 
-What appears outwardly as freedom — ships, oceans, movement — functioned inwardly as **total capture**.  
+Accounts of the Sea Org frequently describe:
 
----
+- maritime operation,  
+- strong internal hierarchy,  
+- and significant separation from external systems.  
 
-## ✨ Key Ideas  
-
-- **Jurisdictional evasion as power consolidation**  
-- **Distance weaponised as dependency**  
-- **Hierarchy enforced through spatial and temporal isolation**  
-- **Exit made theoretically possible, practically impossible**  
-- **Containment disguised as chosen commitment**
+This node uses those features as an **analytical lens**, not as a claim of uniform experience.
 
 ---
 
-## 🌊 The Sea as Legal Fog  
+## ✨ Key Patterns  
 
-By operating at sea, Hubbard exploited gaps between national jurisdictions.  
-This was not accidental. It allowed him to:
-- evade legal scrutiny  
-- bypass labour protections  
-- operate disciplinary systems without oversight  
+- **Jurisdictional complexity**  
+  Operating across borders or at sea can complicate oversight and accountability.
 
-The ocean functioned as **legal blur**, not freedom.
+- **Distance and dependency**  
+  Physical separation may increase reliance on internal systems.
 
-This is proto-offshoring: before data centres, before platforms — the same logic applied to bodies.
+- **Layered hierarchy**  
+  Organisational structure can strongly influence autonomy and decision-making.
 
----
+- **Conditional exit**  
+  Formal ability to leave may not always align with practical ease of doing so.
 
-## 🛳️ Movement Without Escape  
-
-Ships move. People aboard do not.
-
-Sea Org members were:
-- geographically displaced  
-- socially enclosed  
-- informationally sealed  
-
-Distance from land meant distance from:
-- family  
-- legal aid  
-- media  
-- alternative narratives  
-
-Mobility became a *containment illusion*: constant motion masking absolute stasis.
+- **Commitment framing**  
+  Participation may be framed in moral, ideological, or long-term terms.
 
 ---
 
-## 🧠 Psychological Capture at Sea  
+## 🌊 The Sea as Operational Environment  
 
-Isolation was not merely physical.
+Operating at sea can involve:
 
-The Sea Org combined:
-- intense hierarchy  
-- ritualised obedience  
-- moral framing (“elite service”)  
-- punitive labour and humiliation  
+- shifting or overlapping legal jurisdictions,  
+- limited access to external institutions,  
+- and increased organisational self-reliance.  
 
-The result was **psychological enclosure**: identity, worth, and future collapsed into the organisation’s timeline.
+In some analyses, this has been described as creating:
 
-Leaving meant not just escape, but *ontological loss*.
+> **reduced external visibility combined with increased internal control.**
 
----
-
-## ⏳ Time Discipline and Indefinite Service  
-
-Sea Org contracts were famously framed as multi-lifetimes (“billion-year contracts”).
-
-This is Chronos containment made explicit:
-- time pledged in advance  
-- future selves pre-consented  
-- exit reframed as betrayal across eternity  
-
-Waiting, endurance, and suffering were moralised as proof of devotion.
+The extent and implications of this vary across accounts and time periods.
 
 ---
 
-## 📚 Information Control as Environment  
+## 🛳️ Movement and Constraint  
 
-At sea, information scarcity was structural.
+While maritime environments involve physical movement,  
+they may also involve:
 
-News, dissent, and outside perspectives were:
-- delayed  
-- filtered  
-- reframed  
+- limited independent mobility,  
+- controlled access to communication,  
+- and reliance on organisational logistics.  
 
-Reality itself became curated — an early analogue to algorithmic enclosure, where the environment *is* the message.
+This can create a situation where:
+
+> **movement at the system level does not necessarily translate to individual freedom of movement.**
+
+---
+
+## 🧠 Psychological and Social Dynamics  
+
+Reports and analyses of the Sea Org often reference:
+
+- strong identity alignment with organisational goals,  
+- internal systems of evaluation or discipline,  
+- and tightly structured daily routines.  
+
+These features are not unique to one organisation,  
+but can contribute to **high levels of internal cohesion and control**.
+
+---
+
+## ⏳ Time and Commitment Structures  
+
+The Sea Org is known for the concept of extended or symbolic long-term commitment (e.g. “billion-year contracts”).
+
+From an analytical perspective, this can be understood as:
+
+- emphasising continuity and loyalty,  
+- extending commitment beyond ordinary timeframes,  
+- and reinforcing identity within the organisation.  
+
+Interpretations of this practice vary.
+
+---
+
+## 📚 Information Environment  
+
+In isolated or highly structured settings:
+
+- access to external information may be limited or mediated,  
+- internal narratives may carry greater weight,  
+- and alternative perspectives may be less available.  
+
+This can shape how individuals interpret their environment and options.
+
+---
+
+## 🧠 Interpretive Frame  
+
+The concept of “containment” here is an **analytical metaphor**.
+
+It refers to environments where:
+
+- movement,  
+- information,  
+- and decision-making  
+
+are significantly structured by the organisation itself.
+
+This is not a claim of uniform experience across all participants,  
+but a way of describing **how certain structural features may operate together**.
+
+---
+
+## 📉 Structural Insight  
+
+> **Environments that combine isolation, hierarchy, and controlled information flows can produce strong forms of organisational dependency.**
 
 ---
 
 ## 🌌 Constellations  
 
-⚓ 🌊 🧠 🕳️ 🧭 ⏳ — maritime sovereignty, isolation environments, psychological capture, soft imprisonment, navigational control, time discipline.
+⚓ 🌊 🧠 🕳️ 🧭 ⏳ — isolation environments; organisational structure; control dynamics  
 
 ---
 
 ## ✨ Stardust  
 
-sea org, maritime containment, jurisdictional evasion, cult governance, isolation as control, time contracts, psychological captivity, offshore power, containment prototypes
+sea org, maritime environments, organisational control, jurisdictional complexity, isolation, hierarchy, commitment structures, information control  
 
 ---
 
 ## 🏮 Footer  
-*⚓ Sea Org as Containment Prototype* is a living node of the Polaris Protocol.  
-It traces maritime sovereignty as an early rehearsal of digital off-shoring and informational secession.
+
+*⚓ Sea Org as Containment Prototype* is a living node of the **Polaris Protocol**.  
+It uses a maritime organisational model as a case study for understanding how isolation, structure, and information environments can interact.  
 
 > 📡 Cross-references:
 > 
@@ -122,4 +156,4 @@ It traces maritime sovereignty as an early rehearsal of digital off-shoring and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-19_
+_Last updated: 2026-04-24_
