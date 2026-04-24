@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 This node provides a baseline explanation of why the Falkland Islands are under British control.
 
@@ -17,7 +17,7 @@ The aim is not to resolve the debate, but to:
 
 ---
 
-## 📍 Geography & Basics  
+## 🗺️ Geography & Basics  
 
 The Falkland Islands are:
 - A group of islands in the South Atlantic  
@@ -28,7 +28,7 @@ They are classified as a **British Overseas Territory**, a constitutional catego
 
 ---
 
-## 🧑‍🤝‍🧑 Population & Settlement  
+## 👥 Population & Settlement  
 
 - There was **no confirmed permanent indigenous population** at the point of lasting European settlement  
 - Britain has maintained **continuous administration since 1833**  
@@ -70,10 +70,11 @@ The Falklands War began when Argentina invaded the islands in April 1982.
 
 The United Kingdom responded militarily and retook the islands after approximately 10 weeks.
 
-### Human cost:
+### Human cost:  
+- 3 Falkland Islanders killed  
 - 255 British personnel killed  
 - 649 Argentine personnel killed  
-- 3 Falkland Islanders killed  
+
 
 The war remains significant because it:
 - re-established UK control  
@@ -173,13 +174,12 @@ falkland islands overview, uk argentina dispute, self determination vs territori
 
 ## 🏮 Footer  
 
-*Why the UK Is in the Falklands* is a foundational node of the **Polaris Protocol**.  
+*🇬🇧 Why the UK Is in the Falklands* is a foundational node of the **Polaris Protocol**.  
 It provides baseline context for understanding one of the most persistent and complex sovereignty disputes involving the United Kingdom.  
 
 > 📡 Cross-references:
 > 
-> - Big_Picture_Protocols/ — *system-level analysis of sovereignty and signalling*  
-> - Admin_Kit/_house_style.md — *formatting and structural standards*  
+> - [🥃 Drinks on the Rocks](./🥃_drinks_on_the_rocks.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
