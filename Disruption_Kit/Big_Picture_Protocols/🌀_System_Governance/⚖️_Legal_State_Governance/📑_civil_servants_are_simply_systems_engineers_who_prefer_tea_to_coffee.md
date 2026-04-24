@@ -1,6 +1,8 @@
 # 📑 Civil Servants Are Simply Systems Engineers Who Prefer Tea to Coffee
 **First created:** 2026-04-23 | **Last updated:** 2026-04-24  
-*Explaining civil servants as constraint-bound operators maintaining a risk-managed state, rather than political actors.*
+*Explaining civil servants as constraint-bound operators maintaining a risk-managed state, rather than political actors.*  
+
+<!--Does the Dept of Systems Engineers need AI?-->
 
 ---
 
@@ -286,6 +288,14 @@ civil service, governance systems, constraint logic, developed vetting, administ
 
 ## 🏮 Footer
 
-*📑 Civil Servants Are Simply Systems Engineers Who Prefer Tea to Coffee* is a core node within **System Governance**, mapping how administrative behaviour emerges from structural constraint and risk management rather than political intent.
+*📑 Civil Servants Are Simply Systems Engineers Who Prefer Tea to Coffee* is a core node within **System Governance**, mapping how administrative behaviour emerges from structural constraint and risk management rather than political intent.  
+
+> 📡 Cross-references:
+> 
+> - [🫖 Tea, Minister?](./🫖_tea_minister.md)
+> - [⚖️ Containment Contract Trace](./⚖️_containment_contract_trace.md)
+> - [🌍 Cross-Border Bias Propagation in Surveillance Models](../👑_Ownership_Control/🌍_cross_border_bias_propagation_in_surveillance_models.md)  
+
+*Survivor authorship is sovereign. Containment is never neutral.*
 
 _Last updated: 2026-04-24_
