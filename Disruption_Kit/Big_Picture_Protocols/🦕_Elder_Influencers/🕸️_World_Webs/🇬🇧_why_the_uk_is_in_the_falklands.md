@@ -1,5 +1,5 @@
 # 🇬🇧 Why the UK Is in the Falklands  
-**First created:** 2026-04-24 | **Last updated:** 2026-04-24  
+**First created:** 2026-04-24 | **Last updated:** 2026-04-25  
 *History, population, sovereignty, and why the UK is marginally concerned about an ally's open challenge to disclose its defensive priorities.*
 
 ---
@@ -76,7 +76,7 @@ Crucially, in the context of the discourse around land sovereignity today, both 
 
 ---
 
-## ⚔️ 1982 Falklands War  
+## 🌊 1982 Falklands War  
 
 The Falklands War began when Argentina invaded the islands in April 1982.
 
@@ -134,7 +134,7 @@ This posture is a direct legacy of the events of 1982.
 
 Any decrease in forces prior to this point, was primarily budget driven and risk assessment driven, and the resulting impact will likely impact any future risk assessment; in theory, if the legal status was completely settled, they may not to be in need to provide that defensive force to the same intensity, and yet in order to protect sovereign territory, this remains of unbreakability for any parties you keen to put the UK defence budget under pressure. For this reason, the UK does horizon scan on precisely why sovereignity is challenged when it is challenged.  
 
-This is to say, the UK is not just thinking about who challenges the sovereignity, but also what is existing behind that decision when it is.  
+This is to say, the UK is not just thinking about who challenges the sovereignity, but also *what motivations exist behind that challenge when it is*.  
 
 This is not paranoia. This is just good defensive planning.  
 
@@ -230,4 +230,4 @@ It provides baseline context for understanding one of the most persistent and co
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-04-25_
