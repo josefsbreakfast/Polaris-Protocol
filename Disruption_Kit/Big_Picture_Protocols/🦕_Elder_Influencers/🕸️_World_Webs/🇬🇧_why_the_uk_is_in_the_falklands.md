@@ -1,6 +1,6 @@
 # 🇬🇧 Why the UK Is in the Falklands  
 **First created:** 2026-04-24 | **Last updated:** 2026-04-24  
-*History, population, sovereignty, and why this case remains contested*
+*History, population, sovereignty, and why the UK is marginally concerned about an ally's open challenge to disclose its defensive priorities.*
 
 ---
 
