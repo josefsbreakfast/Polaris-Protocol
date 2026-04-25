@@ -24,14 +24,15 @@ The Falkland Islands are:
 - Approximately 500 km east of Argentina  
 - Home to a population of around 3,500 people  
 - Very close to the penguins; bespoke conservation and scientific research exists accordingly
-- Seperate to, but nearby British Antarctic Territory  
+- Seperate to, but nearby British Antarctic Territory (BAT)  
 
 They are classified as a **British Overseas Territory**, a constitutional category used by the United Kingdom for certain self-governing territories under its sovereignty.  
 
 The UK has more BOTs in treaty with the UK, than is often fully appreciated. The class-specific relationship with movement and use of these territories often underpins how much voters may invest in policies which impact the entire territorial portfolio. Each has a unique history and determination of the land and people is unique to each.  
 <!--Now you know why we are so obsessed with boats, why we have so many lawyers, and why that Venn diagram overlaps in the particular matter that it does.-->
 
-In the current geopolitical context, it should be noted that whilst conservation is the leading factor, and scientific research is the leading expression of British interest, due to recent discoveries of oil and gas notably by Russian scientific interest but with reserves in British territory, Britain is currently in consistent dialogue regarding defence.  
+In the current geopolitical context, it should be noted that whilst conservation is the leading factor, and scientific research is the leading expression of British interest, due to recent discoveries of oil and gas notably by Russian scientific interest but with reserves in British territory, Britain is currently in consistent dialogue regarding defence. There has been reported concern that there may be a prospecting interest in BAT, and the Falkland Islands defence allows British defence of BAT.  
+This is one of many examples of how the particular nature of the overseas territories means that the UK specific defensive planning is often interlinked, in a manner which differs from the way in which the US may interlink its own defence of its international bases. When conversation around serenity occurs, especially in the public sphere, the British perspective is impact to consider how this is asking the UK to disclose openly its own defensive arrangements. This adds to the scrutiny that the UK often holds for discussing the matter openly.  
 
 ---
 
