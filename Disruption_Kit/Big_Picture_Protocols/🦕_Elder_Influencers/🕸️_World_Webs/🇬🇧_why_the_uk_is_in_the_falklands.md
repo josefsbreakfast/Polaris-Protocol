@@ -23,7 +23,8 @@ The Falkland Islands are:
 - A group of islands in the South Atlantic  
 - Approximately 500 km east of Argentina  
 - Home to a population of around 3,500 people  
-- Very close to the penguins; bespoke conservation and scientific research exists accordingly  
+- Very close to the penguins; bespoke conservation and scientific research exists accordingly
+- Seperate to, but nearby British Antarctic Territory  
 
 They are classified as a **British Overseas Territory**, a constitutional category used by the United Kingdom for certain self-governing territories under its sovereignty.  
 
