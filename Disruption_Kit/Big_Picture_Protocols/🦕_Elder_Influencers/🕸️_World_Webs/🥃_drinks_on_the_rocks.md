@@ -196,8 +196,14 @@ This kind of reflection is often a by-product of uncertainty rather than a signa
 
 - The UK reaction is structurally predictable  
 - The strategic benefit to the US is not clearly visible  
-- The primary effect is the introduction of uncertainty rather than increased alignment  
+- The primary effect is the introduction of uncertainty rather than increased alignment
 
+<!--Is the 4D chess move, to maintain 
+just enough pressure to ensure the King still visits? If so: good to know how much of a trump card we have, in the monarchy. Extremely interesting.  
+
+& don't worry...  
+
+If it becomes a hostage situation, I'm sure that the lawyers can probably find a challenge to the "sovreignity" of that golf course up in Scotland; imposition on the Union over that Russian tanker dispute hardly helped endear Scotland more generally, and Scottish law =/= English law.-->
 ---
 
 ## 🌌 Constellations  
