@@ -30,6 +30,9 @@ They are classified as a **British Overseas Territory**, a constitutional catego
 
 The UK has more BOTs in treaty with the UK, than is often fully appreciated. The class-specific relationship with movement and use of these territories often underpins how much voters may invest in policies which impact the entire territorial portfolio. Each has a unique history and determination of the land and people is unique to each.  
 <!--Now you know why we are so obsessed with boats, why we have so many lawyers, and why that Venn diagram overlaps in the particular matter that it does.-->
+
+In the current geopolitical context, it should be noted that whilst conservation is the leading factor, and scientific research is the leading expression of British interest, due to recent discoveries of oil and gas notably by Russian scientific interest but with reserves in British territory, Britain is currently in consistent dialogue regarding defence.  
+
 ---
 
 ## 👥 Population & Settlement  
