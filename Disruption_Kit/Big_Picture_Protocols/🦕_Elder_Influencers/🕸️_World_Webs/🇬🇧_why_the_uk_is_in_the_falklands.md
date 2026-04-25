@@ -215,6 +215,7 @@ Each of these points suggests a different outcome.
 
 *Further reading:*  
 
+- [🐧: Birds of the World: Western Rockhopper Penguin](https://birdsoftheworld.org/bow/species/rocpen2/cur/introduction)  
 - [🐧: ASOC: Southern Rockhopper Penguin](https://www.asoc.org/learn/rockhopper-penguins/)
 - [🌊: Falklands Conservation (NGO)](https://falklandsconservation.com/)  
 
