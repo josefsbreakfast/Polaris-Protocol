@@ -124,13 +124,19 @@ This is intended to:
 - deter future conflict  
 - ensure rapid response capability  
 
-This posture is a direct legacy of the events of 1982.
+This posture is a direct legacy of the events of 1982.  
+
+Any decrease in forces prior to this point, was primarily budget driven and risk assessment driven, and the resulting impact will likely impact any future risk assessment; in theory, if the legal status was completely settled, they may not to be in need to provide that defensive force to the same intensity, and yet in order to protect sovereign territory, this remains of unbreakability for any parties you keen to put the UK defence budget under pressure. For this reason, the UK does horizon scan on precisely why sovereignity is challenged when it is challenged.  
+
+This is to say, the UK is not just thinking about who challenges the sovereignity, but also what is existing behind that decision when it is.  
+
+This is not paranoia. This is just good defensive planning.  
 
 ---
 
 ## 🌍 Decolonisation Context  
 
-The Falklands are frequently discussed within debates about decolonisation, but do not fit neatly into a single framework.
+The Falklands are frequently discussed within debates about decolonisation, and do not fit neatly into a single framework.
 
 ### A) Decolonial critique  
 - British control originates in imperial expansion  
