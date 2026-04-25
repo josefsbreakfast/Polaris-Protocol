@@ -23,8 +23,11 @@ The Falkland Islands are:
 - A group of islands in the South Atlantic  
 - Approximately 500 km east of Argentina  
 - Home to a population of around 3,500 people  
+- Very close to the penguins; bespoke conservation and scientific research exists accordingly  
 
-They are classified as a **British Overseas Territory**, a constitutional category used by the United Kingdom for certain self-governing territories under its sovereignty.
+They are classified as a **British Overseas Territory**, a constitutional category used by the United Kingdom for certain self-governing territories under its sovereignty.  
+
+The UK has more BOTs in treaty with the UK, than is often fully appreciated. The class-specific relationship with movement and use of these territories often underpins how much voters may invest in policies which impact the entire territorial portfolio. Each has a unique history and determination of the land and people is unique to each.  
 
 ---
 
