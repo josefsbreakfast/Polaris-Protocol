@@ -213,6 +213,11 @@ Each of these points suggests a different outcome.
 ## 🌌 Constellations  
 🧭 ⚖️ 🧩 🌍 🪖 — orientation node; sovereignty tension; decolonisation interface; strategic geography  
 
+*Further reading:*  
+
+- [🐧: ASOC: Southern Rockhopper Penguin](https://www.asoc.org/learn/rockhopper-penguins/)
+- [🌊: Falklands Conservation (NGO)](https://falklandsconservation.com/)  
+
 ---
 
 ## ✨ Stardust  
