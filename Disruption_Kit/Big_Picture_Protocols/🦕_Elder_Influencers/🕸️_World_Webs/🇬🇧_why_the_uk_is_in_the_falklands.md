@@ -66,7 +66,7 @@ This produces a central tension:
 
 There is no universally agreed mechanism for resolving this when the two conflict.  
 
-Crucially, in the context of the discourse around land sovereignity today, both claims rely on settler colonial origins in order to make their legal argument for possession; in comparison to many of the other territorial claims, this is unusual.  
+Crucially, in the context of the discourse around land sovereignity today, both claims rely on settler colonial origins in order to make their legal argument for possession; in comparison to many of the other territorial claims the UK is sprecifically involved in, this is unusual.  
 
 ---
 
