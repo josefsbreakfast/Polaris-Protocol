@@ -137,6 +137,7 @@ Any decrease in forces prior to this point, was primarily budget driven and risk
 This is to say, the UK is not just thinking about who challenges the sovereignity, but also *what motivations exist behind that challenge when it is*.  
 
 This is not paranoia. This is just good defensive planning.  
+<!--Are we always asking ourselves, "...but what if Russia"? Of course we are. In this particular instance, we just chased them away from our own waters. We are literally just going through a list, which we mostly hope to exclude as potential influences.-->
 
 ---
 
