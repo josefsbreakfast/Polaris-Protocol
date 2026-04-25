@@ -177,6 +177,8 @@ As a result:
 
 > While the Falklands are clearly contested, they are not necessarily the most straightforward case through which to examine decolonisation as a general principle.
 
+In the same way that no one can speak for any other people self-determination, other people cannot speak for the Falkland Islanders' own wishes for self-determination, without allowing them to lead on that matter.  
+
 ---
 
 ## 🧩 Why This Case Is Structurally Complex  
