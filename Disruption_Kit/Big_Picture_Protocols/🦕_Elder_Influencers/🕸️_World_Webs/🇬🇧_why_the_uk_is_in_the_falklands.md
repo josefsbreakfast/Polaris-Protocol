@@ -217,7 +217,8 @@ Each of these points suggests a different outcome.
 
 - [🐧: Birds of the World: Western Rockhopper Penguin](https://birdsoftheworld.org/bow/species/rocpen2/cur/introduction)  
 - [🐧: ASOC: Southern Rockhopper Penguin](https://www.asoc.org/learn/rockhopper-penguins/)
-- [🌊: Falklands Conservation (NGO)](https://falklandsconservation.com/)  
+- [🌊: Falklands Conservation (NGO)](https://falklandsconservation.com/)
+- [🐺: NatGeo, re the warrah: "New clues may explain the mysterious origins of the Falklands wolf"](https://www.nationalgeographic.com/animals/article/falkland-islands-wolf-fox-origin-people)  
 
 ---
 
