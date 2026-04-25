@@ -28,7 +28,7 @@ The Falkland Islands are:
 They are classified as a **British Overseas Territory**, a constitutional category used by the United Kingdom for certain self-governing territories under its sovereignty.  
 
 The UK has more BOTs in treaty with the UK, than is often fully appreciated. The class-specific relationship with movement and use of these territories often underpins how much voters may invest in policies which impact the entire territorial portfolio. Each has a unique history and determination of the land and people is unique to each.  
-
+<!--Now you know why we are so obsessed with boats, why we have so many lawyers, and why that Venn diagram overlaps in the particular matter that it does.-->
 ---
 
 ## 👥 Population & Settlement  
