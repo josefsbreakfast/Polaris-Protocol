@@ -76,10 +76,12 @@ The Falklands War began when Argentina invaded the islands in April 1982.
 
 The United Kingdom responded militarily and retook the islands after approximately 10 weeks.
 
-### Human cost:  
+### 🕯️ The Human cost was not insignificant:  
 - 3 Falkland Islanders killed  
 - 255 British personnel killed  
-- 649 Argentine personnel killed  
+- 649 Argentine personnel killed
+
+Due to the specific geopolitical arrangements of the territory, as well as norms in deployment, many communities and families who are the backbone of the British and forces, wherever they are, have some emotional Thai to the loss of life during that war. It is worth noting that the current military command, will probably find this to be quite an emotionally charged subject, either due to personal loss or to the loss of colleagues, who they may have had responsibility for. This means that there are very specific groups of people for whom this is going to be particularly emotionally resonant.  
 
 
 The war remains significant because it:
@@ -107,6 +109,10 @@ The scene highlights a broader difference in perspective:
 - The other treats them as part of a **credibility and defence commitment**, regardless of geography  
 
 While fictionalised, this framing captures a recurring gap in how the issue is understood across different audiences.  
+
+The film has a British audience in mind as its primary audience, and so it is unsurprising that it is highlighting every particular understanding of how the UK can feel as if the US imposes its will, but may not fully understand the cultural importance of UK priorities.  
+
+This again will be particularly emotionally resident for a very specific part of that audience, and picks up precisely why the class which is more likely to be providing the backbone of British diplomatic services, may find this to be particularly emotionally resonant.  
 
 ---
 
