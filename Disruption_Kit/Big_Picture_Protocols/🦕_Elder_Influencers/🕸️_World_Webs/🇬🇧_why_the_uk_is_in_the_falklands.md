@@ -33,6 +33,7 @@ The UK has more BOTs in treaty with the UK, than is often fully appreciated. The
 
 ## 👥 Population & Settlement  
 
+In the Falkland Islands specifically:  
 - There was **no confirmed permanent indigenous population** at the point of lasting European settlement  
 - Britain has maintained **continuous administration since 1833**  
 - The current population is **multi-generational**, with families living on the islands for generations  
