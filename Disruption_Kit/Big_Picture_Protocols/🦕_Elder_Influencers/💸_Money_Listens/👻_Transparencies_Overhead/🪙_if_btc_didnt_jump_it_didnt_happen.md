@@ -7,7 +7,7 @@ arguably only a handful of "user classes" exist, honestly not that complicated. 
 
 we're still talking about crypto like no one's really using it, and like it's mostly seperate from the west's politics. bollocks.  
 
-<!--istg if "Satoshi Nakamoto" ends up being jeffers, ill be well pissed.-->
+<!--istg if "Satoshi Nakamoto" ends up being jeffers, ill be well pissed. the email exchange present is well weird.-->
 
 sketching timeline:  
 
