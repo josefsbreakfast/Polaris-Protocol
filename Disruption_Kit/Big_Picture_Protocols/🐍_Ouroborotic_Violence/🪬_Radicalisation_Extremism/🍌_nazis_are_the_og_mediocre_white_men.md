@@ -177,7 +177,9 @@ It reframes fascism as a failure of epistemology rather than an excess of strate
 > 📡 Cross-references:
 > 
 > - [🧠 Fascism as Scaled Coercive Control](./🧠_fascism_as_scaled_coercive_control.md)  
-> - [🧠 Far Right Feeders Flipbook](./🧠_far_right_feeders_flipbook.md)  
+> - [🧠 Far Right Feeders Flipbook](./🧠_far_right_feeders_flipbook.md)
+> - [🧪 How Scientists Go Nazi](./🧪_how_scientists_go_nazi.md)
+> - [💔 For The Men Who Thought They Were Outside The Blast Radius](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💔_for_the_men_who_thought_they_were_outside_the_blast_radius.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
