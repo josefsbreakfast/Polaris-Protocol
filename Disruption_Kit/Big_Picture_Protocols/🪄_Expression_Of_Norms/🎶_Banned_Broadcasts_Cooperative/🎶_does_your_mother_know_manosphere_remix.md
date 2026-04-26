@@ -4,6 +4,12 @@
 
 ---
 
+> "I can see what you want –
+> But you seem pretty young to be searching for that kind of fun...  
+> So maybe I'm not the one?"  
+
+---
+
 ## 🛰️ Orientation  
 
 This node uses *Does Your Mother Know* by ABBA (1979) as a **cultural anchor** to interrogate contemporary claims that male attraction to significantly younger partners is purely instinctual, inevitable, or historically uncontested.
@@ -18,7 +24,7 @@ The track presents a clear, mainstream example of:
 
 ---
 
-## 🔍 Signal vs Spin  
+## 📻 Signal vs Spin  
 
 ### Signal (embedded in the song)  
 - Attraction is acknowledged  
@@ -76,6 +82,12 @@ A central asymmetry in these dynamics is not desire—but **risk comprehension**
 
 This is not about restricting teenage emotion or curiosity.  
 It is about recognising **asymmetry of knowledge, experience, and consequence**.
+
+---
+
+> "Now you're so cute, I like your style –  
+> And I know what you mean when you give me a flash of that smile..!
+> But girl, you're only a child."  
 
 ---
 
