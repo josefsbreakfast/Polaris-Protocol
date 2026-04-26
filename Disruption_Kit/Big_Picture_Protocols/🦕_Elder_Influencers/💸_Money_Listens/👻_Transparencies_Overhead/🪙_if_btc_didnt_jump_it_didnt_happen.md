@@ -60,3 +60,9 @@ orban out again - april
 ---
 
 anyway, point is, btc goes up in parallel to hoverboard denial, so that's nice.  
+
+Asking, "who is/was 'Satoshi Nakamoto'?", is like asking, "who was involved in the most profound alteration in financial markets and consequential instability and growth of the weakth gap since the feudal age?".  
+
+no one needs to have "meant it", it just has worked out a bit pants and its still not really subject to the informal pressures which regulate market capital in actual capitalism.  
+
+---
