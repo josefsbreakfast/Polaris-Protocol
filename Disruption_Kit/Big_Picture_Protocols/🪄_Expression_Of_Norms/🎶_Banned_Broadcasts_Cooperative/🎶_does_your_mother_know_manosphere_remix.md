@@ -184,12 +184,13 @@ power imbalance, age dynamics, consent discourse, manosphere critique, adolescen
 
 ## 🏮 Footer  
 
-*Does Your Mother Know — Manosphere Remix* is a living node of the **Polaris Protocol**.  
+*🎶 Does Your Mother Know — Manosphere Remix* is a living node of the **Polaris Protocol**.  
 It uses a widely recognised cultural artifact to demonstrate that expectations of adult restraint in age-asymmetrical dynamics are not new, obscure, or ideologically niche—but have long existed within mainstream social understanding.
 
-> 📡 Cross-references:  
-> - Big_Picture_Protocols/ — systemic pattern analysis  
-> - Survivor_Tools/ — practical boundary-setting and risk awareness  
+> 📡 Cross-references:
+> 
+> - [🧠 Charisma Is Just Coercion](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_charisma_as_coercion.md)  
+> - [💞 Connection as Leverage — The Human Entry Point Exploited by Capture Systems](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💞_connection_as_leverage.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
