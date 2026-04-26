@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-26 12:18:21 UTC_
+_Generated on 2026-04-26 12:23:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1049,6 +1049,7 @@ _Generated on 2026-04-26 12:18:21 UTC_
           - [`🚀_arms_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🚀_arms_transparency.md)
           - [`🧪_think_tanks_and_their_funding_2010_2016.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🧪_think_tanks_and_their_funding_2010_2016.md)
           - [`🧭_think_tank_drift_and_blurred_boundaries.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🧭_think_tank_drift_and_blurred_boundaries.md)
+          - [`🪙_if_btc_didnt_jump_it_didnt_happen.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🪙_if_btc_didnt_jump_it_didnt_happen.md)
         - [**🚀_Dual_Use_Dualities/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/README.md)
           - [`🍯_honeybot_dual_use_thought_experiment.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🍯_honeybot_dual_use_thought_experiment.md)
