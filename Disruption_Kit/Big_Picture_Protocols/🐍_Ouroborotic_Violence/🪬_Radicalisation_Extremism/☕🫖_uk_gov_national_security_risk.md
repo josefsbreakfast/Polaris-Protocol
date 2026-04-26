@@ -191,11 +191,7 @@ Priority should be placed on:
 
 *Further reading & media:*  
 
-- [📹: MEE: "Despite this temporary security, Gill concludes that the prime minister
-400
-remains highly vulnerable. He describes Starmer as being "in office but not in power," predicting that the party may finally move to oust him following
-262
-anticipated losses in the upcoming May elections."
+- [📹: MEE: "Joe Gill... describes Starmer as being 'in office but not in power,' predicting that the party may finally move to oust him following anticipated losses in the upcoming May elections."](https://vm.tiktok.com/ZNRbXcRWA/)  
 
 ---
 
