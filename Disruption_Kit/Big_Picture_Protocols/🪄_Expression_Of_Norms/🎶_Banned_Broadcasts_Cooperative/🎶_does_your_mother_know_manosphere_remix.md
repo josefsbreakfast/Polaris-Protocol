@@ -190,7 +190,8 @@ It uses a widely recognised cultural artifact to demonstrate that expectations o
 > 📡 Cross-references:
 > 
 > - [🧠 Charisma Is Just Coercion](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_charisma_as_coercion.md)  
-> - [💞 Connection as Leverage — The Human Entry Point Exploited by Capture Systems](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💞_connection_as_leverage.md)  
+> - [💞 Connection as Leverage — The Human Entry Point Exploited by Capture Systems](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💞_connection_as_leverage.md)
+> - [🧠 Utilisation of Vulnerability — Radicalisation & Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
