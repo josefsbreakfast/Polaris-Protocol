@@ -3,9 +3,18 @@ cryptocurrency, esp btc, shares a timeline with the global rise of everything th
 
 not really a comment about coinage, more that anyone who isnt watching it like a market index value (ie ftse, dow) may wish to look into it.  
 
+arguably only a handful of "user classes" exist, honestly not that complicated. if you get that stock/currency go up/down, you get this. it's just far oess regulated, so is volitile on the terns of all the dudes who are openly calling political leaders, "daddy", and claiming they are *definitely* straight. (i'm not judging the fondness, i'm judging the very loud denial that no one asked for. i was a tumblr girlie; enough said.)  
+
+we're still talking about crypto like no one's really using it, and like it's mostly seperate from the west's politics. bollocks.  
+
+<!--istg if "Satoshi Nakamoto" ends up being jeffers, ill be well pissed.-->
+
 sketching timeline:  
 
 2008  
+btc main domain registered - aug  
+lehman brothers - aug/sept  
+"Satoshi Nakamoto" paper - oct  
 2009  
 2010  
 2011  
@@ -14,6 +23,7 @@ sketching timeline:
 2014  
 2015  
 2016  
+brexit vote - june  
 2017  
 2018  
 2019  
