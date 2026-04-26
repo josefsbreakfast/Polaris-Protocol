@@ -19,6 +19,7 @@ lehman brothers - aug/sept
 btc ledger start - jan  
 2010  
 orban in again, new constitution without democratic announcment - april  
+bitcoin pizza day, first commercial transaction recorded - may  
 2011  
 2012  
 2013  
