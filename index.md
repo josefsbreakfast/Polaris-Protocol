@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-25 17:31:35 UTC_
+_Generated on 2026-04-26 01:33:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1364,6 +1364,7 @@ _Generated on 2026-04-25 17:31:35 UTC_
         - [`🎶_book_discoverability_shift.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎶_book_discoverability_shift.md)
         - [`🎶_containment_by_review.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎶_containment_by_review.md)
         - [`🎶_dedication_absences_in_books.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎶_dedication_absences_in_books.md)
+        - [`🎶_does_your_mother_know_manosphere_remix.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎶_does_your_mother_know_manosphere_remix.md)
         - [`🎶_endorser_network_traces.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎶_endorser_network_traces.md)
         - [`🎶_hdz_lalgorithme_paroles.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎶_hdz_lalgorithme_paroles.md)
         - [`🎶_pirate_radio_as_policed_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎶_pirate_radio_as_policed_resistance.md)
