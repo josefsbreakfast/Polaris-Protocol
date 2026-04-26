@@ -17,6 +17,7 @@ lehman brothers - aug/sept
 "Satoshi Nakamoto" paper - oct  
 2009  
 2010  
+orban in again, new constitution without democratic announcment - april  
 2011  
 2012  
 2013  
@@ -34,3 +35,4 @@ brexit vote - june
 2024  
 2025  
 2026  
+orban out again - april
