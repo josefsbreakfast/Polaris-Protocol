@@ -110,10 +110,10 @@ It situates climate anxiety within broader dynamics of perception, identity, and
 
 > 📡 Cross-references:
 > 
-> - [💀 Collapse Ideology Pipelines]() — *pathways from crisis perception to rigid worldviews*  
-> - [🕊️ False Counter-Extremism Dialogues]() — *institutional framing of environmental concern*  
-> - [⚙️ Algorithmic Governance Nodes]() — *platform-driven amplification of emotional content*  
-> - [📣 Mainstream Visibility Gaps]() — *attention cycles shaping crisis perception*  
+> - [*Pending:* 💀 Collapse Ideology Pipelines] — *pathways from crisis perception to rigid worldviews*  
+> - [🕊️ False Counter-Extremism Dialogues](./🕊️_false_counter_extremism_dialogues.md) — *institutional framing of environmental concern*  
+> - [🔮 Visibility Indexing Anomalies](../../../../Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/README.md) — *platform-driven amplification of emotional content*  
+> - [📣 Mainstream Visibility Gaps](./📣_mainstream_visibility_gaps.md) — *attention cycles shaping crisis perception*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
