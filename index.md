@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-26 15:25:57 UTC_
+_Generated on 2026-04-26 16:40:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4556,6 +4556,23 @@ _Generated on 2026-04-26 15:25:57 UTC_
       - [`IMG_5417.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5417.png)
       - [`IMG_5418.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5418.png)
       - [`IMG_5419.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5419.png)
+      - [`IMG_5467.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5467.png)
+      - [`IMG_5468.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5468.png)
+      - [`IMG_5469.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5469.png)
+      - [`IMG_5470.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5470.png)
+      - [`IMG_5471.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5471.png)
+      - [`IMG_5472.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5472.png)
+      - [`IMG_5473.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5473.png)
+      - [`IMG_5474.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5474.png)
+      - [`IMG_5475.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5475.png)
+      - [`IMG_5476.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5476.png)
+      - [`IMG_5477.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5477.png)
+      - [`IMG_5478.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5478.png)
+      - [`IMG_5479.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5479.png)
+      - [`IMG_5480.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5480.png)
+      - [`IMG_5481.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5481.png)
+      - [`IMG_5482.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5482.png)
+      - [`IMG_5483.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5483.png)
     - [`20250828_racialisation_hijack.PNG`](Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
     - [`20251028_forcible_conversion_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
     - [`20251028_sexualised_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_sexualised_hijack.PNG)
