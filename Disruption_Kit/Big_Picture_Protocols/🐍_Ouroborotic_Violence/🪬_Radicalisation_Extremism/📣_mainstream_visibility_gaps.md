@@ -137,7 +137,7 @@ It treats visibility as a measurable and time-bound condition within media syste
 > 
 > - [🕊️ False Counter-Extremism Dialogues](./🕊️_false_counter_extremism_dialogues.md) — *managed public narratives*  
 > - [🌍 Climate Panic Routing](./🌍_climate_panic_routing.md) — *attention redirection dynamics*  
-> - [⚙️ Platform Containment Nodes]() — *algorithmic visibility shaping*  
+> - [🪅 Platform Sabotage](../../../../Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/README.md) — *algorithmic visibility shaping*  
 > - [🧨 Spectacle of Raids](./🧨_spectacle_of_raids.md) — *short-form visibility as substitute for sustained scrutiny*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
