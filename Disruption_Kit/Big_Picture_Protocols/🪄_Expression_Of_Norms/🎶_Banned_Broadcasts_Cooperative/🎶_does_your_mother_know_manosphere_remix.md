@@ -4,7 +4,7 @@
 
 ---
 
-> "I can see what you want –
+> "I can see what you want –  
 > But you seem pretty young to be searching for that kind of fun...  
 > So maybe I'm not the one?"  
 
@@ -86,7 +86,7 @@ It is about recognising **asymmetry of knowledge, experience, and consequence**.
 ---
 
 > "Now you're so cute, I like your style –  
-> And I know what you mean when you give me a flash of that smile..!
+> And I know what you mean when you give me a flash of that smile..!  
 > But girl, you're only a child."  
 
 ---
