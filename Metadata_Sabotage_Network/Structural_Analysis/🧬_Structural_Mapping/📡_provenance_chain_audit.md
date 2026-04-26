@@ -1,5 +1,5 @@
 # 📡 Provenance Chain Audit  
-**First created:** 2025-10-31 | **Last updated:** 2026-04-24  
+**First created:** 2025-10-31 | **Last updated:** 2026-04-26  
 *Tracing authorship, consent, and custody across the life of a digital record.*  
 
 ---
@@ -328,6 +328,10 @@ A process can be considered:
 
 📡 ⚖️ 🧾 🧠 — forensic trace · accountability · record integrity · system memory  
 
+*Further media:*  
+
+- [📹: ITV News: "We tracked the Mandelson vetting scandal, here's what we found"](https://youtu.be/_09IyCm_GMg?si=siKM468qjAYLI8NM) - *comprehensive chain of events with references to public domain information*  
+
 ---
 
 ## ✨ Stardust  
@@ -350,4 +354,4 @@ It establishes provenance as a condition of legitimacy, not an optional layer of
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-04-26_
