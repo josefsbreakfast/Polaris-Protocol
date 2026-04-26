@@ -105,34 +105,7 @@ The core risk is not abrupt regime change, but **gradual erosion of trust, accou
   - systemic policy effects,  
   - institutional failure, and  
   - intentional coordination  
-  remains analytically difficult and requires caution.  
-
----
-
-## ⚠️ Consequences of Inaction  
-
-- Declining public trust in institutions and democratic processes.  
-- Reduced willingness to engage with formal redress systems.  
-- Increased polarisation and susceptibility to misinformation or radicalisation narratives.  
-
----
-
-## 💫 Strategic Recommendation  
-
-Further scrutiny is most appropriately directed through established oversight mechanisms:  
-- Parliamentary select committees (e.g., Home Affairs, Intelligence and Security Committee)  
-- Independent regulators and commissioners  
-- Judicial review processes  
-- International human rights monitoring bodies where relevant  
-
-Priority should be placed on:  
-- transparency,  
-- proportionality in security policy,  
-- and restoring confidence in accountability systems.  
-
----
-
-> *“When oversight weakens and trust erodes, risk accumulates—not always through intent, but through the absence of effective constraint.”*
+  remains analytically difficult and requires caution.
 
 ---
 
@@ -186,8 +159,43 @@ This document prioritises high- and moderate-confidence evidence. Low-confidence
 
 ---
 
+## ⚠️ Consequences of Inaction  
+
+- Declining public trust in institutions and democratic processes.  
+- Reduced willingness to engage with formal redress systems.  
+- Increased polarisation and susceptibility to misinformation or radicalisation narratives.  
+
+---
+
+## 💫 Strategic Recommendation  
+
+Further scrutiny is most appropriately directed through established oversight mechanisms:  
+- Parliamentary select committees (e.g., Home Affairs, Intelligence and Security Committee)  
+- Independent regulators and commissioners  
+- Judicial review processes  
+- International human rights monitoring bodies where relevant  
+
+Priority should be placed on:  
+- transparency,  
+- proportionality in security policy,  
+- and restoring confidence in accountability systems.  
+
+---
+
+> *“When oversight weakens and trust erodes, risk accumulates—not always through intent, but through the absence of effective constraint.”*
+
+---
+
 ## 🌌 Constellations  
 🧭 ⚖️ 🧠 🛰️ — governance diagnostics; institutional risk mapping; democratic resilience analysis.  
+
+*Further reading & media:*  
+
+- [📹: MEE: "Despite this temporary security, Gill concludes that the prime minister
+400
+remains highly vulnerable. He describes Starmer as being "in office but not in power," predicting that the party may finally move to oust him following
+262
+anticipated losses in the upcoming May elections."
 
 ---
 
