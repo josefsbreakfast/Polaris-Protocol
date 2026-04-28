@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-28 09:46:39 UTC_
+_Generated on 2026-04-28 13:22:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5440,6 +5440,7 @@ _Generated on 2026-04-28 09:46:39 UTC_
       - [`🚷_ethical_withdrawal.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🚷_ethical_withdrawal.md)
       - [`🛠️_how_neutral_people_enable_authoritarian_tech.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🛠️_how_neutral_people_enable_authoritarian_tech.md)
       - [`🛡️_trusted_signals_checklist_male_allies.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🛡️_trusted_signals_checklist_male_allies.md)
+      - [`🥀_the_importance_of_being_very_earnest.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🥀_the_importance_of_being_very_earnest.md)
       - [`🧊_recalibrating_trust_after_racialised_gender_harm.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧊_recalibrating_trust_after_racialised_gender_harm.md)
       - [`🧊_the_care_cage.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧊_the_care_cage.md)
       - [`🧠_why_i_write_like_this.md`](Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🧠_why_i_write_like_this.md)
