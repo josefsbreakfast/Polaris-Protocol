@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-28 13:26:59 UTC_
+_Generated on 2026-04-28 14:18:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4665,6 +4665,14 @@ _Generated on 2026-04-28 13:26:59 UTC_
       - [`IMG_5788.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5788.png)
       - [`IMG_5789.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5789.png)
       - [`IMG_5890.jpeg`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5890.jpeg)
+      - [`IMG_5930.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5930.png)
+      - [`IMG_5931.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5931.png)
+      - [`IMG_5932.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5932.png)
+      - [`IMG_5933.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5933.png)
+      - [`IMG_5934.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5934.png)
+      - [`IMG_5935.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5935.png)
+      - [`IMG_5936.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5936.png)
+      - [`IMG_5937.png`](Disruption_Kit/Field_Logs/20260401_April_2026/IMG_5937.png)
     - [`20250828_racialisation_hijack.PNG`](Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
     - [`20251028_forcible_conversion_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
     - [`20251028_sexualised_hijack.PNG`](Disruption_Kit/Field_Logs/20251028_sexualised_hijack.PNG)
