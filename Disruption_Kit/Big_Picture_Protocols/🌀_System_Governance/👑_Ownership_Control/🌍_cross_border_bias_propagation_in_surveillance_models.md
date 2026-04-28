@@ -1,5 +1,5 @@
 # 🌍 Cross-Border Bias Propagation in Surveillance Models  
-**First created:** 2025-11-18 | **Last updated:** 2026-04-24  
+**First created:** 2025-11-18 | **Last updated:** 2026-04-28  
 *How behavioural data and risk models move between jurisdictions, carrying embedded bias across systems.*  
 
 ---
@@ -9,7 +9,7 @@ This node maps how surveillance systems exchange data and logic across borders.
 
 > **Bias does not remain local. It moves through vendors, datasets, procurement chains, and shared standards.**
 
-States and corporations routinely exchange:
+States and corporations exchange:
 
 - risk models  
 - behavioural classifiers  
@@ -21,6 +21,8 @@ States and corporations routinely exchange:
 When these systems move, the assumptions within them move as well.
 
 The result is not a single, fixed bias, but a **circulating baseline** reused across jurisdictions.
+
+This pattern is discussed in literature on algorithmic bias, transnational data governance, and vendor interoperability.
 
 ---
 
@@ -69,10 +71,10 @@ When flawed assumptions become widely cited, they propagate into multiple operat
 ### 4. **Diaspora Data Overlap**  
 Populations monitored across jurisdictions (e.g. diaspora communities) appear in multiple datasets.
 
-This creates:
+This can lead to:
 
 - repeated classification across systems,  
-- reinforcement of prior labels,  
+- potential reinforcement of prior labels,  
 - and cross-context consistency that may not reflect local reality.  
 
 ---
@@ -85,17 +87,17 @@ Cross-border exchange creates feedback between systems.
 - Imported tools reshape local classification practices.  
 - Outputs are then reabsorbed into shared pipelines.  
 
-This produces **reinforcing loops**, even where systems are formally independent.
+This can produce **reinforcing loops**, even where systems are formally independent.
 
 ---
 
 ## 📊 Case Example: Observed Effects (2024–2025)  
 
-During 2024–2025, there were observable shifts in how certain risk classifications and behavioural signals appeared across jurisdictions.
+During 2024–2025, there were reported or observable shifts in how certain risk classifications and behavioural signals appeared across jurisdictions.
 
 These included:
 
-- increased consistency in how specific communities were flagged across different national systems,  
+- apparent increased consistency in how specific communities were flagged across different national systems,  
 - convergence in “extremism” or “risk” labelling language,  
 - similar edge-case misclassifications appearing in otherwise distinct deployments.  
 
@@ -169,17 +171,17 @@ As a result:
 
 - reform in one node can carry operational risk,  
 - maintaining the status quo can appear safer,  
-- and embedded bias can persist through coordination rather than oversight.
+- and embedded bias can persist through coordination effects rather than direct oversight failure.
 
 ---
 
 ## 🌌 Constellations  
-🌍 👑 🧬 ⚖️ 🕸️ — transnational systems mapping; governance + accountability gaps  
+🌍 👑 🧬 ⚖️ 🕸️  
 
 ---
 
 ## ✨ Stardust  
-cross-border bias, surveillance systems, data propagation, metadata schemas, vendor ecosystems, model transfer, diaspora classification, calibration drift, accountability gaps  
+cross-border bias, surveillance systems, data propagation, metadata schemas, vendor ecosystems, model transfer, diaspora classification, calibration drift, accountability gaps, transnational systems mapping, governance and accountability gaps  
 
 ---
 
@@ -195,4 +197,4 @@ It maps how bias persists through system interoperability, shared standards, and
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-04-28_
