@@ -1,5 +1,5 @@
 # ⚖️ Shielded Roles and Information Risk Governance  
-**First created:** 2025-11-12 | **Last updated:** 2026-02-22  
+**First created:** 2025-11-12 | **Last updated:** 2026-04-28  
 *How risk-aggregation roles can become custodial bottlenecks when authority and transparency are misaligned.*
 
 ---
@@ -20,15 +20,17 @@ A SIRO typically sits at the convergence point of:
 
 The role aggregates exposure generated elsewhere.
 
+In UK public sector governance frameworks, SIRO roles are formally defined, yet operational authority varies significantly across departments and delivery models.
+
 Understanding that function changes how anonymity, accountability, and transparency should be evaluated.
 
 ---
 
-## 👑 I. Risk Aggregation vs Risk Creation  
+## 👑 Risk Aggregation vs Risk Creation  
 
 A central governance error is treating shielded risk roles as the origin of systemic failure.
 
-They are not.
+They are not typically the origin point of systemic failure.
 
 Information risk typically arises from:
 
@@ -38,15 +40,15 @@ Information risk typically arises from:
 - contractor design trade-offs,  
 - and policy-level ambiguity.
 
-The SIRO receives these conditions.
+The SIRO role typically receives these conditions.
 
-They rarely create them.
+The role rarely originates them.
 
 Accountability that stops at the aggregation point misidentifies custody.
 
 ---
 
-## 🧱 II. Why Anonymity Exists  
+## 🧱 Why Anonymity Exists  
 
 In many departments, SIRO identities are withheld under statutory exemptions (e.g., personal data or national security provisions).
 
@@ -72,7 +74,7 @@ It is whether anonymity is paired with structural transparency elsewhere.
 
 ---
 
-## 🧠 III. The Custodial Mismatch  
+## 🧠 The Custodial Mismatch  
 
 The SIRO often holds:
 
@@ -97,7 +99,7 @@ even if upstream design remains unchanged.
 
 ---
 
-## 🤫 IV. Shielding vs Buffering  
+## 🤫 Shielding vs Buffering  
 
 A shielded role can function in two very different ways:
 
@@ -111,7 +113,7 @@ A shielded role can function in two very different ways:
 - The individual is protected.  
 - The process is opaque.  
 - Escalation visibility is limited.  
-- Responsibility stops at the role.
+- Responsibility can appear to stop at the role.
 
 The difference is architectural, not personal.
 
@@ -119,7 +121,7 @@ Anonymity without process transparency turns a risk integrator into a reputation
 
 ---
 
-## 🔄 V. Rotation and Long-Tail Exposure  
+## 🔄 Rotation and Long-Tail Exposure  
 
 SIRO appointments are often rotational and time-bound.
 
@@ -135,7 +137,7 @@ Without continuity mechanisms, long-tail exposure lacks stable custodianship.
 
 ---
 
-## 🛠 VI. What a Healthy Model Requires  
+## 🛠 What a Healthy Model Requires  
 
 Anonymity and accountability are not mutually exclusive.
 
@@ -155,7 +157,7 @@ In such a model:
 
 ---
 
-## ⚖️ VII. Ownership & Control Implication  
+## ⚖️ Ownership & Control Implication  
 
 Shielded risk roles reveal a broader pattern:
 
@@ -209,4 +211,4 @@ It examines how protective anonymity interacts with ownership design — and how
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-04-28_
