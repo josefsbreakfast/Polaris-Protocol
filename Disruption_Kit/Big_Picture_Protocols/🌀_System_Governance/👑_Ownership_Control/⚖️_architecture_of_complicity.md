@@ -1,5 +1,5 @@
 # ⚖️ The Architecture of Complicity  
-**First created:** 2025-11-07 | **Last updated:** 2026-02-22  
+**First created:** 2025-11-07 | **Last updated:** 2026-04-28  
 *How accountability flows downward when sponsorship ownership is structurally fragmented.*
 
 ---
@@ -25,7 +25,7 @@ It is:
 
 ---
 
-## 👑 I. Downward Flow of Responsibility  
+## 👑 Downward Flow of Responsibility  
 
 Most modern legal systems are structured to prioritise:
 
@@ -50,7 +50,7 @@ It is jurisdictional segmentation.
 
 ---
 
-## 🧱 II. Jurisdictional Fragmentation  
+## 🧱 Jurisdictional Fragmentation  
 
 Responsibility is divided across:
 
@@ -65,11 +65,28 @@ When sponsorship crosses borders or spans multiple legal regimes, no single body
 
 Ownership diffuses.
 
-Complicity survives in the gaps between remits.
+Complicity can persist in the gaps between remits.
 
 ---
 
-## 🔬 III. Individualisation as Procedural Necessity  
+### 🔎 Contemporary Structural Pattern  
+
+This dynamic is reflected in multi-jurisdiction accountability processes, where different legal forums address distinct layers of a shared event.
+
+In such cases, proceedings may:
+
+- focus on directly actionable individuals within jurisdiction,  
+- operate under differing evidentiary thresholds,  
+- and maintain partial visibility over broader enabling structures.
+
+As a result, attribution can become unevenly distributed across legal layers,  
+with proximate actors more readily incorporated into formal accountability processes than upstream or cross-border contributors.
+
+This reflects structural limits of integration rather than any single point of failure.
+
+---
+
+## 🔬 Individualisation as Procedural Necessity  
 
 Legal frameworks require:
 
@@ -92,7 +109,7 @@ This is a procedural feature, not automatically a moral choice.
 
 ---
 
-## 💰 IV. Sponsorship Distance  
+## 💰 Sponsorship Distance  
 
 States and institutions frequently operate through:
 
@@ -105,17 +122,17 @@ These arrangements create operational distance between power and outcome.
 
 When harm surfaces, enforcement mechanisms focus on the actor within immediate jurisdiction.
 
-The sponsor remains:
+Sponsorship at that level remains:
 
 - legally complex,  
 - politically sensitive,  
 - or evidentially diffuse.
 
-Distance becomes protection.
+Distance can function as a form of protection.
 
 ---
 
-## 🧿 V. Selective Visibility and Archival Boundaries  
+## 🧿 Selective Visibility and Archival Boundaries  
 
 Accountability depends on what can be:
 
@@ -126,13 +143,13 @@ Accountability depends on what can be:
 
 Archival classification, diplomatic privilege, and national security exemptions shape what is visible to courts.
 
-Absence is often procedural before it is intentional.
+Absence is often procedural before it is intentional, within these frameworks.
 
 When upstream documentation is inaccessible, downstream prosecution becomes the only available channel.
 
 ---
 
-## 🎭 VI. The Containment Function of Trials  
+## 🎭 The Containment Function of Trials  
 
 High-profile prosecutions perform several stabilising roles:
 
@@ -151,7 +168,7 @@ where responsibility reaches the dock and stops.
 
 ---
 
-## 🤫 VII. Relationship to Collective Silence  
+## 🤫 Relationship to Collective Silence  
 
 The architecture is reinforced when:
 
@@ -165,7 +182,7 @@ Responsibility continues to flow downward.
 
 ---
 
-## ⚖️ VIII. Proportionality and Escalation Limits  
+## ⚖️ Proportionality and Escalation Limits  
 
 Proportional justice would require:
 
@@ -177,14 +194,14 @@ Current enforcement systems are rarely designed for upward escalation across sov
 
 As a result:
 
-- responsibility pools at the operational layer,  
-- insulation consolidates at the sponsorship layer.
+- responsibility tends to pool at the operational layer,  
+- insulation tends to consolidate at the sponsorship layer.
 
 This is architectural asymmetry.
 
 ---
 
-## 🛠 IX. Structural Countermeasures  
+## 🛠 Structural Countermeasures  
 
 Breaking this pattern requires:
 
@@ -216,20 +233,20 @@ complicity will remain structurally distributed and legally insulated.
 
 ## 🌌 Constellations  
 
-⚖️ 👑 🧱 🤫 🧠 — mandate fragmentation, sponsorship distance, custody diffusion, collective silence, accountability design.
+⚖️ 👑 🧱 🤫 🧠
 
 ---
 
 ## ✨ Stardust  
 
-architecture of complicity, sponsorship distance, mandate misfit, downward accountability flow, enablement liability, jurisdictional fragmentation, terminal justice, distributed responsibility
+architecture of complicity, sponsorship distance, mandate misfit, downward accountability flow, enablement liability, jurisdictional fragmentation, terminal justice, distributed responsibility, mandate fragmentation, sponsorship distance, custody diffusion, collective silence, accountability design  
 
 ---
 
 ## 🏮 Footer  
 
 *⚖️ The Architecture of Complicity* is a living node of the Polaris Protocol.  
-It examines how jurisdictional design and ownership fragmentation shape where accountability stops — and why systemic sponsorship often remains outside the primary enforcement frame.
+It examines how jurisdictional design and ownership fragmentation shape where accountability stops — and why systemic sponsorship often remains outside the primary enforcement frame.  
 
 > 📡 Cross-references:
 > 
@@ -239,4 +256,4 @@ It examines how jurisdictional design and ownership fragmentation shape where ac
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-04-28_
