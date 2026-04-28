@@ -1,6 +1,6 @@
 # 🌅 Rise of Institutional Integrity  
-**First created:** 2025-11-02 | **Last updated:** 2026-02-22  
-*How democratic systems relearn coherence after collapse — from translation to trust.*  
+**First created:** 2025-11-02 | **Last updated:** 2026-04-28  
+*How democratic systems may relearn coherence after collapse — from translation to trust.*  
 
 ---
 
@@ -10,7 +10,9 @@ If the fall of integrity is slow corrosion, the rise is painstaking translation.
 
 It’s the work of turning satire back into procedure and shock back into law.  
 
-This node traces the post-collapse repair curve: how meaning, legitimacy, and everyday reliability return.
+This node traces a common post-collapse repair curve: how meaning, legitimacy, and everyday reliability return.  
+
+The phases below describe a recurring pattern rather than a fixed timeline.
 
 ---
 
@@ -18,9 +20,9 @@ This node traces the post-collapse repair curve: how meaning, legitimacy, and ev
 
 | Mechanism | First Signs | Practical Outcome |
 |------------|-------------|------------------|
-| **Legal re-anchoring** | Courts test dormant clauses; emergency powers sunset | Rule of law works again, if shakily |
-| **Service triage** | Agencies audit chaos, rebuild baselines | People can get healthcare, housing, licences |
-| **Information hygiene** | Regulators reopen data, press free to contradict | Shared facts re-emerge |
+| **Legal re-anchoring** | Courts test dormant clauses; emergency powers sunset | Rule of law begins to function again, if shakily |
+| **Service triage** | Agencies audit chaos, rebuild baselines | People can access healthcare, housing, licences |
+| **Information hygiene** | Regulators reopen data, press free to contradict | Shared factual baselines begin to re-emerge |
 | **Tone return** | Officials rediscover plain speech | Bureaucracy stops speaking in riddles |
 
 ➡️ Result: institutions rediscover *function* but not yet *trust*.
@@ -33,7 +35,7 @@ This node traces the post-collapse repair curve: how meaning, legitimacy, and ev
 |------------|------------|----------------|
 | **Public reckonings** | Inquiries, hearings, open archives | Shame becomes possible again |
 | **Professional reform** | New codes in law, medicine, academia | Ethical muscle memory returns |
-| **Linguistic integrity** | Euphemism reversal; survivor tone preserved | Public can read documents without nausea |
+| **Linguistic integrity** | Euphemism reversal; survivor tone preserved | Public can read documents without distortion |
 | **Civic coalition** | NGOs + unions + councils coordinate | Distributed competence replaces hero politics |
 
 ➡️ Result: the system sounds human again. People begin to plan futures.
@@ -44,12 +46,12 @@ This node traces the post-collapse repair curve: how meaning, legitimacy, and ev
 
 | Mechanism | Behaviour | Long-term Outcome |
 |------------|------------|------------------|
-| **Cultural repair** | Schools, media, art re-teach empathy | Authoritarian aesthetics lose glamour |
+| **Cultural repair** | Schools, media, art re-teach empathy | Authoritarian aesthetics lose appeal |
 | **Procedural normality** | Appeals resolved; statistics routine | Predictability > charisma |
 | **International integration** | Re-entry into treaties, data standards | Peer accountability |
 | **Humour without fear** | Satire resurfaces as civic affection | The country can laugh at itself safely |
 
-➡️ Result: trust stabilises. Citizens assume decency by default again.
+➡️ Result: trust stabilises. Citizens may begin to assume baseline institutional decency again.
 
 ---
 
@@ -57,6 +59,8 @@ This node traces the post-collapse repair curve: how meaning, legitimacy, and ev
 
 > Recovery ≈ Duration of Erosion × 1.5 (to rebuild competence)  
 > Recovery ≈ Duration of Erosion × 2 (to rebuild trust)
+
+This is a heuristic, not a predictive formula.
 
 Example: Four years of erosion → six years for functionality, eight for confidence.  
 
@@ -98,7 +102,7 @@ institutional repair, democratic renewal, public trust, archival transparency, c
 ## 🏮 Footer  
 
 *🌅 Rise of Institutional Integrity* is a reconstruction node of the Polaris Protocol.  
-It maps how language, law, and trust are re-stitched after capture — and why the slow work still matters.  
+It maps how language, law, and trust are re-stitched after institutional degradation — and why the slow work still matters.  
 
 > 📡 Cross-references:
 > 
@@ -108,4 +112,4 @@ It maps how language, law, and trust are re-stitched after capture — and why t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-04-28_
