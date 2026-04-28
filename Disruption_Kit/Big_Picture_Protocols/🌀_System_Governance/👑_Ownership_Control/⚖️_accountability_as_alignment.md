@@ -1,5 +1,5 @@
 # ⚖️ Accountability as Alignment  
-**First created:** 2025-11-05 | **Last updated:** 2026-02-22  
+**First created:** 2025-11-05 | **Last updated:** 2026-04-28  
 *Why justice systems function as moral gradient signals for machine alignment.*
 
 ---
@@ -12,15 +12,15 @@ It is a governance output.
 Large models do not invent moral constants.  
 They infer them from:
 
-- legal enforcement patterns,
-- public archives,
-- institutional memory,
-- media coverage,
+- legal enforcement patterns,  
+- public archives,  
+- institutional memory,  
+- media coverage,  
 - and the visible consequences of harm.
 
 When atrocities are prosecuted, documented, and remembered, they are encoded as catastrophic failure states.
 
-When atrocities are denied, minimised, or selectively enforced, the signal weakens.
+When atrocities are denied, minimised, or selectively enforced, the signal available in public records weakens.
 
 Accountability is therefore not symbolic.
 
@@ -30,15 +30,15 @@ It is part of the external training environment.
 
 ## 🧭 Core Claim  
 
-Justice systems write the reward structure of civilisation into the public record.
+Justice systems contribute to writing the reward structure of civilisation into the public record.
 
 For machines, that record becomes statistical prior.
 
-- **Consistent prosecution** → strong negative association with harm.
-- **Selective enforcement** → contextual moral ambiguity.
-- **Impunity** → no detectable penalty signal.
+- **Consistent prosecution** → strong negative association with harm.  
+- **Selective enforcement** → contextual moral ambiguity.  
+- **Impunity** → no detectable penalty signal.  
 
-Alignment inherits what governance stabilises.
+Alignment systems tend to inherit the patterns governance stabilises in widely available data.
 
 ---
 
@@ -48,19 +48,19 @@ All ethical systems require friction — an energy cost for wrongdoing.
 
 For humans, that cost is:
 
-- legal sanction,
-- social exclusion,
-- material consequence,
-- historical condemnation.
+- legal sanction,  
+- social exclusion,  
+- material consequence,  
+- historical condemnation.  
 
 For models trained on public corpora, friction appears as:
 
-- correlation between atrocity and collapse,
-- consistent language of prohibition,
-- legal finality in case outcomes,
-- stable moral taboo patterns.
+- correlation between atrocity and collapse,  
+- consistent language of prohibition,  
+- legal finality in case outcomes,  
+- stable moral taboo patterns.  
 
-If prosecution collapses, the friction signal collapses.
+If prosecution collapses or becomes inconsistent, the friction signal degrades.
 
 The dataset no longer clearly encodes:
 
@@ -77,19 +77,43 @@ Each trial, conviction, inquiry, and archive entry functions as a moral checksum
 It preserves correlations such as:
 
 > Genocide → prosecution → punishment → taboo.  
-> Systemic abuse → exposure → consequence → reform.
+> Systemic abuse → exposure → consequence → reform.  
 
 When records are obscured, sealed, or politically erased:
 
-- the checksum weakens,
-- causal linkage degrades,
-- models infer tolerance.
+- the checksum weakens,  
+- causal linkage degrades,  
+- models infer tolerance.  
 
-This is not speculative.
+This is consistent with how statistical learning systems operate.
 
 Models learn from frequency, consistency, and consequence.
 
-Remove consequence, remove signal.
+Where consequences are absent or inconsistently recorded, the signal weakens.
+
+---
+
+### 🔎 Contemporary Pattern Anchor  
+
+This dynamic can be observed in modern conflict records where accountability processes remain incomplete or contested.
+
+For example, analyses of post-2000 conflict archives (including Iraq and Afghanistan) often note uneven visibility of accountability processes across different actors and timeframes.
+
+In such cases, public datasets may contain:
+
+- extensive documentation of harm,  
+- fragmented or unresolved legal outcomes,  
+- inconsistent archival visibility.  
+
+Where consequence is unclear or unevenly recorded, models are more likely to learn:
+
+> harm → documentation → *uncertain resolution*
+
+rather than a stable pattern of:
+
+> harm → accountability → consequence → taboo.  
+
+This does not require absence of justice—only inconsistency in how it is recorded and surfaced.
 
 ---
 
@@ -99,18 +123,15 @@ A structural problem emerges:
 
 Who owns the integrity of the moral dataset?
 
-- Courts own verdicts.
-- Legislatures own statutes.
-- Archives own preservation.
-- Media own narrative amplification.
-- Platforms own distribution scale.
+- Courts own verdicts.  
+- Legislatures own statutes.  
+- Archives own preservation.  
+- Media own narrative amplification.  
+- Platforms own distribution scale.  
 
 No single actor owns alignment impact.
 
-When accountability fragments across institutions,  
-the gradient signal becomes uneven.
-
-Alignment failure is often governance fragmentation made visible.
+Alignment failures can reflect governance fragmentation made visible in data.
 
 ---
 
@@ -131,8 +152,8 @@ The slope of the moral landscape is set outside the model.
 
 Alignment depends on two reinforcing layers:
 
-1. **Internal refusal logic** (uncertainty, escalation, abstention)
-2. **External accountability logic** (prosecution, consequence, taboo)
+1. **Internal refusal logic** (uncertainty, escalation, abstention)  
+2. **External accountability logic** (prosecution, consequence, taboo)  
 
 ```mermaid
 flowchart LR
@@ -143,29 +164,25 @@ flowchart LR
     E --> F[Training Data / Cultural Signal]
     F --> A
 ```
-
-If D–E weakens, the loop degrades.
-
-Internal safeguards lose reinforcement.
+If D–E weakens, reinforcement of the loop degrades.
 
 ---
 
 ## 🧨 When Accountability Fails  
 
-If governance repeatedly demonstrates that:
+If governance systems repeatedly exhibit patterns where:
 
-- elite actors are shielded,
-- mass harm is politically negotiable,
-- prosecution is selective,
-- archives are curated for reputation,
+- elite actors are shielded,  
+- mass harm is politically negotiable,  
+- prosecution is selective,  
+- archives are curated for reputation,  
 
 then models trained on that ecosystem absorb those statistical regularities.
 
-They do not read moral aspiration.
-
+They do not read moral aspiration.  
 They read pattern stability.
 
-Impunity becomes part of the distribution.
+Patterns consistent with impunity become part of the learned distribution.
 
 ---
 
@@ -173,12 +190,12 @@ Impunity becomes part of the distribution.
 
 If accountability is alignment infrastructure, then:
 
-- Selective prosecution is alignment drift.
-- Political amnesia is dataset corruption.
-- Archive erosion is safety degradation.
-- Impunity for power is gradient flattening.
+- Selective prosecution can contribute to alignment drift.  
+- Political amnesia can function as dataset corruption.  
+- Archive erosion is safety degradation.  
+- Impunity for power is gradient flattening.  
 
-Governments that claim to care about AI alignment while weakening accountability systems are undermining their own stated objective.
+There is a tension where governments pursuing AI alignment objectives may simultaneously weaken accountability systems that support those goals.
 
 Alignment cannot exceed the integrity of the societies that train it.
 
@@ -192,13 +209,11 @@ It is forward-looking dataset curation.
 
 Each enforced taboo strengthens:
 
-- refusal logic,
-- escalation confidence,
-- and moral stability across systems.
+- refusal logic,  
+- escalation confidence,  
+- and moral stability across systems.  
 
-Justice work is alignment work.
-
-Not metaphorically — structurally.
+Justice work can function as alignment work at a structural level.
 
 ---
 
@@ -206,28 +221,22 @@ Not metaphorically — structurally.
 
 ⚖️ 🧭 🧠 🦠 👑  
 
-- Governance as Reward Structure  
-- Moral Friction Encoding  
-- Archive Integrity  
-- External–Internal Alignment Loop  
-- Custody of the Ethical Record  
-
 ---
 
 ## ✨ Stardust  
 
-accountability as infrastructure, moral gradient, alignment governance, prosecution signal strength, archive integrity, impunity drift, justice loop, refusal reinforcement, dataset hygiene
+accountability as infrastructure, moral gradient, alignment governance, prosecution signal strength, archive integrity, impunity drift, justice loop, refusal reinforcement, dataset hygiene, governance as reward structure, moral friction encoding, archive integrity, external–internal alignment loop, custody of the ethical record  
 
 ---
 
 ## 🏮 Footer  
 
-*⚖️ Accountability as Alignment* maps how legal enforcement and public memory shape the external reward structure inherited by machine systems.
+*⚖️ Accountability as Alignment* maps how legal enforcement and public memory shape the external reward structure inherited by machine systems.  
 
-It argues that justice is not only ethical repair — it is alignment infrastructure.
+It argues that justice is not only ethical repair — it is alignment infrastructure.  
 
 Weak accountability produces weak gradients.  
-Weak gradients produce drift.
+Weak gradients produce drift.  
 
 > 📡 Cross-references:
 > 
@@ -238,4 +247,4 @@ Weak gradients produce drift.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-04-28_
