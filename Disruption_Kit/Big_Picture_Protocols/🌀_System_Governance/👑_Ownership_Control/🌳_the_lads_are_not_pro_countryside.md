@@ -1,6 +1,6 @@
 # 🌳 The Lads Are Not Pro-Countryside  
-**First created:** 2026-01-08 | **Last updated:** 2026-02-22  
-*How fragmented ownership and governance vacuums turned rural Britain into grievance terrain — and why rhetoric cannot substitute for stewardship.*
+**First created:** 2026-01-08 | **Last updated:** 2026-04-28  
+*How fragmented ownership and governance vacuums turned rural Britain into grievance terrain — and why rhetoric cannot substitute for stewardship.*  
 
 ---
 
@@ -192,38 +192,32 @@ Only one of those paths protects the land.
 
 🌳 👑 🧭 🧱 ⚖️  
 
-- Rural Sovereignty  
-- Governance Fragmentation  
-- Cross-Border Custody  
-- Infrastructure Accumulation  
-- Reactionary Capture  
-
 ---
 
 ## ✨ Stardust  
 
-rural governance gap, countryside sovereignty, county fragmentation, cumulative planning failure, infrastructure accumulation, extractive rural policy, land custodianship, alt-right capture risk
+rural governance gap, countryside sovereignty, county fragmentation, cumulative planning failure, infrastructure accumulation, extractive rural policy, land custodianship, alt-right capture risk, rural sovereignty, governance fragmentation, cross-border custody, infrastructure accumulation, reactionary capture  
 
 ---
 
 ## 🏮 Footer  
 
-*🌳 The Lads Are Not Pro-Countryside* reframes rural disenfranchisement as a failure of ownership and cross-regional control — not simply a culture war dispute.
+*🌳 The Lads Are Not Pro-Countryside* reframes rural disenfranchisement as a failure of ownership and cross-regional control — not simply a culture war dispute.  
 
-Where custodianship weakens, grievance hardens.
+Where custodianship weakens, grievance hardens.  
 
-The remedy is not louder identity.
+The remedy is not louder identity.  
 
 It is tighter governance.  
 
 > 📡 Cross-references:
 > 
 > - [👑 Ownership & Control](../README.md) — *custody gaps and remit fragmentation*
-> - [🕳️ The Pothole Problem](./🕳️_the_pothole_problem.md) — *infrastructure neglect through diffused responsibility*
-> - [🧨 We Are Already Paying the Cost](./🧨_we_are_already_paying_the_cost.md) — *how cumulative neglect becomes systemic expense*
-> - [🕸️ Food as National Infrastructure](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🕸️_food_as_national_infrastructure.md) — *rural continuity as sovereign obligation*
-> - [🌱 Land Trusts & Custodianship Models](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌱_land_trusts_custodianship_models.md) — *structural alternatives to fragmented land governance*
+> - [🕳️ The Pothole Problem](./🕳️_the_pothole_problem.md) — *infrastructure neglect through diffused responsibility*  
+> - [🧨 We Are Already Paying the Cost](./🧨_we_are_already_paying_the_cost.md) — *how cumulative neglect becomes systemic expense*  
+> - [🕸️ Food as National Infrastructure](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🕸️_food_as_national_infrastructure.md) — *rural continuity as sovereign obligation*  
+> - [🌱 Land Trusts & Custodianship Models](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌱_land_trusts_custodianship_models.md) — *structural alternatives to fragmented land governance*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-04-28_
