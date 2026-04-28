@@ -1,6 +1,6 @@
 # ⚖️ Acknowledgement Tradeoffs in Data Fixing  
-**First created:** 2025-11-12 | **Last updated:** 2026-02-22  
-*Why institutions repair systems without owning their history — and how custody avoidance reshapes accountability.*
+**First created:** 2025-11-12 | **Last updated:** 2026-04-28  
+*Why institutions repair systems without owning their history — and how custody avoidance reshapes accountability.*  
 
 ---
 
@@ -22,7 +22,7 @@ This node maps why correction frequently occurs without confession — and how t
 
 ---
 
-## 👑 I. The Custody Threshold  
+## 👑 The Custody Threshold  
 
 Repair restores functionality.  
 Acknowledgement assigns responsibility.
@@ -34,7 +34,7 @@ Once an institution publicly acknowledges that:
 - warnings were missed,  
 - or downstream actors relied on flawed inputs,
 
-it implicitly answers:
+it implicitly engages questions of:
 
 - Who owned the dataset?  
 - Who authorised its deployment?  
@@ -43,11 +43,11 @@ it implicitly answers:
 
 Acknowledgement collapses distributed responsibility into identifiable custodianship.
 
-That is the threshold institutions hesitate to cross.
+That is the threshold institutions often hesitate to cross. **[tightened]**
 
 ---
 
-## ⚖️ II. Why Repair Is Easier Than Admission  
+## ⚖️ Why Repair Is Easier Than Admission  
 
 From a governance perspective:
 
@@ -67,11 +67,11 @@ Public acknowledgement can trigger:
 Repair protects operability.  
 Acknowledgement redistributes exposure.
 
-Under fragmented ownership structures, forward repair is structurally incentivised; backward ownership is not.
+Under fragmented ownership structures, forward repair is structurally incentivised; backward ownership typically is not. **[tightened]**
 
 ---
 
-## 🧱 III. Mandate Misfit and Historical Accountability  
+## 🧱 Mandate Misfit and Historical Accountability  
 
 Most institutions are structured to optimise:
 
@@ -88,13 +88,12 @@ They are rarely structured to optimise:
 
 When no role is explicitly tasked with owning historical consequence, acknowledgement becomes discretionary rather than mandated.
 
-Silence, then, is not simply concealment.
-
-It is mandate absence.
+Silence, then, is not simply concealment.  
+It can reflect mandate absence. **[tightened]**
 
 ---
 
-## 🧠 IV. Narrative Containment as Risk Management  
+## 🧠 Narrative Containment as Risk Management  
 
 Institutions often reframe data failure as:
 
@@ -107,17 +106,17 @@ This language avoids assigning fault while signalling progress.
 
 From inside the system, this appears prudent.
 
-From outside — especially to those harmed during the flawed period — it reads as erasure.
+From outside — especially to those harmed during the flawed period — it may be experienced as erasure. **[tightened]**
 
 Both perceptions can coexist.
 
 ---
 
-## 🫀 V. Human Impact of Quiet Repair  
+## 🫀 Human Impact of Quiet Repair  
 
 When systems change without acknowledgement:
 
-- Early whistleblowers appear irrational in retrospect.  
+- Early whistleblowers may appear irrational in retrospect. **[tightened]**  
 - Affected communities lose testimonial validation.  
 - Adaptive safety behaviours remain frozen in place.  
 - Trust does not recover alongside functionality.
@@ -129,7 +128,7 @@ Quiet repair mitigates technical harm but can amplify relational harm.
 
 ---
 
-## ♻️ VI. Behavioural Drag and Unsignalled Safety  
+## ♻️ Behavioural Drag and Unsignalled Safety  
 
 When systems are unsafe, people adapt:
 
@@ -139,7 +138,7 @@ When systems are unsafe, people adapt:
 
 If risk conditions improve but acknowledgement never occurs, those adaptations persist.
 
-The result is:
+The result can include:
 
 - suppressed engagement,  
 - continued avoidance,  
@@ -150,12 +149,12 @@ Silence preserves caution.
 
 Without a formal signal that risk has changed, behaviour rationally remains defensive.
 
-This is not a communications failure.  
-It is a custody failure.
+This is not only a communications failure.  
+It can reflect a custody failure. **[tightened]**
 
 ---
 
-## ⚠️ VII. Consent and Experimental Governance  
+## ⚠️ Consent and Experimental Governance  
 
 In research-driven or pilot-based systems, this pattern carries additional risk.
 
@@ -165,13 +164,13 @@ Informed consent depends on:
 - understanding of impact,  
 - notification of change.
 
-If individuals were exposed to flawed systems, adapted accordingly, and improvements occur without disclosure, consent becomes retroactively incomplete.
+If individuals were exposed to flawed systems, adapted accordingly, and improvements occur without disclosure, consent may be rendered incomplete in retrospect. **[tightened]**
 
 Correction without acknowledgement sustains procedural legitimacy while weakening ethical legitimacy.
 
 ---
 
-## 🧩 VIII. Legal Exposure and Future Scaling  
+## 🧩 Legal Exposure and Future Scaling  
 
 As data-driven governance expands across sectors and borders, acknowledgement tradeoffs scale.
 
@@ -188,7 +187,7 @@ Silence at scale becomes systemic liability.
 
 ---
 
-## 🛠 IX. Structural Countermeasure  
+## 🛠 Structural Countermeasure  
 
 Ethical repair requires decoupling:
 
@@ -203,7 +202,7 @@ This means designing:
 - cross-silo harm integration roles,  
 - procurement clauses that anticipate foreseeable failure.
 
-Until responsibility is structurally de-risked, silence will remain the rational equilibrium — even among institutions acting in perceived good faith.
+Until responsibility is structurally de-risked, silence will remain a rational equilibrium — even among institutions acting in perceived good faith. **[tightened]**
 
 ---
 
@@ -223,13 +222,13 @@ repair will remain forward-facing and speech will remain minimal.
 
 ## 🌌 Constellations  
 
-⚖️ 👑 🧱 🧿 🧠 — acknowledgement risk, ownership collapse, mandate misfit, narrative containment, institutional cognition.
+⚖️ 👑 🧱 🧿 🧠  
 
 ---
 
 ## ✨ Stardust  
 
-acknowledgement tradeoffs, custody avoidance, forward repair bias, mandate fragmentation, silent correction, liability containment, governance architecture, informed consent erosion
+acknowledgement tradeoffs, custody avoidance, forward repair bias, mandate fragmentation, silent correction, liability containment, governance architecture, informed consent erosion, acknowledgement risk, ownership collapse, mandate misfit, narrative containment, institutional cognition  
 
 ---
 
@@ -237,7 +236,7 @@ acknowledgement tradeoffs, custody avoidance, forward repair bias, mandate fragm
 
 *⚖️ Acknowledgement Tradeoffs in Data Fixing* is a living node of the Polaris Protocol.  
 
-It examines how institutions balance operability against ownership — and how correction without custody reshapes accountability, trust, and historical record.
+It examines how institutions balance operability against ownership — and how correction without custody reshapes accountability, trust, and historical record.  
 
 > 📡 Cross-references:
 > 
@@ -247,4 +246,4 @@ It examines how institutions balance operability against ownership — and how c
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-04-28_
