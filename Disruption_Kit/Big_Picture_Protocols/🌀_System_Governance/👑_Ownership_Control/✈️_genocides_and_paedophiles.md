@@ -1,14 +1,14 @@
 # ✈️ Genocides and Paedophiles  
-**First created:** 2025-12-20 | **Last updated:** 2026-02-22  
-*Shared governance failure patterns in high-exposure harm contexts.*
+**First created:** 2025-12-20 | **Last updated:** 2026-04-28  
+*Shared governance failure patterns in high-exposure harm contexts.*  
 
 ---
 
 ## 🛰️ Orientation  
 
-This node examines a structural pattern observable across very different categories of harm:
+This node examines a structural pattern observable across distinct high-exposure harm contexts:
 
-When allegations implicate concentrated power networks, democratic systems sometimes shift from full-spectrum accountability to containment logic.
+When allegations implicate concentrated power networks, democratic systems can, in some cases, shift from full-spectrum accountability to containment logic.
 
 The comparison here is not moral equivalence between genocide and child sexual abuse.
 
@@ -19,11 +19,13 @@ The comparison concerns governance response architecture:
 - testimonial containment,  
 - and downward routing of liability.
 
-In both domains, the same custodial weaknesses can appear.
+In both domains, similar custodial weaknesses can appear.
+
+The comparison is limited strictly to governance response patterns under conditions of high exposure and does not extend to the nature or scale of the harms themselves.
 
 ---
 
-## 👑 I. The Exposure Threshold  
+## 👑 The Exposure Threshold  
 
 When harm allegations implicate:
 
@@ -45,20 +47,20 @@ to:
 
 This is the exposure threshold.
 
-Above it, governance systems may prioritise stability management over integrated truth processes.
+Above it, governance systems may, in some cases, prioritise stability management over integrated truth processes.
 
 ---
 
-## ⚖️ II. Downward Routing of Responsibility  
+## ⚖️ Downward Routing of Responsibility  
 
 In both atrocity contexts and elite sexual violence cases, a recurring pattern emerges:
 
 - Prosecution focuses on proximate actors.  
 - Sponsorship or enablement layers remain diffuse.  
 - Jurisdictional boundaries limit inquiry scope.  
-- Cross-institutional exposure is treated as “complex.”
+- Cross-institutional exposure is treated as “complex.”  
 
-Responsibility flows toward individuals within immediate legal reach.
+Responsibility tends to flow toward individuals within immediate legal reach.
 
 Upstream ownership remains fragmented.
 
@@ -66,7 +68,7 @@ This mirrors the broader architecture of complicity.
 
 ---
 
-## 🧱 III. Stability Framing as Risk Management  
+## 🧱 Stability Framing as Risk Management  
 
 In high-exposure cases, institutional language often includes:
 
@@ -83,26 +85,26 @@ Truth becomes sequenced, delayed, or compartmentalised.
 
 ---
 
-## 🤫 IV. Testimony Containment  
+## 🤫 Testimony Containment  
 
 In both domains, survivor testimony can encounter:
 
 - high evidentiary thresholds,  
 - procedural delay,  
 - jurisdictional deflection,  
-- credibility challenges.
+- credibility challenges.  
 
 This is not necessarily conspiratorial.
 
 It reflects systems designed for adversarial proof standards and institutional defensibility.
 
-However, when testimony threatens concentrated power, procedural friction intensifies.
+However, when testimony threatens concentrated power, procedural friction can intensify.
 
 The cumulative effect resembles containment.
 
 ---
 
-## 🧿 V. The Exception Gradient  
+## 🧿 The Exception Gradient  
 
 Democratic systems rely on the principle that no actor is above the law.
 
@@ -111,7 +113,7 @@ When certain individuals or networks become functionally difficult to prosecute 
 - geopolitical complexity,  
 - evidentiary opacity,  
 - institutional entanglement,  
-- or diplomatic sensitivity,
+- or diplomatic sensitivity,  
 
 an exception gradient forms.
 
@@ -123,7 +125,7 @@ This is a custodial ceiling.
 
 ---
 
-## 🧠 VI. Moral Desensitisation Through Partial Justice  
+## 🧠 Moral Desensitisation Through Partial Justice  
 
 Repeated patterns of:
 
@@ -139,13 +141,13 @@ Partial accountability becomes normalised.
 Over time, populations adapt to a model where:
 
 - justice occurs,  
-- but only within defined containment zones.
+- but only within defined containment zones.  
 
 This gradual adjustment reduces pressure for upward integration of responsibility.
 
 ---
 
-## 🔄 VII. Why the Comparison Matters  
+## 🔄 Why the Comparison Matters  
 
 The structural overlap is significant because it reveals:
 
@@ -160,7 +162,7 @@ The lesson is architectural, not rhetorical.
 
 ---
 
-## 🛠 VIII. Ownership & Control Implication  
+## 🛠 Ownership & Control Implication  
 
 The core issue is custodial design:
 
@@ -172,7 +174,7 @@ The core issue is custodial design:
 Without integration authority across power gradients,  
 accountability will cluster at the operational layer.
 
-Stability will consistently outweigh structural reckoning.
+Stability considerations may outweigh structural reckoning.
 
 ---
 
@@ -190,13 +192,13 @@ complicity becomes structural rather than episodic.
 
 ## 🌌 Constellations  
 
-✈️ ⚖️ 👑 🤫 🧱 — exposure thresholds, downward accountability flow, custodial ceilings, mandate fragmentation, collective silence.
+✈️ ⚖️ 👑 🤫 🧱  
 
 ---
 
 ## ✨ Stardust  
 
-exposure threshold, custodial ceiling, downward accountability, sponsorship fragmentation, testimonial containment, stability framing, mandate limits, governance architecture
+exposure threshold, custodial ceiling, downward accountability, sponsorship fragmentation, testimonial containment, stability framing, mandate limits, governance architecture, exposure thresholds, downward accountability flow, custodial ceilings, mandate fragmentation, collective silence  
 
 ---
 
@@ -214,4 +216,4 @@ It examines shared governance response patterns in high-exposure harm contexts �
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-04-28_
