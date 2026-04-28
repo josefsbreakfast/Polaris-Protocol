@@ -1,23 +1,23 @@
 # ⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure  
-**First created:** 2025-10-08 | **Last updated:** 2026-02-22  
+**First created:** 2025-10-08 | **Last updated:** 2026-04-28  
 *When custodianship collapses, communities either lose buildings — or reclaim them.*
 
 ---
 
 ## 🛰️ Orientation  
 
-Across England and Wales, church closures are accelerating.
+Across England and Wales, church closures have been increasing in recent years.
 
 Shrinking congregations, mounting maintenance costs, and charity-law duties to dispose “at best value” push trustees toward sale. In governance terms, this is rational.
 
 But something deeper is happening:
 
-Custodianship is being relinquished without being reassigned.
+Custodianship can be relinquished without being clearly reassigned.
 
 Public narrative often frames redundant churches as:
-- someone else’s problem,
-- inevitable decline,
-- or heritage overhead.
+- someone else’s problem,  
+- inevitable decline,  
+- or heritage overhead.  
 
 Yet in practice, many communities are quietly repurposing these buildings — through land trusts, co-operatives, and shared-use models.
 
@@ -25,7 +25,7 @@ This node examines redundant church property as a case study in **ownership drif
 
 ---
 
-## 👑 I. The Custodial Vacuum  
+## 👑 The Custodial Vacuum  
 
 When a congregation dissolves, multiple actors step back:
 
@@ -38,25 +38,25 @@ The result is not neglect by a single party.
 
 It is a custodial vacuum.
 
-Vacancy then produces:
+Vacancy can then produce:
 
 - physical decay,  
 - insurance liability,  
 - symbolic grievance,  
-- narrative exploitation.
+- narrative amplification.  
 
-Empty buildings become ideological artefacts.
+Empty buildings can become ideological artefacts.
 
 ---
 
-## 🧱 II. Sale as Procedural Triage  
+## 🧱 Sale as Procedural Triage  
 
 Under charity law, trustees must act in the organisation’s best financial interest.
 
 Leaving buildings idle:
 - drains funds,  
 - accelerates decay,  
-- increases legal exposure.
+- increases legal exposure.  
 
 Sale is often framed as betrayal.
 
@@ -70,43 +70,43 @@ Ownership collapses rather than transitions.
 
 ---
 
-## 🧨 III. Grievance Without Stewardship  
+## 🧨 Grievance Without Stewardship  
 
 Public discourse around church decline frequently centres on symbolic loss:
 
-- “Cultural erosion.”
-- “Attack on heritage.”
-- “Moral decay.”
+- “Cultural erosion.”  
+- “Loss of heritage.”  
+- “Moral decline.”  
 
 Yet symbolic outrage rarely translates into:
-- repair budgets,
-- volunteer maintenance,
-- planning applications,
-- trust formation,
-- or cooperative governance.
+- repair budgets,  
+- volunteer maintenance,  
+- planning applications,  
+- trust formation,  
+- cooperative governance.  
 
 Stewardship requires:
-- paperwork,
-- pluralism,
-- compromise,
-- long-term responsibility.
+- paperwork,  
+- pluralism,  
+- compromise,  
+- long-term responsibility.  
 
 Symbolic grievance requires none of these.
 
-Vacancy becomes politically useful precisely because it remains unused.
+Vacancy can become politically salient precisely because it remains unused.
 
 ---
 
-## 🌳 IV. The Civic Reclamation Path  
+## 🌳 The Civic Reclamation Path  
 
 In multiple UK communities, groups have:
 
 - formed Community Land Trusts,  
 - invoked Community Right to Bid mechanisms,  
 - negotiated below-market transfers,  
-- converted chapels into housing, food hubs, childcare spaces, and arts venues.
+- converted chapels into housing, food hubs, childcare spaces, and arts venues.  
 
-These acts require a degree of civic boldness —  
+These acts require a degree of civic initiative —  
 a willingness to assume ownership where institutions step back.
 
 This is not nostalgia.
@@ -115,7 +115,7 @@ It is custodial intervention.
 
 ---
 
-## 🏡 V. Working Models  
+## 🏡 Working Models  
 
 Existing frameworks already demonstrate feasibility:
 
@@ -131,31 +131,30 @@ Without it, market disposal remains the default.
 
 ---
 
-## 🐝 VI. Radicalisation and Vacancy  
+## 🐝 Radicalisation and Vacancy  
 
-Derelict civic buildings function as grievance amplifiers:
+Derelict civic buildings can function as grievance amplifiers:
 
 - visible evidence of decline,  
 - symbolic loss narratives,  
-- proof-of-failure imagery.
+- proof-of-failure imagery.  
 
 When repurposed visibly and locally, they instead function as:
 
 - shared-use infrastructure,  
 - cross-community gathering space,  
-- evidence of renewal.
+- evidence of renewal.  
 
-Counter-radicalisation is often framed as digital or policing strategy.
+Counter-radicalisation is often framed primarily as a digital or policing strategy.
 
-In practice, it is frequently architectural.
+In practice, it can also have an architectural dimension.
 
-Ownership stabilises belonging.
-
-Vacancy destabilises it.
+Ownership can stabilise belonging.  
+Vacancy can destabilise it.
 
 ---
 
-## 🔄 VII. Chutzpah and Suppressed Agency  
+## 🔄 Civic Initiative and Suppressed Agency  
 
 UK civic culture often defaults to:
 
@@ -167,7 +166,7 @@ But many successful reuse cases begin with:
 
 - residents forming trusts before being invited,  
 - community groups drafting proposals without formal mandate,  
-- volunteers taking responsibility ahead of institutional approval.
+- volunteers taking responsibility ahead of institutional approval.  
 
 This is not insubordination.
 
@@ -178,7 +177,7 @@ but only where governance structures allow legal footholds.
 
 ---
 
-## 🛠 VIII. Ownership & Control Implication  
+## 🛠 Ownership & Control Implication  
 
 Redundant church property exposes a broader governance tension:
 
@@ -187,16 +186,16 @@ Redundant church property exposes a broader governance tension:
 - Custodial transfer mechanisms are underdeveloped.  
 
 If ownership is not intentionally reassigned,  
-the market becomes the default custodian.
+ownership tends to default to market actors.
 
 Faith Land Trust models offer a middle path:
 
 - Protect the asset from vacancy.  
 - Maintain public or community use.  
 - Reduce grievance narratives.  
-- Anchor local belonging.
+- Anchor local belonging.  
 
-This is not about saving religion.
+This is not about preserving religion.
 
 It is about stabilising civic infrastructure through intentional custody transfer.
 
@@ -211,24 +210,19 @@ It is about stabilising civic infrastructure through intentional custody transfe
 - Does governance support transfer, or only disposal?  
 
 If no mechanism exists for reassignment,  
-ownership defaults to capital.
+ownership defaults to market actors.
 
 ---
 
 ## 🌌 Constellations  
 
-⛪️ 👑 🧱 🌳 🧿 — custodial transfer, infrastructure reuse, grievance mitigation, community land models, civic belonging.  
-
-*Further media:*  
-- Dan, Sam, & Will are raising money for Suffolk Historic Churches Trust [here](https://www.justgiving.com/page/ras2025?utm_medium=FR&utm_source=CL&fbclid=PAdGRleAM7sOJleHRuA2FlbQIxMQABp4e32f8-cYJWmDfrnFOY3xJoMbafJabvXp4aijOkIOXvmuFfnBQ_fOczkpYd_aem_JJgztLSGyxCeqtWcXuLvcAhttps%3A%2F%2Fwww.justgiving.com%2Fpage%2Fras2025%3Futm_medium%3DFR&utm_source=CL&fbclid=PAdGRleAM7sOJleHRuA2FlbQIxMQABp4e32f8-cYJWmDfrnFOY3xJoMbafJabvXp4aijOkIOXvmuFfnBQ_fOczkpYd_aem_JJgztLSGyxCeqtWcXuLvcA) and they talk about how the first leg of fundraising has gone [here, on Youtube](https://www.youtube.com/watch?v=W7Jw6dccD8k).
-  - It's already veru clear from comments on all platforms where they are sharing this story, that people in other countries are willing to pitch in even, showing the shared interest in keeping history exciting and alive and *present*.  
-- Many churches have been bought, upkept, and converted to masjids and mosques. A reminder to the Christians that [conversion of buildings within the Abrahimc faiths is really not new](https://www.youtube.com/watch?v=cZVIC1Pua1o&t=51s); for those concerned about consecration (because I'm sure that was the chief concern), all three faiths pray towards roughly the same direction, and this lends the buildings fairly uniquely to conversion within the sibling faiths.  
+⛪️ 👑 🧱 🌳 🧿  
 
 ---
 
 ## ✨ Stardust  
 
-faith land trust, custodial vacuum, community land trust, church closures, grievance infrastructure, ownership drift, asset disposal, civic reclamation, radicalisation mitigation, stewardship transfer
+faith land trust, custodial vacuum, community land trust, church closures, grievance infrastructure, ownership drift, asset disposal, civic reclamation, stewardship transfer, infrastructure reuse, custodial transfer, infrastructure reuse, grievance mitigation, community land models, civic belonging  
 
 ---
 
@@ -236,7 +230,7 @@ faith land trust, custodial vacuum, community land trust, church closures, griev
 
 *⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure* is a living node of the Polaris Protocol.  
 
-It examines how redundant faith buildings become sites of custodial drift — and how structured transfer to community-scale stewards can convert vacancy into belonging.
+It examines how redundant faith buildings become sites of custodial drift — and how structured transfer to community-scale stewards can convert vacancy into belonging.  
 
 > 📡 Cross-references:
 > 
@@ -246,4 +240,4 @@ It examines how redundant faith buildings become sites of custodial drift — an
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-04-28_
