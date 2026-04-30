@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-04-30 16:09:02 UTC_
+_Generated on 2026-04-30 22:04:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1153,6 +1153,7 @@ _Generated on 2026-04-30 16:09:02 UTC_
         - [`🇬🇧_why_the_uk_is_in_the_falklands.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_why_the_uk_is_in_the_falklands.md)
         - [`🇮🇱_zionism_is_racism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇮🇱_zionism_is_racism.md)
         - [`🇷🇺_the_end_of_russias_camp_era.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)
+        - [`🇺🇸🇬🇧_us_uk_group_easter_egg_hunt.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇺🇸🇬🇧_us_uk_group_easter_egg_hunt.md)
         - [`🌍_apartheid_algorithm_dependency_theory.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌍_apartheid_algorithm_dependency_theory.md)
         - [`🌍_when_virtual_minds_govern_a_physical_planet.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md)
         - [`🌏_brics_bridgework_middle_corridors.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_brics_bridgework_middle_corridors.md)
