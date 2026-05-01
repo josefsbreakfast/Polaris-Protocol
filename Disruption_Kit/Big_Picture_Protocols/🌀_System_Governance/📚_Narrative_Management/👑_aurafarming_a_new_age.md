@@ -8,3 +8,5 @@ It doesn't take a genius to work out then if the media would back off the Sussex
 There are easy wins that are hung incredibly low as fruit, and we are refusing to enjoy them.  
 
 You need to be paying attention to the comments on these videos, not just the videos themselves.  
+
+He does not simply act as the crown for the British state, he acts as monarch for the Commonwealth countries, and so yes you are about to see an entire International crowd show up in these comments and own that moment. in order to fully benefit from the aura effect, unity and that identity is required.
