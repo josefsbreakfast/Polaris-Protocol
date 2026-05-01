@@ -15,4 +15,10 @@ He does not simply act as the crown for the British state, he acts as monarch fo
 
 I'm not saying that I like the fact that Britishness is a brand, I'm telling you what your witnessing. This is the world we live in now.  
 
+[It genuinely thinks some of them are election ad videos.](https://vm.tiktok.com/ZNRgnJKJE/) That's not necessarily a bad thing, because of why it's picking that up.  
+
+This is one of those moments where British establishment would be served better by watching and analysing what's going on, and what changes things overtime.  
+
+"Let small fish fry."  
+
 ---
