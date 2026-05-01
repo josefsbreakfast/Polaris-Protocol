@@ -5,6 +5,6 @@ You don't need to commit to an opinion about the royal family to understand that
 You don't need to have an opinion on any of this, to understand that this is currently also or a farming by proxy not only for the royal family, but for British cultural export.  
 It doesn't take a genius to work out then if the media would back off the Sussexes for two seconds, we could access this a lot more easily. Whilst we obviously shouldn't want to interfere with anybody's family politics, we shouldn't be putting any boulders in the way there.  
 
-There are easy wins that are hung in incredibly low as fruit, and we are refusing to enjoy them.  
+There are easy wins that are hung incredibly low as fruit, and we are refusing to enjoy them.  
 
 You need to be paying attention to the comments on these videos, not just the videos themselves.  
