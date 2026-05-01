@@ -10,3 +10,9 @@ There are easy wins that are hung incredibly low as fruit, and we are refusing t
 You need to be paying attention to the comments on these videos, not just the videos themselves.  
 
 He does not simply act as the crown for the British state, he acts as monarch for the Commonwealth countries, and so yes you are about to see an entire International crowd show up in these comments and own that moment. in order to fully benefit from the aura effect, unity and that identity is required.
+
+[Clips like this that pre-exist and now also going to start looping into your algorithm if you start to engage in the former content, I need you to start watching how this is about algorithmic push of a brand.](https://vm.tiktok.com/ZNRgn1MSV/)  
+
+I'm not saying that I like the fact that Britishness is a brand, I'm telling you what your witnessing. This is the world we live in now.  
+
+---
