@@ -36,3 +36,9 @@ This is one of those moments where British establishment would be served better 
 If you can stop yourself from reacting in an immediate way (which is difficult, because we've essentially all learned to do so), you can start to watch how this is actually working and what the mechanisms are doing.  
 
 ---
+
+[I'm jealous, honestly. 🐓🐓🐓](https://vm.tiktok.com/ZNRgnAubY/)  
+
+The urban farming and communal garden seem coming out of America is extremely interesting, it has been for so many years, so yes I am saying that I'm jealous of him.  
+
+---
