@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-01 20:16:48 UTC_
+_Generated on 2026-05-01 20:53:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -803,6 +803,7 @@ _Generated on 2026-05-01 20:16:48 UTC_
       - [**🦎_Normalisation_Of_Redomination/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/)
         - [`IMG_5799.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/IMG_5799.png)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/README.md)
+        - [`🌷_limits_of_amab_led_subversion.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🌷_limits_of_amab_led_subversion.md)
         - [`👑_underinformed_sinker_of_ships_and_conspiracy_theorist.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/👑_underinformed_sinker_of_ships_and_conspiracy_theorist.md)
         - [`🩸_the_witch_wound_jeffery_and_women_in_stem.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🩸_the_witch_wound_jeffery_and_women_in_stem.md)
         - [`🪹_where_does_the_wind_take_the_feathers.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🪹_where_does_the_wind_take_the_feathers.md)
