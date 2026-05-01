@@ -42,3 +42,7 @@ If you can stop yourself from reacting in an immediate way (which is difficult, 
 The urban farming and communal garden seem coming out of America is extremely interesting, it has been for so many years, so yes I am saying that I'm jealous of him.  
 
 ---
+
+[AliMcForever is covering some relevant history and weaving this in to the present day.](https://vm.tiktok.com/ZNRgWWH8c/) The first is also v relevant.  
+
+---
