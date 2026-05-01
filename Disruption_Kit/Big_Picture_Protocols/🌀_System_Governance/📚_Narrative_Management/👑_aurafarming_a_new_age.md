@@ -23,4 +23,6 @@ This is one of those moments where British establishment would be served better 
 
 [When you see the sartorial discussion, you need to understand that this is part of how political discussions happen, primarily in femme-coded spaces, and if you're looking for the reference to the yellow dress compare the pink dress too, this is it.](https://vm.tiktok.com/ZNRgnhj31/)  
 
+[A good example of the comments as an anchor for sentiment, in one of the new items.](https://vm.tiktok.com/ZNRgn84tX/)  
+
 ---
