@@ -1,0 +1,1 @@
+[if you are in Britain, and you want to understand what public relations looks like in the digital age, you need to understand precisely why this video is part of what ought to have been intended of an outcome of any major speech, and why they should reassure you if you are a royalist.](https://vm.tiktok.com/ZNRgtTVKv/)  
