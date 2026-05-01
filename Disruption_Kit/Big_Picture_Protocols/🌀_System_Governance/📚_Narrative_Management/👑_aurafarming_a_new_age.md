@@ -26,3 +26,7 @@ This is one of those moments where British establishment would be served better 
 [A good example of the comments as an anchor for sentiment, in one of the new items.](https://vm.tiktok.com/ZNRgn84tX/)  
 
 ---
+
+[An interesting side-effect of this is that this even act as some helpful shielding, potentially, for specific US factions.](https://vm.tiktok.com/ZNRgn2b46/) It's also just a very difficult to keep holding out on the entirety of DHS security funding, if you're trying to pass of a state visit is being a really good thing, and so what do you know? At least *some* of that ICE money has been witheld *for now*. I want to update a number of the really big new stories that have been going on this week in nodes, so I'm just pinning this for refs.  
+
+---
