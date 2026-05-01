@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-01 15:46:26 UTC_
+_Generated on 2026-05-01 16:06:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -503,6 +503,7 @@ _Generated on 2026-05-01 15:46:26 UTC_
         - [`🐎_pianos_and_horses.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🐎_pianos_and_horses.md)
         - [`🐐_old_school_scapegoating.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🐐_old_school_scapegoating.md)
         - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👁️_panopticon_as_industry.md)
+        - [`👑_aurafarming_a_new_age.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👑_aurafarming_a_new_age.md)
         - [`💄_the_dumb_blonde_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💄_the_dumb_blonde_protocol.md)
         - [`💣_trident_as_modern_kraken_security_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💣_trident_as_modern_kraken_security_theatre.md)
         - [`💥_reputational_insurance_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💥_reputational_insurance_collapse.md)
