@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Overview  
+## 🛰️ Overview  
 
 The **Narrative Omission Loop** describes a recurring failure mode in news coverage where a key piece of context is consistently absent across multiple reporting cycles.
 
@@ -15,7 +15,7 @@ This node provides a **rapid diagnostic tool** to identify and classify those om
 
 ---
 
-## 🔀 Diagnostic Flow  
+## 🩺 Diagnostic Flow  
 
 ```
 
@@ -108,6 +108,111 @@ Apply the flow when:
 - coverage evolves without addressing an obvious gap  
 
 Time-to-use target: **under 30 seconds**
+
+---
+
+## 🧪 Case Study — Narrative Escalation Under Uncertainty  
+
+A stabbing incident was widely reported with the framing:
+> “Two Jewish men were stabbed”
+
+However, the fuller known context included:
+- Three victims (not two)  
+- Two victims were Jewish  
+- One victim was Muslim  
+- The attacker was reported to be acutely mentally unwell (unconfirmed at early stages)  
+
+---
+
+### 🔍 Observed Narrative Shift  
+
+Initial reporting emphasised:
+- Jewish identity of two victims  
+
+Subsequent political framing escalated to:
+- arguments about protests  
+- calls for restrictions on public demonstrations  
+
+---
+
+### 🔀 Flow Application  
+
+**Q1 — Cross-outlet repetition?**  
+→ YES — framing consistent across multiple sources  
+
+**Q2 — Source-level origin?**  
+→ LIKELY — early emphasis on identity markers  
+
+**Q3 — Risk-sensitive omission?**  
+→ PARTIAL — including full victim set complicates interpretation  
+
+**Q4 — Frame disruption?**  
+→ YES — inclusion of:
+   - third (Muslim) victim  
+   - attacker mental state  
+   destabilises a single-axis “targeted hate” narrative  
+
+**Q5 — Audience optimisation?**  
+→ YES — simplified framing increases clarity and emotional salience  
+
+---
+
+### 🧩 Omission Type  
+
+→ **Composite Omission**  
+- Narrative inertia (identity-led framing)  
+- Audience optimisation (simplification)  
+- Partial source-level propagation  
+
+---
+
+### ⚠️ Escalation Failure  
+
+The incident was used to justify:
+- policy arguments unrelated to confirmed causal factors  
+
+This represents a secondary pattern:
+
+> **Narrative Escalation Before Causal Confirmation**
+
+Where:
+- an incomplete or ambiguous event  
+- is used to support broad political conclusions  
+
+---
+
+### 🧭 Diagnostic Insight  
+
+Key instability signals:
+- Mixed victim identities  
+- Unclear or evolving attacker motive  
+- Rapid transition from event → policy argument  
+
+These indicate:
+> **Low causal certainty + high narrative pressure**
+
+---
+
+### 🧱 Principle  
+
+If a single incident:
+- supports multiple conflicting interpretations  
+- and lacks confirmed motive  
+
+→ it **cannot reliably justify a specific policy response**
+
+---
+
+### 🧠 Correction Frame  
+
+A structurally sound formulation would be:
+
+> “Three people were stabbed. Two victims were Jewish. Authorities are investigating motive, including the attacker’s mental state.”
+
+This preserves:
+- factual completeness  
+- relevant identity context  
+- epistemic uncertainty  
 
 ---
 
