@@ -48,7 +48,8 @@
 - [Viral campaigns](https://vm.tiktok.com/ZNdTet2Lk/) are increasingly capable of forcing rapid political response; current positioning is reactive rather than anticipatory.  
 - The [Grand Egyptian Museum](https://vm.tiktok.com/ZNdTebHHf/) is now open while contested Egyptian artefacts remain in UK collections.  
 - Emerging narratives (e.g. #BringThemBack) are worth monitoring for amplification dynamics and framing shifts. Translation drift and overlay text already show how messaging can be subtly reframed in circulation.  
-- - [Related: "New York officials return more than 650 antiquities valued at $14m to India"](https://www.theguardian.com/us-news/2026/apr/30/new-york-return-antiquities-india).  
+- [Related: "New York officials return more than 650 antiquities valued at $14m to India"](https://www.theguardian.com/us-news/2026/apr/30/new-york-return-antiquities-india). After answering press, Zohran Mamdani as NYC Mayor stated he would encourage return of the Koh-i-Noor, a large previous stone mined from Andhra Pradesh, which has several legal contestants. 
+- For British readers, the tldr on why we *shouldn't* maintain possession, even if the appropriate party to hold the return were unclear, is rooted primarily in its acquistion by the East India Company, in context of the activities of that venture. The Koh-i-Noor was acquired after the Second Anglo-Sikh War and subsequent annexation of Punjab to British Raj territory.  
 
 ---
 
