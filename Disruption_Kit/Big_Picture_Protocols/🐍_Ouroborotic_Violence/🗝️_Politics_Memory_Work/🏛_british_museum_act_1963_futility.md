@@ -1,5 +1,5 @@
 # 🏛 British Museum Act (1963 Futility)  
-**First created:** 2025-09-13 | **Last updated:** 2025-11-01  
+**First created:** 2025-09-13 | **Last updated:** 2026-05-02  
 *How a statute written in the afterglow of empire turned looted artefacts into a permanent collection, locking restitution into a cycle of exhaustion and denial.*
 
 ---
@@ -51,7 +51,8 @@
 - The [Grand Egyptian Museum](https://vm.tiktok.com/ZNdTebHHf/) has opened already, and we hold Egyptian pieces with contestable legal status.
 - The trending hashtag would be interesting to watch for potential interference: #BringThemBack.
 - Care with how the automated text is already obscuring the translation from Egyptian Arabic: "Not by the force of violence, but by the force of our people's will", has already been overlaid by text which could imply on preexisting white bias, to include "by force" more generally.
-- Funny how these things come up repeatedly, no?  
+- Funny how these things come up repeatedly, no?
+- [Related: "New York officials return more than 650 antiquities valued at $14m to India"](https://www.theguardian.com/us-news/2026/apr/30/new-york-return-antiquities-india)  
 
 ---
 
@@ -67,4 +68,4 @@ It documents how statute itself can become a containment script: freezing theft 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2026-05-02_
