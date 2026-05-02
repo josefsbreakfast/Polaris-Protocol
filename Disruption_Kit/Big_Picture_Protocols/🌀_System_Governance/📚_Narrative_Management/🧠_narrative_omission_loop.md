@@ -217,18 +217,23 @@ This preserves:
 ---
 
 ## 🌌 Constellations  
-🧠 🧩 🪞 ⚖️ — cognitive framing, pattern detection, narrative distortion, institutional pressure mapping  
+🧠 🧩 🪞 ⚖️  
+
+*Related media:*  
+
+- [📹: BBC: "Golders Green stabbing suspect in court on three charges of attempted murder"](https://www.bbc.co.uk/news/articles/c3r2lr434wlo)  
 
 ---
 
 ## ✨ Stardust  
-media analysis, narrative framing, omission bias, journalism diagnostics, information flow, structural bias, news cycles, framing effects  
+media analysis, narrative framing, omission bias, journalism diagnostics, information flow, structural bias, news cycles, framing effects, cognitive framing, pattern detection, narrative distortion, institutional pressure mapping  
 
 ---
 
 ## 🏮 Footer  
 
 *🧠 Narrative Omission Loop* is a diagnostic node within the **Polaris Protocol**, mapping how systemic pressures shape what is left unsaid in public information systems.  
+
 It functions as a rapid assessment tool for identifying structural gaps in narrative construction.
 
 > 📡 Cross-references:
