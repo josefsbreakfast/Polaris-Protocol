@@ -1,7 +1,7 @@
 # 🧠 Narrative Omission Loop  
 **First created:** 2026-05-02 | **Last updated:** 2026-05-02  
-*Diagnostic flow for identifying persistent omissions in news narratives and tracing their structural causes*
-
+*Diagnostic flow for identifying persistent omissions in news narratives and tracing their structural causes.*
+<!--I am embarrassed but unsurprised with how poorly this is being reported by mainstream news vehicles.-->
 ---
 
 ## 🛰️ Overview  
@@ -100,7 +100,7 @@ This tool is designed to:
 
 ---
 
-## 🧪 Usage  
+## 🐦‍⬛ Usage  
 
 Apply the flow when:
 - a story feels incomplete but widely consistent  
