@@ -207,7 +207,7 @@ If a single incident:
 
 A structurally sound formulation would be:
 
-> “Three people were stabbed. Two victims were Jewish. Authorities are investigating motive, including the attacker’s mental state.”
+> “Three people were stabbed. Two victims were Jewish, one was Muslim. Authorities are investigating motive, including the attacker’s mental state.”
 
 This preserves:
 - factual completeness  
@@ -228,7 +228,7 @@ media analysis, narrative framing, omission bias, journalism diagnostics, inform
 
 ## 🏮 Footer  
 
-*Narrative Omission Loop* is a diagnostic node within the **Polaris Protocol**, mapping how systemic pressures shape what is left unsaid in public information systems.  
+*🧠 Narrative Omission Loop* is a diagnostic node within the **Polaris Protocol**, mapping how systemic pressures shape what is left unsaid in public information systems.  
 It functions as a rapid assessment tool for identifying structural gaps in narrative construction.
 
 > 📡 Cross-references:
