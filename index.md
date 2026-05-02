@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-02 15:55:08 UTC_
+_Generated on 2026-05-02 15:58:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6756,6 +6756,10 @@ _Generated on 2026-05-02 15:55:08 UTC_
       - [`🧬_stem_as_free_alt_to_fancy_pedagogy.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🧬_stem_as_free_alt_to_fancy_pedagogy.md)
       - [`🩼_let_us_make_crutches.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🩼_let_us_make_crutches.md)
       - [`🪏_right_to_repair_economic_good.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🪏_right_to_repair_economic_good.md)
+    - [**🤖_AI_Beyond_AI/**](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/)
+      - [`README.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/README.md)
+      - [`🐧_ai_as_conservator_assistant.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🐧_ai_as_conservator_assistant.md)
+      - [`🩰_crafting_datacentre_balance.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🩰_crafting_datacentre_balance.md)
     - [`README.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/README.md)
     - [`💎_therapeutic_sandbox.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/💎_therapeutic_sandbox.md)
     - [`💧_sludgy_solutions.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/💧_sludgy_solutions.md)
