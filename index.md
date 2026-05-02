@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-01 20:57:08 UTC_
+_Generated on 2026-05-02 15:29:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6741,6 +6741,8 @@ _Generated on 2026-05-01 20:57:08 UTC_
   - [`README.md`](👻_Apparitional_Objects/README.md)
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
   - [**❤️‍🩹_Rehabilitated_Tech/**](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/)
+    - [**🌷_Opening_The_Source/**](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/)
+      - [`🔮_cyberdecks_against_masc_centric_tech.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🔮_cyberdecks_against_masc_centric_tech.md)
     - [`README.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/README.md)
     - [`💎_therapeutic_sandbox.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/💎_therapeutic_sandbox.md)
     - [`💧_sludgy_solutions.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/💧_sludgy_solutions.md)
