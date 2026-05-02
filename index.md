@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-02 15:31:00 UTC_
+_Generated on 2026-05-02 15:33:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6743,6 +6743,7 @@ _Generated on 2026-05-02 15:31:00 UTC_
   - [**❤️‍🩹_Rehabilitated_Tech/**](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/)
     - [**🌷_Opening_The_Source/**](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/)
       - [`🍓_raspberry_pi_as_gateway_drug.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🍓_raspberry_pi_as_gateway_drug.md)
+      - [`🔬_why_90s_british_programmers_were_like_that.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🔬_why_90s_british_programmers_were_like_that.md)
       - [`🔮_cyberdecks_against_masc_centric_tech.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🔮_cyberdecks_against_masc_centric_tech.md)
       - [`🧬_stem_as_free_alt_to_fancy_pedagogy.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🧬_stem_as_free_alt_to_fancy_pedagogy.md)
     - [`README.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/README.md)
