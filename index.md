@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-02 15:35:13 UTC_
+_Generated on 2026-05-02 15:37:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6742,7 +6742,10 @@ _Generated on 2026-05-02 15:35:13 UTC_
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
   - [**❤️‍🩹_Rehabilitated_Tech/**](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/)
     - [**🌷_Opening_The_Source/**](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/)
+      - [`🌦️_for_and_against_cloudbusting.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🌦️_for_and_against_cloudbusting.md)
       - [`🍓_raspberry_pi_as_gateway_drug.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🍓_raspberry_pi_as_gateway_drug.md)
+      - [`💸_the_economic_argument_for_dicking_around.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/💸_the_economic_argument_for_dicking_around.md)
+      - [`📻_reclaiming_radio_space.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/📻_reclaiming_radio_space.md)
       - [`🔬_why_90s_british_programmers_were_like_that.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🔬_why_90s_british_programmers_were_like_that.md)
       - [`🔮_cyberdecks_against_masc_centric_tech.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🔮_cyberdecks_against_masc_centric_tech.md)
       - [`🛠️_maker_movements_and_hackspaces.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🛠️_maker_movements_and_hackspaces.md)
