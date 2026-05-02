@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-02 15:44:00 UTC_
+_Generated on 2026-05-02 15:45:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6743,6 +6743,7 @@ _Generated on 2026-05-02 15:44:00 UTC_
   - [**❤️‍🩹_Rehabilitated_Tech/**](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/)
     - [**🌷_Opening_The_Source/**](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/)
       - [`🌦️_for_and_against_cloudbusting.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🌦️_for_and_against_cloudbusting.md)
+      - [`🍎_coding_dyslexic.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🍎_coding_dyslexic.md)
       - [`🍓_raspberry_pi_as_gateway_drug.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🍓_raspberry_pi_as_gateway_drug.md)
       - [`🐦‍⬛_naturewatching_as_natural_tech_ally.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🐦‍⬛_naturewatching_as_natural_tech_ally.md)
       - [`💸_the_economic_argument_for_dicking_around.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/💸_the_economic_argument_for_dicking_around.md)
