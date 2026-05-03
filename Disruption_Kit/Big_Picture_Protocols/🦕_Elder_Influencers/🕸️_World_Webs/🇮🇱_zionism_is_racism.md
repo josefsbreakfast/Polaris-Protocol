@@ -1,5 +1,5 @@
 # 🇮🇱 Zionism Is Racism  
-**First created:** 2026-02-01 | **Last updated:** 2026-02-01  
+**First created:** 2026-02-01 | **Last updated:** 2026-05-04  
 *Why Zionism functions as a racial ideology and practice under international anti-racism frameworks*
 
 ---
@@ -160,4 +160,4 @@ It documents the structural basis for identifying Zionism as a racist ideology a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-01_
+_Last updated: 2026-05-04_
