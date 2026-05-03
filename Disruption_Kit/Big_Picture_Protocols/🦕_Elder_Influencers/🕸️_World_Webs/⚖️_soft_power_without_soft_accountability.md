@@ -4,12 +4,12 @@
 
 ---
 
-## 🧭 Orientation
+## 🛰️ Orientation
 Soft power is the art of influence without force—persuasion through culture, reputation, and trust. When that influence meets weak governance it becomes **untraceable diplomacy**, an economy of goodwill that leaves no receipts. This node analyses the paradox of prestige diplomacy in Britain: the more symbolic the act, the less it is audited, producing a system of *soft power without soft accountability*.  
 
 ---
 
-## 🧩 The Prestige Paradox
+## ✨ The Prestige Paradox
 The very qualities that make soft power attractive—charm, ceremony, informality—also make it **unrecordable**. A lunch, a letter, a photograph at a gala each carries diplomatic weight, yet none generate an audit trail. The United Kingdom has turned this into a cultural technology: from royal tours to academic partnerships, from NGOs to venture showcases, the handshake becomes policy—but only symbolically. Responsibility dissolves into protocol; intent evaporates into civility.
 
 > “The British state perfected influence so gentle it can’t be prosecuted.”
