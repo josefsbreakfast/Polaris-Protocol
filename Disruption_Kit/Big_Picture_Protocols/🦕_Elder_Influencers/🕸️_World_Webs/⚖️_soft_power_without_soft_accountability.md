@@ -87,10 +87,10 @@ It maps how Britain’s prestige‑based diplomatic architecture can operate wit
 
 > 📡 Cross‑references:
 > 
-> - [⚖️ Monarchical Neutrality as Structural Vulnerability](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_monarchical_neutrality_as_structural_vulnerability.md) — *related analysis of symbolic neutrality as a structural weakness*  
-> - [☕️ Tea, Toast, and Transparenc](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☕️_tea_toast_and_transparency.md) — *example of cultural coping mechanisms*  
-> - [🌍 Deregulation as Diplomatic Infrastructure](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🌍_deregulation_as_diplomatic_infrastructure.md) — *macro‑framework for prestige‑driven deregulation* 
-> - [🏏 Pitch at Palace Audit Practice](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/README.md) — *micro‑case studies of prestige‑diplomacy audits*  
+> - [⚖️ Monarchical Neutrality as Structural Vulnerability](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_monarchical_neutrality_as_structural_vulnerability.md) — *related analysis of symbolic neutrality as a structural weakness*  
+> - [☕️ Tea, Toast, and Transparenc](../../🌀_System_Governance/💫_Containment_Logic/☕️_tea_toast_and_transparency.md) — *example of cultural coping mechanisms*  
+> - [🌍 Deregulation as Diplomatic Infrastructure](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🌍_deregulation_as_diplomatic_infrastructure.md) — *macro‑framework for prestige‑driven deregulation* 
+> - [🏏 Pitch at Palace Audit Practice](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/README.md) — *micro‑case studies of prestige‑diplomacy audits*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
