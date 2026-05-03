@@ -25,7 +25,36 @@ The anchor case is the reduction of US troop presence in Germany, occurring alon
 
 This is not read as a discrete military adjustment.
 
-It is read as a **signal about the stability of alliance commitments**.
+It is read as a **signal about the reliability of alliance commitments**.
+
+---
+
+## 👁️ Core Mechanism  
+
+Alliance behaviour operates through signalling:
+
+> Actions directed at one ally are used by all allies to update expectations about system reliability.
+
+This creates a dynamic where:
+
+- decisions are interpreted beyond their immediate context  
+- trust adjusts across the network  
+- local actions generate system-wide effects  
+
+---
+
+## 🔁 Signal Propagation  
+
+Alliance behaviour is non-local.
+
+An action affecting one ally is interpreted by all.
+
+This produces:
+- conditional trust  
+- hedging behaviour  
+- shifts in long-term planning  
+
+> What affects one node reshapes the entire system.
 
 ---
 
@@ -44,7 +73,7 @@ Its central position allows:
 - stable infrastructure for long-term basing  
 
 > Germany is not the frontline.  
-> It is where the alliance prepares to act.
+> It is where the alliance organises before acting.
 
 ---
 
@@ -55,9 +84,9 @@ UK defence does not operate in isolation.
 It depends on shared alliance systems, including:
 - logistics and transport networks  
 - coordinated air operations  
-- deployment pathways into Eastern Europe  
+- deployment pathways across the European theatre  
 
-In practice, British capability is strengthened by infrastructure based in Germany.
+In practice, British capability is enabled by infrastructure based in Germany.
 
 Changes in Germany affect:
 - deployment speed  
@@ -86,22 +115,7 @@ Other locations provide distribution.
 > The system depends on both.
 
 Reducing Germany’s role does not simply “spread power.”  
-It risks weakening the coordination core.
-
----
-
-## 🔁 Signal Propagation  
-
-Alliance behaviour is non-local.
-
-An action affecting one ally is interpreted by all.
-
-This produces:
-- conditional trust  
-- hedging behaviour  
-- shifts in long-term planning  
-
-> What affects one node reshapes the entire system.
+It risks degrading the coordination core.
 
 ---
 
@@ -114,7 +128,7 @@ This is not a one-off event.
 - reinforcement following escalation in Ukraine  
 - 2026: renewed reduction  
 
-> Repetition transforms signal into pattern.
+> Repetition transforms signals into expectations.
 
 Allies no longer ask:
 - “What does this decision mean?”
@@ -159,7 +173,7 @@ This operates across two layers:
 
 These reinforce each other:
 
-> signal instability → structural strain → reinforced instability  
+> Signal → Interpretation → Behaviour → Structure → Signal  
 
 ---
 
@@ -187,8 +201,20 @@ Long-term effects include:
 - diversification of supply chains  
 - reduced reliance on external providers  
 
-Once procurement patterns shift:
-> capability follows.
+Once procurement patterns shift, capability follows.
+
+---
+
+## ☢️ Escalation Link  
+
+Changes in alliance cohesion do not remain at the conventional level.
+
+Reduced confidence in coordination and commitment can:
+
+- weaken perceived deterrence  
+- increase uncertainty at higher levels of escalation  
+
+> Instability at the structural level propagates upward into deterrence credibility  
 
 ---
 
