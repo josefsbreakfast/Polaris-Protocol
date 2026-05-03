@@ -1,5 +1,5 @@
 # ♻️ Declining Ore Grades & The End Of Substitution Myths  
-**First created:** 2025-12-14 | **Last updated:** 2026-04-24  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-03  
 *Why material depletion constrains substitution and challenges “just substitute it” economic assumptions.*  
 
 ---
@@ -18,7 +18,7 @@ As easily accessible deposits are exhausted, what remains is:
 - more geopolitically entangled  
 
 Declining ore grades are not a market anomaly.  
-They are the expected behaviour of a finite planet under sustained extraction pressure, widely documented across multiple mining sectors.
+They are the expected behaviour of a finite planet under sustained extraction pressure, widely documented across multiple mining sectors, particularly in long-extracted resources such as copper and gold.  
 
 ---
 
@@ -73,8 +73,10 @@ At a certain point, extraction can become:
 - energetically or systemically irrational under realistic constraints  
 - environmentally severe in impact  
 
+Energy and material costs often rise relative to yield as ore grades decline.  
+
 Prices may rise, but rising prices do not create new high-grade deposits.  
-They may make lower-quality deposits viable, but often at increased ecological and energetic cost.
+They may make lower-quality deposits viable, but often at increased ecological and energetic cost.  
 
 ---
 
@@ -90,10 +92,10 @@ In practice, substitution is often partial, context-dependent, and constrained b
 - copper’s conductivity is difficult to replicate without trade-offs  
 - lithium’s electrochemical properties are highly specific  
 - helium’s inert cryogenic behaviour has no direct substitute  
-- phosphorus has no substitute in biological systems  
+- phosphorus has no known substitute in biological systems  
 
 Substitution works in some domains.  
-In critical material systems, it can be limited or fail entirely.
+In critical material systems, it can be limited or fail entirely.  
 
 ---
 
@@ -110,16 +112,16 @@ They cannot:
 - increase underlying geological concentration  
 - regenerate exhausted mineral deposits  
 
-Technology changes *how* resources are extracted and used, not *what physically exists*.
+Technology changes *how* resources are extracted and used, not *what physically exists*.  
 
-Treating innovation as a replenishment mechanism confuses optimisation with creation.
+Treating innovation as a replenishment mechanism risks conflating optimisation with the creation of new material resources.  
 
 ---
 
 ### 5. Market signals vs physical signals  
 
 Markets respond to price.  
-The planet responds to mass, energy, and chemistry.
+The planet responds to mass, energy, and chemistry.  
 
 When depletion accelerates:
 - markets may interpret scarcity as opportunity  
@@ -131,13 +133,13 @@ This mismatch can contribute to:
 - ecological strain  
 - overconfidence in substitution pathways  
 
-By the time market signals fully reflect physical limits, significant environmental and structural impacts may already be in motion.
+By the time market signals fully reflect physical limits, significant environmental and structural impacts may already be in motion.  
 
 ---
 
 ### 6. Degrowth as depletion-aware economics  
 
-Degrowth can be interpreted here as a form of **material realism**, rather than purely ideological positioning.
+Degrowth can be interpreted in this context as one framework that attempts to align economic activity with material constraints, rather than assuming indefinite expansion through substitution or efficiency gains.  
 
 It acknowledges that:
 - extraction curves tend to decline over time  
@@ -146,13 +148,15 @@ It acknowledges that:
 - ecological costs compound  
 
 Planning for reduced material throughput is not necessarily pessimism.  
-It can be understood as adaptation to extractive and planetary constraints.
+It can be understood as adaptation to extractive and planetary constraints.  
+
+Other frameworks propose alternative responses, including technological intensification, circular economy models, or expanded resource frontiers.  
 
 ---
 
 ## 🌌 Constellations  
 
-♻️ 🪨 🔋 ⚖️ 🌍 — resource cycles, geology, energy cost, governance, planetary limits.  
+♻️ 🪨 🔋 ⚖️ 🌍 — extractive constraint node; maps depletion dynamics to economic and governance limits  
 
 ---
 
@@ -165,7 +169,7 @@ declining ore grades, resource depletion, substitution limits, mining economics,
 ## 🏮 Footer  
 
 *♻️ Declining Ore Grades & The End Of Substitution Myths* is a structural analysis node of the **Polaris Protocol**.  
-It examines how physical depletion constrains economic assumptions, particularly the expectation that substitution and innovation can fully offset material limits.
+It examines how physical depletion constrains economic assumptions, particularly the expectation that substitution and innovation can fully offset material limits.  
 
 > 📡 Cross-references:
 > 
@@ -175,4 +179,4 @@ It examines how physical depletion constrains economic assumptions, particularly
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-05-03_  
