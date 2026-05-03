@@ -1,3 +1,7 @@
+We can update this in this round I think:
+
+Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_contingent_conservatism_and_long_horizon_politics.md
+
 # ⚖️ Contingent Conservatism and Long-Horizon Politics  
 **First created:** 2025-11-07 | **Last updated:** 2026-01-09  
 *How conditional restraint is used to preserve power, defer accountability, and shape political outcomes across long time horizons.*  
@@ -157,10 +161,10 @@ It documents how conditional restraint functions as a long-horizon governance st
 
 > 📡 Cross-references:  
 > 
-> - [💣 Austerity as Time Collapse] — *how delay becomes structural*  
-> - [🏛️ Olympus Syndrome] — *survival mistaken for merit*  
-> - [⚖️ Legal Disentanglement & Risk Perception] — *how ambiguity justifies inaction*  
-> - [🪜 Threshold Drift] — *when “not yet” becomes “too late”*  
+> - [💣 Austerity as Time Collapse](../../🌀_System_Governance/💫_Containment_Logic/💣_austerity_as_time_collapse.md) — *how delay becomes structural*  
+> - [🏛️ Olympus Syndrome]() — *survival mistaken for merit*  
+> - [⚖️ Legal Disentanglement & Risk Perception]() — *how ambiguity justifies inaction*  
+> - [🪜 Threshold Drift]() — *when “not yet” becomes “too late”*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
