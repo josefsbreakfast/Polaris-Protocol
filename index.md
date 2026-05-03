@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-03 15:20:50 UTC_
+_Generated on 2026-05-03 20:17:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1151,6 +1151,7 @@ _Generated on 2026-05-03 15:20:50 UTC_
         - [`✈️_they_always_think_they_are_geniuses.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/✈️_they_always_think_they_are_geniuses.md)
         - [`✨_misinterpretation_risk_in_geopolitical_signalling.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/✨_misinterpretation_risk_in_geopolitical_signalling.md)
         - [`🀄️_to_reveal_our_own_hand.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🀄️_to_reveal_our_own_hand.md)
+        - [`🇩🇪_an_act_against_one_is_against_us_all.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇩🇪_an_act_against_one_is_against_us_all.md)
         - [`🇩🇪_you_cant_soothe_germany_twice.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇩🇪_you_cant_soothe_germany_twice.md)
         - [`🇬🇧_britain_as_global_butler.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_britain_as_global_butler.md)
         - [`🇬🇧_britain_is_queenless_now.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_britain_is_queenless_now.md)
