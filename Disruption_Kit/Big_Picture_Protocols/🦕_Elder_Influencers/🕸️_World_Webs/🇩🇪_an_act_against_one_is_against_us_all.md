@@ -259,7 +259,17 @@ nato germany role, alliance signalling, deterrence credibility, uk defence integ
 ## 🏮 Footer  
 
 *🇩🇪 An Act Against One Is Against Us All* is a living node of the Polaris Protocol.  
-It maps how localised actions within alliances generate system-wide effects, reshaping trust, coordination, and long-term structural behaviour.
+It maps how localised actions within alliances generate system-wide effects, reshaping trust, coordination, and long-term structural behaviour.  
+
+> 📡 Cross-references:
+> 
+> - [🇺🇸 Why The US Is Willing To Risk Europe](./🇺🇸_why_the_us_is_willing_to_risk_europe.md) — *strategic trade-offs driving US policy and how risk is redistributed across the alliance system*  
+> - [🇩🇪 You Can’t Soothe Germany Twice](./🇩🇪_you_cant_soothe_germany_twice.md) — *why reassurance-based diplomacy breaks after threshold events in Germany’s strategic posture*  
+> - [☔️ The NATO Nuclear Umbrella Problem](./☔️_nato_nuclear_umbrella_problem.md) — *how extended deterrence depends on trust and why instability increases systemic nuclear risk*  
+> - [🇪🇺 Two Speed Europe In Defence](./🇪🇺_two_speed_europe.md) — *how geography and threat perception create divergent defence timelines within a shared system*  
+> - [🧶 NATO Knitting Circle](./🧶_nato_knitting_circle.md) — *the informal emotional and relational dynamics that shape alliance behaviour beneath formal doctrine*  
+> - [⚖️ Contingent Conservatism and Long-Horizon Politics](./⚖️_contingent_conservatism_and_long_horizon_politics.md) — *how delayed action and threshold-based restraint shape outcomes across long time horizons*  
+> - [🇷🇺 Russia’s Incursions Timeline](./🇷🇺_russias_incursions_timeline.md) — *chronology of Russian operations showing patterns of incursion, consolidation, and prolonged pressure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
