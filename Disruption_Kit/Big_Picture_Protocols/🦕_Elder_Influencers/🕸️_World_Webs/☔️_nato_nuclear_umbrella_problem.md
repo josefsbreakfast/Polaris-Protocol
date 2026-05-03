@@ -20,7 +20,7 @@ This layer underpins conventional military arrangements and becomes critical whe
 
 ---
 
-## 👁️ Core Mechanism  
+## ✨ Core Mechanism  
 
 Nuclear deterrence operates through a simple but stringent condition:
 
