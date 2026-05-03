@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-03 21:55:36 UTC_
+_Generated on 2026-05-03 21:58:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1159,6 +1159,7 @@ _Generated on 2026-05-03 21:55:36 UTC_
         - [`🇬🇧_britain_is_queenless_now.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_britain_is_queenless_now.md)
         - [`🇬🇧_why_the_uk_is_in_the_falklands.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_why_the_uk_is_in_the_falklands.md)
         - [`🇮🇱_zionism_is_racism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇮🇱_zionism_is_racism.md)
+        - [`🇷🇺_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_russias_incursions_timeline.md)
         - [`🇷🇺_the_end_of_russias_camp_era.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)
         - [`🇺🇸_why_the_us_is_willing_to_risk_europe.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇺🇸_why_the_us_is_willing_to_risk_europe.md)
         - [`🇺🇸🇬🇧_us_uk_group_easter_egg_hunt.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇺🇸🇬🇧_us_uk_group_easter_egg_hunt.md)
@@ -1222,7 +1223,6 @@ _Generated on 2026-05-03 21:55:36 UTC_
         - [`🧬_monsters_of_the_machine.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧬_monsters_of_the_machine.md)
         - [`🧶_nato_knitting_circle.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧶_nato_knitting_circle.md)
         - [`🪆_why_authoritarianism_always_loses_its_camp.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪆_why_authoritarianism_always_loses_its_camp.md)
-        - [`🪖_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪖_russias_incursions_timeline.md)
         - [`🪞_gitmo_as_western_moral_rupture.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪞_gitmo_as_western_moral_rupture.md)
         - [`🪞_mirror_ideologies.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪞_mirror_ideologies.md)
         - [`🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md)
