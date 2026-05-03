@@ -206,10 +206,10 @@ It documents how conditional restraint functions as a long-horizon governance st
 > 📡 Cross-references:  
 > 
 > - [💣 Austerity as Time Collapse](../../🌀_System_Governance/💫_Containment_Logic/💣_austerity_as_time_collapse.md) — *how delay becomes structural*  
-> - [🏛️ Olympus Syndrome]() — *survival mistaken for merit*  
-> - [⚖️ Legal Disentanglement & Risk Perception]() — *how ambiguity justifies inaction*  
-> - [🪜 Threshold Drift]() — *when “not yet” becomes “too late”*  
-> - [🇺🇸 Why The US Is Willing To Risk Europe]() — *how threshold logic operates in alliance strategy*  
+> - [🏛️ Olympus Syndrome](../../🌀_System_Governance/📚_Narrative_Management/🏛️_olympus_syndrome.md) — *survival mistaken for merit*  
+> - [⚖️ Legal Disentanglement & Risk Perception](../../🌀_System_Governance/💫_Containment_Logic/⚖️_legal_disentanglement_and_risk_perception.md) — *how ambiguity justifies inaction*  
+> - [🪜 Escalation Ladders — The Path from Help to Harm](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🪜_escalation_ladders_the_path_from_help_to_harm.md) — *how to move when “not yet” becomes “too late”*  
+> - [🇺🇸 Why The US Is Willing To Risk Europe](../../🦕_Elder_Influencers/🕸️_World_Webs/🇺🇸_why_the_us_is_willing_to_risk_europe.md) — *how threshold logic operates in alliance strategy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
