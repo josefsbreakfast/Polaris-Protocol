@@ -209,7 +209,10 @@ It documents how conditional restraint functions as a long-horizon governance st
 > - [🏛️ Olympus Syndrome](../../🌀_System_Governance/📚_Narrative_Management/🏛️_olympus_syndrome.md) — *survival mistaken for merit*  
 > - [⚖️ Legal Disentanglement & Risk Perception](../../🌀_System_Governance/💫_Containment_Logic/⚖️_legal_disentanglement_and_risk_perception.md) — *how ambiguity justifies inaction*  
 > - [🪜 Escalation Ladders — The Path from Help to Harm](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🪜_escalation_ladders_the_path_from_help_to_harm.md) — *how to move when “not yet” becomes “too late”*  
-> - [🇺🇸 Why The US Is Willing To Risk Europe](../../🦕_Elder_Influencers/🕸️_World_Webs/🇺🇸_why_the_us_is_willing_to_risk_europe.md) — *how threshold logic operates in alliance strategy*  
+> - [🇺🇸 Why The US Is Willing To Risk Europe](../../🦕_Elder_Influencers/🕸️_World_Webs/🇺🇸_why_the_us_is_willing_to_risk_europe.md) — *how threshold logic operates in alliance strategy*
+> - [🧶 NATO Knitting Circle](./🧶_nato_knitting_circle.md) — *the informal emotional and relational dynamics that shape alliance behaviour beneath formal doctrine*
+> - [☔️ The NATO Nuclear Umbrella Problem](./☔️_nato_nuclear_umbrella_problem.md) — *how extended deterrence depends on trust and why instability increases systemic nuclear risk*  
+> - [🇪🇺 Two Speed Europe In Defence](./🇪🇺_two_speed_europe.md) — *how geography and threat perception create divergent defence timelines within a shared system*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
