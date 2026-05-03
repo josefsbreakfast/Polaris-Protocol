@@ -128,7 +128,12 @@ It documents a structured chronology of Russian operations alongside parallel sy
 > 
 > - [⚖️ Shadow Governance Timeline](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_shadow_governance_timeline.md)  
 > - [📚 Crisis Theatre](../../🌀_System_Governance/📚_Narrative_Management/📚_crisis_theatre.md)  
-> - [💸 Russian Overlap Patterns](./💸_russian_overlap_patterns.md)  
+> - [💸 Russian Overlap Patterns](./💸_russian_overlap_patterns.md)
+> - [🇺🇸 Why The US Is Willing To Risk Europe](./🇺🇸_why_the_us_is_willing_to_risk_europe.md) — *strategic trade-offs driving US policy and how risk is redistributed across the alliance system*  
+> - [🇩🇪 An Act Against One Is Against Us All](./🇩🇪_an_act_against_one_is_against_us_all.md) — *how actions targeting a single ally propagate as system-wide signals across NATO*  
+> - [☔️ The NATO Nuclear Umbrella Problem](./☔️_nato_nuclear_umbrella_problem.md) — *how extended deterrence depends on trust and why instability increases systemic nuclear risk*  
+> - [🇪🇺 Two Speed Europe In Defence](./🇪🇺_two_speed_europe.md) — *how geography and threat perception create divergent defence timelines within a shared system*  
+> - [🧶 NATO Knitting Circle](./🧶_nato_knitting_circle.md) — *the informal emotional and relational dynamics that shape alliance behaviour beneath formal doctrine*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
