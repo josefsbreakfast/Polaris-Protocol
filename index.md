@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-03 20:47:55 UTC_
+_Generated on 2026-05-03 21:25:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1141,7 +1141,7 @@ _Generated on 2026-05-03 20:47:55 UTC_
         - [`natcon_speakers_2023_2025.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/natcon_speakers_2023_2025.csv)
         - [`natcon_speakers_2023_2025_full.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/natcon_speakers_2023_2025_full.csv)
         - [`☄️_ww3_started_years_ago.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/☄️_ww3_started_years_ago.md)
-        - [`☔️_nuclear_umbrella_problem.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/☔️_nuclear_umbrella_problem.md)
+        - [`☔️_nato_nuclear_umbrella_problem.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/☔️_nato_nuclear_umbrella_problem.md)
         - [`♻️_declining_ore_grades_and_the_end_of_substitution_myths.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/♻️_declining_ore_grades_and_the_end_of_substitution_myths.md)
         - [`⚓️_fur_coat_no_knickers.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚓️_fur_coat_no_knickers.md)
         - [`⚖️_contingent_conservatism_and_long_horizon_politics.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/⚖️_contingent_conservatism_and_long_horizon_politics.md)
