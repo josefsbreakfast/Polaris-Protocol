@@ -213,7 +213,7 @@ two speeds europe, nato divergence, european defence strategy, germany central r
 
 ## 🏮 Footer  
 
-*Two Speeds Europe In Defence* is a living node of the Polaris Protocol.  
+*🇪🇺 Two Speed Europe In Defence* is a living node of the Polaris Protocol.  
 It maps how geography, history, and capability create divergent timelines within European defence, and how these differences interact within a shared alliance structure.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
