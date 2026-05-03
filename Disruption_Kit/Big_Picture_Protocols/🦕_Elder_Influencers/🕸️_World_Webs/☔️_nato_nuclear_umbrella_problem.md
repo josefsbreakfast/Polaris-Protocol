@@ -1,4 +1,4 @@
-# ☔️ The Nuclear Umbrella Problem  
+# ☔️ The NATO Nuclear Umbrella Problem  
 **First created:** 2026-05-03 | **Last updated:** 2026-05-03  
 *How extended nuclear deterrence underpins alliance trust, and how instability within that system increases long-term systemic risk.*
 
@@ -16,13 +16,13 @@ It is about **credibility**.
 
 > Deterrence functions on belief, not deployment.
 
-This layer sits beneath conventional military arrangements and becomes critical when trust is tested.
+This layer underpins conventional military arrangements and becomes critical when trust is tested.
 
 ---
 
 ## 👁️ Core Mechanism  
 
-Nuclear deterrence operates through a simple but demanding condition:
+Nuclear deterrence operates through a simple but stringent condition:
 
 > Adversaries must believe that escalation will be met with a credible response.
 
@@ -45,7 +45,7 @@ Within NATO, extended deterrence is primarily provided by the United States.
 
 This includes:
 - strategic capability  
-- forward presence  
+- forward-deployed systems and alliance integration  
 - integrated alliance planning  
 
 European security is structured around this guarantee.
@@ -86,6 +86,8 @@ then nuclear deterrence is indirectly affected.
 
 > The nuclear layer amplifies the consequences of perceived instability.
 
+This connects directly to alliance-level signalling dynamics, where local actions are interpreted system-wide.
+
 ---
 
 ## 🔁 Escalation Sensitivity  
@@ -98,7 +100,7 @@ Changes that appear limited at the conventional level can have disproportionate 
 - increased ambiguity around response thresholds  
 - heightened sensitivity to political signals  
 
-> Minor instability at lower levels can translate into major uncertainty at the highest level.
+> Minor instability at lower levels can produce disproportionate uncertainty at the highest level.
 
 ---
 
@@ -139,7 +141,7 @@ Proliferation expands the risk surface beyond capability:
 - command and control → decision systems and failure modes  
 - disposal → long-term environmental and safety challenges  
 
-> More actors increase complexity and potential points of failure.
+> More actors increase complexity and multiply potential points of failure.
 
 ---
 
@@ -154,6 +156,14 @@ Instability reverses this:
 This does not immediately result in proliferation.
 
 But it increases the probability over time.
+
+---
+
+## ⚖️ Interaction With Alliance Dynamics  
+
+Instability in the nuclear umbrella amplifies instability elsewhere in the alliance.
+
+It does not create new problems independently, but intensifies existing ones.
 
 ---
 
@@ -177,11 +187,12 @@ This node does not:
 - speculate on escalation scenarios  
 
 It focuses on:
+
 > how trust conditions shape systemic risk
 
 ---
 
-## 🧠 Core Insight  
+## 🧠 Final Insight  
 
 Nuclear deterrence is the most sensitive layer of alliance trust.
 
@@ -203,7 +214,7 @@ nuclear umbrella nato, extended deterrence, alliance trust, proliferation risk, 
 
 ## 🏮 Footer  
 
-*☔️ The Nuclear Umbrella Problem* is a living node of the Polaris Protocol.  
+*☔️ The NATO Nuclear Umbrella Problem* is a living node of the Polaris Protocol.  
 It maps how the credibility of extended deterrence shapes alliance stability and how instability at lower levels can increase systemic risk at the highest level.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
