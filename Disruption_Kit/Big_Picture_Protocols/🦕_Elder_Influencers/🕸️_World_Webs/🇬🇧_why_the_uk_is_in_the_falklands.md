@@ -221,7 +221,7 @@ Each of these points suggests a different interpretation.
 - [🐧: ASOC: Southern Rockhopper Penguin](https://www.asoc.org/learn/rockhopper-penguins/)
 - [🌊: Falklands Conservation (NGO)](https://falklandsconservation.com/)
 - [🐺: NatGeo: "New clues may explain the mysterious origins of the Falklands wolf"](https://www.nationalgeographic.com/animals/article/falkland-islands-wolf-fox-origin-people)  
--[The Express: "Russia finds massive oil and gas reserves in British territory, sparking drilling fears"](https://www.express.co.uk/news/world/1898366/russia-oil-gas-reserves-british-antarctic-territory)
+- [The Express: "Russia finds massive oil and gas reserves in British territory, sparking drilling fears"](https://www.express.co.uk/news/world/1898366/russia-oil-gas-reserves-british-antarctic-territory)
 - [The Telegraph: "Russia finds vast oil and gas reserves in British Antarctic territory "](https://www.telegraph.co.uk/business/2024/05/11/russia-uncovers-oil-and-gas-reserves-british-antarctic/)  
 
 ---
