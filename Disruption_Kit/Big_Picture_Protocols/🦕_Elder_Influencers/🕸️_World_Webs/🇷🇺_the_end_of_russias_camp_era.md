@@ -1,5 +1,5 @@
 # 🇷🇺 The End of Russia’s Camp Era  
-**First created:** 2025-11-20 | **Last updated:** 2026-02-26  
+**First created:** 2025-11-20 | **Last updated:** 2026-05-04  
 *How Russia moved from flamboyant, theatrical soft power to bunker-grey authoritarianism — and why the Alexandrov Ensemble crash marks the point of no return.*  
 
 ---
@@ -137,4 +137,4 @@ It documents how aesthetic systems collapse alongside political legitimacy — a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-26_
+_Last updated: 2026-05-04_
