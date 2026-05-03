@@ -79,8 +79,8 @@ It examines a contested analytical frame in which contemporary conflicts are int
 > 📡 Cross-references:
 > 
 > - [🌀 Systems & Governance](../../🌀_System_Governance/README.md) — structural analysis of governance systems  
-- [🪬 Radicalisation & Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md) — pathways and amplification of ideological escalation  
-- [🕸️ World Webs](../../🦕_Elder_Influencers/🕸️_World_Webs/README.md) — networked narrative and influence structures  
+> - [🪬 Radicalisation & Extremism](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md) — pathways and amplification of ideological escalation  
+> - [🕸️ World Webs](../../🦕_Elder_Influencers/🕸️_World_Webs/README.md) — networked narrative and influence structures  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
