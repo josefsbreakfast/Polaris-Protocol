@@ -266,8 +266,18 @@ us strategy europe, nato burden sharing, indo pacific pivot, alliance risk trade
 
 ## 🏮 Footer  
 
-*Why The US Is Willing To Risk Europe* is a living node of the Polaris Protocol.  
-It maps the strategic trade-offs driving US decision-making and how those choices interact with alliance systems, deterrence, and long-term stability.
+*🇺🇸 Why The US Is Willing To Risk Europe* is a living node of the Polaris Protocol.  
+It maps the strategic trade-offs driving US decision-making and how those choices interact with alliance systems, deterrence, and long-term stability.  
+
+> 📡 Cross-references:
+> 
+> - [🇩🇪 An Act Against One Is Against Us All](./🇩🇪_an_act_against_one_is_against_us_all.md) — *how actions targeting a single ally propagate as system-wide signals across NATO*  
+> - [🇩🇪 You Can’t Soothe Germany Twice](./🇩🇪_you_cant_soothe_germany_twice.md) — *why reassurance-based diplomacy breaks after threshold events in Germany’s strategic posture*  
+> - [☔️ The NATO Nuclear Umbrella Problem](./☔️_nato_nuclear_umbrella_problem.md) — *how extended deterrence depends on trust and why instability increases systemic nuclear risk*  
+> - [🇪🇺 Two Speed Europe In Defence](./🇪🇺_two_speed_europe.md) — *how geography and threat perception create divergent defence timelines within a shared system*  
+> - [🧶 NATO Knitting Circle](./🧶_nato_knitting_circle.md) — *the informal emotional and relational dynamics that shape alliance behaviour beneath formal doctrine*  
+> - [⚖️ Contingent Conservatism and Long-Horizon Politics](./⚖️_contingent_conservatism_and_long_horizon_politics.md) — *how delayed action and threshold-based restraint shape outcomes across long time horizons*  
+> - [🇷🇺 Russia’s Incursions Timeline](./🇷🇺_russias_incursions_timeline.md) — *chronology of Russian operations showing patterns of incursion, consolidation, and prolonged pressure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
