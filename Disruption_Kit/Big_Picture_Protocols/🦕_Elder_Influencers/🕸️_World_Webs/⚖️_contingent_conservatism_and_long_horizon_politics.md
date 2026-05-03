@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 This node examines **contingent conservatism** as a governance posture rather than an ideology.
 
@@ -21,7 +21,7 @@ When applied over long horizons, this posture allows power to:
 
 ---
 
-## 👁️ Core Mechanism  
+## ✨ Core Mechanism  
 
 Contingent conservatism operates through a simple dynamic:
 
