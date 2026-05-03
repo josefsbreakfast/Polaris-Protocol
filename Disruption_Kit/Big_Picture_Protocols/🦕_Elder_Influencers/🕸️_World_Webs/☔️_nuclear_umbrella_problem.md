@@ -1,4 +1,4 @@
-# ☢️ The Nuclear Umbrella Problem  
+# ☔️ The Nuclear Umbrella Problem  
 **First created:** 2026-05-03 | **Last updated:** 2026-05-03  
 *How extended nuclear deterrence underpins alliance trust, and how instability within that system increases long-term systemic risk.*
 
@@ -203,7 +203,7 @@ nuclear umbrella nato, extended deterrence, alliance trust, proliferation risk, 
 
 ## 🏮 Footer  
 
-*The Nuclear Umbrella Problem* is a living node of the Polaris Protocol.  
+*☔️ The Nuclear Umbrella Problem* is a living node of the Polaris Protocol.  
 It maps how the credibility of extended deterrence shapes alliance stability and how instability at lower levels can increase systemic risk at the highest level.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
