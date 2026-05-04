@@ -77,6 +77,9 @@ They can be deployed individually or as a full civic stack.
 ## 🌌 Constellations  
 🐝 🌿 🪺 🏛️ 🧿 — civic reconstruction register; cooperative infrastructure layer  
 
+*Enjoyed with:*  
+- 🎶: *The Kinks Are the Village Green Preservation Society*, The Kinks (1968).  
+
 ---
 
 ## ✨ Stardust  
