@@ -69,7 +69,124 @@ But without deeper structural tools, the imagination may still default to revers
 
 This is not simply a failure of intent.
 
-It is a limit of available frameworks.
+It is a limit of available frameworks.  
+
+---
+
+### 📺 Cultural Echo: Futurama — “Death by Snu Snu”
+
+An episode of Futurama (“Amazon Women in the Mood”, Season 3, 2001) presents a comedic inversion of gendered power.
+
+The scenario depicts:
+
+- A society ruled by physically dominant women  
+- Men reduced to reproductive and sexual function  
+- Power enforced through coercion rather than mutuality  
+- Male characters treated as disposable within that system  
+
+On the surface, this appears as a reversal:
+
+> “What if women held power instead of men?”
+
+Structurally, however, it reproduces the same underlying logic:
+
+- Domination remains the organising principle  
+- Consent is overridden by assumed desire  
+- Individuals are valued based on function rather than agency  
+
+---
+
+### 🔄 Inversion, Not Transformation
+
+Like other cultural attempts at imagining alternatives to patriarchy, this scenario does not dismantle domination.
+
+It redistributes it.
+
+> The structure persists. Only the direction changes.
+
+This makes the episode a useful diagnostic example:
+
+- It reveals how easily imagination defaults to **role reversal**  
+- It shows how deeply domination is embedded as a baseline model  
+- It highlights the difficulty of imagining systems not built on coercion  
+
+---
+
+### 🎯 Relevance To This Node
+
+This example reinforces a central claim:
+
+> Without expanded frameworks, attempts at subversion often reproduce the system they aim to escape.
+
+It demonstrates that:
+
+- Awareness of imbalance is not sufficient  
+- Structural imagination must be actively developed  
+- Cultural narratives often expose the limits of that imagination
+
+---
+
+### ⚠️ Coercion Misread As Desire
+
+The “death by snu snu” scenario is often framed as humorous or even desirable.
+
+This framing relies on a set of assumptions:
+
+- That men are always willing participants in sexual activity  
+- That male desire overrides considerations of consent  
+- That coercion becomes acceptable if it aligns with presumed desire  
+
+These assumptions are structurally misleading.
+
+---
+
+### 🧠 Agency And The Right To Refuse
+
+Patriarchal systems do not only constrain women.
+
+They also produce distortions in how male agency is understood.
+
+In particular:
+
+- Men are often not socially permitted to refuse sex  
+- Lack of consent may be minimised or reframed as humour  
+- Coercion against men may be trivialised or rendered invisible  
+
+This results in a contradiction:
+
+> A system that normalises domination can obscure violations of agency across multiple positions.
+
+---
+
+### ⚖️ Structural Consistency
+
+If a system is based on coercion, it does not become acceptable when roles are reversed.
+
+- Domination does not become liberation when reassigned  
+- Lack of consent does not become consent when assumed  
+- Harm does not become harmless when framed as fantasy  
+
+---
+
+### 🚫 Why This Matters
+
+Treating coercive scenarios as acceptable—even jokingly—reveals:
+
+- The persistence of domination as a default model  
+- The limits of how consent is understood across genders  
+- The failure to fully imagine non-coercive systems  
+
+---
+
+### 🎯 Core Principle
+
+> Liberation is not achieved by redistributing coercion.
+
+It requires:
+
+- Recognition of agency across all subjects  
+- Consistent application of consent  
+- Rejection of domination as a structural baseline
 
 ---
 
@@ -477,7 +594,8 @@ It identifies:
 
 *Further media:*  
 
-- [🎶: Flowers In The Window, *The Invisible Band*, Travis (2002).](https://www.youtube.com/watch?v=AFvfX3Mfd9E)  
+- [🎶: Flowers In The Window, *The Invisible Band*, Travis (2002).](https://www.youtube.com/watch?v=AFvfX3Mfd9E)
+- [📺: Amazon Women in the Mood, Episode 1, Season 3, Futurama (2001).](https://www.youtube.com/watch?v=3f8sjzETQ5o)  
 
 ---
 
