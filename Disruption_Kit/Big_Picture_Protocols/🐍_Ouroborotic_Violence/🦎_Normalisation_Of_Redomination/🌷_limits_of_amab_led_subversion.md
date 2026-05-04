@@ -475,6 +475,12 @@ It identifies:
 ## 🌌 Constellations  
 🌷 🪟 🐍 ⚖️ 🧠 — partial subversion; visible awareness; recursive inversion; structural asymmetry; expanded political imagination  
 
+*Further media:*  
+
+- [🎶: Flowers In The Window, *The Invisible Band*, Travis (2002).](https://www.youtube.com/watch?v=AFvfX3Mfd9E)  
+
+---
+
 ## ✨ Stardust  
 amab afab distinction, feminist analysis tools, gender socialisation, patriarchy limits, trans feminist perspectives, structural asymmetry, legitimacy dynamics, language and power, analytical shorthand, political imagination  
 
