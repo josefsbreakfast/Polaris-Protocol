@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-04 19:13:47 UTC_
+_Generated on 2026-05-04 19:19:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6610,10 +6610,6 @@ _Generated on 2026-05-04 19:13:47 UTC_
     - [`🧾_vps_reclamation.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧾_vps_reclamation.md)
     - [`🧿_raycat_bait.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧿_raycat_bait.md)
     - [`🪪_2025-08-04_fork_disavowal_log.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🪪_2025-08-04_fork_disavowal_log.md)
-  - [**Weekly_Checklists/**](Polaris_Nest/Weekly_Checklists/)
-    - [`README.md`](Polaris_Nest/Weekly_Checklists/README.md)
-    - [`📅_week_ahead_2025-09-05.md`](Polaris_Nest/Weekly_Checklists/📅_week_ahead_2025-09-05.md)
-    - [`📅_week_ahead_YYYY-MM-DD.md`](Polaris_Nest/Weekly_Checklists/📅_week_ahead_YYYY-MM-DD.md)
   - [**✨_Letters_to_Stars/**](Polaris_Nest/✨_Letters_to_Stars/)
     - [`polaris_bookshelf.png`](Polaris_Nest/✨_Letters_to_Stars/polaris_bookshelf.png)
     - [`polaris_lineage_map.png`](Polaris_Nest/✨_Letters_to_Stars/polaris_lineage_map.png)
