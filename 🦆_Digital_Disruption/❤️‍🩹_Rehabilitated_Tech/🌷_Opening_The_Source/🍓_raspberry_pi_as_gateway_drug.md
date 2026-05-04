@@ -1,6 +1,6 @@
 # 🍓 Raspberry Pi as Gateway Drug  
 **First created:** 2026-05-02 | **Last updated:** 2026-05-04  
-*Entry-point technologies that initiate civilian agency and escalate toward system-level capability.*
+*Entry-point technologies that initiate civilian agency and may escalate toward shared-system capability.*
 
 ---
 
@@ -77,18 +77,26 @@ That is the risk.
 
 ---
 
-## 🔧 Relationship to Omniwrench Systems  
+## 🔧 Escalation as Threshold, Not Stage  
 
-Gateway tools lead toward **omniwrench-class capability**:
+Gateway tools do not inherently produce high-impact systems.  
 
-- multi-use systems  
-- cross-domain interaction  
-- increased power density  
+However, they can lead toward conditions where:
 
-The transition is not announced.  
-It is learned gradually.
+- actions affect shared systems  
+- reversibility decreases  
+- system behaviour becomes harder to interpret  
 
-By the time the user recognises the shift, they may already be operating at a higher level of impact.
+At this point, a tool or practice may be reclassified as:
+
+- 🛹 absorbable (low impact)  
+- 🔧 scrutinised (high-impact / cross-domain)  
+
+This transition is often:
+
+- gradual  
+- unmarked  
+- recognised only after consequences emerge  
 
 ---
 
@@ -130,17 +138,22 @@ It is to **make escalation legible**.
 Within the broader system:
 
 - 🍓 Gateway → introduces agency  
-- 🔧 Omniwrench → expands capability  
-- ☔️ Policing → responds to impact  
+- ☔️ Policing → classifies and responds to impact  
 
-Gateway nodes determine who enters the system and how prepared they are for what comes next.
+Gateway systems shape:
 
-Poorly designed gateways create instability downstream.
+- who gains access  
+- how capability develops  
+- whether escalation is visible or hidden  
+
+They are the entry point to conditions explored in:
+
+- 🌦️ Cloudbusting (threshold case)  
 
 ---
 
 ## 🌌 Constellations  
-🍓 🧠 🛠️ 🌱 — entry layer; agency activation; transition from passive user to active system participant  
+🍓 🧠 🛠️ 🌱 — entry layer; agency activation; transition from passive use to active system interaction  
 
 ---
 
@@ -152,12 +165,12 @@ gateway technology, raspberry pi, beginner systems, capability escalation, civil
 ## 🏮 Footer  
 
 *🍓 Raspberry Pi as Gateway Drug* is a living node of the Polaris Protocol.  
-It defines the entry conditions through which individuals gain technical agency, and the risks introduced by unguided escalation into higher-impact systems.
+It defines the entry conditions through which individuals gain technical agency, and the risks introduced by unguided escalation into shared-system impact.
 
 > 📡 Cross-references:
 > 
-> - [🔧 Omniwrench Systems](./🔧_omniwrench.md) — *capability expansion layer*  
-> - [☔️ Policing Hoverboards and Omniwrenches](./☔️_policing_hoverboards_and_omniwrenches.md) — *regulatory response layer*  
+> - [☔️ Policing Hoverboards and Omniwrenches](./☔️_policing_hoverboards_and_omniwrenches.md) — *governance layer*  
+> - [🌦️ For and Against Cloudbusting](./🌦️_for_and_against_cloudbusting.md) — *threshold case*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
