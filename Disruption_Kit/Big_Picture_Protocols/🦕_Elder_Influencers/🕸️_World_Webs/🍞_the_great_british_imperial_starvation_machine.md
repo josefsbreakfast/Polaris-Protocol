@@ -1,5 +1,5 @@
 # 🍞 The Great British Imperial Starvation Machine  
-**First created:** 2025-12-17 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-17 | **Last updated:** 2026-05-03  
 *How starvation functioned as a recurring tool of British imperial governance — and why this history still matters.*  
 
 ---
@@ -159,4 +159,4 @@ It documents a historical pattern in which hunger functioned as a tool of govern
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-05-03_
