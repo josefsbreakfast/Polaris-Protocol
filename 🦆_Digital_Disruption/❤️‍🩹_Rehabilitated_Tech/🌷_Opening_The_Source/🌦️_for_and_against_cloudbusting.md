@@ -1,6 +1,6 @@
 # 🌦️ For and Against Cloudbusting  
 **First created:** 2026-05-02 | **Last updated:** 2026-05-04  
-*Evaluation of civilian experimentation on shared systems through the lens of cloudbusting as a case study.*
+*Evaluation of civilian experimentation on shared systems through the lens of cloudbusting as a threshold case.*
 
 ---
 
@@ -8,7 +8,7 @@
 
 Cloudbusting represents a class of intervention where individuals attempt to act on systems that extend beyond themselves.
 
-It is not important whether the specific method is valid.  
+It is not necessary to determine whether the method works.  
 What matters is the structure:
 
 - a tool  
@@ -16,7 +16,7 @@ What matters is the structure:
 - an actor  
 - and a shared environment  
 
-This node examines the arguments for and against allowing such experimentation.
+This node examines what happens when experimentation moves from **local and reversible** into **shared and potentially irreversible**.
 
 ---
 
@@ -34,6 +34,8 @@ Distributed knowledge allows reconstruction and adaptation
 ### 4. Expansion of Inquiry  
 Exploration can occur before formal validation is established  
 
+These conditions enable discovery — but they do not limit impact.
+
 ---
 
 ## 🔥 The Case Against  
@@ -48,7 +50,9 @@ Absence of testing frameworks increases risk of error
 Systems may appear credible without functioning correctly  
 
 ### 4. Escalation Without Awareness  
-Users may not understand the scale of their impact  
+Users may not recognise when they have crossed from local to shared impact  
+
+These conditions increase risk — especially when combined.
 
 ---
 
@@ -60,26 +64,52 @@ The central question is not:
 
 But:
 
-👉 “Under what conditions can experimentation occur without causing unconsented harm?”
+👉 “When does experimentation cease to be personal and become a shared risk?”
+
+Cloudbusting sits precisely at that boundary.
 
 ---
 
-## 🧪 Conditions for Responsible Experimentation  
+## 🧪 Threshold Conditions  
+
+Experimentation becomes structurally different when:
+
+### Scope Expands  
+From self-contained to shared systems  
+
+### Reversibility Decreases  
+From undoable to persistent or irreversible effects  
+
+### Legibility Drops  
+From understandable to ambiguous or contested  
+
+### Impact Scales  
+From local to distributed consequences  
+
+Crossing these thresholds does not always trigger awareness.  
+But it always changes the stakes.
+
+---
+
+## 🔧 Conditions for Responsible Experimentation  
+
+A viable framework does not eliminate experimentation.  
+It constrains it proportionately.
 
 ### Scope Awareness  
-Clear understanding of what systems are affected  
+Clear articulation of what systems are affected  
 
-### Reversibility  
-Preference for actions that can be undone  
+### Reversibility Priority  
+Preference for actions that can be undone or isolated  
 
 ### Visibility  
-Processes and outcomes should be observable and examinable  
+Processes and outcomes remain open to observation and challenge  
 
 ### Containment  
-Early-stage experiments should remain within controlled environments  
+Early-stage experiments remain bounded where possible  
 
 ### Accountability  
-Responsibility for outcomes must be acknowledged  
+Responsibility for outcomes is acknowledged, not displaced  
 
 ---
 
@@ -89,46 +119,54 @@ Responsibility for outcomes must be acknowledged
 Prevents learning and drives experimentation underground  
 
 ### 2. Unchecked Freedom  
-Allows harmful actions without constraint  
+Allows harm to propagate without constraint  
 
-### 3. Narrative Simplification  
-Frames actors as either victims or threats, obscuring complexity  
+### 3. Misclassification  
+Treats all interventions as either harmless or dangerous, with no threshold logic  
+
+### 4. Narrative Collapse  
+Reduces actors to either innovators or threats, obscuring structural conditions  
 
 ---
 
 ## 🧬 Relationship to Governance  
 
-Cloudbusting sits at the intersection of:
+Cloudbusting exposes the limits of simple classification.
 
-- 🔧 Omniwrench systems (high capability)  
-- ☔️ Policing frameworks (regulatory response)  
+It challenges the distinction between:
 
-It highlights the difficulty of governing systems that are:
+- 🛹 systems that can be safely absorbed  
+- 🔧 systems that trigger scrutiny and containment  
 
-- partially understood  
-- potentially impactful  
-- unevenly distributed  
+It demonstrates that:
+
+👉 classification is not always clear at the point of action  
+
+This creates pressure on:
+
+- ☔️ policing frameworks (which depend on classification)  
+- 🍓 gateway systems (which may lead users toward this threshold)  
 
 ---
 
 ## 🌌 Constellations  
-🌦️ 🧠 ⚖️ 🌱 — experimental layer; tension between innovation and risk; shared system interaction  
+🌦️ 🧠 ⚖️ 🌱 — threshold layer; boundary between local experimentation and shared-system impact  
 
 ---
 
 ## ✨ Stardust  
-cloudbusting, civilian experimentation, shared systems, externalities, decentralised innovation, risk assessment, ethical technology, system intervention  
+cloudbusting, civilian experimentation, shared systems, externalities, threshold conditions, decentralised innovation, risk boundaries, system intervention  
 
 ---
 
 ## 🏮 Footer  
 
 *🌦️ For and Against Cloudbusting* is a living node of the Polaris Protocol.  
-It evaluates the conditions under which civilian experimentation becomes constructive or harmful, and the tensions inherent in regulating shared-system interventions.
+It defines the threshold at which civilian experimentation transitions into shared-system risk, and the tensions that arise when classification and response mechanisms lag behind capability.
 
 > 📡 Cross-references:
 > 
-> - [🔧 Omniwrench Systems](./🔧_omniwrench.md) — *capability layer*  
+> - [🍓 Raspberry Pi as Gateway Drug](./🍓_raspberry_pi_as_gateway_drug.md) — *entry layer*  
 > - [☔️ Policing Hoverboards and Omniwrenches](./☔️_policing_hoverboards_and_omniwrenches.md) — *governance layer*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
