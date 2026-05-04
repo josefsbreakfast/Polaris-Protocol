@@ -4,7 +4,7 @@
 
 ---
 
-## STEM As A Redomination Environment
+## 🧠 STEM As A Redomination Environment
 
 A significant portion of systemic backsliding is concentrated within:
 
@@ -23,7 +23,7 @@ It propagates outward as **norm-setting behaviour**.
 
 ---
 
-## Donor Networks And Directional Power
+## 🕸️ Donor Networks And Directional Power
 
 Much of the influence within these environments does not appear exceptional.
 
@@ -45,7 +45,7 @@ It is **directional influence through selection**.
 
 ---
 
-## Preference Alignment And Social Conditions
+## ⚖️ Preference Alignment And Social Conditions
 
 Patterns emerge in what is supported and sustained:
 
@@ -62,7 +62,7 @@ The result is a system where **intellectual legitimacy and social hierarchy rein
 
 ---
 
-## The Myth Of Historical Dominance
+## 🏛️ The Myth Of Historical Dominance
 
 A recurring narrative within these systems is that current shifts represent a **return to a more natural order**.
 
@@ -80,7 +80,7 @@ Such a system did not exist in the coherent form being imagined.
 
 ---
 
-## Internal Contradiction Within STEM Culture
+## 🧬 Internal Contradiction Within STEM Culture
 
 These environments often claim commitment to:
 
@@ -100,7 +100,7 @@ It is a **structural inconsistency between stated values and enacted norms**.
 
 ---
 
-## Redomination Framed As Rationality
+## 🔬 Redomination Framed As Rationality
 
 Regression is not presented as regression.
 
@@ -117,7 +117,7 @@ These framings obscure a simpler process:
 
 ---
 
-## Cultural Echoes And Simplifications
+## 🧠 Cultural Echoes And Simplifications
 
 In adjacent cultural spaces, these dynamics appear in more explicit forms:
 
@@ -129,7 +129,7 @@ Within STEM environments, these assumptions are less overt, but often **structur
 
 ---
 
-## The Efficiency Paradox
+## 📉 The Efficiency Paradox
 
 If these systems were optimising purely for performance, they would:
 
@@ -145,8 +145,8 @@ When they fail to do so:
 
 ---
 
-## Why Resistance To Change Persists
-
+## ⚠️ Why Resistance To Change Persists
+ 
 Increased inclusion introduces:
 
 - Greater accountability  
@@ -161,7 +161,7 @@ Regression is therefore framed as:
 
 ---
 
-## Structural Outcome
+## 🧱 Structural Outcome
 
 The result is a system that:
 
@@ -175,7 +175,7 @@ This is the core condition of redomination:
 
 ---
 
-## Scope Of This Node
+## 🎯 Scope Of This Node
 
 This node does not attempt to resolve or dismantle the system it describes.
 
@@ -190,7 +190,7 @@ It answers:
 
 ---
 
-## What This Node Does *Not* Do
+## 🚫 What This Node Does *Not* Do
 
 This is not a solutions document.
 
@@ -203,7 +203,7 @@ It does not cover:
 
 ---
 
-## Transition: Where To Go Next
+## 🧭 Transition: Where To Go Next
 
 Once the pattern is visible, the next step depends on intent.
 
@@ -226,7 +226,7 @@ From here, the protocol branches:
 
 ---
 
-## Why This Split Exists
+## 🏮 Why This Split Exists
 
 - Disruption without analysis becomes reactive  
 - Analysis without disruption becomes inert  
