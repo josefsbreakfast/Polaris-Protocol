@@ -1,5 +1,5 @@
 # 🌍 When Virtual Minds Govern A Physical Planet  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-16  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-03  
 *How computational worldviews came to dominate governance — and why they fail when confronted with material reality.*
 
 ---
@@ -187,4 +187,4 @@ It examines how abstraction-first cultures produce governance failures when task
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-16_
+_Last updated: 2026-05-03_
