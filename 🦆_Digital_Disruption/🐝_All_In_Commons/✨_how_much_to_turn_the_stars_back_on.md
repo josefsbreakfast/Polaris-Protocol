@@ -1,10 +1,10 @@
 # ✨ How Much to Turn the Stars Back On  
-**First created:** 2025-12-29 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-29 | **Last updated:** 2026-05-04  
 *What it would cost — and what it would give back — to design night for human nervous systems again*
 
 ---
 
-## 🧭 Orientation
+## 🛰️ Orientation
 
 This node asks a deceptively simple question:
 
@@ -90,7 +90,7 @@ Just fewer systems yelling at the brain after dark.
 
 ---
 
-## 🧒 The Nascent Population
+## 🐥 The Nascent Population
 
 Children grow up inside the lighting regimes we choose.
 
@@ -110,7 +110,7 @@ This is population-level care without individualisation.
 This is not an argument for centralisation for its own sake.  
 It is an argument against **fragmentation, quality failure, and invisible long-term waste**.
 
-### Economies of scale (that councils cannot access alone)
+### ✨ Economies of scale (that councils cannot access alone)
 A national framework enables:
 - bulk procurement at lower unit cost  
 - standardised minimum specs (cut-off, spectrum, flicker safety)  
@@ -120,7 +120,7 @@ Without this, every council pays more to rediscover the same constraints.
 
 ---
 
-### Avoiding postcode lotteries of harm
+### ✨ Avoiding postcode lotteries of harm
 If lighting reform is left entirely to local discretion:
 - affluent areas improve first  
 - poorer areas accept cheaper, harsher outcomes  
@@ -130,7 +130,7 @@ Because lighting is unavoidable infrastructure, **minimum national standards are
 
 ---
 
-### Preventing the “street dug up badly” problem
+### ✨ Preventing the “street dug up badly” problem
 Uncoordinated infrastructure work tends to fail like this:
 - one contractor installs  
 - another signs off  
@@ -148,7 +148,7 @@ Most individual councils lack the leverage to enforce this alone.
 
 ---
 
-### Standards define the floor, not the ceiling
+### ✨ Standards define the floor, not the ceiling
 National coordination does **not** mean uniform streets.
 
 It means:
@@ -167,7 +167,7 @@ Coordination sets the **minimum conditions for dignity**, not a single aesthetic
 
 ---
 
-### Learning only compounds at scale
+### ✨ Learning only compounds at scale
 If this intervention is to be framed honestly as:
 - energy efficiency  
 - public mental health  
@@ -186,7 +186,7 @@ Fragmentation destroys memory. Coordination builds it.
 
 ---
 
-### Contractor behaviour improves with scale
+### ✨ Contractor behaviour improves with scale
 This is blunt but true.
 
 Large, long-horizon clients:
@@ -260,4 +260,4 @@ It situates public lighting as commons infrastructure, linking energy efficiency
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-05-04_
