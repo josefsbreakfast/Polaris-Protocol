@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-04 17:16:25 UTC_
+_Generated on 2026-05-04 17:19:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -805,6 +805,7 @@ _Generated on 2026-05-04 17:16:25 UTC_
         - [`IMG_5799.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/IMG_5799.png)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/README.md)
         - [`🌷_limits_of_amab_led_subversion.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🌷_limits_of_amab_led_subversion.md)
+        - [`🐍_rocket_fuel_drinking_ouroboros.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🐍_rocket_fuel_drinking_ouroboros.md)
         - [`👑_underinformed_sinker_of_ships_and_conspiracy_theorist.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/👑_underinformed_sinker_of_ships_and_conspiracy_theorist.md)
         - [`💾_compu_global_hyper_mega_net.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/💾_compu_global_hyper_mega_net.md)
         - [`🩸_the_witch_wound_jeffery_and_women_in_stem.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🩸_the_witch_wound_jeffery_and_women_in_stem.md)
