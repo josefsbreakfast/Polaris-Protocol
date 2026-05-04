@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Overview  
+## 🛰️ Overview  
 
 “May the Force be with you” originates as a meaningful in-universe blessing from *Star Wars* (1977), created by George Lucas.  
 
@@ -177,7 +177,7 @@ It maps how calendar-based triggers convert meaning into repeatable participatio
 
 > 📡 Cross-references:
 > 
-> - 
+> - [🤖 General Issue Robots](./🤖_general_issue_robots.md) – *"Oh boy... Nazis"*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
