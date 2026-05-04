@@ -21,14 +21,17 @@ Two archetypes define the regulatory split:
 
 - **Hoverboard-class technologies**  
   Low-risk, legible, locally contained  
-  → typically permitted, lightly regulated  
+  → typically permitted, absorbed, and normalised  
 
 - **Omniwrench-class technologies**  
   High-impact, multi-use, cross-domain  
-  → frequently restricted, scrutinised, or suppressed  
+  → trigger scrutiny, restriction, or containment  
 
 The distinction is not aesthetic.  
 It is structural.
+
+Omniwrench systems are not a stage of development.  
+They are a **classification threshold** — the point at which a tool’s capability becomes system-level.
 
 ---
 
@@ -47,6 +50,8 @@ Can the system be understood, tested, and challenged?
 
 ### 4. Power Redistribution  
 Does the tool shift capability away from established control structures?
+
+When these variables cross certain thresholds, a system is reclassified from *hoverboard* to *omniwrench*.
 
 ---
 
@@ -73,9 +78,10 @@ Emerging systems tend to follow a recurring path:
 1. Appearance outside existing categories  
 2. Initial curiosity or dismissal  
 3. Rising concern over impact  
-4. Intervention by authorities  
-5. Escalation into restriction or punishment  
-6. Narrative reframing of the creator or system  
+4. Reclassification (hoverboard → omniwrench)  
+5. Intervention by authorities  
+6. Escalation into restriction or punishment  
+7. Narrative reframing of the creator or system  
 
 ---
 
@@ -105,21 +111,26 @@ Ensure systems can be understood, reproduced, and challenged
 Within the broader system:
 
 - 🍓 Gateway → introduces agency  
-- 🔧 Omniwrench → expands capability  
-- ☔️ Policing → constrains or redirects impact  
+- ☔️ Policing → classifies, constrains, and reshapes impact  
 
-Policing does not end the cycle.  
-It reshapes it.
+Policing does not respond to all systems equally.  
+It responds when systems cross into **omniwrench-class conditions**.
+
+The outcome of policing feeds back into:
+
+- what future gateways look like  
+- what is considered safe to explore  
+- how capability is distributed  
 
 ---
 
 ## 🌌 Constellations  
-☔️ ⚖️ 🧠 🚨 — governance layer; constraint systems; response to civilian capability expansion  
+☔️ ⚖️ 🧠 🚨 — governance layer; classification systems; response to civilian capability thresholds  
 
 ---
 
 ## ✨ Stardust  
-regulation, governance, civilian technology, risk management, power redistribution, emerging systems, safety frameworks, institutional response  
+regulation, governance, civilian technology, risk management, power redistribution, classification systems, emerging technology, safety frameworks  
 
 ---
 
@@ -131,7 +142,6 @@ It defines how emerging technologies are classified, constrained, and integrated
 > 📡 Cross-references:
 > 
 > - [🍓 Raspberry Pi as Gateway Drug](./🍓_raspberry_pi_as_gateway_drug.md) — *entry layer*  
-> - [🔧 Omniwrench Systems](./🔧_omniwrench.md) — *capability expansion layer*  
 > - [🌦️ For and Against Cloudbusting](./🌦️_for_and_against_cloudbusting.md) — *case analysis*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
