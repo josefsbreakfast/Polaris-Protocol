@@ -19,3 +19,5 @@ That last part is the punchline: it’s a satire of early tech startups where hy
  "buy him out, boys"  
 
  ---
+
+<!--i mean i had no idea what it did and i was left alone to listen to him enough.-->
