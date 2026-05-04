@@ -198,7 +198,7 @@ It maps the acceleration mechanics of digital industries under capital pressure,
 
 > 📡 Cross-references:
 > 
-> - [💾 Compu Global Hyper Mega Net](./💾_compu_global_hyper_mega_net.md) — *dominance cycle diagnostic*  
+> - [💾 Compu-Global-Hyper-Mega-Net](./💾_compu_global_hyper_mega_net.md) — *dominance cycle diagnostic*  
 > - [😿 Where Did the Cheeseburger Go](./😿_where_did_the_cheeseburger_go.md) — *cultural erosion and loss of exploratory space*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
