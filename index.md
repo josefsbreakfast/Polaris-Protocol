@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-03 22:53:31 UTC_
+_Generated on 2026-05-04 00:35:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6773,6 +6773,7 @@ _Generated on 2026-05-03 22:53:31 UTC_
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
   - [**❤️‍🩹_Rehabilitated_Tech/**](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/)
     - [**🌷_Opening_The_Source/**](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/)
+      - [`README.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/README.md)
       - [`☔️_policing_hoverboards_and_omniwrenches.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/☔️_policing_hoverboards_and_omniwrenches.md)
       - [`🌦️_for_and_against_cloudbusting.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🌦️_for_and_against_cloudbusting.md)
       - [`🍎_coding_dyslexic.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🍎_coding_dyslexic.md)
