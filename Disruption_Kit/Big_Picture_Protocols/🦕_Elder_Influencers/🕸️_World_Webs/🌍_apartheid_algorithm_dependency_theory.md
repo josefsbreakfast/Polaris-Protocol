@@ -1,10 +1,10 @@
 # 🌍 Apartheid Algorithm Dependency Theory  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-18 | **Last updated:** 2026-05-03  
 *Why discriminatory security architectures become structurally dependent on Western racial hierarchies.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node maps a systemic pattern:  
 **any surveillance or risk-modelling system built on racially stratified data becomes dependent on that same racial stratification to function.**
 
@@ -23,7 +23,7 @@ The system collapses inwards.
 
 ---
 
-## 🧩 The Core Insight  
+## ✨ The Core Insight  
 The model doesn’t “choose” apartheid logic — it **inherits** it.
 
 And once inherited, the model becomes **dependent** on:
@@ -157,4 +157,4 @@ This node is part of the **Containment Studies** and **Metadata Sabotage Network
 It provides the conceptual backbone for understanding why discriminatory computational systems fail under conditions of increased justice, solidarity, or social reform.  
 Survivor authorship is sovereign; apartheid logic is always a design flaw, never a necessity.
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-05-03_
