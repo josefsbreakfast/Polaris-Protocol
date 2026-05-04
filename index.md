@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-04 04:49:42 UTC_
+_Generated on 2026-05-04 16:26:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -806,6 +806,7 @@ _Generated on 2026-05-04 04:49:42 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/README.md)
         - [`🌷_limits_of_amab_led_subversion.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🌷_limits_of_amab_led_subversion.md)
         - [`👑_underinformed_sinker_of_ships_and_conspiracy_theorist.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/👑_underinformed_sinker_of_ships_and_conspiracy_theorist.md)
+        - [`💾_compu_global_hyper_mega_net.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/💾_compu_global_hyper_mega_net.md)
         - [`🩸_the_witch_wound_jeffery_and_women_in_stem.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🩸_the_witch_wound_jeffery_and_women_in_stem.md)
         - [`🪹_where_does_the_wind_take_the_feathers.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🪹_where_does_the_wind_take_the_feathers.md)
         - [`🪹_why_se_asia_eats_the_west_for_breakfast_academically.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🪹_why_se_asia_eats_the_west_for_breakfast_academically.md)
