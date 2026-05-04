@@ -1,5 +1,5 @@
 # 🌏 China Soft Ops vs Russia Hard Ops  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-20 | **Last updated:** 2026-05-03  
 *Contrasting styles of authoritarian influence and why their alliance is more opportunistic than permanent.*
 
 ---
@@ -52,4 +52,4 @@ It documents how divergent influence styles converge opportunistically and why t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-05-03_
