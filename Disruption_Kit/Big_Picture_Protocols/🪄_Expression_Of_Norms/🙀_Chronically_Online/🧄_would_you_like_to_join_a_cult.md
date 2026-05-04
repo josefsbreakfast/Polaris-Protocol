@@ -4,4 +4,4 @@ idk i had that snowman song in my head.
 
 cults disguise more and can more effectively diversion-pipeline online so there's a good chance you've seen one in the wild out here.  
 
-qanon was just "what if we gave cults steroids and llm power"
+but also that song is how to see one of your buddoes radicalising to one maybe. (its not the only reason byt maybe say hi to them.)
