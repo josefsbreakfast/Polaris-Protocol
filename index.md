@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-04 21:49:58 UTC_
+_Generated on 2026-05-04 23:27:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1449,6 +1449,7 @@ _Generated on 2026-05-04 21:49:58 UTC_
         - [`🔮_astrology_projected.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🔮_astrology_projected.md)
         - [`🕸️_algorithmic_hearing_is_not_listening.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🕸️_algorithmic_hearing_is_not_listening.md)
         - [`🤖_general_issue_robots.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🤖_general_issue_robots.md)
+        - [`🧄_would_you_like_to_join_a_cult.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🧄_would_you_like_to_join_a_cult.md)
         - [`🧠_ai_ethicswash.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🧠_ai_ethicswash.md)
         - [`🧪_acid_accelerationism.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🧪_acid_accelerationism.md)
       - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/)
