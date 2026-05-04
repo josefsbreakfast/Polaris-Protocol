@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-04 16:26:16 UTC_
+_Generated on 2026-05-04 16:28:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1441,6 +1441,7 @@ _Generated on 2026-05-04 16:26:16 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/README.md)
         - [`🎮_fake_gamer_girl_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🎮_fake_gamer_girl_protocol.md)
         - [`👚_big_on_the_internet_loop.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/👚_big_on_the_internet_loop.md)
+        - [`📼_pris_is_still_subverting_patriarchy.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/📼_pris_is_still_subverting_patriarchy.md)
         - [`🔮_astrology_projected.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🔮_astrology_projected.md)
         - [`🕸️_algorithmic_hearing_is_not_listening.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🕸️_algorithmic_hearing_is_not_listening.md)
         - [`🤖_general_issue_robots.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🤖_general_issue_robots.md)
