@@ -205,7 +205,7 @@ It maps the cultural consequences of optimisation and acceleration, identifying 
 
 > 📡 Cross-references:
 > 
-> - [💾 Compu Global Hyper Mega Net](./💾_compu_global_hyper_mega_net.md) — *dominance cycle diagnostic*  
+> - [💾 Compu-Global-Hyper-Mega-Net](./💾_compu_global_hyper_mega_net.md) — *dominance cycle diagnostic*  
 > - [🐍 Rocket Fuel Drinking Ouroboros](./🐍_rocket_fuel_drinking_ouroboros.md) — *acceleration and capital dynamics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
