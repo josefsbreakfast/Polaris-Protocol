@@ -200,13 +200,13 @@ creative culture, exploratory space, internet culture, innovation loss, platform
 
 ## 🏮 Footer  
 
-*Where Did the Cheeseburger Go* is a living node of the **Polaris Protocol**.  
+*😿 Where Did the Cheeseburger Go* is a living node of the **Polaris Protocol**.  
 It maps the cultural consequences of optimisation and acceleration, identifying the loss of exploratory space as a critical constraint on future innovation.  
 
 > 📡 Cross-references:
 > 
-> - [💾 Compu Global Hyper Mega Net](../💾_compu_global_hyper_mega_net.md) — *dominance cycle diagnostic*  
-> - [🐍 Rocket Fuel Drinking Ouroboros](../🐍_rocket_fuel_drinking_ouroboros.md) — *acceleration and capital dynamics*  
+> - [💾 Compu Global Hyper Mega Net](./💾_compu_global_hyper_mega_net.md) — *dominance cycle diagnostic*  
+> - [🐍 Rocket Fuel Drinking Ouroboros](./🐍_rocket_fuel_drinking_ouroboros.md) — *acceleration and capital dynamics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
