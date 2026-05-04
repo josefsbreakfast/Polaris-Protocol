@@ -1,4 +1,4 @@
-# 💾 Compu Global Hyper Mega Net  
+# 💾 Compu-Global-Hyper-Mega-Net  
 **First created:** 2026-05-04 | **Last updated:** 2026-05-04  
 *Diagnostic node: the normalisation of redomination in digital industries*
 
@@ -222,7 +222,7 @@ redomination, dominance cycles, tech culture, preemptive acquisition, innovation
 
 ## 🏮 Footer  
 
-*Compu Global Hyper Mega Net* is a living node of the **Polaris Protocol**.  
+*💾 Compu-Global-Hyper-Mega-Net* is a living node of the **Polaris Protocol**.  
 It maps the structural tendency of digital industries to reassert control over emerging alternatives, framing this as a repeatable systemic pattern rather than isolated behaviour.  
 
 > 📡 Cross-references:
