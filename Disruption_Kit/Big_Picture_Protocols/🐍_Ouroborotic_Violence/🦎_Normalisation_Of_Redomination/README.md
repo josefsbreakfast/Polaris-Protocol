@@ -214,14 +214,14 @@ From here, the protocol branches:
 
 ### 🦆 Disruption Pathways
 
-→ See [🦆 Digital Disruption](../../🦆_Digital_Disruption/README.md)  
+→ See [🦆 Digital Disruption](../../../../🦆_Digital_Disruption/README.md)  
 *Operational methods for interfering with control systems and dominance patterns*
 
 ---
 
 ### 🧄 Exousiología (Power Analysis & Reconstruction)
 
-→ See [🧄 Exousiología](../../🧄_Exousiología/README.md)  
+→ See [🧄 Exousiología](../../../../🧄_Exousiología/README.md)  
 *Structural analysis of power and pathways toward post-dominance systems*
 
 ---
@@ -252,9 +252,9 @@ It documents how high-legitimacy systems regress under pressure by reframing pow
 
 > 📡 Cross-references:
 > 
-> - [🐍 Ouroborotic Violence](../🐍_Ouroborotic_Violence/) — *self-reinforcing cycles of harm and concealment*  
-> - [🦆 Digital Disruption](../../../../🦆_Digital_Disruption/) — *intervention and destabilisation pathways*  
-> - [🧄 Exousiología](../../../../🧄_Exousiología/) — *power analysis and reconstruction frameworks*  
+> - [🐍 Ouroborotic Violence](../🐍_Ouroborotic_Violence/README.md) — *self-reinforcing cycles of harm and concealment*  
+> - [🦆 Digital Disruption](../../../../🦆_Digital_Disruption/README.md) — *intervention and destabilisation pathways*  
+> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *power analysis and reconstruction frameworks*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
