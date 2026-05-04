@@ -1,5 +1,5 @@
 # 🪹 Why SE Asia Eats The West For Breakfast Academically  
-**First created:** 2026-04-20 | **Last updated:** 2026-04-20  
+**First created:** 2026-04-28 | **Last updated:** 2026-05-04  
 *Preliminary note on why certain Southeast and East Asian academic systems are outpacing Western institutions in momentum under conditions of systemic regression*
 
 ---
