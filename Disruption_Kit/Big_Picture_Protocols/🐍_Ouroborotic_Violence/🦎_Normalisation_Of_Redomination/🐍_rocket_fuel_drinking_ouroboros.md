@@ -193,13 +193,13 @@ bubble economics, venture capital, hyperscaling, tech cycles, innovation pressur
 
 ## 🏮 Footer  
 
-*Rocket Fuel Drinking Ouroboros* is a living node of the **Polaris Protocol**.  
+*🐍 Rocket Fuel Drinking Ouroboros* is a living node of the **Polaris Protocol**.  
 It maps the acceleration mechanics of digital industries under capital pressure, framing bubble dynamics as a systemic engine rather than a temporary anomaly.  
 
 > 📡 Cross-references:
 > 
-> - [💾 Compu Global Hyper Mega Net](../💾_compu_global_hyper_mega_net.md) — *dominance cycle diagnostic*  
-> - [😿 Where Did the Cheeseburger Go](../😿_where_did_the_cheeseburger_go.md) — *cultural erosion and loss of exploratory space*  
+> - [💾 Compu Global Hyper Mega Net](./💾_compu_global_hyper_mega_net.md) — *dominance cycle diagnostic*  
+> - [😿 Where Did the Cheeseburger Go](./😿_where_did_the_cheeseburger_go.md) — *cultural erosion and loss of exploratory space*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
