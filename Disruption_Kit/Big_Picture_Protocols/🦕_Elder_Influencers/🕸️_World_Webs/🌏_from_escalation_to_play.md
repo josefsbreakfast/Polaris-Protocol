@@ -1,5 +1,5 @@
 # 🌏 From Escalation to Play  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-20 | **Last updated:** 2026-05-03  
 *Why endless escalation corrodes stability, and how cooperative “play” offers a stronger strategic model.*
 
 ---
@@ -66,4 +66,4 @@ It documents why endless escalation is a treadmill of fragility and why cooperat
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-05-03_
