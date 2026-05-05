@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-05 13:06:46 UTC_
+_Generated on 2026-05-05 13:11:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -584,6 +584,7 @@ _Generated on 2026-05-05 13:06:46 UTC_
         - [`📡_inquiry_convergence_theory.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/📡_inquiry_convergence_theory.md)
         - [`🔥_the_latency_years_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🔥_the_latency_years_timeline.md)
         - [`🔮_palantir_as_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🔮_palantir_as_infrastructure.md)
+        - [`🔮_when_balls_realign.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🔮_when_balls_realign.md)
         - [`🕸️_exploitability_and_defensive_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🕸️_exploitability_and_defensive_strategy.md)
         - [`🚀_mordernising_information_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🚀_mordernising_information_defence.md)
         - [`🚘_motability_ergonomics_gap.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🚘_motability_ergonomics_gap.md)
