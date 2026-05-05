@@ -102,6 +102,107 @@ This allows:
 
 ---
 
+---
+
+## 🇧🇲 Field Example: Bermuda Media Moment  
+
+**Context:**  
+Coverage surrounding a visit by **King Charles III** included discussion of constitutional futures in **Bermuda**, including whether the territory should remain linked to Britain.
+
+---
+
+### 🧠 Observed Shift  
+
+The framing of questions such as:
+
+- “Should Bermuda remain a British Overseas Territory?”  
+- “How does the legacy of slavery shape current political identity?”  
+
+was notably:
+
+- calm  
+- procedural  
+- non-reactive  
+
+Politicians were given space to respond without:
+
+- adversarial framing  
+- “extremism” labeling  
+- identity-threat escalation  
+
+---
+
+### 🔍 Why This Is Significant  
+
+In UK-centred discourse, equivalent questions often trigger:
+
+- defensive narratives  
+- moral polarisation  
+- rhetorical boundary policing  
+
+In this case, the tone shifted to:
+
+> **administrative legitimacy rather than ideological conflict**
+
+---
+
+### 🌍 Mechanism in Action  
+
+This instance demonstrates:
+
+> **Peripheral stabilisation feeding central discourse**
+
+- At the periphery (Bermuda), postcolonial questions are:
+  - politically normalised  
+  - less emotionally charged  
+
+- When mediated back into UK coverage:
+  - they appear **de-escalated**  
+  - they subtly expand what is discussable at the centre  
+
+---
+
+### ⚖️ Callus Signal  
+
+This moment represents:
+
+> **discursive callus bearing weight without triggering re-fracture**
+
+- historically charged topic  
+- sustained without emotional spike  
+- processed as a legitimate policy question  
+
+---
+
+### ⚠️ Interpretive Caution  
+
+This stabilisation may indicate:
+
+- 🟢 emerging capacity for non-reactive engagement  
+**or**  
+- 🔴 early-stage affective dampening without structural change  
+
+Further observation required:
+
+- does this tone persist beyond ceremonial contexts?  
+- does it translate into policy or institutional shift?  
+
+---
+
+### 🧭 Node Relevance  
+
+This example operationalises:
+
+- **callus formation** (reduced sensitivity)  
+- **proceduralisation** (shift to governance language)  
+- **peripheral feedback loops** (de-escalation entering the centre)  
+
+It serves as a baseline reference point for tracking future discourse shifts.
+
+---
+
+---
+
 ## 🧠 Language Destabilisation Layer  
 
 Terms such as:
