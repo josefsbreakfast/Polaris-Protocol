@@ -4,7 +4,7 @@
 
 ---
 
-## Core Claim
+## 🛰️ Core Claim
 
 A disability mobility scheme cannot be evaluated solely on vehicle provision.
 
@@ -16,9 +16,9 @@ This is the ergonomics gap.
 
 ---
 
-## Structural Context
+## ✨ Structural Context
 
-In the UK, Motability functions as the primary—effectively singular—national pathway for disabled vehicle access.
+In the UK, **Motability** functions as the primary—effectively singular—national pathway for disabled vehicle access.
 
 There is no equivalent parallel scheme.
 
@@ -32,7 +32,7 @@ It is enforced compromise.
 
 ---
 
-## The Ergonomic Threshold
+## 🦿 The Ergonomic Threshold
 
 For many disabled users, usability depends on non-negotiable physical criteria:
 
@@ -51,7 +51,7 @@ If these thresholds are not met, the vehicle is functionally inaccessible regard
 
 ---
 
-## Market Drift
+## 🌀 Market Drift
 
 The current vehicle market is reducing the availability of ergonomically suitable models:
 
@@ -64,9 +64,9 @@ The scheme does not control these shifts, but it is directly shaped by them.
 
 ---
 
-## Cost Optimisation vs Functional Access
+## 💸 Cost Optimisation vs Functional Access
 
-Motability Operations Ltd operates under cost constraints tied to fixed benefit levels and fleet risk management.
+**Motability Operations Ltd** operates under cost constraints tied to fixed benefit levels and fleet risk management.
 
 This produces rational outcomes at system level:
 
@@ -82,7 +82,7 @@ For users whose access depends on specific ergonomics, this results in exclusion
 
 ---
 
-## The Private Market Constraint
+## 💰 The Private Market Constraint
 
 When suitable vehicles are not available within the scheme, users are directed—implicitly or explicitly—toward private alternatives.
 
@@ -101,7 +101,7 @@ The result is a de facto paywall around functional mobility.
 
 ---
 
-## Failure Mode
+## 🧨 Failure Mode
 
 The scheme continues to function administratively and financially.
 
@@ -118,7 +118,7 @@ It is a targeted failure at the interface between system design and embodied nee
 
 ---
 
-## Correct Framing
+## ☕️ Correct Framing
 
 This is not a claim that the scheme fails universally.
 
@@ -128,13 +128,13 @@ It is a claim that:
 
 ---
 
-## Advocacy Line
+## 🕸️ Advocacy Line
 
 > Where no alternative pathway exists, failure to provide ergonomically suitable vehicles is not a limitation of choice but a failure of access.
 
 ---
 
-## Ergonomic Reality Check (For Non-Disabled Readers)
+## 🦖 Ergonomic Reality Check (For Non-Disabled Readers)
 
 This section exists to translate abstract “vehicle choice” into physical experience.
 
