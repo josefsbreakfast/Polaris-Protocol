@@ -45,7 +45,13 @@ They trace a pattern:
 - erosion or loss  
 - adaptation or withdrawal  
 
-These signals are used here not as authority, but as cultural evidence of a broader structural condition.
+These signals are used here not as authority, but as cultural evidence of a broader structural condition. 
+
+These signals also emerge from a broader musical environment.  
+
+The Kinks’ work reflects influences from multiple traditions present in mid-20th century Britain, including Caribbean and other migrant musical forms.  
+
+This reflects the lived cultural context of urban Britain, where musical exchange and hybridisation were already shaping everyday sound and shared experience.
 
 ---
 
