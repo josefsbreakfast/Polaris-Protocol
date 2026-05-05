@@ -261,7 +261,7 @@ postcolonial melancholia, narrative management, overton window, extremism discou
 
 ## 🏮 Footer  
 
-*Managing Postcolonial Melancholia* is a living node of the **Polaris Protocol**.  
+*☕️ Managing Postcolonial Melancholia* is a living node of the **Polaris Protocol**.  
 It maps how post-imperial societies stabilise unresolved historical rupture through language, tone, and institutional signalling rather than direct resolution.
 
 > 📡 Cross-references:
