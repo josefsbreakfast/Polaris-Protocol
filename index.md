@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-05 10:08:02 UTC_
+_Generated on 2026-05-05 10:14:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7110,6 +7110,9 @@ _Generated on 2026-05-05 10:08:02 UTC_
   - [`README.md`](🦆_Digital_Disruption/README.md)
 - [**🧄_Exousiología/**](🧄_Exousiología/)
   - [`README.md`](🧄_Exousiología/README.md)
+  - [`🌑_what_is_authority.md`](🧄_Exousiología/🌑_what_is_authority.md)
+  - [`🧅_source_and_legitimacy.md`](🧄_Exousiología/🧅_source_and_legitimacy.md)
+  - [`🫚_shape_of_power.md`](🧄_Exousiología/🫚_shape_of_power.md)
 - [**🩻_Weirdness_Screening/**](🩻_Weirdness_Screening/)
   - [**🌐_Connection_Hiccups/**](🩻_Weirdness_Screening/🌐_Connection_Hiccups/)
     - [`README.md`](🩻_Weirdness_Screening/🌐_Connection_Hiccups/README.md)
