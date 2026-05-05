@@ -1,5 +1,5 @@
 # 🌑 What May 04 Does to the Internet  
-**First created:** 2026-05-04 | **Last updated:** 2026-05-04  
+**First created:** 2026-05-04 | **Last updated:** 2026-05-05  
 *How calendar-triggered phrases collapse meaning into ritual, and how date-awareness functions as a coordination protocol across online culture.*
 
 ---
@@ -163,6 +163,10 @@ Used by:
 ## 🌌 Constellations  
 🪄 📅 🧠 🌐 🧿 — expression-of-norms node; calendar-trigger protocol; mass behavioural alignment; signal compression.
 
+*Further media:*  
+
+- [📹: RAF Band Plays Star Wars *Main Theme*](https://vm.tiktok.com/ZNRpDKxyY/) – *at least one person in the MOD understood the assignment*  
+
 ---
 
 ## ✨ Stardust  
@@ -181,4 +185,4 @@ It maps how calendar-based triggers convert meaning into repeatable participatio
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-04_
+_Last updated: 2026-05-05_
