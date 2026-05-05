@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Core Premise  
+## 🛰️ Core Premise  
 
 Building on Paul Gilroy’s concept of postcolonial melancholia, this node reframes the condition not just as a diagnosis, but as an **ongoing governance process**.
 
@@ -102,8 +102,6 @@ This allows:
 
 ---
 
----
-
 ## 🇧🇲 Field Example: Bermuda Media Moment  
 
 **Context:**  
@@ -197,9 +195,7 @@ This example operationalises:
 - **proceduralisation** (shift to governance language)  
 - **peripheral feedback loops** (de-escalation entering the centre)  
 
-It serves as a baseline reference point for tracking future discourse shifts.
-
----
+It serves as a baseline reference point for tracking future discourse shifts.  
 
 ---
 
