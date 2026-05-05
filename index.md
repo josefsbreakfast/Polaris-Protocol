@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-05 10:39:39 UTC_
+_Generated on 2026-05-05 11:34:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -465,6 +465,7 @@ _Generated on 2026-05-05 10:39:39 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/README.md)
         - [`political_two_axis_model_coloured.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/political_two_axis_model_coloured.png)
         - [`political_two_axis_model_diagram.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/political_two_axis_model_diagram.png)
+        - [`☕️_managing_postcolonial_melancholia.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/☕️_managing_postcolonial_melancholia.md)
         - [`☕️_the_death_of_the_british_eccentric.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/☕️_the_death_of_the_british_eccentric.md)
         - [`⚖️_election_candidacy_query.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/⚖️_election_candidacy_query.md)
         - [`⚖️_narrative_control_and_legal_responsibility.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/⚖️_narrative_control_and_legal_responsibility.md)
