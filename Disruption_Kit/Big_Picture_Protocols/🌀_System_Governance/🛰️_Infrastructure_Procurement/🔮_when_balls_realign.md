@@ -151,6 +151,184 @@ their signalling demonstrates high levels of judgment and awareness
 
 ⸻
 
+## 🏭 Worker Conditions & Whistleblowing Dynamics  
+
+Alignment signalling at the organisational level does not eliminate internal constraint.
+
+Workers operate within a separate but interacting system defined by:
+
+> **the labour stability triangle: wages, hours, conditions**
+
+Industrial stability generally requires:
+
+- acceptable compensation (wages)  
+- sustainable workload (hours)  
+- tolerable environment and expectations (conditions)  
+
+Failure in any one dimension increases the likelihood of:
+
+- dissatisfaction  
+- internal dissent  
+- whistleblowing  
+- or industrial action  
+
+---
+
+## ⚖️ Conditions as the Trigger Variable  
+
+In high-skill, high-compensation environments:
+
+- wages are often strong  
+- hours may be demanding but tolerated  
+
+This shifts pressure onto:
+
+> **conditions (ethical, psychological, cultural)**
+
+Examples include:
+
+- moral discomfort with outcomes  
+- perceived misalignment between stated values and actual use  
+- lack of transparency or agency  
+- inability to influence direction  
+
+---
+
+## 🧿 Nexus Pressure on Workers  
+
+For workers inside nexus organisations:
+
+- proximity to consequence increases moral load  
+- lack of control over end-use creates tension  
+
+This produces:
+
+> **high-skill labour operating under sustained moral strain**
+
+Which can manifest as:
+
+- internal questioning  
+- attempts at escalation  
+- whistleblowing when internal channels fail  
+
+---
+
+## 🔥 Signalling vs Internal Reality  
+
+External alignment signals (doctrine, branding, positioning) interact with internal conditions:
+
+- if aligned → reinforces cohesion  
+- if misaligned → amplifies dissonance  
+
+In the latter case:
+
+> **strong external positioning can intensify internal dissatisfaction rather than stabilise it**
+
+---
+
+## 🪤 Whistleblowing as Boundary Breach  
+
+When internal constraints prevent resolution:
+
+- workers may move outside organisational boundaries  
+
+This represents:
+
+> **failure of internal negotiation mechanisms**
+
+Whistleblowing becomes:
+
+- a form of pressure  
+- a signal to external audiences  
+- a rebalancing attempt within the system  
+
+---
+
+## 🧠 Cognitive Dissonance & Systemic Strain  
+
+Defence-aligned systems operate with an existing baseline of cognitive dissonance:
+
+- work enables coercive or violent outcomes  
+- justification relies on strategic, legal, or moral frameworks  
+
+This creates:
+
+> **a steady-state level of managed moral tension**
+
+---
+
+## ⚙️ Escalation Under Political Instability  
+
+When external conditions become more volatile:
+
+- contested conflicts  
+- unclear strategic objectives  
+- instability in political leadership  
+
+this baseline dissonance increases.
+
+Result:
+
+> **compounding moral and psychological load across the system**
+
+---
+
+## 🔥 Distributed Strain Across Layers  
+
+This pressure is not confined to one group:
+
+- operators → legal and ethical interpretation  
+- technical staff → indirect responsibility  
+- leadership → strategic and reputational exposure  
+
+This produces:
+
+> **system-wide strain rather than isolated discomfort**
+
+---
+
+## ⚖️ Lawful Orders & Interpretive Friction  
+
+In systems governed by:
+
+- formal hierarchies  
+- legal frameworks  
+- obligations to follow lawful orders  
+
+increased dissonance can produce:
+
+> **variation in how legitimacy and responsibility are interpreted**
+
+This does not automatically produce systemic breakdown.
+
+However, it can lead to:
+
+- hesitation  
+- internal disagreement  
+- increased scrutiny of decisions  
+
+---
+
+## 🪤 Internal Resolution vs External Spillover  
+
+When internal mechanisms cannot resolve tension:
+
+- dissent may escalate  
+- whistleblowing becomes more likely  
+- organisational coherence weakens  
+
+This reflects:
+
+> **failure of internal alignment under increased moral load**
+
+---
+
+## 🎯 Clean Integration  
+
+> Even where organisations successfully align with priority external stakeholders (e.g. defence), internal stability depends on maintaining acceptable conditions within the labour triangle. As political instability increases moral strain across the system, pressure concentrates on conditions, driving dissent, hesitation, and whistleblowing as mechanisms of correction.
+
+---
+
 🔥 Moral Proximity Amplification
 
 Moral tolerance shifts with proximity:
