@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-05 10:28:14 UTC_
+_Generated on 2026-05-05 10:30:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7109,6 +7109,8 @@ _Generated on 2026-05-05 10:28:14 UTC_
     - [`🧠_the_background_terror.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_the_background_terror.md)
   - [`README.md`](🦆_Digital_Disruption/README.md)
 - [**🧄_Exousiología/**](🧄_Exousiología/)
+  - [**🌍_Comparative_Civilisational_Models/**](🧄_Exousiología/🌍_Comparative_Civilisational_Models/)
+    - [`README.md`](🧄_Exousiología/🌍_Comparative_Civilisational_Models/README.md)
   - [**🌱_Core_Principles/**](🧄_Exousiología/🌱_Core_Principles/)
     - [` 🌑_what_is_authority.md`](🧄_Exousiología/🌱_Core_Principles/ 🌑_what_is_authority.md)
     - [` 🐙_scope_and_limits.md`](🧄_Exousiología/🌱_Core_Principles/ 🐙_scope_and_limits.md)
