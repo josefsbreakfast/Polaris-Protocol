@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-05 11:37:35 UTC_
+_Generated on 2026-05-05 13:00:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -586,6 +586,7 @@ _Generated on 2026-05-05 11:37:35 UTC_
         - [`🔮_palantir_as_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🔮_palantir_as_infrastructure.md)
         - [`🕸️_exploitability_and_defensive_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🕸️_exploitability_and_defensive_strategy.md)
         - [`🚀_mordernising_information_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🚀_mordernising_information_defence.md)
+        - [`🚘_motability_ergonomics_gap.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🚘_motability_ergonomics_gap.md)
         - [`🛠️_fixing_the_uk_algorithmic_safety_stack.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛠️_fixing_the_uk_algorithmic_safety_stack.md)
         - [`🛰️_ai_middleware.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_ai_middleware.md)
         - [`🛰️_data_fusion_centres.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_data_fusion_centres.md)
