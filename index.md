@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-05 10:18:41 UTC_
+_Generated on 2026-05-05 10:20:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7116,6 +7116,8 @@ _Generated on 2026-05-05 10:18:41 UTC_
     - [` 🧅_source_and_legitimacy.md`](🧄_Exousiología/🌱_Core_Principles/ 🧅_source_and_legitimacy.md)
     - [` 🪼_legibility_and_recognition.md`](🧄_Exousiología/🌱_Core_Principles/ 🪼_legibility_and_recognition.md)
     - [` 🫚_shape_of_power.md`](🧄_Exousiología/🌱_Core_Principles/ 🫚_shape_of_power.md)
+    - [`README.md`](🧄_Exousiología/🌱_Core_Principles/README.md)
+    - [`🕸️_justice_as_load_bearing.md`](🧄_Exousiología/🌱_Core_Principles/🕸️_justice_as_load_bearing.md)
   - [`README.md`](🧄_Exousiología/README.md)
 - [**🩻_Weirdness_Screening/**](🩻_Weirdness_Screening/)
   - [**🌐_Connection_Hiccups/**](🩻_Weirdness_Screening/🌐_Connection_Hiccups/)
