@@ -31,10 +31,10 @@ This node maps:
 
 This node draws on recurring themes across the work of The Kinks, particularly:
 
-- The Village Green Preservation Society (1968) — naming and valuing everyday life  
-- Apeman (1970) — systemic overload and desire for escape  
-- Death of a Clown (1967) — individual exhaustion within performative roles  
-- Come Dancing (1983) — loss of shared spaces and cultural replacement  
+- *The Village Green Preservation Society* (1968), in its explicit naming and valuing everyday life, contrasted with *Come Dancing* (1983), whereby the loss of shared spaces and cultural replacement is grieved in real-time.  
+
+- *Death of a Clown* (1967) lamenting individual exhaustion within performative roles, culminating with the systemic overload and desire for escape responded to in *Apeman* (1970).  
+
 
 Taken together, these works do not form a single argument.  
 
