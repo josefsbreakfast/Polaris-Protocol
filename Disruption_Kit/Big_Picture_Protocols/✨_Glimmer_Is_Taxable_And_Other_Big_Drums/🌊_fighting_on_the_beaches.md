@@ -144,7 +144,7 @@ Its historical references function as cultural memory, moral folklore, and anti-
 >   
 > 🏮 Return To:
 > 
-> - [🌀 Systems & Governance](../README.md)
+> - [🧠 Big Picture Protocols](../README.md)
 > - [🪄 Disruption Kit](../../README.md)
 > - [🌌 Polaris Protocol - Root](../../../README.md)  
 
