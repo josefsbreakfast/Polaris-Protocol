@@ -69,7 +69,7 @@ You may not stop incoming pressure entirely; you can still **shorten its half-li
 
 ---
 
-## 🧪 6. Controlled Novelty & Innocuous Specificity  
+## 🧪 Controlled Novelty & Innocuous Specificity  
 
 Attention systems often overreact to novelty and ambiguity. Reduce both.
 
