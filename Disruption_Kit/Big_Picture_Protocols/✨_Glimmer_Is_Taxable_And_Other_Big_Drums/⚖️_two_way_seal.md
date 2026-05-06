@@ -179,7 +179,7 @@ sealed by the office of the Crown and sustained only by respect moving in both d
 >   
 > 🏮 Return To:
 > 
-> - [🌀 Systems & Governance](../README.md)
+> - [🧠 Big Picture Protocols](../README.md)
 > - [🪄 Disruption Kit](../../README.md)
 > - [🌌 Polaris Protocol - Root](../../../README.md)  
 
