@@ -127,7 +127,7 @@ It reframes “can’t stop the lock” situations into sensor-deception problem
 >
 > 🏮 Return To:
 > 
-> - [🌀 Systems & Governance](../README.md)
+> - [🧠 Big Picture Protocols](../README.md)
 > - [🪄 Disruption Kit](../../README.md)
 > - [🌌 Polaris Protocol - Root](../../../README.md)  
 
