@@ -24,7 +24,7 @@ This node concerns solidarity as civic endurance, mutual reliance, and anti-auth
 ## 🦊🦡 Solidarity Is Often Grim, Actually  
 
 I hate to be the bearer of bad news.  
-(Lies; I enjoy ruining a day.)  
+(Lies; I do rather enjoy ruining a day.)  
 
 The lives of “the left” are rarely a Bohemian dream or a romantic tryst with poets.  
 Most solidarity work looks significantly less cinematic than people imagine.  
