@@ -1,4 +1,5 @@
 # 🐉 It’s Not Always Your Chinese Spy  
+**First created:** 2026-05-07 | **Last updated:** 2026-05-07  
 *Why platform drift, optimisation shifts, and ad-pressure decay are not the same thing as covert influence operations.*  
 
 ---
@@ -217,6 +218,57 @@ Because:
 > a feed becoming spiritually mediocre is not automatically cyberwarfare.
 
 Sometimes it is just capitalism sanding the edges off a machine that used to feel alive.
+
+---
+
+## 📣 Unfortunately, Sometimes The Feed Is Just... Worse
+
+While the Gen Z kids are respectfully lamenting:
+> “my Chinese sppppyyyyy 😭😭😭”
+
+because their TikTok feed got worse, they are somewhat conscious that this is shorthand.
+
+Because sometimes it’s not a military intelligence operation.  
+
+Gen Z are extremely aware of the most likely issue:  
+
+Sometimes capitalism is just structurally incapable of delivering quality forever once monetisation pressure kicks in.
+
+Old TikTok was basically:
+- 🎵 music-indexed emotional crack cocaine  
+- 🧠 hyper-aggressive behavioural modelling  
+- 📲 weirdly precise subcultural routing  
+
+What users experienced as “personalisation” was often just an extremely music-friendly recommendation architecture with unusually strong emotional indexing.
+
+Now the platform often feels like:
+- 🛍️ adverts  
+- 📣 engagement mulch  
+- 🧱 flattened recommendation sludge  
+- 🎯 “commercially legible” optimisation  
+
+Music no longer appears to dominate discovery in the same way. Search feels weaker. Recommendation coherence feels degraded. Users increasingly get shown content that technically maximises retention but no longer feels emotionally or culturally precise.
+
+That does not automatically equal espionage.
+
+Meanwhile China gets to aurafarm the entire discourse because Western users are out here nostalgically describing a brutally effective recommendation engine as if it was their secret emotionally-attuned communist best friend.
+
+Which is also a bittersweet point of humour, because:
+> this is not communism 😭
+
+CRAKEN rule:
+> A worsening feed is not automatically an intelligence operation.
+
+Sometimes a platform stops feeling alive because:
+- ad pressure increased  
+- optimisation targets shifted  
+- emotional routing weakened  
+- or the recommendation engine got sanded down for advertiser safety  
+
+The spy narrative may still be emotionally satisfying.
+
+But:
+> utility is not evidence.
 
 ---
 
