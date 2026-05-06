@@ -25,7 +25,7 @@ Distribution:
 Those who have accidentally become “the adult in the room.”
 
 Review cycle:
-Whenever somebody has finally had enough.
+Whenever somebody has finally had enough, or the kettle stops working.
 ```
 
 ---
