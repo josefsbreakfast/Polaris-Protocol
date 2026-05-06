@@ -202,7 +202,7 @@ The United Nerd Front of Nuclear Medicine, Interventional Radiology, and an eccl
 **Archetype:**  
 Frozen at the historical moment technology last felt governable.  
 
-*"If we buy the next patch, will it bloody work now?"*  
+*"If we buy the next patch, will it bloody work now? No, we don't want a newer version with 'better' features."*  
 
 **Typical posture:**  
 - attachment to outdated workflows  
@@ -219,7 +219,7 @@ Past competence becomes a permanent frame of reference.
 - mismatch between policy ambition and operational capability
 
 **Exception to the rule:**  
-Interest in technological innovation increases dramatically any time any politician even looks like they might increase the budget.  
+Interest in technological innovation increases dramatically any time any politician even looks like they *might* increase the budget.  
 
 ---
 
