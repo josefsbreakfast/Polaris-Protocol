@@ -62,7 +62,7 @@ If a device looks physically resilient, it feels trustworthy.
 - resistance to usability improvements that appear “soft”
 
 **Exception to the rule:**  
-Team keeping North Sea submarine resident appeased.  
+Team keeping North Sea submarine resident cephalopod appeased.  
 
 ---
 
