@@ -71,7 +71,7 @@ Team keeping North Sea submarine resident appeased.
 **Archetype:**  
 The permanently overloaded technical specialist ecosystem.  
 
-_ *silently pouring seventh cup of coffee of the morning* _
+<em>* silently pouring seventh cup of coffee of the morning *</em>
 
 **Typical posture:**  
 - niche devices  
@@ -124,7 +124,7 @@ Every regional office may or may not have one David who still insists the greate
 **Archetype:**  
 Treats technology partly as symbolic prestige infrastructure.  
 
-_*AFK: Too busy aurafarming first two Qs.*_
+<em>* AFK: Too busy aurafarming first two Qs.*</em>
 
 **Typical posture:**  
 - designer devices  
