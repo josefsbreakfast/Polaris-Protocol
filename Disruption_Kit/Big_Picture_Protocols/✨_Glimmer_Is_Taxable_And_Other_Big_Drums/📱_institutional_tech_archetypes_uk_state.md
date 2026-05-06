@@ -71,7 +71,7 @@ Team keeping North Sea submarine resident appeased.
 **Archetype:**  
 The permanently overloaded technical specialist ecosystem.  
 
-_*silently pouring seventh cup of coffee of the morning*_
+_ *silently pouring seventh cup of coffee of the morning* _
 
 **Typical posture:**  
 - niche devices  
