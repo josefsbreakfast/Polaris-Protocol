@@ -22,7 +22,8 @@ Document Status:
 OFFICIAL / tea-adjacent
 
 Distribution:
-Those who have accidentally become “the adult in the room.” (Oh, dear...)  
+Those who have accidentally become “the adult in the room.”
+*(Oh dear...)*  
 
 Review cycle:
 Whenever somebody has finally had enough, or the kettle stops working.
