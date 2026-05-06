@@ -79,7 +79,7 @@ The country still instinctively reaches for the imagery of:
 This is not necessarily because people desire conflict or imperial nostalgia.  
 Often it reflects what cultural theorists describe as **postcolonial melancholia**: a society continuing to process the collapse of imperial identity through inherited wartime emotional language.  
 
-The Dunkirk flotilla, the Blitz spirit, the home front, the stubborn little island refusing intimidation — these remain part of Britain’s emotional operating system whether people consciously endorse them or not.  
+The Dunkirk flotilla, the Blitz spirit, the Home Front, the stubborn little island refusing intimidation — these remain part of Britain’s emotional operating system whether people consciously endorse them or not.  
 
 This node does not invoke those images to romanticise empire, militarism, or nationalism.  
 It invokes them because they still function as shared cultural shorthand for:
