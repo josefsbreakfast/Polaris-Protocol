@@ -22,10 +22,11 @@ Document Status:
 OFFICIAL / tea-adjacent
 
 Distribution:
-Those who have accidentally become “the adult in the room.”
+Those who have accidentally become “the adult in the room.” (Oh, dear...)  
 
 Review cycle:
 Whenever somebody has finally had enough, or the kettle stops working.
+
 ```
 
 ---
@@ -54,7 +55,9 @@ Reader: they were not.
 
 This node is a satirical-educational synthesis of public accountability principles, whistleblowing doctrine, administrative-law concepts, and institutional ethics culture.
 
-It is **not** legal advice, operational instruction, or authorisation to disclose classified material outside lawful reporting mechanisms.
+It is **not** legal advice, operational instruction, or authorisation to disclose classified material outside lawful reporting mechanisms.  
+
+It may look *similar* to legal advice, but that is what lawyers do, and Polaris merely laughs at power. Different skillset.  
 
 Its purpose is narrower: to explore how lawful conscience, procedural accountability, and public-interest reporting frameworks interact inside highly hierarchical systems where secrecy, duty, institutional pressure, and personal ethics can collide awkwardly with one another.
 
@@ -198,7 +201,10 @@ Offer lawful work-arounds:
 
 ## 📚 Appendix — Authorising Frameworks & Verification  
 
-### A. Source Index for Golden Rules | # | Guideline | Primary Statutory / Policy Sources |  |:-:|------------|-----------------------------------|  
+### A. Source Index for Golden Rules  
+
+| # | Guideline | Primary Statutory / Policy Sources |  
+|:-:|------------|-----------------------------------|  
 | 1 | Don’t remove or transmit classified material. | Official Secrets Act 1989 ss 1–4; GovS 007 (Security) §3.2; JSP 440 Ch 2 §201 (need-to-know). |  
 | 2 | Record facts contemporaneously. | Civil Service Code §5; FOIA 2000 s 46 Code of Practice §9-15; ICO Records Management Guidance. |  
 | 3 | Name the risk, not the target data. | Defence Information Management Policy §4.3; JSP 441 Annex D; Cabinet Office Security Classification 2018 §41-43. |  
