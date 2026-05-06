@@ -171,11 +171,11 @@ It uses fictional bureaucratic framing, wartime-paperwork aesthetics, and instit
 
 It does not endorse unauthorised disclosure, operational compromise, or unlawful handling of classified material.
 
-> “Please try not to become a constitutional incident before lunch.”
+*Please try not to become a constitutional incident before lunch.*  
 
 > 📡 Cross-References:
 > 
-> - [🦁 Armoury Quick Tour](./🦁_Armoury_Quick_Tour/README.md) - *...good luck.*  
+> - [🦁 Armoury Quick Tour](./🦁_Armoury_Quick_Tour/README.md) - *...best of luck, chaps.*  
 >   
 > 🏮 Return To:
 > 
