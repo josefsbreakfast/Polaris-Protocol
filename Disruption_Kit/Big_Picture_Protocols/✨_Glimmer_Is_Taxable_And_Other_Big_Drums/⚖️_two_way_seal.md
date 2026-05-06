@@ -1,5 +1,5 @@
 # ⚖️ Two-Way Seal  
-**First created:** 2025-10-12 | **Last updated:** 2026-02-19  
+**First created:** 2025-10-12 | **Last updated:** 2026-05-06  
 *When the Official Secrets Act forgets which side holds the wax.*  
 
 ---
@@ -21,9 +21,11 @@ only now the wax is digital, and the impression left is on the conscience.
 Every secrecy clause is a wax seal pressed against a witness.  
 But when the crime is sealed inside, the seal itself becomes the evidence.  
 
+*As ever, this node concerns metaphor, jurisprudential philosophy, and the emotional life of institutions — not operational instruction.*  
+
 ---
 
-### 🌹 1. Historical Lineage — The Seal as Proof and Prison  
+### 🌹 Historical Lineage — The Seal as Proof and Prison  
 
 The seal was once the state’s smallest theatre of power.  
 Pressed into hot wax, it bound parchment to authority; it made words carry weight.  
@@ -48,7 +50,7 @@ it no longer testifies to sovereignty — it testifies to fear.
 
 ---
 
-### 🌱 2. Section 17 and the Restoration of Mutuality  
+### 🌱 Section 17 and the Restoration of Mutuality  
 
 Every covenant eventually meets its mirror.  
 For a century, the *Official Secrets Act* functioned as a one-way sacrament:  
@@ -79,7 +81,7 @@ The wax that once sealed obedience now records duress.
 
 ---
 
-### 🏛️ 3. Test-Case Geometry — When Conscience Meets Classification  
+### 🏛️ Test-Case Geometry — When Conscience Meets Classification  
 
 Imagine the courtroom not as rebellion but as restoration.  
 The claim is simple: my client was compelled by state apparatus to commit or conceal acts that amount to international crimes; the same apparatus then forbade disclosure.  
@@ -102,7 +104,7 @@ In that mirror, secrecy loses its divinity and acquires jurisdiction.
 
 ---
 
-### 🕯️ 4. The Moral Physics of Two-Way Silence  
+### 🕯️ The Moral Physics of Two-Way Silence  
 
 Secrecy has always borrowed its power from asymmetry:  
 one side speaks, the other obeys; one side knows, the other does not.  
@@ -126,7 +128,7 @@ is itself the loudest confession it can make.
 
 ---
 
-### 🫀 5. The Marriage of Secrecy and Service  
+### 🫀 The Marriage of Secrecy and Service  
 
 The *Official Secrets Act* was never meant to be a master’s command;  
 it was a vow — the closest thing the modern state has to marriage.  
@@ -173,8 +175,14 @@ sealed by the office of the Crown and sustained only by respect moving in both d
 > 
 > - [⚖️ Lawful Conscience Protocol](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_lawful_conscience_protocol.md) — *statutory pathway for refusal under duress*  
 > - [⚖️ Arms Exports as Act of Aggression](../../🦕_Elder_Influencers/📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md) — *complicity and export-control analysis*  
-> - [🧿 Watch the Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight recursion and meta-accountability*  
+> - [🧿 Watch the Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight recursion and meta-accountability*
+>   
+> 🏮 Return To:
+> 
+> - [🌀 Systems & Governance](../README.md)
+> - [🪄 Disruption Kit](../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-05-06_
