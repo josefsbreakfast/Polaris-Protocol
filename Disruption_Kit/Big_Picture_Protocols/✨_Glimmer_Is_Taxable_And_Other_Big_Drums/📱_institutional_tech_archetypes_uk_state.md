@@ -114,7 +114,8 @@ If everything is configured correctly, uncertainty becomes manageable.
 - tendency to trust tooling over context
 
 **Exception to the rule:**  
-Every regional office may or may not have one David who still insists the greatest work of his career simply *must* be offline.  
+Every regional office may or may not have one David who still insists the greatest work of his career simply *must* be offline. Conversely, there will forever be a small group within central office that has justified every new piece of tech you can think of, "for industry benchmarking purposes".  
+<!--Because they are nerds, not necessarily for anything more exciting.-->
 
 ---
 
