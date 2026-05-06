@@ -1,4 +1,4 @@
-# 🛡️ This Is the Home Front  
+# 🛡️ This Is The Home Front  
 **First created:** 2025-12-23 | **Last updated:** 2026-05-06  
 *Why defending democratic culture online is not escalation — it is civic responsibility.*  
 
@@ -209,7 +209,7 @@ home front, democratic resilience, civic continuity, digital public sphere, inst
 
 ## 🏮 Footer  
 
-*🛡️ This Is the Home Front* is a living node of the Polaris Protocol.  
+*🛡️ This Is The Home Front* is a living node of the Polaris Protocol.  
 It examines democratic defence as a form of civic stewardship: calm, proportionate, collective, and resistant to intimidation without collapsing into panic or hostility.  
 
 The wartime and home-front imagery used throughout this node functions as cultural metaphor and historical vocabulary for resilience, not as advocacy for violence or militarisation.  
