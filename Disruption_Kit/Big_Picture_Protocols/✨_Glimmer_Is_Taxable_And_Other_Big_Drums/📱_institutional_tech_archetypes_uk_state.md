@@ -124,7 +124,7 @@ Every regional office may or may not have one David who still insists the greate
 **Archetype:**  
 Treats technology partly as symbolic prestige infrastructure.  
 
-<em>* AFK: Too busy aurafarming first two Qs.*</em>
+<em>* AFK: Too busy aurafarming first two Qs. *</em>
 
 **Typical posture:**  
 - designer devices  
