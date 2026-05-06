@@ -200,7 +200,7 @@ But:
 
 ---
 
-## 🧩 CRAKEN Integration
+## 🐙 CRAKEN Integration
 
 This node functions as a narrative correction against premature geopolitical simplification.
 
