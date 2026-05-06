@@ -2,7 +2,7 @@
 
 ## Guidance Notes On Lawful Escalation, Administrative Dread, and the Proper Care of One’s Conscience During Professionally Unfortunate Circumstances
 
-**First created:** 2025-10-12 | **Last updated:** 2026-05-06
+**First created:** 2025-10-12 | **Last updated:** 2026-05-06  
 *“You have command / I have conscience” → restoring lawful accountability inside the seal.*
 
 ---
@@ -175,9 +175,7 @@ It does not endorse unauthorised disclosure, operational compromise, or unlawful
 
 > 📡 Cross-References:
 > 
-> - []()
-> - []()
-> - []()  
+> - [🦁 Armoury Quick Tour](./🦁_Armoury_Quick_Tour/README.md) - *...good luck.*  
 >   
 > 🏮 Return To:
 > 
