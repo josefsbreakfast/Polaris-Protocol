@@ -1,19 +1,31 @@
 # 📱 Institutional Tech Archetypes (UK State)  
-**First created:** 2025-12-14 | **Last updated:** 2026-02-19  
-*A cultural diagnostic of how British institutions relate to technology — and why that relationship shapes security, governance, and failure modes.*  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-06  
+*A cultural diagnostic of how British institutions relate to technology — and why that relationship shapes governance, security assumptions, and recurring organisational blind spots.*  
 
 ---
 
 ## 🛰️ Orientation  
 
 Institutions do not interact with technology neutrally.  
-They relate to it through **culture, identity, hierarchy, and myth**.
+They relate to it through culture, hierarchy, aesthetics, professional mythology, habit, and inherited assumptions about competence.  
 
-This node maps recurring **institutional tech archetypes** within the UK state — not as jokes, but as diagnostic tools. Device choices, platform preferences, and attitudes toward “digital” reveal how power understands (or refuses to understand) the systems it governs.
+This node maps recurring **institutional tech archetypes** within the UK state — not as literal descriptions, but as diagnostic caricatures useful for understanding governance behaviour around digital systems.  
+These archetypes are intentionally exaggerated cultural composites: part satire, part organisational folklore, part systems analysis.  
 
-These archetypes help explain why certain failures repeat, why warnings are ignored, and why some risks are systematically underestimated.
+Device choices, platform preferences, attitudes toward “digital,” and emotional reactions to technical change can all reveal how institutions understand — or refuse to understand — the systems they govern.  
 
-Satire is used here as an analytical lens: humour surfaces truths that formal policy language often obscures.
+The point is not whether any individual department exactly matches the sketch presented here.  
+The point is that recurring cultural patterns often shape:
+- procurement behaviour,  
+- security assumptions,  
+- communication habits,  
+- responses to warnings,  
+- and institutional blind spots.  
+
+These patterns help explain why certain governance failures repeat, why technical expertise is unevenly valued, and why digital risk is so often treated as either magical abstraction or administrative inconvenience.  
+
+Satire is used here as an analytical lens rather than a claim of operational fact.  
+Humour can surface organisational truths that formal policy language often struggles to articulate directly.
 
 ---
 
@@ -23,111 +35,113 @@ Satire is used here as an analytical lens: humour surfaces truths that formal po
 - Cultural tech illiteracy as a governance risk  
 - Prestige, aesthetics, and denial shaping security posture  
 - How “not a computer person” scales into systemic failure  
-- Why archetypes persist despite repeated incidents  
+- Why institutional archetypes persist despite repeated incidents  
 
 ---
 
 ## 1. MOD — The Hardware Maximalist  
 
 **Archetype:**  
-Believes physical robustness equals security.
+Believes physical robustness signals institutional seriousness.
 
-**Typical posture:**
+**Typical posture:**  
 - oversized devices  
 - “mil-spec” language  
-- faith in weight, bulk, and proprietary kit  
+- preference for proprietary hardware  
+- visible emphasis on toughness and containment  
 
 **Cultural logic:**  
-Security is something you can *hold*.  
-If it looks tough, it must be safe.
+Security is imagined as something tangible.  
+If a device looks physically resilient, it feels trustworthy.
 
-**Failure mode:**  
-- overconfidence in hardware  
+**Recurring blind spot:**  
+- overconfidence in hardware solutions  
 - underestimation of software, metadata, and human factors  
-- resistance to usability improvements  
+- resistance to usability improvements that appear “soft”  
 
 ---
 
 ## 2. GCHQ — The Exhausted Specialist Collective  
 
 **Archetype:**  
-Hyper-competent, deeply technical, permanently tired.
+The permanently overloaded technical specialist ecosystem.
 
-**Typical posture:**
+**Typical posture:**  
 - niche devices  
 - custom configurations  
 - principled paranoia  
 - total awareness of everyone else’s mistakes  
 
 **Cultural logic:**  
-Technology is dangerous, powerful, and requires constant vigilance.
+Technology is powerful, fragile, and capable of failing catastrophically if treated carelessly.
 
-**Failure mode:**  
-- expected to compensate for everyone else’s ignorance  
-- treated as a clean-up service rather than a partner  
-- institutional burnout masked by competence  
+**Recurring blind spot:**  
+- expected to compensate for wider institutional illiteracy  
+- treated as clean-up infrastructure rather than collaborative partner  
+- exhaustion normalised because competence masks strain  
 
 ---
 
 ## 3. MI5 — The Control-Seeking Pragmatist  
 
 **Archetype:**  
-Wants mastery through settings, permissions, and toggles.
+Seeks reassurance through configuration, permissions, and procedural control.
 
-**Typical posture:**
+**Typical posture:**  
 - mainstream devices with “secure” branding  
-- belief that configuration = control  
-- anxiety-driven vigilance  
+- detailed settings management  
+- vigilance around access and permissions  
+- strong faith in layered controls  
 
 **Cultural logic:**  
-If everything is locked down correctly, risk is contained.
+If everything is configured correctly, uncertainty becomes manageable.
 
-**Failure mode:**  
-- overestimation of personal control  
-- blind spots around social, cognitive, and organisational vectors  
-- faith in tools over context  
+**Recurring blind spot:**  
+- overestimation of individual control  
+- underestimation of social and organisational dynamics  
+- tendency to trust tooling over context  
 
 ---
 
 ## 4. MI6 — The Aesthetic Technologist  
 
 **Archetype:**  
-Technology as prestige object.
+Treats technology partly as symbolic prestige infrastructure.
 
-**Typical posture:**
+**Typical posture:**  
 - designer devices  
-- limited editions  
-- brand symbolism  
-- confidence that style implies sophistication  
+- bespoke ecosystems  
+- emphasis on elegance and discretion  
+- confidence that sophistication signals capability  
 
 **Cultural logic:**  
-If it looks elite, it must be advanced.
+If something appears elite, it acquires an aura of advancement.
 
-**Failure mode:**  
-- prioritising appearance over interoperability  
-- bespoke solutions that resist audit  
-- glamour masking fragility  
+**Recurring blind spot:**  
+- prioritising aesthetics over interoperability  
+- bespoke systems resisting audit or standardisation  
+- glamour masking fragility and maintenance strain  
 
 ---
 
 ## 5. Cabinet Office — The Reluctant User  
 
 **Archetype:**  
-Technology as unavoidable nuisance.
+Experiences technology as unavoidable administrative weather.
 
-**Typical posture:**
-- default consumer devices  
-- minimal configuration  
+**Typical posture:**  
+- default consumer ecosystems  
+- minimal customisation  
 - update avoidance  
-- reliance on assistants  
+- heavy reliance on summaries and intermediaries  
 
 **Cultural logic:**  
-Digital systems are external to “real” governance.
+Digital systems are perceived as secondary to “real” governance work.
 
-**Failure mode:**  
-- inability to interrogate technical advice  
-- dependence on summaries and intermediaries  
-- delayed recognition of risk  
+**Recurring blind spot:**  
+- inability to interrogate technical advice directly  
+- dependence upon translation layers  
+- delayed recognition of emerging risk  
 
 ---
 
@@ -136,59 +150,61 @@ Digital systems are external to “real” governance.
 **Archetype:**  
 Trusts what has always been there.
 
-**Typical posture:**
+**Typical posture:**  
 - legacy systems  
-- fax machines  
-- paper-based confirmation  
-- suspicion of new interfaces  
+- paper confirmations  
+- layered workarounds  
+- suspicion toward abrupt interface change  
 
 **Cultural logic:**  
-If it’s familiar, it’s safe.
+Familiarity feels safer than disruption.
 
-**Failure mode:**  
-- persistence of insecure workflows  
+**Recurring blind spot:**  
 - institutional inertia  
-- treating repeated breaches as normal background noise  
+- persistence of inefficient or insecure workflows  
+- normalisation of recurring technical friction and security strain  
 
 ---
 
 ## 7. Home Office — The Stagnant Modernist  
 
 **Archetype:**  
-Frozen at the moment technology once felt manageable.
+Frozen at the historical moment technology last felt governable.
 
-**Typical posture:**
-- obsolete mobile tech  
-- stylus-era interfaces  
-- distrust of cloud systems  
+**Typical posture:**  
+- attachment to outdated workflows  
+- distrust of newer infrastructure models  
+- procedural layering over adaptation  
+- recurring reliance on symbolic “security” gestures  
 
 **Cultural logic:**  
-Past competence becomes permanent reference point.
+Past competence becomes a permanent frame of reference.
 
-**Failure mode:**  
-- refusal to adapt  
-- security theatre replacing security practice  
-- mismatch between policy ambition and operational reality  
+**Recurring blind spot:**  
+- slow adaptation to changing environments  
+- security theatre replacing resilient practice  
+- mismatch between policy ambition and operational capability  
 
 ---
 
 ## 8. HMRC — The Queue-Oriented Bureaucrat  
 
 **Archetype:**  
-Believes order itself is security.
+Believes procedural order produces legitimacy.
 
-**Typical posture:**
-- legacy communication models  
-- rigid process flows  
+**Typical posture:**  
+- legacy communication structures  
+- rigid process sequencing  
 - delayed responsiveness  
+- strong faith in forms and workflow  
 
 **Cultural logic:**  
-If there is a system, it must be working.
+If there is a process, stability must exist somewhere inside it.
 
-**Failure mode:**  
-- inability to respond to dynamic threats  
+**Recurring blind spot:**  
+- slow adaptation to dynamic threats  
 - procedural comfort overriding urgency  
-- user confusion treated as compliance  
+- procedural completion mistaken for user comprehension  
 
 ---
 
@@ -196,44 +212,54 @@ If there is a system, it must be working.
 
 These archetypes persist because they:
 - reinforce institutional identity  
-- protect status hierarchies  
+- stabilise status hierarchies  
 - externalise responsibility  
 - reduce cognitive strain  
+- simplify technological uncertainty into cultural habit  
 
-But together they create:
+Together, however, they can produce:
 - inconsistent security assumptions  
-- fractured digital governance  
+- fragmented digital governance  
 - predictable blind spots  
-- repeated failure patterns  
+- institutional communication failures  
+- repeated patterns of preventable risk  
 
 Technology failures are rarely technical alone.  
-They are cultural failures made visible.
+More often, they are cultural failures made visible.
 
 ---
 
-## 🌌 Constellations
+## 🌌 Constellations  
 
-📱 🏛️ 🪞 🧠 ⚖️ — institutional culture, reflection, cognition, governance legitimacy.
-
----
-
-## ✨ Stardust
-
-institutional tech culture, device archetypes, uk governance, digital illiteracy, security theatre, cultural diagnostics, technology and power
+📱 🏛️ 🪞 🧠 ⚖️ — institutional mythology; governance cognition; technological identity formation; bureaucratic self-perception under digital modernity.
 
 ---
 
-## 🏮 Footer
+## ✨ Stardust  
+
+institutional tech culture, governance archetypes, digital governance, institutional mythology, technology and power, security culture, digital illiteracy, governance diagnostics, bureaucratic systems, organisational behaviour, institutional cognition, cultural failure modes
+
+---
+
+## 🏮 Footer  
 
 *📱 Institutional Tech Archetypes (UK State)* is a living node of the **Polaris Protocol**.  
-It uses cultural analysis and satire to surface how institutional relationships with technology shape governance outcomes, security posture, and repeated failure modes.
+It uses satire, systems thinking, and cultural analysis to examine how institutional relationships with technology shape governance outcomes, security assumptions, and recurring organisational blind spots.  
+
+The archetypes presented here are intentionally exaggerated composites designed to explore institutional mythology and governance culture rather than describe specific operational realities.  
 
 > 📡 Cross-references:
 > 
-> - [🧪 Bad Procurement as a Security Vector](../🌀_System_Governance/🛰️_Infrastructure_Procurement/🧪_bad_procurement_as_a_security_vector.md) — *operational consequences*  
-> - [🛡️ Epistemic Exhaustion as an Attack Surface](../🌀_System_Governance/💫_Containment_Logic/🛡️_epistemic_exhaustion_as_an_attack_surface.md) — *cognitive risk layer*  
-> - [📱 Digital Literacy as Democratic Infrastructure](../🌀_System_Governance/💫_Containment_Logic/📱_digital_literacy_as_democratic_infrastructure.md) — *civic implications*  
+> - [🧪 Bad Procurement as a Security Vector](../🌀_System_Governance/🛰️_Infrastructure_Procurement/🧪_bad_procurement_as_a_security_vector.md) — *operational consequences of institutional purchasing culture*  
+> - [🛡️ Epistemic Exhaustion as an Attack Surface](../🌀_System_Governance/💫_Containment_Logic/🛡️_epistemic_exhaustion_as_an_attack_surface.md) — *cognitive overload and governance strain*  
+> - [📱 Digital Literacy as Democratic Infrastructure](../🌀_System_Governance/💫_Containment_Logic/📱_digital_literacy_as_democratic_infrastructure.md) — *civic implications of technological misunderstanding*
+>
+> 🏮 Return To:
+> 
+> - [🧠 Big Picture Protocols](../README.md)
+> - [🪄 Disruption Kit](../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-05-06_
