@@ -42,7 +42,9 @@ Humour can surface organisational truths that formal policy language often strug
 ## 1. MOD — The Hardware Maximalist  
 
 **Archetype:**  
-Believes physical robustness signals institutional seriousness.
+Believes physical robustness signals institutional seriousness.  
+
+*"If it does not occupy real 3D space, there is insufficient evidence that it is, in fact, real, and therefore it is not procurable."*  
 
 **Typical posture:**  
 - oversized devices  
@@ -57,14 +59,19 @@ If a device looks physically resilient, it feels trustworthy.
 **Recurring blind spot:**  
 - overconfidence in hardware solutions  
 - underestimation of software, metadata, and human factors  
-- resistance to usability improvements that appear “soft”  
+- resistance to usability improvements that appear “soft”
+
+**Exception to the rule:**  
+Team keeping North Sea submarine resident appeased.  
 
 ---
 
 ## 2. GCHQ — The Exhausted Specialist Collective  
 
 **Archetype:**  
-The permanently overloaded technical specialist ecosystem.
+The permanently overloaded technical specialist ecosystem.  
+
+_*silently pouring seventh cup of coffee of the morning*_
 
 **Typical posture:**  
 - niche devices  
@@ -78,14 +85,19 @@ Technology is powerful, fragile, and capable of failing catastrophically if trea
 **Recurring blind spot:**  
 - expected to compensate for wider institutional illiteracy  
 - treated as clean-up infrastructure rather than collaborative partner  
-- exhaustion normalised because competence masks strain  
+- exhaustion normalised because competence masks strain
+
+**Exception to the rule:**  
+Will pretend to also not understand why everyone else's mic is off at COBRA, just for the peace and quiet.  
 
 ---
 
 ## 3. MI5 — The Control-Seeking Pragmatist  
 
 **Archetype:**  
-Seeks reassurance through configuration, permissions, and procedural control.
+Seeks reassurance through configuration, permissions, and procedural control.  
+
+*"If, and only if, it can be customised to fit current guidelines and threat priorities, will we even consider the pilot."*  
 
 **Typical posture:**  
 - mainstream devices with “secure” branding  
@@ -99,14 +111,19 @@ If everything is configured correctly, uncertainty becomes manageable.
 **Recurring blind spot:**  
 - overestimation of individual control  
 - underestimation of social and organisational dynamics  
-- tendency to trust tooling over context  
+- tendency to trust tooling over context
+
+**Exception to the rule:**  
+Every regional office may or may not have one David who still insists the greatest work of his career simply *must* be offline.  
 
 ---
 
 ## 4. MI6 — The Aesthetic Technologist  
 
 **Archetype:**  
-Treats technology partly as symbolic prestige infrastructure.
+Treats technology partly as symbolic prestige infrastructure.  
+
+_*AFK: Too busy aurafarming first two Qs.*_
 
 **Typical posture:**  
 - designer devices  
@@ -122,12 +139,17 @@ If something appears elite, it acquires an aura of advancement.
 - bespoke systems resisting audit or standardisation  
 - glamour masking fragility and maintenance strain  
 
+**Exception to the rule:**  
+Everyone secretly keeps a stash of the last 3310 overspend, will justify it with rugged quality, but the Snake Championship still has an active betting pool. Strictly off comms.  
+
 ---
 
 ## 5. Cabinet Office — The Reluctant User  
 
 **Archetype:**  
-Experiences technology as unavoidable administrative weather.
+Experiences technology as unavoidable administrative weather.  
+
+*"The last time we updated MS Outlook, we lost an afternoon. We are not doing it. We don't care what this 'malware' is that you're on about; time has been a budget KPI constraint since 2011."*  
 
 **Typical posture:**  
 - default consumer ecosystems  
@@ -141,14 +163,19 @@ Digital systems are perceived as secondary to “real” governance work.
 **Recurring blind spot:**  
 - inability to interrogate technical advice directly  
 - dependence upon translation layers  
-- delayed recognition of emerging risk  
+- delayed recognition of emerging risk
+
+**Exception to the rule:**  
+Everyone under 25 does understand exactly how to fix everything, but is too junior to point this out.  
 
 ---
 
 ## 6. NHS — The Legacy Loyalist  
 
 **Archetype:**  
-Trusts what has always been there.
+Familiarity feels safer than disruption.  
+
+*“If it is not at least as old as Doris in Bed 5, we cannot trust it.”*  
 
 **Typical posture:**  
 - legacy systems  
@@ -162,14 +189,19 @@ Familiarity feels safer than disruption.
 **Recurring blind spot:**  
 - institutional inertia  
 - persistence of inefficient or insecure workflows  
-- normalisation of recurring technical friction and security strain  
+- normalisation of recurring technical friction and security strain
+
+**Exception to the rule:**  
+The United Nerd Front of Nuclear Medicine, Interventional Radiology, and an ecclectic group of GPs, ED consultants, and psychiatrists who have seriously thought about introducing the word "futurism" to their CVs.  
 
 ---
 
 ## 7. Home Office — The Stagnant Modernist  
 
 **Archetype:**  
-Frozen at the historical moment technology last felt governable.
+Frozen at the historical moment technology last felt governable.  
+
+*"If we buy the next patch, will it bloody work now?"*  
 
 **Typical posture:**  
 - attachment to outdated workflows  
@@ -183,14 +215,19 @@ Past competence becomes a permanent frame of reference.
 **Recurring blind spot:**  
 - slow adaptation to changing environments  
 - security theatre replacing resilient practice  
-- mismatch between policy ambition and operational capability  
+- mismatch between policy ambition and operational capability
+
+**Exception to the rule:**  
+Interest in technological innovation increases dramatically any time any politician even looks like they might increase the budget.  
 
 ---
 
 ## 8. HMRC — The Queue-Oriented Bureaucrat  
 
 **Archetype:**  
-Believes procedural order produces legitimacy.
+Believes procedural order produces legitimacy.  
+
+*"We will respond to your ticket accordingly."*
 
 **Typical posture:**  
 - legacy communication structures  
@@ -204,7 +241,10 @@ If there is a process, stability must exist somewhere inside it.
 **Recurring blind spot:**  
 - slow adaptation to dynamic threats  
 - procedural comfort overriding urgency  
-- procedural completion mistaken for user comprehension  
+- procedural completion mistaken for user comprehension
+
+**Exception to the rule:**  
+Will somehow demonstrate the capability to chase down the 40% tax bracket earners' every click online, in an effort to claw back £3.50. To this day, no one knows quite how they do it.  
 
 ---
 
