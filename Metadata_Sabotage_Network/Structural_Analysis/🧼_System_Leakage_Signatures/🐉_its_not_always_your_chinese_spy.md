@@ -270,10 +270,14 @@ The spy narrative may still be emotionally satisfying.
 But:
 > utility is not evidence.
 
+Sometimes the economic system jyst doesn't favour artists; welcome ti capiitalism.  
+
 ---
 
 ## 🌌 Constellations  
-🐉 📲 🎵 🧠 🧿 — platform mythology; emotional routing systems; algorithmic drift; monetised attention collapse.
+🐉 📲 🎵 🧠 🧿 — platform mythology; emotional routing systems; algorithmic drift; monetised attention collapse.  
+
+---
 
 ## ✨ Stardust  
 tiktok, recommendation systems, algorithm drift, music indexing, platform decay, emotional routing, monetisation pressure, surveillance narratives, discovery collapse, feed coherence
