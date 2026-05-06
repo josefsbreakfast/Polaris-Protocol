@@ -78,7 +78,7 @@ It contributes to the archive by banter alone.
 >   
 > 🏮 Return To:
 > 
-> - [🌀 Systems & Governance](../README.md)
+> - [🧠 Big Picture Protocols](../README.md)
 > - [🪄 Disruption Kit](../../README.md)
 > - [🌌 Polaris Protocol - Root](../../../README.md)  
 
