@@ -139,7 +139,7 @@ It supports the **Big Picture Protocols** cluster by mapping interdependent part
 
 > 📡 Cross-references:
 > 
-> - [🟥 Labour as the Alternative to Revolution](./🌹_for_the_serious_red_chaps.md)  
+> - [🌹 For The Serious Red Chaps: Labour as Alternative to Revolution](./🌹_for_the_serious_red_chaps.md)  
 > - [🟦 Conservatives as the Counterbalance to Radical Change](./🖌️_for_the_serious_blue_chaps.md)  
 > - [⚠️ Alt‑Right Threat to Both Parties](./⚠️_alt_right_threat_to_both_parties.md)  
 
