@@ -147,7 +147,7 @@ It contributes to the **Big Picture Protocols** cluster by clarifying the stabil
 
 > 📡 Cross-references:
 > 
-> - [🟥 Labour as the Alternative to Revolution](./🌹_for_the_serious_red_chaps.md)  
+> - [ 🌹 For The Serious Red Chaps: Labour as Alternative to Revolution](./🌹_for_the_serious_red_chaps.md)  
 > - [🔁 Recursive Parliamentary Containment Loop](../../🌀_System_Governance/💫_Containment_Logic/🔁_recursive_parliamentary_containment_loop.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
