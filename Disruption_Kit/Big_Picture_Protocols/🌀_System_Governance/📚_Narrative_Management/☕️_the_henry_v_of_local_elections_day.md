@@ -3,7 +3,7 @@
 *On Shakespeare as recorder of English regional standing, and why Henry V still feels socially recognisable in Britain today.*  
 
 *Or: The UK's political-regional behavioural map before modern polling software.*  
-
+<!-- Before the devolved lands come for me: I have championed your complains elsewhere to some effect, and I am Northumbrian. I need to get the traitor behaviour out of my system somehow. -->
 ---
 
 > "...We few, we happy few, we band of brothers.  
@@ -384,6 +384,8 @@ Which is probably one reason it never fully stopped feeling relevant.
 ## 🌌 Constellations
 
 ☕️ 🏛️ ⚖️ 🎭 🗺️ — Shakespeare as recorder of regional standing; institutional tone; English continuity; political-social archetypes.
+
+---
 
 ## ✨ Stardust
 
