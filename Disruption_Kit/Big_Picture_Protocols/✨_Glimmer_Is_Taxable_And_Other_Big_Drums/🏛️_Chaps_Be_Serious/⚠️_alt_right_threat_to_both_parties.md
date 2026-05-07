@@ -160,11 +160,11 @@ It documents how anti-institutional outrage systems destabilise democratic gover
 >
 > 🏮 Return To:
 >
-> - [🏛️ Chaps, Be Serious.](../README.md)
-> - [✨ Glimmer Is Taxable And Other Big Drums](../../README.md)  
-> - [🧠 Big Picture Protocols](../../../README.md)
-> - [🪄 Disruption Kit](../../../../README.md)
-> - [🌌 Polaris Protocol - Root](../../../../../README.md)  
+> - [🏛️ Chaps, Be Serious.](./README.md)
+> - [✨ Glimmer Is Taxable And Other Big Drums](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
