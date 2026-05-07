@@ -370,7 +370,8 @@ Henry V can therefore feel strangely contemporary during local elections because
 In that sense, the play sometimes reads less like dead literature and more like:
 > an early-modern dramatic rendering of how Britain already understood itself socially and politically.
 
-Which is probably one reason it never fully stopped feeling relevant.
+Which is probably one reason it never fully stopped feeling relevant.  
+<!--Northumbria ≠ Yorkshire; I rest my case.-->
 
 --- 
 
