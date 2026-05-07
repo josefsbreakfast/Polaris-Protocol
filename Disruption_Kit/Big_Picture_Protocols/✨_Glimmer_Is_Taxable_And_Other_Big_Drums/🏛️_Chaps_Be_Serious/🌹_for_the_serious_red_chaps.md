@@ -1,5 +1,5 @@
-# 🟥 Labour as the Alternative to Revolution  
-**First created:** 2025-11-15 | **Last updated:** 2026-02-19  
+# 🌹 For The Serious Red Chaps: Labour as the Alternative to Revolution  
+**First created:** 2025-11-15 | **Last updated:** 2026-05-07  
 *Labour’s constitutional role as the democratic alternative to violent upheaval.*
 
 ---
@@ -130,7 +130,15 @@ It contributes to the **Big Picture Protocols** cluster through deep structural 
 > - [🦕 Elder Influencers] - long arcs of inherited power  
 > - [🩻 Weirdness Screening] — identifying systemic anomalies in representation  
 > - [🦆 Digital Disruption] — civic action and repair
+>
+> 🏮 Return To:
+>
+> - [🏛️ Chaps, Be Serious.](./README.md)
+> - [✨ Glimmer Is Taxable And Other Big Drums](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-05-07_
