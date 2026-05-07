@@ -1,5 +1,5 @@
 # 🏛️ Chaps, Be Serious.  
-**First created:** 2025-11-15 | **Last updated:** 2026-02-19  
+**First created:** 2025-11-15 | **Last updated:** 2026-05-07  
 *Satirical notes on Parliament, the Civil Service, and the maintenance of a functioning state.*
 <!--
 
@@ -76,7 +76,6 @@ british satire, parliament, civil service, conservative governance, anti-fascism
 > 
 > 🏮 Return To:
 >
-> - [🏛️ Chaps, Be Serious.](./README.md)
 > - [✨ Glimmer Is Taxable And Other Big Drums](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
@@ -84,4 +83,4 @@ british satire, parliament, civil service, conservative governance, anti-fascism
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-05-07_
