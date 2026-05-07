@@ -363,7 +363,19 @@ anti-fascism, parliamentary democracy, reform uk, bandwagon effect, fptp, coalit
 ## 🏮 Footer  
 
 *🦔 Anti-Fascist Defence League — Parliamentary Edition* is a living node of the **Polaris Protocol**.  
-It documents practical, non-hysterical strategies for resisting authoritarian drift **before** it becomes unavoidable.
+It documents practical, non-hysterical strategies for resisting authoritarian drift **before** it becomes unavoidable.  
+
+> 📡 Cross-References:
+> 
+> - []()  
+>   
+> 🏮 Return To:
+>
+> - [🏛️ Chaps, Be Serious.](./README.md)
+> - [✨ Glimmer Is Taxable And Other Big Drums](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
