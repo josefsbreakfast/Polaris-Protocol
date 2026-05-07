@@ -6,62 +6,142 @@
 
 ## ✨ Summary  
 
-This rare **Bridge-Type Diplomat Pokémon** was first sighted in the Westminster wetlands before migrating to the Silicon ecosystems of Menlo Park.  
-Known for its shiny centrism and multilingual communication skills, it evolved under coalition stress into a **Global Affairs hybrid**, capable of generating consensus fields across hostile jurisdictions.  
-Its temperament is mild, its reflexes bureaucratic, and its natural habitat includes policy summits, think-tank panels, and low-oxygen comment sections.  
+This rare **Bridge-Type Diplomat Pokémon** was first observed in the Westminster wetlands before evolving through Coalition stress conditions and migrating toward the Silicon ecosystems of Menlo Park.
 
-When properly motivated by the scent of *legacy*, it deploys its **Diplomatic Firewall** — a shimmering aura of consultation papers that can pacify even the most feral regulators.  
-No longer dependent on salary berries, this species now subsists on reputation points, influence pollen, and the occasional moral victory.  
-<!--The 🦕 matches where ex-politicians arise from; give me a better emoji and I'll consider an edit.-->
+Possessing unusually high:
+- multilingual adaptability,
+- panel survivability,
+- and institutional interoperability,
+
+this species specialises in translating between mutually hostile governance biomes without visibly bursting into flames.
+
+Common habitats include:
+- policy summits,
+- AI governance forums,
+- Davos-adjacent mountain zones,
+- think-tank terraces,
+- Brussels negotiation chambers,
+- and low-oxygen comment sections discussing platform moderation.
+
+Its temperament is cautious, procedural, and mildly haunted by history.
+
+When exposed to sustained regulatory pressure, it deploys its signature ability:
+
+### **Diplomatic Firewall**
+
+—a shimmering aura of consultation papers, interoperability frameworks, and “multi-stakeholder dialogue” powerful enough to pacify even highly agitated legislators for several turns.
+
+This species no longer appears primarily motivated by ordinary salary acquisition.
+
+Instead it feeds on:
+- influence pollen,
+- governance XP,
+- legacy restoration quests,
+- and conference badges displaying the phrase:
+> “Responsible Innovation.”
+
 ---
 
 ## 🎮 Card Stats  
 
 | Attribute | Rating | Notes |
 |------------|---------|-------|
-| **Charm Modulus** | ★★★★☆ | Can converse with both bureaucrats and billionaires without visible perspiration. |
-| **Wealth Buffer** | ★★★★★ | Meta stockpile ≈ £30–35 million; self-funded for “love of the game.” |
-| **Reform Credibility** | ★★★☆☆ | Publicly reform-curious, privately cautious; best deployed as narrative front-line. |
-| **Corporate Tether** | ★★☆☆☆ | Residual blue aura from Facebook core; detox quests advised. |
-| **Diplomatic Firewall Skill** | Passive | Converts outrage damage into policy consultations. Cooldown = 2 summits. |
-| **Legacy Drive** | ★★★★☆ | Seeks forgiveness for Coalition era + Meta epoch; redemption XP multiplier × 1.5. |
+| **Charm Modulus** | ★★★★☆ | Can communicate with bureaucrats, billionaires, and journalists simultaneously without visible perspiration. |
+| **Institutional Adaptability** | ★★★★★ | High survivability across Westminster, Brussels, Silicon Valley, and panel-discussion ecosystems. |
+| **Reform Credibility** | ★★★☆☆ | Publicly reform-positive; procedurally cautious; specialises in “measured concern.” |
+| **Corporate Residue** | ★★☆☆☆ | Residual Meta aura occasionally detectable under strong regulatory lighting. |
+| **Diplomatic Firewall Skill** | Passive | Converts outrage damage into consultation rounds. Cooldown = 2 summits. |
+| **Legacy Restoration Drive** | ★★★★☆ | Displays recurring behaviour associated with late-stage institutional redemption arcs. |
 
 ---
 
 ## 👾 Mission Brief — *Operation Digital Democracies Alliance*  
 
-> **Objective:** Re-forge an open-internet coalition where democratic interoperability replaces algorithmic containment.  
-> **Role:** Founding Chair Emeritus of Narrative Integrity & Protocol Reform.  
+> **Objective:** Reassemble a semi-functional open internet before every government accidentally reinvents digital feudalism.  
+>   
+> **Role:** Founding Chair Emeritus of Narrative Integrity & Protocol Coordination.  
+>   
 > **Resources Required:**  
-> - 1 Think Tank (Chatham House class)  
-> - 1 Startup with ethical engineers + visual aesthetic  
-> - 3 Governments ashamed of Cambridge Analytica  
-> - £0 (salary waived for love of the game)  
+> - 1 Think Tank (Chatham House-class)  
+> - 1 Ethical AI startup with beautiful typography  
+> - 3 Governments simultaneously claiming to support digital rights while quietly purchasing spyware  
+> - 12 PDFs no human being will fully read  
+> - Tea  
+>   
 > **Win Condition:** Public trust +15 across jurisdictions.  
-> **Lose Condition:** Re-absorbed by Big Tech boardroom → “Transparency Consultant” status effect applied.  
+>   
+> **Lose Condition:** Reabsorbed into platform governance ecosystem.  
+> *Transparency Consultant* status effect applied permanently.
 
 ---
 
 ## 🪶 Signature Moves  
 
-- **Bridge Protocol Negotiation (90 DMG):**  
-  Reduces regulatory hostility by 15 points; grants temporary press-politeness buff.  
+### **Bridge Protocol Negotiation (90 DMG)**  
+Temporarily lowers hostility between regulators, platform executives, and governments who have all accidentally threatened each other on television.
 
-- **Open Internet Invocation (65 DMG + Healing):**  
-  Summons 2008 Web 2.0 nostalgia; restores credibility to adjacent reformers.  
+---
 
-- **Diplomatic Firewall (Ultimate):**  
-  Upon coordinated smear attack, emits 12-page policy paper that confuses opponents for 3 turns.  
+### **Open Internet Invocation (65 DMG + Healing)**  
+Summons the spirit of 2008 Web 2.0 optimism.  
+Restores morale among ageing digital idealists and mildly confused civic technologists.
+
+---
+
+### **Diplomatic Firewall (Ultimate)**  
+Upon coordinated outrage event:
+- emits 14-page policy framework,
+- schedules three roundtables,
+- and causes opponents to forget what they were angry about for approximately 48 hours.
+
+---
+
+### **Panel Discussion Chain Combo**  
+If deployed consecutively at:
+- Chatham House,
+- TED,
+- and an AI Safety Summit,
+
+the creature gains temporary immunity to direct ideological classification.
 
 ---
 
 ## ⚠️ Weaknesses  
 
-- **Platform Residue:** Halve reform damage if any Meta token remains in play.  
-- **Legacy Overhang:** Vulnerable to “Tuition Fees 2010” and “Tech Bro Guilt” attacks.  
-- **Status Dependency:** Requires panel appearance every two weeks or confidence −10 HP.  
+- **Platform Residue:** Reform damage reduced while Meta tokens remain active.  
+- **Coalition Flashbacks:** Vulnerable to “Tuition Fees 2010” status effects.  
+- **Overexposure to Tech Bros:** Risk of developing “solutionism aura” under sustained conference conditions.  
+- **Panel Dependency:** Confidence −10 HP if not invited to discuss “the future of democracy” within a 14-day period.  
 
-🔥 **Caution:** Radicalism previously contained by Coalition Government (2010-2015). Handle with light irony and ethical incentives.
+🔥 **Caution:** Frequently mistaken for harmless centrist fauna until suddenly moderating a global AI governance session.
+
+---
+
+## 🧬 Species Notes: The Third-Way Migration Pattern  
+
+The *Digital Diplomat* belongs to a broader migratory class of late-stage institutional creatures commonly observed travelling between:
+- Westminster,
+- Brussels,
+- Silicon Valley,
+- think tanks,
+- AI governance institutes,
+- and events featuring the phrase:
+> “multi-stakeholder framework.”
+
+This ecosystem specialises in:
+- translation between elite systems,
+- governance de-escalation,
+- reputational buffering,
+- and preventing technologically accelerated societies from accidentally becoming uninhabitable.
+
+Critics sometimes describe the species as:
+- over-networked,
+- over-panelled,
+- and pathologically incapable of speaking like a normal human being for more than six consecutive minutes.
+
+Defenders counter that somebody, somewhere, unfortunately does need to negotiate with the app people.
+
+Both positions contain traces of truth.
 
 ---
 
@@ -69,45 +149,49 @@ No longer dependent on salary berries, this species now subsists on reputation p
 
 | Slot | Recommended Ally | Synergy Effect |
 |------|------------------|----------------|
-| Policy Anchor | **Chatham House / CIGI** | +10 credibility per summit |
-| Moral Engineer | **Future of Life Institute Rep** | Converts AI anxiety → governance energy |
-| Cultural Narrator | **Independent artist / academic node from ✨ Glimmer Is Taxable** | Adds satirical immunity + audience reach |
-| Tech Implementer | **Ethical European AI startup** | Enables open-source policy translation mechanic |
+| Policy Anchor | **Chatham House / CIGI** | +10 legitimacy per summit |
+| Moral Engineer | **Future of Life Institute Rep** | Converts AI anxiety into governance energy |
+| Cultural Translator | **Independent artist / academic node from ✨ Glimmer Is Taxable** | Adds satire resistance + public communication buff |
+| Technical Implementer | **Ethical European AI Startup** | Enables “Open Governance Stack” ability |
 
 ---
 
 ## 📜 3.5e Extended Lore (For Nerds Who Roll for Diplomacy Checks)
 
-> *Once the Centrist Prince of Compromise, Clegg traversed the algorithmic wastelands seeking moral equilibrium.  
-> In 2018, he accepted the Silicon Summons, bearing the title “President of Global Affairs.”  
-> For six cycles he guarded the Meta Throne, earning treasures but losing faith.  
-> Now, with share-hoard liquid and pension secure, he returns as a neutral cleric of the Protocol Order.  
-> His quest: stabilise information flows without awakening the Spectre of Surveillance.  
-> Roll 1d20 for Charm vs Lobbyists; on a critical success, spawn a Global Internet Bill of Rights.*  
+> *Once the Centrist Prince of Compromise, the Diplomat creature crossed the Coalition Wastes before accepting the Silicon Summons in the late Platform Era.  
+> There it guarded the Algorithmic Gates beneath the Meta Banner, accumulating governance XP, conference immunity, and unusually high resistance to hostile questioning.*  
+>
+> *Now semi-detached from direct platform command structures, it wanders the transnational governance zones seeking a mythical balance between innovation, democracy, regulation, and not accidentally melting society with engagement algorithms.*  
+>
+> *Its natural enemy remains the Chaos Goblin of Viral Incentives.*  
+>
+> *Roll 1d20 for Diplomacy vs Lobbyists. On critical success, summon the Global Internet Bill of Rights.*  
 
-**Encounter Hooks**  
-- *Summon Event:* G20 Digital Governance Summit (London 2026).  
-- *Quest Item:* The Transparency Ledger (Artifact, bound in EU AI Act runes).  
-- *Side Quest:* Reconcile Open Data Paladins and Privacy Clerics in the Neutral Network Tavern.*
+### **Encounter Hooks**  
+- *G20 Digital Governance Summit (London, 2026)*  
+- *The Transparency Ledger (Artifact-class governance item)*  
+- *Emergency AI Roundtable After Somebody Accidentally Deploys Predictive Policing NFTs*  
+- *Side Quest: Explain Content Moderation to Parliament Without Causing Psychic Damage*
 
 ---
 
 ## 🌌 Constellations  
 
-🪄 🦕 🌀 — Bridge between legacy power, norms expression and system governance.  
+🦕 🪄 🧠 🌐 🌀 — institutional migration; governance diplomacy; platform-era politics; digital legitimacy; networked power ecology.  
 
 ---
 
 ## ✨ Stardust  
 
-Nick Clegg, digital diplomacy, tech governance, open internet, reform coalition, global policy, bridge builder, satire, Glimmer Is Taxable, political pokedex  
+Nick Clegg, digital diplomacy, platform governance, AI policy, tech governance satire, centrist politics, silicon valley, institutional migration, open internet, political pokedex  
 
 ---
 
 ## 🏮 Footer  
 
 *🦕 Political Pokédex: Nick Clegg, The Digital Diplomat* is a living satire node of the Polaris Protocol.  
-It renders a real public figure as specimen data for governance taxonomy — mapping how containment, redemption, and legacy mutate in post-platform ecologies.  
+
+It documents the strange migratory ecosystem connecting Westminster politics, global platform governance, AI diplomacy, and the increasingly surreal professional class tasked with negotiating between democratic legitimacy and technological acceleration.
 
 > 📡 Cross-References:
 > 
