@@ -1,5 +1,4 @@
-# ☕️ The Henry V of Local Elections Day
-
+# ☕️ The Henry V of Local Elections Day  
 **First created:** 2026-05-07 | **Last updated:** 2026-05-07  
 *On Shakespeare as recorder of English regional standing, and why Henry V still feels socially recognisable in Britain today.*  
 *Or: The UK's political-regional behavioural map before fancy modern polling nonsense software.*  
@@ -275,8 +274,6 @@ But recognisably enough that the play still maps onto British social reality fou
 
 ---
 
----
-
 ## ☕️ Henry V as Proto-Polling Map
 
 There is also a more playful — but still genuinely revealing — way to read Henry V:
@@ -375,6 +372,11 @@ In that sense, the play sometimes reads less like dead literature and more like:
 Which is probably one reason it never fully stopped feeling relevant.
 
 --- 
+
+> "...For there is none of you so mean and base,  
+> That hath not noble lustre in your eyes.  
+> I see you stand like greyhounds in the slips,
+> Straining upon the start. The game’s afoot!"  
 
 ---
 
