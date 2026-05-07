@@ -1,5 +1,5 @@
 # 🔥 Reform UK as Erosion Vector  
-**First created:** 2025-11-22 | **Last updated:** 2026-02-19  
+**First created:** 2025-11-22 | **Last updated:** 2026-05-07  
 *Reform UK as an anti‑governance force: not a party but a demolition engine.*
 
 ---
@@ -102,4 +102,4 @@ reform uk, alt‑right, destabilisation, erosion vector, governance collapse, po
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-05-07_
