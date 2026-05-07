@@ -6,6 +6,17 @@
 
 ---
 
+> "...We few, we happy few, we band of brothers.  
+> For he today that sheds his blood with me  
+> Shall be my brother; be he ne’er so vile,  
+> This day shall gentle his condition;  
+> And gentlemen in England now abed  
+> Shall think themselves accurs’d they were not here,  
+> And hold their manhoods cheap whiles any speaks  
+> That fought with us upon Saint Crispin’s day."  
+
+---
+
 Most modern readings of Henry V treat the play as:
 - patriotic epic,
 - national myth,
