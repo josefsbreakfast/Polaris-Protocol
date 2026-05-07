@@ -142,7 +142,7 @@ conservative party purpose, stabilising force, counterbalance, political ballast
 ---
 
 ## 🏮 Footer  
-*🟦 Conservatives as the Counterbalance to Radical Change* is a living node of the Polaris Protocol.  
+*🖌️ For The Serious Blue Chaps: Conservatives as the Counterbalance to Radical Change* is a living node of the Polaris Protocol.  
 It contributes to the **Big Picture Protocols** cluster by clarifying the stabilisation function required for peaceful democratic transition.
 
 > 📡 Cross-references:
