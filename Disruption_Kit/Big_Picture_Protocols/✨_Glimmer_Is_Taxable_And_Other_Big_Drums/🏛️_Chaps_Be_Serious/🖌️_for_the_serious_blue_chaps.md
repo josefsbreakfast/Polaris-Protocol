@@ -143,12 +143,20 @@ conservative party purpose, stabilising force, counterbalance, political ballast
 
 ## 🏮 Footer  
 *🖌️ For The Serious Blue Chaps: Conservatives as the Counterbalance to Radical Change* is a living node of the Polaris Protocol.  
-It contributes to the **Big Picture Protocols** cluster by clarifying the stabilisation function required for peaceful democratic transition.
+It contributes to the **Big Picture Protocols** cluster by clarifying the stabilisation function required for peaceful democratic transition.  
 
-> 📡 Cross-references:
+> 📡 Cross-References:
 > 
 > - [ 🌹 For The Serious Red Chaps: Labour as Alternative to Revolution](./🌹_for_the_serious_red_chaps.md)  
-> - [🔁 Recursive Parliamentary Containment Loop](../../🌀_System_Governance/💫_Containment_Logic/🔁_recursive_parliamentary_containment_loop.md)  
+> - [🔁 Recursive Parliamentary Containment Loop](../../🌀_System_Governance/💫_Containment_Logic/🔁_recursive_parliamentary_containment_loop.md)
+>   
+> 🏮 Return To:
+>
+> - [🏛️ Chaps, Be Serious.](./README.md)
+> - [✨ Glimmer Is Taxable And Other Big Drums](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
