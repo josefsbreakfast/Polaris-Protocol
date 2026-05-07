@@ -96,9 +96,17 @@ reform uk, alt‑right, destabilisation, erosion vector, governance collapse, po
 ## 🏮 Footer  
 *🔥 Reform UK as Erosion Vector* is a living node of the Polaris Protocol.  
 
-> 📡 Cross-references:
+> 📡 Cross-References:
 > 
-> - [
+> - []()  
+>   
+> 🏮 Return To:
+>
+> - [🏛️ Chaps, Be Serious.](./README.md)
+> - [✨ Glimmer Is Taxable And Other Big Drums](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
