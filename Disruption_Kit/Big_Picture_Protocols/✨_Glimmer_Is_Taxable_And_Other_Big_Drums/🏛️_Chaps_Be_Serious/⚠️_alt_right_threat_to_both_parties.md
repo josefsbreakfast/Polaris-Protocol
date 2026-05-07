@@ -154,7 +154,7 @@ It documents how anti-institutional outrage systems destabilise democratic gover
 
 > 📡 Cross-references:
 > 
-> - [🌹 For The Serious Red Chaps: Labour as the Alternative to Revolution](./🌹_for_the_serious_red_chaps.md)  
+> - [🌹 For The Serious Red Chaps: Labour as Alternative to Revolution](./🌹_for_the_serious_red_chaps.md)  
 > - [🖌️ For The Serious Blue Chaps: Conservatives as the Counterbalance to Radical Change](./🖌️_for_the_serious_blue_chaps.md)  
 > - [🦔 Anti-Fascist Defence League — Parliamentary Edition](./🦔_anti_fascist_defence_league_parliamentary_edition.md)
 >
