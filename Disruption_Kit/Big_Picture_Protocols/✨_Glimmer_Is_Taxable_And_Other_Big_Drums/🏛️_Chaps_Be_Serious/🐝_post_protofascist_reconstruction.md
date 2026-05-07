@@ -47,9 +47,17 @@ graph TD
 
 *🐝 Post-Protofascist Reconstruction* is a living satire node of the Polaris Protocol.  
 
-> 📡 Cross-references:
+> 📡 Cross-References:
 > 
-> - [
+> - []()  
+>   
+> 🏮 Return To:
+>
+> - [🏛️ Chaps, Be Serious.](./README.md)
+> - [✨ Glimmer Is Taxable And Other Big Drums](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
