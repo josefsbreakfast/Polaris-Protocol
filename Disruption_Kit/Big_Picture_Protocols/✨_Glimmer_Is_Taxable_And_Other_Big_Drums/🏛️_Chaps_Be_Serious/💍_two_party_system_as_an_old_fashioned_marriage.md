@@ -137,11 +137,19 @@ two-party system, constitutional marriage, political homeostasis, role collapse,
 *💍 Two-Party System as an Old-Fashioned Marriage* is a living node of the Polaris Protocol.  
 It supports the **Big Picture Protocols** cluster by mapping interdependent party roles and systemic stability conditions.
 
-> 📡 Cross-references:
+> 📡 Cross-References:
 > 
 > - [🌹 For The Serious Red Chaps: Labour as Alternative to Revolution](./🌹_for_the_serious_red_chaps.md)  
 > - [🟦 Conservatives as the Counterbalance to Radical Change](./🖌️_for_the_serious_blue_chaps.md)  
-> - [⚠️ Alt‑Right Threat to Both Parties](./⚠️_alt_right_threat_to_both_parties.md)  
+> - [⚠️ Alt‑Right Threat to Both Parties](./⚠️_alt_right_threat_to_both_parties.md)
+>   
+> 🏮 Return To:
+>
+> - [🏛️ Chaps, Be Serious.](./README.md)
+> - [✨ Glimmer Is Taxable And Other Big Drums](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
