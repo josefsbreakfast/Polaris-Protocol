@@ -68,9 +68,19 @@ british satire, parliament, civil service, conservative governance, anti-fascism
 *🏛️ Chaps, Be Serious.* is a satirical sub-collection within **✨ Glimmer Is Taxable and Other Big Drums**, a Big Picture Protocol focused on resisting authoritarian drift through institutional literacy, restraint, and disciplined governance.
 
 > 📡 Cross-references:
+>
+> - [👾 Intent-Free Authoritarian Drift](../../🌀_System_Governance/💫_Containment_Logic/👾_intent_free_authoritarian_drift.md)
+> - [🧠 The Continuum of Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md)
+> - [🌀 The Full Authoritarian Capture Lifecycle](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_authoritarian_capture_lifecycle.md)
+> - [🛠️ How Neutral People Enable Authoritarian Tech](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🛠️_how_neutral_people_enable_authoritarian_tech.md)  
 > 
-> - [✨ Glimmer Is Taxable and Other Big Drums](../README.md) — *conservative-facing anti-fascist governance analysis*  
-> - [🧠 Big Picture Protocols](../../README.md) — *systemic and structural diagnostics*  
+> 🏮 Return To:
+>
+> - [🏛️ Chaps, Be Serious.](./README.md)
+> - [✨ Glimmer Is Taxable And Other Big Drums](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
