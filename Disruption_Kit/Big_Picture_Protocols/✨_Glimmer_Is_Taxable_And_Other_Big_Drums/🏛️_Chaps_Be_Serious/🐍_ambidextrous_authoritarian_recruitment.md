@@ -70,9 +70,17 @@ authoritarianism, fascist logic, recruitment, crisis, identity hunger, narrative
 ## 🏮 Footer  
 *🐍 Ambidextrous Authoritarian Recruitment* outlines how authoritarian techniques appeal across ideological lines by exploiting insecurity and instability.  
 
-> 📡 Cross-references:  
-> - Radicalisation & Extremism  
-> - Narrative Interference
+> 📡 Cross-References:
+> 
+> - []()  
+>   
+> 🏮 Return To:
+>
+> - [🏛️ Chaps, Be Serious.](./README.md)
+> - [✨ Glimmer Is Taxable And Other Big Drums](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
