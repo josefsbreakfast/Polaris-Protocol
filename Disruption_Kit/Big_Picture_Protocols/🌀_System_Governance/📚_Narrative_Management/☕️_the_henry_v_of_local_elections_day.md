@@ -1,7 +1,8 @@
 # ☕️ The Henry V of Local Elections Day  
 **First created:** 2026-05-07 | **Last updated:** 2026-05-07  
 *On Shakespeare as recorder of English regional standing, and why Henry V still feels socially recognisable in Britain today.*  
-*Or: The UK's political-regional behavioural map before fancy modern polling nonsense software.*  
+
+*Or: The UK's political-regional behavioural map before modern polling software.*  
 
 ---
 
