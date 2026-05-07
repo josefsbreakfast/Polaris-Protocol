@@ -1,7 +1,8 @@
 # ☕️ The Henry V of Local Elections Day
 
 **First created:** 2026-05-07 | **Last updated:** 2026-05-07  
-*On Shakespeare as recorder of English regional standing, and why Henry V still feels socially recognisable in Britain today.*
+*On Shakespeare as recorder of English regional standing, and why Henry V still feels socially recognisable in Britain today.*  
+*Or: The UK's political-regional behavioural map before fancy modern polling nonsense software.*  
 
 ---
 
@@ -259,7 +260,110 @@ Not perfectly.
 Not unchanged.
 Not untouched by modernity.
 
-But recognisably enough that the play still maps onto British social reality four hundred years later.
+But recognisably enough that the play still maps onto British social reality four hundred years later.  
+
+---
+
+---
+
+## ☕️ Henry V as Proto-Polling Map
+
+There is also a more playful — but still genuinely revealing — way to read Henry V:
+
+as a kind of proto-political map of England and Britain before modern polling existed.
+
+Not scientifically.
+Not deterministically.
+Not as literal electoral prediction.
+
+But as dramatic recording of accumulated regional standing.
+
+Shakespeare’s audience already carried assumptions about:
+- counties,
+- border regions,
+- noble houses,
+- institutional centres,
+- and national distinctions inside the kingdoms.
+
+The play activates those assumptions constantly.
+
+To an Elizabethan audience, names like:
+- Northumberland,
+- York,
+- Exeter,
+- Gloucester,
+- Wales,
+- Scotland,
+
+were not neutral medieval decorations.
+
+They carried standing:
+- political memory,
+- regional reputation,
+- assumptions about loyalty,
+- military associations,
+- class standing,
+- and behavioural expectation.
+
+Northumberland especially would already carry associations with:
+- rebellion,
+- border politics,
+- martial culture,
+- semi-autonomous aristocratic power,
+- and historical instability.
+
+So when treason arrests occur involving northern names and border-linked aristocratic energies, audiences were not experiencing this abstractly.
+
+There is tension in it.
+Humour in it.
+Recognition in it.
+
+The histories partly function because audiences understand the social shorthand immediately.
+
+---
+
+This becomes interesting when compared loosely to modern British political geography.
+
+Not because modern election data is secretly determined by Shakespeare, but because many of the structural conditions that produced those standings still physically exist:
+- London remains the political centre,
+- the Home Counties still surround power,
+- border regions still have distinct identities,
+- Scotland and Wales still operate with partially separate political cultures,
+- ports still behave differently from inland regions,
+- northern and southern England still carry different economic and rhetorical traditions.
+
+The country industrialised.
+The empire rose and fell.
+Mass democracy emerged.
+Modern media transformed politics.
+
+But the land itself did not move.
+
+And neither did many of the institutional centres built upon it.
+
+So while modern Britain is vastly different from Shakespeare’s England, some long-term regional behavioural tendencies remain recognisable:
+- suspicion of London centralism,
+- border identity,
+- northern pride and resentment,
+- procedural Welsh institutionalism,
+- Scottish political separateness,
+- regional humour cultures,
+- and different expectations around leadership style and authority.
+
+Henry V can therefore feel strangely contemporary during local elections because it still maps onto the *social grammar* of British public life:
+- locality,
+- tone,
+- institutional trust,
+- cultural familiarity,
+- “our sort of person,”
+- and regionally coded authority.
+
+In that sense, the play sometimes reads less like dead literature and more like:
+> an early-modern dramatic rendering of how Britain already understood itself socially and politically.
+
+Which is probably one reason it never fully stopped feeling relevant.
+
+--- 
 
 ---
 
