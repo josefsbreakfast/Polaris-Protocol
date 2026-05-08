@@ -245,11 +245,13 @@ legitimacy pressure, ownership vacuum, mandate misfit, endurance extraction, sur
 *💰 Sometimes Donors Save the Day* is a living node of the Polaris Protocol.  
 It documents how informal legitimacy pressure often substitutes for formal accountability when ownership of cross-domain harm is unclear — and argues for architectural repair that assigns consequence custody before crisis emerges.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
 > 
-> - [⚖️ Architecture of Complicity](./⚖️_architecture_of_complicity.md) — *distributed responsibility under systemic failure*  
-> - [📚 Memory, Market, and the Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md) — *ownership drift and mandate misfit*  
-> - [🫀 AI Black Box Inquests](./🫀_ai_black_box_inquests.md) — *investigative custody vacuum*
+> - [⚖️ Accountability as Alignment](./⚖️_accountability_as_alignment.md)  
+> - [⚖️ Acknowledgement Tradeoffs in Data Fixing](./⚖️_acknowledgement_tradeoffs_in_data_fixing.md)  
+> - [💰 Sometimes Donors Save the Day](./💰_sometimes_donors_save_the_day.md)  
+> - [💰 Who Benefits from Cover-Up](./💰_who_benefits_from_cover_up.md)  
+> - [🪡 Oversight Repair Kit](./🪡_oversight_repair_kit.md)  
 >  
 > 🏮 Return To:
 >
