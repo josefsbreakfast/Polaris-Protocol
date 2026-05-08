@@ -69,7 +69,7 @@ It is a theoretical systems-diagnostic intended to support oversight reform.
 > - [👁️ Restoring Epistemic Integrity](./👁️_restoring_epistemic_integrity.md)  
 > - [📚 Memory, Market & Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md)  
 > - [🦎 Algorithmic Autotomy](./🦎_algorithmic_autotomy.md)  
-> - [🦠 OpenAI UK Due Diligence Autoimmunity Map](./🦠_openai_uk_due_diligence_autoimmunity_map.md)  
+> - [🦠 AI UK Due Diligence & Autoimmunity Map](./🦠_ai_uk_due_diligence_and_autoimmunity_map.md)  
 > - [🧭 Reflexive Risk](./🧭_reflexive_risk.md)  
 > - [🧨 We Are Already Paying the Cost](./🧨_we_are_already_paying_the_cost.md)  
 > - [🧠 Multi-Lock Hypothetical](../💫_Containment_Logic/🧠_multilock_overlapping_covertion.md) — *compound lawful layer model*  
