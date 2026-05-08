@@ -33,3 +33,5 @@ The arms industry in the UK does not fundamentally prop up every single one of t
 [how you can somehow support Reform UK and also Jewish life in the UK idk](https://www.middleeasteye.net/news/head-jewish-national-fund-uk-loses-council-seat-uk-local-elections)  
 
 ---
+
+[the graph from sky news has me on the floor](https://vm.tiktok.com/ZNRsSCcPG/)
