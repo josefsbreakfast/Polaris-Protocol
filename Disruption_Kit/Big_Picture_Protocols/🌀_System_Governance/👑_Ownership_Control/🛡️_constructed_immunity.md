@@ -220,9 +220,11 @@ It makes visible the architectures through which consequence dissolves when resp
 
 > 📡 Cross-references:
 > 
-> - [💰 Who Benefits from Cover-Up?](./💰_who_benefits_from_cover_up.md) — *incentive architecture under siloed governance*  
-> - [🫀 AI Black Box Inquests](./🫀_ai_black_box_inquests.md) — *investigative custody vacuum*  
-> - [📚 Memory, Market, and the Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md) — *ownership drift in digital systems*
+> - [⚖️ The Architecture of Complicity](./⚖️_architecture_of_complicity.md)  
+> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md)  
+> - [👑 Soft Power Accountability Gap](./👑_soft_power_accountability_gap.md)  
+> - [👑 Asserting Sovereignty After Allied Interference](./👑_asserting_sovereignty_after_allied_interference.md)  
+> - [🧬 Distributed Complicity in Modern Warfare](./🧬_distributed_complicity_in_modern_warfare.md)
 >  
 > 🏮 Return To:
 >
