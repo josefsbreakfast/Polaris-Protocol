@@ -1,10 +1,10 @@
 # 🧅 Source And Legitimacy  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-05 | **Last updated:** 2026-05-08  
 *How authority becomes recognised, sustained, renewed, and refused across living systems.*
 
 ---
 
-## 🧭 Core Thesis  
+## ✨ Core Thesis  
 
 Authority does not become legitimate merely because it exists.
 
