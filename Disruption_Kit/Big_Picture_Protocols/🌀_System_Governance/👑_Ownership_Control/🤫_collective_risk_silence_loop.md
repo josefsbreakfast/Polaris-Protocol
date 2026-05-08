@@ -1,5 +1,5 @@
 # 🤫 Collective Risk Silence Loop  
-**First created:** 2025-11-12 | **Last updated:** 2026-02-22  
+**First created:** 2025-11-12 | **Last updated:** 2026-05-08  
 *How shared exposure and fragmented ownership produce sector-wide silence without coordination.*
 
 ---
@@ -234,8 +234,16 @@ It describes how sector-wide silence stabilises when exposure is shared but cons
 > 
 > - [💰 Who Benefits from Cover-Up?](./💰_who_benefits_from_cover_up.md) — *incentive architecture under siloed governance*  
 > - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *operational immunity through responsibility fragmentation*  
-> - [👑 Ownership & Control](./README.md) — *custody-of-process framework*  
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-05-08_
