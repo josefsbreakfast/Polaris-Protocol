@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-08 18:50:48 UTC_
+_Generated on 2026-05-08 19:14:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -526,6 +526,7 @@ _Generated on 2026-05-08 18:50:48 UTC_
         - [`🗂️_when_the_system_realises_it_fucked_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🗂️_when_the_system_realises_it_fucked_up.md)
         - [`🗣️_when_did_the_way_we_talk_change.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🗣️_when_did_the_way_we_talk_change.md)
         - [`🗳️_the_corbyn_starner_consent_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🗳️_the_corbyn_starner_consent_mechanism.md)
+        - [`🚀_procedure_vs_perception.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚀_procedure_vs_perception.md)
         - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md)
         - [`🚪_doorbell_of_denial.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚪_doorbell_of_denial.md)
         - [`🛡️_high_security_settlement_logic_data_exhaust.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🛡️_high_security_settlement_logic_data_exhaust.md)
