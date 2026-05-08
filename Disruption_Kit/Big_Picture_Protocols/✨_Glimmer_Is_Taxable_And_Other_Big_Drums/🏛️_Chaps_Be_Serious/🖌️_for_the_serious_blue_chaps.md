@@ -1,5 +1,5 @@
 # 🖌️ For The Serious Blue Chaps: Conservatives as the Counterbalance to Radical Change  
-**First created:** 2025-11-15 | **Last updated:** 2026-05-07  
+**First created:** 2025-11-15 | **Last updated:** 2026-05-08  
 *The Conservative Party’s historical role as a stabilising force within democratic governance and institutional continuity.*
 
 ---
@@ -200,8 +200,9 @@ It documents the historical stabilisation role often associated with conservativ
 > 📡 Cross-References:
 > 
 > - [🌹 For The Serious Red Chaps: Labour as Alternative to Rupture](./🌹_for_the_serious_red_chaps.md)  
-> - [💍 Two-Party System as an Old-Fashioned Marriage](./💍_two_party_system_as_an_old_fashioned_marriage.md)
+> - [💍 Two-Party System as an Old-Fashioned Marriage](./💍_two_party_system_as_an_old_fashioned_marriage.md)  
 > - [🔁 Recursive Parliamentary Containment Loop](../../🌀_System_Governance/💫_Containment_Logic/🔁_recursive_parliamentary_containment_loop.md)
+> - [🔥 Reform UK as Erosion Vector](./🔥_reform_uk_as_erosion_vector.md)  
 >   
 > 🏮 Return To:
 >
@@ -213,4 +214,4 @@ It documents the historical stabilisation role often associated with conservativ
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-07_
+_Last updated: 2026-05-08_
