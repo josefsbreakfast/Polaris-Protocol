@@ -1,5 +1,5 @@
 # 🌅 Rise of Institutional Integrity  
-**First created:** 2025-11-02 | **Last updated:** 2026-04-28  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-08  
 *How democratic systems may relearn coherence after collapse — from translation to trust.*  
 
 ---
@@ -108,8 +108,17 @@ It maps how language, law, and trust are re-stitched after institutional degrada
 > 
 > - [🌀 Fall of Institutional Integrity](../💫_Containment_Logic/🌀_fall_of_institutional_integrity.md) — *preceding node*  
 > - [⚖️ Linguistic Integrity as Security Risk](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚖️_linguistic_integrity_as_security_risk.md) — *policy alignment*  
-> - [🧭 How We Got Here](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md) — *orientation anchor*  
+> - [🧭 How We Got Here](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md) — *orientation anchor*
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-28_
+_Last updated: 2026-05-08_
