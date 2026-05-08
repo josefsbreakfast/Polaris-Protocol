@@ -18,4 +18,8 @@ All that is required is that the powers who say that they have morals, actually 
 
 The bar is literally so low, that all that really needs to happen is a very small improvement in the degree of principle being applied at a senior level, or the degree if humanity shown openly.  
 
-2025-05-08
+2025-05-08  
+
+nb for later:
+
+"Бабусю" is more ukrainian, just cyrillic,  like "granny"/"nanny" but def nice/deferential.  
