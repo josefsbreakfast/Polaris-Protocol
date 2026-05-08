@@ -477,6 +477,12 @@ Living systems plan for both.
 > - [🦎 Snow Leopard Geckos Against Modern Slavery](../🧪_Development_Experimentation/🦎_snow_leopard_geckos_against_modern_slavery.md)  
 > - [🦎 Basking While the World Is Burning](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦎_basking_while_the_world_is_burning.md)  
 > - [🐍 Snake Bites and Stolen Voices](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)
+> - [👁️ Restoring Epistemic Integrity](./👁️_restoring_epistemic_integrity.md)  
+> - [📚 Memory, Market & Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md)  
+> - [🦠 Systemic Porosity](./🦠_systemic_porosity.md)  
+> - [🦠 OpenAI UK Due Diligence Autoimmunity Map](./🦠_openai_uk_due_diligence_autoimmunity_map.md)  
+> - [🧭 Reflexive Risk](./🧭_reflexive_risk.md)  
+> - [🧨 We Are Already Paying the Cost](./🧨_we_are_already_paying_the_cost.md)  
 >  
 > 🏮 Return To:
 >
