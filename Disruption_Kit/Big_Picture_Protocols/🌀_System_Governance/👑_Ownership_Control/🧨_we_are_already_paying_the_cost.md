@@ -237,9 +237,12 @@ It reframes accountability not as moral luxury, but as fiscal discipline — sho
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Accountability as Alignment](../⚖️_accountability_as_alignment.md) — *designing for structural ownership*  
-> - [💰 Who Benefits from Cover-Up](./💰_who_benefits_from_cover_up.md) — *incentive distortion and delayed correction*  
-> - [🪡 Oversight Repair Kit](./🪡_oversight_repair_kit.md) — *restitching custody chains*
+> - [👁️ Restoring Epistemic Integrity](./👁️_restoring_epistemic_integrity.md)  
+> - [📚 Memory, Market & Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md)  
+> - [🦎 Algorithmic Autotomy](./🦎_algorithmic_autotomy.md)  
+> - [🦠 Systemic Porosity](./🦠_systemic_porosity.md)  
+> - [🦠 AI UK Due Diligence & Autoimmunity Map](./🦠_ai_uk_due_diligence_and_autoimmunity_map.md)
+> - [🧭 Reflexive Risk](./🧭_reflexive_risk.md)  
 >   
 > 🏮 Return To:
 >
