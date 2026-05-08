@@ -1,5 +1,5 @@
 # 🍉 British Democracy Needs You  
-**First created:** 2025-12-23 | **Last updated:** 2026-04-28  
+**First created:** 2025-12-23 | **Last updated:** 2026-05-08  
 *Democracy is not self-driving. If we do not own it, someone else will.*  
 
 ---
@@ -176,8 +176,17 @@ democratic ownership, institutional hesitation, narrative capture, lobbying pres
 > - [🍉 Who Are the Sock Puppets?](../📚_Narrative_Management/🍉_who_are_the_sock_puppets.md) — *behavioural signatures of coordination*  
 > - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](../../../Survivor_Tools/🧰_tools_against_sock_puppets.md) — *response strategies without amplification*  
 > - [🏛️ Our Island, Our Realm, Our Rules (and Why That Includes Hospitality)](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_our_island_our_realm_our_rules.md)  
-> - [🇬🇧 Flags, False Catharsis, and the Thing We Refused to Say](../📚_Narrative_Management/🇬🇧_flags_and_false_catharsis.md) — *symbolic patriotism versus structural clarity*  
+> - [🇬🇧 Flags, False Catharsis, and the Thing We Refused to Say](../📚_Narrative_Management/🇬🇧_flags_and_false_catharsis.md) — *symbolic patriotism versus structural clarity*
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-28_
+_Last updated: 2026-05-08_
