@@ -75,8 +75,17 @@ It reframes abandoned architecture as civic instrument and explores how sound ca
 
 > 📡 Cross-references:
 > 
-> - [🎶 Banned Broadcasts Cooperative](./README.md) — *sonic culture and broadcast reuse*  
-> - [🧪 Development & Experimentation](../../🌀_System_Governance/🧪_Development_Experimentation/README.md) — *adaptive urban design logics*  
+> - [🏛 R.A.A.C. — Ruins and Architectural Committee](../../🌀_System_Governance/👑_Ownership_Control/🏛️_raac_ruins_squad.md)  
+> - [✨ How Much to Turn the Stars Back On](../../../../🦆_Digital_Disruption/🐝_All_In_Commons/✨_how_much_to_turn_the_stars_back_on.md)
+> - [🌳 The Village Green Preservation Society](../../../../🦆_Digital_Disruption/🐝_All_In_Commons/🌳_the_village_green_preservation_society.md)  
+>   
+> 🏮 Return To:
+>
+> - [🎶 Banned Broadcasts Cooperative](./README.md)
+> - [🪄 Expression Of Norms](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
