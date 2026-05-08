@@ -177,6 +177,11 @@ democratic ownership, institutional hesitation, narrative capture, lobbying pres
 > - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](../../../Survivor_Tools/🧰_tools_against_sock_puppets.md) — *response strategies without amplification*  
 > - [🏛️ Our Island, Our Realm, Our Rules (and Why That Includes Hospitality)](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_our_island_our_realm_our_rules.md)  
 > - [🇬🇧 Flags, False Catharsis, and the Thing We Refused to Say](../📚_Narrative_Management/🇬🇧_flags_and_false_catharsis.md) — *symbolic patriotism versus structural clarity*
+> - [✈️ Who Wants These Creeps in Charge?](./✈️_who_wants_these_creeps_in_charge.md)  
+> - [✈️ Genocides and Paedophiles](./✈️_genocides_and_paedophiles.md)  
+> - [🌒 The No-Win Box](./🌒_the_no_win_box.md)  
+> - [🌅 Rise of Institutional Integrity](./🌅_rise_of_institutional_integrity.md)  
+> - [🐼 The Metropolitan Rabble](./🐼_the_metropolitan_rabble.md)  
 >  
 > 🏮 Return To:
 >
