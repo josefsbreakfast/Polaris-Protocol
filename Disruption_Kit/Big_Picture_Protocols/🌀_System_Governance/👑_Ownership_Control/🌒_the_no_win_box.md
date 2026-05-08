@@ -1,5 +1,5 @@
 # 🌒 The No-Win Box  
-**First created:** 2025-11-16 | **Last updated:** 2026-04-28  
+**First created:** 2025-11-16 | **Last updated:** 2026-05-08  
 *The structural constraint hostile actors can enter when a survivor becomes transparent, autonomous, and publicly witnessed.*  
 
 ---
@@ -191,8 +191,17 @@ It describes the structural constraints that can emerge when control-based dynam
 > - [🗣️ Voice Laundering](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)  
 > - [🎣 Polaris Scares Men](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎣_polaris_scares_men.md)  
 > - [💄 Hypothetical Case — Disinfo Narrative Control](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💄_hypothetical_case_disinfo_narrative_control.md)  
-> - [🧃 COGAT Is a Containment Operation](../../🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)  
+> - [🧃 COGAT Is a Containment Operation](../../🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-04-28_
+_Last updated: 2026-05-08_
