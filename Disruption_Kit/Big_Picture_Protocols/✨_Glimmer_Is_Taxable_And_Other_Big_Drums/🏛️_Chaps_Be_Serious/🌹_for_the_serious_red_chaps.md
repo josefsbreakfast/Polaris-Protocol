@@ -1,5 +1,5 @@
 # 🌹 For The Serious Red Chaps: Labour as Alternative to Rupture  
-**First created:** 2025-11-15 | **Last updated:** 2026-05-07  
+**First created:** 2025-11-15 | **Last updated:** 2026-05-08  
 *Labour’s constitutional role as a democratic mechanism for negotiating economic strain, social pressure, and transitional reform.*
 
 ---
@@ -175,9 +175,10 @@ It documents Labour’s historical and constitutional function within British de
 
 > 📡 Cross-references:
 > 
-> - [🦕 Elder Influencers] — *long arcs of inherited power*  
-> - [🩻 Weirdness Screening] — *identifying systemic anomalies in representation*  
-> - [🦆 Digital Disruption] — *civic action, institutional strain, and democratic repair*  
+> - [🖌️ For The Serious Blue Chaps: Conservatives as the Counterbalance to Radical Change](./🖌️_for_the_serious_blue_chaps.md)  
+> - [💍 Two-Party System as an Old-Fashioned Marriage](./💍_two_party_system_as_an_old_fashioned_marriage.md)  
+> - [🔁 Recursive Parliamentary Containment Loop](../../🌀_System_Governance/💫_Containment_Logic/🔁_recursive_parliamentary_containment_loop.md)
+> - [🔥 Reform UK as Erosion Vector](./🔥_reform_uk_as_erosion_vector.md)  
 >
 > 🏮 Return To:
 >
@@ -189,4 +190,4 @@ It documents Labour’s historical and constitutional function within British de
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-07_
+_Last updated: 2026-05-08_
