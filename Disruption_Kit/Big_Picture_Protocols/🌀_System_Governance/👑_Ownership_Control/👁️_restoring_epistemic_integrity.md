@@ -252,11 +252,13 @@ It completes the collapse → reconstruction arc by identifying the moment an in
 
 > 📡 Cross-references:
 > 
-> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md)  
-> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md)  
+> - [📚 Memory, Market & Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md)  
+> - [🦎 Algorithmic Autotomy](./🦎_algorithmic_autotomy.md)  
+> - [🦠 Systemic Porosity](./🦠_systemic_porosity.md)  
+> - [🦠 OpenAI UK Due Diligence Autoimmunity Map](./🦠_openai_uk_due_diligence_autoimmunity_map.md)  
 > - [🧭 Reflexive Risk](./🧭_reflexive_risk.md)  
-> - [🪡 Oversight Repair Kit](./🪡_oversight_repair_kit.md)  
-> - [🏗️ Corrective Governance Architecture](../💫_Containment_Logic/🏗️_corrective_governance_architecture.md)
+> - [🧨 We Are Already Paying the Cost](./🧨_we_are_already_paying_the_cost.md)  
+> - [🏗️ Corrective Governance Architecture](../💫_Containment_Logic/🏗️_corrective_governance_architecture.md)  
 >  
 > 🏮 Return To:
 >
