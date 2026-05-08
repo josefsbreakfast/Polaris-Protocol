@@ -1,5 +1,5 @@
 # 🌳 The Lads Are Not Pro-Countryside  
-**First created:** 2026-01-08 | **Last updated:** 2026-04-28  
+**First created:** 2026-01-08 | **Last updated:** 2026-05-08  
 *How fragmented ownership and governance vacuums turned rural Britain into grievance terrain — and why rhetoric cannot substitute for stewardship.*  
 
 ---
@@ -216,8 +216,17 @@ It is tighter governance.
 > - [🕳️ The Pothole Problem](./🕳️_the_pothole_problem.md) — *infrastructure neglect through diffused responsibility*  
 > - [🧨 We Are Already Paying the Cost](./🧨_we_are_already_paying_the_cost.md) — *how cumulative neglect becomes systemic expense*  
 > - [🕸️ Food as National Infrastructure](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🕸️_food_as_national_infrastructure.md) — *rural continuity as sovereign obligation*  
-> - [🌱 Land Trusts & Custodianship Models](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌱_land_trusts_custodianship_models.md) — *structural alternatives to fragmented land governance*  
+> - [🌱 Land Trusts & Custodianship Models](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌱_land_trusts_custodianship_models.md) — *structural alternatives to fragmented land governance*
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-28_
+_Last updated: 2026-05-08_
