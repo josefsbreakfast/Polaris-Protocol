@@ -1,5 +1,5 @@
 # 🪦 CECOT as a Rights-Void Facility  
-**First created:** 2025-12-14 | **Last updated:** 2026-02-22  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-08  
 *Why offshored detention collapses safeguards even without explicit illegality.*  
 
 ---
@@ -58,7 +58,7 @@ Individuals transferred to CECOT face:
 * no clear sentence, charge, or timeline
 * no accessible complaint mechanism
 
-Detention becomes indefinite by default.
+Detention can become effectively indefinite in practice.
 
 ### 4. Documented Abuse Allegations
 
@@ -99,7 +99,7 @@ CECOT represents the **terminal stage** of the failure cascade:
 4. Traceability lost
 5. Outcomes rendered unverifiable
 
-At this point, the system becomes immune to accountability by design.  
+At this point, the system can become structurally resistant to accountability.  
 
 ---
 
@@ -167,7 +167,7 @@ CECOT functions as a warning architecture: once such facilities are normalised, 
 
 ## ✨ Stardust
 
-cecot, offshored detention, rights-void facility, effective control, torture risk, disappearance risk, accountability erosion, transnational custody
+cecot, offshored detention, rights-void facility, effective control, torture risk, disappearance risk, accountability erosion, transnational custody, extraterritorial detention, custody outsourcing, due process erosion  
 
 ---
 
@@ -182,8 +182,16 @@ It documents how offshored detention collapses enforceable rights while preservi
 > - [🧿 Custodial Opacity and Database Disappearance](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧿_custodial_opacity_and_database_disappearance.md) — *traceability loss*  
 > - [🛰️ Satellite Imagery as Circumstantial Evidence](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md) — *corroborative OSINT*
 > - [⚠️ Prelude Conditions to Atrocity](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/⚠️_prelude_conditions_to_atrocity.md) — *escalation analysis*
-> - [🩸 Genocide Denialism](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/README.md) - *we never forget, because never again*  
+> - [🩸 Genocide Denialism](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/README.md) - *we never forget, because never again*
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-05-08_
