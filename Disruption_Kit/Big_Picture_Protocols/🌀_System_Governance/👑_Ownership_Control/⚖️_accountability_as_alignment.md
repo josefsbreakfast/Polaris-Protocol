@@ -240,10 +240,11 @@ Weak gradients produce drift.
 
 > 📡 Cross-references:
 > 
+> - [⚖️ Acknowledgement Tradeoffs in Data Fixing](./⚖️_acknowledgement_tradeoffs_in_data_fixing.md)  
+> - [💰 Sometimes Donors Save the Day](./💰_sometimes_donors_save_the_day.md)  
+> - [💰 Who Benefits from Cover-Up](./💰_who_benefits_from_cover_up.md)  
+> - [🪡 Oversight Repair Kit](./🪡_oversight_repair_kit.md)  
 > - [🌫️ Uncertainty Branch Logic](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌫️_uncertainty_branch_logic.md)  
-> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md)  
-> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md)  
-> - [⚖️ The Architecture of Complicity](./⚖️_architecture_of_complicity.md)
 >  
 > 🏮 Return To:
 >
