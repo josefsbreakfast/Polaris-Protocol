@@ -1,5 +1,5 @@
 # ✈️ Worker Positioning & Safety Culture  
-**First created:** 2025-12-12 | **Last updated:** 2026-04-28  
+**First created:** 2025-12-12 | **Last updated:** 2026-05-08  
 *Why harm prevention collapses when no one holds custody of worker protection.*
 
 ---
@@ -208,8 +208,17 @@ It examines how fragmented worker protection creates escalation vacuums — and 
 > 
 > - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *when embedded actors become untouchable*  
 > - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md) — *shared exposure suppressing escalation*  
-> - [⚖️ Acknowledgement Tradeoffs in Data Fixing](./⚖️_acknowledgement_tradeoffs_in_data_fixing.md) — *why quiet repair replaces structural accountability*  
+> - [⚖️ Acknowledgement Tradeoffs in Data Fixing](./⚖️_acknowledgement_tradeoffs_in_data_fixing.md) — *why quiet repair replaces structural accountability*
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-28_
+_Last updated: 2026-05-08_
