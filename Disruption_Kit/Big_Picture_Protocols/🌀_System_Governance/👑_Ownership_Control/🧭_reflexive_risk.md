@@ -226,10 +226,12 @@ It maps the governance dynamics that can emerge when structural self-description
 
 > 📡 Cross-references:
 > 
-> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md)  
-> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md)  
-> - [⚖️ Accountability as Alignment](./⚖️_accountability_as_alignment.md)  
-> - [🪡 Oversight Repair Kit](./🪡_oversight_repair_kit.md)  
+> - [👁️ Restoring Epistemic Integrity](./👁️_restoring_epistemic_integrity.md)  
+> - [📚 Memory, Market & Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md)  
+> - [🦎 Algorithmic Autotomy](./🦎_algorithmic_autotomy.md)  
+> - [🦠 Systemic Porosity](./🦠_systemic_porosity.md)  
+> - [🦠 AI UK Due Diligence & Autoimmunity Map](./🦠_ai_uk_due_diligence_and_autoimmunity_map.md)
+> - [🧨 We Are Already Paying the Cost](./🧨_we_are_already_paying_the_cost.md)
 >   
 > 🏮 Return To:
 >
