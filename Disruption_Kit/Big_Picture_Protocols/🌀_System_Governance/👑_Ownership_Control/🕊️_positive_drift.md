@@ -1,5 +1,5 @@
 # 🕊️ Positive Drift  
-**First created:** 2025-11-08 | **Last updated:** 2026-02-22  
+**First created:** 2025-11-08 | **Last updated:** 2026-05-08  
 *Small rotations that change the tone of an entire field.*  
 
 ---
@@ -71,8 +71,17 @@ It logs incremental reform — the kind that rarely makes headlines but quietly 
 > - [🧪 Think-Tanks & Their Funding (2010–16)](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🧪_think_tanks_and_their_funding_2010_2016.md)
 > - [🧭 Think-Tank Drift and Blurred Boundaries](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🧭_think_tank_drift_and_blurred_boundaries.md)
 > - [🎶 Police The Vibes!](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎶_police_the_vibes.md)
-> - [🚨 Risk Logic Creep](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🚨_risk_logic_creep.md)  
+> - [🚨 Risk Logic Creep](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🚨_risk_logic_creep.md)
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-05-08_
