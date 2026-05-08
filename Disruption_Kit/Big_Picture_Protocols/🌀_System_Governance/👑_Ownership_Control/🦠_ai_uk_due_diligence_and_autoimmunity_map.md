@@ -396,6 +396,15 @@ Rather than treating AI as isolated software products, this node examines the op
 > - [⚖️ Soft Power Without Soft Accountability](../../🦕_Elder_Influencers/🕸️_World_Webs/⚖️_soft_power_without_soft_accountability.md) — *platform influence and institutional asymmetry*
 > - [🫀 AI Black Box Inquests](./🫀_ai_black_box_inquests.md) — *opacity, accountability, and AI governance*
 > - [📡 Stakeholder Mapping From Symptoms](./📡_stakeholder_mapping_from_symptoms.md) — *diagnostic tracing across institutional ecosystems*
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
