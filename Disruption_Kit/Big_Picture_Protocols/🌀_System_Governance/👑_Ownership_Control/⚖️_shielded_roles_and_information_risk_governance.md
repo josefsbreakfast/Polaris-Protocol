@@ -1,5 +1,5 @@
 # ⚖️ Shielded Roles and Information Risk Governance  
-**First created:** 2025-11-12 | **Last updated:** 2026-04-28  
+**First created:** 2025-11-12 | **Last updated:** 2026-05-08  
 *How risk-aggregation roles can become custodial bottlenecks when authority and transparency are misaligned.*
 
 ---
@@ -207,8 +207,17 @@ It examines how protective anonymity interacts with ownership design — and how
 > 
 > - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *operational insulation through fragmentation*  
 > - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md) — *shared exposure equilibrium*  
-> - [👑 Ownership & Control](./README.md) — *custody-of-process framework*  
+> - [👑 Ownership & Control](./README.md) — *custody-of-process framework*
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-28_
+_Last updated: 2026-05-08_
