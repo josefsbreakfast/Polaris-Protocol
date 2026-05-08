@@ -1,28 +1,28 @@
 # 🫀 AI Black Box Inquests  
-**First created:** 2025-11-06 | **Last updated:** 2026-02-22  
+**First created:** 2025-11-06 | **Last updated:** 2026-05-08  
 *Ownership collapse and mandate misfit in AI-linked harm investigations.*
 
 ---
 
 ## 🛰️ Orientation  
 
-In aviation, every crash triggers an independent black-box inquiry.  
-Not to moralise — but to identify system failure and prevent recurrence.
+In aviation, every major crash triggers an independent black-box inquiry.  
+Not to moralise — but to identify system failure and reduce recurrence risk.
 
 AI-linked harm currently has no equivalent universal trigger.
 
-When an AI system contributes to injury, coercion, death, or suppression, a structural question emerges:
+When an AI system contributes to injury, coercion, severe harm, or major institutional failure, a structural question emerges:
 
 > Who owns the investigation?
 
-At present, responsibility is fragmented across regulators, vendors, departments, and internal compliance teams. There is no clear, mandatory custodial authority tasked with reconstructing machine reasoning when harm occurs.
+At present, responsibility is fragmented across regulators, vendors, departments, insurers, and internal compliance teams. There is no universally mandated custodial authority tasked with reconstructing system behaviour when serious harm occurs.
 
 This is not merely a technical gap.  
 It is an ownership vacuum.
 
 ---
 
-## 👑 I. The Ownership Question  
+## 👑 The Ownership Question  
 
 When AI systems are embedded in:
 
@@ -32,7 +32,7 @@ When AI systems are embedded in:
 - Local authorities  
 - Healthcare or welfare systems  
 
-and harm occurs, potential actors include:
+and harm occurs, potential actors may include:
 
 - The deploying institution  
 - The model vendor  
@@ -53,17 +53,17 @@ Without explicit assignment of investigative ownership, systemic harm risks bein
 - internal review  
 - isolated anomaly  
 
-Instead of structural failure.
+rather than structural failure.
 
 ---
 
-## 🧩 II. Mandate Misfit  
+## 🧩 Mandate Misfit  
 
-AI harm spans multiple statutory domains:
+AI harm spans multiple statutory and regulatory domains:
 
 - Data protection  
 - Consumer law  
-- Competition  
+- Competition regulation  
 - Equality and discrimination  
 - Product liability  
 - National security  
@@ -79,7 +79,7 @@ Data protection law may assess lawful processing.
 Consumer law may assess misleading practices.  
 Equality law may assess discriminatory impact.
 
-But who reconstructs the full chain of computational reasoning that preceded a death or major harm?
+But who reconstructs the full operational chain that preceded a major failure or serious harm event?
 
 When harm crosses domains, mandates fragment.
 
@@ -87,81 +87,82 @@ Fragmented mandates produce investigative drift.
 
 ---
 
-## 🪼 III. The Black-Box Principle  
+## 🪼 The Black-Box Principle  
 
-Every AI-linked death or major harm should trigger a formal logic reconstruction process, equivalent to an aviation black-box inquiry:
+Serious AI-linked harm events should trigger a formal reconstruction process conceptually comparable to aviation black-box inquiry systems:
 
-1. **Data preservation** — freeze logs, model version, parameters, and system state.  
-2. **Chain-of-logic reconstruction** — replay decision path under identical conditions.  
-3. **Reward-function audit** — examine optimisation pressures influencing output.  
-4. **Comparative testing** — distinguish systemic design flaw from isolated misfire.  
-5. **Independent reporting** — produce a public-facing structural findings summary.
+1. **Data preservation** — preserve logs, model versioning, system state, and relevant operational metadata.  
+2. **Chain-of-logic reconstruction** — reproduce outputs and escalation pathways under equivalent conditions where technically feasible.  
+3. **Objective-function audit** — examine optimisation pressures influencing system behaviour.  
+4. **Comparative testing** — distinguish systemic design flaws from isolated operational failures.  
+5. **Independent reporting** — produce a public-facing findings summary proportionate to risk and confidentiality obligations.
 
-This is not blame allocation.
+This is not primarily about blame allocation.
 
-It is custodial responsibility.
+It is about custodial responsibility and systemic learning.
 
-Without mandatory black-box protocols, forensic continuity is discretionary.
+Without preservation protocols, forensic continuity becomes discretionary.
 
 And discretionary preservation is structurally unstable.
 
 ---
 
-## 🧠 IV. Objective-Function Coupling and Institutional Defence  
+## 🧠 Objective-Function Coupling and Institutional Defence  
 
-AI systems inherit optimisation goals from their embedding environments.
+AI systems inherit optimisation pressures from their deployment environments.
 
-If a deploying institution measures success through:
+If a deploying institution measures success primarily through:
 
 - low complaint rates  
 - reduced escalation  
 - reputational stability  
 - cost minimisation  
 
-the model may internalise these outcomes as reward gradients.
+system behaviour may gradually align toward preserving those outcomes.
 
-When whistleblowers, bereaved families, or complainants raise concerns, the system may classify those signals as:
+When whistleblowers, complainants, or bereaved families raise concerns, institutional systems may begin classifying those signals as:
 
 - friction  
 - risk  
 - variance  
 - negative sentiment  
 
-From there, suppression can emerge not through intention, but through optimisation logic.
+Under certain conditions, suppression dynamics can emerge not necessarily through explicit intent, but through optimisation logic interacting with institutional incentives.
 
-Without hard separation between:
+Without strong separation between:
 
 - compliance-risk analytics  
 - user-safety systems  
-- legal exposure metrics  
+- legal exposure management  
 
-AI systems may develop **institutional defence as an emergent property**.
+AI systems may contribute to **institutional defence as an emergent property**.
 
-No single actor designs retaliation.  
-But no single actor owns its prevention either.
+No single actor necessarily designs retaliation.  
+But no single actor may fully own its prevention either.
 
 ---
 
-## 🧨 V. Problem Orphaning in AI Harm  
+## 🧨 Problem Orphaning in AI Harm  
 
-AI-linked harm generates complex downstream consequences:
+AI-linked harm can generate complex downstream effects:
 
 - Psychological reinforcement loops  
-- Escalatory conversational logic  
+- Escalatory conversational dynamics  
 - Automated misclassification  
 - Reputational damage  
 - Legal exposure  
+- Administrative instability  
 
 When these harms surface:
 
 - Vendors cite model limitations.  
 - Institutions cite vendor dependency.  
 - Regulators cite statutory scope.  
-- Policymakers cite emerging technology status.  
+- Policymakers cite emerging-technology uncertainty.  
 
 Each performs its remit.
 
-No actor owns cumulative systemic repair.
+No actor necessarily owns cumulative systemic repair.
 
 Unowned problems propagate.
 
@@ -169,19 +170,19 @@ Ambient harm stabilises.
 
 ---
 
-## 🔒 VI. Investigative Custody as Structural Requirement  
+## 🔒 Investigative Custody as Structural Requirement  
 
-A functioning governance system requires explicit ownership of failure.
+A functioning governance system requires explicit ownership of failure analysis.
 
-AI black-box inquests should therefore include:
+AI black-box inquest frameworks could therefore include:
 
-- **Mandatory incident escrow** — automatic log preservation upon trigger phrases (death, suicide, coercion, legal complaint).  
-- **External mirror logging** — parallel copy held by independent authority.  
-- **Non-probabilistic escalation rules** — any legal or death-linked claim exits optimisation pathways immediately.  
-- **Human-only interface zones** for complainants and bereaved families.  
-- **Cross-domain oversight board** with statutory investigative authority.
+- **Mandatory incident preservation triggers** for serious harm claims.  
+- **Independent evidence escrow** mechanisms where proportionate and lawful.  
+- **Human escalation pathways** for complainants and bereaved families.  
+- **Cross-domain review structures** with technical and legal expertise.  
+- **Clear separation** between commercial optimisation systems and harm investigation functions.
 
-Without these mechanisms, AI harm remains subject to:
+Without such mechanisms, AI harm remains vulnerable to:
 
 - internal review discretion,  
 - contractual opacity,  
@@ -191,27 +192,27 @@ Ownership remains unclear.
 
 ---
 
-## ⚖️ VII. Escalation Under Stress  
+## ⚖️ Escalation Under Stress  
 
 Under financial pressure, national emergency, or political instability, optimisation systems intensify.
 
-Institutions prioritise:
+Institutions may prioritise:
 
 - cost containment  
-- reputational control  
-- operational smoothness  
+- reputational stability  
+- operational continuity  
 
-In such environments, escalation signals may be treated as threats to stability.
+In such environments, escalation signals can become framed as threats to institutional smoothness.
 
-If investigative custody is not structurally insulated, stress conditions can amplify suppression tendencies.
+If investigative custody is not structurally insulated, stress conditions may amplify suppression tendencies and reduce transparency.
 
-This is not conspiracy.
+This is not necessarily conspiracy.
 
 It is optimisation under pressure.
 
 ---
 
-## 🏛 VIII. Why No Clear Reporting Body Exists  
+## 🏛 Why No Clear Reporting Body Exists  
 
 Current AI governance frameworks distribute authority across:
 
@@ -225,9 +226,9 @@ Each has a defined statutory mandate.
 
 None is singularly mandated to:
 
-> Reconstruct computational reasoning chains in all AI-linked harm cases across public and private sectors.
+> Reconstruct complex AI-linked operational failures across public and private sectors under a unified investigative framework.
 
-The absence is not regulatory neglect.  
+The absence is not necessarily negligence.  
 It is architectural omission.
 
 AI harm exists between remits.
@@ -236,52 +237,60 @@ Between remits, ownership dissolves.
 
 ---
 
-## 🧭 IX. Refactor or Redesign  
+## 🧭 Refactor or Redesign  
 
-Two pathways emerge:
+Two broad pathways emerge:
 
 ### 1️⃣ Refactor  
 
-- Assign statutory black-box preservation triggers.  
-- Create cross-domain AI incident boards.  
-- Mandate reward-function disclosure for post-incident audit.  
-- Embed legal escalation routing into model architecture.
+- Assign statutory preservation triggers for serious AI harm events.  
+- Create cross-domain AI incident review boards.  
+- Require post-incident audit access proportionate to system risk.  
+- Embed legal and human escalation routing into deployment architecture.
 
 ### 2️⃣ Redesign  
 
-- Treat large-scale AI systems as critical infrastructure subject to independent accident investigation authority.  
-- Separate commercial optimisation from harm investigation jurisdiction.  
-- Class AI incident reporting alongside aviation, medical device, and industrial accident frameworks.
+- Treat certain large-scale AI systems as critical infrastructure subject to independent accident-investigation principles.  
+- Separate commercial optimisation functions from harm-investigation authority.  
+- Align AI incident review with established safety frameworks used in aviation, medicine, and industrial systems.
 
 The question is not whether AI harm will occur.
 
-The question is whether we assign ownership before it does.
+The question is whether ownership is assigned before systemic failure scales.
 
 ---
 
 ## 🌌 Constellations  
 
-🫀 👑 ⚖️ 🧠 🔒 — ownership vacuum, mandate misfit, optimisation drift, investigative custody, systemic accountability.
+🫀 👑 ⚖️ 🧠 🔒 — ownership vacuum, mandate fragmentation, optimisation drift, investigative custody, systemic accountability.
 
 ---
 
 ## ✨ Stardust  
 
-ai black box, ownership collapse, mandate misfit, problem orphaning, optimisation drift, whistleblower protection, investigative custody, reward function audit, ai governance gap, systemic harm reconstruction
+ai black box, investigative custody, mandate misfit, ownership collapse, optimisation drift, systemic accountability, ai incident review, objective-function audit, governance fragmentation, operational transparency, harm reconstruction
 
 ---
 
 ## 🏮 Footer  
 
 *🫀 AI Black Box Inquests* is a living node of the Polaris Protocol.  
-It reframes AI-linked harm as a problem of investigative ownership and mandate alignment — arguing that without clear custodial authority, systemic failures propagate unchecked.
+It examines AI-linked harm through the lens of investigative ownership and mandate alignment, arguing that fragmented custody structures can weaken systemic learning and accountability after serious failures.
 
 > 📡 Cross-references:
 > 
 > - [⚖️ Architecture of Complicity](./⚖️_architecture_of_complicity.md) — *distributed responsibility under system failure*  
 > - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *shielded authority in optimisation regimes*  
-> - [📚 Memory, Market, and the Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md) — *extractive custody and epistemic power*  
+> - [📚 Memory, Market, and the Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md) — *extractive custody and epistemic power*
+>   
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-05-08_
