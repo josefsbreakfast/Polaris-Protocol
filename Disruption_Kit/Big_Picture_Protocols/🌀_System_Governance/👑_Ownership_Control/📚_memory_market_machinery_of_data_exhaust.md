@@ -1,5 +1,5 @@
 # 📚 Memory, Market, and the Machinery of Data Exhaust  
-**First created:** 2025-12-14 | **Last updated:** 2026-02-22  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-08  
 *Extractive custody, ownership drift, and the orphaning of digital governance problems.*
 
 ---
@@ -282,8 +282,17 @@ It analyses how behavioural residue becomes subject to extractive custody — an
 > 
 > - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *shielded authority in extractive systems*  
 > - [⚖️ Architecture of Complicity](./⚖️_architecture_of_complicity.md) — *distributed responsibility under optimisation regimes*  
-> - [🧭 Reflexive Risk](./🧭_reflexive_risk.md) — *self-preserving systems under stress*  
+> - [🧭 Reflexive Risk](./🧭_reflexive_risk.md) — *self-preserving systems under stress*
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-05-08_
