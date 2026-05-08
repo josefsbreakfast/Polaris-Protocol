@@ -307,8 +307,8 @@ It maps comparative emotional and political structures between Britain and Russi
 > 📡 Cross-references:
 >
 > - [☕️ The Henry V of Local Elections Day](./☕️_the_henry_v_of_local_elections_day.md) — *regional identity and English political archetypes*
-> - [👑 The Female Sovereign as Patriarchal Apex](./👑_the_female_sovereign_as_patriarchal_apex.md) — *queenship and concentrated legitimacy*
-> - [🕯️ Post-Imperial Melancholia and the British Blind Spot](./🕯️_post_imperial_melancholia_and_the_british_blind_spot.md) — *continuity psychology and institutional memory*
+> - [👑 The Female Sovereign as Patriarchal Apex] — *queenship and concentrated legitimacy*
+> - [🕯️ Post-Imperial Melancholia and the British Blind Spot] — *continuity psychology and institutional memory*
 >   
 > 🏮 Return To:
 >
