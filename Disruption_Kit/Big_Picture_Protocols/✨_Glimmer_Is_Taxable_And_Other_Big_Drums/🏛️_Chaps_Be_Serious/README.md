@@ -1,5 +1,5 @@
 # 🏛️ Chaps, Be Serious.  
-**First created:** 2025-11-15 | **Last updated:** 2026-05-07  
+**First created:** 2025-11-15 | **Last updated:** 2026-05-08  
 *Satirical notes on Parliament, the Civil Service, and the maintenance of a functioning state.*
 
 <!--
@@ -119,7 +119,8 @@ british satire, parliament, civil service, governance, institutional integrity, 
 > - [👾 Intent-Free Authoritarian Drift](../../🌀_System_Governance/💫_Containment_Logic/👾_intent_free_authoritarian_drift.md)
 > - [🧠 The Continuum of Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md)
 > - [🌀 The Full Authoritarian Capture Lifecycle](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_authoritarian_capture_lifecycle.md)
-> - [🛠️ How Neutral People Enable Authoritarian Tech](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🛠️_how_neutral_people_enable_authoritarian_tech.md)  
+> - [🛠️ How Neutral People Enable Authoritarian Tech](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈴_Allies_And_Ethics/🛠️_how_neutral_people_enable_authoritarian_tech.md)
+> - [🧰 JSP_9-17A Annex D](../🧰_JSP_9-17A_Annex_D_Lawful_Escalation_Command_And_Conscience_Protocol.md) - *if you can't tell if it is satire, you need another cup of tea, honestly*  
 > 
 > 🏮 Return To:
 >
@@ -130,4 +131,4 @@ british satire, parliament, civil service, governance, institutional integrity, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-07_
+_Last updated: 2026-05-08_
