@@ -210,9 +210,12 @@ It examines shared governance response patterns in high-exposure harm contexts �
 
 > 📡 Cross-references:
 > 
-> - [⚖️ The Architecture of Complicity](./⚖️_architecture_of_complicity.md) — *downward responsibility flow*  
-> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md) — *shared exposure equilibrium*  
-> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *operational insulation through fragmentation*
+> - [✈️ Who Wants These Creeps in Charge?](./✈️_who_wants_these_creeps_in_charge.md)  
+> - [✈️ Genocides and Paedophiles](./✈️_genocides_and_paedophiles.md)  
+> - [🌒 The No-Win Box](./🌒_the_no_win_box.md)  
+> - [🌅 Rise of Institutional Integrity](./🌅_rise_of_institutional_integrity.md)  
+> - [🍉 British Democracy Needs You](./🍉_british_democracy_needs_you.md)  
+> - [🐼 The Metropolitan Rabble](./🐼_the_metropolitan_rabble.md)  
 >  
 > 🏮 Return To:
 >
