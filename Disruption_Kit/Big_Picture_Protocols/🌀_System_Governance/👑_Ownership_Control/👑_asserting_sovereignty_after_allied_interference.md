@@ -179,11 +179,13 @@ five eyes, sovereignty, jurisdiction, allied interference, demarche, investigati
 It details the legal and diplomatic mechanisms by which a state reclaims jurisdiction and demonstrates rule-of-law sovereignty even within alliance structures.  
 
 > 📡 Cross-references:
-> 
+>
+> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md)  
+> - [⚖️ The Architecture of Complicity](./⚖️_architecture_of_complicity.md)  
+> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md)  
+> - [👑 Soft Power Accountability Gap](./👑_soft_power_accountability_gap.md)  
+> - [🧬 Distributed Complicity in Modern Warfare](./🧬_distributed_complicity_in_modern_warfare.md)
 > - [🌀 Containment Under Observation](../../🦕_Elder_Influencers/📜_Statutes/🌀_containment_under_observation.md)  
-> - [*Pending:* 🧿 Oversight Paralysis — When Allies Breach the Firewall]  
-> - [⚡ Escalation Triggers — When HR Fails and Oversight Must Act](../💫_Containment_Logic/⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md)  
-> - [🧩 Ideal Whitehall Response Sequence](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧩_ideal_whitehall_response_sequence.md)
 > - [🌍 Israel–Five Eyes Structural Interdependency](../💫_Containment_Logic/🌍_israel_five_eyes_structural_interdependency.md)
 >  
 > 🏮 Return To:
