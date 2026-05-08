@@ -1,5 +1,5 @@
 # ⚖️ The Architecture of Complicity  
-**First created:** 2025-11-07 | **Last updated:** 2026-04-28  
+**First created:** 2025-11-07 | **Last updated:** 2026-05-08  
 *How accountability flows downward when sponsorship ownership is structurally fragmented.*
 
 ---
@@ -252,8 +252,17 @@ It examines how jurisdictional design and ownership fragmentation shape where ac
 > 
 > - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md) — *shared exposure equilibrium*  
 > - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *operational insulation through fragmentation*  
-> - [💰 Who Benefits from Cover-Up?](./💰_who_benefits_from_cover_up.md) — *incentive architecture under stasis*  
+> - [💰 Who Benefits from Cover-Up?](./💰_who_benefits_from_cover_up.md) — *incentive architecture under stasis*
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-28_
+_Last updated: 2026-05-08_
