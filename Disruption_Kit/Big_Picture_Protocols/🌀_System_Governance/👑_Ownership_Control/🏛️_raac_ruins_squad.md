@@ -181,10 +181,11 @@ raac, reinforced autoclaved aerated concrete, infrastructure failure, maintenanc
 It documents the administrative afterlife of modern infrastructure — and how custody-of-process failure turns maintenance into collapse.
 
 > 📡 Cross-references:
-> 
-> - [🕳️ The Pothole Problem](./🕳️_the_pothole_problem.md) — *liability gaps and enforcement failure in public infrastructure*  
-> - [💰 Who Benefits from Cover-Up](./💰_who_benefits_from_cover_up.md) — *incentives that suppress disclosure and remediation*  
-> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *shielded accountability in institutional systems*
+>
+> - [🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎺_echo_punk.md)  
+> - [⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure](./⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)  
+> - [🕳️ The Pothole Problem](./🕳️_the_pothole_problem.md)  
+> - [🌳 The Lads Are Not Pro Countryside](./🌳_the_lads_are_not_pro_countryside.md)  
 >  
 > 🏮 Return To:
 >
