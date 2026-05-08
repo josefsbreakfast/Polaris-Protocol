@@ -290,10 +290,17 @@ legitimacy, authority, reciprocity, survivability, governance, foundations, embo
 It examines how authority becomes recognised, sustained, renewed, and refused through layered relationships between trust, continuity, embodiment, reciprocity, and survivability.
 
 > 📡 Cross-references:
+> 
 > - [🌑 What Is Authority](./🌑_what_is_authority.md) — *foundational definition of authority and mandate*  
 > - [🦖 Failure And Revocability](./🦖_failure_and_revocability.md) — *how legitimacy decays, collapses, or must end*  
 > - [🐌 Embodiment As Evidence](./🐌_embodiment_as_evidence.md) — *bodies as legitimacy signal systems*  
-> - [🪲 Resilience Over Optimisation](./🪲_resilience_over_optimisation.md) — *survivability versus spectacle and extraction logics*  
+> - [🪲 Resilience Over Optimisation](./🪲_resilience_over_optimisation.md) — *survivability versus spectacle and extraction logics*
+>
+> 🏮 Return To:
+>
+> - [🌱 Core Principles](./README.md)  
+> - [🧄 Exousiología](../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
