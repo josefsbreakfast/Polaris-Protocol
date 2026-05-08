@@ -23,3 +23,5 @@ The bar is literally so low, that all that really needs to happen is a very smal
 nb for later:
 
 "Бабусю" is more ukrainian, just cyrillic,  like "granny"/"nanny" but def nice/deferential.  
+
+my tendsndy is russian bc i am uncultyred beyond that innit so "бабушка" is more familiar to me. prob change it for final gen drafting.
