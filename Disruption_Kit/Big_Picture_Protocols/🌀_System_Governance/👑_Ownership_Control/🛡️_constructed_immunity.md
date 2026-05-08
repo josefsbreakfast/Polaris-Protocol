@@ -1,5 +1,5 @@
 # 🛡️ Constructed Immunity  
-**First created:** 2025-11-12 | **Last updated:** 2026-02-22  
+**First created:** 2025-11-12 | **Last updated:** 2026-05-08  
 *How accountability dissolves when responsibility fragments across legal, contractual, and reputational layers.*
 
 ---
@@ -222,8 +222,17 @@ It makes visible the architectures through which consequence dissolves when resp
 > 
 > - [💰 Who Benefits from Cover-Up?](./💰_who_benefits_from_cover_up.md) — *incentive architecture under siloed governance*  
 > - [🫀 AI Black Box Inquests](./🫀_ai_black_box_inquests.md) — *investigative custody vacuum*  
-> - [📚 Memory, Market, and the Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md) — *ownership drift in digital systems*  
+> - [📚 Memory, Market, and the Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md) — *ownership drift in digital systems*
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-05-08_
