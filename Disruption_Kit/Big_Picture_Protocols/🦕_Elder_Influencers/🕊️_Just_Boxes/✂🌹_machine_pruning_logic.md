@@ -1,5 +1,5 @@
 # ✂🌹 Machine Pruning Logic  
-**First created:** 2025-11-05  |  **Last updated:** 2025-11-12  
+**First created:** 2025-11-05  |  **Last updated:** 2026-05-08
 *Why optimisation without correction becomes slow erasure.*  
 
 ---
@@ -85,8 +85,8 @@ It traces how optimisation engines slide from correction to eradication, and why
 > 
 > - 🦠 Algorithmic Autoimmunity — *immunological analogue*  
 > - 📈 Stakeholder Mapping from Symptoms — *diagnostic framework*  
-> - 📋 OpenAI UK Due Diligence & Autoimmunity Map — *empirical application*  
+> - [🦠 AI UK Due Diligence & Autoimmunity Map](./🦠_ai_uk_due_diligence_and_autoimmunity_map.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-05-08_
