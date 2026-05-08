@@ -206,8 +206,7 @@ It examines how fragmented worker protection creates escalation vacuums — and 
 
 > 📡 Cross-references:
 > 
-> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *when embedded actors become untouchable*  
-> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md) — *shared exposure suppressing escalation*  
+> - [⚖️ Shielded Roles and Information Risk Governance](./⚖️_shielded_roles_and_information_risk_governance.md)  
 > - [⚖️ Acknowledgement Tradeoffs in Data Fixing](./⚖️_acknowledgement_tradeoffs_in_data_fixing.md) — *why quiet repair replaces structural accountability*
 >  
 > 🏮 Return To:
