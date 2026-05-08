@@ -1,5 +1,5 @@
 # 👑 Ownership & Control
-**First created:** 2025-10-13 | **Last updated:** 2026-02-22  
+**First created:** 2025-10-13 | **Last updated:** 2026-05-08  
 *Where remit fractures, custody diffuses, and operational power actually determines outcomes.*
 
 ---
@@ -195,10 +195,15 @@ It documents where operational power actually sits —
 and how fragmented custody shapes outcomes more than formal rules do.
 
 > 📡 Cross-references:
+>  
+> 🏮 Return To:
 > 
 > - [🌀 Systems & Governance](../README.md)  
-> - [⚖️ Legal & State Governance](../⚖️_Legal_State_Governance/README.md)  
-> - [💫 Containment Logic](../💫_Containment_Logic/README.md)  
-> - [🛰️ Infrastructure Procurement](../🛰️_Infrastructure_Procurement/README.md)
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-05-08_
