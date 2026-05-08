@@ -1,5 +1,5 @@
 # 🐉 It’s Not Always Daddy Dragon  
-**First created:** 2025-12-11 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-11 | **Last updated:** 2026-05-08  
 *Why defaulting to a familiar great-power villain misplaces analytical load — and how that failure endangers real people.*  
 
 ---
@@ -146,8 +146,15 @@ It exists to prevent premature narrative closure in moments of uncertainty — e
 > - [🌍 Residual Shadows at FCDO](../../🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌍_residual_shadows_at_fcdo.md) — *long-tail data harm*  
 > - [🧿 FCDO Data Signatures](../../Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧿_fcdo_data_signatures.md) — *decision fingerprints*  
 > - [🧿 Attribution as Narrative Attack Surface](./🧿_attribution_as_narrative_attack_surface.md) — *spoofability*  
-> - [🦑 C.R.A.K.E.N. System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*  
+> - [🦑 C.R.A.K.E.N. System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*
+>   
+> 🏮 Return To:
+>
+> - [🪆 Narrative Interference](./README.md)  
+> - [🎭 Narrative and Psych Ops](../README.md)  
+> - [🛰️ Metadata Sabotage Network](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-05-08_
