@@ -361,10 +361,17 @@ authority, legitimacy, force, governance, influence, reciprocity, embodiment, ec
 It establishes the primary distinctions between authority, force, legitimacy, domination, and relational governance across living systems.
 
 > 📡 Cross-references:
+> 
 > - [🧅 Source And Legitimacy](./🧅_source_and_legitimacy.md) — *how authority becomes recognised and sustained*  
 > - [🫚 Shape Of Power](./🫚_shape_of_power.md) — *how authority systems selectively legitimise behaviours and structures*  
 > - [🦖 Failure And Revocability](./🦖_failure_and_revocability.md) — *how authority decays, exceeds legitimacy, or must end*  
-> - [🌿 Authority As Ecology](./🌿_authority_as_ecology.md) — *authority as living adaptive systems rather than static machines*  
+> - [🌿 Authority As Ecology](./🌿_authority_as_ecology.md) — *authority as living adaptive systems rather than static machines*
+>
+> 🏮 Return To:
+>
+> - [🌱 Core Principles](./README.md)  
+> - [🧄 Exousiología](../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
