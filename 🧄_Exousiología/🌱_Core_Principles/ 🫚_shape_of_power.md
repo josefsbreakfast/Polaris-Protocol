@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Core Thesis  
+## ✨ Core Thesis  
 
 Power is never shapeless.
 
@@ -325,7 +325,12 @@ It examines how authority systems selectively legitimise certain human capacitie
 > - [🌑 What Is Authority? ](./🌑_what_is_authority.md) — *foundational definition of authority and legitimacy*  
 > - [🐌 Embodiment As Evidence](./🐌_embodiment_as_evidence.md) — *bodies as governance signal systems*  
 > - [🪲 Resilience Over Optimisation](./🪲_resilience_over_optimisation.md) — *survivability versus extraction logics*  
-> - [🧭 Authority Topologies] — *structural forms and arrangements of power*  
+> - [🧭 Authority Topologies] — *structural forms and arrangements of power*
+>
+> 🏮 Return To:
+>
+> - [🌱 Core Principles](./README.md)  
+> - [🧄 Exousiología](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
