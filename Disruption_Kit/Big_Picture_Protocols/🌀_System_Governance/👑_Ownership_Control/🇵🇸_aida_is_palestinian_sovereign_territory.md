@@ -1,5 +1,5 @@
 # 🇵🇸 Aida Is Palestinian Sovereign Territory  
-**First created:** 2026-01-08 | **Last updated:** 2026-04-28  
+**First created:** 2026-01-08 | **Last updated:** 2026-05-08  
 *Legal status of Aida Refugee Camp and implications for third-party institutional responsibility.*  
 
 ---
@@ -129,8 +129,17 @@ It documents the legal status of Aida Refugee Camp and clarifies the obligations
 > 
 > - [🕊️ War or Peace](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md) — *state violence and escalation tracking*  
 > - [🫒 Occupation as Containment Regime](../💫_Containment_Logic/🫒_occupation_as_containment_regime.md) – *occupation ≠ ownership*  
-> - [🍉 Why Do We Care About Palestine](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md) – *memory, politics, and narrative framing*  
+> - [🍉 Why Do We Care About Palestine](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md) – *memory, politics, and narrative framing*
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-28_
+_Last updated: 2026-05-08_
