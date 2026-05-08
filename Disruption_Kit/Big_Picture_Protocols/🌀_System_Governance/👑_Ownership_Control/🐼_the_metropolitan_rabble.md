@@ -1,7 +1,7 @@
 # 🐼 The Metropolitan Rabble  
 **First created:** 2025-12-22 | **Last updated:** 2026-05-08  
 *Why the Met looks less like a disciplined force and more like authority without internal coherence — and why that explains more than “corruption” ever did.*  
-<!--It is healthy to laugh at ourselves; please see previously generated 2 million words. You got this.-->
+
 ---
 
 > "They reckon you've got concussion...
