@@ -289,7 +289,7 @@ The appearance of “intelligence” can obscure infrastructural causation.
 
 ---
 
-## 🛡️ Cybersecurity As Civic Infrastructure  
+## 🕸️ Cybersecurity As Civic Infrastructure  
 
 Cybersecurity can no longer be treated solely as:
 - a specialist technical concern,
