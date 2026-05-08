@@ -1,5 +1,5 @@
 # 🛠️ Fixing the UK Algorithmic Safety Stack  
-**First created:** 2025-11-05 | **Last updated:** 2026-01-28  
+**First created:** 2025-11-05 | **Last updated:** 2026-05-08  
 *How to turn a patchwork of overlapping safety systems into a transparent, accountable digital infrastructure.*  
 
 ---
@@ -70,11 +70,11 @@ Friction should live in governance, not in speech.
 > 📡 Cross-references:
 > 
 > - [🦎 Algorithmic Autotomy](../👑_Ownership_Control/🦎_algorithmic_autotomy.md)  
-> - [🦠 OpenAI UK Due Diligence & Autoimmunity Map](../👑_Ownership_Control/🦠_openai_uk_due_diligence_autoimmunity_map.md)  
+> - [🦠 AI UK Due Diligence & Autoimmunity Map](./🦠_ai_uk_due_diligence_and_autoimmunity_map.md)
 > - [🔮 Palantir as Infrastructure](./🔮_palantir_as_infrastructure.md)  
 > - [🦠 Algorithmic Autoimmunity](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🦠_algorithmic_autoimmunity.md)
 > - [⚖️ Threats and Countermeasures to Democracy from Machine Learning](./⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-28_
+_Last updated: 2026-05-08_
