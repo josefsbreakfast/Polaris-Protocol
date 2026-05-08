@@ -215,9 +215,11 @@ It examines how symbolic influence operates within constitutional design — and
 
 > 📡 Cross-references:  
 > 
-> - [⚖️ Architecture of Complicity](./⚖️_architecture_of_complicity.md) — *distributed responsibility under prestige systems*  
-> - [📚 Memory, Market, and the Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md) — *ownership drift in epistemic systems*  
-> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *shielded authority in institutional design*
+> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md)  
+> - [⚖️ The Architecture of Complicity](./⚖️_architecture_of_complicity.md)  
+> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md)  
+> - [👑 Asserting Sovereignty After Allied Interference](./👑_asserting_sovereignty_after_allied_interference.md)  
+> - [🧬 Distributed Complicity in Modern Warfare](./🧬_distributed_complicity_in_modern_warfare.md)  
 >  
 > 🏮 Return To:
 >
