@@ -21,3 +21,6 @@ The arms industry in the UK does not fundamentally prop up every single one of t
 ---
 
 [We can also def talk about the how and why of the lib debs on this cycle.](https://vm.tiktok.com/ZNRsSBK8P/)  
+
+[And this starts to hreak down why it's not just a case of getting the voters from one other party.](https://vm.tiktok.com/ZNRsS92TU/)  
+
