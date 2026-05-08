@@ -1,1 +1,13 @@
 [Going to need you to stop taking civ tech to militarise and put the mil tech to work and go get our babouskhas back.](https://vm.tiktok.com/ZNRsk5hdP/)   
+
+Honestly, as someone who walks with similar aid as this lady, although I may not need it for every single step around my house (perhaps she does, perhaps she doesn't; I imagine she needs a little bit more than I do), this is the first time I've seen someone be assisted by military in about a decade, in this way.  
+
+I'm not saying that no one wearing a uniform has done anything for civilian populations in that time, but this is the first time I've seen someone who has the same bodily capacity that I have, be assisted by military.  
+
+You want to really understand how it is difficult for me to come down on groups that are armed like Hamas, it's actually got more to do with the fact that I see them intervene in a way that does provide some degree of cover for disabled civilians, but I don't see that from armed forces very regularly at all.  
+
+This is a ready simple little thing to solve.  
+
+It is not surprising to me that the Ukrainian Armed Forces got there first, in terms of this being something that a western power visibly participated in.  
+
+2025-05-08
