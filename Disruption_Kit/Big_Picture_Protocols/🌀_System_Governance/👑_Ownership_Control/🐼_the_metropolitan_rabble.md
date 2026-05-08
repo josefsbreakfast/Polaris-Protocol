@@ -1,5 +1,5 @@
 # 🐼 The Metropolitan Rabble  
-**First created:** 2025-12-22 | **Last updated:** 2026-02-22  
+**First created:** 2025-12-22 | **Last updated:** 2026-05-08  
 *Why the Met looks less like a disciplined force and more like authority without internal coherence — and why that explains more than “corruption” ever did.*  
 <!--It is healthy to laugh at ourselves; please see previously generated 2 million words. You got this.-->
 ---
@@ -206,8 +206,17 @@ It contributes institutional analysis on why the Met’s behaviour is better exp
 > - [🦴 Tolerance Thresholds as Load Management](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🉑_System_Thresholds/🦴_tolerance_thresholds_as_load_management.md) — *why we've all got to pitch in if we don't want it to keep getting worse*
 > 
 >   And if you would like to take the piss in return:  
-> - [🗑️ Orthopaedic Anarchism (Why Millennials Can’t Throw Bins)](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md)  
+> - [🗑️ Orthopaedic Anarchism (Why Millennials Can’t Throw Bins)](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md)
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-05-08_
