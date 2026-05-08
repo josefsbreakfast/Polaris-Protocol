@@ -240,10 +240,13 @@ distributed complicity, modern warfare systems, custody gap, intelligence workfl
 
 It analyses how responsibility can fragment across modern conflict systems, creating gaps between ethical exposure and decision authority, and how this affects both legal clarity and institutional resilience.
 
-> 📡 Cross-references:
->
-> - [⚖️ The Architecture of Complicity](./⚖️_architecture_of_complicity.md) — *downstream responsibility structures*  
-> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md) — *shared exposure stabilisation*  
+> 📡 Cross-references:  
+>  
+> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md)  
+> - [⚖️ The Architecture of Complicity](./⚖️_architecture_of_complicity.md)  
+> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md)  
+> - [👑 Soft Power Accountability Gap](./👑_soft_power_accountability_gap.md)  
+> - [👑 Asserting Sovereignty After Allied Interference](./👑_asserting_sovereignty_after_allied_interference.md)  
 > - [✈️ Worker Positioning & Safety Culture](./✈️_worker_positioning_and_safety_culture.md) — *escalation and mandate design*  
 >   
 > 🏮 Return To:
