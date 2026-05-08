@@ -24,7 +24,7 @@ It is whether anyone owns the outcome.
 
 ---
 
-## 🧱 I. Legacy Architecture and Rights Retrofitting  
+## 🧱 Legacy Architecture and Rights Retrofitting  
 
 Many contemporary bureaucracies were originally architected:
 
@@ -62,7 +62,7 @@ When equality must be retrofitted onto hierarchy-oriented systems, institutional
 
 ---
 
-## 👑 II. Outcome Orphaning  
+## 👑 Outcome Orphaning  
 
 A defining feature of genocide by containment is not overt declaration.  
 It is **ownership collapse**.
@@ -92,7 +92,7 @@ It can produce structural mortality without singular perpetrator intent.
 
 ---
 
-## 🗂 III. Flowchart Governance vs Relational Stewardship  
+## 🗂 Flowchart Governance vs Relational Stewardship  
 
 Earlier administrative cultures — however flawed — often involved:
 
@@ -125,7 +125,7 @@ It is system property.
 
 ---
 
-## 📊 IV. Metric Optimisation and Externalised Harm  
+## 📊 Metric Optimisation and Externalised Harm  
 
 Modern governance increasingly relies on KPIs and performance dashboards. Management research has long recognised that when metrics dominate, behaviour optimises toward the metric itself — sometimes at the expense of safety or quality.
 
@@ -143,7 +143,7 @@ At scale, optimisation drift can produce measurable preventable harm.
 
 ---
 
-## 🌍 V. Exported Administrative Inheritance  
+## 🌍 Exported Administrative Inheritance  
 
 Administrative models historically influenced by British civil-service traditions have shaped governance structures across the Commonwealth and beyond.
 
@@ -165,7 +165,7 @@ When such governance models scale globally — and are layered with automation �
 
 ---
 
-## ⚙️ VI. Automation as Acceleration  
+## ⚙️ Automation as Acceleration  
 
 Automation does not create structural harm from nothing.  
 It accelerates existing design assumptions.
@@ -197,7 +197,7 @@ Rarely do they examine architectural logic itself.
 
 ---
 
-## 🚨 VII. Structural Mortality Indicators  
+## 🚨 Structural Mortality Indicators  
 
 The following conditions may indicate governance systems generating preventable harm at scale:
 
@@ -216,7 +216,7 @@ This is the governance condition described here as genocide by containment.
 
 ---
 
-## 🛠 VIII. Reform or Rebuild  
+## 🛠 Reform or Rebuild  
 
 Addressing structural mortality does not require institutional collapse. It requires architectural honesty.
 
@@ -250,7 +250,7 @@ It means examining whether the foundation remains fit for purpose.
 
 ---
 
-## 🛑 IX. Historical Memory and Prevention Frameworks  
+## 🛑 Historical Memory and Prevention Frameworks  
 
 The Genocide Convention emerged directly from the Holocaust. It was drafted in response to the systematic destruction of European Jewry and other targeted groups through a modern administrative state.
 
