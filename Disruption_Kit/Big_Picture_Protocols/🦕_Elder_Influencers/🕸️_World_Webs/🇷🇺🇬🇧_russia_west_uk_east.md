@@ -1,11 +1,10 @@
-# 🇷🇺🇬🇧 The Russia of the West; The UK of the East
-
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08
+# 🇷🇺🇬🇧 The Russia of the West; The UK of the East  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
 *Comparative notes on Britain and Russia as historically legible imperial states shaped by legitimacy, geography, and symbolic power.*
 
 ---
 
-# 🧭 Core Thesis
+# 🛰️ Core Thesis
 
 Britain and Russia are not “the same country,” but they are far more historically and psychologically legible to one another than British discourse usually admits.
 
