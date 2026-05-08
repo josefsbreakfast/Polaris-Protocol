@@ -12,4 +12,10 @@ It is not surprising to me that the Ukrainian Armed Forces got there first, in t
 
 i'm not talking about standing around with grandma upon return, I'm talking about actually helping evacuation. Since the plague of 2020, all I've seen is leaving us behind, and as they say, it's often only forces that are considered to be militia that are actually seem to be assisting in any way shape or form. I can't help that that degree if humanity is so much decimated that you can buy my loyalty this easily at this point.  
 
+International humanitarian law never died, it is simply in the same state it is consistently been in, we just got to a point where we could see that a lot more obviously than before.  
+
+All that is required is that the powers who say that they have morals, actually act as if they have morals, that's all you need to do to save international humanitarian law.  
+
+The bar is literally so low, that all that really needs to happen is a very small improvement in the degree of principle being applied at a senior level, or the degree if humanity shown openly.  
+
 2025-05-08
