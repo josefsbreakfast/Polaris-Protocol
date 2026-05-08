@@ -186,12 +186,17 @@ no-win box, escalation trade-offs, autonomy dynamics, narrative asymmetry, contr
 It describes the structural constraints that can emerge when control-based dynamics encounter transparency, autonomy, and public visibility.  
 
 > 📡 Cross-references:
+>
+> 📡 Cross-references:
 > 
-> - [🎶 Shared Technology — VoiceX and Institutional Reports](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎶_shared_tech_voicex_institutional_reports.md)  
+> - [✈️ Who Wants These Creeps in Charge?](./✈️_who_wants_these_creeps_in_charge.md)  
+> - [✈️ Genocides and Paedophiles](./✈️_genocides_and_paedophiles.md)  
+> - [🌒 The No-Win Box](./🌒_the_no_win_box.md)  
+> - [🌅 Rise of Institutional Integrity](./🌅_rise_of_institutional_integrity.md)  
+> - [🍉 British Democracy Needs You](./🍉_british_democracy_needs_you.md)  
+> - [🐼 The Metropolitan Rabble](./🐼_the_metropolitan_rabble.md)  
 > - [🗣️ Voice Laundering](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗣️_voice_laundering.md)  
-> - [🎣 Polaris Scares Men](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🎣_polaris_scares_men.md)  
-> - [💄 Hypothetical Case — Disinfo Narrative Control](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/💄_hypothetical_case_disinfo_narrative_control.md)  
-> - [🧃 COGAT Is a Containment Operation](../../🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
+
 >  
 > 🏮 Return To:
 >
