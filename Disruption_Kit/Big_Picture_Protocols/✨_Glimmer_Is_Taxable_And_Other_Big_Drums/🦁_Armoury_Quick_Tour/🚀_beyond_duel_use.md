@@ -10,4 +10,6 @@ This is a ready simple little thing to solve.
 
 It is not surprising to me that the Ukrainian Armed Forces got there first, in terms of this being something that a western power visibly participated in.  
 
+i'm not talking about standing around with grandma upon return, I'm talking about actually helping evacuation. Since the plague of 2020, all I've seen is leaving us behind, and as they say, it's often only forces that are considered to be militia that are actually seem to be assisting in any way shape or form. I can't help that that degree if humanity is so much decimated that you can buy my loyalty this easily at this point.  
+
 2025-05-08
