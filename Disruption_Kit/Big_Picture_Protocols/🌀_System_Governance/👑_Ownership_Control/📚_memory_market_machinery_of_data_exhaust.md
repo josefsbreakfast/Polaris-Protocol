@@ -280,9 +280,12 @@ It analyses how behavioural residue becomes subject to extractive custody — an
 
 > 📡 Cross-references:
 > 
-> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *shielded authority in extractive systems*  
-> - [⚖️ Architecture of Complicity](./⚖️_architecture_of_complicity.md) — *distributed responsibility under optimisation regimes*  
-> - [🧭 Reflexive Risk](./🧭_reflexive_risk.md) — *self-preserving systems under stress*
+> - [👁️ Restoring Epistemic Integrity](./👁️_restoring_epistemic_integrity.md)  
+> - [🦎 Algorithmic Autotomy](./🦎_algorithmic_autotomy.md)  
+> - [🦠 Systemic Porosity](./🦠_systemic_porosity.md)  
+> - [🦠 OpenAI UK Due Diligence Autoimmunity Map](./🦠_openai_uk_due_diligence_autoimmunity_map.md)  
+> - [🧭 Reflexive Risk](./🧭_reflexive_risk.md)  
+> - [🧨 We Are Already Paying the Cost](./🧨_we_are_already_paying_the_cost.md)  
 >  
 > 🏮 Return To:
 >
