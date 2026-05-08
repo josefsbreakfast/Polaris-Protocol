@@ -4,7 +4,7 @@
 
 ---
 
-# 🛰️ Core Thesis
+## 🛰️ Core Thesis
 
 Britain and Russia are not “the same country,” but they are far more historically and psychologically legible to one another than British discourse usually admits.
 
@@ -24,9 +24,9 @@ It is:
 
 ---
 
-# 🏛️ I. The Problem of British Exceptionalism
+## 🏛️ I. The Problem of British Exceptionalism
 
-## Core Observation
+### Core Observation
 
 British political culture often unconsciously treats itself as:
 
@@ -54,9 +54,9 @@ This obscures:
 
 ---
 
-# 🧱 II. London Is Moscow
+## 🧱 II. London Is Moscow
 
-## Shared Capital Dynamics
+### Shared Capital Dynamics
 
 Both capitals function as:
 
@@ -85,9 +85,9 @@ People outside the capital often feel:
 
 ---
 
-# 🌫️ III. Saint Petersburg Is Not London
+## 🌫️ III. Saint Petersburg Is Not London
 
-## Better British Analogues
+### Better British Analogues
 
 Saint Petersburg resembles:
 
@@ -106,9 +106,9 @@ Saint Petersburg resembles:
 
 ---
 
-# 🎭 IV. Shakespeare Already Explained This
+## 🎭 IV. Shakespeare Already Explained This
 
-## Henry V as Regional Britain
+### Henry V as Regional Britain
 
 *Henry V* demonstrates:
 
@@ -127,9 +127,9 @@ Modern media often forgets this.
 
 ---
 
-# ⚔️ V. The Wars of the Roses Across Eurasia
+## ⚔️ V. The Wars of the Roses Across Eurasia
 
-## Dynastic Logic
+### Dynastic Logic
 
 British audiences already understand:
 
@@ -148,16 +148,16 @@ Russia scales these tensions across:
 
 ---
 
-# 🕯️ VI. Russia Remembers Collapse; Britain Remembers Continuity
+## 🕯️ VI. Russia Remembers Collapse; Britain Remembers Continuity
 
-## Britain
+### Britain
 
 * monarchy survived,
 * aristocracy adapted,
 * institutions evolved gradually,
 * continuity myth persisted.
 
-## Russia
+### Russia
 
 * monarchy collapsed,
 * aristocracy destroyed,
@@ -165,7 +165,7 @@ Russia scales these tensions across:
 * civil war followed,
 * state legitimacy ruptured visibly.
 
-### Result
+#### Result
 
 Russia often retains:
 
@@ -181,9 +181,9 @@ Britain often retains:
 
 ---
 
-# 🩸 VII. Why the Romanovs Frightened Britain
+## 🩸 VII. Why the Romanovs Frightened Britain
 
-## Core Idea
+### Core Idea
 
 British elites recognised themselves in the fall of the Russian monarchy.
 
@@ -197,9 +197,9 @@ The fear was:
 
 ---
 
-# 👑 VIII. Queenship and Sovereign Femininity
+## 👑 VIII. Queenship and Sovereign Femininity
 
-## Elizabeth I ↔ Catherine the Great
+### Elizabeth I ↔ Catherine the Great
 
 Not feminist disruptions of patriarchy, but:
 
@@ -215,9 +215,9 @@ Not feminist disruptions of patriarchy, but:
 
 ---
 
-# 🪞 IX. Elizabeth II and the Last Sacred Queen
+## 🪞 IX. Elizabeth II and the Last Sacred Queen
 
-## Core Idea
+### Core Idea
 
 Elizabeth II became:
 
@@ -233,9 +233,9 @@ Her symbolic role likely cannot be reproduced identically by later male monarchs
 
 ---
 
-# 🌍 X. Britain Is a Layered State Too
+## 🌍 X. Britain Is a Layered State Too
 
-## Core Observation
+### Core Observation
 
 Britain already contains:
 
@@ -255,9 +255,9 @@ Therefore Britain should not struggle conceptually with:
 
 ---
 
-# 📺 XI. Why Britain Flattens Regions
+## 📺 XI. Why Britain Flattens Regions
 
-## Media Centralisation
+### Media Centralisation
 
 The closer regions are to London:
 
@@ -273,9 +273,9 @@ Yet Shakespeare often portrayed regional specificity more carefully than modern 
 
 ---
 
-# 📖 XII. Russia: A Cheat Sheet for the British
+## 📖 XII. Russia: A Cheat Sheet for the British
 
-## Purpose
+### Purpose
 
 To translate Russian political-cultural logic through:
 
