@@ -1,5 +1,5 @@
 # ⚖️ Accountability as Alignment  
-**First created:** 2025-11-05 | **Last updated:** 2026-04-28  
+**First created:** 2025-11-05 | **Last updated:** 2026-05-08  
 *Why justice systems function as moral gradient signals for machine alignment.*
 
 ---
@@ -28,7 +28,7 @@ It is part of the external training environment.
 
 ---
 
-## 🧭 Core Claim  
+## ✨ Core Claim  
 
 Justice systems contribute to writing the reward structure of civilisation into the public record.
 
@@ -243,8 +243,17 @@ Weak gradients produce drift.
 > - [🌫️ Uncertainty Branch Logic](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌫️_uncertainty_branch_logic.md)  
 > - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md)  
 > - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md)  
-> - [⚖️ The Architecture of Complicity](./⚖️_architecture_of_complicity.md)  
+> - [⚖️ The Architecture of Complicity](./⚖️_architecture_of_complicity.md)
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-28_
+_Last updated: 2026-05-08_
