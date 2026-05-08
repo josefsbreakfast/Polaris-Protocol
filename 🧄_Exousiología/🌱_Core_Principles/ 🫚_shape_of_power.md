@@ -1,5 +1,5 @@
 # 🫚 Shape Of Power  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-05 | **Last updated:** 2026-05-08  
 *How authority systems selectively legitimise certain traits, behaviours, and modes of relation — and how those selections shape institutional reality.*
 
 ---
