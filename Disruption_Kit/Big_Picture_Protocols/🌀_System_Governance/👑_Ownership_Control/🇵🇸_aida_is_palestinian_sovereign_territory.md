@@ -130,6 +130,7 @@ It documents the legal status of Aida Refugee Camp and clarifies the obligations
 > - [🕊️ War or Peace](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md) — *state violence and escalation tracking*  
 > - [🫒 Occupation as Containment Regime](../💫_Containment_Logic/🫒_occupation_as_containment_regime.md) – *occupation ≠ ownership*  
 > - [🍉 Why Do We Care About Palestine](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md) – *memory, politics, and narrative framing*
+> - [🌍 Cross-Border Bias Propagation in Surveillance Models](./🌍_cross_border_bias_propagation_in_surveillance_models.md)  
 >  
 > 🏮 Return To:
 >
