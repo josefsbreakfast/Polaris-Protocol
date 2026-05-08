@@ -1,5 +1,5 @@
 # ✈️ Who Wants These Creeps in Charge?  
-**First created:** 2025-12-20 | **Last updated:** 2026-04-28  
+**First created:** 2025-12-20 | **Last updated:** 2026-05-08  
 *Embedded indispensability, complicity chains, and the erosion of democratic consent.*
 
 ---
@@ -213,8 +213,17 @@ It examines how embedded usefulness and distributed complicity can insulate expo
 > 
 > - [⚖️ The Architecture of Complicity](./⚖️_architecture_of_complicity.md) — *downward responsibility flow*  
 > - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md) — *shared exposure equilibrium*  
-> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *operational insulation through fragmentation*  
+> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *operational insulation through fragmentation*
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-28_
+_Last updated: 2026-05-08_
