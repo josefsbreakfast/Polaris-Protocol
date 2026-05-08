@@ -191,7 +191,6 @@ It describes the structural constraints that can emerge when control-based dynam
 > 
 > - [✈️ Who Wants These Creeps in Charge?](./✈️_who_wants_these_creeps_in_charge.md)  
 > - [✈️ Genocides and Paedophiles](./✈️_genocides_and_paedophiles.md)  
-> - [🌒 The No-Win Box](./🌒_the_no_win_box.md)  
 > - [🌅 Rise of Institutional Integrity](./🌅_rise_of_institutional_integrity.md)  
 > - [🍉 British Democracy Needs You](./🍉_british_democracy_needs_you.md)  
 > - [🐼 The Metropolitan Rabble](./🐼_the_metropolitan_rabble.md)  
