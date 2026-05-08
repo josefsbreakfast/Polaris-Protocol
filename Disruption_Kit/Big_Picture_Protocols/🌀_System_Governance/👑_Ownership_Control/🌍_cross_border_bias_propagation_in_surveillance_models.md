@@ -190,10 +190,11 @@ cross-border bias, surveillance systems, data propagation, metadata schemas, ven
 It maps how bias persists through system interoperability, shared standards, and distributed responsibility across jurisdictions.  
 
 > 📡 Cross-references:
-> 
+>
+> - [🇵🇸 Aida Is Palestinian Sovereign Territory](./🇵🇸_aida_is_palestinian_sovereign_territory.md)  
 > - [🌍 Israel–Five Eyes Structural Interdependency](../💫_Containment_Logic/🌍_israel_five_eyes_structural_interdependency.md)  
 > - [🌍 Apartheid Algorithm Dependency Theory](../../🦕_Elder_Influencers/🕸️_World_Webs/🌍_apartheid_algorithm_dependency_theory.md)  
-> - [🧬 Metadata-Driven Racism](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_metadata_driven_racism.md)
+> - [🧬 Metadata-Driven Racism](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧬_metadata_driven_racism.md)  
 >  
 > 🏮 Return To:
 >
