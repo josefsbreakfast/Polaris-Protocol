@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-08 17:23:12 UTC_
+_Generated on 2026-05-08 17:43:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -62,6 +62,7 @@ _Generated on 2026-05-08 17:23:12 UTC_
         - [`🔱_why_trident_is_lowkey_kraken_insurance.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🔱_why_trident_is_lowkey_kraken_insurance.md)
         - [`🕊️_dickin_medal_holders.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🕊️_dickin_medal_holders.md)
         - [`🕊️_gustav_and_the_network_of_impossible_messengers.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🕊️_gustav_and_the_network_of_impossible_messengers.md)
+        - [`🚀_beyond_duel_use.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🚀_beyond_duel_use.md)
         - [`🚢_large_underwater_threats.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🚢_large_underwater_threats.md)
         - [`🛩️_the_april_fools_department_of_defence.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🛩️_the_april_fools_department_of_defence.md)
         - [`🦑_bring_back_pressganging.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_bring_back_pressganging.md)
