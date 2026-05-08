@@ -1,5 +1,5 @@
 # 🧨 We Are Already Paying the Cost  
-**First created:** 2025-12-20 | **Last updated:** 2026-02-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-05-08  
 *Why non-ownership of harm is not frugality — it is systemic inefficiency.*
 
 ---
@@ -239,8 +239,16 @@ It reframes accountability not as moral luxury, but as fiscal discipline — sho
 > 
 > - [⚖️ Accountability as Alignment](../⚖️_accountability_as_alignment.md) — *designing for structural ownership*  
 > - [💰 Who Benefits from Cover-Up](./💰_who_benefits_from_cover_up.md) — *incentive distortion and delayed correction*  
-> - [🪡 Oversight Repair Kit](./🪡_oversight_repair_kit.md) — *restitching custody chains*  
+> - [🪡 Oversight Repair Kit](./🪡_oversight_repair_kit.md) — *restitching custody chains*
+>   
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-05-08_
