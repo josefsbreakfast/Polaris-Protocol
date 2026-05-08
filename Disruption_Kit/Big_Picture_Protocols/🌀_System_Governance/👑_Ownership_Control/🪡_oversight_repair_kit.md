@@ -90,9 +90,13 @@ It proposes mechanisms for reconnecting fragmented oversight bodies and embeddin
 
 > 📡 Cross-references:
 > 
+> - [⚖️ Accountability as Alignment](./⚖️_accountability_as_alignment.md)  
+> - [⚖️ Acknowledgement Tradeoffs in Data Fixing](./⚖️_acknowledgement_tradeoffs_in_data_fixing.md)  
+> - [💰 Sometimes Donors Save the Day](./💰_sometimes_donors_save_the_day.md)  
+> - [💰 Who Benefits from Cover-Up](./💰_who_benefits_from_cover_up.md)  
 > - [🦠 Systemic Porosity](./🦠_systemic_porosity.md) — *structural vulnerability map*  
 > - [🦠 Hybrid Threat Overlay](../⚖️_Legal_State_Governance/🦠_hybrid_threat_overlay.md) — *external manipulation risk*  
-> - [🧠 Multi-Lock Hypothetical](../💫_Containment_Logic/🧠_multilock_overlapping_covertion.md) — *compound lawful layer model*
+> - [🧠 Multi-Lock Hypothetical](../💫_Containment_Logic/🧠_multilock_overlapping_covertion.md) — *compound lawful layer model*  
 >   
 > 🏮 Return To:
 >
