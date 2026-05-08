@@ -1,5 +1,5 @@
 # 🏛 R.A.A.C. — Ruins and Architectural Committee  
-**First created:** 2025-10-22 | **Last updated:** 2026-02-22  
+**First created:** 2025-10-22 | **Last updated:** 2026-05-08  
 *Minutes from the committee on collapse — and a custody-of-process autopsy.*
 
 ---
@@ -184,8 +184,17 @@ It documents the administrative afterlife of modern infrastructure — and how c
 > 
 > - [🕳️ The Pothole Problem](./🕳️_the_pothole_problem.md) — *liability gaps and enforcement failure in public infrastructure*  
 > - [💰 Who Benefits from Cover-Up](./💰_who_benefits_from_cover_up.md) — *incentives that suppress disclosure and remediation*  
-> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *shielded accountability in institutional systems*  
+> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *shielded accountability in institutional systems*
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-05-08_
