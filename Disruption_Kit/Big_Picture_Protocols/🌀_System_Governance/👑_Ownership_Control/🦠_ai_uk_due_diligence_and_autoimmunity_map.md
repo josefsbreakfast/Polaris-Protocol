@@ -392,7 +392,7 @@ Rather than treating AI as isolated software products, this node examines the op
 
 > 📡 Cross-references:
 >
-> - [🦠 Algorithmic Autoimmunity](../../Metadata_Sabotage_Network/🔥_Data_Risks/🦠_algorithmic_autoimmunity.md) — *systemic suppression and inherited moderation reflexes*
+> - [🦠 Algorithmic Autoimmunity](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🦠_algorithmic_autoimmunity.md) — *systemic suppression and inherited moderation reflexes*
 > - [⚖️ Soft Power Without Soft Accountability](../../🦕_Elder_Influencers/🕸️_World_Webs/⚖️_soft_power_without_soft_accountability.md) — *platform influence and institutional asymmetry*
 > - [🫀 AI Black Box Inquests](./🫀_ai_black_box_inquests.md) — *opacity, accountability, and AI governance*
 > - [📡 Stakeholder Mapping From Symptoms](./📡_stakeholder_mapping_from_symptoms.md) — *diagnostic tracing across institutional ecosystems*
