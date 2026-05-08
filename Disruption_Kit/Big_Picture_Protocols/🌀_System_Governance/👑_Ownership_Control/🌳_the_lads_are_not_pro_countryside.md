@@ -212,11 +212,12 @@ It is tighter governance.
 
 > 📡 Cross-references:
 > 
-> - [👑 Ownership & Control](../README.md) — *custody gaps and remit fragmentation*
 > - [🕳️ The Pothole Problem](./🕳️_the_pothole_problem.md) — *infrastructure neglect through diffused responsibility*  
 > - [🧨 We Are Already Paying the Cost](./🧨_we_are_already_paying_the_cost.md) — *how cumulative neglect becomes systemic expense*  
 > - [🕸️ Food as National Infrastructure](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🕸️_food_as_national_infrastructure.md) — *rural continuity as sovereign obligation*  
-> - [🌱 Land Trusts & Custodianship Models](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌱_land_trusts_custodianship_models.md) — *structural alternatives to fragmented land governance*
+> - [🌱 Land Trusts & Custodianship Models](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌱_land_trusts_custodianship_models.md) — *structural alternatives to fragmented land governance*  
+> - [⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure](./⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)  
+> - [🏛️ R.A.A.C. — Ruins and Architectural Committee](./🏛️_raac_ruins_squad.md)  
 >  
 > 🏮 Return To:
 >
