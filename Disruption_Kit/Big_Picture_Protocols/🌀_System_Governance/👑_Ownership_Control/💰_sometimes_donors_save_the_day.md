@@ -1,5 +1,5 @@
 # 💰 Sometimes Donors Save the Day  
-**First created:** 2025-12-16 | **Last updated:** 2026-02-22  
+**First created:** 2025-12-16 | **Last updated:** 2026-05-08  
 *Legitimacy pressure as substitute governance when ownership collapses.*
 
 ---
@@ -249,8 +249,17 @@ It documents how informal legitimacy pressure often substitutes for formal accou
 > 
 > - [⚖️ Architecture of Complicity](./⚖️_architecture_of_complicity.md) — *distributed responsibility under systemic failure*  
 > - [📚 Memory, Market, and the Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md) — *ownership drift and mandate misfit*  
-> - [🫀 AI Black Box Inquests](./🫀_ai_black_box_inquests.md) — *investigative custody vacuum*  
+> - [🫀 AI Black Box Inquests](./🫀_ai_black_box_inquests.md) — *investigative custody vacuum*
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-05-08_
