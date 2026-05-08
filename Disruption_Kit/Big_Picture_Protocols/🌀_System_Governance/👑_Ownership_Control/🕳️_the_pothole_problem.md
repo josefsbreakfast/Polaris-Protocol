@@ -135,10 +135,9 @@ It traces the persistence of Tudor-era road law through modern procurement loops
 
 > 📡 Cross-references:
 > 
-> - [🗺️ Linguistic Silk Road — How Words Travel](../../🦕_Elder_Influencers/🕸️_World_Webs/🗺️_linguistic_silk_road_how_words_travel.md)  
-> - [🚜 Tools Are Not Costumes](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🚜_tools_are_not_costumes.md)
-> - [🧃 COGAT Is a Containment Operation](../../🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
-> - [🦕 Partition Loop — Borders as Violence](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🦕_partition_loop.md)
+> - [⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure](./⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md)  
+> - [🏛️ R.A.A.C. — Ruins and Architectural Committee](./🏛️_raac_ruins_squad.md)  
+> - [🌳 The Lads Are Not Pro Countryside](./🌳_the_lads_are_not_pro_countryside.md)  
 >  
 > 🏮 Return To:
 >
