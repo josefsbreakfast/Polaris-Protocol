@@ -115,7 +115,7 @@ This cluster is structural, not rhetorical.
 - [📚 Memory, Market & Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md)  
 - [🦎 Algorithmic Autotomy](./🦎_algorithmic_autotomy.md)  
 - [🦠 Systemic Porosity](./🦠_systemic_porosity.md)  
-- [🦠 OpenAI UK Due Diligence Autoimmunity Map](./🦠_openai_uk_due_diligence_autoimmunity_map.md)  
+- [🦠 AI UK Due Diligence & Autoimmunity Map](./🦠_ai_uk_due_diligence_and_autoimmunity_map.md)  
 - [🧭 Reflexive Risk](./🧭_reflexive_risk.md)  
 - [🧨 We Are Already Paying the Cost](./🧨_we_are_already_paying_the_cost.md)
 
