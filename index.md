@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-08 13:28:23 UTC_
+_Generated on 2026-05-08 13:36:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1169,6 +1169,7 @@ _Generated on 2026-05-08 13:28:23 UTC_
         - [`🇮🇱_zionism_is_racism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇮🇱_zionism_is_racism.md)
         - [`🇷🇺_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_russias_incursions_timeline.md)
         - [`🇷🇺_the_end_of_russias_camp_era.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)
+        - [`🇷🇺🇬🇧_russia_west_uk_east.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺🇬🇧_russia_west_uk_east.md)
         - [`🇺🇸_why_the_us_is_willing_to_risk_europe.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇺🇸_why_the_us_is_willing_to_risk_europe.md)
         - [`🇺🇸🇬🇧_us_uk_group_easter_egg_hunt.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇺🇸🇬🇧_us_uk_group_easter_egg_hunt.md)
         - [`🌍_apartheid_algorithm_dependency_theory.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌍_apartheid_algorithm_dependency_theory.md)
