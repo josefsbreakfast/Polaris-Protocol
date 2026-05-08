@@ -1,5 +1,5 @@
 # 🕳️ The Pothole Problem  
-**First created:** 2025-10-09 | **Last updated:** 2026-02-22  
+**First created:** 2025-10-09 | **Last updated:** 2026-05-08  
 *When six-hundred-year-old law meets twenty-first-century asphalt.*  
 
 ---
@@ -138,8 +138,17 @@ It traces the persistence of Tudor-era road law through modern procurement loops
 > - [🗺️ Linguistic Silk Road — How Words Travel](../../🦕_Elder_Influencers/🕸️_World_Webs/🗺️_linguistic_silk_road_how_words_travel.md)  
 > - [🚜 Tools Are Not Costumes](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🚜_tools_are_not_costumes.md)
 > - [🧃 COGAT Is a Containment Operation](../../🦕_Elder_Influencers/🕸️_World_Webs/🧃_cogat_is_a_containment_op.md)
-> - [🦕 Partition Loop — Borders as Violence](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🦕_partition_loop.md)  
+> - [🦕 Partition Loop — Borders as Violence](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🦕_partition_loop.md)
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-05-08_
