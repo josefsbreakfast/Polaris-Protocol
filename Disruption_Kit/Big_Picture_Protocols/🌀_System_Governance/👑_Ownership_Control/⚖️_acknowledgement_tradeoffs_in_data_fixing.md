@@ -1,5 +1,5 @@
 # ⚖️ Acknowledgement Tradeoffs in Data Fixing  
-**First created:** 2025-11-12 | **Last updated:** 2026-04-28  
+**First created:** 2025-11-12 | **Last updated:** 2026-05-08  
 *Why institutions repair systems without owning their history — and how custody avoidance reshapes accountability.*  
 
 ---
@@ -242,8 +242,17 @@ It examines how institutions balance operability against ownership — and how c
 > 
 > - [🪡 Oversight Repair Kit](./🪡_oversight_repair_kit.md) — *re-stitching accountability chains*  
 > - [💰 Who Benefits from Cover-Up?](./💰_who_benefits_from_cover_up.md) — *incentive architecture under silence*  
-> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md) — *shared exposure equilibrium*  
+> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md) — *shared exposure equilibrium*
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-28_
+_Last updated: 2026-05-08_
