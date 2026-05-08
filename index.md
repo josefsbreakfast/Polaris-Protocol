@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-08 13:44:21 UTC_
+_Generated on 2026-05-08 14:17:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -267,7 +267,7 @@ _Generated on 2026-05-08 13:44:21 UTC_
         - [`🛡️_constructed_immunity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🛡️_constructed_immunity.md)
         - [`🤫_collective_risk_silence_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🤫_collective_risk_silence_loop.md)
         - [`🦎_algorithmic_autotomy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦎_algorithmic_autotomy.md)
-        - [`🦠_openai_uk_due_diligence_autoimmunity_map.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_openai_uk_due_diligence_autoimmunity_map.md)
+        - [`🦠_ai_uk_due_diligence_and_autoimmunity_map.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_ai_uk_due_diligence_and_autoimmunity_map.md)
         - [`🦠_systemic_porosity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🦠_systemic_porosity.md)
         - [`🧨_we_are_already_paying_the_cost.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🧨_we_are_already_paying_the_cost.md)
         - [`🧬_distributed_complicity_in_modern_warfare.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🧬_distributed_complicity_in_modern_warfare.md)
