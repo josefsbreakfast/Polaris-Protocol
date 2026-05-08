@@ -35,3 +35,7 @@ The arms industry in the UK does not fundamentally prop up every single one of t
 ---
 
 [the graph from sky news has me on the floor](https://vm.tiktok.com/ZNRsSCcPG/)
+
+[(because actually... id be pissed off if id been funding the squirtles.](https://www.bbc.co.uk/news/articles/c0ljrp76ywxo)  
+
+---
