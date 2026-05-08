@@ -204,10 +204,10 @@ siro, information risk governance, shielded roles, custodial mismatch, mandate f
 It examines how protective anonymity interacts with ownership design — and how risk aggregation roles can become custodial bottlenecks when authority, transparency, and accountability are misaligned.
 
 > 📡 Cross-references:
-> 
+>
+> - [✈️ Worker Positioning & Safety Culture](./✈️_worker_positioning_and_safety_culture.md)  
 > - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *operational insulation through fragmentation*  
 > - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md) — *shared exposure equilibrium*  
-> - [👑 Ownership & Control](./README.md) — *custody-of-process framework*
 >  
 > 🏮 Return To:
 >
