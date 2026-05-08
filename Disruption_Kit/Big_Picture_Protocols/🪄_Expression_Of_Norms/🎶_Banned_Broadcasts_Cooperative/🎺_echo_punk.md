@@ -1,25 +1,24 @@
-
 # 🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures  
-**First created:** 2025-10-22 | **Last updated:** 2025-10-29  
+**First created:** 2025-10-22 | **Last updated:** 2026-05-08  
 *When abandoned architecture keeps singing.*
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Explores how post-industrial spaces retain acoustic life after economic death.  
 Frames sound as a renewable resource and reverberation as a form of urban care.  
 Draws parallels between cathedral acoustics, multi-storey car parks, and the emotional re-use of derelict infrastructure.
 
 ---
 
-## 🧱 1. Acoustic Afterlife as Use  
+## 🧱 Acoustic Afterlife as Use  
 Derelict car parks and concrete shells still do something: they reshape air and voice.  
 Their hard surfaces and cavities make them ready-made instruments.  
 Reuse does not require rebuilding but listening — *attuning to what the site already amplifies.*
 
 ---
 
-## 🌬 2. Reverberation as Civic Function  
+## 🌬 Reverberation as Civic Function  
 Cathedrals once made faith audible; modern ruins can do the same for grief and belonging.  
 When someone plays a trumpet or sings there, they reactivate its public function through sound.  
 These are new commons of resonance — cheap, collective, and anti-extractive.
@@ -34,14 +33,14 @@ An acoustically alive ruin is already halfway to being an amphitheatre, ritual s
 
 ---
 
-## 🔄 3. Urban Emotional Recycling  
+## 🔄 Urban Emotional Recycling  
 Dereliction becomes a material for feeling.  
 Instead of demolishing, designers can map echo patterns, standing waves, and frequency nodes as data for re-use.  
 Low-energy architecture of feeling turns acoustic waste into social energy.
 
 ---
 
-## 💡 4. Feeling Useful vs Feeling Alive  
+## 💡 Feeling Useful vs Feeling Alive  
 Planning policy asks ruins to justify themselves economically.  
 Sound reclaims them on another metric: meaning, not money.  
 Every note is a micro-act of legitimisation — a proof that presence still resonates here.
@@ -58,8 +57,9 @@ Echo punk treats sound as a commons: a renewable vibration loop between body and
 ## 🌌 Constellations  
 🎶 🪄 🫀 🏗️ — sound culture, reuse ethics, urban emotion, infrastructure care.  
 
-The original inspiration for this node was Kai's trumpet, *here*: [TikTok link](https://vm.tiktok.com/ZNdvbn9p7)  
+*fURTHER MEDIA:  
 
+The original inspiration for this node was Kai's trumpet, *here*: [TikTok link](https://vm.tiktok.com/ZNdvbn9p7)  
 Also appreciated, after writing, was Nathanial's not-quite-impromptu performance, *here*: [TikTok link](https://vm.tiktok.com/ZNdvKJ1Ag)  
 
 ---
@@ -75,9 +75,9 @@ It reframes abandoned architecture as civic instrument and explores how sound ca
 
 > 📡 Cross-references:
 > 
-> – [🎶 Banned Broadcasts Cooperative](./README.md) — *sonic culture and broadcast reuse*  
-> – [🧪 Development & Experimentation](../../🌀_System_Governance/🧪_Development_Experimentation/README.md) — *adaptive urban design logics*  
+> - [🎶 Banned Broadcasts Cooperative](./README.md) — *sonic culture and broadcast reuse*  
+> - [🧪 Development & Experimentation](../../🌀_System_Governance/🧪_Development_Experimentation/README.md) — *adaptive urban design logics*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-29_
+_Last updated: 2026-05-08_
