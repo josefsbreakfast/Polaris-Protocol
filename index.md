@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-08 17:55:07 UTC_
+_Generated on 2026-05-08 18:43:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1730,6 +1730,7 @@ _Generated on 2026-05-08 17:55:07 UTC_
         - [`🛑_ignored_evidence_behavioural_insights.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🛑_ignored_evidence_behavioural_insights.md)
         - [`🛰️_witness_by_proxy_midlands_2016.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🛰️_witness_by_proxy_midlands_2016.md)
         - [`🟦_teaching_framework_jews_empire_antisemitism.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🟦_teaching_framework_jews_empire_antisemitism.md)
+        - [`🦤_dodo_spotting_uk_2026_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🦤_dodo_spotting_uk_2026_cycle.md)
         - [`🦴_surviving_reputational_systems_as_harm.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🦴_surviving_reputational_systems_as_harm.md)
         - [`🧠_how_the_men_got_captured_post_plague.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧠_how_the_men_got_captured_post_plague.md)
         - [`🧩_interlocking_timelines_qanon_epstein_clinton_fbi.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🧩_interlocking_timelines_qanon_epstein_clinton_fbi.md)
