@@ -1,5 +1,5 @@
 # ⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure  
-**First created:** 2025-10-08 | **Last updated:** 2026-04-28  
+**First created:** 2025-10-08 | **Last updated:** 2026-05-08  
 *When custodianship collapses, communities either lose buildings — or reclaim them.*
 
 ---
@@ -236,8 +236,17 @@ It examines how redundant faith buildings become sites of custodial drift — an
 > 
 > - [🕳️ The Pothole Problem](./🕳️_the_pothole_problem.md) — *ownership gaps in physical infrastructure*  
 > - [💰 Who Benefits from Cover-Up?](./💰_who_benefits_from_cover_up.md) — *incentive misalignment under fragmentation*  
-> - [👑 Ownership & Control](./README.md) — *custody-of-process framework*  
+> - [👑 Ownership & Control](./README.md) — *custody-of-process framework*
+>  
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-28_
+_Last updated: 2026-05-08_
