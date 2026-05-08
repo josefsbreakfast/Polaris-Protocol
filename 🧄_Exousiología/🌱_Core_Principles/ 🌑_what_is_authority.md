@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Core Thesis  
+## ✨ Core Thesis  
 
 Authority is not merely power.
 
