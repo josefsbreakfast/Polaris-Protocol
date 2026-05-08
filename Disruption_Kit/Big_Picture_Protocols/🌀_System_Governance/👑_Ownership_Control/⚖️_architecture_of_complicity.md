@@ -250,9 +250,12 @@ It examines how jurisdictional design and ownership fragmentation shape where ac
 
 > 📡 Cross-references:
 > 
-> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md) — *shared exposure equilibrium*  
-> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *operational insulation through fragmentation*  
-> - [💰 Who Benefits from Cover-Up?](./💰_who_benefits_from_cover_up.md) — *incentive architecture under stasis*
+> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md)  
+> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md)  
+> - [👑 Soft Power Accountability Gap](./👑_soft_power_accountability_gap.md)  
+> - [👑 Asserting Sovereignty After Allied Interference](./👑_asserting_sovereignty_after_allied_interference.md)  
+> - [🧬 Distributed Complicity in Modern Warfare](./🧬_distributed_complicity_in_modern_warfare.md)  
+
 >  
 > 🏮 Return To:
 >
