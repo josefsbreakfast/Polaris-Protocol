@@ -232,8 +232,11 @@ It describes how sector-wide silence stabilises when exposure is shared but cons
 
 > 📡 Cross-references:
 > 
-> - [💰 Who Benefits from Cover-Up?](./💰_who_benefits_from_cover_up.md) — *incentive architecture under siloed governance*  
-> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *operational immunity through responsibility fragmentation*  
+> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md)  
+> - [⚖️ The Architecture of Complicity](./⚖️_architecture_of_complicity.md)  
+> - [👑 Soft Power Accountability Gap](./👑_soft_power_accountability_gap.md)  
+> - [👑 Asserting Sovereignty After Allied Interference](./👑_asserting_sovereignty_after_allied_interference.md)  
+> - [🧬 Distributed Complicity in Modern Warfare](./🧬_distributed_complicity_in_modern_warfare.md)  
 >  
 > 🏮 Return To:
 >
