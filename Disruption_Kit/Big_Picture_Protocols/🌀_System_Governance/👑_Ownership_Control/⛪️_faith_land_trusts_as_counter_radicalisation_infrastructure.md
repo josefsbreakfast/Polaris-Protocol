@@ -234,9 +234,9 @@ It examines how redundant faith buildings become sites of custodial drift — an
 
 > 📡 Cross-references:
 > 
-> - [🕳️ The Pothole Problem](./🕳️_the_pothole_problem.md) — *ownership gaps in physical infrastructure*  
-> - [💰 Who Benefits from Cover-Up?](./💰_who_benefits_from_cover_up.md) — *incentive misalignment under fragmentation*  
-> - [👑 Ownership & Control](./README.md) — *custody-of-process framework*
+> - [🏛️ R.A.A.C. — Ruins and Architectural Committee](./🏛️_raac_ruins_squad.md)  
+> - [🕳️ The Pothole Problem](./🕳️_the_pothole_problem.md)  
+> - [🌳 The Lads Are Not Pro Countryside](./🌳_the_lads_are_not_pro_countryside.md)  
 >  
 > 🏮 Return To:
 >
