@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Core Thesis  
+## ✨ Core Thesis  
 
 No authority system is permanently legitimate.
 
@@ -285,7 +285,12 @@ It examines how authority systems lose legitimacy, accumulate brittleness, excee
 > - [🧅 Source And Legitimacy](./🧅_source_and_legitimacy.md) — *how authority becomes recognised and sustained*  
 > - [🪲 Resilience Over Optimisation](./🪲_resilience_over_optimisation.md) — *adaptation and survivability under stress*  
 > - [🐌 Embodiment As Evidence](./🐌_embodiment_as_evidence.md) — *bodies as governance signal systems*  
-> - [🌿 Authority As Ecology](./🌿_authority_as_ecology.md) — *authority as living adaptive systems*  
+> - [🌿 Authority As Ecology](./🌿_authority_as_ecology.md) — *authority as living adaptive systems*
+>
+> 🏮 Return To:
+>
+> - [🌱 Core Principles](./README.md)  
+> - [🧄 Exousiología](../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
