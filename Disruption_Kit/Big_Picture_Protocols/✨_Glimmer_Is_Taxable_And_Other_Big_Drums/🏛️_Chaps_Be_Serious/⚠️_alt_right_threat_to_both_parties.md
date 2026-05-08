@@ -1,5 +1,5 @@
 # ⚠️ Alt-Right Threat to Both Parties  
-**First created:** 2025-11-22 | **Last updated:** 2026-05-07  
+**First created:** 2025-11-22 | **Last updated:** 2026-05-08  
 *How anti-institutional outrage ecosystems corrode both Labour and the Conservatives by degrading the operating conditions required for democratic governance.*  
 
 ---
@@ -157,6 +157,7 @@ It documents how anti-institutional outrage systems destabilise democratic gover
 > - [🌹 For The Serious Red Chaps: Labour as Alternative to Revolution](./🌹_for_the_serious_red_chaps.md)  
 > - [🖌️ For The Serious Blue Chaps: Conservatives as the Counterbalance to Radical Change](./🖌️_for_the_serious_blue_chaps.md)  
 > - [🦔 Anti-Fascist Defence League — Parliamentary Edition](./🦔_anti_fascist_defence_league_parliamentary_edition.md)
+> - [🔥 Reform UK as Erosion Vector](./🔥_reform_uk_as_erosion_vector.md)  
 >
 > 🏮 Return To:
 >
@@ -168,4 +169,4 @@ It documents how anti-institutional outrage systems destabilise democratic gover
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-07_
+_Last updated: 2026-05-08_
