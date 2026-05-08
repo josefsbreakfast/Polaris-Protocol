@@ -105,10 +105,15 @@ institutional repair, democratic renewal, public trust, archival transparency, c
 It maps how language, law, and trust are re-stitched after institutional degradation — and why the slow work still matters.  
 
 > 📡 Cross-references:
-> 
+>
 > - [🌀 Fall of Institutional Integrity](../💫_Containment_Logic/🌀_fall_of_institutional_integrity.md) — *preceding node*  
 > - [⚖️ Linguistic Integrity as Security Risk](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚖️_linguistic_integrity_as_security_risk.md) — *policy alignment*  
-> - [🧭 How We Got Here](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md) — *orientation anchor*
+> - [🧭 How We Got Here](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md) — *orientation anchor*  
+> - [✈️ Who Wants These Creeps in Charge?](./✈️_who_wants_these_creeps_in_charge.md)  
+> - [✈️ Genocides and Paedophiles](./✈️_genocides_and_paedophiles.md)  
+> - [🌒 The No-Win Box](./🌒_the_no_win_box.md)  
+> - [🍉 British Democracy Needs You](./🍉_british_democracy_needs_you.md)  
+> - [🐼 The Metropolitan Rabble](./🐼_the_metropolitan_rabble.md)  
 >  
 > 🏮 Return To:
 >
