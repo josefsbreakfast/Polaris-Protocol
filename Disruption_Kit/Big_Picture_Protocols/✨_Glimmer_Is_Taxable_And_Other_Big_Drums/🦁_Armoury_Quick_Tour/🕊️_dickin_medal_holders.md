@@ -1,5 +1,5 @@
 # 🕊️ Dickin Medal Holders  
-**First created:** 2025-10-12 | **Last updated:** 2026-02-19  
+**First created:** 2025-10-12 | **Last updated:** 2026-05-08  
 *Animals recognised for extraordinary bravery in military or civil-defence service.*  
 
 ---
@@ -170,7 +170,8 @@ Each fulfils the same archetype: the **non-human sentry**, stabilising a world t
 - 🕊️ 🐈 🎖️ 🧩 🧠 📜
 
 *Further media:*  
-- [More pigeon-related excellence](https://vm.tiktok.com/ZNRUr3TBt/), via TikTok.  
+- [More pigeon-related excellence](https://vm.tiktok.com/ZNRUr3TBt/), via TikTok.
+- [Even Larry is tired of the 2026 election cycle.](https://vm.tiktok.com/ZNRskr9W2/)  
 
 ---
 
@@ -192,4 +193,4 @@ It documents our fabulous animal friends, many of whom have fought and died for 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-05-08_
