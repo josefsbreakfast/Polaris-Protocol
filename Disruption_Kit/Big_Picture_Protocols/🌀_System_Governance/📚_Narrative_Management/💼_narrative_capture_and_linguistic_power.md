@@ -1,5 +1,5 @@
 # 💼 Narrative Capture & Linguistic Power  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2026-05-09  
 *How power benefits from underestimating language — and shapes public discourse accordingly.*
 
 ---
@@ -160,4 +160,4 @@ It explains why recognition of language-mediated harm is repeatedly delayed — 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-05-09_
