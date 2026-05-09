@@ -1,5 +1,5 @@
 # 🌐 Late-Stage Autocracy Vibe Diagnostics  
-**First created:** 2025-11-20 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-20 | **Last updated:** 2026-05-09  
 *How to detect regime instability by tracking aesthetic, emotional, and vibe signals.*  
 
 ---
@@ -48,4 +48,4 @@ autocracy, vibes, diagnostics, collapse, emotional signals
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-07_
+_Last updated: 2026-05-09_
