@@ -306,10 +306,17 @@ The node focuses on how ambiguity, sympathy, and interpretive generosity may dis
 
 > 📡 Cross-references:
 >
-> - [📚 Narrative Management](../README.md) — *discursive framing, reputational governance, and interpretive systems*  
 > - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *institutional legitimacy gaps between formal equality and public interpretation*  
 > - [⚖️ Election Candidacy Query](./⚖️_election_candidacy_query.md) — *reputational viability systems and institutional filtering*  
-> - [⚖️ Narrative Control and Legal Responsibility](./⚖️_narrative_control_and_legal_responsibility.md) — *institutional messaging, evidential integrity, and reputational pressure*  
+> - [⚖️ Narrative Control and Legal Responsibility](./⚖️_narrative_control_and_legal_responsibility.md) — *institutional messaging, evidential integrity, and reputational pressure*
+>   
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
