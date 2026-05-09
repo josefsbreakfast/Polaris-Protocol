@@ -1,5 +1,5 @@
 # 🇬🇧 Why the UK Likes to Laugh at the Ruling Class  
-**First created:** 2026-01-23 | **Last updated:** 2026-01-23  
+**First created:** 2026-01-23 | **Last updated:** 2026-05-09  
 *On catharsis, repression, class recognition, and why mockery is a national emotional technology*
 
 ---
@@ -286,4 +286,4 @@ It documents ridicule and laughter as inherited emotional technologies within Br
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-23_
+_Last updated: 2026-05-09_
