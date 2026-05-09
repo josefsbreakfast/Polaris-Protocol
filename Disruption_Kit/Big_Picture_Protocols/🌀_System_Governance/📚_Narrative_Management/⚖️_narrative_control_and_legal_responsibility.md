@@ -229,7 +229,15 @@ The node focuses on the governance boundary between lawful coordination and the 
 > - [📚 Narrative Management](../README.md) — *discursive framing, reputational governance, and interpretive systems*  
 > - [⚖️ Legal & State Governance](../⚖️_Legal_State_Governance/README.md) — *statutory authority, procedural legitimacy, and investigatory structures*  
 > - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *institutional legitimacy gaps between formal process and public trust*  
-> - [⚖️ Election Candidacy Query](./⚖️_election_candidacy_query.md) — *reputational governance and institutional viability systems*  
+> - [⚖️ Election Candidacy Query](./⚖️_election_candidacy_query.md) — *reputational governance and institutional viability systems*
+>   
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
