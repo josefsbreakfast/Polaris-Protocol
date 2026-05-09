@@ -199,7 +199,15 @@ It maps how trauma-coded identity structures state behaviour, how narrative coup
 > 
 > - [📚 Crisis Theatre](./📚_crisis_theatre.md) — *emergency as governance mode*  
 > - [🎭 Reputation as Governance](./🎭_reputation_as_governance.md) — *legitimacy as infrastructure*  
-> - [🧬 Narrative as State Infrastructure](./🧬_narrative_as_state_infrastructure.md) — *myth as institutional architecture*  
+> - [🧬 Narrative as State Infrastructure](./🧬_narrative_as_state_infrastructure.md) — *myth as institutional architecture*
+>   
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
