@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 This node examines what can happen when pre-approved organisational messaging moves from internal communications environments into legal, regulatory, or investigatory contexts.
 
