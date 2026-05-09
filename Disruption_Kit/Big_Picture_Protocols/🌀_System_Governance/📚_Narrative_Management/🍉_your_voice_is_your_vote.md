@@ -43,7 +43,14 @@ It reframes speech as democratic infrastructure rather than ideological signalli
 > - [🍉 British Democracy Needs You](../👑_Ownership_Control/🍉_british_democracy_needs_you.md) - *public permission enables democratic intervention (a more "centre" pep-talk)*  
 > - [🏛️ Our Island, Our Realm, Our Rules (and Why That Includes Hospitality)](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_our_island_our_realm_our_rules.md) - *borders, belonging, and ethical sovereignty (a more "conservative" pep-talk)*  
 > - [🐦 The Canaries Are Still Singing](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🐦_the_canaries_are_still_singing.md) - *marginalised groups as early-warning system; listen to people*  
-> - [🎭 Apparently, This Was Our Idea](./🎭_apparently_this_was_our_idea.md) - *apparently it always was*  
+> - [🎭 Apparently, This Was Our Idea](./🎭_apparently_this_was_our_idea.md) - *apparently it always was*
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
