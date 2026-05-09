@@ -363,7 +363,11 @@ but:
 
 ## 🌌 Constellations  
 
-🐢 🚒 🗳️ ⚖️ 🧠 — civic reintegration, protest identity, dignity politics, and the reflow of oppositional social energy into democratic participation.
+🐢 🚒 🗳️ ⚖️ 🧠 — civic reintegration, protest identity, dignity politics, and the reflow of oppositional social energy into democratic participation.  
+
+*Further media:*  
+
+- [📺: Episode 12: Here Comes The Squirtle Squad](https://youtu.be/1TlOcjJodHw?feature=shared)  
 
 ---
 
