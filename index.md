@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-09 14:56:13 UTC_
+_Generated on 2026-05-09 15:31:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -745,6 +745,7 @@ _Generated on 2026-05-09 14:56:13 UTC_
         - [`🏭_industrialisation_of_misogyny.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🏭_industrialisation_of_misogyny.md)
         - [`🐝_sanctions_as_loyalty_test.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🐝_sanctions_as_loyalty_test.md)
         - [`🐦‍🔥_the_signature_trap.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🐦‍🔥_the_signature_trap.md)
+        - [`🐻_you_are_not_the_boss_of_me_from_800_miles_away.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🐻_you_are_not_the_boss_of_me_from_800_miles_away.md)
         - [`💌_letter_by_letter_erasure_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/💌_letter_by_letter_erasure_protocol.md)
         - [`💌_survivor_consent_is_not_yours.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/💌_survivor_consent_is_not_yours.md)
         - [`💣_the_cultural_bomb.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/💣_the_cultural_bomb.md)
