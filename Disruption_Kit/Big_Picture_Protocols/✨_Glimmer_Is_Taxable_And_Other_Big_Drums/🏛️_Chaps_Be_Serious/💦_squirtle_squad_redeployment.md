@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Core Thesis  
+## 🛰️ Core Thesis  
 
 Not all troublemakers are antisocial in the same way.
 
@@ -380,9 +380,8 @@ It examines how oppositional identity groups may transition toward prosocial civ
 
 > 📡 Cross-references:
 >
-> - [🌀 System Governance](../../🌀_System_Governance/) — *institutional legitimacy and civic stability dynamics*  
-> - [🙀 Chronically Online](../../🪄_Expression_Of_Norms/🙀_Chronically_Online/) — *identity formation under networked culture*  
-> - [🕸️ Justice As Load Bearing](../../🧄_Exousiología/🌱_Core_Principles/🕸️_justice_as_load_bearing.md) — *institutional trust and legitimacy under strain*  
+> - [🙀 Chronically Online] — *identity formation under networked culture*  
+> - [🕸️ Justice As Load Bearing] — *institutional trust and legitimacy under strain*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
