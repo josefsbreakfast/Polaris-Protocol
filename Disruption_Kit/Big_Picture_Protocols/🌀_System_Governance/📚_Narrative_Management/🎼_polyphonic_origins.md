@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Long before borders re-hardened, the Alexandrov Ensemble was an audible map of the USSR’s interior.  
 Its singers came from Ukraine and the Donbas, from the Volga and the Caucasus, from Tatar villages and Siberian garrisons.  
 
