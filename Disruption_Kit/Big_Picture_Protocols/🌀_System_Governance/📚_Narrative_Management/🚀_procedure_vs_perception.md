@@ -273,10 +273,15 @@ It documents how institutional legitimacy depends not only on lawful procedure, 
 
 > 📡 Cross-references:
 >
-> - [🌀 System Governance](../🌀_System_Governance/) — *institutional stability and legitimacy dynamics*  
-> - [📚 Narrative Management](../📚_Narrative_Management/) — *media framing and symbolic compression*  
 > - [🐼 The War Crimes Conundrum](../📚_Narrative_Management/🐼_the_war_crimes_conundrum.md) — *public-interest thresholds and institutional escalation logic*  
-> - [☕️ The Eerie Of Elections — 2026 Edition](../🪄_Expression_Of_Norms/☕️_the_eerie_of_elections_2026_edition.md) — *networked perception, behavioural influence, and electoral mood formation*  
+> - [☕️ The Eerie Of Elections — 2026 Edition](../🪄_Expression_Of_Norms/☕️_the_eerie_of_elections_2026_edition.md) — *networked perception, behavioural influence, and electoral mood formation*
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
