@@ -1,5 +1,5 @@
 # 🗂️ When the System Realises It Fucked Up
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-09  
 *The internal recognition moment where institutional logic breaks.*
 
 ---
@@ -68,4 +68,4 @@ It captures the inflection point where institutional momentum halts and self-exa
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-05-09_
