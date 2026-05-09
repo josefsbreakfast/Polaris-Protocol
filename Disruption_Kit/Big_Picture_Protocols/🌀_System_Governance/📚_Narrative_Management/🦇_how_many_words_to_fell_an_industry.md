@@ -1,5 +1,5 @@
 # 🦇 How Many Words to Fell an Industry  
-**First created:** 2025-11-04 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-04 | **Last updated:** 2026-05-09  
 *On the grammar of collapse and the violence of phrasing.*  
 
 ---
@@ -146,4 +146,4 @@ It examines collapse through the semantics of power, tracing how survivor langua
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-05-09_
