@@ -1,5 +1,5 @@
 # 🧨 Gitmo to Gaza Exception Chain  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-12 | **Last updated:** 2026-05-09  
 *How the West normalised torture, exported exceptionalism, and built the conditions for contemporary atrocity.*  
 
 ---
@@ -59,4 +59,4 @@ It documents how extra-legal state violence becomes globally portable and morall
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-05-09_
