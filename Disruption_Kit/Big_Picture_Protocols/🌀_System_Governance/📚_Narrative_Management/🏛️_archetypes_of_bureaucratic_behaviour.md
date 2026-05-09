@@ -1,5 +1,5 @@
 # 🏛️ Archetypes of Bureaucratic Behaviour  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-08  
+**First created:** 2025-11-16 | **Last updated:** 2026-05-09  
 *How bureaucracies slip into predictable narrative “modes” — The Hierophant, The Fog Machine, The Fortress, The Mirror Pool, The Tower, and The Soft Clerk — and how these archetypes shape survivor experience, decision-making, and institutional tone.*  
 
 ---
@@ -240,4 +240,4 @@ Pairs with:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-05-09_
