@@ -150,7 +150,15 @@ It documents the structural relationship between nationalism, patriarchy, race, 
 > - [🏛️ Welcome to Western Imperialism](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🏛️_welcome_to_western_imperialism.md)  
 > - [📿 Women, Whistleblowers, & Prevent Drag](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/📿_women_whistleblowers_prevent_drag.md)  
 > - [🧬 Definitions of Zionism — Why the Word Breaks Conversations](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🧬_definitions_of_zionism.md)  
-> - [👾 Why Policing and PREVENT Are Susceptible to Misogyny](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_misogyny.md)  
+> - [👾 Why Policing and PREVENT Are Susceptible to Misogyny](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/👾_Just_A_Quick_Wellbeing_Check/👾_why_policing_and_prevent_are_susceptible_misogyny.md)
+>   
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
