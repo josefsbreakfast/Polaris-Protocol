@@ -40,9 +40,33 @@ When aesthetics degrade, power must rely more heavily on:
 
 This shift is measurable — and predictable.
 
+Importantly, “aesthetics” here does not mean fashion, branding, or visual polish alone.
+
+It includes:
+- emotional atmosphere,
+- symbolic confidence,
+- humour tolerance,
+- public spontaneity,
+- artistic flexibility,
+- and the regime’s ability to metabolise contradiction without panic.
+
+Healthy systems can absorb satire, ambiguity, and cultural experimentation without perceiving existential threat.
+
+Fragile systems increasingly cannot.
+
 ---
 
 ## 🔄 The Four-Phase Collapse Curve  
+
+Not all systems progress through every phase cleanly.
+
+Some oscillate between stages.  
+Some hybridise spectacle and exhaustion simultaneously.  
+Some temporarily reverse decline through reform, war mobilisation, technological expansion, or economic recovery.
+
+The curve is therefore best understood as a diagnostic tendency — not a prophecy.
+
+---
 
 ### Phase I — Grandiose Spectacle  
 
@@ -60,7 +84,7 @@ Violence exists, but is:
 - symbolically distant,
 - or externalised.
 
-Historically visible in early phases of regimes like **:contentReference[oaicite:0]{index=0}**, where pageantry and myth preceded total control.
+Historically visible in early phases of multiple regimes, where pageantry and myth preceded total control.
 
 ---
 
@@ -73,6 +97,14 @@ Characteristics:
 - satire is tolerated only when it punches downward  
 - “approved transgression” replaces genuine creativity  
 - aesthetics are focus-grouped for loyalty, not truth  
+
+Increasingly, culture becomes:
+- sponsor-safe,
+- platform-optimised,
+- algorithmically flattened,
+- and emotionally risk-managed.
+
+The result is often a strange mix of hyper-visibility and emotional sterility.
 
 This is the phase where regimes believe they can **administer charisma**.
 
@@ -95,6 +127,11 @@ At this stage:
 - culture is no longer generative  
 - spectacle feels strained  
 - messaging becomes defensive  
+
+Critically, regimes in this phase often become unable to distinguish:
+- mockery from subversion,
+- criticism from sabotage,
+- or cultural drift from organised threat.
 
 Importantly:  
 **this phase often coincides with increased visible violence** — not because power is stronger, but because its symbolic cover is thinning.
@@ -122,7 +159,32 @@ Traits:
 The regime no longer performs for the public.  
 It performs for itself.
 
-This phase was visible in late Soviet governance under **:contentReference[oaicite:1]{index=1}** — not flamboyant collapse, but **aesthetic exhaustion**.
+This phase was visible in late Soviet governance — not flamboyant collapse, but **aesthetic exhaustion**.
+
+---
+
+## 🪞 The Memetic Warning Sign  
+
+One of the clearest early indicators of aesthetic contraction is memetic rigidity.
+
+Healthy political cultures generate:
+- jokes,
+- parody,
+- self-awareness,
+- remix culture,
+- and spontaneous public creativity.
+
+Fragile systems increasingly produce:
+- repetitive slogans,
+- humourless messaging,
+- defensive patriotism,
+- overexplained narratives,
+- and panic around ridicule.
+
+Memes matter because humour tests confidence.
+
+Systems comfortable with themselves can survive being laughed at.  
+Systems losing legitimacy increasingly cannot.
 
 ---
 
@@ -137,6 +199,39 @@ Aesthetic collapse and paranoia reinforce each other:
 - Reliance on force → faster legitimacy erosion  
 
 By the time a regime notices the aesthetic decay, it is usually too late to reverse without genuine reform — which authoritarian systems structurally resist.
+
+---
+
+## 🏛️ Democratic Systems Can Exhibit Partial Curves Too  
+
+The collapse curve is not exclusive to formal dictatorships.
+
+Democratic or hybrid systems under severe legitimacy stress can display partial versions of the same dynamics:
+- humour intolerance,
+- flattening political language,
+- overmanaged public messaging,
+- cultural risk-aversion,
+- symbolic exhaustion,
+- procedural obsession,
+- and growing elite fear of unscripted public response.
+
+The distinction matters.
+
+In democracies:
+- institutional pluralism still exists,
+- opposition structures remain partially functional,
+- reform pathways are usually available,
+- and aesthetic contraction can still be reversed.
+
+But the appearance of these signals often indicates:
+- declining institutional confidence,
+- narrative fragmentation,
+- or elite overreliance on communications management instead of governance repair.
+
+This is especially visible when:
+- branding replaces policy,
+- spectacle replaces participation,
+- or political systems become unable to tolerate ambiguity without escalating into moral panic.
 
 ---
 
@@ -174,19 +269,19 @@ The politics follow.
 ---
 
 ## 🌌 Constellations  
-🎞️ 🧊 🛰️ 🪫 🧠 ⚖️ — spectacle, emotional freezing, state power, legitimacy drain, cognition, governance.
+🎞️ 📺 🧊 🪫 🧠 ⚖️ — spectacle, mediated culture, emotional freezing, legitimacy drain, cognition, governance stress.
 
 ---
 
 ## ✨ Stardust  
-authoritarian aesthetics, spectacle collapse, bunker minimalism, paranoia culture, legitimacy erosion, state violence and culture, narrative exhaustion, symbolic failure
+authoritarian aesthetics, spectacle collapse, bunker minimalism, paranoia culture, legitimacy erosion, state violence and culture, narrative exhaustion, symbolic failure, humour intolerance, memetic rigidity, symbolic exhaustion, legitimacy stress
 
 ---
 
 ## 🏮 Footer  
 
 *🎞️ Authoritarian Aesthetics Collapse Curve* is a living node of the **Polaris Protocol**.  
-It functions as a diagnostic tool for recognising legitimacy failure before overt political collapse becomes unavoidable.
+It functions as a diagnostic tool for recognising legitimacy stress and symbolic exhaustion before overt political crisis becomes fully visible.
 
 > 📡 Cross-references:
 > 
@@ -194,7 +289,15 @@ It functions as a diagnostic tool for recognising legitimacy failure before over
 > - [🇷🇺 The End of Russia’s Camp Era](../../🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)  
 > - [🧠 Swiss-Cheese Suicide Model in Custody](../../🦕_Elder_Influencers/🕊️_Just_Boxes/🧠_swiss_cheese_suicide_model_in_custody.md)
 > - [⭕️ Why White Christians Need to Speak Up About the Hoop](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/⭕️_why_white_christians_need_to_speak_up_about_the_hoop.md)
-> - [💔 Weaponised Empathy Gaps](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps.md)  
+> - [💔 Weaponised Empathy Gaps](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps.md)
+>   
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
