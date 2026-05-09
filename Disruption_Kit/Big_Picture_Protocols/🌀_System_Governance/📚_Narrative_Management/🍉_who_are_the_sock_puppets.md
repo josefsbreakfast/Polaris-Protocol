@@ -1,5 +1,5 @@
 # 🍉 Who Are the Sock Puppets?  
-**First created:** 2025-12-23 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-23 | **Last updated:** 2026-05-09  
 *Pattern recognition without conspiracism.*
 
 ---
@@ -60,4 +60,4 @@ It documents behavioural patterns while refusing paranoia, ethnicisation, or spe
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-05-09_
