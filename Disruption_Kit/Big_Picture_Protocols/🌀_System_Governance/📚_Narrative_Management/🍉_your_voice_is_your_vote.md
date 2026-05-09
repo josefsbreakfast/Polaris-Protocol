@@ -1,5 +1,5 @@
 # 🍉 Your Voice Is Your Vote  
-**First created:** 2025-12-23 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-23 | **Last updated:** 2026-05-09  
 *How public expression creates institutional permission.*
 
 ---
@@ -54,4 +54,4 @@ It reframes speech as democratic infrastructure rather than ideological signalli
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-05-09_
