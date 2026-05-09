@@ -96,6 +96,7 @@ It documents how rape survivors in the UK can be silenced by SLAPP-like tactics 
 > 
 > - [⚖️ SLAPPs Detailed Node](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/⚖️_slapps_uk_global_palestine.md) - *Mapping SLAPPs as systemic silencing: definitions, legal timelines, global context, case examples, and their unique dangers when applied to Palestine solidarity, Crown servants, and survivor testimony*  
 > - [🧬 Survivor Tools](../../../Survivor_Tools/README.md) - *Countermeasures, diagnostics, and knowledge maps for survivor agency*
+>   
 > 🏮 Return To:
 >
 > - [📚 Narrative Management](./README.md)
