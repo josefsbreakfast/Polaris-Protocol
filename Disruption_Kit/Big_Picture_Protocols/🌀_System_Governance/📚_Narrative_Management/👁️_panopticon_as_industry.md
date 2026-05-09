@@ -1,5 +1,5 @@
 # 👁️ Panopticon as Industry  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-27 | **Last updated:** 2026-05-09  
 *How surveillance architecture moved from Bentham’s prison to modern containment economies.*  
 
 ---
@@ -61,4 +61,4 @@ It tracks how surveillance design became a template for governance, exported int
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-05-09_
