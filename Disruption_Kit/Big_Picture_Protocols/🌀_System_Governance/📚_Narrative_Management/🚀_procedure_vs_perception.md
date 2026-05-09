@@ -275,6 +275,7 @@ It documents how institutional legitimacy depends not only on lawful procedure, 
 >
 > - [🐼 The War Crimes Conundrum](../📚_Narrative_Management/🐼_the_war_crimes_conundrum.md) — *public-interest thresholds and institutional escalation logic*  
 > - [☕️ The Eerie Of Elections — 2026 Edition](../🪄_Expression_Of_Norms/☕️_the_eerie_of_elections_2026_edition.md) — *networked perception, behavioural influence, and electoral mood formation*
+>   
 > 🏮 Return To:
 >
 > - [📚 Narrative Management](./README.md)
