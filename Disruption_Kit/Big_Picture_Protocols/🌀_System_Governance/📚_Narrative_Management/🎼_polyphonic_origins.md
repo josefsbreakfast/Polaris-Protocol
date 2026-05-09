@@ -14,7 +14,7 @@ By 2016 — when the Tu-154 crashed off Sochi — those entwined origins had bec
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Cross-border genealogy:** Ukrainian, Belarusian, Tatar, Georgian, and Russian families represented.  
 - **Musical permeability:** shared conservatory and military-band pipelines that often outlived later political borders.  
 - **Historical tension:** the 2016 crash occurred during a period of renewed Russian escalation in Ukraine, giving the ensemble’s multinational composition additional symbolic weight.  
