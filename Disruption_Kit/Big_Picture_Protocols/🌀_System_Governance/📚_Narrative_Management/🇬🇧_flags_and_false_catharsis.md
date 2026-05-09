@@ -154,6 +154,15 @@ It documents how democratic energy can be redirected away from action without an
 
 > - [🧨 Semantic Collapse](./🧨_semantic_collapse.md) - *how the definition of "patriotism" got garbled and spat out doing a "Roman salute"*
 > - [🏛️ Our Island, Our Realm, Our Rules (and Why That Includes Hospitality)](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_our_island_our_realm_our_rules.md) - *on balancing "protecting the realm" with radical compassion for people you are yet to meet*  
+>   
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
