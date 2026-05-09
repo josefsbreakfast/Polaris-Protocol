@@ -755,7 +755,15 @@ Misreading all political anger as ideological extremism risks deepening fragment
 
 ---
 
-## 🪖 Human Extraction, Defence Economies, And Intergenerational Exhaustion  
+## 🚀 The Voting Story Proxies Future Defence Capability  
+
+This is not exclusive to this one region of the UK, nor us it exclusive to the UK.  
+
+This is not exclusive to the West.  
+
+This just happens to be a microcosm of an international exhaustion with war that the participants cannot rationalise from their personal information resource pool.  
+
+### 🪖 Human Extraction, Defence Economies, And Intergenerational Exhaustion  
 
 An additional layer often ignored in analysis of North East political behaviour is the region’s longstanding relationship to:
 - armed forces recruitment,
@@ -794,7 +802,7 @@ However, it does create an important strategic and sociological signal.
 
 ---
 
-## ⚓ “The Country Takes From Here”  
+### ⚓ “The Country Takes From Here”  
 
 Across many post-industrial North East communities, there is a growing emotional sentiment that:
 > labour, service, extraction, and sacrifice have flowed outward for generations,
@@ -826,7 +834,7 @@ This creates a form of:
 
 ---
 
-## 🧠 Defence Recruitment And Political Trust  
+### 🧠 Defence Recruitment And Political Trust  
 
 This matters because:
 armed forces recruitment and defence-industry labour rely not only on:
@@ -860,7 +868,7 @@ should be interpreted as a meaningful social signal rather than dismissed as sim
 
 ---
 
-## 🏭 Industry, Labour, And Democratic Strain  
+### 🏭 Industry, Labour, And Democratic Strain  
 
 The North East demonstrates particularly clearly how:
 - deindustrialisation,
@@ -889,7 +897,7 @@ and more from:
 
 ---
 
-## ⚖️ Why This Matters Beyond Electoral Politics  
+### ⚖️ Why This Matters Beyond Electoral Politics  
 
 This issue extends beyond:
 - party competition,
