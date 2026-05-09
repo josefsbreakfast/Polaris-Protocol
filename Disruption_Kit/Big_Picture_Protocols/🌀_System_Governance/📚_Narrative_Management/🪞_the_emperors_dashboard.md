@@ -1,5 +1,5 @@
 # 🪞 The Emperor’s Dashboard  
-**First created:** 2025-11-07 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-07 | **Last updated:** 2026-05-09  
 *On the public art of pointing out that the gauges are fake.*  
 
 ---
@@ -88,4 +88,4 @@ epistemic trust, spectacle of precision, algorithmic endocrinology, civic satire
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-05-09_
