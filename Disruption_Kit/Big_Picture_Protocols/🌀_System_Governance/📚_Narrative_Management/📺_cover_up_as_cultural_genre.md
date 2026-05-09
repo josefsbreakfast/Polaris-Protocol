@@ -1,5 +1,5 @@
 # 📺 *Cover-Up as Cultural Genre*  
-**Date Created:** 2025-11-03 | **Last updated:** 2025-12-21  
+**Date Created:** 2025-11-03 | **Last updated:** 2026-05-09  
 *A Satirical Typology of the British Art of Concealment*  
 
 ---
@@ -77,4 +77,4 @@ we are curating its exhibition.
 
 ---
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-05-09_
