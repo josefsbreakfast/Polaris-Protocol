@@ -1,5 +1,5 @@
 # 🎭 **Respectability Theatre — The “Serious Cross-Section” Illusion**  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-22 | **Last updated:** 2026-05-09  
 *Authoritarian or extractive networks do not need legitimacy. They need the *appearance* of legitimacy — and they rent it from the respectable.*  
 
 ---
@@ -232,4 +232,4 @@ It exposes how extremist or extractive networks manufacture credibility using th
 
 *Survivor authorship is sovereign. If the room needs your credibility, the room has none of its own.*
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-05-09_
