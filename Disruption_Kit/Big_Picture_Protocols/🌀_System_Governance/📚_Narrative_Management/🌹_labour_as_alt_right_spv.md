@@ -1,5 +1,5 @@
 # 🌹 Labour as Alt-Right SPV  
-**First created:** 2025-12-31 | **Last updated:** 2026-01-01  
+**First created:** 2025-12-31 | **Last updated:** 2026-05-09  
 *How right-wing populist logics can be routed through left institutional legitimacy*  
 
 ---
@@ -98,4 +98,4 @@ It exists to map how political ideas move through institutions under pressure, a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-05-09_
