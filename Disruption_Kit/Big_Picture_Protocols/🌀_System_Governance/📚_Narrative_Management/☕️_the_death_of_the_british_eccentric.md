@@ -164,7 +164,7 @@ The node explores how governance environments oriented toward prevention and aud
 > 📡 Cross-references:
 >
 > - [☕️ Managing Postcolonial Melancholia](./☕️_managing_postcolonial_melancholia.md) — *affect regulation and institutional stabilisation under historical strain*  
-> - [☕️ The Discombobulatory Mental Overload](./☕️_the_discombobulatory_mental_overload.md) — *cognitive overload and interpretive exhaustion under persistent social pressure*  
+> - [☕️ The Discombobulatory Mental Overload](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/☕️_the_discombobulatory_mental_overload.md) — *cognitive overload and interpretive exhaustion under persistent social pressure*  
 > - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *institutional legitimacy gaps between procedural correctness and public interpretation*  
 > - [🪞 Erosion of Duty of Care](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪞_erosion_of_duty_of_care.md) — *institutional withdrawal and social trust erosion*
 >
