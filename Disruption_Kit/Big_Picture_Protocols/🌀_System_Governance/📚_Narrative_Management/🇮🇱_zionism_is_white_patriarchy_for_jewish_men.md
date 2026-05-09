@@ -1,5 +1,5 @@
 # 🇮🇱 Zionism Is White Patriarchy for Jewish Men  
-**First created:** 2026-02-01 | **Last updated:** 2026-02-01  
+**First created:** 2026-02-01 | **Last updated:** 2026-05-09  
 *An intersectional feminist analysis of Zionism as a racial–patriarchal governance system*
 
 ---
@@ -162,4 +162,4 @@ It documents the structural relationship between nationalism, patriarchy, race, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-01_
+_Last updated: 2026-05-09_
