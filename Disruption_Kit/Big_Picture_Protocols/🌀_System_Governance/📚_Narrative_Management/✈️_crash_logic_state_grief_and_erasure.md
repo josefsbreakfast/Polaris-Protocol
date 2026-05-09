@@ -225,10 +225,17 @@ The node focuses on how opacity, emotional saturation, and institutional continu
 
 > 📡 Cross-references:
 >
-> - [📚 Narrative Management](../README.md) — *discursive framing, emotional governance, and legitimacy systems*  
 > - [☕️ Managing Postcolonial Melancholia](./☕️_managing_postcolonial_melancholia.md) — *historical affect regulation and national emotional management*  
 > - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *institutional legitimacy and public interpretation under crisis conditions*  
-> - [⚖️ Narrative Control and Legal Responsibility](./⚖️_narrative_control_and_legal_responsibility.md) — *institutional narrative management and evidential integrity*  
+> - [⚖️ Narrative Control and Legal Responsibility](./⚖️_narrative_control_and_legal_responsibility.md) — *institutional narrative management and evidential integrity*
+>   
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
