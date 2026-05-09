@@ -1,5 +1,5 @@
 # 📜 Loss Management and the Performance of Composure  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-12 | **Last updated:** 2026-05-09  
 *The 'heap of all your winnings' stanza as blueprint for reputational recovery.*  
 
 ---
@@ -39,4 +39,4 @@ kipling, loss, reputation, containment, resilience
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-05-09_
