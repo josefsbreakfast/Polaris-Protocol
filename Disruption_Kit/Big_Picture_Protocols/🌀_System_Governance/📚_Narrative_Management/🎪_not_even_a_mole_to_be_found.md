@@ -1,5 +1,5 @@
 # 🎪 Not Even a Mole To Be Found
-**First created:** 2025-12-16 | **Last updated:** 2025-12-16  
+**First created:** 2025-12-16 | **Last updated:** 2026-05-09  
 *When influence no longer requires spies, only incentives.*
 
 ---
@@ -165,4 +165,4 @@ It contributes analytical correction to outdated espionage frameworks, documenti
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-16_
+_Last updated: 2026-05-09_
