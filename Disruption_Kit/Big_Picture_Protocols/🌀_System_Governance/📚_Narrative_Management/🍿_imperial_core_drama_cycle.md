@@ -1,5 +1,5 @@
 # 🍿 Imperial Core Drama Cycle  
-**First created:** 2025-11-20 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-20 | **Last updated:** 2026-05-09  
 *How the British state reproduces internal conflict theatre as a governance method.*  
 
 ---
@@ -159,4 +159,4 @@ imperial reflex, crisis governance, narrative cycles, uk internal conflict, exec
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-05-09_
