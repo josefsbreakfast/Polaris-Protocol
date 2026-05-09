@@ -1,6 +1,6 @@
 # 📚 Crisis Theatre  
 <a id="home"></a>
-**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-14 | **Last updated:** 2026-05-09  
 *The emergency as stagecraft: when crises are staged, exaggerated, or selectively framed to authorise powers already waiting in the wings.*  
 
 ---
@@ -298,4 +298,4 @@ It documents how governments and institutions stage emergencies as performances 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-05-09_
