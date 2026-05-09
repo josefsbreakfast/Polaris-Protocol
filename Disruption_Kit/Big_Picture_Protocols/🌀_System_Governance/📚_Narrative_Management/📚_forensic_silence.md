@@ -1,5 +1,5 @@
 # 📚 Forensic Silence  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-14 | **Last updated:** 2026-05-09  
 *Active narrative gaps where records were scrubbed — the hole itself becomes evidence.*  
 
 ---
@@ -102,4 +102,4 @@ It documents how silence itself becomes probative evidence of suppression.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-05-09_
