@@ -1,5 +1,5 @@
 # 🕸️ Interlocking Influence Economy  
-**First created:** 2025-11-03 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-03 | **Last updated:** 2026-05-09  
 *How corporate intelligence, arms technology, political PR, and behavioural science form a single market for influence.*  
 
 ---
@@ -78,4 +78,4 @@ It connects discrete scandals into a systemic map of the modern persuasion indus
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_  
+_Last updated: 2026-05-09_  
