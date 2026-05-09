@@ -1,5 +1,5 @@
 # 🎭 Reputation as Governance — How Institutions Script Their Own Credibility  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-13  
+**First created:** 2025-11-11 | **Last updated:** 2026-05-09  
 *Public trust as administrative software.*
 
 ---
@@ -107,4 +107,4 @@ It maps how public image functions as a regulatory device, shaping perception, p
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-13_
+_Last updated: 2026-05-09_
