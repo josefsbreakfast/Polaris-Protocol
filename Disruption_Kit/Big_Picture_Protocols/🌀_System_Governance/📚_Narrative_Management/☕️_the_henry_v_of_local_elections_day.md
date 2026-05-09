@@ -1,5 +1,5 @@
 # ☕️ The Henry V of Local Elections Day  
-**First created:** 2026-05-07 | **Last updated:** 2026-05-07  
+**First created:** 2026-05-07 | **Last updated:** 2026-05-09  
 *On Shakespeare as recorder of English regional standing, and why Henry V still feels socially recognisable in Britain today.*  
 
 *Or: The UK's political-regional behavioural map before modern polling software.*  
@@ -399,6 +399,18 @@ henry v, agincourt, wars of the roses, fluellen, regional standing, england, cou
 *☕️ The Henry V of Local Elections Day* is a living node examining Shakespeare as a recorder of English and British regional standing through dramatic characterisation.  
 It argues that Henry V remains socially legible because many of the reputational and institutional patterns encoded in the play still persist within British public life.
 
+> 📡 Cross-References:
+> 
+> - []()  
+>   
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-07_
+_Last updated: 2026-05-09_
