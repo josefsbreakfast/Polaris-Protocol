@@ -1,5 +1,5 @@
 # 🎭 Apology Theatre and Trust Repair  
-**Date Created:** 2025-11-03 | **Last updated:** 2026-01-25  
+**Date Created:** 2025-11-03 | **Last updated:** 2026-05-09  
 *The Choreography of Contrition in Late-Stage Governance*  
 
 ---
@@ -108,5 +108,5 @@ Until then, we are merely refining the script of guilt.
 
 ---
 
-**Last Updated:** 2026-01-25  
+**Last Updated:** 2026-05-09
 **Stardust Tags:** #ApologyTheatre #TrustRepair #CivicPsychology #CulturalSemiotics #PolarisSystem  
