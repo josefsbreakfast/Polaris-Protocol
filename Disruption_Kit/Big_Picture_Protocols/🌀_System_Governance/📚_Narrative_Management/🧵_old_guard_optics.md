@@ -207,6 +207,8 @@ The issue is often not:
 It is:
 > political language feels socially exclusionary and culturally alien.
 
+When combined with how regional difference is represented in national media, or how areas are often "punched down to" exclusively in writing rooms, and the misunderstanding ossifies into class-coded resentment.  
+
 ---
 
 # 🌉 Part II — Tyne And Wear As A Fragmentation Map
@@ -230,7 +232,9 @@ Treating them as one interchangeable voting bloc obscures:
 - different class compositions,
 - and different emotional relationships to Labour.
 
-The 2026 local elections exposed those differences clearly.
+The 2026 local elections exposed those differences clearly.  
+
+There are regional stories like this up and down the Isles; this is but one example.  
 
 ---
 
