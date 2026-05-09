@@ -1,5 +1,5 @@
 # 🐼 The War Crimes Conundrum  
-**First created:** 2026-05-05 | **Last updated:** 2026-05-05  
+**First created:** 2026-05-05 | **Last updated:** 2026-05-09  
 *Case-specific diagnostic of narrative breakdown following the refusal by the Metropolitan Police to investigate UK nationals accused of war crimes in Gaza.*
 
 ---
@@ -264,4 +264,4 @@ It maps how evidential limits and communication gaps produce narrative instabili
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-05_
+_Last updated: 2026-05-09_
