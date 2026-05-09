@@ -1,6 +1,6 @@
 # 🧵 Old Guard Optics  
 **First created:** 2026-05-09 | **Last updated:** 2026-05-09  
-*How institutional reassurance can become electorally alienating in low-trust political environments.*
+*How institutional reassurance can become electorally alienating in low-trust political environments.*  
 
 ---
 
