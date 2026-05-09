@@ -1,5 +1,5 @@
 # 🏗️ Skyscraper Over Pebbles
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-09  
 *How institutions construct massive responses around trivial or misinterpreted triggers.*
 
 ---
@@ -74,4 +74,4 @@ It explains how governance systems mistake scale of response for scale of threat
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-05-09_
