@@ -87,7 +87,14 @@ It exists to map how political ideas move through institutions under pressure, a
 > 📡 Cross-references:
 > 
 > - [🏛️ Protect Checks and Balances] (./🏛️_protect_checks_and_balances.md) — institutional safeguards  
-> - [🌀 Systems & Governance] (../Big_Picture_Protocols/🌀_systems_and_governance.md) — power architecture  
+> - [🌀 Systems & Governance] (../Big_Picture_Protocols/🌀_systems_and_governance.md) — power architecture
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
