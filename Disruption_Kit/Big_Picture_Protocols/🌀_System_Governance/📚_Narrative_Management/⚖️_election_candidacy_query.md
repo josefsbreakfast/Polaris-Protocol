@@ -225,7 +225,15 @@ The node explores how distributed media, donor, and party ecosystems shape moder
 > - [📚 Narrative Management](../README.md) — *discursive framing, legitimacy systems, and interpretive governance*  
 > - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *institutional legitimacy gaps between procedural correctness and public interpretation*  
 > - [☕️ The Death of the British Eccentric](./☕️_the_death_of_the_british_eccentric.md) — *risk governance, conformity pressure, and narrowing ambiguity tolerance*  
-> - [☕️ The Eerie of Elections — 2026 Edition](./☕️_the_eerie_of_elections_2026_edition.md) — *networked political perception and behavioural modelling under modern electoral systems*  
+> - [☕️ The Eerie of Elections — 2026 Edition](./☕️_the_eerie_of_elections_2026_edition.md) — *networked political perception and behavioural modelling under modern electoral systems*
+>   
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
