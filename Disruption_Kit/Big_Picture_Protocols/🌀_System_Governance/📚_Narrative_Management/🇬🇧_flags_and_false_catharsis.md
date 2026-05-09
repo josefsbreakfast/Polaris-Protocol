@@ -1,5 +1,5 @@
 # 🇬🇧 Flags, False Catharsis, and the Thing We Refused to Say  
-**First created:** 2025-12-23 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-23 | **Last updated:** 2026-05-09  
 *How symbolic patriotism was used to drain energy away from real democratic sovereignty.*
 
 ---
@@ -166,4 +166,4 @@ It documents how democratic energy can be redirected away from action without an
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-05-09_
