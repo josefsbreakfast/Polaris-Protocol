@@ -1,5 +1,5 @@
 # 🎭 The Kremlin Aesthetic Timeline: From Camp to Crypt  
-**First created:** 2025-11-20 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-20 | **Last updated:** 2026-05-09  
 *How Russia moved from theatrical spectacle to bunker minimalism — a chronological map of vibe collapse.*  
 
 ---
@@ -53,4 +53,4 @@ russia, kremlin, aesthetics, vibes, camp, bunker, spectacle
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-05-09_
