@@ -207,7 +207,7 @@ The issue is often not:
 It is:
 > political language feels socially exclusionary and culturally alien.
 
-When combined with how regional difference is represented in national media, or how areas are often feel that they are "punched down to" exclusively in writing rooms, and the misunderstanding ossifies into class-coded resentment.  
+When combined with how regional difference is represented in national media, or how the same people from the same areas often feel that they are "punched down to" rather exclusively in writing rooms, and the misunderstanding ossifies into class-coded resentment.  
 
 ---
 
