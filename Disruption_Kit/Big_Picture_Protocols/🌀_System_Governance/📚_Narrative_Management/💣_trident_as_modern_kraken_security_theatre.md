@@ -1,5 +1,5 @@
 # 💣 Trident as Modern Kraken Security Theatre  
-**First created:** 2025-11-19 | **Last updated:** 2026-02-19  
+**First created:** 2025-11-19 | **Last updated:** 2026-05-09  
 *A Polaris satirical-governance analysis of how the UK’s nuclear deterrent system functions rhetorically, emotionally, and politically like a centuries-old naval tradition of inventing giant sea monsters to justify absurdly large budgets.*  
 <!--AKA why Trident is there to guard the Kraken. I await evidence to the contrary.-->
 ---
@@ -185,4 +185,4 @@ It exposes how nuclear deterrent rhetoric inherits the mythic narrative structur
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_  
+_Last updated: 2026-05-09_  
