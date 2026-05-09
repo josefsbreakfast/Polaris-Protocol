@@ -1,5 +1,5 @@
 # 🗣️ When Did the Way We Talk Change?  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-12 | **Last updated:** 2026-05-09  
 *Tracing the linguistic shift from conversation to containment.*  
 
 ---
@@ -87,4 +87,4 @@ It traces how digital infrastructure reshaped civic tone, turning conversation i
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-05-09_
