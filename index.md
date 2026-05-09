@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-09 00:27:24 UTC_
+_Generated on 2026-05-09 01:17:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -720,6 +720,7 @@ _Generated on 2026-05-09 00:27:24 UTC_
         - [`sound_ahavah_rabbah.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/sound_ahavah_rabbah.png)
         - [`sound_harmonic_c_minor.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/sound_harmonic_c_minor.png)
         - [`sound_maqam_haqiz.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/sound_maqam_haqiz.png)
+        - [`☕️_the_discombobulatory_mental_overload.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/☕️_the_discombobulatory_mental_overload.md)
         - [`☘️_the_good_friday_agreement_and_palestine_action_prisoners.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/☘️_the_good_friday_agreement_and_palestine_action_prisoners.md)
         - [`⚖️_encampment_paperwork_comparative.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_encampment_paperwork_comparative.md)
         - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md)
