@@ -658,7 +658,7 @@ ignores the structural conditions they emerge from.
 
 Besides —  
 
-> the same behaviours are coded as *"classy when you're rich"*.  
+> the same behaviours are coded as *"classy when you're rich."*  
 
 ---
 
@@ -717,7 +717,9 @@ material deprivation must be addressed directly through:
 - public services,
 - and energy support.
 
-Without this, distrust will deepen.
+Without this, distrust will deepen.  
+
+A vote for a particular party may be the tamest way that that distrust gets expressed, and those citizens may not wait for a General Election to be listened to.  
 
 ---
 
