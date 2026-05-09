@@ -272,9 +272,17 @@ It documents ridicule and laughter as inherited emotional technologies within Br
 
 > 📡 Cross-references:
 > 
-> - **Big_Picture_Protocols/** — structural and cultural analysis  
-> - **🎭 Narrative_And_Psych_Ops/** — affect, framing, and emotional control  
-> - **🪄 Expression_Of_Norms/** — moral theatre and compliance performance  
+> - []()  
+> - []()  
+> - []()  
+>   
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
