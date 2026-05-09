@@ -49,7 +49,14 @@ It documents behavioural patterns while refusing paranoia, ethnicisation, or spe
 > - [🧰 Toolset: How to Beat Sock-Puppet Swarms Without Feeding Them](../../../Survivor_Tools/🧰_tools_against_sock_puppets.md) — *disruption without amplification*
 > - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md) - *fleshed out working diagnosis of anti-hunger-striking campaign*
 > - [🦤 The Just-Eat Hunger Strike Tit](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🦤_the_just_eat_hunger_strike_tit.md) - *the sound of the JEHS tit in the wild*
-> - [🍉 Why The Long Prison Stay](../⚖️_Legal_State_Governance/🍉_why_the_long_prison_stay.md) - *why whining about hunger strikers does not beat austerity for the common Briton; hence, the sounding like a tit*  
+> - [🍉 Why The Long Prison Stay](../⚖️_Legal_State_Governance/🍉_why_the_long_prison_stay.md) - *why whining about hunger strikers does not beat austerity for the common Briton; hence, the sounding like a tit*
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
