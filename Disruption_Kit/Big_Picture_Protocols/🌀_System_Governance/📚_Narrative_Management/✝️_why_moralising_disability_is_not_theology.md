@@ -200,7 +200,15 @@ It distinguishes ethical tradition from political misuse, insisting that care, d
 > 
 > - [🛠️ Disabled Design Benefits You, Too](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🛠️_disabled_design_benefits_you_too.md) — *design as ethics*  
 > - [♿ Have You Asked Disabled People, Though?](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/♿_have_you_asked_disabled_people_though.md) — *authority and justice*  
-> - [💰 Capital First](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💰_capital_first_choice_under_extraction.md) — *loyalty and extraction*  
+> - [💰 Capital First](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/💰_capital_first_choice_under_extraction.md) — *loyalty and extraction*
+>   
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
