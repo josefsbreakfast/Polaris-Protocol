@@ -1,5 +1,5 @@
 # 🐐 Old-School Scapegoating  
-**First created:** 2025-12-17 | **Last updated:** 2025-12-17  
+**First created:** 2025-12-17 | **Last updated:** 2026-05-09  
 *Why modern institutions still perform an ancient ritual — just without naming it.*
 
 ---
@@ -141,4 +141,4 @@ It documents the continuity between ancient containment rituals and modern insti
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-17_
+_Last updated: 2026-05-09_
