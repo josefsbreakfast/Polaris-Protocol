@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-09 05:19:25 UTC_
+_Generated on 2026-05-09 05:30:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -526,7 +526,7 @@ _Generated on 2026-05-09 05:19:25 UTC_
         - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_web_of_resilience.md)
         - [`🗂️_when_the_system_realises_it_fucked_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🗂️_when_the_system_realises_it_fucked_up.md)
         - [`🗣️_when_did_the_way_we_talk_change.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🗣️_when_did_the_way_we_talk_change.md)
-        - [`🗳️_the_corbyn_starner_consent_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🗳️_the_corbyn_starner_consent_mechanism.md)
+        - [`🗳️_the_corbyn_starmer_consent_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🗳️_the_corbyn_starmer_consent_mechanism.md)
         - [`🚀_procedure_vs_perception.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚀_procedure_vs_perception.md)
         - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md)
         - [`🚪_doorbell_of_denial.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚪_doorbell_of_denial.md)
