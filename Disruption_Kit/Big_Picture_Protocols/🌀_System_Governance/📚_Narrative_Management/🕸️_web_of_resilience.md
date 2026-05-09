@@ -1,5 +1,5 @@
 # 🕸️ Web of Resilience  
-**First created:** 2025-09-03 | **Last updated:** 2026-04-18  
+**First created:** 2025-09-03 | **Last updated:** 2026-05-09  
 *Unified field manual for navigating and countering high-risk information environments across micro, communal, and systemic levels.*  
 
 ---
@@ -263,4 +263,4 @@ web of resilience, information environments, nervous system stability, group tru
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-18_
+_Last updated: 2026-05-09_
