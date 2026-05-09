@@ -1,5 +1,5 @@
 # 🕸️ Clone Friendly Architecture  
-**First created:** 2025-08-07 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-07 | **Last updated:** 2026-05-09  
 *Environments optimised for AI clone deployment, persistence, and deniability.*  
 
 ---
@@ -74,4 +74,4 @@ It maps environments where AI-driven replication is embedded into institutions a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-05-09_  
