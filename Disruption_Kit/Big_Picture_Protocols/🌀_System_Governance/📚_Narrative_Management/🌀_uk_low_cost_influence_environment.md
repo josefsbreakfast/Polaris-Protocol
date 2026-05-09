@@ -1,5 +1,5 @@
 # 🌀 UK as a Low-Cost Influence Environment  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-18 | **Last updated:** 2026-05-09  
 *Why Britain is one of the easiest, cheapest, highest-yield countries in the democratic world to influence — and why influence here rarely looks like “attacks”.*  
 
 ---
@@ -375,4 +375,4 @@ The node is intended to anchor investigative, activist, and oversight work on na
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-05-09_
