@@ -1,5 +1,5 @@
 # 🧩 Myth vs Mechanism  
-**First created:** 2025-11-07 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-07 | **Last updated:** 2026-05-09  
 *A conceptual and methodological node exploring how institutional myths sustain power — and how open evidence and humour can puncture them.*  
 
 ---
@@ -90,4 +90,4 @@ It traces how stories about virtue, competence, and control become architectures
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-05-09_
