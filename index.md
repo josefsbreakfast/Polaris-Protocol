@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-08 23:30:21 UTC_
+_Generated on 2026-05-09 00:08:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -49,6 +49,7 @@ _Generated on 2026-05-08 23:30:21 UTC_
         - [`🐍_ambidextrous_authoritarian_recruitment.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🐍_ambidextrous_authoritarian_recruitment.md)
         - [`🐝_post_protofascist_reconstruction.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🐝_post_protofascist_reconstruction.md)
         - [`💍_two_party_system_as_an_old_fashioned_marriage.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/💍_two_party_system_as_an_old_fashioned_marriage.md)
+        - [`💦_squirtle_squad_redeployment.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/💦_squirtle_squad_redeployment.md)
         - [`🔥_reform_uk_as_erosion_vector.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🔥_reform_uk_as_erosion_vector.md)
         - [`🖌️_for_the_serious_blue_chaps.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🖌️_for_the_serious_blue_chaps.md)
         - [`🦔_anti_fascist_defence_league_parliamentary_edition.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🦔_anti_fascist_defence_league_parliamentary_edition.md)
