@@ -1,5 +1,5 @@
 # 📜 How to Style Out a Crisis — Kipling for Modern Governance  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-12 | **Last updated:** 2026-05-09  
 *A lecture-series outline on composure, containment & institutional survival.*  
 
 ---
@@ -40,4 +40,4 @@ kipling, crisis management, emotional regulation, composure, containment studies
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-05-09_
