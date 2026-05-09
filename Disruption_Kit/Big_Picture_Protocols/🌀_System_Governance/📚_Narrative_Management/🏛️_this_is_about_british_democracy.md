@@ -1,5 +1,5 @@
-# 🏛️ This Is About British Democracy, Not (Just) Palestine Action  
-**First created:** 2025-12-23 | **Last updated:** 2025-12-23  
+# 🏛️ This Is About British Democracy, Not "Just" Palestine Action  
+**First created:** 2025-12-23 | **Last updated:** 2026-05-09  
 *A briefing node for people who may dislike the protest but care about the country.*
 
 ---
@@ -153,4 +153,4 @@ It exists to build cross-spectrum clarity at moments where precedent matters mor
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-05-09_
