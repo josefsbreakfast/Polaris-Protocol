@@ -1,5 +1,5 @@
 # 🥸 Paid Male Gossipers
-**First created:** 2025-11-04 | **Last updated:** 2025-12-13  
+**First created:** 2025-11-04 | **Last updated:** 2026-05-09  
 *An anthropological field manual for the men who invoice for hearsay.*  
 
 ---
@@ -131,4 +131,4 @@ It parodies the boutique-risk industry’s vocabulary for monetised hearsay whil
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-13_  
+_Last updated: 2026-05-09_  
