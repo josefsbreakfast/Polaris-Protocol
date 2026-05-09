@@ -1,5 +1,5 @@
 # 🧠 The Ministry of Overconfident Misreadings — A Field Guide  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-13  
+**First created:** 2025-11-22 | **Last updated:** 2026-05-09  
 *A satirical-but-accurate taxonomy of the leadership pattern that derails conversations, breaks systems, and misreads tone with catastrophic confidence.*  
 
 ---
@@ -167,4 +167,4 @@ It maps a recurring leadership pattern that misreads tone, metaphor, and cultura
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-05-09_
