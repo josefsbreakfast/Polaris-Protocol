@@ -133,6 +133,14 @@ focusing on the pressure structures that turn ordinary civic critique into sites
 > - 🪐 *Forensic Schema — Why the Dual Loyalty Accusation ‘Pings’ Harder than Rape Disclosure*  
 > - 🪞 *Identity Capture & Projection Logic*  
 > - ⚖️ *Soft Law, Symbolic Loyalty, and the British State*
+>   
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 _Last updated: 2025-12-07_
