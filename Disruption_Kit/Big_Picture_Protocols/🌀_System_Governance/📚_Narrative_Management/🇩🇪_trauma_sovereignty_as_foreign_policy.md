@@ -152,6 +152,9 @@ But its political meaning became contested.
 
 ## 💫 Script Inversion and Narrative Interregnum  
 
+This is not simply ideological confusion.  
+It is a form of emotional and narrative interregnum.  
+
 Germany subsequently entered a transitional phase characterised by:
 - increased defence commitments,  
 - reassessment of energy dependency,  
