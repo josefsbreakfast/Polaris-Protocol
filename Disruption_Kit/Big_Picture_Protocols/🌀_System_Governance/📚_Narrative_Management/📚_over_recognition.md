@@ -1,5 +1,5 @@
 # 📚 Over Recognition  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-14 | **Last updated:** 2026-05-09  
 *PR exercises and listening sessions that absorb critique but never act — recognition as containment.*  
 
 ---
@@ -64,4 +64,4 @@ It documents how institutions weaponise listening and acknowledgment as forms of
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-05-09_
