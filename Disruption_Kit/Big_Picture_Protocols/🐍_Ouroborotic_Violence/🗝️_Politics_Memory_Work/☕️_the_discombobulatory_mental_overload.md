@@ -395,7 +395,9 @@ But because maintaining nuanced engagement under constant overload becomes incre
 
 ## 🌌 Constellations  
 
-☕️ 🌀 📲 🧠 ☔️ — cognitive overload, contested narratives, interpretive fatigue, and informational instability under modern media conditions.
+☕️ 🌀 📲 🧠 ☔️ — cognitive overload, contested narratives, interpretive fatigue, and informational instability under modern media conditions.  
+
+The "inspiration": [what am I supposee to do with any of the information we're being given, particularly when politicised as so?](https://www.bbc.co.uk/news/articles/c07281gye3mo)   
 
 ---
 
