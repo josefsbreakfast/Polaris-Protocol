@@ -1,5 +1,5 @@
 # 💄 The Dumb Blonde Protocol  
-**First created:** 2025-11-01 | **Last updated:** 2026-02-20  
+**First created:** 2025-11-01 | **Last updated:** 2026-05-09  
 *How the “dumb blonde” became patriarchy’s favourite containment spell — and how women learned to weaponise it.*  
  
 ---
@@ -170,4 +170,4 @@ It traces the evolution of a containment myth into a strategic tool — from sat
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-05-09_
