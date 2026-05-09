@@ -1,5 +1,5 @@
 # 🧠 Politicians and Public Contact
-**First created:** 2025-11-12 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-12 | **Last updated:** 2026-05-09  
 *Examining the broken transmission between electorate and elected.*  
 
 ---
@@ -43,4 +43,4 @@ It belongs to the *Systems & Governance* cluster, mapping failures in civic feed
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-05-09_
