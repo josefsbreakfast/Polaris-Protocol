@@ -1,5 +1,5 @@
 # 🏛️ Respectability Laundering  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-08  
+**First created:** 2025-11-22 | **Last updated:** 2026-05-09  
 *How extremist ideology borrows the clothing, tone, and spaces of Westminster to disguise and legitimise itself.*  
 
 ---
@@ -62,4 +62,4 @@ respectability laundering, westminster aesthetics, extremist disguise, instituti
 *🏛️ Respectability Laundering* is a living node of the Polaris Protocol.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-05-09_
