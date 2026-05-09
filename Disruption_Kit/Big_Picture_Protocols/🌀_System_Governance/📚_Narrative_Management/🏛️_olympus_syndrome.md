@@ -1,5 +1,5 @@
 # 🏛️ Olympus Syndrome  
-**First created:** 2025-11-12 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-12 | **Last updated:** 2026-05-09  
 *How institutions reproduce power by rewarding survival rather than transformation.*  
 
 ---
@@ -168,4 +168,4 @@ It provides a mythic-structural lens for understanding how institutions perpetua
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-05-09_
