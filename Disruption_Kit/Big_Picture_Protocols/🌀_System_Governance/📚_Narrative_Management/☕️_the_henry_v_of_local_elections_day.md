@@ -15,11 +15,11 @@
 > And hold their manhoods cheap whiles any speaks  
 > That fought with us upon Saint Crispin’s day."  
 
-— [Henry V](chatgpt://generic-entity?number=0)
+— Henry V
 
 ---
 
-Most modern readings of [Henry V](chatgpt://generic-entity?number=1) treat the play as:
+Most modern readings of **Henry V** treat the play as:
 - patriotic epic,  
 - national myth,  
 - war drama,  
@@ -47,7 +47,7 @@ The play still scans socially.
 
 It is important to remember where the play sits historically.
 
-The story is the [Battle of Agincourt](chatgpt://generic-entity?number=2):
+The story is the **Battle of Agincourt**:
 - England unified outwardly,  
 - aristocratic houses aligned under Henry,  
 - national myth in formation,  
@@ -55,7 +55,7 @@ The story is the [Battle of Agincourt](chatgpt://generic-entity?number=2):
 
 But Shakespeare’s audience already knew what came later.
 
-They knew the [Wars of the Roses](chatgpt://generic-entity?number=3) followed.
+They knew the **Wars of the Roses** followed.
 
 That changes the emotional texture of the play enormously.
 
@@ -160,7 +160,7 @@ Part of the reason these standings remain legible is structural continuity.
 
 The counties did not move.
 
-[London](chatgpt://generic-entity?number=4) remained the centre of English political gravity.  
+London remained the centre of English political gravity.  
 The Home Counties still surround London.  
 Parliament was never relocated to York or Durham.  
 Administrative centrality remained geographically concentrated for centuries.
@@ -393,7 +393,7 @@ Which is probably one reason it never fully stopped feeling relevant.
 > I see you stand like greyhounds in the slips,
 > Straining upon the start. The game’s afoot!"  
 
-— [Henry V](chatgpt://generic-entity?number=5)
+— Henry V  
 
 ---
 
@@ -417,9 +417,16 @@ It explores how long-term institutional continuity, geography, and cultural memo
 
 > 📡 Cross-references:
 >
-> - [📚 Narrative Management](../README.md) — *discursive framing, social legitimacy, and public interpretive systems*  
 > - [☕️ Managing Postcolonial Melancholia](./☕️_managing_postcolonial_melancholia.md) — *historical memory, national identity, and emotional governance*  
-> - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *institutional legitimacy and public interpretation*  
+> - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *institutional legitimacy and public interpretation*
+>   
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
