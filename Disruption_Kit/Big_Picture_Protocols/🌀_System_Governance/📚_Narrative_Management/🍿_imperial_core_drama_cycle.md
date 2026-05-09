@@ -148,7 +148,14 @@ imperial reflex, crisis governance, narrative cycles, uk internal conflict, exec
 > 
 > - [🧬 Keystone RCA] — *executive root-cause mapping*  
 > - [🌀 Systems & Governance] — *constitutional behavioural analysis*  
-> - [👁️‍🗨️ Witness & Historical Casefiles] — *trauma loops across generations*  
+> - [👁️‍🗨️ Witness & Historical Casefiles] — *trauma loops across generations*
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
