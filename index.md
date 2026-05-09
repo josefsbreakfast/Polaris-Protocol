@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-09 08:14:17 UTC_
+_Generated on 2026-05-09 13:09:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -550,6 +550,7 @@ _Generated on 2026-05-09 08:14:17 UTC_
         - [`🧬_narrative_as_state_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧬_narrative_as_state_infrastructure.md)
         - [`🧭_political_mapping_the_two_axis_model.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧭_political_mapping_the_two_axis_model.md)
         - [`🧯_reputational_management_as_governance_signal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧯_reputational_management_as_governance_signal.md)
+        - [`🧵_old_guard_optics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧵_old_guard_optics.md)
         - [`🩸_ideological_skinwalkers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🩸_ideological_skinwalkers.md)
         - [`🩸_operation_shande.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🩸_operation_shande.md)
         - [`🪖_why_intelligence_agencies_dont_understand_joy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪖_why_intelligence_agencies_dont_understand_joy.md)
