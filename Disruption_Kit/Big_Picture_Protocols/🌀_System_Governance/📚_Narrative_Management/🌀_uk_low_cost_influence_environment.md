@@ -364,6 +364,14 @@ The node is intended to anchor investigative, activist, and oversight work on na
 > - [🌀 Behavioural Steering Through General-Audience Signals] — *how universal signals create directional impact.*  
 > - [🧿 Why the UK Is Hard to Model and Easy to Manipulate] — *cultural and linguistic misfit producing vulnerability.*  
 > - [🧿 Cluster-Level Behavioural Modulation] — *micro-level behavioural shaping dynamics.*
+>   
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
