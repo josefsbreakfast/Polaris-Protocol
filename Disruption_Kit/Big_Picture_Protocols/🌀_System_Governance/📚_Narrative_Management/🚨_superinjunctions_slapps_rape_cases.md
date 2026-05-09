@@ -95,7 +95,14 @@ It documents how rape survivors in the UK can be silenced by SLAPP-like tactics 
 > 📡 Cross-references:
 > 
 > - [⚖️ SLAPPs Detailed Node](../../🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/⚖️_slapps_uk_global_palestine.md) - *Mapping SLAPPs as systemic silencing: definitions, legal timelines, global context, case examples, and their unique dangers when applied to Palestine solidarity, Crown servants, and survivor testimony*  
-> - [🧬 Survivor Tools](../../../Survivor_Tools/README.md) - *Countermeasures, diagnostics, and knowledge maps for survivor agency*  
+> - [🧬 Survivor Tools](../../../Survivor_Tools/README.md) - *Countermeasures, diagnostics, and knowledge maps for survivor agency*
+> 🏮 Return To:
+>
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
