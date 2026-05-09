@@ -1,5 +1,5 @@
 # 📢 “Calm Down, It’s Just British” — AI Misreading a Nation  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
+**First created:** 2025-11-17 | **Last updated:** 2026-05-09  
 *Why British rhetorical culture looks like volatility to global AI.*
 
 ---
@@ -57,4 +57,4 @@ british culture, tone, rhetoric, ai misread, national pragmatics, narrative dist
 > - [Narrative Management](../)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-17_
+_Last updated: 2026-05-09_
