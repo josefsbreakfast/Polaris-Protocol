@@ -763,6 +763,10 @@ This is not exclusive to the West.
 
 This just happens to be a microcosm of an international exhaustion with war that the participants cannot rationalise from their personal information resource pool.  
 
+The digital age has irrevocably altered the influence ecosystems which must now be contended with.  
+
+---
+
 ### 🪖 Human Extraction, Defence Economies, And Intergenerational Exhaustion  
 
 An additional layer often ignored in analysis of North East political behaviour is the region’s longstanding relationship to:
