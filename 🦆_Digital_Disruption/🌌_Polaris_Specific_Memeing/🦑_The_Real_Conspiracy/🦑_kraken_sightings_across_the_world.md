@@ -36,7 +36,8 @@ It contributes to the archive by *letting you know where they are*.
 > 📡 Cross-references:
 > 
 > - [🦑 The Fathom Response to Containment Phase 3](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_the_fathom_response_to_containment_phase_3.md) — *we can let the RN have this one*  
-> - [🔱 Why Trident Is Lowkey Kraken Insurance](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🔱_why_trident_is_lowkey_kraken_insurance.md) — *historic governance manoeuvres*  
+> - [🔱 Why Trident Is Lowkey Kraken Insurance](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🔱_why_trident_is_lowkey_kraken_insurance.md) — *historic governance manoeuvres*
+> - [🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System]()  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
