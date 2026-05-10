@@ -1,5 +1,5 @@
 # 🔱 Why Trident Is Lowkey Kraken Insurance  
-**First created:** 2025-11-17 | **Last updated:** 2026-02-19  
+**First created:** 2025-11-17 | **Last updated:** 2026-05-10  
 Why the UK’s nuclear deterrent system — in its opacity, cost, and mythic justification — functions exactly like “anti-Kraken insurance.”*  
 
 ---
@@ -135,4 +135,4 @@ By reframing nuclear policy as sea-monster insurance, Polaris makes defence opac
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-05-10_
