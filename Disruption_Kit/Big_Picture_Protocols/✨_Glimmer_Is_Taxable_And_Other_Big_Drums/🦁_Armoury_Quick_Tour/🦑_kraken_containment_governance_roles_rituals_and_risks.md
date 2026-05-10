@@ -1,5 +1,5 @@
 # 🦑 Kraken Containment Governance: Roles, Rituals, and Risks  
-**First created:** 2025-12-14 | **Last updated:** 2026-02-19  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-10  
 *A satirical overview of the institutional architecture allegedly responsible for managing a mythological marine liability.*
 
 ---
@@ -140,4 +140,4 @@ satire, kraken governance, institutional parody, deterrence mythology, bureaucra
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-05-10_
