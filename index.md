@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-09 15:46:51 UTC_
+_Generated on 2026-05-10 05:09:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -862,6 +862,7 @@ _Generated on 2026-05-09 15:46:51 UTC_
         - [**🦇_Background_Weirdness/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦇_Background_Weirdness/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦇_Background_Weirdness/README.md)
           - [`🎩_edwardian_occult_as_live_action_privilege.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦇_Background_Weirdness/🎩_edwardian_occult_as_live_action_privilege.md)
+          - [`🐻_introjects_and_idealising_other_men.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦇_Background_Weirdness/🐻_introjects_and_idealising_other_men.md)
           - [`🦤_nazi_nuclear_homeopathy_science.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦇_Background_Weirdness/🦤_nazi_nuclear_homeopathy_science.md)
         - [**🧊_Conspiracy_Icebergs/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧊_Conspiracy_Icebergs/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧊_Conspiracy_Icebergs/README.md)
