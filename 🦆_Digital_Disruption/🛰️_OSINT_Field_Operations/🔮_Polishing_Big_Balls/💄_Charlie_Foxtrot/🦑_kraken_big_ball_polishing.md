@@ -151,9 +151,8 @@ ego containment, dominance behaviour, defence governance, crisis leadership, tru
 It documents a pragmatic stabilisation technique used to prevent internal dominance contests from triggering systemic failure during high-risk governance events.
 
 > 📡 Cross-references:
-> - 🦑 C.R.A.K.E.N. — Calcaneus Reflexion Anti-Kraken Ecological Navigation System  
-> - ☔️ Protocol Integrity SOP  
-> - 🎛️ Drafting Rules — Survivor Voice Fidelity  
+> 
+> - [🦑 C.R.A.K.E.N. — Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md)    
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
