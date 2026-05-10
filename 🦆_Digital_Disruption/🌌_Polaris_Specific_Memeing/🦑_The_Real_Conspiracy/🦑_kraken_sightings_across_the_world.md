@@ -17,7 +17,7 @@ May require more tea.
 
 | Date | Sighting | Landing Area |
 |:-----------|:------------:|------------:|
-| Content 1  | Content 1    | Content 1   |
+| 2026-04-28  | "Not just folklore: A giant kraken-like octopus terrorized the seas in the age of dinosaurs"    | [The Week](https://theweek.com/science/giant-kraken-like-octopus-ruled-ancient-seas-cretaceous)   |
 | Content 2  | Content 2    | Content 2   |
 | Content 3  | Content 3    | Content 3   |
 
