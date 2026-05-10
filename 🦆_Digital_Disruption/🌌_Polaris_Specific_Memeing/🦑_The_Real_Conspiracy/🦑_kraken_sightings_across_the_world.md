@@ -24,7 +24,7 @@ May require more tea.
 ---
 
 ## 🧿 Cuttlefishery Commentary  
-Free-form body text, sections as needed.  
+[One ought ot be doing so, anyway.](https://www.bbc.co.uk/news/uk-wales-45046597)  
 
 ---
 
