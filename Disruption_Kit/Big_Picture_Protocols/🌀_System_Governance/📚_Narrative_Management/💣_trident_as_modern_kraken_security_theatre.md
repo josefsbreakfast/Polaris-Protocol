@@ -1,5 +1,5 @@
 # 💣 Trident as Modern Kraken Security Theatre  
-**First created:** 2025-11-19 | **Last updated:** 2026-05-09  
+**First created:** 2025-11-19 | **Last updated:** 2026-05-10  
 *A Polaris satirical-governance analysis of how the UK’s nuclear deterrent system functions rhetorically, emotionally, and politically like a centuries-old naval tradition of inventing giant sea monsters to justify absurdly large budgets.*  
 <!--AKA why Trident is there to guard the Kraken. I await evidence to the contrary.-->
 ---
@@ -29,9 +29,7 @@ This node explains how Trident — the UK’s nuclear deterrent — follows the 
 
 ---
 
-## 🧿 Analysis / Content  
-
-### 💣 1. Trident Is a Story  
+## 💣 Trident Is a Story  
 Trident is not just warheads and submarines.  
 It is a narrative ecosystem.
 
@@ -53,7 +51,7 @@ they are theatrical devices.
 
 ---
 
-### 🧨 2. Kraken Theatre vs Trident Theatre  
+## 🧨 Kraken Theatre vs Trident Theatre  
 
 | Kraken Theatre | Trident Theatre |
 |----------------|-----------------|
@@ -69,7 +67,7 @@ It’s the same dramaturgy, upgraded with nuclear physics.
 
 ---
 
-### 🔕 3. Opacity as Performance  
+## 🔕 Opacity as Performance  
 In Kraken folklore:
 
 - you cannot question sightings  
@@ -91,7 +89,7 @@ it is the theatre.
 
 ---
 
-### 🌊 4. The Emotional Logic: “We Can’t Risk the Kraken”  
+## 🌊 The Emotional Logic: “We Can’t Risk the Kraken”  
 No politician wants to be remembered as:
 
 > **“The PM who let the Kraken eat Portsmouth.”**
@@ -110,7 +108,7 @@ This is the same emotional reasoning behind:
 
 ---
 
-### 🧰 5. The Procurement Spiral  
+## 🧰 The Procurement Spiral  
 Kraken logic requires constant spending, because:
 
 - the monster could return  
@@ -129,7 +127,7 @@ Unfalsifiable logic → endless budget cycle.
 
 ---
 
-### 🐙 6. Why Trident Is the Perfect Modern Sea Monster  
+## 🐙 Why Trident Is the Perfect Modern Sea Monster  
 Trident can justify:
 
 - secrecy  
@@ -145,7 +143,7 @@ The original Kraken could never dream of such productivity.
 
 ---
 
-### 🔍 7. How This Creates Drift  
+## ♟️ How This Creates Drift  
 Trident’s opacity creates:
 
 - democratic blind spots  
@@ -161,7 +159,7 @@ Myth-based governance is drift-prone governance.
 
 ---
 
-### 🧭 8. The Polaris Reframe  
+## 🦑 The Polaris Reframe  
 Trident is not a monster-fighting system.  
 It is a **monster-inventing system**.
 
@@ -185,4 +183,4 @@ It exposes how nuclear deterrent rhetoric inherits the mythic narrative structur
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_  
+_Last updated: 2026-05-10_  
