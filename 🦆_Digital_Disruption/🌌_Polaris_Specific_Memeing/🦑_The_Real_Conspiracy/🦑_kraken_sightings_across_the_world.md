@@ -16,10 +16,10 @@ May require more tea.
 ## ✨ Cephalopodic Sightings  
 
 | Date | Sighting | Landing Area |
-|:-----------|:------------:|------------:|
-| 2026-04-28  | "Not just folklore: A giant kraken-like octopus terrorized the seas in the age of dinosaurs"    | [The Week](https://theweek.com/science/giant-kraken-like-octopus-ruled-ancient-seas-cretaceous)   |
-| Content 2  | Content 2    | Content 2   |
-| Content 3  | Content 3    | Content 3   |
+|:-----------|:------------:|------------:|  
+| 2026-05-10  | "Octopus influx keeping deep sea dolphins inshore"    | [BBC News](https://www.bbc.co.uk/news/articles/c8e8pp5ggllo)   |  
+| 2026-04-28  | "Not just folklore: A giant kraken-like octopus terrorized the seas in the age of dinosaurs"    | [The Week](https://theweek.com/science/giant-kraken-like-octopus-ruled-ancient-seas-cretaceous)   |  
+| 2026-04-23  | "Meet the 19 metre octopus that may have prowled ancient seas"    | [BBC News](https://www.bbc.co.uk/news/articles/cyv1rgm16r2o)   |  
 
 ---
 
