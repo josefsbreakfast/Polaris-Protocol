@@ -32,7 +32,13 @@ May require more tea.
 ---
 
 ## 🧿 Cuttlefishery Commentary  
+
+
+*Curiously, much of this is repeat coverage in clustered dates.*  
+
 [One ought to be doing so, anyway, it seems.](https://www.bbc.co.uk/news/uk-wales-45046597)  
+
+Children's shows and sci-fi episodes are discounted.  
 
 ---
 
