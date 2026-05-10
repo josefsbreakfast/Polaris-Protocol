@@ -1,5 +1,5 @@
 # 🏛️ Olympus Syndrome  
-**First created:** 2025-11-12 | **Last updated:** 2026-05-09  
+**First created:** 2025-11-12 | **Last updated:** 2026-05-10  
 *How institutions reproduce power by rewarding survival rather than transformation.*  
 
 ---
@@ -15,6 +15,8 @@ Borrowing from the mythic structure of the Olympians, this frame describes syste
 - and the mountain is never dismantled.
 
 Power does not change hands; it **circulates**.
+
+Olympus Syndrome is an interpretive compression: a simplified lens used to describe how institutions often reward survivorship, continuity, and narrative compatibility over transformation. It does not imply total coordination or immutable institutional behaviour.
 
 ---
 
@@ -44,6 +46,18 @@ It is driven by:
 - occupying the right tier when collapse passes
 
 Survival through crisis is reframed as *proof of suitability*.
+
+Olympus Syndrome does not require secret coordination.  
+It can emerge naturally through institutional selection mechanisms such as:
+- promotion pipelines favouring low-risk actors,
+- reputational caution during crisis,
+- internal loyalty networks,
+- donor or stakeholder compatibility,
+- committee inheritance structures,
+- media survivorship bias,
+- and incentive systems that reward continuity over disruption.
+
+Over time, these pressures filter leadership toward individuals who are highly compatible with institutional persistence — even when the institution itself is struggling to adapt.
 
 ---
 
@@ -168,4 +182,4 @@ It provides a mythic-structural lens for understanding how institutions perpetua
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-10_
