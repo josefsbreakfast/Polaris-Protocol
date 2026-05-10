@@ -1,5 +1,5 @@
 # 🦑 Bring Back Pressganging  
-**First created:** 2025-11-20 | **Last updated:** 2026-02-19  
+**First created:** 2025-11-20 | **Last updated:** 2026-05-10  
 *The Pressgang Party — a civic reallocation mechanism based on British cultural logic.*  
 
 ---
@@ -267,4 +267,4 @@ rhetoric, Walter Mitty, draft dodging Presidents, "Dept of War", "going to see T
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-05-10_
