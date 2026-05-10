@@ -1,5 +1,5 @@
 # 🦑 Kraken-Based Defence Budget Satire (Maybe. They're all very NCND about the whole thing.)  
-**First created:** 2025-11-17 | **Last updated:** 2026-02-19  
+**First created:** 2025-11-17 | **Last updated:** 2026-05-10  
 *A satirical-but-structural Polaris analysis of how mythical monsters, exaggerated threats, and imaginary deep-sea horrors mirror the rhetorical logic behind modern defence budgeting.*
 
 ---
@@ -146,4 +146,4 @@ It uses humour to reveal real structural incentives behind opaque defence justif
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-05-10_
