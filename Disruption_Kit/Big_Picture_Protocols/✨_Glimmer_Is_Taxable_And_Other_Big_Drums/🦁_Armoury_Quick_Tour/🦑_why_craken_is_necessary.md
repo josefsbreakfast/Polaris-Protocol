@@ -1,5 +1,5 @@
 # 🦑 Why the CRAKEN System Is Necessary  
-**Firest created:** 2025-11-20 | **Last updated:** 2026-02-19  
+**Firest created:** 2025-11-20 | **Last updated:** 2026-05-10  
 *What it replaces, what it devours, and the global doctrinal carcasses it leaves behind.*  
 
 ---
@@ -263,5 +263,5 @@ and replaces them with a structure that can actually survive the century.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-05-10_
 
