@@ -32,7 +32,7 @@ May require more tea.
 ---
 
 ## 🧿 Cuttlefishery Commentary  
-[One ought ot be doing so, anyway.](https://www.bbc.co.uk/news/uk-wales-45046597)  
+[One ought to be doing so, anyway, it seems.](https://www.bbc.co.uk/news/uk-wales-45046597)  
 
 ---
 
@@ -45,7 +45,7 @@ It contributes to the archive by *letting you know where they are*.
 > 
 > - [🦑 The Fathom Response to Containment Phase 3](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_the_fathom_response_to_containment_phase_3.md) — *we can let the RN have this one*  
 > - [🔱 Why Trident Is Lowkey Kraken Insurance](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🔱_why_trident_is_lowkey_kraken_insurance.md) — *historic governance manoeuvres*
-> - [🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_state_of_the_deep.md) — *deindexed sample of defence-ready canapés*  
+> - [🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *deindexed sample of defence-ready canapés*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
