@@ -38,7 +38,7 @@ May require more tea.
 
 [One ought to be doing so, anyway, it seems.](https://www.bbc.co.uk/news/uk-wales-45046597)  
 
-Children's shows and sci-fi episodes are discounted.  
+Children's shows and sci-fi dramas not containing Camina Drummer are discounted.  
 
 ---
 
