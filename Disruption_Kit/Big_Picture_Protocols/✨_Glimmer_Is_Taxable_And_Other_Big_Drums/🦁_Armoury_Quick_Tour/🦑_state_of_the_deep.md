@@ -1,5 +1,5 @@
 # 🦑 The Truss Protocols: The State of The Deep  
-**First created:** 2025-12-09 | **Last updated:** 2026-02-19  
+**First created:** 2025-12-09 | **Last updated:** 2026-05-10  
 *What Liz Truss really means when she talks about "the deep state" ousting her, with no reference to the economic crash, or the Long-Suffering Lettuce.*
 <!--Was it misogyny? Yes. Was she also extremely ridiculous? Also yes. Both can be true.-->
 ---
@@ -125,4 +125,4 @@ Except, obviously, our deep loyalty to the kraken and its favourite humans in ti
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-05-10_
