@@ -36,8 +36,6 @@ May require more tea.
 
 *Curiously, much of this is repeat coverage in clustered dates.*  
 
-It just makes me laugh; I seem to have such awful SEO luck when it comes to discoverability, this is just a token silly example. One day, I'm sure.  
-
 Children's shows and sci-fi dramas not containing Camina Drummer are discounted.  
 
 ---
