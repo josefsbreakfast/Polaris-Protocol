@@ -1,5 +1,5 @@
 # 🎭 Apology Theatre and Trust Repair  
-**First created:** 2025-11-03 | **Last updated:** 2026-05-09  
+**First created:** 2025-11-03 | **Last updated:** 2026-05-11  
 *How institutions perform contrition, manage outrage, and attempt symbolic trust repair without structural change.*
 
 ---
@@ -292,4 +292,4 @@ It documents how institutional contrition functions simultaneously as emotional 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
