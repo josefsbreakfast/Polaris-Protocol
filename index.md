@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-11 14:19:13 UTC_
+_Generated on 2026-05-11 15:10:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -517,6 +517,7 @@ _Generated on 2026-05-11 14:19:13 UTC_
         - [`🏛️_this_is_about_british_democracy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🏛️_this_is_about_british_democracy.md)
         - [`🐎_pianos_and_horses.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🐎_pianos_and_horses.md)
         - [`🐐_old_school_scapegoating.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🐐_old_school_scapegoating.md)
+        - [`🐦‍🔥_secrecy_reputation_management_and_survivor_speech_in_sexual_violence_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🐦‍🔥_secrecy_reputation_management_and_survivor_speech_in_sexual_violence_cases.md)
         - [`🐼_the_war_crimes_ conundrum.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🐼_the_war_crimes_ conundrum.md)
         - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👁️_panopticon_as_industry.md)
         - [`👑_aurafarming_a_new_age.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👑_aurafarming_a_new_age.md)
@@ -538,7 +539,6 @@ _Generated on 2026-05-11 14:19:13 UTC_
         - [`🗣️_when_did_the_way_we_talk_change.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🗣️_when_did_the_way_we_talk_change.md)
         - [`🗳️_the_corbyn_starmer_consent_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🗳️_the_corbyn_starmer_consent_mechanism.md)
         - [`🚀_procedure_vs_perception.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚀_procedure_vs_perception.md)
-        - [`🚨_superinjunctions_slapps_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚨_superinjunctions_slapps_rape_cases.md)
         - [`🚪_doorbell_of_denial.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚪_doorbell_of_denial.md)
         - [`🛡️_high_security_settlement_logic_data_exhaust.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🛡️_high_security_settlement_logic_data_exhaust.md)
         - [`🤖_algorithmic_conscience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🤖_algorithmic_conscience.md)
