@@ -373,7 +373,15 @@ It examines how surveillance technologies, behavioural visibility, and administr
 > - [📚 Narrative Management](../📚_Narrative_Management/) — *governance of legitimacy, visibility, and interpretive control*  
 > - [🏛️ Olympus Syndrome](../🏛️_olympus_syndrome.md) — *institutional continuity and survivorship logic*  
 > - [🏛️ Respectability Laundering](../🏛️_respectability_laundering.md) — *legitimacy systems and contested authority*  
-> - [🐐 Old-School Scapegoating](../🐐_old_school_scapegoating.md) — *symbolic containment and institutional stabilisation under pressure*  
+> - [🐐 Old-School Scapegoating](../🐐_old_school_scapegoating.md) — *symbolic containment and institutional stabilisation under pressure*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
