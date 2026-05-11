@@ -189,7 +189,15 @@ It examines how institutional communication styles, procedural language, and rep
 > 📡 Cross-references:
 >
 > - [📜 How to Style Out a Crisis — Kipling for Modern Governance](../path/) — *institutional composure and emotional governance culture*  
-> - [📜 Loss Management and the Performance of Composure](../path/) — *reputational recovery and endurance narratives*  
+> - [📜 Loss Management and the Performance of Composure](../path/) — *reputational recovery and endurance narratives*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
