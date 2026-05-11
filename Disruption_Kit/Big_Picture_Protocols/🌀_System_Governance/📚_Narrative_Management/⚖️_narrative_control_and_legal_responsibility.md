@@ -1,5 +1,5 @@
 # ⚖️ Narrative Control and Legal Responsibility  
-**First created:** 2025-11-04 | **Last updated:** 2026-05-09  
+**First created:** 2025-11-04 | **Last updated:** 2026-05-11  
 *When organisational messaging crosses from communications management into evidential risk.*
 
 ---
@@ -241,4 +241,4 @@ The node focuses on the governance boundary between lawful coordination and the 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
