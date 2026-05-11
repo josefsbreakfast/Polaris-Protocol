@@ -388,13 +388,19 @@ It examines how political and institutional actors manufacture legitimacy throug
 
 > 📡 Cross-references:
 > 
-> - [🎭 Reputation as Governance](./🎭_reputation_as_governance.md)
-> - [🎭 Apology Theatre and Trust Repair](./🎭_apology_theatre_and_trust_repair.md)
-> - [🎪 Not Even a Mole To Be Found](./🎪_not_even_a_mole_to_be_found.md)
-> - [🎡 The Aesthetic Economy of States](./🎡_the_aesthetic_economy_of_states.md)
->   
-> 🏮 Return To:
->
+> - [🎭 Reputation as Governance](./🎭_reputation_as_governance.md)  
+> - [🎭 Apology Theatre and Trust Repair](./🎭_apology_theatre_and_trust_repair.md)  
+> - [🎪 Not Even a Mole To Be Found](./🎪_not_even_a_mole_to_be_found.md)  
+> - [🎡 The Aesthetic Economy of States](../🃏_Political_Dramaturgy/🎡_the_aesthetic_economy_of_states.md)  
+> - [💼 Narrative Capture & Linguistic Power](./💼_narrative_capture_and_linguistic_power.md) — *how language itself becomes governance infrastructure*  
+> - [🏛️ Respectability Laundering](./🏛️_respectability_laundering.md) — *borrowed legitimacy and institutional credibility transfer*  
+> - [🎭 Respectability Theatre](./🎭_respectibility_theatre_bullshit.md) — *manufactured seriousness and performative legitimacy*  
+> - [🦴 Reputational Management as Harm-Producing System](./🦴_reputational_management_as_harm_producing_system.md) — *when reputation-first governance produces systemic harm*  
+> - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *how procedural correctness fails communicative legitimacy*  
+> - [📚 Over Recognition](./📚_over_recognition.md) — *visibility without structural redistribution*  
+>  
+> 🏮 Return To:  
+>  
 > - [📚 Narrative Management](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
