@@ -248,10 +248,10 @@ It examines how institutions under pressure may narrow responsibility, accelerat
 
 > 📡 Cross-references:
 >
-> - [🏛️ Olympus Syndrome](../🏛️_olympus_syndrome.md) — *institutional continuity through survivorship and narrative inheritance*  
-> - [📚 Narrative Management](../📚_Narrative_Management/) — *governance of legitimacy, framing, and public interpretation*  
-> - [🎭 Document Theatre](../🎭_document_theatre.md) — *procedural performance as institutional reassurance*  
-> - [🏛️ Respectability Laundering](../🏛️_respectability_laundering.md) — *how legitimacy systems shape public interpretation of harm and authority*
+> - [🏛️ Olympus Syndrome](./🏛️_olympus_syndrome.md) — *institutional continuity through survivorship and narrative inheritance*  
+> - []()  
+> - []()  
+> - [🏛️ Respectability Laundering](../📚_Narrative_Management/🏛️_respectability_laundering.md) — *how legitimacy systems shape public interpretation of harm and authority*
 >  
 > 🏮 Return To:  
 >  
