@@ -394,7 +394,14 @@ It explores how reproductive biology may function as a gateway domain into deepe
 > 
 > - `🤖_ai_beyond_ai.md` — *computational redirection toward biological systems modelling*  
 > - `🧬_neural_network_remodelling_gynaecology.md` — *technical modelling architectures for reproductive signalling systems*  
-> - `🧠_algorithmic_information_saturation.md` — *distributed systems, complexity, and inference overload*  
+> - `🧠_algorithmic_information_saturation.md` — *distributed systems, complexity, and inference overload*
+>  
+> 🏮 Return To:  
+>  
+> - [🤖_AI Beyond AI](./README.md)
+> - [❤️‍🩹 Rehabilitated Tech](../README.md)  
+> - [🦆 Digital Disruption](../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
