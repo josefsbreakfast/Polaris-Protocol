@@ -1,5 +1,5 @@
 # 🍉 Your Voice Is Your Vote  
-**First created:** 2025-12-23 | **Last updated:** 2026-05-09  
+**First created:** 2025-12-23 | **Last updated:** 2026-05-11  
 *How public expression creates institutional permission.*  
 
 ---
@@ -227,4 +227,4 @@ They help construct the conditions under which institutions decide whether actio
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
