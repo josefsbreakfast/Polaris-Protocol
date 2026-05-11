@@ -1,7 +1,6 @@
-# ⚖️ Equanimitas and the Stiff Upper Lip
-
-**First created:** 2026-05-11 | **Last updated:** 2026-05-11
-*How emotional restraint became institutional virtue inside British governance culture.*
+# ⚖️ Equanimitas and the Stiff Upper Lip  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-11  
+*How emotional restraint became institutional virtue inside British governance culture.*  
 
 ---
 
@@ -367,15 +366,23 @@ equanimitas, stiff upper lip, british governance culture, emotional restraint, i
 
 ## 🏮 Footer
 
-*Equanimitas and the Stiff Upper Lip* is a living node of the **Polaris Protocol**.
+*⚖️ Equanimitas and the Stiff Upper Lip* is a living node of the **Polaris Protocol**.
 It documents how emotional restraint became embedded within British governance and institutional culture as a stabilising technology, and how this affects accountability, conflict processing, and institutional adaptation.
 
 > 📡 Cross-references:
 >
-> * [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular metaphor for British intermediary governance systems*
-> * [🧠 Reputational Lock-In and British Institutions](./🧠_reputational_lock_in_and_british_institutions.md) — *defensive containment inside prestige systems*
-> * [☔️ Restorative Justice in a Shame Culture](./☔️_restorative_justice_in_a_shame_culture.md) — *accountability under conditions of lineage-conscious shame*
-> * [🛰️ The Vulnerability of the Gatekeepers](./🛰️_the_vulnerability_of_the_gatekeepers.md) — *elite-network fragility and institutional risk management*
+> - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular metaphor for British intermediary governance systems*  
+> - [🧠 Reputational Lock-In and British Institutions](./🧠_reputational_lock_in_and_british_institutions.md) — *defensive containment inside prestige systems*  
+> - [☔️ Restorative Justice in a Shame Culture](./☔️_restorative_justice_in_a_shame_culture.md) — *accountability under conditions of lineage-conscious shame*  
+> - [🛰️ The Vulnerability of the Gatekeepers](./🛰️_the_vulnerability_of_the_gatekeepers.md) — *elite-network fragility and institutional risk management*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
