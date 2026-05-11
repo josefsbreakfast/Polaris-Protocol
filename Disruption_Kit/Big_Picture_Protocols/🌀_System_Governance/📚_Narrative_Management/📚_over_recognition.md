@@ -156,7 +156,15 @@ It examines how institutional recognition, consultation, and visibility practice
 >
 > - [🧠 Value of the Outlier](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_value_of_the_outlier.md) — *visibility, anomaly recognition, and institutional attention dynamics*  
 > - [🧪 Adversary Playbook: Twinning Outliers](../../../../👻_Apparitional_Objects/Fork_Taxonomy/🧪_adversary_playbook_twinning_outliers.md) — *conflict diffusion through representational fragmentation*  
-> - [🎥 Anomaly Incentives in Surveillance](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎥_anomaly_incentives_in_surveillance.md) — *institutional attention and sustained scrutiny incentives*  
+> - [🎥 Anomaly Incentives in Surveillance](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🎥_anomaly_incentives_in_surveillance.md) — *institutional attention and sustained scrutiny incentives*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
