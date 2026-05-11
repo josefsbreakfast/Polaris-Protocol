@@ -196,7 +196,15 @@ It examines how absences, omissions, inaccessible records, and institutional non
 > - [🌀 Systems & Governance](../README.md) — *governance diagnostics and institutional analysis*  
 > - [❓ Override Question as Silence Breaker](../💫_Containment_Logic/❓_override_question_as_silence_breaker.md) — *professional escalation and intuition thresholds*  
 > - [🧠 Intuition as Skill](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md) — *pattern recognition and experiential cognition*  
-> - [㊙ Containment Contracts](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/README.md) — *confidentiality structures and institutional opacity*  
+> - [㊙ Containment Contracts](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/README.md) — *confidentiality structures and institutional opacity*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
