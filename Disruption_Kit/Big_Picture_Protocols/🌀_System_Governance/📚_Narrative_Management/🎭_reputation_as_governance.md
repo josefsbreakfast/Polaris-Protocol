@@ -304,10 +304,10 @@ It examines how narrative management, communications systems, and symbolic accou
 
 > 📡 Cross-references:
 > 
-> - [🎭 Apology Theatre and Trust Repair](./🎭_apology_theatre_and_trust_repair.md)
-> - [🎪 Not Even a Mole To Be Found](./🎪_not_even_a_mole_to_be_found.md)
-> - [🎡 The Aesthetic Economy of States](./🎡_the_aesthetic_economy_of_states.md)
-> - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md)
+> - [🧠 Narrative Omission Loop](./🧠_narrative_omission_loop.md) — *persistent absences in institutional storytelling*  
+> - [📚 Forensic Silence](./📚_forensic_silence.md) — *meaningful absence within evidentiary systems*  
+> - [🧩 Myth vs Mechanism](./🧩_myth_vs_mechanism.md) — *narrative simplification versus procedural reality*  
+> - [🗣️ When Did the Way We Talk Change?](./🗣️_when_did_the_way_we_talk_change.md) — *linguistic containment and conversational drift*  
 >   
 > 🏮 Return To:
 >
