@@ -188,15 +188,18 @@ forensic silence, archival gaps, metadata ghosts, withdrawn reports, non-answer 
 
 ## 🏮 Footer  
 
-*Forensic Silence* is a living node of the **Polaris Protocol**.  
+*📚 Forensic Silence* is a living node of the **Polaris Protocol**.  
 It examines how absences, omissions, inaccessible records, and institutional non-answers can become analytically significant within governance, safeguarding, archival, and accountability systems.
 
 > 📡 Cross-references:
 >
-> - [🌀 Systems & Governance](../README.md) — *governance diagnostics and institutional analysis*  
 > - [❓ Override Question as Silence Breaker](../💫_Containment_Logic/❓_override_question_as_silence_breaker.md) — *professional escalation and intuition thresholds*  
 > - [🧠 Intuition as Skill](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md) — *pattern recognition and experiential cognition*  
-> - [㊙ Containment Contracts](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/README.md) — *confidentiality structures and institutional opacity*
+> - [㊙ Containment Contracts](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/README.md) — *confidentiality structures and institutional opacity*  
+> - [🎭 Reputation as Governance](./🎭_reputation_as_governance.md) — *credibility systems as governance infrastructure*  
+> - [🧠 Narrative Omission Loop](./🧠_narrative_omission_loop.md) — *persistent absences in institutional storytelling*  
+> - [🧩 Myth vs Mechanism](./🧩_myth_vs_mechanism.md) — *narrative simplification versus procedural reality*  
+> - [🗣️ When Did the Way We Talk Change?](./🗣️_when_did_the_way_we_talk_change.md) — *linguistic containment and conversational drift*  
 >  
 > 🏮 Return To:  
 >  
