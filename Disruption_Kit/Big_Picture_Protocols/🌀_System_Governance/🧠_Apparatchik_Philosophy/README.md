@@ -124,7 +124,8 @@ It maps how institutions develop internal cognitive systems, procedural worldvie
 > 
 > - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *communicative governance and legitimacy systems*  
 > - [🃏 Political Dramaturgy](../🃏_Political_Dramaturgy/README.md) — *symbolic performance and legitimacy aesthetics*  
-> - [💫 Containment Logic](../💫_Containment_Logic/README.md) — *procedural containment and behavioural governance systems*  
+> - [💫 Containment Logic](../💫_Containment_Logic/README.md) — *procedural containment and behavioural governance systems*
+>  
 > 🏮 Return To:  
 >  
 > - [🌀 Systems & Governance](../README.md)  
