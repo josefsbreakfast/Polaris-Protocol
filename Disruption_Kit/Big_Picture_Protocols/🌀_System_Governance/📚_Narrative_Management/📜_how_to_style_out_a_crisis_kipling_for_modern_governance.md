@@ -134,7 +134,15 @@ It examines how emotional restraint, composure, and endurance became embedded wi
 > 📡 Cross-references:
 >
 > - [📜 Loss Management and the Performance of Composure](../path/) — *institutional restraint and emotional signalling under pressure*  
-> - [🧠 Austerity as Security Doctrine](../path/) — *discipline, endurance, and governance culture*  
+> - [🧠 Austerity as Security Doctrine](../path/) — *discipline, endurance, and governance culture*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
