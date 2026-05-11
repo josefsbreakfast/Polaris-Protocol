@@ -145,7 +145,15 @@ It examines how cultural ideals of restraint, endurance, and emotional disciplin
 > 📡 Cross-references:
 >
 > - [📜 How to Style Out a Crisis — Kipling for Modern Governance](../path/) — *administrative composure and emotional governance culture*  
-> - [⚖️ Official Secrets Reform and Accountability](../path/) — *institutional opacity, legitimacy, and reputational management*  
+> - [⚖️ Official Secrets Reform and Accountability](../path/) — *institutional opacity, legitimacy, and reputational management*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
