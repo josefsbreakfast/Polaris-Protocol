@@ -315,13 +315,13 @@ The node treats “vibes” not as mystical intuition, but as distributed social
 
 > 📡 Cross-references:
 > 
-> - [🌀 UK as a Low-Cost Influence Environment](./🌀_uk_as_a_low_cost_influence_environment.md) — *ambient behavioural pressure and emotional modulation systems.*  
-> - [🇬🇧 Why the UK Likes to Laugh at the Ruling Class](./🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md) — *humour as democratic pressure release and institutional contact.*  
-> - [🧿 Cluster-Level Behavioural Modulation](./🧿_cluster_level_behavioural_modulation.md) — *emotional synchronisation and distributed social pressure.*
+> - [🌀 UK as a Low-Cost Influence Environment](../📚_Narrative_Management/🌀_uk_low_cost_influence_environment.md) — *ambient behavioural pressure and emotional modulation systems*  
+> - [🇬🇧 Why the UK Likes to Laugh at the Ruling Class](../☕️_Post_Imperial_Weather/🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md) — *humour as democratic pressure release and institutional contact*  
+> - [🧿 Cluster-Level Behavioural Modulation] — *pending*  
 >   
 > 🏮 Return To:
 >
-> - [📚 Narrative Management](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
