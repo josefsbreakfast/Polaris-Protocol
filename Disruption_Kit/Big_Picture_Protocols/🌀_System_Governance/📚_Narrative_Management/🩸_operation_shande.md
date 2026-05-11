@@ -1,5 +1,5 @@
 # 🩸 Operation Shande  
-**First created:** 2025-10-25 | **Last updated:** 2026-05-09  
+**First created:** 2025-10-25 | **Last updated:** 2026-05-11  
 *When the instrument of scandal becomes the measure of compliance.*  
 
 ---
@@ -88,4 +88,4 @@ and where citizens learn to metabolise that shame back into witness.
 
 *Because sometimes the most ethical act is to blush, publicly, together.*
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
