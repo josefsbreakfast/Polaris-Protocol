@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-11 04:51:34 UTC_
+_Generated on 2026-05-11 05:38:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -107,6 +107,8 @@ _Generated on 2026-05-11 04:51:34 UTC_
       - [`🛡️_this_is_the_home_front.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🛡️_this_is_the_home_front.md)
       - [`🧰_JSP_9-17A_Annex_D_Lawful_Escalation_Command_And_Conscience_Protocol.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🧰_JSP_9-17A_Annex_D_Lawful_Escalation_Command_And_Conscience_Protocol.md)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
+      - [**☕️_Post_Imperial_Weather/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/README.md)
       - [**⚖️_Legal_State_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/README.md)
         - [`constitutional_fault_lines.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/constitutional_fault_lines.png)
@@ -238,6 +240,10 @@ _Generated on 2026-05-11 04:51:34 UTC_
         - [`🪖_respectfully_asking_the_mod_to_declassify.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪖_respectfully_asking_the_mod_to_declassify.md)
         - [`🪻_lavender_fields_uk_transplant_legal_overview.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🪻_lavender_fields_uk_transplant_legal_overview.md)
         - [`🫖_tea_minister.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🫖_tea_minister.md)
+      - [**🃏_Political_Dramaturgy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/README.md)
+      - [**🌍_National_Storytime/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/README.md)
       - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/README.md)
         - [`bottleneck_mapping_log_template.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/bottleneck_mapping_log_template.csv)
@@ -638,6 +644,8 @@ _Generated on 2026-05-11 04:51:34 UTC_
         - [`🚀_start_here.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🚀_start_here.md)
         - [`🤌_nudges_and_biscuits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🤌_nudges_and_biscuits.md)
         - [`🥸_declassification_scenario.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🥸_declassification_scenario.md)
+      - [**🧠_Apparatchik_Philosophy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/)
+        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/README.md)
       - [**🧪_Development_Experimentation/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/README.md)
         - [`frankenstack_bad_sandwich_black.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/frankenstack_bad_sandwich_black.png)
