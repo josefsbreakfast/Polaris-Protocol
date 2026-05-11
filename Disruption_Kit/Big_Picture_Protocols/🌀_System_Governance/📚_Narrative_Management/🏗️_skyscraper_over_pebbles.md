@@ -1,5 +1,5 @@
 # 🏗️ Skyscraper Over Pebbles
-**First created:** 2025-12-14 | **Last updated:** 2026-05-09  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-11  
 *How institutions construct massive responses around trivial, ambiguous, or misinterpreted triggers.*
 
 ---
@@ -113,4 +113,4 @@ It examines how large systems can gradually construct disproportionate responses
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
