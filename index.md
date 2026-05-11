@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-11 15:42:18 UTC_
+_Generated on 2026-05-11 15:46:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -273,6 +273,13 @@ _Generated on 2026-05-11 15:42:18 UTC_
       - [**🌍_National_Storytime/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/README.md)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/notes.txt)
+        - [`🇩🇪_trauma_sovereignty_as_foreign_policy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🇩🇪_trauma_sovereignty_as_foreign_policy.md)
+        - [`🌀_dual_loyalty_loops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🌀_dual_loyalty_loops.md)
+        - [`🌹_labour_as_alt_right_spv.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🌹_labour_as_alt_right_spv.md)
+        - [`🗳️_the_corbyn_starmer_consent_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🗳️_the_corbyn_starmer_consent_mechanism.md)
+        - [`🧨_semantic_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🧨_semantic_collapse.md)
+        - [`🧨_why_argumentation_fails_with_alt_right_ideology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🧨_why_argumentation_fails_with_alt_right_ideology.md)
+        - [`🧵_old_guard_optics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🧵_old_guard_optics.md)
       - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/README.md)
         - [`bottleneck_mapping_log_template.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/bottleneck_mapping_log_template.csv)
@@ -508,11 +515,8 @@ _Generated on 2026-05-11 15:42:18 UTC_
         - [`✈️_classy_if_youre_rich.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✈️_classy_if_youre_rich.md)
         - [`✈️_crash_logic_state_grief_and_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✈️_crash_logic_state_grief_and_erasure.md)
         - [`✝️_why_moralising_disability_is_not_theology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✝️_why_moralising_disability_is_not_theology.md)
-        - [`🇩🇪_trauma_sovereignty_as_foreign_policy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇩🇪_trauma_sovereignty_as_foreign_policy.md)
         - [`🇮🇱_zionism_is_white_patriarchy_for_jewish_men.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇮🇱_zionism_is_white_patriarchy_for_jewish_men.md)
-        - [`🌀_dual_loyalty_loops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌀_dual_loyalty_loops.md)
         - [`🌀_uk_low_cost_influence_environment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌀_uk_low_cost_influence_environment.md)
-        - [`🌹_labour_as_alt_right_spv.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌹_labour_as_alt_right_spv.md)
         - [`🍉_who_are_the_sock_puppets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🍉_who_are_the_sock_puppets.md)
         - [`🍉_your_voice_is_your_vote.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🍉_your_voice_is_your_vote.md)
         - [`🎪_not_even_a_mole_to_be_found.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🎪_not_even_a_mole_to_be_found.md)
@@ -545,7 +549,6 @@ _Generated on 2026-05-11 15:42:18 UTC_
         - [`🕸️_web_of_resilience.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_web_of_resilience.md)
         - [`🗂️_when_the_system_realises_it_fucked_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🗂️_when_the_system_realises_it_fucked_up.md)
         - [`🗣️_when_did_the_way_we_talk_change.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🗣️_when_did_the_way_we_talk_change.md)
-        - [`🗳️_the_corbyn_starmer_consent_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🗳️_the_corbyn_starmer_consent_mechanism.md)
         - [`🚀_procedure_vs_perception.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚀_procedure_vs_perception.md)
         - [`🚪_doorbell_of_denial.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🚪_doorbell_of_denial.md)
         - [`🛡️_high_security_settlement_logic_data_exhaust.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🛡️_high_security_settlement_logic_data_exhaust.md)
@@ -560,14 +563,11 @@ _Generated on 2026-05-11 15:42:18 UTC_
         - [`🧠_the_men_had_a_plan.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_the_men_had_a_plan.md)
         - [`🧠_the_ministry_of_overconfident_misreadings.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_the_ministry_of_overconfident_misreadings.md)
         - [`🧨_gitmo_to_gaza_exception_chain.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧨_gitmo_to_gaza_exception_chain.md)
-        - [`🧨_semantic_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧨_semantic_collapse.md)
-        - [`🧨_why_argumentation_fails_with_alt_right_ideology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧨_why_argumentation_fails_with_alt_right_ideology.md)
         - [`🧩_accountability_failures_and_public_trust.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧩_accountability_failures_and_public_trust.md)
         - [`🧩_myth_vs_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧩_myth_vs_mechanism.md)
         - [`🧬_narrative_as_state_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧬_narrative_as_state_infrastructure.md)
         - [`🧭_political_mapping_the_two_axis_model.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧭_political_mapping_the_two_axis_model.md)
         - [`🧯_reputational_management_as_governance_signal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧯_reputational_management_as_governance_signal.md)
-        - [`🧵_old_guard_optics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧵_old_guard_optics.md)
         - [`🩸_operation_shande.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🩸_operation_shande.md)
         - [`🪞_cross_context_verification_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_cross_context_verification_failure.md)
         - [`🪞_the_emperors_dashboard.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🪞_the_emperors_dashboard.md)
