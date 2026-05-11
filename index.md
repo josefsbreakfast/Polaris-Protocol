@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-11 15:10:13 UTC_
+_Generated on 2026-05-11 15:21:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -244,6 +244,13 @@ _Generated on 2026-05-11 15:10:13 UTC_
       - [**🃏_Political_Dramaturgy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/README.md)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/notes.txt)
+        - [`☔️_restorative_justice_in_a_shame_culture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/☔️_restorative_justice_in_a_shame_culture.md)
+        - [`⚖️_equanimitas_and_the_stiff_upper_lip.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/⚖️_equanimitas_and_the_stiff_upper_lip.md)
+        - [`🌱_the_broker_class_and_british_stagnation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🌱_the_broker_class_and_british_stagnation.md)
+        - [`🌿_xylem_and_phloem_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🌿_xylem_and_phloem_governance.md)
+        - [`🛰️_the_vulnerability_of_the_gatekeepers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🛰️_the_vulnerability_of_the_gatekeepers.md)
+        - [`🧠_reputational_lock_in_and_british_institutions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🧠_reputational_lock_in_and_british_institutions.md)
+        - [`🧬_the_social_biology_of_britain.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🧬_the_social_biology_of_britain.md)
       - [**🌍_National_Storytime/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/README.md)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/notes.txt)
