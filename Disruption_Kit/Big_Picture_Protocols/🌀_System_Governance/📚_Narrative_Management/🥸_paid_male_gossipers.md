@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 This node satirises prestige-adjacent sectors where informal social interpretation is rebranded as strategic expertise through institutional language, class signalling, and professional framing.  
 
@@ -16,7 +16,7 @@ This file explores the linguistic machinery that enables the distinction.
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 
 - **Masculine Rebrand Economy:** gossip → intel → invoice.  
 - **Gatekeeping by Class Tone:** discretion performed through accent, confidence, and composure.  
