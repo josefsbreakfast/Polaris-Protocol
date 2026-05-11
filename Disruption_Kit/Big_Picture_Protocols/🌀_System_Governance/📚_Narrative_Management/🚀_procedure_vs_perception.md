@@ -1,5 +1,5 @@
 # 🚀 Procedure vs Perception  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-09  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-11  
 *Why institutions can follow formal process correctly while simultaneously destroying public trust through optics, asymmetry, and comparative urgency.*
 
 ---
@@ -286,4 +286,4 @@ It documents how institutional legitimacy depends not only on lawful procedure, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
