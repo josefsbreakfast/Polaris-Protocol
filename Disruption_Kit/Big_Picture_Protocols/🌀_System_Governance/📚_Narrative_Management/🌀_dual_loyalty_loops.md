@@ -1,5 +1,5 @@
 # 🌀 Dual Loyalty Loops  
-**First created:** 2025-11-16 | **Last updated:** 2026-05-09  
+**First created:** 2025-11-16 | **Last updated:** 2026-05-11  
 *How forced identity conflation creates no-win political traps for diaspora Jews.*  
 
 ---
@@ -34,9 +34,7 @@ The concern instead is how external political systems collapse that complexity i
 
 ---
 
-## 🧿 Analysis / Content
-
-### 1. **The First Imposition: “Jew = Israel”**
+## 🧿 **The First Imposition: “Jew = Israel”**
 Diaspora Jews are routinely treated as if their identity is interchangeable with a state they neither founded nor govern.  
 This collapses **people** into **government**, **history** into **policy**, and **heritage** into **foreign allegiance**.
 
@@ -45,7 +43,7 @@ This collapses **people** into **government**, **history** into **policy**, and 
 
 ---
 
-### 2. **The Second Imposition: “Therefore you must know about it.”**
+## 🪬 **The Second Imposition: “Therefore you must know about it.”**
 Once conflated with the state, Jewish people are often expected to possess:
 - an opinion,
 - an expertise level,
@@ -62,7 +60,7 @@ This can create a form of forced intellectual labour:
 
 ---
 
-### 3. **The Democratic Paradox: “As a British person, this looks wrong.”**
+## 🇬🇧 **The Democratic Paradox: “As a British person, this looks wrong.”**
 When people evaluate state behaviour using:
 - British legal principles,
 - ICJ reasoning,
@@ -84,7 +82,7 @@ But once the identity loop is activated, critique becomes socially perilous in w
 
 ---
 
-### 4. **The Punitive Turn: “Critique = Disloyalty.”**
+## 📜 **The Punitive Turn: “Critique = Disloyalty.”**
 Diaspora Jewish critique is often processed differently from comparable political criticism.
 
 Non-Jews may criticise foreign governments without their identity becoming central to the discussion.
@@ -102,7 +100,7 @@ This is the “no-win” threshold.
 
 ---
 
-### 5. **The Loop Closes: “You are tied to the state you must not critique.”**
+## 🌀 **The Loop Closes: “You are tied to the state you must not critique.”**
 This is where the trap locks:
 
 1. You are treated as symbolically responsible for a state you did not choose.  
@@ -123,7 +121,7 @@ The result is a recursive pressure structure where identity itself becomes polit
 
 ---
 
-### 6. **Protective Over-Identification**
+## ⛈️ **Protective Over-Identification**
 Not all attachment to Israel within diaspora Jewish communities emerges from nationalism alone.
 
 For many people, identification with Israel is also shaped by:
@@ -197,4 +195,5 @@ focusing on the pressure structures that turn ordinary civic critique into sites
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2026-05-09_
+
+_Last updated: 2026-05-11_
