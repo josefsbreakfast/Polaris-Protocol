@@ -162,14 +162,19 @@ narrative capture, linguistic power, discourse framing, institutional incentives
 
 ## 🏮 Footer  
 
-*Narrative Capture & Linguistic Power* is a living node of the **Polaris Protocol**.  
+*💼 Narrative Capture & Linguistic Power* is a living node of the **Polaris Protocol**.  
 It examines how institutional incentives, governance structures, and discourse-framing practices can shape the public recognition of harm, responsibility, and accountability — particularly within language-intensive systems and AI governance environments.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
 >
 > - [👻 Fluent Language as an Attack Surface](../../../../Containment_Studies/💞_Containment_Theory/👻_fluent_language_as_an_attack_surface.md) — *language as infrastructural vector*  
 > - [🧠 Qualitative Harm in Quantitative Systems](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_qualitative_harm_in_quantitative_systems.md) — *measurement and governance mismatch*  
-> - [⚖️ Harm Reduction vs Adversarial Governance](../path/) — *institutional framing and policy conflict*
+> - [⚖️ Harm Reduction vs Adversarial Governance](../⚖️_Legal_State_Governance/⚖️_harm_reduction_vs_adversarial_governance.md) — *institutional framing and policy conflict*
+> - [🏛️ Respectability Laundering](./🏛️_respectability_laundering.md) — *borrowed legitimacy and institutional credibility transfer*  
+> - [🎭 Respectability Theatre](./🎭_respectibility_theatre_bullshit.md) — *manufactured seriousness and performative legitimacy*  
+> - [🦴 Reputational Management as Harm-Producing System](./🦴_reputational_management_as_harm_producing_system.md) — *when reputation-first governance produces systemic harm*  
+> - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *how procedural correctness fails communicative legitimacy*  
+> - [📚 Over Recognition](./📚_over_recognition.md) — *visibility without structural redistribution*  
 >  
 > 🏮 Return To:  
 >  
@@ -178,7 +183,6 @@ It examines how institutional incentives, governance structures, and discourse-f
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
-
 *Survivor authorship is sovereign. Containment is never neutral.*
 
 _Last updated: 2026-05-11_
