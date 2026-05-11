@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 Industries often falter twice: first in language, then in practice.  
 Before structural collapse becomes measurable economically or politically, signs of strain frequently emerge in vocabulary, tone, and institutional phrasing.  
@@ -19,7 +19,7 @@ It asks:
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 
 - **Linguistic Entropy:** legitimacy erosion tracked through semantic drift in policy, press, and PR language.  
 - **Industry as Narrative:** systems sustained partly through mythology, branding, and procedural tone.  
