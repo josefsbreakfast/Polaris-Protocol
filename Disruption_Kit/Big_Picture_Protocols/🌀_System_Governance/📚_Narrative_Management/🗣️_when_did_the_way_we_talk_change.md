@@ -84,9 +84,12 @@ It traces how digital infrastructure reshaped civic tone, turning conversation i
 
 > 📡 Cross-references:
 > 
-> - [🪆 Are You Just Asking Questions?] — rhetorical containment node  
-> - [🎭 Narrative & Psych Ops] — interference typologies  
-> - [🧠 Big Picture Protocols] — systemic analysis  
+> - [🪆 Are You Just Asking Questions?](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/🪆_are_you_just_asking_questions.md) — *rhetorical containment node*  
+> - [🎭 Reputation as Governance](./🎭_reputation_as_governance.md) — *credibility systems as governance infrastructure*  
+> - [🧠 Narrative Omission Loop](./🧠_narrative_omission_loop.md) — *persistent absences in institutional storytelling*  
+> - [📚 Forensic Silence](./📚_forensic_silence.md) — *meaningful absence within evidentiary systems*  
+> - [🧩 Myth vs Mechanism](./🧩_myth_vs_mechanism.md) — *narrative simplification versus procedural reality*  
+> - [🗣️ When Did the Way We Talk Change?](./🗣️_when_did_the_way_we_talk_change.md) — *linguistic containment and conversational drift*  
 >  
 > 🏮 Return To:  
 >  
