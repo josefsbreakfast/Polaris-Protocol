@@ -192,7 +192,15 @@ It examines how strategic communications, behavioural analytics, lobbying, surve
 >
 > - [⚖️ Citizen Recourse: Private Surveillance in the UK](../path/) — *oversight, transparency, and legal recourse*  
 > - [🧩 Risk Industries and Custody Failure](../path/) — *privatised risk-management systems and institutional opacity*  
-> - [🧠 Swiss-Cheese Suicide Model in Custody](../path/) — *fragmented accountability and systemic failure dynamics*  
+> - [🧠 Swiss-Cheese Suicide Model in Custody](../path/) — *fragmented accountability and systemic failure dynamics*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
