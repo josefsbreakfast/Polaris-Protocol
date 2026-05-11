@@ -1,5 +1,5 @@
 # 🧠 Politicians and Public Contact
-**First created:** 2025-11-12 | **Last updated:** 2026-05-09  
+**First created:** 2025-11-12 | **Last updated:** 2026-05-11  
 *Examining the broken transmission between electorate and elected.*  
 
 ---
@@ -25,7 +25,9 @@ Public dialogue becomes metadata management — democracy reduced to engagement 
 ---
 
 ## 🌌 Constellations
-🧠 ⚖️ 🛰️ — cognition, law, and communication circuits of governance.
+🧠 ⚖️ 🛰️ — cognition, law, and communication circuits of governance.  
+
+---
 
 ## ✨ Stardust
 political communication, representation, accountability, datafication, public voice, governance systems, democracy erosion
@@ -43,4 +45,4 @@ It belongs to the *Systems & Governance* cluster, mapping failures in civic feed
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
