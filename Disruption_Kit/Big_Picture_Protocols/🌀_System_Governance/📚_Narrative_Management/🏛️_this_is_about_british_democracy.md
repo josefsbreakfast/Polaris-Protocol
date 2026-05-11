@@ -205,7 +205,15 @@ It examines how democratic societies negotiate legitimacy, proportionality, and 
 > - [📚 Narrative Management](../📚_Narrative_Management/) — *governance of legitimacy, framing, and public interpretation*  
 > - [🏛️ Olympus Syndrome](../🏛️_olympus_syndrome.md) — *institutional continuity and survivorship logic*  
 > - [🎭 Apparently, This Was Our Idea](./🎭_apparently_this_was_our_idea.md) — *hesitation, procedural drift, and democratic ambiguity*  
-> - [🧠 Narrative Exhaustion](./🧠_narrative_exhaustion.md) — *cognitive overload and democratic fatigue under prolonged crisis conditions*  
+> - [🧠 Narrative Exhaustion](./🧠_narrative_exhaustion.md) — *cognitive overload and democratic fatigue under prolonged crisis conditions*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
