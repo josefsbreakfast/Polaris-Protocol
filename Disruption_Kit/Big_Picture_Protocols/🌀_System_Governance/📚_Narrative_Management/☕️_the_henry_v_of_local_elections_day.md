@@ -1,5 +1,5 @@
 # ☕️ The Henry V of Local Elections Day  
-**First created:** 2026-05-07 | **Last updated:** 2026-05-09  
+**First created:** 2026-05-07 | **Last updated:** 2026-05-11  
 *On Shakespeare as recorder of English regional standing, and why Henry V still feels socially recognisable in Britain today.*  
 
 *Or: The UK's political-regional behavioural map before modern polling software.*
@@ -14,8 +14,8 @@
 > Shall think themselves accurs’d they were not here,  
 > And hold their manhoods cheap whiles any speaks  
 > That fought with us upon Saint Crispin’s day."  
-
-— Henry V
+>  
+> — Henry V  
 
 ---
 
@@ -392,8 +392,8 @@ Which is probably one reason it never fully stopped feeling relevant.
 > That hath not noble lustre in your eyes.  
 > I see you stand like greyhounds in the slips,
 > Straining upon the start. The game’s afoot!"  
-
-— Henry V  
+>  
+> — Henry V  
 
 ---
 
@@ -430,4 +430,4 @@ It explores how long-term institutional continuity, geography, and cultural memo
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
