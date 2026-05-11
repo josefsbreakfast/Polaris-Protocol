@@ -1,266 +1,418 @@
 # 🕸️ Web of Resilience  
-**First created:** 2025-09-03 | **Last updated:** 2026-05-09  
-*Unified field manual for navigating and countering high-risk information environments across micro, communal, and systemic levels.*  
+**First created:** 2025-09-03 | **Last updated:** 2026-05-11  
+*A layered resilience framework for navigating destabilising, high-volume, or adversarial information environments across personal, communal, and systemic levels.*
 
 ---
 
 ## 🛰️ Orientation  
 
-This protocol merges two strands of Polaris work:  
-- the **two-layer model** (micro nervous-system survival + macro infrastructure resilience)  
-- the **three-tier framework** (system, communal, personal)  
+This framework combines two recurring Polaris themes:
+- the interaction between nervous-system regulation and infrastructure stability,
+- and the relationship between personal, communal, and systemic resilience.
 
-Together, they form a unified manual for hostile or destabilising information environments.  
+Together, these form a layered model for understanding how destabilising information conditions can affect:
+- individuals,
+- communities,
+- and institutions simultaneously.
 
-Some information operations exhibit patterns comparable to insurgency dynamics: fragmentation, pairing, flooding, and context disruption rather than direct confrontation.  
+Some contemporary information environments exhibit dynamics associated with:
+- overload,
+- fragmentation,
+- rapid escalation,
+- identity confusion,
+- context collapse,
+- and trust erosion.
 
-- **Micro (personal)** → nervous system: overload, confusion, emotional spikes  
-- **Meso (communal)** → trust: impersonation, misalignment, archive instability  
-- **Macro (system)** → infrastructure: centralisation risk, platform fragility, regulatory gaps  
+These effects are not necessarily the result of coordinated attacks.  
+They may emerge from:
+- platform incentives,
+- algorithmic amplification,
+- fragmented media ecosystems,
+- behavioural manipulation,
+- misinformation,
+- adversarial activity,
+- or ordinary social volatility under high-speed digital conditions.
 
-Resilience must therefore be **layered**: stabilising the body, preserving solidarity, and diversifying infrastructure.  
-
-This document is a *playbook for recognition and response*:  
-1. Identify which layer is under pressure  
-2. Apply the appropriate response  
-3. Conserve energy over escalation  
+This framework therefore focuses less on identifying hidden enemies and more on:
+- preserving stability,
+- reducing harm,
+- improving calibration,
+- and strengthening resilience under uncertainty.
 
 ---
 
 ## ⚠️ Scope Boundary  
 
-This framework is for **high-volume, adversarial, or destabilising information conditions**.  
+This framework is intended for:
+- high-volume,
+- high-conflict,
+- destabilising,
+- or ambiguity-heavy information environments.
 
-Do not apply it to routine disagreement, benign error, or stable environments.  
-Misuse increases stress and degrades trust.
+It should **not** be applied indiscriminately to:
+- ordinary disagreement,
+- benign mistakes,
+- routine interpersonal tension,
+- or stable environments.
 
----
+Overapplication can:
+- increase anxiety,
+- degrade trust,
+- encourage hypervigilance,
+- and distort interpretation.
 
-## 🩻 Assumptions  
+A central principle of this framework is therefore:
 
-- Core internet infrastructure is centralised and systemically exposed  
-- Some information flows exhibit disruptive, non-linear patterns  
-- Effects cascade across **micro → meso → macro**  
-- Individuals may be drawn in without full awareness  
-- Objective: stabilise body, sustain trust, protect infrastructure  
-
----
-
-## ⚡ 1. Personal / Micro — Nervous System Stability  
-
-### Intake Triage  
-- **Stable signal** → repeats, coherent  
-- **Ghost signal** → fragmentary, non-repeating  
-- **Rule**: no repeat/corroboration (~72h) → deprioritise  
-
-### Response Discipline  
-- Fear impulse → minimal reassurance + boundary  
-- Hostility/control → disengage  
-
-**Pocket sequence:**  
-1. Name urge  
-2. Pause (breath / posture)  
-3. Delay action  
-
-### Rest Protocol  
-- 25:5 exposure/rest  
-- Daily hard stop  
-- Physical reset (jaw, shoulders, breath)  
-
-### Evidence Log  
-- Record: time, channel, signal, effect  
-- Cap: 10 minutes  
-- Purpose: pattern capture, not rumination  
-
-### Escalation  
-- Acute distress → support  
-- Threat/doxxing → document + escalate  
+> Stability first. Interpretation second.
 
 ---
 
-## 🎋 2. Communal / Meso — Trust & Cohesion  
+## 🩻 Working Assumptions  
 
-### Patterns  
-- Flooding  
-- Identity confusion  
-- Narrative laundering  
-- Context collapse  
+- Digital infrastructures are increasingly centralised and interdependent.  
+- Information environments can produce cascading emotional and social effects.  
+- Distress often propagates across:
+  - personal,
+  - communal,
+  - and systemic layers simultaneously.
+- Individuals may participate in harmful information dynamics unintentionally.  
+- Resilience depends upon:
+  - emotional regulation,
+  - trust preservation,
+  - verification practices,
+  - and infrastructural redundancy.
 
-### Risks  
-- Fragmentation  
-- Trust erosion  
-- Archive instability  
-- False conflict  
-
-### Countermoves  
-- **Slow lanes** (structured communication)  
-- **Verification cells** (apply provenance + verification standards)  
-- **Memory infrastructure** (cross-signed archives)  
-- **Mutual aid protocols**  
-- **Compartmentalisation**  
+The objective is not total control of uncertainty.  
+It is improved navigation under uncertain conditions.
 
 ---
 
-## 🎏 3. System / Macro — Infrastructure  
+# ⚡ 1. Personal / Micro — Nervous-System Stability  
 
-### Patterns  
-- Speed over integrity incentives  
-- Short-term trust sacrifice  
-- Centralised risk  
-- Cross-system instability  
+## Intake Triage  
 
-### Risks  
-- Loss of system trust  
-- Data fragility  
-- Provider dependence  
+When encountering destabilising information:
 
-### Countermoves  
-- Diversification (open + distributed systems)  
-- Regulation awareness  
-- Scenario planning  
-- Redundancy  
+### Stable Signal
+- repeated,
+- corroborated,
+- coherent across sources,
+- contextually consistent.
 
----
+### Unstable or Fragmentary Signal
+- isolated,
+- emotionally intense,
+- contradictory,
+- context-poor,
+- rapidly shifting.
 
-## 🛠 4. Operational Hygiene  
-
-### Devices & Access  
-- Separate usage contexts  
-- Hardware keys > SMS  
-- Regular audits  
-
-### Backups  
-- 3-2-1 rule  
-- Test restores  
-
-### Communication  
-- Backup channels  
-- Offline contacts  
-- Structured updates  
-
-### Information Discipline  
-- Verify → Park → Ignore  
-- Multi-source requirement  
-- Cooling-off period  
-
-### Financial  
-- Multiple institutions  
-- Alerts + fallback access  
-- Outage planning  
-
-### Incident Response  
-1. Isolate  
-2. Reset (clean device)  
-3. Scan/update  
-4. Document  
-5. Notify  
-6. Log briefly  
-
-### Red Lines  
-- Sustained hostility  
-- Doxxing/threats  
-- Impersonation  
-- Persistent overwhelm  
+As a general heuristic:
+> isolated or uncorroborated signals often warrant observation before reaction.
 
 ---
 
-## 🚫 When Not to Apply  
+## Response Discipline  
 
-Do not escalate when:  
-- disagreement is normal  
-- errors are benign  
-- context is stable  
-- no pattern exists  
-- escalation increases harm  
+Emotional urgency can distort judgment.
 
-### Calibration  
-- Pattern or single event?  
-- Evidence or intensity?  
-- Simpler explanation?  
-- Does this reduce harm?  
+Useful stabilisation practices may include:
+1. noticing impulse before action,  
+2. pausing physically,  
+3. delaying escalation where possible,  
+4. distinguishing evidence from emotional intensity.
 
-If unclear → **de-escalate**
+Not every disturbance requires immediate interpretation.
 
 ---
 
-## 🧭 Quick Diagnostic  
+## Rest & Exposure Management  
 
-### Step 1 — What reacts first?  
+High-conflict information exposure can produce:
+- physiological stress,
+- attentional fatigue,
+- and compulsive monitoring behaviours.
+
+Protective practices may include:
+- time limits,
+- deliberate disengagement,
+- physical grounding,
+- scheduled breaks,
+- and non-digital recovery activities.
+
+---
+
+## Evidence Logging  
+
+Brief documentation can assist pattern recognition:
+- date,
+- context,
+- source,
+- observable effect.
+
+The purpose is:
+- externalisation,
+not:
+- obsessive monitoring.
+
+Short, bounded logging practices reduce rumination risk.
+
+---
+
+## Escalation Thresholds  
+
+Escalation may be appropriate where:
+- credible threats emerge,
+- doxxing occurs,
+- harassment becomes persistent,
+- or distress becomes clinically significant.
+
+In such cases:
+- support,
+- documentation,
+- and formal reporting pathways
+may become necessary.
+
+---
+
+# 🎋 2. Communal / Meso — Trust & Cohesion  
+
+## Common Destabilisation Patterns  
+
+Communities under pressure may experience:
+- flooding,
+- identity confusion,
+- impersonation,
+- narrative fragmentation,
+- archive instability,
+- accelerated conflict cycles.
+
+These dynamics can emerge through:
+- adversarial behaviour,
+- misinformation,
+- algorithmic amplification,
+- or ordinary social fragmentation.
+
+---
+
+## Primary Risks  
+
+- trust erosion,  
+- community fragmentation,  
+- breakdown of shared memory,  
+- escalation spirals,  
+- false attribution conflicts.
+
+---
+
+## Resilience Practices  
+
+### Slow Communication Channels
+Structured, slower communication often reduces escalation.
+
+### Verification Norms
+Communities benefit from:
+- provenance checking,
+- corroboration standards,
+- and source transparency.
+
+### Memory Infrastructure
+Cross-referenced archives and stable records help resist:
+- confusion,
+- revisionism,
+- and context collapse.
+
+### Mutual Aid & Support
+Strong social trust frequently matters more than technical sophistication.
+
+### Compartmentalisation
+Not all information requires maximum visibility or immediate circulation.
+
+---
+
+# 🎏 3. System / Macro — Infrastructure Resilience  
+
+## Systemic Patterns  
+
+Large-scale digital systems often incentivise:
+- speed over reflection,
+- engagement over accuracy,
+- amplification over stability.
+
+This can increase:
+- volatility,
+- distrust,
+- and systemic fragility.
+
+---
+
+## Common Risks  
+
+- infrastructure dependence,  
+- platform monocultures,  
+- data fragility,  
+- concentration of informational power,  
+- cross-system cascading failures.
+
+---
+
+## Resilience Strategies  
+
+### Diversification
+Distributed and interoperable systems reduce single-point failure risk.
+
+### Redundancy
+Backups, alternative channels, and contingency planning increase continuity.
+
+### Regulatory Awareness
+Understanding platform governance and legal frameworks improves resilience literacy.
+
+### Scenario Planning
+Communities and institutions benefit from pre-planned responses to:
+- outages,
+- misinformation surges,
+- and trust failures.
+
+---
+
+# 🛠 Operational Hygiene  
+
+## Devices & Access
+- separate contexts where practical,  
+- use strong authentication methods,  
+- maintain regular security reviews.
+
+## Backups
+- maintain multiple backup layers,  
+- test restoration processes periodically.
+
+## Communication Redundancy
+- maintain fallback channels,  
+- preserve offline contacts where possible.
+
+## Information Discipline
+Useful heuristic:
+> Verify → Pause → Decide
+
+Not:
+> React → Amplify → Escalate
+
+---
+
+## Incident Response Heuristic  
+
+1. Stabilise  
+2. Isolate affected systems if needed  
+3. Verify scope  
+4. Update security measures  
+5. Document key facts  
+6. Notify appropriate parties if necessary  
+7. Restabilise before further interpretation  
+
+---
+
+# 🚫 When Not to Apply This Framework  
+
+This framework should be de-escalated when:
+- disagreement is ordinary,
+- evidence is weak,
+- explanations remain simple,
+- patterns fail to repeat,
+- or interpretation itself is increasing harm.
+
+Useful calibration questions include:
+- Is this a recurring pattern or a single event?  
+- Is there corroborating evidence?  
+- Is a simpler explanation available?  
+- Does escalation improve safety or worsen instability?  
+
+If uncertainty remains high:
+> prioritise stabilisation over interpretation.
+
+---
+
+# 🧭 Quick Diagnostic  
+
+### Step 1 — What reacts first?
 - Body → Micro  
 - Group → Meso  
-- System → Macro  
+- Infrastructure → Macro  
 
-### Step 2 — Pattern  
-- One-off → ignore  
-- Repeating → monitor  
+### Step 2 — What pattern exists?
+- Isolated → monitor lightly  
+- Repeating → investigate proportionally  
 
-### Step 3 — First action  
-- Micro → regulate  
-- Meso → slow + verify  
-- Macro → reduce dependency  
+### Step 3 — First stabilisation action
+- Micro → regulate physiology  
+- Meso → slow communication + verify  
+- Macro → reduce dependency + increase redundancy  
 
-### Step 4 — Escalate only if  
-- repeats  
-- spreads  
-- evidence increases  
+### Step 4 — Escalate only if
+- repetition increases,  
+- evidence strengthens,  
+- impact spreads,  
+- or harm becomes measurable.
 
-> *Stability first. Interpretation second.*
-
----
-
-## ⚖️ Signal Check  
-
-| Signal | False Positive | Escalation |
-|--------|----------------|------------|
-| Frequency | One-off | Repeating |
-| Clarity | Vague | Patterned |
-| Source | Single | Multiple |
-| Impact | Local | Spreading |
-| Response | Fades | Persists |
-
-**Rule:**  
-Left → de-escalate  
-Right → monitor/escalate  
-
-> *Intensity ≠ evidence*
+> Stability first. Interpretation second.
 
 ---
 
-## 🕸️ Pocket Card  
+# ⚖️ Signal Calibration  
 
-**When in doubt:**
+| Signal Characteristic | Lower Concern | Higher Concern |
+|---|---|---|
+| Frequency | isolated | repeating |
+| Clarity | vague | patterned |
+| Sources | single | multiple |
+| Impact | contained | spreading |
+| Persistence | fades quickly | sustained |
 
-- Pause  
-- Identify layer  
-- Minimal response  
-- Verify before acting  
-- Escalate only if repeated  
+**General principle:**  
+Intensity alone is not evidence.
 
-> *Not every disturbance is an attack.*
+Pattern, corroboration, and persistence matter more than emotional force.
+
+---
+
+# 🕸️ Pocket Heuristic  
+
+When uncertain:
+
+- pause,  
+- identify the affected layer,  
+- minimise impulsive reaction,  
+- verify before amplifying,  
+- escalate proportionally,  
+- preserve energy for sustained resilience rather than immediate confrontation.
+
+> Not every disturbance is an attack.  
+> Not every pattern is imaginary.  
+> Calibration matters.
 
 ---
 
 ## 🌌 Constellations  
 
-🕸️ 🔬 🛡️ 🧠 — multi-layer resilience · system diagnostics · defensive practice · cognitive stability  
+🕸️ 🔬 🛡️ 🧠 🛰️ — layered resilience; information-environment stability; cognitive regulation; communal trust systems; infrastructural redundancy.
 
 ---
 
 ## ✨ Stardust  
 
-web of resilience, information environments, nervous system stability, group trust, infrastructure resilience, digital hygiene, verification, operational discipline  
+web of resilience, information environments, nervous-system regulation, communal trust, infrastructure resilience, operational hygiene, verification practices, misinformation resilience, cognitive stability, digital resilience
 
 ---
 
 ## 🏮 Footer  
 
-*Web of Resilience* is a living node of the **Polaris Protocol**, integrating personal stability, communal trust, and systemic resilience into a unified response framework for complex information environments.  
+*Web of Resilience* is a living node of the **Polaris Protocol**.  
+It integrates personal regulation, communal trust practices, and systemic resilience principles into a layered framework for navigating destabilising or high-volume information environments.
 
 > 📡 Cross-references:
-> - [🏮 AntiContainment Clauses](../../../AntiContainment_Clauses/README.md)  
-> - [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)  
-> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md)  
+>
+> - [🏮 AntiContainment Clauses](../../../AntiContainment_Clauses/README.md) — *protective principles and governance boundaries*  
+> - [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *human-centred resilience and stabilisation ethics*  
+> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight, accountability, and observation systems*  
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
