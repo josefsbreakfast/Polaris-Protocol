@@ -370,7 +370,7 @@ reputational lock-in, british institutions, shame culture, continuity systems, p
 
 ## 🏮 Footer  
 
-*Reputational Lock-In and British Institutions* is a living node of the **Polaris Protocol**.  
+*🧠 Reputational Lock-In and British Institutions* is a living node of the **Polaris Protocol**.  
 It examines how prestige systems and continuity-oriented governance cultures become psychologically invested in preserving prior legitimacy narratives, often producing defensive containment, procedural escalation, and institutional paralysis under shame pressure.
 
 > 📡 Cross-references:
@@ -379,6 +379,14 @@ It examines how prestige systems and continuity-oriented governance cultures bec
 > - [⚖️ Equanimitas and the Stiff Upper Lip](./⚖️_equanimitas_and_the_stiff_upper_lip.md) — *emotional restraint as governance infrastructure*  
 > - [🛰️ The Vulnerability of the Gatekeepers](./🛰️_the_vulnerability_of_the_gatekeepers.md) — *elite-network fragility and reputational exposure*  
 > - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular metaphor for continuity-oriented institutional systems*
+>  
+> 🏮 Return To:  
+>  
+> - [🃏 Political Dramaturgy](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
