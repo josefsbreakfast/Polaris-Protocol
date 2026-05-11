@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 Modern institutions increasingly attempt to insure against:
 
@@ -32,7 +32,7 @@ This node examines how reputational insurance systems can become unstable when n
 
 ---
 
-## 💥 The Core Insight  
+## ✨ The Core Insight  
 
 > **Reputational underwriting depends upon the assumption that messaging, sentiment, identity clustering, and audience behaviour can be forecast with sufficient reliability to price risk.**
 >
@@ -47,7 +47,7 @@ This dynamic can emerge within:
 
 ---
 
-# 🧩 How Narrative Modelling Underpins Risk Markets  
+## ☔️ How Narrative Modelling Underpins Risk Markets  
 
 Political and reputational underwriting frequently depends upon:
 
@@ -69,9 +69,9 @@ Under these conditions, insurers and risk analysts may struggle to price volatil
 
 ---
 
-# 🔍 The Failure Chain
+## 🔍 The Failure Chain
 
-## **1. Centroid Collapse → Loss of Benchmark Persona**  
+### **1. Centroid Collapse → Loss of Benchmark Persona**  
 
 When synthetic or composite audience personas stop behaving predictably, institutions may lose:
 
@@ -83,7 +83,7 @@ Without these, premium calculations and reputational-risk simulations become les
 
 ---
 
-## **2. Solidarity Surges → Demographic Instability**  
+### **2. Solidarity Surges → Demographic Instability**  
 
 When groups assumed to be politically or socially opposed demonstrate unexpected solidarity:
 
@@ -95,7 +95,7 @@ Cross-group solidarity can destabilise predictive systems because it disrupts pr
 
 ---
 
-## **3. Diaspora Dissent → Narrative Deviation Spikes**  
+### **3. Diaspora Dissent → Narrative Deviation Spikes**  
 
 Diaspora-coded users and transnational communities may generate:
 
@@ -107,7 +107,7 @@ Narrative simulations may struggle to forecast these interventions consistently,
 
 ---
 
-## **4. PR Collapse → Crisis Forecast Divergence**  
+### **4. PR Collapse → Crisis Forecast Divergence**  
 
 As predictive PR systems become unstable:
 
@@ -121,7 +121,7 @@ Institutions may respond by raising premiums, narrowing coverage, or reassessing
 
 ---
 
-## **5. Policy Volatility → Governance Risk**  
+### **5. Policy Volatility → Governance Risk**  
 
 Governments or institutions heavily dependent on narrative stability may become:
 
@@ -136,7 +136,7 @@ Under sustained instability, coverage can become significantly more expensive or
 
 ---
 
-# 💥 What Insurance Markets Fear Most  
+## 💥 What Insurance Markets Fear Most  
 
 ### **A. Unbounded Moral Agents**  
 
@@ -185,7 +185,7 @@ Risk analysts may interpret these responses as indicators of increasing governan
 
 ---
 
-# 📉 How Insurance Markets React  
+## 📉 How Insurance Markets React  
 
 ### **1. Premium Inflation**  
 
@@ -225,7 +225,7 @@ This reflects modelling uncertainty rather than necessarily any single political
 
 ---
 
-# 🧠 Key Insight  
+## 🧠 Key Insight  
 
 > **Reputational insurance becomes more fragile when narrative predictability weakens.**
 >
