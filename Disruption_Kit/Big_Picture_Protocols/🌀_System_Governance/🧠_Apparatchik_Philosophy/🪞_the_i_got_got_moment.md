@@ -100,7 +100,7 @@ i got got, natcon, radicalisation moment, mask slip, deradicalisation testimony,
 >  
 > 🏮 Return To:  
 >  
-> - [📚 Narrative Management](./README.md)
+> - [🧠 Apparatchik Philosophy](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
