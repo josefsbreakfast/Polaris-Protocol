@@ -1,5 +1,5 @@
 # ✈️ Classy If You’re Rich  
-**First created:** 2025-12-20 | **Last updated:** 2026-05-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-05-11  
 *How wealth, status, and reputational capital can shape the interpretation of harmful conduct within media, legal, and institutional systems.*
 
 ---
@@ -320,4 +320,4 @@ The node focuses on how ambiguity, sympathy, and interpretive generosity may dis
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
