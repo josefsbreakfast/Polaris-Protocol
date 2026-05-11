@@ -1,5 +1,5 @@
 # 👁️ Panopticon as Industry  
-**First created:** 2025-11-18 | **Last updated:** 2026-05-10  
+**First created:** 2025-11-18 | **Last updated:** 2026-05-11  
 *How surveillance, behavioural visibility, and administrative legibility became scalable governance infrastructure in modern societies.*
 
 ---
@@ -9,7 +9,7 @@
 The panopticon is not merely a prison design.  
 It is a governance logic.
 
-Originally proposed by [Jeremy Bentham](chatgpt://generic-entity?number=0) as a theoretical institutional model, and later expanded by [Michel Foucault](chatgpt://generic-entity?number=1) into a broader theory of disciplinary society, the panopticon describes systems in which:
+Originally proposed by **Jeremy Bentham** as a theoretical institutional model, and later expanded by **Michel Foucault** into a broader theory of disciplinary society, the panopticon describes systems in which:
 - continuous visibility,
 - behavioural observation,
 - and internalised self-regulation
@@ -70,12 +70,12 @@ Across the 18th, 19th, and 20th centuries, expanding industrial states increasin
 - institutional categorisation,
 - and bureaucratic record-keeping.
 
-Writers such as [Charles Dickens](chatgpt://generic-entity?number=2) and [Victor Hugo](chatgpt://generic-entity?number=3) repeatedly warned about systems that:
+Writers such as **Charles Dickens** and **Victor Hugo** repeatedly warned about systems that:
 - reduced people to administratively legible categories,
 - treated visibility as moral judgment,
 - or prioritised procedural order over human dignity.
 
-In [Les Misérables](chatgpt://generic-entity?number=4), Inspector Javert represents an early panoptic logic:
+In **Les Misérables**, Inspector Javert represents an early panoptic logic:
 - obsessive legibility,
 - rigid categorisation,
 - and inability to tolerate ambiguity within governance systems.
@@ -377,4 +377,4 @@ It examines how surveillance technologies, behavioural visibility, and administr
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-10_
+_Last updated: 2026-05-11_
