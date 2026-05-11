@@ -1,5 +1,5 @@
 # 🎭 Apparently, This Was Our Idea  
-**First created:** 2025-12-23 | **Last updated:** 2026-05-09  
+**First created:** 2025-12-23 | **Last updated:** 2026-05-11  
 *A satirical note on leadership, consent, institutional drift, and the strange habit of obeying imaginary instructions.*
 
 ---
@@ -268,4 +268,4 @@ It uses satire to examine how democratic societies rhetorically surrender agency
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
