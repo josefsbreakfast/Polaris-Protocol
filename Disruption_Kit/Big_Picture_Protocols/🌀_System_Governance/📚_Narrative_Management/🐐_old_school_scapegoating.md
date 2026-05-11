@@ -251,7 +251,15 @@ It examines how institutions under pressure may narrow responsibility, accelerat
 > - [🏛️ Olympus Syndrome](../🏛️_olympus_syndrome.md) — *institutional continuity through survivorship and narrative inheritance*  
 > - [📚 Narrative Management](../📚_Narrative_Management/) — *governance of legitimacy, framing, and public interpretation*  
 > - [🎭 Document Theatre](../🎭_document_theatre.md) — *procedural performance as institutional reassurance*  
-> - [🏛️ Respectability Laundering](../🏛️_respectability_laundering.md) — *how legitimacy systems shape public interpretation of harm and authority*  
+> - [🏛️ Respectability Laundering](../🏛️_respectability_laundering.md) — *how legitimacy systems shape public interpretation of harm and authority*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
