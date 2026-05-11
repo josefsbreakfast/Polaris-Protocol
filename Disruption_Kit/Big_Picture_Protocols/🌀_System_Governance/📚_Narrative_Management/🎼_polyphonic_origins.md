@@ -1,5 +1,5 @@
 # 🎼 Polyphonic Origins — The Shared Bloodlines of the Alexandrov Ensemble
-**First created:** 2025-11-06  |  **Last updated:** 2026-05-09  
+**First created:** 2025-11-06  |  **Last updated:** 2026-05-11  
 *On how the choir’s mixed heritage once modelled unity more effectively than any slogan.*  
 
 ---
@@ -99,4 +99,4 @@ It documents how a Soviet-born military ensemble carried traces of intertwined r
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
