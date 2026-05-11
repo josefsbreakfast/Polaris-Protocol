@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-11 05:47:17 UTC_
+_Generated on 2026-05-11 05:50:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -474,6 +474,7 @@ _Generated on 2026-05-11 05:47:17 UTC_
         - [`🫥_when_you_dont_want_to_be_seen_touching_it.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🫥_when_you_dont_want_to_be_seen_touching_it.md)
       - [**📚_Narrative_Management/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/notes.txt)
         - [`political_two_axis_model_coloured.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/political_two_axis_model_coloured.png)
         - [`political_two_axis_model_diagram.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/political_two_axis_model_diagram.png)
         - [`☕️_managing_postcolonial_melancholia.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/☕️_managing_postcolonial_melancholia.md)
