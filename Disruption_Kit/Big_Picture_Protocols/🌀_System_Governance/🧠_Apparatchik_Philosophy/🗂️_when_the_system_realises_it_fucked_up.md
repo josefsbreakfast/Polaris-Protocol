@@ -237,7 +237,7 @@ It examines the institutional inflection point where procedural confidence colla
 >  
 > 🏮 Return To:  
 >  
-> - [📚 Narrative Management](./README.md)
+> - [🧠 Apparatchik Philosophy](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
