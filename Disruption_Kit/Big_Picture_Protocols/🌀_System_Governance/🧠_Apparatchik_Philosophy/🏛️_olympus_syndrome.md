@@ -176,13 +176,13 @@ It provides a mythic-structural lens for understanding how institutions perpetua
 
 > 📡 Cross-references:  
 > 
-> - [🎞️ Authoritarian Aesthetics Collapse Curve] — *how vitality drains while structure persists*  
-> - [💣 Austerity as Time Collapse] — *how delay protects incumbency*  
-> - [🔄 Reputation Arms-Race Loop] — *image maintenance as substitute for accountability*
+> - [🎞️ Authoritarian Aesthetics Collapse Curve](../🃏_Political_Dramaturgy/🎞️_authoritarian_aesthetics_collapse_curve.md) — *how vitality drains while structure persists*  
+> - [💣 Austerity as Time Collapse](../💫_Containment_Logic/💣_austerity_as_time_collapse.md) — *how delay protects incumbency*  
+> - [🔄 Reputation Arms-Race Loop](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🔄_reputation_arms_race_loop.md) — *image maintenance as substitute for accountability*  
 >  
 > 🏮 Return To:  
 >  
-> - [📚 Narrative Management](./README.md)
+> - [🧠 Apparatchik Philosophy](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
