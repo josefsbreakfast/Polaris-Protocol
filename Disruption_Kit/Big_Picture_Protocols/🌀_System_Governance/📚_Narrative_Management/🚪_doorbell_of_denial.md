@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation
+## 🛰️ Orientation
 
 In British media culture, scandals often seem to end at a doorstep.  
 A reporter appears, a door opens halfway, and the performance begins.  
@@ -13,7 +13,7 @@ This node diagrams the ritual logic of the *doorbell moment* — the instant whe
 
 ---
 
-## 🧩 Flow of Denial
+## ✨ Flow of Denial
 
 | Stage | Behaviour | Translation |
 |-------|------------|-------------|
