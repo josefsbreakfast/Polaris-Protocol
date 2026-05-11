@@ -1,5 +1,5 @@
 # 🧠 How Reasonable People Reach the Wrong Conclusion  
-**First created:** 2025-12-23 | **Last updated:** 2026-05-09  
+**First created:** 2025-12-23 | **Last updated:** 2026-05-11  
 *On presupposition, journalistic distance, and why assumptions harden so quickly.*
 <!--Hm. This node is **really** struggling to generate cleanly. For ref, I'm talking about how this doesn't look classically alike to Palestine Action, doesn't make sense under their current strategy for escalation, and instances like this are worth cautioning without clear knowledge or claim, as "add-on violence in style of group X" can functional structurally akin to how Freikorps operated, in that Nazis go "false flag" heavy because they are the most unoriginal people on planet Earth. https://vm.tiktok.com/ZNRj1M34a This would be a very strange time for public support risking escalation, with Qesser, Kamran, and others being so critical in their medical status; there is already action which fits more to the direct action and PalAct template in particular in London today. Whilst I can't give you the answer on if this is them or no, there are many factors which suggest "maybe not, actually; maybe oppositional group is more likely". -->
 ---
@@ -322,4 +322,4 @@ It exists to slow inference, protect truth, and reduce collateral harm.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
