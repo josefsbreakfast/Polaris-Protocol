@@ -310,7 +310,15 @@ It examines how institutions, aesthetics, and legitimacy systems shape public pe
 > - [📚 Narrative Management] — *governance of visibility, legitimacy, and communicative control*  
 > - [🏛️ Olympus Syndrome] — *institutional continuity through survivorship and legitimacy inheritance*  
 > - [🎭 Document Theatre] — *procedural performance as reputational governance*  
-> - [🧠 Narrative Exhaustion] — *cognitive overload as democratic destabilisation pressure*  
+> - [🧠 Narrative Exhaustion] — *cognitive overload as democratic destabilisation pressure*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
