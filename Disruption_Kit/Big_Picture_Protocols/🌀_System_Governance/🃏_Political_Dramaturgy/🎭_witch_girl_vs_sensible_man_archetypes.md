@@ -399,14 +399,14 @@ It maps how gendered and class-coded archetypes shape perceptions of credibility
 
 > 📡 Cross-references:
 >
-> - [🎭 Symbolic Violence in Gendered & Racialised Frames](./🎭_symbolic_violence_in_gendered_and_racialised_frames.md)
-> - [🎭 Respectability Theatre — The “Serious Cross-Section” Illusion](./🎭_respectibility_theatre_bullshit.md)
-> - [🎭 Reputation as Governance](./🎭_reputation_as_governance.md)
-> - [🎭 Apparently, This Was Our Idea](./🎭_apparently_this_was_our_idea.md)
+> - [🎭 Symbolic Violence in Gendered & Racialised Frames]  
+> - [🎭 Respectability Theatre — The “Serious Cross-Section” Illusion]  
+> - [🎭 Reputation as Governance]  
+> - [🎭 Apparently, This Was Our Idea]  
 >   
 > 🏮 Return To:
 >
-> - [📚 Narrative Management](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
