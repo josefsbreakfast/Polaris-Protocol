@@ -1,5 +1,5 @@
 # 🛡️ High-Security Settlement Logic in Data-Exhaust Cases  
-**First created:** 2025-12-14 | **Last updated:** 2026-05-09  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-11  
 *Why defence and intelligence institutions disproportionately favour early settlement in data-exhaust disputes.*  
 
 ---
@@ -212,4 +212,4 @@ It documents why security-critical institutions disproportionately favour early 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
