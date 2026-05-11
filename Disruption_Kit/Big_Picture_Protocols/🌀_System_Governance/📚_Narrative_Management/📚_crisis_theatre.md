@@ -345,7 +345,15 @@ It examines how emergencies, media spectacle, and governance incentives can inte
 > - [🌀 Systems & Governance](../README.md) — *governance and containment diagnostics*  
 > - [🧠 Didn’t Apply Brain Loop](../💫_Containment_Logic/🧠_didnt_apply_brain_loop.md) — *bureaucratic escalation and paranoia uptake*  
 > - [🪞 Illusion of Choice](../🧪_Development_Experimentation/🪞_the_illusion_of_choice.md) — *perceived agency within managed systems*  
-> - [⚖️ Soft-Law Governance](../⚖️_Legal_State_Governance/⚖️_soft_law_governance.md) — *temporary guidance becoming durable governance*  
+> - [⚖️ Soft-Law Governance](../⚖️_Legal_State_Governance/⚖️_soft_law_governance.md) — *temporary guidance becoming durable governance*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
