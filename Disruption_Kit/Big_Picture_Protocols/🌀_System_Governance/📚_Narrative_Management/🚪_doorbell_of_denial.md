@@ -1,5 +1,5 @@
 # 🚪 *Doorbell of Denial*  
-**First created:** 2025-11-03 | **Last updated:** 2026-05-09  
+**First created:** 2025-11-03 | **Last updated:** 2026-05-11  
 *A Flowchart for Modern Accountability Encounters*  
 
 ---
@@ -101,5 +101,5 @@ proof that even scandal respects British property law.
 
 ---
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
 **Stardust Tags:** #DoorstepJournalism #Satire #MediaRitual #Accountability #PolarisSystem  
