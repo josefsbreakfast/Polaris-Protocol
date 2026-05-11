@@ -233,7 +233,15 @@ It examines the institutional inflection point where procedural confidence colla
 > 📡 Cross-references:
 >
 > - [🔁 Post-Realisation Phase](../path/) — *what institutions do after procedural confidence collapses*  
-> - [🏗️ Skyscraper Over Pebbles](./🏗️_skyscraper_over_pebbles.md) — *fragile systems built atop unstable assumptions*  
+> - [🏗️ Skyscraper Over Pebbles](./🏗️_skyscraper_over_pebbles.md) — *fragile systems built atop unstable assumptions*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
