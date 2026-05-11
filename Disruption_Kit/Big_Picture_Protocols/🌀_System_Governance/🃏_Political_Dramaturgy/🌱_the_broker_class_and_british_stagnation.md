@@ -1,6 +1,6 @@
 # 🌱 The Broker Class and British Stagnation
 **First created:** 2026-05-11 | **Last updated:** 2026-05-11  
-*Risk aversion, intermediary legitimacy systems, and the paradox of British institutional continuity.*
+*Risk aversion, intermediary legitimacy systems, and the paradox of British institutional continuity.*  
 
 ---
 
@@ -21,14 +21,14 @@ Yet simultaneously they are often:
 - and translate change into legitimacy.
 
 This node explores how Britain’s “broker class” can act both as:
-## ⚖️ A stabilising force
+**⚖️ A stabilising force**
 
 and:
-## 🌳 A bottleneck on adaptation.
+**🌳 A bottleneck on adaptation.**
 
 ---
 
-# 🏛️ Who Are the Broker Class?
+## 🏛️ Who Are the Broker Class?
 
 This group is not necessarily:
 - hereditary aristocracy,
@@ -55,11 +55,11 @@ These groups frequently occupy:
 - and institutional management roles.
 
 They are:
-## 🛰️ Intermediary governance tissue.
+> 🛰️ Intermediary governance tissue.
 
 ---
 
-# 🌿 The Psychology of Continuity
+## 🌿 The Psychology of Continuity
 
 Historically, these groups were trained not primarily for:
 - disruption,
@@ -86,11 +86,11 @@ The ideal figure was often:
 - and capable of preserving order under pressure.
 
 This creates systems optimised for:
-## ⚖️ Stability before transformation.
+> ⚖️ Stability before transformation.
 
 ---
 
-# 🧠 Why Risk Aversion Develops
+## 🧠 Why Risk Aversion Develops
 
 This intermediary establishment layer is often:
 - wealthy enough to possess status,
@@ -114,13 +114,13 @@ This is particularly true because:
 - and continuity
 
 often function as:
-## 🏛️ Social infrastructure.
+> 🏛️ Social infrastructure.
 
 Not merely personal preference.
 
 ---
 
-# ⚡️ Why Britain Often Underinvests in Disruption
+## ⚡️ Why Britain Often Underinvests in Disruption
 
 Compared with highly speculative economic cultures, Britain has historically tended toward:
 - stewardship,
@@ -145,14 +145,14 @@ Particularly compared with:
 - or highly speculative economies.
 
 Britain often prefers:
-## 🌿 Managed adaptation
+> 🌿 Managed adaptation
 
 over:
-## 🧨 Aggressive transformation.
+> 🧨 Aggressive transformation.
 
 ---
 
-# 🕯️ The Fear of Destabilisation
+## 🕯️ The Fear of Destabilisation
 
 This class is frequently highly sensitive to:
 - economic instability,
@@ -163,7 +163,7 @@ This class is frequently highly sensitive to:
 Not necessarily because participants are uniquely malicious.
 
 But because they often perceive themselves as:
-## 🛰️ Custodians of continuity.
+> 🛰️ Custodians of continuity.
 
 This can create:
 - gatekeeping,
@@ -179,7 +179,7 @@ Particularly where change threatens:
 
 ---
 
-# 🌳 The Mobility Paradox
+## 🌳 The Mobility Paradox
 
 At the same time, this same class frequently acts as:
 - sponsor,
@@ -199,7 +199,7 @@ This means they simultaneously:
 - and facilitate mobility.
 
 They are:
-## ⚖️ The gatekeepers and the gate-openers.
+> ⚖️ The gatekeepers and the gate-openers.
 
 This is one reason Britain often changes:
 - slowly for long periods,
@@ -213,7 +213,7 @@ Once intermediary legitimacy systems shift, the broader institutional organism c
 
 ---
 
-# 🧨 Defensive Underuse of Power
+## 🧨 Defensive Underuse of Power
 
 One recurring problem is:
 ## defensive underuse of institutional power.
@@ -243,7 +243,7 @@ The result is often:
 
 ---
 
-# 🏛️ Britain’s Transitional Position
+## 🏛️ Britain’s Transitional Position
 
 Britain occupies an unusual historical position.
 
@@ -271,7 +271,7 @@ The broker class sits directly in the middle of this tension.
 
 ---
 
-# ✨ Final Observation
+## ✨ Final Observation
 
 Britain’s intermediary establishment systems are often criticised for:
 - caution,
@@ -288,7 +288,7 @@ But these same systems also:
 - and preserve governance continuity.
 
 The paradox is that:
-## 🌿 The same class capable of slowing adaptation is often the class most capable of implementing it.
+> 🌿 the same class capable of slowing adaptation is often the class most capable of implementing it.
 
 Once convinced change is:
 - legitimate,
@@ -300,7 +300,7 @@ these systems can become surprisingly effective engines of institutional transfo
 The problem is not merely lack of power.
 
 It is:
-## ⚖️ A psychological orientation toward preserving stability before risking regeneration.
+> ⚖️ a psychological orientation toward preserving stability before risking regeneration.
 
 ---
 
@@ -316,7 +316,7 @@ broker class, british stagnation, institutional continuity, risk aversion, inter
 
 ## 🏮 Footer  
 
-*The Broker Class and British Stagnation* is a living node of the **Polaris Protocol**.  
+*🌱 The Broker Class and British Stagnation* is a living node of the **Polaris Protocol**.  
 It maps how Britain’s intermediary establishment systems simultaneously preserve institutional continuity, regulate legitimacy, enable mobility, and constrain adaptive transformation through continuity-oriented governance psychology.
 
 > 📡 Cross-references:
@@ -324,7 +324,7 @@ It maps how Britain’s intermediary establishment systems simultaneously preser
 > - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular metaphor for intermediary governance systems*  
 > - [🛰️ The Vulnerability of the Gatekeepers](./🛰️_the_vulnerability_of_the_gatekeepers.md) — *elite-network fragility and continuity anxiety*  
 > - [⚖️ Equanimitas and the Stiff Upper Lip](./⚖️_equanimitas_and_the_stiff_upper_lip.md) — *emotional restraint and institutional composure*  
-> - [☔️ Restorative Justice in a Shame Culture](./☔️_restorative_justice_in_a_shame_culture.md) — *survivable accountability inside continuity systems*
+> - [☔️ Restorative Justice in a Shame Culture](./☔️_restorative_justice_in_a_shame_culture.md) — *survivable accountability inside continuity systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
