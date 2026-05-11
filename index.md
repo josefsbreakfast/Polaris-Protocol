@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-11 03:47:27 UTC_
+_Generated on 2026-05-11 03:50:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -476,6 +476,7 @@ _Generated on 2026-05-11 03:47:27 UTC_
         - [`✈️_crash_logic_state_grief_and_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✈️_crash_logic_state_grief_and_erasure.md)
         - [`✝️_why_moralising_disability_is_not_theology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✝️_why_moralising_disability_is_not_theology.md)
         - [`🇩🇪_trauma_sovereignty_as_foreign_policy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇩🇪_trauma_sovereignty_as_foreign_policy.md)
+        - [`🇬🇧_calm_down_its_just_british.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇬🇧_calm_down_its_just_british.md)
         - [`🇬🇧_flags_and_false_catharsis.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇬🇧_flags_and_false_catharsis.md)
         - [`🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md)
         - [`🇮🇱_zionism_is_white_patriarchy_for_jewish_men.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇮🇱_zionism_is_white_patriarchy_for_jewish_men.md)
@@ -518,7 +519,6 @@ _Generated on 2026-05-11 03:47:27 UTC_
         - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_over_recognition.md)
         - [`📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📜_how_to_style_out_a_crisis_kipling_for_modern_governance.md)
         - [`📜_loss_management_performance_of_composure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📜_loss_management_performance_of_composure.md)
-        - [`📢_calm_down_its_just_british.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📢_calm_down_its_just_british.md)
         - [`📣_pr_simulation_breakdown.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📣_pr_simulation_breakdown.md)
         - [`📺_cover_up_as_cultural_genre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📺_cover_up_as_cultural_genre.md)
         - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_clone_friendly_architecture.md)
