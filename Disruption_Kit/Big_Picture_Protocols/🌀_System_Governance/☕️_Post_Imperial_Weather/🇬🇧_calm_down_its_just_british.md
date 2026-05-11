@@ -1,4 +1,4 @@
-# 🇬🇧 “Calm Down, It’s Just British” — AI Misreading a Nation  
+# 🇬🇧 “Calm Down, It’s Just 'British'” — AI Misreading a Nation  
 **First created:** 2025-11-17 | **Last updated:** 2026-05-11  
 *How differences in British rhetorical culture can create ambiguity, false positives, or tone-misalignment within globally trained AI systems.*
 
