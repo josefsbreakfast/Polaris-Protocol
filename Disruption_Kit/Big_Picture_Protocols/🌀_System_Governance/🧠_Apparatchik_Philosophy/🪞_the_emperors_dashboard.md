@@ -81,10 +81,10 @@ epistemic trust, spectacle of precision, algorithmic endocrinology, civic satire
 
 > 📡 Cross‑references:  
 > 
-> - [🧨 Security Science and the Performance of Precision]  
-> - [👾 Bad Algorithms, Good Data]  
-> - [🎶 Good Taste vs Surveillance Taste]  
-> - [🎧 Music as Pipeline Risk Axis vs Treatment Axis]
+> - [🧨 Security Science and the Performance of Precision] — *pending*  
+> - [👾 Bad Algorithms, Good Data](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/👾_bad_algorithms_good_data.md)  
+> - [🎶 Good Taste vs Surveillance Taste](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🎶_good_taste_vs_surveillance_taste.md)  
+> - [🎧 Music as Pipeline Risk Axis vs Treatment Axis](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🎧_music_as_pipeline_risk_axis_vs_treatment_axis.md)  
 >  
 > 🏮 Return To:  
 >  
