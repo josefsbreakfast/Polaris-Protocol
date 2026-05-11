@@ -274,7 +274,7 @@ It documents how institutional legitimacy depends not only on lawful procedure, 
 > 📡 Cross-references:
 >
 > - [🐼 The War Crimes Conundrum](../📚_Narrative_Management/🐼_the_war_crimes_conundrum.md) — *public-interest thresholds and institutional escalation logic*  
-> - [☕️ The Eerie Of Elections — 2026 Edition](../🪄_Expression_Of_Norms/☕️_the_eerie_of_elections_2026_edition.md) — *networked perception, behavioural influence, and electoral mood formation*  
+> - [☕️ The Eerie Of Elections — 2026 Edition](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/☕️_the_eerie_of_elections_2026_edition.md) — *networked perception, behavioural influence, and electoral mood formation*  
 > - [💼 Narrative Capture & Linguistic Power](./💼_narrative_capture_and_linguistic_power.md) — *how language itself becomes governance infrastructure*  
 > - [🏛️ Respectability Laundering](../📚_Narrative_Management/🏛️_respectability_laundering.md) — *borrowed legitimacy and institutional credibility transfer*  
 > - [🎭 Respectability Theatre](../📚_Narrative_Management/🎭_respectibility_theatre_bullshit.md) — *manufactured seriousness and performative legitimacy*  
