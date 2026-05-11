@@ -411,7 +411,15 @@ It integrates personal regulation, communal trust practices, and systemic resili
 >
 > - [🏮 AntiContainment Clauses](../../../AntiContainment_Clauses/README.md) — *protective principles and governance boundaries*  
 > - [🌱 Human Principles](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md) — *human-centred resilience and stabilisation ethics*  
-> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight, accountability, and observation systems*  
+> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight, accountability, and observation systems*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
