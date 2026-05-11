@@ -1,5 +1,5 @@
 # 🧯 Reputational Management as Governance Signal: The BCG–Gaza Case  
-**First created:** 2025-12-14 | **Last updated:** 2026-05-09  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-11  
 *What the handling of the Gaza Humanitarian Foundation fallout reveals about consultancy power, disclosure control, and institutional risk.*
 
 ---
@@ -125,4 +125,4 @@ It documents how institutional response to controversy functions as evidence of 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
