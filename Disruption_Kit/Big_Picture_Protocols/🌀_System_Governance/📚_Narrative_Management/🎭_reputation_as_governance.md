@@ -1,5 +1,5 @@
 # 🎭 Reputation as Governance — How Institutions Script Their Own Credibility  
-**First created:** 2025-11-11 | **Last updated:** 2026-05-09  
+**First created:** 2025-11-11 | **Last updated:** 2026-05-11  
 *How institutions convert communication, credibility, and narrative management into governance infrastructure.*
 
 ---
@@ -319,4 +319,4 @@ It examines how narrative management, communications systems, and symbolic accou
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
