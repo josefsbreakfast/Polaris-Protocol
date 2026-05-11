@@ -1,5 +1,5 @@
 # 🎡 The Aesthetic Economy of States  
-**First created:** 2025-11-20 | **Last updated:** 2026-05-09  
+**First created:** 2025-11-20 | **Last updated:** 2026-05-11  
 *How nations generate, distribute, and compete through aesthetic output — from beauty and atmosphere to spectacle, memes, and emotional gravity.*  
 
 ---
@@ -385,4 +385,4 @@ It maps how states accumulate and lose symbolic, emotional, and cultural gravity
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
