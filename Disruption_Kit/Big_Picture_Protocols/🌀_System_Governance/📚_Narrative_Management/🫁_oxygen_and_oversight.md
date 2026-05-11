@@ -1,5 +1,5 @@
 # 🫁 Oxygen and Oversight — A Clinical Analogy for Governance Titration  
-**First created:** 2025-10-06 | **Last updated:** 2026-05-09  
+**First created:** 2025-10-06 | **Last updated:** 2026-05-11  
 *A comparative note linking respiratory physiology to institutional balance: why flooding a chronically adapted system with “more of the good thing” can collapse its homeostasis.*  
 
 ---
@@ -75,4 +75,4 @@ Design for titration from the start — measure, adjust, document, and never ass
 *Oxygen and Oversight — A Clinical Analogy for Governance Titration* is a reflective Polaris node drawing on respiratory medicine to model proportional governance responses.  
 It advocates context-aware intervention and early-stage calibration to avoid institutional hypercapnia.
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
