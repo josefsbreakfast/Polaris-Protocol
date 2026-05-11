@@ -372,14 +372,14 @@ It traces how symbolic environments, public atmosphere, and cultural aesthetics 
 
 > 📡 Cross-references:
 >
-> - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md)
+> - [🎞️ Authoritarian Aesthetics Collapse Curve]  
 > - [🎡 The Aesthetic Economy of States](./🎡_the_aesthetic_economy_of_states.md)
-> - [🎪 Not Even a Mole To Be Found](./🎪_not_even_a_mole_to_be_found.md)
-> - [🍿 Imperial Core Drama Cycle](./🍿_imperial_core_drama_cycle.md)
+> - [🎪 Not Even a Mole To Be Found]  
+> - [🍿 Imperial Core Drama Cycle]  
 >   
 > 🏮 Return To:
 >
-> - [📚 Narrative Management](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
