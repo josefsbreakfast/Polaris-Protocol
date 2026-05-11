@@ -302,9 +302,18 @@ cross-context verification, identity fragmentation, impersonation patterns, narr
 It documents a recurring mechanism by which harmful behaviour persists through structural isolation rather than technical sophistication.
 
 > 📡 Cross-references:
+> 
 > - **Survivor_Tools/** — practical countermeasures and grounding  
 > - **🛰️ Metadata_Sabotage_Network/** — interference and suppression patterns  
-> - **🎭 Narrative_And_Psych_Ops/** — projection and narrative warfare  
+> - **🎭 Narrative_And_Psych_Ops/** — projection and narrative warfare
+>  
+> 🏮 Return To:  
+>  
+> - [🧠 Apparatchik Philosophy](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
