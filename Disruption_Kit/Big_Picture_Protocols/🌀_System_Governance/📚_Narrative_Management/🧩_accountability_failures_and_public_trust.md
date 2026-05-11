@@ -1,5 +1,5 @@
 # 🧩 Accountability Failures and Public Trust  
-**First created:** 2025-11-03 | **Last updated:** 2026-05-09  
+**First created:** 2025-11-03 | **Last updated:** 2026-05-11  
 *Systemic inquiry fatigue and the erosion of trust in late-stage governance*  
 
 ---
@@ -142,4 +142,4 @@ It documents how inquiry repetition mutates from remedy into containment, and ho
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
