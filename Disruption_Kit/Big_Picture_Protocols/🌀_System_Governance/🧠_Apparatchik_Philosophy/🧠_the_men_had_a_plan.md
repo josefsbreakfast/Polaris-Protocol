@@ -273,7 +273,15 @@ It documents how authority structures can disguise personal projection as author
 > 
 > - [🧾 Plausible-Deniability Template]  
 > - [💫 Containment Logic]  
-> - [🧠 HM Dept Coercive Nudges]  
+> - [🧠 HM Dept Coercive Nudges]
+>  
+> 🏮 Return To:  
+>  
+> - [🧠 Apparatchik Philosophy](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
