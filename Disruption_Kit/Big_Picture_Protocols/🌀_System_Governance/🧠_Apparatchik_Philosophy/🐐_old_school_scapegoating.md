@@ -255,7 +255,7 @@ It examines how institutions under pressure may narrow responsibility, accelerat
 >  
 > 🏮 Return To:  
 >  
-> - [📚 Narrative Management](./README.md)
+> - [🧠 Apparatchik Philosophy](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
