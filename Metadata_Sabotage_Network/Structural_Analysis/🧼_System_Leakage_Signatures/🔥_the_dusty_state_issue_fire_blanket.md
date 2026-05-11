@@ -4,7 +4,7 @@
 <!--"Due diligence", indeed.-->
 ---
 
-## 🧭 Overview
+## 🛰️ Overview
 
 The old image of censorship is:
 - black bars,
@@ -657,7 +657,198 @@ Modern governance increasingly operates through:
 - and ecosystemic informational architectures.
 
 This represents a significant historical shift:
-from archival governance toward probabilistic governance.
+from archival governance toward probabilistic governance.  
+
+---
+
+## 💉 Reputational Immunisation
+
+At lower intensities, semantic saturation and discoverability management may function as a form of institutional “vaccination.”
+
+This is most plausible in contexts involving:
+- low-level leaks,
+- operational secrecy,
+- fragmented technical disclosures,
+- procurement irregularities,
+- non-sensational misconduct,
+- or bureaucratic reputational management.
+
+In such cases, flooding an informational environment with:
+- adjacent reporting,
+- alternative framings,
+- semantic clutter,
+- or high-volume commentary
+
+may reduce:
+- discoverability,
+- narrative cohesion,
+- and public salience.
+
+Importantly, this does not necessarily require:
+- direct censorship,
+- coordinated conspiracy,
+- or singular command structures.
+
+Many of these effects can emerge from overlapping:
+- PR incentives,
+- platform optimisation,
+- SEO ecosystems,
+- strategic communications practices,
+- and automated recommendation systems.
+
+Under these conditions, saturation may operate as a stabilising mechanism intended to:
+- dampen shocks,
+- reduce virality,
+- and prevent isolated incidents from escalating into broader institutional crises.
+
+---
+
+## 🔥 Salience Inversion
+
+The dynamics change significantly when the issue class becomes emotionally charged.
+
+Topics involving:
+- sexual violence,
+- child abuse,
+- unexplained deaths,
+- military casualties,
+- corruption,
+- institutional betrayal,
+- or perceived elite impunity
+
+behave differently inside information ecosystems.
+
+Attempts to:
+- flood,
+- redirect,
+- saturate,
+- or probabilistically obscure
+
+such narratives may unintentionally increase:
+- ambient public awareness,
+- emotional familiarity,
+- thematic suspicion,
+- and cognitive salience.
+
+Even if the original incident becomes harder to isolate,
+the *category itself* becomes more psychologically present.
+
+For example:
+continuous semantic reinforcement around topics such as:
+- rape,
+- institutional abuse,
+- or suspicious deaths
+
+may gradually produce widespread public awareness that:
+> these are ongoing systemic threat categories.
+
+This creates a paradoxical effect where:
+attempts at reputational containment can increase long-term distrust, anger, and instability.
+
+The informational environment begins unintentionally training the population toward suspicion.
+
+---
+
+## ⚖️ Long-Tail Destabilisation
+
+Short-term informational stabilisation can create long-term democratic destabilisation.
+
+If saturation dynamics:
+- delay accountability,
+- increase ambiguity,
+- distort retrieval environments,
+- or create institutional opacity,
+
+then downstream consequences may intensify over time.
+
+Potential outcomes include:
+- expanded litigation,
+- tort exposure,
+- criminal investigations,
+- public inquiries,
+- reputational collapse,
+- civil unrest,
+- and long-term erosion of institutional legitimacy.
+
+This is particularly dangerous in democratic systems where:
+- trust,
+- procedural fairness,
+- and public accountability
+
+form part of the state’s operational legitimacy.
+
+Once populations begin perceiving:
+- informational weirdness,
+- semantic clutter,
+- retrieval instability,
+- or incomplete explanations,
+
+they may increasingly collapse distinctions between:
+- incompetence,
+- secrecy,
+- optimisation,
+- corruption,
+- and conspiracy.
+
+This creates conditions of ambient paranoia and epistemic instability.
+
+Importantly:
+many of these outcomes may emerge without singular malicious intent.
+
+The effects can arise recursively from:
+- overlapping institutional incentives,
+- probabilistic systems,
+- platform economics,
+- and fragmented governance architectures.
+
+---
+
+## 🕯️ Truth, Transparency, and Democratic Stability
+
+One of the central democratic risks of probabilistic informational management is that:
+attempts to preserve institutional credibility through opacity may ultimately undermine credibility more severely.
+
+In highly networked information environments:
+- ambiguity scales,
+- suspicion propagates,
+- and informational artefacts accumulate over time.
+
+Particularly where:
+- state institutions,
+- contractors,
+- military systems,
+- police structures,
+- or politically adjacent organisations
+
+are involved, public perception rarely cleanly separates:
+- the individual actor,
+- the institution,
+- and the broader state apparatus.
+
+Whether or not governments intend this association,
+the public often experiences institutional legitimacy holistically.
+
+As a result:
+attempts to obscure, dilute, or probabilistically contain emotionally charged scandals may increase:
+- long-term distrust,
+- ambient suspicion,
+- and democratic instability.
+
+Under these conditions, transparency itself increasingly becomes a form of democratic resilience.
+
+Not because transparency eliminates institutional failure.
+
+But because:
+- visible accountability,
+- procedural clarity,
+- traceable correction,
+- and coherent public explanation
+
+help prevent the recursive informational destabilisation produced by opacity under probabilistic governance.
+
+In this sense:
+truth and transparency become not merely ethical ideals,
+but infrastructural stabilisers within modern democratic information systems.  
 
 ---
 
