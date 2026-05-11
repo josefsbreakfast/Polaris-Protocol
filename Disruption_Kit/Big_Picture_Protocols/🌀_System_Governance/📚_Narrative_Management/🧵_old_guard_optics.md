@@ -1,5 +1,5 @@
 # 🧵 Old Guard Optics  
-**First created:** 2026-05-09 | **Last updated:** 2026-05-09  
+**First created:** 2026-05-09 | **Last updated:** 2026-05-11  
 *How institutional reassurance can become electorally alienating in low-trust political environments.*  
 
 ---
@@ -957,4 +957,4 @@ Using Tyne and Wear as a regional case study, this node additionally maps how de
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
