@@ -238,8 +238,10 @@ It functions as a rapid assessment tool for identifying structural gaps in narra
 
 > 📡 Cross-references:
 > 
-> - [Big Picture Protocols](../Big_Picture_Protocols/) — *system-level diagnostic frameworks*  
-> - [Containment Scripts](../Containment_Scripts/) — *visibility shaping and suppression patterns*  
+> - [🎭 Reputation as Governance](./🎭_reputation_as_governance.md) — *credibility systems as governance infrastructure*  
+> - [📚 Forensic Silence](./📚_forensic_silence.md) — *meaningful absence within evidentiary systems*  
+> - [🧩 Myth vs Mechanism](./🧩_myth_vs_mechanism.md) — *narrative simplification versus procedural reality*  
+> - [🗣️ When Did the Way We Talk Change?](./🗣️_when_did_the_way_we_talk_change.md) — *linguistic containment and conversational drift*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
