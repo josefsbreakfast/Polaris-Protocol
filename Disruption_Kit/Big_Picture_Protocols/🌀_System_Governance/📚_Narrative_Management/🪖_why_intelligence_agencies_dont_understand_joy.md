@@ -1,5 +1,5 @@
 # 🪖 Why Intelligence Agencies Don’t Understand Joy  
-**First created:** 2025-11-13 | **Last updated:** 2026-05-09  
+**First created:** 2025-11-13 | **Last updated:** 2026-05-11  
 *Why security structures fail to recognise joy, spectacle, and charisma as strategic forces.*  
 
 ---
@@ -53,4 +53,4 @@ intelligence, psyops, joy, charisma, fandom, affective infrastructure
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
