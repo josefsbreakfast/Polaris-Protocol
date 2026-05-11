@@ -241,7 +241,15 @@ It functions as a rapid assessment tool for identifying structural gaps in narra
 > - [🎭 Reputation as Governance](./🎭_reputation_as_governance.md) — *credibility systems as governance infrastructure*  
 > - [📚 Forensic Silence](./📚_forensic_silence.md) — *meaningful absence within evidentiary systems*  
 > - [🧩 Myth vs Mechanism](./🧩_myth_vs_mechanism.md) — *narrative simplification versus procedural reality*  
-> - [🗣️ When Did the Way We Talk Change?](./🗣️_when_did_the_way_we_talk_change.md) — *linguistic containment and conversational drift*  
+> - [🗣️ When Did the Way We Talk Change?](./🗣️_when_did_the_way_we_talk_change.md) — *linguistic containment and conversational drift*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
