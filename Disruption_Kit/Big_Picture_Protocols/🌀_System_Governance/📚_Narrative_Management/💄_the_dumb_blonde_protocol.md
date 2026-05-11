@@ -1,5 +1,5 @@
 # 💄 The Dumb Blonde Protocol  
-**First created:** 2025-11-01 | **Last updated:** 2026-05-10  
+**First created:** 2025-11-01 | **Last updated:** 2026-05-11  
 *How glamour became both patriarchy’s containment spell and women’s unstable survival interface.*  
 
 ---
@@ -469,4 +469,4 @@ It traces how glamour evolved from a patriarchal containment script into a conte
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-10_
+_Last updated: 2026-05-11_
