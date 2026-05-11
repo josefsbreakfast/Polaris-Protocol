@@ -1,5 +1,5 @@
 # 🧬 Narrative as State Infrastructure  
-**First created:** 2025-12-12 | **Last updated:** 2026-05-09  
+**First created:** 2025-12-12 | **Last updated:** 2026-05-11  
 *How storytelling — risk framing, fear framing, and identity framing — becomes a governance tool, and what happens when that tool turns inward.*  
 
 ---
@@ -133,4 +133,4 @@ It documents how storytelling becomes a structural component of governance — s
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
