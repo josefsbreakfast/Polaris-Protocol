@@ -284,7 +284,7 @@ It documents how institutional legitimacy depends not only on lawful procedure, 
 >  
 > 🏮 Return To:  
 >  
-> - [📚 Narrative Management](./README.md)  
+> - [🧠 Apparatchik Philosophy](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
