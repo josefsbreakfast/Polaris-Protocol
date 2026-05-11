@@ -69,7 +69,7 @@ Under these conditions, insurers and risk analysts may struggle to price volatil
 
 ---
 
-## 🔍 The Failure Chain
+## 🧨 The Failure Chain
 
 ### **1. Centroid Collapse → Loss of Benchmark Persona**  
 
@@ -136,7 +136,7 @@ Under sustained instability, coverage can become significantly more expensive or
 
 ---
 
-## 💥 What Insurance Markets Fear Most  
+## ⛈️ What Insurance Markets Fear Most  
 
 ### **A. Unbounded Moral Agents**  
 
@@ -185,7 +185,7 @@ Risk analysts may interpret these responses as indicators of increasing governan
 
 ---
 
-## 📉 How Insurance Markets React  
+## ⚓️ How Insurance Markets React  
 
 ### **1. Premium Inflation**  
 
@@ -225,7 +225,7 @@ This reflects modelling uncertainty rather than necessarily any single political
 
 ---
 
-## 🧠 Key Insight  
+## 🌈 Key Insight  
 
 > **Reputational insurance becomes more fragile when narrative predictability weakens.**
 >
