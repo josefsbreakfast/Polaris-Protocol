@@ -1,5 +1,5 @@
 # 🎭 The Kremlin Aesthetic Timeline: From Camp to Crypt  
-**First created:** 2025-11-20 | **Last updated:** 2026-05-09  
+**First created:** 2025-11-20 | **Last updated:** 2026-05-11  
 *How post-Soviet Russia moved from flamboyant spectacle and emotional openness toward defensive austerity, symbolic contraction, and bunker aesthetics.*
 
 ---
@@ -387,4 +387,4 @@ It traces how symbolic environments, public atmosphere, and cultural aesthetics 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
