@@ -344,7 +344,7 @@ restorative justice, shame culture, british institutions, reputational lock-in, 
 
 ## 🏮 Footer  
 
-*Restorative Justice in a Shame Culture* is a living node of the **Polaris Protocol**.  
+*☔️ Restorative Justice in a Shame Culture* is a living node of the **Polaris Protocol**.  
 It examines the tension between accountability, shame, continuity, and institutional legitimacy inside highly networked prestige cultures and continuity-oriented governance systems.
 
 > 📡 Cross-references:
@@ -353,6 +353,13 @@ It examines the tension between accountability, shame, continuity, and instituti
 > - [🧠 Reputational Lock-In and British Institutions](./🧠_reputational_lock_in_and_british_institutions.md) — *defensive containment and institutional shame dynamics*  
 > - [🛰️ The Vulnerability of the Gatekeepers](./🛰️_the_vulnerability_of_the_gatekeepers.md) — *elite-network fragility and continuity anxiety*  
 > - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular governance metaphor for British institutional continuity*
+>  
+> 🏮 Return To:  
+>  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
