@@ -1,5 +1,5 @@
 # 🏛️ This Is About British Democracy, Not “Just” Palestine Action  
-**First created:** 2025-12-23 | **Last updated:** 2026-05-10  
+**First created:** 2025-12-23 | **Last updated:** 2026-05-11  
 *A briefing node for people who may dislike the protest but care about democratic legitimacy and institutional continuity.*
 
 ---
@@ -209,4 +209,4 @@ It examines how democratic societies negotiate legitimacy, proportionality, and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-10_
+_Last updated: 2026-05-11_
