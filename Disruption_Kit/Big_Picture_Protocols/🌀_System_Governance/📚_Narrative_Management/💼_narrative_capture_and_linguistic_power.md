@@ -169,7 +169,15 @@ It examines how institutional incentives, governance structures, and discourse-f
 >
 > - [👻 Fluent Language as an Attack Surface](../../../../Containment_Studies/💞_Containment_Theory/👻_fluent_language_as_an_attack_surface.md) — *language as infrastructural vector*  
 > - [🧠 Qualitative Harm in Quantitative Systems](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_qualitative_harm_in_quantitative_systems.md) — *measurement and governance mismatch*  
-> - [⚖️ Harm Reduction vs Adversarial Governance](../path/) — *institutional framing and policy conflict*  
+> - [⚖️ Harm Reduction vs Adversarial Governance](../path/) — *institutional framing and policy conflict*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
