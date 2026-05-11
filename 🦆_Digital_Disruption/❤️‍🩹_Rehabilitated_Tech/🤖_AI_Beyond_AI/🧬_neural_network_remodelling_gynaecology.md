@@ -325,7 +325,14 @@ It explores possible computational architectures for modelling adaptive reproduc
 > 
 > - `🤖_ai_beyond_ai.md` — *computational systems redirected toward biological understanding*  
 > - `😻_gateways_through_womens_health.md` — *women’s health as systems biology gateway domain*  
-> - `🧠_algorithmic_information_saturation.md` — *distributed systems modelling and signal complexity*  
+> - `🧠_algorithmic_information_saturation.md` — *distributed systems modelling and signal complexity*
+>  
+> 🏮 Return To:  
+>  
+> - [🤖_AI Beyond AI](./README.md)
+> - [❤️‍🩹 Rehabilitated Tech](../README.md)  
+> - [🦆 Digital Disruption](../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
