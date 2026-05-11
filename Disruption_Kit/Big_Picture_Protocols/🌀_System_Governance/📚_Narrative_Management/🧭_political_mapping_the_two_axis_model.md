@@ -1,5 +1,5 @@
 # 🧭 Political Mapping: The Two-Axis Model  
-**First created:** 2025-11-07 | **Last updated:** 2026-05-09  
+**First created:** 2025-11-07 | **Last updated:** 2026-05-11  
 *A simple X-Y framework for locating ideologies by both values and attitudes to government involvement.*  
 
 ---
@@ -101,4 +101,4 @@ It provides a simple geometric framework for situating ideologies by both moral 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
