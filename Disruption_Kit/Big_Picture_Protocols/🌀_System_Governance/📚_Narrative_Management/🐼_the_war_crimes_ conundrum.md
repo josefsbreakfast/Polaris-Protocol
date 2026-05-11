@@ -351,7 +351,15 @@ It examines how evidential complexity, institutional caution, and communication 
 > - [📚 Narrative Management](../📚_Narrative_Management/) — *governance of legitimacy, interpretation, and institutional communication*  
 > - [🏛️ Respectability Laundering](../🏛️_respectability_laundering.md) — *institutional legitimacy and contested expertise*  
 > - [🐐 Old-School Scapegoating](../🐐_old_school_scapegoating.md) — *symbolic blame concentration under legitimacy pressure*  
-> - [🏛️ Olympus Syndrome](../🏛️_olympus_syndrome.md) — *institutional continuity and procedural survivorship logic*  
+> - [🏛️ Olympus Syndrome](../🏛️_olympus_syndrome.md) — *institutional continuity and procedural survivorship logic*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
