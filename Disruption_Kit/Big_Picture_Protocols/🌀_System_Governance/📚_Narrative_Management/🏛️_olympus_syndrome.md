@@ -178,7 +178,15 @@ It provides a mythic-structural lens for understanding how institutions perpetua
 > 
 > - [🎞️ Authoritarian Aesthetics Collapse Curve] — *how vitality drains while structure persists*  
 > - [💣 Austerity as Time Collapse] — *how delay protects incumbency*  
-> - [🔄 Reputation Arms-Race Loop] — *image maintenance as substitute for accountability*  
+> - [🔄 Reputation Arms-Race Loop] — *image maintenance as substitute for accountability*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
