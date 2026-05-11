@@ -227,12 +227,12 @@ institutional realisation, audit shock, procedural incoherence, governance drift
 
 ## 🏮 Footer  
 
-*When the System Realises It Fucked Up* is a living node of the **Polaris Protocol**.  
+*🗂️ When the System Realises It Fucked Up* is a living node of the **Polaris Protocol**.  
 It examines the institutional inflection point where procedural confidence collapses, accumulated contradictions become visible, and systems begin reassessing their own internal logic under conditions of uncertainty or exposure.
 
 > 📡 Cross-references:
 >
-> - [🔁 Post-Realisation Phase](../path/) — *what institutions do after procedural confidence collapses*  
+> - [🔁 Post-Realisation Phase](../⚖️_Legal_State_Governance/🔁_post_realisation_phase.md) — *what institutions do after procedural confidence collapses*  
 > - [🏗️ Skyscraper Over Pebbles](./🏗️_skyscraper_over_pebbles.md) — *fragile systems built atop unstable assumptions*
 >  
 > 🏮 Return To:  
