@@ -99,13 +99,13 @@ It examines how large systems can gradually construct disproportionate responses
 
 > 📡 Cross-references:
 >
-> - [🌪️ Bureaucratic Escalation Rube Goldberg] — *cascade mechanics of procedural overreaction*  
-> - [🗂️ When the System Realises It Fucked Up] — *institutional response to accumulated error*  
-> - [⚖️ Procedure vs Perception] — *how systems defend visible process over public coherence*
+> - [🌪️ Bureaucratic Escalation Rube Goldberg](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🌪️_bureaucratic_escalation_rube_goldberg.md) — *cascade mechanics of procedural overreaction*  
+> - [🗂️ When the System Realises It Fucked Up](./🗂️_when_the_system_realises_it_fucked_up.md) — *institutional response to accumulated error*  
+> - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *how systems defend visible process over public coherence*  
 >   
 > 🏮 Return To:
 >
-> - [📚 Narrative Management](./README.md)
+> - [🧠 Apparatchik Philosophy](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
