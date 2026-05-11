@@ -206,7 +206,15 @@ It examines how emotionally dense institutional systems can generate valuable be
 >
 > - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *institutional opacity, contractual asymmetry, and governance visibility*  
 > - [🎊 Multi-Party Data Twinning](../../🦕_Elder_Influencers/💸_Money_Listens/👻_Transparencies_Overhead/🎊_multi_party_data_twinning.md) — *cross-system data fusion and intermediary infrastructures*  
-> - [📚 Forensic Silence](./📚_forensic_silence.md) — *institutional omission, archival gaps, and evidentiary asymmetry*  
+> - [📚 Forensic Silence](./📚_forensic_silence.md) — *institutional omission, archival gaps, and evidentiary asymmetry*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
