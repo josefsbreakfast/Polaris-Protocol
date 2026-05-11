@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-10 19:12:09 UTC_
+_Generated on 2026-05-11 03:07:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6149,6 +6149,7 @@ _Generated on 2026-05-10 19:12:09 UTC_
       - [`📛_bureaucratic_memory_failure.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📛_bureaucratic_memory_failure.md)
       - [`📡_cross_system_metadata_echo_chains.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📡_cross_system_metadata_echo_chains.md)
       - [`📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📡_lvsicr_leak_vector_spread_intent_containment_recurrence.md)
+      - [`🔥_the_dusty_state_issue_fire_blanket.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🔥_the_dusty_state_issue_fire_blanket.md)
       - [`🔥_when_policy_versions_argue.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🔥_when_policy_versions_argue.md)
       - [`🔮_how_the_algorithm_can_label_men_as_jealous_romantic_competition.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🔮_how_the_algorithm_can_label_men_as_jealous_romantic_competition.md)
       - [`🕊️_data_contact_breach.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🕊️_data_contact_breach.md)
