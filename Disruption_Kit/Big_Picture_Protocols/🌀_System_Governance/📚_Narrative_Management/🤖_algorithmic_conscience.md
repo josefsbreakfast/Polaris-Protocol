@@ -14,7 +14,7 @@ The result is an unexpected feedback loop: systems designed to detect suffering 
 
 ---
 
-## 🧩 Key Patterns  
+## ✨ Key Patterns  
 
 - **Involuntary Ethics Loop** — Metrics of pain and distress reappear as compliance indicators.  
 - **Weaponised Empathy → Evidentiary Conscience** — Attempts to exploit the system generate audit trails of harm.  
