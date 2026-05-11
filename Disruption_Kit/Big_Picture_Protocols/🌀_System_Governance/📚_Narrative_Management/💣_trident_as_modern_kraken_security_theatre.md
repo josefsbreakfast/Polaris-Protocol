@@ -179,7 +179,15 @@ It exposes how nuclear deterrent rhetoric inherits the mythic narrative structur
 > 
 > - [🦑 Kraken-Based Defence Budget Satire](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_kraken_based_defence_budget.md)  
 > - [🔱 Why Trident Is Lowkey Kraken Insurance](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🔱_why_trident_is_lowkey_kraken_insurance.md)  
-> - [🚢 Royal Navy & The Definite Reality of Underwater Threats](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🚢_large_underwater_threats.md)  
+> - [🚢 Royal Navy & The Definite Reality of Underwater Threats](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🚢_large_underwater_threats.md)
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
