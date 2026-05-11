@@ -163,7 +163,15 @@ It maps a recurring leadership pattern that misreads tone, metaphor, and cultura
 > 📡 Cross-references:
 > - [🎭 Psychological Containment]  
 > - [🎭 Narrative & Psych-Ops]  
-> - [🇬🇧 British English Nodes]  
+> - [🇬🇧 British English Nodes]
+>  
+> 🏮 Return To:  
+>  
+> - [🧠 Apparatchik Philosophy](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
