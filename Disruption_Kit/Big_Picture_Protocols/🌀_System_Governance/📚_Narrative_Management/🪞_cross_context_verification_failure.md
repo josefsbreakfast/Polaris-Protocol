@@ -1,5 +1,5 @@
 # 🪞 Cross-Context Verification Failure  
-**First created:** 2025-12-17 | **Last updated:** 2026-05-09  
+**First created:** 2025-12-17 | **Last updated:** 2026-05-11  
 *How fragmented identity systems survive by preventing comparison across contexts.*
 
 ---
@@ -308,4 +308,4 @@ It documents a recurring mechanism by which harmful behaviour persists through s
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
