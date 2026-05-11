@@ -84,7 +84,15 @@ epistemic trust, spectacle of precision, algorithmic endocrinology, civic satire
 > - [🧨 Security Science and the Performance of Precision]  
 > - [👾 Bad Algorithms, Good Data]  
 > - [🎶 Good Taste vs Surveillance Taste]  
-> - [🎧 Music as Pipeline Risk Axis vs Treatment Axis]  
+> - [🎧 Music as Pipeline Risk Axis vs Treatment Axis]
+>  
+> 🏮 Return To:  
+>  
+> - [🧠 Apparatchik Philosophy](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
