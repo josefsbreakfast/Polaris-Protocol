@@ -466,6 +466,14 @@ It traces how glamour evolved from a patriarchal containment script into a conte
 > - [🔥 Femme Firewall Fatale — The Panic at Female Intelligence](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🔥_femme_firewall_fatale.md)  
 > - [🧙‍♀️ Witch Logic Diagnostic](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md)  
 > - [🎮 Fake Gamer Girl Protocol](../🎮_fake_gamer_girl_protocol.md)
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
