@@ -1,5 +1,5 @@
 # ⚖️ Election Candidacy Query  
-**First created:** 2025-11-11 | **Last updated:** 2026-05-09  
+**First created:** 2025-11-11 | **Last updated:** 2026-05-11  
 *How reputational governance, institutional filtering, and viability systems shape modern political candidacy in the UK.*
 
 ---
@@ -236,4 +236,4 @@ The node explores how distributed media, donor, and party ecosystems shape moder
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
