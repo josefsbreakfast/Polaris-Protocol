@@ -1,8 +1,6 @@
-# 🌿 Xylem and Phloem Governance
-
-**First created:** 2026-05-11
-**Last updated:** 2026-05-11
-*Britain as a vascular governance organism: continuity, signalling, brokerage, and institutional flow.*
+# 🌿 Xylem and Phloem Governance  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-11  
+*Britain as a vascular governance organism: continuity, signalling, brokerage, and institutional flow.*  
 
 ---
 
@@ -345,4 +343,21 @@ The problem is not that the organism has transport tissue.
 
 The problem emerges when the transport tissue begins mistaking:
 
-## preservation for vitality.
+## preservation for vitality.  
+
+---
+
+> 📡 Cross-References:
+> 
+> - []()  
+> - []()  
+> - []()  
+>  
+> 🏮 Return To:  
+>  
+> - [🃏 Political Dramaturgy](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
