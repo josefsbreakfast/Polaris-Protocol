@@ -49,7 +49,21 @@ intelligence, psyops, joy, charisma, fandom, affective infrastructure
 ---
 
 ## 🏮 Footer  
-*🪖 Why Intelligence Agencies Don’t Understand Joy* is a living node of the **Polaris Protocol**.
+*🪖 Why Intelligence Agencies Don’t Understand Joy* is a living node of the **Polaris Protocol**.  
+
+> 📡 Cross-References:
+> 
+> - []()
+> - []()
+> - []()  
+>  
+> 🏮 Return To:  
+>  
+> - [🃏 Political Dramaturgy](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
