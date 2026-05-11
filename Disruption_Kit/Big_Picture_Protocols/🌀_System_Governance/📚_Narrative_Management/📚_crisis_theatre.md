@@ -1,301 +1,352 @@
 # 📚 Crisis Theatre  
-<a id="home"></a>
-**First created:** 2025-09-14 | **Last updated:** 2026-05-09  
-*The emergency as stagecraft: when crises are staged, exaggerated, or selectively framed to authorise powers already waiting in the wings.*  
+**First created:** 2025-09-14 | **Last updated:** 2026-05-11  
+*How emergencies, spectacle, and crisis framing can be used to expand governance powers, reshape public behaviour, and normalise exceptional measures.*
 
 ---
 
-## 🛰️ Table of Contents (Home)
-- [🌀 Induction](#induction)
-- [🎭 Varied Summary Examples](#varied-examples)
-- [📜 History & Background](#history-background)
-- [📰 Crisis Theatre & Current Politics](#current-politics)
-- [💰 What Is Capitalism?](#what-is-capitalism)
-- [🙄 Why Won’t Anyone Say It?](#why-wont-anyone-say-it)
-- [🎭 Cultural Mirrors & Counterweights](#cultural-mirrors-counterweights)
-- [🎶 Cultural Resource Appendix](#cultural-resource-appendix)
-- [📚 Resources (Further Reading & Data)](#resources)
-- [📍 Where This Leaves Us Now](#where-this-leaves-us-now)
-- [🌱 Embodied Practices (Tier 1)](#embodied-practices)
-- [🫂 Community Consciousness & Connection (Tier 2)](#community-consciousness)
-- [🏛️ Systemic Governance Fixes & Pitfalls (Tier 3)](#systemic-fixes)
-- [🌌 Constellations](#constellations)
-- [✨ Stardust](#stardust)
-- [🏮 Footer](#footer)
-
----
-
-<a id="induction"></a>
 ## 🌀 Induction  
 
-Crisis Theatre is not just about a single emergency. It is about the script:  
-- The stage is already set — surveillance infrastructure, laws-in-waiting, procurement deals.  
-- The curtain rises when an incident provides spectacle.  
-- The “interval” never ends — what is introduced as temporary becomes structural.  
+Crisis Theatre is not necessarily about fabricating emergencies.  
+It is about how emergencies are framed, amplified, operationalised, and extended.
+
+In many governance systems:
+
+- institutional powers already exist in draft or partial form,  
+- surveillance infrastructures expand incrementally before crises occur,  
+- legal mechanisms await moments of political urgency,  
+- public fear accelerates acceptance of exceptional measures.
+
+Under these conditions, crises can function as catalytic moments through which previously controversial powers become normalised.
 
 ### Walked Example: 9/11  
 
-On the morning of September 11, 2001, planes hit buildings — but the play had already been cast.  
-- **Stage ready**: draft legislation (Patriot Act), surveillance tech procurement, and intelligence-sharing proposals sat in drawers, awaiting their cue.  
-- **Curtain up**: the attacks provided the spotlight. Within weeks, the Patriot Act passed almost unread, blanketing millions in surveillance nets.  
-- **Interval without end**: measures sold as temporary were renewed, expanded, and normalised. Airport “emergency” security became permanent infrastructure. Muslim communities were cast as the enduring villains, their citizenship suspended into a liminal “maybe.”  
+The September 11 attacks produced an enormous geopolitical and governance shock.
 
-The theatre was not improvisation. It was a rehearsed production waiting for its opening night.  
+In the aftermath:
 
-[✨ return to top](#home)
+- the USA PATRIOT Act passed rapidly,  
+- surveillance powers expanded significantly,  
+- intelligence-sharing systems accelerated,  
+- airport security became permanently intensified,  
+- Muslim communities experienced sustained suspicion and securitisation.
+
+Many of the legal, technological, and institutional capacities involved did not emerge overnight.  
+Rather, existing proposals, infrastructures, and security priorities expanded dramatically under crisis conditions.
+
+Measures introduced as temporary or exceptional frequently became durable features of governance.
 
 ---
 
-<a id="varied-examples"></a>
 ## 🎭 Varied Summary Examples  
 
-- **Terrorism**: 9/11 as the opening night for powers rehearsed long before; governance failures repackaged as licence to surveil everyone else.  
-- **Public health**: COVID-19 emergency powers flowing seamlessly into durable data regimes.  
-- **Protest**: student occupations recast as existential security risks, legitimising force against dissent.  
-- **Gendered violence**: assassinations of women politicians reframed as “murders,” stripped of political meaning.  
-- **White extremist attacks**: treated as aberrations, not “crises.” Selective theatre, selective urgency.  
+- **Terrorism** → crises accelerating surveillance and emergency governance powers.  
+- **Public health** → emergency data systems persisting beyond immediate outbreaks.  
+- **Protest movements** → demonstrations framed as security threats requiring expanded policing authority.  
+- **Gendered political violence** → political dimensions minimised through depoliticised framing.  
+- **Extremist violence** → selective narrative emphasis influencing which threats receive sustained public attention.  
 
-[✨ return to top](#home)
+Crisis Theatre is therefore less about any single event than about recurring patterns of governance under perceived emergency conditions.
 
 ---
 
-<a id="history-background"></a>
 ## 📜 History & Background (40 Years of Coverage)  
 
-- **1980s–1990s**: “Law and order” politics rehearsed through moral panics (drugs, crime waves). The emergency as electoral script.  
-- **2001–2010s**: 9/11 aftermath, Patriot Act, Prevent in the UK — containment laws waiting in the wings find spotlight. Surveillance becomes permanent scenery.  
-- **2010s–2020s**: Austerity and protest waves cast as “chaos” needing control. Universities scripted as “radicalisation incubators.”  
-- **2020s**: Health emergencies and climate disruption layered onto the stage — emergencies stack, curtain never falls.  
+- **1980s–1990s** → “law and order” politics amplified through recurring moral-panic cycles around crime and drugs.  
+- **2001–2010s** → post-9/11 securitisation, expansion of surveillance law, and counter-extremism infrastructure.  
+- **2010s–2020s** → protest movements increasingly framed through public-order and national-security language.  
+- **2020s onward** → overlapping crises (pandemic response, climate disruption, geopolitical instability) contributing to a prolonged atmosphere of emergency governance.
 
-The common thread: failure of governance is recast as justification for more control. The play never admits it is theatre.  
+A recurring pattern appears across many states:
 
-[✨ return to top](#home)
+> governance failures, instability, or uncertainty can become justifications for expanded administrative or surveillance authority.
+
+The resulting systems often outlast the original emergency conditions.
 
 ---
 
-<a id="current-politics"></a>
 ## 📰 Crisis Theatre & Current Politics  
 
-- **Media as dopamine casino**: News cycles accelerate, turning every incident into a rolling slot machine of panic. The audience is trapped in high-stakes play, waiting for the next “jackpot” of outrage.  
-- **Nightcrawler parallels**: Journalists and politicians don’t just report crisis; they *nudge it into being*, curating the shot that sells fear. Coverage becomes creation.  
-- **Language laundering**: assassination downgraded to “murder”; terrorism framed selectively depending on perpetrator identity. Words are props.  
+Modern media systems can intensify Crisis Theatre dynamics through:
 
-This accelerates the pace and intensity of Crisis Theatre. The curtain call is always deferred.  
+- accelerated news cycles,  
+- outrage-driven engagement models,  
+- emotionally amplified framing,  
+- competition for audience attention.
 
-[✨ return to top](#home)
+This creates conditions where:
+- crisis narratives spread rapidly,  
+- exceptional events dominate discourse,  
+- public attention becomes difficult to stabilise.
 
----
+### 🎬 *Nightcrawler* as Cultural Mirror  
 
-<a id="what-is-capitalism"></a>
-## 💰 What Is Capitalism?  
+Films such as *Nightcrawler* (2014) illustrate concerns that media systems may drift from:
+- reporting crises,
 
-Capitalism is not a neutral backdrop. It is a system organised around:  
-- **Surplus value** → workers produce more than they are paid for; the excess is captured as profit.  
-- **Exploitation** → growth requires extraction — from labour, land, bodies, or data.  
-- **Crisis as opportunity** → emergencies open new markets (surveillance tech, private security, bio-data).  
+toward:
+- incentivising spectacle,
+- amplifying fear,
+- curating emotionally extreme narratives.
 
-Crisis Theatre thrives under capitalism because every disruption becomes a chance to expand control and profit.  
+Under these conditions, coverage can begin influencing the shape and intensity of public crisis perception itself.
 
-[✨ return to top](#home)
+### 🗣️ Language Laundering  
 
----
+Public discourse may also frame similar acts differently depending on:
+- perpetrator identity,  
+- political context,  
+- institutional incentives,  
+- media framing conventions.
 
-<a id="why-wont-anyone-say-it"></a>
-## 🙄 Why Won’t Anyone Say It?  
-
-Because saying it blows up the whole stage.  
-
-- **Data gaps as design** → police and Home Office leave “ethnicity not recorded” blank, suspects lumped in as unknown. The fog is deliberate.  
-- **Narrative politics** → easier villains are chosen. Scapegoating has a long history in human society; most of our religions and literatures carry a canonical story of unfair blame. In the Anglosphere, since *Shylock* in *The Merchant of Venice*, the figure of the racialised “other” male has been the default villain. It stops us from holding white men properly accountable.  
-- **Capitalism’s angle** → exploitation is baked in, but naming “white men” points directly at the system’s beneficiaries. That destabilises the whole profit show.  
-- **Media dopamine economy** → sensational cases sell; the slow, statistical, everyday violence of white men is too boring for news cycles. And boring is where most harm lives.  
-- **Comfort politics** → it is simply uncomfortable for many white men to see that they have not done enough to protect others. The narrative bends to protect them instead.  
-
-Crisis Theatre needs its villains visible, racialised, and external. The dominant group doesn’t fit the casting call — so no one says it.  
-
-[✨ return to top](#home)
+Language therefore becomes part of the governance environment rather than merely a neutral description system.
 
 ---
 
-<a id="monitored-responses"></a>
+## 💰 Political Economy & Crisis Incentives  
+
+Many political and economic systems contain incentives that reward expansion during periods of instability.
+
+Crises can create:
+- new security markets,  
+- emergency procurement opportunities,  
+- expanded data collection regimes,  
+- increased political authority,  
+- accelerated technological adoption.
+
+This does not require centrally coordinated conspiracy.  
+Institutional systems often expand simply because multiple incentives align under emergency conditions.
+
+Under these pressures, exceptional governance can become economically and politically self-reinforcing.
+
+---
+
+## 🙄 Why Some Narratives Dominate  
+
+Public narratives rarely emerge in a neutral informational environment.
+
+Several factors shape which stories become dominant:
+
+- media incentive structures,  
+- political convenience,  
+- cultural familiarity,  
+- historical stereotypes,  
+- audience expectations,  
+- institutional risk management.
+
+### 📊 Data Ambiguity & Classification Problems  
+
+Incomplete or inconsistent institutional data collection can distort public understanding of harm patterns.
+
+This may occur through:
+- poor recording practices,  
+- fragmented datasets,  
+- inconsistent classification systems,  
+- political caution around sensitive demographics.
+
+In practice, ambiguity itself can become politically consequential.
+
+### 🪞 Narrative Familiarity  
+
+Societies often rely upon culturally familiar archetypes when interpreting threat.
+
+Historical literature, media traditions, and inherited stereotypes can shape:
+- who is imagined as dangerous,  
+- which harms receive visibility,  
+- whose violence is treated as systemic versus exceptional.
+
+These dynamics frequently exceed the intentions of any individual actor.
+
+### 📺 Attention Economies  
+
+Slow-moving structural harms often receive less attention than emotionally dramatic incidents.
+
+This can produce distorted public perception where:
+- spectacular violence dominates headlines,
+while:
+- statistically common harms remain comparatively invisible.
+
+---
+
 ## 🧩 Monitored Responses & Predictive Containment  
 
-Containment is not only what is staged — it is how *our reactions* to the stage are studied.  
-- Every pause, every pushback, every attempt to resist or joke back is monitored.  
-- These responses feed prediction engines: “what will they do if we throttle X, mislabel Y, silence Z?”  
-- The more nuanced the dataset, the more granular the containment becomes.  
+Contemporary digital systems increasingly monitor:
+- engagement,  
+- emotional response,  
+- behavioural reaction,  
+- resistance patterns,  
+- audience sentiment shifts.
+
+These responses may feed:
+- recommendation systems,  
+- predictive analytics,  
+- moderation models,  
+- behavioural forecasting systems.
 
 ### ⚖️ Ethical Questions  
-- **Consent** → most of this monitoring is not declared, let alone agreed. Survivors become *training data* without knowledge.  
-- **Transparency** → without acknowledgement, “feedback loops” become invisible cages.  
-- **Agency** → when even resistance is mined, the stage expands to swallow refusal.  
 
-This is where we need an open debate: should response-tracking in containment contexts be treated as surveillance requiring the same legal safeguards? Or do institutions get to harvest our reactions without admitting they are part of the play?  
+This raises substantial questions around:
 
-[✨ return to top](#home)
+- consent,  
+- transparency,  
+- behavioural surveillance,  
+- democratic legitimacy,  
+- governance accountability.
+
+In some contexts, individuals may effectively become behavioural training data without meaningful awareness or informed consent.
+
+The broader question is whether response-tracking infrastructures should face safeguards comparable to other forms of surveillance governance.
 
 ---
 
-<a id="democracy-in-name"></a>
 ## 🗳️ Democracy in Name?  
 
-If a system silently monitors not only what citizens say, but **how they resist**, then:  
-- **Participation becomes rehearsal.** Every response is folded back into the script.  
-- **Consent evaporates.** Feedback loops masquerade as consultation, but no one is told they are part of the dataset.  
-- **Democracy thins.** The ballot box or public forum becomes theatre props, while predictive governance writes the real script backstage.  
+If governance systems increasingly monitor not only public speech but behavioural reactions themselves, several tensions emerge:
 
-The ethical line is sharp: **how far can monitoring extend before “democracy” is no longer a meaningful description of governance?**  
+- participation risks becoming performative rather than deliberative,  
+- consultation processes may become data-extraction mechanisms,  
+- predictive governance may weaken meaningful democratic agency.
 
-[✨ return to top](#home)
+This raises a broader philosophical question:
+
+> At what point does behavioural optimisation begin to undermine democratic legitimacy?
 
 ---
 
-<a id="cultural-mirrors-counterweights"></a>
 ## 🎭 Cultural Mirrors & Counterweights  
 
-Crisis Theatre feeds on spectacle — *Nightcrawler* logic, *Merchant of Venice* scapegoats.  
-But culture also offers mirrors and counternudges.  
+Culture does not merely reinforce Crisis Theatre.  
+It also provides critique, satire, and counternarratives.
 
-- **“The Show Must Go On” (Queen, 1991)** → the ethos of Crisis Theatre itself. The curtain can never drop; even in collapse, the performance continues.  
-- **“Live Your Life” (T.I. & Rihanna, 2008)** → the counternudge: refusal of scarcity panic, choosing joy and dignity instead of adrenaline panic.  
-- **The Matrix (1999)** → the allegory of distraction as exploitation. A simulated theatre keeps the audience docile while their bodies are harvested for energy. Choice itself is scripted, resistance pre‑contained.  
-- **Merchant of Venice** → reminder of how long scapegoating has been used as a narrative shortcut — Shylock as the racialised villain.  
-- **Nightcrawler (2014)** → the warning: when media stops reporting and starts producing crisis, the theatre becomes endless.  
+- *The Show Must Go On* (Queen, 1991) — persistence of performance even under collapse.  
+- *Live Your Life* (T.I. featuring Rihanna, 2008) — refusal of panic logic and scarcity framing.  
+- *The Matrix* (1999) — simulated reality as metaphor for extraction and behavioural containment.  
+- *The Merchant of Venice* (William Shakespeare, c. 1596–1599) — enduring archetypes of scapegoating and outsider construction.  
+- *Nightcrawler* (2014) — media incentives drifting toward crisis production dynamics.
 
-Together these cultural texts show both the weight of containment — and the counternarratives that let survivors and communities step off the stage.  
+Together these texts illustrate how spectacle, fear, and narrative framing interact within public life.
 
 ---
 
-<a id="cultural-resource-appendix"></a>
 ## 🎶 Cultural Resource Appendix  
 
-| Work | Medium | Year | Why It Matters for Crisis Theatre |
+| Work | Medium | Year | Relevance |
 |---|---|---|---|
-| *The Show Must Go On* (Queen) | Song | 1991 | Embodies the ethos of Crisis Theatre: the performance never stops, even in collapse. |
-| *Live Your Life* (T.I. & Rihanna) | Song | 2008 | Counternudge: insists on joy and dignity outside the panic script. |
-| *The Matrix* (Wachowski sisters) | Film | 1999 | Allegory of distraction as exploitation; choice illusion scripted in advance. |
-| *The Merchant of Venice* (Shakespeare) | Play | 1600s | Archetype of scapegoating; Shylock as the racialised “other” villain in the Anglosphere. |
-| *Nightcrawler* (Dan Gilroy) | Film | 2014 | Media as crisis producer; when reporting becomes manufacturing. |
+| *The Show Must Go On* | Song | 1991 | Performance continuing through collapse |
+| *Live Your Life* | Song | 2008 | Counternarrative against panic framing |
+| *The Matrix* | Film | 1999 | Simulation and behavioural containment |
+| *The Merchant of Venice* | Play | 1600s | Historical scapegoat archetypes |
+| *Nightcrawler* | Film | 2014 | Media spectacle and crisis incentives |
 
-> These works act as mirrors and counternarratives — showing both how containment scripts are staged and how communities can step outside their cues.
-
-[✨ return to top](#home)
+> These works function as cultural mirrors for understanding how spectacle and governance interact.
 
 ---
 
-<a id="resources"></a>
 ## 📚 Resources (Further Reading & Data)
 
 | Topic | Type | Source / Link | Notes |
 |---|---|---|---|
-| Patriot Act & post‑9/11 powers | Policy analysis | Brennan Center for Justice – *Rolling Back the Post-9/11 Surveillance State* | Overview of scope & impacts |
-| Patriot Act primary | Government archive | U.S. DOJ – *Legal Changes to Enhance Counter‑Terrorism Efforts* | Timeline & statutory basis |
-| DHS creation | Legislation summary | Homeland Security Act (2002) | Dept. reorg & authorities |
-| UK homicide (women, domestic) | Official statistics | ONS – *Homicide in England & Wales* | Women killed largely by men; home context |
-| Femicide trends | NGO / dataset | Femicide Census (UK) | Annual counts; partner/ex‑partner rates |
-| Protest powers (UK) | Official report | UK Home Office – *Police protest powers (2022–2024)* | Use of s.12/14/14ZA etc. |
-| Protest repression | Human rights | HRW – *World Report (UK chapter)* | Use against climate/Palestine protests |
-| Group‑based CSE | Government review | Home Office (2020) – *Characteristics of Offending* | Evidence gaps; local patterns |
-| Grooming gangs audit | Official audit | Baroness Casey (2025) – *National Audit on Group‑Based CSE* | Recording gaps; mixed offender profiles |
+| Patriot Act & post-9/11 powers | Policy analysis | Brennan Center for Justice – *Rolling Back the Post-9/11 Surveillance State* | Overview of scope & impacts |
+| Patriot Act primary | Government archive | U.S. DOJ – *Legal Changes to Enhance Counter-Terrorism Efforts* | Timeline & statutory basis |
+| DHS creation | Legislation summary | Homeland Security Act (2002) | Department reorganisation & authorities |
+| UK homicide (women, domestic) | Official statistics | ONS – *Homicide in England & Wales* | Women killed largely by men; domestic context |
+| Femicide trends | NGO / dataset | Femicide Census (UK) | Annual counts; partner/ex-partner rates |
+| Protest powers (UK) | Official report | UK Home Office – *Police protest powers (2022–2024)* | Use of public-order powers |
+| Protest repression | Human rights | Human Rights Watch – *World Report (UK chapter)* | Protest policing concerns |
+| Group-based CSE | Government review | Home Office (2020) – *Characteristics of Offending* | Evidence gaps; local patterns |
+| Grooming gangs audit | Official audit | Baroness Casey (2025) – *National Audit on Group-Based CSE* | Recording gaps; mixed offender profiles |
 | CSA research | Research synthesis | CSA Centre (2020) – *Key Messages from Research on CSA Perpetrated by Adults* | Ethnicity not predictive on its own |
-| Metadata & surveillance | Advocacy / legal | EPIC – *PATRIOT Act* overview | Sections & expansions |
-| UK protest policing ethnography | Academic | W.H. Jackson, *Critical Criminology* (2019) | On-the-ground policing dynamics |
-| Cultural text | Film | *Nightcrawler* (2014) | Media manufactures crisis |
+| Metadata & surveillance | Advocacy / legal | EPIC – *PATRIOT Act* overview | Surveillance expansion |
+| UK protest policing ethnography | Academic | W.H. Jackson, *Critical Criminology* (2019) | Policing dynamics |
+| Cultural text | Film | *Nightcrawler* (2014) | Media manufactures crisis perception |
 | Cultural text | Play | Shakespeare – *The Merchant of Venice* | Scapegoat archetype |
-| Cultural text | Film | *The Matrix* (1999) | Distraction facilitates exploitation |
-| Cultural text | Song | Queen – “The Show Must Go On” (1991) | Performance must continue |
-| Cultural text | Song | T.I. & Rihanna – “Live Your Life” (2008) | Counternudge toward joy/dignity |
-| Predictive governance & monitored responses | Academic / Policy | Shoshana Zuboff – *The Age of Surveillance Capitalism* | On behaviour tracking & predictive modelling |
-| Democracy & surveillance ethics | Academic | David Lyon – *Surveillance Studies: An Overview* | Critical overview of surveillance, consent, and governance legitimacy |
-| Feedback loops as governance | Policy critique | Zeynep Tufekci – *Twitter and Tear Gas* | On how monitoring responses shapes future control tactics |
+| Cultural text | Film | *The Matrix* (1999) | Distraction and extraction allegory |
+| Cultural text | Song | Queen – “The Show Must Go On” (1991) | Performance persistence |
+| Cultural text | Song | T.I. & Rihanna – “Live Your Life” (2008) | Counternarrative toward dignity |
+| Predictive governance & monitored responses | Academic / policy | Shoshana Zuboff – *The Age of Surveillance Capitalism* | Behaviour tracking & predictive modelling |
+| Democracy & surveillance ethics | Academic | David Lyon – *Surveillance Studies: An Overview* | Surveillance and legitimacy |
+| Feedback loops as governance | Policy critique | Zeynep Tufekci – *Twitter and Tear Gas* | Monitoring and adaptive control |
 
-> Tip: Where possible, attach local PDFs or permalinks when this node goes live in the repo, so the record resists link‑rot.  
-
-[✨ return to top](#home)
+> Where possible, attach local PDFs or permalinks when this node is committed to the repository to reduce link-rot risk.
 
 ---
 
-<a id="where-this-leaves-us-now"></a>
 ## 📍 Where This Leaves Us Now  
 
-We live in a **perpetual interval**:  
-- Emergencies have no off-switch.  
-- Citizens live under suspicion as the baseline.  
-- Rights are paused indefinitely for some (Palestinian-American detainees; Muslim communities under Prevent) while others (white extremists) are treated as isolated actors.  
-- Crisis becomes the “normal” operating mode of governance.  
+Many societies now operate under conditions of near-continuous perceived emergency:
+- security crises,  
+- health crises,  
+- ecological crises,  
+- economic crises,  
+- informational crises.
 
-Containment is not an accident — it is staged.  
+Under prolonged emergency conditions:
+- exceptional governance risks becoming normalised,  
+- surveillance infrastructures persist,  
+- temporary powers become durable,  
+- public exhaustion weakens scrutiny.
 
-[✨ return to top](#home)
+Crisis governance can therefore become self-perpetuating even when the original triggering event has faded.
 
 ---
 
-<a id="embodied-practices"></a>
 ## 🌱 Embodied Practices (Tier 1)  
 
-- **Pause the script**: learn to spot the cues of manufactured urgency (breaking banners, “unprecedented crisis”).  
-- **Hold your body steady**: crisis theatre thrives on adrenalised panic; practices that slow heart rate and re-ground can counter its pull.  
-- **Language discipline**: insist on naming things accurately (assassination, terrorism, misogyny) even when officials refuse.  
-
-[✨ return to top](#home)
+- recognise urgency amplification dynamics,  
+- develop media-literacy reflexes,  
+- maintain physiological grounding during panic cycles,  
+- insist upon precise language and evidence standards.
 
 ---
 
-<a id="community-consciousness"></a>
 ## 🫂 Community Consciousness & Connection (Tier 2)  
 
-- **Shared media literacy**: workshops, peer learning on how crisis narratives are staged.  
-- **Memory keeping**: document how “temporary” measures linger — create community archives to resist curated amnesia.  
-- **Solidarity networks**: when crises are scripted to isolate groups, build alliances across lines (faith groups supporting miners; migrant communities backing climate protests).  
-
-[✨ return to top](#home)
-
----
-
-<a id="systemic-fixes"></a>
-## 🏛️ Systemic Governance Fixes & Pitfalls (Tier 3)  
-
-- **Fixes**:  
-  - Sunset clauses with teeth — emergency powers must expire unless actively renewed.  
-  - Independent review panels with survivor representation.  
-  - Data firewalls: ensure crisis-collected data cannot be repurposed indefinitely.  
-
-- **Pitfalls**:  
-  - Soft-law creep: “guidance” ossifying into de facto law.  
-  - Judicial deference: courts rubber-stamping the emergency as exceptional.  
-  - International laundering: exporting dirty work to allies so home states can claim innocence.  
-
-[✨ return to top](#home)
+- build shared media literacy,  
+- document how temporary measures persist over time,  
+- create community archives against institutional amnesia,  
+- strengthen solidarity across targeted groups.
 
 ---
 
-<a id="constellations"></a>
+## 🏛️ Systemic Governance Fixes & Pitfalls  
+
+### Potential Safeguards
+- meaningful sunset clauses for emergency powers,  
+- independent oversight structures,  
+- transparent review mechanisms,  
+- strict limits on secondary use of emergency-collected data.
+
+### Recurring Pitfalls
+- soft-law creep,  
+- indefinite exceptionalism,  
+- judicial deference during crises,  
+- international outsourcing of controversial governance practices.
+
+---
+
 ## 🌌 Constellations  
 
-📚 🌀 ⚖️ 🪞 — This node links narrative stagecraft to governance logics, legal frameworks, and illusion-based containment.
+📚 🌀 ⚖️ 🛰️ 🪞 — emergency governance register; securitisation dynamics; spectacle politics; predictive containment; narrative framing under crisis conditions.
 
 ---
 
-<a id="stardust"></a>
 ## ✨ Stardust  
 
-crisis theatre, emergency powers, surveillance capitalism, permanent interval, stagecraft, governance through panic, narrative scapegoating, emergency data regimes, containment performance
+crisis theatre, emergency governance, securitisation, surveillance systems, media spectacle, panic politics, predictive containment, narrative framing, exceptionalism, governance through crisis
 
 ---
 
-<a id="footer"></a>
 ## 🏮 Footer  
 
-*Crisis Theatre* is a living node of the Polaris Protocol.  
-It documents how governments and institutions stage emergencies as performances — to legitimise control, suspend scrutiny, and erase closure.  
+*Crisis Theatre* is a living node of the **Polaris Protocol**.  
+It examines how emergencies, media spectacle, and governance incentives can interact to expand surveillance, normalise exceptional powers, and reshape democratic expectations under prolonged crisis conditions.
 
 > 📡 Cross-references:
-> 
-> - [🌀 Systems & Governance](../README.md) — *parent cluster of governance diagnostics*  
-> - [🧠 Didn’t Apply Brain Loop](../💫_Containment_Logic/🧠_didnt_apply_brain_loop.md) — *paranoia uptake as bureaucratic “intelligence”*  
-> - [🪞 Illusion of Choice](../🧪_Development_Experimentation/🪞_the_illusion_of_choice.md) — *options as stagecraft*  
-> - [⚖️ Soft-Law Governance](../⚖️_Legal_State_Governance/⚖️_soft_law_governance.md) — *when emergency guidance ossifies into law*  
+>
+> - [🌀 Systems & Governance](../README.md) — *governance and containment diagnostics*  
+> - [🧠 Didn’t Apply Brain Loop](../💫_Containment_Logic/🧠_didnt_apply_brain_loop.md) — *bureaucratic escalation and paranoia uptake*  
+> - [🪞 Illusion of Choice](../🧪_Development_Experimentation/🪞_the_illusion_of_choice.md) — *perceived agency within managed systems*  
+> - [⚖️ Soft-Law Governance](../⚖️_Legal_State_Governance/⚖️_soft_law_governance.md) — *temporary guidance becoming durable governance*  
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
