@@ -1,5 +1,5 @@
 # 🎭 Symbolic Violence in Gendered & Racialised Frames  
-**First created:** 2025-11-20 | **Last updated:** 2026-05-09  
+**First created:** 2025-11-20 | **Last updated:** 2026-05-11  
 *How meaning, interpretation, and institutional framing reproduce domination through gendered and racialised hierarchies.*
 
 ---
@@ -422,4 +422,4 @@ It examines how meaning, interpretation, and institutional framing become instru
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
