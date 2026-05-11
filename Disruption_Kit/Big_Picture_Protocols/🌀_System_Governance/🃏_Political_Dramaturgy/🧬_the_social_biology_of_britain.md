@@ -373,6 +373,14 @@ It frames British governance and institutional behaviour through organismal meta
 > - [🌱 The Broker Class and British Stagnation](./🌱_the_broker_class_and_british_stagnation.md) — *risk aversion and continuity-oriented intermediary classes*  
 > - [🧠 Reputational Lock-In and British Institutions](./🧠_reputational_lock_in_and_british_institutions.md) — *defensive containment and continuity panic*  
 > - [⚖️ Equanimitas and the Stiff Upper Lip](./⚖️_equanimitas_and_the_stiff_upper_lip.md) — *emotional restraint as governance infrastructure*
+>  
+> 🏮 Return To:  
+>  
+> - [🃏 Political Dramaturgy](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
