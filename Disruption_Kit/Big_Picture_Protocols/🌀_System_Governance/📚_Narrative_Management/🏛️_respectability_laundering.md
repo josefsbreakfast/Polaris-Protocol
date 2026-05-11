@@ -306,11 +306,15 @@ respectability laundering, legitimacy transfer, epistemic authority, institution
 It examines how institutions, aesthetics, and legitimacy systems shape public perceptions of expertise, extremism, inquiry, and authority under conditions of political and epistemic instability.
 
 > 📡 Cross-references:
->
-> - [📚 Narrative Management] — *governance of visibility, legitimacy, and communicative control*  
-> - [🏛️ Olympus Syndrome] — *institutional continuity through survivorship and legitimacy inheritance*  
-> - [🎭 Document Theatre] — *procedural performance as reputational governance*  
-> - [🧠 Narrative Exhaustion] — *cognitive overload as democratic destabilisation pressure*
+>  
+> - [🏛️ Olympus Syndrome](../🧠_Apparatchik_Philosophy/🏛️_olympus_syndrome.md) — *institutional continuity through survivorship and legitimacy inheritance*  
+> - [🥕 Tiny Wins — Exhaustion Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🥕_tiny_wins_exhaustion_containment.md) — *cognitive overload as democratic destabilisation pressure*  
+> - [💼 Narrative Capture & Linguistic Power](./💼_narrative_capture_and_linguistic_power.md) — *how language itself becomes governance infrastructure*  
+> - [🏛️ Respectability Laundering](./🏛️_respectability_laundering.md) — *borrowed legitimacy and institutional credibility transfer*  
+> - [🎭 Respectability Theatre](./🎭_respectibility_theatre_bullshit.md) — *manufactured seriousness and performative legitimacy*  
+> - [🦴 Reputational Management as Harm-Producing System](./🦴_reputational_management_as_harm_producing_system.md) — *when reputation-first governance produces systemic harm*  
+> - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *how procedural correctness fails communicative legitimacy*  
+> - [📚 Over Recognition](./📚_over_recognition.md) — *visibility without structural redistribution*  
 >  
 > 🏮 Return To:  
 >  
