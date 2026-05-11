@@ -1,5 +1,5 @@
 # 🫖 Velvet Containment — How the Wealthy Are Also Captured by the Systems Built Around Them  
-**First created:** 2025-11-18 | **Last updated:** 2026-05-09  
+**First created:** 2025-11-18 | **Last updated:** 2026-05-11  
 *A study of how elite actors are not sovereign but curated — managed through narrative, anxiety, and profitable ambiguity.*
 <!--Because if you even try to say, "hey, I think they're completely misrepresenting reality, and you're getting scammed", the system has already flagged that as, "women are liars and snakes and can't be trusted; give us more money to watch them for you." -->
 ---
@@ -250,4 +250,4 @@ It maps how symbolic elites are managed through curated narratives, engineered a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
