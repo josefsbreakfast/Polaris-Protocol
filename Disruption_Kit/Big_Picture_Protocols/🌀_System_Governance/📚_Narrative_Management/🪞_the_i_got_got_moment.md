@@ -1,5 +1,5 @@
 # 🪞 The I Got Got Moment  
-**First created:** 2025-11-23 | **Last updated:** 2026-05-09  
+**First created:** 2025-11-23 | **Last updated:** 2026-05-11  
 *How respectable people realise an event isn’t conservative—it’s alt‑right. The mask‑slip moment that changes everything.*
 
 ---
@@ -93,4 +93,4 @@ i got got, natcon, radicalisation moment, mask slip, deradicalisation testimony,
 *🪞 The I Got Got Moment* is a living node of the Polaris Protocol.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
