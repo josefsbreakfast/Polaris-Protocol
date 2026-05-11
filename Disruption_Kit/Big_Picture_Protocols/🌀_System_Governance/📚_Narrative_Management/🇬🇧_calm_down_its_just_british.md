@@ -187,7 +187,15 @@ It examines how culturally specific rhetorical styles — particularly British u
 
 > 📡 Cross-references:
 >
-> - [Narrative Management](../path/) — *tone, framing, and institutional interpretation systems*  
+> - [Narrative Management](../path/) — *tone, framing, and institutional interpretation systems*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
