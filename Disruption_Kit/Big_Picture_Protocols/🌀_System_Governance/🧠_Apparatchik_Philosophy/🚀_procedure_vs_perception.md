@@ -274,14 +274,20 @@ It documents how institutional legitimacy depends not only on lawful procedure, 
 > 📡 Cross-references:
 >
 > - [🐼 The War Crimes Conundrum](../📚_Narrative_Management/🐼_the_war_crimes_conundrum.md) — *public-interest thresholds and institutional escalation logic*  
-> - [☕️ The Eerie Of Elections — 2026 Edition](../🪄_Expression_Of_Norms/☕️_the_eerie_of_elections_2026_edition.md) — *networked perception, behavioural influence, and electoral mood formation*
->   
-> 🏮 Return To:
->
-> - [📚 Narrative Management](./README.md)
+> - [☕️ The Eerie Of Elections — 2026 Edition](../🪄_Expression_Of_Norms/☕️_the_eerie_of_elections_2026_edition.md) — *networked perception, behavioural influence, and electoral mood formation*  
+> - [💼 Narrative Capture & Linguistic Power](./💼_narrative_capture_and_linguistic_power.md) — *how language itself becomes governance infrastructure*  
+> - [🏛️ Respectability Laundering](./🏛️_respectability_laundering.md) — *borrowed legitimacy and institutional credibility transfer*  
+> - [🎭 Respectability Theatre](./🎭_respectibility_theatre_bullshit.md) — *manufactured seriousness and performative legitimacy*  
+> - [🦴 Reputational Management as Harm-Producing System](./🦴_reputational_management_as_harm_producing_system.md) — *when reputation-first governance produces systemic harm*  
+> - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *how procedural correctness fails communicative legitimacy*  
+> - [📚 Over Recognition](./📚_over_recognition.md) — *visibility without structural redistribution*  
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
