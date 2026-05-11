@@ -129,11 +129,11 @@ It documents how reputation-first governance structures can generate harm throug
 > - [🔥 Reputational Blowback Failure Mode](../💫_Containment_Logic/🔥_reputational_blowback_failure_mode.md) — *exposure generated through over-control and defensive escalation*  
 > - [🧠 Principled Escalation vs Risk-Based Institutions](../💫_Containment_Logic/🧠_principled_escalation_vs_risk_based_institutions.md) — *logic mismatch between ethical persistence and procedural containment*  
 > - [🫀 Duty of Care Reframed as Reputational Risk](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🫀_duty_of_care_reframed_as_reputational_risk.md) — *how safeguarding obligations become optics-management exercises*  
-> - [💼 Narrative Capture & Linguistic Power](./💼_narrative_capture_and_linguistic_power.md) — *how language itself becomes governance infrastructure*  
-> - [🏛️ Respectability Laundering](./🏛️_respectability_laundering.md) — *borrowed legitimacy and institutional credibility transfer*  
-> - [🎭 Respectability Theatre](./🎭_respectibility_theatre_bullshit.md) — *manufactured seriousness and performative legitimacy*  
+> - [💼 Narrative Capture & Linguistic Power](../📚_Narrative_Management/💼_narrative_capture_and_linguistic_power.md) — *how language itself becomes governance infrastructure*  
+> - [🏛️ Respectability Laundering](../📚_Narrative_Management/🏛️_respectability_laundering.md) — *borrowed legitimacy and institutional credibility transfer*  
+> - [🎭 Respectability Theatre](../📚_Narrative_Management/🎭_respectibility_theatre_bullshit.md) — *manufactured seriousness and performative legitimacy*  
 > - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *how procedural correctness fails communicative legitimacy*  
-> - [📚 Over Recognition](./📚_over_recognition.md) — *visibility without structural redistribution*  
+> - [📚 Over Recognition](../📚_Narrative_Management/📚_over_recognition.md) — *visibility without structural redistribution*  
 >  
 > 🏮 Return To:  
 >  
