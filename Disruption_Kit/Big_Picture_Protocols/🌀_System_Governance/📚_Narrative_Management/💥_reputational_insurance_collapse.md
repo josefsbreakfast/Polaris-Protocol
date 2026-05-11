@@ -261,7 +261,15 @@ It maps how synthetic persona failure, sentiment divergence, and narrative insta
 > - [Centroid Collapse](../path/) — *synthetic persona instability and benchmark failure*  
 > - [PR Simulation Breakdown](../path/) — *forecast divergence in institutional narrative systems*  
 > - [Cross-Group Solidarity as Destabiliser](../path/) — *unexpected coalition formation under narrative stress*  
-> - [Diaspora Identity Instability](../path/) — *diaspora-coded deviation from predictive political modelling*  
+> - [Diaspora Identity Instability](../path/) — *diaspora-coded deviation from predictive political modelling*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
