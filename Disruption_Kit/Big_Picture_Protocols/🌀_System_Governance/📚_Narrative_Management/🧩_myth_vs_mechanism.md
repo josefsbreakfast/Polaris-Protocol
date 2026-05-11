@@ -85,8 +85,23 @@ myth, mechanism, propaganda, institutional narrative, humour as method, ir
 
 ## 🏮 Footer  
 
-*Myth vs Mechanism* is a Polaris Protocol concept node.  
+*🧩 Myth vs Mechanism* is a Polaris Protocol concept node.  
 It traces how stories about virtue, competence, and control become architectures of power — and how those myths can be tested through open evidence, irony, and precise observation.  
+
+> 📡 Cross-References:
+> 
+> - [🎭 Reputation as Governance](./🎭_reputation_as_governance.md) — *credibility systems as governance infrastructure*  
+> - [🧠 Narrative Omission Loop](./🧠_narrative_omission_loop.md) — *persistent absences in institutional storytelling*  
+> - [📚 Forensic Silence](./📚_forensic_silence.md) — *meaningful absence within evidentiary systems*  
+> - [🗣️ When Did the Way We Talk Change?](./🗣️_when_did_the_way_we_talk_change.md) — *linguistic containment and conversational drift*  
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
