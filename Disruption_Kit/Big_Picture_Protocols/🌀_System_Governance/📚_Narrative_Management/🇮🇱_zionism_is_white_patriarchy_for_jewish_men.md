@@ -1,5 +1,5 @@
 # 🇮🇱 Zionism Is White Patriarchy for Jewish Men  
-**First created:** 2026-02-01 | **Last updated:** 2026-05-09  
+**First created:** 2026-02-01 | **Last updated:** 2026-05-11  
 *An intersectional feminist analysis of militarisation, racial hierarchy, and patriarchal governance within modern Zionist political structures.*
 
 ---
@@ -288,4 +288,4 @@ It examines how militarisation, nationalism, gender hierarchy, racial stratifica
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
