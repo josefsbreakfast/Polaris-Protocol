@@ -173,7 +173,15 @@ It documents the late-modern shift from ideological conflict to aesthetic mimicr
 > 
 >  - [🪄 Expression of Norms] — *compliance culture & media choreography*  
 >  - [🦕 Elder Influencers → 🕸️ World Webs] — *networked legacy power*  
->  - [🧿 Watch the Watchers] — *optics of authority*  
+>  - [🧿 Watch the Watchers] — *optics of authority*
+>  
+> 🏮 Return To:  
+>  
+> - [🃏 Political Dramaturgy](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
