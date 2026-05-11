@@ -1,5 +1,5 @@
 # ✝️ Why Moralising Disability Is Not Theology  
-**First created:** 2025-12-16 | **Last updated:** 2026-05-09  
+**First created:** 2025-12-16 | **Last updated:** 2026-05-11  
 *How religious language is used to justify abandonment — and why many theological traditions fundamentally challenge that logic.*
 
 ---
@@ -355,4 +355,4 @@ The node argues that many traditions claiming moral authority place care, dignit
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-05-11_
