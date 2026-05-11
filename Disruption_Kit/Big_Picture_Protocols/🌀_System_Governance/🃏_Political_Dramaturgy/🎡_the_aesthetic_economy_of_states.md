@@ -372,12 +372,12 @@ It maps how states accumulate and lose symbolic, emotional, and cultural gravity
 > 
 > - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md)
 > - [🇷🇺 The End of Russia’s Camp Era](../../🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)
-> - [🍿 Imperial Core Drama Cycle](./🍿_imperial_core_drama_cycle.md)
-> - [☕️ The Eerie of Elections — 2026 Edition](./☕️_the_eerie_of_elections_2026_edition.md)
+> - [🍿 Imperial Core Drama Cycle]  
+> - [☕️ The Eerie of Elections — 2026 Edition]  
 >   
 > 🏮 Return To:
 >
-> - [📚 Narrative Management](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
