@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 08:48:29 UTC_
+_Generated on 2026-05-12 08:49:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -212,7 +212,6 @@ _Generated on 2026-05-12 08:48:29 UTC_
         - [`💀_prison_deaths_look_bad_at_the_icj.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/💀_prison_deaths_look_bad_at_the_icj.md)
         - [`📊_risk_capital_and_hunger_strikes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📊_risk_capital_and_hunger_strikes.md)
         - [`📑_civil_servants_are_simply_systems_engineers_who_prefer_tea_to_coffee.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📑_civil_servants_are_simply_systems_engineers_who_prefer_tea_to_coffee.md)
-        - [`📜_duty_to_correct.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_duty_to_correct.md)
         - [`📜_from_survivor_code_to_research_ethics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_from_survivor_code_to_research_ethics.md)
         - [`📜_harm_assessment_protocols.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_harm_assessment_protocols.md)
         - [`📜_she_will_be_cashing_in_her_get.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/📜_she_will_be_cashing_in_her_get.md)
@@ -701,6 +700,7 @@ _Generated on 2026-05-12 08:48:29 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/README.md)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/notes.txt)
         - [`⚖️_institutional_realisation_to_remediation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/⚖️_institutional_realisation_to_remediation.md)
+        - [`📜_duty_to_correct.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/📜_duty_to_correct.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
       - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/notes.txt)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
