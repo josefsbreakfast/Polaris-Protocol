@@ -1,5 +1,5 @@
 # 🕰️ Why Exposure Persists — Structural Causes of Delayed Extraction
-**First created:** 2025-10-13 | **Last updated:** 2025-12-12  
+**First created:** 2025-10-13 | **Last updated:** 2026-05-12  
 *Explains why live probes and vulnerable witnesses often remain exposed long after the data is sufficient.*
 
 ---
@@ -37,4 +37,4 @@ exposure persistence, institutional latency, ethics of observation, duty of care
 
 *In a just system, “wait and see” never outlives “protect and care.”*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-05-12_
