@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 22:28:30 UTC_
+_Generated on 2026-05-12 22:32:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7279,6 +7279,13 @@ _Generated on 2026-05-12 22:28:30 UTC_
     - [`🧭_linear_delegated_authority.md`](🧄_Exousiología/🧭_Authority_Topologies/🧭_linear_delegated_authority.md)
     - [`🧭_recursive_resonant_authority.md`](🧄_Exousiología/🧭_Authority_Topologies/🧭_recursive_resonant_authority.md)
     - [`🧭_vertical_positional_authority.md`](🧄_Exousiología/🧭_Authority_Topologies/🧭_vertical_positional_authority.md)
+  - [**🫀_Embodied_Signals/**](🧄_Exousiología/🫀_Embodied_Signals/)
+    - [`README.md`](🧄_Exousiología/🫀_Embodied_Signals/README.md)
+    - [`🫀_care_load_concentration.md`](🧄_Exousiología/🫀_Embodied_Signals/🫀_care_load_concentration.md)
+    - [`🫀_fatigue_and_burnout.md`](🧄_Exousiología/🫀_Embodied_Signals/🫀_fatigue_and_burnout.md)
+    - [`🫀_hypervigilance_and_silencing.md`](🧄_Exousiología/🫀_Embodied_Signals/🫀_hypervigilance_and_silencing.md)
+    - [`🫀_who_absorbs_shock.md`](🧄_Exousiología/🫀_Embodied_Signals/🫀_who_absorbs_shock.md)
+    - [`🫀_withdrawal_and_exit.md`](🧄_Exousiología/🫀_Embodied_Signals/🫀_withdrawal_and_exit.md)
   - [`README.md`](🧄_Exousiología/README.md)
 - [**🩻_Weirdness_Screening/**](🩻_Weirdness_Screening/)
   - [**🌐_Connection_Hiccups/**](🩻_Weirdness_Screening/🌐_Connection_Hiccups/)
