@@ -343,3 +343,11 @@ If the node is about **what the system does**, route by mechanism.
 If the node is about **how the system explains itself**, route to Narrative.  
 If the node is about **how the system fails to think**, route to Apparatchik Philosophy.  
 If the node is about **how the system can be repaired**, route to Governance Repair Shop.
+
+--- 
+---
+
+clustering a parent for the satire nodes should be a low level bash job.  
+
+---
+---
