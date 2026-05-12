@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 22:32:26 UTC_
+_Generated on 2026-05-12 22:33:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7271,6 +7271,8 @@ _Generated on 2026-05-12 22:32:26 UTC_
     - [`🐍_non_closure_principle.md`](🧄_Exousiología/🌱_Core_Principles/🐍_non_closure_principle.md)
     - [`🕸️_justice_as_load_bearing.md`](🧄_Exousiología/🌱_Core_Principles/🕸️_justice_as_load_bearing.md)
     - [`🪲_resilience_over_optimisation.md`](🧄_Exousiología/🌱_Core_Principles/🪲_resilience_over_optimisation.md)
+  - [**🔬_Methods_Of_Examination/**](🧄_Exousiología/🔬_Methods_Of_Examination/)
+    - [`README.md`](🧄_Exousiología/🔬_Methods_Of_Examination/README.md)
   - [**🧭_Authority_Topologies/**](🧄_Exousiología/🧭_Authority_Topologies/)
     - [`README.md`](🧄_Exousiología/🧭_Authority_Topologies/README.md)
     - [`🧭_cyclical_cosmological_authority.md`](🧄_Exousiología/🧭_Authority_Topologies/🧭_cyclical_cosmological_authority.md)
