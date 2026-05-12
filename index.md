@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 09:01:38 UTC_
+_Generated on 2026-05-12 09:03:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -399,7 +399,6 @@ _Generated on 2026-05-12 09:01:38 UTC_
         - [`🔥_opportunistic_escalation_peri_system_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔥_opportunistic_escalation_peri_system_collapse.md)
         - [`🔥_reputational_blowback_failure_mode.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔥_reputational_blowback_failure_mode.md)
         - [`🔬_lost_checks_and_balances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔬_lost_checks_and_balances.md)
-        - [`🔮_daylight_in_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_daylight_in_governance.md)
         - [`🔮_the_great_divination_machine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_the_great_divination_machine.md)
         - [`🔺_the_alignment_triangle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔺_the_alignment_triangle.md)
         - [`🕯️_survivor_visibility_and_risk_aversion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕯️_survivor_visibility_and_risk_aversion.md)
@@ -695,6 +694,7 @@ _Generated on 2026-05-12 09:01:38 UTC_
         - [`👁️_restoring_epistemic_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/👁️_restoring_epistemic_integrity.md)
         - [`📜_duty_to_correct.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/📜_duty_to_correct.md)
         - [`🔁_post_realisation_phase.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🔁_post_realisation_phase.md)
+        - [`🔮_daylight_in_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🔮_daylight_in_governance.md)
         - [`🧬_how_to_prosecute_power_without_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_how_to_prosecute_power_without_collapse.md)
         - [`🧬_keystone_rca.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_keystone_rca.md)
         - [`🧬_restorative_and_transformative_justice_where_it_actually_works.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_restorative_and_transformative_justice_where_it_actually_works.md)
