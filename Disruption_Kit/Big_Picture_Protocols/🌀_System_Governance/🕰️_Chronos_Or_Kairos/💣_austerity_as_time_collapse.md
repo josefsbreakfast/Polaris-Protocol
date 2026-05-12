@@ -1,5 +1,5 @@
 # 💣 Austerity as Time Collapse  
-**First created:** 2025-11-12 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-12 | **Last updated:** 2026-05-12  
 *How austerity converts time from a public good into a weapon of governance.*  
 
 ---
@@ -172,4 +172,4 @@ It reframes austerity as a temporal governance failure, documenting how degraded
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-05-12_
