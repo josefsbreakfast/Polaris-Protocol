@@ -1,0 +1,1 @@
+🧭_cyclical_cosmological_authority.md
