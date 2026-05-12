@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 08:52:05 UTC_
+_Generated on 2026-05-12 08:53:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -242,7 +242,6 @@ _Generated on 2026-05-12 08:52:05 UTC_
         - [`🧨_the_schmittian_drift_in_exceptional_detention_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧨_the_schmittian_drift_in_exceptional_detention_governance.md)
         - [`🧩_distributed_executive_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧩_distributed_executive_governance.md)
         - [`🧬_irreversible_limits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_irreversible_limits.md)
-        - [`🧬_keystone_rca.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_keystone_rca.md)
         - [`🧬_recycling_violence_through_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_recycling_violence_through_governance.md)
         - [`🧬_restorative_and_transformative_justice_where_it_actually_works.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_restorative_and_transformative_justice_where_it_actually_works.md)
         - [`🧬_what_a_csa_system_optimised_for_prevention_looks_like.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧬_what_a_csa_system_optimised_for_prevention_looks_like.md)
@@ -701,6 +700,7 @@ _Generated on 2026-05-12 08:52:05 UTC_
         - [`📜_duty_to_correct.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/📜_duty_to_correct.md)
         - [`🔁_post_realisation_phase.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🔁_post_realisation_phase.md)
         - [`🧬_how_to_prosecute_power_without_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_how_to_prosecute_power_without_collapse.md)
+        - [`🧬_keystone_rca.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_keystone_rca.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
       - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/notes.txt)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
