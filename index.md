@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 08:59:15 UTC_
+_Generated on 2026-05-12 09:01:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -361,7 +361,6 @@ _Generated on 2026-05-12 08:59:15 UTC_
         - [`🌍_israel_five_eyes_structural_interdependency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌍_israel_five_eyes_structural_interdependency.md)
         - [`🎩_organisational_civility_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🎩_organisational_civility_as_containment.md)
         - [`🎯_single_points_of_failure_as_authoritarian_easy_targets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🎯_single_points_of_failure_as_authoritarian_easy_targets.md)
-        - [`🏗️_corrective_governance_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏗️_corrective_governance_architecture.md)
         - [`🏚️_cultural_drift_toward_coercive_logic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_cultural_drift_toward_coercive_logic.md)
         - [`🏚️_seven_layers_of_safeguard_breakdown.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_seven_layers_of_safeguard_breakdown.md)
         - [`🏛️_institutional_posture_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_institutional_posture_collapse.md)
@@ -692,6 +691,7 @@ _Generated on 2026-05-12 08:59:15 UTC_
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/notes.txt)
         - [`⚖️_institutional_realisation_to_remediation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/⚖️_institutional_realisation_to_remediation.md)
         - [`🌅_rise_of_institutional_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🌅_rise_of_institutional_integrity.md)
+        - [`🏗️_corrective_governance_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🏗️_corrective_governance_architecture.md)
         - [`👁️_restoring_epistemic_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/👁️_restoring_epistemic_integrity.md)
         - [`📜_duty_to_correct.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/📜_duty_to_correct.md)
         - [`🔁_post_realisation_phase.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🔁_post_realisation_phase.md)
