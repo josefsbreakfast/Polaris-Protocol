@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 09:13:50 UTC_
+_Generated on 2026-05-12 09:15:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -151,7 +151,6 @@ _Generated on 2026-05-12 09:13:50 UTC_
         - [`⚖️_monarchical_neutrality_as_structural_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_monarchical_neutrality_as_structural_vulnerability.md)
         - [`⚖️_narrative_control_and_legal_responsibility.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_narrative_control_and_legal_responsibility.md)
         - [`⚖️_non_prosecution_teaches_impunity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_non_prosecution_teaches_impunity.md)
-        - [`⚖️_official_secrets_reform_and_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_official_secrets_reform_and_accountability.md)
         - [`⚖️_options_for_action_high_access_abusers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_options_for_action_high_access_abusers.md)
         - [`⚖️_paying_for_your_porn_is_good_defence_doctrine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_paying_for_your_porn_is_good_defence_doctrine.md)
         - [`⚖️_presumption_of_innocence_and_the_limits_of_exceptional_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_presumption_of_innocence_and_the_limits_of_exceptional_power.md)
@@ -561,6 +560,7 @@ _Generated on 2026-05-12 09:13:50 UTC_
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/notes.txt)
         - [`⚖️_defend_forward_and_sovereign_cyber_response_ladder.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
         - [`⚖️_ipco_audit_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚖️_ipco_audit_cycle.md)
+        - [`⚖️_official_secrets_reform_and_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚖️_official_secrets_reform_and_accountability.md)
       - [**🛰️_Infrastructure_Procurement/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/README.md)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
