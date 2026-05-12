@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 09:06:25 UTC_
+_Generated on 2026-05-12 09:08:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -469,7 +469,6 @@ _Generated on 2026-05-12 09:06:25 UTC_
         - [`🧮_deepthought_datagov_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧮_deepthought_datagov_problem.md)
         - [`🧮_optimisation_and_the_fascism_of_efficiency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧮_optimisation_and_the_fascism_of_efficiency.md)
         - [`🧮_the_unpaid_labour_of_verification.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧮_the_unpaid_labour_of_verification.md)
-        - [`🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md)
         - [`🩹_pain_is_not_a_kpi.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_pain_is_not_a_kpi.md)
         - [`🩹_patch_repair_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_patch_repair_governance.md)
         - [`🩺_governing_doctors_in_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩺_governing_doctors_in_uk.md)
@@ -686,7 +685,6 @@ _Generated on 2026-05-12 09:06:25 UTC_
         - [`🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md)
       - [**🧬_Governance_Repair_Shop/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/README.md)
-        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/notes.txt)
         - [`⚖️_institutional_realisation_to_remediation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/⚖️_institutional_realisation_to_remediation.md)
         - [`🌅_rise_of_institutional_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🌅_rise_of_institutional_integrity.md)
         - [`🏗️_corrective_governance_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🏗️_corrective_governance_architecture.md)
@@ -699,6 +697,7 @@ _Generated on 2026-05-12 09:06:25 UTC_
         - [`🧬_restorative_and_transformative_justice_where_it_actually_works.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_restorative_and_transformative_justice_where_it_actually_works.md)
         - [`🧬_transparency_as_antigenic_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_transparency_as_antigenic_defence.md)
         - [`🧬_what_a_csa_system_optimised_for_prevention_looks_like.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_what_a_csa_system_optimised_for_prevention_looks_like.md)
+        - [`🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md)
         - [`🪡_oversight_repair_kit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🪡_oversight_repair_kit.md)
         - [`🫀_ai_black_box_inquests.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🫀_ai_black_box_inquests.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
