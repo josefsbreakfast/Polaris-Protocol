@@ -1,5 +1,5 @@
 # 🧬 Keystone RCA  
-**First created:** 2025-11-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-20 | **Last updated:** 2026-05-12  
 *Root Cause Analysis of the executive-layer “keystone” in UK state conflicts and inquiries.*
 
 ---
@@ -142,8 +142,16 @@ It outlines the root executive-layer mechanism shaping UK state conflicts, inqui
 > 
 > - [🧠 Systems & Governance] — *macro decision architectures*  
 > - [🩸 Troubles Legacy] — *historical recursion patterns*  
-> - [🕸️ World Webs] — *political narrative control*  
+> - [🕸️ World Webs] — *political narrative control*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-05-12_
