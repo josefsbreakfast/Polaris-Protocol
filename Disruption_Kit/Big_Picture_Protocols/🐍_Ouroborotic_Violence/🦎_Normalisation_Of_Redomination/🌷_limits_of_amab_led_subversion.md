@@ -1,5 +1,7 @@
+<!-- future additions: fanon, kink vs irl (and why this is), add notes on intersections (or link) as reminder/further impacts, add clarity around amab trans women experiencing dysphoria and complexity of therefore being assigned to amab role whilst coerced into affirming male gender even when "higher" social standing, why inversion in humour is still necessary for resistance even if domination picture used and how this can be relief and also how to not reproduce domination in its performance, also btw lit chirality terms, paradox power of language, what gender affirmation is might need clarity -->
+
 # 🌷 Limits Of AMAB-Led Subversion  
-**First created:** 2026-05-04 | **Last updated:** 2026-05-04  
+**First created:** 2026-05-04 | **Last updated:** 2026-05-12  
 *On the structural limits of patriarchal subversion by those assigned male at birth, and the analytical necessity of sexed socialisation language*
 
 ---
@@ -616,4 +618,4 @@ It maps the structural limits of patriarchal subversion from AMAB positions, whi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-04_
+_Last updated: 2026-05-12_
