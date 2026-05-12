@@ -1,5 +1,5 @@
 # ⚖️ Institutional Realisation to Remediation  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-12  
 *How institutions move from recognising failure to managing, limiting, or repairing harm.*  
 
 ---
@@ -135,8 +135,15 @@ It documents how institutions move from recognising harm to selecting remediatio
 > - [🧟‍♀️ PREVENT’s Frankenstack Architecture](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🧟‍♀️_prevents_frankenstack_architecture.md)  
 > - [🐍 Low-Skill Threat Actors, High Systemic Impact](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🐍_low_skill_threat_actors_high_systemic_impact.md)  
 > - [🪬 Professional Profiles with High System Literacy](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪬_professional_profiles_with_high_system_literacy.md)  
-> - [⚖️ Legal & State Governance - Return to README](./README.md)  
+>  
+> 🏮 Return To:  
+>  
+> - [⚖️ Legal & State Governance](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-05-12_
