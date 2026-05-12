@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 01:05:49 UTC_
+_Generated on 2026-05-12 01:07:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -415,8 +415,6 @@ _Generated on 2026-05-12 01:05:49 UTC_
         - [`🔮_the_great_divination_machine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔮_the_great_divination_machine.md)
         - [`🔺_the_alignment_triangle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🔺_the_alignment_triangle.md)
         - [`🕯️_survivor_visibility_and_risk_aversion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕯️_survivor_visibility_and_risk_aversion.md)
-        - [`🕰️_institutional_timescales_of_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕰️_institutional_timescales_of_repair.md)
-        - [`🕰️_why_exposure_persists.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕰️_why_exposure_persists.md)
         - [`🕳️_never_really_leaving_child_abuse_britain_and_the_non_escape.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕳️_never_really_leaving_child_abuse_britain_and_the_non_escape.md)
         - [`🕳️_the_grievance_sinkhole.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕳️_the_grievance_sinkhole.md)
         - [`🕸️_macro_containment_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🕸️_macro_containment_architecture.md)
@@ -494,7 +492,6 @@ _Generated on 2026-05-12 01:05:49 UTC_
         - [`🪖_SAS_special_forces_and_complaints.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪖_SAS_special_forces_and_complaints.md)
         - [`🪖_a_previous_cabinets_errors.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪖_a_previous_cabinets_errors.md)
         - [`🪖_overlap_accountability_and_why_we_cannot_recruit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪖_overlap_accountability_and_why_we_cannot_recruit.md)
-        - [`🪜_temporal_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪜_temporal_containment.md)
         - [`🪞_conditional_whiteness_and_twinning_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_conditional_whiteness_and_twinning_as_containment.md)
         - [`🪞_ethical_censorship_continuum.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_ethical_censorship_continuum.md)
         - [`🪞_misunderstanding_as_risk_signal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪞_misunderstanding_as_risk_signal.md)
@@ -564,6 +561,9 @@ _Generated on 2026-05-12 01:05:49 UTC_
         - [`💣_austerity_as_time_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/💣_austerity_as_time_collapse.md)
         - [`🕰️_citizen_follow_up_timeline_security_breach.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🕰️_citizen_follow_up_timeline_security_breach.md)
         - [`🕰️_eta_drift_and_bureaucratic_time_inflation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🕰️_eta_drift_and_bureaucratic_time_inflation.md)
+        - [`🕰️_institutional_timescales_of_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🕰️_institutional_timescales_of_repair.md)
+        - [`🕰️_why_exposure_persists.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🕰️_why_exposure_persists.md)
+        - [`🪜_temporal_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🪜_temporal_containment.md)
       - [**🚩_Angleland_Ahoy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/README.md)
         - [`♟️_rise_of_the_npm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/♟️_rise_of_the_npm.md)
