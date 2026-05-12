@@ -1,6 +1,6 @@
 # 📜 How to Style Out a Crisis — Kipling for Modern Governance  
-**First created:** 2025-11-12 | **Last updated:** 2026-05-11  
-*A cultural-analysis node examining composure, resilience, and emotional governance through the lens of Rudyard Kipling’s* If—*.*
+**First created:** 2025-11-12 | **Last updated:** 2026-05-13  
+*A cultural-analysis node examining composure, resilience, and emotional governance through the lens of Rudyard Kipling’s* If—*.*  
 
 ---
 
@@ -128,7 +128,7 @@ kipling, if poem, emotional governance, institutional composure, resilience cult
 
 ## 🏮 Footer  
 
-*How to Style Out a Crisis — Kipling for Modern Governance* is a living node of the **Polaris Protocol**.  
+*📜 How to Style Out a Crisis — Kipling for Modern Governance* is a living node of the **Polaris Protocol**.  
 It examines how emotional restraint, composure, and endurance became embedded within institutional and governance cultures — and how literary ideals of resilience continue to shape modern administrative psychology.
 
 > 📡 Cross-references:
@@ -138,7 +138,7 @@ It examines how emotional restraint, composure, and endurance became embedded wi
 >  
 > 🏮 Return To:  
 >  
-> - [📚 Narrative Management](./README.md)
+> - [☕️ Post-Imperial Weather](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
@@ -146,4 +146,4 @@ It examines how emotional restraint, composure, and endurance became embedded wi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
