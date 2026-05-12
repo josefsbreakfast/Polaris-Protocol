@@ -1,5 +1,5 @@
 # 🕰️ ETA Drift & Bureaucratic Time Inflation  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-22  
+**First created:** 2025-11-12 | **Last updated:** 2026-05-12  
 *How official timelines remain fixed while delivery quietly stretches into years.*
 
 ---
@@ -178,4 +178,4 @@ It analyses how time is used as a containment mechanism in administrative system
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2026-05-12_
