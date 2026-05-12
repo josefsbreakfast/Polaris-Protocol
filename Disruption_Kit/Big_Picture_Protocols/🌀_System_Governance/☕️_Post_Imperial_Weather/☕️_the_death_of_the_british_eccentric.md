@@ -1,6 +1,6 @@
 # ☕️ The Death of the British Eccentric  
-**First created:** 2025-12-24 | **Last updated:** 2026-05-11  
-*How risk governance, reputational fear, and procedural conformity narrowed a cultural safety valve.*
+**First created:** 2025-12-24 | **Last updated:** 2026-05-13  
+*How risk governance, reputational fear, and procedural conformity narrowed a cultural safety valve.*  
 
 ---
 
@@ -170,7 +170,7 @@ The node explores how governance environments oriented toward prevention and aud
 >
 > 🏮 Return To:
 >
-> - [📚 Narrative Management](./README.md)
+> - [☕️ Post-Imperial Weather](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
@@ -178,4 +178,4 @@ The node explores how governance environments oriented toward prevention and aud
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
