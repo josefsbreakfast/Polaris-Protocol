@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 22:33:22 UTC_
+_Generated on 2026-05-12 22:35:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7273,6 +7273,12 @@ _Generated on 2026-05-12 22:33:22 UTC_
     - [`🪲_resilience_over_optimisation.md`](🧄_Exousiología/🌱_Core_Principles/🪲_resilience_over_optimisation.md)
   - [**🔬_Methods_Of_Examination/**](🧄_Exousiología/🔬_Methods_Of_Examination/)
     - [`README.md`](🧄_Exousiología/🔬_Methods_Of_Examination/README.md)
+    - [`🔬_comparative_method_notes.md`](🧄_Exousiología/🔬_Methods_Of_Examination/🔬_comparative_method_notes.md)
+    - [`🔬_cosmological_alignment_analysis.md`](🧄_Exousiología/🔬_Methods_Of_Examination/🔬_cosmological_alignment_analysis.md)
+    - [`🔬_folk_and_survival_analysis.md`](🧄_Exousiología/🔬_Methods_Of_Examination/🔬_folk_and_survival_analysis.md)
+    - [`🔬_legal_procedural_analysis.md`](🧄_Exousiología/🔬_Methods_Of_Examination/🔬_legal_procedural_analysis.md)
+    - [`🔬_pathological_failure_analysis.md`](🧄_Exousiología/🔬_Methods_Of_Examination/🔬_pathological_failure_analysis.md)
+    - [`🔬_sociological_legitimacy_analysis.md`](🧄_Exousiología/🔬_Methods_Of_Examination/🔬_sociological_legitimacy_analysis.md)
   - [**🧭_Authority_Topologies/**](🧄_Exousiología/🧭_Authority_Topologies/)
     - [`README.md`](🧄_Exousiología/🧭_Authority_Topologies/README.md)
     - [`🧭_cyclical_cosmological_authority.md`](🧄_Exousiología/🧭_Authority_Topologies/🧭_cyclical_cosmological_authority.md)
