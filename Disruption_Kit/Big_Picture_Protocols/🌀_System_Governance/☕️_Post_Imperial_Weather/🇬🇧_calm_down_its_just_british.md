@@ -1,5 +1,5 @@
 # 🇬🇧 “Calm Down, It’s Just 'British'” — AI Misreading a Nation  
-**First created:** 2025-11-17 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-17 | **Last updated:** 2026-05-13  
 *How differences in British rhetorical culture can create ambiguity, false positives, or tone-misalignment within globally trained AI systems.*
 
 ---
@@ -191,7 +191,7 @@ It examines how culturally specific rhetorical styles — particularly British u
 >  
 > 🏮 Return To:  
 >  
-> - [📚 Narrative Management](./README.md)
+> - [☕️ Post-Imperial Weather](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
@@ -199,4 +199,4 @@ It examines how culturally specific rhetorical styles — particularly British u
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
