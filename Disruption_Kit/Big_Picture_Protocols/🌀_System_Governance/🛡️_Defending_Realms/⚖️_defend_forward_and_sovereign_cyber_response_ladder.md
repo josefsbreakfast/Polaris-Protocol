@@ -1,5 +1,5 @@
 # ⚖️ Defend Forward & Sovereign Cyber Response Ladder  
-**First created:** 2025-10-13 | **Last updated:** 2026-01-22  
+**First created:** 2025-10-13 | **Last updated:** 2026-05-12  
 *An inherited escalation framework under strain in a weightless, reflexive digital world.*  
 
 ---
@@ -204,12 +204,19 @@ It situates inherited cyber escalation frameworks within their historical contex
 > 
 > - [🦑 Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive, ecological pressure mapping*  
 > - [⏳ Governance Latency in Population-Scale Cyber Events](./⏳_governance_latency.md) — *why delay causes real harm*  
-> - [🕸 Metadata Defence](../../../🏮_AntiContainment_Clauses/🕸_metadata_defence.md) — *defence without escalation*
-> - [🌍 Vulnerable Data Populations at FCDO](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md)
-> - [🍉 Who Are the Sock Puppets?](../📚_Narrative_Management/🍉_who_are_the_sock_puppets.md)
-> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md)
-> - [⚖️ Legal & State Governance - Return to README](./README.md)  
+> - [🕸 Metadata Defence](../../../🏮_AntiContainment_Clauses/🕸_metadata_defence.md) — *defence without escalation*  
+> - [🌍 Vulnerable Data Populations at FCDO](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md)  
+> - [🍉 Who Are the Sock Puppets?](../📚_Narrative_Management/🍉_who_are_the_sock_puppets.md)  
+> - [👾 Working Diagnosis: Hunger Strikers Sock-Puppet Campaign](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/👾_working_diagnosis_hunger_strikers_sock_puppet_campaign.md)  
+>  
+> 🏮 Return To:  
+>  
+> - [🛡️ Defending Realms](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-05-12_
