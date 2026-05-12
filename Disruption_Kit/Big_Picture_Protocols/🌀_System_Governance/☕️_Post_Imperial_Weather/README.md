@@ -130,7 +130,14 @@ It maps the emotional climates, symbolic rituals, and cultural coping systems th
 > 
 > - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *speech, legitimacy, and communicative governance*  
 > - [🃏 Political Dramaturgy](../🃏_Political_Dramaturgy/README.md) — *performance, archetype, and symbolic legitimacy systems*  
-> - [🌍 National Storytime](../🌍_National_Storytime/README.md) — *national myths, belonging narratives, and civilisational storytelling*  
+> - [🌍 National Storytime](../🌍_National_Storytime/README.md) — *national myths, belonging narratives, and civilisational storytelling*
+>  
+> 🏮 Return To:  
+>  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
