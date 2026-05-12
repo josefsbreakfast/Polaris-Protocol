@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 09:15:35 UTC_
+_Generated on 2026-05-12 09:17:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -178,7 +178,6 @@ _Generated on 2026-05-12 09:15:35 UTC_
         - [`⚖️_wrong_people_in_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_wrong_people_in_power.md)
         - [`⚠️_the_erosion_of_duty_of_care_under_exception_logic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚠️_the_erosion_of_duty_of_care_under_exception_logic.md)
         - [`❓_why_parliamentary_questions_come_first.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/❓_why_parliamentary_questions_come_first.md)
-        - [`🇷🇺_russia_is_a_threat_when_process_is_weak.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🇷🇺_russia_is_a_threat_when_process_is_weak.md)
         - [`🌀_justice_infrastructure_mismatch_1990s_law_2025_tech.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌀_justice_infrastructure_mismatch_1990s_law_2025_tech.md)
         - [`🌀_rule_of_law_failure_cascade.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌀_rule_of_law_failure_cascade.md)
         - [`🌋_whistleblowers_as_emergency_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌋_whistleblowers_as_emergency_governance.md)
@@ -561,6 +560,7 @@ _Generated on 2026-05-12 09:15:35 UTC_
         - [`⚖️_defend_forward_and_sovereign_cyber_response_ladder.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
         - [`⚖️_ipco_audit_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚖️_ipco_audit_cycle.md)
         - [`⚖️_official_secrets_reform_and_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚖️_official_secrets_reform_and_accountability.md)
+        - [`🇷🇺_russia_is_a_threat_when_process_is_weak.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🇷🇺_russia_is_a_threat_when_process_is_weak.md)
       - [**🛰️_Infrastructure_Procurement/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/README.md)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
