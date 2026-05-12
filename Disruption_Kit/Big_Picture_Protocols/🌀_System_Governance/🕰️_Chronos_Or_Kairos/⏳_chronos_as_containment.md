@@ -1,5 +1,5 @@
 # ⏳ Chronos as Containment  
-**First created:** 2025-11-12 | **Last updated:** 2026-04-24  
+**First created:** 2025-11-12 | **Last updated:** 2026-05-12  
 *How delay, deferral, and procedural timeframes can shape outcomes within institutional systems.*  
 
 ---
@@ -186,4 +186,4 @@ It examines how time, as structured within institutional processes, can influenc
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-05-12_
