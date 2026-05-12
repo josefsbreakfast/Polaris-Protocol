@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 01:03:15 UTC_
+_Generated on 2026-05-12 01:04:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -351,7 +351,6 @@ _Generated on 2026-05-12 01:03:15 UTC_
         - [`⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md)
         - [`⚗️_data_contamination_chain.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚗️_data_contamination_chain.md)
         - [`⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md)
-        - [`⚡_tempo_differential_when_recognition_lags_behind_perception.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚡_tempo_differential_when_recognition_lags_behind_perception.md)
         - [`✂️_engineered_disjuncture_of_allies.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/✂️_engineered_disjuncture_of_allies.md)
         - [`✈_containment_by_crash_risk_management_and_symbolic_deletion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/✈_containment_by_crash_risk_management_and_symbolic_deletion.md)
         - [`❌_no_safe_exit_conditions_how_systems_trap_people_through_structure_not_chains.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/❌_no_safe_exit_conditions_how_systems_trap_people_through_structure_not_chains.md)
@@ -563,6 +562,7 @@ _Generated on 2026-05-12 01:03:15 UTC_
         - [`⏳_chronos_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/⏳_chronos_as_containment.md)
         - [`⏳_governance_latency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/⏳_governance_latency.md)
         - [`⏳_hinge_point_when_delay_becomes_liability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/⏳_hinge_point_when_delay_becomes_liability.md)
+        - [`⚡_tempo_differential.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/⚡_tempo_differential.md)
         - [`🕰️_citizen_follow_up_timeline_security_breach.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🕰️_citizen_follow_up_timeline_security_breach.md)
       - [**🚩_Angleland_Ahoy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/README.md)
