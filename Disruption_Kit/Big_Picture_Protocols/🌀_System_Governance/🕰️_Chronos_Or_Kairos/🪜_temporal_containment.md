@@ -1,5 +1,5 @@
 # 🪜 Temporal Containment — The British Audit Cycle as Suppression Script  
-**First created:** 2025-10-30 | **Last updated:** 2026-01-06  
+**First created:** 2025-10-30 | **Last updated:** 2026-05-12  
 *When the calendar does the censorship.*  
 
 ---
@@ -84,4 +84,4 @@ It documents how the passage of time itself functions as a containment device wi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-05-12_
