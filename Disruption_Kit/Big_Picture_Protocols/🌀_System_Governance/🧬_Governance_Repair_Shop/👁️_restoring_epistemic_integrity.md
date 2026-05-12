@@ -1,5 +1,5 @@
 # 👁️ Restoring Epistemic Integrity  
-**First created:** 2025-11-19 | **Last updated:** 2026-05-08  
+**First created:** 2025-11-19 | **Last updated:** 2026-05-12  
 *How institutions regain control over their data, systems, and decision-making authority after epistemic collapse.*
 
 ---
@@ -260,15 +260,15 @@ It completes the collapse → reconstruction arc by identifying the moment an in
 > - [🧨 We Are Already Paying the Cost](./🧨_we_are_already_paying_the_cost.md)  
 > - [🏗️ Corrective Governance Architecture](../💫_Containment_Logic/🏗️_corrective_governance_architecture.md)  
 >  
-> 🏮 Return To:
+> 🏮 Return To:  
 >
-> - [👑 Ownership & Control](./README.md)
+> - [👑 Ownership & Control](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-12_
