@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 22:55:48 UTC_
+_Generated on 2026-05-12 22:57:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7251,9 +7251,6 @@ _Generated on 2026-05-12 22:55:48 UTC_
   - [`README.md`](🦆_Digital_Disruption/README.md)
 - [**🧄_Exousiología/**](🧄_Exousiología/)
   - [**🌍_Comparative_Civilisational_Models/**](🧄_Exousiología/🌍_Comparative_Civilisational_Models/)
-    - [`README.md`](🧄_Exousiología/🌍_Comparative_Civilisational_Models/README.md)
-    - [`🍵_sinic_mandate_of_heaven.md`](🧄_Exousiología/🌍_Comparative_Civilisational_Models/🍵_sinic_mandate_of_heaven.md)
-    - [`🏛️_roman_imperium_and_potestas.md`](🧄_Exousiología/🌍_Comparative_Civilisational_Models/🏛️_roman_imperium_and_potestas.md)
     - [`🏺_hellenic_exousia.md`](🧄_Exousiología/🌍_Comparative_Civilisational_Models/🏺_hellenic_exousia.md)
     - [`🐚_indigenous_continuity_systems.md`](🧄_Exousiología/🌍_Comparative_Civilisational_Models/🐚_indigenous_continuity_systems.md)
     - [`🐪_egyptian_maat_and_heka.md`](🧄_Exousiología/🌍_Comparative_Civilisational_Models/🐪_egyptian_maat_and_heka.md)
@@ -7261,13 +7258,8 @@ _Generated on 2026-05-12 22:55:48 UTC_
     - [`📿_vedic_dharma_and_rta.md`](🧄_Exousiología/🌍_Comparative_Civilisational_Models/📿_vedic_dharma_and_rta.md)
   - [**🌍_Comparative_Systems/**](🧄_Exousiología/🌍_Comparative_Systems/)
     - [`README.md`](🧄_Exousiología/🌍_Comparative_Systems/README.md)
-    - [`🌍_egyptian_maat_and_heka.md`](🧄_Exousiología/🌍_Comparative_Systems/🌍_egyptian_maat_and_heka.md)
-    - [`🌍_hellenic_exousia.md`](🧄_Exousiología/🌍_Comparative_Systems/🌍_hellenic_exousia.md)
-    - [`🌍_indigenous_continuity_systems.md`](🧄_Exousiología/🌍_Comparative_Systems/🌍_indigenous_continuity_systems.md)
-    - [`🌍_modern_bureaucratic_power.md`](🧄_Exousiología/🌍_Comparative_Systems/🌍_modern_bureaucratic_power.md)
-    - [`🌍_roman_imperium_and_potestas.md`](🧄_Exousiología/🌍_Comparative_Systems/🌍_roman_imperium_and_potestas.md)
-    - [`🌍_sinic_mandate_of_heaven.md`](🧄_Exousiología/🌍_Comparative_Systems/🌍_sinic_mandate_of_heaven.md)
-    - [`🌍_vedic_dharma_and_rta.md`](🧄_Exousiología/🌍_Comparative_Systems/🌍_vedic_dharma_and_rta.md)
+    - [`🍵_sinic_mandate_of_heaven.md`](🧄_Exousiología/🌍_Comparative_Systems/🍵_sinic_mandate_of_heaven.md)
+    - [`🏛️_roman_imperium_and_potestas.md`](🧄_Exousiología/🌍_Comparative_Systems/🏛️_roman_imperium_and_potestas.md)
   - [**🌱_Core_Principles/**](🧄_Exousiología/🌱_Core_Principles/)
     - [` 🌑_what_is_authority.md`](🧄_Exousiología/🌱_Core_Principles/ 🌑_what_is_authority.md)
     - [` 🐙_scope_and_limits.md`](🧄_Exousiología/🌱_Core_Principles/ 🐙_scope_and_limits.md)
