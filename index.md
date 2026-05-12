@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 00:20:56 UTC_
+_Generated on 2026-05-12 00:30:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -262,6 +262,7 @@ _Generated on 2026-05-12 00:20:56 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/README.md)
         - [`☔️_restorative_justice_in_a_shame_culture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/☔️_restorative_justice_in_a_shame_culture.md)
         - [`⚖️_equanimitas_and_the_stiff_upper_lip.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/⚖️_equanimitas_and_the_stiff_upper_lip.md)
+        - [`✈️_crash_logic_state_grief_and_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/✈️_crash_logic_state_grief_and_erasure.md)
         - [`🌐_late_stage_autocracy_vibe_diagnostics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🌐_late_stage_autocracy_vibe_diagnostics.md)
         - [`🌱_the_broker_class_and_british_stagnation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🌱_the_broker_class_and_british_stagnation.md)
         - [`🌿_xylem_and_phloem_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🌿_xylem_and_phloem_governance.md)
@@ -517,7 +518,6 @@ _Generated on 2026-05-12 00:20:56 UTC_
         - [`political_two_axis_model_coloured.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/political_two_axis_model_coloured.png)
         - [`political_two_axis_model_diagram.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/political_two_axis_model_diagram.png)
         - [`✈️_classy_if_youre_rich.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✈️_classy_if_youre_rich.md)
-        - [`✈️_crash_logic_state_grief_and_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✈️_crash_logic_state_grief_and_erasure.md)
         - [`✝️_why_moralising_disability_is_not_theology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/✝️_why_moralising_disability_is_not_theology.md)
         - [`🇮🇱_zionism_is_white_patriarchy_for_jewish_men.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🇮🇱_zionism_is_white_patriarchy_for_jewish_men.md)
         - [`🌀_uk_low_cost_influence_environment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🌀_uk_low_cost_influence_environment.md)
