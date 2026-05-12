@@ -1,5 +1,5 @@
 # 🪖 Classification, Suppression, and Misuse  
-**First created:** 2025-12-24 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-24 | **Last updated:** 2026-05-12  
 *Key governance failure modes where secrecy regimes obstruct lawful disclosure.*  
 
 ---
@@ -137,19 +137,27 @@ classification misuse, over-classification, institutional silence, whistleblower
 
 ## 🏮 Footer
 
-*Classification, Suppression, and Misuse* is a living node of the **Polaris Protocol**.  
+*🪖 Classification, Suppression, and Misuse* is a living node of the **Polaris Protocol**.  
 It documents recognised governance failure modes where secrecy frameworks obstruct lawful disclosure without explicit refusal.
 
 > 📡 Cross-references:
 > 
 > - [⚖️ Official Secrets Reform and Accountability](./⚖️_official_secrets_reform_and_accountability.md)  
 > - [📮 OSA Flag Clarification Request (Template)](../../../Survivor_Tools/📱_Digital_But_Make_It_Secure/📮_osa_flag_clarification_request.md)  
-> - [🦠 Systemic Porosity — When Legal Flexibility Becomes National-Security Debt](../👑_Ownership_Control/🦠_systemic_porosity.md)
+> - [🦠 Systemic Porosity — When Legal Flexibility Becomes National-Security Debt](../👑_Ownership_Control/🦠_systemic_porosity.md)  
 > - [⚖️ Consent and Purpose Limitation Failure in ML R&D](../🧪_Development_Experimentation/⚖️_consent_and_purpose_limitation_failure_in_ml_rnd.md)  
-> - [🧬 Distributed Complicity In Modern Warfare](../👑_Ownership_Control/🧬_distributed_complicity_in_modern_warfare.md)
-> - [🌀 Docility Engine](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md)
+> - [🧬 Distributed Complicity In Modern Warfare](../👑_Ownership_Control/🧬_distributed_complicity_in_modern_warfare.md)  
+> - [🌀 Docility Engine](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md)  
 > - [🗞️ Docility Engine Print Edition](../../🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🗞️_docility_engine_print_edition.md)  
-<!--I could have made more pointed crosslinks, but I will pause.-->
+>  
+> 🏮 Return To:  
+>  
+> - [🛡️ Defending Realms](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-05-12_
