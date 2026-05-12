@@ -1,6 +1,6 @@
 # 📜 Loss Management and the Performance of Composure  
-**First created:** 2025-11-12 | **Last updated:** 2026-05-11  
-*A cultural-analysis node examining composure, endurance, and reputational recovery through the “heap of all your winnings” stanza in Rudyard Kipling’s* If—*.*
+**First created:** 2025-11-12 | **Last updated:** 2026-05-13  
+*A cultural-analysis node examining composure, endurance, and reputational recovery through the “heap of all your winnings” stanza in Rudyard Kipling’s* If—*.*  
 
 ---
 
@@ -145,11 +145,11 @@ It examines how cultural ideals of restraint, endurance, and emotional disciplin
 > 📡 Cross-references:
 >
 > - [📜 How to Style Out a Crisis — Kipling for Modern Governance](../path/) — *administrative composure and emotional governance culture*  
-> - [⚖️ Official Secrets Reform and Accountability](../path/) — *institutional opacity, legitimacy, and reputational management*
+> - [⚖️ Official Secrets Reform and Accountability](../path/) — *institutional opacity, legitimacy, and reputational management*  
 >  
 > 🏮 Return To:  
 >  
-> - [📚 Narrative Management](./README.md)
+> - [☕️ Post-Imperial Weather](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
@@ -157,4 +157,4 @@ It examines how cultural ideals of restraint, endurance, and emotional disciplin
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
