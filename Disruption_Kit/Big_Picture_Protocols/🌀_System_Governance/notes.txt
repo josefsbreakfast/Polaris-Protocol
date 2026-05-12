@@ -81,3 +81,33 @@ Disruption_Kit/
     🕰️_Chronos_Or_Kairos/
     🛡️_Defending_Realms/
     🧬_Governance_Repair_Shop/
+
+---
+---
+
+5. Obvious Duplicate / Typo Fixes
+
+These need cleanup:
+
+💷_procurement_culture_and_departmental_clashes.md
+💷_procurement_culture_dept_clashes.md
+
+Pick one. I’d keep:
+
+💷_procurement_culture_and_departmental_clashes.md
+
+Also fix:
+
+🚀_mordernising_information_defence.md
+
+to:
+
+🚀_modernising_information_defence.md
+
+And this one breaks house style slightly because of uppercase:
+
+🪖_SAS_special_forces_and_complaints.md
+
+Better:
+
+🪖_sas_special_forces_and_complaints.md
