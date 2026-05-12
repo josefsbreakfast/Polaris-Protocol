@@ -1,6 +1,6 @@
 # 🫀 AI Black Box Inquests  
-**First created:** 2025-11-06 | **Last updated:** 2026-05-08  
-*Ownership collapse and mandate misfit in AI-linked harm investigations.*
+**First created:** 2025-11-06 | **Last updated:** 2026-05-12  
+*Ownership collapse and mandate misfit in AI-linked harm investigations.*  
 
 ---
 
@@ -281,16 +281,16 @@ It examines AI-linked harm through the lens of investigative ownership and manda
 > 
 > - [⚖️ Architecture of Complicity](./⚖️_architecture_of_complicity.md) — *distributed responsibility under system failure*  
 > - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *shielded authority in optimisation regimes*  
-> - [📚 Memory, Market, and the Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md) — *extractive custody and epistemic power*
+> - [📚 Memory, Market, and the Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md) — *extractive custody and epistemic power*  
 >   
 > 🏮 Return To:
 >
-> - [👑 Ownership & Control](./README.md)
+> - [👑 Ownership & Control](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-12_
