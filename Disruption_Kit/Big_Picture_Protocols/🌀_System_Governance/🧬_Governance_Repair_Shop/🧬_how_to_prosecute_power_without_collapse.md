@@ -1,5 +1,5 @@
 # 🧬 How to Prosecute Power Without Collapse  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-05-12  
 *Designing elite accountability so institutions bend without breaking.*  
 
 ---
@@ -236,9 +236,16 @@ It documents how elite accountability can be structured to strengthen — not de
 > - [⚖️ Risk Aversion Is Policy](./⚖️_risk_aversion_is_policy.md) — *why fear governs*  
 > - [⚖️ Non-Prosecution Teaches Impunity](./⚖️_non_prosecution_teaches_impunity.md) — *behavioural costs*  
 > - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *constitutional risk*  
-> - [🧬 What a CSA System Optimised for Prevention Looks Like](./🧬_what_a_csa_system_optimised_for_prevention_looks_like.md) — *design-first thinking*
-> - [⚖️ Legal & State Governance - Return to README](./README.md)  
+> - [🧬 What a CSA System Optimised for Prevention Looks Like](./🧬_what_a_csa_system_optimised_for_prevention_looks_like.md) — *design-first thinking*  
+>  
+> 🏮 Return To:  
+>  
+> - [⚖️ Legal & State Governance](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-05-12_
