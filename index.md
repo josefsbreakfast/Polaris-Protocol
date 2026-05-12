@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 22:15:50 UTC_
+_Generated on 2026-05-12 22:18:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6831,6 +6831,12 @@ _Generated on 2026-05-12 22:15:50 UTC_
     - [`new_harm_log.ps1`](scripts/maintenance/new_harm_log.ps1)
     - [`template_entry.md`](scripts/maintenance/template_entry.md)
 - [**⚗️_Apothecary/**](⚗️_Apothecary/)
+  - [**🌡️_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/)
+    - [**💛_Choleric_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/)
+      - [`README.md`](⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/README.md)
+    - [**🖤_Melancholic_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/)
+      - [`README.md`](⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/README.md)
+    - [`README.md`](⚗️_Apothecary/🌡️_Constitutions/README.md)
   - [`README.md`](⚗️_Apothecary/README.md)
 - [**👻_Apparitional_Objects/**](👻_Apparitional_Objects/)
   - [**🍽️_Fork_Taxonomy/**](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/)
