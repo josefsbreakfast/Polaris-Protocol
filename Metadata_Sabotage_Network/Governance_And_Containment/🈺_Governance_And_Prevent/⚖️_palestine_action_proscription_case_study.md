@@ -1,5 +1,5 @@
 # ⚖️ Case Study: Palestine Action & Proscription Under Legal Ambiguity  
-**First created:** 2025-12-13 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-13 | **Last updated:** 2026-05-12  
 *A live case study of how legal indeterminacy, political pressure, and institutional stress produce enforcement instability.*
 
 ---
@@ -134,7 +134,12 @@ Its purpose is diagnostic:
 ---
 
 ## 🌌 Constellations  
-⚖️ 🪖 🧠 🧿 🛰️ 🏯 — legal ambiguity, coercive authority, institutional stress, narrative instability, governance signalling.
+⚖️ 🪖 🧠 🧿 🛰️ 🏯 — legal ambiguity, coercive authority, institutional stress, narrative instability, governance signalling.  
+
+*Further reading:*  
+
+- [📺: The Katie Halper Show: "Max Blumenthal EXPOSES Israel's Control
+Over UK Legal System"](https://youtu.be/UTRwFcDf9q8?si=9VUbMJBHy4hD-THR)  
 
 ---
 
@@ -157,4 +162,4 @@ It documents real-time institutional dynamics when policing is required to act u
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-05-12_
