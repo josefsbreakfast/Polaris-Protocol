@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 22:39:26 UTC_
+_Generated on 2026-05-12 22:42:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7271,6 +7271,13 @@ _Generated on 2026-05-12 22:39:26 UTC_
     - [`🐍_non_closure_principle.md`](🧄_Exousiología/🌱_Core_Principles/🐍_non_closure_principle.md)
     - [`🕸️_justice_as_load_bearing.md`](🧄_Exousiología/🌱_Core_Principles/🕸️_justice_as_load_bearing.md)
     - [`🪲_resilience_over_optimisation.md`](🧄_Exousiología/🌱_Core_Principles/🪲_resilience_over_optimisation.md)
+  - [**🔥_Modes_Of_Change/**](🧄_Exousiología/🔥_Modes_Of_Change/)
+    - [`README.md`](🧄_Exousiología/🔥_Modes_Of_Change/README.md)
+    - [`🔥_adaptive_reform.md`](🧄_Exousiología/🔥_Modes_Of_Change/🔥_adaptive_reform.md)
+    - [`🔥_patching_and_harm_reduction.md`](🧄_Exousiología/🔥_Modes_Of_Change/🔥_patching_and_harm_reduction.md)
+    - [`🔥_phoenix_and_rebirth_logics.md`](🧄_Exousiología/🔥_Modes_Of_Change/🔥_phoenix_and_rebirth_logics.md)
+    - [`🔥_transformative_emergence.md`](🧄_Exousiología/🔥_Modes_Of_Change/🔥_transformative_emergence.md)
+    - [`🔥_when_change_is_not_optional.md`](🧄_Exousiología/🔥_Modes_Of_Change/🔥_when_change_is_not_optional.md)
   - [**🔬_Methods_Of_Examination/**](🧄_Exousiología/🔬_Methods_Of_Examination/)
     - [`README.md`](🧄_Exousiología/🔬_Methods_Of_Examination/README.md)
     - [`🔬_comparative_method_notes.md`](🧄_Exousiología/🔬_Methods_Of_Examination/🔬_comparative_method_notes.md)
