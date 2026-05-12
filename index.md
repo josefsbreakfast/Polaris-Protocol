@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-11 20:41:39 UTC_
+_Generated on 2026-05-12 00:20:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6820,6 +6820,8 @@ _Generated on 2026-05-11 20:41:39 UTC_
     - [`merge_harm_log.ps1`](scripts/maintenance/merge_harm_log.ps1)
     - [`new_harm_log.ps1`](scripts/maintenance/new_harm_log.ps1)
     - [`template_entry.md`](scripts/maintenance/template_entry.md)
+- [**⚗️_Apothecary/**](⚗️_Apothecary/)
+  - [`README.md`](⚗️_Apothecary/README.md)
 - [**👻_Apparitional_Objects/**](👻_Apparitional_Objects/)
   - [**🍽️_Fork_Taxonomy/**](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/)
     - [`README.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/README.md)
