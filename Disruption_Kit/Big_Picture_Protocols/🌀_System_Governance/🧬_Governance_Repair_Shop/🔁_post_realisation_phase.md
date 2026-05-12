@@ -1,5 +1,5 @@
 # 🔁 Post-Realisation Phase  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-12  
 *What institutions do after recognising procedural failure — and before accountability.*  
 
 ---
@@ -350,9 +350,16 @@ It documents the stabilisation behaviours institutions adopt after recognising f
 > 📡 Cross-references:
 > 
 > - [🗂️ When the System Realises It Fucked Up](../📚_Narrative_Management/🗂️_when_the_system_realises_it_fucked_up.md)  
-> - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md)
-> - [⚖️ Legal & State Governance - Return to README](./README.md)  
+> - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md)  
+>  
+> 🏮 Return To:  
+>  
+> - [⚖️ Legal & State Governance](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-05-12_
