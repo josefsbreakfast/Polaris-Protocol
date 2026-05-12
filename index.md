@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 09:03:44 UTC_
+_Generated on 2026-05-12 09:05:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -460,7 +460,6 @@ _Generated on 2026-05-12 09:03:44 UTC_
         - [`🧬_harm_without_perpetrators_the_architecture_failure_model.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_harm_without_perpetrators_the_architecture_failure_model.md)
         - [`🧬_how_gossip_shapes_risk_flags.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_how_gossip_shapes_risk_flags.md)
         - [`🧬_multi_year_pipeline_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_multi_year_pipeline_architecture.md)
-        - [`🧬_transparency_as_antigenic_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_transparency_as_antigenic_defence.md)
         - [`🧬_two_sided_dependency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_two_sided_dependency.md)
         - [`🧭_are_we_fascist_yet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧭_are_we_fascist_yet.md)
         - [`🧭_data_slip_to_narrative_spiral.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧭_data_slip_to_narrative_spiral.md)
@@ -698,6 +697,7 @@ _Generated on 2026-05-12 09:03:44 UTC_
         - [`🧬_how_to_prosecute_power_without_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_how_to_prosecute_power_without_collapse.md)
         - [`🧬_keystone_rca.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_keystone_rca.md)
         - [`🧬_restorative_and_transformative_justice_where_it_actually_works.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_restorative_and_transformative_justice_where_it_actually_works.md)
+        - [`🧬_transparency_as_antigenic_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_transparency_as_antigenic_defence.md)
         - [`🧬_what_a_csa_system_optimised_for_prevention_looks_like.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_what_a_csa_system_optimised_for_prevention_looks_like.md)
         - [`🪡_oversight_repair_kit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🪡_oversight_repair_kit.md)
         - [`🫀_ai_black_box_inquests.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🫀_ai_black_box_inquests.md)
