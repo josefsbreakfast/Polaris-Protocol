@@ -111,3 +111,235 @@ And this one breaks house style slightly because of uppercase:
 Better:
 
 🪖_sas_special_forces_and_complaints.md
+
+---
+---
+
+# 🌀 System Governance Routing Flow
+
+**Question:** Is this node about how systems, institutions, states, or governance structures behave?
+
+If **no** → route outside `🌀_System_Governance/`.
+
+If **yes** → ask:
+
+---
+
+## 1. Is It Mainly About Law, Courts, Formal Authority, Or Constitutional Process?
+
+➡️ `⚖️_Legal_State_Governance/`
+
+Use for:
+- courts
+- prosecution
+- parliament
+- inquiries
+- legal powers
+- constitutional safeguards
+- rights, duties, liability, redress
+
+---
+
+## 2. Is It Mainly About Delay, Timing, Latency, Or Windows Of Action?
+
+➡️ `🕰️_Chronos_Or_Kairos/`
+
+Use for:
+- delay as harm
+- governance latency
+- timing failures
+- bureaucratic time
+- pacing, drift, waiting
+- “too early / too late” decision points
+
+---
+
+## 3. Is It Mainly About Defence, Security, Secrecy, Or Threat Response?
+
+➡️ `🛡️_Defending_Realms/`
+
+Use for:
+- national security
+- cyber
+- intelligence
+- classification
+- secrecy
+- hybrid threats
+- democratic defence
+- hostile-state vulnerability
+
+---
+
+## 4. Is It Mainly About Repair, Remediation, Oversight, Or Rebuilding Trust?
+
+➡️ `🧬_Governance_Repair_Shop/`
+
+Use for:
+- transparency
+- corrective architecture
+- duty to correct
+- remediation
+- oversight repair
+- restorative governance
+- post-realisation response
+
+---
+
+## 5. Is It Mainly About Containment, Suppression, Institutional Freezing, Or Control Through Process?
+
+➡️ `💫_Containment_Logic/`
+
+Use for:
+- containment mechanics
+- silence systems
+- reputational freezing
+- process traps
+- no-safe-exit structures
+- institutional immobilisation
+- coercive ambiguity
+
+---
+
+## 6. Is It Mainly About Narrative, Media, Reputation, Framing, Or Public Meaning?
+
+➡️ `📚_Narrative_Management/`
+
+Use for:
+- PR logic
+- reputational governance
+- press cycles
+- symbolic framing
+- apology theatre
+- narrative capture
+- public trust language
+
+---
+
+## 7. Is It Mainly About Procurement, Infrastructure, Vendors, Or Technical State Capacity?
+
+➡️ `🛰️_Infrastructure_Procurement/`
+
+Use for:
+- outsourcing
+- vendor lock-in
+- surveillance infrastructure
+- bad procurement
+- public-sector tech stacks
+- capability gaps
+- contractor chains
+
+---
+
+## 8. Is It Mainly About Ownership, Control, Sovereignty, Donors, Or Immunity?
+
+➡️ `👑_Ownership_Control/`
+
+Use for:
+- who benefits
+- who controls
+- donor structures
+- institutional immunity
+- sovereignty gaps
+- ownership of risk
+- accountability avoidance
+
+---
+
+## 9. Is It Mainly About Institutional Psychology, Misreading, Reasoning Failure, Or Apparatchik Logic?
+
+➡️ `🧠_Apparatchik_Philosophy/`
+
+Use for:
+- overconfident misreading
+- procedural psychology
+- dashboard delusion
+- institutional cognition
+- “reasonable people reaching wrong conclusions”
+- perception vs procedure failures
+
+---
+
+## 10. Is It Mainly About Political Theatre, Archetypes, Aesthetics, Or State Performance?
+
+➡️ `🃏_Political_Dramaturgy/`
+
+Use for:
+- political archetypes
+- aesthetic collapse
+- political theatre
+- emotional statecraft
+- symbolic performance
+- bureaucratic character types
+
+---
+
+## 11. Is It Mainly About National Myths, Ideological Storylines, Or Geopolitical Identity?
+
+➡️ `🌍_National_Storytime/`
+
+Use for:
+- national myths
+- ideological narratives
+- trauma sovereignty
+- party identity myths
+- geopolitical self-image
+- inherited political stories
+
+---
+
+## 12. Is It Mainly About Post-Imperial Britain, Composure, Eccentricity, Or British Afterweather?
+
+➡️ `☕️_Post_Imperial_Weather/`
+
+Use for:
+- Britishness
+- imperial afterlife
+- postcolonial melancholia
+- flags and catharsis
+- British eccentricity
+- laughing at the ruling class
+- composure rituals
+
+---
+
+## 13. Is It Mainly About Experiments, Pilots, R&D Ethics, Sandboxes, Or Frankenstacks?
+
+➡️ `🧪_Development_Experimentation/`
+
+Use for:
+- pilots
+- experiments
+- R&D ethics
+- behavioural sandboxes
+- consent failure
+- frankenstack systems
+- “innovation” as risk laundering
+
+---
+
+## 14. Is It Satirical Governance Worldbuilding?
+
+➡️ `🚩_Angleland_Ahoy/`
+
+Use for:
+- fictional committees
+- satirical statecraft
+- character sheets
+- worldbuilding governance parody
+
+---
+
+## 15. Is It Absurdist Defence Doctrine / Biscuit Archive Material?
+
+➡️ `🧊_Antarctic_Biscuit_Defence_Directory/`
+
+Use for:
+- biscuit defence
+- cookie leaks
+- parody doctrine
+- absurdist secrecy exercises  
+
+If the node is about **what the system does**, route by mechanism.  
+If the node is about **how the system explains itself**, route to Narrative.  
+If the node is about **how the system fails to think**, route to Apparatchik Philosophy.  
+If the node is about **how the system can be repaired**, route to Governance Repair Shop.
