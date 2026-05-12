@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 01:07:58 UTC_
+_Generated on 2026-05-12 01:08:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -439,7 +439,6 @@ _Generated on 2026-05-12 01:07:58 UTC_
         - [`🦑_toxic_systems_dont_need_monsters.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦑_toxic_systems_dont_need_monsters.md)
         - [`🦕_post_modern_fellow_travellers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦕_post_modern_fellow_travellers.md)
         - [`🦠_toxic_legitimacy_cycles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦠_toxic_legitimacy_cycles.md)
-        - [`🦯_algorithmic_delay_and_pacing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦯_algorithmic_delay_and_pacing.md)
         - [`🧀_swiss_cheese_multi_agency_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧀_swiss_cheese_multi_agency_failure.md)
         - [`🧊_the_freeze_sector_wide_silence_handling_pattern.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧊_the_freeze_sector_wide_silence_handling_pattern.md)
         - [`🧠_bureaucratic_fast_thinking_and_reputational_harm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_bureaucratic_fast_thinking_and_reputational_harm.md)
@@ -563,6 +562,7 @@ _Generated on 2026-05-12 01:07:58 UTC_
         - [`🕰️_eta_drift_and_bureaucratic_time_inflation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🕰️_eta_drift_and_bureaucratic_time_inflation.md)
         - [`🕰️_institutional_timescales_of_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🕰️_institutional_timescales_of_repair.md)
         - [`🕰️_why_exposure_persists.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🕰️_why_exposure_persists.md)
+        - [`🦯_algorithmic_delay_and_pacing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🦯_algorithmic_delay_and_pacing.md)
         - [`🪜_temporal_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🪜_temporal_containment.md)
       - [**🚩_Angleland_Ahoy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/README.md)
