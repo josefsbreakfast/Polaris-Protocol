@@ -6,3 +6,5 @@
 │ ├── 🍵_sinic_mandate_of_heaven.md
 │ ├── 🐚_indigenous_continuity_systems.md
 │ └── 💼_modern_bureaucratic_power.md
+
+🌍_Comparative_Systems/
