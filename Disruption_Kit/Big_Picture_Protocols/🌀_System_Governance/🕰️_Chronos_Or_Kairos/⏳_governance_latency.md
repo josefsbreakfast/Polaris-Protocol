@@ -1,5 +1,5 @@
 # ⏳ Governance Latency in Population-Scale Cyber Events  
-**First created:** 2025-10-13 | **Last updated:** 2026-01-22  
+**First created:** 2025-10-13 | **Last updated:** 2026-05-12  
 *Why mid-scale cyber events harm real populations long before institutions are structurally able to respond.*  
 
 ---
@@ -330,8 +330,15 @@ It examines how structural delay becomes a liability multiplier in digital harm 
 > - [⏱️ Timebase Desyncs](../../../../🩻_Weirdness_Screening/🌐_Connection_Hiccups/⏱️_timebase_desyncs.md) — *documents technical manifestations of temporal misalignment that mirror institutional delay at the system level*  
 > - [🧨 Delayed Visibility Is a Signal](../../../Containment_Scripts/Suppression_Modes/🧨_delayed_visibility_is_a_signal.md) — *operational guide for recognising delay itself as an indicator of interference or suppression, not neutrality*  
 > - [🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) – *reflexive, load-aware ecological model for geopolitical analysis; squid-sedation squad strikes again*
-> - [⚖️ Legal & State Governance - Return to README](./README.md)  
+>  
+> 🏮 Return To:  
+>  
+> - [🕰️ Chronos Or Kairost](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-05-12_
