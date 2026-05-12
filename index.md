@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 22:51:48 UTC_
+_Generated on 2026-05-12 22:54:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7328,6 +7328,13 @@ _Generated on 2026-05-12 22:51:48 UTC_
     - [`🩻_patriarchal_consolidation.md`](🧄_Exousiología/🩻_Authority_Failure_Modes/🩻_patriarchal_consolidation.md)
     - [`🩻_persistence_after_mandate.md`](🧄_Exousiología/🩻_Authority_Failure_Modes/🩻_persistence_after_mandate.md)
     - [`🩻_ritual_and_moral_capture.md`](🧄_Exousiología/🩻_Authority_Failure_Modes/🩻_ritual_and_moral_capture.md)
+  - [**🪢_Open_Questions_And_Edges/**](🧄_Exousiología/🪢_Open_Questions_And_Edges/)
+    - [`README.md`](🧄_Exousiología/🪢_Open_Questions_And_Edges/README.md)
+    - [`🪢_limits_of_theory.md`](🧄_Exousiología/🪢_Open_Questions_And_Edges/🪢_limits_of_theory.md)
+    - [`🪢_maintenance_not_mastery.md`](🧄_Exousiología/🪢_Open_Questions_And_Edges/🪢_maintenance_not_mastery.md)
+    - [`🪢_resisting_totalisation.md`](🧄_Exousiología/🪢_Open_Questions_And_Edges/🪢_resisting_totalisation.md)
+    - [`🪢_risks_of_co_optation.md`](🧄_Exousiología/🪢_Open_Questions_And_Edges/🪢_risks_of_co_optation.md)
+    - [`🪢_why_there_is_no_magic_fix.md`](🧄_Exousiología/🪢_Open_Questions_And_Edges/🪢_why_there_is_no_magic_fix.md)
   - [**🫀_Embodied_Signals/**](🧄_Exousiología/🫀_Embodied_Signals/)
     - [`README.md`](🧄_Exousiología/🫀_Embodied_Signals/README.md)
     - [`🫀_care_load_concentration.md`](🧄_Exousiología/🫀_Embodied_Signals/🫀_care_load_concentration.md)
