@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 08:09:27 UTC_
+_Generated on 2026-05-12 08:43:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -141,7 +141,6 @@ _Generated on 2026-05-12 08:09:27 UTC_
         - [`⚖️_how_many_adult_survivors_outlive_prosecution.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_how_many_adult_survivors_outlive_prosecution.md)
         - [`⚖️_how_the_cps_operates.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_how_the_cps_operates.md)
         - [`⚖️_inquiries_are_a_pressure_release_valve.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_inquiries_are_a_pressure_release_valve.md)
-        - [`⚖️_institutional_realisation_to_remediation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_institutional_realisation_to_remediation.md)
         - [`⚖️_international_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_international_laundering.md)
         - [`⚖️_ipco_audit_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_ipco_audit_cycle.md)
         - [`⚖️_judicial_deference.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_judicial_deference.md)
@@ -701,6 +700,7 @@ _Generated on 2026-05-12 08:09:27 UTC_
       - [**🧬_Governance_Repair_Shop/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/README.md)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/notes.txt)
+        - [`⚖️_institutional_realisation_to_remediation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/⚖️_institutional_realisation_to_remediation.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
       - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/notes.txt)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
