@@ -1,5 +1,5 @@
 # 🧬 What a CSA System Optimised for Prevention Looks Like  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-20 | **Last updated:** 2026-05-12  
 *Designing child sexual abuse prevention as public safety infrastructure, not moral aftercare.*  
 
 ---
@@ -234,8 +234,16 @@ It documents how child protection fails when systems prioritise punishment optic
 > - [⚖️ Risk Aversion Is Policy](./⚖️_risk_aversion_is_policy.md) — *why systems stall*  
 > - [🧨 If You Don’t Prosecute, You Invite Predators](./🧨_if_you_dont_prosecute_you_invite_predators.md) — *deterrence failure*  
 > - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *legitimacy effects*  
-> - [🧬 Forensic Psychology Is Infrastructure](../🛰️_Infrastructure_Procurement/🧬_forensic_psychology_is_infrastructure.md) — *treatment as safety*  
+> - [🧬 Forensic Psychology Is Infrastructure](../🛰️_Infrastructure_Procurement/🧬_forensic_psychology_is_infrastructure.md) — *treatment as safety*
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-05-12_
