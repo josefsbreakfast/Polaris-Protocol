@@ -1,6 +1,6 @@
 # ☕️ Managing Postcolonial Melancholia  
-**First created:** 2026-05-05 | **Last updated:** 2026-05-11  
-*How historically charged imperial narratives are stabilised, softened, and made governable within contemporary UK discourse.*
+**First created:** 2026-05-05 | **Last updated:** 2026-05-13  
+*How historically charged imperial narratives are stabilised, softened, and made governable within contemporary UK discourse.*  
 
 ---
 
@@ -278,7 +278,7 @@ The node examines how emotional regulation, legitimacy management, and narrative
 >
 > 🏮 Return To:
 >
-> - [📚 Narrative Management](./README.md)
+> - [☕️ Post-Imperial Weather](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
@@ -286,4 +286,4 @@ The node examines how emotional regulation, legitimacy management, and narrative
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
