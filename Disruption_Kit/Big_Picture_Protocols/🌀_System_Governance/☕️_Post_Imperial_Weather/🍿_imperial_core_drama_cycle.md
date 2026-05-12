@@ -1,5 +1,5 @@
 # 🍿 Imperial Core Drama Cycle  
-**First created:** 2025-11-20 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-20 | **Last updated:** 2026-05-13  
 *How the British state repeatedly reproduces internal conflict theatre as a governance reflex.*  
 
 ---
@@ -317,7 +317,7 @@ The node focuses on:
 >   
 > 🏮 Return To:
 >
-> - [📚 Narrative Management](./README.md)
+> - [☕️ Post-Imperial Weather](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
@@ -325,4 +325,4 @@ The node focuses on:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
