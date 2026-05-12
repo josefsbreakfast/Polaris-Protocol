@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 09:18:32 UTC_
+_Generated on 2026-05-12 09:19:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -225,7 +225,6 @@ _Generated on 2026-05-12 09:18:32 UTC_
         - [`🛡️_high_security_settlement_logic_data_exhaust.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🛡️_high_security_settlement_logic_data_exhaust.md)
         - [`🛰️_civic_oversight_of_ai_partnerships.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🛰️_civic_oversight_of_ai_partnerships.md)
         - [`🦆_the_politic_is_no_longer_heard.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦆_the_politic_is_no_longer_heard.md)
-        - [`🦠_hybrid_threat_overlay.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦠_hybrid_threat_overlay.md)
         - [`🦤_bird_law_uk_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦤_bird_law_uk_edition.md)
         - [`🦮_who_authorises_animal_assisted_ve_interventions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦮_who_authorises_animal_assisted_ve_interventions.md)
         - [`🧠_early_secret_police_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🧠_early_secret_police_architecture.md)
@@ -561,6 +560,7 @@ _Generated on 2026-05-12 09:18:32 UTC_
         - [`⚖️_official_secrets_reform_and_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚖️_official_secrets_reform_and_accountability.md)
         - [`🇷🇺_russia_is_a_threat_when_process_is_weak.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🇷🇺_russia_is_a_threat_when_process_is_weak.md)
         - [`🌍_treaty_for_the_english_speaking_internet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🌍_treaty_for_the_english_speaking_internet.md)
+        - [`🦠_hybrid_threat_overlay.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🦠_hybrid_threat_overlay.md)
       - [**🛰️_Infrastructure_Procurement/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/README.md)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
