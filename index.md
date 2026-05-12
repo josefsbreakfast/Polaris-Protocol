@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 09:17:13 UTC_
+_Generated on 2026-05-12 09:18:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -181,7 +181,6 @@ _Generated on 2026-05-12 09:17:13 UTC_
         - [`🌀_justice_infrastructure_mismatch_1990s_law_2025_tech.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌀_justice_infrastructure_mismatch_1990s_law_2025_tech.md)
         - [`🌀_rule_of_law_failure_cascade.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌀_rule_of_law_failure_cascade.md)
         - [`🌋_whistleblowers_as_emergency_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌋_whistleblowers_as_emergency_governance.md)
-        - [`🌍_treaty_for_the_english_speaking_internet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌍_treaty_for_the_english_speaking_internet.md)
         - [`🌳_the_ents_in_the_room.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🌳_the_ents_in_the_room.md)
         - [`🍉_the_crown_as_british_state_wayfinder.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🍉_the_crown_as_british_state_wayfinder.md)
         - [`🍉_why_peacetime_vs_wartime_matters_for_democracy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🍉_why_peacetime_vs_wartime_matters_for_democracy.md)
@@ -561,6 +560,7 @@ _Generated on 2026-05-12 09:17:13 UTC_
         - [`⚖️_ipco_audit_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚖️_ipco_audit_cycle.md)
         - [`⚖️_official_secrets_reform_and_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚖️_official_secrets_reform_and_accountability.md)
         - [`🇷🇺_russia_is_a_threat_when_process_is_weak.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🇷🇺_russia_is_a_threat_when_process_is_weak.md)
+        - [`🌍_treaty_for_the_english_speaking_internet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🌍_treaty_for_the_english_speaking_internet.md)
       - [**🛰️_Infrastructure_Procurement/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/README.md)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
