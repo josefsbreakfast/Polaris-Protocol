@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 22:45:41 UTC_
+_Generated on 2026-05-12 22:51:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7280,6 +7280,12 @@ _Generated on 2026-05-12 22:45:41 UTC_
     - [`🐍_non_closure_principle.md`](🧄_Exousiología/🌱_Core_Principles/🐍_non_closure_principle.md)
     - [`🕸️_justice_as_load_bearing.md`](🧄_Exousiología/🌱_Core_Principles/🕸️_justice_as_load_bearing.md)
     - [`🪲_resilience_over_optimisation.md`](🧄_Exousiología/🌱_Core_Principles/🪲_resilience_over_optimisation.md)
+  - [**🌿_Ecological_Metaphors/**](🧄_Exousiología/🌿_Ecological_Metaphors/)
+    - [`README.md`](🧄_Exousiología/🌿_Ecological_Metaphors/README.md)
+    - [`🌿_animals_pack_predator_parasite.md`](🧄_Exousiología/🌿_Ecological_Metaphors/🌿_animals_pack_predator_parasite.md)
+    - [`🌿_mythic_ecologies.md`](🧄_Exousiología/🌿_Ecological_Metaphors/🌿_mythic_ecologies.md)
+    - [`🌿_succession_and_regrowth.md`](🧄_Exousiología/🌿_Ecological_Metaphors/🌿_succession_and_regrowth.md)
+    - [`🌿_trees_roots_and_canopies.md`](🧄_Exousiología/🌿_Ecological_Metaphors/🌿_trees_roots_and_canopies.md)
   - [**🔥_Modes_Of_Change/**](🧄_Exousiología/🔥_Modes_Of_Change/)
     - [`README.md`](🧄_Exousiología/🔥_Modes_Of_Change/README.md)
     - [`🔥_adaptive_reform.md`](🧄_Exousiología/🔥_Modes_Of_Change/🔥_adaptive_reform.md)
@@ -7303,6 +7309,14 @@ _Generated on 2026-05-12 22:45:41 UTC_
     - [`🧭_linear_delegated_authority.md`](🧄_Exousiología/🧭_Authority_Topologies/🧭_linear_delegated_authority.md)
     - [`🧭_recursive_resonant_authority.md`](🧄_Exousiología/🧭_Authority_Topologies/🧭_recursive_resonant_authority.md)
     - [`🧭_vertical_positional_authority.md`](🧄_Exousiología/🧭_Authority_Topologies/🧭_vertical_positional_authority.md)
+  - [**🧰_Diagnostic_Tools/**](🧄_Exousiología/🧰_Diagnostic_Tools/)
+    - [`README.md`](🧄_Exousiología/🧰_Diagnostic_Tools/README.md)
+    - [`🧰_authority_boundary_checklist.md`](🧄_Exousiología/🧰_Diagnostic_Tools/🧰_authority_boundary_checklist.md)
+    - [`🧰_early_warning_signals.md`](🧄_Exousiología/🧰_Diagnostic_Tools/🧰_early_warning_signals.md)
+    - [`🧰_exit_and_refusal_safety.md`](🧄_Exousiología/🧰_Diagnostic_Tools/🧰_exit_and_refusal_safety.md)
+    - [`🧰_one_page_exousiological_diagnostic.md`](🧄_Exousiología/🧰_Diagnostic_Tools/🧰_one_page_exousiological_diagnostic.md)
+    - [`🧰_power_shape_mapping_template.md`](🧄_Exousiología/🧰_Diagnostic_Tools/🧰_power_shape_mapping_template.md)
+    - [`🧰_resilience_and_justice_checklist.md`](🧄_Exousiología/🧰_Diagnostic_Tools/🧰_resilience_and_justice_checklist.md)
   - [**🩻_Authority_Failure_Modes/**](🧄_Exousiología/🩻_Authority_Failure_Modes/)
     - [`README.md`](🧄_Exousiología/🩻_Authority_Failure_Modes/README.md)
     - [`🩻_absence_of_authority.md`](🧄_Exousiología/🩻_Authority_Failure_Modes/🩻_absence_of_authority.md)
