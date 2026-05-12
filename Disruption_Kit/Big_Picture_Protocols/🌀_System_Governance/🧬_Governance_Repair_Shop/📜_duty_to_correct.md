@@ -1,5 +1,5 @@
 # 📜 Duty to Correct: How Public Bodies Must Fix Wrong Data  
-**First created:** 2025-11-16 | **Last updated:** 2026-01-22  
+**First created:** 2025-11-16 | **Last updated:** 2026-05-12  
 *Why the right to correction is foundational to democratic participation — and how the absence of robust correction mechanisms enables misinterpretation, drift, and long-term bureaucratic harm.*  
 
 ---
@@ -184,7 +184,14 @@ It frames correction not as clerical nicety but as essential civic infrastructur
 > - [🗃️ Safeguarding Logic Mission Creep & Identity-Pathologising](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md) - *how "safeguarding" can become fascist and/or authoritarian in nature*  
 > - [🪼 Who Had Their Voice Stolen?](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🪼_who_had_their_voice_stolen.md) - *example potential complications*  
 > - [🐝 Audit Stinger](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/🐝_audit_stinger.md) - *example audit work to proactively help survivors correct their records*  
-> - [⚖️ Official Secrets Reform and Accountability](./⚖️_official_secrets_reform_and_accountability.md) - *the OSA **must** change to assist in other organisations' duties to correct records*
-> - [⚖️ Legal & State Governance - Return to README](./README.md)  
+> - [⚖️ Official Secrets Reform and Accountability](./⚖️_official_secrets_reform_and_accountability.md) - *the OSA **must** change to assist in other organisations' duties to correct records*  
+>  
+> 🏮 Return To:  
+>  
+> - [⚖️ Legal & State Governance](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-05-12_
