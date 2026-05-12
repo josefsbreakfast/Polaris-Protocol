@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 22:21:22 UTC_
+_Generated on 2026-05-12 22:25:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6841,8 +6841,24 @@ _Generated on 2026-05-12 22:21:22 UTC_
     - [**🤍_Phlegmatic_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/)
       - [`README.md`](⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/README.md)
     - [`README.md`](⚗️_Apothecary/🌡️_Constitutions/README.md)
+  - [**🌫️_Vapours/**](⚗️_Apothecary/🌫️_Vapours/)
+    - [`README.md`](⚗️_Apothecary/🌫️_Vapours/README.md)
+  - [**💊_Remedies/**](⚗️_Apothecary/💊_Remedies/)
+    - [`README.md`](⚗️_Apothecary/💊_Remedies/README.md)
   - [**🧪_Temperaments/**](⚗️_Apothecary/🧪_Temperaments/)
     - [`README.md`](⚗️_Apothecary/🧪_Temperaments/README.md)
+  - [**🪴_Tonics/**](⚗️_Apothecary/🪴_Tonics/)
+    - [`README.md`](⚗️_Apothecary/🪴_Tonics/README.md)
+  - [**🫙_Distempers/**](⚗️_Apothecary/🫙_Distempers/)
+    - [**❤️_Sanguine_Distempers/**](⚗️_Apothecary/🫙_Distempers/❤️_Sanguine_Distempers/)
+      - [`README.md`](⚗️_Apothecary/🫙_Distempers/❤️_Sanguine_Distempers/README.md)
+    - [**💛_Choleric_Distempers/**](⚗️_Apothecary/🫙_Distempers/💛_Choleric_Distempers/)
+      - [`README.md`](⚗️_Apothecary/🫙_Distempers/💛_Choleric_Distempers/README.md)
+    - [**🖤_Melancholic_Distempers/**](⚗️_Apothecary/🫙_Distempers/🖤_Melancholic_Distempers/)
+      - [`README.md`](⚗️_Apothecary/🫙_Distempers/🖤_Melancholic_Distempers/README.md)
+    - [**🤍_Phlegmatic_Distempers/**](⚗️_Apothecary/🫙_Distempers/🤍_Phlegmatic_Distempers/)
+      - [`README.md`](⚗️_Apothecary/🫙_Distempers/🤍_Phlegmatic_Distempers/README.md)
+    - [`README.md`](⚗️_Apothecary/🫙_Distempers/README.md)
   - [`README.md`](⚗️_Apothecary/README.md)
 - [**👻_Apparitional_Objects/**](👻_Apparitional_Objects/)
   - [**🍽️_Fork_Taxonomy/**](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/)
