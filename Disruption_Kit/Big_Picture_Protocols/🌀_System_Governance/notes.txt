@@ -1,0 +1,83 @@
+Disruption_Kit/
+└── Big_Picture_Protocols/
+    └── 🌀_System_Governance/
+        ├── README.md
+        │
+        ├── ☕️_Post_Imperial_Weather/
+        │   ├── README.md
+        │   └── [post-imperial identity, British affect, composure, imperial afterweather]
+        │
+        ├── ⚖️_Legal_State_Governance/
+        │   ├── README.md
+        │   └── [courts, prosecution, parliament, constitutional logic, CPS, inquiries, legal authority]
+        │
+        ├── 💫_Containment_Logic/
+        │   ├── README.md
+        │   └── [containment mechanics, institutional drift, coercive process, silence systems]
+        │
+        ├── 📚_Narrative_Management/
+        │   ├── README.md
+        │   └── [media systems, reputational governance, framing, narrative capture, PR logic]
+        │
+        ├── 🛡️_Defending_Realms/
+        │   ├── README.md
+        │   └── [security logic, ISR, secrecy, cyber, hybrid threats, democratic defence]
+        │
+        ├── 🕰️_Chronos_Or_Kairos/
+        │   ├── README.md
+        │   └── [delay, pacing, latency, timing windows, drift, temporal governance]
+        │
+        ├── 🧬_Governance_Repair_Shop/
+        │   ├── README.md
+        │   └── [repair architectures, remediation, oversight repair, transparency, restorative governance]
+        │
+        ├── 👑_Ownership_Control/
+        │   ├── README.md
+        │   └── [institutional control, sovereignty, donor logic, immunity structures, accountability gaps]
+        │
+        ├── 🛰️_Infrastructure_Procurement/
+        │   ├── README.md
+        │   └── [procurement, surveillance infrastructure, vendor lock-in, state technical capacity]
+        │
+        ├── 🧠_Apparatchik_Philosophy/
+        │   ├── README.md
+        │   └── [institutional cognition, procedural psychology, governance mentality, misreading systems]
+        │
+        ├── 🃏_Political_Dramaturgy/
+        │   ├── README.md
+        │   └── [aesthetics, archetypes, political theatre, emotional statecraft]
+        │
+        ├── 🌍_National_Storytime/
+        │   ├── README.md
+        │   └── [national mythologies, geopolitical identity, ideological narratives]
+        │
+        ├── 🧪_Development_Experimentation/
+        │   ├── README.md
+        │   └── [R&D ethics, behavioural pilots, experimentation governance, frankenstack systems]
+        │
+        ├── 🚩_Angleland_Ahoy/
+        │   ├── README.md
+        │   └── [satirical governance worldbuilding]
+        │
+        └── 🧊_Antarctic_Biscuit_Defence_Directory/
+            └── [satirical defence / absurdist doctrine archive]
+
+
+
+---
+---
+
+🌀_System_Governance/
+    ☕️_Post_Imperial_Weather/
+    ⚖️_Legal_State_Governance/
+    🃏_Political_Dramaturgy/
+    🌍_National_Storytime/
+    👑_Ownership_Control/
+    💫_Containment_Logic/
+    📚_Narrative_Management/
+    🛰️_Infrastructure_Procurement/
+    🧠_Apparatchik_Philosophy/
+    🧪_Development_Experimentation/
+    🕰️_Chronos_Or_Kairos/
+    🛡️_Defending_Realms/
+    🧬_Governance_Repair_Shop/
