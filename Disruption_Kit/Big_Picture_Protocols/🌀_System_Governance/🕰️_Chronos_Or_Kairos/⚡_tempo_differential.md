@@ -1,5 +1,5 @@
 # ⚡ Tempo Differential — When Recognition Lags Behind Perception  
-**First created:** 2025-10-23 | **Last updated:** 2026-04-24  
+**First created:** 2025-10-23 | **Last updated:** 2026-05-12  
 *How differences in processing speed shape perception, response, and recovery.*  
 
 ---
@@ -87,4 +87,4 @@ It examines how differences in processing speed affect understanding, response, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-05-12_
