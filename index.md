@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 22:26:05 UTC_
+_Generated on 2026-05-12 22:28:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7273,6 +7273,12 @@ _Generated on 2026-05-12 22:26:05 UTC_
     - [`🪲_resilience_over_optimisation.md`](🧄_Exousiología/🌱_Core_Principles/🪲_resilience_over_optimisation.md)
   - [**🧭_Authority_Topologies/**](🧄_Exousiología/🧭_Authority_Topologies/)
     - [`README.md`](🧄_Exousiología/🧭_Authority_Topologies/README.md)
+    - [`🧭_cyclical_cosmological_authority.md`](🧄_Exousiología/🧭_Authority_Topologies/🧭_cyclical_cosmological_authority.md)
+    - [`🧭_embedded_folk_authority.md`](🧄_Exousiología/🧭_Authority_Topologies/🧭_embedded_folk_authority.md)
+    - [`🧭_hybrid_authority_forms.md`](🧄_Exousiología/🧭_Authority_Topologies/🧭_hybrid_authority_forms.md)
+    - [`🧭_linear_delegated_authority.md`](🧄_Exousiología/🧭_Authority_Topologies/🧭_linear_delegated_authority.md)
+    - [`🧭_recursive_resonant_authority.md`](🧄_Exousiología/🧭_Authority_Topologies/🧭_recursive_resonant_authority.md)
+    - [`🧭_vertical_positional_authority.md`](🧄_Exousiología/🧭_Authority_Topologies/🧭_vertical_positional_authority.md)
   - [`README.md`](🧄_Exousiología/README.md)
 - [**🩻_Weirdness_Screening/**](🩻_Weirdness_Screening/)
   - [**🌐_Connection_Hiccups/**](🩻_Weirdness_Screening/🌐_Connection_Hiccups/)
