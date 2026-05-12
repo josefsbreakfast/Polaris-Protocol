@@ -1,5 +1,5 @@
 # 🏗️ Corrective Governance Architecture  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-08  
+**First created:** 2025-11-19 | **Last updated:** 2026-05-12  
 *The structural blueprint for how institutions reconstruct their governance, safeguards, oversight, and interpretive mechanisms following full-stack collapse.*  
 
 ---
@@ -259,7 +259,16 @@ This node links directly to:
 - **Crisis-Mode Behaviours**  
 - **Next: Restoring Epistemic Integrity*  
 - **Seven Layers of Safeguard Breakdown**
+>  
+> 🏮 Return To:  
+>  
+> - [🧬 Governance Repair Shop](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+
 
 This is the structural blueprint that leads into the last and final chapter of the entire collapse arc.
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-05-12_
