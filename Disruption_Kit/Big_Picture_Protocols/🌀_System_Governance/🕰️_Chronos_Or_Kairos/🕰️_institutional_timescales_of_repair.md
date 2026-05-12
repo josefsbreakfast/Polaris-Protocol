@@ -1,5 +1,5 @@
 # 🕰️ Institutional Timescales of Repair — how long change actually takes  
-**First created:** 2025-10-25 | **Last updated:** 2025-12-12  
+**First created:** 2025-10-25 | **Last updated:** 2026-05-12  
 *When scandal moves at tweet speed and remediation crawls at civil-service pace.*  
 
 ---
@@ -89,4 +89,4 @@ It charts the temporal politics of accountability — showing how quickly shame 
 
 *Every reform carries its own clock; knowing the time is the first act of resistance.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-05-12_
