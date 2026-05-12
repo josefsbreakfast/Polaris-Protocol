@@ -1,5 +1,5 @@
 # 🩹 Patch Repair Governance  
-**First created:** 2025-09-25 | **Last updated:** 2026-01-06  
+**First created:** 2025-09-25 | **Last updated:** 2026-05-12  
 *Containment systems as stitched patchwork — holes covered until pressure elsewhere forces old rot to reopen.*  
 
 ---
@@ -38,11 +38,19 @@ It records how systemic containment functions like a rotten hull stitched with p
 
 > 📡 Cross-references:
 > 
-> - [📋 Tick-Box Compliance as Containment](./📋_tick_box_compliance_as_containment.md) - *Institutional minimalism that simulates accountability while erasing systemic responsibility*
-> - [🧟‍♀️ The Frankenstack Problem](../🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md) - *How UK counter-extremism, safeguarding, and healthcare R&D created hybrid surveillance stacks without regulation — leaving survivors as live test subjects*
-> - [🧀 Child Data Swiss-Cheese Model — Systemic Risk Framework](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧀_child_data_swiss_cheese_model_systemic_risk_framework.md)
+> - [📋 Tick-Box Compliance as Containment](./📋_tick_box_compliance_as_containment.md) - *Institutional minimalism that simulates accountability while erasing systemic responsibility*  
+> - [🧟‍♀️ The Frankenstack Problem](../🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md) - *How UK counter-extremism, safeguarding, and healthcare R&D created hybrid surveillance stacks without regulation — leaving survivors as live test subjects*  
+> - [🧀 Child Data Swiss-Cheese Model — Systemic Risk Framework](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/🧀_child_data_swiss_cheese_model_systemic_risk_framework.md)  
 > - [🧭 Data-Governance Swiss-Cheese Model — Case vs Role-Level Joins](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧭_data_swiss_cheese_case_vs_role_level_joins.md)  
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-05-12_
