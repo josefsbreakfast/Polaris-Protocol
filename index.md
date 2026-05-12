@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 09:11:45 UTC_
+_Generated on 2026-05-12 09:13:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -141,7 +141,6 @@ _Generated on 2026-05-12 09:11:45 UTC_
         - [`⚖️_how_the_cps_operates.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_how_the_cps_operates.md)
         - [`⚖️_inquiries_are_a_pressure_release_valve.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_inquiries_are_a_pressure_release_valve.md)
         - [`⚖️_international_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_international_laundering.md)
-        - [`⚖️_ipco_audit_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_ipco_audit_cycle.md)
         - [`⚖️_judicial_deference.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_judicial_deference.md)
         - [`⚖️_judicial_reviews_parliamentary_committees_and_procedural_delay.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_judicial_reviews_parliamentary_committees_and_procedural_delay.md)
         - [`⚖️_judicial_scrutiny_of_delay_over_substance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_judicial_scrutiny_of_delay_over_substance.md)
@@ -561,6 +560,7 @@ _Generated on 2026-05-12 09:11:45 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/README.md)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/notes.txt)
         - [`⚖️_defend_forward_and_sovereign_cyber_response_ladder.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
+        - [`⚖️_ipco_audit_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚖️_ipco_audit_cycle.md)
       - [**🛰️_Infrastructure_Procurement/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/README.md)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
