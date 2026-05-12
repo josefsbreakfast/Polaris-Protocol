@@ -1,6 +1,6 @@
 # 🔮 Daylight Effects in Governance Systems  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
-*How transparency alters institutional behaviour, collapses distortion, and turns projection into self-exposure.*
+**First created:** 2025-11-16 | **Last updated:** 2026-05-12  
+*How transparency alters institutional behaviour, collapses distortion, and turns projection into self-exposure.*  
 
 ---
 
@@ -209,9 +209,21 @@ transparency, institutional behaviour, narrative contrast, projection collapse, 
 ---
 
 ## 🏮 Footer  
-*Daylight Effects in Governance Systems* is a living node of the Polaris Protocol.  
-It explains how transparent civic structures stabilise institutional perception, collapse hostile narratives, and expose projections through contrast, not accusation.
+*🔮 Daylight Effects in Governance Systems* is a living node of the Polaris Protocol.  
+It explains how transparent civic structures stabilise institutional perception, collapse hostile narratives, and expose projections through contrast, not accusation.  
+
+> 📡 Cross-References:
+> 
+> - []()  
+>  
+> 🏮 Return To:  
+>  
+> - [📚 Narrative Management](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-05-12_
