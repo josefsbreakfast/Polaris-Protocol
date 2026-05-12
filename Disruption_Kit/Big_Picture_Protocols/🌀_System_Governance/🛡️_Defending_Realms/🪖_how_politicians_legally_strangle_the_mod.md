@@ -1,5 +1,5 @@
 # 🪖 How Politicians Legally Strangle the MOD (in Real-Lives Terms)  
-**First created:** 2025-12-24 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-24 | **Last updated:** 2026-05-12  
 *When political risk management converts defence institutions into vehicles of human attrition.*  
 
 ---
@@ -148,7 +148,7 @@ defence governance failure, veterans harm, political risk avoidance, war pension
 
 ## 🏮 Footer
 
-*How Politicians Legally Strangle the MOD (in Real-Lives Terms)* is a living node of the **Polaris Protocol**.  
+*🪖 How Politicians Legally Strangle the MOD (in Real-Lives Terms)* is a living node of the **Polaris Protocol**.  
 It documents how upstream political and legal pressures translate into downstream human harm for service personnel and veterans.
 
 > 📡 Cross-references:
@@ -156,7 +156,15 @@ It documents how upstream political and legal pressures translate into downstrea
 > - [🪖 Repairing Stolen Lives](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪖_repairing_stolen_lives.md) — *cumulative life-scale harm*  
 > - [🪖 A Previous Cabinet’s Errors](../💫_Containment_Logic/🪖_a_previous_cabinets_errors.md) — *legacy harm across time*  
 > - [🪖 Classification, Suppression, and Misuse](./🪖_classification_suppression_and_misuse.md) — *secrecy as a control mechanism*  
+>  
+> 🏮 Return To:  
+>  
+> - [🛡️ Defending Realms](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-05-12_
