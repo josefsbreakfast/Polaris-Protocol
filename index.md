@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 08:58:20 UTC_
+_Generated on 2026-05-12 08:59:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -312,7 +312,6 @@ _Generated on 2026-05-12 08:58:20 UTC_
         - [`🧬_distributed_complicity_in_modern_warfare.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🧬_distributed_complicity_in_modern_warfare.md)
         - [`🧭_reflexive_risk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🧭_reflexive_risk.md)
         - [`🪦_cecot_as_rights_void_facility.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🪦_cecot_as_rights_void_facility.md)
-        - [`🫀_ai_black_box_inquests.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🫀_ai_black_box_inquests.md)
         - [`🫀_genocide_by_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🫀_genocide_by_containment.md)
       - [**💫_Containment_Logic/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/README.md)
@@ -701,6 +700,7 @@ _Generated on 2026-05-12 08:58:20 UTC_
         - [`🧬_restorative_and_transformative_justice_where_it_actually_works.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_restorative_and_transformative_justice_where_it_actually_works.md)
         - [`🧬_what_a_csa_system_optimised_for_prevention_looks_like.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_what_a_csa_system_optimised_for_prevention_looks_like.md)
         - [`🪡_oversight_repair_kit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🪡_oversight_repair_kit.md)
+        - [`🫀_ai_black_box_inquests.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🫀_ai_black_box_inquests.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
       - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/notes.txt)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
