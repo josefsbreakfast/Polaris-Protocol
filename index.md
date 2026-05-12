@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 00:51:56 UTC_
+_Generated on 2026-05-12 00:55:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -125,7 +125,6 @@ _Generated on 2026-05-12 00:51:56 UTC_
         - [`constitutional_fault_lines.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/constitutional_fault_lines.png)
         - [`uk_debates_overlap.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/uk_debates_overlap.png)
         - [`uk_online_safety_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/uk_online_safety_timeline.png)
-        - [`⏳_governance_latency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⏳_governance_latency.md)
         - [`⏳_hinge_point_when_delay_becomes_liability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⏳_hinge_point_when_delay_becomes_liability.md)
         - [`☂️_the_umbrella_of_assurances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/☂️_the_umbrella_of_assurances.md)
         - [`⚖️_authorisation_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_authorisation_and_oversight.md)
@@ -564,6 +563,7 @@ _Generated on 2026-05-12 00:51:56 UTC_
       - [**🕰️_Chronos_Or_Kairos/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/README.md)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/notes.txt)
+        - [`⏳_governance_latency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/⏳_governance_latency.md)
       - [**🚩_Angleland_Ahoy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/README.md)
         - [`♟️_rise_of_the_npm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/♟️_rise_of_the_npm.md)
