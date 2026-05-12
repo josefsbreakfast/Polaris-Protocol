@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-12 22:35:47 UTC_
+_Generated on 2026-05-12 22:39:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7287,6 +7287,17 @@ _Generated on 2026-05-12 22:35:47 UTC_
     - [`🧭_linear_delegated_authority.md`](🧄_Exousiología/🧭_Authority_Topologies/🧭_linear_delegated_authority.md)
     - [`🧭_recursive_resonant_authority.md`](🧄_Exousiología/🧭_Authority_Topologies/🧭_recursive_resonant_authority.md)
     - [`🧭_vertical_positional_authority.md`](🧄_Exousiología/🧭_Authority_Topologies/🧭_vertical_positional_authority.md)
+  - [**🩻_Authority_Failure_Modes/**](🧄_Exousiología/🩻_Authority_Failure_Modes/)
+    - [`README.md`](🧄_Exousiología/🩻_Authority_Failure_Modes/README.md)
+    - [`🩻_absence_of_authority.md`](🧄_Exousiología/🩻_Authority_Failure_Modes/🩻_absence_of_authority.md)
+    - [`🩻_benevolent_domination.md`](🧄_Exousiología/🩻_Authority_Failure_Modes/🩻_benevolent_domination.md)
+    - [`🩻_bureaucratic_self_justification.md`](🧄_Exousiología/🩻_Authority_Failure_Modes/🩻_bureaucratic_self_justification.md)
+    - [`🩻_exception_creep.md`](🧄_Exousiología/🩻_Authority_Failure_Modes/🩻_exception_creep.md)
+    - [`🩻_force_substitution.md`](🧄_Exousiología/🩻_Authority_Failure_Modes/🩻_force_substitution.md)
+    - [`🩻_overreach_and_boundary_violation.md`](🧄_Exousiología/🩻_Authority_Failure_Modes/🩻_overreach_and_boundary_violation.md)
+    - [`🩻_patriarchal_consolidation.md`](🧄_Exousiología/🩻_Authority_Failure_Modes/🩻_patriarchal_consolidation.md)
+    - [`🩻_persistence_after_mandate.md`](🧄_Exousiología/🩻_Authority_Failure_Modes/🩻_persistence_after_mandate.md)
+    - [`🩻_ritual_and_moral_capture.md`](🧄_Exousiología/🩻_Authority_Failure_Modes/🩻_ritual_and_moral_capture.md)
   - [**🫀_Embodied_Signals/**](🧄_Exousiología/🫀_Embodied_Signals/)
     - [`README.md`](🧄_Exousiología/🫀_Embodied_Signals/README.md)
     - [`🫀_care_load_concentration.md`](🧄_Exousiología/🫀_Embodied_Signals/🫀_care_load_concentration.md)
