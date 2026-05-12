@@ -1,0 +1,1 @@
+🌍_Comparative_Systems/🍵_sinic_mandate_of_heaven.md
