@@ -1,5 +1,5 @@
 # 🍉 Why The Long Prison Stay?  
-**First created:** 2025-12-19 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-19 | **Last updated:** 2026-05-12  
 *How prolonged remand happens, why it is exceptional, and what it costs the taxpayer.*  
 
 ---
@@ -341,7 +341,12 @@ It shapes public trust across the entire system.
 ---
 
 ## 🌌 Constellations  
-⚖️ 💰 🧠 ⛓️ — law, public finance, institutional risk, detention.
+⚖️ 💰 🧠 ⛓️ — law, public finance, institutional risk, detention.  
+
+*Further reading:*  
+
+- [📺: The Katie Halper Show: "Max Blumenthal EXPOSES Israel's Control
+Over UK Legal System"](https://youtu.be/UTRwFcDf9q8?si=9VUbMJBHy4hD-THR)  
 
 ---
 
@@ -367,4 +372,4 @@ It documents how prolonged remand emerges, why it is exceptional, and why it is 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-05-11_
