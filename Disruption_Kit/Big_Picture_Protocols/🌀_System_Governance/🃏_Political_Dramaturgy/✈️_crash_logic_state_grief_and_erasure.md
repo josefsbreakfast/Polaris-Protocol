@@ -1,5 +1,5 @@
 # ✈️ Crash Logic — Catastrophe, State Grief, and Narrative Erasure  
-**First created:** 2025-11-06 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-06 | **Last updated:** 2026-05-12  
 *How public catastrophe, mourning rituals, and institutional continuity interact within highly centralised political systems.*
 
 ---
@@ -225,18 +225,18 @@ The node focuses on how opacity, emotional saturation, and institutional continu
 
 > 📡 Cross-references:
 >
-> - [☕️ Managing Postcolonial Melancholia](./☕️_managing_postcolonial_melancholia.md) — *historical affect regulation and national emotional management*  
-> - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *institutional legitimacy and public interpretation under crisis conditions*  
-> - [⚖️ Narrative Control and Legal Responsibility](./⚖️_narrative_control_and_legal_responsibility.md) — *institutional narrative management and evidential integrity*
+> - [☕️ Managing Postcolonial Melancholia](../☕️_Post_Imperial_Weather/☕️_managing_postcolonial_melancholia.md) — *historical affect regulation and national emotional management*  
+> - [🚀 Procedure vs Perception](../🧠_Apparatchik_Philosophy/🚀_procedure_vs_perception.md) — *institutional legitimacy and public interpretation under crisis conditions*  
+> - [⚖️ Narrative Control and Legal Responsibility](../⚖️_Legal_State_Governance/⚖️_narrative_control_and_legal_responsibility.md) — *institutional narrative management and evidential integrity*  
 >   
 > 🏮 Return To:
 >
-> - [📚 Narrative Management](./README.md)
+> - [📚 Narrative Management](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-12_
