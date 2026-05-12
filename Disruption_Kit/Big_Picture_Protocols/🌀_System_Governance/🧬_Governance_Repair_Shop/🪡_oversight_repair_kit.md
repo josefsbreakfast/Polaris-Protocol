@@ -1,5 +1,5 @@
 # 🪡 Oversight Repair Kit — Re-stitching Accountability Chains  
-**First created:** 2025-10-13 | **Last updated:** 2026-05-08  
+**First created:** 2025-10-13 | **Last updated:** 2026-05-12  
 *A reform blueprint proposing how fragmented UK oversight systems could be rewired to prevent silent escalation and hybrid-threat exploitation.*  
 
 ---
@@ -100,12 +100,12 @@ It proposes mechanisms for reconnecting fragmented oversight bodies and embeddin
 >   
 > 🏮 Return To:
 >
-> - [👑 Ownership & Control](./README.md)
+> - [👑 Ownership & Control](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-12_
