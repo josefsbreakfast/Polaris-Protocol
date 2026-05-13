@@ -1,5 +1,5 @@
 # 👻 Fluent Language as an Attack Surface  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-15  
+**First created:** 2025-12-12 | **Last updated:** 2026-05-13  
 *How ordinary, conversational language becomes a vector for influence, coercion, and harm at scale.*  
 
 ---
@@ -187,4 +187,4 @@ It establishes language itself as a material vector of influence, requiring the 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-05-13_
