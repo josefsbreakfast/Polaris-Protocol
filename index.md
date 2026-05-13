@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 22:15:05 UTC_
+_Generated on 2026-05-13 22:16:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -86,6 +86,7 @@ _Generated on 2026-05-13 22:15:05 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/README.md)
         - [`☕️_britain_after_elizabeth.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/☕️_britain_after_elizabeth.md)
         - [`☕️_managing_postcolonial_melancholia.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/☕️_managing_postcolonial_melancholia.md)
+        - [`☕️_the_country_house_after_empire.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/☕️_the_country_house_after_empire.md)
         - [`☕️_the_death_of_the_british_eccentric.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/☕️_the_death_of_the_british_eccentric.md)
         - [`☕️_the_henry_v_of_local_elections_day.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/☕️_the_henry_v_of_local_elections_day.md)
         - [`🇬🇧_calm_down_its_just_british.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🇬🇧_calm_down_its_just_british.md)
@@ -101,6 +102,7 @@ _Generated on 2026-05-13 22:15:05 UTC_
         - [`📺_beyond_regional_tv.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/📺_beyond_regional_tv.md)
         - [`🕯️_elizabeth_ii_and_the_last_sacred_queen.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🕯️_elizabeth_ii_and_the_last_sacred_queen.md)
         - [`🕯️_the_british_blind_spot.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🕯️_the_british_blind_spot.md)
+        - [`🗺️_the_last_generation_that_remembered_the_empire.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🗺️_the_last_generation_that_remembered_the_empire.md)
         - [`🪞_the_monarchy_as_emotional_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🪞_the_monarchy_as_emotional_infrastructure.md)
       - [**⚖️_Legal_State_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/README.md)
