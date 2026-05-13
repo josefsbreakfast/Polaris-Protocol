@@ -1,5 +1,5 @@
 # 🎯 Single Points of Failure as Authoritarian Easy Targets  
-**First created:** 2025-11-05 | **Last updated:** 2025-12-08  
+**First created:** 2025-11-05 | **Last updated:** 2026-05-13  
 *Why concentrated roles are so attractive to the worst people in the room.*  
 
 ---
@@ -140,4 +140,4 @@ Related nodes:
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-05-13_
