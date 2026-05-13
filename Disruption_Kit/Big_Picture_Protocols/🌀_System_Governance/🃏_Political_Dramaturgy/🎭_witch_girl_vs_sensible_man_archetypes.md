@@ -1,6 +1,6 @@
 # 🎭 Witch Girl vs Sensible Man Archetypes  
-**First created:** 2025-11-16 | **Last updated:** 2026-05-11  
-*A comparative archetype analysis of how articulate women become coded as destabilising while emotionally predictable men become coded as socially “safe” — and how these scripts shape family systems, institutions, and governance cultures.*
+**First created:** 2025-11-16 | **Last updated:** 2026-05-13  
+*A comparative archetype analysis of how articulate women become coded as destabilising while emotionally predictable men become coded as socially “safe” — and how these scripts shape family systems, institutions, and governance cultures.*  
 
 ---
 
@@ -406,12 +406,12 @@ It maps how gendered and class-coded archetypes shape perceptions of credibility
 >   
 > 🏮 Return To:
 >
-> - [🃏 Political Dramaturgy](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
