@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 21:58:39 UTC_
+_Generated on 2026-05-13 21:59:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -479,6 +479,7 @@ _Generated on 2026-05-13 21:58:39 UTC_
         - [`📚_crisis_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_crisis_theatre.md)
         - [`📚_forensic_silence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_forensic_silence.md)
         - [`📚_over_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📚_over_recognition.md)
+        - [`📡_if_shakespeare_understood_the_counties_why_doesnt_the_bbc.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📡_if_shakespeare_understood_the_counties_why_doesnt_the_bbc.md)
         - [`📣_pr_simulation_breakdown.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📣_pr_simulation_breakdown.md)
         - [`📺_cover_up_as_cultural_genre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/📺_cover_up_as_cultural_genre.md)
         - [`🕸️_clone_friendly_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🕸️_clone_friendly_architecture.md)
