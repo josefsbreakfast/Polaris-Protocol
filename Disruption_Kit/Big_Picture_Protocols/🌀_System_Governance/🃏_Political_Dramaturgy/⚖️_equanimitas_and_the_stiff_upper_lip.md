@@ -1,4 +1,4 @@
-# ⚖️ Equanimitas and the Stiff Upper Lip  
+# ⚖️ Aequanimitas and the Stiff Upper Lip  
 **First created:** 2026-05-11 | **Last updated:** 2026-05-13  
 *How emotional restraint became institutional virtue inside British governance culture.*  
 
@@ -360,13 +360,13 @@ But not always equally skilled at:
 
 ## ✨ Stardust
 
-equanimitas, stiff upper lip, british governance culture, emotional restraint, institutional composure, shame culture, reputational lock-in, british elite systems, proceduralism, emotional containment
+aequanimitas, equanimitas, stiff upper lip, british governance culture, emotional restraint, institutional composure, shame culture, reputational lock-in, british elite systems, proceduralism, emotional containment
 
 ---
 
 ## 🏮 Footer
 
-*⚖️ Equanimitas and the Stiff Upper Lip* is a living node of the **Polaris Protocol**.
+*⚖️ Aequanimitas and the Stiff Upper Lip* is a living node of the **Polaris Protocol**.
 It documents how emotional restraint became embedded within British governance and institutional culture as a stabilising technology, and how this affects accountability, conflict processing, and institutional adaptation.
 
 > 📡 Cross-references:
