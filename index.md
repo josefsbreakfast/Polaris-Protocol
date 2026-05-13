@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 22:10:11 UTC_
+_Generated on 2026-05-13 22:11:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -265,6 +265,7 @@ _Generated on 2026-05-13 22:10:11 UTC_
         - [`🧨_why_argumentation_fails_with_alt_right_ideology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🧨_why_argumentation_fails_with_alt_right_ideology.md)
         - [`🧵_old_guard_optics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🧵_old_guard_optics.md)
         - [`🩸_the_romanovs_and_british_aristocratic_imagination.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🩸_the_romanovs_and_british_aristocratic_imagination.md)
+        - [`🪞_states_project_their_own_structure_onto_rivals.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🪞_states_project_their_own_structure_onto_rivals.md)
       - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/README.md)
         - [`bottleneck_mapping_log_template.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/bottleneck_mapping_log_template.csv)
