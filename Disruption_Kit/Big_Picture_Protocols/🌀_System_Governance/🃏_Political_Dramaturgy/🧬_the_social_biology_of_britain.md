@@ -1,6 +1,6 @@
-# 🧬 The Social Biology of Britain
-**First created:** 2026-05-11 | **Last updated:** 2026-05-11  
-*Governance tissue, institutional metabolism, and Britain as a continuity organism.*
+# 🧬 The Social Biology of Britain  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-13  
+*Governance tissue, institutional metabolism, and Britain as a continuity organism.*  
 
 ---
 
@@ -372,16 +372,16 @@ It frames British governance and institutional behaviour through organismal meta
 > - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular metaphor for intermediary governance systems*  
 > - [🌱 The Broker Class and British Stagnation](./🌱_the_broker_class_and_british_stagnation.md) — *risk aversion and continuity-oriented intermediary classes*  
 > - [🧠 Reputational Lock-In and British Institutions](./🧠_reputational_lock_in_and_british_institutions.md) — *defensive containment and continuity panic*  
-> - [⚖️ Equanimitas and the Stiff Upper Lip](./⚖️_equanimitas_and_the_stiff_upper_lip.md) — *emotional restraint as governance infrastructure*
+> - [⚖️ Equanimitas and the Stiff Upper Lip](./⚖️_equanimitas_and_the_stiff_upper_lip.md) — *emotional restraint as governance infrastructure*  
 >  
 > 🏮 Return To:  
 >  
-> - [🃏 Political Dramaturgy](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
