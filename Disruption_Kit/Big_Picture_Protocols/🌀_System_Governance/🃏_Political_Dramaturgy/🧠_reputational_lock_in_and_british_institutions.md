@@ -1,6 +1,6 @@
-# 🧠 Reputational Lock-In and British Institutions
-**First created:** 2026-05-11 | **Last updated:** 2026-05-11  
-*Defensive containment, continuity anxiety, and the escalation dynamics of prestige systems.*
+# 🧠 Reputational Lock-In and British Institutions  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-13  
+*Defensive containment, continuity anxiety, and the escalation dynamics of prestige systems.*  
 
 ---
 
@@ -378,16 +378,16 @@ It examines how prestige systems and continuity-oriented governance cultures bec
 > - [☔️ Restorative Justice in a Shame Culture](./☔️_restorative_justice_in_a_shame_culture.md) — *survivable accountability under continuity anxiety*  
 > - [⚖️ Equanimitas and the Stiff Upper Lip](./⚖️_equanimitas_and_the_stiff_upper_lip.md) — *emotional restraint as governance infrastructure*  
 > - [🛰️ The Vulnerability of the Gatekeepers](./🛰️_the_vulnerability_of_the_gatekeepers.md) — *elite-network fragility and reputational exposure*  
-> - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular metaphor for continuity-oriented institutional systems*
+> - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular metaphor for continuity-oriented institutional systems*  
 >  
 > 🏮 Return To:  
 >  
-> - [🃏 Political Dramaturgy](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
