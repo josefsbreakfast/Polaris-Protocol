@@ -1,5 +1,5 @@
 # 🧨 Centre-Left Threat Archetypes  
-**First created:** 2025-11-29 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-29 | **Last updated:** 2026-05-13  
 *Diagnostic matrix for understanding why specific personalities destabilise traditional centre-left power ecosystems.*  
 
 ---
@@ -112,16 +112,16 @@ centre-left power, political psychology, threat archetypes, narrative control, p
 > 
 > - [⚖️ Containment Contract Trace] — dynamics of reputational suppression  
 > - [🧬 Cloneproof] — countermeasures against narrative misuse  
-> - [🛰️ Metadata Ghosts] — forensic registers of invisible pressures
+> - [🛰️ Metadata Ghosts] — forensic registers of invisible pressures  
 >  
 > 🏮 Return To:  
 >  
-> - [🃏 Political Dramaturgy](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
