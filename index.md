@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 21:59:52 UTC_
+_Generated on 2026-05-13 22:00:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -493,6 +493,7 @@ _Generated on 2026-05-13 21:59:52 UTC_
         - [`🦩_from_disability_to_trans_panic_the_reusable_script.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🦩_from_disability_to_trans_panic_the_reusable_script.md)
         - [`🧠_narrative_omission_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_narrative_omission_loop.md)
         - [`🧠_politicians_and_public_contact.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_politicians_and_public_contact.md)
+        - [`🧠_the_men_are_arguing_about_the_state.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧠_the_men_are_arguing_about_the_state.md)
         - [`🧩_accountability_failures_and_public_trust.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧩_accountability_failures_and_public_trust.md)
         - [`🧩_myth_vs_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧩_myth_vs_mechanism.md)
         - [`🧬_narrative_as_state_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧬_narrative_as_state_infrastructure.md)
