@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 13:29:48 UTC_
+_Generated on 2026-05-13 13:31:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6836,6 +6836,8 @@ _Generated on 2026-05-13 13:29:48 UTC_
   - [**🌙_Everyday_Containment/**](🌸_Containment_Studies/🌙_Everyday_Containment/)
     - [`README.md`](🌸_Containment_Studies/🌙_Everyday_Containment/README.md)
     - [`🫀_empathetic_burnout_and_cognitive_exhaustion.md`](🌸_Containment_Studies/🌙_Everyday_Containment/🫀_empathetic_burnout_and_cognitive_exhaustion.md)
+  - [**🌱_Foundations_Of_Containment/**](🌸_Containment_Studies/🌱_Foundations_Of_Containment/)
+    - [`README.md`](🌸_Containment_Studies/🌱_Foundations_Of_Containment/README.md)
   - [**💞_Containment_Theory/**](🌸_Containment_Studies/💞_Containment_Theory/)
     - [`README.md`](🌸_Containment_Studies/💞_Containment_Theory/README.md)
     - [`⚛️_containment_as_coupled_waveform_theory.md`](🌸_Containment_Studies/💞_Containment_Theory/⚛️_containment_as_coupled_waveform_theory.md)
