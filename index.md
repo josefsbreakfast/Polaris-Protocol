@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 21:56:32 UTC_
+_Generated on 2026-05-13 21:57:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -196,6 +196,7 @@ _Generated on 2026-05-13 21:56:32 UTC_
         - [`🔥_when_law_has_collapsed_into_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🔥_when_law_has_collapsed_into_power.md)
         - [`🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🔺_the_golden_triangle_and_the_hidden_constitution_of_local_government.md)
         - [`🕎_the_esther_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🕎_the_esther_protocol.md)
+        - [`🕰️_the_state_marries_the_queen.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🕰️_the_state_marries_the_queen.md)
         - [`🗂️_bureaucratic_attrition_as_governance_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🗂️_bureaucratic_attrition_as_governance_strategy.md)
         - [`🚗_when_allies_should_take_the_keys.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🚗_when_allies_should_take_the_keys.md)
         - [`🚢_flotilla_blockade_and_maritime_non_intervention.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🚢_flotilla_blockade_and_maritime_non_intervention.md)
