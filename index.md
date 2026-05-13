@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 21:57:22 UTC_
+_Generated on 2026-05-13 21:58:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -435,6 +435,7 @@ _Generated on 2026-05-13 21:57:22 UTC_
         - [`🧮_deepthought_datagov_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧮_deepthought_datagov_problem.md)
         - [`🧮_optimisation_and_the_fascism_of_efficiency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧮_optimisation_and_the_fascism_of_efficiency.md)
         - [`🧮_the_unpaid_labour_of_verification.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧮_the_unpaid_labour_of_verification.md)
+        - [`🩸_mary_queen_of_scots_and_the_failure_of_symbolic_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩸_mary_queen_of_scots_and_the_failure_of_symbolic_containment.md)
         - [`🩹_pain_is_not_a_kpi.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_pain_is_not_a_kpi.md)
         - [`🩹_patch_repair_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩹_patch_repair_governance.md)
         - [`🩺_governing_doctors_in_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🩺_governing_doctors_in_uk.md)
