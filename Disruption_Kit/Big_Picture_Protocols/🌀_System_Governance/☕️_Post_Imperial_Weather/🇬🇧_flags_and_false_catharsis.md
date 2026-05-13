@@ -266,17 +266,17 @@ The node focuses on the tension between emotionally satisfying political express
 
 > 📡 Cross-references:
 >
-> - [🧨 Semantic Collapse](./🧨_semantic_collapse.md) — *when political language becomes emotionally overloaded and strategically unstable*  
+> - [🧨 Semantic Collapse](../../🌍_National_Storytime/🧨_semantic_collapse.md) — *when political language becomes emotionally overloaded and strategically unstable*  
 > - [🏛️ Our Island, Our Realm, Our Rules (and Why That Includes Hospitality)](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_our_island_our_realm_our_rules.md) — *sovereignty, obligation, and democratic self-image*  
-> - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *institutional legitimacy under public emotional pressure*  
-> - [✈️ Classy If You’re Rich](./✈️_classy_if_youre_rich.md) — *reputational asymmetry and unequal interpretive systems*  
+> - [🚀 Procedure vs Perception](../../🧠_Apparatchik_Philosophy/🚀_procedure_vs_perception.md) — *institutional legitimacy under public emotional pressure*  
+> - [✈️ Classy If You’re Rich](../../📚_Narrative_Management/✈️_classy_if_youre_rich.md) — *reputational asymmetry and unequal interpretive systems*  
 >
 > 🏮 Return To:
 >
-> - [☕️ Post-Imperial Weather](./README.md)
+> - [☕️ Post-Imperial Weather](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
