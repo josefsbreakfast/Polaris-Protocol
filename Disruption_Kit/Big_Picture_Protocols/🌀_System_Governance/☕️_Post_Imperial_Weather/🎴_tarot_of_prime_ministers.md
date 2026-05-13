@@ -99,15 +99,17 @@ tarot, archetypes, UK politics, symbolic mapping, institutional narrative, gover
 It operates as satire-adjacent institutional mood mapping rather than political analysis or endorsement.  
 
 > 📡 Cross-References:
-> 
-> - []()  
+>
+> - [💣 Austerity as Time Collapse](../🕰️_Chronos_Or_Kairos/💣_austerity_as_time_collapse.md)  
+> - [🚩 Angleland Ahoy!](../🚩_Angleland_Ahoy/README.md)
+> - [🧊 Antarctic Biscuit Defence Directorate](../🧊_Antarctic_Biscuit_Defence_Directory/🚀_start_here.md)  
 >   
 > 🏮 Return To:
 >
-> - [☕️ Post-Imperial Weather](./README.md)
+> - [☕️ Post-Imperial Weather](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
