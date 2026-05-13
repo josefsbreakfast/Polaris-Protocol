@@ -16,9 +16,7 @@ This dynamic overlaps with concepts such as **reciprocal radicalisation** and **
 
 ---
 
-## 🪬 Analysis  
-
-### 1. 🧭 Observable Classification Asymmetry  
+## 🧭 Observable Classification Asymmetry  
 - Comparative OSINT monitoring may reveal cases where broadly similar forms of ideologically targeted violence receive different public framing or investigative escalation.  
 - Public discourse often distinguishes differently between categories such as:
   - Islamist extremism,
@@ -32,7 +30,8 @@ This dynamic overlaps with concepts such as **reciprocal radicalisation** and **
 
 ---
 
-### 2. 💻 Digital-Evidence Asymmetry  
+## 💻 Digital-Evidence Asymmetry  
+
 - Public perception may also be shaped by differences in how digital evidence is discussed or prioritised across cases.  
 - In some incidents, online activity, manifestos, encrypted communications, or ideological consumption patterns are foregrounded as evidence of radicalisation.  
 - In others, similar material may be framed primarily through personal distress, isolation, youth vulnerability, or mental-health narratives.  
@@ -41,7 +40,8 @@ This dynamic overlaps with concepts such as **reciprocal radicalisation** and **
 
 ---
 
-### 3. 🧠 Radicalisation Feedback Effects  
+## 🧠 Radicalisation Feedback Effects  
+
 - Affected communities may interpret perceived under-classification as institutional tolerance or reduced seriousness toward violence targeting them.  
 - Sympathetic ideological networks may interpret inconsistent responses as evidence of political favouritism or unequal accountability.  
 - These perceptions can contribute to forms of **reciprocal radicalisation** and **cumulative extremism**, in which opposing extremist movements mutually reinforce one another through cycles of fear, grievance, retaliation, and identity consolidation.  
@@ -50,7 +50,7 @@ This dynamic overlaps with concepts such as **reciprocal radicalisation** and **
 
 ---
 
-### 4. ⚖️ Equal-Threshold Governance Proposal  
+## ⚖️ Equal-Threshold Governance Proposal  
 - Apply a consistent evidentiary triage framework for all religiously, racially, or ideologically targeted violence.  
 - Ensure proportionate and legally justified assessment of:
   - digital behaviour,
@@ -60,7 +60,34 @@ This dynamic overlaps with concepts such as **reciprocal radicalisation** and **
   - and intent signalling,
   across all ideological categories.  
 - Improve transparency around classification decisions where operationally safe and legally appropriate.  
-- Where terrorism classification is not pursued in high-profile ideological cases, publish post-investigation or post-conviction explanatory reasoning where feasible in order to strengthen public trust and procedural clarity.  
+- Where terrorism classification is not pursued in high-profile ideological cases, publish post-investigation or post-conviction explanatory reasoning where feasible in order to strengthen public trust and procedural clarity.
+
+## 🧱 Behaviour Versus Identity Classification  
+- Counter-extremism systems often struggle to distinguish between:
+  - identity,
+  - ideology,
+  - political theology,
+  - radical rhetoric,
+  - and operational violence.  
+- In democratic systems, beliefs alone are generally insufficient grounds for state intervention unless linked to incitement, coordination, coercion, or preparation for violence.  
+- Over-expansive classification systems may unintentionally conflate:
+  - political movements with militant movements,
+  - religious conservatism with violent extremism,
+  - or oppositional rhetoric with operational threat activity.  
+- For example, concepts such as *Islamism* and *jihadism* are analytically distinct despite often being collapsed together in public discourse.  
+- A behaviour-oriented framework instead focuses on:
+  - credible threats,
+  - violence advocacy,
+  - coercive intimidation,
+  - operational planning,
+  - recruitment,
+  - material support,
+  - or organised incitement.  
+- Within this model, the central governance question becomes not simply:
+  > “What do they believe?”  
+  but:
+  > “What harmful capacities, actions, or mobilisation pathways are emerging?”  
+- This distinction may improve both democratic legitimacy and operational clarity by reducing category inflation and improving threshold consistency.  
 
 ---
 
