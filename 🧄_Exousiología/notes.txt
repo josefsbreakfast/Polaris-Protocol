@@ -1,0 +1,81 @@
+🌸_Containment_Studies/  
+│
+├── README.md
+├── 🌸_containment_index.md
+│
+├── 🌱_foundations_of_containment/
+│   ├── 🌱_what_is_containment.md
+│   ├── 🌱_boundary_and_membrane.md
+│   ├── 🌱_stability_and_overflow.md
+│   ├── 🌱_why_systems_contain.md
+│   ├── 🌱_protective_vs_coercive_containment.md
+│   └── 🌱_containment_and_legitimacy.md
+│
+├── 🧱_containment_infrastructures/
+│   ├── 🧱_walls_borders_and_zones.md
+│   ├── 🧱_platform_governance.md
+│   ├── 🧱_institutional_gatekeeping.md
+│   ├── 🧱_carceral_architectures.md
+│   ├── 🧱_algorithmic_enclosure.md
+│   └── 🧱_bureaucratic_containment.md
+│
+├── 🌙_everyday_containment/
+│   ├── 🌙_tone_policing.md
+│   ├── 🌙_composure_rituals.md
+│   ├── 🌙_social_silencing.md
+│   ├── 🌙_respectability_as_containment.md
+│   ├── 🌙_algorithmic_attention_loops.md
+│   └── 🌙_humour_as_pressure_release.md
+│
+├── 🧠_psychic_and_emotional_containment/
+│   ├── 🧠_therapeutic_language_as_containment.md
+│   ├── 🧠_hypervigilance_and_self_monitoring.md
+│   ├── 🧠_survival_masking.md
+│   ├── 🧠_managed_disclosure.md
+│   ├── 🧠_who_absorbs_instability.md
+│   └── 🧠_containment_fatigue.md
+│
+├── 🎨_aesthetic_and_symbolic_containment/
+│   ├── 🎨_aestheticised_stability.md
+│   ├── 🎨_ritualised_sacrifice.md
+│   ├── 🎨_cleanliness_and_order.md
+│   ├── 🎨_dignity_composure_and_decline.md
+│   ├── 🎨_curation_and_visibility.md
+│   └── 🎨_symbolic_violence.md
+│
+├── 🔁_containment_dynamics/
+│   ├── 🔁_escalation_cycles.md
+│   ├── 🔁_exception_creep.md
+│   ├── 🔁_adaptive_containment.md
+│   ├── 🔁_containment_overreach.md
+│   ├── 🔁_crisis_management_loops.md
+│   └── 🔁_institutional_self_preservation.md
+│
+├── 🪞_containment_and_resistance/
+│   ├── 🪞_refusal_and_exit.md
+│   ├── 🪞_folk_resilience.md
+│   ├── 🪞_mutual_aid_as_countercontainment.md
+│   ├── 🪞_narrative_leakage.md
+│   ├── 🪞_humour_and_evasion.md
+│   └── 🪞_distributed_survival_systems.md
+│
+├── 🌿_ecologies_of_containment/
+│   ├── 🌿_containment_vs_stewardship.md
+│   ├── 🌿_membranes_not_walls.md
+│   ├── 🌿_healthy_boundary_formation.md
+│   ├── 🌿_ecological_load_distribution.md
+│   └── 🌿_living_systems_and_adaptive_limits.md
+│
+├── 🧰_diagnostic_tools/
+│   ├── 🧰_containment_pressure_checklist.md
+│   ├── 🧰_boundary_mapping_template.md
+│   ├── 🧰_institutional_rigidity_signs.md
+│   ├── 🧰_who_bears_the_cost.md
+│   └── 🧰_coercion_vs_care_diagnostic.md
+│
+└── 🪢_open_questions_and_edges/
+    ├── 🪢_when_containment_is_necessary.md
+    ├── 🪢_risks_of_total_openness.md
+    ├── 🪢_containment_without_domination.md
+    ├── 🪢_can_large_systems_exist_without_enclosure.md
+    └── 🪢_limits_of_containment_theory.md
