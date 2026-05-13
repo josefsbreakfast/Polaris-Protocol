@@ -32,7 +32,13 @@ This includes:
 - national mythmaking,
 - and the repeated performance of continuity after rupture.
 
-The cluster is especially concerned with Britain, but includes comparative post-imperial emotional systems elsewhere where relevant.
+The cluster is especially concerned with Britain, but includes comparative post-imperial emotional systems elsewhere where relevant.  
+
+The cluster uses terms like “managed decline” descriptively rather than as endorsements of imperial restoration narratives.
+
+Processes of decolonisation, democratic self-determination, and imperial contraction are not treated here as inherently negative developments.
+
+Instead, the focus is on how states and populations emotionally, culturally, and institutionally adapt to large-scale shifts in geopolitical identity and material power.  
 
 ---
 
