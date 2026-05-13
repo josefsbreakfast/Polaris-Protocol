@@ -1,5 +1,5 @@
 # 🫀 Empathetic Burnout and Cognitive Exhaustion  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-15  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-13  
 *When care, vigilance, and meaning-making exceed available cognitive and emotional capacity.*  
 
 ---
@@ -131,4 +131,4 @@ It exists to name a form of depletion that is frequently misread as interpersona
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-05-13_
