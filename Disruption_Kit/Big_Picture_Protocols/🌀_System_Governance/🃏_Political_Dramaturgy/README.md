@@ -1,5 +1,5 @@
 # 🃏 Political Dramaturgy  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-11  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-13  
 *How power becomes theatrical, symbolic, aesthetic, and emotionally staged.*
 
 ---
@@ -122,7 +122,7 @@ It maps the symbolic, theatrical, and aesthetic dimensions of governance systems
 > 
 > - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *narrative legitimacy and communicative governance*  
 > - [☕️ Post-Imperial Weather](../☕️_Post_Imperial_Weather/README.md) — *emotional climates and symbolic continuity after empire*  
-> - [🌍 National Storytime](../🌍_National_Storytime/README.md) — *national myths and civilisational storytelling systems*
+> - [🌍 National Storytime](../🌍_National_Storytime/README.md) — *national myths and civilisational storytelling systems*  
 >  
 > 🏮 Return To:  
 >  
@@ -133,4 +133,4 @@ It maps the symbolic, theatrical, and aesthetic dimensions of governance systems
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
