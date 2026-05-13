@@ -1,6 +1,6 @@
 # 🪐 Meta-Containment  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-12  
-*Reflexive analysis of containment within containment — how knowledge systems, archives, and protocols hold themselves.*
+**First created:** 2025-11-02 | **Last updated:** 2026-05-13  
+*Reflexive analysis of containment within containment — how knowledge systems, archives, and protocols hold themselves.*  
 
 ---
 
@@ -94,4 +94,4 @@ It examines how containment reappears in the very tools, languages, and governan
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-05-13_
