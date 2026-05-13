@@ -1,5 +1,5 @@
-# 🌱 The Broker Class and British Stagnation
-**First created:** 2026-05-11 | **Last updated:** 2026-05-11  
+# 🌱 The Broker Class and British Stagnation  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-13  
 *Risk aversion, intermediary legitimacy systems, and the paradox of British institutional continuity.*  
 
 ---
@@ -328,4 +328,4 @@ It maps how Britain’s intermediary establishment systems simultaneously preser
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
