@@ -187,14 +187,16 @@ It examines how culturally specific rhetorical styles — particularly British u
 
 > 📡 Cross-references:
 >
-> - [Narrative Management](../path/) — *tone, framing, and institutional interpretation systems*
+> - [☕️ The Death of the British Eccentric](./☕️_the_death_of_the_british_eccentric.md)  
+> - [👑 Aurafarming A New Age](../../📚_Narrative_Management/👑_aurafarming_a_new_age.md)  
+> - [💼 Narrative Capture & Linguistic Power](../../📚_Narrative_Management/💼_narrative_capture_and_linguistic_power.md)  
 >  
 > 🏮 Return To:  
 >  
-> - [☕️ Post-Imperial Weather](./README.md)
+> - [☕️ Post-Imperial Weather](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
