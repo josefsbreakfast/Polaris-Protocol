@@ -1,5 +1,5 @@
 # 🌐 Late-Stage Autocracy Vibe Diagnostics  
-**First created:** 2025-11-20 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-20 | **Last updated:** 2026-05-13  
 *How regime instability becomes emotionally visible long before formal collapse.*  
 
 ---
@@ -317,16 +317,15 @@ The node treats “vibes” not as mystical intuition, but as distributed social
 > 
 > - [🌀 UK as a Low-Cost Influence Environment](../📚_Narrative_Management/🌀_uk_low_cost_influence_environment.md) — *ambient behavioural pressure and emotional modulation systems*  
 > - [🇬🇧 Why the UK Likes to Laugh at the Ruling Class](../☕️_Post_Imperial_Weather/🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md) — *humour as democratic pressure release and institutional contact*  
-> - [🧿 Cluster-Level Behavioural Modulation] — *pending*  
 >   
 > 🏮 Return To:
 >
-> - [🃏 Political Dramaturgy](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
