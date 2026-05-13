@@ -1,5 +1,5 @@
 # 🧠 Epistemic Asymmetry in Security Systems  
-**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-26 | **Last updated:** 2026-05-13  
 *What some people know — and others can never see*  
 
 ---
@@ -206,4 +206,4 @@ It closes the loop between:
 > When knowledge of threat and system failure is unevenly distributed, power follows — not through secrecy, but through unchallengeable assumptions.
 
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-05-13_
