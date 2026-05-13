@@ -1,5 +1,5 @@
 # 🌍 Israel–Five Eyes Structural Interdependency  
-**First created:** 2025-11-18 | **Last updated:** 2026-04-24  
+**First created:** 2025-11-18 | **Last updated:** 2026-05-13  
 *How security systems, data pipelines, and procurement relationships create cross-dependencies between Israeli and Western surveillance ecosystems.*  
 
 ---
@@ -183,4 +183,4 @@ It maps how shared infrastructure, procurement, and data practices create depend
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-05-13_
