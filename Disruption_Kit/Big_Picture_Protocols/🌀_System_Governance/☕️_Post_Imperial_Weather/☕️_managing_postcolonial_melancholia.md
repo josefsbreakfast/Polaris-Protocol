@@ -273,8 +273,8 @@ The node examines how emotional regulation, legitimacy management, and narrative
 
 > 📡 Cross-references:
 > 
-> - [☕️ The Discombobulatory Mental Overload](./☕️_the_discombobulatory_mental_overload.md) — *cognitive overload and interpretive destabilisation under sustained pressure*  
-> - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *institutional legitimacy gaps between procedural correctness and public interpretation*
+> - [☕️ The Discombobulatory Mental Overload](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/☕️_the_discombobulatory_mental_overload.md) — *cognitive overload and interpretive destabilisation under sustained pressure*  
+> - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *institutional legitimacy gaps between procedural correctness and public interpretation*  
 >
 > 🏮 Return To:
 >
