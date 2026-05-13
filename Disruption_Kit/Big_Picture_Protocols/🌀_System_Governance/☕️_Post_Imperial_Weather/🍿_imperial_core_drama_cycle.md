@@ -310,17 +310,15 @@ The node focuses on:
 
 > 📡 Cross-references:
 > 
-> - [🧬 Keystone RCA](./🧬_keystone_rca.md) — *executive root-cause analysis and structural mapping.*  
-> - [🌀 Systems & Governance](../README.md) — *constitutional behaviour and institutional reflexes.*  
-> - [👁️‍🗨️ Witness & Historical Casefiles](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *trauma loops and historical continuity.*  
-> - [🌐 Late-Stage Autocracy Vibe Diagnostics](./🌐_late_stage_autocracy_vibe_diagnostics.md) — *atmosphere, spectacle, and institutional exhaustion.*
+> - [🧬 Keystone RCA](../🧬_Governance_Repair_Shop/🧬_keystone_rca.md) — *executive root-cause analysis and structural mapping*  
+> - [🌐 Late-Stage Autocracy Vibe Diagnostics](../../🃏_Political_Dramaturgy/🌐_late_stage_autocracy_vibe_diagnostics.md) — *atmosphere, spectacle, and institutional exhaustion*  
 >   
 > 🏮 Return To:
 >
-> - [☕️ Post-Imperial Weather](./README.md)
+> - [☕️ Post-Imperial Weather](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
