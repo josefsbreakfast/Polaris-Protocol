@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 20:59:19 UTC_
+_Generated on 2026-05-13 21:00:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -612,6 +612,7 @@ _Generated on 2026-05-13 20:59:19 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/README.md)
         - [`🏗️_skyscraper_over_pebbles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🏗️_skyscraper_over_pebbles.md)
         - [`🏛️_olympus_syndrome.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🏛️_olympus_syndrome.md)
+        - [`🏛️_why_london_is_moscow.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🏛️_why_london_is_moscow.md)
         - [`🐐_old_school_scapegoating.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🐐_old_school_scapegoating.md)
         - [`🗂️_when_the_system_realises_it_fucked_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🗂️_when_the_system_realises_it_fucked_up.md)
         - [`🚀_procedure_vs_perception.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🚀_procedure_vs_perception.md)
