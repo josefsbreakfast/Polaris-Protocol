@@ -1,5 +1,5 @@
 # 🎡 The Aesthetic Economy of States  
-**First created:** 2025-11-20 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-20 | **Last updated:** 2026-05-13  
 *How nations generate, distribute, and compete through aesthetic output — from beauty and atmosphere to spectacle, memes, and emotional gravity.*  
 
 ---
@@ -370,19 +370,19 @@ It maps how states accumulate and lose symbolic, emotional, and cultural gravity
 
 > 📡 Cross-references:
 > 
-> - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md)
-> - [🇷🇺 The End of Russia’s Camp Era](../../🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)
+> - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md)  
+> - [🇷🇺 The End of Russia’s Camp Era](../../🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)  
 > - [🍿 Imperial Core Drama Cycle]  
 > - [☕️ The Eerie of Elections — 2026 Edition]  
 >   
 > 🏮 Return To:
 >
-> - [🃏 Political Dramaturgy](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
