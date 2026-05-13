@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 20:52:03 UTC_
+_Generated on 2026-05-13 20:54:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -246,6 +246,7 @@ _Generated on 2026-05-13 20:52:03 UTC_
         - [`🪶_the_queen_as_national_emotional_container.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🪶_the_queen_as_national_emotional_container.md)
       - [**🌍_National_Storytime/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/README.md)
+        - [`⚔️_the_wars_of_the_roses_never_ended.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/⚔️_the_wars_of_the_roses_never_ended.md)
         - [`🇩🇪_trauma_sovereignty_as_foreign_policy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🇩🇪_trauma_sovereignty_as_foreign_policy.md)
         - [`🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md)
         - [`🌀_dual_loyalty_loops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🌀_dual_loyalty_loops.md)
@@ -256,6 +257,7 @@ _Generated on 2026-05-13 20:52:03 UTC_
         - [`🧨_semantic_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🧨_semantic_collapse.md)
         - [`🧨_why_argumentation_fails_with_alt_right_ideology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🧨_why_argumentation_fails_with_alt_right_ideology.md)
         - [`🧵_old_guard_optics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🧵_old_guard_optics.md)
+        - [`🩸_the_romanovs_and_british_aristocratic_imagination.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🩸_the_romanovs_and_british_aristocratic_imagination.md)
       - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/README.md)
         - [`bottleneck_mapping_log_template.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/bottleneck_mapping_log_template.csv)
