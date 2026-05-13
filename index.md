@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 20:41:23 UTC_
+_Generated on 2026-05-13 20:44:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -95,6 +95,7 @@ _Generated on 2026-05-13 20:41:23 UTC_
         - [`💣_trident_as_modern_kraken_security_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/💣_trident_as_modern_kraken_security_theatre.md)
         - [`📜_how_to_style_out_a_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/📜_how_to_style_out_a_crisis.md)
         - [`📜_loss_management_performance_of_composure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/📜_loss_management_performance_of_composure.md)
+        - [`📺_beyond_regional_tv.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/📺_beyond_regional_tv.md)
         - [`🕯️_elizabeth_ii_and_the_last_sacred_queen.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🕯️_elizabeth_ii_and_the_last_sacred_queen.md)
         - [`🕯️_the_british_blind_spot.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🕯️_the_british_blind_spot.md)
       - [**⚖️_Legal_State_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/)
