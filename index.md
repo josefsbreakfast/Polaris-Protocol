@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 01:09:51 UTC_
+_Generated on 2026-05-13 01:12:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -349,9 +349,7 @@ _Generated on 2026-05-13 01:09:51 UTC_
         - [`🌀_systemic_coercion_in_federated_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_systemic_coercion_in_federated_governance.md)
         - [`🌀_when_system_behaviour_stops_making_sense.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_when_system_behaviour_stops_making_sense.md)
         - [`🌌_institutional_pattern_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌌_institutional_pattern_recognition.md)
-        - [`🌍_israel_five_eyes_structural_interdependency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌍_israel_five_eyes_structural_interdependency.md)
         - [`🎩_organisational_civility_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🎩_organisational_civility_as_containment.md)
-        - [`🎯_single_points_of_failure_as_authoritarian_easy_targets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🎯_single_points_of_failure_as_authoritarian_easy_targets.md)
         - [`🏚️_cultural_drift_toward_coercive_logic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_cultural_drift_toward_coercive_logic.md)
         - [`🏚️_seven_layers_of_safeguard_breakdown.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_seven_layers_of_safeguard_breakdown.md)
         - [`🏛️_institutional_posture_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏛️_institutional_posture_collapse.md)
@@ -545,7 +543,9 @@ _Generated on 2026-05-13 01:09:51 UTC_
         - [`⚖️_ipco_audit_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚖️_ipco_audit_cycle.md)
         - [`⚖️_official_secrets_reform_and_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚖️_official_secrets_reform_and_accountability.md)
         - [`🇷🇺_russia_is_a_threat_when_process_is_weak.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🇷🇺_russia_is_a_threat_when_process_is_weak.md)
+        - [`🌍_israel_five_eyes_structural_interdependency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🌍_israel_five_eyes_structural_interdependency.md)
         - [`🌍_treaty_for_the_english_speaking_internet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🌍_treaty_for_the_english_speaking_internet.md)
+        - [`🎯_single_points_of_failure_as_authoritarian_easy_targets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🎯_single_points_of_failure_as_authoritarian_easy_targets.md)
         - [`🦠_hybrid_threat_overlay.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🦠_hybrid_threat_overlay.md)
         - [`🪖_classification_suppression_and_misuse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🪖_classification_suppression_and_misuse.md)
         - [`🪖_how_politicians_legally_strangle_the_mod.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🪖_how_politicians_legally_strangle_the_mod.md)
