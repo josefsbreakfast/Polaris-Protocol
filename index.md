@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 21:00:57 UTC_
+_Generated on 2026-05-13 21:02:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -610,6 +610,7 @@ _Generated on 2026-05-13 21:00:57 UTC_
         - [`🥸_declassification_scenario.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🥸_declassification_scenario.md)
       - [**🧠_Apparatchik_Philosophy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/README.md)
+        - [`🌫️_saint_petersburg_is_not_london.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🌫️_saint_petersburg_is_not_london.md)
         - [`🏗️_skyscraper_over_pebbles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🏗️_skyscraper_over_pebbles.md)
         - [`🏛️_olympus_syndrome.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🏛️_olympus_syndrome.md)
         - [`🏛️_why_london_is_moscow.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🏛️_why_london_is_moscow.md)
