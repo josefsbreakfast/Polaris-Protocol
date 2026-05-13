@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 13:31:22 UTC_
+_Generated on 2026-05-13 13:33:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6858,6 +6858,8 @@ _Generated on 2026-05-13 13:31:22 UTC_
     - [`🧬_signal_steering.md`](🌸_Containment_Studies/🪐_Meta_Containment/🧬_signal_steering.md)
     - [`🧿_against_pseudoanthropy.md`](🌸_Containment_Studies/🪐_Meta_Containment/🧿_against_pseudoanthropy.md)
     - [`🫒_the_occupied_mind.md`](🌸_Containment_Studies/🪐_Meta_Containment/🫒_the_occupied_mind.md)
+  - [**🪨_Containment_Infrastructures/**](🌸_Containment_Studies/🪨_Containment_Infrastructures/)
+    - [`README.md`](🌸_Containment_Studies/🪨_Containment_Infrastructures/README.md)
   - [`README.md`](🌸_Containment_Studies/README.md)
   - [`notes.txt`](🌸_Containment_Studies/notes.txt)
 - [**👻_Apparitional_Objects/**](👻_Apparitional_Objects/)
