@@ -1,6 +1,6 @@
 # 🪖 Respectfully Asking the MOD to Declassify (and How Defensive Cabinet Fails Defence)  
-**First created:** 2025-12-24 | **Last updated:** 2026-01-09  
-*How political defensiveness, not security need, produces silence that degrades lawful defence governance.*
+**First created:** 2025-12-24 | **Last updated:** 2026-05-13  
+*How political defensiveness, not security need, produces silence that degrades lawful defence governance.*  
 
 ---
 
@@ -151,4 +151,4 @@ It documents how political defensiveness can distort classification practice and
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-05-13_
