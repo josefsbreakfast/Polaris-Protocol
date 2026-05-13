@@ -298,16 +298,16 @@ It documents ridicule and laughter as inherited emotional technologies within Br
 
 > 📡 Cross-references:
 > 
-> - []()  
-> - []()  
-> - []()  
+> - [📚 Over Recognition](../📚_Narrative_Management/📚_over_recognition.md)  
+> - [🚪 Doorbell of Denial](../📚_Narrative_Management/🚪_doorbell_of_denial.md)  
+> - [🚩 Angleland Ahoy!](../🚩_Angleland_Ahoy/README.md)  
 >   
 > 🏮 Return To:
 >
-> - [☕️ Post-Imperial Weather](./README.md)
+> - [☕️ Post-Imperial Weather](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
