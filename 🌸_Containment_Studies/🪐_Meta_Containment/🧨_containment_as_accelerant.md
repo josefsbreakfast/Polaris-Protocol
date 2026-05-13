@@ -1,5 +1,5 @@
 # 🧨 Containment as Accelerant  
-**First created:** 2025-11-01 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-01 | **Last updated:** 2026-05-13  
 *Why patching toxic systems without changing their architecture concentrates extremity instead of curing it.*  
 
 ---
@@ -96,4 +96,4 @@ It examines how moderation and counter-extremism frameworks unintentionally inte
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-05-13_
