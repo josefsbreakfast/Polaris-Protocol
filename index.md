@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 13:33:04 UTC_
+_Generated on 2026-05-13 13:34:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6849,6 +6849,8 @@ _Generated on 2026-05-13 13:33:04 UTC_
     - [`🧬_containment_as_coevolutionary_ecology.md`](🌸_Containment_Studies/💞_Containment_Theory/🧬_containment_as_coevolutionary_ecology.md)
     - [`🪞_containment_detente_as_temporal_governance.md`](🌸_Containment_Studies/💞_Containment_Theory/🪞_containment_detente_as_temporal_governance.md)
     - [`🪼_interaction_drift_and_safety_layer_erosion.md`](🌸_Containment_Studies/💞_Containment_Theory/🪼_interaction_drift_and_safety_layer_erosion.md)
+  - [**🧠_Psychic_Emotional_Containment/**](🌸_Containment_Studies/🧠_Psychic_Emotional_Containment/)
+    - [`README.md`](🌸_Containment_Studies/🧠_Psychic_Emotional_Containment/README.md)
   - [**🪐_Meta_Containment/**](🌸_Containment_Studies/🪐_Meta_Containment/)
     - [`README.md`](🌸_Containment_Studies/🪐_Meta_Containment/README.md)
     - [`🍌_advancing_backwards.md`](🌸_Containment_Studies/🪐_Meta_Containment/🍌_advancing_backwards.md)
