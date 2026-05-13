@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 13:38:30 UTC_
+_Generated on 2026-05-13 13:41:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6857,6 +6857,8 @@ _Generated on 2026-05-13 13:38:30 UTC_
     - [`README.md`](🌸_Containment_Studies/🦋_Aesthetic_Symbolic_Containment/README.md)
   - [**🧠_Psychic_Emotional_Containment/**](🌸_Containment_Studies/🧠_Psychic_Emotional_Containment/)
     - [`README.md`](🌸_Containment_Studies/🧠_Psychic_Emotional_Containment/README.md)
+  - [**🩺_Diagnostic_Tools/**](🌸_Containment_Studies/🩺_Diagnostic_Tools/)
+    - [`README.md`](🌸_Containment_Studies/🩺_Diagnostic_Tools/README.md)
   - [**🪐_Meta_Containment/**](🌸_Containment_Studies/🪐_Meta_Containment/)
     - [`README.md`](🌸_Containment_Studies/🪐_Meta_Containment/README.md)
     - [`🍌_advancing_backwards.md`](🌸_Containment_Studies/🪐_Meta_Containment/🍌_advancing_backwards.md)
@@ -6868,10 +6870,11 @@ _Generated on 2026-05-13 13:38:30 UTC_
     - [`🫒_the_occupied_mind.md`](🌸_Containment_Studies/🪐_Meta_Containment/🫒_the_occupied_mind.md)
   - [**🪞_Containment_Resistance/**](🌸_Containment_Studies/🪞_Containment_Resistance/)
     - [`README.md`](🌸_Containment_Studies/🪞_Containment_Resistance/README.md)
+  - [**🪢_Open_Questions_Edges/**](🌸_Containment_Studies/🪢_Open_Questions_Edges/)
+    - [`README.md`](🌸_Containment_Studies/🪢_Open_Questions_Edges/README.md)
   - [**🪨_Containment_Infrastructures/**](🌸_Containment_Studies/🪨_Containment_Infrastructures/)
     - [`README.md`](🌸_Containment_Studies/🪨_Containment_Infrastructures/README.md)
   - [`README.md`](🌸_Containment_Studies/README.md)
-  - [`notes.txt`](🌸_Containment_Studies/notes.txt)
 - [**👻_Apparitional_Objects/**](👻_Apparitional_Objects/)
   - [**🍽️_Fork_Taxonomy/**](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/)
     - [`README.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/README.md)
