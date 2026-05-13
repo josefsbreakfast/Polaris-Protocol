@@ -1,6 +1,6 @@
-# 🍳 Waiting as Josef K.
-**First created:** 2025-12-30 | **Last updated:** 2025-12-30  
-*Waiting as a containment mode under opaque procedure.*
+# 🍳 Waiting as Josef K.  
+**First created:** 2025-12-30 | **Last updated:** 2026-05-13  
+*Waiting as a containment mode under opaque procedure.*  
 
 ---
 
@@ -150,4 +150,4 @@ It documents waiting as a governance technique rather than a personal failure or
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-30_
+_Last updated: 2026-05-13_
