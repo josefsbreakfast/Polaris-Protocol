@@ -165,15 +165,15 @@ The node explores how governance environments oriented toward prevention and aud
 >
 > - [☕️ Managing Postcolonial Melancholia](./☕️_managing_postcolonial_melancholia.md) — *affect regulation and institutional stabilisation under historical strain*  
 > - [☕️ The Discombobulatory Mental Overload](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/☕️_the_discombobulatory_mental_overload.md) — *cognitive overload and interpretive exhaustion under persistent social pressure*  
-> - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *institutional legitimacy gaps between procedural correctness and public interpretation*  
-> - [🪞 Erosion of Duty of Care](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪞_erosion_of_duty_of_care.md) — *institutional withdrawal and social trust erosion*
+> - [🚀 Procedure vs Perception](../../🧠_Apparatchik_Philosophy/🚀_procedure_vs_perception.md) — *institutional legitimacy gaps between procedural correctness and public interpretation*  
+> - [🪞 Erosion of Duty of Care](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪞_erosion_of_duty_of_care.md) — *institutional withdrawal and social trust erosion*  
 >
 > 🏮 Return To:
 >
-> - [☕️ Post-Imperial Weather](./README.md)
+> - [☕️ Post-Imperial Weather](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
