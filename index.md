@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 20:54:56 UTC_
+_Generated on 2026-05-13 20:57:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -630,6 +630,7 @@ _Generated on 2026-05-13 20:54:56 UTC_
         - [`🧠_the_men_had_a_plan.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_the_men_had_a_plan.md)
         - [`🧠_the_ministry_of_overconfident_misreadings.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_the_ministry_of_overconfident_misreadings.md)
         - [`🪖_why_intelligence_agencies_dont_understand_joy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🪖_why_intelligence_agencies_dont_understand_joy.md)
+        - [`🪞_britain_misunderstands_russia_because_britain_misunderstands_itself.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🪞_britain_misunderstands_russia_because_britain_misunderstands_itself.md)
         - [`🪞_cross_context_verification_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🪞_cross_context_verification_failure.md)
         - [`🪞_misunderstanding_as_risk_signal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🪞_misunderstanding_as_risk_signal.md)
         - [`🪞_the_emperors_dashboard.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🪞_the_emperors_dashboard.md)
