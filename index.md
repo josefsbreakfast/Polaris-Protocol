@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 21:04:25 UTC_
+_Generated on 2026-05-13 21:56:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -125,6 +125,7 @@ _Generated on 2026-05-13 21:04:25 UTC_
         - [`⚖️_judicial_scrutiny_of_delay_over_substance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_judicial_scrutiny_of_delay_over_substance.md)
         - [`⚖️_lawful_conscience_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_lawful_conscience_protocol.md)
         - [`⚖️_legal_frameworks_remits.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_legal_frameworks_remits.md)
+        - [`⚖️_mary_i_and_the_constitutional_crisis_of_female_rule.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_mary_i_and_the_constitutional_crisis_of_female_rule.md)
         - [`⚖️_matriarchy_as_requirement.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_matriarchy_as_requirement.md)
         - [`⚖️_misclassified_data_download.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_misclassified_data_download.md)
         - [`⚖️_monarchical_neutrality_as_structural_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_monarchical_neutrality_as_structural_vulnerability.md)
