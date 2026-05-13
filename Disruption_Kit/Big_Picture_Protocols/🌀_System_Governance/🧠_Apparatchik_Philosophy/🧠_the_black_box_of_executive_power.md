@@ -1,5 +1,5 @@
 # 🧠 The Black Box of Executive Power  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-13  
+**First created:** 2025-11-16 | **Last updated:** 2026-05-13  
 *How Prime Ministers and executive leaders actually process information — and why the decision loop becomes structurally distorted, regardless of individual morality.*  
 
 ---
@@ -225,4 +225,4 @@ for understanding why leaders fail, why systems distort intention,
 and why concentrated executive power is incompatible with human cognition  
 and democratic resilience.  
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-05-13_
