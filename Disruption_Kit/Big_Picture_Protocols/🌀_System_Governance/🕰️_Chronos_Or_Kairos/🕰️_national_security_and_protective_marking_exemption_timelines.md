@@ -1,5 +1,5 @@
 # 🕰️ National-Security & Protective-Marking Exemption Timelines  
-**First created:** 2025-11-06 | **Last updated:** 2026-05-12  
+**First created:** 2025-11-06 | **Last updated:** 2026-05-13  
 *Reference guide to how long security-based data-handling exemptions normally last under UK law.*  
 
 ---
@@ -43,4 +43,4 @@ Cases involving defence, intelligence, or counter-terrorism data routinely sit t
 > - [🪄 Disruption Kit](../../../README.md)
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-05-13_
