@@ -1,6 +1,6 @@
 # 🎞️ Authoritarian Aesthetics Collapse Curve  
-**First created:** 2025-11-20 | **Last updated:** 2026-05-11  
-*How autocratic power predictably loses charisma, humour, and cultural coherence as legitimacy erodes.*
+**First created:** 2025-11-20 | **Last updated:** 2026-05-13  
+*How autocratic power predictably loses charisma, humour, and cultural coherence as legitimacy erodes.*  
 
 ---
 
@@ -285,20 +285,20 @@ It functions as a diagnostic tool for recognising legitimacy stress and symbolic
 
 > 📡 Cross-references:
 > 
-> - [🗽 The Consequences of Rapid Schmittian Capture](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🗽_the_consequences_of_rapid_schmittian_capture.md)
+> - [🗽 The Consequences of Rapid Schmittian Capture](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🗽_the_consequences_of_rapid_schmittian_capture.md)  
 > - [🇷🇺 The End of Russia’s Camp Era](../../🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)  
-> - [🧠 Swiss-Cheese Suicide Model in Custody](../../🦕_Elder_Influencers/🕊️_Just_Boxes/🧠_swiss_cheese_suicide_model_in_custody.md)
-> - [⭕️ Why White Christians Need to Speak Up About the Hoop](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/⭕️_why_white_christians_need_to_speak_up_about_the_hoop.md)
-> - [💔 Weaponised Empathy Gaps](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps.md)
+> - [🧠 Swiss-Cheese Suicide Model in Custody](../../🦕_Elder_Influencers/🕊️_Just_Boxes/🧠_swiss_cheese_suicide_model_in_custody.md)  
+> - [⭕️ Why White Christians Need to Speak Up About the Hoop](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/⭕️_why_white_christians_need_to_speak_up_about_the_hoop.md)  
+> - [💔 Weaponised Empathy Gaps](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps.md)  
 >   
 > 🏮 Return To:
 >
-> - [🃏 Political Dramaturgy](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
