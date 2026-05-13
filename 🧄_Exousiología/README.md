@@ -328,7 +328,7 @@ Need, Coordination, or Crisis
 
 It is intentionally paired with:
 
-> 🌸 Containment Studies — a companion framework examining enclosure, stabilisation, coercive governance, symbolic containment, and institutional hardening under stress.
+> [🌸 Containment Studies](../🌸_Containment_Studies/README.md) — a companion framework examining enclosure, stabilisation, coercive governance, symbolic containment, and institutional hardening under stress.
 
 Where the sakura represents:
 > containment through aestheticised endurance,
