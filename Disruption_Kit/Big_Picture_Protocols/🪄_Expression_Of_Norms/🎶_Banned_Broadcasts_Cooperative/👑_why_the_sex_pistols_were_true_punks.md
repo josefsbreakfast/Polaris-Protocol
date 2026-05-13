@@ -264,6 +264,17 @@ But because they violated the expectation that ordinary people should quietly co
 
 ---
 
-🏮 Return To: 🎶 Banned Broadcasts Cooperative  
+## 🏮 Footer  
 
-<!--Just plain not following orompt commands. Will fix later.-->
+*Why The Sex Pistols Were True Punks* is a living node of the Polaris Protocol.  
+It contributes to the archive by examining how countercultural speech can function as informal accountability pressure against systems of institutional silence and reputational protection.  
+
+> 📡 Cross-references:
+> 
+> - [🎶 Banned Broadcasts Cooperative](../🎶_Banned_Broadcasts_Cooperative/) — censorship, media suppression, and broadcast discomfort  
+> - [📚 Narrative Management](../../🌀_System_Governance/📚_Narrative_Management/) — institutional framing and legitimacy maintenance  
+> - [🎭 Cover-Up As Cultural Genre](../../🌀_System_Governance/📚_Narrative_Management/🎭_cover_up_as_cultural_genre.md) — silence, denial, and reputational containment  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-05-13_
