@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 16:12:14 UTC_
+_Generated on 2026-05-13 19:37:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -227,6 +227,7 @@ _Generated on 2026-05-13 16:12:14 UTC_
         - [`🎭_witch_girl_vs_sensible_man_archetypes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🎭_witch_girl_vs_sensible_man_archetypes.md)
         - [`🏛️_archetypes_of_bureaucratic_behaviour.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🏛️_archetypes_of_bureaucratic_behaviour.md)
         - [`🏛️_freud_and_jung_disraeli_and_gladstone_the_duel_of_temperaments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🏛️_freud_and_jung_disraeli_and_gladstone_the_duel_of_temperaments.md)
+        - [`👑_aurafarming_a_new_age.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/👑_aurafarming_a_new_age.md)
         - [`🛰️_the_vulnerability_of_the_gatekeepers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🛰️_the_vulnerability_of_the_gatekeepers.md)
         - [`🧠_reputational_lock_in_and_british_institutions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🧠_reputational_lock_in_and_british_institutions.md)
         - [`🧨_centre_left_threat_archetypes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🧨_centre_left_threat_archetypes.md)
@@ -453,7 +454,6 @@ _Generated on 2026-05-13 16:12:14 UTC_
         - [`🏛️_respectability_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🏛️_respectability_laundering.md)
         - [`🐎_pianos_and_horses.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🐎_pianos_and_horses.md)
         - [`👁️_panopticon_as_industry.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👁️_panopticon_as_industry.md)
-        - [`👑_aurafarming_a_new_age.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/👑_aurafarming_a_new_age.md)
         - [`💄_the_dumb_blonde_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💄_the_dumb_blonde_protocol.md)
         - [`💥_reputational_insurance_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💥_reputational_insurance_collapse.md)
         - [`💼_narrative_capture_and_linguistic_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/💼_narrative_capture_and_linguistic_power.md)
