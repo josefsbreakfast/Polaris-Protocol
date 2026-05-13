@@ -312,7 +312,7 @@ Destabilisation
 
 It is intentionally paired with:
 
-> 🧄 Exousiología — a companion framework exploring legitimacy, stewardship, ecological resilience, and governance through living relational continuity.
+> [🧄 Exousiología](../🧄_Exousiología/README.md) — a companion framework exploring legitimacy, stewardship, ecological resilience, and governance through living relational continuity.
 
 Where the sakura represents:
 > containment through aestheticised endurance,
