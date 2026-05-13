@@ -1,5 +1,5 @@
 # 🧮 Focus Group of One  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-17 | **Last updated:** 2026-05-13  
 *How small subgroups get mathematically inflated into “the public mood” — and why one lad in Slough becomes 200,000 citizens in a policy brief.*
 
 ---
@@ -184,7 +184,11 @@ Too often, none of these safeguards are used — and the public’s “voice” 
 ---
 
 ## 🌌 Constellations  
-🧮 🧿 🛰️ ✂️ — diagnostic register; distortion-maths; narrative manufacture through data structure.
+🧮 🧿 🛰️ ✂️ — diagnostic register; distortion-maths; narrative manufacture through data structure  
+
+*Further media:*  
+
+- [New Statesman: "Westminster: Stop watching The Thick of It"](https://www.newstatesman.com/culture/tv/2026/05/westminster-stop-watching-the-thick-of-it)  
 
 ---
 
@@ -206,4 +210,4 @@ It documents how statistical weighting in small samples can fabricate or distort
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-05-13_
