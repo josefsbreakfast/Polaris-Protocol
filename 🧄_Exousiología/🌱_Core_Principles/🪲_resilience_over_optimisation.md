@@ -1,5 +1,5 @@
 # 🪲 Resilience Over Optimisation  
-**First created:** 2026-05-13 | **Last updated:** 2026-05-13  
+**First created:** 2026-05-05 | **Last updated:** 2026-05-13  
 *Why survivable systems often appear less efficient than brittle ones.*  
 
 ---
