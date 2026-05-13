@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 22:02:26 UTC_
+_Generated on 2026-05-13 22:04:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -238,6 +238,7 @@ _Generated on 2026-05-13 22:02:26 UTC_
         - [`🏛️_freud_and_jung_disraeli_and_gladstone_the_duel_of_temperaments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🏛️_freud_and_jung_disraeli_and_gladstone_the_duel_of_temperaments.md)
         - [`🐝_fluellen_was_right.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🐝_fluellen_was_right.md)
         - [`👑_aurafarming_a_new_age.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/👑_aurafarming_a_new_age.md)
+        - [`👑_elizabeth_i_and_catherine_the_great.md 👑_the_problem_of_the_female_heir.md 👑_queenhood_and_the_theatre_of_purity.md  ☕️_britain_after_elizabeth.md  🧠_continuity_creates_blindness.md 🧠_states_project_their_own_structure_onto_rivals.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/👑_elizabeth_i_and_catherine_the_great.md 👑_the_problem_of_the_female_heir.md 👑_queenhood_and_the_theatre_of_purity.md  ☕️_britain_after_elizabeth.md  🧠_continuity_creates_blindness.md 🧠_states_project_their_own_structure_onto_rivals.md)
         - [`👑_the_female_sovereign_as_patriarchal_apex.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/👑_the_female_sovereign_as_patriarchal_apex.md)
         - [`🛰️_the_vulnerability_of_the_gatekeepers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🛰️_the_vulnerability_of_the_gatekeepers.md)
         - [`🧠_reputational_lock_in_and_british_institutions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🧠_reputational_lock_in_and_british_institutions.md)
