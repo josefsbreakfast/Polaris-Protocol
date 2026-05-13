@@ -282,6 +282,192 @@ The point is frequently:
 
 ---
 
+## 👒 Sartorial Governance & Femme-Coded Power Reading  
+
+One reason fashion discourse is frequently underestimated in mainstream political analysis is that many institutions still implicitly categorise it as:
+- trivial,
+- domestic,
+- apolitical,
+- or “celebrity adjacent”.
+
+In practice, however, discussions around clothing, styling, jewellery, posture, colour symbolism, and presentation often function as:
+> distributed social analysis of power.
+
+This is particularly visible in spaces where women are socially conditioned to observe:
+- mood,
+- hierarchy,
+- emotional atmosphere,
+- interpersonal signalling,
+- presentation shifts,
+- and subtle behavioural indicators.
+
+Historically, many women were excluded from direct participation in formal governance structures.
+
+As a result, political literacy often developed partially through:
+- observation,
+- symbolism,
+- court dynamics,
+- social navigation,
+- aesthetic reading,
+- and reputational interpretation.
+
+This created forms of political analysis which were:
+- indirect,
+- relational,
+- aesthetic,
+- emotionally attuned,
+- and highly sensitive to symbolic inconsistency.
+
+Modern platform culture has not erased these interpretive traditions.
+In many ways, it has amplified them.
+
+Discussion surrounding:
+- Camilla’s presentation,
+- Catherine’s styling,
+- Meghan’s wardrobe,
+- diplomatic dress choices,
+- jewellery symbolism,
+- colour echoes,
+- or intergenerational fashion references
+
+is frequently operating on multiple levels simultaneously.
+
+The conversation may superficially appear to be “just fashion”.
+
+But underneath, participants are often discussing:
+- legitimacy,
+- continuity,
+- confidence,
+- alliance,
+- emotional state,
+- institutional positioning,
+- symbolic stability,
+- vulnerability,
+- succession,
+- class signalling,
+- or power transition.
+
+Importantly:
+> this is often not consciously organised as formal political analysis by participants themselves.
+
+Instead, it behaves more like:
+- distributed intuitive governance reading.
+
+The clothing becomes:
+- a symbolic interface,
+- an emotional shorthand,
+- and a socially acceptable route for discussing power indirectly.
+
+This is part of why dismissing these conversations as shallow often produces analytical blind spots.
+
+In many cases:
+> the sartorial discussion *is* the political discussion —
+simply translated into a different symbolic language.
+
+And because platform algorithms reward:
+- visual symbolism,
+- aesthetic repetition,
+- emotional resonance,
+- and shareable imagery,
+
+these femme-coded interpretive systems now travel extraordinarily efficiently online.
+
+In the platform era:
+- fashion,
+- aesthetics,
+- emotional tone,
+- and symbolic styling
+
+have become increasingly integrated into legitimacy production itself.
+
+The dress is not separate from the governance atmosphere.
+
+It is part of the governance atmosphere.  
+
+---
+
+## 💍 Relational Aura & Proxy Identification  
+
+Part of what makes aurafarming effective is that audiences do not only attach symbolic meaning to individuals.
+
+They also attach meaning to:
+- relationships,
+- pairings,
+- family structures,
+- emotional dynamics,
+- and perceived interpersonal stability.
+
+This applies across gendered audience behaviour.
+
+Just as some men may identify aspirationally with powerful male figures —
+sometimes viewing wives or partners as extensions, symbols, or accessories of that status —
+women may also engage in comparable forms of symbolic identification.
+
+In these cases:
+- husbands,
+- partners,
+- or male counterparts
+
+can become partially integrated into the woman’s symbolic aura.
+
+This does not mean audiences literally perceive these individuals as objects or without agency.
+
+Rather:
+> symbolic prestige tends to spread relationally.
+
+The pair itself becomes part of the media object.
+
+Within platform environments, audiences often evaluate:
+- chemistry,
+- presentation,
+- emotional coordination,
+- visual harmony,
+- perceived mutual respect,
+- symbolic protection,
+- humour,
+- softness,
+- confidence,
+- and relational steadiness.
+
+As a result, public couples can begin functioning as:
+- emotional governance symbols,
+- relational archetypes,
+- or stability projections.
+
+This is particularly visible in royal, celebrity, political, and diplomatic environments where:
+- the partnership itself becomes narratively meaningful.
+
+For many viewers, the symbolic appeal is not solely:
+- “this individual is powerful.”
+
+It is also:
+- “this relationship appears coherent,”
+- “this partnership appears emotionally stable,”
+- or “this dynamic feels reassuring.”
+
+Importantly, these audience behaviours are not uniquely feminine or masculine.
+
+They are part of broader human tendencies toward:
+- aspirational projection,
+- relational symbolism,
+- identity mirroring,
+- and social attachment formation.
+
+However, the symbolic language through which these processes are expressed may differ culturally across gendered spaces.
+
+In many femme-coded environments, this frequently manifests through:
+- aesthetic interpretation,
+- emotional analysis,
+- relational observation,
+- and symbolic discussion of presentation dynamics.
+
+The aura therefore does not remain confined to the individual figure.
+
+It becomes:
+> relationally distributed across the perceived ecosystem surrounding them.
+
+---
+
 ## 🪞 “Let Small Fish Fry”  
 
 Large institutions often misunderstand where influence now emerges from.
