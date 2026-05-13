@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 22:11:33 UTC_
+_Generated on 2026-05-13 22:15:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -93,6 +93,8 @@ _Generated on 2026-05-13 22:11:33 UTC_
         - [`🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md)
         - [`🍿_imperial_core_drama_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🍿_imperial_core_drama_cycle.md)
         - [`🎴_tarot_of_prime_ministers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🎴_tarot_of_prime_ministers.md)
+        - [`👑_diana_and_the_postmodern_queen.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/👑_diana_and_the_postmodern_queen.md)
+        - [`👻_the_postwar_ghost_in_british_identity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/👻_the_postwar_ghost_in_british_identity.md)
         - [`💣_trident_as_modern_kraken_security_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/💣_trident_as_modern_kraken_security_theatre.md)
         - [`📜_how_to_style_out_a_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/📜_how_to_style_out_a_crisis.md)
         - [`📜_loss_management_performance_of_composure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/📜_loss_management_performance_of_composure.md)
