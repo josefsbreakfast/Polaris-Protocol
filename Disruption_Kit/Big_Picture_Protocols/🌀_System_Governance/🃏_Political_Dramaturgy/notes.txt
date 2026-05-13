@@ -32,3 +32,56 @@
 🌫️_saint_petersburg_is_not_london.md
 🩸_the_romanovs_frightened_britain_because_britain_recognised_them.md
 ⚔️_the_wars_of_the_roses_across_eurasia.md
+
+
+
+Disruption_Kit/
+└── Big_Picture_Protocols/
+    └── 🌀_System_Governance/
+        │
+        ├── ☕️_Post_Imperial_Weather/
+        │   ├── ☕️_the_henry_v_of_local_elections_day.md
+        │   ├── 🕯️_elizabeth_ii_and_the_last_sacred_queen.md
+        │   ├── 🕯️_post_imperial_melancholia_and_the_british_blind_spot.md
+        │   ├── 📺_regional_flattening_and_the_london_media_lens.md
+        │   └── 🪞_the_monarchy_as_emotional_infrastructure.md
+        │
+        ├── ⚖️_Legal_State_Governance/
+        │   ├── ⚖️_mary_i_and_the_constitutional_crisis_of_female_rule.md
+        │   └── 🕰️_the_state_marries_the_queen.md
+        │
+        ├── 💫_Containment_Logic/
+        │   └── 🩸_mary_queen_of_scots_and_the_failure_of_symbolic_containment.md
+        │
+        ├── 📚_Narrative_Management/
+        │   ├── 📡_if_shakespeare_understood_the_counties_why_doesnt_the_bbc.md
+        │   └── 🧠_the_men_are_arguing_about_the_state.md
+        │
+        ├── 🛡️_Defending_Realms/
+        │   └── ⚔️_the_wars_of_the_roses_across_eurasia.md
+        │
+        ├── 🧠_Apparatchik_Philosophy/
+        │   ├── 🧱_britain_misunderstands_russia_because_britain_misunderstands_itself.md
+        │   ├── 🧠_russia_understands_britain_better_than_britain_understands_russia.md
+        │   ├── 🧱_london_is_moscow.md
+        │   ├── 🌫️_saint_petersburg_is_not_london.md
+        │   └── 🌍_large_historical_states_are_never_emotionally_homogeneous.md
+        │
+        ├── 🃏_Political_Dramaturgy/
+        │   ├── 👑_the_female_sovereign_as_patriarchal_apex.md
+        │   ├── 🌹_the_body_of_the_queen_and_the_body_of_the_state.md
+        │   ├── 🪞_there_is_no_correct_way_to_be_a_queen.md
+        │   ├── 🪶_the_queen_as_national_emotional_container.md
+        │   ├── 🎭_shakespeare_as_political_operating_system.md
+        │   └── 🐝_fluellen_was_right.md
+        │
+        ├── 🌍_National_Storytime/
+        │   ├── 🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md
+        │   ├── 🧭_england_the_russia_of_the_west_russia_the_england_of_the_east.md
+        │   ├── 📖_russia_a_cheat_sheet_for_the_british.md
+        │   ├── 🏛️_shakespeare_already_told_you_britain_was_regional.md
+        │   ├── ⚔️_the_wars_of_the_roses_never_ended.md
+        │   └── 🩸_the_romanovs_frightened_britain_because_britain_recognised_them.md
+        │
+        └── 🚩_Angleland_Ahoy/
+            └── (future satirical variants / parody derivatives)
