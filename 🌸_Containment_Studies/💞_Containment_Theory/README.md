@@ -1,5 +1,5 @@
 # 💞 Containment Theory  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-13  
 *Formal models for understanding containment as a living system rather than a static wall.*  
 
 ---
@@ -80,4 +80,4 @@ It reframes containment from static control to living relation — a system of m
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-05-13_
