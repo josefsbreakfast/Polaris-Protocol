@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 13:34:01 UTC_
+_Generated on 2026-05-13 13:37:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6838,6 +6838,8 @@ _Generated on 2026-05-13 13:34:01 UTC_
     - [`🫀_empathetic_burnout_and_cognitive_exhaustion.md`](🌸_Containment_Studies/🌙_Everyday_Containment/🫀_empathetic_burnout_and_cognitive_exhaustion.md)
   - [**🌱_Foundations_Of_Containment/**](🌸_Containment_Studies/🌱_Foundations_Of_Containment/)
     - [`README.md`](🌸_Containment_Studies/🌱_Foundations_Of_Containment/README.md)
+  - [**🎣_Containment_Dynamics/**](🌸_Containment_Studies/🎣_Containment_Dynamics/)
+    - [`README.md`](🌸_Containment_Studies/🎣_Containment_Dynamics/README.md)
   - [**💞_Containment_Theory/**](🌸_Containment_Studies/💞_Containment_Theory/)
     - [`README.md`](🌸_Containment_Studies/💞_Containment_Theory/README.md)
     - [`⚛️_containment_as_coupled_waveform_theory.md`](🌸_Containment_Studies/💞_Containment_Theory/⚛️_containment_as_coupled_waveform_theory.md)
@@ -6849,6 +6851,8 @@ _Generated on 2026-05-13 13:34:01 UTC_
     - [`🧬_containment_as_coevolutionary_ecology.md`](🌸_Containment_Studies/💞_Containment_Theory/🧬_containment_as_coevolutionary_ecology.md)
     - [`🪞_containment_detente_as_temporal_governance.md`](🌸_Containment_Studies/💞_Containment_Theory/🪞_containment_detente_as_temporal_governance.md)
     - [`🪼_interaction_drift_and_safety_layer_erosion.md`](🌸_Containment_Studies/💞_Containment_Theory/🪼_interaction_drift_and_safety_layer_erosion.md)
+  - [**🦋_Aesthetic_Symbolic_Containment/**](🌸_Containment_Studies/🦋_Aesthetic_Symbolic_Containment/)
+    - [`README.md`](🌸_Containment_Studies/🦋_Aesthetic_Symbolic_Containment/README.md)
   - [**🧠_Psychic_Emotional_Containment/**](🌸_Containment_Studies/🧠_Psychic_Emotional_Containment/)
     - [`README.md`](🌸_Containment_Studies/🧠_Psychic_Emotional_Containment/README.md)
   - [**🪐_Meta_Containment/**](🌸_Containment_Studies/🪐_Meta_Containment/)
@@ -6860,6 +6864,8 @@ _Generated on 2026-05-13 13:34:01 UTC_
     - [`🧬_signal_steering.md`](🌸_Containment_Studies/🪐_Meta_Containment/🧬_signal_steering.md)
     - [`🧿_against_pseudoanthropy.md`](🌸_Containment_Studies/🪐_Meta_Containment/🧿_against_pseudoanthropy.md)
     - [`🫒_the_occupied_mind.md`](🌸_Containment_Studies/🪐_Meta_Containment/🫒_the_occupied_mind.md)
+  - [**🪞_Containment_Resistance/**](🌸_Containment_Studies/🪞_Containment_Resistance/)
+    - [`README.md`](🌸_Containment_Studies/🪞_Containment_Resistance/README.md)
   - [**🪨_Containment_Infrastructures/**](🌸_Containment_Studies/🪨_Containment_Infrastructures/)
     - [`README.md`](🌸_Containment_Studies/🪨_Containment_Infrastructures/README.md)
   - [`README.md`](🌸_Containment_Studies/README.md)
