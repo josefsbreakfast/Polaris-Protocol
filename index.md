@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 20:45:27 UTC_
+_Generated on 2026-05-13 20:47:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -247,6 +247,7 @@ _Generated on 2026-05-13 20:45:27 UTC_
       - [**🌍_National_Storytime/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/README.md)
         - [`🇩🇪_trauma_sovereignty_as_foreign_policy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🇩🇪_trauma_sovereignty_as_foreign_policy.md)
+        - [`🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md)
         - [`🌀_dual_loyalty_loops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🌀_dual_loyalty_loops.md)
         - [`🌹_labour_as_alt_right_spv.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🌹_labour_as_alt_right_spv.md)
         - [`🗳️_the_corbyn_starmer_consent_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🗳️_the_corbyn_starmer_consent_mechanism.md)
