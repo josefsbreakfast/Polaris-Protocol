@@ -1,5 +1,5 @@
 # 🛰️ Intelligence, ISR, and vicarious trauma  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-20 | **Last updated:** 2026-05-13  
 *How continuous observation without intervention externalises moral injury onto analysts and operators.*  
 
 ---
@@ -115,7 +115,7 @@ vicarious trauma, moral injury, intelligence analysis, ISR ethics, analyst wellb
 
 ## 🏮 Footer
 
-*Intelligence, ISR, and vicarious trauma* is a supporting human-impact node in the **Polaris Protocol**.
+*🛰️ Intelligence, ISR, and vicarious trauma* is a supporting human-impact node in the **Polaris Protocol**.
 
 It exists to show that harm from prevention failure is not confined to victims of violence — it is also inflicted on those required to observe, analyse, and normalise that violence without power to stop it.
 
@@ -127,4 +127,4 @@ It exists to show that harm from prevention failure is not confined to victims o
 >
 > *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-05-13_
