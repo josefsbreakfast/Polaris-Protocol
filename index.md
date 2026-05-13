@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 22:07:35 UTC_
+_Generated on 2026-05-13 22:09:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -84,6 +84,7 @@ _Generated on 2026-05-13 22:07:35 UTC_
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**☕️_Post_Imperial_Weather/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/README.md)
+        - [`☕️_britain_after_elizabeth.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/☕️_britain_after_elizabeth.md)
         - [`☕️_managing_postcolonial_melancholia.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/☕️_managing_postcolonial_melancholia.md)
         - [`☕️_the_death_of_the_british_eccentric.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/☕️_the_death_of_the_british_eccentric.md)
         - [`☕️_the_henry_v_of_local_elections_day.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/☕️_the_henry_v_of_local_elections_day.md)
