@@ -1,5 +1,5 @@
 # 🧄 Exousiología  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-13  
+**First created:** 2026-02-02 | **Last updated:** 2026-05-13  
 *An ecological framework for legitimacy, stewardship, resilience, and the living shape of authority.*  
 
 ---
