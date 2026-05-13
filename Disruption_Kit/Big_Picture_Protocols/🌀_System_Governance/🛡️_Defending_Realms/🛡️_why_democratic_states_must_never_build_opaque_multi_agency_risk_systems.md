@@ -1,5 +1,5 @@
 # 🛡 Why Democratic States Must Never Build Opaque Multi-Agency Risk Systems  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-22 | **Last updated:** 2026-05-13  
 *Why opacity, multi-agency diffusion, and risk-based logics produce democratic collapse conditions when combined at scale.*  
 
 ---
@@ -216,4 +216,4 @@ It articulates why opacity, institutional diffusion, and risk governance produce
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-05-13_
