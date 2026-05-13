@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 01:07:41 UTC_
+_Generated on 2026-05-13 01:08:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -422,7 +422,6 @@ _Generated on 2026-05-13 01:07:41 UTC_
         - [`🧠_bureaucratic_fast_thinking_and_reputational_harm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_bureaucratic_fast_thinking_and_reputational_harm.md)
         - [`🧠_multilock_overlapping_covertion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_multilock_overlapping_covertion.md)
         - [`🧠_smart_women_get_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_smart_women_get_surveillance.md)
-        - [`🧠_the_black_box_of_executive_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_the_black_box_of_executive_power.md)
         - [`🧨_cyber_insecurity_and_friction_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧨_cyber_insecurity_and_friction_systems.md)
         - [`🧩_asymmetric_democratic_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_asymmetric_democratic_policing.md)
         - [`🧩_colonial_scripts_in_modern_bureaucracies.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_colonial_scripts_in_modern_bureaucracies.md)
@@ -640,6 +639,7 @@ _Generated on 2026-05-13 01:07:41 UTC_
         - [`🧠_institutional_weather_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_institutional_weather_systems.md)
         - [`🧠_political_black_box_logic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_political_black_box_logic.md)
         - [`🧠_principled_escalation_vs_risk_based_institutions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_principled_escalation_vs_risk_based_institutions.md)
+        - [`🧠_the_black_box_of_executive_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_the_black_box_of_executive_power.md)
         - [`🧠_the_men_had_a_plan.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_the_men_had_a_plan.md)
         - [`🧠_the_ministry_of_overconfident_misreadings.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_the_ministry_of_overconfident_misreadings.md)
         - [`🪖_why_intelligence_agencies_dont_understand_joy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🪖_why_intelligence_agencies_dont_understand_joy.md)
