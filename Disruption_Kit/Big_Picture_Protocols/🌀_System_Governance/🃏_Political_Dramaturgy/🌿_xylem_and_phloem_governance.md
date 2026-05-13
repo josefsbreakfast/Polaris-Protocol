@@ -1,5 +1,5 @@
 # 🌿 Xylem and Phloem Governance  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-11  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-13  
 *Britain as a vascular governance organism: continuity, signalling, brokerage, and institutional flow.*  
 
 ---
@@ -355,9 +355,10 @@ The problem emerges when the transport tissue begins mistaking:
 >  
 > 🏮 Return To:  
 >  
-> - [🃏 Political Dramaturgy](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
+2026-05-13
