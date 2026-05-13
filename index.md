@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 20:31:27 UTC_
+_Generated on 2026-05-13 20:34:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -236,6 +236,8 @@ _Generated on 2026-05-13 20:31:27 UTC_
         - [`🧨_centre_left_threat_archetypes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🧨_centre_left_threat_archetypes.md)
         - [`🧬_the_social_biology_of_britain.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🧬_the_social_biology_of_britain.md)
         - [`🩸_ideological_skinwalkers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🩸_ideological_skinwalkers.md)
+        - [`🪞_there_is_no_correct_way_to_be_a_queen.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🪞_there_is_no_correct_way_to_be_a_queen.md)
+        - [`🪶_the_queen_as_national_emotional_container.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🪶_the_queen_as_national_emotional_container.md)
       - [**🌍_National_Storytime/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/README.md)
         - [`🇩🇪_trauma_sovereignty_as_foreign_policy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🇩🇪_trauma_sovereignty_as_foreign_policy.md)
