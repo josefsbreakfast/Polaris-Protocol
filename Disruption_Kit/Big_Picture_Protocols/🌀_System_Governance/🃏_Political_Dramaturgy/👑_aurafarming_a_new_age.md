@@ -518,8 +518,19 @@ It documents how symbolic institutions increasingly interact with platform algor
 
 The node additionally examines how participatory media environments are altering the structural relationship between legacy power and distributed public cognition.
 
-> 📡 Cross-references:
+> 📡 Cross-References:
 > 
+> - []()
+> - []()
+> - []()  
+> 
+> 🏮 Return To:  
+>  
+> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
