@@ -139,20 +139,20 @@ kipling, if poem, reputational recovery, emotional restraint, institutional comp
 
 ## 🏮 Footer  
 
-*Loss Management and the Performance of Composure* is a living node of the **Polaris Protocol**.  
+*📜 Loss Management and the Performance of Composure* is a living node of the **Polaris Protocol**.  
 It examines how cultural ideals of restraint, endurance, and emotional discipline shape institutional responses to crisis, reputational collapse, and recovery under pressure.
 
 > 📡 Cross-references:
 >
-> - [📜 How to Style Out a Crisis — Kipling for Modern Governance](../path/) — *administrative composure and emotional governance culture*  
-> - [⚖️ Official Secrets Reform and Accountability](../path/) — *institutional opacity, legitimacy, and reputational management*  
+> - [📜 How to Style Out a Crisis — Kipling for Modern Governance](./📜_how_to_style_out_a_crisis.md) — *administrative composure and emotional governance culture*  
+> - [⚖️ Official Secrets Reform and Accountability](../🛡️_Defending_Realms/⚖️_official_secrets_reform_and_accountability.md) — *institutional opacity, legitimacy, and reputational management*  
 >  
 > 🏮 Return To:  
 >  
-> - [☕️ Post-Imperial Weather](./README.md)
+> - [☕️ Post-Imperial Weather](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
