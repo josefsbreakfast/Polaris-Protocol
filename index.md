@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 00:57:16 UTC_
+_Generated on 2026-05-13 01:00:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -420,7 +420,6 @@ _Generated on 2026-05-13 00:57:16 UTC_
         - [`🧀_swiss_cheese_multi_agency_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧀_swiss_cheese_multi_agency_failure.md)
         - [`🧊_the_freeze_sector_wide_silence_handling_pattern.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧊_the_freeze_sector_wide_silence_handling_pattern.md)
         - [`🧠_bureaucratic_fast_thinking_and_reputational_harm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_bureaucratic_fast_thinking_and_reputational_harm.md)
-        - [`🧠_cognitive_feedback_and_bureaucratic_amplification.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_cognitive_feedback_and_bureaucratic_amplification.md)
         - [`🧠_cross_silo_reflex_mismatch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_cross_silo_reflex_mismatch.md)
         - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_didnt_apply_brain_loop.md)
         - [`🧠_epistemic_asymmetry_in_security_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_epistemic_asymmetry_in_security_systems.md)
@@ -639,6 +638,7 @@ _Generated on 2026-05-13 00:57:16 UTC_
         - [`🗂️_when_the_system_realises_it_fucked_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🗂️_when_the_system_realises_it_fucked_up.md)
         - [`🚀_procedure_vs_perception.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🚀_procedure_vs_perception.md)
         - [`🦴_reputational_management_as_harm_producing_system.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🦴_reputational_management_as_harm_producing_system.md)
+        - [`🧠_cognitive_feedback_and_bureaucratic_amplification.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_cognitive_feedback_and_bureaucratic_amplification.md)
         - [`🧠_how_reasonable_people_reach_the_wrong_conclusion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_how_reasonable_people_reach_the_wrong_conclusion.md)
         - [`🧠_the_men_had_a_plan.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_the_men_had_a_plan.md)
         - [`🧠_the_ministry_of_overconfident_misreadings.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_the_ministry_of_overconfident_misreadings.md)
