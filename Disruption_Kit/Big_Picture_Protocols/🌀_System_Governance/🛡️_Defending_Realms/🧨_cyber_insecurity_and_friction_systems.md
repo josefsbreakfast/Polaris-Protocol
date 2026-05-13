@@ -1,5 +1,5 @@
 # 🧨 Cyber Insecurity & Friction Systems  
-**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-26 | **Last updated:** 2026-05-13  
 *Why disruption never lands evenly*
 
 ---
@@ -220,4 +220,4 @@ It documents how cyber disruption interacts with friction-generating infrastruct
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-05-13_
