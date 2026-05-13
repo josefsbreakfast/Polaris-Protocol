@@ -1,5 +1,5 @@
 # 🩸 Ideological Skinwalkers  
-**First created:** 2025-10-23  |  **Last updated:** 2026-05-11  
+**First created:** 2025-10-23  |  **Last updated:** 2026-05-13  
 *When conviction becomes costume.*  
 
 ---
@@ -177,12 +177,12 @@ It documents the late-modern shift from ideological conflict to aesthetic mimicr
 >  
 > 🏮 Return To:  
 >  
-> - [🃏 Political Dramaturgy](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
