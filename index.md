@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 20:30:02 UTC_
+_Generated on 2026-05-13 20:31:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -221,6 +221,7 @@ _Generated on 2026-05-13 20:30:02 UTC_
         - [`✈️_crash_logic_state_grief_and_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/✈️_crash_logic_state_grief_and_erasure.md)
         - [`🌐_late_stage_autocracy_vibe_diagnostics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🌐_late_stage_autocracy_vibe_diagnostics.md)
         - [`🌱_the_broker_class_and_british_stagnation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🌱_the_broker_class_and_british_stagnation.md)
+        - [`🌹_the_body_of_the_queen_and_the_body_of_the_state.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🌹_the_body_of_the_queen_and_the_body_of_the_state.md)
         - [`🌿_xylem_and_phloem_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🌿_xylem_and_phloem_governance.md)
         - [`🎞️_authoritarian_aesthetics_collapse_curve.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🎞️_authoritarian_aesthetics_collapse_curve.md)
         - [`🎡_the_aesthetic_economy_of_states.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🎡_the_aesthetic_economy_of_states.md)
