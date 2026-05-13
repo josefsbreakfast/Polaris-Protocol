@@ -1,6 +1,6 @@
 # 🎭 The Kremlin Aesthetic Timeline: From Camp to Crypt  
-**First created:** 2025-11-20 | **Last updated:** 2026-05-11  
-*How post-Soviet Russia moved from flamboyant spectacle and emotional openness toward defensive austerity, symbolic contraction, and bunker aesthetics.*
+**First created:** 2025-11-20 | **Last updated:** 2026-05-13  
+*How post-Soviet Russia moved from flamboyant spectacle and emotional openness toward defensive austerity, symbolic contraction, and bunker aesthetics.*  
 
 ---
 
@@ -373,18 +373,18 @@ It traces how symbolic environments, public atmosphere, and cultural aesthetics 
 > 📡 Cross-references:
 >
 > - [🎞️ Authoritarian Aesthetics Collapse Curve]  
-> - [🎡 The Aesthetic Economy of States](./🎡_the_aesthetic_economy_of_states.md)
+> - [🎡 The Aesthetic Economy of States](./🎡_the_aesthetic_economy_of_states.md)  
 > - [🎪 Not Even a Mole To Be Found]  
 > - [🍿 Imperial Core Drama Cycle]  
 >   
 > 🏮 Return To:
 >
-> - [🃏 Political Dramaturgy](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
