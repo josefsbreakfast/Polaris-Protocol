@@ -1,5 +1,5 @@
 # 🧠 Hypervigilance Is a Governance Failure  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-20 | **Last updated:** 2026-05-13  
 *Why a permanently anxious population is evidence of institutional malfunction, not public irrationality.*  
 
 ---
@@ -183,4 +183,4 @@ It documents how persistent public anxiety emerges from accountability failure r
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-05-13_
