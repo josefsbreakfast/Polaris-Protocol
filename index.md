@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 21:02:42 UTC_
+_Generated on 2026-05-13 21:04:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -610,6 +610,7 @@ _Generated on 2026-05-13 21:02:42 UTC_
         - [`🥸_declassification_scenario.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/🥸_declassification_scenario.md)
       - [**🧠_Apparatchik_Philosophy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/README.md)
+        - [`🌍_states_are_never_homogeneous.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🌍_states_are_never_homogeneous.md)
         - [`🌫️_saint_petersburg_is_not_london.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🌫️_saint_petersburg_is_not_london.md)
         - [`🏗️_skyscraper_over_pebbles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🏗️_skyscraper_over_pebbles.md)
         - [`🏛️_olympus_syndrome.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🏛️_olympus_syndrome.md)
