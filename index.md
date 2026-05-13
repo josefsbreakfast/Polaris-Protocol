@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 20:27:30 UTC_
+_Generated on 2026-05-13 20:30:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -229,6 +229,7 @@ _Generated on 2026-05-13 20:27:30 UTC_
         - [`🏛️_archetypes_of_bureaucratic_behaviour.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🏛️_archetypes_of_bureaucratic_behaviour.md)
         - [`🏛️_freud_and_jung_disraeli_and_gladstone_the_duel_of_temperaments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🏛️_freud_and_jung_disraeli_and_gladstone_the_duel_of_temperaments.md)
         - [`👑_aurafarming_a_new_age.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/👑_aurafarming_a_new_age.md)
+        - [`👑_the_female_sovereign_as_patriarchal_apex.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/👑_the_female_sovereign_as_patriarchal_apex.md)
         - [`🛰️_the_vulnerability_of_the_gatekeepers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🛰️_the_vulnerability_of_the_gatekeepers.md)
         - [`🧠_reputational_lock_in_and_british_institutions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🧠_reputational_lock_in_and_british_institutions.md)
         - [`🧨_centre_left_threat_archetypes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🧨_centre_left_threat_archetypes.md)
