@@ -355,7 +355,8 @@ It examines the tension between accountability, shame, continuity, and instituti
 > - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular governance metaphor for British institutional continuity*  
 >  
 > 🏮 Return To:  
->  
+>
+> - [🃏 Political Dramaturgy](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
