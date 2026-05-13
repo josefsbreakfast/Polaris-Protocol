@@ -1,5 +1,5 @@
 # ⚖️ Equanimitas and the Stiff Upper Lip  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-11  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-13  
 *How emotional restraint became institutional virtue inside British governance culture.*  
 
 ---
@@ -378,12 +378,12 @@ It documents how emotional restraint became embedded within British governance a
 >  
 > 🏮 Return To:  
 >  
-> - [📚 Narrative Management](./README.md)
+> - [📚 Narrative Management](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-05-11*
+_Last updated: 2026-05-13_
