@@ -1,5 +1,5 @@
 # 🏛️ Archetypes of Bureaucratic Behaviour  
-**First created:** 2025-11-16 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-16 | **Last updated:** 2026-05-13  
 *How institutions slip into recurring behavioural “modes” — The Hierophant, The Fog Machine, The Fortress, The Mirror Pool, The Tower, and The Soft Clerk — and how these archetypes shape survivor experience, decision-making, and institutional tone.*  
 
 ---
@@ -242,27 +242,23 @@ bureaucratic archetypes, governance psychology, institutional behaviour, procedu
 
 ## 🏮 Footer  
 
-*🏛️ Archetypes of Bureaucratic Behaviour* is a Polaris governance-psychology node mapping recurring institutional behaviour patterns under varying forms of pressure, uncertainty, and perceived risk.
-
-Pairs with:
-
-- **🧠 Institutional Weather Systems**  
-- **🔍 Institutional Freeze Patterns**  
-- **🔮 Post-Chaos Governance Archetypes**  
-- **🧿 Survivor Credibility Loops**
+*🏛️ Archetypes of Bureaucratic Behaviour* is a Polaris governance-psychology node mapping recurring institutional behaviour patterns under varying forms of pressure, uncertainty, and perceived risk.  
 
 > 📡 Cross-References:
 > 
-> - []()  
+> - [🧠 Institutional Weather Systems]()  
+> - [🔍 Institutional Freeze Patterns]()  
+> - [🔮 Post-Chaos Governance Archetypes]()  
+> - [🧿 Survivor Credibility Loops]()  
 >   
 > 🏮 Return To:
 >
-> - [🃏 Political Dramaturgy](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
