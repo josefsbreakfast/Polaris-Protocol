@@ -1,6 +1,6 @@
-# ☔️ Restorative Justice in a Shame Culture
-**First created:** 2026-05-11 | **Last updated:** 2026-05-11  
-*Accountability, lineage-conscious shame, and the difficulty of repair inside continuity-oriented societies.*
+# ☔️ Restorative Justice in a Shame Culture  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-13  
+*Accountability, lineage-conscious shame, and the difficulty of repair inside continuity-oriented societies.*  
 
 ---
 
@@ -352,7 +352,7 @@ It examines the tension between accountability, shame, continuity, and instituti
 > - [⚖️ Equanimitas and the Stiff Upper Lip](./⚖️_equanimitas_and_the_stiff_upper_lip.md) — *emotional restraint as governance logic*  
 > - [🧠 Reputational Lock-In and British Institutions](./🧠_reputational_lock_in_and_british_institutions.md) — *defensive containment and institutional shame dynamics*  
 > - [🛰️ The Vulnerability of the Gatekeepers](./🛰️_the_vulnerability_of_the_gatekeepers.md) — *elite-network fragility and continuity anxiety*  
-> - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular governance metaphor for British institutional continuity*
+> - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular governance metaphor for British institutional continuity*  
 >  
 > 🏮 Return To:  
 >  
@@ -363,4 +363,4 @@ It examines the tension between accountability, shame, continuity, and instituti
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
