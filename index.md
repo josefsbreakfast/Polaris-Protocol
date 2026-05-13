@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 01:02:50 UTC_
+_Generated on 2026-05-13 01:04:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -420,7 +420,6 @@ _Generated on 2026-05-13 01:02:50 UTC_
         - [`🧀_swiss_cheese_multi_agency_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧀_swiss_cheese_multi_agency_failure.md)
         - [`🧊_the_freeze_sector_wide_silence_handling_pattern.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧊_the_freeze_sector_wide_silence_handling_pattern.md)
         - [`🧠_bureaucratic_fast_thinking_and_reputational_harm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_bureaucratic_fast_thinking_and_reputational_harm.md)
-        - [`🧠_hypervigilance_as_governance_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_hypervigilance_as_governance_failure.md)
         - [`🧠_ideology_without_conspiracy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_ideology_without_conspiracy.md)
         - [`🧠_institutional_weather_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_institutional_weather_systems.md)
         - [`🧠_multilock_overlapping_covertion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_multilock_overlapping_covertion.md)
@@ -640,6 +639,7 @@ _Generated on 2026-05-13 01:02:50 UTC_
         - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_didnt_apply_brain_loop.md)
         - [`🧠_epistemic_asymmetry_in_security_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_epistemic_asymmetry_in_security_systems.md)
         - [`🧠_how_reasonable_people_reach_the_wrong_conclusion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_how_reasonable_people_reach_the_wrong_conclusion.md)
+        - [`🧠_hypervigilance_as_governance_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_hypervigilance_as_governance_failure.md)
         - [`🧠_the_men_had_a_plan.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_the_men_had_a_plan.md)
         - [`🧠_the_ministry_of_overconfident_misreadings.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_the_ministry_of_overconfident_misreadings.md)
         - [`🪖_why_intelligence_agencies_dont_understand_joy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🪖_why_intelligence_agencies_dont_understand_joy.md)
