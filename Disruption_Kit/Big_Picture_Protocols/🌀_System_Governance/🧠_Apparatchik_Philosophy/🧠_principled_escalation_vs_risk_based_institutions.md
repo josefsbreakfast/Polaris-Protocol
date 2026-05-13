@@ -1,6 +1,6 @@
 # 🧠 Principled escalation vs risk-based institutions  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
-*Why values-driven escalation clashes with reputational risk logic — and how systems misread it.*
+**First created:** 2025-12-14 | **Last updated:** 2026-05-13  
+*Why values-driven escalation clashes with reputational risk logic — and how systems misread it.*  
 
 ---
 
@@ -140,4 +140,4 @@ It documents a recurring structural mismatch between values-driven actors and in
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-05-13_
