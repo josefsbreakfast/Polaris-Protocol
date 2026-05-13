@@ -1,6 +1,6 @@
 # 🌸 Containment Studies  
-**First created:** 2025-11-02 | **Last updated:** 2026-05-08  
-*Root-level meta-cluster tracing containment across systems, disciplines, and scales.*
+**First created:** 2025-11-02 | **Last updated:** 2026-05-13  
+*Root-level meta-cluster tracing containment across systems, disciplines, and scales.*  
 
 ---
 
@@ -83,6 +83,6 @@ It functions as the integrative field for understanding how containment operates
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-13_
 
 
