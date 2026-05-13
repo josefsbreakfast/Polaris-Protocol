@@ -188,8 +188,8 @@ It examines how culturally specific rhetorical styles — particularly British u
 > 📡 Cross-references:
 >
 > - [☕️ The Death of the British Eccentric](./☕️_the_death_of_the_british_eccentric.md)  
-> - [👑 Aurafarming A New Age](../../📚_Narrative_Management/👑_aurafarming_a_new_age.md)  
-> - [💼 Narrative Capture & Linguistic Power](../../📚_Narrative_Management/💼_narrative_capture_and_linguistic_power.md)  
+> - [👑 Aurafarming A New Age](../📚_Narrative_Management/👑_aurafarming_a_new_age.md)  
+> - [💼 Narrative Capture & Linguistic Power](../📚_Narrative_Management/💼_narrative_capture_and_linguistic_power.md)  
 >  
 > 🏮 Return To:  
 >  
