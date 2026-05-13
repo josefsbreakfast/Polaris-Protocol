@@ -418,14 +418,14 @@ It explores how long-term institutional continuity, geography, and cultural memo
 > 📡 Cross-references:
 >
 > - [☕️ Managing Postcolonial Melancholia](./☕️_managing_postcolonial_melancholia.md) — *historical memory, national identity, and emotional governance*  
-> - [🚀 Procedure vs Perception](./🚀_procedure_vs_perception.md) — *institutional legitimacy and public interpretation*
+> - [🚀 Procedure vs Perception](../🧠_Apparatchik_Philosophy/🚀_procedure_vs_perception.md) — *institutional legitimacy and public interpretation*  
 >   
 > 🏮 Return To:
 >
-> - [☕️ Post-Imperial Weather](./README.md)
+> - [☕️ Post-Imperial Weather](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
