@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 20:34:49 UTC_
+_Generated on 2026-05-13 20:36:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -226,6 +226,7 @@ _Generated on 2026-05-13 20:34:49 UTC_
         - [`🎞️_authoritarian_aesthetics_collapse_curve.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🎞️_authoritarian_aesthetics_collapse_curve.md)
         - [`🎡_the_aesthetic_economy_of_states.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🎡_the_aesthetic_economy_of_states.md)
         - [`🎭_kremlin_aesthetic_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🎭_kremlin_aesthetic_timeline.md)
+        - [`🎭_shakespeare_as_political_operating_system.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🎭_shakespeare_as_political_operating_system.md)
         - [`🎭_witch_girl_vs_sensible_man_archetypes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🎭_witch_girl_vs_sensible_man_archetypes.md)
         - [`🏛️_archetypes_of_bureaucratic_behaviour.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🏛️_archetypes_of_bureaucratic_behaviour.md)
         - [`🏛️_freud_and_jung_disraeli_and_gladstone_the_duel_of_temperaments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🏛️_freud_and_jung_disraeli_and_gladstone_the_duel_of_temperaments.md)
