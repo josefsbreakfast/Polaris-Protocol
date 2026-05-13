@@ -1,16 +1,16 @@
 # 🧨 Differential Classification as Radicalisation Fuel  
-**First created:** 2025-10-06 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-06 | **Last updated:** 2026-05-13  
 *Unequal terrorism designations as a driver of radicalisation and public confusion.*  
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 This node documents how inconsistent classification of ideologically motivated violence—mosque arsons, synagogue stabbings, gurdwara assaults—actively undermines counter-extremism goals.  
 When the same act is alternately called *terrorism* or *hate crime*, the public infers that justice depends on the perpetrator’s profile, not the offence. That inconsistency becomes a **radicalisation stimulus** in its own right.
 
 ---
 
-## 🔍 Analysis  
+## 🪬 Analysis  
 
 1. **Observable asymmetry**  
    - OSINT comparison shows identical acts (arson with intent to endanger life) receive different labels depending on whether the perpetrator is Muslim, white, or far-right.  
@@ -35,11 +35,19 @@ When the same act is alternately called *terrorism* or *hate crime*, the public 
 ## 🌌 Constellations  
 🪬 🧭 ⚖️ 🧠 — Radicalisation, ethics, governance, cognitive bias  
 
+*Further media:*  
+
+- [📺: PBS: A Look At The New US Counterror Strategy](https://vm.tiktok.com/ZNRGFRB3C/)  
+
+---
+
 ## ✨ Stardust  
 radicalisation, extremism, bias, OSINT, policing ethics, equal application, digital forensics  
 
+---
+
 ## 🏮 Footer  
-*Differential Classification as Radicalisation Fuel* is a living node of the Polaris Protocol.  
+*🧨 Differential Classification as Radicalisation Fuel* is a living node of the Polaris Protocol.  
 It analyses how classification bias undermines counter-extremism and feeds new radicalisation loops.  
 
 > 📡 Cross-references:
@@ -49,4 +57,4 @@ It analyses how classification bias undermines counter-extremism and feeds new r
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-05-13_
