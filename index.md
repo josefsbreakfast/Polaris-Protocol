@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 13:43:27 UTC_
+_Generated on 2026-05-13 16:00:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1403,6 +1403,7 @@ _Generated on 2026-05-13 13:43:27 UTC_
         - [`🎶_wap_as_art.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎶_wap_as_art.md)
         - [`🎺_echo_punk.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎺_echo_punk.md)
         - [`🐉_chen_rui_trump_parody.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_chen_rui_trump_parody.md)
+        - [`👑_why_the_sex_pistols_were_true_punks.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/👑_why_the_sex_pistols_were_true_punks.md)
         - [`📈_sales_suppression_vs_viral_spike.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📈_sales_suppression_vs_viral_spike.png)
         - [`📚_authoritarian_century_bridge_of_register.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📚_authoritarian_century_bridge_of_register.md)
         - [`📚_banned_book_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/📚_banned_book_paradox.md)
