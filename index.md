@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 01:12:25 UTC_
+_Generated on 2026-05-13 01:15:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -402,12 +402,8 @@ _Generated on 2026-05-13 01:12:25 UTC_
         - [`🚨_crisis_mode_behaviours_institutional_fight_flight_fawn_freeze.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🚨_crisis_mode_behaviours_institutional_fight_flight_fawn_freeze.md)
         - [`🛂_public_legal_illiteracy_as_an_attack_surface_uk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛂_public_legal_illiteracy_as_an_attack_surface_uk.md)
         - [`🛡️_epistemic_exhaustion_as_an_attack_surface.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛡️_epistemic_exhaustion_as_an_attack_surface.md)
-        - [`🛡️_securitisation_and_fragile_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛡️_securitisation_and_fragile_governance.md)
-        - [`🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md)
         - [`🛬_translation_null_zone.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛬_translation_null_zone.md)
         - [`🛰️_disappearing_public_surgery.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_disappearing_public_surgery.md)
-        - [`🛰️_intelligence_isr_and_vicarious_trauma.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_intelligence_isr_and_vicarious_trauma.md)
-        - [`🛰️_predictive_logic_sans_predictive_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_predictive_logic_sans_predictive_infrastructure.md)
         - [`🛰️_separation_of_systems_university_prevent_mod.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🛰️_separation_of_systems_university_prevent_mod.md)
         - [`🤖_mr_meeseeks_and_the_shutdown_resistance_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🤖_mr_meeseeks_and_the_shutdown_resistance_problem.md)
         - [`🦁_circle_of_security_life.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🦁_circle_of_security_life.md)
@@ -420,7 +416,6 @@ _Generated on 2026-05-13 01:12:25 UTC_
         - [`🧠_bureaucratic_fast_thinking_and_reputational_harm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_bureaucratic_fast_thinking_and_reputational_harm.md)
         - [`🧠_multilock_overlapping_covertion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_multilock_overlapping_covertion.md)
         - [`🧠_smart_women_get_surveillance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧠_smart_women_get_surveillance.md)
-        - [`🧨_cyber_insecurity_and_friction_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧨_cyber_insecurity_and_friction_systems.md)
         - [`🧩_asymmetric_democratic_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_asymmetric_democratic_policing.md)
         - [`🧩_colonial_scripts_in_modern_bureaucracies.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_colonial_scripts_in_modern_bureaucracies.md)
         - [`🧩_containment_economics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_containment_economics.md)
@@ -546,7 +541,12 @@ _Generated on 2026-05-13 01:12:25 UTC_
         - [`🌍_israel_five_eyes_structural_interdependency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🌍_israel_five_eyes_structural_interdependency.md)
         - [`🌍_treaty_for_the_english_speaking_internet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🌍_treaty_for_the_english_speaking_internet.md)
         - [`🎯_single_points_of_failure_as_authoritarian_easy_targets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🎯_single_points_of_failure_as_authoritarian_easy_targets.md)
+        - [`🛡️_securitisation_and_fragile_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🛡️_securitisation_and_fragile_governance.md)
+        - [`🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md)
+        - [`🛰️_intelligence_isr_and_vicarious_trauma.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🛰️_intelligence_isr_and_vicarious_trauma.md)
+        - [`🛰️_predictive_logic_sans_predictive_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🛰️_predictive_logic_sans_predictive_infrastructure.md)
         - [`🦠_hybrid_threat_overlay.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🦠_hybrid_threat_overlay.md)
+        - [`🧨_cyber_insecurity_and_friction_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🧨_cyber_insecurity_and_friction_systems.md)
         - [`🪖_classification_suppression_and_misuse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🪖_classification_suppression_and_misuse.md)
         - [`🪖_how_politicians_legally_strangle_the_mod.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🪖_how_politicians_legally_strangle_the_mod.md)
       - [**🛰️_Infrastructure_Procurement/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/)
