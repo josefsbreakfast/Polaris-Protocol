@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 20:49:27 UTC_
+_Generated on 2026-05-13 20:51:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -250,6 +250,7 @@ _Generated on 2026-05-13 20:49:27 UTC_
         - [`🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md)
         - [`🌀_dual_loyalty_loops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🌀_dual_loyalty_loops.md)
         - [`🌹_labour_as_alt_right_spv.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🌹_labour_as_alt_right_spv.md)
+        - [`📖_russia_a_cheat_sheet_for_the_british.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/📖_russia_a_cheat_sheet_for_the_british.md)
         - [`🗳️_the_corbyn_starmer_consent_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🗳️_the_corbyn_starmer_consent_mechanism.md)
         - [`🧨_semantic_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🧨_semantic_collapse.md)
         - [`🧨_why_argumentation_fails_with_alt_right_ideology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🧨_why_argumentation_fails_with_alt_right_ideology.md)
