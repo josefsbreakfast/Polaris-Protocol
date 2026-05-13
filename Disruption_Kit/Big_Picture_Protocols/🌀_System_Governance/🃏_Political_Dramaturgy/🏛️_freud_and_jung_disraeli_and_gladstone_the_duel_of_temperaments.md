@@ -1,6 +1,6 @@
 # 🏛️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments  
-**First created:** 2025-10-23  |  **Last updated:** 2026-05-11  
-*How Europe repeatedly turned temperament into destiny — and recoded political and intellectual style as race, civilisation, and moral legitimacy.*
+**First created:** 2025-10-23  |  **Last updated:** 2026-05-13  
+*How Europe repeatedly turned temperament into destiny — and recoded political and intellectual style as race, civilisation, and moral legitimacy.*  
 
 ---
 
@@ -107,16 +107,16 @@ It examines how European political and intellectual culture repeatedly transform
 > 📡 Cross-references:  
 > - [🜁 Shared Air — Intellectual Proximity and the Myth of Innocent Silence]  
 > - [🪞 Algorithmic Reframing — When Analysis Becomes Evasion]  
-> - [🎭 Witch Girl vs Sensible Man Archetypes]
+> - [🎭 Witch Girl vs Sensible Man Archetypes]  
 >   
 > 🏮 Return To:
 >
-> - [🃏 Political Dramaturgy](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-13_
