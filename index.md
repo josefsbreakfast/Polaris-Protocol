@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-13 22:09:02 UTC_
+_Generated on 2026-05-13 22:10:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -630,6 +630,7 @@ _Generated on 2026-05-13 22:09:02 UTC_
         - [`🚀_procedure_vs_perception.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🚀_procedure_vs_perception.md)
         - [`🦴_reputational_management_as_harm_producing_system.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🦴_reputational_management_as_harm_producing_system.md)
         - [`🧠_cognitive_feedback_and_bureaucratic_amplification.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_cognitive_feedback_and_bureaucratic_amplification.md)
+        - [`🧠_continuity_creates_blindness.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_continuity_creates_blindness.md)
         - [`🧠_cross_silo_reflex_mismatch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_cross_silo_reflex_mismatch.md)
         - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_didnt_apply_brain_loop.md)
         - [`🧠_epistemic_asymmetry_in_security_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_epistemic_asymmetry_in_security_systems.md)
