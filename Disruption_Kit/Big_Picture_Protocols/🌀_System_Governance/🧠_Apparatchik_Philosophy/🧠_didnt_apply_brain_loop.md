@@ -1,5 +1,5 @@
 # 🧠 Didn’t Apply Brain Loop  
-**First created:** 2025-09-03 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-03 | **Last updated:** 2026-05-13  
 *How predator paranoia becomes institutional “intelligence” through DARVO echo chambers.*  
 
 ---
@@ -47,4 +47,4 @@ It exposes how DARVO, when bureaucratised, produces feedback spirals that displa
 
 🏮 [Return to 🌀 Systems & Governance Guide](../README.md)  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-05-13_
