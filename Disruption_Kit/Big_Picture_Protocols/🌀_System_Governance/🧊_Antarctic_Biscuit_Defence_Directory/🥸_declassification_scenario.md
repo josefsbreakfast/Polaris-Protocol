@@ -256,7 +256,7 @@ Once exposed publicly, much of that authority dissolves into:
 
 ---
 
-## 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and disclosure archives:
 >
