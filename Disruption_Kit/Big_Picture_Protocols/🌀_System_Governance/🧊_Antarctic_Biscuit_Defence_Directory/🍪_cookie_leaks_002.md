@@ -132,7 +132,7 @@ The institution survives largely through paperwork momentum.
 
 ---
 
-## 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and narrative incidents:
 >
