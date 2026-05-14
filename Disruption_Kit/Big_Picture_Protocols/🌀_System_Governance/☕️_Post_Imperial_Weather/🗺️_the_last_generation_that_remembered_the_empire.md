@@ -159,7 +159,15 @@ It examines how Britain transitioned from direct imperial memory into inherited 
 > 
 > - [👻 The Postwar Ghost in British Identity](./👻_the_postwar_ghost_in_british_identity.md) — *wartime continuity culture and emotional endurance*  
 > - [☕️ Britain After Elizabeth](./☕️_britain_after_elizabeth.md) — *continuity transition after Elizabeth II*  
-> - [🕯️ The British Blind Spot](./🕯️_the_british_blind_spot.md) — *post-imperial continuity myths and strategic self-perception*  
+> - [🕯️ The British Blind Spot](./🕯️_the_british_blind_spot.md) — *post-imperial continuity myths and strategic self-perception*
+>
+> 🏮 Return To:
+>
+> - [☕️ Post-Imperial Weather](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
