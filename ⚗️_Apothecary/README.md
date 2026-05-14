@@ -1,5 +1,5 @@
 # ⚗️ Apothecary  
-**First created:** 2026-05-14 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-12 | **Last updated:** 2026-05-14  
 
 *An ecological framework for understanding digital behaviour, informational atmospheres, algorithmic constitutions, and the maintenance of cognitive sovereignty in networked environments.*  
 
