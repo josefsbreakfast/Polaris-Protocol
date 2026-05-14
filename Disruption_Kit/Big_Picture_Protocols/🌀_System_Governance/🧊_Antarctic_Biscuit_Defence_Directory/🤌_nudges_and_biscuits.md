@@ -201,7 +201,7 @@ The Antarctic framing exaggerates how institutions often:
 
 ---
 
-## 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and governance materials:
 >
