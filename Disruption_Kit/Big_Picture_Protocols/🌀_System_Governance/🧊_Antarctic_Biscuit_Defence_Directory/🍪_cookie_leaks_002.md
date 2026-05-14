@@ -143,9 +143,8 @@ The institution survives largely through paperwork momentum.
 
 ---
 
-## ✴️ Stardust  
-
-**Tags:** satire, leaks, institutional absurdism, bureaucratic failure, ABDD, operational mishaps, whistleblower parody, administrative comedy, containment failure  
+## ✨ Stardust  
+satire, leaks, institutional absurdism, bureaucratic failure, ABDD, operational mishaps, whistleblower parody, administrative comedy, containment failure  
 
 ---
 
