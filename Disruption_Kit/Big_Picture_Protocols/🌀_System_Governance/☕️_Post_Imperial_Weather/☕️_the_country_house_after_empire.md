@@ -1,5 +1,5 @@
 # ☕️ The Country House After Empire  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
 *How the British country house became a symbolic container for aristocratic continuity, imperial residue, curated nostalgia, and the museumification of class power after empire.*  
 
 ---
@@ -207,7 +207,7 @@ country house, british aristocracy, heritage culture, empire, post-imperial brit
 
 ## 🏮 Footer  
 
-*The Country House After Empire* is a living node of the **Polaris Protocol**.  
+*☕️ The Country House After Empire* is a living node of the **Polaris Protocol**.  
 It examines how the British country house became a symbolic container for aristocratic continuity, imperial residue, nostalgic governance, and the aesthetic afterlife of class power following imperial decline.  
 
 > 📡 Cross-references:
@@ -218,4 +218,4 @@ It examines how the British country house became a symbolic container for aristo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-14_
