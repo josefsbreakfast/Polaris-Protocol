@@ -1,10 +1,10 @@
 # 🗺️ The Last Generation That Remembered the Empire  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
 *How generational transition transformed Britain from a state consciously managing imperial contraction into one increasingly inheriting empire atmospherically rather than directly remembering it.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines the generational shift between:
 - people who directly remembered the British Empire,
@@ -40,7 +40,7 @@ This transformed:
 
 ---
 
-# 🌍 I. Empire Shifted From Memory Into Atmosphere  
+## 🌍 I. Empire Shifted From Memory Into Atmosphere  
 
 When imperial memory remained:
 - lived,
@@ -64,7 +64,7 @@ Empire therefore became:
 
 ---
 
-# ☕️ II. Emotional Continuity Persisted Longer Than Historical Awareness  
+## ☕️ II. Emotional Continuity Persisted Longer Than Historical Awareness  
 
 Many post-imperial emotional structures survived:
 - after explicit imperial consciousness weakened.
@@ -81,10 +81,9 @@ The result was:
 
 ---
 
-# 👑 III. Elizabeth II Bridged The Transition  
+## 👑 III. Elizabeth II Bridged The Transition  
 
-[Elizabeth II](chatgpt://generic-entity?number=2)
-personally connected:
+**Elizabeth II** personally connected:
 - imperial Britain,
 - decolonisation,
 - postwar reconstruction,
@@ -100,7 +99,7 @@ She functioned partly as:
 
 ---
 
-# 📺 IV. British Media Often Treats Empire Atmospherically  
+## 📺 IV. British Media Often Treats Empire Atmospherically  
 
 Contemporary British discourse frequently references empire through:
 - aesthetics,
@@ -121,7 +120,7 @@ The empire survives:
 
 ---
 
-# 🧠 V. Generational Distance Changes Political Interpretation  
+## 🧠 V. Generational Distance Changes Political Interpretation  
 
 People who directly experienced:
 - imperial administration,
@@ -153,7 +152,7 @@ british empire, post-imperial britain, generational memory, decolonisation, brit
 
 ## 🏮 Footer  
 
-*The Last Generation That Remembered the Empire* is a living node of the **Polaris Protocol**.  
+*🗺️ The Last Generation That Remembered the Empire* is a living node of the **Polaris Protocol**.  
 It examines how Britain transitioned from direct imperial memory into inherited imperial atmosphere, reshaping national identity, continuity mythology, and post-imperial emotional culture.  
 
 > 📡 Cross-references:
@@ -164,4 +163,4 @@ It examines how Britain transitioned from direct imperial memory into inherited 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-14_
