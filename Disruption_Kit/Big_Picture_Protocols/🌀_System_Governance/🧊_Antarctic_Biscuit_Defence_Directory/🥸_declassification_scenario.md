@@ -280,7 +280,7 @@ It contributes to the archive by modelling the collapse of institutional secrecy
 
 > 📡 Cross-references:
 >
-> - [📚 Narrative Management](../../📚_Narrative_Management/) — institutional framing and reputational collapse  
+> - [📚 Narrative Management](../📚_Narrative_Management/) — institutional framing and reputational collapse  
 > - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — denial, censorship, and narrative inversion  
 > - [🛰️ Infrastructure & Procurement](../🛰️_Infrastructure_Procurement/README.md) — parallel bureaucracies and operational sprawl  
 > - [🍪 CookieLeaks Index](./🍪_cookie_leaks_index.md) — accumulated disclosure archive  
