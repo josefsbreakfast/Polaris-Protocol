@@ -187,7 +187,7 @@ It contributes to the archive by documenting how ABDD operational authority incr
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) — *primary operational archive*  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *visibility systems and reputational containment*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *visibility systems and reputational containment*  
 > - [☕️ Biscuit Press Index](./☕️_biscuit_press_index.md) — *official/non-official ABDD communications*  
 
 *No institution fully recovers from being tactically defeated by insects during a morale picnic.*  
