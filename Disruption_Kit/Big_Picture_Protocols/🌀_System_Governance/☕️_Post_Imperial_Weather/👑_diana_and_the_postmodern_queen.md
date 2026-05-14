@@ -1,14 +1,12 @@
 # 👑 Diana and the Postmodern Queen  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
 *How Diana transformed monarchy from distant sovereign theatre into emotionally intimate media symbolism, reshaping queenship for the postmodern age.*  
 
 ---
 
 # 🛰️ Orientation  
 
-This node examines the symbolic role of
-[Diana, Princess of Wales](chatgpt://generic-entity?number=0)
-within late twentieth-century British monarchy.
+This node examines the symbolic role of **Diana, Princess of Wales** within late twentieth-century British monarchy.
 
 The argument is not:
 - that Diana was literally queen,
@@ -263,7 +261,7 @@ diana princess of wales, monarchy, postmodern queenship, media culture, emotiona
 
 ## 🏮 Footer  
 
-*Diana and the Postmodern Queen* is a living node of the **Polaris Protocol**.  
+*👑 Diana and the Postmodern Queen* is a living node of the **Polaris Protocol**.  
 It examines how Diana transformed monarchy from distant sovereign theatre into emotionally intimate media symbolism, reshaping queenship and legitimacy for the postmodern age.  
 
 > 📡 Cross-references:
@@ -274,4 +272,4 @@ It examines how Diana transformed monarchy from distant sovereign theatre into e
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-14_
