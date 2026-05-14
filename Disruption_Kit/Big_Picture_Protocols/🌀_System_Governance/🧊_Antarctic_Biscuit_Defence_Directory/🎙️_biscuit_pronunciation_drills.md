@@ -266,7 +266,7 @@ It contributes to the archive by documenting the ABDD’s deeply serious approac
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) — *primary operational archive*  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *classification systems and institutional ritual*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *classification systems and institutional ritual*  
 > - [🍪 Biscuit Translation Table](./🍪_biscuit_translation_table.md) — *multilingual biscuit terminology*  
 
 *Global peace depends heavily on whether the operatives accidentally request cake instead of biscuits.*  
