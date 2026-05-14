@@ -250,7 +250,7 @@ It contributes to the archive by satirising surveillance governance, institution
 
 > 📡 Cross-references:
 >
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *institutional framing and reputational containment*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *institutional framing and reputational containment*  
 > - [🛰️ Infrastructure & Procurement](../🛰️_Infrastructure_Procurement/README.md) — *parallel systems and procurement absurdities*  
 > - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *censorship, denial, and narrative inversion*  
 > - [🍪 CookieLeaks Index](./🍪_cookie_leaks_index.md) — *accumulated disclosure archive*  
