@@ -309,7 +309,7 @@ It examines how Britain’s unusual continuity of institutions, monarchy, and po
 > 
 > - [🪞 The Monarchy as Emotional Infrastructure](./🪞_the_monarchy_as_emotional_infrastructure.md) — *continuity symbolism and ritual legitimacy*  
 > - [☕️ The Henry V of Local Elections Day](./☕️_the_henry_v_of_local_elections_day.md) — *regional identity and political familiarity*  
-> - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](./🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial psychology and continuity systems*  
+> - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](../🌍_National_Storytime/🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial psychology and continuity systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
