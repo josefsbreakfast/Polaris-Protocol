@@ -136,9 +136,8 @@ even while reality has clearly ceased cooperating.
 
 ---
 
-## ✴️ Stardust  
-
-**Tags:** satire, leaks, bureaucratic failure, institutional absurdism, ABDD, operational mishaps, whistleblower parody, crisis containment, administrative comedy  
+## ✨ Stardust  
+satire, leaks, bureaucratic failure, institutional absurdism, ABDD, operational mishaps, whistleblower parody, crisis containment, administrative comedy  
 
 ---
 
