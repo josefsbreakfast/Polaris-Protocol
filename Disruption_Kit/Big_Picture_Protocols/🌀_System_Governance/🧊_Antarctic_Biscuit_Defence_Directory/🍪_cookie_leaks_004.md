@@ -153,7 +153,7 @@ It contributes to the archive by documenting the ABDD’s catastrophic encounter
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) — *primary operational archive*  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *visibility systems and reputational drift*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *visibility systems and reputational drift*  
 > - [☕️ Biscuit Press Index](./☕️_biscuit_press_index.md) — *official/non-official ABDD communications*  
 
 *No security architecture survives sustained exposure to hashtags and good lighting.*  
