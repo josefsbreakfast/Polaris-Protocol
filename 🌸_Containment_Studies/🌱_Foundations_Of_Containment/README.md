@@ -1,5 +1,5 @@
 # 🌱 Foundations Of Containment  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-13 | **Last updated:** 2026-05-14  
 *Core conceptual grammar for how systems construct, maintain, justify, and normalise containment.*  
 
 ---
