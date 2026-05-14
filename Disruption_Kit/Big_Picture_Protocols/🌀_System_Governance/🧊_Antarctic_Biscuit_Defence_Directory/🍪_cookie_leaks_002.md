@@ -1,4 +1,4 @@
-# 🍪 CookieLeaks 001  
+# 🍪 CookieLeaks 002  
 
 **First created:** 2025-09-30  
 **Last updated:** 2025-09-30  
