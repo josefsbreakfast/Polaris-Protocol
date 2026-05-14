@@ -214,7 +214,15 @@ It examines how the British country house became a symbolic container for aristo
 > 
 > - [👻 The Postwar Ghost in British Identity](./👻_the_postwar_ghost_in_british_identity.md) — *continuity culture and postwar emotional inheritance*  
 > - [🕯️ The British Blind Spot](./🕯️_the_british_blind_spot.md) — *continuity mythology and post-imperial self-perception*  
-> - [📺 Beyond Regional TV](./📺_beyond_regional_tv.md) — *media atmospherics and symbolic compression of Britain*  
+> - [📺 Beyond Regional TV](./📺_beyond_regional_tv.md) — *media atmospherics and symbolic compression of Britain*
+>
+> 🏮 Return To:
+>
+> - [☕️ Post-Imperial Weather](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
