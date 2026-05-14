@@ -1,5 +1,5 @@
-# 🎨 Aesthetic & Symbolic Containment  
-**First created:** 2026-05-14 | **Last updated:** 2026-05-14  
+# 🦋 Aesthetic & Symbolic Containment  
+**First created:** 2026-05-13 | **Last updated:** 2026-05-14  
 *Legitimisation through beauty, ritual, symbolism, composure, and the aesthetic management of instability.*  
 
 ---
