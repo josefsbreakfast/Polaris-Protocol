@@ -4,7 +4,7 @@
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 *Biscuit Press: Release 002* expands the Antarctic Biscuit Defence Directorate setting from:
 - isolated institutional scandal
@@ -30,9 +30,9 @@ while maintaining the absurd central premise that biscuit operations have someho
 
 ---
 
-# 🌍 International Headlines  
+## 🌍 International Headlines  
 
-## 🇬🇧 The Times of London  
+### 🇬🇧 The Times of London  
 
 > *“Empire Crumbles Over Custard Creams”*  
 
@@ -41,7 +41,7 @@ Biscuit tins banned from committee rooms.
 
 ---
 
-## 🇫🇷 Le Monde  
+### 🇫🇷 Le Monde  
 
 > *“Colonialisme Culinaire: Le Biscuitgate”*  
 
@@ -49,7 +49,7 @@ Cultural critics accuse ABDD of dunking “without consent.”
 
 ---
 
-## 🇮🇳 The Hindu  
+### 🇮🇳 The Hindu  
 
 > *“Bollywood to Adapt Leaks as Biscuit Wars Saga”*  
 
@@ -58,7 +58,7 @@ ABDD mistakenly thanked in credits.
 
 ---
 
-## 🇨🇱 El Mercurio  
+### 🇨🇱 El Mercurio  
 
 > *“Penguins Protest Biscuit Bunkers”*  
 
@@ -66,7 +66,7 @@ March of the penguins now officially classed as a labour strike.
 
 ---
 
-## 🇯🇵 Asahi Shimbun  
+### 🇯🇵 Asahi Shimbun  
 
 > *“CookieNet Source Forked by Local Bakers”*  
 
@@ -74,7 +74,7 @@ Open-source repository crashes after excessive requests for matcha KitKats.
 
 ---
 
-# 📝 Editorial Cartoon (Description)  
+## 📝 Editorial Cartoon (Description)  
 
 A stern penguin in a bowler hat interrogates a packet of digestives beneath a harsh desk lamp.  
 
@@ -83,9 +83,9 @@ Caption:
 
 ---
 
-# ✨ Key Features  
+## ✨ Key Features  
 
-## 🌐 International Media Fragmentation  
+### 🌐 International Media Fragmentation  
 
 The release demonstrates how:
 - identical source events
@@ -96,7 +96,7 @@ become radically different narratives once filtered through:
 
 ---
 
-## 🗞️ Headline Escalation Logic  
+### 🗞️ Headline Escalation Logic  
 
 Each publication intensifies the scandal through:
 - sensational framing,
@@ -108,7 +108,7 @@ The humour depends on:
 
 ---
 
-## 🎭 Satire Through Familiar Media Voice  
+### 🎭 Satire Through Familiar Media Voice  
 
 The fictional headlines imitate recognisable:
 - editorial tones,
@@ -118,7 +118,7 @@ without requiring direct parody of any specific publication.
 
 ---
 
-## 🐧 Bureaucratic Globalisation  
+### 🐧 Bureaucratic Globalisation  
 
 The release expands the ABDD universe into a genuinely international governance failure:
 - protests,
@@ -130,7 +130,7 @@ all emerging from one catastrophic leak cycle.
 
 ---
 
-# 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and narrative incidents:
 >
