@@ -130,9 +130,8 @@ The inclusion of penguin correspondence expands the ABDD setting into:
 
 ---
 
-# ✴️ Stardust  
-
-**Tags:** satire, reader correspondence, institutional absurdism, ABDD, bureaucratic comedy, public confusion, penguin diplomacy, media parody, epistolary satire  
+## ✨ Stardust  
+satire, reader correspondence, institutional absurdism, ABDD, bureaucratic comedy, public confusion, penguin diplomacy, media parody, epistolary satire  
 
 ---
 
