@@ -212,9 +212,8 @@ The Antarctic framing exaggerates how institutions often:
 
 ---
 
-## ✴️ Stardust  
-
-**Tags:** satire, behavioural economics, nudging, algorithmic governance, institutional absurdism, soft power parody, ABDD, behavioural control, bureaucratic paternalism  
+## ✨ Stardust  
+satire, behavioural economics, nudging, algorithmic governance, institutional absurdism, soft power parody, ABDD, behavioural control, bureaucratic paternalism  
 
 ---
 
