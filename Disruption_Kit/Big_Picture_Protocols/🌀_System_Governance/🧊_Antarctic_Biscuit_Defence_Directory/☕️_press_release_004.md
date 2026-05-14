@@ -123,9 +123,8 @@ by applying geopolitical seriousness to tea-time infrastructure.
 
 ---
 
-# ✴️ Stardust  
-
-**Tags:** satire, crisis communications, institutional spin, social media scandal, ABDD, bureaucratic absurdism, fire ant fiasco, operational embarrassment, reputation management  
+## ✨ Stardust  
+satire, crisis communications, institutional spin, social media scandal, ABDD, bureaucratic absurdism, fire ant fiasco, operational embarrassment, reputation management  
 
 ---
 
