@@ -1,10 +1,10 @@
 # 🪞 The Monarchy as Emotional Infrastructure  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
 *How modern monarchy often survives less as executive governance and more as a system of symbolic continuity, emotional reassurance, and national ritual.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines the idea that modern monarchy frequently functions less as:
 - direct political authority,
@@ -42,7 +42,7 @@ This node therefore studies:
 
 ---
 
-# 👑 I. Monarchy Outlived Executive Necessity  
+## 👑 I. Monarchy Outlived Executive Necessity  
 
 Historically, monarchy often functioned through:
 - direct sovereign power,
@@ -66,7 +66,7 @@ This persistence suggests:
 
 ---
 
-# 🪞 II. Emotional Infrastructure  
+## 🪞 II. Emotional Infrastructure  
 
 Infrastructure is usually imagined as:
 - roads,
@@ -99,7 +99,7 @@ This is especially important during:
 
 ---
 
-# 🕯️ III. Continuity As Psychological Stability  
+## 🕯️ III. Continuity As Psychological Stability  
 
 Modern life produces:
 - acceleration,
@@ -125,7 +125,7 @@ This symbolic continuity can generate:
 
 ---
 
-# 🌍 IV. Post-Imperial Britain And Symbolic Permanence  
+## 🌍 IV. Post-Imperial Britain And Symbolic Permanence  
 
 In Britain, monarchy became especially psychologically important during:
 - decolonisation,
@@ -150,10 +150,9 @@ The institution became:
 
 ---
 
-# 🪶 V. Queenship And Emotional Projection  
+## 🪶 V. Queenship And Emotional Projection  
 
-This emotional role intensified under
-[Elizabeth II](chatgpt://generic-entity?number=0).
+This emotional role intensified under **Elizabeth II**.  
 
 Queenship often carries associations with:
 - continuity,
@@ -175,7 +174,7 @@ For many people, the queen represented:
 
 ---
 
-# 🎭 VI. Ritual Matters More Than Modernity Admits  
+## 🎭 VI. Ritual Matters More Than Modernity Admits  
 
 Modern political culture often treats ritual as:
 - superficial,
@@ -204,7 +203,7 @@ therefore operate partly as:
 
 ---
 
-# 📺 VII. Media And Familiarity  
+## 📺 VII. Media And Familiarity  
 
 Modern monarchy is inseparable from media repetition.
 
@@ -229,7 +228,7 @@ The institution therefore feels:
 
 ---
 
-# ⚖️ VIII. Emotional Infrastructure Is Not Neutral  
+## ⚖️ VIII. Emotional Infrastructure Is Not Neutral  
 
 The emotional role of monarchy can:
 - stabilise,
@@ -251,7 +250,7 @@ The issue is:
 
 ---
 
-# 🧠 IX. The Monarchy Often Carries What Politics Cannot  
+## 🧠 IX. The Monarchy Often Carries What Politics Cannot  
 
 Modern democratic politics is:
 - adversarial,
@@ -274,7 +273,7 @@ in ways ordinary political institutions often cannot.
 
 ---
 
-# ☕️ X. Britain’s Emotional Operating System  
+## ☕️ X. Britain’s Emotional Operating System  
 
 In Britain specifically, monarchy became deeply entwined with:
 - postwar continuity,
@@ -306,7 +305,7 @@ monarchy, emotional infrastructure, symbolic sovereignty, british monarchy, cont
 
 ## 🏮 Footer  
 
-*The Monarchy as Emotional Infrastructure* is a living node of the **Polaris Protocol**.  
+*🪞 The Monarchy as Emotional Infrastructure* is a living node of the **Polaris Protocol**.  
 It examines how modern monarchy frequently survives less through executive authority and more through symbolic continuity, ritual permanence, emotional reassurance, and national psychological stabilisation.  
 
 > 📡 Cross-references:
@@ -317,4 +316,4 @@ It examines how modern monarchy frequently survives less through executive autho
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-14_
