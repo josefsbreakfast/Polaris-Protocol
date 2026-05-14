@@ -1,10 +1,10 @@
 # 🕯️ The British Blind Spot  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
 *Post-imperial continuity myths, emotional self-perception, and the difficulty Britain has in recognising itself clearly.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines a recurring feature of modern British political culture:
 
@@ -56,7 +56,7 @@ This node therefore studies:
 
 ---
 
-# ☕️ I. Britain Never Fully “Ended”  
+## ☕️ I. Britain Never Fully “Ended”  
 
 Many former imperial powers experienced:
 - occupation,
@@ -89,7 +89,7 @@ As a result:
 
 ---
 
-# 🪞 II. Continuity Can Obscure Self-Recognition  
+## 🪞 II. Continuity Can Obscure Self-Recognition  
 
 Because British institutions remained recognisable, Britain often experiences itself as:
 - uniquely stable,
@@ -118,7 +118,7 @@ Britain struggles to perceive some of its own structures precisely because they 
 
 ---
 
-# 🌍 III. Britain Understands Other States Through Itself More Than It Realises  
+## 🌍 III. Britain Understands Other States Through Itself More Than It Realises  
 
 British political culture often treats:
 - Russia,
@@ -145,7 +145,7 @@ But it does mean Britain frequently possesses:
 
 ---
 
-# 🎭 IV. Shakespeare Already Recorded The Blind Spot  
+## 🎭 IV. Shakespeare Already Recorded The Blind Spot  
 
 Shakespeare’s histories repeatedly portray Britain as:
 - regionally divided,
@@ -171,7 +171,7 @@ The emotional architecture persists more strongly than Britain sometimes admits.
 
 ---
 
-# 📺 V. London And The Flattening Problem  
+## 📺 V. London And The Flattening Problem  
 
 The British blind spot is intensified by:
 - media centralisation,
@@ -191,13 +191,12 @@ Ironically, Shakespeare often portrayed regional distinction more precisely than
 
 ---
 
-# 👑 VI. Monarchy As Emotional Continuity Mechanism  
+## 👑 VI. Monarchy As Emotional Continuity Mechanism  
 
 Modern British monarchy survives partly because it functions less as direct governance and more as:
 > symbolic continuity infrastructure.
 
-This became especially visible under
-[Elizabeth II](chatgpt://generic-entity?number=0).
+This became especially visible under **Elizabeth II**.
 
 The monarchy helps stabilise:
 - continuity myths,
@@ -215,7 +214,7 @@ The symbolic continuity remains visible even while:
 
 ---
 
-# 🕯️ VII. Post-Imperial Melancholia  
+## 🕯️ VII. Post-Imperial Melancholia  
 
 Post-imperial melancholia is not simply:
 - nostalgia,
@@ -243,7 +242,7 @@ rather than explicit confrontation.
 
 ---
 
-# ⚖️ VIII. The Blind Spot Is Not Entirely Negative  
+## ⚖️ VIII. The Blind Spot Is Not Entirely Negative  
 
 The same continuity which produces blind spots also produced:
 - institutional stability,
@@ -265,7 +264,7 @@ This creates:
 
 ---
 
-# 🧠 IX. Why The Blind Spot Matters  
+## 🧠 IX. Why The Blind Spot Matters  
 
 The British blind spot matters because:
 - states interpret others through themselves,
@@ -303,7 +302,7 @@ britain, post-imperial melancholia, british exceptionalism, monarchy, continuity
 
 ## 🏮 Footer  
 
-*The British Blind Spot* is a living node of the **Polaris Protocol**.  
+*🕯️ The British Blind Spot* is a living node of the **Polaris Protocol**.  
 It examines how Britain’s unusual continuity of institutions, monarchy, and political culture can produce both resilience and difficulty in recognising the emotional afterlife of empire, symbolic governance, and its own structural similarities to the states it studies abroad.  
 
 > 📡 Cross-references:
@@ -314,4 +313,4 @@ It examines how Britain’s unusual continuity of institutions, monarchy, and po
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-14_
