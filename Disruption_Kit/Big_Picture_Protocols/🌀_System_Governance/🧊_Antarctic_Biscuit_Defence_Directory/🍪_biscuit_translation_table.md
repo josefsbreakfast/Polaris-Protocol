@@ -165,9 +165,8 @@ The guide frames international diplomacy as constantly endangered by:
 
 ---
 
-# ✴️ Stardust  
-
-**Tags:** satire, linguistics, translation systems, pronunciation guide, cross-cultural communication, biscuit diplomacy, ABDD, false friends, semantic drift  
+## ✨ Stardust  
+satire, linguistics, translation systems, pronunciation guide, cross-cultural communication, biscuit diplomacy, ABDD, false friends, semantic drift  
 
 ---
 
