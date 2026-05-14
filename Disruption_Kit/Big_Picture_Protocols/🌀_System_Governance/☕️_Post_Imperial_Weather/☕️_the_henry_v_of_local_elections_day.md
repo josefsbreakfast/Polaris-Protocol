@@ -1,5 +1,5 @@
 # ☕️ The Henry V of Local Elections Day  
-**First created:** 2026-05-07 | **Last updated:** 2026-05-13  
+**First created:** 2026-05-07 | **Last updated:** 2026-05-14  
 *On Shakespeare as recorder of English regional standing, and why Henry V still feels socially recognisable in Britain today.*  
 
 *Or: The UK's political-regional behavioural map before modern polling software.*
@@ -430,4 +430,4 @@ It explores how long-term institutional continuity, geography, and cultural memo
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-14_
