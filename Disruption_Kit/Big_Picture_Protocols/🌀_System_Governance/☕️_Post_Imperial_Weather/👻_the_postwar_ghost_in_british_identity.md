@@ -1,5 +1,5 @@
 # 👻 The Postwar Ghost in British Identity  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
 *How postwar memory, austerity psychology, reconstruction culture, and inherited continuity narratives continue haunting British political identity long after the formal postwar era ended.*  
 
 ---
@@ -179,7 +179,7 @@ postwar britain, british identity, wartime memory, austerity culture, continuity
 
 ## 🏮 Footer  
 
-*The Postwar Ghost in British Identity* is a living node of the **Polaris Protocol**.  
+*👻 The Postwar Ghost in British Identity* is a living node of the **Polaris Protocol**.  
 It examines how postwar memory, continuity mythology, wartime emotional culture, and reconstruction identity continue shaping British political feeling long after the formal postwar era ended.  
 
 > 📡 Cross-references:
@@ -190,4 +190,4 @@ It examines how postwar memory, continuity mythology, wartime emotional culture,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-14_
