@@ -154,7 +154,7 @@ It contributes to the archive by documenting the internationalisation of the ABD
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) —* primary operational archive*  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *media amplification and narrative drift*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *media amplification and narrative drift*  
 > - [☕️ Biscuit Press Index](./☕️_biscuit_press_index.md) — *collected ABDD press incidents*  
 
 *No geopolitical incident is too serious to become headline theatre within forty-eight hours.*  
