@@ -106,9 +106,8 @@ Much of the humour relies on:
 
 ---
 
-# ✴️ Stardust  
-
-**Tags:** satire, media parody, institutional comedy, ABDD, biscuit press, crisis communications, narrative management, bureaucratic absurdism, Antarctic Biscuit Defence Directorate  
+## ✨ Stardust  
+satire, media parody, institutional comedy, ABDD, biscuit press, crisis communications, narrative management, bureaucratic absurdism, Antarctic Biscuit Defence Directorate  
 
 ---
 
