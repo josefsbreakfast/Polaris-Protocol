@@ -163,7 +163,7 @@ while continuing to describe itself in the language of elite strategic infrastru
 
 ---
 
-## 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and narrative incidents:
 >
