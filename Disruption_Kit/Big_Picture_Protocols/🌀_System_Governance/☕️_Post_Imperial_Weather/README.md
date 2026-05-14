@@ -1,5 +1,5 @@
 # ☕️ Post-Imperial Weather  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-13  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-14  
 *How nations metabolise decline, memory, humour, grief, and identity after empire.*  
 
 ---
@@ -147,4 +147,4 @@ It maps the emotional climates, symbolic rituals, and cultural coping systems th
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-14_
