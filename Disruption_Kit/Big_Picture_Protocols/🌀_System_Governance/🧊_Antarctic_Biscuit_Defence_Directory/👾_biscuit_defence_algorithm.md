@@ -241,9 +241,8 @@ can make profoundly irrational systems appear authoritative.
 
 ---
 
-## ✴️ Stardust  
-
-**Tags:** satire, algorithmic systems, predictive analytics parody, CookieNet, surveillance satire, bureaucratic absurdism, dashboard culture, behavioural prediction, institutional tech critique  
+## ✨ Stardust  
+satire, algorithmic systems, predictive analytics parody, CookieNet, surveillance satire, bureaucratic absurdism, dashboard culture, behavioural prediction, institutional tech critique  
 
 ---
 
