@@ -306,7 +306,15 @@ It examines how London-centred media culture can flatten historically distinct t
 > 
 > - [☕️ The Henry V of Local Elections Day](./☕️_the_henry_v_of_local_elections_day.md) — *regional political archetypes and Shakespearean continuity*  
 > - [🎭 Shakespeare as Political Operating System](../🃏_Political_Dramaturgy/🎭_shakespeare_as_political_operating_system.md) — *political archetypes and symbolic Britain*  
-> - [🕯️ The British Blind Spot](./🕯️_the_british_blind_spot.md) — *continuity myths and national self-perception*  
+> - [🕯️ The British Blind Spot](./🕯️_the_british_blind_spot.md) — *continuity myths and national self-perception*
+>
+> 🏮 Return To:
+>
+> - [☕️ Post-Imperial Weather](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
