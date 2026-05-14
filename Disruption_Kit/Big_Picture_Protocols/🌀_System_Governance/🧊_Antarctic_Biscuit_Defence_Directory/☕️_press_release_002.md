@@ -141,9 +141,8 @@ all emerging from one catastrophic leak cycle.
 
 ---
 
-# ✴️ Stardust  
-
-**Tags:** satire, international media, press collage, geopolitical parody, institutional absurdism, ABDD, media escalation, bureaucratic comedy, biscuit diplomacy  
+## ✨ Stardust  
+satire, international media, press collage, geopolitical parody, institutional absurdism, ABDD, media escalation, bureaucratic comedy, biscuit diplomacy  
 
 ---
 
