@@ -293,7 +293,15 @@ It examines how Elizabeth II became psychologically fused with continuity, ritua
 > 
 > - [🪶 The Queen as National Emotional Container](../🃏_Political_Dramaturgy/🪶_the_queen_as_national_emotional_container.md) — *queenship and emotional projection*  
 > - [🪞 The Monarchy as Emotional Infrastructure](./🪞_the_monarchy_as_emotional_infrastructure.md) — *ritual continuity and symbolic stability*  
-> - [🕯️ The British Blind Spot](./🕯️_the_british_blind_spot.md) — *imperial afterweather and continuity psychology*  
+> - [🕯️ The British Blind Spot](./🕯️_the_british_blind_spot.md) — *imperial afterweather and continuity psychology*
+>
+> 🏮 Return To:
+>
+> - [☕️ Post-Imperial Weather](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
