@@ -291,9 +291,9 @@ It examines how Elizabeth II became psychologically fused with continuity, ritua
 
 > 📡 Cross-references:
 > 
-> - [🪶 The Queen as National Emotional Container](./🪶_the_queen_as_national_emotional_container.md) — *queenship and emotional projection*  
+> - [🪶 The Queen as National Emotional Container](../🃏_Political_Dramaturgy/🪶_the_queen_as_national_emotional_container.md) — *queenship and emotional projection*  
 > - [🪞 The Monarchy as Emotional Infrastructure](./🪞_the_monarchy_as_emotional_infrastructure.md) — *ritual continuity and symbolic stability*  
-> - [🕯️ Post-Imperial Melancholia and the British Blind Spot](./🕯️_post_imperial_melancholia_and_the_british_blind_spot.md) — *imperial afterweather and continuity psychology*  
+> - [🕯️ The British Blind Spot](./_🕯️_the_british_blind_spot.md) — *imperial afterweather and continuity psychology*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
