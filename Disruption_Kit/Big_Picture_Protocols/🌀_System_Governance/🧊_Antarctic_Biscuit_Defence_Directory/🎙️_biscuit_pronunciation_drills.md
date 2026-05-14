@@ -253,9 +253,8 @@ The humour depends on agents treating biscuit terminology with:
 
 ---
 
-## ✴️ Stardust  
-
-**Tags:** satire, pronunciation drills, linguistic parody, ABDD training, multilingual systems, biscuit diplomacy, bureaucratic absurdism, operational theatre  
+## ✨ Stardust  
+satire, pronunciation drills, linguistic parody, ABDD training, multilingual systems, biscuit diplomacy, bureaucratic absurdism, operational theatre  
 
 ---
 
