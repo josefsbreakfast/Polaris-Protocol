@@ -143,7 +143,7 @@ It contributes to the archive by documenting the fragmented civilian, legal, and
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) — *primary operational archive*  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *narrative fragmentation and public interpretation*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *narrative fragmentation and public interpretation*  
 > - [☕️ Biscuit Press Index](./☕️_biscuit_press_index.md) — *collected ABDD press incidents*  
 
 *Every institutional crisis eventually reaches the letters page.*  
