@@ -160,9 +160,8 @@ satirises how bureaucratic systems frequently normalise escalating intervention 
 
 ---
 
-# ✴️ Stardust  
-
-**Tags:** satire, bureaucratic systems, binary logic, institutional parody, behavioural governance, workplace absurdism, ABDD, compliance culture, algorithmic categorisation  
+## ✨ Stardust  
+satire, bureaucratic systems, binary logic, institutional parody, behavioural governance, workplace absurdism, ABDD, compliance culture, algorithmic categorisation  
 
 ---
 
