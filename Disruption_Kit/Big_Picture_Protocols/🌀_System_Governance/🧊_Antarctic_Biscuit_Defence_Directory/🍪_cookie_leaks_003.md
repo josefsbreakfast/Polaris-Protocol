@@ -151,7 +151,7 @@ emerge naturally inside rigid institutional structures.
 
 ---
 
-## 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and narrative incidents:
 >
