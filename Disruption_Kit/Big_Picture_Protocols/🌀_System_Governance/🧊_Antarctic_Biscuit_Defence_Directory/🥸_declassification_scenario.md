@@ -268,9 +268,8 @@ Once exposed publicly, much of that authority dissolves into:
 
 ---
 
-## ✴️ Stardust  
-
-**Tags:** satire, declassification, institutional collapse, narrative failure, bureaucratic absurdism, leaks, public scandal, governance parody, ABDD  
+## ✨ Stardust  
+satire, declassification, institutional collapse, narrative failure, bureaucratic absurdism, leaks, public scandal, governance parody, ABDD  
 
 ---
 
