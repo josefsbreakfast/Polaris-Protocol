@@ -225,7 +225,7 @@ to:
 
 ---
 
-## 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and narrative archives:
 >
