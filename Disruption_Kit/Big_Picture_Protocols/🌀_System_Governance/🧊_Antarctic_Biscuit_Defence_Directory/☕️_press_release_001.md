@@ -118,9 +118,8 @@ until bureaucratic seriousness becomes structurally absurd.
 
 ---
 
-# ✴️ Stardust  
-
-**Tags:** satire, mock press release, institutional panic, leaks, media spin, bureaucratic absurdism, snack diplomacy, ABDD, crisis communications  
+## ✨ Stardust  
+satire, mock press release, institutional panic, leaks, media spin, bureaucratic absurdism, snack diplomacy, ABDD, crisis communications  
 
 ---
 
