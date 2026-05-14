@@ -175,7 +175,7 @@ It contributes to the archive by documenting the self-inflicted failures, proced
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) — *primary operational archive*  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *institutional framing and reputational maintenance*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *institutional framing and reputational maintenance*  
 > - [☕️ Biscuit Press Index](./☕️_biscuit_press_index.md) — *public-facing ABDD communications*  
 
 *The most dangerous threat to institutional secrecy is usually the institution itself.*  
