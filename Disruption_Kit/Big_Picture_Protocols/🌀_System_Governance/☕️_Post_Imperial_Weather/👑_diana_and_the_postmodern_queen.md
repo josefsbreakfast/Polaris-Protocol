@@ -266,8 +266,8 @@ It examines how Diana transformed monarchy from distant sovereign theatre into e
 
 > 📡 Cross-references:
 > 
-> - [👑 Queenhood and the Theatre of Purity](./👑_queenhood_and_the_theatre_of_purity.md) — *symbolic femininity and legitimacy performance*  
-> - [🪶 The Queen as National Emotional Container](./🪶_the_queen_as_national_emotional_container.md) — *monarchy and emotional statecraft*  
+> - [👑 Queenhood and the Theatre of Purity](../🃏_Political_Dramaturgy/👑_queenhood_and_the_theatre_of_purity.md) — *symbolic femininity and legitimacy performance*  
+> - [🪶 The Queen as National Emotional Container](../🃏_Political_Dramaturgy/🪶_the_queen_as_national_emotional_container.md) — *monarchy and emotional statecraft*  
 > - [☕️ Britain After Elizabeth](../☕️_Post_Imperial_Weather/☕️_britain_after_elizabeth.md) — *continuity transition and emotional infrastructure after Elizabeth II*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
