@@ -177,9 +177,8 @@ The piece also satirises the performative dimension of:
 
 ---
 
-# ✴️ Stardust  
-
-**Tags:** satire, mock trial, ICJ parody, institutional defence, bureaucratic absurdism, ABDD, international law satire, legal theatre, biscuit sovereignty  
+## ✨ Stardust  
+satire, mock trial, ICJ parody, institutional defence, bureaucratic absurdism, ABDD, international law satire, legal theatre, biscuit sovereignty  
 
 ---
 
