@@ -230,7 +230,7 @@ can make profoundly irrational systems appear authoritative.
 
 ---
 
-## 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and governance materials:
 >
