@@ -119,10 +119,8 @@ even while reality has clearly abandoned cooperation.
 > - [🥸 Declassification Scenario](./🥸_declassification_scenario.md)  
 
 ---
-
-## ✴️ Stardust  
-
-**Tags:** satire, leaks, institutional absurdism, ABDD, bureaucratic failure, operational mishaps, whistleblower parody, crisis communications, narrative collapse  
+## ✨ Stardust  
+satire, leaks, institutional absurdism, ABDD, bureaucratic failure, operational mishaps, whistleblower parody, crisis communications, narrative collapse  
 
 ---
 
