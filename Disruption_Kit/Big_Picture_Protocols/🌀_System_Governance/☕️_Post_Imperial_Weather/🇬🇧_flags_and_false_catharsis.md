@@ -1,5 +1,5 @@
 # 🇬🇧 Flags, False Catharsis, and the Thing That Never Became the Main Line  
-**First created:** 2025-12-23 | **Last updated:** 2026-05-13  
+**First created:** 2025-12-23 | **Last updated:** 2026-05-14  
 *How symbolic patriotism can absorb democratic energy without materially shifting institutional accountability.*  
 
 ---
@@ -281,4 +281,4 @@ The node focuses on the tension between emotionally satisfying political express
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-14_
