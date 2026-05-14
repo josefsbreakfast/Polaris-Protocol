@@ -149,7 +149,7 @@ It contributes to the archive by documenting the operational incidents too embar
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) — primary operational archive  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — institutional framing and containment rhetoric  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — institutional framing and containment rhetoric  
 > - [☕️ Biscuit Press Index](./☕️_biscuit_press_index.md) — official/non-official ABDD media responses  
 
 *Every classified system eventually develops an unofficial archive maintained entirely by exhausted staff and poor impulse control.*  
