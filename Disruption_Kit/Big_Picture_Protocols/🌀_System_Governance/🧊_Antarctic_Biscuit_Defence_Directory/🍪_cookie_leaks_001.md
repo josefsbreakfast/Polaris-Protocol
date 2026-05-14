@@ -125,7 +125,7 @@ even while reality has clearly ceased cooperating.
 
 ---
 
-## 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and narrative incidents:
 >
