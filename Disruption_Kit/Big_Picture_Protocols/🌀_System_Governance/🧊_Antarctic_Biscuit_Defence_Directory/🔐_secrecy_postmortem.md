@@ -400,7 +400,7 @@ are often destabilised by:
 
 ---
 
-## 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and narrative archives:
 >
