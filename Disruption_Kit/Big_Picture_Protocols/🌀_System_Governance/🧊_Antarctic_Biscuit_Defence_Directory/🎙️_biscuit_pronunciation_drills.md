@@ -242,7 +242,7 @@ The humour depends on agents treating biscuit terminology with:
 
 ---
 
-## 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and linguistic materials:
 >
