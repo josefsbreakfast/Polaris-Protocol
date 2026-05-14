@@ -140,9 +140,8 @@ The comedy depends on the ABDD gradually realising that:
 
 ---
 
-## ✴️ Stardust  
-
-**Tags:** satire, social media, operational security, OSINT parody, institutional absurdism, ABDD, digital oversharing, hashtag culture, bureaucratic failure  
+## ✨ Stardust  
+satire, social media, operational security, OSINT parody, institutional absurdism, ABDD, digital oversharing, hashtag culture, bureaucratic failure  
 
 ---
 
