@@ -311,7 +311,7 @@ It examines how modern monarchy frequently survives less through executive autho
 > 📡 Cross-references:
 > 
 > - [🕯️ Elizabeth II and the Last Sacred Queen](./🕯️_elizabeth_ii_and_the_last_sacred_queen.md) — *continuity symbolism and sacred monarchy*  
-> - [🪶 The Queen as National Emotional Container](./🪶_the_queen_as_national_emotional_container.md) — *emotional projection and symbolic motherhood*  
+> - [🪶 The Queen as National Emotional Container](../🃏_Political_Dramaturgy/🪶_the_queen_as_national_emotional_container.md) — *emotional projection and symbolic motherhood*  
 > - [🕯️ The British Blind Spot](./🕯️_the_british_blind_spot.md) — *continuity psychology and post-imperial identity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
