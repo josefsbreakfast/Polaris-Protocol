@@ -173,7 +173,7 @@ It contributes to the archive by satirising the reduction of human complexity in
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) — *primary operational archive*  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *behavioural framing and institutional categorisation*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *behavioural framing and institutional categorisation*  
 > - [☕️ Biscuit Press Index](./☕️_biscuit_press_index.md) — *public-facing ABDD narrative management*  
 
 *The moment nuance becomes operationally inconvenient, a training manual usually appears shortly afterwards.*  
