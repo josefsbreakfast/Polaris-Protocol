@@ -156,7 +156,7 @@ It contributes to the archive by documenting the ongoing collapse of ABDD operat
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) — *primary operational archive*  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *institutional framing and containment rhetoric*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *institutional framing and containment rhetoric*  
 > - [☕️ Biscuit Press Index](./☕️_biscuit_press_index.md) — *official/non-official ABDD media responses*  
 
 *The difference between a scandal and an operational exercise is often determined entirely by who controls the paperwork.*  
