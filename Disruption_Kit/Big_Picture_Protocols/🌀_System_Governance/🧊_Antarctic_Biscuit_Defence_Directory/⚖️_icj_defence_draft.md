@@ -190,7 +190,7 @@ It contributes to the archive by satirising the transformation of institutional 
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) — *primary operational archive*  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *institutional framing and reputational defence*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *institutional framing and reputational defence*  
 > - [☕️ Biscuit Press Index](./☕️_biscuit_press_index.md) — *collected ABDD communications*  
 
 *International law becomes considerably more complicated once biscuits acquire strategic status.*  
