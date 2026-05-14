@@ -1,14 +1,12 @@
 # 🕯️ Elizabeth II and the Last Sacred Queen  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
 *How Elizabeth II became fused with continuity, ritual permanence, and the emotional infrastructure of post-imperial Britain.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
-This node examines the symbolic role of
-[Elizabeth II](chatgpt://generic-entity?number=0)
-within modern British political culture.
+This node examines the symbolic role of **Elizabeth II** within modern British political culture.  
 
 The argument is not that Elizabeth II wielded extraordinary constitutional power in a formal sense.
 
@@ -43,7 +41,7 @@ This node therefore studies:
 
 ---
 
-# 👑 I. Monarchy After Empire  
+## 👑 I. Monarchy After Empire  
 
 By the late twentieth century, Britain had already undergone:
 - imperial contraction,
@@ -71,7 +69,7 @@ The sovereign became:
 
 ---
 
-# 🕯️ II. Ritual Permanence  
+## 🕯️ II. Ritual Permanence  
 
 Elizabeth II’s public role relied heavily upon:
 - repetition,
@@ -97,7 +95,7 @@ The queen’s visibility signalled:
 
 ---
 
-# 🪶 III. The Queen as Emotional Infrastructure  
+## 🪶 III. The Queen as Emotional Infrastructure  
 
 Over time, Elizabeth II became increasingly associated with:
 - emotional stability,
@@ -122,7 +120,7 @@ This helps explain the emotional scale of public mourning following her death.
 
 ---
 
-# 🌍 IV. Post-Imperial Britain and Continuity Anxiety  
+## 🌍 IV. Post-Imperial Britain and Continuity Anxiety  
 
 Post-imperial states often become psychologically attached to symbols of continuity.
 
@@ -149,7 +147,7 @@ Rather:
 
 ---
 
-# 🪞 V. The Sacredness Was Emotional, Not Theological  
+## 🪞 V. The Sacredness Was Emotional, Not Theological  
 
 Modern British monarchy is not sacred in the medieval sense.
 
@@ -175,7 +173,7 @@ But criticism of Elizabeth II personally often triggered unusually emotional rea
 
 ---
 
-# ⚖️ VI. Why Male Successors Face Structural Difficulty  
+## ⚖️ VI. Why Male Successors Face Structural Difficulty  
 
 Future monarchs inherit:
 - the institution,
@@ -209,7 +207,7 @@ which cannot be recreated quickly.
 
 ---
 
-# 🌹 VII. Queenship and Emotional Projection  
+## 🌹 VII. Queenship and Emotional Projection  
 
 Elizabeth II also benefited from the particular symbolic dynamics attached to queenship.
 
@@ -230,7 +228,7 @@ The sovereign woman became:
 
 ---
 
-# 📺 VIII. Media, Familiarity, and National Rhythm  
+## 📺 VIII. Media, Familiarity, and National Rhythm  
 
 Elizabeth II’s reign coincided with:
 - television,
@@ -254,7 +252,7 @@ The monarchy therefore became embedded into:
 
 ---
 
-# 🧠 IX. The Last Sacred Queen  
+## 🧠 IX. The Last Sacred Queen  
 
 The phrase:
 > “the last sacred queen”
@@ -288,7 +286,7 @@ elizabeth ii, monarchy, post-imperial britain, continuity, emotional infrastruct
 
 ## 🏮 Footer  
 
-*Elizabeth II and the Last Sacred Queen* is a living node of the **Polaris Protocol**.  
+*🕯️ Elizabeth II and the Last Sacred Queen* is a living node of the **Polaris Protocol**.  
 It examines how Elizabeth II became psychologically fused with continuity, ritual permanence, and emotional reassurance within post-imperial Britain, transforming monarchy into a form of symbolic emotional infrastructure.  
 
 > 📡 Cross-references:
@@ -299,4 +297,4 @@ It examines how Elizabeth II became psychologically fused with continuity, ritua
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-14_
