@@ -296,7 +296,7 @@ elizabeth ii, britain, monarchy, post-imperial identity, continuity, national gr
 
 ## 🏮 Footer  
 
-*Britain After Elizabeth* is a living node of the **Polaris Protocol**.  
+*☕️ Britain After Elizabeth* is a living node of the **Polaris Protocol**.  
 It examines how the death of Elizabeth II marked the weakening of a major piece of British emotional infrastructure, exposing deeper tensions surrounding continuity, post-imperial identity, generational transition, and symbolic permanence.  
 
 > 📡 Cross-references:
