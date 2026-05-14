@@ -303,7 +303,15 @@ It examines how the death of Elizabeth II marked the weakening of a major piece 
 > 
 > - [🕯️ Elizabeth II and the Last Sacred Queen](./🕯️_elizabeth_ii_and_the_last_sacred_queen.md) — *sacral monarchy and symbolic continuity*  
 > - [🪞 The Monarchy as Emotional Infrastructure](./🪞_the_monarchy_as_emotional_infrastructure.md) — *monarchy as continuity architecture*  
-> - [🕯️ The British Blind Spot](./🕯️_the_british_blind_spot.md) — *continuity myths and post-imperial self-perception*  
+> - [🕯️ The British Blind Spot](./🕯️_the_british_blind_spot.md) — *continuity myths and post-imperial self-perception*
+>
+> 🏮 Return To:
+>
+> - [☕️ Post-Imperial Weather](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
