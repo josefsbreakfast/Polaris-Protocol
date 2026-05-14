@@ -168,7 +168,7 @@ It contributes to the archive by documenting the ABDD’s highly procedural appr
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) — *primary operational archive*  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *classification systems and institutional ritual*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *classification systems and institutional ritual*  
 > - [🍪 Biscuit Translation Table](./🍪_biscuit_translation_table.md) — *multilingual biscuit terminology*  
 
 *International peace remains achievable provided nobody accidentally requests gravy biscuits during negotiations.*  
