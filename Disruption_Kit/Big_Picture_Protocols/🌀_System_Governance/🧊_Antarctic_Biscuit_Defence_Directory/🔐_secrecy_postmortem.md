@@ -410,10 +410,8 @@ are often destabilised by:
 > - [☕️ Biscuit Press Index](./☕️_biscuit_press_index.md)  
 
 ---
-
-## ✴️ Stardust  
-
-**Tags:** satire, secrecy studies, governance critique, institutional analysis, leaks, public relations, narrative collapse, oversight systems, bureaucratic absurdism  
+## ✨ Stardust  
+satire, secrecy studies, governance critique, institutional analysis, leaks, public relations, narrative collapse, oversight systems, bureaucratic absurdism  
 
 ---
 
