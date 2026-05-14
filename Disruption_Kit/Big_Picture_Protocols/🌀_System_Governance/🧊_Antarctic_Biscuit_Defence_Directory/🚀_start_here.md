@@ -238,9 +238,8 @@ to:
 
 ---
 
-## ✴️ Stardust  
-
-**Tags:** satire, governance parody, surveillance absurdism, institutional bureaucracy, algorithmic governance, C4ISR parody, narrative management, ABDD, predictive systems satire  
+## ✨ Stardust  
+satire, governance parody, surveillance absurdism, institutional bureaucracy, algorithmic governance, C4ISR parody, narrative management, ABDD, predictive systems satire  
 
 ---
 
