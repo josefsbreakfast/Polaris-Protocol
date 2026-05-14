@@ -423,7 +423,7 @@ It contributes to the archive by examining the structural fragility of secretive
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) — *primary operational archive*  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *institutional framing and narrative instability*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *institutional framing and narrative instability*  
 > - [🍪 CookieLeaks Index](./🍪_cookie_leaks_index.md) — *accumulated disclosure archive*  
 
 *Most secret programmes survive external attack far longer than they survive internal posting culture.*  
