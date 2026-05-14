@@ -110,7 +110,7 @@ even while reality has clearly abandoned cooperation.
 
 ---
 
-## 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and narrative archives:
 >
