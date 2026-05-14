@@ -4,7 +4,7 @@
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 *Biscuit Press: Release 004* focuses on institutional spin under conditions where:
 - public credibility has already begun collapsing,
@@ -26,13 +26,13 @@ The piece particularly targets the logic of:
 
 ---
 
-# 📰 Press Release  
+## 📰 Press Release  
 
 The Antarctic Biscuit Defence Directorate (ABDD) wishes to clarify recent events that have circulated in public discourse.  
 
 ---
 
-## 📸 Social Media Photos  
+### 📸 Social Media Photos  
 
 - Images of biscuits posted on Instagram by ABDD personnel were not operational disclosures.  
 
@@ -44,7 +44,7 @@ The Antarctic Biscuit Defence Directorate (ABDD) wishes to clarify recent events
 
 ---
 
-## 🐜 Community Picnic Exercise  
+### 🐜 Community Picnic Exercise  
 
 - Reports of agents being hospitalised after encountering “fire ants” during a biscuit-eating excursion are exaggerated.  
 
@@ -63,9 +63,9 @@ The ABDD remains fully committed to:
 
 ---
 
-# ✨ Key Features  
+## ✨ Key Features  
 
-## 📱 Institutional Social Media Collapse  
+### 📱 Institutional Social Media Collapse  
 
 The release parodies:
 - operational oversharing,
@@ -77,7 +77,7 @@ The release parodies:
 
 ---
 
-## 🧾 Retroactive Narrative Reframing  
+### 🧾 Retroactive Narrative Reframing  
 
 The “community engagement drill” explanation satirises a common bureaucratic tactic:
 > reframing accidental failure as intentional stress testing.
@@ -89,7 +89,7 @@ This reflects broader institutional tendencies toward:
 
 ---
 
-## 🐜 Operational Fragility Beneath Professional Language  
+### 🐜 Operational Fragility Beneath Professional Language  
 
 The contrast between:
 - highly polished administrative wording
@@ -99,7 +99,7 @@ creates the central comedic tension of the release.
 
 ---
 
-## ☕️ Snack Sovereignty Logic  
+### ☕️ Snack Sovereignty Logic  
 
 The phrase:
 > “biscuit sovereignty”
@@ -112,7 +112,7 @@ by applying geopolitical seriousness to tea-time infrastructure.
 
 ---
 
-# 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and narrative incidents:
 >
