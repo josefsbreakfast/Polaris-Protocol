@@ -1,5 +1,5 @@
 # 💛 Choleric Constitutions  
-**First created:** 2026-05-14 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-12 | **Last updated:** 2026-05-14  
 
 *An examination of conflict-oriented informational temperaments, outrage mobilisation systems, territorial identity dynamics, and the interaction between dominance signalling and algorithmic amplification.*  
 
@@ -48,7 +48,7 @@ As a result, many online environments gradually drift toward structurally choler
 
 ---
 
-# ⚔️ Core Characteristics  
+## ⚔️ Core Characteristics  
 
 Common tendencies associated with choleric constitutions include:
 
@@ -76,13 +76,13 @@ They may also demonstrate heightened sensitivity to:
 
 ---
 
-# 🔥 Strengths  
+## 🔥 Strengths  
 
 In healthy forms, choleric constitutions can contribute substantial social and organisational energy.  
 
 ---
 
-## 📣 Mobilisation Capacity  
+### 📣 Mobilisation Capacity  
 
 Strong ability to:
 
@@ -99,7 +99,7 @@ These constitutions are often highly effective during moments requiring:
 
 ---
 
-## 🛡️ Protective Instincts  
+### 🛡️ Protective Instincts  
 
 Choleric orientations frequently contain strong impulses toward:
 
@@ -110,7 +110,7 @@ Choleric orientations frequently contain strong impulses toward:
 
 ---
 
-## ⚙️ Action Bias  
+### ⚙️ Action Bias  
 
 Unlike constitutions which may become trapped in analysis or passivity, choleric constitutions often generate:
 
@@ -122,7 +122,7 @@ This can counterbalance institutional paralysis.
 
 ---
 
-## 🧠 Strategic Clarity  
+### 🧠 Strategic Clarity  
 
 These constitutions may possess strong abilities in:
 
@@ -133,13 +133,13 @@ These constitutions may possess strong abilities in:
 
 ---
 
-# ⚠️ Vulnerabilities  
+## ⚠️ Vulnerabilities  
 
 Because digital systems reward emotional activation, choleric constitutions are particularly vulnerable to algorithmic escalation loops.  
 
 ---
 
-## 🔥 Outrage Dependency  
+### 🔥 Outrage Dependency  
 
 Repeated exposure to high-intensity conflict environments may create nervous-system dependency upon:
 
@@ -152,7 +152,7 @@ Over time, outrage itself can become emotionally regulating.
 
 ---
 
-## ⚔️ Perpetual Adversarial Framing  
+### ⚔️ Perpetual Adversarial Framing  
 
 When environments continuously reward conflict, individuals may begin interpreting:
 
@@ -164,7 +164,7 @@ This narrows interpretive flexibility and increases escalation probability.
 
 ---
 
-## 🚨 Purity Escalation  
+### 🚨 Purity Escalation  
 
 High-intensity coalition environments often drift toward:
 
@@ -177,7 +177,7 @@ The result is frequently fragmentation through over-escalation.
 
 ---
 
-## 📣 Visibility Through Conflict  
+### 📣 Visibility Through Conflict  
 
 Platforms often disproportionately reward:
 
@@ -190,7 +190,7 @@ This creates environments where aggression becomes socially legible far more eas
 
 ---
 
-# 🪞 Platform Compatibility  
+## 🪞 Platform Compatibility  
 
 Modern engagement systems strongly amplify choleric behavioural dynamics because conflict produces:
 
@@ -214,9 +214,9 @@ This creates environments where:
 
 ---
 
-# 📚 Nodes  
+## 📚 Nodes  
 
-## Core Nodes  
+### Core Nodes  
 
 - ⚔️ Conflict Orientation  
 - 📣 Dominance Posting  
@@ -225,9 +225,9 @@ This creates environments where:
 
 ---
 
-# ✨ Key Principles  
+## ✨ Key Principles  
 
-## 🧠 Conflict Is Not Inherently Pathological  
+### 🧠 Conflict Is Not Inherently Pathological  
 
 Choleric constitutions are often unfairly reduced to aggression alone.  
 
@@ -243,7 +243,7 @@ The issue is not the existence of conflict itself, but whether systems continuou
 
 ---
 
-## 🌡️ Platforms Monetise Escalation  
+### 🌡️ Platforms Monetise Escalation  
 
 Modern digital systems frequently transform disagreement into:
 
@@ -256,7 +256,7 @@ The result is that emotionally escalatory behaviour often becomes structurally r
 
 ---
 
-## 🪞 Identity And Conflict Become Intertwined  
+### 🪞 Identity And Conflict Become Intertwined  
 
 In highly factional environments, individuals may increasingly experience identity itself through:
 
@@ -269,7 +269,7 @@ This can create psychological difficulty disengaging from conflict even when exh
 
 ---
 
-## 🧴 Choleric Recovery Requires Nervous-System Downregulation  
+### 🧴 Choleric Recovery Requires Nervous-System Downregulation  
 
 Because these constitutions are highly activation-responsive, restoration often depends upon recovering:
 
@@ -281,7 +281,7 @@ Because these constitutions are highly activation-responsive, restoration often 
 
 ---
 
-# 🌌 Constellations  
+## 🌌 Constellations  
 
 This cluster connects strongly with:  
 
