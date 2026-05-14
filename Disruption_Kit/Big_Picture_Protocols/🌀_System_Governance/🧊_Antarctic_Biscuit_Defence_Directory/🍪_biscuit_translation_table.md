@@ -178,7 +178,7 @@ It contributes to the archive by documenting the catastrophic diplomatic potenti
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) — *primary operational archive*  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *classification systems and semantic framing*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *classification systems and semantic framing*  
 > - [☕️ Biscuit Press Index](./☕️_biscuit_press_index.md) — *public-facing ABDD narrative ecosystem*  
 
 *International peace remains theoretically achievable provided nobody mistranslates “biscuit” during negotiations.*  
