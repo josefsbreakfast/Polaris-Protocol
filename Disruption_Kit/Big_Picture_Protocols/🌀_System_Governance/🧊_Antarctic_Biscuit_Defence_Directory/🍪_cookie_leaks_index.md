@@ -132,7 +132,7 @@ It contributes to the archive by cataloguing the Antarctic Biscuit Defence Direc
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) — *primary operational archive*  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *institutional framing and reputational containment*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *institutional framing and reputational containment*  
 > - [☕️ Biscuit Press Index](./☕️_biscuit_press_index.md) — *official/non-official ABDD media responses*  
 
 *Every institution eventually develops a leak archive longer than its official mission statement.*  
