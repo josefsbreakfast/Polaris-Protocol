@@ -186,7 +186,15 @@ It examines how postwar memory, continuity mythology, wartime emotional culture,
 > 
 > - [☕️ Britain After Elizabeth](./☕️_britain_after_elizabeth.md) — *postwar continuity and symbolic transition after Elizabeth II*  
 > - [🕯️ The British Blind Spot](./🕯️_the_british_blind_spot.md) — *continuity mythology and post-imperial self-perception*  
-> - [🪞 The Monarchy as Emotional Infrastructure](./🪞_the_monarchy_as_emotional_infrastructure.md) — *symbolic continuity and emotional governance*  
+> - [🪞 The Monarchy as Emotional Infrastructure](./🪞_the_monarchy_as_emotional_infrastructure.md) — *symbolic continuity and emotional governance*
+>
+> 🏮 Return To:
+>
+> - [☕️ Post-Imperial Weather](./README.md)
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)
+> - [🪄 Disruption Kit](../../../README.md)
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
