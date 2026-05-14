@@ -136,7 +136,7 @@ It contributes to the archive by documenting the ABDD’s escalating efforts to 
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) —* primary operational archive*  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *reputational containment and institutional spin*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *reputational containment and institutional spin*  
 > - [☕️ Biscuit Press Index](./☕️_biscuit_press_index.md) — *collected ABDD press incidents*  
 
 *Every disaster becomes a “community engagement exercise” if the press office survives long enough.*  
