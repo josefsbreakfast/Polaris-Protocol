@@ -4,7 +4,7 @@
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 *⚖️ ICJ Defence Draft* satirises:
 - international legal language,
@@ -30,7 +30,7 @@ to biscuit-related catastrophes, the node parodies how institutional legitimacy 
 
 ---
 
-# 📑 Opening Statement  
+## 📑 Opening Statement  
 
 > “Honourable Judges of the Court,  
 >
@@ -44,9 +44,9 @@ to biscuit-related catastrophes, the node parodies how institutional legitimacy 
 
 ---
 
-# 🗂 Key Arguments  
+## 🗂 Key Arguments  
 
-## 🍪 Biscuit Sovereignty Doctrine  
+### 🍪 Biscuit Sovereignty Doctrine  
 
 - Every state possesses the right to defend its teatime traditions.  
 
@@ -56,7 +56,7 @@ to biscuit-related catastrophes, the node parodies how institutional legitimacy 
 
 ---
 
-## ☕️ Proportionality In Dunking  
+### ☕️ Proportionality In Dunking  
 
 - All dunking manoeuvres remained proportionate to the threat environment.  
 
@@ -66,7 +66,7 @@ to biscuit-related catastrophes, the node parodies how institutional legitimacy 
 
 ---
 
-## 🎭 Cultural Relativity  
+### 🎭 Cultural Relativity  
 
 - Allegations of “custard cream warfare” misunderstand ABDD organisational culture.  
 
@@ -77,7 +77,7 @@ to biscuit-related catastrophes, the node parodies how institutional legitimacy 
 
 ---
 
-## 🐜 Mitigating Circumstances  
+### 🐜 Mitigating Circumstances  
 
 - Personnel operated under:
   - severe operational stress,
@@ -88,15 +88,15 @@ to biscuit-related catastrophes, the node parodies how institutional legitimacy 
 
 ---
 
-# 🧑‍⚖️ Evidence Presented  
+## 🧑‍⚖️ Evidence Presented  
 
-## 📄 Exhibit A  
+### 📄 Exhibit A  
 **Redacted Custard Cream White Paper**  
 Recipes visible. Alleged crimes obscured.  
 
 ---
 
-## 📸 Exhibit B  
+### 📸 Exhibit B  
 **Instagram Biscuit Posts**  
 Submitted as evidence of:
 - personal expression,
@@ -105,14 +105,14 @@ Submitted as evidence of:
 
 ---
 
-## 🏥 Exhibit C  
+### 🏥 Exhibit C  
 **Fire Ant Excursion Medical Records**  
 Entered into evidence as:
 > “proof of sacrifice in defence of biscuit stability.”  
 
 ---
 
-# 📣 Closing Remarks  
+## 📣 Closing Remarks  
 
 > “We urge the Court to see the ABDD not as a rogue agency,  
 > but as pioneers of snack stability in a world of chaos.  
@@ -123,9 +123,9 @@ Entered into evidence as:
 
 ---
 
-# ✨ Key Features  
+## ✨ Key Features  
 
-## ⚖️ Legal Language As Narrative Shield  
+### ⚖️ Legal Language As Narrative Shield  
 
 The node parodies how:
 - legal framing,
@@ -135,7 +135,7 @@ can transform obvious absurdity into something superficially defensible.
 
 ---
 
-## 🧾 Bureaucratic Moral Reclassification  
+### 🧾 Bureaucratic Moral Reclassification  
 
 Potential wrongdoing is repeatedly reframed as:
 - outreach,
@@ -147,7 +147,7 @@ This mirrors real-world institutional crisis rhetoric.
 
 ---
 
-## 🍪 Snack-Based Geopolitical Doctrine  
+### 🍪 Snack-Based Geopolitical Doctrine  
 
 By treating biscuits as strategic assets requiring international legal defence, the node exaggerates:
 - sovereignty discourse,
@@ -157,7 +157,7 @@ until they become structurally comedic.
 
 ---
 
-## 🎭 Courtroom Theatre  
+### 🎭 Courtroom Theatre  
 
 The piece also satirises the performative dimension of:
 - international hearings,
@@ -166,7 +166,7 @@ The piece also satirises the performative dimension of:
 
 ---
 
-# 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and narrative incidents:
 >
