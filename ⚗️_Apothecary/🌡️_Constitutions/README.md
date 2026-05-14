@@ -41,7 +41,7 @@ This cluster therefore examines:
 
 ---
 
-# 🖤 Melancholic Constitutions  
+## 🖤 Melancholic Constitutions  
 
 Melancholic constitutions are associated with:
 
@@ -76,7 +76,7 @@ Under prolonged stress or informational overload, however, melancholic constitut
 
 ---
 
-# 💛 Choleric Constitutions  
+## 💛 Choleric Constitutions  
 
 Choleric constitutions are associated with:
 
@@ -111,7 +111,7 @@ Under platform amplification, however, choleric tendencies can become increasing
 
 ---
 
-# 🩸 Sanguine Constitutions  
+## 🩸 Sanguine Constitutions  
 
 Sanguine constitutions are associated with:
 
@@ -145,7 +145,7 @@ Under high-intensity engagement systems, however, sanguine constitutions may bec
 
 ---
 
-# 🤍 Phlegmatic Constitutions  
+## 🤍 Phlegmatic Constitutions  
 
 Phlegmatic constitutions are associated with:
 
@@ -180,9 +180,9 @@ Under prolonged algorithmic exposure, however, phlegmatic constitutions may beco
 
 ---
 
-# ✨ Key Principles  
+## ✨ Key Principles  
 
-## 🧠 Constitutions Are Ecological, Not Essential  
+### 🧠 Constitutions Are Ecological, Not Essential  
 
 The framework does not claim that people belong permanently to fixed categories.  
 
@@ -196,7 +196,7 @@ Individuals may move between constitutions across contexts, stress levels, life 
 
 ---
 
-## 🌡️ Platforms Select For Certain Constitutions  
+### 🌡️ Platforms Select For Certain Constitutions  
 
 Different platforms often reward different behavioural tendencies.  
 
@@ -211,7 +211,7 @@ The environment itself therefore shapes which constitutions become socially domi
 
 ---
 
-## 🪞 Behaviour Is Often Reinforced Before It Is Understood  
+### 🪞 Behaviour Is Often Reinforced Before It Is Understood  
 
 Many digital behaviours are rewarded algorithmically before individuals consciously recognise what is happening to them.  
 
@@ -223,7 +223,7 @@ The framework therefore prioritises:
 
 ---
 
-## 🧴 The Goal Is Discernment, Not Purity  
+### 🧴 The Goal Is Discernment, Not Purity  
 
 The purpose of constitutional analysis is not to shame particular dispositions.  
 
@@ -240,7 +240,7 @@ The goal is therefore:
 
 ---
 
-# 🌌 Constellations  
+## 🌌 Constellations  
 
 This cluster connects strongly with:  
 
