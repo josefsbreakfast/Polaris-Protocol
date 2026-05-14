@@ -129,7 +129,7 @@ The comedy depends on the ABDD gradually realising that:
 
 ---
 
-## 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and narrative incidents:
 >
