@@ -254,7 +254,7 @@ It contributes to the archive by satirising predictive governance systems, binar
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) — *primary operational archive*  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *behavioural framing and algorithmic governance*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *behavioural framing and algorithmic governance*  
 > - [🍪 Biscuit Defence Training Manual](./🍪_biscuit_defence_training_manual.md) — *field implementation doctrine*  
 
 *Every disastrous predictive system begins with someone insisting the dashboard “basically works.”*  
