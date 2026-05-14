@@ -1,10 +1,10 @@
 # 📺 Beyond Regional TV  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
 *London media culture, regional flattening, and the tendency to compress historically distinct territories into symbolic peripheries.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines a recurring feature of British media culture:
 
@@ -49,7 +49,7 @@ This node therefore studies:
 
 ---
 
-# 🏛️ I. Britain Was Never Emotionally Flat  
+## 🏛️ I. Britain Was Never Emotionally Flat  
 
 Historically, Britain developed through:
 - layered kingdoms,
@@ -78,9 +78,9 @@ This suggests:
 
 ---
 
-# 🎭 II. Shakespeare Had Better Regional Granularity  
+## 🎭 II. Shakespeare Had Better Regional Granularity  
 
-[Henry V](chatgpt://generic-entity?number=0) portrays Britain as:
+**Henry V** portrays Britain as:
 - layered,
 - plural,
 - and politically textured.
@@ -106,7 +106,7 @@ Ironically:
 
 ---
 
-# 📺 III. The “Regional TV” Problem  
+## 📺 III. The “Regional TV” Problem  
 
 The phrase:
 > “regional TV”
@@ -132,7 +132,7 @@ rather than:
 
 ---
 
-# ☕️ IV. The North Is Not One Thing  
+## ☕️ IV. The North Is Not One Thing  
 
 “The North” is one of the strongest examples of regional flattening.
 
@@ -161,7 +161,7 @@ This produces frustration because:
 
 ---
 
-# 🌍 V. Scotland, Wales, And The Limits Of Flattening  
+## 🌍 V. Scotland, Wales, And The Limits Of Flattening  
 
 The same process applies to:
 - Scotland,
@@ -192,7 +192,7 @@ This contributes to:
 
 ---
 
-# 🧠 VI. Familiarity Bias And Media Gravity  
+## 🧠 VI. Familiarity Bias And Media Gravity  
 
 Media systems naturally develop:
 - familiarity bias,
@@ -222,7 +222,7 @@ It is often:
 
 ---
 
-# 🕯️ VII. Post-Imperial Geography And The Centre  
+## 🕯️ VII. Post-Imperial Geography And The Centre  
 
 Post-imperial states frequently become psychologically over-centred around capitals.
 
@@ -243,7 +243,7 @@ Britain often experiences this through:
 
 ---
 
-# 👑 VIII. Why The Flattening Matters Politically  
+## 👑 VIII. Why The Flattening Matters Politically  
 
 Regional flattening affects:
 - elections,
@@ -266,7 +266,7 @@ This helps explain recurring tensions surrounding:
 
 ---
 
-# 🪞 IX. Beyond Regional TV  
+## 🪞 IX. Beyond Regional TV  
 
 The phrase:
 > “beyond regional TV”
@@ -299,7 +299,7 @@ british media, regional identity, london centralisation, county identity, the no
 
 ## 🏮 Footer  
 
-*Beyond Regional TV* is a living node of the **Polaris Protocol**.  
+*📺 Beyond Regional TV* is a living node of the **Polaris Protocol**.  
 It examines how London-centred media culture can flatten historically distinct territories into symbolic peripheries, and how this weakens Britain’s ability to recognise its own regional complexity, political plurality, and emotional geography.  
 
 > 📡 Cross-references:
@@ -310,4 +310,4 @@ It examines how London-centred media culture can flatten historically distinct t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-14_
