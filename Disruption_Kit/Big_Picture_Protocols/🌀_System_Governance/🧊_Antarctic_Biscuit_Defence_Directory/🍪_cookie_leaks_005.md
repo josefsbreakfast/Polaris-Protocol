@@ -174,9 +174,8 @@ while continuing to describe itself in the language of elite strategic infrastru
 
 ---
 
-## ✴️ Stardust  
-
-**Tags:** satire, social media failure, field mishaps, institutional absurdism, ABDD, operational embarrassment, bureaucratic comedy, OSINT parody, snack diplomacy  
+## ✨ Stardust  
+satire, social media failure, field mishaps, institutional absurdism, ABDD, operational embarrassment, bureaucratic comedy, OSINT parody, snack diplomacy  
 
 ---
 
