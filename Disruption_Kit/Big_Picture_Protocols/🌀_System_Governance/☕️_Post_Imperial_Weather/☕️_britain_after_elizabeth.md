@@ -1,13 +1,13 @@
 # ☕️ Britain After Elizabeth  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
 *How the death of Elizabeth II marked not merely the loss of a monarch, but the weakening of a long-standing emotional infrastructure that helped stabilise British continuity, identity, and post-imperial self-perception.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines the cultural and emotional atmosphere of Britain following the death of
-[Elizabeth II](chatgpt://generic-entity?number=0).
+**Elizabeth II**.
 
 The argument is not:
 - that Britain collapsed after her death,
@@ -44,7 +44,7 @@ This node therefore studies:
 
 ---
 
-# 👑 I. Elizabeth II Became Larger Than Ordinary Monarchy  
+## 👑 I. Elizabeth II Became Larger Than Ordinary Monarchy  
 
 Most monarchs are:
 - historical figures,
@@ -74,7 +74,7 @@ The crown increasingly became psychologically inseparable from:
 
 ---
 
-# ☕️ II. Britain Organised Emotional Stability Around Continuity  
+## ☕️ II. Britain Organised Emotional Stability Around Continuity  
 
 Postwar Britain frequently managed instability through:
 - composure,
@@ -98,7 +98,7 @@ The monarchy therefore operated partly as:
 
 ---
 
-# 🕯️ III. Her Death Disrupted A Psychological Constant  
+## 🕯️ III. Her Death Disrupted A Psychological Constant  
 
 For many people,
 Elizabeth’s death produced a strange sensation:
@@ -122,7 +122,7 @@ but:
 
 ---
 
-# 🌍 IV. Britain Lost A Living Link To The Postwar World  
+## 🌍 IV. Britain Lost A Living Link To The Postwar World  
 
 Elizabeth II represented:
 - wartime memory,
@@ -146,10 +146,9 @@ the transition became harder to symbolically avoid.
 
 ---
 
-# ⚖️ V. Charles III Inherits A Different Symbolic Environment  
+## ⚖️ V. Charles III Inherits A Different Symbolic Environment  
 
-[Charles III](chatgpt://generic-entity?number=1)
-does not inherit the same symbolic conditions.
+**Charles III** does not inherit the same symbolic conditions.
 
 This is not necessarily:
 - personal failure,
@@ -171,7 +170,7 @@ Britain after Elizabeth therefore becomes:
 
 ---
 
-# 🪞 VI. The Problem Is Not Simply Monarchy — It Is Emotional Continuity  
+## 🪞 VI. The Problem Is Not Simply Monarchy — It Is Emotional Continuity  
 
 Much public discussion following Elizabeth’s death focused on:
 - republicanism,
@@ -195,7 +194,7 @@ The issue was:
 
 ---
 
-# 📺 VII. Media Intensified The Sense Of National Transition  
+## 📺 VII. Media Intensified The Sense Of National Transition  
 
 British media coverage surrounding:
 - mourning rituals,
@@ -217,7 +216,7 @@ This intensified:
 
 ---
 
-# 🌹 VIII. Elizabeth II Stabilised Contradictions  
+## 🌹 VIII. Elizabeth II Stabilised Contradictions  
 
 Elizabeth functioned partly as:
 - symbolic adhesive across contradictions Britain struggled to reconcile.
@@ -239,7 +238,7 @@ Her death therefore exposed:
 
 ---
 
-# 🧠 IX. Britain After Elizabeth Is More Self-Conscious  
+## 🧠 IX. Britain After Elizabeth Is More Self-Conscious  
 
 Without Elizabeth’s symbolic permanence,
 Britain becomes:
@@ -262,7 +261,7 @@ But it does mean:
 
 ---
 
-# ☕️ X. Britain After Elizabeth Is A Different Emotional Climate  
+## ☕️ X. Britain After Elizabeth Is A Different Emotional Climate  
 
 The phrase:
 > “Britain after Elizabeth”
@@ -308,4 +307,4 @@ It examines how the death of Elizabeth II marked the weakening of a major piece 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-14_
