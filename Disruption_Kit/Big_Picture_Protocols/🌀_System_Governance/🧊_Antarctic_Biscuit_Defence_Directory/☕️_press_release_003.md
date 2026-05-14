@@ -4,7 +4,7 @@
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 *Biscuit Press: Release 003* shifts the ABDD satire away from:
 - institutional statements
@@ -31,16 +31,16 @@ Rather than focusing on a single authoritative narrative, the piece constructs a
 
 ---
 
-# ✉️ Letters To The Editor  
+## ✉️ Letters To The Editor  
 
-## 🐧 From: A Concerned Penguin, McMurdo Sound  
+### 🐧 From: A Concerned Penguin, McMurdo Sound  
 
 > “Please advise why my rookery has been zoned as a ‘biscuit hazard area.’  
 > We are fish-based, not custard-based.”  
 
 ---
 
-## 🕶️ From: ‘Anonymous Operative’ (Clearly ABDD Staff)  
+### 🕶️ From: ‘Anonymous Operative’ (Clearly ABDD Staff)  
 
 > “The press keeps saying we lost control of CookieNet.  
 > We did not lose control. We *delegated autonomy.*  
@@ -48,7 +48,7 @@ Rather than focusing on a single authoritative narrative, the piece constructs a
 
 ---
 
-## 🛒 From: Shopper, South London  
+### 🛒 From: Shopper, South London  
 
 > “I only wanted to buy Rich Teas.  
 > Your wellness app sent me to six separate Tesco Express locations.  
@@ -56,7 +56,7 @@ Rather than focusing on a single authoritative narrative, the piece constructs a
 
 ---
 
-## ⚖️ From: Legal Counsel, International Court  
+### ⚖️ From: Legal Counsel, International Court  
 
 > “We kindly remind ABDD that omelette-related incidents  
 > are now admissible evidence.  
@@ -64,16 +64,16 @@ Rather than focusing on a single authoritative narrative, the piece constructs a
 
 ---
 
-## 🍮 From: Biscuit Enthusiast, Yorkshire  
+### 🍮 From: Biscuit Enthusiast, Yorkshire  
 
 > “Can you please confirm once and for all:  
 > Is the Custard Cream a sandwich or a weapon?”  
 
 ---
 
-# ✨ Key Features  
+## ✨ Key Features  
 
-## 📬 Distributed Narrative Collapse  
+### 📬 Distributed Narrative Collapse  
 
 The letter format demonstrates how:
 - institutional scandals
@@ -86,7 +86,7 @@ generate secondary ecosystems of:
 
 ---
 
-## 🧾 Administrative Euphemism  
+### 🧾 Administrative Euphemism  
 
 Phrases such as:
 > “delegated autonomy”
@@ -98,7 +98,7 @@ parody institutional attempts to linguistically soften:
 
 ---
 
-## 🌍 Civilian Bureaucratic Exposure  
+### 🌍 Civilian Bureaucratic Exposure  
 
 Many letters focus on ordinary people accidentally encountering:
 - strategic infrastructure,
@@ -110,7 +110,7 @@ This mirrors how large systems frequently externalise confusion onto the public.
 
 ---
 
-## 🐧 Ecological Absurdity  
+### 🐧 Ecological Absurdity  
 
 The inclusion of penguin correspondence expands the ABDD setting into:
 - ecological satire,
@@ -119,7 +119,7 @@ The inclusion of penguin correspondence expands the ABDD setting into:
 
 ---
 
-# 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and narrative incidents:
 >
