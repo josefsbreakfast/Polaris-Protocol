@@ -131,7 +131,7 @@ It contributes to the archive by documenting the precise moment an impossible op
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) — *primary operational archive*  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *institutional communication systems*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *institutional communication systems*  
 > - [☕️ Biscuit Press Index](./☕️_biscuit_press_index.md) — *collected ABDD press incidents*  
 
 *The first rule of the Egg Affair is that nobody explains the Egg Affair.*  
