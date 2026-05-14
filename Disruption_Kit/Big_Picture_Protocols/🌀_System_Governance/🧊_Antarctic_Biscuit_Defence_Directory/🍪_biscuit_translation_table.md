@@ -4,7 +4,7 @@
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 *🍪 Biscuit Translation Table + Field Pronunciation Guide* satirises:
 - bureaucratic multilingualism,
@@ -37,7 +37,7 @@ Within the ABDD setting, these ambiguities become operational hazards capable of
 
 ---
 
-# 📑 Translation Table  
+## 📑 Translation Table  
 
 | Language | Word | Pronunciation | Notes |
 |----------|------|---------------|-------|
@@ -55,21 +55,21 @@ Within the ABDD setting, these ambiguities become operational hazards capable of
 
 ---
 
-# ⚠️ False Friends Appendix  
+## ⚠️ False Friends Appendix  
 
-## 🇺🇸 United States  
+### 🇺🇸 United States  
 
 - “Biscuit” = savoury bread roll, not sweet biscuit.  
 
 ---
 
-## 🇬🇧 United Kingdom  
+### 🇬🇧 United Kingdom  
 
 - “Biscuit” = sweet baked item equivalent to the American “cookie.”  
 
 ---
 
-## 🇫🇷 French  
+### 🇫🇷 French  
 
 - “Biscuit” may refer to:
   - cookie,
@@ -79,32 +79,32 @@ depending on context.
 
 ---
 
-## 🇩🇪 German  
+### 🇩🇪 German  
 
 - “Biskuit” refers to sponge cake rather than cookie.  
 
 ---
 
-## 🇪🇸 Spanish  
+### 🇪🇸 Spanish  
 
 - *Galleta salada* indicates savoury crackers rather than sweet biscuits.  
 
 ---
 
-## 🇬🇷 Greek  
+### 🇬🇷 Greek  
 
 - *Κουλουράκι (koulouráki)* refers to a traditional ring biscuit rather than generic *μπισκότο*.  
 
 ---
 
-## 🇮🇱 Hebrew  
+### 🇮🇱 Hebrew  
 
 - ביסקוויט (*biskvit*) = sponge cake.  
 - Actual cookie/biscuit = עוגייה (*ugiyah*).  
 
 ---
 
-## 🕎 Yiddish  
+### 🕎 Yiddish  
 
 - ביסקויט (*biskvit*) = sponge cake.  
 - Cookie/pastry = קיכל (*kikhl*).  
@@ -115,9 +115,9 @@ depending on context.
 
 ---
 
-# ✨ Key Features  
+## ✨ Key Features  
 
-## 🌍 Linguistic Classification Chaos  
+### 🌍 Linguistic Classification Chaos  
 
 The node demonstrates how:
 - seemingly simple food categories
@@ -128,7 +128,7 @@ become unstable across:
 
 ---
 
-## 🧾 Bureaucratic Over-Interpretation  
+### 🧾 Bureaucratic Over-Interpretation  
 
 Within the ABDD setting, harmless translation ambiguity becomes:
 - operational intelligence,
@@ -139,13 +139,13 @@ This parodies systems that overfit meaning onto incomplete contextual data.
 
 ---
 
-## 📡 False Friend Satire  
+### 📡 False Friend Satire  
 
 The “false friends” appendix mirrors real linguistic training documents while exaggerating the geopolitical consequences of mistranslation.
 
 ---
 
-## ☕️ Snack Diplomacy Failure  
+### ☕️ Snack Diplomacy Failure  
 
 The guide frames international diplomacy as constantly endangered by:
 - incompatible biscuit definitions,
@@ -154,7 +154,7 @@ The guide frames international diplomacy as constantly endangered by:
 
 ---
 
-# 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and governance materials:
 >
