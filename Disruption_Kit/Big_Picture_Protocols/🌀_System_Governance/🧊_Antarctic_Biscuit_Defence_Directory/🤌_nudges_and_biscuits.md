@@ -225,7 +225,7 @@ It contributes to the archive by satirising behavioural governance systems, soft
 > 📡 Cross-references:
 >
 > - [🧊 Antarctic Biscuit Defence Directory](../) — *primary operational archive*  
-> - [📚 Narrative Management](../../📚_Narrative_Management/README.md) — *behavioural framing and social conditioning systems*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *behavioural framing and social conditioning systems*  
 > - [👾 Biscuit Defence Algorithm Overview](./👾_biscuit_defence_algorithm.md) — *predictive classification infrastructure*  
 
 *Every “gentle behavioural nudge” eventually becomes a man with a clipboard repositioning your biscuits.*  
