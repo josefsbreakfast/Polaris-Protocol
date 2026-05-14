@@ -144,7 +144,7 @@ with:
 
 ---
 
-## 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and linguistic materials:
 >
