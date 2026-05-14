@@ -4,7 +4,7 @@
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 The **Biscuit Press** series functions as the recurring media layer of the Antarctic Biscuit Defence Directorate mythos.  
 
@@ -37,7 +37,7 @@ While comedic in form, the structure mirrors recognisable patterns found in:
 
 ---
 
-# 📜 Editions  
+## 📜 Editions  
 
 - [☕️ Biscuit Press: 001](./☕️_press_release_001.md)  
   *Pre-release dialogue, operational positioning, and the first official/non-official Directorate statement.*  
@@ -53,9 +53,9 @@ While comedic in form, the structure mirrors recognisable patterns found in:
 
 ---
 
-# ✨ Key Features  
+## ✨ Key Features  
 
-## 🧾 Institutional Satire  
+### 🧾 Institutional Satire  
 
 The series parodies:
 - official communications structures,
@@ -64,7 +64,7 @@ The series parodies:
 
 ---
 
-## 🐧 Escalating Operational Absurdity  
+### 🐧 Escalating Operational Absurdity  
 
 Each release expands the ABDD setting through:
 - contradictory explanations,
@@ -74,7 +74,7 @@ Each release expands the ABDD setting through:
 
 ---
 
-## 📺 Narrative Management Parody  
+### 📺 Narrative Management Parody  
 
 The press format allows satire of:
 - press briefings,
@@ -85,7 +85,7 @@ The press format allows satire of:
 
 ---
 
-## ☕️ Administrative Deadpan  
+### ☕️ Administrative Deadpan  
 
 Much of the humour relies on:
 - calm procedural tone,
@@ -94,7 +94,7 @@ Much of the humour relies on:
 
 ---
 
-# 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and media artefacts:
 >
