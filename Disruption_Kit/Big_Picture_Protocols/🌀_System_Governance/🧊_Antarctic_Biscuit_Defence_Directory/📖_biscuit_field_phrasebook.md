@@ -155,9 +155,8 @@ with:
 
 ---
 
-## ✴️ Stardust  
-
-**Tags:** satire, phrasebook, multilingual systems, biscuit diplomacy, ABDD field manual, linguistic parody, translation humour, bureaucratic absurdism  
+## ✨ Stardust  
+satire, phrasebook, multilingual systems, biscuit diplomacy, ABDD field manual, linguistic parody, translation humour, bureaucratic absurdism  
 
 ---
 
