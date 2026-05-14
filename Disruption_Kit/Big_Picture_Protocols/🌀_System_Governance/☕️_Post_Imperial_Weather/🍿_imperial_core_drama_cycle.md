@@ -311,7 +311,7 @@ The node focuses on:
 > 📡 Cross-references:
 > 
 > - [🧬 Keystone RCA](../🧬_Governance_Repair_Shop/🧬_keystone_rca.md) — *executive root-cause analysis and structural mapping*  
-> - [🌐 Late-Stage Autocracy Vibe Diagnostics](../../🃏_Political_Dramaturgy/🌐_late_stage_autocracy_vibe_diagnostics.md) — *atmosphere, spectacle, and institutional exhaustion*  
+> - [🌐 Late-Stage Autocracy Vibe Diagnostics](../🃏_Political_Dramaturgy/🌐_late_stage_autocracy_vibe_diagnostics.md) — *atmosphere, spectacle, and institutional exhaustion*  
 >   
 > 🏮 Return To:
 >
