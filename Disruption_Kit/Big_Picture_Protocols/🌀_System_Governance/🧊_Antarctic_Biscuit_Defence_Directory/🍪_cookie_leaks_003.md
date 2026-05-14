@@ -162,9 +162,8 @@ emerge naturally inside rigid institutional structures.
 
 ---
 
-## ✴️ Stardust  
-
-**Tags:** satire, institutional sabotage, bureaucratic failure, cover-ups, algorithmic absurdism, ABDD, workplace comedy, operational incompetence, procedural collapse  
+## ✨ Stardust  
+satire, institutional sabotage, bureaucratic failure, cover-ups, algorithmic absurdism, ABDD, workplace comedy, operational incompetence, procedural collapse  
 
 ---
 
