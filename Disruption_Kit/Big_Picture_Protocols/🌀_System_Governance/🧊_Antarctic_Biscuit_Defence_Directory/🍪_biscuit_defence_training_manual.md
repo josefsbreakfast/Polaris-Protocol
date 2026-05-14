@@ -4,7 +4,7 @@
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 *🍪 Biscuit Defence Training Manual* satirises:
 - binary institutional thinking,
@@ -33,7 +33,7 @@ While comedic in tone, the structure mirrors recognisable patterns found in:
 
 ---
 
-# 📑 Overview  
+## 📑 Overview  
 
 You are either a:
 - **Biscuit Stealer**
@@ -49,7 +49,7 @@ Operational certainty is mandatory.
 
 ---
 
-# 📝 Spotting A Biscuit Stealer  
+## 📝 Spotting A Biscuit Stealer  
 
 Indicators may include:  
 
@@ -64,9 +64,9 @@ Indicators may include:
 
 ---
 
-# ✅ Approved Agent Responses  
+## ✅ Approved Agent Responses  
 
-## 🛒 Redirect Suspect  
+### 🛒 Redirect Suspect  
 
 - “Kindly visit the custard cream aisle.”  
 
@@ -74,7 +74,7 @@ Indicators may include:
 
 ---
 
-## 📲 Wellness Reminder  
+### 📲 Wellness Reminder  
 
 Send daily motivational notifications including:  
 
@@ -82,7 +82,7 @@ Send daily motivational notifications including:
 
 ---
 
-## 🥚 Egg Deployment (Last Resort)  
+### 🥚 Egg Deployment (Last Resort)  
 
 - Authorised only when gentle nudges fail.  
 
@@ -92,7 +92,7 @@ Send daily motivational notifications including:
 
 ---
 
-# 🚫 Prohibited Behaviour  
+## 🚫 Prohibited Behaviour  
 
 Agents must not:  
 
@@ -107,9 +107,9 @@ Agents must not:
 
 ---
 
-# ✨ Key Features  
+## ✨ Key Features  
 
-## ⚫ Binary Governance Satire  
+### ⚫ Binary Governance Satire  
 
 The node exaggerates systems that:
 - reduce complex behaviour into rigid oppositional categories,
@@ -118,7 +118,7 @@ The node exaggerates systems that:
 
 ---
 
-## 🧾 Bureaucratic Threat Inflation  
+### 🧾 Bureaucratic Threat Inflation  
 
 Ordinary actions:
 - shopping habits,
@@ -131,7 +131,7 @@ are reframed as:
 
 ---
 
-## 📡 Behavioural Nudging Logic  
+### 📡 Behavioural Nudging Logic  
 
 The “wellness reminder” section parodies:
 - algorithmic persuasion systems,
@@ -140,7 +140,7 @@ The “wellness reminder” section parodies:
 
 ---
 
-## 🥚 Administrative Escalation Absurdity  
+### 🥚 Administrative Escalation Absurdity  
 
 The progression from:
 - motivational messaging
@@ -150,7 +150,7 @@ satirises how bureaucratic systems frequently normalise escalating intervention 
 
 ---
 
-# 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and governance materials:
 >
