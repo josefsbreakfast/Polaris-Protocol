@@ -4,7 +4,7 @@
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 *Biscuit Press: Release 001* establishes the communications tone of the Antarctic Biscuit Defence Directorate universe.  
 
@@ -28,7 +28,7 @@ This structure mirrors real-world crisis communications patterns in which:
 
 ---
 
-# 📞 Pre-Release Dialogue (Leaked Transcript)  
+## 📞 Pre-Release Dialogue (Leaked Transcript)  
 
 **ABDD Agent:** Uh, Commander, the declass docs are out.  
 
@@ -44,9 +44,9 @@ This structure mirrors real-world crisis communications patterns in which:
 
 ---
 
-# 📰 Mock Press Release  
+## 📰 Mock Press Release  
 
-## 📢 FOR IMMEDIATE DISTRIBUTION  
+### 📢 FOR IMMEDIATE DISTRIBUTION  
 *Issued jointly by the Antarctic Biscuit Defence Directorate (ABDD) and its strategic partners*  
 
 In light of recent disclosures, the ABDD wishes to reassure the international community that:  
@@ -68,9 +68,9 @@ The ABDD remains committed to:
 
 ---
 
-# ✨ Key Features  
+## ✨ Key Features  
 
-## 🧾 Bureaucratic Panic Compression  
+### 🧾 Bureaucratic Panic Compression  
 
 The release condenses:
 - institutional fear,
@@ -80,7 +80,7 @@ into rigid administrative language attempting to preserve authority.
 
 ---
 
-## 🥚 The Forbidden Detail Mechanism  
+### 🥚 The Forbidden Detail Mechanism  
 
 The repeated refusal to explain “the eggs” functions as a classic containment joke:
 - the unexplained detail becomes funnier through omission,
@@ -89,7 +89,7 @@ The repeated refusal to explain “the eggs” functions as a classic containmen
 
 ---
 
-## 📺 Crisis Communications Satire  
+### 📺 Crisis Communications Satire  
 
 The formal statement parodies:
 - governmental reassurance language,
@@ -98,7 +98,7 @@ The formal statement parodies:
 
 ---
 
-## ☕️ Snack-Based Geopolitics  
+### ☕️ Snack-Based Geopolitics  
 
 By treating biscuits as strategic assets, the release exaggerates:
 - defence language,
@@ -108,7 +108,7 @@ until bureaucratic seriousness becomes structurally absurd.
 
 ---
 
-# 🕳️ Constellations  
+## 🌌 Constellations  
 
 > Related operational and narrative incidents:
 >
