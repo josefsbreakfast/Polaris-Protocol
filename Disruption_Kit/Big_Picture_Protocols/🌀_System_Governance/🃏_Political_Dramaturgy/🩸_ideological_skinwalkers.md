@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Explores the late-century mutation of party leadership into personality mimicry.  
 Centres Tony Blair as prototype, with David Cameron and George W. Bush as comparative mirrors.  
 Asks how “moral flexibility” became an electoral asset and why charisma replaced conviction.
