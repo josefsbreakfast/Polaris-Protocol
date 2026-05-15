@@ -302,8 +302,8 @@ It examines how female monarchs frequently became intensified embodiments of sov
 > 📡 Cross-references:
 > 
 > - [🌹 The Body of the Queen and the Body of the State](./🌹_the_body_of_the_queen_and_the_body_of_the_state.md) — *sexuality, legitimacy, and sovereign embodiment*  
-> - [🪞 The Monarchy as Emotional Infrastructure](./🪞_the_monarchy_as_emotional_infrastructure.md) — *ritual continuity and symbolic stability*  
-> - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](./🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial legitimacy and sovereign mythology*
+> - [🪞 The Monarchy as Emotional Infrastructure](../☕️_Post_Imperial_Weather/🪞_the_monarchy_as_emotional_infrastructure.md) — *ritual continuity and symbolic stability*  
+> - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](../🌍_National_Storytime/🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial legitimacy and sovereign mythology*  
 >  
 > 🏮 Return To:  
 >
