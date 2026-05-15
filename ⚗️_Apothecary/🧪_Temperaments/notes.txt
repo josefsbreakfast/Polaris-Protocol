@@ -1,0 +1,7 @@
+🧪_Temperaments/
+├── 🕸️_Brigading.md
+├── 📣_Dogpiling.md
+├── 🎭_Irony_Posting.md
+├── 🛡️_Irony_As_Reputational_Shield.md
+├── 🫥_Collapse_Of_Sincere_Register.md
+├── 🐝_Swarm_Behaviours.md
