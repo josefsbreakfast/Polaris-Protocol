@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-15 22:12:02 UTC_
+_Generated on 2026-05-15 22:13:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6884,8 +6884,10 @@ _Generated on 2026-05-15 22:12:02 UTC_
     - [`🪞_meme_as_signal_object.md`](⚗️_Apothecary/🧪_Temperaments/🪞_meme_as_signal_object.md)
   - [**🪴_Tonics/**](⚗️_Apothecary/🪴_Tonics/)
     - [`README.md`](⚗️_Apothecary/🪴_Tonics/README.md)
+    - [`☕️_slow_internet_practices.md`](⚗️_Apothecary/🪴_Tonics/☕️_slow_internet_practices.md)
     - [`🌲_offline_grounding.md`](⚗️_Apothecary/🪴_Tonics/🌲_offline_grounding.md)
     - [`📖_longform_reading.md`](⚗️_Apothecary/🪴_Tonics/📖_longform_reading.md)
+    - [`🕯️_delayed_response_rituals.md`](⚗️_Apothecary/🪴_Tonics/🕯️_delayed_response_rituals.md)
     - [`🫀_embodied_routines.md`](⚗️_Apothecary/🪴_Tonics/🫀_embodied_routines.md)
   - [**🫙_Distempers/**](⚗️_Apothecary/🫙_Distempers/)
     - [**❤️_Sanguine_Distempers/**](⚗️_Apothecary/🫙_Distempers/❤️_Sanguine_Distempers/)
