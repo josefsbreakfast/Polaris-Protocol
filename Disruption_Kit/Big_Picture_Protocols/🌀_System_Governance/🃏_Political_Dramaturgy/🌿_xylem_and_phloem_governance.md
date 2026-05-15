@@ -349,9 +349,9 @@ The problem emerges when the transport tissue begins mistaking:
 
 > 📡 Cross-References:
 > 
-> - []()  
-> - []()  
-> - []()  
+> - [🌱 The Broker Class and British Stagnation](./🌱_the_broker_class_and_british_stagnation.md)  
+> - [🛰️ The Vulnerability of the Gatekeepers](./🛰️_the_vulnerability_of_the_gatekeepers.md)  
+> - [☔️ Restorative Justice in a Shame Culture](./☔️_restorative_justice_in_a_shame_culture.md)  
 >  
 > 🏮 Return To:  
 >  
