@@ -52,7 +52,7 @@ This node therefore studies:
 
 ---
 
-## 👑 I. Patriarchy Does Not Collapse Under Queenship  
+## 👑 Patriarchy Does Not Collapse Under Queenship  
 
 A common modern reading assumes that female monarchs represented a straightforward disruption of patriarchy.
 
@@ -77,7 +77,7 @@ This meant that sovereign women frequently became:
 
 ---
 
-## 🩸 II. The Contradiction of Female Legitimacy  
+## 🩸 The Contradiction of Female Legitimacy  
 
 Hereditary monarchy creates a structural contradiction:
 
@@ -111,7 +111,7 @@ The result is often a state apparatus simultaneously:
 
 ---
 
-## 🎭 III. Femininity as Statecraft  
+## 🎭 Femininity as Statecraft  
 
 Female sovereigns often developed highly sophisticated symbolic performances in order to stabilise authority inside systems predisposed to doubt them.
 
@@ -132,7 +132,7 @@ They frequently became:
 
 ---
 
-## 🏛️ IV. Elizabeth I and the Sovereign Body  
+## 🏛️ Elizabeth I and the Sovereign Body  
 
 ### The Virgin Queen  
 
@@ -160,7 +160,7 @@ Her femininity therefore became:
 
 ---
 
-## 🌍 V. Catherine the Great and Imperial Femininity  
+## 🌍 Catherine the Great and Imperial Femininity  
 
 **Catherine the Great** demonstrates a different but related model of sovereign femininity.
 
@@ -183,7 +183,7 @@ The sovereign woman became:
 
 ---
 
-## 🪞 VI. The Queen as Emotional Infrastructure  
+## 🪞 The Queen as Emotional Infrastructure  
 
 Female sovereigns often become repositories for:
 - continuity,
@@ -211,7 +211,7 @@ She became:
 
 ---
 
-## ⚖️ VII. Contradictory Projection  
+## ⚖️ Contradictory Projection  
 
 Female sovereigns are often subjected to contradictory expectations which cannot fully be reconciled.
 
@@ -242,7 +242,7 @@ It is often about:
 
 ---
 
-## 🕯️ VIII. Queenship After Empire  
+## 🕯️ Queenship After Empire  
 
 In post-imperial states, female sovereigns can become especially symbolically dense.
 
@@ -260,7 +260,7 @@ far beyond their formal constitutional role.
 
 ---
 
-## 🧠 IX. The Men Are Often Arguing About the State  
+## 🧠 The Men Are Often Arguing About the State  
 
 Debates around queenship frequently function as displaced debates about:
 - institutional trust,
