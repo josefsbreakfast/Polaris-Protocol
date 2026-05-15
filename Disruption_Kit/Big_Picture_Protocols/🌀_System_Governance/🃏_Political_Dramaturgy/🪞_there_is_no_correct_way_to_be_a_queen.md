@@ -1,10 +1,10 @@
 # 🪞 There Is No Correct Way to Be a Queen  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-15  
 *How female sovereigns become trapped inside permanently contradictory symbolic expectations which cannot fully be resolved.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines a recurring feature of queenship and sovereign femininity:
 
@@ -47,7 +47,7 @@ She becomes:
 
 ---
 
-# 👑 I. Sovereign Femininity Is Structurally Overloaded  
+## 👑 I. Sovereign Femininity Is Structurally Overloaded  
 
 Hereditary monarchy already places unusual pressure upon:
 - embodiment,
@@ -73,7 +73,7 @@ Yet monarchy often demands that all of them coexist harmoniously within a single
 
 ---
 
-# 🌹 II. The Contradiction Is The Point  
+## 🌹 II. The Contradiction Is The Point  
 
 The contradiction itself frequently becomes part of sovereign mythology.
 
@@ -98,7 +98,7 @@ public culture repeatedly oscillates between:
 
 ---
 
-# 🪞 III. There Is No Stable Performance  
+## 🪞 III. There Is No Stable Performance  
 
 Female sovereigns may be criticised regardless of which symbolic role they emphasise.
 
@@ -142,7 +142,7 @@ The contradiction is structural.
 
 ---
 
-# ⚖️ IV. The Queen Is Rarely Judged As An Individual  
+## ⚖️ IV. The Queen Is Rarely Judged As An Individual  
 
 Public reactions to queenship frequently reveal more about:
 - the population,
@@ -172,10 +172,9 @@ often become displaced arguments about:
 
 ---
 
-# 🩸 V. Mary, Elizabeth, and the Spectrum of Legibility  
+## 🩸 V. Mary, Elizabeth, and the Spectrum of Legibility  
 
-[Mary, Queen of Scots](chatgpt://generic-entity?number=0) and
-[Elizabeth I](chatgpt://generic-entity?number=1) demonstrate different approaches to sovereign femininity.
+**Mary, Queen of Scots** and **Elizabeth I** demonstrate different approaches to sovereign femininity.
 
 Elizabeth cultivated:
 - ambiguity,
@@ -207,9 +206,9 @@ The other remained:
 
 ---
 
-# 🕯️ VI. Elizabeth II and Symbolic Stability  
+## 🕯️ VI. Elizabeth II and Symbolic Stability  
 
-[Elizabeth II](chatgpt://generic-entity?number=2) became unusually powerful symbolically because she appeared to stabilise contradiction itself.
+**Elizabeth II** became unusually powerful symbolically because she appeared to stabilise contradiction itself.
 
 She could simultaneously signify:
 - continuity,
@@ -229,7 +228,7 @@ This symbolic role exceeded constitutional function.
 
 ---
 
-# 🌍 VII. Queenship and National Mythology  
+## 🌍 VII. Queenship and National Mythology  
 
 Queens frequently become entwined with:
 - national identity,
@@ -249,7 +248,7 @@ This is one reason female sovereign figures often remain culturally enormous lon
 
 ---
 
-# 🧠 VIII. The Public Wants Resolution That Cannot Exist  
+## 🧠 VIII. The Public Wants Resolution That Cannot Exist  
 
 Modern public discourse often attempts to identify:
 > the “correct” form of femininity.
@@ -276,13 +275,11 @@ She is functioning as:
 There is therefore:
 > no fully correct way to be a queen.
 
-Only differing methods of negotiating contradiction.
+Only differing methods of negotiating contradiction.  
 
 ---
 
----
-
-# 🎭 IX. Successful Queens Often Weaponise Contradiction
+## 🎭 IX. Successful Queens Often Weaponise Contradiction
 
 Female sovereigns rarely succeed by escaping femininity entirely.
 
@@ -353,4 +350,4 @@ It examines how female sovereigns become trapped within permanently contradictor
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-15_
