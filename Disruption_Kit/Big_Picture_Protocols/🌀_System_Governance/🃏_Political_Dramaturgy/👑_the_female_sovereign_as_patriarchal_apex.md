@@ -1,10 +1,10 @@
 # 👑 The Female Sovereign as Patriarchal Apex  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-15  
 *How female monarchs often became intensified embodiments of patriarchal legitimacy rather than simple disruptions of patriarchal power.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines a recurring historical paradox within hereditary monarchies:
 
@@ -52,7 +52,7 @@ This node therefore studies:
 
 ---
 
-# 👑 I. Patriarchy Does Not Collapse Under Queenship  
+## 👑 I. Patriarchy Does Not Collapse Under Queenship  
 
 A common modern reading assumes that female monarchs represented a straightforward disruption of patriarchy.
 
@@ -77,7 +77,7 @@ This meant that sovereign women frequently became:
 
 ---
 
-# 🩸 II. The Contradiction of Female Legitimacy  
+## 🩸 II. The Contradiction of Female Legitimacy  
 
 Hereditary monarchy creates a structural contradiction:
 
@@ -111,7 +111,7 @@ The result is often a state apparatus simultaneously:
 
 ---
 
-# 🎭 III. Femininity as Statecraft  
+## 🎭 III. Femininity as Statecraft  
 
 Female sovereigns often developed highly sophisticated symbolic performances in order to stabilise authority inside systems predisposed to doubt them.
 
@@ -132,11 +132,11 @@ They frequently became:
 
 ---
 
-# 🏛️ IV. Elizabeth I and the Sovereign Body  
+## 🏛️ IV. Elizabeth I and the Sovereign Body  
 
-## The Virgin Queen  
+### The Virgin Queen  
 
-[Elizabeth I](chatgpt://generic-entity?number=0) provides one of the clearest examples of feminine sovereignty transformed into state mythology.
+**Elizabeth I** provides one of the clearest examples of feminine sovereignty transformed into state mythology.
 
 Elizabeth did not merely rule England.
 
@@ -160,9 +160,9 @@ Her femininity therefore became:
 
 ---
 
-# 🌍 V. Catherine the Great and Imperial Femininity  
+## 🌍 V. Catherine the Great and Imperial Femininity  
 
-[Catherine the Great](chatgpt://generic-entity?number=1) demonstrates a different but related model of sovereign femininity.
+**Catherine the Great** demonstrates a different but related model of sovereign femininity.
 
 Her authority operated through:
 - charisma,
@@ -183,7 +183,7 @@ The sovereign woman became:
 
 ---
 
-# 🪞 VI. The Queen as Emotional Infrastructure  
+## 🪞 VI. The Queen as Emotional Infrastructure  
 
 Female sovereigns often become repositories for:
 - continuity,
@@ -199,7 +199,7 @@ This can create unusually powerful symbolic attachment between:
 - and emotional stability.
 
 This dynamic became especially visible around:
-[Elizabeth II](chatgpt://generic-entity?number=2).
+**Elizabeth II**.
 
 Her symbolic role exceeded constitutional function.
 
@@ -211,7 +211,7 @@ She became:
 
 ---
 
-# ⚖️ VII. Contradictory Projection  
+## ⚖️ VII. Contradictory Projection  
 
 Female sovereigns are often subjected to contradictory expectations which cannot fully be reconciled.
 
@@ -242,7 +242,7 @@ It is often about:
 
 ---
 
-# 🕯️ VIII. Queenship After Empire  
+## 🕯️ VIII. Queenship After Empire  
 
 In post-imperial states, female sovereigns can become especially symbolically dense.
 
@@ -260,7 +260,7 @@ far beyond their formal constitutional role.
 
 ---
 
-# 🧠 IX. The Men Are Often Arguing About the State  
+## 🧠 IX. The Men Are Often Arguing About the State  
 
 Debates around queenship frequently function as displaced debates about:
 - institutional trust,
@@ -296,7 +296,7 @@ queenship, monarchy, patriarchy, feminine legitimacy, sovereign symbolism, eliza
 
 ## 🏮 Footer  
 
-*The Female Sovereign as Patriarchal Apex* is a living node of the **Polaris Protocol**.  
+*👑 The Female Sovereign as Patriarchal Apex* is a living node of the **Polaris Protocol**.  
 It examines how female monarchs frequently became intensified embodiments of sovereign legitimacy within hereditary patriarchal systems, and how femininity itself became entangled with continuity, emotional projection, and state symbolism.  
 
 > 📡 Cross-references:
@@ -307,4 +307,4 @@ It examines how female monarchs frequently became intensified embodiments of sov
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-15_
