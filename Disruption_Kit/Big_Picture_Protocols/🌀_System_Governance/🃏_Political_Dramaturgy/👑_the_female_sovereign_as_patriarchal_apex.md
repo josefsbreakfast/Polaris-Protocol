@@ -303,7 +303,15 @@ It examines how female monarchs frequently became intensified embodiments of sov
 > 
 > - [🌹 The Body of the Queen and the Body of the State](./🌹_the_body_of_the_queen_and_the_body_of_the_state.md) — *sexuality, legitimacy, and sovereign embodiment*  
 > - [🪞 The Monarchy as Emotional Infrastructure](./🪞_the_monarchy_as_emotional_infrastructure.md) — *ritual continuity and symbolic stability*  
-> - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](./🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial legitimacy and sovereign mythology*  
+> - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](./🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial legitimacy and sovereign mythology*
+>  
+> 🏮 Return To:  
+>
+> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
