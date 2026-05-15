@@ -6,7 +6,7 @@
 
 ## 🛰️ Orientation
 
-Restorative and abolitionist justice models are often discussed as though they are primarily:
+Restorative justice models, and some adjacent abolitionist justice arguments, are often discussed as though they are primarily:
 - legal innovations,
 - political positions,
 - or ethical frameworks.
@@ -29,6 +29,8 @@ Especially within:
 - Britain,
 - intermediary establishment systems,
 - and highly networked governance environments.
+
+This node does not argue that Britain is uniformly or uniquely a shame culture, but that certain elite, institutional, classed, and continuity-oriented environments can behave in shame-sensitive ways.
 
 ---
 
@@ -70,7 +72,7 @@ In continuity-oriented prestige cultures, shame is rarely experienced as:
 - temporary,
 - or containable.
 
-Instead it often becomes **collective and hereditary**.
+Instead, it can become collective, familial, reputational, and sometimes quasi-hereditary.
 
 People may experience exposure as threatening:
 - children,
@@ -102,7 +104,7 @@ But because they experience:
 
 ## 🌿 British Continuity Culture
 
-Britain historically retained unusually strong:
+Certain British institutions have historically retained unusually strong:
 - class continuity,
 - lineage consciousness,
 - institutional memory,
@@ -216,8 +218,7 @@ This can produce:
 - containment,
 - and institutional paralysis.
 
-The issue becomes:
-## preserving coherence.
+The issue becomes: **preserving coherence**.
 
 ---
 
