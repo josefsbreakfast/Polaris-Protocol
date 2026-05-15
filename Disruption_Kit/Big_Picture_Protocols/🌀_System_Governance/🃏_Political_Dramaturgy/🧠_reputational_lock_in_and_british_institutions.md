@@ -1,5 +1,5 @@
 # 🧠 Reputational Lock-In and British Institutions  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-13  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-15  
 *Defensive containment, continuity anxiety, and the escalation dynamics of prestige systems.*  
 
 ---
@@ -12,10 +12,12 @@ British institutional culture often struggles not only with:
 - or governance failure,
 
 but with:
-## ⚖️ The social consequences of admitting that failure publicly.
 
-This creates a recurring phenomenon:
-## reputational lock-in.
+> The social consequences of admitting that failure publicly.
+
+This creates a recurring phenomenon:  
+
+> reputational lock-in.
 
 Reputational lock-in occurs when:
 - individuals,
@@ -31,12 +33,13 @@ even after significant doubt, contradiction, or evidence emerges.
 The issue ceases to be:
 - the original event itself,
 
-and becomes:
-## 🌳 preservation of coherence.
+and becomes:  
+
+> preservation of coherence.  
 
 ---
 
-# 🏛️ Why Lock-In Happens
+## 🏛️ Why Lock-In Happens
 
 British institutions historically evolved around:
 - continuity,
@@ -59,7 +62,8 @@ In these systems, legitimacy is often experienced not merely as:
 > public approval
 
 but as:
-## 🧠 Institutional intelligibility.
+
+> Institutional intelligibility.
 
 Meaning:
 - the belief that the system is coherent,
@@ -75,7 +79,7 @@ When serious failure threatens this image, participants often experience:
 
 ---
 
-# 🌿 The Psychology of Prior Defence
+## 🌿 The Psychology of Prior Defence
 
 One of the strongest drivers of reputational lock-in is:
 ## prior public defence.
@@ -117,8 +121,7 @@ In highly continuity-oriented cultures, shame is rarely processed as:
 - temporary,
 - or purely individual.
 
-Instead shame becomes:
-## 🏛️ Networked.
+Instead shame becomes **networked**.
 
 Exposure threatens:
 - families,
@@ -135,11 +138,11 @@ This means relatively small disclosures can produce:
 - or institutional paralysis.
 
 The system begins protecting:
-## continuity before truth.
+**continuity before truth**.  
 
 ---
 
-# 🕯️ British Indirectness and Containment
+## 🕯️ British Indirectness and Containment
 
 British institutional culture frequently manages conflict through:
 - understatement,
@@ -155,7 +158,7 @@ This works relatively well for:
 - and preserving social coherence.
 
 But under reputational threat, these same instincts can become:
-## 🌳 Containment mechanisms.
+**Containment mechanisms**.  
 
 Systems attempt to:
 - absorb pressure,
@@ -170,7 +173,7 @@ The result is often:
 
 ---
 
-# 🛰️ The “Tortoise on a Fence Post” Problem
+## 🛰️ The “Tortoise on a Fence Post” Problem
 
 A recurring institutional pattern emerges where:
 - problematic individuals are moved sideways,
@@ -180,7 +183,7 @@ A recurring institutional pattern emerges where:
 rather than directly confronted.
 
 This reflects:
-## conflict displacement instead of conflict resolution.
+**conflict displacement instead of conflict resolution**.
 
 Everyone may privately recognise:
 > “this situation makes little sense.”
@@ -191,17 +194,17 @@ But publicly acknowledging the full reality risks:
 - or destabilisation of wider networks.
 
 So the system attempts:
-## pressure redistribution.
+**pressure redistribution**.
 
 Rather than:
-## structural correction.
+**structural correction**.
 
 ---
 
-# 🌱 Mutual Exposure Ecosystems
+## 🌱 Mutual Exposure Ecosystems
 
 Highly networked prestige cultures create:
-## mutual exposure systems.
+**mutual exposure systems**.
 
 Participants often know:
 - one another’s vulnerabilities,
@@ -226,11 +229,11 @@ This creates:
 - and informal containment norms.
 
 The issue becomes:
-## ⚖️ Preventing cascade destabilisation.
+**preventing cascade destabilisation**.
 
 ---
 
-# 🧨 Why Reputational Lock-In Escalates
+## 🧨 Why Reputational Lock-In Escalates
 
 The longer systems avoid confronting reality, the more:
 - emotional investment,
@@ -256,11 +259,11 @@ The system is no longer managing:
 - the original harm.
 
 It is managing:
-## accumulated legitimacy panic.
+***accumulated legitimacy panic**.
 
 ---
 
-# ⚖️ Accountability vs Coherence
+## ⚖️ Accountability vs Coherence
 
 This creates a fundamental tension.
 
@@ -292,11 +295,11 @@ But if legitimacy collapses too abruptly:
 can follow.
 
 The challenge becomes:
-## 🌿 building systems capable of surviving acknowledgement of imperfection.
+**building systems capable of surviving acknowledgement of imperfection**.
 
 ---
 
-# 🏛️ Britain’s Transitional Problem
+## 🏛️ Britain’s Transitional Problem
 
 Britain occupies a particularly difficult position because it remains:
 - a liberal democracy,
@@ -325,7 +328,7 @@ This produces:
 
 ---
 
-# ✨ Final Observation
+## ✨ Final Observation
 
 Reputational lock-in is not simply:
 - corruption,
@@ -333,7 +336,7 @@ Reputational lock-in is not simply:
 - or individual dishonesty.
 
 It is often:
-## 🧠 A continuity panic response.
+**A continuity panic response**.
 
 A system attempting to preserve:
 - coherence,
@@ -354,7 +357,7 @@ often end up:
 The problem is not that institutions fear collapse.
 
 The problem emerges when:
-## ⚖️ Fear of embarrassment becomes stronger than commitment to repair.
+**Fear of embarrassment becomes stronger than commitment to repair**.
 
 ---
 
@@ -376,7 +379,7 @@ It examines how prestige systems and continuity-oriented governance cultures bec
 > 📡 Cross-references:
 > 
 > - [☔️ Restorative Justice in a Shame Culture](./☔️_restorative_justice_in_a_shame_culture.md) — *survivable accountability under continuity anxiety*  
-> - [⚖️ Equanimitas and the Stiff Upper Lip](./⚖️_equanimitas_and_the_stiff_upper_lip.md) — *emotional restraint as governance infrastructure*  
+> - [⚖️ Aequanimitas and the Stiff Upper Lip](./⚖️_aequanimitas_and_the_stiff_upper_lip.md) — *emotional restraint as governance infrastructure*  
 > - [🛰️ The Vulnerability of the Gatekeepers](./🛰️_the_vulnerability_of_the_gatekeepers.md) — *elite-network fragility and reputational exposure*  
 > - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular metaphor for continuity-oriented institutional systems*  
 >  
@@ -390,4 +393,4 @@ It examines how prestige systems and continuity-oriented governance cultures bec
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-15_
