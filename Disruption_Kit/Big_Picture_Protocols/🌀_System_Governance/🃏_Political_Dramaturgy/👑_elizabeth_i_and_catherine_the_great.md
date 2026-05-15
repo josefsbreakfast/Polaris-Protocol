@@ -1,15 +1,12 @@
 # 👑 Elizabeth I and Catherine the Great  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-15  
 *How two female sovereigns at opposite edges of Europe transformed monarchy by concentrating patriarchal legitimacy within themselves rather than within the men surrounding them.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
-This node examines the political and symbolic parallels between:
-[Elizabeth I](chatgpt://generic-entity?number=0)
-and
-[Catherine the Great](chatgpt://generic-entity?number=1).
+This node examines the political and symbolic parallels between **Elizabeth I** and **Catherine the Great**.
 
 The comparison is not:
 - simplistic equivalence,
@@ -53,7 +50,7 @@ This node therefore studies:
 
 ---
 
-# 👑 I. Both Women Inherited Structurally Unstable Situations  
+## 👑 I. Both Women Inherited Structurally Unstable Situations  
 
 Neither Elizabeth nor Catherine inherited:
 - politically calm,
@@ -82,7 +79,7 @@ Both women therefore governed states already:
 
 ---
 
-# ⚖️ II. Female Sovereignty Forced Patriarchy To Reorganise Itself  
+## ⚖️ II. Female Sovereignty Forced Patriarchy To Reorganise Itself  
 
 Patriarchal systems traditionally organise legitimacy through:
 - male lineage,
@@ -104,7 +101,7 @@ Elizabeth and Catherine both succeeded partly because:
 
 ---
 
-# 💍 III. The Men Around Them Could Not Fully Absorb Sovereignty  
+## 💍 III. The Men Around Them Could Not Fully Absorb Sovereignty  
 
 A recurring tension surrounding both rulers involved:
 - marriage,
@@ -132,7 +129,7 @@ In both cases:
 
 ---
 
-# 🌹 IV. Femininity Became Political Technology  
+## 🌹 IV. Femininity Became Political Technology  
 
 Both rulers weaponised:
 - femininity,
@@ -167,7 +164,7 @@ into:
 
 ---
 
-# 🕯️ V. Their Bodies Became Symbolic Territory  
+## 🕯️ V. Their Bodies Became Symbolic Territory  
 
 Because both women ruled as sovereigns,
 their:
@@ -196,7 +193,7 @@ The sovereign female body therefore became:
 
 ---
 
-# 🏛️ VI. Both Women Expanded Imperial Identity  
+## 🏛️ VI. Both Women Expanded Imperial Identity  
 
 Elizabeth and Catherine both presided over periods where:
 - imperial imagination,
@@ -223,7 +220,7 @@ Russia increasingly imagined itself through:
 
 ---
 
-# 🎭 VII. Europe Learned To Fear The Female Sovereign  
+## 🎭 VII. Europe Learned To Fear The Female Sovereign  
 
 The existence of both rulers simultaneously transformed European political imagination.
 
@@ -243,7 +240,7 @@ Instead:
 
 ---
 
-# 🪞 VIII. They Became Archetypes Rather Than Individuals  
+## 🪞 VIII. They Became Archetypes Rather Than Individuals  
 
 Over time,
 both Elizabeth and Catherine became:
@@ -271,7 +268,7 @@ The sovereign woman becomes:
 
 ---
 
-# 🌍 IX. The Comparison Reveals Shared Imperial Logic  
+## 🌍 IX. The Comparison Reveals Shared Imperial Logic  
 
 England and Russia remained:
 - different states,
@@ -295,7 +292,7 @@ rather than:
 
 ---
 
-# 🧠 X. Female Sovereigns Reveal The Emotional Structure Of Empire  
+## 🧠 X. Female Sovereigns Reveal The Emotional Structure Of Empire  
 
 Elizabeth I and Catherine the Great matter because they expose:
 > sovereignty is never merely administrative.
@@ -328,7 +325,7 @@ elizabeth i, catherine the great, monarchy, queenship, female sovereignty, patri
 
 ## 🏮 Footer  
 
-*Elizabeth I and Catherine the Great* is a living node of the **Polaris Protocol**.  
+*👑 Elizabeth I and Catherine the Great* is a living node of the **Polaris Protocol**.  
 It examines how Elizabeth I and Catherine the Great transformed monarchy by concentrating patriarchal legitimacy within themselves, reshaping sovereign symbolism and imperial identity across opposite edges of Europe.  
 
 > 📡 Cross-references:
@@ -339,4 +336,4 @@ It examines how Elizabeth I and Catherine the Great transformed monarchy by conc
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-15_
