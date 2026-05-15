@@ -66,7 +66,7 @@ This node therefore studies:
 
 ---
 
-## 👑 I. Queenship Requires Emotional Legitimacy  
+## 👑 Queenship Requires Emotional Legitimacy  
 
 Kingship often legitimises itself through:
 - conquest,
@@ -95,7 +95,7 @@ but:
 
 ---
 
-## 🌹 II. Purity Becomes Political Technology  
+## 🌹 Purity Becomes Political Technology  
 
 Purity in queenship is rarely about:
 - literal sexual behaviour alone.
@@ -123,7 +123,7 @@ But the underlying function remains:
 
 ---
 
-## 💍 III. Contradiction Is Built Into The Role  
+## 💍 Contradiction Is Built Into The Role  
 
 Queens are frequently expected to embody mutually incompatible traits simultaneously.
 
@@ -148,7 +148,7 @@ No real woman can permanently stabilise all these demands coherently.
 
 ---
 
-## 🕯️ IV. Different Queens Solve The Theatre Differently  
+## 🕯️ Different Queens Solve The Theatre Differently  
 
 Different sovereign women stabilise legitimacy through:
 - different symbolic performances.
@@ -179,7 +179,7 @@ But the theatre remains:
 
 ---
 
-## ⚖️ V. Purity Is Often Less About Women Than About The State  
+## ⚖️ Purity Is Often Less About Women Than About The State  
 
 Public fixation upon:
 - queens’ sexuality,
@@ -204,7 +204,7 @@ This is why reactions become:
 
 ---
 
-## 🎭 VI. The Theatre Works Because The Queen Is Embodied  
+## 🎭 The Theatre Works Because The Queen Is Embodied  
 
 Monarchy remains:
 - bodily,
@@ -234,7 +234,7 @@ The queen becomes:
 
 ---
 
-## 🪞 VII. There Is No Stable Standard Of Purity  
+## 🪞 There Is No Stable Standard Of Purity  
 
 The standards imposed upon queens repeatedly contradict themselves.
 
@@ -264,7 +264,7 @@ She can only:
 
 ---
 
-## 🌍 VIII. Modern Media Intensifies Purity Theatre  
+## 🌍 Modern Media Intensifies Purity Theatre  
 
 Modern media ecosystems accelerate:
 - scrutiny,
@@ -287,7 +287,7 @@ The queen or princess becomes:
 
 ---
 
-## 🧠 IX. The Theatre Protects The System More Than The Woman  
+## 🧠 The Theatre Protects The System More Than The Woman  
 
 The purity theatre surrounding queenship often appears focused on:
 - protecting women,
@@ -311,7 +311,7 @@ The theatre therefore protects:
 
 ---
 
-## 👑 X. Queenhood Reveals The Emotional Architecture Of Legitimacy  
+## 👑 Queenhood Reveals The Emotional Architecture Of Legitimacy  
 
 The recurring obsession with queenship reveals something profound about monarchy:
 
