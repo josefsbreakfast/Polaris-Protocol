@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-15 22:19:54 UTC_
+_Generated on 2026-05-15 22:28:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7382,11 +7382,11 @@ _Generated on 2026-05-15 22:19:54 UTC_
     - [`🌿_trees_roots_and_canopies.md`](🧄_Exousiología/🌿_Ecological_Metaphors/🌿_trees_roots_and_canopies.md)
   - [**🔥_Modes_Of_Change/**](🧄_Exousiología/🔥_Modes_Of_Change/)
     - [`README.md`](🧄_Exousiología/🔥_Modes_Of_Change/README.md)
-    - [`🔥_adaptive_reform.md`](🧄_Exousiología/🔥_Modes_Of_Change/🔥_adaptive_reform.md)
-    - [`🔥_patching_and_harm_reduction.md`](🧄_Exousiología/🔥_Modes_Of_Change/🔥_patching_and_harm_reduction.md)
+    - [`❤️‍🩹_patching_and_harm_reduction.md`](🧄_Exousiología/🔥_Modes_Of_Change/❤️‍🩹_patching_and_harm_reduction.md)
     - [`🔥_phoenix_and_rebirth_logics.md`](🧄_Exousiología/🔥_Modes_Of_Change/🔥_phoenix_and_rebirth_logics.md)
-    - [`🔥_transformative_emergence.md`](🧄_Exousiología/🔥_Modes_Of_Change/🔥_transformative_emergence.md)
     - [`🔥_when_change_is_not_optional.md`](🧄_Exousiología/🔥_Modes_Of_Change/🔥_when_change_is_not_optional.md)
+    - [`🦋_transformative_emergence.md`](🧄_Exousiología/🔥_Modes_Of_Change/🦋_transformative_emergence.md)
+    - [`🪼_adaptive_reform.md`](🧄_Exousiología/🔥_Modes_Of_Change/🪼_adaptive_reform.md)
   - [**🔬_Methods_Of_Examination/**](🧄_Exousiología/🔬_Methods_Of_Examination/)
     - [`README.md`](🧄_Exousiología/🔬_Methods_Of_Examination/README.md)
     - [`🔬_comparative_method_notes.md`](🧄_Exousiología/🔬_Methods_Of_Examination/🔬_comparative_method_notes.md)
