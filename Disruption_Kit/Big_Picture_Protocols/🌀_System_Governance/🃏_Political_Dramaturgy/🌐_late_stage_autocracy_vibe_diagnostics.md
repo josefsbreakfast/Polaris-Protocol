@@ -1,5 +1,5 @@
 # 🌐 Late-Stage Autocracy Vibe Diagnostics  
-**First created:** 2025-11-20 | **Last updated:** 2026-05-13  
+**First created:** 2025-11-20 | **Last updated:** 2026-05-15  
 *How regime instability becomes emotionally visible long before formal collapse.*  
 
 ---
@@ -52,8 +52,6 @@ But they are frequently indicators of:
 - Why unstable systems often become “vibe hostile” before they become visibly authoritarian
 
 ---
-
-## 🧿 Analysis / Content  
 
 ## 🎭 The Emotional Signature of Stable Systems  
 
@@ -328,4 +326,4 @@ The node treats “vibes” not as mystical intuition, but as distributed social
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-15_
