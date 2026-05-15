@@ -1,5 +1,5 @@
 # 🧬 The Social Biology of Britain  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-13  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-15  
 *Governance tissue, institutional metabolism, and Britain as a continuity organism.*  
 
 ---
@@ -384,4 +384,4 @@ It frames British governance and institutional behaviour through organismal meta
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-15_
