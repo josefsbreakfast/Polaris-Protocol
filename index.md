@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-15 06:31:05 UTC_
+_Generated on 2026-05-15 18:00:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -247,6 +247,7 @@ _Generated on 2026-05-15 06:31:05 UTC_
         - [`👑_the_female_sovereign_as_patriarchal_apex.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/👑_the_female_sovereign_as_patriarchal_apex.md)
         - [`👑_the_problem_of_the_female_heir.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/👑_the_problem_of_the_female_heir.md)
         - [`🛰️_the_vulnerability_of_the_gatekeepers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🛰️_the_vulnerability_of_the_gatekeepers.md)
+        - [`🥬_lettuce_volatility_index_lvix.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🥬_lettuce_volatility_index_lvix.md)
         - [`🧠_reputational_lock_in_and_british_institutions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🧠_reputational_lock_in_and_british_institutions.md)
         - [`🧨_centre_left_threat_archetypes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🧨_centre_left_threat_archetypes.md)
         - [`🧬_the_social_biology_of_britain.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🧬_the_social_biology_of_britain.md)
