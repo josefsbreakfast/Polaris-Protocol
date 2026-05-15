@@ -350,7 +350,15 @@ It examines how patriarchal monarchies repeatedly transform queens into symbolic
 > 
 > - [🪞 There Is No Correct Way to Be a Queen](./🪞_there_is_no_correct_way_to_be_a_queen.md) — *contradictory expectations surrounding queenship*  
 > - [👑 The Problem of the Female Heir](./👑_the_problem_of_the_female_heir.md) — *dynastic legitimacy and patriarchal contradiction*  
-> - [🪶 The Queen as National Emotional Container](./🪶_the_queen_as_national_emotional_container.md) — *symbolic femininity and emotional governance*  
+> - [🪶 The Queen as National Emotional Container](./🪶_the_queen_as_national_emotional_container.md) — *symbolic femininity and emotional governance*
+>  
+> 🏮 Return To:  
+>
+> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
