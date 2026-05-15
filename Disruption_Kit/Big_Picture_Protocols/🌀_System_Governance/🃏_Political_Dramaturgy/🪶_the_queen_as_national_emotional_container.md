@@ -1,10 +1,10 @@
 # 🪶 The Queen as National Emotional Container  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-15  
 *How queens frequently become repositories for continuity, grief, nostalgia, reassurance, and the emotional self-image of the nation.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines the relationship between:
 - queenship,
@@ -48,7 +48,7 @@ This node therefore studies:
 
 ---
 
-# 👑 I. Monarchy as Emotional Infrastructure  
+## 👑 I. Monarchy as Emotional Infrastructure  
 
 Modern monarchies frequently survive not because of direct executive power, but because they continue to perform:
 - continuity,
@@ -74,7 +74,7 @@ The result is a form of:
 
 ---
 
-# 🪶 II. The Queen as Symbolic Mother  
+## 🪶 II. The Queen as Symbolic Mother  
 
 Queens are frequently interpreted through:
 - maternal symbolism,
@@ -99,9 +99,9 @@ The monarch becomes:
 
 ---
 
-# 🕯️ III. Elizabeth II and Ritual Permanence  
+## 🕯️ III. Elizabeth II and Ritual Permanence  
 
-[Elizabeth II](chatgpt://generic-entity?number=0) became one of the clearest modern examples of queenship functioning as emotional infrastructure.
+**Elizabeth II** became one of the clearest modern examples of queenship functioning as emotional infrastructure.
 
 Her symbolic role expanded far beyond constitutional governance.
 
@@ -133,7 +133,7 @@ It reflected anxiety surrounding:
 
 ---
 
-# 🌍 IV. Queenship After Empire  
+## 🌍 IV. Queenship After Empire  
 
 Post-imperial states often develop intensified emotional attachment to continuity symbols.
 
@@ -154,7 +154,7 @@ This helps explain why certain female sovereigns become:
 
 ---
 
-# 🌹 V. Emotional Projection and Femininity  
+## 🌹 V. Emotional Projection and Femininity  
 
 The emotional role attached to queenship is deeply gendered.
 
@@ -180,7 +180,7 @@ These expectations often exceed those placed upon male sovereigns.
 
 ---
 
-# 🪞 VI. Public Grief and Symbolic Attachment  
+## 🪞 VI. Public Grief and Symbolic Attachment  
 
 Public mourning surrounding queenship often appears unusually intimate.
 
@@ -204,7 +204,7 @@ People may therefore grieve:
 
 ---
 
-# ⚖️ VII. The Danger of Emotional Compression  
+## ⚖️ VII. The Danger of Emotional Compression  
 
 When excessive continuity symbolism becomes concentrated into a single figure, succession can become destabilising.
 
@@ -227,7 +227,7 @@ It is:
 
 ---
 
-# 🧠 VIII. The Queen as Projection Surface  
+## 🧠 VIII. The Queen as Projection Surface  
 
 Public attachment to queenship frequently reveals broader desires for:
 - continuity,
@@ -252,7 +252,7 @@ This means discussions surrounding queenship often become displaced discussions 
 
 ---
 
-# 🎭 IX. Why Female Sovereigns Become So Symbolically Dense  
+## 🎭 IX. Why Female Sovereigns Become So Symbolically Dense  
 
 Female sovereigns often become more emotionally charged than male rulers because patriarchal systems already attach symbolic meaning to:
 - femininity,
@@ -295,4 +295,4 @@ It examines how queenship frequently functions as emotional infrastructure withi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-15_
