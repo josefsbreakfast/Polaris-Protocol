@@ -1,15 +1,12 @@
 # 🐝 Fluellen Was Right  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-15  
 *Procedural legitimacy, regional dignity, and the comic archetype of the person quietly holding the institution together.*  
 
 ---
 
 # 🛰️ Orientation  
 
-This node examines the character of
-[Fluellen](chatgpt://generic-entity?number=0) from
-[Henry V](chatgpt://generic-entity?number=1)
-as an enduring British political archetype.
+This node examines the character of **Fluellen** from **Henry V** as an enduring British political archetype.
 
 Fluellen is frequently remembered as:
 - comic,
@@ -74,7 +71,7 @@ The comedy emerges partly because:
 
 ---
 
-# ⚖️ II. Procedural Legitimacy As Moral Legitimacy  
+## ⚖️ II. Procedural Legitimacy As Moral Legitimacy  
 
 Fluellen repeatedly insists upon:
 - order,
@@ -101,7 +98,7 @@ This creates a specifically British archetype:
 
 ---
 
-# 🌍 III. Regional Identity And Respect  
+## 🌍 III. Regional Identity And Respect  
 
 Fluellen’s Welshness matters.
 
@@ -137,7 +134,7 @@ That distinction matters.
 
 ---
 
-# 🎭 IV. The British Eccentric Competence Archetype  
+## 🎭 IV. The British Eccentric Competence Archetype  
 
 Fluellen belongs to a long British archetypal lineage:
 - the odd specialist,
@@ -168,7 +165,7 @@ This creates a specifically British dynamic:
 
 ---
 
-# ☕️ V. Why The Character Still Feels Familiar  
+## ☕️ V. Why The Character Still Feels Familiar  
 
 Fluellen remains recognisable because Britain still culturally understands:
 - procedural people,
@@ -190,7 +187,7 @@ The underlying social structures never disappeared entirely.
 
 ---
 
-# 🏛️ VI. Comedy Does Not Cancel Legitimacy  
+## 🏛️ VI. Comedy Does Not Cancel Legitimacy  
 
 A major feature of British political culture is the tendency to:
 - mock authority,
@@ -221,7 +218,7 @@ British political humour often instead performs:
 
 ---
 
-# ⚔️ VII. Fluellen And The Survival Of Institutions  
+## ⚔️ VII. Fluellen And The Survival Of Institutions  
 
 Fluellen ultimately represents something larger than comic military procedure.
 
@@ -243,7 +240,7 @@ Fluellen embodies:
 
 ---
 
-# 🧠 VIII. Fluellen Was Right  
+## 🧠 VIII. Fluellen Was Right  
 
 The phrase:
 > “Fluellen was right”
@@ -276,7 +273,7 @@ fluellen, henry v, shakespeare, procedural legitimacy, british eccentricity, ins
 
 ## 🏮 Footer  
 
-*Fluellen Was Right* is a living node of the **Polaris Protocol**.  
+*🐝 Fluellen Was Right* is a living node of the **Polaris Protocol**.  
 It examines Fluellen as a recurring British archetype of procedural legitimacy: the eccentric institutionalist whose competence is obscured by humour, regionality, and social awkwardness until crisis reveals the value of the system they maintain.  
 
 > 📡 Cross-references:
@@ -287,4 +284,4 @@ It examines Fluellen as a recurring British archetype of procedural legitimacy: 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-15_
