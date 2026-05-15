@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-15 22:15:43 UTC_
+_Generated on 2026-05-15 22:16:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6887,6 +6887,7 @@ _Generated on 2026-05-15 22:15:43 UTC_
     - [`☕️_slow_internet_practices.md`](⚗️_Apothecary/🪴_Tonics/☕️_slow_internet_practices.md)
     - [`🌤️_attention_rebalancing.md`](⚗️_Apothecary/🪴_Tonics/🌤️_attention_rebalancing.md)
     - [`🌲_offline_grounding.md`](⚗️_Apothecary/🪴_Tonics/🌲_offline_grounding.md)
+    - [`🎨_private_creativity.md`](⚗️_Apothecary/🪴_Tonics/🎨_private_creativity.md)
     - [`📖_longform_reading.md`](⚗️_Apothecary/🪴_Tonics/📖_longform_reading.md)
     - [`🕯️_delayed_response_rituals.md`](⚗️_Apothecary/🪴_Tonics/🕯️_delayed_response_rituals.md)
     - [`🫀_embodied_routines.md`](⚗️_Apothecary/🪴_Tonics/🫀_embodied_routines.md)
