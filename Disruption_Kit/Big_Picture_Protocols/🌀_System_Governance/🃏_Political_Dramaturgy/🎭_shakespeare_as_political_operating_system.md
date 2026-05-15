@@ -43,7 +43,7 @@ They survive because:
 
 ---
 
-## 👑 I. Shakespeare Was Recording England  
+## 👑 Shakespeare Was Recording England  
 
 A common misconception treats Shakespeare primarily as:
 - poetic,
@@ -71,7 +71,7 @@ He was:
 
 ---
 
-## ☕️ II. Henry V and Regional Britain  
+## ☕️ Henry V and Regional Britain  
 
 **Henry V** remains especially powerful because it portrays Britain as:
 - layered,
@@ -99,7 +99,7 @@ Modern Britain still often does.
 
 ---
 
-## 🐝 III. Fluellen and Procedural Legitimacy  
+## 🐝 Fluellen and Procedural Legitimacy  
 
 **Fluellen** demonstrates Shakespeare’s understanding of:
 - regional specificity,
@@ -126,7 +126,7 @@ It reinforces it.
 
 ---
 
-## ⚔️ IV. The Histories as Political Memory System  
+## ⚔️ The Histories as Political Memory System  
 
 The history plays operate partly as:
 - entertainment,
@@ -150,7 +150,7 @@ That tension still feels recognisable within British political culture.
 
 ---
 
-## 🏛️ V. Shakespearean Archetypes Persist  
+## 🏛️ Shakespearean Archetypes Persist  
 
 Modern British political discourse still repeatedly falls into Shakespearean forms.
 
@@ -182,7 +182,7 @@ Even contemporary journalism often frames politics through:
 
 ---
 
-## 📺 VI. Regional Flattening and Lost Granularity  
+## 📺 Regional Flattening and Lost Granularity  
 
 Ironically, Shakespeare often portrayed regional Britain more specifically than modern national media does.
 
@@ -203,7 +203,7 @@ This suggests:
 
 ---
 
-## 🌍 VII. Shakespeare as National Translation Layer  
+## 🌍 Shakespeare as National Translation Layer  
 
 Shakespeare functions partly as:
 > a translation layer between British people and British power.
@@ -228,7 +228,7 @@ The plays continue to feel:
 
 ---
 
-## 🕯️ VIII. Why Shakespeare Still Feels Contemporary  
+## 🕯️ Why Shakespeare Still Feels Contemporary  
 
 Shakespeare remains politically alive partly because many of the structural realities underpinning the plays still exist:
 - London centrality,
@@ -252,7 +252,7 @@ The emotional architecture remains recognisable.
 
 ---
 
-## 🧠 IX. Shakespeare as Operating System  
+## 🧠 Shakespeare as Operating System  
 
 An operating system is not:
 - visible all the time,
