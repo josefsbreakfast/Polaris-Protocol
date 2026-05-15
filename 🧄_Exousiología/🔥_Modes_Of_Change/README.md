@@ -1,5 +1,5 @@
 # 🔥 Modes Of Change  
-**First created:** 2026-05-15 | **Last updated:** 2026-05-15  
+**First created:** 2026-05-12 | **Last updated:** 2026-05-15  
 
 *An examination of how systems transition, adapt, rupture, regenerate, or refuse transformation under pressure.*  
 
