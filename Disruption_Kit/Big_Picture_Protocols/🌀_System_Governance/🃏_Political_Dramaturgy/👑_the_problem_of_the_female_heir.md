@@ -1,10 +1,10 @@
 # 👑 The "Problem" of the Female Heir  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-15  
 *How hereditary patriarchy repeatedly destabilises itself whenever dynastic continuity depends upon women while political legitimacy remains culturally coded as masculine.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines a recurring contradiction inside hereditary patriarchal systems:
 
@@ -53,7 +53,7 @@ This node therefore studies:
 
 ---
 
-# 👑 I. Hereditary Legitimacy Depends Upon Women  
+## 👑 I. Hereditary Legitimacy Depends Upon Women  
 
 Dynastic systems cannot reproduce themselves without:
 - women,
@@ -76,7 +76,7 @@ This creates a contradiction:
 
 ---
 
-# ⚖️ II. Sovereignty Remains Symbolically Masculine  
+## ⚖️ II. Sovereignty Remains Symbolically Masculine  
 
 Despite this dependency,
 many hereditary systems historically coded sovereignty as:
@@ -106,7 +106,7 @@ The problem was:
 
 ---
 
-# 🌹 III. The Female Heir Exposes Hidden Contradictions  
+## 🌹 III. The Female Heir Exposes Hidden Contradictions  
 
 The female heir often reveals contradictions already latent within the system.
 
@@ -128,7 +128,7 @@ The female heir acts as:
 
 ---
 
-# 💍 IV. Marriage Becomes Governance Crisis  
+## 💍 IV. Marriage Becomes Governance Crisis  
 
 The female heir creates instability because:
 > marriage risks redistributing sovereignty symbolically.
@@ -155,7 +155,7 @@ The woman’s body becomes:
 
 ---
 
-# 🕯️ V. The Female Heir Often Becomes Hyper-Symbolic  
+## 🕯️ V. The Female Heir Often Becomes Hyper-Symbolic  
 
 Because the contradiction cannot be fully resolved,
 female heirs often become subjected to:
@@ -182,7 +182,7 @@ The female heir must often appear:
 
 ---
 
-# 👑 VI. Some Female Sovereigns Solve The Contradiction By Becoming Exceptional  
+## 👑 VI. Some Female Sovereigns Solve The Contradiction By Becoming Exceptional  
 
 Historically,
 certain female rulers stabilised legitimacy by becoming framed as:
@@ -194,14 +194,14 @@ while:
 - temporarily concentrating legitimacy inside a specific female sovereign.
 
 Figures such as:
-- [Elizabeth I](chatgpt://generic-entity?number=0),
-- [Catherine the Great](chatgpt://generic-entity?number=1),
-- and later
-[Elizabeth II](chatgpt://generic-entity?number=2)
-often become:
-- emotionally singular,
-- mythologised,
-- and politically elevated beyond ordinary femininity.
+- **Elizabeth I**,  
+- **Catherine the Great**,  
+- and later  
+**Elizabeth II**  
+often become:  
+- emotionally singular,  
+- mythologised,  
+- and politically elevated beyond ordinary femininity.  
 
 The system therefore avoids:
 > fully resolving the contradiction structurally.
@@ -211,7 +211,7 @@ Instead it:
 
 ---
 
-# ⚔️ VII. Female Heirs Frequently Trigger Legitimacy Anxiety  
+## ⚔️ VII. Female Heirs Frequently Trigger Legitimacy Anxiety  
 
 Periods involving female succession often produce:
 - factionalism,
@@ -230,7 +230,7 @@ The female heir merely exposes:
 
 ---
 
-# 🎭 VIII. The Female Heir Becomes Political Theatre  
+## 🎭 VIII. The Female Heir Becomes Political Theatre  
 
 Because succession anxiety is emotionally intense,
 female heirs frequently become:
@@ -254,7 +254,7 @@ The female heir therefore becomes:
 
 ---
 
-# 🪞 IX. Modern Monarchies Still Carry Residual Anxiety  
+## 🪞 IX. Modern Monarchies Still Carry Residual Anxiety  
 
 Even modern constitutional monarchies retain traces of this structure.
 
@@ -278,7 +278,7 @@ This means the female heir still functions partly as:
 
 ---
 
-# 🧠 X. The Female Heir Reveals The Fragility Of Patriarchal Legitimacy  
+## 🧠 X. The Female Heir Reveals The Fragility Of Patriarchal Legitimacy  
 
 The female heir ultimately reveals something profound:
 
@@ -307,7 +307,7 @@ female heir, monarchy, succession, patriarchy, queenship, hereditary legitimacy,
 
 ## 🏮 Footer  
 
-*The Problem of the Female Heir* is a living node of the **Polaris Protocol**.  
+*👑 The Problem of the Female Heir* is a living node of the **Polaris Protocol**.  
 It examines how hereditary patriarchal systems repeatedly destabilise themselves whenever dynastic continuity depends upon women while political legitimacy remains culturally coded as masculine.  
 
 > 📡 Cross-references:
@@ -318,4 +318,4 @@ It examines how hereditary patriarchal systems repeatedly destabilise themselves
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-15_
