@@ -26,6 +26,8 @@ It functioned historically as:
 
 **Governance infrastructure.**
 
+This node does not argue that emotional restraint is uniquely British, nor that all British institutions or individuals operate this way. Rather, it examines how certain British elite and governance traditions historically elevated emotional composure into a marker of institutional legitimacy.
+
 The appearance of equanimity — or *equanimitas* — became culturally associated with:
 
 * competence,
@@ -38,7 +40,7 @@ The appearance of equanimity — or *equanimitas* — became culturally associat
 
 ## 🏛️ Why Britain Rewarded Emotional Restraint
 
-Britain developed large-scale systems requiring:
+Britain historically developed large-scale administrative and imperial systems that often rewarded:
 
 * imperial administration,
 * naval command,
@@ -93,7 +95,7 @@ Children were often socialised toward:
 * competitiveness,
 * and institutional composure.
 
-Warmth and emotional transparency could sometimes be framed as:
+In some environments, warmth and emotional transparency could be framed as:
 
 * weakness,
 * overindulgence,
@@ -113,11 +115,11 @@ A key distinction emerges here:
 
 The system often prioritised:
 
-## the appearance of stability
+**the appearance of stability**
 
 before:
 
-## actual wellbeing.
+**actual wellbeing**.
 
 This means someone may appear:
 
@@ -135,14 +137,14 @@ while internally experiencing:
 * exhaustion,
 * or severe psychological distress.
 
-The culture rewards the containment.
+The culture rewards the containment.  
 Not necessarily the integration.
 
 ---
 
 ## ⚡️ High Performance and Unhealthy Coping
 
-This helps explain recurring overlaps between British elite institutional culture and:
+This may help explain recurring overlaps sometimes observed between British elite institutional culture and:
 
 * overwork,
 * alcohol dependency,
@@ -206,7 +208,7 @@ At that point:
 * euphemism,
 * and reputational panic
 
-become highly predictable responses.
+become recurrent defensive responses.
 
 The system attempts to preserve:
 
@@ -216,7 +218,7 @@ The system attempts to preserve:
 
 ## 🌿 Indirectness as Pressure Management
 
-British English and British institutional culture are often highly indirect.
+British English and some British institutional environments are often comparatively indirect in how they manage conflict.
 
 Conflict is frequently managed through:
 
@@ -258,13 +260,13 @@ can become:
 
 ## 🛰️ Why Accountability Becomes Difficult
 
-This is one reason British institutions often struggle with:
+This is one reason some British institutions often struggle with:
 
 * restorative justice,
 * emotionally transparent accountability,
 * and rapid institutional correction.
 
-The problem is not necessarily lack of intelligence.
+The difficulty is not necessarily lack of intelligence or goodwill.
 
 It is that many participants experience accountability itself as:
 
@@ -280,7 +282,7 @@ So systems drift toward:
 * procedural buffering,
 * and defensive containment.
 
-Not always cynically.
+Not always cynically.  
 Often psychologically.
 
 ---
@@ -366,7 +368,7 @@ aequanimitas, equanimitas, stiff upper lip, british governance culture, emotiona
 
 ## 🏮 Footer
 
-*⚖️ Aequanimitas and the Stiff Upper Lip* is a living node of the **Polaris Protocol**.
+*⚖️ Aequanimitas and the Stiff Upper Lip* is a living node of the **Polaris Protocol**.  
 It documents how emotional restraint became embedded within British governance and institutional culture as a stabilising technology, and how this affects accountability, conflict processing, and institutional adaptation.
 
 > 📡 Cross-references:
@@ -378,7 +380,7 @@ It documents how emotional restraint became embedded within British governance a
 >  
 > 🏮 Return To:  
 >  
-> - [📚 Narrative Management](./README.md)  
+> - [🃏 Political Dramaturgy](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
