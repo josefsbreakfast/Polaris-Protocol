@@ -1,5 +1,5 @@
 # 🌱 The Broker Class and British Stagnation  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-13  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-15  
 *Risk aversion, intermediary legitimacy systems, and the paradox of British institutional continuity.*  
 
 ---
@@ -21,10 +21,10 @@ Yet simultaneously they are often:
 - and translate change into legitimacy.
 
 This node explores how Britain’s “broker class” can act both as:
-**⚖️ A stabilising force**
+**A stabilising force**
 
 and:
-**🌳 A bottleneck on adaptation.**
+**A bottleneck on adaptation.**
 
 ---
 
@@ -55,7 +55,7 @@ These groups frequently occupy:
 - and institutional management roles.
 
 They are:
-> 🛰️ Intermediary governance tissue.
+> Intermediary governance tissue.
 
 ---
 
@@ -86,7 +86,7 @@ The ideal figure was often:
 - and capable of preserving order under pressure.
 
 This creates systems optimised for:
-> ⚖️ Stability before transformation.
+> Stability before transformation.
 
 ---
 
@@ -114,7 +114,7 @@ This is particularly true because:
 - and continuity
 
 often function as:
-> 🏛️ Social infrastructure.
+> Social infrastructure.
 
 Not merely personal preference.
 
@@ -145,10 +145,10 @@ Particularly compared with:
 - or highly speculative economies.
 
 Britain often prefers:
-> 🌿 Managed adaptation
+> Managed adaptation
 
 over:
-> 🧨 Aggressive transformation.
+> Aggressive transformation.
 
 ---
 
@@ -163,7 +163,7 @@ This class is frequently highly sensitive to:
 Not necessarily because participants are uniquely malicious.
 
 But because they often perceive themselves as:
-> 🛰️ Custodians of continuity.
+> Custodians of continuity.
 
 This can create:
 - gatekeeping,
@@ -199,7 +199,7 @@ This means they simultaneously:
 - and facilitate mobility.
 
 They are:
-> ⚖️ The gatekeepers and the gate-openers.
+> The gatekeepers and the gate-openers.
 
 This is one reason Britain often changes:
 - slowly for long periods,
@@ -288,7 +288,7 @@ But these same systems also:
 - and preserve governance continuity.
 
 The paradox is that:
-> 🌿 the same class capable of slowing adaptation is often the class most capable of implementing it.
+> the same class capable of slowing adaptation is often the class most capable of implementing it.
 
 Once convinced change is:
 - legitimate,
@@ -300,7 +300,7 @@ these systems can become surprisingly effective engines of institutional transfo
 The problem is not merely lack of power.
 
 It is:
-> ⚖️ a psychological orientation toward preserving stability before risking regeneration.
+> a psychological orientation toward preserving stability before risking regeneration.
 
 ---
 
@@ -323,9 +323,9 @@ It maps how Britain’s intermediary establishment systems simultaneously preser
 > 
 > - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular metaphor for intermediary governance systems*  
 > - [🛰️ The Vulnerability of the Gatekeepers](./🛰️_the_vulnerability_of_the_gatekeepers.md) — *elite-network fragility and continuity anxiety*  
-> - [⚖️ Equanimitas and the Stiff Upper Lip](./⚖️_equanimitas_and_the_stiff_upper_lip.md) — *emotional restraint and institutional composure*  
+> - [⚖️ Aequanimitas and the Stiff Upper Lip](./⚖️_aequanimitas_and_the_stiff_upper_lip.md) — *emotional restraint and institutional composure*  
 > - [☔️ Restorative Justice in a Shame Culture](./☔️_restorative_justice_in_a_shame_culture.md) — *survivable accountability inside continuity systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-15_
