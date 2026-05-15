@@ -53,7 +53,7 @@ This node therefore studies:
 
 ---
 
-## 👑 I. Hereditary Legitimacy Depends Upon Women  
+## 👑 Hereditary Legitimacy Depends Upon Women  
 
 Dynastic systems cannot reproduce themselves without:
 - women,
@@ -76,7 +76,7 @@ This creates a contradiction:
 
 ---
 
-## ⚖️ II. Sovereignty Remains Symbolically Masculine  
+## ⚖️ Sovereignty Remains Symbolically Masculine  
 
 Despite this dependency,
 many hereditary systems historically coded sovereignty as:
@@ -106,7 +106,7 @@ The problem was:
 
 ---
 
-## 🌹 III. The Female Heir Exposes Hidden Contradictions  
+## 🌹 The Female Heir Exposes Hidden Contradictions  
 
 The female heir often reveals contradictions already latent within the system.
 
@@ -128,7 +128,7 @@ The female heir acts as:
 
 ---
 
-## 💍 IV. Marriage Becomes Governance Crisis  
+## 💍 Marriage Becomes Governance Crisis  
 
 The female heir creates instability because:
 > marriage risks redistributing sovereignty symbolically.
@@ -155,7 +155,7 @@ The woman’s body becomes:
 
 ---
 
-## 🕯️ V. The Female Heir Often Becomes Hyper-Symbolic  
+## 🕯️ The Female Heir Often Becomes Hyper-Symbolic  
 
 Because the contradiction cannot be fully resolved,
 female heirs often become subjected to:
@@ -182,7 +182,7 @@ The female heir must often appear:
 
 ---
 
-## 👑 VI. Some Female Sovereigns Solve The Contradiction By Becoming Exceptional  
+## 👑 Some Female Sovereigns Solve The Contradiction By Becoming Exceptional  
 
 Historically,
 certain female rulers stabilised legitimacy by becoming framed as:
@@ -211,7 +211,7 @@ Instead it:
 
 ---
 
-## ⚔️ VII. Female Heirs Frequently Trigger Legitimacy Anxiety  
+## ⚔️ Female Heirs Frequently Trigger Legitimacy Anxiety  
 
 Periods involving female succession often produce:
 - factionalism,
@@ -230,7 +230,7 @@ The female heir merely exposes:
 
 ---
 
-## 🎭 VIII. The Female Heir Becomes Political Theatre  
+## 🎭 The Female Heir Becomes Political Theatre  
 
 Because succession anxiety is emotionally intense,
 female heirs frequently become:
@@ -254,7 +254,7 @@ The female heir therefore becomes:
 
 ---
 
-## 🪞 IX. Modern Monarchies Still Carry Residual Anxiety  
+## 🪞 Modern Monarchies Still Carry Residual Anxiety  
 
 Even modern constitutional monarchies retain traces of this structure.
 
@@ -278,7 +278,7 @@ This means the female heir still functions partly as:
 
 ---
 
-## 🧠 X. The Female Heir Reveals The Fragility Of Patriarchal Legitimacy  
+## 🧠 The Female Heir Reveals The Fragility Of Patriarchal Legitimacy  
 
 The female heir ultimately reveals something profound:
 
