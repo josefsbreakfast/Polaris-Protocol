@@ -4,7 +4,7 @@
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines the character of **Fluellen** from **Henry V** as an enduring British political archetype.
 
@@ -45,7 +45,7 @@ This node examines:
 
 ---
 
-# 🐝 I. Fluellen Is Not The Butt Of The Joke  
+## 🐝 Fluellen Is Not The Butt Of The Joke  
 
 Modern readings sometimes flatten Fluellen into:
 - comic relief,
@@ -71,7 +71,7 @@ The comedy emerges partly because:
 
 ---
 
-## ⚖️ II. Procedural Legitimacy As Moral Legitimacy  
+## ⚖️ Procedural Legitimacy As Moral Legitimacy  
 
 Fluellen repeatedly insists upon:
 - order,
@@ -98,7 +98,7 @@ This creates a specifically British archetype:
 
 ---
 
-## 🌍 III. Regional Identity And Respect  
+## 🌍 Regional Identity And Respect  
 
 Fluellen’s Welshness matters.
 
@@ -134,7 +134,7 @@ That distinction matters.
 
 ---
 
-## 🎭 IV. The British Eccentric Competence Archetype  
+## 🎭 The British Eccentric Competence Archetype  
 
 Fluellen belongs to a long British archetypal lineage:
 - the odd specialist,
@@ -165,7 +165,7 @@ This creates a specifically British dynamic:
 
 ---
 
-## ☕️ V. Why The Character Still Feels Familiar  
+## ☕️ Why The Character Still Feels Familiar  
 
 Fluellen remains recognisable because Britain still culturally understands:
 - procedural people,
@@ -187,7 +187,7 @@ The underlying social structures never disappeared entirely.
 
 ---
 
-## 🏛️ VI. Comedy Does Not Cancel Legitimacy  
+## 🏛️ Comedy Does Not Cancel Legitimacy  
 
 A major feature of British political culture is the tendency to:
 - mock authority,
@@ -218,7 +218,7 @@ British political humour often instead performs:
 
 ---
 
-## ⚔️ VII. Fluellen And The Survival Of Institutions  
+## ⚔️ Fluellen And The Survival Of Institutions  
 
 Fluellen ultimately represents something larger than comic military procedure.
 
@@ -240,7 +240,7 @@ Fluellen embodies:
 
 ---
 
-## 🧠 VIII. Fluellen Was Right  
+## 🧠 Fluellen Was Right  
 
 The phrase:
 > “Fluellen was right”
