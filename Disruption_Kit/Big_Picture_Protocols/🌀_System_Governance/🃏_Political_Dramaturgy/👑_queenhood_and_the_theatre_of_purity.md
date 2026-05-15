@@ -1,10 +1,10 @@
 # 👑 Queenhood and the Theatre of Purity  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-15  
 *How patriarchal monarchies repeatedly transform queens into symbolic purity performances in order to stabilise legitimacy, continuity, and emotional trust in the state.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines the relationship between:
 - queenship,
@@ -66,7 +66,7 @@ This node therefore studies:
 
 ---
 
-# 👑 I. Queenship Requires Emotional Legitimacy  
+## 👑 I. Queenship Requires Emotional Legitimacy  
 
 Kingship often legitimises itself through:
 - conquest,
@@ -95,7 +95,7 @@ but:
 
 ---
 
-# 🌹 II. Purity Becomes Political Technology  
+## 🌹 II. Purity Becomes Political Technology  
 
 Purity in queenship is rarely about:
 - literal sexual behaviour alone.
@@ -123,7 +123,7 @@ But the underlying function remains:
 
 ---
 
-# 💍 III. Contradiction Is Built Into The Role  
+## 💍 III. Contradiction Is Built Into The Role  
 
 Queens are frequently expected to embody mutually incompatible traits simultaneously.
 
@@ -148,24 +148,24 @@ No real woman can permanently stabilise all these demands coherently.
 
 ---
 
-# 🕯️ IV. Different Queens Solve The Theatre Differently  
+## 🕯️ IV. Different Queens Solve The Theatre Differently  
 
 Different sovereign women stabilise legitimacy through:
 - different symbolic performances.
 
-[Elizabeth I](chatgpt://generic-entity?number=0)
+**Elizabeth I**  
 used:
 - sacred virginity,
 - sovereign singularity,
 - and mystical nationhood.
 
-[Mary I](chatgpt://generic-entity?number=1)
+**Mary I**  
 attempted:
 - dynastic Catholic legitimacy,
 - marriage,
 - and maternal continuity.
 
-[Elizabeth II](chatgpt://generic-entity?number=2)
+**Elizabeth II**
 embodied:
 - composure,
 - continuity,
@@ -179,7 +179,7 @@ But the theatre remains:
 
 ---
 
-# ⚖️ V. Purity Is Often Less About Women Than About The State  
+## ⚖️ V. Purity Is Often Less About Women Than About The State  
 
 Public fixation upon:
 - queens’ sexuality,
@@ -204,7 +204,7 @@ This is why reactions become:
 
 ---
 
-# 🎭 VI. The Theatre Works Because The Queen Is Embodied  
+## 🎭 VI. The Theatre Works Because The Queen Is Embodied  
 
 Monarchy remains:
 - bodily,
@@ -234,7 +234,7 @@ The queen becomes:
 
 ---
 
-# 🪞 VII. There Is No Stable Standard Of Purity  
+## 🪞 VII. There Is No Stable Standard Of Purity  
 
 The standards imposed upon queens repeatedly contradict themselves.
 
@@ -264,7 +264,7 @@ She can only:
 
 ---
 
-# 🌍 VIII. Modern Media Intensifies Purity Theatre  
+## 🌍 VIII. Modern Media Intensifies Purity Theatre  
 
 Modern media ecosystems accelerate:
 - scrutiny,
@@ -287,7 +287,7 @@ The queen or princess becomes:
 
 ---
 
-# 🧠 IX. The Theatre Protects The System More Than The Woman  
+## 🧠 IX. The Theatre Protects The System More Than The Woman  
 
 The purity theatre surrounding queenship often appears focused on:
 - protecting women,
@@ -311,7 +311,7 @@ The theatre therefore protects:
 
 ---
 
-# 👑 X. Queenhood Reveals The Emotional Architecture Of Legitimacy  
+## 👑 X. Queenhood Reveals The Emotional Architecture Of Legitimacy  
 
 The recurring obsession with queenship reveals something profound about monarchy:
 
@@ -343,7 +343,7 @@ queenship, monarchy, purity, legitimacy, femininity, symbolic governance, emotio
 
 ## 🏮 Footer  
 
-*Queenhood and the Theatre of Purity* is a living node of the **Polaris Protocol**.  
+*👑 Queenhood and the Theatre of Purity* is a living node of the **Polaris Protocol**.  
 It examines how patriarchal monarchies repeatedly transform queens into symbolic purity performances in order to stabilise legitimacy, continuity, emotional trust, and sovereign identity within the state.  
 
 > 📡 Cross-references:
@@ -354,4 +354,4 @@ It examines how patriarchal monarchies repeatedly transform queens into symbolic
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-15_
