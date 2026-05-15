@@ -372,7 +372,7 @@ It frames British governance and institutional behaviour through organismal meta
 > - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular metaphor for intermediary governance systems*  
 > - [🌱 The Broker Class and British Stagnation](./🌱_the_broker_class_and_british_stagnation.md) — *risk aversion and continuity-oriented intermediary classes*  
 > - [🧠 Reputational Lock-In and British Institutions](./🧠_reputational_lock_in_and_british_institutions.md) — *defensive containment and continuity panic*  
-> - [⚖️ Equanimitas and the Stiff Upper Lip](./⚖️_equanimitas_and_the_stiff_upper_lip.md) — *emotional restraint as governance infrastructure*  
+> - [⚖️ Aequanimitas and the Stiff Upper Lip](./⚖️_aequanimitas_and_the_stiff_upper_lip.md) — *emotional restraint as governance infrastructure*  
 >  
 > 🏮 Return To:  
 >  
