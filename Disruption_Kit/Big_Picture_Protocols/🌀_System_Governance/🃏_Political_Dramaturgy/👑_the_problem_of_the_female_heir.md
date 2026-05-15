@@ -307,7 +307,7 @@ female heir, monarchy, succession, patriarchy, queenship, hereditary legitimacy,
 
 ## 🏮 Footer  
 
-*👑 The Problem of the Female Heir* is a living node of the **Polaris Protocol**.  
+*👑 The "Problem" of the Female Heir* is a living node of the **Polaris Protocol**.  
 It examines how hereditary patriarchal systems repeatedly destabilise themselves whenever dynastic continuity depends upon women while political legitimacy remains culturally coded as masculine.  
 
 > 📡 Cross-references:
