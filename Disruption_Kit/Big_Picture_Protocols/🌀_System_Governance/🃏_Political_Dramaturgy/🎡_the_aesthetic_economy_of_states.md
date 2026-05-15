@@ -372,8 +372,8 @@ It maps how states accumulate and lose symbolic, emotional, and cultural gravity
 > 
 > - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md)  
 > - [🇷🇺 The End of Russia’s Camp Era](../../🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)  
-> - [🍿 Imperial Core Drama Cycle]  
-> - [☕️ The Eerie of Elections — 2026 Edition]  
+> - [🍿 Imperial Core Drama Cycle](../☕️_Post_Imperial_Weather/🍿_imperial_core_drama_cycle.md)  
+> - [☕️ The Eerie of Elections — 2026 Edition](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/☕️_the_eerie_of_elections_2026_edition.md)  
 >   
 > 🏮 Return To:
 >
