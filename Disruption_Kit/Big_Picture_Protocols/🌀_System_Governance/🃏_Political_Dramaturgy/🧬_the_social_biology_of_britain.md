@@ -22,14 +22,14 @@ nor:
 > racialised,
 
 but:
-## 🌿 Organismal.
+**Organismal.**
 
 This node proposes that British society often behaves less like:
 - a machine,
 - or a purely rational bureaucracy,
 
 and more like:
-## ⚖️ A living continuity organism.
+**A living continuity organism.**
 
 One concerned primarily with:
 - circulation,
@@ -40,7 +40,7 @@ One concerned primarily with:
 
 ---
 
-# 🌳 Britain as a Continuity Organism
+## 🌳 Britain as a Continuity Organism
 
 Historically Britain evolved through:
 - monarchy,
@@ -58,7 +58,7 @@ This produced:
 - and unusually sophisticated administrative infrastructure.
 
 The result is a society highly optimised for:
-## 🛰️ Maintaining continuity under pressure.
+>  Maintaining continuity under pressure.
 
 Rather than:
 - rapid rupture,
@@ -67,13 +67,13 @@ Rather than:
 
 ---
 
-# 🌿 Governance as Vascular Tissue
+## 🌿 Governance as Vascular Tissue
 
 Many intermediary British institutions function less like:
 > command centres
 
 and more like:
-## vascular systems.
+**vascular systems.**
 
 Particularly:
 - civil service,
@@ -98,11 +98,11 @@ This resembles:
 Not sovereign power itself.
 
 But:
-## ⚖️ The infrastructure that keeps the organism alive.
+> The infrastructure that keeps the organism alive.
 
 ---
 
-# 🧠 Institutional Metabolism
+## 🧠 Institutional Metabolism
 
 Every society must:
 - absorb stress,
@@ -129,11 +129,11 @@ But it also produces:
 - and delayed adaptation.
 
 The organism becomes:
-## 🌳 Metabolically conservative.
+> Metabolically conservative.
 
 ---
 
-# 🕯️ Pressure Regulation and Emotional Containment
+## 🕯️ Pressure Regulation and Emotional Containment
 
 British institutional culture frequently prioritises:
 - composure,
@@ -142,7 +142,7 @@ British institutional culture frequently prioritises:
 - and emotional restraint.
 
 Historically this functioned as:
-## ⚖️ Pressure management technology.
+> Pressure management technology.
 
 The system evolved to minimise:
 - panic,
@@ -157,11 +157,11 @@ This is one reason British institutions often:
 - and redistribute conflict sideways.
 
 The organism attempts:
-## continuity before rupture.
+> continuity before rupture.
 
 ---
 
-# 🌱 Reputational Immune Systems
+## 🌱 Reputational Immune Systems
 
 Prestige systems within Britain frequently behave like:
 ## immune systems.
@@ -188,14 +188,14 @@ But overactive immune systems can also:
 - and preserve dysfunction.
 
 The society may begin protecting:
-## legitimacy itself
+> legitimacy itself
 
 rather than:
-## actual institutional health.
+> actual institutional health.
 
 ---
 
-# ⚡️ Innovation vs Stability
+## ⚡️ Innovation vs Stability
 
 Britain often struggles with:
 - rapid innovation,
@@ -216,10 +216,10 @@ This creates:
 - and suspicion of destabilising transformation.
 
 The system frequently prefers:
-## 🌿 Managed adaptation
+> Managed adaptation
 
 over:
-## 🧨 Violent acceleration.
+> Violent acceleration.
 
 This can preserve:
 - continuity,
@@ -233,7 +233,7 @@ But it can also produce:
 
 ---
 
-# 🛰️ The Broker Tissue
+## 🛰️ The Broker Tissue
 
 Britain’s intermediary establishment classes function as:
 ## connective tissue.
@@ -262,7 +262,7 @@ therefore disproportionately shapes:
 
 ---
 
-# 🧨 Stress Accumulation and Rupture
+## 🧨 Stress Accumulation and Rupture
 
 Systems optimised for:
 - pressure absorption,
@@ -284,11 +284,11 @@ followed by:
 - or explosive public reckoning.
 
 The organism delays rupture until:
-## accumulated pressure exceeds containment capacity.
+> accumulated pressure exceeds containment capacity.
 
 ---
 
-# ⚖️ Britain’s Transitional Biology
+## ⚖️ Britain’s Transitional Biology
 
 Britain today is neither:
 - fully aristocratic,
@@ -323,14 +323,14 @@ all at once.
 
 ---
 
-# ✨ Final Observation
+## ✨ Final Observation
 
 The social biology metaphor matters because it reframes institutions not as:
 - abstract machines,
 - or perfectly rational systems,
 
 but as:
-## 🌿 Living adaptive structures shaped by pressure, memory, signalling, and survival.
+> Living adaptive structures shaped by pressure, memory, signalling, and survival.
 
 Britain’s institutional organism evolved extraordinary capacity for:
 - continuity,
@@ -348,7 +348,7 @@ can eventually struggle with:
 The problem is not that Britain developed governance tissue.
 
 The problem emerges when:
-## ⚖️ The organism begins mistaking continuity for health.
+> The organism begins mistaking continuity for health.
 
 ---
 
@@ -364,7 +364,7 @@ social biology, british governance, institutional metabolism, xylem and phloem g
 
 ## 🏮 Footer  
 
-*The Social Biology of Britain* is a living node of the **Polaris Protocol**.  
+*🧬 The Social Biology of Britain* is a living node of the **Polaris Protocol**.  
 It frames British governance and institutional behaviour through organismal metaphors of circulation, signalling, pressure regulation, and continuity maintenance in order to map how legitimacy systems behave under stress and adaptation pressure.
 
 > 📡 Cross-references:
