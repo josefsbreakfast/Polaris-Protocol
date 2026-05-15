@@ -346,7 +346,15 @@ It examines how female sovereigns become trapped within permanently contradictor
 > 
 > - [👑 The Female Sovereign as Patriarchal Apex](./👑_the_female_sovereign_as_patriarchal_apex.md) — *sovereign femininity and patriarchal legitimacy*  
 > - [🌹 The Body of the Queen and the Body of the State](./🌹_the_body_of_the_queen_and_the_body_of_the_state.md) — *embodiment, sexuality, and dynastic symbolism*  
-> - [🪶 The Queen as National Emotional Container](./🪶_the_queen_as_national_emotional_container.md) — *continuity, grief, and symbolic reassurance*  
+> - [🪶 The Queen as National Emotional Container](./🪶_the_queen_as_national_emotional_container.md) — *continuity, grief, and symbolic reassurance*
+>  
+> 🏮 Return To:  
+>
+> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
