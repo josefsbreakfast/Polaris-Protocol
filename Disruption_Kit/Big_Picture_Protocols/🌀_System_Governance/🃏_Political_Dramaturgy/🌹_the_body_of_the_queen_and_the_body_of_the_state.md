@@ -1,10 +1,10 @@
 # 🌹 The Body of the Queen and the Body of the State  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-15  
 *How hereditary monarchy compresses legitimacy, sexuality, continuity, and national symbolism into the sovereign female body.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines the relationship between:
 - queenship,
@@ -46,7 +46,7 @@ This node therefore studies:
 
 ---
 
-# 👑 I. The Sovereign Body Is Never Private  
+## 👑 I. The Sovereign Body Is Never Private  
 
 In hereditary monarchy, legitimacy passes through:
 - bloodline,
@@ -74,7 +74,7 @@ This creates unusual forms of scrutiny and projection.
 
 ---
 
-# 🌹 II. Queenship and Dynastic Anxiety  
+## 🌹 II. Queenship and Dynastic Anxiety  
 
 Patriarchal monarchy depends structurally upon women while simultaneously fearing the instability female sovereignty can introduce.
 
@@ -98,7 +98,7 @@ The queen’s body becomes:
 
 ---
 
-# ⚖️ III. Marriage as Constitutional Crisis  
+## ⚖️ III. Marriage as Constitutional Crisis  
 
 Marriage under monarchy is rarely only romantic.
 
@@ -117,9 +117,7 @@ A queen’s husband may create uncertainty around:
 - foreign influence,
 - or masculine legitimacy.
 
-This was visible in:
-[Mary I](chatgpt://generic-entity?number=0) and her marriage to
-[Philip II of Spain](chatgpt://generic-entity?number=1).
+This was visible in: **Mary I** and her marriage to **Philip II of Spain**.
 
 The political system struggled to determine:
 - where sovereignty truly resided,
@@ -132,9 +130,9 @@ It was constitutional instability.
 
 ---
 
-# 🕰️ IV. Elizabeth I and Refusal  
+## 🕰️ IV. Elizabeth I and Refusal  
 
-[Elizabeth I](chatgpt://generic-entity?number=2) resolved this instability through strategic refusal.
+**Elizabeth I** resolved this instability through strategic refusal.
 
 By refusing marriage, Elizabeth prevented:
 - male dynastic incorporation,
@@ -158,9 +156,9 @@ In effect:
 
 ---
 
-# 🩸 V. Mary Queen of Scots and Symbolic Fragmentation  
+## 🩸 V. Mary Queen of Scots and Symbolic Fragmentation  
 
-[Mary, Queen of Scots](chatgpt://generic-entity?number=3) demonstrates the opposite dynamic.
+**Mary, Queen of Scots** demonstrates the opposite dynamic.
 
 Her body became a site of:
 - dynastic conflict,
@@ -185,7 +183,7 @@ This contributed to her transformation into:
 
 ---
 
-# 🪞 VI. Contradictory Femininity  
+## 🪞 VI. Contradictory Femininity  
 
 Female sovereigns are often trapped within contradictory symbolic expectations.
 
@@ -203,7 +201,7 @@ This is because the sovereign woman becomes:
 
 ---
 
-# 🪶 VII. The Public Body and Emotional Projection  
+## 🪶 VII. The Public Body and Emotional Projection  
 
 Queens frequently become emotional containers for:
 - national continuity,
@@ -230,15 +228,15 @@ It reflects the extent to which monarchy continues to attach:
 
 ---
 
-# 🌍 VIII. Imperial Femininity  
+## 🌍 VIII. Imperial Femininity  
 
 Certain queens become symbolically inseparable from imperial identity itself.
 
 Examples include:
-- [Elizabeth I](chatgpt://generic-entity?number=4),
-- [Catherine the Great](chatgpt://generic-entity?number=5),
+- **Elizabeth I**,
+- **Catherine the Great**,
 - and later
-[Elizabeth II](chatgpt://generic-entity?number=6).
+**Elizabeth II**.
 
 These figures often come to embody:
 - continuity,
@@ -254,7 +252,7 @@ Their bodies become:
 
 ---
 
-# 🧠 IX. The Argument Is Rarely About the Woman Alone  
+## 🧠 IX. The Argument Is Rarely About the Woman Alone  
 
 Public arguments surrounding queenship often function as displaced arguments about:
 - the state,
@@ -288,7 +286,7 @@ queenship, monarchy, bodily legitimacy, sovereign femininity, dynastic anxiety, 
 
 ## 🏮 Footer  
 
-*The Body of the Queen and the Body of the State* is a living node of the **Polaris Protocol**.  
+*🌹 The Body of the Queen and the Body of the State* is a living node of the **Polaris Protocol**.  
 It examines how hereditary monarchy transforms the sovereign female body into constitutional territory, compressing legitimacy, sexuality, continuity, and national symbolism into a single embodied figure.  
 
 > 📡 Cross-references:
@@ -299,4 +297,4 @@ It examines how hereditary monarchy transforms the sovereign female body into co
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-15_
