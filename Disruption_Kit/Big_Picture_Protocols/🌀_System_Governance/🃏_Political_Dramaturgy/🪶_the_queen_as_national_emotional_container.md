@@ -48,7 +48,7 @@ This node therefore studies:
 
 ---
 
-## 👑 I. Monarchy as Emotional Infrastructure  
+## 👑 Monarchy as Emotional Infrastructure  
 
 Modern monarchies frequently survive not because of direct executive power, but because they continue to perform:
 - continuity,
@@ -74,7 +74,7 @@ The result is a form of:
 
 ---
 
-## 🪶 II. The Queen as Symbolic Mother  
+## 🪶 The Queen as Symbolic Mother  
 
 Queens are frequently interpreted through:
 - maternal symbolism,
@@ -99,7 +99,7 @@ The monarch becomes:
 
 ---
 
-## 🕯️ III. Elizabeth II and Ritual Permanence  
+## 🕯️ Elizabeth II and Ritual Permanence  
 
 **Elizabeth II** became one of the clearest modern examples of queenship functioning as emotional infrastructure.
 
@@ -133,7 +133,7 @@ It reflected anxiety surrounding:
 
 ---
 
-## 🌍 IV. Queenship After Empire  
+## 🌍 Queenship After Empire  
 
 Post-imperial states often develop intensified emotional attachment to continuity symbols.
 
@@ -154,7 +154,7 @@ This helps explain why certain female sovereigns become:
 
 ---
 
-## 🌹 V. Emotional Projection and Femininity  
+## 🌹 Emotional Projection and Femininity  
 
 The emotional role attached to queenship is deeply gendered.
 
@@ -180,7 +180,7 @@ These expectations often exceed those placed upon male sovereigns.
 
 ---
 
-## 🪞 VI. Public Grief and Symbolic Attachment  
+## 🪞 Public Grief and Symbolic Attachment  
 
 Public mourning surrounding queenship often appears unusually intimate.
 
@@ -204,7 +204,7 @@ People may therefore grieve:
 
 ---
 
-## ⚖️ VII. The Danger of Emotional Compression  
+## ⚖️ The Danger of Emotional Compression  
 
 When excessive continuity symbolism becomes concentrated into a single figure, succession can become destabilising.
 
@@ -227,7 +227,7 @@ It is:
 
 ---
 
-## 🧠 VIII. The Queen as Projection Surface  
+## 🧠 The Queen as Projection Surface  
 
 Public attachment to queenship frequently reveals broader desires for:
 - continuity,
@@ -252,7 +252,7 @@ This means discussions surrounding queenship often become displaced discussions 
 
 ---
 
-## 🎭 IX. Why Female Sovereigns Become So Symbolically Dense  
+## 🎭 Why Female Sovereigns Become So Symbolically Dense  
 
 Female sovereigns often become more emotionally charged than male rulers because patriarchal systems already attach symbolic meaning to:
 - femininity,
@@ -284,14 +284,22 @@ queenship, monarchy, emotional infrastructure, national identity, symbolic mothe
 
 ## 🏮 Footer  
 
-*The Queen as National Emotional Container* is a living node of the **Polaris Protocol**.  
+*🪶 The Queen as National Emotional Container* is a living node of the **Polaris Protocol**.  
 It examines how queenship frequently functions as emotional infrastructure within monarchy, transforming female sovereigns into symbolic containers for continuity, reassurance, grief, nostalgia, and national identity.  
 
 > 📡 Cross-references:
 > 
 > - [👑 The Female Sovereign as Patriarchal Apex](./👑_the_female_sovereign_as_patriarchal_apex.md) — *sovereign femininity and concentrated legitimacy*  
 > - [🌹 The Body of the Queen and the Body of the State](./🌹_the_body_of_the_queen_and_the_body_of_the_state.md) — *embodiment, continuity, and bodily sovereignty*  
-> - [🪞 There Is No Correct Way to Be a Queen](./🪞_there_is_no_correct_way_to_be_a_queen.md) — *contradictory projection and sovereign femininity*  
+> - [🪞 There Is No Correct Way to Be a Queen](./🪞_there_is_no_correct_way_to_be_a_queen.md) — *contradictory projection and sovereign femininity*
+>  
+> 🏮 Return To:  
+>
+> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
