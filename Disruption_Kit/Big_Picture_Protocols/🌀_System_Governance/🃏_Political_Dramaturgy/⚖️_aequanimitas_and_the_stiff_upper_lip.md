@@ -1,5 +1,5 @@
 # ⚖️ Aequanimitas and the Stiff Upper Lip  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-13  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-15  
 *How emotional restraint became institutional virtue inside British governance culture.*  
 
 ---
@@ -24,7 +24,7 @@ But this tendency is not merely aesthetic.
 
 It functioned historically as:
 
-## ⚖️ Governance infrastructure.
+**Governance infrastructure.**
 
 The appearance of equanimity — or *equanimitas* — became culturally associated with:
 
@@ -36,7 +36,7 @@ The appearance of equanimity — or *equanimitas* — became culturally associat
 
 ---
 
-# 🏛️ Why Britain Rewarded Emotional Restraint
+## 🏛️ Why Britain Rewarded Emotional Restraint
 
 Britain developed large-scale systems requiring:
 
@@ -74,7 +74,7 @@ but:
 
 ---
 
-# 🌳 The Public School and Institutional Pipeline
+## 🌳 The Public School and Institutional Pipeline
 
 British elite educational systems historically reinforced this model.
 
@@ -103,11 +103,11 @@ This did not necessarily produce emotionally unintelligent people.
 
 But it frequently produced people highly trained in:
 
-## 🛰️ Emotional containment.
+**Emotional containment.**
 
 ---
 
-# 🧠 The Appearance of Equanimity
+## 🧠 The Appearance of Equanimity
 
 A key distinction emerges here:
 
@@ -140,7 +140,7 @@ Not necessarily the integration.
 
 ---
 
-# ⚡️ High Performance and Unhealthy Coping
+## ⚡️ High Performance and Unhealthy Coping
 
 This helps explain recurring overlaps between British elite institutional culture and:
 
@@ -174,11 +174,11 @@ may be rewarded more strongly than:
 
 The result can be:
 
-## ⚖️ Functional instability.
+**Functional instability.**
 
 ---
 
-# 🕯️ Shame, Reputation, and Defensive Behaviour
+## 🕯️ Shame, Reputation, and Defensive Behaviour
 
 In highly reputation-conscious environments, shame becomes extremely dysregulating.
 
@@ -210,11 +210,11 @@ become highly predictable responses.
 
 The system attempts to preserve:
 
-## continuity before rupture.
+**continuity before rupture.**
 
 ---
 
-# 🌿 Indirectness as Pressure Management
+## 🌿 Indirectness as Pressure Management
 
 British English and British institutional culture are often highly indirect.
 
@@ -252,11 +252,11 @@ Then the cultural instinct toward:
 
 can become:
 
-## 🌳 Harm displacement instead of harm resolution.
+**Harm displacement instead of harm resolution.**
 
 ---
 
-# 🛰️ Why Accountability Becomes Difficult
+## 🛰️ Why Accountability Becomes Difficult
 
 This is one reason British institutions often struggle with:
 
@@ -285,7 +285,7 @@ Often psychologically.
 
 ---
 
-# ⚖️ Equanimity vs Regeneration
+## ⚖️ Equanimity vs Regeneration
 
 The strengths of this culture are real.
 
@@ -307,11 +307,11 @@ But overextended, it also produces:
 
 The problem emerges when:
 
-## preserving composure becomes more important than preserving health.
+**preserving composure becomes more important than preserving health.**
 
 ---
 
-# ✨ Final Observation
+## ✨ Final Observation
 
 The stiff upper lip is often treated as:
 
@@ -321,7 +321,7 @@ The stiff upper lip is often treated as:
 
 But historically it functioned as:
 
-## 🏛️ A governance technology.
+**A governance technology.**
 
 A method for:
 
@@ -344,11 +344,11 @@ can become profoundly uncomfortable with:
 
 The result is a society highly skilled at:
 
-## maintaining pressure.
+**maintaining pressure.**
 
 But not always equally skilled at:
 
-## safely releasing it.
+**safely releasing it.**
 
 ---
 
@@ -386,4 +386,4 @@ It documents how emotional restraint became embedded within British governance a
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-15_
