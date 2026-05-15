@@ -46,7 +46,7 @@ This node therefore studies:
 
 ---
 
-## 👑 I. The Sovereign Body Is Never Private  
+## 👑 The Sovereign Body Is Never Private  
 
 In hereditary monarchy, legitimacy passes through:
 - bloodline,
@@ -74,7 +74,7 @@ This creates unusual forms of scrutiny and projection.
 
 ---
 
-## 🌹 II. Queenship and Dynastic Anxiety  
+## 🌹 Queenship and Dynastic Anxiety  
 
 Patriarchal monarchy depends structurally upon women while simultaneously fearing the instability female sovereignty can introduce.
 
@@ -98,7 +98,7 @@ The queen’s body becomes:
 
 ---
 
-## ⚖️ III. Marriage as Constitutional Crisis  
+## ⚖️ Marriage as Constitutional Crisis  
 
 Marriage under monarchy is rarely only romantic.
 
@@ -130,7 +130,7 @@ It was constitutional instability.
 
 ---
 
-## 🕰️ IV. Elizabeth I and Refusal  
+## 🕰️ Elizabeth I and Refusal  
 
 **Elizabeth I** resolved this instability through strategic refusal.
 
@@ -156,7 +156,7 @@ In effect:
 
 ---
 
-## 🩸 V. Mary Queen of Scots and Symbolic Fragmentation  
+## 🩸 Mary Queen of Scots and Symbolic Fragmentation  
 
 **Mary, Queen of Scots** demonstrates the opposite dynamic.
 
@@ -183,7 +183,7 @@ This contributed to her transformation into:
 
 ---
 
-## 🪞 VI. Contradictory Femininity  
+## 🪞 Contradictory Femininity  
 
 Female sovereigns are often trapped within contradictory symbolic expectations.
 
@@ -201,7 +201,7 @@ This is because the sovereign woman becomes:
 
 ---
 
-## 🪶 VII. The Public Body and Emotional Projection  
+## 🪶 The Public Body and Emotional Projection  
 
 Queens frequently become emotional containers for:
 - national continuity,
@@ -228,7 +228,7 @@ It reflects the extent to which monarchy continues to attach:
 
 ---
 
-## 🌍 VIII. Imperial Femininity  
+## 🌍 Imperial Femininity  
 
 Certain queens become symbolically inseparable from imperial identity itself.
 
@@ -252,7 +252,7 @@ Their bodies become:
 
 ---
 
-## 🧠 IX. The Argument Is Rarely About the Woman Alone  
+## 🧠 The Argument Is Rarely About the Woman Alone  
 
 Public arguments surrounding queenship often function as displaced arguments about:
 - the state,
