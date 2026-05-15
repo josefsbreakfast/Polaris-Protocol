@@ -50,7 +50,7 @@ This node therefore studies:
 
 ---
 
-## 👑 I. Both Women Inherited Structurally Unstable Situations  
+## 👑 Both Women Inherited Structurally Unstable Situations  
 
 Neither Elizabeth nor Catherine inherited:
 - politically calm,
@@ -79,7 +79,7 @@ Both women therefore governed states already:
 
 ---
 
-## ⚖️ II. Female Sovereignty Forced Patriarchy To Reorganise Itself  
+## ⚖️ Female Sovereignty Forced Patriarchy To Reorganise Itself  
 
 Patriarchal systems traditionally organise legitimacy through:
 - male lineage,
@@ -101,7 +101,7 @@ Elizabeth and Catherine both succeeded partly because:
 
 ---
 
-## 💍 III. The Men Around Them Could Not Fully Absorb Sovereignty  
+## 💍 The Men Around Them Could Not Fully Absorb Sovereignty  
 
 A recurring tension surrounding both rulers involved:
 - marriage,
@@ -129,7 +129,7 @@ In both cases:
 
 ---
 
-## 🌹 IV. Femininity Became Political Technology  
+## 🌹 Femininity Became Political Technology  
 
 Both rulers weaponised:
 - femininity,
@@ -164,7 +164,7 @@ into:
 
 ---
 
-## 🕯️ V. Their Bodies Became Symbolic Territory  
+## 🕯️ Their Bodies Became Symbolic Territory  
 
 Because both women ruled as sovereigns,
 their:
@@ -193,7 +193,7 @@ The sovereign female body therefore became:
 
 ---
 
-## 🏛️ VI. Both Women Expanded Imperial Identity  
+## 🏛️ Both Women Expanded Imperial Identity  
 
 Elizabeth and Catherine both presided over periods where:
 - imperial imagination,
@@ -220,7 +220,7 @@ Russia increasingly imagined itself through:
 
 ---
 
-## 🎭 VII. Europe Learned To Fear The Female Sovereign  
+## 🎭 Europe Learned To Fear The Female Sovereign  
 
 The existence of both rulers simultaneously transformed European political imagination.
 
@@ -240,7 +240,7 @@ Instead:
 
 ---
 
-## 🪞 VIII. They Became Archetypes Rather Than Individuals  
+## 🪞 They Became Archetypes Rather Than Individuals  
 
 Over time,
 both Elizabeth and Catherine became:
@@ -268,7 +268,7 @@ The sovereign woman becomes:
 
 ---
 
-## 🌍 IX. The Comparison Reveals Shared Imperial Logic  
+## 🌍 The Comparison Reveals Shared Imperial Logic  
 
 England and Russia remained:
 - different states,
@@ -292,7 +292,7 @@ rather than:
 
 ---
 
-## 🧠 X. Female Sovereigns Reveal The Emotional Structure Of Empire  
+## 🧠 Female Sovereigns Reveal The Emotional Structure Of Empire  
 
 Elizabeth I and Catherine the Great matter because they expose:
 > sovereignty is never merely administrative.
@@ -332,7 +332,7 @@ It examines how Elizabeth I and Catherine the Great transformed monarchy by conc
 > 
 > - [👑 The Female Sovereign as Patriarchal Apex](./👑_the_female_sovereign_as_patriarchal_apex.md) — *female monarchy and concentrated patriarchal legitimacy*  
 > - [🪞 There Is No Correct Way to Be a Queen](./🪞_there_is_no_correct_way_to_be_a_queen.md) — *contradictory expectations surrounding sovereign femininity*  
-> - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](../🌍_National_Storytime/🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial psychology and mirrored legitimacy systems*
+> - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](../🌍_National_Storytime/🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial psychology and mirrored legitimacy systems*  
 >  
 > 🏮 Return To:  
 >
