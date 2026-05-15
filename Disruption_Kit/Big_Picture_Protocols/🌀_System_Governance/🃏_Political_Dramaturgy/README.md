@@ -1,5 +1,5 @@
 # 🃏 Political Dramaturgy  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-13  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-15  
 *How power becomes theatrical, symbolic, aesthetic, and emotionally staged.*
 
 ---
@@ -133,4 +133,4 @@ It maps the symbolic, theatrical, and aesthetic dimensions of governance systems
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-15_
