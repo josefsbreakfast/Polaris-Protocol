@@ -332,7 +332,15 @@ It examines how Elizabeth I and Catherine the Great transformed monarchy by conc
 > 
 > - [👑 The Female Sovereign as Patriarchal Apex](./👑_the_female_sovereign_as_patriarchal_apex.md) — *female monarchy and concentrated patriarchal legitimacy*  
 > - [🪞 There Is No Correct Way to Be a Queen](./🪞_there_is_no_correct_way_to_be_a_queen.md) — *contradictory expectations surrounding sovereign femininity*  
-> - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](../🌍_National_Storytime/🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial psychology and mirrored legitimacy systems*  
+> - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](../🌍_National_Storytime/🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial psychology and mirrored legitimacy systems*
+>  
+> 🏮 Return To:  
+>
+> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
