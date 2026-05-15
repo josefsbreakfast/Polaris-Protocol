@@ -4,7 +4,7 @@
 
 ---
 
-## 1. Overview  
+## 🛰️ Overview  
 This node outlines five archetypes frequently perceived as threats by UK centre-left political, economic, and legal establishments. Each figure breaches a different psychological defence the centre-left uses to maintain narrative control, bureaucratic authority, and paternalistic legitimacy.
 
 These archetypes are not radicals. Their danger lies in their autonomy, clarity, competence, and refusal to play the performance game.
