@@ -1,5 +1,5 @@
 # 🧪 Temperaments  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-12 | **Last updated:** 2026-05-15  
 
 *An examination of recurring online behavioural expressions, social signalling patterns, and collective interaction styles produced within algorithmically mediated environments.*  
 
@@ -35,6 +35,14 @@ Many temperaments become widespread not because they are psychologically healthy
 - emotionally activating,
 - engagement-efficient,
 - or structurally rewarded by platforms themselves.  
+
+Temperaments may emerge as:
+
+- collective escalation dynamics,
+- adaptive coping behaviours,
+- symbolic communication systems,
+- reputational management strategies,
+- or visibility-conditioned interaction styles.  
 
 The cluster therefore studies:
 
@@ -176,7 +184,15 @@ Examples include:
 - irony as reputational protection,
 - lurking as risk minimisation,
 - dogpiling as coalition signalling,
+- doomscrolling as uncertainty management,
 - or meme usage as compressed identity communication.  
+
+Some behaviours function primarily as:
+
+- self-protection,
+- uncertainty management,
+- emotional regulation,
+- or adaptation to high-visibility environments.  
 
 Understanding the function of a behaviour is often more useful than simply condemning it.  
 
@@ -259,4 +275,4 @@ It contributes to the archive by examining recurring online behavioural expressi
 
 *The culture of a platform is often the accumulated residue of repeated behaviour.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-15_
