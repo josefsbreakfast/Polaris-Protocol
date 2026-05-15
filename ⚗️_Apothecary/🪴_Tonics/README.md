@@ -1,5 +1,5 @@
 # 🪴 Tonics  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-12 | **Last updated:** 2026-05-15  
 
 *An examination of restorative practices, attentional recovery systems, embodied grounding, and the cultivation of resilience within digitally accelerated informational environments.*  
 
@@ -52,6 +52,13 @@ Tonics therefore focus on practices which restore:
 - privacy,
 - and sensory grounding.  
 
+Many restorative practices function partly by creating spaces temporarily protected from:
+
+- metrics,
+- visibility pressures,
+- audience evaluation,
+- and continuous performative self-presentation.  
+
 The underlying principle is:
 
 > nervous systems require conditions suitable for recovery, not merely the absence of stimulation.  
@@ -101,6 +108,13 @@ Many digital environments encourage prolonged disconnection from:
 
 Embodied practices therefore function as stabilising counterweights to informational dissociation.  
 
+They restore:
+
+- sensory continuity,
+- environmental rhythm,
+- spatial awareness,
+- and temporal grounding.  
+
 ---
 
 ### ☕ Slowness Restores Proportionality  
@@ -120,6 +134,13 @@ Slow practices create conditions under which:
 - and emotional proportionality  
 
 can recover.  
+
+Many restorative practices also rebuild tolerance for:
+
+- stillness,
+- slowness,
+- boredom,
+- and non-reactive attention.  
 
 ---
 
@@ -301,4 +322,4 @@ It contributes to the archive by examining restorative practices, attentional re
 
 *Recovery is not merely the absence of poison. It is the restoration of conditions in which life can stabilise again.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-15_
