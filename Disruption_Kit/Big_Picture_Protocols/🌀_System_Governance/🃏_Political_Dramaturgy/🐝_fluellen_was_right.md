@@ -279,8 +279,8 @@ It examines Fluellen as a recurring British archetype of procedural legitimacy: 
 > 📡 Cross-references:
 > 
 > - [🎭 Shakespeare as Political Operating System](./🎭_shakespeare_as_political_operating_system.md) — *archetypes, legitimacy, and British political theatre*  
-> - [☕️ The Henry V of Local Elections Day](./☕️_the_henry_v_of_local_elections_day.md) — *regional identity and political familiarity*  
-> - [🏛️ Shakespeare Already Told You Britain Was Regional](./🏛️_shakespeare_already_told_you_britain_was_regional.md) — *county identity and political pluralism*
+> - [☕️ The Henry V of Local Elections Day](../☕️_Post_Imperial_Weather/☕️_the_henry_v_of_local_elections_day.mdd) — *regional identity and political familiarity*  
+> - [🏛️ Shakespeare Already Told You Britain Was Regional](../🌍_National_Storytime/🏛️_shakespeare_already_told_you_britain_was_regional.md) — *county identity and political pluralism*  
 >  
 > 🏮 Return To:  
 >
