@@ -104,10 +104,11 @@ freud, jung, disraeli, gladstone, european intellectual history, outsider archet
 *🏛️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments* is a living node of the **Polaris Protocol**.  
 It examines how European political and intellectual culture repeatedly transformed differences in temperament, style, and symbolic presentation into narratives about civilisation, legitimacy, and belonging.
 
-> 📡 Cross-references:  
-> - [🜁 Shared Air — Intellectual Proximity and the Myth of Innocent Silence]  
-> - [🪞 Algorithmic Reframing — When Analysis Becomes Evasion]  
-> - [🎭 Witch Girl vs Sensible Man Archetypes]  
+> 📡 Cross-references:
+> 
+> - [🜁 Shared Air — Intellectual Proximity and the Myth of Innocent Silence](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🜁_shared_air.md)  
+> - [🪞 Algorithmic Reframing — When Analysis Becomes Evasion](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪞_algorithmic_reframing.md)  
+> - [🎭 Witch Girl vs Sensible Man Archetypes](../🃏_Political_Dramaturgy/🎭_witch_girl_vs_sensible_man_archetypes.md)  
 >   
 > 🏮 Return To:
 >
