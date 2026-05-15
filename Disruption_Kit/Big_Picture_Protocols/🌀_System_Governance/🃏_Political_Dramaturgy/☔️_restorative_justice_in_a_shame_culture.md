@@ -117,8 +117,7 @@ This means social legitimacy is often still linked — consciously or unconsciou
 - social composure,
 - and inherited reputation.
 
-The result is a society that often prioritises:
-## continuity before rupture.
+The result is a society that often prioritises **continuity before rupture**.
 
 This can produce:
 - procedural buffering,
@@ -203,7 +202,7 @@ At that point:
 - and fear of complicity
 
 can create:
-## reputational lock-in.
+**reputational lock-in**.
 
 Participants may begin defending:
 - not the original behaviour,
@@ -239,7 +238,7 @@ But they also require:
 - and social trust.
 
 If accountability feels like:
-## total annihilation
+**total annihilation**.  
 
 then systems become:
 - defensive,
@@ -325,7 +324,7 @@ often end up:
 - and making eventual conflict more explosive.
 
 A society capable of genuine restorative accountability must learn how to:
-## ⚖️ Separate truth from annihilation.
+**Separate truth from annihilation**.
 
 ---
 
