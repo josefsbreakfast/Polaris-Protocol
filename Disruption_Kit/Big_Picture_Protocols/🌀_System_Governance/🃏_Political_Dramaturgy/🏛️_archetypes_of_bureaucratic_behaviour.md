@@ -244,10 +244,10 @@ bureaucratic archetypes, governance psychology, institutional behaviour, procedu
 
 > 📡 Cross-References:
 > 
-> - [🧠 Institutional Weather Systems]()  
-> - [🔍 Institutional Freeze Patterns]()  
-> - [🔮 Post-Chaos Governance Archetypes]()  
-> - [🧿 Survivor Credibility Loops]()  
+> - [🧠 Institutional Weather Systems](../🧠_Apparatchik_Philosophy/🧠_institutional_weather_systems.md)  
+> - [🔍 Institutional Freeze Patterns](../💫_Containment_Logic/🔍_institutional_freeze_patterns.md)  
+> - [🔮 Post-Chaos Governance Archetypes](../../🦕_Elder_Influencers/🕸️_World_Webs/🔮_post_chaos_governance_archetypes.md)  
+> - *🧿 Survivor Credibility Loops* - *pending*  
 >   
 > 🏮 Return To:
 >
