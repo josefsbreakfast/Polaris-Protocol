@@ -106,13 +106,13 @@ centre-left power, political psychology, threat archetypes, narrative control, p
 
 ## 🏮 Footer  
 
-*Centre-Left Threat Archetypes* is a diagnostic node of the **Polaris Protocol**, mapping psychological threat responses within UK centre-left ecosystems. It outlines the structural reasons why certain autonomous actors destabilise managerial liberal power centres and the mechanisms by which these tensions manifest.
+*🧨 Centre-Left Threat Archetypes* is a diagnostic node of the **Polaris Protocol**, mapping psychological threat responses within UK centre-left ecosystems. It outlines the structural reasons why certain autonomous actors destabilise managerial liberal power centres and the mechanisms by which these tensions manifest.
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Containment Contract Trace] — dynamics of reputational suppression  
-> - [🧬 Cloneproof] — countermeasures against narrative misuse  
-> - [🛰️ Metadata Ghosts] — forensic registers of invisible pressures  
+> - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *dynamics of reputational suppression*  
+> - [🧬 Cloneproof](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md) — *countermeasures against narrative misuse*  
+> - [👾 Metadata Ghosts](../../../../👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/README.md) — *forensic registers of invisible pressures*  
 >  
 > 🏮 Return To:  
 >  
