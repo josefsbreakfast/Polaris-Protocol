@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-15 22:00:07 UTC_
+_Generated on 2026-05-15 22:01:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6875,6 +6875,8 @@ _Generated on 2026-05-15 22:00:07 UTC_
   - [**🧪_Temperaments/**](⚗️_Apothecary/🧪_Temperaments/)
     - [`README.md`](⚗️_Apothecary/🧪_Temperaments/README.md)
     - [`notes.txt`](⚗️_Apothecary/🧪_Temperaments/notes.txt)
+    - [`🐝_swarm_behaviours.md`](⚗️_Apothecary/🧪_Temperaments/🐝_swarm_behaviours.md)
+    - [`📣_dogpiling.md`](⚗️_Apothecary/🧪_Temperaments/📣_dogpiling.md)
     - [`🕸️_brigading.md`](⚗️_Apothecary/🧪_Temperaments/🕸️_brigading.md)
   - [**🪴_Tonics/**](⚗️_Apothecary/🪴_Tonics/)
     - [`README.md`](⚗️_Apothecary/🪴_Tonics/README.md)
