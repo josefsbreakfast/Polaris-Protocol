@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-15 22:03:55 UTC_
+_Generated on 2026-05-15 22:05:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6874,12 +6874,12 @@ _Generated on 2026-05-15 22:03:55 UTC_
     - [`README.md`](⚗️_Apothecary/💊_Remedies/README.md)
   - [**🧪_Temperaments/**](⚗️_Apothecary/🧪_Temperaments/)
     - [`README.md`](⚗️_Apothecary/🧪_Temperaments/README.md)
-    - [`notes.txt`](⚗️_Apothecary/🧪_Temperaments/notes.txt)
     - [`🎭_irony_posting.md`](⚗️_Apothecary/🧪_Temperaments/🎭_irony_posting.md)
     - [`🐝_swarm_behaviours.md`](⚗️_Apothecary/🧪_Temperaments/🐝_swarm_behaviours.md)
     - [`👻_doomscrolling.md`](⚗️_Apothecary/🧪_Temperaments/👻_doomscrolling.md)
     - [`📣_dogpiling.md`](⚗️_Apothecary/🧪_Temperaments/📣_dogpiling.md)
     - [`🕸️_brigading.md`](⚗️_Apothecary/🧪_Temperaments/🕸️_brigading.md)
+    - [`🧦_lurking.md`](⚗️_Apothecary/🧪_Temperaments/🧦_lurking.md)
   - [**🪴_Tonics/**](⚗️_Apothecary/🪴_Tonics/)
     - [`README.md`](⚗️_Apothecary/🪴_Tonics/README.md)
   - [**🫙_Distempers/**](⚗️_Apothecary/🫙_Distempers/)
