@@ -1,5 +1,5 @@
 # ☔️ Restorative Justice in a Shame Culture  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-13  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-15  
 *Accountability, lineage-conscious shame, and the difficulty of repair inside continuity-oriented societies.*  
 
 ---
@@ -11,8 +11,7 @@ Restorative and abolitionist justice models are often discussed as though they a
 - political positions,
 - or ethical frameworks.
 
-But their success or failure is also deeply shaped by:
-## ⚖️ Cultural psychology.
+But their success or failure is also deeply shaped by: **cultural psychology**.
 
 Particularly:
 - how societies process shame,
@@ -33,7 +32,7 @@ Especially within:
 
 ---
 
-# 🏛️ Accountability vs Annihilation
+## 🏛️ Accountability vs Annihilation
 
 Restorative justice requires people to tolerate:
 - acknowledgement of harm,
@@ -64,15 +63,14 @@ and more like:
 
 ---
 
-# 🧠 Why Shame Becomes Explosive
+## 🧠 Why Shame Becomes Explosive
 
 In continuity-oriented prestige cultures, shame is rarely experienced as:
 - purely individual,
 - temporary,
 - or containable.
 
-Instead it often becomes:
-## 🌳 Collective and hereditary.
+Instead it often becomes **collective and hereditary**.
 
 People may experience exposure as threatening:
 - children,
@@ -98,11 +96,11 @@ Instead systems may shift into:
 Not always because participants support harm.
 
 But because they experience:
-## ⚖️ The social consequences of acknowledgement as existential.
+**The social consequences of acknowledgement as existential.**
 
 ---
 
-# 🌿 British Continuity Culture
+## 🌿 British Continuity Culture
 
 Britain historically retained unusually strong:
 - class continuity,
@@ -135,7 +133,7 @@ The system attempts to preserve:
 
 ---
 
-# 🕯️ Why Punitive Systems Also Fail
+## 🕯️ Why Punitive Systems Also Fail
 
 At the same time, purely punitive systems often fail too.
 
@@ -152,10 +150,10 @@ At that point people frequently become:
 - or procedurally obstructive.
 
 The process shifts from:
-## repair
+**repair**
 
 to:
-## survival.
+**survival**.
 
 This is one reason adversarial legal systems can become:
 - emotionally exhausting,
@@ -166,7 +164,7 @@ Especially in tightly networked institutional environments.
 
 ---
 
-# ⚖️ The Restorative Dilemma
+## ⚖️ The Restorative Dilemma
 
 In theory, restorative systems may reduce defensiveness because they:
 - allow gradations between harm and social death,
@@ -184,12 +182,11 @@ Because restorative frameworks often require:
 - relinquishing status protection,
 - and direct moral recognition.
 
-For many participants, this can feel:
-## 🧠 More psychologically exposing than adversarial punishment.
+For many participants, this can feel *more psychologically exposing than adversarial punishment*.
 
 ---
 
-# 🛰️ The Problem of Reputational Lock-In
+## 🛰️ The Problem of Reputational Lock-In
 
 A further complication emerges once:
 - institutions,
@@ -225,7 +222,7 @@ The issue becomes:
 
 ---
 
-# 🌱 Survivable Accountability
+## 🌱 Survivable Accountability
 
 This creates a difficult societal challenge.
 
@@ -256,7 +253,7 @@ But if systems avoid accountability entirely, they produce:
 - and legitimacy collapse.
 
 The challenge becomes:
-## ⚖️ creating forms of accountability humans can psychologically survive.
+*creating forms of accountability humans can psychologically survive*.
 
 Without collapsing into:
 - denial,
@@ -265,7 +262,7 @@ Without collapsing into:
 
 ---
 
-# 🏛️ Transitional Societies and Institutional Drift
+## 🏛️ Transitional Societies and Institutional Drift
 
 Britain occupies an unusual historical position.
 
@@ -297,14 +294,14 @@ The society attempts simultaneously to:
 
 ---
 
-# ✨ Final Observation
+## ✨ Final Observation
 
 Restorative justice is not simply:
 - a legal model,
 - or an ideological preference.
 
 It is also:
-## 🌿 A cultural tolerance question.
+**A cultural tolerance question.**
 
 Can a society tolerate:
 - imperfection,
@@ -349,7 +346,7 @@ It examines the tension between accountability, shame, continuity, and instituti
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Aequanimitas and the Stiff Upper Lip](./🃏_Political_Dramaturgy/⚖️_aequanimitas_and_the_stiff_upper_lip.md) — *emotional restraint as governance logic*  
+> - [⚖️ Aequanimitas and the Stiff Upper Lip](./⚖️_aequanimitas_and_the_stiff_upper_lip.md) — *emotional restraint as governance logic*  
 > - [🧠 Reputational Lock-In and British Institutions](./🧠_reputational_lock_in_and_british_institutions.md) — *defensive containment and institutional shame dynamics*  
 > - [🛰️ The Vulnerability of the Gatekeepers](./🛰️_the_vulnerability_of_the_gatekeepers.md) — *elite-network fragility and continuity anxiety*  
 > - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular governance metaphor for British institutional continuity*  
@@ -364,4 +361,4 @@ It examines the tension between accountability, shame, continuity, and instituti
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-15_
