@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-15 22:05:22 UTC_
+_Generated on 2026-05-15 22:07:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6880,6 +6880,7 @@ _Generated on 2026-05-15 22:05:22 UTC_
     - [`📣_dogpiling.md`](⚗️_Apothecary/🧪_Temperaments/📣_dogpiling.md)
     - [`🕸️_brigading.md`](⚗️_Apothecary/🧪_Temperaments/🕸️_brigading.md)
     - [`🧦_lurking.md`](⚗️_Apothecary/🧪_Temperaments/🧦_lurking.md)
+    - [`🪞_meme_as_signal_object.md`](⚗️_Apothecary/🧪_Temperaments/🪞_meme_as_signal_object.md)
   - [**🪴_Tonics/**](⚗️_Apothecary/🪴_Tonics/)
     - [`README.md`](⚗️_Apothecary/🪴_Tonics/README.md)
   - [**🫙_Distempers/**](⚗️_Apothecary/🫙_Distempers/)
