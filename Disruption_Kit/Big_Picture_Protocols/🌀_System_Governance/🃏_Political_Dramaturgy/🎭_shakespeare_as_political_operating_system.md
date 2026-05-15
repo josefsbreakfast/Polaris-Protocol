@@ -1,10 +1,10 @@
 # 🎭 Shakespeare as Political Operating System  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-15  
 *How Shakespeare continues to function as a living framework for British political archetypes, legitimacy narratives, regional identity, and institutional performance.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines the idea that Shakespeare persists in British political culture not merely as:
 - literature,
@@ -43,7 +43,7 @@ They survive because:
 
 ---
 
-# 👑 I. Shakespeare Was Recording England  
+## 👑 I. Shakespeare Was Recording England  
 
 A common misconception treats Shakespeare primarily as:
 - poetic,
@@ -71,9 +71,9 @@ He was:
 
 ---
 
-# ☕️ II. Henry V and Regional Britain  
+## ☕️ II. Henry V and Regional Britain  
 
-[Henry V](chatgpt://generic-entity?number=0) remains especially powerful because it portrays Britain as:
+**Henry V** remains especially powerful because it portrays Britain as:
 - layered,
 - regional,
 - internally differentiated,
@@ -99,9 +99,9 @@ Modern Britain still often does.
 
 ---
 
-# 🐝 III. Fluellen and Procedural Legitimacy  
+## 🐝 III. Fluellen and Procedural Legitimacy  
 
-[Fluellen](chatgpt://generic-entity?number=1) demonstrates Shakespeare’s understanding of:
+**Fluellen** demonstrates Shakespeare’s understanding of:
 - regional specificity,
 - procedural dignity,
 - and comic legitimacy.
@@ -126,7 +126,7 @@ It reinforces it.
 
 ---
 
-# ⚔️ IV. The Histories as Political Memory System  
+## ⚔️ IV. The Histories as Political Memory System  
 
 The history plays operate partly as:
 - entertainment,
@@ -135,8 +135,8 @@ The history plays operate partly as:
 - and legitimacy education.
 
 Audiences watching:
-[Battle of Agincourt](chatgpt://generic-entity?number=2) already knew:
-- the [Wars of the Roses](chatgpt://generic-entity?number=3) were coming,
+**Battle of Agincourt** already knew:
+- the **Wars of the Roses** were coming,
 - dynastic instability would follow,
 - and national unity was fragile.
 
@@ -150,7 +150,7 @@ That tension still feels recognisable within British political culture.
 
 ---
 
-# 🏛️ V. Shakespearean Archetypes Persist  
+## 🏛️ V. Shakespearean Archetypes Persist  
 
 Modern British political discourse still repeatedly falls into Shakespearean forms.
 
@@ -182,7 +182,7 @@ Even contemporary journalism often frames politics through:
 
 ---
 
-# 📺 VI. Regional Flattening and Lost Granularity  
+## 📺 VI. Regional Flattening and Lost Granularity  
 
 Ironically, Shakespeare often portrayed regional Britain more specifically than modern national media does.
 
@@ -203,7 +203,7 @@ This suggests:
 
 ---
 
-# 🌍 VII. Shakespeare as National Translation Layer  
+## 🌍 VII. Shakespeare as National Translation Layer  
 
 Shakespeare functions partly as:
 > a translation layer between British people and British power.
@@ -228,7 +228,7 @@ The plays continue to feel:
 
 ---
 
-# 🕯️ VIII. Why Shakespeare Still Feels Contemporary  
+## 🕯️ VIII. Why Shakespeare Still Feels Contemporary  
 
 Shakespeare remains politically alive partly because many of the structural realities underpinning the plays still exist:
 - London centrality,
@@ -252,7 +252,7 @@ The emotional architecture remains recognisable.
 
 ---
 
-# 🧠 IX. Shakespeare as Operating System  
+## 🧠 IX. Shakespeare as Operating System  
 
 An operating system is not:
 - visible all the time,
@@ -290,7 +290,7 @@ shakespeare, henry v, british politics, legitimacy, regional identity, political
 
 ## 🏮 Footer  
 
-*Shakespeare as Political Operating System* is a living node of the **Polaris Protocol**.  
+*🎭 Shakespeare as Political Operating System* is a living node of the **Polaris Protocol**.  
 It examines how Shakespeare continues to function as a symbolic framework through which Britain interprets legitimacy, regional identity, sovereignty, political theatre, and institutional authority.  
 
 > 📡 Cross-references:
@@ -301,4 +301,4 @@ It examines how Shakespeare continues to function as a symbolic framework throug
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-15_
