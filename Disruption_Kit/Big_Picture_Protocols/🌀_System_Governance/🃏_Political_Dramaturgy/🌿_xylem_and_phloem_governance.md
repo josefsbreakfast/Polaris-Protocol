@@ -1,5 +1,5 @@
 # 🌿 Xylem and Phloem Governance  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-13  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-15  
 *Britain as a vascular governance organism: continuity, signalling, brokerage, and institutional flow.*  
 
 ---
@@ -16,7 +16,7 @@ Rather than imagining power as:
 
 it may be more accurate to understand parts of British society as functioning like:
 
-## 🌿 Vascular tissue
+**Vascular tissue**
 
 Specifically:
 
@@ -42,7 +42,7 @@ This metaphor is particularly useful for understanding:
 
 ---
 
-# 🌳 The Broker Layer
+## 🌳 The Broker Layer
 
 The relevant class here is not necessarily:
 
@@ -79,9 +79,9 @@ and more like:
 
 ---
 
-# 🌿 Why Xylem and Phloem?
+## 🌿 Why Xylem and Phloem?
 
-## Xylem
+**Xylem**
 
 Xylem is:
 
@@ -109,7 +109,7 @@ This is the:
 
 ---
 
-## Phloem
+**Phloem**
 
 Phloem transports:
 
@@ -137,7 +137,7 @@ This is:
 
 ---
 
-# 🏛️ Britain as a Governance Organism
+## 🏛️ Britain as a Governance Organism
 
 Britain historically evolved around:
 
@@ -151,7 +151,7 @@ Britain historically evolved around:
 
 This produced unusually sophisticated:
 
-## 🌐 Governance transport systems
+**Governance transport systems**
 
 The state became highly effective at:
 
@@ -169,7 +169,7 @@ But this also created:
 
 ---
 
-# ⚖️ Stability vs Adaptation
+## ⚖️ Stability vs Adaptation
 
 Plant vascular systems are extremely good at:
 
@@ -207,11 +207,11 @@ But also:
 
 ---
 
-# 🧠 Shame and Flow Regulation
+## 🧠 Shame and Flow Regulation
 
 One recurring pattern in British institutional culture is:
 
-## preserving flow over confronting rupture
+**preserving flow over confronting rupture**.
 
 This means:
 
@@ -243,7 +243,7 @@ The organism prioritises:
 
 ---
 
-# 🌱 The Paradox of the Broker Class
+## 🌱 The Paradox of the Broker Class
 
 This intermediary class is paradoxical because it simultaneously:
 
@@ -274,7 +274,7 @@ Once the vascular tissue accepts a new direction, the whole organism can reorien
 
 ---
 
-# 🛰️ The Vulnerability of the System
+## 🛰️ The Vulnerability of the System
 
 The danger emerges when:
 
@@ -290,7 +290,7 @@ become more important than:
 
 Then the system begins preserving:
 
-## flow over health
+**flow over health**.
 
 This creates:
 
@@ -303,7 +303,7 @@ The organism stabilises itself into rigidity.
 
 ---
 
-# ✨ Final Observation
+## ✨ Final Observation
 
 Britain is neither:
 
@@ -343,7 +343,7 @@ The problem is not that the organism has transport tissue.
 
 The problem emerges when the transport tissue begins mistaking:
 
-## preservation for vitality.  
+**preservation for vitality**.  
 
 ---
 
@@ -361,4 +361,4 @@ The problem emerges when the transport tissue begins mistaking:
 > - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
-2026-05-13
+2026-05-15
