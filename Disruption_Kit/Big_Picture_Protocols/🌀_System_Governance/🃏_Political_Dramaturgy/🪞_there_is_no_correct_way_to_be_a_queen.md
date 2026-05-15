@@ -47,7 +47,7 @@ She becomes:
 
 ---
 
-## 👑 I. Sovereign Femininity Is Structurally Overloaded  
+## 👑 Sovereign Femininity Is Structurally Overloaded  
 
 Hereditary monarchy already places unusual pressure upon:
 - embodiment,
@@ -73,7 +73,7 @@ Yet monarchy often demands that all of them coexist harmoniously within a single
 
 ---
 
-## 🌹 II. The Contradiction Is The Point  
+## 🌹 The Contradiction Is The Point  
 
 The contradiction itself frequently becomes part of sovereign mythology.
 
@@ -98,7 +98,7 @@ public culture repeatedly oscillates between:
 
 ---
 
-## 🪞 III. There Is No Stable Performance  
+## 🪞 There Is No Stable Performance  
 
 Female sovereigns may be criticised regardless of which symbolic role they emphasise.
 
@@ -142,7 +142,7 @@ The contradiction is structural.
 
 ---
 
-## ⚖️ IV. The Queen Is Rarely Judged As An Individual  
+## ⚖️ The Queen Is Rarely Judged As An Individual  
 
 Public reactions to queenship frequently reveal more about:
 - the population,
@@ -172,7 +172,7 @@ often become displaced arguments about:
 
 ---
 
-## 🩸 V. Mary, Elizabeth, and the Spectrum of Legibility  
+## 🩸 Mary, Elizabeth, and the Spectrum of Legibility  
 
 **Mary, Queen of Scots** and **Elizabeth I** demonstrate different approaches to sovereign femininity.
 
@@ -206,7 +206,7 @@ The other remained:
 
 ---
 
-## 🕯️ VI. Elizabeth II and Symbolic Stability  
+## 🕯️ Elizabeth II and Symbolic Stability  
 
 **Elizabeth II** became unusually powerful symbolically because she appeared to stabilise contradiction itself.
 
@@ -228,7 +228,7 @@ This symbolic role exceeded constitutional function.
 
 ---
 
-## 🌍 VII. Queenship and National Mythology  
+## 🌍 Queenship and National Mythology  
 
 Queens frequently become entwined with:
 - national identity,
@@ -248,7 +248,7 @@ This is one reason female sovereign figures often remain culturally enormous lon
 
 ---
 
-## 🧠 VIII. The Public Wants Resolution That Cannot Exist  
+## 🧠 The Public Wants Resolution That Cannot Exist  
 
 Modern public discourse often attempts to identify:
 > the “correct” form of femininity.
@@ -279,7 +279,7 @@ Only differing methods of negotiating contradiction.
 
 ---
 
-## 🎭 IX. Successful Queens Often Weaponise Contradiction
+## 🎭 Successful Queens Often Weaponise Contradiction
 
 Female sovereigns rarely succeed by escaping femininity entirely.
 
@@ -339,7 +339,7 @@ queenship, sovereign femininity, symbolic contradiction, monarchy and gender, em
 
 ## 🏮 Footer  
 
-*There Is No Correct Way to Be a Queen* is a living node of the **Polaris Protocol**.  
+*🪞 There Is No Correct Way to Be a Queen* is a living node of the **Polaris Protocol**.  
 It examines how female sovereigns become trapped within permanently contradictory symbolic expectations, and how queenship functions as a projection surface for wider anxieties surrounding legitimacy, continuity, morality, and national identity.  
 
 > 📡 Cross-references:
