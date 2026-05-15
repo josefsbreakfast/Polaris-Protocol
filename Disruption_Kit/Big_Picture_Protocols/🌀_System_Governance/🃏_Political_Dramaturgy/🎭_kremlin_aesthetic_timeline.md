@@ -372,10 +372,10 @@ It traces how symbolic environments, public atmosphere, and cultural aesthetics 
 
 > 📡 Cross-references:
 >
-> - [🎞️ Authoritarian Aesthetics Collapse Curve]  
+> - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md)  
 > - [🎡 The Aesthetic Economy of States](./🎡_the_aesthetic_economy_of_states.md)  
-> - [🎪 Not Even a Mole To Be Found]  
-> - [🍿 Imperial Core Drama Cycle]  
+> - [🎪 Not Even a Mole To Be Found](../📚_Narrative_Management/🎪_not_even_a_mole_to_be_found.md)  
+> - [🍿 Imperial Core Drama Cycle](../☕️_Post_Imperial_Weather/🍿_imperial_core_drama_cycle.md)  
 >   
 > 🏮 Return To:
 >
