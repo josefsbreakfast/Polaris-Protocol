@@ -236,7 +236,7 @@ But it can also produce:
 ## 🛰️ The Broker Tissue
 
 Britain’s intermediary establishment classes function as:
-## connective tissue.
+> connective tissue.
 
 They:
 - regulate access,
@@ -338,7 +338,7 @@ Britain’s institutional organism evolved extraordinary capacity for:
 - and administrative coherence.
 
 But systems built primarily to:
-## preserve circulation
+> preserve circulation
 
 can eventually struggle with:
 - regeneration,
