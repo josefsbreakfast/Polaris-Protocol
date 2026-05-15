@@ -1,5 +1,5 @@
 # 👑 Aurafarming A New Age  
-**First created:** 2026-05-01 | **Last updated:** 2026-05-13  
+**First created:** 2026-05-01 | **Last updated:** 2026-05-15  
 *How algorithmic culture, parasocial attention, and symbolic institutions interact to manufacture legitimacy, reassurance, and identity in the platform era.*  
 
 ---
@@ -720,4 +720,4 @@ The node additionally examines how participatory media environments are altering
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-15_
