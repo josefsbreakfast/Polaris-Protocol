@@ -314,7 +314,15 @@ It examines how hereditary patriarchal systems repeatedly destabilise themselves
 > 
 > - [⚖️ Mary I and the Constitutional Crisis of Female Rule](../⚖️_Legal_State_Governance/⚖️_mary_i_and_the_constitutional_crisis_of_female_rule.md) — *female sovereignty and constitutional instability*  
 > - [🕰️ The State Marries the Queen](../⚖️_Legal_State_Governance/🕰️_the_state_marries_the_queen.md) — *marriage, sovereignty, and queenship*  
-> - [👑 Elizabeth I and Catherine the Great](./👑_elizabeth_i_and_catherine_the_great.md) — *female sovereigns as patriarchal legitimacy concentration points*  
+> - [👑 Elizabeth I and Catherine the Great](./👑_elizabeth_i_and_catherine_the_great.md) — *female sovereigns as patriarchal legitimacy concentration points*
+>  
+> 🏮 Return To:  
+>
+> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
