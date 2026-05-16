@@ -1,0 +1,28 @@
+⚗️_Apothecary/
+└── 💊_Remedies/
+    ├── README.md
+    │
+    ├── 🔕_notification_reduction.md
+    ├── ⏳_friction_and_pause_systems.md
+    ├── 📵_feed_interruption_methods.md
+    ├── 🧹_algorithmic_hygiene.md
+    ├── 🪟_context_reintroduction.md
+    ├── 🧭_intentional_navigation.md
+    │
+    ├── 🛑_autoplay_disruption.md
+    ├── 🚪_exit_ramps_and_offramps.md
+    ├── 📦_device_environment_design.md
+    ├── ⌛_delay_before_publish.md
+    ├── 🪫_stimulation_load_management.md
+    ├── 🌲_offline_reentry_protocols.md
+    ├── 🕯️_slow_internet_practices.md
+    ├── 📚_source_rotation_and_diversification.md
+    ├── 🪞_emotional_state_checkpoints.md
+    ├── 🚶_embodied_interruptions.md
+    ├── 🧠_cognitive_decompression.md
+    ├── 🧭_goal_directed_browsing.md
+    ├── 🚫_infinite_scroll_countermeasures.md
+    ├── 📴_ambient_prompt_reduction.md
+    ├── ⏰_temporal_boundaries_for_platform_use.md
+    ├── 🪵_attention_anchoring_objects.md
+    └── 🧺_digital_recovery_rituals.md
