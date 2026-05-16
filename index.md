@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-16 07:25:54 UTC_
+_Generated on 2026-05-16 07:27:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6870,12 +6870,13 @@ _Generated on 2026-05-16 07:25:54 UTC_
     - [`README.md`](⚗️_Apothecary/🌡️_Constitutions/README.md)
   - [**🌫️_Vapours/**](⚗️_Apothecary/🌫️_Vapours/)
     - [`README.md`](⚗️_Apothecary/🌫️_Vapours/README.md)
-    - [`notes.txt`](⚗️_Apothecary/🌫️_Vapours/notes.txt)
     - [`🌩️_outrage_atmospheres.md`](⚗️_Apothecary/🌫️_Vapours/🌩️_outrage_atmospheres.md)
     - [`🎪_meme_fever.md`](⚗️_Apothecary/🌫️_Vapours/🎪_meme_fever.md)
     - [`👁️_conspiracy_haze.md`](⚗️_Apothecary/🌫️_Vapours/👁️_conspiracy_haze.md)
     - [`📉_collapse_moods.md`](⚗️_Apothecary/🌫️_Vapours/📉_collapse_moods.md)
+    - [`📺_spectacle_weather.md`](⚗️_Apothecary/🌫️_Vapours/📺_spectacle_weather.md)
     - [`🕸️_post_truth_fog.md`](⚗️_Apothecary/🌫️_Vapours/🕸️_post_truth_fog.md)
+    - [`🪞_identity_climate.md`](⚗️_Apothecary/🌫️_Vapours/🪞_identity_climate.md)
   - [**💊_Remedies/**](⚗️_Apothecary/💊_Remedies/)
     - [`README.md`](⚗️_Apothecary/💊_Remedies/README.md)
   - [**🧪_Temperaments/**](⚗️_Apothecary/🧪_Temperaments/)
