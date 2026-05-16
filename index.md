@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-15 22:31:26 UTC_
+_Generated on 2026-05-16 07:21:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6870,6 +6870,7 @@ _Generated on 2026-05-15 22:31:26 UTC_
     - [`README.md`](⚗️_Apothecary/🌡️_Constitutions/README.md)
   - [**🌫️_Vapours/**](⚗️_Apothecary/🌫️_Vapours/)
     - [`README.md`](⚗️_Apothecary/🌫️_Vapours/README.md)
+    - [`notes.txt`](⚗️_Apothecary/🌫️_Vapours/notes.txt)
   - [**💊_Remedies/**](⚗️_Apothecary/💊_Remedies/)
     - [`README.md`](⚗️_Apothecary/💊_Remedies/README.md)
   - [**🧪_Temperaments/**](⚗️_Apothecary/🧪_Temperaments/)
