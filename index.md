@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-16 09:43:16 UTC_
+_Generated on 2026-05-17 11:32:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1690,6 +1690,7 @@ _Generated on 2026-05-16 09:43:16 UTC_
         - [`🩸_surveillance_induced_intimacy_breach.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🩸_surveillance_induced_intimacy_breach.md)
         - [`🩺_diagnosis_as_agency.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🩺_diagnosis_as_agency.md)
         - [`🩻_reflex_against_care.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🩻_reflex_against_care.md)
+        - [`🩻_worker_health_is_a_bipartisan_win.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🩻_worker_health_is_a_bipartisan_win.md)
         - [`🫀_disabled_refusal_as_politics.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🫀_disabled_refusal_as_politics.md)
         - [`🫂_mixed_gender_queer_sociality_as_radicalisation_antidote.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🫂_mixed_gender_queer_sociality_as_radicalisation_antidote.md)
       - [**🐦‍🔥_Trauma_Psychology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/)
