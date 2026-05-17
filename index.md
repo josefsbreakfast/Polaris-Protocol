@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-17 21:12:44 UTC_
+_Generated on 2026-05-17 21:13:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6888,6 +6888,7 @@ _Generated on 2026-05-17 21:12:44 UTC_
     - [**🤍_Phlegmatic_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/)
       - [`README.md`](⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/README.md)
       - [`notes.txt`](⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/notes.txt)
+      - [`👻_passive_consumption.md`](⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/👻_passive_consumption.md)
     - [`README.md`](⚗️_Apothecary/🌡️_Constitutions/README.md)
   - [**🌫️_Vapours/**](⚗️_Apothecary/🌫️_Vapours/)
     - [`README.md`](⚗️_Apothecary/🌫️_Vapours/README.md)
