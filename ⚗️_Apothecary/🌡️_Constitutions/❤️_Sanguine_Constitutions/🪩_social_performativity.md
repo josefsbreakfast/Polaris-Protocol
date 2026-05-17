@@ -57,7 +57,7 @@ Online systems transform performance into something that is:
 
 This node therefore examines:
 
-> how ordinary human self-presentation changes under conditions of permanent visibility.
+> how ordinary human self-presentation changes under conditions of permanent visibility and increasingly visibility-dependent economies.
 
 ---
 
@@ -169,6 +169,82 @@ This can produce:
 The internet does not merely allow expression.
 
 It often creates conditions of continuous perceived observation.
+
+---
+
+## 💸 Visibility Economies & Survival Pressure  
+
+Online performativity increasingly exists within conditions of economic precarity.
+
+For many people, visibility is not merely social.
+
+It may also affect:
+
+- employment,
+- freelance work,
+- commissions,
+- crowdfunding,
+- mutual aid,
+- career access,
+- audience retention,
+- housing stability,
+- healthcare fundraising,
+- and community support.
+
+This becomes especially significant within:
+
+- zero-hours labour conditions,
+- precarious gig economies,
+- declining economic security,
+- rising living costs,
+- weakened social safety nets,
+- and unstable employment markets.
+
+Under these conditions, remaining:
+
+- visible,
+- emotionally legible,
+- current,
+- responsive,
+- algorithmically favoured,
+- and socially engaging
+
+can materially affect access to resources and survival.
+
+The resulting performativity is not always reducible to vanity or narcissism.
+
+It is often adaptive behaviour within visibility-dependent systems.
+
+---
+
+## 🌍 Humanitarian Visibility & Emotional Labour  
+
+Digital platforms increasingly mediate awareness of:
+
+- displacement,
+- war,
+- medical crisis,
+- humanitarian catastrophe,
+- mutual aid,
+- and emergency fundraising.
+
+People experiencing crisis may feel pressure to:
+
+- narrativise suffering,
+- remain emotionally understandable,
+- continuously update audiences,
+- sustain visibility,
+- and maintain public attention in order to access support.
+
+This can transform emotional expression into infrastructural labour.
+
+The self becomes partially responsible for remaining:
+
+- interpretable,
+- emotionally compelling,
+- and continuously visible enough to sustain assistance.
+
+This creates profound emotional strain.
 
 ---
 
@@ -338,6 +414,20 @@ People generally require spaces where they are not continuously:
 
 Without private zones, performativity can become totalising.
 
+Importantly, “just logging off” is not always a realistic solution.
+
+For many people, online visibility is now tied to:
+
+- economic survival,
+- community care,
+- professional access,
+- mutual aid,
+- and social infrastructure.
+
+The challenge is therefore not merely disengagement.
+
+It is developing forms of participation that do not require permanent emotional exposure.
+
 ---
 
 ## ✨ Key Principles  
@@ -359,6 +449,12 @@ Quantified visibility alters how self-presentation is experienced.
 People adapt not only to audiences, but to measurable audience response.
 
 This can shape identity gradually and often unconsciously.
+
+---
+
+### 💸 Visibility Increasingly Mediates Survival  
+
+Many forms of online performativity emerge not from vanity alone, but from economic precarity, visibility-dependent labour systems, and environments where attention increasingly mediates access to resources, safety, and support.
 
 ---
 
@@ -393,13 +489,15 @@ This node connects strongly with:
 - ☕️ Slow Internet Practices  
 - 🪴 Non-Performative Creativity  
 - 🌤️ Attention Rebalancing  
+- 💼 Precarious Visibility Economies  
+- 🧺 Mutual Aid Infrastructures  
 
 ---
 
 ## 🏮 Footer  
 
 *Social Performativity* is a living node of the Polaris Protocol.  
-It contributes to the Apothecary framework by examining self-presentation, visibility systems, audience awareness, and the transformation of social performance within networked digital environments.
+It contributes to the Apothecary framework by examining self-presentation, visibility systems, audience awareness, economic precarity, and the transformation of social performance within networked digital environments.
 
 > 📡 Cross-references:
 >
