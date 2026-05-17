@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-17 11:32:16 UTC_
+_Generated on 2026-05-17 19:55:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -537,6 +537,7 @@ _Generated on 2026-05-17 11:32:16 UTC_
         - [`🪑_committee_red.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/🪑_committee_red.md)
       - [**🛡️_Defending_Realms/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/README.md)
+        - [`☢️_polaris_trident_now_what.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/☢️_polaris_trident_now_what.md)
         - [`⚖️_defend_forward_and_sovereign_cyber_response_ladder.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
         - [`⚖️_ipco_audit_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚖️_ipco_audit_cycle.md)
         - [`⚖️_official_secrets_reform_and_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚖️_official_secrets_reform_and_accountability.md)
