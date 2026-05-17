@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-17 20:52:25 UTC_
+_Generated on 2026-05-17 20:55:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6869,6 +6869,7 @@ _Generated on 2026-05-17 20:52:25 UTC_
       - [`notes.txt`](⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/notes.txt)
       - [`🌊_trend_surfing.md`](⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/🌊_trend_surfing.md)
       - [`🎭_novelty_seeking.md`](⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/🎭_novelty_seeking.md)
+      - [`🪩_social_performativity.md`](⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/🪩_social_performativity.md)
     - [**💛_Choleric_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/)
       - [`README.md`](⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/README.md)
     - [**🖤_Melancholic_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/)
