@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-17 19:56:31 UTC_
+_Generated on 2026-05-17 20:34:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -103,6 +103,7 @@ _Generated on 2026-05-17 19:56:31 UTC_
         - [`🕯️_elizabeth_ii_and_the_last_sacred_queen.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🕯️_elizabeth_ii_and_the_last_sacred_queen.md)
         - [`🕯️_the_british_blind_spot.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🕯️_the_british_blind_spot.md)
         - [`🗺️_the_last_generation_that_remembered_the_empire.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🗺️_the_last_generation_that_remembered_the_empire.md)
+        - [`🩺_the_last_private_place_in_britain.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🩺_the_last_private_place_in_britain.md)
         - [`🪞_the_monarchy_as_emotional_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🪞_the_monarchy_as_emotional_infrastructure.md)
       - [**⚖️_Legal_State_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/README.md)
