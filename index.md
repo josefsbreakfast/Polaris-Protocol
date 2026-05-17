@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-17 20:34:23 UTC_
+_Generated on 2026-05-17 20:40:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -552,6 +552,7 @@ _Generated on 2026-05-17 20:34:23 UTC_
         - [`🛰️_predictive_logic_sans_predictive_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🛰️_predictive_logic_sans_predictive_infrastructure.md)
         - [`🦠_hybrid_threat_overlay.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🦠_hybrid_threat_overlay.md)
         - [`🧨_cyber_insecurity_and_friction_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🧨_cyber_insecurity_and_friction_systems.md)
+        - [`🧬_healthcare_resilience_critical_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🧬_healthcare_resilience_critical_infrastructure.md)
         - [`🪖_classification_suppression_and_misuse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🪖_classification_suppression_and_misuse.md)
         - [`🪖_how_politicians_legally_strangle_the_mod.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🪖_how_politicians_legally_strangle_the_mod.md)
         - [`🪖_respectfully_asking_the_mod_to_declassify.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🪖_respectfully_asking_the_mod_to_declassify.md)
