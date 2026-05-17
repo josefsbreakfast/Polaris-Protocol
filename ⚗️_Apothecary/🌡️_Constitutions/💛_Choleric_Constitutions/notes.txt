@@ -1,0 +1,32 @@
+💛_Choleric_Constitutions/
+│
+├── 🌟 Core Spine
+│   ├── ⚔️_conflict_orientation.md
+│   ├── 📣_dominance_posting.md
+│   ├── 🔥_outrage_reward_loops.md
+│   └── 🧨_factional_identity.md
+│
+├── 🌩️ Escalation Dynamics
+│   ├── 🚨_purity_escalation.md
+│   ├── 🐝_swarm_behaviour.md
+│   ├── 🕸️_brigading.md
+│   ├── 📣_harassment_cascades.md
+│   └── ⚡️_activation_dependency.md
+│
+├── 📺 Spectacle & Media Systems
+│   ├── 📺_conflict_as_spectacle.md
+│   ├── 🎭_performative_righteousness.md
+│   ├── 📰_tabloid_conflict_logic.md
+│   └── 🎪_engagement_gladiatorialism.md
+│
+├── 💸 Structural Conditions
+│   ├── 💸_precarity_and_activation.md
+│   ├── 🏚️_survival_stress_responsiveness.md
+│   ├── 📲_rage_engagement_economies.md
+│   └── 🧱_structural_choleric_conditions.md
+│
+└── 🪴 Recovery Ecology
+    ├── ☕️_de_escalation_practices.md
+    ├── 🌫️_ambiguity_tolerance.md
+    ├── 🪴_non_adversarial_sociality.md
+    └── 🧘_nervous_system_downregulation.md
