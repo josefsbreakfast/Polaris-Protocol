@@ -1,0 +1,54 @@
+🎭_novelty_seeking.md
+🌊_trend_surfing.md
+🪩_social_performativity.md
+🎪_meme_propagation.md
+
+---
+
+📲_perpetual_presence_pressure.md
+🎰_engagement_dependency.md
+🫥_identity_fragmentation.md
+⚡️_stimulation_saturation.md
+
+---
+
+✨_aesthetic_identity_construction.md
+🪞_irony_as_social_armour.md
+🎨_performative_authenticity.md
+🌈_fluid_identity_signalling.md
+
+---
+
+☕️_slow_internet_practices.md
+🌤️_attention_rebalancing.md
+🪴_non_performative_creativity.md
+📴_visibility_fastings.md
+
+---
+
+❤️_Sanguine_Constitutions/
+│
+├── 🌟 Core Spine
+│   ├── 🎭_novelty_seeking.md
+│   ├── 🌊_trend_surfing.md
+│   ├── 🪩_social_performativity.md
+│   └── 🎪_meme_propagation.md
+│
+├── ⚠️ Destabilisation Dynamics
+│   ├── 📲_perpetual_presence_pressure.md
+│   ├── 🎰_engagement_dependency.md
+│   ├── 🫥_identity_fragmentation.md
+│   └── ⚡️_stimulation_saturation.md
+│
+├── 🎨 Identity & Aesthetic Systems
+│   ├── 🪞_irony_as_social_armour.md
+│   ├── ✨_aesthetic_identity_construction.md
+│   ├── 🌈_fluid_identity_signalling.md
+│   └── 🎨_performative_authenticity.md
+│
+└── ☕️ Recovery Ecology
+    ├── ☕️_slow_internet_practices.md
+    ├── 🌤️_attention_rebalancing.md
+    ├── 🪴_non_performative_creativity.md
+    └── 📴_visibility_fastings.md
+
