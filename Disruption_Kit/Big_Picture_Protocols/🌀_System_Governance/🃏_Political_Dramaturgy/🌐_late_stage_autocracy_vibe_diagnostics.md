@@ -315,6 +315,11 @@ The node treats “vibes” not as mystical intuition, but as distributed social
 > 
 > - [🌀 UK as a Low-Cost Influence Environment](../📚_Narrative_Management/🌀_uk_low_cost_influence_environment.md) — *ambient behavioural pressure and emotional modulation systems*  
 > - [🇬🇧 Why the UK Likes to Laugh at the Ruling Class](../☕️_Post_Imperial_Weather/🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md) — *humour as democratic pressure release and institutional contact*  
+> - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md) — *charisma erosion and symbolic exhaustion*  
+> - [🎭 The Kremlin Aesthetic Timeline](./🎭_kremlin_aesthetic_timeline.md) — *post-Soviet aesthetic contraction and bunkerisation*  
+> - [🎡 The Aesthetic Economy of States](./🎡_the_aesthetic_economy_of_states.md) — *states competing through atmosphere, spectacle, and symbolic gravity*  
+> - [👑 Aurafarming A New Age](./👑_aurafarming_a_new_age.md) — *algorithmic legitimacy and parasocial symbolic authority*  
+> - [🥬 Prime Ministerial Lettuce Duration Forecasting](./🥬_lettuce_volatility_index_lvix.md) — *satirical instability diagnostics in British governance culture*  
 >   
 > 🏮 Return To:
 >
