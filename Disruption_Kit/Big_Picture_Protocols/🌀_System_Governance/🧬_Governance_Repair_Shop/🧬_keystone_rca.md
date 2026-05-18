@@ -146,7 +146,7 @@ It outlines the root executive-layer mechanism shaping UK state conflicts, inqui
 >  
 > 🏮 Return To:  
 >  
-> - [📚 Narrative Management](./README.md)  
+> - [🧬 Governance Repair Shop](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
