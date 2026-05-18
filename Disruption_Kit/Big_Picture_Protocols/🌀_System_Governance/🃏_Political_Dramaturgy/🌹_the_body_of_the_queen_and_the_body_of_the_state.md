@@ -1,5 +1,5 @@
 # 🌹 The Body of the Queen and the Body of the State  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-15  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
 *How hereditary monarchy compresses legitimacy, sexuality, continuity, and national symbolism into the sovereign female body.*  
 
 ---
@@ -306,4 +306,4 @@ It examines how hereditary monarchy transforms the sovereign female body into co
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-18_
