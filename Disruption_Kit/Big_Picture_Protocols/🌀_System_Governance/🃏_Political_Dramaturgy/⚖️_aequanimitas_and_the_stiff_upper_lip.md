@@ -377,6 +377,10 @@ It documents how emotional restraint became embedded within British governance a
 > - [🧠 Reputational Lock-In and British Institutions](./🧠_reputational_lock_in_and_british_institutions.md) — *defensive containment inside prestige systems*  
 > - [☔️ Restorative Justice in a Shame Culture](./☔️_restorative_justice_in_a_shame_culture.md) — *accountability under conditions of lineage-conscious shame*  
 > - [🛰️ The Vulnerability of the Gatekeepers](./🛰️_the_vulnerability_of_the_gatekeepers.md) — *elite-network fragility and institutional risk management*
+> - [🌱 The Broker Class and British Stagnation](./🌱_the_broker_class_and_british_stagnation.md) — *intermediary legitimacy and institutional drift*  
+> - [🧬 The Social Biology of Britain](./🧬_the_social_biology_of_britain.md) — *institutional metabolism and continuity tissue*  
+> - [🐝 Fluellen Was Right](./🐝_fluellen_was_right.md) — *procedural legitimacy and regional dignity archetypes*  
+> - [🎭 Shakespeare as Political Operating System](./🎭_shakespeare_as_political_operating_system.md) — *Shakespeare as institutional symbolic grammar*  
 >  
 > 🏮 Return To:  
 >  
