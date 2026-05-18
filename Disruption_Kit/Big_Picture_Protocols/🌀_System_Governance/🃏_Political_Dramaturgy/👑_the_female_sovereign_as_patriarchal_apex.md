@@ -303,7 +303,12 @@ It examines how female monarchs frequently became intensified embodiments of sov
 > 
 > - [🌹 The Body of the Queen and the Body of the State](./🌹_the_body_of_the_queen_and_the_body_of_the_state.md) — *sexuality, legitimacy, and sovereign embodiment*  
 > - [🪞 The Monarchy as Emotional Infrastructure](../☕️_Post_Imperial_Weather/🪞_the_monarchy_as_emotional_infrastructure.md) — *ritual continuity and symbolic stability*  
-> - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](../🌍_National_Storytime/🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial legitimacy and sovereign mythology*  
+> - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](../🌍_National_Storytime/🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial legitimacy and sovereign mythology*
+> - [👑 The "Problem" of the Female Heir](./👑_the_problem_of_the_female_heir.md) — *hereditary patriarchy and dynastic instability*  
+> - [🪞 There Is No Correct Way to Be a Queen](./🪞_there_is_no_correct_way_to_be_a_queen.md) — *contradictory symbolic expectations imposed upon female rulers*  
+> - [🪶 The Queen as National Emotional Container](./🪶_the_queen_as_national_emotional_container.md) — *sovereign femininity as emotional governance infrastructure*  
+> - [👑 Elizabeth I and Catherine the Great](./👑_elizabeth_i_and_catherine_the_great.md) — *comparative female sovereignty and patriarchal consolidation*
+> - [👑 Queenhood and the Theatre of Purity](./👑_queenhood_and_the_theatre_of_purity.md) — *purity performance as legitimacy stabilisation*  
 >  
 > 🏮 Return To:  
 >
