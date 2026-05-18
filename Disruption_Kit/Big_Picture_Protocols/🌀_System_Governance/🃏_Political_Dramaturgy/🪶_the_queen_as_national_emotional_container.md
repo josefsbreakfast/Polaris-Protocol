@@ -1,5 +1,5 @@
 # 🪶 The Queen as National Emotional Container  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-15  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
 *How queens frequently become repositories for continuity, grief, nostalgia, reassurance, and the emotional self-image of the nation.*  
 
 ---
@@ -303,4 +303,4 @@ It examines how queenship frequently functions as emotional infrastructure withi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-18_
