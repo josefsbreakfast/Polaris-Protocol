@@ -1,5 +1,5 @@
 # 🧨 Centre-Left Threat Archetypes  
-**First created:** 2025-11-29 | **Last updated:** 2026-05-15  
+**First created:** 2025-11-29 | **Last updated:** 2026-05-18  
 *Diagnostic matrix for understanding why specific personalities destabilise traditional centre-left power ecosystems.*  
 
 ---
@@ -124,4 +124,4 @@ centre-left power, political psychology, threat archetypes, narrative control, p
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-18_
