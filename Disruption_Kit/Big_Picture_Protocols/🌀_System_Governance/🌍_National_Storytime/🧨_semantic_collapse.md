@@ -344,7 +344,7 @@ It maps how shared language fractures across incompatible moral systems, and how
 >  
 > 🏮 Return To:  
 >
-> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌍 National Storytime](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
