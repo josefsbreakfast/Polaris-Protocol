@@ -1,5 +1,5 @@
 # 👑 The "Problem" of the Female Heir  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-15  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
 *How hereditary patriarchy repeatedly destabilises itself whenever dynastic continuity depends upon women while political legitimacy remains culturally coded as masculine.*  
 
 ---
@@ -326,4 +326,4 @@ It examines how hereditary patriarchal systems repeatedly destabilise themselves
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-18_
