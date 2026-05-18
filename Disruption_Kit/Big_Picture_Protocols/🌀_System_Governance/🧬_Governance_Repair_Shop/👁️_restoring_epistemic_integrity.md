@@ -252,13 +252,13 @@ It completes the collapse → reconstruction arc by identifying the moment an in
 
 > 📡 Cross-references:
 > 
-> - [📚 Memory, Market & Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md)  
-> - [🦎 Algorithmic Autotomy](./🦎_algorithmic_autotomy.md)  
-> - [🦠 Systemic Porosity](./🦠_systemic_porosity.md)  
-> - [🦠 AI UK Due Diligence & Autoimmunity Map](./🦠_ai_uk_due_diligence_and_autoimmunity_map.md)  
-> - [🧭 Reflexive Risk](./🧭_reflexive_risk.md)  
-> - [🧨 We Are Already Paying the Cost](./🧨_we_are_already_paying_the_cost.md)  
-> - [🏗️ Corrective Governance Architecture](../💫_Containment_Logic/🏗️_corrective_governance_architecture.md)  
+> - [📚 Memory, Market & Machinery of Data Exhaust](../👑_Ownership_Control/📚_memory_market_machinery_of_data_exhaust.md)  
+> - [🦎 Algorithmic Autotomy](../👑_Ownership_Control/🦎_algorithmic_autotomy.md)  
+> - [🦠 Systemic Porosity](../👑_Ownership_Control/🦠_systemic_porosity.md)  
+> - [🦠 AI UK Due Diligence & Autoimmunity Map](../👑_Ownership_Control/🦠_ai_uk_due_diligence_and_autoimmunity_map.md)  
+> - [🧭 Reflexive Risk](../👑_Ownership_Control/🧭_reflexive_risk.md)  
+> - [🧨 We Are Already Paying the Cost](../👑_Ownership_Control/🧨_we_are_already_paying_the_cost.md)  
+> - [🏗️ Corrective Governance Architecture](./🏗️_corrective_governance_architecture.md)  
 > - [📜 Duty to Correct: How Public Bodies Must Fix Wrong Data](./📜_duty_to_correct.md) — *correction rights as democratic infrastructure*  
 > - [🔮 Daylight Effects in Governance Systems](./🔮_daylight_in_governance.md) — *transparency as behavioural transformation pressure*  
 > - [🧬 Transparency as Antigenic Defence](./🧬_transparency_as_antigenic_defence.md) — *democratic openness as immune defence against authoritarian drift*  
