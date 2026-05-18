@@ -83,6 +83,73 @@ But collapse usually begins where maintenance quietly failed years earlier.
 
 ---
 
+## 🛸 Cluster Map  
+
+### ⚠️ Recognition, Failure & Institutional Realisation  
+The moment systems recognise that procedural legitimacy, accountability, or epistemic coherence has broken down.
+
+- [🩹 Triad — Tickbox, Containment Fatigue & Patch Repair](./🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md) — minimal compliance cycles and institutional exhaustion  
+- [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md) — recognising systemic failure and transitioning toward repair  
+- [🔁 Post-Realisation Phase](./🔁_post_realisation_phase.md) — the unstable gap between recognition and accountability  
+- [🧬 Keystone RCA](./🧬_keystone_rca.md) — root-cause analysis at executive and inquiry level  
+
+---
+
+### 👁️ Transparency, Epistemics & Correction Systems  
+Repairing institutional perception, truth-processing, and informational integrity.
+
+- [👁️ Restoring Epistemic Integrity](./👁️_restoring_epistemic_integrity.md) — rebuilding trustworthy institutional knowledge systems  
+- [📜 Duty to Correct: How Public Bodies Must Fix Wrong Data](./📜_duty_to_correct.md) — correction rights as democratic infrastructure  
+- [🔮 Daylight Effects in Governance Systems](./🔮_daylight_in_governance.md) — transparency as behavioural transformation pressure  
+- [🧬 Transparency as Antigenic Defence](./🧬_transparency_as_antigenic_defence.md) — democratic openness as immune defence against authoritarian drift  
+
+---
+
+### 🏗️ Structural Repair & Governance Rewiring  
+Rebuilding oversight, safeguards, accountability pathways, and institutional resilience after collapse.
+
+- [🏗️ Corrective Governance Architecture](./🏗️_corrective_governance_architecture.md) — rebuilding governance after systemic failure  
+- [🪡 Oversight Repair Kit — Re-stitching Accountability Chains](./🪡_oversight_repair_kit.md) — rewiring fragmented oversight structures  
+- [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) — elite accountability without institutional self-destruction  
+- [🌅 Rise of Institutional Integrity](./🌅_rise_of_institutional_integrity.md) — democratic trust recovery and coherence rebuilding  
+
+---
+
+### 🫀 Justice, Harm Reduction & Prevention Systems  
+Repair models focused on prevention, dignity, accountability, and survivable institutional response.
+
+- [🧬 Restorative and Transformative Justice — Where It Actually Works](./🧬_restorative_and_transformative_justice_where_it_actually_works.md) — evidence-based restorative application versus romanticisation  
+- [🧬 What a CSA System Optimised for Prevention Looks Like](./🧬_what_a_csa_system_optimised_for_prevention_looks_like.md) — prevention-first safeguarding infrastructure  
+- [🫀 AI Black Box Inquests](./🫀_ai_black_box_inquests.md) — mandate collapse and investigatory failure in AI-linked harms  
+
+---
+
+## 🧭 Suggested Reading Pathways  
+
+### For institutional collapse and repair sequencing:
+🩹 Triad — Tickbox, Containment Fatigue & Patch Repair  
+→ ⚖️ Institutional Realisation to Remediation  
+→ 🔁 Post-Realisation Phase  
+→ 🏗️ Corrective Governance Architecture  
+
+### For epistemic repair and transparency:
+📜 Duty to Correct  
+→ 👁️ Restoring Epistemic Integrity  
+→ 🔮 Daylight Effects in Governance Systems  
+→ 🧬 Transparency as Antigenic Defence  
+
+### For democratic accountability:
+🪡 Oversight Repair Kit  
+→ 🧬 How to Prosecute Power Without Collapse  
+→ 🌅 Rise of Institutional Integrity  
+
+### For justice and prevention systems:
+🧬 Restorative and Transformative Justice — Where It Actually Works  
+→ 🧬 What a CSA System Optimised for Prevention Looks Like  
+→ 🫀 AI Black Box Inquests  
+
+---
+
 ## 🦚 Core Themes  
 
 - **Repair over perfection.** Functional systems require ongoing maintenance.  
@@ -172,7 +239,7 @@ It examines how institutions survive stress, repair legitimacy, contain failure,
 > 
 > - [🌀 Systems & Governance](../README.md) — *systemic containment architectures & governance choreography*  
 > - [🕰️ Chronos Or Kairos](../🕰️_Chronos_Or_Kairos/README.md) — *administrative pacing, delay, and long-horizon governance*  
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *authority, stewardship, resilience, and legitimacy*  
+> - [🧄 Exousiología](../../../🧄_Exousiología/README.md) — *authority, stewardship, resilience, and legitimacy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
