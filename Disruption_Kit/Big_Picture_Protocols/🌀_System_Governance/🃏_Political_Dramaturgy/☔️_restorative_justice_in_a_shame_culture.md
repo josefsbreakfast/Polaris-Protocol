@@ -349,7 +349,9 @@ It examines the tension between accountability, shame, continuity, and instituti
 > - [⚖️ Aequanimitas and the Stiff Upper Lip](./⚖️_aequanimitas_and_the_stiff_upper_lip.md) — *emotional restraint as governance logic*  
 > - [🧠 Reputational Lock-In and British Institutions](./🧠_reputational_lock_in_and_british_institutions.md) — *defensive containment and institutional shame dynamics*  
 > - [🛰️ The Vulnerability of the Gatekeepers](./🛰️_the_vulnerability_of_the_gatekeepers.md) — *elite-network fragility and continuity anxiety*  
-> - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular governance metaphor for British institutional continuity*  
+> - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular governance metaphor for British institutional continuity*
+> - [✈️ Crash Logic — Catastrophe, State Grief, and Narrative Erasure](./✈️_crash_logic_state_grief_and_erasure.md) — *mourning ritual and institutional continuity after disaster*  
+
 >  
 > 🏮 Return To:  
 >
