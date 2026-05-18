@@ -182,9 +182,7 @@ focusing on the pressure structures that turn ordinary civic critique into sites
 
 > 📡 Cross-references:
 > 
-> - 🪐 *Forensic Schema — Why the Dual Loyalty Accusation ‘Pings’ Harder than Rape Disclosure*  
-> - 🪞 *Identity Capture & Projection Logic*  
-> - ⚖️ *Soft Law, Symbolic Loyalty, and the British State*
+> - [🇩🇪 Trauma Sovereignty as Foreign Policy](./🇩🇪_trauma_sovereignty_as_foreign_policy.md) — *trauma-coded legitimacy within German geopolitical identity*  
 >   
 > 🏮 Return To:
 >
