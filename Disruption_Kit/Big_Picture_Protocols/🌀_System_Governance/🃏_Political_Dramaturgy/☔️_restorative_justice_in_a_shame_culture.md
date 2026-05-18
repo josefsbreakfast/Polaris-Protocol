@@ -1,5 +1,5 @@
 # ☔️ Restorative Justice in a Shame Culture  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-15  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-18  
 *Accountability, lineage-conscious shame, and the difficulty of repair inside continuity-oriented societies.*  
 
 ---
@@ -361,4 +361,4 @@ It examines the tension between accountability, shame, continuity, and instituti
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-18_
