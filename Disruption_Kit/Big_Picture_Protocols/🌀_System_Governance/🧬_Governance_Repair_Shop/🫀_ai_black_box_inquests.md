@@ -285,7 +285,7 @@ It examines AI-linked harm through the lens of investigative ownership and manda
 >   
 > 🏮 Return To:
 >
-> - [👑 Ownership & Control](./README.md)  
+> - [🧬 Governance Repair Shop](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
