@@ -378,7 +378,7 @@ It maps how states accumulate and lose symbolic, emotional, and cultural gravity
 > - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md) — *charisma erosion and symbolic exhaustion*  
 > - [🎭 The Kremlin Aesthetic Timeline](./🎭_kremlin_aesthetic_timeline.md) — *post-Soviet aesthetic contraction and bunkerisation*  
 > - [👑 Aurafarming A New Age](./👑_aurafarming_a_new_age.md) — *algorithmic legitimacy and parasocial symbolic authority*  
-> - [🥬 Prime Ministerial Lettuce Duration Forecasting](./🥬_lettuce_volatility_index_lvix.md) — *satirical instability diagnostics in British governance culture*  
+> - [🥬 Prime Ministerial Lettuce Duration Forecasting Using The Lettuce Volitility Index (LVIX)](./🥬_lettuce_volatility_index_lvix.md) — *satirical instability diagnostics in British governance culture*  
 >   
 > 🏮 Return To:
 >
