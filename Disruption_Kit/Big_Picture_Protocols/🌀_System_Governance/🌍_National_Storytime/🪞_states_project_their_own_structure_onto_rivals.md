@@ -310,9 +310,9 @@ It examines how political systems repeatedly misinterpret rivals by unconsciousl
 
 > 📡 Cross-references:
 > 
-> - [🧠 Continuity Creates Blindness](./🧠_continuity_creates_blindness.md) — *familiarity blindness and institutional self-misrecognition*  
-> - [🪞 Britain Misunderstands Russia Because Britain Misunderstands Itself](./🪞_britain_misunderstands_russia_because_britain_misunderstands_itself.md) — *continuity myths and geopolitical interpretation failure*  
-> - [🪞 Asymmetrical Recognition as Achilles Heel](./🪞_asymmetrical_recognition_as_achilles_heel.md) — *uneven political self-awareness and strategic vulnerability*
+> - [🧠 Continuity Creates Blindness](../🧠_Apparatchik_Philosophy/🧠_continuity_creates_blindness.md) — *familiarity blindness and institutional self-misrecognition*  
+> - [🪞 Britain Misunderstands Russia Because Britain Misunderstands Itself](../🧠_Apparatchik_Philosophy/🪞_britain_misunderstands_russia_because_britain_misunderstands_itself.md) — *continuity myths and geopolitical interpretation failure*  
+> - [🪞 Asymmetrical Recognition as Achilles Heel](../🧠_Apparatchik_Philosophy/🪞_asymmetrical_recognition_as_achilles_heel.md) — *uneven political self-awareness and strategic vulnerability*
 >  
 > 🏮 Return To:  
 >
