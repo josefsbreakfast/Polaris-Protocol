@@ -1,5 +1,5 @@
 # 🌅 Rise of Institutional Integrity  
-**First created:** 2025-11-02 | **Last updated:** 2026-05-12  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-18  
 *How democratic systems may relearn coherence after collapse — from translation to trust.*  
 
 ---
@@ -126,4 +126,4 @@ It maps how language, law, and trust are re-stitched after institutional degrada
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-05-18_
