@@ -294,7 +294,7 @@ It functions as a diagnostic tool for recognising legitimacy stress and symbolic
 > - [🎭 The Kremlin Aesthetic Timeline](./🎭_kremlin_aesthetic_timeline.md) — *post-Soviet aesthetic contraction and bunkerisation*  
 > - [🎡 The Aesthetic Economy of States](./🎡_the_aesthetic_economy_of_states.md) — *states competing through atmosphere, spectacle, and symbolic gravity*  
 > - [👑 Aurafarming A New Age](./👑_aurafarming_a_new_age.md) — *algorithmic legitimacy and parasocial symbolic authority*  
-> - [🥬 Prime Ministerial Lettuce Duration Forecasting](./🥬_lettuce_volatility_index_lvix.md) — *satirical instability diagnostics in British governance culture*  
+> - [🥬 Prime Ministerial Lettuce Duration Forecasting Using The Lettuce Volitility Index (LVIX)](./🥬_lettuce_volatility_index_lvix.md) — *satirical instability diagnostics in British governance culture*  
 >   
 > 🏮 Return To:
 >
