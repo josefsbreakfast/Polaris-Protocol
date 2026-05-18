@@ -373,6 +373,10 @@ It frames British governance and institutional behaviour through organismal meta
 > - [🌱 The Broker Class and British Stagnation](./🌱_the_broker_class_and_british_stagnation.md) — *risk aversion and continuity-oriented intermediary classes*  
 > - [🧠 Reputational Lock-In and British Institutions](./🧠_reputational_lock_in_and_british_institutions.md) — *defensive containment and continuity panic*  
 > - [⚖️ Aequanimitas and the Stiff Upper Lip](./⚖️_aequanimitas_and_the_stiff_upper_lip.md) — *emotional restraint as governance infrastructure*  
+> - [🌱 The Broker Class and British Stagnation](./🌱_the_broker_class_and_british_stagnation.md) — *intermediary legitimacy and institutional drift*  
+> - [🛰️ The Vulnerability of the Gatekeepers](./🛰️_the_vulnerability_of_the_gatekeepers.md) — *reputational fragility within elite intermediary systems*  
+> - [🐝 Fluellen Was Right](./🐝_fluellen_was_right.md) — *procedural legitimacy and regional dignity archetypes*  
+> - [🎭 Shakespeare as Political Operating System](./🎭_shakespeare_as_political_operating_system.md) — *Shakespeare as institutional symbolic grammar*  
 >  
 > 🏮 Return To:  
 >  
