@@ -107,7 +107,10 @@ corbyn, starmer, labour coalition, consent mechanism, democratic reform, politic
 
 > 📡 Cross-References:
 > 
-> - []()  
+> - [🧵 Old Guard Optics](./🧵_old_guard_optics.md) — *institutional reassurance becoming alienating in low-trust systems*  
+> - [🌹 Labour as Alt-Right SPV](./🌹_labour_as_alt_right_spv.md) — *populist right logics routed through centre-left legitimacy systems*  
+> - [🧨 Semantic Collapse](./🧨_semantic_collapse.md) — *liberal-democratic language breakdown under authoritarian framing pressure*  
+> - [🧨 Why Argumentation Fails With Alt-Right Ideology](./🧨_why_argumentation_fails_with_alt_right_ideology.md) — *moral-treason logic and the collapse of deliberative debate frameworks*  
 >   
 > 🏮 Return To:
 >
