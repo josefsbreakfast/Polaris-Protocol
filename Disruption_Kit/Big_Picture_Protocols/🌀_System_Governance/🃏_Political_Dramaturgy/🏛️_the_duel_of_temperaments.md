@@ -112,7 +112,6 @@ It examines how European political and intellectual culture repeatedly transform
 > - [🏛️ Archetypes of Bureaucratic Behaviour](./🏛️_archetypes_of_bureaucratic_behaviour.md) — *recurring institutional personality modes*  
 > - [🎭 Witch Girl vs Sensible Man Archetypes](./🎭_witch_girl_vs_sensible_man_archetypes.md) — *gendered legitimacy scripts and emotional coding*  
 > - [🧨 Centre-Left Threat Archetypes](./🧨_centre_left_threat_archetypes.md) — *personalities destabilising centre-left legitimacy systems*  
-> - [🏛️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments](./🏛️_the_duel_of_temperaments.md) — *temperament as civilisational legitimacy coding*  
 >   
 > 🏮 Return To:
 >
