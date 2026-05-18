@@ -100,7 +100,7 @@ It proposes mechanisms for reconnecting fragmented oversight bodies and embeddin
 >   
 > 🏮 Return To:
 >
-> - [👑 Ownership & Control](./README.md)  
+> - [🧬 Governance Repair Shop](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
