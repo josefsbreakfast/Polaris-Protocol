@@ -951,9 +951,8 @@ Using Tyne and Wear as a regional case study, this node additionally maps how de
 
 > 📡 Cross-references:
 >
-> - [📚 Narrative Management](./README.md) — *public perception, symbolic framing, and legitimacy systems*  
-> - [☕️ The Eerie Of Elections — 2026 Edition](../☕️_the_eerie_of_elections_2026_edition.md) — *fragmentation, sentiment instability, and voter distrust*  
-> - [🚀 Procedure vs Perception](../🚀_procedure_vs_perception.md) — *where institutional logic collides with public emotional interpretation*
+> - [☕️ The Eerie Of Elections — 2026 Edition](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/☕️_the_eerie_of_elections_2026_edition.md) — *fragmentation, sentiment instability, and voter distrust*  
+> - [🚀 Procedure vs Perception](../🧠_Apparatchik_Philosophy/🚀_procedure_vs_perception.md) — *where institutional logic collides with public emotional interpretation*  
 >  
 > 🏮 Return To:  
 >
