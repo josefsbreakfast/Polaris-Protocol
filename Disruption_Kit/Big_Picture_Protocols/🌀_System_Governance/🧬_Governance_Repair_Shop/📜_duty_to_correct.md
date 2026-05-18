@@ -184,7 +184,10 @@ It frames correction not as clerical nicety but as essential civic infrastructur
 > - [🗃️ Safeguarding Logic Mission Creep & Identity-Pathologising](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md) - *how "safeguarding" can become fascist and/or authoritarian in nature*  
 > - [🪼 Who Had Their Voice Stolen?](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🪼_who_had_their_voice_stolen.md) - *example potential complications*  
 > - [🐝 Audit Stinger](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/🐝_audit_stinger.md) - *example audit work to proactively help survivors correct their records*  
-> - [⚖️ Official Secrets Reform and Accountability](./⚖️_official_secrets_reform_and_accountability.md) - *the OSA **must** change to assist in other organisations' duties to correct records*  
+> - [⚖️ Official Secrets Reform and Accountability](./⚖️_official_secrets_reform_and_accountability.md) - *the OSA **must** change to assist in other organisations' duties to correct records*
+> - [👁️ Restoring Epistemic Integrity](./👁️_restoring_epistemic_integrity.md) — *rebuilding trustworthy institutional knowledge systems*  
+> - [🔮 Daylight Effects in Governance Systems](./🔮_daylight_in_governance.md) — *transparency as behavioural transformation pressure*  
+> - [🧬 Transparency as Antigenic Defence](./🧬_transparency_as_antigenic_defence.md) — *democratic openness as immune defence against authoritarian drift*  
 >  
 > 🏮 Return To:  
 >  
