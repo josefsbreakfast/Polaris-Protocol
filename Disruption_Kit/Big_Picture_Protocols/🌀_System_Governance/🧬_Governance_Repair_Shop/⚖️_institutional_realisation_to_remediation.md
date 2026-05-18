@@ -138,7 +138,7 @@ It documents how institutions move from recognising harm to selecting remediatio
 >  
 > 🏮 Return To:  
 >  
-> - [⚖️ Legal & State Governance](./README.md)  
+> - [🧬 Governance Repair Shop](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
