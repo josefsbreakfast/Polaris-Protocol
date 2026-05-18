@@ -255,10 +255,11 @@ Governance_Failure · Transparency_Warfare · Institutional_Reconstruction · Ep
 # 🏮 Footer  
 This node links directly to:
 
-- **Reconstruction Logic**  
-- **Crisis-Mode Behaviours**  
-- **Next: Restoring Epistemic Integrity*  
-- **Seven Layers of Safeguard Breakdown**
+> 📡 Cross-References:
+> 
+> - [🪡 Oversight Repair Kit — Re-stitching Accountability Chains](./🪡_oversight_repair_kit.md) — *rewiring fragmented oversight structures*  
+> - [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) — *elite accountability without institutional self-destruction*  
+> - [🌅 Rise of Institutional Integrity](./🌅_rise_of_institutional_integrity.md) — *democratic trust recovery and coherence rebuilding*  
 >  
 > 🏮 Return To:  
 >  
