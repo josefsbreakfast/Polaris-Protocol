@@ -259,6 +259,9 @@ It completes the collapse → reconstruction arc by identifying the moment an in
 > - [🧭 Reflexive Risk](./🧭_reflexive_risk.md)  
 > - [🧨 We Are Already Paying the Cost](./🧨_we_are_already_paying_the_cost.md)  
 > - [🏗️ Corrective Governance Architecture](../💫_Containment_Logic/🏗️_corrective_governance_architecture.md)  
+> - [📜 Duty to Correct: How Public Bodies Must Fix Wrong Data](./📜_duty_to_correct.md) — *correction rights as democratic infrastructure*  
+> - [🔮 Daylight Effects in Governance Systems](./🔮_daylight_in_governance.md) — *transparency as behavioural transformation pressure*  
+> - [🧬 Transparency as Antigenic Defence](./🧬_transparency_as_antigenic_defence.md) — *democratic openness as immune defence against authoritarian drift*  
 >  
 > 🏮 Return To:  
 >
