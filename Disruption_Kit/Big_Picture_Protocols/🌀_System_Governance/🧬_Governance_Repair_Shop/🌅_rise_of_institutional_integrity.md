@@ -113,7 +113,10 @@ It maps how language, law, and trust are re-stitched after institutional degrada
 > - [✈️ Genocides and Paedophiles](./✈️_genocides_and_paedophiles.md)  
 > - [🌒 The No-Win Box](./🌒_the_no_win_box.md)  
 > - [🍉 British Democracy Needs You](./🍉_british_democracy_needs_you.md)  
-> - [🐼 The Metropolitan Rabble](./🐼_the_metropolitan_rabble.md)  
+> - [🐼 The Metropolitan Rabble](./🐼_the_metropolitan_rabble.md)
+> - [🏗️ Corrective Governance Architecture](./🏗️_corrective_governance_architecture.md) — *rebuilding governance after systemic failure*  
+> - [🪡 Oversight Repair Kit — Re-stitching Accountability Chains](./🪡_oversight_repair_kit.md) — *rewiring fragmented oversight structures*  
+> - [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) — *elite accountability without institutional self-destruction*  
 >  
 > 🏮 Return To:
 >
