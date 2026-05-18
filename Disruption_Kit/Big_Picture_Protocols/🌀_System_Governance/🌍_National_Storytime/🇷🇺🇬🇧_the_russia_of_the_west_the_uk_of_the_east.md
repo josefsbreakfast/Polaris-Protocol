@@ -4,7 +4,7 @@
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines the idea that Britain and Russia, while profoundly different states, possess:
 - unexpectedly comparable historical structures,
@@ -41,7 +41,7 @@ This node therefore studies:
 
 ---
 
-# 🏛️ I. Britain And Russia Are Both Old Layered States  
+## 🏛️ Britain And Russia Are Both Old Layered States  
 
 Both Britain and Russia developed as:
 - historically layered,
@@ -68,7 +68,7 @@ Instead, both evolved through:
 
 ---
 
-# 🌍 II. London Is Moscow  
+## 🌍 London Is Moscow  
 
 London and Moscow function similarly as:
 - administrative gravity wells,
@@ -95,9 +95,9 @@ The capitals become:
 
 ---
 
-# 🌫️ III. Saint Petersburg Is Not London  
+## 🌫️ Saint Petersburg Is Not London  
 
-[Saint Petersburg](chatgpt://generic-entity?number=0) resembles:
+**Saint Petersburg** resembles:
 - Edinburgh,
 - York,
 - or Durham
@@ -118,7 +118,7 @@ without fully functioning as the primary administrative centre.
 
 ---
 
-# ⚔️ IV. Britain Already Understands Dynastic Anxiety  
+## ⚔️ Britain Already Understands Dynastic Anxiety  
 
 British history already contains:
 - succession crises,
@@ -128,9 +128,7 @@ British history already contains:
 - legitimacy disputes,
 - and symbolic monarchy.
 
-The:
-[Wars of the Roses](chatgpt://generic-entity?number=1)
-remain one of the clearest examples.
+The **Wars of the Roses** remain one of the clearest examples.
 
 British audiences therefore already understand:
 - dynastic instability,
@@ -147,7 +145,7 @@ The emotional logic is recognisable even where the historical conditions differ.
 
 ---
 
-# 👑 V. Continuity Versus Rupture  
+## 👑 Continuity Versus Rupture  
 
 One major difference between Britain and Russia lies in:
 > how visibly legitimacy collapsed.
@@ -177,11 +175,9 @@ This difference shapes:
 
 ---
 
-# 🩸 VI. The Romanovs Frightened Britain Because Britain Recognised Them  
+## 🩸 The Romanovs Frightened Britain Because Britain Recognised Them  
 
-The fall of the
-[House of Romanov](chatgpt://generic-entity?number=2)
-disturbed Britain not simply because:
+The fall of the **House of Romanov** disturbed Britain not simply because:
 - Russia appeared violent,
 - or revolutionary upheaval appeared foreign.
 
@@ -202,7 +198,7 @@ The fear was:
 
 ---
 
-# 🪞 VII. Britain Often Exoticises What It Partially Shares  
+## 🪞 Britain Often Exoticises What It Partially Shares  
 
 British political culture frequently frames:
 - Russian centralisation,
@@ -227,7 +223,7 @@ But it does mean Britain often fails to recognise:
 
 ---
 
-# 🎭 VIII. Shakespeare Helps Britain Understand Russia  
+## 🎭 Shakespeare Helps Britain Understand Russia  
 
 Shakespeare’s histories already teach:
 - legitimacy anxiety,
@@ -250,7 +246,7 @@ It simply often forgets it.
 
 ---
 
-# 🧠 IX. The Mirror Is Disturbing  
+## 🧠 The Mirror Is Disturbing  
 
 The comparison between Britain and Russia often provokes discomfort because:
 - Britain prefers to imagine itself as uniquely stable,
@@ -271,7 +267,7 @@ The mirror becomes uncomfortable because:
 
 ---
 
-# 🧭 X. Mirror States And Misrecognition
+## 🧭 Mirror States And Misrecognition
 
 Britain and Russia frequently misunderstand one another partly because:
 > they partially recognise one another.
@@ -324,7 +320,7 @@ But neither is entirely wrong.
 
 ---
 
-# 🪞 XI. The Problem Of Exceptionalism
+## 🪞 The Problem Of Exceptionalism
 
 The comparison becomes emotionally uncomfortable because both states possess strong exceptionalist traditions.
 
@@ -380,7 +376,10 @@ It examines how Britain and Russia remain unexpectedly legible to one another th
 > 
 > - [🕯️ The British Blind Spot](../☕️_Post_Imperial_Weather/🕯️_the_british_blind_spot.md) — *continuity psychology and imperial self-perception*  
 > - [🏛️ Shakespeare Already Told You Britain Was Regional](./🏛️_shakespeare_already_told_you_britain_was_regional.md) — *regional identity and layered Britain*  
-> - [🩸 The Romanovs Frightened Britain Because Britain Recognised Them](./🩸_the_romanovs_frightened_britain_because_britain_recognised_them.md) — *aristocratic collapse and legitimacy anxiety*
+> - [🩸 The Romanovs Frightened Britain Because Britain Recognised Them](./🩸_the_romanovs_frightened_britain_because_britain_recognised_them.md) — *aristocratic collapse and legitimacy anxiety*  
+> - [📖 Russia: A Cheat Sheet for the British](./📖_russia_a_cheat_sheet_for_the_british.md) — *translating Russian governance instincts into British analogical language*  
+> - [🩸 The Romanovs and British Aristocratic Imagination](./🩸_the_romanovs_and_british_aristocratic_imagination.md) — *aristocratic collapse, imperial anxiety, and British projection onto Russia*  
+> - [🪞 States Project Their Own Structure Onto Rivals](./🪞_states_project_their_own_structure_onto_rivals.md) — *comparative governance misrecognition and legitimacy projection*  
 >  
 > 🏮 Return To:  
 >
