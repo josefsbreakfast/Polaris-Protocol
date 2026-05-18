@@ -235,6 +235,8 @@ It documents how child protection fails when systems prioritise punishment optic
 > - [🧨 If You Don’t Prosecute, You Invite Predators](./🧨_if_you_dont_prosecute_you_invite_predators.md) — *deterrence failure*  
 > - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *legitimacy effects*  
 > - [🧬 Forensic Psychology Is Infrastructure](../🛰️_Infrastructure_Procurement/🧬_forensic_psychology_is_infrastructure.md) — *treatment as safety*
+> - [🧬 Restorative and Transformative Justice — Where It Actually Works](./🧬_restorative_and_transformative_justice_where_it_actually_works.md) — *evidence-based restorative application versus romanticisation*  
+> - [🫀 AI Black Box Inquests](./🫀_ai_black_box_inquests.md) — *mandate collapse and investigatory failure in AI-linked harms*  
 >  
 > 🏮 Return To:  
 >  
