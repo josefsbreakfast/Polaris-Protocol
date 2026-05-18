@@ -104,6 +104,10 @@ alt‑right, debate collapse, moral treason, pluralism failure, worldview confli
 > 📡 Cross-references:
 > 
 > - [🤖 General Issue Robots](../../🪄_Expression_Of_Norms/🙀_Chronically_Online/🤖_general_issue_robots.md)
+> - [🗳️ The Corbyn–Starmer Consent Mechanism](./🗳️_the_corbyn_starmer_consent_mechanism.md) — *electability bargains and conditional democratic consent*  
+> - [🧵 Old Guard Optics](./🧵_old_guard_optics.md) — *institutional reassurance becoming alienating in low-trust systems*  
+> - [🌹 Labour as Alt-Right SPV](./🌹_labour_as_alt_right_spv.md) — *populist right logics routed through centre-left legitimacy systems*  
+> - [🧨 Semantic Collapse](./🧨_semantic_collapse.md) — *liberal-democratic language breakdown under authoritarian framing pressure*  
 >  
 > 🏮 Return To:  
 >
