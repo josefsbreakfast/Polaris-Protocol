@@ -338,9 +338,13 @@ It maps how shared language fractures across incompatible moral systems, and how
 
 > 📡 Cross-references:
 > 
-> - [💼 Narrative Capture & Linguistic Power](../📚_Narrative_Management/💼_narrative_capture_and_linguistic_power.md) – *words have more power than we credit them with*
-> - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md) – *this is a transitory mechanism of capture*
+> - [💼 Narrative Capture & Linguistic Power](../📚_Narrative_Management/💼_narrative_capture_and_linguistic_power.md) – *words have more power than we credit them with*  
+> - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md) – *this is a transitory mechanism of capture*  
 > - [🎪 Not Even a Mole To Be Found](../📚_Narrative_Management/🎪_not_even_a_mole_to_be_found.md) – *neither loyalty nor choice are required to be assets, particularly in the digital age*
+> - [🗳️ The Corbyn–Starmer Consent Mechanism](./🗳️_the_corbyn_starmer_consent_mechanism.md) — *electability bargains and conditional democratic consent*  
+> - [🧵 Old Guard Optics](./🧵_old_guard_optics.md) — *institutional reassurance becoming alienating in low-trust systems*  
+> - [🌹 Labour as Alt-Right SPV](./🌹_labour_as_alt_right_spv.md) — *populist right logics routed through centre-left legitimacy systems*  
+> - [🧨 Why Argumentation Fails With Alt-Right Ideology](./🧨_why_argumentation_fails_with_alt_right_ideology.md) — *moral-treason logic and the collapse of deliberative debate frameworks*  
 >  
 > 🏮 Return To:  
 >
