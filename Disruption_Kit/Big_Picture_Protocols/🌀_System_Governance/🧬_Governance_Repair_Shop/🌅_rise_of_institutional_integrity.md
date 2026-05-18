@@ -117,7 +117,7 @@ It maps how language, law, and trust are re-stitched after institutional degrada
 >  
 > 🏮 Return To:
 >
-> - [👑 Ownership & Control](./README.md)
+> - [🧬 Governance Repair Shop](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
