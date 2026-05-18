@@ -140,9 +140,9 @@ It outlines the root executive-layer mechanism shaping UK state conflicts, inqui
 
 > 📡 Cross-references:
 > 
-> - [🧠 Systems & Governance] — *macro decision architectures*  
-> - [🩸 Troubles Legacy] — *historical recursion patterns*  
-> - [🕸️ World Webs] — *political narrative control*
+> - [🩹 Triad — Tickbox, Containment Fatigue & Patch Repair](./🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md) — *minimal compliance cycles and institutional exhaustion*  
+> - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md) — *recognising systemic failure and transitioning toward repair*  
+> - [🔁 Post-Realisation Phase](./🔁_post_realisation_phase.md) — *the unstable gap between recognition and accountability*  
 >  
 > 🏮 Return To:  
 >  
