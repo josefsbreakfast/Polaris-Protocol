@@ -1,5 +1,5 @@
 # 🧬 Transparency as Antigenic Defence  
-**First created:** 2025-11-05 | **Last updated:** 2026-05-12  
+**First created:** 2025-11-05 | **Last updated:** 2026-05-18  
 *How democratic transparency functions as an immune response to misinformation and authoritarian anxiety.*  
 
 ---
@@ -123,4 +123,4 @@ It reframes disclosure not as risk but as metabolism — the way democracies sta
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-05-18_
