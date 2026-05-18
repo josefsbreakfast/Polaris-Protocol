@@ -96,7 +96,10 @@ It proposes mechanisms for reconnecting fragmented oversight bodies and embeddin
 > - [💰 Who Benefits from Cover-Up](./💰_who_benefits_from_cover_up.md)  
 > - [🦠 Systemic Porosity](./🦠_systemic_porosity.md) — *structural vulnerability map*  
 > - [🦠 Hybrid Threat Overlay](../⚖️_Legal_State_Governance/🦠_hybrid_threat_overlay.md) — *external manipulation risk*  
-> - [🧠 Multi-Lock Hypothetical](../💫_Containment_Logic/🧠_multilock_overlapping_covertion.md) — *compound lawful layer model*  
+> - [🧠 Multi-Lock Hypothetical](../💫_Containment_Logic/🧠_multilock_overlapping_covertion.md) — *compound lawful layer model*
+> - [🏗️ Corrective Governance Architecture](./🏗️_corrective_governance_architecture.md) — *rebuilding governance after systemic failure*  
+> - [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) — *elite accountability without institutional self-destruction*  
+> - [🌅 Rise of Institutional Integrity](./🌅_rise_of_institutional_integrity.md) — *democratic trust recovery and coherence rebuilding*  
 >   
 > 🏮 Return To:
 >
