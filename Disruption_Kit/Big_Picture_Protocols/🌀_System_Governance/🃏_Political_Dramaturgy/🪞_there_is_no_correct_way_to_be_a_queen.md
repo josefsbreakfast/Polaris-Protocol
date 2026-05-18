@@ -349,7 +349,6 @@ It examines how female sovereigns become trapped within permanently contradictor
 > - [🪶 The Queen as National Emotional Container](./🪶_the_queen_as_national_emotional_container.md) — *continuity, grief, and symbolic reassurance*  
 > - [👑 Queenhood and the Theatre of Purity](./👑_queenhood_and_the_theatre_of_purity.md) — *purity performance as legitimacy stabilisation*  
 > - [👑 The "Problem" of the Female Heir](./👑_the_problem_of_the_female_heir.md) — *hereditary patriarchy and dynastic instability*  
-> - [🪞 There Is No Correct Way to Be a Queen](./🪞_there_is_no_correct_way_to_be_a_queen.md) — *contradictory symbolic expectations imposed upon female rulers*  
 > - [👑 Elizabeth I and Catherine the Great](./👑_elizabeth_i_and_catherine_the_great.md) — *comparative female sovereignty and patriarchal consolidation*  
 
 >  
