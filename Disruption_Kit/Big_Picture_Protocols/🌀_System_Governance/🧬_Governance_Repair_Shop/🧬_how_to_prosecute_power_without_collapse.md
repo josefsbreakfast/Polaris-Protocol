@@ -1,5 +1,5 @@
 # 🧬 How to Prosecute Power Without Collapse  
-**First created:** 2025-12-20 | **Last updated:** 2026-05-12  
+**First created:** 2025-12-20 | **Last updated:** 2026-05-18  
 *Designing elite accountability so institutions bend without breaking.*  
 
 ---
@@ -248,4 +248,4 @@ It documents how elite accountability can be structured to strengthen — not de
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-05-18_
