@@ -324,7 +324,11 @@ It maps how Britain’s intermediary establishment systems simultaneously preser
 > - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular metaphor for intermediary governance systems*  
 > - [🛰️ The Vulnerability of the Gatekeepers](./🛰️_the_vulnerability_of_the_gatekeepers.md) — *elite-network fragility and continuity anxiety*  
 > - [⚖️ Aequanimitas and the Stiff Upper Lip](./⚖️_aequanimitas_and_the_stiff_upper_lip.md) — *emotional restraint and institutional composure*  
-> - [☔️ Restorative Justice in a Shame Culture](./☔️_restorative_justice_in_a_shame_culture.md) — *survivable accountability inside continuity systems*
+> - [☔️ Restorative Justice in a Shame Culture](./☔️_restorative_justice_in_a_shame_culture.md) — *survivable accountability inside continuity systems*  
+> - [🧬 The Social Biology of Britain](./🧬_the_social_biology_of_britain.md) — *institutional metabolism and continuity tissue*  
+> - [🧠 Reputational Lock-In and British Institutions](./🧠_reputational_lock_in_and_british_institutions.md) — *prestige systems and defensive continuity escalation*  
+> - [🐝 Fluellen Was Right](./🐝_fluellen_was_right.md) — *procedural legitimacy and regional dignity archetypes*  
+> - [🎭 Shakespeare as Political Operating System](./🎭_shakespeare_as_political_operating_system.md) — *Shakespeare as institutional symbolic grammar*  
 >  
 > 🏮 Return To:  
 >
