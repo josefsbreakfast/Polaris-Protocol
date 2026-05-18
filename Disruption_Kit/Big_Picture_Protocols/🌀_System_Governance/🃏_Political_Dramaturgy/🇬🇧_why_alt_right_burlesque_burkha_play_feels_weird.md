@@ -429,7 +429,10 @@ burlesque grammar, unveiling ritual, symbolic spectacle, racialised theatre, pub
 It examines symbolic unveiling rituals, racialised public spectacle, and the unstable overlap between political theatre, spectatorship, humiliation dynamics, and civic performance within contemporary culture-war environments.  
 
 > 📡 Cross-references:
-> 
+>
+> - [👾 Is PREVENT Preventing Extremism Across All Classes?](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/👾_is_it_preventing_extremism_from_all_classes.md)  
+> - [💄 Plastic Masculinity Knives](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💄_plastic_masculinity_knives.md)  
+> - [🐇 QAnon Vocabulary Origins](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🐇_qanon_vocabulary_origins.md)  
 > - [☕️ Post-Imperial Weather](../☕️_Post-Imperial_Weather/README.md) — *emotional atmospheres and symbolic performance within post-imperial British culture*  
 > - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *media framing, spectacle construction, and reputational governance systems*  
 > - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *symbolic containment, public boundaries, and civic legitimacy under pressure*  
