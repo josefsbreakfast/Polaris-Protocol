@@ -1,5 +1,5 @@
 # 🩸 Ideological Skinwalkers  
-**First created:** 2025-10-23  |  **Last updated:** 2026-05-15  
+**First created:** 2025-10-23  |  **Last updated:** 2026-05-18  
 *When conviction becomes costume.*  
 
 ---
@@ -171,9 +171,9 @@ It documents the late-modern shift from ideological conflict to aesthetic mimicr
 
 > 📡 Cross-references:
 > 
->  - [🪄 Expression of Norms] — *compliance culture & media choreography*  
->  - [🦕 Elder Influencers → 🕸️ World Webs] — *networked legacy power*  
->  - [🧿 Watch the Watchers] — *optics of authority*
+> - [🦜 Blair Cabinet Identity Hypocrisy](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦜_blair_cabinet_identity_hypocrisy.md)  
+> - [🎭 Hypocrisy Profile — Blair-era Cabinet (2005–2010)](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🎭_hypocrisy_profile_uk_blair_cabinet.md)  
+> - [🧩 Cabinet Churn and UK Identity Cards](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)  
 >  
 > 🏮 Return To:  
 >  
@@ -185,4 +185,4 @@ It documents the late-modern shift from ideological conflict to aesthetic mimicr
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-18_
