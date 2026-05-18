@@ -1,5 +1,5 @@
 # 🏛️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments  
-**First created:** 2025-10-23  |  **Last updated:** 2026-05-15  
+**First created:** 2025-10-23  |  **Last updated:** 2026-05-18  
 *How Europe repeatedly turned temperament into destiny — and recoded political and intellectual style as race, civilisation, and moral legitimacy.*  
 
 ---
@@ -120,4 +120,4 @@ It examines how European political and intellectual culture repeatedly transform
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-18_
