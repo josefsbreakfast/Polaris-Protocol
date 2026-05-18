@@ -287,7 +287,7 @@ It examines how British historical instincts surrounding monarchy, aristocracy, 
 > 
 > - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](./🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial psychology and mirrored legitimacy systems*  
 > - [🏛️ Shakespeare Already Told You Britain Was Regional](./🏛️_shakespeare_already_told_you_britain_was_regional.md) — *regional identity and layered Britain*  
-> - [🕯️ The British Blind Spot](./🕯️_the_british_blind_spot.md) — *continuity myths and national self-perception*
+> - [🕯️ The British Blind Spot](../☕️_Post_Imperial_Weather/🕯️_the_british_blind_spot.md) — *continuity myths and national self-perception*  
 >  
 > 🏮 Return To:  
 >
