@@ -173,7 +173,11 @@ It documents the late-modern shift from ideological conflict to aesthetic mimicr
 > 
 > - [🦜 Blair Cabinet Identity Hypocrisy](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🦜_blair_cabinet_identity_hypocrisy.md)  
 > - [🎭 Hypocrisy Profile — Blair-era Cabinet (2005–2010)](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🎭_hypocrisy_profile_uk_blair_cabinet.md)  
-> - [🧩 Cabinet Churn and UK Identity Cards](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)  
+> - [🧩 Cabinet Churn and UK Identity Cards](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧩_cabinet_churn_identity_cards.md)
+> - [🏛️ Archetypes of Bureaucratic Behaviour](./🏛️_archetypes_of_bureaucratic_behaviour.md) — *recurring institutional personality modes*  
+> - [🎭 Witch Girl vs Sensible Man Archetypes](./🎭_witch_girl_vs_sensible_man_archetypes.md) — *gendered legitimacy scripts and emotional coding*  
+> - [🧨 Centre-Left Threat Archetypes](./🧨_centre_left_threat_archetypes.md) — *personalities destabilising centre-left legitimacy systems*  
+> - [🏛️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments](./🏛️_the_duel_of_temperaments.md) — *temperament as civilisational legitimacy coding*  
 >  
 > 🏮 Return To:  
 >  
