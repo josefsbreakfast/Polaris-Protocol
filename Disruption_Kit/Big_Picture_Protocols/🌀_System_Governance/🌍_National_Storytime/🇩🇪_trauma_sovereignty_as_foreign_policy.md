@@ -321,7 +321,7 @@ The node focuses on how stabilising postwar narratives can mediate contradiction
 >
 > 🏮 Return To:
 >
-> - [📚 Narrative Management](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
