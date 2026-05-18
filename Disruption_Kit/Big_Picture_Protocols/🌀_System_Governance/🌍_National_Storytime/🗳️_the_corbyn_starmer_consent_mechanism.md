@@ -111,7 +111,7 @@ corbyn, starmer, labour coalition, consent mechanism, democratic reform, politic
 >   
 > 🏮 Return To:
 >
-> - [🃏 Political Dramaturgy](./README.md)
+> - [🌍 National Storytime](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
