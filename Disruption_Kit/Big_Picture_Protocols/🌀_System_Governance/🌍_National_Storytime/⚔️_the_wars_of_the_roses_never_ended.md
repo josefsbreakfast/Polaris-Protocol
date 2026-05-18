@@ -285,7 +285,7 @@ It examines how the regional identities, legitimacy tensions, and symbolic geogr
 >  
 > 🏮 Return To:  
 >
-> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌍 National Storytime](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
