@@ -313,6 +313,9 @@ It examines how political systems repeatedly misinterpret rivals by unconsciousl
 > - [🧠 Continuity Creates Blindness](../🧠_Apparatchik_Philosophy/🧠_continuity_creates_blindness.md) — *familiarity blindness and institutional self-misrecognition*  
 > - [🪞 Britain Misunderstands Russia Because Britain Misunderstands Itself](../🧠_Apparatchik_Philosophy/🪞_britain_misunderstands_russia_because_britain_misunderstands_itself.md) — *continuity myths and geopolitical interpretation failure*  
 > - [🪞 Asymmetrical Recognition as Achilles Heel](../🧠_Apparatchik_Philosophy/🪞_asymmetrical_recognition_as_achilles_heel.md) — *uneven political self-awareness and strategic vulnerability*
+> - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](./🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *Britain and Russia as mutually recognisable continuity systems*  
+> - [📖 Russia: A Cheat Sheet for the British](./📖_russia_a_cheat_sheet_for_the_british.md) — *translating Russian governance instincts into British analogical language*  
+> - [🩸 The Romanovs and British Aristocratic Imagination](./🩸_the_romanovs_and_british_aristocratic_imagination.md) — *aristocratic collapse, imperial anxiety, and British projection onto Russia*  
 >  
 > 🏮 Return To:  
 >
