@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Once Reconstruction Logic begins,  
 institutions quickly realise something uncomfortable:
 
@@ -26,7 +26,7 @@ It is systemic repair.
 
 ---
 
-# 🧩 The Six Pillars of Corrective Governance Architecture  
+# ✨ The Six Pillars of Corrective Governance Architecture  
 
 Rebuilding governance means reconstructing six interlocking components.
 
