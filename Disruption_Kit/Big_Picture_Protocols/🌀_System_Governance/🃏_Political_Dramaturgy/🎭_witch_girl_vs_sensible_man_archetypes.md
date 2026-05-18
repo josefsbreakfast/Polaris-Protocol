@@ -402,7 +402,11 @@ It maps how gendered and class-coded archetypes shape perceptions of credibility
 > - [🎭 Symbolic Violence in Gendered & Racialised Frames](../📚_Narrative_Management/🎭_symbolic_violence_in_gendered_and_racialised_frames.md)  
 > - [🎭 Respectability Theatre — The “Serious Cross-Section” Illusion](../📚_Narrative_Management/🎭_respectibility_theatre_bullshit.md)  
 > - [🎭 Reputation as Governance](../📚_Narrative_Management/🎭_reputation_as_governance.md)  
-> - [🎭 Apparently, This Was Our Idea](../📚_Narrative_Management/🎭_apparently_this_was_our_idea.md)  
+> - [🎭 Apparently, This Was Our Idea](../📚_Narrative_Management/🎭_apparently_this_was_our_idea.md)
+> - [🩸 Ideological Skinwalkers](./🩸_ideological_skinwalkers.md) — *conviction becoming aesthetic costume*  
+> - [🏛️ Archetypes of Bureaucratic Behaviour](./🏛️_archetypes_of_bureaucratic_behaviour.md) — *recurring institutional personality modes*  
+> - [🧨 Centre-Left Threat Archetypes](./🧨_centre_left_threat_archetypes.md) — *personalities destabilising centre-left legitimacy systems*  
+> - [🏛️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments](./🏛️_the_duel_of_temperaments.md) — *temperament as civilisational legitimacy coding*  
 >   
 > 🏮 Return To:
 >
