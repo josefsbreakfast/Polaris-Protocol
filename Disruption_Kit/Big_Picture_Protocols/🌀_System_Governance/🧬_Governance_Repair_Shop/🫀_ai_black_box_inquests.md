@@ -1,5 +1,5 @@
 # 🫀 AI Black Box Inquests  
-**First created:** 2025-11-06 | **Last updated:** 2026-05-12  
+**First created:** 2025-11-06 | **Last updated:** 2026-05-18  
 *Ownership collapse and mandate misfit in AI-linked harm investigations.*  
 
 ---
@@ -293,4 +293,4 @@ It examines AI-linked harm through the lens of investigative ownership and manda
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-05-18_
