@@ -167,7 +167,12 @@ It explains the balance of green leaf durability in context of British political
 > 
 > - [🎴 Tarot of Prime Ministers](../☕️_Post_Imperial_Weather/🎴_tarot_of_prime_ministers.md)
 > - [💣 Austerity as Time Collapse](../🕰️_Chronos_Or_Kairos/💣_austerity_as_time_collapse.md)
-> - [🎪 Meme Fever](../../../../⚗️_Apothecary/🌫️_Vapours/🎪_meme_fever.md)  
+> - [🎪 Meme Fever](../../../../⚗️_Apothecary/🌫️_Vapours/🎪_meme_fever.md)
+> - [🌐 Late-Stage Autocracy Vibe Diagnostics](./🌐_late_stage_autocracy_vibe_diagnostics.md) — *emotional instability preceding regime collapse*  
+> - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md) — *charisma erosion and symbolic exhaustion*  
+> - [🎭 The Kremlin Aesthetic Timeline](./🎭_kremlin_aesthetic_timeline.md) — *post-Soviet aesthetic contraction and bunkerisation*  
+> - [🎡 The Aesthetic Economy of States](./🎡_the_aesthetic_economy_of_states.md) — *states competing through atmosphere, spectacle, and symbolic gravity*  
+> - [👑 Aurafarming A New Age](./👑_aurafarming_a_new_age.md) — *algorithmic legitimacy and parasocial symbolic authority*  
 > 
 > 🏮 Return To:  
 >  
