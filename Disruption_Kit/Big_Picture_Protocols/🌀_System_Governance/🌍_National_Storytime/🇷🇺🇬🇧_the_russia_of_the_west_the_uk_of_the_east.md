@@ -1,5 +1,5 @@
 # 🇷🇺🇬🇧 The Russia of the West; The UK of the East  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
 *Why Britain and Russia are often more historically and emotionally legible to one another than British discourse comfortably admits.*  
 
 ---
@@ -373,15 +373,23 @@ britain, russia, monarchy, imperial identity, post-imperial psychology, legitima
 
 ## 🏮 Footer  
 
-*The Russia of the West; The UK of the East* is a living node of the **Polaris Protocol**.  
+*🇷🇺🇬🇧 The Russia of the West; The UK of the East* is a living node of the **Polaris Protocol**.  
 It examines how Britain and Russia remain unexpectedly legible to one another through shared experiences of aristocratic continuity, symbolic monarchy, imperial afterlife, regional identity, and legitimacy-conscious state formation.  
 
 > 📡 Cross-references:
 > 
 > - [🕯️ The British Blind Spot](./🕯️_the_british_blind_spot.md) — *continuity psychology and imperial self-perception*  
 > - [🏛️ Shakespeare Already Told You Britain Was Regional](./🏛️_shakespeare_already_told_you_britain_was_regional.md) — *regional identity and layered Britain*  
-> - [🩸 The Romanovs Frightened Britain Because Britain Recognised Them](./🩸_the_romanovs_frightened_britain_because_britain_recognised_them.md) — *aristocratic collapse and legitimacy anxiety*  
+> - [🩸 The Romanovs Frightened Britain Because Britain Recognised Them](./🩸_the_romanovs_frightened_britain_because_britain_recognised_them.md) — *aristocratic collapse and legitimacy anxiety*
+>  
+> 🏮 Return To:  
+>
+> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-18_
