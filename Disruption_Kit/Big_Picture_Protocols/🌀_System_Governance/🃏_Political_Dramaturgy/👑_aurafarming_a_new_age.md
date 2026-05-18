@@ -1,5 +1,5 @@
 # 👑 Aurafarming A New Age  
-**First created:** 2026-05-01 | **Last updated:** 2026-05-15  
+**First created:** 2026-05-01 | **Last updated:** 2026-05-18  
 *How algorithmic culture, parasocial attention, and symbolic institutions interact to manufacture legitimacy, reassurance, and identity in the platform era.*  
 
 ---
@@ -706,9 +706,9 @@ The node additionally examines how participatory media environments are altering
 
 > 📡 Cross-References:
 > 
-> - []()
-> - []()
-> - []()  
+> - [👑 Queenhood and the Theatre of Purity](./👑_queenhood_and_the_theatre_of_purity.md)  
+> - [🪞 Meme As Signal Object](../../../../⚗️_Apothecary/🧪_Temperaments/🪞_meme_as_signal_object.md)  
+> - [👑 The Female Sovereign as Patriarchal Apex](./👑_the_female_sovereign_as_patriarchal_apex.md)  
 > 
 > 🏮 Return To:  
 >  
@@ -720,4 +720,4 @@ The node additionally examines how participatory media environments are altering
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-18_
