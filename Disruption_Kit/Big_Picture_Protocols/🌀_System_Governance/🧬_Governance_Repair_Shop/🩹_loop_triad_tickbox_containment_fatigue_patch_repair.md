@@ -1,5 +1,5 @@
 # 🩹 Triad — Tickbox, Containment Fatigue & Patch Repair  
-**First created:** 2025-09-25 | **Last updated:** 2026-05-12  
+**First created:** 2025-09-25 | **Last updated:** 2026-05-18  
 *A containment cycle where minimalism breeds strain, exposing rot patched with further minimalism.*  
 
 ---
@@ -42,4 +42,4 @@ It visualises how bare-minimum compliance leads to containment fatigue, exposing
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-05-18_
