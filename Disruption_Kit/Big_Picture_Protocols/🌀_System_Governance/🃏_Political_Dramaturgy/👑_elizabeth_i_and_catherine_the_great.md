@@ -332,7 +332,14 @@ It examines how Elizabeth I and Catherine the Great transformed monarchy by conc
 > 
 > - [👑 The Female Sovereign as Patriarchal Apex](./👑_the_female_sovereign_as_patriarchal_apex.md) — *female monarchy and concentrated patriarchal legitimacy*  
 > - [🪞 There Is No Correct Way to Be a Queen](./🪞_there_is_no_correct_way_to_be_a_queen.md) — *contradictory expectations surrounding sovereign femininity*  
-> - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](../🌍_National_Storytime/🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial psychology and mirrored legitimacy systems*  
+> - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](../🌍_National_Storytime/🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial psychology and mirrored legitimacy systems*
+> - [🌹 The Body of the Queen and the Body of the State](./🌹_the_body_of_the_queen_and_the_body_of_the_state.md) — *monarchy as embodied national continuity*  
+> - [👑 Queenhood and the Theatre of Purity](./👑_queenhood_and_the_theatre_of_purity.md) — *purity performance as legitimacy stabilisation*  
+> - [👑 The "Problem" of the Female Heir](./👑_the_problem_of_the_female_heir.md) — *hereditary patriarchy and dynastic instability*  
+> - [🪞 There Is No Correct Way to Be a Queen](./🪞_there_is_no_correct_way_to_be_a_queen.md) — *contradictory symbolic expectations imposed upon female rulers*  
+> - [🪶 The Queen as National Emotional Container](./🪶_the_queen_as_national_emotional_container.md) — *sovereign femininity as emotional governance infrastructure*  
+> - [👑 Elizabeth I and Catherine the Great](./👑_elizabeth_i_and_catherine_the_great.md) — *comparative female sovereignty and patriarchal consolidation*  
+
 >  
 > 🏮 Return To:  
 >
