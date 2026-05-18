@@ -279,8 +279,8 @@ It examines how the regional identities, legitimacy tensions, and symbolic geogr
 > 📡 Cross-references:
 > 
 > - [🏛️ Shakespeare Already Told You Britain Was Regional](./🏛️_shakespeare_already_told_you_britain_was_regional.md) — *regional plurality and Shakespearean political geography*  
-> - [☕️ The Henry V of Local Elections Day](./☕️_the_henry_v_of_local_elections_day.md) — *regional archetypes and electoral atmosphere*  
-> - [📺 Beyond Regional TV](./📺_beyond_regional_tv.md) — *media flattening and regional compression*
+> - [☕️ The Henry V of Local Elections Day](../☕️_Post_Imperial_Weather/☕️_the_henry_v_of_local_elections_day.md) — *regional archetypes and electoral atmosphere*  
+> - [📺 Beyond Regional TV](../☕️_Post_Imperial_Weather/📺_beyond_regional_tv.md) — *media flattening and regional compression*
 > - [⚔️ The Wars of the Roses Across Eurasia](./⚔️_the_wars_of_the_roses_across_eurasia.md) — *dynastic fragmentation and centre/periphery conflict across large states*  
 >  
 > 🏮 Return To:  
