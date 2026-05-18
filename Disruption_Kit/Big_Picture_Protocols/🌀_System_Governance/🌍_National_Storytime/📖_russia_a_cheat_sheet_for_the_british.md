@@ -288,6 +288,8 @@ It examines how British historical instincts surrounding monarchy, aristocracy, 
 > - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](./🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial psychology and mirrored legitimacy systems*  
 > - [🏛️ Shakespeare Already Told You Britain Was Regional](./🏛️_shakespeare_already_told_you_britain_was_regional.md) — *regional identity and layered Britain*  
 > - [🕯️ The British Blind Spot](../☕️_Post_Imperial_Weather/🕯️_the_british_blind_spot.md) — *continuity myths and national self-perception*  
+> - [🩸 The Romanovs and British Aristocratic Imagination](./🩸_the_romanovs_and_british_aristocratic_imagination.md) — *aristocratic collapse, imperial anxiety, and British projection onto Russia*  
+> - [🪞 States Project Their Own Structure Onto Rivals](./🪞_states_project_their_own_structure_onto_rivals.md) — *comparative governance misrecognition and legitimacy projection*  
 >  
 > 🏮 Return To:  
 >
