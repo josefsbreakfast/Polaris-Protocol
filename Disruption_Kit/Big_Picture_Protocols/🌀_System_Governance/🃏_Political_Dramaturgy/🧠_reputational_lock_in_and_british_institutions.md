@@ -381,7 +381,11 @@ It examines how prestige systems and continuity-oriented governance cultures bec
 > - [☔️ Restorative Justice in a Shame Culture](./☔️_restorative_justice_in_a_shame_culture.md) — *survivable accountability under continuity anxiety*  
 > - [⚖️ Aequanimitas and the Stiff Upper Lip](./⚖️_aequanimitas_and_the_stiff_upper_lip.md) — *emotional restraint as governance infrastructure*  
 > - [🛰️ The Vulnerability of the Gatekeepers](./🛰️_the_vulnerability_of_the_gatekeepers.md) — *elite-network fragility and reputational exposure*  
-> - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular metaphor for continuity-oriented institutional systems*  
+> - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *vascular metaphor for continuity-oriented institutional systems*
+> - [🌱 The Broker Class and British Stagnation](./🌱_the_broker_class_and_british_stagnation.md) — *intermediary legitimacy and institutional drift*  
+> - [🧬 The Social Biology of Britain](./🧬_the_social_biology_of_britain.md) — *institutional metabolism and continuity tissue*  
+> - [🐝 Fluellen Was Right](./🐝_fluellen_was_right.md) — *procedural legitimacy and regional dignity archetypes*  
+> - [🎭 Shakespeare as Political Operating System](./🎭_shakespeare_as_political_operating_system.md) — *Shakespeare as institutional symbolic grammar*  
 >  
 > 🏮 Return To:  
 >  
