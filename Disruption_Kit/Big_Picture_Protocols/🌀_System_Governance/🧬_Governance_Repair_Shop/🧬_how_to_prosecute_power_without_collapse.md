@@ -236,7 +236,10 @@ It documents how elite accountability can be structured to strengthen — not de
 > - [⚖️ Risk Aversion Is Policy](./⚖️_risk_aversion_is_policy.md) — *why fear governs*  
 > - [⚖️ Non-Prosecution Teaches Impunity](./⚖️_non_prosecution_teaches_impunity.md) — *behavioural costs*  
 > - [🏛️ Elite Non-Prosecution Undermines the Rule of Law](./🏛️_elite_non_prosecution_undermines_the_rule_of_law.md) — *constitutional risk*  
-> - [🧬 What a CSA System Optimised for Prevention Looks Like](./🧬_what_a_csa_system_optimised_for_prevention_looks_like.md) — *design-first thinking*  
+> - [🧬 What a CSA System Optimised for Prevention Looks Like](./🧬_what_a_csa_system_optimised_for_prevention_looks_like.md) — *design-first thinking*
+> - [🏗️ Corrective Governance Architecture](./🏗️_corrective_governance_architecture.md) — *rebuilding governance after systemic failure*  
+> - [🪡 Oversight Repair Kit — Re-stitching Accountability Chains](./🪡_oversight_repair_kit.md) — *rewiring fragmented oversight structures*  
+> - [🌅 Rise of Institutional Integrity](./🌅_rise_of_institutional_integrity.md) — *democratic trust recovery and coherence rebuilding*  
 >  
 > 🏮 Return To:  
 >  
