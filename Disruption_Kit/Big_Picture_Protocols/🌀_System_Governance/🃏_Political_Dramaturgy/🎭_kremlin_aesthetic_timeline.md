@@ -375,7 +375,12 @@ It traces how symbolic environments, public atmosphere, and cultural aesthetics 
 > - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md)  
 > - [🎡 The Aesthetic Economy of States](./🎡_the_aesthetic_economy_of_states.md)  
 > - [🎪 Not Even a Mole To Be Found](../📚_Narrative_Management/🎪_not_even_a_mole_to_be_found.md)  
-> - [🍿 Imperial Core Drama Cycle](../☕️_Post_Imperial_Weather/🍿_imperial_core_drama_cycle.md)  
+> - [🍿 Imperial Core Drama Cycle](../☕️_Post_Imperial_Weather/🍿_imperial_core_drama_cycle.md)
+> - [🌐 Late-Stage Autocracy Vibe Diagnostics](./🌐_late_stage_autocracy_vibe_diagnostics.md) — *emotional instability preceding regime collapse*  
+> - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md) — *charisma erosion and symbolic exhaustion*  
+> - [🎡 The Aesthetic Economy of States](./🎡_the_aesthetic_economy_of_states.md) — *states competing through atmosphere, spectacle, and symbolic gravity*  
+> - [👑 Aurafarming A New Age](./👑_aurafarming_a_new_age.md) — *algorithmic legitimacy and parasocial symbolic authority*  
+> - [🥬 Prime Ministerial Lettuce Duration Forecasting](./🥬_lettuce_volatility_index_lvix.md) — *satirical instability diagnostics in British governance culture*  
 >   
 > 🏮 Return To:
 >
