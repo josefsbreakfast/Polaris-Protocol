@@ -425,14 +425,22 @@ burlesque grammar, unveiling ritual, symbolic spectacle, racialised theatre, pub
 
 ## 🏮 Footer  
 
-*Why Alt-Right Burlesque Burkha Play Feels Weird* is a living node of the **Polaris Protocol**.  
+*🇬🇧 Why Alt-Right Burlesque Burkha Play Feels Weird* is a living node of the **Polaris Protocol**.  
 It examines symbolic unveiling rituals, racialised public spectacle, and the unstable overlap between political theatre, spectatorship, humiliation dynamics, and civic performance within contemporary culture-war environments.  
 
 > 📡 Cross-references:
 > 
-> - [☕️ Post-Imperial Weather](../☕️_Post-Imperial_Weather/) — *emotional atmospheres and symbolic performance within post-imperial British culture*  
-> - [📚 Narrative Management](../📚_Narrative_Management/) — *media framing, spectacle construction, and reputational governance systems*  
-> - [🌸 Containment Studies](../🌸_Containment_Studies/) — *symbolic containment, public boundaries, and civic legitimacy under pressure*  
+> - [☕️ Post-Imperial Weather](../☕️_Post-Imperial_Weather/README.md) — *emotional atmospheres and symbolic performance within post-imperial British culture*  
+> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *media framing, spectacle construction, and reputational governance systems*  
+> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *symbolic containment, public boundaries, and civic legitimacy under pressure*  
+>  
+> 🏮 Return To:  
+>
+> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
