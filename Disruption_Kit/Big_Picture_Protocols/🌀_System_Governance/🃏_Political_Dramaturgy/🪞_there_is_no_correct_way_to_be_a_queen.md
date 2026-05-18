@@ -1,5 +1,5 @@
 # 🪞 There Is No Correct Way to Be a Queen  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-15  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
 *How female sovereigns become trapped inside permanently contradictory symbolic expectations which cannot fully be resolved.*  
 
 ---
@@ -358,4 +358,4 @@ It examines how female sovereigns become trapped within permanently contradictor
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-18_
