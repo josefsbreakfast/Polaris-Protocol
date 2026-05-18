@@ -1,5 +1,5 @@
 # 🌹 Labour as Alt-Right SPV  
-**First created:** 2025-12-31 | **Last updated:** 2026-05-11  
+**First created:** 2025-12-31 | **Last updated:** 2026-05-18  
 *How right-wing populist logics can be routed through left institutional legitimacy.*  
 
 ---
@@ -225,7 +225,7 @@ The node focuses on:
 >   
 > 🏮 Return To:
 >
-> - [📚 Narrative Management](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
@@ -233,4 +233,4 @@ The node focuses on:
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-18_
