@@ -280,7 +280,13 @@ It examines Fluellen as a recurring British archetype of procedural legitimacy: 
 > 
 > - [🎭 Shakespeare as Political Operating System](./🎭_shakespeare_as_political_operating_system.md) — *archetypes, legitimacy, and British political theatre*  
 > - [☕️ The Henry V of Local Elections Day](../☕️_Post_Imperial_Weather/☕️_the_henry_v_of_local_elections_day.mdd) — *regional identity and political familiarity*  
-> - [🏛️ Shakespeare Already Told You Britain Was Regional](../🌍_National_Storytime/🏛️_shakespeare_already_told_you_britain_was_regional.md) — *county identity and political pluralism*  
+> - [🏛️ Shakespeare Already Told You Britain Was Regional](../🌍_National_Storytime/🏛️_shakespeare_already_told_you_britain_was_regional.md) — *county identity and political pluralism*
+> - [⚖️ Aequanimitas and the Stiff Upper Lip](./⚖️_aequanimitas_and_the_stiff_upper_lip.md) — *emotional restraint as governance virtue*  
+> - [🌱 The Broker Class and British Stagnation](./🌱_the_broker_class_and_british_stagnation.md) — *intermediary legitimacy and institutional drift*  
+> - [🌿 Xylem and Phloem Governance](./🌿_xylem_and_phloem_governance.md) — *Britain as vascular signalling organism*  
+> - [🧬 The Social Biology of Britain](./🧬_the_social_biology_of_britain.md) — *institutional metabolism and continuity tissue*  
+> - [🛰️ The Vulnerability of the Gatekeepers](./🛰️_the_vulnerability_of_the_gatekeepers.md) — *reputational fragility within elite intermediary systems*  
+> - [🧠 Reputational Lock-In and British Institutions](./🧠_reputational_lock_in_and_british_institutions.md) — *prestige systems and defensive continuity escalation*  
 >  
 > 🏮 Return To:  
 >
