@@ -1,10 +1,10 @@
 # 🪞 States Project Their Own Structure Onto Rivals  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
 *How states repeatedly misinterpret rivals by unconsciously assuming that other political systems organise legitimacy, identity, hierarchy, and power in ways similar to themselves.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines a recurring problem in:
 - geopolitics,
@@ -55,7 +55,7 @@ This node therefore studies:
 
 ---
 
-# 🏛️ I. Human Systems Interpret Through Familiarity  
+## 🏛️ Human Systems Interpret Through Familiarity  
 
 Humans rarely interpret unfamiliar systems neutrally.
 
@@ -78,7 +78,7 @@ This creates:
 
 ---
 
-# 🌍 II. States Mistake Their Own Structures For Universal Reality  
+## 🌍 States Mistake Their Own Structures For Universal Reality  
 
 Long-standing political systems frequently begin experiencing:
 - their institutions,
@@ -104,7 +104,7 @@ onto:
 
 ---
 
-# 👑 III. Symbolic Governance Is Especially Difficult To Recognise  
+## 👑 Symbolic Governance Is Especially Difficult To Recognise  
 
 States often struggle to perceive:
 - their own mythology,
@@ -131,7 +131,7 @@ The projection therefore becomes:
 
 ---
 
-# ⚖️ IV. Projection Distorts Strategic Interpretation  
+## ⚖️ Projection Distorts Strategic Interpretation  
 
 Projection can produce major strategic failures.
 
@@ -158,7 +158,7 @@ The projecting state then misreads:
 
 ---
 
-# 🧠 V. Continuity Intensifies Projection  
+## 🧠 Continuity Intensifies Projection  
 
 Systems shaped by:
 - continuity,
@@ -184,7 +184,7 @@ This weakens:
 
 ---
 
-# 🏙️ VI. Metropolitan Systems Project Metropolitan Logic  
+## 🏙️ Metropolitan Systems Project Metropolitan Logic  
 
 Capitals and elite institutions frequently assume:
 - centralised media,
@@ -206,7 +206,7 @@ This often produces:
 
 ---
 
-# 🇷🇺🇬🇧 VII. Britain And Russia Demonstrate Mutual Projection Clearly  
+## 🇷🇺🇬🇧 Britain And Russia Demonstrate Mutual Projection Clearly  
 
 Britain and Russia frequently interpret one another through:
 - mirrored assumptions,
@@ -233,7 +233,7 @@ But asymmetrically.
 
 ---
 
-# 🌫️ VIII. Projection Simplifies Complex States Into Caricatures  
+## 🌫️ Projection Simplifies Complex States Into Caricatures  
 
 Projection encourages states to reduce rivals into:
 - simplified archetypes,
@@ -252,7 +252,7 @@ The rival state becomes:
 
 ---
 
-# 🎭 IX. Projection Reveals The Projecting State  
+## 🎭 Projection Reveals The Projecting State  
 
 Ironically:
 > projection often reveals more about the observer than the observed.
@@ -270,7 +270,7 @@ Geopolitical interpretation therefore often functions partly as:
 
 ---
 
-# 🪞 X. States See Rivals Through Mirrors  
+## 🪞 States See Rivals Through Mirrors  
 
 The phrase:
 > “states project their own structure onto rivals”
@@ -305,15 +305,23 @@ projection, geopolitics, institutional cognition, legitimacy, symbolic governanc
 
 ## 🏮 Footer  
 
-*States Project Their Own Structure Onto Rivals* is a living node of the **Polaris Protocol**.  
+*🪞 States Project Their Own Structure Onto Rivals* is a living node of the **Polaris Protocol**.  
 It examines how political systems repeatedly misinterpret rivals by unconsciously assuming that other states organise legitimacy, hierarchy, sovereignty, and emotional governance according to familiar internal structures.  
 
 > 📡 Cross-references:
 > 
 > - [🧠 Continuity Creates Blindness](./🧠_continuity_creates_blindness.md) — *familiarity blindness and institutional self-misrecognition*  
 > - [🪞 Britain Misunderstands Russia Because Britain Misunderstands Itself](./🪞_britain_misunderstands_russia_because_britain_misunderstands_itself.md) — *continuity myths and geopolitical interpretation failure*  
-> - [🪞 Asymmetrical Recognition as Achilles Heel](./🪞_asymmetrical_recognition_as_achilles_heel.md) — *uneven political self-awareness and strategic vulnerability*  
+> - [🪞 Asymmetrical Recognition as Achilles Heel](./🪞_asymmetrical_recognition_as_achilles_heel.md) — *uneven political self-awareness and strategic vulnerability*
+>  
+> 🏮 Return To:  
+>
+> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-18_
