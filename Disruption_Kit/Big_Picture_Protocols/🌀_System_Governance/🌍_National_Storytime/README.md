@@ -69,16 +69,67 @@ Key questions include:
 - collective memory  
 
 ---
+## 🛸 Cluster Map  
 
-## 🛸 Included Nodes  
+### ⚔️ Dynastic Memory & Regional Legitimacy  
+How succession conflict, regional fragmentation, and emotional geography continue to shape political cultures long after formal wars end.
 
-- 🇩🇪 Trauma Sovereignty as Foreign Policy  
-- 🌀 Dual Loyalty Loops  
-- 🌹 Labour as Alt-Right SPV  
-- 🗳️ The Corbyn–Starmer Consent Mechanism  
-- 🧵 Old Guard Optics  
-- 🧨 Why Argumentation Fails With Alt-Right Ideology  
-- 🧨 Semantic Collapse  
+- [⚔️ The Wars of the Roses Never Ended](./⚔️_the_wars_of_the_roses_never_ended.md) — regional legitimacy tensions echoing through modern Britain  
+- [⚔️ The Wars of the Roses Across Eurasia](./⚔️_the_wars_of_the_roses_across_eurasia.md) — dynastic fragmentation and centre/periphery conflict across large states  
+- [🏛️ Shakespeare Already Told You Britain Was Regional](./🏛️_shakespeare_already_told_you_britain_was_regional.md) — Shakespearean Britain as emotionally plural and politically uneven  
+
+---
+
+### 🇷🇺 Imperial Mirrors & Eurasian Legibility  
+Comparative mythologies, emotional projection, and the difficulty states have understanding one another outside their own narrative structures.
+
+- [🇷🇺🇬🇧 The Russia of the West; The UK of the East](./🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — Britain and Russia as mutually recognisable continuity systems  
+- [📖 Russia: A Cheat Sheet for the British](./📖_russia_a_cheat_sheet_for_the_british.md) — translating Russian governance instincts into British analogical language  
+- [🩸 The Romanovs and British Aristocratic Imagination](./🩸_the_romanovs_and_british_aristocratic_imagination.md) — aristocratic collapse, imperial anxiety, and British projection onto Russia  
+- [🪞 States Project Their Own Structure Onto Rivals](./🪞_states_project_their_own_structure_onto_rivals.md) — comparative governance misrecognition and legitimacy projection  
+
+---
+
+### 🩸 Trauma, Identity & Narrative Inheritance  
+How historical trauma becomes embedded within state identity, diaspora experience, and national moral frameworks.
+
+- [🇩🇪 Trauma Sovereignty as Foreign Policy](./🇩🇪_trauma_sovereignty_as_foreign_policy.md) — trauma-coded legitimacy within German geopolitical identity  
+- [🌀 Dual Loyalty Loops](./🌀_dual_loyalty_loops.md) — no-win identity traps imposed upon diaspora Jews  
+
+---
+
+### 🗳️ Liberal Democracy, Consent & Semantic Breakdown  
+How democratic legitimacy destabilises when institutional language loses coherence or emotional credibility.
+
+- [🗳️ The Corbyn–Starmer Consent Mechanism](./🗳️_the_corbyn_starmer_consent_mechanism.md) — electability bargains and conditional democratic consent  
+- [🧵 Old Guard Optics](./🧵_old_guard_optics.md) — institutional reassurance becoming alienating in low-trust systems  
+- [🌹 Labour as Alt-Right SPV](./🌹_labour_as_alt_right_spv.md) — populist right logics routed through centre-left legitimacy systems  
+- [🧨 Semantic Collapse](./🧨_semantic_collapse.md) — liberal-democratic language breakdown under authoritarian framing pressure  
+- [🧨 Why Argumentation Fails With Alt-Right Ideology](./🧨_why_argumentation_fails_with_alt_right_ideology.md) — moral-treason logic and the collapse of deliberative debate frameworks  
+
+---
+
+## 🧭 Suggested Reading Pathways  
+
+### For British regional legitimacy systems:
+⚔️ Wars of the Roses Never Ended  
+→ 🏛️ Shakespeare Already Told You Britain Was Regional  
+→ 🇷🇺🇬🇧 The Russia of the West; The UK of the East  
+
+### For comparative empire and Russia studies:
+📖 Russia: A Cheat Sheet for the British  
+→ 🪞 States Project Their Own Structure Onto Rivals  
+→ 🩸 The Romanovs and British Aristocratic Imagination  
+
+### For democratic semantic instability:
+🧵 Old Guard Optics  
+→ 🗳️ The Corbyn–Starmer Consent Mechanism  
+→ 🧨 Semantic Collapse  
+→ 🧨 Why Argumentation Fails With Alt-Right Ideology  
+
+### For trauma and inherited identity:
+🇩🇪 Trauma Sovereignty as Foreign Policy  
+→ 🌀 Dual Loyalty Loops  
 
 ---
 
