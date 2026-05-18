@@ -107,7 +107,7 @@ alt‑right, debate collapse, moral treason, pluralism failure, worldview confli
 >  
 > 🏮 Return To:  
 >
-> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌍 National Storytime](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
