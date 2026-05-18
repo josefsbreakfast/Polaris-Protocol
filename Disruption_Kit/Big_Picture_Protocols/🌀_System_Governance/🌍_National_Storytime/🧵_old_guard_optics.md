@@ -952,7 +952,11 @@ Using Tyne and Wear as a regional case study, this node additionally maps how de
 > 📡 Cross-references:
 >
 > - [☕️ The Eerie Of Elections — 2026 Edition](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/☕️_the_eerie_of_elections_2026_edition.md) — *fragmentation, sentiment instability, and voter distrust*  
-> - [🚀 Procedure vs Perception](../🧠_Apparatchik_Philosophy/🚀_procedure_vs_perception.md) — *where institutional logic collides with public emotional interpretation*  
+> - [🚀 Procedure vs Perception](../🧠_Apparatchik_Philosophy/🚀_procedure_vs_perception.md) — *where institutional logic collides with public emotional interpretation*
+> - [🗳️ The Corbyn–Starmer Consent Mechanism](./🗳️_the_corbyn_starmer_consent_mechanism.md) — *electability bargains and conditional democratic consent*  
+> - [🌹 Labour as Alt-Right SPV](./🌹_labour_as_alt_right_spv.md) — *populist right logics routed through centre-left legitimacy systems*  
+> - [🧨 Semantic Collapse](./🧨_semantic_collapse.md) — *liberal-democratic language breakdown under authoritarian framing pressure*  
+> - [🧨 Why Argumentation Fails With Alt-Right Ideology](./🧨_why_argumentation_fails_with_alt_right_ideology.md) — *moral-treason logic and the collapse of deliberative debate frameworks*  
 >  
 > 🏮 Return To:  
 >
