@@ -214,7 +214,9 @@ It explains how transparent civic structures stabilise institutional perception,
 
 > 📡 Cross-References:
 > 
-> - []()  
+> - [👁️ Restoring Epistemic Integrity](./👁️_restoring_epistemic_integrity.md) — *rebuilding trustworthy institutional knowledge systems*  
+> - [📜 Duty to Correct: How Public Bodies Must Fix Wrong Data](./📜_duty_to_correct.md) — *correction rights as democratic infrastructure*  
+> - [🧬 Transparency as Antigenic Defence](./🧬_transparency_as_antigenic_defence.md) — *democratic openness as immune defence against authoritarian drift*  
 >  
 > 🏮 Return To:  
 >  
