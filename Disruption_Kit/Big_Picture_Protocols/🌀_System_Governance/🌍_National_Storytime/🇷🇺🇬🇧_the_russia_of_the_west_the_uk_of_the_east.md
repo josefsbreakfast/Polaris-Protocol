@@ -376,7 +376,6 @@ It examines how Britain and Russia remain unexpectedly legible to one another th
 > 
 > - [🕯️ The British Blind Spot](../☕️_Post_Imperial_Weather/🕯️_the_british_blind_spot.md) — *continuity psychology and imperial self-perception*  
 > - [🏛️ Shakespeare Already Told You Britain Was Regional](./🏛️_shakespeare_already_told_you_britain_was_regional.md) — *regional identity and layered Britain*  
-> - [🩸 The Romanovs Frightened Britain Because Britain Recognised Them](./🩸_the_romanovs_frightened_britain_because_britain_recognised_them.md) — *aristocratic collapse and legitimacy anxiety*  
 > - [📖 Russia: A Cheat Sheet for the British](./📖_russia_a_cheat_sheet_for_the_british.md) — *translating Russian governance instincts into British analogical language*  
 > - [🩸 The Romanovs and British Aristocratic Imagination](./🩸_the_romanovs_and_british_aristocratic_imagination.md) — *aristocratic collapse, imperial anxiety, and British projection onto Russia*  
 > - [🪞 States Project Their Own Structure Onto Rivals](./🪞_states_project_their_own_structure_onto_rivals.md) — *comparative governance misrecognition and legitimacy projection*  
