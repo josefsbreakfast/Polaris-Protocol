@@ -1,5 +1,5 @@
 # 🏗️ Corrective Governance Architecture  
-**First created:** 2025-11-19 | **Last updated:** 2026-05-12  
+**First created:** 2025-11-19 | **Last updated:** 2026-05-18  
 *The structural blueprint for how institutions reconstruct their governance, safeguards, oversight, and interpretive mechanisms following full-stack collapse.*  
 
 ---
@@ -271,4 +271,4 @@ This node links directly to:
 
 This is the structural blueprint that leads into the last and final chapter of the entire collapse arc.
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-05-18_
