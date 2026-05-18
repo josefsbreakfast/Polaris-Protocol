@@ -188,7 +188,7 @@ It frames correction not as clerical nicety but as essential civic infrastructur
 >  
 > 🏮 Return To:  
 >  
-> - [⚖️ Legal & State Governance](./README.md)  
+> - [🧬 Governance Repair Shop](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
