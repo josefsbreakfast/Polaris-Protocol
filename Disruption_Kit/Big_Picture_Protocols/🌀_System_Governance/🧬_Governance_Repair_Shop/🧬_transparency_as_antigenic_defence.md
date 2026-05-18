@@ -4,7 +4,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 Secrecy breeds speculation; speculation breeds fear; fear breeds control.  
 Transparency, by contrast, works like a **booster shot** in the body politic — a controlled exposure to truth that strengthens collective immunity against disinformation and authoritarian drift.  
 
@@ -13,7 +13,7 @@ instead of a state attacking its own information cells, a transparent democracy 
 
 ---
 
-## 🧩 Key Features  
+## ✨ Key Features  
 - **Transparency as antigen:** releasing accurate but awkward data trains the public’s cognitive immune system.  
 - **Citizen journalism as white blood cells:** decentralised verification patrols falsehoods.  
 - **Speculation as pathogen:** secrecy creates informational vacuums that conspiracy fills.  
