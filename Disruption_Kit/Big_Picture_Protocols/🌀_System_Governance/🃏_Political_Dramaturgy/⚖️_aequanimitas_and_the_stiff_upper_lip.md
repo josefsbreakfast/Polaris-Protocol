@@ -1,5 +1,5 @@
 # ⚖️ Aequanimitas and the Stiff Upper Lip  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-15  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-18  
 *How emotional restraint became institutional virtue inside British governance culture.*  
 
 ---
@@ -388,4 +388,4 @@ It documents how emotional restraint became embedded within British governance a
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-18_
