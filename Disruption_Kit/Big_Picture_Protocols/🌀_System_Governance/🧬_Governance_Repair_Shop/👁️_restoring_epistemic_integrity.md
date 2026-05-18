@@ -262,7 +262,7 @@ It completes the collapse → reconstruction arc by identifying the moment an in
 >  
 > 🏮 Return To:  
 >
-> - [👑 Ownership & Control](./README.md)  
+> - [🧬 Governance Repair Shop](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
