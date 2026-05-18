@@ -247,7 +247,10 @@ bureaucratic archetypes, governance psychology, institutional behaviour, procedu
 > - [🧠 Institutional Weather Systems](../🧠_Apparatchik_Philosophy/🧠_institutional_weather_systems.md)  
 > - [🔍 Institutional Freeze Patterns](../💫_Containment_Logic/🔍_institutional_freeze_patterns.md)  
 > - [🔮 Post-Chaos Governance Archetypes](../../🦕_Elder_Influencers/🕸️_World_Webs/🔮_post_chaos_governance_archetypes.md)  
-> - *🧿 Survivor Credibility Loops* - *pending*  
+> - [🩸 Ideological Skinwalkers](./🩸_ideological_skinwalkers.md) — *conviction becoming aesthetic costume*  
+> - [🎭 Witch Girl vs Sensible Man Archetypes](./🎭_witch_girl_vs_sensible_man_archetypes.md) — *gendered legitimacy scripts and emotional coding*  
+> - [🧨 Centre-Left Threat Archetypes](./🧨_centre_left_threat_archetypes.md) — *personalities destabilising centre-left legitimacy systems*  
+> - [🏛️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments](./🏛️_the_duel_of_temperaments.md) — *temperament as civilisational legitimacy coding*  
 >   
 > 🏮 Return To:
 >
