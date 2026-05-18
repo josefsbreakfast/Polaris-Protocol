@@ -708,7 +708,12 @@ The node additionally examines how participatory media environments are altering
 > 
 > - [👑 Queenhood and the Theatre of Purity](./👑_queenhood_and_the_theatre_of_purity.md)  
 > - [🪞 Meme As Signal Object](../../../../⚗️_Apothecary/🧪_Temperaments/🪞_meme_as_signal_object.md)  
-> - [👑 The Female Sovereign as Patriarchal Apex](./👑_the_female_sovereign_as_patriarchal_apex.md)  
+> - [👑 The Female Sovereign as Patriarchal Apex](./👑_the_female_sovereign_as_patriarchal_apex.md)
+> - [🌐 Late-Stage Autocracy Vibe Diagnostics](./🌐_late_stage_autocracy_vibe_diagnostics.md) — *emotional instability preceding regime collapse*  
+> - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md) — *charisma erosion and symbolic exhaustion*  
+> - [🎭 The Kremlin Aesthetic Timeline](./🎭_kremlin_aesthetic_timeline.md) — *post-Soviet aesthetic contraction and bunkerisation*  
+> - [🎡 The Aesthetic Economy of States](./🎡_the_aesthetic_economy_of_states.md) — *states competing through atmosphere, spectacle, and symbolic gravity*  
+> - [🥬 Prime Ministerial Lettuce Duration Forecasting](./🥬_lettuce_volatility_index_lvix.md) — *satirical instability diagnostics in British governance culture*  
 > 
 > 🏮 Return To:  
 >  
