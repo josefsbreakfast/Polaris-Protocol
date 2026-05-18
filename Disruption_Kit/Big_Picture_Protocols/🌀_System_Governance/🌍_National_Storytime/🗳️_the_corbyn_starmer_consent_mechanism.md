@@ -1,6 +1,6 @@
 # 🗳️ The Corbyn–Starmer Consent Mechanism  
-**First created:** 2025-11-22 | **Last updated:** 2026-05-11  
-*How Labour voters traded idealism for electability—on the condition of democratic reform.*
+**First created:** 2025-11-22 | **Last updated:** 2026-05-18  
+*How Labour voters traded idealism for electability—on the condition of democratic reform.*  
 
 ---
 
@@ -111,7 +111,7 @@ corbyn, starmer, labour coalition, consent mechanism, democratic reform, politic
 >   
 > 🏮 Return To:
 >
-> - [📚 Narrative Management](./README.md)
+> - [🃏 Political Dramaturgy](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
@@ -119,4 +119,4 @@ corbyn, starmer, labour coalition, consent mechanism, democratic reform, politic
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-18_
