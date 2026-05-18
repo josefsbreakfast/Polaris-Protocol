@@ -204,7 +204,8 @@ It documents the conditions under which non-carceral justice models reduce harm 
 > - [🧬 What a CSA System Optimised for Prevention Looks Like](./🧬_what_a_csa_system_optimised_for_prevention_looks_like.md) — *prevention-first design*  
 > - [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) — *accountability architecture*  
 > - [⚖️ Risk Aversion Is Policy](./⚖️_risk_aversion_is_policy.md) — *avoidance vs responsibility*  
-> - [🧨 If You Don’t Prosecute, You Invite Predators](./🧨_if_you_dont_prosecute_you_invite_predators.md) — *deterrence limits*
+> - [🧨 If You Don’t Prosecute, You Invite Predators](./🧨_if_you_dont_prosecute_you_invite_predators.md) — *deterrence limits*  
+> - [🫀 AI Black Box Inquests](./🫀_ai_black_box_inquests.md) — *mandate collapse and investigatory failure in AI-linked harms*  
 >  
 > 🏮 Return To:  
 >  
