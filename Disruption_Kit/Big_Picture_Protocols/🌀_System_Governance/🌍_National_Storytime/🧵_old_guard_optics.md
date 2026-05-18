@@ -1,5 +1,5 @@
 # 🧵 Old Guard Optics  
-**First created:** 2026-05-09 | **Last updated:** 2026-05-11  
+**First created:** 2026-05-09 | **Last updated:** 2026-05-18  
 *How institutional reassurance can become electorally alienating in low-trust political environments.*  
 
 ---
@@ -953,8 +953,16 @@ Using Tyne and Wear as a regional case study, this node additionally maps how de
 >
 > - [📚 Narrative Management](./README.md) — *public perception, symbolic framing, and legitimacy systems*  
 > - [☕️ The Eerie Of Elections — 2026 Edition](../☕️_the_eerie_of_elections_2026_edition.md) — *fragmentation, sentiment instability, and voter distrust*  
-> - [🚀 Procedure vs Perception](../🚀_procedure_vs_perception.md) — *where institutional logic collides with public emotional interpretation*  
+> - [🚀 Procedure vs Perception](../🚀_procedure_vs_perception.md) — *where institutional logic collides with public emotional interpretation*
+>  
+> 🏮 Return To:  
+>
+> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-18_
