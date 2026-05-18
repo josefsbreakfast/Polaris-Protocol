@@ -351,6 +351,12 @@ It examines how patriarchal monarchies repeatedly transform queens into symbolic
 > - [🪞 There Is No Correct Way to Be a Queen](./🪞_there_is_no_correct_way_to_be_a_queen.md) — *contradictory expectations surrounding queenship*  
 > - [👑 The "Problem" of the Female Heir](./👑_the_problem_of_the_female_heir.md) — *dynastic legitimacy and patriarchal contradiction*  
 > - [🪶 The Queen as National Emotional Container](./🪶_the_queen_as_national_emotional_container.md) — *symbolic femininity and emotional governance*
+> - [🌹 The Body of the Queen and the Body of the State](./🌹_the_body_of_the_queen_and_the_body_of_the_state.md) — *monarchy as embodied national continuity*  
+> - [👑 Queenhood and the Theatre of Purity](./👑_queenhood_and_the_theatre_of_purity.md) — *purity performance as legitimacy stabilisation*  
+> - [👑 The Female Sovereign as Patriarchal Apex](./👑_the_female_sovereign_as_patriarchal_apex.md) — *queens as intensified patriarchal legitimacy*  
+> - [🪞 There Is No Correct Way to Be a Queen](./🪞_there_is_no_correct_way_to_be_a_queen.md) — *contradictory symbolic expectations imposed upon female rulers*  
+> - [👑 Elizabeth I and Catherine the Great](./👑_elizabeth_i_and_catherine_the_great.md) — *comparative female sovereignty and patriarchal consolidation*  
+
 >  
 > 🏮 Return To:  
 >
