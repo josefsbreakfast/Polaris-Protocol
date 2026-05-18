@@ -34,7 +34,7 @@ It visualises how bare-minimum compliance leads to containment fatigue, exposing
 >  
 > 🏮 Return To:  
 >  
-> - [📚 Narrative Management](./README.md)  
+> - [🧬 Governance Repair Shop](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
