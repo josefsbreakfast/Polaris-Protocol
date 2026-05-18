@@ -1,5 +1,5 @@
 # 🏛️ Shakespeare Already Told You Britain Was Regional  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
 *How Shakespeare’s histories demonstrate that Britain has long understood itself as regionally plural, emotionally layered, and politically uneven.*  
 
 ---
@@ -270,15 +270,23 @@ shakespeare, henry v, britain, regional identity, county identity, wars of the r
 
 ## 🏮 Footer  
 
-*Shakespeare Already Told You Britain Was Regional* is a living node of the **Polaris Protocol**.  
+*🏛️ Shakespeare Already Told You Britain Was Regional* is a living node of the **Polaris Protocol**.  
 It examines how Shakespeare’s histories portray Britain as politically layered, emotionally plural, and regionally differentiated — and how many of those structures remain recognisable within modern British political culture.  
 
 > 📡 Cross-references:
 > 
 > - [🎭 Shakespeare as Political Operating System](./🎭_shakespeare_as_political_operating_system.md) — *political archetypes and symbolic legitimacy*  
 > - [☕️ The Henry V of Local Elections Day](./☕️_the_henry_v_of_local_elections_day.md) — *regional archetypes and electoral atmosphere*  
-> - [📺 Beyond Regional TV](./📺_beyond_regional_tv.md) — *media flattening and metropolitan perspective*  
+> - [📺 Beyond Regional TV](./📺_beyond_regional_tv.md) — *media flattening and metropolitan perspective*
+>  
+> 🏮 Return To:  
+>
+> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-18_
