@@ -350,7 +350,10 @@ It documents the stabilisation behaviours institutions adopt after recognising f
 > 📡 Cross-references:
 > 
 > - [🗂️ When the System Realises It Fucked Up](../📚_Narrative_Management/🗂️_when_the_system_realises_it_fucked_up.md)  
-> - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md)  
+> - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md)
+> - [🩹 Triad — Tickbox, Containment Fatigue & Patch Repair](./🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md) — *minimal compliance cycles and institutional exhaustion*  
+> - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md) — *recognising systemic failure and transitioning toward repair*  
+> - [🧬 Keystone RCA](./🧬_keystone_rca.md) — *root-cause analysis at executive and inquiry level*  
 >  
 > 🏮 Return To:  
 >  
