@@ -219,9 +219,8 @@ The node focuses on:
 
 > 📡 Cross-references:
 > 
-> - [🏛️ Protect Checks and Balances](./🏛️_protect_checks_and_balances.md) — *institutional safeguards under pressure.*  
-> - [🌀 Systems & Governance](../Big_Picture_Protocols/🌀_systems_and_governance.md) — *power architecture and structural convergence.*  
-> - [🌐 Late-Stage Autocracy Vibe Diagnostics](./🌐_late_stage_autocracy_vibe_diagnostics.md) — *emotional and aesthetic indicators of institutional drift.*
+> - [🏛️ Protect Checks and Balances] — *institutional safeguards under pressure*  
+> - [🌐 Late-Stage Autocracy Vibe Diagnostics](../🃏_Political_Dramaturgy/🌐_late_stage_autocracy_vibe_diagnostics.md) — *emotional and aesthetic indicators of institutional drift*
 >   
 > 🏮 Return To:
 >
