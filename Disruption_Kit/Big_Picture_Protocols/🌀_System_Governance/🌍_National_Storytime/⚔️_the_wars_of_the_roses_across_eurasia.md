@@ -1,5 +1,5 @@
 # ⚔️ The Wars of the Roses Across Eurasia  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
 *How dynastic legitimacy conflict, regional fragmentation, aristocratic competition, and centre/periphery struggle recur across large historical states far beyond England itself.*  
 
 ---
@@ -306,4 +306,4 @@ It examines how dynastic legitimacy conflict, regional fragmentation, aristocrat
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-18_
