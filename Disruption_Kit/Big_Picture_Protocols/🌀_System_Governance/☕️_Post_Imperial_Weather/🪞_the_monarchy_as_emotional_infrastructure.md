@@ -313,6 +313,13 @@ It examines how modern monarchy frequently survives less through executive autho
 > - [🕯️ Elizabeth II and the Last Sacred Queen](./🕯️_elizabeth_ii_and_the_last_sacred_queen.md) — *continuity symbolism and sacred monarchy*  
 > - [🪶 The Queen as National Emotional Container](../🃏_Political_Dramaturgy/🪶_the_queen_as_national_emotional_container.md) — *emotional projection and symbolic motherhood*  
 > - [🕯️ The British Blind Spot](./🕯️_the_british_blind_spot.md) — *continuity psychology and post-imperial identity*
+> - [🌹 The Body of the Queen and the Body of the State](../🃏_Political_Dramaturgy/🌹_the_body_of_the_queen_and_the_body_of_the_state.md) — *monarchy as embodied national continuity*  
+> - [👑 Queenhood and the Theatre of Purity](../🃏_Political_Dramaturgy/👑_queenhood_and_the_theatre_of_purity.md) — *purity performance as legitimacy stabilisation*  
+> - [👑 The Female Sovereign as Patriarchal Apex](../🃏_Political_Dramaturgy/👑_the_female_sovereign_as_patriarchal_apex.md) — *queens as intensified patriarchal legitimacy*  
+> - [👑 The "Problem" of the Female Heir](../🃏_Political_Dramaturgy/👑_the_problem_of_the_female_heir.md) — *hereditary patriarchy and dynastic instability*  
+> - [🪞 There Is No Correct Way to Be a Queen](../🃏_Political_Dramaturgy/🪞_there_is_no_correct_way_to_be_a_queen.md) — *contradictory symbolic expectations imposed upon female rulers*  
+> - [👑 Elizabeth I and Catherine the Great](../🃏_Political_Dramaturgy/👑_elizabeth_i_and_catherine_the_great.md) — *comparative female sovereignty and patriarchal consolidation*  
+
 >
 > 🏮 Return To:
 >
