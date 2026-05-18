@@ -1,5 +1,5 @@
 # 👁️ Restoring Epistemic Integrity  
-**First created:** 2025-11-19 | **Last updated:** 2026-05-12  
+**First created:** 2025-11-19 | **Last updated:** 2026-05-18  
 *How institutions regain control over their data, systems, and decision-making authority after epistemic collapse.*
 
 ---
@@ -271,4 +271,4 @@ It completes the collapse → reconstruction arc by identifying the moment an in
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-05-18_
