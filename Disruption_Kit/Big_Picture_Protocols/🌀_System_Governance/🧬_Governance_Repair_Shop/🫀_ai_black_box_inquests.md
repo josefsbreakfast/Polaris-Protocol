@@ -281,7 +281,9 @@ It examines AI-linked harm through the lens of investigative ownership and manda
 > 
 > - [⚖️ Architecture of Complicity](./⚖️_architecture_of_complicity.md) — *distributed responsibility under system failure*  
 > - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *shielded authority in optimisation regimes*  
-> - [📚 Memory, Market, and the Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md) — *extractive custody and epistemic power*  
+> - [📚 Memory, Market, and the Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md) — *extractive custody and epistemic power*
+> - [🧬 Restorative and Transformative Justice — Where It Actually Works](./🧬_restorative_and_transformative_justice_where_it_actually_works.md) — *evidence-based restorative application versus romanticisation*  
+> - [🧬 What a CSA System Optimised for Prevention Looks Like](./🧬_what_a_csa_system_optimised_for_prevention_looks_like.md) — *prevention-first safeguarding infrastructure*  
 >   
 > 🏮 Return To:
 >
