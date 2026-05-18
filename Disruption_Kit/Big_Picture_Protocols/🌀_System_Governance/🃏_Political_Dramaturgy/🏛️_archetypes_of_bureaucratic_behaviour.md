@@ -1,5 +1,5 @@
 # 🏛️ Archetypes of Bureaucratic Behaviour  
-**First created:** 2025-11-16 | **Last updated:** 2026-05-15  
+**First created:** 2025-11-16 | **Last updated:** 2026-05-18  
 *How institutions slip into recurring behavioural “modes” — The Hierophant, The Fog Machine, The Fortress, The Mirror Pool, The Tower, and The Soft Clerk — and how these archetypes shape survivor experience, decision-making, and institutional tone.*  
 
 ---
@@ -259,4 +259,4 @@ bureaucratic archetypes, governance psychology, institutional behaviour, procedu
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-18_
