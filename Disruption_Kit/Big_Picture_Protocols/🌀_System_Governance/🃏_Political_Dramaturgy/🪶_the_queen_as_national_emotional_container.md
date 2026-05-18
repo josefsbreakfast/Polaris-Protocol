@@ -291,7 +291,12 @@ It examines how queenship frequently functions as emotional infrastructure withi
 > 
 > - [👑 The Female Sovereign as Patriarchal Apex](./👑_the_female_sovereign_as_patriarchal_apex.md) — *sovereign femininity and concentrated legitimacy*  
 > - [🌹 The Body of the Queen and the Body of the State](./🌹_the_body_of_the_queen_and_the_body_of_the_state.md) — *embodiment, continuity, and bodily sovereignty*  
-> - [🪞 There Is No Correct Way to Be a Queen](./🪞_there_is_no_correct_way_to_be_a_queen.md) — *contradictory projection and sovereign femininity*
+> - [🪞 There Is No Correct Way to Be a Queen](./🪞_there_is_no_correct_way_to_be_a_queen.md) — *contradictory projection and sovereign femininity*  
+> - [👑 Queenhood and the Theatre of Purity](./👑_queenhood_and_the_theatre_of_purity.md) — *purity performance as legitimacy stabilisation*  
+> - [👑 The "Problem" of the Female Heir](./👑_the_problem_of_the_female_heir.md) — *hereditary patriarchy and dynastic instability*  
+> - [🪶 The Queen as National Emotional Container](./🪶_the_queen_as_national_emotional_container.md) — *sovereign femininity as emotional governance infrastructure*  
+> - [👑 Elizabeth I and Catherine the Great](./👑_elizabeth_i_and_catherine_the_great.md) — *comparative female sovereignty and patriarchal consolidation*  
+
 >  
 > 🏮 Return To:  
 >
