@@ -298,6 +298,7 @@ It examines how the fall of the Romanovs became psychologically entangled with B
 > - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](./🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial psychology and symbolic governance*  
 > - [📖 Russia: A Cheat Sheet for the British](./📖_russia_a_cheat_sheet_for_the_british.md) — *translation through British historical analogues*  
 > - [🕯️ The British Blind Spot](../☕️_Post_Imperial_Weather/🕯️_the_british_blind_spot.md) — *continuity myths and imperial self-recognition*  
+> - [🪞 States Project Their Own Structure Onto Rivals](./🪞_states_project_their_own_structure_onto_rivals.md) — *comparative governance misrecognition and legitimacy projection*  
 >  
 > 🏮 Return To:  
 >
