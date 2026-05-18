@@ -128,7 +128,7 @@ It documents how institutions move from recognising harm to selecting remediatio
 
 > 📡 Cross-references:
 > 
-> - [📜 Harm Assessment Protocols](./📜_harm_assessment_protocols.md) — *how institutions decide whether harm “counts”*  
+> - [📜 Harm Assessment Protocols](../⚖️_Legal_State_Governance/📜_harm_assessment_protocols.md) — *how institutions decide whether harm “counts”*  
 > - [🔁 Post-Realisation Phase](./🔁_post_realisation_phase.md) — *what institutions do once harm is internally acknowledged*  
 > - [💸 The Cost of a Closed Mouth](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/💸_the_cost_of_a_closed_mouth.md) — *truth as a commodity*  
 > - [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) - *what functional elite accountability could look like*  
@@ -136,7 +136,6 @@ It documents how institutions move from recognising harm to selecting remediatio
 > - [🐍 Low-Skill Threat Actors, High Systemic Impact](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/🐍_low_skill_threat_actors_high_systemic_impact.md)  
 > - [🪬 Professional Profiles with High System Literacy](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🪬_professional_profiles_with_high_system_literacy.md)
 > - [🩹 Triad — Tickbox, Containment Fatigue & Patch Repair](./🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md) — *minimal compliance cycles and institutional exhaustion*  
-> - [🔁 Post-Realisation Phase](./🔁_post_realisation_phase.md) — *the unstable gap between recognition and accountability*  
 > - [🧬 Keystone RCA](./🧬_keystone_rca.md) — *root-cause analysis at executive and inquiry level*  
 >  
 > 🏮 Return To:  
