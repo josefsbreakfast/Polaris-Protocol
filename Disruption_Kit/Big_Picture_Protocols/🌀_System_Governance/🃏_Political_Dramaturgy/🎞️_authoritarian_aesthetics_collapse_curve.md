@@ -289,7 +289,12 @@ It functions as a diagnostic tool for recognising legitimacy stress and symbolic
 > - [🇷🇺 The End of Russia’s Camp Era](../../🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)  
 > - [🧠 Swiss-Cheese Suicide Model in Custody](../../🦕_Elder_Influencers/🕊️_Just_Boxes/🧠_swiss_cheese_suicide_model_in_custody.md)  
 > - [⭕️ Why White Christians Need to Speak Up About the Hoop](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/👅_Voice_Disruption_Discrediting/⭕️_why_white_christians_need_to_speak_up_about_the_hoop.md)  
-> - [💔 Weaponised Empathy Gaps](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps.md)  
+> - [💔 Weaponised Empathy Gaps](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/💔_weaponised_empathy_gaps.md)
+> - [🌐 Late-Stage Autocracy Vibe Diagnostics](./🌐_late_stage_autocracy_vibe_diagnostics.md) — *emotional instability preceding regime collapse*  
+> - [🎭 The Kremlin Aesthetic Timeline](./🎭_kremlin_aesthetic_timeline.md) — *post-Soviet aesthetic contraction and bunkerisation*  
+> - [🎡 The Aesthetic Economy of States](./🎡_the_aesthetic_economy_of_states.md) — *states competing through atmosphere, spectacle, and symbolic gravity*  
+> - [👑 Aurafarming A New Age](./👑_aurafarming_a_new_age.md) — *algorithmic legitimacy and parasocial symbolic authority*  
+> - [🥬 Prime Ministerial Lettuce Duration Forecasting](./🥬_lettuce_volatility_index_lvix.md) — *satirical instability diagnostics in British governance culture*  
 >   
 > 🏮 Return To:
 >
