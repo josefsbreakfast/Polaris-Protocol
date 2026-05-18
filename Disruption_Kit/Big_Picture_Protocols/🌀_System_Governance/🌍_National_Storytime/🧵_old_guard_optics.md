@@ -957,7 +957,7 @@ Using Tyne and Wear as a regional case study, this node additionally maps how de
 >  
 > 🏮 Return To:  
 >
-> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌍 National Storytime](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
