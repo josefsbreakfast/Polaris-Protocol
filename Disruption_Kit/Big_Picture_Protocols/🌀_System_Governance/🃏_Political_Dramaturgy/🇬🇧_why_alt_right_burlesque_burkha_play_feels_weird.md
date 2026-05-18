@@ -423,7 +423,17 @@ burlesque grammar, unveiling ritual, symbolic spectacle, racialised theatre, pub
 
 ---
 
-*This node is a living document within the Polaris Protocol.*  
+## 🏮 Footer  
 
-*Symbolic performances do not occur outside history.  
-Spectatorship is never neutral.*  
+*Why Alt-Right Burlesque Burkha Play Feels Weird* is a living node of the **Polaris Protocol**.  
+It examines symbolic unveiling rituals, racialised public spectacle, and the unstable overlap between political theatre, spectatorship, humiliation dynamics, and civic performance within contemporary culture-war environments.  
+
+> 📡 Cross-references:
+> 
+> - [☕️ Post-Imperial Weather](../☕️_Post-Imperial_Weather/) — *emotional atmospheres and symbolic performance within post-imperial British culture*  
+> - [📚 Narrative Management](../📚_Narrative_Management/) — *media framing, spectacle construction, and reputational governance systems*  
+> - [🌸 Containment Studies](../🌸_Containment_Studies/) — *symbolic containment, public boundaries, and civic legitimacy under pressure*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-05-18_
