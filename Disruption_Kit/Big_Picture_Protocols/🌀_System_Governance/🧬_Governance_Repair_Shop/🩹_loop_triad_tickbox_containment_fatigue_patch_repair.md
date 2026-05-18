@@ -31,6 +31,9 @@ It visualises how bare-minimum compliance leads to containment fatigue, exposing
 > - [📋 Tickbox vs Cognitive Load](./📋_loop_tickbox_vs_cognitive_load.md) - *A feedback loop between institutional minimalism and survivor exhaustion*
 > - [🩹 Patch Repair Governance](./🩹_patch_repair_governance.md) - *Containment systems as stitched patchwork — holes covered until pressure elsewhere forces old rot to reopen*  
 > - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) - *Unconsented containment, metadata silencing, and covert NDAs*
+> - [⚖️ Institutional Realisation to Remediation](./⚖️_institutional_realisation_to_remediation.md) — *recognising systemic failure and transitioning toward repair*  
+> - [🔁 Post-Realisation Phase](./🔁_post_realisation_phase.md) — *the unstable gap between recognition and accountability*  
+> - [🧬 Keystone RCA](./🧬_keystone_rca.md) — *root-cause analysis at executive and inquiry level*  
 >  
 > 🏮 Return To:  
 >  
