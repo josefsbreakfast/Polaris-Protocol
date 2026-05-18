@@ -1,5 +1,5 @@
 # 🧨 Semantic Collapse  
-**First created:** 2025-11-23 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-23 | **Last updated:** 2026-05-18  
 *How meaning breaks down when liberal-democratic language collides with authoritarian moral frames — and how that terrain is exploited.*
 
 ---
@@ -340,8 +340,16 @@ It maps how shared language fractures across incompatible moral systems, and how
 > 
 > - [💼 Narrative Capture & Linguistic Power](./💼_narrative_capture_and_linguistic_power.md) – *words have more power than we credit them with*
 > - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md) – *this is a transitory mechanism of capture*
-> - [🎪 Not Even a Mole To Be Found](./🎪_not_even_a_mole_to_be_found.md) – *neither loyalty nor choice are required to be assets, particularly in the digital age*  
+> - [🎪 Not Even a Mole To Be Found](./🎪_not_even_a_mole_to_be_found.md) – *neither loyalty nor choice are required to be assets, particularly in the digital age*
+>  
+> 🏮 Return To:  
+>
+> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-18_
