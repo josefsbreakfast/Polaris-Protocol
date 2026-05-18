@@ -1,5 +1,5 @@
 # 🌍 National Storytime  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-11  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-18  
 *How nations narrate themselves into coherence through myth, memory, trauma, and belonging.*
 
 ---
@@ -132,4 +132,4 @@ It maps how nations construct continuity, legitimacy, and emotional coherence th
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-18_
