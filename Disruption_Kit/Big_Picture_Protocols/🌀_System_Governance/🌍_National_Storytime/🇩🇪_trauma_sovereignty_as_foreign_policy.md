@@ -318,6 +318,7 @@ The node focuses on how stabilising postwar narratives can mediate contradiction
 > - [🎭 Reputation as Governance](../📚_Narrative_Management/🎭_reputation_as_governance.md) — *legitimacy as infrastructure*  
 > - [🧬 Narrative as State Infrastructure](../📚_Narrative_Management/🧬_narrative_as_state_infrastructure.md) — *myth as institutional architecture*  
 > - [☕️ Managing Postcolonial Melancholia](../☕️_Post_Imperial_Weather/README.md) — *historical affect regulation and identity stabilisation*  
+> - [🌀 Dual Loyalty Loops](./🌀_dual_loyalty_loops.md) — *no-win identity traps imposed upon diaspora Jews*  
 >
 > 🏮 Return To:
 >
