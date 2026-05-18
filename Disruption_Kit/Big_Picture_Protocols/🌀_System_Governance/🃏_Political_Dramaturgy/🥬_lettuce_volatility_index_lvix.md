@@ -1,4 +1,4 @@
-# 🥬 Prime Ministerial Lettuce Duration Forecasting  
+# 🥬 Prime Ministerial Lettuce Duration Forecasting Using The Lettuce Volitility Index (LVIX)  
 **First created:** 2026-05-15 | **Last updated:** 2026-05-18  
 *A satirical governance metric comparing the shelf life of British lettuce with the expected stability of political leadership.*  
 
@@ -159,7 +159,7 @@ lettuce durability, constitutional vegetables, shelf-life governance, British sa
 
 ## 🏮 Footer  
 
-*🥬 Prime Ministerial Lettuce Duration Forecasting* is a living node of the Polaris Protocol.  
+*🥬 Prime Ministerial Lettuce Duration Forecasting Using The Lettuce Volitility Index (LVIX)* is a living node of the Polaris Protocol.  
 It explains the balance of green leaf durability in context of British political emotion. Vital skill in the informaton age.  
 
 
