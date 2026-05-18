@@ -240,7 +240,7 @@ It documents how elite accountability can be structured to strengthen — not de
 >  
 > 🏮 Return To:  
 >  
-> - [⚖️ Legal & State Governance](./README.md)
+> - [🧬 Governance Repair Shop](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
