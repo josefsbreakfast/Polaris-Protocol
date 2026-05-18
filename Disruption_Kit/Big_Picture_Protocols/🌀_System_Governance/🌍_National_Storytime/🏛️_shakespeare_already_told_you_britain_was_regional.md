@@ -4,7 +4,7 @@
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines a simple but frequently overlooked point:
 
@@ -46,7 +46,7 @@ This node therefore studies:
 
 ---
 
-# 🎭 I. Shakespeare Assumes Regional Knowledge  
+## 🎭 Shakespeare Assumes Regional Knowledge  
 
 The histories frequently assume audiences already recognise:
 - where characters come from,
@@ -74,9 +74,9 @@ They frequently carry:
 
 ---
 
-# ☕️ II. Henry V Is Full Of Regional Britain  
+## ☕️ Henry V Is Full Of Regional Britain  
 
-[Henry V](chatgpt://generic-entity?number=0) portrays Britain as:
+**Henry V** portrays Britain as:
 - politically layered,
 - emotionally plural,
 - and regionally differentiated.
@@ -101,12 +101,9 @@ The play assumes these distinctions matter.
 
 ---
 
-# ⚔️ III. The Wars Of The Roses Never Fully Disappeared  
+## ⚔️ The Wars Of The Roses Never Fully Disappeared  
 
-Shakespeare’s audiences already knew:
-[Wars of the Roses](chatgpt://generic-entity?number=1)
-followed the triumphs of
-[Battle of Agincourt](chatgpt://generic-entity?number=2).
+Shakespeare’s audiences already knew **Wars of the Roses** followed the triumphs of **Battle of Agincourt**.
 
 This matters because:
 - regional identity,
@@ -132,7 +129,7 @@ The emotional maps often survived.
 
 ---
 
-# 🌍 IV. Britain Is A Layered State  
+## 🌍 Britain Is A Layered State  
 
 Britain has never functioned as:
 - a perfectly homogeneous national culture.
@@ -163,7 +160,7 @@ Shakespeare reflects this instinctively.
 
 ---
 
-# 📺 V. Modern Media Often Has Less Granularity Than Shakespeare  
+## 📺 Modern Media Often Has Less Granularity Than Shakespeare  
 
 Ironically, modern British media sometimes portrays Britain with:
 - less regional nuance,
@@ -187,7 +184,7 @@ This helps explain why many regions feel:
 
 ---
 
-# 👑 VI. Regional Identity And Legitimacy  
+## 👑 Regional Identity And Legitimacy  
 
 Regionality in Britain is not merely:
 - aesthetic,
@@ -217,7 +214,7 @@ These distinctions continue influencing:
 
 ---
 
-# 🧠 VII. Shakespeare Still Feels Familiar Because The Structures Persist  
+## 🧠 Shakespeare Still Feels Familiar Because The Structures Persist  
 
 Shakespeare’s political worlds remain recognisable because:
 - Britain still contains:
@@ -238,7 +235,7 @@ This helps explain why Shakespeare’s histories often still feel:
 
 ---
 
-# 🪞 VIII. Britain Sometimes Forgets What Shakespeare Assumed  
+## 🪞 Britain Sometimes Forgets What Shakespeare Assumed  
 
 One irony of modern Britain is that:
 > Shakespeare may possess a more instinctively layered understanding of Britain than parts of contemporary political discourse.
