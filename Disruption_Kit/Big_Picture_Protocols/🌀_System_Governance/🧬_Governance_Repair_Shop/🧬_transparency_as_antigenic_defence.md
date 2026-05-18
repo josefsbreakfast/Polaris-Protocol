@@ -115,7 +115,7 @@ It reframes disclosure not as risk but as metabolism — the way democracies sta
 >  
 > 🏮 Return To:  
 >  
-> - [📚 Narrative Management](./README.md)  
+> - [🧬 Governance Repair Shop](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
