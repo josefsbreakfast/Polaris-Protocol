@@ -109,11 +109,11 @@ It maps how language, law, and trust are re-stitched after institutional degrada
 > - [🌀 Fall of Institutional Integrity](../💫_Containment_Logic/🌀_fall_of_institutional_integrity.md) — *preceding node*  
 > - [⚖️ Linguistic Integrity as Security Risk](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚖️_linguistic_integrity_as_security_risk.md) — *policy alignment*  
 > - [🧭 How We Got Here](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md) — *orientation anchor*  
-> - [✈️ Who Wants These Creeps in Charge?](./✈️_who_wants_these_creeps_in_charge.md)  
-> - [✈️ Genocides and Paedophiles](./✈️_genocides_and_paedophiles.md)  
-> - [🌒 The No-Win Box](./🌒_the_no_win_box.md)  
-> - [🍉 British Democracy Needs You](./🍉_british_democracy_needs_you.md)  
-> - [🐼 The Metropolitan Rabble](./🐼_the_metropolitan_rabble.md)
+> - [✈️ Who Wants These Creeps in Charge?](../👑_Ownership_Control/✈️_who_wants_these_creeps_in_charge.md)  
+> - [✈️ Genocides and Paedophiles](../👑_Ownership_Control/✈️_genocides_and_paedophiles.md)  
+> - [🌒 The No-Win Box](../👑_Ownership_Control/🌒_the_no_win_box.md)  
+> - [🍉 British Democracy Needs You](../👑_Ownership_Control/🍉_british_democracy_needs_you.md)  
+> - [🐼 The Metropolitan Rabble](../👑_Ownership_Control/🐼_the_metropolitan_rabble.md)
 > - [🏗️ Corrective Governance Architecture](./🏗️_corrective_governance_architecture.md) — *rebuilding governance after systemic failure*  
 > - [🪡 Oversight Repair Kit — Re-stitching Accountability Chains](./🪡_oversight_repair_kit.md) — *rewiring fragmented oversight structures*  
 > - [🧬 How to Prosecute Power Without Collapse](./🧬_how_to_prosecute_power_without_collapse.md) — *elite accountability without institutional self-destruction*  
