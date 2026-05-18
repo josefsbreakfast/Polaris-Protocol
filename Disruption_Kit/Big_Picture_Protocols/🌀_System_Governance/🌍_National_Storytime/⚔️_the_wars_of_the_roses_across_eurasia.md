@@ -292,14 +292,14 @@ It examines how dynastic legitimacy conflict, regional fragmentation, aristocrat
 
 > 📡 Cross-references:
 > 
-> - [⚔️ The Wars of the Roses Never Ended](../🌍_National_Storytime/⚔️_the_wars_of_the_roses_never_ended.md) — *emotional geography and legitimacy persistence in Britain*  
-> - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](../🌍_National_Storytime/🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial psychology and symbolic governance*  
+> - [⚔️ The Wars of the Roses Never Ended](./⚔️_the_wars_of_the_roses_never_ended.md) — *emotional geography and legitimacy persistence in Britain*  
+> - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](./🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial psychology and symbolic governance*  
 > - [🌍 States Are Never Homogeneous](../🧠_Apparatchik_Philosophy/🌍_states_are_never_homogeneous.md) — *layered sovereignty and emotional plurality within historical states*  
 > - [🏛️ Shakespeare Already Told You Britain Was Regional](./🏛️_shakespeare_already_told_you_britain_was_regional.md) — *Shakespearean Britain as emotionally plural and politically uneven*  
 > 
 > 🏮 Return To:  
 >  
-> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌍 National Storytime](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
