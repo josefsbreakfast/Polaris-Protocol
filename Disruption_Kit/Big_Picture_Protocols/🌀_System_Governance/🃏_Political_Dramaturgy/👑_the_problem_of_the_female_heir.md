@@ -315,6 +315,12 @@ It examines how hereditary patriarchal systems repeatedly destabilise themselves
 > - [⚖️ Mary I and the Constitutional Crisis of Female Rule](../⚖️_Legal_State_Governance/⚖️_mary_i_and_the_constitutional_crisis_of_female_rule.md) — *female sovereignty and constitutional instability*  
 > - [🕰️ The State Marries the Queen](../⚖️_Legal_State_Governance/🕰️_the_state_marries_the_queen.md) — *marriage, sovereignty, and queenship*  
 > - [👑 Elizabeth I and Catherine the Great](./👑_elizabeth_i_and_catherine_the_great.md) — *female sovereigns as patriarchal legitimacy concentration points*
+> - [🌹 The Body of the Queen and the Body of the State](./🌹_the_body_of_the_queen_and_the_body_of_the_state.md) — *monarchy as embodied national continuity*  
+> - [👑 Queenhood and the Theatre of Purity](./👑_queenhood_and_the_theatre_of_purity.md) — *purity performance as legitimacy stabilisation*  
+> - [👑 The Female Sovereign as Patriarchal Apex](./👑_the_female_sovereign_as_patriarchal_apex.md) — *queens as intensified patriarchal legitimacy*  
+> - [👑 The "Problem" of the Female Heir](./👑_the_problem_of_the_female_heir.md) — *hereditary patriarchy and dynastic instability*  
+> - [🪞 There Is No Correct Way to Be a Queen](./🪞_there_is_no_correct_way_to_be_a_queen.md) — *contradictory symbolic expectations imposed upon female rulers*  
+> - [🪶 The Queen as National Emotional Container](./🪶_the_queen_as_national_emotional_container.md) — *sovereign femininity as emotional governance infrastructure*  
 >  
 > 🏮 Return To:  
 >
