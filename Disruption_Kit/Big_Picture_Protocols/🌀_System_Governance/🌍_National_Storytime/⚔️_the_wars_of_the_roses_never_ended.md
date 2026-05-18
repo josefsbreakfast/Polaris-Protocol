@@ -1,14 +1,12 @@
 # ⚔️ The Wars of the Roses Never Ended  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
 *How the emotional geography, regional identities, and legitimacy tensions shaped during the Wars of the Roses continue to echo within modern British political culture.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
-This node does **not** argue that the
-[Wars of the Roses](chatgpt://generic-entity?number=0)
-are still being fought literally.
+This node does **not** argue that the **Wars of the Roses** are still being fought literally.
 
 Nor does it claim modern Britain remains secretly divided into medieval factions.
 
@@ -41,7 +39,7 @@ The emotional maps frequently survived.
 
 ---
 
-# 🌹 I. The Wars Were About More Than Two Flowers  
+## 🌹 The Wars Were About More Than Two Flowers  
 
 Modern popular memory often simplifies the conflict into:
 - red rose,
@@ -66,7 +64,7 @@ This influence did not disappear overnight.
 
 ---
 
-# 🏛️ II. England Was Already Regionally Layered  
+## 🏛️ England Was Already Regionally Layered  
 
 The Wars of the Roses only make sense within:
 > a deeply regional England.
@@ -91,7 +89,7 @@ The wars therefore intensified:
 
 ---
 
-# ☕️ III. London Never Became Emotionally Neutral  
+## ☕️ London Never Became Emotionally Neutral  
 
 As the centre of:
 - monarchy,
@@ -117,7 +115,7 @@ The emotional shape is recognisable even if the institutions changed.
 
 ---
 
-# ⚔️ IV. Regional Identity Outlived Feudalism  
+## ⚔️ Regional Identity Outlived Feudalism  
 
 Feudalism weakened.
 
@@ -145,7 +143,7 @@ The emotional terrain often persisted.
 
 ---
 
-# 🎭 V. Shakespeare Preserved The Emotional Maps  
+## 🎭 Shakespeare Preserved The Emotional Maps  
 
 Shakespeare’s histories assume audiences already understand:
 - county personality,
@@ -153,8 +151,7 @@ Shakespeare’s histories assume audiences already understand:
 - legitimacy conflict,
 - and aristocratic geography.
 
-This is especially visible in:
-[Henry V](chatgpt://generic-entity?number=1).
+This is especially visible in **Henry V**.
 
 The plays therefore function partly as:
 > preservation systems for England’s emotional geography.
@@ -168,7 +165,7 @@ This is one reason the plays still feel strangely familiar.
 
 ---
 
-# 📺 VI. Modern Politics Still Performs Regional England  
+## 📺 Modern Politics Still Performs Regional England  
 
 Contemporary British politics still repeatedly falls into:
 - north versus south narratives,
@@ -189,7 +186,7 @@ But the emotional structure often remains recognisable.
 
 ---
 
-# 🌍 VII. Britain Is Still A Layered Union  
+## 🌍 Britain Is Still A Layered Union  
 
 The persistence of regional political feeling extends beyond England itself.
 
@@ -210,7 +207,7 @@ The emotional complexity of Britain therefore resembles:
 
 ---
 
-# 🪞 VIII. The Conflict Became Psychological Geography  
+## 🪞 The Conflict Became Psychological Geography  
 
 The Wars of the Roses survived partly because they became:
 - myth,
@@ -235,7 +232,7 @@ The geography remained emotionally alive.
 
 ---
 
-# 🧠 IX. “The Wars Never Ended” Means The Maps Persisted  
+## 🧠 “The Wars Never Ended” Means The Maps Persisted  
 
 The phrase:
 > “the Wars of the Roses never ended”
@@ -276,15 +273,23 @@ wars of the roses, england, regional identity, legitimacy, british politics, yor
 
 ## 🏮 Footer  
 
-*The Wars of the Roses Never Ended* is a living node of the **Polaris Protocol**.  
+*⚔️ The Wars of the Roses Never Ended* is a living node of the **Polaris Protocol**.  
 It examines how the regional identities, legitimacy tensions, and symbolic geographies shaped during the Wars of the Roses continued to echo within British political culture long after the formal conflict itself ended.  
 
 > 📡 Cross-references:
 > 
 > - [🏛️ Shakespeare Already Told You Britain Was Regional](./🏛️_shakespeare_already_told_you_britain_was_regional.md) — *regional plurality and Shakespearean political geography*  
 > - [☕️ The Henry V of Local Elections Day](./☕️_the_henry_v_of_local_elections_day.md) — *regional archetypes and electoral atmosphere*  
-> - [📺 Beyond Regional TV](./📺_beyond_regional_tv.md) — *media flattening and regional compression*  
+> - [📺 Beyond Regional TV](./📺_beyond_regional_tv.md) — *media flattening and regional compression*
+>  
+> 🏮 Return To:  
+>
+> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-18_
