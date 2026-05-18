@@ -227,7 +227,8 @@ The node focuses on how opacity, emotional saturation, and institutional continu
 >
 > - [☕️ Managing Postcolonial Melancholia](../☕️_Post_Imperial_Weather/☕️_managing_postcolonial_melancholia.md) — *historical affect regulation and national emotional management*  
 > - [🚀 Procedure vs Perception](../🧠_Apparatchik_Philosophy/🚀_procedure_vs_perception.md) — *institutional legitimacy and public interpretation under crisis conditions*  
-> - [⚖️ Narrative Control and Legal Responsibility](../⚖️_Legal_State_Governance/⚖️_narrative_control_and_legal_responsibility.md) — *institutional narrative management and evidential integrity*  
+> - [⚖️ Narrative Control and Legal Responsibility](../⚖️_Legal_State_Governance/⚖️_narrative_control_and_legal_responsibility.md) — *institutional narrative management and evidential integrity*
+> - [☔️ Restorative Justice in a Shame Culture](./☔️_restorative_justice_in_a_shame_culture.md) — *repair difficulty inside continuity-oriented societies*  
 >   
 > 🏮 Return To:
 >
