@@ -713,7 +713,7 @@ The node additionally examines how participatory media environments are altering
 > - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md) — *charisma erosion and symbolic exhaustion*  
 > - [🎭 The Kremlin Aesthetic Timeline](./🎭_kremlin_aesthetic_timeline.md) — *post-Soviet aesthetic contraction and bunkerisation*  
 > - [🎡 The Aesthetic Economy of States](./🎡_the_aesthetic_economy_of_states.md) — *states competing through atmosphere, spectacle, and symbolic gravity*  
-> - [🥬 Prime Ministerial Lettuce Duration Forecasting](./🥬_lettuce_volatility_index_lvix.md) — *satirical instability diagnostics in British governance culture*  
+> - [🥬 Prime Ministerial Lettuce Duration Forecasting Using The Lettuce Volitility Index (LVIX)](./🥬_lettuce_volatility_index_lvix.md) — *satirical instability diagnostics in British governance culture*  
 > 
 > 🏮 Return To:  
 >  
