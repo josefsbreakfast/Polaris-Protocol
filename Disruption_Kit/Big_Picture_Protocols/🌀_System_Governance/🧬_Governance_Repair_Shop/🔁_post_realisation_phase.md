@@ -354,7 +354,7 @@ It documents the stabilisation behaviours institutions adopt after recognising f
 >  
 > 🏮 Return To:  
 >  
-> - [⚖️ Legal & State Governance](./README.md)  
+> - [🧬 Governance Repair Shop](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
