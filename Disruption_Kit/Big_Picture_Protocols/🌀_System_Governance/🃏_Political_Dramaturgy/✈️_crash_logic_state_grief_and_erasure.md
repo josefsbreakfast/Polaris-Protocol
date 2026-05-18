@@ -1,5 +1,5 @@
 # ✈️ Crash Logic — Catastrophe, State Grief, and Narrative Erasure  
-**First created:** 2025-11-06 | **Last updated:** 2026-05-15  
+**First created:** 2025-11-06 | **Last updated:** 2026-05-18  
 *How public catastrophe, mourning rituals, and institutional continuity interact within highly centralised political systems.*  
 
 ---
@@ -231,7 +231,7 @@ The node focuses on how opacity, emotional saturation, and institutional continu
 >   
 > 🏮 Return To:
 >
-> - [📚 Narrative Management](./README.md)  
+> - [🃏 Political Dramaturgy](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
@@ -239,4 +239,4 @@ The node focuses on how opacity, emotional saturation, and institutional continu
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-18_
