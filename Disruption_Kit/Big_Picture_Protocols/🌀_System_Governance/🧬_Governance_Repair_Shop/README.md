@@ -1,5 +1,5 @@
 # 🧬 Governance Repair Shop  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-12 | **Last updated:** 2026-05-18  
 *Where broken systems are examined, patched, stabilised, or gently prevented from eating themselves alive.*  
 
 ---
@@ -172,8 +172,8 @@ It examines how institutions survive stress, repair legitimacy, contain failure,
 > 
 > - [🌀 Systems & Governance](../README.md) — *systemic containment architectures & governance choreography*  
 > - [🕰️ Chronos Or Kairos](../🕰️_Chronos_Or_Kairos/README.md) — *administrative pacing, delay, and long-horizon governance*  
-> - [🧄 Exousiología](../../../🧄_Exousiología/README.md) — *authority, stewardship, resilience, and legitimacy*  
+> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *authority, stewardship, resilience, and legitimacy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-18_
