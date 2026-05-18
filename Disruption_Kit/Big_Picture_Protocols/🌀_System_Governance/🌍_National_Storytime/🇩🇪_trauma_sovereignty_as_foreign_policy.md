@@ -314,14 +314,14 @@ The node focuses on how stabilising postwar narratives can mediate contradiction
 
 > 📡 Cross-references:
 > 
-> - [📚 Crisis Theatre](./📚_crisis_theatre.md) — *emergency as governance mode*  
-> - [🎭 Reputation as Governance](./🎭_reputation_as_governance.md) — *legitimacy as infrastructure*  
-> - [🧬 Narrative as State Infrastructure](./🧬_narrative_as_state_infrastructure.md) — *myth as institutional architecture*  
-> - [☕️ Managing Postcolonial Melancholia](./☕️_managing_postcolonial_melancholia.md) — *historical affect regulation and identity stabilisation*  
+> - [📚 Crisis Theatre](../📚_Narrative_Management/📚_crisis_theatre.md) — *emergency as governance mode*  
+> - [🎭 Reputation as Governance](../📚_Narrative_Management/🎭_reputation_as_governance.md) — *legitimacy as infrastructure*  
+> - [🧬 Narrative as State Infrastructure](../📚_Narrative_Management/🧬_narrative_as_state_infrastructure.md) — *myth as institutional architecture*  
+> - [☕️ Managing Postcolonial Melancholia](../☕️_Post_Imperial_Weather/README.md) — *historical affect regulation and identity stabilisation*  
 >
 > 🏮 Return To:
 >
-> - [🃏 Political Dramaturgy](./README.md)
+> - [🌍 National Storytime](./README.md)
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)
 > - [🪄 Disruption Kit](../../../README.md)
