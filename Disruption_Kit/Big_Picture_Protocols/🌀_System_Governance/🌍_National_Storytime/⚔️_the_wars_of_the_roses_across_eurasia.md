@@ -4,14 +4,12 @@
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines the idea that:
 > the political logic underlying the Wars of the Roses is not uniquely English.
 
-The:
-[Wars of the Roses](chatgpt://generic-entity?number=0)
-represent one particularly famous example of a broader phenomenon visible across:
+The **Wars of the Roses** represent one particularly famous example of a broader phenomenon visible across:  
 - Eurasian empires,
 - aristocratic systems,
 - dynastic states,
@@ -43,7 +41,7 @@ This node therefore studies:
 
 ---
 
-# 🌹 I. The Wars Of The Roses Were About Legitimacy Geography  
+## 🌹 The Wars Of The Roses Were About Legitimacy Geography  
 
 The Wars of the Roses were not simply:
 - family drama,
@@ -66,7 +64,7 @@ The conflict therefore reveals:
 
 ---
 
-# 🌍 II. Large Historical States Rarely Become Perfectly Centralised  
+## 🌍 Large Historical States Rarely Become Perfectly Centralised  
 
 Across Eurasia,
 large states repeatedly developed through:
@@ -88,7 +86,7 @@ Even highly centralised empires often remained:
 
 ---
 
-# 👑 III. Dynastic Systems Produce Recurring Succession Instability  
+## 👑 Dynastic Systems Produce Recurring Succession Instability  
 
 Hereditary legitimacy creates continuity.
 
@@ -113,7 +111,7 @@ But the underlying question recurs:
 
 ---
 
-# 🏛️ IV. Capitals Never Fully Eliminate Regional Power  
+## 🏛️ Capitals Never Fully Eliminate Regional Power  
 
 Large capitals accumulate:
 - administrative authority,
@@ -137,7 +135,7 @@ So do many Eurasian imperial histories.
 
 ---
 
-# ⚔️ V. Eurasian States Often Develop “Rose Logic”  
+## ⚔️ Eurasian States Often Develop “Rose Logic”  
 
 “Rose logic” refers here to:
 > political systems where legitimacy remains contested through overlapping dynastic, regional, aristocratic, and symbolic claims simultaneously.
@@ -159,7 +157,7 @@ This logic repeatedly re-emerges because:
 
 ---
 
-# 🌫️ VI. Russia Is Particularly Legible Through This Lens  
+## 🌫️ Russia Is Particularly Legible Through This Lens  
 
 Russian political history frequently becomes easier to understand when viewed through:
 - layered legitimacy,
@@ -184,7 +182,7 @@ It is:
 
 ---
 
-# 🕯️ VII. Continuity And Rupture Produce Different Outcomes  
+## 🕯️ Continuity And Rupture Produce Different Outcomes  
 
 Different states resolve legitimacy crises differently.
 
@@ -208,7 +206,7 @@ But the underlying tension often begins similarly:
 
 ---
 
-# 📺 VIII. Modern States Still Contain Residual Rose Logic  
+## 📺 Modern States Still Contain Residual Rose Logic  
 
 Modern political systems frequently continue expressing:
 - regional resentment,
@@ -230,7 +228,7 @@ But the emotional architecture often remains recognisable.
 
 ---
 
-# 🪞 IX. Britain Sometimes Fails To Recognise Its Own Historical Literacy  
+## 🪞 Britain Sometimes Fails To Recognise Its Own Historical Literacy  
 
 British discourse sometimes treats:
 - Eurasian legitimacy politics,
@@ -254,7 +252,7 @@ It is:
 
 ---
 
-# 🧠 X. The Wars Never Really End  
+## 🧠 The Wars Never Really End  
 
 The “Wars of the Roses” persist not as:
 - literal medieval conflict,
@@ -289,14 +287,22 @@ wars of the roses, eurasia, legitimacy, monarchy, aristocracy, regional identity
 
 ## 🏮 Footer  
 
-*The Wars of the Roses Across Eurasia* is a living node of the **Polaris Protocol**.  
+*⚔️ The Wars of the Roses Across Eurasia* is a living node of the **Polaris Protocol**.  
 It examines how dynastic legitimacy conflict, regional fragmentation, aristocratic competition, and centre/periphery tension recur across large historical states far beyond England itself.  
 
 > 📡 Cross-references:
 > 
 > - [⚔️ The Wars of the Roses Never Ended](../🌍_National_Storytime/⚔️_the_wars_of_the_roses_never_ended.md) — *emotional geography and legitimacy persistence in Britain*  
 > - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](../🌍_National_Storytime/🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial psychology and symbolic governance*  
-> - [🌍 States Are Never Homogeneous](../🧠_Apparatchik_Philosophy/🌍_states_are_never_homogeneous.md) — *layered sovereignty and emotional plurality within historical states*  
+> - [🌍 States Are Never Homogeneous](../🧠_Apparatchik_Philosophy/🌍_states_are_never_homogeneous.md) — *layered sovereignty and emotional plurality within historical states*
+> 
+> 🏮 Return To:  
+>  
+> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
