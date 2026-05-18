@@ -1,5 +1,5 @@
 # 👑 Queenhood and the Theatre of Purity  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-15  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
 *How patriarchal monarchies repeatedly transform queens into symbolic purity performances in order to stabilise legitimacy, continuity, and emotional trust in the state.*  
 
 ---
@@ -362,4 +362,4 @@ It examines how patriarchal monarchies repeatedly transform queens into symbolic
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-18_
