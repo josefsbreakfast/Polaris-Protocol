@@ -373,7 +373,12 @@ It maps how states accumulate and lose symbolic, emotional, and cultural gravity
 > - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md)  
 > - [🇷🇺 The End of Russia’s Camp Era](../../🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)  
 > - [🍿 Imperial Core Drama Cycle](../☕️_Post_Imperial_Weather/🍿_imperial_core_drama_cycle.md)  
-> - [☕️ The Eerie of Elections — 2026 Edition](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/☕️_the_eerie_of_elections_2026_edition.md)  
+> - [☕️ The Eerie of Elections — 2026 Edition](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/☕️_the_eerie_of_elections_2026_edition.md)
+> - [🌐 Late-Stage Autocracy Vibe Diagnostics](./🌐_late_stage_autocracy_vibe_diagnostics.md) — *emotional instability preceding regime collapse*  
+> - [🎞️ Authoritarian Aesthetics Collapse Curve](./🎞️_authoritarian_aesthetics_collapse_curve.md) — *charisma erosion and symbolic exhaustion*  
+> - [🎭 The Kremlin Aesthetic Timeline](./🎭_kremlin_aesthetic_timeline.md) — *post-Soviet aesthetic contraction and bunkerisation*  
+> - [👑 Aurafarming A New Age](./👑_aurafarming_a_new_age.md) — *algorithmic legitimacy and parasocial symbolic authority*  
+> - [🥬 Prime Ministerial Lettuce Duration Forecasting](./🥬_lettuce_volatility_index_lvix.md) — *satirical instability diagnostics in British governance culture*  
 >   
 > 🏮 Return To:
 >
