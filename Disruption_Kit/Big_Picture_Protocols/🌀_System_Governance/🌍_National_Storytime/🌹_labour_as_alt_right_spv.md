@@ -219,8 +219,11 @@ The node focuses on:
 
 > 📡 Cross-references:
 > 
-> - [🏛️ Protect Checks and Balances] — *institutional safeguards under pressure*  
 > - [🌐 Late-Stage Autocracy Vibe Diagnostics](../🃏_Political_Dramaturgy/🌐_late_stage_autocracy_vibe_diagnostics.md) — *emotional and aesthetic indicators of institutional drift*
+> - [🗳️ The Corbyn–Starmer Consent Mechanism](./🗳️_the_corbyn_starmer_consent_mechanism.md) — *electability bargains and conditional democratic consent*  
+> - [🧵 Old Guard Optics](./🧵_old_guard_optics.md) — *institutional reassurance becoming alienating in low-trust systems*  
+> - [🧨 Semantic Collapse](./🧨_semantic_collapse.md) — *liberal-democratic language breakdown under authoritarian framing pressure*  
+> - [🧨 Why Argumentation Fails With Alt-Right Ideology](./🧨_why_argumentation_fails_with_alt_right_ideology.md) — *moral-treason logic and the collapse of deliberative debate frameworks*  
 >   
 > 🏮 Return To:
 >
