@@ -238,7 +238,7 @@ It documents how child protection fails when systems prioritise punishment optic
 >  
 > 🏮 Return To:  
 >  
-> - [📚 Narrative Management](./README.md)  
+> - [🧬 Governance Repair Shop](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
