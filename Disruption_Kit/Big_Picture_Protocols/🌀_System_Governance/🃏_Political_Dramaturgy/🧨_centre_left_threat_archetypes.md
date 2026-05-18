@@ -113,6 +113,10 @@ centre-left power, political psychology, threat archetypes, narrative control, p
 > - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *dynamics of reputational suppression*  
 > - [🧬 Cloneproof](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧬_cloneproof.md) — *countermeasures against narrative misuse*  
 > - [👾 Metadata Ghosts](../../../../👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/README.md) — *forensic registers of invisible pressures*  
+> - [🩸 Ideological Skinwalkers](./🩸_ideological_skinwalkers.md) — *conviction becoming aesthetic costume*  
+> - [🏛️ Archetypes of Bureaucratic Behaviour](./🏛️_archetypes_of_bureaucratic_behaviour.md) — *recurring institutional personality modes*  
+> - [🎭 Witch Girl vs Sensible Man Archetypes](./🎭_witch_girl_vs_sensible_man_archetypes.md) — *gendered legitimacy scripts and emotional coding*  
+> - [🏛️ Freud & Jung :: Disraeli & Gladstone — The Duel of Temperaments](./🏛️_the_duel_of_temperaments.md) — *temperament as civilisational legitimacy coding*  
 >  
 > 🏮 Return To:  
 >  
