@@ -433,10 +433,9 @@ It examines symbolic unveiling rituals, racialised public spectacle, and the uns
 > - [👾 Is PREVENT Preventing Extremism Across All Classes?](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/👾_is_it_preventing_extremism_from_all_classes.md)  
 > - [💄 Plastic Masculinity Knives](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/💄_plastic_masculinity_knives.md)  
 > - [🐇 QAnon Vocabulary Origins](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🐇_qanon_vocabulary_origins.md)  
-> - [☕️ Post-Imperial Weather](../☕️_Post-Imperial_Weather/README.md) — *emotional atmospheres and symbolic performance within post-imperial British culture*  
-> - [📚 Narrative Management](../📚_Narrative_Management/README.md) — *media framing, spectacle construction, and reputational governance systems*  
-> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *symbolic containment, public boundaries, and civic legitimacy under pressure*  
->  
+> - [🧠 The Masculinity Gap](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_the_masculinity_gap.md)  
+> - [🧠 Fascism as Scaled Coercive Control](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_fascism_as_scaled_coercive_control.md)  
+>   
 > 🏮 Return To:  
 >
 > - [🃏 Political Dramaturgy](./README.md)  
