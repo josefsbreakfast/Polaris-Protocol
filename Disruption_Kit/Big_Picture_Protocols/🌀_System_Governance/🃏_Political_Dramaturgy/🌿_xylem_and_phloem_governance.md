@@ -1,5 +1,5 @@
 # 🌿 Xylem and Phloem Governance  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-15  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-18  
 *Britain as a vascular governance organism: continuity, signalling, brokerage, and institutional flow.*  
 
 ---
@@ -347,6 +347,11 @@ The problem emerges when the transport tissue begins mistaking:
 
 ---
 
+## 🏮 Footer  
+
+*🌿 Xylem and Phloem Governance* is a living node of the **Polaris Protocol**.  
+It analyses how modern governance mimicks plantlife.  
+
 > 📡 Cross-References:
 > 
 > - [🌱 The Broker Class and British Stagnation](./🌱_the_broker_class_and_british_stagnation.md)  
@@ -361,4 +366,6 @@ The problem emerges when the transport tissue begins mistaking:
 > - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
-2026-05-15
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-05-18_
