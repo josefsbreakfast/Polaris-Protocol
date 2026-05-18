@@ -384,7 +384,7 @@ It examines how Britain and Russia remain unexpectedly legible to one another th
 >  
 > 🏮 Return To:  
 >
-> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌍 National Storytime](./README.md)  
 > - [🌀 Systems & Governance](../README.md)  
 > - [🧠 Big Picture Protocols](../../README.md)  
 > - [🪄 Disruption Kit](../../../README.md)  
