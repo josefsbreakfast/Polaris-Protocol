@@ -108,10 +108,12 @@ It reframes disclosure not as risk but as metabolism — the way democracies sta
 > 📡 Cross-references:
 > 
 > - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *autoimmunity and control loops*  
-> - [*Pending:* 🌞 Transparency as Self-Correction] — *operational manual for open information systems*
 > - [📜 ICO-Ready Contradiction Framing](../../../Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_ico_ready_contradiction_framing.md)
 > - [⚖️ Defend Forward & Sovereign Cyber Response Ladder](../⚖️_Legal_State_Governance/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
 > - [🕊️ Trust Repair Protocols](../../../../🦆_Digital_Disruption/🐝_All_In_Commons/🕊️_trust_repair_protocols.md)
+> - [👁️ Restoring Epistemic Integrity](./👁️_restoring_epistemic_integrity.md) — *rebuilding trustworthy institutional knowledge systems*  
+> - [📜 Duty to Correct: How Public Bodies Must Fix Wrong Data](./📜_duty_to_correct.md) — *correction rights as democratic infrastructure*  
+> - [🔮 Daylight Effects in Governance Systems](./🔮_daylight_in_governance.md) — *transparency as behavioural transformation pressure*  
 >  
 > 🏮 Return To:  
 >  
