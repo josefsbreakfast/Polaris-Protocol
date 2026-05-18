@@ -1,10 +1,10 @@
-📖# 📖 Russia: A Cheat Sheet for the British  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+# 📖 Russia: A Cheat Sheet for the British  
+**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
 *Using British historical instincts and political analogues to make Russian internal dynamics emotionally legible without flattening either country into the other.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node is a translation guide.
 
@@ -44,7 +44,7 @@ The purpose is:
 
 ---
 
-# 👑 I. The Tsar Is Easier To Understand If You Understand Kingship  
+## 👑 The Tsar Is Easier To Understand If You Understand Kingship  
 
 British audiences already understand:
 - hereditary legitimacy,
@@ -71,7 +71,7 @@ Britain understands this instinctively through:
 
 ---
 
-# ⚔️ II. The Wars Of The Roses Are A Better Starting Point Than Cold War Movies  
+## ⚔️ The Wars Of The Roses Are A Better Starting Point Than Cold War Movies  
 
 Many British people are introduced to Russia primarily through:
 - Cold War framing,
@@ -79,9 +79,7 @@ Many British people are introduced to Russia primarily through:
 - authoritarian stereotypes,
 - or geopolitical abstraction.
 
-But emotionally, the:
-[Wars of the Roses](chatgpt://generic-entity?number=0)
-are often a more useful starting point.
+But emotionally, the **Wars of the Roses** are often a more useful starting point.
 
 Why?
 
@@ -100,11 +98,9 @@ Russia simply expresses these tensions through a different historical trajectory
 
 ---
 
-# 🌍 III. Moscow Is London  
+## 🌍 Moscow Is London  
 
-[Moscow](chatgpt://generic-entity?number=1) functions similarly to:
-[London](chatgpt://generic-entity?number=2)
-in several important ways.
+**Moscow** functions similarly to **London** in several important ways.
 
 Both are:
 - administrative gravity wells,
@@ -129,9 +125,9 @@ in both states.
 
 ---
 
-# 🌫️ IV. Saint Petersburg Is Not London  
+## 🌫️ Saint Petersburg Is Not London  
 
-[Saint Petersburg](chatgpt://generic-entity?number=3) is often easier for British audiences to understand through:
+**Saint Petersburg** is often easier for British audiences to understand through:
 - Edinburgh,
 - York,
 - Durham,
@@ -155,7 +151,7 @@ Like Britain, it contains:
 
 ---
 
-# 🏛️ V. Britain Already Understands Layered States  
+## 🏛️ Britain Already Understands Layered States  
 
 The United Kingdom itself contains:
 - England,
@@ -184,7 +180,7 @@ The point is:
 
 ---
 
-# 🕯️ VI. Britain Often Exoticises What It Partially Shares  
+## 🕯️ Britain Often Exoticises What It Partially Shares  
 
 British discourse sometimes treats Russia as:
 - incomprehensible,
@@ -209,7 +205,7 @@ But it does mean:
 
 ---
 
-# 🎭 VII. Shakespeare Is Surprisingly Useful For Understanding Russia  
+## 🎭 Shakespeare Is Surprisingly Useful For Understanding Russia  
 
 Shakespeare’s histories remain useful because they model:
 - symbolic legitimacy,
@@ -230,11 +226,9 @@ Britain therefore already possesses:
 
 ---
 
-# 🩸 VIII. Why The Romanovs Frightened Britain  
+## 🩸 VIII. Why The Romanovs Frightened Britain  
 
-The collapse of the
-[House of Romanov](chatgpt://generic-entity?number=4)
-disturbed Britain partly because:
+The collapse of the **House of Romanov** disturbed Britain partly because:
 - Britain recognised hereditary legitimacy systems intimately,
 - aristocratic continuity felt familiar,
 - and dynastic collapse did not feel emotionally foreign.
@@ -253,7 +247,7 @@ This helps explain why Britain historically oscillates between:
 
 ---
 
-# 🧠 IX. The Goal Is Legibility, Not Equivalence  
+## 🧠 The Goal Is Legibility, Not Equivalence  
 
 This comparison framework exists to improve:
 - emotional literacy,
@@ -286,15 +280,23 @@ russia, britain, geopolitical analogy, monarchy, tsars, wars of the roses, londo
 
 ## 🏮 Footer  
 
-*Russia: A Cheat Sheet for the British* is a living node of the **Polaris Protocol**.  
+*📖 Russia: A Cheat Sheet for the British* is a living node of the **Polaris Protocol**.  
 It examines how British historical instincts surrounding monarchy, aristocracy, regional identity, and legitimacy conflict can help make Russian political culture emotionally legible without collapsing either state into simplistic equivalence.  
 
 > 📡 Cross-references:
 > 
 > - [🇷🇺🇬🇧 The Russia of the West; The UK of the East](./🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md) — *comparative imperial psychology and mirrored legitimacy systems*  
 > - [🏛️ Shakespeare Already Told You Britain Was Regional](./🏛️_shakespeare_already_told_you_britain_was_regional.md) — *regional identity and layered Britain*  
-> - [🕯️ The British Blind Spot](./🕯️_the_british_blind_spot.md) — *continuity myths and national self-perception*  
+> - [🕯️ The British Blind Spot](./🕯️_the_british_blind_spot.md) — *continuity myths and national self-perception*
+>  
+> 🏮 Return To:  
+>
+> - [🃏 Political Dramaturgy](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-18_
