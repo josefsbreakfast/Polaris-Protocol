@@ -272,9 +272,9 @@ It examines how Shakespeare’s histories portray Britain as politically layered
 
 > 📡 Cross-references:
 > 
-> - [🎭 Shakespeare as Political Operating System](./🎭_shakespeare_as_political_operating_system.md) — *political archetypes and symbolic legitimacy*  
-> - [☕️ The Henry V of Local Elections Day](./☕️_the_henry_v_of_local_elections_day.md) — *regional archetypes and electoral atmosphere*  
-> - [📺 Beyond Regional TV](./📺_beyond_regional_tv.md) — *media flattening and metropolitan perspective*
+> - [🎭 Shakespeare as Political Operating System](../🃏_Political_Dramaturgy/🎭_shakespeare_as_political_operating_system.md) — *political archetypes and symbolic legitimacy*  
+> - [☕️ The Henry V of Local Elections Day](../☕️_Post_Imperial_Weather/☕️_the_henry_v_of_local_elections_day.md) — *regional archetypes and electoral atmosphere*  
+> - [📺 Beyond Regional TV](../☕️_Post_Imperial_Weather/📺_beyond_regional_tv.md) — *media flattening and metropolitan perspective*  
 > - [⚔️ The Wars of the Roses Never Ended](./⚔️_the_wars_of_the_roses_never_ended.md) — *regional legitimacy tensions echoing through modern Britain*  
 > - [⚔️ The Wars of the Roses Across Eurasia](./⚔️_the_wars_of_the_roses_across_eurasia.md) — *dynastic fragmentation and centre/periphery conflict across large states*  
 >  
