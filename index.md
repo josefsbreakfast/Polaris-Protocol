@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-19 15:28:12 UTC_
+_Generated on 2026-05-19 15:30:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6945,6 +6945,12 @@ _Generated on 2026-05-19 15:28:12 UTC_
   - [`README.md`](🌑_1_Origin_Points/README.md)
 - [**🌒_2_Signs_Symptoms/**](🌒_2_Signs_Symptoms/)
   - [`README.md`](🌒_2_Signs_Symptoms/README.md)
+- [**🌓_3_In_The_Moment/**](🌓_3_In_The_Moment/)
+  - [`README.md`](🌓_3_In_The_Moment/README.md)
+- [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
+  - [`README.md`](🌔_4_Small_Steps/README.md)
+- [**🌕_5_Long_Strategies/**](🌕_5_Long_Strategies/)
+  - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🌸_Containment_Studies/**](🌸_Containment_Studies/)
   - [**🌙_Everyday_Containment/**](🌸_Containment_Studies/🌙_Everyday_Containment/)
     - [`README.md`](🌸_Containment_Studies/🌙_Everyday_Containment/README.md)
