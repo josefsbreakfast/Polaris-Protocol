@@ -1,5 +1,5 @@
 # 🖱 Cursor Jump Triage: Flowchart
-**First created:** 2025-09-12 | **Last updated:** 2025-09-12  
+**First created:** 2025-09-12 | **Last updated:** 2026-05-19  
 *When the caret leaps: start benign, escalate if patterned, flag if sabotage-class.*
 
 ---
@@ -60,4 +60,4 @@ It starts with ordinary device hygiene, then names patterns that rise to sabotag
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-09-12_
+_Last updated: 2026-05-19_
