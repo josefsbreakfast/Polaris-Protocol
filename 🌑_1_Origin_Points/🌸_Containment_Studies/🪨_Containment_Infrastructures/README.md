@@ -1,5 +1,5 @@
 # 🪨 Containment Infrastructures  
-**First created:** 2026-05-13 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-13 | **Last updated:** 2026-05-19  
 *Material, procedural, digital, and institutional systems through which containment becomes operationalised.*  
 
 ---
@@ -289,10 +289,10 @@ It studies:
 
 > 📡 Cross-references:
 >
-> - [🌸 Containment Studies](../README.md) — root cluster for containment analysis  
-> - [🔁 Containment Dynamics](../🔁_Containment_Dynamics/README.md) — escalation, adaptation, and institutional drift  
-> - [🩺 Diagnostic Tools](../🩺_Diagnostic_Tools/README.md) — operational mapping and rigidity analysis  
+> - [🌸 Containment Studies](../README.md) — *root cluster for containment analysis*  
+> - [🔁 Containment Dynamics](../🔁_Containment_Dynamics/README.md) — *escalation, adaptation, and institutional drift*  
+> - [🩺 Diagnostic Tools](../🩺_Diagnostic_Tools/README.md) — *operational mapping and rigidity analysis*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-19_
