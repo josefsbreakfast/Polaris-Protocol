@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-19 22:38:20 UTC_
+_Generated on 2026-05-19 22:40:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7008,6 +7008,12 @@ _Generated on 2026-05-19 22:38:20 UTC_
       - [`🐍_non_closure_principle.md`](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/🐍_non_closure_principle.md)
       - [`🕸️_justice_as_load_bearing.md`](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/🕸️_justice_as_load_bearing.md)
       - [`🪲_resilience_over_optimisation.md`](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/🪲_resilience_over_optimisation.md)
+    - [**🌿_Ecological_Metaphors/**](🌑_1_Origin_Points/🧄_Exousiología/🌿_Ecological_Metaphors/)
+      - [`README.md`](🌑_1_Origin_Points/🧄_Exousiología/🌿_Ecological_Metaphors/README.md)
+      - [`🌿_animals_pack_predator_parasite.md`](🌑_1_Origin_Points/🧄_Exousiología/🌿_Ecological_Metaphors/🌿_animals_pack_predator_parasite.md)
+      - [`🌿_mythic_ecologies.md`](🌑_1_Origin_Points/🧄_Exousiología/🌿_Ecological_Metaphors/🌿_mythic_ecologies.md)
+      - [`🌿_succession_and_regrowth.md`](🌑_1_Origin_Points/🧄_Exousiología/🌿_Ecological_Metaphors/🌿_succession_and_regrowth.md)
+      - [`🌿_trees_roots_and_canopies.md`](🌑_1_Origin_Points/🧄_Exousiología/🌿_Ecological_Metaphors/🌿_trees_roots_and_canopies.md)
   - [`README.md`](🌑_1_Origin_Points/README.md)
 - [**🌒_2_Signs_Symptoms/**](🌒_2_Signs_Symptoms/)
   - [`README.md`](🌒_2_Signs_Symptoms/README.md)
@@ -7428,12 +7434,6 @@ _Generated on 2026-05-19 22:38:20 UTC_
     - [`🧠_the_background_terror.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_the_background_terror.md)
   - [`README.md`](🦆_Digital_Disruption/README.md)
 - [**🧄_Exousiología/**](🧄_Exousiología/)
-  - [**🌿_Ecological_Metaphors/**](🧄_Exousiología/🌿_Ecological_Metaphors/)
-    - [`README.md`](🧄_Exousiología/🌿_Ecological_Metaphors/README.md)
-    - [`🌿_animals_pack_predator_parasite.md`](🧄_Exousiología/🌿_Ecological_Metaphors/🌿_animals_pack_predator_parasite.md)
-    - [`🌿_mythic_ecologies.md`](🧄_Exousiología/🌿_Ecological_Metaphors/🌿_mythic_ecologies.md)
-    - [`🌿_succession_and_regrowth.md`](🧄_Exousiología/🌿_Ecological_Metaphors/🌿_succession_and_regrowth.md)
-    - [`🌿_trees_roots_and_canopies.md`](🧄_Exousiología/🌿_Ecological_Metaphors/🌿_trees_roots_and_canopies.md)
   - [**🔥_Modes_Of_Change/**](🧄_Exousiología/🔥_Modes_Of_Change/)
     - [`README.md`](🧄_Exousiología/🔥_Modes_Of_Change/README.md)
     - [`☔️_when_change_is_not_optional.md`](🧄_Exousiología/🔥_Modes_Of_Change/☔️_when_change_is_not_optional.md)
