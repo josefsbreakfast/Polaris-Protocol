@@ -1,5 +1,5 @@
 # 🦖 Failure And Revocability  
-**First created:** 2026-05-05 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-05 | **Last updated:** 2026-05-19  
 *How authority systems decay, exceed their legitimacy conditions, and encounter the necessity of limitation, succession, or ending.*
 
 ---
@@ -294,4 +294,4 @@ It examines how authority systems lose legitimacy, accumulate brittleness, excee
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-19_
