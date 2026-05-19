@@ -1,5 +1,5 @@
 # 🖥 Interface Glitches  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-16 | **Last updated:** 2026-05-19  
 *UI anomalies: buttons vanish, text fields lock, cursors misbehave.*  
 
 ---
@@ -158,4 +158,4 @@ It documents the surface layer of disruption — when the screen itself refuses 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2026-05-19_
