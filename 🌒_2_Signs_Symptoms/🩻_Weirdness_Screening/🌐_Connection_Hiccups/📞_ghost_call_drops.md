@@ -1,5 +1,5 @@
 # 📞 Ghost Call Drops  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
+**First created:** 2025-10-04 | **Last updated:** 2026-05-19  
 *Voice or video calls that terminate on key phrases or emotional peaks*
 
 ---
@@ -43,4 +43,4 @@ It tracks linguistic or emotional triggers behind synchronous call failures.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2026-05-19_
