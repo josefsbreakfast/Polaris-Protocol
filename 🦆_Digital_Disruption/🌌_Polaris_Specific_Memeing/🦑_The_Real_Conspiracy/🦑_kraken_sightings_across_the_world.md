@@ -1,5 +1,5 @@
 # 🦑 Kraken Sightings Across The World (Wide Web)  
-**First created:** 2026-05-10 | **Last updated:** 2026-05-10  
+**First created:** 2026-05-10 | **Last updated:** 2026-05-19  
 *Sighting the Trident's natural deterrent.*  
 
 ---
@@ -19,6 +19,7 @@ May require more tea.
 |:-----------|:------------:|------------:|  
 | 2026-05-10  | "Octopus influx keeping deep sea dolphins inshore"    | [BBC News](https://www.bbc.co.uk/news/articles/c8e8pp5ggllo)   |  
 | 2026-04-28  | "Not just folklore: A giant kraken-like octopus terrorized the seas in the age of dinosaurs"    | [The Week](https://theweek.com/science/giant-kraken-like-octopus-ruled-ancient-seas-cretaceous)   |  
+| 2026-04-24  | BeyondTheBlue: "Why Squids Are So Terrifying In The Antarctic Ocean"  [YouTube](https://youtu.be/UuvsH5Qu9lM?si=X6PSXri8wwgnMkgU)  |
 | 2026-04-23  | "Meet the 19 metre octopus that may have prowled ancient seas"    | [BBC News](https://www.bbc.co.uk/news/articles/cyv1rgm16r2o)   |  
 | 2026-02-11  | "High squid levels prompt calls to speed up fishery pilot"    | [BBC News](https://www.bbc.co.uk/news/articles/cp9m5jeg494o)   |  
 | 2026-01-28  | "Future rare octopus blooms 'likely' in UK seas"    | [BBC News](https://www.bbc.co.uk/news/articles/cdjnpym32lvo)   |  
@@ -53,4 +54,4 @@ It contributes to the archive by *letting you know where they are*.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-10_
+_Last updated: 2026-05-19_
