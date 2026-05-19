@@ -1,5 +1,5 @@
 # 📬 Comms Breaks  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-16 | **Last updated:** 2026-05-19  
 *Messages delayed, attachments lost, calls/messages dropped mid-conversation.*  
 
 ---
@@ -151,4 +151,4 @@ It records interruptions in digital conversation flows — where the connection 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2026-05-19_
