@@ -1,5 +1,5 @@
 # 🌑 What Is Authority  
-**First created:** 2026-05-05 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-05 | **Last updated:** 2026-05-19  
 *Foundational distinctions between authority, force, legitimacy, influence, and the socially recognised capacity to shape collective reality.*
 
 ---
@@ -375,4 +375,4 @@ It establishes the primary distinctions between authority, force, legitimacy, do
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-19_
