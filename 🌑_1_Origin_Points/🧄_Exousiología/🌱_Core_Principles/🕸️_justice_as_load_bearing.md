@@ -1,5 +1,5 @@
 # 🕸️ Justice As Load-Bearing  
-**First created:** 2026-05-05 | **Last updated:** 2026-05-13  
+**First created:** 2026-05-05 | **Last updated:** 2026-05-19  
 *Why justice is not merely moral decoration, but structural infrastructure for survivable governance.*  
 
 ---
@@ -262,4 +262,4 @@ It contributes to **🧄 Exousiología** by treating justice not as ornamental m
 
 *What systems force people to carry eventually shapes whether those systems remain livable.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-19_
