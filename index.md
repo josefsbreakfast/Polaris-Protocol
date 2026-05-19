@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-19 22:58:11 UTC_
+_Generated on 2026-05-19 23:09:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7075,6 +7075,19 @@ _Generated on 2026-05-19 22:58:11 UTC_
     - [`README.md`](🌑_1_Origin_Points/🧄_Exousiología/README.md)
   - [`README.md`](🌑_1_Origin_Points/README.md)
 - [**🌒_2_Signs_Symptoms/**](🌒_2_Signs_Symptoms/)
+  - [**🩻_Weirdness_Screening/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/)
+    - [**🌐_Connection_Hiccups/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/)
+      - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/README.md)
+      - [`⏱️_timebase_desyncs.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/⏱️_timebase_desyncs.md)
+      - [`📞_ghost_call_drops.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/📞_ghost_call_drops.md)
+      - [`📡_protocol_shadowing.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/📡_protocol_shadowing.md)
+      - [`📤_upload_evaporation.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/📤_upload_evaporation.md)
+      - [`🔁_handshake_loopbacks.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/🔁_handshake_loopbacks.md)
+      - [`🔄_router_memory_ghosts.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/🔄_router_memory_ghosts.md)
+      - [`🛰️_field_interference_patterns.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/🛰️_field_interference_patterns.md)
+      - [`🧩_connectivity_mosaic.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/🧩_connectivity_mosaic.md)
+    - [**🎛_Systematic_Patterns/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🎛_Systematic_Patterns/)
+      - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🎛_Systematic_Patterns/README.md)
   - [`README.md`](🌒_2_Signs_Symptoms/README.md)
 - [**🌓_3_In_The_Moment/**](🌓_3_In_The_Moment/)
   - [`README.md`](🌓_3_In_The_Moment/README.md)
@@ -7493,18 +7506,6 @@ _Generated on 2026-05-19 22:58:11 UTC_
     - [`🧠_the_background_terror.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_the_background_terror.md)
   - [`README.md`](🦆_Digital_Disruption/README.md)
 - [**🩻_Weirdness_Screening/**](🩻_Weirdness_Screening/)
-  - [**🌐_Connection_Hiccups/**](🩻_Weirdness_Screening/🌐_Connection_Hiccups/)
-    - [`README.md`](🩻_Weirdness_Screening/🌐_Connection_Hiccups/README.md)
-    - [`⏱️_timebase_desyncs.md`](🩻_Weirdness_Screening/🌐_Connection_Hiccups/⏱️_timebase_desyncs.md)
-    - [`📞_ghost_call_drops.md`](🩻_Weirdness_Screening/🌐_Connection_Hiccups/📞_ghost_call_drops.md)
-    - [`📡_protocol_shadowing.md`](🩻_Weirdness_Screening/🌐_Connection_Hiccups/📡_protocol_shadowing.md)
-    - [`📤_upload_evaporation.md`](🩻_Weirdness_Screening/🌐_Connection_Hiccups/📤_upload_evaporation.md)
-    - [`🔁_handshake_loopbacks.md`](🩻_Weirdness_Screening/🌐_Connection_Hiccups/🔁_handshake_loopbacks.md)
-    - [`🔄_router_memory_ghosts.md`](🩻_Weirdness_Screening/🌐_Connection_Hiccups/🔄_router_memory_ghosts.md)
-    - [`🛰️_field_interference_patterns.md`](🩻_Weirdness_Screening/🌐_Connection_Hiccups/🛰️_field_interference_patterns.md)
-    - [`🧩_connectivity_mosaic.md`](🩻_Weirdness_Screening/🌐_Connection_Hiccups/🧩_connectivity_mosaic.md)
-  - [**🎛_Systematic_Patterns/**](🩻_Weirdness_Screening/🎛_Systematic_Patterns/)
-    - [`README.md`](🩻_Weirdness_Screening/🎛_Systematic_Patterns/README.md)
   - [**📂_Data_Shifts/**](🩻_Weirdness_Screening/📂_Data_Shifts/)
     - [`README.md`](🩻_Weirdness_Screening/📂_Data_Shifts/README.md)
     - [`📝_repo_upload_glitch_hollow_node.md`](🩻_Weirdness_Screening/📂_Data_Shifts/📝_repo_upload_glitch_hollow_node.md)
