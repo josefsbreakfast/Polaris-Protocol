@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-19 22:33:22 UTC_
+_Generated on 2026-05-19 22:38:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7000,6 +7000,14 @@ _Generated on 2026-05-19 22:33:22 UTC_
       - [` 🌑_what_is_authority.md`](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/ 🌑_what_is_authority.md)
       - [` 🐙_scope_and_limits.md`](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/ 🐙_scope_and_limits.md)
       - [` 🦖_failure_and_revocability.md`](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/ 🦖_failure_and_revocability.md)
+      - [` 🧅_source_and_legitimacy.md`](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/ 🧅_source_and_legitimacy.md)
+      - [` 🪼_legibility_and_recognition.md`](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/ 🪼_legibility_and_recognition.md)
+      - [` 🫚_shape_of_power.md`](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/ 🫚_shape_of_power.md)
+      - [`README.md`](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/README.md)
+      - [`🐌_embodiment_as_evidence.md`](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/🐌_embodiment_as_evidence.md)
+      - [`🐍_non_closure_principle.md`](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/🐍_non_closure_principle.md)
+      - [`🕸️_justice_as_load_bearing.md`](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/🕸️_justice_as_load_bearing.md)
+      - [`🪲_resilience_over_optimisation.md`](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/🪲_resilience_over_optimisation.md)
   - [`README.md`](🌑_1_Origin_Points/README.md)
 - [**🌒_2_Signs_Symptoms/**](🌒_2_Signs_Symptoms/)
   - [`README.md`](🌒_2_Signs_Symptoms/README.md)
@@ -7420,15 +7428,6 @@ _Generated on 2026-05-19 22:33:22 UTC_
     - [`🧠_the_background_terror.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_the_background_terror.md)
   - [`README.md`](🦆_Digital_Disruption/README.md)
 - [**🧄_Exousiología/**](🧄_Exousiología/)
-  - [**🌱_Core_Principles/**](🧄_Exousiología/🌱_Core_Principles/)
-    - [` 🧅_source_and_legitimacy.md`](🧄_Exousiología/🌱_Core_Principles/ 🧅_source_and_legitimacy.md)
-    - [` 🪼_legibility_and_recognition.md`](🧄_Exousiología/🌱_Core_Principles/ 🪼_legibility_and_recognition.md)
-    - [` 🫚_shape_of_power.md`](🧄_Exousiología/🌱_Core_Principles/ 🫚_shape_of_power.md)
-    - [`README.md`](🧄_Exousiología/🌱_Core_Principles/README.md)
-    - [`🐌_embodiment_as_evidence.md`](🧄_Exousiología/🌱_Core_Principles/🐌_embodiment_as_evidence.md)
-    - [`🐍_non_closure_principle.md`](🧄_Exousiología/🌱_Core_Principles/🐍_non_closure_principle.md)
-    - [`🕸️_justice_as_load_bearing.md`](🧄_Exousiología/🌱_Core_Principles/🕸️_justice_as_load_bearing.md)
-    - [`🪲_resilience_over_optimisation.md`](🧄_Exousiología/🌱_Core_Principles/🪲_resilience_over_optimisation.md)
   - [**🌿_Ecological_Metaphors/**](🧄_Exousiología/🌿_Ecological_Metaphors/)
     - [`README.md`](🧄_Exousiología/🌿_Ecological_Metaphors/README.md)
     - [`🌿_animals_pack_predator_parasite.md`](🧄_Exousiología/🌿_Ecological_Metaphors/🌿_animals_pack_predator_parasite.md)
