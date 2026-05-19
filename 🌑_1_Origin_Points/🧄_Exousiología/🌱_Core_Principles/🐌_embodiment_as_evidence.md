@@ -1,5 +1,5 @@
 # 🐌 Embodiment As Evidence  
-**First created:** 2026-05-05 | **Last updated:** 2026-05-13  
+**First created:** 2026-05-05 | **Last updated:** 2026-05-19  
 *How bodies register the reality of authority systems before institutions admit it.*  
 
 ---
@@ -255,4 +255,4 @@ It contributes to **🧄 Exousiología** by treating embodiment as:
 
 *Bodies remember what institutions attempt to ignore.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-19_
