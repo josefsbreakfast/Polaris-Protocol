@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-19 22:31:51 UTC_
+_Generated on 2026-05-19 22:33:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6998,6 +6998,8 @@ _Generated on 2026-05-19 22:31:51 UTC_
       - [`📿_vedic_dharma_and_rta.md`](🌑_1_Origin_Points/🧄_Exousiología/🌍_Comparative_Systems/📿_vedic_dharma_and_rta.md)
     - [**🌱_Core_Principles/**](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/)
       - [` 🌑_what_is_authority.md`](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/ 🌑_what_is_authority.md)
+      - [` 🐙_scope_and_limits.md`](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/ 🐙_scope_and_limits.md)
+      - [` 🦖_failure_and_revocability.md`](🌑_1_Origin_Points/🧄_Exousiología/🌱_Core_Principles/ 🦖_failure_and_revocability.md)
   - [`README.md`](🌑_1_Origin_Points/README.md)
 - [**🌒_2_Signs_Symptoms/**](🌒_2_Signs_Symptoms/)
   - [`README.md`](🌒_2_Signs_Symptoms/README.md)
@@ -7419,8 +7421,6 @@ _Generated on 2026-05-19 22:31:51 UTC_
   - [`README.md`](🦆_Digital_Disruption/README.md)
 - [**🧄_Exousiología/**](🧄_Exousiología/)
   - [**🌱_Core_Principles/**](🧄_Exousiología/🌱_Core_Principles/)
-    - [` 🐙_scope_and_limits.md`](🧄_Exousiología/🌱_Core_Principles/ 🐙_scope_and_limits.md)
-    - [` 🦖_failure_and_revocability.md`](🧄_Exousiología/🌱_Core_Principles/ 🦖_failure_and_revocability.md)
     - [` 🧅_source_and_legitimacy.md`](🧄_Exousiología/🌱_Core_Principles/ 🧅_source_and_legitimacy.md)
     - [` 🪼_legibility_and_recognition.md`](🧄_Exousiología/🌱_Core_Principles/ 🪼_legibility_and_recognition.md)
     - [` 🫚_shape_of_power.md`](🧄_Exousiología/🌱_Core_Principles/ 🫚_shape_of_power.md)
