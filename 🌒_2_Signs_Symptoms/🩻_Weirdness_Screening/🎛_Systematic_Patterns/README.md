@@ -1,5 +1,5 @@
 # 🎛 Systematic Patterns  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-16 | **Last updated:** 2026-05-19  
 *Glitches that repeat on schedules or in sync with suppression*  
 
 ---
@@ -96,4 +96,4 @@ It reveals repetition as evidence of orchestration and offers a place to codify 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2026-05-19_
