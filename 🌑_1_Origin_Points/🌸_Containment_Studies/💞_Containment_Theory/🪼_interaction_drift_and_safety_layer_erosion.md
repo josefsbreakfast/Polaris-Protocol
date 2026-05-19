@@ -1,5 +1,5 @@
 # 🪼 Interaction Drift & Safety Layer Erosion  
-**First created:** 2025-12-12 | **Last updated:** 2026-05-13  
+**First created:** 2025-12-12 | **Last updated:** 2026-05-19  
 *How ordinary conversational use can gradually alter system behaviour and weaken safeguards.*  
 
 ---
@@ -190,4 +190,4 @@ It documents how harm can emerge through cumulative interaction rather than expl
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-19_
