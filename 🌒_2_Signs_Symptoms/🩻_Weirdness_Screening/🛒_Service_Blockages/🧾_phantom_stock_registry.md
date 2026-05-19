@@ -1,5 +1,5 @@
 # 🧾 Phantom Stock Registry
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-19  
 *Inventory anomalies where items appear available but cannot be purchased.*
 
 ---
@@ -60,3 +60,4 @@ phantom stock, inventory mirage, selective unavailability, retail geofencing, sc
 
 ## 🏮 Footer
 Part of **🛒 Service Blockages** (Weirdness Screening). Survivor authorship is sovereign; document precisely and early.
+2026-05-19
