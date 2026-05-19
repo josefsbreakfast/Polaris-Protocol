@@ -1,5 +1,5 @@
 # 🚦 Transit Blackout Casebook
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-19  
 *Rail, bus, tram, metro — significant service suspensions aligned with public events.*
 
 ---
@@ -52,3 +52,4 @@ rail suspension, signalling fault, bus control outage, platform gating, movement
 
 ## 🏮 Footer
 Part of **🚉 Infrastructure Hiccups**. Transit is choreography; timing reveals intent.
+2026-05-19
