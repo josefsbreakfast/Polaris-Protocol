@@ -1,5 +1,5 @@
 # 🔑 Access Barriers  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-16 | **Last updated:** 2026-05-19  
 *Logins rejected, submit buttons fail, MFA loops.*  
 
 ---
@@ -124,4 +124,4 @@ It exposes systematic rejection and lock-out tactics — showing how the languag
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2026-05-19_
