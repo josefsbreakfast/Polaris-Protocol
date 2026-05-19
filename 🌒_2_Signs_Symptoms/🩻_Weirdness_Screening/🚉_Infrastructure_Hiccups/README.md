@@ -1,5 +1,5 @@
 # 🚉 Infrastructure Hiccups  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-16 | **Last updated:** 2026-05-19  
 *Public/service disruptions (trains, ATMs, payment systems).*  
 
 ---
@@ -121,4 +121,4 @@ It situates external disruptions within the wider landscape of containment — r
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2026-05-19_
