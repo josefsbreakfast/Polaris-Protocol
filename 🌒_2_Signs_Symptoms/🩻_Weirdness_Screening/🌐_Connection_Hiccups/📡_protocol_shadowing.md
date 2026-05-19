@@ -1,5 +1,5 @@
 # 📡 Protocol Shadowing  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
+**First created:** 2025-10-04 | **Last updated:** 2026-05-19  
 *Selective degradation of encrypted or peer-to-peer channels*
 
 ---
@@ -44,4 +44,4 @@ It documents the subtle manipulation of secure channels and encrypted pathways.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2026-05-19_
