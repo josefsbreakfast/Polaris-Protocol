@@ -1,5 +1,5 @@
 # 🧰 Consumer Countermeasure Kit
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-19  
 *Practical steps to document, route around, and escalate blockages.*
 
 ---
@@ -47,3 +47,4 @@ workarounds, documentation protocol, escalation pathway, evidence bundle
 
 ## 🏮 Footer
 Part of **🛒 Service Blockages**. Containment resists sunlight; this kit is a torch.
+2026-05-19
