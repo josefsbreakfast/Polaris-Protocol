@@ -1,5 +1,5 @@
 # 🔁 Containment Dynamics  
-**First created:** 2026-05-13 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-13 | **Last updated:** 2026-05-19  
 *Escalation, drift, adaptation, and the self-reinforcing behaviour of containment systems over time.*  
 
 ---
@@ -258,4 +258,4 @@ It examines:
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-19_
