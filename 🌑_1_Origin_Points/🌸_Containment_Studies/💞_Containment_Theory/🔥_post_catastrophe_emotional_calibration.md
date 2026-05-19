@@ -1,5 +1,5 @@
 # 🔥 Post‑Catastrophe Emotional Calibration  
-**First created:** 2025-12-14 | **Last updated:** 2026-05-13  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-19  
 *How prior emotional catastrophe permanently alters scale, threat perception, and capacity for intensity.*  
 
 ---
@@ -137,4 +137,4 @@ It names a non‑pathological shift in emotional scale following survival of maj
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-19_
