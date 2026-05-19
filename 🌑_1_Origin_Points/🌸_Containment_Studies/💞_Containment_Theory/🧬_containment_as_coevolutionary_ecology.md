@@ -1,5 +1,5 @@
 # 🧬 Containment as Co-evolutionary Ecology  
-**First created:** 2025-11-02 | **Last updated:** 2026-05-13  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-19  
 *Containment and resistance as adaptive organisms evolving together.*  
 
 ---
@@ -48,4 +48,4 @@ It reframes containment as an adaptive ecology where every act of control alters
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-19_
