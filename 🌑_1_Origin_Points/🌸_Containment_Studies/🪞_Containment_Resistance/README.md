@@ -1,5 +1,5 @@
 # 🪞 Containment & Resistance  
-**First created:** 2026-05-13 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-13 | **Last updated:** 2026-05-19  
 *Leakage, refusal, adaptation, mutual aid, humour, and survival strategies emerging inside containment systems.*  
 
 ---
@@ -289,10 +289,10 @@ It studies:
 
 > 📡 Cross-references:
 >
-> - [🌸 Containment Studies](../README.md) — root cluster for containment analysis  
-> - [🌿 Ecologies Of Containment](../🌿_Ecologies_Of_Containment/README.md) — adaptive resilience and stewardship systems  
-> - [🧠 Psychic & Emotional Containment](../🧠_Psychic_Emotional_Containment/README.md) — embodied adaptation and emotional survival under pressure  
+> - [🌸 Containment Studies](../README.md) — *root cluster for containment analysis*  
+> - [🌿 Ecologies Of Containment](../🌿_Ecologies_Of_Containment/README.md) — *adaptive resilience and stewardship systems*  
+> - [🧠 Psychic & Emotional Containment](../🧠_Psychic_Emotional_Containment/README.md) — *embodied adaptation and emotional survival under pressure*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-19_
