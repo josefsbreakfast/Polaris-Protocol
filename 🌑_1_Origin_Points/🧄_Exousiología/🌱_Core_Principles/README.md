@@ -1,5 +1,5 @@
 # 🌱 Core Principles  
-**First created:** 2026-05-05 | **Last updated:** 2026-05-05  
+**First created:** 2026-05-05 | **Last updated:** 2026-05-19  
 *Working commitments grounding how authority is understood, evaluated, and challenged within Exousiología.*
 
 ---
@@ -94,4 +94,4 @@ It defines the working commitments used to interpret authority without collapsin
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-05_
+_Last updated: 2026-05-19_
