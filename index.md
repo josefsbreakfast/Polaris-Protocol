@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-19 15:30:31 UTC_
+_Generated on 2026-05-19 15:31:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6995,6 +6995,8 @@ _Generated on 2026-05-19 15:30:31 UTC_
   - [**🪨_Containment_Infrastructures/**](🌸_Containment_Studies/🪨_Containment_Infrastructures/)
     - [`README.md`](🌸_Containment_Studies/🪨_Containment_Infrastructures/README.md)
   - [`README.md`](🌸_Containment_Studies/README.md)
+- [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
+  - [`README.md`](🏮_Admin_Nest/README.md)
 - [**👻_Apparitional_Objects/**](👻_Apparitional_Objects/)
   - [**🍽️_Fork_Taxonomy/**](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/)
     - [`README.md`](👻_Apparitional_Objects/🍽️_Fork_Taxonomy/README.md)
