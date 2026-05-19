@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-19 22:06:59 UTC_
+_Generated on 2026-05-19 22:08:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6961,6 +6961,9 @@ _Generated on 2026-05-19 22:06:59 UTC_
       - [`🍳_waiting_as_josef_k.md`](🌑_1_Origin_Points/🌸_Containment_Studies/💞_Containment_Theory/🍳_waiting_as_josef_k.md)
       - [`👻_fluent_language_as_an_attack_surface.md`](🌑_1_Origin_Points/🌸_Containment_Studies/💞_Containment_Theory/👻_fluent_language_as_an_attack_surface.md)
       - [`🔥_post_catastrophe_emotional_calibration.md`](🌑_1_Origin_Points/🌸_Containment_Studies/💞_Containment_Theory/🔥_post_catastrophe_emotional_calibration.md)
+      - [`🧬_containment_as_coevolutionary_ecology.md`](🌑_1_Origin_Points/🌸_Containment_Studies/💞_Containment_Theory/🧬_containment_as_coevolutionary_ecology.md)
+      - [`🪞_containment_detente_as_temporal_governance.md`](🌑_1_Origin_Points/🌸_Containment_Studies/💞_Containment_Theory/🪞_containment_detente_as_temporal_governance.md)
+      - [`🪼_interaction_drift_and_safety_layer_erosion.md`](🌑_1_Origin_Points/🌸_Containment_Studies/💞_Containment_Theory/🪼_interaction_drift_and_safety_layer_erosion.md)
   - [`README.md`](🌑_1_Origin_Points/README.md)
 - [**🌒_2_Signs_Symptoms/**](🌒_2_Signs_Symptoms/)
   - [`README.md`](🌒_2_Signs_Symptoms/README.md)
@@ -6971,10 +6974,6 @@ _Generated on 2026-05-19 22:06:59 UTC_
 - [**🌕_5_Long_Strategies/**](🌕_5_Long_Strategies/)
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🌸_Containment_Studies/**](🌸_Containment_Studies/)
-  - [**💞_Containment_Theory/**](🌸_Containment_Studies/💞_Containment_Theory/)
-    - [`🧬_containment_as_coevolutionary_ecology.md`](🌸_Containment_Studies/💞_Containment_Theory/🧬_containment_as_coevolutionary_ecology.md)
-    - [`🪞_containment_detente_as_temporal_governance.md`](🌸_Containment_Studies/💞_Containment_Theory/🪞_containment_detente_as_temporal_governance.md)
-    - [`🪼_interaction_drift_and_safety_layer_erosion.md`](🌸_Containment_Studies/💞_Containment_Theory/🪼_interaction_drift_and_safety_layer_erosion.md)
   - [**🦋_Aesthetic_Symbolic_Containment/**](🌸_Containment_Studies/🦋_Aesthetic_Symbolic_Containment/)
     - [`README.md`](🌸_Containment_Studies/🦋_Aesthetic_Symbolic_Containment/README.md)
   - [**🧠_Psychic_Emotional_Containment/**](🌸_Containment_Studies/🧠_Psychic_Emotional_Containment/)
