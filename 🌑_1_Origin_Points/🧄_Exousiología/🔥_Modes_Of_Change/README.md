@@ -1,5 +1,5 @@
 # 🔥 Modes Of Change  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-15  
+**First created:** 2026-05-12 | **Last updated:** 2026-05-19  
 
 *An examination of how systems transition, adapt, rupture, regenerate, or refuse transformation under pressure.*  
 
@@ -240,4 +240,4 @@ The living root bridge reminds us:
 
 *Transformation without stewardship becomes rupture. Continuity without adaptation becomes brittleness.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-19_
