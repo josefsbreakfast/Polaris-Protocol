@@ -1,5 +1,5 @@
 # ❤️‍🩹 Patching And Harm Reduction  
-**First created:** 2026-05-15 | **Last updated:** 2026-05-15  
+**First created:** 2026-05-15 | **Last updated:** 2026-05-19  
 *Why imperfect stabilisation measures are often necessary long before full systemic transformation becomes possible.*  
 
 ---
@@ -159,4 +159,4 @@ The central question remains:
 
 *Survivability matters. Temporary shelter still counts. Maintenance can be ethical.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-19_
