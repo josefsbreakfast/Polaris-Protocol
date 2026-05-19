@@ -1,5 +1,5 @@
 # 🧰 Field Kit — Infrastructure Logs
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-19  
 *Templates and tactics for reliable, shareable incident capture.*
 
 ---
@@ -49,3 +49,4 @@ field logging, evidence capture, reproducibility, cross-verification, escalation
 
 ## 🏮 Footer
 Part of **🚉 Infrastructure Hiccups**. The first responder is the witness; kit them out.
+2026-05-19
