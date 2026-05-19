@@ -1,5 +1,5 @@
 # 🪞 Retail Shadowban Index
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-19  
 *Catalogues of suppressed, delisted, or unsearchable products.*
 
 ---
@@ -57,3 +57,4 @@ search suppression, delisting, ranking bias, algorithmic invisibility
 
 ## 🏮 Footer
 Part of **🛒 Service Blockages**. If you can only buy what you can find, search is policy.
+2026-05-19
