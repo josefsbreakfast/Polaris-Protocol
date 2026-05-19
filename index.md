@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-19 22:18:16 UTC_
+_Generated on 2026-05-19 22:30:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6986,6 +6986,16 @@ _Generated on 2026-05-19 22:18:16 UTC_
     - [**🪨_Containment_Infrastructures/**](🌑_1_Origin_Points/🌸_Containment_Studies/🪨_Containment_Infrastructures/)
       - [`README.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🪨_Containment_Infrastructures/README.md)
     - [`README.md`](🌑_1_Origin_Points/🌸_Containment_Studies/README.md)
+  - [**🧄_Exousiología/**](🌑_1_Origin_Points/🧄_Exousiología/)
+    - [**🌍_Comparative_Systems/**](🌑_1_Origin_Points/🧄_Exousiología/🌍_Comparative_Systems/)
+      - [`README.md`](🌑_1_Origin_Points/🧄_Exousiología/🌍_Comparative_Systems/README.md)
+      - [`🍵_sinic_mandate_of_heaven.md`](🌑_1_Origin_Points/🧄_Exousiología/🌍_Comparative_Systems/🍵_sinic_mandate_of_heaven.md)
+      - [`🏛️_roman_imperium_and_potestas.md`](🌑_1_Origin_Points/🧄_Exousiología/🌍_Comparative_Systems/🏛️_roman_imperium_and_potestas.md)
+      - [`🏺_hellenic_exousia.md`](🌑_1_Origin_Points/🧄_Exousiología/🌍_Comparative_Systems/🏺_hellenic_exousia.md)
+      - [`🐚_indigenous_continuity_systems.md`](🌑_1_Origin_Points/🧄_Exousiología/🌍_Comparative_Systems/🐚_indigenous_continuity_systems.md)
+      - [`🐪_egyptian_maat_and_heka.md`](🌑_1_Origin_Points/🧄_Exousiología/🌍_Comparative_Systems/🐪_egyptian_maat_and_heka.md)
+      - [`💼_modern_bureaucratic_power.md`](🌑_1_Origin_Points/🧄_Exousiología/🌍_Comparative_Systems/💼_modern_bureaucratic_power.md)
+      - [`📿_vedic_dharma_and_rta.md`](🌑_1_Origin_Points/🧄_Exousiología/🌍_Comparative_Systems/📿_vedic_dharma_and_rta.md)
   - [`README.md`](🌑_1_Origin_Points/README.md)
 - [**🌒_2_Signs_Symptoms/**](🌒_2_Signs_Symptoms/)
   - [`README.md`](🌒_2_Signs_Symptoms/README.md)
@@ -7406,15 +7416,6 @@ _Generated on 2026-05-19 22:18:16 UTC_
     - [`🧠_the_background_terror.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_the_background_terror.md)
   - [`README.md`](🦆_Digital_Disruption/README.md)
 - [**🧄_Exousiología/**](🧄_Exousiología/)
-  - [**🌍_Comparative_Systems/**](🧄_Exousiología/🌍_Comparative_Systems/)
-    - [`README.md`](🧄_Exousiología/🌍_Comparative_Systems/README.md)
-    - [`🍵_sinic_mandate_of_heaven.md`](🧄_Exousiología/🌍_Comparative_Systems/🍵_sinic_mandate_of_heaven.md)
-    - [`🏛️_roman_imperium_and_potestas.md`](🧄_Exousiología/🌍_Comparative_Systems/🏛️_roman_imperium_and_potestas.md)
-    - [`🏺_hellenic_exousia.md`](🧄_Exousiología/🌍_Comparative_Systems/🏺_hellenic_exousia.md)
-    - [`🐚_indigenous_continuity_systems.md`](🧄_Exousiología/🌍_Comparative_Systems/🐚_indigenous_continuity_systems.md)
-    - [`🐪_egyptian_maat_and_heka.md`](🧄_Exousiología/🌍_Comparative_Systems/🐪_egyptian_maat_and_heka.md)
-    - [`💼_modern_bureaucratic_power.md`](🧄_Exousiología/🌍_Comparative_Systems/💼_modern_bureaucratic_power.md)
-    - [`📿_vedic_dharma_and_rta.md`](🧄_Exousiología/🌍_Comparative_Systems/📿_vedic_dharma_and_rta.md)
   - [**🌱_Core_Principles/**](🧄_Exousiología/🌱_Core_Principles/)
     - [` 🌑_what_is_authority.md`](🧄_Exousiología/🌱_Core_Principles/ 🌑_what_is_authority.md)
     - [` 🐙_scope_and_limits.md`](🧄_Exousiología/🌱_Core_Principles/ 🐙_scope_and_limits.md)
