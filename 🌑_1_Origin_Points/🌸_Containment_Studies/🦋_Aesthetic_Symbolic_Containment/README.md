@@ -1,5 +1,5 @@
 # 🦋 Aesthetic & Symbolic Containment  
-**First created:** 2026-05-13 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-13 | **Last updated:** 2026-05-19  
 *Legitimisation through beauty, ritual, symbolism, composure, and the aesthetic management of instability.*  
 
 ---
@@ -294,4 +294,4 @@ It studies:
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-19_
