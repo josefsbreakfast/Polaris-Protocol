@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-19 21:58:30 UTC_
+_Generated on 2026-05-19 21:59:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6945,6 +6945,7 @@ _Generated on 2026-05-19 21:58:30 UTC_
   - [**🌸_Containment_Studies/**](🌑_1_Origin_Points/🌸_Containment_Studies/)
     - [**🌙_Everyday_Containment/**](🌑_1_Origin_Points/🌸_Containment_Studies/🌙_Everyday_Containment/)
       - [`README.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌙_Everyday_Containment/README.md)
+      - [`🫀_empathetic_burnout_and_cognitive_exhaustion.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌙_Everyday_Containment/🫀_empathetic_burnout_and_cognitive_exhaustion.md)
   - [`README.md`](🌑_1_Origin_Points/README.md)
 - [**🌒_2_Signs_Symptoms/**](🌒_2_Signs_Symptoms/)
   - [`README.md`](🌒_2_Signs_Symptoms/README.md)
@@ -6955,8 +6956,6 @@ _Generated on 2026-05-19 21:58:30 UTC_
 - [**🌕_5_Long_Strategies/**](🌕_5_Long_Strategies/)
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🌸_Containment_Studies/**](🌸_Containment_Studies/)
-  - [**🌙_Everyday_Containment/**](🌸_Containment_Studies/🌙_Everyday_Containment/)
-    - [`🫀_empathetic_burnout_and_cognitive_exhaustion.md`](🌸_Containment_Studies/🌙_Everyday_Containment/🫀_empathetic_burnout_and_cognitive_exhaustion.md)
   - [**🌱_Foundations_Of_Containment/**](🌸_Containment_Studies/🌱_Foundations_Of_Containment/)
     - [`README.md`](🌸_Containment_Studies/🌱_Foundations_Of_Containment/README.md)
     - [`notes.txt`](🌸_Containment_Studies/🌱_Foundations_Of_Containment/notes.txt)
