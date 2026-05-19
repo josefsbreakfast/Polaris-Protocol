@@ -1,5 +1,5 @@
 # 📦 Cart Reset Patterns
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-19  
 *Disappearing baskets, session purges, and interrupted flows.*
 
 ---
@@ -56,3 +56,4 @@ cart emptying, session manipulation, UX throttling, soft lockout
 
 ## 🏮 Footer
 Part of **🛒 Service Blockages**. Carts are memory; forced forgetting is a signature.
+2026-05-19
