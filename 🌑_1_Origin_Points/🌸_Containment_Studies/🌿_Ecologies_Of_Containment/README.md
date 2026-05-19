@@ -1,5 +1,5 @@
 # 🌿 Ecologies Of Containment  
-**First created:** 2026-05-13 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-13 | **Last updated:** 2026-05-19  
 *Bridge-zone between containment logic and adaptive stewardship systems.*  
 
 ---
@@ -252,4 +252,4 @@ It serves as a bridge between:
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-19_
