@@ -1,5 +1,5 @@
 # 🪼 Adaptive Reform  
-**First created:** 2026-05-15 | **Last updated:** 2026-05-15  
+**First created:** 2026-05-15 | **Last updated:** 2026-05-19  
 *How systems alter themselves in order to remain survivable, legitimate, and adaptive under changing conditions.*  
 
 ---
@@ -164,4 +164,4 @@ but rather:
 
 *Continuity without adaptation becomes brittleness. Reform without redistribution becomes theatre.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-19_
