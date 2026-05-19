@@ -1,5 +1,5 @@
 # 📎 Attachments Not Delivered  
-**First created:** 2025-09-12 | **Last updated:** 2025-09-12  
+**First created:** 2025-09-12 | **Last updated:** 2026-05-19  
 *When files vanish between draft box and recipient inbox.*  
 
 ---
@@ -64,4 +64,4 @@ It begins with ordinary limits (size/type/network) and escalates to stripping pa
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-12_
+_Last updated: 2026-05-19_
