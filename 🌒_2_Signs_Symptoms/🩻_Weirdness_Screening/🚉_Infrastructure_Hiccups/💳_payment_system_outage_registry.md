@@ -1,5 +1,5 @@
 # 💳 Payment System Outage Registry
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-19  
 *Financial rails: cards, ATMs, bank networks, merchant acquirers.*
 
 ---
@@ -55,3 +55,4 @@ psp outage, scheme decline, rails disruption, faster payments delay, settlement 
 
 ## 🏮 Footer
 Part of **🚉 Infrastructure Hiccups** (Weirdness Screening). Payment rails are civic plumbing; log with precision.
+2026-05-19
