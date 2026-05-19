@@ -1,5 +1,5 @@
 # 🐦‍🔥 Phoenix And Rebirth Logics  
-**First created:** 2026-05-15 | **Last updated:** 2026-05-15  
+**First created:** 2026-05-15 | **Last updated:** 2026-05-19  
 *How systems narrate collapse, regeneration, succession, and the dangerous seduction of renewal through destruction.*  
 
 ---
@@ -206,4 +206,4 @@ The central question is:
 
 *Fire alone does not build a future. Regeneration requires living continuity after the flames.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-19_
