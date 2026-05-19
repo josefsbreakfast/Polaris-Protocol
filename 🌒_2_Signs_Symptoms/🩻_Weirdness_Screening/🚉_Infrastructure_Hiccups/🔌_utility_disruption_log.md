@@ -1,5 +1,5 @@
 # 🔌 Utility Disruption Log
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-19  
 *Power grid, telecoms, data centre, CDN, and backbone events.*
 
 ---
@@ -52,3 +52,4 @@ power cut, isp outage, dns failure, backbone event, data centre incident
 
 ## 🏮 Footer
 Part of **🚉 Infrastructure Hiccups**. Utilities make the world hum; note when the hum drops.
+2026-05-19
