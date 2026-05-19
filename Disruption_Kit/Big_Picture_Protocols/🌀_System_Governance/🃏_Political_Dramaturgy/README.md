@@ -1,5 +1,5 @@
 # 🃏 Political Dramaturgy  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-18  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-19  
 *How power becomes theatrical, symbolic, aesthetic, and emotionally staged.*
 
 ---
@@ -131,7 +131,7 @@ Accountability, catastrophe, grief choreography, and continuity maintenance.
 ### 🎪 Culture-War Spectacle & Civic Theatre  
 The unstable edge where symbolic politics, performance, sexuality, and public ritual collide.
 
-- [🇬🇧 Why Alt-Right Burlesque Burkha Play Feels Weird](./🇬🇧_why_alt_right_burlesque_burkha_play_feels_weird.md) — symbolic unveiling rituals, spectacle politics, and racialised theatricality  
+- [🇬🇧 Why Alt-Right Burlesque Burqa Play Feels Weird](./🇬🇧_why_alt_right_burlesque_burqa_play_feels_weird.md) — symbolic unveiling rituals, spectacle politics, and racialised theatricality  
 
 ---
 
@@ -185,4 +185,4 @@ It maps the symbolic, theatrical, and aesthetic dimensions of governance systems
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-05-19_
