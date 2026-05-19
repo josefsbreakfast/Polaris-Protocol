@@ -1,5 +1,5 @@
 # 🌐 Connection Hiccups  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-04  
+**First created:** 2025-09-16 | **Last updated:** 2026-05-19  
 *Connectivity collapse as a patterned interference field*
 
 ---
@@ -77,4 +77,4 @@ It anchors the network-interference constellation, tracing how everyday disconne
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2026-05-19_
