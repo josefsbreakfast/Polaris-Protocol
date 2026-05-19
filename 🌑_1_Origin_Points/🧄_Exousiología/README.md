@@ -1,5 +1,5 @@
 # 🧄 Exousiología  
-**First created:** 2026-02-02 | **Last updated:** 2026-05-13  
+**First created:** 2026-02-02 | **Last updated:** 2026-05-19  
 *An ecological framework for legitimacy, stewardship, resilience, and the living shape of authority.*  
 
 ---
@@ -340,4 +340,4 @@ Both motifs recur throughout the Polaris Protocol as contrasting governance gram
 
 *Authority is relational. Stewardship is load-bearing. Stability must remain livable.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-19_
