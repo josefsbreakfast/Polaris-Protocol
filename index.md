@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-19 08:56:55 UTC_
+_Generated on 2026-05-19 15:28:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6941,6 +6941,10 @@ _Generated on 2026-05-19 08:56:55 UTC_
       - [`README.md`](⚗️_Apothecary/🫙_Distempers/🤍_Phlegmatic_Distempers/README.md)
     - [`README.md`](⚗️_Apothecary/🫙_Distempers/README.md)
   - [`README.md`](⚗️_Apothecary/README.md)
+- [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
+  - [`README.md`](🌑_1_Origin_Points/README.md)
+- [**🌒_2_Signs_Symptoms/**](🌒_2_Signs_Symptoms/)
+  - [`README.md`](🌒_2_Signs_Symptoms/README.md)
 - [**🌸_Containment_Studies/**](🌸_Containment_Studies/)
   - [**🌙_Everyday_Containment/**](🌸_Containment_Studies/🌙_Everyday_Containment/)
     - [`README.md`](🌸_Containment_Studies/🌙_Everyday_Containment/README.md)
