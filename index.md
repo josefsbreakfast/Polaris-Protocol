@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-19 08:53:12 UTC_
+_Generated on 2026-05-19 08:56:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -230,7 +230,7 @@ _Generated on 2026-05-19 08:53:12 UTC_
         - [`☔️_restorative_justice_in_a_shame_culture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/☔️_restorative_justice_in_a_shame_culture.md)
         - [`⚖️_aequanimitas_and_the_stiff_upper_lip.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/⚖️_aequanimitas_and_the_stiff_upper_lip.md)
         - [`✈️_crash_logic_state_grief_and_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/✈️_crash_logic_state_grief_and_erasure.md)
-        - [`🇬🇧_why_alt_right_burlesque_burkha_play_feels_weird.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🇬🇧_why_alt_right_burlesque_burkha_play_feels_weird.md)
+        - [`🇬🇧_why_alt_right_burlesque_burqa_play_feels_weird.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🇬🇧_why_alt_right_burlesque_burqa_play_feels_weird.md)
         - [`🌐_late_stage_autocracy_vibe_diagnostics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🌐_late_stage_autocracy_vibe_diagnostics.md)
         - [`🌱_the_broker_class_and_british_stagnation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🌱_the_broker_class_and_british_stagnation.md)
         - [`🌹_the_body_of_the_queen_and_the_body_of_the_state.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🌹_the_body_of_the_queen_and_the_body_of_the_state.md)
