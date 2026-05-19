@@ -1,5 +1,5 @@
 # 🪞 Containment & Détente as Temporal Governance  
-**First created:** 2025-11-02 | **Last updated:** 2026-05-13  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-19  
 *Control of rate and scope rather than binary state.*  
 
 ---
@@ -48,4 +48,4 @@ It reframes strategy as time modulation, revealing how control operates through 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-19_
