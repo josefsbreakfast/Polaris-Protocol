@@ -1,5 +1,5 @@
 # 🔁 Handshake Loopbacks  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
+**First created:** 2025-10-04 | **Last updated:** 2026-05-19  
 *Authentication refresh cycles that trap users in infinite reconnects*
 
 ---
@@ -44,4 +44,4 @@ It documents containment tactics hidden behind authentication refreshes and fals
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2026-05-19_
