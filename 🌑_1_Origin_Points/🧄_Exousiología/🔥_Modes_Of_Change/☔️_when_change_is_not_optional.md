@@ -1,5 +1,5 @@
 # ☔️ When Change Is Not Optional  
-**First created:** 2026-05-15 | **Last updated:** 2026-05-15  
+**First created:** 2026-05-15 | **Last updated:** 2026-05-19  
 *How systems reach thresholds where adaptation becomes necessary for survivability rather than ideological preference.*  
 
 ---
@@ -175,4 +175,4 @@ The central question becomes:
 
 *Continuity requires responsiveness. Survivability requires adaptation before rupture becomes unavoidable.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-19_
