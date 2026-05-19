@@ -1,5 +1,5 @@
 # 🪲 Resilience Over Optimisation  
-**First created:** 2026-05-05 | **Last updated:** 2026-05-13  
+**First created:** 2026-05-05 | **Last updated:** 2026-05-19  
 *Why survivable systems often appear less efficient than brittle ones.*  
 
 ---
@@ -356,4 +356,4 @@ It contributes to **🧄 Exousiología** by treating resilience as:
 
 *Systems that survive are not always the systems that optimise hardest.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-19_
