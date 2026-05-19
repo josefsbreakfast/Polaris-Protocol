@@ -1,5 +1,5 @@
 # 📈 Service Blockage Timeline
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-19  
 *Overlay of retail anomalies with political and social events.*
 
 ---
@@ -38,3 +38,4 @@ event correlation, outage overlay, scarcity timing, comparative chronology
 
 ## 🏮 Footer
 Part of **🛒 Service Blockages**. Time is a lens; look for rhythm and reprise.
+2026-05-19
