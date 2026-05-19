@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-19 22:01:34 UTC_
+_Generated on 2026-05-19 22:02:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6951,6 +6951,8 @@ _Generated on 2026-05-19 22:01:34 UTC_
       - [`notes.txt`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/notes.txt)
     - [**🌿_Ecologies_Of_Containment/**](🌑_1_Origin_Points/🌸_Containment_Studies/🌿_Ecologies_Of_Containment/)
       - [`README.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌿_Ecologies_Of_Containment/README.md)
+    - [**🎣_Containment_Dynamics/**](🌑_1_Origin_Points/🌸_Containment_Studies/🎣_Containment_Dynamics/)
+      - [`README.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🎣_Containment_Dynamics/README.md)
   - [`README.md`](🌑_1_Origin_Points/README.md)
 - [**🌒_2_Signs_Symptoms/**](🌒_2_Signs_Symptoms/)
   - [`README.md`](🌒_2_Signs_Symptoms/README.md)
@@ -6961,8 +6963,6 @@ _Generated on 2026-05-19 22:01:34 UTC_
 - [**🌕_5_Long_Strategies/**](🌕_5_Long_Strategies/)
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🌸_Containment_Studies/**](🌸_Containment_Studies/)
-  - [**🎣_Containment_Dynamics/**](🌸_Containment_Studies/🎣_Containment_Dynamics/)
-    - [`README.md`](🌸_Containment_Studies/🎣_Containment_Dynamics/README.md)
   - [**💞_Containment_Theory/**](🌸_Containment_Studies/💞_Containment_Theory/)
     - [`README.md`](🌸_Containment_Studies/💞_Containment_Theory/README.md)
     - [`⚛️_containment_as_coupled_waveform_theory.md`](🌸_Containment_Studies/💞_Containment_Theory/⚛️_containment_as_coupled_waveform_theory.md)
