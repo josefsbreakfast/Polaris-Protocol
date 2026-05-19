@@ -1,5 +1,5 @@
 # 🪢 Open Questions & Edges  
-**First created:** 2026-05-13 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-13 | **Last updated:** 2026-05-19  
 *Unresolved tensions, anti-totalisation safeguards, and conceptual limits within containment theory.*  
 
 ---
@@ -259,10 +259,10 @@ It preserves space for:
 
 > 📡 Cross-references:
 >
-> - [🌸 Containment Studies](../README.md) — root cluster for containment analysis  
-> - [🌿 Ecologies Of Containment](../🌿_Ecologies_Of_Containment/README.md) — adaptive boundaries and stewardship systems  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — legitimacy, reciprocity, and living governance continuity  
+> - [🌸 Containment Studies](../README.md) — *root cluster for containment analysis*  
+> - [🌿 Ecologies Of Containment](../🌿_Ecologies_Of_Containment/README.md) — *adaptive boundaries and stewardship systems*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *legitimacy, reciprocity, and living governance continuity*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-19_
