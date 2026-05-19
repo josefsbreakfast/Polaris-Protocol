@@ -1,5 +1,5 @@
 # 🐍 Non-Closure Principle  
-**First created:** 2026-05-05 | **Last updated:** 2026-05-13  
+**First created:** 2026-05-05 | **Last updated:** 2026-05-19  
 *Why legitimate authority systems must remain revisable, permeable, and metabolically unfinished.*  
 
 ---
@@ -286,4 +286,4 @@ It contributes to **🧄 Exousiología** by treating incompleteness not as failu
 
 *Living systems survive through adaptation, not permanent certainty.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-19_
