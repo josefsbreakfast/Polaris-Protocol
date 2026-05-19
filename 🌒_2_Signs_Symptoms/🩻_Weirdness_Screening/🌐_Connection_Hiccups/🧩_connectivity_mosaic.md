@@ -1,5 +1,5 @@
 # 🧩 Connectivity Mosaic  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
+**First created:** 2025-10-04 | **Last updated:** 2026-05-19  
 *Aggregate diagnostic map combining multiple interference logs*
 
 ---
@@ -45,4 +45,4 @@ It synthesises interference data into visible patterns of suppression and recove
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2026-05-19_
