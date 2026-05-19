@@ -1,5 +1,5 @@
 # 🩺 Diagnostic Tools  
-**First created:** 2026-05-13 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-13 | **Last updated:** 2026-05-19  
 *Operational mapping tools for analysing containment systems, pressure distribution, rigidity, coercion, and adaptive capacity.*  
 
 ---
@@ -231,10 +231,10 @@ It supports:
 
 > 📡 Cross-references:
 >
-> - [🌸 Containment Studies](../README.md) — root cluster for containment analysis  
-> - [🔁 Containment Dynamics](../🔁_Containment_Dynamics/README.md) — escalation, drift, and recursive governance  
-> - [🌿 Ecologies Of Containment](../🌿_Ecologies_Of_Containment/README.md) — adaptive resilience and ecological boundary systems  
+> - [🌸 Containment Studies](../README.md) — *root cluster for containment analysis*  
+> - [🔁 Containment Dynamics](../🔁_Containment_Dynamics/README.md) — *escalation, drift, and recursive governance*  
+> - [🌿 Ecologies Of Containment](../🌿_Ecologies_Of_Containment/README.md) — *adaptive resilience and ecological boundary systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-19_
