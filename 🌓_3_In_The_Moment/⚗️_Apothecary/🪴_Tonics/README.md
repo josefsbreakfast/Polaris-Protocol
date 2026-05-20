@@ -1,6 +1,5 @@
 # 🪴 Tonics  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-15  
-
+**First created:** 2026-05-12 | **Last updated:** 2026-05-20  
 *An examination of restorative practices, attentional recovery systems, embodied grounding, and the cultivation of resilience within digitally accelerated informational environments.*  
 
 ---
@@ -322,4 +321,4 @@ It contributes to the archive by examining restorative practices, attentional re
 
 *Recovery is not merely the absence of poison. It is the restoration of conditions in which life can stabilise again.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-20_
