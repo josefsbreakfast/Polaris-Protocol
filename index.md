@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 17:20:33 UTC_
+_Generated on 2026-05-20 18:10:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7180,6 +7180,9 @@ _Generated on 2026-05-20 17:20:33 UTC_
         - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/🤍_Phlegmatic_Distempers/README.md)
       - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/README.md)
     - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/README.md)
+  - [**🌌_Polaris_Specific_Memeing/**](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/)
+    - [**audit_risk_matrix/**](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/audit_risk_matrix/)
+      - [`🧩_risk_matrix_incoming_correspondence.md`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/audit_risk_matrix/🧩_risk_matrix_incoming_correspondence.md)
   - [**🐈‍⬛_Antifacist_Propaganda_Machine/**](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/)
     - [`README.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/README.md)
     - [`🌱_plantseer_data_mining_coop.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🌱_plantseer_data_mining_coop.md)
@@ -7265,8 +7268,6 @@ _Generated on 2026-05-20 17:20:33 UTC_
     - [`💧_sludgy_solutions.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/💧_sludgy_solutions.md)
     - [`🪖_touch_grass_reembedding_technology_in_the_physical_world.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🪖_touch_grass_reembedding_technology_in_the_physical_world.md)
   - [**🌌_Polaris_Specific_Memeing/**](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/)
-    - [**audit_risk_matrix/**](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/audit_risk_matrix/)
-      - [`🧩_risk_matrix_incoming_correspondence.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/audit_risk_matrix/🧩_risk_matrix_incoming_correspondence.md)
     - [**🦑_The_Real_Conspiracy/**](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/)
       - [`0474762F-8899-45E5-9496-CD27D32B4E3D.png`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/0474762F-8899-45E5-9496-CD27D32B4E3D.png)
       - [`162CE18D-DA33-4B1A-B944-839A9D5DACF6.jpeg`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/162CE18D-DA33-4B1A-B944-839A9D5DACF6.jpeg)
