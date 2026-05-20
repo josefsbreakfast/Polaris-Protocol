@@ -1,5 +1,5 @@
 # 🐈‍⬛ Antifascist Propaganda Machine
-**First created:** 2025-12-23 | **Last updated:** 2026-01-04  
+**First created:** 2025-12-23 | **Last updated:** 2026-05-20  
 *Ethical counter-propaganda, systems disruption, and organised friction against authoritarian harm.*
 
 ---
@@ -176,4 +176,4 @@ It exists to reduce harm by interrupting authoritarian systems without reproduci
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-05-20_
