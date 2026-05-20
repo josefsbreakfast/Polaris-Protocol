@@ -766,7 +766,7 @@ The argument therefore becomes:
 
 *Centuries of British imperial piracy, via the various naval arrangements from these rocks, and you're telling me none of you are bothered about even the sovereignity of the thing? Baffling.*  
 
-*Action cannot start and end with condemnation of Ben Gvir; where is the end of the seige and starvation of Gazan people?*  
+*Action cannot start and end with condemnation of Ben Gvir; where is the end of the seige and starvation of the people of Gaza?*  
 
 ---
 
