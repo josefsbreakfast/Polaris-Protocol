@@ -1,5 +1,5 @@
 # 🎞️ Haunted Artefacts Catalogue  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
+**First created:** 2025-10-04 | **Last updated:** 2026-05-20  
 *A working index of objects that carry apparitional signatures — cultural, digital, or archival — whose hauntings reveal the systems that produced them*
 
 ---
@@ -43,4 +43,4 @@ Entries are fragmentary by design; they mark where containment has failed to era
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2026-05-20_
