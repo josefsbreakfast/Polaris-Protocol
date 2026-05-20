@@ -1,5 +1,5 @@
 # 👻 Apparitional Objects  
-**First created:** 2025-09-12 | **Last updated:** 2025-09-12  
+**First created:** 2025-09-12 | **Last updated:** 2026-05-20  
 *The shelf for 👻 ghosts, 🍴 forks, 📿 artifacts, and 🦴 skeletons — under construction.*  
 
 ---
@@ -59,4 +59,4 @@ This section is still scaffolding in progress.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-12_
+_Last updated: 2026-05-20_
