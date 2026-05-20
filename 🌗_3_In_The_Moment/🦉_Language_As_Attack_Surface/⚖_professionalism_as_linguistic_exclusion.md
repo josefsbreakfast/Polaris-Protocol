@@ -1,5 +1,5 @@
 # ⚖ Professionalism as Linguistic Exclusion  
-**First created:** 2026-01-18 | **Last updated:** 2026-01-19  
+**First created:** 2026-01-18 | **Last updated:** 2026-05-20  
 *How appeals to “professional tone” function as a gatekeeping mechanism that excludes lived experience, urgency, and marginalised speech from civic legitimacy.*  
 
 ---
@@ -118,4 +118,4 @@ It documents how appeals to professionalism function as a linguistic gatekeeping
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-19_
+_Last updated: 2026-05-20_
