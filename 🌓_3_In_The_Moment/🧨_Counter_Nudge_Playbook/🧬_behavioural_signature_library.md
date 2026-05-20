@@ -1,5 +1,5 @@
 # 🧬 Behavioural Signature Library  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-20  
 *Taxonomic index of recurring manipulation motifs across campaigns.*
 
 ---
@@ -38,4 +38,4 @@ It enables long-term tracking of recurring psychological operation structures.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-20_
