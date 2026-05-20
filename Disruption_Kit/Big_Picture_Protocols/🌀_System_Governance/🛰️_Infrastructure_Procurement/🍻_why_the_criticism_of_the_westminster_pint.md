@@ -533,6 +533,10 @@ It is what the pint comes to represent.
 ## 🌌 Constellations  
 🍻 🏛️ ☕️ 📚 ⚖️ — legitimacy drift; institutional exceptionalism; post-imperial elite culture; collapsing communal infrastructure; unequal standards and reciprocity breakdown.  
 
+*Further media:*  
+
+- [📹: ITV: "The Green Party MP Hannah Spencer asks Keir Starmer about alcohol in the Houses of Parliament"](https://vm.tiktok.com/ZNRtnGB3c/)  
+
 ---
 
 ## ✨ Stardust  
