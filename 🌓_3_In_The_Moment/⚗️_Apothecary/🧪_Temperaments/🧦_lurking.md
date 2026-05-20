@@ -1,6 +1,5 @@
 # 🧦 Lurking  
-**First created:** 2026-05-15 | **Last updated:** 2026-05-15  
-
+**First created:** 2026-05-15 | **Last updated:** 2026-05-20  
 *An examination of observational participation, low-visibility engagement, and adaptive non-posting behaviour within networked environments.*  
 
 ---
@@ -325,4 +324,4 @@ It contributes to the archive by examining observational participation, invisibl
 
 *Silence inside a network does not necessarily mean absence.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-20_
