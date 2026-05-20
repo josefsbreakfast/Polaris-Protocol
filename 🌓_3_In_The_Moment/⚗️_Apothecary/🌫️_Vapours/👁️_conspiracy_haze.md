@@ -1,6 +1,5 @@
 # 👁️ Conspiracy Haze  
-**First created:** 2026-05-16 | **Last updated:** 2026-05-16  
-
+**First created:** 2026-05-16 | **Last updated:** 2026-05-20  
 *An examination of diffuse informational climates characterised by heightened suspicion, recursive pattern-seeking, epistemic instability, and the atmospheric spread of conspiratorial interpretation systems within networked media ecosystems.*  
 
 ---
@@ -370,4 +369,4 @@ It examines conspiratorial informational climates as atmospheric phenomena emerg
 
 *When uncertainty becomes unbearable, hidden order can begin to feel safer than ambiguity.*  
 
-_Last updated: 2026-05-16_
+_Last updated: 2026-05-20_
