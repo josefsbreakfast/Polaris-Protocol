@@ -1,5 +1,5 @@
 # 💡 Attention Redirection Protocols  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-20  
 *Methods to restore civic focus and emotional regulation after manipulation exposure.*
 
 ---
@@ -38,4 +38,4 @@ It provides methods for re-establishing focus and restoring collective agency.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-20_
