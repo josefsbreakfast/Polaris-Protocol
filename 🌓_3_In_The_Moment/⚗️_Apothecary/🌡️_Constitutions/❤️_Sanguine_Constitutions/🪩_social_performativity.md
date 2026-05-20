@@ -1,6 +1,5 @@
 # 🪩 Social Performativity  
-**First created:** 2026-05-17 | **Last updated:** 2026-05-17  
-
+**First created:** 2026-05-17 | **Last updated:** 2026-05-20  
 *An examination of self-presentation, audience awareness, identity signalling, and the transformation of ordinary social performance within continuously visible digital environments.*  
 
 ---
@@ -509,4 +508,4 @@ It contributes to the Apothecary framework by examining self-presentation, visib
 
 *Not every moment of existence is meant to become performance.*  
 
-_Last updated: 2026-05-17_
+_Last updated: 2026-05-20_
