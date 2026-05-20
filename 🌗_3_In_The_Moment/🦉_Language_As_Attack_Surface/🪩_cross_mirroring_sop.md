@@ -1,6 +1,5 @@
-# 🪞 Cross-Mirroring SOP  
-
-**First created:** 2025-11-02  |  **Last updated:** 2025-12-09  
+# 🪩 Cross-Mirroring SOP  
+**First created:** 2025-11-02  |  **Last updated:** 2026-05-20  
 *How to create, verify, and maintain redundant mirrors of captured linguistic evidence.*
 
 ---
@@ -93,4 +92,4 @@ It ensures archival redundancy and prevents silent erasure of evidence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-05-20_
