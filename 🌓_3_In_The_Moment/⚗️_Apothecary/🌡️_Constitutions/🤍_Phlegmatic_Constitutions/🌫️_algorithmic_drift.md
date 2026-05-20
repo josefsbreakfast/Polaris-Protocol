@@ -1,6 +1,5 @@
 # 🌫️ Algorithmic Drift  
-**First created:** 2026-05-17 | **Last updated:** 2026-05-17  
-
+**First created:** 2026-05-17 | **Last updated:** 2026-05-20  
 *An examination of passive attentional steering, low-friction behavioural shaping, recommendation-system influence, and the interaction between algorithmic environments, intentionality, and ambient digital navigation.*  
 
 ---
@@ -446,4 +445,4 @@ It contributes to the Apothecary framework by examining passive attentional stee
 
 *The most effective systems rarely need to command behaviour directly. They simply make certain paths easier to continue following.*  
 
-_Last updated: 2026-05-17_
+_Last updated: 2026-05-20_
