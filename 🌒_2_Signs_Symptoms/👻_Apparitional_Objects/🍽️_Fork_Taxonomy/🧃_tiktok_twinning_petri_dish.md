@@ -1,5 +1,5 @@
 # 🧃 TikTok as Twinning Petri Dish  
-**First created:** 2025-09-10 | **Last updated:** 2025-12-11  
+**First created:** 2025-09-10 | **Last updated:** 2026-05-20  
 *Exploring how rapid-cycle platforms reveal data-twin mechanics, intent drift, and diagnostic self-presentation.*  
 
 ---
@@ -62,4 +62,4 @@ It traces how short-form platforms accelerate data-twin visibility, how clinical
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_  
+_Last updated: 2026-05-20_  
