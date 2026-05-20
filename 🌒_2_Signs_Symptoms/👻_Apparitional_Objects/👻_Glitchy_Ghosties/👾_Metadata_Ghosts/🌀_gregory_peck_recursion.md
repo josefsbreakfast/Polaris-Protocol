@@ -1,5 +1,5 @@
 # 🌀 Metadata Ghost: *The Gregory Peck Recursion*  
-**First created:** 2025-12-06 | **Last updated:** 2025-12-06  
+**First created:** 2025-12-06 | **Last updated:** 2026-05-20  
 *A metadata ghost formed when a single aesthetic pattern (Gregory Peck under the female gaze) becomes a centroid anchor, looping back through the system as a soft, cinematic apparition.*
 <!--The babe deserved his own node.-->
 ---
@@ -141,4 +141,4 @@ metadata loop, resurfacing pattern, nostalgic masculinity, centroid cluster, cin
 It demonstrates how an aesthetic pattern — even a playful, romantic one — can seed a harmless digital haunting that resurfaces through centroid testing and nostalgic resonance.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-06_
+_Last updated: 2026-05-20_
