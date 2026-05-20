@@ -1,5 +1,5 @@
 # 🎶 She Knows Loop  
-**First created:** 2025-09-14 | **Last updated:** 2025-09-14  
+**First created:** 2025-09-14 | **Last updated:** 2026-05-20  
 *An ordinary track that became a haunted artefact; earworm as containment loop*  
 
 ---
@@ -50,4 +50,4 @@ It documents one haunted artefact where music carried containment charge, drawn 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-14_  
+_Last updated: 2026-05-20_  
