@@ -1,5 +1,5 @@
 # 📮 The Polaris Mail Box — Read Before You Post  
-**First created:** 2025-10-25 | **Last updated:** 2026-02-20  
+**First created:** 2025-10-25 | **Last updated:** 2026-05-20  
 *An analogue doorway for correspondence, care, and transparent civic exchange.*  
 
 ---
@@ -138,4 +138,4 @@ It defines safe, lawful, and transparent use of the analogue correspondence chan
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-05-20_
