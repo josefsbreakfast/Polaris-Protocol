@@ -1,6 +1,5 @@
 # 🔥 Outrage Reward Loops  
-**First created:** 2026-05-17 | **Last updated:** 2026-05-17  
-
+**First created:** 2026-05-17 | **Last updated:** 2026-05-20  
 *An examination of emotional activation cycles, outrage reinforcement systems, nervous-system conditioning, and the interaction between anger, visibility, and algorithmically amplified digital environments.*  
 
 ---
@@ -467,4 +466,4 @@ It contributes to the Apothecary framework by examining emotional activation sys
 
 *Not every system that rewards activation is capable of metabolising its consequences safely.*  
 
-_Last updated: 2026-05-17_
+_Last updated: 2026-05-20_
