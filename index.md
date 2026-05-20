@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 17:06:44 UTC_
+_Generated on 2026-05-20 17:11:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7212,6 +7212,15 @@ _Generated on 2026-05-20 17:06:44 UTC_
     - [`💡_attention_redirection_protocols.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/💡_attention_redirection_protocols.md)
     - [`🔥_breaking_media_blockade_through_body_based_protest.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/🔥_breaking_media_blockade_through_body_based_protest.md)
     - [`🕊️_the_public_witness_protocol.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/🕊️_the_public_witness_protocol.md)
+    - [`🕹️_anarchist_calisthenics_and_the_surveillance_industry.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/🕹️_anarchist_calisthenics_and_the_surveillance_industry.md)
+    - [`🛰️_verified_amplification_network_protocol_handbook.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/🛰️_verified_amplification_network_protocol_handbook.md)
+    - [`🧠_nudge_taxonomy_and_detection.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/🧠_nudge_taxonomy_and_detection.md)
+    - [`🧨_countering_nudges_for_the_prosocial.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/🧨_countering_nudges_for_the_prosocial.md)
+    - [`🧨_fear_symbol_leverage.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/🧨_fear_symbol_leverage.md)
+    - [`🧬_behavioural_signature_library.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/🧬_behavioural_signature_library.md)
+    - [`🧾_artifact_archive_templates.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/🧾_artifact_archive_templates.md)
+    - [`🪞_script_decoding_lab.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/🪞_script_decoding_lab.md)
+    - [`🪶_civic_immunity_training_manual.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/🪶_civic_immunity_training_manual.md)
   - [`README.md`](🌓_3_In_The_Moment/README.md)
 - [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
   - [`README.md`](🌔_4_Small_Steps/README.md)
@@ -7500,16 +7509,6 @@ _Generated on 2026-05-20 17:06:44 UTC_
     - [`🪞_observer_reflexivity_log.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪞_observer_reflexivity_log.md)
     - [`🪩_verification_and_containment.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪩_verification_and_containment.md)
     - [`🪶_pattern_tracking_protocols.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_pattern_tracking_protocols.md)
-  - [**🧨_Counter_Nudge_Playbook/**](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/)
-    - [`🕹️_anarchist_calisthenics_and_the_surveillance_industry.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🕹️_anarchist_calisthenics_and_the_surveillance_industry.md)
-    - [`🛰️_verified_amplification_network_protocol_handbook.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🛰️_verified_amplification_network_protocol_handbook.md)
-    - [`🧠_nudge_taxonomy_and_detection.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧠_nudge_taxonomy_and_detection.md)
-    - [`🧨_countering_nudges_for_the_prosocial.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧨_countering_nudges_for_the_prosocial.md)
-    - [`🧨_fear_symbol_leverage.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧨_fear_symbol_leverage.md)
-    - [`🧬_behavioural_signature_library.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧬_behavioural_signature_library.md)
-    - [`🧾_artifact_archive_templates.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🧾_artifact_archive_templates.md)
-    - [`🪞_script_decoding_lab.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🪞_script_decoding_lab.md)
-    - [`🪶_civic_immunity_training_manual.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🪶_civic_immunity_training_manual.md)
   - [**🪖_Home_Front_2.0/**](🦆_Digital_Disruption/🪖_Home_Front_2.0/)
     - [`README.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/README.md)
     - [`🇬🇧_there_is_a_fight_on_the_beaches.md`](🦆_Digital_Disruption/🪖_Home_Front_2.0/🇬🇧_there_is_a_fight_on_the_beaches.md)
