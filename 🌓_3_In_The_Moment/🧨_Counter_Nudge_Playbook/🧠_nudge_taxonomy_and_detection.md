@@ -1,5 +1,5 @@
 # 🧠 Nudge Taxonomy and Detection  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-20  
 *Classification system for identifying behavioural manipulation scripts.*
 
 ---
@@ -38,4 +38,4 @@ It systematises behavioural awareness for narrative resilience.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-20_
