@@ -1,5 +1,5 @@
 # ⚗ Intentionality as the Moral Threshold  
-**First created:** 2026-01-18 | **Last updated:** 2026-01-19  
+**First created:** 2026-01-18 | **Last updated:** 2026-05-20  
 *How debates over intent are used to delay accountability, downgrade harm, and shift moral burden away from power.*  
 
 ---
@@ -120,4 +120,4 @@ It documents how fixation on intent delays accountability and allows foreseeable
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-19_
+_Last updated: 2026-05-20_
