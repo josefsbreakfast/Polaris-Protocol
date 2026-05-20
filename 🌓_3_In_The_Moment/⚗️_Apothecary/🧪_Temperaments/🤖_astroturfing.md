@@ -1,6 +1,5 @@
 # 🤖 Astroturfing  
-**First created:** 2026-05-15 | **Last updated:** 2026-05-15  
-
+**First created:** 2026-05-15 | **Last updated:** 2026-05-20  
 *An examination of manufactured consensus, synthetic grassroots signalling, and the simulation of organic public sentiment within networked informational environments.*  
 
 ---
@@ -347,4 +346,4 @@ It contributes to the archive by examining manufactured consensus systems, synth
 
 *Consensus can be manufactured long before it becomes genuinely believed.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-20_
