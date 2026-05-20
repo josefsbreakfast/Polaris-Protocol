@@ -1,6 +1,5 @@
-# 🎭 Humour as Emotional Containment Infrastructure
-
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
+# 🎭 Humour as Emotional Containment Infrastructure  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-20  
 *How humour functions as load‑bearing structure rather than deflection or minimisation.*
 
 ---
@@ -144,4 +143,4 @@ It documents humour as a load‑bearing emotional system that enables intensity 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+_Last updated: 2026-05-20_
