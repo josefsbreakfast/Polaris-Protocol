@@ -1,6 +1,5 @@
 # 🐝 Swarm Behaviours  
-**First created:** 2026-05-15 | **Last updated:** 2026-05-15  
-
+**First created:** 2026-05-15 | **Last updated:** 2026-05-20  
 *An examination of emergent collective coordination, emotional synchronisation, and distributed behavioural convergence within networked informational systems.*  
 
 ---
@@ -310,4 +309,4 @@ It contributes to the archive by examining emergent collective coordination, emo
 
 *Momentum can emerge long before intention becomes conscious.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-20_
