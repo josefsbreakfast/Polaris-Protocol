@@ -1,5 +1,5 @@
 # 🦑 Kraken Sightings Across The World (Wide Web)  
-**First created:** 2026-05-10 | **Last updated:** 2026-05-19  
+**First created:** 2026-05-10 | **Last updated:** 2026-05-20  
 *Sighting the Trident's natural deterrent.*  
 
 ---
@@ -54,4 +54,4 @@ It contributes to the archive by *letting you know where they are*.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-19_
+_Last updated: 2026-05-20_
