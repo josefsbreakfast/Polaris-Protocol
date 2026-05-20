@@ -1,5 +1,5 @@
 # 🗣️ Why Euphemisms Matter  
-**First created:** 2025-11-02  |  **Last updated:** 2025-12-09  
+**First created:** 2025-11-02  |  **Last updated:** 2026-05-20  
 *A one-page explainer for partners, journalists, and volunteers on how language shapes consent and why calling things by their names protects everyone.*
 
 ---
@@ -65,4 +65,4 @@ It provides a simple literacy tool for recognising manipulative framing and rest
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-05-20_
