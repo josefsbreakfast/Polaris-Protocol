@@ -1,6 +1,5 @@
 # 🌩️ Outrage Atmospheres  
-**First created:** 2026-05-16 | **Last updated:** 2026-05-16  
-
+**First created:** 2026-05-16 | **Last updated:** 2026-05-20  
 *An examination of persistent outrage as an ambient informational climate, emotional regulation system, and engagement infrastructure within networked media ecosystems.*  
 
 ---
@@ -366,4 +365,4 @@ It examines persistent emotional activation as a networked environmental conditi
 
 *The nervous system eventually mistakes the climate it survives within for reality itself.*  
 
-_Last updated: 2026-05-16_
+_Last updated: 2026-05-20_
