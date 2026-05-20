@@ -1,6 +1,5 @@
 # 💛 Choleric Constitutions  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-14  
-
+**First created:** 2026-05-12 | **Last updated:** 2026-05-20  
 *An examination of conflict-oriented informational temperaments, outrage mobilisation systems, territorial identity dynamics, and the interaction between dominance signalling and algorithmic amplification.*  
 
 ---
@@ -312,4 +311,4 @@ It contributes to the archive by examining conflict-oriented informational tempe
 
 *Systems built around permanent activation rarely produce stable judgment.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-20_
