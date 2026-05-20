@@ -1,6 +1,5 @@
 # 📺 Spectacle Weather  
-**First created:** 2026-05-16 | **Last updated:** 2026-05-16  
-
+**First created:** 2026-05-16 | **Last updated:** 2026-05-20  
 *An examination of visibility-driven informational climates in which performance, emotional stimulation, symbolic drama, and attention capture increasingly shape collective perception, governance, and social reality.*  
 
 ---
@@ -384,4 +383,4 @@ It examines visibility-driven informational climates, performance saturation, em
 
 *In spectacle climates, attention itself becomes a terrain of governance.*  
 
-_Last updated: 2026-05-16_
+_Last updated: 2026-05-20_
