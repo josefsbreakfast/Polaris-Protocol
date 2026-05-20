@@ -1,5 +1,5 @@
 # 🗣️ Counterframes Bank  
-**First created:** 2025-11-02  |  **Last updated:** 2025-12-09  
+**First created:** 2025-11-02  |  **Last updated:** 2026-05-20  
 *Concise reframings that restore factual language and emotional clarity when euphemisms spread.*  
 
 ---
@@ -70,4 +70,4 @@ It catalogues ready-to-use reframings that restore truth to public language and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-05-20_
