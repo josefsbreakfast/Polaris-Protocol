@@ -1,6 +1,6 @@
 # 🏴 Forever Antifascist  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-20  
-*A haunting produced by proxy fear, cadence, and systems that cannot tell anger from threat.*
+**First created:** 2025-12-20 | **Last updated:** 2026-05-20  
+*A haunting produced by proxy fear, cadence, and systems that cannot tell anger from threat.*  
 
 ---
 
@@ -109,4 +109,4 @@ It documents how political anger, historical material, and hostile surveillance 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-20_
+_Last updated: 2026-05-20_
