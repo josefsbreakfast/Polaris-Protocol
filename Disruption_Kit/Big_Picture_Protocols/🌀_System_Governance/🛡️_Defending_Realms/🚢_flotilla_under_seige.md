@@ -744,6 +744,7 @@ The argument therefore becomes:
 
 *Further media:*  
 
+- [📰: BBC: "Israeli forces board Gaza-bound flotilla near Cyprus, activists say"](https://www.bbc.co.uk/news/articles/c142vz80553o)  
 - [📹: Middle East Eye: "Itamar Ben Gvir Visits As Flotilla Activists Abused In Detention"](https://vm.tiktok.com/ZNRtc4Low/)
 - [📹: Aaron Parnas: "News: International Outrage As Israel's Far-Right Minister Posts Video Of Security Forces Abusing Flotilla Activists"](https://vm.tiktok.com/ZNRtcq8E5/)
 - [📹: RTÉ: "President Catherine Connolly has said that she is 'very worried' after her sister was among a number of Irish citizens on board an aid flotilla detained
