@@ -1,5 +1,5 @@
 # 🐽 Sticky Scandal Effect  
-**First created:** 2026-01-04 | **Last updated:** 2026-01-04  
+**First created:** 2026-01-04 | **Last updated:** 2026-05-20  
 *How a single scandal can permanently destabilise authority and disrupt propaganda momentum.*
 <!--Oink, oink.-->
 ---
@@ -264,4 +264,4 @@ It documents how symbolic disruption can destabilise authoritarian authority wit
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-05-20_
