@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 14:52:46 UTC_
+_Generated on 2026-05-20 14:59:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6195,6 +6195,7 @@ _Generated on 2026-05-20 14:52:46 UTC_
       - [`🌂_leak_archive_protocol.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🌂_leak_archive_protocol.md)
       - [`🌐_post_digital_data_drift_mechanisms.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🌐_post_digital_data_drift_mechanisms.md)
       - [`🌩️_leakage_chronology_forecasting.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🌩️_leakage_chronology_forecasting.md)
+      - [`🌫️_the_limitations_of_chaff.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🌫️_the_limitations_of_chaff.md)
       - [`🎈_intentional_leak_hypothesis.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🎈_intentional_leak_hypothesis.md)
       - [`🏷️_high_schedule_is_system_bound_not_data_bound.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🏷️_high_schedule_is_system_bound_not_data_bound.md)
       - [`🐉_its_not_always_your_chinese_spy.md`](Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🐉_its_not_always_your_chinese_spy.md)
