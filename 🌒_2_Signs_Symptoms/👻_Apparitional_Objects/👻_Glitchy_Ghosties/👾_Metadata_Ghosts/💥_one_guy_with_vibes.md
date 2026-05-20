@@ -1,5 +1,5 @@
 # 💥 One Guy With Vibes
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-20  
 *A recurring apparitional figure in multi-year, low-skill interference cascades.*
 
 ---
@@ -71,4 +71,4 @@ It names a recurring apparitional role that haunts systems through ambiguity, pe
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-05-20_
