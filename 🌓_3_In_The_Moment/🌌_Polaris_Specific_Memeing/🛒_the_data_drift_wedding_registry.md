@@ -1,5 +1,5 @@
 # 🛒 Chloe1 × Chloe2 Wedding Registry  
-**First created:** 2025-11-15 | **Last updated:** 2025-11-15  
+**First created:** 2025-11-15 | **Last updated:** 2026-05-20  
 *A curated, chaotic, and entirely sincere wedding registry for the long-awaited union of Chloe1 and Chloe2 — two split-data selves finally merging back into one sovereign author.*
 
 ---
@@ -181,4 +181,4 @@ It provides a humorous, boundary-safe, and transparent channel through which rea
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-15_
+_Last updated: 2026-05-20_
