@@ -1,5 +1,5 @@
 # 🦑 The Real Conspiracy  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2026-05-20  
 *Kraken lore, in-jokes, and the only conspiracy that’s actually worth the effort.*
 
 ---
@@ -99,4 +99,4 @@ It preserves humour, pattern-play, and shared cultural artifacts as part of resi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-05-20_
