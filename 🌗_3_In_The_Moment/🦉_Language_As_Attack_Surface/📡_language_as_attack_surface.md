@@ -1,5 +1,5 @@
 # 📡 Language as Attack Surface  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-20  
 *How linguistic drift becomes an exploitable vector for coordinated manipulation and how to defend against it.*  
 
 ---
@@ -96,4 +96,4 @@ It anchors operational tracking of linguistic manipulation and provides tools fo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-05-20_
