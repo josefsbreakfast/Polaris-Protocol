@@ -1,6 +1,5 @@
 # 📵 Feed Interruption Methods  
-**First created:** 2026-05-16 | **Last updated:** 2026-05-16  
-
+**First created:** 2026-05-16 | **Last updated:** 2026-05-20  
 *An examination of feed interruption systems, infinite-scroll disruption techniques, and methods for weakening continuous behavioural entrainment within algorithmically driven media environments.*  
 
 ---
@@ -435,4 +434,4 @@ It contributes to the archive by examining infinite-scroll disruption techniques
 
 *The absence of endings is not accidental. Neither is the exhaustion that often follows.*  
 
-_Last updated: 2026-05-16_
+_Last updated: 2026-05-20_
