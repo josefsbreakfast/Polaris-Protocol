@@ -1,5 +1,5 @@
 # 📺 Moral Grammar Drift in Media Systems  
-**First created:** 2026-01-18 | **Last updated:** 2026-01-18  
+**First created:** 2026-01-18 | **Last updated:** 2026-05-20  
 *How media language gradually reallocates responsibility, normalises harm, and reshapes moral intuition without changing facts.*  
 
 ---
@@ -133,4 +133,4 @@ It documents how cumulative linguistic shifts in media reshape moral interpretat
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-18_  
+_Last updated: 2026-05-20_  
