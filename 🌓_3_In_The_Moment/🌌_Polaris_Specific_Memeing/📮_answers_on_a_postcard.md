@@ -1,5 +1,5 @@
 # 📮 Answers on a Postcard  
-**First created:** 2025-11-01 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-01 | **Last updated:** 2026-05-20  
 *Trying to explain the inexplicable: surveillance, silence, and the shrinking space for conversation.*  
 
 ---
@@ -89,4 +89,4 @@ It stands as a record of the limits of speech when documentation replaces conver
 
 *If you understand it already, thank you. If you don’t—answers on a postcard.*
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-05-20_
