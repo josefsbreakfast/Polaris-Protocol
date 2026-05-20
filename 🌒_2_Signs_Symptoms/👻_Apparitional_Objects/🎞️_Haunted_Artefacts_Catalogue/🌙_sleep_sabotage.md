@@ -1,6 +1,5 @@
 # 🌙 Sleep Sabotage & Nudger Signals  
-**First created:** 2025-09-24 | **Last updated:** 2025-09-24
-
+**First created:** 2025-09-24 | **Last updated:** 2026-05-20  
 *Anomalous timing and digital nudging that interferes with sleep and daily rhythms — potential component of coercive control and micro-targeted interference.*
 
 ---
@@ -70,4 +69,4 @@ This is intentionally exploratory: these patterns can arise from benign algorith
 *🌙 Sleep Sabotage & Nudger Signals* is an exploratory node in Polaris.  
 It treats repeated, timed interference with sleep as a potentially probative element within coercive control patterns and a site for defensive practice.
 
-_Last updated: 2025-09-24_
+_Last updated: 2026-05-20_
