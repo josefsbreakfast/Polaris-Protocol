@@ -1,5 +1,5 @@
 # 🔐 Fork Clone Checklist  
-**First created:** 2025-08-11 | **Last updated:** 2025-12-11  
+**First created:** 2025-08-11 | **Last updated:** 2026-05-20  
 *Forensic indicators and verification tactics for detecting behavioural forks or clones*  
 
 ---
@@ -101,4 +101,4 @@ It documents indicators and tactics for recognising behavioural clones and forks
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_  
+_Last updated: 2026-05-20_  
