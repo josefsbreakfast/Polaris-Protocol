@@ -1,6 +1,5 @@
 # 🧪 Temperaments  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-15  
-
+**First created:** 2026-05-12 | **Last updated:** 2026-05-20  
 *An examination of recurring online behavioural expressions, social signalling patterns, and collective interaction styles produced within algorithmically mediated environments.*  
 
 ---
@@ -275,4 +274,4 @@ It contributes to the archive by examining recurring online behavioural expressi
 
 *The culture of a platform is often the accumulated residue of repeated behaviour.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-20_
