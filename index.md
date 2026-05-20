@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 16:57:22 UTC_
+_Generated on 2026-05-20 17:01:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7204,6 +7204,9 @@ _Generated on 2026-05-20 16:57:22 UTC_
     - [`🧭_how_we_got_here.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧭_how_we_got_here.md)
     - [`🪩_cross_mirroring_sop.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🪩_cross_mirroring_sop.md)
     - [`🪶_language_as_smuggled_plurality.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🪶_language_as_smuggled_plurality.md)
+  - [**🧨_Counter_Nudge_Playbook/**](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/)
+    - [`README.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/README.md)
+    - [`🌀_loop_mapping_station.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md)
   - [`README.md`](🌓_3_In_The_Moment/README.md)
 - [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
   - [`README.md`](🌔_4_Small_Steps/README.md)
@@ -7493,8 +7496,6 @@ _Generated on 2026-05-20 16:57:22 UTC_
     - [`🪩_verification_and_containment.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪩_verification_and_containment.md)
     - [`🪶_pattern_tracking_protocols.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_pattern_tracking_protocols.md)
   - [**🧨_Counter_Nudge_Playbook/**](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/)
-    - [`README.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/README.md)
-    - [`🌀_loop_mapping_station.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md)
     - [`🎭_friction_tactics_catalogue.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🎭_friction_tactics_catalogue.md)
     - [`🎭_humour_as_emotional_containment_infrastructure.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🎭_humour_as_emotional_containment_infrastructure.md)
     - [`💡_attention_redirection_protocols.md`](🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/💡_attention_redirection_protocols.md)
