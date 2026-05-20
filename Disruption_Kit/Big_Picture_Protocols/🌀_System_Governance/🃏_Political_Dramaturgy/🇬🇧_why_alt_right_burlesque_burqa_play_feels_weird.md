@@ -457,7 +457,8 @@ but from:
 - [📹: Express: "Vance Urges Immigration
 Critics To 'Keep Going After
 Unite The Kingdom Protest"](https://vm.tiktok.com/ZNRtcmjsw/) – *nice to see he dropped the colour-contacts effect for this one; outspoken partisan opining on our island politics will be noted for the next time you ask us to stay out of yours*
-- [📹: Rt Hon Ayoub Khan MP: Point Pf Order](https://vm.tiktok.com/ZNRtcE9D7/)  
+- [📹: Rt Hon Ayoub Khan MP: Point Of Order](https://vm.tiktok.com/ZNRtcE9D7/)
+- [📹: MongrelAdam: "What's more intimidating? A van with a video that you don't like... or a fully grown man being inappropriate with a child in broad daylight, and in front of her mother?!"](https://vm.tiktok.com/ZNRt3xEUm/)  
 
 ---
 
