@@ -1,6 +1,5 @@
 # 🪞 Identity Climate  
-**First created:** 2026-05-16 | **Last updated:** 2026-05-16  
-
+**First created:** 2026-05-16 | **Last updated:** 2026-05-20  
 *An examination of informational atmospheres in which identity signalling, group affiliation, symbolic belonging, and social legibility become increasingly central to perception, legitimacy, and collective interpretation within networked media ecosystems.*  
 
 ---
@@ -403,4 +402,4 @@ It examines identity-mediated informational atmospheres, symbolic belonging syst
 
 *People often defend belonging with the same intensity that earlier societies reserved for physical shelter.*  
 
-_Last updated: 2026-05-16_
+_Last updated: 2026-05-20_
