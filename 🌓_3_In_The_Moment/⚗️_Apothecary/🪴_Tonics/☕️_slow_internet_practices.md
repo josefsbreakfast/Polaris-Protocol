@@ -1,6 +1,5 @@
 # ☕️ Slow Internet Practices  
-**First created:** 2026-05-15 | **Last updated:** 2026-05-15  
-
+**First created:** 2026-05-15 | **Last updated:** 2026-05-20  
 *An examination of reduced-speed digital engagement, intentional informational pacing, and the cultivation of sustainable attentional environments within networked systems.*  
 
 ---
@@ -351,4 +350,4 @@ It contributes to the archive by examining reduced-speed digital engagement, att
 
 *The medium changes when the rhythm changes.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-20_
