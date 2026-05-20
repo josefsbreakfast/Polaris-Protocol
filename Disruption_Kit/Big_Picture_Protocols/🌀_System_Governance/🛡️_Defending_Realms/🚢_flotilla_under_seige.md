@@ -751,7 +751,8 @@ The argument therefore becomes:
 - [📲: LinkedIn: "Global Sumud Flotilla: All boats have been intercepted."](https://www.linkedin.com/posts/all-boats-have-been-intercepted-we-are-share-7462603390435385344-c0LT)
 - [📹: Richard Boyd Barrett TD: Question In The Dáil](https://vm.tiktok.com/ZNRt3phNT/)
 - [📹: RTÉ: "Taoiseach criticises
-'disgraceful' treatment of flotilla activists detained by Israel"](https://vm.tiktok.com/ZNRt3HQd1/)  
+'disgraceful' treatment of flotilla activists detained by Israel"](https://vm.tiktok.com/ZNRt3HQd1/)
+- [📲: Sully Iqbal notes TikTok suppression issue on original footage clips inclusion.](https://vm.tiktok.com/ZNRt3HBwA/) – *this does not necessitate non-inclusion by larger outlets, but strategic inclusion on own-platforms over social platform clips*  
 
 *So yes, the prisoners being humiliated in public? They almost certainly include British subjects. Where is the Prime Minister? Where is the Crown? Where are The Patriots™️*  
 
