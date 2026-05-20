@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 16:47:26 UTC_
+_Generated on 2026-05-20 16:49:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7190,6 +7190,8 @@ _Generated on 2026-05-20 16:47:26 UTC_
     - [`⚖_professionalism_as_linguistic_exclusion.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/⚖_professionalism_as_linguistic_exclusion.md)
     - [`⚖️_legal_flagging_incident_report.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/⚖️_legal_flagging_incident_report.md)
     - [`⚖️_linguistic_integrity_as_security_risk.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/⚖️_linguistic_integrity_as_security_risk.md)
+    - [`⚗_intentionality_as_the_moral_threshold.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/⚗_intentionality_as_the_moral_threshold.md)
+    - [`🌌_language_as_infrastructure.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🌌_language_as_infrastructure.md)
   - [`README.md`](🌓_3_In_The_Moment/README.md)
 - [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
   - [`README.md`](🌔_4_Small_Steps/README.md)
@@ -7197,8 +7199,6 @@ _Generated on 2026-05-20 16:47:26 UTC_
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🌗_3_In_The_Moment/**](🌗_3_In_The_Moment/)
   - [**🦉_Language_As_Attack_Surface/**](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/)
-    - [`⚗_intentionality_as_the_moral_threshold.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/⚗_intentionality_as_the_moral_threshold.md)
-    - [`🌌_language_as_infrastructure.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/🌌_language_as_infrastructure.md)
     - [`🎭_poets_as_primary_targets.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/🎭_poets_as_primary_targets.md)
     - [`🎶_language_as_democratic_infrastructure.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/🎶_language_as_democratic_infrastructure.md)
     - [`🏛️_archive_capture_template.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/🏛️_archive_capture_template.md)
