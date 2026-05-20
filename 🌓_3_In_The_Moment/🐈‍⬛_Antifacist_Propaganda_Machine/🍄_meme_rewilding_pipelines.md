@@ -1,5 +1,5 @@
 # 🍄 Meme Rewilding Pipelines
-**First created:** 2026-01-08 | **Last updated:** 2026-01-08  
+**First created:** 2026-01-08 | **Last updated:** 2026-05-20  
 *How non-violent, anti-fascist norms are reintroduced into culture without triggering backlash, moral panic, or aesthetic rejection.*
 
 ---
@@ -125,4 +125,4 @@ It contributes a non-carceral, non-preachy model for restoring humane norms in d
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-05-20_
