@@ -1,6 +1,5 @@
 # ⏳ Friction And Pause Systems  
-**First created:** 2026-05-16 | **Last updated:** 2026-05-16  
-
+**First created:** 2026-05-16 | **Last updated:** 2026-05-20  
 *An examination of friction as protective infrastructure, behavioural slowing mechanisms, and pause-based interventions within accelerated digital environments.*  
 
 ---
@@ -423,4 +422,4 @@ It contributes to the archive by examining behavioural slowing mechanisms, pause
 
 *Sometimes the most protective system is the one that briefly refuses to hurry.*  
 
-_Last updated: 2026-05-16_
+_Last updated: 2026-05-20_
