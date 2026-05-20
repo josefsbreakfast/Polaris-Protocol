@@ -1,6 +1,5 @@
 # 🛋️ Lurker Cultures  
-**First created:** 2026-05-17 | **Last updated:** 2026-05-17  
-
+**First created:** 2026-05-17 | **Last updated:** 2026-05-20  
 *An examination of observational participation, invisible audience dynamics, low-visibility sociality, and the interaction between passive presence, platform metrics, and digitally mediated community environments.*  
 
 ---
@@ -446,4 +445,4 @@ It contributes to the Apothecary framework by examining observational participat
 
 *Silence inside a system does not necessarily mean absence from it.*  
 
-_Last updated: 2026-05-17_
+_Last updated: 2026-05-20_
