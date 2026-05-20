@@ -1,6 +1,5 @@
 # 📣 Dominance Posting  
-**First created:** 2026-05-17 | **Last updated:** 2026-05-17  
-
+**First created:** 2026-05-17 | **Last updated:** 2026-05-20  
 *An examination of rhetorical force projection, status signalling, certainty performance, and the interaction between visibility economies and adversarial social environments within digital platforms.*  
 
 ---
@@ -460,4 +459,4 @@ It contributes to the Apothecary framework by examining rhetorical force project
 
 *Not every environment that rewards certainty deserves unquestioned certainty in return.*  
 
-_Last updated: 2026-05-17_
+_Last updated: 2026-05-20_
