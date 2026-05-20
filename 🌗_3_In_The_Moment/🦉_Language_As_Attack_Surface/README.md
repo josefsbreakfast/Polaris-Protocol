@@ -1,5 +1,5 @@
 # 🦉 Language As Attack Surface  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-18  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-20   
 *How words are engineered, degraded, and weaponised in modern information environments.*
 
 ---
@@ -140,4 +140,4 @@ It decides which realities are survivable.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-18_
+_Last updated: 2026-05-20_
