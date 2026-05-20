@@ -1,5 +1,5 @@
 # 🎶 Language as Democratic Infrastructure  
-**First created:** 2026-01-18 | **Last updated:** 2026-01-18  
+**First created:** 2026-01-18 | **Last updated:** 2026-05-20  
 *Why shared language standards are not cultural niceties but load‑bearing systems for democratic accountability.*  
 
 ---
@@ -152,4 +152,4 @@ It documents why protecting shared language standards is essential to democratic
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-18_
+_Last updated: 2026-05-20_
