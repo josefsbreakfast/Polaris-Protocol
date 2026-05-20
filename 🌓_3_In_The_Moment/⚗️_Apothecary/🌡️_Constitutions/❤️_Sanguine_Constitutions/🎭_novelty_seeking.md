@@ -1,6 +1,5 @@
 # 🎭 Novelty Seeking  
-**First created:** 2026-05-17 | **Last updated:** 2026-05-17  
-
+**First created:** 2026-05-17 | **Last updated:** 2026-05-20  
 *An examination of curiosity, stimulation, exploratory behaviour, and the way platform environments can transform ordinary novelty-seeking into compulsive attention cycling.*  
 
 ---
@@ -361,4 +360,4 @@ It contributes to the Apothecary framework by examining how ordinary human curio
 
 *Novelty becomes nourishment when attention has time to digest it.*  
 
-_Last updated: 2026-05-17_
+_Last updated: 2026-05-20_
