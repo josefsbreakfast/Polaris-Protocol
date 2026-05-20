@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 14:34:40 UTC_
+_Generated on 2026-05-20 14:37:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7080,6 +7080,9 @@ _Generated on 2026-05-20 14:34:40 UTC_
     - [**👻_Glitchy_Ghosties/**](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/👻_Glitchy_Ghosties/)
       - [**🍄_Memetic_Ghosts/**](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/)
         - [`README.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/README.md)
+        - [`🍪_ghost_capture_fragment.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/🍪_ghost_capture_fragment.md)
+        - [`🐛_algorithmic_scp_bop_class.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/🐛_algorithmic_scp_bop_class.md)
+        - [`🐛_algorithmic_scp_unknown_class.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/🐛_algorithmic_scp_unknown_class.md)
   - [**🩻_Weirdness_Screening/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/)
     - [**🌐_Connection_Hiccups/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/)
       - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/README.md)
@@ -7166,9 +7169,6 @@ _Generated on 2026-05-20 14:34:40 UTC_
     - [`📿_golem_of_prague.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/📿_golem_of_prague.md)
   - [**👻_Glitchy_Ghosties/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/)
     - [**🍄_Memetic_Ghosts/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/)
-      - [`🍪_ghost_capture_fragment.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/🍪_ghost_capture_fragment.md)
-      - [`🐛_algorithmic_scp_bop_class.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/🐛_algorithmic_scp_bop_class.md)
-      - [`🐛_algorithmic_scp_unknown_class.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/🐛_algorithmic_scp_unknown_class.md)
       - [`🪦_the_ghosts_of_online_harassment.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/🪦_the_ghosts_of_online_harassment.md)
     - [**👾_Metadata_Ghosts/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/)
       - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/README.md)
