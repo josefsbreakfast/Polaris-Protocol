@@ -1,5 +1,5 @@
 # 🧩 Incoming Correspondence Risk Matrix  
-**First created:** 2025-11-15 | **Last updated:** 2025-11-15  
+**First created:** 2025-11-15 | **Last updated:** 2026-05-20  
 *A high-level behavioural and governance-oriented assessment of risks associated with opening a public correspondence channel (PO Box + registry), with specific attention to misinterpretation, projection, and misuse by hostile actors.*  
 <!--£10 says "new survival sex work" has already appeared in my MH record.-->
 ---
@@ -195,4 +195,4 @@ It outlines high-level behavioural risks associated with opening a public corres
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-15_
+_Last updated: 2026-05-20_
