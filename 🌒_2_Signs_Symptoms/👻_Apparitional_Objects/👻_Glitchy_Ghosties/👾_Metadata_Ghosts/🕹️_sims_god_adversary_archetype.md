@@ -1,5 +1,5 @@
 # 🕹️ Sims-God Adversary Archetype
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-20  
 *The adversary who treats real people as controllable game pieces.*
 
 ---
@@ -67,4 +67,4 @@ It defines a recurring figure whose belief in personal control produces dispropo
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-05-20_
