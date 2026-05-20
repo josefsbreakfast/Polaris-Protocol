@@ -456,7 +456,8 @@ but from:
 - [📥: FOA: Writing Campaign With Open Letters To The Home Secretary & Commissioner of the Metropolitan Police](https://www.foa.org.uk/campaign/utk-rally-complaint-action) – *"Prior to the event, the Metropolitan Police publicly stated that there would be “zero tolerance” towards hate speech and anti-Muslim abuse. Despite this, extensive footage and reporting from the rally appeared to show Islamophobic rhetoric and hostility towards Muslims taking place openly in central London. In response, Friends of Al-Aqsa has written formal public letters to Shabana Mahmood and Mark Rowley raising serious concerns about the handling of the rally and the wider response to Islamophobia. The campaign is calling on members of the public to write to the Home Secretary and the Metropolitan Police demanding clear answers to the questions posed in the letters and asking what action will now be taken to address Islamophobic hate speech and reassure Muslim communities."*
 - [📹: Express: "Vance Urges Immigration
 Critics To 'Keep Going After
-Unite The Kingdom Protest"](https://vm.tiktok.com/ZNRtcmjsw/) – *nice to see he dropped the colour-contacts effect for this one; outspoken partisan opining on our island politics will be noted for the next time you ask us to stay out of yours*  
+Unite The Kingdom Protest"](https://vm.tiktok.com/ZNRtcmjsw/) – *nice to see he dropped the colour-contacts effect for this one; outspoken partisan opining on our island politics will be noted for the next time you ask us to stay out of yours*
+- [📹: Rt Hon Ayoub Khan MP: Point Pf Order](https://vm.tiktok.com/ZNRtcE9D7/)  
 
 ---
 
