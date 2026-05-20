@@ -1,5 +1,5 @@
 # 🪞 Script Decoding Lab  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-20  
 *Analytical framework for breaking down manipulative narratives.*
 
 ---
@@ -38,4 +38,4 @@ It teaches message disassembly as a civic diagnostic tool.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-20_
