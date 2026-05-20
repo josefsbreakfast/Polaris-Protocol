@@ -747,7 +747,10 @@ The argument therefore becomes:
 - [📹: Middle East Eye: "Itamar Ben Gvir Visits As Flotilla Activists Abused In Detention"](https://vm.tiktok.com/ZNRtc4Low/)
 - [📹: Aaron Parnas: "News: International Outrage As Israel's Far-Right Minister Posts Video Of Security Forces Abusing Flotilla Activists"](https://vm.tiktok.com/ZNRtcq8E5/)
 - [📹: RTÉ: "President Catherine Connolly has said that she is 'very worried' after her sister was among a number of Irish citizens on board an aid flotilla detained
-42.5K by Israel."](https://vm.tiktok.com/ZNRtc498o/)  
+42.5K by Israel."](https://vm.tiktok.com/ZNRtc498o/)
+- [📲: LinkedIn: "Global Sumud Flotilla: All boats have been intercepted."](https://www.linkedin.com/posts/all-boats-have-been-intercepted-we-are-share-7462603390435385344-c0LT)
+
+*So yes, the prisoners being humiliated in public? They almost certainly include British subjects. Where is the Prime Minister? Where is the Crown? Where are The Patriots™️*  
 
 ---
 
