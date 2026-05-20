@@ -1,6 +1,5 @@
 # 🚶 Embodied Routines  
-**First created:** 2026-05-15 | **Last updated:** 2026-05-15  
-
+**First created:** 2026-05-15 | **Last updated:** 2026-05-20  
 *An examination of rhythmic physical practices, stabilising repetition, and bodily continuity as counterweights to digitally accelerated attentional fragmentation.*  
 
 ---
@@ -349,4 +348,4 @@ It contributes to the archive by examining stabilising physical practices, rhyth
 
 *Stability is often rebuilt rhythmically rather than dramatically.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-20_
