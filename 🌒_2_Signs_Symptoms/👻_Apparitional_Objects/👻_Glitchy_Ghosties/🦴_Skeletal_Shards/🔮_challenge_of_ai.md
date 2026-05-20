@@ -1,6 +1,5 @@
 # 🔮 Challenge of AI  
-
-**First created:** 2025-09-05 | **Last updated:** 2025-09-13    
+**First created:** 2025-09-05 | **Last updated:** 2026-05-20  
 *How AI functions inside the Polaris Protocol as tool, mirror, and foil*  
 
 ---
@@ -44,4 +43,4 @@ It records the role of AI inside survivor-authored work: part assistant, part mi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-13_
+_Last updated: 2026-05-20_
