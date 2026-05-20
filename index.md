@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 14:37:56 UTC_
+_Generated on 2026-05-20 14:41:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7083,6 +7083,10 @@ _Generated on 2026-05-20 14:37:56 UTC_
         - [`🍪_ghost_capture_fragment.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/🍪_ghost_capture_fragment.md)
         - [`🐛_algorithmic_scp_bop_class.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/🐛_algorithmic_scp_bop_class.md)
         - [`🐛_algorithmic_scp_unknown_class.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/🐛_algorithmic_scp_unknown_class.md)
+        - [`🪦_the_ghosts_of_online_harassment.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/🪦_the_ghosts_of_online_harassment.md)
+      - [**👾_Metadata_Ghosts/**](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/)
+        - [`README.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/README.md)
+        - [`🌀_gregory_peck_recursion.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/🌀_gregory_peck_recursion.md)
   - [**🩻_Weirdness_Screening/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/)
     - [**🌐_Connection_Hiccups/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/)
       - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/README.md)
@@ -7168,11 +7172,7 @@ _Generated on 2026-05-20 14:37:56 UTC_
     - [`🎶_she_knows_loop.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🎶_she_knows_loop.md)
     - [`📿_golem_of_prague.md`](👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/📿_golem_of_prague.md)
   - [**👻_Glitchy_Ghosties/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/)
-    - [**🍄_Memetic_Ghosts/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/)
-      - [`🪦_the_ghosts_of_online_harassment.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/🍄_Memetic_Ghosts/🪦_the_ghosts_of_online_harassment.md)
     - [**👾_Metadata_Ghosts/**](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/)
-      - [`README.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/README.md)
-      - [`🌀_gregory_peck_recursion.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/🌀_gregory_peck_recursion.md)
       - [`👻_who_are_the_ghosts.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/👻_who_are_the_ghosts.md)
       - [`💥_one_guy_with_vibes.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/💥_one_guy_with_vibes.md)
       - [`🕹️_sims_god_adversary_archetype.md`](👻_Apparitional_Objects/👻_Glitchy_Ghosties/👾_Metadata_Ghosts/🕹️_sims_god_adversary_archetype.md)
