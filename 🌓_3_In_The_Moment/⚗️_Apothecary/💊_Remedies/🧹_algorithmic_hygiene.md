@@ -1,6 +1,5 @@
 # 🧹 Algorithmic Hygiene  
-**First created:** 2026-05-16 | **Last updated:** 2026-05-16  
-
+**First created:** 2026-05-16 | **Last updated:** 2026-05-20  
 *An examination of informational maintenance practices, recommendation-system drift management, and methods for preserving attentional and perceptual stability within algorithmically mediated environments.*  
 
 ---
@@ -450,4 +449,4 @@ It contributes to the archive by examining recommendation-system drift, informat
 
 *Feeds do not merely respond to attention. Over time, they train it.*  
 
-_Last updated: 2026-05-16_
+_Last updated: 2026-05-20_
