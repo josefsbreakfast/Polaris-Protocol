@@ -1,5 +1,5 @@
 # 🪶 Language as Smuggled Plurality
-**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-16 | **Last updated:** 2026-05-20  
 *How metaphor, multilinguality, and poetics preserve nuance under constraint.*
 
 ---
@@ -54,4 +54,4 @@ It traces how humans preserve emotional depth when dominant languages constrain 
 > - [💞 Queer Theory as Relational Literacy]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-11_
+_Last updated: 2026-05-20_
