@@ -1,6 +1,5 @@
 # 🕳️ Conspiracy Attraction  
-**First created:** 2026-05-17 | **Last updated:** 2026-05-17  
-
+**First created:** 2026-05-17 | **Last updated:** 2026-05-20  
 *An examination of conspiratorial attraction systems, closure-seeking cognition under uncertainty, institutional distrust, and the interaction between ambiguity, coherence hunger, and algorithmically amplified informational environments.*  
 
 ---
@@ -474,4 +473,4 @@ It contributes to the Apothecary framework by examining conspiratorial attractio
 
 *The desire to understand hidden systems can illuminate genuine deception — or transform uncertainty itself into an inescapable architecture.*  
 
-_Last updated: 2026-05-17_
+_Last updated: 2026-05-20_
