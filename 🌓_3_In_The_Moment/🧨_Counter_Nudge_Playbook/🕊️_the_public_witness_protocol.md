@@ -1,5 +1,5 @@
 # 🕊️ The Public Witness Protocol  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2026-05-20  
 *How publics preserve visibility, coherence, and moral clarity when institutions fail to acknowledge political suffering.*
 
 ---
@@ -121,4 +121,4 @@ It defines how publics maintain visibility and coherence during periods of excep
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-05-20_
