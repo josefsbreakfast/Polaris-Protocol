@@ -1,6 +1,5 @@
 # 📖 Longform Reading  
-**First created:** 2026-05-15 | **Last updated:** 2026-05-15  
-
+**First created:** 2026-05-15 | **Last updated:** 2026-05-20   
 *An examination of sustained attention, narrative continuity, contextual thinking, and cognitive depth restoration within digitally accelerated informational environments.*  
 
 ---
@@ -330,7 +329,7 @@ This node connects strongly with:
 
 ## 🏮 Footer  
 
-*Longform Reading* is a living node of the Polaris Protocol.  
+*📖 Longform Reading* is a living node of the Polaris Protocol.  
 It contributes to the archive by examining sustained attention, contextual cognition, and narrative continuity as restorative counterweights to digitally accelerated informational environments.  
 
 > 📡 Cross-references:
@@ -342,4 +341,4 @@ It contributes to the archive by examining sustained attention, contextual cogni
 
 *Attention deepens when it is allowed to remain somewhere long enough to take root.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-20_
