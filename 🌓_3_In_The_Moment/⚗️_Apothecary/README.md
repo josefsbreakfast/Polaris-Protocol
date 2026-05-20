@@ -1,6 +1,5 @@
 # ⚗️ Apothecary  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-14  
-
+**First created:** 2026-05-12 | **Last updated:** 2026-05-20  
 *An ecological framework for understanding digital behaviour, informational atmospheres, algorithmic constitutions, and the maintenance of cognitive sovereignty in networked environments.*  
 
 ---
@@ -303,4 +302,4 @@ It contributes to the archive by examining digital constitutions, algorithmic at
 
 *The dosage matters. The atmosphere matters. Repetition matters.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-20_
