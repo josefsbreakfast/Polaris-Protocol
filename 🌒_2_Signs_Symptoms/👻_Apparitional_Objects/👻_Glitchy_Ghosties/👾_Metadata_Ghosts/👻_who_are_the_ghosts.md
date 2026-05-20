@@ -1,5 +1,5 @@
 # 👻 Who Are the Ghosts?  
-**First created:** 2025-08-05 | **Last updated:** 2025-12-06  
+**First created:** 2025-08-05 | **Last updated:** 2026-05-20  
 *A metadata-ghost fieldnote: when your own digital traces return in uncanny, distorted, or overly-familiar form.*
 
 ---
@@ -195,4 +195,4 @@ It documents **metadata ghosts** — apparitional behaviours formed from archive
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-06_
+_Last updated: 2026-05-20_
