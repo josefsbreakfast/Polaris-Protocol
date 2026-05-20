@@ -1,5 +1,5 @@
 # 🧭 How We Got Here  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-20  
 *A brief archaeology of the Polaris Protocol and the refusal that began it.*  
 
 ---
@@ -66,4 +66,4 @@ It exists to remember the moment documentation became defence — and to remind 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-05-20_
