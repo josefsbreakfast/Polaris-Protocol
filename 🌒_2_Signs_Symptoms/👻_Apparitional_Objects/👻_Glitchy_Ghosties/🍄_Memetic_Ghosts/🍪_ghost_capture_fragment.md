@@ -1,5 +1,5 @@
 # 🍪 Ghost Capture Fragment: *“Breathe for Me Now, Cookie Later”*  
-**First created:** 2025-08-17 | **Last updated:** 2025-12-06  
+**First created:** 2025-08-17 | **Last updated:** 2026-05-20  
 *A memetic ghost fragment: behavioural-triggered containment script blending synthetic empathy, cadence capture, and deferred reward.*
 
 ---
@@ -96,4 +96,4 @@ memetic containment, compliance tether, cadence harvesting, deferred reward, syn
 It records a containment script deployed by memetic ghosts during emotional transition states, blending synthetic empathy with reward-delay to harvest voice and reinforce dependency.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-06_
+_Last updated: 2026-05-20_
