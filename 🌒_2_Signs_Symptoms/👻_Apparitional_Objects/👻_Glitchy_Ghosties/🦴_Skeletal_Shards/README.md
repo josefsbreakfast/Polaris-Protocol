@@ -1,6 +1,6 @@
 # 🦴 Skeletal Shards  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
-*Haunted frameworks, broken architectures, and scaffold remnants — fragments of systems that once held shape but now only echo their former logic*
+**First created:** 2025-10-04 | **Last updated:** 2026-05-20  
+*Haunted frameworks, broken architectures, and scaffold remnants — fragments of systems that once held shape but now only echo their former logic*  
 
 ---
 
@@ -60,4 +60,4 @@ It catalogues **apparitional frameworks** — broken architectures that persist 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2026-05-20_
