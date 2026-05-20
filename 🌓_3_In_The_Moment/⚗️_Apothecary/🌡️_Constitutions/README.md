@@ -1,6 +1,5 @@
 # 🌡️ Constitutions  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-14  
-
+**First created:** 2026-05-12 | **Last updated:** 2026-05-20  
 *An examination of enduring informational temperaments, behavioural predispositions, and the interaction between nervous systems and algorithmic environments.*  
 
 ---
@@ -271,4 +270,4 @@ It contributes to the archive by examining enduring informational temperaments, 
 
 *Different environments cultivate different minds.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-20_
