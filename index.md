@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 18:19:44 UTC_
+_Generated on 2026-05-20 18:21:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7195,6 +7195,8 @@ _Generated on 2026-05-20 18:19:44 UTC_
       - [`IMG_5465.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/IMG_5465.jpeg)
       - [`mystery_cryprid_stress_energies.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/mystery_cryprid_stress_energies.jpeg)
       - [`neon_data.png`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/neon_data.png)
+      - [`rare_bigfoot_footage.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/rare_bigfoot_footage.jpeg)
+      - [`that_signal_chat.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/that_signal_chat.jpeg)
   - [**🐈‍⬛_Antifacist_Propaganda_Machine/**](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/)
     - [`README.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/README.md)
     - [`🌱_plantseer_data_mining_coop.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🌱_plantseer_data_mining_coop.md)
@@ -7281,8 +7283,6 @@ _Generated on 2026-05-20 18:19:44 UTC_
     - [`🪖_touch_grass_reembedding_technology_in_the_physical_world.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🪖_touch_grass_reembedding_technology_in_the_physical_world.md)
   - [**🌌_Polaris_Specific_Memeing/**](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/)
     - [**🦑_The_Real_Conspiracy/**](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/)
-      - [`IMG_5466.jpeg`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/IMG_5466.jpeg)
-      - [`IMG_6188.jpeg`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/IMG_6188.jpeg)
       - [`IMG_6189.jpeg`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/IMG_6189.jpeg)
       - [`IMG_6190.jpeg`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/IMG_6190.jpeg)
       - [`IMG_6191.jpeg`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/IMG_6191.jpeg)
