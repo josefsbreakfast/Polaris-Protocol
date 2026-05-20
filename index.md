@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 16:23:19 UTC_
+_Generated on 2026-05-20 16:27:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7185,6 +7185,11 @@ _Generated on 2026-05-20 16:23:19 UTC_
   - [`README.md`](🌔_4_Small_Steps/README.md)
 - [**🌕_5_Long_Strategies/**](🌕_5_Long_Strategies/)
   - [`README.md`](🌕_5_Long_Strategies/README.md)
+- [**🌗_3_In_The_Moment/**](🌗_3_In_The_Moment/)
+  - [**🦉_Language_As_Attack_Surface/**](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/)
+    - [**🧿_Parsh_Fasr/**](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/)
+      - [`README.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/README.md)
+      - [`🎭_dialogue_as_substitution.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/🎭_dialogue_as_substitution.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [`README.md`](🏮_Admin_Nest/README.md)
   - [`notes.txt`](🏮_Admin_Nest/notes.txt)
@@ -7469,9 +7474,6 @@ _Generated on 2026-05-20 16:23:19 UTC_
     - [`🪩_verification_and_containment.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪩_verification_and_containment.md)
     - [`🪶_pattern_tracking_protocols.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_pattern_tracking_protocols.md)
   - [**🦉_Language_As_Attack_Surface/**](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/)
-    - [**🧿_Parsh_Fasr/**](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/)
-      - [`README.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/README.md)
-      - [`🎭_dialogue_as_substitution.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/🎭_dialogue_as_substitution.md)
     - [`README.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/README.md)
     - [`frame_drift_watchlist.yaml`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/frame_drift_watchlist.yaml)
     - [`what_they_now_call_X.csv`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/what_they_now_call_X.csv)
