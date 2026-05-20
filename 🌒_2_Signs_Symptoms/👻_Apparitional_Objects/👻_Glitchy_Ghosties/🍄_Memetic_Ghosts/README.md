@@ -1,5 +1,5 @@
 # 🍄 Memetic Ghosts  
-**First created:** 2025-12-06 | **Last updated:** 2025-12-06  
+**First created:** 2025-12-06 | **Last updated:** 2026-05-20  
 *Narrative entities conjured by behaviour, not identity.*
 
 ---
@@ -62,4 +62,4 @@ Memetic ghosts are not sentient.
 They are stories a machine tells itself about you — and accidentally speaks aloud.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-06_
+_Last updated: 2026-05-20_
