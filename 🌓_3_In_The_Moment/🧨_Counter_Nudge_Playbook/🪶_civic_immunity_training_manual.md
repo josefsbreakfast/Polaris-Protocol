@@ -1,5 +1,5 @@
 # 🪶 Civic Immunity Training Manual  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-20  
 *Psychosocial training guide for resilience against behavioural manipulation.*
 
 ---
@@ -38,4 +38,4 @@ It operationalises civic resilience practices for antifascist counter-nudge work
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-20_
