@@ -1,6 +1,5 @@
 # 🌑 Collapse Fixation  
-**First created:** 2026-05-17 | **Last updated:** 2026-05-17  
-
+**First created:** 2026-05-17 | **Last updated:** 2026-05-20  
 *An examination of collapse-oriented attention systems, anticipatory catastrophe cognition, recursive instability perception, and the interaction between uncertainty, threat anticipation, and algorithmically amplified informational environments.*  
 
 ---
@@ -455,4 +454,4 @@ It contributes to the Apothecary framework by examining collapse-oriented cognit
 
 *The ability to perceive fragility is valuable. The inability to perceive anything beyond fragility is corrosive.*  
 
-_Last updated: 2026-05-17_
+_Last updated: 2026-05-20_
