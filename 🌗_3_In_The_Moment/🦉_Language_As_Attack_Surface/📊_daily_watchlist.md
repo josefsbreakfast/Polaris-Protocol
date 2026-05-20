@@ -1,5 +1,5 @@
 # 📊 Daily Watchlist  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-20  
 *A quick-read dashboard showing current frame activity, actions, and wellbeing cues.*  
 
 ---
@@ -68,4 +68,4 @@ It maintains operational tempo while reminding contributors that rest is also pa
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-05-20_
