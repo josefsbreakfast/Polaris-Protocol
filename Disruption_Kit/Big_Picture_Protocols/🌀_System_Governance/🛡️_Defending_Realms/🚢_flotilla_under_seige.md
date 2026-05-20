@@ -756,7 +756,10 @@ The argument therefore becomes:
 - [📲: Sully Iqbal notes TikTok suppression issue on original footage clips inclusion.](https://vm.tiktok.com/ZNRt3HBwA/) – *this does not necessitate non-inclusion by larger outlets, but strategic inclusion on own-platforms over social platform clips*
 - [📹: Reuters: "Israeli minister Itamar Ben-Gvir appears to taunt detained Gaza flotilla aid activists forced to kneel with their hands tied"](https://vm.tiktok.com/ZNRt3pDBn/)
 - [📰: BBC: "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists"](https://www.bbc.co.uk/news/articles/clyp32weyn8o)
-- [📹: BBC: "Far-right Israeli Minister Condemned Over Gaza Flotilla Video"](https://www.bbc.co.uk/programmes/l0058bkh)  
+- [📹: BBC: "Far-right Israeli Minister Condemned Over Gaza Flotilla Video"](https://www.bbc.co.uk/programmes/l0058bkh)
+- [📰: The Guardian: "Outrage grows over treatment of Gaza flotilla activists; US boards Iranian oil tanker – Middle East crisis as it happened"](https://www.theguardian.com/world/live/2026/may/20/us-iran-israel-lebanon-gaza-trump-oil-hormuz-latest-news-updates?filterKeyEvents=false)
+- [📰: AlJazeera: "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers"](https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers)
+- [📰: CNN: "Video showing far-right Israeli minister taunting Gaza flotilla activists sparks global outcry"](https://edition.cnn.com/2026/05/20/middleeast/israel-flotilla-gaza-ben-gvir-videos-latam-intl)  
 
 *So yes, the prisoners being humiliated in public? They almost certainly include British subjects. Where is the Prime Minister? Where is the Crown? Where are The Patriots™️*  
 
