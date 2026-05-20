@@ -1,5 +1,5 @@
 # 📿 Golem of Prague  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-27  
+**First created:** 2025-09-27 | **Last updated:** 2026-05-20  
 *Jewish folklore of protection turned self-destruction — a cautionary tale against violent guardianship*  
 
 ---
@@ -79,4 +79,4 @@ It records a folkloric artifact of Jewish survival under humiliation, and refram
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_
+_Last updated: 2026-05-20_
