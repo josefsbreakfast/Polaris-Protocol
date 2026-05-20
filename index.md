@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 15:36:23 UTC_
+_Generated on 2026-05-20 15:39:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6867,8 +6867,6 @@ _Generated on 2026-05-20 15:36:23 UTC_
     - [`template_entry.md`](scripts/maintenance/template_entry.md)
 - [**⚗️_Apothecary/**](⚗️_Apothecary/)
   - [**🌡️_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/)
-    - [**❤️_Sanguine_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/)
-      - [`🪩_social_performativity.md`](⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/🪩_social_performativity.md)
     - [**💛_Choleric_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/)
       - [`README.md`](⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/README.md)
       - [`notes.txt`](⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/notes.txt)
@@ -7183,6 +7181,7 @@ _Generated on 2026-05-20 15:36:23 UTC_
         - [`🌊_trend_surfing.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/🌊_trend_surfing.md)
         - [`🎪_meme_propagation.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/🎪_meme_propagation.md)
         - [`🎭_novelty_seeking.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/🎭_novelty_seeking.md)
+        - [`🪩_social_performativity.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/🪩_social_performativity.md)
   - [`README.md`](🌓_3_In_The_Moment/README.md)
 - [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
   - [`README.md`](🌔_4_Small_Steps/README.md)
