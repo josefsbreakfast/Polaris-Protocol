@@ -1,6 +1,5 @@
 # 🧨 Factional Identity  
-**First created:** 2026-05-17 | **Last updated:** 2026-05-17  
-
+**First created:** 2026-05-17 | **Last updated:** 2026-05-20  
 *An examination of coalition-based identity formation, adversarial belonging systems, symbolic territoriality, and the interaction between social identity, conflict environments, and algorithmically amplified digital platforms.*  
 
 ---
@@ -481,4 +480,4 @@ It contributes to the Apothecary framework by examining coalition identity forma
 
 *Belonging becomes dangerous when identity can survive only through perpetual enemies.*  
 
-_Last updated: 2026-05-17_
+_Last updated: 2026-05-20_
