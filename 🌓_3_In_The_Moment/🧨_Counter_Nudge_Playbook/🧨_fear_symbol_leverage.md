@@ -1,5 +1,5 @@
 # 🧨 Fear-Symbol Leverage — Using Male Threat Clusters for Civic Delivery  
-**First created:** 2025-11-20 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-20 | **Last updated:** 2026-05-20  
 *Strategic counter-nudges that exploit male fear symbolics to boost visibility, stability, and civic reach.*
 <!--Tell me that no large organosations or geopolitical forces do this. I'll wait. We're just trying to use the same techniques for harm-reduction purposes.-->
 ---
@@ -208,4 +208,4 @@ counter-nudges, male fear signatures, symbolic triggers, civic distribution, fem
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-05-20_
