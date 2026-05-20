@@ -1,5 +1,5 @@
 # 🧿 Parsh–Fasr  
-**First created:** 2025-12-18 | **Last updated:** 2025-12-28    
+**First created:** 2025-12-18 | **Last updated:** 2026-05-20  
 *An analytic register for interpretive unpacking — explanation without instrumental persuasion.*
 
 ---
@@ -78,4 +78,4 @@ It contributes a **truth-constrained analytic register** for decoding narratives
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-28_
+_Last updated: 2026-05-20_
