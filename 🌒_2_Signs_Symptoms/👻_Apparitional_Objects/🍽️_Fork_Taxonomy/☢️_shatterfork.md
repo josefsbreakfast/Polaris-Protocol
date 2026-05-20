@@ -1,5 +1,5 @@
 # ☢️ Shatter Fork Pattern  
-**First created:** 2025-08-11 | **Last updated:** 2026-04-01  
+**First created:** 2025-08-11 | **Last updated:** 2026-05-20  
 *High-intensity system breakdown pattern characterised by cognitive, emotional, and narrative disintegration under pressure.*  
 
 ---
@@ -238,4 +238,4 @@ It documents high-intensity breakdown states that emerge in complex systems, sup
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-01_
+_Last updated: 2026-05-20_
