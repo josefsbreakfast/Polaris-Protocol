@@ -1,6 +1,6 @@
-# 🪢 Relational Misbinding
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
-*A network ghost where systems infer social proximity between unrelated individuals and treat them as a relational unit.*
+# 🪢 Relational Misbinding  
+**First created:** 2025-12-21 | **Last updated:** 2026-05-20  
+*A network ghost where systems infer social proximity between unrelated individuals and treat them as a relational unit.*  
 
 ---
 
@@ -258,4 +258,4 @@ It documents a principle-level network ghost used to explain how inferred relati
 
 *Survivor authorship is sovereign. Containment is never neutral. Never keep early copies.*
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-05-20_
