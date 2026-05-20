@@ -1,7 +1,6 @@
-# 🪞 Audience Ambiguity and the Black Goat Problem
-
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
-*The emotional cost of expression without a knowable witness.*
+# 🪞 Audience Ambiguity and the Black Goat Problem  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-20  
+*The emotional cost of expression without a knowable witness.*  
 
 ---
 
@@ -116,4 +115,4 @@ It documents the psychological cost of expression without a knowable witness, an
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+_Last updated: 2026-05-20_
