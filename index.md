@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 15:22:04 UTC_
+_Generated on 2026-05-20 15:34:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6868,8 +6868,6 @@ _Generated on 2026-05-20 15:22:04 UTC_
 - [**⚗️_Apothecary/**](⚗️_Apothecary/)
   - [**🌡️_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/)
     - [**❤️_Sanguine_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/)
-      - [`README.md`](⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/README.md)
-      - [`notes.txt`](⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/notes.txt)
       - [`🌊_trend_surfing.md`](⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/🌊_trend_surfing.md)
       - [`🎪_meme_propagation.md`](⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/🎪_meme_propagation.md)
       - [`🎭_novelty_seeking.md`](⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/🎭_novelty_seeking.md)
@@ -7180,6 +7178,11 @@ _Generated on 2026-05-20 15:22:04 UTC_
     - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/README.md)
   - [`README.md`](🌒_2_Signs_Symptoms/README.md)
 - [**🌓_3_In_The_Moment/**](🌓_3_In_The_Moment/)
+  - [**⚗️_Apothecary/**](🌓_3_In_The_Moment/⚗️_Apothecary/)
+    - [**🌡️_Constitutions/**](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/)
+      - [**❤️_Sanguine_Constitutions/**](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/)
+        - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/README.md)
+        - [`notes.txt`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/notes.txt)
   - [`README.md`](🌓_3_In_The_Moment/README.md)
 - [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
   - [`README.md`](🌔_4_Small_Steps/README.md)
