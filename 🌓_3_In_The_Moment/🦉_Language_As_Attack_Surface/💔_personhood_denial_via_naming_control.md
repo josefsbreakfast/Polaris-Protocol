@@ -1,3 +1,5 @@
+🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/💔_personhood_denial_via_naming_control.md
+
 # 💔 Personhood Denial via Naming Control  
 **First created:** 2026-01-18 | **Last updated:** 2026-05-20  
 *How controlling names, pronouns, and identifiers functions as a low-cost method of stripping recognition, dignity, and civic standing.*  
