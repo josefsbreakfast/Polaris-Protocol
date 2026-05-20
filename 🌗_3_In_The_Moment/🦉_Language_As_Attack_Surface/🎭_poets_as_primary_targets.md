@@ -1,5 +1,5 @@
 # 🎭 Poets as Primary Targets  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-20  
 *Why expressive workers become first-wave targets in systems that weaponise language.*  
 
 ---
@@ -79,4 +79,4 @@ It documents historical and current mechanisms of linguistic persecution and pro
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-05-20_
