@@ -1,6 +1,5 @@
 # 🕸️ Post-Truth Fog  
-**First created:** 2026-05-16 | **Last updated:** 2026-05-16  
-
+**First created:** 2026-05-16 | **Last updated:** 2026-05-20  
 *An examination of epistemic instability, verification fatigue, fragmented reality frameworks, and the atmospheric erosion of shared trust in informational systems within networked societies.*  
 
 ---
@@ -392,4 +391,4 @@ It examines epistemic destabilisation, fragmented informational authority, verif
 
 *Fog becomes most dangerous when travellers no longer agree where the shoreline is supposed to be.*  
 
-_Last updated: 2026-05-16_
+_Last updated: 2026-05-20_
