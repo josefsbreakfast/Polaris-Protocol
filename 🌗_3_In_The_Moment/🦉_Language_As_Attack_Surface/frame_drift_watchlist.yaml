@@ -27,6 +27,6 @@ watchlist:
     status: "escalate"
 
 metadata:
-  last_updated: "2025-11-02"
+  last_updated: "2026-05-20"
   maintainer: "Polaris Protocol Ops"
   notes: "Expand list weekly; include ≥ 3 confirming examples per entry before escalation."
