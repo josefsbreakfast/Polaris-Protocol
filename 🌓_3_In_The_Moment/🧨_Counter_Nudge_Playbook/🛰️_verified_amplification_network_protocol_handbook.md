@@ -1,5 +1,5 @@
 # 🛰️ Verified Amplification Network (VAN) — Protocol Handbook  
-**First created:** 2025-11-09 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-09 | **Last updated:** 2026-05-20  
 *Operational guide for slow, verified, relational amplification.*  
 
 ---
@@ -35,4 +35,4 @@ Defines the architecture, membership rules, cadence, and fidelity scripts for bu
 
 *Solidarity has a protocol. Verification has a rhythm.*
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-05-20_
