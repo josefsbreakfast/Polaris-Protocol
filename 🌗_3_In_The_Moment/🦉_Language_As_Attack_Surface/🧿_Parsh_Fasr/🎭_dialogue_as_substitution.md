@@ -1,5 +1,5 @@
 # 🎭 Dialogue as Substitution  
-**First created:** 2025-12-18 | **Last updated:** 2025-12-18  
+**First created:** 2025-12-18 | **Last updated:** 2026-05-20  
 *When rhetoric replaces redress, and conversation is mistaken for accountability.*
 
 ---
@@ -106,4 +106,4 @@ It documents how rhetorical practices — including well-intentioned dialogue �
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-18_
+_Last updated: 2026-05-20_
