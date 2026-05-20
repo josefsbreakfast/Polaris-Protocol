@@ -1,6 +1,5 @@
 # 🤍 Phlegmatic Constitutions  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-14  
-
+**First created:** 2026-05-12 | **Last updated:** 2026-05-20  
 *An examination of passive informational temperaments, ambient participation systems, low-friction algorithmic conditioning, and the interaction between dissociation, convenience, and digital environments optimised for continuous consumption.*  
 
 ---
@@ -322,4 +321,4 @@ It contributes to the archive by examining passive informational temperaments, l
 
 *The quietest forms of capture are often the hardest to notice.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-20_
