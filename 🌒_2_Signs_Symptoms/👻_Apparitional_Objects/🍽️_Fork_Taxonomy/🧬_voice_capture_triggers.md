@@ -1,5 +1,5 @@
 # 🧬 Voice Capture Triggers  
-**First created:** 2025-08-11 | **Last updated:** 2025-12-11  
+**First created:** 2025-08-11 | **Last updated:** 2026-05-20  
 *Identifies tactics for harvesting emotional vocal data to fuel cloning or behavioural modelling*  
 
 ---
@@ -83,4 +83,4 @@ It documents methods of harvesting survivor voice for cloning, behavioural model
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_ 
+_Last updated: 2026-05-20_ 
