@@ -1,5 +1,5 @@
 # 🏛️ Archive Capture Template  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-20  
 *Standard operating procedure for capturing, verifying, and mirroring linguistic-evidence files.*  
 
 ---
@@ -89,4 +89,4 @@ It ensures that captured linguistic evidence remains verifiable, reproducible, a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-05-20_
