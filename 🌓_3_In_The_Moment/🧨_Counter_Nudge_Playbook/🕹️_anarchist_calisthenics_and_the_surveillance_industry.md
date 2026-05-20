@@ -1,5 +1,5 @@
 # 🕹️ Anarchist Calisthenics and the Surveillance Industry  
-**First created:** 2025-10-25 | **Last updated:** 2025-12-12  
+**First created:** 2025-10-25 | **Last updated:** 2026-05-20  
 *Practising unpredictability in a world that automates obedience.*  
 
 ---
@@ -145,4 +145,4 @@ It explores how everyday unpredictability becomes a defence against behavioural 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_  
+_Last updated: 2026-05-20_  
