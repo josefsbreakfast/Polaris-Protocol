@@ -1,6 +1,5 @@
 # 🫙 Distempers  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-14  
-
+**First created:** 2026-05-12 | **Last updated:** 2026-05-20  
 *An examination of dysregulated informational states, maladaptive engagement loops, and the interaction between human vulnerabilities and algorithmically amplified behavioural environments.*  
 
 ---
@@ -315,4 +314,4 @@ It contributes to the archive by examining dysregulated informational states, re
 
 *What begins as adaptation can become captivity when the environment continuously rewards the loop.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-20_
