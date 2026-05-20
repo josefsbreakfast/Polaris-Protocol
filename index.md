@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 16:49:01 UTC_
+_Generated on 2026-05-20 16:54:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7192,6 +7192,12 @@ _Generated on 2026-05-20 16:49:01 UTC_
     - [`⚖️_linguistic_integrity_as_security_risk.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/⚖️_linguistic_integrity_as_security_risk.md)
     - [`⚗_intentionality_as_the_moral_threshold.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/⚗_intentionality_as_the_moral_threshold.md)
     - [`🌌_language_as_infrastructure.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🌌_language_as_infrastructure.md)
+    - [`🎭_poets_as_primary_targets.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🎭_poets_as_primary_targets.md)
+    - [`🎶_language_as_democratic_infrastructure.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🎶_language_as_democratic_infrastructure.md)
+    - [`🏛️_archive_capture_template.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🏛️_archive_capture_template.md)
+    - [`💔_personhood_denial_via_naming_control.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/💔_personhood_denial_via_naming_control.md)
+    - [`📊_daily_watchlist.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/📊_daily_watchlist.md)
+    - [`📡_language_as_attack_surface.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/📡_language_as_attack_surface.md)
   - [`README.md`](🌓_3_In_The_Moment/README.md)
 - [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
   - [`README.md`](🌔_4_Small_Steps/README.md)
@@ -7199,12 +7205,6 @@ _Generated on 2026-05-20 16:49:01 UTC_
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🌗_3_In_The_Moment/**](🌗_3_In_The_Moment/)
   - [**🦉_Language_As_Attack_Surface/**](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/)
-    - [`🎭_poets_as_primary_targets.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/🎭_poets_as_primary_targets.md)
-    - [`🎶_language_as_democratic_infrastructure.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/🎶_language_as_democratic_infrastructure.md)
-    - [`🏛️_archive_capture_template.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/🏛️_archive_capture_template.md)
-    - [`💔_personhood_denial_via_naming_control.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/💔_personhood_denial_via_naming_control.md)
-    - [`📊_daily_watchlist.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/📊_daily_watchlist.md)
-    - [`📡_language_as_attack_surface.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/📡_language_as_attack_surface.md)
     - [`📺_moral_grammar_drift_in_media_systems.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/📺_moral_grammar_drift_in_media_systems.md)
     - [`🗣️_counterframes.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/🗣️_counterframes.md)
     - [`🗣️_why_euphemisms_matter.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/🗣️_why_euphemisms_matter.md)
