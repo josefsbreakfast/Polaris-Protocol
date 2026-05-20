@@ -1,5 +1,5 @@
 # 🎭 Friction Tactics Catalogue  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-20  
 *Ethical interventions for disrupting manipulative behavioural flows.*
 
 ---
@@ -37,4 +37,4 @@ It equips civic actors with low-harm disruption methods for behavioural autonomy
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-20_
