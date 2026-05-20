@@ -1,5 +1,5 @@
 # 🇬🇧 Why Alt-Right Burqa Burlesque Play Feels Weird  
-**First created:** 2026-05-18 | **Last updated:** 2026-05-19  
+**First created:** 2026-05-18 | **Last updated:** 2026-05-20  
 
 *An examination of symbolic unveiling rituals, racialised spectacle, burlesque performance grammar, public kink ethics, differential vulnerability, and the unstable politics of civic theatricality within contemporary culture-war environments.*  
 
@@ -454,6 +454,9 @@ but from:
 - [📹: The Katie Halper Show: "Anchor PANICS After Exposed Live About 'Antisemitic' UK Stabbing"](https://youtu.be/5YVGH42PTGk?si=JkTSYmQ5DJUZ6Vwu)  
 - [📑: TellMAMA: "Tell MAMA Records the Highest Number of Anti-Muslim Hate Cases in 2024 Since Its Founding"](https://tellmamauk.org/tell-mama-records-the-highest-number-of-anti-muslim-hate-cases-in-2024-since-its-founding/)
 - [📥: FOA: Writing Campaign With Open Letters To The Home Secretary & Commissioner of the Metropolitan Police](https://www.foa.org.uk/campaign/utk-rally-complaint-action) – *"Prior to the event, the Metropolitan Police publicly stated that there would be “zero tolerance” towards hate speech and anti-Muslim abuse. Despite this, extensive footage and reporting from the rally appeared to show Islamophobic rhetoric and hostility towards Muslims taking place openly in central London. In response, Friends of Al-Aqsa has written formal public letters to Shabana Mahmood and Mark Rowley raising serious concerns about the handling of the rally and the wider response to Islamophobia. The campaign is calling on members of the public to write to the Home Secretary and the Metropolitan Police demanding clear answers to the questions posed in the letters and asking what action will now be taken to address Islamophobic hate speech and reassure Muslim communities."*
+- [📹: Express: "Vance Urges Immigration
+Critics To 'Keep Going After
+Unite The Kingdom Protest"](https://vm.tiktok.com/ZNRtcmjsw/) – *nice to see he dropped the colour-contacts effect for this one; outspoken partisan opining on our island politics will be noted for the next time you ask us to stay out of yours*  
 
 ---
 
@@ -486,4 +489,4 @@ It examines symbolic unveiling rituals, racialised public spectacle, and the uns
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-19_
+_Last updated: 2026-05-20_
