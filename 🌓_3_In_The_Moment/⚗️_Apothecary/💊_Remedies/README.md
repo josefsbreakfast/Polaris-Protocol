@@ -1,6 +1,5 @@
 # 💊 Remedies  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-14  
-
+**First created:** 2026-05-12 | **Last updated:** 2026-05-20  
 *An examination of practical intervention systems, friction-based countermeasures, and techniques for restoring intentionality, agency, and cognitive sovereignty within algorithmically accelerated environments.*  
 
 ---
@@ -298,4 +297,4 @@ It contributes to the archive by examining practical intervention systems, frict
 
 *Not every cure removes the poison. Some simply interrupt the dose.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-20_
