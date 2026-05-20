@@ -1,5 +1,5 @@
 # 🧨 Countering Nudges for Prosocial Individuals  
-First created: 2025-11-17 | Last updated: 2025-12-14  
+First created: 2025-11-17 | Last updated: 2026-05-20  
 *Practical ways for cooperative, empathic people to protect themselves when systems overuse nudges, emotional labour, and soft coercion.*  
 
 ---
@@ -73,4 +73,4 @@ Cross-references:
 - Gendered Susceptibility (Stepford Surface)
 - Moral / Behavioural Extraction
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-05-20_
