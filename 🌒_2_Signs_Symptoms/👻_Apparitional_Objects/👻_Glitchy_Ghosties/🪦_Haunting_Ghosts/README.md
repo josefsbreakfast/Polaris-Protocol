@@ -1,5 +1,5 @@
 # 🪦 Haunting Ghosts  
-**First created:** 2025-12-06 | **Last updated:** 2025-12-06  
+**First created:** 2025-12-06 | **Last updated:** 2026-05-20  
 *Ghosts born from the return of past selves, past data, and past contexts.*
 
 ---
@@ -61,4 +61,4 @@ ghost memory, resurfacing data, legacy loops, archive return, temporal anomaly
 A haunting ghost is a past self with unfinished business — dragged forward by a system that never learned to forget.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-06_
+_Last updated: 2026-05-20_
