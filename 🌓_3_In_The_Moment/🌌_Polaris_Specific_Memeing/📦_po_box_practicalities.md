@@ -1,5 +1,5 @@
 # 📦 PO Box Practicalities  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-16 | **Last updated:** 2026-05-20  
 *The small operational truths of running a public-facing correspondence channel in 2025.*  
 
 ---
@@ -119,4 +119,4 @@ It outlines the safe operational handling of analogue correspondence through the
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-05-20_
