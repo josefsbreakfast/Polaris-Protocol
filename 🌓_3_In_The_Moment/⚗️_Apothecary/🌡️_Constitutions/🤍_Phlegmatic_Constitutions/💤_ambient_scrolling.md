@@ -1,6 +1,5 @@
 # 💤 Ambient Scrolling  
-**First created:** 2026-05-17 | **Last updated:** 2026-05-17  
-
+**First created:** 2026-05-17 | **Last updated:** 2026-05-20  
 *An examination of dissociative continuity consumption, passive attentional suspension, temporal displacement within infinite-feed environments, and the interaction between ambient media systems and digitally mediated nervous-system regulation.*  
 
 ---
@@ -459,4 +458,4 @@ It contributes to the Apothecary framework by examining dissociative continuity 
 
 *The most immersive environments are often the ones that never ask whether you intended to remain there.*  
 
-_Last updated: 2026-05-17_
+_Last updated: 2026-05-20_
