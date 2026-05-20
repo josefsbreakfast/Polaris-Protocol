@@ -1,5 +1,5 @@
 # 🔥 Breaking Media Blockade Through Body-Based Protest  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2026-05-20  
 *How embodied protest forces narrative breach when journalism and state messaging converge on minimisation.*
 
 ---
@@ -111,4 +111,4 @@ It analyses how embodied refusal disrupts suppression environments, forcing visi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-05-20_
