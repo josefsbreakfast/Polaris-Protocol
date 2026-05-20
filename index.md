@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 17:11:47 UTC_
+_Generated on 2026-05-20 17:17:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7180,6 +7180,8 @@ _Generated on 2026-05-20 17:11:47 UTC_
         - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/🤍_Phlegmatic_Distempers/README.md)
       - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/README.md)
     - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/README.md)
+  - [**🐈‍⬛_Antifacist_Propaganda_Machine/**](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/)
+    - [`README.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/README.md)
   - [**🦉_Language_As_Attack_Surface/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/)
     - [**🧿_Parsh_Fasr/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/)
       - [`README.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/README.md)
@@ -7295,7 +7297,6 @@ _Generated on 2026-05-20 17:11:47 UTC_
     - [`📮_the_polaris_mail_box.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/📮_the_polaris_mail_box.md)
     - [`🛒_the_data_drift_wedding_registry.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🛒_the_data_drift_wedding_registry.md)
   - [**🐈‍⬛_Antifacist_Propaganda_Machine/**](🦆_Digital_Disruption/🐈‍⬛_Antifacist_Propaganda_Machine/)
-    - [`README.md`](🦆_Digital_Disruption/🐈‍⬛_Antifacist_Propaganda_Machine/README.md)
     - [`🌱_plantseer_data_mining_coop.md`](🦆_Digital_Disruption/🐈‍⬛_Antifacist_Propaganda_Machine/🌱_plantseer_data_mining_coop.md)
     - [`🍄_meme_rewilding_pipelines.md`](🦆_Digital_Disruption/🐈‍⬛_Antifacist_Propaganda_Machine/🍄_meme_rewilding_pipelines.md)
     - [`🐽_sticky_scandal_effect.md`](🦆_Digital_Disruption/🐈‍⬛_Antifacist_Propaganda_Machine/🐽_sticky_scandal_effect.md)
