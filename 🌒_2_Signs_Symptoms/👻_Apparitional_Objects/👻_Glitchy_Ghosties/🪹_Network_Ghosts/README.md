@@ -1,5 +1,5 @@
 # 🪹 Network Ghosts  
-**First created:** 2025-12-06 | **Last updated:** 2025-12-06  
+**First created:** 2025-12-06 | **Last updated:** 2026-05-20  
 *Phantom social graphs — nests built from correlations, with no “you” inside.*
 
 ---
@@ -65,4 +65,4 @@ network inference, false adjacency, shadow graph, phantom community, algorithmic
 Network ghosts are the friends the algorithm thinks you have — and the worlds it builds around you without asking.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-06_
+_Last updated: 2026-05-20_
