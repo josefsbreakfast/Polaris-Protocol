@@ -1,5 +1,5 @@
 # 🦎 Finding One’s Chirp  
-**First created:** 2026-01-22 | **Last updated:** 2026-01-22  
+**First created:** 2026-01-22 | **Last updated:** 2026-05-20  
 *A descriptive account of signal registration, R&D extraction, and why small, coherent presence persists.*
 
 ---
@@ -203,4 +203,4 @@ It documents how minimal, coherent presence persists across R&D, monitoring, and
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-05-20_
