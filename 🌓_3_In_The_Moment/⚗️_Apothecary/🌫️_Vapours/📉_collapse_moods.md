@@ -1,6 +1,5 @@
 # 📉 Collapse Moods  
-**First created:** 2026-05-16 | **Last updated:** 2026-05-16  
-
+**First created:** 2026-05-16 | **Last updated:** 2026-05-20  
 *An examination of diffuse cultural atmospheres characterised by civilisational pessimism, exhausted futurity, institutional fatigue, and the growing expectation that large-scale systems are entering irreversible decline.*  
 
 ---
@@ -395,4 +394,4 @@ It examines diffuse cultural pessimism, exhausted futurity, institutional fatigu
 
 *People often begin emotionally adapting to collapse long before collapse itself becomes materially total.*  
 
-_Last updated: 2026-05-16_
+_Last updated: 2026-05-20_
