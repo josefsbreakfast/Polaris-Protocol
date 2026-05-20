@@ -1,5 +1,5 @@
 # ⚔️ Conflict Orientation  
-**First created:** 2026-05-17 | **Last updated:** 2026-05-17  
+**First created:** 2026-05-17 | **Last updated:** 2026-05-20  
 
 *An examination of adversarial framing, threat-sensitive informational perception, mobilisation readiness, and the interaction between conflict-oriented cognition and algorithmically intensified digital environments.*  
 
@@ -453,4 +453,4 @@ It contributes to the Apothecary framework by examining adversarial perception, 
 
 *Not every environment that rewards vigilance deserves permanent vigilance in return.*  
 
-_Last updated: 2026-05-17_
+_Last updated: 2026-05-20_
