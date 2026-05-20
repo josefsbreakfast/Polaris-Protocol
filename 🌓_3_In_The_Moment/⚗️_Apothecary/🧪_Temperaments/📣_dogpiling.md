@@ -1,6 +1,5 @@
 # 📣 Dogpiling  
-**First created:** 2026-05-15 | **Last updated:** 2026-05-15  
-
+**First created:** 2026-05-15 | **Last updated:** 2026-05-20  
 *An examination of punitive collective visibility concentration, reputational overwhelm, and crowd-based escalation dynamics within networked environments.*  
 
 ---
@@ -290,4 +289,4 @@ It contributes to the archive by examining punitive collective visibility concen
 
 *Collective intensity often feels smaller from inside the crowd than from beneath it.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-20_
