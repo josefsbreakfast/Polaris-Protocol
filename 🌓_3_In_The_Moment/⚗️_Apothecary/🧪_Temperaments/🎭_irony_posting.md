@@ -1,6 +1,5 @@
 # 🎭 Irony Posting  
-**First created:** 2026-05-15 | **Last updated:** 2026-05-15  
-
+**First created:** 2026-05-15 | **Last updated:** 2026-05-20  
 *An examination of ambiguity, performative detachment, reputational shielding, and layered signalling within networked communication environments.*  
 
 ---
@@ -337,4 +336,4 @@ It contributes to the archive by examining ambiguity, reputational shielding, pe
 
 *Ambiguity scales efficiently inside surveillance-heavy environments.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-20_
