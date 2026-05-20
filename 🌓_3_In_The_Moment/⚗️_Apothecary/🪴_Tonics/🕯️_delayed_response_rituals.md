@@ -1,6 +1,5 @@
 # 🕯️ Delayed Response Rituals  
-**First created:** 2026-05-15 | **Last updated:** 2026-05-15  
-
+**First created:** 2026-05-15 | **Last updated:** 2026-05-20  
 *An examination of intentional pacing, reflective delay, and temporal friction as restorative counterweights to digitally accelerated responsiveness systems.*  
 
 ---
@@ -335,4 +334,4 @@ It contributes to the archive by examining intentional pacing, reflective delay,
 
 *The pause between stimulus and response is often where agency re-enters the system.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-20_
