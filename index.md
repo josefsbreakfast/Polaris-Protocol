@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 18:25:05 UTC_
+_Generated on 2026-05-20 18:25:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7193,6 +7193,7 @@ _Generated on 2026-05-20 18:25:05 UTC_
       - [`IMG_3979.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/IMG_3979.jpeg)
       - [`IMG_5461.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/IMG_5461.jpeg)
       - [`IMG_5465.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/IMG_5465.jpeg)
+      - [`cia_now_learning_linternationale.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/cia_now_learning_linternationale.jpeg)
       - [`editing_the_inquisition.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/editing_the_inquisition.jpeg)
       - [`general_of_the_titanic.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/general_of_the_titanic.jpeg)
       - [`granny_added.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/granny_added.jpeg)
@@ -7288,7 +7289,6 @@ _Generated on 2026-05-20 18:25:05 UTC_
     - [`🪖_touch_grass_reembedding_technology_in_the_physical_world.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🪖_touch_grass_reembedding_technology_in_the_physical_world.md)
   - [**🌌_Polaris_Specific_Memeing/**](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/)
     - [**🦑_The_Real_Conspiracy/**](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/)
-      - [`IMG_7336.jpeg`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/IMG_7336.jpeg)
       - [`IMG_7344.jpeg`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/IMG_7344.jpeg)
       - [`README.md`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/README.md)
       - [`Rt_Hon_PM_GB_NI.GIF`](🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/Rt_Hon_PM_GB_NI.GIF)
