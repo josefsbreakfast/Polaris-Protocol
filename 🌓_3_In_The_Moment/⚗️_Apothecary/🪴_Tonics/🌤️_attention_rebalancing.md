@@ -1,6 +1,5 @@
 # 🌤️ Attention Rebalancing  
-**First created:** 2026-05-15 | **Last updated:** 2026-05-15  
-
+**First created:** 2026-05-15 | **Last updated:** 2026-05-20  
 *An examination of attentional proportionality, environmental regulation, and the restoration of sustainable cognitive pacing within digitally accelerated informational systems.*  
 
 ---
@@ -365,4 +364,4 @@ It contributes to the archive by examining attentional proportionality, environm
 
 *The nervous system eventually begins to resemble the environments it inhabits most often.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-20_
