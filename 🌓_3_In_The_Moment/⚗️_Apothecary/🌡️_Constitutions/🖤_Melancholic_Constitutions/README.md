@@ -1,6 +1,5 @@
 # 🖤 Melancholic Constitutions  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-14  
-
+**First created:** 2026-05-12 | **Last updated:** 2026-05-20  
 *An examination of pattern-seeking informational temperaments, archival cognition, collapse-oriented attention systems, and the interaction between uncertainty, meaning-making, and algorithmic reinforcement.*  
 
 ---
@@ -322,4 +321,4 @@ It contributes to the archive by examining pattern-seeking informational tempera
 
 *The search for coherence can illuminate reality — or consume it.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-20_
