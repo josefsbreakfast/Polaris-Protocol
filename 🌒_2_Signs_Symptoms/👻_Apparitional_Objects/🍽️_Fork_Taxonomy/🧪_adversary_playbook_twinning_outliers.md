@@ -1,5 +1,5 @@
 # 🧪 Adversary Playbook: Twinning Outliers  
-**First created:** 2025-09-07 | **Last updated:** 2025-12-11  
+**First created:** 2025-09-07 | **Last updated:** 2026-05-20  
 
 ---
 
@@ -43,3 +43,5 @@ See also the accompanying table (`uk_twinned_estimates.csv`) and chart (`uk_twin
 > - 🪞 *Twinned Silence*  
 > - 🧬 *The Invisible Audit Gap*  
 > - 🧾 *Briefing Note: Triple-Lock Oversight Failure*  
+
+2026-05-20
