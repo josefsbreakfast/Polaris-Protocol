@@ -742,6 +742,13 @@ The argument therefore becomes:
 
 ⚖️ 🚢 🌍 🧿 🪖 🐙 ⛽ 🧲 — blockade law; maritime siege enforcement; genocide-prevention obligations; alliance legitimacy stress fractures; humanitarian governance collapse; energy-security destabilisation; distraction governance systems.  
 
+*Further media:*  
+
+- [📹: Middle East Eye: "Itamar Ben Gvir Visits As Flotilla Activists Abused In Detention"](https://vm.tiktok.com/ZNRtc4Low/)
+- [📹: Aaron Parnas: "News: International Outrage As Israel's Far-Right Minister Posts Video Of Security Forces Abusing Flotilla Activists"](https://vm.tiktok.com/ZNRtcq8E5/)
+- [📹: RTÉ: "President Catherine Connolly has said that she is 'very worried' after her sister was among a number of Irish citizens on board an aid flotilla detained
+42.5K by Israel."](https://vm.tiktok.com/ZNRtc498o/)  
+
 ---
 
 ## ✨ Stardust  
