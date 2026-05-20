@@ -1,5 +1,5 @@
 # 🪦 The Ghosts of Online Harassment  
-**First created:** 2025-12-09 | **Last updated:** 2025-12-09  
+**First created:** 2025-12-09 | **Last updated:** 2026-05-20  
 *Why digital harm rarely ends when the humans stop, and how the internet preserves threat-shadows long after the event.*
 
 ---
@@ -159,3 +159,5 @@ The *agent* of harm is not.
 
 Describes structural phenomena, not personal diagnostic categories or specific individuals.  
 No claim is made about ongoing threats or targeted behaviour.
+
+2026-05-20
