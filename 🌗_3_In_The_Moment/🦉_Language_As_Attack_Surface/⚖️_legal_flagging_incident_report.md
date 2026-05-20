@@ -1,5 +1,5 @@
 # ⚖️ Legal Flagging Incident Report  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-20  
 *Minimal reporting template for escalating linguistic-incitement or hate-speech events to legal or advocacy partners.*
 
 ---
@@ -97,4 +97,4 @@ It formalises documentation and escalation of linguistic harm for coordinated le
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-05-20_
