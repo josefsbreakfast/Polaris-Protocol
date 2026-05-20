@@ -1,6 +1,5 @@
 # 🔕 Notification Reduction  
-**First created:** 2026-05-16 | **Last updated:** 2026-05-16  
-
+**First created:** 2026-05-16 | **Last updated:** 2026-05-20  
 *An examination of notifications as behavioural capture infrastructure, attentional interruption systems, and mechanisms of ambient urgency within digitally accelerated environments.*  
 
 ---
@@ -378,4 +377,4 @@ It contributes to the archive by examining notifications as behavioural infrastr
 
 *Not every vibration signals importance. Some merely test whether attention is still available.*  
 
-_Last updated: 2026-05-16_
+_Last updated: 2026-05-20_
