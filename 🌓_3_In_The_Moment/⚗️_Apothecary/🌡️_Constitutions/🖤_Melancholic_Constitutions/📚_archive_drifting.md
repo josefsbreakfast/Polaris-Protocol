@@ -1,6 +1,5 @@
 # 📚 Archive Drifting  
-**First created:** 2026-05-17 | **Last updated:** 2026-05-17  
-
+**First created:** 2026-05-17 | **Last updated:** 2026-05-20  
 *An examination of recursive archival behaviour, continuity-seeking cognition, informational excavation, and the interaction between memory, uncertainty, and algorithmically accelerated digital environments.*  
 
 ---
@@ -442,4 +441,4 @@ It contributes to the Apothecary framework by examining recursive archival behav
 
 *Some searches are attempts to discover the truth. Others are attempts to prevent reality from fragmenting entirely.*  
 
-_Last updated: 2026-05-17_
+_Last updated: 2026-05-20_
