@@ -761,7 +761,9 @@ The argument therefore becomes:
 - [📰: AlJazeera: "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers"](https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers)
 - [📰: CNN: "Video showing far-right Israeli minister taunting Gaza flotilla activists sparks global outcry"](https://edition.cnn.com/2026/05/20/middleeast/israel-flotilla-gaza-ben-gvir-videos-latam-intl)  
 
-*So yes, the prisoners being humiliated in public? They almost certainly include British subjects. Where is the Prime Minister? Where is the Crown? Where are The Patriots™️*  
+*So yes, the prisoners being humiliated in public? They almost certainly include British subjects. Where is the Prime Minister? Where is the Crown? Where are The Patriots™️?*  
+
+*Centuries of British imperial piracy, via the various naval arrangements from these rocks, and you're telling me none of you are bothered about even the sovereignity of the thing? Very interesting.*  
 
 ---
 
