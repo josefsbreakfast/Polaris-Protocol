@@ -1,6 +1,5 @@
 # 🌲 Offline Grounding  
-**First created:** 2026-05-15 | **Last updated:** 2026-05-15  
-
+**First created:** 2026-05-15 | **Last updated:** 2026-05-20  
 *An examination of physical-world reconnection, sensory stabilisation, and embodied environmental contact as restorative counterweights to digitally accelerated informational environments.*  
 
 ---
@@ -349,4 +348,4 @@ It contributes to the archive by examining embodied recovery practices, sensory 
 
 *The body often notices overload before ideology does.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-20_
