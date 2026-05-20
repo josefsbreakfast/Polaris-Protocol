@@ -1,5 +1,5 @@
 # 🍴 Fork Taxonomy  
-**First created:** 2025-08-04 | **Last updated:** 2025-12-11  
+**First created:** 2025-08-04 | **Last updated:** 2026-05-20  
 *A structured classification of behavioural forks and override tools used in containment architecture.*  
 
 ---
@@ -154,4 +154,4 @@ It documents containment strategies, their logic, and countermeasures.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_  
+_Last updated: 2026-05-20_  
