@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 16:16:30 UTC_
+_Generated on 2026-05-20 16:23:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7535,5 +7535,6 @@ _Generated on 2026-05-20 16:16:30 UTC_
     - [`🧠_residual_attentional_conditioning_injury.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_residual_attentional_conditioning_injury.md)
     - [`🧠_the_background_terror.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_the_background_terror.md)
   - [`README.md`](🦆_Digital_Disruption/README.md)
+  - [`notes.txt`](🦆_Digital_Disruption/notes.txt)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
