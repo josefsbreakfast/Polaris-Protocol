@@ -1,5 +1,5 @@
 # 🧨 Counter Nudge Playbook  
-**First created:** 2025-10-28 | **Last updated:** 2025-10-30  
+**First created:** 2025-10-28 | **Last updated:** 2026-05-20  
 *Behavioural counter-operations for narrative integrity.*
 
 ---
@@ -47,4 +47,4 @@ It gathers field methods for countering behavioural manipulation and narrative w
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-30_
+_Last updated: 2026-05-20_
