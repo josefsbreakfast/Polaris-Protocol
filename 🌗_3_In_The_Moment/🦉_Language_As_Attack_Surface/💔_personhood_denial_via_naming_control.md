@@ -1,5 +1,5 @@
 # 💔 Personhood Denial via Naming Control  
-**First created:** 2026-01-18 | **Last updated:** 2026-01-18  
+**First created:** 2026-01-18 | **Last updated:** 2026-05-20  
 *How controlling names, pronouns, and identifiers functions as a low-cost method of stripping recognition, dignity, and civic standing.*  
 
 ---
@@ -127,4 +127,4 @@ It documents how control over names and identifiers functions as a low-visibilit
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-18_
+_Last updated: 2026-05-20_
