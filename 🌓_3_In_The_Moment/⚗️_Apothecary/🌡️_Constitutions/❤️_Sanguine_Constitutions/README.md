@@ -1,5 +1,5 @@
 # 🩸 Sanguine Constitutions  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-12 | **Last updated:** 2026-05-20  
 
 *An examination of novelty-seeking informational temperaments, performative adaptation, memetic fluidity, and socially accelerated identity formation within networked environments.*  
 
@@ -321,4 +321,4 @@ It contributes to the archive by examining novelty-oriented informational temper
 
 *Not all movement is freedom. Not all stillness is stability.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-05-20_
