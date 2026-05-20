@@ -752,7 +752,8 @@ The argument therefore becomes:
 - [📹: Richard Boyd Barrett TD: Question In The Dáil](https://vm.tiktok.com/ZNRt3phNT/)
 - [📹: RTÉ: "Taoiseach criticises
 'disgraceful' treatment of flotilla activists detained by Israel"](https://vm.tiktok.com/ZNRt3HQd1/)
-- [📲: Sully Iqbal notes TikTok suppression issue on original footage clips inclusion.](https://vm.tiktok.com/ZNRt3HBwA/) – *this does not necessitate non-inclusion by larger outlets, but strategic inclusion on own-platforms over social platform clips*  
+- [📲: Sully Iqbal notes TikTok suppression issue on original footage clips inclusion.](https://vm.tiktok.com/ZNRt3HBwA/) – *this does not necessitate non-inclusion by larger outlets, but strategic inclusion on own-platforms over social platform clips*
+- [📹: Reuters: "Israeli minister Itamar Ben-Gvir appears to taunt detained Gaza flotilla aid activists forced to kneel with their hands tied"](https://vm.tiktok.com/ZNRt3pDBn/)  
 
 *So yes, the prisoners being humiliated in public? They almost certainly include British subjects. Where is the Prime Minister? Where is the Crown? Where are The Patriots™️*  
 
