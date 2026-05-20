@@ -1,6 +1,5 @@
 # 👻 Passive Consumption  
-**First created:** 2026-05-17 | **Last updated:** 2026-05-17  
-
+**First created:** 2026-05-17 | **Last updated:** 2026-05-20  
 *An examination of low-friction attentional intake, ambient digital participation, convenience-oriented behavioural conditioning, and the interaction between passive engagement and algorithmically optimised consumption environments.*  
 
 ---
@@ -462,4 +461,4 @@ It contributes to the Apothecary framework by examining low-friction attentional
 
 *The most effective systems of capture are often the ones that feel least like force.*  
 
-_Last updated: 2026-05-17_
+_Last updated: 2026-05-20_
