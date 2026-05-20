@@ -1,5 +1,5 @@
 # 🧾 Artifact Archive Templates  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-20  
 *Metadata and documentation templates for tracing behavioural campaigns.*
 
 ---
@@ -38,4 +38,4 @@ It provides archival standards for documenting manipulative campaigns safely.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-20_
