@@ -1,5 +1,5 @@
 # ⚖️ Linguistic Integrity as Security Risk  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-20  
 *Why the manipulation of language constitutes a material security threat — and how governance must adapt.*
 
 ---
@@ -87,4 +87,4 @@ It translates operational insight into policy language for agencies and civil in
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-05-20_
