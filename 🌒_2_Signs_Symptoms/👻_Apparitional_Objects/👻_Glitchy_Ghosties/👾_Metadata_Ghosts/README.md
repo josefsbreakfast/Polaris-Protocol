@@ -1,5 +1,5 @@
 # 👾 Metadata Ghosts  
-**First created:** 2025-12-06 | **Last updated:** 2025-12-06  
+**First created:** 2025-12-06 | **Last updated:** 2026-05-20  
 *Ghosts born from administrative error, corruption, and bureaucratic residue.*
 
 ---
@@ -67,4 +67,4 @@ A metadata ghost is a wrong fact with a life of its own.
 It is the bureaucracy dreaming — and misremembering.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-06_
+_Last updated: 2026-05-20_
