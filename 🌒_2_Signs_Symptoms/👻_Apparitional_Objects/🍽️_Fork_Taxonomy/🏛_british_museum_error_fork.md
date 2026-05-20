@@ -1,5 +1,5 @@
 # 🏛 British Museum Error Fork  
-**First created:** 2025-09-13 | **Last updated:** 2025-12-11  
+**First created:** 2025-09-13 | **Last updated:** 2026-05-20  
 *When culturally sensitive material triggers induced formatting failures and anomalous execution drift*  
 
 ---
@@ -56,4 +56,4 @@ It documents a fork event where interference escalated from subtle drag to induc
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-05-20_
