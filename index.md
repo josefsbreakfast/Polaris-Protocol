@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 16:31:46 UTC_
+_Generated on 2026-05-20 16:34:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7194,6 +7194,8 @@ _Generated on 2026-05-20 16:31:46 UTC_
     - [`frame_drift_watchlist.yaml`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/frame_drift_watchlist.yaml)
     - [`what_they_now_call_X.csv`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/what_they_now_call_X.csv)
     - [`⚖_professionalism_as_linguistic_exclusion.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/⚖_professionalism_as_linguistic_exclusion.md)
+    - [`⚖️_legal_flagging_incident_report.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/⚖️_legal_flagging_incident_report.md)
+    - [`⚖️_linguistic_integrity_as_security_risk.md`](🌗_3_In_The_Moment/🦉_Language_As_Attack_Surface/⚖️_linguistic_integrity_as_security_risk.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [`README.md`](🏮_Admin_Nest/README.md)
   - [`notes.txt`](🏮_Admin_Nest/notes.txt)
@@ -7478,8 +7480,6 @@ _Generated on 2026-05-20 16:31:46 UTC_
     - [`🪩_verification_and_containment.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪩_verification_and_containment.md)
     - [`🪶_pattern_tracking_protocols.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_pattern_tracking_protocols.md)
   - [**🦉_Language_As_Attack_Surface/**](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/)
-    - [`⚖️_legal_flagging_incident_report.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚖️_legal_flagging_incident_report.md)
-    - [`⚖️_linguistic_integrity_as_security_risk.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚖️_linguistic_integrity_as_security_risk.md)
     - [`⚗_intentionality_as_the_moral_threshold.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚗_intentionality_as_the_moral_threshold.md)
     - [`🌌_language_as_infrastructure.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🌌_language_as_infrastructure.md)
     - [`🎭_poets_as_primary_targets.md`](🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/🎭_poets_as_primary_targets.md)
