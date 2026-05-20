@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 15:41:43 UTC_
+_Generated on 2026-05-20 15:46:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6867,16 +6867,7 @@ _Generated on 2026-05-20 15:41:43 UTC_
     - [`template_entry.md`](scripts/maintenance/template_entry.md)
 - [**⚗️_Apothecary/**](⚗️_Apothecary/)
   - [**🌡️_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/)
-    - [**💛_Choleric_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/)
-      - [`⚔️_conflict_orientation.md`](⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/⚔️_conflict_orientation.md)
-      - [`📣_dominance_posting.md`](⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/📣_dominance_posting.md)
-      - [`🔥_outrage_reward_loops.md`](⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/🔥_outrage_reward_loops.md)
-      - [`🧨_factional_identity.md`](⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/🧨_factional_identity.md)
     - [**🖤_Melancholic_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/)
-      - [`README.md`](⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/README.md)
-      - [`notes.txt`](⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/notes.txt)
-      - [`🌑_collapse_fixation.md`](⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/🌑_collapse_fixation.md)
-      - [`👁️_pattern_seeking.md`](⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/👁️_pattern_seeking.md)
       - [`📚_archive_drifting.md`](⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/📚_archive_drifting.md)
       - [`🕳️_conspiracy_attraction.md`](⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/🕳️_conspiracy_attraction.md)
     - [**🤍_Phlegmatic_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/)
@@ -7183,6 +7174,15 @@ _Generated on 2026-05-20 15:41:43 UTC_
       - [**💛_Choleric_Constitutions/**](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/)
         - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/notes.txt)
+        - [`⚔️_conflict_orientation.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/⚔️_conflict_orientation.md)
+        - [`📣_dominance_posting.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/📣_dominance_posting.md)
+        - [`🔥_outrage_reward_loops.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/🔥_outrage_reward_loops.md)
+        - [`🧨_factional_identity.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/💛_Choleric_Constitutions/🧨_factional_identity.md)
+      - [**🖤_Melancholic_Constitutions/**](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/)
+        - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/README.md)
+        - [`notes.txt`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/notes.txt)
+        - [`🌑_collapse_fixation.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/🌑_collapse_fixation.md)
+        - [`👁️_pattern_seeking.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/👁️_pattern_seeking.md)
   - [`README.md`](🌓_3_In_The_Moment/README.md)
 - [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
   - [`README.md`](🌔_4_Small_Steps/README.md)
