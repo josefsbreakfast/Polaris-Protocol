@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 15:54:07 UTC_
+_Generated on 2026-05-20 16:02:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6866,21 +6866,6 @@ _Generated on 2026-05-20 15:54:07 UTC_
     - [`new_harm_log.ps1`](scripts/maintenance/new_harm_log.ps1)
     - [`template_entry.md`](scripts/maintenance/template_entry.md)
 - [**⚗️_Apothecary/**](⚗️_Apothecary/)
-  - [**🌫️_Vapours/**](⚗️_Apothecary/🌫️_Vapours/)
-    - [`🎪_meme_fever.md`](⚗️_Apothecary/🌫️_Vapours/🎪_meme_fever.md)
-    - [`👁️_conspiracy_haze.md`](⚗️_Apothecary/🌫️_Vapours/👁️_conspiracy_haze.md)
-    - [`📉_collapse_moods.md`](⚗️_Apothecary/🌫️_Vapours/📉_collapse_moods.md)
-    - [`📺_spectacle_weather.md`](⚗️_Apothecary/🌫️_Vapours/📺_spectacle_weather.md)
-    - [`🕸️_post_truth_fog.md`](⚗️_Apothecary/🌫️_Vapours/🕸️_post_truth_fog.md)
-    - [`🪞_identity_climate.md`](⚗️_Apothecary/🌫️_Vapours/🪞_identity_climate.md)
-  - [**💊_Remedies/**](⚗️_Apothecary/💊_Remedies/)
-    - [`README.md`](⚗️_Apothecary/💊_Remedies/README.md)
-    - [`notes.txt`](⚗️_Apothecary/💊_Remedies/notes.txt)
-    - [`⏳_friction_and_pause_systems.md`](⚗️_Apothecary/💊_Remedies/⏳_friction_and_pause_systems.md)
-    - [`📵_feed_interruption_methods.md`](⚗️_Apothecary/💊_Remedies/📵_feed_interruption_methods.md)
-    - [`🔕_notification_reduction.md`](⚗️_Apothecary/💊_Remedies/🔕_notification_reduction.md)
-    - [`🧹_algorithmic_hygiene.md`](⚗️_Apothecary/💊_Remedies/🧹_algorithmic_hygiene.md)
-    - [`🪟_context_reintroduction.md`](⚗️_Apothecary/💊_Remedies/🪟_context_reintroduction.md)
   - [**🧪_Temperaments/**](⚗️_Apothecary/🧪_Temperaments/)
     - [`README.md`](⚗️_Apothecary/🧪_Temperaments/README.md)
     - [`🎭_irony_posting.md`](⚗️_Apothecary/🧪_Temperaments/🎭_irony_posting.md)
@@ -7182,6 +7167,20 @@ _Generated on 2026-05-20 15:54:07 UTC_
     - [**🌫️_Vapours/**](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/)
       - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/README.md)
       - [`🌩️_outrage_atmospheres.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/🌩️_outrage_atmospheres.md)
+      - [`🎪_meme_fever.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/🎪_meme_fever.md)
+      - [`👁️_conspiracy_haze.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/👁️_conspiracy_haze.md)
+      - [`📉_collapse_moods.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/📉_collapse_moods.md)
+      - [`📺_spectacle_weather.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/📺_spectacle_weather.md)
+      - [`🕸️_post_truth_fog.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/🕸️_post_truth_fog.md)
+      - [`🪞_identity_climate.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/🪞_identity_climate.md)
+    - [**💊_Remedies/**](🌓_3_In_The_Moment/⚗️_Apothecary/💊_Remedies/)
+      - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/💊_Remedies/README.md)
+      - [`notes.txt`](🌓_3_In_The_Moment/⚗️_Apothecary/💊_Remedies/notes.txt)
+      - [`⏳_friction_and_pause_systems.md`](🌓_3_In_The_Moment/⚗️_Apothecary/💊_Remedies/⏳_friction_and_pause_systems.md)
+      - [`📵_feed_interruption_methods.md`](🌓_3_In_The_Moment/⚗️_Apothecary/💊_Remedies/📵_feed_interruption_methods.md)
+      - [`🔕_notification_reduction.md`](🌓_3_In_The_Moment/⚗️_Apothecary/💊_Remedies/🔕_notification_reduction.md)
+      - [`🧹_algorithmic_hygiene.md`](🌓_3_In_The_Moment/⚗️_Apothecary/💊_Remedies/🧹_algorithmic_hygiene.md)
+      - [`🪟_context_reintroduction.md`](🌓_3_In_The_Moment/⚗️_Apothecary/💊_Remedies/🪟_context_reintroduction.md)
   - [`README.md`](🌓_3_In_The_Moment/README.md)
 - [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
   - [`README.md`](🌔_4_Small_Steps/README.md)
