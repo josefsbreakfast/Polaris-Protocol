@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 15:46:42 UTC_
+_Generated on 2026-05-20 15:54:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6866,21 +6866,7 @@ _Generated on 2026-05-20 15:46:42 UTC_
     - [`new_harm_log.ps1`](scripts/maintenance/new_harm_log.ps1)
     - [`template_entry.md`](scripts/maintenance/template_entry.md)
 - [**⚗️_Apothecary/**](⚗️_Apothecary/)
-  - [**🌡️_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/)
-    - [**🖤_Melancholic_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/)
-      - [`📚_archive_drifting.md`](⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/📚_archive_drifting.md)
-      - [`🕳️_conspiracy_attraction.md`](⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/🕳️_conspiracy_attraction.md)
-    - [**🤍_Phlegmatic_Constitutions/**](⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/)
-      - [`README.md`](⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/README.md)
-      - [`notes.txt`](⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/notes.txt)
-      - [`🌫️_algorithmic_drift.md`](⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/🌫️_algorithmic_drift.md)
-      - [`👻_passive_consumption.md`](⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/👻_passive_consumption.md)
-      - [`💤_ambient_scrolling.md`](⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/💤_ambient_scrolling.md)
-      - [`🛋️_lurker_cultures.md`](⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/🛋️_lurker_cultures.md)
-    - [`README.md`](⚗️_Apothecary/🌡️_Constitutions/README.md)
   - [**🌫️_Vapours/**](⚗️_Apothecary/🌫️_Vapours/)
-    - [`README.md`](⚗️_Apothecary/🌫️_Vapours/README.md)
-    - [`🌩️_outrage_atmospheres.md`](⚗️_Apothecary/🌫️_Vapours/🌩️_outrage_atmospheres.md)
     - [`🎪_meme_fever.md`](⚗️_Apothecary/🌫️_Vapours/🎪_meme_fever.md)
     - [`👁️_conspiracy_haze.md`](⚗️_Apothecary/🌫️_Vapours/👁️_conspiracy_haze.md)
     - [`📉_collapse_moods.md`](⚗️_Apothecary/🌫️_Vapours/📉_collapse_moods.md)
@@ -7183,6 +7169,19 @@ _Generated on 2026-05-20 15:46:42 UTC_
         - [`notes.txt`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/notes.txt)
         - [`🌑_collapse_fixation.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/🌑_collapse_fixation.md)
         - [`👁️_pattern_seeking.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/👁️_pattern_seeking.md)
+        - [`📚_archive_drifting.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/📚_archive_drifting.md)
+        - [`🕳️_conspiracy_attraction.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/🖤_Melancholic_Constitutions/🕳️_conspiracy_attraction.md)
+      - [**🤍_Phlegmatic_Constitutions/**](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/)
+        - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/README.md)
+        - [`notes.txt`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/notes.txt)
+        - [`🌫️_algorithmic_drift.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/🌫️_algorithmic_drift.md)
+        - [`👻_passive_consumption.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/👻_passive_consumption.md)
+        - [`💤_ambient_scrolling.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/💤_ambient_scrolling.md)
+        - [`🛋️_lurker_cultures.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/🤍_Phlegmatic_Constitutions/🛋️_lurker_cultures.md)
+      - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/README.md)
+    - [**🌫️_Vapours/**](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/)
+      - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/README.md)
+      - [`🌩️_outrage_atmospheres.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/🌩️_outrage_atmospheres.md)
   - [`README.md`](🌓_3_In_The_Moment/README.md)
 - [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
   - [`README.md`](🌔_4_Small_Steps/README.md)
