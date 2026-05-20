@@ -1,5 +1,5 @@
 # 🍽️ Fork Taxonomy Index  
-**First created:** 2025-08-11 | **Last updated:** 2026-04-01  
+**First created:** 2025-08-11 | **Last updated:** 2026-05-20  
 *Mapping recurring behavioural distortion patterns in complex systems.*  
 
 ---
@@ -173,4 +173,4 @@ It maps recurring distortion patterns that arise within complex, unstable system
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-01_
+_Last updated: 2026-05-20_
