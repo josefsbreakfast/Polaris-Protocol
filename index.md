@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-20 16:02:08 UTC_
+_Generated on 2026-05-20 16:08:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6866,18 +6866,7 @@ _Generated on 2026-05-20 16:02:08 UTC_
     - [`new_harm_log.ps1`](scripts/maintenance/new_harm_log.ps1)
     - [`template_entry.md`](scripts/maintenance/template_entry.md)
 - [**⚗️_Apothecary/**](⚗️_Apothecary/)
-  - [**🧪_Temperaments/**](⚗️_Apothecary/🧪_Temperaments/)
-    - [`README.md`](⚗️_Apothecary/🧪_Temperaments/README.md)
-    - [`🎭_irony_posting.md`](⚗️_Apothecary/🧪_Temperaments/🎭_irony_posting.md)
-    - [`🐝_swarm_behaviours.md`](⚗️_Apothecary/🧪_Temperaments/🐝_swarm_behaviours.md)
-    - [`👻_doomscrolling.md`](⚗️_Apothecary/🧪_Temperaments/👻_doomscrolling.md)
-    - [`📣_dogpiling.md`](⚗️_Apothecary/🧪_Temperaments/📣_dogpiling.md)
-    - [`🕸️_brigading.md`](⚗️_Apothecary/🧪_Temperaments/🕸️_brigading.md)
-    - [`🤖_astroturfing.md`](⚗️_Apothecary/🧪_Temperaments/🤖_astroturfing.md)
-    - [`🧦_lurking.md`](⚗️_Apothecary/🧪_Temperaments/🧦_lurking.md)
-    - [`🪞_meme_as_signal_object.md`](⚗️_Apothecary/🧪_Temperaments/🪞_meme_as_signal_object.md)
   - [**🪴_Tonics/**](⚗️_Apothecary/🪴_Tonics/)
-    - [`README.md`](⚗️_Apothecary/🪴_Tonics/README.md)
     - [`☕️_slow_internet_practices.md`](⚗️_Apothecary/🪴_Tonics/☕️_slow_internet_practices.md)
     - [`🌤️_attention_rebalancing.md`](⚗️_Apothecary/🪴_Tonics/🌤️_attention_rebalancing.md)
     - [`🌲_offline_grounding.md`](⚗️_Apothecary/🪴_Tonics/🌲_offline_grounding.md)
@@ -7181,6 +7170,18 @@ _Generated on 2026-05-20 16:02:08 UTC_
       - [`🔕_notification_reduction.md`](🌓_3_In_The_Moment/⚗️_Apothecary/💊_Remedies/🔕_notification_reduction.md)
       - [`🧹_algorithmic_hygiene.md`](🌓_3_In_The_Moment/⚗️_Apothecary/💊_Remedies/🧹_algorithmic_hygiene.md)
       - [`🪟_context_reintroduction.md`](🌓_3_In_The_Moment/⚗️_Apothecary/💊_Remedies/🪟_context_reintroduction.md)
+    - [**🧪_Temperaments/**](🌓_3_In_The_Moment/⚗️_Apothecary/🧪_Temperaments/)
+      - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🧪_Temperaments/README.md)
+      - [`🎭_irony_posting.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🧪_Temperaments/🎭_irony_posting.md)
+      - [`🐝_swarm_behaviours.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🧪_Temperaments/🐝_swarm_behaviours.md)
+      - [`👻_doomscrolling.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🧪_Temperaments/👻_doomscrolling.md)
+      - [`📣_dogpiling.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🧪_Temperaments/📣_dogpiling.md)
+      - [`🕸️_brigading.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🧪_Temperaments/🕸️_brigading.md)
+      - [`🤖_astroturfing.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🧪_Temperaments/🤖_astroturfing.md)
+      - [`🧦_lurking.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🧪_Temperaments/🧦_lurking.md)
+      - [`🪞_meme_as_signal_object.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🧪_Temperaments/🪞_meme_as_signal_object.md)
+    - [**🪴_Tonics/**](🌓_3_In_The_Moment/⚗️_Apothecary/🪴_Tonics/)
+      - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🪴_Tonics/README.md)
   - [`README.md`](🌓_3_In_The_Moment/README.md)
 - [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
   - [`README.md`](🌔_4_Small_Steps/README.md)
