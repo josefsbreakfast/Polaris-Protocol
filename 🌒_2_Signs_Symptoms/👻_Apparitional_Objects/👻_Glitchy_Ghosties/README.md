@@ -1,5 +1,5 @@
 # 👻 Glitchy Ghosties  
-**First created:** 2025-10-04 | **Last updated:** 2025-12-06  
+**First created:** 2025-10-04 | **Last updated:** 2026-05-20  
 *The Polaris fieldbook for digital ghosts — the taxonomy of apparitional behaviour across systems, data, memory, and networks.*
 
 ---
@@ -106,4 +106,4 @@ Ghosts are not accidents.
 They are the places where the system’s story about itself breaks and the truth leaks through.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-06_
+_Last updated: 2026-05-20_
