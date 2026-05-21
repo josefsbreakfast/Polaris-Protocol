@@ -1,6 +1,5 @@
 # 🐦‍🔥 Listening To Survivors  
-
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-21 | **Last updated:** 2026-05-21  
 *Survivor sovereignty as constraint, not resource.*
 
 ---
@@ -194,4 +193,4 @@ And justice does not require silence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-Last updated: 2025-12-21
+Last updated: 2026-05-21
