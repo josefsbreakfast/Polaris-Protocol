@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 11:05:56 UTC_
+_Generated on 2026-05-21 11:14:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7283,6 +7283,21 @@ _Generated on 2026-05-21 11:05:56 UTC_
       - [`README.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/💞_Hacking_Hope/README.md)
     - [`README.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/README.md)
     - [`✨_how_much_to_turn_the_stars_back_on.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/✨_how_much_to_turn_the_stars_back_on.md)
+    - [`🌱_commons_charter_generator.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🌱_commons_charter_generator.md)
+    - [`🌳_the_village_green_preservation_society.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🌳_the_village_green_preservation_society.md)
+    - [`🌿_regenerative_admin_toolkit.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🌿_regenerative_admin_toolkit.md)
+    - [`🏛️_federated_governance_loops.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🏛️_federated_governance_loops.md)
+    - [`🐙_the_octopus_of_knowledge.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🐙_the_octopus_of_knowledge.md)
+    - [`💰_cooperative_economy_nodes.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/💰_cooperative_economy_nodes.md)
+    - [`📜_all_in_commons_manifesto.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/📜_all_in_commons_manifesto.md)
+    - [`📡_commons_signal_networks.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/📡_commons_signal_networks.md)
+    - [`🔧_democratic_resilience_architecture_for_21st_century_britain.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🔧_democratic_resilience_architecture_for_21st_century_britain.md)
+    - [`🕊️_trust_repair_protocols.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🕊️_trust_repair_protocols.md)
+    - [`🗺️_digital_hybrid_sociality.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🗺️_digital_hybrid_sociality.md)
+    - [`🛠️_mutual_aid_stack.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🛠️_mutual_aid_stack.md)
+    - [`🧠_nerd_alignment_protocol.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🧠_nerd_alignment_protocol.md)
+    - [`🧩_distributed_decision_framework.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🧩_distributed_decision_framework.md)
+    - [`🪞_mirror_commons.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🪞_mirror_commons.md)
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [`README.md`](🏮_Admin_Nest/README.md)
@@ -7320,22 +7335,6 @@ _Generated on 2026-05-21 11:05:56 UTC_
     - [`README.md`](🦆_Digital_Disruption/🐘_Reply_All/README.md)
     - [`🧿_private_eye_bounces_back.md`](🦆_Digital_Disruption/🐘_Reply_All/🧿_private_eye_bounces_back.md)
     - [`🧿_sassi_as_counter_surveillance_accountability.md`](🦆_Digital_Disruption/🐘_Reply_All/🧿_sassi_as_counter_surveillance_accountability.md)
-  - [**🐝_All_In_Commons/**](🦆_Digital_Disruption/🐝_All_In_Commons/)
-    - [`🌱_commons_charter_generator.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🌱_commons_charter_generator.md)
-    - [`🌳_the_village_green_preservation_society.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🌳_the_village_green_preservation_society.md)
-    - [`🌿_regenerative_admin_toolkit.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🌿_regenerative_admin_toolkit.md)
-    - [`🏛️_federated_governance_loops.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🏛️_federated_governance_loops.md)
-    - [`🐙_the_octopus_of_knowledge.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🐙_the_octopus_of_knowledge.md)
-    - [`💰_cooperative_economy_nodes.md`](🦆_Digital_Disruption/🐝_All_In_Commons/💰_cooperative_economy_nodes.md)
-    - [`📜_all_in_commons_manifesto.md`](🦆_Digital_Disruption/🐝_All_In_Commons/📜_all_in_commons_manifesto.md)
-    - [`📡_commons_signal_networks.md`](🦆_Digital_Disruption/🐝_All_In_Commons/📡_commons_signal_networks.md)
-    - [`🔧_democratic_resilience_architecture_for_21st_century_britain.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🔧_democratic_resilience_architecture_for_21st_century_britain.md)
-    - [`🕊️_trust_repair_protocols.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🕊️_trust_repair_protocols.md)
-    - [`🗺️_digital_hybrid_sociality.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🗺️_digital_hybrid_sociality.md)
-    - [`🛠️_mutual_aid_stack.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🛠️_mutual_aid_stack.md)
-    - [`🧠_nerd_alignment_protocol.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🧠_nerd_alignment_protocol.md)
-    - [`🧩_distributed_decision_framework.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🧩_distributed_decision_framework.md)
-    - [`🪞_mirror_commons.md`](🦆_Digital_Disruption/🐝_All_In_Commons/🪞_mirror_commons.md)
   - [**🐥_Surviving_Bargain_Bin_Mossad/**](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/)
     - [`README.md`](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/README.md)
     - [`✂️_red_tape_removal.md`](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/✂️_red_tape_removal.md)
