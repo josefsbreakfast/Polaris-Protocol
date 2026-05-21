@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 18:30:28 UTC_
+_Generated on 2026-05-21 18:33:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7388,6 +7388,10 @@ _Generated on 2026-05-21 18:30:28 UTC_
       - [`🌐_academic_partnership_architecture.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🌐_academic_partnership_architecture.md)
       - [`🏛️_non_transferability_of_behavioral_interventions.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🏛️_non_transferability_of_behavioral_interventions.md)
       - [`🔍_search_protocol_bilateral_funding_phrase_mapping.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🔍_search_protocol_bilateral_funding_phrase_mapping.md)
+      - [`🛰️_elbit_systems_uk_labour_linkage_map.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🛰️_elbit_systems_uk_labour_linkage_map.md)
+      - [`🛰️_unnamed_IDF_targeting_LLM_2025_casefile.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🛰️_unnamed_IDF_targeting_LLM_2025_casefile.md)
+      - [`🧨_dual_use_epiphany.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🧨_dual_use_epiphany.md)
+      - [`🧨_dual_use_frankenstack.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🧨_dual_use_frankenstack.md)
     - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/README.md)
     - [`🛰️_foi_sar_dual_audit_protocol.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
     - [`🛰️_satellite_imagery_as_circumstantial_evidence.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md)
@@ -7533,10 +7537,6 @@ _Generated on 2026-05-21 18:30:28 UTC_
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
   - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
     - [**🧪_Sciencing_Apartheid/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/)
-      - [`🛰️_elbit_systems_uk_labour_linkage_map.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🛰️_elbit_systems_uk_labour_linkage_map.md)
-      - [`🛰️_unnamed_IDF_targeting_LLM_2025_casefile.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🛰️_unnamed_IDF_targeting_LLM_2025_casefile.md)
-      - [`🧨_dual_use_epiphany.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🧨_dual_use_epiphany.md)
-      - [`🧨_dual_use_frankenstack.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🧨_dual_use_frankenstack.md)
       - [`🪐_stakeholder_constellation_map_elbit_labour.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🪐_stakeholder_constellation_map_elbit_labour.md)
       - [`🪞_public_project_shadow_project.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🪞_public_project_shadow_project.md)
       - [`🪩_public_faces_hidden_files.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🪩_public_faces_hidden_files.md)
