@@ -1,5 +1,5 @@
 # ⚖️ War Logic in Peacetime  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2026-05-21  
 *Mapping the quiet normalisation of wartime administrative behaviour under peacetime law.*
 
 ---
@@ -51,4 +51,4 @@ It documents the shift toward security-state behaviour within civilian framework
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2026-05-21_
