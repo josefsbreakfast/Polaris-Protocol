@@ -1,5 +1,5 @@
 # 🧪 Sciencing Apartheid — Field Operations Index  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
+**First created:** 2025-11-07 | **Last updated:** 2026-05-21  
 *An OSINT field-lab documenting how research, innovation, and security ecosystems reproduce global hierarchies and exclusions.*
 
 ---
@@ -75,4 +75,4 @@ It provides a controlled environment for testing how open-source investigation c
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
+_Last updated: 2026-05-21_
