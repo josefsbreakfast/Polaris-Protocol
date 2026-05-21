@@ -1,5 +1,5 @@
 # 🫁 Holistic Health in Surveillant Societies  
-**First created:** 2026-01-06 | **Last updated:** 2026-01-06  
+**First created:** 2026-01-06 | **Last updated:** 2026-05-21  
 *Health impacts of persistent surveillance environments across mental, physical, and social domains*
 
 ---
@@ -135,4 +135,4 @@ This node situates surveillance as a health-relevant environmental condition, dr
 
 ## Footer
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-05-21_
