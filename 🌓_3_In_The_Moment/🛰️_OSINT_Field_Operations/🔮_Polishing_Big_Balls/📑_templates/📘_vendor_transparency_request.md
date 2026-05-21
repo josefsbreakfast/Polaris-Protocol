@@ -1,5 +1,5 @@
 # 📘 Vendor Transparency Request  
-**First created:** 2026-01-08 | **Last updated:** 2026-01-08  
+**First created:** 2026-01-08 | **Last updated:** 2026-05-21  
 *A non-statutory request clarifying a supplier’s role in DPIA and risk work.*
 
 ---
