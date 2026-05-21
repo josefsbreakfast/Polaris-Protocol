@@ -1,5 +1,5 @@
 # 📜 All In Commons Manifesto  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *A civic declaration for collective autonomy and post-crisis cooperation.*
 
 ---
@@ -38,4 +38,4 @@ It defines the spirit of civic cooperation and antifascist mutual aid.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-21_
