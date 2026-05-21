@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 17:30:05 UTC_
+_Generated on 2026-05-21 17:34:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7278,6 +7278,11 @@ _Generated on 2026-05-21 17:30:05 UTC_
       - [`📈_meta_linkages.yaml`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/📈_meta_linkages.yaml)
       - [`📊_cricket_and_open_source_investigation_theory.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/📊_cricket_and_open_source_investigation_theory.md)
       - [`📜_foi_and_sar_exercise_pack.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/📜_foi_and_sar_exercise_pack.md)
+      - [`🔍_how_to_trace_event_data_flows.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🔍_how_to_trace_event_data_flows.md)
+      - [`🦚_the_peacock_principle.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🦚_the_peacock_principle.md)
+      - [`🧩_pattern_detection_and_response_mapping.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🧩_pattern_detection_and_response_mapping.md)
+      - [`🧭_overview_pitch_at_palace_structure.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🧭_overview_pitch_at_palace_structure.md)
+      - [`🪞_governance_as_performance_art.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🪞_governance_as_performance_art.md)
     - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/README.md)
     - [`🛰️_foi_sar_dual_audit_protocol.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
     - [`🛰️_satellite_imagery_as_circumstantial_evidence.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md)
@@ -7422,12 +7427,6 @@ _Generated on 2026-05-21 17:30:05 UTC_
   - [`notes.txt`](🏮_Admin_Nest/notes.txt)
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
   - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
-    - [**🏏_Pitch_at_Palace_Audit_Practice/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/)
-      - [`🔍_how_to_trace_event_data_flows.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🔍_how_to_trace_event_data_flows.md)
-      - [`🦚_the_peacock_principle.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🦚_the_peacock_principle.md)
-      - [`🧩_pattern_detection_and_response_mapping.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🧩_pattern_detection_and_response_mapping.md)
-      - [`🧭_overview_pitch_at_palace_structure.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🧭_overview_pitch_at_palace_structure.md)
-      - [`🪞_governance_as_performance_art.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🪞_governance_as_performance_art.md)
     - [**🏛️_Civil_Security/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/)
       - [**🎿_Routes_Overview_Piste_Map/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/)
         - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/README.md)
