@@ -1,5 +1,5 @@
 # 🕰️ Timing and Anticipation  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-06    
+**First created:** 2026-01-05 | **Last updated:** 2026-05-21  
 *Why temporal alignment transforms context into evidence.*
 
 ---
@@ -71,4 +71,4 @@ It explains why sequence and timing matter for contextual inference.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-05-21_
