@@ -1,5 +1,5 @@
 # 📖 Literature Review Funnel  
-**First created:** 2026-01-06 | **Last updated:** 2026-01-06  
+**First created:** 2026-01-06 | **Last updated:** 2026-05-21  
 *A structured methodology for wide-to-narrow evidence synthesis*
 
 *🦆 Digital Disruption → 🫁 Holistic Health in Surveillant Societies → 📖 Literature Review Funnel*
@@ -153,4 +153,4 @@ This node defines the methodological spine for reviewing evidence on health impa
 
 ## Footer
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-05-21_
