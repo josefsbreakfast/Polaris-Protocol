@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 11:57:27 UTC_
+_Generated on 2026-05-21 12:04:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7241,6 +7241,18 @@ _Generated on 2026-05-21 11:57:27 UTC_
   - [**🛰️_OSINT_Field_Operations/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/)
     - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/README.md)
     - [`🛰️_foi_sar_dual_audit_protocol.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
+    - [`🛰️_satellite_imagery_as_circumstantial_evidence.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md)
+    - [`🛰️_vendor_blindspot_mapping.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_vendor_blindspot_mapping.md)
+    - [`🧠_cognitive_safety_for_field_analysts.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧠_cognitive_safety_for_field_analysts.md)
+    - [`🧩_civic_sar_avalanche_method.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧩_civic_sar_avalanche_method.md)
+    - [`🧬_signal_anomaly_classification.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧬_signal_anomaly_classification.md)
+    - [`🧭_field_ethics_compass.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧭_field_ethics_compass.md)
+    - [`🧰_open_source_toolkit_index.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧰_open_source_toolkit_index.md)
+    - [`🧾_metadata_logging_standards.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧾_metadata_logging_standards.md)
+    - [`🧿_is_this_project_community_led.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧿_is_this_project_community_led.md)
+    - [`🪞_observer_reflexivity_log.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🪞_observer_reflexivity_log.md)
+    - [`🪩_verification_and_containment.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🪩_verification_and_containment.md)
+    - [`🪶_pattern_tracking_protocols.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🪶_pattern_tracking_protocols.md)
   - [**🦉_Language_As_Attack_Surface/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/)
     - [**🧿_Parsh_Fasr/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/)
       - [`README.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/README.md)
@@ -7530,17 +7542,5 @@ _Generated on 2026-05-21 11:57:27 UTC_
     - [**🪶_Academic_Surveillance_Coup_In_Progress/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_Academic_Surveillance_Coup_In_Progress/)
       - [`🪶_descent_map_academic_surveillance_drift.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_Academic_Surveillance_Coup_In_Progress/🪶_descent_map_academic_surveillance_drift.md)
       - [`🪶_how_it_can_be_done_mechanics_osint_and_policy.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_Academic_Surveillance_Coup_In_Progress/🪶_how_it_can_be_done_mechanics_osint_and_policy.md)
-    - [`🛰️_satellite_imagery_as_circumstantial_evidence.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md)
-    - [`🛰️_vendor_blindspot_mapping.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_vendor_blindspot_mapping.md)
-    - [`🧠_cognitive_safety_for_field_analysts.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧠_cognitive_safety_for_field_analysts.md)
-    - [`🧩_civic_sar_avalanche_method.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧩_civic_sar_avalanche_method.md)
-    - [`🧬_signal_anomaly_classification.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧬_signal_anomaly_classification.md)
-    - [`🧭_field_ethics_compass.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧭_field_ethics_compass.md)
-    - [`🧰_open_source_toolkit_index.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧰_open_source_toolkit_index.md)
-    - [`🧾_metadata_logging_standards.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧾_metadata_logging_standards.md)
-    - [`🧿_is_this_project_community_led.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧿_is_this_project_community_led.md)
-    - [`🪞_observer_reflexivity_log.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪞_observer_reflexivity_log.md)
-    - [`🪩_verification_and_containment.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪩_verification_and_containment.md)
-    - [`🪶_pattern_tracking_protocols.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_pattern_tracking_protocols.md)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
