@@ -1,5 +1,5 @@
 # 🗺 Checking a Public Data Service  
-**First created:** 2026-01-08 | **Last updated:** 2026-01-08  
+**First created:** 2026-01-08 | **Last updated:** 2026-05-21  
 *A calm, step-by-step guide to understanding what service you’re actually looking at.*  
 
 ---
@@ -180,4 +180,4 @@ to make the system legible enough that further questions — if any — can be a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-05-21_
