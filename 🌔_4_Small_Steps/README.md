@@ -68,6 +68,24 @@ Small steps matter precisely because they remain survivable.
 
 ---
 
+## 🗺️ Pocket Map  
+
+```
+🌑 Origin Points
+        ↓
+🌓 Signs & Symptoms
+        ↓
+🌗 In The Moment
+        ↓
+🌖 Small Steps
+        ↓
+🌕 Long Strategies
+
+🏮 Admin Nest supports all layers
+```
+
+---
+
 ## 🌌 Constellations  
 🌖 ❤️‍🩹 🦆 🛠️ 🌱 — practical resilience; survivability systems; adaptive workflows; repair practices; stabilisation tools.
 
