@@ -1,5 +1,5 @@
 # 👾 Synthetic Mobilisation and Petition Farms  
-**First created:** 2025-11-02  |  **Last updated:** 2025-11-12  
+**First created:** 2025-11-02  |  **Last updated:** 2026-05-21  
 *How digital bot networks simulate public will — and why civic infrastructure must learn to detect synthetic mobilisation.*
 
 ---
@@ -112,4 +112,4 @@ It explains how simulated consensus undermines public trust and offers framework
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-05-21_
