@@ -1,6 +1,5 @@
-# 🔥 Risk Register
-
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
+# 🔥 Risk Register  
+**First created:** 2025-12-21 | **Last updated:** 2026-05-21  
 *Anticipating failure modes, misuse, and structural vulnerabilities.*
 
 ---
@@ -231,4 +230,4 @@ And justice does not require silence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-Last updated: 2025-12-21
+Last updated: 2026-05-21
