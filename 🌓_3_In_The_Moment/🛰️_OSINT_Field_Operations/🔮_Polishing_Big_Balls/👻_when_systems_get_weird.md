@@ -1,5 +1,5 @@
 # 👻 When Systems Get Weird  
-**First created:** 2026-01-08 | **Last updated:** 2026-01-08  
+**First created:** 2026-01-08 | **Last updated:** 2026-05-21  
 *Friction, odd responses, and how to stay regulated when the system starts behaving strangely.*
 
 ---
@@ -158,4 +158,4 @@ You are allowed to slow down, take notes, and decide — calmly — what to do n
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-05-21_
