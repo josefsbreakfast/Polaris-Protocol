@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 12:04:20 UTC_
+_Generated on 2026-05-21 12:10:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7239,6 +7239,13 @@ _Generated on 2026-05-21 12:04:20 UTC_
     - [`🐽_sticky_scandal_effect.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🐽_sticky_scandal_effect.md)
     - [`🦎_finding_ones_chirp.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🦎_finding_ones_chirp.md)
   - [**🛰️_OSINT_Field_Operations/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/)
+    - [**🍉_Academic_Liberty/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/)
+      - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/README.md)
+      - [`🏛️_annex_a_birmingham_pre_litigation.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🏛️_annex_a_birmingham_pre_litigation.md)
+      - [`📬_FOI_request_template_bundle.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/📬_FOI_request_template_bundle.md)
+      - [`🕸️_sector_coordination_hypothesis.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🕸️_sector_coordination_hypothesis.md)
+      - [`🛰️_OSINT_for_anti_palestinian_racism_detection.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🛰️_OSINT_for_anti_palestinian_racism_detection.md)
+      - [`🧩_diaspora_repetition_and_trauma_informed_duty.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🧩_diaspora_repetition_and_trauma_informed_duty.md)
     - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/README.md)
     - [`🛰️_foi_sar_dual_audit_protocol.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
     - [`🛰️_satellite_imagery_as_circumstantial_evidence.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md)
@@ -7383,13 +7390,6 @@ _Generated on 2026-05-21 12:04:20 UTC_
   - [`notes.txt`](🏮_Admin_Nest/notes.txt)
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
   - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
-    - [**🍉_Academic_Liberty/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/)
-      - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/README.md)
-      - [`🏛️_annex_a_birmingham_pre_litigation.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🏛️_annex_a_birmingham_pre_litigation.md)
-      - [`📬_FOI_request_template_bundle.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/📬_FOI_request_template_bundle.md)
-      - [`🕸️_sector_coordination_hypothesis.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🕸️_sector_coordination_hypothesis.md)
-      - [`🛰️_OSINT_for_anti_palestinian_racism_detection.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🛰️_OSINT_for_anti_palestinian_racism_detection.md)
-      - [`🧩_diaspora_repetition_and_trauma_informed_duty.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🧩_diaspora_repetition_and_trauma_informed_duty.md)
     - [**🍉_Collecting_Intent_Adjunct_Material/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/)
       - [**📚_evidence_registers/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/📚_evidence_registers/)
         - [`📉_complaint_and_regulatory_pressure.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/📚_evidence_registers/📉_complaint_and_regulatory_pressure.md)
