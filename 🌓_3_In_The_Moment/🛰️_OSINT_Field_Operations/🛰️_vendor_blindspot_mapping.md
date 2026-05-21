@@ -1,5 +1,5 @@
 # 🛰️ Vendor Blindspot Mapping  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-18 | **Last updated:** 2026-05-21  
 *How hidden vendors, sub-processors, pipeline contractors, and third-party integrations create institutional blindspots that surface as contradictions in FOI/SAR responses — and how to map them.*  
 
 ---
@@ -284,4 +284,4 @@ It forms the technical backbone for identifying
 *hidden pipelines, invisible processors, and unacknowledged systems*  
 inside modern data environments.
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-05-21_
