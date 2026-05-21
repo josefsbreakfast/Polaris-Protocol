@@ -1,5 +1,5 @@
 # 🧾 Metadata Logging Standards  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *Integrity rules for logs, timestamps, and digital capture.*
 
 ---
@@ -38,4 +38,4 @@ It preserves digital evidence integrity without compromising ethics or humanity.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-21_
