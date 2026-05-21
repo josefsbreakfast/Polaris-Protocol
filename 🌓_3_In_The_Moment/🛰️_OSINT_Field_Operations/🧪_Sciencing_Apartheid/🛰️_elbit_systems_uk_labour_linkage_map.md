@@ -1,5 +1,5 @@
 # 🛰️ Elbit Systems UK — Labour Linkage Map  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2026-05-21  
 *Preliminary governance and influence map tracing Elbit Systems UK’s interactions with the UK Labour Government and donor ecosystems.*
 
 ---
@@ -40,17 +40,17 @@ Key political risk vectors include:
 
 ```mermaid
 graph TD
-    A[🇮🇱 Elbit Systems Ltd (Israel)] --> B[🏢 Elbit Systems UK]
-    B --> C[💂 Ministry of Defence (MoD)]
-    C --> D[⚖️ £2bn Army Training Contract (CTTP)]
+    A[🇮🇱 Elbit Systems Ltd Israel] --> B[🏢 Elbit Systems UK]
+    B --> C[💂 Ministry of Defence MoD]
+    C --> D[⚖️ £2bn Army Training Contract CTTP]
     D --> E[🏛️ Labour Government 2024-2025]
     E --> F[💷 Party Donors / Quadrature Capital]
-    F --> G[💼 Arms-Industry Portfolios (Lockheed, Palantir, etc.)]
-    B --> H[🍷 Hospitality / Revolving Door (MoD Officials)]
+    F --> G[💼 Arms-Industry Portfolios eg Lockheed, Palantir, etc]
+    B --> H[🍷 Hospitality / Revolving Door MoD Officials]
     H --> C
-    B --> I[📣 PR Firms (CMS Strategic)]
+    B --> I[📣 PR Firms eg CMS Strategic]
     I --> J[🧑‍💼 Labour-Linked Comms Network]
-    E --> K[📰 Public & Parliamentary Scrutiny (EDM 64212, Peter Hain Op-Ed)]
+    E --> K[📰 Public & Parliamentary Scrutiny eg EDM 64212, Peter Hain Op-Ed]
     B --> L[🚫 Palestine Action Protests / Site Closures]
 ```
 
@@ -80,4 +80,4 @@ It records intersections between corporate defence ecosystems and political fund
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2026-05-21_
