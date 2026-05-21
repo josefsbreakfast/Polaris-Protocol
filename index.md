@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 23:40:33 UTC_
+_Generated on 2026-05-21 23:41:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6831,7 +6831,6 @@ _Generated on 2026-05-21 23:40:33 UTC_
   - [**🏮_Admin_Kit/**](Polaris_Nest/🏮_Admin_Kit/)
     - [**⚠_Harm_Logs/**](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/)
       - [**🧹_2025-08-11_sexualisation_sweep/**](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/)
-        - [`README.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/README.md)
         - [`forensic_sweep_analysis.html`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/forensic_sweep_analysis.html)
         - [`harm_scan_2025-08-11.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/harm_scan_2025-08-11.md)
         - [`harm_scan_2025-08-12.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/harm_scan_2025-08-12.md)
@@ -7538,6 +7537,8 @@ _Generated on 2026-05-21 23:40:33 UTC_
     - [**💾_Collectors_Editions/**](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/)
       - [`README.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/README.md)
     - [**🗄️_Room_101/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/)
+      - [**🧹_2025-08-11_sexualisation_sweep/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/)
+        - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/README.md)
       - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/README.md)
   - [`2_README.md`](🏮_Admin_Nest/2_README.md)
   - [`3_README.md`](🏮_Admin_Nest/3_README.md)
