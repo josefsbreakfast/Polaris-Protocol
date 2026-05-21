@@ -1,6 +1,5 @@
-# 🤖 AI and Tools
-
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
+# 🛠️ AI and Tools  
+**First created:** 2025-12-21 | **Last updated:** 2026-05-21  
 *Using technology to support accountability without outsourcing judgement.*
 
 ---
@@ -156,4 +155,4 @@ And justice does not require silence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-Last updated: 2025-12-21
+Last updated: 2026-05-21
