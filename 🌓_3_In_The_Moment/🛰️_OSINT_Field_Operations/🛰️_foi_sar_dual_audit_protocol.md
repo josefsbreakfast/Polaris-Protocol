@@ -1,5 +1,5 @@
 # 🛰️ FOI–SAR Dual Audit Protocol  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-22 | **Last updated:** 2026-05-21  
 *A twin-lever civic method for tracing state–vendor data flows and exposing containment architecture.*
 
 ---
@@ -133,4 +133,4 @@ It outlines the public method for using information rights as paired diagnostic 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-05-21_
