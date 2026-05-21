@@ -1,5 +1,5 @@
 # 📡 Media Signal Map  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2026-05-21  
 *Monitoring delists, DSMA advisories, and digital-platform suppression indicators post-2023.*
 
 ---
@@ -40,4 +40,4 @@ It traces information-control mechanisms across UK media infrastructure within t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2026-05-21_
