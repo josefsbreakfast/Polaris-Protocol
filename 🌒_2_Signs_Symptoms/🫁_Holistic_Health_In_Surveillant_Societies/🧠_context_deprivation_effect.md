@@ -1,5 +1,5 @@
 # 🧠 Context Deprivation Effect  
-**First created:** 2026-01-06 | **Last updated:** 2026-01-06  
+**First created:** 2026-01-06 | **Last updated:** 2026-05-21  
 *On how lack of information amplifies harm and erodes trust in surveillant environments*
 
 *🦆 Digital Disruption → 🫁 Holistic Health in Surveillant Societies*
@@ -150,4 +150,4 @@ This node defines how absence of contextual information magnifies the health and
 > - [📲 Dopamine Grooming and Self-Regulation](../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/📲_dopamine_grooming_and_self_regulation.md)
 > - [💞 Ethics of Nudging vs Desire](../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/💞_ethics_of_nudging_vs_desire.md)  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-05-21_
