@@ -1,5 +1,5 @@
 # 🌍 Why It All Matters — Shared Epilogue
-**First created:** 2025-10-28 | **Last updated:** 2025-10-28  
+**First created:** 2025-10-28 | **Last updated:** 2026-05-21  
 *Literacy, democracy, and antifascism — the civic continuity thread.*
 
 ---
@@ -28,4 +28,4 @@ This shared epilogue binds the **Civic Continuity Cluster**: 📚 and 🪡.
 > - 🪡 *Make-and-Mend Republic* (../🪡_make_and_mend_republic.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-28_
+_Last updated: 2026-05-21_
