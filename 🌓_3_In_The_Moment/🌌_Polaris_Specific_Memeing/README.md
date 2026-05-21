@@ -1,5 +1,5 @@
 # 🌌 Polaris-Specific Memeing, and 🫂 Reciprocity & Support  
-**First created:** 2025-11-15 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-15 | **Last updated:** 2026-05-21  
 *Clear, boundary-safe routes for civic reciprocity, resourcing, and practical support for Polaris.*
 <!--Transparency will be provided, just working out how to do this and honestly forking out my google searches here is not unhelpful; how to declare this for HMRC/DWP is also a whole set of nodes, be ause it really reveals how "stuck" non-abled innovation gets by red tape.-->
 ---
@@ -82,4 +82,4 @@ It introduces the philosophy and structure of the routes through which readers c
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-05-21_
