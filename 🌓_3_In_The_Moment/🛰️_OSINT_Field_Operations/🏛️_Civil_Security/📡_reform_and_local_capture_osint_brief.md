@@ -1,5 +1,5 @@
 # 📡 Reform and Local Capture — OSINT Brief  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04  
+**First created:** 2025-11-04 | **Last updated:** 2026-05-21  
 *A live investigation tracking how opaque political-corporate structures leverage local government to accumulate soft power.*
 
 ---
@@ -81,4 +81,4 @@ It documents structural transparency gaps in British local governance and their 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2026-05-21_
