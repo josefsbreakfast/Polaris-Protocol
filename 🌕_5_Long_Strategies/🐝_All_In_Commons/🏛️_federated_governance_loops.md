@@ -1,5 +1,5 @@
 # 🏛️ Federated Governance Loops  
-**First created:** 2025-11-02 | **Last updated:** 2026-01-08  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *Rotating stewardship and collective decision-making for antifascist commons.*
 
 ---
@@ -172,4 +172,4 @@ It provides repeatable governance patterns that preserve autonomy, accountabilit
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-05-21_
