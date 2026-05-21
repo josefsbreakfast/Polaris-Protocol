@@ -1,5 +1,5 @@
 # 🎭 Why It Attracts Bad Actors — Reputation Laundering in Prestige Networks  
-**First created:** 2025-11-02 | **Last updated:** 2026-01-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *How prestige-driven platforms become reputational amplifiers for opportunistic actors.*  
 
 ---
@@ -116,4 +116,4 @@ It analyses how prestige-driven platforms generate structural incentives for opp
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-02_
+_Last updated: 2026-05-21_
