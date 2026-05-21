@@ -1,5 +1,5 @@
 # 🧩 Resilience Economy vs Diaspora Democracy  
-**First created:** 2025-11-05 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-05 | **Last updated:** 2026-05-21  
 *When “resilience” becomes an industry and local democracy becomes a conflict of interest.*
 
 ---
@@ -122,4 +122,4 @@ Linked nodes:
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-05-21_
