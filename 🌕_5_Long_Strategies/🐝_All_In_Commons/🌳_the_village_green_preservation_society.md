@@ -1,5 +1,5 @@
 # 🌳 The Village Green Preservation Society  
-**First created:** 2026-05-05 | **Last updated:** 2026-05-05  
+**First created:** 2026-05-05 | **Last updated:** 2026-05-21  
 *A diagnostic and design lens for understanding how shared life erodes—and how it can be rebuilt.*
 
 ---
@@ -304,4 +304,4 @@ It defines a diagnostic and structural lens for identifying and intervening in t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-05_
+_Last updated: 2026-05-21_
