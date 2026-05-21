@@ -1,5 +1,5 @@
 # 💰 Budget Twinsies  
-**First created:** 2025-11-29 | **Last updated:** 2025-11-29  
+**First created:** 2025-11-29 | **Last updated:** 2026-05-21  
 *An explicit, document-driven OSINT cluster examining the £6.7bn fiscal anomaly in the October 2025 UK Budget, and its potential intersection with Israel’s emergency war-financing cycle.*
 
 ---
@@ -154,4 +154,4 @@ It is explicit about the political structures that make such an anomaly meaningf
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-29_
+_Last updated: 2026-05-21_
