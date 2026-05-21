@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 18:12:20 UTC_
+_Generated on 2026-05-21 18:14:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7356,6 +7356,10 @@ _Generated on 2026-05-21 18:12:20 UTC_
       - [`🧭_controller_vs_processor_quick_map.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🧭_controller_vs_processor_quick_map.md)
       - [`🧿_dual_dpia_for_data_deals.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🧿_dual_dpia_for_data_deals.md)
       - [`🪖💄_what_do_we_do_if_its_a_charlie_foxtrot.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🪖💄_what_do_we_do_if_its_a_charlie_foxtrot.md)
+    - [**🕊️_War_Or_Peace/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/)
+      - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md)
+      - [`⚔️_containment_logic_strategy_or_panic.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/⚔️_containment_logic_strategy_or_panic.md)
+      - [`⚖️_war_logic_in_peacetime.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/⚖️_war_logic_in_peacetime.md)
     - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/README.md)
     - [`🛰️_foi_sar_dual_audit_protocol.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
     - [`🛰️_satellite_imagery_as_circumstantial_evidence.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md)
@@ -7501,9 +7505,6 @@ _Generated on 2026-05-21 18:12:20 UTC_
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
   - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
     - [**🕊️_War_Or_Peace/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/)
-      - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md)
-      - [`⚔️_containment_logic_strategy_or_panic.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/⚔️_containment_logic_strategy_or_panic.md)
-      - [`⚖️_war_logic_in_peacetime.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/⚖️_war_logic_in_peacetime.md)
       - [`🌐_academic_partnership_architecture.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/🌐_academic_partnership_architecture.md)
       - [`📃_FOI_request_template_No10_meeting.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/📃_FOI_request_template_No10_meeting.md)
       - [`📃_SAR_template_university_surveillance_contractors.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/📃_SAR_template_university_surveillance_contractors.md)
