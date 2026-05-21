@@ -1,5 +1,5 @@
 # 🛰️ Satellite Imagery as Circumstantial Evidence  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-21  
 *How geospatial anomalies function as corroborative evidence in closed systems.*  
 
 ---
@@ -168,4 +168,4 @@ It clarifies how geospatial data functions responsibly within cumulative human-r
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-05-21_
