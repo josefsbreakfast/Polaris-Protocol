@@ -197,6 +197,24 @@ Users are encouraged to move between folders as needed rather than remain fixed 
 
 ---
 
+## 🗺️ Pocket Map  
+
+```
+🌑 Origin Points
+        ↓
+🌓 Signs & Symptoms
+        ↓
+🌗 In The Moment
+        ↓
+🌖 Small Steps
+        ↓
+🌕 Long Strategies
+
+🏮 Admin Nest supports all layers
+```
+
+---
+
 ## 🌌 Constellations  
 🌌 🧭 🛰️ 🗂️ 🧠 — archive navigation; containment literacy; cognitive orientation; survivability systems; reconstruction architecture.
 
