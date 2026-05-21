@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 11:54:36 UTC_
+_Generated on 2026-05-21 11:55:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7225,6 +7225,7 @@ _Generated on 2026-05-21 11:54:36 UTC_
       - [`war_chat_cabinet_press_room.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/war_chat_cabinet_press_room.jpeg)
       - [`🤖_cybernetics_001.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/🤖_cybernetics_001.jpeg)
       - [`🦑_kraken_sightings_across_the_world.md`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/🦑_kraken_sightings_across_the_world.md)
+    - [`README.md`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/README.md)
     - [`📊_corrospondence_and_items_received.md`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/📊_corrospondence_and_items_received.md)
     - [`📘_how_declarations_work.md`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/📘_how_declarations_work.md)
     - [`📦_po_box_practicalities.md`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/📦_po_box_practicalities.md)
@@ -7237,9 +7238,6 @@ _Generated on 2026-05-21 11:54:36 UTC_
     - [`🍄_meme_rewilding_pipelines.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🍄_meme_rewilding_pipelines.md)
     - [`🐽_sticky_scandal_effect.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🐽_sticky_scandal_effect.md)
     - [`🦎_finding_ones_chirp.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🦎_finding_ones_chirp.md)
-  - [**🦆_Digital_Disruption/**](🌓_3_In_The_Moment/🦆_Digital_Disruption/)
-    - [**🌌_Polaris_Specific_Memeing/**](🌓_3_In_The_Moment/🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/)
-      - [`README.md`](🌓_3_In_The_Moment/🦆_Digital_Disruption/🌌_Polaris_Specific_Memeing/README.md)
   - [**🦉_Language_As_Attack_Surface/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/)
     - [**🧿_Parsh_Fasr/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/)
       - [`README.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/README.md)
