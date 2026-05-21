@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 11:24:09 UTC_
+_Generated on 2026-05-21 11:30:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7278,6 +7278,19 @@ _Generated on 2026-05-21 11:24:09 UTC_
     - [**🌷_Opening_The_Source/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/)
       - [`README.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/README.md)
       - [`☔️_policing_hoverboards_and_omniwrenches.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/☔️_policing_hoverboards_and_omniwrenches.md)
+      - [`🌦️_for_and_against_cloudbusting.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🌦️_for_and_against_cloudbusting.md)
+      - [`🍎_coding_dyslexic.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🍎_coding_dyslexic.md)
+      - [`🍓_raspberry_pi_as_gateway_drug.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🍓_raspberry_pi_as_gateway_drug.md)
+      - [`🐦‍⬛_naturewatching_as_natural_tech_ally.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🐦‍⬛_naturewatching_as_natural_tech_ally.md)
+      - [`💸_the_economic_argument_for_dicking_around.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/💸_the_economic_argument_for_dicking_around.md)
+      - [`📻_reclaiming_radio_space.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/📻_reclaiming_radio_space.md)
+      - [`🔬_why_90s_british_programmers_were_like_that.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🔬_why_90s_british_programmers_were_like_that.md)
+      - [`🔮_cyberdecks_against_masc_centric_tech.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🔮_cyberdecks_against_masc_centric_tech.md)
+      - [`🛠️_maker_movements_and_hackspaces.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🛠️_maker_movements_and_hackspaces.md)
+      - [`🤖_surveillance_free_smart_home.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🤖_surveillance_free_smart_home.md)
+      - [`🧬_stem_as_free_alt_to_fancy_pedagogy.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🧬_stem_as_free_alt_to_fancy_pedagogy.md)
+      - [`🩼_let_us_make_crutches.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🩼_let_us_make_crutches.md)
+      - [`🪏_right_to_repair_economic_good.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🪏_right_to_repair_economic_good.md)
     - [**🤖_AI_Beyond_AI/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/)
       - [`README.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/README.md)
       - [`🐧_ai_as_conservator_assistant.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🐧_ai_as_conservator_assistant.md)
@@ -7318,21 +7331,6 @@ _Generated on 2026-05-21 11:24:09 UTC_
   - [`README.md`](🏮_Admin_Nest/README.md)
   - [`notes.txt`](🏮_Admin_Nest/notes.txt)
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
-  - [**❤️‍🩹_Rehabilitated_Tech/**](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/)
-    - [**🌷_Opening_The_Source/**](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/)
-      - [`🌦️_for_and_against_cloudbusting.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🌦️_for_and_against_cloudbusting.md)
-      - [`🍎_coding_dyslexic.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🍎_coding_dyslexic.md)
-      - [`🍓_raspberry_pi_as_gateway_drug.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🍓_raspberry_pi_as_gateway_drug.md)
-      - [`🐦‍⬛_naturewatching_as_natural_tech_ally.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🐦‍⬛_naturewatching_as_natural_tech_ally.md)
-      - [`💸_the_economic_argument_for_dicking_around.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/💸_the_economic_argument_for_dicking_around.md)
-      - [`📻_reclaiming_radio_space.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/📻_reclaiming_radio_space.md)
-      - [`🔬_why_90s_british_programmers_were_like_that.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🔬_why_90s_british_programmers_were_like_that.md)
-      - [`🔮_cyberdecks_against_masc_centric_tech.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🔮_cyberdecks_against_masc_centric_tech.md)
-      - [`🛠️_maker_movements_and_hackspaces.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🛠️_maker_movements_and_hackspaces.md)
-      - [`🤖_surveillance_free_smart_home.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🤖_surveillance_free_smart_home.md)
-      - [`🧬_stem_as_free_alt_to_fancy_pedagogy.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🧬_stem_as_free_alt_to_fancy_pedagogy.md)
-      - [`🩼_let_us_make_crutches.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🩼_let_us_make_crutches.md)
-      - [`🪏_right_to_repair_economic_good.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🪏_right_to_repair_economic_good.md)
   - [**🐘_Reply_All/**](🦆_Digital_Disruption/🐘_Reply_All/)
     - [`README.md`](🦆_Digital_Disruption/🐘_Reply_All/README.md)
     - [`🧿_private_eye_bounces_back.md`](🦆_Digital_Disruption/🐘_Reply_All/🧿_private_eye_bounces_back.md)
