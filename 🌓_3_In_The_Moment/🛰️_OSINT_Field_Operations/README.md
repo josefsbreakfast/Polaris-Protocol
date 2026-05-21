@@ -1,5 +1,5 @@
 # 🛰️ OSINT Field Operations  
-**First created:** 2025-10-28 | **Last updated:** 2025-10-30  
+**First created:** 2025-10-28 | **Last updated:** 2026-05-21  
 *How to look clearly without becoming the thing you study.*
 
 ---
@@ -46,4 +46,4 @@ It formalises ethical investigative practice for open-source researchers working
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-30_
+_Last updated: 2026-05-21_
