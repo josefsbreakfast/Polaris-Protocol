@@ -1,5 +1,5 @@
 # 👑 Pitch Palace Outpicture Paths  
-**First created:** 2025-11-03 | **Last updated:** 2026-01-01  
+**First created:** 2025-11-03 | **Last updated:** 2026-05-21  
 *How event-based prestige networks convert proximity into influence without formal governance.*
 
 ---
@@ -129,4 +129,4 @@ It analyses how prestige events function as informal governance infrastructure, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-05-21_
