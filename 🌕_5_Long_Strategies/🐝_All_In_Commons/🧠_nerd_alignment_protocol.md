@@ -1,5 +1,5 @@
 # 🧠 Nerd Alignment Protocol  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-13  
+**First created:** 2025-11-16 | **Last updated:** 2026-05-21  
 *A coordination note for the wider nerd ecosystem on how to stop a handful of rich, ungrounded tech men from tanking public trust in science, tech, and all of us.*  
 
 ---
@@ -240,4 +240,4 @@ Pairs with:
 
 *If the billionaires can’t handle the brief, the rest of the nerds take the mic back.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-05-21_
