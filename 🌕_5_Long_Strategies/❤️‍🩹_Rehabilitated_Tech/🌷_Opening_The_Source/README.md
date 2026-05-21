@@ -1,5 +1,5 @@
 # 🌷 Opening the Source  
-**First created:** 2026-05-04 | **Last updated:** 2026-05-04  
+**First created:** 2026-05-04 | **Last updated:** 2026-05-21  
 *Projects and philosophy for transitioning from closed systems to open, rehabilitated technology ecosystems.*  
 
 ---
@@ -150,4 +150,4 @@ It marks the threshold where repaired systems become shared systems, and where p
 
 Survivor authorship is sovereign. Containment is never neutral.  
 
-_Last updated: 2026-05-04_
+_Last updated: 2026-05-21_
