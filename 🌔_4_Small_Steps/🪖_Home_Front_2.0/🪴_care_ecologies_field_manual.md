@@ -1,5 +1,5 @@
 # 🪴 Care Ecologies Field Manual  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *Guidelines for sustaining ecosystems of care.*
 
 ---
@@ -38,4 +38,4 @@ It integrates ecological and social care as a continuous antifascist act.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-21_
