@@ -1,5 +1,5 @@
 # 🌷 Questions People Often Worry Are “Stupid”  
-**First created:** 2026-01-08 | **Last updated:** 2026-01-08  
+**First created:** 2026-01-08 | **Last updated:** 2026-05-21  
 *They aren’t. They’re usually the right ones.*
 
 ---
@@ -75,4 +75,4 @@ Structural questions are rarely stupid.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-05-21_
