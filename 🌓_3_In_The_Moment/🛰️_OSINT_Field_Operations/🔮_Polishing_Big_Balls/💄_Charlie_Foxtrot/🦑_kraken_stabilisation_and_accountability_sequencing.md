@@ -1,5 +1,5 @@
 # 🦑 Kraken Stabilisation and Accountability Sequencing  
-**First created:** 2026-01-23 | **Last updated:** 2026-01-23  
+**First created:** 2026-01-23 | **Last updated:** 2026-05-21  
 *Sequencing truth, stability, and accountability to prevent systemic collapse under existential risk*
 
 ---
@@ -230,4 +230,4 @@ It defines how truth, safety, and justice must be sequenced during Kraken-level 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-23_
+_Last updated: 2026-05-21_
