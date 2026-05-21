@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 23:35:00 UTC_
+_Generated on 2026-05-21 23:36:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6842,8 +6842,6 @@ _Generated on 2026-05-21 23:35:00 UTC_
         - [`🧯_harm_scan_report.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/🧯_harm_scan_report.md)
         - [`🧯_sweep_harm_log_2025-08-17.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/🧯_sweep_harm_log_2025-08-17.md)
     - [`README.md`](Polaris_Nest/🏮_Admin_Kit/README.md)
-    - [`☔️_protocol_integrity_sop.md`](Polaris_Nest/🏮_Admin_Kit/☔️_protocol_integrity_sop.md)
-    - [`🌌_constellation_tracker.md`](Polaris_Nest/🏮_Admin_Kit/🌌_constellation_tracker.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
@@ -7540,6 +7538,8 @@ _Generated on 2026-05-21 23:35:00 UTC_
   - [`2_README.md`](🏮_Admin_Nest/2_README.md)
   - [`README.md`](🏮_Admin_Nest/README.md)
   - [`notes.txt`](🏮_Admin_Nest/notes.txt)
+  - [`☔️_protocol_integrity_sop.md`](🏮_Admin_Nest/☔️_protocol_integrity_sop.md)
+  - [`🌌_constellation_tracker.md`](🏮_Admin_Nest/🌌_constellation_tracker.md)
   - [`🌒_structure_overview.md`](🏮_Admin_Nest/🌒_structure_overview.md)
   - [`🎏_dividers_and_headers.md`](🏮_Admin_Nest/🎏_dividers_and_headers.md)
   - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](🏮_Admin_Nest/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
