@@ -1,5 +1,5 @@
 # 🍹 Comparison Grid Template  
-**First created:** 2026-01-08 | **Last updated:** 2026-01-08  
+**First created:** 2026-01-08 | **Last updated:** 2026-05-21  
 *A simple way to line up what different actors say against what actually appears.*
 
 ---
@@ -101,4 +101,4 @@ It helps you see what is already there.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-05-21_
