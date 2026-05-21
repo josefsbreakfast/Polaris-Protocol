@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 10:01:58 UTC_
+_Generated on 2026-05-21 11:03:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7274,6 +7274,12 @@ _Generated on 2026-05-21 10:01:58 UTC_
 - [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
   - [`README.md`](🌔_4_Small_Steps/README.md)
 - [**🌕_5_Long_Strategies/**](🌕_5_Long_Strategies/)
+  - [**🐝_All_In_Commons/**](🌕_5_Long_Strategies/🐝_All_In_Commons/)
+    - [**💞_Hacking_Hope/**](🌕_5_Long_Strategies/🐝_All_In_Commons/💞_Hacking_Hope/)
+      - [**🏆_Civil_Sec/**](🌕_5_Long_Strategies/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/)
+        - [`🏟️_hackathon_league.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/🏟️_hackathon_league.md)
+        - [`📓_hackathon_playbook_companion.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/📓_hackathon_playbook_companion.md)
+        - [`🛡️_pentest_cup.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/🛡️_pentest_cup.md)
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [`README.md`](🏮_Admin_Nest/README.md)
@@ -7313,10 +7319,6 @@ _Generated on 2026-05-21 10:01:58 UTC_
     - [`🧿_sassi_as_counter_surveillance_accountability.md`](🦆_Digital_Disruption/🐘_Reply_All/🧿_sassi_as_counter_surveillance_accountability.md)
   - [**🐝_All_In_Commons/**](🦆_Digital_Disruption/🐝_All_In_Commons/)
     - [**💞_Hacking_Hope/**](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/)
-      - [**🏆_Civil_Sec/**](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/)
-        - [`🏟️_hackathon_league.md`](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/🏟️_hackathon_league.md)
-        - [`📓_hackathon_playbook_companion.md`](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/📓_hackathon_playbook_companion.md)
-        - [`🛡️_pentest_cup.md`](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/🛡️_pentest_cup.md)
       - [`README.md`](🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/README.md)
     - [`README.md`](🦆_Digital_Disruption/🐝_All_In_Commons/README.md)
     - [`✨_how_much_to_turn_the_stars_back_on.md`](🦆_Digital_Disruption/🐝_All_In_Commons/✨_how_much_to_turn_the_stars_back_on.md)
