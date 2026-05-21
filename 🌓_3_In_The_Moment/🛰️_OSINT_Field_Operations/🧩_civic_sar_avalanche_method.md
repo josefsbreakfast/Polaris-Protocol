@@ -1,5 +1,5 @@
 # 🧩 Civic SAR Avalanche Method  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-22 | **Last updated:** 2026-05-21  
 *A distributed, lawful stress-test for breached and opaque vendors.*  
 
 ---
@@ -152,4 +152,4 @@ It describes how coordinated, lawful SARs can be used as a public enforcement to
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-05-21_
