@@ -1,5 +1,5 @@
 # 🪖💄 What Do We Do If It’s a Charlie Foxtrot  
-**First created:** 2026-01-08 | **Last updated:** 2026-01-08  
+**First created:** 2026-01-08 | **Last updated:** 2026-05-21  
 *A calm map of options when governance is genuinely broken.*
 
 ---
@@ -205,4 +205,4 @@ You are only required to decide — proportionately — what you will do next.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-05-21_
