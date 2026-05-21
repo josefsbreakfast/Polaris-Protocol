@@ -1,5 +1,5 @@
 # 🔍 How to Trace Event Data Flows  
-**First created:** 2025-11-03 | **Last updated:** 2026-01-01  
+**First created:** 2025-11-03 | **Last updated:** 2026-05-21  
 *A decision tree for navigating SAR and FOI routes across event-based data systems.*  
 
 ---
@@ -132,4 +132,4 @@ It provides a reproducible decision framework for tracing how data moves through
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-05-21_
