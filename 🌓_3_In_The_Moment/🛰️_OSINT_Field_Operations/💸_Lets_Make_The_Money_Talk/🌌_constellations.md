@@ -1,6 +1,5 @@
-# 🌌 Constellations
-
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
+# 🌌 Constellations  
+**First created:** 2025-12-21 | **Last updated:** 2026-05-21  
 *Contextual anchors, cross-links, and intellectual lineages.*
 
 ---
@@ -196,4 +195,4 @@ And justice does not require silence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-Last updated: 2025-12-21
+_Last updated: 2026-05-21_
