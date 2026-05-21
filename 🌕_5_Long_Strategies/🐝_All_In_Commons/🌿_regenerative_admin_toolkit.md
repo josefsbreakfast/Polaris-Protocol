@@ -1,5 +1,5 @@
 # 🌿 Regenerative Admin Toolkit  
-**First created:** 2025-11-02 | **Last updated:** 2026-01-08  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *Administrative practices that heal rather than deplete.*
 
 ---
@@ -195,4 +195,4 @@ It provides practical administrative patterns that sustain people, memory, and t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-05-21_
