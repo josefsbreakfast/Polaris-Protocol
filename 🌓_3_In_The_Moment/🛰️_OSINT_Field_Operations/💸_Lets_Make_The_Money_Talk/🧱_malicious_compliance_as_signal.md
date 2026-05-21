@@ -1,6 +1,5 @@
-# 🧱 Malicious Compliance as Signal
-
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
+# 🧱 Malicious Compliance as Signal  
+**First created:** 2025-12-21 | **Last updated:** 2026-05-21  
 *When formal obedience becomes a form of resistance, leakage, or dissent.*
 
 ---
@@ -260,4 +259,4 @@ And justice does not require silence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-Last updated: 2025-12-21
+Last updated: 2026-05-21
