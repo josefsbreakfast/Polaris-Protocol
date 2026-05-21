@@ -1,5 +1,5 @@
 # ⚔️ Containment Logic — Strategy or Panic?  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2026-05-21  
 *Interpreting the 2023–25 protest clampdown as either a deliberate deterrence strategy or a cascade of bureaucratic panic.*
 
 ---
@@ -115,4 +115,4 @@ Understanding the distinction helps design accountability mechanisms that break 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated 2025-11-08_
+_Last updated 2026-05-21_
