@@ -1,5 +1,5 @@
 # 💞 Hacking Hope  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2026-05-21  
 *Civil and communal tech practices that turn experimentation into mutual aid, solidarity, and democratic repair.*
 
 ---
@@ -114,4 +114,4 @@ It documents and supports civic tech practices that resist extraction, centre ca
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-05-21_
