@@ -1,5 +1,5 @@
 # 🏏 *Test Cricket for Public Service — “You Can Watch the Game and File an FOI Between Overs”*  
-**First created:** 2025-11-02 | **Last updated:** 2026-01-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *Endurance, patience, and oversight — why democracy is a five-day game.*  
 
 ---
@@ -109,4 +109,4 @@ It reframes slow, procedural oversight as a discipline of endurance, patience, a
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-02_
+_Last updated: 2026-05-21_
