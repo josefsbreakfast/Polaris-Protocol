@@ -1,5 +1,5 @@
 # 🧩 Diaspora Repetition & Trauma-Informed Duty — Symbolic Harm in Campus Clear-Outs  
-**First created:** 2025-10-28 | **Last updated:** 2025-10-28  
+**First created:** 2025-10-28 | **Last updated:** 2026-05-21  
 *How repeated gestures from distant conflicts echo on UK campuses — and how to document them ethically and lawfully.*
 
 ---
@@ -92,4 +92,4 @@ The test is not motive but **foreseeability and proportionality** under equality
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-28_
+_Last updated: 2026-05-21_
