@@ -1,5 +1,5 @@
 # 🧿 Private Eye Bounces Back  
-**First created:** 2025-11-03 | **Last updated:** 2025-12-22  
+**First created:** 2025-11-03 | **Last updated:** 2026-05-21  
 *When Britain’s oldest satirical paper rediscovers its bite, it signals that the absurd has overtaken the official.*  
 
 ---
@@ -48,4 +48,4 @@ It records a moment when satire recovered its investigative nerve and became, on
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-14_  
+_Last updated: 2026-05-21_  
