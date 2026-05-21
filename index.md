@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 11:50:12 UTC_
+_Generated on 2026-05-21 11:54:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7106,6 +7106,13 @@ _Generated on 2026-05-21 11:50:12 UTC_
       - [`🪞_retail_shadowban_index.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🛒_Service_Blockages/🪞_retail_shadowban_index.md)
     - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/README.md)
   - [**🫁_Holistic_Health_In_Surveillant_Societies/**](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/)
+    - [**📖_literature_review_funnel/**](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/)
+      - [`README.md`](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/README.md)
+      - [`🐘_the_ghost_of_a_very_big_elephant.md`](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/🐘_the_ghost_of_a_very_big_elephant.md)
+    - [`README.md`](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/README.md)
+    - [`🌶️_WHOQOLBREF_surveillance_impact_scoring.md`](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/🌶️_WHOQOLBREF_surveillance_impact_scoring.md)
+    - [`🦅_overstimulated_prey_response.md`](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/🦅_overstimulated_prey_response.md)
+    - [`🧠_context_deprivation_effect.md`](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/🧠_context_deprivation_effect.md)
     - [`🧠_cumulative_surveillance_burden.md`](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/🧠_cumulative_surveillance_burden.md)
     - [`🧠_residual_attentional_conditioning_injury.md`](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/🧠_residual_attentional_conditioning_injury.md)
     - [`🧠_the_background_terror.md`](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/🧠_the_background_terror.md)
@@ -7536,13 +7543,5 @@ _Generated on 2026-05-21 11:50:12 UTC_
     - [`🪞_observer_reflexivity_log.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪞_observer_reflexivity_log.md)
     - [`🪩_verification_and_containment.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪩_verification_and_containment.md)
     - [`🪶_pattern_tracking_protocols.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_pattern_tracking_protocols.md)
-  - [**🫁_Holistic_Health_In_Surveillant_Societies/**](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/)
-    - [**📖_literature_review_funnel/**](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/)
-      - [`README.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/README.md)
-      - [`🐘_the_ghost_of_a_very_big_elephant.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/🐘_the_ghost_of_a_very_big_elephant.md)
-    - [`README.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/README.md)
-    - [`🌶️_WHOQOLBREF_surveillance_impact_scoring.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🌶️_WHOQOLBREF_surveillance_impact_scoring.md)
-    - [`🦅_overstimulated_prey_response.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🦅_overstimulated_prey_response.md)
-    - [`🧠_context_deprivation_effect.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_context_deprivation_effect.md)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
