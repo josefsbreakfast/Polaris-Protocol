@@ -1,5 +1,5 @@
 # 🧭 What This Is — and What It Is Not  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
+**First created:** 2026-01-05 | **Last updated:** 2026-05-21  
 *Scope, limits, and guardrails for collecting intent-adjunct OSINT material.*
 
 ---
@@ -146,4 +146,4 @@ It exists to define limits, prevent misuse, and ensure this work remains careful
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-05-21_
