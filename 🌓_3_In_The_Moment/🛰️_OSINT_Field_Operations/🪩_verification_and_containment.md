@@ -1,5 +1,5 @@
 # 🪩 Verification and Containment  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *How to confirm evidence without feeding the signal.*
 
 ---
@@ -38,4 +38,4 @@ It codifies ethical validation methods for antifascist OSINT practice.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-21_
