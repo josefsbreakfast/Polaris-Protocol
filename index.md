@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 11:55:58 UTC_
+_Generated on 2026-05-21 11:57:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7238,6 +7238,9 @@ _Generated on 2026-05-21 11:55:58 UTC_
     - [`🍄_meme_rewilding_pipelines.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🍄_meme_rewilding_pipelines.md)
     - [`🐽_sticky_scandal_effect.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🐽_sticky_scandal_effect.md)
     - [`🦎_finding_ones_chirp.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🦎_finding_ones_chirp.md)
+  - [**🛰️_OSINT_Field_Operations/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/)
+    - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/README.md)
+    - [`🛰️_foi_sar_dual_audit_protocol.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
   - [**🦉_Language_As_Attack_Surface/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/)
     - [**🧿_Parsh_Fasr/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/)
       - [`README.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/README.md)
@@ -7527,8 +7530,6 @@ _Generated on 2026-05-21 11:55:58 UTC_
     - [**🪶_Academic_Surveillance_Coup_In_Progress/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_Academic_Surveillance_Coup_In_Progress/)
       - [`🪶_descent_map_academic_surveillance_drift.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_Academic_Surveillance_Coup_In_Progress/🪶_descent_map_academic_surveillance_drift.md)
       - [`🪶_how_it_can_be_done_mechanics_osint_and_policy.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_Academic_Surveillance_Coup_In_Progress/🪶_how_it_can_be_done_mechanics_osint_and_policy.md)
-    - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/README.md)
-    - [`🛰️_foi_sar_dual_audit_protocol.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
     - [`🛰️_satellite_imagery_as_circumstantial_evidence.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md)
     - [`🛰️_vendor_blindspot_mapping.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🛰️_vendor_blindspot_mapping.md)
     - [`🧠_cognitive_safety_for_field_analysts.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧠_cognitive_safety_for_field_analysts.md)
