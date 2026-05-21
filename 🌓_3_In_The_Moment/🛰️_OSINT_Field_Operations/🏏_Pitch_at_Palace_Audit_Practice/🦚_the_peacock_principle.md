@@ -1,5 +1,5 @@
 # 🦚 The Peacock Principle  
-**First created:** 2025-11-03 | **Last updated:** 2026-01-02  
+**First created:** 2025-11-03 | **Last updated:** 2026-05-21  
 *How ceremony, spectacle, and pageantry are used to distract from institutional failure.*  
 
 ---
@@ -119,4 +119,4 @@ It documents how ceremony and pageantry are deployed as governance substitutes, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-02_
+_Last updated: 2026-05-21_
