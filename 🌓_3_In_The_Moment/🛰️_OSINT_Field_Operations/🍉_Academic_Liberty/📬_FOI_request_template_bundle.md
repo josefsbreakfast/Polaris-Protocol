@@ -1,5 +1,5 @@
 # 📬 FOI-Request Template Bundle — Sector Coordination 2024  
-**First created:** 2025-10-28 | **Last updated:** 2025-10-28  
+**First created:** 2025-10-28 | **Last updated:** 2026-05-21  
 *Reusable template pack for requesting records of sector-level coordination during the 2024 campus-encampment period.*
 
 ---
@@ -134,4 +134,4 @@ FOI templates, universities UK, OfS, AUCSO, AMOSSHE, U-MAL, Aon, sector coordina
 *This FOI-template bundle is issued for Polaris Protocol contributors documenting sector coordination and protest-response harmonisation in UK higher education (2024).*  
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-28_
+_Last updated: 2026-05-21_
