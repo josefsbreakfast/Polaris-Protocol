@@ -68,6 +68,24 @@ Interpretation should support orientation — not replace embodiment.
 
 ---
 
+## 🗺️ Pocket Map  
+
+```
+🌑 Origin Points
+        ↓
+🌓 Signs & Symptoms
+        ↓
+🌗 In The Moment
+        ↓
+🌖 Small Steps
+        ↓
+🌕 Long Strategies
+
+🏮 Admin Nest supports all layers
+```
+
+---
+
 ## 🌌 Constellations  
 🌗 ⚗️ 🌫️ 🧭 🪴 — emotional orientation; adaptive navigation; behavioural decoding; interpretive systems; live-condition literacy.
 
