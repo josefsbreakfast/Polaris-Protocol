@@ -1,5 +1,5 @@
 # 🕯️ Dignity of the Dead & Duty of Truth  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2026-05-21  
 *An ethical protocol for how states, institutions, and publics should handle the deaths of service-members, civilians, and peacekeepers — with truth, transparency, and respect.*
 
 ---
@@ -176,4 +176,4 @@ The node proposes minimal procedural standards for transparency in loss and invi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated 2025-11-08_
+_Last updated 2026-05-21_
