@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 17:58:44 UTC_
+_Generated on 2026-05-21 18:04:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7328,6 +7328,17 @@ _Generated on 2026-05-21 17:58:44 UTC_
       - [`🧱_malicious_compliance_as_signal.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🧱_malicious_compliance_as_signal.md)
       - [`🪼_who_had_their_voice_stolen.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🪼_who_had_their_voice_stolen.md)
       - [`🫡_governance_and_moderation.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/💸_Lets_Make_The_Money_Talk/🫡_governance_and_moderation.md)
+    - [**🔮_Polishing_Big_Balls/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/)
+      - [`🍹_comparison_grid_template.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🍹_comparison_grid_template.md)
+      - [`👻_when_systems_get_weird.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/👻_when_systems_get_weird.md)
+      - [`💎_when_compliance_is_the_answer.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/💎_when_compliance_is_the_answer.md)
+      - [`📿_stop_points_and_self_care.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/📿_stop_points_and_self_care.md)
+      - [`🔥_risk_events_near_misses_explained.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🔥_risk_events_near_misses_explained.md)
+      - [`🗺_checking_a_public_data_service.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🗺_checking_a_public_data_service.md)
+      - [`🛸_why_this_is_boring_and_thats_good.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🛸_why_this_is_boring_and_thats_good.md)
+      - [`🧭_controller_vs_processor_quick_map.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🧭_controller_vs_processor_quick_map.md)
+      - [`🧿_dual_dpia_for_data_deals.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🧿_dual_dpia_for_data_deals.md)
+      - [`🪖💄_what_do_we_do_if_its_a_charlie_foxtrot.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🪖💄_what_do_we_do_if_its_a_charlie_foxtrot.md)
     - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/README.md)
     - [`🛰️_foi_sar_dual_audit_protocol.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
     - [`🛰️_satellite_imagery_as_circumstantial_evidence.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md)
@@ -7490,16 +7501,6 @@ _Generated on 2026-05-21 17:58:44 UTC_
         - [`🏵_language_to_avoid_when_tired.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🔖_notes/🏵_language_to_avoid_when_tired.md)
         - [`🪻_language_to_use_when_calm.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🔖_notes/🪻_language_to_use_when_calm.md)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/README.md)
-      - [`🍹_comparison_grid_template.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🍹_comparison_grid_template.md)
-      - [`👻_when_systems_get_weird.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/👻_when_systems_get_weird.md)
-      - [`💎_when_compliance_is_the_answer.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/💎_when_compliance_is_the_answer.md)
-      - [`📿_stop_points_and_self_care.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/📿_stop_points_and_self_care.md)
-      - [`🔥_risk_events_near_misses_explained.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🔥_risk_events_near_misses_explained.md)
-      - [`🗺_checking_a_public_data_service.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🗺_checking_a_public_data_service.md)
-      - [`🛸_why_this_is_boring_and_thats_good.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🛸_why_this_is_boring_and_thats_good.md)
-      - [`🧭_controller_vs_processor_quick_map.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🧭_controller_vs_processor_quick_map.md)
-      - [`🧿_dual_dpia_for_data_deals.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🧿_dual_dpia_for_data_deals.md)
-      - [`🪖💄_what_do_we_do_if_its_a_charlie_foxtrot.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🔮_Polishing_Big_Balls/🪖💄_what_do_we_do_if_its_a_charlie_foxtrot.md)
     - [**🕊️_War_Or_Peace/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/README.md)
       - [`⚔️_containment_logic_strategy_or_panic.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🕊️_War_Or_Peace/⚔️_containment_logic_strategy_or_panic.md)
