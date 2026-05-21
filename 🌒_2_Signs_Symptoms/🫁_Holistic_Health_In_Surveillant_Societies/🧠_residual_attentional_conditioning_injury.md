@@ -1,5 +1,5 @@
 # 🧠 Residual Attentional Conditioning Injury
-**First created:** 2026-01-06 | **Last updated:** 2026-01-06  
+**First created:** 2026-01-06 | **Last updated:** 2026-05-21  
 *Proposed mechanistic construct for persistent attentional capture + downstream circadian and neurometabolic disruption following prolonged unpredictable salience exposure.*
 
 ---
@@ -240,4 +240,4 @@ It proposes a mechanism-first construct for persistent attentional capture with 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-05-21_
