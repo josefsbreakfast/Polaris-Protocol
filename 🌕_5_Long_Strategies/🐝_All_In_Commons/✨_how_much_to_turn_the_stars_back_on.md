@@ -1,5 +1,5 @@
 # ✨ How Much to Turn the Stars Back On  
-**First created:** 2025-12-29 | **Last updated:** 2026-05-04  
+**First created:** 2025-12-29 | **Last updated:** 2026-05-21  
 *What it would cost — and what it would give back — to design night for human nervous systems again*
 
 ---
@@ -260,4 +260,4 @@ It situates public lighting as commons infrastructure, linking energy efficiency
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-04_
+_Last updated: 2026-05-21_
