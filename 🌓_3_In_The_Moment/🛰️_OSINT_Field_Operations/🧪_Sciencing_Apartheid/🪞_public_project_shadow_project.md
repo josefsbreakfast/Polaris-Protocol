@@ -1,5 +1,5 @@
 # 🪞 The Public Project and the Shadow Project  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
+**First created:** 2025-11-07 | **Last updated:** 2026-05-21  
 *A conceptual and evidentiary node describing how dual-layer research collaborations operate — the “shopfront” and the “restricted back room.”*
 
 ---
@@ -96,4 +96,4 @@ It is written to aid civic investigators, scholars, and policymakers in recognis
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
+_Last updated: 2026-05-21_
