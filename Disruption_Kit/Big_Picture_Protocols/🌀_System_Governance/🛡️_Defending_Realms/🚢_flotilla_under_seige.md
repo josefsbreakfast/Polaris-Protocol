@@ -760,7 +760,8 @@ The argument therefore becomes:
 - [📰: The Guardian: "Outrage grows over treatment of Gaza flotilla activists; US boards Iranian oil tanker – Middle East crisis as it happened"](https://www.theguardian.com/world/live/2026/may/20/us-iran-israel-lebanon-gaza-trump-oil-hormuz-latest-news-updates?filterKeyEvents=false)
 - [📰: AlJazeera: "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers"](https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers)
 - [📰: CNN: "Video showing far-right Israeli minister taunting Gaza flotilla activists sparks global outcry"](https://edition.cnn.com/2026/05/20/middleeast/israel-flotilla-gaza-ben-gvir-videos-latam-intl)
-- [📹: Sky News: "Israel's national security minister sparked backlash at home and abroad after posting videos showing him taunting detained Gaza flotilla activists, prompting a public rebuke from Prime Minister Benjamin Netanyahu."](https://vm.tiktok.com/ZNRt3wc8A/)  
+- [📹: Sky News: "Israel's national security minister sparked backlash at home and abroad after posting videos showing him taunting detained Gaza flotilla activists, prompting a public rebuke from Prime Minister Benjamin Netanyahu."](https://vm.tiktok.com/ZNRt3wc8A/)
+- [📹: NewsBaba: "Ben Gvir Video of Gaza Flotilla Activists Has Set Fire To Western Politics & Media"](https://vm.tiktok.com/ZNRtEh56g/)  
 
 *So yes, the prisoners being humiliated in public? They almost certainly include British subjects. Where is the Prime Minister? Where is the Crown? Where are The Patriots™️?*  
 
