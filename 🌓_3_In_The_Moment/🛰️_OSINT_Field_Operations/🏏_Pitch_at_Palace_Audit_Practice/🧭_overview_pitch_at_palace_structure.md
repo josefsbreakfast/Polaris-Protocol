@@ -1,5 +1,5 @@
 # 🧭 Overview — Pitch @ Palace Structure  
-**First created:** 2025-11-02 | **Last updated:** 2026-01-01  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *How a prestige platform operated as a private structure with public aura and minimal oversight.*
 
 ---
@@ -136,4 +136,4 @@ It provides a structural map of how the Pitch @ Palace platform was constituted,
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-05-21_
