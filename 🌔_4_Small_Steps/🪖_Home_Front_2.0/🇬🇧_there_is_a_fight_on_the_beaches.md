@@ -1,5 +1,5 @@
 # 🇬🇧 There is a fight on the beaches  
-**First created:** 2026-01-14 | **Last updated:** 2026-01-14  
+**First created:** 2026-01-14 | **Last updated:** 2026-05-21  
 *Why the United Kingdom is already inside an information war — and why pretending otherwise is surrender*
 
 ---
@@ -339,4 +339,4 @@ It reframes historic British resistance rhetoric for a digital, transnational co
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-14_
+_Last updated: 2026-05-21_
