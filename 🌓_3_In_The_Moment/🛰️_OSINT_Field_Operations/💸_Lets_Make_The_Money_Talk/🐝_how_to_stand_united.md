@@ -1,6 +1,5 @@
-# 🐝 How to Stand United
-
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
+# 🐝 How to Stand United  
+**First created:** 2025-12-21 | **Last updated:** 2026-05-21  
 *Maintaining a united front without erasing difference or escalating harm.*
 
 ---
@@ -194,4 +193,4 @@ And justice does not require silence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-Last updated: 2025-12-21
+Last updated: 2026-05-21
