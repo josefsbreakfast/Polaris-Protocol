@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 11:37:07 UTC_
+_Generated on 2026-05-21 11:39:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7276,6 +7276,11 @@ _Generated on 2026-05-21 11:37:07 UTC_
     - [`README.md`](🌔_4_Small_Steps/🐘_Reply_All/README.md)
     - [`🧿_private_eye_bounces_back.md`](🌔_4_Small_Steps/🐘_Reply_All/🧿_private_eye_bounces_back.md)
     - [`🧿_sassi_as_counter_surveillance_accountability.md`](🌔_4_Small_Steps/🐘_Reply_All/🧿_sassi_as_counter_surveillance_accountability.md)
+  - [**🐥_Surviving_Bargain_Bin_Mossad/**](🌔_4_Small_Steps/🐥_Surviving_Bargain_Bin_Mossad/)
+    - [`README.md`](🌔_4_Small_Steps/🐥_Surviving_Bargain_Bin_Mossad/README.md)
+    - [`✂️_red_tape_removal.md`](🌔_4_Small_Steps/🐥_Surviving_Bargain_Bin_Mossad/✂️_red_tape_removal.md)
+    - [`📲_algorithmic_decisions.md`](🌔_4_Small_Steps/🐥_Surviving_Bargain_Bin_Mossad/📲_algorithmic_decisions.md)
+    - [`🥡_bring_food.md`](🌔_4_Small_Steps/🐥_Surviving_Bargain_Bin_Mossad/🥡_bring_food.md)
   - [**🖍️_Art_As_Attack/**](🌔_4_Small_Steps/🖍️_Art_As_Attack/)
     - [`README.md`](🌔_4_Small_Steps/🖍️_Art_As_Attack/README.md)
   - [**🦆_Digital_Disruption/**](🌔_4_Small_Steps/🦆_Digital_Disruption/)
@@ -7339,11 +7344,6 @@ _Generated on 2026-05-21 11:37:07 UTC_
   - [`README.md`](🏮_Admin_Nest/README.md)
   - [`notes.txt`](🏮_Admin_Nest/notes.txt)
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
-  - [**🐥_Surviving_Bargain_Bin_Mossad/**](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/)
-    - [`README.md`](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/README.md)
-    - [`✂️_red_tape_removal.md`](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/✂️_red_tape_removal.md)
-    - [`📲_algorithmic_decisions.md`](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/📲_algorithmic_decisions.md)
-    - [`🥡_bring_food.md`](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/🥡_bring_food.md)
   - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
     - [**🍉_Academic_Liberty/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/README.md)
