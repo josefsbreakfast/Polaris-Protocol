@@ -1,5 +1,5 @@
 # 🌦️ For and Against Cloudbusting  
-**First created:** 2026-05-02 | **Last updated:** 2026-05-04  
+**First created:** 2026-05-02 | **Last updated:** 2026-05-21  
 *Evaluation of civilian experimentation on shared systems through the lens of cloudbusting as a threshold case.*
 
 ---
@@ -171,4 +171,4 @@ It defines the threshold at which civilian experimentation transitions into shar
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-04_
+_Last updated: 2026-05-21_
