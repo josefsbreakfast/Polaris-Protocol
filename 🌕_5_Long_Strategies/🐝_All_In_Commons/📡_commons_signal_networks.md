@@ -1,5 +1,5 @@
 # 📡 Commons Signal Networks  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *Distributed communications infrastructure for cooperative autonomy.*
 
 ---
@@ -37,4 +37,4 @@ It documents cooperative communication systems for autonomy and care.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-21_
