@@ -1,5 +1,5 @@
 # 🪞 Observer Reflexivity Log  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *A structured reflective log for bias awareness in field investigation.*
 
 ---
@@ -38,4 +38,4 @@ It maintains ethical awareness and self-calibration in investigative work.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-21_
