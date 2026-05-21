@@ -1,5 +1,5 @@
 # 🌐 Academic Partnership Architecture — How International University Networks Work  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
+**First created:** 2025-11-07 | **Last updated:** 2026-05-21  
 *A reference node explaining the multi‑layered structure behind foreign academic partnerships with UK institutions.*  
 
 ---
@@ -16,19 +16,18 @@ This structure makes collaboration possible but also obscures accountability —
 
 ```mermaid
 graph TD
-  A[Foreign Ministry<br>(Education/Science/Foreign Affairs)] --> B[Embassy / High Commission in UK]
+  A[Foreign Ministry eg Education/Science/Foreign Affairs] --> B[Embassy / High Commission in UK]
   B --> C[Science & Education Attaché]
-  C --> D[British Council / Bilateral Fund<br>(e.g., Newton Fund, UKIERI, UK–Israel Science Council)]
-  D --> E[UK Government Dept.<br>(DSIT / FCDO / Home Office)]
+  C --> D[British Council or Bilateral Fund eg Newton Fund, UKIERI, UK–Israel Science Council]
+  D --> E[UK Government Dept ie DSIT / FCDO / Home Office]
   D --> F[UK University Global Engagement Office]
   F --> G[University Faculties & Research Centres]
   G --> H[Individual Projects / MOUs / Students]
-  F --> I[Universities UK International (UUKi)]
+  F --> I[Universities UK International UUKi]
   B --> J[Innovation or Trade Office / Cultural Attaché]
   A --> K[Home‑Country University / Research Council]
   K --> F
-  style A fill:#f0f0f0,stroke:#555,stroke-width:1px
-  style E fill:#f0f0f0,stroke:#555,stroke-width:1px
+
 ```
 
 Each node represents a recurring institutional actor in bilateral academic cooperation.  
@@ -97,4 +96,4 @@ It provides a structural lens for analysing where diplomacy ends and operational
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑07_
+_Last updated: 2026-05-21_
