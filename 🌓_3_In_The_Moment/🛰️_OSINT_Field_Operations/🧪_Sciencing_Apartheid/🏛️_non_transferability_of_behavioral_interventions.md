@@ -1,5 +1,5 @@
 # 🏛️ Non-Transferability of Behavioural Interventions  
-**First created:** 2025-11-08 | **Last updated:** 2026-04-22  
+**First created:** 2025-11-08 | **Last updated:** 2026-05-21  
 *Why behavioural tools cannot ethically or neurologically transfer from domestic justice to occupied contexts.*  
 
 ---
@@ -68,4 +68,4 @@ It clarifies why behavioural interventions collapse when moved across legality a
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated:2026-04-22_
+_Last updated: 2026-05-21_
