@@ -1,6 +1,5 @@
-# ☎️ Maintenance and Stewardship
-
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
+# ☎️ Maintenance and Stewardship  
+**First created:** 2025-12-21 | **Last updated:** 2026-05-21  
 *Keeping the work usable, ethical, and intact over time.*
 
 ---
@@ -180,4 +179,4 @@ And justice does not require silence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-Last updated: 2025-12-21
+_Last updated: 2026-05-21_
