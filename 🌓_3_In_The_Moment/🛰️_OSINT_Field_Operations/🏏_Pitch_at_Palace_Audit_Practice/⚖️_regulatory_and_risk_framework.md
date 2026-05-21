@@ -1,5 +1,5 @@
 # ⚖️ Regulatory and Risk Framework — Pitch @ Palace  
-**First created:** 2025-11-02 | **Last updated:** 2026-01-01  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *Why royal-adjacent investment platforms sit inside elevated compliance and risk classifications.*  
 
 ---
@@ -127,4 +127,4 @@ It provides a non-allegational compliance map for analysing prestige-linked inve
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-05-21_
