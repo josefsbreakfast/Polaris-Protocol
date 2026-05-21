@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 11:34:45 UTC_
+_Generated on 2026-05-21 11:37:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7276,6 +7276,10 @@ _Generated on 2026-05-21 11:34:45 UTC_
     - [`README.md`](🌔_4_Small_Steps/🐘_Reply_All/README.md)
     - [`🧿_private_eye_bounces_back.md`](🌔_4_Small_Steps/🐘_Reply_All/🧿_private_eye_bounces_back.md)
     - [`🧿_sassi_as_counter_surveillance_accountability.md`](🌔_4_Small_Steps/🐘_Reply_All/🧿_sassi_as_counter_surveillance_accountability.md)
+  - [**🖍️_Art_As_Attack/**](🌔_4_Small_Steps/🖍️_Art_As_Attack/)
+    - [`README.md`](🌔_4_Small_Steps/🖍️_Art_As_Attack/README.md)
+  - [**🦆_Digital_Disruption/**](🌔_4_Small_Steps/🦆_Digital_Disruption/)
+    - [`README.md`](🌔_4_Small_Steps/🦆_Digital_Disruption/README.md)
   - [`README.md`](🌔_4_Small_Steps/README.md)
 - [**🌕_5_Long_Strategies/**](🌕_5_Long_Strategies/)
   - [**❤️‍🩹_Rehabilitated_Tech/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/)
@@ -7340,8 +7344,6 @@ _Generated on 2026-05-21 11:34:45 UTC_
     - [`✂️_red_tape_removal.md`](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/✂️_red_tape_removal.md)
     - [`📲_algorithmic_decisions.md`](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/📲_algorithmic_decisions.md)
     - [`🥡_bring_food.md`](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/🥡_bring_food.md)
-  - [**🖍️_Art_As_Attack/**](🦆_Digital_Disruption/🖍️_Art_As_Attack/)
-    - [`README.md`](🦆_Digital_Disruption/🖍️_Art_As_Attack/README.md)
   - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
     - [**🍉_Academic_Liberty/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/README.md)
@@ -7541,7 +7543,5 @@ _Generated on 2026-05-21 11:34:45 UTC_
     - [`🧠_cumulative_surveillance_burden.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_cumulative_surveillance_burden.md)
     - [`🧠_residual_attentional_conditioning_injury.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_residual_attentional_conditioning_injury.md)
     - [`🧠_the_background_terror.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_the_background_terror.md)
-  - [`README.md`](🦆_Digital_Disruption/README.md)
-  - [`notes.txt`](🦆_Digital_Disruption/notes.txt)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
