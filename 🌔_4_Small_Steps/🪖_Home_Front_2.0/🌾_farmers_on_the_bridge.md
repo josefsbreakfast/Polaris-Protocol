@@ -1,5 +1,5 @@
 # 🌾 Farmers on the bridge  
-**First created:** 2026-01-14 | **Last updated:** 2026-01-14  
+**First created:** 2026-01-14 | **Last updated:** 2026-05-21  
 *How agrarian betrayal fractures racial loyalty guarantees and creates bridge coalitions under authoritarian pressure*
 
 ---
@@ -171,4 +171,4 @@ It documents a structural break in governance legitimacy where racial hierarchy,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-14_
+_Last updated: 2026-05-21_
