@@ -1,5 +1,5 @@
 # 📊 Baseline vs Anomaly Logic  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
+**First created:** 2026-01-05 | **Last updated:** 2026-05-21  
 *How normal professional risk is distinguished from abnormal pressure.*
 
 ---
@@ -91,4 +91,4 @@ It defines how abnormal pressure is distinguished from ordinary professional ris
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-05-21_
