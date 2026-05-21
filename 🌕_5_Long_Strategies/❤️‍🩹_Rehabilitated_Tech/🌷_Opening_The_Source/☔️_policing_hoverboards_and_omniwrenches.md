@@ -1,5 +1,5 @@
 # ☔️ Policing Hoverboards and Omniwrenches  
-**First created:** 2026-05-02 | **Last updated:** 2026-05-04  
+**First created:** 2026-05-02 | **Last updated:** 2026-05-21  
 *Frameworks for governing emerging civilian technologies that vary in impact, legibility, and power.*
 
 ---
@@ -146,4 +146,4 @@ It defines how emerging technologies are classified, constrained, and integrated
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-04_
+_Last updated: 2026-05-21_
