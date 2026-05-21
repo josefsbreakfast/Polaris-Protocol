@@ -1,5 +1,5 @@
 # 🪡 Make-and-Mend Republic — Intergenerational Repair for Hard Times
-**First created:** 2025-10-28 | **Last updated:** 2025-10-28  
+**First created:** 2025-10-28 | **Last updated:** 2026-05-21  
 *How to rebuild dignity, thrift, and solidarity — one stitch and one swap at a time.*
 
 ---
@@ -73,4 +73,4 @@ make and mend, intergenerational learning, community resilience, cost of living,
 > - 🌍 *Why It All Matters — Shared Epilogue* (../🌍_why_it_all_matters_shared_epilogue.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-28_
+_Last updated: 2026-05-21_
