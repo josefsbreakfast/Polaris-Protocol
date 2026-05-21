@@ -1,5 +1,5 @@
 # 🧬 Signal Anomaly Classification  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *Taxonomy of irregular data signatures within civic information systems.*
 
 ---
@@ -37,4 +37,4 @@ It structures language for identifying manipulation patterns in civic data.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-21_
