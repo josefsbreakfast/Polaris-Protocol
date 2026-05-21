@@ -1,7 +1,6 @@
-# ♨️ Heat Management
-
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
-*Preventing escalation, burnout, and self-sabotage under sustained pressure.*
+# ♨️ Heat Management  
+**First created:** 2025-12-21 | **Last updated:** 2026-05-21  
+*Preventing escalation, burnout, and self-sabotage under sustained pressure.*  
 
 ---
 
