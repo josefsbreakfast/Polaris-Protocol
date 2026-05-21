@@ -1,5 +1,5 @@
 # 🦑 Kraken Emergency Governance Activation Protocol  
-**First created:** 2026-01-23 | **Last updated:** 2026-01-23  
+**First created:** 2026-01-23 | **Last updated:** 2026-05-21  
 *Activating emergency governance when AI-affected systems pose preventative-death and systemic risk*
 
 ---
@@ -264,4 +264,4 @@ It defines how UK governance systems must temporarily reconfigure to prevent har
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-23_
+_Last updated: 2026-05-21_
