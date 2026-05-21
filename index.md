@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 17:35:52 UTC_
+_Generated on 2026-05-21 17:38:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7286,9 +7286,12 @@ _Generated on 2026-05-21 17:35:52 UTC_
     - [**🏛️_Civil_Security/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/)
       - [**🎿_Routes_Overview_Piste_Map/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/)
         - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/README.md)
-      - [`⚫️💎_black_diamond_route_expert_integrity_ops.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/⚫️💎_black_diamond_route_expert_integrity_ops.md)
-      - [`🔴_red_route_advanced_structural_investigation.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🔴_red_route_advanced_structural_investigation.md)
-      - [`🔵_blue_route_intermediate_local_capture_osint.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🔵_blue_route_intermediate_local_capture_osint.md)
+        - [`⚫️💎_black_diamond_route_expert_integrity_ops.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/⚫️💎_black_diamond_route_expert_integrity_ops.md)
+        - [`🔴_red_route_advanced_structural_investigation.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/🔴_red_route_advanced_structural_investigation.md)
+        - [`🔵_blue_route_intermediate_local_capture_osint.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/🔵_blue_route_intermediate_local_capture_osint.md)
+        - [`🟢_green_route_basic_civic_osint.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/🟢_green_route_basic_civic_osint.md)
+      - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/README.md)
+      - [`📜_how_mous_hide_in_plain_sight.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/📜_how_mous_hide_in_plain_sight.md)
     - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/README.md)
     - [`🛰️_foi_sar_dual_audit_protocol.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
     - [`🛰️_satellite_imagery_as_circumstantial_evidence.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md)
@@ -7434,10 +7437,6 @@ _Generated on 2026-05-21 17:35:52 UTC_
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
   - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
     - [**🏛️_Civil_Security/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/)
-      - [**🎿_Routes_Overview_Piste_Map/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/)
-        - [`🟢_green_route_basic_civic_osint.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🎿_Routes_Overview_Piste_Map/🟢_green_route_basic_civic_osint.md)
-      - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/README.md)
-      - [`📜_how_mous_hide_in_plain_sight.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/📜_how_mous_hide_in_plain_sight.md)
       - [`📡_reform_and_local_capture_osint_brief.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/📡_reform_and_local_capture_osint_brief.md)
       - [`🚨_civil_disorder_response_and_governance_single_points_of_failure.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏛️_Civil_Security/🚨_civil_disorder_response_and_governance_single_points_of_failure.md)
     - [**👾_Chan_Style_Petitioning/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/👾_Chan_Style_Petitioning/)
