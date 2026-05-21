@@ -1,5 +1,5 @@
 # 📗 SAR: Inferred & Derived Data Request  
-**First created:** 2026-01-08 | **Last updated:** 2026-01-08  
+**First created:** 2026-01-08 | **Last updated:** 2026-05-21  
 *A specific Subject Access Request covering profiles, inference, and metadata.*
 
 ---
