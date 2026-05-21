@@ -317,7 +317,7 @@ harassment swarming, dogpiling, pile-on dynamics, collective escalation, crowd h
 
 ## 🏮 Footer  
 
-*Harassment Swarming* is a living node of the Polaris Protocol.  
+*📣 Harassment Swarming* is a living node of the Polaris Protocol.  
 It contributes to the archive by examining crowd-convergent escalation systems, recursive outrage amplification dynamics, and the behavioural consequences of platform architectures optimised for visible collective hostility.  
 
 > 📡 Cross-references:
