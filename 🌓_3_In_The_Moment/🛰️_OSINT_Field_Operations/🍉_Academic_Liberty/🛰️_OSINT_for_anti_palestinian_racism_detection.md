@@ -1,5 +1,5 @@
 # 🛰️ OSINT for Anti-Palestinian Racism Detection — Using Social Media Responsibly  
-**First created:** 2025-10-28 | **Last updated:** 2025-10-28  
+**First created:** 2025-10-28 | **Last updated:** 2026-05-21  
 *Practical, ethical guidance for using open-source social-media methods to surface patterns of anti-Palestinian racism, coordinated harassment, and signalling — without amplifying harm or doxxing individuals.*
 
 ---
@@ -129,4 +129,4 @@ OSINT, social media, anti-Palestinian racism, harassment, doxxing, archive, ethi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-28_
+_Last updated: 2026-05-21_
