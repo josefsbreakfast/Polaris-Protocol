@@ -1,5 +1,5 @@
 # 🪻 Language to Use When Calm  
-**First created:** 2026-01-08 | **Last updated:** 2026-01-08  
+**First created:** 2026-01-08 | **Last updated:** 2026-05-21  
 *Phrases that keep requests legible, proportionate, and low-friction.*
 
 ---
@@ -74,4 +74,4 @@ Boring is good.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-05-21_
