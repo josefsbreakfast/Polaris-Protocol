@@ -1,5 +1,5 @@
 # 📚 Libraries, Metrics, and the One-Book Civic Hack
-**First created:** 2025-10-28 | **Last updated:** 2026-01-08  
+**First created:** 2025-10-28 | **Last updated:** 2026-05-21  
 *How to understand and tactically nourish your local library’s data ecosystem.*
 
 ---
@@ -129,4 +129,4 @@ libraries, public data, behavioural metrics, civic literacy, social credit, aust
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-05-21_
