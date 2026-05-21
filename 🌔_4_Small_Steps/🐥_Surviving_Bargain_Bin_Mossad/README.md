@@ -1,5 +1,5 @@
 # 🐥 Surviving “Bargain-Bin Mossad”
-**First created:** 2026-01-14 | **Last updated:** 2026-01-14  
+**First created:** 2026-01-14 | **Last updated:** 2026-05-21  
 *Why supporting people targeted by Canary-Mission–style blacklists is not betrayal, not softness, and not optional*
 
 ---
@@ -615,4 +615,4 @@ It exists to clarify moral boundaries around digital intimidation and to support
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-14_
+_Last updated: 2026-05-21_
