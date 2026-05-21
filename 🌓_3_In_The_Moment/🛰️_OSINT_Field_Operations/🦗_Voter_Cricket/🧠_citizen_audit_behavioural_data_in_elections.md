@@ -1,5 +1,5 @@
 # 🧠 Citizen Audit — Behavioural Data in Elections  
-**First created:** 2025-10-19 | **Last updated:** 2025-12-15  
+**First created:** 2025-10-19 | **Last updated:** 2026-05-21  
 *A field-ready OSINT template for journalists, researchers, and local citizens to examine data use and behavioural targeting in UK elections.*  
 
 ---
@@ -92,4 +92,4 @@ It equips local journalists and citizens with reproducible tools to trace data u
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-05-21_
