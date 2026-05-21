@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 18:27:11 UTC_
+_Generated on 2026-05-21 18:30:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7385,6 +7385,9 @@ _Generated on 2026-05-21 18:27:11 UTC_
       - [`🧩_socioeconomic_clusters_of_reform_support.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🦗_Voter_Cricket/🧩_socioeconomic_clusters_of_reform_support.md)
     - [**🧪_Sciencing_Apartheid/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/)
       - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/README.md)
+      - [`🌐_academic_partnership_architecture.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🌐_academic_partnership_architecture.md)
+      - [`🏛️_non_transferability_of_behavioral_interventions.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🏛️_non_transferability_of_behavioral_interventions.md)
+      - [`🔍_search_protocol_bilateral_funding_phrase_mapping.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🔍_search_protocol_bilateral_funding_phrase_mapping.md)
     - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/README.md)
     - [`🛰️_foi_sar_dual_audit_protocol.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
     - [`🛰️_satellite_imagery_as_circumstantial_evidence.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md)
@@ -7530,9 +7533,6 @@ _Generated on 2026-05-21 18:27:11 UTC_
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
   - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
     - [**🧪_Sciencing_Apartheid/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/)
-      - [`🌐_academic_partnership_architecture.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🌐_academic_partnership_architecture.md)
-      - [`🏛️_non_transferability_of_behavioral_interventions.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🏛️_non_transferability_of_behavioral_interventions.md)
-      - [`🔍_search_protocol_bilateral_funding_phrase_mapping.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🔍_search_protocol_bilateral_funding_phrase_mapping.md)
       - [`🛰️_elbit_systems_uk_labour_linkage_map.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🛰️_elbit_systems_uk_labour_linkage_map.md)
       - [`🛰️_unnamed_IDF_targeting_LLM_2025_casefile.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🛰️_unnamed_IDF_targeting_LLM_2025_casefile.md)
       - [`🧨_dual_use_epiphany.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🧨_dual_use_epiphany.md)
