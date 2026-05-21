@@ -1,5 +1,5 @@
 # 🪶 Quiet Resistance Primer  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *A field guide for everyday antifascism.*
 
 ---
@@ -38,4 +38,4 @@ It teaches antifascist continuity through subtle and sustainable acts of care.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-21_
