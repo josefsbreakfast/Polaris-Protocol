@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 17:07:49 UTC_
+_Generated on 2026-05-21 17:09:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7262,6 +7262,8 @@ _Generated on 2026-05-21 17:07:49 UTC_
         - [`🧬_pattern_and_deviation_analysis.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/🧬_pattern_and_deviation_analysis.md)
       - [**🧭_orientation_and_guardrails/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/)
         - [`⚖️_contextual_evidence_and_intent.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/⚖️_contextual_evidence_and_intent.md)
+        - [`🔐_risk_and_hygiene_basics.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/🔐_risk_and_hygiene_basics.md)
+        - [`🧭_what_this_is_and_is_not.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/🧭_what_this_is_and_is_not.md)
       - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/README.md)
     - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/README.md)
     - [`🛰️_foi_sar_dual_audit_protocol.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
@@ -7407,10 +7409,6 @@ _Generated on 2026-05-21 17:07:49 UTC_
   - [`notes.txt`](🏮_Admin_Nest/notes.txt)
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
   - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
-    - [**🍉_Collecting_Intent_Adjunct_Material/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/)
-      - [**🧭_orientation_and_guardrails/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/)
-        - [`🔐_risk_and_hygiene_basics.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/🔐_risk_and_hygiene_basics.md)
-        - [`🧭_what_this_is_and_is_not.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/🧭_what_this_is_and_is_not.md)
     - [**🍯_Finding_HoneyBot/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/)
       - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/README.md)
       - [`🐝_audit_stinger.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/🐝_audit_stinger.md)
