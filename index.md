@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 11:14:54 UTC_
+_Generated on 2026-05-21 11:20:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7274,6 +7274,14 @@ _Generated on 2026-05-21 11:14:54 UTC_
 - [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
   - [`README.md`](🌔_4_Small_Steps/README.md)
 - [**🌕_5_Long_Strategies/**](🌕_5_Long_Strategies/)
+  - [**❤️‍🩹_Rehabilitated_Tech/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/)
+    - [**🤖_AI_Beyond_AI/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/)
+      - [`README.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/README.md)
+      - [`🐧_ai_as_conservator_assistant.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🐧_ai_as_conservator_assistant.md)
+    - [`README.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/README.md)
+    - [`💎_therapeutic_sandbox.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/💎_therapeutic_sandbox.md)
+    - [`💧_sludgy_solutions.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/💧_sludgy_solutions.md)
+    - [`🪖_touching_grass.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🪖_touching_grass.md)
   - [**🐝_All_In_Commons/**](🌕_5_Long_Strategies/🐝_All_In_Commons/)
     - [**💞_Hacking_Hope/**](🌕_5_Long_Strategies/🐝_All_In_Commons/💞_Hacking_Hope/)
       - [**🏆_Civil_Sec/**](🌕_5_Long_Strategies/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/)
@@ -7321,16 +7329,10 @@ _Generated on 2026-05-21 11:14:54 UTC_
       - [`🩼_let_us_make_crutches.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🩼_let_us_make_crutches.md)
       - [`🪏_right_to_repair_economic_good.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🪏_right_to_repair_economic_good.md)
     - [**🤖_AI_Beyond_AI/**](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/)
-      - [`README.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/README.md)
-      - [`🐧_ai_as_conservator_assistant.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🐧_ai_as_conservator_assistant.md)
       - [`😻_gateways_through_womens_health.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/😻_gateways_through_womens_health.md)
       - [`🧬_neural_network_remodelling_gynaecology.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🧬_neural_network_remodelling_gynaecology.md)
       - [`🩰_crafting_datacentre_balance.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🩰_crafting_datacentre_balance.md)
       - [`🩸_ai_in_violence_prevention.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🩸_ai_in_violence_prevention.md)
-    - [`README.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/README.md)
-    - [`💎_therapeutic_sandbox.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/💎_therapeutic_sandbox.md)
-    - [`💧_sludgy_solutions.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/💧_sludgy_solutions.md)
-    - [`🪖_touch_grass_reembedding_technology_in_the_physical_world.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🪖_touch_grass_reembedding_technology_in_the_physical_world.md)
   - [**🐘_Reply_All/**](🦆_Digital_Disruption/🐘_Reply_All/)
     - [`README.md`](🦆_Digital_Disruption/🐘_Reply_All/README.md)
     - [`🧿_private_eye_bounces_back.md`](🦆_Digital_Disruption/🐘_Reply_All/🧿_private_eye_bounces_back.md)
