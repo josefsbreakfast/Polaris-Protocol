@@ -1,5 +1,5 @@
 # 🇬🇧 UK Budget OSINT Checklist — Full Explicit Version  
-**First created:** 2025-11-29 | **Last updated:** 2025-11-29  
+**First created:** 2025-11-29 | **Last updated:** 2026-05-21  
 *A forensic checklist for detecting whether the UK absorbed Israeli October 2025 war-budget bond exposure via public accounts.*
 
 ---
@@ -128,4 +128,4 @@ This checklist operationalises a high-resolution OSINT audit for determining whe
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-29_
+_Last updated: 2026-05-21_
