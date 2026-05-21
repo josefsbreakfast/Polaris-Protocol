@@ -1,5 +1,5 @@
 # 🍉 Academic Liberty — Encampments 2024 Mini‑Dossier  
-**First created:** 2025-10-28 | **Last updated:** 2025-10-28  
+**First created:** 2025-10-28 | **Last updated:** 2026-05-21  
 *Clustering source notes, evidence logs, and sector‑coordination analysis around UK university encampment responses (Spring–Summer 2024).*
 
 ---
@@ -86,4 +86,4 @@ encampments 2024, protest governance, possession orders, engagement chronology, 
 *🍉 Academic Liberty — Encampments 2024 Mini‑Dossier* is a living hub within Polaris for documenting protest‑response governance in UK higher education.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-28_
+_Last updated: 2026-05-21_
