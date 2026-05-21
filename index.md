@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 23:36:25 UTC_
+_Generated on 2026-05-21 23:37:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6841,7 +6841,6 @@ _Generated on 2026-05-21 23:36:25 UTC_
         - [`📦_sweep_sequence_aug_11-13.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/📦_sweep_sequence_aug_11-13.md)
         - [`🧯_harm_scan_report.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/🧯_harm_scan_report.md)
         - [`🧯_sweep_harm_log_2025-08-17.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/🧯_sweep_harm_log_2025-08-17.md)
-    - [`README.md`](Polaris_Nest/🏮_Admin_Kit/README.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
@@ -7536,6 +7535,7 @@ _Generated on 2026-05-21 23:36:25 UTC_
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [`2_README.md`](🏮_Admin_Nest/2_README.md)
+  - [`3_README.md`](🏮_Admin_Nest/3_README.md)
   - [`README.md`](🏮_Admin_Nest/README.md)
   - [`notes.txt`](🏮_Admin_Nest/notes.txt)
   - [`☔️_protocol_integrity_sop.md`](🏮_Admin_Nest/☔️_protocol_integrity_sop.md)
