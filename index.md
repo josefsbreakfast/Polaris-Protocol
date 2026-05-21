@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 18:47:21 UTC_
+_Generated on 2026-05-21 18:53:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7188,12 +7188,28 @@ _Generated on 2026-05-21 18:47:21 UTC_
     - [**🫙_Distempers/**](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/)
       - [**❤️_Sanguine_Distempers/**](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/❤️_Sanguine_Distempers/)
         - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/❤️_Sanguine_Distempers/README.md)
+        - [`🌊_novelty_compulsion.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/❤️_Sanguine_Distempers/🌊_novelty_compulsion.md)
+        - [`🎰_engagement_addiction.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/❤️_Sanguine_Distempers/🎰_engagement_addiction.md)
+        - [`📲_constant_posting.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/❤️_Sanguine_Distempers/📲_constant_posting.md)
+        - [`🪩_performative_identity.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/❤️_Sanguine_Distempers/🪩_performative_identity.md)
       - [**💛_Choleric_Distempers/**](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/💛_Choleric_Distempers/)
         - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/💛_Choleric_Distempers/README.md)
+        - [`⚔️_compulsive_argumentation.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/💛_Choleric_Distempers/⚔️_compulsive_argumentation.md)
+        - [`📣_harassment_swarming.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/💛_Choleric_Distempers/📣_harassment_swarming.md)
+        - [`🔥_outrage_addiction.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/💛_Choleric_Distempers/🔥_outrage_addiction.md)
+        - [`🚨_purity_spirals.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/💛_Choleric_Distempers/🚨_purity_spirals.md)
       - [**🖤_Melancholic_Distempers/**](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/🖤_Melancholic_Distempers/)
         - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/🖤_Melancholic_Distempers/README.md)
+        - [`🌑_doomspiralling.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/🖤_Melancholic_Distempers/🌑_doomspiralling.md)
+        - [`📡_hypervigilant_consumption.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/🖤_Melancholic_Distempers/📡_hypervigilant_consumption.md)
+        - [`🕳️_paranoia_loops.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/🖤_Melancholic_Distempers/🕳️_paranoia_loops.md)
+        - [`🪦_collapse_exhaustion.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/🖤_Melancholic_Distempers/🪦_collapse_exhaustion.md)
       - [**🤍_Phlegmatic_Distempers/**](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/🤍_Phlegmatic_Distempers/)
         - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/🤍_Phlegmatic_Distempers/README.md)
+        - [`🌫️_passive_algorithmic_surrender.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/🤍_Phlegmatic_Distempers/🌫️_passive_algorithmic_surrender.md)
+        - [`💤_dissociative_scrolling.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/🤍_Phlegmatic_Distempers/💤_dissociative_scrolling.md)
+        - [`🪫_learned_helplessness.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/🤍_Phlegmatic_Distempers/🪫_learned_helplessness.md)
+        - [`🫥_emotional_numbing.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/🤍_Phlegmatic_Distempers/🫥_emotional_numbing.md)
       - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🫙_Distempers/README.md)
     - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/README.md)
   - [**🌌_Polaris_Specific_Memeing/**](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/)
