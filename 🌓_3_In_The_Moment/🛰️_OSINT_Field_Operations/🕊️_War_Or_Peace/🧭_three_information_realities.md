@@ -1,5 +1,5 @@
 # 🧭 Three Information Realities  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2026-05-21  
 *A comparative model of the information ecosystems through which students, universities, and government experienced the Gaza-related protest cycle (2023 – 2025).*
 
 ---
@@ -120,4 +120,4 @@ Repair begins not with consensus but with **shared visibility** of the data each
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated 2025-11-08_
+_Last updated 2026-05-21_
