@@ -1,5 +1,5 @@
 # 🧾 FOI Refusal Trends  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2026-05-21  
 *Tracking Section 24 (national security) and Section 36 (public affairs) usage across UK authorities post-2023.*
 
 ---
@@ -40,4 +40,4 @@ It provides quantitative and qualitative insight into institutional opacity mech
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2026-05-21_
