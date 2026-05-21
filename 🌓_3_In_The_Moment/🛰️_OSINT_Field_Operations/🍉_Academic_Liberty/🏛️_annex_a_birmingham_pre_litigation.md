@@ -1,5 +1,5 @@
 # 🗂️ Annex A — Birmingham Pre-Litigation Correspondence Record  
-**First created:** 2025-10-28 | **Last updated:** 2025-10-28  
+**First created:** 2025-10-28 | **Last updated:** 2026-05-21  
 *Documenting verified correspondence attempts and contextual risk factors preceding* *University of Birmingham v Persons Unknown & Ali [2024] EWHC 1770.*
 
 ---
@@ -67,4 +67,4 @@ university encampments, protest governance, Birmingham 2024, correspondence barr
 It records the disconnect between visible attempts at dialogue and formal legal framings of non-engagement.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-28_
+_Last updated: 2026-05-21_
