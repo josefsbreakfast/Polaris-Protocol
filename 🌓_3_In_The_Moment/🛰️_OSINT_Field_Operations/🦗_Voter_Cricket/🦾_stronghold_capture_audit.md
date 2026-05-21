@@ -1,5 +1,5 @@
 # 🦾 Stronghold Capture Audit — Party Realignment in Safe Seats  
-**First created:** 2025-10-19 | **Last updated:** 2025-12-15  
+**First created:** 2025-10-19 | **Last updated:** 2026-05-21  
 *Examining where party brand stability masks shifts in ideology, candidate profile, or local representation.*  
 
 ---
@@ -86,4 +86,4 @@ It enables civic researchers to test where democratic consent has become assumpt
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-05-21_
