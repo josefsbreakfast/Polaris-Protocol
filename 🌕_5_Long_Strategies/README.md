@@ -68,6 +68,24 @@ Long horizons still require grounded maintenance.
 
 ---
 
+## 🗺️ Pocket Map  
+
+```
+🌑 Origin Points
+        ↓
+🌓 Signs & Symptoms
+        ↓
+🌗 In The Moment
+        ↓
+🌖 Small Steps
+        ↓
+🌕 Long Strategies
+
+🏮 Admin Nest supports all layers
+```
+
+---
+
 ## 🌌 Constellations  
 🌕 🌱 🏛️ 🧭 🌌 — stewardship systems; reconstruction thinking; durable governance; continuity architecture; long-horizon survivability.
 
