@@ -1,5 +1,5 @@
 # 📃 SAR Template — University Surveillance & Contractor Data  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2026-05-21  
 *A standard Subject Access Request (SAR) template for individuals seeking copies of personal data held by universities, security vendors, or risk-management contractors.*
 
 ---
@@ -114,4 +114,4 @@ Used collectively, these requests form a civic audit trail of how universities a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated 2025-11-08_
+_Last updated 2026-05-21_
