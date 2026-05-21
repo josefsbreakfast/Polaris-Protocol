@@ -1,5 +1,5 @@
 # 🔧 Democratic Resilience Architecture for 21st Century Britain  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-16 | **Last updated:** 2026-05-21  
 *A structural design model for a democracy capable of resisting authoritarian drift, bureaucratic distortion, political panic, and systemic misinterpretation.*
 
 ---
@@ -217,3 +217,5 @@ Crosslinks:
 - 🧩 *distributed_executive_governance*  
 - 🧠 *political_black_box_logic*  
 - 🧷 *culture_war_risk_logic_in_uk_public_institutions*
+
+2026-05-21
