@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 17:18:34 UTC_
+_Generated on 2026-05-21 17:30:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7275,6 +7275,9 @@ _Generated on 2026-05-21 17:18:34 UTC_
       - [`🎭_why_it_attracts_bad_actors.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🎭_why_it_attracts_bad_actors.md)
       - [`🏏_test_cricket_for_public_service.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🏏_test_cricket_for_public_service.md)
       - [`👑_pitch_palace_outpicture_paths.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/👑_pitch_palace_outpicture_paths.md)
+      - [`📈_meta_linkages.yaml`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/📈_meta_linkages.yaml)
+      - [`📊_cricket_and_open_source_investigation_theory.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/📊_cricket_and_open_source_investigation_theory.md)
+      - [`📜_foi_and_sar_exercise_pack.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/📜_foi_and_sar_exercise_pack.md)
     - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/README.md)
     - [`🛰️_foi_sar_dual_audit_protocol.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
     - [`🛰️_satellite_imagery_as_circumstantial_evidence.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md)
@@ -7420,9 +7423,6 @@ _Generated on 2026-05-21 17:18:34 UTC_
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
   - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
     - [**🏏_Pitch_at_Palace_Audit_Practice/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/)
-      - [`📈_meta_linkages.yaml`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/📈_meta_linkages.yaml)
-      - [`📊_cricket_and_open_source_investigation_theory.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/📊_cricket_and_open_source_investigation_theory.md)
-      - [`📜_foi_and_sar_exercise_pack.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/📜_foi_and_sar_exercise_pack.md)
       - [`🔍_how_to_trace_event_data_flows.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🔍_how_to_trace_event_data_flows.md)
       - [`🦚_the_peacock_principle.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🦚_the_peacock_principle.md)
       - [`🧩_pattern_detection_and_response_mapping.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🧩_pattern_detection_and_response_mapping.md)
