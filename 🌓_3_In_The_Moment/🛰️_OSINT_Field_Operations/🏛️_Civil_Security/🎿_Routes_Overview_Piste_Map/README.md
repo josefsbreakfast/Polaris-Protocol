@@ -1,5 +1,5 @@
 # 🎿 OSINT Routes — The Civic Piste Map  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04  
+**First created:** 2025-11-04 | **Last updated:** 2026-05-21  
 *A staged training course in open-source civic intelligence — from the first green slope to the black-diamond ridge.*
 
 ---
@@ -94,4 +94,4 @@ It equips civic analysts to recognise containment as it happens and to defend tr
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2026-05-21_
