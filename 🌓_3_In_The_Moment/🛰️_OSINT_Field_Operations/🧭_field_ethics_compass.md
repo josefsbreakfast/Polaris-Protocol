@@ -1,5 +1,5 @@
 # 🧭 Field Ethics Compass  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *Ethical coordinates for open-source investigation under civic conditions.*
 
 ---
@@ -38,4 +38,4 @@ It anchors OSINT work to antifascist civic ethics and moral restraint.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-21_
