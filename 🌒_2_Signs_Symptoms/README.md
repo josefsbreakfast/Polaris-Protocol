@@ -65,6 +65,24 @@ Not every inconsistency is evidence of coordinated intent.
 
 ---
 
+## 🗺️ Pocket Map  
+
+```
+🌑 Origin Points
+        ↓
+🌓 Signs & Symptoms
+        ↓
+🌗 In The Moment
+        ↓
+🌖 Small Steps
+        ↓
+🌕 Long Strategies
+
+🏮 Admin Nest supports all layers
+```
+
+---
+
 ## 🌌 Constellations  
 🌓 🛰️ 🧿 🔍 🌫️ — anomaly recognition; suppression literacy; signal detection; metadata drift; visibility analysis.
 
