@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 23:41:42 UTC_
+_Generated on 2026-05-21 23:46:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6828,18 +6828,6 @@ _Generated on 2026-05-21 23:41:42 UTC_
     - [`🪻_take_me_home.md`](Polaris_Nest/✨_Letters_to_Stars/🪻_take_me_home.md)
     - [`🪻_why_them.md`](Polaris_Nest/✨_Letters_to_Stars/🪻_why_them.md)
     - [`🫁_i_cannot_expand.md`](Polaris_Nest/✨_Letters_to_Stars/🫁_i_cannot_expand.md)
-  - [**🏮_Admin_Kit/**](Polaris_Nest/🏮_Admin_Kit/)
-    - [**⚠_Harm_Logs/**](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/)
-      - [**🧹_2025-08-11_sexualisation_sweep/**](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/)
-        - [`forensic_sweep_analysis.html`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/forensic_sweep_analysis.html)
-        - [`harm_scan_2025-08-11.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/harm_scan_2025-08-11.md)
-        - [`harm_scan_2025-08-12.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/harm_scan_2025-08-12.md)
-        - [`polaris_file_index_2025-08-10.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/polaris_file_index_2025-08-10.md)
-        - [`polaris_harm_map_2025-08-11.png`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/polaris_harm_map_2025-08-11.png)
-        - [`polaris_harm_scan_analysis_2025-08-11.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/polaris_harm_scan_analysis_2025-08-11.md)
-        - [`📦_sweep_sequence_aug_11-13.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/📦_sweep_sequence_aug_11-13.md)
-        - [`🧯_harm_scan_report.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/🧯_harm_scan_report.md)
-        - [`🧯_sweep_harm_log_2025-08-17.md`](Polaris_Nest/🏮_Admin_Kit/⚠_Harm_Logs/🧹_2025-08-11_sexualisation_sweep/🧯_sweep_harm_log_2025-08-17.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
@@ -7539,6 +7527,15 @@ _Generated on 2026-05-21 23:41:42 UTC_
     - [**🗄️_Room_101/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/)
       - [**🧹_2025-08-11_sexualisation_sweep/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/)
         - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/README.md)
+        - [`forensic_sweep_analysis.html`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/forensic_sweep_analysis.html)
+        - [`harm_scan_2025-08-11.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/harm_scan_2025-08-11.md)
+        - [`harm_scan_2025-08-12.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/harm_scan_2025-08-12.md)
+        - [`polaris_file_index_2025-08-10.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/polaris_file_index_2025-08-10.md)
+        - [`polaris_harm_map_2025-08-11.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/polaris_harm_map_2025-08-11.png)
+        - [`polaris_harm_scan_analysis_2025-08-11.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/polaris_harm_scan_analysis_2025-08-11.md)
+        - [`📦_sweep_sequence_aug_11-13.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/📦_sweep_sequence_aug_11-13.md)
+        - [`🧯_harm_scan_report.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/🧯_harm_scan_report.md)
+        - [`🧯_sweep_harm_log_2025-08-17.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/🧯_sweep_harm_log_2025-08-17.md)
       - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/README.md)
   - [`2_README.md`](🏮_Admin_Nest/2_README.md)
   - [`3_README.md`](🏮_Admin_Nest/3_README.md)
