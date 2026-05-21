@@ -1,5 +1,5 @@
 # 🍓 Raspberry Pi as Gateway Drug  
-**First created:** 2026-05-02 | **Last updated:** 2026-05-04  
+**First created:** 2026-05-02 | **Last updated:** 2026-05-21  
 *Entry-point technologies that initiate civilian agency and may escalate toward shared-system capability.*
 
 ---
@@ -174,4 +174,4 @@ It defines the entry conditions through which individuals gain technical agency,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-04_
+_Last updated: 2026-05-21_
