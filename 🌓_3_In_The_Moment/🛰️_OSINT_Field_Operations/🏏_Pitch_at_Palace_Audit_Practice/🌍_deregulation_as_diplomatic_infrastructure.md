@@ -1,5 +1,5 @@
 # 🌍 Deregulation as Diplomatic Infrastructure  
-**First created:** 2025-11-02 | **Last updated:** 2026-01-01  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *How deregulation functions as post-imperial diplomacy, enabling access, influence, and plausible deniability.*  
 
 ---
@@ -131,4 +131,4 @@ It analyses how deregulation operates as a geopolitical tool, enabling access, i
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-05-21_
