@@ -1,5 +1,5 @@
 # 🔍 Search Protocol — Bilateral Funding Phrase Mapping  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-07  
+**First created:** 2025-11-07 | **Last updated:** 2026-05-21  
 *A field procedure for identifying institutional links through public funding acknowledgements and project metadata.*  
 
 ---
@@ -106,4 +106,4 @@ open-source investigation, bilateral research, funding acknowledgement, academic
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-07_
+_Last updated: 2026-05-21_
