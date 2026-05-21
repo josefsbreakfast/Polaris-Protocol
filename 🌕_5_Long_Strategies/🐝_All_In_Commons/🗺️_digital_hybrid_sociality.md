@@ -1,5 +1,5 @@
 # 🗺️ Digital Hybrid Sociality  
-**First created:** 2025-12-29 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-29 | **Last updated:** 2026-05-21  
 *Mapping, scavenger practices, ornament, and local sense-making*
 
 ---
@@ -221,4 +221,4 @@ It traces how map-adjacent, artifact-led, and place-based practices (scavenger s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-05-21_
