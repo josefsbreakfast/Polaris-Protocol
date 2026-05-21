@@ -1,5 +1,5 @@
 # 🦅 Overstimulated Prey Response
-**First created:** 2026-01-09 | **Last updated:** 2026-01-09  
+**First created:** 2026-01-09 | **Last updated:** 2026-05-21  
 *A threshold-exacerbation model for neuropsychological overload under persistent surveillance conditions.*
 
 ---
@@ -163,4 +163,4 @@ It contributes a cautious, testable framework for exploring how surveillant envi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-05-21_
