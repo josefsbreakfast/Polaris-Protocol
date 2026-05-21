@@ -1,5 +1,5 @@
 # 🌶️ WHOQOL-BREF Surveillance Impact Scoring
-**First created:** 2026-01-06 | **Last updated:** 2026-01-06  
+**First created:** 2026-01-06 | **Last updated:** 2026-05-21  
 *Theorising harm reduction and efficiency increase in community-level CVE provision.*  
 
 ---
@@ -252,4 +252,4 @@ It asserts that **human impact must be measurable, coercion-resistant, and decis
 
 *Survivor authorship is sovereign. Measurement is not neutral.*
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-05-21_
