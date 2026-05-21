@@ -1,5 +1,5 @@
 # 🐝 All In Commons  
-**First created:** 2025-10-28 | **Last updated:** 2026-05-04  
+**First created:** 2025-10-28 | **Last updated:** 2026-05-21  
 *Cooperative civic infrastructure for a world that still believes in each other.*
 
 ---
@@ -100,4 +100,4 @@ It defines and distributes reusable civic infrastructure for building autonomous
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-04_
+_Last updated: 2026-05-21_
