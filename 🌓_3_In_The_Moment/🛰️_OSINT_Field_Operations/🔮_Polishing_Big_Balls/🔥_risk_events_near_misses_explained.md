@@ -1,5 +1,5 @@
 # 🔥 Risk Events & Near Misses Explained  
-**First created:** 2026-01-08 | **Last updated:** 2026-01-08  
+**First created:** 2026-01-08 | **Last updated:** 2026-05-21  
 *What gets logged long before anything is called a breach — and why that layer matters.*
 
 ---
@@ -170,4 +170,4 @@ This is where you can see it happening — early, and without spectacle.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-05-21_
