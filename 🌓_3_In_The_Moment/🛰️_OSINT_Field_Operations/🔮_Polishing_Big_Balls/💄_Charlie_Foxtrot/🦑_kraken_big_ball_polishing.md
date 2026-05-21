@@ -1,5 +1,5 @@
 # 🦑 Kraken Big Ball Polishing  
-**First created:** 2026-01-23 | **Last updated:** 2026-05-10  
+**First created:** 2026-01-23 | **Last updated:** 2026-05-21  
 *Ego-containment and truth-extraction protocols for high-status actors under systemic threat*
 
 ---
@@ -156,4 +156,4 @@ It documents a pragmatic stabilisation technique used to prevent internal domina
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-10_
+_Last updated: 2026-05-21_
