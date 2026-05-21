@@ -1,5 +1,5 @@
 # 🕊️ War Or Peace  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2026-05-21  
 *Field-operations cluster tracing Britain’s shift toward wartime logic under peacetime law.*
 <!--People appear surprised when I have concerns or challenges towardes my civil government as a British Jew, so I made you this.  
 I am not absolving other parties; I am asking us to get our own house in order to better resist the rising and decentralised influence of the alt-right and authoritarian power.  
@@ -47,4 +47,4 @@ It supports systemic transparency mapping and evidential documentation within **
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2026-05-21_
