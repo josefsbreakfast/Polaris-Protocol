@@ -1,5 +1,5 @@
 # 🚨 Civil Disorder Response and Governance Single Points of Failure  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-04  
+**First created:** 2025-11-04 | **Last updated:** 2026-05-21  
 *How civil emergencies expose structural weaknesses in local authority command chains.*
 
 ---
@@ -91,4 +91,4 @@ It documents how emergencies expose hidden concentrations of authority in local 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2026-05-21_
