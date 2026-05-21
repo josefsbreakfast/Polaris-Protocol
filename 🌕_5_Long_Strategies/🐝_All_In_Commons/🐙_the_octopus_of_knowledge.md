@@ -1,5 +1,5 @@
 # 🐙 The Octopus of Knowledge  
-**First created:** 2025-12-16 | **Last updated:** 2026-01-08  
+**First created:** 2025-12-16 | **Last updated:** 2026-05-21  
 *How knowledge feeds, digests, and distributes itself outside silos.*
 
 ---
@@ -384,4 +384,4 @@ It provides a biological and structural model for understanding how insight emer
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-05-21_
