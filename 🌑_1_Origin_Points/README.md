@@ -75,6 +75,24 @@ Remaining trapped inside analysis indefinitely is not.
 
 ---
 
+## 🗺️ Pocket Map  
+
+```
+🌑 Origin Points
+        ↓
+🌓 Signs & Symptoms
+        ↓
+🌗 In The Moment
+        ↓
+🌖 Small Steps
+        ↓
+🌕 Long Strategies
+
+🏮 Admin Nest supports all layers
+```
+
+---
+
 ## 🌌 Constellations  
 🌑 🌀 🧄 🌸 🧠 — systems literacy; governance ecology; containment analysis; legitimacy frameworks; structural orientation.
 
