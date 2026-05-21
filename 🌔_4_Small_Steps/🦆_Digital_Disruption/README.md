@@ -1,5 +1,5 @@
 # 🦆 Digital Disruption  
-**First created:** 2025-10-28 | **Last updated:** 2025-10-30  
+**First created:** 2025-10-28 | **Last updated:** 2026-05-21  
 *How to stop systems from eating people — and rewire civic life from below.*
 
 ---
@@ -47,4 +47,4 @@ It routes methodologies for civic continuity, narrative resilience, and collecti
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-30_
+_Last updated: 2026-05-21_
