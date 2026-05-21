@@ -1,5 +1,5 @@
 # 🦗 Voter Cricket: Election Audit & Behavioural Oversight  
-**First created:** 2025-10-19 | **Last updated:** 2025-12-15  
+**First created:** 2025-10-19 | **Last updated:** 2026-05-21  
 *Citizen-led infrastructure for auditing electoral data use, behavioural targeting, and democratic integrity in the UK.*  
 
 ---
@@ -118,4 +118,4 @@ It embodies a citizen-forensic approach to democratic systems — pairing open d
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-05-21_
