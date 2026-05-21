@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 17:09:52 UTC_
+_Generated on 2026-05-21 17:14:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7265,6 +7265,15 @@ _Generated on 2026-05-21 17:09:52 UTC_
         - [`🔐_risk_and_hygiene_basics.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/🔐_risk_and_hygiene_basics.md)
         - [`🧭_what_this_is_and_is_not.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/🧭_what_this_is_and_is_not.md)
       - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/README.md)
+    - [**🍯_Finding_HoneyBot/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/)
+      - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/README.md)
+      - [`🐝_audit_stinger.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/🐝_audit_stinger.md)
+    - [**🏏_Pitch_at_Palace_Audit_Practice/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/)
+      - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/README.md)
+      - [`⚖️_regulatory_and_risk_framework.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/⚖️_regulatory_and_risk_framework.md)
+      - [`🌍_deregulation_as_diplomatic_infrastructure.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🌍_deregulation_as_diplomatic_infrastructure.md)
+      - [`🎭_why_it_attracts_bad_actors.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🎭_why_it_attracts_bad_actors.md)
+      - [`🏏_test_cricket_for_public_service.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🏏_test_cricket_for_public_service.md)
     - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/README.md)
     - [`🛰️_foi_sar_dual_audit_protocol.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
     - [`🛰️_satellite_imagery_as_circumstantial_evidence.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md)
@@ -7409,15 +7418,7 @@ _Generated on 2026-05-21 17:09:52 UTC_
   - [`notes.txt`](🏮_Admin_Nest/notes.txt)
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
   - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
-    - [**🍯_Finding_HoneyBot/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/)
-      - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/README.md)
-      - [`🐝_audit_stinger.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍯_Finding_HoneyBot/🐝_audit_stinger.md)
     - [**🏏_Pitch_at_Palace_Audit_Practice/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/)
-      - [`README.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/README.md)
-      - [`⚖️_regulatory_and_risk_framework.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/⚖️_regulatory_and_risk_framework.md)
-      - [`🌍_deregulation_as_diplomatic_infrastructure.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🌍_deregulation_as_diplomatic_infrastructure.md)
-      - [`🎭_why_it_attracts_bad_actors.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🎭_why_it_attracts_bad_actors.md)
-      - [`🏏_test_cricket_for_public_service.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/🏏_test_cricket_for_public_service.md)
       - [`👑_pitch_palace_outpicture_paths.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/👑_pitch_palace_outpicture_paths.md)
       - [`📈_meta_linkages.yaml`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/📈_meta_linkages.yaml)
       - [`📊_cricket_and_open_source_investigation_theory.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🏏_Pitch_at_Palace_Audit_Practice/📊_cricket_and_open_source_investigation_theory.md)
