@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 12:15:23 UTC_
+_Generated on 2026-05-21 12:17:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7255,6 +7255,10 @@ _Generated on 2026-05-21 12:15:23 UTC_
       - [**🧩_synthesis_notes/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧩_synthesis_notes/)
         - [`📎_intent_and_foreseeability_context.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧩_synthesis_notes/📎_intent_and_foreseeability_context.md)
         - [`🧩_cross_register_patterns.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧩_synthesis_notes/🧩_cross_register_patterns.md)
+      - [**🧬_methods/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/)
+        - [`📊_baseline_vs_anomaly_logic.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/📊_baseline_vs_anomaly_logic.md)
+        - [`🕰️_timing_and_anticipation.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/🕰️_timing_and_anticipation.md)
+        - [`🧠_evidentiary_silence_and_chilling.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/🧠_evidentiary_silence_and_chilling.md)
       - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/README.md)
     - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/README.md)
     - [`🛰️_foi_sar_dual_audit_protocol.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
@@ -7402,9 +7406,6 @@ _Generated on 2026-05-21 12:15:23 UTC_
   - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
     - [**🍉_Collecting_Intent_Adjunct_Material/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/)
       - [**🧬_methods/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/)
-        - [`📊_baseline_vs_anomaly_logic.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/📊_baseline_vs_anomaly_logic.md)
-        - [`🕰️_timing_and_anticipation.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/🕰️_timing_and_anticipation.md)
-        - [`🧠_evidentiary_silence_and_chilling.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/🧠_evidentiary_silence_and_chilling.md)
         - [`🧬_pattern_and_deviation_analysis.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/🧬_pattern_and_deviation_analysis.md)
       - [**🧭_orientation_and_guardrails/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/)
         - [`⚖️_contextual_evidence_and_intent.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧭_orientation_and_guardrails/⚖️_contextual_evidence_and_intent.md)
