@@ -1,5 +1,5 @@
 # 🧠 Evidentiary Silence and Chilling Effects  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
+**First created:** 2026-01-05 | **Last updated:** 2026-05-21  
 *How absence, withdrawal, and silence can become evidentiary context.*
 
 ---
@@ -88,4 +88,4 @@ It explains how absence can be contextual without implying blame.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-05-21_
