@@ -1,5 +1,5 @@
 # 📎 Intent and Foreseeability — Contextual Notes  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
+**First created:** 2026-01-05 | **Last updated:** 2026-05-21  
 *How accumulated contextual material may inform questions of intent, knowledge, and foreseeability.*
 
 ---
@@ -116,4 +116,4 @@ It frames relevance without asserting conclusions.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-05-21_
