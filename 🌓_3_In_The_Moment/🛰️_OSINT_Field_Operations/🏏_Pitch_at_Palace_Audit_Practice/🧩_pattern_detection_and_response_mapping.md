@@ -1,5 +1,5 @@
 # 🧩 Pattern Detection & Response Mapping — Pitch @ Palace Transparency Data  
-**First created:** 2025-11-02 | **Last updated:** 2026-01-01  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *How refusals, delays, and exemptions become behavioural data about governance.*  
 
 ---
@@ -155,4 +155,4 @@ It documents how information-access responses can be analysed as behavioural dat
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-05-21_
