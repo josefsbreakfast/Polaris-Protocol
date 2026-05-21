@@ -1,5 +1,5 @@
 # ❤️ Sanguine Distempers  
-**First created:** 2026-05-21 | **Last updated:** 2026-05-21  
+**First created:** 2026-05-12 | **Last updated:** 2026-05-21  
 *Compulsive stimulation states associated with performativity, novelty dependency, visibility seeking, and perpetual engagement cycles.*  
 
 ---
