@@ -1,5 +1,5 @@
 # 🧩 Distributed Decision Framework  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *A toolkit for federating decisions without central command.*
 
 ---
@@ -37,4 +37,4 @@ It offers modular logic for collective governance without centralisation.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-21_
