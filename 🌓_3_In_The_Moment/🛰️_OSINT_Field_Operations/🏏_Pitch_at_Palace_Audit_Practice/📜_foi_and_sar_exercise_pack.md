@@ -1,5 +1,5 @@
 # 📜 FOI + SAR Exercise Pack — Pitch @ Palace Audit Practice  
-**First created:** 2025-11-02 | **Last updated:** 2026-01-01  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *Practical transparency exercises for examining prestige-linked public interfaces through lawful information requests.*  
 
 ---
@@ -228,4 +228,4 @@ It provides lawful, reproducible transparency exercises for examining prestige-l
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-05-21_
