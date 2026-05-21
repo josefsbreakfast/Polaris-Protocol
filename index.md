@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 11:47:23 UTC_
+_Generated on 2026-05-21 11:50:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7105,6 +7105,10 @@ _Generated on 2026-05-21 11:47:23 UTC_
       - [`🧾_phantom_stock_registry.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🛒_Service_Blockages/🧾_phantom_stock_registry.md)
       - [`🪞_retail_shadowban_index.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🛒_Service_Blockages/🪞_retail_shadowban_index.md)
     - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/README.md)
+  - [**🫁_Holistic_Health_In_Surveillant_Societies/**](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/)
+    - [`🧠_cumulative_surveillance_burden.md`](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/🧠_cumulative_surveillance_burden.md)
+    - [`🧠_residual_attentional_conditioning_injury.md`](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/🧠_residual_attentional_conditioning_injury.md)
+    - [`🧠_the_background_terror.md`](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/🧠_the_background_terror.md)
   - [`README.md`](🌒_2_Signs_Symptoms/README.md)
 - [**🌓_3_In_The_Moment/**](🌓_3_In_The_Moment/)
   - [**⚗️_Apothecary/**](🌓_3_In_The_Moment/⚗️_Apothecary/)
@@ -7540,8 +7544,5 @@ _Generated on 2026-05-21 11:47:23 UTC_
     - [`🌶️_WHOQOLBREF_surveillance_impact_scoring.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🌶️_WHOQOLBREF_surveillance_impact_scoring.md)
     - [`🦅_overstimulated_prey_response.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🦅_overstimulated_prey_response.md)
     - [`🧠_context_deprivation_effect.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_context_deprivation_effect.md)
-    - [`🧠_cumulative_surveillance_burden.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_cumulative_surveillance_burden.md)
-    - [`🧠_residual_attentional_conditioning_injury.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_residual_attentional_conditioning_injury.md)
-    - [`🧠_the_background_terror.md`](🦆_Digital_Disruption/🫁_Holistic_Health_In_Surveillant_Societies/🧠_the_background_terror.md)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
