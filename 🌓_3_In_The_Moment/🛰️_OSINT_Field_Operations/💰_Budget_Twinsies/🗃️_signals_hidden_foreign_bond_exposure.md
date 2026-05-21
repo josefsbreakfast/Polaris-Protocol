@@ -1,5 +1,5 @@
 # 🗃️ Signals of Hidden Foreign-Bond Exposure — Explicit Israel–UK Version  
-**First created:** 2025-11-29 | **Last updated:** 2025-11-29  
+**First created:** 2025-11-29 | **Last updated:** 2026-05-21  
 *How to read accounting movements that may indicate the UK quietly absorbed Israeli war-financing debt.*
 
 ---
@@ -83,4 +83,4 @@ This node formalises the “signal language” for assessing whether the UK quie
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-29_
+_Last updated: 2026-05-21_
