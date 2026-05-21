@@ -1,5 +1,5 @@
 # 📙 Comparison Grid (Blank)  
-**First created:** 2026-01-08 | **Last updated:** 2026-01-08  
+**First created:** 2026-01-08 | **Last updated:** 2026-05-21  
 *A printable grid for side-by-side comparison.*
 
 ---
@@ -34,4 +34,4 @@ Blank space is information.
 
 *This grid supports calm comparison, not argument.*
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-05-21_
