@@ -1,5 +1,5 @@
 # 🪐 Stakeholder Constellation Map — Elbit Systems UK & Labour Ecosystem  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2026-05-21  
 *Relational constellation showing intersecting clusters of industry, government, donors, PR, and civil activism.*
 
 ---
@@ -10,13 +10,13 @@
 graph LR
     subgraph A1[🇮🇱 ELBIT SYSTEMS CLUSTER]
       A11[🏢 Elbit Systems UK]
-      A12[🇮🇱 Elbit Systems Ltd (Parent)]
+      A12[🇮🇱 Elbit Systems Ltd Parent]
       A13[⚙️ Subcontractors & Tech Partners]
       A14[📊 Defence Lobby & Trade Groups]
     end
 
     subgraph B1[🏛️ GOVERNMENT & PROCUREMENT]
-      B11[💂 Ministry of Defence (MoD)]
+      B11[💂 Ministry of Defence MoD]
       B12[🏛️ Labour Cabinet 2024–2025]
       B13[⚖️ Procurement Boards / CTTP Programme]
       B14[📅 MoD Hospitality & Revolving Door Actors]
@@ -26,11 +26,11 @@ graph LR
       C11[🏦 Quadrature Capital]
       C12[💼 Other Institutional Donors]
       C13[💰 Individual High-Value Donors]
-      C14[🌐 Investment Portfolios (arms, tech, logistics)]
+      C14[🌐 Investment Portfolios ie arms, tech, logistics]
     end
 
     subgraph D1[📣 LOBBYING & PR ECOSYSTEM]
-      D11[🗞️ CMS Strategic (PR for Elbit UK)]
+      D11[🗞️ CMS Strategic PR for Elbit UK]
       D12[🧑‍💼 Labour-Linked Comms Network]
       D13[🎤 Think Tanks & Defence Analysts]
       D14[🏢 Corporate Lobbying Associations]
@@ -38,8 +38,8 @@ graph LR
 
     subgraph E1[🚫 CIVIL SOCIETY & SCRUTINY]
       E11[✊ Palestine Action]
-      E12[📜 Parliament (EDM 64212)]
-      E13[🧾 Investigative Journalists (Declassified, MEE)]
+      E12[📜 Parliament eg EDM 64212]
+      E13[🧾 Investigative Journalists eg Declassified, MEE]
       E14[🔍 Watchdogs & FOI Activists]
     end
 
@@ -85,4 +85,4 @@ defence procurement, influence networks, Labour Party donors, Elbit Systems UK, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2026-05-21_
