@@ -1,5 +1,5 @@
 # 🧩 Cross-Register Patterns  
-**First created:** 2026-01-05 | **Last updated:** 2026-01-06  
+**First created:** 2026-01-05 | **Last updated:** 2026-05-21  
 *Observations that emerge only when multiple evidence registers are read together.*  
 
 ---
@@ -113,4 +113,4 @@ It records emergent relationships without asserting conclusions.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-05-21_
