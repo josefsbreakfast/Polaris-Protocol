@@ -1,5 +1,5 @@
 # 🧠 Cognitive Safety for Field Analysts  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *Psychological safety protocols for researchers in disinformation and trauma zones.*
 
 ---
@@ -38,4 +38,4 @@ It sustains the mental and emotional resilience required for long-term ethical i
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-21_
