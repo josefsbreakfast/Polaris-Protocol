@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 12:11:30 UTC_
+_Generated on 2026-05-21 12:15:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7247,6 +7247,14 @@ _Generated on 2026-05-21 12:11:30 UTC_
       - [`🛰️_OSINT_for_anti_palestinian_racism_detection.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🛰️_OSINT_for_anti_palestinian_racism_detection.md)
       - [`🧩_diaspora_repetition_and_trauma_informed_duty.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🧩_diaspora_repetition_and_trauma_informed_duty.md)
     - [**🍉_Collecting_Intent_Adjunct_Material/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/)
+      - [**📚_evidence_registers/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/📚_evidence_registers/)
+        - [`📉_complaint_and_regulatory_pressure.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/📚_evidence_registers/📉_complaint_and_regulatory_pressure.md)
+        - [`📣_media_narrative_shifts.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/📚_evidence_registers/📣_media_narrative_shifts.md)
+        - [`📵_platform_visibility_logs.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/📚_evidence_registers/📵_platform_visibility_logs.md)
+        - [`🕰️_withdrawal_and_silence_timelines.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/📚_evidence_registers/🕰️_withdrawal_and_silence_timelines.md)
+      - [**🧩_synthesis_notes/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧩_synthesis_notes/)
+        - [`📎_intent_and_foreseeability_context.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧩_synthesis_notes/📎_intent_and_foreseeability_context.md)
+        - [`🧩_cross_register_patterns.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧩_synthesis_notes/🧩_cross_register_patterns.md)
       - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/README.md)
     - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/README.md)
     - [`🛰️_foi_sar_dual_audit_protocol.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
@@ -7393,14 +7401,6 @@ _Generated on 2026-05-21 12:11:30 UTC_
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
   - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
     - [**🍉_Collecting_Intent_Adjunct_Material/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/)
-      - [**📚_evidence_registers/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/📚_evidence_registers/)
-        - [`📉_complaint_and_regulatory_pressure.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/📚_evidence_registers/📉_complaint_and_regulatory_pressure.md)
-        - [`📣_media_narrative_shifts.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/📚_evidence_registers/📣_media_narrative_shifts.md)
-        - [`📵_platform_visibility_logs.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/📚_evidence_registers/📵_platform_visibility_logs.md)
-        - [`🕰️_withdrawal_and_silence_timelines.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/📚_evidence_registers/🕰️_withdrawal_and_silence_timelines.md)
-      - [**🧩_synthesis_notes/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧩_synthesis_notes/)
-        - [`📎_intent_and_foreseeability_context.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧩_synthesis_notes/📎_intent_and_foreseeability_context.md)
-        - [`🧩_cross_register_patterns.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧩_synthesis_notes/🧩_cross_register_patterns.md)
       - [**🧬_methods/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/)
         - [`📊_baseline_vs_anomaly_logic.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/📊_baseline_vs_anomaly_logic.md)
         - [`🕰️_timing_and_anticipation.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/🧬_methods/🕰️_timing_and_anticipation.md)
