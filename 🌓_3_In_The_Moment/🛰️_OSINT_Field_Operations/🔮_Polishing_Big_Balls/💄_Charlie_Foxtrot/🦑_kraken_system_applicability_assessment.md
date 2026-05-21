@@ -1,5 +1,5 @@
 # 🦑 Kraken System Applicability Assessment  
-**First created:** 2026-01-23 | **Last updated:** 2026-01-23  
+**First created:** 2026-01-23 | **Last updated:** 2026-05-21  
 *Determining when an AI-affected system constitutes a preventative-death and governance emergency*
 
 ---
@@ -173,4 +173,4 @@ It provides a fast triage framework for identifying when AI-affected systems in 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-23_
+_Last updated: 2026-05-21_
