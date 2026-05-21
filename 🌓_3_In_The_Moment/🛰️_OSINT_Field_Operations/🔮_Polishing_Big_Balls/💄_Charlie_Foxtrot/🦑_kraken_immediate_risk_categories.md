@@ -1,5 +1,5 @@
 # 🦑 Kraken Immediate Risk Categories  
-**First created:** 2026-01-23 | **Last updated:** 2026-01-23  
+**First created:** 2026-01-23 | **Last updated:** 2026-05-21  
 *Identifying and prioritising immediate harm pathways in AI-affected UK systems*
 
 ---
@@ -226,4 +226,4 @@ It provides a structured method for identifying, prioritising, and responding to
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-23_
+_Last updated: 2026-05-21_
