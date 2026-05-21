@@ -1,6 +1,5 @@
-# 🧭 Principles
-
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
+# 🧭 Principles  
+**First created:** 2025-12-21 | **Last updated:** 2026-05-21  
 *Ethical, political, and procedural constraints governing OSINT field operations.*
 
 ---
@@ -216,4 +215,4 @@ And justice does not require silence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-Last updated: 2025-12-21
+Last updated: 2026-05-21
