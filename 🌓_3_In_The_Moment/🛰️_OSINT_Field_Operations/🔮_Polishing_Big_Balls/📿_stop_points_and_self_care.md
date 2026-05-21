@@ -1,5 +1,5 @@
 # 📿 Stop Points & Self-Care  
-**First created:** 2026-01-08 | **Last updated:** 2026-01-08  
+**First created:** 2026-01-08 | **Last updated:** 2026-05-21  
 *When to pause, hand off, or close the folder — without losing the thread.*
 
 ---
@@ -136,4 +136,4 @@ You are allowed to stop — and still have done enough.
 > - [🪖💄 What Do We Do If It’s a Charlie Foxtrot](./🪖💄_what_do_we_do_if_its_a_charlie_foxtrot.md) — *only if you decide to continue*
 
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-05-21_
