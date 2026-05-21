@@ -1,5 +1,5 @@
 # 😻 Gateways Through Women’s Health  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-11  
+**First created:** 2026-05-11 | **Last updated:** 2026-05-21  
 *Why women’s health may function as a gateway domain into systems biology, regenerative medicine, and adaptive computational modelling.*
 
 ---
@@ -405,4 +405,4 @@ It explores how reproductive biology may function as a gateway domain into deepe
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-05-21_
