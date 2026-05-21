@@ -1,5 +1,5 @@
 # 🧿 SASSI as Counter-Surveillance Accountability
-**First created:** 2025-11-09 | **Last updated:** 2025-11-14  
+**First created:** 2025-11-09 | **Last updated:** 2026-05-21  
 *Forensic proof-of-concept for citizen-led audit and containment of surveillance infrastructure.*  
 
 ---
@@ -70,4 +70,4 @@ It documents SASSI as a functional prototype of civic accountability for surveil
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-14_
+_Last updated: 2026-05-21_
