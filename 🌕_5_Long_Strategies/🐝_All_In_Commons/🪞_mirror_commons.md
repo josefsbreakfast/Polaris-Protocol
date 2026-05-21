@@ -1,5 +1,5 @@
 # 🪞 Mirror Commons  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *Forensic reflection on failure, burnout, and infiltration within collective projects.*
 
 ---
@@ -38,4 +38,4 @@ It turns institutional collapse into learning architecture for future resilience
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-21_
