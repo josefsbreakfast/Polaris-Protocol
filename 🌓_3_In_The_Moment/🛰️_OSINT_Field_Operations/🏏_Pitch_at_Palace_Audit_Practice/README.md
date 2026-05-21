@@ -1,5 +1,5 @@
 # 🏏 Pitch @ Palace Audit Practice  
-**First created:** 2025-11-02 | **Last updated:** 2026-01-01  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *OSINT field guide for auditing prestige-linked governance interfaces.*  
 
 ---
@@ -323,4 +323,4 @@ It explains how to examine prestige-linked governance interfaces using lawful OS
 
 Survivor authorship is sovereign. Containment is never neutral.
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-05-21_
