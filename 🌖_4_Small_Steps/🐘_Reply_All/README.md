@@ -1,5 +1,5 @@
 # 🐘 Reply All  
-**First created:** 2025-11-14 | **Last updated:** 2025-11-14  
+**First created:** 2025-11-14 | **Last updated:** 2026-05-21  
 *A directory for documenting civic broadcast resilience and community-led accountability initiatives.*
 
 ---
@@ -88,4 +88,4 @@ It records community-led initiatives, collective broadcast practices, and democr
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-14_
+_Last updated: 2026-05-21_
