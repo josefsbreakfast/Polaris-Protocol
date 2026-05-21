@@ -1,5 +1,5 @@
 # 🪶 Descent Map — Academic Surveillance Drift
-**First created:** 2025-10-23 | **Last updated:** 2025-11-12  
+**First created:** 2025-10-23 | **Last updated:** 2026-05-21  
 *Tracing how an early academic programme of “monitoring internet usage” descended into policy, procurement, campus practice, and everyday surveillance narratives.*
 
 ---
@@ -85,4 +85,4 @@ It maps how an academic idea can be translated into institutional practice and n
 
 Survivor authorship is sovereign. Containment is never neutral.  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-05-21_
