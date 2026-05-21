@@ -1,5 +1,5 @@
 # 🧾 Filling the Transparency Gap — Methodological Companion Node  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-07 | **Last updated:** 2026-05-21  
 *Companion to the UoN–Israel Security Ecosystem Gap Map. Lists the kinds of data, records, and evidence that would exist in a transparent research-security ecosystem, and how to locate them ethically through open sources.*
 
 ---
@@ -183,4 +183,4 @@ It explicitly acknowledges and builds upon the student-authored reports released
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2026-05-21_
