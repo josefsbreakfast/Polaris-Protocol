@@ -1,5 +1,5 @@
 # ⚠️ Foreign Influence & Behavioural Capture in UK Elections  
-**First created:** 2025-10-19 | **Last updated:** 2025-12-15  
+**First created:** 2025-10-19 | **Last updated:** 2026-05-21  
 *How behavioural-data infrastructures allow foreign powers and domestic actors to shape electoral outcomes without overt donations or visible interference.*  
 
 ---
@@ -81,4 +81,4 @@ It documents how influence can migrate through data infrastructures faster than 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-159_
+_Last updated: 2026-05-21_
