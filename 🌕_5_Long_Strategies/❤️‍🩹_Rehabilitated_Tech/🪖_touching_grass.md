@@ -1,5 +1,5 @@
 # 🪖 Touch Grass: Re-Embedding Technology In The Physical World  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-04  
+**First created:** 2025-12-14 | **Last updated:** 2026-05-21  
 *Why technological practice must be re-grounded in material limits, ecological reality, and collective maintenance.*  
 
 ---
@@ -199,4 +199,4 @@ It articulates a pathway for technology to rejoin the material, ecological, and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-05-21_
