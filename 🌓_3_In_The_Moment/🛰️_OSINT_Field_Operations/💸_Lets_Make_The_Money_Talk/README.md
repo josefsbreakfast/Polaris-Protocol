@@ -1,5 +1,5 @@
 # 💸 Let’s Make the Money Talk  
-**First created:** 2025-12-21 | **Last updated:** 2026-01-07  
+**First created:** 2025-12-21 | **Last updated:** 2026-05-21  
 *OSINT field operations for making reputational laundering, compliance failure, and impunity expensive — lawfully, structurally, and survivor-aligned.*  
 
 ---
@@ -173,4 +173,4 @@ It exists to translate public disclosures into lawful public audit pressure — 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-07_
+_Last updated: 2026-05-21_
