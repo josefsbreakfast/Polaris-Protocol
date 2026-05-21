@@ -1,5 +1,5 @@
 # 🪖 Home Front 2.0  
-**First created:** 2025-10-28  | **Last updated:** 2025-10-30  
+**First created:** 2025-10-28  | **Last updated:** 2026-05-21  
 *Antifascism for everyday life — making continuity an act of resistance.*
 
 ---
@@ -44,4 +44,4 @@ It translates antifascist theory into daily civic practice — where care, craft
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-30_
+_Last updated: 2026-05-21_
