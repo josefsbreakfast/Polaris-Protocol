@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 11:30:46 UTC_
+_Generated on 2026-05-21 11:34:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7272,6 +7272,10 @@ _Generated on 2026-05-21 11:30:46 UTC_
     - [`🪶_civic_immunity_training_manual.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/🪶_civic_immunity_training_manual.md)
   - [`README.md`](🌓_3_In_The_Moment/README.md)
 - [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
+  - [**🐘_Reply_All/**](🌔_4_Small_Steps/🐘_Reply_All/)
+    - [`README.md`](🌔_4_Small_Steps/🐘_Reply_All/README.md)
+    - [`🧿_private_eye_bounces_back.md`](🌔_4_Small_Steps/🐘_Reply_All/🧿_private_eye_bounces_back.md)
+    - [`🧿_sassi_as_counter_surveillance_accountability.md`](🌔_4_Small_Steps/🐘_Reply_All/🧿_sassi_as_counter_surveillance_accountability.md)
   - [`README.md`](🌔_4_Small_Steps/README.md)
 - [**🌕_5_Long_Strategies/**](🌕_5_Long_Strategies/)
   - [**❤️‍🩹_Rehabilitated_Tech/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/)
@@ -7331,10 +7335,6 @@ _Generated on 2026-05-21 11:30:46 UTC_
   - [`README.md`](🏮_Admin_Nest/README.md)
   - [`notes.txt`](🏮_Admin_Nest/notes.txt)
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
-  - [**🐘_Reply_All/**](🦆_Digital_Disruption/🐘_Reply_All/)
-    - [`README.md`](🦆_Digital_Disruption/🐘_Reply_All/README.md)
-    - [`🧿_private_eye_bounces_back.md`](🦆_Digital_Disruption/🐘_Reply_All/🧿_private_eye_bounces_back.md)
-    - [`🧿_sassi_as_counter_surveillance_accountability.md`](🦆_Digital_Disruption/🐘_Reply_All/🧿_sassi_as_counter_surveillance_accountability.md)
   - [**🐥_Surviving_Bargain_Bin_Mossad/**](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/)
     - [`README.md`](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/README.md)
     - [`✂️_red_tape_removal.md`](🦆_Digital_Disruption/🐥_Surviving_Bargain_Bin_Mossad/✂️_red_tape_removal.md)
