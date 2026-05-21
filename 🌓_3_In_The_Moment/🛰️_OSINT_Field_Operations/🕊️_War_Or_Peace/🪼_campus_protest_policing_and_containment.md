@@ -1,5 +1,5 @@
 # 🪼 Campus Protest Policing & Containment  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2026-05-21  
 *Mapping how UK higher-education institutions, regulators, and government reframed student protest (especially Palestine-related) as a security-containment problem between 2023 – 2025.*
 
 ---
@@ -124,4 +124,4 @@ It encourages civic OSINT to test transparency claims and to relieve students of
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated 2025-11-08_
+_Last updated 2026-05-21_
