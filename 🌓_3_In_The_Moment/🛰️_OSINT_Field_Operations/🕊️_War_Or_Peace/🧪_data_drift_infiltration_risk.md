@@ -1,5 +1,5 @@
 # 🧪 Data Drift & Infiltration Risk  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2026-05-21  
 *Exploring how aggregated protest-surveillance datasets diverge from ground truth and become high-value targets for foreign or extremist exploitation.*
 
 ---
@@ -113,4 +113,4 @@ It argues for independent OSINT audits to track dataset mutation and exposure ac
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated 2025-11-08_
+_Last updated 2026-05-21_
