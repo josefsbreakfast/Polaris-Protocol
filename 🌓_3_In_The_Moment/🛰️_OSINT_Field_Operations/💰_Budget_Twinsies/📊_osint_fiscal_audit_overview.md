@@ -1,5 +1,5 @@
 # 📊 OSINT Fiscal Audit Overview — Israel, the UK Budget, and Hidden Sovereign Bond Exposure  
-**First created:** 2025-11-29 | **Last updated:** 2025-11-29  
+**First created:** 2025-11-29 | **Last updated:** 2026-05-21  
 *A structural, explicit framing of whether the UK may have quietly absorbed part of Israel’s October 2025 war-financing through foreign bond purchases, and how to audit it without euphemism.*
 
 ---
@@ -126,4 +126,4 @@ israel war budget, uk budget anomaly, osint, foreign bonds, genocide context, lg
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-29_
+_Last updated: 2026-05-21_
