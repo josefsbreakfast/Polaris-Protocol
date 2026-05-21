@@ -1,5 +1,5 @@
 # 🏛️ Civil Security  
-**First created:** 2025-11-04  |  **Last updated:** 2025-11-04  
+**First created:** 2025-11-04  |  **Last updated:** 2026-05-21  
 *A civic OSINT investigation into how democratic oversight erodes quietly — and how to detect it before it formalises.*
 
 ---
@@ -65,4 +65,4 @@ It documents the subtle mechanics of civic containment and develops counter-meth
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-04_
+_Last updated: 2026-05-21_
