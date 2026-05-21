@@ -1,5 +1,5 @@
 # 🌐 Academic Partnership Architecture — How International University Networks Work  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-07 | **Last updated:** 2026-05-21  
 *A reference node explaining the multi‑layered structure behind foreign academic partnerships with UK institutions.*  
 
 ---
@@ -110,4 +110,4 @@ It provides a structural lens for analysing where diplomacy ends and operational
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025‑11‑08_
+_Last updated: 2026-05-21_
