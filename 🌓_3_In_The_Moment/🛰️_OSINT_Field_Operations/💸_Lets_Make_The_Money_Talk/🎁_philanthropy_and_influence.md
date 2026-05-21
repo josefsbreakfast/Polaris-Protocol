@@ -1,6 +1,5 @@
-# 🎁 Philanthropy and Influence
-
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
+# 🎁 Philanthropy and Influence  
+**First created:** 2025-12-21 | **Last updated:** 2026-05-21  
 *How charitable giving intersects with reputation, access, governance, and accountability.*
 
 ---
@@ -275,4 +274,4 @@ And justice does not require silence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-Last updated: 2025-12-21
+Last updated: 2026-05-21
