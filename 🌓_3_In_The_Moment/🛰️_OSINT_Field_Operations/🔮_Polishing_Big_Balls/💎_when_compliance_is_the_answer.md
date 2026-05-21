@@ -1,5 +1,5 @@
 # 💎 When Compliance *Is* the Answer  
-**First created:** 2026-01-08 | **Last updated:** 2026-01-08  
+**First created:** 2026-01-08 | **Last updated:** 2026-05-21  
 *How to recognise good governance — and why reassurance is a legitimate outcome.*
 
 ---
@@ -153,4 +153,4 @@ Sometimes the most important thing you can say is:
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-05-21_
