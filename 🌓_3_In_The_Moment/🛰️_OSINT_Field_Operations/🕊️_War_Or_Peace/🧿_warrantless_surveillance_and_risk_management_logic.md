@@ -1,6 +1,6 @@
 # 🧿 Warrantless Surveillance & Risk-Management Logic  
-**First created:** 2025-11-08 | **Last updated:** 2026-04-22  
-*Explaining how British universities and their contractors have built surveillance-adjacent infrastructures that operate outside the Investigatory Powers Act (IPA) by framing them as “risk management” or “duty of care.”*
+**First created:** 2025-11-08 | **Last updated:** 2026-05-21  
+*Explaining how British universities and their contractors have built surveillance-adjacent infrastructures that operate outside the Investigatory Powers Act (IPA) by framing them as “risk management” or “duty of care.”*  
 
 ---
 
@@ -300,4 +300,4 @@ The node invites civic OSINT to verify, expose, and reform these practices.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated 2026-04-22_
+_Last updated 2026-05-21_
