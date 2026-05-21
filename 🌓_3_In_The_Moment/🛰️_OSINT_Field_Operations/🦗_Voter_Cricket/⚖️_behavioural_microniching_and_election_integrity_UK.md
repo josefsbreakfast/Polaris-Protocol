@@ -1,5 +1,5 @@
 # ⚖️ Behavioural Microniching & Electoral Integrity (UK)  
-**First created:** 2025-10-19 | **Last updated:** 2025-12-15  
+**First created:** 2025-10-19 | **Last updated:** 2026-05-21  
 *Mapping what’s “in-bounds” and “out-of-bounds” in UK behavioural targeting law, using a cricket-field metaphor for clarity.*  
 
 ---
@@ -88,4 +88,4 @@ It codifies the lawful boundaries of digital campaigning and the regulatory fiel
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-05-21_
