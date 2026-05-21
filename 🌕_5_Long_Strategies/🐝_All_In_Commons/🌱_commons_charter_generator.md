@@ -1,5 +1,5 @@
 # 🌱 Commons Charter Generator  
-**First created:** 2025-11-02 | **Last updated:** 2026-01-08  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *Portable cooperative charter framework for civic and digital commons.*
 
 ---
@@ -179,4 +179,4 @@ It provides portable governance scaffolding for communities stewarding shared re
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-05-21_
