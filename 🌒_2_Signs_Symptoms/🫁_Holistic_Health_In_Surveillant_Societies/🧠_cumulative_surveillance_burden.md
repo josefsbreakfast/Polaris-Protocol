@@ -1,5 +1,5 @@
 # 🧠 Cumulative Surveillance Burden  
-**First created:** 2026-01-06 | **Last updated:** 2026-01-06  
+**First created:** 2026-01-06 | **Last updated:** 2026-05-21  
 *On the health effects of uncoordinated, accumulating observation and demand*
 
 *🦆 Digital Disruption → 🫁 Holistic Health in Surveillant Societies*
@@ -164,4 +164,4 @@ This node frames surveillance-related harm as an issue of cumulative, uncoordina
 > - [⚖️ Non‑Consent Psychological Experimentation Gap](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/⚖️_non_consent_psych_experimentation_gap.md)
 > - [🇬🇧🧪 How Not To Do MKUltra: Grimley Edition](../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🇬🇧🧪_how_not_to_do_mk_ultra_grimley_edition.md) – *satire, but good advice!*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-05-21_
