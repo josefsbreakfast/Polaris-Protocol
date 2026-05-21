@@ -1,5 +1,5 @@
 # 📜 Timeline 2023–25  
-**First created:** 2025-11-08 | **Last updated:** 2025-11-08  
+**First created:** 2025-11-08 | **Last updated:** 2026-05-21  
 *Chronology of legislation, directives, and procedural shifts shaping the UK’s wartime logic in peacetime.*
 
 ---
@@ -40,4 +40,4 @@ It documents legislative and procedural inflection points relevant to the UK’s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-08_
+_Last updated: 2026-05-21_
