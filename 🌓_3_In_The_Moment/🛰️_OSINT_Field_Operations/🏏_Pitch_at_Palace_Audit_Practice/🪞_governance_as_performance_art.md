@@ -1,5 +1,5 @@
 # 🪞 Governance as Performance Art  
-**First created:** 2025-11-03 | **Last updated:** 2026-01-02  
+**First created:** 2025-11-03 | **Last updated:** 2026-05-21  
 *Ceremonial transparency, accountability theatre, and the aesthetics of oversight.*  
 
 ---
@@ -145,4 +145,4 @@ It examines how modern oversight operates through ritual, spectacle, and managed
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-02_
+_Last updated: 2026-05-21_
