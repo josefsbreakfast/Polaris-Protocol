@@ -1,5 +1,5 @@
 # 🪩 Public Faces, Hidden Files — Reading the Visibility Layer  
-**First created:** 2025-11-07 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-07 | **Last updated:** 2026-05-21  
 *A methodological note on how bilateral academic networks display openness while keeping their operational core opaque.*
 
 ---
@@ -78,4 +78,4 @@ Recognising this pattern helps investigators use public data without mistaking p
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-05-21_
