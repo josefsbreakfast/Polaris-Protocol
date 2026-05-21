@@ -1,5 +1,5 @@
 # 📜 How MOUs Hide in Plain Sight — Local Government Transparency Gaps  
-**First created:** 2025-11-05 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-05 | **Last updated:** 2026-05-21  
 *The paperwork that never quite counts as a contract.*  
 
 ---
@@ -125,4 +125,4 @@ Related nodes:
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-05-21_
