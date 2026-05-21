@@ -1,5 +1,5 @@
 # 📊 Cricket and Open-Source Investigation Theory  
-**First created:** 2025-11-02 | **Last updated:** 2026-01-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *How patience, pattern recognition, and scorekeeping turn oversight into a participatory civic sport.*  
 
 ---
@@ -131,4 +131,4 @@ It reframes democratic oversight as a participatory, data-literate practice grou
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-021_
+_Last updated: 2026-05-21_
