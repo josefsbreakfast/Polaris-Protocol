@@ -1,5 +1,5 @@
 # 💰 Cooperative Economy Nodes  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-05-21  
 *Funding models that privilege care over extraction.*
 
 ---
@@ -37,4 +37,4 @@ It documents economic architectures for post-extractive civic resilience.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-05-21_
