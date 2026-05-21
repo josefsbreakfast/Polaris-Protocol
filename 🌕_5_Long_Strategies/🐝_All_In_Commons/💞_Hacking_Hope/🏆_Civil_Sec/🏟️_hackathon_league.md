@@ -1,5 +1,5 @@
 # 🏟️ Hackathon League — Cooperative Training for Digital Resilience  
-**First created:** 2025-10-15 | **Last updated:** 2025-12-12  
+**First created:** 2025-10-15 | **Last updated:** 2026-05-21  
 *Interdisciplinary hackathons as civic training grounds for digital cooperation.*
 
 ---
@@ -180,4 +180,4 @@ It reframes hackathons as structured practice sessions for democratic coordinati
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-05-21_
