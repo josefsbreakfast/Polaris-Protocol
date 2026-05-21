@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 11:22:44 UTC_
+_Generated on 2026-05-21 11:24:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7275,6 +7275,9 @@ _Generated on 2026-05-21 11:22:44 UTC_
   - [`README.md`](🌔_4_Small_Steps/README.md)
 - [**🌕_5_Long_Strategies/**](🌕_5_Long_Strategies/)
   - [**❤️‍🩹_Rehabilitated_Tech/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/)
+    - [**🌷_Opening_The_Source/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/)
+      - [`README.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/README.md)
+      - [`☔️_policing_hoverboards_and_omniwrenches.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/☔️_policing_hoverboards_and_omniwrenches.md)
     - [**🤖_AI_Beyond_AI/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/)
       - [`README.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/README.md)
       - [`🐧_ai_as_conservator_assistant.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🐧_ai_as_conservator_assistant.md)
@@ -7317,8 +7320,6 @@ _Generated on 2026-05-21 11:22:44 UTC_
 - [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
   - [**❤️‍🩹_Rehabilitated_Tech/**](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/)
     - [**🌷_Opening_The_Source/**](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/)
-      - [`README.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/README.md)
-      - [`☔️_policing_hoverboards_and_omniwrenches.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/☔️_policing_hoverboards_and_omniwrenches.md)
       - [`🌦️_for_and_against_cloudbusting.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🌦️_for_and_against_cloudbusting.md)
       - [`🍎_coding_dyslexic.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🍎_coding_dyslexic.md)
       - [`🍓_raspberry_pi_as_gateway_drug.md`](🦆_Digital_Disruption/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/🍓_raspberry_pi_as_gateway_drug.md)
