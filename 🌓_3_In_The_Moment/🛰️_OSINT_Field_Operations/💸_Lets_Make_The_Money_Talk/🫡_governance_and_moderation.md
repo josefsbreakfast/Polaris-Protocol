@@ -1,7 +1,6 @@
-# 🫡 Governance and Moderation
-
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
-*Maintaining legitimacy, safety, and coherence through clear rules and restraint.*
+# 🫡 Governance and Moderation  
+**First created:** 2025-12-21 | **Last updated:** 2026-05-21  
+*Maintaining legitimacy, safety, and coherence through clear rules and restraint.*  
 
 ---
 
@@ -213,4 +212,4 @@ And justice does not require silence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-Last updated: 2025-12-21
+Last updated: 2026-05-21
