@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-21 18:36:30 UTC_
+_Generated on 2026-05-21 18:37:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7395,6 +7395,9 @@ _Generated on 2026-05-21 18:36:30 UTC_
       - [`🪐_stakeholder_constellation_map_elbit_labour.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🪐_stakeholder_constellation_map_elbit_labour.md)
       - [`🪞_public_project_shadow_project.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🪞_public_project_shadow_project.md)
       - [`🪩_public_faces_hidden_files.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🧪_Sciencing_Apartheid/🪩_public_faces_hidden_files.md)
+    - [**🪶_Academic_Surveillance_Coup_In_Progress/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🪶_Academic_Surveillance_Coup_In_Progress/)
+      - [`🪶_descent_map_academic_surveillance_drift.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🪶_Academic_Surveillance_Coup_In_Progress/🪶_descent_map_academic_surveillance_drift.md)
+      - [`🪶_how_it_can_be_done_mechanics_osint_and_policy.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🪶_Academic_Surveillance_Coup_In_Progress/🪶_how_it_can_be_done_mechanics_osint_and_policy.md)
     - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/README.md)
     - [`🛰️_foi_sar_dual_audit_protocol.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_foi_sar_dual_audit_protocol.md)
     - [`🛰️_satellite_imagery_as_circumstantial_evidence.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🛰️_satellite_imagery_as_circumstantial_evidence.md)
@@ -7537,10 +7540,5 @@ _Generated on 2026-05-21 18:36:30 UTC_
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [`README.md`](🏮_Admin_Nest/README.md)
   - [`notes.txt`](🏮_Admin_Nest/notes.txt)
-- [**🦆_Digital_Disruption/**](🦆_Digital_Disruption/)
-  - [**🛰️_OSINT_Field_Operations/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/)
-    - [**🪶_Academic_Surveillance_Coup_In_Progress/**](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_Academic_Surveillance_Coup_In_Progress/)
-      - [`🪶_descent_map_academic_surveillance_drift.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_Academic_Surveillance_Coup_In_Progress/🪶_descent_map_academic_surveillance_drift.md)
-      - [`🪶_how_it_can_be_done_mechanics_osint_and_policy.md`](🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_Academic_Surveillance_Coup_In_Progress/🪶_how_it_can_be_done_mechanics_osint_and_policy.md)
 - [`.gitignore`](.gitignore)
 - [`README.md`](README.md)
