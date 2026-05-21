@@ -1,6 +1,5 @@
-# 🏛️ Open-Mindedness About Institutional Involvement
-
-**First created:** 2025-12-21 | **Last updated:** 2025-12-21  
+# 🏛️ Open-Mindedness About Institutional Involvement  
+**First created:** 2025-12-21 | **Last updated:** 2026-05-21  
 *Avoiding bias, convenience narratives, and premature exclusion under conditions of secrecy.*
 
 ---
@@ -187,4 +186,4 @@ And justice does not require silence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-Last updated: 2025-12-21
+Last updated: 2026-05-21
