@@ -1,51 +1,88 @@
+# 🌗 In The Moment  
+**First created:** 2026-05-21 | **Last updated:** 2026-05-21  
+*Orientation systems for navigating active emotional, social, and behavioural conditions.*
+
 ---
 
-# 🌗 Folder 3 — In The Moment  
-`🌗_3_In_The_Moment`
+> *⚠️ Polaris routing and folder architecture are currently undergoing active reorganisation.*
+>
+> *Some nodes may temporarily appear duplicated, partially migrated, or unevenly indexed during long-term navigation reconstruction.*
 
-## 🧭 Function  
+---
 
-Interpretive tools, situational navigation, behavioural decoding, and live-condition orientation systems.
+## 🧭 Orientation  
 
-This is the:
-> “I am inside the weather system now. How do I orient myself?” layer.
+In The Moment is the live-orientation layer of Polaris.
 
-Focus:
+This folder focuses on:
 - interpretation,
-- behavioural mapping,
+- behavioural decoding,
 - emotional navigation,
-- social decoding,
-- cognitive orientation,
-- live-environment understanding.
+- social orientation,
+- and remaining psychologically legible inside unstable conditions.
 
-## 📂 Example Contents  
+It asks:
+> “How do I orient myself while inside the weather system?”
 
+This folder prioritises:
+- grounding,
+- interpretation,
+- pacing,
+- and adaptive understanding.
+
+---
+
+## 🧠 What Lives Here  
+
+Typical contents include:
 - ⚗️ Apothecary
-- temperament systems
 - constitutions
 - vapours
-- behavioural decoding tools
-- social pattern interpretation
-- meaning-making frameworks
-- adaptive orientation systems
-
-## 🧠 General Rule  
-
-If a node primarily helps users:
-- understand live conditions,
-- orient socially or psychologically,
-- decode behaviour,
-- or navigate active environments,
-
-it likely belongs in Folder 3.
-
-## ⚠️ Important Distinction  
-
-Folder 3 is not primarily:
-- emergency intervention,
-- or long-term strategy.
-
-It is:
-> interpretation and orientation within active conditions.
+- temperament systems
+- behavioural interpretation tools
+- adaptive orientation frameworks
 
 ---
+
+## ⚠️ Common Drift Risks  
+
+Extended time in this layer may produce:
+- over-interpretation,
+- emotional exhaustion,
+- recursive self-monitoring,
+- identity instability,
+- or excessive social decoding.
+
+Interpretation should support orientation — not replace embodiment.
+
+---
+
+## 🧭 If You Need...  
+
+| Need | Suggested Folder |
+|---|---|
+| systemic explanation | 🌑 Folder 1 |
+| anomaly recognition | 🌓 Folder 2 |
+| practical actions | 🌖 Folder 4 |
+| long-term continuity thinking | 🌕 Folder 5 |
+
+---
+
+## 🌌 Constellations  
+🌗 ⚗️ 🌫️ 🧭 🪴 — emotional orientation; adaptive navigation; behavioural decoding; interpretive systems; live-condition literacy.
+
+---
+
+## ✨ Stardust  
+orientation systems, behavioural decoding, emotional navigation, social interpretation, adaptive understanding, temperament systems, cognitive orientation, live conditions
+
+---
+
+## 🏮 Footer  
+
+*🌗 In The Moment* is a living navigation cluster of the **Polaris Protocol**.  
+It supports psychological orientation and adaptive understanding during unstable or high-pressure social and environmental conditions.
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-05-21_
