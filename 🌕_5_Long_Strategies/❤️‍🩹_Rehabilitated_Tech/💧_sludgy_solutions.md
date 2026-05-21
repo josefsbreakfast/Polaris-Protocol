@@ -1,5 +1,5 @@
 # 💧 Sludgy Solutions  
-**First created:** 2025-10-15 | **Last updated:** 2025-12-09  
+**First created:** 2025-10-15 | **Last updated:** 2026-05-21  
 *Countermeasures to the digital sludge: algorithms, incentives, and cooperative clean-ups.*  
 
 ---
@@ -149,4 +149,4 @@ It maps structural countermeasures to content pollution and outlines cooperative
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-05-21_
