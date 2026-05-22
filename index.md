@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 11:44:30 UTC_
+_Generated on 2026-05-22 11:50:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6733,15 +6733,6 @@ _Generated on 2026-05-22 11:44:30 UTC_
     - [`📮_lost_in_submission.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📮_lost_in_submission.md)
     - [`🕯️_witness_node_cost_of_mapping.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🕯️_witness_node_cost_of_mapping.md)
     - [`🕸️_nda_dragnet_dismantled.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🕸️_nda_dragnet_dismantled.md)
-    - [`🗄️_weaponised_testimony_and_record_obstruction.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🗄️_weaponised_testimony_and_record_obstruction.md)
-    - [`🛠_redacted_report_as_erasure_device.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🛠_redacted_report_as_erasure_device.md)
-    - [`🛠_redacted_report_payload_flow.png`](Polaris_Nest/SCP-VoiceX_Casefiles/🛠_redacted_report_payload_flow.png)
-    - [`🛰️_2025-08-04_docking_surrogate_trace.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🛰️_2025-08-04_docking_surrogate_trace.md)
-    - [`🛰️_icc_tag_thread_containment.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🛰️_icc_tag_thread_containment.md)
-    - [`🧨_triggerstack_residency.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧨_triggerstack_residency.md)
-    - [`🧬_survivorship_as_interface.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧬_survivorship_as_interface.md)
-    - [`🧬_voice_capture_through_gaslight.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧬_voice_capture_through_gaslight.md)
-    - [`🧾_2005_breach_to_maternal_face_consequences.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧾_2005_breach_to_maternal_face_consequences.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
@@ -7498,6 +7489,15 @@ _Generated on 2026-05-22 11:44:30 UTC_
         - [`⚖️_cease_desist_2025-08-27.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/⚖️_cease_desist_2025-08-27.md)
         - [`👾_harassment_misidentification_systemic_failures_25-09-02.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/👾_harassment_misidentification_systemic_failures_25-09-02.md)
         - [`📛_storage_purge_detected.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/📛_storage_purge_detected.md)
+        - [`🗄️_weaponised_testimony_and_record_obstruction.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🗄️_weaponised_testimony_and_record_obstruction.md)
+        - [`🛠_redacted_report_as_erasure_device.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🛠_redacted_report_as_erasure_device.md)
+        - [`🛠_redacted_report_payload_flow.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🛠_redacted_report_payload_flow.png)
+        - [`🛰️_2025-08-04_docking_surrogate_trace.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🛰️_2025-08-04_docking_surrogate_trace.md)
+        - [`🛰️_icc_tag_thread_containment.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🛰️_icc_tag_thread_containment.md)
+        - [`🧨_triggerstack_residency.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🧨_triggerstack_residency.md)
+        - [`🧬_survivorship_as_interface.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🧬_survivorship_as_interface.md)
+        - [`🧬_voice_capture_through_gaslight.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🧬_voice_capture_through_gaslight.md)
+        - [`🧾_2005_breach_to_maternal_face_consequences.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🧾_2005_breach_to_maternal_face_consequences.md)
         - [`🧾_vps_reclamation.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🧾_vps_reclamation.md)
         - [`🧿_raycat_bait.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🧿_raycat_bait.md)
         - [`🪪_2025-08-04_fork_disavowal_log.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🪪_2025-08-04_fork_disavowal_log.md)
