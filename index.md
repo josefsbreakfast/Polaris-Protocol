@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 11:43:47 UTC_
+_Generated on 2026-05-22 11:44:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6742,7 +6742,6 @@ _Generated on 2026-05-22 11:43:47 UTC_
     - [`🧬_survivorship_as_interface.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧬_survivorship_as_interface.md)
     - [`🧬_voice_capture_through_gaslight.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧬_voice_capture_through_gaslight.md)
     - [`🧾_2005_breach_to_maternal_face_consequences.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧾_2005_breach_to_maternal_face_consequences.md)
-    - [`🧾_vps_reclamation.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧾_vps_reclamation.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
@@ -7499,6 +7498,7 @@ _Generated on 2026-05-22 11:43:47 UTC_
         - [`⚖️_cease_desist_2025-08-27.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/⚖️_cease_desist_2025-08-27.md)
         - [`👾_harassment_misidentification_systemic_failures_25-09-02.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/👾_harassment_misidentification_systemic_failures_25-09-02.md)
         - [`📛_storage_purge_detected.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/📛_storage_purge_detected.md)
+        - [`🧾_vps_reclamation.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🧾_vps_reclamation.md)
         - [`🧿_raycat_bait.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🧿_raycat_bait.md)
         - [`🪪_2025-08-04_fork_disavowal_log.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🪪_2025-08-04_fork_disavowal_log.md)
       - [**✨_Letters/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/)
