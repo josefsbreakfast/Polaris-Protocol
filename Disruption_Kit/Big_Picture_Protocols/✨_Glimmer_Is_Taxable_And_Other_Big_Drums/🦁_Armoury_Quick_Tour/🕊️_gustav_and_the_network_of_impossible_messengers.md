@@ -1,5 +1,5 @@
 # 🕊️ Gustav and the Network of Impossible Messengers  
-**First created:** 2025-10-27 | **Last updated:** 2026-02-19  
+**First created:** 2025-10-27 | **Last updated:** 2026-05-22  
 *On antifascist communication, the radical continuity between pigeons, pirate radios, and people who won’t shut up.*  
 
 ---
@@ -94,6 +94,10 @@ Each node is small. Together, they are the sky.
 ## 🌌 Constellations  
 🕊️ 🔥 ✨ 🌱 🛰️ 💌 — witness, resistance, community, signal, love  
 
+*Further media:*  
+
+- [📹: coatimvndi: "Pigeons are the second most decorated animal after dogs, for their incredible contributions to info delivery during wars and times of tragedy. They saved thousands of lives during WW2 but are rarely given the credit they deserve."](https://vm.tiktok.com/ZNRnMCNFj/)  
+
 ---
 
 ## ✨ Stardust  
@@ -115,4 +119,4 @@ It honours the radical infrastructures of honesty that survive every surveillanc
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-05-22_
