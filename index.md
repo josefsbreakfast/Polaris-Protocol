@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 00:55:08 UTC_
+_Generated on 2026-05-22 10:57:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7453,6 +7453,8 @@ _Generated on 2026-05-22 00:55:08 UTC_
     - [`🧠_nerd_alignment_protocol.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🧠_nerd_alignment_protocol.md)
     - [`🧩_distributed_decision_framework.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🧩_distributed_decision_framework.md)
     - [`🪞_mirror_commons.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🪞_mirror_commons.md)
+  - [**💸_Business_Is_Tooling/**](🌕_5_Long_Strategies/💸_Business_Is_Tooling/)
+    - [`README.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/README.md)
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [**🏮_Admin_Kit/**](🏮_Admin_Nest/🏮_Admin_Kit/)
