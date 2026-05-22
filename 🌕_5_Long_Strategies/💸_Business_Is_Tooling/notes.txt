@@ -1,0 +1,46 @@
+focus on british snd commonwealth business bc we live here innit. 
+
+🌕_5_Long_Strategies/
+└── 💸_Business_Is_Tooling/
+    ├── README.md
+    │
+    ├── 🧭_Philosophy_And_Principles/
+    │   ├── 🌲_forest_economics_vs_plantation_logic.md
+    │   ├── 🛠️_repair_culture_as_national_security.md
+    │   ├── ☁️_cloud_empires_and_brittle_skies.md
+    │   ├── 🧱_boring_systems_that_prevent_collapse.md
+    │   └── 🧾_administrative_substrate.md
+    │
+    ├── 🏢_Case_Studies/
+    │   ├── 🦾_the_power_of_strong_foundations.md
+    │   ├── 🇬🇧_britains_hidden_infrastructure_strengths.md
+    │   ├── 💾_sage_group_and_operational_continuity.md
+    │   ├── 🚆_regional_capability_and_distributed_resilience.md
+    │   └── 🔐_cybersecurity_is_a_cultural_problem.md
+    │
+    ├── 🌱_Alternatives_And_Mutuals/
+    │   ├── 🍄_mutuals_friendly_societies_and_survival.md
+    │   ├── 🛖_localism_without_isolation.md
+    │   ├── 🧑‍🏭_worker_owned_infrastructure.md
+    │   ├── 🌐_federated_systems_and_digital_sovereignty.md
+    │   └── 🪴_repairable_economies.md
+    │
+    ├── ☁️_Cloud_And_Cyber/
+    │   ├── ☁️_cloud_sovereignty.md
+    │   ├── 🔌_graceful_degradation.md
+    │   ├── 🛰️_distributed_resilience.md
+    │   ├── 🔐_segmentation_vs_seamlessness.md
+    │   └── 🧠_cybersecurity_as_institutional_culture.md
+    │
+    ├── 🇬🇧_British_Systems/
+    │   ├── 🇬🇧_regional_britain_as_resilience_architecture.md
+    │   ├── 🏛️_administrative_gravity.md
+    │   ├── 🚆_london_as_operational_bottleneck.md
+    │   ├── 📡_hidden_british_infrastructure_power.md
+    │   └── ☕️_continuity_culture_and_british_business.md
+    │
+    └── 🧰_Diagnostic_Tools/
+        ├── 🧪_resilience_vs_efficiency_checklist.md
+        ├── 🌲_monoculture_risk_mapping.md
+        ├── 🔐_dependency_chain_audit.md
+        └── 🛰️_regional_capacity_mapping.md
