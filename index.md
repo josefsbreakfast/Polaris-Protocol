@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 22:16:27 UTC_
+_Generated on 2026-05-22 22:25:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6512,9 +6512,7 @@ _Generated on 2026-05-22 22:16:27 UTC_
       - [`🧟‍♀️_digital_id_zombie_profiles.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_digital_id_zombie_profiles.md)
       - [`🧟‍♀️_zombie_data_identity_registers.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🧟‍♀️_zombie_data_identity_registers.md)
       - [`🫥_dry_humour_as_data_loss.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🫥_dry_humour_as_data_loss.md)
-    - [`README.md`](Metadata_Sabotage_Network/🔥_Data_Risks/README.md)
     - [`🦠_algorithmic_autoimmunity.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🦠_algorithmic_autoimmunity.md)
-    - [`🧃_from_jetsons_to_jailbroken.md`](Metadata_Sabotage_Network/🔥_Data_Risks/🧃_from_jetsons_to_jailbroken.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
@@ -6827,6 +6825,9 @@ _Generated on 2026-05-22 22:16:27 UTC_
     - [`README.md`](🌑_1_Origin_Points/🧄_Exousiología/README.md)
   - [`README.md`](🌑_1_Origin_Points/README.md)
 - [**🌒_2_Signs_Symptoms/**](🌒_2_Signs_Symptoms/)
+  - [**Metadata_Sabotage_Network/**](🌒_2_Signs_Symptoms/Metadata_Sabotage_Network/)
+    - [**🔥_Data_Risks/**](🌒_2_Signs_Symptoms/Metadata_Sabotage_Network/🔥_Data_Risks/)
+      - [`README.md`](🌒_2_Signs_Symptoms/Metadata_Sabotage_Network/🔥_Data_Risks/README.md)
   - [**🌱_Still_Growing/**](🌒_2_Signs_Symptoms/🌱_Still_Growing/)
     - [`README.md`](🌒_2_Signs_Symptoms/🌱_Still_Growing/README.md)
   - [**👻_Apparitional_Objects/**](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/)
@@ -6889,6 +6890,9 @@ _Generated on 2026-05-22 22:16:27 UTC_
         - [`🪢_relational_misbinding.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪹_Network_Ghosts/🪢_relational_misbinding.md)
       - [`README.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/👻_Glitchy_Ghosties/README.md)
     - [`README.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/README.md)
+  - [**🛰️_Metadata_Sabotage_Network/**](🌒_2_Signs_Symptoms/🛰️_Metadata_Sabotage_Network/)
+    - [**🔥_Data_Risks/**](🌒_2_Signs_Symptoms/🛰️_Metadata_Sabotage_Network/🔥_Data_Risks/)
+      - [`🧃_from_jetsons_to_jailbroken.md`](🌒_2_Signs_Symptoms/🛰️_Metadata_Sabotage_Network/🔥_Data_Risks/🧃_from_jetsons_to_jailbroken.md)
   - [**🩻_Weirdness_Screening/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/)
     - [**🌐_Connection_Hiccups/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/)
       - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/README.md)
