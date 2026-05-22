@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 13:46:04 UTC_
+_Generated on 2026-05-22 16:16:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6691,7 +6691,6 @@ _Generated on 2026-05-22 13:46:04 UTC_
     - [`🪐_prosociality_as_nudge_surface.md`](Polaris_Nest/Git_Intake_Drawer/🪐_prosociality_as_nudge_surface.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
-    - [`README.md`](scripts/maintenance/README.md)
     - [`folder_consistency_pass.sh`](scripts/maintenance/folder_consistency_pass.sh)
     - [`governance_pass.ps1`](scripts/maintenance/governance_pass.ps1)
     - [`harm_scan.py`](scripts/maintenance/harm_scan.py)
@@ -7501,6 +7500,9 @@ _Generated on 2026-05-22 13:46:04 UTC_
         - [`🧾_vps_reclamation.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🧾_vps_reclamation.md)
         - [`🧿_raycat_bait.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🧿_raycat_bait.md)
         - [`🪪_2025-08-04_fork_disavowal_log.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🪪_2025-08-04_fork_disavowal_log.md)
+      - [**scripts/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/scripts/)
+        - [**maintenance/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/scripts/maintenance/)
+          - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/scripts/maintenance/README.md)
       - [**✨_Letters/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/)
         - [`polaris_bookshelf.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/polaris_bookshelf.png)
         - [`polaris_lineage_map.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/polaris_lineage_map.png)
