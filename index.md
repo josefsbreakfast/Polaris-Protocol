@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 11:38:47 UTC_
+_Generated on 2026-05-22 11:43:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6711,12 +6711,6 @@ _Generated on 2026-05-22 11:38:47 UTC_
       - [`Top_500_Unique_Printed_Tokens.csv`](Polaris_Nest/SCP-VoiceX_Casefiles/☑️_New_Lists/Top_500_Unique_Printed_Tokens.csv)
       - [`top_5000_unique_surface_tokens.csv`](Polaris_Nest/SCP-VoiceX_Casefiles/☑️_New_Lists/top_5000_unique_surface_tokens.csv)
       - [`top_500_unique_surface_tokens.csv`](Polaris_Nest/SCP-VoiceX_Casefiles/☑️_New_Lists/top_500_unique_surface_tokens.csv)
-    - [`interference_types_logged_contacts.png`](Polaris_Nest/SCP-VoiceX_Casefiles/interference_types_logged_contacts.png)
-    - [`layer_dominance_containment_posture.png`](Polaris_Nest/SCP-VoiceX_Casefiles/layer_dominance_containment_posture.png)
-    - [`metadata_shame_overlay.png`](Polaris_Nest/SCP-VoiceX_Casefiles/metadata_shame_overlay.png)
-    - [`middle_layer_active_vs_background.png`](Polaris_Nest/SCP-VoiceX_Casefiles/middle_layer_active_vs_background.png)
-    - [`nda_signatory_mesh_local_redacted.jpeg`](Polaris_Nest/SCP-VoiceX_Casefiles/nda_signatory_mesh_local_redacted.jpeg)
-    - [`operational_destabilisation_social_anchors.png`](Polaris_Nest/SCP-VoiceX_Casefiles/operational_destabilisation_social_anchors.png)
     - [`operator_overlap.png`](Polaris_Nest/SCP-VoiceX_Casefiles/operator_overlap.png)
     - [`operator_overlap2.png`](Polaris_Nest/SCP-VoiceX_Casefiles/operator_overlap2.png)
     - [`original_vs_fork_vs_hostile.png`](Polaris_Nest/SCP-VoiceX_Casefiles/original_vs_fork_vs_hostile.png)
@@ -6726,7 +6720,6 @@ _Generated on 2026-05-22 11:38:47 UTC_
     - [`removed_content_timeline_redacted.png`](Polaris_Nest/SCP-VoiceX_Casefiles/removed_content_timeline_redacted.png)
     - [`scraping_spoofing_timeline_2019-2022.png`](Polaris_Nest/SCP-VoiceX_Casefiles/scraping_spoofing_timeline_2019-2022.png)
     - [`stakeholders_central_tier_aug.png`](Polaris_Nest/SCP-VoiceX_Casefiles/stakeholders_central_tier_aug.png)
-    - [`⚖️_cease_desist_2025-08-27.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_cease_desist_2025-08-27.md)
     - [`⚖️_hooked_authoritarian_hooks_long_file.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_hooked_authoritarian_hooks_long_file.md)
     - [`⚖️_judge_frankness_marker.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_judge_frankness_marker.md)
     - [`⚖️_stovewood_civil_containment.md`](Polaris_Nest/SCP-VoiceX_Casefiles/⚖️_stovewood_civil_containment.md)
@@ -6734,10 +6727,8 @@ _Generated on 2026-05-22 11:38:47 UTC_
     - [`🌟_survivor_star_seeker.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🌟_survivor_star_seeker.md)
     - [`🎭_consent_is_not_character.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🎭_consent_is_not_character.md)
     - [`🏛️_data_splitting_sar.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🏛️_data_splitting_sar.md)
-    - [`👾_harassment_misidentification_systemic_failures_25-09-02.md`](Polaris_Nest/SCP-VoiceX_Casefiles/👾_harassment_misidentification_systemic_failures_25-09-02.md)
     - [`📂_clone_in_the_family.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📂_clone_in_the_family.md)
     - [`📉_shadow_reach_analysis.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📉_shadow_reach_analysis.md)
-    - [`📛_storage_purge_detected.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📛_storage_purge_detected.md)
     - [`📩_safety_and_transparency_event_attendance_misuse.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📩_safety_and_transparency_event_attendance_misuse.md)
     - [`📮_lost_in_submission.md`](Polaris_Nest/SCP-VoiceX_Casefiles/📮_lost_in_submission.md)
     - [`🕯️_witness_node_cost_of_mapping.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🕯️_witness_node_cost_of_mapping.md)
@@ -6752,8 +6743,6 @@ _Generated on 2026-05-22 11:38:47 UTC_
     - [`🧬_voice_capture_through_gaslight.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧬_voice_capture_through_gaslight.md)
     - [`🧾_2005_breach_to_maternal_face_consequences.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧾_2005_breach_to_maternal_face_consequences.md)
     - [`🧾_vps_reclamation.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧾_vps_reclamation.md)
-    - [`🧿_raycat_bait.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🧿_raycat_bait.md)
-    - [`🪪_2025-08-04_fork_disavowal_log.md`](Polaris_Nest/SCP-VoiceX_Casefiles/🪪_2025-08-04_fork_disavowal_log.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
@@ -7501,6 +7490,17 @@ _Generated on 2026-05-22 11:38:47 UTC_
         - [`fork_ghost_human_24h.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/fork_ghost_human_24h.png)
         - [`forkscan_seperating_human_actors.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/forkscan_seperating_human_actors.png)
         - [`human_vs_system_interventions_aug.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/human_vs_system_interventions_aug.png)
+        - [`interference_types_logged_contacts.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/interference_types_logged_contacts.png)
+        - [`layer_dominance_containment_posture.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/layer_dominance_containment_posture.png)
+        - [`metadata_shame_overlay.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/metadata_shame_overlay.png)
+        - [`middle_layer_active_vs_background.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/middle_layer_active_vs_background.png)
+        - [`nda_signatory_mesh_local_redacted.jpeg`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/nda_signatory_mesh_local_redacted.jpeg)
+        - [`operational_destabilisation_social_anchors.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/operational_destabilisation_social_anchors.png)
+        - [`⚖️_cease_desist_2025-08-27.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/⚖️_cease_desist_2025-08-27.md)
+        - [`👾_harassment_misidentification_systemic_failures_25-09-02.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/👾_harassment_misidentification_systemic_failures_25-09-02.md)
+        - [`📛_storage_purge_detected.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/📛_storage_purge_detected.md)
+        - [`🧿_raycat_bait.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🧿_raycat_bait.md)
+        - [`🪪_2025-08-04_fork_disavowal_log.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/🪪_2025-08-04_fork_disavowal_log.md)
       - [**✨_Letters/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/)
         - [`polaris_bookshelf.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/polaris_bookshelf.png)
         - [`polaris_lineage_map.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/polaris_lineage_map.png)
