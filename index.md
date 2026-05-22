@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 20:31:13 UTC_
+_Generated on 2026-05-22 22:03:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -558,6 +558,7 @@ _Generated on 2026-05-22 20:31:13 UTC_
         - [`🪖_classification_suppression_and_misuse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🪖_classification_suppression_and_misuse.md)
         - [`🪖_how_politicians_legally_strangle_the_mod.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🪖_how_politicians_legally_strangle_the_mod.md)
         - [`🪖_respectfully_asking_the_mod_to_declassify.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🪖_respectfully_asking_the_mod_to_declassify.md)
+        - [`🪖_ribbons_and_ranks.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🪖_ribbons_and_ranks.md)
       - [**🛰️_Infrastructure_Procurement/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/README.md)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
