@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 22:03:57 UTC_
+_Generated on 2026-05-22 22:16:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6691,14 +6691,6 @@ _Generated on 2026-05-22 22:03:57 UTC_
     - [`🪆_male_fear_throttling_trigger.md`](Polaris_Nest/Git_Intake_Drawer/🪆_male_fear_throttling_trigger.md)
     - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
     - [`🪐_prosociality_as_nudge_surface.md`](Polaris_Nest/Git_Intake_Drawer/🪐_prosociality_as_nudge_surface.md)
-- [**scripts/**](scripts/)
-  - [**maintenance/**](scripts/maintenance/)
-    - [`folder_consistency_pass.sh`](scripts/maintenance/folder_consistency_pass.sh)
-    - [`governance_pass.ps1`](scripts/maintenance/governance_pass.ps1)
-    - [`harm_scan.py`](scripts/maintenance/harm_scan.py)
-    - [`merge_harm_log.ps1`](scripts/maintenance/merge_harm_log.ps1)
-    - [`new_harm_log.ps1`](scripts/maintenance/new_harm_log.ps1)
-    - [`template_entry.md`](scripts/maintenance/template_entry.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**🌱_Still_Growing/**](🌑_1_Origin_Points/🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/🌱_Still_Growing/README.md)
@@ -7517,6 +7509,12 @@ _Generated on 2026-05-22 22:03:57 UTC_
       - [**scripts/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/scripts/)
         - [**maintenance/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/scripts/maintenance/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/scripts/maintenance/README.md)
+          - [`folder_consistency_pass.sh`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/scripts/maintenance/folder_consistency_pass.sh)
+          - [`governance_pass.ps1`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/scripts/maintenance/governance_pass.ps1)
+          - [`harm_scan.py`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/scripts/maintenance/harm_scan.py)
+          - [`merge_harm_log.ps1`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/scripts/maintenance/merge_harm_log.ps1)
+          - [`new_harm_log.ps1`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/scripts/maintenance/new_harm_log.ps1)
+          - [`template_entry.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/scripts/maintenance/template_entry.md)
       - [**✨_Letters/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/)
         - [`polaris_bookshelf.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/polaris_bookshelf.png)
         - [`polaris_lineage_map.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/polaris_lineage_map.png)
