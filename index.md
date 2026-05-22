@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 00:47:23 UTC_
+_Generated on 2026-05-22 00:49:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7517,6 +7517,13 @@ _Generated on 2026-05-22 00:47:23 UTC_
         - [`🛰️_tears.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🛰️_tears.md)
         - [`🤏_small_favour.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🤏_small_favour.md)
         - [`🦔_letter_for_the_stars_accepting_protection.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🦔_letter_for_the_stars_accepting_protection.md)
+        - [`🧬_poems_for_prisoners.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🧬_poems_for_prisoners.md)
+        - [`🧬_to_the_other_half_of_that_niche_mathematical_centroid.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🧬_to_the_other_half_of_that_niche_mathematical_centroid.md)
+        - [`🧿_half_the_torture.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🧿_half_the_torture.md)
+        - [`🧿_i_wish_for_safety.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🧿_i_wish_for_safety.md)
+        - [`🧿_maimonides_is_turning_in_his_grave.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🧿_maimonides_is_turning_in_his_grave.md)
+        - [`🧿_reflections_on_reflecting.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🧿_reflections_on_reflecting.md)
+        - [`🪞_i_know_why_youre_all_so_invested_now.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🪞_i_know_why_youre_all_so_invested_now.md)
         - [`🪻_take_me_home.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🪻_take_me_home.md)
         - [`🫁_i_cannot_expand.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🫁_i_cannot_expand.md)
       - [**🧹_2025-08-11_sexualisation_sweep/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/)
@@ -7531,13 +7538,6 @@ _Generated on 2026-05-22 00:47:23 UTC_
         - [`🧯_harm_scan_report.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/🧯_harm_scan_report.md)
         - [`🧯_sweep_harm_log_2025-08-17.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/🧯_sweep_harm_log_2025-08-17.md)
       - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/README.md)
-      - [`🧬_poems_for_prisoners.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧬_poems_for_prisoners.md)
-      - [`🧬_to_the_other_half_of_that_niche_mathematical_centroid.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧬_to_the_other_half_of_that_niche_mathematical_centroid.md)
-      - [`🧿_half_the_torture.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧿_half_the_torture.md)
-      - [`🧿_i_wish_for_safety.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧿_i_wish_for_safety.md)
-      - [`🧿_maimonides_is_turning_in_his_grave.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧿_maimonides_is_turning_in_his_grave.md)
-      - [`🧿_reflections_on_reflecting.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧿_reflections_on_reflecting.md)
-      - [`🪞_i_know_why_youre_all_so_invested_now.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🪞_i_know_why_youre_all_so_invested_now.md)
   - [`2_README.md`](🏮_Admin_Nest/2_README.md)
   - [`3_README.md`](🏮_Admin_Nest/3_README.md)
   - [`README.md`](🏮_Admin_Nest/README.md)
