@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 16:16:46 UTC_
+_Generated on 2026-05-22 16:27:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6698,6 +6698,8 @@ _Generated on 2026-05-22 16:16:46 UTC_
     - [`new_harm_log.ps1`](scripts/maintenance/new_harm_log.ps1)
     - [`template_entry.md`](scripts/maintenance/template_entry.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
+  - [**🌱_Still_Growing/**](🌑_1_Origin_Points/🌱_Still_Growing/)
+    - [`README.md`](🌑_1_Origin_Points/🌱_Still_Growing/README.md)
   - [**🌸_Containment_Studies/**](🌑_1_Origin_Points/🌸_Containment_Studies/)
     - [**🌙_Everyday_Containment/**](🌑_1_Origin_Points/🌸_Containment_Studies/🌙_Everyday_Containment/)
       - [`README.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌙_Everyday_Containment/README.md)
@@ -6831,6 +6833,8 @@ _Generated on 2026-05-22 16:16:46 UTC_
     - [`README.md`](🌑_1_Origin_Points/🧄_Exousiología/README.md)
   - [`README.md`](🌑_1_Origin_Points/README.md)
 - [**🌒_2_Signs_Symptoms/**](🌒_2_Signs_Symptoms/)
+  - [**🌱_Still_Growing/**](🌒_2_Signs_Symptoms/🌱_Still_Growing/)
+    - [`README.md`](🌒_2_Signs_Symptoms/🌱_Still_Growing/README.md)
   - [**👻_Apparitional_Objects/**](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/)
     - [**🍽️_Fork_Taxonomy/**](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🍽️_Fork_Taxonomy/)
       - [`README.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🍽️_Fork_Taxonomy/README.md)
@@ -7075,6 +7079,8 @@ _Generated on 2026-05-22 16:16:46 UTC_
     - [`📮_answers_on_a_postcard.md`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/📮_answers_on_a_postcard.md)
     - [`📮_the_polaris_mail_box.md`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/📮_the_polaris_mail_box.md)
     - [`🛒_the_data_drift_wedding_registry.md`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🛒_the_data_drift_wedding_registry.md)
+  - [**🌱_Still_Growing/**](🌓_3_In_The_Moment/🌱_Still_Growing/)
+    - [`README.md`](🌓_3_In_The_Moment/🌱_Still_Growing/README.md)
   - [**🐈‍⬛_Antifacist_Propaganda_Machine/**](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/)
     - [`README.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/README.md)
     - [`🌱_plantseer_data_mining_coop.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🌱_plantseer_data_mining_coop.md)
@@ -7298,6 +7304,8 @@ _Generated on 2026-05-22 16:16:46 UTC_
     - [`🪶_civic_immunity_training_manual.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/🪶_civic_immunity_training_manual.md)
   - [`README.md`](🌓_3_In_The_Moment/README.md)
 - [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
+  - [**🌱_Still_Growing/**](🌔_4_Small_Steps/🌱_Still_Growing/)
+    - [`README.md`](🌔_4_Small_Steps/🌱_Still_Growing/README.md)
   - [**🐘_Reply_All/**](🌔_4_Small_Steps/🐘_Reply_All/)
     - [`README.md`](🌔_4_Small_Steps/🐘_Reply_All/README.md)
     - [`🧿_private_eye_bounces_back.md`](🌔_4_Small_Steps/🐘_Reply_All/🧿_private_eye_bounces_back.md)
@@ -7355,6 +7363,8 @@ _Generated on 2026-05-22 16:16:46 UTC_
     - [`💎_therapeutic_sandbox.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/💎_therapeutic_sandbox.md)
     - [`💧_sludgy_solutions.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/💧_sludgy_solutions.md)
     - [`🪖_touching_grass.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🪖_touching_grass.md)
+  - [**🌱_Still_Growing/**](🌕_5_Long_Strategies/🌱_Still_Growing/)
+    - [`README.md`](🌕_5_Long_Strategies/🌱_Still_Growing/README.md)
   - [**🐝_All_In_Commons/**](🌕_5_Long_Strategies/🐝_All_In_Commons/)
     - [**💞_Hacking_Hope/**](🌕_5_Long_Strategies/🐝_All_In_Commons/💞_Hacking_Hope/)
       - [**🏆_Civil_Sec/**](🌕_5_Long_Strategies/🐝_All_In_Commons/💞_Hacking_Hope/🏆_Civil_Sec/)
@@ -7386,6 +7396,8 @@ _Generated on 2026-05-22 16:16:46 UTC_
     - [`🦾_the_power_of_strong_foundations.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/🦾_the_power_of_strong_foundations.md)
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
+  - [**🌱_Still_Growing/**](🏮_Admin_Nest/🌱_Still_Growing/)
+    - [`README.md`](🏮_Admin_Nest/🌱_Still_Growing/README.md)
   - [**🏮_Admin_Kit/**](🏮_Admin_Nest/🏮_Admin_Kit/)
     - [`☔️_protocol_integrity_sop.md`](🏮_Admin_Nest/🏮_Admin_Kit/☔️_protocol_integrity_sop.md)
     - [`🌌_constellation_tracker.md`](🏮_Admin_Nest/🏮_Admin_Kit/🌌_constellation_tracker.md)
