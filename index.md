@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 11:01:16 UTC_
+_Generated on 2026-05-22 11:38:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6711,14 +6711,6 @@ _Generated on 2026-05-22 11:01:16 UTC_
       - [`Top_500_Unique_Printed_Tokens.csv`](Polaris_Nest/SCP-VoiceX_Casefiles/☑️_New_Lists/Top_500_Unique_Printed_Tokens.csv)
       - [`top_5000_unique_surface_tokens.csv`](Polaris_Nest/SCP-VoiceX_Casefiles/☑️_New_Lists/top_5000_unique_surface_tokens.csv)
       - [`top_500_unique_surface_tokens.csv`](Polaris_Nest/SCP-VoiceX_Casefiles/☑️_New_Lists/top_500_unique_surface_tokens.csv)
-    - [`SCP-VoiceX.md`](Polaris_Nest/SCP-VoiceX_Casefiles/SCP-VoiceX.md)
-    - [`Top_5000_GhostFork_Tokens__Scored_.csv`](Polaris_Nest/SCP-VoiceX_Casefiles/Top_5000_GhostFork_Tokens__Scored_.csv)
-    - [`Top_500_Influence_Words.csv`](Polaris_Nest/SCP-VoiceX_Casefiles/Top_500_Influence_Words.csv)
-    - [`containment_severity_time.png`](Polaris_Nest/SCP-VoiceX_Casefiles/containment_severity_time.png)
-    - [`dopamine_induction_emotional_alignment.png`](Polaris_Nest/SCP-VoiceX_Casefiles/dopamine_induction_emotional_alignment.png)
-    - [`fork_ghost_human_24h.png`](Polaris_Nest/SCP-VoiceX_Casefiles/fork_ghost_human_24h.png)
-    - [`forkscan_seperating_human_actors.png`](Polaris_Nest/SCP-VoiceX_Casefiles/forkscan_seperating_human_actors.png)
-    - [`human_vs_system_interventions_aug.png`](Polaris_Nest/SCP-VoiceX_Casefiles/human_vs_system_interventions_aug.png)
     - [`interference_types_logged_contacts.png`](Polaris_Nest/SCP-VoiceX_Casefiles/interference_types_logged_contacts.png)
     - [`layer_dominance_containment_posture.png`](Polaris_Nest/SCP-VoiceX_Casefiles/layer_dominance_containment_posture.png)
     - [`metadata_shame_overlay.png`](Polaris_Nest/SCP-VoiceX_Casefiles/metadata_shame_overlay.png)
@@ -7456,6 +7448,7 @@ _Generated on 2026-05-22 11:01:16 UTC_
   - [**💸_Business_Is_Tooling/**](🌕_5_Long_Strategies/💸_Business_Is_Tooling/)
     - [`README.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/README.md)
     - [`notes.txt`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/notes.txt)
+    - [`🌦️_cloudbusting_the_future_we_never_built.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/🌦️_cloudbusting_the_future_we_never_built.md)
     - [`🦾_the_power_of_strong_foundations.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/🦾_the_power_of_strong_foundations.md)
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
@@ -7499,6 +7492,15 @@ _Generated on 2026-05-22 11:01:16 UTC_
         - [`🪻_why_them.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/✨_Letters/🪻_why_them.md)
       - [`README.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/README.md)
     - [**🗄️_Room_101/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/)
+      - [**SCP-VoiceX_Casefiles/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/)
+        - [`SCP-VoiceX.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/SCP-VoiceX.md)
+        - [`Top_5000_GhostFork_Tokens__Scored_.csv`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/Top_5000_GhostFork_Tokens__Scored_.csv)
+        - [`Top_500_Influence_Words.csv`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/Top_500_Influence_Words.csv)
+        - [`containment_severity_time.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/containment_severity_time.png)
+        - [`dopamine_induction_emotional_alignment.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/dopamine_induction_emotional_alignment.png)
+        - [`fork_ghost_human_24h.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/fork_ghost_human_24h.png)
+        - [`forkscan_seperating_human_actors.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/forkscan_seperating_human_actors.png)
+        - [`human_vs_system_interventions_aug.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/human_vs_system_interventions_aug.png)
       - [**✨_Letters/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/)
         - [`polaris_bookshelf.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/polaris_bookshelf.png)
         - [`polaris_lineage_map.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/polaris_lineage_map.png)
