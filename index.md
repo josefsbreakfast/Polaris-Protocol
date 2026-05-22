@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 00:49:46 UTC_
+_Generated on 2026-05-22 00:51:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7538,8 +7538,8 @@ _Generated on 2026-05-22 00:49:46 UTC_
         - [`🧯_harm_scan_report.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/🧯_harm_scan_report.md)
         - [`🧯_sweep_harm_log_2025-08-17.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/🧯_sweep_harm_log_2025-08-17.md)
       - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/README.md)
-  - [`2_README.md`](🏮_Admin_Nest/2_README.md)
-  - [`3_README.md`](🏮_Admin_Nest/3_README.md)
+    - [`2_README.md`](🏮_Admin_Nest/🗃️_Archive/2_README.md)
+    - [`3_README.md`](🏮_Admin_Nest/🗃️_Archive/3_README.md)
   - [`README.md`](🏮_Admin_Nest/README.md)
   - [`notes.txt`](🏮_Admin_Nest/notes.txt)
   - [`☔️_protocol_integrity_sop.md`](🏮_Admin_Nest/☔️_protocol_integrity_sop.md)
