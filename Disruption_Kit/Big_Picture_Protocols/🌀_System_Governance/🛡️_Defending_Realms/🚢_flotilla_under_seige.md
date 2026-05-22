@@ -749,6 +749,7 @@ The argument therefore becomes:
 - [📹: Aaron Parnas: "News: International Outrage As Israel's Far-Right Minister Posts Video Of Security Forces Abusing Flotilla Activists"](https://vm.tiktok.com/ZNRtcq8E5/)
 - [📹: RTÉ: "President Catherine Connolly has said that she is 'very worried' after her sister was among a number of Irish citizens on board an aid flotilla detained
 42.5K by Israel."](https://vm.tiktok.com/ZNRtc498o/)
+- [📹: Donncha O Murchú: Uachtarán na hÉireann, Catherine Connolly, ag caint faoina deirfiúr, an Dr. Margaret Connolly, atá gafa ag fórsaí Iosrael ar bord an Flotilla.](https://vm.tiktok.com/ZNRnhGdUf/) – *De ghnáth, bíonn roinnt Gaeilge i mo bheatha. B'éigean dom cuardach a dhéanamh air seo de láimh – amhail is dá mba rud é gur tharla "dí-rangú ainm" don ábhar.*  
 - [📲: LinkedIn: "Global Sumud Flotilla: All boats have been intercepted."](https://www.linkedin.com/posts/all-boats-have-been-intercepted-we-are-share-7462603390435385344-c0LT)
 - [📹: Richard Boyd Barrett TD: Question In The Dáil](https://vm.tiktok.com/ZNRt3phNT/)
 - [📹: RTÉ: "Taoiseach criticises
@@ -764,9 +765,7 @@ The argument therefore becomes:
 - [📹: NewsBaba: "Ben Gvir Video of Gaza Flotilla Activists Has Set Fire To Western Politics & Media"](https://vm.tiktok.com/ZNRtEh56g/)
 - [📹: 20 Minutes: "Ce mercredi 20 mai, le ministre israélien de la Sécurité nationale et responsable politique d'extrême droite ltamapBen Gvir a publié sur ses réseaux sociaux une vidéo accompagnée dela légende que
 « Bienvenue en Israël»."](https://vm.tiktok.com/ZNRtEDyT5/)
-- [📹: CNN: "Far-Right National Security
-Minister Itamar
-Ben-Gvir Taunts Flotilla Activists"](https://vm.tiktok.com/ZNRtEsu2C/)  
+- [📹: CNN: "Far-Right National Security Minister Itamar Ben-Gvir Taunts Flotilla Activists"](https://vm.tiktok.com/ZNRtEsu2C/)  
 - [📹: MEE: "'Appalling', 'degrading' and
 'unacceptable' is how EU leaders have condemned the footage released by Israel's Security Minister Itamar Ben-Gvir showing the abuse of the detainede d flotilla passengers which sparked international outrage."](https://vm.tiktok.com/ZNRnhpgmW/)  
 
