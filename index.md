@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 12:45:10 UTC_
+_Generated on 2026-05-22 13:28:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6368,6 +6368,7 @@ _Generated on 2026-05-22 12:45:10 UTC_
       - [`📊_visibility_weighting_and_synthetic_clustering.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/📊_visibility_weighting_and_synthetic_clustering.md)
       - [`📰_prevent_schmitt_media_bleed.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/📰_prevent_schmitt_media_bleed.md)
       - [`🔍_search_term_erosion.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔍_search_term_erosion.md)
+      - [`🔮_the_maths_of_incentive_change.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_the_maths_of_incentive_change.md)
       - [`🔮_visibility_collapse_of_dissenting_bodies.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_collapse_of_dissenting_bodies.md)
       - [`🔮_visibility_indexing_anomaly_cidt_trigger.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🔮_visibility_indexing_anomaly_cidt_trigger.md)
       - [`🛰️_seo_as_a_pressure_surface.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🛰️_seo_as_a_pressure_surface.md)
