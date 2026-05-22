@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 12:04:50 UTC_
+_Generated on 2026-05-22 12:07:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6698,9 +6698,6 @@ _Generated on 2026-05-22 12:04:50 UTC_
       - [`🩺_health_framed_preemptive_models_women_mini_review_v0_2.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🩺_health_framed_preemptive_models_women_mini_review_v0_2.md)
       - [`🩺_health_framed_preemptive_models_women_mini_review_v0_3.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🩺_health_framed_preemptive_models_women_mini_review_v0_3.md)
     - [**☑️_New_Lists/**](Polaris_Nest/SCP-VoiceX_Casefiles/☑️_New_Lists/)
-      - [`Top_500_Training_Words.csv`](Polaris_Nest/SCP-VoiceX_Casefiles/☑️_New_Lists/Top_500_Training_Words.csv)
-      - [`Top_500_Unique_Printed_Tokens.csv`](Polaris_Nest/SCP-VoiceX_Casefiles/☑️_New_Lists/Top_500_Unique_Printed_Tokens.csv)
-      - [`top_5000_unique_surface_tokens.csv`](Polaris_Nest/SCP-VoiceX_Casefiles/☑️_New_Lists/top_5000_unique_surface_tokens.csv)
       - [`top_500_unique_surface_tokens.csv`](Polaris_Nest/SCP-VoiceX_Casefiles/☑️_New_Lists/top_500_unique_surface_tokens.csv)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
@@ -7451,6 +7448,9 @@ _Generated on 2026-05-22 12:04:50 UTC_
           - [`Top_500_Distinct_Tokens.csv`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/☑️_New_Lists/Top_500_Distinct_Tokens.csv)
           - [`Top_500_Influence_Words.csv`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/☑️_New_Lists/Top_500_Influence_Words.csv)
           - [`Top_500_Influence_Words_Sample.csv`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/☑️_New_Lists/Top_500_Influence_Words_Sample.csv)
+          - [`Top_500_Training_Words.csv`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/☑️_New_Lists/Top_500_Training_Words.csv)
+          - [`Top_500_Unique_Printed_Tokens.csv`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/☑️_New_Lists/Top_500_Unique_Printed_Tokens.csv)
+          - [`top_5000_unique_surface_tokens.csv`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/☑️_New_Lists/top_5000_unique_surface_tokens.csv)
         - [`SCP-VoiceX.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/SCP-VoiceX.md)
         - [`Top_5000_GhostFork_Tokens__Scored_.csv`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/Top_5000_GhostFork_Tokens__Scored_.csv)
         - [`Top_500_Influence_Words.csv`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/Top_500_Influence_Words.csv)
