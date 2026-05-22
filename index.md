@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 22:46:33 UTC_
+_Generated on 2026-05-22 22:53:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6400,20 +6400,6 @@ _Generated on 2026-05-22 22:46:33 UTC_
       - [`🧵_content_unravelling_protocols.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧵_content_unravelling_protocols.md)
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
-    - [`README.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
-    - [`🀄_play_foia_moj_edition.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🀄_play_foia_moj_edition.png)
-    - [`🌈_image_log.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🌈_image_log.md)
-    - [`🎁_DNS_error_Press_Contact_2025-08-31_175850.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🎁_DNS_error_Press_Contact_2025-08-31_175850.png)
-    - [`🎁_DNS_error_unable_speak_mp.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🎁_DNS_error_unable_speak_mp.png)
-    - [`🎣_ai_app_failure_interference.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🎣_ai_app_failure_interference.png)
-    - [`🐀_steal_her_github.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🐀_steal_her_github.png)
-    - [`🐀_steal_her_mouse.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🐀_steal_her_mouse.png)
-    - [`📉_top_10_spoof_email_failures.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/📉_top_10_spoof_email_failures.md)
-    - [`📬_why_old_university_accounts_show_access_attempts.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/📬_why_old_university_accounts_show_access_attempts.md)
-    - [`🦆_ui_glitch_as_psychological_event.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🦆_ui_glitch_as_psychological_event.md)
-    - [`🦠_network_targetted_DNS_throttle_family_law_court_NMO_2025-08-04.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🦠_network_targetted_DNS_throttle_family_law_court_NMO_2025-08-04.png)
-    - [`🧃_20240902_feed_tiktok_rape_undermining.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🧃_20240902_feed_tiktok_rape_undermining.png)
-    - [`🧅_layers_of_spoofing_stupidity.md`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🧅_layers_of_spoofing_stupidity.md)
     - [`🪅_governance_comes_calling.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_governance_comes_calling.png)
     - [`🪅_jobs_still_partially_twinned.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_jobs_still_partially_twinned.png)
     - [`🪅_li_always_equity_analysis_i_trained_medically.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_always_equity_analysis_i_trained_medically.png)
@@ -7566,6 +7552,22 @@ _Generated on 2026-05-22 22:46:33 UTC_
         - [`🪞_i_know_why_youre_all_so_invested_now.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🪞_i_know_why_youre_all_so_invested_now.md)
         - [`🪻_take_me_home.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🪻_take_me_home.md)
         - [`🫁_i_cannot_expand.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🫁_i_cannot_expand.md)
+      - [**🛰️_Metadata_Sabotage_Network/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/)
+        - [**🔎_Evidence_And_Anomalies/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
+          - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
+          - [`🀄_play_foia_moj_edition.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🀄_play_foia_moj_edition.png)
+          - [`🌈_image_log.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🌈_image_log.md)
+          - [`🎁_DNS_error_Press_Contact_2025-08-31_175850.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🎁_DNS_error_Press_Contact_2025-08-31_175850.png)
+          - [`🎁_DNS_error_unable_speak_mp.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🎁_DNS_error_unable_speak_mp.png)
+          - [`🎣_ai_app_failure_interference.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🎣_ai_app_failure_interference.png)
+          - [`🐀_steal_her_github.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🐀_steal_her_github.png)
+          - [`🐀_steal_her_mouse.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🐀_steal_her_mouse.png)
+          - [`📉_top_10_spoof_email_failures.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/📉_top_10_spoof_email_failures.md)
+          - [`📬_why_old_university_accounts_show_access_attempts.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/📬_why_old_university_accounts_show_access_attempts.md)
+          - [`🦆_ui_glitch_as_psychological_event.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🦆_ui_glitch_as_psychological_event.md)
+          - [`🦠_network_targetted_DNS_throttle_family_law_court_NMO_2025-08-04.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🦠_network_targetted_DNS_throttle_family_law_court_NMO_2025-08-04.png)
+          - [`🧃_20240902_feed_tiktok_rape_undermining.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🧃_20240902_feed_tiktok_rape_undermining.png)
+          - [`🧅_layers_of_spoofing_stupidity.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🧅_layers_of_spoofing_stupidity.md)
       - [**🧹_2025-08-11_sexualisation_sweep/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/)
         - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/README.md)
         - [`forensic_sweep_analysis.html`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/forensic_sweep_analysis.html)
