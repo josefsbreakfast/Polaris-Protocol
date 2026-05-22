@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 00:17:32 UTC_
+_Generated on 2026-05-22 00:23:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7457,9 +7457,9 @@ _Generated on 2026-05-22 00:17:32 UTC_
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [**🗃️_Archive/**](🏮_Admin_Nest/🗃️_Archive/)
     - [**💾_Collectors_Editions/**](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/)
+      - [**✨_Letters/**](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/✨_Letters/)
+        - [`✨_it_was_always_this_easy.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/✨_Letters/✨_it_was_always_this_easy.md)
       - [`README.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/README.md)
-      - [`polaris_bookshelf.png`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/polaris_bookshelf.png)
-      - [`polaris_lineage_map.png`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/polaris_lineage_map.png)
       - [`polaris_lineage_timeline.png`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/polaris_lineage_timeline.png)
       - [`✨_chronic_civic_grief.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/✨_chronic_civic_grief.md)
       - [`✨_fragments_and_sparkles.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/✨_fragments_and_sparkles.md)
@@ -7503,6 +7503,13 @@ _Generated on 2026-05-22 00:17:32 UTC_
       - [`🪻_why_them.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🪻_why_them.md)
       - [`🫁_i_cannot_expand.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🫁_i_cannot_expand.md)
     - [**🗄️_Room_101/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/)
+      - [**✨_Letters/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/)
+        - [`polaris_bookshelf.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/polaris_bookshelf.png)
+        - [`polaris_lineage_map.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/polaris_lineage_map.png)
+        - [`⁉️_conversation_erase_event.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/⁉️_conversation_erase_event.md)
+        - [`⚖️_cidt_by_withholding_record_safety.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/⚖️_cidt_by_withholding_record_safety.md)
+        - [`⚖️_erasure_and_predator_tolerance.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/⚖️_erasure_and_predator_tolerance.md)
+        - [`⚖️_key_legal_issues_SARs_NDAs.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/⚖️_key_legal_issues_SARs_NDAs.md)
       - [**🧹_2025-08-11_sexualisation_sweep/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/)
         - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/README.md)
         - [`forensic_sweep_analysis.html`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/forensic_sweep_analysis.html)
@@ -7531,11 +7538,6 @@ _Generated on 2026-05-22 00:17:32 UTC_
       - [`🧿_maimonides_is_turning_in_his_grave.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧿_maimonides_is_turning_in_his_grave.md)
       - [`🧿_reflections_on_reflecting.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧿_reflections_on_reflecting.md)
       - [`🪞_i_know_why_youre_all_so_invested_now.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🪞_i_know_why_youre_all_so_invested_now.md)
-    - [`⁉️_conversation_erase_event.md`](🏮_Admin_Nest/🗃️_Archive/⁉️_conversation_erase_event.md)
-    - [`⚖️_cidt_by_withholding_record_safety.md`](🏮_Admin_Nest/🗃️_Archive/⚖️_cidt_by_withholding_record_safety.md)
-    - [`⚖️_erasure_and_predator_tolerance.md`](🏮_Admin_Nest/🗃️_Archive/⚖️_erasure_and_predator_tolerance.md)
-    - [`⚖️_key_legal_issues_SARs_NDAs.md`](🏮_Admin_Nest/🗃️_Archive/⚖️_key_legal_issues_SARs_NDAs.md)
-    - [`✨_it_was_always_this_easy.md`](🏮_Admin_Nest/🗃️_Archive/✨_it_was_always_this_easy.md)
   - [`2_README.md`](🏮_Admin_Nest/2_README.md)
   - [`3_README.md`](🏮_Admin_Nest/3_README.md)
   - [`README.md`](🏮_Admin_Nest/README.md)
