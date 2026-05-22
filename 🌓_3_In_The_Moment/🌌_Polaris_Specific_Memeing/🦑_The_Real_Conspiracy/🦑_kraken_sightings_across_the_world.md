@@ -1,5 +1,5 @@
 # 🦑 Kraken Sightings Across The World (Wide Web)  
-**First created:** 2026-05-10 | **Last updated:** 2026-05-20  
+**First created:** 2026-05-10 | **Last updated:** 2026-05-22  
 *Sighting the Trident's natural deterrent.*  
 
 ---
@@ -17,6 +17,7 @@ May require more tea.
 
 | Date | Sighting | Landing Area |
 |:-----------|:------------:|------------:|  
+| 2026-05-22  | "Largest octopus bloom in 75 years inspires film"    | [BBC News](https://www.bbc.co.uk/news/articles/cvgz3xxjz0vo)  |
 | 2026-05-10  | "Octopus influx keeping deep sea dolphins inshore"    | [BBC News](https://www.bbc.co.uk/news/articles/c8e8pp5ggllo)   |  
 | 2026-04-28  | "Not just folklore: A giant kraken-like octopus terrorized the seas in the age of dinosaurs"    | [The Week](https://theweek.com/science/giant-kraken-like-octopus-ruled-ancient-seas-cretaceous)   |  
 | 2026-04-24  | BeyondTheBlue: "Why Squids Are So Terrifying In The Antarctic Ocean"  |  [YouTube](https://youtu.be/UuvsH5Qu9lM?si=X6PSXri8wwgnMkgU)  |
@@ -54,4 +55,4 @@ It contributes to the archive by *letting you know where they are*.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-20_
+_Last updated: 2026-05-22_
