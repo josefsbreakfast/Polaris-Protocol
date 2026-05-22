@@ -749,7 +749,7 @@ The argument therefore becomes:
 - [📹: Aaron Parnas: "News: International Outrage As Israel's Far-Right Minister Posts Video Of Security Forces Abusing Flotilla Activists"](https://vm.tiktok.com/ZNRtcq8E5/)
 - [📹: RTÉ: "President Catherine Connolly has said that she is 'very worried' after her sister was among a number of Irish citizens on board an aid flotilla detained
 42.5K by Israel."](https://vm.tiktok.com/ZNRtc498o/)
-- [📹: Donncha O Murchú: Uachtarán na hÉireann, Catherine Connolly, ag caint faoina deirfiúr, an Dr. Margaret Connolly, atá gafa ag fórsaí Iosrael ar bord an Flotilla.](https://vm.tiktok.com/ZNRnhGdUf/) – *"De ghnáth, bíonn roinnt Gaeilge i mo bheatha. B'éigean dom cuardach a dhéanamh air seo de láimh – amhail is dá mba rud é gur tharla "dí-rangú ainm" don ábhar." (Déantar an Gaeilge a chur chun cinn níos mó ná an Giúdais domsa.)*  
+- [📹: Donncha O Murchú: "Uachtarán na hÉireann, Catherine Connolly, ag caint faoina deirfiúr, an Dr. Margaret Connolly, atá gafa ag fórsaí Iosrael ar bord an Flotilla."](https://vm.tiktok.com/ZNRnhGdUf/) – *De ghnáth, bíonn roinnt Gaeilge i mo bheatha. B'éigean dom cuardach a dhéanamh air seo de láimh – amhail is dá mba rud é gur tharla "dí-rangú ainm" don ábhar. (Déantar an Gaeilge a chur chun cinn níos mó ná an Giúdais domsa.)*  
 - [📲: LinkedIn: "Global Sumud Flotilla: All boats have been intercepted."](https://www.linkedin.com/posts/all-boats-have-been-intercepted-we-are-share-7462603390435385344-c0LT)
 - [📹: Richard Boyd Barrett TD: Question In The Dáil](https://vm.tiktok.com/ZNRt3phNT/)
 - [📹: RTÉ: "Taoiseach criticises
