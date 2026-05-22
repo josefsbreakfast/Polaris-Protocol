@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 17:58:57 UTC_
+_Generated on 2026-05-22 20:06:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6363,6 +6363,7 @@ _Generated on 2026-05-22 17:58:57 UTC_
       - [`🌾_possibly_poetry_pipeline.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🌾_possibly_poetry_pipeline.md)
       - [`🏛_embassy_protest_footage_gaps.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/🏛_embassy_protest_footage_gaps.md)
       - [`👑_queens_english_machines_panic.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/👑_queens_english_machines_panic.md)
+      - [`💜👁️‍🗨️_plus_10_psychic_damage.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/💜👁️‍🗨️_plus_10_psychic_damage.md)
       - [`📉_narrative_instability_index.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/📉_narrative_instability_index.md)
       - [`📉_political_gravity_logjam.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/📉_political_gravity_logjam.md)
       - [`📊_visibility_weighting_and_synthetic_clustering.md`](Metadata_Sabotage_Network/Suppression_Layers/🔮_Visibility_Indexing_Anomalies/📊_visibility_weighting_and_synthetic_clustering.md)
