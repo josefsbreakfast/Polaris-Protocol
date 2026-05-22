@@ -1,1 +1,1 @@
-
+this is in progress - old way of recording emotional impact - any entertaining ones will go into collectors editons, updated for readability and tagged to indicate age, any others will go into filing cabinet (ie room 101)
