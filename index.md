@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-22 12:15:19 UTC_
+_Generated on 2026-05-22 12:18:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6688,12 +6688,6 @@ _Generated on 2026-05-22 12:15:19 UTC_
     - [`🪆_male_fear_throttling_trigger.md`](Polaris_Nest/Git_Intake_Drawer/🪆_male_fear_throttling_trigger.md)
     - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
     - [`🪐_prosociality_as_nudge_surface.md`](Polaris_Nest/Git_Intake_Drawer/🪐_prosociality_as_nudge_surface.md)
-  - [**SCP-VoiceX_Casefiles/**](Polaris_Nest/SCP-VoiceX_Casefiles/)
-    - [**Institutional_Breach_And_Dataflow/**](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
-      - [`🛠_coerced_character_loop_and_tuner_profile_the_engineer.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🛠_coerced_character_loop_and_tuner_profile_the_engineer.md)
-      - [`🧨_those_universities_used_my_bones.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🧨_those_universities_used_my_bones.md)
-      - [`🩺_health_framed_preemptive_models_women_mini_review_v0_1.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🩺_health_framed_preemptive_models_women_mini_review_v0_1.md)
-      - [`🩺_health_framed_preemptive_models_women_mini_review_v0_2.md`](Polaris_Nest/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🩺_health_framed_preemptive_models_women_mini_review_v0_2.md)
 - [**scripts/**](scripts/)
   - [**maintenance/**](scripts/maintenance/)
     - [`README.md`](scripts/maintenance/README.md)
@@ -7436,6 +7430,10 @@ _Generated on 2026-05-22 12:15:19 UTC_
         - [**Institutional_Breach_And_Dataflow/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
           - [`behavioural_ai_connector_proximity_map.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/behavioural_ai_connector_proximity_map.png)
+          - [`🛠_coerced_character_loop_and_tuner_profile_the_engineer.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🛠_coerced_character_loop_and_tuner_profile_the_engineer.md)
+          - [`🧨_those_universities_used_my_bones.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🧨_those_universities_used_my_bones.md)
+          - [`🩺_health_framed_preemptive_models_women_mini_review_v0_1.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🩺_health_framed_preemptive_models_women_mini_review_v0_1.md)
+          - [`🩺_health_framed_preemptive_models_women_mini_review_v0_2.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🩺_health_framed_preemptive_models_women_mini_review_v0_2.md)
           - [`🩺_health_framed_preemptive_models_women_mini_review_v0_3.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/🩺_health_framed_preemptive_models_women_mini_review_v0_3.md)
         - [**☑️_New_Lists/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/☑️_New_Lists/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/☑️_New_Lists/README.md)
