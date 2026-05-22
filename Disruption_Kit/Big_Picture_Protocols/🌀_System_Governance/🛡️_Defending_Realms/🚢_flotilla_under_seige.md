@@ -1,5 +1,5 @@
 # 🚢 Flotilla Under Siege  
-**First created:** 2026-05-20 | **Last updated:** 2026-05-21  
+**First created:** 2026-05-20 | **Last updated:** 2026-05-22  
 *How Israel’s expanding maritime interception posture in the Mediterranean reflects the long-term maintenance logic of the Gaza siege regime, the erosion of humanitarian legitimacy, and the growing collision between blockade doctrine, genocide-prevention obligations, alliance cohesion, and the survivability of the post-war international order.*
 
 ---
@@ -763,14 +763,12 @@ The argument therefore becomes:
 - [📹: Sky News: "Israel's national security minister sparked backlash at home and abroad after posting videos showing him taunting detained Gaza flotilla activists, prompting a public rebuke from Prime Minister Benjamin Netanyahu."](https://vm.tiktok.com/ZNRt3wc8A/)
 - [📹: NewsBaba: "Ben Gvir Video of Gaza Flotilla Activists Has Set Fire To Western Politics & Media"](https://vm.tiktok.com/ZNRtEh56g/)
 - [📹: 20 Minutes: "Ce mercredi 20 mai, le ministre israélien de la Sécurité nationale et responsable politique d'extrême droite ltamapBen Gvir a publié sur ses réseaux sociaux une vidéo accompagnée dela légende que
-« Bienvenue en Israël »."](https://vm.tiktok.com/ZNRtEDyT5/)
+« Bienvenue en Israël»."](https://vm.tiktok.com/ZNRtEDyT5/)
 - [📹: CNN: "Far-Right National Security
 Minister Itamar
 Ben-Gvir Taunts Flotilla Activists"](https://vm.tiktok.com/ZNRtEsu2C/)  
-
-*So yes, the prisoners being humiliated in public? They almost certainly include British subjects. Where is the Prime Minister? Where is the Crown? Where are The Patriots™️?*  
-
-*Centuries of British imperial piracy, via the various naval arrangements from these rocks, and you're telling me none of you are bothered about even the sovereignity of the thing? Baffling.*  
+- [📹: MEE: "'Appalling', 'degrading' and
+'unacceptable' is how EU leaders have condemned the footage released by Israel's Security Minister Itamar Ben-Gvir showing the abuse of the detainede d flotilla passengers which sparked international outrage."](https://vm.tiktok.com/ZNRnhpgmW/)  
 
 *Action cannot start and end with condemnation of Ben Gvir; where is the end of the seige and starvation of the people of Gaza?*  
 
@@ -797,4 +795,4 @@ It examines how prolonged blockade maintenance, maritime interception doctrine, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-21_
+_Last updated: 2026-05-22_
