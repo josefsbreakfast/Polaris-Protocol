@@ -1,4 +1,4 @@
-# 💜👁️‍🗨️_plus_10_psychic_damage.md  
+# 💜👁️‍🗨️ + 10 Psychic Damage  
 **First created:** 2026-05-22 | **Last updated:** 2026-05-22  
 *How trauma, algorithmic amplification, legacy institutional communication patterns, and emotionally clustered reporting environments create cumulative psychic load for survivors in modern information systems.*
 
