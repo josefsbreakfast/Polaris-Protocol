@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:11:21 UTC_
+_Generated on 2026-05-23 21:12:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6518,7 +6518,6 @@ _Generated on 2026-05-23 21:11:21 UTC_
     - [`🧵_narrative_unravelling_how_men_exit_identities_they_were_never_meant_to_wear.md`](Polaris_Nest/Git_Intake_Drawer/🧵_narrative_unravelling_how_men_exit_identities_they_were_never_meant_to_wear.md)
     - [`🧵_overproduction_boredom.md`](Polaris_Nest/Git_Intake_Drawer/🧵_overproduction_boredom.md)
     - [`🧶_gossip_with_a_pay_grade.md`](Polaris_Nest/Git_Intake_Drawer/🧶_gossip_with_a_pay_grade.md)
-    - [`🧷_structural_attraction_to_power_roles.md`](Polaris_Nest/Git_Intake_Drawer/🧷_structural_attraction_to_power_roles.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6526,6 +6525,7 @@ _Generated on 2026-05-23 21:11:21 UTC_
     - [`🏚️_full_stack_institutional_failure_redux.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure_redux.md)
     - [`💋_surveillance_as_the_new_pimp.md`](🌑_1_Origin_Points/.🌱_Still_Growing/💋_surveillance_as_the_new_pimp.md)
     - [`🦖_20_years_of_trex_behaviour.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🦖_20_years_of_trex_behaviour.md)
+    - [`🧷_structural_attraction_to_power_roles.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧷_structural_attraction_to_power_roles.md)
     - [`🧼_courtier_class_austerity.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧼_courtier_class_austerity.md)
     - [`🧼_thin_data_fragility.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧼_thin_data_fragility.md)
     - [`🧾_procurement_fragility.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧾_procurement_fragility.md)
