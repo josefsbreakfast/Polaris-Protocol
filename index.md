@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:04:40 UTC_
+_Generated on 2026-05-23 21:05:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6524,7 +6524,6 @@ _Generated on 2026-05-23 21:04:40 UTC_
     - [`🧼_thin_data_fragility.md`](Polaris_Nest/Git_Intake_Drawer/🧼_thin_data_fragility.md)
     - [`🧾_data_lineage_review.md`](Polaris_Nest/Git_Intake_Drawer/🧾_data_lineage_review.md)
     - [`🧾_pre_action_notification_template.md`](Polaris_Nest/Git_Intake_Drawer/🧾_pre_action_notification_template.md)
-    - [`🧾_soft_wipe_cache_evidence.md`](Polaris_Nest/Git_Intake_Drawer/🧾_soft_wipe_cache_evidence.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6689,6 +6688,7 @@ _Generated on 2026-05-23 21:04:40 UTC_
     - [`README.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/README.md)
     - [`🇬🇧_how_brexit_killed_microexporters.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🇬🇧_how_brexit_killed_microexporters.md)
     - [`🧹_uk_rugsweeping_olympics.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧹_uk_rugsweeping_olympics.md)
+    - [`🧾_soft_wipe_cache_evidence.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧾_soft_wipe_cache_evidence.md)
     - [`🧿_cluster_level_behavioural_modulation_no_vendor_logs.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_cluster_level_behavioural_modulation_no_vendor_logs.md)
     - [`🧿_mask_slip_recognition.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_mask_slip_recognition.md)
     - [`🧿_survivor_credibility_loops.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_survivor_credibility_loops.md)
