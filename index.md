@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 19:47:32 UTC_
+_Generated on 2026-05-23 19:52:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6566,9 +6566,6 @@ _Generated on 2026-05-23 19:47:32 UTC_
     - [`🩻_safeguarding_logic_civil_systems.md`](Polaris_Nest/Git_Intake_Drawer/🩻_safeguarding_logic_civil_systems.md)
     - [`🩻_the_balance_of_legal_exposures.md`](Polaris_Nest/Git_Intake_Drawer/🩻_the_balance_of_legal_exposures.md)
     - [`🪄_metaphor_not_madness_personifying_systems.md`](Polaris_Nest/Git_Intake_Drawer/🪄_metaphor_not_madness_personifying_systems.md)
-    - [`🪆_male_fear_throttling_trigger.md`](Polaris_Nest/Git_Intake_Drawer/🪆_male_fear_throttling_trigger.md)
-    - [`🪐_osa_residual_flag_governance_cluster.md`](Polaris_Nest/Git_Intake_Drawer/🪐_osa_residual_flag_governance_cluster.md)
-    - [`🪐_prosociality_as_nudge_surface.md`](Polaris_Nest/Git_Intake_Drawer/🪐_prosociality_as_nudge_surface.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6887,6 +6884,7 @@ _Generated on 2026-05-23 19:47:32 UTC_
   - [**.🌱_Still_Growing/**](🌓_2_Signs_Symptoms/.🌱_Still_Growing/)
     - [`🇬🇧_how_brexit_killed_microexporters.md`](🌓_2_Signs_Symptoms/.🌱_Still_Growing/🇬🇧_how_brexit_killed_microexporters.md)
     - [`🧿_uncanny_imaging.md`](🌓_2_Signs_Symptoms/.🌱_Still_Growing/🧿_uncanny_imaging.md)
+    - [`🪆_male_fear_throttling_trigger.md`](🌓_2_Signs_Symptoms/.🌱_Still_Growing/🪆_male_fear_throttling_trigger.md)
 - [**🌓_3_In_The_Moment/**](🌓_3_In_The_Moment/)
   - [**.🌱_Still_Growing/**](🌓_3_In_The_Moment/.🌱_Still_Growing/)
     - [`README.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/README.md)
@@ -7334,9 +7332,13 @@ _Generated on 2026-05-23 19:47:32 UTC_
     - [`🌦️_cloudbusting_the_future_we_never_built.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/🌦️_cloudbusting_the_future_we_never_built.md)
     - [`🦾_the_power_of_strong_foundations.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/🦾_the_power_of_strong_foundations.md)
   - [`README.md`](🌕_5_Long_Strategies/README.md)
+- [**🌖_4_Small_Steps/**](🌖_4_Small_Steps/)
+  - [**.🌱_Still_Growing/**](🌖_4_Small_Steps/.🌱_Still_Growing/)
+    - [`🪐_osa_residual_flag_governance_cluster.md`](🌖_4_Small_Steps/.🌱_Still_Growing/🪐_osa_residual_flag_governance_cluster.md)
 - [**🌗_3_In_The_Moment/**](🌗_3_In_The_Moment/)
   - [**.🌱_Still_Growing/**](🌗_3_In_The_Moment/.🌱_Still_Growing/)
     - [`🌀_good_code_is_lean_code.md`](🌗_3_In_The_Moment/.🌱_Still_Growing/🌀_good_code_is_lean_code.md)
+    - [`🪐_prosociality_as_nudge_surface.md`](🌗_3_In_The_Moment/.🌱_Still_Growing/🪐_prosociality_as_nudge_surface.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [**🌱_Still_Growing/**](🏮_Admin_Nest/🌱_Still_Growing/)
     - [`README.md`](🏮_Admin_Nest/🌱_Still_Growing/README.md)
