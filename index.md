@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 19:35:15 UTC_
+_Generated on 2026-05-23 19:37:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6399,10 +6399,6 @@ _Generated on 2026-05-23 19:35:15 UTC_
       - [`🧭_misroute_visibility.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧭_misroute_visibility.md)
       - [`🧵_content_unravelling_protocols.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧵_content_unravelling_protocols.md)
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
-  - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
-    - [`🪅_twinned_data_artefacts.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_twinned_data_artefacts.png)
-    - [`🪅_who_lives_in_picton.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_who_lives_in_picton.png)
-    - [`🪅_yet_more_job_offer_twinning.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_yet_more_job_offer_twinning.png)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
@@ -7569,6 +7565,9 @@ _Generated on 2026-05-23 19:35:15 UTC_
           - [`🪅_more_canadian_jobs_specialisms.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_more_canadian_jobs_specialisms.png)
           - [`🪅_more_cv_twinned_artefacts.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_more_cv_twinned_artefacts.png)
           - [`🪅_over_viewed_comments_still.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_over_viewed_comments_still.png)
+          - [`🪅_twinned_data_artefacts.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_twinned_data_artefacts.png)
+          - [`🪅_who_lives_in_picton.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_who_lives_in_picton.png)
+          - [`🪅_yet_more_job_offer_twinning.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_yet_more_job_offer_twinning.png)
       - [**🧹_2025-08-11_sexualisation_sweep/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/)
         - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/README.md)
         - [`forensic_sweep_analysis.html`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/forensic_sweep_analysis.html)
