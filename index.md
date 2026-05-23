@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:39:16 UTC_
+_Generated on 2026-05-23 21:40:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6488,7 +6488,6 @@ _Generated on 2026-05-23 21:39:16 UTC_
     - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
     - [`🧮_forensic_transparency_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧮_forensic_transparency_toolkit.md)
     - [`🧯_signs_your_brain_is_tired_because_society_is_batshit.md`](Polaris_Nest/Git_Intake_Drawer/🧯_signs_your_brain_is_tired_because_society_is_batshit.md)
-    - [`🧯_sonata_aftershock_and_fear_procurement.md`](Polaris_Nest/Git_Intake_Drawer/🧯_sonata_aftershock_and_fear_procurement.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6673,6 +6672,7 @@ _Generated on 2026-05-23 21:39:16 UTC_
   - [**.🌱_Still_Growing/**](🌒_2_Signs_Symptoms/.🌱_Still_Growing/)
     - [`README.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/README.md)
     - [`🇬🇧_how_brexit_killed_microexporters.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🇬🇧_how_brexit_killed_microexporters.md)
+    - [`🧯_sonata_aftershock_and_fear_procurement.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧯_sonata_aftershock_and_fear_procurement.md)
     - [`🧯_synthetic_pair_breach_and_industry_reflex.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧯_synthetic_pair_breach_and_industry_reflex.md)
     - [`🧰_middleware_hijack_agentics.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧰_middleware_hijack_agentics.md)
     - [`🧰_safety_mode_shifts_llm_output_profiles.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧰_safety_mode_shifts_llm_output_profiles.md)
