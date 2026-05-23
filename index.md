@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:49:01 UTC_
+_Generated on 2026-05-23 20:50:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6530,7 +6530,6 @@ _Generated on 2026-05-23 20:49:01 UTC_
     - [`🧿_cluster_level_behavioural_modulation_no_vendor_logs.md`](Polaris_Nest/Git_Intake_Drawer/🧿_cluster_level_behavioural_modulation_no_vendor_logs.md)
     - [`🧿_de_anonymisation_by_composite_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧿_de_anonymisation_by_composite_architecture.md)
     - [`🧿_did_the_uk_learn_from_the_troubles.md`](Polaris_Nest/Git_Intake_Drawer/🧿_did_the_uk_learn_from_the_troubles.md)
-    - [`🧿_his_reaction_is_the_flag.md`](Polaris_Nest/Git_Intake_Drawer/🧿_his_reaction_is_the_flag.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6695,6 +6694,7 @@ _Generated on 2026-05-23 20:49:01 UTC_
     - [`🧹_uk_rugsweeping_olympics.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧹_uk_rugsweeping_olympics.md)
     - [`🧿_mask_slip_recognition.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_mask_slip_recognition.md)
     - [`🧿_survivor_credibility_loops.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_survivor_credibility_loops.md)
+    - [`🧿_the_reaction_is_the_flag.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_the_reaction_is_the_flag.md)
     - [`🧿_trauma_misread_prevent.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_trauma_misread_prevent.md)
     - [`🧿_uncanny_imaging.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_uncanny_imaging.md)
     - [`🩸_reverse_victim_logic.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🩸_reverse_victim_logic.md)
