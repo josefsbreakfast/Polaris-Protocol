@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 19:15:04 UTC_
+_Generated on 2026-05-23 19:15:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6400,7 +6400,6 @@ _Generated on 2026-05-23 19:15:04 UTC_
       - [`🧵_content_unravelling_protocols.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧵_content_unravelling_protocols.md)
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
-    - [`🪅_li_back_in_throttle_box.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_back_in_throttle_box.png)
     - [`🪅_li_brief_brum_moment.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_brief_brum_moment.png)
     - [`🪅_li_brief_out_of_box.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_brief_out_of_box.png)
     - [`🪅_li_brief_release.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_brief_release.png)
@@ -7569,6 +7568,7 @@ _Generated on 2026-05-23 19:15:04 UTC_
           - [`🪅_governance_comes_calling.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_governance_comes_calling.png)
           - [`🪅_jobs_still_partially_twinned.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_jobs_still_partially_twinned.png)
           - [`🪅_li_always_equity_analysis_i_trained_medically.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_always_equity_analysis_i_trained_medically.png)
+          - [`🪅_li_back_in_throttle_box.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_back_in_throttle_box.png)
       - [**🧹_2025-08-11_sexualisation_sweep/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/)
         - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/README.md)
         - [`forensic_sweep_analysis.html`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/forensic_sweep_analysis.html)
