@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:35:33 UTC_
+_Generated on 2026-05-23 20:36:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6539,7 +6539,6 @@ _Generated on 2026-05-23 20:35:33 UTC_
     - [`🧿_survivor_credibility_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧿_survivor_credibility_loops.md)
     - [`🧿_the_tech_bro_to_kylo_ren_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧿_the_tech_bro_to_kylo_ren_pipeline.md)
     - [`🧿_trauma_misread_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧿_trauma_misread_prevent.md)
-    - [`🧿_triangulation_via_anonymous_metadata.md`](Polaris_Nest/Git_Intake_Drawer/🧿_triangulation_via_anonymous_metadata.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6550,6 +6549,7 @@ _Generated on 2026-05-23 20:35:33 UTC_
     - [`🧾_procurement_fragility.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧾_procurement_fragility.md)
     - [`🧿_lexicon_governance_failures.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_lexicon_governance_failures.md)
     - [`🧿_targeted_metadata_capture_in_prevent.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_targeted_metadata_capture_in_prevent.md)
+    - [`🧿_triangulation_via_anonymous_metadata.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_triangulation_via_anonymous_metadata.md)
     - [`🧿_uk_hard_to_model_easy_to_manipulate.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_uk_hard_to_model_easy_to_manipulate.md)
     - [`🧿_why_opaque_systems_attract_abusive_personalities.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_why_opaque_systems_attract_abusive_personalities.md)
     - [`🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md)
