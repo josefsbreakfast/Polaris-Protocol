@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 19:44:39 UTC_
+_Generated on 2026-05-23 19:45:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6413,7 +6413,6 @@ _Generated on 2026-05-23 19:44:39 UTC_
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
     - [`🌾_on_the_importance_of_trading_fairly.md`](Polaris_Nest/Git_Intake_Drawer/🌾_on_the_importance_of_trading_fairly.md)
     - [`🏙️_nottingham_divestment_motion_context.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_nottingham_divestment_motion_context.md)
-    - [`🏚️_full_stack_institutional_failure.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
     - [`🏛️_protect_checks_and_balances.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_protect_checks_and_balances.md)
@@ -6576,6 +6575,7 @@ _Generated on 2026-05-23 19:44:39 UTC_
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
+    - [`🏚️_full_stack_institutional_failure.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure.md)
   - [**🌸_Containment_Studies/**](🌑_1_Origin_Points/🌸_Containment_Studies/)
     - [**🌙_Everyday_Containment/**](🌑_1_Origin_Points/🌸_Containment_Studies/🌙_Everyday_Containment/)
       - [`README.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌙_Everyday_Containment/README.md)
