@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:08:09 UTC_
+_Generated on 2026-05-23 20:10:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6883,7 +6883,9 @@ _Generated on 2026-05-23 20:08:09 UTC_
   - [**.🌱_Still_Growing/**](🌓_3_In_The_Moment/.🌱_Still_Growing/)
     - [`README.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/README.md)
     - [`🌀_good_code_is_lean_code.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🌀_good_code_is_lean_code.md)
+    - [`🔮_we_are_going_to_need_a_second_breakfast_to_reverse_this_thing.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🔮_we_are_going_to_need_a_second_breakfast_to_reverse_this_thing.md)
     - [`🧯_pipework_anomaly.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧯_pipework_anomaly.md)
+    - [`🪄_metaphor_not_madness_personifying_systems.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🪄_metaphor_not_madness_personifying_systems.md)
     - [`🪐_prosociality_as_nudge_surface.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🪐_prosociality_as_nudge_surface.md)
   - [**⚗️_Apothecary/**](🌓_3_In_The_Moment/⚗️_Apothecary/)
     - [**🌡️_Constitutions/**](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/)
@@ -7331,10 +7333,6 @@ _Generated on 2026-05-23 20:08:09 UTC_
     - [`🌦️_cloudbusting_the_future_we_never_built.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/🌦️_cloudbusting_the_future_we_never_built.md)
     - [`🦾_the_power_of_strong_foundations.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/🦾_the_power_of_strong_foundations.md)
   - [`README.md`](🌕_5_Long_Strategies/README.md)
-- [**🌗_3_In_The_Moment/**](🌗_3_In_The_Moment/)
-  - [**.🌱_Still_Growing/**](🌗_3_In_The_Moment/.🌱_Still_Growing/)
-    - [`🔮_we_are_going_to_need_a_second_breakfast_to_reverse_this_thing.md`](🌗_3_In_The_Moment/.🌱_Still_Growing/🔮_we_are_going_to_need_a_second_breakfast_to_reverse_this_thing.md)
-    - [`🪄_metaphor_not_madness_personifying_systems.md`](🌗_3_In_The_Moment/.🌱_Still_Growing/🪄_metaphor_not_madness_personifying_systems.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [**🌱_Still_Growing/**](🏮_Admin_Nest/🌱_Still_Growing/)
     - [`README.md`](🏮_Admin_Nest/🌱_Still_Growing/README.md)
