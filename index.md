@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:00:44 UTC_
+_Generated on 2026-05-23 20:02:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6706,6 +6706,9 @@ _Generated on 2026-05-23 20:00:44 UTC_
 - [**🌒_2_Signs_Symptoms/**](🌒_2_Signs_Symptoms/)
   - [**.🌱_Still_Growing/**](🌒_2_Signs_Symptoms/.🌱_Still_Growing/)
     - [`README.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/README.md)
+    - [`🇬🇧_how_brexit_killed_microexporters.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🇬🇧_how_brexit_killed_microexporters.md)
+    - [`🧿_uncanny_imaging.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_uncanny_imaging.md)
+    - [`🪆_male_fear_throttling_trigger.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🪆_male_fear_throttling_trigger.md)
   - [**👻_Apparitional_Objects/**](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/)
     - [**🍽️_Fork_Taxonomy/**](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🍽️_Fork_Taxonomy/)
       - [`README.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🍽️_Fork_Taxonomy/README.md)
@@ -6878,11 +6881,6 @@ _Generated on 2026-05-23 20:00:44 UTC_
     - [`🧠_residual_attentional_conditioning_injury.md`](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/🧠_residual_attentional_conditioning_injury.md)
     - [`🧠_the_background_terror.md`](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/🧠_the_background_terror.md)
   - [`README.md`](🌒_2_Signs_Symptoms/README.md)
-- [**🌓_2_Signs_Symptoms/**](🌓_2_Signs_Symptoms/)
-  - [**.🌱_Still_Growing/**](🌓_2_Signs_Symptoms/.🌱_Still_Growing/)
-    - [`🇬🇧_how_brexit_killed_microexporters.md`](🌓_2_Signs_Symptoms/.🌱_Still_Growing/🇬🇧_how_brexit_killed_microexporters.md)
-    - [`🧿_uncanny_imaging.md`](🌓_2_Signs_Symptoms/.🌱_Still_Growing/🧿_uncanny_imaging.md)
-    - [`🪆_male_fear_throttling_trigger.md`](🌓_2_Signs_Symptoms/.🌱_Still_Growing/🪆_male_fear_throttling_trigger.md)
 - [**🌓_3_In_The_Moment/**](🌓_3_In_The_Moment/)
   - [**.🌱_Still_Growing/**](🌓_3_In_The_Moment/.🌱_Still_Growing/)
     - [`README.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/README.md)
