@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:46:58 UTC_
+_Generated on 2026-05-23 21:48:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6403,7 +6403,6 @@ _Generated on 2026-05-23 21:46:58 UTC_
 - [**Polaris_Nest/**](Polaris_Nest/)
   - [**Git_Intake_Drawer/**](Polaris_Nest/Git_Intake_Drawer/)
     - [**🍷_Always_Spiritually_In_Jerusalem/**](Polaris_Nest/Git_Intake_Drawer/🍷_Always_Spiritually_In_Jerusalem/)
-      - [`README.md`](Polaris_Nest/Git_Intake_Drawer/🍷_Always_Spiritually_In_Jerusalem/README.md)
       - [`🌳_three_overaching_clusters.md`](Polaris_Nest/Git_Intake_Drawer/🍷_Always_Spiritually_In_Jerusalem/🌳_three_overaching_clusters.md)
     - [`OnlineDisinfoCampaign_HUNTING_README.md`](Polaris_Nest/Git_Intake_Drawer/OnlineDisinfoCampaign_HUNTING_README.md)
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
@@ -6482,6 +6481,8 @@ _Generated on 2026-05-23 21:46:58 UTC_
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
+    - [**🍷_Always_Spiritually_In_Jerusalem/**](🌑_1_Origin_Points/.🌱_Still_Growing/🍷_Always_Spiritually_In_Jerusalem/)
+      - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🍷_Always_Spiritually_In_Jerusalem/README.md)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
     - [`🏚️_full_stack_institutional_failure.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure_redux.md)
