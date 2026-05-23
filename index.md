@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:07:21 UTC_
+_Generated on 2026-05-23 20:08:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6559,7 +6559,6 @@ _Generated on 2026-05-23 20:07:21 UTC_
     - [`🩹_vulnerability_hyper_visibility.md`](Polaris_Nest/Git_Intake_Drawer/🩹_vulnerability_hyper_visibility.md)
     - [`🩺_healthcare_lockout_from_false_offender_classification.md`](Polaris_Nest/Git_Intake_Drawer/🩺_healthcare_lockout_from_false_offender_classification.md)
     - [`🩻_the_balance_of_legal_exposures.md`](Polaris_Nest/Git_Intake_Drawer/🩻_the_balance_of_legal_exposures.md)
-    - [`🪄_metaphor_not_madness_personifying_systems.md`](Polaris_Nest/Git_Intake_Drawer/🪄_metaphor_not_madness_personifying_systems.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -7335,6 +7334,7 @@ _Generated on 2026-05-23 20:07:21 UTC_
 - [**🌗_3_In_The_Moment/**](🌗_3_In_The_Moment/)
   - [**.🌱_Still_Growing/**](🌗_3_In_The_Moment/.🌱_Still_Growing/)
     - [`🔮_we_are_going_to_need_a_second_breakfast_to_reverse_this_thing.md`](🌗_3_In_The_Moment/.🌱_Still_Growing/🔮_we_are_going_to_need_a_second_breakfast_to_reverse_this_thing.md)
+    - [`🪄_metaphor_not_madness_personifying_systems.md`](🌗_3_In_The_Moment/.🌱_Still_Growing/🪄_metaphor_not_madness_personifying_systems.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [**🌱_Still_Growing/**](🏮_Admin_Nest/🌱_Still_Growing/)
     - [`README.md`](🏮_Admin_Nest/🌱_Still_Growing/README.md)
