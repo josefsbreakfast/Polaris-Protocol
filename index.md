@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:33:41 UTC_
+_Generated on 2026-05-23 20:34:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6541,7 +6541,6 @@ _Generated on 2026-05-23 20:33:41 UTC_
     - [`🧿_trauma_misread_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧿_trauma_misread_prevent.md)
     - [`🧿_triangulation_via_anonymous_metadata.md`](Polaris_Nest/Git_Intake_Drawer/🧿_triangulation_via_anonymous_metadata.md)
     - [`🧿_uk_hard_to_model_easy_to_manipulate.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uk_hard_to_model_easy_to_manipulate.md)
-    - [`🧿_why_disbandment_is_the_only_democratic_option.md`](Polaris_Nest/Git_Intake_Drawer/🧿_why_disbandment_is_the_only_democratic_option.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -7275,6 +7274,7 @@ _Generated on 2026-05-23 20:33:41 UTC_
 - [**🌕_5_Long_Strategies/**](🌕_5_Long_Strategies/)
   - [**.🌱_Still_Growing/**](🌕_5_Long_Strategies/.🌱_Still_Growing/)
     - [`README.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/README.md)
+    - [`🧿_why_disbandment_is_the_only_democratic_option.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/🧿_why_disbandment_is_the_only_democratic_option.md)
   - [**❤️‍🩹_Rehabilitated_Tech/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/)
     - [**🌷_Opening_The_Source/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/)
       - [`README.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/README.md)
