@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:40:15 UTC_
+_Generated on 2026-05-23 20:42:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6535,7 +6535,6 @@ _Generated on 2026-05-23 20:40:15 UTC_
     - [`🧿_misinterpretation_resilience_review.md`](Polaris_Nest/Git_Intake_Drawer/🧿_misinterpretation_resilience_review.md)
     - [`🧿_oversight_paralysis.md`](Polaris_Nest/Git_Intake_Drawer/🧿_oversight_paralysis.md)
     - [`🧿_prevent_duty_as_nitw_black_goat_cult.md`](Polaris_Nest/Git_Intake_Drawer/🧿_prevent_duty_as_nitw_black_goat_cult.md)
-    - [`🧿_survivor_credibility_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧿_survivor_credibility_loops.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6696,6 +6695,7 @@ _Generated on 2026-05-23 20:40:15 UTC_
     - [`README.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/README.md)
     - [`🇬🇧_how_brexit_killed_microexporters.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🇬🇧_how_brexit_killed_microexporters.md)
     - [`🧹_uk_rugsweeping_olympics.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧹_uk_rugsweeping_olympics.md)
+    - [`🧿_survivor_credibility_loops.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_survivor_credibility_loops.md)
     - [`🧿_trauma_misread_prevent.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_trauma_misread_prevent.md)
     - [`🧿_uncanny_imaging.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_uncanny_imaging.md)
     - [`🩸_reverse_victim_logic.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🩸_reverse_victim_logic.md)
