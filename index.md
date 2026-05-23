@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:28:35 UTC_
+_Generated on 2026-05-23 21:29:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6493,8 +6493,6 @@ _Generated on 2026-05-23 21:28:35 UTC_
     - [`🧯_why_debate_never_works_extremist_identity_is_emotional_not_intellectual.md`](Polaris_Nest/Git_Intake_Drawer/🧯_why_debate_never_works_extremist_identity_is_emotional_not_intellectual.md)
     - [`🧰_cross_agency_data_integrity_role_directionality_in_multi_agency_panels.md`](Polaris_Nest/Git_Intake_Drawer/🧰_cross_agency_data_integrity_role_directionality_in_multi_agency_panels.md)
     - [`🧰_governance_risk_behaviour_index.md`](Polaris_Nest/Git_Intake_Drawer/🧰_governance_risk_behaviour_index.md)
-    - [`🧰_middleware_hijack_agentics.md`](Polaris_Nest/Git_Intake_Drawer/🧰_middleware_hijack_agentics.md)
-    - [`🧰_safety_mode_shifts_llm_output_profiles.md`](Polaris_Nest/Git_Intake_Drawer/🧰_safety_mode_shifts_llm_output_profiles.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6679,6 +6677,8 @@ _Generated on 2026-05-23 21:28:35 UTC_
   - [**.🌱_Still_Growing/**](🌒_2_Signs_Symptoms/.🌱_Still_Growing/)
     - [`README.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/README.md)
     - [`🇬🇧_how_brexit_killed_microexporters.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🇬🇧_how_brexit_killed_microexporters.md)
+    - [`🧰_middleware_hijack_agentics.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧰_middleware_hijack_agentics.md)
+    - [`🧰_safety_mode_shifts_llm_output_profiles.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧰_safety_mode_shifts_llm_output_profiles.md)
     - [`🧵_context_collapse_antisemitism_edition.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧵_context_collapse_antisemitism_edition.md)
     - [`🧹_uk_rugsweeping_olympics.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧹_uk_rugsweeping_olympics.md)
     - [`🧾_soft_wipe_cache_evidence.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧾_soft_wipe_cache_evidence.md)
