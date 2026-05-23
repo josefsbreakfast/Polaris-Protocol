@@ -1,5 +1,5 @@
 # 🕊️ Dickin Medal Holders  
-**First created:** 2025-10-12 | **Last updated:** 2026-05-08  
+**First created:** 2025-10-12 | **Last updated:** 2026-05-23  
 *Animals recognised for extraordinary bravery in military or civil-defence service.*  
 
 ---
@@ -172,6 +172,8 @@ Each fulfils the same archetype: the **non-human sentry**, stabilising a world t
 *Further media:*  
 - [More pigeon-related excellence](https://vm.tiktok.com/ZNRUr3TBt/), via TikTok.
 - [Even Larry is tired of the 2026 election cycle.](https://vm.tiktok.com/ZNRskr9W2/)  
+- [📹: coatimvndi: "Pigeons are the second most decorated animal after dogs, for their incredible contributions to info delivery during wars and times of tragedy. They saved thousands of lives during WW2 but are rarely given the credit they deserve."](https://vm.tiktok.com/ZNRnMCNFj/)
+- [📹: RSPB: "the pigeons will have their justice."](https://vm.tiktok.com/ZNRnSkqWe/)  
 
 ---
 
@@ -193,4 +195,4 @@ It documents our fabulous animal friends, many of whom have fought and died for 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-05-23_
