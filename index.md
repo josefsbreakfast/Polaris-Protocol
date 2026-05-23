@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:18:33 UTC_
+_Generated on 2026-05-23 20:20:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6462,7 +6462,6 @@ _Generated on 2026-05-23 20:18:33 UTC_
     - [`🦇_prestige_capture_mechanisms.md`](Polaris_Nest/Git_Intake_Drawer/🦇_prestige_capture_mechanisms.md)
     - [`🦊_why_we_say_eat_the_rich.md`](Polaris_Nest/Git_Intake_Drawer/🦊_why_we_say_eat_the_rich.md)
     - [`🦎_how_scaled_child_sex_trafficking_is_perpetuated_in_the_uk.md`](Polaris_Nest/Git_Intake_Drawer/🦎_how_scaled_child_sex_trafficking_is_perpetuated_in_the_uk.md)
-    - [`🦖_20_years_of_trex_behaviour.md`](Polaris_Nest/Git_Intake_Drawer/🦖_20_years_of_trex_behaviour.md)
     - [`🧃_juicebox_theory_of_accountability.md`](Polaris_Nest/Git_Intake_Drawer/🧃_juicebox_theory_of_accountability.md)
     - [`🧄_central_inspectorate_of_allium.md`](Polaris_Nest/Git_Intake_Drawer/🧄_central_inspectorate_of_allium.md)
     - [`🧄_why_we_need_an_inquiry.md`](Polaris_Nest/Git_Intake_Drawer/🧄_why_we_need_an_inquiry.md)
@@ -6560,6 +6559,7 @@ _Generated on 2026-05-23 20:18:33 UTC_
     - [`🏚️_full_stack_institutional_failure.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure_redux.md)
     - [`💋_surveillance_as_the_new_pimp.md`](🌑_1_Origin_Points/.🌱_Still_Growing/💋_surveillance_as_the_new_pimp.md)
+    - [`🦖_20_years_of_trex_behaviour.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🦖_20_years_of_trex_behaviour.md)
     - [`🧾_procurement_fragility.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧾_procurement_fragility.md)
     - [`🧿_lexicon_governance_failures.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_lexicon_governance_failures.md)
     - [`🧿_why_opaque_systems_attract_abusive_personalities.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_why_opaque_systems_attract_abusive_personalities.md)
