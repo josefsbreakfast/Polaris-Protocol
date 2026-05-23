@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:27:44 UTC_
+_Generated on 2026-05-23 21:28:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6495,7 +6495,6 @@ _Generated on 2026-05-23 21:27:44 UTC_
     - [`🧰_governance_risk_behaviour_index.md`](Polaris_Nest/Git_Intake_Drawer/🧰_governance_risk_behaviour_index.md)
     - [`🧰_middleware_hijack_agentics.md`](Polaris_Nest/Git_Intake_Drawer/🧰_middleware_hijack_agentics.md)
     - [`🧰_safety_mode_shifts_llm_output_profiles.md`](Polaris_Nest/Git_Intake_Drawer/🧰_safety_mode_shifts_llm_output_profiles.md)
-    - [`🧱_friction_fields_and_the_dashboard.md`](Polaris_Nest/Git_Intake_Drawer/🧱_friction_fields_and_the_dashboard.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6503,6 +6502,7 @@ _Generated on 2026-05-23 21:27:44 UTC_
     - [`🏚️_full_stack_institutional_failure_redux.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure_redux.md)
     - [`💋_surveillance_as_the_new_pimp.md`](🌑_1_Origin_Points/.🌱_Still_Growing/💋_surveillance_as_the_new_pimp.md)
     - [`🦖_20_years_of_trex_behaviour.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🦖_20_years_of_trex_behaviour.md)
+    - [`🧱_2_friction_fields_dashboard.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧱_2_friction_fields_dashboard.md)
     - [`🧱_administrative_precursor_problem.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧱_administrative_precursor_problem.md)
     - [`🧱_friction_fields_dashboard.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧱_friction_fields_dashboard.md)
     - [`🧱_hostile_architecture_vs_universal_design.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧱_hostile_architecture_vs_universal_design.md)
