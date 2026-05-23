@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:04:03 UTC_
+_Generated on 2026-05-23 20:07:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6448,7 +6448,6 @@ _Generated on 2026-05-23 20:04:03 UTC_
     - [`🔥_the_one_sentence_panic.md`](Polaris_Nest/Git_Intake_Drawer/🔥_the_one_sentence_panic.md)
     - [`🔮_the_all_seeing_data_mine.md`](Polaris_Nest/Git_Intake_Drawer/🔮_the_all_seeing_data_mine.md)
     - [`🔮_vibe_doctrine_cluster_readme.md`](Polaris_Nest/Git_Intake_Drawer/🔮_vibe_doctrine_cluster_readme.md)
-    - [`🔮_we_are_going_to_need_a_second_breakfast_to_reverse_this_thing.md`](Polaris_Nest/Git_Intake_Drawer/🔮_we_are_going_to_need_a_second_breakfast_to_reverse_this_thing.md)
     - [`🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md`](Polaris_Nest/Git_Intake_Drawer/🗣️_example_dialogue_ai_jailbreak_nudging_user_to_leave.md)
     - [`🗺️_crash_constellation_mermaid_diagram.md`](Polaris_Nest/Git_Intake_Drawer/🗺️_crash_constellation_mermaid_diagram.md)
     - [`🚜_rural_policing_as_electoral_stress_test.md`](Polaris_Nest/Git_Intake_Drawer/🚜_rural_policing_as_electoral_stress_test.md)
@@ -6559,7 +6558,6 @@ _Generated on 2026-05-23 20:04:03 UTC_
     - [`🩸_soul_as_product_lineage.md`](Polaris_Nest/Git_Intake_Drawer/🩸_soul_as_product_lineage.md)
     - [`🩹_vulnerability_hyper_visibility.md`](Polaris_Nest/Git_Intake_Drawer/🩹_vulnerability_hyper_visibility.md)
     - [`🩺_healthcare_lockout_from_false_offender_classification.md`](Polaris_Nest/Git_Intake_Drawer/🩺_healthcare_lockout_from_false_offender_classification.md)
-    - [`🩻_safeguarding_logic_civil_systems.md`](Polaris_Nest/Git_Intake_Drawer/🩻_safeguarding_logic_civil_systems.md)
     - [`🩻_the_balance_of_legal_exposures.md`](Polaris_Nest/Git_Intake_Drawer/🩻_the_balance_of_legal_exposures.md)
     - [`🪄_metaphor_not_madness_personifying_systems.md`](Polaris_Nest/Git_Intake_Drawer/🪄_metaphor_not_madness_personifying_systems.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
@@ -6570,6 +6568,7 @@ _Generated on 2026-05-23 20:04:03 UTC_
     - [`🧾_procurement_fragility.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧾_procurement_fragility.md)
     - [`🧿_lexicon_governance_failures.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_lexicon_governance_failures.md)
     - [`🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md)
+    - [`🩻_safeguarding_logic_civil_systems.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩻_safeguarding_logic_civil_systems.md)
   - [**🌸_Containment_Studies/**](🌑_1_Origin_Points/🌸_Containment_Studies/)
     - [**🌙_Everyday_Containment/**](🌑_1_Origin_Points/🌸_Containment_Studies/🌙_Everyday_Containment/)
       - [`README.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌙_Everyday_Containment/README.md)
@@ -7333,6 +7332,9 @@ _Generated on 2026-05-23 20:04:03 UTC_
     - [`🌦️_cloudbusting_the_future_we_never_built.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/🌦️_cloudbusting_the_future_we_never_built.md)
     - [`🦾_the_power_of_strong_foundations.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/🦾_the_power_of_strong_foundations.md)
   - [`README.md`](🌕_5_Long_Strategies/README.md)
+- [**🌗_3_In_The_Moment/**](🌗_3_In_The_Moment/)
+  - [**.🌱_Still_Growing/**](🌗_3_In_The_Moment/.🌱_Still_Growing/)
+    - [`🔮_we_are_going_to_need_a_second_breakfast_to_reverse_this_thing.md`](🌗_3_In_The_Moment/.🌱_Still_Growing/🔮_we_are_going_to_need_a_second_breakfast_to_reverse_this_thing.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [**🌱_Still_Growing/**](🏮_Admin_Nest/🌱_Still_Growing/)
     - [`README.md`](🏮_Admin_Nest/🌱_Still_Growing/README.md)
