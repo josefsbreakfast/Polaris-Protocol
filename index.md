@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:43:47 UTC_
+_Generated on 2026-05-23 20:45:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6533,7 +6533,6 @@ _Generated on 2026-05-23 20:43:47 UTC_
     - [`🧿_his_reaction_is_the_flag.md`](Polaris_Nest/Git_Intake_Drawer/🧿_his_reaction_is_the_flag.md)
     - [`🧿_mask_slip_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🧿_mask_slip_recognition.md)
     - [`🧿_misinterpretation_resilience_review.md`](Polaris_Nest/Git_Intake_Drawer/🧿_misinterpretation_resilience_review.md)
-    - [`🧿_oversight_paralysis.md`](Polaris_Nest/Git_Intake_Drawer/🧿_oversight_paralysis.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6543,6 +6542,7 @@ _Generated on 2026-05-23 20:43:47 UTC_
     - [`🦖_20_years_of_trex_behaviour.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🦖_20_years_of_trex_behaviour.md)
     - [`🧾_procurement_fragility.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧾_procurement_fragility.md)
     - [`🧿_lexicon_governance_failures.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_lexicon_governance_failures.md)
+    - [`🧿_oversight_paralysis.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_oversight_paralysis.md)
     - [`🧿_prevent_duty_as_nitw_black_goat_cult.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_prevent_duty_as_nitw_black_goat_cult.md)
     - [`🧿_targeted_metadata_capture_in_prevent.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_targeted_metadata_capture_in_prevent.md)
     - [`🧿_triangulation_via_anonymous_metadata.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_triangulation_via_anonymous_metadata.md)
