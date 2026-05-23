@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:01:03 UTC_
+_Generated on 2026-05-23 21:03:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6527,8 +6527,6 @@ _Generated on 2026-05-23 21:01:03 UTC_
     - [`🧾_soft_wipe_cache_evidence.md`](Polaris_Nest/Git_Intake_Drawer/🧾_soft_wipe_cache_evidence.md)
     - [`🧾_the_system_already_has_a_story_about_you.md`](Polaris_Nest/Git_Intake_Drawer/🧾_the_system_already_has_a_story_about_you.md)
     - [`🧿_atrocity_pattern_recognition_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧿_atrocity_pattern_recognition_toolkit.md)
-    - [`🧿_cluster_level_behavioural_modulation_no_vendor_logs.md`](Polaris_Nest/Git_Intake_Drawer/🧿_cluster_level_behavioural_modulation_no_vendor_logs.md)
-    - [`🧿_de_anonymisation_by_composite_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧿_de_anonymisation_by_composite_architecture.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6537,6 +6535,7 @@ _Generated on 2026-05-23 21:01:03 UTC_
     - [`💋_surveillance_as_the_new_pimp.md`](🌑_1_Origin_Points/.🌱_Still_Growing/💋_surveillance_as_the_new_pimp.md)
     - [`🦖_20_years_of_trex_behaviour.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🦖_20_years_of_trex_behaviour.md)
     - [`🧾_procurement_fragility.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧾_procurement_fragility.md)
+    - [`🧿_de_anonymisation_by_composite_architecture.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_de_anonymisation_by_composite_architecture.md)
     - [`🧿_did_the_uk_learn_from_the_troubles.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_did_the_uk_learn_from_the_troubles.md)
     - [`🧿_lexicon_governance_failures.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_lexicon_governance_failures.md)
     - [`🧿_oversight_paralysis.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_oversight_paralysis.md)
@@ -6692,6 +6691,7 @@ _Generated on 2026-05-23 21:01:03 UTC_
     - [`README.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/README.md)
     - [`🇬🇧_how_brexit_killed_microexporters.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🇬🇧_how_brexit_killed_microexporters.md)
     - [`🧹_uk_rugsweeping_olympics.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧹_uk_rugsweeping_olympics.md)
+    - [`🧿_cluster_level_behavioural_modulation_no_vendor_logs.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_cluster_level_behavioural_modulation_no_vendor_logs.md)
     - [`🧿_mask_slip_recognition.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_mask_slip_recognition.md)
     - [`🧿_survivor_credibility_loops.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_survivor_credibility_loops.md)
     - [`🧿_the_reaction_is_the_flag.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_the_reaction_is_the_flag.md)
