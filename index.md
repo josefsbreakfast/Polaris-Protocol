@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:39:06 UTC_
+_Generated on 2026-05-23 20:40:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6536,7 +6536,6 @@ _Generated on 2026-05-23 20:39:06 UTC_
     - [`🧿_oversight_paralysis.md`](Polaris_Nest/Git_Intake_Drawer/🧿_oversight_paralysis.md)
     - [`🧿_prevent_duty_as_nitw_black_goat_cult.md`](Polaris_Nest/Git_Intake_Drawer/🧿_prevent_duty_as_nitw_black_goat_cult.md)
     - [`🧿_survivor_credibility_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧿_survivor_credibility_loops.md)
-    - [`🧿_the_tech_bro_to_kylo_ren_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧿_the_tech_bro_to_kylo_ren_pipeline.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6883,6 +6882,7 @@ _Generated on 2026-05-23 20:39:06 UTC_
     - [`🧯_pipework_anomaly.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧯_pipework_anomaly.md)
     - [`🧲_why_vulnerability_flags_attract_abusers.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧲_why_vulnerability_flags_attract_abusers.md)
     - [`🧵_family_class_suspicion_patterns.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧵_family_class_suspicion_patterns.md)
+    - [`🧿_the_tech_bro_to_kylo_ren_pipeline.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧿_the_tech_bro_to_kylo_ren_pipeline.md)
     - [`🩵_kindness_as_correct_training.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🩵_kindness_as_correct_training.md)
     - [`🪄_metaphor_not_madness_personifying_systems.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🪄_metaphor_not_madness_personifying_systems.md)
     - [`🪐_prosociality_as_nudge_surface.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🪐_prosociality_as_nudge_surface.md)
