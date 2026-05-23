@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:27:39 UTC_
+_Generated on 2026-05-23 20:28:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6547,7 +6547,6 @@ _Generated on 2026-05-23 20:27:39 UTC_
     - [`🩸_coercive_dynamics_in_prevent_data.md`](Polaris_Nest/Git_Intake_Drawer/🩸_coercive_dynamics_in_prevent_data.md)
     - [`🩸_contact_with_harm.md`](Polaris_Nest/Git_Intake_Drawer/🩸_contact_with_harm.md)
     - [`🩸_death_as_diplomacy_from_smolensk_to_tver.md`](Polaris_Nest/Git_Intake_Drawer/🩸_death_as_diplomacy_from_smolensk_to_tver.md)
-    - [`🩸_lineage_of_the_cursed_forums.md`](Polaris_Nest/Git_Intake_Drawer/🩸_lineage_of_the_cursed_forums.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6559,6 +6558,7 @@ _Generated on 2026-05-23 20:27:39 UTC_
     - [`🧿_lexicon_governance_failures.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_lexicon_governance_failures.md)
     - [`🧿_why_opaque_systems_attract_abusive_personalities.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_why_opaque_systems_attract_abusive_personalities.md)
     - [`🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md)
+    - [`🩸_lineage_of_the_cursed_forums.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩸_lineage_of_the_cursed_forums.md)
     - [`🩸_mimicry_of_blood_libel.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩸_mimicry_of_blood_libel.md)
     - [`🩸_soul_as_product_lineage.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩸_soul_as_product_lineage.md)
     - [`🩻_safeguarding_logic_civil_systems.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩻_safeguarding_logic_civil_systems.md)
