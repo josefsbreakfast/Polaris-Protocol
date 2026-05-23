@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:10:16 UTC_
+_Generated on 2026-05-23 21:11:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6519,7 +6519,6 @@ _Generated on 2026-05-23 21:10:16 UTC_
     - [`🧵_overproduction_boredom.md`](Polaris_Nest/Git_Intake_Drawer/🧵_overproduction_boredom.md)
     - [`🧶_gossip_with_a_pay_grade.md`](Polaris_Nest/Git_Intake_Drawer/🧶_gossip_with_a_pay_grade.md)
     - [`🧷_structural_attraction_to_power_roles.md`](Polaris_Nest/Git_Intake_Drawer/🧷_structural_attraction_to_power_roles.md)
-    - [`🧸_softness_as_counter_extremism_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧸_softness_as_counter_extremism_infrastructure.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -7274,6 +7273,7 @@ _Generated on 2026-05-23 21:10:16 UTC_
 - [**🌕_5_Long_Strategies/**](🌕_5_Long_Strategies/)
   - [**.🌱_Still_Growing/**](🌕_5_Long_Strategies/.🌱_Still_Growing/)
     - [`README.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/README.md)
+    - [`🧸_softness_as_counter_extremism_infrastructure.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/🧸_softness_as_counter_extremism_infrastructure.md)
     - [`🧿_why_disbandment_is_the_only_democratic_option.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/🧿_why_disbandment_is_the_only_democratic_option.md)
   - [**❤️‍🩹_Rehabilitated_Tech/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/)
     - [**🌷_Opening_The_Source/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/)
