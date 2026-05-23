@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:29:56 UTC_
+_Generated on 2026-05-23 21:30:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6492,7 +6492,6 @@ _Generated on 2026-05-23 21:29:56 UTC_
     - [`🧯_synthetic_pair_breach_and_industry_reflex.md`](Polaris_Nest/Git_Intake_Drawer/🧯_synthetic_pair_breach_and_industry_reflex.md)
     - [`🧯_why_debate_never_works_extremist_identity_is_emotional_not_intellectual.md`](Polaris_Nest/Git_Intake_Drawer/🧯_why_debate_never_works_extremist_identity_is_emotional_not_intellectual.md)
     - [`🧰_cross_agency_data_integrity_role_directionality_in_multi_agency_panels.md`](Polaris_Nest/Git_Intake_Drawer/🧰_cross_agency_data_integrity_role_directionality_in_multi_agency_panels.md)
-    - [`🧰_governance_risk_behaviour_index.md`](Polaris_Nest/Git_Intake_Drawer/🧰_governance_risk_behaviour_index.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -7234,6 +7233,7 @@ _Generated on 2026-05-23 21:29:56 UTC_
 - [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
   - [**.🌱_Still_Growing/**](🌔_4_Small_Steps/.🌱_Still_Growing/)
     - [`README.md`](🌔_4_Small_Steps/.🌱_Still_Growing/README.md)
+    - [`🧰_governance_risk_behaviour_index.md`](🌔_4_Small_Steps/.🌱_Still_Growing/🧰_governance_risk_behaviour_index.md)
     - [`🧱_transparent_guardrail_design.md`](🌔_4_Small_Steps/.🌱_Still_Growing/🧱_transparent_guardrail_design.md)
     - [`🧾_data_lineage_review.md`](🌔_4_Small_Steps/.🌱_Still_Growing/🧾_data_lineage_review.md)
     - [`🧾_pre_action_notification_template.md`](🌔_4_Small_Steps/.🌱_Still_Growing/🧾_pre_action_notification_template.md)
