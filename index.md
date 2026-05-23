@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:10:33 UTC_
+_Generated on 2026-05-23 20:12:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6518,7 +6518,6 @@ _Generated on 2026-05-23 20:10:33 UTC_
     - [`🧳_boardroom_fascism.md`](Polaris_Nest/Git_Intake_Drawer/🧳_boardroom_fascism.md)
     - [`🧳_instrumentalisation_and_elevation_circuit.md`](Polaris_Nest/Git_Intake_Drawer/🧳_instrumentalisation_and_elevation_circuit.md)
     - [`🧵_context_collapse_antisemitism_edition.md`](Polaris_Nest/Git_Intake_Drawer/🧵_context_collapse_antisemitism_edition.md)
-    - [`🧵_family_class_suspicion_patterns.md`](Polaris_Nest/Git_Intake_Drawer/🧵_family_class_suspicion_patterns.md)
     - [`🧵_narrative_unravelling_how_men_exit_identities_they_were_never_meant_to_wear.md`](Polaris_Nest/Git_Intake_Drawer/🧵_narrative_unravelling_how_men_exit_identities_they_were_never_meant_to_wear.md)
     - [`🧵_overproduction_boredom.md`](Polaris_Nest/Git_Intake_Drawer/🧵_overproduction_boredom.md)
     - [`🧶_gossip_with_a_pay_grade.md`](Polaris_Nest/Git_Intake_Drawer/🧶_gossip_with_a_pay_grade.md)
@@ -6885,6 +6884,7 @@ _Generated on 2026-05-23 20:10:33 UTC_
     - [`🌀_good_code_is_lean_code.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🌀_good_code_is_lean_code.md)
     - [`🔮_we_are_going_to_need_a_second_breakfast_to_reverse_this_thing.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🔮_we_are_going_to_need_a_second_breakfast_to_reverse_this_thing.md)
     - [`🧯_pipework_anomaly.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧯_pipework_anomaly.md)
+    - [`🧵_family_class_suspicion_patterns.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧵_family_class_suspicion_patterns.md)
     - [`🪄_metaphor_not_madness_personifying_systems.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🪄_metaphor_not_madness_personifying_systems.md)
     - [`🪐_prosociality_as_nudge_surface.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🪐_prosociality_as_nudge_surface.md)
   - [**⚗️_Apothecary/**](🌓_3_In_The_Moment/⚗️_Apothecary/)
