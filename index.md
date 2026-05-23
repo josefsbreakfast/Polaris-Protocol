@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:40:12 UTC_
+_Generated on 2026-05-23 21:41:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6487,7 +6487,6 @@ _Generated on 2026-05-23 21:40:12 UTC_
     - [`🧮_audit_necromancy.md`](Polaris_Nest/Git_Intake_Drawer/🧮_audit_necromancy.md)
     - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
     - [`🧮_forensic_transparency_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧮_forensic_transparency_toolkit.md)
-    - [`🧯_signs_your_brain_is_tired_because_society_is_batshit.md`](Polaris_Nest/Git_Intake_Drawer/🧯_signs_your_brain_is_tired_because_society_is_batshit.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6867,6 +6866,7 @@ _Generated on 2026-05-23 21:40:12 UTC_
     - [`🌀_good_code_is_lean_code.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🌀_good_code_is_lean_code.md)
     - [`🔮_we_are_going_to_need_a_second_breakfast_to_reverse_this_thing.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🔮_we_are_going_to_need_a_second_breakfast_to_reverse_this_thing.md)
     - [`🧯_pipework_anomaly.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧯_pipework_anomaly.md)
+    - [`🧯_signs_your_brain_is_tired_because_society_is_batshit.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧯_signs_your_brain_is_tired_because_society_is_batshit.md)
     - [`🧲_why_vulnerability_flags_attract_abusers.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧲_why_vulnerability_flags_attract_abusers.md)
     - [`🧵_family_class_suspicion_patterns.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧵_family_class_suspicion_patterns.md)
     - [`🧵_narrative_unravelling_how_men_exit_identities_they_were_never_meant_to_wear.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧵_narrative_unravelling_how_men_exit_identities_they_were_never_meant_to_wear.md)
