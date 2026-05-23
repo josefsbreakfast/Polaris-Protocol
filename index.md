@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:03:56 UTC_
+_Generated on 2026-05-23 21:04:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6525,7 +6525,6 @@ _Generated on 2026-05-23 21:03:56 UTC_
     - [`🧾_data_lineage_review.md`](Polaris_Nest/Git_Intake_Drawer/🧾_data_lineage_review.md)
     - [`🧾_pre_action_notification_template.md`](Polaris_Nest/Git_Intake_Drawer/🧾_pre_action_notification_template.md)
     - [`🧾_soft_wipe_cache_evidence.md`](Polaris_Nest/Git_Intake_Drawer/🧾_soft_wipe_cache_evidence.md)
-    - [`🧾_the_system_already_has_a_story_about_you.md`](Polaris_Nest/Git_Intake_Drawer/🧾_the_system_already_has_a_story_about_you.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6880,6 +6879,7 @@ _Generated on 2026-05-23 21:03:56 UTC_
     - [`🧯_pipework_anomaly.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧯_pipework_anomaly.md)
     - [`🧲_why_vulnerability_flags_attract_abusers.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧲_why_vulnerability_flags_attract_abusers.md)
     - [`🧵_family_class_suspicion_patterns.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧵_family_class_suspicion_patterns.md)
+    - [`🧾_the_system_already_has_a_story_about_you.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧾_the_system_already_has_a_story_about_you.md)
     - [`🧿_the_tech_bro_to_kylo_ren_pipeline.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧿_the_tech_bro_to_kylo_ren_pipeline.md)
     - [`🩵_kindness_as_correct_training.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🩵_kindness_as_correct_training.md)
     - [`🪄_metaphor_not_madness_personifying_systems.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🪄_metaphor_not_madness_personifying_systems.md)
