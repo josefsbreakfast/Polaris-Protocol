@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 19:57:32 UTC_
+_Generated on 2026-05-23 20:00:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6886,6 +6886,9 @@ _Generated on 2026-05-23 19:57:32 UTC_
 - [**🌓_3_In_The_Moment/**](🌓_3_In_The_Moment/)
   - [**.🌱_Still_Growing/**](🌓_3_In_The_Moment/.🌱_Still_Growing/)
     - [`README.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/README.md)
+    - [`🌀_good_code_is_lean_code.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🌀_good_code_is_lean_code.md)
+    - [`🧯_pipework_anomaly.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🧯_pipework_anomaly.md)
+    - [`🪐_prosociality_as_nudge_surface.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🪐_prosociality_as_nudge_surface.md)
   - [**⚗️_Apothecary/**](🌓_3_In_The_Moment/⚗️_Apothecary/)
     - [**🌡️_Constitutions/**](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/)
       - [**❤️_Sanguine_Constitutions/**](🌓_3_In_The_Moment/⚗️_Apothecary/🌡️_Constitutions/❤️_Sanguine_Constitutions/)
@@ -7334,11 +7337,6 @@ _Generated on 2026-05-23 19:57:32 UTC_
 - [**🌖_4_Small_Steps/**](🌖_4_Small_Steps/)
   - [**.🌱_Still_Growing/**](🌖_4_Small_Steps/.🌱_Still_Growing/)
     - [`🪐_osa_residual_flag_governance_cluster.md`](🌖_4_Small_Steps/.🌱_Still_Growing/🪐_osa_residual_flag_governance_cluster.md)
-- [**🌗_3_In_The_Moment/**](🌗_3_In_The_Moment/)
-  - [**.🌱_Still_Growing/**](🌗_3_In_The_Moment/.🌱_Still_Growing/)
-    - [`🌀_good_code_is_lean_code.md`](🌗_3_In_The_Moment/.🌱_Still_Growing/🌀_good_code_is_lean_code.md)
-    - [`🧯_pipework_anomaly.md`](🌗_3_In_The_Moment/.🌱_Still_Growing/🧯_pipework_anomaly.md)
-    - [`🪐_prosociality_as_nudge_surface.md`](🌗_3_In_The_Moment/.🌱_Still_Growing/🪐_prosociality_as_nudge_surface.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [**🌱_Still_Growing/**](🏮_Admin_Nest/🌱_Still_Growing/)
     - [`README.md`](🏮_Admin_Nest/🌱_Still_Growing/README.md)
