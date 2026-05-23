@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:58:02 UTC_
+_Generated on 2026-05-23 21:01:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6529,7 +6529,6 @@ _Generated on 2026-05-23 20:58:02 UTC_
     - [`🧿_atrocity_pattern_recognition_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧿_atrocity_pattern_recognition_toolkit.md)
     - [`🧿_cluster_level_behavioural_modulation_no_vendor_logs.md`](Polaris_Nest/Git_Intake_Drawer/🧿_cluster_level_behavioural_modulation_no_vendor_logs.md)
     - [`🧿_de_anonymisation_by_composite_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧿_de_anonymisation_by_composite_architecture.md)
-    - [`🧿_did_the_uk_learn_from_the_troubles.md`](Polaris_Nest/Git_Intake_Drawer/🧿_did_the_uk_learn_from_the_troubles.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6538,6 +6537,7 @@ _Generated on 2026-05-23 20:58:02 UTC_
     - [`💋_surveillance_as_the_new_pimp.md`](🌑_1_Origin_Points/.🌱_Still_Growing/💋_surveillance_as_the_new_pimp.md)
     - [`🦖_20_years_of_trex_behaviour.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🦖_20_years_of_trex_behaviour.md)
     - [`🧾_procurement_fragility.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧾_procurement_fragility.md)
+    - [`🧿_did_the_uk_learn_from_the_troubles.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_did_the_uk_learn_from_the_troubles.md)
     - [`🧿_lexicon_governance_failures.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_lexicon_governance_failures.md)
     - [`🧿_oversight_paralysis.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_oversight_paralysis.md)
     - [`🧿_prevent_duty_as_nitw_black_goat_cult.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_prevent_duty_as_nitw_black_goat_cult.md)
