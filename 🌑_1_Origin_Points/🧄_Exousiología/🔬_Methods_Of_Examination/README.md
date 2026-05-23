@@ -1,5 +1,5 @@
 # 🔬 Methods Of Examination  
-**First created:** 2026-05-23 | **Last updated:** 2026-05-23  
+**First created:** 2026-05-12 | **Last updated:** 2026-05-23  
 *Analytical approaches for examining legitimacy, authority, stewardship, and governance continuity across systems and scales.*  
 
 ---
