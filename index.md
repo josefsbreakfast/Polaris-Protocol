@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 19:43:52 UTC_
+_Generated on 2026-05-23 19:44:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6409,7 +6409,6 @@ _Generated on 2026-05-23 19:43:52 UTC_
     - [`README.md`](Polaris_Nest/Git_Intake_Drawer/README.md)
     - [`ZDC_README.md`](Polaris_Nest/Git_Intake_Drawer/ZDC_README.md)
     - [`☁️_the_literality_of_retirement_dreams.md`](Polaris_Nest/Git_Intake_Drawer/☁️_the_literality_of_retirement_dreams.md)
-    - [`🌀_good_code_is_lean_code.md`](Polaris_Nest/Git_Intake_Drawer/🌀_good_code_is_lean_code.md)
     - [`🌈_prism_party.md`](Polaris_Nest/Git_Intake_Drawer/🌈_prism_party.md)
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
     - [`🌾_on_the_importance_of_trading_fairly.md`](Polaris_Nest/Git_Intake_Drawer/🌾_on_the_importance_of_trading_fairly.md)
@@ -7335,6 +7334,9 @@ _Generated on 2026-05-23 19:43:52 UTC_
     - [`🌦️_cloudbusting_the_future_we_never_built.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/🌦️_cloudbusting_the_future_we_never_built.md)
     - [`🦾_the_power_of_strong_foundations.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/🦾_the_power_of_strong_foundations.md)
   - [`README.md`](🌕_5_Long_Strategies/README.md)
+- [**🌗_3_In_The_Moment/**](🌗_3_In_The_Moment/)
+  - [**.🌱_Still_Growing/**](🌗_3_In_The_Moment/.🌱_Still_Growing/)
+    - [`🌀_good_code_is_lean_code.md`](🌗_3_In_The_Moment/.🌱_Still_Growing/🌀_good_code_is_lean_code.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [**🌱_Still_Growing/**](🏮_Admin_Nest/🌱_Still_Growing/)
     - [`README.md`](🏮_Admin_Nest/🌱_Still_Growing/README.md)
