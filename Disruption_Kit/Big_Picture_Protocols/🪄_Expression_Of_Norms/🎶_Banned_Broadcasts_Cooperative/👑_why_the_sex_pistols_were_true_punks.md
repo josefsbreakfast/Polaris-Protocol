@@ -1,12 +1,12 @@
 # 👑 Why The Sex Pistols Were True Punks  
-**First created:** 2026-05-13 | **Last updated:** 2026-05-13  
+**First created:** 2026-05-13 | **Last updated:** 2026-05-23  
 *Punk as the refusal of institutional deference rather than merely an aesthetic of rebellion.*  
 
 ---
 
 ## 🛰️ Orientation  
 
-This node examines why the enduring cultural power of the [Sex Pistols](chatgpt://generic-entity?number=0) may have had less to do with shocking fashion or aggressive music alone, and more to do with their willingness to violate systems of institutional protection and social silence.
+This node examines why the enduring cultural power of the **Sex Pistols** may have had less to do with shocking fashion or aggressive music alone, and more to do with their willingness to violate systems of institutional protection and social silence.
 
 The argument here is not that punk was secretly a coherent accountability movement in the modern activist sense.
 
@@ -15,7 +15,7 @@ It is that punk represented:
 - a refusal to emotionally cooperate with prestige systems,
 - and a willingness to publicly contaminate protected reputations.
 
-In this reading, the real threat posed by figures like [John Lydon](chatgpt://generic-entity?number=1) was not simply profanity, anti-monarchy imagery, or confrontational aesthetics.
+In this reading, the real threat posed by figures like **John Lydon** was not simply profanity, anti-monarchy imagery, or confrontational aesthetics.
 
 It was the willingness to say:
 > “Why are we pretending this person is untouchable?”
@@ -64,7 +64,7 @@ It expressed:
 
 ## 📺 The Savile Interview  
 
-In a 1978 interview with the BBC, Lydon made comments referencing rumours surrounding [Jimmy Savile](chatgpt://generic-entity?number=2).
+In a 1978 interview with the BBC, Lydon made comments referencing rumours surrounding **Jimmy Savile**.
 
 The interview was reportedly not broadcast in full.
 
@@ -225,7 +225,7 @@ Many punk scenes were themselves chaotic, contradictory, self-destructive, misog
 
 However, figures like Lydon demonstrated a willingness to violate the unwritten rules protecting institutional legitimacy.
 
-That made them difficult to contain within normal media systems.
+That made them difficult to contain within normal media systems.  
 
 ---
 
@@ -239,7 +239,15 @@ That made them difficult to contain within normal media systems.
 - ☕️ Post-Imperial Weather  
 - 🧷 Punk As Refusal Of Respectability  
 - 🏴 Institutional Deference Collapse  
-- 🫖 The British Politics Of “Everyone Knows”  
+- 🫖 The British Politics Of “Everyone Knows”
+
+*Further media:*  
+
+- [📰: BBC: "'Our punk baptism': When the Sex Pistols brought anarchy to Yorkshire"](https://www.bbc.co.uk/news/articles/c4g98dqj3jwo)  
+
+---
+
+## ✨ Stardust  
 
 ---
 
@@ -277,4 +285,4 @@ It contributes to the archive by examining how countercultural speech can functi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-05-23_
