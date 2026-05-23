@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:03:05 UTC_
+_Generated on 2026-05-23 21:03:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6526,7 +6526,6 @@ _Generated on 2026-05-23 21:03:05 UTC_
     - [`🧾_pre_action_notification_template.md`](Polaris_Nest/Git_Intake_Drawer/🧾_pre_action_notification_template.md)
     - [`🧾_soft_wipe_cache_evidence.md`](Polaris_Nest/Git_Intake_Drawer/🧾_soft_wipe_cache_evidence.md)
     - [`🧾_the_system_already_has_a_story_about_you.md`](Polaris_Nest/Git_Intake_Drawer/🧾_the_system_already_has_a_story_about_you.md)
-    - [`🧿_atrocity_pattern_recognition_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧿_atrocity_pattern_recognition_toolkit.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -7241,6 +7240,7 @@ _Generated on 2026-05-23 21:03:05 UTC_
   - [**.🌱_Still_Growing/**](🌔_4_Small_Steps/.🌱_Still_Growing/)
     - [`README.md`](🌔_4_Small_Steps/.🌱_Still_Growing/README.md)
     - [`🧱_transparent_guardrail_design.md`](🌔_4_Small_Steps/.🌱_Still_Growing/🧱_transparent_guardrail_design.md)
+    - [`🧿_atrocity_pattern_recognition_toolkit.md`](🌔_4_Small_Steps/.🌱_Still_Growing/🧿_atrocity_pattern_recognition_toolkit.md)
     - [`🧿_misinterpretation_resilience_review.md`](🌔_4_Small_Steps/.🌱_Still_Growing/🧿_misinterpretation_resilience_review.md)
     - [`🪐_osa_residual_flag_governance_cluster.md`](🌔_4_Small_Steps/.🌱_Still_Growing/🪐_osa_residual_flag_governance_cluster.md)
   - [**🐘_Reply_All/**](🌔_4_Small_Steps/🐘_Reply_All/)
