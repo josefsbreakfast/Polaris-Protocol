@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:22:50 UTC_
+_Generated on 2026-05-23 20:23:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6551,7 +6551,6 @@ _Generated on 2026-05-23 20:22:50 UTC_
     - [`🩸_mimicry_of_blood_libel.md`](Polaris_Nest/Git_Intake_Drawer/🩸_mimicry_of_blood_libel.md)
     - [`🩸_reverse_victim_logic.md`](Polaris_Nest/Git_Intake_Drawer/🩸_reverse_victim_logic.md)
     - [`🩸_soul_as_product_lineage.md`](Polaris_Nest/Git_Intake_Drawer/🩸_soul_as_product_lineage.md)
-    - [`🩺_healthcare_lockout_from_false_offender_classification.md`](Polaris_Nest/Git_Intake_Drawer/🩺_healthcare_lockout_from_false_offender_classification.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6704,6 +6703,7 @@ _Generated on 2026-05-23 20:22:50 UTC_
     - [`🇬🇧_how_brexit_killed_microexporters.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🇬🇧_how_brexit_killed_microexporters.md)
     - [`🧿_uncanny_imaging.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_uncanny_imaging.md)
     - [`🩹_vulnerability_hyper_visibility.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🩹_vulnerability_hyper_visibility.md)
+    - [`🩺_healthcare_lockout_from_false_offender_classification.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🩺_healthcare_lockout_from_false_offender_classification.md)
     - [`🪆_male_fear_throttling_trigger.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🪆_male_fear_throttling_trigger.md)
   - [**👻_Apparitional_Objects/**](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/)
     - [**🍽️_Fork_Taxonomy/**](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🍽️_Fork_Taxonomy/)
