@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 19:52:16 UTC_
+_Generated on 2026-05-23 19:56:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6490,7 +6490,6 @@ _Generated on 2026-05-23 19:52:16 UTC_
     - [`🧮_audit_necromancy.md`](Polaris_Nest/Git_Intake_Drawer/🧮_audit_necromancy.md)
     - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
     - [`🧮_forensic_transparency_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧮_forensic_transparency_toolkit.md)
-    - [`🧯_pipework_anomaly.md`](Polaris_Nest/Git_Intake_Drawer/🧯_pipework_anomaly.md)
     - [`🧯_signs_your_brain_is_tired_because_society_is_batshit.md`](Polaris_Nest/Git_Intake_Drawer/🧯_signs_your_brain_is_tired_because_society_is_batshit.md)
     - [`🧯_sonata_aftershock_and_fear_procurement.md`](Polaris_Nest/Git_Intake_Drawer/🧯_sonata_aftershock_and_fear_procurement.md)
     - [`🧯_synthetic_pair_breach_and_industry_reflex.md`](Polaris_Nest/Git_Intake_Drawer/🧯_synthetic_pair_breach_and_industry_reflex.md)
@@ -6510,7 +6509,6 @@ _Generated on 2026-05-23 19:52:16 UTC_
     - [`🧱_reconstruction_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧱_reconstruction_logic.md)
     - [`🧱_rise_of_algorithmic_safety_in_the_uk_internet.md`](Polaris_Nest/Git_Intake_Drawer/🧱_rise_of_algorithmic_safety_in_the_uk_internet.md)
     - [`🧱_safeguarding_vs_secret_governance.md`](Polaris_Nest/Git_Intake_Drawer/🧱_safeguarding_vs_secret_governance.md)
-    - [`🧱_transparent_guardrail_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_transparent_guardrail_design.md)
     - [`🧱_trickle_down_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🧱_trickle_down_impunity.md)
     - [`🧱_uk_gov_stacks.md`](Polaris_Nest/Git_Intake_Drawer/🧱_uk_gov_stacks.md)
     - [`🧱_why_democracies_outsource_moral_risk.md`](Polaris_Nest/Git_Intake_Drawer/🧱_why_democracies_outsource_moral_risk.md)
@@ -6532,7 +6530,6 @@ _Generated on 2026-05-23 19:52:16 UTC_
     - [`🧼_thin_data_fragility.md`](Polaris_Nest/Git_Intake_Drawer/🧼_thin_data_fragility.md)
     - [`🧾_data_lineage_review.md`](Polaris_Nest/Git_Intake_Drawer/🧾_data_lineage_review.md)
     - [`🧾_pre_action_notification_template.md`](Polaris_Nest/Git_Intake_Drawer/🧾_pre_action_notification_template.md)
-    - [`🧾_procurement_fragility.md`](Polaris_Nest/Git_Intake_Drawer/🧾_procurement_fragility.md)
     - [`🧾_soft_wipe_cache_evidence.md`](Polaris_Nest/Git_Intake_Drawer/🧾_soft_wipe_cache_evidence.md)
     - [`🧾_the_system_already_has_a_story_about_you.md`](Polaris_Nest/Git_Intake_Drawer/🧾_the_system_already_has_a_story_about_you.md)
     - [`🧿_atrocity_pattern_recognition_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧿_atrocity_pattern_recognition_toolkit.md)
@@ -6540,7 +6537,6 @@ _Generated on 2026-05-23 19:52:16 UTC_
     - [`🧿_de_anonymisation_by_composite_architecture.md`](Polaris_Nest/Git_Intake_Drawer/🧿_de_anonymisation_by_composite_architecture.md)
     - [`🧿_did_the_uk_learn_from_the_troubles.md`](Polaris_Nest/Git_Intake_Drawer/🧿_did_the_uk_learn_from_the_troubles.md)
     - [`🧿_his_reaction_is_the_flag.md`](Polaris_Nest/Git_Intake_Drawer/🧿_his_reaction_is_the_flag.md)
-    - [`🧿_lexicon_governance_failures.md`](Polaris_Nest/Git_Intake_Drawer/🧿_lexicon_governance_failures.md)
     - [`🧿_mask_slip_recognition.md`](Polaris_Nest/Git_Intake_Drawer/🧿_mask_slip_recognition.md)
     - [`🧿_misinterpretation_resilience_review.md`](Polaris_Nest/Git_Intake_Drawer/🧿_misinterpretation_resilience_review.md)
     - [`🧿_oversight_paralysis.md`](Polaris_Nest/Git_Intake_Drawer/🧿_oversight_paralysis.md)
@@ -6571,6 +6567,8 @@ _Generated on 2026-05-23 19:52:16 UTC_
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
     - [`🏚️_full_stack_institutional_failure.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure_redux.md)
+    - [`🧾_procurement_fragility.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧾_procurement_fragility.md)
+    - [`🧿_lexicon_governance_failures.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_lexicon_governance_failures.md)
     - [`🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md)
   - [**🌸_Containment_Studies/**](🌑_1_Origin_Points/🌸_Containment_Studies/)
     - [**🌙_Everyday_Containment/**](🌑_1_Origin_Points/🌸_Containment_Studies/🌙_Everyday_Containment/)
@@ -7334,10 +7332,12 @@ _Generated on 2026-05-23 19:52:16 UTC_
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🌖_4_Small_Steps/**](🌖_4_Small_Steps/)
   - [**.🌱_Still_Growing/**](🌖_4_Small_Steps/.🌱_Still_Growing/)
+    - [`🧱_transparent_guardrail_design.md`](🌖_4_Small_Steps/.🌱_Still_Growing/🧱_transparent_guardrail_design.md)
     - [`🪐_osa_residual_flag_governance_cluster.md`](🌖_4_Small_Steps/.🌱_Still_Growing/🪐_osa_residual_flag_governance_cluster.md)
 - [**🌗_3_In_The_Moment/**](🌗_3_In_The_Moment/)
   - [**.🌱_Still_Growing/**](🌗_3_In_The_Moment/.🌱_Still_Growing/)
     - [`🌀_good_code_is_lean_code.md`](🌗_3_In_The_Moment/.🌱_Still_Growing/🌀_good_code_is_lean_code.md)
+    - [`🧯_pipework_anomaly.md`](🌗_3_In_The_Moment/.🌱_Still_Growing/🧯_pipework_anomaly.md)
     - [`🪐_prosociality_as_nudge_surface.md`](🌗_3_In_The_Moment/.🌱_Still_Growing/🪐_prosociality_as_nudge_surface.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [**🌱_Still_Growing/**](🏮_Admin_Nest/🌱_Still_Growing/)
