@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:32:37 UTC_
+_Generated on 2026-05-23 20:33:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6537,7 +6537,6 @@ _Generated on 2026-05-23 20:32:37 UTC_
     - [`🧿_oversight_paralysis.md`](Polaris_Nest/Git_Intake_Drawer/🧿_oversight_paralysis.md)
     - [`🧿_prevent_duty_as_nitw_black_goat_cult.md`](Polaris_Nest/Git_Intake_Drawer/🧿_prevent_duty_as_nitw_black_goat_cult.md)
     - [`🧿_survivor_credibility_loops.md`](Polaris_Nest/Git_Intake_Drawer/🧿_survivor_credibility_loops.md)
-    - [`🧿_targeted_metadata_capture_in_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧿_targeted_metadata_capture_in_prevent.md)
     - [`🧿_the_tech_bro_to_kylo_ren_pipeline.md`](Polaris_Nest/Git_Intake_Drawer/🧿_the_tech_bro_to_kylo_ren_pipeline.md)
     - [`🧿_trauma_misread_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧿_trauma_misread_prevent.md)
     - [`🧿_triangulation_via_anonymous_metadata.md`](Polaris_Nest/Git_Intake_Drawer/🧿_triangulation_via_anonymous_metadata.md)
@@ -6552,6 +6551,7 @@ _Generated on 2026-05-23 20:32:37 UTC_
     - [`🦖_20_years_of_trex_behaviour.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🦖_20_years_of_trex_behaviour.md)
     - [`🧾_procurement_fragility.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧾_procurement_fragility.md)
     - [`🧿_lexicon_governance_failures.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_lexicon_governance_failures.md)
+    - [`🧿_targeted_metadata_capture_in_prevent.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_targeted_metadata_capture_in_prevent.md)
     - [`🧿_why_opaque_systems_attract_abusive_personalities.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_why_opaque_systems_attract_abusive_personalities.md)
     - [`🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md)
     - [`🩸_coercive_dynamics_in_prevent_data.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩸_coercive_dynamics_in_prevent_data.md)
