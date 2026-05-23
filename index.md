@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:22:18 UTC_
+_Generated on 2026-05-23 21:23:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6502,8 +6502,6 @@ _Generated on 2026-05-23 21:22:18 UTC_
     - [`🧱_hostile_architecture_vs_universal_design.md`](Polaris_Nest/Git_Intake_Drawer/🧱_hostile_architecture_vs_universal_design.md)
     - [`🧱_ideological_loyalty_as_pyramid_scheme.md`](Polaris_Nest/Git_Intake_Drawer/🧱_ideological_loyalty_as_pyramid_scheme.md)
     - [`🧱_legal_exception_zone.md`](Polaris_Nest/Git_Intake_Drawer/🧱_legal_exception_zone.md)
-    - [`🧱_prevent_unappealable_decisions.md`](Polaris_Nest/Git_Intake_Drawer/🧱_prevent_unappealable_decisions.md)
-    - [`🧱_reconstruction_logic.md`](Polaris_Nest/Git_Intake_Drawer/🧱_reconstruction_logic.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6511,6 +6509,7 @@ _Generated on 2026-05-23 21:22:18 UTC_
     - [`🏚️_full_stack_institutional_failure_redux.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure_redux.md)
     - [`💋_surveillance_as_the_new_pimp.md`](🌑_1_Origin_Points/.🌱_Still_Growing/💋_surveillance_as_the_new_pimp.md)
     - [`🦖_20_years_of_trex_behaviour.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🦖_20_years_of_trex_behaviour.md)
+    - [`🧱_prevent_unappealable_decisions.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧱_prevent_unappealable_decisions.md)
     - [`🧱_rise_of_algorithmic_safety_in_the_uk_internet.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧱_rise_of_algorithmic_safety_in_the_uk_internet.md)
     - [`🧱_safeguarding_vs_secret_governance.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧱_safeguarding_vs_secret_governance.md)
     - [`🧱_trickle_down_impunity.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧱_trickle_down_impunity.md)
@@ -7273,6 +7272,7 @@ _Generated on 2026-05-23 21:22:18 UTC_
 - [**🌕_5_Long_Strategies/**](🌕_5_Long_Strategies/)
   - [**.🌱_Still_Growing/**](🌕_5_Long_Strategies/.🌱_Still_Growing/)
     - [`README.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/README.md)
+    - [`🧱_reconstruction_logic.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/🧱_reconstruction_logic.md)
     - [`🧸_softness_as_counter_extremism_infrastructure.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/🧸_softness_as_counter_extremism_infrastructure.md)
     - [`🧿_why_disbandment_is_the_only_democratic_option.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/🧿_why_disbandment_is_the_only_democratic_option.md)
   - [**❤️‍🩹_Rehabilitated_Tech/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/)
