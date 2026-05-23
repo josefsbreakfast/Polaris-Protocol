@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 02:56:25 UTC_
+_Generated on 2026-05-23 02:57:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6708,7 +6708,7 @@ _Generated on 2026-05-23 02:56:25 UTC_
       - [`🔬_folk_and_survival_analysis.md`](🌑_1_Origin_Points/🧄_Exousiología/🔬_Methods_Of_Examination/🔬_folk_and_survival_analysis.md)
       - [`🔬_legal_procedural_analysis.md`](🌑_1_Origin_Points/🧄_Exousiología/🔬_Methods_Of_Examination/🔬_legal_procedural_analysis.md)
       - [`🔬_pathological_failure_analysis.md`](🌑_1_Origin_Points/🧄_Exousiología/🔬_Methods_Of_Examination/🔬_pathological_failure_analysis.md)
-      - [`🔬_sociological_legitimacy_analysis.md`](🌑_1_Origin_Points/🧄_Exousiología/🔬_Methods_Of_Examination/🔬_sociological_legitimacy_analysis.md)
+      - [`🫂_sociological_legitimacy_analysis.md`](🌑_1_Origin_Points/🧄_Exousiología/🔬_Methods_Of_Examination/🫂_sociological_legitimacy_analysis.md)
     - [**🧭_Authority_Topologies/**](🌑_1_Origin_Points/🧄_Exousiología/🧭_Authority_Topologies/)
       - [`README.md`](🌑_1_Origin_Points/🧄_Exousiología/🧭_Authority_Topologies/README.md)
       - [`🧭_cyclical_cosmological_authority.md`](🌑_1_Origin_Points/🧄_Exousiología/🧭_Authority_Topologies/🧭_cyclical_cosmological_authority.md)
