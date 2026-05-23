@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:45:51 UTC_
+_Generated on 2026-05-23 21:46:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6476,7 +6476,6 @@ _Generated on 2026-05-23 21:45:51 UTC_
     - [`🧩_political_metadata_and_the_problem_of_dynamic_identity.md`](Polaris_Nest/Git_Intake_Drawer/🧩_political_metadata_and_the_problem_of_dynamic_identity.md)
     - [`🧩_the_one_of_us_glitch.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
     - [`🧩_the_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_the_whiteness_of_suspicion.md)
-    - [`🧩_whiteness_of_suspicion.md`](Polaris_Nest/Git_Intake_Drawer/🧩_whiteness_of_suspicion.md)
     - [`🧪_voice_convergence_forensics_hinge.md`](Polaris_Nest/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [`🧪_why_we_stopped_the_sv_reoffender_predictor.md`](Polaris_Nest/Git_Intake_Drawer/🧪_why_we_stopped_the_sv_reoffender_predictor.md)
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
@@ -6488,6 +6487,7 @@ _Generated on 2026-05-23 21:45:51 UTC_
     - [`🏚️_full_stack_institutional_failure_redux.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure_redux.md)
     - [`💋_surveillance_as_the_new_pimp.md`](🌑_1_Origin_Points/.🌱_Still_Growing/💋_surveillance_as_the_new_pimp.md)
     - [`🦖_20_years_of_trex_behaviour.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🦖_20_years_of_trex_behaviour.md)
+    - [`🧩_whiteness_of_suspicion.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧩_whiteness_of_suspicion.md)
     - [`🧮_algorithms_of_the_wolf.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧮_algorithms_of_the_wolf.md)
     - [`🧮_audit_necromancy.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧮_audit_necromancy.md)
     - [`🧮_containment_chain_triads.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧮_containment_chain_triads.md)
