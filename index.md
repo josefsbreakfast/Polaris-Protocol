@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:41:31 UTC_
+_Generated on 2026-05-23 21:45:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6482,11 +6482,6 @@ _Generated on 2026-05-23 21:41:31 UTC_
     - [`🧬_clone_archetecture_is_doll_houses_for_tech_bros.md`](Polaris_Nest/Git_Intake_Drawer/🧬_clone_archetecture_is_doll_houses_for_tech_bros.md)
     - [`🧬_liminality_between_nature_and_nurture.md`](Polaris_Nest/Git_Intake_Drawer/🧬_liminality_between_nature_and_nurture.md)
     - [`🧬_twinned_timelines.md`](Polaris_Nest/Git_Intake_Drawer/🧬_twinned_timelines.md)
-    - [`🧭_trail_hunting_timeline_staging_how_to_move_forward.md`](Polaris_Nest/Git_Intake_Drawer/🧭_trail_hunting_timeline_staging_how_to_move_forward.md)
-    - [`🧮_algorithms_of_the_wolf.md`](Polaris_Nest/Git_Intake_Drawer/🧮_algorithms_of_the_wolf.md)
-    - [`🧮_audit_necromancy.md`](Polaris_Nest/Git_Intake_Drawer/🧮_audit_necromancy.md)
-    - [`🧮_containment_chain_triads.md`](Polaris_Nest/Git_Intake_Drawer/🧮_containment_chain_triads.md)
-    - [`🧮_forensic_transparency_toolkit.md`](Polaris_Nest/Git_Intake_Drawer/🧮_forensic_transparency_toolkit.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6494,6 +6489,9 @@ _Generated on 2026-05-23 21:41:31 UTC_
     - [`🏚️_full_stack_institutional_failure_redux.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure_redux.md)
     - [`💋_surveillance_as_the_new_pimp.md`](🌑_1_Origin_Points/.🌱_Still_Growing/💋_surveillance_as_the_new_pimp.md)
     - [`🦖_20_years_of_trex_behaviour.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🦖_20_years_of_trex_behaviour.md)
+    - [`🧮_algorithms_of_the_wolf.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧮_algorithms_of_the_wolf.md)
+    - [`🧮_audit_necromancy.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧮_audit_necromancy.md)
+    - [`🧮_containment_chain_triads.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧮_containment_chain_triads.md)
     - [`🧱_2_friction_fields_dashboard.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧱_2_friction_fields_dashboard.md)
     - [`🧱_administrative_precursor_problem.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧱_administrative_precursor_problem.md)
     - [`🧱_friction_fields_dashboard.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧱_friction_fields_dashboard.md)
@@ -7231,6 +7229,8 @@ _Generated on 2026-05-23 21:41:31 UTC_
 - [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
   - [**.🌱_Still_Growing/**](🌔_4_Small_Steps/.🌱_Still_Growing/)
     - [`README.md`](🌔_4_Small_Steps/.🌱_Still_Growing/README.md)
+    - [`🧭_trail_hunting_timeline_staging_how_to_move_forward.md`](🌔_4_Small_Steps/.🌱_Still_Growing/🧭_trail_hunting_timeline_staging_how_to_move_forward.md)
+    - [`🧮_forensic_transparency_toolkit.md`](🌔_4_Small_Steps/.🌱_Still_Growing/🧮_forensic_transparency_toolkit.md)
     - [`🧰_cross_agency_data_integrity_role_directionality_in_multi_agency_panels.md`](🌔_4_Small_Steps/.🌱_Still_Growing/🧰_cross_agency_data_integrity_role_directionality_in_multi_agency_panels.md)
     - [`🧰_governance_risk_behaviour_index.md`](🌔_4_Small_Steps/.🌱_Still_Growing/🧰_governance_risk_behaviour_index.md)
     - [`🧱_transparent_guardrail_design.md`](🌔_4_Small_Steps/.🌱_Still_Growing/🧱_transparent_guardrail_design.md)
