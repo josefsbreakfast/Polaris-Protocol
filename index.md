@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 19:45:27 UTC_
+_Generated on 2026-05-23 19:47:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6413,7 +6413,6 @@ _Generated on 2026-05-23 19:45:27 UTC_
     - [`🌍_kindly_dont_fuck_up_the_planet.md`](Polaris_Nest/Git_Intake_Drawer/🌍_kindly_dont_fuck_up_the_planet.md)
     - [`🌾_on_the_importance_of_trading_fairly.md`](Polaris_Nest/Git_Intake_Drawer/🌾_on_the_importance_of_trading_fairly.md)
     - [`🏙️_nottingham_divestment_motion_context.md`](Polaris_Nest/Git_Intake_Drawer/🏙️_nottingham_divestment_motion_context.md)
-    - [`🏚️_full_stack_institutional_failure_redux.md`](Polaris_Nest/Git_Intake_Drawer/🏚️_full_stack_institutional_failure_redux.md)
     - [`🏛️_becoming_a_genocide_scholar.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_becoming_a_genocide_scholar.md)
     - [`🏛️_protect_checks_and_balances.md`](Polaris_Nest/Git_Intake_Drawer/🏛️_protect_checks_and_balances.md)
     - [`🐈‍⬛_dual_use_cat.md`](Polaris_Nest/Git_Intake_Drawer/🐈‍⬛_dual_use_cat.md)
@@ -6552,11 +6551,9 @@ _Generated on 2026-05-23 19:45:27 UTC_
     - [`🧿_trauma_misread_prevent.md`](Polaris_Nest/Git_Intake_Drawer/🧿_trauma_misread_prevent.md)
     - [`🧿_triangulation_via_anonymous_metadata.md`](Polaris_Nest/Git_Intake_Drawer/🧿_triangulation_via_anonymous_metadata.md)
     - [`🧿_uk_hard_to_model_easy_to_manipulate.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uk_hard_to_model_easy_to_manipulate.md)
-    - [`🧿_uncanny_imaging.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uncanny_imaging.md)
     - [`🧿_why_disbandment_is_the_only_democratic_option.md`](Polaris_Nest/Git_Intake_Drawer/🧿_why_disbandment_is_the_only_democratic_option.md)
     - [`🧿_why_opaque_systems_attract_abusive_personalities.md`](Polaris_Nest/Git_Intake_Drawer/🧿_why_opaque_systems_attract_abusive_personalities.md)
     - [`🩵_kindness_as_correct_training.md`](Polaris_Nest/Git_Intake_Drawer/🩵_kindness_as_correct_training.md)
-    - [`🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md`](Polaris_Nest/Git_Intake_Drawer/🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md)
     - [`🩸_coercive_dynamics_in_prevent_data.md`](Polaris_Nest/Git_Intake_Drawer/🩸_coercive_dynamics_in_prevent_data.md)
     - [`🩸_contact_with_harm.md`](Polaris_Nest/Git_Intake_Drawer/🩸_contact_with_harm.md)
     - [`🩸_death_as_diplomacy_from_smolensk_to_tver.md`](Polaris_Nest/Git_Intake_Drawer/🩸_death_as_diplomacy_from_smolensk_to_tver.md)
@@ -6576,6 +6573,8 @@ _Generated on 2026-05-23 19:45:27 UTC_
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
     - [`🏚️_full_stack_institutional_failure.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure.md)
+    - [`🏚️_full_stack_institutional_failure_redux.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure_redux.md)
+    - [`🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md)
   - [**🌸_Containment_Studies/**](🌑_1_Origin_Points/🌸_Containment_Studies/)
     - [**🌙_Everyday_Containment/**](🌑_1_Origin_Points/🌸_Containment_Studies/🌙_Everyday_Containment/)
       - [`README.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌙_Everyday_Containment/README.md)
@@ -6887,6 +6886,7 @@ _Generated on 2026-05-23 19:45:27 UTC_
 - [**🌓_2_Signs_Symptoms/**](🌓_2_Signs_Symptoms/)
   - [**.🌱_Still_Growing/**](🌓_2_Signs_Symptoms/.🌱_Still_Growing/)
     - [`🇬🇧_how_brexit_killed_microexporters.md`](🌓_2_Signs_Symptoms/.🌱_Still_Growing/🇬🇧_how_brexit_killed_microexporters.md)
+    - [`🧿_uncanny_imaging.md`](🌓_2_Signs_Symptoms/.🌱_Still_Growing/🧿_uncanny_imaging.md)
 - [**🌓_3_In_The_Moment/**](🌓_3_In_The_Moment/)
   - [**.🌱_Still_Growing/**](🌓_3_In_The_Moment/.🌱_Still_Growing/)
     - [`README.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/README.md)
