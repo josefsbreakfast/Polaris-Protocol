@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:02:27 UTC_
+_Generated on 2026-05-23 20:04:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7243,6 +7243,7 @@ _Generated on 2026-05-23 20:02:27 UTC_
   - [**.🌱_Still_Growing/**](🌔_4_Small_Steps/.🌱_Still_Growing/)
     - [`README.md`](🌔_4_Small_Steps/.🌱_Still_Growing/README.md)
     - [`🧱_transparent_guardrail_design.md`](🌔_4_Small_Steps/.🌱_Still_Growing/🧱_transparent_guardrail_design.md)
+    - [`🪐_osa_residual_flag_governance_cluster.md`](🌔_4_Small_Steps/.🌱_Still_Growing/🪐_osa_residual_flag_governance_cluster.md)
   - [**🐘_Reply_All/**](🌔_4_Small_Steps/🐘_Reply_All/)
     - [`README.md`](🌔_4_Small_Steps/🐘_Reply_All/README.md)
     - [`🧿_private_eye_bounces_back.md`](🌔_4_Small_Steps/🐘_Reply_All/🧿_private_eye_bounces_back.md)
@@ -7332,9 +7333,6 @@ _Generated on 2026-05-23 20:02:27 UTC_
     - [`🌦️_cloudbusting_the_future_we_never_built.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/🌦️_cloudbusting_the_future_we_never_built.md)
     - [`🦾_the_power_of_strong_foundations.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/🦾_the_power_of_strong_foundations.md)
   - [`README.md`](🌕_5_Long_Strategies/README.md)
-- [**🌖_4_Small_Steps/**](🌖_4_Small_Steps/)
-  - [**.🌱_Still_Growing/**](🌖_4_Small_Steps/.🌱_Still_Growing/)
-    - [`🪐_osa_residual_flag_governance_cluster.md`](🌖_4_Small_Steps/.🌱_Still_Growing/🪐_osa_residual_flag_governance_cluster.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [**🌱_Still_Growing/**](🏮_Admin_Nest/🌱_Still_Growing/)
     - [`README.md`](🏮_Admin_Nest/🌱_Still_Growing/README.md)
