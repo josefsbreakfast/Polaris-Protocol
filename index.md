@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:18:33 UTC_
+_Generated on 2026-05-23 21:19:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6508,7 +6508,6 @@ _Generated on 2026-05-23 21:18:33 UTC_
     - [`🧱_safeguarding_vs_secret_governance.md`](Polaris_Nest/Git_Intake_Drawer/🧱_safeguarding_vs_secret_governance.md)
     - [`🧱_trickle_down_impunity.md`](Polaris_Nest/Git_Intake_Drawer/🧱_trickle_down_impunity.md)
     - [`🧱_uk_gov_stacks.md`](Polaris_Nest/Git_Intake_Drawer/🧱_uk_gov_stacks.md)
-    - [`🧱_why_democracies_outsource_moral_risk.md`](Polaris_Nest/Git_Intake_Drawer/🧱_why_democracies_outsource_moral_risk.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6516,6 +6515,7 @@ _Generated on 2026-05-23 21:18:33 UTC_
     - [`🏚️_full_stack_institutional_failure_redux.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure_redux.md)
     - [`💋_surveillance_as_the_new_pimp.md`](🌑_1_Origin_Points/.🌱_Still_Growing/💋_surveillance_as_the_new_pimp.md)
     - [`🦖_20_years_of_trex_behaviour.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🦖_20_years_of_trex_behaviour.md)
+    - [`🧱_why_democracies_outsource_moral_risk.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧱_why_democracies_outsource_moral_risk.md)
     - [`🧱_why_single_executives_are_authoritarian_force_multipliers.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧱_why_single_executives_are_authoritarian_force_multipliers.md)
     - [`🧲_phase_management_stabilising_data_twin_interference.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧲_phase_management_stabilising_data_twin_interference.md)
     - [`🧲_starmer_as_lightning_rod.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧲_starmer_as_lightning_rod.md)
