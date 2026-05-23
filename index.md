@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:36:39 UTC_
+_Generated on 2026-05-23 20:37:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6520,7 +6520,6 @@ _Generated on 2026-05-23 20:36:39 UTC_
     - [`🧶_gossip_with_a_pay_grade.md`](Polaris_Nest/Git_Intake_Drawer/🧶_gossip_with_a_pay_grade.md)
     - [`🧷_structural_attraction_to_power_roles.md`](Polaris_Nest/Git_Intake_Drawer/🧷_structural_attraction_to_power_roles.md)
     - [`🧸_softness_as_counter_extremism_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧸_softness_as_counter_extremism_infrastructure.md)
-    - [`🧹_uk_rugsweeping_olympics.md`](Polaris_Nest/Git_Intake_Drawer/🧹_uk_rugsweeping_olympics.md)
     - [`🧼_courtier_class_austerity.md`](Polaris_Nest/Git_Intake_Drawer/🧼_courtier_class_austerity.md)
     - [`🧼_thin_data_fragility.md`](Polaris_Nest/Git_Intake_Drawer/🧼_thin_data_fragility.md)
     - [`🧾_data_lineage_review.md`](Polaris_Nest/Git_Intake_Drawer/🧾_data_lineage_review.md)
@@ -6698,6 +6697,7 @@ _Generated on 2026-05-23 20:36:39 UTC_
   - [**.🌱_Still_Growing/**](🌒_2_Signs_Symptoms/.🌱_Still_Growing/)
     - [`README.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/README.md)
     - [`🇬🇧_how_brexit_killed_microexporters.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🇬🇧_how_brexit_killed_microexporters.md)
+    - [`🧹_uk_rugsweeping_olympics.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧹_uk_rugsweeping_olympics.md)
     - [`🧿_uncanny_imaging.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧿_uncanny_imaging.md)
     - [`🩸_reverse_victim_logic.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🩸_reverse_victim_logic.md)
     - [`🩹_vulnerability_hyper_visibility.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🩹_vulnerability_hyper_visibility.md)
