@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:07:33 UTC_
+_Generated on 2026-05-23 21:08:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6521,7 +6521,6 @@ _Generated on 2026-05-23 21:07:33 UTC_
     - [`🧷_structural_attraction_to_power_roles.md`](Polaris_Nest/Git_Intake_Drawer/🧷_structural_attraction_to_power_roles.md)
     - [`🧸_softness_as_counter_extremism_infrastructure.md`](Polaris_Nest/Git_Intake_Drawer/🧸_softness_as_counter_extremism_infrastructure.md)
     - [`🧼_courtier_class_austerity.md`](Polaris_Nest/Git_Intake_Drawer/🧼_courtier_class_austerity.md)
-    - [`🧼_thin_data_fragility.md`](Polaris_Nest/Git_Intake_Drawer/🧼_thin_data_fragility.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6529,6 +6528,7 @@ _Generated on 2026-05-23 21:07:33 UTC_
     - [`🏚️_full_stack_institutional_failure_redux.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure_redux.md)
     - [`💋_surveillance_as_the_new_pimp.md`](🌑_1_Origin_Points/.🌱_Still_Growing/💋_surveillance_as_the_new_pimp.md)
     - [`🦖_20_years_of_trex_behaviour.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🦖_20_years_of_trex_behaviour.md)
+    - [`🧼_thin_data_fragility.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧼_thin_data_fragility.md)
     - [`🧾_procurement_fragility.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧾_procurement_fragility.md)
     - [`🧿_de_anonymisation_by_composite_architecture.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_de_anonymisation_by_composite_architecture.md)
     - [`🧿_did_the_uk_learn_from_the_troubles.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_did_the_uk_learn_from_the_troubles.md)
