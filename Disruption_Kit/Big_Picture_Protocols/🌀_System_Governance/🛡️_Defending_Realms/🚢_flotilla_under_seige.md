@@ -1,5 +1,5 @@
 # 🚢 Flotilla Under Siege  
-**First created:** 2026-05-20 | **Last updated:** 2026-05-22  
+**First created:** 2026-05-20 | **Last updated:** 2026-05-23  
 *How Israel’s expanding maritime interception posture in the Mediterranean reflects the long-term maintenance logic of the Gaza siege regime, the erosion of humanitarian legitimacy, and the growing collision between blockade doctrine, genocide-prevention obligations, alliance cohesion, and the survivability of the post-war international order.*
 
 ---
@@ -767,7 +767,8 @@ The argument therefore becomes:
 « Bienvenue en Israël»."](https://vm.tiktok.com/ZNRtEDyT5/)
 - [📹: CNN: "Far-Right National Security Minister Itamar Ben-Gvir Taunts Flotilla Activists"](https://vm.tiktok.com/ZNRtEsu2C/)  
 - [📹: MEE: "'Appalling', 'degrading' and
-'unacceptable' is how EU leaders have condemned the footage released by Israel's Security Minister Itamar Ben-Gvir showing the abuse of the detainede d flotilla passengers which sparked international outrage."](https://vm.tiktok.com/ZNRnhpgmW/)  
+'unacceptable' is how EU leaders have condemned the footage released by Israel's Security Minister Itamar Ben-Gvir showing the abuse of the detainede d flotilla passengers which sparked international outrage."](https://vm.tiktok.com/ZNRnhpgmW/)
+- [📹: The Guardian: "Gaza flotilla activists allege sexual assault and rape in Israeli detention"](https://www.theguardian.com/world/2026/may/22/gaza-flotilla-activists-allege-sexual-assault-and-in-israeli-detention) – *SV is very sadly far more likely during military action worldwide, and in cycles of violence especially where driven by hypermasculinity culture, this becomes normalised. Significant SV to Palestinians has been reported with regularity. This is not to normalise the process, but to say that in current circumstances (eg: NYT reporting if unfamiliar), reports of SV outside the primary target group are not unexpected but remain devastating in impact.*  
 
 *Action cannot start and end with condemnation of Ben Gvir; where is the end of the seige and starvation of the people of Gaza?*  
 
@@ -794,4 +795,4 @@ It examines how prolonged blockade maintenance, maritime interception doctrine, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-22_
+_Last updated: 2026-05-23_
