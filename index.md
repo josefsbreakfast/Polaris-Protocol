@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:14:21 UTC_
+_Generated on 2026-05-23 20:16:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6545,7 +6545,6 @@ _Generated on 2026-05-23 20:14:21 UTC_
     - [`🧿_triangulation_via_anonymous_metadata.md`](Polaris_Nest/Git_Intake_Drawer/🧿_triangulation_via_anonymous_metadata.md)
     - [`🧿_uk_hard_to_model_easy_to_manipulate.md`](Polaris_Nest/Git_Intake_Drawer/🧿_uk_hard_to_model_easy_to_manipulate.md)
     - [`🧿_why_disbandment_is_the_only_democratic_option.md`](Polaris_Nest/Git_Intake_Drawer/🧿_why_disbandment_is_the_only_democratic_option.md)
-    - [`🧿_why_opaque_systems_attract_abusive_personalities.md`](Polaris_Nest/Git_Intake_Drawer/🧿_why_opaque_systems_attract_abusive_personalities.md)
     - [`🩵_kindness_as_correct_training.md`](Polaris_Nest/Git_Intake_Drawer/🩵_kindness_as_correct_training.md)
     - [`🩸_coercive_dynamics_in_prevent_data.md`](Polaris_Nest/Git_Intake_Drawer/🩸_coercive_dynamics_in_prevent_data.md)
     - [`🩸_contact_with_harm.md`](Polaris_Nest/Git_Intake_Drawer/🩸_contact_with_harm.md)
@@ -6565,6 +6564,7 @@ _Generated on 2026-05-23 20:14:21 UTC_
     - [`💋_surveillance_as_the_new_pimp.md`](🌑_1_Origin_Points/.🌱_Still_Growing/💋_surveillance_as_the_new_pimp.md)
     - [`🧾_procurement_fragility.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧾_procurement_fragility.md)
     - [`🧿_lexicon_governance_failures.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_lexicon_governance_failures.md)
+    - [`🧿_why_opaque_systems_attract_abusive_personalities.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_why_opaque_systems_attract_abusive_personalities.md)
     - [`🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md)
     - [`🩻_safeguarding_logic_civil_systems.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩻_safeguarding_logic_civil_systems.md)
   - [**🌸_Containment_Studies/**](🌑_1_Origin_Points/🌸_Containment_Studies/)
