@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 21:32:04 UTC_
+_Generated on 2026-05-23 21:32:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6490,7 +6490,6 @@ _Generated on 2026-05-23 21:32:04 UTC_
     - [`🧯_signs_your_brain_is_tired_because_society_is_batshit.md`](Polaris_Nest/Git_Intake_Drawer/🧯_signs_your_brain_is_tired_because_society_is_batshit.md)
     - [`🧯_sonata_aftershock_and_fear_procurement.md`](Polaris_Nest/Git_Intake_Drawer/🧯_sonata_aftershock_and_fear_procurement.md)
     - [`🧯_synthetic_pair_breach_and_industry_reflex.md`](Polaris_Nest/Git_Intake_Drawer/🧯_synthetic_pair_breach_and_industry_reflex.md)
-    - [`🧯_why_debate_never_works_extremist_identity_is_emotional_not_intellectual.md`](Polaris_Nest/Git_Intake_Drawer/🧯_why_debate_never_works_extremist_identity_is_emotional_not_intellectual.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -7271,6 +7270,7 @@ _Generated on 2026-05-23 21:32:04 UTC_
 - [**🌕_5_Long_Strategies/**](🌕_5_Long_Strategies/)
   - [**.🌱_Still_Growing/**](🌕_5_Long_Strategies/.🌱_Still_Growing/)
     - [`README.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/README.md)
+    - [`🧯_why_debate_never_works_extremist_identity_is_emotional_not_intellectual.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/🧯_why_debate_never_works_extremist_identity_is_emotional_not_intellectual.md)
     - [`🧱_cabinet_led_collective_executive_models_for_the_uk.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/🧱_cabinet_led_collective_executive_models_for_the_uk.md)
     - [`🧱_reconstruction_logic.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/🧱_reconstruction_logic.md)
     - [`🧸_softness_as_counter_extremism_infrastructure.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/🧸_softness_as_counter_extremism_infrastructure.md)
