@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 19:21:56 UTC_
+_Generated on 2026-05-23 19:25:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6400,14 +6400,6 @@ _Generated on 2026-05-23 19:21:56 UTC_
       - [`🧵_content_unravelling_protocols.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🧵_content_unravelling_protocols.md)
       - [`🪞_mirror_feedback_loops.md`](Metadata_Sabotage_Network/Suppression_Layers/🪅_Platform_Sabotage/🪞_mirror_feedback_loops.md)
   - [**🔎_Evidence_And_Anomalies/**](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
-    - [`🪅_li_contractors_embarrassed_daddy_gov_play_is_noticed.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_contractors_embarrassed_daddy_gov_play_is_noticed.png)
-    - [`🪅_li_daddy_gov_dropped_the_fork.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_daddy_gov_dropped_the_fork.png)
-    - [`🪅_li_daddy_gov_giving_creator_contractor_coronaries.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_daddy_gov_giving_creator_contractor_coronaries.png)
-    - [`🪅_li_demographics_throttle_party.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_demographics_throttle_party.png)
-    - [`🪅_li_even_more_fiance_jobs.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_even_more_fiance_jobs.png)
-    - [`🪅_li_many_flavour_watch_party.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_many_flavour_watch_party.png)
-    - [`🪅_li_many_flavoured_watch_party.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_many_flavoured_watch_party.png)
-    - [`🪅_li_not_throttled_controversial_posts.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_not_throttled_controversial_posts.png)
     - [`🪅_li_same_old_watch_party.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_same_old_watch_party.png)
     - [`🪅_li_suspiciously_still_throttled_posts.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_suspiciously_still_throttled_posts.png)
     - [`🪅_li_suspiciously_throttled_posts.png`](Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_suspiciously_throttled_posts.png)
@@ -7569,6 +7561,14 @@ _Generated on 2026-05-23 19:21:56 UTC_
           - [`🪅_li_contractor_just_a_little_too_bothered_about_daddy_gov_callout.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_contractor_just_a_little_too_bothered_about_daddy_gov_callout.png)
           - [`🪅_li_contractor_upset_playing_at_being_daddy_gov.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_contractor_upset_playing_at_being_daddy_gov.png)
           - [`🪅_li_contractor_very_bothered_about_daddy_gov_callout_idk_kinda_telling.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_contractor_very_bothered_about_daddy_gov_callout_idk_kinda_telling.png)
+          - [`🪅_li_contractors_embarrassed_daddy_gov_play_is_noticed.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_contractors_embarrassed_daddy_gov_play_is_noticed.png)
+          - [`🪅_li_daddy_gov_dropped_the_fork.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_daddy_gov_dropped_the_fork.png)
+          - [`🪅_li_daddy_gov_giving_creator_contractor_coronaries.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_daddy_gov_giving_creator_contractor_coronaries.png)
+          - [`🪅_li_demographics_throttle_party.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_demographics_throttle_party.png)
+          - [`🪅_li_even_more_fiance_jobs.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_even_more_fiance_jobs.png)
+          - [`🪅_li_many_flavour_watch_party.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_many_flavour_watch_party.png)
+          - [`🪅_li_many_flavoured_watch_party.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_many_flavoured_watch_party.png)
+          - [`🪅_li_not_throttled_controversial_posts.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/🪅_li_not_throttled_controversial_posts.png)
       - [**🧹_2025-08-11_sexualisation_sweep/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/)
         - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/README.md)
         - [`forensic_sweep_analysis.html`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/forensic_sweep_analysis.html)
