@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-23 20:20:57 UTC_
+_Generated on 2026-05-23 20:22:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6552,7 +6552,6 @@ _Generated on 2026-05-23 20:20:57 UTC_
     - [`🩸_reverse_victim_logic.md`](Polaris_Nest/Git_Intake_Drawer/🩸_reverse_victim_logic.md)
     - [`🩸_soul_as_product_lineage.md`](Polaris_Nest/Git_Intake_Drawer/🩸_soul_as_product_lineage.md)
     - [`🩺_healthcare_lockout_from_false_offender_classification.md`](Polaris_Nest/Git_Intake_Drawer/🩺_healthcare_lockout_from_false_offender_classification.md)
-    - [`🩻_the_balance_of_legal_exposures.md`](Polaris_Nest/Git_Intake_Drawer/🩻_the_balance_of_legal_exposures.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -6565,6 +6564,7 @@ _Generated on 2026-05-23 20:20:57 UTC_
     - [`🧿_why_opaque_systems_attract_abusive_personalities.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🧿_why_opaque_systems_attract_abusive_personalities.md)
     - [`🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩶_the_long_game_far_right_strategic_planning_for_digital_capture.md)
     - [`🩻_safeguarding_logic_civil_systems.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩻_safeguarding_logic_civil_systems.md)
+    - [`🩻_the_balance_of_legal_exposures.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩻_the_balance_of_legal_exposures.md)
   - [**🌸_Containment_Studies/**](🌑_1_Origin_Points/🌸_Containment_Studies/)
     - [**🌙_Everyday_Containment/**](🌑_1_Origin_Points/🌸_Containment_Studies/🌙_Everyday_Containment/)
       - [`README.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌙_Everyday_Containment/README.md)
