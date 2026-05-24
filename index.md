@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-24 20:17:24 UTC_
+_Generated on 2026-05-24 20:20:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7366,6 +7366,7 @@ _Generated on 2026-05-24 20:17:24 UTC_
       - [`🛠️_how_to_identify_reflexive_narrowing.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🛠️_Applied_Systems_Skills/🛠️_how_to_identify_reflexive_narrowing.md)
       - [`🛠️_how_to_map_pressure_distribution.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🛠️_Applied_Systems_Skills/🛠️_how_to_map_pressure_distribution.md)
       - [`🛠️_how_to_notice_aesthetics_masking_systems_failure.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🛠️_Applied_Systems_Skills/🛠️_how_to_notice_aesthetics_masking_systems_failure.md)
+      - [`🛠️_questions_to_ask_about_secretive_governance.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🛠️_Applied_Systems_Skills/🛠️_questions_to_ask_about_secretive_governance.md)
     - [**🦑_CRAKEN_Cartography/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🦑_CRAKEN_Cartography/)
       - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🦑_CRAKEN_Cartography/README.md)
       - [`🦑_alliance_remodelling_after_suez.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🦑_CRAKEN_Cartography/🦑_alliance_remodelling_after_suez.md)
