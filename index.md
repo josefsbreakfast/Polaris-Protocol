@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-24 21:51:37 UTC_
+_Generated on 2026-05-24 21:55:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7380,7 +7380,6 @@ _Generated on 2026-05-24 21:51:37 UTC_
       - [`🧄_who_absorbs_the_costs.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🧄_Exousiological_Dynamics/🧄_who_absorbs_the_costs.md)
       - [`🧄_why_people_can_believe_they_are_doing_good_while_causing_harm.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🧄_Exousiological_Dynamics/🧄_why_people_can_believe_they_are_doing_good_while_causing_harm.md)
     - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/README.md)
-    - [`notes.txt`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/notes.txt)
     - [`🛟_epistemic_safety_and_complexity.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🛟_epistemic_safety_and_complexity.md)
     - [`🧭_how_to_use_this_cluster.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🧭_how_to_use_this_cluster.md)
   - [**🐣_Ugly_Ducklings/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/)
