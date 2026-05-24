@@ -345,13 +345,19 @@ It examines the distinction between authority sustained through prestige, contin
 
 The node contributes to broader Polaris analysis by tracing how systems may continue operating through inherited prestige structures long after reciprocity weakens, producing increasingly brittle forms of authority dependent upon continuity performance rather than renewed legitimacy.
 
-> 📡 Cross-references:
->
-> - [🧄 Exousiological Dynamics](./README.md) — *legitimacy fracture and post-imperial authority strain*  
+> 📡 Cross-references:  
+>  
 > - [🧄 postcolonial_legitimacy_failure.md](./🧄_postcolonial_legitimacy_failure.md) — *sovereignty conflict and relational legitimacy collapse*  
-> - [🌸 the_aesthetics_of_composure.md](../🌸_Containment_Dynamics/🌸_the_aesthetics_of_composure.md) — *governance through seriousness, ritual, and symbolic continuity*  
-> - [☕️ Post-Imperial Weather](../../☕️_Post_Imperial_Weather/) — *emotional atmospheres of prestige decline and continuity culture*  
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *authority as reciprocity, stewardship, and adaptive legitimacy*  
+> - [🌸 The Aesthetics of Composure](../🌸_Containment_Dynamics/🌸_the_aesthetics_of_composure.md) — *governance through seriousness, ritual, and symbolic continuity*  
+> - [☕️ Post-Imperial Weather] — *emotional atmospheres of prestige decline and continuity culture*  
+> - [🧄 Exousiología] — *authority as reciprocity, stewardship, and adaptive legitimacy*  
+>
+> 🏮 Return To:  
+>
+> - [🧄 Exousiological Dynamics](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Authority is relational. Stewardship is load-bearing. Stability must remain livable.*  
 
