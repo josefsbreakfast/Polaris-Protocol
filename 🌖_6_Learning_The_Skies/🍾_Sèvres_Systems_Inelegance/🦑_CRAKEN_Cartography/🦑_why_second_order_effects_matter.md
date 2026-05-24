@@ -360,13 +360,19 @@ It examines how systems recursively reorganise themselves through reactions, ada
 
 The node contributes to broader Polaris analysis by tracing how long-term ecological transformation often emerges less from singular events themselves than from the reflexive systems remodelling generated in response to those events over time.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🦑 Alliance Remodelling After Suez](./🦑_alliance_remodelling_after_suez.md) — *alliance mutation and legitimacy recalibration*  
+> - [🦑 The Sleeping Kraken Problem](./🦑_the_sleeping_kraken_problem.md) — *submerged systems pressure and delayed rupture*  
+> - [🌸 Temporary Exception Becoming Operational Norm](../🌸_Containment_Dynamics/🌸_temporary_exception_becoming_operational_norm.md) — *how temporary stabilisation responses become permanent infrastructure*  
+> - [🧄 Exousiología] — *authority, reciprocity, and relational systems legitimacy*
 >
-> - [🦑 CRAKEN Cartography](./README.md) — *reflexive systems ecology and post-Suez terrain transformation*  
-> - [🦑 alliance_remodelling_after_suez.md](./🦑_alliance_remodelling_after_suez.md) — *alliance mutation and legitimacy recalibration*  
-> - [🦑 the_sleeping_kraken_problem.md](./🦑_the_sleeping_kraken_problem.md) — *submerged systems pressure and delayed rupture*  
-> - [🌸 temporary_exception_becoming_operational_norm.md](../🌸_Containment_Dynamics/🌸_temporary_exception_becoming_operational_norm.md) — *how temporary stabilisation responses become permanent infrastructure*  
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *authority, reciprocity, and relational systems legitimacy*  
+> 🏮 Return To:  
+>
+> - [🦑 CRAKEN Cartography](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Systems reshape themselves while reacting to earlier reshaping.*  
 
