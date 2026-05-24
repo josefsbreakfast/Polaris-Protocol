@@ -317,13 +317,18 @@ through a systems-learning framework rather than a purely chronological or ideol
 
 > 📡 Cross-references:
 >
-> - [🍾 Sèvres Systems Inelegance](../README.md) — *cluster overview and systems-learning orientation*
 > - [🍾 Elite Atmosphere](../🍾_Elite_Atmosphere/README.md) — *governance culture, prestige aesthetics, and elite atmospherics*
 > - [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *stabilisation systems and governance under pressure*
 > - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *legitimacy, stewardship, sovereignty, and governance survivability*
 > - [🦑 CRAKEN Cartography](../🦑_CRAKEN_Cartography/README.md) — *reflexive geopolitical systems mapping and ecological pressure analysis*
-> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *stabilisation systems and governance under pressure*
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational authority*
+> - [🌸 Containment Studies] — *stabilisation systems and governance under pressure*
+> - [🧄 Exousiología] — *legitimacy, stewardship, and relational authority*
+>
+> 🏮 Return To:  
+>
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
