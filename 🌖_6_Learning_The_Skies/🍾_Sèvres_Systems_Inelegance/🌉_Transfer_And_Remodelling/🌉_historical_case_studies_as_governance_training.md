@@ -127,3 +127,10 @@ Historical literacy therefore supports:
 
 🌉 📜 🌸 🧄 🦑 🛠️  
 *Historical distance, systems literacy, legitimacy analysis, and reflexive governance training through bounded case studies.*
+>
+> 🏮 Return To:  
+>
+> - [🌉 Transfer & Remodelling](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
