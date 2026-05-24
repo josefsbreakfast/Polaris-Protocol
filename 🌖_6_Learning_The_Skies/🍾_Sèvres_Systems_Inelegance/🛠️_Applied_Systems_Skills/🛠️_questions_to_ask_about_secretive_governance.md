@@ -470,13 +470,19 @@ It develops structured inquiry habits for analysing secrecy, non-disclosure, ins
 
 The node contributes to broader Polaris analysis by helping readers distinguish operational necessity from legitimacy-protective opacity while preserving nuance, uncertainty tolerance, proportionality, and relational systems thinking across governance, corporate, legal, compliance, and institutional environments.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🛠️ How To Identif Reflexive Narrowing](./🛠️_how_to_identify_reflexive_narrowing.md) — *shrinking feedback ecologies and adaptive rigidity*  
+> - [🌸 Stabilisation vs Self Protection](../🌸_Containment_Dynamics/🌸_stabilisation_vs_self_protection.md) — *institutional continuity and legitimacy-preserving behaviour*  
+> - [🦑 Why Second Order Effects Matter](../🦑_CRAKEN_Cartography/🦑_why_second_order_effects_matter.md) — *recursive consequence chains and systems remodelling*  
+> - [🧄 Why People Can Believe They Are Doing Good While Causing Harm](../🧄_Exousiological_Dynamics/🧄_why_people_can_believe_they_are_doing_good_while_causing_harm.md) — *institutional conditioning and moral narrowing*
 >
-> - [🛠️ Applied Systems Skills](./README.md) — *transferable systems literacy and ecological analysis tools*  
-> - [🛠️ how_to_identify_reflexive_narrowing.md](./🛠️_how_to_identify_reflexive_narrowing.md) — *shrinking feedback ecologies and adaptive rigidity*  
-> - [🌸 stabilisation_vs_self_protection.md](../🌸_Containment_Dynamics/🌸_stabilisation_vs_self_protection.md) — *institutional continuity and legitimacy-preserving behaviour*  
-> - [🦑 why_second_order_effects_matter.md](../🦑_CRAKEN_Cartography/🦑_why_second_order_effects_matter.md) — *recursive consequence chains and systems remodelling*  
-> - [🧄 why_people_can_believe_they_are_doing_good_while_causing_harm.md](../🧄_Exousiological_Dynamics/🧄_why_people_can_believe_they_are_doing_good_while_causing_harm.md) — *institutional conditioning and moral narrowing*  
+> 🏮 Return To:  
+>
+> - [🛠️ Applied Systems Skills](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Good systems analysis asks better questions before reaching stronger conclusions.*  
 
