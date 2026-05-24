@@ -517,13 +517,19 @@ It examines how systems move from bounded operational confidentiality toward inc
 
 The node contributes to broader Polaris analysis by helping readers interpret secrecy ecologically and proportionately, distinguishing adaptive operational governance from opacity structures increasingly shaped by institutional self-protection, legitimacy management, and declining confidence in adaptive correction.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🛠️ Questions To Ask About Secretive Governance](./🛠️_questions_to_ask_about_secretive_governance.md) — *structured inquiry frameworks for restricted information environments*  
+> - [🛠️ How To Identify Reflexive Narrowing](./🛠️_how_to_identify_reflexive_narrowing.md) — *shrinking feedback ecologies and defensive systems contraction*  
+> - [🌸 Stabilisation vs Self Protection](../🌸_Containment_Dynamics/🌸_stabilisation_vs_self_protection.md) — *institutional continuity and legitimacy-preserving reflexes*  
+> - [🧄 Why People Can Believe They Are Doing Good While Causing Harm](../🧄_Exousiological_Dynamics/🧄_why_people_can_believe_they_are_doing_good_while_causing_harm.md) — *institutional conditioning and sincere harm reproduction*
 >
-> - [🛠️ Applied Systems Skills](./README.md) — *transferable systems literacy and ecological analysis tools*  
-> - [🛠️ questions_to_ask_about_secretive_governance.md](./🛠️_questions_to_ask_about_secretive_governance.md) — *structured inquiry frameworks for restricted information environments*  
-> - [🛠️ how_to_identify_reflexive_narrowing.md](./🛠️_how_to_identify_reflexive_narrowing.md) — *shrinking feedback ecologies and defensive systems contraction*  
-> - [🌸 stabilisation_vs_self_protection.md](../🌸_Containment_Dynamics/🌸_stabilisation_vs_self_protection.md) — *institutional continuity and legitimacy-preserving reflexes*  
-> - [🧄 why_people_can_believe_they_are_doing_good_while_causing_harm.md](../🧄_Exousiological_Dynamics/🧄_why_people_can_believe_they_are_doing_good_while_causing_harm.md) — *institutional conditioning and sincere harm reproduction*  
+> 🏮 Return To:  
+>
+> - [🛠️ Applied Systems Skills](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *People tolerate imperfection far more readily than they tolerate systems that appear incapable of adaptation.*  
 
