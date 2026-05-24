@@ -467,14 +467,19 @@ through structured inquiry, ecological interpretation, and disciplined uncertain
 
 The cluster contributes to broader Polaris analysis by helping readers move from passive interpretation toward active systems literacy while preserving nuance, proportionality, and resistance to conspiratorial simplification.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🦑 CRAKEN Cartography](../🦑_CRAKEN_Cartography/README.md) — *reflexive geopolitical ecology and systems remodelling*  
+> - [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *governance compression and stabilisation reflexes*  
+> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *legitimacy fracture and relational authority analysis*  
+> - [🧄 Exousiología] — *authority, reciprocity, stewardship, and adaptive legitimacy*  
+> - [🌸 Containment Studies] — *systems of stabilisation, pressure management, and governance containment*  
 >
-> - [🍾 Sèvres Systems Inelegance](../README.md) — *cluster overview and systems-learning orientation*
-> - [🦑 CRAKEN Cartography](../🦑_CRAKEN_Cartography/README.md) — *reflexive geopolitical ecology and systems remodelling*
-> - [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *governance compression and stabilisation reflexes*
-> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *legitimacy fracture and relational authority analysis*
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *authority, reciprocity, stewardship, and adaptive legitimacy*
-> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *systems of stabilisation, pressure management, and governance containment*
+> 🏮 Return To:  
+>  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *The goal is not certainty. The goal is clearer ecological perception.*
 
