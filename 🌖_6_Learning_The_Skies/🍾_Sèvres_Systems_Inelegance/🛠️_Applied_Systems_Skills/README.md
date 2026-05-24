@@ -6,7 +6,7 @@
 
 ## 🛰️ Orientation  
 
-This cluster contains the primary pedagogical toolkit of the Sèvres Systems Inelegance framework.
+This cluster contains the primary pedagogical toolkit of the **🍾 Sèvres Systems Inelegance** framework.
 
 The earlier clusters teach primarily through:
 - history,
@@ -24,7 +24,7 @@ toward:
 
 The purpose of this cluster is not to produce:
 - paranoia,
-- certainty,
+- certainty performance,
 - simplistic ideological narratives,
 - or universal suspicion toward institutions.
 
@@ -33,33 +33,32 @@ Instead, it develops:
 - ecological thinking,
 - legitimacy analysis,
 - reflexive reasoning,
-- and disciplined uncertainty tolerance.
+- disciplined uncertainty tolerance,
+- and structured systems inquiry.
 
 The focus is on:
 - recognising recurring systems patterns,
-- asking better questions,
+- asking better governance questions,
 - mapping pressure distribution,
 - distinguishing operational necessity from legitimacy erosion,
 - and noticing when atmospherics begin substituting for adaptive institutional health.
 
-Importantly:
-these tools are intentionally transferable.
+These tools are intentionally transferable.
 
 They apply not only to:
-- states,
 - geopolitics,
-- or post-imperial governance,
+- governance,
+- or post-imperial systems,
 
 but also to:
+- organisations,
 - corporations,
-- media systems,
 - activist environments,
-- online ecosystems,
-- bureaucracies,
+- media ecologies,
 - universities,
-- security structures,
 - technological systems,
-- and ordinary organisational life.
+- online cultures,
+- and ordinary institutional life.
 
 The central pedagogical principle is:
 
@@ -67,152 +66,162 @@ The central pedagogical principle is:
 
 ---
 
-## ✨ Key Features  
+## 🗺️ Pocket Map  
 
-- Transferable systems analysis skills  
-- Reflexive systems literacy  
-- Anti-conspiratorial analytical grounding  
-- Governance legitimacy diagnostics  
-- Pressure distribution mapping  
-- Containment pattern recognition  
-- Structured inquiry frameworks  
-- Ecological thinking habits  
-- Atmospherics and prestige analysis  
-- Adaptive legitimacy interpretation  
+```text
+📜 Historical Context
+        ↓
+🍾 Elite Atmosphere
+        ↓
+🌸 Containment Dynamics
+        ↓
+🧄 Exousiological Dynamics
+        ↓
+🦑 CRAKEN Cartography
+        ↓
+🛠️ Applied Systems Skills
+        ↓
+🌉 Transfer & Remodelling
 
----
+🌖 Learning The Skies supports all layers
+```
 
-## 🧿 The Sèvres Lens  
+📍 You are currently here:
+> 🛠️ Applied Systems Skills
 
-Within the Sèvres Systems Inelegance framework, systems failure is rarely:
-- singular,
-- monocausal,
-- or reducible to hidden omnipotence.
+This layer translates:
+- legitimacy analysis,
+- containment dynamics,
+- reflexive systems ecology,
+- and governance pattern recognition
 
-More commonly:
-systems drift through:
-- legitimacy erosion,
-- narrowing feedback loops,
-- prestige inertia,
-- institutional conditioning,
-- containment reflexes,
-- ecological misreading,
-- and second-order consequence accumulation.
-
-This means systems analysis requires:
-- patience,
-- ambiguity tolerance,
-- relational thinking,
-- historical awareness,
-- and disciplined caution around explanatory certainty.
-
-The Applied Systems Skills cluster therefore teaches readers how to:
-- identify systems patterns without flattening them,
-- recognise legitimacy strain without collapsing into paranoia,
-- and analyse institutional behaviour ecologically rather than conspiratorially.
-
-This distinction is critical.
-
-The framework repeatedly emphasises:
-
-> complexity is not proof of conspiracy.
-
-Many harmful systems emerge not through:
-- total coordination,
-or:
-- singular intentionality,
-
-but through:
-- distributed incentives,
-- inherited assumptions,
-- prestige cultures,
-- bureaucratic reflexes,
-- fragmented responsibility,
-- and recursive adaptation under pressure.
-
-The purpose of these tools is therefore:
-not to simplify systems into villains,
-but to improve ecological perception.
+into:
+> transferable analytical practice.
 
 ---
 
-## 🧿 Systems Literacy as Ecological Literacy  
+## 🛠️ Why Applied Systems Skills Matters  
 
-A central principle of this cluster is:
+Historical and theoretical systems analysis is useful.
+
+But systems literacy only becomes practically meaningful when people can:
+- recognise patterns in real environments,
+- ask structured questions,
+- distinguish signal from panic,
+- tolerate uncertainty,
+- and maintain proportionality under pressure.
+
+This cluster therefore focuses on:
+> applied analytical habits.
+
+The emphasis is not:
+- certainty,
+- omniscience,
+- or universal suspicion.
+
+It is:
+- adaptive interpretation,
+- ecological perception,
+- disciplined inquiry,
+- and legitimacy-aware reasoning.
+
+This distinction matters because:
+poor systems literacy frequently collapses into:
+- paranoia,
+- absolutism,
+- ideological rigidity,
+- or compulsive pattern closure.
+
+The goal here is the opposite.
+
+The goal is:
+> clearer perception without flattening complexity.
+
+---
+
+## 🛠️ Systems Literacy as Ecological Literacy  
+
+A foundational principle of this cluster is:
 
 > systems are environments, not machines.
 
 This means:
-- institutions adapt,
 - incentives mutate,
 - legitimacy shifts,
-- alliances reorganise,
+- pressure redistributes,
+- institutions adapt,
 - narratives spread,
-- and pressures redistribute across networks over time.
+- and systems recursively reorganise over time.
 
 Applied systems literacy therefore involves learning to notice:
 - relational effects,
-- pressure movement,
-- legitimacy feedback,
+- pressure accumulation,
 - narrowing adaptability,
 - emotional atmospherics,
-- and recursive consequences.
+- legitimacy feedback,
+- recursive consequence chains,
+- and ecological strain.
 
 This requires moving beyond:
-- purely linear causality,
-- immediate reaction,
-- and simplistic “good actor / bad actor” models.
+- simplistic linear causality,
+- totalising ideological narratives,
+- and “good actor / bad actor” reductionism.
 
-The cluster instead encourages:
+Instead, the cluster develops:
 - ecological interpretation,
-- probabilistic thinking,
+- structured uncertainty,
 - pattern recognition,
-- and structured uncertainty.
+- proportionality,
+- and reflexive thinking.
 
 ---
 
-## 🧿 Distinguishing Analysis from Conspiracy  
+## 🛠️ Distinguishing Analysis from Conspiracy  
 
-One major concern of this cluster is preventing systems analysis from collapsing into conspiratorial cognition.
+One of the most important functions of this cluster is preventing systems analysis from collapsing into conspiratorial cognition.
 
 This means distinguishing between:
 - operational secrecy,
-- bureaucratic opacity,
-- institutional self-protection,
+- institutional opacity,
+- bureaucratic inertia,
+- legitimacy strain,
 - prestige preservation,
-- and distributed systems behaviour,
+- and fragmented systems behaviour,
 
 versus:
 - fantasies of total coordination,
-- omnipotent control,
-- or singular hidden intentionality explaining all outcomes.
+- omnipotent hidden control,
+- or singular intentionality explaining all outcomes.
 
 The framework repeatedly emphasises:
-many systems problems emerge through:
+many harmful systems emerge through:
 - fragmentation,
-- inertia,
 - adaptation failure,
-- incentive structures,
+- prestige culture,
+- recursive incentives,
 - institutional conditioning,
-- and recursive pressure accumulation.
+- and distributed responsibility,
 
-This is one reason:
+rather than:
+> perfectly coordinated hidden actors.
+
+This is why:
 structured inquiry matters more than certainty performance.
 
 Healthy systems analysis asks:
-- what pressures exist,
-- what incentives exist,
-- what accountability structures exist,
-- what legitimacy conditions exist,
-- who absorbs consequences,
-- and how systems are adapting ecologically.
+- what pressures exist?
+- what incentives exist?
+- who absorbs the burden?
+- how are legitimacy conditions shifting?
+- where is feedback narrowing?
+- what atmospherics are substituting for adaptive health?
 
 It does not assume:
-all opacity equals conspiracy.
+> opacity itself proves conspiracy.
 
 ---
 
-## 🧿 Reflexive Thinking and Adaptive Perception  
+## 🛠️ Reflexive Thinking and Adaptive Perception  
 
 The skills within this cluster train:
 - reflexive awareness,
@@ -222,65 +231,61 @@ The skills within this cluster train:
 This includes recognising:
 - shrinking feedback ecologies,
 - legitimacy anxiety,
-- atmospherics masking strain,
+- prestige masking,
 - pressure redistribution,
-- symbolic stability,
+- symbolic stability performance,
 - securitisation reflexes,
 - and recursive systems remodelling.
 
 Importantly:
 these patterns are not treated as:
-- absolute proof,
+- proof,
 - deterministic prediction,
-- or universally applicable diagnosis.
+- or universal diagnosis.
 
 They are:
 - interpretive tools,
 - ecological indicators,
-- and analytical prompts requiring contextual judgement.
+- and structured prompts requiring contextual judgement.
 
 This distinction matters because:
-systems literacy without epistemic humility easily becomes rigidity itself.
+systems literacy without epistemic humility often becomes rigidity itself.
 
 ---
 
-## 🧿 Emotional Regulation and Systems Analysis  
+## 🛠️ Emotional Regulation and Systems Analysis  
 
-Another core principle is that:
-good systems analysis requires emotional regulation.
+Another core principle of this cluster is:
+
+> good systems analysis requires emotional regulation.
 
 High-pressure environments often encourage:
 - panic,
 - certainty performance,
 - ideological simplification,
-- scapegoating,
-- or compulsive pattern closure.
+- compulsive explanation,
+- or scapegoating.
 
-However:
-many governance systems become most dangerous precisely when:
-- emotional bandwidth narrows,
-- ambiguity tolerance collapses,
-- and adaptive feedback becomes difficult to process.
+But many systems become most dangerous precisely when:
+- emotional bandwidth collapses,
+- ambiguity tolerance disappears,
+- and adaptive feedback becomes impossible to metabolise.
 
 The cluster therefore treats:
 - humour,
-- curiosity,
 - caution,
-- self-awareness,
-- and uncertainty tolerance
+- curiosity,
+- uncertainty tolerance,
+- and reflexive self-awareness
 
-as important analytical stabilisers rather than distractions from seriousness.
-
-This is partly why the folder itself intentionally balances:
-- rigorous systems analysis,
-with:
-- moments of tonal flexibility and morale preservation.
+as:
+> analytical stabilisers rather than distractions from seriousness.
 
 Rigid cognition frequently produces rigid systems.
 
 ---
 
-## 🧿 From Historical Analysis to Transferable Practice  
+## 🛠️ From Historical Analysis to Transferable Practice  
 
 The broader Sèvres framework teaches through:
 - post-imperial governance,
@@ -289,120 +294,188 @@ The broader Sèvres framework teaches through:
 - containment dynamics,
 - and geopolitical ecology.
 
-The Applied Systems Skills cluster extracts transferable habits from those case studies.
+🛠️ Applied Systems Skills extracts transferable habits from those case studies.
 
 The goal is not:
-memorising conclusions.
+> memorising conclusions.
 
 The goal is:
-developing analytical capability.
+> developing analytical capability.
 
 This includes learning how to:
 - ask better systems questions,
-- notice legitimacy strain,
+- recognise reflexive narrowing,
 - map pressure distribution,
 - distinguish secrecy from governance failure,
-- recognise atmospherics masking instability,
+- notice atmospherics masking instability,
 - and interpret systems ecologically rather than reactively.
 
 ---
 
-## 🧿 Role-Specific Systems Literacy  
+## 🛠️ Role-Specific Systems Literacy  
 
-The tools within this cluster are intended for broad application across different social and institutional roles.
+The tools within this cluster are intended for broad application across different institutional and social roles.
 
 This includes:
 - citizens,
 - journalists,
+- researchers,
+- educators,
+- technologists,
+- healthcare workers,
 - civil servants,
 - ministers,
-- educators,
-- healthcare workers,
-- researchers,
 - activists,
-- technologists,
 - and organisational leaders.
 
-Importantly:
-different positions within systems require different forms of inquiry.
+Different systems positions require different forms of inquiry.
 
 For example:
-- journalists may focus on accountability gaps, information asymmetries, and public legitimacy;
-- civil servants may focus on narrowing feedback loops, procedural distortion, and operational blind spots;
-- ministers may need to identify pressure accumulation, institutional rigidity, or legitimacy erosion within governance systems;
-- citizens may focus on reciprocity, representation, burden distribution, and institutional trust;
-- researchers and analysts may map second-order effects, alliance structures, or systems adaptation patterns.
+- journalists may focus on accountability gaps and legitimacy perception;
+- civil servants may focus on narrowing feedback loops and institutional blind spots;
+- ministers may focus on pressure accumulation and rigidity under crisis;
+- citizens may focus on reciprocity, representation, and burden distribution;
+- researchers may focus on second-order effects and ecological remodelling.
 
-The purpose of these tools is therefore not:
-to produce universal suspicion toward institutions.
+The purpose of these tools is not:
+> universal suspicion toward institutions.
 
 It is:
-to improve ecological perception within systems while preserving nuance, proportionality, and democratic accountability.
-
-Healthy systems require participants capable of:
-- recognising pressure,
-- interpreting legitimacy carefully,
-- tolerating uncertainty,
-- and maintaining adaptive feedback across institutional environments.
+> improved ecological perception while preserving nuance, proportionality, and democratic accountability.
 
 ---
 
-## 🧭 Further Considerations  
+## 🧭 Suggested Applied Skills Traversal  
 
-- How can systems be analysed without collapsing into paranoia?
-- What distinguishes operational secrecy from legitimacy failure?
-- Which pressures are becoming structurally invisible?
-- How do systems narrow feedback under stress?
-- What atmospherics are substituting for adaptive health?
-- Which populations absorb instability quietly?
-- How do second-order effects reshape systems over time?
-- What forms of institutional behaviour emerge from fragmentation rather than coordination?
-- How can analytical humility coexist with rigorous critique?
-- What habits increase ecological perception without producing rigidity?
+This folder is designed to move from:
+- recognising narrowing systems behaviour,
+- to structured governance inquiry,
+- to distinguishing secrecy from legitimacy failure,
+- to ecological pressure mapping,
+- to identifying atmospherics masking systems deterioration.
 
 ---
 
-## 🧩 Structure  
+```text
+🛠️ How to Identify Reflexive Narrowing
+        ↓
+🛠️ Questions to Ask About Secretive Governance
+        ↓
+🛠️ Distinguishing Operational Secrecy from Legitimacy Failure
+        ↓
+🛠️ How to Map Pressure Distribution
+        ↓
+🛠️ How to Notice Aesthetics Masking Systems Failure
 
-### 🛠️ Transferable Systems Skills  
-*Practical analytical habits for legitimacy, containment, and reflexive systems ecology.*
+🍾 Sèvres Systems Inelegance reframes all layers through systems analysis
+```
 
-- 🛠️ how_to_identify_reflexive_narrowing.md  
-- 🛠️ questions_to_ask_about_secretive_governance.md  
-- 🛠️ distinguishing_operational_secrecy_from_legitimacy_failure.md  
-- 🛠️ how_to_map_pressure_distribution.md  
-- 🛠️ how_to_notice_aesthetics_masking_systems_failure.md  
+---
+
+### 🛠️ how_to_identify_reflexive_narrowing.md  
+[🛠️ How to Identify Reflexive Narrowing](./🛠️_how_to_identify_reflexive_narrowing.md)
+
+Recognising:
+- shrinking feedback ecologies,
+- narrowing consultation,
+- legitimacy anxiety,
+- and adaptive collapse under pressure.
+
+This node answers:
+> “How do systems begin narrowing their own perception under stress?”
+
+---
+
+### 🛠️ questions_to_ask_about_secretive_governance.md  
+[🛠️ Questions to Ask About Secretive Governance](./🛠️_questions_to_ask_about_secretive_governance.md)
+
+Structured inquiry framework for analysing:
+- opacity,
+- accountability,
+- legitimacy,
+- and governance proportionality.
+
+This node answers:
+> “How can secretive systems be analysed without collapsing into paranoia?”
+
+---
+
+### 🛠️ distinguishing_operational_secrecy_from_legitimacy_failure.md  
+[🛠️ Distinguishing Operational Secrecy from Legitimacy Failure](./🛠️_distinguishing_operational_secrecy_from_legitimacy_failure.md)
+
+Operational necessity versus self-protective opacity, containment reflexes, and legitimacy erosion.
+
+This node answers:
+> “When does secrecy remain operationally necessary, and when does it become legitimacy-destructive?”
+
+---
+
+### 🛠️ how_to_map_pressure_distribution.md  
+[🛠️ How to Map Pressure Distribution](./🛠️_how_to_map_pressure_distribution.md)
+
+Reflexive ecological systems mapping, burden distribution, and identifying where instability accumulates.
+
+This node answers:
+> “Where is pressure actually moving inside the system?”
+
+---
+
+### 🛠️ how_to_notice_aesthetics_masking_systems_failure.md  
+[🛠️ How to Notice Aesthetics Masking Systems Failure](./🛠️_how_to_notice_aesthetics_masking_systems_failure.md)
+
+Prestige atmospherics, composure performance, and symbolic stability masking adaptive deterioration.
+
+This node answers:
+> “How can presentation and ritual obscure systems instability?”
+
+---
+
+## 🌉 Where To Go Next  
+
+After completing this layer, readers typically move into:
+
+- [🌉 Transfer & Remodelling](../🌉_Transfer_&_Remodelling/README.md) — *historical afterlives, institutional inheritance, and systems remodelling*
+- [🦑 CRAKEN Cartography](../🦑_CRAKEN_Cartography/README.md) — *reflexive geopolitical ecology and recursive consequence chains*
+- [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *stabilisation reflexes, emergency narrowing, and governance under stress*
 
 ---
 
 ## 🌌 Constellations  
 
-🛠️ 🧄 🌸 🦑 🪞 🌊 — systems literacy; legitimacy diagnostics; ecological governance analysis; pressure mapping; anti-conspiratorial reasoning; adaptive perception.
+🛠️ 🧄 🌸 🦑 🪞 🌊  
+*Systems literacy, legitimacy diagnostics, ecological governance analysis, pressure mapping, anti-conspiratorial reasoning, and adaptive perception under complexity.*
 
 ---
 
 ## ✨ Stardust  
 
-applied systems skills, protocol of sevres, systems literacy, reflexive systems analysis, ecological governance thinking, legitimacy diagnostics, pressure distribution mapping, anti-conspiratorial analysis, containment reflexes, prestige systems, systems ecology, governance interpretation, adaptive legitimacy analysis, recursive systems behaviour, operational secrecy, institutional opacity, ecological perception, transferable analytical skills
+applied systems skills, systems literacy, ecological governance analysis, legitimacy diagnostics, reflexive systems analysis, pressure mapping, anti-conspiratorial reasoning, containment dynamics, governance inquiry, recursive systems behaviour, operational secrecy, institutional opacity, adaptive perception, legitimacy erosion, prestige atmospherics, systems ecology, transferable analytical tools
 
 ---
 
 ## 🏮 Footer  
 
-*Applied Systems Skills* is a living cluster of the **Polaris Protocol**.
+*🛠️ Applied Systems Skills* is a living cluster within **🍾 Sèvres Systems Inelegance**.
 
-It develops transferable analytical habits for interpreting governance systems, legitimacy strain, containment reflexes, and reflexive systems ecology through structured inquiry, ecological thinking, and disciplined uncertainty tolerance.
+It develops transferable analytical habits for interpreting:
+- legitimacy strain,
+- containment reflexes,
+- governance opacity,
+- pressure redistribution,
+- and reflexive systems behaviour
+through structured inquiry, ecological interpretation, and disciplined uncertainty tolerance.
 
-The cluster contributes to broader Polaris analysis by helping readers move from passive interpretation toward active systems literacy while maintaining nuance, proportionality, and resistance to conspiratorial simplification.
+The cluster contributes to broader Polaris analysis by helping readers move from passive interpretation toward active systems literacy while preserving nuance, proportionality, and resistance to conspiratorial simplification.
 
 > 📡 Cross-references:
 >
-> - [🦑 CRAKEN Cartography](../🦑_CRAKEN_Cartography/README.md) — *reflexive systems ecology and geopolitical remodelling*  
-> - [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *governance compression and stabilisation reflexes*  
-> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *legitimacy fracture and relational authority analysis*  
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *authority, reciprocity, stewardship, and adaptive legitimacy*  
-> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *systems of stabilisation, pressure management, and governance containment*  
+> - [🍾 Sèvres Systems Inelegance](../README.md) — *cluster overview and systems-learning orientation*
+> - [🦑 CRAKEN Cartography](../🦑_CRAKEN_Cartography/README.md) — *reflexive geopolitical ecology and systems remodelling*
+> - [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *governance compression and stabilisation reflexes*
+> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *legitimacy fracture and relational authority analysis*
+> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *authority, reciprocity, stewardship, and adaptive legitimacy*
+> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *systems of stabilisation, pressure management, and governance containment*
 
-*The goal is not certainty. The goal is clearer ecological perception.*  
+*The goal is not certainty. The goal is clearer ecological perception.*
 
 _Last updated: 2026-05-24_
