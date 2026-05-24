@@ -121,7 +121,7 @@ This cluster is designed to move from:
 - to transferable analytical capability.
 
 Readers may enter anywhere, but the folders broadly flow from:
-> orientation → atmosphere → pressure → legitimacy → systems mapping → practical analysis → historical transfer.
+> orientation → atmosphere → pressure → legitimacy → systems Cartography → practical analysis → historical transfer.
 
 ---
 
@@ -136,7 +136,7 @@ Readers may enter anywhere, but the folders broadly flow from:
         ↓
 🧄 Exousiological Dynamics
         ↓
-🦑 CRAKEN Mapping
+🦑 CRAKEN Cartography
         ↓
 🛠️ Applied Systems Skills
         ↓
@@ -195,7 +195,7 @@ This layer answers:
 
 ---
 
-### 🦑 CRAKEN Mapping  
+### 🦑 CRAKEN Cartography  
 Examines:
 - reflexive pressure ecologies,
 - alliance remodelling,
@@ -251,7 +251,7 @@ Start here if you are interested in:
 
 1. [🌸 Containment Dynamics](./🌸_Containment_Dynamics/README.md)  
 2. [🧄 Exousiological Dynamics](./🧄_Exousiological_Dynamics/README.md)  
-3. [🦑 CRAKEN Mapping](./🦑_CRAKEN_Mapping/README.md)
+3. [🦑 CRAKEN Cartography](./🦑_CRAKEN_Cartography/README.md)
 
 ---
 
@@ -277,7 +277,7 @@ Start here if you want:
 
 1. [🛠️ Applied Systems Skills](./🛠️_Applied_Systems_Skills/README.md)  
 2. [🌸 Containment Dynamics](./🌸_Containment_Dynamics/README.md)  
-3. [🦑 CRAKEN Mapping](./🦑_CRAKEN_Mapping/README.md)
+3. [🦑 CRAKEN Cartography](./🦑_CRAKEN_Cartography/README.md)
 
 ---
 
@@ -339,8 +339,8 @@ Useful for examining:
 
 ---
 
-### 🦑 CRAKEN Mapping  
-[🦑 CRAKEN Mapping](./🦑_CRAKEN_Mapping/README.md)
+### 🦑 CRAKEN Cartography  
+[🦑 CRAKEN Cartography](./🦑_CRAKEN_Cartography/README.md)
 
 Reflexive ecological analysis, alliance remodelling, second-order effects, and systemic pressure redistribution.
 
@@ -425,7 +425,7 @@ It also treats authority as:
 
 ---
 
-### 🦑 CRAKEN Mapping  
+### 🦑 CRAKEN Cartography  
 The CRAKEN system analyses:
 - reflexive pressure ecologies,
 - alliance remodelling,
