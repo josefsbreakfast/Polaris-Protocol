@@ -295,9 +295,16 @@ It examines how the Suez Crisis became a world-system event involving Cold War l
 >
 > - [📜 What Was The Protocol of Sèvres?](./📜_what_was_the_protocol_of_sevres.md) — *core historical orientation node*
 > - [📜 Nasser, Suez, & Postcolonial Pressure](./📜_nasser_suez_and_postcolonial_pressure.md) — *anti-colonial legitimacy and sovereignty dynamics*
-> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *stabilisation systems and governance under pressure*
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational authority*
-> - [🦑 C.R.A.K.E.N.](../../../../🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive geopolitical systems mapping*
+> - [🌸 Containment Studies] — *stabilisation systems and governance under pressure*
+> - [🧄 Exousiología] — *legitimacy, stewardship, and relational authority*
+> - [🦑 C.R.A.K.E.N.] — *reflexive geopolitical systems mapping*
+>
+> 🏮 Return To:  
+>
+> - [📜 Historical Context](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
