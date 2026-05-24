@@ -353,13 +353,19 @@ closed-room governance, elite coordination, british governance culture, constitu
 
 It examines how elite coordination systems, trusted-network politics, constitutional ambiguity, and informal governance cultures shape statecraft, secrecy, legitimacy perception, and systems behaviour under geopolitical pressure.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🍾 Champagne Is Not Systems Elegance](./🍾_champagne_is_not_systems_elegance.md) — *prestige aesthetics versus adaptive governance*  
+> - [📜 Anthony Eden & The Crisis of Statecraft](../📜_Historical_Context/📜_anthony_eden_and_the_crisis_of_statecraft.md) — *prestige anxiety and narrowing governance logic*  
+> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *stabilisation systems and governance under pressure*  
+> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational authority*  
 >
-> - [🍾 Elite Atmosphere](./README.md) — *governance culture, prestige aesthetics, and statecraft atmospherics*
-> - [🍾 Champagne Is Not Systems Elegance](./🍾_champagne_is_not_systems_elegance.md) — *prestige aesthetics versus adaptive governance*
-> - [📜 Anthony Eden & The Crisis of Statecraft](../📜_Historical_Context/📜_anthony_eden_and_the_crisis_of_statecraft.md) — *prestige anxiety and narrowing governance logic*
-> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *stabilisation systems and governance under pressure*
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational authority*
+> 🏮 Return To:  
+>
+> - [🍾 Elite Atmosphere](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
