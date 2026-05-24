@@ -281,6 +281,12 @@ It establishes the learning philosophy, analytical layering, and pedagogical str
 > - [🌸 Containment Studies](../../../🌸_Containment_Studies/README.md) — *stabilisation systems and governance under pressure*
 > - [🧄 Exousiología](../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational authority*
 > - [🦑 C.R.A.K.E.N.](../../../🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive geopolitical systems mapping*
+>
+> 🏮 Return To:  
+>
+> - [🍾 Sèvres Systems Inelegance](./README.md)  
+> - [🌖 Learning The Skies](../README.md)  
+> - [🌌 Polaris Protocol - Root](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
