@@ -420,15 +420,20 @@ It examines legitimacy fracture within post-imperial governance systems, with pa
 
 The cluster contributes to broader Polaris analysis by tracing how governance systems continue seeking continuity after reciprocity weakens, and how containment reflexes emerge when institutional authority remains structurally powerful but relationally unstable.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [📜 Historical Context](../📜_Historical_Context/README.md) — *historical grounding for legitimacy and governance analysis*  
+> - [🍾 Elite Atmosphere](../🍾_Elite_Atmosphere/README.md) — *prestige aesthetics, governance culture, and elite atmospherics*  
+> - [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *stabilisation reflexes, emergency governance drift, and institutional self-protection*  
+> - [🦑 CRAKEN Cartography](../🦑_CRAKEN_Cartography/README.md) — *reflexive geopolitical systems mapping and ecological pressure analysis*  
+> - [🧄 Exousiología] — *authority as stewardship, reciprocity, and adaptive legitimacy*  
+> - [🌸 Containment Studies] — *stabilisation systems, emergency governance, and institutional hardening under stress*  
 >
-> - [🍾 Sèvres Systems Inelegance](../README.md) — *cluster overview and systems-learning orientation*
-> - [📜 Historical Context](../📜_Historical_Context/README.md) — *historical grounding for legitimacy and governance analysis*
-> - [🍾 Elite Atmosphere](../🍾_Elite_Atmosphere/README.md) — *prestige aesthetics, governance culture, and elite atmospherics*
-> - [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *stabilisation reflexes, emergency governance drift, and institutional self-protection*
-> - [🦑 CRAKEN Cartography](../🦑_CRAKEN_Cartography/README.md) — *reflexive geopolitical systems mapping and ecological pressure analysis*
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *authority as stewardship, reciprocity, and adaptive legitimacy*
-> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *stabilisation systems, emergency governance, and institutional hardening under stress*
+> 🏮 Return To:  
+>  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Authority is relational. Stewardship is load-bearing. Stability must remain livable.*  
 
