@@ -477,13 +477,19 @@ It examines how professionalism, composure, symbolic continuity, and institution
 
 The node contributes to broader Polaris analysis by helping readers distinguish healthy legitimacy-supporting aesthetics from atmospherics increasingly functioning as substitutes for responsiveness, reciprocity, and ecological adaptation.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🌸 The Aesthetics Of Composure](../🌸_Containment_Dynamics/🌸_the_aesthetics_of_composure.md) — *ritual, calmness, and symbolic stability within governance culture*  
+> - [🛠️ How To Identify Reflexive Narrowing](./🛠️_how_to_identify_reflexive_narrowing.md) — *shrinking feedback ecologies and adaptive rigidity*  
+> - [🦑 The Sleeping Kraken Problem](../🦑_CRAKEN_Cartography/🦑_the_sleeping_kraken_problem.md) — *submerged systems strain beneath surface calm*  
+> - [☕️ Post-Imperial Weather] — *emotional atmospheres and composure cultures after empire*
 >
-> - [🛠️ Applied Systems Skills](./README.md) — *transferable systems literacy and ecological analysis tools*  
-> - [🌸 the_aesthetics_of_composure.md](../🌸_Containment_Dynamics/🌸_the_aesthetics_of_composure.md) — *ritual, calmness, and symbolic stability within governance culture*  
-> - [🛠️ how_to_identify_reflexive_narrowing.md](./🛠️_how_to_identify_reflexive_narrowing.md) — *shrinking feedback ecologies and adaptive rigidity*  
-> - [🦑 the_sleeping_kraken_problem.md](../🦑_CRAKEN_Cartography/🦑_the_sleeping_kraken_problem.md) — *submerged systems strain beneath surface calm*  
-> - [☕️ Post-Imperial Weather](../../☕️_Post_Imperial_Weather/) — *emotional atmospheres and composure cultures after empire*  
+> 🏮 Return To:  
+>
+> - [🛠️ Applied Systems Skills](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Systems can remain symbolically stable long after adaptive stability has begun weakening underneath.*  
 
