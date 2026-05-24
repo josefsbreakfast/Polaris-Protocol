@@ -280,12 +280,19 @@ protocol of sèvres, suez crisis, anthony eden, gamal abdel nasser, cold war, po
 It establishes the basic structure, historical context, secrecy dynamics, legitimacy tensions, and geopolitical significance of the Protocol of Sèvres as a systems-learning case study in governance under pressure.
 
 > 📡 Cross-references:
+>  
+> - [🍾 Sèvres Systems Inelegance](../README.md) — *cluster overview and learning philosophy*  
+> - [🌸 Containment Studies] — *stabilisation systems and governance under pressure*  
+> - [🧄 Exousiología] — *legitimacy, stewardship, and relational authority*  
+> - [🦑 C.R.A.K.E.N.] — *reflexive geopolitical systems mapping*  
 >
-> - [📜 Historical Context](./README.md) — *historical grounding for systems analysis*
-> - [🍾 Sèvres Systems Inelegance](../README.md) — *cluster overview and learning philosophy*
-> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *stabilisation systems and governance under pressure*
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational authority*
-> - [🦑 C.R.A.K.E.N.](../../../../🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive geopolitical systems mapping*
+> 🏮 Return To:  
+>
+> - [📜 Historical Context](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
