@@ -341,13 +341,19 @@ It examines how legitimacy strain, prestige exhaustion, alliance tension, and un
 
 The node contributes to broader Polaris analysis by tracing how governance systems frequently mistake successful containment of instability visibility for genuine systems resolution, allowing submerged pressures to intensify across decades before becoming politically legible.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🦑 Misreading The Postwar Geopolitical Ecology](./🦑_misreading_the_postwar_geopolitical_ecology.md) — *ecological misperception and prestige inertia*  
+> - [🌸 The Aesthetics of Composure](../🌸_Containment_Dynamics/🌸_the_aesthetics_of_composure.md) — *symbolic stability and composure atmospherics*  
+> - [🧄 Who Absorbs The Costs?](../🧄_Exousiological_Dynamics/🧄_who_absorbs_the_costs.md) — *load-bearing populations and hidden systems burden*  
+> - [🧄 Prestige vs Relational Authority](../🧄_Exousiological_Dynamics/🧄_prestige_vs_relational_authority.md) — *authority sustained through prestige after reciprocity weakens*  
 >
-> - [🦑 CRAKEN Cartography](./README.md) — *reflexive systems ecology and geopolitical terrain transformation*  
-> - [🦑 misreading_the_postwar_geopolitical_ecology.md](./🦑_misreading_the_postwar_geopolitical_ecology.md) — *ecological misperception and prestige inertia*  
-> - [🌸 the_aesthetics_of_composure.md](../🌸_Containment_Dynamics/🌸_the_aesthetics_of_composure.md) — *symbolic stability and composure atmospherics*  
-> - [🧄 who_absorbs_the_costs.md](../🧄_Exousiological_Dynamics/🧄_who_absorbs_the_costs.md) — *load-bearing populations and hidden systems burden*  
-> - [🧄 prestige_vs_relational_authority.md](../🧄_Exousiological_Dynamics/🧄_prestige_vs_relational_authority.md) — *authority sustained through prestige after reciprocity weakens*  
+> 🏮 Return To:  
+>
+> - [🦑 CRAKEN Cartography](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *The pressure remains even when the surface appears calm.*  
 
