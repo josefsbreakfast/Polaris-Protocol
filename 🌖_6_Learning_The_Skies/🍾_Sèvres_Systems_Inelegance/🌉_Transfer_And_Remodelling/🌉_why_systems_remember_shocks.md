@@ -202,3 +202,10 @@ Understanding this distinction is crucial for governance literacy.
 
 ---
 
+>
+> 🏮 Return To:  
+>
+> - [🌉 Transfer & Remodelling](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
