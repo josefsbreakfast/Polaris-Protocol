@@ -553,10 +553,14 @@ over simplistic certainty, conspiracy aesthetics, or moral flattening.
 
 > 📡 Cross-references:
 >
-> - [🌸 Containment Studies](../../../🌸_Containment_Studies/README.md) — *stabilisation systems, containment reflexes, and governance under pressure*
-> - [🧄 Exousiología](../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, resilience, and relational authority*
-> - [🦑 C.R.A.K.E.N.](../../../🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive geopolitical systems mapping*
-> - [🌖 Learning The Skies](../README.md) — *applied learning through layered narrative and systems literacy*
+> - [🌸 Containment Studies] — *stabilisation systems, containment reflexes, and governance under pressure*  
+> - [🧄 Exousiología] — *legitimacy, stewardship, resilience, and relational authority*  
+> - [🦑 C.R.A.K.E.N.] — *reflexive geopolitical systems mapping*  
+>
+> 🏮 Return To:  
+>  
+> - [🌖 Learning The Skies](../README.md)  
+> - [🌌 Polaris Protocol - Root](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
