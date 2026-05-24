@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-24 19:13:40 UTC_
+_Generated on 2026-05-24 19:15:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7339,6 +7339,7 @@ _Generated on 2026-05-24 19:13:40 UTC_
       - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/README.md)
       - [`📜_nasser_suez_and_postcolonial_pressure.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/📜_nasser_suez_and_postcolonial_pressure.md)
       - [`📜_what_was_the_protocol_of_sevres.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/📜_what_was_the_protocol_of_sevres.md)
+      - [`📜_why_suez_mattered_globally.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/📜_why_suez_mattered_globally.md)
     - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/README.md)
     - [`notes.txt`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/notes.txt)
     - [`🛟_epistemic_safety_and_complexity.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🛟_epistemic_safety_and_complexity.md)
