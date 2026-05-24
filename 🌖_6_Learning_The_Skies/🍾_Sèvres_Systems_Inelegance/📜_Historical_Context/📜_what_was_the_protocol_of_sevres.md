@@ -7,11 +7,11 @@
 ## 🛰️ Orientation  
 
 The Protocol of Sèvres was a secret agreement made in October 1956 between:
-- :contentReference[oaicite:0]{index=0},
-- :contentReference[oaicite:1]{index=1},
-- and :contentReference[oaicite:2]{index=2}
+- United Kingdom,
+- France,
+- and State of Israel  
 
-during the escalating crisis surrounding the nationalisation of the Suez Canal by :contentReference[oaicite:3]{index=3}.
+during the escalating crisis surrounding the nationalisation of the Suez Canal by Gamal Abdel Nasser.  
 
 The agreement established a coordinated military and diplomatic plan which would create a formal justification for British and French intervention in Egypt.
 
@@ -240,7 +240,7 @@ Much of what is popularly understood about Suez comes through:
 - diplomatic history,
 - and later cultural dramatisation.
 
-Popular depictions — including those in works like :contentReference[oaicite:4]{index=4} — should therefore be understood as:
+Popular depictions — including those in works like **The Crown** — should therefore be understood as:
 > interpretive dramatizations,
 not literal documentary transcripts.
 
