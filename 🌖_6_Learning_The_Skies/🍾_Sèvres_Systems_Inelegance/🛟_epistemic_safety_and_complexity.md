@@ -350,11 +350,16 @@ without collapsing into conspiracism, certainty performance, moral flattening, o
 
 > 📡 Cross-references:
 >
-> - [🍾 Sèvres Systems Inelegance](./README.md) — *cluster overview and systems-learning orientation*
-> - [🧭 How To Use This Cluster](./🧭_how_to_use_this_cluster.md) — *reading order and analytical layering*
-> - [🌸 Containment Studies](../../../🌸_Containment_Studies/README.md) — *stabilisation systems and containment reflexes*
-> - [🧄 Exousiología](../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational authority*
-> - [🦑 C.R.A.K.E.N.](../../../🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive geopolitical systems mapping*
+> - [🧭 How To Use This Cluster] — *reading order and analytical layering*
+> - [🌸 Containment Studies] — *stabilisation systems and containment reflexes*
+> - [🧄 Exousiología] — *legitimacy, stewardship, and relational authority*
+> - [🦑 C.R.A.K.E.N.] — *reflexive geopolitical systems mapping*
+>
+> 🏮 Return To:  
+>
+> - [🍾 Sèvres Systems Inelegance](./README.md)  
+> - [🌖 Learning The Skies](../README.md)  
+> - [🌌 Polaris Protocol - Root](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
