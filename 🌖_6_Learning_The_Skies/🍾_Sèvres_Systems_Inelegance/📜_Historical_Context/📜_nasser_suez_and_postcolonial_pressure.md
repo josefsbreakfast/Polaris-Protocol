@@ -313,11 +313,17 @@ It examines the anti-colonial legitimacy environment, sovereignty tensions, cana
 
 > 📡 Cross-references:
 >
-> - [📜 What Was The Protocol of Sèvres?](./📜_what_was_the_protocol_of_sevres.md) — *core historical orientation node*
-> - [📜 Historical Context](./README.md) — *historical grounding for systems analysis*
-> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *stabilisation systems and governance under pressure*
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational authority*
-> - [🦑 C.R.A.K.E.N.](../../../../🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive geopolitical systems mapping*
+> - [📜 What Was The Protocol of Sèvres?](./📜_what_was_the_protocol_of_sevres.md) — *core historical orientation node*  
+> - [🌸 Containment Studies] — *stabilisation systems and governance under pressure*  
+> - [🧄 Exousiología] — *legitimacy, stewardship, and relational authority*  
+> - [🦑 C.R.A.K.E.N.] — *reflexive geopolitical systems mapping*  
+>
+> 🏮 Return To:  
+>
+> - [📜 Historical Context](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
