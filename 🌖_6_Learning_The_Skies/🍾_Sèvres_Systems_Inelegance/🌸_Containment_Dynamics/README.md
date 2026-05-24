@@ -379,17 +379,23 @@ It examines how systems behave under perceived instability, with particular atte
 
 The cluster contributes to wider Polaris analysis by tracing how containment often emerges not only through force or secrecy, but through ritual, pacing, composure, administrative narrowing, and legitimacy management.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🍾 Sèvres Systems Inelegance](../README.md) — *elite governance culture, prestige systems, and structural inelegance*  
+> - [📜 Historical Context](../📜_Historical_Context/README.md) — *historical grounding for systems analysis*  
+> - [🍾 Elite Atmosphere](../🍾_Elite_Atmosphere/README.md) — *prestige aesthetics, elite atmospherics, and governance culture*  
+> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *legitimacy, stewardship, sovereignty, and governance survivability*  
+> - [🦑 CRAKEN Cartography](../🦑_CRAKEN_Cartography/README.md) — *reflexive geopolitical systems mapping and ecological pressure analysis*  
+> - [☕️ Post-Imperial Weather] — *emotional atmospheres of post-imperial governance*  
+> - [📚 Narrative Management] — *media pacing, legitimacy framing, and reputational governance*  
+> - [⚖️ Legal State Governance] — *institutional authority, procedural legitimacy, and state power*  
+> - [🌸 Containment Studies] — *root-level containment frameworks across systems and scales*  
 >
-> - [🍾 Sèvres Systems Inelegance](../README.md) — *elite governance culture, prestige systems, and structural inelegance*
-> - [📜 Historical Context](../📜_Historical_Context/README.md) — *historical grounding for systems analysis*
-> - [🍾 Elite Atmosphere](../🍾_Elite_Atmosphere/README.md) — *prestige aesthetics, elite atmospherics, and governance culture*
-> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *legitimacy, stewardship, sovereignty, and governance survivability*
-> - [🦑 CRAKEN Cartography](../🦑_CRAKEN_Cartography/README.md) — *reflexive geopolitical systems mapping and ecological pressure analysis*
-> - [☕️ Post-Imperial Weather](../../☕️_Post_Imperial_Weather/) — *emotional atmospheres of post-imperial governance*
-> - [📚 Narrative Management](../../📚_Narrative_Management/) — *media pacing, legitimacy framing, and reputational governance*
-> - [⚖️ Legal State Governance](../../⚖️_Legal_State_Governance/) — *institutional authority, procedural legitimacy, and state power*
-> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/) — *root-level containment frameworks across systems and scales*
+> 🏮 Return To:  
+>  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
