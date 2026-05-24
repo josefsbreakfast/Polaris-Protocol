@@ -15,3 +15,6 @@
     │         cognitive bias,
     │         inherited governance assumptions,
     │         developmental normalisation.
+Exousiological_Dynamics
+
+README.md
