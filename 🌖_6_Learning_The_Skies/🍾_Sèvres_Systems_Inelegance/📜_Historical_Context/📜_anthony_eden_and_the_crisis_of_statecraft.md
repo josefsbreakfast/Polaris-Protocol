@@ -318,8 +318,15 @@ It examines how prestige anxiety, inherited governance assumptions, secrecy cult
 > - [📜 What Was The Protocol of Sèvres?](./📜_what_was_the_protocol_of_sevres.md) — *core historical orientation node*
 > - [📜 Why Suez Mattered Globally](./📜_why_suez_mattered_globally.md) — *Cold War legitimacy and alliance remodelling*
 > - [🍾 Closed-Room Governance Cultures](../🍾_Elite_Atmosphere/🍾_closed_room_governance_cultures.md) — *elite coordination and governance atmospherics*
-> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *stabilisation systems and governance under pressure*
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational authority*
+> - [🌸 Containment Studies] — *stabilisation systems and governance under pressure*
+> - [🧄 Exousiología] — *legitimacy, stewardship, and relational authority*
+>
+> 🏮 Return To:  
+>
+> - [📜 Historical Context](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
