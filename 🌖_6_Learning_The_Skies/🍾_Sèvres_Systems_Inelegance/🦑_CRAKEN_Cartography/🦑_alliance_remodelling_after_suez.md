@@ -341,13 +341,19 @@ It examines how Suez reshaped alliance structures, legitimacy expectations, stra
 
 The node contributes to broader Polaris analysis by tracing how alliances mutate under changing legitimacy terrain, and how geopolitical systems recursively reorganise themselves after symbolic rupture and prestige fracture.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🦑 Misreading The Postwar Geopolitical Ecology](./🦑_misreading_the_postwar_geopolitical_ecology.md) — *prestige inertia and ecological misperception*  
+> - [🧄 Postcolonial Legitimacy Failure](../🧄_Exousiological_Dynamics/🧄_postcolonial_legitimacy_failure.md) — *sovereignty conflict and legitimacy transformation after empire*  
+> - [🧄 Prestige vs Relational Authority](../🧄_Exousiological_Dynamics/🧄_prestige_vs_relational_authority.md) — *authority after prestige fracture*  
+> - [☕️ Post-Imperial Weather] — *emotional atmospheres of post-imperial continuity and strategic adaptation*
 >
-> - [🦑 CRAKEN Cartography](./README.md) — *reflexive systems ecology and geopolitical terrain transformation*  
-> - [🦑 misreading_the_postwar_geopolitical_ecology.md](./🦑_misreading_the_postwar_geopolitical_ecology.md) — *prestige inertia and ecological misperception*  
-> - [🧄 postcolonial_legitimacy_failure.md](../🧄_Exousiological_Dynamics/🧄_postcolonial_legitimacy_failure.md) — *sovereignty conflict and legitimacy transformation after empire*  
-> - [🧄 prestige_vs_relational_authority.md](../🧄_Exousiological_Dynamics/🧄_prestige_vs_relational_authority.md) — *authority after prestige fracture*  
-> - [☕️ Post-Imperial Weather](../../☕️_Post_Imperial_Weather/) — *emotional atmospheres of post-imperial continuity and strategic adaptation*  
+> 🏮 Return To:  
+>
+> - [🦑 CRAKEN Cartography](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *The alliances remained. The ecology governing them changed.*  
 
