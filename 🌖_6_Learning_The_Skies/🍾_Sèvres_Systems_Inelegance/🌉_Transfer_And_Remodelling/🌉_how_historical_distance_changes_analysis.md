@@ -1,4 +1,3 @@
----
 
 # 🌉 How Historical Distance Changes Analysis  
 **First created:** 2026-05-24 | **Last updated:** 2026-05-24  
