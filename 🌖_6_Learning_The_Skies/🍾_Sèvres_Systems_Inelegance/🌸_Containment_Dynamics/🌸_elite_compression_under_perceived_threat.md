@@ -294,13 +294,19 @@ It examines how governing systems psychologically and structurally compress duri
 
 The node contributes to broader Polaris analysis by tracing how containment often emerges less through explicit authoritarian rupture and more through gradual contraction of institutional tolerance for uncertainty, disruption, and democratic unpredictability.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🌸 Stabilisation Vs Self Protection](./🌸_stabilisation_vs_self_protection.md) — *when continuity logic merges with institutional self-preservation*  
+> - [📚 Narrative Management] — *reputational containment and legitimacy framing*  
+> - [☕️ Post-Imperial Weather] — *emotional atmospheres of post-imperial governance culture*  
+> - [⚖️ Legal State Governance] — *institutional authority and procedural legitimacy systems*  
 >
-> - [🌸 Containment Dynamics](./README.md) — *stabilisation reflexes and governance behaviour under stress*
-> - [🌸 stabilisation_vs_self_protection.md](./🌸_stabilisation_vs_self_protection.md) — *when continuity logic merges with institutional self-preservation*
-> - [📚 Narrative Management](../../📚_Narrative_Management/) — *reputational containment and legitimacy framing*
-> - [☕️ Post-Imperial Weather](../../☕️_Post_Imperial_Weather/) — *emotional atmospheres of post-imperial governance culture*
-> - [⚖️ Legal State Governance](../../⚖️_Legal_State_Governance/) — *institutional authority and procedural legitimacy systems*
+> 🏮 Return To:  
+>
+> - [🌸 Containment Dynamics](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
