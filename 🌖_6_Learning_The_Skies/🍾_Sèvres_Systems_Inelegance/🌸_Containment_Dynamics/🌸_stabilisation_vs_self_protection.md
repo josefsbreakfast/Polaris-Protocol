@@ -252,13 +252,18 @@ It examines how governance systems under perceived instability may gradually los
 
 The node contributes to broader Polaris analysis by tracing how compressed governance cultures increasingly treat scrutiny, unpredictability, and visible vulnerability as operational threats — particularly within post-imperial, managerial, and elite continuity systems.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🌸 Elite Compression Under Perceived Threat](./🌸_elite_compression_under_perceived_threat.md) — *consultation narrowing and dissent recoding under instability*  
+> - [📚 Narrative Management] — *reputation management and legitimacy framing systems*  
+> - [☕️ Post-Imperial Weather] — *emotional atmospheres of continuity governance*  
+>    
+> 🏮 Return To:  
 >
-> - [🌸 Containment Dynamics](./README.md) — *stabilisation reflexes and governance behaviour under stress*
-> - [🌸 elite_compression_under_perceived_threat.md](./🌸_elite_compression_under_perceived_threat.md) — *consultation narrowing and dissent recoding under instability*
-> - [📚 Narrative Management](../../📚_Narrative_Management/) — *reputation management and legitimacy framing systems*
-> - [☕️ Post-Imperial Weather](../../☕️_Post_Imperial_Weather/) — *emotional atmospheres of continuity governance*
-> - [🍾 Sèvres Systems Inelegance](../) — *elite governance cultures and structural brittleness beneath composure*
+> - [🌸 Containment Dynamics](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
