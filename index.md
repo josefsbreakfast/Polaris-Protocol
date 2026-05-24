@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-24 19:19:21 UTC_
+_Generated on 2026-05-24 19:22:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7338,6 +7338,10 @@ _Generated on 2026-05-24 19:19:21 UTC_
     - [**🍾_Elite_Atmosphere/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🍾_Elite_Atmosphere/)
       - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🍾_Elite_Atmosphere/README.md)
       - [`🍾_champagne_is_not_systems_elegance.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🍾_Elite_Atmosphere/🍾_champagne_is_not_systems_elegance.md)
+      - [`🍾_closed_room_governance_cultures.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🍾_Elite_Atmosphere/🍾_closed_room_governance_cultures.md)
+      - [`🍾_the_performance_of_serious_people.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🍾_Elite_Atmosphere/🍾_the_performance_of_serious_people.md)
+      - [`🍾_when_power_makes_subculture_invisible.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🍾_Elite_Atmosphere/🍾_when_power_makes_subculture_invisible.md)
+      - [`🍾_who_gets_taught_how_power_actually_works.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🍾_Elite_Atmosphere/🍾_who_gets_taught_how_power_actually_works.md)
     - [**📜_Historical_Context/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/)
       - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/README.md)
       - [`📜_anthony_eden_and_the_crisis_of_statecraft.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/📜_anthony_eden_and_the_crisis_of_statecraft.md)
