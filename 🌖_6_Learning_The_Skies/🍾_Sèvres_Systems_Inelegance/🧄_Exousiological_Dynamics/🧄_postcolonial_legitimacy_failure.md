@@ -325,13 +325,19 @@ It examines how imperial and post-imperial governance systems experience relatio
 
 The node contributes to broader Polaris analysis by tracing how systems continue operating through prestige, procedural continuity, and managerial seriousness even as relational reciprocity weakens across both formerly colonised populations and imperial cores themselves.
 
-> 📡 Cross-references:
->
-> - [🧄 Exousiological Dynamics](./README.md) — *relational legitimacy, governance fracture, and post-imperial authority strain*  
+> 📡 Cross-references:  
+>  
 > - [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *stabilisation reflexes under legitimacy pressure*  
-> - [🌸 stabilisation_vs_self_protection.md](../🌸_Containment_Dynamics/🌸_stabilisation_vs_self_protection.md) — *continuity logic and institutional self-preservation*  
-> - [☕️ Post-Imperial Weather](../../☕️_Post_Imperial_Weather/) — *emotional atmospheres of imperial decline and continuity culture*  
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *authority as reciprocity, stewardship, and relational legitimacy*  
+> - [🌸 Stabilisation vs Self Protection](../🌸_Containment_Dynamics/🌸_stabilisation_vs_self_protection.md) — *continuity logic and institutional self-preservation*  
+> - [☕️ Post-Imperial Weather] — *emotional atmospheres of imperial decline and continuity culture*  
+> - [🧄 Exousiología] — *authority as reciprocity, stewardship, and relational legitimacy*  
+>
+> 🏮 Return To:  
+>
+> - [🧄 Exousiological Dynamics](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Authority is relational. Stewardship is load-bearing. Stability must remain livable.*  
 
