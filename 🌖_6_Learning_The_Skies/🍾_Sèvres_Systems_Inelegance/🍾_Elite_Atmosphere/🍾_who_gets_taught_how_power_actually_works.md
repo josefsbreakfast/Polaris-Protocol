@@ -362,13 +362,19 @@ systems literacy, elite education, british governance culture, statecraft educat
 
 It examines how governance literacy, statecraft culture, and institutional realism are unevenly distributed through elite educational environments, creating asymmetrical access to systems understanding inside the imperial core itself.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🍾 When Power Makes Subculture Invisible](./🍾_when_power_makes_subculture_invisible.md) — *institutional invisibility and elite cultural normalisation*  
+> - [📜 Why Suez Mattered Globally](../📜_Historical_Context/📜_why_suez_mattered_globally.md) — *Cold War legitimacy and alliance remodelling*  
+> - [🌸 Containment Studies] — *stabilisation systems and governance under pressure*  
+> - [🧄 Exousiología] — *legitimacy, stewardship, and relational authority*
 >
-> - [🍾 Elite Atmosphere](./README.md) — *governance culture, prestige aesthetics, and statecraft atmospherics*
-> - [🍾 When Power Makes Subculture Invisible](./🍾_when_power_makes_subculture_invisible.md) — *institutional invisibility and elite cultural normalisation*
-> - [📜 Why Suez Mattered Globally](../📜_Historical_Context/📜_why_suez_mattered_globally.md) — *Cold War legitimacy and alliance remodelling*
-> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *stabilisation systems and governance under pressure*
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational authority*
+> 🏮 Return To:  
+>
+> - [🍾 Elite Atmosphere](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
