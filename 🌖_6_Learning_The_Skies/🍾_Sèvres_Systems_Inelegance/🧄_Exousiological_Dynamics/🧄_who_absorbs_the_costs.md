@@ -401,13 +401,19 @@ It examines how governance systems preserve continuity through uneven distributi
 
 The node contributes to broader Polaris analysis by tracing how institutional stability often depends upon displaced or invisible forms of social metabolism, including the redistribution of unresolved geopolitical tension into diasporic and marginalised communities inside imperial-core societies themselves.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🧄 Prestige vs Relational Authority](./🧄_prestige_vs_relational_authority.md) — *authority through reciprocity versus prestige continuity*  
+> - [🧄 Postcolonial Legitimacy Failure](./🧄_postcolonial_legitimacy_failure.md) — *sovereignty conflict and legitimacy erosion after empire*  
+> - [🌸 Stabilisation vs Self Protection](../🌸_Containment_Dynamics/🌸_stabilisation_vs_self_protection.md) — *continuity preservation and institutional self-protection*  
+> - [🧄 Exousiología] — *authority as stewardship, reciprocity, and embodied legitimacy*
 >
-> - [🧄 Exousiological Dynamics](./README.md) — *legitimacy fracture and post-imperial authority strain*  
-> - [🧄 prestige_vs_relational_authority.md](./🧄_prestige_vs_relational_authority.md) — *authority through reciprocity versus prestige continuity*  
-> - [🧄 postcolonial_legitimacy_failure.md](./🧄_postcolonial_legitimacy_failure.md) — *sovereignty conflict and legitimacy erosion after empire*  
-> - [🌸 stabilisation_vs_self_protection.md](../🌸_Containment_Dynamics/🌸_stabilisation_vs_self_protection.md) — *continuity preservation and institutional self-protection*  
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *authority as stewardship, reciprocity, and embodied legitimacy*  
+> 🏮 Return To:  
+>
+> - [🧄 Exousiological Dynamics](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Authority is relational. Stewardship is load-bearing. Stability must remain livable.*  
 
