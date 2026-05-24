@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-24 18:45:59 UTC_
+_Generated on 2026-05-24 19:08:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7335,6 +7335,8 @@ _Generated on 2026-05-24 18:45:59 UTC_
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🌖_6_Learning_The_Skies/**](🌖_6_Learning_The_Skies/)
   - [**🍾_Sèvres_Systems_Inelegance/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/)
+    - [**📜_Historical_Context/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/README.md)
     - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/README.md)
     - [`notes.txt`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/notes.txt)
     - [`🛟_epistemic_safety_and_complexity.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🛟_epistemic_safety_and_complexity.md)
