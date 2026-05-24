@@ -60,7 +60,7 @@ Instead, it studies:
 
 ## 🪶 Core Narrative Grammar  
 
-A “not-duckling” is removed from her nest “for her own safety” and placed into systems of handling, management, observation, and containment.
+A “not-duckling” is removed from her/their/his nest “for her own safety” and placed into systems of handling, management, observation, and containment.
 
 Over time:
 - interruption becomes normalised,
