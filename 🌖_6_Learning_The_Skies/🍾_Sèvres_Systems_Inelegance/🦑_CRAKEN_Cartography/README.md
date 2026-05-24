@@ -451,13 +451,18 @@ The cluster contributes to broader Polaris analysis by tracing how systems recur
 
 > 📡 Cross-references:
 >
-> - [🍾 Sèvres Systems Inelegance](../README.md) — *cluster overview and systems-learning orientation*
-> - [📜 Historical Context](../📜_Historical_Context/README.md) — *historical grounding for geopolitical systems analysis*
-> - [🍾 Elite Atmosphere](../🍾_Elite_Atmosphere/README.md) — *prestige aesthetics, governance culture, and elite atmospherics*
-> - [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *stabilisation reflexes and governance compression under instability*
-> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *relational legitimacy, sovereignty fracture, and authority strain*
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *authority as stewardship, reciprocity, and adaptive legitimacy*
-> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *stabilisation systems and institutional hardening under pressure*
+> - [📜 Historical Context](../📜_Historical_Context/README.md) — *historical grounding for geopolitical systems analysis*  
+> - [🍾 Elite Atmosphere](../🍾_Elite_Atmosphere/README.md) — *prestige aesthetics, governance culture, and elite atmospherics*  
+> - [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *stabilisation reflexes and governance compression under instability*  
+> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *relational legitimacy, sovereignty fracture, and authority strain*  
+> - [🧄 Exousiología] — *authority as stewardship, reciprocity, and adaptive legitimacy*  
+> - [🌸 Containment Studies] — *stabilisation systems and institutional hardening under pressure*  
+>
+> 🏮 Return To:  
+>  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *The map changes while systems are still reading the old chart.*
 
