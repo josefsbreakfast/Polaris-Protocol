@@ -317,12 +317,18 @@ elite culture, governance sociology, institutional invisibility, british elite c
 It examines how elite governance cultures become infrastructurally normalised through institutional dominance, causing historically specific behavioural norms, prestige assumptions, and legitimacy grammars to stop appearing “cultural” at all.
 
 > 📡 Cross-references:
+>   
+> - [🍾 The Performance of Serious People](./🍾_the_performance_of_serious_people.md) — *professionalism aesthetics and institutional composure*  
+> - [🍾 Closed-Room Governance Cultures](./🍾_closed_room_governance_cultures.md) — *trusted-network politics and elite coordination systems*  
+> - [🧄 Exousiología] — *legitimacy, stewardship, and relational authority*  
+> - [🦑 C.R.A.K.E.N.] — *reflexive geopolitical systems mapping*
 >
-> - [🍾 Elite Atmosphere](./README.md) — *governance culture, prestige aesthetics, and statecraft atmospherics*
-> - [🍾 The Performance of Serious People](./🍾_the_performance_of_serious_people.md) — *professionalism aesthetics and institutional composure*
-> - [🍾 Closed-Room Governance Cultures](./🍾_closed_room_governance_cultures.md) — *trusted-network politics and elite coordination systems*
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational authority*
-> - [🦑 C.R.A.K.E.N.](../../../../🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive geopolitical systems mapping*
+> 🏮 Return To:  
+>
+> - [🍾 Elite Atmosphere](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
