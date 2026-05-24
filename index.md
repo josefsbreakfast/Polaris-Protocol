@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-24 19:25:48 UTC_
+_Generated on 2026-05-24 19:35:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7335,6 +7335,12 @@ _Generated on 2026-05-24 19:25:48 UTC_
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🌖_6_Learning_The_Skies/**](🌖_6_Learning_The_Skies/)
   - [**🍾_Sèvres_Systems_Inelegance/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/)
+    - [**🌉_Transfer_And_Remodelling/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🌉_Transfer_And_Remodelling/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🌉_Transfer_And_Remodelling/README.md)
+      - [`🌉_echoes_without_false_equivalence.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🌉_Transfer_And_Remodelling/🌉_echoes_without_false_equivalence.md)
+      - [`🌉_historical_case_studies_as_governance_training.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🌉_Transfer_And_Remodelling/🌉_historical_case_studies_as_governance_training.md)
+      - [`🌉_how_historical_distance_changes_analysis.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🌉_Transfer_And_Remodelling/🌉_how_historical_distance_changes_analysis.md)
+      - [`🌉_why_systems_remember_shocks.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🌉_Transfer_And_Remodelling/🌉_why_systems_remember_shocks.md)
     - [**🌸_Containment_Dynamics/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🌸_Containment_Dynamics/)
       - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🌸_Containment_Dynamics/README.md)
       - [`🌸_elite_compression_under_perceived_threat.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🌸_Containment_Dynamics/🌸_elite_compression_under_perceived_threat.md)
@@ -7354,9 +7360,24 @@ _Generated on 2026-05-24 19:25:48 UTC_
       - [`📜_nasser_suez_and_postcolonial_pressure.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/📜_nasser_suez_and_postcolonial_pressure.md)
       - [`📜_what_was_the_protocol_of_sevres.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/📜_what_was_the_protocol_of_sevres.md)
       - [`📜_why_suez_mattered_globally.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/📜_why_suez_mattered_globally.md)
-    - [**🧄_Legitimacy_And_Load/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🧄_Legitimacy_And_Load/)
-      - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🧄_Legitimacy_And_Load/README.md)
-      - [`🧄_postcolonial_legitimacy_failure.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🧄_Legitimacy_And_Load/🧄_postcolonial_legitimacy_failure.md)
+    - [**🛠️_Applied_Systems_Skills/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🛠️_Applied_Systems_Skills/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🛠️_Applied_Systems_Skills/README.md)
+      - [`🛠️_distinguishing_operational_secrecy_from_legitimacy_failure.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🛠️_Applied_Systems_Skills/🛠️_distinguishing_operational_secrecy_from_legitimacy_failure.md)
+      - [`🛠️_how_to_identify_reflexive_narrowing.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🛠️_Applied_Systems_Skills/🛠️_how_to_identify_reflexive_narrowing.md)
+      - [`🛠️_how_to_map_pressure_distribution.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🛠️_Applied_Systems_Skills/🛠️_how_to_map_pressure_distribution.md)
+      - [`🛠️_how_to_notice_aesthetics_masking_systems_failure.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🛠️_Applied_Systems_Skills/🛠️_how_to_notice_aesthetics_masking_systems_failure.md)
+    - [**🦑_CRAKEN_Cartography/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🦑_CRAKEN_Cartography/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🦑_CRAKEN_Cartography/README.md)
+      - [`🦑_alliance_remodelling_after_suez.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🦑_CRAKEN_Cartography/🦑_alliance_remodelling_after_suez.md)
+      - [`🦑_misreading_the_postwar_geopolitical_ecology.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🦑_CRAKEN_Cartography/🦑_misreading_the_postwar_geopolitical_ecology.md)
+      - [`🦑_the_sleeping_kraken_problem.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🦑_CRAKEN_Cartography/🦑_the_sleeping_kraken_problem.md)
+      - [`🦑_why_second_order_effects_matter.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🦑_CRAKEN_Cartography/🦑_why_second_order_effects_matter.md)
+    - [**🧄_Exousiological_Dynamics/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🧄_Exousiological_Dynamics/)
+      - [` README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🧄_Exousiological_Dynamics/ README.md)
+      - [`🧄_postcolonial_legitimacy_failure.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🧄_Exousiological_Dynamics/🧄_postcolonial_legitimacy_failure.md)
+      - [`🧄_prestige_vs_relational_authority.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🧄_Exousiological_Dynamics/🧄_prestige_vs_relational_authority.md)
+      - [`🧄_who_absorbs_the_costs.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🧄_Exousiological_Dynamics/🧄_who_absorbs_the_costs.md)
+      - [`🧄_why_people_can_believe_they_are_doing_good_while_causing_harm.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🧄_Exousiological_Dynamics/🧄_why_people_can_believe_they_are_doing_good_while_causing_harm.md)
     - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/README.md)
     - [`notes.txt`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/notes.txt)
     - [`🛟_epistemic_safety_and_complexity.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🛟_epistemic_safety_and_complexity.md)
