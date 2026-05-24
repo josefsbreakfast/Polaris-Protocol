@@ -367,13 +367,19 @@ serious people, governance culture, professionalism aesthetics, british institut
 
 It examines how professionalism aesthetics, institutional composure, and the social performance of seriousness shape legitimacy, emotional containment, governance perception, and systems behaviour under geopolitical pressure.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🍾 Champagne Is Not Systems Elegance](./🍾_champagne_is_not_systems_elegance.md) — *prestige aesthetics versus adaptive governance*  
+> - [🍾 Closed-Room Governance Cultures](./🍾_closed_room_governance_cultures.md) — *trusted-network politics and elite coordination systems*  
+> - [🌸 Containment Studies] — *stabilisation systems and governance under pressure*  
+> - [🧄 Exousiología] — *legitimacy, stewardship, and relational authority*  
 >
-> - [🍾 Elite Atmosphere](./README.md) — *governance culture, prestige aesthetics, and statecraft atmospherics*
-> - [🍾 Champagne Is Not Systems Elegance](./🍾_champagne_is_not_systems_elegance.md) — *prestige aesthetics versus adaptive governance*
-> - [🍾 Closed-Room Governance Cultures](./🍾_closed_room_governance_cultures.md) — *trusted-network politics and elite coordination systems*
-> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *stabilisation systems and governance under pressure*
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational authority*
+> 🏮 Return To:  
+>
+> - [🍾 Elite Atmosphere](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
