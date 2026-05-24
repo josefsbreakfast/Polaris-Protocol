@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-24 19:16:12 UTC_
+_Generated on 2026-05-24 19:17:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7335,6 +7335,8 @@ _Generated on 2026-05-24 19:16:12 UTC_
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🌖_6_Learning_The_Skies/**](🌖_6_Learning_The_Skies/)
   - [**🍾_Sèvres_Systems_Inelegance/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/)
+    - [**🍾_Elite_Atmosphere/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🍾_Elite_Atmosphere/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🍾_Elite_Atmosphere/README.md)
     - [**📜_Historical_Context/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/)
       - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/README.md)
       - [`📜_anthony_eden_and_the_crisis_of_statecraft.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/📜_anthony_eden_and_the_crisis_of_statecraft.md)
