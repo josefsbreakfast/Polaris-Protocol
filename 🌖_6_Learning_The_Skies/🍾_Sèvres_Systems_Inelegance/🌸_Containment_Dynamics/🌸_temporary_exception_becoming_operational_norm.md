@@ -287,13 +287,19 @@ It examines how temporary emergency measures gradually become embedded within or
 
 The node contributes to broader Polaris analysis by tracing how compressed governance cultures increasingly normalise exceptional authority structures through continuity reflexes, institutional memory, and fear of renewed instability.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🌸 Elite Compression Under Perceived Threat](./🌸_elite_compression_under_perceived_threat.md) — *consultation narrowing and crisis-era governance compression*  
+> - [🌸 Stabilisation vs Self Protection](./🌸_stabilisation_vs_self_protection.md) — *institutional continuity and prestige-preservation reflexes*  
+> - [⚖️ Legal State Governance] — *procedural legitimacy and emergency authority systems*  
+> - [📚 Narrative Management] — *normalisation framing and public legitimacy management*
 >
-> - [🌸 Containment Dynamics](./README.md) — *stabilisation reflexes and governance behaviour under stress*
-> - [🌸 elite_compression_under_perceived_threat.md](./🌸_elite_compression_under_perceived_threat.md) — *consultation narrowing and crisis-era governance compression*
-> - [🌸 stabilisation_vs_self_protection.md](./🌸_stabilisation_vs_self_protection.md) — *institutional continuity and prestige-preservation reflexes*
-> - [⚖️ Legal State Governance](../../⚖️_Legal_State_Governance/) — *procedural legitimacy and emergency authority systems*
-> - [📚 Narrative Management](../../📚_Narrative_Management/) — *normalisation framing and public legitimacy management*
+> 🏮 Return To:  
+>
+> - [🌸 Containment Dynamics](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
