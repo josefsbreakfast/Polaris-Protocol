@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-24 19:22:49 UTC_
+_Generated on 2026-05-24 19:25:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7335,6 +7335,12 @@ _Generated on 2026-05-24 19:22:49 UTC_
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🌖_6_Learning_The_Skies/**](🌖_6_Learning_The_Skies/)
   - [**🍾_Sèvres_Systems_Inelegance/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/)
+    - [**🌸_Containment_Dynamics/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🌸_Containment_Dynamics/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🌸_Containment_Dynamics/README.md)
+      - [`🌸_elite_compression_under_perceived_threat.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🌸_Containment_Dynamics/🌸_elite_compression_under_perceived_threat.md)
+      - [`🌸_stabilisation_vs_self_protection.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🌸_Containment_Dynamics/🌸_stabilisation_vs_self_protection.md)
+      - [`🌸_temporary_exception_becoming_operational_norm.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🌸_Containment_Dynamics/🌸_temporary_exception_becoming_operational_norm.md)
+      - [`🌸_the_aesthetics_of_composure.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🌸_Containment_Dynamics/🌸_the_aesthetics_of_composure.md)
     - [**🍾_Elite_Atmosphere/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🍾_Elite_Atmosphere/)
       - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🍾_Elite_Atmosphere/README.md)
       - [`🍾_champagne_is_not_systems_elegance.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🍾_Elite_Atmosphere/🍾_champagne_is_not_systems_elegance.md)
@@ -7348,6 +7354,9 @@ _Generated on 2026-05-24 19:22:49 UTC_
       - [`📜_nasser_suez_and_postcolonial_pressure.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/📜_nasser_suez_and_postcolonial_pressure.md)
       - [`📜_what_was_the_protocol_of_sevres.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/📜_what_was_the_protocol_of_sevres.md)
       - [`📜_why_suez_mattered_globally.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/📜_Historical_Context/📜_why_suez_mattered_globally.md)
+    - [**🧄_Legitimacy_And_Load/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🧄_Legitimacy_And_Load/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🧄_Legitimacy_And_Load/README.md)
+      - [`🧄_postcolonial_legitimacy_failure.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🧄_Legitimacy_And_Load/🧄_postcolonial_legitimacy_failure.md)
     - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/README.md)
     - [`notes.txt`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/notes.txt)
     - [`🛟_epistemic_safety_and_complexity.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🛟_epistemic_safety_and_complexity.md)
