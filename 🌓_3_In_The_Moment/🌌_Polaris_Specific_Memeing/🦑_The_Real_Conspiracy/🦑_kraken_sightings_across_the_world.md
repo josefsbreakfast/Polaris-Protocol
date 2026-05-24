@@ -17,7 +17,7 @@ May require more tea.
 
 | Date | Sighting | Landing Area |
 |:-----------|:------------:|------------:|  
-| 2026-05-23  | "Now THAT'S how you build community 🥺🐙"  | [PBS Digital Studios via TikTok](https://vm.tiktok.com/ZNRnxw66E/)  |  
+| 2026-05-23  | PBS Digital Studios: "Now THAT'S how you build community 🥺🐙"  | [TikTok](https://vm.tiktok.com/ZNRnxw66E/)  |  
 | 2026-05-22  | "Largest octopus bloom in 75 years inspires film"    | [BBC News](https://www.bbc.co.uk/news/articles/cvgz3xxjz0vo)  |
 | 2026-05-10  | "Octopus influx keeping deep sea dolphins inshore"    | [BBC News](https://www.bbc.co.uk/news/articles/c8e8pp5ggllo)   |  
 | 2026-04-28  | "Not just folklore: A giant kraken-like octopus terrorized the seas in the age of dinosaurs"    | [The Week](https://theweek.com/science/giant-kraken-like-octopus-ruled-ancient-seas-cretaceous)   |  
