@@ -309,14 +309,20 @@ It examines how postwar actors failed to fully perceive changing legitimacy terr
 
 The node contributes to broader Polaris analysis by tracing how prestige inertia, inherited strategic assumptions, and ecological misperception produced systems increasingly unable to recognise the transformed environments within which they were operating.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🧄 Postcolonial Legitimacy Failure](../🧄_Exousiological_Dynamics/🧄_postcolonial_legitimacy_failure.md) — *sovereignty conflict and legitimacy fracture after empire*  
+> - [🧄 Prestige vs Relational_Authority](../🧄_Exousiological_Dynamics/🧄_prestige_vs_relational_authority.md) — *authority assumptions and legitimacy recognition*  
+> - [🌸 Elite Compression Under Perceived Threat](../🌸_Containment_Dynamics/🌸_elite_compression_under_perceived_threat.md) — *governance contraction under instability pressure*  
+> - [☕️ Post-Imperial Weather] — *emotional atmospheres of post-imperial continuity and strategic nostalgia*
 >
-> - [🦑 CRAKEN Cartography](./README.md) — *reflexive systems ecology and post-Suez geopolitical remodelling*  
-> - [🧄 postcolonial_legitimacy_failure.md](../🧄_Exousiological_Dynamics/🧄_postcolonial_legitimacy_failure.md) — *sovereignty conflict and legitimacy fracture after empire*  
-> - [🧄 prestige_vs_relational_authority.md](../🧄_Exousiological_Dynamics/🧄_prestige_vs_relational_authority.md) — *authority assumptions and legitimacy recognition*  
-> - [🌸 elite_compression_under_perceived_threat.md](../🌸_Containment_Dynamics/🌸_elite_compression_under_perceived_threat.md) — *governance contraction under instability pressure*  
-> - [☕️ Post-Imperial Weather](../../☕️_Post_Imperial_Weather/) — *emotional atmospheres of post-imperial continuity and strategic nostalgia*  
+> 🏮 Return To:  
+>
+> - [🦑 CRAKEN Cartography](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
-*The terrain shifted before many systems realised the map had changed.*  
+*The terrain shifted before many ystems realised the map had changed.*  
 
 _Last updated: 2026-05-24_
