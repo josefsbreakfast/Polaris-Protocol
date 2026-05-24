@@ -340,13 +340,19 @@ It examines how ritual, calmness, seriousness, procedural tone, and symbolic con
 
 The node contributes to broader Polaris analysis by tracing how legitimacy increasingly becomes tied not only to institutional function, but to emotional performance, composure aesthetics, and managed atmospheres of continuity under perceived instability.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🌸 Stabilisation vs Self Protection](./🌸_stabilisation_vs_self_protection.md) — *prestige preservation and institutional continuity reflexes*  
+> - [☕️ Post-Imperial Weather] — *emotional atmospheres and post-imperial governance culture*  
+> - [📚 Narrative Management] — *media tone, legitimacy framing, and reputational governance*  
+> - [⚖️ Legal State Governance] — *ceremonial authority and procedural legitimacy systems*
 >
-> - [🌸 Containment Dynamics](./README.md) — *stabilisation reflexes and governance behaviour under stress*
-> - [🌸 stabilisation_vs_self_protection.md](./🌸_stabilisation_vs_self_protection.md) — *prestige preservation and institutional continuity reflexes*
-> - [☕️ Post-Imperial Weather](../../☕️_Post_Imperial_Weather/) — *emotional atmospheres and post-imperial governance culture*
-> - [📚 Narrative Management](../../📚_Narrative_Management/) — *media tone, legitimacy framing, and reputational governance*
-> - [⚖️ Legal State Governance](../../⚖️_Legal_State_Governance/) — *ceremonial authority and procedural legitimacy systems*
+> 🏮 Return To:  
+>
+> - [🌸 Containment Dynamics](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
