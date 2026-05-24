@@ -307,6 +307,46 @@ This includes learning how to:
 
 ---
 
+## 🧿 Role-Specific Systems Literacy  
+
+The tools within this cluster are intended for broad application across different social and institutional roles.
+
+This includes:
+- citizens,
+- journalists,
+- civil servants,
+- ministers,
+- educators,
+- healthcare workers,
+- researchers,
+- activists,
+- technologists,
+- and organisational leaders.
+
+Importantly:
+different positions within systems require different forms of inquiry.
+
+For example:
+- journalists may focus on accountability gaps, information asymmetries, and public legitimacy;
+- civil servants may focus on narrowing feedback loops, procedural distortion, and operational blind spots;
+- ministers may need to identify pressure accumulation, institutional rigidity, or legitimacy erosion within governance systems;
+- citizens may focus on reciprocity, representation, burden distribution, and institutional trust;
+- researchers and analysts may map second-order effects, alliance structures, or systems adaptation patterns.
+
+The purpose of these tools is therefore not:
+to produce universal suspicion toward institutions.
+
+It is:
+to improve ecological perception within systems while preserving nuance, proportionality, and democratic accountability.
+
+Healthy systems require participants capable of:
+- recognising pressure,
+- interpreting legitimacy carefully,
+- tolerating uncertainty,
+- and maintaining adaptive feedback across institutional environments.
+
+---
+
 ## 🧭 Further Considerations  
 
 - How can systems be analysed without collapsing into paranoia?
