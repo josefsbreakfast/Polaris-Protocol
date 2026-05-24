@@ -459,15 +459,20 @@ The cluster contributes to broader Polaris analysis by helping readers distingui
 - inheritance from determinism,
 - and systems literacy from historical flattening.
 
-> 📡 Cross-references:
->
-> - [🍾 Sèvres Systems Inelegance](../README.md) — *cluster overview and systems-learning orientation*
+> 📡 Cross-references:  
+>  
 > - [🛠️ Applied Systems Skills](../🛠️_Applied_Systems_Skills/README.md) — *transferable governance inquiry and systems literacy*
 > - [🦑 CRAKEN Cartography](../🦑_CRAKEN_Cartography/README.md) — *recursive systems ecology and geopolitical remodelling*
 > - [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *stabilisation reflexes and governance under pressure*
 > - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *relational legitimacy and post-imperial authority fracture*
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *authority, reciprocity, stewardship, and adaptive legitimacy*
-> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *systems of stabilisation, pressure management, and institutional containment*
+> - [🧄 Exousiología] — *authority, reciprocity, stewardship, and adaptive legitimacy*
+> - [🌸 Containment Studies] — *systems of stabilisation, pressure management, and institutional containment*
+>
+> 🏮 Return To:  
+>  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Inheritance shapes systems. It does not eliminate agency.*
 
