@@ -415,13 +415,19 @@ It examines how institutional conditioning, inherited governance assumptions, pr
 
 The node contributes to broader Polaris analysis by tracing how legitimacy fracture often persists not through conscious malice alone, but through continuity cultures that psychologically normalise harmful assumptions across generations and institutions — including across systems that publicly define themselves as democratic, anti-authoritarian, or morally necessary.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🧄 Prestige vs Relational Authority](./🧄_prestige_vs_relational_authority.md) — *authority through prestige versus reciprocity*  
+> - [🧄 Who Absorbs The Costs](./🧄_who_absorbs_the_costs.md) — *load-bearing populations and invisible governance burdens*  
+> - [🌸 Stabilisation vs Self Protection](../🌸_Containment_Dynamics/🌸_stabilisation_vs_self_protection.md) — *institutional continuity and moral self-justification*  
+> - [🧄 Exousiología] — *authority as stewardship, reciprocity, and adaptive legitimacy*
 >
-> - [🧄 Exousiological Dynamics](./README.md) — *relational legitimacy and post-imperial governance fracture*  
-> - [🧄 prestige_vs_relational_authority.md](./🧄_prestige_vs_relational_authority.md) — *authority through prestige versus reciprocity*  
-> - [🧄 who_absorbs_the_costs.md](./🧄_who_absorbs_the_costs.md) — *load-bearing populations and invisible governance burdens*  
-> - [🌸 stabilisation_vs_self_protection.md](../🌸_Containment_Dynamics/🌸_stabilisation_vs_self_protection.md) — *institutional continuity and moral self-justification*  
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *authority as stewardship, reciprocity, and adaptive legitimacy*  
+> 🏮 Return To:  
+>
+> - [🧄 Exousiological Dynamics](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Authority is relational. Stewardship is load-bearing. Stability must remain livable.*  
 
