@@ -477,13 +477,19 @@ It develops ecological systems-mapping skills for tracing how instability, legit
 
 The node contributes to broader Polaris analysis by helping readers recognise how systems frequently preserve surface stability through hidden pressure absorption elsewhere — and how legitimacy fracture often emerges when burden distribution becomes chronically asymmetrical and ecologically unsustainable.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🧄 Who Absorbs The Costs?](../🧄_Exousiological_Dynamics/🧄_who_absorbs_the_costs.md) — *load-bearing populations and uneven consequence distribution*  
+> - [🦑 The Sleeping Kraken Problem](../🦑_CRAKEN_Cartography/🦑_the_sleeping_kraken_problem.md) — *submerged systems pressure beneath surface stability*  
+> - [🛠️ How To Identify Reflexive Narrowing](./🛠️_how_to_identify_reflexive_narrowing.md) — *shrinking feedback ecologies and defensive contraction*  
+> - [🌸 Stabilisation vs Self Protection](../🌸_Containment_Dynamics/🌸_stabilisation_vs_self_protection.md) — *when preserving order becomes preserving institutional continuity itself*
 >
-> - [🛠️ Applied Systems Skills](./README.md) — *transferable systems literacy and ecological analysis tools*  
-> - [🧄 who_absorbs_the_costs.md](../🧄_Exousiological_Dynamics/🧄_who_absorbs_the_costs.md) — *load-bearing populations and uneven consequence distribution*  
-> - [🦑 the_sleeping_kraken_problem.md](../🦑_CRAKEN_Cartography/🦑_the_sleeping_kraken_problem.md) — *submerged systems pressure beneath surface stability*  
-> - [🛠️ how_to_identify_reflexive_narrowing.md](./🛠️_how_to_identify_reflexive_narrowing.md) — *shrinking feedback ecologies and defensive contraction*  
-> - [🌸 stabilisation_vs_self_protection.md](../🌸_Containment_Dynamics/🌸_stabilisation_vs_self_protection.md) — *when preserving order becomes preserving institutional continuity itself*  
+> 🏮 Return To:  
+>
+> - [🛠️ Applied Systems Skills](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Surface stability often depends upon hidden pressure absorption elsewhere.*  
 
