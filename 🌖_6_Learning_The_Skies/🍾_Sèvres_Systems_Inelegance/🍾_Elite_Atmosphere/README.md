@@ -36,6 +36,38 @@ This folder therefore asks:
 
 ---
 
+## 🗺️ Pocket Map  
+
+```text
+📜 Historical Context
+        ↓
+🍾 Elite Atmosphere
+        ↓
+🌸 Containment Dynamics
+        ↓
+🧄 Exousiological Dynamics
+        ↓
+🦑 CRAKEN Cartography
+        ↓
+🛠️ Applied Systems Skills
+        ↓
+🌉 Transfer & Remodelling
+
+🌖 Learning The Skies supports all layers
+```
+
+📍 You are currently here:
+> 🍾 Elite Atmosphere
+
+This layer examines:
+- governance culture,
+- prestige aesthetics,
+- composure rituals,
+- and elite atmospherics
+as active parts of systems behaviour rather than decorative background.
+
+---
+
 ## 🍾 Why “Elite Atmosphere” Matters  
 
 Systems are not purely procedural.
@@ -161,7 +193,7 @@ The folder therefore also explores:
 
 ## 🦑 Atmosphere Shapes Systems Behaviour  
 
-From a 🦑 CRAKEN perspective, atmospheres are not superficial.
+From a 🦑 CRAKEN Cartography perspective, atmospheres are not superficial.
 
 They shape:
 - perception,
@@ -246,32 +278,90 @@ Because it demonstrates:
 
 ---
 
-## 📂 Folder Structure  
+## 🧭 Suggested Atmospheric Traversal  
 
-### 🍾_champagne_is_not_systems_elegance.md  
+This folder is designed to move from:
+- prestige aesthetics,
+- to elite coordination culture,
+- to behavioural performance,
+- to institutional invisibility,
+- to asymmetrical systems literacy.
+
+---
+
+```text
+🍾 Champagne Is Not Systems Elegance
+        ↓
+🍾 Closed-Room Governance Cultures
+        ↓
+🍾 The Performance of Serious People
+        ↓
+🍾 When Power Makes Subculture Invisible
+        ↓
+🍾 Who Gets Taught How Power Actually Works
+
+🍾 Sèvres Systems Inelegance reframes all layers through systems analysis
+```
+
+---
+
+### 🍾 champagne_is_not_systems_elegance.md  
+[🍾 Champagne Is Not Systems Elegance](./🍾_champagne_is_not_systems_elegance.md)
+
 Prestige aesthetics versus adaptive governance.
 
-Why ritual sophistication and elite composure do not necessarily produce resilient systems.
+This node answers:
+> “Why can sophisticated atmospherics coexist with structurally maladaptive systems?”
 
 ---
 
-### 🍾_closed_room_governance_cultures.md  
+### 🍾 closed_room_governance_cultures.md  
+[🍾 Closed-Room Governance Cultures](./🍾_closed_room_governance_cultures.md)
+
 Trusted-network politics, informal coordination, diplomatic subculture, and governance through elite relational environments.
 
+This node answers:
+> “How do elite governance cultures coordinate informally under pressure?”
+
 ---
 
-### 🍾_the_performance_of_serious_people.md  
+### 🍾 the_performance_of_serious_people.md  
+[🍾 The Performance of Serious People](./🍾_the_performance_of_serious_people.md)
+
 Professionalism aesthetics, institutional composure, and “adult in the room” performance under pressure.
 
+This node answers:
+> “How does professionalism itself become a governance atmosphere?”
+
 ---
 
-### 🍾_when_power_makes_subculture_invisible.md  
+### 🍾 when_power_makes_subculture_invisible.md  
+[🍾 When Power Makes Subculture Invisible](./🍾_when_power_makes_subculture_invisible.md)
+
 How elite governance culture becomes infrastructurally normalised and stops appearing “cultural” at all.
 
+This node answers:
+> “What happens when a subculture becomes institutionally invisible through power?”
+
 ---
 
-### 🍾_who_gets_taught_how_power_actually_works.md  
+### 🍾 who_gets_taught_how_power_actually_works.md  
+[🍾 Who Gets Taught How Power Actually Works](./🍾_who_gets_taught_how_power_actually_works.md)
+
 Classed systems literacy, elite schooling, statecraft culture, and asymmetrical access to governance understanding.
+
+This node answers:
+> “How is systems literacy distributed unevenly across class and institutional structures?”
+
+---
+
+## 🌉 Where To Go Next  
+
+After completing this layer, readers typically move into:
+
+- [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *emergency narrowing, secrecy systems, and stabilisation reflexes*
+- [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *legitimacy, sovereignty, stewardship, and governance survivability*
+- [🦑 CRAKEN Cartography](../🦑_CRAKEN_Cartography/README.md) — *reflexive geopolitical systems mapping and ecological pressure analysis*
 
 ---
 
@@ -284,7 +374,7 @@ Classed systems literacy, elite schooling, statecraft culture, and asymmetrical 
 
 ## ✨ Stardust  
 
-elite culture, governance atmosphere, prestige politics, statecraft culture, british elite culture, composure rituals, systems elegance, governance sociology, containment studies, exousiología, CRAKEN, classed systems literacy, elite education, diplomatic culture
+elite culture, governance atmosphere, prestige politics, statecraft culture, british elite culture, composure rituals, systems elegance, governance sociology, containment studies, exousiología, CRAKEN cartography, classed systems literacy, elite education, diplomatic culture
 
 ---
 
@@ -303,9 +393,11 @@ that shape systems behaviour during periods of geopolitical pressure and legitim
 >
 > - [🍾 Sèvres Systems Inelegance](../README.md) — *cluster overview and systems-learning orientation*
 > - [📜 Historical Context](../📜_Historical_Context/README.md) — *historical grounding for systems analysis*
+> - [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *stabilisation systems and governance under pressure*
+> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *legitimacy, stewardship, sovereignty, and governance survivability*
+> - [🦑 CRAKEN Cartography](../🦑_CRAKEN_Cartography/README.md) — *reflexive geopolitical systems mapping and ecological pressure analysis*
 > - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *stabilisation systems and governance under pressure*
 > - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational authority*
-> - [🦑 C.R.A.K.E.N.](../../../../🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive geopolitical systems mapping*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
