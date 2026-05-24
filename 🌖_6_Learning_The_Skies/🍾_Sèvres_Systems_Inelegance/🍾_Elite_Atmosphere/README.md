@@ -389,15 +389,21 @@ It examines how elite governance cultures reproduce:
 - and statecraft atmospheres
 that shape systems behaviour during periods of geopolitical pressure and legitimacy strain.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [📜 Historical Context](../📜_Historical_Context/README.md) — *historical grounding for systems analysis*  
+> - [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *stabilisation systems and governance under pressure*  
+> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *legitimacy, stewardship, sovereignty, and governance survivability*  
+> - [🦑 CRAKEN Cartography](../🦑_CRAKEN_Cartography/README.md) — *reflexive geopolitical systems mapping and ecological pressure analysis*  
+> - [🌸 Containment Studies] — *stabilisation systems and governance under pressure*  
+> - [🧄 Exousiología] — *legitimacy, stewardship, and relational authority*  
 >
-> - [🍾 Sèvres Systems Inelegance](../README.md) — *cluster overview and systems-learning orientation*
-> - [📜 Historical Context](../📜_Historical_Context/README.md) — *historical grounding for systems analysis*
-> - [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *stabilisation systems and governance under pressure*
-> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *legitimacy, stewardship, sovereignty, and governance survivability*
-> - [🦑 CRAKEN Cartography](../🦑_CRAKEN_Cartography/README.md) — *reflexive geopolitical systems mapping and ecological pressure analysis*
-> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *stabilisation systems and governance under pressure*
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational authority*
+> 🏮 Return To:  
+>
+> - [🍾 Elite Atmosphere](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
