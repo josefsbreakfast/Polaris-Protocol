@@ -28,6 +28,37 @@ while the wider cluster asks:
 
 ---
 
+## 🗺️ Pocket Map  
+
+```text
+📜 Historical Context
+        ↓
+🍾 Elite Atmosphere
+        ↓
+🌸 Containment Dynamics
+        ↓
+🧄 Exousiological Dynamics
+        ↓
+🦑 CRAKEN Cartography
+        ↓
+🛠️ Applied Systems Skills
+        ↓
+🌉 Transfer & Remodelling
+
+🌖 Learning The Skies supports all layers
+```
+
+📍 You are currently here:
+> 📜 Historical Context
+
+This layer establishes:
+- historical grounding,
+- geopolitical orientation,
+- and legitimacy terrain
+before deeper systems analysis begins.
+
+---
+
 ## 📜 Why Historical Grounding Matters  
 
 Systems analysis without historical grounding quickly becomes:
@@ -58,7 +89,7 @@ The goal is:
 
 ## 🍾 Why The Suez Crisis?  
 
-The :contentReference[oaicite:0]{index=0} is unusually useful as a systems-learning environment because it contains:
+The Suez Crisis is unusually useful as a systems-learning environment because it contains:
 - postcolonial legitimacy pressures,
 - secrecy regimes,
 - alliance fracture,
@@ -165,9 +196,9 @@ Not:
 > final interpretations.
 
 The wider cluster intentionally layers:
-- 🌸 Containment Studies,
-- 🧄 Exousiología,
-- and 🦑 CRAKEN analysis
+- 🌸 Containment Dynamics,
+- 🧄 Exousiological Dynamics,
+- and 🦑 CRAKEN Cartography
 on top of the historical terrain established here.
 
 The aim is therefore not merely:
@@ -178,32 +209,84 @@ but:
 
 ---
 
-## 📂 Folder Structure  
+## 🧭 Suggested Historical Traversal  
 
-### 📜_what_was_the_protocol_of_sevres.md  
+This folder is designed to move from:
+- core event orientation,
+- to postcolonial legitimacy context,
+- to world-system consequences,
+- to elite governance psychology under pressure.
+
+---
+
+```text
+📜 What Was the Protocol of Sèvres?
+        ↓
+📜 Nasser, Suez & Postcolonial Pressure
+        ↓
+📜 Why Suez Mattered Globally
+        ↓
+📜 Anthony Eden & the Crisis of Statecraft
+
+🍾 Sèvres Systems Inelegance reframes all layers through systems analysis
+```
+
+---
+
+### 📜 What Was The Protocol Of Sèvres?  
+[📜 What Was the Protocol of Sèvres?](./📜_what_was_the_protocol_of_sevres.md)
+
 Core orientation node covering:
 - the agreement,
 - involved states,
 - secrecy structure,
 - and immediate fallout.
 
+This node answers:
+> “What actually happened at Sèvres?”
+
 ---
 
-### 📜_nasser_suez_and_postcolonial_pressure.md  
+### 📜 Nasser, Suez & Postcolonial Pressure
+[📜 Nasser, Suez & Postcolonial Pressure](./📜_nasser_suez_and_postcolonial_pressure.md)
+
 Anti-colonial legitimacy pressures, canal nationalisation, sovereignty dynamics, and Egyptian political context.
 
+This node answers:
+> “Why did canal nationalisation become a legitimacy flashpoint?”
+
 ---
 
-### 📜_why_suez_mattered_globally.md  
+### 📜 Why Suez Mattered Globally  
+[📜 Why Suez Mattered Globally](./📜_why_suez_mattered_globally.md)
+
 Why the crisis became:
 - a Cold War issue,
 - an alliance rupture,
 - and a major geopolitical remodelling event.
 
+This node answers:
+> “Why did Suez become a world-system event rather than a regional dispute?”
+
 ---
 
-### 📜_anthony_eden_and_the_crisis_of_statecraft.md  
+### 📜 Anthony Eden & the Crisis of Statecraft  
+[📜 Anthony Eden & the Crisis of Statecraft](./📜_anthony_eden_and_the_crisis_of_statecraft.md)
+
 Elite pressure, prestige anxiety, narrowing governance logic, and the psychology of statecraft under strain.
+
+This node answers:
+> “How does governance psychology change under perceived prestige collapse?”
+
+---
+
+## 🌉 Where To Go Next  
+
+After completing this layer, readers typically move into:
+
+- [🍾 Elite Atmosphere](../🍾_Elite_Atmosphere/README.md) — *elite governance culture, prestige aesthetics, and “serious people” atmospherics*
+- [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *emergency narrowing, secrecy systems, and stabilisation reflexes*
+- [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *legitimacy, sovereignty, stewardship, and governance survivability*
 
 ---
 
@@ -235,8 +318,10 @@ through a systems-learning framework rather than a purely chronological or ideol
 > 📡 Cross-references:
 >
 > - [🍾 Sèvres Systems Inelegance](../README.md) — *cluster overview and systems-learning orientation*
-> - [🧭 How To Use This Cluster](../🧭_how_to_use_this_cluster.md) — *reading order and analytical layering*
-> - [🛟 Epistemic Safety & Complexity](../🛟_epistemic_safety_and_complexity.md) — *complexity literacy and anti-totalisation safeguards*
+> - [🍾 Elite Atmosphere](../🍾_Elite_Atmosphere/README.md) — *governance culture, prestige aesthetics, and elite atmospherics*
+> - [🌸 Containment Dynamics](../🌸_Containment_Dynamics/README.md) — *stabilisation systems and governance under pressure*
+> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *legitimacy, stewardship, sovereignty, and governance survivability*
+> - [🦑 CRAKEN Cartography](../🦑_CRAKEN_Cartography/README.md) — *reflexive geopolitical systems mapping and ecological pressure analysis*
 > - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *stabilisation systems and governance under pressure*
 > - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational authority*
 
