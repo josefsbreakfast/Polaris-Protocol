@@ -348,13 +348,19 @@ systems elegance, prestige politics, elite atmosphere, governance culture, compo
 
 It examines how prestige aesthetics, elite composure, and institutional atmosphere can create the appearance of sophistication while obscuring narrowing legitimacy, maladaptive governance assumptions, and deteriorating systems resilience.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [📜 Anthony Eden & The Crisis of Statecraft](../📜_Historical_Context/📜_anthony_eden_and_the_crisis_of_statecraft.md) — *prestige anxiety and narrowing governance logic*  
+> - [🌸 Containment Studies] — *stabilisation systems and governance under pressure*  
+> - [🧄 Exousiología] — *legitimacy, stewardship, and relational authority*  
+> - [🦑 C.R.A.K.E.N.] — *reflexive geopolitical systems mapping*  
 >
-> - [🍾 Elite Atmosphere](./README.md) — *governance culture, prestige aesthetics, and statecraft atmospherics*
-> - [📜 Anthony Eden & The Crisis of Statecraft](../📜_Historical_Context/📜_anthony_eden_and_the_crisis_of_statecraft.md) — *prestige anxiety and narrowing governance logic*
-> - [🌸 Containment Studies](../../../../🌸_Containment_Studies/README.md) — *stabilisation systems and governance under pressure*
-> - [🧄 Exousiología](../../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational authority*
-> - [🦑 C.R.A.K.E.N.](../../../../🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive geopolitical systems mapping*
+> 🏮 Return To:  
+>
+> - [🍾 Elite Atmosphere](./README.md)  
+> - [🍾 Sèvres Systems Inelegance](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
