@@ -1,5 +1,5 @@
 # 🦑 Kraken Sightings Across The World (Wide Web)  
-**First created:** 2026-05-10 | **Last updated:** 2026-05-24  
+**First created:** 2026-05-10 | **Last updated:** 2026-05-25  
 *Sighting the Trident's natural deterrent.*  
 
 ---
@@ -17,6 +17,7 @@ May require more tea.
 
 | Date | Sighting | Landing Area |
 |:-----------|:------------:|------------:|  
+| 2026-05-24  | "Golf ball-sized octopus discovered near the Galápagos Islands"  | [Popular Science](https://www.popsci.com/environment/blue-galapagos-octopus/)
 | 2026-05-23  | PBS Digital Studios: "Now THAT'S how you build community 🥺🐙"  | [TikTok](https://vm.tiktok.com/ZNRnxw66E/)  |  
 | 2026-05-22  | "Largest octopus bloom in 75 years inspires film"    | [BBC News](https://www.bbc.co.uk/news/articles/cvgz3xxjz0vo)  |
 | 2026-05-10  | "Octopus influx keeping deep sea dolphins inshore"    | [BBC News](https://www.bbc.co.uk/news/articles/c8e8pp5ggllo)   |  
@@ -56,4 +57,4 @@ It contributes to the archive by *letting you know where they are*.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-24_
+_Last updated: 2026-05-25_
