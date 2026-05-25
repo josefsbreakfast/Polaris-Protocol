@@ -182,9 +182,9 @@ The Admin Nest exists to support:
 
 > 📡 Cross-references:
 >
-> - [🌱_Still_Growing](./.🌱_Still_Growing/README.md)  
-> - [🏮_Admin_Kit](./🏮_Admin_Kit)  
-> - [🗃️_Archive](./🗃️_Archive)  
+> - [🌱 Still Growing](./.🌱_Still_Growing/README.md)  
+> - [🏮 Admin Kit](./🏮_Admin_Kit)  
+> - [🗃️ Archive](./🗃️_Archive)  
 >
 >  
 > 🏮 Return To:  
