@@ -1,48 +1,101 @@
 # 🔮 House Style  
-**Version:** 1.7  
-**First created:** 2025-08-08 | **Last updated:** 2026-02-22  
+**Version:** 1.8  
+**First created:** 2025-08-08 | **Last updated:** 2026-05-25  
 *Standard Formatting & Style Guide for Polaris Protocol*  
 
 ---
 
 ## 1. **File Naming Conventions**  
-- All filenames must follow the pattern: **EMOJI_snake_case.md**  
-  - Begin with an **emoji prefix** for category.  
-  - Then use a short descriptive title in **snake_case** (all lowercase with underscores).  
-  - Always end with the `.md` extension.  
 
-- **No spaces**.  
-- **No extra punctuation** other than underscores.  
-- **No dates** in filenames unless:  
-  - The file is a Field Log tied to a specific day (`🛰️_metadata_ghosts_2025-08-12.md`).  
-  - Or the filename itself denotes a sequence of dated evidence.  
+All filenames must follow the pattern:
 
-**Examples:**  
-- `Survivor_Tools/🧬_cloneproof.md`  
-- `Field_Logs/🛰️_icc_tag_thread_containment.md`  
-- `Big_Picture_Protocols/⚖️_containment_contract_trace.md`  
+```text
+EMOJI_snake_case.md
+```
+
+### Rules  
+- Begin with an **emoji prefix** for category.  
+- Use a short descriptive title in **snake_case**.  
+- Use lowercase only.  
+- End with the `.md` extension.  
+
+### Restrictions  
+- No spaces.  
+- No extra punctuation other than underscores.  
+- No random capitals.  
+- No decorative symbols beyond the emoji prefix.  
+
+### Dates  
+Do not include dates in filenames unless:
+
+- the file is a Field Log tied to a specific date, or  
+- the filename itself denotes a dated evidence sequence.
+
+### Examples  
+
+```text
+🧬_cloneproof.md
+🛰️_metadata_ghosts_2025-08-12.md
+⚖️_containment_contract_trace.md
+```
 
 ---
 
 ## 2. **Folder Structure**  
-- **Big_Picture_Protocols/** → Structural / systemic analysis (diagnostics, typologies, inversion theory).  
-- **Survivor_Tools/** → Practical strategies, survivor-led guides, countermeasures.  
-- **Field_Logs/** → Dated forensic documentation, evidence files, CSVs, plots.  
-- **Containment_Scripts/** → Platform suppression and visibility manipulation methods.  
-- **SCP-VoiceX Casefiles/** → Personal case records, testimony, legal filings.  
-- **Admin_Kit/** → Planning notes, trackers, house style docs, operational scaffolding.  
+
+### Core Routing Logic  
+
+- **Big_Picture_Protocols/**  
+  Structural / systemic analysis, diagnostics, governance theory, pattern mapping.
+
+- **Survivor_Tools/**  
+  Practical guidance, countermeasures, navigation aids, resilience tooling.
+
+- **Field_Logs/**  
+  Dated evidence logs, forensic documentation, screenshots, CSVs, plots.
+
+- **Containment_Scripts/**  
+  Platform suppression patterns, visibility manipulation methods, behavioural governance.
+
+- **SCP-VoiceX_Casefiles/**  
+  Personal testimony, filings, chronology, archive material.
+
+- **Admin_Kit/**  
+  House style, templates, trackers, routing logic, scaffolding infrastructure.
 
 ---
 
 ## 3. **Document Structure**  
 
-### Title Block  
-- **H1 title**: Emoji prefix + **Capitalised Title in Sentence Case**.  
-- Metadata line beneath:  
-  - **First created:** `YYYY-MM-DD` | **Last updated:** `YYYY-MM-DD`  
-  - *Italic one-line summary of scope*  
+Polaris nodes are modular documents.  
+Files are expected to use multiple H2 sections to organise material clearly.
 
-**Example:**  
+---
+
+### Title Block  
+
+Each file begins with:
+
+- an H1 title,
+- metadata,
+- and a one-line italic summary.
+
+### Rules  
+
+- H1 must contain:
+  - emoji prefix,
+  - title in Sentence Case.
+
+- Metadata line format:
+
+```markdown
+**First created:** YYYY-MM-DD | **Last updated:** YYYY-MM-DD
+```
+
+- Follow with:
+  - a single italic one-line scope summary.
+
+### Example  
 
 ```markdown
 # 🧬 Cloneproof  
@@ -52,88 +105,181 @@
 
 ---
 
-## 4. **Cross-Linking**  
+### Body Structure  
 
-Use relative paths only (never absolute GitHub URLs).  
+After the title block, nodes may contain as many H2 sections as required.
 
-Always wrap with a clear description (not raw filename).  
+Multiple H2 sections are standard Polaris formatting.
 
-**Example (display only):**  
+### Common H2 Patterns  
 
 ```markdown
-See [📩 Ghost vs Haunting Chart (2025-08-12)](../Disruption_Kit/Big_Picture_Protocols/📩_ghost_vs_haunting_chart_2025-08-12.csv)
+## 🛰️ Orientation
+## ✨ Key Features
+## 🧿 Analysis
+## ⚖️ Failure Modes
+## 🛠️ Diagnostic Tools
+## 📚 Case Studies
+## 🌌 Constellations
+## ✨ Stardust
+## 🏮 Footer
+```
+
+### Heading Hierarchy Rules  
+
+- H1 is reserved for the document title only.  
+- Main sections use H2 (`##`).  
+- Subsections use H3 (`###`).  
+- Avoid excessive nesting depth.  
+- Break large text walls into readable sections.
+
+### Structural Expectations  
+
+Most nodes will contain:
+
+- orientation or framing,
+- one or more analytical sections,
+- optional tools/examples/case sections,
+- a Constellations block,
+- a Stardust block,
+- and a Footer block.
+
+Exact section names may vary by node type.
+
+---
+
+## 4. **Cross-Linking**  
+
+### Link Rules  
+
+- Use relative paths only.  
+- Never use absolute GitHub URLs.  
+- Never leave raw filenames floating in body prose without context.
+
+### Link Style  
+
+Cross-links should describe:
+- purpose,
+- relationship,
+- or function.
+
+Not merely filename repetition.
+
+### Example  
+
+```markdown
+See [📩 Ghost vs Haunting Chart](../Disruption_Kit/Big_Picture_Protocols/📩_ghost_vs_haunting_chart_2025-08-12.csv)
 ```
 
 ---
 
 ## 5. **Versioning & Updates**  
 
-Each file shows creation + last update date.  
+### Metadata Requirements  
 
-Increment House Style version when rules are added or changed.  
+Every file must contain:
 
-Version history tracked at top of this file.  
+- `First created`
+- `Last updated`
+
+### Version Rules  
+
+- Increment House Style version when rules materially change.  
+- Sync dates across linked infrastructure nodes where appropriate.  
+- Major revisions should be reflected in changelog or governance notes if applicable.
 
 ---
 
 ## 6. **Constellations Block**  
 
-Every file includes a **Constellations** section *before the Footer*.  
+Every file includes a **Constellations** section before the Footer.
 
-**Purpose:**  
-- To map each node into the wider Polaris constellation.  
-- Works like a “semantic compass” for where the file belongs in the visual + conceptual palette.
-- Optionally: this may include media references which relate to the node, at writer's discretion.  
+### Purpose  
 
-**Format:**  
-- **H2 heading**: `## 🌌 Constellations`  
-- 2–5 emoji drawn from the [Visual Palette](../Admin_Kit/_visual_palette.md.txt)  
-- A short line explaining why those constellations apply.  
+The Constellations block:
 
-**Example:**  
+- maps the node into the wider Polaris semantic ecosystem,
+- acts as conceptual routing infrastructure,
+- and visually situates the node within thematic clusters.
+
+Optional media references may appear here.
+
+---
+
+### Required Structure  
+
+```markdown
+## 🌌 Constellations
+```
+
+### Format  
+
+- 2–5 emojis from the Visual Palette.  
+- One short explanatory line.
+
+### Example  
 
 ```markdown
 ## 🌌 Constellations  
-🪞 ✂️ 🧩 🧠 🧿 — short 1-line semantic tag defining node’s function (e.g., diagnostic register; civic reconstruction register; forensic ledger).  
+🪞 ✂️ 🧩 🧠 🧿 — diagnostic register; narrative fracture mapping; containment visibility analysis.
 ```
 
 ---
 
 ## 7. **Stardust Block**  
 
-Every file includes a **Stardust** section *just before the Footer*.  
+Every file includes a Stardust block immediately before the Footer.
 
-**Purpose:**  
-- SEO + tags for navigation and indexing.  
-- Plain word/phrase list (no emojis).  
+### Purpose  
 
-**Format:**  
-- **H2 heading**: `## ✨ Stardust`  
-- 5–10 keywords or short phrases separated by commas.  
+The Stardust block functions as:
 
-**Example:**  
+- keyword indexing,
+- semantic tagging,
+- search support,
+- and navigation infrastructure.
+
+---
+
+### Required Structure  
+
+```markdown
+## ✨ Stardust
+```
+
+### Format Rules  
+
+- Plain lowercase words or short phrases.  
+- No emojis.  
+- Comma-separated only.  
+- Usually 5–10 entries.  
+- Ordered from broad thematic → specific technical.
+
+### Example  
 
 ```markdown
 ## ✨ Stardust  
-comma-separated conceptual and keyword list — always lowercase, no caps; ordered from thematic to specific.  
-
+containment, narrative governance, visibility management, british systems culture, institutional pacing
 ```
 
- ---
+---
 
 ## 8. **Footer Block**  
 
-Every file ends with a **🏮 Footer** section.  
+Every Polaris node must end with a dedicated Footer section.
 
-**Required elements:**  
-- **H2 heading**: `## 🏮 Footer`  
-- A short paragraph situating the file as a *living node of the Polaris Protocol* (purpose + scope).  
-- One or more **📡 cross-references** to related directories or nodes (using relative paths).  
-- **Closing sovereignty line**:  
-  *Survivor authorship is sovereign. Containment is never neutral.*  
-- Final `_Last updated: YYYY-MM-DD_` line.  
+The Footer is structurally mandatory — not decorative.
 
-**Example:**  
+It functions as:
+
+- archive routing infrastructure,
+- contextual framing,
+- cross-cluster navigation,
+- and sovereignty anchoring.
+
+---
+
+### Required Footer Structure  
 
 ```markdown
 ---
@@ -141,16 +287,116 @@ Every file ends with a **🏮 Footer** section.
 ## 🏮 Footer  
 
 *Node Title* is a living node of the **Polaris Protocol**.  
-1-2 sentences stating its purpose, phrased in documentary voice.  
+1–3 sentences situating the node’s purpose, function, or analytical role.  
+Written in documentary or archival voice.  
 
 > 📡 Cross-references:
-> 
-> - [Node or Folder 1](../path/) — *one-line function descriptor*  
-> - [Node or Folder 2](../path/) — *one-line function descriptor*  
+>
+> - [Related Node or Folder](../path/) — *short functional description*  
+> - [Related Node or Folder](../path/) — *short functional description*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: YYYY-MM-DD_
-
 ```
 
+---
+
+### Footer Rules  
+
+- Footer must always be the final section in the file.  
+- Footer heading must always use H2 format:
+  - `## 🏮 Footer`
+- Footer must contain at least one cross-reference block.  
+- Cross-references should explain function — not merely repeat filenames.  
+- The sovereignty line should remain unchanged unless a project explicitly defines an alternative.  
+- `_Last updated:_` line must appear at the absolute end of the file.
+
+### Footer Tone  
+
+Footer language should:
+
+- sound archival or documentary rather than promotional,
+- situate the node within the wider Polaris ecosystem,
+- clarify why the node exists,
+- and reinforce continuity between clusters.
+
+---
+
+## 9. **Voice & Tone Fidelity**  
+
+Polaris writing preserves survivor voice fidelity by default.
+
+### Core Principles  
+
+- Do not over-neutralise tone unless explicitly requested.  
+- Documentary voice may coexist with irony, grief, humour, or sharpness.  
+- Precision matters more than false institutional blandness.  
+- Nodes should remain readable without flattening emotional reality.
+
+### Drafting Expectations  
+
+Writing should aim for:
+
+- structural clarity,
+- semantic precision,
+- readable modularity,
+- and recognisable Polaris undertone.
+
+See:
+
+```text
+🎛️_polaris_drafting_rules_survivor_voice_fidelity.md
+```
+
+for extended drafting guidance.
+
+---
+
+## 10. **Protocol Integrity Expectations**  
+
+All major uploads, edits, and routing passes should undergo integrity review.
+
+### Minimum Checks  
+
+- Filename compliance  
+- Metadata correctness  
+- Heading hierarchy consistency  
+- Footer presence  
+- Cross-link validity  
+- Constellations presence  
+- Stardust presence  
+- Sovereignty line preservation
+
+### Governance Reminder  
+
+Structural consistency is not cosmetic.
+
+Formatting coherence is part of:
+- archive survivability,
+- routing clarity,
+- and long-term protocol integrity.
+
+---
+
+## 🏮 Footer  
+
+*🔮 House Style* is a living node of the **Polaris Protocol**.  
+It defines the structural, stylistic, and routing conventions used across the Polaris archive ecosystem.  
+This document functions as the canonical formatting and organisational reference for maintaining interoperability between nodes, clusters, and governance layers.
+
+> 📡 Cross-references:
+>
+> - [🎛️ Polaris Drafting Rules — Survivor Voice Fidelity](./🎛️_polaris_drafting_rules_survivor_voice_fidelity.md) — *tone, undertone, and drafting fidelity rules*  
+> - [☔️ Protocol Integrity SOP](./☔️_protocol_integrity_sop.md) — *consistency and governance checking procedures*  
+> - [🐝 Template Node](./🐝_template_node.md) — *base structural template for new nodes*
+>  
+> 🏮 Return To:  
+>
+> - [🏮 Admin Kit](./) - *1up*  
+> - [🏮 Admin Nest](../README.md) - *2up*  
+> - [🌌 Polaris Protocol - Root](../../README.md) - *root*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-05-25_
