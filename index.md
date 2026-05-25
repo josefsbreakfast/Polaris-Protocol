@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-25 19:01:47 UTC_
+_Generated on 2026-05-25 19:13:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7390,20 +7390,10 @@ _Generated on 2026-05-25 19:01:47 UTC_
     - [`README.md`](🏮_Admin_Nest/.🌱_Still_Growing/README.md)
   - [**🏮_Admin_Kit/**](🏮_Admin_Nest/🏮_Admin_Kit/)
     - [`☔️_protocol_integrity_sop.md`](🏮_Admin_Nest/🏮_Admin_Kit/☔️_protocol_integrity_sop.md)
-    - [`🌌_constellation_tracker.md`](🏮_Admin_Nest/🏮_Admin_Kit/🌌_constellation_tracker.md)
-    - [`🌒_structure_overview.md`](🏮_Admin_Nest/🏮_Admin_Kit/🌒_structure_overview.md)
-    - [`🎏_dividers_and_headers.md`](🏮_Admin_Nest/🏮_Admin_Kit/🎏_dividers_and_headers.md)
-    - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](🏮_Admin_Nest/🏮_Admin_Kit/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
-    - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](🏮_Admin_Nest/🏮_Admin_Kit/🎛️_pocket_rules_survivor_voice_fidelity.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](🏮_Admin_Nest/🏮_Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
     - [`🏮_where_to_go.md`](🏮_Admin_Nest/🏮_Admin_Kit/🏮_where_to_go.md)
     - [`🐝_template_node.md`](🏮_Admin_Nest/🏮_Admin_Kit/🐝_template_node.md)
-    - [`🐾_footer_seals.md`](🏮_Admin_Nest/🏮_Admin_Kit/🐾_footer_seals.md)
-    - [`💜_search_field_manual_for_self_training.md`](🏮_Admin_Nest/🏮_Admin_Kit/💜_search_field_manual_for_self_training.md)
-    - [`🔥_NOTICE.md`](🏮_Admin_Nest/🏮_Admin_Kit/🔥_NOTICE.md)
     - [`🔮_house_style.md`](🏮_Admin_Nest/🏮_Admin_Kit/🔮_house_style.md)
-    - [`🧧_GIT_INTAKE_README.md`](🏮_Admin_Nest/🏮_Admin_Kit/🧧_GIT_INTAKE_README.md)
-    - [`🧿_intake_drawer_balancing_harms.md`](🏮_Admin_Nest/🏮_Admin_Kit/🧿_intake_drawer_balancing_harms.md)
     - [`🧿_visual_palette.md`](🏮_Admin_Nest/🏮_Admin_Kit/🧿_visual_palette.md)
     - [`🪄_branding_usage_guide.md`](🏮_Admin_Nest/🏮_Admin_Kit/🪄_branding_usage_guide.md)
     - [`🪜_scaffolding_mode_for_low_energy_writing.md`](🏮_Admin_Nest/🏮_Admin_Kit/🪜_scaffolding_mode_for_low_energy_writing.md)
@@ -7561,6 +7551,17 @@ _Generated on 2026-05-25 19:01:47 UTC_
         - [`🪞_i_know_why_youre_all_so_invested_now.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🪞_i_know_why_youre_all_so_invested_now.md)
         - [`🪻_take_me_home.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🪻_take_me_home.md)
         - [`🫁_i_cannot_expand.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🫁_i_cannot_expand.md)
+      - [**🏮_Admin_Kit/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/)
+        - [`🌌_constellation_tracker.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/🌌_constellation_tracker.md)
+        - [`🌒_structure_overview.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/🌒_structure_overview.md)
+        - [`🎏_dividers_and_headers.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/🎏_dividers_and_headers.md)
+        - [`🎛️_drafting_rules_cluster_survivor_voice_fidelity.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/🎛️_drafting_rules_cluster_survivor_voice_fidelity.md)
+        - [`🎛️_pocket_rules_survivor_voice_fidelity.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/🎛️_pocket_rules_survivor_voice_fidelity.md)
+        - [`🐾_footer_seals.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/🐾_footer_seals.md)
+        - [`💜_search_field_manual_for_self_training.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/💜_search_field_manual_for_self_training.md)
+        - [`🔥_NOTICE.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/🔥_NOTICE.md)
+        - [`🧧_GIT_INTAKE_README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/🧧_GIT_INTAKE_README.md)
+        - [`🧿_intake_drawer_balancing_harms.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/🧿_intake_drawer_balancing_harms.md)
       - [**🛰️_Metadata_Sabotage_Network/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/)
         - [**🔎_Evidence_And_Anomalies/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
