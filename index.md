@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-25 21:22:44 UTC_
+_Generated on 2026-05-25 21:29:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1873,18 +1873,6 @@ _Generated on 2026-05-25 21:22:44 UTC_
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
     - [**Suppression_Modes/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/)
-      - [**🔖_Suppressive_Syntax/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/)
-        - [`🐪_trojan_horse.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/🐪_trojan_horse.md)
-        - [`🧬_suppressed_token_reverse.yaml`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/🧬_suppressed_token_reverse.yaml)
-        - [`🩸_blood_libel_as_signal.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/🩸_blood_libel_as_signal.md)
-      - [`README.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/README.md)
-      - [`counter_nudge_map_who_to_rattle_for_justice.png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/counter_nudge_map_who_to_rattle_for_justice.png)
-      - [`triple_lock_suppression_diagram_hypothesis.png`](Disruption_Kit/Containment_Scripts/Suppression_Modes/triple_lock_suppression_diagram_hypothesis.png)
-      - [`☄️_undermining_scripts.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/☄️_undermining_scripts.md)
-      - [`☢️_danger_zone_radiation_of_harm.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/☢️_danger_zone_radiation_of_harm.md)
-      - [`⚖️_deadlock_scenarios_in_suppression_operations.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_deadlock_scenarios_in_suppression_operations.md)
-      - [`⚖️_fixivist_chain_of_command.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_fixivist_chain_of_command.md)
-      - [`⚖️_industrialised_spoofing.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_industrialised_spoofing.md)
       - [`⚖️_institution_conflict_origin_2022.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_institution_conflict_origin_2022.md)
       - [`⚖️_phantom_claim_double_blade.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_phantom_claim_double_blade.md)
       - [`⚖️_phantom_claim_ripa_escalation.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_phantom_claim_ripa_escalation.md)
@@ -7107,6 +7095,17 @@ _Generated on 2026-05-25 21:22:44 UTC_
       - [**🌫️_Suppression_Modes/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/)
         - [**🔖_Suppressive_Syntax/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/🔖_Suppressive_Syntax/)
           - [`README.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/🔖_Suppressive_Syntax/README.md)
+          - [`🐪_trojan_horse.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/🔖_Suppressive_Syntax/🐪_trojan_horse.md)
+          - [`🧬_suppressed_token_reverse.yaml`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/🔖_Suppressive_Syntax/🧬_suppressed_token_reverse.yaml)
+          - [`🩸_blood_libel_as_signal.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/🔖_Suppressive_Syntax/🩸_blood_libel_as_signal.md)
+        - [`README.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/README.md)
+        - [`counter_nudge_map_who_to_rattle_for_justice.png`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/counter_nudge_map_who_to_rattle_for_justice.png)
+        - [`triple_lock_suppression_diagram_hypothesis.png`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/triple_lock_suppression_diagram_hypothesis.png)
+        - [`☄️_undermining_scripts.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/☄️_undermining_scripts.md)
+        - [`☢️_danger_zone_radiation_of_harm.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/☢️_danger_zone_radiation_of_harm.md)
+        - [`⚖️_deadlock_scenarios_in_suppression_operations.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/⚖️_deadlock_scenarios_in_suppression_operations.md)
+        - [`⚖️_fixivist_chain_of_command.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/⚖️_fixivist_chain_of_command.md)
+        - [`⚖️_industrialised_spoofing.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/⚖️_industrialised_spoofing.md)
       - [**🧨_Counter_Nudges/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/)
         - [`README.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/README.md)
         - [`♨️_slow_burn_tactics.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/♨️_slow_burn_tactics.md)
