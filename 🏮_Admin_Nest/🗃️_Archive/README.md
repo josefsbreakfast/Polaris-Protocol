@@ -106,8 +106,8 @@ Some remain useful precisely because they reveal how the archive evolved.
 
 > 📡 Cross-references:  
 >  
-> - [🗄️ Room 101](./🗄️_Room_101/) — *deprecated and bureaucratically retired materials*  
-> - [💾 Collectors Editions](./💾_Collectors_Editions/) — *preserved historical and culturally interesting archive states*  
+> - [🗄️ Room 101](./🗄️_Room_101/README.md) — *deprecated and bureaucratically retired materials*  
+> - [💾 Collectors Editions](./💾_Collectors_Editions/README.md) — *preserved historical and culturally interesting archive states*  
 >  
 > 🏮 Return To:  
 >
