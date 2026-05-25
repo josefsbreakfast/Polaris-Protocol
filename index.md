@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-25 19:46:29 UTC_
+_Generated on 2026-05-25 19:47:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5583,9 +5583,6 @@ _Generated on 2026-05-25 19:46:29 UTC_
     - [`🪷_narrative_reclamation.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🪷_narrative_reclamation.md)
     - [`🫱_plain_speech_and_intimacy_in_operations.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🫱_plain_speech_and_intimacy_in_operations.md)
     - [`🫱_plain_speech_clause.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🫱_plain_speech_clause.md)
-  - [**💎_Resources/**](Disruption_Kit/💎_Resources/)
-    - [`🛰️_forensic_and_osint_tools.md`](Disruption_Kit/💎_Resources/🛰️_forensic_and_osint_tools.md)
-    - [`🧾_glossary_and_meta_index.md`](Disruption_Kit/💎_Resources/🧾_glossary_and_meta_index.md)
   - [**💣_Syntax_Bombs/**](Disruption_Kit/💣_Syntax_Bombs/)
     - [`README.md`](Disruption_Kit/💣_Syntax_Bombs/README.md)
     - [`➰_ghost_loop_interrupters.md`](Disruption_Kit/💣_Syntax_Bombs/➰_ghost_loop_interrupters.md)
@@ -7418,6 +7415,8 @@ _Generated on 2026-05-25 19:46:29 UTC_
           - [`📚_research_and_theory.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/📚_research_and_theory.md)
           - [`📚_resource_guides_schema.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/📚_resource_guides_schema.md)
           - [`🛠️_survivor_tools_index.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/🛠️_survivor_tools_index.md)
+          - [`🛰️_forensic_and_osint_tools.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/🛰️_forensic_and_osint_tools.md)
+          - [`🧾_glossary_and_meta_index.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/🧾_glossary_and_meta_index.md)
         - [**🔖_Tag_Pack/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/🔖_Tag_Pack/)
           - [`🔖_Polaris_Tags_v1.0.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/🔖_Tag_Pack/🔖_Polaris_Tags_v1.0.md)
           - [`🕯️_SIGNALS.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/🔖_Tag_Pack/🕯️_SIGNALS.md)
