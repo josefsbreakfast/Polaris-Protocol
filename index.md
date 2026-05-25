@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-25 20:56:40 UTC_
+_Generated on 2026-05-25 21:02:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1934,17 +1934,6 @@ _Generated on 2026-05-25 20:56:40 UTC_
     - [`🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md`](Disruption_Kit/Containment_Scripts/🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20250901_September_2025/**](Disruption_Kit/Field_Logs/20250901_September_2025/)
-      - [`🛰️_bath_time_division_hypothesis_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_bath_time_division_hypothesis_2025-09-20.md)
-      - [`🛰️_behavior_first_framing_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_behavior_first_framing_2025-09-20.md)
-      - [`🛰️_business_layer_harassment_pattern_2025-09-19.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_business_layer_harassment_pattern_2025-09-19.md)
-      - [`🛰️_chatgpt_cant_hold_chronology_today.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_chatgpt_cant_hold_chronology_today.md)
-      - [`🛰️_codename_table_loss_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_codename_table_loss_2025-09-20.md)
-      - [`🛰️_cognitive_load_as_infrastructure_field_log_2025-09-25.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_cognitive_load_as_infrastructure_field_log_2025-09-25.md)
-      - [`🛰️_commit_interference_fork_anomaly_save_2025-09-09.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_commit_interference_fork_anomaly_save_2025-09-09.md)
-      - [`🛰️_confused_feed_field_log_2025-09-29.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_confused_feed_field_log_2025-09-29.md)
-      - [`🛰️_content_injection_surveillance_leak_2025-09-21.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_content_injection_surveillance_leak_2025-09-21.md)
-      - [`🛰️_delay_script_field_log_2025-09-29.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_delay_script_field_log_2025-09-29.md)
-      - [`🛰️_delays_are_violence_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_delays_are_violence_field_log_2025-09-26.md)
       - [`🛰️_direct_interference_on_clarity_2025-09-11.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_direct_interference_on_clarity_2025-09-11.md)
       - [`🛰️_dns_failure_explaining_myself_accurately_2025-09-21.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_dns_failure_explaining_myself_accurately_2025-09-21.md)
       - [`🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md)
@@ -7417,6 +7406,17 @@ _Generated on 2026-05-25 20:56:40 UTC_
             - [`🛰️_all_it_took_2025-09-06.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_all_it_took_2025-09-06.md)
             - [`🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_ambient_surveillance_and_delivery_manipulation_2025-09-20.md)
             - [`🛰️_apartheid_forking_internet_interference_2025-09-27.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_apartheid_forking_internet_interference_2025-09-27.md)
+            - [`🛰️_bath_time_division_hypothesis_2025-09-20.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_bath_time_division_hypothesis_2025-09-20.md)
+            - [`🛰️_behavior_first_framing_2025-09-20.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_behavior_first_framing_2025-09-20.md)
+            - [`🛰️_business_layer_harassment_pattern_2025-09-19.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_business_layer_harassment_pattern_2025-09-19.md)
+            - [`🛰️_chatgpt_cant_hold_chronology_today.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_chatgpt_cant_hold_chronology_today.md)
+            - [`🛰️_codename_table_loss_2025-09-20.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_codename_table_loss_2025-09-20.md)
+            - [`🛰️_cognitive_load_as_infrastructure_field_log_2025-09-25.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_cognitive_load_as_infrastructure_field_log_2025-09-25.md)
+            - [`🛰️_commit_interference_fork_anomaly_save_2025-09-09.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_commit_interference_fork_anomaly_save_2025-09-09.md)
+            - [`🛰️_confused_feed_field_log_2025-09-29.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_confused_feed_field_log_2025-09-29.md)
+            - [`🛰️_content_injection_surveillance_leak_2025-09-21.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_content_injection_surveillance_leak_2025-09-21.md)
+            - [`🛰️_delay_script_field_log_2025-09-29.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_delay_script_field_log_2025-09-29.md)
+            - [`🛰️_delays_are_violence_field_log_2025-09-26.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_delays_are_violence_field_log_2025-09-26.md)
         - [**💎_Resources/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/README.md)
           - [`⚖️_legal_templates_and_guides.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
