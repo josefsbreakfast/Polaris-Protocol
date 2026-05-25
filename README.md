@@ -1,14 +1,14 @@
 # 🌌 Polaris Protocol  
-**First created:** 2025-08-03 | **Last updated:** 2026-05-21  
-*A survivor-led orientation system, containment analysis archive, and long-horizon continuity project.*
+**First created:** 2025-08-03 | **Last updated:** 2026-05-25  
+*A survivor-led orientation system, containment analysis archive, teaching ecology, and long-horizon continuity project.*
 
 ---
 
 > *⚠️ Polaris is currently undergoing active routing and structural reorganisation.*
 >
-> *Some folders, indices, and node placements may remain in transitional states while the long-term navigation architecture is stabilised.*
+> *Some folders, indices, node placements, and navigation pathways may remain in transitional states while the long-term archive architecture stabilises.*
 >
-> *Temporary routing inconsistencies during reconstruction are expected.*
+> *Temporary duplication, uneven indexing, or routing inconsistencies during reconstruction are expected.*
 
 ---
 
@@ -18,165 +18,226 @@ Polaris is a living archive for:
 - systemic analysis,
 - containment literacy,
 - survivor orientation,
+- operational reasoning,
 - practical resilience,
+- interdisciplinary translation,
 - and long-term reconstruction thinking.
 
 The archive is organised as a navigational progression rather than a flat taxonomy.
 
-The numbered folders represent movement through different cognitive and operational states:
-
-| Folder | Function |
-|---|---|
-| 🌑 1 | understanding systems |
-| 🌓 2 | recognising patterns |
-| 🌗 3 | orienting within live conditions |
-| 🌖 4 | taking practical action |
-| 🌕 5 | developing long-term continuity |
+Its folders represent different:
+- cognitive states,
+- operational conditions,
+- emotional temperatures,
+- and forms of survivability work.
 
 Polaris is not designed to trap users inside endless diagnosis.  
+
 Its structure is intended to support:
 - orientation,
 - pacing,
 - discernment,
+- operational literacy,
 - survivability,
 - and eventual continuity beyond crisis conditions.
 
+The archive does not claim total explanatory closure.  
+Discernment matters.  
+Not every metaphor is evidence, and not every story is a literal map.
+
 ---
 
-# 🌑 1 — Origin Points  
-`🌑_1_Origin_Points`
+## 🌑 1 — Origin Points  
+[`🌑_1_Origin_Points`](./🌑_1_Origin_Points/README.md)  
 
 Foundational frameworks, governance theory, containment systems, legitimacy analysis, and civilisational models.
 
 > “What is this project actually seeing?”
 
-Focus:
+### Focus
 - systemic explanation,
 - conceptual architecture,
 - governance ecology,
 - structural diagnostics,
-- meta-analysis frameworks.
+- legitimacy analysis,
+- and meta-framework construction.
 
-Typical contents:
+### Typical contents
 - 🧄 Exousiología
 - 🌸 Containment Studies
-- 🌀 System Governance
-- legitimacy diagnostics
+- 🌀 Systems & Governance
 - governance repair frameworks
+- institutional diagnostics
+- civilisational models
 
 ---
 
-# 🌓 2 — Signs & Symptoms  
-`🌓_2_Signs_Symptoms`
+## 🌒 2 — Signs & Symptoms  
+[`🌒_2_Signs_Symptoms`](./🌒_2_Signs_Symptoms/README.md)  
 
 Pattern recognition, suppression indicators, anomaly detection, and narrative inconsistencies.
 
 > “Something feels wrong but I cannot articulate it yet.”
 
-Focus:
+### Focus
 - containment indicators,
 - metadata anomalies,
 - suppression patterns,
 - visibility manipulation,
-- weirdness classification.
+- weirdness classification,
+- and narrative drift.
 
-Typical contents:
+### Typical contents
 - apparitional objects
 - suppression signatures
-- syntax anomalies
 - metadata sabotage analysis
-- narrative drift systems
+- syntax anomalies
+- institutional inconsistencies
+- behavioural pattern indicators
 
 ---
 
-# 🌗 3 — In The Moment  
-`🌗_3_In_The_Moment`
+## 🌓 3 — In The Moment  
+[`🌓_3_In_The_Moment`](./🌓_3_In_The_Moment/README.md)  
 
 Interpretive and orientation tools for navigating active conditions.
 
 > “I am inside the weather system now. How do I orient myself?”
 
-Focus:
+### Focus
 - behavioural decoding,
 - emotional navigation,
 - social interpretation,
 - live-condition understanding,
-- adaptive orientation.
+- adaptive orientation,
+- and operational discernment.
 
-Typical contents:
+### Typical contents
 - ⚗️ Apothecary
 - constitutions
 - vapours
 - temperament systems
 - behavioural interpretation frameworks
+- situational navigation tools
 
 ---
 
-# 🌖 4 — Small Steps  
-`🌖_4_Small_Steps`
+## 🌔 4 — Small Steps  
+[`🌔_4_Small_Steps`](./🌔_4_Small_Steps/README.md)  
 
 Practical tools, countermeasures, resilience systems, and operational survivability methods.
 
 > “What can I actually do right now?”
 
-Focus:
+### Focus
 - practical interventions,
 - workflow adaptations,
 - resilience building,
-- stabilisation,
-- operational support.
+- repair practices,
+- and operational support.
 
-Typical contents:
+### Typical contents
 - ❤️‍🩹 Survivor Tools
 - 🦆 Digital Disruption
 - practical countermeasures
 - repair practices
+- accessibility adaptations
 - resilience protocols
 
 ---
 
-# 🌕 5 — Long Strategies  
-`🌕_5_Long_Strategies`
+## 🌕 5 — Long Strategies  
+[`🌕_5_Long_Strategies`](./🌕_5_Long_Strategies/README.md)  
 
 Long-horizon continuity, reconstruction, governance redesign, and durable survivability thinking.
 
 > “How do we build continuity beyond immediate survival?”
 
-Focus:
+### Focus
 - stewardship,
 - succession,
 - durable governance,
 - ecological continuity,
-- reconstruction frameworks.
+- reconstruction frameworks,
+- and distributed resilience.
 
-Typical future contents:
-- resilience infrastructures
-- governance redesign
-- distributed stewardship
-- succession systems
+### Typical contents
 - continuity architectures
+- governance redesign
+- succession systems
+- resilient infrastructures
+- stewardship models
+- long-horizon coordination systems
 
 ---
 
-# 🏮 Admin Nest  
-`🏮_Admin_Nest`
+## 🌖 6 — Learning The Skies  
+[`🌖_6_Learning_The_Skies`](./🌖_6_Learning_The_Skies/README.md)  
+
+Applied teaching, narrative pedagogy, operational literacy, and interdisciplinary translation.
+
+> “How do humans actually learn complexity well enough to survive it?”
+
+### Focus
+- systems literacy,
+- narrative teaching,
+- interdisciplinary translation,
+- operational pedagogy,
+- humour-led explanation,
+- and applied public learning.
+
+### Typical contents
+- teaching modules
+- folklore-based pedagogy
+- systems walkthroughs
+- governance simulations
+- translational essays
+- operational explainers
+- interdisciplinary primers
+- narrative learning tools
+
+### Additional Notes
+
+This cluster may include:
+- fictional,
+- allegorical,
+- satirical,
+- symbolic,
+- or composite narratives.
+
+These entries are teaching instruments rather than deceptive reconstructions.
+
+🌖 Learning The Skies operates across all Polaris layers rather than existing strictly “after” them.
+
+It functions as:
+- a translation layer,
+- a teaching layer,
+- an interpretive observatory,
+- and a public pedagogy bridge across the wider archive.
+
+---
+
+## 🏮 Admin Nest  
+[`🏮_Admin_Nest`](./🏮_Admin_Nest/README.md)  
 
 Administrative scaffolding and maintenance systems supporting the archive itself.
 
-Focus:
+### Focus
 - drafting rules,
-- house style,
+- governance infrastructure,
 - routing systems,
+- templates,
 - indices,
-- maintenance documentation,
-- operational scaffolding.
+- maintenance logic,
+- and protocol integrity.
 
-Typical contents:
+### Typical contents
 - 🔮 House Style
 - 🎛️ Drafting Rules
 - ☔️ Protocol Integrity SOP
 - 🧭 Routing Notes
 - templates
+- governance scaffolding
 - navigation infrastructure
 
 ---
@@ -186,29 +247,34 @@ Typical contents:
 Polaris is designed as:
 - a living archive,
 - a cognitive navigation system,
-- and a survivability-oriented knowledge ecology.
+- a teaching ecology,
+- and a survivability-oriented knowledge infrastructure.
 
 Different folders operate at different:
-- emotional temperatures,
 - operational scales,
-- and cognitive states.
+- emotional intensities,
+- cognitive demands,
+- and interpretive layers.
 
-Users are encouraged to move between folders as needed rather than remain fixed within a single interpretive mode.
+Users are encouraged to move between folders as needed rather than remain fixed within a single explanatory frame.
 
 ---
 
 ## 🗺️ Pocket Map  
 
-```
+```text
 🌑 Origin Points
         ↓
-🌓 Signs & Symptoms
+🌒 Signs & Symptoms
         ↓
-🌗 In The Moment
+🌓 In The Moment
         ↓
-🌖 Small Steps
+🌔 Small Steps
         ↓
 🌕 Long Strategies
+
+🌖 Learning The Skies
+↔ translation, pedagogy, operational literacy across all layers
 
 🏮 Admin Nest supports all layers
 ```
@@ -216,26 +282,37 @@ Users are encouraged to move between folders as needed rather than remain fixed 
 ---
 
 ## 🌌 Constellations  
-🌌 🧭 🛰️ 🗂️ 🧠 — archive navigation; containment literacy; cognitive orientation; survivability systems; reconstruction architecture.
+
+🌌 🧭 🛰️ 📚 🧠 🏮 — archive navigation; containment literacy; operational pedagogy; systems orientation; governance infrastructure; survivability ecology.
 
 ---
 
 ## ✨ Stardust  
-polaris protocol, containment studies, governance analysis, survivor orientation, archive routing, systems literacy, resilience architecture, cognitive navigation, operational survivability, reconstruction thinking
+
+polaris protocol, containment studies, governance analysis, systems literacy, survivor orientation, operational reasoning, archive routing, narrative pedagogy, interdisciplinary translation, resilience architecture, public pedagogy, operational survivability, cognitive navigation, reconstruction thinking
 
 ---
 
 ## 🏮 Footer  
 
 *🌌 Polaris Protocol* is a living root node of the **Polaris Protocol**.  
-It provides orientation to the evolving folder architecture, navigation logic, and survivability framework underpinning the wider archive.
+It provides orientation to the evolving folder architecture, governance structure, pedagogical framework, and survivability logic underpinning the wider archive ecosystem.
+
+The protocol operates simultaneously as:
+- a systems-analysis archive,
+- a translation infrastructure,
+- a survivor-oriented navigation framework,
+- and a long-horizon continuity project.
 
 > 📡 Cross-references:
 >
-> - [🧭 Polaris Folder Routing Notes](./🏮_Admin_Nest/🗂️_polaris_folder_routing_notes.md) — routing and placement logic  
-> - [🔮 House Style](./🏮_Admin_Nest/🔮_house_style.md) — formatting and structural conventions  
-> - [☔️ Protocol Integrity SOP](./🏮_Admin_Nest/☔️_protocol_integrity_sop.md) — archive consistency and maintenance checks  
+> - [🌑 1 Origin Points](./🌑_1_Origin_Points/README.md)  
+> - [🌒 2 Signs Symptoms](./🌒_2_Signs_Symptoms/README.md)  
+> - [🌓 3 In The Moment](./🌓_3_In_The_Moment/README.md)  
+> - [🌔 4 Small Steps](./🌔_4_Small_Steps/README.md)  
+> - [🌕 5 Long Strategies](./🌕_5_Long_Strategies/README.md)  
+> - [🌖 6 Learning The Skies](./🌖_6_Learning_The_Skies/README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-21_
+_Last updated: 2026-05-25_
