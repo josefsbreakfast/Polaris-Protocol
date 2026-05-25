@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-25 19:32:17 UTC_
+_Generated on 2026-05-25 19:40:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5584,9 +5584,6 @@ _Generated on 2026-05-25 19:32:17 UTC_
     - [`🫱_plain_speech_and_intimacy_in_operations.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🫱_plain_speech_and_intimacy_in_operations.md)
     - [`🫱_plain_speech_clause.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🫱_plain_speech_clause.md)
   - [**💎_Resources/**](Disruption_Kit/💎_Resources/)
-    - [`README.md`](Disruption_Kit/💎_Resources/README.md)
-    - [`⚖️_legal_templates_and_guides.md`](Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
-    - [`📚_example_resource_guide.yaml`](Disruption_Kit/💎_Resources/📚_example_resource_guide.yaml)
     - [`📚_research_and_theory.md`](Disruption_Kit/💎_Resources/📚_research_and_theory.md)
     - [`📚_resource_guides_schema.md`](Disruption_Kit/💎_Resources/📚_resource_guides_schema.md)
     - [`🛠️_survivor_tools_index.md`](Disruption_Kit/💎_Resources/🛠️_survivor_tools_index.md)
@@ -5604,9 +5601,6 @@ _Generated on 2026-05-25 19:32:17 UTC_
     - [`🧨_forensic_disruptors.md`](Disruption_Kit/💣_Syntax_Bombs/🧨_forensic_disruptors.md)
     - [`🩸_care_saboteurs.md`](Disruption_Kit/💣_Syntax_Bombs/🩸_care_saboteurs.md)
     - [`🪩_mirror_smashers.md`](Disruption_Kit/💣_Syntax_Bombs/🪩_mirror_smashers.md)
-  - [**🔖_Tag_Pack/**](Disruption_Kit/🔖_Tag_Pack/)
-    - [`🔖_Polaris_Tags_v1.0.md`](Disruption_Kit/🔖_Tag_Pack/🔖_Polaris_Tags_v1.0.md)
-    - [`🕯️_SIGNALS.md`](Disruption_Kit/🔖_Tag_Pack/🕯️_SIGNALS.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
@@ -7419,6 +7413,14 @@ _Generated on 2026-05-25 19:32:17 UTC_
         - [`🪻_why_them.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/✨_Letters/🪻_why_them.md)
       - [`README.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/README.md)
     - [**🗄️_Room_101/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/)
+      - [**Disruption_Kit/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/)
+        - [**💎_Resources/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/)
+          - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/README.md)
+          - [`⚖️_legal_templates_and_guides.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
+          - [`📚_example_resource_guide.yaml`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/📚_example_resource_guide.yaml)
+        - [**🔖_Tag_Pack/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/🔖_Tag_Pack/)
+          - [`🔖_Polaris_Tags_v1.0.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/🔖_Tag_Pack/🔖_Polaris_Tags_v1.0.md)
+          - [`🕯️_SIGNALS.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/🔖_Tag_Pack/🕯️_SIGNALS.md)
       - [**SCP-VoiceX_Casefiles/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/)
         - [**Institutional_Breach_And_Dataflow/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
