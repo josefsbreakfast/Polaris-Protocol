@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-25 21:29:50 UTC_
+_Generated on 2026-05-25 21:31:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1873,8 +1873,6 @@ _Generated on 2026-05-25 21:29:50 UTC_
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
     - [**Suppression_Modes/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/)
-      - [`⚖️_institution_conflict_origin_2022.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_institution_conflict_origin_2022.md)
-      - [`⚖️_phantom_claim_double_blade.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_phantom_claim_double_blade.md)
       - [`⚖️_phantom_claim_ripa_escalation.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_phantom_claim_ripa_escalation.md)
       - [`⚖️_universal_spoof_burden.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/⚖️_universal_spoof_burden.md)
       - [`🇬🇧_cve_voice_containment_calming_voice_prototype.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🇬🇧_cve_voice_containment_calming_voice_prototype.md)
@@ -7106,6 +7104,8 @@ _Generated on 2026-05-25 21:29:50 UTC_
         - [`⚖️_deadlock_scenarios_in_suppression_operations.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/⚖️_deadlock_scenarios_in_suppression_operations.md)
         - [`⚖️_fixivist_chain_of_command.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/⚖️_fixivist_chain_of_command.md)
         - [`⚖️_industrialised_spoofing.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/⚖️_industrialised_spoofing.md)
+        - [`⚖️_institution_conflict_origin_2022.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/⚖️_institution_conflict_origin_2022.md)
+        - [`⚖️_phantom_claim_double_blade.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🌫️_Suppression_Modes/⚖️_phantom_claim_double_blade.md)
       - [**🧨_Counter_Nudges/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/)
         - [`README.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/README.md)
         - [`♨️_slow_burn_tactics.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/♨️_slow_burn_tactics.md)
