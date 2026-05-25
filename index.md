@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-25 20:08:19 UTC_
+_Generated on 2026-05-25 20:09:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7321,6 +7321,7 @@ _Generated on 2026-05-25 20:08:19 UTC_
     - [`🪞_mirror_commons.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🪞_mirror_commons.md)
   - [**💎_Resource_Gathering/**](🌕_5_Long_Strategies/💎_Resource_Gathering/)
     - [`README.md`](🌕_5_Long_Strategies/💎_Resource_Gathering/README.md)
+    - [`notes.txt`](🌕_5_Long_Strategies/💎_Resource_Gathering/notes.txt)
   - [**💸_Business_Is_Tooling/**](🌕_5_Long_Strategies/💸_Business_Is_Tooling/)
     - [`README.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/README.md)
     - [`notes.txt`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/notes.txt)
