@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-25 18:35:45 UTC_
+_Generated on 2026-05-25 18:39:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7386,8 +7386,8 @@ _Generated on 2026-05-25 18:35:45 UTC_
     - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md)
   - [`README.md`](🌖_6_Learning_The_Skies/README.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
-  - [**🌱_Still_Growing/**](🏮_Admin_Nest/🌱_Still_Growing/)
-    - [`README.md`](🏮_Admin_Nest/🌱_Still_Growing/README.md)
+  - [**.🌱_Still_Growing/**](🏮_Admin_Nest/.🌱_Still_Growing/)
+    - [`README.md`](🏮_Admin_Nest/.🌱_Still_Growing/README.md)
   - [**🏮_Admin_Kit/**](🏮_Admin_Nest/🏮_Admin_Kit/)
     - [`☔️_protocol_integrity_sop.md`](🏮_Admin_Nest/🏮_Admin_Kit/☔️_protocol_integrity_sop.md)
     - [`🌌_constellation_tracker.md`](🏮_Admin_Nest/🏮_Admin_Kit/🌌_constellation_tracker.md)
