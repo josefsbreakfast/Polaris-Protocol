@@ -1,3 +1,5 @@
+🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/🌌_constellation_tracker.md
+
 # 🌌 Constellation Tracker  
 **First created:** 2025-10-03 | **Last updated:** 2026-02-22  
 *Log of cultural and legal references already used in Polaris constellations, to avoid repetition and keep the sky varied.*  
