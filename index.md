@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-25 20:31:00 UTC_
+_Generated on 2026-05-25 20:32:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1934,7 +1934,6 @@ _Generated on 2026-05-25 20:31:00 UTC_
     - [`🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md`](Disruption_Kit/Containment_Scripts/🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20250801_August_2025/**](Disruption_Kit/Field_Logs/20250801_August_2025/)
-      - [`🛰️_embedded_observers_field_log_2025-08-06.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_embedded_observers_field_log_2025-08-06.md)
       - [`🛰️_forensic_mapping_ghost_vs_trauma_report.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_forensic_mapping_ghost_vs_trauma_report.md)
       - [`🛰️_forensic_thread_analysis_icc_2025-08-07.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_forensic_thread_analysis_icc_2025-08-07.md)
       - [`🛰️_ghost_session_compete_log_2025-08-27.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_ghost_session_compete_log_2025-08-27.md)
@@ -7417,6 +7416,7 @@ _Generated on 2026-05-25 20:31:00 UTC_
             - [`📍_10_day_tactical_forecast_2025-08-08_to_08-18.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250801_August_2025/📍_10_day_tactical_forecast_2025-08-08_to_08-18.md)
             - [`🚀_governance_is_great_2nd_spring_clean.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250801_August_2025/🚀_governance_is_great_2nd_spring_clean.md)
             - [`🛰️_arrest_as_surveillance_warrant.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_arrest_as_surveillance_warrant.md)
+            - [`🛰️_embedded_observers_field_log_2025-08-06.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_embedded_observers_field_log_2025-08-06.md)
         - [**💎_Resources/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/README.md)
           - [`⚖️_legal_templates_and_guides.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
