@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-25 19:22:55 UTC_
+_Generated on 2026-05-25 19:24:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7553,6 +7553,7 @@ _Generated on 2026-05-25 19:22:55 UTC_
         - [`🪻_take_me_home.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🪻_take_me_home.md)
         - [`🫁_i_cannot_expand.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🫁_i_cannot_expand.md)
       - [**🏮_Admin_Kit/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/)
+        - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/README.md)
         - [`🌌_constellation_tracker.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/🌌_constellation_tracker.md)
         - [`🌒_structure_overview.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/🌒_structure_overview.md)
         - [`🎏_dividers_and_headers.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/🎏_dividers_and_headers.md)
@@ -7633,9 +7634,9 @@ _Generated on 2026-05-25 19:22:55 UTC_
         - [`📦_sweep_sequence_aug_11-13.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/📦_sweep_sequence_aug_11-13.md)
         - [`🧯_harm_scan_report.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/🧯_harm_scan_report.md)
         - [`🧯_sweep_harm_log_2025-08-17.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🧹_2025-08-11_sexualisation_sweep/🧯_sweep_harm_log_2025-08-17.md)
+      - [**🪺_Polaris_Nest/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🪺_Polaris_Nest/)
+        - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🪺_Polaris_Nest/README.md)
       - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/README.md)
-    - [`2_README.md`](🏮_Admin_Nest/🗃️_Archive/2_README.md)
-    - [`3_README.md`](🏮_Admin_Nest/🗃️_Archive/3_README.md)
     - [`README.md`](🏮_Admin_Nest/🗃️_Archive/README.md)
   - [`README.md`](🏮_Admin_Nest/README.md)
   - [`notes.txt`](🏮_Admin_Nest/notes.txt)
