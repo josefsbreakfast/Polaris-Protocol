@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-25 20:36:00 UTC_
+_Generated on 2026-05-25 20:40:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1933,11 +1933,6 @@ _Generated on 2026-05-25 20:36:00 UTC_
     - [`💾_ui_sabotage_glossary.md`](Disruption_Kit/Containment_Scripts/💾_ui_sabotage_glossary.md)
     - [`🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md`](Disruption_Kit/Containment_Scripts/🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
-    - [**20250801_August_2025/**](Disruption_Kit/Field_Logs/20250801_August_2025/)
-      - [`🧠_sticky_memory_analysis_2025-08-14.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🧠_sticky_memory_analysis_2025-08-14.md)
-      - [`🧱_loft_packet_dump_theory_2025-08-06.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🧱_loft_packet_dump_theory_2025-08-06.md)
-      - [`🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md)
-      - [`🩻_diagnostic_injection_log_2025-08-28.md`](Disruption_Kit/Field_Logs/20250801_August_2025/🩻_diagnostic_injection_log_2025-08-28.md)
     - [**20250901_September_2025/**](Disruption_Kit/Field_Logs/20250901_September_2025/)
       - [`⚔️_the_orientalism_is_mindblowing.md`](Disruption_Kit/Field_Logs/20250901_September_2025/⚔️_the_orientalism_is_mindblowing.md)
       - [`⚖️_scraping_spoofing_timeline_2019_2022.md`](Disruption_Kit/Field_Logs/20250901_September_2025/⚖️_scraping_spoofing_timeline_2019_2022.md)
@@ -7417,6 +7412,10 @@ _Generated on 2026-05-25 20:36:00 UTC_
             - [`🛰️_handlers_at_the_table.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_handlers_at_the_table.md)
             - [`🛰️_icc_tag_thread_containment.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_icc_tag_thread_containment.md)
             - [`🛰️_purge_sequence_2025-08-11_to_2025-08-13.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250801_August_2025/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)
+            - [`🧠_sticky_memory_analysis_2025-08-14.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250801_August_2025/🧠_sticky_memory_analysis_2025-08-14.md)
+            - [`🧱_loft_packet_dump_theory_2025-08-06.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250801_August_2025/🧱_loft_packet_dump_theory_2025-08-06.md)
+            - [`🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250801_August_2025/🧿_scp_voicex_0808_day_5_metadata_twitching_2025-08-11.md)
+            - [`🩻_diagnostic_injection_log_2025-08-28.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250801_August_2025/🩻_diagnostic_injection_log_2025-08-28.md)
         - [**💎_Resources/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/README.md)
           - [`⚖️_legal_templates_and_guides.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
