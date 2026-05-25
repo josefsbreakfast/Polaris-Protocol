@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-25 19:47:40 UTC_
+_Generated on 2026-05-25 20:06:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7213,6 +7213,8 @@ _Generated on 2026-05-25 19:47:40 UTC_
     - [`🧾_artifact_archive_templates.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/🧾_artifact_archive_templates.md)
     - [`🪞_script_decoding_lab.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/🪞_script_decoding_lab.md)
     - [`🪶_civic_immunity_training_manual.md`](🌓_3_In_The_Moment/🧨_Counter_Nudge_Playbook/🪶_civic_immunity_training_manual.md)
+  - [**🧬_STAT_Survivor_Tools/**](🌓_3_In_The_Moment/🧬_STAT_Survivor_Tools/)
+    - [`README.md`](🌓_3_In_The_Moment/🧬_STAT_Survivor_Tools/README.md)
   - [`README.md`](🌓_3_In_The_Moment/README.md)
 - [**🌔_4_Small_Steps/**](🌔_4_Small_Steps/)
   - [**.🌱_Still_Growing/**](🌔_4_Small_Steps/.🌱_Still_Growing/)
@@ -7240,6 +7242,8 @@ _Generated on 2026-05-25 19:47:40 UTC_
     - [`README.md`](🌔_4_Small_Steps/🖍️_Art_As_Attack/README.md)
   - [**🦆_Digital_Disruption/**](🌔_4_Small_Steps/🦆_Digital_Disruption/)
     - [`README.md`](🌔_4_Small_Steps/🦆_Digital_Disruption/README.md)
+  - [**🪄_Disruption_Kit/**](🌔_4_Small_Steps/🪄_Disruption_Kit/)
+    - [`README.md`](🌔_4_Small_Steps/🪄_Disruption_Kit/README.md)
   - [**🪖_Home_Front_2.0/**](🌔_4_Small_Steps/🪖_Home_Front_2.0/)
     - [`README.md`](🌔_4_Small_Steps/🪖_Home_Front_2.0/README.md)
     - [`🇬🇧_there_is_a_fight_on_the_beaches.md`](🌔_4_Small_Steps/🪖_Home_Front_2.0/🇬🇧_there_is_a_fight_on_the_beaches.md)
@@ -7315,6 +7319,8 @@ _Generated on 2026-05-25 19:47:40 UTC_
     - [`🧠_nerd_alignment_protocol.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🧠_nerd_alignment_protocol.md)
     - [`🧩_distributed_decision_framework.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🧩_distributed_decision_framework.md)
     - [`🪞_mirror_commons.md`](🌕_5_Long_Strategies/🐝_All_In_Commons/🪞_mirror_commons.md)
+  - [**💎_Resource_Gathering/**](🌕_5_Long_Strategies/💎_Resource_Gathering/)
+    - [`README.md`](🌕_5_Long_Strategies/💎_Resource_Gathering/README.md)
   - [**💸_Business_Is_Tooling/**](🌕_5_Long_Strategies/💸_Business_Is_Tooling/)
     - [`README.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/README.md)
     - [`notes.txt`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/notes.txt)
