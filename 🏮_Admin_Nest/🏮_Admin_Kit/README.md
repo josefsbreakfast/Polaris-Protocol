@@ -98,13 +98,17 @@ The Admin Kit exists to help Polaris remain:
 - operationally maintainable,
 - and resilient during periods of active reconstruction and growth.
 
-> 📡 Cross-references:
->
-> - [🏮 Admin Nest](../README.md) — *administrative governance and archive infrastructure*  
+> 📡 Cross-references:  
+>  
 > - [🌱 Still Growing](../.🌱_Still_Growing/README.md) — *draft incubation and reconstruction workspace*  
 > - [🗃️ Archive](../🗃️_Archive/) — *historical and superseded materials*  
 > - [🔮 House Style](./🔮_house_style.md) — *canonical formatting and structure rules*  
 > - [☔️ Protocol Integrity SOP](./☔️_protocol_integrity_sop.md) — *governance and integrity checks*  
+>  
+> 🏮 Return To:  
+>
+> - [🏮 Admin Nest](../README.md)  
+> - [🌌 Polaris Protocol - Root](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
