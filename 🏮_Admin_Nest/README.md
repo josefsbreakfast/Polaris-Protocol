@@ -81,7 +81,7 @@ Some duplication or structural unevenness is expected.
 ---
 
 ## 🏮 Admin Kit  
-[`🏮_Admin_Kit`](./🏮_Admin_Kit)  
+[`🏮_Admin_Kit`](./🏮_Admin_Kit/README.md)  
 
 The canonical governance and formatting layer for Polaris.
 
@@ -103,7 +103,7 @@ The Admin Kit acts as:
 ---
 
 ## 🗃️ Archive  
-[`🗃️_Archive`](./🗃️_Archive)  
+[`🗃️_Archive`](./🗃️_Archive/README.md)  
 
 Historical, deprecated, migrated, retired, or superseded materials retained for continuity, traceability, or reconstruction reference.
 
@@ -183,8 +183,8 @@ The Admin Nest exists to support:
 > 📡 Cross-references:
 >
 > - [🌱 Still Growing](./.🌱_Still_Growing/README.md)  
-> - [🏮 Admin Kit](./🏮_Admin_Kit)  
-> - [🗃️ Archive](./🗃️_Archive)  
+> - [🏮 Admin Kit](./🏮_Admin_Kit/README.md)  
+> - [🗃️ Archive](./🗃️_Archive/README.md)  
 >
 >  
 > 🏮 Return To:  
