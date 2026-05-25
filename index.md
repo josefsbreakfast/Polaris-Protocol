@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-25 19:13:41 UTC_
+_Generated on 2026-05-25 19:17:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7389,6 +7389,7 @@ _Generated on 2026-05-25 19:13:41 UTC_
   - [**.🌱_Still_Growing/**](🏮_Admin_Nest/.🌱_Still_Growing/)
     - [`README.md`](🏮_Admin_Nest/.🌱_Still_Growing/README.md)
   - [**🏮_Admin_Kit/**](🏮_Admin_Nest/🏮_Admin_Kit/)
+    - [`README.md`](🏮_Admin_Nest/🏮_Admin_Kit/README.md)
     - [`☔️_protocol_integrity_sop.md`](🏮_Admin_Nest/🏮_Admin_Kit/☔️_protocol_integrity_sop.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](🏮_Admin_Nest/🏮_Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
     - [`🏮_where_to_go.md`](🏮_Admin_Nest/🏮_Admin_Kit/🏮_where_to_go.md)
