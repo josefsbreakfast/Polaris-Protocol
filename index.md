@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-25 20:46:15 UTC_
+_Generated on 2026-05-25 20:47:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1934,8 +1934,6 @@ _Generated on 2026-05-25 20:46:15 UTC_
     - [`🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md`](Disruption_Kit/Containment_Scripts/🕸️_hijacked_metaphors_darvo_flip_2025-09-13.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20250901_September_2025/**](Disruption_Kit/Field_Logs/20250901_September_2025/)
-      - [`📝_field_log_chatgpt_export_glitch_2025-09-16.md`](Disruption_Kit/Field_Logs/20250901_September_2025/📝_field_log_chatgpt_export_glitch_2025-09-16.md)
-      - [`📝_field_log_repo_upload_glitch.md`](Disruption_Kit/Field_Logs/20250901_September_2025/📝_field_log_repo_upload_glitch.md)
       - [`📝_hollow_node_export_glitch_2025-09-17.md`](Disruption_Kit/Field_Logs/20250901_September_2025/📝_hollow_node_export_glitch_2025-09-17.md)
       - [`🔗_event_linkage_false_proof_pattern.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🔗_event_linkage_false_proof_pattern.md)
       - [`🗒️_being_cross_at_gung_ho_nudge.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🗒️_being_cross_at_gung_ho_nudge.md)
@@ -7417,6 +7415,8 @@ _Generated on 2026-05-25 20:46:15 UTC_
             - [`🐓_no_gpt_for_the_annoyed_femme.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🐓_no_gpt_for_the_annoyed_femme.md)
             - [`🐪_new_question.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🐪_new_question.md)
             - [`👁️‍🗨️_alt_text_substitution_incident.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/👁️‍🗨️_alt_text_substitution_incident.md)
+            - [`📝_field_log_chatgpt_export_glitch_2025-09-16.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/📝_field_log_chatgpt_export_glitch_2025-09-16.md)
+            - [`📝_field_log_repo_upload_glitch.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/📝_field_log_repo_upload_glitch.md)
         - [**💎_Resources/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/README.md)
           - [`⚖️_legal_templates_and_guides.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
