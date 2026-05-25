@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-25 21:12:06 UTC_
+_Generated on 2026-05-25 21:20:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1872,21 +1872,6 @@ _Generated on 2026-05-25 21:12:06 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/README.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Containment_Scripts/**](Disruption_Kit/Containment_Scripts/)
-    - [**Counter_Nudges/**](Disruption_Kit/Containment_Scripts/Counter_Nudges/)
-      - [`README.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/README.md)
-      - [`♨️_slow_burn_tactics.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/♨️_slow_burn_tactics.md)
-      - [`🍬_containment_toffee_plot_2025-08-12_BR_compact.png`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🍬_containment_toffee_plot_2025-08-12_BR_compact.png)
-      - [`🔥_anger_as_signal.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🔥_anger_as_signal.md)
-      - [`🔮_seance_protocol.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🔮_seance_protocol.md)
-      - [`🛠_practical_resilience_nodes.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🛠_practical_resilience_nodes.md)
-      - [`🦁_lions_of_judah.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🦁_lions_of_judah.md)
-      - [`🧨_counter_nudge_testimony.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🧨_counter_nudge_testimony.md)
-      - [`🧨_nudgers_get_nudged.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🧨_nudgers_get_nudged.md)
-      - [`🧨_polite_post_containment_probe.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🧨_polite_post_containment_probe.md)
-      - [`🧨_procedural_wait_your_turn.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🧨_procedural_wait_your_turn.md)
-      - [`🪓_mean_evidence_template.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🪓_mean_evidence_template.md)
-      - [`🪬_reclaiming_the_engineered_body.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🪬_reclaiming_the_engineered_body.md)
-      - [`🫶_declaration_of_continued_existence.md`](Disruption_Kit/Containment_Scripts/Counter_Nudges/🫶_declaration_of_continued_existence.md)
     - [**Suppression_Modes/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/)
       - [**🔖_Suppressive_Syntax/**](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/)
         - [`README.md`](Disruption_Kit/Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/README.md)
@@ -7119,6 +7104,22 @@ _Generated on 2026-05-25 21:12:06 UTC_
       - [`🧨_forensic_disruptors.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/💣_Syntax_Bombs/🧨_forensic_disruptors.md)
       - [`🩸_care_saboteurs.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/💣_Syntax_Bombs/🩸_care_saboteurs.md)
       - [`🪩_mirror_smashers.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/💣_Syntax_Bombs/🪩_mirror_smashers.md)
+    - [**🧨_Containment_Scripts/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/)
+      - [**🧨_Counter_Nudges/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/)
+        - [`README.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/README.md)
+        - [`♨️_slow_burn_tactics.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/♨️_slow_burn_tactics.md)
+        - [`🍬_containment_toffee_plot_2025-08-12_BR_compact.png`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/🍬_containment_toffee_plot_2025-08-12_BR_compact.png)
+        - [`🔥_anger_as_signal.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/🔥_anger_as_signal.md)
+        - [`🔮_seance_protocol.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/🔮_seance_protocol.md)
+        - [`🛠_practical_resilience_nodes.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/🛠_practical_resilience_nodes.md)
+        - [`🦁_lions_of_judah.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/🦁_lions_of_judah.md)
+        - [`🧨_counter_nudge_testimony.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/🧨_counter_nudge_testimony.md)
+        - [`🧨_nudgers_get_nudged.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/🧨_nudgers_get_nudged.md)
+        - [`🧨_polite_post_containment_probe.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/🧨_polite_post_containment_probe.md)
+        - [`🧨_procedural_wait_your_turn.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/🧨_procedural_wait_your_turn.md)
+        - [`🪓_mean_evidence_template.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/🪓_mean_evidence_template.md)
+        - [`🪬_reclaiming_the_engineered_body.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/🪬_reclaiming_the_engineered_body.md)
+        - [`🫶_declaration_of_continued_existence.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧨_Containment_Scripts/🧨_Counter_Nudges/🫶_declaration_of_continued_existence.md)
     - [**🧿_Parsh_Fasr/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/)
       - [`README.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/README.md)
       - [`🎭_dialogue_as_substitution.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/🎭_dialogue_as_substitution.md)
