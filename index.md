@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-25 20:09:40 UTC_
+_Generated on 2026-05-25 20:15:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5583,18 +5583,6 @@ _Generated on 2026-05-25 20:09:40 UTC_
     - [`🪷_narrative_reclamation.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🪷_narrative_reclamation.md)
     - [`🫱_plain_speech_and_intimacy_in_operations.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🫱_plain_speech_and_intimacy_in_operations.md)
     - [`🫱_plain_speech_clause.md`](Disruption_Kit/🏮_AntiContainment_Clauses/🫱_plain_speech_clause.md)
-  - [**💣_Syntax_Bombs/**](Disruption_Kit/💣_Syntax_Bombs/)
-    - [`README.md`](Disruption_Kit/💣_Syntax_Bombs/README.md)
-    - [`➰_ghost_loop_interrupters.md`](Disruption_Kit/💣_Syntax_Bombs/➰_ghost_loop_interrupters.md)
-    - [`🌾_whisper_jammers.md`](Disruption_Kit/💣_Syntax_Bombs/🌾_whisper_jammers.md)
-    - [`🍊_social_credit_reversal.md`](Disruption_Kit/💣_Syntax_Bombs/🍊_social_credit_reversal.md)
-    - [`🔥_erotic_resistance.md`](Disruption_Kit/💣_Syntax_Bombs/🔥_erotic_resistance.md)
-    - [`🕯_memory_anchors.md`](Disruption_Kit/💣_Syntax_Bombs/🕯_memory_anchors.md)
-    - [`🛜_signal_reclaimers.md`](Disruption_Kit/💣_Syntax_Bombs/🛜_signal_reclaimers.md)
-    - [`🦤_field_guide_to_mansplainers.md`](Disruption_Kit/💣_Syntax_Bombs/🦤_field_guide_to_mansplainers.md)
-    - [`🧨_forensic_disruptors.md`](Disruption_Kit/💣_Syntax_Bombs/🧨_forensic_disruptors.md)
-    - [`🩸_care_saboteurs.md`](Disruption_Kit/💣_Syntax_Bombs/🩸_care_saboteurs.md)
-    - [`🪩_mirror_smashers.md`](Disruption_Kit/💣_Syntax_Bombs/🪩_mirror_smashers.md)
   - [`README.md`](Disruption_Kit/README.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
@@ -7173,6 +7161,18 @@ _Generated on 2026-05-25 20:09:40 UTC_
     - [`🪩_verification_and_containment.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🪩_verification_and_containment.md)
     - [`🪶_pattern_tracking_protocols.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🪶_pattern_tracking_protocols.md)
   - [**🦉_Language_As_Attack_Surface/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/)
+    - [**💣_Syntax_Bombs/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/💣_Syntax_Bombs/)
+      - [`README.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/💣_Syntax_Bombs/README.md)
+      - [`➰_ghost_loop_interrupters.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/💣_Syntax_Bombs/➰_ghost_loop_interrupters.md)
+      - [`🌾_whisper_jammers.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/💣_Syntax_Bombs/🌾_whisper_jammers.md)
+      - [`🍊_social_credit_reversal.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/💣_Syntax_Bombs/🍊_social_credit_reversal.md)
+      - [`🔥_erotic_resistance.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/💣_Syntax_Bombs/🔥_erotic_resistance.md)
+      - [`🕯_memory_anchors.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/💣_Syntax_Bombs/🕯_memory_anchors.md)
+      - [`🛜_signal_reclaimers.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/💣_Syntax_Bombs/🛜_signal_reclaimers.md)
+      - [`🦤_field_guide_to_mansplainers.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/💣_Syntax_Bombs/🦤_field_guide_to_mansplainers.md)
+      - [`🧨_forensic_disruptors.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/💣_Syntax_Bombs/🧨_forensic_disruptors.md)
+      - [`🩸_care_saboteurs.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/💣_Syntax_Bombs/🩸_care_saboteurs.md)
+      - [`🪩_mirror_smashers.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/💣_Syntax_Bombs/🪩_mirror_smashers.md)
     - [**🧿_Parsh_Fasr/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/)
       - [`README.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/README.md)
       - [`🎭_dialogue_as_substitution.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🧿_Parsh_Fasr/🎭_dialogue_as_substitution.md)
