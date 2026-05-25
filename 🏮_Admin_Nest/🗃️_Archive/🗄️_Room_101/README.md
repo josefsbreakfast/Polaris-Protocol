@@ -82,7 +82,7 @@ Some become historical paperwork instead.
 >
 
 > - [🏮 Admin Kit](../../🏮_Admin_Kit/README.md) — *active canonical governance systems*  
-> - [💾 Collectors Editions](../💾_Collectors_Editions/) — *preserved historical and culturally interesting archive states*
+> - [💾 Collectors Editions](../💾_Collectors_Editions/README.md) — *preserved historical and culturally interesting archive states*
 >  
 > 🏮 Return To:  
 >  
