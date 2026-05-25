@@ -1,0 +1,91 @@
+🌕_5_Long_Strategies/
+└── 💎_Resource_Gathering/
+    │
+    ├── README.md
+    │
+    ├── 🧭_orientation_and_navigation/
+    │   ├── 🧭_how_to_use_this_folder.md
+    │   ├── 🪫_you_do_not_need_to_learn_everything.md
+    │   ├── 📡_how_to_identify_what_you_need.md
+    │   ├── 🗺️_starting_points_by_situation.md
+    │   └── 🪜_how_to_build_slowly_without_overload.md
+    │
+    ├── 🧠_learning_and_cognitive_systems/
+    │   ├── 🧠_learning_under_stress.md
+    │   ├── 🌱_slow_learning_is_real_learning.md
+    │   ├── 🪫_working_with_fluctuating_capacity.md
+    │   ├── 📚_how_to_read_without_overloading.md
+    │   ├── 🧩_externalising_memory_load.md
+    │   └── 🧬_capacity_is_part_of_strategy.md
+    │
+    ├── 📚_research_and_information_literacy/
+    │   ├── 📚_finding_good_sources.md
+    │   ├── 🛰️_how_to_verify_claims.md
+    │   ├── 📡_recognising_information_distortion.md
+    │   ├── 🧿_signal_vs_noise.md
+    │   ├── 🧬_how_context_changes_interpretation.md
+    │   └── 🪞_understanding_bias_without_paralysis.md
+    │
+    ├── 🗂️_personal_knowledge_infrastructure/
+    │   ├── 🗂️_building_a_reference_system.md
+    │   ├── 🧠_notes_you_can_actually_find_again.md
+    │   ├── 📦_preventing_information_hoarding.md
+    │   ├── 🪜_from_bookmarks_to_knowledge.md
+    │   ├── 📡_tagging_without_overengineering.md
+    │   └── 🧹_maintaining_systems_without_perfectionism.md
+    │
+    ├── 💾_archives_and_preservation/
+    │   ├── 💾_maintaining_personal_archives.md
+    │   ├── 🛰️_preserving_context_over_time.md
+    │   ├── 📜_documenting_without_burning_out.md
+    │   ├── 🧬_versioning_for_humans.md
+    │   ├── 🗃️_what_is_worth_keeping.md
+    │   └── 🪦_preventing_digital_disappearance.md
+    │
+    ├── 🛰️_verification_and_signal_analysis/
+    │   ├── 🛰️_basic_verification_workflows.md
+    │   ├── 🧿_spotting_manipulated_information.md
+    │   ├── 📡_how_to_cross_reference_sources.md
+    │   ├── 🧬_understanding_metadata_basics.md
+    │   ├── 🔍_recognising_false_authority_signals.md
+    │   └── ⚖️_evidence_vs_interpretation.md
+    │
+    ├── ⚖️_institutional_and_rights_navigation/
+    │   ├── ⚖️_building_a_case_file_system.md
+    │   ├── 📂_keeping_track_of_correspondence.md
+    │   ├── 🪜_understanding_escalation_pathways.md
+    │   ├── 🧾_organising_rights_information.md
+    │   ├── 🛰️_documenting_interactions_carefully.md
+    │   └── 🧠_protecting_yourself_from_admin_overload.md
+    │
+    ├── 🌱_sustainable_growth_and_capacity/
+    │   ├── 🌱_small_consistent_progress.md
+    │   ├── 🪫_avoiding_burnout_architectures.md
+    │   ├── 🧬_capacity_is_part_of_strategy.md
+    │   ├── 🪴_building_for_the_long_game.md
+    │   ├── ⚖️_rest_is_not_failure.md
+    │   └── 🧠_survivability_over_optimisation.md
+    │
+    ├── 🧩_adaptive_systems_for_different_brains/
+    │   ├── 🧩_build_systems_for_your_actual_brain.md
+    │   ├── 🪫_working_with_variable_functioning.md
+    │   ├── 📦_low_energy_organisation.md
+    │   ├── 🧠_externalising_memory_load.md
+    │   ├── 🌊_working_with_fluctuating_attention.md
+    │   └── 🪴_designing_for_accessibility_not_idealism.md
+    │
+    ├── 🪜_pathways_and_learning_routes/
+    │   ├── 🪜_start_here_if_overwhelmed.md
+    │   ├── 📚_beginner_to_advanced_research_path.md
+    │   ├── 🛰️_verification_learning_route.md
+    │   ├── ⚖️_rights_navigation_learning_route.md
+    │   ├── 🧠_building_systems_literacy_gradually.md
+    │   └── 🌱_how_to_keep_going_without_burning_out.md
+    │
+    └── 📦_templates_and_scaffolds/
+        ├── 📦_personal_archive_template.md
+        ├── 🗂️_case_tracking_template.md
+        ├── 📚_research_log_template.md
+        ├── 🧠_capacity_mapping_template.md
+        ├── 🛰️_verification_checklist_template.md
+        └── ⚖️_correspondence_tracking_template.md
