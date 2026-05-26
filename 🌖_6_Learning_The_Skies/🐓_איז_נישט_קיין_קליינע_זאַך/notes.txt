@@ -1,0 +1,44 @@
+🌖_6_Learning_The_Skies/
+└── 🐓_איז_נישט_קיין_קליינע_זאַך/
+    ├── README.md
+    ├── ⚪️_notes_for_white_readers.md
+    ├── 🧩_when_potent_witnesses_become_risk_objects.md
+    │
+    ├── ⚖️_Case_Study_Elbit/
+    │   ├── ⚖️_elbit_as_bridge_point_case_study.md
+    │   ├── ⚖️_when_one_company_becomes_the_precedent_risk.md
+    │   └── ⚖️_when_local_compliance_cannot_model_global_consequence.md
+    │
+    ├── 🧮_Risk_Modelling_And_Stress_Export/
+    │   ├── 🧮_when_the_machine_exports_stress.md
+    │   ├── ⚖️_extreme_wealth_as_modelling_discontinuity.md
+    │   └── ⚖️_extreme_wealth_and_the_thermodynamics_of_democracy.md
+    │
+    ├── ⚖️_Law_Public_Order_And_Emergency/
+    │   ├── ⚖️_anti_protest_law_as_risk_patch.md
+    │   ├── ⚖️_covid_emergency_powers_and_the_trained_emergency_muscle.md
+    │   └── ⚖️_when_everyone_was_just_doing_their_job.md
+    │
+    ├── 🕊️_Deescalation_And_Moral_Guardrails/
+    │   ├── 🕯️_universal_humanity_unequal_exposure.md
+    │   ├── 🕊️_deescalation_as_anti_atrocity_infrastructure.md
+    │   └── ⚖️_when_anti_genocide_strategy_goes_off_target.md
+    │
+    ├── 🪬_Jewish_AI_Ethics_And_Future_Systems/
+    │   ├── 🪬_questions_for_jewish_ai_ethics_and_future_systems.md
+    │   ├── 🪬_acheinu_fix_my_data.md
+    │   └── 🪬_ai_humanisation_and_kosher_living_questions.md
+    │
+    └── 🐓_Different_Bridges/
+        ├── 🐓_different_bridges_for_different_people.md
+        ├── 🐓_support_without_coercion.md
+        └── 🐓_how_to_create_space_before_counsel.md
+
+First build order
+	1.	README.md
+	2.	⚪️_notes_for_white_readers.md
+	3.	🧩_when_potent_witnesses_become_risk_objects.md
+	4.	⚖️_elbit_as_bridge_point_case_study.md
+	5.	🧮_when_the_machine_exports_stress.md
+	6.	🪬_questions_for_jewish_ai_ethics_and_future_systems.md
+	7.	🕊️_deescalation_as_anti_atrocity_infrastructure.md
