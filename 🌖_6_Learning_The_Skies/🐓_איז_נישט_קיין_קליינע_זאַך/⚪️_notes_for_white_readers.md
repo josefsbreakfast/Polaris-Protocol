@@ -16,7 +16,9 @@ But white Western publics are also part of the problem.
 
 White British, white American, white German, French, European, settler-colonial, imperial, NATO-adjacent, finance-adjacent, university-adjacent, media-adjacent, and defence-adjacent publics need to stop treating Jewish visibility as a convenient substitute for examining their own states, economies, militaries, banks, universities, media systems, defence industries, and colonial inheritances.
 
-The immediate problem is not being sustained by Israel alone.
+The immediate problem is not being sustained by the State of Israel alone.  
+
+> Guys: we are not secretly ruling the entire Western finacial and deep state systems. Examine your own ingrained core beliefs, please.   
 
 It is supported, financed, armed, justified, normalised, abstracted, delayed, and administratively managed through many other countries and institutions.
 
