@@ -70,3 +70,7 @@
         ├── 🐓_support_without_coercion.md
         ├── 🐓_how_to_create_space_before_counsel.md
         └── 🐓_religious_counsel_without_capture.md
+
+---
+
+> "This cluster uses Elbit as a bridge-point case study to examine how defence technology, legal compliance, protest pressure, public-order governance, diaspora visibility, AI risk modelling, and atrocity-prevention obligations become entangled under prolonged moral emergency. It asks religious scholars and grounded communities not for political recruitment, but for counsel: how to preserve human obligation, lawful judgment, and de-escalatory wisdom when institutions begin treating moral crisis as a risk-management problem."  
