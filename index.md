@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-26 01:49:42 UTC_
+_Generated on 2026-05-26 01:53:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6364,11 +6364,10 @@ _Generated on 2026-05-26 01:49:42 UTC_
     - [`🩻_safeguarding_logic_civil_systems.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩻_safeguarding_logic_civil_systems.md)
     - [`🩻_the_balance_of_legal_exposures.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🩻_the_balance_of_legal_exposures.md)
   - [**☁️_Kabbalist_Futurism/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/)
-    - [**🌳_Three_Overarching_Clusters/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🌳_Three_Overarching_Clusters/)
-      - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🌳_Three_Overarching_Clusters/README.md)
+    - [**🌾_Granary_Management/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🌾_Granary_Management/)
+      - [`🌳_three_overaching_clusters.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🌾_Granary_Management/🌳_three_overaching_clusters.md)
     - [**🍷_Always_Spiritually_In_Jerusalem/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🍷_Always_Spiritually_In_Jerusalem/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🍷_Always_Spiritually_In_Jerusalem/README.md)
-      - [`🌳_three_overaching_clusters.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🍷_Always_Spiritually_In_Jerusalem/🌳_three_overaching_clusters.md)
     - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/README.md)
   - [**🌸_Containment_Studies/**](🌑_1_Origin_Points/🌸_Containment_Studies/)
     - [**🌙_Everyday_Containment/**](🌑_1_Origin_Points/🌸_Containment_Studies/🌙_Everyday_Containment/)
