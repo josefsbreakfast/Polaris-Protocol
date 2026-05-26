@@ -96,6 +96,12 @@ For this moment, the request is simpler:
 
 > Let us build the bridge.
 
+Because we have to be honest:  
+
+> we sent her ourselves all the time as white People, and it's not really that clear why you're reading of this, needs to happen. Jewish people do not need to be uniquely parented, we do not need to be uniquely cared for in a way that means there is no legal accountability, and I don't think Palestine liberation is hanging on you as a white person checking that the Jews aren't schemeing.
+> 
+> Examine your own biases first, before interrupting our conversational space about what we're going to do to improve our behaviour.  
+
 ---
 
 ## 🌌 Constellations  
