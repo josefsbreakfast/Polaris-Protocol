@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-26 16:59:32 UTC_
+_Generated on 2026-05-26 17:00:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7334,6 +7334,7 @@ _Generated on 2026-05-26 16:59:32 UTC_
       - [`elbit_research_source_ledger.pdf`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/Notes/elbit_research_source_ledger.pdf)
       - [`notes.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/Notes/notes.md)
     - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/README.md)
+    - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/notes.txt)
     - [`⚪️_notes_for_white_readers.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚪️_notes_for_white_readers.md)
   - [**🐣_Ugly_Ducklings/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/)
     - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md)
