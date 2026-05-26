@@ -1,3 +1,85 @@
+v2:  
+
+🌖_6_Learning_The_Skies/
+└── 🐓_איז_נישט_קיין_קליינע_זאַך/
+    ├── README.md
+    ├── ⚪️_notes_for_white_readers.md
+    ├── 🧭_how_to_read_this_cluster.md
+    ├── 🧩_when_potent_witnesses_become_risk_objects.md
+    │
+    ├── ⚖️_Case_Study_Elbit/
+    │   ├── README.md
+    │   ├── ⚖️_elbit_as_bridge_point_case_study.md
+    │   ├── ⚖️_elbit_as_cross_system_load_bearing_node.md
+    │   ├── ⚖️_when_one_company_becomes_the_precedent_risk.md
+    │   └── ⚖️_when_local_compliance_cannot_model_global_consequence.md
+    │
+    ├── 🌸_Containment_Lens/
+    │   ├── README.md
+    │   ├── 🌸_when_compliance_becomes_containment.md
+    │   ├── 🌸_defence_opacity_and_public_suspicion.md
+    │   ├── 🌸_public_order_as_boundary_hardening.md
+    │   └── 🌸_who_absorbs_the_instability.md
+    │
+    ├── 🧄_Authority_And_Legitimacy_Lens/
+    │   ├── README.md
+    │   ├── 🧄_authority_after_atrocity_risk.md
+    │   ├── 🧄_stewardship_when_procurement_becomes_moral_pressure.md
+    │   ├── 🧄_legitimacy_cannot_be_outsourced_to_compliance.md
+    │   └── 🧄_what_religious_scholars_are_being_asked_to_notice.md
+    │
+    ├── 🦑_CRAKEN_Reflexive_Risk_Lens/
+    │   ├── README.md
+    │   ├── 🦑_elbit_as_reflexive_pressure_node.md
+    │   ├── 🦑_alliance_signalling_and_misread_catastrophe.md
+    │   ├── 🦑_when_pressure_on_one_node_remodels_the_web.md
+    │   └── 🦑_do_not_kick_the_sleeping_kraken.md
+    │
+    ├── 🧮_Risk_Modelling_And_Stress_Export/
+    │   ├── README.md
+    │   ├── 🧮_when_the_machine_exports_stress.md
+    │   ├── 🧮_the_human_error_term.md
+    │   ├── 🧮_models_cannot_hold_moral_obligation.md
+    │   ├── ⚖️_extreme_wealth_as_modelling_discontinuity.md
+    │   └── ⚖️_extreme_wealth_and_the_thermodynamics_of_democracy.md
+    │
+    ├── ⚖️_Law_Public_Order_And_Emergency/
+    │   ├── README.md
+    │   ├── ⚖️_anti_protest_law_as_risk_patch.md
+    │   ├── ⚖️_covid_emergency_powers_and_the_trained_emergency_muscle.md
+    │   ├── ⚖️_when_everyone_was_just_doing_their_job.md
+    │   └── ⚖️_the_icj_framework_as_minimum_legal_weather.md
+    │
+    ├── 🕊️_Deescalation_And_Moral_Guardrails/
+    │   ├── README.md
+    │   ├── 🕯️_universal_humanity_unequal_exposure.md
+    │   ├── 🕊️_deescalation_as_anti_atrocity_infrastructure.md
+    │   ├── ⚖️_when_anti_genocide_strategy_goes_off_target.md
+    │   ├── 🕊️_rehumanisation_is_not_absolution.md
+    │   └── 🕊️_do_not_confuse_expression_with_effect.md
+    │
+    ├── 🪬_Jewish_AI_Ethics_And_Future_Systems/
+    │   ├── README.md
+    │   ├── 🪬_questions_for_jewish_ai_ethics_and_future_systems.md
+    │   ├── 🪬_acheinu_fix_my_data.md
+    │   ├── 🪬_ai_humanisation_and_kosher_living_questions.md
+    │   ├── 🪬_what_kind_of_human_is_the_model_assuming.md
+    │   └── 🪬_counsel_before_automation.md
+    │
+    └── 🐓_Different_Bridges/
+        ├── README.md
+        ├── 🐓_different_bridges_for_different_people.md
+        ├── 🐓_support_without_coercion.md
+        ├── 🐓_how_to_create_space_before_counsel.md
+        └── 🐓_religious_counsel_without_capture.md
+
+
+
+---
+---
+
+v1:  
+
 Yes — here’s a cluster + node skeleton, not full nodes. This keeps the architecture visible without getting stuck polishing names yet.
 
 # 🐓 איז נישט קיין קליינע זאַך — Mini-Cluster Skeleton  
