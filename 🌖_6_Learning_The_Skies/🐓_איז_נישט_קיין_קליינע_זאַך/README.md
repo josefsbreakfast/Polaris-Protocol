@@ -1,7 +1,7 @@
 # 🐓 איז נישט קיין קליינע זאַך  
 **First created:** 2026-05-26 | **Last updated:** 2026-05-26  
 *A bridge note offered with respect to Yiddish-speaking, traditionally grounded, and scholarly Jewish communities.*
-
+<!-- -->
 ---
 
 ## אַ קליינע הקדמה / A Small Introduction  
