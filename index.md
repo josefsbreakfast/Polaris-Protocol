@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-26 15:27:46 UTC_
+_Generated on 2026-05-26 15:31:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7328,6 +7328,10 @@ _Generated on 2026-05-26 15:27:46 UTC_
   - [**🐓_איז_נישט_קיין_קליינע_זאַך/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/)
     - [**Notes/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/Notes/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/Notes/README.md)
+      - [`elbit_cross_system_load_bearing_research_pack.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/Notes/elbit_cross_system_load_bearing_research_pack.md)
+      - [`elbit_cross_system_load_bearing_research_pack.pdf`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/Notes/elbit_cross_system_load_bearing_research_pack.pdf)
+      - [`elbit_research_source_ledger.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/Notes/elbit_research_source_ledger.md)
+      - [`elbit_research_source_ledger.pdf`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/Notes/elbit_research_source_ledger.pdf)
     - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/README.md)
   - [**🐣_Ugly_Ducklings/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/)
     - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md)
