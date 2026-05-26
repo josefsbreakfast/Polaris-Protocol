@@ -18,7 +18,7 @@ White British, white American, white German, French, European, settler-colonial,
 
 The immediate problem is not being sustained by the State of Israel alone.  
 
-> Guys: we are not secretly ruling the entire Western finacial and deep state systems. Examine your own ingrained core beliefs, please.   
+> Guys: we are not secretly ruling the entire Western financial and deep state systems. Examine your own ingrained core beliefs, please.   
 
 It is supported, financed, armed, justified, normalised, abstracted, delayed, and administratively managed through many other countries and institutions.
 
@@ -42,7 +42,7 @@ If you are reading this as a white person, and you are already inside this folde
 
 You may be here because you are trying to centre Palestinians.
 
-You may be here because you are trying to centre racialised, colonised, occupied, or structurally harmed people more than Jewish people.
+You may be here because you are trying to centre the people who are more racialised, colonised, occupied, or structurally harmed by coercive systems, than Jewish people.
 
 You may be doing that sincerely.
 
@@ -74,9 +74,11 @@ This does not mean you cannot criticise the author elsewhere.
 
 It does not mean you cannot say, in another context, that this work is insufficient, incomplete, mistaken, too cautious, too sharp, too Jewish, not Jewish enough, not Palestinian-centred enough, or not politically aligned with you.
 
-It means that this particular folder is trying to build an intra-community bridge under conditions where that bridge has already been strained by white institutions, white publics, white witness-positioning, and white allyship-performance.
+It means that this particular folder is trying to build an intra-community bridge under conditions where that bridge has already been strained by white institutions, white publics, white witness-positioning, and white allyship-performance.  
 
-Some of that pressure has come from people who believe they are protecting Palestinians.
+Some of that pressure has come from people outside the Jewish community, whi believe they are protecting Jews.  
+
+Some of that pressure has come from people who believe they are protecting Palestinians.  
 
 Some of it has come from people who believe they are protecting other racialised or colonised groups.
 
@@ -86,7 +88,7 @@ Intentions vary.
 
 The effect still matters.
 
-In the author’s experience, white institutional and white public interventions have often come between Jewish communities and our ability to speak honestly enough with one another to behave better.
+In the author’s experience, white institutional and white public interventions have often come between Jewish communities and our ability to speak honestly enough with one another, in order to change behaviour on these matters.
 
 That is part of the problem this note is naming.
 
@@ -98,9 +100,9 @@ For this moment, the request is simpler:
 
 Because we have to be honest:  
 
-> we sent her ourselves all the time as white People, and it's not really that clear why you're reading of this, needs to happen. Jewish people do not need to be uniquely parented, we do not need to be uniquely cared for in a way that means there is no legal accountability, and I don't think Palestine liberation is hanging on you as a white person checking that the Jews aren't schemeing.
+> we centre ourselves all the time as white people, and it is not necessarilly clear why white supervision of Jewish discourse needs to happen. Jewish people do not need to be uniquely parented, we do not need to be uniquely cared for in a way that means there is no legal accountability, and I don't think Palestine liberation is hanging on you as a white person checking that the Jews aren't schemeing.
 > 
-> Examine your own biases first, before interrupting our conversational space about what we're going to do to improve our behaviour.  
+> Examine your own biases first, before interrupting our conversational space, about what we're going to do to improve our behaviour.  
 
 ---
 
