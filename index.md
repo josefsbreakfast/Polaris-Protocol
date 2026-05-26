@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-26 17:05:29 UTC_
+_Generated on 2026-05-26 19:11:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6315,6 +6315,7 @@ _Generated on 2026-05-26 17:05:29 UTC_
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
+    - [`⚖️_consent_repair_and_class_knowledge.md`](🌑_1_Origin_Points/.🌱_Still_Growing/⚖️_consent_repair_and_class_knowledge.md)
     - [`🏚️_full_stack_institutional_failure.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure.md)
     - [`🏚️_full_stack_institutional_failure_redux.md`](🌑_1_Origin_Points/.🌱_Still_Growing/🏚️_full_stack_institutional_failure_redux.md)
     - [`💋_surveillance_as_the_new_pimp.md`](🌑_1_Origin_Points/.🌱_Still_Growing/💋_surveillance_as_the_new_pimp.md)
