@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-26 01:56:42 UTC_
+_Generated on 2026-05-26 14:39:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7325,6 +7325,8 @@ _Generated on 2026-05-26 01:56:42 UTC_
     - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/README.md)
     - [`🛟_epistemic_safety_and_complexity.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🛟_epistemic_safety_and_complexity.md)
     - [`🧭_how_to_use_this_cluster.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🧭_how_to_use_this_cluster.md)
+  - [**🐓_איז_נישט_קיין_קליינע_זאַך/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/)
+    - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/README.md)
   - [**🐣_Ugly_Ducklings/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/)
     - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md)
   - [`README.md`](🌖_6_Learning_The_Skies/README.md)
