@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-26 23:54:38 UTC_
+_Generated on 2026-05-26 23:56:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7334,6 +7334,8 @@ _Generated on 2026-05-26 23:54:38 UTC_
       - [`elbit_research_source_ledger.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/Notes/elbit_research_source_ledger.md)
       - [`elbit_research_source_ledger.pdf`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/Notes/elbit_research_source_ledger.pdf)
       - [`notes.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/Notes/notes.md)
+    - [**⚖️_Stress_Object_Case_Study/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/README.md)
     - [**🌸_Containment_Lens/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌸_Containment_Lens/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌸_Containment_Lens/README.md)
     - [**🦑_CRAKEN_Cartography/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/)
