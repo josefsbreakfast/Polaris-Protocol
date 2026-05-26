@@ -100,9 +100,11 @@ For this moment, the request is simpler:
 
 Because we have to be honest:  
 
-> we centre ourselves all the time as white people, and it is not necessarilly clear why white supervision of Jewish discourse needs to happen. Jewish people do not need to be uniquely parented, we do not need to be uniquely cared for in a way that means there is no legal accountability, and I don't think Palestine liberation is hanging on you as a white person checking that the Jews aren't schemeing.
+> we centre ourselves all the time as white people, and it is not necessarily clear why white supervision of Jewish discourse needs to happen.
 > 
-> Examine your own biases first, before interrupting our conversational space, about what we're going to do to improve our behaviour.  
+> Jewish people do not need to be uniquely parented by white referees, we do not need to be uniquely cared for in a way that means there is no legal accountability, and Palestinian liberation may not be hanging on you as a white person checking that "the Jews" aren't "schemeing".  
+> 
+> Examine your own biases first, before interrupting our conversational space about what we're going to do to improve our behaviour.  
 
 ---
 
