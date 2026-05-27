@@ -1,5 +1,5 @@
 # 🌱 Containment And Sacrifice Zones  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining how systems preserve stability by designating certain populations, regions, bodies, environments, or institutions as acceptable sites of concentrated instability and loss.*  
 
 ---
@@ -370,10 +370,11 @@ It studies:
 
 > 📡 Cross-references:
 >
-> - [🌱 Pressure Distribution](./🌱_pressure_distribution.md) — load-bearing systems and instability allocation  
-> - [🌱 Recursive Containment](./🌱_recursive_containment.md) — containment systems reproducing secondary instability structures  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — justice as load-bearing, stewardship, and reciprocal survivability systems  
+> - [🌱 Recursive Containment](./🌱_recursive_containment.md) — *defensive expansion, containment recursion, and procedural layering systems*  
+> - [🌱 Containment And Scale](./🌱_containment_and_scale.md) — *abstraction, procedural distance, and large-scale coordination pressures*  
+> - [🌱 Containment Failure Modes](./🌱_containment_failure_modes.md) — *rigidity collapse, overcontainment, and adaptive failure dynamics*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *justice as load-bearing, stewardship, and reciprocal survivability systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
