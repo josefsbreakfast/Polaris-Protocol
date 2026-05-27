@@ -1,5 +1,5 @@
 # 🌱 Containment And Legitimacy  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining how legitimacy shapes the acceptance, endurance, and limits of containment systems.*  
 
 ---
@@ -391,10 +391,12 @@ It studies:
 
 > 📡 Cross-references:
 >
-> - [🌱 Protective Vs Coercive Containment](./🌱_protective_vs_coercive_containment.md) — evaluating stabilisation, extraction, and survivability  
-> - [🌱 What Is Containment](./🌱_what_is_containment.md) — foundational containment definition node  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — legitimacy cultivation, stewardship, and adaptive governance systems  
+> - [🌱 What Is Containment](./🌱_what_is_containment.md) — *defining containment as pressure regulation, boundary management, and governability infrastructure*  
+> - [🌱 Boundary And Membrane](./🌱_boundary_and_membrane.md) — *adaptive boundaries, permeability, and living regulation systems*  
+> - [🌱 Why Systems Contain](./🌱_why_systems_contain.md) — *survivability incentives, coordination pressures, and stabilisation reflexes*  
+> - [🌱 Protective Vs Coercive Containment](./🌱_protective_vs_coercive_containment.md) — *stabilisation versus extraction and immobilisation dynamics*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *legitimacy cultivation, stewardship, and adaptive governance systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
