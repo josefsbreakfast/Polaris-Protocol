@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-27 22:39:20 UTC_
+_Generated on 2026-05-27 22:40:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6380,6 +6380,7 @@ _Generated on 2026-05-27 22:39:20 UTC_
       - [`notes.txt`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/notes.txt)
       - [`🌱_adaptive_vs_rigid_systems.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_adaptive_vs_rigid_systems.md)
       - [`🌱_boundary_and_membrane.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_boundary_and_membrane.md)
+      - [`🌱_containment_and_identity.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_and_identity.md)
       - [`🌱_containment_and_legitimacy.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_and_legitimacy.md)
       - [`🌱_containment_and_time.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_and_time.md)
       - [`🌱_containment_and_visibility.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_and_visibility.md)
