@@ -1,8 +1,4 @@
-🌱_adaptive_vs_rigid_systems.md
-🌱_containment_as_survival_reflex.md
-🌱_governability_and_complexity.md
-🌱_containment_and_visibility.md
-🌱_pressure_distribution.md
+
 
 🌱_containment_and_time.md
 🌱_temporary_measures_and_permanent_systems.md
