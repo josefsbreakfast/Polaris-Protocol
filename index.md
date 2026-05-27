@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-27 00:01:11 UTC_
+_Generated on 2026-05-27 00:03:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7348,6 +7348,8 @@ _Generated on 2026-05-27 00:01:11 UTC_
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧄_Exousiological_Dynamics/README.md)
     - [**🧮_Stress_Export_Modelling/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧮_Stress_Export_Modelling/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧮_Stress_Export_Modelling/README.md)
+    - [**🪬_Golem_Ethics_For_AI/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🪬_Golem_Ethics_For_AI/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🪬_Golem_Ethics_For_AI/README.md)
     - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/README.md)
     - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/notes.txt)
     - [`⚪️_notes_for_white_readers.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚪️_notes_for_white_readers.md)
