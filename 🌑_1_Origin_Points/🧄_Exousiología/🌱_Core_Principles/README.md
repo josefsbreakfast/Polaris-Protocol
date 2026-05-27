@@ -1,5 +1,5 @@
 # 🌱 Core Principles  
-**First created:** 2026-05-05 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-05 | **Last updated:** 2026-05-28  
 *Foundational commitments and diagnostic orientations grounding how authority, legitimacy, stewardship, and survivable governance are understood within 🧄 Exousiología.*
 
 ---
@@ -404,4 +404,4 @@ It provides the conceptual grammar for examining:
 
 *Authority is relational. Stewardship is load-bearing. Stability must remain livable.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
