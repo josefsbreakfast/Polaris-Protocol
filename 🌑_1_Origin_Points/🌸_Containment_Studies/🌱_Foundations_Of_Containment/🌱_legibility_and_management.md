@@ -1,5 +1,5 @@
 # 🌱 Legibility And Management  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining how systems render reality visible, measurable, categorisable, and administratively manageable in order to preserve coordination and governability across scale.*  
 
 ---
@@ -372,10 +372,10 @@ It studies:
 
 > 📡 Cross-references:
 >
-> - [🌱 Governability And Complexity](./🌱_governability_and_complexity.md) — complexity compression and procedural coordination systems  
-> - [🌱 Containment And Visibility](./🌱_containment_and_visibility.md) — perceptual governance and visibility regulation systems  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — stewardship, relational legitimacy, and adaptive governance beyond administrative compression  
+> - [🌱 Governability And Complexity](./🌱_governability_and_complexity.md) — *complexity compression and administratively manageable reality systems*  
+> - [🌱 Containment And Visibility](./🌱_containment_and_visibility.md) — *perceptual governance, symbolic visibility, and attention regulation systems*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *stewardship, relational legitimacy, and adaptive governance beyond administrative compression*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
