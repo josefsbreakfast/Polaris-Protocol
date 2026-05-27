@@ -1,5 +1,5 @@
 # 🌱 Boundary And Membrane  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining the difference between rigid enclosure, adaptive boundaries, and living regulatory systems.*  
 
 ---
@@ -357,10 +357,13 @@ It distinguishes between:
 
 > 📡 Cross-references:
 >
-> - [🌱 What Is Containment](./🌱_what_is_containment.md) — foundational containment definition node  
-> - [🌿 Ecologies Of Containment](../🌿_Ecologies_Of_Containment/) — adaptive stewardship and living systems framing  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — legitimacy, stewardship, and relational governance systems  
+> - [🌱 What Is Containment](./🌱_what_is_containment.md) — *defining containment as pressure regulation, boundary management, and governability infrastructure*  
+> - [🌱 Why Systems Contain](./🌱_why_systems_contain.md) — *survivability incentives, coordination pressures, and stabilisation reflexes*  
+> - [🌱 Protective Vs Coercive Containment](./🌱_protective_vs_coercive_containment.md) — *stabilisation versus extraction and immobilisation dynamics*  
+> - [🌱 Containment And Legitimacy](./🌱_containment_and_legitimacy.md) — *compliance, trust, governability, and adaptive legitimacy systems*  
+> - [🌿 Ecologies Of Containment](../🌿_Ecologies_Of_Containment/README.md) — *adaptive stewardship and living systems framing*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational governance systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
