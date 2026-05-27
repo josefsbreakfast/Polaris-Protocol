@@ -84,7 +84,7 @@ Instead, it functions as:
 
 ---
 
-## 🌑 [What Is Authority](./🌑_what_is_authority.md)  
+## 🌑 [What Is Authority?](./🌑_what_is_authority.md)  
 
 Defines authority as:
 > the socially recognised capacity to shape collective reality.
