@@ -1,5 +1,5 @@
 # 🌱 Pressure Distribution  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining how systems allocate, absorb, conceal, externalise, and redistribute instability across bodies, institutions, environments, and social structures.*  
 
 ---
@@ -359,10 +359,11 @@ It studies:
 
 > 📡 Cross-references:
 >
-> - [🌱 Protective Vs Coercive Containment](./🌱_protective_vs_coercive_containment.md) — stabilisation, extraction, and survivability tensions  
-> - [🌱 Adaptive Vs Rigid Systems](./🌱_adaptive_vs_rigid_systems.md) — feedback, resilience, and pressure metabolisation systems  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — stewardship, justice as load-bearing, and adaptive legitimacy systems  
+> - [🌱 Stability And Overflow](./🌱_stability_and_overflow.md) — *overload, rupture, buffering, and instability accumulation systems*  
+> - [🌱 Containment As Survival Reflex](./🌱_containment_as_survival_reflex.md) — *overload response, defensive coordination, and chronic threat systems*  
+> - [🌱 Adaptive Vs Rigid Systems](./🌱_adaptive_vs_rigid_systems.md) — *resilience, feedback integration, and brittleness under pressure*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *stewardship, justice as load-bearing, and adaptive legitimacy systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
