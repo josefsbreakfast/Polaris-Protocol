@@ -1,5 +1,5 @@
 # 🌱 What Is Containment  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Foundational definition node for containment as a systemic response to instability, overflow, uncertainty, and perceived threat.*  
 
 ---
@@ -323,12 +323,15 @@ It examines containment as:
 - symbolic regulation,
 - and systemic pressure coordination across social, institutional, emotional, and political systems.
 
-> 📡 Cross-references:
->
-> - [🌱 Foundations Of Containment](README.md) — conceptual grammar and root framework  
-> - [🌸 Containment Studies](../README.md) — wider containment systems cluster  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — legitimacy, stewardship, and adaptive governance systems  
+> 📡 Cross-references:  
+>  
+> - [🌱 Boundary And Membrane](./🌱_boundary_and_membrane.md) — *adaptive boundaries, permeability, and living regulation systems*  
+> - [🌱 Why Systems Contain](./🌱_why_systems_contain.md) — *survivability incentives, coordination pressures, and stabilisation reflexes*  
+> - [🌱 Protective Vs Coercive Containment](./🌱_protective_vs_coercive_containment.md) — *stabilisation versus extraction and immobilisation dynamics*  
+> - [🌱 Containment And Legitimacy](./🌱_containment_and_legitimacy.md) — *compliance, trust, governability, and adaptive legitimacy systems*  
+> - [🌸 Containment Studies](../README.md) — *wider containment systems cluster*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and adaptive governance systems*   
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
