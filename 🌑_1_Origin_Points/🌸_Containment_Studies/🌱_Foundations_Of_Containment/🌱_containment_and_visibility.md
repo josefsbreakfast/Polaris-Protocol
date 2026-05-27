@@ -1,5 +1,5 @@
 # 🌱 Containment And Visibility  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining how systems regulate visibility, legibility, attention, and perception in order to maintain stability and governability.*  
 
 ---
@@ -388,10 +388,11 @@ It studies:
 
 > 📡 Cross-references:
 >
-> - [🌱 Governability And Complexity](./🌱_governability_and_complexity.md) — complexity compression and administrative legibility  
-> - [📚 Narrative Management](../../🌀_System_Governance/📚_Narrative_Management/) — symbolic governance and reputational containment systems  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — legitimacy, witnessing, and adaptive governance continuity systems  
+> - [🌱 Governability And Complexity](./🌱_governability_and_complexity.md) — *complexity compression and administratively manageable reality systems*  
+> - [🌱 Legibility And Management](./🌱_legibility_and_management.md) — *measurement, categorisation, and governance through legibility infrastructures*  
+> - [📚 Narrative Management] — *symbolic governance and reputational containment systems*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *legitimacy, witnessing, and adaptive governance continuity systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
