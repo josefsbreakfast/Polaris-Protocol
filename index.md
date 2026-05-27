@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-27 22:41:18 UTC_
+_Generated on 2026-05-27 22:44:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6381,11 +6381,14 @@ _Generated on 2026-05-27 22:41:18 UTC_
       - [`🌱_boundary_and_membrane.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_boundary_and_membrane.md)
       - [`🌱_containment_and_identity.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_and_identity.md)
       - [`🌱_containment_and_legitimacy.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_and_legitimacy.md)
+      - [`🌱_containment_and_sacrifice_zones.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_and_sacrifice_zones.md)
       - [`🌱_containment_and_time.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_and_time.md)
       - [`🌱_containment_and_visibility.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_and_visibility.md)
       - [`🌱_containment_as_survival_reflex.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_as_survival_reflex.md)
+      - [`🌱_containment_failure_modes.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_failure_modes.md)
       - [`🌱_governability_and_complexity.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_governability_and_complexity.md)
       - [`🌱_internalised_containment.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_internalised_containment.md)
+      - [`🌱_legibility_and_management.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_legibility_and_management.md)
       - [`🌱_pressure_distribution.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_pressure_distribution.md)
       - [`🌱_protective_vs_coercive_containment.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_protective_vs_coercive_containment.md)
       - [`🌱_stability_and_overflow.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_stability_and_overflow.md)
