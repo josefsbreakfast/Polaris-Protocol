@@ -1,5 +1,5 @@
 # 🌱 Containment And Scale  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining how containment systems change across scale, why coordination becomes more difficult in large systems, and how scale reshapes legitimacy, perception, governability, and survivability.*  
 
 ---
@@ -371,10 +371,11 @@ It studies:
 
 > 📡 Cross-references:
 >
-> - [🌱 Legibility And Management](./🌱_legibility_and_management.md) — administrative abstraction and governable visibility systems  
-> - [🌱 Recursive Containment](./🌱_recursive_containment.md) — containment expansion and defensive governance recursion systems  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — distributed stewardship, nested governance, and adaptive ecological coordination systems  
+> - [🌱 Recursive Containment](./🌱_recursive_containment.md) — *defensive expansion, containment recursion, and procedural layering systems*  
+> - [🌱 Containment And Sacrifice Zones](./🌱_containment_and_sacrifice_zones.md) — *instability concentration, expendability systems, and hidden extraction structures*  
+> - [🌱 Containment Failure Modes](./🌱_containment_failure_modes.md) — *rigidity collapse, overcontainment, and adaptive failure dynamics*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *distributed stewardship, nested governance, and adaptive ecological coordination systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
