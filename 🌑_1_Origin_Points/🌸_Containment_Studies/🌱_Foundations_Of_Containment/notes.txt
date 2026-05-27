@@ -1,20 +1,15 @@
-1. 🌱_what_is_containment.md
-2. 🌱_boundary_and_membrane.md
-3. 🌱_stability_and_overflow.md
-4. 🌱_why_systems_contain.md
-5. 🌱_protective_vs_coercive_containment.md
-6. 🌱_containment_and_legitimacy.md
-
 🌱_adaptive_vs_rigid_systems.md
 🌱_containment_as_survival_reflex.md
 🌱_governability_and_complexity.md
 🌱_containment_and_visibility.md
 🌱_pressure_distribution.md
+
 🌱_containment_and_time.md
 🌱_temporary_measures_and_permanent_systems.md
 🌱_internalised_containment.md
 🌱_symbolic_containment.md
 🌱_containment_and_identity.md
+
 🌱_containment_failure_modes.md
 🌱_containment_and_sacrifice_zones.md
 🌱_recursive_containment.md
