@@ -1,5 +1,5 @@
 # 🌱 Protective Vs Coercive Containment  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Distinguishing between containment systems that preserve livability and those that immobilise, extract, or concentrate vulnerability.*  
 
 ---
@@ -357,10 +357,12 @@ It studies:
 
 > 📡 Cross-references:
 >
-> - [🌱 Why Systems Contain](./🌱_why_systems_contain.md) — containment incentives and coordination pressures  
-> - [🌱 Containment And Legitimacy](./🌱_containment_and_legitimacy.md) — trust, consent, and governance endurance  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — stewardship, legitimacy, and adaptive governance systems  
+> - [🌱 What Is Containment](./🌱_what_is_containment.md) — *defining containment as pressure regulation, boundary management, and governability infrastructure*  
+> - [🌱 Boundary And Membrane](./🌱_boundary_and_membrane.md) — *adaptive boundaries, permeability, and living regulation systems*  
+> - [🌱 Why Systems Contain](./🌱_why_systems_contain.md) — *survivability incentives, coordination pressures, and stabilisation reflexes*  
+> - [🌱 Containment And Legitimacy](./🌱_containment_and_legitimacy.md) — *compliance, trust, governability, and adaptive legitimacy systems*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *stewardship, legitimacy, and adaptive governance systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
