@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-27 00:09:07 UTC_
+_Generated on 2026-05-27 00:14:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7336,22 +7336,31 @@ _Generated on 2026-05-27 00:09:07 UTC_
       - [`notes.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/Notes/notes.md)
     - [**⚖️_Legal_Context/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Legal_Context/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Legal_Context/README.md)
+      - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Legal_Context/notes.txt)
     - [**⚖️_Stress_Object_Case_Study/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/README.md)
+      - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/notes.txt)
     - [**🌸_Containment_Lens/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌸_Containment_Lens/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌸_Containment_Lens/README.md)
+      - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌸_Containment_Lens/notes.txt)
     - [**🌾_Weaving_Bridges/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌾_Weaving_Bridges/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌾_Weaving_Bridges/README.md)
+      - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌾_Weaving_Bridges/notes.txt)
     - [**🕊️_Moral_Guardrails/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🕊️_Moral_Guardrails/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🕊️_Moral_Guardrails/README.md)
+      - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🕊️_Moral_Guardrails/notes.txt)
     - [**🦑_CRAKEN_Cartography/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/README.md)
+      - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/notes.txt)
     - [**🧄_Exousiological_Dynamics/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧄_Exousiological_Dynamics/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧄_Exousiological_Dynamics/README.md)
+      - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧄_Exousiological_Dynamics/notes.txt)
     - [**🧮_Stress_Export_Modelling/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧮_Stress_Export_Modelling/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧮_Stress_Export_Modelling/README.md)
+      - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧮_Stress_Export_Modelling/notes.txt)
     - [**🪬_Golem_Ethics_For_AI/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🪬_Golem_Ethics_For_AI/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🪬_Golem_Ethics_For_AI/README.md)
+      - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🪬_Golem_Ethics_For_AI/notes.txt)
     - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/README.md)
     - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/notes.txt)
     - [`⚪️_notes_for_white_readers.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚪️_notes_for_white_readers.md)
