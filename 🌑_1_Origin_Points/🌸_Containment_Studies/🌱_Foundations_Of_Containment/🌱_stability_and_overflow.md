@@ -1,5 +1,5 @@
 # 🌱 Stability And Overflow  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining how systems respond to excess, overload, contradiction, accumulation pressure, and destabilising flow.*  
 
 ---
@@ -368,12 +368,13 @@ It studies:
 - rupture dynamics,
 - and the distinction between adaptive resilience and brittle stability.
 
-> 📡 Cross-references:
->
-> - [🌱 Boundary And Membrane](./🌱_boundary_and_membrane.md) — adaptive regulation and permeability systems  
-> - [🌱 What Is Containment](./🌱_what_is_containment.md) — foundational containment definition node  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — legitimacy, stewardship, and metabolisation-oriented governance systems  
+> 📡 Cross-references:  
+>  
+> - [🌱 Pressure Distribution](./🌱_pressure_distribution.md) — *hidden load-bearing structures and instability allocation systems*  
+> - [🌱 Containment As Survival Reflex](./🌱_containment_as_survival_reflex.md) — *overload response, defensive coordination, and chronic threat systems*  
+> - [🌱 Adaptive Vs Rigid Systems](./🌱_adaptive_vs_rigid_systems.md) — *resilience, feedback integration, and brittleness under pressure*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and metabolisation-oriented governance systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
