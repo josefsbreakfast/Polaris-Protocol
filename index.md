@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-27 20:50:06 UTC_
+_Generated on 2026-05-27 20:51:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7338,6 +7338,8 @@ _Generated on 2026-05-27 20:50:06 UTC_
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Legal_Context/README.md)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Legal_Context/notes.txt)
       - [`⚖️_anti_protest_law_as_risk_patch.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Legal_Context/⚖️_anti_protest_law_as_risk_patch.md)
+      - [`⚖️_covid_emergency_powers_and_the_trained_emergency_muscle.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Legal_Context/⚖️_covid_emergency_powers_and_the_trained_emergency_muscle.md)
+      - [`⚖️_when_everyone_was_just_doing_their_job.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Legal_Context/⚖️_when_everyone_was_just_doing_their_job.md)
     - [**⚖️_Stress_Object_Case_Study/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/README.md)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/notes.txt)
