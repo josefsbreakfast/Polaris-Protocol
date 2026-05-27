@@ -1,5 +1,5 @@
 # 🌱 Governability And Complexity  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining how systems compress complexity in order to maintain coordination, predictability, and governability under pressure.*  
 
 ---
@@ -369,12 +369,12 @@ It studies:
 - complexity metabolisation,
 - and the tension between administrative coordination and livable reality.
 
-> 📡 Cross-references:
->
-> - [🌱 Containment As Survival Reflex](./🌱_containment_as_survival_reflex.md) — overload, threat perception, and defensive coordination systems  
-> - [🌱 Containment And Visibility](./🌱_containment_and_visibility.md) — visibility governance and perceptual regulation  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — stewardship, adaptive legitimacy, and complexity metabolisation systems  
+> 📡 Cross-references:  
+>  
+> - [🌱 Containment And Visibility](./🌱_containment_and_visibility.md) — *perceptual governance, symbolic visibility, and attention regulation systems*  
+> - [🌱 Legibility And Management](./🌱_legibility_and_management.md) — *measurement, categorisation, and governance through legibility infrastructures*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *stewardship, adaptive legitimacy, and complexity metabolisation systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
