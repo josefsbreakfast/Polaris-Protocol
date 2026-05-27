@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-27 22:32:17 UTC_
+_Generated on 2026-05-27 22:34:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6384,6 +6384,7 @@ _Generated on 2026-05-27 22:32:17 UTC_
       - [`🌱_containment_and_visibility.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_and_visibility.md)
       - [`🌱_containment_as_survival_reflex.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_as_survival_reflex.md)
       - [`🌱_governability_and_complexity.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_governability_and_complexity.md)
+      - [`🌱_pressure_distribution.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_pressure_distribution.md)
       - [`🌱_protective_vs_coercive_containment.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_protective_vs_coercive_containment.md)
       - [`🌱_stability_and_overflow.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_stability_and_overflow.md)
       - [`🌱_what_is_containment.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_what_is_containment.md)
