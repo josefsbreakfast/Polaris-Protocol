@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-27 20:55:49 UTC_
+_Generated on 2026-05-27 20:58:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7342,8 +7342,10 @@ _Generated on 2026-05-27 20:55:49 UTC_
       - [`⚖️_when_everyone_was_just_doing_their_job.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Legal_Context/⚖️_when_everyone_was_just_doing_their_job.md)
     - [**⚖️_Stress_Object_Case_Study/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/README.md)
-      - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/notes.txt)
+      - [`⚖️_the_cross_system_load_bearing_node.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/⚖️_the_cross_system_load_bearing_node.md)
       - [`⚖️_the_defence_tech_stress_object.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/⚖️_the_defence_tech_stress_object.md)
+      - [`⚖️_when_local_compliance_cannot_model_global_consequence.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/⚖️_when_local_compliance_cannot_model_global_consequence.md)
+      - [`⚖️_when_one_company_becomes_the_precedent_risk.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/⚖️_when_one_company_becomes_the_precedent_risk.md)
     - [**🌸_Containment_Lens/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌸_Containment_Lens/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌸_Containment_Lens/README.md)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌸_Containment_Lens/notes.txt)
