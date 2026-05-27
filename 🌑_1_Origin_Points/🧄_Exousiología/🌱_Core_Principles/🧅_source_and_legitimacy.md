@@ -1,5 +1,5 @@
 # 🧅 Source And Legitimacy  
-**First created:** 2026-05-05 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-05 | **Last updated:** 2026-05-28  
 *Examining how legitimacy forms, persists, erodes, and renews through reciprocity, recognition, survivability, embodied consequence, and adaptive continuity systems.*  
 
 ---
@@ -396,10 +396,10 @@ It studies:
 
 > 📡 Cross-references:
 >
-> - [🌑 What Is Authority](./🌑_what_is_authority.md) — authority as stewardship, legitimacy, and survivable coordination  
+> - [🌑 What Is Authority?](./🌑_what_is_authority.md) — authority as stewardship, legitimacy, and survivable coordination  
 > - [🕸️ Justice As Load-Bearing](./🕸️_justice_as_load_bearing.md) — burden distribution, reciprocity, and survivable governance systems  
 > - [🌸 Containment Studies](../../🌸_Containment_Studies/README.md) — governability, pressure regulation, and containment systems under instability  
 
 *Authority is relational. Stewardship is load-bearing. Stability must remain livable.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
