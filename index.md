@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-27 20:45:36 UTC_
+_Generated on 2026-05-27 20:50:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7337,6 +7337,7 @@ _Generated on 2026-05-27 20:45:36 UTC_
     - [**⚖️_Legal_Context/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Legal_Context/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Legal_Context/README.md)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Legal_Context/notes.txt)
+      - [`⚖️_anti_protest_law_as_risk_patch.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Legal_Context/⚖️_anti_protest_law_as_risk_patch.md)
     - [**⚖️_Stress_Object_Case_Study/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/README.md)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/notes.txt)
