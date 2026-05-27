@@ -1,5 +1,5 @@
 # 🌱 Symbolic Containment  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining how systems stabilise themselves through ritual, aesthetics, narrative, symbolism, emotional choreography, and performative order.*  
 
 ---
@@ -371,10 +371,11 @@ It studies:
 
 > 📡 Cross-references:
 >
-> - [🌱 Containment And Visibility](./🌱_containment_and_visibility.md) — perception management and visibility governance systems  
-> - [📚 Narrative Management](../../🌀_System_Governance/📚_Narrative_Management/) — symbolic governance and reputational containment systems  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — legitimacy, stewardship, and adaptive symbolic continuity systems  
+> - [🌱 Internalised Containment](./🌱_internalised_containment.md) — *anticipatory compliance, self-monitoring, and behavioural adaptation systems*  
+> - [🌱 Containment And Identity](./🌱_containment_and_identity.md) — *belonging systems, symbolic loyalty, and identity regulation structures*  
+> - [📚 Narrative Management] — *symbolic governance and reputational containment systems*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and adaptive symbolic continuity systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-29_
