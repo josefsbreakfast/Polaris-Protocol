@@ -1,5 +1,5 @@
 # 🌑 What Is Authority?  
-**First created:** 2026-05-05 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-05 | **Last updated:** 2026-05-28  
 *Examining authority as the socially recognised capacity to shape collective reality, coordinate continuity, distribute burden, and maintain survivable legitimacy across time.*  
 
 ---
@@ -422,4 +422,4 @@ It examines:
 
 *Authority is relational. Stewardship is load-bearing. Stability must remain livable.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
