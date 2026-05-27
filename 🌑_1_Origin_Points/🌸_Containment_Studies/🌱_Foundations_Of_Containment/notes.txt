@@ -1,0 +1,234 @@
+## Core Systems Dynamics
+🌱_containment_and_feedback.md
+🌱_containment_and_recovery.md
+🌱_containment_and_adaptation.md
+🌱_containment_and_thresholds.md
+🌱_containment_and_redundancy.md
+
+### Purpose
+
+These complete the:
+
+* resilience,
+* survivability,
+* ecological systems,
+* and adaptive systems grammar.
+
+---
+
+## Psychological / Emotional Foundations
+
+🌱_containment_and_exhaustion.md
+🌱_containment_and_ambiguity.md
+🌱_containment_and_navigation.md
+🌱_containment_and_dependency.md
+
+### Purpose
+
+These complete:
+
+* nervous system logic,
+* navigability,
+* chronic survival adaptation,
+* and dependency/governability dynamics.
+
+---
+
+## Structural / Membrane Logic
+
+🌱_containment_and_permeability.md
+
+### Purpose
+
+This really completes the:
+
+* membrane,
+* flow,
+* openness,
+* selective exchange,
+* and ecological boundary logic.
+
+Honestly this one may be deceptively important.
+
+---
+
+# 🌱 Suggested Mirror Nodes Elsewhere
+
+Now the really interesting bit.
+
+These are nodes that *don’t belong* in Foundations Of Containment directly, but which the framework is now clearly demanding elsewhere.
+
+---
+
+# 🧄 Exousiología Mirrors
+
+These are probably the strongest pairings.
+
+---
+
+## Feedback / Governance
+
+🌱_containment_and_feedback.md
+↔
+🧄_feedback_legitimacy_and_adaptive_governance.md
+
+---
+
+## Pressure Distribution
+
+🌱_pressure_distribution.md
+↔
+🧄_justice_as_load_bearing.md
+
+---
+
+## Complexity
+
+🌱_governability_and_complexity.md
+↔
+🧄_metabolisation_of_complexity.md
+
+
+---
+
+## Recovery
+
+🌱_containment_and_recovery.md
+↔
+🧄_restoration_as_governance_capacity.md
+
+---
+
+## Scale
+
+🌱_containment_and_scale.md
+↔
+🧄_nested_stewardship_and_scale.md
+
+---
+
+## Redundancy
+
+🌱_containment_and_redundancy.md
+↔
+🧄_resilience_requires_distributed_capacity.md
+
+---
+
+# 📚 Narrative Management Mirrors
+
+🌀_System_Governance/
+└── 📚_Narrative_Management/
+
+---
+
+## Symbolic Systems
+
+🌱_symbolic_containment.md
+↔
+📚_symbolic_reassurance_and_perception_management.md
+
+---
+
+## Visibility
+
+🌱_containment_and_visibility.md
+↔
+📚_visibility_as_governance.md
+
+---
+
+## Narrative Delay
+
+🌱_containment_and_time.md
+↔
+📚_strategic_delay_and_narrative_pacing.md
+
+---
+
+## Legibility
+
+🌱_legibility_and_management.md
+↔
+📚_administrative_storytelling.md
+
+---
+
+# ☕️ Post-Imperial Weather Mirrors
+
+## Symbolic Exhaustion
+
+🌱_symbolic_containment.md
+↔
+☕️_composure_as_national_infrastructure.md
+
+---
+
+## Chronic Emergency
+
+🌱_temporary_measures_and_permanent_systems.md
+↔
+☕️_permanent_crisis_as_governance_weather.md
+
+---
+
+## Identity Compression
+
+🌱_containment_and_identity.md
+↔
+☕️_respectability_as_social_navigation.md
+
+---
+
+# 🧠 Psychic & Emotional Containment Mirrors
+
+## Exhaustion
+
+🌱_containment_and_exhaustion.md
+↔
+🧠_burnout_as_containment_failure.md
+
+---
+
+## Internalisation
+
+🌱_internalised_containment.md
+↔
+🧠_hypervigilance_as_navigation_system.md
+
+---
+
+## Ambiguity
+
+🌱_containment_and_ambiguity.md
+↔
+🧠_ambiguity_intolerance_and_survival_systems.md
+
+---
+
+# 🌿 Ecologies Of Containment Mirrors
+
+## Recovery Ecology
+
+🌱_containment_and_recovery.md
+↔
+🌿_ecological_recovery_cycles.md
+
+---
+
+## Redundancy Ecology
+
+🌱_containment_and_redundancy.md
+↔
+🌿_monoculture_and_fragility.md
+
+---
+
+## Thresholds
+
+🌱_containment_and_thresholds.md
+↔
+🌿_tipping_points_and_ecological_rupture.md
+
+---
+
