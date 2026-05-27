@@ -1,5 +1,5 @@
 # 🌱 Internalised Containment  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining how containment systems migrate inward, becoming embedded within identity, behaviour, emotional regulation, and self-governance structures.*  
 
 ---
@@ -381,12 +381,12 @@ It studies:
 - behavioural adaptation,
 - and the tension between adaptive self-regulation and chronic self-suppression.
 
-> 📡 Cross-references:
->
-> - [🌱 Containment And Legitimacy](./🌱_containment_and_legitimacy.md) — compliance, trust, and symbolic authority systems  
-> - [🌱 Containment And Identity](./🌱_containment_and_identity.md) — identity formation and belonging infrastructures  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — stewardship, participatory legitimacy, and survivable governance systems  
+> 📡 Cross-references:  
+>  
+> - [🌱 Symbolic Containment](./🌱_symbolic_containment.md) — *ritual, narrative, emotional choreography, and symbolic legitimacy systems*  
+> - [🌱 Containment And Identity](./🌱_containment_and_identity.md) — *belonging systems, symbolic loyalty, and identity regulation structures*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *stewardship, participatory legitimacy, and survivable governance systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
