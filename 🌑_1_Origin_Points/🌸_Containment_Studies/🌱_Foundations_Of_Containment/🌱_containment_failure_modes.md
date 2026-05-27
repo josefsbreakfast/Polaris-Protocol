@@ -1,5 +1,5 @@
 # 🌱 Containment Failure Modes  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining how containment systems destabilise, overextend, rigidify, invert, or collapse under pressure across institutional, psychological, ecological, and governance contexts.*  
 
 ---
@@ -389,10 +389,11 @@ It studies:
 
 > 📡 Cross-references:
 >
-> - [🌱 Recursive Containment](./🌱_recursive_containment.md) — containment systems reproducing secondary containment structures  
-> - [🌱 Adaptive Vs Rigid Systems](./🌱_adaptive_vs_rigid_systems.md) — resilience, brittleness, and adaptive feedback systems  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — stewardship, legitimacy maintenance, and adaptive governance continuity systems  
+> - [🌱 Recursive Containment](./🌱_recursive_containment.md) — *defensive expansion, containment recursion, and procedural layering systems*  
+> - [🌱 Containment And Scale](./🌱_containment_and_scale.md) — *abstraction, procedural distance, and large-scale coordination pressures*  
+> - [🌱 Containment And Sacrifice Zones](./🌱_containment_and_sacrifice_zones.md) — *instability concentration, expendability systems, and hidden extraction structures*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *stewardship, legitimacy maintenance, and adaptive governance continuity systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
