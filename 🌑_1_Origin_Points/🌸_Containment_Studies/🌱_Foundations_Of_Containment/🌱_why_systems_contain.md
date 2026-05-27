@@ -1,5 +1,5 @@
 # 🌱 Why Systems Contain  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining the incentives, pressures, fears, and coordination problems that drive containment formation across systems.*  
 
 ---
@@ -399,10 +399,12 @@ It studies containment as:
 
 > 📡 Cross-references:
 >
-> - [🌱 Stability And Overflow](./🌱_stability_and_overflow.md) — pressure accumulation and rupture dynamics  
-> - [🌱 Protective Vs Coercive Containment](./🌱_protective_vs_coercive_containment.md) — evaluating containment outcomes and harms  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — legitimacy, stewardship, and adaptive governance systems  
+> - [🌱 What Is Containment](./🌱_what_is_containment.md) — *defining containment as pressure regulation, boundary management, and governability infrastructure*  
+> - [🌱 Boundary And Membrane](./🌱_boundary_and_membrane.md) — *adaptive boundaries, permeability, and living regulation systems*  
+> - [🌱 Protective Vs Coercive Containment](./🌱_protective_vs_coercive_containment.md) — *stabilisation versus extraction and immobilisation dynamics*  
+> - [🌱 Containment And Legitimacy](./🌱_containment_and_legitimacy.md) — *compliance, trust, governability, and adaptive legitimacy systems*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and adaptive governance systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
