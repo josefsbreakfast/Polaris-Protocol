@@ -1,4 +1,4 @@
-# 🌱 What Is Containment  
+# 🌱 What Is Containment?  
 **First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Foundational definition node for containment as a systemic response to instability, overflow, uncertainty, and perceived threat.*  
 
@@ -315,7 +315,7 @@ containment, boundaries, overflow, governance, stabilisation, coercion, symbolic
 
 ## 🏮 Footer  
 
-*🌱 What Is Containment* establishes the baseline conceptual definition for containment across the wider **🌸 Containment Studies** cluster.
+*🌱 What Is Containment?* establishes the baseline conceptual definition for containment across the wider **🌸 Containment Studies** cluster.
 
 It examines containment as:
 - boundary formation,
