@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-26 23:59:54 UTC_
+_Generated on 2026-05-27 00:01:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7340,6 +7340,8 @@ _Generated on 2026-05-26 23:59:54 UTC_
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/README.md)
     - [**🌸_Containment_Lens/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌸_Containment_Lens/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌸_Containment_Lens/README.md)
+    - [**🕊️_Moral_Guardrails/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🕊️_Moral_Guardrails/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🕊️_Moral_Guardrails/README.md)
     - [**🦑_CRAKEN_Cartography/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/README.md)
     - [**🧄_Exousiological_Dynamics/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧄_Exousiological_Dynamics/)
