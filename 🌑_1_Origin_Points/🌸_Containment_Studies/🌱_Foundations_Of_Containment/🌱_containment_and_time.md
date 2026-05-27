@@ -1,5 +1,5 @@
 # 🌱 Containment And Time  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining how systems regulate time, pacing, delay, urgency, duration, and temporal perception in order to preserve stability and governability.*  
 
 ---
@@ -366,10 +366,10 @@ It studies:
 
 > 📡 Cross-references:
 >
-> - [🌱 Temporary Measures And Permanent Systems](./🌱_temporary_measures_and_permanent_systems.md) — emergency calcification and exception drift  
-> - [🌀 System Governance](../../🌀_System_Governance/README.md) — governance pacing, strategic delay, and temporal coordination systems  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — long-horizon stewardship, adaptive continuity, and survivable governance rhythms  
+> - [🌱 Temporary Measures And Permanent Systems](./🌱_temporary_measures_and_permanent_systems.md) — *emergency calcification and exception drift*  
+> - [🌀 Systems & Governance](../../🌀_System_Governance/README.md) — *governance pacing, strategic delay, and temporal coordination systems*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *long-horizon stewardship, adaptive continuity, and survivable governance rhythms*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
