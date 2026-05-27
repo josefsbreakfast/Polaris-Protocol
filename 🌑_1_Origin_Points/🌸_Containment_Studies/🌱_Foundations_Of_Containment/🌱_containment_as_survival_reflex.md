@@ -1,5 +1,5 @@
 # 🌱 Containment As Survival Reflex  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining containment as a recurring biological, psychological, institutional, and civilisational response to perceived instability and threat.*  
 
 ---
@@ -384,10 +384,11 @@ It studies:
 
 > 📡 Cross-references:
 >
-> - [🌱 Why Systems Contain](./🌱_why_systems_contain.md) — containment incentives and coordination pressures  
-> - [🌱 Adaptive Vs Rigid Systems](./🌱_adaptive_vs_rigid_systems.md) — resilience, rigidity, and feedback adaptation  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — stewardship, legitimacy, and long-horizon governance systems  
+> - [🌱 Stability And Overflow](./🌱_stability_and_overflow.md) — *overload, rupture, buffering, and instability accumulation systems*  
+> - [🌱 Pressure Distribution](./🌱_pressure_distribution.md) — *hidden load-bearing structures and instability allocation systems*  
+> - [🌱 Adaptive Vs Rigid Systems](./🌱_adaptive_vs_rigid_systems.md) — *resilience, feedback integration, and brittleness under pressure*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *stewardship, legitimacy, and long-horizon governance systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
