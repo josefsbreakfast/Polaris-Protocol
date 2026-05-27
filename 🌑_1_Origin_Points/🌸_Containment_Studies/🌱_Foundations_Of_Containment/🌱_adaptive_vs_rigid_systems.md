@@ -1,5 +1,5 @@
 # 🌱 Adaptive Vs Rigid Systems  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining how systems respond differently to instability, contradiction, pressure, and environmental change.*  
 
 ---
@@ -402,10 +402,11 @@ It studies:
 
 > 📡 Cross-references:
 >
-> - [🌱 Stability And Overflow](./🌱_stability_and_overflow.md) — pressure accumulation and rupture dynamics  
-> - [🌱 Pressure Distribution](./🌱_pressure_distribution.md) — load-bearing systems and instability allocation  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — stewardship, distributed resilience, and adaptive governance systems  
+> - [🌱 Stability And Overflow](./🌱_stability_and_overflow.md) — *overload, rupture, buffering, and instability accumulation systems*  
+> - [🌱 Pressure Distribution](./🌱_pressure_distribution.md) — *hidden load-bearing structures and instability allocation systems*  
+> - [🌱 Containment As Survival Reflex](./🌱_containment_as_survival_reflex.md) — *overload response, defensive coordination, and chronic threat systems*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *stewardship, distributed resilience, and adaptive governance systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
