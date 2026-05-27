@@ -1,5 +1,5 @@
 # 🌱 Foundations Of Containment  
-**First created:** 2026-05-13 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-13 | **Last updated:** 2026-05-28  
 *Core conceptual grammar for how systems construct, maintain, justify, normalise, and reproduce containment across institutional, emotional, ecological, symbolic, and governance systems.*  
 
 ---
@@ -559,4 +559,4 @@ It provides the root analytical architecture for:
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
