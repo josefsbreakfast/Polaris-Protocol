@@ -1,5 +1,5 @@
 # 🌱 Containment And Identity  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining how identities function as containment systems, governance infrastructures, boundary mechanisms, and stabilisation structures across social, institutional, and psychological life.*  
 
 ---
@@ -405,4 +405,4 @@ It studies:
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
