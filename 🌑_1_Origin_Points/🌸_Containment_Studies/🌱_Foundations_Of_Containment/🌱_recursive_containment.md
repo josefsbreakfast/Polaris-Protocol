@@ -1,5 +1,5 @@
 # 🌱 Recursive Containment  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Examining how containment systems generate secondary containment systems, reproduce instability through stabilisation attempts, and recursively reorganise themselves around their own defensive responses.*  
 
 ---
@@ -339,12 +339,13 @@ It studies:
 - symbolic recursion,
 - and the tension between adaptive feedback systems and self-reproducing overcontainment structures.
 
-> 📡 Cross-references:
->
-> - [🌱 Containment Failure Modes](./🌱_containment_failure_modes.md) — rigidity, overcontainment, and systemic destabilisation patterns  
-> - [🌱 Legibility And Management](./🌱_legibility_and_management.md) — administrative visibility and management recursion systems  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — stewardship, adaptive revision, and metabolisation-oriented governance systems  
+> 📡 Cross-references:  
+>  
+> - [🌱 Containment And Scale](./🌱_containment_and_scale.md) — *abstraction, procedural distance, and large-scale coordination pressures*  
+> - [🌱 Containment And Sacrifice Zones](./🌱_containment_and_sacrifice_zones.md) — *instability concentration, expendability systems, and hidden extraction structures*  
+> - [🌱 Containment Failure Modes](./🌱_containment_failure_modes.md) — *rigidity collapse, overcontainment, and adaptive failure dynamics*  
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *stewardship, adaptive revision, and metabolisation-oriented governance systems*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
