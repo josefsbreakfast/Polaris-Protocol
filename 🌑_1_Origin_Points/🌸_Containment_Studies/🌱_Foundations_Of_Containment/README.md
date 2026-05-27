@@ -555,7 +555,7 @@ It provides the root analytical architecture for:
 >
 > - [🌸 Containment Studies](../README.md) — root cluster for containment analysis  
 > - [🧄 Exousiología](../../🧄_Exousiología/README.md) — relational legitimacy, stewardship, and adaptive governance systems  
-> - [🌀 System Governance](../../🌀_System_Governance/README.md) — institutional pacing, complexity management, and governance coordination systems  
+> - [🌀 Systems & Governance] — institutional pacing, complexity management, and governance coordination systems  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
