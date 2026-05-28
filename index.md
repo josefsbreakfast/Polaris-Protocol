@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-28 09:56:31 UTC_
+_Generated on 2026-05-28 10:22:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -268,6 +268,7 @@ _Generated on 2026-05-28 09:56:31 UTC_
         - [`📖_books_do_not_always_behave.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/📖_books_do_not_always_behave.md)
         - [`📖_russia_a_cheat_sheet_for_the_british.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/📖_russia_a_cheat_sheet_for_the_british.md)
         - [`🗳️_the_corbyn_starmer_consent_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🗳️_the_corbyn_starmer_consent_mechanism.md)
+        - [`🛥️_the_boats_and_the_british.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🛥️_the_boats_and_the_british.md)
         - [`🧨_semantic_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🧨_semantic_collapse.md)
         - [`🧨_why_argumentation_fails_with_alt_right_ideology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🧨_why_argumentation_fails_with_alt_right_ideology.md)
         - [`🧵_old_guard_optics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🧵_old_guard_optics.md)
