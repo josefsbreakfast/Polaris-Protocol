@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-28 18:34:02 UTC_
+_Generated on 2026-05-28 20:23:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7394,6 +7394,11 @@ _Generated on 2026-05-28 18:34:02 UTC_
     - [**🕊️_Moral_Guardrails/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🕊️_Moral_Guardrails/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🕊️_Moral_Guardrails/README.md)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🕊️_Moral_Guardrails/notes.txt)
+      - [`⚖️_when_anti_genocide_strategy_goes_off_target.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🕊️_Moral_Guardrails/⚖️_when_anti_genocide_strategy_goes_off_target.md)
+      - [`🕊️_deescalation_as_anti_atrocity_infrastructure.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🕊️_Moral_Guardrails/🕊️_deescalation_as_anti_atrocity_infrastructure.md)
+      - [`🕊️_do_not_confuse_expression_with_effect.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🕊️_Moral_Guardrails/🕊️_do_not_confuse_expression_with_effect.md)
+      - [`🕊️_rehumanisation_is_not_absolution.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🕊️_Moral_Guardrails/🕊️_rehumanisation_is_not_absolution.md)
+      - [`🕯️_universal_humanity_unequal_exposure.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🕊️_Moral_Guardrails/🕯️_universal_humanity_unequal_exposure.md)
     - [**🦑_CRAKEN_Cartography/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/README.md)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/notes.txt)
