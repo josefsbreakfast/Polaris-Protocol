@@ -73,6 +73,113 @@ The legality of the gift horse depends partly on whether the public, Parliament,
 - what decisions the horse influences;
 - and who is liable when the horse kicks someone.
 
+---
+
+## 🗞️ Questions Journalists Should Be Asking
+
+The public does not need another vague debate about whether “AI” is good or bad.
+
+The useful questions are more specific:
+
+1. When ministers say “digital ID,” do they mean:
+   - a digital credential;
+   - single sign-on;
+   - identity verification;
+   - a national identity layer;
+   - or a cross-service public administration system?
+
+2. Which public services will rely on it first?
+
+3. Will any service become harder to access without it?
+
+4. What happens if the system says a person is not who they say they are?
+
+5. Will digital ID be connected to fraud detection, risk scoring, eligibility checks, immigration checks, policing-adjacent systems, tax, benefits, housing, or NHS access?
+
+6. Which AI systems will be used alongside it?
+
+7. Are those AI systems:
+   - commercial enterprise tools;
+   - government-built tools;
+   - open-source systems;
+   - departmental productivity tools;
+   - public-facing chatbots;
+   - or decision-support systems?
+
+8. Which private companies are involved?
+
+9. What procurement routes were used?
+
+10. What data can each supplier access, process, store, or infer?
+
+11. Are any models trained, fine-tuned, evaluated, or improved using public-sector data?
+
+12. Where is the data hosted?
+
+13. Who audits the system?
+
+14. Who is legally liable when the system gets something wrong?
+
+15. Can a person find out whether AI affected their case?
+
+16. Is there a human appeal route with real power to override the system?
+
+17. Will public bodies be required to publish registers of AI systems in use?
+
+18. What parts of this programme were explicitly put before the public at election time?
+
+19. What parts are being introduced through procurement, guidance, pilots, departmental policy, or secondary legislation?
+
+20. What would count as a red line?
+
+## 🧭 Questions Policymakers Should Be Answering
+
+A credible policy framework should distinguish between:
+
+- convenience infrastructure;
+- identity infrastructure;
+- data-sharing infrastructure;
+- AI-assisted administration;
+- automated decision-support;
+- enforcement systems;
+- and commercial platform dependency.
+
+These cannot be bundled under one reassurance language.
+
+Policymakers should be required to say:
+
+- what is optional;
+- what is mandatory;
+- what affects legal rights;
+- what affects access to services;
+- what affects eligibility;
+- what affects enforcement;
+- what is subject to human override;
+- what is subject to independent audit;
+- and what is prohibited.
+
+## 📝 Questions The Public Deserves Plain Answers To
+
+The basic public questions are not technically complicated.
+
+They are:
+
+- Am I being asked to use this, or required to use this?
+- Can I still access services if I do not have it?
+- What happens if it gets my identity wrong?
+- Will it connect my records across services?
+- Will AI be used to judge, rank, flag, or route me?
+- Can I challenge it?
+- Can I speak to a human?
+- Can I see what data was used?
+- Can I correct mistakes?
+- Can private companies see or process my information?
+- Can the system be expanded later without asking the public again?
+
+If these questions cannot be answered clearly, then the programme is not ready for public consent.
+
+---
+
 ## 🌌 Constellations
 
 🐴 ⚖️ 🧩 🛠️ 🧿 — digital identity; public consent; constitutional plumbing; procurement opacity; administrative risk.
