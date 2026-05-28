@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-28 10:30:52 UTC_
+_Generated on 2026-05-28 10:32:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -274,6 +274,7 @@ _Generated on 2026-05-28 10:30:52 UTC_
         - [`🛥️_the_boats_and_the_british.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🛥️_the_boats_and_the_british.md)
         - [`🧨_semantic_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🧨_semantic_collapse.md)
         - [`🧨_why_argumentation_fails_with_alt_right_ideology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🧨_why_argumentation_fails_with_alt_right_ideology.md)
+        - [`🧰_poor_political_varnish.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🧰_poor_political_varnish.md)
         - [`🧵_old_guard_optics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🧵_old_guard_optics.md)
         - [`🩸_the_romanovs_and_british_aristocratic_imagination.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🩸_the_romanovs_and_british_aristocratic_imagination.md)
         - [`🪞_states_project_their_own_structure_onto_rivals.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🪞_states_project_their_own_structure_onto_rivals.md)
