@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-28 20:51:38 UTC_
+_Generated on 2026-05-28 21:07:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7384,7 +7384,10 @@ _Generated on 2026-05-28 20:51:38 UTC_
       - [`⚖️_when_one_company_becomes_the_precedent_risk.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚖️_Stress_Object_Case_Study/⚖️_when_one_company_becomes_the_precedent_risk.md)
     - [**🌸_Containment_Lens/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌸_Containment_Lens/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌸_Containment_Lens/README.md)
-      - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌸_Containment_Lens/notes.txt)
+      - [`🌸_defence_opacity_and_public_suspicion.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌸_Containment_Lens/🌸_defence_opacity_and_public_suspicion.md)
+      - [`🌸_public_order_as_boundary_hardening.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌸_Containment_Lens/🌸_public_order_as_boundary_hardening.md)
+      - [`🌸_when_compliance_becomes_containment.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌸_Containment_Lens/🌸_when_compliance_becomes_containment.md)
+      - [`🌸_who_absorbs_the_instability.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌸_Containment_Lens/🌸_who_absorbs_the_instability.md)
     - [**🌾_Weaving_Bridges/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌾_Weaving_Bridges/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌾_Weaving_Bridges/README.md)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌾_Weaving_Bridges/notes.txt)
