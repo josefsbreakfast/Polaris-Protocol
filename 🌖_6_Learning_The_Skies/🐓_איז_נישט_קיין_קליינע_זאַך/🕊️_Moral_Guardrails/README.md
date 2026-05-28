@@ -1,5 +1,5 @@
 # 🕊️ Moral Guardrails  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *Moral guardrails for holding justice, humanisation, de-escalation, and anti-atrocity discipline together.*
 
 ---
@@ -141,12 +141,19 @@ Its role is to keep the work oriented toward justice, protection, accountability
 
 > 📡 Cross-references:
 >
-> - [🐓 איז נישט קיין קליינע זאַך](../README.md) — *main bridge orientation for the wider counsel-facing cluster*
-> - [⚖️ Legal Context](../⚖️_Legal_Context/) — *legal and public-order weather around the wider pressure system*
-> - [🌸 Containment Lens](../🌸_Containment_Lens/) — *institutional hardening, compression, and containment reflexes*
-> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/) — *authority, legitimacy, stewardship, and embodied load under pressure*
-> - [🌾 Weaving Bridges](../🌾_Weaving_Bridges/) — *practical counsel routes without coercion, humiliation, recruitment, or capture*
+> - [⚖️ Legal Context](../⚖️_Legal_Context/README.md) — *legal and public-order weather around the wider pressure system*
+> - [🌸 Containment Lens](../🌸_Containment_Lens/README.md) — *institutional hardening, compression, and containment reflexes*
+> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *authority, legitimacy, stewardship, and embodied load under pressure*
+> - [🌾 Weaving Bridges](../🌾_Weaving_Bridges/README.md) — *practical counsel routes without coercion, humiliation, recruitment, or capture*
+>  
+> 🏮 Return To:  
+>
+> - [🕊️ Moral Guardrails](./README.md)  
+> - [🐓 איז נישט קיין קליינע זאַך](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
