@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-28 10:23:53 UTC_
+_Generated on 2026-05-28 10:25:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -260,6 +260,7 @@ _Generated on 2026-05-28 10:23:53 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/README.md)
         - [`⚔️_the_wars_of_the_roses_across_eurasia.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/⚔️_the_wars_of_the_roses_across_eurasia.md)
         - [`⚔️_the_wars_of_the_roses_never_ended.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/⚔️_the_wars_of_the_roses_never_ended.md)
+        - [`✈️_the_delicacy_of_raf_legacy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/✈️_the_delicacy_of_raf_legacy.md)
         - [`🇩🇪_trauma_sovereignty_as_foreign_policy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🇩🇪_trauma_sovereignty_as_foreign_policy.md)
         - [`🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🇷🇺🇬🇧_the_russia_of_the_west_the_uk_of_the_east.md)
         - [`🌀_dual_loyalty_loops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🌀_dual_loyalty_loops.md)
