@@ -147,8 +147,7 @@ Its role is to keep the work oriented toward justice, protection, accountability
 > - [🌾 Weaving Bridges](../🌾_Weaving_Bridges/README.md) — *practical counsel routes without coercion, humiliation, recruitment, or capture*
 >  
 > 🏮 Return To:  
->
-> - [🕊️ Moral Guardrails](./README.md)  
+>  
 > - [🐓 איז נישט קיין קליינע זאַך](../README.md)  
 > - [🌖 Learning The Skies](../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../README.md)  
