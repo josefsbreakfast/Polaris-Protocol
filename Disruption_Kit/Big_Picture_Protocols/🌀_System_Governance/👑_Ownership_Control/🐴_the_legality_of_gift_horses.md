@@ -1,6 +1,8 @@
 # 🐴 The Legality Of Gift Horses  
-**First created:** 2026-05-28 | **Last updated:** 2026-05-28**  
-*How convenience-framed digital reform can carry infrastructure-level constitutional consequences.*
+**First created:** 2026-05-28 | **Last updated:** 2026-05-28  
+*How convenience-framed digital reform can carry infrastructure-level constitutional consequences.*  
+
+---
 
 ## 🛰️ Orientation
 
@@ -8,7 +10,9 @@ This node examines the “gift horse” problem in AI-enabled digital government
 
 The public-facing offer is simple: easier services, less paperwork, faster access, better fraud prevention, modern public administration.
 
-The legal and constitutional question is less simple: what, exactly, is being accepted when the public is asked to consent to a digital identity layer, AI-enabled public services, enterprise procurement, data-linkage architecture, and public-private technical partnerships under one convenience frame?
+The legal and constitutional question is less simple: what, exactly, is being accepted when the public is asked to consent to a digital identity layer, AI-enabled public services, enterprise procurement, data-linkage architecture, and public-private technical partnerships under one convenience frame?  
+
+---
 
 ## 🐴 The Gift Horse Problem
 
@@ -23,6 +27,8 @@ But a public-sector gift horse becomes legally significant when:
 - the burden of error falls on citizens rather than institutions;
 - consent is inferred from general political support rather than specific public authorisation.
 
+---
+
 ## ⚖️ The Constitutional Issue
 
 The issue is not “AI bad.”
@@ -31,7 +37,9 @@ The issue is whether a government may treat broad electoral consent for modernis
 
 In a system with an uncodified constitution, that question becomes sharper, not softer. If constitutional safeguards are distributed across statute, convention, common law, parliamentary scrutiny, procurement rules, data protection law, and administrative remedies, then clarity of description matters enormously.
 
-A vague object cannot receive meaningful consent.
+A vague object cannot receive meaningful consent.  
+
+---
 
 ## 🧩 The Category Collapse
 
@@ -58,7 +66,9 @@ Likewise, “AI in public services” may mean:
 - public-facing chatbots;
 - or strategic partnerships with large AI firms.
 
-Those are also not the same thing.
+Those are also not the same thing.  
+
+---
 
 ## 🧨 The Legality Question
 
@@ -132,6 +142,8 @@ The useful questions are more specific:
 
 20. What would count as a red line?
 
+---
+
 ## 🧭 Questions Policymakers Should Be Answering
 
 A credible policy framework should distinguish between:
@@ -158,6 +170,8 @@ Policymakers should be required to say:
 - what is subject to independent audit;
 - and what is prohibited.
 
+---
+
 ## 📝 Questions The Public Deserves Plain Answers To
 
 The basic public questions are not technically complicated.
@@ -183,6 +197,8 @@ If these questions cannot be answered clearly, then the programme is not ready f
 ## 🌌 Constellations
 
 🐴 ⚖️ 🧩 🛠️ 🧿 — digital identity; public consent; constitutional plumbing; procurement opacity; administrative risk.
+
+---
 
 ## ✨ Stardust
 
