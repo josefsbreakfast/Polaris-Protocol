@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-28 14:38:39 UTC_
+_Generated on 2026-05-28 18:01:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -556,6 +556,7 @@ _Generated on 2026-05-28 14:38:39 UTC_
         - [`🌍_israel_five_eyes_structural_interdependency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🌍_israel_five_eyes_structural_interdependency.md)
         - [`🌍_treaty_for_the_english_speaking_internet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🌍_treaty_for_the_english_speaking_internet.md)
         - [`🎯_single_points_of_failure_as_authoritarian_easy_targets.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🎯_single_points_of_failure_as_authoritarian_easy_targets.md)
+        - [`🗞️_the_editors_need_to_get_a_tradesman.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🗞️_the_editors_need_to_get_a_tradesman.md)
         - [`🚢_flotilla_under_seige.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🚢_flotilla_under_seige.md)
         - [`🛡️_securitisation_and_fragile_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🛡️_securitisation_and_fragile_governance.md)
         - [`🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/🛡️_why_democratic_states_must_never_build_opaque_multi_agency_risk_systems.md)
