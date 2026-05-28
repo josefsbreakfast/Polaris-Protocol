@@ -1,5 +1,5 @@
 # 🧮 Stress Export Modelling  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
 *A modelling lens for examining how unresolved moral, legal, institutional, and human pressure gets displaced through systems.*
 
 ---
@@ -216,14 +216,20 @@ Its role is to show where the stress goes when models, institutions, markets, an
 
 > 📡 Cross-references:
 >
-> - [🐓 איז נישט קיין קליינע זאַך](../README.md) — *main bridge orientation for the wider counsel-facing cluster*
-> - [⚖️ Stress Object Case Study](../⚖️_Stress_Object_Case_Study/) — *case-study layer for examining one visible defence-tech stress object*
-> - [⚖️ Legal Context](../⚖️_Legal_Context/) — *legal and public-order weather around the wider pressure system*
-> - [🌸 Containment Lens](../🌸_Containment_Lens/) — *institutional hardening, compression, and containment reflexes*
-> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/) — *authority, legitimacy, stewardship, and embodied load under pressure*
-> - [🪬 Golem Ethics For AI](../🪬_Golem_Ethics_For_AI/) — *Jewish question-space for created systems, instruction, responsibility, and AI*
-> - [🕊️ Moral Guardrails](../🕊️_Moral_Guardrails/) — *humanisation, de-escalation, and anti-atrocity discipline*
+> - [⚖️ Stress Object Case Study](../⚖️_Stress_Object_Case_Study/README.md) — *case-study layer for examining one visible defence-tech stress object*  
+> - [⚖️ Legal Context](../⚖️_Legal_Context/README.md) — *legal and public-order weather around the wider pressure system*  
+> - [🌸 Containment Lens](../🌸_Containment_Lens/README.md) — *institutional hardening, compression, and containment reflexes*  
+> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *authority, legitimacy, stewardship, and embodied load under pressure*  
+> - [🪬 Golem Ethics For AI](../🪬_Golem_Ethics_For_AI/README.md) — *Jewish question-space for created systems, instruction, responsibility, and AI*  
+> - [🕊️ Moral Guardrails](../🕊️_Moral_Guardrails/README.md) — *humanisation, de-escalation, and anti-atrocity discipline*  
+>  
+> 🏮 Return To:  
+>  
+> - [🐓 איז נישט קיין קליינע זאַך](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
