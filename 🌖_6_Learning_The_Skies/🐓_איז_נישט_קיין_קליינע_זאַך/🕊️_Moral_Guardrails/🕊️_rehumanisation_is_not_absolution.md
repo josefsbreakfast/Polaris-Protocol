@@ -390,14 +390,20 @@ rehumanisation, accountability, dehumanisation, absolution, moral repair, anti-e
 It supports the moral guardrails of the wider `🐓 איז נישט קיין קליינע זאַך` cluster by holding humanisation together with accountability, consequence, and material harm.  
 Its role is to prevent bridge-work from becoming dehumanisation on one side or reputational laundering on the other.
 
-> 📡 Cross-references:
->
-> - [🕊️ Moral Guardrails](./README.md) — *parent folder for humanisation, de-escalation, and anti-atrocity discipline*
-> - [🕯️ Universal Humanity; Unequal Exposure](./🕯️_universal_humanity_unequal_exposure.md) — *human dignity held together with material asymmetry*
-> - [🕊️ De-escalation As Anti-Atrocity Infrastructure](./🕊️_deescalation_as_anti_atrocity_infrastructure.md) — *threat reduction without moral retreat*
-> - [⚖️ When Anti-Genocide Strategy Goes Off Target](./⚖️_when_anti_genocide_strategy_goes_off_target.md) — *tactical discipline around urgent moral action*
-> - [🪬 Golem Ethics For AI](../🪬_Golem_Ethics_For_AI/README.md) — *created systems, instruction, abstraction, and responsibility*
+> 📡 Cross-references:  
+>  
+> - [🕯️ Universal Humanity; Unequal Exposure](./🕯️_universal_humanity_unequal_exposure.md) — *human dignity held together with material asymmetry*  
+> - [🕊️ De-escalation As Anti-Atrocity Infrastructure](./🕊️_deescalation_as_anti_atrocity_infrastructure.md) — *threat reduction without moral retreat*  
+> - [⚖️ When Anti-Genocide Strategy Goes Off Target](./⚖️_when_anti_genocide_strategy_goes_off_target.md) — *tactical discipline around urgent moral action*  
+> - [🪬 Golem Ethics For AI](../🪬_Golem_Ethics_For_AI/README.md) — *created systems, instruction, abstraction, and responsibility*  
 > - [🧮 Stress Export Modelling](../🧮_Stress_Export_Modelling/README.md) — *how systems displace unresolved moral pressure onto human beings*
+>  
+> 🏮 Return To:  
+>
+> - [🕊️ Moral Guardrails](./README.md)  
+> - [🐓 איז נישט קיין קליינע זאַך](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
