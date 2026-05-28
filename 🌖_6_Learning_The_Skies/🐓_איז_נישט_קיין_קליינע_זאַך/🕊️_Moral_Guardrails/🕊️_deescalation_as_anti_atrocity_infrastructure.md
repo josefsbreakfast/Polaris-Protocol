@@ -475,14 +475,21 @@ de-escalation, anti-atrocity, harm reduction, lawful judgment, threat reduction,
 It supports the moral guardrails of the wider `🐓 איז נישט קיין קליינע זאַך` cluster by framing de-escalation as practical protection rather than neutrality, retreat, or reputational containment.  
 Its role is to preserve the conditions for lawful judgment, accountability, and human recognition under atrocity-risk pressure.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🕯️ Universal Humanity; Unequal Exposure](./🕯️_universal_humanity_unequal_exposure.md) — *human dignity held together with material asymmetry*  
+> - [🕊️ Rehumanisation Is Not Absolution](./🕊️_rehumanisation_is_not_absolution.md) — *accountability without dehumanisation*  
+> - [🕊️ Do Not Confuse Expression With Effect](./🕊️_do_not_confuse_expression_with_effect.md) — *tactical discipline around speech, action, and material consequence*  
+> - [🧮 Stress Export Modelling](../🧮_Stress_Export_Modelling/README.md) — *how systems displace unresolved moral pressure onto human beings*  
+> - [🪬 Golem Ethics For AI](../🪬_Golem_Ethics_For_AI/README.md) — *created systems, instruction, abstraction, and responsibility*  
+>  
+> 🏮 Return To:  
 >
-> - [🕊️ Moral Guardrails](./README.md) — *parent folder for humanisation, de-escalation, and anti-atrocity discipline*
-> - [🕯️ Universal Humanity; Unequal Exposure](./🕯️_universal_humanity_unequal_exposure.md) — *human dignity held together with material asymmetry*
-> - [🕊️ Rehumanisation Is Not Absolution](./🕊️_rehumanisation_is_not_absolution.md) — *accountability without dehumanisation*
-> - [🕊️ Do Not Confuse Expression With Effect](./🕊️_do_not_confuse_expression_with_effect.md) — *tactical discipline around speech, action, and material consequence*
-> - [🧮 Stress Export Modelling](../🧮_Stress_Export_Modelling/README.md) — *how systems displace unresolved moral pressure onto human beings*
-> - [🪬 Golem Ethics For AI](../🪬_Golem_Ethics_For_AI/README.md) — *created systems, instruction, abstraction, and responsibility*
+> - [🕊️ Moral Guardrails](./README.md)  
+> - [🐓 איז נישט קיין קליינע זאַך](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
