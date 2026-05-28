@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-28 14:29:56 UTC_
+_Generated on 2026-05-28 14:36:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7384,6 +7384,7 @@ _Generated on 2026-05-28 14:29:56 UTC_
       - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🌾_Weaving_Bridges/notes.txt)
     - [**💭_Further_Queries/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/💭_Further_Queries/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/💭_Further_Queries/README.md)
+      - [`💭_why_ai_in_public_services_is_not_one_question.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/💭_Further_Queries/💭_why_ai_in_public_services_is_not_one_question.md)
     - [**🕊️_Moral_Guardrails/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🕊️_Moral_Guardrails/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🕊️_Moral_Guardrails/README.md)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🕊️_Moral_Guardrails/notes.txt)
