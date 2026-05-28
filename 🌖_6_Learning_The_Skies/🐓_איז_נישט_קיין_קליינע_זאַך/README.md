@@ -1,5 +1,5 @@
 # 🐓 איז נישט קיין קליינע זאַך  
-**First created:** 2026-05-26 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-26 | **Last updated:** 2026-05-28  
 *A bridge note offered with respect to Yiddish-speaking, traditionally grounded, and scholarly Jewish communities.*
 
 <!-- אַזויפֿיל טירחה פֿאַר איין זאַך? מ׳וואָלט געמיינט ס׳ברענט די וועלט. -->
@@ -7,6 +7,8 @@
 ---
 
 *To very little surprise, I'm sure, creating this section has to be step-wise by necessity, otherwise goodness only knows what will happen; the internet appears to be a delicate thing.*  
+
+*Some good news, though: it appears we dropped a number of scrapers after this went live, so that is nice - see notes to understand that origin is not immediately clear from the case study per se.*  
 
 ---
 
@@ -854,4 +856,4 @@ Its role is to support careful counsel, human recognition, and de-escalation wit
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-28_
