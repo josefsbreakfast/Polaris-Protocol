@@ -400,14 +400,21 @@ universal humanity, unequal exposure, power asymmetry, palestinian material dang
 It anchors the moral guardrails for the wider `🐓 איז נישט קיין קליינע זאַך` cluster, holding human dignity together with material asymmetry, power, responsibility, and exposure.  
 Its role is to prevent bridge-work from becoming false equivalence, dehumanisation, political recruitment, or moral overload.
 
-> 📡 Cross-references:
->
-> - [🕊️ Moral Guardrails](./README.md) — *parent folder for humanisation, de-escalation, and anti-atrocity discipline*
-> - [🕊️ Rehumanisation Is Not Absolution](./🕊️_rehumanisation_is_not_absolution.md) — *accountability without dehumanisation*
-> - [🕊️ De-escalation As Anti-Atrocity Infrastructure](./🕊️_deescalation_as_anti_atrocity_infrastructure.md) — *threat reduction without moral retreat*
-> - [🌾 Weaving Bridges](../🌾_Weaving_Bridges/README.md) — *practical counsel routes without coercion, humiliation, recruitment, or capture*
-> - [🪬 Golem Ethics For AI](../🪬_Golem_Ethics_For_AI/README.md) — *created systems, instruction, abstraction, and responsibility*
+> 📡 Cross-references:  
+> 
+> - [🕊️ Rehumanisation Is Not Absolution](./🕊️_rehumanisation_is_not_absolution.md) — *accountability without dehumanisation*  
+> - [🕊️ De-escalation As Anti-Atrocity Infrastructure](./🕊️_deescalation_as_anti_atrocity_infrastructure.md) — *threat reduction without moral retreat*  
+> - [🌾 Weaving Bridges](../🌾_Weaving_Bridges/README.md) — *practical counsel routes without coercion, humiliation, recruitment, or capture*  
+> - [🪬 Golem Ethics For AI](../🪬_Golem_Ethics_For_AI/README.md) — *created systems, instruction, abstraction, and responsibility*  
 > - [🧮 Stress Export Modelling](../🧮_Stress_Export_Modelling/README.md) — *how systems displace unresolved moral pressure onto human beings*
+>  
+> 🏮 Return To:  
+>
+> - [🕊️ Moral Guardrails](./README.md)  
+> - [🐓 איז נישט קיין קליינע זאַך](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
