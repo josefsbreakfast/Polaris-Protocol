@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-28 13:40:41 UTC_
+_Generated on 2026-05-28 14:24:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -298,6 +298,7 @@ _Generated on 2026-05-28 13:40:41 UTC_
         - [`🌳_the_lads_are_not_pro_countryside.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🌳_the_lads_are_not_pro_countryside.md)
         - [`🍉_british_democracy_needs_you.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🍉_british_democracy_needs_you.md)
         - [`🏛️_raac_ruins_squad.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🏛️_raac_ruins_squad.md)
+        - [`🐴_the_legality_of_gift_horses.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🐴_the_legality_of_gift_horses.md)
         - [`🐼_the_metropolitan_rabble.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🐼_the_metropolitan_rabble.md)
         - [`👑_asserting_sovereignty_after_allied_interference.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_asserting_sovereignty_after_allied_interference.md)
         - [`👑_soft_power_accountability_gap.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/👑_soft_power_accountability_gap.md)
