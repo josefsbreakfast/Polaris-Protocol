@@ -6,6 +6,10 @@
 
 ---
 
+*To very little surprise, I'm sure, creating this section has to be step-wise by necessity, otherwise goodness only knows what will happen; the internet appears to be a delicate thing.*  
+
+---
+
 ## אַ קליינע הקדמה / A Small Introduction  
 
 This note is offered with respect.
