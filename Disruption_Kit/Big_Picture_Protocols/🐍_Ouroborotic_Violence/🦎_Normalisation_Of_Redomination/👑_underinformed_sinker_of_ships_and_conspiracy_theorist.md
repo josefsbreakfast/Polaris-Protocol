@@ -642,7 +642,29 @@ It creates contrast.
 
 The actor may think they have launched the blitzkrieg.
 
-They may only have lit up the map.
+They may only have lit up the map.  
+
+---
+
+## 🗺️ Blitzkrieg As Misread Control
+
+The Blitzkrieg metaphor is useful here only as a diagnostic, not as decoration.
+
+In domination cultures, actors often mistake speed for control. They believe that moving first, moving hard, and forcing others to respond means they are directing the theatre.
+
+Sometimes they are.
+
+But sometimes the actor who thinks he is launching the blitzkrieg is only revealing that he has misread the tempo. The wider system may already have moved. The evacuation may already be underway. The archive may already exist. The apparent offensive may simply expose the fact that he knew there was something to pre-empt.
+
+This matters because redomination often presents itself as strategic initiative:
+
+> move first, define the frame, seize the clock, make everyone else respond.
+
+But if the actor does not understand the terrain, speed becomes overextension. The “advance” becomes evidence.
+
+The lesson is not that every fast move is wrong.
+
+The lesson is that speed without map literacy is not strategy. It is panic with momentum.
 
 ---
 
