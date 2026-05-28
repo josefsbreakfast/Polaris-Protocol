@@ -462,8 +462,15 @@ narrative influence, interpretive drift, reader agency, first-order effects, sec
 *📖 Books Do Not Always Behave* is a living node of the **Polaris Protocol**.
 It documents the instability of narrative influence: how books may be written, framed, or circulated with strategic intention while still producing counter-readings, ethical leakage, and unintended afterlives. This node supports bridge-learning work by distinguishing influence analysis from deterministic audience models, and by refusing the slide from “literature has power” to “writers are therefore legitimate targets.”
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> 🏮 Return To:  
 >
+> - [🌍 National Storytime](./README.md)  
+> - [🌀 Systems & Governance](../README.md)  
+> - [🧠 Big Picture Protocols](../../README.md)  
+> - [🪄 Disruption Kit](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
