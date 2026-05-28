@@ -1,6 +1,0 @@
-    ├── 🌸_Containment_Lens/
-    │   ├── README.md
-    │   ├── 🌸_when_compliance_becomes_containment.md
-    │   ├── 🌸_defence_opacity_and_public_suspicion.md
-    │   ├── 🌸_public_order_as_boundary_hardening.md
-    │   └── 🌸_who_absorbs_the_instability.md
