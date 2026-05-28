@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-28 10:28:26 UTC_
+_Generated on 2026-05-28 10:30:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -267,6 +267,7 @@ _Generated on 2026-05-28 10:28:26 UTC_
         - [`🌹_labour_as_alt_right_spv.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🌹_labour_as_alt_right_spv.md)
         - [`🎬_british_narrative_metabolism_of_dunkirk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🎬_british_narrative_metabolism_of_dunkirk.md)
         - [`🏛️_shakespeare_already_told_you_britain_was_regional.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🏛️_shakespeare_already_told_you_britain_was_regional.md)
+        - [`👁️‍🗨️_role_comparison_not_identity_comparison.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/👁️‍🗨️_role_comparison_not_identity_comparison.md)
         - [`📖_books_do_not_always_behave.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/📖_books_do_not_always_behave.md)
         - [`📖_russia_a_cheat_sheet_for_the_british.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/📖_russia_a_cheat_sheet_for_the_british.md)
         - [`🗳️_the_corbyn_starmer_consent_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/🗳️_the_corbyn_starmer_consent_mechanism.md)
