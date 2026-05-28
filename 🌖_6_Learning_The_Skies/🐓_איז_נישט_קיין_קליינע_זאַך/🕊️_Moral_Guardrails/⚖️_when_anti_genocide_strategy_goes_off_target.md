@@ -589,14 +589,20 @@ anti-genocide strategy, tactical discipline, atrocity prevention, misdirected pr
 It supports the moral guardrails of the wider `🐓 איז נישט קיין קליינע זאַך` cluster by helping urgent anti-genocide work remain disciplined toward protection, leverage, accountability, and material harm reduction.  
 Its role is to prevent moral alarm from becoming tactically congested, dehumanising, or absorbed into side-fronts that do not reduce harm.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🕯️ Universal Humanity; Unequal Exposure](./🕯️_universal_humanity_unequal_exposure.md) — *human dignity held together with material asymmetry*  
+> - [🕊️ De-escalation As Anti-Atrocity Infrastructure](./🕊️_deescalation_as_anti_atrocity_infrastructure.md) — *threat reduction without moral retreat*  
+> - [🕊️ Do Not Confuse Expression With Effect](./🕊️_do_not_confuse_expression_with_effect.md) — *tactical discipline around speech, action, and material consequence*  
+> - [⚖️ Legal Context](../⚖️_Legal_Context/README.md) — *legal and public-order weather around the wider pressure system*  
+> - [⚖️ Stress Object Case Study](../⚖️_Stress_Object_Case_Study/README.md) — *case-study lens for analysing one defence-tech stress object without overclaiming*  
+>  
+> 🏮 Return To:  
 >
-> - [🕊️ Moral Guardrails](./README.md) — *parent folder for humanisation, de-escalation, and anti-atrocity discipline*
-> - [🕯️ Universal Humanity; Unequal Exposure](./🕯️_universal_humanity_unequal_exposure.md) — *human dignity held together with material asymmetry*
-> - [🕊️ De-escalation As Anti-Atrocity Infrastructure](./🕊️_deescalation_as_anti_atrocity_infrastructure.md) — *threat reduction without moral retreat*
-> - [🕊️ Do Not Confuse Expression With Effect](./🕊️_do_not_confuse_expression_with_effect.md) — *tactical discipline around speech, action, and material consequence*
-> - [⚖️ Legal Context](../⚖️_Legal_Context/README.md) — *legal and public-order weather around the wider pressure system*
-> - [⚖️ Stress Object Case Study](../⚖️_Stress_Object_Case_Study/README.md) — *case-study lens for analysing one defence-tech stress object without overclaiming*
+> - [🕊️ Moral Guardrails](./README.md)  
+> - [🐓 איז נישט קיין קליינע זאַך](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
