@@ -464,9 +464,7 @@ It documents the instability of narrative influence: how books may be written, f
 
 > 📡 Cross-references:
 >
-> * [🧠 When History Feels Self-Evident](./🧠_when_history_feels_self_evident.md) — *generational imprint and affective proof as sources of political certainty*
-> * [🪬 Same Archive, Different Commands](./🪬_same_archive_different_commands.md) — *shared Jewish historical premises producing divergent moral and political answers*
-> * [🕊️ De-escalation As Anti-Atrocity Infrastructure](./🕊️_deescalation_as_anti_atrocity_infrastructure.md) — *bridge-work and ethical cooling under pressure*
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
