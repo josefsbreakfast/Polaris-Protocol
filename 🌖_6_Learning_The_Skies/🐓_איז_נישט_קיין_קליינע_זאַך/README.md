@@ -841,18 +841,23 @@ yiddish bridge notes, ethical counsel, de-escalation, jewish tradition, relation
 It gathers bridge notes and orientation materials for moments when secular legal, political, technological, and institutional systems cannot provide enough steadiness on their own.  
 Its role is to support careful counsel, human recognition, and de-escalation without flattening community plurality or extracting moral authority.
 
-> 📡 Cross-references:
->
-> - [🌖 Learning The Skies](../README.md) — *applied teaching, translation, and narrative pedagogy*
-> - [⚖️ Stress Object Case Study](./⚖️_Stress_Object_Case_Study/) — *case-study lens for analysing one defence-tech stress object without overclaiming*
-> - [⚖️ Legal Context](./⚖️_Legal_Context/) — *legal and public-order weather around the wider pressure system*
-> - [🌸 Containment Lens](./🌸_Containment_Lens/) — *analysis of institutional hardening, compression, and containment reflexes*
-> - [🧄 Exousiological Dynamics](./🧄_Exousiological_Dynamics/) — *authority, legitimacy, stewardship, and embodied load under pressure*
-> - [🦑 CRAKEN Cartography](./🦑_CRAKEN_Cartography/) — *reflexive mapping of geopolitical pressure and escalation risk*
-> - [🧮 Stress Export Modelling](./🧮_Stress_Export_Modelling/) — *how models, institutions, and systems displace unresolved moral pressure*
-> - [🕊️ Moral Guardrails](./🕊️_Moral_Guardrails/) — *humanisation, de-escalation, and anti-atrocity discipline*
-> - [🪬 Golem Ethics For AI](./🪬_Golem_Ethics_For_AI/) — *Jewish question-space for created systems, instruction, responsibility, and AI*
-> - [🌾 Weaving Bridges](./🌾_Weaving_Bridges/) — *practical counsel routes for different communities and pressure positions*
+> 📡 Cross-references:  
+>  
+> - [⚖️ Stress Object Case Study](./⚖️_Stress_Object_Case_Study/README.md) — *case-study lens for analysing one defence-tech stress object without overclaiming*  
+> - [⚖️ Legal Context](./⚖️_Legal_Context/README.md) — *legal and public-order weather around the wider pressure system*  
+> - [🌸 Containment Lens](./🌸_Containment_Lens/README.md) — *analysis of institutional hardening, compression, and containment reflexes*  
+> - [🧄 Exousiological Dynamics](./🧄_Exousiological_Dynamics/README.md) — *authority, legitimacy, stewardship, and embodied load under pressure*  
+> - [🦑 CRAKEN Cartography](./🦑_CRAKEN_Cartography/README.md) — *reflexive mapping of geopolitical pressure and escalation risk*  
+> - [🧮 Stress Export Modelling](./🧮_Stress_Export_Modelling/README.md) — *how models, institutions, and systems displace unresolved moral pressure*  
+> - [🕊️ Moral Guardrails](./🕊️_Moral_Guardrails/README.md) — *humanisation, de-escalation, and anti-atrocity discipline*  
+> - [🪬 Golem Ethics For AI](./🪬_Golem_Ethics_For_AI/README.md) — *Jewish question-space for created systems, instruction, responsibility, and AI*  
+> - [🌾 Weaving Bridges](./🌾_Weaving_Bridges/README.md) — *practical counsel routes for different communities and pressure positions*  
+>  
+> 🏮 Return To:   
+>  
+> - [🌖 Learning The Skies](../README.md)  
+> - [🌌 Polaris Protocol - Root](../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
