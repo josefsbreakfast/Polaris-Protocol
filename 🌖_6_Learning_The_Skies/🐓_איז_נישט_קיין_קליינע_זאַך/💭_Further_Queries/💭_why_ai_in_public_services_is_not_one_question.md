@@ -2,6 +2,8 @@
 **First created:** 2026-05-28 | **Last updated:** 2026-05-28  
 *An explainer for separating sandbox AI, enterprise AI, digital identity, and public-service automation before applying Jewish legal or ethical reasoning.*
 
+---
+
 ## 🛰️ Orientation
 
 This node is written for religious Jewish readers, rabbis, educators, policymakers, journalists, technologists, and community members trying to understand what is actually being discussed when governments say they want to use “AI in public services.”
@@ -15,6 +17,8 @@ Before Jewish law, Jewish ethics, communal safeguarding, or rabbinic counsel can
 “AI in public services” may mean one thing in a small medical pilot, another thing in an internal government productivity tool, another thing in welfare fraud detection, another thing in digital identity infrastructure, and another thing again when large technology firms provide enterprise systems to public bodies.
 
 These are not the same question.
+
+---
 
 ## 🧩 Why The Language Is Confusing
 
@@ -49,6 +53,8 @@ A limited medical diagnostic aid is not the same as an identity layer used acros
 
 If the public debate treats all of this as one object, then the consent problem begins before the legal analysis even starts.
 
+---
+
 ## 🧪 Sandbox AI
 
 Sandbox AI means AI tested in a bounded environment.
@@ -80,6 +86,8 @@ In plain language: sandbox AI is supposed to be the test kitchen.
 
 It is not supposed to become the entire public-service catering system because someone liked the smell of the pilot.
 
+---
+
 ## 🏢 Enterprise AI
 
 Enterprise AI is different.
@@ -106,6 +114,8 @@ Once AI becomes part of ordinary administrative infrastructure, mistakes can tra
 A bad sandbox result can be stopped.
 
 A bad enterprise system may become “how the department works.”
+
+---
 
 ## 🪪 Digital ID, Digital Identity, And Single Sign-On
 
@@ -155,6 +165,8 @@ That is where digital identity becomes more than convenience.
 
 It becomes a question of legibility before power.
 
+---
+
 ## 🧠 Why AI Changes The Meaning Of Digital ID
 
 A digital ID system by itself may be presented as a key.
@@ -188,6 +200,8 @@ The danger may be a fragile administrative stack with AI attached to it, treated
 The system does not need to know everything.
 
 It only needs to be hard to correct.
+
+---
 
 ## 🏥 Examples Of Different AI Questions
 
@@ -275,6 +289,8 @@ These examples show why “AI in public services” is not one halakhic, legal, 
 
 It is a bundle of questions.
 
+---
+
 ## 🪬 Why This Matters For Jewish Legal Reasoning
 
 Jewish law often asks extremely concrete questions.
@@ -321,6 +337,8 @@ That is also a real question.
 
 Those two questions should not receive the same answer merely because both contain the word “AI.”
 
+---
+
 ## ⚖️ Agency, Delegation, And Responsibility
 
 AI systems create a responsibility problem.
@@ -361,6 +379,8 @@ The people building the horse may sincerely believe they are making a useful pub
 
 But if the final system changes how people access rights, services, work, healthcare, housing, or legal recognition, then responsibility cannot disappear into the woodwork.
 
+---
+
 ## 🧯 The Risk Of Category Collapse
 
 The central warning is category collapse.
@@ -391,6 +411,8 @@ A secure in-house tool is not the same as an opaque commercial platform.
 
 A voluntary credential is not the same as a practical requirement for ordinary life.
 
+---
+
 ## 🗞️ Questions Journalists Should Ask
 
 Journalists should avoid asking only whether the public supports AI.
@@ -415,6 +437,8 @@ Better questions include:
 - Are public-sector records being used to train, fine-tune, evaluate, or improve models?
 - Is digital ID being used only for login, or also for cross-service verification and data-linkage?
 - What happens to people who cannot use the system?
+
+---
 
 ## 🧭 Questions Policymakers Should Answer
 
@@ -448,6 +472,8 @@ A credible policy should answer:
 - What can be challenged?
 - What must always remain human-led?
 
+---
+
 ## 🕯️ Questions For Jewish Legal And Ethical Counsel
 
 Religious Jewish communities may need to ask:
@@ -469,6 +495,8 @@ These are not abstract questions.
 
 They are questions about how human beings become visible to institutions.
 
+---
+
 ## 🧱 A Working Distinction
 
 For practical discussion, this node proposes a simple distinction:
@@ -486,6 +514,8 @@ AI that shapes routing, prioritisation, correspondence, triage, fraud review, ca
 AI that materially affects eligibility, enforcement, identity verification, benefits, immigration status, employment checks, housing, health access, policing-adjacent activity, safeguarding, or other serious matters.
 
 The higher the risk, the stronger the duty of explanation, audit, human override, appeal, and public consent.
+
+---
 
 ## 🧿 Why The British Example Is Useful
 
@@ -511,6 +541,8 @@ The difficulty is that the phrases may converge into a single infrastructure pro
 For international Jewish readers, this is the teaching point:
 
 > If this is how complicated the question is in one public administration system, then Jewish legal analysis cannot responsibly begin from the word “AI.” It must begin from the specific use, the specific harm, the specific actor, the specific data, and the specific remedy.
+
+---
 
 ## 🪵 The Gift Horse Warning
 
@@ -580,6 +612,8 @@ It may not always be framed as coercion. It may be framed as modernisation, conv
 
 But the effect may still be coercive if religiously distinctive ways of living become harder to sustain without financial penalty.
 
+---
+
 ## ⚖️ Why This Is Not Only A Halakhic Question
 
 This is not only a question of whether Jewish law permits using a particular AI tool.
@@ -612,6 +646,8 @@ It may also be:
 
 > Does this infrastructure make Torah-observant life harder to sustain for families, schools, workers, poor households, disabled people, elders, women managing household administration, people without smartphones, people with limited English, and communities that deliberately limit exposure to secular digital systems?
 
+---
+
 ## 🧭 Questions For Communal Safeguarding
 
 Religious communities may need to ask:
@@ -637,6 +673,8 @@ They are questions about whether a modern state can serve minority communities w
 ## 🌌 Constellations
 
 💭 ⚖️ 🤖 🪬 🧩 — public-service AI; digital identity; Jewish legal reasoning; category separation; consent under technological uncertainty.
+
+---
 
 ## ✨ Stardust
 
