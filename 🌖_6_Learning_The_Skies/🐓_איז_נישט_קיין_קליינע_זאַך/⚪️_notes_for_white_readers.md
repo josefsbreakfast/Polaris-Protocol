@@ -1,5 +1,5 @@
 # ⚪️ Notes For White Readers  
-**First created:** 2026-05-26 | **Last updated:** 2026-05-26  
+**First created:** 2026-05-26 | **Last updated:** 2026-05-28  
 *A boundary note on witness-position, Western complicity, and giving a specific bridge enough room to be built.*
 <!--The fact you are even reading these words? Stay. Let us talk. Because not everything that you thinking is "helping", is helping.-->
 ---
@@ -127,9 +127,10 @@ It functions as a boundary note for readers positioned inside white Western publ
 
 > 📡 Cross-references:
 >
-> - [🐓 איז נישט קיין קליינע זאַך](./README.md) — *primary bridge note for traditional and scholarly Jewish counsel*
+> - [🐓 איז נישט קיין קליינע זאַך](./README.md) — *primary bridge note for traditional and scholarly Jewish counsel*  
 > - [🌖 Learning The Skies](../README.md) — *applied teaching, translation, and narrative pedagogy*
+> - [🌌 Polaris Protocol - Root](../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-26_
+_Last updated: 2026-05-28_
