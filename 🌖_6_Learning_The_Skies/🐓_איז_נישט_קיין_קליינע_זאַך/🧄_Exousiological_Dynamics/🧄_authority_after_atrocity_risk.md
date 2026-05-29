@@ -1,5 +1,5 @@
 # 🧄 Authority After Atrocity Risk  
-**First created:** 2026-05-28 | **Last updated:** 2026-05-28  
+**First created:** 2026-05-28 | **Last updated:** 2026-05-29  
 *An exousiological lens for examining how authority changes when atrocity-risk, public scrutiny, and international legal pressure enter the field.*
 
 ---
@@ -686,4 +686,4 @@ Its role is to help readers distinguish formal power from legitimate authority, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-28_
+_Last updated: 2026-05-29_
