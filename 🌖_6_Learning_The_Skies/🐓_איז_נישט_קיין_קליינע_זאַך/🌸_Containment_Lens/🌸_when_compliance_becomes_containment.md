@@ -1,5 +1,5 @@
 # 🌸 When Compliance Becomes Containment  
-**First created:** 2026-05-28 | **Last updated:** 2026-05-28  
+**First created:** 2026-05-28 | **Last updated:** 2026-05-29  
 *A containment lens for examining when legal, corporate, procedural, or institutional compliance begins functioning as pressure-management architecture.*
 
 ---
@@ -541,15 +541,22 @@ compliance, containment, procedural defensiveness, legal narrowing, institutiona
 It supports the containment-analysis layer of the wider `🐓 איז נישט קיין קליינע זאַך` cluster by examining when lawful, procedural, corporate, or institutional compliance begins functioning as pressure-management architecture.  
 Its role is to distinguish necessary governance from containment reflexes that preserve institutional posture while leaving human harm unresolved.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🌸 Defence Opacity And Public Suspicion](./🌸_defence_opacity_and_public_suspicion.md) — *why ordinary secrecy can become publicly legible as impunity*  
+> - [🌸 Public Order As Boundary Hardening](./🌸_public_order_as_boundary_hardening.md) — *how moral alarm becomes managed as threat*  
+> - [🌸 Who Absorbs The Instability](./🌸_who_absorbs_the_instability.md) — *human cost of displaced system pressure*  
+> - [🕊️ Moral Guardrails](../🕊️_Moral_Guardrails/README.md) — *humanisation, de-escalation, and anti-atrocity discipline*  
+> - [🧮 Stress Export Modelling](../🧮_Stress_Export_Modelling/README.md) — *how systems displace unresolved moral pressure onto people and models*  
+>  
+> 🏮 Return To:  
 >
-> - [🌸 Containment Lens](./README.md) — *parent folder for boundary hardening, institutional pressure, and containment reflexes*
-> - [🌸 Defence Opacity And Public Suspicion](./🌸_defence_opacity_and_public_suspicion.md) — *why ordinary secrecy can become publicly legible as impunity*
-> - [🌸 Public Order As Boundary Hardening](./🌸_public_order_as_boundary_hardening.md) — *how moral alarm becomes managed as threat*
-> - [🌸 Who Absorbs The Instability](./🌸_who_absorbs_the_instability.md) — *human cost of displaced system pressure*
-> - [🕊️ Moral Guardrails](../🕊️_Moral_Guardrails/) — *humanisation, de-escalation, and anti-atrocity discipline*
-> - [🧮 Stress Export Modelling](../🧮_Stress_Export_Modelling/) — *how systems displace unresolved moral pressure onto people and models*
+> - [🌸 Containment Lens](./README.md)  
+> - [🐓 איז נישט קיין קליינע זאַך](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-28_
+_Last updated: 2026-05-29_
