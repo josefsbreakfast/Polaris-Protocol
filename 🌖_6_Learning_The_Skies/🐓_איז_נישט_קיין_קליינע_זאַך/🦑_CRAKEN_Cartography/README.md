@@ -1,5 +1,5 @@
 # 🦑 CRAKEN Cartography  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-29  
 *A cartographic lens for mapping reflexive geopolitical pressure, escalation risk, and system-wide remodelling.*
 
 ---
@@ -167,12 +167,18 @@ Its role is to support careful action by making the wider web visible before esc
 > 📡 Cross-references:
 >
 > - [🐓 איז נישט קיין קליינע זאַך](../README.md) — *main bridge orientation for the wider counsel-facing cluster*
-> - [⚖️ Stress Object Case Study](../⚖️_Stress_Object_Case_Study/) — *case-study layer for examining one visible defence-tech stress object*
-> - [🌸 Containment Lens](../🌸_Containment_Lens/) — *institutional hardening, compression, and containment reflexes*
-> - [🧮 Stress Export Modelling](../🧮_Stress_Export_Modelling/) — *how unresolved moral pressure is displaced through systems and models*
-> - [🕊️ Moral Guardrails](../🕊️_Moral_Guardrails/) — *humanisation, de-escalation, and anti-atrocity discipline*
-> - [🌾 Weaving Bridges](../🌾_Weaving_Bridges/) — *practical counsel routes without coercion or capture*
+> - [⚖️ Stress Object Case Study](../⚖️_Stress_Object_Case_Study/README.md) — *case-study layer for examining one visible defence-tech stress object*  
+> - [🌸 Containment Lens](../🌸_Containment_Lens/README.md) — *institutional hardening, compression, and containment reflexes*  
+> - [🧮 Stress Export Modelling](../🧮_Stress_Export_Modelling/README.md) — *how unresolved moral pressure is displaced through systems and models*  
+> - [🕊️ Moral Guardrails](../🕊️_Moral_Guardrails/README.md) — *humanisation, de-escalation, and anti-atrocity discipline*  
+> - [🌾 Weaving Bridges](../🌾_Weaving_Bridges/README.md) — *practical counsel routes without coercion or capture*  
+>  
+> 🏮 Return To:  
+>  
+> - [🐓 איז נישט קיין קליינע זאַך](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-29_
