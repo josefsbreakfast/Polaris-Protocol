@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-29 18:44:37 UTC_
+_Generated on 2026-05-29 18:48:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7422,6 +7422,7 @@ _Generated on 2026-05-29 18:44:37 UTC_
       - [`🧄_what_religious_scholars_are_being_asked_to_notice.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧄_Exousiological_Dynamics/🧄_what_religious_scholars_are_being_asked_to_notice.md)
     - [**🧮_Stress_Export_Modelling/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧮_Stress_Export_Modelling/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧮_Stress_Export_Modelling/README.md)
+      - [`when_the_machine_exports_stress.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧮_Stress_Export_Modelling/when_the_machine_exports_stress.md)
       - [`⚖️_extreme_wealth_and_the_thermodynamics_of_democracy.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧮_Stress_Export_Modelling/⚖️_extreme_wealth_and_the_thermodynamics_of_democracy.md)
       - [`⚖️_extreme_wealth_as_modelling_discontinuity.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧮_Stress_Export_Modelling/⚖️_extreme_wealth_as_modelling_discontinuity.md)
       - [`🧮_models_cannot_carry_moral_obligation.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧮_Stress_Export_Modelling/🧮_models_cannot_carry_moral_obligation.md)
