@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-29 11:58:51 UTC_
+_Generated on 2026-05-29 12:05:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6786,6 +6786,7 @@ _Generated on 2026-05-29 11:58:51 UTC_
       - [**🧪_Anti_Apocroustics/**](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/🧪_Anti_Apocroustics/)
         - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/🧪_Anti_Apocroustics/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/🧪_Anti_Apocroustics/notes.txt)
+        - [`🍬_affective_cellophane.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/🧪_Anti_Apocroustics/🍬_affective_cellophane.md)
       - [`README.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/README.md)
       - [`🌩️_outrage_atmospheres.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/🌩️_outrage_atmospheres.md)
       - [`🎪_meme_fever.md`](🌓_3_In_The_Moment/⚗️_Apothecary/🌫️_Vapours/🎪_meme_fever.md)
