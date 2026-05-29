@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-29 00:37:48 UTC_
+_Generated on 2026-05-29 01:16:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6544,6 +6544,7 @@ _Generated on 2026-05-29 00:37:48 UTC_
   - [**.🌱_Still_Growing/**](🌒_2_Signs_Symptoms/.🌱_Still_Growing/)
     - [`README.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/README.md)
     - [`🇬🇧_how_brexit_killed_microexporters.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🇬🇧_how_brexit_killed_microexporters.md)
+    - [`👾_group_psyche_hack.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/👾_group_psyche_hack.md)
     - [`🧬_twinned_timelines.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧬_twinned_timelines.md)
     - [`🧯_sonata_aftershock_and_fear_procurement.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧯_sonata_aftershock_and_fear_procurement.md)
     - [`🧯_synthetic_pair_breach_and_industry_reflex.md`](🌒_2_Signs_Symptoms/.🌱_Still_Growing/🧯_synthetic_pair_breach_and_industry_reflex.md)
