@@ -1,5 +1,5 @@
 # 🌸 Defence Opacity And Public Suspicion  
-**First created:** 2026-05-28 | **Last updated:** 2026-05-28  
+**First created:** 2026-05-28 | **Last updated:** 2026-05-29  
 *A containment lens for examining why ordinary defence secrecy can become publicly legible as impunity, special treatment, or authoritarian drift under atrocity-risk pressure.*
 
 ---
@@ -521,15 +521,21 @@ defence opacity, public suspicion, secrecy, containment, democratic legitimacy, 
 It supports the containment-analysis layer of the wider `🐓 איז נישט קיין קליינע זאַך` cluster by examining how ordinary defence secrecy can become publicly legible as impunity, special treatment, or authoritarian drift under atrocity-risk pressure.  
 Its role is to distinguish legitimate confidentiality from containment reflexes that reduce visibility while leaving harm unresolved.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🌸 When Compliance Becomes Containment](./🌸_when_compliance_becomes_containment.md) — *procedural defensiveness and legal narrowing under pressure*  
+> - [🌸 Public Order As Boundary Hardening](./🌸_public_order_as_boundary_hardening.md) — *how moral alarm becomes managed as threat*  
+> - [🌸 Who Absorbs The Instability](./🌸_who_absorbs_the_instability.md) — *human cost of displaced system pressure*  
+> - [⚖️ Stress Object Case Study](../⚖️_Stress_Object_Case_Study/README.md) — *case-study layer for examining one visible defence-tech stress object*  
+> - [🧮 Stress Export Modelling](../🧮_Stress_Export_Modelling/README.md) — *how systems displace unresolved moral pressure onto people and models*
+>  
+> 🏮 Return To:  
 >
-> - [🌸 Containment Lens](./README.md) — *parent folder for boundary hardening, institutional pressure, and containment reflexes*
-> - [🌸 When Compliance Becomes Containment](./🌸_when_compliance_becomes_containment.md) — *procedural defensiveness and legal narrowing under pressure*
-> - [🌸 Public Order As Boundary Hardening](./🌸_public_order_as_boundary_hardening.md) — *how moral alarm becomes managed as threat*
-> - [🌸 Who Absorbs The Instability](./🌸_who_absorbs_the_instability.md) — *human cost of displaced system pressure*
-> - [⚖️ Stress Object Case Study](../⚖️_Stress_Object_Case_Study/) — *case-study layer for examining one visible defence-tech stress object*
-> - [🧮 Stress Export Modelling](../🧮_Stress_Export_Modelling/) — *how systems displace unresolved moral pressure onto people and models*
+> - [🌸 Containment Lens](./README.md)  
+> - [🐓 איז נישט קיין קליינע זאַך](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-28_
+_Last updated: 2026-05-29_
