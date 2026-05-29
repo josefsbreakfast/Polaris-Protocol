@@ -1,5 +1,5 @@
 # 🌸 Containment Lens  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-29  
 *A lens folder examining how institutions, communities, and systems harden when exposed to moral, legal, political, or reputational pressure.*
 
 ---
@@ -153,12 +153,19 @@ Its role is to distinguish protective boundaries from coercive containment, and 
 > 📡 Cross-references:
 >
 > - [🐓 איז נישט קיין קליינע זאַך](../README.md) — *main bridge orientation for the wider counsel-facing cluster*
-> - [⚖️ Stress Object Case Study](../⚖️_Stress_Object_Case_Study/) — *case-study layer for examining one visible defence-tech stress object*
-> - [⚖️ Legal Context](../⚖️_Legal_Context/) — *legal and public-order weather around the wider pressure system*
-> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/) — *authority, legitimacy, stewardship, and embodied load under pressure*
-> - [🧮 Stress Export Modelling](../🧮_Stress_Export_Modelling/) — *how systems displace unresolved moral pressure onto people and models*
-> - [🕊️ Moral Guardrails](../🕊️_Moral_Guardrails/) — *humanisation, de-escalation, and anti-atrocity discipline*
+> - [⚖️ Stress Object Case Study](../⚖️_Stress_Object_Case_Study/README.md) — *case-study layer for examining one visible defence-tech stress object*
+> - [⚖️ Legal Context](../⚖️_Legal_Context/README.md) — *legal and public-order weather around the wider pressure system*
+> - [🧄 Exousiological Dynamics](../🧄_Exousiological_Dynamics/README.md) — *authority, legitimacy, stewardship, and embodied load under pressure*
+> - [🧮 Stress Export Modelling](../🧮_Stress_Export_Modelling/README.md) — *how systems displace unresolved moral pressure onto people and models*
+> - [🕊️ Moral Guardrails](../🕊️_Moral_Guardrails/README.md) — *humanisation, de-escalation, and anti-atrocity discipline*
+>  
+> 🏮 Return To:  
+>  
+> - [🐓 איז נישט קיין קליינע זאַך](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-29_
