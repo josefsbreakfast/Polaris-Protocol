@@ -1,5 +1,5 @@
 # 🧄 Legitimacy Cannot Be Outsourced To Compliance  
-**First created:** 2026-05-28 | **Last updated:** 2026-05-28  
+**First created:** 2026-05-28 | **Last updated:** 2026-05-29  
 *An exousiological lens for distinguishing legal compliance from legitimacy, stewardship, and moral authority under pressure.*
 
 ---
@@ -598,4 +598,4 @@ Its role is to help readers recognise when procedure supports responsibility, an
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-28_
+_Last updated: 2026-05-29_
