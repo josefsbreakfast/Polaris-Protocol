@@ -165,8 +165,7 @@ It provides the reflexive-risk mapping layer for the wider `🐓 איז נישט
 Its role is to support careful action by making the wider web visible before escalation becomes self-justifying.
 
 > 📡 Cross-references:
->
-> - [🐓 איז נישט קיין קליינע זאַך](../README.md) — *main bridge orientation for the wider counsel-facing cluster*
+> 
 > - [⚖️ Stress Object Case Study](../⚖️_Stress_Object_Case_Study/README.md) — *case-study layer for examining one visible defence-tech stress object*  
 > - [🌸 Containment Lens](../🌸_Containment_Lens/README.md) — *institutional hardening, compression, and containment reflexes*  
 > - [🧮 Stress Export Modelling](../🧮_Stress_Export_Modelling/README.md) — *how unresolved moral pressure is displaced through systems and models*  
