@@ -87,7 +87,9 @@ Some workers could plausibly feel safer underground than above it.
 
 When all options are unsafe, people choose the danger they can bear.
 
-This complicates later imagery of civilians in shelters. A shelter is not automatically evidence of adequate protection. It can also be evidence that ordinary life has been forced to live around the expectation of violence.
+This complicates later imagery of civilians in shelters. A shelter is not automatically evidence of adequate protection. It can also be evidence that ordinary life has been forced to live around the expectation of violence.  
+
+This can become a, "fact of life", and swiftly normalised.  
 
 ---
 
