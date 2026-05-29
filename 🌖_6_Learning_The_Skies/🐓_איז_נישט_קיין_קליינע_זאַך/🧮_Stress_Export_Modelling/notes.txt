@@ -1,5 +1,0 @@
-  │   ├── 🧮_when_the_machine_exports_stress.md
-    │   ├── 🧮_the_human_error_term.md
-    │   ├── 🧮_models_cannot_carry_moral_obligation.md
-    │   ├── ⚖️_extreme_wealth_as_modelling_discontinuity.md
-    │   └── ⚖️_extreme_wealth_and_the_thermodynamics_of_democracy.md
