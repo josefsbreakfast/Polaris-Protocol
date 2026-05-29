@@ -1,5 +1,5 @@
 # 🌸 Public Order As Boundary Hardening  
-**First created:** 2026-05-28 | **Last updated:** 2026-05-28  
+**First created:** 2026-05-28 | **Last updated:** 2026-05-29  
 *A containment lens for examining how moral alarm, protest pressure, and public grief can be converted into threat-management and boundary enforcement.*
 
 ---
@@ -528,15 +528,22 @@ public order, boundary hardening, protest pressure, moral alarm, containment, po
 It supports the containment-analysis layer of the wider `🐓 איז נישט קיין קליינע זאַך` cluster by examining how public-order systems can protect people while also hardening boundaries around unresolved moral pressure.  
 Its role is to distinguish necessary safety measures from containment reflexes that manage dissent, visibility, and public grief without answering the underlying harm.
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🌸 When Compliance Becomes Containment](./🌸_when_compliance_becomes_containment.md) — *procedural defensiveness and legal narrowing under pressure*  
+> - [🌸 Defence Opacity And Public Suspicion](./🌸_defence_opacity_and_public_suspicion.md) — *why ordinary secrecy can become publicly legible as impunity*  
+> - [🌸 Who Absorbs The Instability](./🌸_who_absorbs_the_instability.md) — *human cost of displaced system pressure*  
+> - [🕊️ Moral Guardrails](../🕊️_Moral_Guardrails/README.md) — *humanisation, de-escalation, and anti-atrocity discipline*  
+> - [⚖️ Legal Context](../⚖️_Legal_Context/README.md) — *legal and public-order weather around the wider pressure system*  
+>  
+> 🏮 Return To:  
 >
-> - [🌸 Containment Lens](./README.md) — *parent folder for boundary hardening, institutional pressure, and containment reflexes*
-> - [🌸 When Compliance Becomes Containment](./🌸_when_compliance_becomes_containment.md) — *procedural defensiveness and legal narrowing under pressure*
-> - [🌸 Defence Opacity And Public Suspicion](./🌸_defence_opacity_and_public_suspicion.md) — *why ordinary secrecy can become publicly legible as impunity*
-> - [🌸 Who Absorbs The Instability](./🌸_who_absorbs_the_instability.md) — *human cost of displaced system pressure*
-> - [🕊️ Moral Guardrails](../🕊️_Moral_Guardrails/) — *humanisation, de-escalation, and anti-atrocity discipline*
-> - [⚖️ Legal Context](../⚖️_Legal_Context/) — *legal and public-order weather around the wider pressure system*
+> - [🌸 Containment Lens](./README.md)  
+> - [🐓 איז נישט קיין קליינע זאַך](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
+
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-28_
+_Last updated: 2026-05-29_
