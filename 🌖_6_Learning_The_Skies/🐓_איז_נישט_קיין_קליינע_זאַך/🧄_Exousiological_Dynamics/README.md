@@ -1,5 +1,5 @@
 # 🧄 Exousiological Dynamics  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-27  
+**First created:** 2026-05-27 | **Last updated:** 2026-05-29  
 *A lens folder examining authority, legitimacy, stewardship, obligation, and embodied load under pressure.*
 
 ---
@@ -169,15 +169,20 @@ authority, legitimacy, stewardship, obligation, embodied load, compliance, trust
 It provides the authority-and-legitimacy lens for the wider `🐓 איז נישט קיין קליינע זאַך` cluster, examining how power behaves when law, fear, duty, and human exposure collide.  
 Its role is to help translate systems pressure into questions of stewardship, recognition, obligation, and repair.
 
-> 📡 Cross-references:
->
-> - [🐓 איז נישט קיין קליינע זאַך](../README.md) — *main bridge orientation for the wider counsel-facing cluster*
-> - [⚖️ Stress Object Case Study](../⚖️_Stress_Object_Case_Study/) — *case-study layer for examining one visible defence-tech stress object*
-> - [🌸 Containment Lens](../🌸_Containment_Lens/) — *institutional hardening, compression, and containment reflexes*
-> - [⚖️ Legal Context](../⚖️_Legal_Context/) — *legal and public-order weather around the wider pressure system*
-> - [🕊️ Moral Guardrails](../🕊️_Moral_Guardrails/) — *humanisation, de-escalation, and anti-atrocity discipline*
-> - [🌾 Weaving Bridges](../🌾_Weaving_Bridges/) — *practical counsel routes without coercion or capture*
+> 📡 Cross-references:  
+>  
+> - [⚖️ Stress Object Case Study](../⚖️_Stress_Object_Case_Study/) — *case-study layer for examining one visible defence-tech stress object*  
+> - [🌸 Containment Lens](../🌸_Containment_Lens/) — *institutional hardening, compression, and containment reflexes*  
+> - [⚖️ Legal Context](../⚖️_Legal_Context/) — *legal and public-order weather around the wider pressure system*  
+> - [🕊️ Moral Guardrails](../🕊️_Moral_Guardrails/) — *humanisation, de-escalation, and anti-atrocity discipline*  
+> - [🌾 Weaving Bridges](../🌾_Weaving_Bridges/) — *practical counsel routes without coercion or capture*  
+>  
+> 🏮 Return To:  
+>  
+> - [🐓 איז נישט קיין קליינע זאַך](../README.md)  
+> - [🌖 Learning The Skies](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-29_
