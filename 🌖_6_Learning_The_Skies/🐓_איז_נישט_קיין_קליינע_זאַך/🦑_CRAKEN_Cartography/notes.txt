@@ -1,6 +1,0 @@
-    ├── 🦑_CRAKEN_Cartography/
-    │   ├── README.md
-    │   ├── 🦑_stress_object_as_reflexive_pressure_node.md
-    │   ├── 🦑_alliance_signalling_and_misread_catastrophe.md
-    │   ├── 🦑_when_pressure_on_one_node_remodels_the_web.md
-    │   └── 🦑_do_not_kick_the_sleeping_kraken.md
