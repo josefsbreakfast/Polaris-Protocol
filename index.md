@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-29 00:15:50 UTC_
+_Generated on 2026-05-29 00:16:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7408,6 +7408,7 @@ _Generated on 2026-05-29 00:15:50 UTC_
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧄_Exousiological_Dynamics/README.md)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧄_Exousiological_Dynamics/notes.txt)
       - [`🧄_authority_after_atrocity_risk.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧄_Exousiological_Dynamics/🧄_authority_after_atrocity_risk.md)
+      - [`🧄_legitimacy_cannot_be_outsourced_to_compliance.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧄_Exousiological_Dynamics/🧄_legitimacy_cannot_be_outsourced_to_compliance.md)
       - [`🧄_stewardship_when_procurement_becomes_moral_pressure.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧄_Exousiological_Dynamics/🧄_stewardship_when_procurement_becomes_moral_pressure.md)
     - [**🧮_Stress_Export_Modelling/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧮_Stress_Export_Modelling/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧮_Stress_Export_Modelling/README.md)
