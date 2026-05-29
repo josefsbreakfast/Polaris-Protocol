@@ -1,6 +1,0 @@
-    ├── 🧄_Exousiological_Dynamics/
-    │   ├── README.md
-    │   ├── 🧄_authority_after_atrocity_risk.md
-    │   ├── 🧄_stewardship_when_procurement_becomes_moral_pressure.md
-    │   ├── 🧄_legitimacy_cannot_be_outsourced_to_compliance.md
-    │   └── 🧄_what_religious_scholars_are_being_asked_to_notice.md
