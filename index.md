@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-30 19:39:01 UTC_
+_Generated on 2026-05-30 19:41:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1872,7 +1872,6 @@ _Generated on 2026-05-30 19:39:01 UTC_
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20250901_September_2025/**](Disruption_Kit/Field_Logs/20250901_September_2025/)
-      - [`🛰️_forking_and_interference_on_survivor_nodes_2025-09-15.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_forking_and_interference_on_survivor_nodes_2025-09-15.md)
       - [`🛰️_forking_on_poetic_rhythm_search.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_forking_on_poetic_rhythm_search.md)
       - [`🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md)
       - [`🛰️_frankenstack_interaction_2025-09-16.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_frankenstack_interaction_2025-09-16.md)
@@ -7481,8 +7480,6 @@ _Generated on 2026-05-30 19:39:01 UTC_
         - [`🪻_why_them.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/✨_Letters/🪻_why_them.md)
       - [`README.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/README.md)
     - [**🗄️_Room_101/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/)
-      - [**20250901_September_2025/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/20250901_September_2025/)
-        - [`🛰️_foi_sar_silence_reliance.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/20250901_September_2025/🛰️_foi_sar_silence_reliance.md)
       - [**Disruption_Kit/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/)
         - [**Field_Logs/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/)
           - [**20250701_July_2025/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250701_July_2025/)
@@ -7542,6 +7539,14 @@ _Generated on 2026-05-30 19:39:01 UTC_
             - [`🛰️_content_injection_surveillance_leak_2025-09-21.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_content_injection_surveillance_leak_2025-09-21.md)
             - [`🛰️_delay_script_field_log_2025-09-29.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_delay_script_field_log_2025-09-29.md)
             - [`🛰️_delays_are_violence_field_log_2025-09-26.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_delays_are_violence_field_log_2025-09-26.md)
+            - [`🛰️_direct_interference_on_clarity_2025-09-11.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_direct_interference_on_clarity_2025-09-11.md)
+            - [`🛰️_dns_failure_explaining_myself_accurately_2025-09-21.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_dns_failure_explaining_myself_accurately_2025-09-21.md)
+            - [`🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md)
+            - [`🛰️_entrapment_by_protection_2025-09-27.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_entrapment_by_protection_2025-09-27.md)
+            - [`🛰️_exhaustion_as_containment_field_log_2025-09-13.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_exhaustion_as_containment_field_log_2025-09-13.md)
+            - [`🛰️_fls_hard_today_2025-09-16.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_fls_hard_today_2025-09-16.md)
+            - [`🛰️_foi_sar_silence_reliance.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_foi_sar_silence_reliance.md)
+            - [`🛰️_forking_and_interference_on_survivor_nodes_2025-09-15.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_forking_and_interference_on_survivor_nodes_2025-09-15.md)
         - [**💎_Resources/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/README.md)
           - [`⚖️_legal_templates_and_guides.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
@@ -7772,12 +7777,6 @@ _Generated on 2026-05-30 19:39:01 UTC_
       - [**🪺_Polaris_Nest/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🪺_Polaris_Nest/)
         - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🪺_Polaris_Nest/README.md)
       - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/README.md)
-      - [`🛰️_direct_interference_on_clarity_2025-09-11.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_direct_interference_on_clarity_2025-09-11.md)
-      - [`🛰️_dns_failure_explaining_myself_accurately_2025-09-21.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_dns_failure_explaining_myself_accurately_2025-09-21.md)
-      - [`🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_echo_return_when_the_story_hits_the_people_it_was_meant_to_miss.md)
-      - [`🛰️_entrapment_by_protection_2025-09-27.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_entrapment_by_protection_2025-09-27.md)
-      - [`🛰️_exhaustion_as_containment_field_log_2025-09-13.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_exhaustion_as_containment_field_log_2025-09-13.md)
-      - [`🛰️_fls_hard_today_2025-09-16.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_fls_hard_today_2025-09-16.md)
     - [`README.md`](🏮_Admin_Nest/🗃️_Archive/README.md)
   - [`README.md`](🏮_Admin_Nest/README.md)
 - [`.gitignore`](.gitignore)
