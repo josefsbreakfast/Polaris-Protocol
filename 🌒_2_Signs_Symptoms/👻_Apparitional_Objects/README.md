@@ -1,5 +1,5 @@
 # 👻 Apparitional Objects  
-**First created:** 2025-09-12 | **Last updated:** 2026-05-29  
+**First created:** 2025-09-12 | **Last updated:** 2026-05-30  
 *An audience-facing routing folder for digital, bureaucratic, archival, and behavioural anomalies that feel ghostlike because systems have failed to explain themselves clearly.*
 
 ---
@@ -385,4 +385,4 @@ It provides the routing layer for ghost-like, fork-like, and trace-bearing anoma
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-29_
+_Last updated: 2026-05-30_
