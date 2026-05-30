@@ -1,6 +1,5 @@
 # 🌹 Negging
-
-**First created:** 2025-09-27 | **Last updated:** 2026-05-30
+**First created:** 2025-09-27 | **Last updated:** 2026-05-30  
 *A behavioural field note on backhanded praise, status destabilisation, and the use of insult-as-flirtation in PUA, manosphere, workplace, and online grievance cultures.*
 
 ---
