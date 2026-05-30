@@ -1,0 +1,11 @@
+
+    │
+    ├── 🚉_Infrastructure_Hiccups/
+    │   ├── README.md
+    │   ├── 🚉_transport_disruption_log.md
+    │   ├── 🏧_atm_or_card_terminal_failure.md
+    │   ├── 🔌_utility_or_power_outage_log.md
+    │   ├── 🎫_ticket_gate_or_booking_failure.md
+    │   ├── 🧾_official_notice_capture_guide.md
+    │   ├── 🗺️_local_cross_checking.md
+    │   └── 🚩_infrastructure_hiccup_red_flags.md
