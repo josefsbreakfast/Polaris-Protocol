@@ -1,5 +1,5 @@
 # 🍽️ Fork Taxonomy  
-**First created:** 2025-08-11 | **Last updated:** 2026-05-29  
+**First created:** 2025-08-11 | **Last updated:** 2026-05-30  
 *A reader-facing taxonomy for recurring behavioural distortion patterns in complex systems.*
 
 ---
@@ -410,4 +410,4 @@ It maps recurring behavioural distortion patterns across complex systems, suppor
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-29_
+_Last updated: 2026-05-30_
