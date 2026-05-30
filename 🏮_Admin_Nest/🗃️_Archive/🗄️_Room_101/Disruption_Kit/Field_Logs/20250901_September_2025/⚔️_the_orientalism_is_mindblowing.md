@@ -1,4 +1,4 @@
-# 🛰️⚔️ The Orientalism Is Mindblowing  
+# 🛰️⚔️ The Orientalism Is Mindblowing   
 **First created:** 2025-09-21 | **Last updated:** 2025-12-28  
 *Preserves verbatim a contemporaneous survivor-authored note recorded on 21 September 2025 (Rosh Hashanah).*  
 
