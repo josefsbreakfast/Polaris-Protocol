@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-30 18:13:23 UTC_
+_Generated on 2026-05-30 18:25:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7057,17 +7057,18 @@ _Generated on 2026-05-30 18:13:23 UTC_
     - [**🌹_Demonstrating_High_Value/**](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/)
       - [`README.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/README.md)
       - [`🌹_negging.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🌹_negging.md)
-      - [`🎬_dennis_system_as_pua_satire.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🎬_dennis_system_as_pua_satire.md)
       - [`🐺_AMOG_a_joke.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🐺_AMOG_a_joke.md)
-      - [`💊_red_pill.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/💊_red_pill.md)
       - [`🔮_future_faking.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🔮_future_faking.md)
       - [`🦚_peacocking.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🦚_peacocking.md)
       - [`🦤_uniform_spectacle.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🦤_uniform_spectacle.md)
       - [`🧤_kino_escalation.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🧤_kino_escalation.md)
-      - [`🪬_masculinity_in_crisis.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🪬_masculinity_in_crisis.md)
-      - [`🪬_pua_to_far_right_pipeline.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🪬_pua_to_far_right_pipeline.md)
       - [`🪭_comfort_building.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🪭_comfort_building.md)
     - [`README.md`](🌓_3_In_The_Moment/🥃_Males_Online/README.md)
+    - [`notes.txt`](🌓_3_In_The_Moment/🥃_Males_Online/notes.txt)
+    - [`🎬_dennis_system_as_pua_satire.md`](🌓_3_In_The_Moment/🥃_Males_Online/🎬_dennis_system_as_pua_satire.md)
+    - [`💊_red_pill.md`](🌓_3_In_The_Moment/🥃_Males_Online/💊_red_pill.md)
+    - [`🪬_masculinity_in_crisis.md`](🌓_3_In_The_Moment/🥃_Males_Online/🪬_masculinity_in_crisis.md)
+    - [`🪬_pua_to_far_right_pipeline.md`](🌓_3_In_The_Moment/🥃_Males_Online/🪬_pua_to_far_right_pipeline.md)
   - [**🦉_Language_As_Attack_Surface/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/)
     - [**🏮_AntiContainment_Clauses/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🏮_AntiContainment_Clauses/)
       - [`README.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🏮_AntiContainment_Clauses/README.md)
