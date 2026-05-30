@@ -1,6 +1,6 @@
 ☔️_was_i_supposed_to_leak.md.  
 
-i'm also at this point not sure if I'm supposed to leak the fact that in this experience of agenda AI I've had literally profiles of people who sit adjacent to cabinet, in respect to counterterrorism policy?  
+i'm also at this point not sure if I'm supposed to leak the fact that in this experience of agentic AI I've had literally profiles of people who sit adjacent to cabinet, in respect to counterterrorism policy?  
 
 
 Are you guys stuck in some sort of legal thing?  
