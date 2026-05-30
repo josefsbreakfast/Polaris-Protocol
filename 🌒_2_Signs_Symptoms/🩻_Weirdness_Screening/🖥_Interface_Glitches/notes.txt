@@ -1,0 +1,13 @@
+
+
+    │
+    ├── 🖥_Interface_Glitches/
+    │   ├── README.md
+    │   ├── 🖱️_cursor_jump_triage.md
+    │   ├── 🧱_button_wont_click_triage.md
+    │   ├── 📝_text_field_lock_triage.md
+    │   ├── 🫥_vanishing_menu_or_overlay_triage.md
+    │   ├── 🧪_extensions_zoom_and_browser_checks.md
+    │   ├── 🎥_screen_recording_interface_glitches.md
+    │   └── 🚩_interface_glitch_red_flags.md
+    │
