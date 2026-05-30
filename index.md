@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-30 20:09:26 UTC_
+_Generated on 2026-05-30 20:11:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1872,10 +1872,6 @@ _Generated on 2026-05-30 20:09:26 UTC_
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20250901_September_2025/**](Disruption_Kit/Field_Logs/20250901_September_2025/)
-      - [`🛰️_silent_witness_effect_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_silent_witness_effect_field_log_2025-09-13.md)
-      - [`🛰️_stasi_style_email_mirroring_concerns_2025-09-27.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_stasi_style_email_mirroring_concerns_2025-09-27.md)
-      - [`🛰️_structural_vulnerabilities_media_harm_2025-09-27.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_structural_vulnerabilities_media_harm_2025-09-27.md)
-      - [`🛰️_stuck_for_several_minutes_2025-09-27.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_stuck_for_several_minutes_2025-09-27.md)
       - [`🛰️_suppression_gremlins_after_midnight_2025-09-18.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_suppression_gremlins_after_midnight_2025-09-18.md)
       - [`🛰️_surveillance_forking_incident_2025-09-27.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_surveillance_forking_incident_2025-09-27.md)
       - [`🛰️_suspicion_seeding_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_suspicion_seeding_field_log_2025-09-13.md)
@@ -7547,6 +7543,10 @@ _Generated on 2026-05-30 20:09:26 UTC_
             - [`🛰️_sec_2025-09.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_sec_2025-09.md)
             - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
             - [`🛰️_shabbat_exemption_inversion_field_log_2025-09-26.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_shabbat_exemption_inversion_field_log_2025-09-26.md)
+            - [`🛰️_silent_witness_effect_field_log_2025-09-13.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_silent_witness_effect_field_log_2025-09-13.md)
+            - [`🛰️_stasi_style_email_mirroring_concerns_2025-09-27.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_stasi_style_email_mirroring_concerns_2025-09-27.md)
+            - [`🛰️_structural_vulnerabilities_media_harm_2025-09-27.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_structural_vulnerabilities_media_harm_2025-09-27.md)
+            - [`🛰️_stuck_for_several_minutes_2025-09-27.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_stuck_for_several_minutes_2025-09-27.md)
         - [**💎_Resources/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/README.md)
           - [`⚖️_legal_templates_and_guides.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
