@@ -1,6 +1,5 @@
-# 🌐 Connection Hiccups
-
-**First created:** 2025-09-16 | **Last updated:** 2026-05-30
+# 🌐 Connection Hiccups  
+**First created:** 2025-09-16 | **Last updated:** 2026-05-30  
 *Network, upload, router, signal, and data-flow triage for when connection failure becomes more than “bad Wi-Fi.”*
 
 ---
