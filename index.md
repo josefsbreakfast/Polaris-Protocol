@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-30 19:41:54 UTC_
+_Generated on 2026-05-30 19:46:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1872,13 +1872,6 @@ _Generated on 2026-05-30 19:41:54 UTC_
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20250901_September_2025/**](Disruption_Kit/Field_Logs/20250901_September_2025/)
-      - [`🛰️_forking_on_poetic_rhythm_search.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_forking_on_poetic_rhythm_search.md)
-      - [`🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md)
-      - [`🛰️_frankenstack_interaction_2025-09-16.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_frankenstack_interaction_2025-09-16.md)
-      - [`🛰️_from_escalation_to_play_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_from_escalation_to_play_2025-09-20.md)
-      - [`🛰️_glass_box_containment_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_glass_box_containment_field_log_2025-09-26.md)
-      - [`🛰️_hope_withholding_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_hope_withholding_field_log_2025-09-13.md)
-      - [`🛰️_impersonation_by_proxy_field_log.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_impersonation_by_proxy_field_log.md)
       - [`🛰️_induced_futility_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_induced_futility_field_log_2025-09-13.md)
       - [`🛰️_intentionality_assessment_data_twinning_cluster_2016.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_intentionality_assessment_data_twinning_cluster_2016.md)
       - [`🛰️_interference_and_throttling_context_2025-09-22.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_interference_and_throttling_context_2025-09-22.md)
@@ -7547,6 +7540,13 @@ _Generated on 2026-05-30 19:41:54 UTC_
             - [`🛰️_fls_hard_today_2025-09-16.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_fls_hard_today_2025-09-16.md)
             - [`🛰️_foi_sar_silence_reliance.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_foi_sar_silence_reliance.md)
             - [`🛰️_forking_and_interference_on_survivor_nodes_2025-09-15.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_forking_and_interference_on_survivor_nodes_2025-09-15.md)
+            - [`🛰️_forking_on_poetic_rhythm_search.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_forking_on_poetic_rhythm_search.md)
+            - [`🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_frankenstack_forks_for_white_perpetrators_2025-09-17.md)
+            - [`🛰️_frankenstack_interaction_2025-09-16.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_frankenstack_interaction_2025-09-16.md)
+            - [`🛰️_from_escalation_to_play_2025-09-20.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_from_escalation_to_play_2025-09-20.md)
+            - [`🛰️_glass_box_containment_field_log_2025-09-26.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_glass_box_containment_field_log_2025-09-26.md)
+            - [`🛰️_hope_withholding_field_log_2025-09-13.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_hope_withholding_field_log_2025-09-13.md)
+            - [`🛰️_impersonation_by_proxy_field_log.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_impersonation_by_proxy_field_log.md)
         - [**💎_Resources/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/README.md)
           - [`⚖️_legal_templates_and_guides.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
