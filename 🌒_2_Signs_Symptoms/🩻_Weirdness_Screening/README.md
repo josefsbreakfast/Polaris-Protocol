@@ -1,6 +1,6 @@
 # 🩻 Weirdness Screening  
 **First created:** 2025-09-12 | **Last updated:** 2026-05-30  
-*First-notice tools for sorting ordinary glitches, patterned interference, and escalation-worthy digital weirdness.*
+*First-notice tools for sorting ordinary glitches, persistent anomalies, patterned interference, and escalation-worthy digital weirdness.*
 
 ---
 
@@ -16,6 +16,7 @@ A payment fails.
 The Wi-Fi collapses at exactly the wrong time.
 
 Most weird digital events are not sabotage.
+
 Some are boring bugs, exhausted devices, bad networks, cached scripts, stale sessions, app updates, overloaded servers, or human error.
 
 But some weirdness repeats.
@@ -27,7 +28,7 @@ This cluster gives people a calm way to:
 * preserve useful evidence,
 * notice recurrence,
 * compare across systems,
-* and escalate cleanly when the pattern deserves it.
+* and escalate cleanly when the pattern or impact deserves it.
 
 The working principle is simple:
 
@@ -74,6 +75,7 @@ Less useful:
 * “Someone rewrote everything.”
 
 That may or may not be true.
+
 The record needs the observable event first.
 
 ---
@@ -97,6 +99,7 @@ Common quick fixes:
 * wait briefly, then retry once.
 
 This is not surrender.
+
 This is evidence discipline.
 
 If the problem disappears after one obvious fix, note it if useful and move on.
@@ -113,7 +116,7 @@ Capture:
 
 * date and time, including timezone;
 * device, operating system, browser or app version;
-* network used, such as Wi-Fi, mobile data, VPN, public network;
+* network used, such as Wi-Fi, mobile data, VPN, or public network;
 * exact page, app, service, or route;
 * what you were trying to do;
 * what happened instead;
@@ -124,6 +127,7 @@ Capture:
 * any relevant deadline, message, upload, filing, or escalation nearby.
 
 The point is not to prove everything immediately.
+
 The point is to stop the event evaporating.
 
 ---
@@ -230,6 +234,36 @@ Action:
 * preserve evidence before changing settings;
 * contact the relevant responsible body;
 * seek human support if the incident is distressing or high-stakes.
+
+---
+
+## 🛑 Do Not Over-Test High-Stakes Systems
+
+Testing is useful.
+
+Over-testing can cause harm.
+
+Do not repeatedly test legal, medical, banking, immigration, safeguarding, employment, or essential access systems if failure could create:
+
+* lockouts;
+* fraud flags;
+* missed deadlines;
+* duplicate submissions;
+* overwritten records;
+* altered timestamps;
+* account freezes;
+* escalation against you;
+* or confusion about which version is authoritative.
+
+For high-stakes failures:
+
+1. preserve the failure state;
+2. screenshot or record once if safe;
+3. try one sensible alternate route;
+4. document what happened;
+5. escalate through a human or formal channel.
+
+Do not keep banging on a door that is turning your evidence into mush.
 
 ---
 
@@ -384,11 +418,11 @@ Examples:
 
 Good first tests:
 
-* zoom reset;
-* alternate browser;
-* mobile versus desktop view;
+* reset zoom;
+* try an alternate browser;
+* compare mobile versus desktop view;
 * disable extensions;
-* inspect whether the issue appears before or after typing specific content;
+* check whether the issue appears before or after typing specific content;
 * screen-record the attempt if safe.
 
 This folder is for the screen saying “yes” while the system says “no.”
@@ -553,6 +587,7 @@ The escalation packet should include:
 * what remedy is needed.
 
 Keep it boring.
+
 Boring travels.
 
 ---
