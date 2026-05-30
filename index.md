@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-29 20:59:29 UTC_
+_Generated on 2026-05-30 11:55:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -92,6 +92,7 @@ _Generated on 2026-05-29 20:59:29 UTC_
         - [`🇬🇧_calm_down_its_just_british.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🇬🇧_calm_down_its_just_british.md)
         - [`🇬🇧_flags_and_false_catharsis.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🇬🇧_flags_and_false_catharsis.md)
         - [`🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md)
+        - [`🌊_fighting_east_coast_erosion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🌊_fighting_east_coast_erosion.md)
         - [`🍿_imperial_core_drama_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🍿_imperial_core_drama_cycle.md)
         - [`🎴_tarot_of_prime_ministers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🎴_tarot_of_prime_ministers.md)
         - [`👑_diana_and_the_postmodern_queen.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/👑_diana_and_the_postmodern_queen.md)
