@@ -1,5 +1,5 @@
-# 🧿 Which Apparitional Object Is This?  
-**First created:** 2026-05-29 | **Last updated:** 2026-05-29  
+# 📿 Which Apparitional Object Is This?  
+**First created:** 2026-05-29 | **Last updated:** 2026-05-30  
 *A quick classification flowchart for deciding whether an anomaly is best logged as a ghost, fork, or haunted artefact.*
 
 ---
@@ -341,4 +341,4 @@ It provides a quick classification flowchart for routing ghost-like, fork-like, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-29_
+_Last updated: 2026-05-30_
