@@ -1,4 +1,3 @@
-# 🛰️ Pathologising Sensitivity Field Log — 2025-09-13  
 **First created:** 2025-09-13 | **Last updated:** 2025-12-29  
 *Field evidence of empathy, responsiveness, or legitimate distress reframed as pathology or instability.*  
 
