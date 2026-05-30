@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-30 19:55:46 UTC_
+_Generated on 2026-05-30 19:57:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1872,7 +1872,6 @@ _Generated on 2026-05-30 19:55:46 UTC_
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20250901_September_2025/**](Disruption_Kit/Field_Logs/20250901_September_2025/)
-      - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
       - [`🛰️_observed_memory_variations_2025-09-16.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_observed_memory_variations_2025-09-16.md)
       - [`🛰️_pathologising_sensitivity_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_pathologising_sensitivity_field_log_2025-09-13.md)
       - [`🛰️_patterns_analytic_addendum_update_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_patterns_analytic_addendum_update_2025-09-20.md)
@@ -7547,6 +7546,7 @@ _Generated on 2026-05-30 19:55:46 UTC_
             - [`🛰️_network_instability_deliberate_forking_hypothesis_2025-09-16.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_network_instability_deliberate_forking_hypothesis_2025-09-16.md)
             - [`🛰️_no_sex_no_apartheid.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_no_sex_no_apartheid.md)
             - [`🛰️_not_caldicott_fans_2025-09-21.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_not_caldicott_fans_2025-09-21.md)
+            - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
         - [**💎_Resources/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/README.md)
           - [`⚖️_legal_templates_and_guides.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
