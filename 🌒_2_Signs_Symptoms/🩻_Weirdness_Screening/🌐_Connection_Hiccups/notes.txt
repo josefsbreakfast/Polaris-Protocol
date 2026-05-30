@@ -1,0 +1,12 @@
+
+    │
+    ├── 🌐_Connection_Hiccups/
+    │   ├── README.md
+    │   ├── 🌐_bad_wifi_or_something_weirder.md
+    │   ├── 📤_upload_failure_triage.md
+    │   ├── 📞_call_drop_triage.md
+    │   ├── 🛰️_signal_drop_log_template.md
+    │   ├── 🔁_router_restart_and_retest_guide.md
+    │   ├── 🧪_network_comparison_tests.md
+    │   └── 🚩_connection_red_flags.md
+   
