@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-30 18:50:21 UTC_
+_Generated on 2026-05-30 18:51:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7068,6 +7068,7 @@ _Generated on 2026-05-30 18:50:21 UTC_
     - [`🎬_dennis_system_as_pua_satire.md`](🌓_3_In_The_Moment/🥃_Males_Online/🎬_dennis_system_as_pua_satire.md)
     - [`🐺_male_coded_pseudoscience.md`](🌓_3_In_The_Moment/🥃_Males_Online/🐺_male_coded_pseudoscience.md)
     - [`💊_red_pill.md`](🌓_3_In_The_Moment/🥃_Males_Online/💊_red_pill.md)
+    - [`🦚_the_peacocks_tail.md`](🌓_3_In_The_Moment/🥃_Males_Online/🦚_the_peacocks_tail.md)
     - [`🦤_uniform_spectacle.md`](🌓_3_In_The_Moment/🥃_Males_Online/🦤_uniform_spectacle.md)
     - [`🪬_masculinity_in_crisis.md`](🌓_3_In_The_Moment/🥃_Males_Online/🪬_masculinity_in_crisis.md)
     - [`🪬_pua_to_far_right_pipeline.md`](🌓_3_In_The_Moment/🥃_Males_Online/🪬_pua_to_far_right_pipeline.md)
