@@ -1,6 +1,6 @@
-I know that date has been sold.  
+I know that data has been sold.  
 
-I know that none of this has been conducted unlawfully.  
+I know that none of this has been conducted lawfully.  
 
 This is still deeply impactful, and what I am going through does meet the criteria for the CIDT, even now.  
 
