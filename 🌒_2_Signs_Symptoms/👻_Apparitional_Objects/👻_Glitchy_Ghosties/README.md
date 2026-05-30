@@ -1,5 +1,5 @@
 # 👻 Glitchy Ghosties  
-**First created:** 2025-10-04 | **Last updated:** 2026-05-29  
+**First created:** 2025-10-04 | **Last updated:** 2026-05-30  
 *A reader-facing field guide for ghost-like system behaviour: recurrence, misrecognition, resurfacing, inference, and algorithmic déjà vu.*
 
 ---
@@ -406,4 +406,4 @@ It provides a grounded taxonomy for ghost-like system behaviour, helping readers
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-29_
+_Last updated: 2026-05-30_
