@@ -1,7 +1,6 @@
-# 🐺 AMOG A Joke
-
-**First created:** 2025-09-27 | **Last updated:** 2026-05-30
-*A behavioural field note on rival-displacement, competitive humiliation, alpha-male theatre, and the exhausting little project of trying to become the most important man in a room that did not ask for a king.*
+# 🐺 AMOG A Joke  
+**First created:** 2025-09-27 | **Last updated:** 2026-05-30  
+*A behavioural field note on rival-displacement, competitive humiliation, alpha-male theatre, and the exhausting little project of trying to become the most important man in a room that did not ask for a king.*  
 
 ---
 
