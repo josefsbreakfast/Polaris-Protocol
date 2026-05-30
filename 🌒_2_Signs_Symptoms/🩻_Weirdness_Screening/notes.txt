@@ -1,0 +1,93 @@
+🌒_2_Signs_Symptoms/
+└── 🩻_Weirdness_Screening/
+    ├── README.md
+    ├── 🧭_start_here_weirdness_triage.md
+    ├── 🧰_obvious_small_fixes_first.md
+    ├── 🧾_minimal_weirdness_log_template.md
+    ├── 🚦_when_to_ignore_log_or_escalate.md
+    ├── 📸_screenshot_and_screen_recording_basics.md
+    ├── 🧪_cross_checking_without_spiralling.md
+    ├── 📦_evidence_packet_builder.md
+    ├── 🧯_nervous_system_grounding_for_glitches.md
+    ├── ⚖️_high_stakes_exception_rules.md
+    ├── 🗺️_which_folder_should_this_go_in.md
+    │
+    ├── 🌐_Connection_Hiccups/
+    │   ├── README.md
+    │   ├── 🌐_bad_wifi_or_something_weirder.md
+    │   ├── 📤_upload_failure_triage.md
+    │   ├── 📞_call_drop_triage.md
+    │   ├── 🛰️_signal_drop_log_template.md
+    │   ├── 🔁_router_restart_and_retest_guide.md
+    │   ├── 🧪_network_comparison_tests.md
+    │   └── 🚩_connection_red_flags.md
+    │
+    ├── 🎛_Systematic_Patterns/
+    │   ├── README.md
+    │   ├── 🎛_when_a_glitch_repeats.md
+    │   ├── 🗓️_recurrence_log_template.md
+    │   ├── 🧮_simple_pattern_counting.md
+    │   ├── 📊_timeline_overlay_template.md
+    │   ├── 🪞_same_time_same_place_same_failure.md
+    │   ├── 🧪_testing_pattern_without_over_testing.md
+    │   └── 🚩_systematic_pattern_red_flags.md
+    │
+    ├── 📂_Data_Shifts/
+    │   ├── README.md
+    │   ├── 📂_missing_file_triage.md
+    │   ├── 🕰️_timestamp_drift_triage.md
+    │   ├── 📎_attachment_disappeared_triage.md
+    │   ├── 🧾_version_history_checklist.md
+    │   ├── 🧮_basic_checksum_guide.md
+    │   ├── 📜_chain_of_custody_basics.md
+    │   └── 🚩_data_shift_red_flags.md
+    │
+    ├── 📬_Comms_Breaks/
+    │   ├── README.md
+    │   ├── 📬_message_not_received_triage.md
+    │   ├── 📎_attachment_not_delivered_triage.md
+    │   ├── 📞_call_cut_out_triage.md
+    │   ├── 🪩_cross_device_message_check.md
+    │   ├── 🧾_email_header_and_bounce_basics.md
+    │   ├── 🔁_alternate_channel_test.md
+    │   └── 🚩_comms_break_red_flags.md
+    │
+    ├── 🔑_Access_Barriers/
+    │   ├── README.md
+    │   ├── 🔑_login_failure_triage.md
+    │   ├── 🔐_mfa_loop_triage.md
+    │   ├── 🧱_submit_button_failure_triage.md
+    │   ├── 🍪_cookies_cache_and_session_tokens.md
+    │   ├── 🧪_browser_device_account_comparison.md
+    │   ├── 🧾_access_failure_log_template.md
+    │   └── 🚩_access_barrier_red_flags.md
+    │
+    ├── 🖥_Interface_Glitches/
+    │   ├── README.md
+    │   ├── 🖱️_cursor_jump_triage.md
+    │   ├── 🧱_button_wont_click_triage.md
+    │   ├── 📝_text_field_lock_triage.md
+    │   ├── 🫥_vanishing_menu_or_overlay_triage.md
+    │   ├── 🧪_extensions_zoom_and_browser_checks.md
+    │   ├── 🎥_screen_recording_interface_glitches.md
+    │   └── 🚩_interface_glitch_red_flags.md
+    │
+    ├── 🚉_Infrastructure_Hiccups/
+    │   ├── README.md
+    │   ├── 🚉_transport_disruption_log.md
+    │   ├── 🏧_atm_or_card_terminal_failure.md
+    │   ├── 🔌_utility_or_power_outage_log.md
+    │   ├── 🎫_ticket_gate_or_booking_failure.md
+    │   ├── 🧾_official_notice_capture_guide.md
+    │   ├── 🗺️_local_cross_checking.md
+    │   └── 🚩_infrastructure_hiccup_red_flags.md
+    │
+    └── 🛒_Service_Blockages/
+        ├── README.md
+        ├── 🛒_cart_emptying_triage.md
+        ├── 📦_phantom_stock_triage.md
+        ├── 💳_payment_decline_triage.md
+        ├── 🎟️_booking_or_delivery_option_vanishes.md
+        ├── 🧪_guest_account_postcode_payment_tests.md
+        ├── 🧾_service_blockage_log_template.md
+        └── 🚩_service_blockage_red_flags.md
