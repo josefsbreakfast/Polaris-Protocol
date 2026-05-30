@@ -1,0 +1,11 @@
+
+    │
+    ├── 🔑_Access_Barriers/
+    │   ├── README.md
+    │   ├── 🔑_login_failure_triage.md
+    │   ├── 🔐_mfa_loop_triage.md
+    │   ├── 🧱_submit_button_failure_triage.md
+    │   ├── 🍪_cookies_cache_and_session_tokens.md
+    │   ├── 🧪_browser_device_account_comparison.md
+    │   ├── 🧾_access_failure_log_template.md
+    │   └── 🚩_access_barrier_red_flags.md
