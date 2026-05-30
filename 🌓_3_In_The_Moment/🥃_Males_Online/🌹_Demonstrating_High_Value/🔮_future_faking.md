@@ -1,6 +1,5 @@
-# 🔮 Future Faking
-
-**First created:** 2025-09-29 | **Last updated:** 2026-05-30
+# 🔮 Future Faking  
+**First created:** 2025-09-29 | **Last updated:** 2026-05-30  
 *A behavioural field note on promised futures, deferred intimacy, status projection, and the use of imagined rewards to extract present trust, compliance, money, attention, or loyalty.*
 
 ---
