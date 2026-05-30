@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-30 19:59:28 UTC_
+_Generated on 2026-05-30 20:00:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1873,7 +1873,6 @@ _Generated on 2026-05-30 19:59:28 UTC_
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20250901_September_2025/**](Disruption_Kit/Field_Logs/20250901_September_2025/)
       - [`🛰️_observed_memory_variations_2025-09-16.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_observed_memory_variations_2025-09-16.md)
-      - [`🛰️_pathologising_sensitivity_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_pathologising_sensitivity_field_log_2025-09-13.md)
       - [`🛰️_patterns_analytic_addendum_update_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_patterns_analytic_addendum_update_2025-09-20.md)
       - [`🛰️_patterns_update_user_observations_context_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_patterns_update_user_observations_context_2025-09-20.md)
       - [`🛰️_proximity_to_experiments_st_georges_2016_2025-09-20.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_proximity_to_experiments_st_georges_2016_2025-09-20.md)
@@ -7544,6 +7543,7 @@ _Generated on 2026-05-30 19:59:28 UTC_
             - [`🛰️_no_sex_no_apartheid.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_no_sex_no_apartheid.md)
             - [`🛰️_not_caldicott_fans_2025-09-21.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_not_caldicott_fans_2025-09-21.md)
             - [`🛰️_nudge_vs_fisher_probe_2025-09-11.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_nudge_vs_fisher_probe_2025-09-11.md)
+            - [`🛰️_pathologising_sensitivity_field_log_2025-09-13.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_pathologising_sensitivity_field_log_2025-09-13.md)
             - [`🛰️_patterns_update_interference_2025-09-20.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_patterns_update_interference_2025-09-20.md)
             - [`🛰️_persistent_discrediting_force_field_log_2025-09-15.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_persistent_discrediting_force_field_log_2025-09-15.md)
             - [`🛰️_precursors_summary_2025-09-19.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_precursors_summary_2025-09-19.md)
