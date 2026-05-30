@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-30 11:55:29 UTC_
+_Generated on 2026-05-30 18:06:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -7066,6 +7066,8 @@ _Generated on 2026-05-30 11:55:29 UTC_
     - [`🪞_observer_reflexivity_log.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🪞_observer_reflexivity_log.md)
     - [`🪩_verification_and_containment.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🪩_verification_and_containment.md)
     - [`🪶_pattern_tracking_protocols.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🪶_pattern_tracking_protocols.md)
+  - [**🥃_Males_Online/**](🌓_3_In_The_Moment/🥃_Males_Online/)
+    - [`README.md`](🌓_3_In_The_Moment/🥃_Males_Online/README.md)
   - [**🦉_Language_As_Attack_Surface/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/)
     - [**🏮_AntiContainment_Clauses/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🏮_AntiContainment_Clauses/)
       - [`README.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🏮_AntiContainment_Clauses/README.md)
