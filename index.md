@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-30 18:28:51 UTC_
+_Generated on 2026-05-30 18:32:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6612,6 +6612,7 @@ _Generated on 2026-05-30 18:28:51 UTC_
         - [`🪢_relational_misbinding.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/👻_Glitchy_Ghosties/🪹_Network_Ghosts/🪢_relational_misbinding.md)
       - [`README.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/👻_Glitchy_Ghosties/README.md)
     - [`README.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/README.md)
+    - [`📿_which_apparitional_object_is_this.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/📿_which_apparitional_object_is_this.md)
   - [**🛰️_Metadata_Sabotage_Network/**](🌒_2_Signs_Symptoms/🛰️_Metadata_Sabotage_Network/)
     - [**🔥_Data_Risks/**](🌒_2_Signs_Symptoms/🛰️_Metadata_Sabotage_Network/🔥_Data_Risks/)
       - [**📿_Vulnerable_Data_Populations/**](🌒_2_Signs_Symptoms/🛰️_Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/)
