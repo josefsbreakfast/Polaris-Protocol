@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-30 20:07:48 UTC_
+_Generated on 2026-05-30 20:09:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1872,8 +1872,6 @@ _Generated on 2026-05-30 20:07:48 UTC_
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20250901_September_2025/**](Disruption_Kit/Field_Logs/20250901_September_2025/)
-      - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
-      - [`🛰️_shabbat_exemption_inversion_field_log_2025-09-26.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_shabbat_exemption_inversion_field_log_2025-09-26.md)
       - [`🛰️_silent_witness_effect_field_log_2025-09-13.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_silent_witness_effect_field_log_2025-09-13.md)
       - [`🛰️_stasi_style_email_mirroring_concerns_2025-09-27.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_stasi_style_email_mirroring_concerns_2025-09-27.md)
       - [`🛰️_structural_vulnerabilities_media_harm_2025-09-27.md`](Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_structural_vulnerabilities_media_harm_2025-09-27.md)
@@ -7547,6 +7545,8 @@ _Generated on 2026-05-30 20:07:48 UTC_
             - [`🛰️_retrospective_cross_references_throttling_2025-09-22.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_retrospective_cross_references_throttling_2025-09-22.md)
             - [`🛰️_safety_transparency_email_2025-09-05.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_safety_transparency_email_2025-09-05.md)
             - [`🛰️_sec_2025-09.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_sec_2025-09.md)
+            - [`🛰️_sensitivity_in_referencing_reports_2025-09-05.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_sensitivity_in_referencing_reports_2025-09-05.md)
+            - [`🛰️_shabbat_exemption_inversion_field_log_2025-09-26.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250901_September_2025/🛰️_shabbat_exemption_inversion_field_log_2025-09-26.md)
         - [**💎_Resources/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/README.md)
           - [`⚖️_legal_templates_and_guides.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
