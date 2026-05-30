@@ -1,0 +1,12 @@
+
+    │
+    ├── 📬_Comms_Breaks/
+    │   ├── README.md
+    │   ├── 📬_message_not_received_triage.md
+    │   ├── 📎_attachment_not_delivered_triage.md
+    │   ├── 📞_call_cut_out_triage.md
+    │   ├── 🪩_cross_device_message_check.md
+    │   ├── 🧾_email_header_and_bounce_basics.md
+    │   ├── 🔁_alternate_channel_test.md
+    │   └── 🚩_comms_break_red_flags.md
+    │
