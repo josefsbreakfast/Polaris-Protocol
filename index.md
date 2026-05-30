@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-30 18:06:42 UTC_
+_Generated on 2026-05-30 18:13:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -900,19 +900,6 @@ _Generated on 2026-05-30 18:06:42 UTC_
           - [`coi_register.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/coi_register.csv)
           - [`evidence_review_extraction.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/evidence_review_extraction.csv)
           - [`purpose_review_coding.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/systematic_reviews/purpose_review_coding.csv)
-        - [**🌹_Demonstrating_High_Value/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/)
-          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/README.md)
-          - [`🌹_negging.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🌹_negging.md)
-          - [`🎬_dennis_system_as_pua_satire.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🎬_dennis_system_as_pua_satire.md)
-          - [`🐺_AMOG_a_joke.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🐺_AMOG_a_joke.md)
-          - [`💊_red_pill.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/💊_red_pill.md)
-          - [`🔮_future_faking.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🔮_future_faking.md)
-          - [`🦚_peacocking.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🦚_peacocking.md)
-          - [`🦤_uniform_spectacle.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🦤_uniform_spectacle.md)
-          - [`🧤_kino_escalation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🧤_kino_escalation.md)
-          - [`🪬_masculinity_in_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪬_masculinity_in_crisis.md)
-          - [`🪬_pua_to_far_right_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪬_pua_to_far_right_pipeline.md)
-          - [`🪭_comfort_building.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌹_Demonstrating_High_Value/🪭_comfort_building.md)
         - [**🦇_Background_Weirdness/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦇_Background_Weirdness/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦇_Background_Weirdness/README.md)
           - [`🎩_edwardian_occult_as_live_action_privilege.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦇_Background_Weirdness/🎩_edwardian_occult_as_live_action_privilege.md)
@@ -7067,6 +7054,19 @@ _Generated on 2026-05-30 18:06:42 UTC_
     - [`🪩_verification_and_containment.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🪩_verification_and_containment.md)
     - [`🪶_pattern_tracking_protocols.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🪶_pattern_tracking_protocols.md)
   - [**🥃_Males_Online/**](🌓_3_In_The_Moment/🥃_Males_Online/)
+    - [**🌹_Demonstrating_High_Value/**](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/)
+      - [`README.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/README.md)
+      - [`🌹_negging.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🌹_negging.md)
+      - [`🎬_dennis_system_as_pua_satire.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🎬_dennis_system_as_pua_satire.md)
+      - [`🐺_AMOG_a_joke.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🐺_AMOG_a_joke.md)
+      - [`💊_red_pill.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/💊_red_pill.md)
+      - [`🔮_future_faking.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🔮_future_faking.md)
+      - [`🦚_peacocking.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🦚_peacocking.md)
+      - [`🦤_uniform_spectacle.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🦤_uniform_spectacle.md)
+      - [`🧤_kino_escalation.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🧤_kino_escalation.md)
+      - [`🪬_masculinity_in_crisis.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🪬_masculinity_in_crisis.md)
+      - [`🪬_pua_to_far_right_pipeline.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🪬_pua_to_far_right_pipeline.md)
+      - [`🪭_comfort_building.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🪭_comfort_building.md)
     - [`README.md`](🌓_3_In_The_Moment/🥃_Males_Online/README.md)
   - [**🦉_Language_As_Attack_Surface/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/)
     - [**🏮_AntiContainment_Clauses/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🏮_AntiContainment_Clauses/)
