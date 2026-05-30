@@ -1,7 +1,6 @@
-# 🌹 Demonstrating High Value
-
-**First created:** 2025-09-27 | **Last updated:** 2026-05-30
-*A behaviour-focused field clinic for decoding high-value performance scripts, status theatre, pressure patterns, and PUA-derived moves inside online male grievance cultures.*
+# 🌹 Demonstrating High Value  
+**First created:** 2025-09-27 | **Last updated:** 2026-05-30  
+*A behaviour-focused field clinic for decoding high-value performance scripts, status theatre, pressure patterns, and PUA-derived moves inside online male grievance cultures.*  
 
 ---
 
