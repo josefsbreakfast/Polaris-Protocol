@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-30 19:07:20 UTC_
+_Generated on 2026-05-30 19:11:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6675,6 +6675,7 @@ _Generated on 2026-05-30 19:07:20 UTC_
   - [**🩻_Weirdness_Screening/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/)
     - [**🌐_Connection_Hiccups/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/)
       - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/README.md)
+      - [`notes.txt`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/notes.txt)
       - [`⏱️_timebase_desyncs.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/⏱️_timebase_desyncs.md)
       - [`📞_ghost_call_drops.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/📞_ghost_call_drops.md)
       - [`📡_protocol_shadowing.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/📡_protocol_shadowing.md)
@@ -6685,19 +6686,25 @@ _Generated on 2026-05-30 19:07:20 UTC_
       - [`🧩_connectivity_mosaic.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/🧩_connectivity_mosaic.md)
     - [**🎛_Systematic_Patterns/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🎛_Systematic_Patterns/)
       - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🎛_Systematic_Patterns/README.md)
+      - [`notes.txt`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🎛_Systematic_Patterns/notes.txt)
     - [**📂_Data_Shifts/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/📂_Data_Shifts/)
       - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/📂_Data_Shifts/README.md)
+      - [`notes.txt`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/📂_Data_Shifts/notes.txt)
       - [`📝_repo_upload_glitch_hollow_node.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/📂_Data_Shifts/📝_repo_upload_glitch_hollow_node.md)
     - [**📬_Comms_Breaks/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/📬_Comms_Breaks/)
       - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/📬_Comms_Breaks/README.md)
+      - [`notes.txt`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/📬_Comms_Breaks/notes.txt)
       - [`📎_attachments_not_delivered.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/📬_Comms_Breaks/📎_attachments_not_delivered.md)
     - [**🔑_Access_Barriers/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🔑_Access_Barriers/)
       - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🔑_Access_Barriers/README.md)
+      - [`notes.txt`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🔑_Access_Barriers/notes.txt)
     - [**🖥_Interface_Glitches/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🖥_Interface_Glitches/)
       - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🖥_Interface_Glitches/README.md)
+      - [`notes.txt`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🖥_Interface_Glitches/notes.txt)
       - [`🖱_cursor_jump_troubleshooting_flowchart.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🖥_Interface_Glitches/🖱_cursor_jump_troubleshooting_flowchart.md)
     - [**🚉_Infrastructure_Hiccups/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/)
       - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/README.md)
+      - [`notes.txt`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/notes.txt)
       - [`🏧_atm_freeze_patterns.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/🏧_atm_freeze_patterns.md)
       - [`💳_payment_system_outage_registry.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/💳_payment_system_outage_registry.md)
       - [`📈_infrastructure_sync_chart.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/📈_infrastructure_sync_chart.md)
@@ -6706,6 +6713,7 @@ _Generated on 2026-05-30 19:07:20 UTC_
       - [`🧰_field_kit_infrastructure_logs.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🚉_Infrastructure_Hiccups/🧰_field_kit_infrastructure_logs.md)
     - [**🛒_Service_Blockages/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🛒_Service_Blockages/)
       - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🛒_Service_Blockages/README.md)
+      - [`notes.txt`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🛒_Service_Blockages/notes.txt)
       - [`💳_payment_auth_failure_log.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🛒_Service_Blockages/💳_payment_auth_failure_log.md)
       - [`📈_service_blockage_timeline.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🛒_Service_Blockages/📈_service_blockage_timeline.md)
       - [`📦_cart_reset_patterns.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🛒_Service_Blockages/📦_cart_reset_patterns.md)
@@ -6713,6 +6721,7 @@ _Generated on 2026-05-30 19:07:20 UTC_
       - [`🧾_phantom_stock_registry.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🛒_Service_Blockages/🧾_phantom_stock_registry.md)
       - [`🪞_retail_shadowban_index.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🛒_Service_Blockages/🪞_retail_shadowban_index.md)
     - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/README.md)
+    - [`notes.txt`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/notes.txt)
   - [**🫁_Holistic_Health_In_Surveillant_Societies/**](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/)
     - [**📖_literature_review_funnel/**](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/)
       - [`README.md`](🌒_2_Signs_Symptoms/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/README.md)
