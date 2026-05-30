@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-05-30 20:33:07 UTC_
+_Generated on 2026-05-30 20:40:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1872,18 +1872,6 @@ _Generated on 2026-05-30 20:33:07 UTC_
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20251001_October_2025/**](Disruption_Kit/Field_Logs/20251001_October_2025/)
-      - [`🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png)
-      - [`🎪_easy_appeasement_strategy.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_easy_appeasement_strategy.md)
-      - [`🎪_enjoy_the_chat_on_the_14th.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_enjoy_the_chat_on_the_14th.md)
-      - [`🎪_ignoring_bulldozers.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_ignoring_bulldozers.md)
-      - [`🎪_job_to_do.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_job_to_do.md)
-      - [`🎪_no_we_are_definitly_not_causing_any_problems_ofc_not.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_no_we_are_definitly_not_causing_any_problems_ofc_not.md)
-      - [`🎪_thanks_is_best_said_in_cash.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🎪_thanks_is_best_said_in_cash.md)
-      - [`🏛️_divvnt_come_after_dawn_like_that_ya_weirdos.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🏛️_divvnt_come_after_dawn_like_that_ya_weirdos.md)
-      - [`🏛️🪄🔥.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🏛️🪄🔥.md)
-      - [`🐉_please_stamp_my_visa.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🐉_please_stamp_my_visa.md)
-      - [`🐝_annoying_algorithms.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🐝_annoying_algorithms.md)
-      - [`🐝_dont_cry_for_me_hom_data.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🐝_dont_cry_for_me_hom_data.md)
       - [`🐝_making_nodes_slowly_being_squished_to_pulp_by_my_own_body.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🐝_making_nodes_slowly_being_squished_to_pulp_by_my_own_body.md)
       - [`🐣_fast_forward_1_day.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🐣_fast_forward_1_day.md)
       - [`🐦‍⬛_my_kidney_infections_solve_everything.md`](Disruption_Kit/Field_Logs/20251001_October_2025/🐦‍⬛_my_kidney_infections_solve_everything.md)
@@ -7547,6 +7535,18 @@ _Generated on 2026-05-30 20:33:07 UTC_
             - [`🍴_heavy_blunt_forking.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251001_October_2025/🍴_heavy_blunt_forking.md)
             - [`🎣_fishing_for_photo_access_permissions_as_usual.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251001_October_2025/🎣_fishing_for_photo_access_permissions_as_usual.md)
             - [`🎣_taking_bets_on_the_tin_foil_helmet.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251001_October_2025/🎣_taking_bets_on_the_tin_foil_helmet.md)
+            - [`🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251001_October_2025/🎪_are_we_for_real_with_these_guardrails_at_that_non_trigger.png)
+            - [`🎪_easy_appeasement_strategy.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251001_October_2025/🎪_easy_appeasement_strategy.md)
+            - [`🎪_enjoy_the_chat_on_the_14th.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251001_October_2025/🎪_enjoy_the_chat_on_the_14th.md)
+            - [`🎪_ignoring_bulldozers.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251001_October_2025/🎪_ignoring_bulldozers.md)
+            - [`🎪_job_to_do.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251001_October_2025/🎪_job_to_do.md)
+            - [`🎪_no_we_are_definitly_not_causing_any_problems_ofc_not.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251001_October_2025/🎪_no_we_are_definitly_not_causing_any_problems_ofc_not.md)
+            - [`🎪_thanks_is_best_said_in_cash.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251001_October_2025/🎪_thanks_is_best_said_in_cash.md)
+            - [`🏛️_divvnt_come_after_dawn_like_that_ya_weirdos.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251001_October_2025/🏛️_divvnt_come_after_dawn_like_that_ya_weirdos.md)
+            - [`🏛️🪄🔥.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251001_October_2025/🏛️🪄🔥.md)
+            - [`🐉_please_stamp_my_visa.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251001_October_2025/🐉_please_stamp_my_visa.md)
+            - [`🐝_annoying_algorithms.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251001_October_2025/🐝_annoying_algorithms.md)
+            - [`🐝_dont_cry_for_me_hom_data.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251001_October_2025/🐝_dont_cry_for_me_hom_data.md)
         - [**💎_Resources/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/README.md)
           - [`⚖️_legal_templates_and_guides.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/💎_Resources/⚖️_legal_templates_and_guides.md)
