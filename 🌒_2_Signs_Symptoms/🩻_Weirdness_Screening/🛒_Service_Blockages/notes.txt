@@ -1,0 +1,11 @@
+
+    │
+    └── 🛒_Service_Blockages/
+        ├── README.md
+        ├── 🛒_cart_emptying_triage.md
+        ├── 📦_phantom_stock_triage.md
+        ├── 💳_payment_decline_triage.md
+        ├── 🎟️_booking_or_delivery_option_vanishes.md
+        ├── 🧪_guest_account_postcode_payment_tests.md
+        ├── 🧾_service_blockage_log_template.md
+        └── 🚩_service_blockage_red_flags.md
