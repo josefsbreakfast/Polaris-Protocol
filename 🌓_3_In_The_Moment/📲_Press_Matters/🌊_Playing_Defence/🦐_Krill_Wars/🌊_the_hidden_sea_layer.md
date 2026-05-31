@@ -1,7 +1,8 @@
-# 🌊 The Hidden Sea Layer
-
+# 🌊 The Hidden Sea Layer  
 **First created:** 2026-05-31 | **Last updated:** 2026-05-31
-*A plain-language explainer for the undersea technology frontier: cables, submarines, drones, AI, AUKUS, Australia, China, and the infrastructure beneath ordinary life.*
+*A plain-language explainer for the undersea technology frontier: cables, submarines, drones, AI, AUKUS, Australia, China, and the infrastructure beneath ordinary life.*  
+
+---
 
 ## 🛰️ Orientation
 
@@ -35,7 +36,9 @@ The current media problem is that people are being handed the nouns without the 
 
 Those are not separate stories.
 
-They are the hidden sea layer becoming visible for a moment.
+They are the hidden sea layer becoming visible for a moment.  
+
+---
 
 ## 🌊 The Sea Is Not Background
 
@@ -61,7 +64,9 @@ Commercial operators repair it.
 
 Most civilians only notice it when something goes wrong.
 
-That is why the hidden sea layer needs explaining before a crisis makes everyone learn it badly.
+That is why the hidden sea layer needs explaining before a crisis makes everyone learn it badly.  
+
+---
 
 ## 🕸️ The Internet Has A Seabed
 
@@ -94,7 +99,9 @@ A major disruption can still create delays, outages, degraded services, financia
 
 The cable is not decorative.
 
-The cable is the system.
+The cable is the system.  
+
+---
 
 ## 🐋 Why Submarines Belong In The Same Story
 
@@ -133,7 +140,9 @@ That is where undersea sensors, drones, allied monitoring, counter-surveillance,
 
 The missile is not the whole story.
 
-The darkness around the missile is also part of the story.
+The darkness around the missile is also part of the story.  
+
+---
 
 ## 🦐 Why Drones And Sensors Matter
 
@@ -164,7 +173,9 @@ That is why the public needs a map.
 
 Not every detail.
 
-A map.
+A map.  
+
+---
 
 ## 🗺️ Where Australia And China Sit
 
@@ -194,7 +205,9 @@ Different actors sit in different branches:
 
 The point is not to collapse every adversary into one spooky blob.
 
-The point is to remember the map.
+The point is to remember the map.  
+
+---
 
 ## 🛰️ Where AUKUS Fits
 
@@ -226,7 +239,9 @@ It is closer to:
 
 > allies building parts of a shared undersea operating system for a world where cables, submarines, seabed infrastructure, hostile-state probing, and autonomous systems increasingly overlap.
 
-That is why the story is bigger than the headline.
+That is why the story is bigger than the headline.  
+
+---
 
 ## 🧮 Why This Is A Good Use Of Technology
 
@@ -258,7 +273,9 @@ Those are not the same moral problem.
 
 A serious coastal democracy needs data capability.
 
-It should use that capability for krill, not Doris.
+It should use that capability for krill, not Doris.  
+
+---
 
 ## 🧿 What The Public Does Not Need To Know
 
@@ -298,7 +315,9 @@ The public does need to understand:
 
 The aim is not maximum disclosure.
 
-The aim is enough explanation for public consent.
+The aim is enough explanation for public consent.  
+
+---
 
 ## 🧭 Plain Map
 
@@ -350,11 +369,15 @@ That is the physical nervous system of the country being defended below the wate
 
 The media can report it as procurement copy if it wants to.
 
-But the story is bigger than the filing cabinet.
+But the story is bigger than the filing cabinet.  
+
+---
 
 ## 🌌 Constellations
 
-🌊 🕸️ 🐋 🦐 🛰️ — hidden sea layer; undersea cables; submarine concealment; autonomous systems; AUKUS public map.
+🌊 🕸️ 🐋 🦐 🛰️ — hidden sea layer; undersea cables; submarine concealment; autonomous systems; AUKUS public map.  
+
+---
 
 ## ✨ Stardust
 
