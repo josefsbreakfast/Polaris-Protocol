@@ -1,4 +1,4 @@
-## New mandatory training module for the surveillamce bods:
+## New mandatory training module for the surveillamce bods: 
 
 '⚡_ptsd_is_not_a_jump_scare.md'
 
