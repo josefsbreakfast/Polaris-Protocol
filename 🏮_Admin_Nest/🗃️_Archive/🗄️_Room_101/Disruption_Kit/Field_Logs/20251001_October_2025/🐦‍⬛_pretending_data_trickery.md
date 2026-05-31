@@ -1,3 +1,8 @@
+original title: `🐦‍⬛_pretending_all_of_our_vulnerabilities_are_someone_else_and_hiding_behind_them_is_unfair_in_every_instance_of_data_trickery.md`  
+
+---
+
+
 i appreciate white supremacy snd apartheid does some weird things to the brain but can we stop doing this?  
 
 its not hugely respectful to the user id you are hiding behind.  
