@@ -1,0 +1,33 @@
+Here:  
+
+🦐_Krill_Wars/
+├── README.md
+├── 🌊_the_hidden_sea_layer.md
+├── 🦐_krill_whales_and_anti_krill.md
+├── 🛰️_aukus_undersea_drones_cable_defence.md
+├── 🧮_krill_not_doris_media_version.md
+├── 🎖️_recruitment_and_the_undersea_frontier.md
+├── 🧿_safe_detail_not_fog.md
+├── 🗞️_why_the_story_went_boring.md
+├── 🐘_when_the_missing_map_becomes_the_story.md
+└── 🪖_morale_without_propaganda.md
+
+Elsewhere:  
+
+Big_Picture_Protocols/
+└── 🛡️_Defending_Realms/
+    └── 🌊_Seabed_Internet_And_Undersea_Deterrence/
+        ├── 🌊_cables_are_the_system.md
+        ├── 🧊_satellites_are_not_enough.md
+        ├── 🦐_krill_swarms_and_ocean_opacity.md
+        ├── 🛰️_aukus_pillar_two_after_trident.md
+        └── 🧭_north_atlantic_tripwire.md
+
+🌓_3_In_The_Moment/
+└── 📲_Press_Matters/
+    └── 🌊_Playing_Defence/
+        ├── 🪖_morale_is_not_automatically_propaganda.md
+        ├── 🧿_the_british_d_notice_reflex.md
+        ├── 🎖️_defence_comms_recruitment_and_retention.md
+        ├── 🗞️_not_every_quiet_story_is_suppression.md
+        └── 🐘_the_elephant_shaped_hole.md
