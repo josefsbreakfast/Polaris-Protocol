@@ -1,4 +1,6 @@
-*written to the unforgettable tune of asli ana, zeyne.*
+*written to the unforgettable tune of asli ana, zeyne  
+
+original title: `🍉_i_think_if_i_cant_have_babies_because_i_listened_to_palestinian_resistance_and_war_crimes_evidence_then_the_algorithm_may_be_occupied.md`  
 
 regarding `Disruption_Kit/Field_Logs/🍉_i_think_if_i_cant_have_babies_because_i_listened_to_palestinian_resistance_and_war_crimes_evidence_then_the_algorithm_may_be_occupied.PNG`,  
 being a jewish woman,  
