@@ -1,5 +1,5 @@
 # 🌊 The Hidden Sea Layer  
-**First created:** 2026-05-31 | **Last updated:** 2026-05-31
+**First created:** 2026-05-31 | **Last updated:** 2026-05-31  
 *A plain-language explainer for the undersea technology frontier: cables, submarines, drones, AI, AUKUS, Australia, China, and the infrastructure beneath ordinary life.*  
 
 ---
