@@ -1,7 +1,8 @@
-# 🦐 Krill Wars
+# 🦐 Krill Wars  
+**First created:** 2026-05-31 | **Last updated:** 2026-05-31  
+*A current-facing media pack on AUKUS, undersea drones, cables, submarines, AI, hostile-state probing, and the hidden sea layer of modern defence.*  
 
-**First created:** 2026-05-31 | **Last updated:** 2026-05-31
-*A current-facing media pack on AUKUS, undersea drones, cables, submarines, AI, hostile-state probing, and the hidden sea layer of modern defence.*
+---
 
 ## 🛰️ Orientation
 
@@ -37,6 +38,8 @@ In plainer language:
 > The submarines are not isolated symbols.
 > The hidden layer is the story.
 
+---
+
 ## 🦐 Why “Krill Wars”
 
 “Krill” is the deliberately ridiculous phrase that makes the serious system memorable.
@@ -51,6 +54,8 @@ In this cluster:
 The point is not to make defence cute.
 
 The point is to give the public a map that can survive contact with a headline.
+
+---
 
 ## 🌊 The Hidden Sea Layer
 
@@ -67,6 +72,8 @@ It has routes, chokepoints, landing stations, repair ships, commercial dependenc
 The cable is not decorative.
 
 The cable is the system.
+
+---
 
 ## 🐋 Why Submarines And Cables Belong Together
 
@@ -95,6 +102,8 @@ That does not mean Trident is obsolete.
 
 It means the darkness around the missile now needs defending.
 
+---
+
 ## 🛰️ AUKUS Without The Grey Slurry
 
 Officially, this story sits inside **AUKUS Pillar II**.
@@ -112,6 +121,8 @@ The undersea announcement matters because it makes that layer concrete.
 This is not simply “three countries develop underwater drones.”
 
 It is closer to building an allied undersea operating system.
+
+---
 
 ## 🧮 Krill, Not Doris
 
@@ -141,6 +152,8 @@ A country with a coastline, ports, cables, submarines, offshore energy, hostile-
 
 It does not need to waste its future building better ways to watch ordinary people doing their shopping.
 
+---
+
 ## 🪖 Morale Is Not Automatically Propaganda
 
 This story should be exciting.
@@ -168,6 +181,8 @@ The public can be told:
 * this is still part of democratic defence, not magic kit beyond scrutiny.
 
 That is adult morale.
+
+---
 
 ## 🎖️ Recruitment And The Cool Shit Problem
 
@@ -204,6 +219,8 @@ Not everyone comes to defence through glory.
 
 Some come through usefulness.
 
+---
+
 ## 🧿 Safe Detail, Not Fog
 
 This cluster does not argue for publishing dangerous operational detail.
@@ -239,6 +256,8 @@ The goal is bounded explanation.
 Not reckless disclosure.
 
 Not managed ignorance.
+
+---
 
 ## 🗞️ The Media Problem
 
@@ -289,6 +308,8 @@ The better question is:
 
 > Did the public receive enough explanation to understand the stakes?
 
+---
+
 ## 🧭 Cluster Map
 
 Suggested nodes for this cluster:
@@ -307,6 +328,8 @@ Suggested nodes for this cluster:
 └── 🧭_coverage_review_tracker.md
 ```
 
+---
+
 ## 🛠️ Working Rule
 
 Every Krill Wars node should answer at least one of these questions:
@@ -321,9 +344,13 @@ Every Krill Wars node should answer at least one of these questions:
 
 If a node cannot answer one of those questions, it probably belongs in a deeper strategic folder rather than the current media pack.
 
+---
+
 ## 🌌 Constellations
 
 🦐 🌊 🐋 🛰️ 🎖️ — undersea technology frontier; cables; submarines; AUKUS; public defence literacy; recruitment meaning.
+
+---
 
 ## ✨ Stardust
 
