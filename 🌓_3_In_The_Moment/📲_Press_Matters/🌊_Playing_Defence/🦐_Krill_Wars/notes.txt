@@ -1,17 +1,4 @@
-Here:  
-
-🦐_Krill_Wars/
-├── README.md
-├── 🌊_the_hidden_sea_layer.md
-├── 🦐_krill_whales_and_anti_krill.md
-├── 🛰️_aukus_undersea_drones_cable_defence.md
-├── 🧮_krill_not_doris_media_version.md
-├── 🎖️_recruitment_and_the_undersea_frontier.md
-├── 🧿_safe_detail_not_fog.md
-├── 🗞️_why_the_story_went_boring.md
-├── 🐘_when_the_missing_map_becomes_the_story.md
-└── 🪖_morale_without_propaganda.md
-
+<!-- sorting these later bc still migrainesque and v tired. lots of content plugged into openai as research material so hopefully it doesn't suck.-->
 Elsewhere:  
 
 Big_Picture_Protocols/
