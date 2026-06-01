@@ -1,6 +1,6 @@
 # 📲 Press Matters
 
-**First created:** 2026-05-31 | **Last updated:** 2026-05-31
+**First created:** 2026-05-31 | **Last updated:** 2026-06-01  
 *Current-facing media packs, public explainers, and journalist-readable bridges for live or under-explained stories.*
 
 ## 🛰️ Orientation
@@ -24,7 +24,7 @@ Place material here when it needs to be:
 * tied to a current or emerging story;
 * clear enough for policy readers;
 * searchable by ordinary language;
-* capable of linking technical, legal, cultural, or defence terms into one public frame.
+* capable of linking technical, legal, cultural, cyber, diplomatic, media, or defence terms into one public frame.
 
 A Press Matters node should help someone move from:
 
@@ -59,19 +59,19 @@ If no, route it to the deeper archive and link back only where useful.
 
 A media pack should usually provide:
 
-1. **The plain-language issue**
+1. **The plain-language issue**  
    What is happening, without assuming specialist knowledge.
 
-2. **The public-interest reason**
-   Why this matters to ordinary people, democratic oversight, public safety, infrastructure, law, health, defence, or civic trust.
+2. **The public-interest reason**  
+   Why this matters to ordinary people, democratic oversight, public safety, infrastructure, law, health, defence, journalism, diplomacy, or civic trust.
 
-3. **The missing link**
+3. **The missing link**  
    Which terms, institutions, events, or systems are being treated separately when they should be read together.
 
-4. **The safe frame**
+4. **The safe frame**  
    What can be said responsibly without overstating, defaming, panicking, or leaking sensitive detail.
 
-5. **The deeper route**
+5. **The deeper route**  
    Where to go next for specialist analysis, evidence, timelines, or governance critique.
 
 The aim is not to flatten complexity.
@@ -88,11 +88,11 @@ They should also not turn every quiet story into a conspiracy claim.
 
 The useful register is:
 
-> Here is the story.
-> Here is why it matters.
-> Here is what is known.
-> Here is what is uncertain.
-> Here is the public-interest frame.
+> Here is the story.  
+> Here is why it matters.  
+> Here is what is known.  
+> Here is what is uncertain.  
+> Here is the public-interest frame.  
 > Here is where the deeper analysis sits.
 
 Some bite is allowed.
@@ -111,11 +111,29 @@ For example:
 
 > AUKUS Pillar II — undersea drones, cable defence, seabed sensing, and submarine-support systems.
 
+Or:
+
+> Non-corporate communication channels — WhatsApp, private email, texts, message apps, and the problem of doing state business in the wrong container.
+
 That is not dumbing down.
 
 That is making the door visible.
 
-## 🌊 Current Defence Adjacency
+## 🌊 Defence Adjacency
+
+Some Press Matters packs sit close to defence without being housed as defence doctrine.
+
+That distinction matters.
+
+A pack belongs under **Press Matters** when its first task is public explanation: helping journalists, MPs, editors, researchers, and civic readers understand why a live story matters.
+
+It may still cross-link to defence, national security, cyber, infrastructure, or state-resilience clusters where relevant.
+
+The public-facing frame should not expose genuinely dangerous detail.
+
+It should explain enough for democratic understanding.
+
+## 🌊 Current Defence-Adjoining Area
 
 Defence-adjacent media packs sit under:
 
@@ -150,6 +168,32 @@ It has not yet been given the system map.
 
 That is what the cluster is for.
 
+## 💌 Active Cluster: Visible Ink
+
+A second active media cluster is:
+
+```text
+🌓_3_In_The_Moment/
+└── 📲_Press_Matters/
+    └── 💌_Visible_Ink/
+```
+
+**Visible Ink** explains the communications-risk story opened by the Mandelson files: emails, WhatsApps, redactions, routing, devices, platform jurisdiction, cross-department seams, UK–US bridge traffic, and why official messages are not automatically secure containers.
+
+This cluster is not primarily a defence pack.
+
+It sits under **Press Matters** because its first task is public explanation.
+
+It cross-links into defence and system-governance concerns because the failures it maps have consequences for national resilience, allied trust, cyber exposure, information brokerage, and democratic oversight.
+
+The plain-language rule is simple:
+
+> Do not put weird stuff in the ordinary mail.
+
+Or, in policy terms:
+
+> Use the right container for the sensitivity of the material.
+
 ## 🛠️ Working Rule
 
 A Press Matters pack should answer:
@@ -170,22 +214,23 @@ If it cannot answer those questions, it is probably not ready to be a media pack
 
 ## ✨ Stardust
 
-media packs, public explainers, press matters, journalism, search language, current affairs, civic translation, public interest, media literacy
+media packs, public explainers, press matters, journalism, search language, current affairs, civic translation, public interest, media literacy, visible ink
 
 ---
 
 ## 🏮 Footer
 
-*📲 Press Matters* is a living node of the **Polaris Protocol**.
-It routes current-facing media packs and public explainers that translate complex stories into journalist-readable, policy-readable, and search-friendly form.
+*📲 Press Matters* is a living node of the **Polaris Protocol**.  
+It routes current-facing media packs and public explainers that translate complex stories into journalist-readable, policy-readable, and search-friendly form.  
 The node supports civic understanding by linking scattered terms into usable public maps without collapsing commentary, evidence, and specialist analysis into one crowded room.
 
 > 📡 Cross-references:
 >
 > * [🌊 Playing Defence](./🌊_Playing_Defence/) — *defence-adjacent media packs and public communication bridges*
 > * [🦐 Krill Wars](./🌊_Playing_Defence/🦐_Krill_Wars/) — *undersea technology frontier, AUKUS, cables, drones, and hidden-layer defence explainers*
+> * [💌 Visible Ink](./💌_Visible_Ink/) — *communications-risk media pack on emails, WhatsApp, redactions, bridge traffic, and secure-container failure*
 > * [🔮 House Style](../../Admin_Kit/🔮_house_style.md) — *formatting, footer, constellation, and stardust rules*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-05-31*
+_Last updated: 2026-06-01_
