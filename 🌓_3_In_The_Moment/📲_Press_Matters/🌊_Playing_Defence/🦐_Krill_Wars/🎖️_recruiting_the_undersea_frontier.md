@@ -1,5 +1,5 @@
 # 🎖️ Recruiting The Undersea Frontier  
-**First created:** 2026-05-31 | **Last updated:** 2026-05-31
+**First created:** 2026-05-31 | **Last updated:** 2026-06-01  
 *A media-pack node on undersea technology, service meaning, youth purpose, skilled defence work, and why AUKUS should not be made boring.*
 
 ---
@@ -535,7 +535,11 @@ Do not make the cool shit boring.
 
 ## 🌌 Constellations
 
-🎖️ 🦐 🌊 🧮 🐋 — recruiting the undersea frontier; technical service; youth purpose; infrastructure defence; morale without propaganda.
+🎖️ 🦐 🌊 🧮 🐋 — recruiting the undersea frontier; technical service; youth purpose; infrastructure defence; morale without propaganda.  
+
+*Further media:*  
+
+- [📹: Ministry of Defence: "Does he? We do."](https://vm.tiktok.com/ZNR7jQ9m4/) – *I mean... yes; one way to promote STEM*  
 
 ---
 
@@ -560,4 +564,4 @@ The node argues that AUKUS, cable defence, submarines, drones, AI, shipyards, fr
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-05-31*
+*Last updated: 2026-06-01*
