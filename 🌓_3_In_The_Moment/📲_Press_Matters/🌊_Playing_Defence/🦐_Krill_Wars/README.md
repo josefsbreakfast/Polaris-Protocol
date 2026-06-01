@@ -57,22 +57,29 @@ The point is to give the public a map that can survive contact with a headline.
 
 ---
 
-> ## 🗞️ Media Analogy: Think “Hostile Investigative Questions,” But Underwater
->
+## 🗞️ Media Analogy: Think “Hostile Investigative Questions,” But Underwater
+
 > For media readers, the easiest analogy is journalism.
 >
-> **Krill** are deployed by other actors, and they can bump into Trident, they can carry little cameras – they can form part of a network which hunts for Trident.
+> A journalist can ask questions, gather fragments, compare details, and build a picture from what different people and documents reveal.
 >
-> A big part of how Trident "deters" is location and operations secrecy.
+> Underwater “krill” can do something similar in physical space. Small underwater drones, sensors, or networked systems can be deployed by different actors. They can bump into protected systems. They can carry cameras or sensors. They can form part of a wider network that hunts for things that are meant to stay hard to find.
 >
-> But that's just Trident – krill can find our underwater internet and telephone cables, too. They can map oil pipelines, they can uncover objects underwater in a less intensive way than a traditional naval vessel.  
+> Trident is the obvious example. A major part of nuclear deterrence depends on location and operational secrecy.
 >
-> **Anti-krill** can stop the krill from working, or monitor them. This is one of the key future uses of underwater drones.
+> But this is not only about Trident. Krill can also help find underwater internet and telephone cables. They can map oil and gas pipelines. They can identify seabed objects and infrastructure in ways that are less intensive, less visible, and potentially cheaper than using traditional naval vessels.
 >
-> The AUKUS partnership helps us develop those tools, to keep our existint crews, vessels, and infrastructure safer.
+> Anti-krill systems are the counter-layer. They can stop hostile krill from working, detect them, monitor them, or make it harder for them to build a useful picture. This is one of the key future uses of underwater drones and seabed monitoring systems.
 >
-> If the underwater cables are not safe, it means that we can use access to the Internet, and lose a lot of of our systems, with almost no notice. This is why defence thinks about the safety of these structures.  
-
+> The AUKUS partnership matters here because it helps develop the tools, vessels, systems, and shared technical knowledge needed to keep existing crews, platforms, cables, ports, and undersea infrastructure safer.
+>
+> If underwater cables are not safe, the consequences are not abstract. Countries can lose access to the internet, communications, financial systems, logistics systems, and other basic digital infrastructure with very little notice.
+>
+> That is why defence planners care about the safety of these structures.
+>
+> The public-interest challenge is to explain this clearly without publishing dangerous operational detail.  
+>
+> The story is not only “submarines.” It is the wider undersea layer: vessels, drones, cables, sensors, pipelines, repair capacity, and the anti-krill systems needed to stop hostile actors from quietly mapping the foundations of modern life.
 
 ---
 
