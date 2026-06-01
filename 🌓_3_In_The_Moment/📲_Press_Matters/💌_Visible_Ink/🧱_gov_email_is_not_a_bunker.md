@@ -16,7 +16,7 @@ The problem is treating email as if “official” automatically means “secure
 
 It does not.
 
-Email is a distribution tool. It is built to move information quickly between people. That is useful for ordinary work. It becomes risky when the material is high-sensitivity, cross-departmental, diplomatic, police-sensitive, national-security-adjacent, commercially valuable, or likely to be redacted later.
+Email is a distribution tool. It is built to move information quickly between people. That is useful for ordinary work. It becomes risky when the material is high-sensitivity, cross-departmental, diplomatic, police-sensitive, national-security-adjacent, commercially valuable, procurement-sensitive, or likely to be redacted later.
 
 The question is not:
 
@@ -139,7 +139,7 @@ Sometimes they only need to know when to look.
 
 A high-risk communication usually has a preparation window and an aftermath window.
 
-Before a trip, meeting, appointment decision, diplomatic visit, treaty move, strategic-industry discussion, legal deadline, or security-sensitive briefing, there may be visible signs:
+Before a trip, meeting, appointment decision, diplomatic visit, treaty move, strategic-industry discussion, legal deadline, procurement decision, or security-sensitive briefing, there may be visible signs:
 
 - travel planning;
 - diary movement;
@@ -212,6 +212,8 @@ Which conversation moves from email to WhatsApp?
 
 Which trip produces pre-brief and post-brief messages?
 
+Which procurement question suddenly becomes urgent?
+
 Which topic later appears behind redactions?
 
 That is intelligence.
@@ -232,7 +234,7 @@ That matters because many attacks are more detectable when they are constant, br
 
 A narrow window lets an actor reduce exposure.
 
-They can wait for the moment when a trip, meeting, deadline, appointment, diplomatic event, parliamentary vote, legal filing, or commercial decision makes sensitive communication likely.
+They can wait for the moment when a trip, meeting, deadline, appointment, diplomatic event, parliamentary vote, legal filing, commercial decision, or procurement movement makes sensitive communication likely.
 
 Then they can intensify collection, phishing, impersonation, account probing, message-tampering, or social-engineering attempts around that period.
 
@@ -332,6 +334,80 @@ A marking is a warning label.
 It is not a sealed container.
 
 If a message says “sensitive” at the top but travels through a route that copies, forwards, archives, syncs, backs up, and sprawls across departments, the label does not solve the routing problem.
+
+## ☢️ High-Sensitivity Topics Need Handling Assurance
+
+The public does not need to know the contents of every sensitive email.
+
+In some cases, the public should not know.
+
+But where the disclosed record shows that high-sensitivity subjects were present in the correspondence set — for example nuclear-policy-adjacent material, defence procurement, allied handling, strategic industry, Chagos, Ukraine, sanctions, policing, vetting, or national-security material — MPs are entitled to ask for handling assurance.
+
+That does not mean publishing the contents.
+
+It means asking whether the route was appropriate.
+
+Was the sensitive material sent directly by email, or was email only used to point to a secure system?
+
+Was a secure portal or controlled document workspace used?
+
+Was access limited to the smallest necessary circle?
+
+Were attachments forwarded, downloaded, quoted, or copied into later chains?
+
+Did the material cross departments, embassies, contractors, private offices, or jurisdictions?
+
+Was the handling reviewed once the material became subject to redaction, withholding, or closed scrutiny?
+
+These should not be exotic questions.
+
+They are basic tick-box assurances for sensitive state material.
+
+The concern is not that the Government has refused to publish every detail. Some details should remain protected.
+
+The concern is that the Government has not clearly reassured Parliament that the original handling route matched the sensitivity of the material.
+
+The public does not need the crown jewels.
+
+Parliament is entitled to ask whether the crown jewels were sent in ordinary post.
+
+## 🏭 Procurement Interest Is Not Always State Espionage
+
+High-sensitivity material does not only attract hostile states.
+
+It can also attract commercial interest.
+
+If correspondence touches defence procurement, nuclear-policy-adjacent material, strategic industry, allied handling, sanctions, Chagos, Ukraine, steel, infrastructure, or major public appointments, the useful information may not be the full secret.
+
+It may be the direction of travel.
+
+Who is worried.  
+Who is favoured.  
+Who is delayed.  
+Which department is pushing.  
+Which ally is hesitant.  
+Which contractor may benefit.  
+Which legal obstacle is being managed.  
+Which procurement route is being softened.  
+Which public line differs from the private expectation.
+
+That information can matter to companies, investors, lobbyists, consultants, litigation actors, commercial-intelligence firms, and competitors.
+
+So MPs do not need to ask only:
+
+> Did an adversarial state access this?
+
+They can also ask:
+
+> Could a commercial actor have benefited from early knowledge of this traffic?
+
+That is why the route matters.
+
+If material is valuable in procurement or market terms, it needs handling discipline even when there is no spy story at all.
+
+You do not need a spy story for the route to matter.
+
+Procurement interest is enough.
 
 ## 📦 The Mail Analogy
 
@@ -481,24 +557,6 @@ It means the state should not behave as if public redaction is the same thing as
 
 Those are different questions.
 
-## 📛 The Review Standard
-
-For every redacted or withheld item, the closed oversight question should be:
-
-> Was the original route appropriate for the sensitivity of the material?
-
-And then:
-
-> If the material had to remain confidential then, what evidence exists that it was actually protected then?
-
-That is not panic.
-
-That is basic custody review.
-
-Because once information has travelled through the wrong container, the question is not only whether the public can see it now.
-
-The question is who may already have seen enough
-
 ## 🛠️ What MPs And Journalists Should Ask
 
 The practical scrutiny questions are straightforward:
@@ -513,8 +571,10 @@ The practical scrutiny questions are straightforward:
 8. Was there an audit trail of who accessed the actual material?
 9. Were weaker edge contacts able to reveal timing, travel, or meeting windows?
 10. If the email was later redacted, what does that say about the original handling?
-11. Would this route be approved today?
-12. What rule would stop the same routing failure happening again?
+11. If high-sensitivity topics were present, what handling assurance has Parliament received?
+12. Could a commercial actor, contractor, investor, broker, or competitor have benefited from early or partial knowledge?
+13. Would this route be approved today?
+14. What rule would stop the same routing failure happening again?
 
 Do not ask only whether the email was official.
 
@@ -542,7 +602,15 @@ Embassy traffic is bridge traffic.
 
 Email should notify. It should not carry the crown jewels.
 
+The public does not need the crown jewels. Parliament is entitled to ask whether the crown jewels were sent in ordinary post.
+
+You do not need a spy story for the route to matter. Procurement interest is enough.
+
 Redaction protects the public copy. It does not prove the original route was sound.
+
+The Government can redact the publication. It cannot redact the past.
+
+Confidential then does not mean secure now.
 
 Was email the right packaging for this material?
 
@@ -554,7 +622,7 @@ Use the right container.
 
 ## ✨ Stardust
 
-government email, official email, secure communications, cross-department seams, embassy traffic, timing windows, sensitive labels, public records, redactions, visible ink
+government email, official email, secure communications, cross-department seams, embassy traffic, timing windows, procurement interest, sensitive labels, public records, redactions, visible ink
 
 ---
 
@@ -572,4 +640,4 @@ It translates the Visible Ink container argument into the specific problem of of
 
 Survivor authorship is sovereign. Containment is never neutral.
 
-_Last updated: 2026
+_Last updated: 20
