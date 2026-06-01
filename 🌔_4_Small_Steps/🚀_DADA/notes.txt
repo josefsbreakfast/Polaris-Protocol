@@ -1,0 +1,141 @@
+Yep. Skeleton so far:
+
+🌔_4_Small_Steps/
+└── 🚀_DADA/
+    ├── README.md
+    │
+    ├── 🧭_start_here/
+    │   ├── README.md
+    │   ├── 🧭_what_dada_is_and_is_not.md
+    │   ├── 🧁_twinkie_authoritarianism.md
+    │   ├── 🌐_digital_life_is_not_always_local.md
+    │   └── 🛟_if_this_is_happening_now.md
+    │
+    ├── 🧾_zine_layer/
+    │   ├── README.md
+    │   ├── 🧾_copy_print_send_use_this.md
+    │   ├── 🛟_for_the_friend_who_wants_to_help.md
+    │   ├── 🍞_bring_food_charge_phone_keep_them_real.md
+    │   └── 🧃_short_and_sweet_index.md
+    │
+    ├── 🍞_survival_basics/
+    │   ├── README.md
+    │   ├── 🍞_bread_before_breach.md
+    │   ├── 💸_food_money_housing_work.md
+    │   ├── 🧰_free_low_cost_paid_options.md
+    │   ├── 💤_sleep_food_and_decision_thresholds.md
+    │   └── 🛟_when_to_get_human_help.md
+    │
+    ├── 🔐_privacy_and_accounts/
+    │   ├── README.md
+    │   ├── 🔐_account_and_device_hygiene.md
+    │   ├── 📲_phone_number_email_and_recovery.md
+    │   ├── 🌐_websites_are_not_always_local.md
+    │   ├── 📜_terms_of_service_are_the_first_boundary.md
+    │   ├── 🧾_save_notices_appeals_and_reference_numbers.md
+    │   └── 🧱_do_not_feed_the_machine.md
+    │
+    ├── 🗂️_records_and_evidence/
+    │   ├── README.md
+    │   ├── 🗂️_evidence_hygiene_routines.md
+    │   ├── 🧾_screenshots_dates_and_reference_numbers.md
+    │   ├── 🧍_trusted_witness_notes.md
+    │   ├── 📮_letters_emails_and_written_confirmation.md
+    │   └── 🗓️_one_timeline_one_folder_one_copy.md
+    │
+    ├── 🧠_mind_and_pressure/
+    │   ├── README.md
+    │   ├── 🧠_reality_anchoring_and_thought_pressure.md
+    │   ├── ⏳_time_wasting_as_control.md
+    │   ├── 🗣️_speech_pressure_and_silencing.md
+    │   ├── 🧭_information_intake_interference.md
+    │   └── 🛑_do_not_make_big_decisions_while_flooded.md
+    │
+    ├── 🧑‍🤝‍🧑_community_care/
+    │   ├── README.md
+    │   ├── 🧑‍🤝‍🧑_trusted_witness_networks.md
+    │   ├── 🍲_believe_distress_before_solving_the_whole_case.md
+    │   ├── 🛟_helping_someone_administratively_ghosted.md
+    │   ├── 🚗_transport_accompaniment_and_safe_errands.md
+    │   └── 📞_check_ins_without_interrogation.md
+    │
+    ├── 🗣️_speech_and_services/
+    │   ├── README.md
+    │   ├── 🗣️_safe_disclosure_and_speaking_legibly.md
+    │   ├── ⚖️_appeals_complaints_and_thresholds.md
+    │   ├── 🧾_how_to_explain_weird_admin_without_sounding_worse.md
+    │   ├── 🧍_bringing_an_advocate_or_friend.md
+    │   └── 🛟_when_to_get_specialist_help.md
+    │
+    └── 🧾_forms_and_admin_survival/
+        ├── README.md
+        ├── 🖨️_print_the_form_keep_the_receipt.md
+        ├── 🧾_reference_numbers_dates_and_deadlines.md
+        ├── 📮_letters_emails_and_written_confirmation.md
+        ├── 🗂️_one_folder_one_timeline_one_copy.md
+        └── 🛟_bring_a_friend_to_the_admin_goblin.md
+
+Core README framing:
+
+DADA — Defence Against Digital Authoritarianism
+
+A small-steps survival pack for ordinary people dealing with digital coercion, administrative weirdness, platform pressure, stalking, coercive control, institutional misreading, or authoritarian-adjacent systems.
+
+DADA is not a sabotage manual, hacking guide, evasion guide, potato manual, or regime-overthrow fantasy.
+
+It is about privacy, dignity, food, forms, records, accounts, witnesses, services, comfort, and the next least-escalating lawful step.
+
+Main design split:
+
+🌌 Deep Archive
+Long-form analysis, governance theory, metadata sabotage networks, authoritarian drift, platform-state architecture.
+
+🧾 Zine Layer
+Short, printable, copyable, friend-sendable survival notes.
+
+🚀 DADA
+Mostly zine-layer and small-steps material.
+
+Useful repo tags:
+
+reader: pocket-copy
+reader: zine-ready
+reader: quick-read
+reader: deep-dive
+
+tone: plain-language
+tone: satire
+tone: spicy
+
+use: first-response
+use: friend-sendable
+use: printable
+use: policy-route
+use: technical
+
+style: short-and-sweet
+style: long-and-spicy
+
+Core principles:
+
+Start with impact.
+Assess capability.
+Stabilise the person.
+Choose the least escalating next step.
+
+The human bit overlaps.
+The machinery does not.
+
+Believe the distress.
+Preserve the evidence.
+Do not require someone to prove the whole system before they get dinner.
+
+If it would be normal advice in a democracy, it belongs here.
+If it requires an ethics debate, it belongs somewhere else.
+
+Possible bridge in 🌓_3_In_The_Moment/:
+
+🌓_3_In_The_Moment/
+└── 🛟_if_digital_coercion_is_happening_now.md
+
+That one acts as the crisis doorway and points people into 🌔_4_Small_Steps/🚀_DADA/ when they are steadier.
