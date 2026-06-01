@@ -1,0 +1,20 @@
+🌓_3_In_The_Moment/
+└── 📲_Press_Matters/
+    └── 💌_Visible_Ink/
+        ├── README.md
+        ├── 🎭_who_is_the_villain.md
+        ├── 📦_do_not_put_weird_stuff_in_the_mail.md
+        ├── 🧱_government_email_is_not_a_bunker.md
+        ├── 📱_whatsapp_is_not_a_secure_audit_trail.md
+        ├── 📡_redaction_is_not_retroactive_security.md
+        ├── 🌉_the_bridge_is_the_target.md
+        ├── 👻_bridge_figures_are_network_targets.md
+        ├── 📱_if_the_device_is_exposed_the_network_is_exposed.md
+        ├── 🌐_jurisdiction_is_a_pipe_too.md
+        ├── 🛰️_information_brokers_are_not_always_states.md
+        ├── 💰_the_information_arms_race.md
+        ├── ⚖️_intent_is_not_the_same_as_risk.md
+        ├── 📰_journalism_without_escalation.md
+        └── 🛠️_what_mps_and_journalists_should_ask.md
+
+guys you are tiring me out.  
