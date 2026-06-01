@@ -153,6 +153,52 @@ The bridge figure does not need to be the most powerful person.
 
 They only need to make power visible.
 
+---
+
+♟️ Off-Target Is Still Target
+
+A serious actor does not always begin with the most protected person.
+
+Everyone knows the Prime Minister’s phone would be valuable.
+
+That is exactly why it may be harder to reach.
+
+The softer target may be someone slightly off to the side: a former minister, adviser, donor, envoy, party grandee, lobbyist, journalist, private-office contact, consultant, diary handler, family office, or socially connected bridge figure.
+
+They may not hold the final decision.
+
+They may not receive the most sensitive document.
+
+They may not be inside the most secure room.
+
+But they may reveal when the secure room is about to matter.
+
+That is enough.
+
+A side contact can show:
+	•	when travel is being prepared;
+	•	when a meeting is being arranged;
+	•	when a department is nervous;
+	•	when a line is being softened;
+	•	when an ally is hesitating;
+	•	when a procurement route is moving;
+	•	when a legal obstacle is being handled;
+	•	when a conversation leaves official email and moves into informal chat.
+
+That turns an off-target person into a timing sensor.
+
+They do not need to be the king.
+
+They only need to show where the king is going next.
+
+📛 Keeper Line
+
+Do not only guard the king.
+
+Guard the people who show when the king is moving.  
+
+---
+
 ## 🪟 Timing Makes The Target More Valuable
 
 Bridge figures can also reveal timing.
