@@ -539,7 +539,7 @@ Do not make the cool shit boring.
 
 *Further media:*  
 
-- [📹: Ministry of Defence: "Does he? We do."](https://vm.tiktok.com/ZNR7jQ9m4/) – *I mean... yes; one way to promote STEM*  
+- [📹: Ministry of Defence, Singapore: "Does he? We do."](https://vm.tiktok.com/ZNR7jQ9m4/) – *I mean... yes; one way to promote STEM*  
 
 ---
 
