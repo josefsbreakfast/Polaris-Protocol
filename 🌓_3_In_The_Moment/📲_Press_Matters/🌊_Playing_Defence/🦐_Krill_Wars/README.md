@@ -1,5 +1,5 @@
 # 🦐 Krill Wars  
-**First created:** 2026-05-31 | **Last updated:** 2026-05-31  
+**First created:** 2026-05-31 | **Last updated:** 2026-06-01  
 *A current-facing media pack on AUKUS, undersea drones, cables, submarines, AI, hostile-state probing, and the hidden sea layer of modern defence.*  
 
 ---
@@ -54,6 +54,28 @@ In this cluster:
 The point is not to make defence cute.
 
 The point is to give the public a map that can survive contact with a headline.
+
+---
+
+## 🗞️ Media Industry Analogy: Think “Hostile Investigative Questions,” But Underwater
+
+A simple way to understand this cluster is to imagine journalism under hostile conditions.
+
+A journalist asks questions, files requests, follows leads, compares documents, checks what is missing, and tries to work out what the public has a right to know.
+
+Now imagine the same basic information-seeking behaviour carried out by more cutthroat actors looking for strategic advantage: states, contractors, proxies, commercial intelligence outfits, hostile researchers, or opportunists. Some activity may be lawful. Some may sit in grey zones. Some may be unlawful. The point is not that every query is malicious; the point is that defence systems have to plan as if the worst actor is also reading.
+
+In this analogy, Trident represents the thing everyone must not be able to locate, expose, map, or compromise. It is the protected object.
+
+AUKUS vessels, undersea drones, seabed sensors, cable routes, ports, data infrastructure, repair capacity, and maritime logistics become the surrounding information field: not always secret individually, but potentially revealing when combined.
+
+Secrecy instruments are the defensive walls around that field. They might include ordinary confidentiality, defence classification, the Official Secrets Act, injunctions, super-injunctions, procurement secrecy, operational security, or informal “do not amplify this” habits inside media and platform systems.
+
+The media problem is that these defensive walls can also distort public-interest storytelling. A story may not be banned outright. Instead, it becomes difficult to route, awkward to index, hard to trend, and easy for analytics dashboards to misread as “boring” or “low public interest.”
+
+That is the core issue here: not “tell everyone where the submarines are,” obviously. The issue is whether undersea defence, cable protection, and civilian infrastructure resilience can be discussed safely enough for democratic oversight — without handing a map to the worst person in the room.
+
+In short: this is not a request to reveal secrets. It is a request to understand how secrecy, search systems, and public-interest journalism collide when the protected object sits underneath the public story.
 
 ---
 
@@ -373,4 +395,4 @@ The cluster exists because the public has been given the nouns but not the syste
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-05-31*
+*Last updated: 2026-06-01*
