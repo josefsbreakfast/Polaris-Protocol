@@ -57,25 +57,22 @@ The point is to give the public a map that can survive contact with a headline.
 
 ---
 
-## 🗞️ Media Industry Analogy: Think “Hostile Investigative Questions,” But Underwater
+> ## 🗞️ Media Analogy: Think “Hostile Investigative Questions,” But Underwater
+>
+> For media readers, the easiest analogy is journalism.
+>
+> **Krill** are deployed by other actors, and they can bump into Trident, they can carry little cameras – they can form part of a network which hunts for Trident.
+>
+> A big part of how Trident "deters" is location and operations secrecy.
+>
+> But that's just Trident – krill can find our underwater internet and telephone cables, too. They can map oil pipelines, they can uncover objects underwater in a less intensive way than a traditional naval vessel.  
+>
+> **Anti-krill** can stop the krill from working, or monitor them. This is one of the key future uses of underwater drones.
+>
+> The AUKUS partnership helps us develop those tools, to keep our existint crews, vessels, and infrastructure safer.
+>
+> If the underwater cables are not safe, it means that we can use access to the Internet, and lose a lot of of our systems, with almost no notice. This is why defence thinks about the safety of these structures.  
 
-A simple way to understand this cluster is to imagine journalism under hostile conditions.
-
-A journalist asks questions, files requests, follows leads, compares documents, checks what is missing, and tries to work out what the public has a right to know.
-
-Now imagine the same basic information-seeking behaviour carried out by more cutthroat actors looking for strategic advantage: states, contractors, proxies, commercial intelligence outfits, hostile researchers, or opportunists. Some activity may be lawful. Some may sit in grey zones. Some may be unlawful. The point is not that every query is malicious; the point is that defence systems have to plan as if the worst actor is also reading.
-
-In this analogy, Trident represents the thing everyone must not be able to locate, expose, map, or compromise. It is the protected object.
-
-AUKUS vessels, undersea drones, seabed sensors, cable routes, ports, data infrastructure, repair capacity, and maritime logistics become the surrounding information field: not always secret individually, but potentially revealing when combined.
-
-Secrecy instruments are the defensive walls around that field. They might include ordinary confidentiality, defence classification, the Official Secrets Act, injunctions, super-injunctions, procurement secrecy, operational security, or informal “do not amplify this” habits inside media and platform systems.
-
-The media problem is that these defensive walls can also distort public-interest storytelling. A story may not be banned outright. Instead, it becomes difficult to route, awkward to index, hard to trend, and easy for analytics dashboards to misread as “boring” or “low public interest.”
-
-That is the core issue here: not “tell everyone where the submarines are,” obviously. The issue is whether undersea defence, cable protection, and civilian infrastructure resilience can be discussed safely enough for democratic oversight — without handing a map to the worst person in the room.
-
-In short: this is not a request to reveal secrets. It is a request to understand how secrecy, search systems, and public-interest journalism collide when the protected object sits underneath the public story.
 
 ---
 
