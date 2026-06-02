@@ -1,1 +1,14 @@
-yall tire me out istg
+yall tire me out istg.  
+
+🏝️_Chagos_Complexities/
+├── README.md
+├── 🧭_why_chagos_gets_weird_fast.md
+├── 🏝️_chagos_vs_diego_garcia_naming_frame.md
+├── 🛰️_jurisdictional_wrapper_not_just_a_base.md
+├── 🧩_who_has_interests_here.md
+├── 🌊_india_mauritius_and_the_indian_ocean_frame.md
+├── 🛡️_defence_ai_space_and_contractor_overlap.md
+├── 📡_media_targeting_and_output_pressure.md
+├── 🧯_what_not_to_overclaim.md
+├── 🛠️_questions_journalists_should_ask.md
+└── 🗺️_quick_reference_map.md
