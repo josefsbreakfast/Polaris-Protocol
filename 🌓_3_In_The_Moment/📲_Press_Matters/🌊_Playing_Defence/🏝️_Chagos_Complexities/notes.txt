@@ -14,3 +14,407 @@ v tricky tinternet with this one, may do in stages.
 ├── 🧯_what_not_to_overclaim.md
 ├── 🛠️_questions_journalists_should_ask.md
 └── 🗺️_quick_reference_map.md
+
+
+....idk what to do with what the ribot just did here:  
+
+like...?  
+
+ill go and reprompt it later so it pits its tin foil away.  
+
+<!--
+
+# 🧯 What Not To Overclaim  
+First created: 2026-06-02 | Last updated: 2026-06-02  
+Press-facing guardrail note for keeping Chagos reporting sharp, evidenced, and difficult to dismiss.
+
+---
+
+## 🧭 Orientation
+
+Chagos is already complicated enough.
+
+It does not need theatrical certainty.
+
+The story involves colonial history, Mauritian sovereignty, Chagossian displacement, UK–US base continuity, India’s Indian Ocean interests, China anxiety, defence contractors, AI and space infrastructure, telecoms, media pressure, and legal wrappers.
+
+That is plenty.
+
+The danger is that people may either overclaim or underclaim.
+
+Overclaiming makes the story brittle.
+
+Underclaiming makes the story useless.
+
+This node keeps the frame disciplined.
+
+---
+
+## 🧯 The Core Rule
+
+Do not claim more than the evidence supports.
+
+But do not pretend the pressure field is imaginary.
+
+The safe and serious line is:
+
+> Chagos sits at the intersection of sovereignty, displacement, military basing, regional power, contractor interests, AI/space/telecoms infrastructure, and media pressure. That overlap justifies category-level transparency and stronger public explanation.
+
+That is the claim.
+
+It does not require a secret programme.
+
+It does not require one hidden controller.
+
+It does not require proving bad faith.
+
+It requires mapping interests, incentives, legal wrappers, and pressure patterns.
+
+---
+
+## 🚫 Do Not Claim A Secret Space Programme
+
+Do not claim that Diego Garcia is being used for a secret rocket programme, hidden launch site, private spaceport, or undisclosed commercial launch facility unless there is evidence.
+
+The better question is:
+
+> What categories of space, satellite, telemetry, tracking, telecoms, splashdown, re-entry, spectrum, and data activity are acknowledged, contracted, audited, or withheld from public disclosure?
+
+That is a stronger question.
+
+It avoids the “aliens in the cupboard” trap.
+
+It also keeps pressure on the real governance issue:
+
+modern military bases are data environments, and the public deserves category-level clarity about what kinds of activity exist.
+
+---
+
+## 🚫 Do Not Say “SpaceX Wants Chagos”
+
+SpaceX can be a public-facing example of the space/defence/commercial-government overlap.
+
+But do not make SpaceX the claim unless evidence specifically supports that.
+
+The broader point is more useful:
+
+> A range of space, aerospace, AI, telecoms, defence, logistics, and contractor actors may share interests in stable military infrastructure and permissive jurisdictional wrappers.
+
+The story is not one company.
+
+It is a sectoral overlap.
+
+---
+
+## 🚫 Do Not Claim One Contractor Controls The Story
+
+Do not claim that Amentum, KBR, Serco, Palantir, Anduril, BAE, Rolls-Royce, Babcock, or any other contractor controls Chagos policy unless there is direct evidence.
+
+The better question is:
+
+> Which contractors benefit from continuity around Diego Garcia, and how might those interests shape lobbying, briefing, procurement assumptions, or public framing?
+
+That is enough.
+
+The contractor layer matters because base operations, construction, logistics, telecoms, space surveillance, cyber, AI, and facilities management are all part of modern defence infrastructure.
+
+But interest is not the same as control.
+
+Benefit is not the same as command.
+
+---
+
+## 🚫 Do Not Claim The BBC Is Captured
+
+Do not claim that the BBC is captured, controlled, or deliberately hiding Chagos facts without evidence.
+
+The better claim is:
+
+> Media organisations covering Chagos may be operating inside a pressure field shaped by prior state pressure, national-security caution, India-facing regulatory risk, US defence-access pressure, UK political vulnerability, contractor-adjacent briefing, and the ordinary protective reflex journalists have toward colleagues under pressure.
+
+That is a serious democratic concern.
+
+It does not require accusing journalists of bad faith.
+
+It asks how institutions behave when pressure lands on one limb and the whole body flinches.
+
+---
+
+## 🚫 Do Not Treat India As A Proxy
+
+Do not claim India controls Mauritius or that Mauritius is merely India’s proxy.
+
+Mauritius has its own sovereignty claim.
+
+Chagossians have their own displacement and remedy claims.
+
+India has its own Indian Ocean strategy.
+
+Those interests may overlap, but they are not identical.
+
+The better question is:
+
+> How does India’s support for Mauritius interact with Indian Ocean security, China management, regional influence, and the desire to avoid an Anglosphere-only strategic corridor?
+
+That keeps Mauritius and India both visible.
+
+It also avoids reducing smaller states to chess pieces.
+
+---
+
+## 🚫 Do Not Treat Mauritius And Chagossians As The Same
+
+Mauritius and Chagossians must be kept distinct.
+
+Mauritius has a state sovereignty claim.
+
+Chagossians have displacement, return, remedy, memory, and dignity claims.
+
+A treaty can strengthen Mauritius without fully resolving Chagossian harm.
+
+The better question is:
+
+> What does the settlement give Mauritius, and what does it give Chagossians separately?
+
+If coverage collapses the two, it risks repeating the old error:
+
+decisions made around Chagossians rather than with them.
+
+---
+
+## 🚫 Do Not Say China Risk Is Always Fake
+
+China can be a real strategic concern in the Indian Ocean.
+
+Do not dismiss every China reference as propaganda.
+
+But do not let “China” function as a magic word that ends democratic explanation.
+
+The better question is:
+
+> What specific China risk is being claimed, what evidence supports it, and how does the treaty increase, decrease, or manage that risk?
+
+Specific risk can be reported.
+
+Vague panic should be audited.
+
+---
+
+## 🚫 Do Not Say National Security Is Always A Lie
+
+National security is real.
+
+Diego Garcia is strategically valuable.
+
+Some operational details may genuinely require protection.
+
+But national security should not become a fog machine.
+
+The better democratic line is:
+
+> Operational details may be protected, but categories of activity, oversight mechanisms, conflicts of interest, contractor roles, environmental duties, and rights implications should still be explained.
+
+The public does not need the whole classified blueprint.
+
+The public does need the map of who benefits, who is governed, who has rights, and who can ask questions.
+
+---
+
+## 🚫 Do Not Treat Contractors As Neutral Plumbing
+
+Avoid the opposite mistake too.
+
+Do not describe contractors as if they are only neutral service providers.
+
+A company providing base operations, telecoms, construction, logistics, cyber, AI, environmental monitoring, or space-surveillance support may have real commercial interests in the jurisdictional wrapper.
+
+The better question is:
+
+> What does this contractor do, what does it earn, who owns or finances it, what other sectors does it touch, and what legal environment does it benefit from?
+
+That is not conspiracy.
+
+That is procurement literacy.
+
+---
+
+## 🚫 Do Not Treat Universities And Think Tanks As Automatically Neutral
+
+Universities and think tanks can produce real expertise.
+
+They can also produce legitimacy.
+
+They may shape:
+
+- who is treated as serious,
+- which risks are amplified,
+- which harms are softened,
+- which voices are platformed,
+- which policy preferences seem reasonable,
+- and which contractor or state interests appear neutral.
+
+Do not claim every expert is compromised.
+
+But do ask:
+
+> What relationships, funding streams, institutional ties, defence partnerships, political networks, or contractor links sit behind this expertise?
+
+That is not an attack on knowledge.
+
+It is hygiene around legitimacy.
+
+---
+
+## 🚫 Do Not Treat “Weird Behaviour” As Proof
+
+Actors may behave strangely for many reasons:
+
+- classification,
+- diplomatic sensitivity,
+- live negotiations,
+- embarrassment,
+- legal risk,
+- contractor pressure,
+- press pressure,
+- internal disagreement,
+- fear of precedent,
+- or simple incompetence.
+
+Weirdness is a signal to ask better questions.
+
+It is not proof of one specific answer.
+
+The useful line is:
+
+> The behaviour around Chagos has become strange enough to justify public assurances, not strange enough to justify reckless certainty.
+
+That distinction matters.
+
+---
+
+## ✅ What To Say Instead
+
+Use disciplined structural language.
+
+Say:
+
+> Chagos is a high-pressure junction.
+
+Say:
+
+> Diego Garcia is the base; Chagos is the wider sovereignty and displacement story.
+
+Say:
+
+> The treaty may preserve base continuity while changing the outer legal wrapper.
+
+Say:
+
+> Contractors may prefer the old wrapper because it is predictable, familiar, and procurement-friendly.
+
+Say:
+
+> India can support Mauritius while also wanting continued US presence against China.
+
+Say:
+
+> China risk should be specified, not used as a general panic word.
+
+Say:
+
+> AI, space, telecoms, and data systems matter because modern bases are data environments.
+
+Say:
+
+> Media organisations may be cautious because several bridge-parties have already pressured press environments.
+
+Say:
+
+> The public needs category-level transparency, not operational secrets.
+
+That is the defensible frame.
+
+---
+
+## 🛠️ Evidence Discipline Checklist
+
+Before publishing or archiving a claim, ask:
+
+1. Is this claim evidenced, inferred, or speculative?
+
+2. Have we labelled inference as inference?
+
+3. Are we naming a company only where there is a documented link?
+
+4. Are we separating direct Chagos links from broader bridge-sector examples?
+
+5. Are we distinguishing state interests from contractor interests?
+
+6. Are we distinguishing Mauritius from Chagossians?
+
+7. Are we distinguishing India’s structural interests from Modi-government style?
+
+8. Are we distinguishing specific China risk from generic China panic?
+
+9. Are we distinguishing space relevance from launch activity?
+
+10. Are we distinguishing AI-enabled infrastructure from a secret AI programme?
+
+11. Are we distinguishing media pressure from media capture?
+
+12. Are we avoiding claims that require classified evidence we do not have?
+
+13. Are we asking for category-level transparency where operational detail cannot be public?
+
+14. Are we making the public map clearer rather than more foggy?
+
+15. Would this claim survive hostile scrutiny?
+
+If not, sharpen it or drop it.
+
+---
+
+## 🧠 The Stronger Claim
+
+The strongest claim is not the most dramatic one.
+
+The strongest claim is:
+
+> Chagos exposes how colonial legal inheritance, military basing, contractor economics, AI/space/data infrastructure, Indian Ocean strategy, press pressure, and public accountability have been braided together. The democratic problem is not that one hidden actor controls everything. The democratic problem is that the system is fused while public explanation remains fragmented.
+
+That is the whole point.
+
+Keep the stack visible.
+
+Do not invent the missing piece.
+
+---
+
+## 🌌 Constellations
+
+🧯 🧭 🏝️ 🛡️ 📰 — claim discipline; Chagos orientation; defence and contractor overlap; press-facing guardrails.
+
+---
+
+## ✨ Stardust
+
+chagos, overclaiming, evidence discipline, diego garcia, contractors, media pressure, india, china framing, ai infrastructure, democratic accountability
+
+---
+
+## 🏮 Footer
+
+🧯 What Not To Overclaim is a living node of the Polaris Protocol.  
+It supports the Chagos Complexities press pack by setting evidence guardrails, preventing brittle claims, and keeping the analysis focused on structural overlap, category-level transparency, and democratic accountability.
+
+> 📡 Cross-references:
+>
+> - 🏝️ Chagos Complexities — press-facing bundle for sovereignty, base, contractor, and regional-power mapping
+> - 🧭 Why Chagos Gets Weird Fast — orientation note on why the issue becomes over-framed and pressured
+> - 🛡️ Defence, AI, Space, And Contractor Overlap — structural overlap map for modern military infrastructure
+
+Survivor authorship is sovereign. Containment is never neutral.
+
+_Last updated: 2026-0
+
+-->
