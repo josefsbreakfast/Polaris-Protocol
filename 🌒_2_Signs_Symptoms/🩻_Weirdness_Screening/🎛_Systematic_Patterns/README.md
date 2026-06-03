@@ -1,6 +1,6 @@
 # 🎛 Systematic Patterns  
 **First created:** 2025-09-16 | **Last updated:** 2026-06-03  
-*Recurrence, timing, clustering, and comparison tools for when a glitch stops looking random.*
+*Recurrence, timing, clustering, and comparison tools for when a glitch stops looking random.*  
 
 ---
 
@@ -563,11 +563,17 @@ It holds the recurrence layer of Weirdness Screening: the place where repeated f
 
 > 📡 Cross-references:  
 >  
-> * [🌐 Connection Hiccups](../🌐_Connection_Hiccups/README.md) — *network, upload, signal, and router-level anomalies*
-> * [📂 Data Shifts](../📂_Data_Shifts/README.md) — *record integrity, metadata drift, and missing files*
-> * [📬 Comms Breaks](../📬_Comms_Breaks/README.md) — *message, call, and attachment disruption*
-> * [🔑 Access Barriers](../🔑_Access_Barriers/README.md) — *login, MFA, permission, and submission barriers*
-> * [🖥 Interface Glitches](../🖥_Interface_Glitches/README.md) — *visible UI refusal, cursor oddities, and broken forms*
+> - [🌐 Connection Hiccups](../🌐_Connection_Hiccups/README.md) — *network, upload, signal, and router-level anomalies*
+> - [📂 Data Shifts](../📂_Data_Shifts/README.md) — *record integrity, metadata drift, and missing files*
+> - [📬 Comms Breaks](../📬_Comms_Breaks/README.md) — *message, call, and attachment disruption*
+> - [🔑 Access Barriers](../🔑_Access_Barriers/README.md) — *login, MFA, permission, and submission barriers*
+> - [🖥 Interface Glitches](../🖥_Interface_Glitches/README.md) — *visible UI refusal, cursor oddities, and broken forms*
+>  
+> 🏮 Return To:  
+>  
+> - [🩻 Weirdness Screening](../README.md)  
+> - [🌓 Signs & Symptoms](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
