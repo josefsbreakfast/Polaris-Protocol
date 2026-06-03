@@ -1,0 +1,13 @@
+README.md
+🪨_what_is_containment_infrastructure.md
+🪺_not_every_boundary_is_a_cage.md
+🧱_borders_and_boundaries.md
+🌁_checkpoints.md
+🗂️_bureaucratic_containment.md
+🏛️_institutional_gatekeeping.md
+📱_platform_politics.md
+🧮_algorithmic_enclosure.md
+👀_surveillance_as_fuel.md
+⛓️‍💥_carceral_architectures.md
+🧾_burnout_by_paperwork.md
+🧰_infrastructure_pressure_checklist.md
