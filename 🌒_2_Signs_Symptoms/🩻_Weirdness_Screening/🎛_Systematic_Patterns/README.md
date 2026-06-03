@@ -1,5 +1,5 @@
 # 🎛 Systematic Patterns  
-**First created:** 2025-09-16 | **Last updated:** 2026-05-30  
+**First created:** 2025-09-16 | **Last updated:** 2026-06-03  
 *Recurrence, timing, clustering, and comparison tools for when a glitch stops looking random.*
 
 ---
@@ -561,15 +561,14 @@ systematic anomalies, recurrence logging, pattern detection, repeated glitches, 
 *🎛 Systematic Patterns* is a living node of the **Polaris Protocol**.
 It holds the recurrence layer of Weirdness Screening: the place where repeated failures are named carefully, counted plainly, compared safely, and escalated only when the pattern and impact justify it.
 
-> 📡 Cross-references:
->
-> * [🩻 Weirdness Screening](../README.md) — *parent triage doorway for ordinary glitches, persistent anomalies, and escalation-worthy weirdness*
-> * [🌐 Connection Hiccups](../🌐_Connection_Hiccups/) — *network, upload, signal, and router-level anomalies*
-> * [📂 Data Shifts](../📂_Data_Shifts/) — *record integrity, metadata drift, and missing files*
-> * [📬 Comms Breaks](../📬_Comms_Breaks/) — *message, call, and attachment disruption*
-> * [🔑 Access Barriers](../🔑_Access_Barriers/) — *login, MFA, permission, and submission barriers*
-> * [🖥 Interface Glitches](../🖥_Interface_Glitches/) — *visible UI refusal, cursor oddities, and broken forms*
+> 📡 Cross-references:  
+>  
+> * [🌐 Connection Hiccups](../🌐_Connection_Hiccups/README.md) — *network, upload, signal, and router-level anomalies*
+> * [📂 Data Shifts](../📂_Data_Shifts/README.md) — *record integrity, metadata drift, and missing files*
+> * [📬 Comms Breaks](../📬_Comms_Breaks/README.md) — *message, call, and attachment disruption*
+> * [🔑 Access Barriers](../🔑_Access_Barriers/README.md) — *login, MFA, permission, and submission barriers*
+> * [🖥 Interface Glitches](../🖥_Interface_Glitches/README.md) — *visible UI refusal, cursor oddities, and broken forms*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-05-30*
+_Last updated: 2026-06-03_
