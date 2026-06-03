@@ -1,7 +1,6 @@
-# 🧮 Simple Pattern Counting
-
+# 🧮 Simple Pattern Counting  
 **First created:** 2026-06-03 | **Last updated:** 2026-06-03  
-*Basic counting and comparison methods for repeated glitches, without overbuilding the theory.*
+*Basic counting and comparison methods for repeated glitches, without overbuilding the theory.*  
 
 ---
 
@@ -619,15 +618,22 @@ Name the repeated condition.
 Do not make the count carry more than it can.
 ```
 
-> 📡 Cross-references:
+> 📡 Cross-references:  
+>  
+> - [🎛 When A Glitch Repeats](./🎛_when_a_glitch_repeats.md) — *first doorway into recurrence discipline*  
+> - [🗓️ Recurrence Log Template](./🗓️_recurrence_log_template.md) — *structured format for repeated anomalies*  
+> - [📊 Timeline Overlay Template](./📊_timeline_overlay_template.md) — *overlaying incidents with deadlines, posts, filings, or public events*  
+> - [🪞 Same Time Same Place Same Failure](./🪞_same_time_same_place_same_failure.md) — *documenting repeated conditions*  
+> - [🧪 Testing Pattern Without Over-Testing](./🧪_testing_pattern_without_over_testing.md) — *safe comparison without spiralling*  
+> - [🚩 Systematic Pattern Red Flags](./🚩_systematic_pattern_red_flags.md) — *when repetition deserves closer review*
+>  
+> 🏮 Return To:  
 >
-> * [🩻 Weirdness Screening](../README.md) — *first-notice triage for ordinary glitches, persistent anomalies, and escalation-worthy weirdness*
-> * [🎛 Systematic Patterns](./README.md) — *recurrence, timing, clustering, and comparison tools*
-> * [🎛 When A Glitch Repeats](./🎛_when_a_glitch_repeats.md) — *first doorway into recurrence discipline*
-> * [🗓️ Recurrence Log Template](./🗓️_recurrence_log_template.md) — *structured format for repeated anomalies*
-> * [📊 Timeline Overlay Template](./📊_timeline_overlay_template.md) — *overlaying incidents with deadlines, posts, filings, or public events*
-> * [🪞 Same Time Same Place Same Failure](./🪞_same_time_same_place_same_failure.md) — *documenting repeated conditions*
-> * [🧪 Testing Pattern Without Over-Testing](./🧪_testing_pattern_without_over_testing.md) — *safe comparison without spiralling*
-> * [🚩 Systematic Pattern Red Flags](./🚩_systematic_pattern_red_flags.md) — *when repetition deserves closer review*
+> - [🎛 Systematic Patterns](./README.md)  
+> - [🩻 Weirdness Screening](../README.md)  
+> - [🌓 Signs & Symptoms](../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../README.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-06-03_  
