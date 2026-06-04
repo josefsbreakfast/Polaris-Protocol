@@ -1,0 +1,25 @@
+🛶_Flag_It_Yourself/
+├── README.md
+├── 🗺️_the_sun_never_sets_on_your_to_do_list.md
+├── 🧭_official_contestant_kit_list.md
+├── 📍_Postcard_List/
+│   ├── README.md
+│   ├── 🇦🇮_anguilla.md
+│   ├── 🇧🇲_bermuda.md
+│   ├── 🇦🇶_british_antarctic_territory.md
+│   ├── 🇮🇴_british_indian_ocean_territory.md
+│   ├── 🇻🇬_british_virgin_islands.md
+│   ├── 🇰🇾_cayman_islands.md
+│   ├── 🇫🇰_falkland_islands.md
+│   ├── 🇬🇮_gibraltar.md
+│   ├── 🇲🇸_montserrat.md
+│   ├── 🇵🇳_pitcairn_henderson_ducie_and_oeno.md
+│   ├── 🇸🇭_saint_helena_ascension_and_tristan_da_cunha.md
+│   ├── 🇬🇸_south_georgia_and_south_sandwich_islands.md
+│   ├── 🇨🇾_sovereign_base_areas_akrotiri_and_dhekelia.md
+│   └── 🇹🇨_turks_and_caicos_islands.md
+├── 🚢_big_boat_can_get_more_petrol.md
+├── 🏴_stick_the_flag_in_it_yourself.md
+├── 📍_foursquare_for_imperial_feelings.md
+├── 🌿_the_map_is_not_the_habitat_colin.md
+└── 🧯_this_is_satire_not_a_maritime_incident.md
