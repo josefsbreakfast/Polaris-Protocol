@@ -1,0 +1,9 @@
+📼_Politicians_Gone_Wild/
+            └── 🛶_Flag_It_Yourself/
+                ├── README.md
+                ├── 🗺️_maps_are_not_logistics.md
+                ├── 🚢_big_boat_can_get_more_petrol.md
+                ├── 🏴_stick_the_flag_in_it_yourself.md
+                ├── 🍞_rationing_before_sanctions.md
+                ├── 🧯_satire_not_policy_harm.md
+                └── 🧾_what_the_challenge_reveals.md
