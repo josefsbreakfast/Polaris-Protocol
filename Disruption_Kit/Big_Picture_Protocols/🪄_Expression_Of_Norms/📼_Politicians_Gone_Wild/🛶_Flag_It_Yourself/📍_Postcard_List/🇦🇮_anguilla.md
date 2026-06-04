@@ -1,6 +1,26 @@
 # 🇦🇮 Anguilla  
 SATIRE. SATIRE. SATIRE.  
-Postcard stop for contestants who thought “Caribbean British territory” was one tidy phrase and not a long, narrow island with its own motto, dolphins, revolution, turtles, salt ponds, and very clear views about being administratively shoved around.
+Postcard stop for contestants who thought “Caribbean British territory” meant beach, flag, and done, rather than a small island society with Indigenous history, slavery history, local political resistance, dolphins, turtles, salt ponds, and a long memory of not enjoying administrative convenience.
+
+---
+
+## Respect Line
+
+This node is not laughing at Anguilla.
+
+It is laughing at the kind of British political imagination that can look at Anguilla’s Indigenous presence, colonial history, slavery history, Anguillan Revolution, local self-government, ecology, and living society, then reduce it to:
+
+> “Nice island, ours, isn’t it?”
+
+The place is complicated.
+
+That is the point.
+
+Anguilla is not a punchline.  
+Anguillians are not scenery.  
+The history is not simple.  
+The wildlife is not decorative.  
+The cocktail flag remains under supervision.
 
 ---
 
@@ -8,7 +28,7 @@ Postcard stop for contestants who thought “Caribbean British territory” was 
 
 Anguilla is stop one on the Flag It Yourself postcard route.
 
-Contestants may be tempted to treat it as:
+Contestants may arrive believing Anguilla is:
 
 - a warm-up island;
 - a beach with paperwork;
@@ -18,9 +38,7 @@ Contestants may be tempted to treat it as:
 
 This is incorrect.
 
-Anguilla is not a starter island for men with map feelings.
-
-It is a real Caribbean society with its own history, local government, constitutional relationship with Britain, economic pressures, culture, ecology, and strong evidence that people living on islands may have opinions about how they are governed.
+Anguilla is a real Caribbean society with its own history, local government, constitutional relationship with Britain, political memory, economic pressures, culture, ecology, and very clear evidence that people living on islands may have opinions about how they are governed.
 
 Contestants must therefore slow down, stop pointing at the map, and send a proper postcard.
 
@@ -36,7 +54,7 @@ The territory includes:
 
 - the main island of Anguilla;
 - several smaller islands and cays with no permanent population;
-- a capital at The Valley;
+- the capital, The Valley;
 - a total land area of around 35 square miles / 91 km²;
 - and a population of around 15,753 in 2021.
 
@@ -60,15 +78,15 @@ Anguilla’s motto is:
 
 Production suggests contestants read this before assuming Anguilla’s constitutional history is a passive little tale of British tidiness.
 
-The coat of arms includes three dolphins.
+Anguilla’s coat of arms includes three dolphins.
 
-This is important.
+This matters.
 
-Not because contestants may attempt to ask the dolphins for constitutional guidance.
+Not because contestants may ask the dolphins for constitutional guidance.
 
 They may not.
 
-The dolphins are there as part of Anguilla’s own symbolic language. Contestants should notice that the island has its own self-representation, not just a British label placed over it from far away.
+The dolphins are part of Anguilla’s own symbolic language. Contestants should notice that the island has its own self-representation, not just a British label placed over it from far away.
 
 The cocktail flag is not the only symbol in the room.
 
@@ -98,7 +116,7 @@ Anguilla was first settled by Indigenous American peoples who migrated from Sout
 
 Archaeological evidence points to a long pre-European history, including early artefacts and later settlement remains.
 
-There are also known petroglyph sites, including Big Spring and Fountain Cavern. Big Spring includes many petroglyphs, with rock ledges marked by face-like indentations.
+There are known petroglyph sites, including Big Spring and Fountain Cavern. Big Spring includes many petroglyphs, with rock ledges marked by face-like indentations.
 
 This matters because contestants may arrive with a map that begins when Europeans start naming things.
 
@@ -108,21 +126,23 @@ The island did not begin when Europeans learned to spell eel.
 
 ## Colonial History And Enslavement
 
-European contact and control were contested and messy.
+European contact and control were contested and uneven.
 
 There are accounts of Dutch, French, Spanish, and English involvement or attack at different points. Traditional accounts say English settlers from Saint Kitts colonised Anguilla from around 1650.
 
 European settlers grew tobacco and cotton, and sugar later became more important.
 
-It is likely that enslaved Africans were brought early in the colonial period. Archival evidence indicates a substantial African presence by the late seventeenth century. Enslaved Africans and their descendants came to outnumber white settlers.
+Enslaved Africans were brought into the region and to Anguilla during the colonial period. Over time, enslaved Africans and their descendants came to outnumber white settlers. Their forced labour, survival, culture, resistance, family formation, and descendants are part of Anguilla’s history.
 
-Slavery was abolished across the British Empire in 1834, but the social and economic consequences of slavery, plantation history, race, land, labour, poverty, and migration do not simply vanish because a statute changes.
+Slavery was abolished across the British Empire in 1834, but abolition did not erase the consequences of slavery, plantation history, race, land, labour, poverty, migration, or political inequality.
 
 Contestants must not talk about Anguilla as if its history is only constitutional paperwork.
 
 The island’s story includes Indigenous presence, European colonial contest, plantation economies, enslaved African labour, emancipation, economic hardship, migration, and local political struggle.
 
-This is not “nice beach, British-ish.”
+This is not:
+
+> “Nice beach, British-ish.”
 
 This is history.
 
@@ -168,11 +188,11 @@ Contestants should take the hint.
 
 ---
 
-## What The Crack Is Now
+## What The Craic Is Now
 
 Anguilla is a British Overseas Territory.
 
-The Governor represents the Crown and is the constitutional head of state. Anguilla also has its own elected local government, including a Premier, Executive Council, and House of Assembly.
+The monarch is head of state and is represented by the Governor. Anguilla also has its own elected local government, including a Premier, Executive Council, and House of Assembly.
 
 In ordinary terms:
 
@@ -205,14 +225,14 @@ Contestants should avoid the following errors:
 - confusing tourism branding with local life;
 - treating the island’s relationship with Britain as passive;
 - using “small island” as code for “politically simple”;
-- assuming that warm weather makes constitutional questions less serious;
+- assuming warm weather makes constitutional questions less serious;
 - forgetting that Anguilla has already objected very firmly to being governed through arrangements it did not want.
 
-Anguilla has its own local culture, local political memory, local economy, local institutions, and local sense of itself.
+Anguillians are not supporting actors in a British map drama.
 
-The contestant’s job is not to explain Anguilla to Anguillians.
+The contestant’s job is to learn enough not to be embarrassing.
 
-The contestant’s job is to notice that Anguilla was already Anguilla before the contestant arrived damp with cake furniture.
+This may take some time.
 
 ---
 
@@ -262,7 +282,7 @@ Contestants must return with at least one respectful Anguilla postcard set.
 | Wildlife photo | Turtle sign, seabird, coastal bird, marine life, or other lawful wildlife observation from a respectful distance. | Chasing a bird because “the lighting was better over there.” |
 | Habitat photo | Beach, salt pond, reef area, scrub, coastline, or conservation site where photography is allowed. | A selfie captioned “sovereignty beach.” |
 | Conservation note | One local rule, protected area, or conservation issue noticed and followed. | “I did not know turtles had admin.” |
-| Human-context note | One sentence about Anguilla’s own local identity, government, or history. | “Nice place, basically ours.” |
+| Human-context note | One sentence about Anguilla’s own local identity, government, revolution, or history. | “Nice place, basically ours.” |
 | Cocktail flag status | Flag unused unless permission and dignity allow. | Flag in nest, flag in coral, flag in someone’s lunch, flag in turtle zone. |
 
 If the contestant cannot produce one decent nature note after visiting Anguilla, they are referred to remedial module:
@@ -358,4 +378,4 @@ Several were reminded that turtles do not care about their column.
 
 Survivor authorship is sovereign. Containment is never neutral.
 
-_Last updated: 2026-06-
+_Last updated: 2026-06-0
