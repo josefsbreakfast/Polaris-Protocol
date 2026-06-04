@@ -1,6 +1,6 @@
 # 🇧🇲 Bermuda  
 SATIRE. SATIRE. SATIRE.  
-Postcard stop for contestants who thought “Bermuda” meant triangle jokes, shorts, and a decorative Atlantic dot, rather than 181 islands, shipwreck, slavery history, Black Bermudian culture, old parliamentary institutions, reefs, storms, cahows, skinks, and several centuries of people not being props in Westminster’s imagination.
+Postcard stop for contestants who thought “Bermuda” meant triangle jokes, shorts, and a decorative Atlantic dot, rather than 181 islands, shipwreck, slavery history, Black Bermudian culture, old institutions, reefs, storms, cahows, skinks, and a motto with better maritime literacy than most policy speeches.
 
 ---
 
@@ -20,7 +20,7 @@ Bermuda is not a punchline.
 Bermudians are not scenery.  
 The history is not simple.  
 The wildlife is not decorative.  
-The cocktail flag remains under review.
+The cocktail flag remains under supervision.
 
 ---
 
@@ -163,7 +163,7 @@ It has not spent four centuries waiting for a think-tank man to arrive with a co
 
 ---
 
-## Slavery, Native American Enslavement, And Black Bermudian History
+## Slavery, Black Bermudian History, And Native American Enslavement
 
 Bermuda’s story includes slavery and racial hierarchy.
 
@@ -193,21 +193,35 @@ No refunds.
 
 ---
 
-## A Small Archipelago Can Still Have Dramatic Politics
+## A Small Archipelago Can Still Have Dense History
 
-Bermuda’s history does not become simple after settlement.
+Bermuda did not become simple after settlement.
 
-The English Civil War reached Bermuda, where many colonists were strongly royalist. Bermuda’s position during the American Revolution was also complicated by trade, hunger, family connections, Atlantic routes, and survival. Bermudians were involved in the 1775 removal of gunpowder from the Bermudian magazine, which was sent to support the American rebellion.
+It has been:
 
-Later, Bermuda became much more important to British naval power. The Royal Naval Dockyard on Ireland Island became a major base guarding western Atlantic shipping lanes. Bermuda was connected to the War of 1812, American Civil War blockade running, Boer War prisoners, twentieth-century military installations, wartime censorship, intelligence work, tourism, aviation, finance, political unrest, and modern self-government.
+- a shipwreck settlement;
+- an early colonial assembly society;
+- a slavery society;
+- a maritime economy;
+- a salt, shipbuilding, privateering, and trade centre;
+- a royalist flashpoint during the English Civil War;
+- a complicated actor during the American Revolution;
+- a major British naval base;
+- a staging point connected to the War of 1812;
+- a site linked to American Civil War blockade running;
+- a place where Boer prisoners of war were held;
+- a wartime censorship and intelligence site;
+- a tourism centre;
+- a financial-services centre;
+- a self-governing Overseas Territory;
+- a conservation site;
+- and the home of an Olympic gold medallist.
 
-So yes.
+This is not a list of trivia.
 
-Some shit has gone down in Bermuda.
+It is a warning against flattening.
 
-But this section is not here to turn Bermuda into a list of imperial trivia.
-
-It is here to stop contestants using “small island” as code for “historically simple.”
+Contestants may now understand why “triangle and shorts” was not an adequate briefing.
 
 Small places can have dense histories.
 
@@ -215,7 +229,7 @@ Please learn this before touching the cocktail flags.
 
 ---
 
-## What The Crack Is Now
+## What The Craic Is Now
 
 Bermuda is a British Overseas Territory.
 
@@ -223,19 +237,7 @@ It has a high degree of internal self-government. The monarch is head of state a
 
 The UK retains responsibilities including areas such as external affairs and defence, but Bermuda is not just a small administrative outpost. It has its own government, political parties, economy, institutions, and public debates about constitutional development and self-government.
 
-Contestants must not arrive and say:
-
-> “Well, London decides.”
-
-That is a sign they have confused constitutional ultimate responsibility with everyday political reality.
-
-The cocktail flag will be placed back in the packet until they calm down.
-
----
-
-## Recent Royal Visit Note
-
-Bermuda was recently visited by King Charles III during his first Royal Visit to a British Overseas Territory as monarch.
+Bermuda was also recently visited by King Charles III during his first Royal Visit to a British Overseas Territory as monarch.
 
 Contestants may be tempted to treat this as proof that Bermuda is a simple royal postcard.
 
@@ -381,21 +383,20 @@ Before leaving Bermuda, contestants must answer:
 5. Why is the Sea Venture important to Bermuda’s colonial origin story?
 6. Why do Deliverance and Patience matter?
 7. Why does Bermuda’s old parliamentary history matter?
-8. What role did slavery, Native American enslavement, and Black Bermudian history play in Bermuda’s development?
-9. Why is Bermuda’s American Revolution story more complicated than simple loyalty?
-10. How did Bermuda become important to British naval power?
-11. What does internal self-government mean here?
-12. What responsibilities does the UK still retain?
-13. Why does a royal visit not make Bermuda politically simple?
-14. How does Bermuda’s coral reef shape both habitat and storm protection?
-15. Why is “nice island weather” not the same as climate or disaster resilience?
-16. What is the cahow?
-17. What is the Bermuda skink?
-18. What is one habitat or conservation issue the contestant noticed?
-19. What did the contestant not touch, feed, chase, trample, disturb, or decorate with a cocktail flag?
-20. Did anyone local complain?
+8. What role did slavery, Black Bermudian history, and Native American enslavement play in Bermuda’s development?
+9. Why is “small archipelago” not the same as “simple history”?
+10. What does internal self-government mean here?
+11. What responsibilities does the UK still retain?
+12. Why does a royal visit not make Bermuda politically simple?
+13. How does Bermuda’s coral reef shape both habitat and storm protection?
+14. Why is “nice island weather” not the same as climate or disaster resilience?
+15. What is the cahow?
+16. What is the Bermuda skink?
+17. What is one habitat or conservation issue the contestant noticed?
+18. What did the contestant not touch, feed, chase, trample, disturb, or decorate with a cocktail flag?
+19. Did anyone local complain?
 
-If question twenty is answered “yes,” the contestant must return to the Local Consent Clause and consider whether the fates have carried them into a learning opportunity.
+If question nineteen is answered “yes,” the contestant must return to the Local Consent Clause and consider whether the fates have carried them into a learning opportunity.
 
 ---
 
@@ -409,7 +410,7 @@ The lesson is not:
 
 The lesson is:
 
-> “Here is an archipelago shaped by shipwreck, reefs, storms, slavery, Native American enslavement, Black Bermudian history, parliamentary institutions, maritime trade, naval strategy, American entanglements, tourism, financial services, self-government, conservation, and one of the most dramatic mottos available to any small island anywhere.”
+> “Here is an archipelago shaped by shipwreck, reefs, storms, slavery, Black Bermudian history, Native American enslavement, parliamentary institutions, maritime trade, naval strategy, American entanglements, tourism, financial services, self-government, conservation, and one of the most dramatic mottos available to any small island anywhere.”
 
 Contestants who arrive with triangle jokes may leave with a better understanding of history, weather, place, endangered birds, and why the sea keeps ruining simple arguments.
 
