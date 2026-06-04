@@ -1,8 +1,7 @@
-# 🌐 The CIA, Scorpios, and Total Information Awareness
-
+# 🌐 The CIA, Scorpios, and Total Information Awareness  
 First created: 2026-06-04 | Last updated: 2026-06-04  
 A note on astrology, information fantasy, redomination, technocracy, and the human weakness for impressive classification systems.
-
+<!--How to hit an error every five seconds: ask Western powers very nicely to maybe not be as fucking batshit. No - I don't think it is them, actually, but errors pinging everywhere. Like someone wants us to be a bit shit.-->
 ---
 
 ## 🛰️ Orientation
