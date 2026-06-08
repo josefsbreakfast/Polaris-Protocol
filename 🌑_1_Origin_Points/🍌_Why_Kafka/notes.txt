@@ -1,4 +1,0 @@
-🌑_1_Origin_Points/
-  🍌_Why_Kafka/
-    🍳_why_josefs_breakfast.md
-    🧭_why_polaris_protocol.md
