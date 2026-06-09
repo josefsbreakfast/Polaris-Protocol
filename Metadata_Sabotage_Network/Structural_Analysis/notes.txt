@@ -4,3 +4,6 @@
 
 🧼_System_Leakage_Signatures/ -> 🌒_2_Signs_Symptoms/  
 
+🧿_Targeting_Logic_And_Metadata_Signatures/ -> 🌑_1_Origin_Points/  
+
+---
