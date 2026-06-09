@@ -1,5 +1,5 @@
 # 🎖️ Recruiting The Undersea Frontier  
-**First created:** 2026-05-31 | **Last updated:** 2026-06-01  
+**First created:** 2026-05-31 | **Last updated:** 2026-06-09  
 *A media-pack node on undersea technology, service meaning, youth purpose, skilled defence work, and why AUKUS should not be made boring.*
 
 ---
@@ -539,7 +539,8 @@ Do not make the cool shit boring.
 
 *Further media:*  
 
-- [📹: Ministry of Defence, Singapore: "Does he? We do."](https://vm.tiktok.com/ZNR7jQ9m4/) – *I mean... yes; one way to promote STEM*  
+- [📹: Ministry of Defence, Singapore: "Does he? We do."](https://vm.tiktok.com/ZNR7jQ9m4/) – *I mean... yes; one way to promote STEM*
+- [📹: La Marine Nationale, France: "🌊  mondiale de l'océan. Un horizon différent chaque jour. ⚓️"](https://vm.tiktok.com/ZNRv7byfk/) – *never has a nuclear sub seemed more romantic*  
 
 ---
 
@@ -564,4 +565,4 @@ The node argues that AUKUS, cable defence, submarines, drones, AI, shipyards, fr
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-06-01*
+*Last updated: 2026-06-09*
