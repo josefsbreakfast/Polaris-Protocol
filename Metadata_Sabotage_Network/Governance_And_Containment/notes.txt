@@ -1,0 +1,13 @@
+# 🏯 Governance and Containment
+
+This was originally a single cluster inside the Metadata Sabotage Network.
+
+In the moon-system migration, its subfolders have been split by reader-state:
+
+- ㊙ Containment Contracts → 🌒 Signs & Symptoms
+- 🈴 Allies and Ethics → 🌑 Origin Points
+- 🈸 Dispatch and Training → 🌓 In The Moment
+- 🈺 Governance and Prevent → 🌓 In The Moment
+- 🉑 System Thresholds → 🌒 Signs & Symptoms
+
+The original cluster remains useful as a conceptual map: it names the fortress logic by which care, ethics, training, paperwork, and thresholds can become containment infrastructure.
