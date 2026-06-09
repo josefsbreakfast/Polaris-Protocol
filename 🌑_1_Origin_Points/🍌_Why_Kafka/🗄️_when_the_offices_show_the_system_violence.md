@@ -210,7 +210,7 @@ He discovers that something wrong has had offices for a long time.
 
 ---
 
-## 🧍 The woman is not furniture
+## 🪡 The woman is not furniture
 
 Chapter Three is not only about corrupt law.
 
@@ -328,7 +328,7 @@ The shock is that rooms had been arranged around it.
 
 ---
 
-## 🧷 A note on queer theory and straight readers
+## ☂️ A note on queer theory and straight readers
 
 Queer theory does not only ask who desires whom.
 
