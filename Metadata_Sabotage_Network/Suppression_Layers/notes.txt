@@ -1,3 +1,6 @@
 📉_Suppression_Interference_Logs/ -> 🌒_2_Signs_Symptoms/  
 
-🔮_Visibility_Indexing_Anomalies/ -> 🌒_2_Signs_Symptoms/
+🔮_Visibility_Indexing_Anomalies/ -> 🌒_2_Signs_Symptoms/  
+
+🛰️_Proximity_Control_Logs/ -> 🌒_2_Signs_Symptoms/  
+
