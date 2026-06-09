@@ -588,7 +588,7 @@ Urgent enough to challenge.
 
 ---
 
-## 🧑‍⚖️ Public reckoning and panic markets
+## 🌀 Public reckoning and panic markets
 
 Public recognition of sexual violence can expose older permissibility systems.
 
