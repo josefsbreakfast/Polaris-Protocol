@@ -1,3 +1,17 @@
+I probably need to do this like I used to, where I jumped between different topics quite rapidly, and that does have a certain amount of cognitive tax.  
+
+I'm sorry that it can't be more linear; I am very aware of how that probably reads to the outside, and how it may be frustrating if you're actually following a subject. I've been doing this for number of years now essentially to get round this specific problems that I have in terms of technology. I didn't actually realise what I was doing until it became more obvious. I thought it was just me being impatient; I've given enough examples of what the real impact looks like, to show that it appears to be at least repeated system error error across different platforms and apps and device devices.  
+
+There is a really interesting part here about how this can weaponise disclosures of normie-right-aligned sec policy, to then have an emergency event which disproportionately harms the normie-left shortly afterwards. We are currently in a cycle of that now, and there's a very hyperregional event in NI.  
+
+For to people who are reading me as a Jewish person who can't understand why I use dark humour and why deliberately invert stereotypes, perhaps you can see what I'm doing with what is a very highly anti-Irish weaponisable stereotype, in how I have named this new folder.  
+
+If you think what the British Empire did in Ireland was really inconsequential, I would ask whether you would accept the same degree of ignorance over history for something that hurts you and your history.  
+
+We can all agree that the empire run in a machine like way, that the vast majority of us would reject now, and do not hate every fibre of our being, simply because our families were part of that story.  
+
+It is far more useful to be able to have an emotional distance, and be able to look at it for what it was, and how it still comes up today. It is a ghost that is still chasing us. It just feeds off your fear. Confront it, and the danger might actually go away.  
+
 ---
 
 Draft Notes — Shared Exploit Surface / No-Fault Failure Stack Case Study
