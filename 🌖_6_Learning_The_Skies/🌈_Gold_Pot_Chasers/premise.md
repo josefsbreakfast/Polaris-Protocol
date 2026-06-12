@@ -14,6 +14,12 @@ It is far more useful to be able to have an emotional distance, and be able to l
 
 ---
 
+It is as painful to me that I do not have any of these mysterious pots of gold, as the horrible realisation that I do not secretly run the banks. It is all a terrible irony.  
+
+That's what actually hurts me, is not getting a good deal out of the thing.  
+
+---
+
 Draft Notes — Shared Exploit Surface / No-Fault Failure Stack Case Study
 
 1. Core argument from the original “this is what I’m going to show you” update
