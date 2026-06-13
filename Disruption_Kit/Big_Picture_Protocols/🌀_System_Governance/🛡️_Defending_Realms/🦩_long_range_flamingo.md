@@ -4,6 +4,12 @@ Because they are being held back, and even if that's not intentional, it does ma
 
 If the data is literally connecting the ideas for you, doesn't that give you the analysis you need?  
 
+I had to fight to get [here](https://vm.tiktok.com/ZNRcmh9UC/) "naturally". i've been watching Ukrainian content constantly for a number of weeks now. I'm a user who clearly is in the defensive arena in terms of content and being recommended all the time.  
+
+That isn't a natural algorithmic placement situation. That's strongly suggest that something is suppressing it, in several directions.  
+
+Ukrainian language is distinct from Russian language, even though it looks similar to a western audience, it's literally just the same alphabet. There's some shared linguistics, but I don't see English content being mistaken as French content that regularly.  
+
  ---
 
  # 🦩 Long-Range Flamingo  
