@@ -1,6 +1,8 @@
- I can't do layered work, but if I could, I would be tying this into Ukrainian cats and also about how cats are a very strong data cord online, and so this is essentially a piece that might be able to breakthrough some of the restrictive platform risk matrixes that are holding back Ukrainian media.  
+I can't do layered work, but if I could, I would be tying this into Ukrainian cats and also about how cats are a very strong data cord online, and so this is essentially a piece that might be able to breakthrough some of the restrictive platform risk matrixes that are holding back Ukrainian media.  
 
- because they are being held back, and even if that's not intentional, it does matter.  
+Because they are being held back, and even if that's not intentional, it does matter.  
+
+If the data is literally connecting the ideas for you, doesn't that give you the analysis you need?  
 
  ---
 
@@ -197,11 +199,7 @@ Polaris reads the pattern, not the targeting manual.
 
 ## 🌌 Constellations  
 
-- [[🌖_6_Learning_The_Skies/README|Learning The Skies]]
-- [[🌒_2_Signs_Symptoms/README|Signs & Symptoms]]
-- [[🌕_5_Long_Strategies/README|Long Strategies]]
-- [[🦑_CRAKEN_Cartography|CRAKEN Cartography]]
-- [[🧄_Exousiological_Dynamics|Exousiological Dynamics]]
+- [Koty](https://vm.tiktok.com/ZNRcmfSAd/)  
 
 ---
 
