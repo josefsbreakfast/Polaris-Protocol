@@ -465,40 +465,33 @@ Practical audit routes include:
 
 ---
 
-## 🌌 Constellations
+## 🌌 Constellations  
+🌈 🖥️ 🧱 🧰 🛡️ — digital modernisation critique; procurement fantasy; shared exploit surface; rights-as-defence routing.
 
-- 🌖 Learning The Skies — applied systems literacy and public pedagogy.
-- 🌈 Pot Of Gold Problem — digital modernisation mistaken for a final answer.
-- 🧱 Shared Exploit Surface — multiple actors using the same weak seams.
-- 🧰 Screwfix Problem — procurement without diagnosis.
-- 🖥️ Digital Infrastructure — records, uploads, data-sharing, appeals, and access routes as democratic infrastructure.
-- 🛡️ Rights As Defence Infrastructure — rights usability as national-security resilience.
-- 🕳️ Public Legibility Gap — the missing public category for overlapping coercive systems.
-- 🧭 Anti-Overclaiming Method — mapping vulnerabilities without turning every pathway into an accusation.
+## ✨ Stardust  
+digital modernisation, cyber policy, procurement, shared exploit surface, safeguarding, coercive control, automated injustice, rights usability, democratic resilience
 
 ---
 
-## ✨ Stardust
+## 🏮 Footer  
 
-digital modernisation, AI procurement, cyber policy, shared exploit surface, safeguarding, coercive control, transnational digital repression, automated injustice, public order, counter-terrorism, justice systems, procurement, platform governance, rights usability, democratic resilience, Article 5 logic, disability access, data-sharing, hostile-state pressure, institutional mistrust, pattern documentation, no-fault failure stack, convergent risk production, public legibility gap
+*🌈 Gold Pot Chasers* is a living cluster of the **Polaris Protocol**.  
+It teaches the route from basic digital competence to shared exploit surface analysis, showing why digital modernisation cannot be treated as a final-answer technology.  
+This cluster sits inside **Learning The Skies** as applied systems pedagogy for readers who need to understand how cyber, safeguarding, procurement, justice, public order, and rights usability now overlap.
 
----
+> 📡 Cross-references:
+>
+> - [⚪️ Orientation Note](./⚪️_orientation_note.md) — *reader guidance, metaphor framing, and anti-overclaiming discipline for this cluster*  
+> - [🧾 Glossary And Terms](./🧾_glossary_and_terms.md) — *working definitions for the cluster’s recurring systems vocabulary*  
+> - [🌈 The Pot Of Gold Problem](./1_The_Core_Problem/🌈_the_pot_of_gold_problem.md) — *core conceptual node on digital modernisation as false final answer*  
+> - [🧱 The Shared Exploit Surface](./1_The_Core_Problem/🧱_the_shared_exploit_surface.md) — *spine node for convergent exploitation across weak legal, technical, and institutional seams*
+>
+> 🏮 Return To:
+>
+> - [🌈 Gold Pot Chasers](./) — *current cluster*  
+> - [🌖 Learning The Skies](../README.md) — *applied learning and systems-pedagogy parent folder*  
+> - [🌌 Polaris Protocol](../../README.md) — *root archive*
 
-## 🏾 Footer
-
-`🌈_Gold_Pot_Chasers` is a Learning The Skies cluster within Polaris.
-
-It teaches the route from basic digital competence to shared exploit surface analysis.
-
-It does not ask the reader to begin by believing the whole systems thesis.
-
-It asks them to begin with the simpler question:
-
-> does the state understand the digital systems it now relies on?
-
-From there, the rest follows.
-
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-06-15_
-
