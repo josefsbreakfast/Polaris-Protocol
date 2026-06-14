@@ -481,7 +481,7 @@ This cluster sits inside **Learning The Skies** as applied systems pedagogy for 
 
 > 📡 Cross-references:
 >
-> - [⚪️ Orientation Note](./⚪️_orientation_note.md) — *reader guidance, metaphor framing, and anti-overclaiming discipline for this cluster*  
+> - [🪼 Orientation Note](./🪼_orientation_note.md) — *reader guidance, metaphor framing, and anti-overclaiming discipline for this cluster*  
 > - [🧾 Glossary And Terms](./🧾_glossary_and_terms.md) — *working definitions for the cluster’s recurring systems vocabulary*  
 > - [🌈 The Pot Of Gold Problem](./1_The_Core_Problem/🌈_the_pot_of_gold_problem.md) — *core conceptual node on digital modernisation as false final answer*  
 > - [🧱 The Shared Exploit Surface](./1_The_Core_Problem/🧱_the_shared_exploit_surface.md) — *spine node for convergent exploitation across weak legal, technical, and institutional seams*
