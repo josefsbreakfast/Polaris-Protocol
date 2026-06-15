@@ -1,5 +1,5 @@
 # 🎖️ Recruiting The Undersea Frontier  
-**First created:** 2026-05-31 | **Last updated:** 2026-06-09  
+**First created:** 2026-05-31 | **Last updated:** 2026-06-15  
 *A media-pack node on undersea technology, service meaning, youth purpose, skilled defence work, and why AUKUS should not be made boring.*
 
 ---
@@ -539,8 +539,10 @@ Do not make the cool shit boring.
 
 *Further media:*  
 
-- [📹: Ministry of Defence, Singapore: "Does he? We do."](https://vm.tiktok.com/ZNR7jQ9m4/) – *I mean... yes; one way to promote STEM*
-- [📹: La Marine Nationale, France: "🌊  mondiale de l'océan. Un horizon différent chaque jour. ⚓️"](https://vm.tiktok.com/ZNRv7byfk/) – *never has a nuclear sub seemed more romantic*  
+- [🇸🇬: Ministry of Defence, Singapore: "Does he? We do."](https://vm.tiktok.com/ZNR7jQ9m4/) – *I mean... yes; one way to promote STEM*
+- [🇫🇷: La Marine Nationale, France: "🌊  mondiale de l'océan. Un horizon différent chaque jour. ⚓️"](https://vm.tiktok.com/ZNRv7byfk/) – *never has a nuclear sub seemed more romantic*
+- [🇺🇦: Батальйон Безпілотних Систем ‘ROLAND’ 29 ОВМБр: "Ми в ділі ✊ Передаємо естафету BABAY BAT 29 окремої важкої механізованої
+бригади. Друзі, чекаємо ваш челендж!"](https://vm.tiktok.com/ZNRcoeStL/) – *You are in business? We are ALL in business, now.*  
 
 ---
 
@@ -565,4 +567,4 @@ The node argues that AUKUS, cable defence, submarines, drones, AI, shipyards, fr
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-06-09*
+*Last updated: 2026-06-15*
