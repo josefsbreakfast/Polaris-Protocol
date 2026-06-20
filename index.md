@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-06-20 02:47:19 UTC_
+_Generated on 2026-06-20 03:58:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -149,6 +149,7 @@ _Generated on 2026-06-20 02:47:19 UTC_
         - [`⚖️_registered_professions_impact.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_registered_professions_impact.md)
         - [`⚖️_rights_on_paper_punishment_in_practice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_rights_on_paper_punishment_in_practice.md)
         - [`⚖️_risk_aversion_is_policy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_risk_aversion_is_policy.md)
+        - [`⚖️_sentiment_data_and_coerced_service_risk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_sentiment_data_and_coerced_service_risk.md)
         - [`⚖️_shadow_governance_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_shadow_governance_timeline.md)
         - [`⚖️_small_bureaucrats_catch22.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_small_bureaucrats_catch22.md)
         - [`⚖️_soft_law_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_soft_law_governance.md)
