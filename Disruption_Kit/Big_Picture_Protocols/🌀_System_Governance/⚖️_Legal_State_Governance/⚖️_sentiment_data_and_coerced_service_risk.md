@@ -1,6 +1,7 @@
 # ⚖️ Sentiment Data And Coerced Service Risk  
 **First created:** 2026-06-20 | **Last updated:** 2026-06-20  
 *Why Home Office sentiment-analysis work must avoid anything that looks like coerced labour, compelled service, algorithmic reputation damage, or modern-slavery-adjacent behavioural extraction.*  
+<!--Have we stopped bleeding people for their talents, yet?-->
 
 ---
 
