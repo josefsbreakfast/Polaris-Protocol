@@ -687,7 +687,77 @@ This node is a governance and risk-framing draft, not legal advice.
 
 The archive point is not to overstate the law.
 
-The archive point is to identify where the machine begins to smell wrong before the formal finding arrives in a PDF seven years too late.
+The archive point is to identify where the machine begins to smell wrong before the formal finding arrives in a PDF seven years too late.  
+
+---
+
+## 🩸 Talent Bleed From The Public  
+
+There is also a national-capability harm.
+
+Even if an institution is too morally degraded to care about the individual being damaged, it should still understand that this model bleeds talent out of the public.
+
+When a person becomes over-used as a signal source, witness, community interpreter, critic, stress-test subject, or informal behavioural asset, the system may extract insight from them while destroying their ability to work normally elsewhere.
+
+That is not only cruelty.
+
+It is waste.
+
+The public loses:
+
+- expertise,
+- judgment,
+- lived-system knowledge,
+- language skills,
+- community trust,
+- institutional memory,
+- pattern recognition,
+- whistleblowing capacity,
+- civic courage,
+- specialist analysis,
+- professional contribution,
+- future tax base,
+- future public service.
+
+The person may still be alive.
+
+They may still be producing information.
+
+They may still be visible.
+
+But their ordinary route back into paid work, professional life, institutional contribution, family stability, or civic participation has been damaged.
+
+That is a talent bleed.
+
+It is the state eating its own seed corn.
+
+And this is where the moral argument and the cold institutional argument meet:
+
+> You do not have to care about someone kindly to recognise that rendering them unemployable after extracting value from them is a catastrophic misuse of public talent.
+
+It is also strategically stupid.
+
+A country that damages its unusually observant, unusually resilient, unusually high-context people because they were inconvenient to manage is not protecting itself.
+
+It is degrading its own nervous system.
+
+It is teaching talented people that visibility is dangerous, honesty is professionally fatal, and public service will eat them alive.
+
+That means fewer witnesses.
+
+Fewer critics.
+
+Fewer people willing to tell the truth early.
+
+Fewer people willing to enter difficult institutions and restrain harm from inside them.
+
+Fewer people willing to help when the next crisis arrives.
+
+That is not security.
+
+That is managed national self-harm.  
+
+"Managed."  
 
 ---
 
