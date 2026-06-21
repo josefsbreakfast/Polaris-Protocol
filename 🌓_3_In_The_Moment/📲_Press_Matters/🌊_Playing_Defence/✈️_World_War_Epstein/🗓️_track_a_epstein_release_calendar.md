@@ -319,7 +319,7 @@ It is the pressure map.
 >
 > - [🧮 Association Leakage And Metadata Escalation](./🧮_association_leakage_and_metadata_escalation.md) — *technical mechanism for metadata-driven movement*  
 > - [🧬 Shared Risk Calendar And Chain Dependency](./🧬_shared_risk_calendar_and_chain_dependency.md) — *how legal calendars become defence-risk signals*  
-> - [🧑‍💼 Track B Mandelson State System Risk](./🧑‍💼_track_b_mandelson_state_system_risk.md) — *Mandelson-specific state-system exposure*  
+> - [📲 Track B Mandelson State System Risk](./📲_track_b_mandelson_state_system_risk.md) — *Mandelson-specific state-system exposure*  
 > - [👑 Track C Andrew Comparator](./👑_track_c_andrew_comparator.md) — *Andrew as comparator track*  
 > - [🛰️ Track D Defence Comms Gaza Iran](./🛰️_track_d_defence_comms_gaza_iran.md) — *defence and comms anomaly calendar*  
 
