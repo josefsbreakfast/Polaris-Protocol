@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-06-21 08:52:18 UTC_
+_Generated on 2026-06-21 08:54:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5678,6 +5678,7 @@ _Generated on 2026-06-21 08:52:18 UTC_
         - [`👑_track_c_andrew_comparator.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/👑_track_c_andrew_comparator.md)
         - [`📲_track_b_mandelson_state_system_risk.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/📲_track_b_mandelson_state_system_risk.md)
         - [`🗓️_track_a_epstein_release_calendar.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/🗓️_track_a_epstein_release_calendar.md)
+        - [`🛰️_track_d_defence_comms_gaza_iran.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/🛰️_track_d_defence_comms_gaza_iran.md)
         - [`🧬_shared_risk_calendar_and_chain_dependency.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/🧬_shared_risk_calendar_and_chain_dependency.md)
         - [`🧮_association_leakage_and_metadata_escalation.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/🧮_association_leakage_and_metadata_escalation.md)
       - [**🏝️_Chagos_Complexities/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/)
