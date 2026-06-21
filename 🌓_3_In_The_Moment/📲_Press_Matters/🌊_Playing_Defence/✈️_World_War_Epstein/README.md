@@ -100,7 +100,7 @@ This cluster exists to keep that inquiry disciplined.
 | [🧮 Association Leakage And Metadata Escalation](./🧮_association_leakage_and_metadata_escalation.md) | Explains how weak data associations can produce strategic movement without direct coordination. |
 | [🧬 Shared Risk Calendar And Chain Dependency](./🧬_shared_risk_calendar_and_chain_dependency.md) | Explains how legal deadlines and elite exposure can become defence-risk signals. |
 | [🗓️ Track A Epstein Release Calendar](./🗓️_track_a_epstein_release_calendar.md) | Tracks broad Epstein disclosure, oversight, tranche, and congressional pressure dates. |
-| [🧑‍💼 Track B Mandelson State System Risk](./🧑‍💼_track_b_mandelson_state_system_risk.md) | Tracks Mandelson-specific legal, parliamentary, appointment, and state-system exposure. |
+| [📲 Track B Mandelson State System Risk](./📲_track_b_mandelson_state_system_risk.md) | Tracks Mandelson-specific legal, parliamentary, appointment, and state-system exposure. |
 | [👑 Track C Andrew Comparator](./👑_track_c_andrew_comparator.md) | Uses Andrew-related dates as a comparator for royal/government-information exposure. |
 | [🛰️ Track D Defence Comms Gaza Iran](./🛰️_track_d_defence_comms_gaza_iran.md) | Tracks Russia, Gaza ceasefire, Iran escalation, Akrotiri, US/UK/EU comms, and defence posture. |
 | [🇷🇺 Why Russia Moved Oddly For Russia](./🇷🇺_why_russia_moved_oddly_for_russia.md) | Examines Russia’s unusual early, quiet, semi-visible movement and possible restraint. |
