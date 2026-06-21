@@ -443,7 +443,7 @@ It defines the calendar-and-dependency model used by the `✈️_World_War_Epste
 >
 > - [🧮 Association Leakage And Metadata Escalation](./🧮_association_leakage_and_metadata_escalation.md) — *technical mechanism for metadata-driven movement*  
 > - [🗓️ Track A Epstein Release Calendar](./🗓️_track_a_epstein_release_calendar.md) — *broad disclosure and oversight dates*  
-> - [🧑‍💼 Track B Mandelson State System Risk](./🧑‍💼_track_b_mandelson_state_system_risk.md) — *Mandelson-specific state-system exposure*  
+> - [📲 Track B Mandelson State System Risk](./📲_track_b_mandelson_state_system_risk.md) — *Mandelson-specific state-system exposure*  
 > - [🛰️ Track D Defence Comms Gaza Iran](./🛰️_track_d_defence_comms_gaza_iran.md) — *defence and public-comms anomaly timeline*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
