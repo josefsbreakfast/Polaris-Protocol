@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-06-21 03:52:24 UTC_
+_Generated on 2026-06-21 08:37:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5672,6 +5672,8 @@ _Generated on 2026-06-21 03:52:24 UTC_
     - [`🦎_finding_ones_chirp.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🦎_finding_ones_chirp.md)
   - [**📲_Press_Matters/**](🌓_3_In_The_Moment/📲_Press_Matters/)
     - [**🌊_Playing_Defence/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/)
+      - [**✈️_World_War_Epstein/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/)
+        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/notes.txt)
       - [**🏝️_Chagos_Complexities/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/notes.txt)
         - [`🌊_neighbours_to_indian_ocean.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/🌊_neighbours_to_indian_ocean.md)
