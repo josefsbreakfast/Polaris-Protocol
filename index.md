@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-06-21 08:54:10 UTC_
+_Generated on 2026-06-21 08:56:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5675,6 +5675,7 @@ _Generated on 2026-06-21 08:54:10 UTC_
       - [**✈️_World_War_Epstein/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/notes.txt)
+        - [`🇷🇺_why_russia_moved_oddly_for_russia.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/🇷🇺_why_russia_moved_oddly_for_russia.md)
         - [`👑_track_c_andrew_comparator.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/👑_track_c_andrew_comparator.md)
         - [`📲_track_b_mandelson_state_system_risk.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/📲_track_b_mandelson_state_system_risk.md)
         - [`🗓️_track_a_epstein_release_calendar.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/🗓️_track_a_epstein_release_calendar.md)
