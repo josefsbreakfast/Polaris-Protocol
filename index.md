@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-06-21 08:40:03 UTC_
+_Generated on 2026-06-21 08:43:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5674,6 +5674,7 @@ _Generated on 2026-06-21 08:40:03 UTC_
     - [**🌊_Playing_Defence/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/)
       - [**✈️_World_War_Epstein/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/notes.txt)
+        - [`🧮_association_leakage_and_metadata_escalation.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/🧮_association_leakage_and_metadata_escalation.md)
       - [**🏝️_Chagos_Complexities/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/notes.txt)
         - [`🌊_neighbours_to_indian_ocean.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/🌊_neighbours_to_indian_ocean.md)
