@@ -397,7 +397,50 @@ Resolved.
 
 If the estate remains a market-maker, the system will keep monetising harm in perpetuity.
 
-And that is exactly the kind of post-mortem fuckery a paranoid, vindictive access-broker would plausibly leave behind.
+And that is exactly the kind of post-mortem fuckery a paranoid, vindictive access-broker would plausibly leave behind.  
+
+---
+
+## 🗣️ The Bragging-Rights Test  
+
+A useful investigative test is whether Epstein ever bragged, hinted, joked, threatened, or philosophised to close contacts about what would happen after his death.
+
+The claim should not be framed as proved.
+
+But it is a reasonable behavioural line of inquiry.
+
+A paranoid, vindictive access-broker who built power through secrecy, leverage, proximity, reputation risk, and asymmetric information would plausibly have treated posthumous exposure as part of the power game.
+
+Investigators and journalists should therefore look for evidence of:
+
+- dead-man-switch talk;
+- estate-control talk;
+- “if anything happens to me” comments;
+- boasts about files, tapes, names, or records;
+- threats that powerful people would go down with him;
+- jokes about people still needing him after death;
+- instructions to lawyers, trustees, fixers, assistants, or archivists;
+- unusual document custody arrangements;
+- repeated references to leverage surviving him;
+- close contacts suddenly changing posture after his death.
+
+The question is not only what structures existed.
+
+The question is whether he performed those structures socially.
+
+Arrogant operators often tell on themselves.
+
+Not necessarily in one clean confession.
+
+Often in jokes, boasts, threats, insinuations, and little demonstrations of control.
+
+The investigative line is simple:
+
+> Who heard Epstein talk about what would happen to his files, names, money, records, or enemies after he died?
+
+That is where the worm may have left fingerprints.  
+
+The post-mortem design question is not speculative decoration. It is an investigative lead. If Epstein understood his archive as leverage while alive, then close contacts may have heard him describe, threaten, joke about, or boast about leverage surviving him. That social-performance trail matters.
 
 ---
 
