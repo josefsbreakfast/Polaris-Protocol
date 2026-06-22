@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-06-22 23:39:12 UTC_
+_Generated on 2026-06-22 23:40:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5715,6 +5715,7 @@ _Generated on 2026-06-22 23:39:12 UTC_
     - [**👻_Ghosts_Of_Accountability/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/)
       - [**🐼_The_Met_Vs_The_Tulpa/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Met_Vs_The_Tulpa/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Met_Vs_The_Tulpa/README.md)
+        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Met_Vs_The_Tulpa/notes.txt)
     - [**💌_Visible_Ink/**](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/README.md)
       - [`⚖️_intent_free_risk.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/⚖️_intent_free_risk.md)
