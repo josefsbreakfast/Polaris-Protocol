@@ -1,6 +1,5 @@
-# 🕸️ Core Problem
-
-**First created:** 2026-06-22 | **Last updated:** 2026-06-22
+# 🕸️ Core Problem  
+**First created:** 2026-06-22 | **Last updated:** 2026-06-22  
 *The basic teaching model for the Gold Pot Chasers cluster: false final-answer technologies, digital infrastructure, damaged systems, worsening weather, and shared exploit surfaces.*
 
 ---
