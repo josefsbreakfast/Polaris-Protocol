@@ -1,5 +1,5 @@
 # 🍃 Input Stack  
-**First created:** 2026-06-22 | **Last updated:** 2026-06-22  
+**First created:** 2026-06-15 | **Last updated:** 2026-06-22  
 *Folder orientation for the pressures, histories, reforms, events, and second-order signals that load the Gold Pot Chasers systems map.*
 
 ---
