@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-06-22 15:28:48 UTC_
+_Generated on 2026-06-22 15:37:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6193,6 +6193,10 @@ _Generated on 2026-06-22 15:28:48 UTC_
       - [`README.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🔥_Emergency_Load_Bearers/README.md)
     - [**🕸️_Core_Problem/**](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🕸️_Core_Problem/)
       - [`README.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🕸️_Core_Problem/README.md)
+      - [`☔️_the_shared_exploit_surface.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🕸️_Core_Problem/☔️_the_shared_exploit_surface.md)
+      - [`⚱️_the_pot_of_gold_problem.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🕸️_Core_Problem/⚱️_the_pot_of_gold_problem.md)
+      - [`🏚️_the_house_and_the_weather.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🕸️_Core_Problem/🏚️_the_house_and_the_weather.md)
+      - [`🖥️_digital_is_not_side_admin.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🕸️_Core_Problem/🖥️_digital_is_not_side_admin.md)
     - [`README.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/README.md)
     - [`notes.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/notes.md)
     - [`🧾_glossary_and_terms.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🧾_glossary_and_terms.md)
