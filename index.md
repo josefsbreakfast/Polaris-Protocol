@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-06-22 15:58:55 UTC_
+_Generated on 2026-06-22 16:06:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6181,6 +6181,11 @@ _Generated on 2026-06-22 15:58:55 UTC_
   - [**🌈_Gold_Pot_Chasers/**](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/)
     - [**🍃_Input_Stack/**](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🍃_Input_Stack/)
       - [`README.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🍃_Input_Stack/README.md)
+      - [`🌍_outside_the_house_pressures.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🍃_Input_Stack/🌍_outside_the_house_pressures.md)
+      - [`🍽️_the_messy_input_stack.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🍃_Input_Stack/🍽️_the_messy_input_stack.md)
+      - [`🏛️_inside_the_house_pressures.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🍃_Input_Stack/🏛️_inside_the_house_pressures.md)
+      - [`📊_what_counts_as_second_order_data.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🍃_Input_Stack/📊_what_counts_as_second_order_data.md)
+      - [`🕰️_post_2015_alignment_problem.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🍃_Input_Stack/🕰️_post_2015_alignment_problem.md)
     - [**🍄_Public_Legibility_And_Coercive_Exploits/**](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🍄_Public_Legibility_And_Coercive_Exploits/)
       - [`README.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🍄_Public_Legibility_And_Coercive_Exploits/README.md)
     - [**🎶_Synthesis/**](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🎶_Synthesis/)
