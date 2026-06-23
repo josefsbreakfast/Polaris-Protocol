@@ -1,3 +1,86 @@
+v4:  
+
+🐼_The_Procurement_Of_The_Rings/
+├── README.md
+│   └── Orientation: not pro-Palantir, not anti-Palantir; a live Press Matters cluster about procurement, disclosure, legal risk, and accidental accountability.
+│
+├── 📌_known_public_facts_first.md
+│   └── Strict sourceable timeline: Met pilot, proposed contract, MOPAC veto, Palantir escalation, public statements, DPIA references, officer-number claims.
+│
+├── 🧭_how_to_read_this_without_picking_a_mascot.md
+│   └── Nobody needs to be the hero. Palantir can be self-interested and still raise useful questions. MOPAC can be right and still have awkward paperwork. The Met can have operational need and weak governance.
+│
+├── 🧭_journalists_you_ask.md
+│   └── Press Matters rule: Polaris does not claim the hidden answer; it routes questions journalists should ask.
+│
+├── 🕰️_why_now_the_timing_question.md
+│   └── Why escalate now? Timing as signal, not proof. Public legal action, media appearance, and political/legal weather.
+│
+├── 🫖_the_two_uncles_problem.md
+│   └── Loud aggressive uncle vs quiet passive-aggressive uncle. Let them argue; document what falls out of their pockets.
+│
+├── 💍_one_contract_to_rule_them_all.md
+│   └── Contract as symbolic object: procurement, dependency, public safety claims, supplier lock-in, and governance doom.
+│
+├── 💔_the_procurement_divorce.md
+│   └── Pilot-as-relationship, veto-as-breakup, disclosure-as-divorce court. “The court still gets to ask for the spreadsheet.”
+│
+├── ♚_the_king_moves_into_check.md
+│   └── Chess metaphor for the first-mover risk. A move can be technically available in one lane while exposing the actor from other directions. Journalists do not need to declare checkmate; they need to ask who checked whether the square was attacked.
+│
+├── 🎭_the_700_officers_line_as_pr_risk_transfer.md
+│   └── Officer-number claim as public-safety and budget-risk framing. Not automatically false; not automatically neutral.
+│
+├── 🧾_the_dpia_ethics_review_and_procurement_gap.md
+│   └── DPIA / ethics / governance issue. Needs exact document evidence. Separate paperwork facts from inference.
+│
+├── ⚖️_what_each_side_needs_to_disclose_to_win.md
+│   └── Palantir, Met, and MOPAC each create disclosure pressure on the others by defending themselves.
+│
+├── 🐼_if_you_are_palantir_this_is_the_case_you_make.md
+│   └── Best version of Palantir’s argument: unfair or political veto, operational value, legitimate process expectations, public-safety framing.
+│
+├── 🚓_if_you_are_the_met_this_is_the_case_you_make.md
+│   └── Best version of the Met’s argument: operational pressure, fragmented data, standards/corruption use case, budget constraints, London policing complexity.
+│
+├── 🏛️_if_you_are_mopac_this_is_the_case_you_make.md
+│   └── Best version of MOPAC’s argument: democratic oversight, value for money, competition, data protection, public trust, supplier-risk concerns.
+│
+├── 👻_how_commercial_litigation_can_create_public_accountability.md
+│   └── The accidental-accountability thesis: a contractor acting for itself may force disclosures ordinary people cannot afford to force.
+│
+├── 🧨_bold_move_have_you_checked_your_own_map.md
+│   └── Palantir makes paperwork the battlefield. That invites questions about its own conflict checks, sanctions checks, investor/adviser mapping, timing sign-off, data-protection posture, and correspondence record.
+│
+├── 🪷_the_koi_pond_was_not_dug_deep_enough.md
+│   └── Billionaire surveillance-capital pond: too shallow, overstocked, legally sensitive, and full of stressed bettas with lawyers.
+│
+├── 🕸️_legal_risk_connections_across_public_bodies.md
+│   └── Low-drama hypothesis: similar defensive behaviours may arise from shared legal advice ecosystems, insurer panels, counsel chambers, monitoring-officer culture, or public-sector risk templates.
+│
+├── 🧪_parallel_signal_wigan_and_the_libel_weather.md
+│   └── Wigan as comparator, not proof: citizen scrutiny, legal language, FOI pressure, reputational containment, possible shared legal weather.
+│
+├── 🛰️_billionaire_surveillance_capital_ricochet.md
+│   └── Musk/Thiel/Palantir/xAI/SpaceX-style legal-risk ricochet. Not coordination; correlated sensitivity in a small pond.
+│
+├── 🧊_sanctions_compliance_and_paperwork_panic.md
+│   └── Tightened Russia/sanctions compliance shifts the field from “are you personally sanctioned?” to “can you prove who owns, funds, advises, routes, supplies, or benefits from you?”
+│
+├── 🗄️_the_hidden_layer_problem.md
+│   └── National security, NDAs, closed briefings, defence arrangements, sensitive policing capabilities, commercial confidentiality, and locked-cabinet risks.
+│
+├── 🕳️_why_this_is_not_just_about_palantir.md
+│   └── Wider map: procurement culture, outsourcing, public-body defensiveness, legal privilege, FOI literacy, citizen journalism, and state/vendor accountability.
+│
+├── 🗞️_why_mainstream_press_keeps_missing_the_shape.md
+│   └── Ordinary press reports event/personality/conflict; citizen journalism tracks documents, screenshots, FOIs, procurement notices, DPIAs, and procedural mismatch.
+│
+└── 🧭_questions_journalists_should_ask_now.md
+    └── Practical question bank for reporters, lawyers, local journalists, data-governance specialists, and public-interest investigators.
+
+---
+
 v3:  
 
 🐼_The_Procurement_Of_The_Rings/
