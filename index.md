@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-06-23 11:51:06 UTC_
+_Generated on 2026-06-23 11:55:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5726,6 +5726,7 @@ _Generated on 2026-06-23 11:51:06 UTC_
         - [`📌_known_public_facts_first.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/📌_known_public_facts_first.md)
         - [`🔮_best_case_palantir.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🔮_best_case_palantir.md)
         - [`🕰️_why_now_the_timing_question.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🕰️_why_now_the_timing_question.md)
+        - [`🧍_the_awkward_posture.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🧍_the_awkward_posture.md)
         - [`🧭_how_to_read_this_without_picking_a_mascot.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🧭_how_to_read_this_without_picking_a_mascot.md)
         - [`🧾_the_dpia_ethics_and_procurement_gap.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🧾_the_dpia_ethics_and_procurement_gap.md)
     - [**💌_Visible_Ink/**](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/)
