@@ -1,11 +1,10 @@
-🐼 The Procurement Of The Rings
+# 🐼 The Procurement Of The Rings  
+**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+*One contract to rule the discourse; one veto to find it; one pre-action letter to bring them all, and in disclosure bind them.*
 
-First created: 2026-06-23 | Last updated: 2026-06-23
-One contract to rule the discourse; one veto to find it; one pre-action letter to bring them all, and in disclosure bind them.
+---
 
-⸻
-
-🛰️ Orientation
+## 🛰️ Orientation
 
 This cluster tracks the public-interest implications of the dispute between Palantir, the Metropolitan Police, and the Mayor’s Office for Policing and Crime.
 
@@ -19,9 +18,9 @@ The tulpa moves for tulpa reasons.
 
 The public may still get light through the crack.
 
-⸻
+---
 
-🧭 Press Matters Rule
+## 🧭 Press Matters Rule
 
 This cluster does not claim the hidden answer.
 
@@ -33,12 +32,12 @@ The point is to make reporting harder to avoid.
 
 The basic method is simple:
 
-* separate known public facts from inference;
-* treat timing as a question, not proof;
-* avoid picking a mascot;
-* give each actor its strongest fair case before critique;
-* ask what each actor would need to disclose to defend itself;
-* track where commercial litigation may create accidental public accountability.
+- separate known public facts from inference;
+- treat timing as a question, not proof;
+- avoid picking a mascot;
+- give each actor its strongest fair case before critique;
+- ask what each actor would need to disclose to defend itself;
+- track where commercial litigation may create accidental public accountability.
 
 Because this is an active legal and procurement issue, the evidential discipline matters.
 
@@ -46,9 +45,9 @@ Memory, archive context, and pattern recognition may help route the questions.
 
 They do not replace sourcing.
 
-⸻
+---
 
-🐼 Why This Cluster Exists
+## 🐼 Why This Cluster Exists
 
 The immediate story is a blocked or contested policing-technology contract.
 
@@ -56,16 +55,16 @@ The wider story is about public power.
 
 This dispute sits at the intersection of:
 
-* policing data infrastructure;
-* procurement fairness;
-* mayoral oversight;
-* vendor dependency;
-* public-safety pressure;
-* data protection;
-* democratic control;
-* commercial litigation;
-* public-sector defensiveness;
-* and the hidden layers of sensitive policing capability.
+- policing data infrastructure;
+- procurement fairness;
+- mayoral oversight;
+- vendor dependency;
+- public-safety pressure;
+- data protection;
+- democratic control;
+- commercial litigation;
+- public-sector defensiveness;
+- and the hidden layers of sensitive policing capability.
 
 That is why this is not only a story about Palantir.
 
@@ -73,9 +72,9 @@ Palantir is the doorway.
 
 The building is bigger.
 
-⸻
+---
 
-🧩 The Mascot Problem
+## 🧩 The Mascot Problem
 
 The public does not need to decide that Palantir is the hero.
 
@@ -97,9 +96,9 @@ The public does not need a mascot.
 
 The public needs the records.
 
-⸻
+---
 
-💍 One Contract, Several Problems
+## 💍 One Contract, Several Problems
 
 The contract matters because it may be more than a contract.
 
@@ -119,9 +118,9 @@ But:
 
 What happens to the public-sector market when refusal itself becomes the battlefield?
 
-⸻
+---
 
-🕰️ Why Timing Matters
+## 🕰️ Why Timing Matters
 
 Timing is not proof.
 
@@ -139,9 +138,9 @@ It may also be narratively useful.
 
 Those are not the same question.
 
-⸻
+---
 
-🪞 Wronged Before Exposed
+## 🪞 Wronged Before Exposed
 
 One working hypothesis in this cluster is that legal escalation can be useful even when a case is not overwhelmingly strong.
 
@@ -161,9 +160,9 @@ It is also:
 
 What does this dispute allow each actor to say about itself before other paperwork moves?
 
-⸻
+---
 
-♚ The First-Mover Risk
+## ♚ The First-Mover Risk
 
 A move can be available in one lane and dangerous in another.
 
@@ -177,9 +176,9 @@ If Palantir makes process, fairness, paperwork, and public-sector decision-makin
 
 If your case is that the paperwork matters, then your paperwork matters too.
 
-⸻
+---
 
-🧾 The Disclosure Triangle
+## 🧾 The Disclosure Triangle
 
 Each actor’s defence creates pressure on the others.
 
@@ -193,9 +192,9 @@ Nobody can defend themselves cleanly without making the record more interesting.
 
 That is why the dispute matters.
 
-⸻
+---
 
-👻 Accidental Accountability
+## 👻 Accidental Accountability
 
 Commercial litigation is not public-interest sainthood.
 
@@ -215,23 +214,23 @@ The public does not need Palantir to be benevolent.
 
 The public needs to know what the fight reveals.
 
-⸻
+---
 
-🗄️ The Hidden Layer Problem
+## 🗄️ The Hidden Layer Problem
 
 The visible paperwork may not be the whole paperwork.
 
 This dispute may touch material constrained by:
 
-* national security;
-* sensitive policing capability;
-* commercial confidentiality;
-* NDAs;
-* procurement privilege;
-* closed briefings;
-* unpublished risk assessments;
-* data-protection limits;
-* or operational sensitivity.
+- national security;
+- sensitive policing capability;
+- commercial confidentiality;
+- NDAs;
+- procurement privilege;
+- closed briefings;
+- unpublished risk assessments;
+- data-protection limits;
+- or operational sensitivity.
 
 That does not prove wrongdoing.
 
@@ -239,9 +238,9 @@ It means the public record may be structurally incomplete.
 
 The problem with demanding the folder is that someone may eventually mention the locked cabinet.
 
-⸻
+---
 
-🧭 How To Use This Cluster
+## 🧭 How To Use This Cluster
 
 Start with the facts node.
 
@@ -255,58 +254,58 @@ The order matters because the purpose of this cluster is not to make the sharpes
 
 The purpose is to make the argument hard to dismiss.
 
-⸻
+---
 
-📂 Node List
+## 📂 Node List
 
-* README — cluster orientation and build spine
-* 📌 Known Public Facts First — sourceable timeline and evidential floor
-* 🧭 How To Read This Without Picking A Mascot — reader posture and mascot-resistance rule
-* 🕰️ Why Now: The Timing Question — timing as question, not proof
-* 💍 One Contract To Rule Them All — contract precedent and refusal pressure
-* 💔 The Procurement Divorce — pilot, veto, breakup, and disclosure court
-* 🐼 Best Case Palantir — strongest fair version of Palantir’s case
-* 🚓 Best Case Met — strongest fair version of the Metropolitan Police case
-* 🏛️ Best Case MOPAC — strongest fair version of the oversight case
-* ⚖️ What Each Side Needs To Disclose — disclosure triangle and evidential pressure
-* 🧾 The DPIA, Ethics, And Procurement Gap — tool usefulness versus lawful adoption
-* 🎭 The Public Safety Line — public-safety pressure frame and officer-number claims
-* 🏷️ Palantir Or Palantir UK — subsidiary posture versus international brand aura
-* 🧍 The Awkward Posture — off-register communications and urgency signalling
-* 🪞 Wronged Before Exposed — pre-framing hypothesis and procedural victimhood
-* ♚ The King Moves Into Check — first-mover risk and attacked squares
-* 🧾 The Paperwork Reciprocity Trap — why making paperwork the battlefield cuts both ways
-* 👻 Commercial Litigation As Accidental Accountability — self-interest as disclosure pressure
-* 🗄️ The Hidden Layer Problem — NDAs, sensitive capability, closed material, and locked cabinets
-* 🕳️ Why This Is Not Just About Palantir — outsourcing, policing tech, vendor dependency, and democratic control
-* 🧭 Questions Journalists Should Ask Now — practical question bank for reporters and accountability actors
+- [README](./README.md) — *cluster orientation and build spine*
+- [📌 Known Public Facts First](./📌_known_public_facts_first.md) — *sourceable timeline and evidential floor*
+- [🧭 How To Read This Without Picking A Mascot](./🧭_how_to_read_this_without_picking_a_mascot.md) — *reader posture and mascot-resistance rule*
+- [🕰️ Why Now: The Timing Question](./🕰️_why_now_the_timing_question.md) — *timing as question, not proof*
+- [💍 One Contract To Rule Them All](./💍_one_contract_to_rule_them_all.md) — *contract precedent and refusal pressure*
+- [💔 The Procurement Divorce](./💔_the_procurement_divorce.md) — *pilot, veto, breakup, and disclosure court*
+- [🐼 Best Case Palantir](./🐼_best_case_palantir.md) — *strongest fair version of Palantir’s case*
+- [🚓 Best Case Met](./🚓_best_case_met.md) — *strongest fair version of the Metropolitan Police case*
+- [🏛️ Best Case MOPAC](./🏛️_best_case_mopac.md) — *strongest fair version of the oversight case*
+- [⚖️ What Each Side Needs To Disclose](./⚖️_what_each_side_needs_to_disclose.md) — *disclosure triangle and evidential pressure*
+- [🧾 The DPIA, Ethics, And Procurement Gap](./🧾_the_dpia_ethics_and_procurement_gap.md) — *tool usefulness versus lawful adoption*
+- [🎭 The Public Safety Line](./🎭_the_public_safety_line.md) — *public-safety pressure frame and officer-number claims*
+- [🏷️ Palantir Or Palantir UK](./🏷️_palantir_or_palantir_uk.md) — *subsidiary posture versus international brand aura*
+- [🧍 The Awkward Posture](./🧍_the_awkward_posture.md) — *off-register communications and urgency signalling*
+- [🪞 Wronged Before Exposed](./🪞_wronged_before_exposed.md) — *pre-framing hypothesis and procedural victimhood*
+- [♚ The King Moves Into Check](./♚_the_king_moves_into_check.md) — *first-mover risk and attacked squares*
+- [🧾 The Paperwork Reciprocity Trap](./🧾_the_paperwork_reciprocity_trap.md) — *why making paperwork the battlefield cuts both ways*
+- [👻 Commercial Litigation As Accidental Accountability](./👻_commercial_litigation_as_accidental_accountability.md) — *self-interest as disclosure pressure*
+- [🗄️ The Hidden Layer Problem](./🗄️_the_hidden_layer_problem.md) — *NDAs, sensitive capability, closed material, and locked cabinets*
+- [🕳️ Why This Is Not Just About Palantir](./🕳️_why_this_is_not_just_about_palantir.md) — *outsourcing, policing tech, vendor dependency, and democratic control*
+- [🧭 Questions Journalists Should Ask Now](./🧭_questions_journalists_should_ask_now.md) — *practical question bank for reporters and accountability actors*
 
-⸻
+---
 
-🌌 Constellations
+## 🌌 Constellations
 
 🐼 💍 ⚖️ 🗄️ 👻 — procurement dispute; public-sector accountability; litigation as disclosure pressure; hidden-layer governance.
 
-⸻
+---
 
-✨ Stardust
+## ✨ Stardust
 
 palantir, metropolitan police, mopac, procurement, policing technology, data governance, commercial litigation, public accountability, disclosure, democratic oversight
 
-⸻
+---
 
-🏮 Footer
+## 🏮 Footer
 
-🐼 The Procurement Of The Rings is a living cluster of the Polaris Protocol.
+*🐼 The Procurement Of The Rings* is a living cluster of the **Polaris Protocol**.  
 It tracks how a contested policing-technology procurement dispute may expose wider questions about public-sector governance, vendor dependency, disclosure pressure, and democratic oversight.
 
-📡 Cross-references:
+> 📡 Cross-references:
+>
+> - [🔮 House Style](../../../🔮_house_style.md) — *formatting, filename, metadata, constellation, stardust, and footer standards for Polaris nodes*
+> - [📲 Press Matters](../../README.md) — *public-interest reporting routes and accountability questions*
+> - [👻 Ghosts Of Accountability](../README.md) — *commercial, legal, and institutional disputes that reveal hidden governance structures*
+> - [🧭 Questions Journalists Should Ask Now](./🧭_questions_journalists_should_ask_now.md) — *practical reporting routes for this cluster*
 
-* 🔮 House Style — formatting, filename, metadata, constellation, stardust, and footer standards for Polaris nodes
-* 📲 Press Matters — public-interest reporting routes and accountability questions
-* 👻 Ghosts Of Accountability — commercial, legal, and institutional disputes that reveal hidden governance structures
-* 🧭 Questions Journalists Should Ask Now — practical reporting routes for this cluster
+*Survivor authorship is sovereign. Containment is never neutral.*
 
-Survivor authorship is sovereign. Containment is never neutral.
-
-Last updated: 2026-06-23
+_Last updated: 2026-06-23_
