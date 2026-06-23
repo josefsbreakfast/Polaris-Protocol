@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-06-23 21:53:59 UTC_
+_Generated on 2026-06-23 21:56:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6220,6 +6220,11 @@ _Generated on 2026-06-23 21:53:59 UTC_
       - [`README.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/💸_Tools_Procurement_And_Vendors/README.md)
     - [**🔥_Emergency_Load_Bearers/**](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🔥_Emergency_Load_Bearers/)
       - [`README.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🔥_Emergency_Load_Bearers/README.md)
+      - [`⚔️_war_platforms_and_diaspora_pressure.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🔥_Emergency_Load_Bearers/⚔️_war_platforms_and_diaspora_pressure.md)
+      - [`🇬🇧_brexit_as_system_load.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🔥_Emergency_Load_Bearers/🇬🇧_brexit_as_system_load.md)
+      - [`🚨_public_order_as_pressure_test.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🔥_Emergency_Load_Bearers/🚨_public_order_as_pressure_test.md)
+      - [`🦠_covid_as_system_load.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🔥_Emergency_Load_Bearers/🦠_covid_as_system_load.md)
+      - [`🧨_emergency_events_as_load_bearers.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🔥_Emergency_Load_Bearers/🧨_emergency_events_as_load_bearers.md)
     - [**🕸️_Core_Problem/**](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🕸️_Core_Problem/)
       - [`README.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🕸️_Core_Problem/README.md)
       - [`☔️_the_shared_exploit_surface.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🕸️_Core_Problem/☔️_the_shared_exploit_surface.md)
