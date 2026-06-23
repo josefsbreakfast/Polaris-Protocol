@@ -1,3 +1,50 @@
+v9 (build in layers, add/correct as needed early as possible):  
+
+* README.md
+    Opens the cluster and explains why the Palantir / Met / MOPAC dispute matters as a public-accountability event, without making Palantir, the Met, or MOPAC into the hero. Sets the Press Matters rule: this cluster routes questions rather than claiming hidden answers.
+* 📌_known_public_facts_first.md
+    Holds the strict sourceable timeline: the proposed contract, MOPAC veto, Palantir escalation, public statements, contract value, stated concerns, and any available DPIA / ethics / procurement references. This node keeps facts separate from inference.
+* 🧭_how_to_read_this_without_picking_a_mascot.md
+    Explains the reader posture: Palantir can be self-interested and still raise useful questions; MOPAC can be right and still have awkward paperwork; the Met can have operational need and weak governance. The public does not need a mascot. The public needs the records.
+* 🕰️_why_now_the_timing_question.md
+    Examines why Palantir escalated at this moment. Treats timing as a question, not proof, and asks whether the move was driven by legal deadlines, reputational pressure, market positioning, exposure anxiety, or wider political/accountability timetables.
+* 💍_one_contract_to_rule_them_all.md
+    Frames the contract as more than a single procurement dispute. The value may matter less than the precedent: if MOPAC can block Palantir on governance, value, or trust grounds, other public bodies may feel able to do the same.
+* 💔_the_procurement_divorce.md
+    Uses the pilot / veto / escalation as a readable “procurement breakup” metaphor. The pilot is the relationship, the veto is the breakup, and disclosure is the divorce court where everyone has to explain what they thought was happening.
+* 🐼_best_case_palantir.md
+    Gives the strongest fair version of Palantir’s argument: the Met had genuine operational need, the pilot showed value, public safety and capacity may be affected, and MOPAC’s decision may have been politically or procedurally unfair.
+* 🚓_best_case_met.md
+    Gives the strongest fair version of the Met’s argument: London policing is complex, data is fragmented, standards/corruption work needs analytical capacity, and budget or staffing pressure makes digital capability operationally important.
+* 🏛️_best_case_mopac.md
+    Gives the strongest fair version of MOPAC’s argument: democratic oversight, value for money, procurement fairness, public trust, data protection, and human rights matter, especially for coercive public infrastructure.
+* ⚖️_what_each_side_needs_to_disclose.md
+    Maps the disclosure burden created by each actor’s defence. Palantir needs to show unfairness; MOPAC needs to show lawful and reasoned oversight; the Met needs to show operational need and governance compliance. Each case puts pressure on the others.
+* 🧾_the_dpia_ethics_and_procurement_gap.md
+    Separates tool usefulness from lawful adoption. A system can work and still raise serious issues around DPIA, ethics review, market testing, procurement fairness, data rights, public trust, and democratic legitimacy.
+* 🎭_the_public_safety_line.md
+    Examines the officer-number / public-safety claim as a pressure frame. The claim may be true, strategic, exaggerated, or all three. The key question is whether the causal chain is documented and independently defensible.
+* 🏷️_palantir_or_palantir_uk.md
+    Tracks the difference between framing the dispute as “Palantir UK” and “Palantir.” The former localises the issue; the latter brings in global brand weight, but also global brand baggage.
+* 🧍_the_awkward_posture.md
+    Captures the off-register communications problem. Palantir usually projects calm inevitability, but this move reads urgent, procedural, noisy, and exposed. Weirdness is not proof, but it is a reason to read the paperwork slowly.
+* 🪞_wronged_before_exposed.md
+    Tests the careful hypothesis that Palantir may be trying to become legible as the wronged procedural actor before other scrutiny lands. This is framed as possible repositioning, not proven distraction.
+* ♚_the_king_moves_into_check.md
+    Uses the chess metaphor for first-mover risk. A move may be available in the narrow legal lane while placing the mover on an attacked square in the wider risk field: conflicts, sanctions, advisers, lobbying routes, data rights, and hidden records.
+* 🧾_the_paperwork_reciprocity_trap.md
+    Argues that if Palantir makes paperwork, process, and fairness the battlefield, its own paperwork becomes relevant too. Journalists should ask about conflict checks, timing sign-off, legal correspondence, compliance records, and preservation duties.
+* 👻_commercial_litigation_as_accidental_accountability.md
+    Develops the core accidental-accountability thesis. Palantir does not need to be benevolent for its litigation to create public value; a self-interested commercial dispute may force disclosures ordinary citizens cannot afford to force.
+* 🗄️_the_hidden_layer_problem.md
+    Holds the sensitive-material issue: national security, NDAs, commercial confidentiality, sensitive policing capability, closed briefings, and unpublished risk assessments. The visible paperwork may not be the whole story.
+* 🕳️_why_this_is_not_just_about_palantir.md
+    Synthesises the wider stakes: public-sector outsourcing, policing technology, vendor dependency, procurement culture, data governance, democratic oversight, and the state/vendor boundary problem.
+* 🧭_questions_journalists_should_ask_now.md
+    Final practical question bank for reporters, lawyers, auditors, data-protection specialists, procurement specialists, policing-accountability people, and Parliament. The closing instruction is simple: do not ask who the hero is; ask who has the records.
+
+---
+
 v8 (using an ordering system can make the end product higher quality, with the additional note that I would ideally revisit the readme at the end):
 
 1. README.md
