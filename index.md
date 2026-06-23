@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-06-23 11:18:45 UTC_
+_Generated on 2026-06-23 11:23:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5716,6 +5716,7 @@ _Generated on 2026-06-23 11:18:45 UTC_
       - [**🐼_The_Procurement_Of_The_Rings/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/notes.txt)
+        - [`💍_one_contract_to_rule_them_all.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/💍_one_contract_to_rule_them_all.md)
         - [`📌_known_public_facts_first.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/📌_known_public_facts_first.md)
         - [`🕰️_why_now_the_timing_question.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🕰️_why_now_the_timing_question.md)
         - [`🧭_how_to_read_this_without_picking_a_mascot.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🧭_how_to_read_this_without_picking_a_mascot.md)
