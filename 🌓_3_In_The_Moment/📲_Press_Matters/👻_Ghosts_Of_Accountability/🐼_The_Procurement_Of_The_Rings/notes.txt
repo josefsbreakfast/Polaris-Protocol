@@ -1,3 +1,69 @@
+v3:  
+
+🐼_The_Procurement_Of_The_Rings/
+├── README.md
+│   └── Orientation: this is not pro-Palantir or anti-Palantir; it is a live press-orientation cluster about procurement, disclosure, legal risk, and accidental accountability.
+│
+├── 📌_known_public_facts_first.md
+│   └── Strict sourceable timeline: Met pilot, proposed £50m contract, MOPAC veto, Palantir legal escalation, public statements, DPIA references, officer-number claims.
+│
+├── 🧭_how_to_read_this_without_picking_a_mascot.md
+│   └── Core doctrine: nobody needs to be the hero. Palantir can be self-interested and still raise useful questions. MOPAC can be right and still have awkward reasoning. The Met can have operational need and weak governance.
+│
+├── 🧭_journalists_you_ask.md
+│   └── Press Matters rule: Polaris does not claim the hidden answer; it routes questions journalists should ask.
+│
+├── 🕰️_why_now_the_timing_question.md
+│   └── Timing analysis: why escalate now, what changed in the legal/political risk matrix, and why timing is a signal rather than proof.
+│
+├── 🫖_the_two_uncles_problem.md
+│   └── The loud aggressive uncle vs the quiet passive-aggressive uncle. Let them argue; document what falls out of their pockets.
+│
+├── 💍_one_contract_to_rule_them_all.md
+│   └── The contract as symbolic object: procurement, dependency, public safety claims, supplier lock-in, and the shiny circular artefact of governance doom.
+│
+├── 💔_the_procurement_divorce.md
+│   └── Pilot-as-relationship, veto-as-breakup, disclosure-as-divorce court. “The court still gets to ask for the spreadsheet.”
+│
+├── 🎭_the_700_officers_line_as_pr_risk_transfer.md
+│   └── Analyse the officer-number claim as public-safety and budget-risk framing. Not automatically false; not automatically neutral.
+│
+├── 🧾_the_dpia_ethics_review_and_procurement_gap.md
+│   └── DPIA / ethics / governance issue. Needs exact document evidence. Separate what the paperwork says from what can only be inferred.
+│
+├── ⚖️_what_each_side_needs_to_disclose_to_win.md
+│   └── Palantir, Met, and MOPAC each create disclosure pressure on the others by defending themselves.
+│
+├── 🐼_if_you_are_palantir_this_is_the_case_you_make.md
+│   └── Best version of Palantir’s argument: unfair/political veto, operational value, legitimate process expectations, public-safety framing.
+│
+├── 🚓_if_you_are_the_met_this_is_the_case_you_make.md
+│   └── Best version of the Met’s argument: operational pressure, fragmented data, standards/corruption use case, budget constraints, London policing complexity.
+│
+├── 🏛️_if_you_are_mopac_this_is_the_case_you_make.md
+│   └── Best version of MOPAC’s argument: democratic oversight, value for money, competition, governance, data protection, reputational/public trust risk.
+│
+├── 👻_how_commercial_litigation_can_create_public_accountability.md
+│   └── The accidental accountability thesis: a contractor acting for itself may force disclosures ordinary people cannot afford to force.
+│
+├── 🕸️_legal_risk_connections_across_public_bodies.md
+│   └── Low-drama hypothesis: similar defensive behaviours may come from shared legal advice ecosystems, insurer panels, counsel chambers, monitoring-officer culture, or public-sector risk templates.
+│
+├── 🧪_parallel_signal_wigan_and_the_libel_weather.md
+│   └── Wigan as comparator, not proof: public body under citizen scrutiny, legal language, FOI pressure, reputational containment, possible shared legal weather.
+│
+├── 🕳️_why_this_is_not_just_about_palantir.md
+│   └── Wider map: public procurement culture, outsourcing, public-body defensiveness, legal privilege, citizen journalism, FOI literacy, and state/vendor accountability.
+│
+├── 🗞️_why_mainstream_press_keeps_missing_the_shape.md
+│   └── Ordinary press often reports event/personality/conflict; citizen journalism tracks documents, screenshots, FOIs, procurement notices, DPIAs, and procedural mismatch.
+│
+└── 🧭_questions_journalists_should_ask_now.md
+    └── Practical question bank for reporters, lawyers, local journalists, data/governance specialists, and public-interest investigators.
+
+---
+
+
 v2:  
 
 🐼_The_Procurement_Of_The_Rings/
