@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-06-23 11:49:34 UTC_
+_Generated on 2026-06-23 11:51:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5719,6 +5719,7 @@ _Generated on 2026-06-23 11:49:34 UTC_
         - [`⚖️_what_each_side_needs_to_disclose.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/⚖️_what_each_side_needs_to_disclose.md)
         - [`🎭_the_public_safety_line.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🎭_the_public_safety_line.md)
         - [`🏛️_best_case_mopac.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🏛️_best_case_mopac.md)
+        - [`🏷️_palantir_or_palantir_uk.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🏷️_palantir_or_palantir_uk.md)
         - [`🐼_best_case_met.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🐼_best_case_met.md)
         - [`💍_one_contract_to_rule_them_all.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/💍_one_contract_to_rule_them_all.md)
         - [`💔_the_procurement_divorce.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/💔_the_procurement_divorce.md)
