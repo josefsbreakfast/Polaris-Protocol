@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-06-23 20:58:28 UTC_
+_Generated on 2026-06-23 21:41:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -894,6 +894,7 @@ _Generated on 2026-06-23 20:58:28 UTC_
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/README.md)
           - [`⚖️_slapps_uk_global_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/⚖️_slapps_uk_global_palestine.md)
           - [`🛑_ghf_is_a_weapon.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/🛑_ghf_is_a_weapon.md)
+          - [`🧊_managed_cruelty.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🍉_Palestine/🧊_managed_cruelty.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/README.md)
         - [`⚠️_prelude_conditions_to_atrocity.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/⚠️_prelude_conditions_to_atrocity.md)
         - [`🇬🇧_cross_legal_and_law_enforcement_response_to_genocide_risk.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🇬🇧_cross_legal_and_law_enforcement_response_to_genocide_risk.md)
