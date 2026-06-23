@@ -1,4 +1,4 @@
-# 🐼 The Procurement Of The Rings
+🐼 The Procurement Of The Rings
 
 First created: 2026-06-23 | Last updated: 2026-06-23
 One contract to rule the discourse; one veto to find it; one pre-action letter to bring them all, and in disclosure bind them.
@@ -39,6 +39,12 @@ The basic method is simple:
 * give each actor its strongest fair case before critique;
 * ask what each actor would need to disclose to defend itself;
 * track where commercial litigation may create accidental public accountability.
+
+Because this is an active legal and procurement issue, the evidential discipline matters.
+
+Memory, archive context, and pattern recognition may help route the questions.
+
+They do not replace sourcing.
 
 ⸻
 
@@ -253,27 +259,27 @@ The purpose is to make the argument hard to dismiss.
 
 📂 Node List
 
-README.md
-📌_known_public_facts_first.md
-🧭_how_to_read_this_without_picking_a_mascot.md
-🕰️_why_now_the_timing_question.md
-💍_one_contract_to_rule_them_all.md
-💔_the_procurement_divorce.md
-🐼_best_case_palantir.md
-🚓_best_case_met.md
-🏛️_best_case_mopac.md
-⚖️_what_each_side_needs_to_disclose.md
-🧾_the_dpia_ethics_and_procurement_gap.md
-🎭_the_public_safety_line.md
-🏷️_palantir_or_palantir_uk.md
-🧍_the_awkward_posture.md
-🪞_wronged_before_exposed.md
-♚_the_king_moves_into_check.md
-🧾_the_paperwork_reciprocity_trap.md
-👻_commercial_litigation_as_accidental_accountability.md
-🗄️_the_hidden_layer_problem.md
-🕳️_why_this_is_not_just_about_palantir.md
-🧭_questions_journalists_should_ask_now.md
+* README — cluster orientation and build spine
+* 📌 Known Public Facts First — sourceable timeline and evidential floor
+* 🧭 How To Read This Without Picking A Mascot — reader posture and mascot-resistance rule
+* 🕰️ Why Now: The Timing Question — timing as question, not proof
+* 💍 One Contract To Rule Them All — contract precedent and refusal pressure
+* 💔 The Procurement Divorce — pilot, veto, breakup, and disclosure court
+* 🐼 Best Case Palantir — strongest fair version of Palantir’s case
+* 🚓 Best Case Met — strongest fair version of the Metropolitan Police case
+* 🏛️ Best Case MOPAC — strongest fair version of the oversight case
+* ⚖️ What Each Side Needs To Disclose — disclosure triangle and evidential pressure
+* 🧾 The DPIA, Ethics, And Procurement Gap — tool usefulness versus lawful adoption
+* 🎭 The Public Safety Line — public-safety pressure frame and officer-number claims
+* 🏷️ Palantir Or Palantir UK — subsidiary posture versus international brand aura
+* 🧍 The Awkward Posture — off-register communications and urgency signalling
+* 🪞 Wronged Before Exposed — pre-framing hypothesis and procedural victimhood
+* ♚ The King Moves Into Check — first-mover risk and attacked squares
+* 🧾 The Paperwork Reciprocity Trap — why making paperwork the battlefield cuts both ways
+* 👻 Commercial Litigation As Accidental Accountability — self-interest as disclosure pressure
+* 🗄️ The Hidden Layer Problem — NDAs, sensitive capability, closed material, and locked cabinets
+* 🕳️ Why This Is Not Just About Palantir — outsourcing, policing tech, vendor dependency, and democratic control
+* 🧭 Questions Journalists Should Ask Now — practical question bank for reporters and accountability actors
 
 ⸻
 
