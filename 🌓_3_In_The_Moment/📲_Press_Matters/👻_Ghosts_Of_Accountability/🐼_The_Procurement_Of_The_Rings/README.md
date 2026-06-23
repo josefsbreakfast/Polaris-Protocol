@@ -172,7 +172,7 @@ The square may look open, but it is already attacked.
 
 That is the first-mover risk here.
 
-If Palantir makes process, fairness, paperwork, and public-sector decision-making the battlefield, then Palantir’s own process, paperwork, timing sign-off, conflict checks, adviser routes, investor proximity, compliance posture, and record preservation become more relevant too.
+If Palantir makes process, fairness, paperwork, and public-sector decision-making the battlefield, then Palantir’s own process, paperwork, timing, sign-off, conflict checks, adviser routes, compliance posture, market-positioning records, and record preservation become more relevant too.
 
 If your case is that the paperwork matters, then your paperwork matters too.
 
@@ -226,10 +226,12 @@ This dispute may touch material constrained by:
 - sensitive policing capability;
 - commercial confidentiality;
 - NDAs;
-- procurement privilege;
+- procurement confidentiality;
+- legal privilege;
 - closed briefings;
 - unpublished risk assessments;
 - data-protection limits;
+- staff-data limits;
 - or operational sensitivity.
 
 That does not prove wrongdoing.
@@ -237,6 +239,28 @@ That does not prove wrongdoing.
 It means the public record may be structurally incomplete.
 
 The problem with demanding the folder is that someone may eventually mention the locked cabinet.
+
+---
+
+## 🕸️ The Adjacent Proximity Problem
+
+This cluster also has to keep separate files separate while still noticing when the same name appears near more than one locked cabinet.
+
+The Met / Palantir / MOPAC procurement dispute should not be collapsed into the Mandelson / Humble Address / Palantir-proximity record.
+
+Those are distinct legal and factual networks.
+
+But public meaning does not always keep such clean folders.
+
+If Palantir appears in one dispute about sensitive policing infrastructure, and also appears in another parliamentary or government-accountability context involving state capability, vetting, conflict-of-interest questions, redactions, or Metropolitan Police withholding, that does not prove wrongdoing across files.
+
+It does make the local-entity / global-aura problem harder to manage.
+
+Distinct cabinets.
+
+Possible shared corridor.
+
+Check the corridor.
 
 ---
 
@@ -256,48 +280,68 @@ The purpose is to make the argument hard to dismiss.
 
 ---
 
-## 📂 Node List
+## 📂 Recommended Read Order
 
-- [README](./README.md) — *cluster orientation and build spine*
-- [📌 Known Public Facts First](./📌_known_public_facts_first.md) — *sourceable timeline and evidential floor*
-- [🧭 How To Read This Without Picking A Mascot](./🧭_how_to_read_this_without_picking_a_mascot.md) — *reader posture and mascot-resistance rule*
-- [🕰️ Why Now: The Timing Question](./🕰️_why_now_the_timing_question.md) — *timing as question, not proof*
-- [💍 One Contract To Rule Them All](./💍_one_contract_to_rule_them_all.md) — *contract precedent and refusal pressure*
-- [💔 The Procurement Divorce](./💔_the_procurement_divorce.md) — *pilot, veto, breakup, and disclosure court*
-- [🐼 Best Case Palantir](./🐼_best_case_palantir.md) — *strongest fair version of Palantir’s case*
-- [🚓 Best Case Met](./🚓_best_case_met.md) — *strongest fair version of the Metropolitan Police case*
-- [🏛️ Best Case MOPAC](./🏛️_best_case_mopac.md) — *strongest fair version of the oversight case*
-- [⚖️ What Each Side Needs To Disclose](./⚖️_what_each_side_needs_to_disclose.md) — *disclosure triangle and evidential pressure*
-- [🧾 The DPIA, Ethics, And Procurement Gap](./🧾_the_dpia_ethics_and_procurement_gap.md) — *tool usefulness versus lawful adoption*
-- [🎭 The Public Safety Line](./🎭_the_public_safety_line.md) — *public-safety pressure frame and officer-number claims*
-- [🏷️ Palantir Or Palantir UK](./🏷️_palantir_or_palantir_uk.md) — *subsidiary posture versus international brand aura*
-- [🧍 The Awkward Posture](./🧍_the_awkward_posture.md) — *off-register communications and urgency signalling*
-- [🪞 Wronged Before Exposed](./🪞_wronged_before_exposed.md) — *pre-framing hypothesis and procedural victimhood*
-- [♚ The King Moves Into Check](./♚_the_king_moves_into_check.md) — *first-mover risk and attacked squares*
-- [🧾 The Paperwork Reciprocity Trap](./🧾_the_paperwork_reciprocity_trap.md) — *why making paperwork the battlefield cuts both ways*
-- [👻 Commercial Litigation As Accidental Accountability](./👻_commercial_litigation_as_accidental_accountability.md) — *self-interest as disclosure pressure*
-- [🗄️ The Hidden Layer Problem](./🗄️_the_hidden_layer_problem.md) — *NDAs, sensitive capability, closed material, and locked cabinets*
-- [🕳️ Why This Is Not Just About Palantir](./🕳️_why_this_is_not_just_about_palantir.md) — *outsourcing, policing tech, vendor dependency, and democratic control*
-- [🧭 Questions Journalists Should Ask Now](./🧭_questions_journalists_should_ask_now.md) — *practical question bank for reporters and accountability actors*
+1. [README](./README.md) — *cluster orientation and build spine*
+
+2. [📌 Known Public Facts First](./📌_known_public_facts_first.md) — *sourceable timeline and evidential floor*
+
+3. [🧭 How To Read This Without Picking A Mascot](./🧭_how_to_read_this_without_picking_a_mascot.md) — *reader posture and mascot-resistance rule*
+
+4. [🕰️ Why Now: The Timing Question](./🕰️_why_now_the_timing_question.md) — *timing as question, not proof*
+
+5. [💍 One Contract To Rule Them All](./💍_one_contract_to_rule_them_all.md) — *contract precedent and refusal pressure*
+
+6. [💔 The Procurement Divorce](./💔_the_procurement_divorce.md) — *pilot, veto, breakup, and disclosure court*
+
+7. [🔮 Best Case Palantir](./🔮_best_case_palantir.md) — *strongest fair version of Palantir’s case*
+
+8. [🐼 Best Case Met](./🐼_best_case_met.md) — *strongest fair version of the Metropolitan Police case*
+
+9. [🏛️ Best Case MOPAC](./🏛️_best_case_mopac.md) — *strongest fair version of the oversight case*
+
+10. [⚖️ What Each Side Needs To Disclose](./⚖️_what_each_side_needs_to_disclose.md) — *disclosure triangle and evidential pressure*
+
+11. [🧾 The DPIA, Ethics, And Procurement Gap](./🧾_the_dpia_ethics_and_procurement_gap.md) — *tool usefulness versus lawful adoption*
+
+12. [🎭 The Public Safety Line](./🎭_the_public_safety_line.md) — *public-safety pressure frame and officer-number claims*
+
+13. [🏷️ Palantir Or Palantir UK](./🏷️_palantir_or_palantir_uk.md) — *subsidiary posture versus international brand aura*
+
+14. [🧍 The Awkward Posture](./🧍_the_awkward_posture.md) — *off-register communications, urgency signalling, and posture shifts*
+
+15. [🪞 Wronged Before Exposed](./🪞_wronged_before_exposed.md) — *pre-framing hypothesis and procedural victimhood*
+
+16. [♚ The King Moves Into Check](./♚_the_king_moves_into_check.md) — *first-mover risk and attacked squares*
+
+17. [🧾 The Paperwork Reciprocity Trap](./🧾_the_paperwork_reciprocity_trap.md) — *why making paperwork the battlefield cuts both ways*
+
+18. [👻 Commercial Litigation As Accidental Accountability](./👻_commercial_litigation_as_accidental_accountability.md) — *self-interest as disclosure pressure*
+
+19. [🗄️ The Hidden Layer Problem](./🗄️_the_hidden_layer_problem.md) — *NDAs, sensitive capability, closed material, adjacent proximity files, and locked cabinets*
+
+20. [🕳️ Why This Is Not Just About Palantir](./🕳️_why_this_is_not_just_about_palantir.md) — *outsourcing, policing tech, vendor dependency, procurement culture, and democratic control*
+
+21. [🧭 Questions Journalists Should Ask Now](./🧭_questions_journalists_should_ask_now.md) — *practical question bank for reporters, auditors, lawyers, unions, procurement specialists, and accountability actors*
 
 ---
 
 ## 🌌 Constellations
 
-🐼 💍 ⚖️ 🗄️ 👻 — procurement dispute; public-sector accountability; litigation as disclosure pressure; hidden-layer governance.
+🐼 🔮 💍 ⚖️ 🗄️ 👻 🕳️ — procurement dispute; Palantir aura; public-sector accountability; litigation as disclosure pressure; hidden-layer governance; structural dependency.
 
 ---
 
 ## ✨ Stardust
 
-palantir, metropolitan police, mopac, procurement, policing technology, data governance, commercial litigation, public accountability, disclosure, democratic oversight
+palantir, metropolitan police, mopac, procurement, policing technology, data governance, commercial litigation, public accountability, disclosure, democratic oversight, vendor dependency, hidden layer
 
 ---
 
 ## 🏮 Footer
 
 *🐼 The Procurement Of The Rings* is a living cluster of the **Polaris Protocol**.  
-It tracks how a contested policing-technology procurement dispute may expose wider questions about public-sector governance, vendor dependency, disclosure pressure, and democratic oversight.
+It tracks how a contested policing-technology procurement dispute may expose wider questions about public-sector governance, vendor dependency, disclosure pressure, hidden-layer accountability, and democratic oversight.
 
 > 📡 Cross-references:
 >
