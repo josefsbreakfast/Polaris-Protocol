@@ -1,5 +1,5 @@
 # 📓 Paper Diary Sovereignty — Why a Physical Record Still Matters in 2025  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-20 | **Last updated:** 2026-06-23  
 *On the defensive, cognitive, and mnemonic value of physical contemporaneous notes in a digital containment era*  
 
 ---
@@ -87,6 +87,10 @@ That absence itself is protective.
 
 📓 🧭 🧠 🔮 — analogue sovereignty, sensory grounding, temporal repair, mnemonic reconstruction.  
 
+*Further reading:*  
+
+– [📰: BBC: "How 100 hospitals switched to pen and paper to defeat a national cyber-attack"](https://www.bbc.co.uk/news/articles/c4gyk756mzlo)  
+
 ---
 
 ## ✨ Stardust  
@@ -107,4 +111,4 @@ It documents analogue countermeasures for survivors navigating digital suppressi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_  
+_Last updated: 2026-06-23_  
