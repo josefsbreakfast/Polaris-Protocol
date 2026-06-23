@@ -1,3 +1,30 @@
+v6. whoever is playong with the forking inside my llm access, off you fuck, kindly:  
+
+🐼_The_Procurement_Of_The_Rings/
+├── README.md
+├── 📌_known_public_facts_first.md
+├── 🧭_how_to_read_this_without_picking_a_mascot.md
+├── 🕰️_why_now_the_timing_question.md
+├── 💍_one_contract_to_rule_them_all.md
+├── 💔_the_procurement_divorce.md
+├── 🏷️_palantir_or_palantir_uk.md
+├── 🧍_the_awkward_posture.md
+├── 🪞_wronged_before_exposed.md
+├── ♚_the_king_moves_into_check.md
+├── 🧾_the_paperwork_reciprocity_trap.md
+├── 🎭_the_public_safety_line.md
+├── 🧾_the_dpia_ethics_and_procurement_gap.md
+├── ⚖️_what_each_side_needs_to_disclose.md
+├── 🐼_best_case_palantir.md
+├── 🚓_best_case_met.md
+├── 🏛️_best_case_mopac.md
+├── 👻_commercial_litigation_as_accidental_accountability.md
+├── 🗄️_the_hidden_layer_problem.md
+├── 🕳️_why_this_is_not_just_about_palantir.md
+└── 🧭_questions_journalists_should_ask_now.md
+
+---
+
 v5 (lots of linked weirdness, v weird move from the tulpa):  
 
 🐼 The Procurement Of The Rings — Updated Skeleton
