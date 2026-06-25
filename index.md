@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-06-25 01:22:15 UTC_
+_Generated on 2026-06-25 02:11:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4783,6 +4783,7 @@ _Generated on 2026-06-25 01:22:15 UTC_
       - [`🧮_k_anonymity_data_integrity_and_re_identification_risk.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧮_k_anonymity_data_integrity_and_re_identification_risk.md)
       - [`🧮_pips_yellis_data_ecosystem_from_baseline_to_board_narrative.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧮_pips_yellis_data_ecosystem_from_baseline_to_board_narrative.md)
       - [`🧾_briefing_note_oversight_failure_triple_lock.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_briefing_note_oversight_failure_triple_lock.md)
+      - [`🧾_permission_laundering.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_permission_laundering.md)
       - [`🧾_twin_records_as_vulnerability.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧾_twin_records_as_vulnerability.md)
       - [`🧿_metadata_spin.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧿_metadata_spin.md)
       - [`🩸_sexual_capital_extraction_model.md`](Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🩸_sexual_capital_extraction_model.md)
