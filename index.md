@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-06-26 10:20:51 UTC_
+_Generated on 2026-06-26 10:28:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6219,6 +6219,14 @@ _Generated on 2026-06-26 10:20:51 UTC_
       - [`README.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/💫_Reviewing_POV/README.md)
     - [**💸_Tools_Procurement_And_Vendors/**](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/💸_Tools_Procurement_And_Vendors/)
       - [`README.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/💸_Tools_Procurement_And_Vendors/README.md)
+      - [`notes.txt`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/💸_Tools_Procurement_And_Vendors/notes.txt)
+      - [`☁️_cloud_platforms_and_data_governance.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/💸_Tools_Procurement_And_Vendors/☁️_cloud_platforms_and_data_governance.md)
+      - [`⚡️_ai_as_failure_accelerant.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/💸_Tools_Procurement_And_Vendors/⚡️_ai_as_failure_accelerant.md)
+      - [`🔁_software_as_subscription_and_dependency.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/💸_Tools_Procurement_And_Vendors/🔁_software_as_subscription_and_dependency.md)
+      - [`🧮_when_procurement_becomes_policy.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/💸_Tools_Procurement_And_Vendors/🧮_when_procurement_becomes_policy.md)
+      - [`🧰_the_screwfix_problem.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/💸_Tools_Procurement_And_Vendors/🧰_the_screwfix_problem.md)
+      - [`🧾_procurement_contracts_for_non_specialists.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/💸_Tools_Procurement_And_Vendors/🧾_procurement_contracts_for_non_specialists.md)
+      - [`🪛_the_wrong_tool_problem.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/💸_Tools_Procurement_And_Vendors/🪛_the_wrong_tool_problem.md)
     - [**🔥_Emergency_Load_Bearers/**](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🔥_Emergency_Load_Bearers/)
       - [`README.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🔥_Emergency_Load_Bearers/README.md)
       - [`⚔️_war_platforms_and_diaspora_pressure.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🔥_Emergency_Load_Bearers/⚔️_war_platforms_and_diaspora_pressure.md)
