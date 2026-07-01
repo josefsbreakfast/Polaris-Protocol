@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-01 15:50:31 UTC_
+_Generated on 2026-07-01 15:53:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5605,7 +5605,6 @@ _Generated on 2026-07-01 15:50:31 UTC_
       - [**⚽️_2026_World_Cup/**](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/)
         - [**🐆_DRC_Leopards/**](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/notes.txt)
           - [`⚽️_england_v_drc_match_frame.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/⚽️_england_v_drc_match_frame.md)
           - [`⛏️_cobalt_copper_lithium_and_the_people_not_the_profiteers.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/⛏️_cobalt_copper_lithium_and_the_people_not_the_profiteers.md)
           - [`🇨🇩_independence_day_and_the_world_cup_timing.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🇨🇩_independence_day_and_the_world_cup_timing.md)
@@ -5625,7 +5624,6 @@ _Generated on 2026-07-01 15:50:31 UTC_
           - [`🖤_black_male_body_white_gaze_and_the_leopards.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🖤_black_male_body_white_gaze_and_the_leopards.md)
           - [`🗽_lumumba_vea_visa_and_the_hostile_gate.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🗽_lumumba_vea_visa_and_the_hostile_gate.md)
           - [`🛑_prebunking_racialised_fan_panic.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🛑_prebunking_racialised_fan_panic.md)
-          - [`🧭_routing_notes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🧭_routing_notes.md)
           - [`🧯_media_response_and_community_cohesion.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🧯_media_response_and_community_cohesion.md)
           - [`🧲_resource_wealth_foreign_interference_and_instability.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🧲_resource_wealth_foreign_interference_and_instability.md)
           - [`🧾_lumumba_fact_check_classification_and_political_memory.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🧾_lumumba_fact_check_classification_and_political_memory.md)
