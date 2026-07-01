@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-01 11:07:39 UTC_
+_Generated on 2026-07-01 11:10:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5604,11 +5604,6 @@ _Generated on 2026-07-01 11:07:39 UTC_
     - [**🏆 _Good_Sports/**](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/)
       - [**⚽️_2026_World_Cup/**](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/⚽️_2026_World_Cup/)
         - [**🐆_DRC_Leopards/**](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/)
-          - [`📱_tiktok_distribution_and_the_missing_congo_feed.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/📱_tiktok_distribution_and_the_missing_congo_feed.md)
-          - [`🔗_supply_lines_atrocity_risk_and_democratic_consumption.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🔗_supply_lines_atrocity_risk_and_democratic_consumption.md)
-          - [`🕸️_why_the_web_makes_congo_hard_to_find.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🕸️_why_the_web_makes_congo_hard_to_find.md)
-          - [`🖤_black_male_body_white_gaze_and_the_leopards.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🖤_black_male_body_white_gaze_and_the_leopards.md)
-          - [`🗽_lumumba_vea_visa_and_the_hostile_gate.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🗽_lumumba_vea_visa_and_the_hostile_gate.md)
           - [`🛑_prebunking_racialised_fan_panic.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🛑_prebunking_racialised_fan_panic.md)
           - [`🧭_routing_notes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🧭_routing_notes.md)
           - [`🧯_media_response_and_community_cohesion.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🧯_media_response_and_community_cohesion.md)
@@ -5630,6 +5625,11 @@ _Generated on 2026-07-01 11:07:39 UTC_
           - [`👔_la_sape_arrival_kit_and_cultural_presence.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/👔_la_sape_arrival_kit_and_cultural_presence.md)
           - [`💷_race_panic_and_the_cost_of_living.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/💷_race_panic_and_the_cost_of_living.md)
           - [`📰_how_not_to_report_congo.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/📰_how_not_to_report_congo.md)
+          - [`📱_tiktok_distribution_and_the_missing_congo_feed.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/📱_tiktok_distribution_and_the_missing_congo_feed.md)
+          - [`🔗_supply_lines_atrocity_risk_and_democratic_consumption.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🔗_supply_lines_atrocity_risk_and_democratic_consumption.md)
+          - [`🕸️_why_the_web_makes_congo_hard_to_find.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🕸️_why_the_web_makes_congo_hard_to_find.md)
+          - [`🖤_black_male_body_white_gaze_and_the_leopards.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🖤_black_male_body_white_gaze_and_the_leopards.md)
+          - [`🗽_lumumba_vea_visa_and_the_hostile_gate.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🗽_lumumba_vea_visa_and_the_hostile_gate.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/README.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/README.md)
     - [**👻_Ghosts_Of_Accountability/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/)
