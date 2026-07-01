@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-01 05:20:27 UTC_
+_Generated on 2026-07-01 05:24:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6250,7 +6250,7 @@ _Generated on 2026-07-01 05:20:27 UTC_
   - [**🐣_Ugly_Ducklings/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/)
     - [**🦚_01_Beginnings/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🦚_01_Beginnings/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🦚_01_Beginnings/README.md)
-      - [`👺_the_no_face_market.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🦚_01_Beginnings/👺_the_no_face_market.md)
+      - [`👺_the_noh_face_market.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🦚_01_Beginnings/👺_the_noh_face_market.md)
       - [`🦤_taxidermied_politics.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🦚_01_Beginnings/🦤_taxidermied_politics.md)
       - [`🪶_the_feather_plucking_machine.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🦚_01_Beginnings/🪶_the_feather_plucking_machine.md)
       - [`🪺_harvest_ethics.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🦚_01_Beginnings/🪺_harvest_ethics.md)
