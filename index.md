@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-01 11:13:21 UTC_
+_Generated on 2026-07-01 11:17:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5604,7 +5604,6 @@ _Generated on 2026-07-01 11:13:21 UTC_
     - [**🏆 _Good_Sports/**](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/)
       - [**⚽️_2026_World_Cup/**](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/⚽️_2026_World_Cup/)
         - [**🐆_DRC_Leopards/**](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/)
-          - [`🧾_lumumba_fact_check_classification_and_political_memory.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🧾_lumumba_fact_check_classification_and_political_memory.md)
           - [`🪖_managed_instability_m23_rwanda_and_conflict_governance.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🪖_managed_instability_m23_rwanda_and_conflict_governance.md)
     - [**🏆_Good_Sports/**](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/)
       - [**⚽️_2026_World_Cup/**](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/)
@@ -5630,6 +5629,7 @@ _Generated on 2026-07-01 11:13:21 UTC_
           - [`🧭_routing_notes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🧭_routing_notes.md)
           - [`🧯_media_response_and_community_cohesion.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🧯_media_response_and_community_cohesion.md)
           - [`🧲_resource_wealth_foreign_interference_and_instability.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🧲_resource_wealth_foreign_interference_and_instability.md)
+          - [`🧾_lumumba_fact_check_classification_and_political_memory.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/🧾_lumumba_fact_check_classification_and_political_memory.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/README.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/README.md)
     - [**👻_Ghosts_Of_Accountability/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/)
