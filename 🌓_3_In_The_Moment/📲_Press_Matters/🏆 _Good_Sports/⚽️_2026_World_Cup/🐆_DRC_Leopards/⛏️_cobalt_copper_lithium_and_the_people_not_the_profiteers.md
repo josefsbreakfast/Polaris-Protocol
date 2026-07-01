@@ -1,0 +1,1 @@
+⛏️_cobalt_copper_lithium_and_the_people_not_the_profiteers.md
