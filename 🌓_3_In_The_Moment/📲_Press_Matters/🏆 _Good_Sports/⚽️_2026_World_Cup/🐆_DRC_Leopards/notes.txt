@@ -1,3 +1,18 @@
+1st pass:  
+
+README.md
+🐆_the_leopards_arrive.md
+👔_la_sape_arrival_kit_and_cultural_presence.md
+🎶_chant_bank_and_search_terms.md
+🏷️_naming_rdc_drc_zaire_and_searchability.md
+🕸️_why_the_web_makes_congo_hard_to_find.md
+📰_how_not_to_report_congo.md
+
+----
+
+
+
+
 🐆_DRC_Leopards/
 ├── README.md
 ├── 🐆_the_leopards_arrive.md
