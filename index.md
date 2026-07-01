@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-01 07:35:08 UTC_
+_Generated on 2026-07-01 10:33:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5601,6 +5601,10 @@ _Generated on 2026-07-01 07:35:08 UTC_
         - [`🧿_safe_detail_no_fog.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦐_Krill_Wars/🧿_safe_detail_no_fog.md)
         - [`🪖_morale_for_islanders.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦐_Krill_Wars/🪖_morale_for_islanders.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/README.md)
+    - [**🏆 _Good_Sports/**](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/)
+      - [**⚽️_2026_World_Cup/**](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/⚽️_2026_World_Cup/)
+        - [**🐆_DRC_Leopards/**](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🏆 _Good_Sports/⚽️_2026_World_Cup/🐆_DRC_Leopards/notes.txt)
     - [**👻_Ghosts_Of_Accountability/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/)
       - [**🐼_The_Procurement_Of_The_Rings/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/README.md)
