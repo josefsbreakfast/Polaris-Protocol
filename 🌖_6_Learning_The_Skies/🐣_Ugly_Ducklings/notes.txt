@@ -1,0 +1,7 @@
+🐣_Ugly_Ducklings/
+└── 🦚_01_Beginnings/
+    ├── README.md
+    ├── 🪶_The_Feather_Plucking_Machine.md
+    ├── 🪺_Harvest_Ethics.md
+    ├── 🦤_Taxidermied_Politics.md
+    └── 👺_The_No_Face_Market.md
