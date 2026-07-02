@@ -1,5 +1,5 @@
 # 🧪 How Scientists Go Nazi
-**First created:** 2025-11-13 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-13 | **Last updated:** 2026-07-02  
 *Why technical fields become recruitment pools for fascism, futurist authoritarianism, and “rationalist” extremism.*  
 
 ---
@@ -198,7 +198,13 @@ Humiliation becomes moralised cruelty.
 ---
 
 ## 🌌 Constellations
-🧠 🧿 🧪 🩻 — cognition, analysis, futurism, historical recurrence.
+🧠 🧿 🧪 🩻 — cognition, analysis, futurism, historical recurrence.  
+
+*Further media:*  
+
+- [📹: Congresswoman Anna Paulina: Evidence the CIA worked with Nazis on MK Ultra, evidence from Dr Kinzer](https://vm.tiktok.com/ZNRK2REux/)  
+
+---
 
 ## ✨ Stardust
 scientific radicalisation, fascism, futurism, prestige capture, humiliation, insecurity, rationalism drift, ego wounds, authoritarian psychology, propaganda
@@ -210,4 +216,4 @@ scientific radicalisation, fascism, futurism, prestige capture, humiliation, ins
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-07-02_
