@@ -796,6 +796,8 @@ Hold this note for a sec:
 
 [📰: GB News: "England come from behind to beat DR Congo and qualify for last 16 after nervy finish as Harry Kane scores brace"](https://www.gbnews.com/sport/football/england-dr-congo-world-cup-harry-kane) - *again, very tactical, and as a result, far more interesting*  
 
+[📰: Daily Star: "Need to know: World Cup round-up: England suffer injury scare, DR Congo tragedy and pitch invaders"](https://www.dailystar.co.uk/sport/football/world-cup-round-up-england-37375554) -  *includes humanising stories of the squad and fans, without reduction to spectacle, and makes the narrative of England's progression interesting, in the narrative meeting of opposing teams*  
+
 ---
 
 ## ✨ Stardust  
