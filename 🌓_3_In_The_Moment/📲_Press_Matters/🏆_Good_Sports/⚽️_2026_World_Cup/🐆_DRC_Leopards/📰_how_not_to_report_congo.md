@@ -1,5 +1,5 @@
 # 📰 How Not To Report Congo  
-**First created:** 2026-07-01 | **Last updated:** 2026-07-01  
+**First created:** 2026-07-01 | **Last updated:** 2026-07-02  
 *Press Matters rule sheet on DR Congo, World Cup coverage, extraction shorthand, crisis framing, racialised fan panic, atrocity reduction, cultural laziness, and how to report Congo without turning Congolese people into scenery for someone else’s story.*  
 
 ---
@@ -784,7 +784,17 @@ Report grief without stealing joy.
 
 ## 🌌 Constellations  
 
-📰 🐆 ⛏️ 🪖 — reporting standards, DR Congo, Leopards, football visibility, extraction shorthand, M23, Rwanda-DRC tensions, Lumumba, platform routing, fan panic, and anti-reduction rules.
+📰 🐆 ⛏️ 🪖 — reporting standards, DR Congo, Leopards, football visibility, extraction shorthand, M23, Rwanda-DRC tensions, Lumumba, platform routing, fan panic, and anti-reduction rules.  
+
+Hold this note for a sec:
+
+*Further media - examples of better practice for discussion/comparison:*
+
+[📰: The Sun: "TAKE ZAK England World Cup clash is biggest event in DR Congo’s history"](https://www.thesun.co.uk/sport/39596994/england-dr-congo-world-cup-biggest-event-rumble-jungle/) - *this is a really interesting interview, looking at how the team was built; contains a good example of how to address naming changes without overemphasis*  
+
+[📰: BBC: "Why did England struggle against DR Congo - and what can they learn?"](https://www.bbc.co.uk/sport/football/articles/cewqzvnw5v7o) - *with the comparison to Mexico's play and focus on the strength of tactics and strategy, a lot of the potential venom is taken out of the use of "dangerous" as an adjective, although "formidable", or focussing on "dangerous for England" would have improved this*   
+
+[📰: GB News: "England come from behind to beat DR Congo and qualify for last 16 after nervy finish as Harry Kane scores brace"](https://www.gbnews.com/sport/football/england-dr-congo-world-cup-harry-kane) - *again, very tactical, and as a result, far more interesting*  
 
 ---
 
@@ -813,4 +823,4 @@ It functions as a Press Matters coverage-standard rule sheet for the DRC Leopard
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-01_
+_Last updated: 2026-07-02_
