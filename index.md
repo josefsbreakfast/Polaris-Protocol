@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-08 15:12:56 UTC_
+_Generated on 2026-07-08 16:11:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6253,6 +6253,7 @@ _Generated on 2026-07-08 15:12:56 UTC_
     - [**🦑_CRAKEN_Cartography/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/README.md)
       - [`alliance_signalling_and_misread_catastrophe.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/alliance_signalling_and_misread_catastrophe.md)
+      - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/notes.txt)
       - [`when_pressure_on_one_node_remodels_the_web.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/when_pressure_on_one_node_remodels_the_web.md)
       - [`🜁_whole_tree_trauma_informed_craken_translation.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/🜁_whole_tree_trauma_informed_craken_translation.md)
       - [`🦑_alliance_signalling_and_misread_catastrophe.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/🦑_alliance_signalling_and_misread_catastrophe.md)
