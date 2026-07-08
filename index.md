@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-08 16:20:52 UTC_
+_Generated on 2026-07-08 16:30:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1939,9 +1939,6 @@ _Generated on 2026-07-08 16:20:52 UTC_
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20260101_January_2026/**](Disruption_Kit/Field_Logs/20260101_January_2026/)
-      - [`IMG_3220.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3220.png)
-      - [`IMG_3285.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3285.png)
-      - [`IMG_3369.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3369.png)
       - [`IMG_3501.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3501.png)
       - [`IMG_3678.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3678.png)
       - [`IMG_3695.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3695.png)
@@ -7225,6 +7222,9 @@ _Generated on 2026-07-08 16:20:52 UTC_
             - [`IMG_3212.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3212.png)
             - [`IMG_3213.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3213.png)
             - [`IMG_3219.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3219.png)
+            - [`IMG_3220.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3220.png)
+            - [`IMG_3285.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3285.png)
+            - [`IMG_3369.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_3369.png)
           - [**20260501_May_2026/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260501_May_2026/)
             - [`IMG_9018.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260501_May_2026/IMG_9018.png)
             - [`IMG_9025.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260501_May_2026/IMG_9025.png)
@@ -7613,6 +7613,17 @@ _Generated on 2026-07-08 16:20:52 UTC_
             - [`IMG_3760.jpeg`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_3760.jpeg)
             - [`IMG_3761.jpeg`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_3761.jpeg)
             - [`IMG_3762.jpeg`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_3762.jpeg)
+            - [`IMG_3771.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_3771.png)
+            - [`IMG_3772.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_3772.png)
+            - [`IMG_3773.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_3773.png)
+            - [`IMG_3774.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_3774.png)
+            - [`IMG_3775.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_3775.png)
+            - [`IMG_3776.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_3776.png)
+            - [`IMG_3777.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_3777.png)
+            - [`IMG_3778.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_3778.png)
+            - [`IMG_3779.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_3779.png)
+            - [`IMG_3780.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_3780.png)
+            - [`IMG_3781.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_3781.png)
           - [`20250828_racialisation_hijack.PNG`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
           - [`20251028_forcible_conversion_hijack.PNG`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
           - [`20251028_sexualised_hijack.PNG`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251028_sexualised_hijack.PNG)
