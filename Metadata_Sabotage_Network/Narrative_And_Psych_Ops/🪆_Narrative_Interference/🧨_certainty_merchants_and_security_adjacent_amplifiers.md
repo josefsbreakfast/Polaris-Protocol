@@ -1,5 +1,5 @@
 # 🧨 Certainty Merchants and Security-Adjacent Amplifiers  
-**First created:** 2025-12-22 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-22 | **Last updated:** 2026-07-09  
 *How overconfident interpretation, incentive capture, and platform dynamics turn uncertainty into false authority — and why this accelerates strategic error.*  
 
 ---
@@ -194,8 +194,8 @@ It exists to identify and contain narrative acceleration pathways that turn unce
 > - [🐉 It’s Not Always Daddy Dragon](./🐉_its_not_always_daddy_dragon.md) — *comfort-villain bias*  
 > - [🎖️ Training the Old Guard as Force Protection](../../Governance_And_Containment/🈸_Dispatch_And_Training/🎖️_training_the_old_guard_as_force_protection.md) — *skills gaps*  
 > - [🦴 Tolerance Thresholds as Load Management](../../Governance_And_Containment/🉑_System_Thresholds/🦴_tolerance_thresholds_as_load_management.md) — *deferred harm*  
-> - [🦑 CRAKEN System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*  
+> - [🦑 CRAKEN System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_cancellous_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-07-09_
