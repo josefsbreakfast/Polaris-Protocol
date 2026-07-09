@@ -1,5 +1,5 @@
 # 🧼 System Leakage Signatures  
-**First created:** 2025-09-06  |  **Last updated:** 2025-10-04  
+**First created:** 2025-09-06  |  **Last updated:** 2026-07-09  
 *Leakage points and unintended reveals from containment systems*
 
 ---
@@ -78,4 +78,4 @@ system leaks, metadata residue, unintended reveals, policy diffs, reverse-engine
 It documents one layer of metadata sabotage and its counter-responses—turning errors into evidence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2026-07-09_
