@@ -15,3 +15,132 @@
 4. 🧿_stress_object_as_reflexive_pressure_node.md
 5. 🕸️_when_pressure_on_one_node_remodels_the_web.md
 6. 🕯️_alliance_signalling_and_misread_catastrophe.md
+
+---
+
+Build order should be gateway first, then reader-safe routing, then translated operational nodes.
+
+I’d do it like this:
+
+1. README.md
+2. 🜁_whole_tree_trauma_informed_craken_translation.md
+3. 🧭_map_before_movement.md
+4. 🧿_stress_object_as_reflexive_pressure_node.md
+5. 🕸️_when_pressure_on_one_node_remodels_the_web.md
+6. 🕯️_alliance_signalling_and_misread_catastrophe.md
+
+Why this order
+
+1. README.md
+
+Do this first because it sets the reader contract.
+
+It needs to say:
+
+* this is still CRAKEN Cartography;
+* the folder emoji remains 🦑 because the framework has history in Polaris;
+* some node emojis have changed to create trauma-informed access routes;
+* Kraken/octopus imagery is not being used as antisemitic symbolic language;
+* readers may use the whole-tree translation instead;
+* the work is reflexive pressure mapping, not monster worship, conspiracy, or clever vibes.
+
+The README becomes the doorway that prevents every later node needing to re-explain the whole symbolic problem.
+
+2. 🜁_whole_tree_trauma_informed_craken_translation.md
+
+This should come second because it is the translation key.
+
+It explains the shift:
+
+Kraken → submerged risk
+tentacles → distributed pressure pathways
+monster → unintegrated systemic force
+Anti-Kraken → vessel-aware navigation
+calcaneus load → kelim / vessel capacity
+reflexive ecosystem → whole-tree relational field
+
+Once this node is stable, the rest of the folder can point back to it instead of repeating the whole trauma-informed explanation.
+
+3. 🧭_map_before_movement.md
+
+This should be the first operational rewrite.
+
+It translates “Do Not Kick The Sleeping Kraken” into the clearest counsel-facing rule:
+
+Before movement, map what the movement will wake.
+
+This is the simplest, most teachable node. It gives the reader the practical discipline before they encounter the more complex pressure-node and alliance-signalling material.
+
+4. 🧿_stress_object_as_reflexive_pressure_node.md
+
+This comes next because it introduces the object-level method.
+
+A reader can now understand:
+
+* one visible company/contract/site/case is not “the whole system”;
+* it is a pressure node;
+* different actors read it differently;
+* pressure travels through law, protest, procurement, finance, communal fear, media, and legitimacy.
+
+This is the bridge from general caution to applied analysis.
+
+5. 🕸️_when_pressure_on_one_node_remodels_the_web.md
+
+This should follow the stress-object node because it shows what happens after pressure is applied.
+
+The sequence is:
+
+visible node becomes charged
+→ pressure gathers there
+→ actors respond locally
+→ the field changes
+→ later actions happen inside the changed field
+
+So 🧿 defines the node.
+🕸️ explains the web remodelling.
+
+6. 🕯️_alliance_signalling_and_misread_catastrophe.md
+
+I’d do this last because it is the most delicate.
+
+It involves:
+
+* fear-history;
+* Jewish fear;
+* Palestinian exposure;
+* legal weather;
+* signalling;
+* misrecognition;
+* humiliation;
+* counsel;
+* speech and silence;
+* unequal material risk.
+
+It will benefit from the other nodes being stable first, because otherwise this one may have to carry too much explanatory load.
+
+Practical migration order
+
+I’d make the repo changes in this sequence:
+
+Phase 1 — Routing
+- update README.md
+- confirm naming convention
+- add note on old 🦑 filenames as migration artefacts / aliases if needed
+Phase 2 — Translation Key
+- polish 🜁_whole_tree_trauma_informed_craken_translation.md
+- add backlinks to README and future operational nodes
+Phase 3 — First Operational Translation
+- rename/rework 🦑_do_not_kick_the_sleeping_kraken.md
+  → 🧭_map_before_movement.md
+Phase 4 — Applied Cartography
+- rename/rework 🦑_stress_object_as_reflexive_pressure_node.md
+  → 🧿_stress_object_as_reflexive_pressure_node.md
+- rename/rework 🦑_when_pressure_on_one_node_remodels_the_web.md
+  → 🕸️_when_pressure_on_one_node_remodels_the_web.md
+Phase 5 — Delicate Signalling Layer
+- rename/rework 🦑_alliance_signalling_and_misread_catastrophe.md
+  → 🕯️_alliance_signalling_and_misread_catastrophe.md
+
+Bluntly: do not start with alliance signalling. It is too morally loaded and will sprawl if the symbolic/routing layer is not already holding the reader.
+
+Start with the README. Then the translation key. Then the simple rule: map before movement.
