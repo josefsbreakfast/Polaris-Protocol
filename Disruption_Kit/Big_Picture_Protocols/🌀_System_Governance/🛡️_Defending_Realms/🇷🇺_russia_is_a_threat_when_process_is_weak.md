@@ -1,5 +1,5 @@
 # 🇷🇺 Russia Is a Threat… When Process Is Weak  
-**First created:** 2025-12-20 | **Last updated:** 2026-05-12  
+**First created:** 2025-12-20 | **Last updated:** 2026-07-09  
 *Why procedural fragility, not external hostility alone, defines contemporary security risk.*  
 
 ---
@@ -98,7 +98,7 @@ It is **process failure**.
 
 ## 🦑 CRAKEN Analysis — Process Collapse as Strategic Exposure
 
-Using the **C.R.A.K.E.N. (Calcaneus Reflexion Anti-Kraken Ecological Navigation) system**, Russian threat activity is best understood as *opportunistic exploitation of reflexive institutional weakness*, not unilateral aggression.
+Using the **C.R.A.K.E.N. (cancellous Reflexion Anti-Kraken Ecological Navigation) system**, Russian threat activity is best understood as *opportunistic exploitation of reflexive institutional weakness*, not unilateral aggression.
 
 ### 🦴 Reflexive Load Distribution
 
@@ -240,4 +240,4 @@ It also answers the age-old question: [🌌 Ам я всё ещё слишком
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-07-09_
