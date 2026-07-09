@@ -1,5 +1,5 @@
 # 💰 BRICS and Petrol Dollars  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-22 | **Last updated:** 2026-07-09  
 *How energy pricing, currency settlement, and tolerated instability shape geopolitical pressure — and why conflicts around Venezuela, Ukraine, and Gaza cannot be separated from monetary power.*  
 
 ---
@@ -85,7 +85,7 @@ Key dynamics include:
 - accelerated financial and sanctions integration with USD systems.
 
 CRAKEN framing:
-> Energy corridors are calcaneus bones — stress fractures there redistribute load across the entire organism.
+> Energy corridors are cancellous bones — stress fractures there redistribute load across the entire organism.
 
 The conflict simultaneously:
 - weakens Russian energy leverage,
@@ -199,4 +199,4 @@ It exists to situate security, cyber, and narrative events within the monetary s
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-07-09_
