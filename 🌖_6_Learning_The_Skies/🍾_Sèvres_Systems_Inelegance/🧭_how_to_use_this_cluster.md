@@ -1,6 +1,6 @@
 # 🧭 How To Use This Cluster  
-**First created:** 2026-05-24 | **Last updated:** 2026-05-24  
-*Reading order, analytical layering, and learning philosophy for 🍾 Sèvres Systems Inelegance.*
+**First created:** 2026-05-24 | **Last updated:** 2026-07-09  
+*Reading order, analytical layering, and learning philosophy for 🍾 Sèvres Systems Inelegance.*  
 
 ---
 
@@ -280,7 +280,7 @@ It establishes the learning philosophy, analytical layering, and pedagogical str
 > - [🛟 Epistemic Safety & Complexity](./🛟_epistemic_safety_and_complexity.md) — *complexity literacy and anti-totalisation safeguards*
 > - [🌸 Containment Studies](../../../🌸_Containment_Studies/README.md) — *stabilisation systems and governance under pressure*
 > - [🧄 Exousiología](../../../🧄_Exousiología/README.md) — *legitimacy, stewardship, and relational authority*
-> - [🦑 C.R.A.K.E.N.](../../../🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive geopolitical systems mapping*
+> - [🦑 C.R.A.K.E.N.](../../../🦑_cancellous_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive geopolitical systems mapping*
 >
 > 🏮 Return To:  
 >
@@ -290,4 +290,4 @@ It establishes the learning philosophy, analytical layering, and pedagogical str
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-24_
+_Last updated: 2026-07-09_
