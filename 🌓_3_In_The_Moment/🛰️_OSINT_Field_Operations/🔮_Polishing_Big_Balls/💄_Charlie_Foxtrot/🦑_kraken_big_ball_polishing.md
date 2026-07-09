@@ -1,5 +1,5 @@
 # 🦑 Kraken Big Ball Polishing  
-**First created:** 2026-01-23 | **Last updated:** 2026-05-21  
+**First created:** 2026-01-23 | **Last updated:** 2026-07-09  
 *Ego-containment and truth-extraction protocols for high-status actors under systemic threat*
 
 ---
@@ -152,8 +152,8 @@ It documents a pragmatic stabilisation technique used to prevent internal domina
 
 > 📡 Cross-references:
 > 
-> - [🦑 C.R.A.K.E.N. — Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md)    
+> - [🦑 C.R.A.K.E.N. — Cancellous Reflexion Anti-Kraken Ecological Navigation System](../../../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_cancellous_reflexion_anti_kraken_ecological_navigation_system.md)    
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-21_
+_Last updated: 2026-07-09_
