@@ -1,5 +1,5 @@
-# 🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System  
-**First Created:** 2025-11-19 | **Last updated:** 2026-05-10  
+# 🦑 C.R.A.K.E.N.: Cancellous Reflexion Anti-Kraken Ecological Navigation System  
+**First Created:** 2025-11-19 | **Last updated:** 2026-07-09  
 *The CRAKEN System — a reflexive, load-aware ecological model for geopolitical analysis.*  
 
 ---
@@ -31,8 +31,8 @@ A load-bearing organism under continuous reshaping.
 
 ---
 
-## 🦴 Conceptual Foundation: The Calcaneus Model  
-The calcaneus (heel bone) is:
+## 🦴 Conceptual Foundation: The Cancellous Model  
+The cancellous (heel bone) is:
 
 - a load distributor  
 - a shock absorber  
@@ -123,7 +123,7 @@ Actors change shape when:
 - losing status  
 - losing control  
 
-This is calcaneus remodelling:  
+This is cancellous remodelling:  
 **forces reshape the structure.**
 
 ### 5. Fracture Detection  
@@ -219,4 +219,4 @@ resilience engineering, nuclear systems engineering, clinical reasoning, root ca
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-10_
+_Last updated: 2026-07-09_
