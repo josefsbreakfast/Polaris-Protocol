@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-09 18:53:54 UTC_
+_Generated on 2026-07-09 19:03:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5546,6 +5546,8 @@ _Generated on 2026-07-09 18:53:54 UTC_
         - [`🧾_the_dpia_ethics_and_procurement_gap.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🧾_the_dpia_ethics_and_procurement_gap.md)
         - [`🧾_the_paperwork_reciprocity_trap.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🧾_the_paperwork_reciprocity_trap.md)
         - [`🪞_wronged_before_exposed.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🪞_wronged_before_exposed.md)
+      - [**🗻_The_Manifestation_Molehill/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/)
+        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/notes.txt)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/README.md)
     - [**💌_Visible_Ink/**](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/README.md)
