@@ -1,5 +1,5 @@
 # 🦑 Kraken Sightings Across The World (Wide Web)  
-**First created:** 2026-05-10 | **Last updated:** 2026-05-25  
+**First created:** 2026-05-10 | **Last updated:** 2026-07-09  
 *Sighting the Trident's natural deterrent.*  
 
 ---
@@ -53,8 +53,8 @@ It contributes to the archive by *letting you know where they are*.
 > 
 > - [🦑 The Fathom Response to Containment Phase 3](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_the_fathom_response_to_containment_phase_3.md) — *we can let the RN have this one*  
 > - [🔱 Why Trident Is Lowkey Kraken Insurance](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🔱_why_trident_is_lowkey_kraken_insurance.md) — *historic governance manoeuvres*
-> - [🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *deindexed sample of defence-ready canapés*  
+> - [🦑 C.R.A.K.E.N.: Cancellous Reflexion Anti-Kraken Ecological Navigation System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_cancellous_reflexion_anti_kraken_ecological_navigation_system.md) — *deindexed sample of defence-ready canapés*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-25_
+_Last updated: 2026-07-09_
