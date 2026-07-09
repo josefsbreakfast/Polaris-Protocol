@@ -1,5 +1,5 @@
 # ⚖️ Elite Impunity Is a National Security Risk  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-07-09  
 *How tolerated elite wrongdoing creates blackmail exposure, coercion vectors, and democratic fragility.*  
 
 ---
@@ -205,7 +205,7 @@ It is **defensive infrastructure**.
 
 ## 🦑 CRAKEN Analysis — Reflexive National Security Risk
 
-Using the **C.R.A.K.E.N. (Calcaneus Reflexion Anti‑Kraken Ecological Navigation) system**, elite impunity must be understood as a *distributed load problem*, not a discrete moral failure.
+Using the **C.R.A.K.E.N. (cancellous Reflexion Anti‑Kraken Ecological Navigation) system**, elite impunity must be understood as a *distributed load problem*, not a discrete moral failure.
 
 ### 🦴 Reflexive Load Distribution
 
@@ -330,7 +330,7 @@ It documents how tolerated elite wrongdoing converts private misconduct into str
 > - [⚖️ We Do Have to Prosecute the Elite, Actually](./⚖️_we_do_have_to_prosecute_the_elite_actually.md) — *accountability as public good*  
 > - [🕳️ When the Censor Is a Contractor](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕳️_when_the_censor_is_a_contractor.md) - *how elite parties and parties with significant capital outsource the gagging of anyone and everyone*  
 > - [📿 Women, Whistleblowers, & Prevent Drag](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/📿_Vulnerable_Data_Populations/📿_women_whistleblowers_prevent_drag.md) - *how the UK's "counterterrorism" policies and practice multiply this impact for femme-coded survivors of SV*  
-> - [🦑 C.R.A.K.E.N. System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological risk and threat mapping*
+> - [🦑 C.R.A.K.E.N. System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_cancellous_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological risk and threat mapping*
 > - [🕎 The Esther Protocol](./🕎_the_esther_protocol.md)  
 > - [✈️ The Dragging-Out of Predictable Let-Down](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/✈️_the_dragging_out_of_predictable_let_down.md)  
 > - [🌀 Recognition Without Resolution](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🌀_recognition_without_resolution.md)
@@ -338,4 +338,4 @@ It documents how tolerated elite wrongdoing converts private misconduct into str
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-07-09_
