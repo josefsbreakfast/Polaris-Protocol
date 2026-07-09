@@ -1,5 +1,5 @@
 # 🦠 Plague Scapegoat Scripts Reused Across Targets  
-**First created:** 2025-12-22 | **Last updated:** 2026-02-20  
+**First created:** 2025-12-22 | **Last updated:** 2026-07-09  
 *How societies repeatedly recycle the same blame narratives under stress — and why these scripts reliably degrade security analysis.*  
 
 ---
@@ -184,9 +184,9 @@ It exists to prevent recycled fear narratives from masquerading as analysis duri
 > - [🧿 Attribution as Narrative Attack Surface](./🧿_attribution_as_narrative_attack_surface.md) — *premature closure*  
 > - [🧨 Certainty Merchants and Security-Adjacent Amplifiers](./🧨_certainty_merchants_and_security_adjacent_amplifiers.md) — *narrative acceleration*  
 > - [🦴 Tolerance Thresholds as Load Management](../../Governance_And_Containment/🉑_System_Thresholds/🦴_tolerance_thresholds_as_load_management.md) — *absorbed harm*  
-> - [🦑 CRAKEN System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*  
+> - [🦑 CRAKEN System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_cancellous_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-07-09_
