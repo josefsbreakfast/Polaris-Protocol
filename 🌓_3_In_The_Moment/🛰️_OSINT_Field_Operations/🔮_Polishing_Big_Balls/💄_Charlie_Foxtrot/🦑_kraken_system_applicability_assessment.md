@@ -1,5 +1,5 @@
 # 🦑 Kraken System Applicability Assessment  
-**First created:** 2026-01-23 | **Last updated:** 2026-05-21  
+**First created:** 2026-01-23 | **Last updated:** 2026-07-09  
 *Determining when an AI-affected system constitutes a preventative-death and governance emergency*
 
 ---
@@ -167,10 +167,10 @@ preventative death, bureaucratic harm, uk governance, health systems, social car
 It provides a fast triage framework for identifying when AI-affected systems in the UK constitute a preventative-death and governance emergency.
 
 > 📡 Cross-references:
-> - 🦑 C.R.A.K.E.N. — Calcaneus Reflexion Anti-Kraken Ecological Navigation System  
+> - 🦑 C.R.A.K.E.N. — cancellous Reflexion Anti-Kraken Ecological Navigation System  
 > - 🦑 Kraken Big Ball Polishing  
 > - ☔️ Protocol Integrity SOP  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-21_
+_Last updated: 2026-07-09_
