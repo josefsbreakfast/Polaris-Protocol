@@ -1,34 +1,33 @@
-🌊 Why The News Feels Overwhelming
+# 🌊 Why The News Feels Overwhelming  
+**First created:** 2026-07-09 | **Last updated:** 2026-07-09  
+*Orientation note for readers and journalists trying to separate overload, collision, and deliberate flooding-the-zone tactics.*
 
-First created: 2026-07-09 | Last updated: 2026-07-09
-Orientation note for readers and journalists trying to separate overload, collision, and deliberate flooding-the-zone tactics.
-
-🛰️ Orientation
+## 🛰️ Orientation
 
 The current news cycle is not confusing because readers are stupid.
 
 It is confusing because several systems are knocking into each other at once.
 
-Political finance.
-Crypto.
-Frontier AI.
-War.
-Sanctions.
-Civil liability.
-Media ownership.
-Search algorithms.
-Social media incentives.
-Court timetables.
-Parliamentary standards.
-By-elections.
-Personality politics.
+Political finance.  
+Crypto.  
+Frontier AI.  
+War.  
+Sanctions.  
+Civil liability.  
+Media ownership.  
+Search algorithms.  
+Social media incentives.  
+Court timetables.  
+Parliamentary standards.  
+By-elections.  
+Personality politics.  
 Public exhaustion.
 
 These are not separate weather systems anymore.
 
 They overlap.
 
-🧭 Structural Overload
+## 🧭 Structural Overload
 
 Some of the overload is structural.
 
@@ -40,36 +39,36 @@ It means several systems can become mutually noisy.
 
 The public is then asked to interpret too many things at once:
 
-* what happened
-* what was alleged
-* what was documented
-* what was denied
-* what was changed
-* what was merely reacted to
-* what process is actually moving
-* what process is being obscured
+- what happened
+- what was alleged
+- what was documented
+- what was denied
+- what was changed
+- what was merely reacted to
+- what process is actually moving
+- what process is being obscured
 
 This is exhausting by design even when no single designer exists.
 
-🪤 Strategic Confusion
+## 🪤 Strategic Confusion
 
 Some of the overload may also be strategic.
 
 Political actors, media operators, donors, platforms, hostile networks, and attention entrepreneurs can benefit when the public cannot tell:
 
-* which story matters
-* which process applies
-* what happened first
-* what has actually changed
-* which facts are documented
-* which claims are merely reactions
-* who benefits from confusion
+- which story matters
+- which process applies
+- what happened first
+- what has actually changed
+- which facts are documented
+- which claims are merely reactions
+- who benefits from confusion
 
 The point is not to assume a master plan.
 
 The point is to notice when confusion itself becomes useful.
 
-🌊 Flooding The Zone
+## 🌊 Flooding The Zone
 
 “Flooding the zone” means overwhelming the information environment with so many claims, reactions, scandals, counter-scandals, slogans, distractions, and emotional cues that people lose the ability to follow the underlying process.
 
@@ -83,7 +82,7 @@ Sometimes the goal is to make accountability feel impossible.
 
 Sometimes the goal is to make the public forget which clock was actually moving.
 
-🧯 The Danger Of Panic Information
+## 🧯 The Danger Of Panic Information
 
 When people panic, institutions often respond by dumping more information.
 
@@ -105,7 +104,7 @@ The goal is not maximum information.
 
 The goal is usable orientation.
 
-🕰️ Track The Clocks
+## 🕰️ Track The Clocks
 
 Do not chase every spark.
 
@@ -115,24 +114,24 @@ A clock is a process with its own timetable.
 
 Examples:
 
-* court clock
-* regulator clock
-* parliament clock
-* election clock
-* market clock
-* war clock
-* donor clock
-* platform clock
-* media clock
-* public-safety clock
-* civil-liability clock
-* local-democracy clock
+- court clock
+- regulator clock
+- parliament clock
+- election clock
+- market clock
+- war clock
+- donor clock
+- platform clock
+- media clock
+- public-safety clock
+- civil-liability clock
+- local-democracy clock
 
 When several clocks strike at once, the news feels like chaos.
 
 The job is to separate the clocks again.
 
-🧠 Reading During Overload
+## 🧠 Reading During Overload
 
 When the news feels too loud, ask:
 
@@ -151,7 +150,7 @@ This is not a retreat from public life.
 
 It is a way to stay inside reality when the information environment is trying to shake the walls.
 
-🗞️ For Journalists And Editors
+## 🗞️ For Journalists And Editors
 
 Do not fight a confidence cult with a PDF avalanche.
 
@@ -159,19 +158,19 @@ Do not publish every spark just because the internet is on fire.
 
 Better options:
 
-* one clean timeline
-* one verified daily update
-* one “what changed / what did not” briefing
-* one document-led explainer
-* one process map
-* one public-interest question bank
-* one civic route for what readers can do next
+- one clean timeline
+- one verified daily update
+- one “what changed / what did not” briefing
+- one document-led explainer
+- one process map
+- one public-interest question bank
+- one civic route for what readers can do next
 
 The newsroom does not need to become silent.
 
 It needs to become legible.
 
-✨ Short Version
+## ✨ Short Version
 
 The news is overwhelming because too many risk systems are colliding.
 
@@ -183,37 +182,37 @@ Either way, the answer is not panic.
 
 The answer is timeline, process, documents, proportional coverage, and democratic off-ramps.
 
-Do not chase every spark.
-Track the clocks.
+> Do not chase every spark.  
+> Track the clocks.
 
-🌌 Constellations
+## 🌌 Constellations  
 
 🌊 🕰️ 📲 🧯 🧭 — overload management; temporal sorting; anti-flooding discipline; reader orientation.
 
-✨ Stardust
+## ✨ Stardust  
 
 information overload, flooding the zone, media rhythm, democratic communication, algorithmic panic, timeline discipline, public orientation, news literacy
 
-⸻
+---
 
-🏮 Footer
+## 🏮 Footer  
 
-Why The News Feels Overwhelming is a living node of the Polaris Protocol.
-It provides the entry orientation for readers and journalists encountering colliding news systems, panic information, and deliberate confusion tactics.
+*Why The News Feels Overwhelming* is a living node of the **Polaris Protocol**.  
+It provides the entry orientation for readers and journalists encountering colliding news systems, panic information, and deliberate confusion tactics.  
 Its function is to slow the reader down without withdrawing them from democratic attention.
 
-📡 Cross-references:
+> 📡 Cross-references:
+>
+> - [`README.md`](./README.md) — *folder-level orientation for The Manifestation Molehill*
+> - [`🕰️_timeline_why_this_is_fractious.md`](./🕰️_timeline_why_this_is_fractious.md) — *sequencing tool for separating colliding clocks*
+> - [`⏱️_temporal_hygiene_rhythm_not_panic.md`](./⏱️_temporal_hygiene_rhythm_not_panic.md) — *newsroom tempo and observation-gap guidance*
+>
+> 🏮 Return To:
+>
+> - [`🗻_The_Manifestation_Molehill`](./) — *current folder*
+> - [`👻_Ghosts_Of_Accountability`](../) — *parent accountability cluster*
+> - [`📲_Press_Matters`](../../) — *press and media-analysis layer*
 
-* README.md — folder-level orientation for The Manifestation Molehill
-* 🕰️_timeline_why_this_is_fractious.md — sequencing tool for separating colliding clocks
-* ⏱️_temporal_hygiene_rhythm_not_panic.md — newsroom tempo and observation-gap guidance
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-🏮 Return To:
-
-* 🗻_The_Manifestation_Molehill — current folder
-* 👻_Ghosts_Of_Accountability — parent accountability cluster
-* 📲_Press_Matters — press and media-analysis layer
-
-Survivor authorship is sovereign. Containment is never neutral.
-
-Last updated: 2026-07-09
+_Last updated: 2026-07-09_
