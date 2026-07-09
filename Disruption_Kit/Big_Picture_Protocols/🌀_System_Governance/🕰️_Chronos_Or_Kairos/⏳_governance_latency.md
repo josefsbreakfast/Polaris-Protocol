@@ -1,5 +1,5 @@
 # ⏳ Governance Latency in Population-Scale Cyber Events  
-**First created:** 2025-10-13 | **Last updated:** 2026-05-12  
+**First created:** 2025-10-13 | **Last updated:** 2026-07-09  
 *Why mid-scale cyber events harm real populations long before institutions are structurally able to respond.*  
 
 ---
@@ -269,7 +269,7 @@ Over time, actors adapt:
 - institutions normalise workaround culture,
 - and legal standards quietly shift to accommodate failure.
 
-This is calcaneus remodelling:  
+This is cancellous remodelling:  
 the system reshapes itself around chronic stress rather than resolving it.
 
 ### 👾 Fracture Detection  
@@ -329,7 +329,7 @@ It examines how structural delay becomes a liability multiplier in digital harm 
 > - [⚖️ Ethics Timeout — When Research Datasets Expire and Disappear](../🧪_Development_Experimentation/⚖️_ethics_timeout_retention_clock.md) — *illustrates how time-based expiry rules quietly shape accountability, evidence availability, and post-hoc ethics*  
 > - [⏱️ Timebase Desyncs](../../../../🩻_Weirdness_Screening/🌐_Connection_Hiccups/⏱️_timebase_desyncs.md) — *documents technical manifestations of temporal misalignment that mirror institutional delay at the system level*  
 > - [🧨 Delayed Visibility Is a Signal](../../../Containment_Scripts/Suppression_Modes/🧨_delayed_visibility_is_a_signal.md) — *operational guide for recognising delay itself as an indicator of interference or suppression, not neutrality*  
-> - [🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) – *reflexive, load-aware ecological model for geopolitical analysis; squid-sedation squad strikes again*
+> - [🦑 C.R.A.K.E.N.: cancellous Reflexion Anti-Kraken Ecological Navigation System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_cancellous_reflexion_anti_kraken_ecological_navigation_system.md) – *reflexive, load-aware ecological model for geopolitical analysis; squid-sedation squad strikes again*
 >  
 > 🏮 Return To:  
 >  
@@ -341,4 +341,4 @@ It examines how structural delay becomes a liability multiplier in digital harm 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-07-09_
