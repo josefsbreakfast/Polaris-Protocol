@@ -19,7 +19,7 @@ It is **load management**.
 
 ---
 
-## 🦴 Conceptual Frame (Calcaneus Logic)  
+## 🦴 Conceptual Frame (Cancellous Logic)  
 In a stressed organism:
 
 - Ego contests concentrate pressure internally  
