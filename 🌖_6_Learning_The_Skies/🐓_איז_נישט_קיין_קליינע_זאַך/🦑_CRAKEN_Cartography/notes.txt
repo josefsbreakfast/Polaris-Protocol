@@ -5,3 +5,13 @@
 ├── 🧿_stress_object_as_reflexive_pressure_node.md
 ├── 🕯️_alliance_signalling_and_misread_catastrophe.md
 └── 🕸️_when_pressure_on_one_node_remodels_the_web.md
+
+
+---
+
+1. README.md
+2. 🜁_whole_tree_trauma_informed_craken_translation.md
+3. 🧭_map_before_movement.md
+4. 🧿_stress_object_as_reflexive_pressure_node.md
+5. 🕸️_when_pressure_on_one_node_remodels_the_web.md
+6. 🕯️_alliance_signalling_and_misread_catastrophe.md
