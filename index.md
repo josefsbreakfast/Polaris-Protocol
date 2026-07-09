@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-09 07:49:46 UTC_
+_Generated on 2026-07-09 07:54:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6200,7 +6200,6 @@ _Generated on 2026-07-09 07:49:46 UTC_
       - [`🕯️_universal_humanity_unequal_exposure.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🕊️_Moral_Guardrails/🕯️_universal_humanity_unequal_exposure.md)
     - [**🦑_CRAKEN_Cartography/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/README.md)
-      - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/notes.txt)
       - [`🕯️_alliance_signalling_and_misread_catastrophe.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/🕯️_alliance_signalling_and_misread_catastrophe.md)
       - [`🕸️_when_pressure_on_one_node_remodels_the_web.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/🕸️_when_pressure_on_one_node_remodels_the_web.md)
       - [`🜁_whole_tree_trauma_informed_craken_translation.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/🜁_whole_tree_trauma_informed_craken_translation.md)
