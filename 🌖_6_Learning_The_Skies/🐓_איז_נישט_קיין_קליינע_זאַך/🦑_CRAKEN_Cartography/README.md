@@ -254,7 +254,7 @@ The point is to translate the same ecological discipline into a trauma-informed 
 | Kraken / sea monster | submerged risk, unintegrated force, rupture risk |
 | Tentacles | distributed pressure pathways |
 | Anti-Kraken navigation | vessel-aware ecological navigation |
-| Calcaneus load distribution | kelim / vessel capacity and stress distribution |
+| Cancellous load distribution | kelim / vessel capacity and stress distribution |
 | Reflexive geopolitical ecosystem | whole-tree relational field |
 | Stress fractures | rupture, shattering, overload, escalation |
 | Keeping the Kraken asleep | keeping force metabolised, witnessed, and rightly channelled |
