@@ -1,5 +1,5 @@
 # 🈴 Allies and Ethics Are Operational Variables  
-**First created:** 2025-12-22 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-22 | **Last updated:** 2026-07-09  
 *Why alliances and ethical compromises shape threat exposure, attribution error, and long-term instability — whether acknowledged or not.*  
 
 ---
@@ -151,8 +151,8 @@ It exists to ensure that alliance management and ethical tolerance are analysed 
 > - [🐉 It’s Not Always Daddy Dragon](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🐉_its_not_always_daddy_dragon.md) — *outward blame reflex*  
 > - [🌍 Vulnerable Data Populations at FCDO](../../🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md) — *who absorbs cost*  
 > - [🌍 Residual Shadows at FCDO](../../🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌍_residual_shadows_at_fcdo.md) — *delayed consequences*  
-> - [🦑 CRAKEN System](../../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*  
+> - [🦑 CRAKEN System](../../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_cancellous_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-07-09_
