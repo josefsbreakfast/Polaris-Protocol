@@ -1,5 +1,5 @@
 # ⚓️ Fur Coat; No Knickers  
-**First created:** 2026-01-08 | **Last updated:** 2026-05-03  
+**First created:** 2026-01-08 | **Last updated:** 2026-07-09  
 *Why prestige signalling can persist alongside reduced operational autonomy in contemporary British governance.*  
 *Or: Why we provided the getaway dinghy (and became the Dad Taxi™️).*  
 
@@ -318,10 +318,10 @@ It analyses how symbolic capability can persist alongside constrained autonomy, 
 
 > 📡 Cross-references:
 > 
-> - [🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *system-level reflexive risk mapping framework*  
+> - [🦑 C.R.A.K.E.N.: cancellous Reflexion Anti-Kraken Ecological Navigation System](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_cancellous_reflexion_anti_kraken_ecological_navigation_system.md) — *system-level reflexive risk mapping framework*  
 > - [🗡️ Why Trident Is Lowkey Kraken Insurance](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🗡️_why_trident_is_lowkey_kraken_insurance.md) — *deterrence as structural risk buffer*  
 > - [⚖️ Why Inquiries Replace Prosecutions](../../🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_why_inquiries_replace_prosecutions.md) — *institutional substitution patterns in governance*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-03_
+_Last updated: 2026-07-09_
