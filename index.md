@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-09 07:40:06 UTC_
+_Generated on 2026-07-09 07:42:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6205,9 +6205,9 @@ _Generated on 2026-07-09 07:40:06 UTC_
       - [`when_pressure_on_one_node_remodels_the_web.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/when_pressure_on_one_node_remodels_the_web.md)
       - [`🜁_whole_tree_trauma_informed_craken_translation.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/🜁_whole_tree_trauma_informed_craken_translation.md)
       - [`🦑_alliance_signalling_and_misread_catastrophe.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/🦑_alliance_signalling_and_misread_catastrophe.md)
-      - [`🦑_do_not_kick_the_sleeping_kraken.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/🦑_do_not_kick_the_sleeping_kraken.md)
       - [`🦑_stress_object_as_reflexive_pressure_node.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/🦑_stress_object_as_reflexive_pressure_node.md)
       - [`🦑_when_pressure_on_one_node_remodels_the_web.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/🦑_when_pressure_on_one_node_remodels_the_web.md)
+      - [`🧭_map_before_movement.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🦑_CRAKEN_Cartography/🧭_map_before_movement.md)
     - [**🧄_Exousiological_Dynamics/**](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧄_Exousiological_Dynamics/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧄_Exousiological_Dynamics/README.md)
       - [`🧄_authority_after_atrocity_risk.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/🧄_Exousiological_Dynamics/🧄_authority_after_atrocity_risk.md)
