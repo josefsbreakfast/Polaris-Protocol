@@ -88,7 +88,7 @@ The translated version therefore shifts the symbolic centre:
 |---|---|
 | Kraken / sea monster | submerged force, unintegrated pressure, rupture risk |
 | Anti-Kraken navigation | vessel-aware ecological navigation |
-| Calcaneus load distribution | kelim / vessel capacity and stress distribution |
+| cancellous load distribution | kelim / vessel capacity and stress distribution |
 | Reflexive geopolitical ecosystem | whole-tree relational field |
 | Stress fractures | rupture, shattering, overload, dissociation, escalation |
 | Keeping the Kraken asleep | keeping force metabolised, witnessed, and rightly channelled |
@@ -168,9 +168,9 @@ In this trauma-informed defence translation, each sefirah becomes a process ques
 
 ---
 
-## 🦴 Replacing Calcaneus With Kelim, Without Losing Load Awareness
+## 🦴 Replacing cancellous With Kelim, Without Losing Load Awareness
 
-The calcaneus model remains useful because the heel bone distributes load, records pressure history, absorbs shock, and remodels under force.
+The cancellous model remains useful because the heel bone distributes load, records pressure history, absorbs shock, and remodels under force.
 
 The whole-tree translation does not discard this.
 
@@ -190,7 +190,7 @@ Without channel, insight becomes noise.
 
 Without speech discipline, inner pressure becomes external harm.
 
-| Calcaneus model | Whole-tree / trauma-informed rendering |
+| cancellous model | Whole-tree / trauma-informed rendering |
 |---|---|
 | Load distributor | vessel capacity across the tree |
 | Shock absorber | nervous-system / institutional capacity to metabolise force |
@@ -595,7 +595,7 @@ Further reading / source notes:
 - United States Holocaust Memorial Museum, **Nazi-era Antisemitic Propaganda Poster** — notes Nazi propaganda’s false myth of “international Jewry” and the octopus over the globe as a common visual metaphor for that conspiracy claim.
 - Library of Congress, **Josef Plank / Seppla, Churchill as an octopus** — records Axis propaganda portraying Churchill as part of a supposed Jewish conspiracy, shown as an octopus fastening tentacles on the globe.
 - AJC Translate Hate, **Control** — background on antisemitic “Jewish control” conspiracy tropes.
-- Original Polaris node: **🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System**.
+- Original Polaris node: **🦑 C.R.A.K.E.N.: cancellous Reflexion Anti-Kraken Ecological Navigation System**.
 - Related Polaris node: **📿 Whole Tree Process Stack**.
 
 ---
