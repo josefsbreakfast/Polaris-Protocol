@@ -1,5 +1,5 @@
 # 🧿 FCDO Data Signatures  
-**First created:** 2025-12-22 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-22 | **Last updated:** 2026-07-09  
 *What the selection, structure, and handling of affected systems reveals — independent of attribution claims.*  
 
 ---
@@ -155,7 +155,7 @@ They:
 - inform protection priorities
 - anchor analysis under uncertainty
 
-They are the calcaneus lines you read *before* deciding where the pressure came from.  
+They are the cancellous lines you read *before* deciding where the pressure came from.  
 
 ---
 
@@ -170,8 +170,8 @@ It exists to preserve analytical integrity when attribution pressure is high and
 > - [🌍 Vulnerable Data Populations at FCDO](../../🔥_Data_Risks/📿_Vulnerable_Data_Populations/🌍_vulnerable_data_populations_at_fcdo.md) — *who bears the cost*  
 > - [🌍 Residual Shadows at FCDO](../../🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🌍_residual_shadows_at_fcdo.md) — *delayed exploitation*  
 > - [🧿 Attribution as Narrative Attack Surface](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_attribution_as_narrative_attack_surface.md) — *spoofability*  
-> - [🦑 C.R.A.K.E.N. System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*  
+> - [🦑 C.R.A.K.E.N. System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_cancellous_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive ecological mapping*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-07-09_
