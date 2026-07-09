@@ -1,10 +1,6 @@
-# 🜁 Whole Tree Translation Of C.R.A.K.E.N.
-## Trauma-Informed Ecological Navigation, Without The Sea Monster If The Sea Monster Is Not Helpful
-
-**First created:** 2026-07-07  
-**Status:** draft / translation layer  
-**Parent frame:** 🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System  
-**Related frame:** 📿 Whole Tree Process Stack  
+# 🜁 Whole Tree Translation Of C.R.A.K.E.N.  
+**First created:** 2026-07-07 | **Last updated:** 2026-07-09  
+*Trauma-informed ecological navigation for readers who need the C.R.A.K.E.N. framework translated away from sea-monster imagery and into whole-tree process language.*
 
 ---
 
@@ -35,6 +31,8 @@ The trauma-informed rule is simple:
 > **If the symbol helps navigation, use it. If the symbol activates the wound more than the work, translate it.**
 
 This node translates the defence framework through the **Tree of Life** and the movement toward closeness with **Ein Sof**: not as escape from the world, but as a disciplined process of receiving, containing, transmitting, speaking, repairing, and acting without rupture.
+
+This is a trauma-informed translation and teaching frame. It is not a claim of rabbinic authority, kabbalistic mastery, or formal religious instruction. Jewish concepts used here should be checked, refined, or corrected by appropriate teachers, scholars, rabbonim, rebbetzins, and learned readers.
 
 ---
 
@@ -100,7 +98,7 @@ The core analytic function remains:
 
 > **Do not act as though force travels in straight lines when it actually moves through a living web.**
 
-The new symbolic language makes that usable for readers whose nervous systems would rather not be asked to meditate inside Nazi-adjacent octopus ghosts.
+The new symbolic language makes that usable for readers whose nervous systems would rather not be asked to work through imagery adjacent to antisemitic octopus propaganda.
 
 Fair.
 
@@ -239,7 +237,7 @@ But:
 > What constituency will be cornered?  
 > What ally will be frightened?  
 > What adversary will be incentivised?  
-> What unprocessed pressure will look for an exit?  
+> What unprocessed pressure will look for an exit?
 
 This is where the Tree of Life becomes useful.
 
@@ -249,7 +247,7 @@ Because the tree gives a disciplined way to ask whether the process has moved fr
 
 ---
 
-## 🕸️ Original CRAKEN Components, Whole-Tree Translation
+## 🕸️ Original C.R.A.K.E.N. Components, Whole-Tree Translation
 
 | C.R.A.K.E.N. component | Whole-tree translation | Core question |
 |---|---|---|
@@ -590,7 +588,9 @@ Feel the whole tide before you pull the rope.
 
 ## 🌌 Constellations
 
-*Further reading / source notes:*
+🜁 🌳 🧭 🕸️ 🕯️ — whole-tree translation; vessel-aware navigation; trauma-informed defence analysis; reflexive pressure mapping; speech before rupture.
+
+Further reading / source notes:
 
 - United States Holocaust Memorial Museum, **Nazi-era Antisemitic Propaganda Poster** — notes Nazi propaganda’s false myth of “international Jewry” and the octopus over the globe as a common visual metaphor for that conspiracy claim.
 - Library of Congress, **Josef Plank / Seppla, Churchill as an octopus** — records Axis propaganda portraying Churchill as part of a supposed Jewish conspiracy, shown as an octopus fastening tentacles on the globe.
@@ -602,14 +602,24 @@ Feel the whole tide before you pull the rope.
 
 ## ✨ Stardust
 
-trauma-informed analysis, Tree of Life, Ein Sof, kelim, tzimtzum, shefa, Dibbur, defence analysis, ecological navigation, resilience engineering, nuclear systems engineering, clinical reasoning, root cause analysis, systems theory, antisemitic visual rhetoric, propaganda literacy, C.R.A.K.E.N.
+trauma-informed analysis, tree of life, ein sof, kelim, tzimtzum, defence analysis, ecological navigation, reflexive pressure, antisemitic visual rhetoric, propaganda literacy
 
 ---
 
 ## 🏮 Footer
 
+*🜁 Whole Tree Translation Of C.R.A.K.E.N.* is a living node of the **Polaris Protocol**.  
+It functions as the trauma-informed translation key for the `🦑_CRAKEN_Cartography` folder, preserving the original reflexive-risk framework while offering a whole-tree access route for readers who cannot use Kraken or octopus imagery safely.  
+Its role is to support vessel-aware navigation, symbolic access, and careful action before pressure becomes rupture.
+
+> 📡 Cross-references:
+>
+> - [🦑 CRAKEN Cartography](./README.md) — *parent folder for reflexive pressure mapping and trauma-informed translation routes*
+> - [🧭 Map Before Movement](./🧭_map_before_movement.md) — *plain-language operational rule for action before escalation*
+> - [🐓 איז נישט קיין קליינע זאַך](../README.md) — *wider Jewish counsel and bridge cluster*
+> - [🌖 Learning The Skies](../../README.md) — *teaching, translation, and operational literacy layer*
+> - [🌌 Polaris Protocol - Root](../../../README.md) — *root archive and protocol routing layer*
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-This node is a translation layer: use the symbol that opens the work, not the symbol that closes the body.
-
-_Last updated: 2026-07-07_
+_Last updated: 2026-07-09_
