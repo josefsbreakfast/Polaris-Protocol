@@ -1,11 +1,11 @@
 # 🦑 Why the C.R.A.K.E.N. System Is Necessary  
-**Firest created:** 2025-11-20 | **Last updated:** 2026-05-10  
+**Firest created:** 2025-11-20 | **Last updated:** 2026-07-09  
 *What it replaces, what it devours, and the global doctrinal carcasses it leaves behind.*  
 
 ---
 
 ## 🛰️ Orientation  
-The C.R.A.K.E.N. system (Calcaneus Reflexion Anti-Kraken Ecological Navigation) did not emerge in a vacuum.  
+The C.R.A.K.E.N. system (cancellous Reflexion Anti-Kraken Ecological Navigation) did not emerge in a vacuum.  
 It arises because **current military, diplomatic, economic, and strategic doctrines are brittle**, fragmented, and unable to model:
 
 - interdependence  
@@ -255,7 +255,7 @@ and replaces them with a structure that can actually survive the century.
 
 > 📡 Cross-references:
 > 
-> - [🦑 C.R.A.K.E.N.: Calcaneus Reflexion Anti-Kraken Ecological Navigation System](./🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md)  
+> - [🦑 C.R.A.K.E.N.: cancellous Reflexion Anti-Kraken Ecological Navigation System](./🦑_cancellous_reflexion_anti_kraken_ecological_navigation_system.md)  
 > - [🦑 Kraken-Based Defence Budget Satire](./🦑_kraken_based_defence_budget.md)  
 > - [🦑 Kraken Containment Governance: Roles, Rituals, and Risks](./🦑_kraken_containment_governance_roles_rituals_and_risks.md)  
 > - [🦑 Kraken: Ground Zero](./🦑_kraken_ground_zero.md)  
@@ -263,5 +263,5 @@ and replaces them with a structure that can actually survive the century.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-10_
+_Last updated: 2026-07-09_
 
