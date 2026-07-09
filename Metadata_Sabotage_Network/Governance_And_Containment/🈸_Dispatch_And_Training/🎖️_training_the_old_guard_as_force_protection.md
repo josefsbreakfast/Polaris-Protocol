@@ -1,5 +1,5 @@
 # 🎖️ Training the Old Guard as Force Protection  
-**First created:** 2025-12-22 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-22 | **Last updated:** 2026-07-09  
 *Why bias literacy, narrative awareness, and reflexive thinking are no longer optional skills in modern defence — and why failing to retrain senior actors creates exploitable blind spots.*  
 
 ---
@@ -135,7 +135,7 @@ Within CRAKEN, retraining the old guard:
 - increases system adaptability  
 - lowers the risk of sudden fracture  
 
-It strengthens the calcaneus rather than replacing it.  
+It strengthens the cancellous trabeculii rather than replacing them.  
 
 ---
 
@@ -151,8 +151,8 @@ It exists to ensure that senior experience remains an asset rather than a liabil
 > - [🧿 Attribution as Narrative Attack Surface](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧿_attribution_as_narrative_attack_surface.md) — *spoofability*  
 > - [🧨 Certainty Merchants and Security-Adjacent Amplifiers](../../Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧨_certainty_merchants_and_security_adjacent_amplifiers.md) — *narrative acceleration*  
 > - [📺 Platforming as Soft Power Capture](../../../Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/📺_platforming_as_soft_power_capture.md) — *legitimacy laundering*  
-> - [🦑 CRAKEN System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_calcaneus_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive load mapping*  
+> - [🦑 CRAKEN System](../../../Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_cancellous_reflexion_anti_kraken_ecological_navigation_system.md) — *reflexive load mapping*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-07-09_
