@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-10 09:12:41 UTC_
+_Generated on 2026-07-10 09:16:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5559,6 +5559,8 @@ _Generated on 2026-07-10 09:12:41 UTC_
         - [`🗻_the_manifestation_molehill_core_model.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🗻_the_manifestation_molehill_core_model.md)
         - [`🚪_exit_routes_back_to_democracy.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🚪_exit_routes_back_to_democracy.md)
       - [**🤐_The_Seditious_Traitors_Fuckery_Unit/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/)
+        - [**🦈_Target_Routing/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦈_Target_Routing/)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦈_Target_Routing/notes.txt)
         - [**🦤_Regime_Logic/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/notes.txt)
         - [**🧊_Core/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🧊_Core/)
