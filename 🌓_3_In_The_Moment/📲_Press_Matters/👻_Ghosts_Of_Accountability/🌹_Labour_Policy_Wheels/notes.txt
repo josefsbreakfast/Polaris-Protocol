@@ -100,3 +100,362 @@
                 ├── 🌱_pro_social_growth_test.md
                 ├── ⚙️_working_class_material_conditions_test.md
                 └── 📋_policy_authorship_and_influence_checklist.md
+
+---
+
+🌓_3_In_The_Moment/
+└── 📲_Press_Matters/
+    └── 👻_Ghosts_Of_Accountability/
+        └── 🌹_Labour_Policy_Wheels/
+            ├── README.md
+            │   ↳ Introduces the problem of policy being inherited, outsourced,
+            │      rebranded and forgotten, and sets out the cluster’s pro-social
+            │      accountability framework.
+            │
+            ├── 🛞_The_Policy_Wheel_Problem/
+            │   │
+            │   ├── 🛞_the_policy_wheel_problem.md
+            │   │   ↳ Distinguishes needless reinvention from genuine changes
+            │   │      in ownership, delivery, power and political legibility.
+            │   │
+            │   ├── 🧾_who_proposed_what_and_when.md
+            │   │   ↳ Reconstructs the chronology of proposals so that later
+            │   │      branding does not erase earlier authors or commitments.
+            │   │
+            │   ├── 🏷️_rebranding_is_not_policy_authorship.md
+            │   │   ↳ Separates successful political communication from actual
+            │   │      policy invention, while recognising that translation matters.
+            │   │
+            │   ├── 👻_the_ghost_author_problem.md
+            │   │   ↳ Examines policies whose real authors disappear behind party,
+            │   │      ministerial, consultancy or leadership branding.
+            │   │
+            │   └── 🪞_same_diagnosis_different_spokesperson.md
+            │       ↳ Compares programmes that identify the same failures but
+            │          present them through different personalities and institutions.
+            │
+            ├── 📜_The_May_Programme/
+            │   │
+            │   ├── 📜_what_was_already_in_the_may_programme.md
+            │   │   ↳ Establishes the factual baseline of policies already contained
+            │   │      in the May 2026 King’s Speech and related government work.
+            │   │
+            │   ├── 📚_when_the_programme_is_too_large_to_read.md
+            │   │   ↳ Considers how an enormous legislative programme can technically
+            │   │      disclose policy while remaining practically illegible.
+            │   │
+            │   ├── 🌊_news_velocity_as_policy_amnesia.md
+            │   │   ↳ Shows how rapid news cycles detach proposals from their origins
+            │   │      before the public can understand or evaluate them.
+            │   │
+            │   ├── 🏷️_how_old_policy_returns_as_new_policy.md
+            │   │   ↳ Tracks how existing commitments reappear under new leadership,
+            │   │      language or branding and are reported as fresh inventions.
+            │   │
+            │   └── 🎙️_when_policy_exists_but_no_one_can_hear_it.md
+            │       ↳ Examines the gap between formally publishing a programme
+            │          and making it politically audible, memorable and usable.
+            │
+            ├── 🐝_Burnham_And_The_Rebrand/
+            │   │
+            │   ├── 🐝_burnhamism_without_the_branding.md
+            │   │   ↳ Strips away personality and presentation to identify which
+            │   │      parts of Burnham’s programme are substantively distinctive.
+            │   │
+            │   ├── 🏛️_whitehall_state_or_municipal_state.md
+            │   │   ↳ Compares a stronger central state with a public realm in which
+            │   │      durable money and authority are transferred to places.
+            │   │
+            │   ├── 🧰_delivery_is_itself_a_policy.md
+            │   │   ↳ Argues that routing, eligibility and administration determine
+            │   │      what a policy becomes when people actually encounter it.
+            │   │
+            │   ├── 💷_household_relief_or_long_term_reconstruction.md
+            │   │   ↳ Distinguishes immediate reductions in household pressure from
+            │   │      slower structural investment, without treating them as rivals.
+            │   │
+            │   └── 🌹_the_wheel_may_be_fine_the_vehicle_is_not.md
+            │       ↳ Tests whether Labour’s underlying programme is more workable
+            │          than the leadership, institutions or communications carrying it.
+            │
+            ├── 🏠_Policy_Test_Cases/
+            │   │
+            │   ├── 🏠_housing_is_where_the_overlap_becomes_visible.md
+            │   │   ↳ Uses council housing, Right to Buy, rents and security to show
+            │   │      where the programmes most clearly converge and diverge.
+            │   │
+            │   ├── 🚰_regulation_public_control_and_the_ownership_gap.md
+            │   │   ↳ Separates stronger regulation, temporary public control and
+            │   │      permanent changes in utility ownership.
+            │   │
+            │   ├── 🚆_northern_power_without_northern_power.md
+            │   │   ↳ Asks whether northern investment redistributes actual authority
+            │   │      or merely delivers useful infrastructure from Whitehall.
+            │   │
+            │   ├── 🎓_skills_work_and_local_delivery.md
+            │   │   ↳ Compares national and devolved approaches to technical education,
+            │   │      employment support and access to secure work.
+            │   │
+            │   └── ⚡_energy_independence_and_public_direction.md
+            │       ↳ Tests who owns, funds and benefits from the energy transition,
+            │          including protection for households with unavoidable high use.
+            │
+            ├── 💷_The_Privatisation_Of_Labour_Policy/
+            │   │
+            │   ├── 💷_the_privatisation_of_labour_policy.md
+            │   │   ↳ Examines how policy production can migrate from democratic
+            │   │      party structures into privately financed influence systems.
+            │   │
+            │   ├── 🌹_a_workers_party_with_private_policy_gatekeepers.md
+            │   │   ↳ Explores the contradiction between Labour’s workers’ tradition
+            │   │      and policy access mediated by wealth and elite networks.
+            │   │
+            │   ├── 🏢_consultancies_think_tanks_and_policy_supply.md
+            │   │   ↳ Maps the organisations supplying research, personnel and ready-made
+            │   │      proposals, including their funding and institutional interests.
+            │   │
+            │   ├── 🔗_donors_access_and_competing_interest.md
+            │   │   ↳ Investigates how donations, access and factional competition
+            │   │      influence which problems and solutions reach decision-makers.
+            │   │
+            │   ├── ⚙️_where_did_worker_and_union_input_go.md
+            │   │   ↳ Asks whether organised labour and workers retain meaningful
+            │   │      authorship rather than being consulted after decisions are made.
+            │   │
+            │   └── 🔐_who_gets_to_see_policy_before_the_public.md
+            │       ↳ Tracks privileged early access to proposals and the advantages
+            │          it creates for donors, firms, lobbyists and political allies.
+            │
+            ├── 🎭_Satire_And_Parallel_Accountability/
+            │   │
+            │   ├── 🎭_satire_is_not_a_substitute_for_scrutiny.md
+            │   │   ↳ Defends anti-authoritarian ridicule while insisting that it
+            │   │      cannot replace financial, legal and institutional examination.
+            │   │
+            │   ├── 🧵_multiple_accountability_threads_at_once.md
+            │   │   ↳ Shows how scrutiny of Farage, Labour, donations and policy
+            │   │      authorship can proceed together without cancelling one another.
+            │   │
+            │   ├── 🗳️_when_personality_elections_replace_scrutiny.md
+            │   │   ↳ Examines contests that convert unresolved institutional questions
+            │   │      into simplified judgments about a single political personality.
+            │   │
+            │   ├── 🗑️_the_binface_accountability_limit.md
+            │   │   ↳ Recognises satire’s ability to expose absurdity while defining
+            │   │      what only regulators, journalists and Parliament can resolve.
+            │   │
+            │   ├── 🦊_the_literal_fox_in_the_accountability_room.md
+            │   │   ↳ Uses the red-fox candidate as a case study in how visual absurdity
+            │   │      can reveal an accountability vacuum and also dominate coverage.
+            │   │
+            │   ├── 🎪_costume_candidates_and_attention_capture.md
+            │   │   ↳ Explores when electoral theatre opens democratic space and when
+            │   │      its spectacle displaces the underlying substantive dispute.
+            │   │
+            │   └── 🐸_farage_and_the_self_authored_referendum.md
+            │       ↳ Tests whether a politician can choose the timing and framing
+            │          of an election to recast scrutiny as personal vindication.
+            │
+            ├── 👁️_Attention_And_Accountability/
+            │   │
+            │   ├── 👁️_attention_is_not_the_same_as_accountability.md
+            │   │   ↳ Distinguishes visibility and engagement from processes capable
+            │   │      of establishing facts, responsibility and consequences.
+            │   │
+            │   ├── 📰_what_the_press_can_cover_and_what_it_drops.md
+            │   │   ↳ Examines the editorial pressures that privilege personalities
+            │   │      and conflict over policy lineage and administrative detail.
+            │   │
+            │   ├── ⏩_fast_news_slow_policy.md
+            │   │   ↳ Contrasts the speed of headlines with the long timelines of
+            │   │      consultation, legislation, implementation and measurable effects.
+            │   │
+            │   ├── 🫥_policy_disappears_without_being_withdrawn.md
+            │   │   ↳ Tracks commitments that remain formally alive but vanish from
+            │   │      political attention, funding, implementation or public memory.
+            │   │
+            │   └── 📌_how_to_keep_multiple_threads_visible.md
+            │       ↳ Develops simple methods for preserving parallel timelines,
+            │          unresolved questions and policy commitments through rapid events.
+            │
+            ├── ⚖️_Credit_Failure_And_Inheritance/
+            │   │
+            │   ├── 🧾_who_gets_credit_for_the_policy.md
+            │   │   ↳ Separates policy invention, advocacy, enactment, communication
+            │   │      and delivery so credit is assigned without flattening lineage.
+            │   │
+            │   ├── ⚖️_who_inherits_the_failure.md
+            │   │   ↳ Asks where responsibility sits when a new leader inherits a
+            │   │      defective policy, neglected programme or failed institution.
+            │   │
+            │   ├── 🧬_policy_lineage_is_not_party_branding.md
+            │   │   ↳ Treats policy as an evolving chain of contributions rather than
+            │   │      property belonging exclusively to one party or personality.
+            │   │
+            │   ├── 🪦_when_leadership_failure_buries_workable_policy.md
+            │   │   ↳ Examines how mistrust in a leader can discredit useful proposals
+            │   │      that should instead be preserved, corrected or reassigned.
+            │   │
+            │   └── 🔄_what_survives_a_leadership_change.md
+            │       ↳ Identifies which commitments, bills, teams and delivery structures
+            │          continue, mutate or disappear after political transition.
+            │
+            ├── ⚙️_The_Working_Class_Claim/
+            │   │
+            │   ├── ⚙️_what_does_it_mean_to_be_a_workers_party.md
+            │   │   ↳ Defines representation through material security and bargaining
+            │   │      power rather than employment rhetoric or inherited symbolism.
+            │   │
+            │   ├── ❓_if_you_represent_workers_why_not_address_this.md
+            │   │   ↳ Provides a standing challenge for identifying obvious working-class
+            │   │      pressures that a programme chooses to leave unresolved.
+            │   │
+            │   ├── 🏠_rent_is_a_working_class_issue.md
+            │   │   ↳ Treats rent, housing quality and tenure insecurity as major
+            │   │      extractions from wages, health, time and personal autonomy.
+            │   │
+            │   ├── ♿_disabled_people_are_not_outside_the_working_class.md
+            │   │   ↳ Rejects definitions of class that exclude disabled workers,
+            │   │      unpaid contributors or people unable to sustain paid employment.
+            │   │
+            │   ├── 🪢_care_is_work_even_when_the_market_does_not_pay.md
+            │   │   ↳ Makes unpaid and underpaid care visible as essential labour
+            │   │      on which households, services and the wider economy depend.
+            │   │
+            │   ├── 💷_wages_do_not_matter_in_isolation.md
+            │   │   ↳ Assesses pay alongside rent, debt, benefits, service costs,
+            │   │      working hours and the reliability of household income.
+            │   │
+            │   ├── ⏳_time_poverty_is_economic_extraction.md
+            │   │   ↳ Treats commuting, queues, fragmented care and administrative
+            │   │      battles as transfers of finite life from people to systems.
+            │   │
+            │   ├── 🚍_access_to_work_is_part_of_working_conditions.md
+            │   │   ↳ Includes transport cost, accessibility, distance and reliability
+            │   │      within the real conditions under which employment occurs.
+            │   │
+            │   ├── 🧾_administrative_burden_is_a_class_cost.md
+            │   │   ↳ Shows how forms, appeals, proof demands and service fragmentation
+            │   │      impose unequal financial, cognitive and health costs.
+            │   │
+            │   ├── 🌍_race_migration_and_the_distribution_of_bad_work.md
+            │   │   ↳ Examines how insecure, dangerous and poorly paid labour is
+            │   │      distributed through racialisation and immigration status.
+            │   │
+            │   └── 🚪_which_problems_are_kept_outside_the_policy_room.md
+            │       ↳ Identifies material problems repeatedly excluded because their
+            │          solutions disturb powerful interests or dominant assumptions.
+            │
+            ├── 🌱_Pro_Social_Growth_And_Justice/
+            │   │
+            │   ├── 🌱_what_we_mean_by_sensible_growth.md
+            │   │   ↳ Defines growth by gains in security, care, access and resilience
+            │   │      rather than the undifferentiated expansion of market activity.
+            │   │
+            │   ├── 🐌_degrowth_is_not_managed_destitution.md
+            │   │   ↳ Clarifies that ecological restraint must reduce extraction and
+            │   │      excess, not ration necessities or impose green austerity.
+            │   │
+            │   ├── ♿_disability_justice_as_economic_design.md
+            │   │   ↳ Places access, fluctuating capacity, care and unavoidable costs
+            │   │      inside economic design rather than adding them afterwards.
+            │   │
+            │   ├── 🫧_a_pro_social_test_for_policy.md
+            │   │   ↳ Tests whether a proposal expands collective security, dignity,
+            │   │      autonomy and participation rather than merely increasing output.
+            │   │
+            │   ├── 🌍_anti_racism_is_not_an_optional_policy_lens.md
+            │   │   ↳ Requires every policy area to examine racialised exposure,
+            │   │      exclusion, enforcement and access rather than relying on neutrality.
+            │   │
+            │   ├── ⚖️_equality_is_infrastructure.md
+            │   │   ↳ Treats accessible and non-discriminatory systems as core public
+            │   │      infrastructure necessary for policy to function at all.
+            │   │
+            │   ├── 📏_productivity_is_not_a_measure_of_human_worth.md
+            │   │   ↳ Rejects the use of market output as the condition for housing,
+            │   │      care, income, dignity or the right to participate in society.
+            │   │
+            │   ├── 🏠_security_before_compulsory_mobility.md
+            │   │   ↳ Challenges policies that force people to move home, job or region
+            │   │      instead of bringing security and opportunity to existing lives.
+            │   │
+            │   ├── 🧩_universalism_without_erasing_difference.md
+            │   │   ↳ Combines a universal floor with design that responds to unequal
+            │   │      barriers, needs and historical distributions of harm.
+            │   │
+            │   ├── 🏭_what_should_grow_and_what_should_shrink.md
+            │   │   ↳ Distinguishes socially useful expansion from the activities,
+            │   │      rents, waste and extraction that policy should deliberately reduce.
+            │   │
+            │   └── 🧾_who_is_asked_to_pay_for_transition.md
+            │       ↳ Tests whether economic and ecological change places costs on those
+            │          who benefited from extraction or those least able to absorb them.
+            │
+            └── 🧭_Tools_For_Accountability/
+                │
+                ├── 🧭_how_to_compare_competing_labour_programmes.md
+                │   ↳ Provides a repeatable comparison method covering substance,
+                │      lineage, delivery, power, omissions and distributive effects.
+                │
+                ├── 🗓️_policy_lineage_timeline_template.md
+                │   ↳ Supplies a chronology format for proposals, consultations,
+                │      announcements, amendments, implementation and later rebranding.
+                │
+                ├── 🧾_donation_and_access_question_bank.md
+                │   ↳ Offers careful questions for examining money, meetings, privileged
+                │      access and influence without treating suspicion as proof.
+                │
+                ├── 🎙️_questions_for_press_and_parliament.md
+                │   ↳ Converts the cluster’s analysis into concise questions capable
+                │      of recovering facts, commitments and responsibility.
+                │
+                ├── 🏛️_central_or_devolved_delivery_test.md
+                │   ↳ Tests where authority, funding, risk and appeal rights actually
+                │      sit beneath broad promises of local control.
+                │
+                ├── ♿_disability_justice_policy_test.md
+                │   ↳ Checks access, conditionality, care, energy needs, administrative
+                │      burden and the treatment of fluctuating capacity.
+                │
+                ├── 🌍_equality_and_racial_impact_test.md
+                │   ↳ Checks who receives benefits, surveillance, enforcement and
+                │      environmental or economic costs across protected groups.
+                │
+                ├── 🌱_pro_social_growth_test.md
+                │   ↳ Evaluates what a policy expands or contracts and whether that
+                │      movement improves collective security within ecological limits.
+                │
+                ├── ⚙️_working_class_material_conditions_test.md
+                │   ↳ Measures effects on housing, pay, time, care, transport, debt,
+                │      bargaining power and freedom from arbitrary control.
+                │
+                └── 📋_policy_authorship_and_influence_checklist.md
+                    ↳ Records authors, funders, consultations, excluded voices,
+                       beneficiaries, decision points and subsequent claims of 🌹 Labour Policy Wheels
+
+This folder examines how Labour policy is developed, financed, inherited, communicated, rebranded and held accountable.
+
+It is rooted in a specific sequence of events: the unusually large May 2026 King’s Speech; the later presentation of many closely related proposals as part of Andy Burnham’s distinctive political programme; ongoing questions about Labour donations, private access and the outsourcing or privatisation of policy development; and the Farage, Count Binface and red-fox electoral spectacle, which showed both the value and the limits of satirical anti-authoritarian politics.
+
+The central issue is not simply whether one politician copied another. Policies have long and often obscured lineages. They may emerge through government departments, councils, trade unions, think tanks, consultancies, donors, campaign groups and earlier party programmes before becoming attached to a particular leader or political brand.
+
+The folder therefore asks:
+
+* what had already been proposed, and when;
+* who helped develop, finance or promote it;
+* what genuinely changes when a policy is reintroduced;
+* whether power, money and delivery are actually redistributed;
+* who receives credit for workable policy;
+* who inherits responsibility for failure;
+* and which obvious material problems remain unaddressed by a party claiming to represent working people.
+
+The analysis is not intended to displace opposition to Farage or other authoritarian political projects. Satire, electoral disruption and anti-authoritarian contest remain important. But they must be able to coexist with serious scrutiny of Labour’s leadership, donors, policy networks and institutional choices. Attention is not the same as accountability, and one spectacular political event should not be allowed to erase slower questions about policy authorship and public power.
+
+The folder uses disability justice, anti-racism and broader anti-discrimination principles as part of its basic policy test. It rejects a narrow image of the working class composed only of continuously employed, non-disabled workers. Disabled people, carers, migrants, tenants, precarious workers, unemployed people, pensioners and people performing unpaid labour all belong within the material analysis.
+
+Its approach to growth is similarly selective and pro-social. “Degrowth” does not mean managed destitution, service withdrawal or green austerity. It means shrinking extraction, waste, rents, pollution and unnecessary private monopoly while expanding housing, care, health, accessibility, public transport, clean energy, education and collective security.
+
+The governing question is therefore broader than who owns the policy wheel:
+
+Who designed it, who paid for access, who is permitted to steer it, what is meant to grow or shrink, whose life becomes easier, and whose security is still being used as the balancing item?
