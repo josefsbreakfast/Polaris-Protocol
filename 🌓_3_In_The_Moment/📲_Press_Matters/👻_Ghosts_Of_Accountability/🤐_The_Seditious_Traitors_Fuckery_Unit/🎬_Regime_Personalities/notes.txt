@@ -1,9 +1,9 @@
 🎬_Regime_Personalities/
 ├── 🍊_donald_trump_the_keystone_personality.md
 ├── 💄_jd_vance_and_ideological_reproduction.md
-├── 🌐_marco_rubio_and_diplomatic_coercion.md
-├── 🕵️_kash_patel_and_investigative_retribution.md
-├── 🎖️_pete_hegseth_and_military_loyalty.md
+├── 👞_marco_rubio_and_diplomatic_coercion.md
+├── 🍺_kash_patel_and_investigative_retribution.md
+├── 🥃_pete_hegseth_and_military_loyalty.md
 └── 🧬_how_the_system_reproduces_without_direct_orders.md
 
 ---
