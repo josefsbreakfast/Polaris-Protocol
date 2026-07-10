@@ -11,3 +11,654 @@
             │
 
 ---
+
+🕵️ The FBI Director’s Advisory Team
+
+* Establish what is publicly known about the FBI Director’s Advisory Team and what remains based on reporting rather than official disclosure.
+* Reported internal nickname:
+    * “payback squad.”
+* Reported function:
+    * handling politically sensitive investigations involving perceived enemies of Trump and the administration;
+    * developing possible cases against former senior officials;
+    * pursuing investigative theories connected to alleged prior weaponisation of government.
+* Explain why the official name matters:
+    * “advisory team” sounds consultative;
+    * reporting describes an investigative function;
+    * bland institutional naming can conceal unusual operational purpose.
+* Examine its position relative to:
+    * the FBI director;
+    * ordinary field offices;
+    * headquarters divisions;
+    * DOJ prosecutors;
+    * the Weaponization Working Group.
+* Questions to cover:
+    * who selected the agents?
+    * what criteria determine which cases reach the team?
+    * who provides legal supervision?
+    * which field offices or prosecutors receive referrals?
+    * what written mandate exists?
+    * what safeguards prevent political case selection?
+* Cover the reported expectation that agents build cases resembling those pursued against other former officials.
+* Examine whether the team begins with:
+    * predicating evidence;
+    * an identified offence;
+    * a politically selected person;
+    * a request from senior leadership.
+* Possible case examples:
+    * John Brennan;
+    * James Comey;
+    * John Bolton;
+    * former investigators connected to Trump and Russia inquiries;
+    * former officials connected to election or classified-records disputes.
+* Distinguish:
+    * ordinary FBI investigative teams;
+    * special project teams;
+    * director-level advisory structures;
+    * politically selected investigative units.
+* Important caution:
+    * the FBI has disputed or qualified descriptions of a formally named “payback squad”;
+    * distinguish the reported nickname from the official institutional title.
+* Important caution:
+    * do not treat the existence of an investigation as proof of fabricated evidence.
+* Important sources:
+    * NOTUS investigation identifying the team and reported nickname. (NOTUS)
+    * FBI public descriptions of its ordinary investigative programmes for comparison. (FBI)
+    * DOJ charging documents and court records in any cases reportedly developed through the team.
+    * congressional correspondence requesting information about the team.
+* Link to:
+    * 🔍_person_first_offence_second.md;
+    * ⚔️_the_weaponization_working_group.md;
+    * 🧩_the_interagency_weaponization_layer.md;
+    * 🕵️_kash_patel_and_investigative_retribution.md;
+    * 🕵️_investigations_of_named_enemies.md.
+* Open questions:
+    * does the team possess a written charter?
+    * what are its evidential thresholds?
+    * which investigations has it initiated, inherited or redirected?
+    * how much operational authority rests with Patel personally?
+    * where does the team sit within ordinary FBI oversight and inspection systems?
+
+⚔️ The Weaponization Working Group
+
+* Set out the DOJ Weaponization Working Group as a formally acknowledged body established by Attorney General Pam Bondi.
+* Use the founding memorandum as the primary source for its remit.
+* Stated purpose:
+    * reviewing alleged politicisation and weaponisation of law enforcement under prior administrations;
+    * identifying misconduct;
+    * recommending remedial or prosecutorial action.
+* Named areas in the founding memorandum include:
+    * Special Counsel Jack Smith’s investigations;
+    * the Mar-a-Lago search;
+    * prosecutions of Trump in New York;
+    * January 6 investigations and prosecutions;
+    * the FBI memorandum concerning traditionalist Catholics;
+    * school-board and parental-rights disputes;
+    * prosecutions under the FACE Act.
+* Explain the conceptual inversion:
+    * a body created to investigate political weaponisation can itself become politically tasked.
+* Examine leadership:
+    * original role of Ed Martin;
+    * later changes in responsibility or oversight;
+    * relationship with the attorney general, deputy attorney general and pardon office.
+* Cover its possible outputs:
+    * reports;
+    * referrals;
+    * disciplinary recommendations;
+    * reopened investigations;
+    * criminal cases;
+    * policy reversal;
+    * public exoneration of movement allies.
+* Examine how the group constructs continuity between:
+    * Trump’s personal legal grievances;
+    * January 6 defendants;
+    * anti-abortion activists;
+    * conservative Christians;
+    * parents in school-board disputes.
+* Explain how this produces a shared victimhood category around MAGA constituencies.
+* Case examples:
+    * review of FACE Act prosecutions;
+    * review of January 6 cases;
+    * scrutiny of prosecutors and agents involved in Trump investigations;
+    * reports framed as documenting Biden-era political enforcement.
+* Important distinction:
+    * retrospective policy review;
+    * internal disciplinary investigation;
+    * criminal investigation;
+    * partisan narrative production.
+* Important caution:
+    * some previous enforcement decisions may legitimately deserve review;
+    * the issue is whether the review applies consistent standards and independent evidence.
+* Important sources:
+    * Bondi memorandum establishing the working group. (Department of Justice)
+    * DOJ releases identifying reports or outputs from the group. (Department of Justice)
+    * DOJ personnel statements concerning its leadership.
+    * court filings resulting from any referrals.
+* Link to:
+    * 🕵️_the_fbi_directors_advisory_team.md;
+    * 🧩_the_interagency_weaponization_layer.md;
+    * 🛠️_entrepreneurial_repression.md;
+    * 🕵️_investigations_of_named_enemies.md;
+    * 🕊️_pardons_and_selective_impunity.md.
+* Open questions:
+    * what investigative authority does the group possess directly?
+    * which matters has it referred for prosecution?
+    * how are cases selected?
+    * are career prosecutors involved in evidential review?
+    * what records are being created and retained?
+    * does the group examine alleged weaponisation benefiting Republicans as well as harming them?
+
+🧩 The Interagency Weaponization Layer
+
+* Map the wider network through which the weaponisation agenda moves beyond one DOJ working group.
+* Potential participating institutions:
+    * White House;
+    * DOJ;
+    * FBI;
+    * DHS;
+    * State Department;
+    * Treasury;
+    * IRS;
+    * intelligence agencies;
+    * OMB;
+    * Department of Defense;
+    * inspectors general;
+    * federal contracting offices.
+* Central claim:
+    * political-policing effects can emerge through several agencies applying distinct authorities to the same target or enemy category.
+* Identify possible coordination mechanisms:
+    * presidential memoranda;
+    * executive orders;
+    * National Security Council processes;
+    * attorney-general memoranda;
+    * interagency task forces;
+    * referral agreements;
+    * information-sharing;
+    * White House policy councils;
+    * informal senior-official contact.
+* Distinguish:
+    * a formally constituted interagency group;
+    * several linked task forces;
+    * ordinary agency cooperation;
+    * political alignment without documented coordination.
+* Trace common language:
+    * weaponisation;
+    * censorship;
+    * deep state;
+    * organised political violence;
+    * anti-Christian bias;
+    * national-security risk;
+    * election interference.
+* Examine whether the same target can move between:
+    * public designation;
+    * security review;
+    * financial scrutiny;
+    * investigation;
+    * contracting consequences;
+    * immigration action.
+* Case examples:
+    * law-firm orders requiring action across clearances, access and contracts;
+    * presidential memoranda against named former officials;
+    * domestic political-violence strategy involving State, Treasury, DOJ and DHS;
+    * White House directions for agencies to review contracts or access involving targeted organisations.
+* Important caution:
+    * do not treat the phrase “interagency layer” as proof of one secret coordinating committee.
+* Important caution:
+    * distinguish formal tasking documented in orders from inferred operational alignment.
+* Important sources:
+    * NSPM-7 and accompanying White House fact sheet. (The White House)
+    * presidential memoranda requiring action by multiple department and agency heads. (The White House)
+    * law-firm orders directing multi-agency implementation. (The White House)
+    * Reuters cross-sector retribution tracker. (Reuters)
+* Link to:
+    * ⚔️_the_weaponization_working_group.md;
+    * 💣_counterterrorism_and_organized_political_violence.md;
+    * 🔀_how_the_target_is_routed.md;
+    * 🧫_cellular_at_the_edges.md;
+    * 🗺️_the_whole_stfu_apparatus.md.
+* Open questions:
+    * which bodies regularly exchange referrals?
+    * who chairs or coordinates cross-agency work?
+    * where are target lists maintained?
+    * what legal authorities govern information-sharing?
+    * which actions originate in the White House rather than agencies?
+
+💣 Counterterrorism And Organized Political Violence
+
+* Centre the node on the administration’s framework for “domestic terrorism and organized political violence.”
+* Use NSPM-7 as a primary organising document.
+* Identify the participating departments named in the memorandum:
+    * State;
+    * Treasury;
+    * Justice;
+    * Homeland Security.
+* Examine the political categories described or implied:
+    * Antifa;
+    * organised left-wing violence;
+    * political intimidation;
+    * funding networks;
+    * nonprofit and donor support;
+    * radicalisation;
+    * coordinated disruption.
+* Explain the route by which political opposition can be reframed:
+    * protest;
+    * disorder;
+    * extremist mobilisation;
+    * organised political violence;
+    * domestic-security target.
+* Cover possible powers activated under this framing:
+    * intelligence collection;
+    * criminal investigation;
+    * financial tracing;
+    * sanctions analysis;
+    * immigration scrutiny;
+    * donor and nonprofit investigation;
+    * cross-border information-sharing.
+* Examine the designation of Antifa as a domestic terrorist organisation despite the absence of an ordinary statutory domestic-terrorist designation regime equivalent to foreign terrorist organisation law.
+* Important legal question:
+    * what practical legal consequences follow from a presidential designation?
+* Cover the risk of network expansion:
+    * suspect;
+    * organiser;
+    * funder;
+    * lawyer;
+    * communications platform;
+    * charity;
+    * protest movement.
+* Explain why terrorism language matters even without terrorism charges:
+    * lowers political tolerance;
+    * legitimises secrecy;
+    * expands associational scrutiny;
+    * raises perceived danger;
+    * alters institutional risk calculations.
+* Distinguish:
+    * investigation of actual political violence;
+    * intelligence-led prevention;
+    * ideological surveillance;
+    * criminalisation of association or protest.
+* Case examples:
+    * NSPM-7;
+    * Antifa designation;
+    * investigations of protest funding;
+    * immigration cases involving allegations of support for prohibited organisations;
+    * scrutiny of universities or nonprofits connected to protest.
+* Important caution:
+    * actual political violence and threats require legitimate investigation;
+    * the concern is politically asymmetric definition and expansion beyond violent conduct.
+* Important sources:
+    * NSPM-7. (The White House)
+    * White House fact sheet describing the strategy. (The White House)
+    * presidential action purporting to designate Antifa. (The White House)
+    * DOJ and DHS implementation documents.
+    * Treasury materials concerning financial networks.
+* Link to:
+    * 🧩_the_interagency_weaponization_layer.md;
+    * 🛂_immigration_as_political_discipline.md;
+    * 💰_tax_finance_and_nonprofit_pressure.md;
+    * 🎯_how_a_target_is_selected.md;
+    * 🚨_what_makes_a_secret_police.md.
+* Open questions:
+    * what investigative thresholds apply?
+    * what financial or intelligence records are being sought?
+    * how is ideology distinguished from violent conduct?
+    * what role do nonprofit status and donor records play?
+    * what oversight applies to domestic political intelligence?
+
+🛂 Immigration As Political Discipline
+
+* Explain why immigration powers are unusually attractive for political discipline:
+    * broad executive discretion;
+    * civil rather than criminal proceedings;
+    * detention before final adjudication;
+    * limited access to some forms of evidence;
+    * national-security and foreign-policy grounds;
+    * immediate consequences for study, work and family life.
+* Cover the main enforcement routes:
+    * visa revocation;
+    * cancellation of status;
+    * detention;
+    * removal proceedings;
+    * expedited removal;
+    * denaturalisation proceedings;
+    * refusal of entry;
+    * social-media and association review.
+* Explain how immigration consequences can be imposed without proving an ordinary criminal offence.
+* Examine ideological or speech-linked enforcement:
+    * protest activity;
+    * political association;
+    * alleged support for prohibited organisations;
+    * criticism of US foreign policy;
+    * campus organising.
+* Distinguish:
+    * lawful enforcement based on immigration fraud or criminal conduct;
+    * adverse action based on foreign-policy discretion;
+    * political retaliation;
+    * ideological screening.
+* Cover population-level deterrence:
+    * one student detained;
+    * thousands of non-citizens reconsider speech or protest.
+* Examine the role of:
+    * State Department;
+    * DHS;
+    * ICE;
+    * USCIS;
+    * DOJ immigration courts;
+    * intelligence and law-enforcement referrals.
+* Include denaturalisation cautiously:
+    * ordinarily requires proof that citizenship was unlawfully procured or obtained through material concealment;
+    * distinguish existing statutory powers from politically expanded priorities. (Department of Justice)
+* Case examples:
+    * students or academics targeted following pro-Palestinian activity;
+    * visa revocation linked to political expression;
+    * immigration action following public official denunciation;
+    * denaturalisation initiatives framed through terrorism or national-security language.
+* Important caution:
+    * citizenship, visa and immigration categories carry different legal protections.
+* Important caution:
+    * do not collapse legitimate fraud or criminal cases into political-speech cases.
+* Important sources:
+    * State Department visa policy statements;
+    * DHS and ICE records;
+    * habeas and immigration court filings;
+    * DOJ denaturalisation announcements;
+    * university records and statements;
+    * reporting reconstructing public speech and later enforcement.
+* Link to:
+    * 💣_counterterrorism_and_organized_political_violence.md;
+    * 🎯_how_a_target_is_selected.md;
+    * 🔀_how_the_target_is_routed.md;
+    * 🛂_visa_and_deportation_cases.md;
+    * 🌐_marco_rubio_and_diplomatic_coercion.md.
+* Open questions:
+    * who initiates politically salient visa reviews?
+    * what evidence is shared between State and DHS?
+    * how often is classified or undisclosed evidence used?
+    * which speech categories are being treated as foreign-policy risks?
+    * what chilling effects are visible across campuses and immigrant communities?
+
+💰 Tax, Finance And Nonprofit Pressure
+
+* Map the financial and organisational pressure available through:
+    * IRS enforcement;
+    * tax-exempt status;
+    * Treasury intelligence;
+    * sanctions;
+    * banking compliance;
+    * donor scrutiny;
+    * grant controls;
+    * financial-crime investigations.
+* Explain why financial scrutiny has broad network effects:
+    * the target organisation;
+    * directors;
+    * donors;
+    * fiscal sponsors;
+    * banks;
+    * payment processors;
+    * partner charities.
+* Cover possible political routes:
+    * challenging tax-exempt status;
+    * examining prohibited partisan activity;
+    * investigating material support;
+    * tracing protest funding;
+    * freezing grants;
+    * raising banking or sanctions risk.
+* Explain how security framing can convert political association into financial suspicion.
+* Connect to the domestic political-violence framework:
+    * alleged organisers;
+    * funders;
+    * nonprofits;
+    * donor networks;
+    * communications support.
+* Distinguish:
+    * legitimate nonprofit compliance;
+    * campaign-finance enforcement;
+    * ordinary anti-money-laundering controls;
+    * politically selective financial pressure.
+* Comparative questions:
+    * are equivalent organisations investigated equally?
+    * was the review prompted by evidence or political demand?
+    * were public accusations made before formal scrutiny?
+    * did banks or donors withdraw before any finding?
+* Case examples:
+    * proposals to challenge tax-exempt status of liberal or activist organisations;
+    * investigation of organisations alleged to finance political violence;
+    * grant freezes against ideologically disfavoured institutions;
+    * donor scrutiny connected to campus protest or nonprofit advocacy.
+* Important caution:
+    * avoid implying that all nonprofit and donor scrutiny is abusive.
+* Important caution:
+    * banking and financial institutions may act independently under compliance obligations.
+* Important sources:
+    * Treasury and IRS memoranda;
+    * White House domestic political-violence materials;
+    * tax-exemption correspondence;
+    * congressional requests;
+    * nonprofit litigation;
+    * financial institution statements.
+* Link to:
+    * 💣_counterterrorism_and_organized_political_violence.md;
+    * 🧩_the_interagency_weaponization_layer.md;
+    * 🪤_associative_punishment.md;
+    * 🕸️_the_private_sector_as_enforcement_surface.md;
+    * 📋_target_and_method_register.md.
+* Open questions:
+    * have formal tax-exemption reviews been opened?
+    * which organisations were selected and on what basis?
+    * how are donor records being obtained?
+    * what role do banks and payment processors play?
+    * is financial pressure being used where criminal evidence is insufficient?
+
+🪪 Clearances, Personnel And Internal Purges
+
+* Explain security clearances as both access controls and instruments affecting employment, status and professional viability.
+* Cover formal powers:
+    * clearance revocation;
+    * suspension;
+    * rescission of classified access;
+    * removal of unescorted access to secure facilities;
+    * review of associates;
+    * contractor access restrictions.
+* Use presidential memoranda naming specific former officials as unusually direct examples of political target designation through formal state action.
+* Case examples:
+    * Chris Krebs;
+    * Miles Taylor;
+    * John Bolton;
+    * former intelligence officials associated with the Hunter Biden laptop statement;
+    * officials involved in Trump investigations or election-security disputes.
+* Chris Krebs memorandum:
+    * names him as a bad-faith actor;
+    * connects clearance action to election and disinformation disputes;
+    * directs review of conduct and associates. (The White House)
+* Miles Taylor memorandum:
+    * links punitive action to his identity as an internal critic and alleged leaker. (The White House)
+* Wider clearance memorandum:
+    * directs departments and agencies to revoke access from specified people. (The White House)
+* Cover personnel mechanisms:
+    * dismissal;
+    * reassignment;
+    * forced leave;
+    * loss of access;
+    * loyalty screening;
+    * removal of inspectors general;
+    * politicised performance or misconduct reviews.
+* Explain the demonstration effect:
+    * punish former official;
+    * warn current official;
+    * deter future independent action.
+* Distinguish:
+    * legitimate clearance adjudication;
+    * presidential control over access;
+    * punitive naming;
+    * employment retaliation;
+    * national-security necessity.
+* Examine the use of “associates”:
+    * potentially broad target expansion;
+    * unclear definition;
+    * pressure on firms and colleagues.
+* Important caution:
+    * clearance access is legally treated differently from ordinary employment rights;
+    * avoid overstating procedural guarantees.
+* Important caution:
+    * distinguish revocation of an active clearance from symbolic removal of access no longer used.
+* Important sources:
+    * presidential memoranda naming individuals. (The White House)
+    * agency implementation records;
+    * contractor notices;
+    * employment litigation;
+    * inspector-general and congressional correspondence.
+* Link to:
+    * 🧾_procurement_and_commercial_exclusion.md;
+    * 🎯_how_a_target_is_selected.md;
+    * 🏢_employers_contractors_and_clients.md;
+    * 🪪_clearance_and_personnel_cases.md;
+    * 🤫_silence_as_the_output.md.
+* Open questions:
+    * what practical employment consequences followed each action?
+    * how were associates identified?
+    * were ordinary adjudicative processes followed?
+    * which agencies implemented the directives?
+    * how many current officials changed behaviour in response?
+
+🧾 Procurement And Commercial Exclusion
+
+* Explain federal procurement as a major coercive surface because firms, universities and contractors depend on:
+    * contracts;
+    * subcontracts;
+    * grants;
+    * facility access;
+    * security clearances;
+    * regulatory relationships.
+* Cover available mechanisms:
+    * contract termination;
+    * suspension;
+    * debarment;
+    * contract review;
+    * refusal to engage;
+    * restrictions on personnel access;
+    * pressure on clients and business partners.
+* Use the law-firm orders as primary examples:
+    * review of government contracts;
+    * restrictions on access;
+    * consequences extending to clients;
+    * political grievance stated in official documents.
+* Explain the leverage:
+    * government does not need to ban representation;
+    * it can make representation commercially dangerous.
+* Cover secondary commercial effects:
+    * client departure;
+    * insurer concern;
+    * recruitment difficulties;
+    * reputational cost;
+    * loss of clearance-dependent work.
+* Explain how procurement decisions create private enforcement:
+    * firms change behaviour to protect federal business;
+    * clients avoid politically exposed providers;
+    * competitors exploit vulnerability.
+* Distinguish:
+    * ordinary procurement policy;
+    * viewpoint discrimination;
+    * national-security exclusions;
+    * retaliation for clients or political activity.
+* Case examples:
+    * Perkins Coie;
+    * Covington & Burling;
+    * Paul Weiss;
+    * Jenner & Block;
+    * WilmerHale;
+    * Susman Godfrey.
+* Include judicial challenges and rulings as resistance surfaces.
+* Reuters reported that orders against firms raised constitutional concerns because they tied government consequences to representation of Trump’s adversaries. (Reuters)
+* Important caution:
+    * distinguish orders later rescinded, settled, enjoined or invalidated.
+* Important caution:
+    * identify actual implementation rather than relying only on threatened consequences.
+* Important sources:
+    * White House law-firm orders. (The White House)
+    * court judgments and injunctions;
+    * agency implementation records;
+    * federal procurement databases;
+    * client and firm statements;
+    * Reuters legal reporting. (Reuters)
+* Link to:
+    * ⚖️_law_firms_and_denial_of_representation.md;
+    * 🪤_associative_punishment.md;
+    * 🏢_employers_contractors_and_clients.md;
+    * 🏛️_ordinary_letterheads_extraordinary_repression.md;
+    * ⚖️_law_firm_orders.md.
+* Open questions:
+    * which contract reviews were actually completed?
+    * which clients changed firms?
+    * which agencies denied access?
+    * how much behaviour changed before courts intervened?
+    * can commercial damage be repaired after an order is struck down?
+
+🕊️ Pardons And Selective Impunity
+
+* Treat selective impunity as the inverse side of political policing.
+* Central claim:
+    * a system communicates political allegiance not only through whom it punishes, but through whom it protects.
+* Cover available mechanisms:
+    * pardons;
+    * commutations;
+    * dismissal of pending charges;
+    * declination;
+    * sentence reduction;
+    * restoration of employment or status;
+    * public rehabilitation.
+* Use January 6 clemency as the clearest large-scale example.
+* The January 20 proclamation:
+    * commuted named sentences;
+    * granted broad pardons to others convicted of January 6 offences;
+    * directed dismissal with prejudice of pending indictments. (The White House)
+* Examine the narrative attached to clemency:
+    * defendants described as victims or political hostages;
+    * prosecutions described as a grave injustice;
+    * movement violence reframed as persecution.
+* Pair protection of defendants with scrutiny of:
+    * prosecutors;
+    * FBI agents;
+    * judges;
+    * witnesses;
+    * investigators.
+* Explain the resulting political lesson:
+    * action for the movement may be forgiven;
+    * action against the movement may create future exposure.
+* Cover other pardon categories:
+    * political allies;
+    * donors;
+    * business associates;
+    * ideological figures;
+    * people whose cases support the regime narrative.
+* Distinguish:
+    * constitutionally lawful pardon power;
+    * ordinary mercy;
+    * transactional clemency;
+    * political signalling;
+    * selective impunity.
+* Examine whether pardon recipients later:
+    * receive political platforms;
+    * participate in targeting former investigators;
+    * become movement influencers;
+    * benefit from restored networks.
+* Important caution:
+    * the existence of a pardon does not prove that the original prosecution was justified or unjustified.
+* Important caution:
+    * avoid treating all clemency as corruption; analyse pattern, rationale and reciprocal political use.
+* Important sources:
+    * January 6 proclamation. (The White House)
+    * White House January 6 narrative materials. (The White House)
+    * individual clemency grants;
+    * DOJ dismissal records;
+    * Reuters reporting on pardoned defendants and pressure against prosecutors;
+    * public activity of pardon recipients.
+* Link to:
+    * ⚔️_the_weaponization_working_group.md;
+    * 🛡️_crown_movement_and_regime_protection.md;
+    * 📱_supporter_enabled_enforcement.md;
+    * 🛡️_the_regime_defending_itself.md;
+    * 🕵️_investigations_of_named_enemies.md.
+* Open questions:
+    * which recipients later participated in retaliation campaigns?
+    * how were pardon recommendations generated?
+    * were ordinary pardon-office processes used?
+    * what does the contrast between pardoned allies and investigated opponents reveal?
+    * how does selective impunity change future willingness to commit unlawful acts?
