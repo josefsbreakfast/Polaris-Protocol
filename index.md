@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-10 09:32:05 UTC_
+_Generated on 2026-07-10 09:35:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5567,6 +5567,8 @@ _Generated on 2026-07-10 09:32:05 UTC_
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎬_Regime_Personalities/notes.txt)
         - [**👀_Recognition_And_Comparison/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/notes.txt)
+        - [**📲_Media_Tools/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/notes.txt)
         - [**🦈_Target_Routing/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦈_Target_Routing/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦈_Target_Routing/notes.txt)
         - [**🦤_Regime_Logic/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/)
