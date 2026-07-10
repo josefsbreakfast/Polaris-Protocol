@@ -460,4 +460,26 @@ The first turn now gives us:
 9. The evidence layer: where cases are maintained.
 10. The synthesis: what the system ultimately produces.
 
-The structure is substantially sound. The main possible consolidation point is between 🧫_cellular_at_the_edges.md and 🧬_how_the_system_reproduces_without_direct_orders.md, but they are currently distinct enough: one describes architecture, the other reproduction mechanism.
+The structure is substantially sound. The main possible consolidation point is between 🧫_cellular_at_the_edges.md and 🧬_how_the_system_reproduces_without_direct_orders.md, but they are currently distinct enough: one describes architecture, the other reproduction mechanism.  
+
+---
+
+🤐_The_Seditious_Traitors_Fuckery_Unit/
+├── README.md
+│
+├── 🧊_Core/
+├── 🦤_Regime_Logic/
+├── 🦈_Target_Routing/
+├── 🎪_Formal_Apparatus/
+├── 🎬_Regime_Personalities/
+├── ⚖️_Outer_Apparatus/
+├── 👀_Recognition_And_Comparison/
+├── 📲_Media_Tools/
+├── 💼_Casework/
+└── 🧬_Synthesis/
+
+This man makes us do awful a lot of work.  
+Untouchable, my arse.  
+
+---
+
