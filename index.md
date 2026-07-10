@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-10 08:33:11 UTC_
+_Generated on 2026-07-10 08:37:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5558,6 +5558,8 @@ _Generated on 2026-07-10 08:33:11 UTC_
         - [`🕰️_timeline_why_this_is_fractious.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🕰️_timeline_why_this_is_fractious.md)
         - [`🗻_the_manifestation_molehill_core_model.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🗻_the_manifestation_molehill_core_model.md)
         - [`🚪_exit_routes_back_to_democracy.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🚪_exit_routes_back_to_democracy.md)
+      - [**🤐_The_Seditious_Traitors_Fuckery_Unit/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/)
+        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/notes.txt)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/README.md)
     - [**💌_Visible_Ink/**](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/README.md)
