@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-11 16:46:00 UTC_
+_Generated on 2026-07-11 16:48:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5577,7 +5577,6 @@ _Generated on 2026-07-11 16:46:00 UTC_
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦈_Target_Routing/notes.txt)
         - [**🦤_Regime_Logic/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/notes.txt)
           - [`⚡_anticipatory_obedience.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/⚡_anticipatory_obedience.md)
           - [`🏰_court_politics_as_governance.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/🏰_court_politics_as_governance.md)
           - [`👑_personalist_at_the_centre.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/👑_personalist_at_the_centre.md)
