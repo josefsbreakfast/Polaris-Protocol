@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-11 12:25:13 UTC_
+_Generated on 2026-07-11 12:27:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5576,9 +5576,13 @@ _Generated on 2026-07-11 12:25:13 UTC_
         - [**🦈_Target_Routing/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦈_Target_Routing/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦈_Target_Routing/notes.txt)
         - [**🦤_Regime_Logic/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/notes.txt)
+          - [`⚡_anticipatory_obedience.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/⚡_anticipatory_obedience.md)
           - [`🏰_court_politics_as_governance.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/🏰_court_politics_as_governance.md)
           - [`👑_personalist_at_the_centre.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/👑_personalist_at_the_centre.md)
+          - [`🛠️_entrepreneurial_repression.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/🛠️_entrepreneurial_repression.md)
+          - [`🛡️_crown_movement_and_regime_protection.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/🛡️_crown_movement_and_regime_protection.md)
           - [`🧫_cellular_at_the_edges.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/🧫_cellular_at_the_edges.md)
           - [`🧲_the_system_which_needs_the_dictator.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦤_Regime_Logic/🧲_the_system_which_needs_the_dictator.md)
         - [**🧊_Core/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🧊_Core/)
