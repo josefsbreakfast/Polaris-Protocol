@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-12 20:27:57 UTC_
+_Generated on 2026-07-12 20:34:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5583,7 +5583,14 @@ _Generated on 2026-07-12 20:27:57 UTC_
           - [`🧾_procurement_and_commercial_exclusion.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/🧾_procurement_and_commercial_exclusion.md)
           - [`🪪_clearances_personnel_and_internal_purges.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/🪪_clearances_personnel_and_internal_purges.md)
         - [**🎬_Regime_Personalities/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎬_Regime_Personalities/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎬_Regime_Personalities/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎬_Regime_Personalities/notes.txt)
+          - [`🍊_donald_trump_the_keystone_personality.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎬_Regime_Personalities/🍊_donald_trump_the_keystone_personality.md)
+          - [`🍺_kash_patel_and_investigative_retribution.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎬_Regime_Personalities/🍺_kash_patel_and_investigative_retribution.md)
+          - [`👞_marco_rubio_and_diplomatic_coercion.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎬_Regime_Personalities/👞_marco_rubio_and_diplomatic_coercion.md)
+          - [`💄_jd_vance_and_ideological_reproduction.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎬_Regime_Personalities/💄_jd_vance_and_ideological_reproduction.md)
+          - [`🥃_pete_hegseth_and_military_loyalty.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎬_Regime_Personalities/🥃_pete_hegseth_and_military_loyalty.md)
+          - [`🧬_how_the_system_reproduces_without_direct_orders.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎬_Regime_Personalities/🧬_how_the_system_reproduces_without_direct_orders.md)
         - [**👀_Recognition_And_Comparison/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/notes.txt)
         - [**💼_Casework/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/)
