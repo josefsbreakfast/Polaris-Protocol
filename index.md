@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-12 05:42:29 UTC_
+_Generated on 2026-07-12 05:48:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5564,7 +5564,17 @@ _Generated on 2026-07-12 05:42:29 UTC_
         - [**⚖️_Outer_Apparatus/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/⚖️_Outer_Apparatus/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/⚖️_Outer_Apparatus/notes.txt)
         - [**🎪_Formal_Apparatus/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/notes.txt)
+          - [`⚔️_the_weaponization_working_group.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/⚔️_the_weaponization_working_group.md)
+          - [`💣_counterterrorism_and_organized_political_violence.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/💣_counterterrorism_and_organized_political_violence.md)
+          - [`💰_tax_finance_and_nonprofit_pressure.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/💰_tax_finance_and_nonprofit_pressure.md)
+          - [`🔦_the_fbi_directors_advisory_team.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/🔦_the_fbi_directors_advisory_team.md)
+          - [`🕊️_pardons_and_selective_impunity.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/🕊️_pardons_and_selective_impunity.md)
+          - [`🛂_immigration_as_political_discipline.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/🛂_immigration_as_political_discipline.md)
+          - [`🧩_the_interagency_weaponization_layer.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/🧩_the_interagency_weaponization_layer.md)
+          - [`🧾_procurement_and_commercial_exclusion.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/🧾_procurement_and_commercial_exclusion.md)
+          - [`🪪_clearances_personnel_and_internal_purges.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/🪪_clearances_personnel_and_internal_purges.md)
         - [**🎬_Regime_Personalities/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎬_Regime_Personalities/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎬_Regime_Personalities/notes.txt)
         - [**👀_Recognition_And_Comparison/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/)
