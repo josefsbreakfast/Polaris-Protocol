@@ -1,0 +1,10 @@
+🎪_Formal_Apparatus/
+├── 🔦_the_fbi_directors_advisory_team.md
+├── ⚔️_the_weaponization_working_group.md
+├── 🧩_the_interagency_weaponization_layer.md
+├── 💣_counterterrorism_and_organized_political_violence.md
+├── 🛂_immigration_as_political_discipline.md
+├── 💰_tax_finance_and_nonprofit_pressure.md
+├── 🪪_clearances_personnel_and_internal_purges.md
+├── 🧾_procurement_and_commercial_exclusion.md
+└── 🕊️_pardons_and_selective_impunity.md
