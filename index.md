@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-12 21:26:27 UTC_
+_Generated on 2026-07-12 21:28:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5573,7 +5573,10 @@ _Generated on 2026-07-12 21:26:27 UTC_
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/⚖️_Outer_Apparatus/notes.txt)
           - [`⚖️_law_firms_and_denial_of_representation.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/⚖️_Outer_Apparatus/⚖️_law_firms_and_denial_of_representation.md)
           - [`🎓_universities_and_regulatory_siege.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/⚖️_Outer_Apparatus/🎓_universities_and_regulatory_siege.md)
+          - [`🏢_employers_contractors_and_clients.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/⚖️_Outer_Apparatus/🏢_employers_contractors_and_clients.md)
+          - [`📲_influencers_supporters_and_threats.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/⚖️_Outer_Apparatus/📲_influencers_supporters_and_threats.md)
           - [`📺_media_pressure_and_information_control.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/⚖️_Outer_Apparatus/📺_media_pressure_and_information_control.md)
+          - [`🧷_private_litigation_as_punishment.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/⚖️_Outer_Apparatus/🧷_private_litigation_as_punishment.md)
         - [**🎪_Formal_Apparatus/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/notes.txt)
