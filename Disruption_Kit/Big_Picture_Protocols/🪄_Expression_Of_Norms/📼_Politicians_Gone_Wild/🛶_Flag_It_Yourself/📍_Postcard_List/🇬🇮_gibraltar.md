@@ -1,10 +1,12 @@
-# 🇬🇮 Gibraltar  
-SATIRE. SATIRE. SATIRE.  
-Postcard stop for contestants who thought “Gibraltar” meant one rock, one flag, one border queue, one Spain argument, and some monkeys, rather than a living Mediterranean community with self-government, a sovereignty dispute, military history, border politics, caves, cliffs, migratory birds, dolphins, and Barbary macaques who are not here to validate anyone’s constitutional theory.
+# 🇬🇮 Gibraltar
+**First created:** 2026-06-04 | **Last updated:** 2026-07-13  
+*Postcard stop for contestants learning that Gibraltar is a living Mediterranean community, not one rock, one flag, one border queue, one Spain argument, and some monkeys.*  
+
+*If, upon return, we find out you have bothered the macaques? We will be disowning you.*  
 
 ---
 
-## Respect Line
+## 🪬 Respect Line
 
 This node is not laughing at Gibraltar.
 
@@ -30,9 +32,9 @@ The cocktail flag remains under supervision.
 
 ---
 
-## Why You Are Here
+## 📍 Why You Are Here
 
-Gibraltar is stop eight on the Flag It Yourself postcard route.
+Gibraltar is stop eight on the *Flag It Yourself* postcard route.
 
 Contestants may arrive believing Gibraltar is:
 
@@ -56,7 +58,7 @@ Do not feed the monkeys.
 
 ---
 
-## First Postcard: Where Actually Is It?
+## 🗺️ First Postcard: Where Actually Is It?
 
 Gibraltar sits at the southern tip of the Iberian Peninsula, beside the Strait of Gibraltar.
 
@@ -90,7 +92,7 @@ Please write that down before touching the flag packet.
 
 ---
 
-## Name Note: The Rock Is Not The Whole Place
+## 🪨 Name Note: The Rock Is Not The Whole Place
 
 Gibraltar is often called the Rock.
 
@@ -123,7 +125,7 @@ Try holding both facts.
 
 ---
 
-## How It Became An Overseas Territory
+## 📜 How It Became An Overseas Territory
 
 Gibraltar was captured by Anglo-Dutch forces in 1704 during the War of the Spanish Succession.
 
@@ -153,7 +155,7 @@ A serious postcard has to hold:
 - Gibraltarian identity;
 - local democratic wishes;
 - military history;
-- EU/Brexit border implications;
+- EU and Brexit border implications;
 - and the everyday practical life of people who are not abstractions in London or Madrid.
 
 This is why the cocktail flag keeps failing international relations.
@@ -162,11 +164,11 @@ It has no columns for nuance.
 
 ---
 
-## What The Craic Is Now
+## 🏛️ What The Craic Is Now
 
 Gibraltar is a British Overseas Territory.
 
-It has its own elected Parliament and Government, led by a Chief Minister. The monarch is head of state and is represented by the Governor. The UK retains responsibilities in areas such as defence and external affairs.
+It has its own elected Parliament and Government, led by a Chief Minister. The monarch is head of state and is represented by the Governor. The UK retains responsibilities in areas including defence and external affairs.
 
 Spain continues to claim sovereignty over Gibraltar.
 
@@ -179,7 +181,7 @@ Contestants must therefore hold several facts at once:
 - Gibraltar has substantial internal self-government;
 - the UK has continuing responsibilities;
 - Spain’s claim remains politically real;
-- Gibraltarian consent is central to the UK/Gibraltar position;
+- Gibraltarian consent is central to the UK and Gibraltar position;
 - the border is a lived daily reality, not just a diplomatic line.
 
 If the contestant can only say:
@@ -204,13 +206,13 @@ Not near the monkeys.
 
 ---
 
-## Self-Determination Is Not A Prop Either
+## 🗳️ Self-Determination Is Not A Prop Either
 
 Gibraltar is often used as a strong example of local consent.
 
 There is a reason for that.
 
-Gibraltarians have expressed a clear political preference against Spanish sovereignty and against shared sovereignty arrangements.
+Gibraltarians have expressed a clear political preference against Spanish sovereignty and against shared-sovereignty arrangements.
 
 That matters.
 
@@ -237,7 +239,7 @@ The macaques are watching.
 
 ---
 
-## Border Life Is Not A Footnote
+## 🚧 Border Life Is Not A Footnote
 
 Gibraltar’s border with Spain is not just a line on a map.
 
@@ -256,17 +258,249 @@ It affects:
 - identity;
 - and everyday stress.
 
-Contestants may not treat border friction as a dramatic backdrop for speeches.
+Around 15,000 Spanish workers cross into Gibraltar on a working day.
 
-Border management is material.
+For many, the journey is geographically tiny and administratively enormous.
 
-People have to live with it.
+A person may live in La Línea de la Concepción, work a few minutes away in Gibraltar, and still have to cross an international frontier twice a day because several centuries of sovereignty dispute, one Brexit referendum, two states, the European Union, Schengen, customs law, and a very determined fence have all become involved in the commute.
 
-If the contestant wants a strong view about Gibraltar, they must be able to explain what happens at the border when the speech is over.
+Contestants may not treat this as picturesque border atmosphere.
+
+People have jobs to get to.
+
+### 🧱 The Fence Comes Down
+
+From 15 July 2026, Gibraltar and Spain are scheduled to begin provisional implementation of a new post-Brexit border arrangement.
+
+The land-border controls are due to be removed, allowing substantially freer movement between Gibraltar and Spain.
+
+The border fence has stood since 1908.
+
+Its removal is therefore not a minor piece of municipal tidying.
+
+For generations, the frontier has functioned as:
+
+- an immigration checkpoint;
+- a sovereignty marker;
+- a source of queues;
+- a constraint on workers and families;
+- a pressure point in Anglo-Spanish relations;
+- and a physical reminder that national disputes are often experienced by people who did not design them.
+
+Machinery has been dismantling the fence in preparation.
+
+Contestants are reminded that removing a border fence does not mean the underlying history has also been placed in a skip.
+
+### 🛂 The Border Has Not Vanished
+
+The political headline is:
+
+> “The border is being removed.”
+
+The administrative reality is more precise:
+
+> “The land-border controls are being removed, while the effective external border is being relocated.”
+
+Gibraltar is due to align with:
+
+- the Schengen free-movement area;
+- the European customs union;
+- relevant European Union rules for goods.
+
+Travellers arriving directly from places outside Schengen, including the United Kingdom, will instead face passport checks at Gibraltar’s airport and port.
+
+Those checks are expected to involve both Gibraltarian and Spanish officials.
+
+The border has therefore not dissolved into Mediterranean mist.
+
+It has moved from:
+
+- the road;
+- the fence;
+- the commuter queue;
+
+and towards:
+
+- the airport;
+- the port;
+- customs systems;
+- regulatory standards;
+- databases;
+- official responsibilities;
+- and carefully negotiated legal wording.
+
+This may be an enormous practical improvement.
+
+It is not the same thing as there being no border.
+
+Contestants who announce that borders are now merely a state of mind will be directed towards passport control.
+
+### ⚖️ Sovereignty Has Also Not Vanished
+
+Gibraltar remains a British Overseas Territory.
+
+Spain continues to claim sovereignty.
+
+The new arrangement does not transfer Gibraltar to Spain and does not resolve the sovereignty dispute.
+
+Instead, it separates two questions which politicians often insist on stapling together:
+
+1. Who holds sovereignty?
+2. Must ordinary people experience that dispute through queues and physical obstruction every day?
+
+The emerging answer appears to be:
+
+> “The sovereignty dispute can remain unresolved without requiring 15,000 workers to reenact it during the morning commute.”
+
+This is called a practical compromise.
+
+Contestants should not be alarmed.
+
+No cocktail flag has been surrendered.
+
+### 🧩 Brexit Meets Geography
+
+Gibraltar voted by 96% to remain in the European Union in 2016.
+
+This was not difficult to understand.
+
+Gibraltar is:
+
+- British;
+- physically attached to Spain;
+- economically dependent on movement across an EU land border;
+- reliant on Spanish workers;
+- closely connected to European markets;
+- and too small to pretend geography is an optional administrative preference.
+
+Brexit created a particular problem because the United Kingdom left the EU while Gibraltar remained exactly where it had been.
+
+The peninsula did not detach itself from Spain in solidarity.
+
+The Strait did not widen.
+
+La Línea did not move.
+
+The workforce did not teleport.
+
+Eventually, the negotiated answer was to connect Gibraltar more closely to Schengen and the European customs system while preserving its constitutional relationship with Britain.
+
+Contestants may record the following important field observation:
+
+> Geography has once again declined to respect the campaign slogan.
+
+### 📦 What Fluidity Costs
+
+Removing the land-border controls is expected to make life easier for:
+
+- commuters;
+- families;
+- tourists;
+- local businesses;
+- service providers;
+- and people who would prefer not to schedule their lives around frontier queues.
+
+However, easier movement does not mean the arrangement is cost-free.
+
+Goods sold in Gibraltar will need to comply with EU standards.
+
+A new transaction tax is being introduced to replace import duty.
+
+It is expected to begin at 15% in 2026 and later rise to 17%, with higher excise duties on some goods.
+
+Businesses importing from the UK or elsewhere outside the EU may face:
+
+- additional paperwork;
+- regulatory checks;
+- changed tax treatment;
+- new compliance costs;
+- and possible effects on competitiveness.
+
+The agreement therefore exchanges one kind of friction for another.
+
+It reduces visible friction at the fence.
+
+It increases or reorganises friction inside the regulatory system.
+
+This is often how modern borders work.
+
+The queue becomes shorter.
+
+The form becomes longer.
+
+### 💶 La Línea Is Part Of The Story
+
+The agreement cannot be understood by looking only at Gibraltar.
+
+La Línea de la Concepción and the surrounding Andalusian area are economically tied to the territory.
+
+Gibraltar is wealthy.
+
+La Línea has experienced high unemployment and deprivation, with unemployment reported at close to 30%.
+
+Spanish residents provide a substantial share of Gibraltar’s workforce.
+
+Businesses in La Línea depend heavily on customers and economic activity connected to Gibraltar.
+
+The border therefore sits between two places that are:
+
+- politically separate;
+- economically intertwined;
+- geographically adjacent;
+- historically contested;
+- and materially unequal.
+
+Removing routine frontier controls may increase trade, tourism, commuting reliability, and local spending.
+
+It will not automatically resolve the imbalance.
+
+Contestants should resist announcing regional economic transformation before anyone has checked whether the people of La Línea are actually better off.
+
+### 🪜 From Blockade To Open Frontier
+
+In 1969, Francisco Franco’s dictatorship closed the border as part of Spain’s pressure campaign over Gibraltar.
+
+The blockade lasted until 1982.
+
+Families, workers, and neighbouring communities were separated by a dispute conducted through physical restriction.
+
+The 2026 arrangement moves deliberately in the opposite direction.
+
+The historical sequence is approximately:
+
+> capture → treaty → fortification → sovereignty dispute → blockade → reopening → European integration → Brexit disruption → negotiated border removal without sovereignty settlement.
+
+This is considerably more complicated than:
+
+> “British rock. Spain cross.”
+
+Please use the larger postcard.
+
+### 🚨 Provisional Means Provisional
+
+As of 13 July 2026:
+
+- implementation is scheduled to begin on 15 July;
+- the physical border fence is being dismantled;
+- approval by the UK and European Parliaments remains pending;
+- detailed operational arrangements still matter;
+- and the durability of the settlement has not yet been tested.
+
+Contestants must not write:
+
+> “Gibraltar border problem solved forever.”
+
+They may write:
+
+> “A major practical settlement has been reached, subject to legal approval, implementation, and the future behaviour of several governments.”
+
+This is less exciting.
+
+It is also more accurate.
 
 ---
 
-## Military History And Strategic Geography
+## ⚓ Military History And Strategic Geography
 
 Gibraltar has long had military and naval significance because of its position at the entrance to the Mediterranean.
 
@@ -294,7 +528,7 @@ Production does not accept bucket geopolitics.
 
 ---
 
-## People Are Not Scenery
+## 👣 People Are Not Scenery
 
 Gibraltar is not a stage set for British certainty.
 
@@ -305,7 +539,7 @@ Contestants should avoid the following errors:
 - treating the border as decorative;
 - treating self-determination as a slogan rather than a principle;
 - assuming “British” means culturally identical to Britain;
-- ignoring Llanito / local linguistic and cultural distinctiveness;
+- ignoring Llanito and local linguistic and cultural distinctiveness;
 - using military history to flatten civilian life;
 - treating Brexit border effects as admin garnish;
 - assuming “small place” means “small politics”;
@@ -319,18 +553,18 @@ This may take some time.
 
 ---
 
-## Wildlife / Habitat Postcard
+## 🌿 Wildlife And Habitat Postcard
 
 Gibraltar is ecologically distinctive.
 
-A respectful wildlife / habitat postcard should notice:
+A respectful wildlife and habitat postcard should notice:
 
 - Barbary macaques;
 - migratory birds;
 - raptors;
 - seabirds;
 - dolphins offshore;
-- marine life in the Bay / Strait area;
+- marine life in the Bay and Strait area;
 - caves;
 - cliffs;
 - Mediterranean scrub;
@@ -346,7 +580,7 @@ Please stop confusing “small” with “available.”
 
 ---
 
-## Note On Monkeys
+## 🐒 Note On Monkeys
 
 The “monkeys” in this folder refer specifically to Gibraltar’s Barbary macaques.
 
@@ -376,7 +610,7 @@ Please update your notes.
 
 ---
 
-## Macaque Conduct Rules
+## 🚫 Macaque Conduct Rules
 
 Contestants must not:
 
@@ -403,7 +637,7 @@ It will be logged under:
 
 ---
 
-## Dolphins, Birds, Cliffs, And Caves
+## 🐬 Dolphins, Birds, Cliffs, And Caves
 
 The macaques get the fame, but they are not the only wildlife or habitat story.
 
@@ -427,7 +661,7 @@ Show respect.
 
 ---
 
-## Get Some Good Photos Too
+## 📸 Get Some Good Photos Too
 
 Contestants must return with at least one respectful Gibraltar postcard set.
 
@@ -445,7 +679,7 @@ If the contestant cannot produce one decent human-context note after visiting Gi
 
 ---
 
-## Cocktail Flag Warning
+## 🚩 Cocktail Flag Warning
 
 The cocktail flag may not be placed:
 
@@ -477,7 +711,7 @@ Gibraltar is not obliged to be impressed.
 
 ---
 
-## Contestant Field Questions
+## ❓ Contestant Field Questions
 
 Before leaving Gibraltar, contestants must answer:
 
@@ -490,20 +724,34 @@ Before leaving Gibraltar, contestants must answer:
 7. What responsibilities does the UK still retain?
 8. Why is self-determination not a selective toy?
 9. Why is the border not just a line on a map?
-10. Why is strategic geography not the whole story?
-11. Who are the Barbary macaques?
-12. Why must contestants not feed, touch, tease, or politically consult the macaques?
-13. What is one non-macaque habitat or wildlife feature the contestant noticed?
-14. What did the contestant not touch, feed, chase, salute, politicise, border-theatre, or decorate with a cocktail flag?
-15. Did any Gibraltarian, Spanish border worker, official, conservation worker, macaque, dolphin, bird, customs officer, or cliff complain?
+10. What is actually scheduled to be removed from 15 July 2026?
+11. Where will checks on non-Schengen arrivals take place instead?
+12. Why is moving a border different from abolishing one?
+13. Why does Spanish operational involvement not automatically mean Spanish sovereignty?
+14. Why does the economic position of La Línea matter?
+15. What regulatory and tax changes accompany freer movement?
+16. Why did Brexit create an unusually difficult problem for Gibraltar?
+17. Why is provisional implementation not the same as final permanent settlement?
+18. Why is strategic geography not the whole story?
+19. Who are the Barbary macaques?
+20. Why must contestants not feed, touch, tease, or politically consult the macaques?
+21. What is one non-macaque habitat or wildlife feature the contestant noticed?
+22. What did the contestant not touch, feed, chase, salute, politicise, border-theatre, or decorate with a cocktail flag?
+23. Did any Gibraltarian, Spanish border worker, official, conservation worker, macaque, dolphin, bird, customs officer, or cliff complain?
 
-If question fifteen is answered “yes,” the contestant must return to the Local Consent Clause and stop saying “The Rock” until they can say “people.”
+If question twenty-three is answered “yes,” the contestant must return to the Local Consent Clause and stop saying “The Rock” until they can say “people.”
 
 ---
 
-## What This Stop Teaches
+## 🧠 What This Stop Teaches
 
 Gibraltar teaches that a place can be strategically important, locally self-governing, internationally disputed, ecologically distinctive, culturally specific, and full of legally protected macaques at the same time.
+
+It also teaches that a border can become less visible without ceasing to exist.
+
+In July 2026, the fence and daily land-frontier checks are scheduled to come down, while passport controls, customs alignment, regulatory obligations, and official responsibilities are redistributed elsewhere.
+
+The border is being relocated, not simply abolished.
 
 The lesson is not:
 
@@ -511,7 +759,7 @@ The lesson is not:
 
 The lesson is:
 
-> “Here is a Mediterranean Overseas Territory where Gibraltarian identity, self-determination, Spain’s claim, UK responsibilities, border life, military geography, tourism pressure, caves, cliffs, birds, dolphins, and macaque welfare all matter.”
+> “Here is a Mediterranean Overseas Territory where Gibraltarian identity, self-determination, Spain’s claim, UK responsibilities, border life, military geography, tourism pressure, caves, cliffs, birds, dolphins, macaque welfare, Schengen access, customs alignment, and the practical consequences of Brexit all matter.”
 
 Contestants who arrive with slogans may leave understanding that even a strong local-consent case still requires care, facts, humility, and not feeding the monkeys.
 
@@ -521,31 +769,39 @@ Do not ruin it by asking a macaque to validate your foreign policy.
 
 ---
 
-## Footer
+## 📼 Gibraltar-Flavoured Media
 
-Gibraltar is a postcard node inside 📍 Postcard List, part of 🛶 Flag It Yourself.
+- [BBC: “New era for Gibraltar with removal of 118-year-old border controls with Spain”](https://www.bbc.co.uk/news/articles/cwydz60j3eno) — *13 July 2026 report on provisional border removal, Schengen alignment, cross-border workers, and the accompanying customs and tax settlement.*
 
-It exists because “British Overseas Territory” is not one culture, one history, one politics, one habitat, or one reusable Rock analogy.
+---
+
+## 🌌 Constellations
+
+📍 🗺️ 🚧 ⚖️ 🌿 — postcard sovereignty theatre; local consent; relocated borders; overseas-territory complexity; habitat responsibility.  
+
+---
+
+## ✨ Stardust
+
+gibraltar, british overseas territories, sovereignty, self-determination, spain, brexit, schengen, border controls, la línea, barbary macaques
+
+---
+
+## 🏮 Footer
+
+*🇬🇮 Gibraltar* is a living postcard node of the **Polaris Protocol** inside *Flag It Yourself*. It exists because “British Overseas Territory” is not one culture, one history, one politics, one habitat, or one reusable Rock analogy. The node records the difference between symbolic sovereignty claims and the lived systems through which people cross borders, govern themselves, work, conserve habitat, and endure other people’s cocktail-flag certainty.
 
 No politicians were harmed.
 
-Several were asked to stop treating macaques as constitutional witnesses.  
-
----
-
-*Gibraltar-flavoured media:*  
-
-– [BBC: "New era for Gibraltar with removal of 118-year-old border controls with Spain"](https://www.bbc.co.uk/news/articles/cwydz60j3eno)  
-
----
+Several were asked to stop treating macaques as constitutional witnesses.
 
 > 📡 Cross-references:
 >
-> - 📍 Postcard List — territory-by-territory reminders that map-dots are places  
-> - 🛶 Flag It Yourself — parent satire format for map-brain, maritime nostalgia, and cocktail-flag sovereignty theatre  
-> - 🌿 Get Some Good Photos Too — habitat-awareness node for the contestant nature-photo obligation  
-> - 🗺️ The Sun Never Sets On Your To-Do List — the itinerary for contestants attempting the global map-feelings route  
+> - [📍 Postcard List](./) — *territory-by-territory reminders that map-dots are places*  
+> - [🛶 Flag It Yourself](../) — *parent satire format for map-brain, maritime nostalgia, and cocktail-flag sovereignty theatre*  
+> - [📼 Politicians Gone Wild](../../) — *archive route for political performance escaping adult supervision*  
+> - [🪄 Expression Of Norms](../../../) — *wider protocol cluster on public conduct, political signalling, and norm enforcement*  
 
-Survivor authorship is sovereign. Containment is never neutral.
+*Survivor authorship is sovereign. Containment is never neutral.*
 
 _Last updated: 2026-07-13_
