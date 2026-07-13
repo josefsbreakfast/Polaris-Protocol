@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-13 19:46:03 UTC_
+_Generated on 2026-07-13 19:50:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5541,7 +5541,15 @@ _Generated on 2026-07-13 19:46:03 UTC_
           - [`🥃_pete_hegseth_and_military_loyalty.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎬_Regime_Personalities/🥃_pete_hegseth_and_military_loyalty.md)
           - [`🧬_how_the_system_reproduces_without_direct_orders.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎬_Regime_Personalities/🧬_how_the_system_reproduces_without_direct_orders.md)
         - [**👀_Recognition_And_Comparison/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/notes.txt)
+          - [`🌫️_how_authoritarianism_feels_from_inside.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/🌫️_how_authoritarianism_feels_from_inside.md)
+          - [`🏠_when_the_machinery_migrates_home.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/🏠_when_the_machinery_migrates_home.md)
+          - [`🚨_what_makes_a_secret_police.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/🚨_what_makes_a_secret_police.md)
+          - [`🤡_ridiculousness_does_not_cancel_coercion.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/🤡_ridiculousness_does_not_cancel_coercion.md)
+          - [`🧱_why_the_stasi_comparison_is_not_one_to_one.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/🧱_why_the_stasi_comparison_is_not_one_to_one.md)
+          - [`🧳_techniques_exported_to_the_periphery.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/🧳_techniques_exported_to_the_periphery.md)
+          - [`🪞_functions_not_uniforms.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/🪞_functions_not_uniforms.md)
         - [**💼_Casework/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/notes.txt)
         - [**📲_Media_Tools/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/)
