@@ -1,5 +1,5 @@
 # 🪲 Resilience Over Optimisation  
-**First created:** 2026-05-05 | **Last updated:** 2026-05-28  
+**First created:** 2026-05-05 | **Last updated:** 2026-07-13  
 *Examining why survivable systems prioritise adaptability, redundancy, recovery capacity, and distributed resilience over maximum short-term efficiency or optimisation under stable assumptions.*  
 
 ---
@@ -368,6 +368,10 @@ This creates a recurring Exousiological warning:
 🪲 🌊 ⚖️ 🪼 🧠 🌿 🔁 🐙  
 *Resilience, redundancy, adaptive survivability, optimisation fragility, recovery systems, and distributed capacity across complex environments.*
 
+*Further media:*  
+
+- [📹: Al Carns, MP, Chatham House. "We live in the most dangerous time since the Cuban Missile Crisis because Ukraine is becoming unwinnable for Russia."](https://vm.tiktok.com/ZNRorFobo/)  
+
 ---
 
 ## ✨ Stardust  
@@ -396,4 +400,4 @@ It studies:
 
 *Authority is relational. Stewardship is load-bearing. Stability must remain livable.*  
 
-_Last updated: 2026-05-28_
+_Last updated: 2026-07-13_
