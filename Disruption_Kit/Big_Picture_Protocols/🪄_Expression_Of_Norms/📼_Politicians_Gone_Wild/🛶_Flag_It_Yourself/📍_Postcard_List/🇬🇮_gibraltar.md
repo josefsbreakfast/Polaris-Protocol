@@ -529,7 +529,15 @@ It exists because “British Overseas Territory” is not one culture, one histo
 
 No politicians were harmed.
 
-Several were asked to stop treating macaques as constitutional witnesses.
+Several were asked to stop treating macaques as constitutional witnesses.  
+
+---
+
+*Gibraltar-flavoured media:*  
+
+– [BBC: "New era for Gibraltar with removal of 118-year-old border controls with Spain"](https://www.bbc.co.uk/news/articles/cwydz60j3eno)  
+
+---
 
 > 📡 Cross-references:
 >
@@ -540,4 +548,4 @@ Several were asked to stop treating macaques as constitutional witnesses.
 
 Survivor authorship is sovereign. Containment is never neutral.
 
-_Last updated: 2026-06-0
+_Last updated: 2026-07-13_
