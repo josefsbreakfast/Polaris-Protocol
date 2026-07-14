@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-14 08:57:17 UTC_
+_Generated on 2026-07-14 08:59:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1938,7 +1938,6 @@ _Generated on 2026-07-14 08:57:17 UTC_
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20260101_January_2026/**](Disruption_Kit/Field_Logs/20260101_January_2026/)
-      - [`IMG_9309.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9309.png)
       - [`IMG_9310.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9310.png)
       - [`IMG_9311.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9311.png)
       - [`IMG_9312.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9312.png)
@@ -5520,7 +5519,6 @@ _Generated on 2026-07-14 08:57:17 UTC_
           - [`🧬_how_the_system_reproduces_without_direct_orders.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎬_Regime_Personalities/🧬_how_the_system_reproduces_without_direct_orders.md)
         - [**👀_Recognition_And_Comparison/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/notes.txt)
           - [`🌫️_how_authoritarianism_feels_from_inside.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/🌫️_how_authoritarianism_feels_from_inside.md)
           - [`🏠_when_the_machinery_migrates_home.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/🏠_when_the_machinery_migrates_home.md)
           - [`🚨_what_makes_a_secret_police.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/🚨_what_makes_a_secret_police.md)
@@ -7314,6 +7312,7 @@ _Generated on 2026-07-14 08:57:17 UTC_
             - [`IMG_9306.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9306.png)
             - [`IMG_9307.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9307.png)
             - [`IMG_9308.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9308.png)
+            - [`IMG_9309.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9309.png)
           - [**20260501_May_2026/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260501_May_2026/)
             - [`IMG_9018.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260501_May_2026/IMG_9018.png)
             - [`IMG_9025.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260501_May_2026/IMG_9025.png)
