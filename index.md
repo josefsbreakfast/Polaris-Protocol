@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-14 23:53:53 UTC_
+_Generated on 2026-07-14 23:58:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5496,7 +5496,6 @@ _Generated on 2026-07-14 23:53:53 UTC_
           - [`🪞_functions_not_uniforms.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/🪞_functions_not_uniforms.md)
         - [**💼_Casework/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/notes.txt)
           - [`⚖️_law_firm_orders.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/⚖️_law_firm_orders.md)
           - [`🎓_university_funding_cases.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/🎓_university_funding_cases.md)
           - [`📋_target_and_method_register.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/📋_target_and_method_register.md)
