@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-14 17:06:39 UTC_
+_Generated on 2026-07-14 17:43:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5498,7 +5498,6 @@ _Generated on 2026-07-14 17:06:39 UTC_
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/notes.txt)
         - [**📲_Media_Tools/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/notes.txt)
           - [`🎙️_questions_for_press_briefings.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/🎙️_questions_for_press_briefings.md)
           - [`📝_the_stfu_story_template.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/📝_the_stfu_story_template.md)
           - [`📰_the_stfu_reporting_test.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/📰_the_stfu_reporting_test.md)
