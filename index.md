@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-14 20:30:27 UTC_
+_Generated on 2026-07-14 23:35:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5495,7 +5495,15 @@ _Generated on 2026-07-14 20:30:27 UTC_
           - [`🧳_techniques_exported_to_the_periphery.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/🧳_techniques_exported_to_the_periphery.md)
           - [`🪞_functions_not_uniforms.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/👀_Recognition_And_Comparison/🪞_functions_not_uniforms.md)
         - [**💼_Casework/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/notes.txt)
+          - [`⚖️_law_firm_orders.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/⚖️_law_firm_orders.md)
+          - [`🎓_university_funding_cases.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/🎓_university_funding_cases.md)
+          - [`📋_target_and_method_register.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/📋_target_and_method_register.md)
+          - [`📣_public_designation_to_consequence_timelines.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/📣_public_designation_to_consequence_timelines.md)
+          - [`🔍_investigations_of_named_enemies.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/🔍_investigations_of_named_enemies.md)
+          - [`🛂_visa_and_deportation_cases.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/🛂_visa_and_deportation_cases.md)
+          - [`🪪_clearance_and_personnel_cases.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/💼_Casework/🪪_clearance_and_personnel_cases.md)
         - [**📲_Media_Tools/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/README.md)
           - [`🎙️_questions_for_press_briefings.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/🎙️_questions_for_press_briefings.md)
