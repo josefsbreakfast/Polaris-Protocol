@@ -1,5 +1,5 @@
 # 🇬🇮 Gibraltar
-**First created:** 2026-06-04 | **Last updated:** 2026-07-13  
+**First created:** 2026-06-04 | **Last updated:** 2026-07-14  
 *Postcard stop for contestants learning that Gibraltar is a living Mediterranean community, not one rock, one flag, one border queue, one Spain argument, and some monkeys.*  
 
 *If, upon return, we find out you have bothered the macaques? We will be disowning you.*  
@@ -765,19 +765,19 @@ Contestants who arrive with slogans may leave understanding that even a strong l
 
 This is growth.
 
-Do not ruin it by asking a macaque to validate your foreign policy.
-
----
-
-## 📼 Gibraltar-Flavoured Media
-
-- [BBC: “New era for Gibraltar with removal of 118-year-old border controls with Spain”](https://www.bbc.co.uk/news/articles/cwydz60j3eno) — *13 July 2026 report on provisional border removal, Schengen alignment, cross-border workers, and the accompanying customs and tax settlement.*
+Do not ruin it by asking a macaque to validate your foreign policy.  
 
 ---
 
 ## 🌌 Constellations
 
 📍 🗺️ 🚧 ⚖️ 🌿 — postcard sovereignty theatre; local consent; relocated borders; overseas-territory complexity; habitat responsibility.  
+
+*Gibraltar-Flavoured Media:*  
+
+- [📰: BBC: “New era for Gibraltar with removal of 118-year-old border controls with Spain”](https://www.bbc.co.uk/news/articles/cwydz60j3eno) — *13 July 2026 report on provisional border removal, Schengen alignment, cross-border workers, and the accompanying customs and tax settlement.*
+- [📹: "Circumnavigating Gibraltar 🇬🇮"](https://vm.tiktok.com/ZNRoHRVoE/) – *clear no-monkey-bothering signage; no excuses*  
+
 
 ---
 
@@ -804,4 +804,4 @@ Several were asked to stop treating macaques as constitutional witnesses.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-07-13_
+_Last updated: 2026-07-14_
