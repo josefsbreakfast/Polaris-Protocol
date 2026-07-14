@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-14 09:48:39 UTC_
+_Generated on 2026-07-14 09:52:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1938,8 +1938,6 @@ _Generated on 2026-07-14 09:48:39 UTC_
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20260101_January_2026/**](Disruption_Kit/Field_Logs/20260101_January_2026/)
-      - [`IMG_9494.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9494.png)
-      - [`IMG_9495.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9495.png)
       - [`IMG_9496.jpeg`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9496.jpeg)
       - [`IMG_9498.jpeg`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9498.jpeg)
       - [`IMG_9500.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9500.png)
@@ -5502,6 +5500,14 @@ _Generated on 2026-07-14 09:48:39 UTC_
         - [**📲_Media_Tools/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/notes.txt)
+          - [`🎙️_questions_for_press_briefings.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/🎙️_questions_for_press_briefings.md)
+          - [`📝_the_stfu_story_template.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/📝_the_stfu_story_template.md)
+          - [`📰_the_stfu_reporting_test.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/📰_the_stfu_reporting_test.md)
+          - [`🔗_how_to_report_cumulative_pressure.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/🔗_how_to_report_cumulative_pressure.md)
+          - [`🗺️_map_the_apparatus_not_the_scandal.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/🗺️_map_the_apparatus_not_the_scandal.md)
+          - [`🚫_easy_rebuttals_and_false_balance.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/🚫_easy_rebuttals_and_false_balance.md)
+          - [`🧭_how_to_identify_retaliatory_routing.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/🧭_how_to_identify_retaliatory_routing.md)
+          - [`🧷_language_for_different_evidence_levels.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/📲_Media_Tools/🧷_language_for_different_evidence_levels.md)
         - [**🦈_Target_Routing/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦈_Target_Routing/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦈_Target_Routing/README.md)
           - [`🎯_how_a_target_is_selected.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🦈_Target_Routing/🎯_how_a_target_is_selected.md)
@@ -7314,6 +7320,8 @@ _Generated on 2026-07-14 09:48:39 UTC_
             - [`IMG_9454.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9454.png)
             - [`IMG_9455.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9455.png)
             - [`IMG_9457.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9457.png)
+            - [`IMG_9494.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9494.png)
+            - [`IMG_9495.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9495.png)
           - [**20260501_May_2026/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260501_May_2026/)
             - [`IMG_9018.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260501_May_2026/IMG_9018.png)
             - [`IMG_9025.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260501_May_2026/IMG_9025.png)
