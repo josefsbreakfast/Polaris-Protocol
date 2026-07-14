@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-14 08:36:15 UTC_
+_Generated on 2026-07-14 08:37:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1938,7 +1938,6 @@ _Generated on 2026-07-14 08:36:15 UTC_
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20260101_January_2026/**](Disruption_Kit/Field_Logs/20260101_January_2026/)
-      - [`IMG_9286.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9286.png)
       - [`IMG_9287.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9287.png)
       - [`IMG_9288.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9288.png)
       - [`IMG_9289.png`](Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9289.png)
@@ -5522,7 +5521,6 @@ _Generated on 2026-07-14 08:36:15 UTC_
           - [`🧷_private_litigation_as_punishment.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/⚖️_Outer_Apparatus/🧷_private_litigation_as_punishment.md)
         - [**🎪_Formal_Apparatus/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/notes.txt)
           - [`⚔️_the_weaponization_working_group.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/⚔️_the_weaponization_working_group.md)
           - [`💣_counterterrorism_and_organized_political_violence.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/💣_counterterrorism_and_organized_political_violence.md)
           - [`💰_tax_finance_and_nonprofit_pressure.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🎪_Formal_Apparatus/💰_tax_finance_and_nonprofit_pressure.md)
@@ -7315,6 +7313,7 @@ _Generated on 2026-07-14 08:36:15 UTC_
             - [`IMG_9283.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9283.png)
             - [`IMG_9284.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9284.png)
             - [`IMG_9285.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9285.png)
+            - [`IMG_9286.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260101_January_2026/IMG_9286.png)
           - [**20260501_May_2026/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260501_May_2026/)
             - [`IMG_9018.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260501_May_2026/IMG_9018.png)
             - [`IMG_9025.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260501_May_2026/IMG_9025.png)
