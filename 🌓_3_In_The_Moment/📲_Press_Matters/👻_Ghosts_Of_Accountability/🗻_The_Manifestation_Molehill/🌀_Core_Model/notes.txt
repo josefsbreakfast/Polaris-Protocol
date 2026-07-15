@@ -1,4 +1,17 @@
 🌀_Core_Model/
 │   ├── 🗻_the_manifestation_molehill_core_model.md
 │   ├── 🧱_trust_me_bro_as_infrastructure.md
+│   ├── ⏱️_temporal_hygiene_rhythm_not_panic.md
+│   ├── 🌦️_confidence_weather.md
+│   ├── 🔗_risk_transmission_between_systems.md
+│   └── 🌐_cross_border_feedback_loops.md
+
+---
+
+
+
+
+🌀_Core_Model/
+│   ├── 🗻_the_manifestation_molehill_core_model.md
+│   ├── 🧱_trust_me_bro_as_infrastructure.md
 │   └── ⏱️_temporal_hygiene_rhythm_not_panic.md
