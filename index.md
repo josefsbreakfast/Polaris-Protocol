@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-15 19:36:52 UTC_
+_Generated on 2026-07-15 19:38:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5457,6 +5457,7 @@ _Generated on 2026-07-15 19:36:52 UTC_
           - [`🧱_trust_me_bro_as_infrastructure.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/🧱_trust_me_bro_as_infrastructure.md)
         - [**👹_Collision_Systems/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/👹_Collision_Systems/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/👹_Collision_Systems/notes.txt)
+          - [`💸_can_the_assets_carry_the_risk.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/👹_Collision_Systems/💸_can_the_assets_carry_the_risk.md)
         - [**🗞️_Media_Practice/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🗞️_Media_Practice/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🗞️_Media_Practice/notes.txt)
           - [`🎙️_how_to_cover_and_interview.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🗞️_Media_Practice/🎙️_how_to_cover_and_interview.md)
@@ -5466,7 +5467,6 @@ _Generated on 2026-07-15 19:36:52 UTC_
           - [`🚪_exit_routes_back_to_democracy.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🧹_Exit_And_Cleanup/🚪_exit_routes_back_to_democracy.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/notes.txt)
-        - [`💸_can_the_assets_carry_the_risk.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/💸_can_the_assets_carry_the_risk.md)
       - [**🤐_The_Seditious_Traitors_Fuckery_Unit/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/)
         - [**⚖️_Outer_Apparatus/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/⚖️_Outer_Apparatus/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/⚖️_Outer_Apparatus/README.md)
