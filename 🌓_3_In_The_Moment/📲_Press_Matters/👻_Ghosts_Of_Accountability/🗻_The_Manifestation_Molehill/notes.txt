@@ -1,3 +1,43 @@
+v2 skeleton:  
+
+🗻_The_Manifestation_Molehill/
+├── README.md
+│
+├── 1_Orientation/
+│   ├── 🧭_start_here_for_journalists.md
+│   ├── 🌊_why_the_news_feels_overwhelming.md
+│   └── 🕰️_timeline_why_this_is_fractious.md
+│
+├── 2_Core_Model/
+│   ├── 🗻_the_manifestation_molehill_core_model.md
+│   ├── 🧱_trust_me_bro_as_infrastructure.md
+│   └── ⏱️_temporal_hygiene_rhythm_not_panic.md
+│
+├── 3_Collision_Systems/
+│   ├── 💰_far_right_political_finance.md
+│   ├── 🪙_crypto_and_stablecoin_lobbying.md
+│   ├── 🤖_ai_market_confidence.md
+│   ├── ⚔️_war_sanctions_and_workarounds.md
+│   ├── 📺_media_ownership_and_platform_power.md
+│   ├── 🧾_donor_provenance_and_civil_liability.md
+│   └── 🌫️_public_distrust_and_algorithmic_overload.md
+│
+├── 4_Media_Practice/
+│   ├── 📺_media_cycle_capture.md
+│   ├── 📰_quality_as_click_resilience.md
+│   ├── 🎙️_how_to_cover_and_interview.md
+│   ├── 🃏_how_to_cover_farce_without_becoming_it.md
+│   └── 🏘️_local_journalism_as_resilience_infrastructure.md
+│
+└── 5_Exit_And_Cleanup/
+    ├── 🚪_exit_routes_from_confidence_cults.md
+    ├── 🧭_citizen_routes_back_to_democracy.md
+    ├── 🧹_cleanup_map_who_carries_the_cost.md
+    └── 📌_editorial_rules_and_question_bank.md
+
+---
+
+
 tldr the men did a thing, its about to fall over, we prob have to clean it up. usual.  
 
 ---
