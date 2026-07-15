@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-15 16:31:12 UTC_
+_Generated on 2026-07-15 16:32:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5540,7 +5540,6 @@ _Generated on 2026-07-15 16:31:12 UTC_
           - [`🥴_the_loser_stasi.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🧊_Core/🥴_the_loser_stasi.md)
         - [**🧬_Synthesis/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🧬_Synthesis/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🧬_Synthesis/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🧬_Synthesis/notes.txt)
           - [`🔁_one_target_many_pressures.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🧬_Synthesis/🔁_one_target_many_pressures.md)
           - [`🗺️_the_whole_stfu_apparatus.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🧬_Synthesis/🗺️_the_whole_stfu_apparatus.md)
           - [`🛡️_the_regime_defending_itself.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🧬_Synthesis/🛡️_the_regime_defending_itself.md)
