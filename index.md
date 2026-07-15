@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-15 16:36:28 UTC_
+_Generated on 2026-07-15 16:37:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5546,6 +5546,7 @@ _Generated on 2026-07-15 16:36:28 UTC_
           - [`🤐_the_output_is_stfu.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🧬_Synthesis/🤐_the_output_is_stfu.md)
           - [`🧠_anticipatory_obedience_is_the_product.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🧬_Synthesis/🧠_anticipatory_obedience_is_the_product.md)
           - [`🧬_what_survives_the_dictator.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🧬_Synthesis/🧬_what_survives_the_dictator.md)
+        - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/notes.txt)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/README.md)
     - [**💌_Visible_Ink/**](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/)
