@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-15 19:31:25 UTC_
+_Generated on 2026-07-15 19:32:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5455,6 +5455,8 @@ _Generated on 2026-07-15 19:31:25 UTC_
           - [`⏱️_temporal_hygiene_rhythm_not_panic.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/⏱️_temporal_hygiene_rhythm_not_panic.md)
           - [`🗻_the_manifestation_molehill_core_model.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/🗻_the_manifestation_molehill_core_model.md)
           - [`🧱_trust_me_bro_as_infrastructure.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/🧱_trust_me_bro_as_infrastructure.md)
+        - [**👹_Collision_Systems/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/👹_Collision_Systems/)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/👹_Collision_Systems/notes.txt)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/notes.txt)
         - [`🎙️_how_to_cover_and_interview.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🎙️_how_to_cover_and_interview.md)
