@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-15 19:28:46 UTC_
+_Generated on 2026-07-15 19:31:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5450,14 +5450,17 @@ _Generated on 2026-07-15 19:28:46 UTC_
           - [`🌊_why_the_news_feels_overwhelming.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/✨_Orientation/🌊_why_the_news_feels_overwhelming.md)
           - [`🕰️_timeline_why_this_is_fractious.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/✨_Orientation/🕰️_timeline_why_this_is_fractious.md)
           - [`🧭_start_here_for_journalists.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/✨_Orientation/🧭_start_here_for_journalists.md)
+        - [**🌀_Core_Model/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/notes.txt)
+          - [`⏱️_temporal_hygiene_rhythm_not_panic.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/⏱️_temporal_hygiene_rhythm_not_panic.md)
+          - [`🗻_the_manifestation_molehill_core_model.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/🗻_the_manifestation_molehill_core_model.md)
+          - [`🧱_trust_me_bro_as_infrastructure.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/🧱_trust_me_bro_as_infrastructure.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/notes.txt)
-        - [`⏱️_temporal_hygiene_rhythm_not_panic.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/⏱️_temporal_hygiene_rhythm_not_panic.md)
         - [`🎙️_how_to_cover_and_interview.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🎙️_how_to_cover_and_interview.md)
         - [`💸_can_the_assets_carry_the_risk.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/💸_can_the_assets_carry_the_risk.md)
         - [`📰_quality_as_click_resilience.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/📰_quality_as_click_resilience.md)
         - [`📺_media_cycle_capture.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/📺_media_cycle_capture.md)
-        - [`🗻_the_manifestation_molehill_core_model.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🗻_the_manifestation_molehill_core_model.md)
         - [`🚪_exit_routes_back_to_democracy.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🚪_exit_routes_back_to_democracy.md)
       - [**🤐_The_Seditious_Traitors_Fuckery_Unit/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/)
         - [**⚖️_Outer_Apparatus/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/⚖️_Outer_Apparatus/)
