@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-15 19:49:53 UTC_
+_Generated on 2026-07-15 19:51:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5448,7 +5448,9 @@ _Generated on 2026-07-15 19:49:53 UTC_
         - [**✨_Orientation/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/✨_Orientation/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/✨_Orientation/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/✨_Orientation/notes.txt)
+          - [`🌉_why_this_is_transatlantic.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/✨_Orientation/🌉_why_this_is_transatlantic.md)
           - [`🌊_why_the_news_feels_overwhelming.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/✨_Orientation/🌊_why_the_news_feels_overwhelming.md)
+          - [`🌍_how_to_use_international_comparisons.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/✨_Orientation/🌍_how_to_use_international_comparisons.md)
           - [`🕰️_timeline_why_this_is_fractious.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/✨_Orientation/🕰️_timeline_why_this_is_fractious.md)
           - [`🧭_start_here_for_journalists.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/✨_Orientation/🧭_start_here_for_journalists.md)
         - [**🌀_Core_Model/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/)
