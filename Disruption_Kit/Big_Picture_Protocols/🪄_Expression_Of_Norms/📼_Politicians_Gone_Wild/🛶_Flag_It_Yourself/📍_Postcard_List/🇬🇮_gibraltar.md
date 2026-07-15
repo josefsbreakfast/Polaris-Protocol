@@ -1,5 +1,5 @@
 # 🇬🇮 Gibraltar
-**First created:** 2026-06-04 | **Last updated:** 2026-07-14  
+**First created:** 2026-06-04 | **Last updated:** 2026-07-15  
 *Postcard stop for contestants learning that Gibraltar is a living Mediterranean community, not one rock, one flag, one border queue, one Spain argument, and some monkeys.*  
 
 *If, upon return, we find out you have bothered the macaques? We will be disowning you.*  
@@ -776,7 +776,8 @@ Do not ruin it by asking a macaque to validate your foreign policy.
 *Gibraltar-Flavoured Media:*  
 
 - [📰: BBC: “New era for Gibraltar with removal of 118-year-old border controls with Spain”](https://www.bbc.co.uk/news/articles/cwydz60j3eno) — *13 July 2026 report on provisional border removal, Schengen alignment, cross-border workers, and the accompanying customs and tax settlement.*
-- [📹: "Circumnavigating Gibraltar 🇬🇮"](https://vm.tiktok.com/ZNRoHRVoE/) – *clear no-monkey-bothering signage; no excuses*  
+- [📹: "Circumnavigating Gibraltar 🇬🇮"](https://vm.tiktok.com/ZNRoHRVoE/) – *clear no-monkey-bothering signage; no excuses*
+- [📰: The Guardian: "Spain and Gibraltar celebrate as border fence falls after signing of ‘historic deal’"](https://www.theguardian.com/world/2026/jul/15/spain-gibraltar-celebrate-deal-signed-border-controls-uk-territory)  
 
 
 ---
@@ -804,4 +805,4 @@ Several were asked to stop treating macaques as constitutional witnesses.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-07-14_
+_Last updated: 2026-07-15_
