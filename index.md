@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-15 19:35:39 UTC_
+_Generated on 2026-07-15 19:36:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5462,10 +5462,11 @@ _Generated on 2026-07-15 19:35:39 UTC_
           - [`🎙️_how_to_cover_and_interview.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🗞️_Media_Practice/🎙️_how_to_cover_and_interview.md)
           - [`📰_quality_as_click_resilience.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🗞️_Media_Practice/📰_quality_as_click_resilience.md)
           - [`📺_media_cycle_capture.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🗞️_Media_Practice/📺_media_cycle_capture.md)
+        - [**🧹_Exit_And_Cleanup/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🧹_Exit_And_Cleanup/)
+          - [`🚪_exit_routes_back_to_democracy.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🧹_Exit_And_Cleanup/🚪_exit_routes_back_to_democracy.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/notes.txt)
         - [`💸_can_the_assets_carry_the_risk.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/💸_can_the_assets_carry_the_risk.md)
-        - [`🚪_exit_routes_back_to_democracy.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🚪_exit_routes_back_to_democracy.md)
       - [**🤐_The_Seditious_Traitors_Fuckery_Unit/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/)
         - [**⚖️_Outer_Apparatus/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/⚖️_Outer_Apparatus/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/⚖️_Outer_Apparatus/README.md)
