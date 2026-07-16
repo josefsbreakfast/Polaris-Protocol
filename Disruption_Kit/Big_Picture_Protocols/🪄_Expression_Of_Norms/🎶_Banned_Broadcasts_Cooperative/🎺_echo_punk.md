@@ -1,6 +1,6 @@
 # 🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures  
 **First created:** 2025-10-22 | **Last updated:** 2026-07-17  
-*When abandoned architecture keeps singing.*
+*When abandoned architecture keeps singing.*  
 
 ---
 
