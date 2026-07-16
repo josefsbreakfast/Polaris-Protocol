@@ -59,10 +59,9 @@ Echo punk treats sound as a commons: a renewable vibration loop between body and
 
 *Further media:*  
 
-The original inspiration for this node was Kai's trumpet, *here*: [TikTok link](https://vm.tiktok.com/ZNdvbn9p7)  
-
-Also appreciated, after writing, was Nathanial's not-quite-impromptu performance, *here*: [TikTok link](https://vm.tiktok.com/ZNdvKJ1Ag)  
-
+The original inspiration for this node was Kai's trumpet:  
+- [🎺: Kaikobaine, "Ma belle Evangeline"](https://vm.tiktok.com/ZNdvbn9p7)  
+- [🎺: Nathanial Young](https://vm.tiktok.com/ZNdvKJ1Ag)  
 - [🗣️: Сталкер Швед, "Градирня на ЧАЕС".](https://vm.tiktok.com/ZNRoEtrP2/)  
 
 
