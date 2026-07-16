@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-16 13:57:29 UTC_
+_Generated on 2026-07-16 13:59:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5457,7 +5457,6 @@ _Generated on 2026-07-16 13:57:29 UTC_
           - [`🧭_start_here_for_journalists.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/✨_Orientation/🧭_start_here_for_journalists.md)
         - [**🌀_Core_Model/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/notes.txt)
           - [`⏱️_temporal_hygiene_rhythm_not_panic.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/⏱️_temporal_hygiene_rhythm_not_panic.md)
           - [`🌐_cross_border_feedback_loops.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/🌐_cross_border_feedback_loops.md)
           - [`🌦️_confidence_weather.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/🌦️_confidence_weather.md)
