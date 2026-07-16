@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-16 04:53:20 UTC_
+_Generated on 2026-07-16 04:55:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5459,6 +5459,9 @@ _Generated on 2026-07-16 04:53:20 UTC_
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/notes.txt)
           - [`⏱️_temporal_hygiene_rhythm_not_panic.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/⏱️_temporal_hygiene_rhythm_not_panic.md)
+          - [`🌐_cross_border_feedback_loops.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/🌐_cross_border_feedback_loops.md)
+          - [`🌦️_confidence_weather.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/🌦️_confidence_weather.md)
+          - [`🔗_risk_transmission_between_systems.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/🔗_risk_transmission_between_systems.md)
           - [`🗻_the_manifestation_molehill_core_model.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/🗻_the_manifestation_molehill_core_model.md)
           - [`🧱_trust_me_bro_as_infrastructure.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/🧱_trust_me_bro_as_infrastructure.md)
         - [**👹_Collision_Systems/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/👹_Collision_Systems/)
