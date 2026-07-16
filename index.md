@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-16 13:59:11 UTC_
+_Generated on 2026-07-16 14:00:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5465,7 +5465,6 @@ _Generated on 2026-07-16 13:59:11 UTC_
           - [`🧱_trust_me_bro_as_infrastructure.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🌀_Core_Model/🧱_trust_me_bro_as_infrastructure.md)
         - [**👹_Collision_Systems/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/👹_Collision_Systems/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/👹_Collision_Systems/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/👹_Collision_Systems/notes.txt)
           - [`⚔️_war_sanctions_and_workarounds.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/👹_Collision_Systems/⚔️_war_sanctions_and_workarounds.md)
           - [`🌫️_public_distrust_and_algorithmic_overload.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/👹_Collision_Systems/🌫️_public_distrust_and_algorithmic_overload.md)
           - [`💰_far_right_political_finance.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/👹_Collision_Systems/💰_far_right_political_finance.md)
