@@ -1,5 +1,5 @@
 # 🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures  
-**First created:** 2025-10-22 | **Last updated:** 2026-05-08  
+**First created:** 2025-10-22 | **Last updated:** 2026-07-17  
 *When abandoned architecture keeps singing.*
 
 ---
@@ -57,10 +57,13 @@ Echo punk treats sound as a commons: a renewable vibration loop between body and
 ## 🌌 Constellations  
 🎶 🪄 🫀 🏗️ — sound culture, reuse ethics, urban emotion, infrastructure care.  
 
-*fURTHER MEDIA:  
+*Further media:*  
 
 The original inspiration for this node was Kai's trumpet, *here*: [TikTok link](https://vm.tiktok.com/ZNdvbn9p7)  
 Also appreciated, after writing, was Nathanial's not-quite-impromptu performance, *here*: [TikTok link](https://vm.tiktok.com/ZNdvKJ1Ag)  
+
+- [🗣️: Сталкер Швед, "Градирня на ЧАЕС".](https://vm.tiktok.com/ZNRoEtrP2/)  
+
 
 ---
 
@@ -89,4 +92,4 @@ It reframes abandoned architecture as civic instrument and explores how sound ca
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-07-17_
