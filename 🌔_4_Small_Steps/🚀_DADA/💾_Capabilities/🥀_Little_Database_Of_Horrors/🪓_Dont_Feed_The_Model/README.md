@@ -1,0 +1,10 @@
+🪓_Dont_Feed_The_Model/README.md
+            │   ├── 🛑_stopping_rules.md
+            │   ├── 🔄_mandatory_review_and_reauthorisation.md
+            │   ├── 🧑‍⚖️_independent_oversight_and_appeal.md
+            │   ├── 🧹_deletion_correction_and_record_separation.md
+            │   ├── 🚫_prohibited_relationship_inferences.md
+            │   ├── 🔒_data_minimisation_and_purpose_limits.md
+            │   ├── 📣_whistleblowing_and_public_interest_disclosure.md
+            │   └── 🧯_when_the_only_safe_fix_is_to_close_the_system.md
+            │
