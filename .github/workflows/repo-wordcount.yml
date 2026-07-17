@@ -14,7 +14,7 @@ env:
   MIN_FOLDER_WORDS: "5000"   # folders under this are flagged as thin
   MAX_ROWS_IN_SUMMARY: "20"  # rows per table in the summary
   # Excluded from "thinnest files" gap lists (but STILL included in totals):
-  GAPS_IGNORE_PATHS: "Polaris_Nest,Disruption_Kit/Field_Logs"
+  GAPS_IGNORE_PATHS: "🏮_Admin_Nest,Disruption_Kit/Field_Logs"
 
 jobs:
   count:
