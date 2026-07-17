@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-17 21:53:15 UTC_
+_Generated on 2026-07-17 21:55:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5995,6 +5995,8 @@ _Generated on 2026-07-17 21:53:15 UTC_
   - [**🚀_DADA/**](🌔_4_Small_Steps/🚀_DADA/)
     - [**💾_Capabilities/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/)
       - [**🥀_Little_Database_Of_Horrors/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/)
+        - [**⚖️_Ethics_And_International_Law/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/)
+          - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/README.md)
         - [**🌍_Regime_And_State_Capability_Studies/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/README.md)
         - [**🌡️_When_The_Pot_Gets_Too_Small/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/)
@@ -6003,8 +6005,12 @@ _Generated on 2026-07-17 21:53:15 UTC_
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/README.md)
         - [**🍄_Signs_The_Plant_Is_Under_Strain/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/README.md)
+        - [**🎭_Language_And_Cover_Stories/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/)
+          - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/README.md)
         - [**🎶_Suddenly_Surveillance/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/README.md)
+        - [**📚_Evidence_And_Reading/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/📚_Evidence_And_Reading/)
+          - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/📚_Evidence_And_Reading/README.md)
         - [**🔎_Is_It_The_Plant_Or_The_Community/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🔎_Is_It_The_Plant_Or_The_Community/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🔎_Is_It_The_Plant_Or_The_Community/README.md)
         - [**🕸️_Community_Protection/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/)
