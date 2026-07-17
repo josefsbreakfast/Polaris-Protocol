@@ -1,0 +1,77 @@
+nb v1, considering sig changes:  
+
+🍉_Palestine_As_Rhizome/
+├── README.md
+├── 🛰️_Orientation/
+│   ├── why_use_the_rhizome_model.md
+│   ├── palestine_remains_central.md
+│   ├── connection_is_not_equivalence.md
+│   └── editorial_guardrails.md
+├── 🥁_Why_They_Are_Still_Marching/
+│   ├── persistence_is_information.md
+│   ├── what_remains_unresolved.md
+│   ├── what_has_changed_since_the_marches_began.md
+│   ├── repetition_is_not_stagnation.md
+│   └── what_would_allow_the_marches_to_end.md
+├── 🕸️_The_Root_Map/
+│   ├── humanitarian_and_civilian_protection.md
+│   ├── international_law_and_accountability.md
+│   ├── colonial_and_anti_racist_routes.md
+│   ├── religious_and_diasporic_routes.md
+│   ├── labour_student_and_professional_routes.md
+│   ├── feminist_queer_and_disability_routes.md
+│   └── anti_war_arms_and_procurement_routes.md
+├── 🏛️_Institutions_At_Home/
+│   ├── parliament_and_government.md
+│   ├── policing_and_public_order.md
+│   ├── universities_and_schools.md
+│   ├── healthcare_and_professional_ethics.md
+│   ├── charities_and_cultural_bodies.md
+│   ├── workplaces_and_trade_unions.md
+│   └── parties_regulators_and_public_appointments.md
+├── 🗞️_The_Reporting_Gap/
+│   ├── event_reporting_without_process.md
+│   ├── crowd_size_without_motive.md
+│   ├── the_search_for_one_representative_protester.md
+│   ├── decontextualised_slogans_and_symbols.md
+│   ├── absent_palestinian_voice.md
+│   ├── protest_policing_without_protest_cause.md
+│   └── why_exceptional_attention_is_the_wrong_question.md
+├── ⚖️_Universal_Until_Tested/
+│   ├── civilian_protection.md
+│   ├── international_law.md
+│   ├── freedom_of_expression.md
+│   ├── protest_rights.md
+│   ├── institutional_neutrality.md
+│   ├── professional_ethics.md
+│   └── consistency_as_a_source_of_legitimacy.md
+├── 🪢_Solidarity_Without_Collapse/
+│   ├── disagreement_inside_the_movement.md
+│   ├── antisemitism_without_collective_indictment.md
+│   ├── islamophobia_and_anti_palestinian_racism.md
+│   ├── jewish_dissent_and_political_representation.md
+│   ├── comparison_without_historical_flattening.md
+│   ├── solidarity_without_appropriation.md
+│   └── palestinian_agency_not_symbolic_use.md
+├── 🌱_What_Repression_Produces/
+│   ├── arrests_and_public_order.md
+│   ├── employment_and_professional_discipline.md
+│   ├── university_sanctions_and_encampments.md
+│   ├── surveillance_and_data_collection.md
+│   ├── funding_donor_and_governance_pressure.md
+│   ├── censorship_and_platform_control.md
+│   └── how_containment_generates_new_roots.md
+├── 🧭_Movement_Legibility/
+│   ├── many_routes_one_march.md
+│   ├── minimum_shared_centre.md
+│   ├── mapping_disagreement_without_fragmenting.md
+│   ├── changing_language_and_tactics.md
+│   ├── local_national_and_transnational_layers.md
+│   └── who_is_not_visible_in_the_march.md
+└── 🧺_Tools/
+    ├── rhizome_mapping_template.md
+    ├── protest_persistence_checklist.md
+    ├── institutional_connection_map.md
+    ├── claim_and_evidence_register.md
+    ├── reporting_questions.md
+    └── comparison_guardrail.md
