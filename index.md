@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-17 21:50:28 UTC_
+_Generated on 2026-07-17 21:52:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6011,10 +6011,14 @@ _Generated on 2026-07-17 21:50:28 UTC_
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/README.md)
         - [**🦷_The_Plant_Has_Teeth/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/README.md)
+        - [**🧪_Investigation_Kit/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/)
+          - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/README.md)
         - [**🧭_Orientation/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧭_Orientation/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧭_Orientation/README.md)
         - [**🩸_Feed_Me_Data/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/README.md)
+        - [**🪓_Dont_Feed_The_Model/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/)
+          - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/README.md)
         - [**🪴_Mushniks_Dashboard/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/README.md)
         - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/notes.txt)
