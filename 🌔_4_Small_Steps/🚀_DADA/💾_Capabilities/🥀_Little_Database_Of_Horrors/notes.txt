@@ -238,3 +238,1688 @@ shabbat shalom feterl x
                 ├── ⚖️_international_law_and_human_rights_sources.md
                 ├── 🏛️_uk_policy_and_protection_frameworks.md
                 └── 🗂️_claims_evidence_and_confidence_register.md
+
+---
+
+🥀 Little Database of Horrors — Cluster Planning Notes
+
+First created: 2026-07-17 | Last updated: 2026-07-17
+Preparatory notes for a DADA capability cluster on relationship mapping, diaspora management, transnational repression, and systems that keep demanding more intimate data because human beings remain inconveniently unpredictable.
+
+⸻
+
+🛰️ Orientation
+
+These notes preserve the intended structure and argument of:
+
+🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/
+
+The cluster examines a foreseeable convergence of:
+
+* state and commercial databases
+* social-graph analysis
+* behavioural and political risk scoring
+* spyware and communications access
+* embassy and consular intelligence
+* family and community pressure
+* platform ranking and recommendation
+* transnational repression
+* administrative and legal leverage
+* systems designed to identify influential relationships
+
+The central question is:
+
+What happens when states move from monitoring diaspora relationships to classifying, constraining, redirecting, or exploiting them?
+
+The cluster does not begin by alleging that one complete system already exists in a particular case.
+
+It begins from a capability-and-incentive warning:
+
+Many of the necessary components already exist.
+Many regimes have strong incentives to combine them.
+The relevant safeguards are fragmented, weak, or designed for less integrated systems.
+
+The Little Shop of Horrors framing supplies the escalation model.
+
+The system begins as a small and apparently useful administrative plant.
+
+It asks for a little data.
+
+Then more data.
+
+Then more intimate data.
+
+Its failure to predict people is treated not as a reason to stop, but as evidence that it has not yet been fed enough.
+
+Feed me data.
+
+⸻
+
+🧿 Core Proposition
+
+A database built to understand, engage, safeguard, monitor, or assess a diaspora can develop into infrastructure for social control when it begins to answer questions such as:
+
+* Who influences whom?
+* Which relationships create political capacity?
+* Who connects dissidents to lawyers, journalists, funders, institutions, or one another?
+* Which family members can be pressured?
+* Which contacts are considered safe?
+* Which relationships can be tolerated while they remain private or emotionally absorptive?
+* Which relationships become dangerous when they produce evidence, protection, organisation, or escape?
+* Who may safely know whom?
+
+The danger does not require perfect control.
+
+A system only needs to alter probabilities:
+
+* fewer introductions
+* more warnings
+* reduced visibility
+* increased exhaustion
+* delayed opportunities
+* redirected attention
+* damaged trust
+* higher costs for consequential relationships
+
+The plant does not need to control every branch.
+
+It only needs to keep pruning the ones it dislikes.
+
+⸻
+
+⚖️ Core Evidentiary Rule
+
+This cluster must preserve a firm distinction between:
+
+* documented capability
+* documented conduct
+* reasonable inference
+* foreseeable abuse
+* untested hypothesis
+* unsupported allegation
+
+The existence of social-graph software does not prove that a state is arranging personal relationships.
+
+An unusual relationship pattern does not prove the existence of a central database.
+
+A regime’s motivation does not prove a particular operation.
+
+The pack should show:
+
+1. what already exists;
+2. what has already been done;
+3. what becomes technically possible when capabilities converge;
+4. what incentives might encourage escalation;
+5. what evidence would be required to establish actual use;
+6. what would weaken or disprove the model.
+
+The smallest supportable claim should always be made first.
+
+⸻
+
+🧭 Orientation
+
+Purpose
+
+This cluster is the front door.
+
+It introduces the Little Database of Horrors as a capability model and explains why relationship management is a logical next frontier of digital authoritarianism and transnational repression.
+
+It should make the subject understandable without asking readers to accept the entire architecture at once.
+
+What It Will Cover
+
+The eventual nodes should establish:
+
+* what the Little Database of Horrors is;
+* why the botanical and Little Shop framing is useful;
+* the difference between surveillance and social management;
+* the meaning of “who may safely know whom”;
+* why diaspora populations may be especially exposed;
+* why the model is plausible without being treated as proven;
+* how to begin with the smallest identifiable mechanism.
+
+🪴_somewhere_thats_green.md should describe the benign promise: a clean, safe, administratively legible community in which engagement, risk, welfare, and influence appear manageable.
+
+🥀_what_is_the_little_database_of_horrors.md should provide the central definition.
+
+🕸️_who_may_safely_know_whom.md should introduce relationship permission as the cluster’s governing question.
+
+🔭_capability_not_allegation.md should establish the claim limits.
+
+🔬_the_smallest_claim_first.md should prevent researchers from beginning with a total architecture when a platform, embassy, contractor, institution, or community intermediary may explain the immediate pattern.
+
+Why It Matters
+
+Readers need a way to think about emerging abuse before a complete public proof case exists.
+
+Waiting for a fully integrated system to be exposed may mean waiting until:
+
+* the infrastructure is entrenched;
+* the categories have hardened;
+* affected communities have already been divided;
+* the system has migrated into ordinary administration;
+* people harmed by it are treated as unreliable because the mechanism is unfamiliar.
+
+Boundaries
+
+This cluster defines the model.
+
+It should not carry the full technical evidence, regional comparisons, investigative method, or legal analysis. Those belong in later branches.
+
+⸻
+
+🩸 Feed Me Data
+
+Purpose
+
+This cluster maps what the plant consumes.
+
+It should show that relationship management does not require one extraordinary source of information. It can emerge from the accumulation and integration of ordinary data sources.
+
+Core Argument
+
+A relationship-control system would be built from fragments:
+
+* phone and messaging metadata;
+* device contents;
+* contact lists;
+* location records;
+* border and travel data;
+* financial transfers;
+* employment and education;
+* protest and event attendance;
+* religious and community participation;
+* family records;
+* immigration and consular files;
+* social-media activity;
+* platform engagement;
+* commercial data;
+* reports from intermediaries.
+
+None of these alone needs to contain a field labelled “dangerous friendship.”
+
+The relationship graph emerges when the records are joined.
+
+What It Will Cover
+
+The branch should explain:
+
+* how social graphs are constructed;
+* what metadata can reveal without reading every message;
+* how weak signals become relationship inferences;
+* how data from different legal purposes can be combined;
+* how intimate, political, financial, and professional relationships become machine-readable;
+* how data brokerage and contractors widen state capability;
+* how uncertainty is hidden when a probabilistic inference is displayed as a clean dashboard result.
+
+Important Distinction
+
+The database may know that two people communicate.
+
+It may not know:
+
+* whether they trust one another;
+* what the relationship means;
+* whether one person is helping, exploiting, avoiding, or investigating the other;
+* whether contact will produce political action;
+* whether the relationship is stable;
+* whether the underlying data are accurate.
+
+This gap between observable contact and human meaning is foundational to the later Audrey II problem.
+
+Evidence Needed
+
+* technical literature on graph analysis;
+* surveillance and spyware capabilities;
+* data-broker and commercial analytics markets;
+* public procurement material;
+* consular and identity-database systems;
+* examples of purpose creep;
+* evidence of family and community mapping;
+* platform recommendation and ranking systems.
+
+Guardrail
+
+The existence of data is not evidence that every possible inference has been made or operationalised.
+
+⸻
+
+🎶 Suddenly Surveillance
+
+Purpose
+
+This cluster marks the transition from collection to prediction and intervention.
+
+It asks when an archive becomes a risk model.
+
+Core Argument
+
+The decisive shift occurs when the system stops asking:
+
+What relationships exist?
+
+and begins asking:
+
+Which relationships are likely to produce outcomes the state dislikes?
+
+The subject of assessment becomes not only the person, but the relationship.
+
+What It Will Cover
+
+The branch should develop possible scoring dimensions such as:
+
+* individual dissent;
+* institutional credibility;
+* public reach;
+* organising capacity;
+* technical or legal skill;
+* cross-community connection;
+* access to money or media;
+* persistence;
+* dependency;
+* vulnerability to pressure;
+* intervention cost;
+* likely reputational consequences;
+* coalition potential.
+
+It should explain why:
+
+Relationship risk is not the same as person risk.
+
+Two people who appear individually manageable may become consequential together because they combine:
+
+* evidence and publication;
+* access and persistence;
+* legal knowledge and testimony;
+* money and organisation;
+* political legitimacy and technical skill;
+* cultural trust and external protection.
+
+Managed Substitutes
+
+This branch should introduce the idea of socially or emotionally satisfying alternatives that do not offer the same political, institutional, or protective capacity.
+
+The claim is not that every similar person is deliberately inserted.
+
+The model asks whether a system might prefer contacts who provide:
+
+* familiarity;
+* attention;
+* cultural recognition;
+* emotional expenditure;
+* prestige;
+* companionship;
+
+while lacking:
+
+* independence;
+* institutional leverage;
+* willingness to act;
+* cross-network access;
+* protection;
+* durable solidarity.
+
+Relationship Caps
+
+A cap is a functional threshold.
+
+A relationship may be tolerated while it remains:
+
+* casual;
+* private;
+* decorative;
+* emotionally consuming;
+* institutionally minor.
+
+Friction may increase when it becomes:
+
+* corroborative;
+* protective;
+* financially useful;
+* legally consequential;
+* politically organised;
+* publicly credible;
+* capable of creating an exit route.
+
+Guardrail
+
+This is a threat model, not a licence to reinterpret every failed friendship, professional relationship, or romance as an operation.
+
+⸻
+
+🪴 Mushnik’s Dashboard
+
+Purpose
+
+This cluster examines the respectable administrative environment in which the system might be proposed, procured, normalised, and defended.
+
+It is the front counter of the shop.
+
+Everything looks clean.
+
+The plant is still in the back.
+
+Core Argument
+
+Intrusive capabilities are rarely introduced under names that clearly describe their most coercive potential.
+
+They may enter institutions as:
+
+* community safeguarding;
+* diaspora engagement;
+* vulnerability assessment;
+* counter-extremism;
+* hostile-state protection;
+* foreign-interference prevention;
+* consular welfare;
+* public-order risk;
+* influence monitoring;
+* social stability;
+* protective intelligence;
+* service coordination.
+
+Many of these are legitimate activities in principle.
+
+The danger lies in:
+
+* unclear purpose;
+* hidden scoring;
+* weak boundaries;
+* reused data;
+* unreviewable judgements;
+* politically elastic categories;
+* systems that expand during crisis.
+
+What It Will Cover
+
+The cluster should examine:
+
+* who commissions the system;
+* who supplies the software;
+* who defines the categories;
+* who supplies community intelligence;
+* who can challenge a classification;
+* whether embassies or foreign ministries retain operational distance;
+* how contractors and intermediaries create plausible deniability;
+* how host-country institutions may become unwitting participants;
+* how “safe” intermediaries acquire gatekeeping power;
+* how responsibility is dispersed until no one appears to have made the decision.
+
+Mushnik’s Role
+
+Mushnik does not need to understand every capability.
+
+He needs the shop to function.
+
+The metaphor should be used to explain institutional complicity through:
+
+* commercial incentives;
+* fear of reputational damage;
+* deference to security language;
+* bureaucratic convenience;
+* unwillingness to inspect the plant too closely.
+
+Evidence Needed
+
+* procurement documents;
+* privacy assessments;
+* diplomatic and consular structures;
+* contractor relationships;
+* information-sharing agreements;
+* safeguarding and counter-extremism programmes;
+* whistleblower testimony;
+* oversight and audit reports.
+
+Guardrail
+
+Do not assume that a benign label is automatically fraudulent.
+
+The task is to test whether the operational system remains proportionate to the stated purpose.
+
+⸻
+
+🦷 The Plant Has Teeth
+
+Purpose
+
+This cluster describes the move from monitoring to active social shaping and coercion.
+
+The plant is no longer merely consuming data.
+
+It is acting on the environment.
+
+Core Argument
+
+Relationship management does not require formal bans.
+
+A state or aligned network can alter social outcomes by changing:
+
+* visibility;
+* timing;
+* reputation;
+* access;
+* cost;
+* confidence;
+* opportunity;
+* emotional capacity.
+
+What It Will Cover
+
+Possible interventions include:
+
+* suppressing introductions;
+* omitting people from events or lists;
+* discouraging collaboration;
+* circulating warnings;
+* controlling invitations;
+* reducing platform visibility;
+* directing approved intermediaries towards targets;
+* increasing administrative friction;
+* pressuring relatives;
+* exploiting immigration or travel dependency;
+* threatening employment or funding;
+* using financial, legal, or reputational pressure;
+* making relationships exhausting or dangerous to maintain;
+* creating misunderstandings and wedge narratives.
+
+Isolation Without Prohibition
+
+A key node should explain how someone can remain surrounded by contact yet lack:
+
+* effective support;
+* credible witnesses;
+* institutional access;
+* durable trust;
+* people willing to act;
+* safe routes out.
+
+The appearance of social inclusion may coexist with practical isolation.
+
+What Makes a Relationship Consequential
+
+The cluster should distinguish relationships that:
+
+* absorb distress;
+
+from relationships that:
+
+* change material conditions.
+
+The system may tolerate emotional discharge while obstructing protection, evidence-building, resource transfer, or coalition.
+
+Guardrail
+
+This branch must remain descriptive and defensive.
+
+It should not become an operational guide for manipulating or isolating people.
+
+⸻
+
+🌱 Cuttings
+
+Purpose
+
+This cluster examines how capabilities spread between states, contractors, agencies, and allied political systems.
+
+One plant becomes many.
+
+Core Argument
+
+Digital authoritarian capabilities travel well because they can be sold as modular tools:
+
+* spyware;
+* biometric identification;
+* social-media monitoring;
+* influence analysis;
+* risk scoring;
+* border systems;
+* identity infrastructure;
+* data fusion;
+* protest monitoring;
+* communications interception.
+
+A state does not need to invent a complete diaspora-management architecture.
+
+It can acquire, adapt, and connect available components.
+
+What It Will Cover
+
+The branch should examine:
+
+* surveillance exports;
+* private contractors;
+* dual-use technologies;
+* security partnerships;
+* shared watchlists;
+* extradition and return cooperation;
+* informal intelligence exchange;
+* host-state assistance;
+* authoritarian learning;
+* allied tolerance of abusive partners;
+* capability transfer after political crises;
+* contractors retaining tools after one project ends.
+
+Authoritarian Collaboration
+
+The cluster should show that transnational repression may be collaborative.
+
+One state may:
+
+* identify a target;
+* another may detain them;
+* a contractor may provide the data;
+* a platform may shape visibility;
+* an airline or border system may supply movement records;
+* a community intermediary may provide context;
+* a diplomatic mission may preserve distance.
+
+Evidence Needed
+
+* export licences;
+* sanctions records;
+* procurement documents;
+* contractor marketing;
+* litigation;
+* investigative reporting;
+* parliamentary and regulatory inquiries;
+* records of rendition, extradition, deportation, and cross-border detention.
+
+Guardrail
+
+Shared technology does not automatically prove shared intent or coordinated targeting.
+
+The branch must trace actual routes.
+
+⸻
+
+🌍 Regime And State Capability Studies
+
+Purpose
+
+This cluster provides the comparative evidence base.
+
+It should prevent the entire subject from being reduced to one familiar example—usually China—while also preventing regional generalisation from replacing evidence.
+
+Core Argument
+
+The relevant question should be asked consistently of every state:
+
+What capability exists, what conduct is documented, what incentive is present, and what safeguards constrain use?
+
+The Middle East and North Africa should receive detailed coverage because many states in the region combine:
+
+* significant diaspora populations;
+* highly centralised political authority;
+* active security institutions;
+* embassy and consular networks;
+* surveillance procurement;
+* political sensitivity to exile communities;
+* family and economic links across borders.
+
+This does not mean that all states have equivalent records or systems.
+
+Comparative Method
+
+Every state study should distinguish:
+
+1. Documented conduct
+2. Documented technical capability
+3. Relevant administrative infrastructure
+4. Political incentive
+5. Known diaspora pressure
+6. Embassy or proxy involvement
+7. Authoritarian cooperation
+8. Host-country response
+9. Publicly identifiable safeguards
+10. Confidence level
+
+Possible confidence categories:
+
+* strong documented record;
+* multiple credible indicators;
+* partial or contested evidence;
+* capability without clear evidence of this use;
+* foreseeable temptation;
+* insufficient public information.
+
+Regional Coverage
+
+The planned regional branches include:
+
+* Middle East and North Africa;
+* East and Southeast Asia;
+* Russia and the post-Soviet space;
+* East and Central Africa;
+* additional global cases;
+* democratic-state temptations;
+* allied complicity and selective blindness.
+
+Middle East And North Africa
+
+The branch should begin broadly rather than naming only adversarial states.
+
+It should examine Iran, Israel, Saudi Arabia, the UAE, Egypt, Türkiye, Bahrain, Qatar, Jordan, Syria, Iraq, Lebanon, Oman, Kuwait, Yemen, and Palestinian governance structures according to the evidence available.
+
+Each state must be assessed separately.
+
+Guardrails
+
+* Do not flatten political systems.
+* Do not imply equivalence where conduct differs.
+* Do not treat a regional identity as a risk marker.
+* Do not confuse a state with its diaspora.
+* Do not treat absence of public evidence as proof of innocence or proof of secrecy.
+* Preserve jurisdiction, date, source quality, and attribution.
+
+⸻
+
+🌡️ When The Pot Gets Too Small
+
+Purpose
+
+This cluster explains how the same system may behave very differently under ordinary and pressured conditions.
+
+This is the principal escalation branch.
+
+Core Argument
+
+A database that appears limited, dormant, or administrative under normal conditions can become coercive when political leaders demand more certainty and control.
+
+Relevant pressure conditions include:
+
+* war;
+* sanctions;
+* protest;
+* revolution;
+* elections;
+* succession;
+* coup fear;
+* diplomatic crisis;
+* terrorism;
+* leadership scandal;
+* international litigation;
+* economic collapse;
+* mass defection.
+
+The System At Rest
+
+Under lower pressure, the system may be used primarily for:
+
+* engagement;
+* monitoring;
+* grant decisions;
+* community outreach;
+* passive intelligence;
+* routine risk assessment.
+
+Errors may remain hidden because consequences are limited or dispersed.
+
+The System Under Pressure
+
+During crisis:
+
+* more people are scored;
+* categories widen;
+* confidence thresholds fall;
+* ambiguous conduct becomes suspicious;
+* relationships are interpreted as networks;
+* networks are interpreted as coordination;
+* dissent is treated as foreign alignment;
+* errors become operational facts;
+* requests for restraint are treated as evidence of concealment.
+
+The Pot Problem
+
+Human communities remain more complex than the model.
+
+When reality no longer fits the available categories, officials may:
+
+* resize the model;
+* add more categories;
+* feed it more data;
+* expand surveillance;
+* increase intervention;
+* blame targets for unpredictability.
+
+The pot gets larger.
+
+The plant grows with it.
+
+Pathway To Severe Abuse
+
+The cluster should show how mass harm can arise without one meeting in which officials consciously decide to commit an international crime.
+
+The pathway may instead be:
+
+1. create a database for a limited purpose;
+2. integrate additional sources;
+3. assign risk categories;
+4. expand categories during crisis;
+5. act on uncertain classifications;
+6. treat resistance as confirmation;
+7. weaken review;
+8. increase coercion;
+9. normalise discriminatory consequences;
+10. continue despite systematic harm.
+
+Guardrail
+
+Escalation is plausible, not inevitable.
+
+The cluster should identify where institutions can still stop, review, delete, narrow, or close the system.
+
+⸻
+
+🥀 The Audrey II Problem
+
+Purpose
+
+This cluster explains why the model is structurally unreliable and institutionally hungry.
+
+It is the intellectual centre of the horror metaphor.
+
+Core Argument
+
+Human relationships cannot be made reliably predictable through accumulating data.
+
+The model’s failures may nevertheless increase its appetite.
+
+The system keeps demanding more intimate data because the last batch did not make human beings predictable enough.
+
+What It Will Cover
+
+Human relationships are unstable variables
+
+People change.
+
+Loyalty, courage, attraction, fear, political belief, dependency, and willingness to act are contextual.
+
+Relationships are not interchangeable
+
+A substitute may resemble someone socially or aesthetically while failing to reproduce:
+
+* shared history;
+* trust;
+* humour;
+* recognition;
+* practical solidarity;
+* moral commitment;
+* complementary skills.
+
+Contact is not meaning
+
+Frequent communication may indicate:
+
+* trust;
+* conflict;
+* investigation;
+* obligation;
+* exploitation;
+* avoidance;
+* care;
+* dependency.
+
+The graph does not contain the whole relationship.
+
+Bias becomes risk
+
+Operators may encode:
+
+* class prejudice;
+* racism;
+* sectarian assumptions;
+* sexism;
+* political conformity;
+* disability prejudice;
+* community gossip;
+* institutional reputation.
+
+A clean score can hide a dirty judgement.
+
+Error becomes concealment
+
+When people behave differently from the prediction, the system may conclude that:
+
+* they are deceptive;
+* a hidden relationship exists;
+* the network is more sophisticated;
+* more surveillance is needed.
+
+The model creates its own evidence
+
+Isolation, harassment, or exclusion may make people angrier, more fearful, or more politically active.
+
+The system then cites that response as confirmation of the original classification.
+
+Administrative Narcissism
+
+The cluster should examine the institutional vanity involved in believing that a dashboard can adequately model:
+
+* love;
+* loyalty;
+* family;
+* solidarity;
+* political awakening;
+* grief;
+* moral courage.
+
+Guardrail
+
+The critique should not imply that all analysis is useless.
+
+The problem is treating probabilistic and partial models as sufficient grounds for coercive action.
+
+⸻
+
+🔎 Is It The Plant Or The Community
+
+Purpose
+
+This cluster is the differential diagnosis.
+
+It asks how to distinguish a shared electronic or administrative system from ordinary community politics and platform effects.
+
+Core Argument
+
+Many apparent signs of social management can arise without central coordination.
+
+Possible alternatives include:
+
+* homophily;
+* class sorting;
+* geography;
+* religious or professional clustering;
+* institutional gatekeeping;
+* platform recommendation;
+* family conflict;
+* gossip;
+* factional politics;
+* prejudice;
+* exhaustion;
+* coincidence.
+
+A useful model must explain something these alternatives do not.
+
+Questions It Must Answer
+
+* Are similar patterns appearing across disconnected settings?
+* Does timing correspond to political or digital activity?
+* Do unrelated institutions use identical categories or language?
+* Are people acting on information they should not plausibly possess?
+* Do the same data errors recur across systems?
+* Are interventions triggered at comparable relationship thresholds?
+* Is there a shared actor, contractor, platform, or institution?
+* Does the pattern remain after ordinary explanations are tested?
+* What observation would disprove electronic coordination?
+
+Signs More Consistent With Community Politics
+
+* local variation;
+* personal language;
+* known interpersonal routes;
+* slow diffusion;
+* faction-specific narratives;
+* inconsistent outcomes;
+* changes following visible disputes.
+
+Signs More Consistent With Shared Data Or Rules
+
+* repeated categories across institutions;
+* rapid simultaneous changes;
+* identical phrasing;
+* stale or merged errors appearing in several places;
+* improbable awareness of weak or private links;
+* interventions across disconnected settings;
+* consistent relationship ceilings;
+* decisions that appear rule-based rather than personal.
+
+Guardrail
+
+The branch should actively resist turning uncertainty into accusation.
+
+It must preserve room for mixed explanations.
+
+A platform, institution, embassy, contractor, and community faction may all contribute without one controlling centre.
+
+⸻
+
+🍄 Signs The Plant Is Under Strain
+
+Purpose
+
+This cluster documents the visible fruiting bodies of a hidden or overloaded process.
+
+The mushroom metaphor works because outsiders may notice surface anomalies after a longer period of unseen activity beneath the social environment.
+
+Core Argument
+
+A strained system should become less elegant.
+
+Its categories, interventions, and substitutes should begin to leak.
+
+The management layer becomes visible through error.
+
+What It Will Cover
+
+Contradictory classifications
+
+A person is treated as:
+
+* irrelevant and dangerous;
+* isolated and highly connected;
+* incompetent and strategically sophisticated;
+* harmless in one context and intolerable in another.
+
+Stale, duplicated, and merged records
+
+Old relationships persist in current assessments.
+
+Different people are conflated.
+
+Corrections fail to propagate.
+
+Identical language
+
+Supposedly independent institutions repeat:
+
+* the same unusual phrase;
+* the same error;
+* the same character judgement;
+* the same unexplained risk category.
+
+Recycled or unsuitable substitutes
+
+The same narrow contact profile appears repeatedly despite poor fit.
+
+The contact satisfies visible surface traits but lacks the same consequential qualities.
+
+Repeated relationship ceilings
+
+Different relationships progress normally until they approach:
+
+* shared work;
+* evidence exchange;
+* institutional access;
+* durable trust;
+* public legitimacy;
+* protection.
+
+Then similar friction appears.
+
+Obvious collaborators kept adjacent but apart
+
+People share:
+
+* events;
+* institutions;
+* networks;
+* causes;
+* mutual contacts;
+
+yet repeatedly fail to meet or work together despite obvious relevance.
+
+Disproportionate intervention
+
+The apparent response is far greater than the conduct would ordinarily justify.
+
+Outsider recognition
+
+People outside the presumed target group begin asking:
+
+* Why does this keep happening?
+* Why are the same people always in the middle?
+* Why do obvious introductions never occur?
+* Why is everyone repeating the same warning?
+* Why does the social environment feel curated but ineffective?
+
+Evidence Standard
+
+No sign proves a database.
+
+The branch should focus on:
+
+* repetition;
+* comparison;
+* independent observation;
+* documentary traces;
+* timing;
+* shared errors;
+* identifiable routes.
+
+Guardrail
+
+Do not encourage people to interpret every social disappointment as evidence of hidden management.
+
+⸻
+
+🧪 Investigation Kit
+
+Purpose
+
+This cluster turns the model into a safe and disciplined investigative method for researchers, journalists, lawyers, affected communities, and oversight bodies.
+
+Core Argument
+
+The investigation must produce better evidence than the system being criticised.
+
+It should not contaminate witnesses, spread accusations, or create new wedges.
+
+What It Will Cover
+
+Observation, inference, hypothesis
+
+Records should separate:
+
+* what happened;
+* what was directly observed;
+* what another person reported;
+* what is inferred;
+* what explanation is being tested;
+* what alternatives remain possible.
+
+Relationship incident logs
+
+Record:
+
+* relationship type;
+* relevant dates;
+* change in access or behaviour;
+* threshold reached;
+* named actor;
+* documentary evidence;
+* ordinary explanation;
+* suspected mechanism;
+* later outcome.
+
+Comparative graphs
+
+Compare patterns across:
+
+* active and inactive community members;
+* cities;
+* institutions;
+* political periods;
+* relationship types;
+* insiders and outsiders;
+* consequential and non-consequential relationships.
+
+Timing trackers
+
+Look for:
+
+* changes after public statements;
+* changes after private communications;
+* changes around travel;
+* changes around protests, litigation, elections, or crises;
+* repeated delay intervals;
+* simultaneous institutional responses.
+
+Language comparison
+
+Track recurring:
+
+* labels;
+* warnings;
+* factual errors;
+* unusual expressions;
+* risk descriptions.
+
+Natural experiments
+
+Compare similar relationships where only one becomes institutionally or politically consequential.
+
+Evidence preservation
+
+Cover:
+
+* contemporaneous notes;
+* original files;
+* metadata;
+* secure storage;
+* access control;
+* lawful handling;
+* source protection;
+* escalation to professionals.
+
+Explicit Safety Rule
+
+Do not conduct amateur counter-intelligence.
+
+Do not:
+
+* bait suspected agents;
+* confront people without evidence;
+* publicly name alleged intermediaries;
+* access accounts or devices unlawfully;
+* endanger relatives;
+* provoke a foreign state;
+* create false identities or entrapment schemes;
+* turn uncertainty into community purges.
+
+Guardrail
+
+The investigation kit should be designed to reduce paranoia, not formalise it.
+
+⸻
+
+🪓 Don’t Feed The Model
+
+Purpose
+
+This cluster covers prevention, stopping rules, oversight, correction, deletion, and closure.
+
+Its question is:
+
+At what point should the institution stop feeding the plant?
+
+Core Argument
+
+A system causing repeated discriminatory or coercive harm should not be allowed to answer every failure by demanding more data.
+
+Some systems require narrowing.
+
+Some require suspension.
+
+Some require deletion.
+
+Some should never be built.
+
+What It Will Cover
+
+* purpose limitation;
+* data minimisation;
+* prohibited inferences;
+* restrictions on intimate and associational data;
+* mandatory review;
+* sunset clauses;
+* independent authorisation;
+* human-rights assessments;
+* appeal and correction;
+* record separation;
+* deletion;
+* auditability;
+* contractor oversight;
+* whistleblowing;
+* remedies;
+* system closure.
+
+Stopping Rules
+
+Possible stopping triggers include:
+
+* repeated false positives;
+* inability to explain outputs;
+* discriminatory impacts;
+* use beyond the original purpose;
+* coercive action based on weak inference;
+* failure to correct data;
+* political direction of categories;
+* retaliation against critics;
+* evidence of family or relationship interference;
+* foreseeable risk of persecution.
+
+Prohibited Relationship Inferences
+
+The cluster should consider whether some uses should be forbidden, including:
+
+* political-risk scoring based on family;
+* relationship scoring without evidence of unlawful conduct;
+* inferring ideological guilt through association;
+* using romantic or intimate data for political classification;
+* suppressing lawful association;
+* automated recommendations designed to obstruct protected activity.
+
+Core Line
+
+The model’s hunger is not a validation metric.
+
+⸻
+
+🕸️ Community Protection
+
+Purpose
+
+This cluster focuses on preserving relationships, trust, redundancy, and routes to support where transnational repression or digital social control is feared.
+
+It is the practical anti-isolation branch.
+
+Core Argument
+
+The strongest community protection is not perfect secrecy.
+
+It is a network that cannot easily be fractured by:
+
+* one rumour;
+* one intermediary;
+* one lost account;
+* one institutional refusal;
+* one family conflict;
+* one corrupted record.
+
+What It Will Cover
+
+Anti-wedge protocols
+
+Communities should develop habits such as:
+
+* verify directly;
+* slow down before severing contact;
+* distinguish disagreement from infiltration;
+* preserve routes for repair;
+* avoid public accusation without evidence;
+* recognise how fear can be manipulated.
+
+Multiple routes to support
+
+No one actor should monopolise access to:
+
+* legal help;
+* journalists;
+* funding;
+* safeguarding;
+* community leadership;
+* mental-health support;
+* political representation.
+
+Family protection
+
+The branch should address the reality that public activity may expose relatives in another jurisdiction.
+
+Guidance must be careful, proportionate, and developed with specialist organisations.
+
+Host-country routes
+
+Map lawful routes through:
+
+* police;
+* protective-security bodies;
+* lawyers;
+* universities;
+* employers;
+* unions;
+* civil society;
+* parliamentarians;
+* journalists;
+* regulators;
+* data-protection authorities.
+
+Relationships The Model Cannot Easily Cap
+
+This should focus on:
+
+* cross-community trust;
+* redundant connections;
+* direct verification;
+* shared records;
+* practical mutual aid;
+* distributed knowledge;
+* links outside one gatekeeping institution.
+
+Guardrails
+
+Community defence must not become:
+
+* loyalty testing;
+* ideological policing;
+* suspicion of outsiders;
+* public naming;
+* harassment;
+* isolation of difficult or traumatised people;
+* retaliation against legitimate disagreement.
+
+The cure must not reproduce the plant.
+
+⸻
+
+⚖️ Ethics And International Law
+
+Purpose
+
+This cluster establishes the rights, duties, attribution problems, and escalation thresholds relevant to relationship mapping and diaspora management.
+
+Core Argument
+
+Association is not an administrative risk externality.
+
+People retain rights to:
+
+* privacy;
+* family life;
+* friendship;
+* intimate life;
+* expression;
+* religion;
+* political participation;
+* association;
+* movement;
+* due process;
+* non-discrimination.
+
+A foreign state’s coercive activity inside a host country also raises questions of:
+
+* sovereignty;
+* diplomatic responsibility;
+* state attribution;
+* host-state protection;
+* complicity;
+* due diligence.
+
+What It Will Cover
+
+Human rights
+
+Potentially relevant frameworks include:
+
+* privacy and family life;
+* expression and association;
+* freedom of religion;
+* non-discrimination;
+* liberty and security;
+* protection from torture and ill-treatment;
+* movement;
+* effective remedy.
+
+Attribution and proxies
+
+The branch should examine when actions by:
+
+* embassies;
+* consulates;
+* contractors;
+* community organisations;
+* private individuals;
+* allied states;
+
+may be legally attributed to a state.
+
+Plausible deniability
+
+Operational distance may complicate proof without removing harm.
+
+Data infrastructure and persecution
+
+The existence of a database is not itself a crime against humanity.
+
+The relevant legal question would concern whether it supports prohibited acts as part of a widespread or systematic attack directed against a civilian population, alongside the required knowledge and offence-specific elements.
+
+The system may become relevant infrastructure for:
+
+* persecution;
+* arbitrary detention;
+* deportation;
+* enforced disappearance;
+* torture;
+* severe deprivation of rights;
+* other qualifying acts.
+
+Duty To Stop
+
+Institutions must not continue a harmful system merely because no one originally intended its final use.
+
+The duty to review grows when:
+
+* purposes change;
+* categories widen;
+* political pressure rises;
+* harms become systematic;
+* errors are known;
+* remedies fail.
+
+Guardrail
+
+Legal terminology must be used precisely.
+
+Do not use “crimes against humanity” as a general synonym for frightening or authoritarian technology.
+
+⸻
+
+🎭 Language And Cover Stories
+
+Purpose
+
+This cluster examines the vocabulary through which intrusive systems are made acceptable.
+
+The issue is not that every benign phrase conceals abuse.
+
+The issue is that benign phrases can prevent scrutiny of operational meaning.
+
+Core Argument
+
+A project may be publicly described as:
+
+* safeguarding;
+* engagement;
+* stability;
+* resilience;
+* extremism prevention;
+* foreign-interference protection;
+* consular welfare;
+* community cohesion;
+* protective monitoring;
+* risk mitigation.
+
+The investigative question is:
+
+What does the system actually permit people to do?
+
+What It Will Cover
+
+For each cover story, examine:
+
+* stated purpose;
+* legal authority;
+* data collected;
+* people included;
+* decision-makers;
+* outputs produced;
+* actions permitted;
+* appeal rights;
+* sharing routes;
+* retention;
+* emergency expansion.
+
+Key Analytical Move
+
+Translate the public phrase into the operational question.
+
+For example:
+
+Diaspora engagement
+
+may mean:
+
+Who is recognised as a legitimate community representative?
+
+Protective monitoring
+
+may mean:
+
+Whose contacts are being recorded and assessed?
+
+Social stability
+
+may mean:
+
+Which relationships are considered politically tolerable?
+
+Foreign-interference prevention
+
+may mean:
+
+Who is treated as a suspect bridge between communities?
+
+Core Line
+
+The scandal may not lie in the programme’s title.
+It may lie in the answer to: who may safely know whom?
+
+⸻
+
+📚 Evidence And Reading
+
+Purpose
+
+This cluster maintains the evidentiary spine.
+
+It should allow every important claim in the pack to be traced, dated, qualified, and revisited.
+
+Core Argument
+
+A capability warning becomes credible when it is assembled from:
+
+* documented transnational repression;
+* known surveillance tools;
+* procurement and contractor evidence;
+* embassy and consular abuse;
+* family coercion;
+* legal and administrative leverage;
+* authoritarian cooperation;
+* platform and graph-analysis capabilities;
+* international law;
+* host-country policy.
+
+What It Will Hold
+
+* case-study index;
+* source register;
+* claims register;
+* confidence ratings;
+* timelines;
+* procurement records;
+* parliamentary material;
+* court cases;
+* sanctions decisions;
+* technical reports;
+* NGO investigations;
+* academic research;
+* journalism;
+* legal frameworks;
+* official guidance.
+
+Claims Register
+
+Each important claim should record:
+
+* exact proposition;
+* jurisdiction;
+* date;
+* source;
+* primary or secondary status;
+* confidence;
+* dispute;
+* what it proves;
+* what it does not prove;
+* relevant nodes.
+
+Source Hierarchy
+
+Prefer:
+
+1. primary legal and official documents;
+2. court records;
+3. procurement and corporate records;
+4. technical research;
+5. established human-rights organisations;
+6. high-quality investigative journalism;
+7. testimony with clear provenance;
+8. commentary and hypothesis.
+
+Guardrail
+
+Do not allow a memorable metaphor to outrun the evidence.
+
+The plant is allowed to be funny.
+
+The claims still need footnotes.
+
+⸻
+
+🗺️ Intended Reader Progression
+
+The eventual reader path should move approximately as follows:
+
+1. 🧭 Orientation — understand the model and its limits.
+2. 🩸 Feed Me Data — see what information already exists.
+3. 🎶 Suddenly Surveillance — understand the shift into scoring and prediction.
+4. 🪴 Mushnik’s Dashboard — see how the system becomes administratively respectable.
+5. 🦷 The Plant Has Teeth — examine active relationship interference.
+6. 🌱 Cuttings — follow the capability across borders and contractors.
+7. 🌍 Regime And State Capability Studies — compare documented examples and incentives.
+8. 🌡️ When The Pot Gets Too Small — understand crisis escalation.
+9. 🥀 The Audrey II Problem — examine model failure and institutional appetite.
+10. 🔎 Is It The Plant Or The Community — test rival explanations.
+11. 🍄 Signs The Plant Is Under Strain — identify externally visible artefacts.
+12. 🧪 Investigation Kit — gather evidence safely.
+13. 🪓 Don’t Feed The Model — establish stopping rules.
+14. 🕸️ Community Protection — preserve relationships and routes to support.
+15. ⚖️ Ethics And International Law — locate rights, duties, attribution, and escalation.
+16. 🎭 Language And Cover Stories — decode administrative presentation.
+17. 📚 Evidence And Reading — audit the underlying case.
+
+⸻
+
+🧌 Goblin TL;DR
+
+The government bought a plant.
+
+The plant wanted some contact data.
+
+Then it wanted family data.
+
+Then political data.
+
+Then relationship scores.
+
+Then everybody behaved in ways the plant had not predicted.
+
+So naturally the plant asked for more people.
+
+Do not feed the plant.
+
+⸻
+
+✨ Short Version
+
+Little Database of Horrors examines how surveillance, risk scoring, social-graph analysis, embassy networks, platform systems, and transnational repression could converge into infrastructure for classifying and shaping relationships within diaspora communities.
+
+The cluster does not require proof that one complete architecture already exists.
+
+It asks whether:
+
+* the components exist;
+* regimes have incentives to combine them;
+* pressure would encourage expansion;
+* errors would produce visible signs;
+* communities and host states can recognise and interrupt the pathway before monitoring becomes persecution.
+
+Human beings are not datasets with inconvenient gaps.
+
+Association is not a defect in the model.
+
+The plant does not need more data.
+
+The institution needs to learn when to stop.
+
+⸻
+
+🏮 Preservation Note
+
+These are cluster-level preparation notes.
+
+They preserve:
+
+* the purpose of each branch;
+* the central argument;
+* the planned scope;
+* the evidence required;
+* the main guardrails;
+* the relationship between clusters.
+
+Individual node instructions can be written later once the branch boundaries and evidence base have settled.
+
+Little Database of Horrors is a living capability cluster of the Polaris Protocol. It contributes to Defence Against Digital Authoritarianism by identifying a foreseeable pathway from diaspora monitoring to relationship management, social containment, and escalating transnational repression.
+
+Survivor authorship is sovereign. Containment is never neutral.
+
+Last updated: 2026-07-17
