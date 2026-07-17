@@ -14,12 +14,12 @@ permissions:
   contents: read
 
 env:
-  MIN_FILE_WORDS: "500"      # Files below this are flagged as thin
-  MIN_FOLDER_WORDS: "5000"   # Folders below this are flagged as thin
-  MAX_ROWS_IN_SUMMARY: "20"  # Rows shown per summary table
+  MIN_FILE_WORDS: "500"
+  MIN_FOLDER_WORDS: "5000"
+  MAX_ROWS_IN_SUMMARY: "20"
 
   # Excluded from file and folder gap reports.
-  # These paths are still included in the repository total.
+  # These paths remain included in repository totals.
   GAPS_IGNORE_PATHS: "🏮_Admin_Nest,Disruption_Kit/Field_Logs"
 
 jobs:
@@ -37,7 +37,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Count words (harsh prose-only) and find gaps
+      - name: Count words and find gaps
         shell: bash
         run: |
           python - <<'PY'
@@ -58,13 +58,10 @@ jobs:
 
           IGNORE_RAW = os.getenv("GAPS_IGNORE_PATHS", "")
 
+
           def normalise_path(path: str) -> str:
               """
-              Convert paths to clean repository-relative POSIX paths.
-
-              Examples:
-                  ./Folder/file.md -> Folder/file.md
-                  Folder\\file.md  -> Folder/file.md
+              Convert a path to a clean, repository-relative POSIX path.
               """
               path = path.replace("\\", "/").strip()
 
@@ -73,15 +70,17 @@ jobs:
 
               return path.strip("/")
 
+
           IGNORE_PREFIXES = [
               normalise_path(path).casefold()
               for path in IGNORE_RAW.split(",")
               if normalise_path(path)
           ]
 
+
           def is_ignored(path: str) -> bool:
               """
-              Match either an exact configured path or anything beneath it.
+              Match an ignored path exactly, or anything beneath it.
               Matching is case-insensitive.
               """
               normalised = normalise_path(path).casefold()
@@ -91,6 +90,7 @@ jobs:
                   or normalised.startswith(prefix + "/")
                   for prefix in IGNORE_PREFIXES
               )
+
 
           # --------------------------------------------------
           # COLLECT FILES
@@ -118,7 +118,6 @@ jobs:
           files = []
 
           for base, dirs, filenames in os.walk(ROOT):
-              # Prevent os.walk from entering excluded technical folders.
               dirs[:] = [
                   directory
                   for directory in dirs
@@ -131,6 +130,7 @@ jobs:
 
                   if path.suffix.casefold() in PROSE_EXTENSIONS:
                       files.append(path)
+
 
           # --------------------------------------------------
           # HARSH PROSE-ONLY WORD COUNT
@@ -146,12 +146,31 @@ jobs:
               re.DOTALL,
           )
 
-          inline_code_re = re.compile(r"`[^`\n]*`")
-          markdown_image_re = re.compile(r"!$begin:math:display$\[\^$end:math:display$]*\]$begin:math:text$\[\^\\n\]\*\?$end:math:text$")
-          markdown_link_re = re.compile(r"$begin:math:display$\(\[\^$end:math:display$]+)\]$begin:math:text$\[\^\\n\]\*\?$end:math:text$")
-          html_re = re.compile(r"<[^>]+>")
-          bare_url_re = re.compile(r"https?://\S+|www\.\S+", re.IGNORECASE)
-          whitespace_re = re.compile(r"\s+")
+          inline_code_re = re.compile(
+              r"`[^`\n]*`"
+          )
+
+          markdown_image_re = re.compile(
+              r"!$begin:math:display$\[\^$end:math:display$]*\]$begin:math:text$\[\^\)\\n\]\*$end:math:text$"
+          )
+
+          markdown_link_re = re.compile(
+              r"$begin:math:display$\(\[\^$end:math:display$]+)\]$begin:math:text$\[\^\)\\n\]\*$end:math:text$"
+          )
+
+          html_re = re.compile(
+              r"<[^>]+>"
+          )
+
+          bare_url_re = re.compile(
+              r"https?://\S+|www\.\S+",
+              re.IGNORECASE,
+          )
+
+          whitespace_re = re.compile(
+              r"\s+"
+          )
+
 
           def count_words(path: Path) -> int:
               try:
@@ -173,7 +192,8 @@ jobs:
               text = whitespace_re.sub(" ", text).strip()
 
               return len(text.split()) if text else 0
-              
+
+
           # --------------------------------------------------
           # FILE COUNTS
           # --------------------------------------------------
@@ -181,10 +201,12 @@ jobs:
           rows = []
           total = 0
 
-          for path in sorted(files, key=lambda item: item.as_posix().casefold()):
+          for path in sorted(
+              files,
+              key=lambda item: item.as_posix().casefold(),
+          ):
               word_count = count_words(path)
 
-              # Critical fix: store a clean repository-relative path.
               relative_path = normalise_path(
                   os.path.relpath(path, ROOT)
               )
@@ -192,18 +214,12 @@ jobs:
               rows.append((relative_path, word_count))
               total += word_count
 
+
           # --------------------------------------------------
-          # FOLDER AGGREGATION
+          # TOP-LEVEL FOLDER AGGREGATION
           # --------------------------------------------------
 
           def top_folder(path: str) -> str:
-              """
-              Return the first repository path component.
-
-              Folder/file.md        -> Folder
-              Folder/Sub/file.md    -> Folder
-              README.md             -> [repository root]
-              """
               normalised = normalise_path(path)
               parts = normalised.split("/")
 
@@ -212,23 +228,28 @@ jobs:
 
               return parts[0]
 
+
           by_folder = {}
 
           for path, word_count in rows:
               folder = top_folder(path)
-              by_folder[folder] = by_folder.get(folder, 0) + word_count
+              by_folder[folder] = (
+                  by_folder.get(folder, 0) + word_count
+              )
 
           folder_rows = sorted(
               by_folder.items(),
-              key=lambda item: (-item[1], item[0].casefold()),
+              key=lambda item: (
+                  -item[1],
+                  item[0].casefold(),
+              ),
           )
+
 
           # --------------------------------------------------
           # GAP REPORTS
           # --------------------------------------------------
 
-          # Ignored paths remain in total counts but are excluded
-          # from file-level gap reporting.
           thin_files = [
               (path, word_count)
               for path, word_count in rows
@@ -237,8 +258,12 @@ jobs:
           ]
 
           thin_files.sort(
-              key=lambda item: (item[1], item[0].casefold())
+              key=lambda item: (
+                  item[1],
+                  item[0].casefold(),
+              )
           )
+
 
           def folder_is_ignored(folder: str) -> bool:
               if folder == "[repository root]":
@@ -246,8 +271,7 @@ jobs:
 
               return is_ignored(folder)
 
-          # Ignored top-level folders are excluded from folder-gap
-          # reporting, but still appear in general totals.
+
           gap_folder_rows = [
               (folder, word_count)
               for folder, word_count in folder_rows
@@ -261,15 +285,22 @@ jobs:
           ]
 
           thin_folders.sort(
-              key=lambda item: (item[1], item[0].casefold())
+              key=lambda item: (
+                  item[1],
+                  item[0].casefold(),
+              )
           )
 
+
           # --------------------------------------------------
-          # WRITE ARTIFACTS
+          # WRITE CSV ARTIFACTS
           # --------------------------------------------------
 
           artifact_dir = Path("artifacts")
-          artifact_dir.mkdir(parents=True, exist_ok=True)
+          artifact_dir.mkdir(
+              parents=True,
+              exist_ok=True,
+          )
 
           with (artifact_dir / "wordcount.csv").open(
               "w",
@@ -296,7 +327,11 @@ jobs:
               encoding="utf-8",
           ) as output:
               writer = csv.writer(output)
-              writer.writerow(["file", "words", "threshold"])
+              writer.writerow([
+                  "file",
+                  "words",
+                  "threshold",
+              ])
 
               for path, word_count in thin_files:
                   writer.writerow([
@@ -311,7 +346,11 @@ jobs:
               encoding="utf-8",
           ) as output:
               writer = csv.writer(output)
-              writer.writerow(["folder", "words", "threshold"])
+              writer.writerow([
+                  "folder",
+                  "words",
+                  "threshold",
+              ])
 
               for folder, word_count in thin_folders:
                   writer.writerow([
@@ -319,6 +358,7 @@ jobs:
                       word_count,
                       MIN_FOLDER,
                   ])
+
 
           # --------------------------------------------------
           # GITHUB SUMMARY
@@ -331,6 +371,7 @@ jobs:
                   .replace("|", "\\|")
                   .replace("\n", " ")
               )
+
 
           def markdown_table(headers, table_rows) -> str:
               if not table_rows:
@@ -347,7 +388,10 @@ jobs:
 
               separator_line = (
                   "| "
-                  + " | ".join("---" for _ in headers)
+                  + " | ".join(
+                      "---"
+                      for _ in headers
+                  )
                   + " |"
               )
 
@@ -367,19 +411,30 @@ jobs:
                   *body_lines,
               ])
 
+
           ignored_display = IGNORE_RAW or "—"
 
           summary = [
               "# Repo Word Count — Gap Finder",
               "",
-              f"**Total words (harsh prose-only): {total:,}**",
+              (
+                  "**Total words (harsh prose-only): "
+                  f"{total:,}**"
+              ),
               "",
               f"- Files counted: {len(rows):,}",
-              f"- Thin file threshold: < {MIN_FILE:,} words",
-              f"- Thin folder threshold: < {MIN_FOLDER:,} words",
+              (
+                  "- Thin file threshold: "
+                  f"< {MIN_FILE:,} words"
+              ),
+              (
+                  "- Thin folder threshold: "
+                  f"< {MIN_FOLDER:,} words"
+              ),
               (
                   "- Ignored in file and folder gap reports "
-                  f"(still included in totals): {ignored_display}"
+                  "(still included in totals): "
+                  f"{ignored_display}"
               ),
               "",
           ]
@@ -392,8 +447,12 @@ jobs:
               markdown_table(
                   ["Folder", "Words"],
                   [
-                      (folder, f"{word_count:,}")
-                      for folder, word_count in top_folders
+                      (
+                          folder,
+                          f"{word_count:,}",
+                      )
+                      for folder, word_count
+                      in top_folders
                   ],
               ),
               "",
@@ -413,8 +472,12 @@ jobs:
               markdown_table(
                   ["Folder", "Words"],
                   [
-                      (folder, f"{word_count:,}")
-                      for folder, word_count in thinnest_folders
+                      (
+                          folder,
+                          f"{word_count:,}",
+                      )
+                      for folder, word_count
+                      in thinnest_folders
                   ],
               ),
               "",
@@ -428,19 +491,31 @@ jobs:
               markdown_table(
                   ["File", "Words"],
                   [
-                      (path, f"{word_count:,}")
-                      for path, word_count in thinnest_files
+                      (
+                          path,
+                          f"{word_count:,}",
+                      )
+                      for path, word_count
+                      in thinnest_files
                   ],
               ),
               "",
               "## Gap totals",
               "",
-              f"- Files below threshold: {len(thin_files):,}",
-              f"- Folders below threshold: {len(thin_folders):,}",
+              (
+                  "- Files below threshold: "
+                  f"{len(thin_files):,}"
+              ),
+              (
+                  "- Folders below threshold: "
+                  f"{len(thin_folders):,}"
+              ),
               "",
           ])
 
-          summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+          summary_path = os.environ.get(
+              "GITHUB_STEP_SUMMARY"
+          )
 
           if not summary_path:
               raise RuntimeError(
