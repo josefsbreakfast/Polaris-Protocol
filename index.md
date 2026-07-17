@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-17 19:05:56 UTC_
+_Generated on 2026-07-17 21:35:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5993,6 +5993,9 @@ _Generated on 2026-07-17 19:05:56 UTC_
   - [**🖍️_Art_As_Attack/**](🌔_4_Small_Steps/🖍️_Art_As_Attack/)
     - [`README.md`](🌔_4_Small_Steps/🖍️_Art_As_Attack/README.md)
   - [**🚀_DADA/**](🌔_4_Small_Steps/🚀_DADA/)
+    - [**💾_Capabilities/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/)
+      - [**🥀_Little_Database_Of_Horrors/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/)
+        - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/notes.txt)
     - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/notes.txt)
   - [**🦆_Digital_Disruption/**](🌔_4_Small_Steps/🦆_Digital_Disruption/)
     - [`README.md`](🌔_4_Small_Steps/🦆_Digital_Disruption/README.md)
