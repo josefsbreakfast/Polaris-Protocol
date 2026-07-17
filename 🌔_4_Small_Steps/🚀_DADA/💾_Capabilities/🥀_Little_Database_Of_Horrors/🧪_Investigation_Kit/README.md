@@ -1,0 +1,13 @@
+🧪_Investigation_Kit/README.md
+            │   ├── README.md
+            │   ├── 📝_observation_inference_and_hypothesis.md
+            │   ├── 📋_relationship_incident_log.md
+            │   ├── 🕸️_relationship_graph_comparison.md
+            │   ├── ⏱️_threshold_and_timing_tracker.md
+            │   ├── 🔁_repeated_intermediary_tracker.md
+            │   ├── 🗣️_language_and_narrative_comparison.md
+            │   ├── 🧭_natural_experiments.md
+            │   ├── 🧯_contamination_and_confirmation_bias.md
+            │   ├── 🔐_safe_evidence_preservation.md
+            │   └── ⚠️_do_not_conduct_amateur_counterintelligence.md
+            │
