@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-17 15:52:50 UTC_
+_Generated on 2026-07-17 15:53:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5489,7 +5489,6 @@ _Generated on 2026-07-17 15:52:50 UTC_
           - [`🧭_citizen_routes_back_to_democracy.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🧹_Exit_And_Cleanup/🧭_citizen_routes_back_to_democracy.md)
           - [`🧹_cleanup_map_who_carries_the_cost.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🧹_Exit_And_Cleanup/🧹_cleanup_map_who_carries_the_cost.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/README.md)
-        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/notes.txt)
       - [**🤐_The_Seditious_Traitors_Fuckery_Unit/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/)
         - [**⚖️_Outer_Apparatus/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/⚖️_Outer_Apparatus/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/⚖️_Outer_Apparatus/README.md)
