@@ -1,0 +1,54 @@
+🧾_The_Cost_Of_Life/
+├── README.md
+├── 🛰️_Orientation/
+│   ├── what_the_cost_of_life_means.md
+│   ├── why_this_is_a_cohesion_issue.md
+│   └── editorial_guardrails.md
+├── 💷_Income_And_Prices/
+│   ├── inflation_is_not_the_price_level.md
+│   ├── real_pay_and_disposable_income.md
+│   ├── essential_costs_and_household_variation.md
+│   └── averages_hide_distribution.md
+├── 🏠_Housing_And_Security/
+│   ├── housing_as_social_infrastructure.md
+│   ├── rent_and_tenure_insecurity.md
+│   ├── mortgages_and_rate_resets.md
+│   ├── deposits_and_delayed_households.md
+│   └── housing_wealth_is_not_housing_security.md
+├── ⏳_Hidden_Costs/
+│   ├── the_time_tax.md
+│   ├── administrative_burden.md
+│   ├── unpaid_care_and_household_labour.md
+│   ├── health_costs_of_insecurity.md
+│   └── private_coping_hides_public_failure.md
+├── 🧸_Life_Course/
+│   ├── delayed_family_formation.md
+│   ├── children_childcare_and_fertility.md
+│   ├── leaving_home_and_returning_home.md
+│   ├── relationships_under_material_pressure.md
+│   └── ageing_without_security.md
+├── 🌱_Cohesion_And_Trust/
+│   ├── when_effort_no_longer_produces_stability.md
+│   ├── scarcity_status_and_resentment.md
+│   ├── institutional_trust_under_pressure.md
+│   ├── political_participation_under_scarcity.md
+│   └── blame_without_material_repair.md
+├── 🗞️_Reporting_Practice/
+│   ├── reporting_beyond_the_headline_rate.md
+│   ├── household_case_studies_without_poverty_porn.md
+│   ├── explaining_distribution_not_just_averages.md
+│   ├── who_is_missing_from_the_data.md
+│   └── questions_for_ministers_banks_and_employers.md
+├── 🧩_Applied_Casework/
+│   ├── food_and_energy.md
+│   ├── transport_and_commuting.md
+│   ├── childcare_and_care.md
+│   ├── disability_and_extra_costs.md
+│   ├── debt_credit_and_insurance.md
+│   └── local_cost_of_life_profiles.md
+└── 🧺_Tools/
+    ├── household_pressure_map.md
+    ├── real_income_reporting_checklist.md
+    ├── cost_transfer_audit.md
+    ├── interview_questions.md
+    └── source_and_data_register.md
