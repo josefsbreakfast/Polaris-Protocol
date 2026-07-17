@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-17 18:39:00 UTC_
+_Generated on 2026-07-17 18:49:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5390,6 +5390,32 @@ _Generated on 2026-07-17 18:39:00 UTC_
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/README.md)
     - [**🌱_Prosocial_Roots/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/)
       - [**🦷_Political_Violence_Today/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/)
+        - [**✨_Orientation/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/✨_Orientation/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/✨_Orientation/README.md)
+        - [**🌀_Narrative_And_Power/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🌀_Narrative_And_Power/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🌀_Narrative_And_Power/README.md)
+        - [**🎯_Cases_And_Motives/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🎯_Cases_And_Motives/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🎯_Cases_And_Motives/README.md)
+        - [**🎯_Targets_Methods_And_Effects/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🎯_Targets_Methods_And_Effects/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🎯_Targets_Methods_And_Effects/README.md)
+        - [**🏛️_Democratic_Practice/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🏛️_Democratic_Practice/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🏛️_Democratic_Practice/README.md)
+        - [**🐾_Contested_Causes_And_Public_Morality/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🐾_Contested_Causes_And_Public_Morality/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🐾_Contested_Causes_And_Public_Morality/README.md)
+        - [**📊_Numbers_And_Comparison/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/📊_Numbers_And_Comparison/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/📊_Numbers_And_Comparison/README.md)
+        - [**📚_Language_And_Classification/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/📚_Language_And_Classification/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/📚_Language_And_Classification/README.md)
+        - [**📚_Sources/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/📚_Sources/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/📚_Sources/README.md)
+        - [**📹_Security_Surveillance_And_Spending/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/📹_Security_Surveillance_And_Spending/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/📹_Security_Surveillance_And_Spending/README.md)
+        - [**🔪_Weapon_Cultures_And_Social_Permission/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🔪_Weapon_Cultures_And_Social_Permission/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🔪_Weapon_Cultures_And_Social_Permission/README.md)
+        - [**🗞️_Reporter_Tools/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🗞️_Reporter_Tools/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🗞️_Reporter_Tools/README.md)
+        - [**🧠_How_Violence_Becomes_Meaningful/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🧠_How_Violence_Becomes_Meaningful/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🧠_How_Violence_Becomes_Meaningful/README.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/README.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/README.md)
     - [**🏆_Good_Sports/**](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/)
