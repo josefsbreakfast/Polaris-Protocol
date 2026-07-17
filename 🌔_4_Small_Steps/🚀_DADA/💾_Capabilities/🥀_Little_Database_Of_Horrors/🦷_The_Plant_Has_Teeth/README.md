@@ -1,0 +1,11 @@
+     ├── 🦷_The_Plant_Has_Teeth/README.md
+            │   ├── 🚧_suppressing_introductions_and_opportunities.md
+            │   ├── 🔇_visibility_reduction_and_social_rerouting.md
+            │   ├── 🗣️_reputation_warnings_and_narrative_containment.md
+            │   ├── 🪓_wedge_creation_and_relationship_disruption.md
+            │   ├── 🧷_family_pressure_and_proxy_coercion.md
+            │   ├── 🛂_passport_travel_and_consular_leverage.md
+            │   ├── ⚖️_legal_financial_and_administrative_pressure.md
+            │   ├── 🕳️_isolation_without_formal_prohibition.md
+            │   └── 🧱_making_consequential_relationships_too_expensive.md
+            │
