@@ -1,6 +1,6 @@
 # 📺 Media Cycle Capture  
-**First created:** 2026-07-09 | **Last updated:** 2026-07-09  
-*Analysis node for hostile amplification, spectacle politics, and how not to let the people under scrutiny set the public clock.*  
+**First created:** 2026-07-09 | **Last updated:** 2026-07-17  
+*Analysis node for hostile amplification, spectacle politics, temporal capture, and how not to let the people under scrutiny set the public clock.*  
 
 ---
 
@@ -16,7 +16,14 @@ They need their name repeated.
 
 They need the question moved from documents to drama.
 
-They need the story to become their grievance, their comeback, their mandate, their persecution, their feud, their next appearance.
+They need the story to become:
+
+- their grievance
+- their comeback
+- their mandate
+- their persecution
+- their feud
+- their next appearance
 
 The danger is not only sympathetic coverage.
 
@@ -24,18 +31,24 @@ Hostile coverage can also become infrastructure.
 
 A spectacle politician can lose the interview and still win the cycle.
 
+The actor does not need to defeat the process.
+
+They need to occupy the time before the process can answer.
+
 ---
 
 ## ✨ Key Features  
 
 - Hostile amplification still amplifies.
 - Repetition can become distribution.
+- Reaction is not always development.
 - Outrage can become free advertising.
-- SEO can reward the main character.
-- Reaction coverage can bury process.
+- SEO, recommendation, and commercial AI can reward the main character.
+- Fast political actors exploit slower institutional clocks.
 - Bigger networks can eat smaller actors.
 - Proportional coverage protects public attention.
 - The public-interest question must outlive the personality.
+- The documents must remain more important than the drama.
 
 ---
 
@@ -57,6 +70,8 @@ Commentators debate the grievance.
 
 Algorithms reward the grievance.
 
+Commercial AI summarises the growing controversy.
+
 The original question disappears.
 
 The documents are still missing.
@@ -65,9 +80,85 @@ The money is still unclear.
 
 The process is still unresolved.
 
-But the public has spent three days inside one man’s emotional weather.
+But the public has spent three days inside one person’s emotional weather.
 
 That is capture.
+
+---
+
+## ⏱️ Temporal Capture  
+
+Spectacle actors move on a faster clock than:
+
+- courts
+- regulators
+- standards bodies
+- investigations
+- corrections
+- documentary reporting
+- financial disclosures
+- institutional review
+
+They exploit the gap.
+
+The allegation may take months to test.
+
+The grievance can dominate within minutes.
+
+By the time the institutional answer arrives:
+
+- fundraising has occurred
+- clips have circulated
+- supporters have received a persecution narrative
+- the audience has migrated
+- the original question has been reframed
+- the delay itself has been presented as proof of conspiracy
+
+The actor does not need to defeat the process.
+
+They need to occupy the time before the process can answer.
+
+The newsroom should therefore distinguish between:
+
+- the actor’s clock
+- the evidence clock
+- the legal clock
+- the institutional clock
+- the consequence clock
+
+Do not let the fastest clock become the only one visible.
+
+---
+
+## 🔁 Reaction Is Not Development  
+
+Reaction may be politically consequential.
+
+It is not automatically a new material development.
+
+Label clearly:
+
+- original event
+- documentary evidence
+- institutional action
+- political reaction
+- market reaction
+- commentary
+- correction
+
+A new quote about the old question does not necessarily justify a new story.
+
+A larger number of reactions does not necessarily mean the evidence has changed.
+
+Reaction coverage can become recursive:
+
+1. actor reacts to scrutiny
+2. opponents react to the actor
+3. media report the reaction
+4. actor reacts to the coverage
+5. commentators debate the reaction to the reaction
+
+The cycle becomes busy without becoming more informative.
 
 ---
 
@@ -103,6 +194,19 @@ The problem is not that scrutiny should stop.
 
 The problem is that scrutiny must not become oxygen.
 
+Hostility does not neutralise amplification.
+
+Ridicule does not erase reach.
+
+A hostile clip can still:
+
+- recruit
+- fundraise
+- strengthen grievance
+- dominate search
+- trigger recommendation
+- make the actor appear central
+
 ---
 
 ## 🧾 Frame Before Quote  
@@ -110,6 +214,8 @@ The problem is that scrutiny must not become oxygen.
 Do not lead with the grievance.
 
 Lead with the public-interest frame.
+
+### Worked example
 
 Bad pattern:
 
@@ -125,13 +231,26 @@ The quote is evidence of the strategy.
 
 Frame it before releasing it into the wild.
 
+### Portable template
+
+> [Actor], who faces unresolved questions about [documented public-interest issue], described the scrutiny as [grievance claim]. They have not yet provided [specific missing evidence].
+
+This keeps the:
+
+- unresolved issue
+- evidential gap
+- procedural status
+- actor’s response
+
+in the correct order.
+
 ---
 
-## 🧲 SEO Capture  
+## 🧲 SEO And Retrieval Capture  
 
 Name repetition matters.
 
-Search engines, social platforms, recommendation systems, and AI summaries all learn from repetition.
+Search engines, social platforms, recommendation systems, and commercial AI summaries all learn from repetition.
 
 A hostile media storm can still teach the internet that one figure is the centre of the event.
 
@@ -149,15 +268,29 @@ The issue was:
 
 The machine turns it into:
 
-- one man
+- one person
 - one feud
 - one comeback
 - one outrage loop
-- one “will he survive?” drama
+- one “will they survive?” drama
 
 That is not neutral.
 
 That is architecture.
+
+Repeated coverage can also produce synthetic corroboration.
+
+Commercial AI may retrieve:
+
+- several articles based on one statement
+- several reactions to one interview
+- several summaries of one press release
+
+and present the issue as broadly independently established.
+
+The reference count grows.
+
+The evidence may not.
 
 ---
 
@@ -191,35 +324,57 @@ Private data firms.
 Legal-risk managers.  
 Political entrepreneurs with better lawyers.
 
-The small actor may think he is riding the wave.
+The small actor may think they are riding the wave.
 
-Sometimes he is just chum with a microphone.
+Sometimes they are just chum with a microphone.
 
 This matters because coverage that obsesses over the loudest personality may miss the larger extraction pattern.
 
+The useful questions become:
+
+- Who monetises the audience?
+- Who owns the distribution?
+- Who receives the data?
+- Who supplies legal protection?
+- Who funds the next stage?
+- Who can replace the personality if required?
+- Who retains value when the visible actor becomes disposable?
+
 ---
 
-## 🃏 Farce As Capture Breaker  
+## 🃏 Farce As A Limited Interrupt  
 
-Farce can be useful.
+Farce can puncture inflated seriousness and break the pose of inevitability.
 
-A satirical candidate, a cartoon, a good joke, a ridiculous image, a collapsed slogan — these can puncture false inevitability.
+A satirical candidate.
 
-Spectacle politics depends on inflated seriousness.
+A cartoon.
 
-It wants the audience to accept the pose.
+A good joke.
 
-A good joke can interrupt that pose.
+A collapsed slogan.
 
-But farce must not become the whole story.
+A ridiculous image.
 
-The joke opens the door.
+These can interrupt the spell.
 
-The documents still need to walk through it.
+But ridicule is not accountability.
 
-Satire breaks the spell.
+A joke may interrupt the spectacle.
 
-Investigation follows the money.
+It cannot replace:
+
+- documents
+- legal status
+- ownership
+- money
+- institutional consequence
+
+Use satire to open the frame.
+
+Then return to the evidence.
+
+See [`🃏_how_to_cover_farce_without_becoming_it.md`](./🃏_how_to_cover_farce_without_becoming_it.md).
 
 ---
 
@@ -238,6 +393,8 @@ Cover:
 - financial relationships
 - regulator action
 - standards questions
+- ownership
+- procurement
 - public-interest consequences
 
 Deprioritise:
@@ -247,12 +404,27 @@ Deprioritise:
 - bait interviews
 - recycled slogans
 - personality feuds
-- “will he survive?” speculation
+- “will they survive?” speculation
 - outrage panels that add no evidence
+- live updates that merely repeat the same frame
 
 The public does not need less accountability.
 
 It needs less theatre pretending to be accountability.
+
+### Useful threshold rule
+
+Publish a new standalone item when at least one of these changes:
+
+- the evidence
+- the legal status
+- the money
+- the ownership
+- the institutional response
+- the operational capacity
+- the public consequence
+
+Otherwise, add the reaction to a timeline or grouped update.
 
 ---
 
@@ -268,6 +440,9 @@ Before publishing, ask:
 - Does this reduce confusion?
 - Does this avoid centring the actor’s grievance frame?
 - Would this still matter if the main character stopped talking?
+- Is this a development or a reaction?
+- Are the sources independent?
+- Will the headline strengthen the personality moat?
 - Are we covering the risk, or feeding the spectacle?
 
 If the answer is mostly spectacle, put it in the timeline.
@@ -301,6 +476,18 @@ The aim is not to win the interview.
 
 The aim is to make evasion visible.
 
+### Anti-capture interview rules
+
+- Do not accept the grievance frame as the starting point.
+- Do not reward evasion with a new subject.
+- Do not generate ten clips from one non-answer.
+- Publish the unanswered question alongside the answer.
+- Do not make confrontation the headline.
+- Return to the missing document, date, amount, authority, or mechanism.
+- End when the interview has stopped producing information.
+
+For fuller interview practice, see [`🎙️_how_to_cover_and_interview.md`](./🎙️_how_to_cover_and_interview.md).
+
 ---
 
 ## 🧯 Anti-Capture Practice  
@@ -319,8 +506,96 @@ Better patterns:
 - one hub instead of twenty fragments
 - satire paired with evidence
 - quote framing before quote circulation
+- primary-source links
+- visible correction
+- labelled uncertainty
+- scheduled rather than compulsive updates
 
 Do not let the actor become the user interface.
+
+---
+
+## 🧰 Capture-Resistant Story Architecture  
+
+A strong story order is:
+
+1. **Public-interest issue**
+2. **Verified evidence**
+3. **What remains unresolved**
+4. **Process and jurisdiction**
+5. **Material consequence**
+6. **Actor response**
+7. **What happens next**
+
+A capture-prone order is:
+
+1. actor’s grievance
+2. opponent reaction
+3. personality drama
+4. speculation
+5. documents, somewhere near the bottom
+
+Story architecture is not cosmetic.
+
+It determines which frame survives circulation.
+
+---
+
+## ⚖️ Evidence Discipline  
+
+Preserve the distinctions:
+
+- hostile coverage is not neutralised amplification
+- attention is not support
+- reaction is not development
+- quotation is not verification
+- repetition is not corroboration
+- virality is not consensus
+- personality prominence is not organisational capacity
+- owner interest is not automatic editorial command
+- delay is not automatically bad faith
+- grievance is not evidence of persecution
+- ridicule is not accountability
+- algorithmic prominence is not public importance
+- several summaries may still derive from one source
+
+Use categories such as:
+
+- primary document
+- verified development
+- institutional action
+- legal process
+- financial disclosure
+- actor response
+- political reaction
+- commentary
+- algorithmic signal
+- unresolved question
+
+---
+
+## 🧪 What Would Disconfirm The Concern?  
+
+Evidence that coverage is not being captured may include:
+
+- the actor’s name is not required to explain the issue
+- documents remain central
+- reactions are grouped rather than serialised
+- corrections receive comparable prominence
+- independent sources are added
+- coverage changes only when material facts change
+- the wider ownership and finance structure remains visible
+- audience attention does not become donor or organisational capacity
+- the newsroom can stop covering provocations without losing the public-interest thread
+- later institutional findings displace the earlier grievance frame
+
+A prominent actor may genuinely be central to the story.
+
+A hostile interview may produce new evidence.
+
+A reaction may itself alter policy or markets.
+
+The model should preserve those possibilities.
 
 ---
 
@@ -329,6 +604,11 @@ Do not let the actor become the user interface.
 > Do not let the people under investigation become the editors of everyone else’s attention.
 
 > Hostile amplification is still amplification.
+
+> The actor does not need to defeat the process.  
+> They need to occupy the time before the process can answer.
+
+> Reaction is not always development.
 
 > Cover the risk.  
 > Do not feed the spectacle.
@@ -339,17 +619,19 @@ Do not let the actor become the user interface.
 > Satire breaks the spell.  
 > Investigation follows the money.
 
+> Do not let the actor become the user interface.
+
 ---
 
 ## 🌌 Constellations  
 
-📺 🧲 🐋 🧾 🧯 — media-cycle capture; hostile amplification; bigger-fish politics; documentary framing; anti-spectacle practice.
+📺 ⏱️ 🧲 🐋 🧾 🧯 — media-cycle capture; temporal capture; retrieval capture; bigger-fish politics; documentary framing; anti-spectacle practice.
 
 ---
 
 ## ✨ Stardust  
 
-media capture, hostile amplification, spectacle politics, seo capture, quote framing, political finance, bigger fish, farce, proportional coverage, public attention
+media capture, hostile amplification, spectacle politics, temporal capture, reaction coverage, seo capture, commercial ai, quote framing, political finance, bigger fish, farce, proportional coverage, public attention
 
 ---
 
@@ -361,17 +643,22 @@ Its function is to preserve public-interest reporting without turning accountabi
 
 > 📡 Cross-references:
 >
-> - [`🌊_why_the_news_feels_overwhelming.md`](./🌊_why_the_news_feels_overwhelming.md) — *orientation node for overload and colliding clocks*
-> - [`⏱️_temporal_hygiene_rhythm_not_panic.md`](./⏱️_temporal_hygiene_rhythm_not_panic.md) — *newsroom tempo and observation-gap practice*
+> - [`🌊_why_the_news_feels_overwhelming.md`](../✨_Orientation/🌊_why_the_news_feels_overwhelming.md) — *orientation node for overload and colliding clocks*
+> - [`⏱️_temporal_hygiene_rhythm_not_panic.md`](../🌀_Core_Model/⏱️_temporal_hygiene_rhythm_not_panic.md) — *event, publication, recognition, institutional, consequence, and narrative clocks*
+> - [`📺_media_ownership_and_platform_power.md`](../👹_Collision_Systems/📺_media_ownership_and_platform_power.md) — *ownership, distribution, recommendation, search, and personality infrastructure*
+> - [`🌫️_public_distrust_and_algorithmic_overload.md`](../👹_Collision_Systems/🌫️_public_distrust_and_algorithmic_overload.md) — *reaction loops, synthetic corroboration, and public ranking failure*
 > - [`🎙️_how_to_cover_and_interview.md`](./🎙️_how_to_cover_and_interview.md) — *practical reporter guidance for hostile or spectacle-driven interviews*
 > - [`📰_quality_as_click_resilience.md`](./📰_quality_as_click_resilience.md) — *business and quality case for deeper journalism under AI-search pressure*
+> - [`🃏_how_to_cover_farce_without_becoming_it.md`](./🃏_how_to_cover_farce_without_becoming_it.md) — *using humour without allowing spectacle to replace evidence*
 >
 > 🏮 Return To:
 >
-> - [`🗻_The_Manifestation_Molehill`](./) — *current folder*
-> - [`👻_Ghosts_Of_Accountability`](../) — *parent accountability cluster*
-> - [`📲_Press_Matters`](../../) — *press and media-analysis layer*
+> - [`🗞️_Media_Practice`](./) — *current practical media cluster*
+> - [`🗻_The_Manifestation_Molehill`](../) — *media-facing pack on colliding confidence systems*
+> - [`👻_Ghosts_Of_Accountability`](../../) — *parent accountability cluster*
+> - [`📲_Press_Matters`](../../../) — *press and media-analysis layer*
+> - [`🌓_3_In_The_Moment`](../../../../) — *current-events and active-pattern layer*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-07-09_
+_Last updated: 2026-07-17_
