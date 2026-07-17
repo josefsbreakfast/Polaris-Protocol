@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-17 15:26:45 UTC_
+_Generated on 2026-07-17 15:27:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5477,7 +5477,6 @@ _Generated on 2026-07-17 15:26:45 UTC_
           - [`🪙_crypto_and_stablecoin_lobbying.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/👹_Collision_Systems/🪙_crypto_and_stablecoin_lobbying.md)
         - [**🗞️_Media_Practice/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🗞️_Media_Practice/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🗞️_Media_Practice/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🗞️_Media_Practice/notes.txt)
           - [`🃏_how_to_cover_farce_without_becoming_it.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🗞️_Media_Practice/🃏_how_to_cover_farce_without_becoming_it.md)
           - [`🎙️_how_to_cover_and_interview.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🗞️_Media_Practice/🎙️_how_to_cover_and_interview.md)
           - [`🏘️_local_journalism_as_resilience_infrastructure.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/🗞️_Media_Practice/🏘️_local_journalism_as_resilience_infrastructure.md)
