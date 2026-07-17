@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-17 19:02:19 UTC_
+_Generated on 2026-07-17 19:04:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5389,6 +5389,8 @@ _Generated on 2026-07-17 19:02:19 UTC_
         - [`🪖_morale_for_islanders.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦐_Krill_Wars/🪖_morale_for_islanders.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/README.md)
     - [**🌱_Prosocial_Roots/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/)
+      - [**🍉_Palestine_As_Rhizome/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/)
+        - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/README.md)
       - [**🦷_Political_Violence_Today/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/)
         - [**✨_Orientation/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/✨_Orientation/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/✨_Orientation/README.md)
