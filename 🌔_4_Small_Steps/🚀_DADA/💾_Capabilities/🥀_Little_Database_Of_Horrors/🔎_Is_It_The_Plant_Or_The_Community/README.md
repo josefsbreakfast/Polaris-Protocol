@@ -1,0 +1,12 @@
+🔎_Is_It_The_Plant_Or_The_Community/
+            │   ├── 🧭_electronic_system_or_community_politics.md
+            │   ├── 🪞_homophily_class_and_social_sorting.md
+            │   ├── 📱_platform_recommendation_effects.md
+            │   ├── 🏛️_institutional_gatekeeping.md
+            │   ├── 🗣️_gossip_conflict_and_local_factionalism.md
+            │   ├── 📡_signs_of_shared_data_or_shared_rules.md
+            │   ├── ⏱️_timing_thresholds_and_phase_changes.md
+            │   ├── 🧩_comparative_case_method.md
+            │   ├── 🪜_evidence_ladder.md
+            │   └── ❌_what_would_disprove_the_model.md
+            │
