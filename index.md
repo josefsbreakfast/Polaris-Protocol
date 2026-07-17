@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-17 18:58:04 UTC_
+_Generated on 2026-07-17 19:01:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5417,6 +5417,8 @@ _Generated on 2026-07-17 18:58:04 UTC_
         - [**🧠_How_Violence_Becomes_Meaningful/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🧠_How_Violence_Becomes_Meaningful/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🧠_How_Violence_Becomes_Meaningful/README.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/README.md)
+      - [**🧾_The_Cost_Of_Life/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🧾_The_Cost_Of_Life/)
+        - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🧾_The_Cost_Of_Life/README.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/README.md)
     - [**🏆_Good_Sports/**](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/)
       - [**⚽️_2026_World_Cup/**](🌓_3_In_The_Moment/📲_Press_Matters/🏆_Good_Sports/⚽️_2026_World_Cup/)
