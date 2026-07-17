@@ -1,3 +1,240 @@
 shabbat shalom feterl x  
 
 ---
+
+🌔_4_Small_Steps/
+└── 🚀_DADA/
+    └── 💾_Capabilities/
+        └── 🥀_Little_Database_Of_Horrors/
+            ├── README.md
+            │
+            ├── 🧭_Orientation/
+            │   ├── 🥀_what_is_the_little_database_of_horrors.md
+            │   ├── 🪴_somewhere_thats_green.md
+            │   ├── 🕸️_who_may_safely_know_whom.md
+            │   ├── 🔭_capability_not_allegation.md
+            │   └── 🔬_the_smallest_claim_first.md
+            │
+            ├── 🩸_Feed_Me_Data/
+            │   ├── 💾_what_the_database_eats.md
+            │   ├── 🕸️_social_graphs_and_network_analysis.md
+            │   ├── 📱_device_access_and_communications_data.md
+            │   ├── 📍_location_travel_and_event_attendance.md
+            │   ├── 💸_financial_and_employment_relationships.md
+            │   ├── 🏛️_institutional_and_religious_affiliations.md
+            │   ├── 🧬_family_friendship_and_intimate_relationships.md
+            │   ├── 📣_political_sentiment_and_influence_mapping.md
+            │   └── 🧩_data_brokerage_and_capability_convergence.md
+            │
+            ├── 🎶_Suddenly_Surveillance/
+            │   ├── 👁️_from_observation_to_intervention.md
+            │   ├── 📊_from_records_to_scores.md
+            │   ├── 🧮_the_disruption_score.md
+            │   ├── 🕸️_relationship_risk_not_person_risk.md
+            │   ├── 🔗_coalition_and_connector_risk.md
+            │   ├── 🚪_access_dependency_and_intervention_cost.md
+            │   ├── 🪞_safe_contacts_and_managed_substitutes.md
+            │   └── 🧱_relationship_caps.md
+            │
+            ├── 🪴_Mushniks_Dashboard/
+            │   ├── 📋_the_innocent_administrative_project.md
+            │   ├── 🛡️_safeguarding_as_a_data_gateway.md
+            │   ├── 🧭_diaspora_engagement_and_community_mapping.md
+            │   ├── 📡_foreign_interference_and_counter_extremism.md
+            │   ├── 🏷️_approved_intermediaries_and_safe_contacts.md
+            │   ├── 🧾_procurement_contractors_and_outsourced_judgement.md
+            │   ├── 🏢_embassy_consular_and_foreign_ministry_channels.md
+            │   └── 🎭_plausible_deniability_by_design.md
+            │
+            ├── 🦷_The_Plant_Has_Teeth/
+            │   ├── 🚧_suppressing_introductions_and_opportunities.md
+            │   ├── 🔇_visibility_reduction_and_social_rerouting.md
+            │   ├── 🗣️_reputation_warnings_and_narrative_containment.md
+            │   ├── 🪓_wedge_creation_and_relationship_disruption.md
+            │   ├── 🧷_family_pressure_and_proxy_coercion.md
+            │   ├── 🛂_passport_travel_and_consular_leverage.md
+            │   ├── ⚖️_legal_financial_and_administrative_pressure.md
+            │   ├── 🕳️_isolation_without_formal_prohibition.md
+            │   └── 🧱_making_consequential_relationships_too_expensive.md
+            │
+            ├── 🌱_Cuttings/
+            │   ├── 🧰_exported_surveillance_capabilities.md
+            │   ├── 🏭_private_contractors_and_dual_use_tools.md
+            │   ├── 🤝_authoritarian_collaboration.md
+            │   ├── 🔄_shared_watchlists_and_return_requests.md
+            │   ├── 🌍_host_state_assistance.md
+            │   ├── 🧬_copying_successful_repression_models.md
+            │   └── 📦_when_the_toolkit_travels_better_than_the_regime.md
+            │
+            ├── 🌍_Regime_And_State_Capability_Studies/
+            │   ├── README.md
+            │   │
+            │   ├── 🧭_Comparative_Method/
+            │   │   ├── 🔍_questions_to_ask_of_every_state.md
+            │   │   ├── 📏_evidence_and_confidence_scale.md
+            │   │   ├── ⚖️_capability_intent_and_documented_use.md
+            │   │   └── 🧯_avoiding_false_equivalence.md
+            │   │
+            │   ├── 🕌_Middle_East_And_North_Africa/
+            │   │   ├── README.md
+            │   │   ├── 🇮🇷_iran.md
+            │   │   ├── 🇮🇱_israel.md
+            │   │   ├── 🇸🇦_saudi_arabia.md
+            │   │   ├── 🇦🇪_united_arab_emirates.md
+            │   │   ├── 🇪🇬_egypt.md
+            │   │   ├── 🇹🇷_turkiye.md
+            │   │   ├── 🇧🇭_bahrain.md
+            │   │   ├── 🇶🇦_qatar.md
+            │   │   ├── 🇯🇴_jordan.md
+            │   │   ├── 🇸🇾_syria.md
+            │   │   ├── 🇮🇶_iraq.md
+            │   │   ├── 🇱🇧_lebanon.md
+            │   │   ├── 🇴🇲_oman.md
+            │   │   ├── 🇰🇼_kuwait.md
+            │   │   ├── 🇾🇪_yemen.md
+            │   │   ├── 🇵🇸_palestinian_authorities_and_fragmented_governance.md
+            │   │   └── 🔗_regional_security_and_data_cooperation.md
+            │   │
+            │   ├── 🌏_East_And_Southeast_Asia/
+            │   │   ├── 🇨🇳_china.md
+            │   │   ├── 🇭🇰_hong_kong.md
+            │   │   ├── 🇰🇵_north_korea.md
+            │   │   ├── 🇻🇳_vietnam.md
+            │   │   ├── 🇰🇭_cambodia.md
+            │   │   └── 🔗_regional_authoritarian_cooperation.md
+            │   │
+            │   ├── 🪆_Russia_And_Post_Soviet_Space/
+            │   │   ├── 🇷🇺_russia.md
+            │   │   ├── 🇧🇾_belarus.md
+            │   │   ├── 🇦🇿_azerbaijan.md
+            │   │   ├── 🇹🇯_tajikistan.md
+            │   │   ├── 🇺🇿_uzbekistan.md
+            │   │   ├── 🇹🇲_turkmenistan.md
+            │   │   └── 🔗_extradition_rendition_and_security_cooperation.md
+            │   │
+            │   ├── 🌍_East_And_Central_Africa/
+            │   │   ├── 🇷🇼_rwanda.md
+            │   │   ├── 🇪🇷_eritrea.md
+            │   │   ├── 🇪🇹_ethiopia.md
+            │   │   ├── 🇸🇸_south_sudan.md
+            │   │   └── 🔗_regional_return_and_surveillance_networks.md
+            │   │
+            │   └── 🌎_Other_Case_Studies/
+            │       ├── 🧭_cases_outside_the_primary_regions.md
+            │       ├── 🏛️_democratic_state_temptations.md
+            │       └── 🤝_allied_states_and_selective_blindness.md
+            │
+            ├── 🌡️_When_The_Pot_Gets_Too_Small/
+            │   ├── 🪴_the_system_at_rest.md
+            │   ├── 🌪️_the_system_under_pressure.md
+            │   ├── 🗳️_elections_protests_and_succession_crises.md
+            │   ├── ⚔️_war_sanctions_and_external_shock.md
+            │   ├── 📈_demanding_more_certainty_from_a_bad_model.md
+            │   ├── 🎯_category_expansion_and_false_positives.md
+            │   ├── 🪤_when_error_is_reclassified_as_concealment.md
+            │   ├── 🧪_when_the_model_creates_its_own_evidence.md
+            │   └── 🩸_feeding_the_system_instead_of_stopping_it.md
+            │
+            ├── 🥀_The_Audrey_II_Problem/
+            │   ├── 🧠_human_relationships_are_not_stable_variables.md
+            │   ├── 🕸️_relationships_are_not_interchangeable.md
+            │   ├── 🪞_surface_matches_and_missing_substance.md
+            │   ├── 🔁_feedback_loops_and_confirmation_bias.md
+            │   ├── 🧮_scoring_prejudice_as_risk.md
+            │   ├── 📉_model_decay_and_stale_intelligence.md
+            │   ├── 🧬_merged_records_and_category_errors.md
+            │   ├── 🪓_administrative_failure_becoming_coercion.md
+            │   └── 🕳️_the_database_that_cannot_admit_it_is_wrong.md
+            │
+            ├── 🔎_Is_It_The_Plant_Or_The_Community/
+            │   ├── 🧭_electronic_system_or_community_politics.md
+            │   ├── 🪞_homophily_class_and_social_sorting.md
+            │   ├── 📱_platform_recommendation_effects.md
+            │   ├── 🏛️_institutional_gatekeeping.md
+            │   ├── 🗣️_gossip_conflict_and_local_factionalism.md
+            │   ├── 📡_signs_of_shared_data_or_shared_rules.md
+            │   ├── ⏱️_timing_thresholds_and_phase_changes.md
+            │   ├── 🧩_comparative_case_method.md
+            │   ├── 🪜_evidence_ladder.md
+            │   └── ❌_what_would_disprove_the_model.md
+            │
+            ├── 🚨_Signs_The_Plant_Is_Under_Strain/
+            │   ├── 🌀_contradictory_classifications.md
+            │   ├── 🗂️_stale_duplicated_and_merged_records.md
+            │   ├── 📢_identical_language_across_unrelated_channels.md
+            │   ├── 🪞_recycled_or_unsuitable_substitutes.md
+            │   ├── 🧱_repeated_relationship_ceilings.md
+            │   ├── 🔗_obvious_collaborators_kept_adjacent_but_apart.md
+            │   ├── 🎭_people_treated_as_irrelevant_and_dangerous.md
+            │   ├── ⚖️_intervention_disproportionate_to_conduct.md
+            │   ├── 👀_what_outsiders_are_likely_to_notice.md
+            │   └── 💥_when_the_management_layer_becomes_visible.md
+            │
+            ├── 🧪_Investigation_Kit/
+            │   ├── README.md
+            │   ├── 📝_observation_inference_and_hypothesis.md
+            │   ├── 📋_relationship_incident_log.md
+            │   ├── 🕸️_relationship_graph_comparison.md
+            │   ├── ⏱️_threshold_and_timing_tracker.md
+            │   ├── 🔁_repeated_intermediary_tracker.md
+            │   ├── 🗣️_language_and_narrative_comparison.md
+            │   ├── 🧭_natural_experiments.md
+            │   ├── 🧯_contamination_and_confirmation_bias.md
+            │   ├── 🔐_safe_evidence_preservation.md
+            │   └── ⚠️_do_not_conduct_amateur_counterintelligence.md
+            │
+            ├── 🪓_Dont_Feed_The_Model/
+            │   ├── 🛑_stopping_rules.md
+            │   ├── 🔄_mandatory_review_and_reauthorisation.md
+            │   ├── 🧑‍⚖️_independent_oversight_and_appeal.md
+            │   ├── 🧹_deletion_correction_and_record_separation.md
+            │   ├── 🚫_prohibited_relationship_inferences.md
+            │   ├── 🔒_data_minimisation_and_purpose_limits.md
+            │   ├── 📣_whistleblowing_and_public_interest_disclosure.md
+            │   └── 🧯_when_the_only_safe_fix_is_to_close_the_system.md
+            │
+            ├── 🛡️_Community_Protection/
+            │   ├── README.md
+            │   ├── 🥀_what_to_do_if_your_diaspora_has_a_database_problem.md
+            │   ├── 🔗_anti_wedge_protocols.md
+            │   ├── 📞_verify_directly_before_severing_contact.md
+            │   ├── 🛤️_maintaining_multiple_routes_to_support.md
+            │   ├── 🧷_protecting_family_across_borders.md
+            │   ├── 📰_legal_journalistic_and_civil_society_routes.md
+            │   ├── 🧯_avoiding_public_accusation_on_weak_evidence.md
+            │   ├── 🏠_host_country_protection_duties.md
+            │   └── 🌱_building_relationships_the_model_cannot_easily_cap.md
+            │
+            ├── ⚖️_Ethics_And_International_Law/
+            │   ├── README.md
+            │   ├── 🕊️_association_is_not_a_risk_externality.md
+            │   ├── 🏠_privacy_family_life_and_belonging.md
+            │   ├── 📣_expression_association_and_political_participation.md
+            │   ├── 🌍_transnational_repression_and_state_sovereignty.md
+            │   ├── 🎭_attribution_proxies_and_plausible_deniability.md
+            │   ├── 🧾_state_responsibility_and_due_diligence.md
+            │   ├── ⚖️_discrimination_persecution_and_systematic_harm.md
+            │   ├── 🚨_when_data_infrastructure_enables_mass_abuse.md
+            │   ├── 🩸_the_pathway_to_crimes_against_humanity.md
+            │   └── 🛑_the_duty_to_review_stop_and_remedy.md
+            │
+            ├── 🎭_Language_And_Cover_Stories/
+            │   ├── 🛡️_community_safeguarding.md
+            │   ├── 🧭_diaspora_engagement.md
+            │   ├── 📡_foreign_interference_prevention.md
+            │   ├── 🧯_counter_extremism.md
+            │   ├── 📊_risk_mitigation.md
+            │   ├── 🏛️_social_stability.md
+            │   ├── 🫂_protective_monitoring.md
+            │   └── 🕸️_the_operational_meaning_of_who_may_know_whom.md
+            │
+            └── 📚_Evidence_And_Reading/
+                ├── README.md
+                ├── 📑_documented_transnational_repression_cases.md
+                ├── 🧰_surveillance_and_social_graph_capabilities.md
+                ├── 🏢_embassy_and_consular_abuse_cases.md
+                ├── 🧷_family_coercion_and_proxy_pressure.md
+                ├── 🤝_authoritarian_collaboration_cases.md
+                ├── ⚖️_international_law_and_human_rights_sources.md
+                ├── 🏛️_uk_policy_and_protection_frameworks.md
+                └── 🗂️_claims_evidence_and_confidence_register.md
