@@ -5,7 +5,9 @@ on:
   push:
     paths:
       - "**/*.md"
-      - "**/*.markdown"
+      - "**/*.
+markdown
+"
       - "**/*.mdx"
       - "**/*.txt"
       - ".github/workflows/repo-wordcount.yml"
@@ -146,30 +148,80 @@ jobs:
               re.DOTALL,
           )
 
-          inline_code_re = re.compile(
-              r"`[^`\n]*`"
-          )
-
-          markdown_image_re = re.compile(
-              r"!$begin:math:display$\[\^$end:math:display$]*\]$begin:math:text$\[\^\)\\n\]\*$end:math:text$"
-          )
-
-          markdown_link_re = re.compile(
-              r"$begin:math:display$\(\[\^$end:math:display$]+)\]$begin:math:text$\[\^\)\\n\]\*$end:math:text$"
-          )
-
-          html_re = re.compile(
-              r"<[^>]+>"
-          )
+          inline_code_re = re.compile(r"`[^`\n]*`")
+          html_re = re.compile(r"<[^>]+>")
 
           bare_url_re = re.compile(
               r"https?://\S+|www\.\S+",
               re.IGNORECASE,
           )
 
-          whitespace_re = re.compile(
-              r"\s+"
-          )
+          whitespace_re = re.compile(r"\s+")
+
+
+          def strip_markdown_links(text: str) -> str:
+              """
+              Remove Markdown image destinations and link destinations
+              without using fragile bracket-and-parenthesis regexes.
+
+              [visible text](destination) becomes visible text.
+              ![alt text](destination) is removed.
+              """
+              output = []
+              index = 0
+              length = len(text)
+
+              while index < length:
+                  is_image = (
+                      text[index] == "!"
+                      and index + 1 < length
+                      and text[index + 1] == "["
+                  )
+
+                  is_link = text[index] == "["
+
+                  if not is_image and not is_link:
+                      output.append(text[index])
+                      index += 1
+                      continue
+
+                  bracket_start = index + 1 if is_image else index
+                  bracket_end = text.find("]", bracket_start + 1)
+
+                  if bracket_end == -1:
+                      output.append(text[index])
+                      index += 1
+                      continue
+
+                  paren_start = bracket_end + 1
+
+                  if (
+                      paren_start >= length
+                      or text[paren_start] != "("
+                  ):
+                      output.append(text[index])
+                      index += 1
+                      continue
+
+                  paren_end = text.find(")", paren_start + 1)
+
+                  if paren_end == -1:
+                      output.append(text[index])
+                      index += 1
+                      continue
+
+                  visible_text = text[
+                      bracket_start + 1:bracket_end
+                  ]
+
+                  if not is_image:
+                      output.append(visible_text)
+                  else:
+                      output.append(" ")
+
+                  index = paren_end + 1
+
+              return "".join(output)
 
 
           def count_words(path: Path) -> int:
@@ -185,15 +237,13 @@ jobs:
               text = frontmatter_re.sub("", text, count=1)
               text = fenced_code_re.sub(" ", text)
               text = inline_code_re.sub(" ", text)
-              text = markdown_image_re.sub(" ", text)
-              text = markdown_link_re.sub(r"\1", text)
+              text = strip_markdown_links(text)
               text = html_re.sub(" ", text)
               text = bare_url_re.sub(" ", text)
               text = whitespace_re.sub(" ", text).strip()
 
               return len(text.split()) if text else 0
-
-
+              
           # --------------------------------------------------
           # FILE COUNTS
           # --------------------------------------------------
