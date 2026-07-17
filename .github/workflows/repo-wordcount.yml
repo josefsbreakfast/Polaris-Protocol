@@ -147,32 +147,11 @@ jobs:
           )
 
           inline_code_re = re.compile(r"`[^`\n]*`")
-
-          markdown_link_re = re.compile(
-              r"$begin:math:display$\(\[\^$end:math:display$]+)\]$begin:math:text$\[\^\)\]\+$end:math:text$"
-          )
-
-          markdown_image_re = re.compile(
-              r"!$begin:math:display$\(\[\^$end:math:display$]*)\]$begin:math:text$\[\^\)\]\+$end:math:text$"
-          )
-
-          wikilink_re = re.compile(
-              r"$begin:math:display$\\\[\(\[\^\|$end:math:display$]+)(?:\|([^\]]+))?\]\]"
-          )
-
+          markdown_image_re = re.compile(r"!$begin:math:display$\[\^$end:math:display$]*\]$begin:math:text$\[\^\\n\]\*\?$end:math:text$")
+          markdown_link_re = re.compile(r"$begin:math:display$\(\[\^$end:math:display$]+)\]$begin:math:text$\[\^\\n\]\*\?$end:math:text$")
           html_re = re.compile(r"<[^>]+>")
-
-          bare_url_re = re.compile(
-              r"https?://\S+|www\.\S+",
-              re.IGNORECASE,
-          )
-
+          bare_url_re = re.compile(r"https?://\S+|www\.\S+", re.IGNORECASE)
           whitespace_re = re.compile(r"\s+")
-
-          def replace_wikilink(match: re.Match) -> str:
-              target = match.group(1)
-              alias = match.group(2)
-              return alias or target
 
           def count_words(path: Path) -> int:
               try:
@@ -187,25 +166,14 @@ jobs:
               text = frontmatter_re.sub("", text, count=1)
               text = fenced_code_re.sub(" ", text)
               text = inline_code_re.sub(" ", text)
-
-              # Remove image destinations and alt text.
               text = markdown_image_re.sub(" ", text)
-
-              # Keep visible text from ordinary Markdown links.
               text = markdown_link_re.sub(r"\1", text)
-
-              # Keep the alias where one exists; otherwise retain target text.
-              text = wikilink_re.sub(replace_wikilink, text)
-
               text = html_re.sub(" ", text)
               text = bare_url_re.sub(" ", text)
               text = whitespace_re.sub(" ", text).strip()
 
-              if not text:
-                  return 0
-
-              return len(text.split())
-
+              return len(text.split()) if text else 0
+              
           # --------------------------------------------------
           # FILE COUNTS
           # --------------------------------------------------
