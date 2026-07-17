@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-17 22:13:32 UTC_
+_Generated on 2026-07-17 22:16:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5402,6 +5402,10 @@ _Generated on 2026-07-17 22:13:32 UTC_
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🗞️_The_Reporting_Gap/README.md)
         - [**🛰️_Orientation/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🛰️_Orientation/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🛰️_Orientation/README.md)
+          - [`🇵🇸_palestine_remains_central.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🛰️_Orientation/🇵🇸_palestine_remains_central.md)
+          - [`🌀_editorial_guardrails.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🛰️_Orientation/🌀_editorial_guardrails.md)
+          - [`🌱_why_use_the_rhizome_model.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🛰️_Orientation/🌱_why_use_the_rhizome_model.md)
+          - [`🕸️_connection_is_not_equivalence.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🛰️_Orientation/🕸️_connection_is_not_equivalence.md)
         - [**🥁_Why_They_Are_Still_Marching/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🥁_Why_They_Are_Still_Marching/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🥁_Why_They_Are_Still_Marching/README.md)
         - [**🧭_Movement_Legibility/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🧭_Movement_Legibility/)
