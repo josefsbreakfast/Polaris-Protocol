@@ -1,5 +1,5 @@
 # 🍉 Palestine As Rhizome  
-**First created:** 2026-07-17 | **Last updated:** 2026-07-17  
+**First created:** 2026-07-17 | **Last updated:** 2026-07-18  
 *Reporting frameworks for understanding why Palestine remains a durable site of protest, political identification, institutional dispute, and interconnected public concern.*
 
 ---
@@ -10,7 +10,7 @@
 
 It uses the rhizome as an analytical model for understanding how an unresolved struggle has developed multiple connected routes through public life.
 
-Palestine is not being reduced to those connections. Palestinian life, history, testimony, material conditions, and political agency remain central.
+Palestine is not reduced to those connections. Palestinian life, history, testimony, material conditions, and political agency remain central.
 
 The model instead helps explain why the movement cannot be understood as one isolated issue with one root, one constituency, or one route towards political engagement.
 
@@ -70,7 +70,7 @@ For example:
 - antisemitic incidents can generate demands for safer and more disciplined solidarity;
 - accusations directed at Jewish dissenters can open wider arguments about Jewish identity and political representation;
 - arms sales can connect protest to taxation, employment, procurement, and public accountability;
-- and the treatment of students, workers, doctors, journalists, lawyers, or artists can create new constituencies with their own reasons to remain involved.
+- and the treatment of students, workers, doctors, journalists, lawyers, artists, or religious communities can create new constituencies with their own reasons to remain involved.
 
 The movement is therefore not sustained by one slogan.
 
@@ -227,121 +227,163 @@ Describing Palestine as merely foreign can conceal the domestic decisions throug
 
 ---
 
-## 🌿 Possible Internal Packs
+## 🌿 Branch Structure
 
-### 🥁 Why They Are Still Marching
+This branch contains orientation notes, reporting frameworks, route maps, institutional analysis, movement guardrails, and practical tools.
 
-A direct reporting pack addressing:
+Some packs explain why Palestine remains a persistent site of mobilisation. Others examine how the issue enters domestic institutions, how it is reported, how solidarity manages disagreement, and how attempts at containment can generate further political roots.
 
-- unresolved harm;
-- continuing political decisions;
-- changing participant motivations;
-- movement durability;
-- and the difference between repetition and stagnation.
+### 🛰️ [Orientation](🛰️_Orientation/README.md)
 
-### 🕸️ The Root Map
+Establishes the conceptual and editorial foundations of the branch.
 
-Map the movement’s connected concerns:
+- [🌱 Why Use The Rhizome Model](🛰️_Orientation/🌱_why_use_the_rhizome_model.md)
+- [🇵🇸 Palestine Remains Central](🛰️_Orientation/🇵🇸_palestine_remains_central.md)
+- [🕸️ Connection Is Not Equivalence](🛰️_Orientation/🕸️_connection_is_not_equivalence.md)
+- [🌀 Editorial Guardrails](🛰️_Orientation/🌀_editorial_guardrails.md)
 
-- humanitarian;
-- legal;
-- religious;
-- diasporic;
-- anti-racist;
-- labour;
-- student;
-- feminist;
-- queer;
-- medical;
-- journalistic;
-- environmental;
-- economic;
-- and anti-war.
+This pack explains what the rhizome model can clarify, what it must not flatten, and why Palestinian life and political agency must remain central throughout the analysis.
 
-The purpose is not to claim that all concerns are the same.
+### 🥁 [Why They Are Still Marching](🥁_Why_They_Are_Still_Marching/README.md)
 
-It is to show how they meet.
+A direct reporting pack examining protest persistence as evidence of unresolved conditions rather than irrational repetition.
 
-### 🏛️ The Institutions At Home
+- [🌱 Persistence Is Information](🥁_Why_They_Are_Still_Marching/🌱_persistence_is_information.md)
+- [🕊️ What Remains Unresolved](🥁_Why_They_Are_Still_Marching/🕊️_what_remains_unresolved.md)
+- [🥀 What Has Changed Since The Marches Began](🥁_Why_They_Are_Still_Marching/🥀_what_has_changed_since_the_marches_began.md)
+- [🫒 Repetition Is Not Stagnation](🥁_Why_They_Are_Still_Marching/🫒_repetition_is_not_stagnation.md)
+- [⛓️‍💥 What Would Allow The Marches To End](🥁_Why_They_Are_Still_Marching/⛓️‍💥_what_would_allow_the_marches_to_end.md)
 
-Track how Palestine enters domestic public life through:
+This pack distinguishes repetition from stagnation, tracks the accumulation of new grievances, and asks what participants might recognise as meaningful movement towards a legitimate conclusion.
 
-- Parliament;
+### 🕸️ [The Root Map](🕸️_The_Root_Map/README.md)
+
+Maps the major routes through which people enter, remain within, or deepen their relationship to Palestinian solidarity.
+
+- [🕊️ Humanitarian And Civilian Protection](🕸️_The_Root_Map/🕊️_humanitarian_and_civilian_protection.md)
+- [⚖️ International Law And Accountability](🕸️_The_Root_Map/⚖️_international_law_and_accountability.md)
+- [🌍 Colonial And Anti-Racist Routes](🕸️_The_Root_Map/🌍_colonial_and_anti_racist_routes.md)
+- [🕯️ Religious And Diasporic Routes](🕸️_The_Root_Map/🕯️_religious_and_diasporic_routes.md)
+- [🛠️ Labour, Student And Professional Routes](🕸️_The_Root_Map/🛠️_labour_student_and_professional_routes.md)
+- [🌈 Feminist, Queer And Disability Routes](🕸️_The_Root_Map/🌈_feminist_queer_and_disability_routes.md)
+- [🚀 Anti-War, Arms And Procurement Routes](🕸️_The_Root_Map/🚀_anti_war_arms_and_procurement_routes.md)
+
+The purpose is not to claim that all routes are equivalent.
+
+It is to show how distinct concerns can meet around Palestine while retaining their own histories, constituencies, disciplines, disagreements, and political obligations.
+
+### 🏛️ Institutions At Home
+
+Tracks how Palestine enters domestic public life through institutions including:
+
+- Parliament and government;
 - local government;
-- policing;
-- courts;
-- universities;
-- schools;
-- hospitals;
-- charities;
-- cultural bodies;
-- broadcasters;
+- policing and public order;
+- universities and schools;
+- healthcare and professional ethics;
+- charities and cultural bodies;
+- workplaces and trade unions;
 - political parties;
-- and professional regulators.
+- regulators;
+- and public appointments.
 
-### 🗞️ The Protest Reporting Gap
+This pack asks what domestic institutions are doing, funding, restricting, authorising, disciplining, or refusing to address.
 
-Examine recurring weaknesses in coverage:
+It treats those decisions as part of the substantive Palestine story rather than as secondary reactions to an external conflict.
+
+### 🗞️ The Reporting Gap
+
+Examines recurring weaknesses in coverage, including:
 
 - event-based rather than process-based reporting;
 - crowd spectacle;
 - motive compression;
 - selective quotation;
-- decontextualised slogans;
-- protester typologies;
+- the search for one representative protester;
+- decontextualised slogans and symbols;
 - absent Palestinian voices;
-- and failure to explain why the mobilisation continues.
+- protest policing reported without protest cause;
+- and the assumption that continuing attention is itself anomalous.
+
+This pack supports reporting that explains persistence rather than merely cataloguing conduct.
 
 ### ⚖️ Universal Until Tested
 
-Examine claims of inconsistency concerning:
+Examines whether principles presented as universal remain universal when applying them becomes politically costly.
 
-- international law;
-- human rights;
+Key areas include:
+
 - civilian protection;
+- international law;
 - freedom of expression;
 - protest rights;
+- institutional neutrality;
 - professional ethics;
-- and institutional neutrality.
+- and consistency as a source of legitimacy.
+
+This pack does not assume that every allegation of inconsistency is correct.
+
+It provides a framework for testing institutional conduct against the principles institutions claim to uphold.
 
 ### 🪢 Solidarity Without Collapse
 
-Develop reporting and movement guardrails that allow connections to be drawn without:
+Develops reporting and movement guardrails for sustaining connection without collapsing important distinctions.
 
-- historical flattening;
-- antisemitism;
-- Islamophobia;
-- atrocity comparison as competition;
-- appropriation;
-- or the erasure of Palestinian political agency.
+It addresses:
+
+- disagreement within the movement;
+- antisemitism without collective indictment;
+- Islamophobia and anti-Palestinian racism;
+- Jewish dissent and political representation;
+- comparison without historical flattening;
+- solidarity without appropriation;
+- and Palestinian agency rather than symbolic use.
+
+The aim is neither compulsory uniformity nor the denial of harm.
+
+It is disciplined solidarity capable of recognising internal conflict without allowing that conflict to erase the movement’s minimum shared centre.
 
 ### 🌱 What Repression Produces
 
-Track how containment can generate new roots through:
+Tracks how efforts to contain Palestinian solidarity may generate new routes of mobilisation through:
 
-- arrests;
-- disciplinary proceedings;
-- employment consequences;
-- censorship;
-- surveillance;
-- protest restrictions;
-- funding pressure;
+- arrests and public-order measures;
+- employment and professional discipline;
+- university sanctions and encampment disputes;
+- surveillance and data collection;
+- funding, donor, and governance pressure;
+- censorship and platform control;
 - and institutional reputational management.
 
-### 🛤️ What Would Allow The Marches To End
+This pack asks whether repression has reduced harm, displaced visibility, intensified mistrust, or created new constituencies with their own reasons to become involved.
 
-Ask what participants would recognise as meaningful movement towards resolution.
+### 🧭 Movement Legibility
 
-This may include:
+Provides ways to understand a large, internally varied movement without falsely presenting it as either completely unified or hopelessly fragmented.
 
-- an end to immediate mass harm;
-- credible humanitarian access;
-- accountability;
-- policy change;
-- cessation of material support;
-- recognition of Palestinian rights and political agency;
-- protection for public dissent;
-- and evidence that institutions have learned rather than merely waited for attention to fade.
+It examines:
+
+- how many routes can enter one march;
+- the movement’s minimum shared centre;
+- disagreement without automatic fragmentation;
+- changing language and tactics;
+- local, national, and transnational layers;
+- and the people, practices, and forms of participation that are not easily visible in a march.
+
+This pack helps journalists and institutions describe complexity without converting complexity into incoherence.
+
+### 🧺 Tools
+
+Provides reusable reporting and analytical tools, including:
+
+- a rhizome-mapping template;
+- a protest-persistence checklist;
+- an institutional-connection map;
+- a claim-and-evidence register;
+- reporting questions;
+- and a comparison guardrail.
+
+These tools are intended to support evidence-led reporting, institutional scrutiny, careful comparison, and the mapping of connections without treating connection as proof of equivalence.
 
 ---
 
@@ -430,4 +472,4 @@ It provides reporting frameworks for understanding why Palestine remains a durab
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-07-17_
+_Last updated: 2026-07-18_
