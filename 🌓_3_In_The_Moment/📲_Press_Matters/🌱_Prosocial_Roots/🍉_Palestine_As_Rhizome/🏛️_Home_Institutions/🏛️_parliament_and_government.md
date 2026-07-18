@@ -22,12 +22,13 @@ These decisions include:
 - parliamentary discipline;
 - and the use of public authority to define which forms of political participation are legitimate.
 
-Parliamentary discussion is therefore not only commentary upon an event happening elsewhere.
+Parliamentary discussion is therefore not only commentary upon events happening elsewhere.
 
-Government departments, elected representatives, public officials, devolved administrations, and local authorities can all make decisions that affect:
+Government departments, elected representatives, public officials, devolved administrations, and local authorities can all make decisions affecting:
 
 - material support;
 - diplomatic pressure;
+- civilian protection;
 - public accountability;
 - institutional legitimacy;
 - and the conditions under which Palestinians and those acting in solidarity with them are heard.
@@ -56,19 +57,11 @@ It is also written for readers who ask:
 - Why did disciplinary action not make the issue disappear?
 - Why do some people appear more committed after arrest, exclusion, suspension, dismissal, or public criticism?
 - Why has the political dispute continued after institutions made their position clear?
-- Why do protesters interpret political and institutional responses as part of the original issue?
+- Why do protesters now treat the institutional response as part of the original grievance?
 
 The purpose is not to demand that every reader begin from the same political conclusion.
 
-International law, civilian protection, Palestinian political agency, and material responsibility remain central to this branch.
-
-The branch would welcome movement towards:
-
-- consistent application of international law;
-- civilian protection;
-- meaningful Palestinian political agency;
-- accountability;
-- and an end to ongoing mass harm.
+International law, civilian protection, Palestinian political agency, material responsibility, and an end to ongoing mass harm remain central to this branch.
 
 But understanding political persistence also requires understanding how people respond to pressure.
 
@@ -86,7 +79,7 @@ Sometimes it does.
 
 Sometimes it produces the opposite result.
 
-This note therefore examines not only the intention behind government and parliamentary action, but how that action is interpreted and what political effects it produces.
+This note therefore examines not only the stated intention behind government and parliamentary action, but how that action is interpreted and what political effects it produces.
 
 ---
 
@@ -96,7 +89,7 @@ Palestine is often described as a foreign-policy matter.
 
 That description is only partly accurate.
 
-Events affecting Palestinians may occur outside Britain, but British institutions may still make relevant decisions concerning:
+Events affecting Palestinians may occur outside Britain, but British institutions still make relevant decisions concerning:
 
 - military equipment;
 - export licences;
@@ -108,8 +101,6 @@ Events affecting Palestinians may occur outside Britain, but British institution
 - sanctions;
 - public contracts;
 - and political recognition.
-
-The distinction is important.
 
 A government may have limited power to determine the conduct of another state.
 
@@ -341,6 +332,710 @@ A government can repeatedly refer to legal advice without allowing Parliament or
 - its evidentiary basis;
 - whether dissenting advice existed;
 - or whether later events required reconsideration.
+
+---
+
+## ⚪ When Neutrality Ceases To Be Neutral
+
+Many political and institutional responses began with an appeal to neutrality.
+
+The reasoning may have been that governments and public bodies should avoid:
+
+- taking sides in a contested conflict;
+- appearing to endorse one political movement;
+- inflaming community tension;
+- prejudicing legal or diplomatic processes;
+- or speaking beyond their formal competence.
+
+That position can be understandable.
+
+Institutions may lack complete information.
+
+They may hold competing duties.
+
+They may be attempting to protect relationships, public confidence, staff, communities, diplomatic channels, or operational capacity.
+
+But neutrality is not simply the absence of language.
+
+Silence, delay, continued cooperation, and refusal to review existing policy can all have material consequences.
+
+Where an institution retains:
+
+- contracts;
+- licences;
+- investments;
+- military relationships;
+- funding decisions;
+- diplomatic positions;
+- regulatory powers;
+- or authority over public speech,
+
+saying nothing does not leave the institution outside the dispute.
+
+It may preserve the existing distribution of power.
+
+### Legal Warning Changes The Context
+
+The threshold for institutional silence becomes harder to defend once credible international legal warnings have been issued.
+
+The International Court of Justice did not make a final finding that genocide had occurred when it issued provisional measures in the case brought under the Genocide Convention.
+
+It did find that urgent protective measures were required while the case continued.
+
+Those measures concerned matters including:
+
+- prevention;
+- incitement;
+- humanitarian assistance;
+- preservation of evidence;
+- and reporting on implementation.
+
+The existence of provisional measures did not settle every factual, legal, military, or political dispute.
+
+It did alter the institutional context.
+
+After a court with relevant international authority identifies an urgent risk requiring preventive action, silence can no longer be understood only as caution.
+
+Institutions must ask:
+
+- What preventive duties apply to us?
+- What relationships or decisions require review?
+- What evidence must now be reconsidered?
+- What explanation do we owe the public?
+- And what are the consequences of continuing unchanged?
+
+### Silence Is Still A Position
+
+Silence can communicate several different things.
+
+It may indicate:
+
+- uncertainty;
+- legal caution;
+- lack of authority;
+- incomplete evidence;
+- diplomatic restraint;
+- disagreement within the institution;
+- fear of causing further harm;
+- or inability to reach an agreed position.
+
+Those possibilities should be considered sympathetically where evidence supports them.
+
+But silence can also be understood publicly as:
+
+- indifference;
+- permission;
+- avoidance;
+- protection of an existing relationship;
+- refusal to apply stated principles;
+- or acceptance that the harm is not important enough to alter policy.
+
+The institution does not fully control which meaning the public receives.
+
+Where severe harm is visible and the institution continues material relationships without adequate explanation, the claim of neutrality becomes increasingly difficult to sustain.
+
+A government that retains active power is not neutral merely because it avoids explicit endorsement.
+
+A public body that applies restrictions to people speaking about harm while declining to address the harm itself is not operating outside the conflict.
+
+It has made a choice about where institutional pressure will fall.
+
+### Historical Comparison Requires Precision
+
+The principle is not limited to Palestine.
+
+Silence during atrocity processes has repeatedly become a subject of later moral and political scrutiny.
+
+This does not mean that:
+
+- Gaza is identical to Rwanda;
+- Gaza is identical to Bosnia;
+- Gaza is identical to the Holocaust;
+- or distinct histories should be collapsed into one another.
+
+The comparison concerns a narrower institutional question:
+
+**What does silence mean once credible warning of mass atrocity exists?**
+
+Historical hindsight often makes institutional failure appear obvious.
+
+During the event itself, institutions may describe their position as:
+
+- caution;
+- uncertainty;
+- neutrality;
+- strategic patience;
+- insufficient evidence;
+- or concern about unintended consequences.
+
+Some of those concerns may be genuine.
+
+The lesson is not that every uncertain institution should immediately adopt the strongest available allegation.
+
+The lesson is that uncertainty does not eliminate preventive responsibility.
+
+Where the possible harm is catastrophic, the cost of delay must form part of the decision.
+
+### Neutrality Of Process And Neutrality Of Outcome
+
+It is useful to distinguish two meanings of neutrality.
+
+**Procedural neutrality** may require an institution to:
+
+- hear competing claims;
+- test evidence;
+- avoid collective blame;
+- apply the same standards;
+- protect lawful participation;
+- and refrain from prejudging unresolved allegations.
+
+That form of neutrality can strengthen legitimacy.
+
+**Outcome neutrality** may mean preserving existing policy regardless of changing evidence.
+
+It may involve:
+
+- continuing licences;
+- retaining investments;
+- maintaining partnerships;
+- avoiding public explanation;
+- declining to review risk;
+- or disciplining those who demand reconsideration.
+
+That is not necessarily neutral in effect.
+
+It may favour whichever party already benefits from institutional continuity.
+
+A fair process does not require indifference to consequence.
+
+An institution can remain careful, evidence-led, and procedurally fair while recognising that severe harm creates duties to review, explain, and act.
+
+### The Legitimacy Problem
+
+A government may believe that it has lawful, diplomatic, intelligence, security, or strategic reasons for withholding information or maintaining a relationship.
+
+Some reasons may not be suitable for immediate public disclosure.
+
+That does not remove the legitimacy problem created when the public sees:
+
+- repeated civilian harm;
+- international legal intervention;
+- humanitarian deterioration;
+- continued material support;
+- limited disclosure;
+- and disciplinary pressure directed at critics.
+
+People may conclude that government is:
+
+- indifferent to Palestinian life;
+- exempting an ally from ordinary legal standards;
+- supporting unlawful violence;
+- or attempting to silence scrutiny rather than answer it.
+
+That conclusion may be disputed.
+
+The fact that it is seriously or widely held remains politically significant.
+
+Public legitimacy depends not only on whether government believes its position is justified.
+
+It also depends on whether people can understand:
+
+- what principles are being applied;
+- what evidence is being considered;
+- what limits exist;
+- what risks have been identified;
+- and why the state’s actions are consistent with its stated obligations.
+
+Where explanation is absent, trust is not preserved automatically.
+
+The public may instead interpret secrecy as evidence of contradiction.
+
+### From Government Risk To Individual Risk
+
+One of the most damaging responses is the transfer of institutional risk onto individuals.
+
+Government may face difficult questions concerning:
+
+- foreign policy;
+- arms licensing;
+- military cooperation;
+- international law;
+- intelligence;
+- diplomatic relationships;
+- or alliance management.
+
+Rather than resolving those questions openly, institutions may place pressure on:
+
+- protesters;
+- students;
+- workers;
+- healthcare staff;
+- journalists;
+- lawyers;
+- academics;
+- elected representatives;
+- artists;
+- religious communities;
+- or public employees.
+
+The practical effect is that people with the least decision-making power carry the cost of uncertainty created at the highest level.
+
+They may face:
+
+- arrest;
+- investigation;
+- disciplinary action;
+- dismissal;
+- loss of candidacy;
+- professional referral;
+- surveillance;
+- reputational attack;
+- or financial loss
+
+for demanding clarification from institutions that retain the material power.
+
+This reverses the proper direction of accountability.
+
+The central question should remain:
+
+**What is government doing, and why?**
+
+It should not become:
+
+**How can individuals be prevented from continuing to ask?**
+
+### Silence Plus Discipline Is Not Neutrality
+
+Institutional silence has one meaning when the institution also protects open inquiry.
+
+It has another when silence is accompanied by punishment directed at those who speak.
+
+A government or public institution cannot easily claim neutrality where it:
+
+- declines to state its own position clearly;
+- withholds the reasoning behind active policy;
+- maintains material relationships;
+- and penalises people who question those relationships.
+
+That combination does not produce a neutral public sphere.
+
+It produces an asymmetry.
+
+The existing policy continues.
+
+The people challenging it absorb the risk.
+
+This can create the impression that government is neutral towards harm but highly active towards dissent.
+
+Whether or not that was the intended message, it is a severe legitimacy problem.
+
+---
+
+## 🕯️ The Antisemitic Explanatory Vacuum
+
+European antisemitism did not begin with modern disputes over Israel and Palestine.
+
+It draws upon older Christian, racial, nationalist, and conspiratorial traditions that have portrayed Jewish people as:
+
+- inherently untrustworthy;
+- morally corrupt;
+- collectively responsible for the death of Christ;
+- disloyal to the countries in which they live;
+- secretly coordinated;
+- disproportionately powerful;
+- financially controlling;
+- politically manipulative;
+- or able to direct governments from behind the scenes.
+
+These ideas remain present within European and white-majority societies even where people consciously reject them.
+
+They survive through:
+
+- religious inheritance;
+- literature;
+- political language;
+- jokes;
+- cultural archetypes;
+- conspiracy theories;
+- media narratives;
+- and assumptions about money, secrecy, loyalty, and power.
+
+Jewish people are also exposed to this culture.
+
+Internalised antisemitism can reproduce inherited assumptions within Jewish thought, self-understanding, and communal conflict.
+
+No population can simply choose not to absorb any of the prejudices circulating through the society in which it lives.
+
+### When Democratic Explanation Fails
+
+Many people attempting to influence policy on Palestine initially used ordinary democratic routes.
+
+They:
+
+- wrote to elected representatives;
+- contacted ministers;
+- signed petitions;
+- attended constituency meetings;
+- submitted evidence;
+- participated in consultations;
+- raised concerns through political parties;
+- contacted professional bodies;
+- approached regulators;
+- and asked institutions to explain their decisions.
+
+In many cases, people believed that these routes produced:
+
+- formulaic responses;
+- delayed answers;
+- no substantive engagement;
+- refusal to disclose reasoning;
+- unexplained policy continuity;
+- or no identifiable route through which the decision could be changed.
+
+There may have been reasons for those limits.
+
+Governments may have been managing:
+
+- classified intelligence;
+- military cooperation;
+- procurement;
+- cyber operations;
+- diplomatic negotiations;
+- hostage-related information;
+- security partnerships;
+- operational risk;
+- or obligations that could not safely be discussed publicly.
+
+The public may not have been able to see those reasons.
+
+What people could see was that:
+
+- severe harm continued;
+- ordinary democratic representations appeared ineffective;
+- governments maintained close relationships with Israel;
+- policy explanations remained incomplete;
+- and people demanding answers were sometimes disciplined or dismissed.
+
+That combination created an explanatory vacuum.
+
+### Ancient Prejudice Supplies Easy Explanations
+
+Where political power appears unresponsive and its reasoning is hidden, people search for explanations.
+
+Antisemitic culture offers a ready-made false explanation:
+
+**Jewish people must possess secret, disproportionate, or illegitimate power over government.**
+
+That conclusion is antisemitic.
+
+It wrongly transfers responsibility from:
+
+- governments;
+- ministers;
+- defence institutions;
+- intelligence relationships;
+- procurement systems;
+- commercial interests;
+- foreign-policy strategy;
+- military alliances;
+- and specific advocacy organisations
+
+onto Jewish people as a collective.
+
+Jewish citizens do not collectively direct state policy.
+
+Jewish communities are politically diverse.
+
+Jewish institutions do not speak for every Jewish person.
+
+Israel’s political or military relationships with Western governments cannot be attributed to an inherent Jewish capacity for secret control.
+
+More plausible explanations for government conduct concern ordinary, if sometimes opaque, state power:
+
+- alliance management;
+- defence procurement;
+- intelligence cooperation;
+- technological dependence;
+- cyber capability;
+- military strategy;
+- trade;
+- domestic party politics;
+- lobbying;
+- diplomatic commitments;
+- and institutional self-protection.
+
+These explanations may still raise serious democratic questions.
+
+They do not require an ethnic or religious conspiracy.
+
+### Foreseeable Risk To Jewish Citizens
+
+Governments in societies shaped by the Holocaust and older European antisemitism should understand this risk.
+
+Many have formally committed themselves to:
+
+- Holocaust education;
+- antisemitism strategies;
+- remembrance programmes;
+- definitions of antisemitism;
+- hate-crime policy;
+- and protection of Jewish communities.
+
+Those commitments imply institutional knowledge.
+
+A government cannot reasonably present itself as informed about antisemitism while treating the following combination as politically harmless:
+
+- an apparently exceptional foreign-policy relationship;
+- prolonged secrecy;
+- weak democratic explanation;
+- widespread civilian harm;
+- ineffective petitioning;
+- disciplinary pressure on critics;
+- and public insistence that concern itself is improper.
+
+Even where secrecy is genuinely required, the resulting antisemitic risk remains foreseeable.
+
+The state retains responsibility for managing that risk.
+
+It cannot transfer the entire burden onto Jewish citizens and then treat antisemitic backlash as an unrelated community-relations problem.
+
+### Jewish People Were Made To Carry Government Policy
+
+When governments failed to explain their own conduct clearly, Jewish citizens could be placed in an impossible position.
+
+They might be treated as though they were personally responsible for:
+
+- Israeli government policy;
+- British or American military relationships;
+- arms licensing;
+- diplomatic protection;
+- parliamentary positions;
+- media coverage;
+- or the absence of sanctions.
+
+This affected Jewish people regardless of whether they were:
+
+- Zionist;
+- anti-Zionist;
+- non-Zionist;
+- religious;
+- secular;
+- politically active;
+- disengaged;
+- supportive of the Israeli government;
+- critical of it;
+- or entirely uninvolved.
+
+Jewish dissenters faced additional pressure.
+
+They could be required simultaneously to:
+
+- oppose antisemitism;
+- resist collective blame;
+- defend Palestinian rights;
+- challenge governments;
+- explain Jewish political diversity;
+- and prove that their own dissent was authentically Jewish.
+
+The state’s policy became a social burden carried by Jewish individuals who did not make it.
+
+### Palestinian And Racialised Communities Carried A Different Burden
+
+The same communication environment exposed Palestinians and other racialised communities to a different but connected danger.
+
+Palestinians, Muslims, Arabs, Black people, migrants, and visibly racialised protesters were often discussed through language involving:
+
+- extremism;
+- terrorism;
+- cultural threat;
+- imported conflict;
+- disloyalty;
+- irrational anger;
+- religious fanaticism;
+- and collective suspicion.
+
+Such language can help manufacture consent for:
+
+- military action;
+- restrictions on protest;
+- surveillance;
+- counterterrorism intervention;
+- disciplinary measures;
+- and exclusion of Palestinian testimony.
+
+This produces an unequal double burden.
+
+Jewish people may be cast as secretly controlling power.
+
+Palestinians and Muslims may be cast as inherently threatening to it.
+
+Both narratives are racialising.
+
+Both deflect attention from the decisions of governments, militaries, companies, political parties, and public institutions.
+
+### Security Communication Can Produce Civilian Harm At Home
+
+Defence and intelligence institutions may believe that some information cannot be disclosed.
+
+That may be correct.
+
+But secrecy is not socially cost-free.
+
+Security communication must consider not only:
+
+- operational protection;
+- diplomatic consequences;
+- adversarial intelligence;
+- and immediate strategic advantage,
+
+but also:
+
+- democratic understanding;
+- community safety;
+- conspiracy formation;
+- racialisation;
+- public legitimacy;
+- and long-term political use of the informational vacuum.
+
+A classified explanation may be necessary.
+
+A total absence of publicly intelligible explanation remains dangerous.
+
+Where full disclosure is impossible, governments can still explain:
+
+- which institution holds authority;
+- what legal framework applies;
+- what interests are being balanced;
+- what review mechanisms exist;
+- what cannot be disclosed and why;
+- what independent scrutiny is available;
+- and what evidence would trigger policy change.
+
+Without this, the public is left to infer hidden power from visible outcomes.
+
+### Antisemitism Cannot Be Outsourced To Public Discipline
+
+A government cannot credibly respond to an antisemitic risk created partly by its own opacity only by:
+
+- policing protesters;
+- disciplining workers;
+- banning phrases;
+- investigating students;
+- issuing community-relations statements;
+- or instructing Jewish people to report abuse.
+
+Those measures may be necessary in individual cases of genuine antisemitism.
+
+They do not answer the institutional cause of the explanatory vacuum.
+
+The state must also examine:
+
+- its own relationships;
+- its own communications;
+- its own secrecy;
+- its own inconsistencies;
+- and its own failure to distinguish Jewish citizens from Israeli state policy.
+
+Otherwise, responsibility is again transferred downwards.
+
+Government retains the policy.
+
+Jewish citizens absorb the backlash.
+
+Palestinian and racialised citizens absorb the security response.
+
+### The Far Right Benefits From Both Narratives
+
+The organised far right can exploit both sides of this failure.
+
+It can use public anger about Palestine to revive claims that:
+
+- Jews control governments;
+- Jewish loyalty is inherently divided;
+- democratic systems are secretly captured;
+- or Jewish people receive exceptional protection.
+
+It can simultaneously use antisemitic incidents to argue that:
+
+- Muslims are incompatible with European society;
+- migrants bring foreign conflicts;
+- Palestine activism is inherently extremist;
+- multiculturalism has failed;
+- or stronger authoritarian government is required.
+
+The far right does not need to resolve the contradiction.
+
+It benefits from social fragmentation.
+
+It can present Jews as both:
+
+- secretly powerful;
+- and existentially endangered.
+
+It can present Muslims and Palestinians as both:
+
+- politically powerless;
+- and an overwhelming civilisational threat.
+
+The contradiction is part of the method.
+
+It permits different audiences to be mobilised through different fears.
+
+### The Government’s Duty Is Not Merely Reactive
+
+Protecting Jewish communities requires more than responding after antisemitism appears.
+
+It also requires reducing foreseeable conditions through which antisemitic explanations become politically useful.
+
+That includes:
+
+- separating Jewish identity from Israeli state policy;
+- explaining government decisions in institutional rather than communal terms;
+- disclosing relationships and conflicts where possible;
+- acknowledging legitimate concern about Palestinian harm;
+- addressing antisemitism directly where it occurs;
+- avoiding collective suspicion of Muslim and Palestinian communities;
+- and ensuring that democratic petitioning has a visible route to meaningful consideration.
+
+This does not guarantee that antisemitism will disappear.
+
+Committed antisemites do not require evidence.
+
+But institutions should not make their work easier by creating avoidable secrecy, exceptionalism, and confusion.
+
+### The Learning Point
+
+Antisemitism is not prevented by refusing to discuss political power.
+
+It is prevented partly by describing power accurately.
+
+People should be helped to distinguish between:
+
+- Jewish people;
+- Jewish communal organisations;
+- Israeli citizens;
+- the Israeli government;
+- Zionist political movements;
+- British government policy;
+- defence procurement;
+- intelligence cooperation;
+- lobbying;
+- alliance management;
+- and commercial interest.
+
+These are different actors and structures.
+
+They may interact.
+
+They must not be collapsed into a story of collective Jewish control.
+
+Where governments refuse to explain their own agency, they create space for ancient prejudice to explain it falsely.
+
+Where they then punish people for asking questions, they can deepen the perception that the relationship is both exceptional and concealed.
+
+The answer is not to tolerate antisemitism.
+
+It is to confront antisemitism while restoring democratic explanation, institutional accountability, and the visible responsibility of the state for decisions made in its own name.
 
 ---
 
@@ -720,7 +1415,7 @@ A resignation, dismissal, deselection, disciplinary process, restructuring decis
 - opposition to arms sales;
 - defence of a protester or colleague;
 - an internal complaint;
-- or a refusal to endorse an institutional position.
+- or refusal to endorse an institutional position.
 
 That timing should be recorded.
 
@@ -896,7 +1591,7 @@ But defensive reasoning must still be tested against:
 - due process;
 - consistency;
 - long-term consequence;
-- and the availability of less damaging alternatives.
+- and availability of less damaging alternatives.
 
 A decision can feel protective in the short term while weakening the institution over time.
 
@@ -1047,7 +1742,7 @@ Questions about Palestine include substantive issues concerning:
 - international courts;
 - government responsibility;
 - political rights;
-- and the treatment of Palestinian testimony.
+- and treatment of Palestinian testimony.
 
 A psychologically understandable commitment can still be factually wrong.
 
@@ -1153,7 +1848,7 @@ People on different sides of the present dispute may therefore share an interest
 
 That common interest does not erase disagreement over Palestine.
 
-It recognises that the collapse of democratic safeguards would not leave only one side exposed.
+It recognises that collapse of democratic safeguards would not leave only one side exposed.
 
 ---
 
@@ -1387,6 +2082,37 @@ The broader synthesis belongs in:
 - Did practical change occur without public acknowledgement?
 - Which decisions remained active after a rhetorical shift?
 
+### Neutrality And Silence
+
+- What did the institution mean by neutrality?
+- Was it protecting a fair process or preserving an existing outcome?
+- What material relationships continued during the period of silence?
+- Did international legal developments trigger a formal review?
+- What evidence would have been sufficient to change policy?
+- Was uncertainty explained publicly?
+- Were the limits on disclosure explained?
+- Did the institution protect open discussion while withholding judgment?
+- Or did it remain silent while disciplining people who raised the issue?
+- Who carried the legal, professional, financial, or reputational risk created by institutional uncertainty?
+- Was risk retained by the decision maker or transferred onto individuals?
+- What did the public reasonably infer from silence combined with continuing action?
+- Did government address the underlying policy question or primarily manage the people asking it?
+
+### Antisemitism, Opacity, And Collective Attribution
+
+- Did government clearly distinguish Jewish citizens from Israeli state policy?
+- Did reporting distinguish Jewish organisations from Jewish people generally?
+- Were defence, procurement, intelligence, diplomatic, and commercial explanations examined before influence was attributed to communal identity?
+- Did institutional secrecy create an avoidable explanatory vacuum?
+- What information could safely have been disclosed?
+- What independent scrutiny existed for information that remained classified?
+- Were Jewish citizens made to defend a policy they did not make?
+- Were Palestinian, Muslim, Arab, Black, or migrant communities treated as security risks because they challenged that policy?
+- Did government communications reduce or intensify collective attribution?
+- Was antisemitism addressed through evidence and education, or used to close legitimate scrutiny?
+- Did far-right actors exploit both antisemitic conspiracy and anti-Muslim threat narratives?
+- What could government have explained differently without compromising genuine security?
+
 ### Relationships And Influence
 
 - Which organisations received access?
@@ -1457,6 +2183,23 @@ Do not treat a government statement as proof of material change.
 
 Do not treat access, lobbying, donations, hospitality, or relationships as proof of improper influence without evidence.
 
+Do not attribute government policy to Jewish people collectively.
+
+Do not collapse:
+
+- Jewish citizens;
+- Jewish organisations;
+- Israeli citizens;
+- the Israeli government;
+- Zionist movements;
+- foreign-policy institutions;
+- intelligence relationships;
+- procurement;
+- lobbying;
+- and commercial interests
+
+into one category.
+
 Do not imply that all political disagreement was suppressed.
 
 Do not describe every suspension, deselection, resignation, dismissal, or disciplinary action as a purge.
@@ -1524,13 +2267,13 @@ The relevant question is whether those duties were discharged through:
 
 Do not make Palestinians disappear beneath a discussion of British political process.
 
-The relevant domestic question is always connected back to:
+The relevant domestic question must always connect back to:
 
 - Palestinian life;
 - Palestinian rights;
 - Palestinian political agency;
 - material conditions;
-- and the consequences of decisions made through British institutions.
+- and consequences of decisions made through British institutions.
 
 ---
 
@@ -1544,17 +2287,19 @@ Pressure may suppress visible disagreement without resolving it.
 
 Where institutions punish people without answering the concern that motivated them, they may strengthen the belief that resistance remains necessary.
 
-A democratic institution should therefore ask not only whether it can silence a dispute, but what its response teaches people about whether evidence, criticism, and lawful participation still matter.
+Where governments fail to explain their own power, ancient prejudices may falsely relocate that power onto Jewish people.
+
+A democratic institution should therefore ask not only whether it can silence a dispute, but what its response teaches people about whether evidence, criticism, lawful participation, and equal citizenship still matter.
 
 ---
 
 ## 🌌 Constellations
 
-🍉 🏛️ ⚖️ 🚀 🧾 — Palestine; Parliament; government responsibility; international law; arms policy; humanitarian action; democratic accountability.
+🍉 🏛️ ⚖️ 🚀 🕯️ — Palestine; Parliament; government responsibility; international law; arms policy; antisemitism; democratic legitimacy.
 
 ## ✨ Stardust
 
-Palestine, Parliament, government, arms licensing, foreign policy, defence policy, local government, devolved government, international law, legal advice, lobbying, public appointments, parliamentary scrutiny, party discipline, humanitarian policy, mixed motives, deterrence, institutional ambiguity, democratic accountability
+Palestine, Parliament, government, arms licensing, foreign policy, defence policy, local government, devolved government, international law, legal advice, neutrality, silence, antisemitism, collective attribution, lobbying, public appointments, parliamentary scrutiny, party discipline, humanitarian policy, mixed motives, deterrence, institutional ambiguity, democratic accountability
 
 ---
 
@@ -1564,7 +2309,7 @@ Palestine, Parliament, government, arms licensing, foreign policy, defence polic
 
 It examines how parliamentary activity, executive power, public administration, devolved government, and local-authority decisions connect domestic political institutions to Palestine.
 
-It also examines how political discipline, indirect exclusion, mixed motives, and deterrent responses can affect public trust, political persistence, and the democratic capacity to receive criticism.
+It also examines how neutrality claims, political discipline, indirect exclusion, institutional opacity, mixed motives, and deterrent responses affect public trust, antisemitism, political persistence, and the democratic capacity to receive criticism.
 
 > 📡 Cross-references:
 >
@@ -1572,6 +2317,7 @@ It also examines how political discipline, indirect exclusion, mixed motives, an
 > - [🥁 Why They Are Still Marching](../🥁_Why_They_Are_Still_Marching/README.md) — *why unresolved harm and institutional responses sustain mobilisation*
 > - [🕸️ The Root Map](../🕸️_The_Root_Map/README.md) — *routes through which people enter and remain connected to Palestinian solidarity*
 > - [⚖️ International Law And Accountability](../🕸️_The_Root_Map/⚖️_international_law_and_accountability.md) — *legal and accountability routes*
+> - [🕯️ Religious And Diasporic Routes](../🕸️_The_Root_Map/🕯️_religious_and_diasporic_routes.md) — *Jewish, Muslim, Christian, Palestinian, and diasporic routes*
 > - [🚀 Anti-War, Arms And Procurement Routes](../🕸️_The_Root_Map/🚀_anti_war_arms_and_procurement_routes.md) — *military supply, procurement, and anti-war routes*
 > - [🌱 What Repression Produces](../🌱_What_Repression_Produces/README.md) — *the wider consequences of containment, exclusion, and institutional pressure*
 
