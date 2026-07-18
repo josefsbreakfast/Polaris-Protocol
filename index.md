@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-18 13:36:28 UTC_
+_Generated on 2026-07-18 13:40:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5398,6 +5398,7 @@ _Generated on 2026-07-18 13:36:28 UTC_
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🏛️_Institutions_At_Home/README.md)
         - [**🕸️_The_Root_Map/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/README.md)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/notes.txt)
         - [**🗞️_The_Reporting_Gap/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🗞️_The_Reporting_Gap/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🗞️_The_Reporting_Gap/README.md)
         - [**🛰️_Orientation/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🛰️_Orientation/)
