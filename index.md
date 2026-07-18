@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-18 13:54:35 UTC_
+_Generated on 2026-07-18 13:58:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5400,7 +5400,12 @@ _Generated on 2026-07-18 13:54:35 UTC_
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/notes.txt)
           - [`⚖️_international_law_and_accountability.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/⚖️_international_law_and_accountability.md)
+          - [`🌈_feminist_queer_and_disability_routes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/🌈_feminist_queer_and_disability_routes.md)
+          - [`🌍_colonial_and_anti_racist_routes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/🌍_colonial_and_anti_racist_routes.md)
           - [`🕊️_humanitarian_and_civilian_protection.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/🕊️_humanitarian_and_civilian_protection.md)
+          - [`🕯️_religious_and_diasporic_routes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/🕯️_religious_and_diasporic_routes.md)
+          - [`🚀_anti_war_arms_and_procurement_routes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/🚀_anti_war_arms_and_procurement_routes.md)
+          - [`🛠️_labour_student_and_professional_routes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/🛠️_labour_student_and_professional_routes.md)
         - [**🗞️_The_Reporting_Gap/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🗞️_The_Reporting_Gap/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🗞️_The_Reporting_Gap/README.md)
         - [**🛰️_Orientation/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🛰️_Orientation/)
