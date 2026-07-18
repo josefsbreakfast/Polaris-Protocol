@@ -1,0 +1,8 @@
+🏛️_Home_Institutions/
+├── 🏛️_parliament_and_government.md
+├── 🐼_policing_and_public_order.md
+├── 🎓_universities_and_schools.md
+├── 🩺_healthcare_and_professional_ethics.md
+├── 🧵_charities_and_cultural_bodies.md
+├── 🛠️_workplaces_and_trade_unions.md
+└── 🗳️_parties_regulators_and_public_appointments.md
