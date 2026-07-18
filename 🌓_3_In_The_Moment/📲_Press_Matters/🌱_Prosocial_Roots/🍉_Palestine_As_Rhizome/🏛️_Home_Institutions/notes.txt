@@ -10,3 +10,344 @@
 └── 🗳️_parties_regulators_and_public_appointments.md
 
 ---
+
+🏛️_Home_Institutions/
+
+Purpose
+
+* Map the domestic institutions through which people in Britain are already materially, politically, professionally, and culturally connected to Palestine.
+* Show that Palestine is not only a foreign-policy issue observed from a distance.
+* Track decisions made at home concerning arms, policing, education, healthcare, employment, regulation, funding, public appointments, and political speech.
+* Distinguish institutional responsibility from general public opinion.
+* Identify who holds authority, what decisions were available, what evidence was considered, and what changed materially.
+* Examine the difference between institutional rhetoric and institutional action.
+* Track how attempts to contain Palestine-related speech or protest can create new legal, professional, labour, governance, and civil-liberties disputes.
+* Keep Palestinian life, testimony, political agency, and material conditions central while analysing the domestic routes connected to them.
+* Avoid treating every institutional dispute as equivalent.
+* Avoid assuming that every allegation of inconsistency, discrimination, intimidation, antisemitism, Islamophobia, extremism, or professional misconduct is automatically either true or cynical.
+* Examine evidence, context, process, power, and outcome.
+* Support reporting that treats domestic institutional decisions as part of the substantive Palestine story.
+
+Working questions for the cluster
+
+* Which institution made the decision?
+* Who held formal authority?
+* Who exercised informal influence?
+* What legal, professional, ethical, or governance duty was invoked?
+* What evidence was considered?
+* Was legal advice obtained or disclosed?
+* What decision was available but not taken?
+* Did public language match material policy?
+* Were comparable causes treated differently?
+* Who was consulted?
+* Who was excluded?
+* What relationships, funding streams, partnerships, or conflicts were relevant?
+* What happened to the people directly affected?
+* Did the decision reduce harm?
+* Did it displace visibility?
+* Did it create new grievances or constituencies?
+* What remains unresolved?
+* How does the decision connect people at home to events in Palestine?
+
+Proposed structure
+
+🏛️_Home_Institutions/
+├── README.md
+├── 🏛️_parliament_and_government.md
+├── 🐼_policing_and_public_order.md
+├── 🎓_universities_and_schools.md
+├── 🩺_healthcare_and_professional_ethics.md
+├── 🧵_charities_and_cultural_bodies.md
+├── 🛠️_workplaces_and_trade_unions.md
+└── 🗳️_parties_regulators_and_public_appointments.md
+
+🏛️_parliament_and_government.md
+
+Purpose
+
+* Examine how Palestine enters domestic politics through ministerial decisions, parliamentary activity, local government, foreign policy, defence policy, and public administration.
+* Separate parliamentary rhetoric from executive responsibility and material action.
+* Track how decisions made in Britain contribute to, restrain, or respond to events affecting Palestinians.
+
+Possible sections
+
+* Government responsibility for arms licensing, military cooperation, intelligence relationships, sanctions, humanitarian funding, diplomatic recognition, and international-law compliance.
+* Parliamentary votes, statements, urgent questions, debates, written questions, committee work, and opposition scrutiny.
+* The role of select committees, all-party groups, backbench groups, party caucuses, and parliamentary legal mechanisms.
+* The relationship between public statements and material policy.
+* Whether legal advice exists, whether it is disclosed, and how ministers describe it.
+* How government separates domestic responsibility from events described as external.
+* Local-government decisions involving procurement, pension investments, motions, grants, public buildings, twinning, and civic events.
+* Cabinet, departmental, devolved, and local-government differences.
+* The role of advisers, civil servants, special envoys, commissioners, and appointed representatives.
+* Lobbying, meetings, donations, hospitality, advisory relationships, and undeclared influence.
+* Party discipline and the compression of visible disagreement.
+* Resignations, rebellions, abstentions, disciplinary action, and changes in language over time.
+* Whether humanitarian concern is matched by policy change.
+* Whether international rulings alter government conduct.
+* What decisions remain active after rhetorical shifts.
+
+Reporting questions
+
+* What decision was available?
+* Who had the power to make it?
+* What evidence or legal advice was considered?
+* What did Parliament know?
+* What was withheld?
+* What changed materially?
+* What remained unchanged?
+* Was responsibility displaced onto another institution?
+* Were relationships or conflicts disclosed?
+* Did local and national institutions act differently?
+
+🐼_policing_and_public_order.md
+
+Purpose
+
+* Treat protest policing as part of the substantive Palestine story rather than merely as crowd management surrounding it.
+* Examine how Palestine-related activity is translated into public-order, intelligence, safeguarding, extremism, and criminal-law frameworks.
+* Track how policing responses can create new civil-liberties and legitimacy disputes.
+
+Possible sections
+
+* Protest conditions, route restrictions, dispersal powers, stop and search, arrests, bail conditions, charging decisions, and prosecutions.
+* The distinction between preventing actual harm and managing political visibility.
+* The interpretation of slogans, chants, symbols, clothing, banners, leaflets, signs, and social-media posts.
+* Evidentiary thresholds concerning intimidation, harassment, extremism, terrorism, proscribed organisations, antisemitism, Islamophobia, and public disorder.
+* Intelligence gathering, surveillance, facial recognition, protest databases, information sharing, and data retention.
+* Differences between police forces and between comparable protests.
+* Police relationships with ministers, local authorities, universities, event organisers, transport bodies, and private security.
+* The role of counterterrorism frameworks in ordinary protest policing.
+* Arrest as punishment even where no charge follows.
+* Bail restrictions, device seizure, travel restrictions, exclusion zones, and reputational consequences.
+* The position of legal observers, journalists, medics, stewards, children, disabled people, and first-time protesters.
+* Accessibility, medication, mobility, transport, kettling, toilets, religious practice, and exposure to weather.
+* The effect of policing on Palestinian, Muslim, Arab, Jewish, Black, migrant, disabled, and otherwise differently policed participants.
+* Whether public-order reporting explains the cause of protest or allows police action to replace it as the story.
+* How policing controversy creates new legal, political, professional, and media roots.
+
+Reporting questions
+
+* What specific conduct triggered intervention?
+* Which power was used?
+* Was the power used lawfully, necessarily, and proportionately?
+* What evidence was recorded?
+* What happened after arrest?
+* Were charges brought?
+* Were conditions later withdrawn?
+* Was data retained?
+* Were comparable events treated differently?
+* Did the response reduce danger or widen the dispute?
+
+🎓_universities_and_schools.md
+
+Purpose
+
+* Examine universities and schools as sites of teaching, protest, discipline, safeguarding, governance, employment, funding, and political pressure.
+* Track how Palestine enters educational institutions through curriculum, student activity, research, investment, public speech, and institutional partnerships.
+* Distinguish genuine safeguarding from political suppression and reputational management.
+
+Possible sections
+
+* Encampments, occupations, demonstrations, teach-ins, student societies, vigils, visiting speakers, and academic events.
+* Injunctions, exclusions, suspensions, disciplinary proceedings, police involvement, and private security.
+* Academic freedom, freedom of speech, institutional neutrality, and duties of care.
+* The treatment of Palestinian, Jewish, Muslim, Arab, anti-Zionist, Zionist, and otherwise dissenting students and staff.
+* Student complaints, staff grievances, safeguarding referrals, and disciplinary thresholds.
+* Investments, pensions, research partnerships, defence relationships, donor relationships, and procurement.
+* University governance involving vice-chancellors, governing bodies, trustees, donors, unions, regulators, and government.
+* External pressure from politicians, media organisations, campaign groups, donors, and professional bodies.
+* School disputes involving curriculum, assemblies, clothing, flags, symbols, fundraising, absence, classroom discussion, and pupil expression.
+* The distinction between teaching contested issues and promoting a political position.
+* The treatment of staff who express professional, humanitarian, religious, or political concern.
+* Whether policies are applied consistently across international conflicts and political causes.
+* How disciplinary action can become an employment, union, legal, regulatory, and reputational dispute.
+* The role of campus journalism and student media.
+* Whether Palestinian testimony is included as evidence or treated as inherently partisan.
+
+Reporting questions
+
+* What rule was allegedly breached?
+* Was the rule clear in advance?
+* Was it applied consistently?
+* Who made the decision?
+* What external pressure was present?
+* Were affected students and staff heard?
+* What appeal process existed?
+* Were educational duties displaced by reputational concerns?
+* Did the response reduce risk or expand the conflict?
+
+🩺_healthcare_and_professional_ethics.md
+
+Purpose
+
+* Examine how Palestine enters healthcare through humanitarian concern, medical testimony, workplace expression, regulation, procurement, and professional ethics.
+* Treat attacks on healthcare infrastructure and healthcare workers as professional concerns as well as political events.
+* Explore the tension between claimed neutrality and duties to recognise mass harm.
+
+Possible sections
+
+* Testimony from Palestinian healthcare workers, patients, humanitarian organisations, and international medical personnel.
+* Hospitals, ambulances, clinics, medical workers, patients, medicines, evacuation, and humanitarian access.
+* NHS and healthcare-employer policies on badges, pins, clothing, statements, fundraising, vigils, workplace discussion, and public communication.
+* Duties concerning patient safety, staff safety, equality, dignity, non-discrimination, confidentiality, and freedom of conscience.
+* The difference between political neutrality and silence about harm to patients, staff, and healthcare systems.
+* Professional regulation involving doctors, nurses, pharmacists, therapists, academics, students, and other regulated workers.
+* Complaints, referrals, investigations, suspensions, disciplinary action, and fitness-to-practise proceedings.
+* Institutional partnerships, procurement, research relationships, pensions, charitable activity, and investment.
+* Moral injury among healthcare workers.
+* Unequal treatment of different humanitarian causes.
+* The treatment of Palestinian, Arab, Muslim, Jewish, migrant, and dissenting staff and patients.
+* The danger of treating Palestinian identity or solidarity as inherently disruptive in clinical settings.
+* Whether professional bodies respond consistently to evidence of attacks on healthcare.
+* Whether patient-facing restrictions are evidence-led or reputational.
+* The role of medical journals, royal colleges, unions, universities, regulators, and charities.
+
+Reporting questions
+
+* What professional duty is being invoked?
+* Is the rule about patient care, workplace conduct, professional reputation, or political expression?
+* Is it applied consistently?
+* Who is said to be at risk?
+* What evidence supports that claim?
+* What effect does the policy have on staff and patients?
+* Was the response proportionate?
+* Was Palestinian medical testimony treated as credible evidence?
+
+🧵_charities_and_cultural_bodies.md
+
+Purpose
+
+* Examine how charities and cultural institutions act as civic connective tissue around Palestine.
+* Track how funding, governance, art, memory, public benefit, history, religion, and political pressure shape institutional responses.
+* Explore whether cultural and charitable bodies widen public understanding or reproduce exclusions found elsewhere.
+
+Possible sections
+
+* Charities, museums, galleries, theatres, festivals, archives, libraries, religious organisations, cultural centres, and heritage bodies.
+* Charitable objects, public benefit, trustee duties, political activity, campaigning, and regulatory obligations.
+* Humanitarian appeals, grants, funding relationships, partnerships, investments, and procurement.
+* Donors, sponsors, trustees, boards, patrons, senior leadership, staff, unions, artists, volunteers, and audiences.
+* Cancellations, venue refusals, programme changes, speaker disputes, artist withdrawals, and conditions imposed on expression.
+* Exhibitions, performances, films, books, memorials, collections, public statements, and educational programming.
+* The representation of Palestinian history, culture, displacement, testimony, and political identity.
+* Whether Palestinian culture is welcomed only when detached from present political claims.
+* The treatment of Jewish, Palestinian, Arab, Muslim, anti-racist, anti-war, and diasporic cultural work.
+* Allegations of antisemitism, Islamophobia, racism, extremism, intimidation, and political interference.
+* The distinction between safeguarding, governance, donor management, political avoidance, and reputational control.
+* Colonial collections, restitution, historical interpretation, and institutional memory.
+* The role of religious charities and communal bodies.
+* Informal pressure that leaves little documentary record.
+* How censorship or cancellation can create new legal, artistic, labour, and solidarity networks.
+* Whether organisations act consistently with their own stated missions.
+
+Reporting questions
+
+* Who made the decision?
+* Was pressure formal or informal?
+* What contractual, legal, charitable, or governance basis was cited?
+* Which funders or partners were relevant?
+* Were comparable causes treated differently?
+* Whose cultural voice became less visible?
+* Was public benefit interpreted consistently?
+* Did the institution protect participation or narrow it?
+
+🛠️_workplaces_and_trade_unions.md
+
+Purpose
+
+* Examine Palestine as a workplace issue involving speech, discipline, labour, procurement, pensions, professional duties, and industrial action.
+* Track how workers become connected through the labour they perform, the institutions that employ them, and the materials or services their workplaces provide.
+* Distinguish genuine workplace safety concerns from political suppression and reputational control.
+
+Possible sections
+
+* Staff badges, clothing, emails, internal messages, meetings, fundraising, social-media activity, and workplace events.
+* Disciplinary action, suspension, dismissal, grievance procedures, settlement agreements, and informal pressure.
+* Trade-union motions, campaigns, legal support, workplace organising, divestment, boycott, and industrial action.
+* Workers in arms, logistics, technology, education, healthcare, media, finance, culture, retail, transport, and public services.
+* Employee objections to their labour contributing to military supply, surveillance, detention, censorship, or reputational management.
+* Conflicts between employer neutrality, employee expression, discrimination duties, and professional obligations.
+* Procurement, contracts, pension funds, investments, clients, and supply chains.
+* The role of whistleblowers and protected disclosures.
+* Union disagreement and internal political diversity.
+* The position of precarious, migrant, junior, freelance, casualised, and outsourced workers.
+* Unequal disciplinary exposure across seniority, race, religion, nationality, disability, and contract status.
+* Workplace antisemitism, Islamophobia, anti-Palestinian racism, harassment, and retaliation.
+* Whether employers apply political-expression policies consistently.
+* How workplace discipline creates new union, legal, professional, and media disputes.
+* The distinction between individual expression and institutional endorsement.
+
+Reporting questions
+
+* What workplace rule was invoked?
+* Was it clear and consistently applied?
+* Was there evidence of harm?
+* Did the worker have a professional or ethical duty relevant to the issue?
+* Was disciplinary action proportionate?
+* Were union or grievance procedures available?
+* What commercial or political relationships were present?
+* Did the employer disclose conflicts?
+* What happened to precarious or junior workers?
+
+🗳️_parties_regulators_and_public_appointments.md
+
+Purpose
+
+* Examine the institutions that decide who may participate, who is disciplined, who is appointed, whose conduct is regulated, and which positions are treated as legitimate.
+* Track how Palestine-related speech and affiliation affect political careers, professional standing, public appointments, candidate selection, and regulatory action.
+* Map the boundary between legitimate standards and politically selective gatekeeping.
+
+Possible sections
+
+* Political-party membership, candidate selection, suspension, deselection, whip removal, disciplinary procedures, and internal complaints.
+* Party rules concerning antisemitism, Islamophobia, racism, extremism, conduct, reputational harm, and social-media activity.
+* The treatment of Jewish dissent, Palestinian advocacy, Muslim political participation, and anti-war organising.
+* Independent complaint systems, disciplinary panels, legal review, and appeal processes.
+* Professional regulators and standards bodies.
+* Public appointments, commissioners, advisers, envoys, boards, panels, and review bodies.
+* Appointment criteria, conflicts of interest, political vetting, due diligence, and declaration requirements.
+* Lobbying, donations, campaign groups, think tanks, advocacy organisations, and informal networks.
+* Whether regulators act consistently across political causes and professional groups.
+* The relationship between government pressure and formally independent regulators.
+* How allegations are reported before findings are reached.
+* The use of suspension or investigation as an outcome in itself.
+* Delays, secrecy, leaks, anonymous briefings, and procedural opacity.
+* Whether political parties and regulators distinguish criticism of Israel, Zionism, government policy, Jewish people, and Jewish institutions.
+* Whether allegations of antisemitism, Islamophobia, racism, intimidation, extremism, or foreign influence are evidenced and clearly defined.
+* The consequences of public appointment decisions for trust, representation, and institutional legitimacy.
+* How exclusion from one institution can create new independent political or professional networks.
+
+Reporting questions
+
+* Which rule or standard applied?
+* Was the definition clear?
+* Who initiated the complaint?
+* Who investigated it?
+* Was the process independent?
+* Was evidence disclosed to the person affected?
+* Was there a right of reply or appeal?
+* Were comparable cases treated consistently?
+* Did an investigation produce findings?
+* Was suspension used before evidence was tested?
+* What political or institutional relationships shaped the process?
+* Who gained or lost access to public authority?
+
+Cluster guardrails
+
+* Do not treat all institutions as one coordinated system without evidence.
+* Do not assume that similar outcomes prove a common cause.
+* Distinguish formal decisions from informal pressure.
+* Distinguish legal duties from political preferences.
+* Distinguish genuine safeguarding from reputational management.
+* Distinguish disagreement from misconduct.
+* Distinguish criticism of institutions, states, governments, ideologies, and military action from hostility towards populations.
+* Do not minimise antisemitism, Islamophobia, anti-Palestinian racism, racism, intimidation, or professional harm.
+* Do not use allegations as substitutes for evidence.
+* Track process as well as outcome.
+* Track the consequences of investigations, suspensions, arrests, referrals, and disciplinary action even where no adverse finding follows.
+* Identify the people with the least institutional power.
+* Ask who carries the cost of caution.
+* Ask who benefits when an institution delays, remains silent, or describes itself as neutral.
+* Keep domestic institutional choices connected to their effects on Palestinians.
+* Do not let the home-institution frame make Palestine disappear.
