@@ -1,8 +1,9 @@
 🕸️_The_Root_Map/
-│   ├── humanitarian_and_civilian_protection.md
-│   ├── international_law_and_accountability.md
-│   ├── colonial_and_anti_racist_routes.md
-│   ├── religious_and_diasporic_routes.md
-│   ├── labour_student_and_professional_routes.md
-│   ├── feminist_queer_and_disability_routes.md
-│   └── anti_war_arms_and_procurement_routes.md
+├── README.md
+├── 🕊️_humanitarian_and_civilian_protection.md
+├── ⚖️_international_law_and_accountability.md
+├── 🌍_colonial_and_anti_racist_routes.md
+├── 🕯️_religious_and_diasporic_routes.md
+├── 🛠️_labour_student_and_professional_routes.md
+├── 🌈_feminist_queer_and_disability_routes.md
+└── 🚀_anti_war_arms_and_procurement_routes.md
