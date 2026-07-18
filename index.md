@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-18 19:57:27 UTC_
+_Generated on 2026-07-18 20:05:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5394,8 +5394,16 @@ _Generated on 2026-07-18 19:57:27 UTC_
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/⚖️_Universal_Until_Tested/README.md)
         - [**🌱_What_Repression_Produces/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🌱_What_Repression_Produces/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🌱_What_Repression_Produces/README.md)
-        - [**🏛️_Institutions_At_Home/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🏛️_Institutions_At_Home/)
-          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🏛️_Institutions_At_Home/README.md)
+        - [**🏛️_Home_Institutions/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🏛️_Home_Institutions/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🏛️_Home_Institutions/README.md)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🏛️_Home_Institutions/notes.txt)
+          - [`🎓_universities_and_schools.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🏛️_Home_Institutions/🎓_universities_and_schools.md)
+          - [`🏛️_parliament_and_government.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🏛️_Home_Institutions/🏛️_parliament_and_government.md)
+          - [`🐼_policing_and_public_order.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🏛️_Home_Institutions/🐼_policing_and_public_order.md)
+          - [`🗳️_parties_regulators_and_public_appointments.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🏛️_Home_Institutions/🗳️_parties_regulators_and_public_appointments.md)
+          - [`🛠️_workplaces_and_trade_unions.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🏛️_Home_Institutions/🛠️_workplaces_and_trade_unions.md)
+          - [`🧵_charities_and_cultural_bodies.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🏛️_Home_Institutions/🧵_charities_and_cultural_bodies.md)
+          - [`🩺_healthcare_and_professional_ethics.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🏛️_Home_Institutions/🩺_healthcare_and_professional_ethics.md)
         - [**🕸️_The_Root_Map/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/README.md)
           - [`⚖️_international_law_and_accountability.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/⚖️_international_law_and_accountability.md)
