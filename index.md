@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-19 18:53:44 UTC_
+_Generated on 2026-07-19 19:49:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6060,6 +6060,13 @@ _Generated on 2026-07-19 18:53:44 UTC_
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/README.md)
         - [**🎶_Suddenly_Surveillance/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/README.md)
+          - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/notes.txt)
+          - [`👁️_from_observation_to_intervention.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/👁️_from_observation_to_intervention.md)
+          - [`📊_from_records_to_scores.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/📊_from_records_to_scores.md)
+          - [`🔗_coalition_and_connector_risk.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/🔗_coalition_and_connector_risk.md)
+          - [`🕸️_relationship_risk_not_person_risk.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/🕸️_relationship_risk_not_person_risk.md)
+          - [`🚪_access_dependency_and_intervention_cost.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/🚪_access_dependency_and_intervention_cost.md)
+          - [`🧮_the_disruption_score.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/🧮_the_disruption_score.md)
         - [**📚_Evidence_And_Reading/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/📚_Evidence_And_Reading/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/📚_Evidence_And_Reading/README.md)
         - [**🔎_Is_It_The_Plant_Or_The_Community/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🔎_Is_It_The_Plant_Or_The_Community/)
