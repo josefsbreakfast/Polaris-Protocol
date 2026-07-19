@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-19 19:54:00 UTC_
+_Generated on 2026-07-19 19:57:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6079,6 +6079,16 @@ _Generated on 2026-07-19 19:54:00 UTC_
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/README.md)
         - [**🦷_The_Plant_Has_Teeth/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/README.md)
+          - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/notes.txt)
+          - [`⚖️_legal_financial_and_administrative_pressure.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/⚖️_legal_financial_and_administrative_pressure.md)
+          - [`🔇_visibility_reduction_and_social_rerouting.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/🔇_visibility_reduction_and_social_rerouting.md)
+          - [`🕳️_isolation_without_formal_prohibition.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/🕳️_isolation_without_formal_prohibition.md)
+          - [`🗣️_reputation_warnings_and_narrative_containment.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/🗣️_reputation_warnings_and_narrative_containment.md)
+          - [`🚧_suppressing_introductions_and_opportunities.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/🚧_suppressing_introductions_and_opportunities.md)
+          - [`🛂_passport_travel_and_consular_leverage.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/🛂_passport_travel_and_consular_leverage.md)
+          - [`🧱_making_consequential_relationships_too_expensive.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/🧱_making_consequential_relationships_too_expensive.md)
+          - [`🧷_family_pressure_and_proxy_coercion.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/🧷_family_pressure_and_proxy_coercion.md)
+          - [`🪓_wedge_creation_and_relationship_disruption.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/🪓_wedge_creation_and_relationship_disruption.md)
         - [**🧪_Investigation_Kit/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/README.md)
         - [**🧭_Orientation/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧭_Orientation/)
