@@ -1,0 +1,20 @@
+🕌_Middle_East_And_North_Africa/notes.txt
+            │   │   ├── README.md
+            │   │   ├── 🇮🇷_iran.md
+            │   │   ├── 🇮🇱_israel.md
+            │   │   ├── 🇸🇦_saudi_arabia.md
+            │   │   ├── 🇦🇪_united_arab_emirates.md
+            │   │   ├── 🇪🇬_egypt.md
+            │   │   ├── 🇹🇷_turkiye.md
+            │   │   ├── 🇧🇭_bahrain.md
+            │   │   ├── 🇶🇦_qatar.md
+            │   │   ├── 🇯🇴_jordan.md
+            │   │   ├── 🇸🇾_syria.md
+            │   │   ├── 🇮🇶_iraq.md
+            │   │   ├── 🇱🇧_lebanon.md
+            │   │   ├── 🇴🇲_oman.md
+            │   │   ├── 🇰🇼_kuwait.md
+            │   │   ├── 🇾🇪_yemen.md
+            │   │   ├── 🇵🇸_palestinian_authorities_and_fragmented_governance.md
+            │   │   └── 🔗_regional_security_and_data_cooperation.md
+            │   │
