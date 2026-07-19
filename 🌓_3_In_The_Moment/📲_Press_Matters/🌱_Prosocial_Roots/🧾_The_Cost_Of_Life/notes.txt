@@ -52,3 +52,17 @@
     ├── cost_transfer_audit.md
     ├── interview_questions.md
     └── source_and_data_register.md
+
+
+---
+
+Movement – they move or change position
+Respiration – they get energy from their food
+Sensitivity – they respond to stimuli such as light, sound, temperature
+Growth – they grow and develop
+Reproduction – they have the ability to reproduce
+Excretion – they get rid of waste products
+Nutrition – they need food for energy
+
+---
+
