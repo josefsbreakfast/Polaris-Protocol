@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-19 23:13:09 UTC_
+_Generated on 2026-07-19 23:14:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6132,7 +6132,6 @@ _Generated on 2026-07-19 23:13:09 UTC_
           - [`🪴_somewhere_thats_green.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧭_Orientation/🪴_somewhere_thats_green.md)
         - [**🩸_Feed_Me_Data/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/README.md)
-          - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/notes.txt)
           - [`🏛️_institutional_and_religious_affiliations.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/🏛️_institutional_and_religious_affiliations.md)
           - [`💸_financial_and_employment_relationships.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/💸_financial_and_employment_relationships.md)
           - [`💾_what_the_database_eats.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/💾_what_the_database_eats.md)
