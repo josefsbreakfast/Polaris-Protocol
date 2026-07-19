@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-19 20:01:19 UTC_
+_Generated on 2026-07-19 20:05:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6049,7 +6049,20 @@ _Generated on 2026-07-19 20:01:19 UTC_
         - [**⚖️_Ethics_And_International_Law/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/README.md)
         - [**🌍_Regime_And_State_Capability_Studies/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/)
+          - [**🌍_East_And_Central_Africa/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌍_East_And_Central_Africa/)
+            - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌍_East_And_Central_Africa/notes.txt)
+          - [**🌎_Other_Case_Studies/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌎_Other_Case_Studies/)
+            - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌎_Other_Case_Studies/notes.txt)
+          - [**🌏_East_And_Southeast_Asia/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌏_East_And_Southeast_Asia/)
+            - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌏_East_And_Southeast_Asia/notes.txt)
+          - [**🕌_Middle_East_And_North_Africa/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/)
+            - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/notes.txt)
+          - [**🧭_Comparative_Method/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🧭_Comparative_Method/)
+            - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🧭_Comparative_Method/notes.txt)
+          - [**🪆_Russia_And_Post_Soviet_Space/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🪆_Russia_And_Post_Soviet_Space/)
+            - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🪆_Russia_And_Post_Soviet_Space/notes.txt)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/README.md)
+          - [`notes.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/notes.md)
         - [**🌡️_When_The_Pot_Gets_Too_Small/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/README.md)
         - [**🌱_Cuttings/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/)
