@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-19 17:55:44 UTC_
+_Generated on 2026-07-19 18:23:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6074,7 +6074,6 @@ _Generated on 2026-07-19 17:55:44 UTC_
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/README.md)
         - [**🧭_Orientation/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧭_Orientation/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧭_Orientation/README.md)
-          - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧭_Orientation/notes.txt)
           - [`🔬_the_smallest_claim_first.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧭_Orientation/🔬_the_smallest_claim_first.md)
           - [`🔭_capability_not_allegation.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧭_Orientation/🔭_capability_not_allegation.md)
           - [`🕸️_who_may_safely_know_whom.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧭_Orientation/🕸️_who_may_safely_know_whom.md)
