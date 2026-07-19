@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-19 18:23:08 UTC_
+_Generated on 2026-07-19 18:53:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6081,6 +6081,16 @@ _Generated on 2026-07-19 18:23:08 UTC_
           - [`🪴_somewhere_thats_green.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧭_Orientation/🪴_somewhere_thats_green.md)
         - [**🩸_Feed_Me_Data/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/README.md)
+          - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/notes.txt)
+          - [`🏛️_institutional_and_religious_affiliations.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/🏛️_institutional_and_religious_affiliations.md)
+          - [`💸_financial_and_employment_relationships.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/💸_financial_and_employment_relationships.md)
+          - [`💾_what_the_database_eats.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/💾_what_the_database_eats.md)
+          - [`📍_location_travel_and_event_attendance.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/📍_location_travel_and_event_attendance.md)
+          - [`📣_political_sentiment_and_influence_mapping.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/📣_political_sentiment_and_influence_mapping.md)
+          - [`📱_device_access_and_communications_data.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/📱_device_access_and_communications_data.md)
+          - [`🕸️_social_graphs_and_network_analysis.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/🕸️_social_graphs_and_network_analysis.md)
+          - [`🧩_data_brokerage_and_capability_convergence.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/🧩_data_brokerage_and_capability_convergence.md)
+          - [`🧬_family_friendship_and_intimate_relationships.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/🧬_family_friendship_and_intimate_relationships.md)
         - [**🪓_Dont_Feed_The_Model/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/README.md)
         - [**🪴_Mushniks_Dashboard/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/)
