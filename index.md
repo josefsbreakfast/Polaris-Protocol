@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-19 20:07:58 UTC_
+_Generated on 2026-07-19 20:14:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6066,6 +6066,14 @@ _Generated on 2026-07-19 20:07:58 UTC_
         - [**🌡️_When_The_Pot_Gets_Too_Small/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/README.md)
           - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/notes.txt)
+          - [`⚔️_war_sanctions_and_external_shock.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/⚔️_war_sanctions_and_external_shock.md)
+          - [`🌪️_the_system_under_pressure.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/🌪️_the_system_under_pressure.md)
+          - [`🎯_category_expansion_and_false_positives.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/🎯_category_expansion_and_false_positives.md)
+          - [`📈_demanding_more_certainty_from_a_bad_model.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/📈_demanding_more_certainty_from_a_bad_model.md)
+          - [`🗳️_elections_protests_and_succession_crises.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/🗳️_elections_protests_and_succession_crises.md)
+          - [`🧪_when_the_model_creates_its_own_evidence.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/🧪_when_the_model_creates_its_own_evidence.md)
+          - [`🩸_feeding_the_system_instead_of_stopping_it.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/🩸_feeding_the_system_instead_of_stopping_it.md)
+          - [`🪤_when_error_is_reclassified_as_concealment.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/🪤_when_error_is_reclassified_as_concealment.md)
           - [`🪴_the_system_at_rest.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/🪴_the_system_at_rest.md)
         - [**🌱_Cuttings/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/README.md)
@@ -8121,6 +8129,7 @@ _Generated on 2026-07-19 20:07:58 UTC_
             - [`IMG_5526.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_5526.png)
             - [`IMG_5535.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_5535.png)
             - [`IMG_5536.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_5536.png)
+            - [`IMG_5543.jpeg`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_5543.jpeg)
           - [`20250828_racialisation_hijack.PNG`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
           - [`20251028_forcible_conversion_hijack.PNG`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
           - [`20251028_sexualised_hijack.PNG`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251028_sexualised_hijack.PNG)
