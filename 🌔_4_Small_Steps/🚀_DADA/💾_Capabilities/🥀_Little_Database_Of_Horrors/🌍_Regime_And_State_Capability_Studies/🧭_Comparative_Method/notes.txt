@@ -1,0 +1,6 @@
+🧭_Comparative_Method/
+            │   │   ├── 🔍_questions_to_ask_of_every_state.md
+            │   │   ├── 📏_evidence_and_confidence_scale.md
+            │   │   ├── ⚖️_capability_intent_and_documented_use.md
+            │   │   └── 🧯_avoiding_false_equivalence.md
+            │   │
