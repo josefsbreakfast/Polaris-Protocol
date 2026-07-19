@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-19 21:51:56 UTC_
+_Generated on 2026-07-19 21:53:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5332,6 +5332,7 @@ _Generated on 2026-07-19 21:51:56 UTC_
       - [`please_just_10_mins_of_vague_function_tho.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/please_just_10_mins_of_vague_function_tho.jpeg)
       - [`rare_bigfoot_footage.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/rare_bigfoot_footage.jpeg)
       - [`socialists_at_the_gc.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/socialists_at_the_gc.jpeg)
+      - [`standard_issue_policy_man_printout.PNG`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/standard_issue_policy_man_printout.PNG)
       - [`that_signal_chat.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/that_signal_chat.jpeg)
       - [`tumblr_girl_tactics_001.PNG`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/tumblr_girl_tactics_001.PNG)
       - [`war_chat_cabinet_press_room.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/war_chat_cabinet_press_room.jpeg)
