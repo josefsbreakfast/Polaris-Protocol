@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-19 19:57:30 UTC_
+_Generated on 2026-07-19 20:01:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6054,6 +6054,14 @@ _Generated on 2026-07-19 19:57:30 UTC_
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/README.md)
         - [**🌱_Cuttings/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/README.md)
+          - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/notes.txt)
+          - [`🌍_host_state_assistance.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/🌍_host_state_assistance.md)
+          - [`🏭_private_contractors_and_dual_use_tools.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/🏭_private_contractors_and_dual_use_tools.md)
+          - [`📦_when_the_toolkit_travels_better_than_the_regime.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/📦_when_the_toolkit_travels_better_than_the_regime.md)
+          - [`🔄_shared_watchlists_and_return_requests.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/🔄_shared_watchlists_and_return_requests.md)
+          - [`🤝_authoritarian_collaboration.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/🤝_authoritarian_collaboration.md)
+          - [`🧬_copying_successful_repression_models.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/🧬_copying_successful_repression_models.md)
+          - [`🧰_exported_surveillance_capabilities.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/🧰_exported_surveillance_capabilities.md)
         - [**🍄_Signs_The_Plant_Is_Under_Strain/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/README.md)
         - [**🎭_Language_And_Cover_Stories/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/)
