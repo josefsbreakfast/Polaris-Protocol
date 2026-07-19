@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-18 23:57:47 UTC_
+_Generated on 2026-07-19 02:28:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5107,6 +5107,10 @@ _Generated on 2026-07-18 23:57:47 UTC_
       - [`🪞_retail_shadowban_index.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🛒_Service_Blockages/🪞_retail_shadowban_index.md)
     - [`README.md`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/README.md)
     - [`notes.txt`](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/notes.txt)
+  - [**🫀_Bodily_Recognition/**](🌒_2_Signs_Symptoms/🫀_Bodily_Recognition/)
+    - [**🥀_1933/**](🌒_2_Signs_Symptoms/🫀_Bodily_Recognition/🥀_1933/)
+      - [`notes.txt`](🌒_2_Signs_Symptoms/🫀_Bodily_Recognition/🥀_1933/notes.txt)
+    - [`notes.txt`](🌒_2_Signs_Symptoms/🫀_Bodily_Recognition/notes.txt)
   - [`README.md`](🌒_2_Signs_Symptoms/README.md)
 - [**🌓_3_In_The_Moment/**](🌓_3_In_The_Moment/)
   - [**.🌱_Still_Growing/**](🌓_3_In_The_Moment/.🌱_Still_Growing/)
