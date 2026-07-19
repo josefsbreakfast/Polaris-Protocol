@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-19 09:48:19 UTC_
+_Generated on 2026-07-19 09:54:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6338,6 +6338,8 @@ _Generated on 2026-07-19 09:48:19 UTC_
       - [`🪺_harvest_ethics.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🦚_01_Beginnings/🪺_harvest_ethics.md)
     - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md)
     - [`notes.txt`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/notes.txt)
+  - [**🕷️_Transforming_Antisemitism_Knowledge/**](🌖_6_Learning_The_Skies/🕷️_Transforming_Antisemitism_Knowledge/)
+    - [`notes.md`](🌖_6_Learning_The_Skies/🕷️_Transforming_Antisemitism_Knowledge/notes.md)
   - [`README.md`](🌖_6_Learning_The_Skies/README.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [**.🌱_Still_Growing/**](🏮_Admin_Nest/.🌱_Still_Growing/)
