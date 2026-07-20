@@ -1,4 +1,4 @@
-# 🧱 Trust Me Bro As Infrastructure  
+# 🧱 "Trust Me, Bro" As Infrastructure  
 **First created:** 2026-07-16 | **Last updated:** 2026-07-16  
 *Core model for understanding how reputation, access, repetition, future promises, and informal assurance become operational substitutes for verification.*
 
