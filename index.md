@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-20 21:12:42 UTC_
+_Generated on 2026-07-20 21:21:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6092,7 +6092,6 @@ _Generated on 2026-07-20 21:12:42 UTC_
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/README.md)
         - [**🎶_Suddenly_Surveillance/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/README.md)
-          - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/notes.txt)
           - [`👁️_from_observation_to_intervention.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/👁️_from_observation_to_intervention.md)
           - [`📊_from_records_to_scores.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/📊_from_records_to_scores.md)
           - [`🔗_coalition_and_connector_risk.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/🔗_coalition_and_connector_risk.md)
