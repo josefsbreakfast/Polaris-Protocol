@@ -6,7 +6,7 @@
 
 ## 🛰️ Orientation
 
-“Trust me bro” is not merely a joke about weak evidence.
+“Trust me, bro”, is not merely a joke about weak evidence.
 
 It becomes infrastructure when a system repeatedly substitutes confidence signals for:
 
