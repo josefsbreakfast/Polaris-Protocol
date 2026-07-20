@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-20 23:30:21 UTC_
+_Generated on 2026-07-20 23:35:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6144,7 +6144,6 @@ _Generated on 2026-07-20 23:30:21 UTC_
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/README.md)
         - [**🪴_Mushniks_Dashboard/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/README.md)
-          - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/notes.txt)
           - [`🎭_plausible_deniability_by_design.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/🎭_plausible_deniability_by_design.md)
           - [`🏢_embassy_consular_and_foreign_ministry_channels.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/🏢_embassy_consular_and_foreign_ministry_channels.md)
           - [`🏷️_approved_intermediaries_and_safe_contacts.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/🏷️_approved_intermediaries_and_safe_contacts.md)
