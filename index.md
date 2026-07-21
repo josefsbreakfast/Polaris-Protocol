@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-21 00:44:45 UTC_
+_Generated on 2026-07-21 00:46:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6049,6 +6049,7 @@ _Generated on 2026-07-21 00:44:45 UTC_
       - [**🥀_Little_Database_Of_Horrors/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/)
         - [**⚖️_Ethics_And_International_Law/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/README.md)
+          - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/notes.txt)
         - [**🌍_Regime_And_State_Capability_Studies/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/)
           - [**🌍_East_And_Central_Africa/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌍_East_And_Central_Africa/)
             - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌍_East_And_Central_Africa/notes.txt)
@@ -6108,6 +6109,7 @@ _Generated on 2026-07-21 00:44:45 UTC_
           - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🔎_Is_It_The_Plant_Or_The_Community/notes.txt)
         - [**🕸️_Community_Protection/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/README.md)
+          - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/notes.txt)
         - [**🥀_The_Audrey_II_Problem/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/README.md)
           - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/notes.txt)
