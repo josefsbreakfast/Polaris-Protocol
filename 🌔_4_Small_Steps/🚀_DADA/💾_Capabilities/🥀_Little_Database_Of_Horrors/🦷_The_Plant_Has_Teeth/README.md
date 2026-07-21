@@ -1,640 +1,876 @@
-     ├── 🦷_The_Plant_Has_Teeth/README.md
-            │   ├── 🚧_suppressing_introductions_and_opportunities.md
-            │   ├── 🔇_visibility_reduction_and_social_rerouting.md
-            │   ├── 🗣️_reputation_warnings_and_narrative_containment.md
-            │   ├── 🪓_wedge_creation_and_relationship_disruption.md
-            │   ├── 🧷_family_pressure_and_proxy_coercion.md
-            │   ├── 🛂_passport_travel_and_consular_leverage.md
-            │   ├── ⚖️_legal_financial_and_administrative_pressure.md
-            │   ├── 🕳️_isolation_without_formal_prohibition.md
-            │   └── 🧱_making_consequential_relationships_too_expensive.md
-            │
+# 🦷 The Plant Has Teeth
+**First created:** 2026-07-21 | **Last updated:** 2026-07-21  
+*How classification becomes consequence when access, visibility, trust, movement, time, money, and relationship capacity are altered without an explicit prohibition.*
 
 ---
 
-🦷 The Plant Has Teeth/README.md — Cluster Plan
-
-Core purpose
-
-This README should introduce the shift from administrative capability to lived consequence.
-
-🪴 Mushnik’s Dashboard showed how a relationship-governance system can become:
-
-* legitimate-looking;
-* funded;
-* populated;
-* technically operational;
-* institutionally distributed;
-* difficult to own.
-
-🦷 The Plant Has Teeth should show what that architecture looks like once it begins altering the social world.
-
-Its governing question is:
-
-How can institutions constrain, redirect, or exhaust consequential relationships without issuing a formal prohibition?
-
-The README should not simply summarise nine nodes.
-
-Its jobs are to:
-
-* define the cluster’s scope;
-* establish the movement from classification to consequence;
-* explain why relationship interference often appears as altered conditions rather than explicit orders;
-* preserve the evidentiary limits;
-* guide the reader through the nodes;
-* establish the cumulative logic leading to functional isolation and prohibitive cost.
-
-⸻
-
-Governing proposition
-
-The cluster’s central proposition should be:
-
-The system does not need to prohibit a relationship. It can alter the conditions around it until the relationship becomes unlikely, unsafe, ineffective, or too expensive to sustain.
-
-Supporting lines:
-
-Relationship interference often appears first as altered conditions, not an explicit command.
-
-Nothing has to be formally forbidden when access, visibility, trust, movement, time, and money can be adjusted instead.
-
-The plant has teeth when administrative knowledge begins changing what people are able to build together.
-
-The bite may appear as a missed introduction, a warning, a delayed document, an invoice, or one more person deciding that involvement is too risky.
-
-⸻
-
-Opening movement — no bite mark
-
-Open with the absence of an obvious prohibition.
-
-There is no document saying:
-
-* do not meet;
-* do not assist;
-* do not publish;
-* do not travel;
-* do not remain close.
-
-Instead:
-
-* the invitation does not arrive;
-* the relevant person cannot find the work;
-* a warning reaches them first;
-* communication becomes uncertain;
-* family members become frightened;
-* travel is delayed;
-* administrative demands multiply;
-* supporters acquire risk;
-* the relationship becomes exhausting.
-
-Possible opening
+## 🛰️ Orientation
 
 Nobody issued the order.
 
-The introduction failed. The work became harder to find. A warning arrived. The journey was delayed. A supporter acquired a complaint. The relationship remained technically permitted until neither person could afford what permission had begun to cost.
+The introduction failed. The work became harder to find. A warning arrived before the person did. A journey was delayed. A supporter acquired a complaint. A relationship remained technically permitted until neither person could afford what permission had begun to cost.
 
-Then establish:
+> The system does not need to prohibit a relationship. It can alter the conditions around it until the relationship becomes unlikely, unsafe, ineffective, or too expensive to sustain.
 
-This cluster examines the social effects of a system that governs through friction rather than formal prohibition.
+*🦷 The Plant Has Teeth* examines the social effects of a capability that governs through friction rather than formal prohibition.
 
-⸻
+The previous architecture may have:
 
-Section 1 — From dashboard to teeth
+- classified relationships;
+- scored disruption;
+- identified intermediaries;
+- mapped dependencies;
+- routed information;
+- separated responsibility.
 
-Explain the distinction between the two clusters.
+This cluster asks what happens when those administrative capacities begin changing lived conditions.
 
-🪴 Mushnik’s Dashboard
+Its central questions are:
 
-Asks:
+- Which introductions fail?
+- Who becomes harder to find?
+- What warning reaches the room first?
+- How does mistrust enter a relationship?
+- Who is pressured through family or dependency?
+- Which journeys become uncertain?
+- Which processes consume the capacity to persist?
+- How can someone remain connected and still be functionally alone?
+- Who can afford to remain close once closeness creates recurring costs?
 
-* How is the capability proposed?
-* What data enter?
-* Who defines legitimacy?
-* Who configures the system?
-* How does responsibility fragment?
+> The dashboard classifies the relationship. The teeth alter the conditions in which the relationship must survive.
 
-🦷 The Plant Has Teeth
+---
 
-Asks:
+## 🪴 From Dashboard To Teeth
 
-* What changes in the person’s life?
-* Which introductions fail?
-* Who stops seeing them?
-* Which warnings arrive?
-* How does trust weaken?
-* Who is pressured?
-* What becomes too costly?
+The preceding capability layer asks:
 
-Core line
+- How is the system proposed?
+- What data enter?
+- Who defines legitimacy?
+- Who configures the model?
+- How does responsibility fragment?
+- Which institutions, contractors, intermediaries, and state channels become involved?
 
-The dashboard classifies the relationship. The teeth alter the conditions in which the relationship must survive.
+*The Plant Has Teeth* asks:
 
-This distinction should remain sharp throughout the README.
+- What changes in the person’s life?
+- Which opportunities disappear?
+- Which people stop seeing them?
+- Which warnings arrive?
+- Which journeys fail?
+- Which supporters acquire risk?
+- Which relationships become too expensive?
 
-⸻
+> The plant has teeth when administrative knowledge begins changing what people are able to build together.
 
-Section 2 — Why formal prohibition is unnecessary
+This is the movement from:
 
-Formal bans create:
+- classification;
+- assessment;
+- routing;
+- scoring;
 
-* documents;
-* legal thresholds;
-* identifiable authors;
-* appeal rights;
-* political controversy;
-* resistance.
+to:
+
+- missed meetings;
+- closed doors;
+- frightened relatives;
+- delayed documents;
+- legal letters;
+- lost income;
+- exhausted supporters;
+- practical isolation.
+
+---
+
+## 🚫 Why Formal Prohibition Is Unnecessary
+
+Formal prohibitions create:
+
+- documents;
+- legal thresholds;
+- identifiable authors;
+- appeal rights;
+- political controversy;
+- visible resistance.
 
 Friction is quieter.
 
 It can be attributed to:
 
-* timing;
-* caution;
-* ordinary procedure;
-* reputation;
-* scarce resources;
-* professional boundaries;
-* independent decisions.
+- timing;
+- caution;
+- professional boundaries;
+- administrative procedure;
+- reputation;
+- scarce resources;
+- independent decisions;
+- technical failure;
+- ordinary incompatibility.
 
-Core line
+> A prohibition announces itself. Friction asks the people inside the relationship to explain the loss as bad luck, prudence, or one another’s choice.
 
-A prohibition announces itself. Friction asks the people inside the relationship to explain the loss as bad luck, incompatibility, or prudence.
+Nothing has to say:
 
-The README should explain that ambiguity is part of the mechanism.
+- do not meet;
+- do not assist;
+- do not publish;
+- do not travel;
+- do not remain close;
+- do not build a life together.
 
-⸻
+It may be enough that:
 
-Section 3 — The conditions around relationship
+- the introduction never happens;
+- the work reaches the wrong audience;
+- the warning arrives first;
+- communication becomes uncertain;
+- family members become frightened;
+- travel is delayed;
+- forms multiply;
+- supporters acquire cost;
+- connection remains only in low-capacity forms.
 
-Relationships depend on more than consent and affection.
+---
 
-They need:
+## 🧭 The Conditions Around Relationship
 
-* encounter;
-* visibility;
-* direct communication;
-* reputation;
-* time;
-* mobility;
-* money;
-* physical access;
-* ordinary repair;
-* safety for supporters;
-* freedom from excessive administrative burden.
+Relationships require more than consent and affection.
 
-The cluster studies what happens when those conditions are selectively altered.
+They also require:
 
-Core line
+- encounter;
+- discoverability;
+- direct communication;
+- reputation;
+- time;
+- movement;
+- money;
+- physical access;
+- ordinary repair;
+- safety for supporters;
+- freedom from excessive administrative burden.
 
-A relationship may remain emotionally possible while becoming socially, legally, financially, or physically unworkable.
+> A relationship may remain emotionally possible while becoming socially, legally, financially, or physically unworkable.
 
-This line should sit near the centre of the README.
+This cluster studies the alteration of those conditions.
 
-⸻
+The relationship itself may remain:
 
-Section 4 — What counts as consequential
+- wanted;
+- lawful;
+- emotionally real;
+- technically possible.
 
-The cluster should define consequential relationships as those capable of producing material change.
+The surrounding environment may still prevent it from becoming:
 
-They may generate:
+- durable;
+- practical;
+- public;
+- protective;
+- institutionally consequential.
 
-* evidence;
-* corroboration;
-* legal action;
-* publication;
-* money;
-* housing;
-* protection;
-* relocation;
-* political legitimacy;
-* cross-community coalition;
-* durable care;
-* institutional access.
+---
 
-They may be:
+## 🧱 What Makes A Relationship Consequential
 
-* intimate;
-* familial;
-* professional;
-* political;
-* communal;
-* legal;
-* journalistic;
-* practical.
+A relationship is consequential where it creates material capacity.
 
-Core line
+It may generate:
 
-Consequence lies not in the name of the relationship, but in what the people become able to do together.
+- evidence;
+- corroboration;
+- legal action;
+- publication;
+- money;
+- housing;
+- transport;
+- protection;
+- relocation;
+- political legitimacy;
+- cross-community coalition;
+- durable care;
+- institutional access.
 
-This prevents the cluster being read only as romantic or interpersonal.
+It may be:
 
-⸻
+- intimate;
+- familial;
+- professional;
+- political;
+- legal;
+- communal;
+- journalistic;
+- practical.
 
-Section 5 — The cumulative sequence
+> Consequence lies not in the name of the relationship, but in what the people become able to do together.
 
-The README should set out the full cluster movement:
+A friendship may become consequential because it provides housing.
 
-failed introduction → reduced discoverability → prior warning → relational mistrust → proxy pressure → movement control → administrative attrition → functional isolation → prohibitive cost
+A professional relationship may become consequential because it transfers legitimacy.
 
-Each node contributes one layer.
+A romantic relationship may become consequential because it enables relocation, family formation, or durable safety.
+
+A political relationship may become consequential because it turns testimony into organised power.
+
+---
+
+## 🔄 The Cumulative Sequence
+
+The cluster follows one cumulative movement:
+
+> **failed introduction → reduced discoverability → prior warning → relational mistrust → proxy pressure → movement control → administrative attrition → functional isolation → prohibitive cost**
 
 No single mechanism must fully sever the relationship.
 
 The combined effect may be enough.
 
-Core line
+> The system does not need one decisive intervention when several smaller forms of friction can accumulate into the same result.
 
-The system does not need one decisive intervention when nine smaller forms of friction can accumulate into the same result.
+Each node focuses on one stage.
 
-⸻
+The final effect is not necessarily total isolation.
 
-Section 6 — Node map
+It may be something quieter:
 
-🚧 Suppressing Introductions And Opportunities⁠￼
+- the relationship remains;
+- the people still care;
+- support still appears occasionally;
+- formal rights remain intact;
 
-How consequential relationships can be prevented before they begin.
+but the relationship no longer changes material conditions.
 
-Central question:
+---
 
-What happens when the system acts before the relationship exists strongly enough to leave evidence?
+## 🚧 Suppressing Introductions And Opportunities
 
-Anchor line:
+[🚧 Suppressing Introductions And Opportunities](./🚧_suppressing_introductions_and_opportunities.md)
 
-The easiest consequential relationship to manage is the one that never quite starts.
+This node examines how consequential relationships may be prevented before they begin.
 
-⸻
+Possible mechanisms include:
 
-🔇 Visibility Reduction And Social Rerouting⁠￼
+- withholding introductions;
+- delaying referrals;
+- narrowing invitation lists;
+- directing opportunities elsewhere;
+- removing access to informal spaces;
+- substituting low-authority contacts;
+- allowing deadlines to pass.
 
-How a person can remain present while becoming harder to encounter, recommend, or reach.
+**Central question:**
 
-Central question:
+> What happens when the system acts before the relationship exists strongly enough to leave evidence?
 
-Who remains technically visible while becoming practically difficult to find?
+**Anchor line:**
 
-Anchor line:
+> The easiest consequential relationship to manage is the one that never quite starts.
 
-Social rerouting leaves the door open and quietly moves the corridor.
+The evidentiary challenge is severe because the counterfactual relationship never becomes visible.
 
-⸻
+The smallest claim may be:
 
-🗣️ Reputation Warnings And Narrative Containment⁠￼
+- one introduction was withheld;
+- one referral was rerouted;
+- one opportunity expired during avoidable delay;
+- one lower-capacity substitute replaced a direct route.
 
-How interpretation can arrive before direct contact.
+---
 
-Central question:
+## 🔇 Visibility Reduction And Social Rerouting
 
-What happens when the warning reaches the room before the person does?
+[🔇 Visibility Reduction And Social Rerouting](./🔇_visibility_reduction_and_social_rerouting.md)
 
-Anchor line:
+This node examines how a person can remain technically visible while becoming practically difficult to encounter, recommend, or reach.
 
-The warning does not need to close the door. It only needs to make opening it feel irresponsible.
+Possible mechanisms include:
 
-⸻
+- discoverability reduction;
+- audience narrowing;
+- recommendation suppression;
+- routing toward low-authority contacts;
+- removal from informal channels;
+- platform or institutional filtering;
+- substitution of passive attention for actionable access.
 
-🪓 Wedge Creation And Relationship Disruption⁠￼
+**Central question:**
 
-How mistrust, contradictory information, pressure, and ambiguity can weaken existing relationships.
+> Who remains technically visible while becoming practically difficult to find?
 
-Central question:
+**Anchor line:**
 
-Was the relationship damaged by what happened between the people—or by what was repeatedly placed between them?
+> Social rerouting leaves the door open and quietly moves the corridor.
 
-Anchor line:
+The relevant evidence lies in:
 
-A wedge succeeds when each person begins explaining the interference as the other person’s choice.
+- changed pathways;
+- changed audience;
+- repeated gatekeepers;
+- loss of consequential reach;
+- the gap between formal visibility and practical discoverability.
 
-⸻
+---
 
-🧷 Family Pressure And Proxy Coercion⁠￼
+## 🗣️ Reputation Warnings And Narrative Containment
 
-How relatives, partners, carers, and chosen family can become leverage.
+[🗣️ Reputation Warnings And Narrative Containment](./🗣️_reputation_warnings_and_narrative_containment.md)
 
-Central question:
+This node examines how allegations, cautions, character labels, and interpretive frames shape contact before direct experience can challenge the story.
 
-Who can be placed under pressure in a way the target cannot emotionally ignore?
+Possible mechanisms include:
 
-Anchor line:
+- vague safeguarding concern;
+- security labels;
+- character language;
+- approved intermediaries;
+- community gossip becoming institutional authority;
+- medicalisation;
+- partial truth;
+- correction failure;
+- reputational quarantine.
 
-Proxy coercion converts love, care, and responsibility into transmission routes for pressure.
+**Central question:**
 
-⸻
+> What happens when the warning reaches the room before the person does?
 
-🛂 Passport, Travel And Consular Leverage⁠￼
+**Anchor line:**
 
-How movement and document control alter whom a person can reach.
+> The warning does not need to close the door. It only needs to make opening it feel irresponsible.
 
-Central question:
+The node distinguishes:
 
-What happens when the state can decide whether the people involved are able to meet, leave, return, relocate, or remain legally present?
+- allegation;
+- warning;
+- narrative;
+- atmosphere.
 
-Anchor line:
+A conduct allegation can potentially be tested.
 
-Movement control is also relationship control.
+A character narrative may travel farther and expire more slowly.
 
-⸻
+---
 
-⚖️ Legal, Financial And Administrative Pressure⁠￼
+## 🪓 Wedge Creation And Relationship Disruption
 
-How process, cost, and uncertainty consume the capacity required to persist.
+[🪓 Wedge Creation And Relationship Disruption](./🪓_wedge_creation_and_relationship_disruption.md)
 
-Central question:
+This node examines how mistrust, contradictory messages, delayed communication, triangulation, and blocked repair may weaken an existing relationship.
 
-What happens when every institution around the relationship begins adding cost, delay, uncertainty, or personal risk?
+Possible mechanisms include:
 
-Anchor line:
+- selective truth;
+- contradictory accounts;
+- false attribution;
+- delayed messages;
+- reputational framing;
+- forced secrecy;
+- professional pressure;
+- third-party interpretation;
+- closing the repair window.
 
-Institutions experience separate cases. The person experiences one continuous siege of paperwork.
+**Central question:**
 
-⸻
+> Was the relationship damaged by what happened between the people—or by what was repeatedly placed between them?
 
-🕳️ Isolation Without Formal Prohibition⁠￼
+**Anchor line:**
 
-How a person may remain socially present while lacking durable protection.
+> A wedge succeeds when each person begins explaining the interference as the other person’s choice.
 
-Central question:
+The node preserves consent and ordinary relationship breakdown.
 
-How can someone remain connected and still be functionally alone?
+It does not assume that every painful, confusing, or interrupted relationship was externally manipulated.
 
-Anchor line:
+---
 
-Social contact is not the same as social protection.
+## 🧷 Family Pressure And Proxy Coercion
 
-⸻
+[🧷 Family Pressure And Proxy Coercion](./🧷_family_pressure_and_proxy_coercion.md)
 
-🧱 Making Consequential Relationships Too Expensive⁠￼
+This node examines how relatives, partners, carers, children, chosen family, and other trusted people may become routes through which pressure is transmitted.
 
-How the cumulative costs of connection produce attrition.
+Possible mechanisms include:
 
-Central question:
+- threats to relatives;
+- employment pressure;
+- document leverage;
+- financial dependency;
+- care dependency;
+- community shame;
+- information extraction;
+- pressure to return;
+- pressure against a relationship;
+- use of a frightened or willing intermediary.
 
-What happens when the price of persistence rises faster than the relationship can accumulate protection?
+**Central question:**
 
-Anchor line:
+> Who can be placed under pressure in a way the target cannot emotionally ignore?
 
-The relationship is permitted at every stage. It is simply charged more for every step toward becoming useful.
+**Anchor line:**
 
-⸻
+> Proxy coercion converts love, care, and responsibility into transmission routes for pressure.
 
-Section 7 — The teeth do not always share one jaw
+The node distinguishes:
 
-The README should preserve the distributed-systems model.
+- ordinary family concern;
+- family control;
+- community pressure;
+- exploitation of dependency;
+- externally directed coercion.
 
-The mechanisms may be produced by:
+The messenger may be carrying coercion while also being another person trapped inside it.
 
-* one deliberate actor;
-* several coordinated actors;
-* one upstream warning;
-* fragmented institutions;
-* independent over-compliance;
-* ordinary scarcity;
-* prejudice;
-* technical systems;
-* family fear;
-* administrative failure.
+---
 
-Core line
+## 🛂 Passport, Travel And Consular Leverage
 
-The effects may align without every actor sharing one plan.
+[🛂 Passport, Travel And Consular Leverage](./🛂_passport_travel_and_consular_leverage.md)
+
+This node examines how identity documents, borders, visas, exit and return permissions, consular dependency, and travel uncertainty may alter relationships.
+
+Possible mechanisms include:
+
+- passport delay;
+- revocation;
+- repeated document demands;
+- unsafe consular attendance;
+- political questioning;
+- visa delay;
+- family-reunification pressure;
+- repeated border screening;
+- watchlist error;
+- uncertainty about safe return.
+
+**Central question:**
+
+> What happens when a state or institution can decide whether the people involved are able to meet, leave, return, relocate, or remain legally present?
+
+**Anchor line:**
+
+> Movement control is also relationship control.
+
+The node pays particular attention to time.
+
+A document granted after the opportunity has passed may be legally issued and practically denied.
+
+---
+
+## ⚖️ Legal, Financial And Administrative Pressure
+
+[⚖️ Legal, Financial And Administrative Pressure](./⚖️_legal_financial_and_administrative_pressure.md)
+
+This node examines how legal processes, professional referrals, banking controls, benefits systems, housing, immigration, licensing, and repeated procedural demands consume capacity.
+
+Possible mechanisms include:
+
+- litigation;
+- confidentiality;
+- professional referral;
+- employment pressure;
+- banking restriction;
+- de-risking;
+- welfare uncertainty;
+- housing pressure;
+- serial referral;
+- interim restrictions;
+- complaint inversion;
+- attrition.
+
+**Central question:**
+
+> What happens when every institution around the relationship begins adding cost, delay, uncertainty, or personal risk?
+
+**Anchor line:**
+
+> Institutions experience separate cases. The person experiences one continuous siege of paperwork.
+
+The node distinguishes:
+
+- ordinary process;
+- inaccessible administration;
+- institutional error;
+- punishment by process;
+- retaliatory or coordinated pressure.
+
+---
+
+## 🕳️ Isolation Without Formal Prohibition
+
+[🕳️ Isolation Without Formal Prohibition](./🕳️_isolation_without_formal_prohibition.md)
+
+This node examines how a person may remain socially present while lacking durable relationships capable of producing material change.
+
+Possible signs include:
+
+- many appointments but no continuity;
+- online visibility without local help;
+- professional concern without ownership;
+- symbolic support without practical support;
+- mediated contact;
+- no ordinary witnesses;
+- dependency on one fragile route;
+- crisis-only relationships.
+
+**Central question:**
+
+> How can someone remain connected and still be functionally alone?
+
+**Anchor line:**
+
+> Social contact is not the same as social protection.
+
+The person may have:
+
+- contacts;
+- followers;
+- professionals;
+- messages;
+- occasional support.
+
+They may still lack anyone able to:
+
+- stay;
+- witness;
+- accompany;
+- introduce;
+- house;
+- fund;
+- corroborate;
+- act.
+
+---
+
+## 🧱 Making Consequential Relationships Too Expensive
+
+[🧱 Making Consequential Relationships Too Expensive](./🧱_making_consequential_relationships_too_expensive.md)
+
+This node gathers the cumulative costs of the cluster.
+
+Possible costs include:
+
+- time;
+- money;
+- health;
+- reputation;
+- employment;
+- legal exposure;
+- family risk;
+- travel;
+- administrative labour;
+- verification;
+- secrecy;
+- opportunity cost;
+- uncertainty.
+
+**Central question:**
+
+> What happens when the price of persistence rises faster than the relationship can accumulate protection?
+
+**Anchor line:**
+
+> The relationship is permitted at every stage. It is simply charged more for every step toward becoming useful.
+
+The system need not make connection impossible.
+
+It may only need to make:
+
+- support exceptional;
+- withdrawal prudent;
+- distance cheaper;
+- ordinary life return after departure.
+
+---
+
+## 🕸️ The Teeth Do Not Always Share One Jaw
+
+The mechanisms in this cluster may be produced by:
+
+- one deliberate actor;
+- several coordinated actors;
+- one upstream warning;
+- fragmented institutions;
+- independent over-compliance;
+- ordinary scarcity;
+- prejudice;
+- technical systems;
+- family fear;
+- administrative failure.
+
+> The effects may align without every actor sharing one plan.
 
 This is essential.
 
-The cluster concerns mechanisms and cumulative effect.
+The cluster concerns:
 
-It should not imply that every instance of isolation or relationship loss requires one hidden command centre.
+- capability;
+- mechanism;
+- cumulative effect;
+- conditions around relationship.
 
-⸻
+It does not require one hidden command centre.
 
-Section 8 — Ordinary life remains the main rival explanation
+A distributed system may produce coercive outcomes through:
 
-The README should plainly acknowledge that relationships fail because of:
+- copied records;
+- shared risk language;
+- serial referral;
+- over-cautious implementation;
+- common-source error;
+- each actor responding to the burden created by the actor before them.
 
-* incompatibility;
-* changed priorities;
-* trauma;
-* illness;
-* disability;
-* poverty;
-* distance;
-* family conflict;
-* institutional scarcity;
-* social prejudice;
-* burnout;
-* ordinary mistakes;
-* genuine safety boundaries.
+---
 
-Core line
+## 🌫️ Ordinary Life Remains The Main Rival Explanation
 
-Not every lost relationship was taken. Not every missed meeting was prevented. Not every warning was false.
+Relationships fail for ordinary reasons.
+
+These include:
+
+- incompatibility;
+- changed priorities;
+- trauma;
+- illness;
+- disability;
+- poverty;
+- distance;
+- family conflict;
+- institutional scarcity;
+- social prejudice;
+- burnout;
+- ordinary mistakes;
+- genuine safety boundaries.
+
+> Not every lost relationship was taken. Not every missed meeting was prevented. Not every warning was false.
 
 The model becomes useful where it explains:
 
-* repetition;
-* threshold-linked change;
-* shared mechanisms;
-* unusual timing;
-* common-source language;
-* selective burdens;
-* recurring gatekeepers;
-* cumulative effects.
+- repetition;
+- threshold-linked change;
+- unusual timing;
+- shared mechanisms;
+- common-source language;
+- selective burdens;
+- recurring gatekeepers;
+- cumulative effects.
 
-⸻
+A strong analysis should be capable of surviving ordinary explanations.
 
-Section 9 — Consent remains controlling
+If it cannot, it is not yet evidence.
+
+---
+
+## 🛑 Consent Remains Controlling
 
 This cluster must never undermine:
 
-* an explicit no-contact request;
-* a person’s decision to withdraw;
-* legitimate professional boundaries;
-* safeguarding needed to prevent identifiable harm;
-* a person’s right to end a relationship.
+- an explicit no-contact request;
+- a person’s decision to withdraw;
+- legitimate professional boundaries;
+- safeguarding needed to prevent identifiable harm;
+- a person’s right to end a relationship.
 
-Essential line
+> Analysing the conditions around a choice does not erase the right of the person making it.
 
-Analysing the conditions around a choice does not erase the right of the person making it.
+Direct verification must never override:
 
-And:
+- consent;
+- safety;
+- lawful restrictions;
+- a clear request for distance.
 
-Direct verification must never override consent, safety, or a clear request for distance.
+A supporter’s limit is real.
 
-This should be a prominent cluster-level guardrail.
+A person who leaves does not become dishonest merely because pressure may also have existed.
 
-⸻
+The task is to understand the conditions around choice without invalidating the choice itself.
 
-Section 10 — Relationship governance versus ordinary protection
+---
+
+## 🛡️ Relationship Governance Versus Ordinary Protection
 
 Some interventions may be legitimate.
 
 Examples include:
 
-* preventing abuse;
-* managing conflicts of interest;
-* protecting children;
-* enforcing professional boundaries;
-* investigating credible threats;
-* applying lawful border restrictions;
-* regulating finance;
-* protecting confidential information.
+- preventing abuse;
+- managing conflicts of interest;
+- protecting children;
+- enforcing professional boundaries;
+- investigating credible threats;
+- applying lawful border restrictions;
+- regulating finance;
+- protecting confidential information.
 
 The relevant questions are:
 
-* Is identifiable conduct involved?
-* Is the intervention proportionate?
-* Is it time-limited?
-* Can it be reviewed?
-* Is the source known?
-* Does it protect against harm or merely against consequence?
-* Does it preserve adult agency?
-* Does it distinguish association from misconduct?
+- Is identifiable conduct involved?
+- Is the intervention proportionate?
+- Is it time-limited?
+- Can it be reviewed?
+- Is the source known?
+- Does it protect against harm or merely against consequence?
+- Does it preserve adult agency?
+- Does it distinguish association from misconduct?
 
-Core line
+> A boundary protects when it is tied to identifiable harm. It contains when its real function is to prevent the relationship becoming consequential.
 
-A boundary protects when it is tied to identifiable harm. It contains when its real function is to prevent the relationship becoming consequential.
+---
 
-⸻
-
-Section 11 — Symbolic connection versus material connection
+## 🕯️ Symbolic Connection And Material Connection
 
 The cluster repeatedly distinguishes relationships that provide:
 
-* attention;
-* sympathy;
-* emotional support;
-* visibility;
-* companionship;
+- attention;
+- sympathy;
+- emotional support;
+- visibility;
+- companionship;
 
 from relationships that provide:
 
-* housing;
-* evidence;
-* money;
-* legal action;
-* mobility;
-* political access;
-* public corroboration;
-* durable protection.
+- housing;
+- money;
+- evidence;
+- legal action;
+- mobility;
+- political access;
+- public corroboration;
+- durable protection.
 
 Both forms may be valuable.
 
 The danger lies where symbolic support is tolerated while materially effective support repeatedly attracts friction.
 
-Core line
+> Containment does not require social emptiness. It may prefer companionship without consequence.
 
-Containment does not require social emptiness. It may prefer companionship without consequence.
+The relevant question is not whether the person has any contact.
 
-This is one of the README’s central synthesis lines.
+It is whether contact can convert into:
 
-⸻
+- access;
+- action;
+- safety;
+- institutional consequence.
 
-Section 12 — The conversion threshold
+---
 
-Introduce the idea that friction may rise when a relationship begins converting:
+## 🎚️ The Conversion Threshold
 
-* attention into access;
-* testimony into evidence;
-* sympathy into money;
-* trust into public corroboration;
-* contact into coalition;
-* care into relocation;
-* knowledge into institutional action.
+Friction may rise when a relationship begins converting:
 
-Core line
+- attention into access;
+- testimony into evidence;
+- sympathy into money;
+- trust into public corroboration;
+- contact into coalition;
+- care into relocation;
+- knowledge into institutional action.
 
-The threshold is crossed when connection begins converting into capacity.
+> The threshold is crossed when connection begins converting into capacity.
 
 This gives the reader a way to compare cases.
 
-The relevant pattern is not simply whether a relationship exists.
+The question is not merely whether a relationship exists.
 
-It is whether the conditions change as its material consequence grows.
+It is whether the surrounding conditions change as the relationship’s material capacity grows.
 
-⸻
+---
 
-Section 13 — The relationship cost stack
+## 🧱 The Relationship Cost Stack
 
-The README should briefly name the cumulative cost categories:
+The cluster names several cost categories:
 
-* emotional;
-* reputational;
-* professional;
-* financial;
-* legal;
-* administrative;
-* familial;
-* physical;
-* political.
+- emotional;
+- reputational;
+- professional;
+- financial;
+- legal;
+- administrative;
+- familial;
+- physical;
+- political.
 
-No full explanation is needed here.
+No single cost needs to end the relationship.
 
-That belongs in the final node.
+> No single cost needs to end the relationship if enough costs arrive together.
 
-The README should state:
+Costs may be distributed across:
 
-No single cost needs to end the relationship if enough costs arrive together.
+- the target;
+- the supporter;
+- relatives;
+- employers;
+- institutions;
+- the wider network.
 
-This is the cluster’s economic logic.
+This distribution can obscure the mechanism because no one actor sees or pays the whole price.
 
-⸻
+---
 
-Section 14 — Functional isolation
+## 🕳️ Functional Isolation
 
-Define functional isolation compactly.
+Functional isolation concerns what the remaining relationships can make possible.
 
 A person may have:
 
-* contacts;
-* followers;
-* professionals;
-* messages;
-* occasional support.
+- messages;
+- appointments;
+- followers;
+- service contacts;
+- occasional visitors.
 
-Yet lack anyone able to:
+They may still lack anyone able to:
 
-* stay;
-* witness;
-* accompany;
-* introduce;
-* house;
-* fund;
-* corroborate;
-* act.
+- attend;
+- witness;
+- transport;
+- house;
+- fund;
+- introduce;
+- corroborate;
+- act.
 
-Core line
+> Functional isolation concerns what the remaining relationships can make possible, not how many names remain in the phone.
 
-Functional isolation concerns what the remaining relationships can make possible, not how many names remain in the phone.
+This is one of the cluster’s key outcome measures.
 
-This prepares the reader for the lived synthesis node.
+---
 
-⸻
+## 🧍 Embodied Consequence
 
-Section 15 — Embodied consequence
+The teeth rarely announce themselves as teeth.
 
-The tone of the cluster should remain materially grounded.
+They appear as:
 
-The README should name the sorts of effects readers will encounter:
+- missed trains;
+- unopened emails;
+- vanished invitations;
+- changed seating;
+- delayed passports;
+- legal letters;
+- lost income;
+- frightened relatives;
+- mediated meetings;
+- one more person deciding to step back.
 
-* missed trains;
-* unopened emails;
-* vanished invitations;
-* changed seating;
-* delayed passports;
-* legal letters;
-* lost income;
-* frightened relatives;
-* mediated meetings;
-* one more person deciding to step back.
+> The plant’s teeth are rarely labelled as teeth. They look like ordinary objects placed at the exact points where a relationship needs to move.
 
-Core line
+This cluster should remain grounded in:
 
-The plant’s teeth are rarely labelled as teeth. They look like ordinary objects placed at the exact points where a relationship needs to move.
+- bodies;
+- rooms;
+- journeys;
+- calendars;
+- invoices;
+- doors;
+- exhaustion;
+- silence.
 
-This gives the cluster its specific voice.
+The analysis is not complete until the administrative mechanism is translated into lived consequence.
 
-⸻
+---
 
-Section 16 — The evidence spine
+## 🔬 The Evidence Spine
 
 A cluster-level investigation should distinguish:
 
@@ -649,188 +885,211 @@ A cluster-level investigation should distinguish:
 9. rival explanation;
 10. evidence of direction or design.
 
-Core line
+> Begin with the changed condition, not the imagined controller.
 
-Begin with the changed condition, not the imagined controller.
+Examples include:
 
-Examples:
+- the introduction was withheld;
+- the audience changed;
+- the warning was transmitted;
+- the message was contradicted;
+- the relative received a threat;
+- the document was delayed;
+- the supporter acquired a complaint;
+- practical support disappeared.
 
-* the introduction was withheld;
-* the audience changed;
-* the warning was transmitted;
-* the message was contradicted;
-* the relative received a threat;
-* the document was delayed;
-* the supporter acquired a complaint;
-* practical support disappeared.
+Only then should attribution move outward.
 
-Then trace outward.
+---
 
-⸻
-
-Section 17 — The smallest claim first
+## 🔭 The Smallest Claim First
 
 Possible smallest claims across the cluster include:
 
-* one introduction was withheld;
-* one direct route became generic;
-* one vague warning altered contact;
-* one intermediary transmitted contradictory messages;
-* one relative carried an outside demand;
-* one travel delay removed a time-sensitive opportunity;
-* one supporter withdrew after professional pressure;
-* one practical support route disappeared;
-* one relationship became materially unsustainable under identifiable cost.
+- one introduction was withheld;
+- one direct route became generic;
+- one vague warning altered contact;
+- one intermediary transmitted contradictory messages;
+- one relative carried an outside demand;
+- one travel delay removed a time-sensitive opportunity;
+- one supporter withdrew after professional pressure;
+- one practical support route disappeared;
+- one relationship became materially unsustainable under identifiable cost.
 
-Core line
+> The first useful claim is not that the whole social environment was controlled. It is that one identifiable condition changed, through one traceable route, with one consequential effect.
 
-The first useful claim is not that the whole social environment was controlled. It is that one identifiable condition changed, through one traceable route, with one consequential effect.
+This protects the investigation from collapsing into total explanation.
 
-This should strongly echo the root orientation.
+---
 
-⸻
+## 🧯 What Would Weaken The Model
 
-Section 18 — What would weaken the model
+Disconfirming evidence may include:
 
-The cluster should actively name disconfirming evidence:
+- clear independent reasons;
+- comparable treatment;
+- direct verified withdrawal;
+- ordinary platform or administrative changes;
+- no shared source;
+- correction working;
+- friction not tracking consequence;
+- relationships surviving unchanged after material capacity grows;
+- transparent and proportionate safeguarding;
+- genuine misconduct establishing the warning.
 
-* clear independent reasons;
-* comparable treatment;
-* direct verified withdrawal;
-* ordinary platform or administrative changes;
-* no shared source;
-* correction working;
-* friction not tracking consequence;
-* relationships surviving unchanged after material capacity grows;
-* transparent and proportionate safeguarding;
-* genuine misconduct establishing the warning.
+> A model that cannot survive ordinary explanations is not an investigative tool. It is a trap.
 
-Core line
+The purpose of the cluster is not to make every loss meaningful in the same way.
 
-A model that cannot survive ordinary explanations is not an investigative tool. It is a trap.
+It is to help distinguish:
 
-This belongs near the evidentiary section.
+- grief;
+- scarcity;
+- ordinary failure;
+- structural burden;
+- patterned intervention.
 
-⸻
+---
 
-Section 19 — Do not turn defence into intrusion
+## ⛔ Do Not Turn Defence Into Intrusion
 
-The cluster must not encourage:
+Do not:
 
-* testing people’s loyalty;
-* pursuing people who asked for distance;
-* covertly recording private relationships;
-* baiting suspected intermediaries;
-* public accusations;
-* forcing supporters to remain;
-* engineering “natural experiments” on intimate partners;
-* treating every technical failure as interference;
-* creating a counter-database of private relationships.
+- test people’s loyalty;
+- pursue people who asked for distance;
+- covertly record private relationships without lawful basis;
+- bait suspected intermediaries;
+- engineer jealousy;
+- manufacture “natural experiments” on intimate partners;
+- publicly accuse without evidence;
+- force supporters to remain;
+- treat every technical failure as interference;
+- create a counter-database of private relationships.
 
-Core line
+> The answer to relationship governance is not more relationship governance by frightened amateurs.
 
-The answer to relationship governance is not more relationship governance by frightened amateurs.
+Defence should increase:
 
-This is a strong DADA guardrail.
+- consent;
+- clarity;
+- direct verification;
+- distributed support;
+- practical capacity;
+- lawful accountability.
 
-⸻
+It should not reproduce:
 
-Section 20 — Small-step reader audit
+- surveillance;
+- coercion;
+- suspicion;
+- relationship scoring;
+- forced disclosure.
+
+---
+
+## 🪜 Small-Step Reader Audit
 
 A compact cluster-level audit can ask:
 
-* What relationship or opportunity mattered?
-* What capacity could it have created?
-* What condition changed?
-* Who controlled that condition?
-* What reason was given?
-* Did the change occur near a consequential threshold?
-* Was a substitute offered?
-* Did the substitute lack the material capacity of the original route?
-* Who absorbed the cost?
-* Did withdrawal reduce pressure?
-* What ordinary explanation remains?
-* What would disconfirm deliberate interference?
+- What relationship or opportunity mattered?
+- What capacity could it have created?
+- What condition changed?
+- Who controlled that condition?
+- What reason was given?
+- Did the change occur near a consequential threshold?
+- Was a substitute offered?
+- Did the substitute lack the material capacity of the original route?
+- Who absorbed the cost?
+- Did withdrawal reduce pressure?
+- What ordinary explanation remains?
+- What would disconfirm deliberate interference?
 
-Keep this concise in the README.
+The reader does not need to prove the whole plant.
 
-The node-level audits hold the fuller questions.
+They can begin with one tooth.
 
-⸻
+---
 
-Section 21 — Protective orientation
-
-The cluster should end its analytical movement with a protective direction.
+## 🛠️ Protective Orientation
 
 The answer is not to force relationships to survive.
 
 It is to make safe connection less fragile through:
 
-* multiple support routes;
-* direct verification;
-* practical accompaniment;
-* accessible travel and meetings;
-* support for supporters;
-* legal and financial backing;
-* clear correction routes;
-* ordinary unmonitored time;
-* respect for chosen family;
-* no retaliation for lawful association;
-* distributed protection.
+- multiple support routes;
+- direct verification;
+- practical accompaniment;
+- accessible travel and meetings;
+- support for supporters;
+- legal and financial backing;
+- clear correction routes;
+- ordinary unmonitored time;
+- respect for chosen family;
+- no retaliation for lawful association;
+- distributed protection.
 
-Core line
+> The aim is not to make departure illegitimate. It is to prevent coercive conditions from making safe connection impossible.
 
-The aim is not to make departure illegitimate. It is to prevent coercive conditions from making safe connection impossible.
+A resilient system should not require:
 
-⸻
+- one friend to become a case manager;
+- one partner to become a legal team;
+- one professional to risk a career;
+- one family member to carry every emergency;
+- one relationship to become the whole escape route.
 
-Section 22 — Why this belongs in Small Steps
+---
 
-The reader does not need to prove the whole architecture.
+## 🌔 Why This Belongs In Small Steps
+
+The reader does not need to establish the complete architecture.
 
 They can begin with:
 
-* one missed introduction;
-* one warning;
-* one delayed journey;
-* one lost practical support route;
-* one repeated intermediary;
-* one administrative burden;
-* one relationship cost.
+- one missed introduction;
+- one warning;
+- one delayed journey;
+- one lost practical support route;
+- one repeated intermediary;
+- one administrative burden;
+- one relationship cost.
 
-Core line
+> The whole plant may remain difficult to see. One tooth can still be named, documented, and challenged.
 
-The whole plant may remain difficult to see. One tooth can still be named, documented, and challenged.
+This is why the cluster belongs in *🌔 Small Steps*.
 
-This keeps the node appropriately placed within 🌔 4 Small Steps.
+It offers a way to:
 
-⸻
+- identify one changed condition;
+- preserve evidence;
+- protect consent;
+- test an ordinary explanation;
+- reduce one burden;
+- restore one route.
 
-Proposed compact definition
+---
 
-The Plant Has Teeth describes the family of mechanisms through which institutions, states, organisations, platforms, intermediaries, families, and administrative systems may alter the conditions around consequential relationships without issuing an explicit prohibition.
+## 📖 Compact Definition
+
+**The Plant Has Teeth** describes the family of mechanisms through which institutions, states, organisations, platforms, intermediaries, families, and administrative systems may alter the conditions around consequential relationships without issuing an explicit prohibition.
 
 The mechanisms include:
 
-* opportunity suppression;
-* visibility reduction;
-* reputation warnings;
-* relational wedges;
-* proxy coercion;
-* movement control;
-* legal and administrative attrition;
-* functional isolation;
-* selective cost escalation.
+- opportunity suppression;
+- visibility reduction;
+- reputation warnings;
+- relational wedges;
+- proxy coercion;
+- movement control;
+- legal and administrative attrition;
+- functional isolation;
+- selective cost escalation.
 
 The central danger is that lawful association can remain formally intact while the practical conditions required for trust, protection, coalition, mobility, and durable support are steadily removed.
 
-⸻
+---
 
-Cluster closing movement
-
-The README should end by returning to the full arc.
-
-Possible closing passage:
+## 🌒 Cluster Closing
 
 The introduction does not happen.
 
@@ -850,50 +1109,51 @@ Practical support disappears.
 
 Persistence becomes too expensive.
 
-Then:
-
-Nothing had to be formally forbidden.
+> Nothing had to be formally forbidden.
 
 The plant has teeth because every one of these small changes can bite into the conditions that allow people to become consequential together.
 
-⸻
+> The dashboard did not issue the order. The teeth altered the conditions until no order was necessary.
 
-Route onward
+---
 
-After this cluster, the next branch should move from active relationship interference into capability diffusion, replication, or comparative study, depending on the repository order.
+## 🚪 Next Route
 
-Most likely route:
+Continue to:
 
-* ../🌱_Cuttings/README.md — how capabilities, systems, contractors, methods, and administrative habits travel between states and institutions.
+- [🌱 Cuttings](../🌱_Cuttings/README.md)
 
-Possible transition line
+The next branch examines how capabilities, systems, contractors, administrative habits, and relationship-governance methods may travel between institutions and jurisdictions.
 
-The teeth need not grow in one jurisdiction. The next branch follows the cuttings as they travel.
+> The teeth need not grow in one jurisdiction. The next branch follows the cuttings as they travel.
 
-⸻
+---
 
-Suggested README structure
+## 🌌 Constellations
 
-1. H1, metadata, scope line
-2. Orientation
-3. From Dashboard To Teeth
-4. The Governing Proposition
-5. What Makes A Relationship Consequential
-6. The Cumulative Sequence
-7. Node Map
-8. Formal Freedom And Practical Containment
-9. Symbolic Versus Material Connection
-10. The Conversion Threshold
-11. Distributed Mechanisms
-12. Consent And Legitimate Boundaries
-13. Evidentiary Discipline
-14. Rival Explanations
-15. Small-Step Audit
-16. Protective Orientation
-17. Working Definition
-18. Next Route
-19. Constellations
-20. Stardust
-21. Footer
+🦷 🪴 🕸️ 🔬 🧱 — *classification becoming consequence, relationship conditions, smallest claims, cumulative burden, and the movement from capability into lived social control.*
 
-The README should be roughly 3,500–4,500 words when generated: substantial enough to orient the cluster, but shorter and more architectural than the combined nodes.
+---
+
+## ✨ Stardust
+
+relationship governance, social control, opportunity suppression, visibility reduction, reputation warning, wedge creation, proxy coercion, passport leverage, administrative pressure, functional isolation, relationship cost, conversion threshold, lawful association, practical freedom, survivor protection, evidentiary discipline
+
+---
+
+## 🏮 Footer
+
+*🦷 The Plant Has Teeth* is a capability-analysis cluster within *🥀 Little Database Of Horrors*.  
+It examines how classification, routing, warning, movement control, proxy pressure, administrative burden, and cost escalation may alter the conditions around consequential relationships without requiring an explicit prohibition.
+
+> 📡 Cross-references:
+>
+> - [🥀 Little Database Of Horrors](../README.md) — *the wider capability model*
+> - [🪴 Mushnik’s Dashboard](../🪴_Mushniks_Dashboard/README.md) — *the administrative architecture before consequence*
+> - [🔭 Capability Not Allegation](../🧭_Orientation/🔭_capability_not_allegation.md) — *keeping mechanism analysis distinct from unsupported attribution*
+> - [🔬 The Smallest Claim First](../🧭_Orientation/🔬_the_smallest_claim_first.md) — *building from one traceable change, route, and effect*
+> - [🌱 Cuttings](../🌱_Cuttings/README.md) — *how capabilities and administrative habits may travel*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-07-21_
