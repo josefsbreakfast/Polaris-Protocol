@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-21 00:49:27 UTC_
+_Generated on 2026-07-21 00:58:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6115,6 +6115,12 @@ _Generated on 2026-07-21 00:49:27 UTC_
         - [**🥀_The_Audrey_II_Problem/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/README.md)
           - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/notes.txt)
+          - [`📉_model_decay_and_stale_intelligence.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/📉_model_decay_and_stale_intelligence.md)
+          - [`🔁_feedback_loops_and_confirmation_bias.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/🔁_feedback_loops_and_confirmation_bias.md)
+          - [`🕸️_relationships_are_not_interchangeable.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/🕸️_relationships_are_not_interchangeable.md)
+          - [`🧠_human_relationships_are_not_stable_variables.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/🧠_human_relationships_are_not_stable_variables.md)
+          - [`🧮_scoring_prejudice_as_risk.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/🧮_scoring_prejudice_as_risk.md)
+          - [`🪞_surface_matches_and_missing_substance.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/🪞_surface_matches_and_missing_substance.md)
         - [**🦷_The_Plant_Has_Teeth/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/README.md)
           - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/notes.txt)
@@ -6130,6 +6136,16 @@ _Generated on 2026-07-21 00:49:27 UTC_
         - [**🧪_Investigation_Kit/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/README.md)
           - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/notes.txt)
+          - [`⏱️_threshold_and_timing_tracker.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/⏱️_threshold_and_timing_tracker.md)
+          - [`⚠️_do_not_conduct_amateur_counterintelligence.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/⚠️_do_not_conduct_amateur_counterintelligence.md)
+          - [`📋_relationship_incident_log.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/📋_relationship_incident_log.md)
+          - [`📝_observation_inference_and_hypothesis.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/📝_observation_inference_and_hypothesis.md)
+          - [`🔁_repeated_intermediary_tracker.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/🔁_repeated_intermediary_tracker.md)
+          - [`🔐_safe_evidence_preservation.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/🔐_safe_evidence_preservation.md)
+          - [`🕸️_relationship_graph_comparison.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/🕸️_relationship_graph_comparison.md)
+          - [`🗣️_language_and_narrative_comparison.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/🗣️_language_and_narrative_comparison.md)
+          - [`🧭_natural_experiments.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/🧭_natural_experiments.md)
+          - [`🧯_contamination_and_confirmation_bias.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/🧯_contamination_and_confirmation_bias.md)
         - [**🧭_Orientation/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧭_Orientation/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧭_Orientation/README.md)
           - [`🔬_the_smallest_claim_first.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧭_Orientation/🔬_the_smallest_claim_first.md)
@@ -6151,6 +6167,14 @@ _Generated on 2026-07-21 00:49:27 UTC_
         - [**🪓_Dont_Feed_The_Model/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/README.md)
           - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/notes.txt)
+          - [`⚖️_independent_oversight_and_appeal.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/⚖️_independent_oversight_and_appeal.md)
+          - [`📣_whistleblowing_and_public_interest_disclosure.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/📣_whistleblowing_and_public_interest_disclosure.md)
+          - [`🔄_mandatory_review_and_reauthorisation.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/🔄_mandatory_review_and_reauthorisation.md)
+          - [`🔒_data_minimisation_and_purpose_limits.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/🔒_data_minimisation_and_purpose_limits.md)
+          - [`🚫_prohibited_relationship_inferences.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/🚫_prohibited_relationship_inferences.md)
+          - [`🛑_stopping_rules.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/🛑_stopping_rules.md)
+          - [`🧯_when_the_only_safe_fix_is_to_close_the_system.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/🧯_when_the_only_safe_fix_is_to_close_the_system.md)
+          - [`🧹_deletion_correction_and_record_separation.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/🧹_deletion_correction_and_record_separation.md)
         - [**🪴_Mushniks_Dashboard/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/README.md)
           - [`🎭_plausible_deniability_by_design.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/🎭_plausible_deniability_by_design.md)
