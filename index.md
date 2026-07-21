@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-21 00:58:28 UTC_
+_Generated on 2026-07-21 01:05:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6112,14 +6112,20 @@ _Generated on 2026-07-21 00:58:28 UTC_
         - [**🕸️_Community_Protection/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/README.md)
           - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/notes.txt)
+          - [`📞_verify_directly_before_severing_contact.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/📞_verify_directly_before_severing_contact.md)
+          - [`🔗_anti_wedge_protocols.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/🔗_anti_wedge_protocols.md)
+          - [`🥀_what_to_do_if_your_diaspora_has_a_database_problem.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/🥀_what_to_do_if_your_diaspora_has_a_database_problem.md)
         - [**🥀_The_Audrey_II_Problem/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/README.md)
           - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/notes.txt)
           - [`📉_model_decay_and_stale_intelligence.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/📉_model_decay_and_stale_intelligence.md)
           - [`🔁_feedback_loops_and_confirmation_bias.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/🔁_feedback_loops_and_confirmation_bias.md)
+          - [`🕳️_the_database_that_cannot_admit_it_is_wrong.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/🕳️_the_database_that_cannot_admit_it_is_wrong.md)
           - [`🕸️_relationships_are_not_interchangeable.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/🕸️_relationships_are_not_interchangeable.md)
           - [`🧠_human_relationships_are_not_stable_variables.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/🧠_human_relationships_are_not_stable_variables.md)
+          - [`🧬_merged_records_and_category_errors.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/🧬_merged_records_and_category_errors.md)
           - [`🧮_scoring_prejudice_as_risk.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/🧮_scoring_prejudice_as_risk.md)
+          - [`🪓_administrative_failure_becoming_coercion.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/🪓_administrative_failure_becoming_coercion.md)
           - [`🪞_surface_matches_and_missing_substance.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/🪞_surface_matches_and_missing_substance.md)
         - [**🦷_The_Plant_Has_Teeth/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/README.md)
