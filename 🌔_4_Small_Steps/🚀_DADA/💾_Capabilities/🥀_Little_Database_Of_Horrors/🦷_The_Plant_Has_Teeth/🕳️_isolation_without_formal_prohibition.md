@@ -1,365 +1,362 @@
+# 🕳️ Isolation Without Formal Prohibition
+**First created:** 2026-07-21 | **Last updated:** 2026-07-21  
+*How a person may remain legally free, technically contactable, and socially visible while losing the durable relationships required for protection, corroboration, movement, and material change.*
 
-🕳️ isolation_without_formal_prohibition.md — Node Plan
+---
 
-Core purpose
-
-This node should examine the lived social outcome produced by the preceding mechanisms.
-
-No formal ban exists.
-
-The person may still be:
-
-* online;
-* technically contactable;
-* occasionally invited;
-* formally free to associate;
-* surrounded by service providers, acquaintances, or observers.
-
-Yet they may lack:
-
-* durable trust;
-* direct access;
-* practical support;
-* credible witnesses;
-* people willing to act;
-* relationships capable of changing material conditions;
-* safe routes to institutions;
-* anyone able to remain close without acquiring risk.
-
-The governing question is:
-
-How can a person remain socially present while becoming functionally isolated?
-
-This node should synthesise:
-
-* suppressed introductions;
-* reduced visibility;
-* reputation warnings;
-* wedge creation;
-* family pressure;
-* travel restriction;
-* administrative burden.
-
-Its core distinction must be:
-
-Social contact is not the same as social protection.
-
-⸻
-
-Governing thesis
-
-Isolation does not require solitary confinement in the literal sense.
-
-It may arise where the person has contact but cannot convert contact into:
-
-* protection;
-* continuity;
-* corroboration;
-* advocacy;
-* mobility;
-* material help;
-* shared decision-making;
-* durable belonging.
-
-Core lines
-
-The person may remain surrounded by people while having no one positioned to change what is happening to them.
-
-Formal freedom to associate means little where every consequential relationship is delayed, warned, rerouted, exhausted, or made unsafe.
-
-Isolation without prohibition leaves the person visible enough to observe and unsupported enough to contain.
-
-The system does not need everyone to leave. It only needs the people capable of making a difference to remain at a safe distance.
-
-⸻
-
-Opening movement — surrounded but alone
-
-Open with a life that appears connected from the outside.
-
-There may be:
-
-* messages;
-* appointments;
-* followers;
-* professionals;
-* family;
-* service contacts;
-* online communities;
-* occasional visitors.
-
-Yet when something material must happen:
-
-* nobody can attend;
-* nobody has authority;
-* nobody can verify;
-* nobody can take responsibility;
-* nobody can stay;
-* nobody can carry the matter into another institution.
-
-Possible opening
+## 🛰️ Orientation
 
 The person is not alone in the ordinary sense.
 
-There are messages, appointments, names in the phone, people who express concern, and institutions that remain technically involved. What is missing is anyone able to stand beside them long enough for concern to become protection.
+There are:
 
-Then establish:
+- messages;
+- appointments;
+- names in the phone;
+- professionals;
+- family;
+- service contacts;
+- online communities;
+- occasional visitors;
+- people who express concern.
 
-Functional isolation concerns the quality, durability, and consequence of connection—not the raw number of contacts.
+Yet when something material must happen:
 
-⸻
+- nobody can attend;
+- nobody has authority;
+- nobody can verify;
+- nobody can take responsibility;
+- nobody can stay;
+- nobody can carry the matter into another institution.
 
-Section 1 — Contact, connection, and protection
+> The person may remain surrounded by people while having no one positioned to change what is happening to them.
 
-Define the distinctions clearly.
+This node examines the lived social outcome produced by the preceding mechanisms.
 
-Contact
+No formal ban exists.
+
+The person may remain:
+
+- online;
+- technically reachable;
+- occasionally invited;
+- formally free to associate;
+- surrounded by service providers, acquaintances, observers, or sympathetic readers.
+
+Yet they may lack:
+
+- durable trust;
+- direct access;
+- practical support;
+- credible witnesses;
+- people willing to act;
+- relationships capable of changing material conditions;
+- safe routes to institutions;
+- anyone able to remain close without acquiring risk.
+
+The governing question is:
+
+> How can a person remain socially present while becoming functionally isolated?
+
+The central distinction is:
+
+> Social contact is not the same as social protection.
+
+This node does not treat every small social network, period of loneliness, or relationship loss as evidence of interference.
+
+Functional isolation may arise through:
+
+- disability;
+- poverty;
+- geography;
+- trauma;
+- bereavement;
+- inaccessible services;
+- ordinary relationship breakdown;
+- social prejudice;
+- burnout;
+- institutional fragmentation;
+- several causes at once.
+
+The analytical task is to identify what practical capacity remains, what has been lost, and through which mechanisms.
+
+---
+
+## 🧭 Contact, Connection, Support, And Protection
+
+These terms should not be treated as interchangeable.
+
+### Contact
 
 A message, appointment, interaction, or social tie.
 
-Connection
+### Connection
 
 A relationship involving recognition, continuity, and some mutual understanding.
 
-Support
+### Support
 
 Practical or emotional assistance.
 
-Protection
+### Protection
 
 A relationship capable of changing risk, access, evidence, or material conditions.
 
-Core line
+> Contact can reduce loneliness. Protection changes what another institution is able to do.
 
-Contact can reduce loneliness. Protection changes what another institution is able to do.
+A person may have:
 
-A person may have one without the other.
+- many contacts but no continuity;
+- emotional support but no practical assistance;
+- professional concern but no escalation;
+- public attention but no one able to act;
+- family contact but no safe place to go.
 
-This distinction should organise the whole node.
+The number of relationships matters less than what those relationships make possible.
 
-⸻
+---
 
-Section 2 — Formal freedom, practical impossibility
+## 🚪 Formal Freedom, Practical Impossibility
 
 The person may remain legally permitted to:
 
-* meet;
-* speak;
-* travel;
-* organise;
-* complain;
-* seek help.
+- meet;
+- speak;
+- travel;
+- organise;
+- complain;
+- seek help;
+- maintain relationships.
 
-But practical barriers may include:
+Practical barriers may include:
 
-* no introductions;
-* no safe venue;
-* no transport;
-* no money;
-* reputational risk;
-* professional boundaries;
-* care needs;
-* uncertain travel;
-* fear for relatives;
-* repeated administrative demands.
+- no introductions;
+- no safe venue;
+- no transport;
+- no money;
+- reputational risk;
+- professional boundaries;
+- care needs;
+- uncertain travel;
+- fear for relatives;
+- repeated administrative demands.
 
-Core line
+> Nothing is prohibited because the conditions required to exercise the freedom have already been removed.
 
-Nothing is prohibited because the conditions required to exercise the freedom have already been removed.
+This is the difference between formal liberty and usable liberty.
 
-This is one of the node’s strongest propositions.
+A person may technically be able to seek support while lacking:
 
-⸻
+- the health to travel;
+- the money to attend;
+- the advocate to accompany them;
+- the reputation required to be heard;
+- the time left after administrative burden;
+- the confidence that contact will not create risk for others.
 
-Section 3 — The crowded calendar
+---
+
+## 📅 The Crowded Calendar
 
 A person may have many appointments and still be isolated.
 
 Appointments may be:
 
-* brief;
-* task-specific;
-* risk-focused;
-* recorded;
-* professionally bounded;
-* unable to carry information elsewhere;
-* unable to provide practical accompaniment.
+- brief;
+- task-specific;
+- risk-focused;
+- recorded;
+- professionally bounded;
+- unable to carry information elsewhere;
+- unable to provide practical accompaniment.
 
-Core line
+> A crowded calendar can conceal an empty support structure.
 
-A crowded calendar can conceal an empty support structure.
+Professional contact may be valuable.
 
-The node should distinguish service contact from durable human support.
+It cannot automatically replace:
 
-A professional relationship may be valuable without being able to replace:
+- friendship;
+- advocacy;
+- accompaniment;
+- chosen family;
+- political solidarity;
+- ordinary shared time.
 
-* friendship;
-* advocacy;
-* accompaniment;
-* chosen family;
-* political solidarity.
+A service may know a person for years and still be unable to:
 
-⸻
+- attend a meeting;
+- provide transport;
+- witness the home environment;
+- make an introduction;
+- act outside remit;
+- remain involved after discharge or transfer.
 
-Section 4 — The many people who know only one fragment
+---
+
+## 🧩 The Fragmented Case
 
 Different people may know:
 
-* the health issue;
-* the legal issue;
-* the family issue;
-* the political issue;
-* the housing issue;
-* the digital issue.
+- the health issue;
+- the legal issue;
+- the family issue;
+- the political issue;
+- the housing issue;
+- the digital issue;
+- the travel issue.
 
 No one sees the whole pattern.
 
 The person must repeatedly integrate the system for everyone else.
 
-Core line
+> The person becomes the only institution holding the whole case.
 
-The person becomes the only institution holding the whole case.
+This creates:
 
-This is a powerful line.
+- repeated retelling;
+- loss of context;
+- contradictory decisions;
+- no cumulative-risk assessment;
+- no one able to corroborate the full sequence;
+- dependence on the person’s own exhausted memory and records.
 
-The consequences include:
+Fragmentation may be ordinary.
 
-* repeated retelling;
-* loss of context;
-* contradiction between systems;
-* no cumulative-risk assessment;
-* nobody able to corroborate the whole account.
+Its effect may still be severe.
 
-⸻
+---
 
-Section 5 — Observed but not accompanied
+## 👁️ Observed But Not Accompanied
 
 People may:
 
-* follow;
-* monitor;
-* read;
-* express sympathy;
-* offer distant encouragement.
+- follow;
+- monitor;
+- read;
+- express sympathy;
+- offer distant encouragement;
+- discuss the case;
+- express private concern.
 
 Few may be able or willing to:
 
-* attend meetings;
-* make calls;
-* provide housing;
-* offer transport;
-* preserve evidence;
-* introduce decision-makers;
-* take reputational risk;
-* remain involved during conflict.
+- attend meetings;
+- make calls;
+- provide housing;
+- offer transport;
+- preserve evidence;
+- introduce decision-makers;
+- take reputational risk;
+- remain involved during conflict.
 
-Core line
+> An audience can witness suffering without becoming a support network.
 
-An audience can witness suffering without becoming a support network.
+This should not become contempt for people who can offer only limited help.
 
-This should avoid contempt for people who can offer only limited help.
+The distinction is structural.
 
-The point is structural:
+Witnessing and accompaniment are different capacities.
 
-* witnessing and accompaniment are different capacities.
+---
 
-⸻
-
-Section 6 — Symbolic support
+## 🕯️ Symbolic Support
 
 Symbolic support may include:
 
-* statements;
-* likes;
-* messages;
-* public sympathy;
-* invitations to speak;
-* expressions of solidarity.
+- statements;
+- likes;
+- messages;
+- public sympathy;
+- invitations to speak;
+- expressions of solidarity.
 
 These can matter.
 
-They may also fail to produce:
+They may preserve:
 
-* money;
-* legal representation;
-* safety;
-* transport;
-* housing;
-* institutional action.
+- morale;
+- legitimacy;
+- historical record;
+- public visibility;
+- a sense of being seen.
 
-Core line
+They may still fail to produce:
 
-Symbolic solidarity can keep a person visible while leaving the material conditions of isolation unchanged.
+- money;
+- legal representation;
+- safety;
+- transport;
+- housing;
+- institutional action.
 
-Do not dismiss symbolic support.
+> Symbolic solidarity can keep a person visible while leaving the material conditions of isolation unchanged.
 
-It may preserve morale, legitimacy, and historical record.
+The problem is not symbolic support itself.
 
-The problem is when it is treated as an adequate substitute for protection.
+It is treating symbolic support as an adequate substitute for protection.
 
-⸻
+---
 
-Section 7 — The professionally concerned distance
+## 🩺 Professionally Concerned Distance
 
 Professionals may be:
 
-* kind;
-* worried;
-* personally convinced;
-* constrained by role;
-* unable to disclose;
-* unable to act outside remit;
-* required to maintain boundaries.
+- kind;
+- worried;
+- personally convinced;
+- constrained by role;
+- unable to disclose;
+- unable to act outside remit;
+- required to maintain boundaries.
 
 The person may repeatedly encounter sincere concern with no operational consequence.
 
-Core line
+> Concern becomes another form of distance when everyone agrees the situation is serious and nobody acquires authority to change it.
 
-Concern becomes another form of distance when everyone agrees the situation is serious and nobody acquires authority to change it.
+This is not necessarily an individual professional failure.
 
-This should not blame individual professionals for system limits.
+The structural questions are:
 
-The node should ask:
+- Who owns escalation?
+- Who can coordinate?
+- Who can remain?
+- Who can act when every route says the matter is outside remit?
 
-* Who owns escalation?
-* Who can coordinate?
-* What happens when every route is out of remit?
+---
 
-⸻
-
-Section 8 — The referral circle
+## 🔄 The Referral Circle
 
 The person may be sent between:
 
-* healthcare;
-* social care;
-* police;
-* safeguarding;
-* housing;
-* legal services;
-* charities;
-* complaints bodies;
-* community organisations.
+- healthcare;
+- social care;
+- police;
+- safeguarding;
+- housing;
+- legal services;
+- charities;
+- complaints bodies;
+- community organisations.
 
 Each route may be reasonable.
 
-Together they form a circle.
+Together they may form a circle.
 
-Core line
+> The person is never abandoned by the system because the system is always referring them somewhere else.
 
-The person is never abandoned by the system because the system is always referring them somewhere else.
+A referral may represent:
 
-This is a strong darkly comic line.
+- genuine onward support;
+- responsibility displacement;
+- procedural looping;
+- recognition that the current service lacks power.
 
-The node should distinguish:
+The relevant question is whether any route acquires ownership.
 
-* genuine onward referral;
-* responsibility displacement;
-* procedural looping.
+---
 
-⸻
-
-Section 9 — No one with authority and trust
+## ⚡ Trust Without Power, Power Without Trust
 
 The person may trust people without authority.
 
@@ -367,817 +364,833 @@ They may encounter authority without trust.
 
 The missing relationship is someone who has both:
 
-* enough trust to understand the person;
-* enough authority to change material conditions.
+- enough trust to understand the person;
+- enough authority to change material conditions.
 
-Core line
+> Isolation persists where trust and power are kept in separate rooms.
 
-Isolation persists where trust and power are kept in separate rooms.
+Examples include:
 
-This is central to the cluster.
+- a trusted friend without institutional access;
+- a senior official without direct relationship;
+- a professional with remit but no continuity;
+- a community leader with access but not trust;
+- an advocate with trust but no funding or legal standing.
 
-Examples:
+This separation may be accidental.
 
-* trusted friend without institutional access;
-* senior official without direct relationship;
-* professional with remit but no continuity;
-* community leader with access but not trust.
+It may also make consequential support difficult to assemble.
 
-⸻
+---
 
-Section 10 — The loss of ordinary witnesses
+## 👥 The Loss Of Ordinary Witnesses
 
 Ordinary witnesses arise through:
 
-* shared daily life;
-* repeated visits;
-* work;
-* friendship;
-* family;
-* neighbours;
-* community participation.
+- shared daily life;
+- repeated visits;
+- work;
+- friendship;
+- family;
+- neighbours;
+- community participation.
 
-Isolation reduces the number of people who can say:
+Isolation reduces the number of people able to say:
 
-* I saw the change;
-* I was there;
-* this pattern is real;
-* this account is consistent with what I observed.
+- I saw the change;
+- I was there;
+- this pattern is real;
+- the account is consistent with what I observed;
+- this happened before the crisis point.
 
-Core line
+> Isolation weakens evidence because fewer people remain close enough to witness ordinary continuity.
 
-Isolation weakens evidence because fewer people remain close enough to witness ordinary continuity.
+This matters where later credibility assessments depend upon:
 
-This is particularly important where the person’s account is later assessed through credibility.
+- corroboration;
+- stability;
+- social embeddedness;
+- respectable witnesses;
+- institutional affiliation.
 
-⸻
+---
 
-Section 11 — Credibility and social embeddedness
+## 🪞 Credibility And Social Embeddedness
 
-Institutions may treat a person as more credible when they have:
+Institutions may treat a person as more credible where they have:
 
-* stable employment;
-* professional references;
-* family support;
-* recognised community ties;
-* respectable witnesses;
-* institutional affiliation.
+- stable employment;
+- professional references;
+- family support;
+- recognised community ties;
+- respectable witnesses;
+- institutional affiliation.
 
 Isolation may remove those credibility supports.
 
-The resulting lack of corroboration may then be treated as evidence that the account is unreliable.
+The resulting lack of corroboration may then be treated as evidence that the person’s account is unreliable.
 
-Core line
+> The system may help remove the witnesses and later cite the absence of witnesses as a problem with the testimony.
 
-The system may help remove the witnesses and later cite the absence of witnesses as a problem with the testimony.
+This is a self-confirming mechanism.
 
-This is a major self-confirming mechanism.
+It does not mean every unsupported account is true.
 
-⸻
+It means absence of support may itself require explanation.
 
-Section 12 — The unsupported complainant
+---
+
+## 🗂️ The Unsupported Complainant
 
 A person pursuing a complaint may lack someone to:
 
-* attend meetings;
-* read correspondence;
-* keep records;
-* challenge inaccurate summaries;
-* remember what was said;
-* provide emotional regulation afterward;
-* ensure deadlines are met.
+- attend meetings;
+- read correspondence;
+- keep records;
+- challenge inaccurate summaries;
+- remember what was said;
+- provide regulation afterward;
+- ensure deadlines are met;
+- notice when the process changes.
 
-Core line
+> A complaint process designed for an unsupported individual may quietly assume the very support structure the person is trying to recover.
 
-A complaint process designed for an unsupported individual may quietly assume the very support structure the person is trying to recover.
+This burden is especially severe where the person is:
 
-This should connect to disability and trauma.
+- disabled;
+- traumatised;
+- in pain;
+- sleep deprived;
+- financially precarious;
+- isolated by the subject of the complaint.
 
-⸻
+---
 
-Section 13 — Disability and functional isolation
+## ♿ Disability And Functional Isolation
 
 A disabled person may be technically connected but unable to convert contact into participation because of:
 
-* mobility limits;
-* inaccessible venues;
-* fatigue;
-* pain;
-* sensory barriers;
-* communication load;
-* lack of care;
-* unreliable transport;
-* fluctuating capacity.
+- mobility limits;
+- inaccessible venues;
+- fatigue;
+- pain;
+- sensory barriers;
+- communication load;
+- lack of care;
+- unreliable transport;
+- fluctuating capacity.
 
-Core line
+> A relationship cannot become practical support if the person cannot physically reach it and nobody can reliably reach them.
 
-A relationship cannot become practical support if the person cannot physically reach it and nobody can reliably reach them.
+Structural inaccessibility may create the same practical effect as deliberate exclusion without requiring deliberate targeting.
 
-Structural inaccessibility may create isolation without deliberate targeting.
+This rival explanation should remain visible.
 
-That rival explanation must remain visible.
+The effect is still real.
 
-⸻
+---
 
-Section 14 — Digital connection without physical support
+## 💻 Digital Connection Without Physical Support
 
 Online relationships can provide:
 
-* companionship;
-* information;
-* witness;
-* political solidarity;
-* practical coordination.
+- companionship;
+- information;
+- witness;
+- political solidarity;
+- practical coordination;
+- continuity across distance.
 
 They may still be limited by:
 
-* distance;
-* anonymity;
-* platform instability;
-* inability to verify identity;
-* inability to attend physically;
-* no access to local services;
-* weak continuity.
+- geography;
+- anonymity;
+- platform instability;
+- inability to verify identity;
+- inability to attend physically;
+- no access to local services;
+- weak continuity after account loss.
 
-Core line
+> Digital connection can keep a person emotionally alive while remaining unable to carry a box, enter a meeting, or open a locked institutional door.
 
-Digital connection can keep a person emotionally alive while remaining unable to carry a box, enter a meeting, or open a locked institutional door.
+This does not diminish online community.
 
-This should be human and concrete.
+It distinguishes real emotional value from limited material reach.
 
-Do not diminish online community.
+---
 
-The distinction is between real emotional value and limited material reach.
+## 🌍 Local Absence, Distant Abundance
 
-⸻
-
-Section 15 — Local absence, distant abundance
-
-A person may have many contacts elsewhere but few nearby.
+A person may have many contacts elsewhere and few nearby.
 
 This matters for:
 
-* emergencies;
-* care;
-* transport;
-* housing;
-* hospital attendance;
-* physical safety;
-* document handling;
-* ordinary companionship.
+- emergencies;
+- care;
+- transport;
+- housing;
+- hospital attendance;
+- physical safety;
+- document handling;
+- ordinary companionship.
 
-Core line
+> A network can be geographically large and operationally absent.
 
-A network can be geographically large and operationally absent.
+Travel restriction, poverty, disability, or relocation may intensify this gap.
 
-This is especially relevant where travel or disability restricts movement.
+The person may be known internationally and unsupported locally.
 
-⸻
+---
 
-Section 16 — Relationships reduced to crisis contact
+## 🚨 Relationships Reduced To Crisis Contact
 
 People may remain involved only when something is wrong.
 
 The relationship becomes:
 
-* emergency-focused;
-* risk-focused;
-* professionally monitored;
-* unable to develop ordinary life.
+- emergency-focused;
+- risk-focused;
+- professionally monitored;
+- unable to develop ordinary life.
 
-Core line
-
-A person cannot build belonging if every relationship is organised around whether they are currently in crisis.
-
-This is important for survivor dignity.
+> A person cannot build belonging if every relationship is organised around whether they are currently in crisis.
 
 Isolation is not solved by repeated crisis assessment.
 
-⸻
+A person also needs relationships capable of holding:
 
-Section 17 — The absence of ordinary time
+- humour;
+- routine;
+- boredom;
+- affection;
+- future planning;
+- mutuality.
+
+---
+
+## 🫖 The Absence Of Ordinary Time
 
 Durable relationships require:
 
-* unstructured time;
-* repetition;
-* shared meals;
-* humour;
-* boredom;
-* repair;
-* mutuality;
-* future planning.
+- unstructured time;
+- repetition;
+- shared meals;
+- humour;
+- boredom;
+- repair;
+- mutuality;
+- future planning.
 
 A high-friction environment may allow only:
 
-* urgent calls;
-* formal meetings;
-* monitored contact;
-* short visits;
-* crisis messages.
+- urgent calls;
+- formal meetings;
+- monitored contact;
+- short visits;
+- crisis messages.
 
-Core line
+> Protection rarely begins in the dramatic moment. It grows during ordinary time the system may never allow people to accumulate.
 
-Protection rarely begins in the dramatic moment. It grows during ordinary time the system may never allow people to accumulate.
+This is one of the key human consequences of relationship interference.
 
-This is one of the most important emotional lines.
+The relationship may remain sincere while never becoming durable enough to carry risk.
 
-⸻
+---
 
-Section 18 — Hypervisibility and isolation
+## 🔦 Hypervisibility And Isolation
 
 A person may be highly visible through:
 
-* media;
-* online attention;
-* gossip;
-* institutional monitoring;
-* controversy.
+- media;
+- online attention;
+- gossip;
+- institutional monitoring;
+- controversy;
+- public discussion.
 
 This can increase isolation because others fear:
 
-* being observed;
-* reputational association;
-* becoming part of the story;
-* professional consequences.
+- being observed;
+- reputational association;
+- becoming part of the story;
+- professional consequences;
+- unwanted exposure.
 
-Core line
+> Hypervisibility can isolate when everyone can see the person and nobody feels safe being seen beside them.
 
-Hypervisibility can isolate when everyone can see the person and nobody feels safe being seen beside them.
+High exposure does not equal high access.
 
-This connects directly to reputation and visibility nodes.
+A person may become a spectacle while losing ordinary companionship.
 
-⸻
+---
 
-Section 19 — The contaminated invitation
+## 🎟️ The Contaminated Invitation
 
-A person may still receive invitations, but each comes with:
+A person may still receive invitations, but each arrives with:
 
-* conditions;
-* intermediaries;
-* extra safeguarding;
-* limited access;
-* separate seating;
-* no private conversation;
-* reputational caution.
+- conditions;
+- intermediaries;
+- extra safeguarding;
+- limited access;
+- separate seating;
+- no private conversation;
+- reputational caution;
+- uncertainty about whether they are genuinely welcome.
 
-Core line
+> Inclusion becomes isolating when the person is present only under conditions that prevent ordinary relationship.
 
-Inclusion becomes isolating when the person is present only under conditions that prevent ordinary relationship.
+The person may appear included in photographs, programmes, or records while being structurally separated from:
 
-This keeps the node grounded in lived social architecture.
+- decision-makers;
+- collaborators;
+- informal conversation;
+- the relationships the event was capable of creating.
 
-⸻
+---
 
-Section 20 — Monitored or mediated contact
+## 🎥 Monitored Or Mediated Contact
 
 Contact may require:
 
-* a professional present;
-* a family intermediary;
-* written communication only;
-* official channels;
-* approved venues;
-* recorded meetings.
+- a professional present;
+- a family intermediary;
+- written communication only;
+- official channels;
+- approved venues;
+- recorded meetings.
 
 These conditions may be necessary for safety.
 
 They may also prevent:
 
-* spontaneity;
-* confidentiality;
-* trust;
-* intimacy;
-* repair.
+- spontaneity;
+- confidentiality;
+- trust;
+- intimacy;
+- repair.
 
-Core line
+> A relationship that must always perform for an observer may never become ordinary enough to become protective.
 
-A relationship that must always perform for an observer may never become ordinary enough to become protective.
+The relevant distinction is between mediation tied to identifiable harm and permanent mediation that replaces adult agency.
 
-The node should preserve legitimate safeguarding reasons for mediation.
+---
 
-⸻
-
-Section 21 — Isolation through uncertainty
+## ❔ Isolation Through Uncertainty
 
 Potential supporters may not know:
 
-* whether contact is permitted;
-* whether the person is under investigation;
-* whether association creates professional risk;
-* whether information is confidential;
-* whether they could make matters worse.
+- whether contact is permitted;
+- whether the person is under investigation;
+- whether association creates professional risk;
+- whether information is confidential;
+- whether they could make matters worse;
+- whether another institution has already acted.
 
 They may choose caution.
 
-Core line
+> Uncertainty can isolate more efficiently than prohibition because everyone supplies their own safest interpretation.
 
-Uncertainty can isolate more efficiently than prohibition because everyone supplies their own safest interpretation.
+No explicit warning is required where ambiguity itself creates distance.
 
-This links to plausible deniability.
+---
 
-⸻
-
-Section 22 — Voluntary-looking distance
+## 🚶 Voluntary-Looking Distance
 
 People may withdraw because of:
 
-* fear;
-* exhaustion;
-* unclear boundaries;
-* workload;
-* family pressure;
-* financial risk;
-* professional caution.
+- fear;
+- exhaustion;
+- unclear boundaries;
+- workload;
+- family pressure;
+- financial risk;
+- professional caution;
+- genuine desire to leave.
 
-No one orders them to leave.
+No one may order them to withdraw.
 
-Core line
+> Distance appears voluntary when the costs of closeness have been privately distributed among everyone involved.
 
-Distance appears voluntary when the costs of closeness have been privately distributed among everyone involved.
+The withdrawal remains a choice.
 
-This is a central cluster synthesis.
+The conditions shaping that choice still matter.
 
-⸻
+Consent and explicit boundaries remain controlling.
 
-Section 23 — The shrinking circle
+---
+
+## 🔻 The Shrinking Circle
 
 Isolation may occur progressively.
 
 First disappear:
 
-* casual opportunities.
+- casual opportunities.
 
 Then:
 
-* professional contacts.
+- professional contacts.
 
 Then:
 
-* public supporters.
+- public supporters.
 
 Then:
 
-* practical helpers.
+- practical helpers.
 
 Then:
 
-* people capable of staying during conflict.
+- people capable of staying during conflict.
 
 The remaining circle may consist mainly of:
 
-* people with limited capacity;
-* people far away;
-* people unable to challenge institutions;
-* people whose own dependence makes sustained help difficult.
+- people with limited capacity;
+- people far away;
+- people unable to challenge institutions;
+- people whose own dependence makes sustained help difficult.
 
-Core line
+> The circle does not need to reach zero. It only needs to lose the people whose presence changes the outcome.
 
-The circle does not need to reach zero. It only needs to lose the people whose presence changes the outcome.
+---
 
-⸻
-
-Section 24 — Managed low-capacity contact
+## 🪴 Managed Low-Capacity Contact
 
 A system may tolerate relationships that provide:
 
-* sympathy;
-* distraction;
-* emotional labour;
-* intermittent company.
+- sympathy;
+- distraction;
+- emotional labour;
+- intermittent company;
+- observation;
+- symbolic inclusion.
 
 It may become more resistant to relationships providing:
 
-* money;
-* legal authority;
-* political connection;
-* housing;
-* corroboration;
-* relocation;
-* institutional leverage.
+- money;
+- legal authority;
+- political connection;
+- housing;
+- corroboration;
+- relocation;
+- institutional leverage.
 
-Core line
+> Containment does not require social emptiness. It may prefer companionship without consequence.
 
-Containment does not require social emptiness. It may prefer companionship without consequence.
+This is one of the cluster’s governing ideas.
 
-This is one of the cluster’s governing ideas and belongs here strongly.
+The issue is not that emotional support lacks value.
 
-⸻
+It is whether materially effective support repeatedly attracts greater friction.
 
-Section 25 — Isolation as dependency production
+---
+
+## 🪝 Isolation As Dependency Production
 
 As durable support diminishes, the person may become more dependent on:
 
-* the same institution causing the problem;
-* one approved intermediary;
-* one professional;
-* one family member;
-* one fragile digital route;
-* one emergency service.
+- the same institution causing the problem;
+- one approved intermediary;
+- one professional;
+- one family member;
+- one fragile digital route;
+- one emergency service.
 
-Core line
+> Isolation does not merely remove alternatives. It increases the power of whoever remains.
 
-Isolation does not merely remove alternatives. It increases the power of whoever remains.
+This dependency may later be used to justify:
 
-This explains why isolation can be operationally useful.
+- closer monitoring;
+- stricter boundaries;
+- reduced autonomy;
+- claims of inappropriate attachment;
+- further mediation.
 
-⸻
+---
 
-Section 26 — The single point of failure
+## ⚠️ The Single Point Of Failure
 
 A person may depend heavily on one:
 
-* advocate;
-* phone;
-* account;
-* carer;
-* professional;
-* relationship;
-* institution.
+- advocate;
+- phone;
+- account;
+- carer;
+- professional;
+- relationship;
+- institution.
 
 If that route fails, the support structure collapses.
 
-Core line
+> A support network is not resilient when one lost relationship returns the person to administrative free fall.
 
-A support network is not resilient when one lost relationship returns the person to administrative free fall.
+Protective systems should reduce single points of failure rather than treating concentrated dependency as solely the person’s defect.
 
-This should connect forward to community protection.
+---
 
-⸻
-
-Section 27 — Isolation and self-doubt
+## 🪞 Isolation And Self-Doubt
 
 Without trusted witnesses, the person may struggle to assess:
 
-* whether events are connected;
-* whether they are overreacting;
-* whether a warning is credible;
-* whether an institution acted improperly;
-* whether they are safe to persist.
+- whether events are connected;
+- whether they are overreacting;
+- whether a warning is credible;
+- whether an institution acted improperly;
+- whether they are safe to persist;
+- whether their memory remains reliable under stress.
 
-Core line
+> Isolation removes not only help but the ordinary social mirrors through which people test reality.
 
-Isolation removes not only help but the ordinary social mirrors through which people test reality.
+This does not mean truth is determined by social agreement.
 
-Handle this carefully.
+Trusted relationships help people:
 
-It should not imply that social confirmation determines truth.
+- compare;
+- contextualise;
+- regulate;
+- challenge assumptions;
+- remember what happened;
+- identify mistakes.
 
-Rather, ordinary trusted relationships help people:
+---
 
-* compare;
-* contextualise;
-* regulate;
-* challenge their own assumptions.
-
-⸻
-
-Section 28 — Isolation and political containment
+## 🏴 Isolation And Political Containment
 
 A person may remain able to speak but unable to build:
 
-* organisation;
-* coalition;
-* evidence;
-* succession;
-* shared strategy;
-* institutional memory.
+- organisation;
+- coalition;
+- evidence;
+- succession;
+- shared strategy;
+- institutional memory.
 
-Core line
+> Speech without durable relationship may remain expressive while never becoming organised power.
 
-Speech without durable relationship may remain expressive while never becoming organised power.
+This is the political significance of isolation.
 
-This is central to the political significance of isolation.
+A voice may remain audible while being prevented from becoming infrastructure.
 
-⸻
+---
 
-Section 29 — Isolation and intimate life
+## 💞 Isolation And Intimate Life
 
 Isolation may affect:
 
-* partnership;
-* family formation;
-* parenting;
-* sexuality;
-* shared home;
-* future planning;
-* ordinary affection.
+- partnership;
+- family formation;
+- parenting;
+- sexuality;
+- shared home;
+- future planning;
+- ordinary affection.
 
 The person may be treated as too:
 
-* complicated;
-* risky;
-* unstable;
-* visible;
-* administratively expensive.
+- complicated;
+- risky;
+- unstable;
+- visible;
+- administratively expensive;
+- difficult to protect.
 
-Core line
+> The right to private and family life becomes hollow where every route toward building one carries exceptional risk.
 
-The right to private and family life becomes hollow where every route toward building one carries exceptional risk.
+This is not only loneliness.
 
-This should be deeply human without becoming melodramatic.
+It is the loss of ordinary life-building capacity.
 
-⸻
+---
 
-Section 30 — The appearance of choice
+## 🎚️ The Appearance Of Choice
 
 The person may appear to have chosen:
 
-* to stay home;
-* not to attend;
-* not to date;
-* not to collaborate;
-* not to pursue support;
-* not to travel;
-* not to continue a complaint.
+- to stay home;
+- not to attend;
+- not to date;
+- not to collaborate;
+- not to pursue support;
+- not to travel;
+- not to continue a complaint.
 
 The choice may have been shaped by:
 
-* cost;
-* access;
-* fear;
-* disability;
-* warnings;
-* uncertainty;
-* previous harm.
+- cost;
+- access;
+- fear;
+- disability;
+- warnings;
+- uncertainty;
+- previous harm.
 
-Core line
+> A choice can be formally voluntary and materially coerced by the conditions surrounding it.
 
-A choice can be formally voluntary and materially coerced by the conditions surrounding it.
+The analysis should preserve agency without pretending every available option carried an equal cost.
 
-The node should preserve agency while analysing constrained choice.
+---
 
-⸻
-
-Section 31 — The self-confirming isolation loop
+## 🔁 The Self-Confirming Isolation Loop
 
 Isolation may produce:
 
-* distress;
-* distrust;
-* urgent communication;
-* reduced functioning;
-* reliance on fewer people;
-* difficulty meeting deadlines.
+- distress;
+- distrust;
+- urgent communication;
+- reduced functioning;
+- reliance on fewer people;
+- difficulty meeting deadlines.
 
 Institutions may interpret these as:
 
-* instability;
-* dependency;
-* poor engagement;
-* inappropriate attachment;
-* lack of credibility.
+- instability;
+- dependency;
+- poor engagement;
+- inappropriate attachment;
+- lack of credibility.
 
 That interpretation may justify more distance.
 
-Core line
+> The system creates the isolation and then treats the effects of isolation as evidence that distance was appropriate.
 
-The system creates the isolation and then treats the effects of isolation as evidence that distance was appropriate.
+This loop can exist without one actor intending every stage.
 
-This is one of the node’s major mechanisms.
+Its effect should still be recognised.
 
-⸻
+---
 
-Section 32 — What isolation is not
+## 🧯 What Isolation Is Not
 
-The node should clearly state that isolation can arise through:
+Functional isolation can arise through:
 
-* illness;
-* disability;
-* poverty;
-* geography;
-* trauma;
-* bereavement;
-* ordinary relationship loss;
-* inaccessible services;
-* social prejudice;
-* overwork;
-* digital displacement;
-* community breakdown.
+- illness;
+- disability;
+- poverty;
+- geography;
+- trauma;
+- bereavement;
+- ordinary relationship loss;
+- inaccessible services;
+- social prejudice;
+- overwork;
+- digital displacement;
+- community breakdown.
 
-Core line
+> Functional isolation is an outcome. Its existence does not establish who caused it.
 
-Functional isolation is an outcome. Its existence does not establish who caused it.
+Attribution requires evidence of:
 
-This evidentiary limit should be very clear.
+- mechanism;
+- route;
+- timing;
+- repeated pressure;
+- affected capacities;
+- comparative treatment.
 
-⸻
+---
 
-Section 33 — The evidence problem
+## 🧪 The Evidence Problem
 
-Isolation is real even where attribution is uncertain.
+Isolation is real even where attribution remains uncertain.
 
-Evidence of structured or externally reinforced isolation may include:
+Potential evidence of structured or externally reinforced isolation may include:
 
-* repeated loss of consequential contacts;
-* direct warnings to supporters;
-* access becoming intermediary-only;
-* simultaneous withdrawal across settings;
-* copied narratives;
-* supporters facing linked burdens;
-* restricted travel or meetings;
-* practical help repeatedly replaced by symbolic support;
-* the same gatekeepers recurring;
-* no actor able to explain cumulative effect.
+- repeated loss of consequential contacts;
+- direct warnings to supporters;
+- access becoming intermediary-only;
+- simultaneous withdrawal across settings;
+- copied narratives;
+- supporters facing linked burdens;
+- restricted travel or meetings;
+- practical help repeatedly replaced by symbolic support;
+- the same gatekeepers recurring;
+- no actor able to explain cumulative effect.
 
-Essential line
+> Isolation does not prove a coordinated system. The relevant evidence lies in which relationships were lost, which capacities disappeared with them, what mechanisms recurred, and who benefited from the resulting dependency.
 
-Isolation does not prove a coordinated system. The relevant evidence lies in which relationships were lost, which capacities disappeared with them, what mechanisms recurred, and who benefited from the resulting dependency.
+The smallest supportable claim may be:
 
-⸻
+- one practical support route disappeared;
+- one direct relationship became permanently mediated;
+- one supporter withdrew after a documented warning;
+- one institution repeatedly referred without assigning ownership;
+- one isolation effect was later used to justify further restriction.
 
-Section 34 — Rival explanations
+---
+
+## 🧯 Rival Explanations
 
 Possible alternatives include:
 
-* ordinary social contraction;
-* interpersonal conflict;
-* trauma-related withdrawal;
-* disability;
-* poverty;
-* geographic distance;
-* inadequate public services;
-* prejudice;
-* burnout among supporters;
-* pandemic or crisis effects;
-* digital-platform change;
-* genuine safety boundaries.
+- ordinary social contraction;
+- interpersonal conflict;
+- trauma-related withdrawal;
+- disability;
+- poverty;
+- geographic distance;
+- inadequate public services;
+- prejudice;
+- supporter burnout;
+- digital-platform change;
+- genuine safety boundaries.
 
-Core line
-
-A person can be functionally isolated through neglect, scarcity, prejudice, coercion, or several at once.
+> A person can be functionally isolated through neglect, scarcity, prejudice, coercion, or several at once.
 
 Mixed explanations are likely.
 
-The node should not insist on one author.
+The model should not insist on one author where the evidence shows a distributed outcome.
 
-⸻
+---
 
-Section 35 — Comparative questions
+## 🔍 Comparative Questions
 
-A useful comparison may ask:
+A careful comparison may ask:
 
-* How many contacts exist?
-* How many can provide practical help?
-* How many have authority?
-* How many have continuity?
-* Which relationships disappeared?
-* What capacity was lost with each?
-* Did withdrawal follow warnings, pressure, or administrative burden?
-* Did direct routes become mediated?
-* Did symbolic attention increase while practical help decreased?
-* Are similar people in less politically sensitive circumstances equally isolated?
-* What ordinary explanation remains?
+- How many contacts exist?
+- How many provide practical help?
+- How many have authority?
+- How many offer continuity?
+- Which relationships disappeared?
+- What capacity was lost with each?
+- Did withdrawal follow warnings, pressure, or administrative burden?
+- Did direct routes become mediated?
+- Did symbolic attention increase while practical help decreased?
+- Are comparable people in less sensitive circumstances equally isolated?
+- What ordinary explanation remains?
+- What would disconfirm structured isolation?
 
-⸻
+---
 
-Section 36 — Measuring functional isolation
+## 📏 Measuring Functional Isolation
 
 Possible indicators include:
 
-* number of people able to attend an urgent meeting;
-* number of independent witnesses;
-* access to transport;
-* access to housing;
-* legal representation;
-* emergency contacts;
-* frequency of ordinary in-person contact;
-* number of institutional routes not controlled by one intermediary;
-* ability to obtain help without retelling the entire history;
-* time from request to practical assistance.
+- number of people able to attend an urgent meeting;
+- number of independent witnesses;
+- access to transport;
+- access to housing;
+- legal representation;
+- emergency contacts;
+- frequency of ordinary in-person contact;
+- number of institutional routes not controlled by one intermediary;
+- ability to obtain help without retelling the whole history;
+- time from request to practical assistance.
 
-Core line
+> Count not only who is present, but what the relationship makes possible.
 
-Count not only who is present, but what the relationship makes possible.
+These indicators are prompts for qualitative assessment.
 
-Avoid reducing human relationships to another crude score.
+They should not become another surveillance score.
 
-These indicators are prompts for qualitative assessment, not a surveillance model.
+---
 
-⸻
-
-Section 37 — Protective practice
+## 🛠️ Protective Practice
 
 Possible protective measures include:
 
-* multiple routes to support;
-* direct verification;
-* practical accompaniment;
-* distributed records;
-* local emergency contacts;
-* accessible transport;
-* ordinary social time;
-* material support;
-* legal and journalistic connections;
-* support for supporters;
-* clear boundaries;
-* continuity across institutional handoffs;
-* protection against retaliation for lawful association.
+- multiple routes to support;
+- direct verification;
+- practical accompaniment;
+- distributed records;
+- local emergency contacts;
+- accessible transport;
+- ordinary social time;
+- material support;
+- legal and journalistic connections;
+- support for supporters;
+- clear boundaries;
+- continuity across institutional handoffs;
+- protection against retaliation for lawful association.
 
-Core line
+> The answer to functional isolation is not more observation. It is more durable routes through which people can safely act for one another.
 
-The answer to functional isolation is not more observation. It is more durable routes through which people can safely act for one another.
+---
 
-⸻
-
-Section 38 — What not to do
+## ⛔ What Not To Do
 
 Do not:
 
-* pressure unwilling people into contact;
-* ignore explicit no-contact boundaries;
-* treat every withdrawal as coerced;
-* demand that friends become professionals;
-* expose supporters publicly;
-* make one person responsible for the entire support structure;
-* equate online attention with safety;
-* assume professional concern creates a personal obligation;
-* use community protection as a reason for surveillance or loyalty testing.
+- pressure unwilling people into contact;
+- ignore explicit no-contact boundaries;
+- treat every withdrawal as coerced;
+- demand that friends become professionals;
+- expose supporters publicly;
+- make one person responsible for the entire support structure;
+- equate online attention with safety;
+- assume professional concern creates personal obligation;
+- use community protection as a reason for surveillance or loyalty testing.
 
-Essential line
+> No one person should be forced to become the whole escape route.
 
-No one person should be forced to become the whole escape route.
+The aim is resilience, not compulsory intimacy.
 
-⸻
+---
 
-Section 39 — When isolation becomes social control
+## 🕳️ When Isolation Becomes Social Control
 
 Warning signs include:
 
-* consequential relationships repeatedly fail or withdraw;
-* direct access becomes mediated;
-* supporters acquire risk or burden;
-* symbolic attention replaces practical assistance;
-* the person remains highly visible but materially unsupported;
-* no one can provide continuity across systems;
-* isolation increases dependency on approved actors;
-* the resulting distress is used to justify further distance;
-* formal freedoms remain but cannot be exercised in practice.
+- consequential relationships repeatedly failing or withdrawing;
+- direct access becoming mediated;
+- supporters acquiring risk or burden;
+- symbolic attention replacing practical assistance;
+- the person remaining highly visible but materially unsupported;
+- no one providing continuity across systems;
+- isolation increasing dependency on approved actors;
+- the resulting distress being used to justify further distance;
+- formal freedoms remaining while becoming unusable in practice.
 
-Anchor line
+> Isolation becomes social control when the person remains formally connected but is systematically deprived of the durable relationships required for protection, corroboration, movement, organisation, and material change.
 
-Isolation becomes social control when the person remains formally connected but is systematically deprived of the durable relationships required for protection, corroboration, movement, organisation, and material change.
+---
 
-⸻
-
-Section 40 — What responsible institutions require
+## 🏛️ What Responsible Institutions Require
 
 Responsible systems should provide:
 
-* named coordination;
-* continuity;
-* direct-access routes;
-* cumulative-impact assessment;
-* independent advocacy;
-* accessible meetings;
-* support for practical accompaniment;
-* clear escalation ownership;
-* preservation of chosen relationships;
-* no adverse inference from needing support;
-* protection for lawful supporters;
-* alternatives to compulsory intermediaries;
-* correction propagation;
-* recognition of online and chosen-family ties;
-* routes from concern to material action.
+- named coordination;
+- continuity;
+- direct-access routes;
+- cumulative-impact assessment;
+- independent advocacy;
+- accessible meetings;
+- support for practical accompaniment;
+- clear escalation ownership;
+- preservation of chosen relationships;
+- no adverse inference from needing support;
+- protection for lawful supporters;
+- alternatives to compulsory intermediaries;
+- correction propagation;
+- recognition of online and chosen-family ties;
+- routes from concern to material action.
 
-Core line
+> A system has not provided support merely because many professionals have made contact. It has provided support when the person is no longer left alone with the consequences.
 
-A system has not provided support merely because many professionals have made contact. It has provided support when the person is no longer left alone with the consequences.
+---
 
-⸻
-
-Section 41 — Small-step audit
+## 🪜 Small-Step Audit
 
 A reader examining functional isolation can ask:
 
-* Who is currently in contact?
-* Who provides continuity?
-* Who can act?
-* Who can corroborate?
-* Who can attend?
-* Who controls access?
-* Which relationships were lost?
-* What capacity disappeared with each?
-* Did supporters receive warnings or burdens?
-* Did direct routes become mediated?
-* Is the person locally supported or only distantly observed?
-* Does one intermediary control most support?
-* Are services replacing rather than enabling ordinary relationships?
-* What ordinary explanation remains?
-* What is the smallest supportable claim?
+- Who is currently in contact?
+- Who provides continuity?
+- Who can act?
+- Who can corroborate?
+- Who can attend?
+- Who controls access?
+- Which relationships were lost?
+- What capacity disappeared with each?
+- Did supporters receive warnings or burdens?
+- Did direct routes become mediated?
+- Is the person locally supported or only distantly observed?
+- Does one intermediary control most support?
+- Are services replacing rather than enabling ordinary relationships?
+- What ordinary explanation remains?
+- What is the smallest supportable claim?
 
-Possible smallest claims include:
+---
 
-* one practical support route disappeared;
-* one direct relationship became permanently mediated;
-* one supporter withdrew after documented warning;
-* one institution repeatedly referred without assigning ownership;
-* one person remained visible while losing access to actors able to help;
-* one isolation effect was later used to justify further restriction.
-
-⸻
-
-Evidentiary guardrail
+## ⚖️ Evidentiary Guardrail
 
 Use a clear ladder:
 
@@ -1191,51 +1204,78 @@ Use a clear ladder:
 
 Do not treat:
 
-* lack of contact as proof of interference;
-* someone’s decision to withdraw as inherently false;
-* professional boundaries as evidence of coercion;
-* distress as proof of the model;
-* a small social network as pathological;
-* high online engagement as proof that the person is not isolated.
+- lack of contact as proof of interference;
+- someone’s decision to withdraw as inherently false;
+- professional boundaries as evidence of coercion;
+- distress as proof of the model;
+- a small social network as pathological;
+- high online engagement as proof that the person is not isolated.
 
 The relevant question is what practical capacity remains.
 
-⸻
+---
 
-Compact definition
+## 📖 Compact Definition
 
-Isolation Without Formal Prohibition describes a condition in which a person remains legally free, technically contactable, and socially visible while lacking the durable relationships, practical support, corroboration, access, and institutional connection required to alter their material circumstances.
+**Isolation Without Formal Prohibition** describes a condition in which a person remains legally free, technically contactable, and socially visible while lacking the durable relationships, practical support, corroboration, access, and institutional connection required to alter their material circumstances.
 
 It may arise through:
 
-* suppressed introductions;
-* visibility rerouting;
-* reputation warnings;
-* relationship wedges;
-* family pressure;
-* travel restriction;
-* administrative burden;
-* disability;
-* poverty;
-* fragmented services;
-* supporter exhaustion.
+- suppressed introductions;
+- visibility rerouting;
+- reputation warnings;
+- relationship wedges;
+- family pressure;
+- travel restriction;
+- administrative burden;
+- disability;
+- poverty;
+- fragmented services;
+- supporter exhaustion.
 
 The central danger is that formal freedom can conceal practical containment.
 
-⸻
+---
 
-Transition to the next node
+## 🚪 Next Route
 
-The next and final node should identify the economic logic binding the entire cluster together.
+Isolation is the outcome.
 
-Possible transition:
+The final node asks how the system may produce it without requiring every relationship to fail completely.
 
-Isolation is the outcome. The final node asks how the system produces it without needing every relationship to fail completely.
+Continue to:
 
-Then route to:
+- [🧱 Making Consequential Relationships Too Expensive](./🧱_making_consequential_relationships_too_expensive.md)
 
-🧱_making_consequential_relationships_too_expensive.md
+> The person is still allowed to know people. The final tooth ensures that knowing them deeply enough to matter carries a price few can continue paying.
 
-Possible closing line
+---
 
-The person is still allowed to know people. The final tooth ensures that knowing them deeply enough to matter carries a price few can continue paying.
+## 🌌 Constellations
+
+🕳️ ⚖️ 🧱 🔇 🪓 — *functional isolation, cumulative burden, relationship cost, social rerouting, and the loss of durable repair and protection.*
+
+---
+
+## ✨ Stardust
+
+functional isolation, social protection, support network, symbolic support, practical support, referral circle, professional distance, ordinary witness, credibility, disability, digital connection, hypervisibility, mediated contact, dependency, single point of failure, political containment, intimate life, constrained choice, survivor support
+
+---
+
+## 🏮 Footer
+
+*🕳️ Isolation Without Formal Prohibition* is a capability-analysis node within *🦷 The Plant Has Teeth*.  
+It examines how formal freedom and social visibility may coexist with the loss of durable relationships capable of producing protection, corroboration, mobility, and material change.
+
+> 📡 Cross-references:
+>
+> - [⚖️ Legal, Financial And Administrative Pressure](./⚖️_legal_financial_and_administrative_pressure.md) — *how cumulative burden removes the capacity required to sustain support*
+> - [🧱 Making Consequential Relationships Too Expensive](./🧱_making_consequential_relationships_too_expensive.md) — *the cost logic that converts connection into attrition*
+> - [🔇 Visibility Reduction And Social Rerouting](./🔇_visibility_reduction_and_social_rerouting.md) — *how presence may remain while consequential access disappears*
+> - [🪓 Wedge Creation And Relationship Disruption](./🪓_wedge_creation_and_relationship_disruption.md) — *how trust and repair may be weakened before isolation becomes visible*
+> - [🔬 The Smallest Claim First](../🧭_Orientation/🔬_the_smallest_claim_first.md) — *building from one lost support route, one mechanism, and one material consequence*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-07-21_
