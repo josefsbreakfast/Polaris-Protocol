@@ -1,905 +1,1247 @@
-🗣️ reputation_warnings_and_narrative_containment.md — Node Plan
+# 🗣️ Reputation Warnings And Narrative Containment
+**First created:** 2026-07-21 | **Last updated:** 2026-07-21  
+*How allegations, cautions, character labels, and interpretive frames can shape access and trust before direct contact has the chance to challenge the story.*
 
-Core purpose
+---
 
-This node should examine how a person, organisation, or relationship can be pre-interpreted before direct contact occurs.
-
-The warning may be:
-
-* formal or informal;
-* documented or verbal;
-* precise or euphemistic;
-* accurate, exaggerated, stale, or false;
-* passed through institutions, intermediaries, employers, communities, platforms, or diplomatic channels.
-
-The central mechanism is not simply damage to reputation.
-
-It is control over the narrative conditions in which other people are permitted to encounter the subject.
-
-The governing question is:
-
-What happens when the warning arrives before the person does?
-
-⸻
-
-Governing thesis
-
-A reputation warning does not need to prove misconduct.
-
-It only needs to make contact feel:
-
-* professionally risky;
-* politically awkward;
-* institutionally expensive;
-* personally unsafe;
-* reputationally unwise.
-
-Once the warning is received, later information may be interpreted through it.
-
-Ordinary disagreement becomes volatility.
-
-Persistence becomes obsession.
-
-Distress becomes unreliability.
-
-Political criticism becomes extremism.
-
-Attempts to correct the record become evidence that the warning was necessary.
-
-Core lines
-
-The warning does not need to close the door. It only needs to make opening it feel irresponsible.
-
-The person enters the room after the story about them has already arrived.
-
-Narrative containment begins when the institution decides what the person means before deciding whether to hear them.
-
-A warning can alter every later encounter while remaining absent from every formal decision.
-
-⸻
-
-Opening movement — the story arrives first
-
-Open with an encounter already shaped before it begins.
-
-A potential colleague, official, journalist, advocate, or community contact receives a quiet caution:
-
-* difficult;
-* complicated;
-* vulnerable;
-* unsafe;
-* unreliable;
-* politically sensitive;
-* reputationally risky;
-* not someone to engage directly.
-
-The subject does not know the warning exists.
-
-They only experience:
-
-* altered tone;
-* unusual caution;
-* reduced warmth;
-* insistence on intermediaries;
-* refusal to meet alone;
-* repeated requests for reassurance;
-* a relationship that never becomes ordinary.
-
-Possible opening
+## 🛰️ Orientation
 
 By the time the person enters the room, everyone has already been told how to understand them.
 
-Then establish the evidentiary challenge:
+The warning may have sounded almost responsible:
 
-When does ordinary reputation, professional caution, or community gossip become a system for containing what a person can credibly say and whom they can safely reach?
+- difficult;
+- complicated;
+- vulnerable;
+- politically sensitive;
+- unreliable;
+- unsafe;
+- reputationally risky;
+- not someone to engage directly.
 
-⸻
+It may have arrived through:
 
-Section 1 — Reputation is infrastructure
+- a professional conversation;
+- an informal message;
+- a safeguarding discussion;
+- a community intermediary;
+- a security briefing;
+- a private telephone call;
+- an employer;
+- a colleague who was advised to be careful.
 
-Reputation is not merely social opinion.
+The person may never be told that the warning exists.
 
-It influences access to:
+They may experience only its consequences:
 
-* employment;
-* housing;
-* funding;
-* publication;
-* political meetings;
-* legal representation;
-* professional support;
-* safeguarding;
-* community leadership;
-* friendship;
-* intimate trust.
+- altered tone;
+- reduced warmth;
+- insistence on intermediaries;
+- refusal to meet privately;
+- unusual caution around ordinary contact;
+- repeated questions about boundaries;
+- invitations that disappear;
+- relationships that never become ordinary enough to produce trust.
 
-A reputation warning may therefore function as an access-control mechanism.
+> The person enters the room after the story about them has already arrived.
 
-Core line
+This node examines reputation warnings and narrative containment as mechanisms that may determine how a person, organisation, relationship, or body of evidence is interpreted before direct contact occurs.
 
-Reputation is often the credential required before the formal credential is even examined.
+It does not begin from the assumption that every adverse opinion is false or centrally directed.
 
-This section should distinguish:
+People form judgements for ordinary reasons. Institutions share legitimate concerns. Professionals warn one another about identifiable risks. Communities gossip. Relationships produce conflict. Some people do behave badly.
 
-* general public image;
-* institutional reputation;
-* community reputation;
-* professional reputation;
-* security reputation;
-* intimate reputation.
+The analytical question is narrower:
 
-Different warnings travel through different networks.
+> When does a warning cease to protect against identifiable conduct and begin governing what the person is allowed to mean?
 
-⸻
+The relevant evidence lies in:
 
-Section 2 — Warning, allegation, and atmosphere
+- what was actually alleged;
+- who supplied the account;
+- whether the source had direct knowledge;
+- how specific the warning was;
+- who received it;
+- what changed afterward;
+- whether the person could respond;
+- whether correction travelled as far as the original concern;
+- whether character labels repeatedly displaced conduct;
+- whether the warning intensified near a consequential relationship or opportunity.
 
-Define the forms clearly.
+---
 
-Allegation
+## 🧱 Reputation Is Infrastructure
+
+Reputation is often described as social opinion.
+
+In practice, it can operate as infrastructure.
+
+It may determine access to:
+
+- employment;
+- housing;
+- funding;
+- publication;
+- political meetings;
+- legal representation;
+- professional support;
+- safeguarding routes;
+- community standing;
+- intimate trust;
+- family support;
+- institutional legitimacy.
+
+A formal credential may never be examined if an informal reputation warning has already made involvement feel unwise.
+
+> Reputation is often the credential required before the formal credential is even examined.
+
+Different forms of reputation travel through different networks.
+
+### Professional reputation
+
+May influence:
+
+- hiring;
+- promotion;
+- collaboration;
+- referral;
+- publication;
+- professional regulation.
+
+### Institutional reputation
+
+May influence whether a person is treated as:
+
+- credible;
+- manageable;
+- risky;
+- suitable for direct contact;
+- appropriate for senior attention.
+
+### Community reputation
+
+May shape:
+
+- belonging;
+- introductions;
+- social support;
+- religious participation;
+- informal protection;
+- who feels safe being seen beside the person.
+
+### Security reputation
+
+May shape:
+
+- clearance;
+- border treatment;
+- access to officials;
+- association risk;
+- whether political speech is interpreted as dissent or threat.
+
+### Intimate reputation
+
+May shape whether a potential partner, friend, carer, or chosen-family member is warned that closeness would be:
+
+- unsafe;
+- inappropriate;
+- manipulative;
+- destabilising;
+- professionally dangerous.
+
+The warning therefore does not merely influence opinion.
+
+It may determine whether a consequential relationship is permitted to begin, deepen, or remain credible.
+
+---
+
+## 🧭 Warning, Allegation, Narrative, And Atmosphere
+
+Several forms must be distinguished.
+
+### Allegation
 
 A claim about identifiable conduct.
 
-It can potentially be tested.
+For example:
 
-Warning
+- a threat was made;
+- a boundary was breached;
+- information was disclosed;
+- funds were misused;
+- harassment occurred;
+- a professional duty was violated.
 
-Advice to treat the person or relationship cautiously.
+An allegation may be true, false, mistaken, exaggerated, or incomplete.
 
-It may not identify conduct.
+Because it concerns conduct, it can potentially be:
 
-Narrative
+- dated;
+- sourced;
+- investigated;
+- compared;
+- answered.
 
-A broader interpretation of the person:
+### Warning
 
-* unstable;
-* dangerous;
-* manipulative;
-* extreme;
-* disloyal;
-* vulnerable;
-* attention-seeking.
+Advice to treat the person, organisation, or relationship cautiously.
 
-Atmosphere
+A warning may not identify the underlying conduct.
 
-A diffuse sense that involvement is unwise even when no one can identify the source.
+It may say only:
 
-Core line
+- be careful;
+- there are concerns;
+- direct engagement is not recommended;
+- this is more complicated than it appears;
+- involvement may create risk.
 
-An allegation tells the listener what supposedly happened. A warning tells them what kind of person they should expect to meet.
+### Narrative
 
-This distinction matters because vague warnings are harder to challenge than specific allegations.
+A broader interpretation of what kind of person this is.
 
-⸻
+Examples include:
 
-Section 3 — The power of the unspecific caution
+- unstable;
+- dangerous;
+- manipulative;
+- obsessive;
+- extreme;
+- disloyal;
+- vulnerable;
+- attention-seeking;
+- professionally inappropriate.
+
+### Atmosphere
+
+A diffuse sense that involvement would be unwise even where nobody can identify:
+
+- the source;
+- the allegation;
+- the date;
+- the evidence;
+- the exact risk.
+
+> An allegation tells the listener what supposedly happened. A warning tells them what kind of person they should expect to meet.
+
+The more diffuse the form, the harder it may be to test.
+
+A specific allegation can fail.
+
+An atmosphere can linger.
+
+---
+
+## 🌫️ The Unspecified Caution
+
+Some of the most consequential warnings are also the least precise.
 
 Common phrases may include:
 
-* there are safeguarding concerns;
-* they are quite difficult;
-* it is a complicated situation;
-* proceed carefully;
-* there are reputational issues;
-* they may not be reliable;
-* direct contact is not advised;
-* best to use recognised channels;
-* they are currently unwell;
-* there is a wider security context.
+- there are safeguarding concerns;
+- they are quite difficult;
+- it is a complicated situation;
+- proceed carefully;
+- there are reputational issues;
+- they may not be reliable;
+- direct contact is not advised;
+- recognised channels would be safer;
+- they are currently unwell;
+- there is a wider security context;
+- you should maintain appropriate distance.
 
-Such phrases may be legitimate shorthand.
+Each phrase may describe a legitimate concern.
 
-They may also conceal:
+The problem begins where the listener cannot determine:
 
-* no tested allegation;
-* old information;
-* political disagreement;
-* personal conflict;
-* institutional defensiveness;
-* source bias.
+- what conduct occurred;
+- how recent it was;
+- who observed it;
+- whether it was investigated;
+- whether the concern remains current;
+- whether it arose from political disagreement;
+- whether the source had a conflict.
 
-Core line
+> Vagueness protects the warning because there is nothing precise enough to disprove.
 
-Vagueness protects the warning because there is nothing precise enough to disprove.
+The recipient may supply the feared content themselves.
 
-The recipient often supplies the feared content themselves.
+“Safeguarding concerns” may become, in imagination:
 
-⸻
+- danger;
+- abuse;
+- instability;
+- exploitation;
+- risk to children;
+- professional misconduct.
 
-Section 4 — Conduct versus character
+“Security context” may become:
 
-Responsible warnings should concern identifiable conduct.
+- extremism;
+- hostile-state involvement;
+- criminality;
+- surveillance;
+- secret evidence.
+
+The warning has done its work without making a claim anyone can safely challenge.
+
+---
+
+## 🎭 Conduct Becomes Character
+
+Responsible warnings should remain tied to identifiable conduct.
 
 Narrative containment often shifts from:
 
-* what happened;
+- what happened;
 
 to:
 
-* what kind of person they are.
+- what kind of person they are.
 
-Examples:
+Examples include:
 
-* repeated complaints become “obsessive”;
-* anger becomes “aggressive”;
-* political conviction becomes “extreme”;
-* trauma becomes “unstable”;
-* caution becomes “paranoid”;
-* refusal becomes “uncooperative”;
-* confidence becomes “grandiose”;
-* complexity becomes “manipulative.”
+- repeated complaints becoming “obsession”;
+- anger becoming “aggression”;
+- political conviction becoming “extremism”;
+- trauma becoming “instability”;
+- caution becoming “paranoia”;
+- refusal becoming “non-compliance”;
+- confidence becoming “grandiosity”;
+- complexity becoming “manipulation”;
+- persistence becoming “fixation”;
+- distress becoming “dangerousness.”
 
-Core line
+> Conduct can be investigated. Character labels travel farther and expire more slowly.
 
-Conduct can be investigated. Character labels travel farther and expire more slowly.
+Character language also broadens the warning.
 
-The node should show how character labels make future conduct self-confirming.
+A conduct concern may be relevant to one setting.
 
-⸻
+A character judgement can follow the person into:
 
-Section 5 — Narrative preloading
+- employment;
+- healthcare;
+- housing;
+- politics;
+- friendship;
+- intimate life;
+- community support.
 
-Once a warning exists, later behaviour may be interpreted through it.
+The label becomes portable because it appears to describe the person rather than the event.
 
-A person who:
+---
 
-* arrives prepared appears controlling;
-* becomes upset appears unstable;
-* remains calm appears calculating;
-* corrects an error appears difficult;
-* asks for evidence appears suspicious;
-* disengages appears evasive;
-* persists appears obsessive.
+## 🧠 Narrative Preloading
 
-This is the closed interpretive loop.
+Once a warning has been received, later behaviour may be interpreted through it.
 
-Core line
+A person who arrives prepared may appear:
 
-Once the narrative is loaded, contradictory behaviour may be absorbed rather than allowed to disprove it.
+- controlling;
+- rehearsed;
+- manipulative.
 
-This is one of the strongest sections.
+A person who becomes upset may appear:
 
-It should explain how preloaded interpretation makes the warning resistant to correction.
+- unstable;
+- aggressive;
+- unable to cope.
 
-⸻
+A person who remains calm may appear:
 
-Section 6 — Warning without disclosure
+- calculating;
+- emotionally detached;
+- suspiciously composed.
 
-The person may be affected by a warning they cannot access.
+A person who corrects an error may appear:
 
-Institutions may refuse disclosure because of:
+- difficult;
+- argumentative;
+- incapable of letting matters go.
 
-* confidentiality;
-* safeguarding;
-* national security;
-* legal privilege;
-* source protection;
-* third-party privacy;
-* ongoing investigation.
+A person who asks for evidence may appear:
 
-Some restrictions may be legitimate.
+- paranoid;
+- distrustful;
+- obsessed with process.
 
-The consequence is that the subject may be required to answer:
+A person who disengages may appear:
 
-* an unspecified concern;
-* an unknown source;
-* an undisclosed allegation;
-* a narrative they can only infer from altered treatment.
+- evasive;
+- uncooperative;
+- unable to sustain engagement.
 
-Core line
+> Once the narrative is loaded, contradictory behaviour may be absorbed rather than allowed to disprove it.
 
-The person may be asked to correct a story they are not permitted to hear.
+This creates a closed interpretive loop.
 
-The node should examine minimum procedural fairness without suggesting all sensitive material must be publicly disclosed.
+Every response confirms the warning because the warning supplies the meaning of the response.
 
-⸻
+The person is not merely being observed.
 
-Section 7 — Informal warnings and clean records
+They are being read through an interpretive script they did not write and may not know exists.
 
-A consequential warning may travel through:
+---
 
-* phone calls;
-* private messages;
-* corridor conversations;
-* professional networks;
-* closed meetings;
-* personal contacts;
-* “off the record” remarks.
+## 🔒 Warning Without Disclosure
 
-The formal record later shows only:
+A person may be affected by information they cannot access.
 
-* independent professional judgement;
-* changed risk assessment;
-* suitability concern;
-* decision not to proceed.
+Institutions may restrict disclosure because of:
 
-Core line
+- confidentiality;
+- safeguarding;
+- legal privilege;
+- national security;
+- source protection;
+- third-party privacy;
+- ongoing investigation;
+- risk to another person.
 
-The file can remain clean because the warning did its work before the decision was written.
+Some restrictions are legitimate.
 
-This links strongly to plausible deniability but keeps focus on reputational effect.
+The procedural problem remains.
 
-⸻
+The subject may be expected to answer:
 
-Section 8 — Community gossip becoming institutional knowledge
+- an unspecified concern;
+- an unknown source;
+- an undisclosed allegation;
+- a narrative inferred only through altered treatment.
+
+> The person may be asked to correct a story they are not permitted to hear.
+
+Responsible systems do not always need to disclose:
+
+- every source;
+- every confidential record;
+- every operational detail.
+
+They should still provide, as far as law and safety permit:
+
+- the substance of the concern;
+- the conduct at issue;
+- the relevance to the decision;
+- the confidence placed upon it;
+- an independent review route;
+- a method for correcting material error.
+
+Without that minimum, the person may remain permanently answerable to a warning too vague to meet and too consequential to ignore.
+
+---
+
+## ☎️ Informal Warning, Clean Record
+
+A warning may travel through:
+
+- private calls;
+- corridor conversations;
+- encrypted messages;
+- professional networks;
+- closed meetings;
+- off-the-record comments;
+- introductions framed as personal advice.
+
+The later formal record may contain only:
+
+- independent professional judgement;
+- suitability concerns;
+- changed risk assessment;
+- loss of confidence;
+- a decision not to proceed;
+- preference for an alternative candidate;
+- a requirement for greater distance.
+
+> The file can remain clean because the warning did its work before the decision was written.
+
+This creates an evidentiary asymmetry.
+
+The subject sees:
+
+- the decision;
+- the altered tone;
+- the lost opportunity.
+
+They may not see:
+
+- the conversation that prepared the decision;
+- the source that supplied the concern;
+- the wording that travelled;
+- the recipients who acted upon it.
+
+The absence of a formal record does not prove an informal warning occurred.
+
+It does mean that a clean written process cannot, by itself, establish that no prior narrative influenced the judgement.
+
+---
+
+## 🕸️ Gossip Becoming Governance
 
 Community information may begin as:
 
-* rumour;
-* interpersonal conflict;
-* factional dispute;
-* relationship breakdown;
-* political disagreement;
-* informal safeguarding concern.
+- rumour;
+- factional conflict;
+- interpersonal dispute;
+- relationship breakdown;
+- political disagreement;
+- informal safeguarding concern;
+- partial testimony.
 
 It may become institutionally authoritative when repeated by:
 
-* recognised leaders;
-* approved intermediaries;
-* professionals;
-* donors;
-* officials;
-* culturally trusted advisers.
+- recognised community leaders;
+- approved intermediaries;
+- donors;
+- professionals;
+- officials;
+- culturally trusted advisers;
+- organisations presumed to speak for a group.
 
-Core line
+> Gossip becomes governance when the institution forgets where the story began.
 
-Gossip becomes governance when the institution forgets where the story began.
+A responsible record should distinguish:
 
-The node should distinguish:
+- direct testimony;
+- allegation;
+- interpretation;
+- rumour;
+- verified finding;
+- no-finding outcome;
+- withdrawn claim;
+- corrected information.
 
-* testimony;
-* allegation;
-* rumour;
-* interpretation;
-* verified finding.
+Without source lineage, repetition may be mistaken for corroboration.
 
-Source lineage is essential.
+Several institutions may appear to hold the same concern independently when all inherited it from:
 
-⸻
+- one person;
+- one disputed file;
+- one outdated assessment;
+- one politically interested intermediary.
 
-Section 9 — The approved narrator
+The multiplication of recipients does not multiply the evidence.
 
-An institution may trust one person or organisation to explain:
+---
 
-* the community;
-* the conflict;
-* the subject;
-* the political context;
-* the risk.
+## 🎙️ The Approved Narrator
+
+An institution may rely on one person or organisation to explain:
+
+- the community;
+- the conflict;
+- the subject;
+- the political context;
+- the risk;
+- what direct contact would mean.
 
 The narrator may be:
 
-* sincere;
-* knowledgeable;
-* conflicted;
-* factional;
-* dependent;
-* personally involved.
+- sincere;
+- knowledgeable;
+- experienced;
+- conflicted;
+- factional;
+- dependent on institutional favour;
+- personally involved.
 
-Core line
+> The power to interpret another person can become more consequential than the power to make the final decision.
 
-The power to interpret another person can become more consequential than the power to make the final decision.
+The approved narrator may determine:
 
-The institution should preserve:
+- which history matters;
+- which conduct is emphasised;
+- which language is used;
+- who appears credible;
+- whether disagreement is treated as diversity or danger.
 
-* disagreement;
-* alternative accounts;
-* conflicts of interest;
-* direct testimony;
-* limits of expertise.
+Responsible institutions should preserve:
 
-This connects to approved intermediaries without duplicating the previous node.
+- direct testimony;
+- alternative accounts;
+- source limitations;
+- conflicts of interest;
+- distinctions between fact and interpretation;
+- the possibility that the approved narrator does not represent the whole community.
 
-⸻
+No one community has only one safe interpreter.
 
-Section 10 — Safeguarding language as reputation transport
+---
 
-Safeguarding language carries moral urgency.
+## 🛡️ Safeguarding As Reputation Transport
 
-A warning framed as protection may travel farther and face less challenge.
+Safeguarding language carries urgency.
 
-Possible phrases:
+Warnings framed as protection may travel quickly and face limited challenge.
 
-* vulnerability concerns;
-* boundary issues;
-* unsafe dynamics;
-* potential exploitation;
-* risk of escalation;
-* inappropriate dependency;
-* concern for wellbeing.
+Possible phrases include:
+
+- vulnerability concerns;
+- boundary issues;
+- unsafe dynamics;
+- inappropriate dependency;
+- potential exploitation;
+- risk of escalation;
+- concern for wellbeing;
+- inability to consent safely.
 
 These may describe real dangers.
 
-They can also transform:
+They may also transform:
 
-* chosen trust;
-* political alliance;
-* intimate support;
-* persistence;
-* mutual protection;
+- chosen trust;
+- political alliance;
+- intimate support;
+- mutual protection;
+- persistence;
+- a person’s need for help;
 
-into reasons for institutional caution.
+into reasons for institutional distance.
 
-Core line
+> Safeguarding language can make a contested interpretation feel too protective to question.
 
-Safeguarding language can make a contested interpretation feel too protective to question.
+This node does not weaken genuine safeguarding.
 
-The node should not undermine genuine safeguarding.
+A person may need immediate protection from:
 
-Its concern is untested narrative migration.
+- abuse;
+- exploitation;
+- coercion;
+- stalking;
+- professional misconduct;
+- unsafe dependency.
 
-⸻
+The evidentiary question is whether the warning identifies:
 
-Section 11 — Security labels and political containment
+- who may be harmed;
+- what conduct created the risk;
+- how the proposed restriction reduces that risk;
+- whether the response is proportionate;
+- whether adult agency is preserved;
+- whether the relationship’s political or material consequence is being mistaken for danger.
 
-Warnings may include:
+Safeguarding should protect people from harm.
 
-* extremist;
-* foreign-influenced;
-* radicalising;
-* hostile-state linked;
-* destabilising;
-* security-sensitive;
-* linked to problematic actors.
+It should not grant indefinite authority over which lawful relationships may become consequential.
 
-Such labels may refer to real conduct.
+---
+
+## 📡 Security Labels And Political Containment
+
+Warnings may include terms such as:
+
+- extremist;
+- radicalising;
+- foreign-influenced;
+- hostile-state linked;
+- destabilising;
+- security-sensitive;
+- connected to problematic actors.
+
+These labels may refer to real conduct.
 
 They may also collapse:
 
-* lawful dissent;
-* family nationality;
-* religious identity;
-* activism;
-* journalism;
-* cross-border association;
-* criticism of a government.
+- lawful dissent;
+- journalism;
+- activism;
+- family nationality;
+- religious identity;
+- cross-border association;
+- criticism of a government;
+- contact with politically disfavoured people.
 
-Core line
+> Security language can convert political disagreement into a reason not to hear the politics.
 
-Security language can convert political disagreement into a reason not to hear the politics.
+A responsible warning should distinguish:
 
-The node should require conduct-based evidence and independent corroboration.
+- belief;
+- association;
+- identity;
+- lawful protest;
+- rhetoric;
+- threat;
+- planning;
+- conduct.
 
-⸻
+It should also distinguish:
 
-Section 12 — Medicalisation and credibility
+- verified intelligence;
+- untested reporting;
+- inferred risk;
+- copied classification;
+- common-source repetition.
+
+The more consequential the label, the stronger the need for:
+
+- conduct-based evidence;
+- independent corroboration;
+- review;
+- correction;
+- proportionality.
+
+---
+
+## 🩺 Medicalisation And Credibility
 
 A person’s distress, disability, diagnosis, medication, or support needs may be used to pre-frame their account.
 
-Possible effects:
+Possible effects include:
 
-* evidence treated as symptom;
-* anger treated as instability;
-* persistence treated as pathology;
-* institutional criticism rerouted to care;
-* direct testimony filtered through professionals.
+- evidence treated as symptom;
+- anger treated as instability;
+- persistence treated as pathology;
+- political complaint rerouted into care;
+- direct testimony filtered through professionals;
+- disagreement treated as lack of insight.
 
-Core line
+> Distress may affect how testimony is delivered. It does not determine whether the testimony is true.
 
-Distress may affect how testimony is delivered. It does not determine whether the testimony is true.
+Two opposite errors must be avoided.
 
-This section should be survivor-aware and precise.
+### Error one
 
-It should reject both errors:
+Dismissing the person’s evidence because they are distressed.
 
-* dismissing evidence because the person is distressed;
-* treating distress as proof of the wider claim.
+### Error two
 
-⸻
+Treating distress as proof that the wider interpretation is correct.
 
-Section 13 — Gendered, racialised, and classed warnings
+Mental state and factual accuracy require separate assessment.
 
-Identical behaviour may be labelled differently depending on the subject.
+A person can be:
 
-Examples:
+- distressed and correct;
+- calm and mistaken;
+- traumatised and precise;
+- medically unwell and still reporting real misconduct;
+- politically angry without being dangerous.
 
-* assertive versus aggressive;
-* confident versus grandiose;
-* cautious versus paranoid;
-* persistent versus obsessive;
-* charismatic versus manipulative;
-* politically informed versus radicalised;
-* distressed versus dangerous.
+Medical care should not become a substitute for examining:
 
-Reputation systems may reproduce:
+- documents;
+- decisions;
+- source lineage;
+- procedural error;
+- institutional conduct.
 
-* racism;
-* misogyny;
-* antisemitism;
-* Islamophobia;
-* class contempt;
-* disability prejudice;
-* queerphobia;
-* accent and educational bias.
+> Care becomes containment when every route toward power is redirected toward help enduring powerlessness.
 
-Core line
+---
 
-A warning rarely enters an empty room. It lands inside existing prejudice.
+## ⚖️ Gendered, Racialised, Classed, And Disabled Readings
 
-This should remain grounded and avoid becoming an exhaustive discrimination node.
+A warning rarely enters an empty room.
 
-⸻
+It lands inside existing prejudice.
 
-Section 14 — Narrative containment through partial truth
+Identical conduct may be interpreted differently depending on:
+
+- race;
+- religion;
+- gender;
+- sexuality;
+- disability;
+- class;
+- accent;
+- age;
+- educational background;
+- nationality.
+
+A confident man may be described as authoritative.
+
+A confident woman may be described as:
+
+- aggressive;
+- grandiose;
+- difficult.
+
+A cautious member of a trusted group may be described as prudent.
+
+A cautious member of a stigmatised group may be described as:
+
+- paranoid;
+- disloyal;
+- security-sensitive.
+
+A disabled person seeking adjustment may be described as demanding.
+
+A traumatised person seeking accuracy may be described as fixated.
+
+> A warning rarely enters an empty room. It lands inside existing prejudice.
+
+The relevant point is not that every warning is discriminatory.
+
+It is that vague caution can acquire force by activating stereotypes already available to the recipient.
+
+---
+
+## 🪞 Partial Truth
 
 The most durable warning may contain something true.
 
-Examples:
+For example:
 
-* the person did become angry;
-* they sent many messages;
-* they have mental-health support;
-* they criticised an institution publicly;
-* there was a conflict;
-* a safeguarding concern was raised.
+- the person did become angry;
+- they did send many messages;
+- they do receive mental-health support;
+- they did criticise an institution publicly;
+- there was a conflict;
+- a safeguarding concern was raised;
+- a relationship was intense;
+- a professional advised caution.
 
-The containment occurs through omission of:
+The containment may lie in omission of:
 
-* cause;
-* context;
-* institutional conduct;
-* later correction;
-* proportionality;
-* outcome.
+- cause;
+- context;
+- institutional conduct;
+- proportionality;
+- later correction;
+- outcome;
+- what happened immediately before the behaviour.
 
-Core line
+> A partial truth can travel more safely than a lie because every challenge appears to deny the part that was true.
 
-A partial truth can travel more safely than a lie because every challenge appears to deny the part that was true.
+Narrative containment often relies upon selection rather than fabrication.
 
-This is a major analytic point.
+The fact that one element is accurate does not establish that the interpretation attached to it is fair.
 
-Narrative containment often relies on selection, not fabrication.
+A strong audit therefore asks:
 
-⸻
+- What is true?
+- What is missing?
+- What causal story has been added?
+- What later information was omitted?
+- Does the selected fact justify the conclusion being circulated?
 
-Section 15 — The story that outruns its correction
+---
+
+## 🏃 The Story Outruns The Correction
 
 Warnings may spread quickly because they are:
 
-* urgent;
-* emotionally memorable;
-* professionally protective;
-* easy to summarise.
+- urgent;
+- emotionally memorable;
+- professionally protective;
+- easy to summarise;
+- safe to repeat as caution.
 
 Corrections may be:
 
-* longer;
-* qualified;
-* private;
-* legally cautious;
-* sent only to one institution;
-* detached from downstream copies.
+- longer;
+- qualified;
+- private;
+- legally cautious;
+- distributed only to one institution;
+- detached from downstream copies.
 
-Core line
+> The warning travels as a sentence. The correction travels as a file nobody finishes reading.
 
-The warning travels as a sentence. The correction travels as a file nobody finishes reading.
+A correction process should ask:
 
-This connects to correction propagation.
+- Who received the original warning?
+- Who received the correction?
+- Were derived decisions reviewed?
+- Were copied records amended?
+- Was the person notified?
+- Did the label expire?
+- Were informal recipients reached?
 
-The node should ask:
+A correction that remains in the originating file does not repair decisions already made elsewhere.
 
-* who received the original;
-* who received the correction;
-* whether derived decisions were reviewed;
-* whether the label expired.
+---
 
-⸻
+## 🔐 Narrative Lock-In
 
-Section 16 — Narrative lock-in
+Once institutions act on a warning, correcting it may become costly.
 
-Once institutions act on a warning, admitting error becomes costly.
+Correction may imply that:
 
-Correction may imply:
+- an opportunity was wrongly denied;
+- a safeguarding process caused harm;
+- confidential information was mishandled;
+- an official source was conflicted;
+- a contractor’s output was unreliable;
+- a supporter was unfairly warned;
+- a relationship was disrupted without sufficient basis.
 
-* an opportunity was wrongly denied;
-* a safeguarding process caused harm;
-* confidential information was mishandled;
-* a contractor’s output was unreliable;
-* an official source was politically interested;
-* staff acted disproportionately.
+The institution may preserve the warning through:
 
-The institution may therefore preserve the warning through:
+- cautious wording;
+- no-finding conclusions;
+- refusal to revisit;
+- ongoing-concern language;
+- reliance on professional judgement;
+- separating each decision from the cumulative effect.
 
-* cautious wording;
-* no-finding conclusions;
-* refusal to revisit;
-* “ongoing concern” language;
-* reliance on professional judgement;
-* separation of each decision.
+> The narrative may survive because correcting it would require the institution to account for everything done in its name.
 
-Core line
+The cost of correction does not prove the original warning was false.
 
-The narrative may survive because correcting it would require the institution to account for everything done in its name.
+It explains why a weak or outdated warning may remain operational after its evidentiary basis has eroded.
 
-⸻
+---
 
-Section 17 — Reputational quarantine
+## 🧫 Reputational Quarantine
 
-A person may remain visible but become socially quarantined.
+A person may remain:
 
-Others may:
+- visible;
+- discussed;
+- monitored;
+- occasionally consulted;
+- privately sympathised with.
 
-* observe;
-* monitor;
-* discuss;
-* sympathise;
-* avoid direct association;
-* refuse public support;
-* engage only through intermediaries.
+Others may still avoid:
 
-The person is not disappeared.
+- public association;
+- direct support;
+- collaborative work;
+- private meetings;
+- professional endorsement;
+- practical protection.
 
-They are treated as contagious.
+> Reputational quarantine allows everyone to remain aware of the person while ensuring that awareness does not become solidarity.
 
-Core line
+This differs from disappearance.
 
-Reputational quarantine allows everyone to remain aware of the person while ensuring that awareness does not become solidarity.
+The person may be highly visible.
 
-This is a powerful bridge to isolation and relationship disruption.
+The quarantine concerns what forms of relationship are treated as safe.
 
-⸻
+Observation may remain acceptable.
 
-Section 18 — Warnings aimed at the relationship
+Closeness becomes contagious.
+
+---
+
+## 🪢 Warnings Aimed At The Relationship
 
 The warning may target not only the person but the connection.
 
-Examples:
+Examples include:
 
-* this relationship is inappropriate;
-* they are using you;
-* contact may compromise your role;
-* association could harm your reputation;
-* you are becoming too involved;
-* they are dependent on you;
-* this may create a conflict;
-* you should maintain professional distance.
+- this relationship is inappropriate;
+- they are using you;
+- contact may compromise your role;
+- association could harm your reputation;
+- you are becoming too involved;
+- they are dependent on you;
+- this creates a conflict;
+- professional distance is advised;
+- continued contact could worsen matters.
 
 Some warnings may be correct and protective.
 
-The question is whether the relationship is assessed through:
+The relevant questions are whether the relationship is assessed through:
 
-* evidence;
-* role boundaries;
-* consent;
-* actual harm;
+- identifiable conduct;
+- consent;
+- role boundaries;
+- power imbalance;
+- actual harm;
+- proportionality;
 
 or through:
 
-* political consequence;
-* institutional discomfort;
-* unsupported character claims;
-* fear of what the pair could accomplish.
+- political consequence;
+- institutional discomfort;
+- unsupported character claims;
+- fear of what the people could accomplish together.
 
-Core line
+> The reputation warning becomes relationship governance when the listener is asked to fear the consequences of knowing the person.
 
-The reputation warning becomes relationship governance when the listener is asked to fear the consequences of knowing the person.
+---
 
-⸻
+## ⚠️ Burden Transfer
 
-Section 19 — Warning as burden transfer
+An institution may not prohibit contact.
 
-The institution may not prohibit contact.
+It may instead make the recipient responsible for every possible consequence of continuing.
 
-It transfers the risk onto the recipient.
+The recipient is warned that they may cause:
 
-The recipient is made responsible for:
-
-* safeguarding failure;
-* reputational damage;
-* professional consequences;
-* security exposure;
-* community conflict.
+- safeguarding failure;
+- reputational damage;
+- professional consequences;
+- security exposure;
+- community conflict;
+- harm to the person;
+- compromise of an investigation.
 
 A rational person may withdraw.
 
-Core line
+> The institution does not need to order distance when it can make closeness feel like an individual liability.
 
-The institution does not need to order distance when it can make closeness feel like an individual liability.
+The withdrawal may remain voluntary.
 
-This is central to how warnings produce voluntary-looking withdrawal.
+The conditions shaping the choice still matter.
 
-⸻
+A coerced environment does not erase agency.
 
-Section 20 — Narrative substitution
+It alters the price attached to each option.
 
-Instead of addressing the person’s substantive account, institutions may circulate a different story:
+---
 
-* this is a wellbeing matter;
-* this is an interpersonal dispute;
-* this is a communications problem;
-* this is reputational sensitivity;
-* this is extremism risk;
-* this is a difficult service user;
-* this is community tension.
+## 🔄 Narrative Substitution
 
-The alternative narrative may contain some truth.
+Instead of addressing the person’s substantive account, an institution may circulate a different story.
+
+Examples include:
+
+- this is a wellbeing matter;
+- this is an interpersonal dispute;
+- this is a communications problem;
+- this is reputational sensitivity;
+- this is an extremism concern;
+- this is a difficult service user;
+- this is community tension;
+- this is a boundary issue.
+
+The substitute narrative may contain some truth.
 
 It becomes containment when it displaces the issue requiring institutional action.
 
-Core line
+> Narrative containment does not need to silence the facts. It only needs to place them inside a story that requires no remedy.
 
-Narrative containment does not need to silence the facts. It only needs to place them inside a story that requires no remedy.
+A political complaint becomes a care problem.
 
-This should be one of the node’s anchor lines.
+An evidentiary dispute becomes a communication problem.
 
-⸻
+Institutional misconduct becomes a personality conflict.
 
-Section 21 — The evidence problem
+A protection need becomes inappropriate dependency.
+
+The facts remain present.
+
+Their administrative meaning changes.
+
+---
+
+## 🧪 The Evidence Problem
 
 Reputation is naturally diffuse.
 
-People form opinions.
+People form opinions. Professionals share concerns. Communities gossip. Institutions exercise caution.
 
-Professionals share concerns.
+A damaged reputation is not, by itself, evidence of an organised warning system.
 
-Communities gossip.
+Potential evidence may include:
 
-Institutions exercise caution.
+- repeated identical wording;
+- copied factual errors;
+- treatment changing after an identifiable warning;
+- witnesses describing the same caution;
+- undisclosed sources repeatedly shaping decisions;
+- character labels replacing conduct allegations;
+- warnings intensifying near consequential opportunities;
+- corrections failing downstream;
+- the same intermediary recurring;
+- decisions lacking independent evidence;
+- no-finding outcomes that do not alter treatment.
 
-Evidence of deliberate or systemic containment may include:
+> A damaged reputation is not proof of an organised warning system. The relevant evidence lies in source, transmission, repetition, timing, and decision effect.
 
-* repeated identical wording;
-* copied factual errors;
-* treatment changing after an identifiable warning;
-* witnesses describing the same caution;
-* undisclosed sources repeatedly shaping decisions;
-* corrections failing downstream;
-* the same intermediary recurring;
-* character labels replacing conduct allegations;
-* warnings appearing near consequential opportunities;
-* decisions lacking independent evidence.
+The smallest useful claim may be:
 
-Essential line
+- one warning was transmitted;
+- one character label altered contact;
+- one correction failed to reach a downstream recipient;
+- one intermediary’s interpretation became institutionally authoritative;
+- one vague caution intensified near a consequential relationship.
 
-A damaged reputation is not proof of an organised warning system. The relevant evidence lies in source, transmission, repetition, timing, and decision effect.
+Attribution should not move beyond the evidence.
 
-⸻
+---
 
-Section 22 — Rival explanations
+## 🧯 Rival Explanations
 
 Possible alternatives include:
 
-* genuine misconduct;
-* legitimate safeguarding;
-* professional disagreement;
-* ordinary gossip;
-* personality conflict;
-* institutional caution;
-* misunderstanding;
-* poor communication;
-* political disagreement;
-* bias without coordination;
-* independently formed opinions.
+- genuine misconduct;
+- legitimate safeguarding;
+- professional disagreement;
+- ordinary gossip;
+- personality conflict;
+- institutional caution;
+- misunderstanding;
+- poor communication;
+- political disagreement;
+- bias without coordination;
+- independently formed opinions;
+- a person’s actual decision to withdraw.
 
-Core line
+> Sometimes several people reach the same conclusion because the conduct was visible. Sometimes they inherited the same story.
 
-Sometimes several people reach the same conclusion because the conduct was visible. Sometimes they inherited the same story.
+Mixed explanations are possible.
 
-The task is to determine which.
+A real conduct concern may be:
 
-⸻
+- exaggerated;
+- circulated too widely;
+- left uncorrected;
+- used for unrelated purposes;
+- attached permanently to the person.
 
-Section 23 — Comparative questions
+The existence of some legitimate concern does not make every downstream use legitimate.
 
-A useful comparison may ask:
+Likewise, proof that a warning travelled does not establish that the person was blameless in every underlying conflict.
 
-* What precise conduct was alleged?
-* Did people who had no direct contact use identical language?
-* Was the warning specific enough to test?
-* Did the narrative predate the alleged conduct?
-* Were comparable people treated differently?
-* Did the warning intensify near access, publication, collaboration, or protection?
-* Was the subject allowed to respond?
-* Did the correction reach the same audience?
-* Did the story change when challenged?
-* Did people act independently or rely on one source?
+---
 
-⸻
+## 🔍 Comparative Questions
 
-Section 24 — Natural experiments
+A careful comparison may ask:
 
-Possible non-invasive comparisons:
+- What precise conduct was alleged?
+- Who observed it directly?
+- Did people with no direct contact use identical language?
+- Was the warning specific enough to test?
+- Did the narrative predate the alleged conduct?
+- Were comparable people treated differently?
+- Did the warning intensify near access, publication, collaboration, or protection?
+- Was the person allowed to respond?
+- Did the correction reach the same audience?
+- Did the story change when challenged?
+- Did people act independently or rely on one source?
+- Did direct experience contradict the prior caution?
+- Did the relationship remain acceptable while symbolic, then become risky when practical?
 
-* treatment before and after a documented warning;
-* reactions from people with direct experience versus those briefed indirectly;
-* institutions given the correction versus those given only the original concern;
-* specific conduct-based descriptions versus vague character labels;
-* direct contact versus intermediary-filtered contact.
+These questions do not prove motive.
 
-Guardrails:
+They help distinguish:
 
-* no baiting;
-* no covert recording where unlawful;
-* no public naming without evidence;
-* no attempts to spread counter-rumours;
-* no loyalty tests;
-* no treating warmth or coldness as proof.
+- visible conduct;
+- inherited narrative;
+- independent caution;
+- common-source replication;
+- threshold-linked containment.
 
-⸻
+---
 
-Section 25 — When narrative containment becomes social control
+## 🧬 Natural Comparisons
+
+Possible non-invasive comparisons include:
+
+- treatment before and after a documented warning;
+- reactions from people with direct experience versus people briefed indirectly;
+- institutions given the correction versus institutions given only the original concern;
+- specific conduct-based descriptions versus vague character labels;
+- direct contact versus intermediary-filtered contact;
+- decisions made before and after the warning expired.
+
+Do not:
+
+- bait;
+- spread counter-rumours;
+- test loyalty;
+- manufacture false allegations;
+- covertly provoke recipients;
+- publicly name people without evidence;
+- treat warmth or coldness as proof;
+- pursue someone who has clearly requested distance.
+
+The purpose is to understand the route.
+
+It is not to reproduce reputational harm in reverse.
+
+---
+
+## 🧷 When Narrative Containment Becomes Social Control
 
 Warning signs include:
 
-* the person’s account is consistently pre-framed;
-* vague caution repeatedly replaces specific allegation;
-* direct contact narrows;
-* character labels travel farther than evidence;
-* warnings intensify near consequential relationships;
-* the same account crosses unrelated institutions;
-* corrections fail to propagate;
-* others withdraw to protect themselves;
-* the person remains visible but socially quarantined;
-* the contained narrative prevents remedy.
+- the person’s account is consistently pre-framed;
+- vague caution repeatedly replaces specific allegation;
+- direct contact narrows;
+- character labels travel farther than evidence;
+- warnings intensify near consequential relationships;
+- the same account crosses unrelated institutions;
+- corrections fail to propagate;
+- others withdraw to protect themselves;
+- the person remains visible but socially quarantined;
+- the contained narrative prevents remedy.
 
-Anchor line
+> Narrative containment becomes social control when the story attached to a person repeatedly determines who may safely hear them, help them, employ them, represent them, or remain close to them.
 
-Narrative containment becomes social control when the story attached to a person repeatedly determines who may safely hear them, help them, employ them, represent them, or remain close to them.
+The key issue is not whether anyone speaks badly of the person.
 
-⸻
+It is whether an unreviewable story repeatedly governs access, trust, and lawful association.
 
-Section 26 — What responsible warning requires
+---
 
-A legitimate consequential warning should include, as far as safety and law permit:
+## 🛠️ What Responsible Warning Requires
 
-* identifiable conduct;
-* current relevance;
-* source distinction;
-* confidence level;
-* proportionality;
-* clear purpose;
-* limited recipients;
-* conflict disclosure;
-* opportunity to respond;
-* expiry or review date;
-* correction propagation;
-* distinction between fact and interpretation;
-* no unrelated reuse.
+A legitimate consequential warning should include, as far as law and safety permit:
+
+- identifiable conduct;
+- current relevance;
+- source distinction;
+- confidence level;
+- proportionality;
+- clear purpose;
+- limited recipients;
+- conflict disclosure;
+- opportunity to respond;
+- expiry or review date;
+- correction propagation;
+- distinction between fact and interpretation;
+- no unrelated reuse.
 
 Where full disclosure is impossible, the institution should still provide:
 
-* the substance of concern;
-* the conduct at issue;
-* the consequence;
-* the route to independent review.
+- the substance of the concern;
+- the conduct at issue;
+- the consequence attached to it;
+- a route to independent review;
+- a method for correcting material error.
 
-Core line
+> A warning should protect against identifiable harm, not grant indefinite authority over another person’s meaning.
 
-A warning should protect against identifiable harm, not grant indefinite authority over another person’s meaning.
+Responsible systems should also ask:
 
-⸻
+- Has this warning become stale?
+- Is it being used outside its original purpose?
+- Has the source been treated as independent corroboration?
+- Did the subject’s response alter the assessment?
+- Have downstream recipients been corrected?
+- Is the warning about harm, or about the consequences of association?
 
-Section 27 — Small-step audit
+---
+
+## 🪜 Small-Step Audit
 
 A reader examining one warning can ask:
 
-* What exact words were used?
-* Was conduct identified?
-* Who supplied the warning?
-* Did the source have direct knowledge?
-* Was the source conflicted?
-* Who received it?
-* Was it written or informal?
-* What changed afterward?
-* Was the person allowed to respond?
-* Did the warning have an expiry condition?
-* Did correction travel?
-* Did the same wording recur elsewhere?
-* Did the warning concern actual harm or the consequences of association?
-* What rival explanation remains?
+- What exact words were used?
+- Was identifiable conduct named?
+- Who supplied the warning?
+- Did the source have direct knowledge?
+- Was the source conflicted?
+- Who received it?
+- Was it written, verbal, or inferred?
+- What changed afterward?
+- Was the person allowed to respond?
+- Did the warning have an expiry condition?
+- Did correction travel?
+- Did the same wording recur elsewhere?
+- Did the warning concern actual harm or the consequences of association?
+- What rival explanation remains?
+- What would weaken the inference of containment?
 
 Possible smallest claims include:
 
-* one vague warning altered contact;
-* one character label replaced a conduct allegation;
-* one intermediary’s account became institutionally authoritative;
-* one correction failed to reach downstream recipients;
-* one warning intensified near a consequential relationship;
-* one political complaint was reframed as a wellbeing or reputational problem.
+- one vague warning altered contact;
+- one character label replaced a conduct allegation;
+- one intermediary’s account became institutionally authoritative;
+- one correction failed to reach downstream recipients;
+- one warning intensified near a consequential relationship;
+- one political complaint was reframed as a wellbeing or reputational problem.
 
-⸻
+---
 
-Evidentiary guardrail
+## ⚖️ Evidentiary Guardrail
 
 Use a clear ladder:
 
@@ -912,49 +1254,101 @@ Use a clear ladder:
 7. deliberate reputational intervention;
 8. coordinated relationship control.
 
-Do not jump from an awkward encounter to hidden briefing.
+Do not jump from:
 
-Do not treat confidentiality as proof of fabrication.
+- an awkward encounter to a hidden briefing;
+- confidentiality to fabrication;
+- several similar opinions to central coordination;
+- distress to unreliability;
+- persistence to obsession;
+- a warning to proof that the underlying conduct never occurred.
 
-Do not treat mental distress as proof or disproof of the underlying account.
+Do not ignore a consequential warning merely because it was informal.
 
-Do not let vague institutional language escape scrutiny merely because the word “safeguarding” appears.
+Do not treat a warning as legitimate merely because it used the language of:
 
-⸻
+- safeguarding;
+- wellbeing;
+- professionalism;
+- security;
+- reputation.
 
-Compact definition
+The relevant questions remain:
 
-Reputation Warnings And Narrative Containment describes the circulation of allegations, cautions, character labels, and interpretive frames that shape how a person, organisation, or relationship is understood before direct evidence or contact can challenge the story.
+- What conduct?
+- What source?
+- What route?
+- What purpose?
+- What consequence?
+- What review?
+
+---
+
+## 📖 Compact Definition
+
+**Reputation Warnings And Narrative Containment** describes the circulation of allegations, cautions, character labels, and interpretive frames that shape how a person, organisation, relationship, or body of evidence is understood before direct contact can challenge the story.
 
 It may operate through:
 
-* formal records;
-* informal warnings;
-* safeguarding language;
-* security labels;
-* approved intermediaries;
-* community gossip;
-* medicalisation;
-* partial truth;
-* correction failure;
-* reputational quarantine.
+- formal records;
+- informal warnings;
+- safeguarding language;
+- security labels;
+- approved intermediaries;
+- community gossip;
+- medicalisation;
+- partial truth;
+- correction failure;
+- reputational quarantine;
+- narrative substitution.
 
-The central danger is that the warning may determine access and trust without ever becoming specific enough to test, appeal, or disprove.
+The central danger is that a warning may determine access and trust without ever becoming specific enough to test, appeal, or disprove.
 
-⸻
+---
 
-Transition to the next node
+## 🚪 Next Route
 
-The node should end by moving from prior interpretation to active relational damage.
+Visibility determines whether the person is encountered.
 
-Possible transition:
+Reputation warnings determine what the encounter means before it begins.
 
-A warning changes how one person is seen. A wedge changes how two people understand one another.
+The next node examines what happens when that prior interpretation enters the relationship itself and begins altering what each person believes about the other:
 
-Then route to:
+- [🪓 Wedge Creation And Relationship Disruption](./🪓_wedge_creation_and_relationship_disruption.md)
 
-🪓_wedge_creation_and_relationship_disruption.md
+> A warning changes how one person is seen. A wedge changes how two people understand one another.
 
-Possible closing line
+The warning is now inside the relationship.
 
-The warning is now inside the relationship. The next tooth teaches each person to mistake it for the other.
+The next tooth teaches each person to mistake it for the other.
+
+---
+
+## 🌌 Constellations
+
+🗣️ 🕸️ 🛡️ ⚖️ 🪓 — *preloaded interpretation, common-source warnings, safeguarding authority, procedural fairness, and the movement from reputation into relational disruption.*
+
+---
+
+## ✨ Stardust
+
+reputation warning, narrative containment, character label, allegation, informal warning, safeguarding concern, security label, approved intermediary, community gossip, medicalisation, partial truth, correction propagation, reputational quarantine, relationship governance, procedural fairness, common-source replication, survivor credibility
+
+---
+
+## 🏮 Footer
+
+*🗣️ Reputation Warnings And Narrative Containment* is a capability-analysis node within *🦷 The Plant Has Teeth*.  
+It examines how warnings and interpretive frames may govern access, trust, and lawful association before direct contact can test the story.
+
+> 📡 Cross-references:
+>
+> - [🔇 Visibility Reduction And Social Rerouting](./🔇_visibility_reduction_and_social_rerouting.md) — *how the encounter becomes less likely*
+> - [🪓 Wedge Creation And Relationship Disruption](./🪓_wedge_creation_and_relationship_disruption.md) — *how prior interpretation enters the relationship*
+> - [🎭 Plausible Deniability By Design](../🪴_Mushniks_Dashboard/🎭_plausible_deniability_by_design.md) — *how consequential influence may remain outside the formal record*
+> - [🔭 Capability Not Allegation](../🧭_Orientation/🔭_capability_not_allegation.md) — *keeping mechanism analysis distinct from unsupported attribution*
+> - [🔬 The Smallest Claim First](../🧭_Orientation/🔬_the_smallest_claim_first.md) — *building from one traceable warning, route, and effect*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-07-21_
