@@ -1,1119 +1,1380 @@
-notes:  
+# 🧰 Exported Surveillance Capabilities
+**First created:** 2026-07-21 | **Last updated:** 2026-07-21  
+*How surveillance capabilities cross borders through products, services, training, data, integration, maintenance, and operational support.*
 
 ---
 
-🧰 exported_surveillance_capabilities.md — Node Plan
+## 🛰️ Orientation
 
-Core purpose
+The capability rarely arrives in a crate marked *surveillance*.
 
-This node should establish the most concrete form of capability diffusion:
-
-A surveillance or relationship-governance capability developed in one jurisdiction is sold, licensed, transferred, demonstrated, integrated, or technically supported elsewhere.
-
-It should answer:
-
-* What exactly crossed the border?
-* In what form?
-* Which operational capacity did the recipient gain?
-* What additional support was needed to make the tool usable?
-* What evidence proves transfer, deployment, configuration, or abuse?
-
-This should be the technical foundation for the whole 🌱 Cuttings cluster.
-
-Later nodes can examine:
-
-* contractors;
-* state collaboration;
-* shared lists;
-* host-state action;
-* imitation.
-
-This node should remain focused on the exported capability itself.
-
-Governing proposition
-
-The relevant export is not the product name. It is the operational capacity the recipient acquires.
-
-Supporting lines:
-
-A surveillance capability is not exported only when hardware crosses a border. It may arrive as remote access, training, integration, maintenance, data, or analyst support.
-
-The software may be sold once. The capability may depend on years of updates, configuration, targeting assistance, and human expertise.
-
-Export controls that follow the box but not the service will miss part of the system.
-
-⸻
-
-Opening movement — the crate is rarely a crate
-
-Open by widening the reader’s idea of export.
-
-The cutting may arrive as:
-
-* a software licence;
-* a demonstration account;
-* a cloud service;
-* a technical pilot;
-* a police modernisation programme;
-* a biometric enrolment system;
-* an integration contract;
-* a training package;
-* a support desk;
-* an analyst embedded with the customer.
-
-Possible opening
-
-The capability rarely arrives in a crate marked surveillance.
-
-It arrives as an upgrade, a licence, an integration, a border-modernisation package, a demonstration, or a team of engineers teaching the customer what the system can see.
-
-Then establish:
+It arrives as an upgrade, a licence, a pilot, a border-modernisation package, a smart-city platform, a fraud tool, a police-training programme, a biometric enrolment system, or a team of engineers teaching the customer what the system can see.
 
 The object crossing the border may be technical. The exported thing that matters is the new power created at the receiving end.
 
-⸻
+> The relevant export is not the product name. It is the operational capacity the recipient acquires.
 
-Section 1 — What counts as an exported capability
+A system may enable a recipient to:
 
-Define export broadly.
+- intercept communications;
+- identify a person at scale;
+- locate a device;
+- map a relationship network;
+- correlate records that were previously separate;
+- monitor protest or public activity;
+- rank travellers or cases for intervention;
+- trace money, movement, devices, relatives, and associates;
+- convert an allegation into a durable administrative signal.
+
+Sometimes the product crosses the border once.
+
+The capability continues crossing every time the vendor:
+
+- configures it;
+- updates it;
+- troubleshoots it;
+- trains staff;
+- integrates another dataset;
+- adds another category;
+- supplies another analyst;
+- helps the customer understand what the system has found.
+
+> A surveillance capability is not exported only when hardware crosses a border. It may arrive as access, expertise, configuration, maintenance, data, or judgement.
+
+This node begins the `🌱 Cuttings` cluster with the most concrete question available:
+
+> What exactly was transferred, and what did the recipient become able to do afterward?
+
+---
+
+## 🧭 What Counts As An Exported Capability
+
+Export is wider than sale.
 
 A capability may be transferred through:
 
-* sale;
-* licence;
-* lease;
-* subscription;
-* software-as-a-service access;
-* remote operation;
-* pilot programme;
-* demonstration;
-* technical assistance;
-* training;
-* source-code transfer;
-* acquisition of the company or intellectual property;
-* informal state assistance;
-* onward resale.
+- direct purchase;
+- licence;
+- lease;
+- subscription;
+- software-as-a-service access;
+- cloud hosting;
+- remote operation;
+- a pilot or proof of concept;
+- technical assistance;
+- source-code or intellectual-property transfer;
+- acquisition of a company or specialist team;
+- state-to-state assistance;
+- staff secondment;
+- training;
+- consultancy;
+- onward resale;
+- shared access to a platform or dataset.
+
+The transferred package may include:
+
+- hardware;
+- software;
+- data;
+- models;
+- documentation;
+- analytic methods;
+- legal templates;
+- risk categories;
+- workflow design;
+- maintenance;
+- target-development assistance;
+- embedded analysts;
+- remote support.
+
+The buyer may therefore receive far more than a tool.
+
+It may receive:
+
+- a way of seeing;
+- a way of sorting;
+- a way of deciding;
+- a way of escalating;
+- a ready-made theory of who deserves attention.
+
+> The border may be crossed by the software, the data, the query, the trainer, the support ticket, or the answer.
+
+---
+
+## 📦 Product, Service And Capability
+
+These three levels should not be collapsed.
+
+### Product
+
+The named platform, system, device, application, or technical component.
+
+A procurement record may identify:
+
+- a facial-recognition platform;
+- an interception suite;
+- a case-management system;
+- an analytic dashboard;
+- a biometric enrolment product;
+- a border-risk tool.
+
+### Service
+
+The work required to make the product usable.
 
-The export may include:
+This may include:
 
-* hardware;
-* software;
-* data;
-* models;
-* documentation;
-* expertise;
-* operational doctrine;
-* maintenance;
-* target development;
-* analytic support.
+- installation;
+- integration;
+- hosting;
+- custom development;
+- translation;
+- training;
+- maintenance;
+- analytic support;
+- target assistance;
+- workflow redesign.
+
+### Capability
+
+What the recipient can actually do once the product and services operate together.
+
+Examples include:
+
+- search a population by face;
+- reconstruct a person’s contact network;
+- identify who travelled with whom;
+- rank people for intervention;
+- trigger a border alert;
+- monitor lawful political activity;
+- map financial or familial support;
+- combine weak signals into a consequential profile.
+
+> Procurement records often identify the product. Human-rights analysis must identify the capability.
+
+A product may be modest in isolation.
 
-Core line
+The coercive capacity may emerge only after it is connected to:
 
-A product may cross the border once. A capability may continue crossing every time the vendor updates, configures, troubleshoots, or helps operate it.
+- identity records;
+- telecom data;
+- border systems;
+- commercial datasets;
+- police records;
+- financial information;
+- social-media monitoring;
+- case-management workflows.
 
-⸻
+This matters because no single invoice may describe the final system truthfully.
 
-Section 2 — Product, service, and capability
+---
 
-Distinguish three levels.
+## 📡 Interception Capabilities
 
-Product
+Interception systems may provide access to:
 
-The named system, platform, device, or software package.
+- call content;
+- message content;
+- email;
+- internet traffic;
+- communications metadata;
+- location metadata;
+- call-detail records;
+- subscriber information;
+- network activity.
 
-Service
+Important distinctions include:
 
-The support required to deploy or operate it.
+- content versus metadata;
+- live interception versus retrospective search;
+- targeted access versus population-scale collection;
+- communications provider access versus device access;
+- one-off collection versus continuous monitoring.
 
-Examples:
+Metadata may appear less intrusive because it does not always reveal the words spoken.
 
-* hosting;
-* training;
-* system integration;
-* maintenance;
-* remote troubleshooting;
-* analytic support;
-* custom development.
+It may still reveal:
 
-Capability
+- who knows whom;
+- who called first;
+- who responded;
+- which relationships intensified;
+- who was present near an event;
+- which contact became active before political or legal action.
 
-What the recipient can now do.
+> The difference between a list of calls and the calls themselves matters. Both can expose a relationship network.
 
-Examples:
+Questions for scrutiny include:
 
-* intercept communications;
-* identify a face;
-* map a network;
-* locate a device;
-* rank travellers;
-* correlate datasets;
-* monitor protest activity;
-* trace relatives and associates.
+- Which sources can the system access?
+- Is collection targeted or bulk?
+- What selector is required?
+- Can operators search retrospectively?
+- Can the vendor see usage data?
+- What legal authority governs access?
+- Which safeguards are technical, and which depend only upon operator policy?
 
-Core line
+---
 
-Procurement records often identify the product. Human-rights analysis must identify the capability.
+## 📱 Device Exploitation
 
-This distinction should organise the node.
+Device exploitation collapses several boundaries at once.
 
-⸻
+A compromised device may expose:
 
-Section 3 — Interception capabilities
+- messages;
+- contacts;
+- photographs;
+- files;
+- calendars;
+- credentials;
+- location;
+- microphones;
+- cameras;
+- encrypted conversations accessed through the endpoint;
+- the identities and private material of people who were never themselves selected.
 
-Possible categories:
+> Device exploitation collapses the distinction between surveillance of the person and surveillance of everyone stored inside the person’s phone.
 
-* lawful-intercept platforms;
-* telecom interception;
-* network traffic inspection;
-* internet filtering;
-* packet analysis;
-* call-detail-record analysis;
-* communications metadata;
-* device exploitation;
-* mobile interception;
-* location tracking.
+Analysis must distinguish:
 
-The node should distinguish:
+- advertised capability;
+- demonstrated capability;
+- attempted targeting;
+- suspected compromise;
+- technically verified compromise;
+- confirmed data access;
+- confirmed operator action.
 
-* content interception;
-* metadata collection;
-* real-time monitoring;
-* retrospective analysis;
-* targeted access;
-* population-scale collection.
+A suspicious message is not proof of infection.
 
-Questions
+A confirmed infection is not proof that every available function was used.
 
-* What sources can the tool access?
-* Is collection targeted or bulk?
-* Is a telecom provider involved?
-* Can the recipient retrieve content, metadata, or both?
-* Are selectors required?
-* Can the system search retrospectively?
-* Does the vendor retain remote access?
+A technically capable product is not proof that a named government selected a named person.
 
-Core line
+The smallest accurate claim matters particularly here because technical certainty is often uneven while the political allegations surrounding the tool are enormous.
 
-The difference between a list of calls and the calls themselves matters. Both can expose a relationship network.
+---
 
-⸻
+## 🧬 Identity And Biometric Systems
 
-Section 4 — Device exploitation
+Biometric systems may process:
 
-This section should cover capability at a high analytical level, not operational instruction.
+- facial images;
+- fingerprints;
+- iris patterns;
+- voice;
+- gait;
+- behavioural signals;
+- combinations of several biometric identifiers.
 
-Possible functions:
+Their political significance depends upon what the system is doing.
 
-* remote device access;
-* extraction of messages;
-* microphone or camera activation;
-* location access;
-* contact extraction;
-* credential theft;
-* file retrieval;
-* persistence after reboot;
-* access to encrypted applications through the endpoint.
+### Verification
 
-Important distinctions:
+Does this person match the identity they claim?
 
-* advertised capability;
-* technically verified capability;
-* confirmed infection;
-* suspected targeting;
-* attempted infection;
-* successful exploitation.
+### Identification
 
-Core line
+Who is this person among many possible records?
 
-Device exploitation collapses the distinction between surveillance of the person and surveillance of everyone stored inside the person’s phone.
+### Watchlist matching
 
-The node should not include:
+Does this person match someone already marked for action?
 
-* exploit steps;
-* delivery techniques in actionable detail;
-* evasion tactics.
+### Retrospective search
 
-⸻
+Can archived footage or records be searched later?
 
-Section 5 — Identity and biometric systems
+### Real-time detection
 
-Possible capabilities:
+Can a person be identified while moving through public space?
 
-* facial recognition;
-* fingerprint matching;
-* iris recognition;
-* voice recognition;
-* gait recognition;
-* behavioural biometrics;
-* multimodal identity resolution;
-* deduplication;
-* one-to-many searching;
-* identity verification.
+> A biometric system changes political power when identity can be searched rather than merely checked.
 
-The node should distinguish:
+Important questions include:
 
-* authentication;
-* identification;
-* watchlist matching;
-* retrospective search;
-* real-time public-space detection;
-* population enrolment.
+- Who is enrolled?
+- What source supplied the reference image or template?
+- Is the search one-to-one or one-to-many?
+- What error threshold applies?
+- Are demographic differences measured?
+- Does a match trigger human review?
+- Can foreign lists be imported?
+- Can a person challenge or remove an erroneous biometric record?
 
-Core line
+A biometric match should be treated as:
 
-A biometric system changes political power when identity can be searched rather than merely checked.
+- a technical output;
+- not an automatic finding of identity;
+- still less a finding of misconduct.
 
-Important questions:
+---
 
-* What database is searched?
-* Who is enrolled?
-* Can people opt out?
-* What error rates exist?
-* Are demographic disparities measured?
-* Does one match trigger human review or automatic action?
-* Can watchlists be imported from foreign partners?
+## 🕸️ Data Fusion And Relationship Mapping
 
-⸻
+Data-fusion systems combine records that institutions previously encountered separately.
 
-Section 6 — Data-fusion and relationship-mapping systems
+Possible inputs include:
 
-This should connect directly to the Little Database of Horrors.
+- police records;
+- border data;
+- telecom metadata;
+- financial transactions;
+- social-media material;
+- commercial datasets;
+- identity records;
+- vehicle data;
+- property records;
+- location history;
+- employment;
+- family information.
 
-Possible functions:
+Possible functions include:
 
-* entity resolution;
-* link analysis;
-* relationship graphs;
-* address correlation;
-* shared-identifier matching;
-* family mapping;
-* contact-network analysis;
-* event correlation;
-* risk scoring;
-* pattern detection;
-* cross-database search.
+- entity resolution;
+- link analysis;
+- relationship graphs;
+- address correlation;
+- shared-identifier matching;
+- family mapping;
+- contact-network analysis;
+- event correlation;
+- risk scoring;
+- anomaly detection.
 
-Inputs may include:
+> The exported system may not record whom the person is forbidden to know. It may make every relationship legible enough for another institution to decide.
 
-* telecom data;
-* border records;
-* financial data;
-* social media;
-* identity data;
-* police records;
-* public information;
-* commercial datasets;
-* location data.
+This is where an apparently technical platform begins fitting directly into the Little Database of Horrors.
 
-Core line
+The system may identify:
 
-The exported system may not record whom the person is forbidden to know. It may make every relationship legible enough for another institution to decide.
+- a connector between communities;
+- a sponsor;
+- a lawyer;
+- a journalist;
+- a relative;
+- a donor;
+- a person able to provide housing, travel, legitimacy, evidence, or protection.
 
-This section should help bridge 🌱 Cuttings back to the wider database model.
+A relationship graph does not need to contain an explicit instruction against contact.
 
-⸻
+Its practical effect may come later, when another workflow decides:
 
-Section 7 — Social-media and platform monitoring
+- who deserves warning;
+- who receives scrutiny;
+- whose support requires explanation;
+- whose proximity increases a score.
 
-Possible capabilities:
+---
 
-* social listening;
-* keyword monitoring;
-* sentiment analysis;
-* influencer identification;
-* network mapping;
-* protest-event monitoring;
-* geolocation;
-* automated classification;
-* engagement analysis;
-* narrative tracking.
+## 📣 Social-Media And Platform Monitoring
 
-Important distinctions:
+Social-monitoring tools may provide:
 
-* public-content monitoring;
-* private-data access;
-* platform-provided data;
-* scraped data;
-* purchased data;
-* inferred political or identity traits.
+- keyword tracking;
+- sentiment analysis;
+- network mapping;
+- protest-event monitoring;
+- influencer identification;
+- narrative tracking;
+- automated classification;
+- geolocation;
+- engagement analysis;
+- cross-platform identity resolution.
 
-Core line
+The source material may be public.
 
-Public posts do not become politically neutral simply because the collection method is technically open source.
+That does not make every use politically neutral.
 
-The node should note that:
+> Public posts do not become politically neutral merely because the collection method is technically open source.
 
-* public information can still be aggregated coercively;
-* scale and correlation change the nature of access;
-* inaccurate automated interpretation may propagate.
+Aggregation changes the nature of access.
 
-⸻
+A person may publicly reveal one fragment at a time.
 
-Section 8 — Border, migration, and traveller-risk systems
+A monitoring system may assemble those fragments into:
 
-Possible capabilities:
+- ideology;
+- location;
+- relationship;
+- organisational role;
+- likely attendance;
+- network centrality;
+- estimated influence.
 
-* passenger targeting;
-* advance passenger information;
-* passenger-name-record analysis;
-* visa-risk scoring;
-* document verification;
-* watchlist matching;
-* biometric gates;
-* return-case management;
-* traveller network analysis;
-* movement-history correlation.
+Important distinctions include:
 
-Core line
+- public content versus private access;
+- platform-provided data versus scraping;
+- observed characteristics versus inferred traits;
+- human interpretation versus automated classification;
+- protest awareness versus durable political profiling.
 
-A border platform may be sold as movement management while also becoming a system for deciding which relationships, journeys, and political contacts require suspicion.
+The question is not only whether the material was visible.
 
-Important questions:
+It is what new power aggregation, classification, and persistence create.
 
-* What data are imported?
-* Which foreign lists are used?
-* Is association a risk factor?
-* Can political or religious categories enter?
-* What review exists before refusal or screening?
-* How are corrections propagated?
+---
 
-⸻
+## 🛂 Border, Migration And Traveller-Risk Systems
 
-Section 9 — Financial surveillance and transaction analysis
+Border systems may include:
 
-Possible capabilities:
+- advance passenger information;
+- reservation data;
+- visa-risk scoring;
+- biometric gates;
+- watchlist matching;
+- document verification;
+- movement-history analysis;
+- traveller-network analysis;
+- return-case management;
+- automated referral.
 
-* transaction monitoring;
-* sanctions screening;
-* beneficial-ownership analysis;
-* donor mapping;
-* payment-network analysis;
-* risk scoring;
-* crypto tracing;
-* network analysis.
+> A border platform may be sold as movement management while also becoming a system for deciding which relationships, journeys, and political contacts require suspicion.
 
-Legitimate uses include:
+Important questions include:
 
-* fraud detection;
-* sanctions compliance;
-* anti-money-laundering work;
-* serious-crime investigation.
+- Which foreign lists are imported?
+- Is association a risk factor?
+- Can political or religious information enter?
+- What happens after a match?
+- Is the person told why additional action occurred?
+- How are errors corrected?
+- Does correction propagate to carriers and partner systems?
 
-Potential abuse includes:
+A traveller-risk system may affect more than one crossing.
 
-* donor intimidation;
-* campaign disruption;
-* diaspora mapping;
-* guilt by association;
-* financial isolation;
-* targeting lawful organisations.
+It may alter:
 
-Core line
+- future visas;
+- family reunification;
+- professional travel;
+- attendance at political events;
+- ability to relocate;
+- ability to sustain an intimate or protective relationship across borders.
 
-A financial-monitoring capability can identify criminal flows. It can also make every act of material support visible as a relationship requiring explanation.
+Movement control is therefore also relationship control.
 
-This section should remain proportionate and not treat financial compliance as inherently repressive.
+---
 
-⸻
+## 💸 Financial Surveillance And Transaction Analysis
 
-Section 10 — Protest and public-space monitoring
+Financial-monitoring systems may support:
 
-Possible functions:
+- fraud detection;
+- anti-money-laundering work;
+- sanctions compliance;
+- asset tracing;
+- beneficial-ownership analysis;
+- transaction-network analysis;
+- donor mapping;
+- payment screening;
+- crypto tracing.
 
-* crowd analytics;
-* facial recognition;
-* licence-plate recognition;
-* drone surveillance;
-* geofencing;
-* mobile-device detection;
-* video analytics;
-* event prediction;
-* protest-network mapping.
+These functions can be legitimate and necessary.
 
-Core line
+The same capacity may also make visible:
 
-Public-order technology becomes political surveillance when attending a lawful demonstration creates a durable identity and relationship record.
+- political donors;
+- diaspora support;
+- family assistance;
+- legal funding;
+- campaign infrastructure;
+- mutual aid;
+- the people willing to absorb material risk for someone else.
 
-Questions:
+> A financial-monitoring capability can identify criminal flows. It can also make every act of material support visible as a relationship requiring explanation.
 
-* Is attendance stored?
-* Are participants identified?
-* Are associations inferred?
-* Is data reused for immigration, employment, or security decisions?
-* How long is it retained?
-* Can the person challenge it?
+The analytical question is therefore not whether financial monitoring exists.
 
-⸻
+It is:
 
-Section 11 — The capability package
+- what conduct is being investigated;
+- what data are used;
+- what associations are inferred;
+- what action follows;
+- whether lawful support is being converted into suspicion.
 
-This should be a major section.
+---
 
-A usable capability may require more than software.
+## 🚨 Protest And Public-Space Monitoring
 
-The package may include:
+Public-space systems may include:
 
-* hardware;
-* installation;
-* training;
-* data integration;
-* custom taxonomies;
-* workflow design;
-* target development;
-* analytic support;
-* updates;
-* maintenance;
-* replacement parts;
-* cloud infrastructure;
-* vendor access.
+- video analytics;
+- facial recognition;
+- licence-plate recognition;
+- crowd analysis;
+- drone surveillance;
+- geofencing;
+- mobile-device detection;
+- event prediction;
+- organiser mapping.
 
-Core line
+> Public-order technology becomes political surveillance when attending a lawful demonstration creates a durable identity and relationship record.
 
-The export licence may cover the product. The repression capability may live in the package surrounding it.
+Important questions include:
 
-The package may also include doctrine:
+- Is attendance stored?
+- Are people identified or merely counted?
+- Are relationships inferred from co-presence?
+- Is data reused for immigration, employment, finance, or security decisions?
+- How long are records retained?
+- Can a person challenge their inclusion?
+- Does the system distinguish peaceful participation from conduct presenting actual harm?
 
-* what counts as suspicious;
-* which relationships matter;
-* how alerts should be escalated;
-* how uncertainty is interpreted;
-* what action follows a match.
+A crowd-management tool may be deployed for immediate safety.
 
-⸻
+Its political meaning changes if the data later become:
 
-Section 12 — Training as capability transfer
+- an intelligence record;
+- a professional warning;
+- a border concern;
+- an association marker;
+- a reason to inspect everyone who travelled with the person.
+
+---
+
+## 🧰 The Capability Package
+
+A usable surveillance capability may require:
+
+- hardware;
+- installation;
+- data integration;
+- custom categories;
+- workflow design;
+- training;
+- analyst support;
+- updates;
+- maintenance;
+- replacement parts;
+- cloud infrastructure;
+- vendor access;
+- documentation;
+- escalation rules.
+
+> The export licence may cover the product. The repression capability may live in the package surrounding it.
+
+The package may also teach the recipient:
+
+- what counts as suspicious;
+- which relationships matter;
+- how uncertainty should be interpreted;
+- what alert threshold is appropriate;
+- what action should follow a match;
+- how to describe the outcome in official language.
+
+This is why a narrow focus on hardware or code can miss the most politically consequential part of the transfer.
+
+The product may perform the search.
+
+The exported doctrine may decide what the search is for.
+
+---
+
+## 🎓 Training As Capability Transfer
 
 Training may cover:
 
-* system operation;
-* analytic methodology;
-* target selection;
-* link interpretation;
-* report writing;
-* workflow design;
-* escalation;
-* evidence handling.
+- basic operation;
+- analytic methodology;
+- target selection;
+- link interpretation;
+- report writing;
+- escalation;
+- evidence handling;
+- workflow design;
+- customisation;
+- maintenance.
 
-Training may be delivered by:
+Training may be provided by:
 
-* vendor staff;
-* former intelligence personnel;
-* police trainers;
-* consultants;
-* partner governments;
-* regional academies.
+- vendor staff;
+- former intelligence personnel;
+- police trainers;
+- consultants;
+- partner governments;
+- regional academies;
+- subcontractors.
 
-Core line
+> Training transfers not only how to use the system, but what the operator is taught to see.
 
-Training transfers not only how to use the system, but what the operator is taught to see.
+A relationship graph may be technically neutral about which relationships matter.
 
-This is a key bridge toward model replication.
+Training may teach operators to treat:
 
-⸻
+- family ties;
+- diaspora contact;
+- journalists;
+- lawyers;
+- religious networks;
+- donors;
+- protest organisers;
+- cross-community connectors;
 
-Section 13 — Custom configuration
+as meaningful indicators.
 
-The same tool may be configured differently for different customers.
+The capability therefore includes the interpretive frame applied to the output.
+
+---
+
+## 🎛️ Custom Configuration
+
+The same base product may produce very different systems in different hands.
 
 Configuration may determine:
 
-* target categories;
-* risk thresholds;
-* data sources;
-* alert rules;
-* relationship weights;
-* retention;
-* access;
-* automated actions;
-* auditability.
+- target categories;
+- risk thresholds;
+- data sources;
+- retention;
+- user access;
+- relationship weights;
+- alert rules;
+- automation;
+- escalation;
+- auditability;
+- review requirements.
 
-Core line
+> Dual use often lives in configuration.
 
-Dual use often lives in configuration.
+A platform developed for:
 
-A fraud-detection platform may be adapted to:
+- fraud;
+- cyber defence;
+- public safety;
+- border administration;
 
-* political networks;
-* protest organisers;
-* diaspora associations;
-* journalists;
-* opposition donors.
+may be configured around:
 
-The base product does not reveal the final operational purpose.
+- political affiliation;
+- protest attendance;
+- diaspora links;
+- donor relationships;
+- journalism;
+- opposition activity;
+- protected identity.
 
-⸻
+The base product may not reveal the final political purpose.
 
-Section 14 — Remote access and continuing vendor involvement
+The local taxonomy often does.
 
-A vendor may retain access for:
+---
 
-* maintenance;
-* updates;
-* troubleshooting;
-* hosting;
-* performance monitoring;
-* licence enforcement.
+## 🛠️ Remote Access And Continuing Vendor Involvement
 
-This creates questions about:
+Vendors may retain technical access for:
 
-* knowledge;
-* control;
-* access to target data;
-* ability to suspend service;
-* responsibility after abuse becomes known.
+- maintenance;
+- updates;
+- troubleshooting;
+- hosting;
+- licence enforcement;
+- performance monitoring;
+- customer support.
 
-Core line
+This creates important questions about:
 
-The vendor may claim not to control the customer while remaining technically necessary to keep the capability alive.
+- knowledge;
+- control;
+- access to customer data;
+- ability to suspend service;
+- response after abuse becomes known.
 
-Important distinctions:
+> The vendor may claim not to control the customer while remaining technically necessary to keep the capability alive.
 
-* theoretical remote access;
-* contractual access;
-* logged access;
-* operational involvement;
-* evidence of knowledge.
+Care is required here.
 
-⸻
+Theoretical access is not the same as:
 
-Section 15 — Pilots, demonstrations, and proof-of-concept systems
+- contractual access;
+- logged access;
+- operational access;
+- knowledge of targets;
+- participation in target selection.
+
+The relevant questions are:
+
+- What could the vendor see?
+- What did it actually see?
+- What did it know?
+- What choices remained available after notice?
+
+---
+
+## 🧪 Pilots, Demonstrations And Proofs Of Concept
 
 A capability may enter through a limited trial.
 
 Pilots may:
 
-* use real data;
-* enrol real people;
-* create lasting records;
-* bypass mature oversight;
-* become permanent by inertia;
-* establish technical dependence.
+- use real data;
+- enrol real people;
+- test live workflows;
+- create lasting records;
+- bypass mature oversight;
+- become permanent through inertia;
+- establish vendor dependence.
 
-Core line
+> A pilot can produce operational harm before the institution has formally decided that the system exists.
 
-A pilot can produce operational harm before the institution has formally decided that the system exists.
+Questions include:
 
-Questions:
+- Was the pilot public?
+- Were real people affected?
+- Was consent required?
+- What data were retained?
+- Were safeguards weaker because it was “only a test”?
+- Did results from the pilot become the justification for full procurement?
+- Did the trial quietly continue after its stated end?
 
-* Was the pilot public?
-* Were real people affected?
-* What data were retained?
-* Did the trial become procurement evidence?
-* Were safeguards weaker because it was “only a test”?
+A demonstration proves neither routine deployment nor abuse.
 
-⸻
+It may still establish:
 
-Section 16 — Onward transfer
+- access;
+- institutional interest;
+- technical feasibility;
+- a transmission route.
 
-The original recipient may:
+---
 
-* resell;
-* sublicense;
-* share access;
-* train another agency;
-* provide data;
-* deploy the tool abroad;
-* transfer equipment after regime change.
+## 🔁 Onward Transfer
 
-Core line
+The original recipient may later:
 
-An export-control decision made for one buyer may become the beginning of a capability chain nobody later audits.
+- resell;
+- sublicense;
+- share access;
+- train another agency;
+- provide data;
+- deploy the tool in another jurisdiction;
+- transfer equipment after political transition;
+- permit use through a regional platform.
 
-The node should distinguish:
+> An export-control decision made for one buyer may become the beginning of a capability chain nobody later audits.
 
-* authorised onward transfer;
-* unauthorised resale;
-* state-to-state sharing;
-* contractor subcontracting;
-* regional platform access.
+Onward transfer may be:
 
-⸻
+- authorised;
+- unauthorised;
+- commercial;
+- state-to-state;
+- contractor-mediated;
+- embedded in multilateral access.
 
-Section 17 — Acquisition and intellectual-property transfer
+The relevant audit should ask:
 
-A capability may travel when:
+- Who was the original end user?
+- Who can now access the system?
+- Did the original exporter know?
+- Did licences or technical controls restrict transfer?
+- Which new jurisdictions received data, access, training, or outputs?
 
-* a company is acquired;
-* staff move;
-* source code is purchased;
-* patents are licensed;
-* a local version is developed;
-* a joint venture is formed.
+---
 
-Core line
+## 🧠 Acquisition, Staff And Intellectual Property
 
-The capability can cross a border without the original product crossing it at all.
+A capability may cross a border without the original product crossing it.
 
-This matters where public scrutiny focuses only on named vendors.
+Transmission may occur when:
+
+- a company is acquired;
+- source code is sold;
+- patents are licensed;
+- a specialist team is hired;
+- former staff establish a new firm;
+- a joint venture is formed;
+- a local version is developed from transferred knowledge.
+
+> The capability can cross a border through people, code, architecture, and organisational memory.
+
+Public scrutiny often follows a famous product name.
 
 The underlying method may survive through:
 
-* staff;
-* code;
-* architecture;
-* documentation;
-* local redevelopment.
+- staff;
+- documentation;
+- intellectual property;
+- local redevelopment;
+- replacement brands;
+- modular components.
 
-⸻
+This is the beginning of a toolkit becoming independent of the company that first made it visible.
 
-Section 18 — Data export versus tool export
+---
+
+## 🔀 Data Export Versus Tool Export
 
 Sometimes the tool stays local while data travel.
 
-Sometimes the data stay local while a foreign actor accesses the tool remotely.
+Sometimes the data stay local while a foreign actor queries them remotely.
 
-Distinguish:
+Possible arrangements include:
 
-* exported platform;
-* exported dataset;
-* foreign-hosted service;
-* remote querying;
-* federated search;
-* model trained on shared data;
-* joint analytic environment.
+- exported platform;
+- exported dataset;
+- foreign-hosted service;
+- remote querying;
+- federated search;
+- joint analytic environment;
+- shared model;
+- exported result or alert.
 
-Core line
+> The border may be crossed by the software, the data, the query, or the answer.
 
-The border may be crossed by the software, the data, the query, or the answer.
+This distinction matters for:
 
-This should prepare the reader for shared watchlists and state collaboration.
+- jurisdiction;
+- accountability;
+- notice;
+- access control;
+- correction;
+- onward sharing.
 
-⸻
+A local institution may claim that data never left the country.
 
-Section 19 — Technical capacity versus legal authority
+A foreign analyst may still have obtained:
+
+- access;
+- a match;
+- a relationship graph;
+- a risk score;
+- an actionable answer.
+
+---
+
+## ⚖️ Technical Capacity Versus Legal Authority
 
 A recipient may possess the technical ability to do something without lawful authority.
 
-A state may have legal authority without technical capacity.
+A state may also possess lawful authority without previously having the technical capacity to exercise it at scale.
 
 Export changes the second variable.
 
-Questions
+Questions include:
 
-* What does the system technically permit?
-* What does local law permit?
-* Is the restriction technical or merely policy-based?
-* Can administrators override safeguards?
-* Are audit logs immutable?
-* Can local users add categories or data sources?
+- What does the system technically permit?
+- What does local law permit?
+- Can administrators override safeguards?
+- Are limits technical or merely contractual?
+- Are audit logs immutable?
+- Can local users add categories or datasets?
+- Can the system operate outside the stated legal purpose?
 
-Core line
+> A contractual promise not to misuse a system is not equivalent to a technical inability to misuse it.
 
-A contractual promise not to misuse a system is not equivalent to a technical inability to misuse it.
+Law matters.
 
-⸻
+Design matters.
 
-Section 20 — Safeguards supplied with the system
+Configuration matters.
+
+Oversight matters.
+
+None should be substituted for another.
+
+---
+
+## 🛡️ Safeguards Supplied With The System
 
 Possible safeguards include:
 
-* access controls;
-* audit logs;
-* warrant fields;
-* purpose limitation;
-* role separation;
-* retention limits;
-* human review;
-* misuse detection;
-* suspension rights;
-* transparency reports.
+- access controls;
+- role separation;
+- immutable audit logs;
+- purpose limitation;
+- warrant fields;
+- human review;
+- retention limits;
+- misuse detection;
+- target restrictions;
+- suspension rights;
+- transparency reporting.
 
-Questions:
+> A safeguard that exists only in sales documentation is not an operational safeguard.
 
-* Are safeguards enabled by default?
-* Can the customer disable them?
-* Does the vendor monitor compliance?
-* Are audit logs accessible to independent oversight?
-* What happens after abuse is detected?
+Questions include:
 
-Core line
+- Is it enabled by default?
+- Can the customer disable it?
+- Who receives misuse alerts?
+- Does the vendor monitor compliance?
+- Can independent oversight inspect the logs?
+- What happens after abuse is detected?
+- Can the affected person obtain remedy?
 
-A safeguard that exists only in the sales documentation is not an operational safeguard.
+A safeguard may be real and still inadequate.
 
-⸻
+A contractual restriction may be meaningful and still unenforced.
 
-Section 21 — Export controls and human-rights review
+A technical control may be strong and still bypassed through another workflow.
 
-Keep this conceptual rather than jurisdiction-specific unless later researched.
+---
 
-Possible control points:
+## 🧾 Export Controls And Human-Rights Review
 
-* export licensing;
-* sanctions;
-* end-use review;
-* end-user review;
-* human-rights due diligence;
-* restricted technology lists;
-* post-export monitoring;
-* revocation;
-* support termination.
+Possible control points include:
 
-Core line
+- export licensing;
+- end-user review;
+- end-use review;
+- sanctions;
+- restricted technology lists;
+- human-rights due diligence;
+- post-export monitoring;
+- support termination;
+- licence revocation;
+- onward-transfer restrictions.
 
-An export regime that asks only what the product is may miss what the recipient will be able to do with it.
+> An export regime that asks only what the product is may miss what the recipient will be able to do with it.
 
-Important distinctions:
+Important distinctions include:
 
-* legal export;
-* ethical export;
-* licensed end user;
-* actual operator;
-* stated end use;
-* actual deployment.
+- legal export;
+- ethical export;
+- licensed end user;
+- actual operator;
+- stated end use;
+- actual deployment;
+- original buyer;
+- onward recipient.
 
-⸻
+A licence may establish that a transfer was authorised.
 
-Section 22 — End-use monitoring
+It does not establish that:
 
-End-use monitoring may include:
+- safeguards were sufficient;
+- the stated end use was accurate;
+- later use remained lawful;
+- no onward transfer occurred.
 
-* reporting;
-* audits;
-* technical telemetry;
-* site visits;
-* target restrictions;
-* complaint mechanisms;
-* suspension triggers;
-* independent assessment.
+---
 
-Potential weaknesses:
+## 👁️ End-Use Monitoring
 
-* customer self-reporting;
-* no victim access;
-* secrecy;
-* opaque subcontracting;
-* no inspection rights;
-* commercial reluctance to terminate.
+End-use monitoring may involve:
 
-Core line
+- customer reporting;
+- audits;
+- site visits;
+- technical telemetry;
+- target restrictions;
+- complaint mechanisms;
+- suspension triggers;
+- periodic review.
 
-End-use monitoring fails where only the buyer is asked whether the buyer is abusing the tool.
+Potential weaknesses include:
 
-⸻
+- buyer self-reporting;
+- no access for victims;
+- secrecy;
+- opaque subcontracting;
+- weak inspection rights;
+- commercial reluctance to terminate;
+- logs controlled by the customer.
 
-Section 23 — What vendors may know
+> End-use monitoring fails where only the buyer is asked whether the buyer is abusing the tool.
 
-Possible evidence of knowledge includes:
+A meaningful system needs:
 
-* customer requests;
-* custom categories;
-* support tickets;
-* target-related troubleshooting;
-* public abuse reports;
-* internal warnings;
-* continued maintenance after exposure;
-* attempts to conceal the client relationship.
+- independent evidence;
+- review after credible allegations;
+- technical records;
+- clear escalation;
+- enforceable consequences;
+- remedy for affected people.
 
-The node must not assume knowledge merely from sale.
+---
 
-Core line
+## 🏭 What Vendors May Know
 
-The relevant question is not whether the vendor could imagine abuse. It is what the vendor knew, when it knew it, and what technical or commercial choices remained available afterward.
+Possible evidence of knowledge may include:
 
-⸻
+- custom target categories;
+- support tickets;
+- target-related troubleshooting;
+- public abuse findings;
+- internal warnings;
+- technical logs;
+- customer requests;
+- continued maintenance after verified abuse;
+- efforts to conceal the relationship.
 
-Section 24 — Capability substitution
+> The relevant question is not whether the vendor could imagine abuse. It is what the vendor knew, when it knew it, and what choices remained available afterward.
+
+A sale alone does not prove knowledge of every use.
+
+Continued support alone does not prove deliberate complicity unless the evidentiary route establishes:
+
+- credible notice;
+- technical relevance;
+- available alternatives;
+- continued contribution.
+
+The smallest claim should remain attached to what can actually be shown.
+
+---
+
+## ♻️ Capability Substitution
 
 One exposed system may be replaced by:
 
-* a new vendor;
-* local development;
-* manual workflows;
-* open-source tools;
-* a cloud platform;
-* a less visible contractor.
+- another vendor;
+- local development;
+- manual workflow;
+- open-source tools;
+- a cloud platform;
+- a less visible contractor;
+- another legal route.
 
-Core line
+> Removing one product does not remove the institutional appetite for the capability.
 
-Removing one product does not remove the institutional appetite for the capability.
+This node introduces the issue.
 
-This concept should be introduced briefly here and expanded in the final node.
+The final node in `🌱 Cuttings` follows it further: what happens when the method becomes durable enough to survive the vendor, programme, or regime that first demonstrated it.
 
-⸻
+---
 
-Section 25 — What deployment looks like from the target’s side
+## 🧍 What Deployment Looks Like From The Target’s Side
 
-Translate the technical system into lived effects.
+The target rarely encounters the product name.
 
-The person may experience:
+They encounter:
 
-* a device behaving differently;
-* repeated border scrutiny;
-* contacts being questioned;
-* a face match;
-* a financial transfer blocked;
-* an invitation disappearing;
-* a relative receiving pressure;
-* an institution possessing information it should not ordinarily know.
+- a device behaving differently;
+- repeated border scrutiny;
+- a contact being questioned;
+- an unexplained face match;
+- a financial transfer blocked;
+- an invitation disappearing;
+- a relative receiving pressure;
+- an institution possessing information it should not ordinarily know;
+- several systems becoming cautious at once.
 
-Core line
+> The target rarely encounters the product. They encounter a changed condition in ordinary life.
 
-The target rarely encounters the product name. They encounter a changed condition in ordinary life.
+This is why capability analysis must eventually return to:
 
-This keeps the node connected to 🦷 The Plant Has Teeth.
+- rooms;
+- journeys;
+- calendars;
+- money;
+- bodies;
+- relationships;
+- lost opportunities.
 
-⸻
+The technical system matters because of the social world it becomes able to reorganise.
 
-Section 26 — The evidence problem
+---
 
-Possible evidence of export includes:
+## 🔬 The Evidence Problem
 
-* contracts;
-* invoices;
-* licences;
-* customs or export records;
-* procurement notices;
-* technical documentation;
-* company filings;
-* training records;
-* support agreements;
-* internal correspondence;
-* forensic analysis;
-* court evidence;
-* oversight findings;
-* confirmed infrastructure.
+Possible evidence of transfer includes:
 
-But each proves something different.
+- contracts;
+- invoices;
+- licences;
+- export records;
+- procurement notices;
+- technical documentation;
+- company filings;
+- training records;
+- support agreements;
+- internal correspondence;
+- forensic analysis;
+- court evidence;
+- oversight findings;
+- confirmed infrastructure.
 
-Evidence distinctions
+Each proves something different.
 
-* marketing proves advertised capability;
-* procurement proves purchase or planned purchase;
-* installation records prove deployment;
-* logs may prove operation;
-* forensic evidence may prove targeting;
-* policy documents may prove intended use;
-* victim effects alone may not identify the tool.
+### Advertised
 
-Core line
+The vendor claims the capability exists.
 
-A brochure shows what a vendor claims. A contract shows what was bought. A forensic trace may show what was used. None should be substituted for the others.
+### Demonstrated
 
-⸻
+The capability was shown to a prospective customer.
 
-Section 27 — Rival explanations
+### Purchased
 
-Possible alternatives include:
+A transaction or licence was agreed.
 
-* locally developed capability;
-* common commercial software;
-* ordinary telecom infrastructure;
-* lawful criminal investigation;
-* unrelated technical failure;
-* mistaken attribution;
-* another vendor;
-* shared open-source tooling;
-* ordinary border or financial controls.
+### Installed
 
-Core line
+The system entered the recipient’s environment.
 
-Similar effects do not establish the same tool, and the same tool does not establish the same purpose.
+### Integrated
 
-This is one of the node’s main guardrails.
+The system was connected to relevant data and workflows.
 
-⸻
+### Used
 
-Section 28 — Comparative questions
+Operators employed it operationally.
 
-A careful comparison may ask:
+### Used Against A Target
 
-* What exact capability was advertised?
-* What was purchased?
-* What was installed?
-* What data sources were connected?
-* Who received training?
-* What customisation occurred?
-* Did the vendor retain access?
-* What safeguards were active?
-* Was there onward transfer?
-* What evidence establishes actual use?
-* What legitimate purpose remains plausible?
-* What would disconfirm the claimed transfer?
+Evidence ties the system to a particular person, group, or event.
 
-⸻
+### Used Abusively
 
-Section 29 — Safe documentation
-
-Possible practices include:
-
-* preserve procurement documents;
-* record product, vendor, customer, and dates;
-* distinguish advertised, purchased, installed, and used;
-* preserve forensic reports;
-* map contractors and subcontractors;
-* note training and maintenance;
-* record export or licensing status where known;
-* protect technical and human sources;
-* avoid naming targets without consent;
-* avoid operational speculation.
-
-Core line
-
-Build the capability chain one verified transfer at a time.
-
-⸻
-
-Section 30 — What not to do
-
-Do not:
-
-* claim deployment from marketing alone;
-* treat all dual-use technology as inherently abusive;
-* infer one named vendor from generic effects;
-* publish exploit details that enable misuse;
-* expose victims, researchers, or technical sources;
-* assume legal export means ethical use;
-* assume abusive use means the vendor designed the tool for that exact abuse;
-* collapse product, service, and capability into one claim.
-
-⸻
-
-Section 31 — When capability export becomes repression export
-
-Warning signs include:
-
-* the exported capacity is used against lawful dissent;
-* target categories include journalists, activists, political opponents, or diasporas;
-* relationship mapping replaces conduct evidence;
-* safeguards are disabled or absent;
-* the vendor continues support after documented abuse;
-* political classifications are customised;
-* data or access are shared onward;
-* no meaningful review or remedy exists.
-
-Anchor line
-
-Exported surveillance becomes exported repression when the transferred capacity is used to identify, map, predict, restrict, or punish lawful political and social life.
-
-⸻
-
-Section 32 — What responsible export requires
-
-Possible safeguards include:
-
-* rigorous human-rights due diligence;
-* end-user review;
-* end-use limitations;
-* audit logging;
-* technical restrictions;
-* independent complaint routes;
-* post-export monitoring;
-* suspension and termination rights;
-* onward-transfer controls;
-* transparent subcontracting;
-* victim notification where safe and lawful;
-* remediation;
-* deletion or correction of improperly obtained data.
-
-Core line
-
-A seller that exports the capability should also export enforceable limits on how the capability may be used.
-
-The node should acknowledge that contractual safeguards alone are insufficient without:
-
-* monitoring;
-* enforcement;
-* technical design;
-* remedy.
-
-⸻
-
-Section 33 — Small-step audit
-
-A reader investigating one capability can ask:
-
-* What is the product or service?
-* What operational capacity does it create?
-* Who developed it?
-* Who sold or transferred it?
-* Who received it?
-* Was it a pilot, purchase, licence, or service?
-* What training or support accompanied it?
-* What datasets were integrated?
-* What custom configuration was added?
-* Did the vendor retain access?
-* What safeguards existed?
-* What evidence proves deployment?
-* What evidence proves use?
-* What evidence proves abuse?
-* What ordinary explanation remains?
-* What is the smallest supportable claim?
-
-Possible smallest claims:
-
-* one agency purchased a named system;
-* one vendor delivered training;
-* one platform was integrated with a biometric database;
-* one pilot used real data;
-* one customer requested a political category;
-* one confirmed target was affected by a verified tool;
-* one vendor continued support after documented abuse.
-
-⸻
-
-Evidentiary guardrail
-
-Use a clear ladder:
+The use violated rights, law, safeguards, or legitimate purpose.
+
+### Supported With Knowledge
+
+The exporter or vendor knew of the abuse and continued materially enabling it.
+
+> A brochure shows what a vendor claims. A contract shows what was bought. A forensic trace may show what was used. None should be substituted for the others.
+
+---
+
+## 🌫️ Rival Explanations
+
+Similar effects may arise through:
+
+- locally developed systems;
+- common commercial software;
+- ordinary telecom infrastructure;
+- lawful criminal investigation;
+- unrelated technical failure;
+- another vendor;
+- shared open-source tooling;
+- ordinary border controls;
+- ordinary financial compliance;
+- mistaken attribution.
+
+> Similar effects do not establish the same tool, and the same tool does not establish the same purpose.
+
+A careful analysis should ask:
+
+- Could the capability have been developed locally?
+- Is the functionality common in the market?
+- Is there evidence of this specific transfer?
+- Does a legitimate use explain the observed effect?
+- Is the alleged operator identified?
+- What would disconfirm the claimed export route?
+
+---
+
+## 🔭 The Smallest Claim First
+
+Possible smallest claims include:
+
+- one agency purchased a named system;
+- one vendor delivered training;
+- one platform was integrated with a biometric database;
+- one pilot used real data;
+- one customer requested a political category;
+- one confirmed target was affected by a technically verified tool;
+- one vendor continued support after documented abuse.
+
+> The first useful claim identifies one capability, one transfer route, one recipient, and one evidenced effect.
+
+Do not begin with:
+
+- a universal surveillance system;
+- a total international conspiracy;
+- certainty about every operator;
+- certainty about every target;
+- certainty about vendor knowledge.
+
+Begin with what crossed the border.
+
+Then ask what it made possible.
+
+---
+
+## 🪜 Evidentiary Ladder
+
+A disciplined ladder is:
 
 1. capability advertised;
 2. product demonstrated;
 3. contract or licence agreed;
 4. installation or integration confirmed;
 5. operational deployment confirmed;
-6. target use established;
+6. use against a target established;
 7. abusive use established;
 8. vendor knowledge or assistance established;
 9. deliberate export of repression capability established.
 
 Do not jump from:
 
-* brochure to deployment;
-* contract to abuse;
-* capability to named targeting;
-* targeting to vendor knowledge;
-* vendor knowledge to central state coordination.
+- brochure to deployment;
+- contract to abuse;
+- capability to named targeting;
+- targeting to vendor knowledge;
+- vendor knowledge to central coordination.
 
-The claim should remain tied to the evidence actually available.
+> The claim should remain no larger than the evidence carrying it.
 
-⸻
+---
 
-Compact definition
+## 🧰 Small-Step Audit
 
-Exported Surveillance Capabilities describes the transfer across jurisdictions of technologies, data access, services, expertise, training, and operational methods that enable a recipient to intercept communications, identify people, map relationships, analyse movement, monitor public or digital activity, rank risk, or integrate records for investigative or coercive use.
+A reader examining one exported capability can ask:
+
+- What is the product or service?
+- What operational capacity does it create?
+- Who developed it?
+- Who sold, licensed, transferred, or supported it?
+- Who received it?
+- Was it a pilot, purchase, licence, service, or shared-access arrangement?
+- What training accompanied it?
+- What datasets were integrated?
+- What custom configuration was added?
+- Did the vendor retain access?
+- What safeguards existed?
+- What evidence proves installation?
+- What evidence proves operational use?
+- What evidence proves target use?
+- What evidence proves abuse?
+- What ordinary explanation remains?
+- What is the smallest supportable claim?
+
+> Build the capability chain one verified transfer at a time.
+
+---
+
+## 🛑 What Not To Do
+
+Do not:
+
+- claim deployment from marketing alone;
+- treat all dual-use technology as inherently abusive;
+- infer one named vendor from generic effects;
+- publish exploit detail that enables misuse;
+- expose victims, researchers, whistleblowers, or technical sources;
+- assume legal export means ethical use;
+- assume abusive use means the vendor designed the product for that exact abuse;
+- collapse product, service, and capability into one claim;
+- treat every suspicious device event as confirmed exploitation;
+- treat every biometric match as accurate identification;
+- treat every foreign-built system as politically equivalent to the state that first developed it.
+
+> Capability analysis should increase precision, not manufacture certainty.
+
+---
+
+## 🚨 When Surveillance Export Becomes Repression Export
+
+Warning signs include:
+
+- the capability is used against lawful dissent;
+- target categories include journalists, activists, political opponents, or diasporas;
+- association replaces conduct evidence;
+- relationship mapping becomes an intervention trigger;
+- safeguards are absent, disabled, or performative;
+- political classifications are customised;
+- the vendor continues support after verified abuse;
+- data or access are shared onward;
+- the system produces travel, financial, professional, or relational consequences without meaningful review;
+- no effective correction or remedy exists.
+
+> Exported surveillance becomes exported repression when the transferred capacity is used to identify, map, predict, restrict, or punish lawful political and social life.
+
+---
+
+## 🛡️ What Responsible Export Requires
+
+Possible safeguards include:
+
+- rigorous human-rights due diligence;
+- end-user review;
+- end-use limits;
+- transparent subcontracting;
+- technical restrictions;
+- immutable audit logs;
+- independent complaint routes;
+- post-export monitoring;
+- onward-transfer controls;
+- support suspension;
+- contract termination;
+- victim notification where safe and lawful;
+- correction;
+- deletion;
+- remediation.
+
+> A seller that exports the capability should also export enforceable limits on how the capability may be used.
+
+Contractual safeguards alone are not enough.
+
+They require:
+
+- technical implementation;
+- monitoring;
+- enforcement;
+- independent review;
+- meaningful remedy.
+
+A capability designed to travel should carry accountability with it.
+
+---
+
+## 📖 Compact Definition
+
+**Exported Surveillance Capabilities** describes the transfer across jurisdictions of technologies, data access, services, expertise, training, and operational methods that enable a recipient to intercept communications, identify people, map relationships, analyse movement, monitor public or digital activity, rank risk, or integrate records for investigative or coercive use.
 
 The export may occur through:
 
-* sale;
-* licence;
-* subscription;
-* remote service;
-* training;
-* system integration;
-* maintenance;
-* data access;
-* onward transfer;
-* acquisition;
-* technical assistance.
+- sale;
+- licence;
+- subscription;
+- remote service;
+- training;
+- system integration;
+- maintenance;
+- data access;
+- onward transfer;
+- acquisition;
+- technical assistance.
 
 The central danger is that a capability may cross borders in fragments while producing a complete new power at the receiving end.
 
-⸻
+---
 
-Next route
-
-End by moving from the capability to the commercial ecosystem that makes it portable.
-
-Continue to:
-
-* 🏭_private_contractors_and_dual_use_tools.md
-
-Possible transition
+## 🚪 Next Route
 
 The tool has crossed the border.
 
-The next node follows the companies, resellers, integrators, data providers, and consultants that make it look like ordinary infrastructure.
+The next node follows the commercial ecosystem that makes it deployable, scalable, maintainable, and politically distant:
 
-And:
+- [🏭 Private Contractors And Dual-Use Tools](./🏭_private_contractors_and_dual_use_tools.md)
 
-The state may be the customer. The market is what makes the cutting travel.
+> The state may be the customer. The market is what makes the cutting travel.
 
+---
+
+## 🌌 Constellations
+
+🧰 📡 🕸️ 🧬 🛂 — *technical transfer, interception, relationship mapping, biometric identity, border systems, and the conversion of products and services into operational state capacity.*
+
+---
+
+## ✨ Stardust
+
+surveillance export, dual use, capability transfer, interception, device exploitation, biometrics, facial recognition, data fusion, relationship mapping, social monitoring, border technology, financial surveillance, protest monitoring, training, custom configuration, vendor support, pilot systems, onward transfer, export controls, human-rights due diligence, end-use monitoring, capability substitution
+
+---
+
+## 🏮 Footer
+
+*🧰 Exported Surveillance Capabilities* is a capability-analysis node within *🌱 Cuttings* and *🥀 Little Database Of Horrors*.  
+It separates products, services, configuration, training, deployment, target use, and abuse so that cross-border surveillance claims can be built from traceable evidence rather than reputational shorthand.
+
+> 📡 Cross-references:
+>
+> - [🌱 Cuttings](./README.md) — *the wider capability-diffusion cluster*
+> - [🏭 Private Contractors And Dual-Use Tools](./🏭_private_contractors_and_dual_use_tools.md) — *the commercial ecosystem that assembles and maintains portable capability*
+> - [🕸️ Social Graphs](../🍽️_Feed_Me_Data/🕸️_social_graphs.md) — *relationship data as capability input*
+> - [📍 Location](../🍽️_Feed_Me_Data/📍_location.md) — *movement and proximity data as governance infrastructure*
+> - [🔭 Capability Not Allegation](../🧭_Orientation/🔭_capability_not_allegation.md) — *keeping technical possibility distinct from unsupported attribution*
+> - [🔬 The Smallest Claim First](../🧭_Orientation/🔬_the_smallest_claim_first.md) — *building from one verified transfer, route, and effect*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-07-21_
