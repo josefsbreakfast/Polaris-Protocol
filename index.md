@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-21 18:45:36 UTC_
+_Generated on 2026-07-21 18:49:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6050,6 +6050,9 @@ _Generated on 2026-07-21 18:45:36 UTC_
         - [**⚖️_Ethics_And_International_Law/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/README.md)
           - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/notes.txt)
+          - [`🏠_privacy_family_life_and_belonging.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/🏠_privacy_family_life_and_belonging.md)
+          - [`📣_expression_association_and_political_participation.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/📣_expression_association_and_political_participation.md)
+          - [`🕊️_association_is_not_a_risk_externality.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/🕊️_association_is_not_a_risk_externality.md)
         - [**🌍_Regime_And_State_Capability_Studies/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/)
           - [**🌍_East_And_Central_Africa/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌍_East_And_Central_Africa/)
             - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌍_East_And_Central_Africa/notes.txt)
