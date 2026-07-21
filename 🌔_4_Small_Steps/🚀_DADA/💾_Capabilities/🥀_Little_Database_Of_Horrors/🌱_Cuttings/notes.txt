@@ -7,3 +7,22 @@
             │   ├── 🧬_copying_successful_repression_models.md
             │   └── 📦_when_the_toolkit_travels_better_than_the_regime.md
             │
+
+---
+
+The cluster movement is strong:
+
+tool export → contractor diffusion → state collaboration → shared lists and requests → host-state implementation → model replication → capability surviving beyond its original regime
+
+The governing proposition should be:
+
+Repression does not need to travel as ideology. It can travel as software, procurement, training, data exchange, legal assistance, risk language, and administrative habit.
+
+And the final node gives the cluster its hardest landing:
+
+The regime may be unstable, unpopular, sanctioned, or gone. The toolkit can remain commercially useful, institutionally embedded, and easier to export than the politics that produced it.
+
+The clean planning order is the one you have listed: start with 🌱_Cuttings/README.md, establish the full diffusion model, then work through each transmission route before closing with 📦_when_the_toolkit_travels_better_than_the_regime.md.
+
+---
+
