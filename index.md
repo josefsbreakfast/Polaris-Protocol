@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-21 01:19:04 UTC_
+_Generated on 2026-07-21 01:20:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6145,7 +6145,6 @@ _Generated on 2026-07-21 01:19:04 UTC_
           - [`🪞_surface_matches_and_missing_substance.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/🪞_surface_matches_and_missing_substance.md)
         - [**🦷_The_Plant_Has_Teeth/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/README.md)
-          - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/notes.txt)
           - [`⚖️_legal_financial_and_administrative_pressure.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/⚖️_legal_financial_and_administrative_pressure.md)
           - [`🔇_visibility_reduction_and_social_rerouting.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/🔇_visibility_reduction_and_social_rerouting.md)
           - [`🕳️_isolation_without_formal_prohibition.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/🕳️_isolation_without_formal_prohibition.md)
