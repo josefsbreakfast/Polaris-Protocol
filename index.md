@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-21 01:05:42 UTC_
+_Generated on 2026-07-21 01:12:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6109,12 +6109,28 @@ _Generated on 2026-07-21 01:05:42 UTC_
         - [**🔎_Is_It_The_Plant_Or_The_Community/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🔎_Is_It_The_Plant_Or_The_Community/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🔎_Is_It_The_Plant_Or_The_Community/README.md)
           - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🔎_Is_It_The_Plant_Or_The_Community/notes.txt)
+          - [`⏱️_timing_thresholds_and_phase_changes.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🔎_Is_It_The_Plant_Or_The_Community/⏱️_timing_thresholds_and_phase_changes.md)
+          - [`❌_what_would_disprove_the_model.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🔎_Is_It_The_Plant_Or_The_Community/❌_what_would_disprove_the_model.md)
+          - [`🏛️_institutional_gatekeeping.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🔎_Is_It_The_Plant_Or_The_Community/🏛️_institutional_gatekeeping.md)
+          - [`📡_signs_of_shared_data_or_shared_rules.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🔎_Is_It_The_Plant_Or_The_Community/📡_signs_of_shared_data_or_shared_rules.md)
+          - [`📱_platform_recommendation_effects.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🔎_Is_It_The_Plant_Or_The_Community/📱_platform_recommendation_effects.md)
+          - [`🗣️_gossip_conflict_and_local_factionalism.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🔎_Is_It_The_Plant_Or_The_Community/🗣️_gossip_conflict_and_local_factionalism.md)
+          - [`🧩_comparative_case_method.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🔎_Is_It_The_Plant_Or_The_Community/🧩_comparative_case_method.md)
+          - [`🧭_electronic_system_or_community_politics.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🔎_Is_It_The_Plant_Or_The_Community/🧭_electronic_system_or_community_politics.md)
+          - [`🪜_evidence_ladder.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🔎_Is_It_The_Plant_Or_The_Community/🪜_evidence_ladder.md)
+          - [`🪞_homophily_class_and_social_sorting.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🔎_Is_It_The_Plant_Or_The_Community/🪞_homophily_class_and_social_sorting.md)
         - [**🕸️_Community_Protection/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/README.md)
           - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/notes.txt)
+          - [`🌱_building_relationships_the_model_cannot_easily_cap.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/🌱_building_relationships_the_model_cannot_easily_cap.md)
+          - [`🏠_host_country_protection_duties.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/🏠_host_country_protection_duties.md)
           - [`📞_verify_directly_before_severing_contact.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/📞_verify_directly_before_severing_contact.md)
+          - [`📰_legal_journalistic_and_civil_society_routes.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/📰_legal_journalistic_and_civil_society_routes.md)
           - [`🔗_anti_wedge_protocols.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/🔗_anti_wedge_protocols.md)
+          - [`🛵_maintaining_multiple_routes_to_support.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/🛵_maintaining_multiple_routes_to_support.md)
           - [`🥀_what_to_do_if_your_diaspora_has_a_database_problem.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/🥀_what_to_do_if_your_diaspora_has_a_database_problem.md)
+          - [`🧯_avoiding_public_accusation_on_weak_evidence.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/🧯_avoiding_public_accusation_on_weak_evidence.md)
+          - [`🧷_protecting_family_across_borders.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🕸️_Community_Protection/🧷_protecting_family_across_borders.md)
         - [**🥀_The_Audrey_II_Problem/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/README.md)
           - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🥀_The_Audrey_II_Problem/notes.txt)
@@ -6191,6 +6207,7 @@ _Generated on 2026-07-21 01:05:42 UTC_
           - [`🛡️_safeguarding_as_a_data_gateway.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/🛡️_safeguarding_as_a_data_gateway.md)
           - [`🧭_diaspora_engagement_and_community_mapping.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/🧭_diaspora_engagement_and_community_mapping.md)
           - [`🧾_procurement_contractors_and_outsourced_judgement.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/🧾_procurement_contractors_and_outsourced_judgement.md)
+        - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/README.md)
         - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/notes.txt)
       - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/README.md)
     - [`README.md`](🌔_4_Small_Steps/🚀_DADA/README.md)
