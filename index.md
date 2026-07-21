@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-21 18:49:52 UTC_
+_Generated on 2026-07-21 18:59:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6050,9 +6050,16 @@ _Generated on 2026-07-21 18:49:52 UTC_
         - [**⚖️_Ethics_And_International_Law/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/README.md)
           - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/notes.txt)
+          - [`⚖️_discrimination_persecution_and_systematic_harm.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/⚖️_discrimination_persecution_and_systematic_harm.md)
+          - [`🌍_transnational_repression_and_state_sovereignty.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/🌍_transnational_repression_and_state_sovereignty.md)
+          - [`🎭_attribution_proxies_and_plausible_deniability.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/🎭_attribution_proxies_and_plausible_deniability.md)
           - [`🏠_privacy_family_life_and_belonging.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/🏠_privacy_family_life_and_belonging.md)
           - [`📣_expression_association_and_political_participation.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/📣_expression_association_and_political_participation.md)
           - [`🕊️_association_is_not_a_risk_externality.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/🕊️_association_is_not_a_risk_externality.md)
+          - [`🚨_when_data_infrastructure_enables_mass_abuse.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/🚨_when_data_infrastructure_enables_mass_abuse.md)
+          - [`🛑_the_duty_to_review_stop_and_remedy.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/🛑_the_duty_to_review_stop_and_remedy.md)
+          - [`🧾_state_responsibility_and_due_diligence.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/🧾_state_responsibility_and_due_diligence.md)
+          - [`🩸_the_pathway_to_crimes_against_humanity.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/🩸_the_pathway_to_crimes_against_humanity.md)
         - [**🌍_Regime_And_State_Capability_Studies/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/)
           - [**🌍_East_And_Central_Africa/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌍_East_And_Central_Africa/)
             - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌍_East_And_Central_Africa/notes.txt)
@@ -6093,9 +6100,27 @@ _Generated on 2026-07-21 18:49:52 UTC_
         - [**🍄_Signs_The_Plant_Is_Under_Strain/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/README.md)
           - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/notes.txt)
+          - [`⚖️_intervention_disproportionate_to_conduct.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/⚖️_intervention_disproportionate_to_conduct.md)
+          - [`🌀_contradictory_classifications.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/🌀_contradictory_classifications.md)
+          - [`🎭_people_treated_as_irrelevant_and_dangerous.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/🎭_people_treated_as_irrelevant_and_dangerous.md)
+          - [`👀_what_outsiders_are_likely_to_notice.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/👀_what_outsiders_are_likely_to_notice.md)
+          - [`💥_when_the_management_layer_becomes_visible.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/💥_when_the_management_layer_becomes_visible.md)
+          - [`📢_identical_language_across_unrelated_channels.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/📢_identical_language_across_unrelated_channels.md)
+          - [`🔗_obvious_collaborators_kept_adjacent_but_apart.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/🔗_obvious_collaborators_kept_adjacent_but_apart.md)
+          - [`🗂️_stale_duplicated_and_merged_records.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/🗂️_stale_duplicated_and_merged_records.md)
+          - [`🧱_repeated_relationship_ceilings.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/🧱_repeated_relationship_ceilings.md)
+          - [`🪞_recycled_or_unsuitable_substitutes.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/🪞_recycled_or_unsuitable_substitutes.md)
         - [**🎭_Language_And_Cover_Stories/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/README.md)
           - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/notes.txt)
+          - [`🏛️_social_stability.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/🏛️_social_stability.md)
+          - [`📊_risk_mitigation.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/📊_risk_mitigation.md)
+          - [`📡_foreign_interference_prevention.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/📡_foreign_interference_prevention.md)
+          - [`🕸️_the_operational_meaning_of_who_may_know_whom.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/🕸️_the_operational_meaning_of_who_may_know_whom.md)
+          - [`🛡️_community_safeguarding.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/🛡️_community_safeguarding.md)
+          - [`🧭_diaspora_engagement.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/🧭_diaspora_engagement.md)
+          - [`🧯_counter_extremism.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/🧯_counter_extremism.md)
+          - [`🫂_protective_monitoring.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/🫂_protective_monitoring.md)
         - [**🎶_Suddenly_Surveillance/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/README.md)
           - [`👁️_from_observation_to_intervention.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/👁️_from_observation_to_intervention.md)
