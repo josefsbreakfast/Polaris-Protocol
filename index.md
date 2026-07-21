@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-21 00:41:57 UTC_
+_Generated on 2026-07-21 00:44:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6088,6 +6088,7 @@ _Generated on 2026-07-21 00:41:57 UTC_
           - [`🧰_exported_surveillance_capabilities.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/🧰_exported_surveillance_capabilities.md)
         - [**🍄_Signs_The_Plant_Is_Under_Strain/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/README.md)
+          - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🍄_Signs_The_Plant_Is_Under_Strain/notes.txt)
         - [**🎭_Language_And_Cover_Stories/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎭_Language_And_Cover_Stories/README.md)
         - [**🎶_Suddenly_Surveillance/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🎶_Suddenly_Surveillance/)
@@ -6124,6 +6125,7 @@ _Generated on 2026-07-21 00:41:57 UTC_
           - [`🪓_wedge_creation_and_relationship_disruption.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🦷_The_Plant_Has_Teeth/🪓_wedge_creation_and_relationship_disruption.md)
         - [**🧪_Investigation_Kit/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/README.md)
+          - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧪_Investigation_Kit/notes.txt)
         - [**🧭_Orientation/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧭_Orientation/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧭_Orientation/README.md)
           - [`🔬_the_smallest_claim_first.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🧭_Orientation/🔬_the_smallest_claim_first.md)
@@ -6144,6 +6146,7 @@ _Generated on 2026-07-21 00:41:57 UTC_
           - [`🧬_family_friendship_and_intimate_relationships.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🩸_Feed_Me_Data/🧬_family_friendship_and_intimate_relationships.md)
         - [**🪓_Dont_Feed_The_Model/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/README.md)
+          - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪓_Dont_Feed_The_Model/notes.txt)
         - [**🪴_Mushniks_Dashboard/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/README.md)
           - [`🎭_plausible_deniability_by_design.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/🎭_plausible_deniability_by_design.md)
