@@ -1,547 +1,569 @@
-🌱_Cuttings/README.md
-            │   ├── 🧰_exported_surveillance_capabilities.md
-            │   ├── 🏭_private_contractors_and_dual_use_tools.md
-            │   ├── 🤝_authoritarian_collaboration.md
-            │   ├── 🔄_shared_watchlists_and_return_requests.md
-            │   ├── 🌍_host_state_assistance.md
-            │   ├── 🧬_copying_successful_repression_models.md
-            │   └── 📦_when_the_toolkit_travels_better_than_the_regime.md
-            │
+# 🌱 Cuttings
+**First created:** 2026-07-21 | **Last updated:** 2026-07-21  
+*How surveillance, classification, relationship-governance, and social-control capabilities move between states, contractors, institutions, jurisdictions, policy fields, and political systems.*
 
 ---
 
-🌱 README.md — Cluster Plan
-
-Core purpose
-
-This README should orient the whole 🌱_Cuttings cluster.
-
-Its job is to explain how surveillance, repression, and relationship-governance capabilities move beyond the institution, contractor, jurisdiction, emergency, or regime that first developed them.
-
-The cluster should establish that capability diffusion is broader than the export of a finished surveillance product.
-
-A method may travel through:
-
-* software;
-* training;
-* procurement;
-* contractors;
-* data exchange;
-* police and intelligence cooperation;
-* diplomatic requests;
-* legal templates;
-* risk categories;
-* copied workflows;
-* administrative habit.
-
-Its governing proposition should be:
-
-Repression does not need to travel as ideology. It can travel as software, procurement, training, data exchange, legal assistance, risk language, and administrative habit.
-
-The README should guide the reader through the cluster’s full movement:
-
-capability export → commercial diffusion → state collaboration → shared operational records → host-state implementation → model replication → toolkit survival
-
-⸻
-
-Opening movement — the cutting does not resemble the plant
-
-The opening should make the botanical metaphor immediately legible.
-
-A cutting may leave the original system as:
-
-* a licence;
-* a pilot;
-* a contractor;
-* a training programme;
-* a shared alert;
-* a technical-assistance package;
-* a legal model;
-* a policy recommendation;
-* a copied workflow.
-
-It may arrive in a jurisdiction that:
-
-* rejects the original regime;
-* has different laws;
-* describes itself as democratic;
-* uses different political language;
-* claims a different public purpose.
-
-The capability may nevertheless retain important affordances.
-
-Possible opening
+## 🛰️ Orientation
 
 The cutting does not look dangerous when it leaves the plant.
 
-It arrives as a licence, a border-modernisation package, a police-training programme, a shared alert, a consultancy, or an administrative reform. It may be planted inside an institution that rejects the politics of the regime that first cultivated it.
+It arrives as:
 
-Then:
+- a licence;
+- a border-modernisation package;
+- a police-training programme;
+- a shared alert;
+- a consultancy;
+- a procurement reform;
+- a legal template;
+- an administrative workflow.
 
-The tool does not need the original ideology in order to retain the original affordances.
+It may be planted inside an institution that:
 
-And:
+- rejects the politics of the regime that first cultivated it;
+- operates under different law;
+- uses democratic language;
+- claims a different public purpose;
+- has stronger formal safeguards.
+
+The capability may nevertheless retain important affordances.
+
+> The tool does not need the original ideology in order to retain the original affordances.
 
 A method can cross the border after its political name has been removed.
 
-⸻
+This cluster follows how surveillance and repression capability spreads through:
 
-Section 1 — What this cluster studies
+- software;
+- procurement;
+- training;
+- contractors;
+- data exchange;
+- police and intelligence cooperation;
+- diplomatic requests;
+- legal templates;
+- risk categories;
+- copied workflows;
+- administrative habit.
 
-Define the cluster’s subject precisely.
+Its governing proposition is:
 
-🌱 Cuttings studies how capabilities for:
+> Repression does not need to travel as ideology. It can travel as software, procurement, training, data exchange, legal assistance, risk language, and administrative habit.
 
-* surveillance;
-* identification;
-* relationship mapping;
-* risk scoring;
-* movement control;
-* administrative pressure;
-* social isolation;
-* return;
-* narrative containment;
+---
 
-move between:
+## 🧭 Governing Proposition
 
-* states;
-* agencies;
-* contractors;
-* jurisdictions;
-* institutions;
-* policy fields;
-* political systems.
+> This cluster follows the capability, not only the organisation that first possessed it.
 
-The cluster should examine both:
+The movement is:
 
-Direct transmission
+> **capability export → commercial diffusion → state collaboration → shared operational records → host-state implementation → model replication → toolkit survival**
 
-A tool, service, dataset, request, or training package is transferred.
+A capability may be:
 
-Indirect diffusion
+- exported;
+- assembled;
+- shared;
+- translated;
+- copied;
+- inherited;
+- repurposed;
+- rebranded.
 
-A workflow, category, legal logic, or model is copied.
+The central danger is that a method developed for overt repression may become:
 
-Core line
+- ordinary infrastructure;
+- neutral procurement;
+- legitimate cooperation;
+- efficient administration;
+- risk management;
+- safeguarding;
+- public safety.
 
-This cluster follows the capability, not only the organisation that first possessed it.
+> A capability does not need to be admired as repression. It only needs to appear administratively useful.
 
-⸻
+---
 
-Section 2 — Why “export” is too narrow
+## 🌱 Why “Cuttings”
 
-The README should explain that export often implies:
-
-* a seller;
-* a buyer;
-* a product;
-* a border;
-* a completed transfer.
-
-Many capabilities move differently.
-
-They may travel through:
-
-* remote services;
-* cloud infrastructure;
-* shared access;
-* consultants;
-* staff training;
-* policy borrowing;
-* common vendors;
-* watchlists;
-* diplomatic channels;
-* informal professional networks.
-
-Core line
-
-The capability may cross the border through the product, the data, the query, the trainer, the contractor, the request, or the copied idea.
-
-And:
-
-Sometimes the software travels. Sometimes only the method does.
-
-⸻
-
-Section 3 — The three forms of travel
-
-This should be one of the README’s main organising sections.
-
-Direct capability transfer
-
-A specific technology, dataset, service, or operational capacity is transferred.
-
-Examples:
-
-* spyware;
-* biometric systems;
-* data-fusion platforms;
-* monitoring tools;
-* technical training;
-* remote analyst support.
-
-Operational collaboration
-
-Institutions share:
-
-* intelligence;
-* alerts;
-* names;
-* requests;
-* police assistance;
-* border access;
-* diplomatic support;
-* return mechanisms.
-
-Model diffusion
-
-Institutions independently reproduce:
-
-* legal powers;
-* risk categories;
-* workflows;
-* relationship-governance methods;
-* administrative design.
-
-Core line
-
-A capability may be exported, shared, copied, or simply admired into existence elsewhere.
-
-⸻
-
-Section 4 — Capability package
-
-The cluster should define a capability as more than software.
-
-A capability package may include:
-
-* hardware;
-* code;
-* data;
-* models;
-* system integration;
-* training;
-* doctrine;
-* legal authority;
-* maintenance;
-* analysts;
-* risk categories;
-* escalation pathways;
-* institutional confidence.
-
-Core line
-
-A product is one component. A capability is the full set of things required to produce the outcome.
-
-This definition will prevent later nodes from repeatedly explaining why:
-
-* training matters;
-* maintenance matters;
-* configuration matters;
-* local law matters;
-* contractor involvement matters.
-
-⸻
-
-Section 5 — The translation layer
-
-This should be a central cluster-wide concept.
-
-A politically controversial method may be translated into acceptable language.
-
-Examples:
-
-* political surveillance → situational awareness;
-* diaspora control → foreign-interference resilience;
-* protest suppression → public-order management;
-* relationship mapping → safeguarding;
-* donor monitoring → financial-risk management;
-* political return → immigration resolution;
-* blacklisting → risk-based screening.
-
-Core line
-
-The translation layer removes the political accent from the capability without necessarily changing what the capability permits.
-
-The translation may be performed by:
-
-* vendors;
-* consultants;
-* lawyers;
-* civil servants;
-* liaison officers;
-* policy writers;
-* contractors;
-* local institutions.
-
-⸻
-
-Section 6 — Why capabilities spread
-
-Capabilities may spread because they appear to offer:
-
-* control;
-* efficiency;
-* prediction;
-* coordination;
-* early intervention;
-* deniability;
-* reduced public confrontation;
-* measurable outputs;
-* lower staffing burdens;
-* political usefulness.
-
-Core line
-
-A capability does not need to be admired as repression. It only needs to appear administratively useful.
-
-Institutions may copy methods that seem to:
-
-* reduce visible protest;
-* prevent coalition;
-* simplify migration;
-* prioritise cases;
-* improve border screening;
-* produce more alerts;
-* make opposition easier to manage.
-
-The README should warn that apparent success may reflect:
-
-* suppression;
-* displacement;
-* chilling effects;
-* invisible harm;
-* failure to measure the social cost.
-
-⸻
-
-Section 7 — Why this follows 🦷 The Plant Has Teeth
-
-The transition from the preceding cluster should be explicit.
-
-🦷 The Plant Has Teeth asks how classification becomes consequence.
-
-It follows:
-
-* missed introductions;
-* reduced visibility;
-* warnings;
-* relational wedges;
-* proxy pressure;
-* travel restriction;
-* administrative attrition;
-* functional isolation;
-* rising relationship cost.
-
-🌱 Cuttings asks:
-
-Once these methods exist, how do they spread?
-
-Core transition
-
-The previous cluster followed the bite.
-
-This cluster follows the cutting: the product, contractor, request, category, workflow, or institutional lesson through which the same capability takes root somewhere else.
-
-And:
-
-Once a system has learned how to suppress consequential relationships without formally prohibiting them, the method becomes valuable beyond the institution that first used it.
-
-⸻
-
-Section 8 — Direct export is the smallest visible route
-
-The first substantive node should begin with the most concrete object:
-
-* a named tool;
-* a service;
-* a contract;
-* training;
-* integration;
-* maintenance.
-
-Core line
-
-Begin with the thing that can be named, contracted, installed, demonstrated, or technically verified.
-
-This supports the cluster’s smallest-claim discipline.
-
-⸻
-
-Section 9 — Commercial diffusion
-
-Explain why the contractor layer follows direct export.
-
-The commercial ecosystem may include:
-
-* developers;
-* resellers;
-* systems integrators;
-* cloud providers;
-* data brokers;
-* local subcontractors;
-* consultants;
-* maintenance providers.
-
-Core line
-
-The state may be the customer. The market is what makes the cutting portable.
-
-The README should note that no single company may have sold the whole coercive system.
-
-The capability may be assembled from ordinary components.
-
-⸻
-
-Section 10 — Interstate collaboration
-
-The next movement is from market capacity to state authority.
-
-States can provide:
-
-* intelligence;
-* police powers;
-* border access;
-* diplomatic legitimacy;
-* immigration action;
-* financial cooperation;
-* local territory.
-
-Core line
-
-Contractors make the capability usable. Governments make it authoritative.
-
-The README should distinguish:
-
-* legitimate cooperation;
-* politically contaminated cooperation;
-* authoritarian function.
-
-⸻
-
-Section 11 — Operational objects
-
-Collaboration becomes concrete when particular objects begin moving:
-
-* names;
-* biometrics;
-* alerts;
-* watchlist entries;
-* handling codes;
-* political labels;
-* return requests;
-* shared assessments.
-
-Core line
-
-Cooperation becomes operational when a classification acquires an expected response.
-
-This section should introduce:
-
-* source lineage;
-* common-source replication;
-* correction failure;
-* local reliance.
-
-⸻
-
-Section 12 — Host-state responsibility
-
-The host state should be framed as an actor, not passive territory.
+A cutting is taken from one plant and rooted somewhere else.
 
 It may:
 
-* accept;
-* verify;
-* reject;
-* translate;
-* operationalise;
-* ignore;
-* correct;
-* protect.
+- look smaller;
+- lose the original soil;
+- acquire a new container;
+- be renamed;
+- grow differently;
+- become harder to trace back to its source.
 
-Core line
+The metaphor matters because capability diffusion rarely preserves the whole original system.
 
-The request may originate abroad. The decision to honour it remains local.
+What travels may be:
 
-And:
+- one product;
+- one contractor;
+- one category;
+- one request;
+- one legal mechanism;
+- one workflow;
+- one institutional lesson.
 
-A foreign source can supply the allegation. Only the host state can attach its own police, border, financial, professional, or administrative power.
+> Sometimes the software travels. Sometimes only the method does.
 
-This should be one of the README’s central accountability principles.
+The capability may arrive in fragments and be reconstructed locally.
 
-⸻
+The cutting has rooted when the receiving institution no longer needs the original exporter to reproduce the capability.
 
-Section 13 — Model replication
+---
 
-The cluster should then move beyond direct assistance.
+## 🔭 What This Cluster Studies
+
+*🌱 Cuttings* studies how capabilities for:
+
+- surveillance;
+- identification;
+- relationship mapping;
+- risk scoring;
+- movement control;
+- administrative pressure;
+- social isolation;
+- return;
+- narrative containment;
+
+move between:
+
+- states;
+- agencies;
+- contractors;
+- jurisdictions;
+- institutions;
+- policy fields;
+- political systems.
+
+It examines both direct and indirect movement.
+
+### Direct transmission
+
+A tool, service, dataset, request, or training package is transferred.
+
+### Indirect diffusion
+
+A workflow, category, legal logic, or model is copied.
+
+> A capability may be exported, shared, copied, or simply admired into existence elsewhere.
+
+---
+
+## 📦 What Counts As A Capability Package
+
+A capability is more than software.
+
+It may include:
+
+- hardware;
+- code;
+- data;
+- models;
+- system integration;
+- training;
+- doctrine;
+- legal authority;
+- maintenance;
+- analysts;
+- risk categories;
+- escalation pathways;
+- institutional confidence.
+
+> A product is one component. A capability is the full set of things required to produce the outcome.
+
+This means that:
+
+- a product may be present without a full operational capability;
+- a product may be absent while the method survives;
+- the decisive export may be training, integration, or maintenance;
+- the visible customer may not control every part of the system;
+- the original seller may no longer be necessary once the recipient can reproduce the workflow.
+
+---
+
+## 🔀 The Three Forms Of Travel
+
+The cluster distinguishes three major routes.
+
+### Direct capability transfer
+
+A specific technology, dataset, service, or operational capacity is transferred.
+
+Examples include:
+
+- spyware;
+- biometric systems;
+- data-fusion platforms;
+- monitoring tools;
+- technical training;
+- remote analyst support.
+
+### Operational collaboration
+
+Institutions share:
+
+- intelligence;
+- alerts;
+- names;
+- requests;
+- police assistance;
+- border access;
+- diplomatic support;
+- return mechanisms.
+
+### Model diffusion
+
+Institutions independently reproduce:
+
+- legal powers;
+- risk categories;
+- workflows;
+- relationship-governance methods;
+- administrative design.
+
+> Direct transfer moves a tool. Model replication moves a logic.
+
+---
+
+## 🧼 The Translation Layer
+
+A politically controversial method may be translated into acceptable local language.
+
+Examples include:
+
+- political surveillance → situational awareness;
+- diaspora control → foreign-interference resilience;
+- protest suppression → public-order management;
+- relationship mapping → safeguarding;
+- donor monitoring → financial-risk management;
+- political return → immigration resolution;
+- blacklisting → risk-based screening.
+
+> The translation layer removes the political accent from the capability without necessarily changing what the capability permits.
+
+Translation may be performed by:
+
+- vendors;
+- consultants;
+- lawyers;
+- civil servants;
+- liaison officers;
+- policy writers;
+- contractors;
+- local institutions.
+
+The translation may be legitimate.
+
+It may also strip away:
+
+- source lineage;
+- political context;
+- uncertainty;
+- contested meaning;
+- visible responsibility.
+
+---
+
+## 🏗️ Why Capabilities Spread
+
+Capabilities may spread because they appear to offer:
+
+- control;
+- efficiency;
+- prediction;
+- coordination;
+- early intervention;
+- deniability;
+- reduced public confrontation;
+- measurable outputs;
+- lower staffing burdens;
+- political usefulness.
+
+Institutions may copy methods that seem to:
+
+- reduce visible protest;
+- prevent coalition;
+- simplify migration;
+- prioritise cases;
+- improve border screening;
+- produce more alerts;
+- make opposition easier to manage.
+
+The apparent success may itself be badly measured.
+
+> A model may be successful at suppression and unsuccessful at every public value used to justify it.
+
+The system may count:
+
+- alerts;
+- referrals;
+- removals;
+- disrupted events;
+- reduced public activity.
+
+It may not count:
+
+- fear;
+- silence;
+- broken relationships;
+- community withdrawal;
+- correction failure;
+- democratic harm.
+
+---
+
+## 🦷 From The Bite To The Cutting
+
+The preceding cluster, *🦷 The Plant Has Teeth*, follows how classification becomes consequence.
+
+It examines:
+
+- missed introductions;
+- reduced visibility;
+- warnings;
+- relational wedges;
+- proxy pressure;
+- travel restriction;
+- administrative attrition;
+- functional isolation;
+- rising relationship cost.
+
+*🌱 Cuttings* asks what happens next.
+
+> The previous cluster followed the bite.
+
+> This cluster follows the cutting: the product, contractor, request, category, workflow, or institutional lesson through which the same capability takes root somewhere else.
+
+Once a system has learned how to suppress consequential relationships without formally prohibiting them, the method becomes valuable beyond the institution that first used it.
+
+---
+
+## 🧰 Direct Export
+
+The first node begins with the most concrete route:
+
+- a named tool;
+- a service;
+- a contract;
+- training;
+- integration;
+- maintenance.
+
+> Begin with the thing that can be named, contracted, installed, demonstrated, or technically verified.
+
+The important distinction is between:
+
+- advertised capability;
+- purchased capability;
+- deployed capability;
+- operational use;
+- target-specific use;
+- abusive use.
+
+A brochure proves what the vendor claims.
+
+A contract proves a transaction.
+
+Neither alone proves operational abuse.
+
+---
+
+## 🏭 Commercial Diffusion
+
+The contractor ecosystem may include:
+
+- developers;
+- resellers;
+- systems integrators;
+- cloud providers;
+- data brokers;
+- local subcontractors;
+- consultants;
+- maintenance providers;
+- managed-service teams.
+
+> The state may be the customer. The market is what makes the cutting portable.
+
+No single company may have sold the whole coercive system.
+
+The capability may be assembled from ordinary components.
+
+Responsibility should be tied to:
+
+- contribution;
+- knowledge;
+- control;
+- continuing assistance;
+- available choices.
+
+---
+
+## 🤝 Interstate Collaboration
+
+The next movement is from commercial capacity to state authority.
+
+States can provide:
+
+- intelligence;
+- police powers;
+- border access;
+- diplomatic legitimacy;
+- immigration action;
+- financial cooperation;
+- local territory.
+
+> Contractors make the capability usable. Governments make it authoritative.
+
+The issue is not whether states cooperate.
+
+The issue is:
+
+- what the cooperation enabled;
+- what evidence supported it;
+- whether political motivation was tested;
+- which local power was used;
+- who could correct the result.
+
+---
+
+## 🔄 Operational Records And Requests
+
+Collaboration becomes concrete when particular objects begin moving:
+
+- names;
+- biometrics;
+- alerts;
+- watchlist entries;
+- handling codes;
+- political labels;
+- return requests;
+- shared assessments.
+
+> Cooperation becomes operational when a classification acquires an expected response.
+
+This stage raises questions of:
+
+- source lineage;
+- common-source replication;
+- caveat loss;
+- handling instructions;
+- correction failure;
+- local reliance.
+
+> Five institutions repeating one allegation are not five independent sources.
+
+---
+
+## 🌍 Host-State Responsibility
+
+The host state is not passive territory.
+
+It may:
+
+- accept;
+- verify;
+- reject;
+- translate;
+- operationalise;
+- ignore;
+- correct;
+- protect.
+
+> The request may originate abroad. The decision to honour it remains local.
+
+A foreign source may supply the allegation.
+
+Only the host state can attach its own:
+
+- police;
+- border;
+- financial;
+- professional;
+- safeguarding;
+- administrative;
+
+power to it.
+
+Foreign origin does not dilute local responsibility.
+
+---
+
+## 🧬 Model Replication
+
+The cluster then moves beyond direct assistance.
 
 An institution may copy:
 
-* database architecture;
-* relationship scoring;
-* legal powers;
-* protest-management methods;
-* risk language;
-* serial-referral workflows;
-* community-intermediary structures.
+- database architecture;
+- relationship scoring;
+- legal powers;
+- protest-management methods;
+- risk language;
+- serial-referral workflows;
+- community-intermediary structures.
 
-Core line
-
-Direct assistance carries one request. Model replication preserves the method for future cases.
+> Direct assistance carries one request. Model replication preserves the method for future cases.
 
 The model may spread through:
 
-* conferences;
-* study visits;
-* consultants;
-* shared contractors;
-* policy papers;
-* crisis observation;
-* professional admiration.
+- conferences;
+- study visits;
+- consultants;
+- shared contractors;
+- policy papers;
+- crisis observation;
+- professional admiration.
 
-⸻
+The core guardrail is:
 
-Section 14 — Toolkit autonomy
+> Similarity identifies a question. Transmission evidence establishes an answer.
+
+---
+
+## 📦 Toolkit Autonomy
 
 The final movement is the capability becoming independent of its source.
 
 The toolkit may survive:
 
-* regime change;
-* vendor exposure;
-* sanctions;
-* legal reform;
-* programme closure;
-* emergency expiry;
-* public scandal.
+- regime change;
+- vendor exposure;
+- sanctions;
+- legal reform;
+- programme closure;
+- emergency expiry;
+- public scandal.
 
 It may survive through:
 
-* retained data;
-* staff;
-* contracts;
-* doctrine;
-* workflows;
-* substitute vendors;
-* legal adaptation;
-* institutional demand.
+- retained data;
+- staff;
+- contracts;
+- doctrine;
+- workflows;
+- substitute vendors;
+- legal adaptation;
+- institutional demand.
 
-Core line
-
-The regime may fall. The licence renews automatically.
-
-And:
+> The regime may fall. The licence renews automatically.
 
 The cutting has rooted when the institution no longer needs the original exporter to reproduce the capability.
 
-⸻
+---
 
-Section 15 — The full diffusion chain
+## 🔗 The Full Diffusion Chain
 
-The README should present the cluster’s central sequence:
+The cluster’s full sequence is:
 
-capability → market → collaboration → record → local action → imitation → inheritance
+> **capability → market → collaboration → record → local action → imitation → inheritance**
 
 Expanded:
 
@@ -553,68 +575,81 @@ Expanded:
 6. the method is copied;
 7. the toolkit outlives its origin.
 
-Core line
+> Each stage increases distance from the original political purpose while preserving or expanding practical capacity.
 
-Each stage increases distance from the original political purpose while preserving or expanding practical capacity.
+---
 
-⸻
+## 🧭 Responsibility Chain
 
-Section 16 — Responsibility chain
+A possible responsibility chain is:
 
-Map the possible responsibility chain:
-
-developer → vendor → reseller → integrator → contractor → requesting agency → shared system → host institution → local decision-maker
+> developer → vendor → reseller → integrator → contractor → requesting agency → shared system → host institution → local decision-maker
 
 Not every case uses every link.
 
 The chain is useful because it prevents blame from stopping at:
 
-* the logo;
-* the foreign state;
-* the local operator;
-* the automated system.
+- the logo;
+- the foreign state;
+- the local operator;
+- the automated system.
 
-Core line
+> Responsibility should follow knowledge, control, contribution, decision authority, and available choices.
 
-Responsibility should follow knowledge, control, contribution, decision authority, and available choices.
+Not every actor is equally responsible.
 
-The README should avoid treating every actor as equally responsible.
+Not every actor knows the same thing.
 
-⸻
+The analysis should identify:
 
-Section 17 — Fragmentation and deniability
+- who created;
+- who supplied;
+- who integrated;
+- who requested;
+- who decided;
+- who could stop;
+- who could correct.
+
+---
+
+## 🧩 Fragmentation And Deniability
 
 Each actor may hold only part of the capability.
 
 One actor supplies:
 
-* data.
+- data.
 
 Another supplies:
 
-* software.
+- software.
 
 Another supplies:
 
-* legal authority.
+- legal authority.
 
 Another performs:
 
-* local enforcement.
+- local enforcement.
 
 Another provides:
 
-* diplomatic justification.
+- diplomatic justification.
 
-Core line
+> The system may be politically coherent in the person’s life while remaining commercially and administratively fragmented everywhere else.
 
-The system may be politically coherent in the person’s life while remaining commercially and administratively fragmented everywhere else.
+Fragmentation may be ordinary.
 
-This should connect to the wider Little Database of Horrors.
+It may also make:
 
-⸻
+- ownership unclear;
+- cumulative impact invisible;
+- correction difficult;
+- responsibility deniable.
 
-Section 18 — Common-source authority
+---
+
+## 🔁 Common-Source Authority
 
 One allegation may circulate through several systems.
 
@@ -622,193 +657,203 @@ Each downstream action may create a new record.
 
 The original source may disappear.
 
-Core line
+> Repetition can make transmission look like corroboration.
 
-Repetition can make transmission look like corroboration.
+The cluster-level rule is:
 
-The README should introduce the rule:
+> Five institutions repeating one allegation are not five independent sources.
 
-Five institutions repeating one allegation are not five independent sources.
+A proper audit should ask:
 
-This concept will recur particularly in:
+- Where did the claim begin?
+- Which systems copied it?
+- Which later actions were treated as new evidence?
+- Did caveats survive?
+- Did correction propagate?
 
-* authoritarian collaboration;
-* shared watchlists;
-* host-state assistance.
+---
 
-⸻
-
-Section 19 — Correction travels badly
+## 🧹 Correction Travels Badly
 
 A record may spread through:
 
-* border systems;
-* intelligence;
-* police;
-* immigration;
-* finance;
-* employers;
-* commercial databases.
+- border systems;
+- intelligence;
+- police;
+- immigration;
+- finance;
+- employers;
+- commercial databases.
 
 A correction may remain in one file.
 
-Core line
-
-The accusation travels through interoperability. The correction travels through responsibility, and responsibility is usually narrower.
-
-This should be a major cluster-wide concern.
+> The accusation travels through interoperability. The correction travels through responsibility, and responsibility is usually narrower.
 
 Questions include:
 
-* Who received the original?
-* Who owns correction?
-* Does expiry propagate?
-* Are downstream decisions reviewed?
-* Can the affected person identify all recipients?
+- Who received the original?
+- Who owns correction?
+- Does expiry propagate?
+- Are downstream decisions reviewed?
+- Can the affected person identify all recipients?
+- Are derived scores recalculated?
+- Are supporters and relatives removed from secondary records?
 
-⸻
+A correction that does not travel is not a complete correction.
 
-Section 20 — Relationship consequences
+---
 
-The README must keep the cluster anchored to relational effects.
+## 🕸️ Relationship Consequences
 
 Capability diffusion may change:
 
-* who can travel;
-* who can meet;
-* who can fund;
-* who can employ;
-* who can host;
-* who is safe to support;
-* who becomes an associate;
-* who receives pressure;
-* who can remain consequential.
+- who can travel;
+- who can meet;
+- who can fund;
+- who can employ;
+- who can host;
+- who is safe to support;
+- who becomes an associate;
+- who receives pressure;
+- who can remain consequential.
 
-Core line
+> A surveillance capability may be exported as technology and arrive in ordinary life as a relationship becoming harder to sustain.
 
-A surveillance capability may be exported as technology and arrive in ordinary life as a relationship becoming harder to sustain.
+The capability may not formally prohibit:
 
-This is the key bridge back to 🦷 The Plant Has Teeth.
+- love;
+- friendship;
+- advocacy;
+- employment;
+- shelter;
+- funding;
+- care.
 
-⸻
+It may instead make each relationship:
 
-Section 21 — The target category can change
+- riskier;
+- slower;
+- costlier;
+- more visible;
+- easier to classify.
+
+---
+
+## 🎯 The Target Category Can Change
 
 A portable capability may be used against different groups.
 
 The target may be described as:
 
-* dissident;
-* terrorist;
-* separatist;
-* migrant;
-* protester;
-* foreign agent;
-* extremist;
-* safeguarding concern;
-* difficult service user;
-* public-order risk.
+- dissident;
+- terrorist;
+- separatist;
+- migrant;
+- protester;
+- foreign agent;
+- extremist;
+- safeguarding concern;
+- difficult service user;
+- public-order risk.
 
-Core line
+> The architecture is stable. The target category is replaceable.
 
-The architecture is stable. The target category is replaceable.
+The toolkit may move from:
 
-This should foreshadow the final node’s political-portability argument.
+- counterterrorism to protest;
+- border control to welfare;
+- fraud detection to political funding;
+- safeguarding to political dissent;
+- foreign-interference monitoring to diaspora governance.
 
-⸻
+The target changes more easily than the infrastructure.
 
-Section 22 — Ideology versus utility
+---
 
-The README should introduce one of the cluster’s hardest distinctions.
+## ⚙️ Ideology Versus Utility
 
 A receiving institution may reject the exporting regime’s:
 
-* ideology;
-* political system;
-* propaganda;
-* violence;
-* leader.
+- ideology;
+- political system;
+- propaganda;
+- violence;
+- leader.
 
 It may still want:
 
-* the surveillance system;
-* protest-control method;
-* border model;
-* relationship map;
-* administrative workflow.
+- the surveillance system;
+- protest-control method;
+- border model;
+- relationship map;
+- administrative workflow.
 
-Core line
+> Ideology may limit the audience. Utility expands it.
 
-Ideology may limit the audience. Utility expands it.
+An institution does not need to admire the regime.
 
-And:
+It only needs to admire the result.
 
-An institution does not need to admire the regime. It only needs to admire the result.
+---
 
-⸻
+## 🔭 Capability Not Allegation
 
-Section 23 — Capability not allegation
+This cluster maps:
 
-This guardrail must be explicit.
-
-The cluster identifies:
-
-* possible transmission routes;
-* capability structures;
-* known failure modes;
-* evidentiary questions.
+- possible transmission routes;
+- capability structures;
+- known failure modes;
+- evidentiary questions.
 
 It does not claim that:
 
-* every similar system was copied;
-* every contractor knows the end use;
-* every foreign request is political;
-* every host-state action is externally directed;
-* every shared list is abusive;
-* every surveillance tool is repressive.
+- every similar system was copied;
+- every contractor knows the end use;
+- every foreign request is political;
+- every host-state action is externally directed;
+- every shared list is abusive;
+- every surveillance tool is repressive.
 
-Core line
+> The cluster maps how a capability could travel. Attribution still requires evidence of the route.
 
-The cluster maps how a capability could travel. Attribution still requires evidence of the route.
+---
 
-⸻
-
-Section 24 — Similarity is not transmission
-
-This should be a cluster-level rule.
+## 🧬 Similarity Is Not Transmission
 
 Similar systems may arise because of:
 
-* common markets;
-* shared standards;
-* bureaucratic convergence;
-* similar security pressures;
-* common contractors;
-* independent invention;
-* ordinary policy diffusion.
+- common markets;
+- shared standards;
+- bureaucratic convergence;
+- similar security pressures;
+- common contractors;
+- independent invention;
+- ordinary policy diffusion.
 
-Core line
-
-Similarity identifies a question. Transmission evidence establishes an answer.
+> Similarity identifies a question. Transmission evidence establishes an answer.
 
 Useful transmission evidence may include:
 
-* contracts;
-* training;
-* direct citation;
-* shared personnel;
-* copied wording;
-* study visits;
-* shared contractors;
-* operational requests;
-* system access;
-* temporal sequence.
+- contracts;
+- training;
+- direct citation;
+- shared personnel;
+- copied wording;
+- study visits;
+- shared contractors;
+- operational requests;
+- system access;
+- temporal sequence.
 
-⸻
+Convergent evolution may be the correct explanation.
 
-Section 25 — Procurement is not deployment
+The model should be able to say so.
 
-The README should establish a sequence:
+---
+
+## 🧾 Procurement Is Not Deployment
+
+Use the following sequence:
 
 1. capability advertised;
 2. demonstration;
@@ -820,109 +865,111 @@ The README should establish a sequence:
 8. abusive use;
 9. knowledge and assistance.
 
-Core line
+> A brochure proves a claim by the vendor. A contract proves a transaction. Neither alone proves operational abuse.
 
-A brochure proves a claim by the vendor. A contract proves a transaction. Neither alone proves operational abuse.
+This ladder prevents the analysis from jumping from:
 
-This ladder should support the first two nodes.
+- product presence;
+- to target use;
+- to deliberate complicity.
 
-⸻
+---
 
-Section 26 — Cooperation is not automatically authoritarian
+## ⚖️ Cooperation Is Not Automatically Authoritarian
 
 International cooperation may legitimately address:
 
-* serious crime;
-* terrorism;
-* trafficking;
-* cyberattacks;
-* fraud;
-* weapons proliferation;
-* child abuse.
+- serious crime;
+- terrorism;
+- trafficking;
+- cyberattacks;
+- fraud;
+- weapons proliferation;
+- child abuse.
 
 The relevant questions are:
 
-* Was conduct identified?
-* Was evidence independently tested?
-* Was political motivation considered?
-* Were local legal thresholds applied?
-* Was action proportionate?
-* Was correction possible?
+- Was conduct identified?
+- Was evidence independently tested?
+- Was political motivation considered?
+- Were local legal thresholds applied?
+- Was action proportionate?
+- Was correction possible?
 
-Core line
+> The issue is not whether states cooperated. It is what the cooperation enabled and whom it treated as a legitimate target.
 
-The issue is not whether states cooperated. It is what the cooperation enabled and whom it treated as a legitimate target.
+---
 
-⸻
-
-Section 27 — Host-state benefit is not causation
+## 🌍 Host-State Benefit Is Not Causation
 
 A foreign state may benefit from a local decision it did not cause.
 
 A local state may independently:
 
-* investigate;
-* restrict;
-* refuse;
-* regulate;
-* overreact.
+- investigate;
+- restrict;
+- refuse;
+- regulate;
+- overreact.
 
-Core line
+> Alignment of outcome is not proof of direction.
 
-Alignment of outcome is not proof of direction.
+Benefit is not causation.
 
-This is essential for avoiding totalising attribution.
+Foreign interest is not local reliance.
 
-⸻
+Local reliance is not deliberate coordination.
 
-Section 28 — Convergent evolution
+The chain must be shown.
+
+---
+
+## 🌫️ Convergent Evolution
 
 Similar repression-like systems may arise independently.
 
 The reader should compare:
 
-* timing;
-* architecture;
-* language;
-* personnel;
-* legal structure;
-* vendors;
-* training;
-* policy references;
-* local incentives.
+- timing;
+- architecture;
+- language;
+- personnel;
+- legal structure;
+- vendors;
+- training;
+- policy references;
+- local incentives.
 
-Core line
-
-Institutions may converge because the same technologies and incentives make the same forms of control attractive.
+> Institutions may converge because the same technologies and incentives make the same forms of control attractive.
 
 Transmission should not be claimed unless the route is evidenced.
 
-⸻
+---
 
-Section 29 — Mixed causation
+## ⚖️ Mixed Causation
 
 A case may involve several causes:
 
-* a real security concern;
-* a politically interested foreign source;
-* local institutional bias;
-* contractor design;
-* administrative error;
-* diplomatic caution;
-* genuine safeguarding;
-* excessive risk aversion.
+- a real security concern;
+- a politically interested foreign source;
+- local institutional bias;
+- contractor design;
+- administrative error;
+- diplomatic caution;
+- genuine safeguarding;
+- excessive risk aversion.
 
-Core line
-
-The presence of a foreign influence route does not mean every local concern was invented, and the presence of genuine concern does not cleanse every foreign influence route.
+> The presence of a foreign influence route does not mean every local concern was invented, and the presence of genuine concern does not cleanse every foreign influence route.
 
 Mixed explanations should be treated as normal.
 
-⸻
+The analysis should not force one total cause where several partial causes are better supported.
 
-Section 30 — Evidentiary ladder
+---
 
-The README should include a cluster-wide ladder:
+## 🪜 Evidentiary Ladder
+
+Use a cluster-wide ladder:
 
 1. similar outcome;
 2. similar capability;
@@ -934,334 +981,342 @@ The README should include a cluster-wide ladder:
 8. model adoption;
 9. toolkit persistence or onward diffusion.
 
-Core line
+> Move from resemblance to route, from route to action, and from action to consequence.
 
-Move from resemblance to route, from route to action, and from action to consequence.
+Do not jump from:
 
-⸻
+- similarity to copying;
+- contact to cooperation;
+- cooperation to coercion;
+- purchase to deployment;
+- foreign interest to local action;
+- rebranding to proven continuity.
 
-Section 31 — The smallest claim first
+---
+
+## 🔬 The Smallest Claim First
 
 Possible smallest claims include:
 
-* one tool was purchased;
-* one training programme occurred;
-* one contractor integrated sensitive datasets;
-* one foreign alert was received;
-* one host institution relied on foreign information;
-* one copied category entered local policy;
-* one workflow survived programme closure.
+- one tool was purchased;
+- one training programme occurred;
+- one contractor integrated sensitive datasets;
+- one foreign alert was received;
+- one host institution relied on foreign information;
+- one copied category entered local policy;
+- one workflow survived programme closure.
 
-Core line
-
-The smallest useful claim identifies one capability, one route, one receiving institution, and one consequence.
+> The smallest useful claim identifies one capability, one route, one receiving institution, and one consequence.
 
 Avoid beginning with:
 
-* global coordination;
-* universal copying;
-* one total system;
-* ideological conspiracy.
+- global coordination;
+- universal copying;
+- one total system;
+- ideological conspiracy.
 
-⸻
+The smallest supportable claim is usually the strongest place to begin.
 
-Section 32 — What would weaken the model
+---
+
+## 🧯 What Would Weaken The Model
 
 Disconfirming evidence may include:
 
-* no transmission route;
-* genuinely independent development;
-* safeguards materially changing the capability;
-* a legitimate, conduct-based case;
-* local action predating foreign interest;
-* no shared source;
-* correction working;
-* programme closure removing the capability;
-* different architecture despite superficial similarity.
+- no transmission route;
+- genuinely independent development;
+- safeguards materially changing the capability;
+- a legitimate, conduct-based case;
+- local action predating foreign interest;
+- no shared source;
+- correction working;
+- programme closure removing the capability;
+- different architecture despite superficial similarity.
 
-Core line
+> A useful diffusion model must be capable of distinguishing export, imitation, convergence, and coincidence.
 
-A useful diffusion model must be capable of distinguishing export, imitation, convergence, and coincidence.
+The model becomes stronger when it can say:
 
-⸻
+- this does not fit;
+- this route is unsupported;
+- this safeguard materially changed the effect;
+- this explanation is more ordinary.
 
-Section 33 — What the cluster does not claim
+---
 
-The README should state clearly that the cluster does not claim:
+## 🚫 What This Cluster Does Not Claim
 
-* all surveillance is repression;
-* all contractors are complicit;
-* all international cooperation is authoritarian;
-* all watchlists are unlawful;
-* all host-state failures are collaboration;
-* every similar model was copied;
-* democratic safeguards are meaningless;
-* a tool produces identical politics everywhere.
+The cluster does not claim:
 
-Core line
+- all surveillance is repression;
+- all contractors are complicit;
+- all international cooperation is authoritarian;
+- all watchlists are unlawful;
+- all host-state failures are collaboration;
+- every similar model was copied;
+- democratic safeguards are meaningless;
+- a tool produces identical politics everywhere.
 
-Affordances matter, but law, configuration, oversight, purpose, and remedy can materially change the system’s effects.
+> Affordances matter, but law, configuration, oversight, purpose, and remedy can materially change the system’s effects.
 
-⸻
+---
 
-Section 34 — What responsible capability transfer requires
-
-Introduce the cluster-wide safeguard framework.
+## 🛡️ What Responsible Capability Transfer Requires
 
 Possible protections include:
 
-* human-rights export review;
-* transparent procurement;
-* end-user assessment;
-* end-use monitoring;
-* onward-transfer controls;
-* source lineage;
-* political-motivation review;
-* correction propagation;
-* independent review of foreign requests;
-* host-state protection duties;
-* contractor accountability;
-* sunset clauses;
-* decommissioning;
-* remedy.
+- human-rights export review;
+- transparent procurement;
+- end-user assessment;
+- end-use monitoring;
+- onward-transfer controls;
+- source lineage;
+- political-motivation review;
+- correction propagation;
+- independent review of foreign requests;
+- host-state protection duties;
+- contractor accountability;
+- sunset clauses;
+- decommissioning;
+- remedy.
 
-Core line
+> A safeguard that applies only at the original sale is too narrow for a capability designed to travel.
 
-A safeguard that applies only at the original sale is too narrow for a capability designed to travel.
+Accountability must follow:
 
-⸻
+- export;
+- support;
+- integration;
+- sharing;
+- local use;
+- copying;
+- inheritance.
 
-Section 35 — Capability-chain audit
+---
+
+## 🔍 Capability-Chain Audit
 
 A practical audit can ask:
 
-* What capability exists?
-* Who developed it?
-* Who transferred it?
-* Who integrated it?
-* Who supplied data?
-* Who trained the operators?
-* Which state or institution requested action?
-* Which record travelled?
-* Which host institution acted?
-* What method was later copied?
-* What remained after exposure or reform?
-* Who can correct the consequence?
+- What capability exists?
+- Who developed it?
+- Who transferred it?
+- Who integrated it?
+- Who supplied data?
+- Who trained the operators?
+- Which state or institution requested action?
+- Which record travelled?
+- Which host institution acted?
+- What method was later copied?
+- What remained after exposure or reform?
+- Who can correct the consequence?
 
-Core line
+> Follow the capability from origin to installation, from classification to local action, and from local action to inheritance.
 
-Follow the capability from origin to installation, from classification to local action, and from local action to inheritance.
+---
 
-⸻
-
-Section 36 — Do not build a counter-cuttings system
+## ⛔ Do Not Build A Counter-Cuttings System
 
 The defensive response must not reproduce:
 
-* secret watchlists;
-* relationship scoring;
-* unverified contractor lists;
-* guilt by association;
-* public accusation without evidence;
-* indiscriminate scraping;
-* intrusive tracking of staff or families;
-* ideological profiling.
+- secret watchlists;
+- relationship scoring;
+- unverified contractor lists;
+- guilt by association;
+- public accusation without evidence;
+- indiscriminate scraping;
+- intrusive tracking of staff or families;
+- ideological profiling.
 
-Core line
-
-The answer to opaque capability diffusion is not an amateur intelligence system with fewer safeguards.
+> The answer to opaque capability diffusion is not an amateur intelligence system with fewer safeguards.
 
 Defensive work should focus on:
 
-* public records;
-* documented routes;
-* lawful oversight;
-* consent;
-* source protection;
-* narrow claims;
-* institutional remedy.
+- public records;
+- documented routes;
+- lawful oversight;
+- consent;
+- source protection;
+- narrow claims;
+- institutional remedy.
 
-⸻
+---
 
-Node map
+# 🗺️ Node Map
 
-🧰 Exported Surveillance Capabilities
+## 🧰 Exported Surveillance Capabilities
 
-🧰 Exported Surveillance Capabilities⁠￼
-
-Examines:
-
-* what capability crossed the border;
-* in what form;
-* what service, training, data, or maintenance accompanied it;
-* what evidence proves advertisement, purchase, deployment, use, and abuse.
-
-Anchor question:
-
-What operational capacity did the recipient actually acquire?
-
-Anchor line:
-
-The relevant export is not the product name. It is the operational capacity the recipient acquires.
-
-⸻
-
-🏭 Private Contractors And Dual-Use Tools
-
-🏭 Private Contractors And Dual-Use Tools⁠￼
+[🧰 Exported Surveillance Capabilities](./🧰_exported_surveillance_capabilities.md)
 
 Examines:
 
-* developers;
-* resellers;
-* integrators;
-* cloud providers;
-* data brokers;
-* consultants;
-* subcontractors;
-* maintenance;
-* commercially fragmented responsibility.
+- what capability crossed the border;
+- in what form;
+- what service, training, data, or maintenance accompanied it;
+- what evidence proves advertisement, purchase, deployment, use, and abuse.
 
-Anchor question:
+**Anchor question:**
 
-Which commercial actors made the capability deployable, scalable, and politically distant?
+> What operational capacity did the recipient actually acquire?
 
-Anchor line:
+**Anchor line:**
 
-The contractor does not need to endorse the regime. It only needs to keep the system operational.
+> The relevant export is not the product name. It is the operational capacity the recipient acquires.
 
-⸻
+---
 
-🤝 Authoritarian Collaboration
+## 🏭 Private Contractors And Dual-Use Tools
 
-🤝 Authoritarian Collaboration⁠￼
+[🏭 Private Contractors And Dual-Use Tools](./🏭_private_contractors_and_dual_use_tools.md)
 
 Examines:
 
-* intelligence liaison;
-* police cooperation;
-* diplomatic pressure;
-* joint training;
-* strategic deference;
-* migration and financial cooperation;
-* cooperation that advances lawful-political repression.
+- developers;
+- resellers;
+- integrators;
+- cloud providers;
+- data brokers;
+- consultants;
+- subcontractors;
+- maintenance;
+- commercially fragmented responsibility.
 
-Anchor question:
+**Anchor question:**
 
-When does ordinary international cooperation begin helping one state extend coercive reach through another?
+> Which commercial actors made the capability deployable, scalable, and politically distant?
 
-Anchor line:
+**Anchor line:**
 
-Friendship between states is not a substitute for independent evidence.
+> The contractor does not need to endorse the regime. It only needs to keep the system operational.
 
-⸻
+---
 
-🔄 Shared Watchlists And Return Requests
+## 🤝 Authoritarian Collaboration
 
-🔄 Shared Watchlists And Return Requests⁠￼
-
-Examines:
-
-* alerts;
-* watchlists;
-* names;
-* biometrics;
-* handling codes;
-* common-source replication;
-* correction failure;
-* extradition, deportation, readmission, and coerced return.
-
-Anchor question:
-
-What happens when one state’s classification becomes another state’s reason to act?
-
-Anchor line:
-
-The list travels more easily than the correction.
-
-⸻
-
-🌍 Host-State Assistance
-
-🌍 Host-State Assistance⁠￼
+[🤝 Authoritarian Collaboration](./🤝_authoritarian_collaboration.md)
 
 Examines:
 
-* police;
-* intelligence;
-* immigration;
-* finance;
-* professional systems;
-* events;
-* community intermediaries;
-* informal warnings;
-* failure to interrupt known coercion.
+- intelligence liaison;
+- police cooperation;
+- diplomatic pressure;
+- joint training;
+- strategic deference;
+- migration and financial cooperation;
+- cooperation that advances lawful-political repression.
 
-Anchor question:
+**Anchor question:**
 
-What local power gave the foreign objective practical force?
+> When does ordinary international cooperation begin helping one state extend coercive reach through another?
 
-Anchor line:
+**Anchor line:**
 
-The request may originate abroad. The decision to honour it remains local.
+> Friendship between states is not a substitute for independent evidence.
 
-⸻
+---
 
-🧬 Copying Successful Repression Models
+## 🔄 Shared Watchlists And Return Requests
 
-🧬 Copying Successful Repression Models⁠￼
+[🔄 Shared Watchlists And Return Requests](./🔄_shared_watchlists_and_return_requests.md)
 
 Examines:
 
-* policy borrowing;
-* legal templates;
-* copied workflows;
-* risk categories;
-* consultants;
-* study visits;
-* shared contractors;
-* crisis observation;
-* institutional admiration.
+- alerts;
+- watchlists;
+- names;
+- biometrics;
+- handling codes;
+- common-source replication;
+- correction failure;
+- extradition, deportation, readmission, and coerced return.
 
-Anchor question:
+**Anchor question:**
 
-How does a method become ordinary administrative practice without a live request or direct export?
+> What happens when one state’s classification becomes another state’s reason to act?
 
-Anchor line:
+**Anchor line:**
 
-A successful repression model does not need admirers who call it repression. It needs administrators who call it effective.
+> The list travels more easily than the correction.
 
-⸻
+---
 
-📦 When The Toolkit Travels Better Than The Regime
+## 🌍 Host-State Assistance
 
-📦 When The Toolkit Travels Better Than The Regime⁠￼
+[🌍 Host-State Assistance](./🌍_host_state_assistance.md)
 
 Examines:
 
-* modularity;
-* rebranding;
-* legal adaptation;
-* staff and data inheritance;
-* contractor continuity;
-* capability substitution;
-* toolkit survival after scandal, emergency, reform, or regime change.
+- police;
+- intelligence;
+- immigration;
+- finance;
+- professional systems;
+- events;
+- community intermediaries;
+- informal warnings;
+- failure to interrupt known coercion.
 
-Anchor question:
+**Anchor question:**
 
-What remains once the original government, programme, vendor, or political justification is gone?
+> What local power gave the foreign objective practical force?
 
-Anchor line:
+**Anchor line:**
 
-The regime may fall. The licence renews automatically.
+> The request may originate abroad. The decision to honour it remains local.
 
-⸻
+---
 
-Section 37 — Full cluster movement
+## 🧬 Copying Successful Repression Models
 
-The README should gather the nodes into a single prose sequence.
+[🧬 Copying Successful Repression Models](./🧬_copying_successful_repression_models.md)
 
-Suggested movement
+Examines:
+
+- policy borrowing;
+- legal templates;
+- copied workflows;
+- risk categories;
+- consultants;
+- study visits;
+- shared contractors;
+- crisis observation;
+- institutional admiration.
+
+**Anchor question:**
+
+> How does a method become ordinary administrative practice without a live request or direct export?
+
+**Anchor line:**
+
+> A successful repression model does not need admirers who call it repression. It needs administrators who call it effective.
+
+---
+
+## 📦 When The Toolkit Travels Better Than The Regime
+
+[📦 When The Toolkit Travels Better Than The Regime](./📦_when_the_toolkit_travels_better_than_the_regime.md)
+
+Examines:
+
+- modularity;
+- rebranding;
+- legal adaptation;
+- staff and data inheritance;
+- contractor continuity;
+- capability substitution;
+- toolkit survival after scandal, emergency, reform, or regime change.
+
+**Anchor question:**
+
+> What remains once the original government, programme, vendor, or political justification is gone?
+
+**Anchor line:**
+
+> The regime may fall. The licence renews automatically.
+
+---
+
+## 🔗 Full Cluster Movement
 
 First, the capability crosses the border.
 
@@ -1277,134 +1332,172 @@ Other institutions copy the method.
 
 Finally, the toolkit becomes durable enough to survive the source that first made it visible.
 
-Then:
+> The cutting has rooted when nobody needs to remember where it came from in order to keep using it.
 
-The cutting has rooted when nobody needs to remember where it came from in order to keep using it.
+---
 
-⸻
-
-Section 38 — Small-step reader audit
+## 🪜 Small-Step Reader Audit
 
 A compact cluster audit can ask:
 
-* What capability appears to have travelled?
-* Was it a tool, service, dataset, request, category, or workflow?
-* Who transmitted it?
-* Who received it?
-* What local translation occurred?
-* Which actor had decision authority?
-* What evidence proves the route?
-* Was the method independently copied?
-* What survived after the original programme changed?
-* What ordinary explanation remains?
-* What is the smallest supportable claim?
+- What capability appears to have travelled?
+- Was it a tool, service, dataset, request, category, or workflow?
+- Who transmitted it?
+- Who received it?
+- What local translation occurred?
+- Which actor had decision authority?
+- What evidence proves the route?
+- Was the method independently copied?
+- What survived after the original programme changed?
+- What ordinary explanation remains?
+- What is the smallest supportable claim?
 
-⸻
+---
 
-Section 39 — Protective orientation
+## 🛡️ Protective Orientation
 
-The README should conclude that accountability must travel with the capability.
+Accountability must travel with the capability.
 
 Necessary protections may include:
 
-* export controls;
-* contractor oversight;
-* transparent procurement;
-* end-use monitoring;
-* independent review of foreign information;
-* correction across systems;
-* host-state protection;
-* political-motivation assessment;
-* decommissioning;
-* remedy;
-* preservation of lessons without preservation of abusive target data.
+- export controls;
+- contractor oversight;
+- transparent procurement;
+- end-use monitoring;
+- independent review of foreign information;
+- correction across systems;
+- host-state protection;
+- political-motivation assessment;
+- decommissioning;
+- remedy;
+- preservation of lessons without preservation of abusive target data.
 
-Core line
+> If capability crosses borders, accountability cannot stop at them.
 
-If capability crosses borders, accountability cannot stop at them.
+> A system designed to travel must carry enforceable limits, correction duties, and an exit route wherever it goes.
 
-And:
+---
 
-A system designed to travel must carry enforceable limits, correction duties, and an exit route wherever it goes.
-
-⸻
-
-Section 40 — Why this belongs in 🌔 Small Steps
+## 🌔 Why This Belongs In Small Steps
 
 The reader may not be able to prove an entire transnational system.
 
 They can still begin with:
 
-* one contract;
-* one training programme;
-* one shared alert;
-* one copied phrase;
-* one host-state action;
-* one successor vendor;
-* one retained workflow.
+- one contract;
+- one training programme;
+- one shared alert;
+- one copied phrase;
+- one host-state action;
+- one successor vendor;
+- one retained workflow.
 
-Core line
+> The whole network may remain difficult to see. One transmission route can still be named, documented, and challenged.
 
-The whole network may remain difficult to see. One transmission route can still be named, documented, and challenged.
+The practical orientation is:
 
-This preserves the wider branch’s practical orientation.
+- smallest claim first;
+- capability not allegation;
+- route before attribution;
+- correction before accumulation;
+- protection without counter-surveillance.
 
-⸻
+---
 
-Compact cluster definition
+## 📖 Compact Cluster Definition
 
-Cuttings describes the movement of surveillance, classification, relationship-governance, and social-control capabilities between states, contractors, institutions, jurisdictions, policy fields, and political systems.
+**Cuttings** describes the movement of surveillance, classification, relationship-governance, and social-control capabilities between states, contractors, institutions, jurisdictions, policy fields, and political systems.
 
 The capability may travel through:
 
-* export;
-* licensing;
-* technical support;
-* procurement;
-* private contracting;
-* intelligence and police cooperation;
-* shared lists;
-* return requests;
-* host-state action;
-* policy imitation;
-* administrative inheritance.
+- export;
+- licensing;
+- technical support;
+- procurement;
+- private contracting;
+- intelligence and police cooperation;
+- shared lists;
+- return requests;
+- host-state action;
+- policy imitation;
+- administrative inheritance.
 
 The central danger is that a capability developed for repression may be repackaged as ordinary infrastructure, reproduced under different legal and political language, and preserved after the regime, programme, emergency, or vendor that first made it visible has disappeared.
 
-⸻
+---
 
-Cluster closing
+## 🌱 Cluster Closing
 
-The close should return to the cutting metaphor without becoming decorative.
+The cutting leaves the original plant as:
 
-Suggested closing passage
+- a tool;
+- a contract;
+- a request;
+- a category;
+- an institutional lesson.
 
-The cutting leaves the original plant as a tool, a contract, a request, a category, or an institutional lesson.
+It enters another system through:
 
-It enters another system through procurement, policing, migration, diplomacy, professional caution, or administrative reform.
+- procurement;
+- policing;
+- migration;
+- diplomacy;
+- professional caution;
+- administrative reform.
 
 If it takes root, the new institution no longer needs the original exporter to reproduce the capability.
 
-Then:
+> The cutting does not need the original ideology.
 
-The cutting does not need the original ideology.
+> It needs data, authority, workflow, maintenance, and an institution willing to call the result useful.
 
-It needs data, authority, workflow, maintenance, and an institution willing to call the result useful.
+And:
 
-And the final cluster line:
+> The plant can die. The toolkit has already learned how to travel.
 
-The plant can die. The toolkit has already learned how to travel.
+---
 
-⸻
+## 🚪 Return Route
 
-Likely next route
+Return to:
 
-The README should link back to:
+- [🥀 Little Database Of Horrors](../README.md)
 
-* [🥀 Little Database Of Horrors](../README.md)
+The next route should be chosen from the wider capability map according to what is being followed next:
 
-The next cluster after 🌱 Cuttings has not yet been fixed in this planning sequence, so the closing should avoid inventing one.
+- the regime;
+- the institution;
+- the target population;
+- the investigation method;
+- the resistance strategy;
+- the point at which the imported system begins to strain.
 
-A safe final route is:
+---
 
-Return to the wider capability map to follow what happens when portable systems meet new jurisdictions, limits, resistance, and institutional strain.
+## 🌌 Constellations
+
+🌱 🧰 🏭 🤝 🔄 🌍 🧬 📦 — *export, market, collaboration, shared records, local action, model replication, and toolkit survival.*
+
+---
+
+## ✨ Stardust
+
+capability diffusion, surveillance export, private contractors, authoritarian collaboration, shared watchlists, return requests, host-state assistance, model replication, toolkit survival, source lineage, common-source replication, correction failure, relationship governance, administrative inheritance, transnational repression
+
+---
+
+## 🏮 Footer
+
+*🌱 Cuttings* is part of *🥀 Little Database Of Horrors* within *🚀 Defence Against Digital Authoritarianism*.  
+It follows how surveillance, classification, relationship-governance, and social-control capabilities travel through products, markets, state cooperation, shared records, local administration, institutional imitation, and capability inheritance.
+
+> 📡 Cross-references:
+>
+> - [🥀 Little Database Of Horrors](../README.md) — *the wider capability map*
+> - [🦷 The Plant Has Teeth](../🦷_The_Plant_Has_Teeth/README.md) — *how classification becomes relational consequence*
+> - [🧰 Exported Surveillance Capabilities](./🧰_exported_surveillance_capabilities.md) — *where the diffusion route begins*
+> - [📦 When The Toolkit Travels Better Than The Regime](./📦_when_the_toolkit_travels_better_than_the_regime.md) — *where the cluster’s argument concludes*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-07-21_
