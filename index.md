@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-22 17:15:08 UTC_
+_Generated on 2026-07-22 17:26:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6089,7 +6089,6 @@ _Generated on 2026-07-22 17:15:08 UTC_
           - [`🪴_the_system_at_rest.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/🪴_the_system_at_rest.md)
         - [**🌱_Cuttings/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/README.md)
-          - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/notes.txt)
           - [`🌍_host_state_assistance.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/🌍_host_state_assistance.md)
           - [`🏭_private_contractors_and_dual_use_tools.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/🏭_private_contractors_and_dual_use_tools.md)
           - [`📦_when_the_toolkit_travels_better_than_the_regime.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/📦_when_the_toolkit_travels_better_than_the_regime.md)
