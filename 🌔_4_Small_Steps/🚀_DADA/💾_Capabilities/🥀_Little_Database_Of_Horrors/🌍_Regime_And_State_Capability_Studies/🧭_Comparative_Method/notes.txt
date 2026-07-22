@@ -4,3 +4,852 @@
             │   │   ├── ⚖️_capability_intent_and_documented_use.md
             │   │   └── 🧯_avoiding_false_equivalence.md
             │   │
+
+---
+
+Yes. This folder should function as the methodological spine for every later state study. The country nodes should feel different because the evidence differs, but they should all be asking the same underlying questions.
+
+🧭_Comparative_Method/README.md
+
+Purpose: Orient the reader to the comparative method before they enter any country study.
+
+Core plan
+
+* Explain why comparison is necessary: similar capabilities travel across states, contractors, alliances, and administrative systems.
+* Establish that comparison is about mechanisms, not ranking states by wickedness.
+* Set out the shared analytical sequence:
+    * documented conduct;
+    * capability;
+    * access;
+    * infrastructure;
+    * intent and incentive;
+    * implementation;
+    * attribution;
+    * outcome;
+    * safeguards;
+    * confidence.
+* Explain that every country study should distinguish:
+    * the state;
+    * governing institutions;
+    * intelligence and security bodies;
+    * ruling parties;
+    * proxies;
+    * diplomatic missions;
+    * commercial contractors;
+    * diaspora communities.
+* State that regional similarities do not erase national, institutional, historical, or political differences.
+* Explain the role of dates: practices, governments, laws, alliances, and technologies change.
+* Introduce the four method nodes and show when each should be consulted.
+* Include a compact reusable country-study template.
+* End with the central rule:
+
+Use the same questions across cases without demanding the same answers.
+
+⸻
+
+🔍_questions_to_ask_of_every_state.md
+
+Purpose: Create the standard question set used to research and draft every state study.
+
+Proposed structure
+
+1. What is the precise unit of analysis?
+
+Ask whether the node concerns:
+
+* the state as a whole;
+* one government or period;
+* one agency;
+* one ruling party;
+* one territorial authority;
+* one security service;
+* one network of state-linked actors.
+
+This prevents “Iran,” “China,” or “Russia” from becoming shorthand for every institution and person connected to the country.
+
+2. What conduct is documented?
+
+Ask:
+
+* What has been publicly established?
+* What happened, to whom, where, and when?
+* Was the conduct domestic or transnational?
+* Was it isolated, repeated, systematic, or policy-based?
+* Which sources establish it?
+
+Documented conduct should come before speculative capability.
+
+3. What capability exists?
+
+Identify relevant capacities such as:
+
+* communications interception;
+* spyware;
+* social-graph analysis;
+* border and travel data;
+* financial monitoring;
+* biometric systems;
+* platform influence;
+* family mapping;
+* diplomatic reporting;
+* extradition or rendition;
+* identity and passport control;
+* proxy or community-intermediary networks.
+
+The node should say what the capability can do and what inputs it requires.
+
+4. Who has access?
+
+Ask which actors can realistically access:
+
+* data;
+* infrastructure;
+* legal authority;
+* contractors;
+* diplomatic channels;
+* partner-state systems;
+* community information;
+* family or employment leverage.
+
+Capability without access should remain clearly labelled.
+
+5. What administrative infrastructure supports it?
+
+Examine:
+
+* laws;
+* regulations;
+* databases;
+* procurement;
+* ministries;
+* security bodies;
+* border systems;
+* consular processes;
+* public-private partnerships;
+* emergency powers;
+* data-sharing agreements.
+
+The goal is to show where capability becomes operational.
+
+6. What political incentives exist?
+
+Ask what the state may seek to protect or suppress:
+
+* regime continuity;
+* territorial claims;
+* elite wealth;
+* ruling-party legitimacy;
+* wartime cohesion;
+* sectarian or ethnic hierarchy;
+* international reputation;
+* diplomatic relationships;
+* economic interests;
+* control of exile politics.
+
+Incentive informs plausibility but does not prove deployment.
+
+7. Who is targeted?
+
+Identify whether documented targeting affects:
+
+* dissidents;
+* journalists;
+* defectors;
+* religious minorities;
+* ethnic minorities;
+* separatist movements;
+* opposition parties;
+* human-rights defenders;
+* former officials;
+* academics;
+* family members;
+* diaspora organisations;
+* ordinary migrants or refugees.
+
+Avoid treating whole diasporas as politically uniform.
+
+8. How are relationships used?
+
+This should be the Little Database of Horrors-specific section.
+
+Ask whether systems use:
+
+* family links;
+* professional ties;
+* religious networks;
+* community organisations;
+* financial dependencies;
+* shared travel;
+* online association;
+* legal representation;
+* media contacts;
+* political coalitions.
+
+Then ask whether relationships are merely observed or actively shaped.
+
+9. What role do embassies and consulates play?
+
+Examine documented or alleged use of:
+
+* passport services;
+* visa decisions;
+* welfare checks;
+* event monitoring;
+* representative selection;
+* diplomatic reporting;
+* pressure on relatives;
+* informal warnings;
+* return encouragement;
+* community mediation.
+
+Do not presume every diplomatic contact is coercive.
+
+10. What role do proxies and intermediaries play?
+
+Consider:
+
+* community leaders;
+* religious bodies;
+* business networks;
+* student associations;
+* charities;
+* political groups;
+* private investigators;
+* contractors;
+* organised crime;
+* militias;
+* aligned media.
+
+The node should distinguish state direction, alignment, opportunism, and independent action.
+
+11. What cross-border cooperation matters?
+
+Ask whether capability is extended through:
+
+* intelligence sharing;
+* extradition;
+* deportation;
+* rendition;
+* regional organisations;
+* shared watchlists;
+* border systems;
+* commercial vendors;
+* cloud infrastructure;
+* policing agreements;
+* migration partnerships.
+
+12. How does the host state respond?
+
+Assess whether host states:
+
+* investigate;
+* prosecute;
+* warn communities;
+* provide protection;
+* restrict foreign officials;
+* suspend cooperation;
+* ignore complaints;
+* prioritise alliances;
+* facilitate return;
+* share data;
+* minimise the conduct.
+
+Host-state conduct is part of the capability environment.
+
+13. What safeguards exist?
+
+Identify:
+
+* judicial review;
+* parliamentary oversight;
+* data-protection rights;
+* independent regulators;
+* diplomatic restrictions;
+* asylum protections;
+* appeal routes;
+* correction mechanisms;
+* transparency duties;
+* civil-society monitoring.
+
+Distinguish safeguards on paper from safeguards that work.
+
+14. What evidence would establish actual use?
+
+Specify the records needed, such as:
+
+* access logs;
+* procurement records;
+* official instructions;
+* court findings;
+* diplomatic correspondence;
+* technical forensics;
+* witness testimony;
+* consistent operational patterns;
+* shared wording;
+* decision records.
+
+15. What rival explanations remain?
+
+Require every study to consider:
+
+* domestic community conflict;
+* commercial surveillance;
+* ordinary policing;
+* platform behaviour;
+* employer action;
+* unrelated criminality;
+* administrative failure;
+* factional competition;
+* independent proxy action;
+* coincidence.
+
+16. What would weaken or disprove the claim?
+
+Each study should include explicit disproof conditions.
+
+Examples:
+
+* no access to the relevant data;
+* evidence that the decision predated the alleged trigger;
+* independent systems producing the same outcome;
+* absence of the claimed institutional link;
+* technical findings inconsistent with the proposed mechanism.
+
+17. What confidence level is justified?
+
+Close by assigning confidence separately to:
+
+* capability;
+* access;
+* intent;
+* implementation;
+* attribution;
+* causation.
+
+One overall confidence label is too blunt.
+
+⸻
+
+📏_evidence_and_confidence_scale.md
+
+Purpose: Provide a disciplined way to describe how strongly each claim is supported.
+
+Proposed structure
+
+1. Why a confidence scale is needed
+
+Explain that state capability research often mixes:
+
+* technical documentation;
+* court findings;
+* survivor testimony;
+* government allegations;
+* intelligence claims;
+* journalism;
+* inference;
+* political rhetoric.
+
+The scale prevents all of these from being treated as equivalent.
+
+2. Evidence categories
+
+A useful hierarchy might be:
+
+A. Established
+
+Supported by strong primary evidence such as:
+
+* final court findings;
+* official admissions;
+* authenticated records;
+* verified technical forensics;
+* multiple independent primary sources.
+
+B. Strongly corroborated
+
+Supported by several credible and substantially independent sources, though not finally adjudicated or fully disclosed.
+
+C. Credibly reported
+
+Supported by reputable investigation, testimony, or institutional reporting, but with important evidentiary gaps.
+
+D. Reasonable inference
+
+The known facts support the interpretation, but direct evidence of one or more necessary links is absent.
+
+E. Plausible capability
+
+The mechanism is technically and operationally possible, but there is insufficient evidence that it was used in the case discussed.
+
+F. Unsupported or speculative
+
+The claim currently lacks a reliable evidentiary route and should not be stated as fact.
+
+The letters are optional; descriptive labels should remain visible.
+
+3. Confidence should attach to propositions
+
+A node should not say:
+
+This country is high confidence.
+
+It should say:
+
+* high confidence that the capability exists;
+* moderate confidence that a named institution has access;
+* low confidence that it was used in this incident;
+* no current basis for attributing causation.
+
+4. Source quality
+
+Assess:
+
+* proximity to the event;
+* independence;
+* expertise;
+* access to records;
+* transparency of method;
+* corroboration;
+* known incentives;
+* correction history;
+* whether claims are primary or recycled.
+
+5. Apparent corroboration
+
+Explain how one original allegation may be repeated through:
+
+* news reports;
+* NGO briefings;
+* parliamentary statements;
+* policy documents;
+* later commentary.
+
+Ten repetitions may still represent one source.
+
+6. State and intelligence claims
+
+Government attribution should be recorded, but the node should ask:
+
+* Was evidence published?
+* Was the claim judicially tested?
+* Was confidence language provided?
+* Were alternative explanations addressed?
+* Does the government have a political interest?
+
+Official does not mean infallible.
+
+7. Testimony
+
+Explain that testimony may establish direct experience while leaving attribution uncertain.
+
+A person may reliably report:
+
+* a threat;
+* surveillance;
+* contact;
+* family pressure;
+* unexplained knowledge;
+* detention;
+* account interference.
+
+They may not be able to establish the whole institutional route.
+
+8. Negative evidence
+
+Absence of public evidence may mean:
+
+* the conduct did not occur;
+* it was not investigated;
+* records remain secret;
+* victims could not report;
+* evidence was destroyed;
+* the capability was not used;
+* researchers looked in the wrong place.
+
+Absence should neither automatically acquit nor convict.
+
+9. Confidence-changing events
+
+List what should trigger reassessment:
+
+* declassification;
+* court judgment;
+* leaked records;
+* technical analysis;
+* official correction;
+* retraction;
+* contradictory testimony;
+* change of government;
+* discovery of source dependence.
+
+10. Suggested country-node presentation
+
+Each node could include a small section:
+
+Confidence snapshot
+
+* Capability: high
+* Access: moderate
+* Documented transnational use: high
+* Use of relationship scoring: low or unknown
+* State attribution in specified incidents: variable
+* Evidence gaps: listed explicitly
+
+This prevents confidence in one mechanism from spilling into every other claim.
+
+⸻
+
+⚖️_capability_intent_and_documented_use.md
+
+Purpose: Prevent capability, motive, implementation, and conduct from collapsing into one another.
+
+Proposed structure
+
+1. The three central distinctions
+
+Capability
+
+The actor or system can perform the function.
+
+Intent
+
+The actor has expressed, demonstrated, or can reasonably be inferred to possess a relevant objective.
+
+Documented use
+
+Evidence shows that the capability was actually deployed.
+
+A fourth category should be added:
+
+Effect
+
+Evidence shows that deployment caused or materially contributed to the observed outcome.
+
+2. The full evidentiary chain
+
+Use the existing Capabilities ladder:
+
+capability → access → implementation → attribution → causation
+
+Then position intent alongside it rather than inside it.
+
+Intent may increase plausibility, but it does not substitute for any missing step.
+
+3. Capability without intent
+
+Examples in principle:
+
+* a state acquires spyware for ordinary criminal investigations;
+* a border system stores extensive data;
+* an embassy maintains community contacts;
+* a platform can map associations.
+
+The capability exists even where there is no evidence of political use.
+
+4. Intent without capability
+
+A government may openly want to silence critics but lack:
+
+* technical access;
+* host-state cooperation;
+* money;
+* competent personnel;
+* jurisdiction;
+* reliable data.
+
+Hostility alone does not prove operational reach.
+
+5. Capability and intent without documented use
+
+This is the most tempting inferential jump.
+
+The node should show why:
+
+* possession;
+* motive;
+* opportunity;
+
+still do not establish that a specific operation happened.
+
+6. Documented use without central direction
+
+A state-linked actor may act through:
+
+* local initiative;
+* proxy enthusiasm;
+* contractor overreach;
+* factional rivalry;
+* corrupt officials;
+* loosely aligned community actors.
+
+Documented harm does not always prove a single central command.
+
+7. Policy, pattern, and incident
+
+Separate:
+
+* one incident;
+* repeated operational pattern;
+* authorised programme;
+* formal policy;
+* structural state practice.
+
+Evidence sufficient for an incident claim may not support a policy claim.
+
+8. Public rhetoric and private intent
+
+State rhetoric may:
+
+* reveal objectives;
+* legitimise targeting;
+* instruct supporters;
+* exaggerate for domestic audiences;
+* conceal actual priorities.
+
+It is evidence of political context, not automatic proof of operational instruction.
+
+9. Foreseeable temptation
+
+This should be a distinct analytical category.
+
+A capability may create a foreseeable temptation where:
+
+* the state has relevant political incentives;
+* safeguards are weak;
+* the infrastructure already exists;
+* similar uses are documented elsewhere;
+* crisis lowers restraint.
+
+“Foreseeable temptation” is a governance warning, not an allegation of deployment.
+
+10. Recommended wording
+
+Include examples of disciplined language:
+
+* “The state possesses the technical capability to…”
+* “Public policy indicates an interest in…”
+* “Documented cases establish that the capability has been used against…”
+* “The available evidence does not establish use in this instance.”
+* “The combination creates a foreseeable risk of expansion.”
+* “Attribution remains contested.”
+* “No causal link has yet been demonstrated.”
+
+11. Common analytical failures
+
+Cover:
+
+* capability laundering into allegation;
+* motive laundering into proof;
+* one agency standing in for the whole state;
+* one historical period standing in for the present;
+* one documented incident becoming a universal practice;
+* attribution being inferred from geopolitical convenience;
+* outcome being treated as proof of mechanism.
+
+12. Country-node requirement
+
+Every country study should include separate headings or statements for:
+
+* documented capability;
+* documented use;
+* stated or inferred intent;
+* evidence gaps;
+* confidence;
+* what remains unproven.
+
+⸻
+
+🧯_avoiding_false_equivalence.md
+
+Purpose: Allow meaningful comparison without flattening radically different systems, harms, scales, or evidence.
+
+Proposed structure
+
+1. Why false equivalence matters
+
+Comparison can fail in two directions:
+
+* declaring all states essentially the same;
+* treating familiar democracies or allies as categorically incapable of comparable mechanisms.
+
+The node should reject both.
+
+2. Compare mechanisms, not labels
+
+Two states may both use:
+
+* spyware;
+* family pressure;
+* border controls;
+* association mapping;
+* community intermediaries.
+
+But differ dramatically in:
+
+* scale;
+* legality;
+* violence;
+* oversight;
+* appeal;
+* target population;
+* frequency;
+* purpose;
+* consequences.
+
+3. Dimensions that must remain visible
+
+Require comparison across:
+
+* political structure;
+* rule of law;
+* judicial independence;
+* press freedom;
+* detention risk;
+* torture or disappearance risk;
+* death penalty;
+* extraterritorial violence;
+* surveillance scale;
+* data centralisation;
+* institutional fragmentation;
+* available remedies;
+* correction routes;
+* host-state cooperation;
+* targeting breadth;
+* evidentiary confidence.
+
+4. Similar tool, different environment
+
+A shared vendor or technical system does not create identical political use.
+
+The same platform may support:
+
+* ordinary fraud prevention;
+* protest monitoring;
+* ethnic classification;
+* exile targeting;
+* border exclusion;
+* political suppression.
+
+Context determines consequence.
+
+5. Similar outcome, different mechanism
+
+A dissident may lose access because of:
+
+* direct state instruction;
+* sanctions compliance;
+* platform moderation;
+* community gatekeeping;
+* employer fear;
+* bank de-risking;
+* administrative error.
+
+Similar harm does not prove equivalent architecture.
+
+6. Democratic-state temptations
+
+Explain that democracies may possess:
+
+* powerful surveillance;
+* data-fusion systems;
+* border powers;
+* covert disruption capability;
+* intelligence partnerships;
+* weakly visible administrative sanctions.
+
+The presence of elections does not make those mechanisms harmless.
+
+But meaningful distinctions may include:
+
+* courts;
+* press scrutiny;
+* lawful opposition;
+* disclosure duties;
+* regulators;
+* elections;
+* remedies;
+* institutional contestation.
+
+Those safeguards should be examined, not presumed effective.
+
+7. Allied-state exceptionalism
+
+Strategic allies may receive softer language despite stronger evidence.
+
+The node should warn against:
+
+* euphemism for allies;
+* inflated certainty for adversaries;
+* accepting security claims selectively;
+* ignoring host-state complicity;
+* treating trade or intelligence relationships as evidence of restraint.
+
+8. Temporal false equivalence
+
+A country may change through:
+
+* revolution;
+* war;
+* leadership transition;
+* reform;
+* state collapse;
+* democratic backsliding;
+* new legislation.
+
+The node should specify the relevant period rather than assigning one timeless national character.
+
+9. Population and state distinction
+
+Never collapse:
+
+* government into people;
+* security service into diaspora;
+* ruling party into ethnicity;
+* religious identity into state policy;
+* nationality into political loyalty.
+
+This is especially important where diaspora communities are themselves targets of the state being studied.
+
+10. Asymmetry is analytically useful
+
+The studies should be allowed to conclude:
+
+* one case has extensive documented lethal repression;
+* another shows technical capability but limited public evidence of overseas use;
+* another relies primarily on family pressure;
+* another depends on allied-state cooperation;
+* another is too fragmented for clean state attribution.
+
+Consistency of method does not require symmetry of findings.
+
+11. A practical comparison test
+
+Before comparing two cases, ask:
+
+* Is the same proposition being compared?
+* Is the time period comparable?
+* Is the evidence equally strong?
+* Is the scale similar?
+* Are the harms similar?
+* Are remedies available?
+* Is state direction established in both?
+* Are we comparing capability to conduct?
+* Are geopolitical preferences shaping the language?
+
+12. Closing principle
+
+Equal scrutiny does not require equal conclusions.
+
+That should probably be the governing line of the node.
+
+⸻
+
+Recommended drafting order
+
+1. README.md
+2. 🔍_questions_to_ask_of_every_state.md
+3. 📏_evidence_and_confidence_scale.md
+4. ⚖️_capability_intent_and_documented_use.md
+5. 🧯_avoiding_false_equivalence.md
+
+The questions node builds the instrument. The confidence scale tells us how strongly its answers may be stated. The capability/intent node prevents inferential collapse. The false-equivalence node governs comparison once multiple studies exist.
