@@ -1,1226 +1,1198 @@
+# 🤝 Authoritarian Collaboration
+**First created:** 2026-07-21 | **Last updated:** 2026-07-21  
+*How states, security bodies, police, diplomatic missions, and aligned institutions can extend coercive reach across borders through cooperation that gives foreign political classifications local force.*
 
-notes:  
+---
 
-
-🤝 authoritarian_collaboration.md — Node Plan
-
-Core purpose
-
-This node should examine how states, security bodies, police, diplomatic missions, intelligence services, and aligned political institutions may cooperate in ways that extend coercive reach across borders.
-
-The previous node asks:
-
-Which companies make the capability portable?
-
-This node asks:
-
-What happens when governments supply one another with authority, legitimacy, access, information, and local enforcement power?
-
-Its central proposition should be:
-
-Collaboration becomes authoritarian in function when cooperation helps one state suppress lawful political or social life through another state’s institutions.
-
-The node should not define authoritarian collaboration merely as:
-
-* two authoritarian governments speaking;
-* ordinary diplomatic relations;
-* intelligence liaison;
-* police cooperation;
-* joint training;
-* migration enforcement.
-
-States legitimately cooperate against:
-
-* serious crime;
-* trafficking;
-* terrorism;
-* cyberattacks;
-* fraud;
-* child abuse;
-* weapons proliferation.
-
-The analytical task is narrower:
-
-* What was requested?
-* What conduct was alleged?
-* What evidence travelled?
-* Did the receiving state independently assess it?
-* What local powers were used?
-* What happened to the person or relationship afterward?
-
-⸻
-
-Governing proposition
-
-Security cooperation does not become legitimate merely because both governments call the subject a risk.
-
-Supporting lines:
-
-Friendship between states is not a substitute for independent evidence.
-
-A foreign government may supply the allegation. The host institution still chooses whether to repeat, operationalise, or resist it.
-
-Authoritarian collaboration may occur through formal agreement, informal liaison, political deference, shared doctrine, or the quiet assumption that a partner’s classifications deserve trust.
-
-The relevant question is not whether governments cooperated. It is what the cooperation enabled.
-
-⸻
-
-Opening movement — the request arrives as cooperation
-
-Open with a request that sounds routine.
-
-It may ask the receiving institution to:
-
-* confirm an address;
-* identify a traveller;
-* monitor an event;
-* question a person;
-* share a record;
-* restrict a visa;
-* review an account;
-* locate relatives;
-* advise an employer;
-* facilitate return.
-
-The request may arrive through:
-
-* an embassy;
-* a police liaison officer;
-* an intelligence channel;
-* a diplomatic note;
-* a ministerial conversation;
-* an informal professional network;
-* a joint security forum.
-
-Possible opening
+## 🛰️ Orientation
 
 The request did not arrive labelled repression.
 
-It arrived as cooperation: a partner government asking for assistance with a security concern, a wanted person, a sensitive traveller, a difficult community actor, or a case requiring discreet handling.
+It arrived as cooperation:
 
-Then establish:
+- a partner government asking for assistance with a security concern;
+- a police service seeking information about a wanted person;
+- an embassy raising concern about an event;
+- an intelligence service sharing a sensitive assessment;
+- a migration authority asking another state to confirm identity;
+- a diplomatic contact warning that a community actor required discreet handling.
 
-The political character of collaboration is often determined not by the vocabulary of the request, but by whose lawful life becomes harder after it is honoured.
+Each form can be legitimate.
 
-⸻
+States must be able to cooperate against:
 
-Section 1 — What counts as authoritarian collaboration
+- serious crime;
+- trafficking;
+- terrorism;
+- cyberattack;
+- fraud;
+- child abuse;
+- weapons proliferation;
+- transnational violence.
 
-Define the concept carefully.
+The problem begins when official status substitutes for evidence.
 
-Authoritarian collaboration may involve cooperation that:
+> Security cooperation does not become legitimate merely because both governments call the subject a risk.
 
-* extends surveillance across borders;
-* assists political repression;
-* suppresses lawful dissent;
-* targets journalists, activists, opposition figures, or diasporas;
-* facilitates coercive return;
-* reproduces politically contaminated classifications;
-* helps isolate or discredit consequential relationships;
-* supplies local powers unavailable to the requesting state.
+Authoritarian collaboration is not defined by the constitutional label attached to every participant.
 
-It may be:
+It is defined by function.
 
-* formal;
-* informal;
-* bilateral;
-* multilateral;
-* episodic;
-* institutionalised;
-* fully coordinated;
-* partially aligned;
-* produced through excessive deference rather than explicit agreement.
+A democratic state may assist an authoritarian objective.
 
-Core line
+An authoritarian state may provide genuine evidence concerning serious crime.
 
-Authoritarian collaboration describes the function of the cooperation, not merely the constitutional label attached to the governments involved.
+The relevant questions are:
 
-A democratic state can participate in authoritarian collaboration.
+- What conduct was alleged?
+- What evidence travelled?
+- Through which channel?
+- Did the receiving institution independently assess it?
+- What local power was used?
+- What happened to the person, their relationships, or their ability to act afterward?
 
-An authoritarian state can provide legitimate evidence about serious crime.
+> The political character of cooperation is often determined not by the vocabulary of the request, but by whose lawful life becomes harder after it is honoured.
 
-The relevant question is what the cooperation does.
+---
 
-⸻
+## 🧭 Governing Proposition
 
-Section 2 — Legitimate cooperation versus coercive cooperation
+> Collaboration becomes authoritarian in function when cooperation helps one state suppress lawful political or social life through another state’s institutions.
 
-This distinction should be prominent.
+This may occur through:
 
-Legitimate cooperation may involve:
+- intelligence liaison;
+- police cooperation;
+- diplomatic representation;
+- joint training;
+- shared doctrine;
+- border and migration agreements;
+- financial-information exchange;
+- local enforcement;
+- deliberate non-interruption of known coercion.
 
-* identifiable criminal conduct;
-* judicial oversight;
-* specific evidence;
-* lawful purpose;
-* proportionality;
-* review;
-* protection against politically motivated misuse.
+The receiving state is not merely a conduit.
 
-Coercive cooperation may involve:
+It may choose to:
 
-* vague political labels;
-* guilt by association;
-* lawful dissent treated as security risk;
-* untested foreign intelligence;
-* requests broader than the alleged conduct;
-* pressure without meaningful review;
-* denial of protection;
-* local action serving a foreign political objective.
+- accept;
+- verify;
+- reject;
+- caveat;
+- translate;
+- operationalise;
+- correct;
+- protect.
 
-Core line
+> A foreign government may supply the allegation. The host institution still chooses whether to repeat, operationalise, or resist it.
 
-Cooperation should follow conduct and evidence. Authoritarian collaboration often begins where official status substitutes for both.
+---
 
-⸻
+## ⚖️ Legitimate Cooperation And Coercive Cooperation
 
-Section 3 — Intelligence liaison
+The node must keep this distinction intact.
 
-Possible forms include:
+### Legitimate cooperation may involve
 
-* intelligence sharing;
-* target identification;
-* relationship mapping;
-* location confirmation;
-* technical support;
-* joint analysis;
-* watchlist exchange;
-* threat assessments;
-* shared reporting.
+- identifiable criminal conduct;
+- specific evidence;
+- lawful purpose;
+- judicial or independent oversight;
+- proportionality;
+- political-motivation review;
+- correction and remedy.
 
-Intelligence liaison may be essential to national security.
+### Coercive cooperation may involve
 
-The risks include:
+- vague political labels;
+- guilt by association;
+- lawful dissent treated as security risk;
+- untested foreign intelligence;
+- requests broader than alleged conduct;
+- local pressure without meaningful review;
+- return despite credible protection risk;
+- denial of protection to preserve bilateral convenience.
 
-* opaque sourcing;
-* caveated information losing its caveat;
-* politically interested reporting;
-* one service’s allegation becoming another service’s independent-looking assessment;
-* no notice or correction route.
+> Cooperation should follow conduct and evidence. Authoritarian collaboration often begins where official status substitutes for both.
 
-Core line
+The existence of cooperation is not itself the problem.
 
-Intelligence liaison can make one source appear as several institutions’ separate concern.
+The issue is what the cooperation enabled.
 
-Questions:
+---
 
-* What was the original source?
-* What confidence was attached?
-* Was political motivation assessed?
-* Was the information independently corroborated?
-* Did the receiving service add its own evidence?
-* Did the report affect policing, immigration, employment, or professional access?
+## 🧠 Intelligence Liaison
 
-⸻
+Intelligence liaison may include:
 
-Section 4 — Police cooperation
+- threat assessments;
+- source reporting;
+- target identification;
+- relationship mapping;
+- location confirmation;
+- watchlist exchange;
+- joint analysis;
+- technical assistance.
 
-Police collaboration may include:
+Such liaison may be essential to national security.
 
-* evidence exchange;
-* liaison officers;
-* interviews;
-* surveillance assistance;
-* arrests;
-* joint investigations;
-* training;
-* operational planning;
-* location requests;
-* family contact.
+It also creates distinctive risks:
 
-This may be legitimate.
+- opaque sourcing;
+- politically interested reporting;
+- caveats disappearing downstream;
+- one source becoming several independent-looking institutional concerns;
+- no practical notice or correction route.
+
+> Intelligence liaison can make one source appear as several institutions’ separate concern.
+
+Useful questions include:
+
+- What was the original source?
+- What confidence was attached?
+- Was political motivation assessed?
+- Was the information independently corroborated?
+- Did the receiving service add its own evidence?
+- Which downstream bodies received the assessment?
+- Did the assessment affect policing, immigration, finance, employment, or professional access?
+
+An intelligence report may be reliable.
+
+It may also be:
+
+- incomplete;
+- caveated;
+- politically contaminated;
+- stale;
+- derived from another service with its own interests.
+
+The receiving institution must know the difference.
+
+---
+
+## 🚓 Police Cooperation
+
+Police cooperation may involve:
+
+- evidence exchange;
+- liaison officers;
+- interviews;
+- surveillance assistance;
+- arrest;
+- joint investigation;
+- training;
+- operational planning;
+- location requests;
+- family contact.
+
+This may be entirely legitimate.
 
 Warning signs include:
 
-* vague foreign allegations;
-* politically defined targets;
-* requests lacking judicial basis;
-* local policing used to intimidate rather than investigate;
-* repeated warning visits;
-* information gathering unrelated to crime;
-* assistance after the underlying case has collapsed.
+- vague foreign allegations;
+- politically defined targets;
+- requests lacking judicial basis;
+- local policing used mainly to intimidate;
+- questioning focused on relationships rather than conduct;
+- action continuing after the foreign case collapses;
+- no clear local offence.
 
-Core line
+> Police cooperation becomes political enforcement when local powers are used to deliver the chilling effect another government wants.
 
-Police cooperation becomes political enforcement when local powers are used to deliver the chilling effect another government wants.
+A careful audit should ask:
 
-A useful audit should ask:
+- What offence was alleged?
+- Was the conduct unlawful locally?
+- What evidence accompanied the request?
+- Was the person told why local police became involved?
+- Did police independently investigate?
+- Did the encounter produce information that later travelled back?
 
-* What offence was alleged?
-* Was it recognised locally?
-* Was dual criminality relevant?
-* Was there independent evidence?
-* What local power was used?
-* Was the person told why?
+Local police should not be treated as a foreign service’s field team merely because the request arrived through an official channel.
 
-⸻
+---
 
-Section 5 — Diplomatic channels
+## 🏛️ Diplomatic Channels
 
 Diplomatic missions may transmit:
 
-* formal representations;
-* informal concerns;
-* requests for monitoring;
-* event objections;
-* visa or document concerns;
-* reputational warnings;
-* claims about opposition groups;
-* pressure regarding public statements;
-* requests to facilitate return.
+- formal representations;
+- informal concerns;
+- requests for monitoring;
+- objections to events;
+- visa or document concerns;
+- reputational warnings;
+- claims about opposition groups;
+- return requests.
 
 Diplomatic engagement is ordinary.
 
 The concern arises where:
 
-* diplomatic sensitivity overrides rights assessment;
-* officials accept political claims without scrutiny;
-* the mission gains unusual access to local institutions;
-* host-state protection is weakened to preserve bilateral relations.
+- diplomatic sensitivity overrides rights assessment;
+- political claims are accepted without scrutiny;
+- the mission gains exceptional access to local institutions;
+- bilateral priorities reduce the host state’s willingness to protect.
 
-Core line
+> Diplomatic importance should not convert a foreign government’s preference into a local administrative fact.
 
-Diplomatic importance should not convert a foreign government’s preference into a local administrative fact.
+Questions include:
 
-Questions:
+- Was the communication recorded?
+- Which institution received it?
+- Was the political purpose identified?
+- Did it alter a local decision?
+- Was the affected person able to respond?
+- Was the request tested against local law and evidence?
 
-* Was the communication recorded?
-* Which institution received it?
-* Was its political purpose identified?
-* Did it alter a decision?
-* Was the affected person able to respond?
-* Was the request tested against local law?
+Diplomatic access can make a claim influential before it becomes visible.
 
-⸻
+---
 
-Section 6 — Embassy and consular participation
+## 🏢 Embassy And Consular Participation
 
-Embassies and consulates may support citizens abroad.
+Embassies and consulates may provide legitimate assistance to citizens abroad.
 
 They may also become involved in:
 
-* monitoring diasporas;
-* identifying activists;
-* pressuring families;
-* requesting meetings;
-* facilitating return;
-* collecting information;
-* shaping host-state interpretation.
+- monitoring diaspora activity;
+- identifying activists;
+- pressuring families;
+- requesting meetings;
+- facilitating return;
+- collecting information;
+- shaping host-state interpretation.
 
-Core line
-
-An embassy can be a welfare institution for one person and a coercive extension of the origin state for another.
+> An embassy can be a welfare institution for one person and a coercive extension of the origin state for another.
 
 The node should distinguish:
 
-* ordinary consular assistance;
-* political engagement;
-* community outreach;
-* coercive or intelligence-linked activity.
+- ordinary consular support;
+- political outreach;
+- community engagement;
+- coercive or intelligence-linked conduct.
 
 Evidence may include:
 
-* direct threats;
-* requests to host institutions;
-* documented monitoring;
-* official statements;
-* testimony;
-* host-state investigations.
+- direct threats;
+- documented monitoring;
+- official requests to host institutions;
+- testimony;
+- host-state investigations;
+- communications concerning named organisers or events.
 
-⸻
+Not every embassy contact is coercion.
 
-Section 7 — Joint training and doctrine
+Not every claim of welfare assistance is benign.
+
+The route and effect matter.
+
+---
+
+## 🎓 Joint Training And Doctrine
 
 States may collaborate through:
 
-* police academies;
-* intelligence courses;
-* border training;
-* cyber programmes;
-* public-order exercises;
-* counter-extremism workshops;
-* surveillance doctrine;
-* protest-management training.
+- police academies;
+- intelligence courses;
+- border training;
+- cyber programmes;
+- public-order exercises;
+- counter-extremism workshops;
+- surveillance doctrine;
+- protest-management instruction.
 
 Training may transfer:
 
-* technical skills;
-* legal templates;
-* risk categories;
-* assumptions about dissent;
-* operational culture;
-* relationship-mapping practice.
+- technical skills;
+- legal templates;
+- risk categories;
+- assumptions about dissent;
+- relationship-mapping practice;
+- escalation habits.
 
-Core line
+> Training transfers not only what operators can do, but which people they are taught to see as the problem.
 
-Training transfers not only what operators can do, but which people they are taught to see as the problem.
+Questions include:
 
-Questions:
+- Who designed the curriculum?
+- Which case studies were used?
+- Were lawful activists or journalists treated as threat proxies?
+- What safeguards were taught?
+- Did later practice reflect the training?
 
-* Who designed the curriculum?
-* Which examples were used?
-* Were lawful activists or journalists treated as threat proxies?
-* What safeguards were taught?
-* Did later local practice reflect the training?
+Training may be a transmission route without proving that every participant adopted the model.
 
-This section should connect directly to 🧬_copying_successful_repression_models.md without duplicating the later node.
+---
 
-⸻
-
-Section 8 — Joint operations and task forces
+## 🧩 Joint Operations And Task Forces
 
 Possible structures include:
 
-* joint investigation teams;
-* counterterrorism task forces;
-* border-security cells;
-* cyber units;
-* migration-coordination groups;
-* multinational command centres;
-* temporary crisis structures.
-
-Potential risks:
-
-* unclear decision ownership;
-* shared access to sensitive data;
-* one partner’s broad legal powers being used through another’s infrastructure;
-* reduced transparency;
-* responsibility fragmentation.
-
-Core line
-
-Joint operation can mean shared capability and divided accountability.
-
-Questions:
-
-* Who selected the target?
-* Who authorised the action?
-* Which law governed it?
-* Who held the data?
-* Who can correct an error?
-* Which partner could stop the operation?
-
-⸻
-
-Section 9 — Security partnerships and strategic deference
-
-States may defer to partners because of:
-
-* military dependence;
-* intelligence access;
-* trade;
-* energy;
-* regional security;
-* diplomatic priorities;
-* migration agreements;
-* counterterrorism cooperation.
-
-A receiving state may avoid challenging a weak or politicised request because the requesting state is strategically important.
-
-Core line
-
-Strategic partnership can create an evidentiary discount in which a powerful ally’s allegation is examined less carefully than an ordinary person’s denial.
-
-This section should not imply all strategic cooperation is corrupt.
-
-It should ask whether political value altered:
-
-* scrutiny;
-* disclosure;
-* proportionality;
-* protection.
-
-⸻
-
-Section 10 — Shared threat language
-
-Collaborating states may adopt common labels such as:
-
-* extremist;
-* destabilising;
-* separatist;
-* foreign-influenced;
-* radicalising;
-* security-sensitive;
-* subversive;
-* public-order threat.
-
-Shared language may arise through:
-
-* genuine common analysis;
-* training;
-* political alignment;
-* copied briefings;
-* repeated source material.
-
-Core line
-
-Shared vocabulary can make coordinated policy look like independent professional judgement.
-
-A careful audit should identify:
-
-* where the label first appeared;
-* whether it was conduct-based;
-* whether definitions matched;
-* whether one state’s political category entered another state’s systems.
-
-⸻
-
-Section 11 — Narrative collaboration
-
-Collaboration may involve not only surveillance or policing but shared interpretation.
-
-Possible forms include:
-
-* coordinated public statements;
-* opposition groups described through one state’s narrative;
-* activists framed as proxies;
-* diaspora politics reduced to foreign influence;
-* human-rights allegations dismissed as disinformation;
-* reputational warnings repeated across institutions.
-
-Core line
-
-Narrative collaboration prepares the receiving institution to experience assistance as prudence rather than participation.
-
-This section should connect back to 🗣️_reputation_warnings_and_narrative_containment.md.
-
-⸻
-
-Section 12 — Collaboration through third states
-
-Cooperation may not be direct.
-
-A request may move through:
-
-* an allied government;
-* a regional body;
-* an international organisation;
-* a shared database;
-* a liaison hub;
-* a contractor;
-* a common security partner.
-
-Core line
-
-A politically sensitive request may acquire legitimacy by passing through an institution with a more trusted name.
-
-Questions:
-
-* What was the original source?
-* Which actor repackaged it?
-* Did the intermediary independently verify it?
-* Did the route obscure political motivation?
-* Did several downstream actors mistake transmission for corroboration?
-
-⸻
-
-Section 13 — Regional organisations and multilateral frameworks
-
-Regional or multilateral structures may support:
-
-* police information exchange;
-* border coordination;
-* sanctions;
-* migration enforcement;
-* counterterrorism;
-* cyber defence;
-* training.
-
-These structures may include safeguards.
+- joint investigation teams;
+- counterterrorism task forces;
+- border-security cells;
+- cyber units;
+- migration-coordination groups;
+- multinational command centres;
+- temporary crisis structures.
 
 Potential risks include:
 
-* weak member-state review;
-* political notices;
-* data propagation;
-* correction failures;
-* lowest-common-denominator definitions;
-* responsibility dilution.
+- unclear decision ownership;
+- shared access to sensitive data;
+- one partner’s broad legal powers being used through another’s infrastructure;
+- reduced transparency;
+- responsibility fragmentation.
 
-Core line
+> Joint operation can mean shared capability and divided accountability.
 
-Multilateral circulation can make a national political allegation look internationally validated.
+A useful audit asks:
 
-The node should remain general unless later supported by specific research.
+- Who selected the target?
+- Who authorised the action?
+- Which law governed it?
+- Who held the data?
+- Who could correct an error?
+- Which partner could stop the operation?
 
-⸻
+---
 
-Section 14 — Private contractors inside state collaboration
+## 🛡️ Security Partnerships And Strategic Deference
 
-Commercial and state layers may overlap.
+States may defer to partners because of:
+
+- military dependence;
+- intelligence access;
+- trade;
+- energy;
+- regional security;
+- migration agreements;
+- counterterrorism cooperation.
+
+The risk is an evidentiary discount.
+
+> Strategic partnership can create an evidentiary discount in which a powerful ally’s allegation is examined less carefully than an ordinary person’s denial.
+
+This does not mean all strategic cooperation is improper.
+
+The question is whether strategic value altered:
+
+- scrutiny;
+- disclosure;
+- proportionality;
+- protection;
+- willingness to challenge the source.
+
+A partner may be valuable and still be politically interested in the person it is describing.
+
+---
+
+## 🏷️ Shared Threat Language
+
+Collaborating states may adopt common labels such as:
+
+- extremist;
+- destabilising;
+- separatist;
+- foreign-influenced;
+- radicalising;
+- security-sensitive;
+- subversive;
+- public-order threat.
+
+Shared language may arise through:
+
+- common evidence;
+- training;
+- political alignment;
+- copied briefings;
+- repeated source material;
+- the same contractor or consultant.
+
+> Shared vocabulary can make coordinated policy look like independent professional judgement.
+
+A careful audit should identify:
+
+- where the label first appeared;
+- whether it was conduct-based;
+- whether definitions matched;
+- whether one state’s political category entered another state’s systems;
+- whether the term became stronger in translation.
+
+---
+
+## 🗣️ Narrative Collaboration
+
+Collaboration may involve shared interpretation as well as shared information.
+
+Possible forms include:
+
+- coordinated public statements;
+- opposition groups described through one state’s narrative;
+- activists framed as foreign proxies;
+- diaspora politics reduced to foreign influence;
+- human-rights allegations dismissed as disinformation;
+- reputational warnings repeated across institutions.
+
+> Narrative collaboration prepares the receiving institution to experience assistance as prudence rather than participation.
+
+Once the person has been framed as:
+
+- dangerous;
+- manipulated;
+- extremist;
+- unstable;
+- foreign-directed;
+
+later interventions may appear self-justifying.
+
+The narrative changes what the receiving institution believes it is looking at.
+
+---
+
+## 🔀 Collaboration Through Third States
+
+A request may move through:
+
+- an allied government;
+- a regional body;
+- an international organisation;
+- a shared database;
+- a liaison hub;
+- a contractor;
+- a common security partner.
+
+> A politically sensitive request may acquire legitimacy by passing through an institution with a more trusted name.
+
+Questions include:
+
+- What was the original source?
+- Which actor repackaged it?
+- Did the intermediary verify it?
+- Did the route obscure political motivation?
+- Did downstream actors mistake transmission for corroboration?
+
+One source should not become more reliable merely because it travelled farther.
+
+---
+
+## 🌐 Regional And Multilateral Frameworks
+
+Regional or multilateral structures may support:
+
+- police information exchange;
+- border coordination;
+- sanctions;
+- migration enforcement;
+- counterterrorism;
+- cyber defence;
+- training.
+
+These structures may include meaningful safeguards.
+
+Potential risks include:
+
+- weak member-state review;
+- politically motivated notices;
+- data propagation;
+- correction failure;
+- lowest-common-denominator definitions;
+- responsibility dilution.
+
+> Multilateral circulation can make a national political allegation look internationally validated.
+
+The inquiry should remain tied to:
+
+- source;
+- route;
+- review;
+- action;
+- correction.
+
+---
+
+## 🏭 Contractors Inside State Collaboration
+
+State cooperation may rely on private infrastructure.
 
 A contractor may provide:
 
-* the shared platform;
-* the analytic environment;
-* liaison support;
-* training;
-* translation;
-* border integration;
-* managed services.
+- the shared platform;
+- the analytic environment;
+- liaison support;
+- training;
+- translation;
+- border integration;
+- managed services.
 
-Core line
+> State cooperation may be formal, but the machinery that makes it operational may remain private.
 
-State cooperation may be formal, but the machinery that makes it operational may remain private.
+Questions include:
 
-Questions:
+- Which contractor hosts the shared environment?
+- Who can query it?
+- Who sees source lineage?
+- How are corrections propagated?
+- Can the vendor suspend abusive use?
+- Does private architecture increase distance from public accountability?
 
-* Which contractor hosts the shared environment?
-* Who can query it?
-* Who sees the source?
-* How are corrections propagated?
-* Can the vendor suspend abusive use?
-* Does private architecture increase distance from public accountability?
+See [🏭 Private Contractors And Dual-Use Tools](./🏭_private_contractors_and_dual_use_tools.md) for the commercial chain surrounding these systems.
 
-This section should reference, not repeat, the previous contractor node.
+---
 
-⸻
-
-Section 15 — Authoritarian collaboration between unequal partners
+## ⚖️ Unequal Partners
 
 One state may dominate another through:
 
-* security assistance;
-* funding;
-* equipment;
-* diplomatic pressure;
-* intelligence dependency;
-* migration agreements;
-* military support.
+- security assistance;
+- funding;
+- equipment;
+- diplomatic pressure;
+- intelligence dependency;
+- migration agreements;
+- military support.
 
 The weaker partner may adopt:
 
-* the stronger state’s target categories;
-* requested actions;
-* preferred narratives;
-* operational practices.
+- the stronger state’s target categories;
+- requested actions;
+- preferred narratives;
+- operational practices.
 
-Core line
+> Collaboration may be consensual at government level while coercive in the lives of the people whose relationships become bargaining material.
 
-Collaboration may be consensual at government level while coercive in the lives of the people whose relationships become bargaining material.
+The weaker state may still have:
 
-This section should avoid assuming weaker states lack agency.
+- agency;
+- local interests;
+- its own political incentives.
 
-They may have their own reasons and interests.
+Power imbalance changes the analysis.
 
-⸻
+It does not eliminate responsibility.
 
-Section 16 — Democratic states as collaborators
+---
 
-This should be explicit.
+## 🗳️ Democratic States As Collaborators
 
 A democratic state may assist authoritarian repression by:
 
-* accepting foreign intelligence without adequate scrutiny;
-* monitoring lawful diaspora politics;
-* facilitating return;
-* passing information;
-* allowing embassy harassment;
-* applying immigration pressure;
-* warning employers or institutions;
-* failing to investigate coercion.
+- accepting foreign intelligence without adequate scrutiny;
+- monitoring lawful diaspora politics;
+- facilitating return;
+- passing information;
+- permitting embassy harassment;
+- applying immigration pressure;
+- warning employers or institutions;
+- failing to investigate coercion.
 
-Core line
-
-Democratic procedure does not prevent authoritarian function where local institutions operationalise another state’s political interests.
+> Democratic procedure does not prevent authoritarian function where local institutions operationalise another state’s political interests.
 
 This is not an accusation against all democratic cooperation.
 
 The evidence must identify:
 
-* action;
-* route;
-* affected rights;
-* deficient review;
-* practical consequence.
+- action;
+- route;
+- affected right;
+- deficient review;
+- practical consequence.
 
-⸻
+---
 
-Section 17 — Cooperation against diasporas
+## 🧳 Cooperation Against Diasporas
 
 Diaspora communities may be treated as:
 
-* political extensions of an origin state;
-* security populations;
-* influence targets;
-* sources of opposition;
-* possible intermediaries;
-* relationship networks to be mapped.
+- political extensions of an origin state;
+- security populations;
+- influence targets;
+- sources of opposition;
+- possible intermediaries;
+- relationship networks to be mapped.
 
 Possible collaborative actions include:
 
-* event monitoring;
-* community-intermediary use;
-* activist identification;
-* funding scrutiny;
-* family mapping;
-* pressure to moderate speech;
-* requests for return.
+- event monitoring;
+- community-intermediary use;
+- activist identification;
+- funding scrutiny;
+- family mapping;
+- pressure to moderate speech;
+- requests for return.
 
-Core line
+> Diaspora governance becomes transnational when one state supplies the political category and another supplies the local access.
 
-Diaspora governance becomes transnational when one state supplies the political category and another supplies the local access.
+Diasporas are not homogeneous.
 
-The node should avoid treating diasporas as homogeneous or inherently oppositional.
+Lawful community engagement must remain distinct from:
 
-⸻
+- surveillance;
+- proxy pressure;
+- political vetting;
+- selective legitimacy.
 
-Section 18 — Political opposition and exile movements
+---
+
+## 🗞️ Opposition, Exile, And Journalism
 
 Exiled political figures, organisers, journalists, and opposition groups may face:
 
-* surveillance;
-* infiltration;
-* reputational attacks;
-* visa pressure;
-* financial scrutiny;
-* event disruption;
-* information requests;
-* return pressure.
+- surveillance;
+- infiltration;
+- reputational attack;
+- visa pressure;
+- financial scrutiny;
+- event disruption;
+- information requests;
+- return pressure.
 
-Host states may cooperate because they accept claims that the group is:
+Host states may cooperate because they accept claims that a group is:
 
-* extremist;
-* criminal;
-* violent;
-* foreign-controlled;
-* destabilising.
+- extremist;
+- criminal;
+- violent;
+- foreign-controlled;
+- destabilising.
 
-Core line
-
-Exile ceases to be protective when the host state imports the origin state’s definition of legitimate opposition.
+> Exile ceases to be protective when the host state imports the origin state’s definition of legitimate opposition.
 
 The distinction between:
 
-* lawful opposition;
-* genuine violence;
-* criminal conduct;
-* politically motivated labelling;
+- lawful opposition;
+- genuine violence;
+- criminal conduct;
+- politically motivated labelling;
 
 must remain explicit.
 
-⸻
+---
 
-Section 19 — Collaboration through migration control
+## 🛂 Migration Cooperation
 
 Migration agreements may involve:
 
-* readmission;
-* return;
-* identity verification;
-* document issuance;
-* information sharing;
-* border security;
-* detention support.
+- readmission;
+- return;
+- identity verification;
+- document issuance;
+- information sharing;
+- border security;
+- detention support.
 
 Potential risks include:
 
-* coercive return;
-* origin-state identification of dissidents;
-* family exposure;
-* denial of asylum;
-* political information entering case files.
+- coercive return;
+- origin-state identification of dissidents;
+- family exposure;
+- denial of asylum;
+- political information entering case files.
 
-Core line
+> Migration cooperation becomes repression assistance when confirming identity also confirms the dissident’s location to the state they fear.
 
-Migration cooperation becomes repression assistance when the process of confirming identity also confirms the dissident’s location to the state they fear.
+A legitimate administrative function may therefore carry a severe political side effect.
 
-This should hand off cleanly to the later node on return requests.
+---
 
-⸻
-
-Section 20 — Financial collaboration
+## 💸 Financial Collaboration
 
 States may cooperate through:
 
-* sanctions;
-* financial-intelligence exchange;
-* asset tracing;
-* anti-money-laundering channels;
-* donor scrutiny;
-* account alerts;
-* beneficial-ownership analysis.
+- sanctions;
+- financial-intelligence exchange;
+- asset tracing;
+- anti-money-laundering channels;
+- donor scrutiny;
+- account alerts;
+- beneficial-ownership analysis.
 
 These functions may be essential.
 
 Potential abuse includes:
 
-* political donor mapping;
-* lawful organisation disruption;
-* diaspora funding pressure;
-* guilt by association;
-* foreign political labels entering compliance decisions.
+- political donor mapping;
+- lawful organisation disruption;
+- diaspora funding pressure;
+- guilt by association;
+- foreign political labels entering compliance decisions.
 
-Core line
+> Financial cooperation can convert political suspicion into material immobility.
 
-Financial cooperation can convert political suspicion into material immobility.
+The relevant distinction is between:
 
-The node should not duplicate the contractor or administrative-pressure nodes.
+- conduct-based financial risk;
+- political association treated as financial risk.
 
-Its focus is interstate exchange and reliance.
+---
 
-⸻
+## 🧰 Technical Assistance As Diplomacy
 
-Section 21 — Technology transfer as diplomatic relationship
+Technical support may form part of:
 
-Technical support may be part of:
-
-* aid;
-* military cooperation;
-* police modernisation;
-* border assistance;
-* cyber partnerships;
-* strategic development programmes.
+- aid;
+- military cooperation;
+- police modernisation;
+- border assistance;
+- cyber partnership;
+- strategic development programmes.
 
 The recipient may receive:
 
-* tools;
-* funding;
-* training;
-* doctrine;
-* access to shared systems.
+- tools;
+- funding;
+- training;
+- doctrine;
+- access to shared systems.
 
-Core line
+> Technical assistance can build institutional dependence while also transferring a model of who deserves surveillance.
 
-Technical assistance can build institutional dependence while also transferring a model of who deserves surveillance.
+This can create a long-term relationship in which:
 
-This section links to both exported capabilities and model replication.
+- equipment;
+- categories;
+- training;
+- political assumptions;
 
-⸻
+arrive together.
 
-Section 22 — Collaboration through omission
+---
+
+## 🕳️ Collaboration Through Omission
 
 The host state may not actively assist.
 
 It may:
 
-* ignore embassy harassment;
-* fail to investigate threats;
-* decline protection;
-* permit intimidation at events;
-* treat foreign pressure as a private dispute;
-* avoid confronting a partner government.
+- ignore embassy harassment;
+- fail to investigate threats;
+- decline protection;
+- permit intimidation at events;
+- treat foreign pressure as a private dispute;
+- avoid confronting a partner government.
 
-Core line
+> Collaboration may occur through action, but coercive reach can also expand through deliberate non-interruption.
 
-Collaboration may occur through action, but coercive reach can also expand through deliberate non-interruption.
+This requires careful distinction among:
 
-Distinguish:
-
-* inability;
-* negligence;
-* institutional confusion;
-* political reluctance;
-* conscious accommodation.
+- inability;
+- negligence;
+- institutional confusion;
+- political reluctance;
+- conscious accommodation.
 
 Failure to protect is not automatically collaboration.
 
-Intent and knowledge matter.
+Knowledge and choice matter.
 
-⸻
+---
 
-Section 23 — Political trade-offs
+## ⚖️ Political Trade-Offs
 
 A state may weigh individual protection against:
 
-* intelligence access;
-* trade;
-* defence;
-* migration cooperation;
-* hostage negotiations;
-* diplomatic stability;
-* regional policy.
+- intelligence access;
+- trade;
+- defence;
+- migration cooperation;
+- hostage negotiation;
+- diplomatic stability;
+- regional policy.
 
-Core line
-
-The individual may become the smallest negotiable item in a relationship between states.
-
-This section should remain careful.
+> The individual may become the smallest negotiable item in a relationship between states.
 
 Governments make legitimate strategic trade-offs.
 
-The concern is whether:
+The concern arises where:
 
-* rights are ignored;
-* the person is never informed;
-* no review exists;
-* politically motivated pressure is knowingly enabled.
+- rights are ignored;
+- the person is not informed;
+- no review exists;
+- politically motivated pressure is knowingly enabled;
+- the coercing state bears no cost.
 
-⸻
+---
 
-Section 24 — The local translation problem
+## 🔄 The Local Translation Problem
 
 A foreign request may need to be translated into local categories.
 
-Examples:
+Examples include:
 
-* foreign “subversion” becomes domestic “extremism concern”;
-* “separatism” becomes “public-order risk”;
-* “hostile propaganda” becomes “disinformation”;
-* “political offender” becomes “security-sensitive traveller”;
-* “return for questioning” becomes “immigration resolution.”
+- foreign “subversion” → domestic “extremism concern”;
+- “separatism” → “public-order risk”;
+- “hostile propaganda” → “disinformation”;
+- “political offender” → “security-sensitive traveller”;
+- “return for questioning” → “immigration resolution.”
 
-Core line
+> Collaboration becomes operational when a foreign political objective is translated into a local administrative category.
 
-Collaboration becomes operational when a foreign political objective is translated into a local administrative category.
+The translation may be performed by:
 
-This should be one of the node’s central ideas.
+- liaison officers;
+- lawyers;
+- consultants;
+- diplomatic staff;
+- policy teams;
+- automated database fields.
 
-The translation may happen through:
+The local label may travel farther than the original foreign claim.
 
-* liaison officers;
-* lawyers;
-* consultants;
-* diplomatic staff;
-* internal policy teams;
-* automated database fields.
+---
 
-⸻
+## 🧱 Compartmentalised Knowledge
 
-Section 25 — Compartmentalised knowledge
-
-No individual actor may see the whole arrangement.
+No one actor may see the whole arrangement.
 
 One team knows:
 
-* the foreign request.
+- the foreign request.
 
 Another knows:
 
-* the local risk decision.
+- the local risk decision.
 
 Another knows:
 
-* the border alert.
+- the border alert.
 
 Another knows:
 
-* the community contact.
+- the community contact.
 
-Core line
+> Collaboration may remain deniable because each institution holds only the part necessary to perform its role.
 
-Collaboration may remain deniable because each institution holds only the part necessary to perform its role.
+This does not prove deliberate concealment.
 
-This is not proof of deliberate concealment.
+It does explain why:
 
-It is a structural feature that can obstruct accountability.
+- accountability fragments;
+- correction stalls;
+- the person encounters one coherent effect without one coherent file.
 
-⸻
+---
 
-Section 26 — Collaboration without a written agreement
+## 🫥 Collaboration Without Written Agreement
 
-Cooperation may rely upon:
+Cooperation may rely on:
 
-* professional custom;
-* personal relationships;
-* liaison channels;
-* verbal requests;
-* reciprocal expectation;
-* shared political assumptions;
-* informal favour.
+- professional custom;
+- personal relationships;
+- liaison channels;
+- verbal requests;
+- reciprocal expectation;
+- shared political assumptions;
+- informal favour.
 
-Core line
+> The absence of a treaty does not prove the absence of cooperation. It does make the route harder to evidence.
 
-The absence of a treaty does not prove the absence of cooperation. It does make the route harder to evidence.
+Possible evidence includes:
 
-Evidence may include:
+- calendars;
+- correspondence;
+- witness accounts;
+- repeated linked actions;
+- later acknowledgements;
+- oversight findings.
 
-* calendars;
-* correspondence;
-* witness accounts;
-* repeated linked actions;
-* later acknowledgements;
-* oversight findings.
+Similar outcomes alone do not establish informal collaboration.
 
-Do not infer informal collaboration solely from similar outcomes.
+---
 
-⸻
+## 🔁 Escalation After Refusal
 
-Section 27 — Escalation after refusal
+If one request is refused, the requesting actor may:
 
-If the receiving state refuses one request, the requesting actor may:
+- reframe the allegation;
+- use another channel;
+- approach another institution;
+- route through a third state;
+- invoke a different legal basis;
+- increase diplomatic pressure;
+- contact relatives or community intermediaries.
 
-* reframe the allegation;
-* use another channel;
-* approach another institution;
-* route through a third state;
-* invoke a different legal basis;
-* increase diplomatic pressure;
-* contact relatives or community intermediaries.
+> A rejected request may not disappear. It may return with a different label and a more trusted messenger.
 
-Core line
+This creates a common-source problem.
 
-A rejected request may not disappear. It may return with a different label and a more trusted messenger.
+A repeated allegation may look stronger when it is merely better routed.
 
-This section connects to shared watchlists and common-source replication.
+---
 
-⸻
-
-Section 28 — Reciprocity
+## 🔄 Reciprocity
 
 States may assist because they expect future assistance.
 
 Reciprocity may involve:
 
-* intelligence;
-* extradition;
-* border access;
-* technology;
-* diplomatic support;
-* migration enforcement.
+- intelligence;
+- extradition;
+- border access;
+- technology;
+- diplomatic support;
+- migration enforcement.
 
-Core line
+> Reciprocal cooperation can turn an individual case into currency inside a much larger exchange.
 
-Reciprocal cooperation can turn an individual case into currency inside a much larger exchange.
+Reciprocity is not inherently improper.
 
-This does not make reciprocity inherently improper.
+The issue is whether:
 
-The issue is whether individual rights and evidentiary standards are discounted to preserve the relationship.
+- evidentiary standards;
+- rights;
+- protection duties;
 
-⸻
+are discounted to preserve the relationship.
 
-Section 29 — Collaboration after regime change
+---
+
+## 🏚️ Collaboration After Regime Change
 
 Security relationships may survive changes in government.
 
 Inherited structures may include:
 
-* liaison agreements;
-* shared databases;
-* trained staff;
-* reciprocal expectations;
-* contractor systems;
-* watchlists;
-* informal relationships.
+- liaison agreements;
+- shared databases;
+- trained staff;
+- reciprocal expectations;
+- contractor systems;
+- watchlists;
+- informal relationships.
 
-Core line
+> A new government may inherit an old collaboration before it understands whose political assumptions remain inside it.
 
-A new government may inherit an old collaboration before it understands whose political assumptions remain inside it.
+This is one route by which the toolkit becomes more durable than the politics that first authorised it.
 
-This prepares the final toolkit-survival node.
+---
 
-⸻
-
-Section 30 — What collaboration looks like from the target’s side
+## 🧍 What The Target Experiences
 
 The person rarely sees:
 
-* the diplomatic note;
-* the liaison report;
-* the intelligence caveat;
-* the shared briefing;
-* the political trade-off.
+- the diplomatic note;
+- the liaison report;
+- the intelligence caveat;
+- the shared briefing;
+- the political trade-off.
 
 They experience:
 
-* a changed visa decision;
-* questioning;
-* a warning;
-* a cancelled event;
-* an employer becoming cautious;
-* a family member receiving pressure;
-* repeated border scrutiny;
-* protection that never arrives.
+- a changed visa decision;
+- questioning;
+- a warning;
+- a cancelled event;
+- an employer becoming cautious;
+- a family member receiving pressure;
+- repeated border scrutiny;
+- protection that never arrives.
 
-Core line
+> The target experiences collaboration as several local institutions independently becoming careful at once.
 
-The target experiences collaboration as several local institutions independently becoming careful at once.
+That experience is important.
 
-This is a critical lived-consequence section.
+It is not sufficient by itself to prove:
 
-⸻
+- one shared plan;
+- one foreign source;
+- one coordinated operation.
 
-Section 31 — The evidence problem
+The route still needs evidence.
+
+---
+
+## 🔬 The Evidence Problem
 
 Possible evidence includes:
 
-* treaties;
-* memoranda;
-* liaison agreements;
-* diplomatic correspondence;
-* joint-training records;
-* parliamentary reports;
-* court findings;
-* oversight reports;
-* operational records;
-* official acknowledgements;
-* credible investigative reporting;
-* matching source errors;
-* action following a documented request.
+- treaties;
+- memoranda;
+- liaison agreements;
+- diplomatic correspondence;
+- joint-training records;
+- parliamentary reports;
+- court findings;
+- oversight reports;
+- operational records;
+- official acknowledgements;
+- credible investigative reporting;
+- matching source errors;
+- action following a documented request.
 
 Each proves something different.
 
-Core line
+> Contact proves contact. Cooperation proves cooperation. Linked action is required to establish operational consequence.
 
-Contact proves contact. Cooperation proves cooperation. Linked action is required to establish operational consequence.
+Distinguish:
 
-The node should distinguish:
+- diplomatic relationship;
+- information exchange;
+- specific request;
+- local reliance;
+- local action;
+- coordinated coercion.
 
-* diplomatic relationship;
-* information exchange;
-* specific request;
-* local action;
-* coordinated coercion.
+The strongest analysis maps:
 
-⸻
+> foreign allegation → transmission route → local assessment → local power → lived consequence
 
-Section 32 — Rival explanations
+---
+
+## 🌫️ Rival Explanations
 
 Possible alternatives include:
 
-* independent local investigation;
-* legitimate security concern;
-* common public information;
-* parallel policy;
-* ordinary diplomacy;
-* lawful migration enforcement;
-* independently developed risk assessment;
-* coincidence;
-* third-party misinformation;
-* bureaucratic over-caution.
+- independent local investigation;
+- legitimate security concern;
+- common public information;
+- parallel policy;
+- ordinary diplomacy;
+- lawful migration enforcement;
+- independently developed risk assessment;
+- coincidence;
+- third-party misinformation;
+- bureaucratic over-caution.
 
-Core line
+> Similar state action may reflect coordination, shared incentives, common evidence, or independent overreaction. The route must be shown.
 
-Similar state action may reflect coordination, shared incentives, common evidence, or independent overreaction. The route must be shown.
+Aligned effects do not prove:
 
-⸻
+- shared instruction;
+- shared source;
+- shared intent.
 
-Section 33 — Comparative questions
+A mixed explanation may be more accurate.
+
+---
+
+## 🧮 Comparative Questions
 
 A careful comparison may ask:
 
-* What did the requesting state allege?
-* Through which channel?
-* What evidence accompanied the request?
-* Did the receiving state independently assess it?
-* Which local institution acted?
-* What legal power was used?
-* Did the action match the foreign objective?
-* Was political motivation considered?
-* Were lawful dissent and violence distinguished?
-* Did the same source appear through several channels?
-* Did pressure change after diplomatic contact?
-* What independent local explanation remains?
-* What would disconfirm collaboration?
+- What did the requesting state allege?
+- Through which channel?
+- What evidence accompanied the request?
+- Did the receiving state independently assess it?
+- Which local institution acted?
+- What legal power was used?
+- Did the action match the foreign objective?
+- Was political motivation considered?
+- Were lawful dissent and violence distinguished?
+- Did the same source appear through several channels?
+- Did pressure change after diplomatic contact?
+- What independent local explanation remains?
+- What would disconfirm collaboration?
 
-⸻
+---
 
-Section 34 — Safe documentation
+## 🗂️ Safe Documentation
 
 Possible practices include:
 
-* record state, agency, date, channel, request, and local consequence;
-* distinguish contact from assistance;
-* preserve correspondence and official wording;
-* map common-source information;
-* identify which local institution made the decision;
-* document independent review or its absence;
-* protect vulnerable sources and relatives;
-* avoid publishing operational intelligence details;
-* separate confirmed facts from inferred political purpose.
+- record state, agency, date, channel, request, and local consequence;
+- distinguish contact from assistance;
+- preserve correspondence and exact official wording;
+- map common-source information;
+- identify which local institution made the decision;
+- document independent review or its absence;
+- protect vulnerable sources and relatives;
+- avoid publishing operational intelligence details;
+- separate confirmed facts from inferred political purpose.
 
-Core line
+> Map the request, the route, the local decision, and the consequence before naming the collaboration.
 
-Map the request, the route, the local decision, and the consequence before naming the collaboration.
+---
 
-⸻
-
-Section 35 — What not to do
+## ⛔ What Not To Do
 
 Do not:
 
-* treat every diplomatic relationship as collusion;
-* assume intelligence sharing proves targeting;
-* infer coordination from shared rhetoric alone;
-* expose sensitive sources;
-* publish operational details that create risk;
-* deny the possibility of genuine criminal conduct;
-* collapse requesting state and host state into one actor;
-* let foreign origin excuse local responsibility;
-* claim a common plan where the evidence shows only aligned effects.
+- treat every diplomatic relationship as collusion;
+- assume intelligence sharing proves targeting;
+- infer coordination from shared rhetoric alone;
+- expose sensitive sources;
+- publish operational details that create risk;
+- deny the possibility of genuine criminal conduct;
+- collapse requesting state and host state into one actor;
+- let foreign origin excuse local responsibility;
+- claim a common plan where the evidence shows only aligned effects.
 
-⸻
+---
 
-Section 36 — When cooperation becomes authoritarian collaboration
+## 🚩 When Cooperation Becomes Authoritarian Collaboration
 
 Warning signs include:
 
-* lawful dissent is treated as security risk;
-* foreign political labels are adopted without independent review;
-* local powers are used to advance a foreign political objective;
-* surveillance or questioning maps lawful relationships;
-* host-state protection is reduced to preserve bilateral relations;
-* family, migration, financial, or professional pressure follows a foreign request;
-* common-source allegations propagate across institutions;
-* no meaningful correction or review exists;
-* cooperation produces isolation, return pressure, or chilling effects.
+- lawful dissent is treated as security risk;
+- foreign political labels are adopted without independent review;
+- local powers advance a foreign political objective;
+- surveillance or questioning maps lawful relationships;
+- host-state protection is reduced to preserve bilateral relations;
+- family, migration, financial, or professional pressure follows a foreign request;
+- common-source allegations propagate across institutions;
+- no meaningful correction or review exists;
+- cooperation produces isolation, return pressure, or chilling effects.
 
-Anchor line
+> Cooperation becomes authoritarian collaboration when shared state power is used to identify, constrain, discredit, isolate, or return people for lawful political or social activity.
 
-Cooperation becomes authoritarian collaboration when shared state power is used to identify, constrain, discredit, isolate, or return people for lawful political or social activity.
+---
 
-⸻
-
-Section 37 — What responsible cooperation requires
+## 🛡️ What Responsible Cooperation Requires
 
 Possible safeguards include:
 
-* independent evidentiary review;
-* conduct-based thresholds;
-* political-motivation assessment;
-* source lineage;
-* caveat preservation;
-* judicial authorisation where required;
-* human-rights assessment;
-* refusal of politically motivated requests;
-* notice where lawful and safe;
-* correction and expiry;
-* review of shared classifications;
-* protection against transnational repression;
-* documentation of diplomatic influence;
-* clear local ownership of the final decision;
-* remedy for affected people.
+- independent evidentiary review;
+- conduct-based thresholds;
+- political-motivation assessment;
+- source lineage;
+- caveat preservation;
+- judicial authorisation where required;
+- human-rights assessment;
+- refusal of politically motivated requests;
+- notice where lawful and safe;
+- correction and expiry;
+- review of shared classifications;
+- protection against transnational repression;
+- documentation of diplomatic influence;
+- clear local ownership of the final decision;
+- remedy for affected people.
 
-Core line
+> International cooperation should increase the quality of evidence, not reduce the amount of scrutiny applied to it.
 
-International cooperation should increase the quality of evidence, not reduce the amount of scrutiny applied to it.
+---
 
-⸻
-
-Section 38 — Small-step audit
+## 🪜 Small-Step Audit
 
 A reader examining one suspected collaboration can ask:
 
-* Which states or agencies were involved?
-* What was requested?
-* What conduct was alleged?
-* What evidence travelled?
-* Through which channel?
-* Was the source politically interested?
-* Did the receiving state independently verify it?
-* Which local power was used?
-* What relationship, opportunity, or freedom changed?
-* Did several institutions inherit the same source?
-* Was correction possible?
-* Did the action serve the foreign state’s political objective?
-* What legitimate security explanation remains?
-* What is the smallest supportable claim?
+- Which states or agencies were involved?
+- What was requested?
+- What conduct was alleged?
+- What evidence travelled?
+- Through which channel?
+- Was the source politically interested?
+- Did the receiving state independently verify it?
+- Which local power was used?
+- What relationship, opportunity, or freedom changed?
+- Did several institutions inherit the same source?
+- Was correction possible?
+- Did the action serve the foreign state’s political objective?
+- What legitimate security explanation remains?
+- What is the smallest supportable claim?
 
 Possible smallest claims include:
 
-* one foreign request was received;
-* one local institution relied on a foreign allegation;
-* one joint training programme transferred a politically sensitive risk category;
-* one diplomatic communication altered a local decision;
-* one foreign classification was repeated without independent corroboration;
-* one host institution failed to investigate documented embassy pressure;
-* one local action materially advanced a foreign coercive objective.
+- one foreign request was received;
+- one local institution relied on a foreign allegation;
+- one joint training programme transferred a politically sensitive risk category;
+- one diplomatic communication altered a local decision;
+- one foreign classification was repeated without independent corroboration;
+- one host institution failed to investigate documented embassy pressure;
+- one local action materially advanced a foreign coercive objective.
 
-⸻
+---
 
-Evidentiary guardrail
+## 🔭 Evidentiary Ladder
 
 Use a clear ladder:
 
@@ -1235,56 +1207,83 @@ Use a clear ladder:
 
 Do not jump from:
 
-* contact to cooperation;
-* cooperation to coercion;
-* shared language to coordination;
-* adverse action to foreign authorship;
-* strategic partnership to deliberate repression.
+- contact to cooperation;
+- cooperation to coercion;
+- shared language to coordination;
+- adverse action to foreign authorship;
+- strategic partnership to deliberate repression.
 
 The claim should remain tied to:
 
-* request;
-* route;
-* evidence;
-* local decision;
-* consequence.
+- request;
+- route;
+- evidence;
+- local decision;
+- consequence.
 
-⸻
+---
 
-Compact definition
+## 📖 Compact Definition
 
-Authoritarian Collaboration describes cooperation between states, agencies, diplomatic missions, security bodies, police, and aligned institutions that enables one government’s political or coercive objectives to be advanced through another government’s information, authority, territory, or administrative systems.
+**Authoritarian Collaboration** describes cooperation between states, agencies, diplomatic missions, security bodies, police, and aligned institutions that enables one government’s political or coercive objectives to be advanced through another government’s information, authority, territory, or administrative systems.
 
 It may operate through:
 
-* intelligence liaison;
-* police cooperation;
-* diplomatic representations;
-* joint training;
-* shared doctrine;
-* border and migration agreements;
-* financial-information exchange;
-* local enforcement;
-* failure to interrupt known coercion.
+- intelligence liaison;
+- police cooperation;
+- diplomatic representations;
+- joint training;
+- shared doctrine;
+- border and migration agreements;
+- financial-information exchange;
+- local enforcement;
+- failure to interrupt known coercion.
 
 The central danger is that an official foreign allegation may acquire local force before its political purpose, evidentiary basis, or effect on lawful association has been independently tested.
 
-⸻
+---
 
-Next route
+## 🚪 Next Route
 
-The collaboration becomes operational when names, alerts, classifications, and return requests begin moving.
+Collaboration becomes operational when names, alerts, classifications, and return requests begin moving.
 
 Continue to:
 
-* 🔄_shared_watchlists_and_return_requests.md
+- [🔄 Shared Watchlists And Return Requests](./🔄_shared_watchlists_and_return_requests.md)
 
-Possible transition
+> Governments may agree that someone is a risk.
 
-Governments may agree that someone is a risk.
+> The next node follows what happens when that judgement is entered into a list, attached to a traveller, or converted into a request for return.
 
-The next node follows what happens when that judgement is entered into a list, attached to a traveller, or converted into a request for return.
+> Collaboration supplies the relationship. The watchlist supplies the workflow.
 
-And:
+---
 
-Collaboration supplies the relationship. The watchlist supplies the workflow.
+## 🌌 Constellations
+
+🤝 🧠 🏛️ 🔄 🌍 — *state cooperation, intelligence liaison, diplomatic influence, operational transmission, and local authority.*
+
+---
+
+## ✨ Stardust
+
+authoritarian collaboration, intelligence liaison, police cooperation, diplomatic pressure, diaspora governance, host-state responsibility, migration cooperation, financial collaboration, joint training, political motivation, source lineage, common-source replication, strategic deference, transnational repression
+
+---
+
+## 🏮 Footer
+
+*🤝 Authoritarian Collaboration* is part of the *🌱 Cuttings* cluster within *🥀 Little Database Of Horrors*.  
+It examines how international cooperation may give foreign political classifications local force through intelligence, policing, diplomacy, migration, finance, training, and deliberate non-interruption.
+
+> 📡 Cross-references:
+>
+> - [🌱 Cuttings](./README.md) — *the wider capability-diffusion cluster*
+> - [🏭 Private Contractors And Dual-Use Tools](./🏭_private_contractors_and_dual_use_tools.md) — *the commercial systems surrounding state cooperation*
+> - [🔄 Shared Watchlists And Return Requests](./🔄_shared_watchlists_and_return_requests.md) — *the operational records and requests that move through collaboration*
+> - [🌍 Host-State Assistance](./🌍_host_state_assistance.md) — *the local powers that give a foreign objective practical force*
+> - [🗣️ Reputation Warnings And Narrative Containment](../🦷_The_Plant_Has_Teeth/🗣️_reputation_warnings_and_narrative_containment.md) — *how repeated political framing can alter local judgement*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-07-21_
