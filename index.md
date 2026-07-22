@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-22 17:34:03 UTC_
+_Generated on 2026-07-22 17:35:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6088,7 +6088,6 @@ _Generated on 2026-07-22 17:34:03 UTC_
           - [`🪤_when_error_is_reclassified_as_concealment.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/🪤_when_error_is_reclassified_as_concealment.md)
           - [`🪴_the_system_at_rest.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/🪴_the_system_at_rest.md)
         - [**🌱_Cuttings/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/)
-          - [`README 4.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/README 4.md)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/README.md)
           - [`🌍_host_state_assistance.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/🌍_host_state_assistance.md)
           - [`🏭_private_contractors_and_dual_use_tools.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌱_Cuttings/🏭_private_contractors_and_dual_use_tools.md)
