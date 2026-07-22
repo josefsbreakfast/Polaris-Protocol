@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-22 17:35:33 UTC_
+_Generated on 2026-07-22 17:39:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6063,8 +6063,16 @@ _Generated on 2026-07-22 17:35:33 UTC_
         - [**🌍_Regime_And_State_Capability_Studies/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/)
           - [**🌍_East_And_Central_Africa/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌍_East_And_Central_Africa/)
             - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌍_East_And_Central_Africa/notes.txt)
+            - [`🇪🇷_eritrea.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌍_East_And_Central_Africa/🇪🇷_eritrea.md)
+            - [`🇪🇹_ethiopia.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌍_East_And_Central_Africa/🇪🇹_ethiopia.md)
+            - [`🇷🇼_rwanda.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌍_East_And_Central_Africa/🇷🇼_rwanda.md)
+            - [`🇸🇸_south_sudan.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌍_East_And_Central_Africa/🇸🇸_south_sudan.md)
+            - [`🔗_regional_return_and_surveillance_networks.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌍_East_And_Central_Africa/🔗_regional_return_and_surveillance_networks.md)
           - [**🌎_Other_Case_Studies/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌎_Other_Case_Studies/)
             - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌎_Other_Case_Studies/notes.txt)
+            - [`🏛️_democratic_state_temptations.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌎_Other_Case_Studies/🏛️_democratic_state_temptations.md)
+            - [`🤝_allied_states_and_selective_blindness.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌎_Other_Case_Studies/🤝_allied_states_and_selective_blindness.md)
+            - [`🧭_cases_outside_the_primary_regions.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌎_Other_Case_Studies/🧭_cases_outside_the_primary_regions.md)
           - [**🌏_East_And_Southeast_Asia/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌏_East_And_Southeast_Asia/)
             - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌏_East_And_Southeast_Asia/notes.txt)
           - [**🕌_Middle_East_And_North_Africa/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/)
