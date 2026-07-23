@@ -20,6 +20,453 @@
 
 ---
 
+Yes. I’d keep one shared spine across every country node, but allow sections to expand or shrink depending on the evidence.
+
+Proposed country-node structure
+
+1. Orientation
+
+* One-paragraph summary of why the country matters for diaspora-facing capability analysis.
+* Identify whether the main concern is:
+    * consular leverage;
+    * surveillance;
+    * digital repression;
+    * family pressure;
+    * transnational targeting;
+    * vendor/export role;
+    * fragmented governance;
+    * host-state cooperation.
+* State the period covered.
+* Include a plain warning that the node concerns institutions and governing actors, not the population or diaspora.
+
+2. Who This Node Is For
+
+* Citizens abroad.
+* Dual nationals.
+* Former citizens.
+* Refugees and asylum seekers.
+* Stateless people.
+* Journalists, academics, activists, lawyers, artists, labour organisers.
+* Relatives, partners, carers, funders, publishers, and institutional supporters.
+* People with documentary, family, property, inheritance, military-service, or travel dependencies.
+
+This should be short but explicit.
+
+3. Country-Facing, Actor-Specific
+
+* Identify the actual actors:
+    * government;
+    * presidency or royal court;
+    * ruling party;
+    * military;
+    * intelligence services;
+    * police;
+    * border agencies;
+    * diplomatic missions;
+    * contractors;
+    * militias;
+    * proxies;
+    * occupying powers;
+    * external sponsors.
+* Explain fragmentation or overlap.
+* State clearly where “the state” would be too broad.
+
+4. Political And Institutional Context
+
+Only the context needed to understand capability:
+
+* present governing structure;
+* recent major transition;
+* emergency or security framework;
+* relevant territorial divisions;
+* legal position of security bodies;
+* relationship between civilian and military authority;
+* major changes in the period examined.
+
+Not a general history lesson.
+
+5. Domestic Capability Baseline
+
+What is documented inside the country:
+
+* censorship;
+* network filtering;
+* shutdowns;
+* platform monitoring;
+* spyware;
+* device seizure;
+* biometric systems;
+* social-graph analysis;
+* border databases;
+* online-speech prosecution;
+* detention;
+* family pressure;
+* physical coercion.
+
+This section establishes institutional habit and available infrastructure without automatically proving overseas use.
+
+6. Documented Transnational Conduct
+
+What has occurred abroad or across borders:
+
+* spyware;
+* phishing;
+* hacking;
+* impersonation;
+* threats;
+* smear campaigns;
+* surveillance of protests;
+* embassy monitoring;
+* family coercion;
+* passport pressure;
+* extradition or deportation;
+* forced return;
+* abduction;
+* assault;
+* assassination;
+* misuse of Interpol or legal cooperation.
+
+Separate:
+
+* established incidents;
+* repeated pattern;
+* alleged conduct;
+* plausible capability.
+
+7. Diaspora Exposure Pathways
+
+The practical pathways by which people remain reachable:
+
+* documents;
+* passports;
+* consular services;
+* family members;
+* property;
+* inheritance;
+* military obligations;
+* travel;
+* employment;
+* community institutions;
+* religious bodies;
+* educational links;
+* banking or remittances;
+* online identity;
+* public political activity.
+
+This should answer:
+
+What keeps the relationship with the state alive after migration?
+
+8. Relationship Governance
+
+The Little Database section.
+
+Ask how the system may identify or affect:
+
+* family;
+* partners;
+* colleagues;
+* lawyers;
+* journalists;
+* sources;
+* funders;
+* publishers;
+* organisers;
+* community leaders;
+* political allies.
+
+Distinguish:
+
+* observation;
+* recording;
+* inference;
+* classification;
+* warning;
+* exploitation;
+* disruption.
+
+Include whether the evidence points to:
+
+* individual targeting;
+* network targeting;
+* family leverage;
+* deterrence of association;
+* managed intermediaries;
+* relationship caps.
+
+9. Embassies, Consulates, And Community Intermediaries
+
+* Legitimate consular functions.
+* Documented or reported political monitoring.
+* Passport or document leverage.
+* Contact with relatives.
+* Community events and representative selection.
+* Cultural, religious, student, or business organisations.
+* Informal warnings.
+* Reporting routes back to the state.
+* Distinguish state direction from alignment, opportunism, and gossip.
+
+10. Technology, Vendors, And Infrastructure
+
+* Domestic systems.
+* Imported systems.
+* Spyware or cyber vendors.
+* Telecoms.
+* Platform dependencies.
+* Cloud or data infrastructure.
+* Border and biometric suppliers.
+* Contractors and resellers.
+* Relevant modules and functions.
+* Known technical limits.
+* Procurement versus actual use.
+
+11. Exported Capability
+
+Use where relevant.
+
+* What the country produces or exports.
+* Licensing authority.
+* Client states.
+* Joint ventures.
+* Training and maintenance.
+* Known misuse.
+* Regulatory response.
+* Diplomatic benefit.
+* Whether products or doctrine later appear elsewhere.
+
+This will be major for Israel and potentially significant for UAE, Türkiye, and others.
+
+12. Deception, Smear, And Influence Operations
+
+* Bots and trolls.
+* Sockpuppets.
+* Fake journalists.
+* Impersonation.
+* Contradictory smear saturation.
+* Coordinated amplification.
+* Mass reporting.
+* State-aligned media.
+* Commercial PR.
+* Reputation laundering.
+* Hack-and-leak operations.
+* Foreign-policy influence.
+
+Key question:
+
+Does the operation aim to change belief, or merely make the target expensive to verify and defend?
+
+13. Follow The Money
+
+* Purchaser.
+* Operator.
+* Vendor.
+* Parent company.
+* Subsidiary.
+* Investor.
+* Sovereign wealth involvement.
+* Local reseller.
+* Financier.
+* Insurer.
+* Export-credit support.
+* Government grant.
+* Lobbyist.
+* Consultancy.
+* University partner.
+* Revolving-door personnel.
+* Maintenance and renewal contracts.
+
+Ask:
+
+* Who profits from expansion?
+* Who profits from threat inflation?
+* Who gains diplomatic or strategic access?
+* Who evaluates the system they helped build?
+* Which dependencies make withdrawal expensive?
+
+14. Regional And Allied Cooperation
+
+* Intelligence sharing.
+* Counter-terrorism cooperation.
+* Border and aviation data.
+* Extradition and deportation.
+* Security normalisation.
+* Shared vendors.
+* Joint ventures.
+* Training.
+* US, European, Chinese, Russian, or regional involvement.
+* Host-state assistance.
+* Cross-reference the regional cooperation node rather than reproducing everything.
+
+15. Host-State Response
+
+For diaspora-facing relevance:
+
+* Does the host state investigate?
+* Protect?
+* Prosecute?
+* Warn?
+* Expel diplomats?
+* Restrict vendors?
+* Share data?
+* Facilitate return?
+* Minimise the complaint?
+* Treat it as community conflict?
+* Prioritise strategic relations?
+* Provide a safe reporting route?
+* Correct harmful records?
+
+This is essential. The foreign state’s capability only explains part of the risk.
+
+16. Capability, Intent, And Documented Use
+
+A compact analytical ladder:
+
+Stage	Finding
+Capability	What can be done?
+Access	Who can reach the relevant data or system?
+Intent	What objective is evidenced?
+Implementation	What entered a real workflow?
+Documented use	What deployment is established?
+Attribution	Which actor is linked?
+Causation	What effect is proven?
+
+No narrative smearing between rows.
+
+17. Evidence And Confidence Snapshot
+
+Separate confidence for:
+
+* domestic capability;
+* transnational use;
+* embassy involvement;
+* family pressure;
+* spyware or cyber attribution;
+* relationship governance;
+* state direction;
+* causal effect;
+* current relevance.
+
+Include:
+
+* basis;
+* main gap;
+* last reviewed.
+
+18. Rival Explanations And Disproof Conditions
+
+* Commercial surveillance.
+* Platform failure.
+* Local factionalism.
+* Personal retaliation.
+* Community conflict.
+* Administrative error.
+* Criminal activity.
+* Contractor overreach.
+* Allied-state action.
+* Several causes operating together.
+
+State what evidence would lower confidence.
+
+This keeps the node from becoming a country-shaped explanation for everything unpleasant.
+
+19. Practical Questions For Diaspora Readers
+
+A short, non-alarmist checklist:
+
+* Which documents still depend on the state?
+* Could travel create compulsory contact?
+* Are relatives exposed?
+* Which accounts contain sensitive contact graphs?
+* Which relationships are essential?
+* Which host-state institution owns protection?
+* What evidence can be preserved safely?
+* Which dependency can be diversified?
+* What should not be confronted directly?
+* What can remain unresolved?
+
+20. Specialist Knowledge And Evidence Base
+
+* Key languages.
+* Important country specialists.
+* Digital-rights organisations.
+* Human-rights organisations.
+* Technical laboratories.
+* Legal sources.
+* Local and diaspora journalism.
+* Fact-checking or platform research.
+* Main evidentiary gaps.
+* Whether the public record is dominated by:
+    * state;
+    * opposition;
+    * exile;
+    * international;
+    * classified;
+    * English-language sources.
+
+21. Comparison Is Not Rebuttal
+
+Standard callout in every node:
+
+Comparison is not rebuttal.
+Evidence that another state uses similar or more severe methods does not answer the conduct examined here. It may justify a cross-reference or separate node. It does not remove the present actor from scrutiny.
+
+Internal version:
+
+“But Country X—” is a routing instruction, not a defence.
+
+22. What This Node Does Not Establish
+
+A tailored restraint section:
+
+* no collective suspicion of the population;
+* no claim that every diaspora member is targeted;
+* no claim that capability proves individual use;
+* no claim that historical conduct is automatically current;
+* no claim that every community organisation is an intermediary;
+* no claim that every cyber incident is state-directed;
+* no advice to confront suspected actors.
+
+23. Compact Country Definition
+
+A short closing synthesis:
+
+* actor;
+* main diaspora pathways;
+* strongest documented capabilities;
+* principal uncertainty;
+* main regional connection;
+* practical significance.
+
+24. Standard Polaris Close
+
+* ## 🌌 Constellations
+* ## ✨ Stardust
+* ## 🏮 Footer
+* Country-specific cross-references.
+* Comparative method links.
+* Regional README.
+* Regional cooperation node.
+* Relevant LDoH mechanism nodes.
+* Sovereignty line and update date.
+
+Flexible weighting
+
+The headings stay broadly consistent, but not every node gets equal length.
+
+For example:
+
+* Oman: more restrained, with major attention to evidence gaps and administrative or speech-control pathways.
+* Morocco: stronger spyware, diaspora, European cooperation, and prosecution sections.
+* Lebanon: fragmented actors, party structures, telecoms, foreign sponsors, and weak remedy.
+* Saudi Arabia: very large transnational repression, spyware, family pressure, influence, vendor, and diplomatic sections.
+* Israel: very large domestic/occupation, production, licensing, export, industrial dependency, and diaspora-distinction sections.
+* Yemen: fragmentation, armed actors, external control, telecoms, humanitarian dependence, and thin attribution.
+* Palestinian governance: separate authorities, occupation, security coordination, border and telecom dependence, donor architecture, and diaspora/refugee structures.
+
+The common spine gives the reader consistency. The variable weight prevents fake symmetry.
+
+---
+
 
 🕌_Middle_East_And_North_Africa/notes.txt
             │   │   ├── README.md
