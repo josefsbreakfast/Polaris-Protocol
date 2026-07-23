@@ -336,7 +336,7 @@ Questions for further research:
 
 ---
 
-## ✊🏽 2011: Reform, Dignity, And Repression  
+## ✊ 2011: Reform, Dignity, And Repression  
 
 The 2011 protest cycle included demands concerning:
 
@@ -526,7 +526,7 @@ It means a right, due, or entitlement—not a gift bestowed by benevolence.
 
 ---
 
-## 👩🏽 Women’s Political Speech  
+## 👩 Women’s Political Speech  
 
 Women protesting land allocation in Salalah used language including:
 
@@ -1144,542 +1144,25 @@ Host institutions should not mistake these adaptations for lack of political int
 
 ---
 
-## ⚖️ Host-State Crossover  
+## 🧳 Documented Omani Diaspora Experience  
 
-A foreign request may enter a host state through apparently ordinary channels:
+Leaving Oman can create real territorial safety and wider legal freedom. It does not necessarily end the effects of Omani law, documentation systems, family vulnerability, return needs, political reputation, or state-linked community infrastructure.
 
-- police cooperation;
-- mutual legal assistance;
-- platform disclosure;
-- immigration systems;
-- extradition;
-- deportation;
-- INTERPOL;
-- university discipline;
-- employment vetting;
-- banking compliance;
-- civil litigation.
-
-The essential translation question is:
-
-> Does the receiving institution understand that “public order,” “misleading information,” or “insulting the ruler” may describe protected political expression in the host country?
-
-A politically motivated request does not become apolitical because it travels through a database.
-
----
-
-## 🌐 Regional And International Policing  
-
-Oman participates in international and regional policing structures, including INTERPOL-linked and Arab/Gulf cooperation channels.
-
-Participation alone is not proof of abuse.
-
-Investigate Oman-specific cases involving:
-
-- notices;
-- diffusions;
-- extradition requests;
-- transit detention;
-- deportation;
-- politically framed ordinary-crime allegations;
-- challenge and deletion procedures.
-
-> **A politically motivated request does not become apolitical because it travels through an international police database.**
-
----
-
-## 🏭 Technology, Vendors, And Infrastructure  
-
-Follow:
-
-- telecom ownership;
-- lawful-interception systems;
-- identity platforms;
-- biometric suppliers;
-- cloud providers;
-- cybersecurity contractors;
-- content-monitoring tools;
-- border systems;
-- data-centre infrastructure;
-- resellers and integrators;
-- maintenance contracts;
-- foreign training.
-
-Do not stop at the product brand.
-
-Ask:
-
-- Who specified the requirement?
-- Who integrated the databases?
-- Who maintains the system?
-- Who has administrator access?
-- Who receives recurring revenue?
-- Which royal, state, or foreign-linked entities benefit?
-
-Authoritarian demand shapes the market by rewarding:
-
-- identity resolution;
-- network mapping;
-- broad data integration;
-- low-friction sharing;
-- content classification;
-- proactive intervention.
-
-> **Authoritarian demand does not merely purchase surveillance technology. It teaches the global technology market what governments will reward.**
-
-> **The Gulf does not have to export its political system. It only has to make the dashboard commercially irresistible.**
-
----
-
-## 💸 Follow The Money  
-
-Map:
-
-- royal-linked businesses;
-- sovereign funds;
-- telecom stakes;
-- defence contracts;
-- port agreements;
-- security procurement;
-- consultants;
-- public-relations firms;
-- universities;
-- law firms;
-- foreign advisers;
-- vendors and subcontractors;
-- revolving doors.
-
-Ask whether a policy is serving:
-
-- political control;
-- bureaucratic expansion;
-- commercial enrichment;
-- rivalry;
-- foreign strategic utility;
-- some combination of all five.
-
-> **Follow the money before accepting the mission statement.**
-
-> **Shut up, peasants; the port is strategically located.**
-
----
-
-## 🪖 Strategic Utility And Allied Restraint  
-
-Oman’s importance to foreign partners includes:
-
-- maritime geography;
-- the Strait of Hormuz;
-- Duqm;
-- Salalah;
-- military access;
-- logistics;
-- counter-terrorism cooperation;
-- mediation.
-
-Foreign governments may therefore describe Oman through the priorities of:
-
-- defence;
-- access;
-- continuity;
-- regional de-escalation;
-- commercial stability.
-
-That does not prove concealment or complicity.
-
-It creates an incentive for understatement.
-
-Ask:
-
-- What did partners know?
-- Did they receive intelligence derived from abused detainees?
-- What safeguards existed?
-- What training or equipment was supplied?
-- Were abuses investigated?
-- Did strategic access change policy responses?
-
-> **“Generally good” often means the parts I personally needed were functioning.**
-
----
-
-## 🗄️ Platform Decay As Cultural Destruction  
-
-Omani political culture lives in:
-
-- tweets;
-- replies;
-- retweets;
-- WhatsApp stickers;
-- voice notes;
-- memes;
-- citizen videos;
-- deleted accounts;
-- screenshots;
-- joke formats;
-- hashtags;
-- comments under apparently unrelated posts.
-
-Platform deletion, broken search, API closure, account suspension, and link rot can destroy:
-
-- chronology;
-- provenance;
-- reception;
-- reply networks;
-- dialect;
-- humour;
-- evidence of deletion;
-- the social atmosphere around an event.
-
-A screenshot may preserve words while losing:
-
-- timestamp;
-- thread position;
-- edit history;
-- author metadata;
-- surrounding replies;
-- evidence that the original URL existed.
-
-> **Platform destruction creates an archive in which governments remain documented and the governed slowly disappear.**
-
-> **The populace likes to vibe. The vibe is often where the evidence lives.**
-
-Independent archives and alternative platforms are valuable not merely because they host content, but because they may preserve the connective tissue of public life.
-
----
-
-## 🔥 Political Fracture And The Quiet-State Problem  
-
-A surveillance state may suppress visible disagreement while losing accurate knowledge of public pressure.
-
-Silence can mean:
-
-- consent;
-- exhaustion;
-- fear;
-- censorship;
-- strategic waiting;
-- loss of faith in peaceful mechanisms.
-
-The feedback loop is dangerous:
-
-1. criticism is blocked;
-2. moderate reform becomes futile;
-3. institutions lose legitimacy;
-4. people conclude only pressure produces concessions;
-5. repression confirms that ordinary participation is meaningless;
-6. polarisation increases;
-7. the state cites polarisation as proof repression was necessary.
-
-Revolution is not inevitable, orderly, or guaranteed to improve conditions.
-
-But governments that criminalise correction may teach people that correction requires rupture.
-
-> **A surveillance state may become very good at preventing society from expressing pressure while becoming catastrophically bad at knowing how much pressure exists.**
-
-> **When every peaceful mechanism for correction is treated as a threat, the system teaches people that correction requires threatening the system.**
-
----
-
-## 🧪 Capability, Intent, And Documented Use  
-
-### Documented or strongly supported capability
-
-- concentrated decree authority;
-- media licensing and censorship;
-- restrictions on assembly and association;
-- security detention;
-- prosecution of online speech;
-- citizenship administration capable of producing political vulnerability;
-- extraterritorial cybercrime jurisdiction;
-- electronic-evidence mechanisms;
-- centralised digital-risk reporting;
-- international and regional policing participation;
-- communications control.
-
-### Documented use
-
-- arrests and prosecutions involving tweets;
-- punishment of satire;
-- punishment of retweeters;
-- repression of protest;
-- media closure and suspension;
-- imprisonment of journalists and writers;
-- academic self-censorship;
-- alleged abusive detention practices.
-
-### Plausible but not established as a systematic programme
-
-- direct monitoring of all Omani diaspora communities;
-- automated political scoring;
-- one integrated state-wide social-graph platform;
-- routine spyware deployment against overseas critics;
-- systematic embassy intimidation;
-- recurrent overseas violence comparable with the most documented regional cases.
-
-### Inference requiring case-specific evidence
-
-- a direct connection between a specific vendor and a specific abuse;
-- a direct command from the Sultan in a named operational case;
-- foreign-intelligence complicity;
-- misuse of INTERPOL or extradition in a particular case;
-- family pressure directed by the state rather than generated socially.
-
----
-
-## 📏 Evidence And Confidence Snapshot  
-
-### High confidence
-
-- Oman is a highly centralised monarchy.
-- Political speech, media, assembly, and association are substantially restricted.
-- Online critics and amplifiers have been arrested or prosecuted.
-- the 2024 Media Law, 2025 Nationality Law, and 2026 Information Technology Crimes Law materially shape the capability environment.
-- Omani political expression uses Arabic slogans, loyal reform language, satire, memes, hashtags, and private-network circulation.
-
-### Medium confidence
-
-- broad legal and administrative powers create meaningful anticipatory self-censorship in diaspora life;
-- strategic utility encourages foreign understatement;
-- private digital circulation is central to preserving and moving political speech;
-- citizenship and return dependence can operate as relationship caps even without overt threats.
-
-### Low or unresolved confidence
-
-- the scale of direct Omani overseas surveillance;
-- use of commercial spyware against named diaspora targets;
-- systematic pressure on relatives of critics abroad;
-- Oman-specific misuse of international police databases;
-- technical integration between Turs and security databases;
-- named royal-household or commercial beneficiaries behind specific repression programmes.
-
----
-
-## 🧯 Rival Explanations And Disproof Conditions  
-
-Consider:
-
-- genuine cyber-fraud prevention;
-- ordinary criminal investigation;
-- non-political moderation;
-- platform error;
-- interpersonal conflict;
-- community gossip;
-- employer action independent of the state;
-- lawful consular processing;
-- regional security cooperation unrelated to political dissent.
-
-A claim of state-directed transnational repression becomes stronger where there is:
-
-- repeated reference to protected political activity;
-- private family information unavailable publicly;
-- coordinated contact across institutions;
-- embassy or official involvement;
-- threats tied to return, passports, or relatives;
-- legal requests using political offences dressed as ordinary crime;
-- temporal proximity between speech and adverse action;
-- corroboration from multiple independent sources.
-
-It becomes weaker where:
-
-- the alleged actor had no plausible access;
-- conduct began before the political activity;
-- evidence points to ordinary fraud or personal dispute;
-- official action has a transparent, reviewable, non-political basis;
-- the claim depends entirely on technical anomalies with no supporting pattern.
-
----
-
-## 🔍 Main Evidence Gaps  
-
-Priority research gaps include:
-
-- complete primary texts and authoritative translations of the 2024, 2025, and 2026 laws;
-- implementing regulations;
-- judicial decisions interpreting vague offences;
-- current filtering and lawful-interception evidence;
-- Turs governance, retention, sharing, and vendors;
-- named biometric, identity, cloud, and telecom contractors;
-- Oman-specific INTERPOL, extradition, and transit cases;
-- documented diaspora intimidation cases;
-- primary documentation for torture allegations;
-- women’s political humour and testimony;
-- labour memes and oil-price-era satire;
-- Dhofari historical memory, songs, poetry, and political language;
-- original Arabic for prosecuted tweets;
-- original donkey messages;
-- royal-court adviser and commercial networks;
-- defence, port, training, and intelligence money trails.
-
----
-
-## 🛠️ Practical Questions For Diaspora Readers  
-
-- Which accounts remain tied to Omani phone numbers or documents?
-- Who inside Oman may be exposed through my contacts or posts?
-- Do I need to return, and under what circumstances?
-- Which countries might I transit through?
-- What happens when my passport expires?
-- Which family groups contain people under different legal conditions?
-- Can event photographs be published without names?
-- What evidence should be preserved before deletion?
-- Does my university or employer have a transnational-repression policy?
-- Does my lawyer understand origin-state and host-state crossover?
-- Have threats referenced private information?
-- Has an embassy contacted me?
-- Are adverse actions state-directed, socially generated, or presently unattributable?
-
-Do not encourage confrontation with suspected agents, embassies, relatives, or community organisations.
-
-Prioritise:
-
-- evidence preservation;
-- careful attribution;
-- safer legal advice;
-- diversified document and account recovery;
-- protection of key relationships;
-- host-state reporting where appropriate;
-- maintaining ordinary life.
-
----
-
-## 📚 Selected Evidence And Reading  
-
-### Official Omani legal sources
-
-- Ministry of Justice and Legal Affairs — Royal Decree 58/2024 and Media Law.
-- Ministry of Interior / Oman News Agency — Royal Decree 17/2025 promulgating the Omani Nationality Law.
-- Ministry of Justice and Legal Affairs — Royal Decree 61/2026 and Law Combating Information Technology Crimes.
-- Ministry of Foreign Affairs — Royal Decree 89/2025 approving accession to the International Covenant on Civil and Political Rights, subject to reservations and declarations.
-
-### Omani and regional rights sources
-
-- Oman Human Rights Association reporting on the 2021 protests, `#عبري_تستجيب`, protest signs, arrests, and media restrictions.
-- Gulf Centre for Human Rights reporting on media law, writers, online critics, and detention allegations.
-- Amnesty International reporting on prisoners of conscience and protest-related convictions.
-- Human Rights Watch reporting on communications restrictions and broader rights conditions.
-
-### Scholarship and cultural analysis
-
-- Najma Al Zidjaly on Omani WhatsApp political memes and “reasonably hostile” lament narratives.
-- Najma Al Zidjaly on personalised Omani WhatsApp stickers during COVID-19.
-- Dale Eickelman on information, authority, and the political donkey in Oman.
-- scholarship on the 2011 Omani protest cycle, loyal reform, Sohar, and political communication.
-
-### Host-state transnational-repression frameworks
-
-- UK Government guidance on transnational repression.
-- FBI guidance on foreign-government intimidation, harassment, family pressure, passport coercion, cyber activity, and forced return.
-- European and international work on abusive legal cooperation and diaspora protection.
-
----
-
-## 🧭 After The Ruler  
-
-A future political transition should be tested against what remains.
-
-Ask:
-
-- Which laws survive?
-- Which security files survive?
-- Who controls archives?
-- Are records destroyed or opened?
-- Which commanders and prosecutors remain?
-- Which advisers transfer to the successor?
-- Which vendors retain contracts?
-- Which foreign partners prefer continuity?
-- Can victims access files and remedies?
-- Are citizenship decisions reviewable?
-- Are watchlists and secret evidence audited?
-- Can courts independently review national-security claims?
-
-> **Regime change is not system change when the advisers, databases, contracts, security institutions, and beneficiaries remain in place.**
-
----
-
-## 🔭 Compact Country Definition  
-
-**Oman** is a strategically valuable absolute monarchy whose reputation for moderation and quiet diplomacy sits beside a long-standing system of political censorship, restricted organisation, security-led detention, and punishment of online speech.
-
-Its newer media, nationality, cybercrime, and digital-reporting frameworks increase the possibility that expression, identity, devices, citizenship, and relationships may be governed together, including where a person has moved abroad.
-
-The Sultan sits at the apex. The durable object of investigation is the court, security, administrative, commercial, technical, and foreign-partner ecosystem that makes coercion reproducible.
-
-Public evidence of systematic overseas violence remains limited and claims of direct surveillance must be proved case by case.
-
-The diaspora impact can nevertheless begin before a foreign operation occurs:
-
-- in the passport;
-- in the family group;
-- in the old SIM;
-- in the airport calculation;
-- in the photograph a person steps out of;
-- in the joke they decide not to send.
-
-> **When the state controls the newspaper, broadcast, university, and meeting, politics migrates into the chant, retweet, dream, lament, sticker, hashtag, and donkey.**
-
----
-
-## 🌌 Constellations  
-
-👑 🕸️ 📱 🫏 🪪 — court systems; relationship governance; digital speech; uncensorable humour; citizenship and diaspora exposure.  
-
----
-
-## ✨ Stardust  
-
-Oman, absolute monarchy, court politics, digital authoritarianism, Arabic protest slogans, WhatsApp memes, diaspora repression, citizenship precarity, extraterritorial law, platform archives
-
----
-
-## 🏮 Footer  
-
-*🇴🇲 Oman* is a living country node of the **Polaris Protocol**.  
-It maps Omani state capability without reducing the country to its ruler, its religion, or its international reputation. It preserves local-language political speech alongside the laws, institutions, commercial systems, and relationship pressures that may shape Omani life at home and abroad.
-
-> 📡 Cross-references:
->
-> - [🕌 Middle East And North Africa](./README.md) — *regional method, monarchy analysis, migration as partial exit, and shared evidence rules*  
-> - [🔗 Regional Security And Data Cooperation](./🔗_regional_security_and_data_cooperation.md) — *cross-border policing, vendors, intelligence relationships, and shared infrastructure*  
-> - [🧭 Comparative Method](../🧭_Comparative_Method/README.md) — *shared evidentiary discipline for country and regional capability studies*  
-> - [⚖️ Capability, Intent, And Documented Use](../🧭_Comparative_Method/⚖️_capability_intent_and_documented_use.md) — *separating technical possibility from access, implementation, attribution, and causation*  
-> - [📏 Evidence And Confidence Scale](../🧭_Comparative_Method/📏_evidence_and_confidence_scale.md) — *proposition-level confidence and source handling*  
-> - [🥀 Little Database Of Horrors](../../README.md) — *the wider model for data convergence, relationship governance, and transnational repression*  
-
-*Survivor authorship is sovereign. Containment is never neutral.*  
-
-_Last updated: 2026-07-23_
-
----
-
-# 🧳 Documented Omani Diaspora Experience  
-**First created:** 2026-07-23 | **Last updated:** 2026-07-23  
-*Documented pathways through which Omani political pressure, family exposure, media restriction and official community infrastructure can continue after migration.*
-
----
-
-## 🛰️ Orientation
-
-Leaving Oman can create real territorial safety and wider legal freedom. It does not necessarily end the effects of Omani law, documentation systems, family vulnerability, return needs, political reputation or state-linked community infrastructure.
-
-The public evidence remains thinner than for several better-documented transnational repression systems. This node therefore starts with the smallest claim first:
+The public evidence remains thinner than for several better-documented transnational-repression systems. The smallest defensible Oman-specific claim is:
 
 > **Oman has at least one well-documented case in which an activist’s departure for Britain was followed by detention and travel restrictions affecting close relatives who remained inside Oman.**
 
-The strongest documented pathway is the linked experience of Mohammed al-Fazari, his family and the independent publication *Muwatin*.
+The strongest documented pathway is the linked experience of Mohammed al-Fazari, his family, and the independent publication *Muwatin*.
 
----
-
-## 🧭 What This Node Does
-
-This node separates:
+This section separates:
 
 - lawful migration from complete political exit;
-- direct overseas state action from consequences produced through family, citizenship and return dependency;
+- direct overseas state action from consequences produced through family, citizenship, and return dependency;
 - official community support from proven surveillance;
 - documented cases from plausible but unproven capability;
 - the safety of the person abroad from the continuing exposure of people inside Oman.
 
-It does not presume that every Omani abroad is watched, intimidated or politically active.
+It does not presume that every Omani abroad is watched, intimidated, or politically active.
 
 ---
 
@@ -2090,45 +1573,519 @@ And the human centre:
 
 ---
 
-## 📚 Sources And Reading
+---
 
-- Human Rights Watch, **“Oman: Activist’s Family Barred from Traveling Abroad”** — documents Mohammed al-Fazari’s arrests, confiscated passport and identity card, UK asylum claim, his brother’s detention, and the travel restrictions imposed on his wife and children.  
+## ⚖️ Host-State Crossover  
+
+A foreign request may enter a host state through apparently ordinary channels:
+
+- police cooperation;
+- mutual legal assistance;
+- platform disclosure;
+- immigration systems;
+- extradition;
+- deportation;
+- INTERPOL;
+- university discipline;
+- employment vetting;
+- banking compliance;
+- civil litigation.
+
+The essential translation question is:
+
+> Does the receiving institution understand that “public order,” “misleading information,” or “insulting the ruler” may describe protected political expression in the host country?
+
+A politically motivated request does not become apolitical because it travels through a database.
+
+---
+
+## 🌐 Regional And International Policing  
+
+Oman participates in international and regional policing structures, including INTERPOL-linked and Arab/Gulf cooperation channels.
+
+Participation alone is not proof of abuse.
+
+Investigate Oman-specific cases involving:
+
+- notices;
+- diffusions;
+- extradition requests;
+- transit detention;
+- deportation;
+- politically framed ordinary-crime allegations;
+- challenge and deletion procedures.
+
+> **A politically motivated request does not become apolitical because it travels through an international police database.**
+
+---
+
+## 🏭 Technology, Vendors, And Infrastructure  
+
+Follow:
+
+- telecom ownership;
+- lawful-interception systems;
+- identity platforms;
+- biometric suppliers;
+- cloud providers;
+- cybersecurity contractors;
+- content-monitoring tools;
+- border systems;
+- data-centre infrastructure;
+- resellers and integrators;
+- maintenance contracts;
+- foreign training.
+
+Do not stop at the product brand.
+
+Ask:
+
+- Who specified the requirement?
+- Who integrated the databases?
+- Who maintains the system?
+- Who has administrator access?
+- Who receives recurring revenue?
+- Which royal, state, or foreign-linked entities benefit?
+
+Authoritarian demand shapes the market by rewarding:
+
+- identity resolution;
+- network mapping;
+- broad data integration;
+- low-friction sharing;
+- content classification;
+- proactive intervention.
+
+> **Authoritarian demand does not merely purchase surveillance technology. It teaches the global technology market what governments will reward.**
+
+> **The Gulf does not have to export its political system. It only has to make the dashboard commercially irresistible.**
+
+---
+
+## 💸 Follow The Money  
+
+Map:
+
+- royal-linked businesses;
+- sovereign funds;
+- telecom stakes;
+- defence contracts;
+- port agreements;
+- security procurement;
+- consultants;
+- public-relations firms;
+- universities;
+- law firms;
+- foreign advisers;
+- vendors and subcontractors;
+- revolving doors.
+
+Ask whether a policy is serving:
+
+- political control;
+- bureaucratic expansion;
+- commercial enrichment;
+- rivalry;
+- foreign strategic utility;
+- some combination of all five.
+
+> **Follow the money before accepting the mission statement.**
+
+> **Shut up, peasants; the port is strategically located.**
+
+---
+
+## 🪖 Strategic Utility And Allied Restraint  
+
+Oman’s importance to foreign partners includes:
+
+- maritime geography;
+- the Strait of Hormuz;
+- Duqm;
+- Salalah;
+- military access;
+- logistics;
+- counter-terrorism cooperation;
+- mediation.
+
+Foreign governments may therefore describe Oman through the priorities of:
+
+- defence;
+- access;
+- continuity;
+- regional de-escalation;
+- commercial stability.
+
+That does not prove concealment or complicity.
+
+It creates an incentive for understatement.
+
+Ask:
+
+- What did partners know?
+- Did they receive intelligence derived from abused detainees?
+- What safeguards existed?
+- What training or equipment was supplied?
+- Were abuses investigated?
+- Did strategic access change policy responses?
+
+> **“Generally good” often means the parts I personally needed were functioning.**
+
+---
+
+## 🗄️ Platform Decay As Cultural Destruction  
+
+Omani political culture lives in:
+
+- tweets;
+- replies;
+- retweets;
+- WhatsApp stickers;
+- voice notes;
+- memes;
+- citizen videos;
+- deleted accounts;
+- screenshots;
+- joke formats;
+- hashtags;
+- comments under apparently unrelated posts.
+
+Platform deletion, broken search, API closure, account suspension, and link rot can destroy:
+
+- chronology;
+- provenance;
+- reception;
+- reply networks;
+- dialect;
+- humour;
+- evidence of deletion;
+- the social atmosphere around an event.
+
+A screenshot may preserve words while losing:
+
+- timestamp;
+- thread position;
+- edit history;
+- author metadata;
+- surrounding replies;
+- evidence that the original URL existed.
+
+> **Platform destruction creates an archive in which governments remain documented and the governed slowly disappear.**
+
+> **The populace likes to vibe. The vibe is often where the evidence lives.**
+
+Independent archives and alternative platforms are valuable not merely because they host content, but because they may preserve the connective tissue of public life.
+
+---
+
+## 🔥 Political Fracture And The Quiet-State Problem  
+
+A surveillance state may suppress visible disagreement while losing accurate knowledge of public pressure.
+
+Silence can mean:
+
+- consent;
+- exhaustion;
+- fear;
+- censorship;
+- strategic waiting;
+- loss of faith in peaceful mechanisms.
+
+The feedback loop is dangerous:
+
+1. criticism is blocked;
+2. moderate reform becomes futile;
+3. institutions lose legitimacy;
+4. people conclude only pressure produces concessions;
+5. repression confirms that ordinary participation is meaningless;
+6. polarisation increases;
+7. the state cites polarisation as proof repression was necessary.
+
+Revolution is not inevitable, orderly, or guaranteed to improve conditions.
+
+But governments that criminalise correction may teach people that correction requires rupture.
+
+> **A surveillance state may become very good at preventing society from expressing pressure while becoming catastrophically bad at knowing how much pressure exists.**
+
+> **When every peaceful mechanism for correction is treated as a threat, the system teaches people that correction requires threatening the system.**
+
+---
+
+## 🧪 Capability, Intent, And Documented Use  
+
+### Documented or strongly supported capability
+
+- concentrated decree authority;
+- media licensing and censorship;
+- restrictions on assembly and association;
+- security detention;
+- prosecution of online speech;
+- citizenship administration capable of producing political vulnerability;
+- extraterritorial cybercrime jurisdiction;
+- electronic-evidence mechanisms;
+- centralised digital-risk reporting;
+- international and regional policing participation;
+- communications control.
+
+### Documented use
+
+- arrests and prosecutions involving tweets;
+- punishment of satire;
+- punishment of retweeters;
+- repression of protest;
+- media closure and suspension;
+- imprisonment of journalists and writers;
+- academic self-censorship;
+- alleged abusive detention practices.
+
+### Plausible but not established as a systematic programme
+
+- direct monitoring of all Omani diaspora communities;
+- automated political scoring;
+- one integrated state-wide social-graph platform;
+- routine spyware deployment against overseas critics;
+- systematic embassy intimidation;
+- recurrent overseas violence comparable with the most documented regional cases.
+
+### Inference requiring case-specific evidence
+
+- a direct connection between a specific vendor and a specific abuse;
+- a direct command from the Sultan in a named operational case;
+- foreign-intelligence complicity;
+- misuse of INTERPOL or extradition in a particular case;
+- family pressure directed by the state rather than generated socially.
+
+---
+
+## 📏 Evidence And Confidence Snapshot  
+
+### High confidence
+
+- Oman is a highly centralised monarchy.
+- Political speech, media, assembly, and association are substantially restricted.
+- Online critics and amplifiers have been arrested or prosecuted.
+- the 2024 Media Law, 2025 Nationality Law, and 2026 Information Technology Crimes Law materially shape the capability environment.
+- Omani political expression uses Arabic slogans, loyal reform language, satire, memes, hashtags, and private-network circulation.
+
+### Medium confidence
+
+- broad legal and administrative powers create meaningful anticipatory self-censorship in diaspora life;
+- strategic utility encourages foreign understatement;
+- private digital circulation is central to preserving and moving political speech;
+- citizenship and return dependence can operate as relationship caps even without overt threats.
+
+### Low or unresolved confidence
+
+- the scale of direct Omani overseas surveillance;
+- use of commercial spyware against named diaspora targets;
+- systematic pressure on relatives of critics abroad;
+- Oman-specific misuse of international police databases;
+- technical integration between Turs and security databases;
+- named royal-household or commercial beneficiaries behind specific repression programmes.
+
+---
+
+## 🧯 Rival Explanations And Disproof Conditions  
+
+Consider:
+
+- genuine cyber-fraud prevention;
+- ordinary criminal investigation;
+- non-political moderation;
+- platform error;
+- interpersonal conflict;
+- community gossip;
+- employer action independent of the state;
+- lawful consular processing;
+- regional security cooperation unrelated to political dissent.
+
+A claim of state-directed transnational repression becomes stronger where there is:
+
+- repeated reference to protected political activity;
+- private family information unavailable publicly;
+- coordinated contact across institutions;
+- embassy or official involvement;
+- threats tied to return, passports, or relatives;
+- legal requests using political offences dressed as ordinary crime;
+- temporal proximity between speech and adverse action;
+- corroboration from multiple independent sources.
+
+It becomes weaker where:
+
+- the alleged actor had no plausible access;
+- conduct began before the political activity;
+- evidence points to ordinary fraud or personal dispute;
+- official action has a transparent, reviewable, non-political basis;
+- the claim depends entirely on technical anomalies with no supporting pattern.
+
+---
+
+## 🔍 Main Evidence Gaps  
+
+Priority research gaps include:
+
+- complete primary texts and authoritative translations of the 2024, 2025, and 2026 laws;
+- implementing regulations;
+- judicial decisions interpreting vague offences;
+- current filtering and lawful-interception evidence;
+- Turs governance, retention, sharing, and vendors;
+- named biometric, identity, cloud, and telecom contractors;
+- Oman-specific INTERPOL, extradition, and transit cases;
+- additional documented diaspora intimidation cases beyond the al-Fazari family pathway;
+- primary documentation for torture allegations;
+- women’s political humour and testimony;
+- labour memes and oil-price-era satire;
+- Dhofari historical memory, songs, poetry, and political language;
+- original Arabic for prosecuted tweets;
+- original donkey messages;
+- royal-court adviser and commercial networks;
+- defence, port, training, and intelligence money trails.
+
+---
+
+## 🛠️ Practical Questions For Diaspora Readers  
+
+- Which accounts remain tied to Omani phone numbers or documents?
+- Who inside Oman may be exposed through my contacts or posts?
+- Do I need to return, and under what circumstances?
+- Which countries might I transit through?
+- What happens when my passport expires?
+- Which family groups contain people under different legal conditions?
+- Can event photographs be published without names?
+- What evidence should be preserved before deletion?
+- Does my university or employer have a transnational-repression policy?
+- Does my lawyer understand origin-state and host-state crossover?
+- Have threats referenced private information?
+- Has an embassy contacted me?
+- Are adverse actions state-directed, socially generated, or presently unattributable?
+
+Do not encourage confrontation with suspected agents, embassies, relatives, or community organisations.
+
+Prioritise:
+
+- evidence preservation;
+- careful attribution;
+- safer legal advice;
+- diversified document and account recovery;
+- protection of key relationships;
+- host-state reporting where appropriate;
+- maintaining ordinary life.
+
+---
+
+## 📚 Selected Evidence And Reading  
+
+### Official Omani legal sources
+
+- Ministry of Justice and Legal Affairs — Royal Decree 58/2024 and Media Law.
+- Ministry of Interior / Oman News Agency — Royal Decree 17/2025 promulgating the Omani Nationality Law.
+- Ministry of Justice and Legal Affairs — Royal Decree 61/2026 and Law Combating Information Technology Crimes.
+- Ministry of Foreign Affairs — Royal Decree 89/2025 approving accession to the International Covenant on Civil and Political Rights, subject to reservations and declarations.
+
+### Omani and regional rights sources
+
+- Oman Human Rights Association reporting on the 2021 protests, `#عبري_تستجيب`, protest signs, arrests, and media restrictions.
+- Gulf Centre for Human Rights reporting on media law, writers, online critics, and detention allegations.
+- Amnesty International reporting on prisoners of conscience and protest-related convictions.
+- Human Rights Watch reporting on communications restrictions and broader rights conditions.
+
+### Scholarship and cultural analysis
+
+- Najma Al Zidjaly on Omani WhatsApp political memes and “reasonably hostile” lament narratives.
+- Najma Al Zidjaly on personalised Omani WhatsApp stickers during COVID-19.
+- Dale Eickelman on information, authority, and the political donkey in Oman.
+- scholarship on the 2011 Omani protest cycle, loyal reform, Sohar, and political communication.
+
+### Documented Omani diaspora and exile cases
+
+- Human Rights Watch, **“Oman: Activist’s Family Barred from Traveling Abroad”** — documents Mohammed al-Fazari’s arrests, confiscated passport and identity card, UK asylum claim, his brother’s detention, and travel restrictions imposed on his wife and children.  
   https://www.hrw.org/news/2017/02/14/oman-activists-family-barred-traveling-abroad
-
-- مواطن / *Muwatin*, **“Muwatin Beyond the Red Lines: A Story of Outmaneuvering Obstacles”** — first-person institutional account of relocation abroad, arrests of editors, suspension, blocking, funding pressure, source-access problems and foreign-agenda accusations.  
+- مواطن / *Muwatin*, **“Muwatin Beyond the Red Lines: A Story of Outmaneuvering Obstacles”** — first-person institutional account of relocation abroad, arrests of editors, suspension, blocking, funding pressure, source-access problems, and foreign-agenda accusations.  
   https://muwatin.net/en/65309/muwatin-beyond-the-red-lines-a-story-of-outmaneuvering-obstacles/
-
-- The British Omani Society, **“About Us”** — documents royal patronage, the ambassador’s presidency and the Society’s stated role connecting government, youth, academic and private-sector actors.  
+- The British Omani Society, **“About Us”** — documents royal patronage, the ambassador’s presidency, and the Society’s stated role connecting government, youth, academic, and private-sector actors.  
   https://www.britishomani.org/about-us
-
-- The British Omani Society, **“Omani Students Come Together for Ramadan at The British Omani Society Iftar”** — documents cooperation among the Society, the Omani Embassy’s Cultural Attaché and the Oman Student Association in London.  
+- The British Omani Society, **“Omani Students Come Together for Ramadan at The British Omani Society Iftar”** — documents cooperation among the Society, the Omani Embassy’s Cultural Attaché, and the Oman Student Association in London.  
   https://www.britishomani.org/news/bos/omani-students-come-together-for-ramadan-at-the-british-omani-society-iftar
+- Anadolu Agency Arabic reporting on the reported `عفو ضمني` / `العفو الهادئ` and return of Omani opponents abroad in 2020. Cross-check against further Arabic sources before making stronger claims about formal pardon terms or conditions of return.
 
-- Anadolu Agency Arabic reporting on the reported `عفو ضمني` / quiet return of Omani opponents abroad in 2020. This should be cross-checked against additional Arabic sources before any stronger claim is made about formal pardon terms or conditions of return.
+### Host-state transnational-repression frameworks
 
----
-
-## 🌌 Constellations
-
-🧳 🕸️ 📰 🛂 🏛️ — exile pathways; family pressure; journalism abroad; document dependency; official community infrastructure.
-
-## ✨ Stardust
-
-oman, diaspora, exile, transnational repression, family travel bans, asylum, independent media, citizenship, return risk, community infrastructure
+- UK Government guidance on transnational repression.
+- FBI guidance on foreign-government intimidation, harassment, family pressure, passport coercion, cyber activity, and forced return.
+- European and international work on abusive legal cooperation and diaspora protection.
 
 ---
 
-## 🏮 Footer
+## 🧭 After The Ruler  
 
-*Documented Omani Diaspora Experience* is a living node of the **Polaris Protocol**.  
-It preserves the currently documented human and institutional pathways through which Omani political constraint can continue after migration, while keeping direct evidence separate from inference and unverified attribution.
+A future political transition should be tested against what remains.
+
+Ask:
+
+- Which laws survive?
+- Which security files survive?
+- Who controls archives?
+- Are records destroyed or opened?
+- Which commanders and prosecutors remain?
+- Which advisers transfer to the successor?
+- Which vendors retain contracts?
+- Which foreign partners prefer continuity?
+- Can victims access files and remedies?
+- Are citizenship decisions reviewable?
+- Are watchlists and secret evidence audited?
+- Can courts independently review national-security claims?
+
+> **Regime change is not system change when the advisers, databases, contracts, security institutions, and beneficiaries remain in place.**
+
+---
+
+## 🔭 Compact Country Definition  
+
+**Oman** is a strategically valuable absolute monarchy whose reputation for moderation and quiet diplomacy sits beside a long-standing system of political censorship, restricted organisation, security-led detention, and punishment of online speech.
+
+Its newer media, nationality, cybercrime, and digital-reporting frameworks increase the possibility that expression, identity, devices, citizenship, and relationships may be governed together, including where a person has moved abroad.
+
+The Sultan sits at the apex. The durable object of investigation is the court, security, administrative, commercial, technical, and foreign-partner ecosystem that makes coercion reproducible.
+
+Public evidence of systematic overseas violence remains limited and claims of direct surveillance must be proved case by case.
+
+The diaspora impact can nevertheless begin before a foreign operation occurs:
+
+- in the passport;
+- in the family group;
+- in the old SIM;
+- in the airport calculation;
+- in the photograph a person steps out of;
+- in the joke they decide not to send.
+
+> **When the state controls the newspaper, broadcast, university, and meeting, politics migrates into the chant, retweet, dream, lament, sticker, hashtag, and donkey.**
+
+---
+
+## 🌌 Constellations  
+
+👑 🕸️ 📱 🫏 🪪 — court systems; relationship governance; digital speech; uncensorable humour; citizenship and diaspora exposure.
+
+## ✨ Stardust  
+
+Oman, absolute monarchy, court politics, digital authoritarianism, Arabic protest slogans, WhatsApp memes, Mohammed al-Fazari, Muwatin, diaspora repression, family travel restrictions, citizenship precarity, extraterritorial law, platform archives
+
+---
+
+## 🏮 Footer  
+
+*🇴🇲 Oman* is a living country node of the **Polaris Protocol**.  
+It maps Omani state capability without reducing the country to its ruler, its religion, or its international reputation. It preserves local-language political speech alongside the laws, institutions, commercial systems, and relationship pressures that may shape Omani life at home and abroad.
 
 > 📡 Cross-references:
 >
-> - [🇴🇲 Oman](./🇴🇲_oman.md) — *country capability study into which this evidence may be integrated*  
-> - [🕌 Middle East And North Africa](./README.md) — *regional comparative method for state capability, migration and diaspora exposure*  
-> - [🥀 Little Database Of Horrors](../../README.md) — *wider capability model for relationship mapping, diaspora management and transnational repression*
+> - [🕌 Middle East And North Africa](./README.md) — *regional method, monarchy analysis, migration as partial exit, and shared evidence rules*  
+> - [🔗 Regional Security And Data Cooperation](./🔗_regional_security_and_data_cooperation.md) — *cross-border policing, vendors, intelligence relationships, and shared infrastructure*  
+> - [🧭 Comparative Method](../🧭_Comparative_Method/README.md) — *shared evidentiary discipline for country and regional capability studies*  
+> - [⚖️ Capability, Intent, And Documented Use](../🧭_Comparative_Method/⚖️_capability_intent_and_documented_use.md) — *separating technical possibility from access, implementation, attribution, and causation*  
+> - [📏 Evidence And Confidence Scale](../🧭_Comparative_Method/📏_evidence_and_confidence_scale.md) — *proposition-level confidence and source handling*  
+> - [🥀 Little Database Of Horrors](../../README.md) — *the wider model for data convergence, relationship governance, and transnational repression*  
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-07-23_
