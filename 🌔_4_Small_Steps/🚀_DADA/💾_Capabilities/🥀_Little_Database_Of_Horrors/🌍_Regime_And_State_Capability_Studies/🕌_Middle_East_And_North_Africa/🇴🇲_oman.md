@@ -2068,10 +2068,12 @@ The diaspora impact can nevertheless begin before a foreign operation occurs:
 
 *Further media:*  
 
+- [📲: The British Omani Society: "Our Elders Project"](https://www.britishomani.org/our-elders-project) – *"Magical stories that shouldn’t be forgotten of life before 1970 and after."*  
 - [📑: Freedom House: Freedom in the World: Oman](https://freedomhouse.org/country/oman/freedom-world/2025)  
 - [📑: Amnesty International: Human rights in Oman](https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/oman/report-oman/)  
 - [📑: BTI: Oman](https://bti-project.org/en/reports/country-dashboard/OMN)
-- [📑: Migranto: Omani Diaspora](https://migranto.io/country/oman/diaspora)  
+- [📑: Migranto: Omani Diaspora](https://migranto.io/country/oman/diaspora)
+- [📰: Jacobin: "Oman’s Revolutionary Movement Posed a Radical Threat to Arabia’s Royal Dictatorships"](https://jacobin.com/2023/09/oman-dhufar-anticolonial-revolution-60s-70s-british-imperialism-history)  
 
 ---
 
