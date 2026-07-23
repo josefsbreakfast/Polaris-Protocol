@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-23 13:56:43 UTC_
+_Generated on 2026-07-23 13:58:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6096,11 +6096,13 @@ _Generated on 2026-07-23 13:56:43 UTC_
             - [`🇯🇴_jordan.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/🇯🇴_jordan.md)
             - [`🇰🇼_kuwait.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/🇰🇼_kuwait.md)
             - [`🇱🇧_lebanon.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/🇱🇧_lebanon.md)
+            - [`🇲🇦_morocco.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/🇲🇦_morocco.md)
             - [`🇴🇲_oman.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/🇴🇲_oman.md)
             - [`🇵🇸_palestinian_authorities_and_fragmented_governance.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/🇵🇸_palestinian_authorities_and_fragmented_governance.md)
             - [`🇶🇦_qatar.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/🇶🇦_qatar.md)
             - [`🇸🇦_saudi_arabia.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/🇸🇦_saudi_arabia.md)
             - [`🇸🇾_syria.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/🇸🇾_syria.md)
+            - [`🇹🇳_tunisia.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/🇹🇳_tunisia.md)
             - [`🇹🇷_turkiye.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/🇹🇷_turkiye.md)
             - [`🇾🇪_yemen.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/🇾🇪_yemen.md)
             - [`🔗_regional_security_and_data_cooperation.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/🔗_regional_security_and_data_cooperation.md)
