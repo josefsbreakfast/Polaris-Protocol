@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-23 16:47:56 UTC_
+_Generated on 2026-07-23 16:49:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6085,6 +6085,7 @@ _Generated on 2026-07-23 16:47:56 UTC_
             - [`🇻🇳_vietnam.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌏_East_And_Southeast_Asia/🇻🇳_vietnam.md)
             - [`🔗_regional_authoritarian_cooperation.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🌏_East_And_Southeast_Asia/🔗_regional_authoritarian_cooperation.md)
           - [**🕌_Middle_East_And_North_Africa/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/)
+            - [`README 5.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/README 5.md)
             - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/README.md)
             - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/notes.txt)
             - [`🇦🇪_united_arab_emirates.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/🇦🇪_united_arab_emirates.md)
