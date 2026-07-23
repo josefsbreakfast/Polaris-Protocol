@@ -1,3 +1,26 @@
+1. 🇴🇲_oman.md
+2. 🇰🇼_kuwait.md
+3. 🇶🇦_qatar.md
+4. 🇹🇳_tunisia.md
+5. 🇱🇧_lebanon.md
+6. 🇮🇶_iraq.md
+7. 🇯🇴_jordan.md
+8. 🇲🇦_morocco.md
+9. 🇧🇭_bahrain.md
+10. 🇪🇬_egypt.md
+11. 🇹🇷_turkiye.md
+12. 🇦🇪_united_arab_emirates.md
+13. 🇸🇦_saudi_arabia.md
+14. 🇮🇷_iran.md
+15. 🇮🇱_israel.md
+16. 🇸🇾_syria.md
+17. 🇾🇪_yemen.md
+18. 🇵🇸_palestinian_authorities_and_fragmented_governance.md
+19. 🔗_regional_security_and_data_cooperation.md
+
+---
+
+
 🕌_Middle_East_And_North_Africa/notes.txt
             │   │   ├── README.md
             │   │   ├── 🇮🇷_iran.md
