@@ -2073,7 +2073,11 @@ The diaspora impact can nevertheless begin before a foreign operation occurs:
 - [📑: Amnesty International: Human rights in Oman](https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/oman/report-oman/)  
 - [📑: BTI: Oman](https://bti-project.org/en/reports/country-dashboard/OMN)
 - [📑: Migranto: Omani Diaspora](https://migranto.io/country/oman/diaspora)
-- [📰: Jacobin: "Oman’s Revolutionary Movement Posed a Radical Threat to Arabia’s Royal Dictatorships"](https://jacobin.com/2023/09/oman-dhufar-anticolonial-revolution-60s-70s-british-imperialism-history)  
+- [📰: Jacobin: "Oman’s Revolutionary Movement Posed a Radical Threat to Arabia’s Royal Dictatorships"](https://jacobin.com/2023/09/oman-dhufar-anticolonial-revolution-60s-70s-british-imperialism-history)
+- [📄: Women Journalists Without Chains: "Oman: Sweeping Cybercrime Law Criminalizes Expression, Journalism, and Digital Assembly"](https://wjwc.org/solidarity-statement-en/oman-sweeping-cybercrime-law-criminalizes-expression-journalism-and-digital-assembly)
+- [📰: Muscat Daily: "TRA unveils new platform to tackle cyber threats"](https://www.muscatdaily.com/2026/07/08/tra-unveils-new-platform-to-tackle-cyber-threats/)
+- [📰: SMEX: "Why Oman’s new cybercrime law has little to do with cybercrime"](https://smex.org/why-omans-new-cybercrime-law-has-little-to-do-with-cybercrime/)  
+- [📰: Americans for Democracy & Human Rights in Bahrain (ADHRB): "Biometric Surveillance and Personal Data Protection in the Gulf: A Growing Human Rights Concern"](https://www.adhrb.org/2025/11/biometric-surveillance-and-personal-data-protection-in-the-gulf-a-growing-human-rights-concern/)  
 
 ---
 
