@@ -1648,3 +1648,487 @@ It maps Omani state capability without reducing the country to its ruler, its re
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-07-23_
+
+---
+
+# 🧳 Documented Omani Diaspora Experience  
+**First created:** 2026-07-23 | **Last updated:** 2026-07-23  
+*Documented pathways through which Omani political pressure, family exposure, media restriction and official community infrastructure can continue after migration.*
+
+---
+
+## 🛰️ Orientation
+
+Leaving Oman can create real territorial safety and wider legal freedom. It does not necessarily end the effects of Omani law, documentation systems, family vulnerability, return needs, political reputation or state-linked community infrastructure.
+
+The public evidence remains thinner than for several better-documented transnational repression systems. This node therefore starts with the smallest claim first:
+
+> **Oman has at least one well-documented case in which an activist’s departure for Britain was followed by detention and travel restrictions affecting close relatives who remained inside Oman.**
+
+The strongest documented pathway is the linked experience of Mohammed al-Fazari, his family and the independent publication *Muwatin*.
+
+---
+
+## 🧭 What This Node Does
+
+This node separates:
+
+- lawful migration from complete political exit;
+- direct overseas state action from consequences produced through family, citizenship and return dependency;
+- official community support from proven surveillance;
+- documented cases from plausible but unproven capability;
+- the safety of the person abroad from the continuing exposure of people inside Oman.
+
+It does not presume that every Omani abroad is watched, intimidated or politically active.
+
+---
+
+## 🧳 Mohammed Al-Fazari — A Documented Exile Pathway
+
+Mohammed al-Fazari’s case provides a rare, publicly documented sequence connecting domestic repression, travel control, asylum and pressure on relatives.
+
+The reported sequence includes:
+
+- arrest during the 2012 round-up of bloggers and activists;
+- solitary confinement;
+- prosecution for alleged unlawful gathering and insulting the Sultan;
+- a royal pardon in 2013;
+- renewed arrest in August 2014;
+- six days of incommunicado detention;
+- release without charge;
+- confiscation of his passport and national identity card at Muscat airport in December 2014;
+- departure from Oman in July 2015 despite a travel ban;
+- an asylum claim in the United Kingdom;
+- arrest of his brother five days after his departure;
+- three weeks of detention for the brother without charge;
+- interception of al-Fazari’s wife and two young children at the Oman–UAE border in January 2017;
+- confiscation of their passports;
+- instructions that they report to the Royal Oman Police Special Division in Muscat before being permitted to travel.
+
+Human Rights Watch described the restrictions imposed on his family as apparent intimidation connected to his peaceful activism.
+
+> **Once the speaker became physically harder to reach, mobility restrictions and detention moved onto the family relationship.**
+
+The family became the remaining border.
+
+---
+
+## 🕸️ Relationship Pressure After Departure
+
+The al-Fazari case demonstrates an Oman-specific relationship pathway:
+
+- the dissident leaves;
+- the origin state retains access to relatives;
+- relatives require passports and exit permission;
+- family reunion becomes administratively controllable;
+- pressure can be communicated without physically reaching the speaker abroad.
+
+This does not prove that Oman systematically targets every exile’s relatives. It establishes that close family members have, in at least one documented case, been subjected to detention or travel restriction after an activist left for Britain.
+
+The practical consequences may include:
+
+- guilt about the effect of public speech on relatives;
+- delayed family reunion;
+- reluctance to publish under a legal name;
+- fear of escalating from criticism of ministries to criticism of the ruler;
+- withdrawal from interviews, protests or public photographs;
+- uncertainty over whether contact with relatives increases their exposure.
+
+> **The overseas speaker may be legally free while someone they love remains administratively reachable.**
+
+---
+
+## 📰 Muwatin — Journalism From Outside
+
+*Muwatin* provides a related institutional exile pathway.
+
+According to the publication’s own account:
+
+- the organisation relocated abroad after its editor-in-chief sought political asylum;
+- two female editors who remained in Oman were arrested;
+- fear of security consequences made continued domestic work impossible;
+- operations were suspended;
+- the publication relaunched from abroad on World Press Freedom Day in 2017;
+- the site was immediately blocked in Oman;
+- access also remained restricted in Saudi Arabia, while Qatar blocked it for a period;
+- geographical distance made information-gathering harder;
+- the lack of strong source-protection and information-access law continued to impair reporting;
+- its editorial position made commercial advertising difficult;
+- operating abroad made it easier to depict the publication as an opposition project;
+- narratives accused it of treason and of working for neighbouring Gulf governments.
+
+> **The newsroom moved. The risk did not move evenly with it.**
+
+---
+
+## 🧱 Exile Fragments The Newsroom
+
+An editor abroad may acquire wider freedom to publish while colleagues and sources inside Oman remain exposed.
+
+This can produce:
+
+- arrests or questioning of local contributors;
+- collapse of domestic editorial teams;
+- cautious or severed source relationships;
+- greater reliance on remote testimony;
+- difficulty verifying events;
+- reluctance to retain contact details;
+- fear that a source’s phone or family connection will identify them;
+- a publication that is legally reachable abroad but technically blocked at home.
+
+Exile therefore creates an information paradox:
+
+> **It removes the censor from the editor’s room while placing distance, fear and blocking between the editor and the country being reported.**
+
+---
+
+## 🎭 The Foreign-Agenda Smear
+
+Operating abroad can change how critical Omani speech is framed.
+
+Possible labels include:
+
+- `الخيانة` — treason or betrayal;
+- `العمالة` — acting as an agent or collaborator;
+- `أجندات خارجية` — foreign agendas;
+- `تشويه سمعة عُمان` — damaging Oman’s reputation;
+- `الإساءة إلى هيبة الدولة` — affronting the prestige of the state;
+- working for a neighbouring Gulf government;
+- becoming an opposition project merely by operating from outside Oman.
+
+These narratives need not establish any actual foreign direction. Their political function may be to convert:
+
+- journalism into betrayal;
+- exile into evidence of disloyalty;
+- funding difficulty into suspicion;
+- international publication into foreign interference.
+
+> **The fact that a publication had to leave can then be used as evidence that it never truly belonged.**
+
+---
+
+## 🏠 Return, Pardon And Allegiance
+
+Arabic-language reporting in 2020 described the return of some Omani opponents abroad following what was termed:
+
+- `عفو ضمني` — an implicit pardon;
+- `العفو الهادئ` — a quiet pardon.
+
+Reports described return announcements accompanied by renewed allegiance to Sultan Haitham, while no fully transparent formal pardon process was initially visible.
+
+This raises questions that should not be flattened into a simple success story:
+
+- Who negotiated the return?
+- Were assurances written or informal?
+- Were convictions erased?
+- Were passports restored?
+- Was previous political speech renounced?
+- Was allegiance publicly restated as a condition, expectation or gesture?
+- Were relatives involved in negotiations?
+- Did the relevant laws change?
+- Could the same offences be revived later?
+
+> **A quiet pardon can restore return without clarifying whether the underlying right has changed.**
+
+Return may reflect hope, reconciliation, exhaustion, family need, cultural belonging or confidence in a new ruler. It does not prove that earlier fear was irrational.
+
+---
+
+## 🏛️ Official Community Infrastructure Abroad
+
+Omani diaspora life in Britain includes visible official and bilateral infrastructure.
+
+The British Omani Society states that:
+
+- Sultan Qaboos was its founding patron;
+- Sultan Haitham is its current patron;
+- Oman’s ambassador to the United Kingdom is its president;
+- it connects government, youth, academic and private-sector actors;
+- it hosts Omani student and cultural events;
+- it works with the Cultural Attaché of the Embassy of Oman and Omani student associations.
+
+Recent public events have brought together:
+
+- Omani students from across the United Kingdom;
+- the Omani ambassador;
+- embassy staff;
+- the Cultural Attaché;
+- student associations;
+- alumni and bilateral exchange participants.
+
+None of this is evidence that the Society, embassy or student associations conduct surveillance or coercion. Such structures may provide genuine cultural, academic and practical support.
+
+The analytical issue is institutional proximity:
+
+> **An Omani newcomer may find that culturally familiar student, diplomatic, business and community spaces are closely connected, while clearly independent Omani civic spaces are harder to identify.**
+
+---
+
+## 🪞 The Relationship Diaspora And The Exile Diaspora
+
+A host country may contain overlapping but differently situated Omani communities.
+
+### The Relationship Diaspora
+
+May include:
+
+- students;
+- scholarship recipients;
+- businesspeople;
+- officials;
+- embassy-connected cultural participants;
+- bilateral exchange alumni;
+- people who value and benefit from close Oman–host-country relations.
+
+### The Exile Or Critical Diaspora
+
+May include:
+
+- asylum seekers;
+- independent journalists;
+- human-rights defenders;
+- people with detained or travel-restricted relatives;
+- critics uncertain whether official spaces are safe for political disagreement;
+- people who cannot return without risk.
+
+These are not morally fixed populations. Individuals may move between them, belong partly to both, or reject both labels.
+
+The point is that the same city may contain:
+
+- a public celebration of bilateral friendship;
+- an editor reporting from political exile;
+- an Omani student dependent on official scholarship systems;
+- a family unable to leave Oman to join a relative.
+
+---
+
+## 🧍 The Asylum Seeker Inside A Friendship Narrative
+
+Oman’s external reputation emphasises:
+
+- moderation;
+- stability;
+- diplomacy;
+- tolerance;
+- strategic reliability;
+- strong bilateral relations.
+
+An asylum seeker may instead need to explain:
+
+- arrest over political speech;
+- prosecution for insulting the ruler;
+- passport confiscation;
+- travel restriction;
+- family pressure;
+- website blocking;
+- punishment of editors or retweeters;
+- fear attached to return.
+
+This creates a reputation gap.
+
+The person’s account may compete with better-funded and institutionally familiar narratives of:
+
+- friendship;
+- defence cooperation;
+- education exchange;
+- trade;
+- mediation;
+- national stability.
+
+> **The exile’s account of coercion competes with a much larger public story explaining why Oman is useful, moderate and quiet.**
+
+That gap can influence:
+
+- asylum credibility assessments;
+- university safeguarding;
+- press interest;
+- community acceptance;
+- whether political risk is dismissed as “only a tweet.”
+
+---
+
+## 📱 Digital Continuity In Exile
+
+Migration does not create a fresh digital person.
+
+An Omani abroad may retain:
+
+- the same WhatsApp account;
+- an Omani mobile number;
+- an origin-state SIM registration;
+- banking and government-service accounts;
+- old contact books;
+- cloud backups;
+- family groups;
+- archived political posts;
+- identity records linked to passport renewal;
+- photographs connecting activists to relatives inside Oman.
+
+The evidence currently available does not establish that Omani authorities routinely access all such data.
+
+The exposure lies in persistence:
+
+- a public account may reveal location and employment;
+- contact synchronisation may expose relationships;
+- old posts may affect return calculations;
+- account recovery may depend on an Omani number;
+- deleted posts may remain preserved elsewhere;
+- family members may receive or forward material while physically inside Oman.
+
+> **The person crossed the border. The old phone book crossed with them.**
+
+---
+
+## 🛂 Documents, Consulates And Return Dependency
+
+Omanis abroad may still depend upon state-controlled processes for:
+
+- passport renewal;
+- powers of attorney;
+- birth, marriage or inheritance documents;
+- property matters;
+- family registration;
+- repatriation;
+- return for funerals or care;
+- children’s documentation.
+
+The evidence reviewed here does not establish routine consular intimidation.
+
+The capability question is whether necessary administrative services create a point of dependency where:
+
+- identity is reverified;
+- current address is disclosed;
+- political activity could become visible;
+- delays are difficult to appeal;
+- refusal of service affects mobility or family life.
+
+A consulate may be both a source of help and a state-controlled gateway.
+
+---
+
+## 🧪 What The Public Evidence Establishes
+
+### Strongly Supported
+
+- Mohammed al-Fazari sought asylum in Britain after arrest, travel restriction and confiscation of identity documents.
+- His brother was arrested shortly after his departure and detained without charge.
+- His wife and young children were prevented from leaving Oman and had their passports confiscated.
+- *Muwatin* relocated abroad after security pressure and arrests affecting its team.
+- The publication was blocked in Oman after relaunching from abroad.
+- Operating abroad created source-access, funding and legitimacy problems.
+- The British Omani Society openly operates with royal patronage, an ambassadorial presidency and cooperation with embassy and student structures.
+
+### Plausible But Not Established As A General Pattern
+
+- broad monitoring of all Omanis abroad;
+- systematic embassy intimidation;
+- routine digital surveillance of diaspora communities;
+- a unified overseas dissident database;
+- widespread physical targeting in Western countries;
+- punishment of every critic’s relatives.
+
+### Required Discipline
+
+- Do not upgrade one documented family case into a universal policy.
+- Do not treat official community structures as covert operations without evidence.
+- Do not treat absence of spectacular overseas violence as absence of diaspora constraint.
+- Preserve the distinction between:
+  - direct state action;
+  - credible future risk;
+  - self-censorship;
+  - socially generated suspicion;
+  - unverified attribution.
+
+---
+
+## 🔎 Questions For Further Investigation
+
+### Family And Mobility
+
+- How often are relatives of critics subjected to passport confiscation or travel restriction?
+- Are family restrictions recorded through court orders, police instructions or administrative blocks?
+- What appeal exists?
+- Are restrictions lifted after public silence, negotiation or return?
+
+### Media In Exile
+
+- Which Omani journalists currently work from Britain, Europe, Canada, Australia or North America?
+- Which sites are blocked inside Oman?
+- Which contributors have withdrawn after questioning or family pressure?
+- How are sources protected?
+- Which funders are rejected because support would compromise independence?
+
+### Community Infrastructure
+
+- Are there independent Omani civic, labour, women’s, queer, refugee or journalistic spaces outside official bilateral networks?
+- Do Omani students understand the relationship between scholarship bodies, embassies and student associations?
+- Can political disagreement occur in those spaces without reputational or administrative consequence?
+
+### Return
+
+- What happened to those who returned under the reported `العفو الهادئ`?
+- Were their documents restored?
+- Were prosecutions formally extinguished?
+- Could they publish or organise afterward?
+- Did family pressure shape the decision to return?
+
+### Host-State Response
+
+- Did British authorities recognise the family restrictions as part of the asylum risk?
+- Were universities, police or journalists aware of the documented pathway?
+- Have Omani political cases entered immigration, extradition or international police systems?
+
+---
+
+## 🧷 Compact Finding
+
+> **A specifically Omani diaspora experience can include political asylum in Britain, pressure transferred to relatives remaining in Oman, loss of family mobility, independent media operating from exile while local contributors remain exposed, domestic blocking of foreign-hosted journalism, accusations that overseas criticism constitutes treason or foreign agency, and dependence on discretionary permission or pardon to return. Direct overseas surveillance must be proved rather than presumed, but the al-Fazari and Muwatin record shows that migration did not make the political system disappear.**
+
+And the human centre:
+
+> **He reached Britain. His publication reached the internet. His wife and children still could not cross the border to join him.**
+
+---
+
+## 📚 Sources And Reading
+
+- Human Rights Watch, **“Oman: Activist’s Family Barred from Traveling Abroad”** — documents Mohammed al-Fazari’s arrests, confiscated passport and identity card, UK asylum claim, his brother’s detention, and the travel restrictions imposed on his wife and children.  
+  https://www.hrw.org/news/2017/02/14/oman-activists-family-barred-traveling-abroad
+
+- مواطن / *Muwatin*, **“Muwatin Beyond the Red Lines: A Story of Outmaneuvering Obstacles”** — first-person institutional account of relocation abroad, arrests of editors, suspension, blocking, funding pressure, source-access problems and foreign-agenda accusations.  
+  https://muwatin.net/en/65309/muwatin-beyond-the-red-lines-a-story-of-outmaneuvering-obstacles/
+
+- The British Omani Society, **“About Us”** — documents royal patronage, the ambassador’s presidency and the Society’s stated role connecting government, youth, academic and private-sector actors.  
+  https://www.britishomani.org/about-us
+
+- The British Omani Society, **“Omani Students Come Together for Ramadan at The British Omani Society Iftar”** — documents cooperation among the Society, the Omani Embassy’s Cultural Attaché and the Oman Student Association in London.  
+  https://www.britishomani.org/news/bos/omani-students-come-together-for-ramadan-at-the-british-omani-society-iftar
+
+- Anadolu Agency Arabic reporting on the reported `عفو ضمني` / quiet return of Omani opponents abroad in 2020. This should be cross-checked against additional Arabic sources before any stronger claim is made about formal pardon terms or conditions of return.
+
+---
+
+## 🌌 Constellations
+
+🧳 🕸️ 📰 🛂 🏛️ — exile pathways; family pressure; journalism abroad; document dependency; official community infrastructure.
+
+## ✨ Stardust
+
+oman, diaspora, exile, transnational repression, family travel bans, asylum, independent media, citizenship, return risk, community infrastructure
+
+---
+
+## 🏮 Footer
+
+*Documented Omani Diaspora Experience* is a living node of the **Polaris Protocol**.  
+It preserves the currently documented human and institutional pathways through which Omani political constraint can continue after migration, while keeping direct evidence separate from inference and unverified attribution.
+
+> 📡 Cross-references:
+>
+> - [🇴🇲 Oman](./🇴🇲_oman.md) — *country capability study into which this evidence may be integrated*  
+> - [🕌 Middle East And North Africa](./README.md) — *regional comparative method for state capability, migration and diaspora exposure*  
+> - [🥀 Little Database Of Horrors](../../README.md) — *wider capability model for relationship mapping, diaspora management and transnational repression*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-07-23_
