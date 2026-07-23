@@ -1,3 +1,116 @@
+add m/change for v2:  
+
+Yes. The README should carry the cross-cutting method, while 🇴🇲_oman.md keeps the Oman-specific evidence.
+
+Move into the MENA README
+
+Absolute monarchies are court systems
+
+* Do not mistake concentrated formal authority for solitary operational control.
+* A monarch may sit at the apex while policy is shaped by:
+    * royal household officials;
+    * advisers;
+    * relatives;
+    * security chiefs;
+    * senior ministers;
+    * clerics;
+    * business families;
+    * investment managers;
+    * foreign partners;
+    * consultants and vendors.
+* Ask:
+    * who controls access;
+    * who controls briefings;
+    * who defines threat;
+    * who benefits;
+    * who makes repression appear necessary;
+    * who survives succession.
+* Humanising the ruler is not absolution. It is mechanism-finding.
+* Removing one ruler may leave the court, archives, contracts, police and databases intact.
+
+Core README lines:
+
+Do not only profile the person on the throne. Profile the people who have been explaining the world to them since childhood.
+
+Regime change is not system change when the advisers, databases, contracts, security institutions and beneficiaries remain in place.
+
+Migration is not automatic exit
+
+* Moving to Britain, France, Canada, Australia, the United States, Europe, another Gulf state or elsewhere may change territorial law without ending:
+    * citizenship dependence;
+    * family exposure;
+    * digital continuity;
+    * consular dependence;
+    * return risk;
+    * extraterritorial claims;
+    * international policing exposure.
+* This is relevant across all country nodes, not just Oman.
+* The country node should then identify the specific laws and pathways.
+
+Core line:
+
+The person may have left the jurisdiction without fully leaving the system.
+
+Citizenship instability
+
+* States are increasingly extending coercive reach across borders while weakening citizenship as a durable guarantee of belonging.
+* Track:
+    * revocation;
+    * passport cancellation;
+    * unequal citizenship;
+    * statelessness risk;
+    * political-loyalty conditions;
+    * administrative limbo.
+* This belongs in the comparative framing because it recurs across jurisdictions.
+
+Platform decay as cultural destruction
+
+* Digital platforms contain not only evidence but:
+    * humour;
+    * dialect;
+    * political memory;
+    * ordinary reaction;
+    * community history;
+    * the circulation of slogans.
+* Deletion and broken access can leave official institutions documented while ordinary people disappear from the archive.
+* Every country node should preserve local digital culture where possible.
+
+COVID as a standard stress test
+
+* Emergency powers;
+* health surveillance;
+* communications restrictions;
+* misinformation offences;
+* data retention;
+* migrant impacts;
+* temporary systems that became permanent.
+
+That should become a standard question set in the README rather than being reinvented for every state.
+
+Keep in the Oman node
+
+* the Omani royal-court and adviser map;
+* named institutions around Sultan Haitham;
+* specific succession and court relationships;
+* Omani media, citizenship and cybercrime laws;
+* Turs;
+* VoIP restrictions;
+* Oman-specific diaspora exposure;
+* Arabic slogans, memes, stickers and humour;
+* the political donkey;
+* specific UK–US–Oman defence and intelligence relationships;
+* named Omani cases and detention allegations.
+
+So the split is:
+
+README: how to investigate a monarchy, migration, citizenship, platforms and emergencies.
+Oman node: how those mechanisms actually appear in Oman.
+
+That will make the Oman node less bloated and stop us repeating the same conceptual essay when we reach Saudi Arabia, Qatar, Bahrain, the UAE, Jordan, Morocco and Kuwait.
+
+---
+
+
 # 🕌 Middle East And North Africa  
 **First created:** 2026-07-23 | **Last updated:** 2026-07-23  
 *A diaspora-facing capability map for understanding how states, governing authorities, security institutions, vendors, diplomatic networks, and regional alliances may affect people connected to the Middle East and North Africa while they are living abroad.*
