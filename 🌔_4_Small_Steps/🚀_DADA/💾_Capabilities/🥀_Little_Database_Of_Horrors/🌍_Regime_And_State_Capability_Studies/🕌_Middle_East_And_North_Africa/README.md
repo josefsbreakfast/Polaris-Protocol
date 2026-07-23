@@ -1,119 +1,6 @@
-add m/change for v2:  
-
-Yes. The README should carry the cross-cutting method, while 🇴🇲_oman.md keeps the Oman-specific evidence.
-
-Move into the MENA README
-
-Absolute monarchies are court systems
-
-* Do not mistake concentrated formal authority for solitary operational control.
-* A monarch may sit at the apex while policy is shaped by:
-    * royal household officials;
-    * advisers;
-    * relatives;
-    * security chiefs;
-    * senior ministers;
-    * clerics;
-    * business families;
-    * investment managers;
-    * foreign partners;
-    * consultants and vendors.
-* Ask:
-    * who controls access;
-    * who controls briefings;
-    * who defines threat;
-    * who benefits;
-    * who makes repression appear necessary;
-    * who survives succession.
-* Humanising the ruler is not absolution. It is mechanism-finding.
-* Removing one ruler may leave the court, archives, contracts, police and databases intact.
-
-Core README lines:
-
-Do not only profile the person on the throne. Profile the people who have been explaining the world to them since childhood.
-
-Regime change is not system change when the advisers, databases, contracts, security institutions and beneficiaries remain in place.
-
-Migration is not automatic exit
-
-* Moving to Britain, France, Canada, Australia, the United States, Europe, another Gulf state or elsewhere may change territorial law without ending:
-    * citizenship dependence;
-    * family exposure;
-    * digital continuity;
-    * consular dependence;
-    * return risk;
-    * extraterritorial claims;
-    * international policing exposure.
-* This is relevant across all country nodes, not just Oman.
-* The country node should then identify the specific laws and pathways.
-
-Core line:
-
-The person may have left the jurisdiction without fully leaving the system.
-
-Citizenship instability
-
-* States are increasingly extending coercive reach across borders while weakening citizenship as a durable guarantee of belonging.
-* Track:
-    * revocation;
-    * passport cancellation;
-    * unequal citizenship;
-    * statelessness risk;
-    * political-loyalty conditions;
-    * administrative limbo.
-* This belongs in the comparative framing because it recurs across jurisdictions.
-
-Platform decay as cultural destruction
-
-* Digital platforms contain not only evidence but:
-    * humour;
-    * dialect;
-    * political memory;
-    * ordinary reaction;
-    * community history;
-    * the circulation of slogans.
-* Deletion and broken access can leave official institutions documented while ordinary people disappear from the archive.
-* Every country node should preserve local digital culture where possible.
-
-COVID as a standard stress test
-
-* Emergency powers;
-* health surveillance;
-* communications restrictions;
-* misinformation offences;
-* data retention;
-* migrant impacts;
-* temporary systems that became permanent.
-
-That should become a standard question set in the README rather than being reinvented for every state.
-
-Keep in the Oman node
-
-* the Omani royal-court and adviser map;
-* named institutions around Sultan Haitham;
-* specific succession and court relationships;
-* Omani media, citizenship and cybercrime laws;
-* Turs;
-* VoIP restrictions;
-* Oman-specific diaspora exposure;
-* Arabic slogans, memes, stickers and humour;
-* the political donkey;
-* specific UK–US–Oman defence and intelligence relationships;
-* named Omani cases and detention allegations.
-
-So the split is:
-
-README: how to investigate a monarchy, migration, citizenship, platforms and emergencies.
-Oman node: how those mechanisms actually appear in Oman.
-
-That will make the Oman node less bloated and stop us repeating the same conceptual essay when we reach Saudi Arabia, Qatar, Bahrain, the UAE, Jordan, Morocco and Kuwait.
-
----
-
-
 # 🕌 Middle East And North Africa  
 **First created:** 2026-07-23 | **Last updated:** 2026-07-23  
-*A diaspora-facing capability map for understanding how states, governing authorities, security institutions, vendors, diplomatic networks, and regional alliances may affect people connected to the Middle East and North Africa while they are living abroad.*
+*A diaspora-facing capability map for understanding how states, governing authorities, security institutions, vendors, diplomatic networks, and regional alliances may affect people connected to the Middle East and North Africa while they are living abroad, in transit, or rebuilding life elsewhere.*
 
 ---
 
@@ -391,6 +278,141 @@ Country-facing accessibility should never be achieved by inventing political coh
 
 ---
 
+## 👑 Monarchies Are Court Systems  
+
+Concentrated formal authority must not be mistaken for solitary operational control.
+
+A monarch may sit at the apex while the reality reaching the throne is shaped by:
+
+- royal household officials;
+- senior relatives;
+- private secretaries;
+- tutors and long-standing mentors;
+- security chiefs;
+- military advisers;
+- trusted clerics;
+- business families;
+- investment managers;
+- diplomatic intermediaries;
+- foreign partners;
+- consultants, contractors, and vendors.
+
+These people may influence:
+
+- who receives access;
+- which complaints appear credible;
+- what counts as danger;
+- which evidence is withheld;
+- which alternatives are described as weak or impossible;
+- which institutions become indispensable;
+- who benefits when coercive capability expands.
+
+A ruler can be:
+
+- an architect of repression;
+- an approver of repression;
+- a beneficiary of repression;
+- partly managed by the system around the throne;
+- several of these at once.
+
+Humanising the ruler is not absolution.
+
+It is mechanism-finding.
+
+The analytical question is not only:
+
+> Why did the ruler choose repression?
+
+It is also:
+
+> Who convinced the ruler that every other option was reckless, disloyal, weak, or impossible?
+
+### Who Controls Access?
+
+Ask who controls:
+
+- the diary;
+- private meetings;
+- petitions;
+- informal correspondence;
+- intelligence briefings;
+- contact with affected families;
+- the route through which bad news reaches the throne.
+
+### Who Controls The Threat Picture?
+
+Ask who:
+
+- defines protest as sedition;
+- translates reform into instability;
+- describes criticism as foreign influence;
+- classifies humour as disrespect;
+- converts social pressure into a security problem;
+- benefits from threat inflation.
+
+### Who Controls Implementation?
+
+Map who drafts, authorises, interprets, procures, and enforces:
+
+- laws;
+- regulations;
+- surveillance;
+- arrest;
+- prosecution;
+- detention;
+- censorship;
+- passport action;
+- border restriction.
+
+### Who Controls The Money And The Story?
+
+Trace:
+
+- procurement;
+- royal-linked companies;
+- sovereign funds;
+- telecom ownership;
+- resellers and integrators;
+- commissions and maintenance contracts;
+- public-relations firms;
+- think tanks;
+- foreign briefings;
+- media ownership;
+- the people who translate coercion into “stability.”
+
+> **Do not only profile the person on the throne. Profile the people who have been explaining the world to them since childhood.**
+
+> **Absolute monarchy places one person above the chart. Court politics determines who draws the chart placed in front of them.**
+
+### After The Ruler
+
+Removing one ruler may leave intact:
+
+- intelligence archives;
+- security commanders;
+- prosecutors;
+- telecom infrastructure;
+- surveillance contracts;
+- citizenship powers;
+- public-order offences;
+- foreign agreements;
+- commercial beneficiaries;
+- advisers able to transfer themselves to a successor.
+
+Country nodes should therefore ask:
+
+- Which powers survive succession?
+- Who controls or destroys the archives?
+- Which agencies remain effectively unsupervised?
+- Which contracts continue automatically?
+- Which advisers move into the next court?
+- Can victims access, correct, or challenge their records?
+- Are watchlists, nationality decisions, and secret evidence reviewed?
+
+> **Regime change is not system change when the advisers, databases, contracts, security institutions, and beneficiaries remain in place.**
+
+---
+
 ## 🌐 The Diaspora Exposure Pathways  
 
 Each country node should begin by identifying the pathways that continue beyond the border.
@@ -440,6 +462,142 @@ So are:
 - warnings issued to others;
 - fear of compulsory contact;
 - the knowledge that relatives remain accessible.
+
+---
+
+## 🧳 Migration Is Not Automatic Exit  
+
+Moving to Britain, France, Canada, Australia, the United States, another European state, another Gulf state, or anywhere else may change territorial law without ending the person’s connection to the system they left.
+
+Migration can bring real safety and real legal freedom.
+
+It may not dissolve:
+
+- origin-state jurisdictional claims;
+- citizenship dependence;
+- passport renewal;
+- consular contact;
+- property and inheritance;
+- family exposure;
+- military or administrative obligations;
+- digital continuity;
+- old phone numbers and account recovery routes;
+- platform history;
+- border and transit risk;
+- international policing pathways;
+- the future need to return.
+
+A person can therefore be:
+
+- safe from immediate domestic arrest;
+- legally free to speak in the host country;
+- unsafe if they return;
+- constrained by relatives who remain reachable;
+- dependent on the origin state for documents;
+- visible through accounts created before migration.
+
+Diaspora freedom is not binary.
+
+It is distributed unevenly across:
+
+- territory;
+- law;
+- identity;
+- relationships;
+- technology;
+- mobility.
+
+> **The person may have left the jurisdiction without fully leaving the system.**
+
+### Host-State Legality Is Not The Whole Risk Assessment
+
+A statement may be lawful in London, Paris, Montréal, Sydney, New York, or Brussels while remaining punishable, reportable, or consequential elsewhere.
+
+Ask separately:
+
+- Is the conduct lawful here?
+- Is it criminalised there?
+- Can relatives be reached?
+- Does the person need to return?
+- Could a foreign request enter host-state systems?
+- Could a third country detain the person in transit?
+- Could consular or nationality powers be used?
+- Will the host institution recognise the allegation as political?
+
+> **Host-state legality does not automatically remove origin-state consequences.**
+
+### Migration Changes The Law Faster Than The Nervous System
+
+A person raised around offences involving:
+
+- insulting a ruler;
+- public order;
+- sedition;
+- misleading information;
+- state prestige;
+- misuse of social media;
+
+may continue to:
+
+- post pseudonymously;
+- avoid demonstrations;
+- step out of photographs;
+- separate political and family groups;
+- delete jokes;
+- speak more freely in one language than another;
+- treat community spaces as potentially observable.
+
+This is not evidence that every fear reflects an active operation.
+
+It is evidence that coercive systems can continue shaping behaviour after physical relocation.
+
+> **Migration changes the applicable law faster than it changes the nervous system.**
+
+---
+
+## 🪪 Citizenship Under Strain  
+
+The century’s citizenship problem is sharply contradictory.
+
+States are extending coercive reach across borders while weakening citizenship as a durable guarantee of belonging.
+
+Citizenship may increasingly be treated as:
+
+- conditional membership;
+- an administrative privilege;
+- a reward for political conformity;
+- a security classification;
+- something revocable at the edge;
+- a mechanism for exporting unwanted people;
+- a status distributed unequally within the same polity.
+
+Track:
+
+- denaturalisation;
+- nationality revocation;
+- passport cancellation;
+- discriminatory descent rules;
+- statelessness risk;
+- political-loyalty conditions;
+- administrative limbo;
+- consequences for children and spouses.
+
+The dangerous combination is:
+
+1. the origin state continues to claim authority over conduct abroad; and
+2. citizenship becomes less reliable as protection against state exclusion.
+
+> **States are extending their reach across borders while weakening the security of belonging within them.**
+
+A country node must distinguish:
+
+- legal capability;
+- threatened use;
+- documented use;
+- actual consequences;
+- anticipatory fear.
+
+Capability matters without automatically proving implementation.
 
 ---
 
@@ -744,6 +902,81 @@ The branch should join these forms of evidence without pretending they are inter
 
 ---
 
+## 🗃️ Platforms, Culture, And The Public Archive  
+
+Political history is not preserved only in manifestos, court records, speeches, and formal organisations.
+
+It also lives in:
+
+- jokes;
+- memes;
+- dialect;
+- hashtags;
+- replies;
+- quote-posts;
+- stickers;
+- voice notes;
+- citizen video;
+- ordinary photographs;
+- local forums;
+- private-group screenshots;
+- strange phrases everyone suddenly understands.
+
+People are rarely trying to create a future archive.
+
+They are:
+
+- talking to friends;
+- complaining about work;
+- making each other laugh;
+- flirting;
+- grieving;
+- passing along something that feels true;
+- recording an event before professional media arrive.
+
+That ordinary social behaviour may later reveal:
+
+- what everybody already knew;
+- which official was considered corrupt or ridiculous;
+- how slogans travelled;
+- when fear became mockery;
+- how state language was repurposed;
+- which towns, classes, genders, or generations used different political registers.
+
+Platform deletion, broken search, closed APIs, lost media, account suspension, and inaccessible private archives can destroy:
+
+- chronology;
+- provenance;
+- local vocabulary;
+- reply context;
+- relationship pathways;
+- evidence of reception;
+- evidence of deletion;
+- cultural texture.
+
+A screenshot may preserve the words while losing:
+
+- timestamp;
+- thread position;
+- author metadata;
+- replies;
+- edits;
+- engagement history;
+- embedded links;
+- proof that the item existed at the claimed address.
+
+Each country node should therefore preserve local-language public culture where possible, including humour, profanity, bad grammar, satire, songs, poetry, prison writing, slogans, graffiti, and memes.
+
+Do not sanitise people into policy language.
+
+Do not invent missing obscenity or missing context.
+
+> **Platform destruction creates an archive in which governments remain documented and the governed slowly disappear.**
+
+> **The populace likes to vibe. The vibe is often where the evidence lives.**
+
+---
+
 ## 🏭 Security Production And Export  
 
 The region is not only a site of repression.
@@ -982,6 +1215,38 @@ It begins manufacturing the conditions it claims to measure.
 
 ---
 
+## 🦠 Emergencies As Governance Stress Tests  
+
+Emergency conditions reveal which institutions already hold the keys.
+
+Country nodes should examine:
+
+- emergency laws;
+- health apps;
+- contact tracing;
+- location monitoring;
+- quarantine enforcement;
+- biometric or identity linkage;
+- misinformation and rumour offences;
+- communications restrictions;
+- migrant-worker treatment;
+- links between health, police, border, and welfare systems;
+- temporary procurement;
+- data retention;
+- capabilities retained after the emergency ends.
+
+The question is not only whether an emergency measure was justified when introduced.
+
+It is:
+
+> What infrastructure, legal authority, data linkage, and institutional habit remained afterward?
+
+A temporary relaxation can also reveal control.
+
+When a blocked communications service is selectively enabled for approved institutions, the exception may show who held the gate all along.
+
+---
+
 ## 🌡️ Political Stability And Fracture  
 
 Systems designed to prevent mobilisation may suppress the warning signs that would otherwise reveal political pressure.
@@ -1153,26 +1418,34 @@ The branch must not reproduce the relationship-risk logic it critiques.
 
 Each country node should include:
 
-1. **Who this node is for**
-2. **Relevant governing and security structure**
-3. **Historical period and current status**
-4. **Domestic surveillance and repression capability**
-5. **Documented transnational conduct**
-6. **Diaspora and family pressure**
-7. **Embassy and consular routes**
-8. **Passport, border, property, and identity dependencies**
-9. **Spyware, cyber, platform, and influence capabilities**
-10. **Contractors, vendors, and imported systems**
-11. **Exported capabilities where relevant**
-12. **Regional and allied cooperation**
-13. **Host-state enabling or protection**
-14. **Relationship effects**
-15. **Financial and industrial incentives**
-16. **Evidence and confidence snapshot**
-17. **Main evidence gaps**
-18. **Practical questions for diaspora readers**
-19. **Specialist sources and organisations**
-20. **Cross-references**
+1. **Orientation and who this node is for**
+2. **Country-facing, actor-specific map**
+3. **Political, historical, and institutional context**
+4. **Court, household, adviser, or informal-power ecosystem where relevant**
+5. **Who defines threat and makes repression appear necessary**
+6. **Domestic surveillance and repression capability**
+7. **Documented transnational conduct**
+8. **Diaspora exposure after migration**
+9. **Family, relationship, and community pressure**
+10. **Embassy and consular routes**
+11. **Passport, citizenship, border, property, and identity dependencies**
+12. **Spyware, cyber, platform, and influence capabilities**
+13. **Local-language slogans, humour, testimony, and political culture**
+14. **Platform decay and evidence-preservation risks**
+15. **Contractors, vendors, and imported systems**
+16. **Exported capabilities where relevant**
+17. **Regional and allied cooperation**
+18. **Emergency-period capability expansion**
+19. **Host-state enabling or protection**
+20. **Financial and industrial incentives**
+21. **Capability, intent, documented use, and causation**
+22. **Evidence and confidence snapshot**
+23. **Rival explanations and disproof conditions**
+24. **Main evidence gaps**
+25. **Practical questions for diaspora readers**
+26. **Specialist sources and organisations**
+27. **After-the-ruler or institutional-continuity test where relevant**
+28. **Cross-references**
 
 ---
 
@@ -1362,18 +1635,11 @@ Its governing rules are:
 
 ## 🌌 Constellations  
 
-🕌 🌍 🕸️ 🏭 💸 — diaspora capability; regional systems; relationship governance; security industry; financial incentives.  
-
-*Further media:*  
-
-- [📚: Digital Authoritarianism in the Middle East: Deception, Disinformation and Social Media. Hurst, 2022. Marc Owen Jones](https://www.hurstpublishers.com/book/digital-authoritarianism-in-the-middle-east/)  
-- [📑: Digital Activism and Authoritarian Adaptation in the Middle East. 2021. POMEPS, Stanford.](https://www.pomeps.org/wp-content/uploads/2021/08/POMEPS_Studies_43_Web.pdf)  
-
----
+🕌 🌍 🕸️ 🏭 💸 — diaspora capability; regional systems; relationship governance; security industry; financial incentives.
 
 ## ✨ Stardust  
 
-MENA, diaspora repression, transnational repression, digital authoritarianism, spyware, disinformation, consular pressure, industrial dependency, security cooperation, Morocco, Tunisia, state capability
+MENA, diaspora repression, transnational repression, digital authoritarianism, spyware, disinformation, consular pressure, industrial dependency, security cooperation, Morocco, Tunisia, state capability, court systems, migration as partial exit, citizenship precarity, platform archives
 
 ---
 
