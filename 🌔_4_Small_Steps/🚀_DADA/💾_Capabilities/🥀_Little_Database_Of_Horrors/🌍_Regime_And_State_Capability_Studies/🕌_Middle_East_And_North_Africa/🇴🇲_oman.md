@@ -1999,13 +1999,13 @@ Prioritise:
 ### Documented Omani diaspora and exile cases
 
 - Human Rights Watch, **“Oman: Activist’s Family Barred from Traveling Abroad”** — documents Mohammed al-Fazari’s arrests, confiscated passport and identity card, UK asylum claim, his brother’s detention, and travel restrictions imposed on his wife and children.  
-  https://www.hrw.org/news/2017/02/14/oman-activists-family-barred-traveling-abroad
+  [Source](https://www.hrw.org/news/2017/02/14/oman-activists-family-barred-traveling-abroad)  
 - مواطن / *Muwatin*, **“Muwatin Beyond the Red Lines: A Story of Outmaneuvering Obstacles”** — first-person institutional account of relocation abroad, arrests of editors, suspension, blocking, funding pressure, source-access problems, and foreign-agenda accusations.  
-  https://muwatin.net/en/65309/muwatin-beyond-the-red-lines-a-story-of-outmaneuvering-obstacles/
+  [Source](https://muwatin.net/en/65309/muwatin-beyond-the-red-lines-a-story-of-outmaneuvering-obstacles/)
 - The British Omani Society, **“About Us”** — documents royal patronage, the ambassador’s presidency, and the Society’s stated role connecting government, youth, academic, and private-sector actors.  
-  https://www.britishomani.org/about-us
+  [Source](https://www.britishomani.org/about-us)
 - The British Omani Society, **“Omani Students Come Together for Ramadan at The British Omani Society Iftar”** — documents cooperation among the Society, the Omani Embassy’s Cultural Attaché, and the Oman Student Association in London.  
-  https://www.britishomani.org/news/bos/omani-students-come-together-for-ramadan-at-the-british-omani-society-iftar
+  [Source](https://www.britishomani.org/news/bos/omani-students-come-together-for-ramadan-at-the-british-omani-society-iftar)
 - Anadolu Agency Arabic reporting on the reported `عفو ضمني` / `العفو الهادئ` and return of Omani opponents abroad in 2020. Cross-check against further Arabic sources before making stronger claims about formal pardon terms or conditions of return.
 
 ### Host-state transnational-repression frameworks
