@@ -18,3 +18,744 @@
             │   │   ├── 🇵🇸_palestinian_authorities_and_fragmented_governance.md
             │   │   └── 🔗_regional_security_and_data_cooperation.md
             │   │
+
+---
+
+🕌_Middle_East_And_North_Africa/README.md — bullet-point plan
+
+Opening purpose
+
+* Introduce the folder as a diaspora-facing capability guide, not a general regional history.
+* Explain why it is organised country by country:
+    * people encounter specific states;
+    * passports, borders, relatives, embassies, courts, security services, and records are country-specific;
+    * readers should not have to reconstruct their own risk pathway from abstract regional themes.
+* State the governing question:
+    * How can state, commercial, diplomatic, and proxy systems affect people connected to this country while they are living abroad?
+* Make clear that the node is about:
+    * capability;
+    * documented use;
+    * relationship pressure;
+    * cross-border reach;
+    * host-state response;
+    * practical protection.
+* Not a ranking of “bad states.”
+* Not a claim that all people from a country are politically aligned with its government.
+
+Why MENA is used at all
+
+* Acknowledge that “MENA” is a flawed and reductive regional category.
+* The region contains:
+    * monarchies;
+    * republics;
+    * electoral systems;
+    * occupations;
+    * fragmented governments;
+    * militias;
+    * civil-war systems;
+    * external sponsors;
+    * contested sovereignties.
+* Retain MENA as a practical heuristic because:
+    * security technologies travel regionally;
+    * intelligence relationships cross borders;
+    * vendors and contractors serve multiple states;
+    * narratives and influence operations circulate;
+    * families and diasporas span several jurisdictions;
+    * regional rivalries shape who is targeted and how.
+
+Who this branch is for
+
+* Citizens living abroad.
+* Dual nationals.
+* Former citizens.
+* Refugees and asylum seekers.
+* Stateless people.
+* Political exiles.
+* Journalists.
+* Academics.
+* Activists.
+* Lawyers.
+* Artists.
+* Labour organisers.
+* Religious and minority communities.
+* Partners, relatives, carers, colleagues, funders, and publishers connected to them.
+* People who do not identify with the state but remain administratively or relationally exposed to it.
+
+Country-facing, actor-specific
+
+* Explain the core design rule:
+    * country-facing for accessibility; actor-specific inside the analysis.
+* Each country file must distinguish:
+    * state;
+    * government;
+    * ruling party;
+    * military;
+    * intelligence services;
+    * police;
+    * diplomatic missions;
+    * contractors;
+    * proxies;
+    * militias;
+    * regional authorities;
+    * occupying powers;
+    * external sponsors.
+* Country title does not mean one coherent actor.
+* Especially important for:
+    * Syria;
+    * Iraq;
+    * Lebanon;
+    * Yemen;
+    * Palestinian authorities and fragmented governance.
+
+The diaspora focus
+
+* Each country node should begin with the forms of exposure that continue abroad.
+* Key diaspora pathways:
+    * passport and identity-document dependence;
+    * consular contact;
+    * relatives remaining in-country;
+    * property and inheritance;
+    * military-service obligations;
+    * border and travel risk;
+    * surveillance of protests and public speech;
+    * spyware and phishing;
+    * account compromise;
+    * impersonation;
+    * smear campaigns;
+    * threats;
+    * family coercion;
+    * extradition, deportation, or return pressure;
+    * community intermediaries;
+    * platform manipulation;
+    * professional or institutional exclusion.
+* Emphasise that diaspora risk may affect people who:
+    * have never been politically active;
+    * are connected through relatives;
+    * work with a target;
+    * publish or fund them;
+    * become part of a visible support network.
+
+Relationship governance
+
+* Link directly to the Little Database’s governing question:
+    * Who may safely know whom?
+* Examine how systems may:
+    * map family;
+    * identify colleagues;
+    * expose sources;
+    * classify supporters;
+    * monitor funders;
+    * identify legal and media bridges;
+    * pressure accessible relatives;
+    * discourage protective relationships.
+* Distinguish:
+    * observation;
+    * recording;
+    * classification;
+    * scoring;
+    * warning;
+    * intervention;
+    * disruption.
+* Key line:
+    * The target may be an individual, but the operational object is often the relationship field around them.
+
+Digital authoritarianism as behavioural control
+
+* Define the branch’s broad concern:
+    * surveillance;
+    * censorship;
+    * deception;
+    * harassment;
+    * cyberattack;
+    * shutdowns;
+    * legal punishment;
+    * physical repression;
+    * transnational pressure.
+* Emphasise that these mechanisms work together.
+* Technology does not replace:
+    * police;
+    * prisons;
+    * borders;
+    * consular leverage;
+    * family pressure;
+    * smear campaigns;
+    * physical violence.
+* It expands:
+    * reach;
+    * speed;
+    * visibility;
+    * predictive ambition;
+    * coordination;
+    * deniability.
+
+Deception and the information environment
+
+* Introduce Marc Owen Jones’s “deception order” as a major regional lens.
+* Explain that disinformation is not only about persuading people of one lie.
+* It can:
+    * contaminate search results;
+    * manufacture apparent consensus;
+    * create fake representatives;
+    * discredit journalists;
+    * overwhelm verification;
+    * trigger mass reporting;
+    * make targets socially expensive to defend.
+* Include contradictory smear saturation:
+    * mutually incompatible accusations can still work;
+    * the aim may be confusion, exhaustion, and association risk rather than coherent belief.
+* Strong line:
+    * Disinformation does not only govern what people believe. It governs who may safely be believed, funded, published, defended, or known.
+
+Surveillance, censorship, and deception as separate capabilities
+
+* Avoid one vague category called “digital repression.”
+* Separate:
+    * targeted intrusion;
+    * device exploitation;
+    * phishing;
+    * metadata and social-graph analysis;
+    * network censorship;
+    * shutdowns;
+    * platform monitoring;
+    * influence operations;
+    * legal enforcement;
+    * physical coercion.
+* State that each mechanism requires:
+    * different access;
+    * different evidence;
+    * different confidence language;
+    * different protective responses.
+
+Regional expertise and source humility
+
+* State clearly that Polaris is not arriving to discover this field.
+* Recognise:
+    * country specialists;
+    * regional scholars;
+    * Arabic-, Persian-, Turkish-, Hebrew-, Kurdish-, French-, and other language researchers;
+    * digital-rights organisations;
+    * human-rights investigators;
+    * forensic laboratories;
+    * journalists;
+    * lawyers;
+    * survivor-led groups;
+    * diaspora researchers.
+* The branch acts as:
+    * synthesis layer;
+    * routing map;
+    * comparative structure;
+    * capability index.
+* It does not replace specialist expertise.
+* English-language research is incomplete.
+* Local and diaspora expertise must not be reduced to anecdote.
+* Where a node relies on:
+    * translation;
+    * secondary reporting;
+    * state claims;
+    * opposition claims;
+    * exile reporting;
+    * international organisations;
+    * classified attribution;
+        that dependence should be visible.
+
+No single discipline sees the whole system
+
+* Technical researchers may identify malware but not the diplomatic bargain.
+* Political scientists may understand alliance structures but not verify compromise.
+* Human-rights investigators may document harm without platform datasets.
+* Platform researchers may identify coordinated accounts without identifying the commissioning institution.
+* Country specialists may recognise local meaning that regional analysis misses.
+* Survivor testimony may establish experience while attribution remains incomplete.
+* The branch should join these forms of evidence without pretending they are interchangeable.
+
+Security production and export
+
+* Explain that the region is not only a site of repression.
+* It is also:
+    * a production base;
+    * procurement market;
+    * investment network;
+    * testing environment;
+    * export route;
+    * diplomatic market for security technology.
+* Israel requires particular attention as:
+    * state user;
+    * technology producer;
+    * export regulator;
+    * regional diplomatic actor.
+* Gulf states may act as:
+    * buyers;
+    * investors;
+    * deployment markets;
+    * regional hubs;
+    * co-development partners.
+* Western, Chinese, and other suppliers must also remain visible.
+* Democracy is not an answer to a supply-chain question.
+* Regime category does not erase:
+    * production;
+    * licensing;
+    * export;
+    * foreseeable misuse;
+    * diplomatic benefit.
+
+Industrial dependency and normalisation
+
+* Security cooperation may precede formal diplomatic recognition.
+* Normalisation may formalise:
+    * procurement;
+    * cyber cooperation;
+    * joint ventures;
+    * intelligence sharing;
+    * interoperability;
+    * maintenance relationships;
+    * investment;
+    * technical training.
+* Industrial dependence may create political lock-in.
+* Relevant dependencies:
+    * licences;
+    * updates;
+    * vendor support;
+    * spare parts;
+    * threat feeds;
+    * cloud services;
+    * training;
+    * shared standards;
+    * databases;
+    * technical personnel.
+* Strong line:
+    * Normalisation does not merely open embassies. It joins procurement systems, investors, vendors, security institutions, and technical infrastructure.
+* Note that repressive capability may help protect the political arrangements that produced it.
+
+When the technology travels
+
+* Diaspora targeting is only one export route.
+* Procurement carries the capability into other states’ institutions.
+* Tools may be repackaged as:
+    * predictive safety;
+    * intelligence-led policing;
+    * safeguarding;
+    * fraud detection;
+    * identity assurance;
+    * border security;
+    * online-harms monitoring;
+    * community resilience.
+* The importing state may adapt the same capability to completely different target groups.
+* The branch should trace:
+    * where the tool was developed;
+    * where it was used;
+    * who exported it;
+    * who imported it;
+    * who maintains it;
+    * what assumptions travel with it.
+* Key line:
+    * Diaspora repression follows people across borders. Procurement carries the border machinery into everybody else’s institutions.
+
+The “one little database” problem
+
+* Introduce capability expansion:
+    * identity data;
+    * contact data;
+    * family links;
+    * social graphs;
+    * sentiment;
+    * scoring;
+    * prediction;
+    * intervention;
+    * outcome data;
+    * model retraining.
+* Explain self-reinforcing systems:
+    * intervention creates isolation;
+    * isolation becomes data;
+    * new contact becomes suspicious;
+    * resistance becomes confirmation.
+* The model may manufacture the behaviour it claims to detect.
+* Strong line:
+    * The model creates the damage, consumes the damage as data, and calls improved prediction evidence that it was right.
+* Link to:
+    * relationship caps;
+    * disruption scores;
+    * safe-contact substitutes;
+    * predictive governance;
+    * the Audrey II problem.
+
+Political stability and fracture
+
+* Explain the central paradox:
+    * systems designed to prevent mobilisation may suppress visible warning signs;
+    * coerced silence may be misread as consent;
+    * dashboards may measure performance under surveillance rather than political stability.
+* Repression may destroy:
+    * lawful opposition;
+    * independent unions;
+    * trusted journalism;
+    * civic intermediaries;
+    * credible polling;
+    * peaceful leadership development.
+* When pressure breaks through:
+    * mobilisation may be sudden;
+    * information may be unreliable;
+    * opposition networks may lack trust;
+    * states may overreact;
+    * regional allies may scramble to protect shared systems and secrets.
+* Key line:
+    * A surveillance state may become very good at preventing society from expressing pressure while becoming catastrophically bad at knowing how much pressure exists.
+* Keep this as a warning about capability and political fragility, not a prediction of inevitable revolution.
+
+Foreign-policy complication
+
+* Digital authoritarian systems complicate foreign policy because several states may simultaneously be:
+    * suppliers;
+    * buyers;
+    * allies;
+    * intelligence partners;
+    * host states;
+    * regulators;
+    * investigators;
+    * beneficiaries.
+* A target may live in one country, be attacked by a vendor from another, on behalf of a third, using infrastructure in a fourth.
+* Diplomatic incentives may discourage investigation.
+* Exposure may reveal:
+    * intelligence arrangements;
+    * export decisions;
+    * target lists;
+    * platform cooperation;
+    * covert diplomacy;
+    * allied complicity.
+* Distributed responsibility creates distributed deniability.
+* Strong line:
+    * The teeth may be distributed through the alliance structure.
+
+Comparison is not rebuttal
+
+* Add a clear anti-whataboutery rule.
+* Each country node examines the named actor or governing structure.
+* Evidence that another state:
+    * does the same;
+    * does worse;
+    * supplied the technology;
+    * is an ally;
+    * is an adversary;
+        does not answer the present conduct.
+* Comparisons belong in:
+    * cross-references;
+    * the comparative method;
+    * the regional cooperation node;
+    * the other country’s file.
+* Key callout:
+    * “But Country X—” is a routing instruction, not a defence.
+* Another state’s conduct may widen the investigation.
+* It does not remove the current actor from it.
+
+No false parity
+
+* Country-by-country structure does not imply equal conduct.
+* Nodes may differ greatly in:
+    * length;
+    * evidence;
+    * scale;
+    * severity;
+    * capability;
+    * overseas reach;
+    * current relevance.
+* Some states may be:
+    * major producers;
+    * major purchasers;
+    * regional exporters;
+    * fragmented users;
+    * poorly documented;
+    * heavily dependent on external systems.
+* Equal questions do not require equal conclusions.
+* Avoid filling thin evidence merely to make every country look equally represented.
+
+State, population, religion, and diaspora are separate
+
+* No country file should collapse:
+    * government into people;
+    * security service into nationality;
+    * state policy into religion;
+    * embassy into diaspora;
+    * ethnicity into loyalty.
+* Explicitly protect:
+    * Jews from being treated as Israeli state extensions;
+    * Iranians from being treated as regime proxies;
+    * Arabs from being treated as one political bloc;
+    * Turkish or Kurdish people from automatic state alignment;
+    * Palestinians from being treated as one governing authority;
+    * Gulf diasporas from collective suspicion.
+* The branch must not reproduce the relationship-risk logic it critiques.
+
+What each country node should contain
+
+* Who the node is for.
+* Relevant governing and security structure.
+* Key historical period and current status.
+* Domestic surveillance and repression capability.
+* Documented transnational conduct.
+* Diaspora and family pressure.
+* Embassy and consular routes.
+* Passport, border, property, and identity dependencies.
+* Spyware, cyber, platform, and influence capabilities.
+* Contractors, vendors, and imported systems.
+* Exported capabilities where relevant.
+* Regional and allied cooperation.
+* Host-state enabling or protection.
+* Relationship effects.
+* Evidence and confidence snapshot.
+* Main evidence gaps.
+* Practical questions for diaspora readers.
+* Specialist sources and organisations.
+* Cross-references to related country and thematic nodes.
+
+Handling fragmented governance
+
+* Country node remains the reader-facing entrance.
+* Analysis must separate actors inside it.
+* For Syria, Iraq, Lebanon, Yemen, and Palestinian governance:
+    * identify territorial control;
+    * identify state and non-state actors;
+    * identify foreign sponsors;
+    * identify telecom and border control;
+    * identify diaspora-facing institutions;
+    * avoid implying one coherent national capability.
+* For Palestine:
+    * Palestinian Authority;
+    * Hamas governance where temporally relevant;
+    * Israeli occupation and administrative control;
+    * security coordination;
+    * external donors;
+    * border and telecommunications dependencies;
+    * refugee and diaspora institutions.
+* State weakness does not mean absence of coercive capability.
+* Fragmentation may make responsibility harder to locate and remedy harder to reach.
+
+Role of the regional cooperation node
+
+* 🔗_regional_security_and_data_cooperation.md holds what travels between country files.
+* Scope:
+    * intelligence sharing;
+    * spyware markets;
+    * cyber vendors;
+    * joint ventures;
+    * security normalisation;
+    * industrial dependency;
+    * US, European, Chinese, Russian, and other external involvement;
+    * border and aviation data;
+    * counter-terrorism cooperation;
+    * extradition and return;
+    * platform manipulation;
+    * influence-operation linkages;
+    * host-state facilitation;
+    * vendor and maintenance lock-in.
+* It explains why country nodes cannot be treated as sealed systems.
+* It must not become a substitute for country accountability.
+
+Evidence rules
+
+* Follow the comparative method.
+* Separate:
+    * capability;
+    * access;
+    * intent;
+    * implementation;
+    * documented use;
+    * attribution;
+    * causation.
+* Confidence attaches to individual propositions.
+* Country reputation is not evidence.
+* Procurement is not deployment.
+* Motive is not use.
+* State-linked is not automatically state-directed.
+* Historical conduct is not automatically current.
+* Lack of public evidence is neither innocence nor proof of hidden guilt.
+* Name source dependence and evidentiary silence.
+
+Reader-safety rules
+
+* Do not encourage confrontation with:
+    * embassies;
+    * suspected agents;
+    * relatives;
+    * community organisations;
+    * vendors;
+    * security bodies.
+* Do not require the reader to sever every relationship.
+* Do not imply that perfect anonymity is possible.
+* Do not turn ordinary diaspora life into permanent counter-intelligence work.
+* Prioritise:
+    * preserving evidence;
+    * diversifying dependencies;
+    * protecting key relationships;
+    * identifying host-state duties;
+    * safer professional advice;
+    * maintaining ordinary function.
+* The branch should increase choice, not reproduce captivity.
+
+What the README is not
+
+* Not a complete regional history.
+* Not an intelligence assessment.
+* Not a blacklist.
+* Not a nationality risk score.
+* Not a guide to evading lawful investigation.
+* Not a claim that all states behave equally.
+* Not a defence of one state through accusation of another.
+* Not a substitute for country specialists.
+* Not a demand that survivors prove the full command chain.
+* Not a reason to treat every technical anomaly as state action.
+* Not a reason to dismiss documented fear because attribution remains incomplete.
+
+Compact regional definition
+
+* MENA is treated as:
+    * a flawed but useful regional field;
+    * not one coherent political system.
+* The branch maps:
+    * state capability;
+    * diaspora exposure;
+    * relationship governance;
+    * technology production and export;
+    * security cooperation;
+    * industrial dependency;
+    * host-state responsibility.
+* Possible closing formulation:
+
+The Middle East and North Africa branch is organised country by country because coercive capability reaches diaspora people through specific governments, agencies, embassies, borders, families, vendors, and records. The regional frame remains necessary because the tools, money, narratives, security relationships, and political dependencies do not stay inside those borders.
+
+Strong lines worth preserving
+
+Country-facing for accessibility; actor-specific inside the analysis.
+
+The target may be an individual, but the operational object is often the relationship field around them.
+
+Disinformation may not need to establish one coherent lie. It may only need to make the target expensive to verify.
+
+Democracy is not an answer to a supply-chain question.
+
+Normalisation does not merely open embassies. It joins procurement systems, investors, vendors, security institutions, and technical infrastructure.
+
+Diaspora repression follows people across borders. Procurement carries the border machinery into everybody else’s institutions.
+
+A surveillance state may become very good at preventing society from expressing pressure while becoming catastrophically bad at knowing how much pressure exists.
+
+The teeth may be distributed through the alliance structure.
+
+“But Country X—” is a routing instruction, not a defence.
+
+Equal questions do not require equal conclusions.
+
+---
+
+
+Yes. Following the money turns the capability map into an incentive map.
+
+Suddenly the question is no longer only:
+
+Which government wants this system?
+
+It becomes:
+
+Who gets paid when the government keeps wanting it?
+
+And then the cast expands rapidly:
+
+* spyware vendors;
+* defence primes;
+* cloud providers;
+* telecoms;
+* biometric firms;
+* analytics companies;
+* data brokers;
+* consultancies;
+* PR firms;
+* law firms;
+* compliance contractors;
+* investors;
+* sovereign wealth funds;
+* export-credit agencies;
+* insurers;
+* training providers;
+* resellers;
+* subcontractors;
+* former officials;
+* universities and research partnerships.
+
+At which point some actors are present because they believe in “regional stability,” some because they want diplomatic leverage, and some because the contract has eight zeroes and a maintenance tail.
+
+That absolutely needs to enter the README under a section like:
+
+💸 Follow The Money
+
+* Identify who funds, builds, licenses, sells, finances, insures, integrates, updates, and maintains the capability.
+* Trace:
+    * parent companies;
+    * subsidiaries;
+    * investors;
+    * sovereign wealth involvement;
+    * joint ventures;
+    * local resellers;
+    * lobbying;
+    * government grants;
+    * export support;
+    * revolving-door appointments;
+    * university and research partnerships.
+* Distinguish:
+    * purchaser;
+    * operator;
+    * beneficiary;
+    * financier;
+    * regulator;
+    * diplomatic sponsor.
+* Ask who profits from:
+    * expansion;
+    * threat inflation;
+    * recurring licences;
+    * data retention;
+    * interoperability;
+    * crisis procurement;
+    * weak oversight;
+    * failed reform.
+* Note that commercial dependency may keep a capability alive after its original political justification has weakened.
+* Identify where accountability is diluted across corporate layers and jurisdictions.
+
+The central point is:
+
+Repressive capability is not sustained by ideology alone. It is sustained by invoices, renewals, investment returns, procurement careers, and institutions that become dependent on the system continuing to look necessary.
+
+And that is when you get the “bro, why are you even here?” actors:
+
+* the PR company helping an authoritarian client clean up the backlash from surveillance;
+* the consultancy writing the human-rights framework for the system it helped procure;
+* the investor calling the product “trust infrastructure”;
+* the university providing legitimacy and technical talent;
+* the allied government promoting export controls while supporting the wider security relationship;
+* the platform selling monitoring tools while issuing annual democracy reports;
+* the contractor paid first to build the risk system and then to assess whether it works.
+
+It becomes a self-licking procurement ecosystem.
+
+And following the money also helps with attribution because cash often leaves clearer traces than covert intent:
+
+* contracts;
+* beneficial ownership;
+* acquisition history;
+* lobbying disclosures;
+* trade missions;
+* export licences;
+* investor presentations;
+* procurement notices;
+* sanctions records;
+* partnership announcements;
+* training agreements;
+* conference sponsorship;
+* revolving-door employment.
+
+So yes, add this as a major README principle:
+
+Follow the money before accepting the mission statement.
+
+Because the mission statement says “security.”
+
+The cap table may say “regional authoritarianism as recurring revenue.”
+
+---
+
