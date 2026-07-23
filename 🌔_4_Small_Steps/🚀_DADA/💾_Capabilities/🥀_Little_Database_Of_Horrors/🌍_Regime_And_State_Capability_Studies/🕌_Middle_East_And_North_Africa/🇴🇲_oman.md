@@ -2064,7 +2064,15 @@ The diaspora impact can nevertheless begin before a foreign operation occurs:
 
 ## 🌌 Constellations  
 
-👑 🕸️ 📱 🫏 🪪 — court systems; relationship governance; digital speech; uncensorable humour; citizenship and diaspora exposure.
+👑 🕸️ 📱 🫏 🪪 — court systems; relationship governance; digital speech; uncensorable humour; citizenship and diaspora exposure.  
+
+*Further media:*  
+
+- [📑: Freedom House: Freedom in the World: Oman](https://freedomhouse.org/country/oman/freedom-world/2025)  
+- [📑: Amnesty International: Human rights in Oman](https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/oman/report-oman/)  
+- [ 
+
+---
 
 ## ✨ Stardust  
 
