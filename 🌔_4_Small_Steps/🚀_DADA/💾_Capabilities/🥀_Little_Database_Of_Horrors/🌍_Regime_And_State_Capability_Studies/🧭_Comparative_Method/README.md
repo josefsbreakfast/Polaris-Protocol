@@ -1,11 +1,10 @@
-🧭 Comparative Method
+# 🧭 Comparative Method  
+**First created:** 2026-07-23 | **Last updated:** 2026-07-23  
+*A shared method for comparing state capabilities, documented conduct, transnational reach, and safeguards without flattening radically different systems into one story.*
 
-First created: 2026-07-23 | Last updated: 2026-07-23
-A shared method for comparing state capabilities, documented conduct, transnational reach, and safeguards without flattening radically different systems into one story.
+---
 
-⸻
-
-🛰️ Orientation
+## 🛰️ Orientation  
 
 State capability studies become unreliable very quickly when every country is approached through a different evidentiary standard.
 
@@ -21,39 +20,39 @@ None of these approaches produces a trustworthy comparison.
 
 The purpose of this folder is to establish a shared method for examining:
 
-* documented repression;
-* surveillance capability;
-* data infrastructure;
-* diaspora monitoring;
-* relationship mapping;
-* family and community pressure;
-* diplomatic and consular reach;
-* proxy activity;
-* cross-border cooperation;
-* host-state protection or complicity.
+- documented repression;
+- surveillance capability;
+- data infrastructure;
+- diaspora monitoring;
+- relationship mapping;
+- family and community pressure;
+- diplomatic and consular reach;
+- proxy activity;
+- cross-border cooperation;
+- host-state protection or complicity.
 
 The method does not require every study to reach the same conclusion.
 
 It requires every study to earn its conclusion through the same kinds of questions.
 
-Use the same questions across cases without demanding the same answers.
+> Use the same questions across cases without demanding the same answers.
 
-⸻
+---
 
-🌍 What Comparison Is For
+## 🌍 What Comparison Is For  
 
 Comparison is useful when it helps identify:
 
-* recurring mechanisms;
-* transferable technologies;
-* shared vendors;
-* common administrative routes;
-* differences in scale or severity;
-* differences in state structure;
-* differences in available remedies;
-* patterns of allied enablement;
-* gaps in host-state protection;
-* safeguards that meaningfully reduce harm.
+- recurring mechanisms;
+- transferable technologies;
+- shared vendors;
+- common administrative routes;
+- differences in scale or severity;
+- differences in state structure;
+- differences in available remedies;
+- patterns of allied enablement;
+- gaps in host-state protection;
+- safeguards that meaningfully reduce harm.
 
 The purpose is not to construct a league table of horror.
 
@@ -65,169 +64,169 @@ A useful comparison asks narrower questions.
 
 For example:
 
-* Do both states possess communications-interception capability?
-* Is overseas deployment documented in both cases?
-* Are family members used as leverage?
-* Are embassies involved?
-* Does the host state investigate?
-* Can affected people discover or challenge the decision?
-* Are similar tools producing different consequences because the surrounding political systems differ?
+- Do both states possess communications-interception capability?
+- Is overseas deployment documented in both cases?
+- Are family members used as leverage?
+- Are embassies involved?
+- Does the host state investigate?
+- Can affected people discover or challenge the decision?
+- Are similar tools producing different consequences because the surrounding political systems differ?
 
 Comparison should make differences more visible, not less.
 
-⸻
+---
 
-🧩 The Shared Analytical Sequence
+## 🧩 The Shared Analytical Sequence  
 
 Each state or regional study should move through a common sequence.
 
-1. Documented Conduct
+### 1. Documented Conduct  
 
 What has been publicly established?
 
 This may include:
 
-* court findings;
-* official records;
-* verified technical investigations;
-* documented threats;
-* arrests;
-* abductions;
-* violence;
-* family coercion;
-* passport pressure;
-* digital harassment;
-* surveillance;
-* overseas monitoring;
-* interference with lawful association.
+- court findings;
+- official records;
+- verified technical investigations;
+- documented threats;
+- arrests;
+- abductions;
+- violence;
+- family coercion;
+- passport pressure;
+- digital harassment;
+- surveillance;
+- overseas monitoring;
+- interference with lawful association.
 
 The study should identify:
 
-* what happened;
-* when;
-* where;
-* to whom;
-* through which known or suspected mechanism.
+- what happened;
+- when;
+- where;
+- to whom;
+- through which known or suspected mechanism.
 
-2. Capability
+### 2. Capability  
 
 What can the relevant system technically or institutionally do?
 
 Capabilities may include:
 
-* communications interception;
-* spyware deployment;
-* social-graph analysis;
-* biometric identification;
-* location tracking;
-* financial monitoring;
-* identity control;
-* border screening;
-* platform influence;
-* family mapping;
-* diplomatic reporting;
-* data fusion;
-* extradition or return pressure.
+- communications interception;
+- spyware deployment;
+- social-graph analysis;
+- biometric identification;
+- location tracking;
+- financial monitoring;
+- identity control;
+- border screening;
+- platform influence;
+- family mapping;
+- diplomatic reporting;
+- data fusion;
+- extradition or return pressure.
 
 Capability establishes possibility.
 
 It does not establish use.
 
-3. Access
+### 3. Access  
 
 Which actor has practical access to the required:
 
-* data;
-* systems;
-* authority;
-* vendors;
-* diplomatic channels;
-* family networks;
-* partner-state infrastructure;
-* financial or administrative leverage?
+- data;
+- systems;
+- authority;
+- vendors;
+- diplomatic channels;
+- family networks;
+- partner-state infrastructure;
+- financial or administrative leverage?
 
 A capability may exist without being available to the actor named in a particular claim.
 
-4. Infrastructure
+### 4. Infrastructure  
 
 How could the capability become operational?
 
 Relevant infrastructure may include:
 
-* legislation;
-* databases;
-* ministries;
-* security services;
-* procurement;
-* contractors;
-* border systems;
-* identity platforms;
-* consular processes;
-* emergency powers;
-* policing agreements;
-* shared watchlists;
-* regional security arrangements.
+- legislation;
+- databases;
+- ministries;
+- security services;
+- procurement;
+- contractors;
+- border systems;
+- identity platforms;
+- consular processes;
+- emergency powers;
+- policing agreements;
+- shared watchlists;
+- regional security arrangements.
 
 Infrastructure supplies a route.
 
 It does not prove that the route was used.
 
-5. Intent And Incentive
+### 5. Intent And Incentive  
 
 What political, institutional, or economic purpose might encourage use?
 
 Possible incentives include:
 
-* regime continuity;
-* suppression of opposition;
-* territorial control;
-* wartime cohesion;
-* elite protection;
-* prevention of defection;
-* management of international reputation;
-* control of exile politics;
-* disruption of legal or journalistic scrutiny;
-* maintenance of sectarian, ethnic, or political hierarchy.
+- regime continuity;
+- suppression of opposition;
+- territorial control;
+- wartime cohesion;
+- elite protection;
+- prevention of defection;
+- management of international reputation;
+- control of exile politics;
+- disruption of legal or journalistic scrutiny;
+- maintenance of sectarian, ethnic, or political hierarchy.
 
 Intent may increase plausibility.
 
 It does not replace evidence of implementation.
 
-6. Implementation
+### 6. Implementation  
 
 Has the capability been incorporated into an actual:
 
-* policy;
-* product;
-* workflow;
-* contract;
-* programme;
-* institutional practice;
-* operational partnership?
+- policy;
+- product;
+- workflow;
+- contract;
+- programme;
+- institutional practice;
+- operational partnership?
 
 Implementation moves the analysis beyond abstract possibility.
 
 It still does not establish use in every individual case.
 
-7. Attribution
+### 7. Attribution  
 
 What evidence links the relevant conduct or deployment to a particular:
 
-* agency;
-* ministry;
-* security service;
-* governing authority;
-* diplomatic mission;
-* contractor;
-* proxy;
-* aligned organisation;
-* partner state?
+- agency;
+- ministry;
+- security service;
+- governing authority;
+- diplomatic mission;
+- contractor;
+- proxy;
+- aligned organisation;
+- partner state?
 
 Attribution should identify the actor as precisely as the evidence permits.
 
 “The state” is often too broad.
 
-8. Causation
+### 8. Causation  
 
 What evidence shows that the identified mechanism produced or materially contributed to the observed outcome?
 
@@ -239,76 +238,76 @@ The observed harm may still have arisen through another route.
 
 Causation requires its own evidence.
 
-9. Safeguards
+### 9. Safeguards  
 
 What formal and practical protections exist?
 
 These may include:
 
-* courts;
-* regulators;
-* parliamentary oversight;
-* data-protection rights;
-* asylum protections;
-* press scrutiny;
-* independent investigation;
-* correction mechanisms;
-* appeal routes;
-* diplomatic restrictions;
-* civil-society monitoring.
+- courts;
+- regulators;
+- parliamentary oversight;
+- data-protection rights;
+- asylum protections;
+- press scrutiny;
+- independent investigation;
+- correction mechanisms;
+- appeal routes;
+- diplomatic restrictions;
+- civil-society monitoring.
 
 A safeguard should not be credited merely because it exists on paper.
 
 The study should ask whether it works.
 
-10. Confidence
+### 10. Confidence  
 
 How strongly is each proposition supported?
 
 Confidence should be assigned separately to:
 
-* capability;
-* access;
-* intent;
-* implementation;
-* attribution;
-* causation.
+- capability;
+- access;
+- intent;
+- implementation;
+- attribution;
+- causation.
 
 One confident finding should not spill automatically into every adjacent claim.
 
-⸻
+---
 
-🔬 The Unit Of Analysis
+## 🔬 The Unit Of Analysis  
 
 A country name is not always a sufficient unit of analysis.
 
 A study may concern:
 
-* one government;
-* one historical period;
-* one ministry;
-* one intelligence service;
-* one police body;
-* one ruling party;
-* one territorial authority;
-* one diplomatic mission;
-* one military formation;
-* one proxy network;
-* one commercial contractor;
-* one state-linked institution.
+- one government;
+- one historical period;
+- one ministry;
+- one intelligence service;
+- one police body;
+- one ruling party;
+- one territorial authority;
+- one diplomatic mission;
+- one military formation;
+- one proxy network;
+- one commercial contractor;
+- one state-linked institution.
 
 The node should identify the actual unit being discussed.
 
 This matters particularly where authority is:
 
-* fragmented;
-* contested;
-* federal;
-* occupied;
-* devolved;
-* militia-based;
-* divided between domestic and external actors;
-* distributed across party, state, and commercial systems.
+- fragmented;
+- contested;
+- federal;
+- occupied;
+- devolved;
+- militia-based;
+- divided between domestic and external actors;
+- distributed across party, state, and commercial systems.
 
 A finding about one intelligence service should not quietly become a finding about every public institution.
 
@@ -316,23 +315,23 @@ A finding about one administration should not become an eternal national charact
 
 Precision about the actor is part of precision about the claim.
 
-⸻
+---
 
-👥 State, Government, Population, And Diaspora
+## 👥 State, Government, Population, And Diaspora  
 
 Every study must preserve distinctions between:
 
-* the state;
-* the current government;
-* governing institutions;
-* intelligence and security bodies;
-* ruling parties;
-* commercial suppliers;
-* political proxies;
-* the population;
-* citizens abroad;
-* diaspora communities;
-* ethnic and religious groups.
+- the state;
+- the current government;
+- governing institutions;
+- intelligence and security bodies;
+- ruling parties;
+- commercial suppliers;
+- political proxies;
+- the population;
+- citizens abroad;
+- diaspora communities;
+- ethnic and religious groups.
 
 A diaspora may be monitored by a state.
 
@@ -348,112 +347,112 @@ An ethnicity is not evidence of political alignment.
 
 A state study that reproduces collective suspicion has failed its own purpose.
 
-⸻
+---
 
-🕸️ Relationship Governance As A Comparative Question
+## 🕸️ Relationship Governance As A Comparative Question  
 
-These studies sit inside 🥀_Little_Database_Of_Horrors.
+These studies sit inside `🥀_Little_Database_Of_Horrors`.
 
 They therefore ask not only how states monitor individuals, but how states and institutions may understand or interfere with relationships.
 
 Relevant questions include:
 
-* Are family ties mapped?
-* Are relatives used as leverage?
-* Are professional or political associations recorded?
-* Are community organisations treated as intelligence sources?
-* Are legal, journalistic, financial, or institutional bridges considered threatening?
-* Are some intermediaries recognised as legitimate while others are excluded?
-* Are relationships merely observed, or are they being discouraged, redirected, exploited, or disrupted?
-* Does pressure rise when a relationship becomes capable of producing protection, evidence, organisation, or escape?
+- Are family ties mapped?
+- Are relatives used as leverage?
+- Are professional or political associations recorded?
+- Are community organisations treated as intelligence sources?
+- Are legal, journalistic, financial, or institutional bridges considered threatening?
+- Are some intermediaries recognised as legitimate while others are excluded?
+- Are relationships merely observed, or are they being discouraged, redirected, exploited, or disrupted?
+- Does pressure rise when a relationship becomes capable of producing protection, evidence, organisation, or escape?
 
 The comparative question is not simply:
 
-Which states watch people abroad?
+> Which states watch people abroad?
 
 It is also:
 
-Which relationships become politically consequential, and what happens when they do?
+> Which relationships become politically consequential, and what happens when they do?
 
-⸻
+---
 
-🏛️ Domestic, Transnational, And Host-State Layers
+## 🏛️ Domestic, Transnational, And Host-State Layers  
 
 Each study should distinguish at least three environments.
 
-Domestic Repression
+### Domestic Repression  
 
 Conduct occurring primarily within the state’s own territory or jurisdiction.
 
-Transnational Repression
+### Transnational Repression  
 
 Conduct directed at people outside the state’s territory, including:
 
-* threats;
-* surveillance;
-* family coercion;
-* digital harassment;
-* passport or consular pressure;
-* rendition;
-* abduction;
-* assault;
-* assassination;
-* misuse of international legal mechanisms;
-* pressure through employers or community organisations.
+- threats;
+- surveillance;
+- family coercion;
+- digital harassment;
+- passport or consular pressure;
+- rendition;
+- abduction;
+- assault;
+- assassination;
+- misuse of international legal mechanisms;
+- pressure through employers or community organisations.
 
-Host-State Response
+### Host-State Response  
 
 The state in which the affected person lives may:
 
-* protect;
-* investigate;
-* prosecute;
-* warn;
-* regulate;
-* restrict foreign officials;
-* share data;
-* facilitate return;
-* minimise complaints;
-* prioritise an alliance;
-* leave the person to manage the risk alone.
+- protect;
+- investigate;
+- prosecute;
+- warn;
+- regulate;
+- restrict foreign officials;
+- share data;
+- facilitate return;
+- minimise complaints;
+- prioritise an alliance;
+- leave the person to manage the risk alone.
 
 Transnational capability does not end at the border.
 
 It depends partly on what the host state permits, overlooks, enables, or refuses to confront.
 
-⸻
+---
 
-🔗 Distributed Capability
+## 🔗 Distributed Capability  
 
 No single institution needs to control the whole route.
 
 One actor may:
 
-* collect the data.
+- collect the data.
 
 Another may:
 
-* supply the technology.
+- supply the technology.
 
 Another may:
 
-* identify the target.
+- identify the target.
 
 Another may:
 
-* provide diplomatic access.
+- provide diplomatic access.
 
 Another may:
 
-* circulate a warning.
+- circulate a warning.
 
 Another may:
 
-* make the administrative decision.
+- make the administrative decision.
 
 Another may:
 
-* carry out the intervention.
+- carry out the intervention.
 
 This can produce an effect that is coherent enough to harm while remaining fragmented enough for every participant to deny ownership.
 
@@ -463,41 +462,41 @@ It does not remove responsibility either.
 
 Country and regional studies should therefore examine:
 
-* shared vendors;
-* allied intelligence systems;
-* policing agreements;
-* migration partnerships;
-* border infrastructure;
-* diplomatic channels;
-* commercial platforms;
-* financial systems;
-* community intermediaries;
-* regional security organisations.
+- shared vendors;
+- allied intelligence systems;
+- policing agreements;
+- migration partnerships;
+- border infrastructure;
+- diplomatic channels;
+- commercial platforms;
+- financial systems;
+- community intermediaries;
+- regional security organisations.
 
 The relevant capability may belong to a network of institutions rather than one machine with one operator.
 
-⸻
+---
 
-📅 Time Matters
+## 📅 Time Matters  
 
 State capability studies must be dated.
 
 The relevant period may change because of:
 
-* elections;
-* coups;
-* war;
-* revolution;
-* succession;
-* emergency law;
-* legal reform;
-* technological acquisition;
-* institutional collapse;
-* sanctions;
-* diplomatic realignment;
-* leadership transition;
-* peace agreements;
-* democratic backsliding.
+- elections;
+- coups;
+- war;
+- revolution;
+- succession;
+- emergency law;
+- legal reform;
+- technological acquisition;
+- institutional collapse;
+- sanctions;
+- diplomatic realignment;
+- leadership transition;
+- peace agreements;
+- democratic backsliding.
 
 A practice documented under one government may not continue unchanged.
 
@@ -507,67 +506,67 @@ A historical pattern remains relevant, but it should not be silently presented a
 
 Each study should identify:
 
-* the period covered;
-* major changes within that period;
-* which findings remain current;
-* which findings are historical;
-* which questions require reassessment.
+- the period covered;
+- major changes within that period;
+- which findings remain current;
+- which findings are historical;
+- which questions require reassessment.
 
 The plant may be perennial.
 
 The paperwork still needs dates.
 
-⸻
+---
 
-🌫️ What Absence Of Evidence Means
+## 🌫️ What Absence Of Evidence Means  
 
 Public evidence may be absent because:
 
-* the conduct did not occur;
-* the capability was not used;
-* the event was not investigated;
-* the subject could not report safely;
-* records remain classified;
-* evidence was destroyed;
-* journalists lacked access;
-* institutions refused disclosure;
-* researchers looked for the wrong mechanism.
+- the conduct did not occur;
+- the capability was not used;
+- the event was not investigated;
+- the subject could not report safely;
+- records remain classified;
+- evidence was destroyed;
+- journalists lacked access;
+- institutions refused disclosure;
+- researchers looked for the wrong mechanism.
 
 Absence of public evidence should therefore not be turned automatically into:
 
-The state is innocent.
+> The state is innocent.
 
 It should also not be turned into:
 
-The secrecy proves the allegation.
+> The secrecy proves the allegation.
 
 The correct conclusion may simply be:
 
-Publicly available evidence does not currently establish the claim.
+> Publicly available evidence does not currently establish the claim.
 
 Uncertainty is an analytical result.
 
 It is not a blank space that must be filled with confidence.
 
-⸻
+---
 
-🧭 The Method Nodes
+## 🧭 The Method Nodes  
 
 This folder contains four supporting nodes.
 
-🔍 Questions To Ask Of Every State
+### [🔍 Questions To Ask Of Every State](./🔍_questions_to_ask_of_every_state.md)  
 
 Provides the standard research and drafting questions for every state study, including conduct, capability, infrastructure, relationships, proxies, cross-border cooperation, host-state response, safeguards, rivals, and disproof.
 
-📏 Evidence And Confidence Scale
+### [📏 Evidence And Confidence Scale](./📏_evidence_and_confidence_scale.md)  
 
 Defines how evidence and confidence should be described. It distinguishes established findings, corroborated reporting, reasonable inference, plausible capability, and unsupported speculation.
 
-⚖️ Capability, Intent, And Documented Use
+### [⚖️ Capability, Intent, And Documented Use](./⚖️_capability_intent_and_documented_use.md)  
 
 Prevents technical capacity, political motive, implementation, attribution, and causation from collapsing into one claim.
 
-🧯 Avoiding False Equivalence
+### [🧯 Avoiding False Equivalence](./🧯_avoiding_false_equivalence.md)  
 
 Explains how to compare recurring mechanisms while preserving differences in scale, violence, legality, political structure, safeguards, remedies, and evidentiary strength.
 
@@ -581,177 +580,177 @@ The capability-and-intent node protects the evidentiary chain.
 
 The false-equivalence node protects the comparison.
 
-⸻
+---
 
-🗂️ Compact State-Study Template
+## 🗂️ Compact State-Study Template  
 
 Each state study should ordinarily include:
 
-Scope And Period
+### Scope And Period  
 
-* What actor, institution, territory, or government is being studied?
-* Which period does the node cover?
+- What actor, institution, territory, or government is being studied?
+- Which period does the node cover?
 
-Political And Institutional Context
+### Political And Institutional Context  
 
-* What political structure matters?
-* Which institutions possess relevant authority?
+- What political structure matters?
+- Which institutions possess relevant authority?
 
-Documented Conduct
+### Documented Conduct  
 
-* What has been established?
-* Against whom?
-* Through what documented route?
+- What has been established?
+- Against whom?
+- Through what documented route?
 
-Relevant Capabilities
+### Relevant Capabilities  
 
-* What technical, administrative, diplomatic, financial, or coercive capabilities exist?
+- What technical, administrative, diplomatic, financial, or coercive capabilities exist?
 
-Access And Infrastructure
+### Access And Infrastructure  
 
-* Who can use them?
-* What systems, laws, vendors, or partnerships support them?
+- Who can use them?
+- What systems, laws, vendors, or partnerships support them?
 
-Diaspora And Relationship Effects
+### Diaspora And Relationship Effects  
 
-* How are families, communities, associations, and consequential relationships affected?
+- How are families, communities, associations, and consequential relationships affected?
 
-Embassies, Proxies, And Partners
+### Embassies, Proxies, And Partners  
 
-* What roles are documented or credibly reported?
-* What remains uncertain?
+- What roles are documented or credibly reported?
+- What remains uncertain?
 
-Host-State Response
+### Host-State Response  
 
-* What protection, investigation, complicity, or neglect is visible?
+- What protection, investigation, complicity, or neglect is visible?
 
-Safeguards And Remedies
+### Safeguards And Remedies  
 
-* What exists?
-* What functions?
-* What fails?
+- What exists?
+- What functions?
+- What fails?
 
-Rival Explanations
+### Rival Explanations  
 
-* What other mechanisms may explain the observed conduct?
+- What other mechanisms may explain the observed conduct?
 
-Evidence And Confidence
+### Evidence And Confidence  
 
-* Which propositions are established?
-* Which remain inferential, plausible, contested, or unsupported?
+- Which propositions are established?
+- Which remain inferential, plausible, contested, or unsupported?
 
-What The Evidence Does Not Show
+### What The Evidence Does Not Show  
 
-* Which larger claims have not been earned?
+- Which larger claims have not been earned?
 
-DADA Relevance
+### DADA Relevance  
 
-* What practical warning, protective question, or smallest testable claim follows from the study?
+- What practical warning, protective question, or smallest testable claim follows from the study?
 
-⸻
+---
 
-🚫 What This Method Is Not
+## 🚫 What This Method Is Not  
 
 This method is not:
 
-* a regime-ranking system;
-* a geopolitical loyalty test;
-* a catalogue of national stereotypes;
-* a presumption that allies are restrained;
-* a presumption that adversaries are responsible;
-* a claim that all surveillance is equivalent;
-* a claim that formal democracy prevents abuse;
-* a claim that authoritarian capacity proves every allegation;
-* a substitute for forensic investigation;
-* a demand for artificial symmetry;
-* an excuse to treat diasporas as suspect populations;
-* a way to convert uncertainty into insinuation.
+- a regime-ranking system;
+- a geopolitical loyalty test;
+- a catalogue of national stereotypes;
+- a presumption that allies are restrained;
+- a presumption that adversaries are responsible;
+- a claim that all surveillance is equivalent;
+- a claim that formal democracy prevents abuse;
+- a claim that authoritarian capacity proves every allegation;
+- a substitute for forensic investigation;
+- a demand for artificial symmetry;
+- an excuse to treat diasporas as suspect populations;
+- a way to convert uncertainty into insinuation.
 
 The purpose is disciplined comparison.
 
 That requires enough consistency to identify patterns and enough precision to preserve difference.
 
-⸻
+---
 
-🧿 Working Principles
+## 🧿 Working Principles  
 
 The comparative method rests on several principles:
 
-* Compare propositions, not reputations.
-* Name the institution where possible.
-* Date the finding.
-* Separate state from population.
-* Separate capability from use.
-* Separate motive from attribution.
-* Separate deployment from effect.
-* Follow the relationship as well as the person.
-* Examine the host state.
-* Preserve rival explanations.
-* State what would weaken the claim.
-* Allow evidence to produce asymmetrical conclusions.
+- Compare propositions, not reputations.
+- Name the institution where possible.
+- Date the finding.
+- Separate state from population.
+- Separate capability from use.
+- Separate motive from attribution.
+- Separate deployment from effect.
+- Follow the relationship as well as the person.
+- Examine the host state.
+- Preserve rival explanations.
+- State what would weaken the claim.
+- Allow evidence to produce asymmetrical conclusions.
 
 The same question may reveal:
 
-* extensive documented lethal repression in one case;
-* family coercion in another;
-* strong technical capability but limited evidence of overseas use in another;
-* fragmented proxy conduct in another;
-* meaningful safeguards in another;
-* a large evidentiary gap somewhere else.
+- extensive documented lethal repression in one case;
+- family coercion in another;
+- strong technical capability but limited evidence of overseas use in another;
+- fragmented proxy conduct in another;
+- meaningful safeguards in another;
+- a large evidentiary gap somewhere else.
 
 That is not inconsistency.
 
 That is the point of doing the comparison properly.
 
-⸻
+---
 
-🔭 Compact Definition
+## 🔭 Compact Definition  
 
-Comparative Method is the shared analytical framework used across the Regime and State Capability Studies branch.
+**Comparative Method** is the shared analytical framework used across the Regime and State Capability Studies branch.
 
 It asks each study to distinguish:
 
-* conduct;
-* capability;
-* access;
-* infrastructure;
-* intent;
-* implementation;
-* attribution;
-* causation;
-* safeguards;
-* confidence.
+- conduct;
+- capability;
+- access;
+- infrastructure;
+- intent;
+- implementation;
+- attribution;
+- causation;
+- safeguards;
+- confidence.
 
 It applies equal scrutiny without requiring equal findings.
 
-Use the same questions across cases without demanding the same answers.
+> Use the same questions across cases without demanding the same answers.
 
-⸻
+---
 
-🌌 Constellations
+## 🌌 Constellations  
 
 🧭 🌍 🔍 ⚖️ 🧯 — comparative method; state capability; evidentiary discipline; institutional precision; protection against false equivalence.
 
-✨ Stardust
+## ✨ Stardust  
 
 comparative analysis, state capability, transnational repression, evidence standards, attribution, causation, diaspora monitoring, host-state responsibility, false equivalence
 
-⸻
+---
 
-🏮 Footer
+## 🏮 Footer  
 
-🧭 Comparative Method is a living methodological node of the Polaris Protocol.
+*🧭 Comparative Method* is a living methodological node of the **Polaris Protocol**.  
 It supplies the shared questions, distinctions, and evidentiary rules used across the Regime and State Capability Studies branch, allowing recurring mechanisms to be compared without erasing differences in political structure, documented harm, institutional responsibility, or available protection.
 
-📡 Cross-references:
+> 📡 Cross-references:
+>
+> - [🌍 Regime And State Capability Studies](../README.md) — *the parent comparative branch for state, regional, and cross-border capability studies*  
+> - [🔍 Questions To Ask Of Every State](./🔍_questions_to_ask_of_every_state.md) — *the standard research and drafting instrument*  
+> - [📏 Evidence And Confidence Scale](./📏_evidence_and_confidence_scale.md) — *proposition-level evidence and confidence language*  
+> - [⚖️ Capability, Intent, And Documented Use](./⚖️_capability_intent_and_documented_use.md) — *the evidentiary chain from technical possibility to demonstrated effect*  
+> - [🧯 Avoiding False Equivalence](./🧯_avoiding_false_equivalence.md) — *consistent scrutiny without artificial symmetry*  
+> - [🥀 Little Database Of Horrors](../../README.md) — *the wider capability model for relationship mapping, social containment, and transnational repression*  
 
-* 🌍 Regime And State Capability Studies — the parent comparative branch for state, regional, and cross-border capability studies
-* 🔍 Questions To Ask Of Every State — the standard research and drafting instrument
-* 📏 Evidence And Confidence Scale — proposition-level evidence and confidence language
-* ⚖️ Capability, Intent, And Documented Use — the evidentiary chain from technical possibility to demonstrated effect
-* 🧯 Avoiding False Equivalence — consistent scrutiny without artificial symmetry
-* 🥀 Little Database Of Horrors — the wider capability model for relationship mapping, social containment, and transnational repression
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
-Survivor authorship is sovereign. Containment is never neutral.
-
-Last updated: 2026-07-23
+_Last updated: 2026-07-23_
