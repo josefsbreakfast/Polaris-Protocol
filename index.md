@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-23 00:47:49 UTC_
+_Generated on 2026-07-23 00:55:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6106,7 +6106,6 @@ _Generated on 2026-07-23 00:47:49 UTC_
             - [`🔗_regional_security_and_data_cooperation.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🕌_Middle_East_And_North_Africa/🔗_regional_security_and_data_cooperation.md)
           - [**🧭_Comparative_Method/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🧭_Comparative_Method/)
             - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🧭_Comparative_Method/README.md)
-            - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🧭_Comparative_Method/notes.txt)
             - [`⚖️_capability_intent_and_documented_use.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🧭_Comparative_Method/⚖️_capability_intent_and_documented_use.md)
             - [`📏_evidence_and_confidence_scale.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🧭_Comparative_Method/📏_evidence_and_confidence_scale.md)
             - [`🔍_questions_to_ask_of_every_state.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🧭_Comparative_Method/🔍_questions_to_ask_of_every_state.md)
