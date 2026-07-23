@@ -1249,7 +1249,14 @@ Its governing rules are:
 
 ## 🌌 Constellations  
 
-🕌 🌍 🕸️ 🏭 💸 — diaspora capability; regional systems; relationship governance; security industry; financial incentives.
+🕌 🌍 🕸️ 🏭 💸 — diaspora capability; regional systems; relationship governance; security industry; financial incentives.  
+
+*Further media:*  
+
+- [📚: Digital Authoritarianism in the Middle East: Deception, Disinformation and Social Media. Hurst, 2022. Marc Owen Jones](https://www.hurstpublishers.com/book/digital-authoritarianism-in-the-middle-east/)  
+- [📑: Digital Activism and Authoritarian Adaptation in the Middle East. 2021. POMEPS, Stanford.](https://www.pomeps.org/wp-content/uploads/2021/08/POMEPS_Studies_43_Web.pdf)  
+
+---
 
 ## ✨ Stardust  
 
