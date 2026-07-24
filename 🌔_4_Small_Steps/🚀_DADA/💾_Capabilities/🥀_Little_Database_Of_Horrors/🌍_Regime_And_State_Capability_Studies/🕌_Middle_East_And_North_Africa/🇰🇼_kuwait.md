@@ -1675,6 +1675,171 @@ The collected cases repeatedly show:
 
 ---
 
+
+## 🔗 Public Voices And Verified Links  
+
+Polaris links to the public work of writers, journalists, dissidents and advocacy groups where the material is:
+
+- publicly available;
+- relevant to the capability study;
+- reasonably attributable to the named person or organisation;
+- not obviously exposing private relatives or operationally sensitive information;
+- not being shared to encourage violence, material support or unlawful activity.
+
+A link records the existence of a public voice.
+
+It does not endorse every claim made through that account.
+
+Where a live account has disappeared, been disabled or cannot be authenticated safely, this node links instead to:
+
+- an official personal site;
+- an established organisation profile;
+- an independent rights record;
+- a stable archive or publication page.
+
+> **A government’s decision to call words dangerous does not oblige the archive to make the writer disappear.**
+
+### Audit note  
+
+The links below were reviewed in July 2026 against:
+
+- the current UK list of proscribed terrorist organisations;
+- the current UK sanctions framework;
+- obvious account-authenticity indicators;
+- the presence of public political, journalistic or literary work;
+- risks to non-public relatives.
+
+No person or group listed below was added merely because a search result used the same name.
+
+Where identity could not be established confidently, no direct personal-account link has been added.
+
+This is an editorial screening exercise rather than formal legal advice.
+
+### Fawaz al-Kathiri  
+
+- **Primary voice:** [Fawaz al-Kathiri on X — `@Fnr_UK`](https://x.com/Fnr_UK)
+- **Independent documentation:** [Gulf Centre for Human Rights — Fawaz al-Kathiri](https://www.gc4hr.org/defenders/fawaz-al-kathiri/)
+- **Status:** active public political account; the handle, name and published material align with the documented exile case.
+- **Safety note:** link the dissident’s public account, not private accounts belonging to relatives.
+
+### Kuwaiti Refugees Association  
+
+- **Primary voice:** [Kuwaiti Refugees Association on X — `@KwtRefugee`](https://x.com/KwtRefugee)
+- **Example preserved post:** [statement concerning Salman al-Khalidi’s nationality withdrawal](https://x.com/KwtRefugee/status/1782466301820096896)
+- **Status:** public exile-advocacy account carrying case material, statements and amplification.
+- **Editorial note:** inclusion does not establish that every person discussed by the association is a formal member.
+
+### Salman al-Khalidi  
+
+- **Primary organisational route:** [Kuwaiti Refugees Association on X](https://x.com/KwtRefugee)
+- **Independent documentation:** Gulf Centre for Human Rights reporting and the Middle East Eye investigation into the Arab Interior Ministers Council warrant system.
+- **Status:** no separate personal blog or social account has been linked here because the audit did not establish a stable, independently authenticated public handle with sufficient confidence.
+- **Preservation priority:** association posts, protest footage, interviews and rights records should be archived where lawful.
+
+### Mansour al-Muhareb  
+
+- **Independent profile:** [PEN America — Mansour Al-Muhareb](https://pen.org/writer-at-risk/mansour-al-muhareb/)
+- **Status:** active writer-at-risk case; PEN identifies him as an online commentator living in exile in the United Kingdom.
+- **Primary-account status:** no confidently authenticated direct account located during this audit.
+- **Editorial decision:** retain the PEN profile rather than guessing at a handle.
+
+### Anwar Hayati  
+
+- **Independent documentation:** [Amnesty International — Kuwait: Authorities must end wave of repression against critics](https://www.amnesty.org/en/latest/news/2024/06/kuwait-authorities-must-end-wave-of-repression-against-critics/)
+- **Status:** documented exile case.
+- **Primary-account status:** no confidently authenticated current public account located during this audit.
+- **Editorial decision:** do not link similarly named accounts without stronger attribution.
+
+### Sheikha Moneera Fahad al-Sabah and Mesaed al-Mesaileem  
+
+- **Independent reporting:** [The Guardian — Interpol arrest warrant allegedly targeting Kuwaiti princess and partner “on political grounds”](https://www.theguardian.com/global-development/2022/mar/03/interpol-arrest-warrant-allegedly-targeting-kuwaiti-princess-and-partner-on-political-grounds)
+- **Legal and rights record:** [MENA Rights Group — Mesaed al-Musaileem](https://menarights.org/en/case/mesaed-al-musaileem)
+- **Status:** public asylum, Red Notice and political-speech case.
+- **Primary-account status:** no direct account added because current authenticity and control were not established confidently.
+- **Safety note:** avoid linking private family material or location information.
+
+### Jasem Aljuraid  
+
+- **Primary hub:** [Jasem Aljuraid’s Linktree](https://linktr.ee/jjjuraid)
+- **Primary voice:** [Jasem Aljuraid on X — `@JJJuraid`](https://x.com/JJJuraid)
+- **Status:** active, high-volume public political and journalistic account; the Linktree identifies and links the X account.
+- **Editorial note:** his commentary represents his own strongly pro-Israel, anti-Iran and anti-Muslim-Brotherhood position. It should not be presented as representative of Kuwait as a whole.
+
+### Mona Kareem  
+
+- **Literary profile:** [Poetry Foundation — Mona Kareem](https://www.poetryfoundation.org/poets/mona-kareem)
+- **International poetry profile:** [Poetry International — Mona Kareem](https://www.poetryinternational.com/en/poets-poems/poets/poet/102-29812_Kareem/)
+- **Independent case documentation:** [Amnesty International — Bidun activist blocked from entering Kuwait](https://www.amnesty.org/en/latest/news/2023/01/kuwait-bidun-activist-blocked-from-entering-country-to-visit-family/)
+- **Status:** stable public literary and biographical pages; no social-media account added without stronger authentication.
+- **Preservation value:** her poetry and essays should sit beside the rights reporting so she is not reduced to a case file.
+
+### Ahmed Shihab-Eldin  
+
+- **Official website:** [Ahmed Shihab-Eldin](https://www.ahmedshihabeldin.com/)
+- **Primary voice:** [Ahmed Shihab-Eldin on X — `@ASE`](https://x.com/ase)
+- **Video archive:** [Ahmed Shihab-Eldin on YouTube](https://www.youtube.com/@ahmedeldin)
+- **Independent case record:** [Gulf Centre for Human Rights — Ahmed Shihab-Eldin](https://www.gc4hr.org/defenders/ahmed-shihab-eldin/)
+- **Platform-loss record:** [GCHR — Meta permanently disables Instagram account of journalist Ahmed Shihab-Eldin](https://www.gc4hr.org/meta-permanently-disables-instagram-account-of-journalist-ahmed-shihab-eldin/)
+- **Status:** official site and established public accounts verified through multiple public profiles.
+- **Archive note:** his former Instagram archive should not be treated as reliably available; reporting states that Meta permanently disabled the account after his detention.
+
+### Samih Maurice Twadros Bowles  
+
+- **Authoritative case record:** [UN Working Group on Arbitrary Detention — Opinion No. 74/2022](https://digitallibrary.un.org/record/4016012)
+- **Status:** strong UN documentation for the earlier detention case.
+- **Primary-account status:** no confidently authenticated public blog or social account located during this audit.
+- **Editorial decision:** distinguish the UN-documented case from later unverified threat allegations.
+
+### Abdullah Fairouz  
+
+- **Rights-defender profile:** [Front Line Defenders — Abdullah Fairuz](https://www.frontlinedefenders.org/en/profile/abdullah-fairuz)
+- **Independent case documentation:** [Amnesty International — Kuwait: Authorities must end wave of repression against critics](https://www.amnesty.org/en/latest/news/2024/06/kuwait-authorities-must-end-wave-of-repression-against-critics/)
+- **Status:** established writer and rights-defender profile.
+- **Primary-account status:** no confidently authenticated current account added.
+- **Archive priority:** locate and preserve the removed 2022 interview where lawful; the prosecution record should not substitute for the original speech.
+
+### Fuhaid al-Ajami and TfTeeeSH  
+
+- **Independent case documentation:** [Amnesty International — Kuwait: Authorities must end wave of repression against critics](https://www.amnesty.org/en/latest/news/2024/06/kuwait-authorities-must-end-wave-of-repression-against-critics/)
+- **Status:** al-Ajami is documented as editor-in-chief of the online media venture TfTeeeSH.
+- **Primary-outlet status:** no stable, confidently authenticated current TfTeeeSH homepage or account was established during this audit.
+- **Editorial decision:** retain the outlet name and publication relationship, but do not guess at a surviving account.
+- **Archive priority:** the removed interview, outlet captures and appeal judgment.
+
+### Mohammed al-Bargash  
+
+- **Independent documentation:** [Amnesty International — Kuwait: Authorities must end wave of repression against critics](https://www.amnesty.org/en/latest/news/2024/06/kuwait-authorities-must-end-wave-of-repression-against-critics/)
+- **Status:** documented Bidun rights defender and prisoner-of-conscience case.
+- **Primary-account status:** no confidently authenticated direct account located during this audit.
+- **Safety note:** preserve his public advocacy without exposing non-public Bidun relatives or undocumented family details.
+
+### Linking standard for future additions  
+
+Add a direct voice link when at least one of the following applies:
+
+- the person’s official website links the account;
+- a stable rights profile identifies the account;
+- multiple reputable reports attribute the same handle;
+- the account itself contains consistent biographical and case-specific evidence;
+- an established organisation publicly identifies it as its official account.
+
+Mark the link as unresolved when:
+
+- only name similarity supports attribution;
+- the account has changed hands;
+- posts are unavailable or recently purged;
+- relatives appear to control the account during detention;
+- the link exposes private location or family information;
+- an archive may contain unlawfully obtained private material.
+
+Preferred format:
+
+> **Primary voice:** [public work]  
+> **Independent documentation:** [rights, legal or journalistic record]  
+> **Status:** verified active / stable publication page / archived / identity unresolved  
+> **Editorial note:** what the link can and cannot establish
+
+
 ## 📚 Sources And Reading  
 
 ### Constitutional closure, critics and political speech  
