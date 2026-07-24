@@ -1473,3 +1473,304 @@ The most useful shared source spine is therefore:
 Amnesty → GCHR → MENA Rights Group → Human Rights Watch → Middle East Eye → UN mechanisms → host-country press and legal reporting.
 
 Those sources repeatedly connect otherwise separate Kuwaiti bloggers through the same charges, ministries, nationality machinery and regional return systems.
+
+---
+
+Yes. Kuwait has several genuinely excellent ones, and they map the older constitutional culture very clearly.
+
+Strongest protest slogans
+
+لن نسمح لك
+
+Lan nasmaḥ lak — “We will not allow you.”
+
+This is probably the defining Kuwaiti protest phrase.
+
+Musallam al-Barrak addressed it directly to the Emir during the October 2012 mobilisation against changes to the electoral law, with the crowd repeating it. The importance lies in the pronouns: it does not petition the ruler or ask advisers to correct him. It places a public limit on monarchical action.  
+
+Not: please reconsider.
+We will not permit this.
+
+It also triggered exactly the counter-language we would expect: critics characterised it as incitement against the ruler, rebellion and a gateway to الفتنة and disorder.  
+
+That gives us the clean clash:
+
+* public: لن نسمح لك
+* loyalist reply: the ruler must not be addressed that way.
+
+And the node line:
+
+The constitutional crisis can be heard in one pronoun: who is entitled to tell whom what will not be permitted?
+
+⸻
+
+كرامة وطن
+
+Karāmat waṭan — “The dignity of a nation.”
+
+This became the name of the large 2012 protest marches opposing the one-vote electoral decree.
+
+It is compact and brilliant because it makes constitutional procedure a matter of collective dignity rather than technical election design. The marchers’ orange colour also became a recognisable visual language.  
+
+Natural political translation:
+
+This is not merely an argument about voting rules. The country itself is being humiliated.
+
+⸻
+
+السلطة المطلقة مفسدة مطلقة
+
+Al-sulṭa al-muṭlaqa mafsada muṭlaqa — “Absolute power corrupts absolutely.”
+
+Documented on protest placards during the Karāmat Waṭan mobilisation.  
+
+This is almost offensively perfect for the present node because Kuwait subsequently:
+
+* suspended parliament;
+* transferred legislation to the appointed executive;
+* prosecuted critics;
+* expanded nationality withdrawal.
+
+The public had already supplied the heading.
+
+⸻
+
+المجلس لا يمثلني
+
+Al-majlis lā yumaththilunī — “The Assembly does not represent me.”
+
+Used against the parliament elected following the opposition boycott and one-vote decree.  
+
+This needs contextual care: it was not rejection of parliament as an institution. It rejected a particular assembly as an engineered or unrepresentative outcome.
+
+The demand was not “abolish parliament.” It was “this parliament cannot legitimately speak for us.”
+
+That distinction becomes rather important after 2024.
+
+⸻
+
+الشعب يريد إسقاط المرسوم
+
+Al-shaʿb yurīd isqāṭ al-marsūm — “The people want the decree brought down.”
+
+A deliberate adaptation of the Arab Spring formula:
+
+* الشعب يريد إسقاط النظام
+* “The people want the fall of the regime.”
+
+But in Kuwait the target was narrowed to the electoral decree:
+
+* not necessarily the monarchy;
+* not necessarily the entire constitutional order;
+* the specific unilateral intervention.
+
+It is an excellent example of precisely calibrated dissent.  
+
+They borrowed the revolutionary rhythm while specifying a constitutional remedy.
+
+⸻
+
+واحد، واحد، واحد… الشعب ما يبي الصوت الواحد
+
+Wāḥid, wāḥid, wāḥid… al-shaʿb mā yabī al-ṣawt al-wāḥid.
+
+Natural translation:
+
+“One, one, one — the people don’t want the one-vote system.”
+
+This has the useful Kuwaiti colloquial ما يبي — “doesn’t want.”
+
+It turns the object of opposition into the chant’s rhythm: one is repeated mockingly before being rejected.  
+
+⸻
+
+الصوت الواحد باطل
+
+Al-ṣawt al-wāḥid bāṭil — “The one-vote system is invalid.”
+
+باطل can carry several overlapping meanings:
+
+* invalid;
+* void;
+* false;
+* illegitimate.
+
+It sounds legal, moral and political at once.  
+
+⸻
+
+حرية حرية… بدنا حكومة شعبية
+
+Ḥurriyya, ḥurriyya… bidnā ḥukūma shaʿbiyya.
+
+“Freedom, freedom — we want a popular government.”
+
+The report preserves بدنا, “we want,” a colloquial form more associated with Levantine Arabic than standard Kuwaiti speech, so I would want video before making dialect claims. But the slogan was reported during the 2012 march.  
+
+Its political significance is unambiguous: appointed government was being contrasted with government deriving legitimacy from the people.
+
+⸻
+
+Killer movement statements
+
+سنجعل من كل شبر في الكويت ميداناً لنا
+
+“We will make every inch of Kuwait a public square in which we defend our constitution, freedom, sovereignty and dignity.”
+
+This came from the Karāmat Waṭan mobilisation account. It is excellent because it converts the entire country into political space when access to the formal political centre is constrained.  
+
+A slightly more natural rendering:
+
+Every inch of Kuwait will become our میدان.
+
+ميدان is not merely “place.” In Arab protest vocabulary it evokes the square as a site of public sovereignty.
+
+⸻
+
+سلمية التحركات ليست مجرد خيار أو شعار، وإنما هي عهد وواجب
+
+“The peaceful nature of our mobilisation is not merely a choice or slogan; it is a covenant and a duty.”
+
+The movement explicitly described nonviolence as inseparable from its defence of constitutional government.  
+
+This is useful against retrospective security framing. The movement was documenting its own theory of action:
+
+* peaceful;
+* constitutional;
+* national;
+* opposed to invented foreign agendas.
+
+⸻
+
+الكويت أكبر منك ومن وزير الداخلية ومنا جميعاً
+
+“Kuwait is greater than you, than the Interior Minister, and than all of us.”
+
+Former MP Shuaib al-Muwaizri directed this at the prime minister in 2011.  
+
+That is a superb constitutional-patriotic line because it refuses both:
+
+* ruler worship;
+* opposition self-aggrandisement.
+
+Nobody is bigger than the country.
+
+The continuation is equally strong in meaning:
+
+We will pass away; Kuwait will remain.
+
+That is precisely the distinction between loyalty to the country and obedience to current officeholders.
+
+⸻
+
+الشعب مصدر السلطات جميعاً
+
+Al-shaʿb maṣdar al-sulṭāt jamīʿan — “The people are the source of all powers.”
+
+This is constitutional language, not merely a chant. The Karāmat Waṭan movement explicitly addressed Kuwaitis as the free people and source of all state authority.  
+
+It creates the essential contradiction:
+
+If the people are constitutionally the source of authority, how can the executive suspend their representative institution in order to redefine the terms on which they may participate?
+
+⸻
+
+Bidun language
+
+The current search produced better documentation of where and why Bidun people demonstrated than exact placard wording.
+
+Strongly supported political vocabulary includes demands for:
+
+* الجنسية — nationality;
+* التعليم — education;
+* الرعاية الصحية — healthcare;
+* recognition and equal civil status.
+
+Protests repeatedly occurred around Freedom Square in Taima, itself a politically valuable place-name.  
+
+The official counter-language is especially revealing. The Interior Ministry referred to Bidun people as:
+
+* المقيمين بصورة غير قانونية
+* “illegal residents.”
+
+And announced it would not allow them to hold gatherings “regardless of their nature, objective or mission.”  
+
+That gives us a brutal contrast:
+
+The demonstrators asked for nationality. The state answered by embedding alleged illegality into their official name.
+
+We still need a proper Arabic archive pass for:
+
+* Bidun placards;
+* poetry;
+* funeral speech;
+* hunger-strike language;
+* women’s testimony;
+* slogans from Taima and Jahra.
+
+Quotes from the dissident cases already collected
+
+These are not all crowd slogans, but they are node-worthy.
+
+Salman al-Khalidi
+
+هذا جهاد، نصر أو شهادة
+
+“This is jihad: victory or martyrdom.”
+
+Reported shortly before his arrest in Iraq. It is highly confrontational and should not be sanitised. It also helps explain why the state could portray him as more than a mild reform blogger, while still not converting his political speech automatically into an ordinary extraditable offence.
+
+⸻
+
+Fawaz al-Kathiri on his father’s arrest
+
+His line, in substance:
+
+Unable to harm the son, the authority decided to take revenge on the father.
+
+That is almost the thesis of the relationship-governance section.
+
+⸻
+
+The Emir’s May 2024 justification
+
+“We were left with no option.”
+
+This is the governing killer quote—not because it is persuasive, but because the whole node asks who made alternatives disappear from the ruler’s field of vision.
+
+Pair it with 2021:
+
+* Nawaf found an amnesty;
+* Mishal found “no option” except suspension.
+
+The historical record had supplied another option three years earlier.
+
+⸻
+
+Official-security language
+
+المصلحة العليا للدولة
+“The higher interests of the state.”
+
+This is one of those phrases that arrives looking respectable and leaves carrying parliament, nationality and judicial review out the back door.
+
+⸻
+
+Best set for the actual node
+
+I would preserve these prominently:
+
+1. لن نسمح لك — We will not allow you.
+2. كرامة وطن — The dignity of a nation.
+3. السلطة المطلقة مفسدة مطلقة — Absolute power corrupts absolutely.
+4. الشعب يريد إسقاط المرسوم — The people want the decree brought down.
+5. الصوت الواحد باطل — The one-vote system is illegitimate.
+6. المجلس لا يمثلني — This Assembly does not represent me.
+7. الكويت أكبر منك ومن وزير الداخلية ومنا جميعاً — Kuwait is greater than you, the Interior Minister and all of us.
+8. الشعب مصدر السلطات جميعاً — The people are the source of all powers.
+9. سنجعل من كل شبر في الكويت ميداناً لنا — We will make every inch of Kuwait our public square.
+10. سلمية التحركات… عهد وواجب — Peaceful mobilisation is a covenant and duty.
+
+And the interpretive line:
+
+Kuwaiti protest language was not principally asking to destroy the constitutional order. It was insisting that the ruler remain inside it.
