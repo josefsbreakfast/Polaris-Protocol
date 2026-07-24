@@ -1205,3 +1205,271 @@ And the sharp version:
 Kuwait suspended the institution that could question power, imprisoned people for continuing to question it, reopened the population’s nationality files, pursued critics through regional warrant systems, and began building a more integrated digital state through which belonging—or losing it—can travel faster.
 
 ---
+
+Yes — but at the moment the strongest links are institutional and media-network links, not proof that every blogger belonged to one organised dissident group.
+
+Directly linkable
+
+Salman al-Khalidi ↔ Kuwaiti Refugees Association
+
+* Al-Khalidi appears to have been a founder or leading figure in the UK-based Kuwaiti Refugees Association.
+* The association’s account publicised his denaturalisation and later campaigning.
+* Reporting also links him to fellow exile Mohammed Kallaf, who said he warned Al-Khalidi against publicising his Iraq trip.
+* This is our clearest actual exile-network node:
+    * organisation;
+    * shared advocacy;
+    * protest footage;
+    * refugee rights;
+    * amplification of individual cases.  
+
+Abdullah Fairouz ↔ Fuhaid al-Ajami ↔ TfTeeeSH
+
+This is a definite publication relationship:
+
+* Fairouz gave the interview.
+* Al-Ajami was editor-in-chief.
+* TfTeeeSH published it.
+* Both were prosecuted in the same state-security case.
+* TfTeeeSH describes itself as a Kuwait-focused political and social news outlet founded by al-Ajami in 2018.  
+
+That gives us a clean speech network:
+
+source/commentator → interviewer or editor → digital publication → state-security prosecution.
+
+Sheikha Moneera al-Sabah ↔ Mesaed al-Musaileem
+
+* They are partners.
+* They lived together in Bosnia.
+* Their asylum, extradition and Red Notice cases were intertwined.
+* Mesaileem’s Red Notice was eventually withdrawn by Interpol’s Commission for the Control of Files, although he reportedly remained under house arrest afterward.  
+
+This is both an intimate relationship and a shared political-risk unit.
+
+Fawaz al-Kathiri ↔ Nayef al-Fadhli and extended family
+
+* Not a blogger network in the organisational sense.
+* But it is a strongly documented relationship-enforcement network:
+    * exile commentator;
+    * reachable father;
+    * household devices;
+    * derivative family nationality;
+    * extended relatives.
+* GCHR now records nationality consequences affecting the father and several family members.  
+
+Likely shared ecosystem, but not yet direct organisational links
+
+Salman al-Khalidi ↔ Mansoor al-Muhareb ↔ Fawaz al-Kathiri
+
+All three are:
+
+* Kuwaiti online commentators;
+* living in exile, including in Britain;
+* critical of the May 2024 constitutional suspension or broader repression;
+* sentenced or targeted in absentia;
+* covered by GCHR and related rights networks.
+
+Mansoor al-Muhareb is an important addition to our list:
+
+* Kuwaiti blogger and online activist;
+* lives in the UK;
+* sentenced in absentia in October 2024 to two years with hard labour;
+* criticised the dissolution as unconstitutional and challenged the Emir’s authority.  
+
+They clearly occupy the same UK-facing Kuwaiti exile-commentary ecosystem. I have not yet found solid evidence that they formally worked together or belonged to the same association.
+
+So write:
+
+These figures appear within an overlapping British exile and online-commentary field. Direct organisational ties require further evidence.
+
+Not:
+
+they were all members of one dissident network.
+
+Anwar Hayati ↔ wider exile commentators
+
+Hayati shares the same pattern:
+
+* political posts on X;
+* State Security summons;
+* immediate departure;
+* European exile;
+* in-absentia sentence.
+
+But we do not yet have a named outlet, organisation or direct public collaboration linking him to Al-Khalidi, Al-Kathiri or Al-Muhareb. Amnesty groups his case with Fairouz, al-Ajami and al-Bargash as part of the same repression wave, but that is a case cluster assembled by the rights organisation, not evidence that the individuals were collaborators.  
+
+Cross-cutting intermediary organisations
+
+The people are also connected because the same small set of bodies repeatedly documents and amplifies them:
+
+* Gulf Centre for Human Rights;
+* Amnesty International;
+* MENA Rights Group;
+* PEN America;
+* Human Rights Watch;
+* Kuwaiti Refugees Association;
+* diaspora media and X accounts.
+
+These organisations can become the connective tissue between otherwise separate cases:
+
+blogger → rights organisation → international press → UN mechanism → host-state protection request.
+
+That does not make the rights organisation the political organiser. It makes it the documentation and escalation layer.
+
+A useful network map
+
+Exile-association cluster
+
+* Salman al-Khalidi
+* Mohammed Kallaf
+* Kuwaiti Refugees Association
+* potentially other unnamed association members
+
+UK online-dissident cluster
+
+* Salman al-Khalidi
+* Mansoor al-Muhareb
+* Fawaz al-Kathiri
+* possibly Samih Bowles through broader anglophone advocacy, though he is in Canada
+
+Independent-media cluster
+
+* Abdullah Fairouz
+* Fuhaid al-Ajami
+* TfTeeeSH
+* the removed 2022 interview
+* downstream rights reporting
+
+Royal-insider and partner cluster
+
+* Sheikha Moneera al-Sabah
+* Mesaed al-Musaileem
+* MENA Rights Group
+* Bosnian asylum and Interpol proceedings
+
+Bidun-rights cluster
+
+* Mohammed al-Bargash
+* Mona Kareem
+* Salman al-Khalidi, whose advocacy reportedly included Bidun rights
+* specialist researchers such as Ahmad Jaber Benswait, who lists expertise in Kuwait’s Bidun, denaturalised populations and exile dissent.  
+
+Family-pressure cluster
+
+* Fawaz al-Kathiri
+* Nayef al-Fadhli
+* Al-Kathiri’s wider family
+* citizenship-review bodies
+* Interior Ministry
+
+The stronger analytical finding
+
+The bloggers do not have to be centrally organised for the state to perceive them as a connected field.
+
+They are connected through:
+
+* shared platforms;
+* quote-posting and amplification;
+* common audiences;
+* rights organisations;
+* exile geography;
+* overlapping political subjects;
+* repeated state charges;
+* media outlets that carry one another’s cases.
+
+The network may be real as a circulation system before it is real as an organisation.
+
+That is probably the precise Kuwait finding:
+
+Kuwaiti online dissent appears less like one formal opposition movement than a distributed field of bloggers, exiles, editors, relatives and rights organisations whose connections are created through publication, amplification, documentation and state response.
+
+And the state response itself may connect people who were not previously close:
+
+* prosecute them under the same offences;
+* place them in the same rights reports;
+* drive them into the same exile cities;
+* make them rely on the same lawyers;
+* cause them to amplify one another’s cases.
+
+Repression can manufacture the dissident network it claims already exists.
+
+---
+
+Ah, yes — a source list linking the blogger and dissident cases, not a social-network map.
+
+Kuwaiti bloggers, journalists and dissidents
+
+1. Amnesty International — “Kuwait: Authorities must end wave of repression against critics”
+    Covers Anwar Hayati, Mohammed al-Bargash, Abdullah Fairouz, Fuhaid al-Ajami, Mesaed al-Quraifah, early 2024 denaturalisation and post-dissolution prosecutions.
+    https://www.amnesty.org/en/latest/news/2024/06/kuwait-authorities-must-end-wave-of-repression-against-critics/
+2. Middle East Eye — investigation into the Arab Interior Ministers Council warrant system
+    Covers Salman al-Khalidi’s UK exile, Kuwaiti Refugees Association activity, pardon and renewed prosecution, Iraq arrest, AIMC warrant, border handover and comparison with other regional extraditions.
+3. Gulf Centre for Human Rights — Salman al-Khalidi extradited from Iraq to Kuwait
+    Covers asylum in Britain, citizenship withdrawal, political convictions, Iraqi arrest and return to Kuwait.
+    https://www.gc4hr.org/blogger-salman-al-khalidi-extradited-from-iraq-to-kuwait/
+4. Asharq Al-Awsat — “Iraq Clarifies Handover of Kuwaiti Dissident to Kuwait”
+    Gives Iraq’s official account: Kuwaiti warrant, AIMC Red Notice, Iraqi Interpol involvement, British travel document and border transfer.
+5. The Guardian — “Interpol arrest warrant allegedly targeting Kuwaiti princess and partner ‘on political grounds’”
+    Covers Sheikha Moneera Fahad al-Sabah and Mesaed al-Mesaileem, Bosnia asylum proceedings, political-expression convictions, alleged threats and disputed weapons allegations.
+    https://www.theguardian.com/global-development/2022/mar/03/interpol-arrest-warrant-allegedly-targeting-kuwaiti-princess-and-partner-on-political-grounds
+6. MENA Rights Group — Mesaed al-Mesaileem case file
+    Covers the Red Notice proceedings, political sentences and later challenge before Interpol’s Commission for the Control of Files.
+    https://menarights.org/en/case/mesaed-al-musaileem
+7. Gulf Centre for Human Rights — Fawaz al-Kathiri case material
+    Covers his exile activity, denaturalisation and pressure affecting relatives.
+    https://www.gc4hr.org/defenders/fawaz-al-kathiri/
+8. Gulf Centre for Human Rights — “Father of political dissident Fawaz Al-Kathiri arrested”
+    Covers Nayef Rakhees Dhahi al-Fadhli’s arrest, home and phone searches, disputed firearm allegation, removed CCTV recorder and release on bail.
+9. Human Rights Watch — Mona Kareem denied entry to Kuwait
+    Covers the US-based Bidun activist, interrogation about her political views and inability to reunite with stateless relatives.
+    https://www.amnesty.org/en/latest/news/2023/01/kuwait-bidun-activist-blocked-from-entering-country-to-visit-family/
+10. PEN America — Mansour al-Muhareb writer-at-risk profile
+    Covers the UK-based Kuwaiti blogger’s in-absentia sentence following criticism of parliamentary suspension.
+    https://pen.org/writer-at-risk/mansour-al-muhareb/
+11. The Guardian — Ahmed Shihab-Eldin detention in Kuwait
+    Covers the Kuwaiti-American journalist’s arrest during a visit, reporting on friendly fire and infrastructure damage, and new military-security speech restrictions.
+12. Committee to Protect Journalists — Ahmed Shihab-Eldin case updates
+    Covers his prosecution, release and the precise outcome of the charges.
+    https://cpj.org/
+13. The Jerusalem Post — interview with Jasem Aljuraid
+    Covers his Canadian exile, dismissal from Al-Qabas, anti-normalisation conviction, threats, pro-Israel position, anti-Brotherhood criticism and separation from his mother.
+14. World Israel News — Jasem Aljuraid interview summary
+    Repeats and amplifies his claim that the Iran war was changing Kuwaiti attitudes toward Israel. Useful principally as evidence of the pro-Israel media narrative around him.
+15. UN Working Group on Arbitrary Detention — Opinion No. 74/2022 concerning Samih Maurice Twadros Bowles
+    Authoritative source for his earlier detention history in Kuwait.
+    https://digitallibrary.un.org/record/4016012
+
+Media and publication links
+
+16. TfTeeeSH / تفتيش
+    The outlet that published Abdullah Fairouz’s interview alleging Interior Ministry cooperation with an Israeli company; editor Fuhaid al-Ajami was prosecuted in the same case.
+17. Kuwaiti Refugees Association / جمعية اللاجئين الكويتيين
+    Exile advocacy platform associated with Salman al-Khalidi and other overseas Kuwaiti critics. Its X account preserves protest footage and case amplification.
+18. Al-Qabas / القبس
+    Jasem Aljuraid’s former newspaper. Its removal of his work and termination belong in the digital-archive and professional-reprisal sections.
+
+Constitutional closure and former parliamentarians
+
+19. ADHRB — “Kuwait’s Crackdown on Democracy: Former MPs Sentenced for Dissent”
+    Covers the five former MPs and two former candidates whose sentences were upheld in April 2025, as well as Mohammed al-Bargash and migrant-worker repression.
+20. Amnesty International — June 2024 crackdown statement
+    Also covers the first wave of post-suspension prosecutions, including Mesaed al-Quraifah and four other politicians.
+21. Carnegie Endowment — analysis of Kuwait’s parliamentary suspension
+    Useful for the Emir’s security background, ruling-family interests, Interior Minister Fahad al-Yousef, nationality policy and who benefited from closure.
+22. AP / The Independent — “In long-awaited move, Kuwait’s emir pardons dissidents”
+    Covers the 2021 Nawaf-era amnesty, Musallam al-Barrack and other opposition figures returning from Turkish exile.
+
+Regional return and complicity
+
+23. Human Rights Watch — “Kuwait: 8 Egyptian Dissidents Unlawfully Returned”
+    Covers the 2019 return of eight Egyptian men, denial of lawyers and family access, foreseeable torture risk and Kuwaiti–Egyptian security coordination.
+    https://www.hrw.org/news/2019/07/18/kuwait-8-egyptian-dissidents-unlawfully-returned
+24. Middle East Eye — AIMC extradition investigation
+    Links the Kuwait–Iraq return of Salman al-Khalidi to comparable Egyptian, Emirati and Saudi cases and explains the recurring confusion between AIMC warrants and Interpol notices.
+25. Human Rights Watch, Amnesty, MENA Rights Group and UN special-procedures correspondence
+    These provide the strongest cross-case documentation layer linking separate bloggers and exiles without implying they belonged to one organisation.
+
+The most useful shared source spine is therefore:
+
+Amnesty → GCHR → MENA Rights Group → Human Rights Watch → Middle East Eye → UN mechanisms → host-country press and legal reporting.
+
+Those sources repeatedly connect otherwise separate Kuwaiti bloggers through the same charges, ministries, nationality machinery and regional return systems.
