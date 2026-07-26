@@ -1,3 +1,58 @@
+v7:  
+
+Yes. That fits the theory of change far better than Roman-numbered “acts,” because it makes the structure visibly cyclical rather than pretending the story ends after Act IV.
+
+I would use the lunar phases like this:
+
+🌑_AMĀVASYĀ — THE SYSTEM BECOMES INTOLERABLE
+Private harm, institutional failure and pressure accumulate before they become
+fully visible as a shared political grievance.
+🌒_ŚUKLA_PAKṢA — THE PUBLIC COMES OUTSIDE
+The grievance waxes: humour, symbols, songs, care and organisation increase
+participation and collective visibility.
+🌕_PŪRṆIMĀ — THE SYSTEM IS FULLY EXPOSED
+At maximum public visibility, the movement encounters the examination machine,
+caste, surveillance, media power, procurement and the state’s response.
+🌘_KṚṢṆA_PAKṢA — IS THE NEW SYSTEM TOLERABLE?
+Attention and mobilisation may recede after concession, but the public evaluates
+repair, coercion, reform and recurrence. If the settlement remains intolerable,
+the cycle begins again.
+
+So the top-level skeleton becomes:
+
+🪳🕶️_Mera_Naam_Cockroach_Hai/
+├── README.md
+├── 🪳_The_Cockroach_At_A_Glance.md
+│
+├── 🌑_AMĀVASYĀ_The_System_Becomes_Intolerable/
+├── 🌒_ŚUKLA_PAKṢA_The_Public_Comes_Outside/
+├── 🌕_PŪRṆIMĀ_The_System_Is_Fully_Exposed/
+├── 🌘_KṚṢṆA_PAKṢA_Is_The_New_System_Tolerable/
+│
+├── 🗞️_For_Readers_And_Newsrooms/
+├── 🧭_Reusable_Findings/
+└── 🗄️_Sources_And_Archive/
+
+The causal cycle reads cleanly:
+
+🌑 concealed or privately borne harm
+        ↓
+🌒 growing recognition and mobilisation
+        ↓
+🌕 maximum visibility, confrontation and response
+        ↓
+🌘 concession, dispersal, interpretation and monitoring
+        ↓
+Has the intolerable condition actually changed?
+        ↓
+🌑 a new cycle, where necessary
+
+The phases also preserve the cultural distinction between receding visibility and political defeat. Kṛṣṇa Pakṣa does not mean that nothing remains. It is the period in which the movement’s visible fullness reduces, gains are tested, implementation is watched and the conditions for another cycle may form.
+
+I would probably avoid calling the folders simply “Act I–IV” at all. The lunar names can carry the structure, with an English explanatory subtitle for accessibility. Technically, this is best described as an Indic lunisolar or tithi-based framing rather than implying that every Indian calendar tradition begins or organises the month identically.
+
+---
+
 Intolerable condition
         ↓
 Private harm becomes shared grievance
