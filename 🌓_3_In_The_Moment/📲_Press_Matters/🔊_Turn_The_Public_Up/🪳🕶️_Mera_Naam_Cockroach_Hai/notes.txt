@@ -1,3 +1,392 @@
+v5, still chopping:  
+
+Yes. In fact, the four-act structure gets stronger if each act answers a theory-of-change question.
+
+The cleanest version is:
+
+What condition produced the grievance?
+What converted grievance into collective capacity?
+What structures shaped, constrained or redirected that capacity?
+What changed, what did not, and what would be required for durable change?
+
+That gives us a narrative theory of change rather than a policy logframe bolted onto the end.
+
+Core theory of change
+
+Structural pressure
+        ↓
+Shared grievance becomes publicly legible
+        ↓
+Humour lowers participation costs
+        ↓
+A portable symbol creates collective identity
+        ↓
+Organisation turns attention into capacity
+        ↓
+Public visibility changes the political cost calculation
+        ↓
+Government concedes what is cheapest to concede
+        ↓
+Durable justice depends on whether pressure reaches
+money, coercive power and institutional authority
+
+The key distinction is between:
+
+* attention
+* participation
+* capacity
+* pressure
+* concession
+* structural change
+
+Virality alone does not produce reform.
+
+The movement matters because it appears to have moved through several of those stages.
+
+ACT I — The conditions for mobilisation
+
+Theory-of-change question
+
+Why did this grievance have the potential to become collective rather than remain a series of private disappointments?
+
+This act should establish the preconditions.
+
+ACT_I_🎓_The_Conditions_For_Mobilisation/
+├── 01_🛰️_What_Happened.md
+├── 02_🚪_The_Exam_Allocates_A_Future.md
+├── 03_📊_Rank_Turns_Error_Into_Displacement.md
+├── 04_🧨_A_Paper_Leak_Is_A_Legitimacy_Crisis.md
+├── 05_⚖️_The_System_Can_Fail_But_The_Student_Cannot.md
+├── 06_🧑_The_Human_Cost_Of_The_Allocation_System.md
+├── 07_🕯️_The_Pressure_Can_End_In_More_Than_One_Way.md
+├── 08_📊_Merit_Is_A_Social_Claim.md
+└── 09_📋_Why_These_Demands_Emerged.md
+
+The causal claim is:
+
+scarce futures
++ claims of neutral merit
++ institutional failure
++ unequal preparation
++ visible human harm
+= a grievance capable of crossing individual boundaries
+
+This act should show why students could recognise one another’s experience as part of the same problem.
+
+The exam failure becomes politically powerful when it produces three recognitions:
+
+1. This did not happen only to me.
+2. The institution is not applying to itself the discipline it applies to us.
+3. The harm is not accidental inconvenience; it redistributes futures.
+
+That gives us the first mechanism:
+
+Private injury becomes political grievance when people can name the common system producing it.
+
+ACT II — The mechanisms of mobilisation
+
+Theory-of-change question
+
+How did a shared grievance become participation, organisation and public power?
+
+This is the actual conversion stage.
+
+ACT_II_🪳_The_Mechanisms_Of_Mobilisation/
+├── 01_🪳_Why_The_Cockroach_Worked.md
+├── 02_📦_Political_Compression.md
+├── 03_🧰_A_Distributed_Reproduction_Kit.md
+├── 04_🕳️_The_Hidden_Transcript_Found_A_Mascot.md
+├── 05_🌱_The_Spectacle_Had_A_Root_System.md
+├── 06_🎭_From_Plausible_To_Collective_Deniability.md
+├── 07_🚪_The_Movement_As_A_Permission_Structure.md
+├── 08_🛠️_The_Meme_Had_A_Back_End.md
+├── 09_🩹_Mutual_Aid_Is_Operational_Capacity.md
+├── 10_🎶_The_Hidden_Transcript_Acquired_A_Soundtrack.md
+├── 11_📺_When_The_Public_Broke_The_Broadcast.md
+└── 12_📉_The_Loss_Of_Narrative_Inevitability.md
+
+The mechanism chain is:
+
+recognition
+→ humour
+→ lowered fear
+→ easy participation
+→ shared identity
+→ distributed reproduction
+→ logistics and care
+→ visible scale
+→ public permission
+→ narrative breach
+
+Each part does different work.
+
+Humour
+
+Humour lowers the emotional and social cost of first participation.
+
+A person does not initially have to sign a manifesto. They can:
+
+* share a joke;
+* draw the mascot;
+* wear sunglasses;
+* repeat a phrase;
+* join a song;
+* repost an image.
+
+The symbol
+
+The cockroach compresses a complicated claim:
+
+We are the people treated as disposable by a system that depends on us.
+
+That creates recognition faster than a long policy explanation.
+
+Distributed reproduction
+
+A symbol that can be redrawn, remixed, performed and translated cannot easily be contained by removing one account or leader.
+
+Mutual aid
+
+Care and logistics convert symbolic affinity into sustained participation.
+
+Without:
+
+* food;
+* water;
+* medical support;
+* legal information;
+* transport;
+* communication;
+* risk management;
+
+the meme remains attention rather than movement capacity.
+
+Permission
+
+Visible participation reduces perceived isolation.
+
+The movement tells people:
+
+You are not the only one who thinks this.
+You will not necessarily be standing alone.
+There is now a recognised form in which this can be said.
+
+The central theory-of-change finding for Act II is:
+
+Humour did not cause political change by itself. It reduced the cost of entry into a movement whose organisational infrastructure could convert participation into pressure.
+
+ACT III — The conditions shaping change
+
+Theory-of-change question
+
+What determined whether public pressure could reach the institutions responsible for the harm?
+
+This act should not just describe “the system.” It should identify the forces that amplify, block, absorb or distort change.
+
+ACT_III_🏛️_The_Conditions_Shaping_Change/
+├── 01_🏢_Centralised_Authority_Fragmented_Responsibility.md
+├── 02_🕳️_The_Hollow_Centre.md
+├── 03_🔗_Every_Handoff_Is_A_Point_Of_Failure.md
+├── 04_⏰_Strict_With_Students_Loose_With_The_Supply_Chain.md
+├── 05_🪜_The_Public_Is_Not_Flat.md
+├── 06_🧱_Caste_Travels_Through_The_Platform.md
+├── 07_👁️_The_State_Can_See_The_Student.md
+├── 08_🧊_The_Chilling_Effect_Raises_The_Cost_Of_Entry.md
+├── 09_📰_The_Shrinking_Mainstream.md
+├── 10_📡_Centralisation_By_Ecosystem.md
+├── 11_🌐_Legitimized_Exclusion_Zones.md
+├── 12_🤝_From_Regulation_To_Collusion_And_Co-optation.md
+├── 13_💰_Procurement_Creates_Capability.md
+├── 14_🇮🇱_Procurement_Creates_Dependency.md
+└── 15_🌍_The_Technique_Travels_Better_Than_The_Ideology.md
+
+This act can be organised around enablers and barriers.
+
+Enablers of public change
+
+* a widely shared material grievance;
+* existing digital resistance practices;
+* regional and linguistic circulation;
+* mutual aid;
+* independent journalists;
+* courts and legal advocates;
+* diaspora attention;
+* visible public sympathy;
+* a government still sensitive to reputational cost.
+
+Barriers to public change
+
+* surveillance;
+* future blacklisting fears;
+* platform takedowns;
+* internet restrictions;
+* media narrowing;
+* caste and class inequalities;
+* fragmented accountability;
+* outsourcing;
+* procurement opacity;
+* ideological delegitimation;
+* nationalist security framing.
+
+Absorbers of public pressure
+
+This is especially important.
+
+Institutions do not only suppress pressure. They can absorb it without changing much.
+
+Examples include:
+
+* replacing one minister;
+* announcing an inquiry;
+* blaming contractors;
+* promising technological fixes;
+* creating a new portal;
+* compensating only the clearest cases;
+* prosecuting a few low-level actors;
+* rebranding an existing programme.
+
+That suggests a node:
+
+🧽_How_Institutions_Absorb_Pressure_Without_Changing/
+
+The central claim of Act III is:
+
+Movements do not encounter one opponent. They encounter a system capable of repressing, redirecting, delaying and symbolically satisfying demands while preserving its underlying distribution of power.
+
+ACT IV — The change achieved and the change still required
+
+Theory-of-change question
+
+What changed, through which mechanism, and what would have to happen for the outcome to become durable?
+
+ACT_IV_🧭_The_Change_Achieved_And_The_Change_Still_Required/
+├── 01_🎭_The_Government_Gave_Up_The_Headline.md
+├── 02_👤_A_Resignation_Is_Not_A_System.md
+├── 03_💰_Compensation_Redistributes_The_Cost.md
+├── 04_⚖️_Dropping_Cases_Withdraws_Coercion.md
+├── 05_🏛️_Reform_Redistributes_Authority.md
+├── 06_🚪_The_Minister_Left_The_Machinery_Stayed.md
+├── 07_📊_Outputs_Outcomes_And_Structural_Change.md
+├── 08_🔁_What_Would_Make_The_Change_Durable.md
+├── 09_🌏_How_The_Lesson_Travels_Regionally.md
+├── 10_🪞_The_Neighbouring_Press_As_A_Democratic_Check.md
+├── 11_🌐_What_Other_Democracies_Should_Recognise.md
+└── 12_🧷_The_Theory_Of_Change.md
+
+This act should distinguish levels of change.
+
+Change ladder
+
+1. Outputs
+
+Things the movement directly produces:
+
+* protests;
+* memes;
+* songs;
+* evidence;
+* press attention;
+* shared demands;
+* mutual-aid systems;
+* political participation.
+
+2. Immediate outcomes
+
+Changes in behaviour or political conditions:
+
+* issue becomes nationally visible;
+* government loses narrative control;
+* officials respond;
+* public mockery becomes normal;
+* journalists gain permission to report more directly;
+* repression becomes more costly;
+* one demand is conceded.
+
+3. Intermediate outcomes
+
+Changes in institutional behaviour:
+
+* cases withdrawn;
+* compensation paid;
+* examination procedures changed;
+* contractor accountability imposed;
+* independent review established;
+* procurement transparency increased;
+* student representation introduced;
+* safeguards against retaliation created.
+
+4. Structural outcomes
+
+Changes in the underlying distribution of power:
+
+* examination bodies become independently accountable;
+* candidates gain enforceable remedies;
+* institutional failure carries automatic consequences;
+* vendor chains become transparent;
+* surveillance and data use are constrained;
+* public-order powers receive judicial oversight;
+* caste and class inequalities in access are addressed;
+* the state cannot simply move responsibility through contractors.
+
+That distinction prevents us from treating every visible win as equivalent.
+
+The demands as a theory-of-change test
+
+The three-demand structure is particularly useful because each demand touches a different layer of power.
+
+Resignation
+→ symbolic and political accountability
+Dropping cases
+→ reduction of coercive power
+Compensation
+→ redistribution of material cost
+Institutional reform
+→ redistribution of future authority
+
+So the movement’s theory of change can be assessed by asking:
+
+Did it change the face of authority?
+Did it reduce the state’s capacity to punish?
+Did it force the institution to bear the cost of its failure?
+Did it alter how future decisions will be made?
+
+That gives us a clean evaluation matrix:
+
+Level	Question	Evidence of change
+Narrative	Did the public meaning of the crisis change?	Government forced to respond; ridicule and grievance become widely legible
+Political	Did an office-holder bear responsibility?	Resignation or removal
+Coercive	Did protesters become safer?	Cases dropped; retaliation protections
+Material	Did the institution bear the harm it caused?	Compensation and repair
+Administrative	Did procedures change?	New safeguards, redundancy, oversight
+Structural	Did power move?	Independent accountability and enforceable rights
+
+The whole case in one theory-of-change sentence
+
+When a widely shared institutional failure is translated into a culturally portable symbol, supported by distributed organisation and mutual aid, it can lower the cost of participation, create visible public alignment and raise the reputational cost of inaction; however, durable justice occurs only when that pressure moves beyond symbolic concession to reduce coercion, redistribute material cost and alter institutional authority.
+
+And the more Polaris version:
+
+The cockroach made the grievance visible. The organisers made visibility durable. The public made dismissal expensive. The government conceded the cheapest demand first. The remaining question is whether the movement can force change into the machinery.
+
+Revised four-act titles
+
+I would use these:
+
+ACT I — THE CONDITIONS FOR MOBILISATION
+Why the grievance became shared, urgent and politically legible.
+ACT II — THE MECHANISMS OF MOBILISATION
+How humour, identity, infrastructure and care converted grievance into public power.
+ACT III — THE CONDITIONS SHAPING CHANGE
+How surveillance, media, caste, administration and procurement constrained,
+redirected or amplified that power.
+ACT IV — THE CHANGE ACHIEVED AND THE CHANGE STILL REQUIRED
+What the movement produced, what the government conceded, and what durable
+justice would require.
+
+This keeps the human narrative, but every act now does causal work.
+
+---
+
 v4, minor tweaks to start sorting:  
 
 Yes. This is much better for readers because it gives them a narrative argument, not a database dump.
