@@ -1,0 +1,12 @@
+🧭_Reusable_Findings/
+            │   ├── README.md
+            │   ├── 🪳_the_meme_became_infrastructure.md
+            │   ├── 🌱_the_spectacle_had_a_root_system.md
+            │   ├── 🚪_the_movement_became_a_permission_structure.md
+            │   ├── 🪜_the_public_is_not_flat.md
+            │   ├── 👁️_digital_repression_works_through_anticipation.md
+            │   ├── 🧽_partial_concessions_can_absorb_pressure.md
+            │   ├── 💰_procurement_is_foreign_policy_with_invoices.md
+            │   ├── 🌐_political_borders_are_not_information_borders.md
+            │   ├── 🔄_the_tolerance_test.md
+            │   └── 🧷_compact_findings.md
