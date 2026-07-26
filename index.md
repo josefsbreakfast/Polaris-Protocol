@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-26 12:49:58 UTC_
+_Generated on 2026-07-26 12:52:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6123,6 +6123,7 @@ _Generated on 2026-07-26 12:49:58 UTC_
             - [`🇺🇿_uzbekistan.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🪆_Russia_And_Post_Soviet_Space/🇺🇿_uzbekistan.md)
             - [`🔗_extradition_rendition_and_security_cooperation.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/🪆_Russia_And_Post_Soviet_Space/🔗_extradition_rendition_and_security_cooperation.md)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/README.md)
+          - [`llm_ready_drafting_ruleset.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/llm_ready_drafting_ruleset.md)
           - [`notes.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/notes.md)
         - [**🌡️_When_The_Pot_Gets_Too_Small/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/README.md)
