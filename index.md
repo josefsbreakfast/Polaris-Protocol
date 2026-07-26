@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-26 13:05:24 UTC_
+_Generated on 2026-07-26 13:06:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5686,6 +5686,8 @@ _Generated on 2026-07-26 13:05:24 UTC_
       - [`🛰️_info_brokers_sans_states.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/🛰️_info_brokers_sans_states.md)
       - [`🧱_gov_email_is_not_a_bunker.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/🧱_gov_email_is_not_a_bunker.md)
     - [**🔊_Turn_The_Public_Up/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/)
+      - [**🪳🕶️_Mera_Naam_Cockroach_Hai/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/)
+        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/notes.txt)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/README.md)
     - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/README.md)
   - [**🛰️_OSINT_Field_Operations/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/)
