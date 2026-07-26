@@ -1,3 +1,301 @@
+v2, still in generative phase:  
+
+Below is the raw, de-duplicated inventory of every folder or node name proposed in this chat so far. This is not yet a recommended structure; several are obvious alternatives for the same eventual node.
+
+🌓_3_In_The_Moment/
+└── 📲_Press_Matters/
+    └── 🔊_Turn_The_Public_Up/
+        ├── README.md
+        │
+        ├── 🪳🕶️_Mera_Naam_Cockroach_Hai/
+        │   └── README.md
+        │
+        ├── 🧭_Reusable_Methods/
+        └── 🗄️_Sources_And_Archive/
+
+General case and evidence nodes
+
+🛰️_Orientation.md
+🗓️_Chronology.md
+👥_Actors_And_Institutions.md
+📰_Reporting_And_Publication_Pathway.md
+⚖️_Legal_And_Administrative_Pressure.md
+📣_Public_Circulation.md
+🪜_Evidence_And_Confidence.md
+🧪_Rival_Explanations.md
+🧷_Compact_Finding.md
+📚_Sources_And_Reading.md
+🧾_Evidence_Log.md
+
+Western newsroom and author-position notes
+
+🗞️_A_Note_To_Western_Newsrooms.md
+🪟_Where_We_Are_Looking_From.md
+🧭_Before_You_Explain_It_To_The_West.md
+☎️_Talk_To_People_First.md
+🪑_Pull_Up_A_Chair_First.md
+🫖_You_Need_Time_To_Shoot_The_Sh.md
+📲_The_WhatsApp_Test.md
+🧓_Talk_To_The_Person_Trying_To_Reach_The_Pharmacy.md
+🌍_Diaspora_Knowledge_Is_Valuable_And_Situated.md
+💷_Cultural_Explanation_Is_Work.md
+🎓_The_Good_Immigrant_Is_Not_A_Neutral_Source_Position.md
+🗣️_The_Community_View_Does_Not_Exist.md
+🧪_More_Voices_Do_Not_Automatically_Produce_The_Truth.md
+🧭_Questions_For_Editors.md
+🪶_Authors_Note.md
+
+Language, slogans and translation
+
+🗣️_Preserve_The_Language.md
+🗣️_Preserving_Language_Slogans_And_Images.md
+🔤_Original_Script_Transliteration_Translation.md
+🎭_Why_The_Literal_Translation_Does_Not_Work.md
+🎬_Film_Music_And_Cultural_References.md
+🧾_Credit_The_Person_Who_Explained_The_Joke.md
+
+Meme construction and political imagery
+
+🪳_The_Meme_Is_Part_Of_The_Evidence.md
+🎯_Why_This_Was_So_Memeable.md
+🎯_How_A_Meme_Becomes_A_Political_Weapon.md
+🪳_Why_This_Particular_Meme_Could_Travel.md
+🪳_This_Is_Not_Just_A_Mascot.md
+🕶️_The_Sunglasses_Matter.md
+📦_Political_Compression.md
+🧰_A_Distributed_Reproduction_Kit.md
+🌏_A_Meme_Can_Travel_Without_Preserving_One_Meaning.md
+📷_Images_Are_Evidence_Of_Public_Culture.md
+📰_What_Western_Coverage_Commonly_Misses.md
+🧭_A_Practical_Reporting_Method.md
+🪳_The_Cockroach_Crosses_Platforms.md
+
+Meme as infrastructure and generational skill
+
+🧠_The_Meme_Became_Infrastructure.md
+🛠️_The_Meme_Had_A_Back_End.md
+📡_Network-Native_Political_Communication.md
+📡_Native_Speakers_Of_The_Network.md
+🎛️_What_Young_People_Know_About_Virality.md
+🧠_They_Know_How_The_Internet_Works.md
+🧰_Movement_Infrastructure.md
+🧰_The_Movement_Was_A_Skills_Demonstration.md
+🩹_Mutual_Aid_Is_Operational_Capacity.md
+🩹_First_Aid_And_Information_Architecture.md
+🧑‍💻_The_Future_Workforce_Was_In_The_Street.md
+💼_Please_Do_Not_Blacklist_Your_Future_CTO.md
+
+Suppression, containment and concession
+
+🧯_When_Containment_Becomes_Content.md
+🪳_Every_Crackdown_Adds_Another_Leg.md
+🧯_Suppression_Can_Become_Additional_Content.md
+🧯_The_Containment_Paradox.md
+🎭_Narrative_Management_And_Narrative_Captivity.md
+🧠_Game_Recognising_Game.md
+🚪_Strategic_Concession_Is_Not_Surrender.md
+🧯_When_Not_Doubling_Down_Is_Political_Intelligence.md
+
+India’s global internet position
+
+🕸️_The_Internet_Has_Indian_Colleagues.md
+🌐_The_Internet_Already_Knows_India.md
+🛜_India_Is_Not_A_Local_Network.md
+🌐_The_Cockroach_Has_International_Roaming.md
+☎️_Your_Technical_Support_Has_Political_Opinions.md
+📡_A_Domestic_Story_With_Global_Edges.md
+
+South Asia as an information region
+
+🌏_South_Asia_Is_An_Information_Region.md
+🧭_Borders_Do_Not_Speak_The_Language.md
+🗺️_The_State_Border_Is_Not_The_Audience_Border.md
+🌐_Overlapping_Publics.md
+
+Regional and international government learning
+
+🌍_The_Region_Is_Watching.md
+🧨_Bangladesh_Changed_The_Risk_Calculation.md
+🇵🇰_How_Pakistan_Might_Read_This.md
+🇧🇩_How_Bangladesh_Might_Read_This.md
+🇨🇳_How_China_Might_Read_This.md
+🇷🇺_How_Russia_Might_Read_This.md
+🌍_How_Western_Governments_Might_Read_This.md
+
+Kashmir
+
+🏔️_Kashmir_And_The_Reputational_Cost_Curve.md
+🛰️_Kashmir_And_International_Virality.md
+
+Women, gender and transnational recognition
+
+🚨_Women_Are_The_Smoke_Alarm.md
+🌐_Women_As_A_Transnational_Recognition_Public.md
+🔥_When_The_Backlash_Becomes_Evidence.md
+
+Colonial information systems and responsibility
+
+🧱_Colonial_Information_Architecture.md
+🧭_Inheritance_Does_Not_Remove_Agency.md
+🧰_The_Available_Grammar_Of_Power.md
+🪞_Mimicking_The_Coloniser.md
+🧭_Keep_The_Anger_Make_The_Attribution_Exact.md
+
+Partition, Pakistan and Muslim belonging
+
+🕳️_Partition_Remains_An_Information_Wound.md
+🇵🇰_The_External_Muslim_Other.md
+🪞_The_Rival_State_As_A_Domestic_Shortcut.md
+🕌_Muslimness_And_Conditional_Belonging.md
+
+Exam-system orientation
+
+🎓_This_Was_Not_Just_A_Bad_Exam/
+├── 📊_Marks_Are_Not_The_Same_As_Rank.md
+├── 🚪_The_Exam_Allocates_A_Future.md
+├── 🗾_The_Japanese_Entrance_Exam_Comparison.md
+├── 🇬🇧_The_UCAT_Thought_Experiment.md
+├── 📉_When_One_Cheat_Displaces_Another_Student.md
+└── 🧨_A_Paper_Leak_Is_A_Legitimacy_Crisis.md
+
+The locked gate and two-minute incident
+
+⏰_Two_Minutes_And_An_Entire_Future/
+├── 🚪_The_Gate_Closed.md
+├── 🛞_The_Flat_Tyre.md
+├── 📊_Why_Non-Attendance_Is_Not_Neutral.md
+├── ⚖️_The_System_Can_Fail_But_The_Student_Cannot.md
+├── 🧾_Rules_Discretion_And_Exception_Pathways.md
+└── 👨‍👧_Why_Her_Father_Was_Begging.md
+
+Students as people rather than assessment units
+
+🎓_Students_Have_Lives/
+├── 🧾_Extenuating_Circumstances_Are_A_Historical_Achievement.md
+├── ⚙️_Procedural_Compassion_Is_Not_Structural_Compassion.md
+├── 📊_The_University_Is_Optimising_For_Something.md
+├── 🧑_Young_Adults_Not_Assessment_Units.md
+├── 🏫_When_Charitable_Status_Meets_The_Education_Market.md
+└── 🚪_A_Humane_System_Needs_More_Than_One_Door.md
+
+Academic pressure and pharmaceutical performance
+
+💊_When_Performance_Becomes_A_Clinical_Problem/
+├── 🧠_ADHD_Is_Real_And_The_Pressure_Is_Also_Real.md
+├── 📈_Performance_Pharmacology.md
+├── 🧪_The_Non-Medical_Stimulant_Myth.md
+├── 🏫_The_Institution_Sends_The_Child_To_The_Doctor.md
+├── 🧾_Diagnosis_As_A_Ticket_To_Accommodation.md
+├── 🧬_Where_Biohacking_Meets_Examination_Culture.md
+├── 🧨_The_Real_Grievance_Inside_The_Conspiracy.md
+└── 👨‍👩‍👧_Parents_Are_Responding_To_The_Allocation_System.md
+
+Historical performance pharmacology
+
+💊_The_Body_Has_Always_Been_Asked_To_Keep_Up/
+├── 🩺_Cocaine_And_The_Modern_Surgeon.md
+├── ✍️_The_Chemistry_Of_Creative_Output.md
+├── ⚙️_Performance_Pharmacology_Is_Not_New.md
+├── 📊_What_The_Institution_Can_Count.md
+├── 🦸_The_Myth_Of_The_Tireless_Professional.md
+└── 🛑_When_Exhaustion_Is_Treated_As_A_Defect.md
+
+Western recognition and generational politics
+
+🎓_Recognising_The_System_From_The_West/
+├── 👴_Every_Generation_Thinks_The_Young_Have_It_Easy.md
+├── 🌹_Rose-Tinted_Struggle.md
+├── 📈_More_Access_More_Competition.md
+├── 🪜_Democratisation_Without_Abundance.md
+├── ⏱️_A_Future_Should_Not_Ride_On_Two_Minutes.md
+├── 🧰_Redundancy_Is_Not_Lowered_Standards.md
+├── 🧠_Talent_Is_A_Public_Resource.md
+├── 🏭_The_Best_Supported_Are_Not_Always_The_Best.md
+├── 💷_Hierarchy_Can_Be_Profitable_And_Still_Be_Wasteful.md
+└── 🗳️_Capable_Citizens_Are_Harder_To_Manage.md
+
+The three demands and partial concession
+
+🎭_The_Government_Gave_Up_The_Headline/
+├── 👤_A_Resignation_Is_Not_A_System.md
+├── 💰_Compensation_Redistributes_The_Cost.md
+├── ⚖️_Dropping_Cases_Withdraws_Coercion.md
+├── 🏛️_Reform_Redistributes_Authority.md
+├── 📸_The_Most_Visible_Concession.md
+└── 🧾_One_Demand_Won_Two_Forms_Of_Justice_Pending.md
+
+Alternative headline:
+
+🚪_The_Minister_Left_The_Machinery_Stayed.md
+
+3 Idiots as a Western cultural bridge
+
+🎬_If_You_Have_Seen_Three_Idiots/
+├── ⚠️_Spoiler_And_Content_Warning.md
+├── 📊_Rank_Is_Not_Just_A_Number.md
+├── 🏫_The_Institution_Refuses_To_Bend.md
+├── 🧠_When_Failure_Becomes_Personal_Worth.md
+├── 🕯️_The_Suicide_Story.md
+├── 💰_Why_Compensation_Is_A_Justice_Demand.md
+└── 🌉_A_Recognition_Bridge_Not_A_Documentary.md
+
+Suicide, survival and gendered risk
+
+🕯️_The_Pressure_Can_End_In_More_Than_One_Way/
+├── ⚠️_Content_And_Plot_Warning.md
+├── 🎬_Joy_And_Raju_Are_Different_Outcomes.md
+├── 🏥_Survival_Is_Not_The_End_Of_The_Harm.md
+├── 👨_Why_Young_Men_Are_At_High_Risk_Of_Fatality.md
+├── 🧑‍🤝‍🧑_Gendered_Risk_Is_Not_Exclusive_Risk.md
+├── 👨‍👩‍👦_When_One_Student_Carries_The_Family_Future.md
+├── 💰_Compensation_Must_Include_Living_Harm.md
+└── 🏫_Prevention_Is_Also_An_Institutional_Duty.md
+
+NTA, centralisation and outsourcing
+
+🏛️_The_Centre_Set_The_Rules_The_Vendors_Ran_The_System/
+├── 🧭_Why_The_NTA_Was_Created.md
+├── 🏢_From_Multiple_Bodies_To_One_National_Gateway.md
+├── 🕳️_The_Hollow_Centre.md
+├── 📦_Centralised_Authority_Outsourced_Delivery.md
+├── 🔗_Every_Handoff_Is_A_Point_Of_Failure.md
+├── 🎯_One_National_Gateway_One_National_Crisis.md
+├── ⏰_Strict_With_Students_Loose_With_The_Supply_Chain.md
+├── 🧑‍💻_Can_Technology_Repair_A_Governance_Problem.md
+├── 🧾_Procurement_Is_Not_Institutional_Capability.md
+└── ⚖️_Who_Owns_The_Failure.md
+
+Alternative headline:
+
+📦_The_Power_Was_Centralised_The_Responsibility_Was_Outsourced.md
+
+Education, ideology and access to power
+
+🏫_The_Curriculum_And_The_Gate/
+├── 📚_Who_Gets_To_Describe_The_Nation.md
+├── 🚪_Who_Gets_To_Enter_Its_Institutions.md
+├── 🧱_Centralised_Ideology_Fragmented_Delivery.md
+├── 🪪_Merit_As_A_Government_Claim.md
+├── 🕳️_Corruption_Did_Not_Disappear_It_Moved.md
+├── 🇺🇸_What_Project_2025_Should_Learn_From_India.md
+├── 🧠_Young_People_Can_See_The_Contradiction.md
+└── 🪳_When_The_Students_Stop_Believing_The_System.md
+
+Archive subfolders
+
+🗄️_Sources_And_Archive/
+├── 🖼️_Images_And_Memes/
+├── 🗣️_Slogans_And_Translations/
+├── 🎥_Video_And_Public_Footage/
+├── 📰_Press_Coverage/
+├── ⚖️_Legal_And_Official_Material/
+└── 🧾_Evidence_Log.md
+
+That is the full proposed-name inventory from this chat as it currently stands.
+
+
+---
+
 v1, in brainstorm phase:  
 
 ---
