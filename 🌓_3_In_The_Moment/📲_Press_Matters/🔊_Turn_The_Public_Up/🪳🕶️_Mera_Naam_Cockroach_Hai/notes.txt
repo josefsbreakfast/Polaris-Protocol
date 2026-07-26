@@ -1,3 +1,273 @@
+v4, minor tweaks to start sorting:  
+
+Yes. This is much better for readers because it gives them a narrative argument, not a database dump.
+
+The four acts also solve the main structural problem we were creating: several nodes belong in more than one analytical category, but readers only need to encounter them in the order that makes the case intelligible.
+
+I would now rebuild the folder around these acts and treat most of the earlier headings as internal section nodes.
+
+🪳🕶️_Mera_Naam_Cockroach_Hai/
+├── README.md
+│
+├── ACT_I_🎓_The_Grievance/
+├── ACT_II_🪳_The_Movement/
+├── ACT_III_🏛️_The_System/
+├── ACT_IV_🧭_The_Result_And_The_Lesson/
+│
+└── 🗄️_Sources_And_Archive/
+
+ACT I — The Grievance
+
+What happened, why the examination mattered, and what it did to people.
+
+ACT_I_🎓_The_Grievance/
+├── 01_🛰️_What_Happened.md
+├── 02_📋_The_Three_Demands.md
+├── 03_🚪_The_Exam_Allocates_A_Future.md
+├── 04_📊_Marks_Are_Not_The_Same_As_Rank.md
+├── 05_🧨_A_Paper_Leak_Is_A_Legitimacy_Crisis.md
+├── 06_⏰_Two_Minutes_And_An_Entire_Future.md
+├── 07_⚖️_The_System_Can_Fail_But_The_Student_Cannot.md
+├── 08_🧑_Students_Are_People.md
+├── 09_💊_When_Performance_Becomes_A_Clinical_Problem.md
+├── 10_🕯️_The_Pressure_Can_End_In_More_Than_One_Way.md
+├── 11_🎬_If_You_Have_Seen_Three_Idiots.md
+└── 12_💰_Why_Compensation_Is_A_Justice_Demand.md
+
+This act should move from administrative fact to human consequence.
+
+Its basic sequence is:
+
+exam irregularity
+→ rank distortion
+→ lost opportunity
+→ family pressure
+→ bodily and psychological harm
+→ demand for public repair
+
+The historical performance-pharmacology material probably belongs as a subheading inside 09, rather than as a large standalone branch. It is useful context, but it should not interrupt the movement of the act.
+
+Likewise, Western comparisons such as extenuating circumstances, the UCAT thought experiment and Japanese entrance-exam culture belong here as recognition bridges rather than equal-weight nodes.
+
+ACT II — The Movement
+
+How humour, infrastructure and an existing resistant culture turned grievance into public power.
+
+ACT_II_🪳_The_Movement/
+├── 01_🪳_Why_The_Cockroach_Worked.md
+├── 02_🕶️_The_Sunglasses_Matter.md
+├── 03_📦_Political_Compression.md
+├── 04_🧰_A_Distributed_Reproduction_Kit.md
+├── 05_🧠_The_Meme_Became_Infrastructure.md
+├── 06_🛠️_The_Meme_Had_A_Back_End.md
+├── 07_🩹_Mutual_Aid_Is_Operational_Capacity.md
+├── 08_🧑‍💻_The_Movement_Was_A_Skills_Demonstration.md
+├── 09_🕳️_The_Hidden_Transcript_Found_A_Mascot.md
+├── 10_🌱_The_Spectacle_Had_A_Root_System.md
+├── 11_🎭_From_Plausible_To_Collective_Deniability.md
+├── 12_🎶_The_Hidden_Transcript_Acquired_A_Soundtrack.md
+├── 13_🚪_The_Movement_As_A_Permission_Structure.md
+├── 14_📺_When_The_Public_Broke_The_Broadcast.md
+└── 15_📉_The_Loss_Of_Narrative_Inevitability.md
+
+This act should make the reader progressively realise:
+
+The joke was not decoration.
+The meme was not merely communications.
+The movement was not merely a crowd.
+
+The intellectual rhythm is:
+
+symbol
+→ participation
+→ circulation
+→ logistics
+→ mutual care
+→ collective confidence
+→ public permission
+→ narrative breach
+
+The digital-resistance scholarship fits naturally around nodes 9–13:
+
+* hidden transcripts;
+* infrapolitics;
+* vernacular humour;
+* pseudonymity;
+* disappearing content;
+* intimate circulation;
+* the conversion of quiet resistance into visible mobilisation.
+
+This is also where translation, song, imagery and meme provenance should appear, because readers first encounter them as parts of the movement itself.
+
+ACT III — The System
+
+Media narrowing, surveillance, caste, centralisation, outsourcing and procurement.
+
+This is the largest act, but it needs internal movement rather than becoming a catalogue.
+
+I would arrange it from the system closest to the students outward to the wider political economy.
+
+ACT_III_🏛️_The_System/
+├── 01_🏢_The_Power_Was_Centralised_The_Responsibility_Was_Outsourced.md
+├── 02_🕳️_The_Hollow_Centre.md
+├── 03_🔗_Every_Handoff_Is_A_Point_Of_Failure.md
+├── 04_⏰_Strict_With_Students_Loose_With_The_Supply_Chain.md
+├── 05_🪪_Merit_As_A_Government_Claim.md
+├── 06_📊_Merit_Is_A_Social_Claim.md
+├── 07_🪜_The_Public_Is_Not_Flat.md
+├── 08_🧱_Caste_Travels_Through_The_Platform.md
+├── 09_👁️_The_State_Can_See_The_Student.md
+├── 10_🪖_From_Agnipath_To_CJP.md
+├── 11_📵_Shutdowns_Remove_Coordination_Not_Only_Content.md
+├── 12_📡_Centralisation_By_Ecosystem.md
+├── 13_📰_The_Shrinking_Mainstream.md
+├── 14_🎙️_The_Prime_Minister_As_Principal_Narrator.md
+├── 15_🌐_Legitimized_Exclusion_Zones.md
+├── 16_🤝_From_Regulation_To_Collusion_And_Co-optation.md
+├── 17_💰_Follow_The_Money.md
+├── 18_🇮🇱_The_India-Israel_Defence_Industrial_Stack.md
+├── 19_🍉_The_Occupation_To_Export_Pipeline.md
+└── 20_🌍_The_Technique_Travels_Better_Than_The_Ideology.md
+
+This act has three internal sections.
+
+III.A — The examination machine
+
+01–06
+
+This covers:
+
+* NTA formation;
+* centralisation;
+* outsourcing;
+* procurement and vendor chains;
+* strict individual compliance;
+* merit as institutional claim;
+* unequal preparation and access.
+
+III.B — The unequal and surveilled public
+
+07–11
+
+This covers:
+
+* caste and class;
+* unequal visibility;
+* moderation bias;
+* candidate-to-protester profiling;
+* identification and future consequences;
+* youth protest precedents;
+* shutdowns and chilling effects.
+
+III.C — The information and procurement state
+
+12–20
+
+This covers:
+
+* media ownership and alignment;
+* platform-state relations;
+* executive content control;
+* state–corporate convergence;
+* surveillance procurement;
+* Israel and multinational suppliers;
+* foreign-policy path dependency;
+* democratic exportability.
+
+This is also where the strongest international-law material fits. Irene Khan’s report gives a powerful frame for this act: democratic backsliding, “legitimized exclusion zones,” surveillance’s chilling effect, India’s content-takedown portal, and the convergence of state and corporate power.  
+
+The broad digital-authoritarianism paper can support the macro map, but with its methodological cautions retained.  
+
+The protest-rights paper supports the identification, chilling-effect and youth-protest branches as a case-study index, while its specific “AI” claims need independent verification.  
+
+ACT IV — The Result and the Lesson
+
+What was conceded, what remains unresolved, and why the case matters regionally and internationally.
+
+ACT_IV_🧭_The_Result_And_The_Lesson/
+├── 01_🎭_The_Government_Gave_Up_The_Headline.md
+├── 02_👤_A_Resignation_Is_Not_A_System.md
+├── 03_💰_Compensation_Redistributes_The_Cost.md
+├── 04_⚖️_Dropping_Cases_Withdraws_Coercion.md
+├── 05_🏛️_Reform_Redistributes_Authority.md
+├── 06_🚪_The_Minister_Left_The_Machinery_Stayed.md
+├── 07_🌐_India_Is_Not_A_Local_Network.md
+├── 08_🌏_South_Asia_Is_An_Information_Region.md
+├── 09_🪞_The_Neighbouring_Press_Can_See_It.md
+├── 10_🧨_Bangladesh_Changed_The_Risk_Calculation.md
+├── 11_🏔️_Kashmir_And_International_Virality.md
+├── 12_🌐_Democracies_Learned_To_Do_This_Quietly.md
+├── 13_🇺🇸_What_Project_2025_Should_Learn_From_India.md
+├── 14_🗞️_A_Note_To_Western_Newsrooms.md
+└── 15_🧷_What_This_Case_Teaches.md
+
+The act should begin with a cold assessment of the outcome:
+
+most visible concession won
+material repair unresolved
+coercive consequences unresolved
+institutional redistribution unresolved
+
+Then widen out:
+
+India
+→ South Asia
+→ neighbouring press and publics
+→ democratic-authoritarian policy diffusion
+→ Western recognition
+→ reusable lessons
+
+The final node should not repeat the whole folder. It should give a small number of findings readers can carry elsewhere.
+
+Likely final findings
+
+1. High-stakes examinations allocate futures, not merely scores.
+2. Institutional failure becomes politically explosive when the system demands
+   perfect compliance from individuals but cannot guarantee its own integrity.
+3. Humour can function as movement infrastructure when it is reproducible,
+   culturally legible and supported by real organising capacity.
+4. Visible mobilisation may grow from years of quiet, coded and distributed resistance.
+5. A shared public symbol does not erase inequalities of caste, class, gender,
+   language or exposure to state power.
+6. Digital authoritarianism can accumulate through democratic law, procurement,
+   private platforms and administrative normalisation without requiring open dictatorship.
+7. Government concessions should be measured by what they redistribute:
+   visibility, money, legal risk or durable authority.
+8. Political borders do not contain information systems. Governments learn from
+   one another, but publics and journalists do too.
+9. Procurement creates foreign-policy dependencies that survive the original sale.
+10. A movement can win a headline before it wins justice.
+
+Supporting material
+
+The Western newsroom note should now be placed near the end because readers first need to understand the case before being told how to report it.
+
+The source archive remains outside the four acts:
+
+🗄️_Sources_And_Archive/
+├── 📚_Academic_And_Conceptual/
+├── ⚖️_Official_And_Legal/
+├── 📰_Press_Coverage/
+├── 🖼️_Images_And_Memes/
+├── 🎶_Songs_And_Audio/
+├── 🗣️_Slogans_And_Translations/
+├── 🎥_Video_And_Public_Footage/
+├── 🧾_Procurement_And_Contracts/
+├── 🏢_Companies_And_Joint_Ventures/
+├── 📊_Data_And_Statistics/
+└── 🧾_Evidence_Log.md
+
+This structure gives the reader a clear journey:
+
+First understand the harm.
+Then understand how people organised.
+Then see the larger machinery around them.
+Finally assess what changed and why it matters elsewhere.
+
+That is much more readable than asking the reader to understand the system before they care about the students.
+
+---
+
 v3, still generative, pre-sorting:  
 
 I think it has now resolved into a fairly coherent case-study architecture, rather than one enormous pile of individually interesting notes.
