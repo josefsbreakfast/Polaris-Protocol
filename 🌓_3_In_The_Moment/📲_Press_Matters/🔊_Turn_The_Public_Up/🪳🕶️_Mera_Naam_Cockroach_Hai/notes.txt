@@ -20,6 +20,381 @@ Stabilise, monitor,          Reframe grievance,
 preserve gains              rebuild capacity,
 and defend them             re-enter mobilisation
 
+Yes — that is the more important shape.
+
+You are not describing a linear theory of change that ends at “government response.” You are describing a political feedback loop in which every concession creates a new assessment point:
+
+Has the system become tolerable enough to leave, monitor or defend—or does the unresolved harm require another cycle of mobilisation?
+
+The government’s response is not the end of the process. It changes the conditions under which the public decides what to do next.
+
+The core cycle
+
+Intolerable condition
+        ↓
+Private harm becomes shared grievance
+        ↓
+Grievance becomes publicly legible
+        ↓
+Participation and organisation grow
+        ↓
+Pressure changes the government’s cost calculation
+        ↓
+Repression, refusal, concession or reform
+        ↓
+Public assessment of the new condition
+        ↓
+Is the system now tolerable?
+       ↙                         ↘
+     Yes                         No
+      ↓                           ↓
+Stabilise, monitor,          Reframe grievance,
+preserve gains              rebuild capacity,
+and defend them             re-enter mobilisation
+
+That assessment point is the hinge.
+
+And “tolerable” does not mean perfect. It means that the people affected judge that the new arrangement has crossed some sufficient threshold of:
+
+* safety;
+* fairness;
+* repair;
+* accountability;
+* future reliability;
+* protection against recurrence.
+
+Government concession changes the movement’s problem
+
+Before a concession, the political question may be:
+
+How do we force the government to respond?
+
+After a concession, the question becomes:
+
+Was this response sufficient, or was it designed to stop mobilisation without resolving the underlying problem?
+
+That is a different organising task.
+
+A movement now has to interpret the concession, and different participants may answer differently.
+
+Some will think:
+
+* a meaningful victory has been achieved;
+* continued mobilisation risks losing public sympathy;
+* the government should be given time;
+* the remaining demands are less urgent;
+* the personal cost of staying involved is too high.
+
+Others will think:
+
+* the government surrendered only the cheapest demand;
+* the underlying machinery is unchanged;
+* cases, compensation or reform remain unresolved;
+* stopping now rewards symbolic substitution;
+* demobilisation will make the remaining demands easier to ignore.
+
+So concession can produce both momentum and fragmentation.
+
+The concession is an intervention in the movement
+
+A concession does not merely respond to a movement. It changes the movement’s internal environment.
+
+It can:
+
+* validate the movement’s effectiveness;
+* increase confidence that pressure works;
+* broaden participation;
+* remove the most emotionally powerful symbol of grievance;
+* divide maximalists and pragmatists;
+* give moderate participants permission to leave;
+* create an implementation process that absorbs organisers;
+* reset media attention around government responsiveness;
+* make continued protest appear unreasonable;
+* buy time for public attention to decay.
+
+That means government strategy may be:
+
+Concede enough to alter the public’s judgement
+without conceding enough to alter the system.
+
+The theory of change therefore needs to include a theory of partial concession and managed demobilisation.
+
+The tolerance test
+
+We could make the return point explicit:
+
+🔄_The_Tolerance_Test
+
+At each cycle, ask five questions.
+
+1. Has the immediate harm stopped?
+
+Are examinations functioning? Are students still being displaced? Are protesters still being prosecuted or threatened?
+
+2. Has past harm been repaired?
+
+Has compensation been paid? Have affected candidates received remedies? Have records or cases been corrected?
+
+3. Has responsibility been assigned?
+
+Has anyone beyond a symbolic office-holder been held accountable? Are contractors, officials and decision chains visible?
+
+4. Has recurrence become less likely?
+
+Have procedures, redundancy, oversight and procurement rules materially changed?
+
+5. Can affected people enforce the new arrangement?
+
+Are reforms promises, internal guidelines or legally enforceable protections?
+
+This creates three possible outcomes rather than a simple yes/no.
+
+A. Acceptable settlement
+   Immediate harm reduced, repair credible, recurrence constrained.
+B. Provisional settlement
+   Enough improvement to pause escalation, but implementation requires monitoring.
+C. Intolerable substitution
+   Symbolic concession without sufficient repair, protection or structural change.
+
+The middle category matters. Movements do not have to choose only between permanent protest and total trust.
+
+They can enter a watchful stabilisation phase.
+
+The cycle has several possible routes
+
+Government response
+        ↓
+┌──────────────────────────────────────────┐
+│                                          │
+│  Repression                              │
+│  → raises costs, may reduce or intensify mobilisation
+│                                          │
+│  Refusal                                 │
+│  → confirms grievance, but may exhaust participants
+│                                          │
+│  Symbolic concession                     │
+│  → changes headline, leaves machinery intact
+│                                          │
+│  Partial material concession             │
+│  → repairs some harm, leaves recurrence unresolved
+│                                          │
+│  Procedural reform                       │
+│  → changes operation, may leave power concentrated
+│                                          │
+│  Structural reform                       │
+│  → redistributes authority and creates enforceable limits
+│                                          │
+└──────────────────────────────────────────┘
+        ↓
+Reassessment of tolerability
+
+A resignation may be a real political consequence while still leaving the system below the tolerability threshold.
+
+Compensation may make the system more tolerable for those already harmed but not prevent the same harm recurring.
+
+Dropping cases may restore safety to protesters without fixing examinations.
+
+Reform may improve examinations but leave caste inequality, surveillance or contractor opacity intact.
+
+So “victory” cannot be treated as a single state.
+
+It is also a legitimacy cycle
+
+The movement and government are both asking the public to interpret events.
+
+The movement says:
+
+The concession proves the grievance was legitimate, but the unresolved demands show the work is unfinished.
+
+The government says:
+
+The concession proves we listened, so continued mobilisation is now excessive.
+
+The public then decides which account is more credible.
+
+That produces another loop:
+
+Grievance
+→ mobilisation
+→ concession
+→ competing interpretations of sufficiency
+→ public legitimacy judgement
+→ mobilisation grows, pauses or fractures
+
+The battle after concession is therefore partly about the meaning of the concession.
+
+Was it:
+
+* accountability;
+* capitulation;
+* tactical de-escalation;
+* proof of democratic responsiveness;
+* evidence the government had been wrong;
+* a sacrifice designed to protect the wider system?
+
+For CJP specifically
+
+The demands provide distinct tolerance tests.
+
+Resignation
+Did someone visibly bear political responsibility?
+Cases withdrawn
+Can participants return to ordinary life without coercive consequences?
+Compensation
+Did the institution bear any of the cost it imposed on students and families?
+Reform
+Has the probability and consequence of recurrence materially changed?
+
+If only the resignation is conceded, the movement reaches an awkward point:
+
+The government has acknowledged enough responsibility
+to weaken outright denial,
+but not enough responsibility
+to repair harm or surrender coercive and administrative power.
+
+That is exactly the kind of partial concession that can split the cycle.
+
+The resignation may push some people above their tolerability threshold:
+
+Someone went. They listened. Let the system work.
+
+For others, it confirms the need to continue:
+
+If the government accepted enough responsibility to remove the minister, why are students still carrying the financial and legal consequences?
+
+Revised four-act structure
+
+The circular theory can sit beneath the reader-facing four acts.
+
+ACT I — THE SYSTEM BECOMES INTOLERABLE
+
+How institutional failure, unequal risk and human harm crossed the threshold from private difficulty into shared grievance.
+
+ordinary pressure
+→ repeated failure
+→ legitimacy rupture
+→ intolerability
+
+ACT II — THE PUBLIC ENTERS THE CHANGE CYCLE
+
+How humour, recognition, infrastructure and care reduced participation costs and converted grievance into collective pressure.
+
+recognition
+→ participation
+→ organisation
+→ pressure
+
+ACT III — THE SYSTEM RESPONDS
+
+How the state and surrounding political system repress, absorb, redirect or partially concede pressure.
+
+This includes:
+
+* surveillance;
+* media management;
+* caste and unequal participation;
+* fragmented responsibility;
+* contractor blame;
+* procurement;
+* symbolic substitution;
+* strategic concession.
+
+pressure
+→ response
+→ altered political conditions
+
+ACT IV — IS THE NEW SYSTEM TOLERABLE?
+
+How the movement and wider public evaluate the settlement, preserve gains, monitor implementation or re-enter the cycle.
+
+concession
+→ assessment
+→ settlement, monitoring or remobilisation
+
+That fourth act no longer simply says “result and lesson.” It performs the actual decision required by the theory of change.
+
+Folder shape
+
+🪳🕶️_Mera_Naam_Cockroach_Hai/
+├── README.md
+│
+├── ACT_I_🧨_The_System_Becomes_Intolerable/
+├── ACT_II_🪳_The_Public_Enters_The_Change_Cycle/
+├── ACT_III_🏛️_The_System_Responds/
+├── ACT_IV_🔄_Is_The_New_System_Tolerable/
+│
+└── 🗄️_Sources_And_Archive/
+
+Act IV could look like this
+
+ACT_IV_🔄_Is_The_New_System_Tolerable/
+├── 01_🎭_The_Government_Gave_Up_The_Headline.md
+├── 02_📋_What_Was_Actually_Conceded.md
+├── 03_👤_A_Resignation_Is_Not_A_System.md
+├── 04_💰_Was_The_Harm_Repaired.md
+├── 05_⚖️_Was_The_Coercion_Withdrawn.md
+├── 06_🏛️_Was_The_Machinery_Changed.md
+├── 07_🔍_The_Tolerance_Test.md
+├── 08_🧽_How_Partial_Concessions_Absorb_Pressure.md
+├── 09_🪓_When_A_Victory_Splits_The_Coalition.md
+├── 10_⏸️_Pause_Is_Not_The_Same_As_Trust.md
+├── 11_👁️_Monitoring_Implementation.md
+├── 12_🔁_When_The_Public_Re-enters_The_Cycle.md
+├── 13_🧷_What_Would_Count_As_A_Durable_Settlement.md
+└── 14_🌏_How_The_Cycle_Travels.md
+
+The circular model
+
+                    ┌───────────────────────┐
+                    │  INTOLERABLE SYSTEM   │
+                    └──────────┬────────────┘
+                               ↓
+                    ┌───────────────────────┐
+                    │  SHARED GRIEVANCE     │
+                    └──────────┬────────────┘
+                               ↓
+                    ┌───────────────────────┐
+                    │ PUBLIC MOBILISATION   │
+                    └──────────┬────────────┘
+                               ↓
+                    ┌───────────────────────┐
+                    │ GOVERNMENT RESPONSE   │
+                    └──────────┬────────────┘
+                               ↓
+                    ┌───────────────────────┐
+                    │  TOLERANCE TEST       │
+                    └───────┬────────┬──────┘
+                            │        │
+                     sufficient     insufficient
+                            │        │
+                            ↓        └──────────────┐
+                  ┌─────────────────┐               │
+                  │ STABILISE AND   │               │
+                  │ DEFEND GAINS    │               │
+                  └────────┬────────┘               │
+                           ↓                        │
+                  ┌─────────────────┐               │
+                  │ MONITOR THE NEW │               │
+                  │ STATUS QUO      │               │
+                  └────────┬────────┘               │
+                           │                        │
+                 deterioration or breach           │
+                           └────────────────────────┘
+
+Even an apparently satisfactory settlement stays inside the broader cycle because implementation can fail, reforms can be reversed and old conditions can re-emerge.
+
+The endpoint is not permanent escape from politics.
+
+It is a status quo sufficiently tolerable that public energy can move elsewhere, with enough memory and monitoring capacity to re-enter if necessary.
+
+The central sentence is:
+
+A movement does not end when the government responds. It reaches a decision point at which affected people must judge whether the response has made the system tolerable, merely less visibly intolerable, or temporarily tolerable on conditions that still need defending.
+
+And the sharp version:
+
+The concession closes the cycle only if it changes the condition that opened it.
+
 ---
 
 v5, still chopping:  
