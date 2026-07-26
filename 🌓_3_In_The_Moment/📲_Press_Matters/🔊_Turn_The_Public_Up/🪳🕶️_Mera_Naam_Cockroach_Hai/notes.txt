@@ -1,1 +1,123 @@
+v1, in brainstorm phase:  
 
+---
+
+🌓_3_In_The_Moment/
+└── 📲_Press_Matters/
+    └── 🔊_Turn_The_Public_Up/
+        ├── README.md
+        │
+        ├── 🪳🕶️_Mera_Naam_Cockroach_Hai/
+        │   ├── README.md
+        │   │
+        │   ├── 🛰️_Orientation.md
+        │   ├── 🗓️_Chronology.md
+        │   ├── 👥_Actors_And_Institutions.md
+        │   ├── 📰_Reporting_And_Publication_Pathway.md
+        │   ├── ⚖️_Legal_And_Administrative_Pressure.md
+        │   ├── 📣_Public_Circulation.md
+        │   ├── 🪜_Evidence_And_Confidence.md
+        │   ├── 🧪_Rival_Explanations.md
+        │   ├── 🧷_Compact_Finding.md
+        │   ├── 📚_Sources_And_Reading.md
+        │   │
+        │   ├── 🗞️_A_Note_To_Western_Newsrooms.md
+        │   ├── 🪟_Where_We_Are_Looking_From.md
+        │   ├── 🧭_Before_You_Explain_It_To_The_West.md
+        │   ├── ☎️_Talk_To_People_First.md
+        │   ├── 🪑_Pull_Up_A_Chair_First.md
+        │   ├── 📲_The_WhatsApp_Test.md
+        │   │
+        │   ├── 🎓_The_Good_Immigrant_Is_Not_A_Neutral_Source_Position.md
+        │   ├── 🧓_Talk_To_The_Person_Trying_To_Reach_The_Pharmacy.md
+        │   ├── 💷_Cultural_Explanation_Is_Work.md
+        │   ├── 🌍_Diaspora_Knowledge_Is_Valuable_And_Situated.md
+        │   │
+        │   ├── 🪳_The_Meme_Is_Part_Of_The_Evidence.md
+        │   ├── 🎯_Why_This_Was_So_Memeable.md
+        │   ├── 🎯_How_A_Meme_Becomes_A_Political_Weapon.md
+        │   ├── 🪳_Why_This_Particular_Meme_Could_Travel.md
+        │   ├── 🪳_This_Is_Not_Just_A_Mascot.md
+        │   ├── 🕶️_The_Sunglasses_Matter.md
+        │   ├── 🗣️_Preserve_The_Language.md
+        │   ├── 📦_Political_Compression.md
+        │   ├── 🧰_A_Distributed_Reproduction_Kit.md
+        │   │
+        │   ├── 🧠_The_Meme_Became_Infrastructure.md
+        │   ├── 🛠️_The_Meme_Had_A_Back_End.md
+        │   ├── 📡_Network-Native_Political_Communication.md
+        │   ├── 📡_Native_Speakers_Of_The_Network.md
+        │   ├── 🎛️_What_Young_People_Know_About_Virality.md
+        │   ├── 🧠_They_Know_How_The_Internet_Works.md
+        │   │
+        │   ├── 🧰_The_Movement_Was_A_Skills_Demonstration.md
+        │   ├── 🩹_Mutual_Aid_Is_Operational_Capacity.md
+        │   ├── 🩹_First_Aid_And_Information_Architecture.md
+        │   ├── 🧑‍💻_The_Future_Workforce_Was_In_The_Street.md
+        │   ├── 💼_Please_Do_Not_Blacklist_Your_Future_CTO.md
+        │   │
+        │   ├── 🧯_When_Containment_Becomes_Content.md
+        │   ├── 🪳_Every_Crackdown_Adds_Another_Leg.md
+        │   ├── 🧯_Suppression_Can_Become_Additional_Content.md
+        │   ├── 🧯_The_Containment_Paradox.md
+        │   │
+        │   ├── 🕸️_The_Internet_Has_Indian_Colleagues.md
+        │   ├── 🌐_The_Internet_Already_Knows_India.md
+        │   ├── 🛜_India_Is_Not_A_Local_Network.md
+        │   ├── 🌐_The_Cockroach_Has_International_Roaming.md
+        │   ├── ☎️_Your_Technical_Support_Has_Political_Opinions.md
+        │   ├── 📡_A_Domestic_Story_With_Global_Edges.md
+        │   ├── 🪳_The_Cockroach_Crosses_Platforms.md
+        │   │
+        │   ├── 🌏_South_Asia_Is_An_Information_Region.md
+        │   ├── 🧭_Borders_Do_Not_Speak_The_Language.md
+        │   ├── 🗺️_The_State_Border_Is_Not_The_Audience_Border.md
+        │   ├── 🌐_Overlapping_Publics.md
+        │   │
+        │   ├── 🌍_The_Region_Is_Watching.md
+        │   ├── 🧨_Bangladesh_Changed_The_Risk_Calculation.md
+        │   ├── 🇵🇰_How_Pakistan_Might_Read_This.md
+        │   ├── 🇧🇩_How_Bangladesh_Might_Read_This.md
+        │   ├── 🇨🇳_How_China_Might_Read_This.md
+        │   ├── 🇷🇺_How_Russia_Might_Read_This.md
+        │   ├── 🌍_How_Western_Governments_Might_Read_This.md
+        │   │
+        │   ├── 🏔️_Kashmir_And_The_Reputational_Cost_Curve.md
+        │   ├── 🛰️_Kashmir_And_International_Virality.md
+        │   │
+        │   ├── 🚨_Women_Are_The_Smoke_Alarm.md
+        │   ├── 🌐_Women_As_A_Transnational_Recognition_Public.md
+        │   ├── 🔥_When_The_Backlash_Becomes_Evidence.md
+        │   │
+        │   ├── 🧱_Colonial_Information_Architecture.md
+        │   ├── 🧭_Inheritance_Does_Not_Remove_Agency.md
+        │   ├── 🧰_The_Available_Grammar_Of_Power.md
+        │   ├── 🪞_Mimicking_The_Coloniser.md
+        │   ├── 🧭_Keep_The_Anger_Make_The_Attribution_Exact.md
+        │   │
+        │   ├── 🕳️_Partition_Remains_An_Information_Wound.md
+        │   ├── 🇵🇰_The_External_Muslim_Other.md
+        │   ├── 🪞_The_Rival_State_As_A_Domestic_Shortcut.md
+        │   ├── 🕌_Muslimness_And_Conditional_Belonging.md
+        │   │
+        │   ├── 🎭_Narrative_Management_And_Narrative_Captivity.md
+        │   ├── 🧠_Game_Recognising_Game.md
+        │   ├── 🚪_Strategic_Concession_Is_Not_Surrender.md
+        │   ├── 🧯_When_Not_Doubling_Down_Is_Political_Intelligence.md
+        │   │
+        │   └── 🗄️_Sources_And_Archive/
+        │       ├── 🖼️_Images_And_Memes/
+        │       ├── 🗣️_Slogans_And_Translations/
+        │       ├── 🎥_Video_And_Public_Footage/
+        │       ├── 📰_Press_Coverage/
+        │       ├── ⚖️_Legal_And_Official_Material/
+        │       └── 🧾_Evidence_Log.md
+        │
+        └── 🧭_Reusable_Methods/
+            ├── 🗞️_A_Note_To_Western_Newsrooms.md
+            ├── 📲_The_WhatsApp_Test.md
+            ├── 🎓_The_Good_Immigrant_Is_Not_A_Neutral_Source_Position.md
+            ├── 🪳_The_Meme_Is_Part_Of_The_Evidence.md
+            ├── 🗣️_Preserving_Language_Slogans_And_Images.md
+            ├── 🧭_Keep_The_Anger_Make_The_Attribution_Exact.md
+            └── 🪜_Evidence_And_Confidence.md
