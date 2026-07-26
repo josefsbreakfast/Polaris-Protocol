@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-26 21:43:25 UTC_
+_Generated on 2026-07-26 21:50:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5687,6 +5687,13 @@ _Generated on 2026-07-26 21:43:25 UTC_
       - [`🧱_gov_email_is_not_a_bunker.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/🧱_gov_email_is_not_a_bunker.md)
     - [**🔊_Turn_The_Public_Up/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/)
       - [**🪳🕶️_Mera_Naam_Cockroach_Hai/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/)
+        - [**🌑_The_System_Becomes_Intolerable/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌑_The_System_Becomes_Intolerable/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌑_The_System_Becomes_Intolerable/README.md)
+        - [**🌒_The_Public_Comes_Outside/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/README.md)
+        - [**🌕_What_The_Movement_Was_Up_Against/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌕_What_The_Movement_Was_Up_Against/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌕_What_The_Movement_Was_Up_Against/README.md)
+        - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/notes.txt)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/README.md)
     - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/README.md)
