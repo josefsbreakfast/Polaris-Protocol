@@ -2,6 +2,12 @@ not decided how to node this yet, bear with me.
 
 ——
 
+Claim (Facebook), rec to diaspora accts:  
+
+“India.com: After the resignation of former Education Minister Dharmendra Pradhan over the NEET-UG paper leak row, the CJP-led protest has been hit by fresh controversy.
+Influencer Meghnad alleged that CJP leaders abandoned hungry protesters at Delhi's Jantar Mantar and attended a party instead. The claims surfaced after a viral video of CJP leader Saurav Das celebrating sparked criticism online, adding to the political storm surrounding the protest movement.
+#cjpprotest #cjpleaders #protest #party #starved #SauravDas #AshutoshRanka #CockroachJanataParty”
+
 Verdict: partly accurate, but it collapses an allegation into a reported fact
 
 The screenshot gets the broad chronology right:
@@ -32,6 +38,22 @@ After Dharmendra Pradhan’s resignation and CJP’s decision to end its Jantar 
 
 One smaller correction: the screenshot calls Meghnad merely an “influencer.” That is not false, but “political commentator and YouTuber who had supported and attended the protest” gives readers materially better context.  
 
-So: not fabricated, but framed for maximum scandal and inadequate about what is verified versus alleged.
+So: not fabricated, but framed for maximum scandal and inadequate about what is verified versus alleged.  
+
+1. President of India — official confirmation of Dharmendra Pradhan’s resignation and transfer of the education portfolio
+    https://www.presidentofindia.gov.in/press_releases/press-communique-35
+2. India Today — CJP calls off the Jantar Mantar protest following the resignation and government assurances
+    https://www.indiatoday.in/india/story/cjp-calls-off-jantar-mantar-protest-after-pradhan-resignation-fir-withdrawal-2956118-2026-07-25
+3. Hindustan Times — “resignation party” videos and Saurav Das’s response
+    https://www.hindustantimes.com/india-news/resignation-party-dance-videos-after-days-of-violence-put-cjp-under-fire-saurav-das-calls-it-language-of-gen-z-viral-101785143007609-amp.html
+4. India Today — Meghnad S’s allegation that protesters were abandoned and left without food or support, plus CJP’s response
+    https://www.indiatoday.in/india/story/neet-ug-paper-leak-protest-meghnad-claims-cjp-abandoned-jantar-mantar-protesters-2957395-2026-07-27
+5. The Statesman — report on the circulating party videos, explicitly noting that it had not independently verified their authenticity or context
+    https://www.thestatesman.com/india/from-protest-to-party-viral-videos-allegedly-showing-cjp-leaders-dancing-after-dharmendra-pradhans-resignation-spark-outrage-1503621258.html
+
+A useful additional source:
+
+6. India Today — report of Pradhan’s resignation, including the text of his resignation statement
+    https://www.indiatoday.in/india/story/dharmendra-pradhan-resigns-amid-massive-student-protests-over-neet-paper-leak-row-2955966-2026-07-25
 
 —-
