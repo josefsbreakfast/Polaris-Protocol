@@ -1,14 +1,474 @@
-🌒_The_Public_Comes_Outside/README.md
-            │   ├── README.md
-            │   ├── 🪳_why_the_cockroach_worked.md
-            │   ├── 🕶️_the_sunglasses_matter.md
-            │   ├── 📦_political_compression.md
-            │   ├── 🧰_a_distributed_reproduction_kit.md
-            │   ├── 🕳️_the_hidden_transcript_found_a_mascot.md
-            │   ├── 🌱_the_spectacle_had_a_root_system.md
-            │   ├── 🛠️_the_meme_had_a_back_end.md
-            │   ├── 🩹_care_is_movement_infrastructure.md
-            │   ├── 🎶_the_hidden_transcript_acquired_a_soundtrack.md
-            │   ├── 🚪_the_movement_became_a_permission_structure.md
-            │   ├── 📺_when_the_public_broke_the_broadcast.md
-            │   └── 📉_the_loss_of_narrative_inevitability.md
+🌒_The_Public_Comes_Outside/
+├── README.md
+├── 🪳_why_the_cockroach_worked.md
+├── 🧠_the_meme_became_infrastructure.md
+├── 🕳️_the_hidden_transcript_found_a_mascot.md
+├── 🪜_the_public_was_not_flat.md
+├── 🎶_the_pressure_valve_had_a_soundtrack.md
+├── 📺_when_the_public_broke_the_broadcast.md
+├── 🧯_when_containment_becomes_content.md
+├── 🌐_india_is_not_a_local_network.md
+└── 🚨_women_are_the_smoke_alarm.md
+
+----
+
+🌒 README.md
+
+Include:
+
+* the lunar correspondence: the waxing phase as increasing public visibility;
+* the threshold between shared grievance and public action;
+* the fact that visibility is produced rather than spontaneous;
+* the distinction between circulation, participation, organisation and political pressure;
+* the movement as a permission structure;
+* hidden participation beyond visible protest attendance;
+* humour as emotional regulation as well as messaging;
+* care, logistics and mutual aid as political capacity;
+* the public as an active producer of evidence, interpretation and political reality;
+* the fact that visibility is unequal across caste, class, language, gender, disability, geography and exposure to retaliation;
+* the core conversion pathway:
+
+```text
+shared grievance
+        ↓
+recognisable culture
+        ↓
+permission to participate
+        ↓
+coordination and care
+        ↓
+visible public alignment
+        ↓
+political pressure
+```
+
+* the caution that:
+
+```text
+visibility
+≠ representativeness
+≠ equal risk
+≠ organisational strength
+```
+
+* a brief map of the mega-nodes beneath it;
+* the transition into 🌕_What_The_Movement_Was_Up_Against/, where the visible public meets surveillance, media concentration, procurement, administrative power and coercion;
+* compact finding: humour did not replace organisation; it lowered the cost of entering an organised public, while care, logistics and distributed communication made that public durable enough to create pressure.
+
+⸻
+
+🪳 why_the_cockroach_worked.md
+
+Include:
+
+* the cockroach as a cultural and political object;
+* the meme as part of the evidence rather than decorative colour;
+* why the image was immediately recognisable;
+* why a cockroach can carry disgust, disposability, survival and persistence at once;
+* why the sunglasses change the image from abjection into character, composure and attitude;
+* reclamation of an insult without pretending the insult caused no harm;
+* political compression: how a small image can carry a larger institutional grievance;
+* why this particular symbol was memeable;
+* ease of redrawing, printing, wearing, captioning, translating, remixing and performing;
+* the image as a distributed reproduction kit;
+* why reproduction did not require one authoritative version;
+* how the cockroach crossed platforms, languages, regions and audiences;
+* semantic drift: a meme can travel without preserving one stable meaning;
+* the difference between participant use, supporter use, hostile remix, journalistic use and retrospective interpretation;
+* the image as a low-cost doorway into participation;
+* the cockroach as movement shorthand rather than the whole movement;
+* the distinction between virality and organisational strength;
+* rival causal explanations:
+  * the symbol drove mobilisation;
+  * the symbol reflected mobilisation already underway;
+  * the symbol amplified a pre-existing resistant repertoire;
+  * later visibility may exaggerate its early importance;
+* the possibility that government response had several causes rather than one memetic cause;
+* archive requirements: date, platform, provenance, language, caption, adaptation, context and confidence;
+* risk of preserving or republishing identifiable participant material;
+* clear limits on claims about origin, design, coordination, representativeness and policy effect.
+
+Likely internal headings:
+
+## 🪳 The Meme Is Part Of The Evidence
+## 🎯 Why This Was So Memeable
+## 🕶️ The Sunglasses Matter
+## 🎭 Reclaiming The Insult
+## 📦 Political Compression
+## 🧰 A Distributed Reproduction Kit
+## 📲 The Cockroach Crosses Platforms
+## 🌏 A Meme Can Travel Without Preserving One Meaning
+## 🚪 A Low-Cost Doorway Into Participation
+## 🧪 Rival Explanations
+## 🪜 Evidence And Provenance
+## 🧷 Compact Finding
+
+⸻
+
+🧠 the_meme_became_infrastructure.md
+
+Include:
+
+* the conversion from recognisable image into public capacity;
+* the distinction between attention, participation, organisation, capacity, pressure and reform;
+* network-native political communication;
+* young people as fluent users of platform conventions, remix, humour, timing and distributed circulation;
+* why “they know how the internet works” should be treated as a practical political skill rather than a generational cliché;
+* the meme’s operational back end;
+* organisers, communication routes and verification;
+* food, water, transport and accessibility;
+* first aid and medical support;
+* legal support and rights information;
+* stewarding, route knowledge and risk management;
+* translation and cross-language circulation;
+* documentation, archiving and evidence preservation;
+* maintaining morale;
+* how care determines who can remain, return and participate;
+* mutual aid as operational capacity;
+* first aid as part of information architecture;
+* invisible labour beneath visible spectacle;
+* the movement as a demonstration of technical, organisational and social skill;
+* the future workforce visible in the street;
+* why blacklisting participants can damage the same institutions and industries that need their skills;
+* the limits of inferring organisation from viral content;
+* evidence needed before claiming central coordination or durable capacity;
+* the distinction between a meme having infrastructure and a meme itself being infrastructure.
+
+Likely internal headings:
+
+## 📡 Network-Native Political Communication
+## 🎛️ What Young People Know About Virality
+## 🧠 They Know How The Internet Works
+## 🛠️ The Meme Had A Back End
+## 🧰 Movement Infrastructure
+## 🩹 Mutual Aid Is Operational Capacity
+## 🩹 Care Is Movement Infrastructure
+## 🩹 First Aid And Information Architecture
+## 🧰 The Movement Was A Skills Demonstration
+## 🧑‍💻 The Future Workforce Was In The Street
+## 💼 Please Do Not Blacklist Your Future CTO
+## ⚠️ Virality Is Not Organisation
+## 🧷 Compact Finding
+
+⸻
+
+🕳️ the_hidden_transcript_found_a_mascot.md
+
+Include:
+
+* the political culture that existed before the movement became fully visible;
+* coded speech, private jokes and regional satire;
+* pseudonymous accounts and disappearing content;
+* intimate circulation through private messaging and social networks;
+* quiet acts before the cockroach;
+* the hidden transcript as a root system rather than an absence of politics;
+* how people learn to recognise one another before they appear together publicly;
+* infrapolitics becoming visible without losing all ambiguity;
+* the cockroach as a mascot for a pre-existing repertoire;
+* plausible deniability at the level of the individual;
+* collective deniability once the shared meaning becomes publicly recognisable;
+* the protest being larger than its physically visible participants;
+* indirect participation, anonymous participation and private support;
+* three layers of legibility:
+  * legible to participants;
+  * legible to wider publics;
+  * legible to institutions or hostile observers;
+* regional humour and algorithmic opacity;
+* how language and local reference can travel beneath incomplete moderation or external comprehension;
+* the movement as a permission structure;
+* fear of isolation, ridicule, professional consequences and political misrecognition;
+* how visible participation changes the perceived relationship between risk and solidarity;
+* different thresholds of entry: recognition, sharing, helping, attending, organising and speaking publicly;
+* evidence boundaries around claims of hidden organisation;
+* the danger of treating all private circulation as movement coordination.
+
+Likely internal headings:
+
+## 🤫 Quiet Acts Before The Cockroach
+## 🌱 The Spectacle Had A Root System
+## 🪳 When Infrapolitics Became Public
+## 🎭 From Plausible To Collective Deniability
+## 📲 The Protest Was Larger Than Its Visible Participants
+## 🗣️ Three Layers Of Legibility
+## 🌐 Regional Humour And Algorithmic Opacity
+## 🚪 The Movement Became A Permission Structure
+## ⚠️ What Hidden Participation Does Not Prove
+## 🧷 Compact Finding
+
+⸻
+
+🪜 the_public_was_not_flat.md
+
+Include:
+
+* the public as an achievement rather than a naturally equal field;
+* the distinction between shared identity and equal participation;
+* caste, class, language, gender, disability, geography and digital access;
+* unequal exposure to policing, discipline, professional harm and family consequences;
+* who could appear publicly with relatively limited future cost;
+* who required anonymity, indirect participation or private circulation;
+* who had access to time, transport, money, devices and safe public space;
+* who could remain physically present;
+* whose language travelled most easily;
+* whose humour was understood or treated as neutral;
+* who became recognised as a spokesperson;
+* whose organisational and care labour remained less visible;
+* how a common mascot can mask unequal ownership of the public story;
+* visibility not being the same as representativeness;
+* the difference between movement inclusion and movement equality;
+* whether the cockroach enabled anti-caste solidarity, obscured caste difference or left the question unresolved;
+* how unequal risk affects disagreement about tactics and public exposure;
+* the movement-side version of unequal visibility, distinct from the later platform, policing and surveillance analysis in 🌕;
+* careful avoidance of treating caste, gender or class as generic disclaimers;
+* evidence needed to map who participated, who spoke and who was missing.
+
+Likely internal headings:
+
+## 🪜 A Shared Public Is Not An Equal Public
+## 🧱 Caste, Class And The Conditions Of Visibility
+## 🗣️ Whose Language Travelled
+## 🎙️ Who Became The Voice Of The Students
+## 🩹 Whose Labour Remained Invisible
+## 🪪 A Common Mascot Does Not Create Equal Risk
+## 🕳️ The Dominant Code Looks Neutral
+## 🪳 Can The Cockroach Carry Anti-Caste Solidarity?
+## ➡️ From Unequal Participation To Institutional Exposure
+## 🧷 Compact Finding
+
+⸻
+
+🎶 the_pressure_valve_had_a_soundtrack.md
+
+Include:
+
+* sound, rhythm, gesture and performance as forms of participation;
+* chants and songs as shared political memory;
+* the soundtrack emerging from the hidden transcript;
+* humour as a pressure valve without reducing the grievance to entertainment;
+* emotional regulation through collective sound;
+* synchronisation of participants;
+* rhythm helping a crowd feel real to itself;
+* songs and chants as low-barrier participation;
+* participation without requiring a complete individual political statement;
+* collective deniability through performance and repetition;
+* costume, visual performance and embodied humour;
+* spectatorship becoming participation;
+* the role of filming and replay;
+* remixing official speeches, images or music;
+* mockery becoming socially normal;
+* how ridicule changes the emotional terms set by authority;
+* the difference between cultural influence and causal proof;
+* copyright, attribution and translation care where songs or film material are discussed;
+* preservation of original language, rhythm and cultural context;
+* safety and consent when archiving identifiable performance footage.
+
+Likely internal headings:
+
+## 🎶 The Hidden Transcript Acquired A Soundtrack
+## 🎶 The Pressure Valve Had A Soundtrack
+## 🫁 Humour As Emotional Regulation
+## 🥁 Synchronising The Public
+## 🎭 Performance And Collective Deniability
+## 🎥 While We Watched
+## ✂️ Remixing The Government’s Own Output
+## 😂 When Mocking The Leader Becomes Normal
+## ⚠️ Culture Is Evidence, Not A Single Cause
+## 🧷 Compact Finding
+
+⸻
+
+📺 when_the_public_broke_the_broadcast.md
+
+Include:
+
+* the conventional one-way model: officials speak, media interpret, public receives;
+* the public becoming a producer, recorder, translator and interpreter of events;
+* the broadcast becoming two-way;
+* participant images, video and testimony;
+* local reporting and distributed documentation;
+* the shrinking mainstream;
+* ownership, access, political alignment and commercial pressure;
+* centralisation by ecosystem rather than one explicit censorship command;
+* the prime minister or executive as principal narrator;
+* highly managed official communication;
+* remixing official output;
+* public interpretation arriving before or alongside official explanation;
+* evidentiary cover for journalists;
+* how widespread public documentation can make a previously risky story easier to report;
+* neighbouring and international attention where it expanded the reporting space;
+* mockery as a challenge to official solemnity and emotional control;
+* the loss of narrative inevitability;
+* official narration remaining powerful but no longer uncontested;
+* the public answering power in its own language and media forms;
+* the distinction between media visibility and narrative power;
+* source-pathway analysis: primary material, reporting, commentary, social circulation and later citation;
+* image verification, consent and surveillance risk;
+* the danger of treating public documentation as automatically accurate or representative.
+
+Likely internal headings:
+
+## 📺 The Broadcast Was No Longer One-Way
+## 🎥 While We Watched
+## 📰 The Shrinking Mainstream
+## 🏢 Ownership, Access And Alignment
+## 📡 Centralisation By Ecosystem
+## 🎙️ The Prime Minister As Principal Narrator
+## ✂️ Remixing The Government’s Own Output
+## 🗞️ The Public Creates Evidentiary Cover
+## 😂 When Mocking The Leader Becomes Normal
+## 📉 The Loss Of Narrative Inevitability
+## 🪳 The Public Answered Back In His Language
+## 🪜 Evidence, Verification And Risk
+## 🧷 Compact Finding
+
+⸻
+
+🧯 when_containment_becomes_content.md
+
+Include:
+
+* the feedback loop between suppression and circulation;
+* attempts to remove, ridicule, police or contain the movement;
+* every crackdown potentially producing another image, story, joke or witness;
+* suppression becoming additional content;
+* the containment paradox;
+* when official response confirms the movement’s account of itself;
+* narrative management becoming narrative captivity;
+* authorities being forced to respond within the symbolic language they hoped to suppress;
+* movement participants recognising familiar containment tactics;
+* “game recognising game” as practical political literacy;
+* how public knowledge of platform and media dynamics changes the effect of suppression;
+* the difference between repression that deters and repression that amplifies;
+* why amplification is not automatic;
+* conditions under which containment may still isolate, exhaust or injure participants;
+* strategic concession as a method of reducing pressure;
+* why concession is not necessarily surrender;
+* when not doubling down can be political intelligence;
+* how partial concession can validate the grievance while removing momentum;
+* transition forward to the institutional absorption analysis in 🌕 and the tolerance test in 🌘;
+* exact evidence needed before claiming a crackdown caused further mobilisation.
+
+Likely internal headings:
+
+## 🧯 Suppression Can Become Additional Content
+## 🪳 Every Crackdown Adds Another Leg
+## 🔁 The Containment Paradox
+## 🎭 Narrative Management And Narrative Captivity
+## 🧠 Game Recognising Game
+## ⚠️ Amplification Is Not Automatic
+## 🚪 Strategic Concession Is Not Surrender
+## 🧯 When Not Doubling Down Is Political Intelligence
+## ➡️ From Containment To Institutional Response
+## 🧷 Compact Finding
+
+⸻
+
+🌐 india_is_not_a_local_network.md
+
+Include:
+
+* India as a major connected social, cultural, technical and professional network;
+* the limits of describing the movement as a purely domestic information event;
+* the internet already knowing India through family, work, education, entertainment and diaspora ties;
+* Indian colleagues, classmates, relatives, creators and technical workers embedded across global networks;
+* globally distributed workplaces and professional communities;
+* the joke travelling through social familiarity rather than only formal international reporting;
+* the cockroach having “international roaming”;
+* technical-support and workplace networks carrying political awareness;
+* the domestic story acquiring global edges;
+* overlapping publics rather than one unified global audience;
+* diaspora knowledge as valuable and situated;
+* different interpretations across regions, languages and political communities;
+* translation pathways;
+* the role of neighbouring, diaspora and international media;
+* why political borders do not contain the audience;
+* the distinction between global circulation and global understanding;
+* avoiding claims that all international viewers received the same meaning;
+* not yet expanding into the full regional geopolitical analysis reserved for later sections;
+* the transition from global social circulation to the later question of how states and institutions learn across borders.
+
+Likely internal headings:
+
+## 🕸️ The Internet Has Indian Colleagues
+## 🌐 The Internet Already Knows India
+## 🛜 India Is Not A Local Network
+## 🌐 The Cockroach Has International Roaming
+## ☎️ Your Technical Support Has Political Opinions
+## 📡 A Domestic Story With Global Edges
+## 🌐 Overlapping Publics
+## 🌍 Diaspora Knowledge Is Valuable And Situated
+## ⚠️ Global Circulation Is Not Shared Meaning
+## ➡️ From Networked Publics To Regional Learning
+## 🧷 Compact Finding
+
+⸻
+
+🚨 women_are_the_smoke_alarm.md
+
+Include:
+
+* women as one possible early-recognition public rather than a universal category;
+* women’s informal warning networks;
+* conversation across family, friendship, workplace, diaspora and platform spaces;
+* gendered experience of threat, reputational control, coercion and institutional disbelief;
+* how those experiences may sharpen recognition of familiar tactics;
+* women as transnational recognition publics;
+* rapid comparison across apparently separate cases;
+* the political value of informal pattern recognition before institutions formally name a problem;
+* why this should not be framed as biological intuition or inherent female virtue;
+* differences among women by caste, class, religion, race, nationality, sexuality, disability and political position;
+* who has access to transnational networks;
+* whose warnings are amplified;
+* whose warnings are dismissed;
+* backlash against women as possible additional evidence of what their speech disrupted;
+* caution that backlash does not automatically validate every underlying claim;
+* gendered ridicule, sexualisation and credibility attacks;
+* evidence boundaries between participant testimony, observed circulation and analytical inference;
+* connection to the wider “public was not flat” node;
+* possible later fork if the material becomes broader than the Cockroach case.
+
+Likely internal headings:
+
+## 🚨 Women As An Early-Recognition Public
+## 🌐 Women As A Transnational Recognition Public
+## 🗣️ Informal Warning Networks
+## 🧠 Pattern Recognition Before Institutional Recognition
+## 🪜 Women Are Not A Flat Public Either
+## 🔥 When The Backlash Becomes Evidence
+## ⚠️ Backlash Does Not Prove Every Claim
+## 🧾 Evidence And Attribution Boundaries
+## 🧷 Compact Finding
+
+This is one of the likeliest mega-nodes to fork later or connect to a wider Polaris node.
+
+⸻
+
+Working principle for all nine mega-nodes
+
+Each should contain:
+
+* a clear orientation;
+* one central argument;
+* factual material where relevant;
+* explicit evidence boundaries;
+* careful separation of observation, participant interpretation and analytical inference;
+* internal headings from the old child-node list;
+* attention to unequal visibility and unequal risk;
+* a compact finding;
+* cross-references;
+* no branching until a section becomes independently useful, evidentially distinct or too large to navigate.
+
+Material deliberately held for 🌕_What_The_Movement_Was_Up_Against/:
+
+* full surveillance architecture;
+* identity-linked examination and protest data;
+* facial recognition and predictive policing;
+* detailed platform-state cooperation;
+* internet shutdown law and administration;
+* media ownership and executive pressure in full;
+* centralisation and outsourced responsibility;
+* procurement and foreign technology dependency;
+* product-specific capability claims;
+* coercive institutions and legal architecture.
+
+Within 🌒, those systems should appear only insofar as they shaped whether people could participate, remain visible, communicate, preserve evidence or avoid retaliation.
