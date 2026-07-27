@@ -1,64 +1,14 @@
 🌕_What_The_Movement_Was_Up_Against/
-            │   ├── README.md
-            │   │
-            │   ├── ⚙️_The_Examination_Machine/
-            │   │   ├── README.md
-            │   │   ├── 🏢_centralised_authority_fragmented_responsibility.md
-            │   │   ├── 🕳️_the_hollow_centre.md
-            │   │   ├── 🔗_every_handoff_is_a_point_of_failure.md
-            │   │   ├── ⏰_strict_with_students_loose_with_the_supply_chain.md
-            │   │   ├── 🧾_procurement_is_not_institutional_capability.md
-            │   │   └── ⚖️_who_owns_the_failure.md
-            │   │
-            │   ├── 🪜_The_Unequal_Public/
-            │   │   ├── README.md
-            │   │   ├── 🪜_the_public_is_not_flat.md
-            │   │   ├── 🧱_caste_travels_through_the_platform.md
-            │   │   ├── 🗣️_whose_hidden_transcript_becomes_public.md
-            │   │   ├── 🕳️_the_dominant_code_looks_neutral.md
-            │   │   ├── ⚖️_equal_rules_unequal_moderation.md
-            │   │   └── 🪳_can_the_cockroach_carry_anti-caste_solidarity.md
-            │   │
-            │   ├── 👁️_The_Surveilled_Public/
-            │   │   ├── README.md
-            │   │   ├── 🪪_from_candidate_profile_to_protester_profile.md
-            │   │   ├── 📱_the_post_becomes_part_of_the_record.md
-            │   │   ├── 📷_identification_at_the_demonstration.md
-            │   │   ├── 🎓_the_future_cost_of_being_identified.md
-            │   │   ├── 🧊_the_chilling_effect_is_a_policy_result.md
-            │   │   ├── 📵_shutdowns_remove_coordination_not_only_content.md
-            │   │   └── 🪖_from_agnipath_to_cjp.md
-            │   │
-            │   ├── 📺_The_Narrowing_Information_System/
-            │   │   ├── README.md
-            │   │   ├── 📰_the_shrinking_mainstream.md
-            │   │   ├── 🏢_ownership_access_and_alignment.md
-            │   │   ├── 📡_centralisation_by_ecosystem.md
-            │   │   ├── 🎙️_the_prime_minister_as_principal_narrator.md
-            │   │   ├── 🌐_legitimized_exclusion_zones.md
-            │   │   ├── 🤝_from_regulation_to_collusion_and_co-optation.md
-            │   │   ├── 🇮🇳_india_and_takedowns_without_safeguards.md
-            │   │   └── 👁️_the_transparent_citizen_and_the_opaque_state.md
-            │   │
-            │   ├── 💰_The_Procurement_State/
-            │   │   ├── README.md
-            │   │   ├── 🧾_how_india_buys_surveillance.md
-            │   │   ├── 🏛️_the_contracting_authority.md
-            │   │   ├── 🏢_the_indian_prime_is_not_the_end_of_the_trail.md
-            │   │   ├── 🧠_who_owns_the_technology.md
-            │   │   ├── 🪆_made_in_india_foreign_ip.md
-            │   │   ├── 🔁_licences_maintenance_and_lifecycle_dependency.md
-            │   │   ├── 🇮🇱_the_india-israel_defence_industrial_stack.md
-            │   │   ├── 🍉_the_occupation_to_export_pipeline.md
-            │   │   ├── 🗳️_when_procurement_becomes_foreign_policy.md
-            │   │   └── 🧾_capability_access_use_and_attribution.md
-            │   │
-            │   └── 🌍_The_Travelling_Repertoire/
-            │       ├── README.md
-            │       ├── 🗳️_digital_authoritarianism_inside_democratic_procedure.md
-            │       ├── 🇮🇳_india_as_an_early_democratic_test_case.md
-            │       ├── 🪜_normalisation_happens_one_exception_at_a_time.md
-            │       ├── 🌍_the_technique_travels_better_than_the_ideology.md
-            │       ├── 🍉_palestine_advocacy_as_a_democratic_backsliding_test.md
-            │       └── 📣_rally_the_many_to_resist_the_few.md
-            │
+├── README.md
+├── 🏛️_the_power_was_centralised_the_responsibility_was_outsourced.md
+├── 🏫_the_curriculum_and_the_gate.md
+├── 🪜_the_public_is_not_flat.md
+├── 👁️_the_state_can_see_the_student.md
+├── 🪖_from_agnipath_to_cjp.md
+├── 📰_the_information_system_was_narrowing.md
+├── 🧾_the_source_was_weaker_than_the_headline.md
+├── 💰_follow_the_money.md
+├── 🇮🇱_the_india-israel_defence_industrial_stack.md
+└── 🌍_the_technique_travels_better_than_the_ideology.md
+
+---
