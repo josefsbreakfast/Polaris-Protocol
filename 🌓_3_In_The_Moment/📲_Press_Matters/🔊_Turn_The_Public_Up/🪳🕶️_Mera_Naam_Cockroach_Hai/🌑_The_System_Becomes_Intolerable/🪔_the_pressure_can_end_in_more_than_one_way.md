@@ -1,852 +1,1025 @@
-draft v1:  
+# 🪔 The Pressure Can End In More Than One Way  
+**First created:** 2026-07-27 | **Last updated:** 2026-07-27  
+*Why examination pressure must be counted through death, non-fatal crisis, injury, disability, interrupted education and the continuing harm carried by families.*
 
-— - -
+---
 
-🪔 The Pressure Can End In More Than One Way
+## 🛰️ Orientation  
 
-First created: 2026-07-27 | Last updated: 2026-07-27
-How examination pressure can contribute to death, non-fatal crisis, injury, disability and continuing family harm—and why survival does not make the damage disappear.
+- Public discussion often notices examination pressure most clearly after a death.
 
-⸻
+- Death is not the only severe outcome.
 
-⚠️ Content And Scope Warning
+- Pressure may also end in:
+  - a non-fatal suicide attempt;
+  - self-harm;
+  - medical crisis;
+  - psychiatric admission;
+  - injury;
+  - acquired or worsened disability;
+  - interrupted education;
+  - withdrawal from the pathway;
+  - long-term dependence;
+  - continuing family harm.
 
-* This node discusses:
-    * suicide;
-    * suicidal crisis;
-    * non-fatal attempts;
-    * physical injury;
-    * disability;
-    * bereavement;
-    * family debt;
-    * institutional contribution to severe harm.
-* It should not:
-    * describe methods;
-    * reproduce unnecessary details;
-    * turn individual deaths into dramatic illustrations;
-    * imply that one examination event fully explains a suicide;
-    * treat people who died as symbols rather than people;
-    * treat people who survived as evidence that the harm was less serious.
-* The central analytical rule is:
+- The central argument is:
 
+> A system should not count only deaths. Severe pressure can produce multiple outcomes, and non-fatal survival may carry years of medical, educational, financial and family consequence.
+
+- This node must preserve two distinctions at once:
+
+```text
 institutional contribution
 ≠ single cause
+
 complex causation
 ≠ absence of institutional responsibility
+```
 
-* The node should hold two truths at once:
-    * suicide is complex and cannot responsibly be attributed to one cause without strong case-specific evidence;
-    * institutional systems can still create, intensify or fail to mitigate conditions of acute risk.
-* Where individual cases are included:
-    * preserve the person’s name only where publication is appropriate;
-    * distinguish family claims, participant interpretation, official account and independent evidence;
-    * avoid overconfident causal verbs;
-    * record what remains unknown;
-    * do not make the person’s death carry an argument they did not choose.
+- A death or crisis may involve:
+  - personal history;
+  - mental illness;
+  - family relationships;
+  - financial stress;
+  - examination failure;
+  - public humiliation;
+  - institutional delay;
+  - loss of a future pathway;
+  - several of these together.
 
-⸻
+- Complexity should prevent overclaiming.
+- It should not be used to erase material institutional pressure.
 
-🛰️ Orientation
+---
 
-* This node should follow from the preceding analysis of:
-    * examination scarcity;
-    * rigid procedure;
-    * family expectation;
-    * bodily limits;
-    * diagnosis and performance pressure.
-* Its central argument is:
+## 🗣️ Language, Translation And Evidentiary Convention  
 
-The pressure attached to an examination system does not produce one uniform outcome. It can contribute to death, non-fatal crisis, physical injury, interrupted education, disability, family debt and years of continuing care.
+- Language around suicide, self-harm and death carries:
+  - clinical meaning;
+  - legal meaning;
+  - cultural meaning;
+  - political force.
 
-* Public discussion often sees only two categories:
+- This node keeps the following terms distinct:
+  - **died by suicide**;
+  - **suicide death**;
+  - **suicide attempt**;
+  - **non-fatal attempt**;
+  - **self-harm**;
+  - **suicidal thoughts**;
+  - **institutional contribution**;
+  - **causal contribution**;
+  - **proximate cause**;
+  - **murder**;
+  - **compensation**;
+  - **ex gratia payment**.
 
-the student died
-or
-the student survived
+### Died By Suicide  
 
-* That binary is inadequate.
-* Severe pressure may result in:
-    * suicidal thoughts;
-    * an attempt followed by physical survival;
-    * life-changing injury;
-    * worsening mental illness;
-    * interrupted education;
-    * withdrawal from the profession;
-    * family caregiving;
-    * medical debt;
-    * continuing fear of recurrence.
-* The node should therefore resist a politics in which:
-    * only death counts as serious harm;
-    * compensation is available only after death;
-    * survival is treated as closure;
-    * institutions wait for catastrophe before recognising pressure.
+- **Died by suicide** describes a manner of death without defining the person through the act.
 
-⸻
+- It is generally preferable to older phrases such as:
+  - “committed suicide”;
+  - “successful suicide”.
 
-🪔 Why The Diya Matters
+- The word **committed** may echo:
+  - crime;
+  - sin;
+  - moral fault.
 
-* The diya is a more appropriate symbol for this node because it can hold:
-    * mourning;
-    * remembrance;
-    * life;
-    * care;
-    * vigil;
-    * continuity;
-    * the responsibility not to look away.
-* The symbol should not imply one universal religious or cultural meaning.
-* Its use here is interpretive and restrained.
-* The diya keeps the node from organising itself solely around extinguishing.
-* The central question is not only:
+- The word **successful** is inappropriate because it applies achievement language to death.
 
-Who died?
+### Suicide Attempt  
 
-* It is also:
+- A **suicide attempt** is a non-fatal act undertaken with at least some intent to die.
 
-Who is still living with the consequences, and what is owed to them?
+- It is not interchangeable with:
+  - all self-harm;
+  - suicidal thoughts;
+  - accidental overdose;
+  - every dangerous act.
 
-⸻
+- Intent may be:
+  - mixed;
+  - difficult to establish;
+  - described differently by the person, family and clinician.
 
-🎬 Joy And Raju Are Different Outcomes
+### Self-Harm  
 
-* 3 Idiots may be used as a recognition bridge because it presents two different responses to institutional and family pressure.
-* Joy Lobo’s story ends in death.
-* Raju Rastogi survives a fall after an acute crisis but faces:
-    * severe physical injury;
-    * hospitalisation;
-    * prolonged recovery;
-    * disrupted education;
-    * renewed family fear;
-    * uncertainty about his future.
-* The two plots help illustrate a distinction that public debate frequently loses:
+- **Self-harm** is intentional injury to oneself.
 
-fatal outcome
-≠ the only severe outcome
-survival
-≠ absence of lasting harm
+- It may occur:
+  - with suicidal intent;
+  - without suicidal intent;
+  - with uncertain or changing intent.
 
-* Raju’s survival does not undo:
-    * the crisis;
-    * the injury;
-    * the fear;
-    * the effect on his family;
-    * the institutional pressures surrounding the event.
-* Joy and Raju should not be treated as documentary evidence about NEET or the Cockroach movement.
-* The film can provide:
-    * cultural recognition;
-    * a familiar language for rank and pressure;
-    * an illustration of different outcomes.
-* It cannot establish:
-    * prevalence;
-    * case-specific causation;
-    * the motives of real students;
-    * the precise structure of contemporary examination institutions.
+```text
+self-harm
+≠ automatically suicide attempt
 
-⸻
+suicide attempt
+≠ automatically fatal
+```
 
-🪔 Suicide Is Not A Single-Cause Story
+### Suicidal Thoughts  
 
-* Suicide ordinarily emerges from interacting factors rather than one isolated event.
-* Relevant factors may include:
-    * depression;
-    * anxiety;
-    * trauma;
-    * family conflict;
-    * financial pressure;
-    * shame;
-    * social isolation;
-    * relationship loss;
-    * academic failure;
-    * institutional uncertainty;
-    * sleep disruption;
-    * physical illness;
-    * prior suicidal behaviour;
-    * access to support;
-    * fear about the future.
-* Examination failure may be:
-    * a precipitating event;
-    * an intensifier;
-    * one contributor among several;
-    * the event through which broader pressure becomes unbearable;
-    * or retrospectively emphasised despite a more complicated history.
-* The final node should distinguish language carefully:
+- **Suicidal thoughts** or **suicidal ideation** may range from:
+  - passive thoughts of not wanting to exist;
+  - thoughts of death;
+  - active desire to die;
+  - planning.
 
-“died after”
-→ establishes sequence
-“family linked the death to”
-→ records an attributed interpretation
-“was associated with”
-→ indicates a relationship without proving causation
-“contributed to”
-→ requires evidence of a causal role
-“caused”
-→ requires a much stronger evidentiary basis
+- The presence of thoughts does not establish:
+  - an attempt;
+  - inevitable death;
+  - one specific cause.
 
-* Avoid phrases such as:
-    * “the exam killed them”;
-    * “they died because of one paper”;
-    * “suicide was inevitable”;
-    * “they chose death over failure”.
-* Those formulations:
-    * simplify the person;
-    * weaken the analysis;
-    * may be unsafe for vulnerable readers;
-    * give institutions an easy basis for rejecting the wider argument.
+### Institutional Contribution  
 
-⸻
+- **Institutional contribution** means that an institution’s actions, omissions or design may have formed a material part of the conditions surrounding harm.
 
-🧾 What The Cockroach Movement Claimed
+- It does not necessarily mean:
+  - the institution was the only cause;
+  - every decision-maker foresaw the outcome;
+  - criminal liability has been established.
 
-* The Cockroach Janta Party explicitly connected the examination crisis to student deaths.
-* Its campaign materials demanded:
-    * ₹1 crore compensation for the family of each NEET aspirant said to have died by suicide following the paper-leak crisis;
-    * resignation of Education Minister Dharmendra Pradhan;
-    * broader examination reform and candidate protection. (Cockroach Janta Party Official Website)
-* In a June open letter, Abhijeet Dipke reportedly referred to 11 NEET aspirant deaths within one week, including five in 48 hours. That figure is a movement claim reported by the press, not yet an independently verified case register within Polaris. (Hindustan Times)
-* The CJP’s formal Examination Reform Charter later proposed a National Aspirant Welfare Fund, including:
-    * financial assistance for families of aspirants who lose their lives following paper leaks;
-    * mandated access to mental-health counselling through coaching institutes in major coaching hubs;
-    * regulation of coaching institutes. (Cockroach Janta Party Official Website)
-* The final node must not collapse:
+### Causal Contribution  
 
-movement-reported number
-≠ independently verified number
+- **Causal contribution** is broader than:
+
+> The institution caused the death.
+
+- It may mean that institutional conduct:
+  - intensified distress;
+  - removed options;
+  - prolonged uncertainty;
+  - increased financial pressure;
+  - failed to provide a remedy;
+  - contributed to a crisis.
+
+### Proximate Cause  
+
+- **Proximate cause** is a legal concept concerning whether a connection is sufficiently direct for a particular form of liability.
+
+- It should not be used casually as a synonym for:
+  - background influence;
+  - social context;
+  - moral responsibility.
+
+### Murder  
+
+- **Murder** is:
+  - a legal category;
+  - a powerful protest accusation;
+  - not an interchangeable synonym for institutional contribution.
+
+- Where a protester says:
+
+> **The government says suicide; we say murder.**
+
+- the node should record it as:
+  - attributed protest language;
+  - an accusation that individualising the death conceals institutional responsibility;
+  - not a settled legal finding of homicide.
+
+### Compensation  
+
+- **Compensation** is payment intended to recognise or repair loss.
+
+- It may arise through:
+  - legal liability;
+  - statutory scheme;
+  - negotiated settlement;
+  - administrative decision.
+
+### Ex Gratia Payment  
+
+- An **ex gratia payment** is made without necessarily admitting legal liability.
+
+```text
+payment
+≠ admission of causation
+
+no admission
+≠ no acknowledgement of harm
+```
+
+---
+
+## 🪔 Why A Diya, Not A Candle  
+
+- This node uses a **diya** rather than a candle.
+
+> **Diya**  
+> **दीया**  
+> **دیا**  
+> *A small oil lamp.*
+
+- A diya is widely recognisable across South Asian cultural and religious contexts.
+
+- It may evoke:
+  - remembrance;
+  - vigil;
+  - mourning;
+  - light;
+  - continuity;
+  - collective witness.
+
+- The symbol should not imply:
+  - one religion owns the grief;
+  - every family mourns in the same way;
+  - ritual can substitute for material repair.
+
+- The diya marks both:
+  - lives lost;
+  - lives continuing after severe harm.
+
+---
+
+## 📊 Counting Only Deaths Understates The Crisis  
+
+- Death counts are visible because they are:
+  - final;
+  - numerically recordable;
+  - politically difficult to ignore.
+
+- They are also an incomplete measure.
+
+- A crisis may include people who:
+  - survive an attempt;
+  - sustain brain injury;
+  - sustain spinal or limb injury;
+  - require intensive care;
+  - develop chronic pain;
+  - become disabled;
+  - leave education;
+  - need long-term psychiatric care;
+  - remain dependent on family.
+
+- A death count may therefore sit at the end of a wider harm distribution:
+
+```text
+distress
+        ↓
+functional decline
+        ↓
+crisis
+        ↓
+self-harm or attempt
+        ↓
+injury, disability or death
+        ↓
+continuing family harm
+```
+
+- Not every person moves through this sequence.
+- It is not a predictive ladder.
+
+- It illustrates that harm can be:
+  - escalating;
+  - non-linear;
+  - survivable;
+  - still severe.
+
+---
+
+## 🧾 The Problem With A Single Number  
+
+- The CJP publicly attributed a number of student deaths to the examination crisis.
+
+- Such figures may be politically important.
+
+- They require careful construction.
+
+- A case register should distinguish:
+  - confirmed death;
+  - reported manner of death;
+  - family attribution;
+  - movement attribution;
+  - examination connection;
+  - timing;
+  - official finding;
+  - unresolved evidence.
+
+- The record should not automatically treat:
+
+```text
 death after examination failure
-≠ proven death caused solely by examination failure
-demand for compensation
-≠ official admission of legal causation
+=
+death caused solely by examination failure
+```
 
-* A case register should eventually record:
-    * name;
-    * age;
-    * date;
-    * examination relationship;
-    * earliest reliable report;
-    * family statement;
-    * police or official account;
-    * movement attribution;
-    * known prior pressures;
-    * current confidence;
-    * publication and privacy considerations.
+- Nor should it assume:
 
-⸻
+```text
+complex personal history
+=
+no examination-system contribution
+```
 
-🏥 Survival Is Not The End Of The Harm
+- A responsible count should preserve uncertainty case by case.
 
-* A non-fatal attempt may result in:
-    * neurological injury;
-    * spinal injury;
-    * fractures;
-    * organ damage;
-    * chronic pain;
-    * mobility impairment;
-    * cognitive impairment;
-    * long-term psychiatric treatment;
-    * loss of independence;
-    * interruption of education.
-* Even where physical injury is limited, a survivor may face:
-    * continuing suicide risk;
-    * stigma;
-    * surveillance by family or institutions;
-    * disrupted friendships;
-    * fear of returning to study;
-    * loss of confidence;
-    * medication and therapy costs;
-    * repeated clinical assessment.
-* The family may face:
-    * emergency travel;
-    * hospital bills;
-    * unpaid care;
-    * lost work;
-    * debt;
-    * altered housing needs;
-    * long-term supervision;
-    * fear of recurrence.
-* The public record may nevertheless move on because:
-    * the person did not die;
-    * there was no funeral;
-    * the event did not become a national symbol;
-    * the institution recorded only absence or withdrawal.
-* The central distinction is:
+---
 
-life preserved
-≠ position restored
-hospital discharge
-≠ recovery complete
-return to study
-≠ harm repaired
+## 🕯️ The Individualisation Of Suicide  
 
-⸻
+- Institutions may describe a death through:
+  - personal distress;
+  - family problems;
+  - mental illness;
+  - private circumstances.
 
-🧠 Acute Crisis Is Not Always Visible
+- These factors may be real.
 
-* A student may appear:
-    * calm;
-    * productive;
-    * academically capable;
-    * humorous;
-    * socially engaged;
-    * still attending classes.
-* None of those observations reliably excludes serious distress.
-* Warning signs may also be:
-    * concealed;
-    * misread as laziness;
-    * interpreted as poor discipline;
-    * visible only to friends or family;
-    * communicated indirectly;
-    * lost inside online humour.
-* Institutions may rely too heavily on:
-    * self-referral;
-    * formal diagnosis;
-    * visible deterioration;
-    * a student explicitly stating suicidal intent.
-* Students may avoid disclosure because they fear:
-    * professional consequences;
-    * family reaction;
-    * forced interruption of study;
-    * loss of privacy;
-    * being considered weak;
-    * being removed rather than supported.
-* Prevention cannot depend solely upon a distressed person translating their crisis into institutionally acceptable language at the right moment.
+- The description may still individualise a crisis that also involved:
+  - cancelled examinations;
+  - lost rank;
+  - debt;
+  - repeated attempts;
+  - public humiliation;
+  - administrative delay;
+  - absence of remedy.
 
-⸻
+- The political dispute is often not:
 
-👨 Why Young Men May Face Elevated Fatality Risk
+> Did the person have an individual life?
 
-* The node may examine gendered fatality patterns, but it must not turn them into an exclusive account of risk.
-* Young men may face:
-    * pressure to provide;
-    * concentrated expectations of professional success;
-    * reluctance to disclose vulnerability;
-    * lower use of mental-health services;
-    * social punishment for visible distress;
-    * isolation;
-    * more lethal suicidal behaviour in some contexts.
-* Family investment may become tied to:
-    * masculine adulthood;
-    * earning capacity;
-    * marriage;
-    * parental security;
-    * family status.
-* Examination failure may then be experienced not merely as:
+- It is:
 
-I did not pass.
+> Why is the institution’s role removed from the account of that life?
 
-* But as:
+- Individual and structural explanations can coexist.
 
-I have failed the future assigned to me and the people who depended upon it.
-
-* The node should not claim:
-    * that men are inherently less resilient;
-    * that family expectations affect only sons;
-    * that masculinity alone explains suicide;
-    * that all young men experience the same pressure.
-* The relevant mechanism is the interaction between:
-    * gendered expectation;
-    * silence;
-    * scarcity;
-    * shame;
-    * support access;
-    * institutional failure.
-
-⸻
-
-🧑‍🤝‍🧑 Gendered Risk Is Not Exclusive Risk
-
-* Women, girls, queer students and gender-diverse candidates may face:
-    * academic pressure;
-    * domestic labour;
-    * restrictions on mobility;
-    * forced marriage pressure;
-    * harassment;
-    * violence;
-    * reputational control;
-    * unequal access to coaching;
-    * pressure to prove that educational investment was justified.
-* Women may survive suicidal behaviour at higher rates in some datasets while still experiencing:
-    * repeated attempts;
-    * serious injury;
-    * continuing psychiatric harm;
-    * concealed distress;
-    * family control.
-* A narrow focus on fatality can erase:
-    * non-fatal crisis;
-    * repeated risk;
-    * gendered coercion;
-    * ongoing care needs.
-* The node should distinguish:
-
-fatality pattern
-≠ total burden of suicidal distress
-higher risk in one group
-≠ absence of risk elsewhere
-
-* Gender analysis should remain intersected with:
-    * caste;
-    * class;
-    * religion;
-    * disability;
-    * sexuality;
-    * geography;
-    * family structure.
-
-⸻
-
-👨‍👩‍👦 When One Student Carries The Family Future
-
-* In a system of scarce opportunity, one student may carry more than their own aspiration.
-* Their expected success may represent:
-    * repayment of family debt;
-    * mobility out of poverty;
-    * future care for parents;
-    * education for siblings;
-    * recovery of family status;
-    * proof that years of sacrifice were worthwhile.
-* The concentration pathway may be:
-
-family investment
+```text
+personal vulnerability
+        +
+institutional pressure
         ↓
-one high-stakes candidate
+combined risk
+```
+
+---
+
+## 🪞 “The Government Says Suicide; We Say Murder”  
+
+> **The government says suicide; we say murder.**
+
+- A mother at an early protest reportedly used this formulation when discussing student deaths following the examination crisis.
+
+- The statement should be preserved because it communicates:
+  - anger;
+  - grief;
+  - refusal of individualisation;
+  - belief that the state materially contributed.
+
+- It should be attributed.
+
+- The node should not silently convert it into a legal conclusion.
+
+```text
+protest accusation
+≠ judicial finding
+
+absence of a murder finding
+≠ absence of institutional contribution
+```
+
+- The phrase is politically forceful because it argues that:
+  - administrative language makes deaths appear private;
+  - families experience the institution as an active participant in the harm;
+  - the line between omission and violence is itself contested.
+
+---
+
+## 🎬 *3 Idiots* As Cultural Recognition  
+
+- *3 Idiots* is useful here as a cultural recognition bridge.
+
+- The film depicts:
+  - educational pressure;
+  - institutional hierarchy;
+  - parental expectation;
+  - humiliation;
+  - student suicide;
+  - the moral consequences of defining worth through rank and performance.
+
+- It should not be used as evidence about:
+  - NEET;
+  - the CJP;
+  - any individual death;
+  - prevalence.
+
+- Its relevance is cultural:
+
+> A large audience already recognises the story in which institutional pressure is formally described as individual failure after the student dies.
+
+- This helps explain why movement language about:
+  - murder;
+  - stolen futures;
+  - institutional responsibility;
+
+  may resonate immediately.
+
+- The film is not a statistical source.
+- It is evidence that the social narrative was already legible.
+
+---
+
+## 🚑 Survival Is Not The End Of The Event  
+
+- A non-fatal attempt may be described as:
+
+> The student survived.
+
+- Survival may begin another period of harm.
+
+- The person may face:
+  - emergency treatment;
+  - surgery;
+  - intensive care;
+  - psychiatric assessment;
+  - long rehabilitation;
+  - chronic symptoms;
+  - stigma;
+  - interruption of education;
+  - police or legal involvement;
+  - family surveillance.
+
+- “Survived” does not mean:
+  - recovered;
+  - returned to baseline;
+  - resumed education;
+  - regained independence.
+
+```text
+non-fatal
+≠ minor
+```
+
+---
+
+## ♿ Injury And Acquired Disability  
+
+- A suicide attempt or severe crisis may result in:
+  - neurological injury;
+  - mobility impairment;
+  - chronic pain;
+  - organ damage;
+  - cognitive change;
+  - communication impairment;
+  - disfigurement;
+  - long-term psychiatric disability.
+
+- The examination pathway may then become less accessible because:
+  - centres are physically inaccessible;
+  - documentation requirements increase;
+  - travel becomes harder;
+  - treatment consumes time;
+  - previous preparation is interrupted.
+
+- The original pressure can therefore produce a new administrative problem:
+
+```text
+examination crisis
         ↓
-one examination cycle
+injury or disability
         ↓
-one ranked outcome
+greater difficulty accessing the same examination system
+```
+
+- A person may survive the crisis and then meet a system even less capable of accommodating them.
+
+---
+
+## 🧠 Psychiatric Crisis Without An Attempt  
+
+- Severe harm does not require a suicide attempt.
+
+- Candidates may experience:
+  - panic;
+  - severe depression;
+  - dissociation;
+  - insomnia;
+  - inability to eat;
+  - functional shutdown;
+  - psychiatric admission;
+  - loss of speech or concentration;
+  - inability to continue preparation.
+
+- These outcomes may:
+  - be clinically serious;
+  - interrupt education;
+  - impose family cost;
+  - remain absent from public counts.
+
+- The institution may record only:
+
+> Did not appear.
+
+- The health system may record only:
+
+> Mental-health crisis.
+
+- The combined causal story can disappear between systems.
+
+---
+
+## 🏠 Families Carry The Continuing Harm  
+
+- After death, injury or crisis, families may carry:
+  - grief;
+  - guilt;
+  - medical costs;
+  - funeral costs;
+  - debt;
+  - lost income;
+  - care work;
+  - legal work;
+  - media attention;
+  - conflict over attribution.
+
+- A parent may leave employment to provide care.
+- A sibling may leave education.
+- A household may lose the future income it expected from the candidate.
+
+- Family harm can continue for:
+  - months;
+  - years;
+  - generations.
+
+```text
+individual crisis
         ↓
-the imagined future of several people
-
-* This can produce:
-    * intense encouragement;
-    * fear;
-    * monitoring;
-    * pressure;
-    * coercion;
-    * conditional acceptance.
-* Families should not be reduced to villains.
-* Many are responding to:
-    * scarcity;
-    * weak welfare systems;
-    * insecure employment;
-    * expensive education;
-    * the absence of alternative pathways.
-* At the same time, structural explanation must not excuse:
-    * abuse;
-    * humiliation;
-    * violence;
-    * threats;
-    * treatment of a child as an investment vehicle.
-* The useful formulation is:
-
-The system may concentrate family hope onto one student, and families may transmit that pressure in ways ranging from loving sacrifice to serious harm.
-
-⸻
-
-💰 Compensation Must Include Living Harm
-
-* Compensation is often discussed only in relation to bereaved families.
-* Bereavement compensation may recognise:
-    * funeral costs;
-    * lost expected support;
-    * family debt;
-    * institutional responsibility;
-    * the moral seriousness of the failure.
-* But a complete repair framework should also consider:
-    * emergency medical treatment;
-    * rehabilitation;
-    * disability;
-    * psychological care;
-    * family caregiving;
-    * lost work;
-    * delayed education;
-    * housing adaptation;
-    * legal costs;
-    * continuing treatment.
-* The principle is:
-
-death is not the only material harm
-survival does not make care free
-
-* Possible categories should remain distinct:
-    * immediate emergency support;
-    * medical-cost reimbursement;
-    * rehabilitation funding;
-    * disability support;
-    * educational restoration;
-    * family income support;
-    * damages;
-    * ex gratia payment;
-    * statutory compensation.
-* A compensation scheme should be tested for:
-    * eligibility;
-    * evidentiary burden;
-    * speed;
-    * proportionality;
-    * accessibility;
-    * waiver clauses;
-    * confidentiality;
-    * actual delivery.
-
-⸻
-
-⚖️ Compensation Is A Justice Demand, Not Charity
-
-* The CJP’s ₹1 crore demand should be understood as a demand to redistribute cost.
-* The movement’s argument was not merely:
-
-These families are suffering and deserve kindness.
-
-* It was closer to:
-
-Families should not carry alone the cost of deaths linked by the movement to a public examination system that failed its candidates.
-
-* Compensation can perform several functions:
-    * emergency assistance;
-    * acknowledgement;
-    * redistribution of cost;
-    * recognition of institutional contribution;
-    * deterrence;
-    * material support for surviving dependants.
-* It cannot:
-    * restore a life;
-    * prove one legal cause;
-    * replace reform;
-    * guarantee prevention;
-    * make every family’s loss commensurable.
-* The government later agreed to compensate families of students who died by suicide following the NEET crisis, according to reporting on the negotiated settlement. The exact eligibility criteria, amount, payment mechanism and delivery still require verification. (Reuters)
-
-⸻
-
-🏫 Prevention Is Also An Institutional Duty
-
-* Institutional responsibility should not begin after a death.
-* Prevention may include:
-    * secure examination administration;
-    * predictable calendars;
-    * rapid remedies after leaks;
-    * protection of attempts and age eligibility;
-    * fee refunds;
-    * counselling;
-    * crisis referral;
-    * grievance systems;
-    * protection from retaliation;
-    * regulation of coaching environments;
-    * trained staff;
-    * safer communication after cancellation.
-* The CJP charter explicitly linked welfare to structural examination reform rather than treating counselling as the entire answer. (Cockroach Janta Party Official Website)
-* That distinction matters:
-
-counselling without institutional reform
-→ helps candidates tolerate the same pressure
-institutional reform without care
-→ ignores people already harmed
-prevention requires both
-
-* Mental-health provision should not be used to:
-    * depoliticise legitimate grievance;
-    * frame protest as pathology;
-    * return students quickly to the same unsafe conditions;
-    * place all responsibility on individual coping.
-
-⸻
-
-🩹 Care After Crisis
-
-* After an acute crisis, support may need to include:
-    * immediate medical care;
-    * psychiatric follow-up;
-    * continuity of medication;
-    * trauma-informed support;
-    * educational leave;
-    * protected re-entry;
-    * accommodation;
-    * family assistance;
-    * confidentiality;
-    * financial help.
-* The student should not have to choose between:
-    * treatment;
-    * preserving educational status;
-    * protecting future professional eligibility;
-    * keeping the event private.
-* Institutions should clarify:
-    * what is recorded;
-    * who can access the record;
-    * whether disclosure affects eligibility;
-    * how return is assessed;
-    * what accommodations follow.
-* Care should support life and recovery.
-* It should not become another system of punishment or surveillance.
-
-⸻
-
-🌉 A Recognition Bridge, Not A Documentary
-
-* 3 Idiots is useful because many readers recognise:
-    * rank pressure;
-    * family expectation;
-    * institutional rigidity;
-    * humiliation;
-    * the difference between fatal and non-fatal crisis.
-* The film should be framed as:
-
-cultural recognition bridge
-not
-case evidence
-
-* It can help readers understand why:
-    * survival may involve severe continuing harm;
-    * pressure is distributed through families and institutions;
-    * different students respond differently to similar environments.
-* It cannot establish:
-    * how many NEET candidates experienced suicidal crisis;
-    * why a particular person died;
-    * whether the fictional institution maps exactly onto the NTA;
-    * contemporary legal or clinical standards.
-* Copyright and attribution should be handled carefully:
-    * summarise rather than reproduce dialogue extensively;
-    * credit the film;
-    * separate interpretation from plot fact;
-    * warn readers before discussing pivotal scenes.
-
-⸻
-
-🗣️ Language Rules For Reporting Suicide
-
-* Prefer:
-    * “died by suicide”;
-    * “non-fatal suicide attempt” where appropriate;
-    * “suicidal crisis”;
-    * “family linked the death to…”;
-    * “the movement attributed…”;
-    * “reported after…”;
-    * “may have contributed”.
-* Avoid:
-    * “committed suicide” where a less criminalising formulation is available;
-    * “successful” or “failed” attempt;
-    * “epidemic” without evidence;
-    * “attention-seeking”;
-    * “copycat” unless used carefully within established research;
-    * romantic or heroic language;
-    * detailed descriptions of method;
-    * simplistic causal headlines.
-* Headlines should not say:
-    * “exam caused suicide”;
-    * “student killed self over marks”;
-    * “one result drove student to death”;
-    unless the evidentiary basis truly supports a causal claim of that strength.
-* Reporting should include support information where appropriate and locally relevant.
-
-⸻
-
-📋 Building A Case Register
-
-* The final node should not rely on a single movement total.
-* A private research register may include:
-
-Field	What To Record
-Name or protected identifier	According to publication-risk decision
-Age	Verified where possible
-Date	Date of death or crisis
-Place	City, state and relevant institution
-Examination connection	NEET, another examination, recruitment or unclear
-Temporal relationship	Before result, after cancellation, after rerun, other
-Earliest source	Primary or earliest reliable report
-Family account	Exact attribution
-Official account	Police, institution or government
-Movement account	How CJP or others described the case
-Other known pressures	Only where responsibly documented
-Causal confidence	Confirmed contribution, reported link, unresolved
-Publication status	Public, anonymised, restricted or withheld
-
-* The register should not be published automatically.
-* Some details may need to remain restricted because:
-    * families did not consent;
-    * reporting is weak;
-    * the person was a minor;
-    * the detail creates identification risk;
-    * publication would add little public value.
-
-⸻
-
-⚠️ What This Node Should Not Claim
-
-* Do not claim that:
-    * NEET alone caused every reported death;
-    * every suicide after the paper leak belonged to the same causal pattern;
-    * compensation proves legal liability;
-    * one fictional film explains real suicides;
-    * only fatal cases deserve institutional attention;
-    * men are the only group at serious risk;
-    * families are always either supportive or abusive;
-    * counselling alone can repair examination governance;
-    * public protest necessarily prevents suicide;
-    * a survivor has recovered because they returned to education.
-* Do not infer:
-    * diagnosis;
-    * motive;
-    * family dynamics;
-    * intent;
-    * institutional causation;
-    from a short news report.
-* Do not reproduce:
-    * suicide notes beyond what is strictly necessary and ethical;
-    * methods;
-    * private family photographs;
-    * sensational video;
-    * unsupported social-media claims.
-
-⸻
-
-🪜 Evidence And Research Needs
-
-* Build a verified list of:
-    * deaths CJP connected to NEET;
-    * dates and locations;
-    * original reports;
-    * official statements;
-    * family accounts;
-    * known examination relationship.
-* Verify:
-    * the basis for the movement’s figure of 11 deaths in one week;
-    * whether all cases followed the NEET paper leak;
-    * whether every person was a registered NEET candidate;
-    * whether some reports duplicated the same case;
-    * how many families qualified for compensation;
-    * what compensation was formally promised;
-    * whether payments were delivered.
-* Research:
-    * India-specific suicide reporting guidance;
-    * relevant national and state data;
-    * student and aspirant mental-health provision;
-    * coaching-hub counselling requirements;
-    * institutional crisis protocols;
-    * non-fatal attempt and disability support;
-    * educational restoration after hospitalisation.
-* Source separately:
-    * gendered fatality patterns;
-    * young-adult risk;
-    * family pressure;
-    * effects of examination uncertainty;
-    * long-term consequences after non-fatal attempts.
-* Do not use national suicide statistics as proof of the Cockroach case’s specific causal claims.
-
-⸻
-
-🧪 Rival Explanations And Disproof Conditions
-
-The Examination Link May Be Weaker In Some Cases
-
-* Some deaths may have involved:
-    * pre-existing illness;
-    * family conflict;
-    * financial hardship;
-    * relationship problems;
-    * other examinations;
-    * unrelated acute events.
-* Those factors do not make the death less serious.
-* They may make a strong examination-causation claim inappropriate.
-
-Movement Totals May Combine Different Categories
-
-* The reported figure may include:
-    * registered NEET candidates;
-    * other aspirants;
-    * deaths after the crisis but not directly linked;
-    * cases reported by families;
-    * cases inferred from media coverage.
-* The final node should narrow totals where verification requires it.
-
-Public Attention May Distort Which Cases Become Visible
-
-* Cases involving:
-    * identifiable institutions;
-    * dramatic timing;
-    * accessible families;
-    * urban reporting;
-    * social-media material
-    may receive more attention.
-* Less visible harm may remain undocumented.
-
-Compensation May Be Humanitarian Rather Than An Admission
-
-* Government payment may be:
-    * ex gratia;
-    * negotiated;
-    * humanitarian;
-    * politically responsive;
-    * legally non-admissive.
-* The node should record the formal status rather than infer liability from payment alone.
-
-Counselling May Help Even Without Structural Reform
-
-* Clinical care can save lives and reduce harm.
-* It should not be dismissed because it does not transform the examination system.
-* The better formulation is:
-    * provide care now;
-    * reform the conditions producing avoidable crisis;
-    * do not use either response to avoid the other.
-
-Not Every Severe Outcome Becomes A Movement Claim
-
-* Some students and families may not wish:
-    * to be associated with the movement;
-    * to have the death politicised;
-    * to have private clinical details published.
-* Their autonomy should be preserved.
-
-⸻
-
-➡️ From Human Harm To Merit
-
-* This node establishes that:
-    * examination pressure can contribute to several forms of severe harm;
-    * death is not the only outcome that matters;
-    * survival may involve continuing injury and cost;
-    * institutional contribution can be examined without inventing one simple cause;
-    * compensation should recognise living harm as well as bereavement;
-    * prevention requires both care and structural reform.
-* The next node steps back from acute crisis to ask:
-
-Why are the outcomes of this examination treated as a morally legitimate account of who deserves opportunity in the first place?
-
-* Continue to:
-
-📊 Merit Is A Social Claim
-
-⸻
-
-🧷 Compact Finding
-
-The pressure can end in death, but death is not the only severe outcome.
-
-A responsible account must recognise suicide as complex while still examining how examination failure, scarcity, family expectation and institutional rigidity may intensify risk. It must also count the people who survive with injury, disability, interrupted education and continuing care—because survival does not make the cost disappear.
-
-⸻
-
-🌌 Constellations
-
-🪔 🧠 🏥 👨‍👩‍👦 💰 — remembrance; suicide prevention; survival; living harm; family care; compensation; institutional responsibility.
-
-⸻
-
-✨ Stardust
-
-student suicide, NEET aspirants, suicide prevention, non-fatal attempts, living harm, family pressure, examination stress, compensation, aspirant welfare, mental-health counselling, disability, institutional contribution, Three Idiots
-
-⸻
-
-🏮 Footer
-
-🪔 The Pressure Can End In More Than One Way is a living case-study node of the Polaris Protocol.
-It examines fatal and non-fatal harm associated with high-pressure examination systems while preserving careful boundaries between chronology, institutional contribution and case-specific causation.
-
-📡 Cross-references:
-
-* 🌑 The System Becomes Intolerable — how accumulated institutional harm became a shared political grievance
-* 🎓 Students Have Lives — the bodies, families and responsibilities concealed by the candidate record
-* 💊 When Performance Becomes A Clinical Problem — how institutional pressure becomes routed through diagnosis and the body
-* 📊 Merit Is A Social Claim — the unequal conditions beneath apparently neutral rank
-* 📋 Demands As Diagnosis — why compensation and welfare formed part of the movement’s repair programme
-* 🌘 Compensation Is Material Repair — whether promised compensation recognised and redistributed the actual cost of harm
-* 🌘 Reform Only Exists When It Is Implemented — whether welfare and prevention commitments became operational
-
-Survivor authorship is sovereign. Containment is never neutral.
-
-Last updated: 2026-07-27
+household reorganisation
+```
+
+- The public system may count:
+  - one candidate;
+  - one death;
+  - one payment.
+
+- The family may experience:
+  - an altered life structure.
+
+---
+
+## 💰 Compensation And What It Can Mean  
+
+- Compensation may:
+  - recognise harm;
+  - pay immediate costs;
+  - reduce debt;
+  - signal public responsibility;
+  - support surviving dependants.
+
+- It cannot:
+  - restore a life;
+  - erase disability;
+  - establish every causal question;
+  - reform the examination system.
+
+- The CJP’s compensation demand should therefore be read as both:
+  - material;
+  - diagnostic.
+
+```text
+compensation
+→ the cost should not remain entirely private
+```
+
+- Payment design should ask:
+  - who qualifies;
+  - whether non-fatal harm qualifies;
+  - whether medical costs are covered;
+  - whether long-term disability is recognised;
+  - whether accepting payment waives rights;
+  - whether the process is accessible.
+
+---
+
+## ⚖️ Causation Is Layered  
+
+- Causation may be analysed at several levels.
+
+### Immediate Mechanism  
+
+- What physically happened?
+
+### Clinical Context  
+
+- What symptoms, diagnoses or prior risks existed?
+
+### Precipitating Events  
+
+- What happened shortly before the crisis?
+
+### Institutional Context  
+
+- What examination, financial or administrative pressures were present?
+
+### Social Context  
+
+- What family, caste, class, gender or employment conditions shaped options?
+
+### Legal Causation  
+
+- Is the connection sufficient for a particular legal duty or remedy?
+
+- These levels should not be collapsed.
+
+```text
+multiple contributing factors
+≠ no cause can be discussed
+```
+
+- A good case analysis can say:
+  - the examination crisis was reported as a precipitating factor;
+  - the family attributed substantial responsibility;
+  - official findings remain limited;
+  - other factors may also have contributed.
+
+---
+
+## 🧮 Attribution Is Not One Binary Decision  
+
+- Public arguments often become:
+
+```text
+the institution caused it
+or
+the institution had nothing to do with it
+```
+
+- Real attribution may be:
+  - partial;
+  - cumulative;
+  - uncertain;
+  - different for each case.
+
+- Useful categories include:
+  - no established connection;
+  - temporal connection only;
+  - participant or family attribution;
+  - plausible contributing factor;
+  - documented precipitating event;
+  - official causal finding;
+  - legal liability.
+
+- A case register should record the strongest supported category rather than forcing every death into one binary claim.
+
+---
+
+## 🏛️ Institutional Responsibility Does Not Require Intent  
+
+- An institution may contribute to harm without intending it.
+
+- Responsibility may arise from:
+  - foreseeable pressure;
+  - repeated known failures;
+  - absence of remedy;
+  - unreasonable delay;
+  - inaccessible support;
+  - failure to learn from prior cases.
+
+- Lack of intent matters legally and morally.
+
+- It does not settle whether:
+  - the design was negligent;
+  - risk was ignored;
+  - repair was adequate.
+
+```text
+no intention to harm
+≠ no responsibility for foreseeable harm
+```
+
+---
+
+## 📣 Why Movements Use Stronger Language  
+
+- Movements may use words such as:
+  - murder;
+  - stolen future;
+  - blood on your hands;
+  - institutional killing.
+
+- Such language can:
+  - break through bureaucratic euphemism;
+  - express family experience;
+  - force political attention;
+  - reject private blame.
+
+- It can also:
+  - exceed established evidence;
+  - create legal risk;
+  - flatten clinical complexity;
+  - alienate some readers.
+
+- A newsroom-facing node should preserve:
+  - the quote;
+  - the speaker;
+  - the context;
+  - the evidentiary boundary.
+
+- It should neither:
+  - sanitise the protest language;
+  - nor adopt it as an unqualified factual conclusion.
+
+---
+
+## 🧑‍⚕️ Care Must Not Become Containment  
+
+- After severe distress, institutions may respond through:
+  - counselling;
+  - psychiatric referral;
+  - risk monitoring;
+  - leave;
+  - family notification.
+
+- These may be necessary.
+
+- Care becomes containment when it is used primarily to:
+  - remove the person from view;
+  - protect institutional reputation;
+  - secure compliance;
+  - avoid examining the precipitating conditions.
+
+```text
+support the person
+≠ silence the grievance
+```
+
+- Clinical care and institutional investigation should be able to proceed together.
+
+---
+
+## 🔄 Returning To Education  
+
+- A person surviving crisis may wish to:
+  - resume preparation;
+  - sit another examination;
+  - change course;
+  - leave the pathway.
+
+- A humane system should provide:
+  - preserved eligibility;
+  - protected attempts;
+  - reasonable adjustments;
+  - phased return;
+  - transfer routes;
+  - no forced disclosure beyond necessity.
+
+- Recovery should not be measured only by:
+
+> Did the student return to the same productivity level?
+
+- A person may recover by choosing a different life.
+
+---
+
+## 🕯️ Memorialisation Is Not Repair  
+
+- Vigils, tributes and condolence statements may:
+  - honour the dead;
+  - support families;
+  - create collective witness.
+
+- They do not by themselves:
+  - establish facts;
+  - compensate families;
+  - change examination design;
+  - prevent recurrence.
+
+```text
+remembrance
+≠ accountability
+```
+
+- Institutions should not use mourning language to close the political question.
+
+---
+
+## 🧭 What A Humane System Would Count  
+
+- A humane system would count:
+  - deaths;
+  - attempts;
+  - self-harm;
+  - psychiatric crises;
+  - injury;
+  - disability;
+  - interrupted education;
+  - long-term care;
+  - family cost.
+
+- It would distinguish:
+  - confirmed cases;
+  - reported cases;
+  - attributed cases;
+  - unresolved cases.
+
+- It would not use data collection to:
+  - invade privacy;
+  - criminalise distress;
+  - create punitive records.
+
+- The purpose should be:
+  - prevention;
+  - support;
+  - institutional learning;
+  - repair.
+
+---
+
+## ⚠️ What This Node Should Not Claim  
+
+- Do not claim that:
+  - every student death after an examination crisis was caused by that crisis;
+  - every self-harm event involved suicidal intent;
+  - every survivor becomes disabled;
+  - mental illness makes institutional factors irrelevant;
+  - institutional contribution establishes murder;
+  - compensation proves legal liability;
+  - *3 Idiots* is evidence about an individual case;
+  - all families agree on attribution;
+  - public counting justifies violating privacy.
+
+- Keep distinct:
+  - death;
+  - manner of death;
+  - attempt;
+  - self-harm;
+  - ideation;
+  - injury;
+  - disability;
+  - family attribution;
+  - clinical opinion;
+  - legal finding;
+  - movement claim.
+
+- The strongest defensible finding is:
+
+> Examination pressure can materially contribute to a range of fatal and non-fatal harms. Each case requires careful attribution, but uncertainty about single causation does not justify ignoring institutional contribution or the continuing cost carried by survivors and families.
+
+---
+
+## 🪜 Evidence And Research Needs  
+
+- Build a case register recording:
+  - person;
+  - age;
+  - date;
+  - location;
+  - examination or recruitment process;
+  - reported outcome;
+  - source;
+  - family statement;
+  - movement attribution;
+  - official finding;
+  - clinical evidence where lawfully available;
+  - compensation;
+  - continuing family needs.
+
+- Preserve:
+  - exact wording;
+  - whether the source says “suicide,” “attempt,” “self-harm” or “death”;
+  - translation choices;
+  - uncertainty.
+
+- Research:
+  - non-fatal attempts;
+  - injury and disability;
+  - psychiatric admissions;
+  - educational interruption;
+  - family costs;
+  - compensation criteria;
+  - support pathways;
+  - recurrence prevention.
+
+- Distinguish:
+
+```text
+fact
+≠ report
+≠ family attribution
+≠ movement claim
+≠ analytical inference
+≠ legal finding
+```
+
+---
+
+## 🧪 Rival Explanations And Disproof Conditions  
+
+### The Examination Crisis May Not Have Been The Main Cause  
+
+- Some cases may involve:
+  - longstanding illness;
+  - unrelated personal events;
+  - family conflict;
+  - other financial pressure.
+
+- The analysis should narrow where evidence does not support substantial examination contribution.
+
+### Family Attribution May Differ From Clinical Evidence  
+
+- Families may understand a crisis through the most visible recent event.
+- Clinicians may identify a longer history.
+
+- Neither should automatically erase the other.
+
+### Movement Counts May Include Weakly Linked Cases  
+
+- Urgent political communication may aggregate cases with different evidence strengths.
+
+- The remedy is:
+  - case-level verification;
+  - not automatic dismissal of the whole pattern.
+
+### Official Records May Understate Institutional Context  
+
+- Death records may accurately state manner of death while saying little about:
+  - precipitating events;
+  - administrative pressure;
+  - family interpretation.
+
+### Non-Fatal Harm May Be Underreported  
+
+- Families and survivors may avoid disclosure because of:
+  - stigma;
+  - privacy;
+  - legal risk;
+  - fear of educational consequences.
+
+- Low recorded prevalence may not equal low actual prevalence.
+
+### Compensation May Be Offered For Political Reasons  
+
+- Payment may reflect:
+  - sympathy;
+  - negotiation;
+  - pressure;
+  - risk management.
+
+- It should not automatically be treated as a complete causal admission.
+
+---
+
+## ➡️ From Harm To Merit  
+
+- This node establishes that:
+  - pressure has multiple outcomes;
+  - death is not the only severe harm;
+  - survival may create long-term disability and family cost;
+  - causation can be complex without being absent;
+  - public language and legal findings must remain distinct.
+
+- The next node asks why the allocation system can describe these outcomes as individual failure while continuing to call its winners meritorious.
+
+- Continue to:
+
+[📊 Merit Is A Social Claim](./📊_merit_is_a_social_claim.md)
+
+---
+
+## 🧷 Compact Finding  
+
+The pressure can end in more than one way.
+
+Some people die. Some survive attempts with injury or disability. Some enter psychiatric crisis, leave education or require years of care. Families may carry grief, debt and dependency long after the examination authority has closed the file.
+
+Complex causation should prevent simplistic claims. It should not erase institutional contribution. A humane system counts non-fatal harm, preserves careful attribution and treats survival as the beginning of possible repair rather than proof that the crisis was minor.
+
+---
+
+## 🌌 Constellations  
+
+🪔 🕯️ 🚑 ♿ 🧠 🏠 💰 ⚖️ — suicide; self-harm; non-fatal attempts; injury; disability; psychiatric crisis; family harm; compensation; causation; institutional responsibility.
+
+---
+
+## ✨ Stardust  
+
+died by suicide, suicide attempt, non-fatal attempt, self-harm, suicidal thoughts, institutional contribution, causal contribution, proximate cause, protest language, murder accusation, compensation, ex gratia payment, injury, acquired disability, psychiatric crisis, family harm, 3 Idiots, diya, remembrance
+
+---
+
+## 🏮 Footer  
+
+*🪔 The Pressure Can End In More Than One Way* is a living case-study node of the **Polaris Protocol**.  
+It records fatal, non-fatal and continuing harms associated with examination pressure while preserving the distinctions between report, attribution, clinical context, analytical inference and legal causation.
+
+> 📡 Cross-references:
+>
+> - [🌑 The System Becomes Intolerable](./README.md) — *how examination failure accumulated into intolerable pressure*  
+> - [🛰️ The Immediate Crisis](./🛰️_the_immediate_crisis.md) — *the chronology, actors and reported student deaths*  
+> - [🎓 Students Have Lives](./🎓_students_have_lives.md) — *the bodies, families, work and grief hidden by candidate records*  
+> - [💊 When Performance Becomes A Clinical Problem](./💊_when_performance_becomes_a_clinical_problem.md) — *the interaction of clinical need and institutional pressure*  
+> - [📊 Merit Is A Social Claim](./📊_merit_is_a_social_claim.md) — *how success and failure are socially interpreted*  
+> - [📋 Demands As Diagnosis](./📋_demands_as_diagnosis.md) — *how death, family harm and welfare became compensation and reform demands*  
+> - [💰 Compensation Is Material Repair](../🌘_Did_The_System_Become_Tolerable/💰_compensation_is_material_repair.md) — *whether promised payments recognised real family costs*  
+> - [🏛️ Reform Only Exists When It Is Implemented](../🌘_Did_The_System_Become_Tolerable/🏛️_reform_only_exists_when_it_is_implemented.md) — *whether later reform reduced recurrence and created real support*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-07-27_
