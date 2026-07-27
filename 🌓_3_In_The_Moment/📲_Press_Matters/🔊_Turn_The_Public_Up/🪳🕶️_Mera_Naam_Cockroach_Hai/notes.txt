@@ -1,3 +1,1122 @@
+# 🪳🕶️ Mera Naam Cockroach Hai — Possible Node Inventory
+
+**Working purpose:** a deliberately over-inclusive inventory of every substantial node, subcluster or title variant proposed in the conversation, resorted beneath the current lean file structure.
+
+This is **not** a commitment to create every file. It is a parking map for editing, merging, renaming, moving or deleting ideas together.
+
+Naming follows the current convention:
+
+- folders use capitalised words;
+- terminal Markdown files use lower-case words;
+- no numerical or alphabetical prefixes;
+- title variants are preserved rather than silently discarded.
+
+---
+
+# Root
+
+```text
+🪳🕶️_Mera_Naam_Cockroach_Hai/
+├── README.md
+├── notes.txt
+├── 🪳_the_cockroach_at_a_glance.md
+├── 🌑_The_System_Becomes_Intolerable/
+├── 🌒_The_Public_Comes_Outside/
+├── 🌕_What_The_Movement_Was_Up_Against/
+├── 🌘_Did_The_System_Become_Tolerable/
+├── 🗞️_For_Readers_And_Newsrooms/
+└── 🧭_Reusable_Findings/
+```
+
+## Root-level possible nodes
+
+- `🛰️_orientation.md`
+- `🗓️_chronology.md`
+- `👥_actors_and_institutions.md`
+- `📋_the_three_demands.md`
+- `📰_reporting_and_publication_pathway.md`
+- `⚖️_legal_and_administrative_pressure.md`
+- `📣_public_circulation.md`
+- `🪜_evidence_and_confidence.md`
+- `🧪_rival_explanations.md`
+- `📚_sources_and_reading.md`
+- `🧷_compact_finding.md`
+- `🪶_authors_note.md`
+
+## Cockroach-at-a-glance possible expansions
+
+- `🗣️_the_name.md`
+- `🪳_why_a_cockroach.md`
+- `🕶️_why_the_sunglasses_matter.md`
+- `🎭_reclaiming_the_insult.md`
+- `📦_political_compression.md`
+- `📲_how_it_travels.md`
+- `🚪_different_ways_to_participate.md`
+- `🧠_what_the_symbol_can_tell_us.md`
+- `⚠️_what_the_symbol_cannot_tell_us.md`
+- `🪜_evidence_notes.md`
+- `🌏_a_meme_can_travel_without_preserving_one_meaning.md`
+- `🪳_the_cockroach_crosses_platforms.md`
+- `🪳_why_this_particular_meme_could_travel.md`
+- `🪳_this_is_not_just_a_mascot.md`
+
+---
+
+# 🌑 The System Becomes Intolerable
+
+```text
+🌑_The_System_Becomes_Intolerable/
+└── README.md
+```
+
+## Immediate crisis and factual spine
+
+- `🛰️_what_happened.md`
+- `🗓️_chronology.md`
+- `👥_actors_and_institutions.md`
+- `📋_the_three_demands.md`
+- `📰_reporting_and_publication_pathway.md`
+- `⚖️_legal_and_administrative_pressure.md`
+- `📣_public_circulation.md`
+- `🪜_evidence_and_confidence.md`
+- `🧪_rival_explanations.md`
+- `🧷_compact_finding.md`
+
+## The examination allocates a future
+
+- `🚪_the_exam_allocates_a_future.md`
+- `📊_marks_are_not_the_same_as_rank.md`
+- `📊_rank_turns_error_into_displacement.md`
+- `📉_when_one_cheat_displaces_another_student.md`
+- `🧨_a_paper_leak_is_a_legitimacy_crisis.md`
+- `🧨_the_paper_leak_broke_the_merit_claim.md`
+- `📊_why_non-attendance_is_not_neutral.md`
+- `🧰_redundancy_is_not_lowered_standards.md`
+- `🪜_democratisation_without_abundance.md`
+- `🏭_the_best_supported_are_not_always_the_best.md`
+- `🧠_talent_is_a_public_resource.md`
+- `📊_rank_is_not_just_a_number.md`
+- `🏫_the_institution_refuses_to_bend.md`
+- `🧠_when_failure_becomes_personal_worth.md`
+
+### Possible subcluster
+
+```text
+🎓_This_Was_Not_Just_A_Bad_Exam/
+├── 🚪_the_exam_allocates_a_future.md
+├── 📊_marks_are_not_the_same_as_rank.md
+├── 📉_when_one_cheat_displaces_another_student.md
+├── 🧨_a_paper_leak_is_a_legitimacy_crisis.md
+├── 🗾_the_japanese_entrance_exam_comparison.md
+└── 🇬🇧_the_ucat_thought_experiment.md
+```
+
+## The system can fail but the student cannot
+
+- `⚖️_the_system_can_fail_but_the_student_cannot.md`
+- `⏰_two_minutes_and_an_entire_future.md`
+- `⏱️_a_future_should_not_ride_on_two_minutes.md`
+- `🚪_the_gate_closed.md`
+- `🛞_the_flat_tyre.md`
+- `🧾_rules_discretion_and_exception_pathways.md`
+- `👨‍👧_why_her_father_was_begging.md`
+- `⚙️_procedural_compassion_is_not_structural_compassion.md`
+- `🚪_a_humane_system_needs_more_than_one_door.md`
+
+### Possible subcluster
+
+```text
+⏰_Two_Minutes_And_An_Entire_Future/
+├── 🚪_the_gate_closed.md
+├── 🛞_the_flat_tyre.md
+├── 📊_why_non-attendance_is_not_neutral.md
+├── ⚖️_the_system_can_fail_but_the_student_cannot.md
+├── 🧾_rules_discretion_and_exception_pathways.md
+└── 👨‍👧_why_her_father_was_begging.md
+```
+
+## Students are people
+
+- `🧑_students_have_lives.md`
+- `🧑_students_are_people.md`
+- `🧑_the_human_cost_of_the_allocation_system.md`
+- `🧾_extenuating_circumstances_are_a_historical_achievement.md`
+- `🧑_young_adults_not_assessment_units.md`
+- `👨‍👩‍👧_parents_are_responding_to_the_allocation_system.md`
+- `📊_the_university_is_optimising_for_something.md`
+- `🏫_when_charitable_status_meets_the_education_market.md`
+- `👴_every_generation_thinks_the_young_have_it_easy.md`
+- `🌹_rose-tinted_struggle.md`
+- `📈_more_access_more_competition.md`
+- `💷_hierarchy_can_be_profitable_and_still_be_wasteful.md`
+- `🗳️_capable_citizens_are_harder_to_manage.md`
+
+### Possible subcluster
+
+```text
+🎓_Students_Have_Lives/
+├── 🧾_extenuating_circumstances_are_a_historical_achievement.md
+├── ⚙️_procedural_compassion_is_not_structural_compassion.md
+├── 📊_the_university_is_optimising_for_something.md
+├── 🧑_young_adults_not_assessment_units.md
+├── 🏫_when_charitable_status_meets_the_education_market.md
+└── 🚪_a_humane_system_needs_more_than_one_door.md
+```
+
+## Performance becomes a clinical problem
+
+- `💊_when_performance_becomes_a_clinical_problem.md`
+- `🧠_adhd_is_real_and_the_pressure_is_also_real.md`
+- `📈_performance_pharmacology.md`
+- `🧪_the_non-medical_stimulant_myth.md`
+- `🏫_the_institution_sends_the_child_to_the_doctor.md`
+- `🧾_diagnosis_as_a_ticket_to_accommodation.md`
+- `🧬_where_biohacking_meets_examination_culture.md`
+- `🧨_the_real_grievance_inside_the_conspiracy.md`
+- `💊_the_body_has_always_been_asked_to_keep_up.md`
+- `🩺_cocaine_and_the_modern_surgeon.md`
+- `✍️_the_chemistry_of_creative_output.md`
+- `⚙️_performance_pharmacology_is_not_new.md`
+- `📊_what_the_institution_can_count.md`
+- `🦸_the_myth_of_the_tireless_professional.md`
+- `🛑_when_exhaustion_is_treated_as_a_defect.md`
+
+### Possible nested clusters
+
+```text
+💊_When_Performance_Becomes_A_Clinical_Problem/
+├── 🧠_adhd_is_real_and_the_pressure_is_also_real.md
+├── 📈_performance_pharmacology.md
+├── 🧪_the_non-medical_stimulant_myth.md
+├── 🏫_the_institution_sends_the_child_to_the_doctor.md
+├── 🧾_diagnosis_as_a_ticket_to_accommodation.md
+├── 🧬_where_biohacking_meets_examination_culture.md
+└── 🧨_the_real_grievance_inside_the_conspiracy.md
+
+💊_The_Body_Has_Always_Been_Asked_To_Keep_Up/
+├── 🩺_cocaine_and_the_modern_surgeon.md
+├── ✍️_the_chemistry_of_creative_output.md
+├── ⚙️_performance_pharmacology_is_not_new.md
+├── 📊_what_the_institution_can_count.md
+├── 🦸_the_myth_of_the_tireless_professional.md
+└── 🛑_when_exhaustion_is_treated_as_a_defect.md
+```
+
+## Suicide, survival and compensation
+
+- `🕯️_the_pressure_can_end_in_more_than_one_way.md`
+- `⚠️_content_and_plot_warning.md`
+- `⚠️_spoiler_and_content_warning.md`
+- `🎬_if_you_have_seen_three_idiots.md`
+- `🎬_joy_and_raju_are_different_outcomes.md`
+- `🕯️_the_suicide_story.md`
+- `🏥_survival_is_not_the_end_of_the_harm.md`
+- `👨_why_young_men_are_at_high_risk_of_fatality.md`
+- `🧑‍🤝‍🧑_gendered_risk_is_not_exclusive_risk.md`
+- `👨‍👩‍👦_when_one_student_carries_the_family_future.md`
+- `💰_compensation_must_include_living_harm.md`
+- `💰_why_compensation_is_a_justice_demand.md`
+- `🏫_prevention_is_also_an_institutional_duty.md`
+- `🌉_a_recognition_bridge_not_a_documentary.md`
+
+### Possible subclusters
+
+```text
+🕯️_The_Pressure_Can_End_In_More_Than_One_Way/
+├── ⚠️_content_and_plot_warning.md
+├── 🎬_joy_and_raju_are_different_outcomes.md
+├── 🏥_survival_is_not_the_end_of_the_harm.md
+├── 👨_why_young_men_are_at_high_risk_of_fatality.md
+├── 🧑‍🤝‍🧑_gendered_risk_is_not_exclusive_risk.md
+├── 👨‍👩‍👦_when_one_student_carries_the_family_future.md
+├── 💰_compensation_must_include_living_harm.md
+└── 🏫_prevention_is_also_an_institutional_duty.md
+
+🎬_If_You_Have_Seen_Three_Idiots/
+├── ⚠️_spoiler_and_content_warning.md
+├── 📊_rank_is_not_just_a_number.md
+├── 🏫_the_institution_refuses_to_bend.md
+├── 🧠_when_failure_becomes_personal_worth.md
+├── 🕯️_the_suicide_story.md
+├── 💰_why_compensation_is_a_justice_demand.md
+└── 🌉_a_recognition_bridge_not_a_documentary.md
+```
+
+## Merit and unequal preparation
+
+- `📊_merit_is_a_social_claim.md`
+- `📊_merit_after_an_unequal_starting_line.md`
+- `🏫_the_exam_starts_long_before_the_exam.md`
+- `💷_who_could_afford_to_prepare.md`
+- `🌐_who_had_the_connection.md`
+- `🧑‍🏫_who_had_the_coaching.md`
+- `🧱_who_had_to_overcome_caste.md`
+- `🧨_then_the_paper_leaked.md`
+- `⚖️_corruption_did_not_enter_a_neutral_system.md`
+- `🪪_merit_as_a_government_claim.md`
+
+### Possible subcluster
+
+```text
+📊_Merit_Is_A_Social_Claim/
+├── 🏫_the_exam_starts_long_before_the_exam.md
+├── 💷_who_could_afford_to_prepare.md
+├── 🌐_who_had_the_connection.md
+├── 🧑‍🏫_who_had_the_coaching.md
+├── 🧱_who_had_to_overcome_caste.md
+├── 🧨_then_the_paper_leaked.md
+└── ⚖️_corruption_did_not_enter_a_neutral_system.md
+```
+
+## Demands as diagnosis
+
+- `📋_why_these_demands_emerged.md`
+- `📋_the_three_demands.md`
+- `📋_three_demands_one_concession.md`
+- `💰_why_compensation_is_a_justice_demand.md`
+- `⚖️_dropping_cases_withdraws_coercion.md`
+- `🏛️_reform_redistributes_authority.md`
+- `👤_a_resignation_is_not_a_system.md`
+
+---
+
+# 🌒 The Public Comes Outside
+
+```text
+🌒_The_Public_Comes_Outside/
+└── README.md
+```
+
+## Why the cockroach worked
+
+- `🪳_why_the_cockroach_worked.md`
+- `🪳_the_meme_is_part_of_the_evidence.md`
+- `🎯_why_this_was_so_memeable.md`
+- `🎯_how_a_meme_becomes_a_political_weapon.md`
+- `🪳_why_this_particular_meme_could_travel.md`
+- `🪳_this_is_not_just_a_mascot.md`
+- `🕶️_the_sunglasses_matter.md`
+- `📦_political_compression.md`
+- `🧰_a_distributed_reproduction_kit.md`
+- `🌏_a_meme_can_travel_without_preserving_one_meaning.md`
+- `🪳_the_cockroach_crosses_platforms.md`
+
+## The meme became infrastructure
+
+- `🧠_the_meme_became_infrastructure.md`
+- `🛠️_the_meme_had_a_back_end.md`
+- `📡_network-native_political_communication.md`
+- `📡_native_speakers_of_the_network.md`
+- `🎛️_what_young_people_know_about_virality.md`
+- `🧠_they_know_how_the_internet_works.md`
+- `🧰_movement_infrastructure.md`
+- `🧰_the_movement_was_a_skills_demonstration.md`
+- `🩹_mutual_aid_is_operational_capacity.md`
+- `🩹_care_is_movement_infrastructure.md`
+- `🩹_first_aid_and_information_architecture.md`
+- `🧑‍💻_the_future_workforce_was_in_the_street.md`
+- `💼_please_do_not_blacklist_your_future_cto.md`
+
+### Possible subcluster
+
+```text
+🪳_The_Meme_Became_Infrastructure/
+├── 🪳_the_meme_is_part_of_the_evidence.md
+├── 🎯_why_this_was_so_memeable.md
+├── 🕶️_the_sunglasses_matter.md
+├── 📦_political_compression.md
+├── 🧰_a_distributed_reproduction_kit.md
+├── 📡_network-native_political_communication.md
+├── 🎛️_what_young_people_know_about_virality.md
+├── 🛠️_the_meme_had_a_back_end.md
+├── 🩹_mutual_aid_is_operational_capacity.md
+├── 🩹_first_aid_and_information_architecture.md
+├── 🧰_the_movement_was_a_skills_demonstration.md
+├── 🧑‍💻_the_future_workforce_was_in_the_street.md
+└── 💼_please_do_not_blacklist_your_future_cto.md
+```
+
+## Hidden transcript and infrapolitics
+
+- `🕳️_the_hidden_transcript_found_a_mascot.md`
+- `🤫_quiet_acts_before_the_cockroach.md`
+- `🌱_the_spectacle_had_a_root_system.md`
+- `🪳_when_infrapolitics_became_public.md`
+- `🎭_from_plausible_to_collective_deniability.md`
+- `📲_the_protest_was_larger_than_its_visible_participants.md`
+- `🗣️_three_layers_of_legibility.md`
+- `🌐_regional_humour_and_algorithmic_opacity.md`
+- `🎶_the_hidden_transcript_acquired_a_soundtrack.md`
+- `🚪_the_movement_as_a_permission_structure.md`
+- `🚪_the_movement_became_a_permission_structure.md`
+
+### Possible subcluster
+
+```text
+🕳️_The_Hidden_Transcript_Found_A_Mascot/
+├── 🤫_quiet_acts_before_the_cockroach.md
+├── 🌱_the_spectacle_had_a_root_system.md
+├── 🪳_when_infrapolitics_became_public.md
+├── 🎭_from_plausible_to_collective_deniability.md
+├── 📲_the_protest_was_larger_than_its_visible_participants.md
+├── 🗣️_three_layers_of_legibility.md
+├── 🌐_regional_humour_and_algorithmic_opacity.md
+├── 🎶_the_hidden_transcript_acquired_a_soundtrack.md
+└── 🚪_the_movement_as_a_permission_structure.md
+```
+
+## Song, performance and public synchronisation
+
+- `🎶_the_hidden_transcript_acquired_a_soundtrack.md`
+- `🎶_the_pressure_valve_had_a_soundtrack.md`
+- `🎭_from_plausible_to_collective_deniability.md`
+- `🎥_while_we_watched.md`
+- `✂️_remixing_the_governments_own_output.md`
+- `😂_when_mocking_the_leader_becomes_normal.md`
+
+## When the public broke the broadcast
+
+- `📺_when_the_public_broke_the_broadcast.md`
+- `📺_the_broadcast_was_no_longer_one_way.md`
+- `🎥_while_we_watched.md`
+- `📰_the_shrinking_mainstream.md`
+- `🏢_ownership_access_and_alignment.md`
+- `📡_centralisation_by_ecosystem.md`
+- `🎙️_the_prime_minister_as_principal_narrator.md`
+- `✂️_remixing_the_governments_own_output.md`
+- `🗞️_the_public_creates_evidentiary_cover.md`
+- `😂_when_mocking_the_leader_becomes_normal.md`
+- `📉_the_loss_of_narrative_inevitability.md`
+- `🪳_the_public_answered_back_in_his_language.md`
+
+### Possible subcluster
+
+```text
+📺_When_The_Public_Broke_The_Broadcast/
+├── 🎥_while_we_watched.md
+├── 📰_the_shrinking_mainstream.md
+├── 🏢_ownership_access_and_alignment.md
+├── 📡_centralisation_by_ecosystem.md
+├── 🎙️_the_prime_minister_as_principal_narrator.md
+├── ✂️_remixing_the_governments_own_output.md
+├── 🚪_the_movement_as_a_permission_structure.md
+├── 🎶_the_pressure_valve_had_a_soundtrack.md
+├── 🗞️_the_public_creates_evidentiary_cover.md
+├── 😂_when_mocking_the_leader_becomes_normal.md
+└── 📉_the_loss_of_narrative_inevitability.md
+```
+
+## Containment and suppression becoming content
+
+- `🧯_when_containment_becomes_content.md`
+- `🪳_every_crackdown_adds_another_leg.md`
+- `🧯_suppression_can_become_additional_content.md`
+- `🧯_the_containment_paradox.md`
+- `🎭_narrative_management_and_narrative_captivity.md`
+- `🧠_game_recognising_game.md`
+- `🚪_strategic_concession_is_not_surrender.md`
+- `🧯_when_not_doubling_down_is_political_intelligence.md`
+
+## India as a global network
+
+- `🕸️_the_internet_has_indian_colleagues.md`
+- `🌐_the_internet_already_knows_india.md`
+- `🛜_india_is_not_a_local_network.md`
+- `🌐_india_is_not_a_local_network.md`
+- `🌐_the_cockroach_has_international_roaming.md`
+- `☎️_your_technical_support_has_political_opinions.md`
+- `📡_a_domestic_story_with_global_edges.md`
+- `🌐_overlapping_publics.md`
+
+## Women and transnational recognition
+
+- `🚨_women_are_the_smoke_alarm.md`
+- `🌐_women_as_a_transnational_recognition_public.md`
+- `🔥_when_the_backlash_becomes_evidence.md`
+
+---
+
+# 🌕 What The Movement Was Up Against
+
+```text
+🌕_What_The_Movement_Was_Up_Against/
+└── README.md
+```
+
+## Examination machine, centralisation and outsourcing
+
+- `🏛️_the_power_was_centralised_the_responsibility_was_outsourced.md`
+- `📦_the_power_was_centralised_the_responsibility_was_outsourced.md`
+- `🏛️_the_centre_set_the_rules_the_vendors_ran_the_system.md`
+- `🏢_centralised_authority_fragmented_responsibility.md`
+- `🧭_why_the_nta_was_created.md`
+- `🏢_from_multiple_bodies_to_one_national_gateway.md`
+- `🕳️_the_hollow_centre.md`
+- `📦_centralised_authority_outsourced_delivery.md`
+- `🔗_every_handoff_is_a_point_of_failure.md`
+- `🎯_one_national_gateway_one_national_crisis.md`
+- `⏰_strict_with_students_loose_with_the_supply_chain.md`
+- `🧑‍💻_can_technology_repair_a_governance_problem.md`
+- `🧾_procurement_is_not_institutional_capability.md`
+- `⚖️_who_owns_the_failure.md`
+
+### Possible subcluster
+
+```text
+🏛️_The_Power_Was_Centralised_The_Responsibility_Was_Outsourced/
+├── 🧭_why_the_nta_was_created.md
+├── 🏢_from_multiple_bodies_to_one_national_gateway.md
+├── 🕳️_the_hollow_centre.md
+├── 📦_centralised_authority_outsourced_delivery.md
+├── 🔗_every_handoff_is_a_point_of_failure.md
+├── 🎯_one_national_gateway_one_national_crisis.md
+├── ⏰_strict_with_students_loose_with_the_supply_chain.md
+├── 🧑‍💻_can_technology_repair_a_governance_problem.md
+├── 🧾_procurement_is_not_institutional_capability.md
+└── ⚖️_who_owns_the_failure.md
+```
+
+## Curriculum, ideology and the gate
+
+- `🏫_the_curriculum_and_the_gate.md`
+- `📚_who_gets_to_describe_the_nation.md`
+- `🚪_who_gets_to_enter_its_institutions.md`
+- `🧱_centralised_ideology_fragmented_delivery.md`
+- `🪪_merit_as_a_government_claim.md`
+- `🕳️_corruption_did_not_disappear_it_moved.md`
+- `🇺🇸_what_project_2025_should_learn_from_india.md`
+- `🧠_young_people_can_see_the_contradiction.md`
+- `🪳_when_the_students_stop_believing_the_system.md`
+
+## The unequal public
+
+- `🪜_the_public_is_not_flat.md`
+- `🪜_a_shared_public_is_not_an_equal_public.md`
+- `🧱_caste_travels_through_the_platform.md`
+- `🗣️_whose_hidden_transcript_becomes_public.md`
+- `📊_merit_after_an_unequal_starting_line.md`
+- `🪪_a_common_mascot_does_not_create_equal_risk.md`
+- `🕳️_the_dominant_code_looks_neutral.md`
+- `⚖️_equal_rules_unequal_moderation.md`
+- `🧑‍💻_outsourced_moderation_and_cultural_illiteracy.md`
+- `🚩_naming_caste_is_not_caste_hatred.md`
+- `🎙️_who_became_the_voice_of_the_students.md`
+- `🪳_can_the_cockroach_carry_anti-caste_solidarity.md`
+
+### Possible subcluster
+
+```text
+🪜_The_Public_Is_Not_Flat/
+├── 🧱_caste_travels_through_the_platform.md
+├── 🗣️_whose_hidden_transcript_becomes_public.md
+├── 📊_merit_after_an_unequal_starting_line.md
+├── 🪪_a_common_mascot_does_not_create_equal_risk.md
+├── 🕳️_the_dominant_code_looks_neutral.md
+├── ⚖️_equal_rules_unequal_moderation.md
+├── 🧑‍💻_outsourced_moderation_and_cultural_illiteracy.md
+├── 🚩_naming_caste_is_not_caste_hatred.md
+├── 🎙️_who_became_the_voice_of_the_students.md
+└── 🪳_can_the_cockroach_carry_anti-caste_solidarity.md
+```
+
+## The surveilled public
+
+- `👁️_the_state_can_see_the_student.md`
+- `🪪_from_candidate_profile_to_protester_profile.md`
+- `📊_the_state_already_has_the_student_as_data.md`
+- `📷_facial_recognition_at_the_demonstration.md`
+- `📷_identification_at_the_demonstration.md`
+- `📱_the_post_becomes_part_of_the_record.md`
+- `🧠_predictive_policing_and_pre-emptive_governance.md`
+- `🎓_the_future_cost_of_being_identified.md`
+- `📵_shutdowns_remove_coordination_not_only_content.md`
+- `🧱_platforms_as_enforcement_intermediaries.md`
+- `🧊_the_chilling_effect_is_a_policy_result.md`
+- `🧊_the_chilling_effect_raises_the_cost_of_entry.md`
+- `🪳_a_shared_avatar_in_an_identifying_system.md`
+- `👁️_digital_repression_works_through_anticipation.md`
+- `🪪_identity_dependence_and_the_cost_of_speech.md`
+
+### Agnipath comparison
+
+- `🪖_from_agnipath_to_cjp.md`
+- `👦_young_people_protesting_a_state-controlled_future.md`
+- `📋_participation_and_eligibility.md`
+- `🕵️_the_risk_of_a_permanent_record.md`
+- `🏛️_the_state_as_both_gatekeeper_and_adversary.md`
+- `⚖️_can_you_challenge_the_institution_that_will_judge_you.md`
+
+### Possible subclusters
+
+```text
+👁️_The_State_Can_See_The_Student/
+├── 🪪_from_candidate_profile_to_protester_profile.md
+├── 📊_the_state_already_has_the_student_as_data.md
+├── 📷_facial_recognition_at_the_demonstration.md
+├── 📱_the_post_becomes_part_of_the_record.md
+├── 🧠_predictive_policing_and_pre-emptive_governance.md
+├── 🎓_the_future_cost_of_being_identified.md
+├── 📵_shutdowns_remove_coordination_not_only_content.md
+├── 🧱_platforms_as_enforcement_intermediaries.md
+├── 🧊_the_chilling_effect_is_a_policy_result.md
+└── 🪳_a_shared_avatar_in_an_identifying_system.md
+
+🪖_From_Agnipath_To_CJP/
+├── 👦_young_people_protesting_a_state-controlled_future.md
+├── 📋_participation_and_eligibility.md
+├── 🕵️_the_risk_of_a_permanent_record.md
+├── 🏛️_the_state_as_both_gatekeeper_and_adversary.md
+└── ⚖️_can_you_challenge_the_institution_that_will_judge_you.md
+```
+
+## The narrowing information system
+
+- `📰_the_shrinking_mainstream.md`
+- `🏢_ownership_access_and_alignment.md`
+- `📡_centralisation_by_ecosystem.md`
+- `🎙️_the_prime_minister_as_principal_narrator.md`
+- `🌐_legitimized_exclusion_zones.md`
+- `🤝_from_regulation_to_collusion_and_co-optation.md`
+- `🇮🇳_india_and_takedowns_without_safeguards.md`
+- `👁️_the_transparent_citizen_and_the_opaque_state.md`
+- `🗳️_digital_authoritarianism_inside_democratic_procedure.md`
+- `🇮🇳_india_as_an_early_democratic_test_case.md`
+- `🪜_normalisation_happens_one_exception_at_a_time.md`
+- `🌐_democracies_learned_to_do_this_quietly.md`
+- `📣_rally_the_many_to_resist_the_few.md`
+
+## The source was weaker than the headline
+
+- `📰_the_headline_was_stronger_than_the_source.md`
+- `📄_what_the_un_report_actually_says.md`
+- `🎙️_what_we_cannot_verify_irene_khan_said.md`
+- `📊_where_the_separate_data_came_from.md`
+- `🧵_how_the_press_assembled_the_argument.md`
+- `⚖️_analytically_plausible_attributionally_weak.md`
+
+## Procurement and capability
+
+- `💰_follow_the_money.md`
+- `💰_procurement_creates_capability.md`
+- `🇮🇱_procurement_creates_dependency.md`
+- `🧾_how_india_buys_surveillance.md`
+- `🏛️_the_contracting_authority.md`
+- `🏢_the_indian_prime_is_not_the_end_of_the_trail.md`
+- `🧠_who_owns_the_technology.md`
+- `🪆_made_in_india_foreign_ip.md`
+- `🔁_licences_maintenance_and_lifecycle_dependency.md`
+- `📱_digital_forensics_in_indian_policing.md`
+- `📷_who_supplied_the_facial_recognition.md`
+- `🇨🇳_replacing_chinese_hardware_with_what.md`
+- `🗳️_when_procurement_becomes_foreign_policy.md`
+- `🧾_capability_access_use_and_attribution.md`
+- `💰_procurement_is_foreign_policy_with_invoices.md`
+
+### India–Israel industrial stack
+
+- `🇮🇱_the_india-israel_defence_industrial_stack.md`
+- `🚀_bel_iai_and_the_missile_relationship.md`
+- `🛩️_adani_elbit_and_the_drone_factory.md`
+- `📱_cellebrite_in_indian_policing.md`
+- `🧾_the_export_licence_is_part_of_the_story.md`
+- `🏢_private_company_state-regulated_market.md`
+- `🇮🇳_india_as_customer_coproducer_and_adapter.md`
+- `🔁_maintenance_upgrades_and_dependence.md`
+- `🍉_what_a_bds_analysis_needs_to_trace.md`
+
+### Occupation-to-export pipeline
+
+- `🍉_the_occupation_to_export_pipeline.md`
+- `🧪_security_practice_and_commercial_expertise.md`
+- `📜_the_export_licence_is_part_of_the_story.md`
+- `🪆_domestic_brand_foreign_capability.md`
+- `💰_what_bds_must_follow_after_the_first_sale.md`
+- `🧭_do_not_claim_product-specific_battle-testing_without_evidence.md`
+
+### Possible subclusters
+
+```text
+💰_Follow_The_Money/
+├── 🧾_how_india_buys_surveillance.md
+├── 🏛️_the_contracting_authority.md
+├── 🏢_the_indian_prime_is_not_the_end_of_the_trail.md
+├── 🧠_who_owns_the_technology.md
+├── 🪆_made_in_india_foreign_ip.md
+├── 🔁_licences_maintenance_and_lifecycle_dependency.md
+├── 📱_digital_forensics_in_indian_policing.md
+├── 📷_who_supplied_the_facial_recognition.md
+├── 🇨🇳_replacing_chinese_hardware_with_what.md
+├── 🗳️_when_procurement_becomes_foreign_policy.md
+└── 🧾_capability_access_use_and_attribution.md
+
+🇮🇱_The_India-Israel_Defence_Industrial_Stack/
+├── 🚀_bel_iai_and_the_missile_relationship.md
+├── 🛩️_adani_elbit_and_the_drone_factory.md
+├── 📱_cellebrite_in_indian_policing.md
+├── 🧾_the_export_licence_is_part_of_the_story.md
+├── 🏢_private_company_state-regulated_market.md
+├── 🇮🇳_india_as_customer_coproducer_and_adapter.md
+├── 🔁_maintenance_upgrades_and_dependence.md
+└── 🍉_what_a_bds_analysis_needs_to_trace.md
+
+🍉_The_Occupation_To_Export_Pipeline/
+├── 🧪_security_practice_and_commercial_expertise.md
+├── 📜_the_export_licence_is_part_of_the_story.md
+├── 🪆_domestic_brand_foreign_capability.md
+├── 💰_what_bds_must_follow_after_the_first_sale.md
+└── 🧭_do_not_claim_product-specific_battle-testing_without_evidence.md
+```
+
+## The travelling repertoire
+
+- `🌍_the_technique_travels_better_than_the_ideology.md`
+- `🌍_the_travelling_repertoire.md`
+- `🌏_south_asia_is_an_information_region.md`
+- `🧭_borders_do_not_speak_the_language.md`
+- `🗺️_the_state_border_is_not_the_audience_border.md`
+- `🌐_overlapping_publics.md`
+- `🌍_the_region_is_watching.md`
+- `🧨_bangladesh_changed_the_risk_calculation.md`
+- `🇵🇰_how_pakistan_might_read_this.md`
+- `🇧🇩_how_bangladesh_might_read_this.md`
+- `🇨🇳_how_china_might_read_this.md`
+- `🇷🇺_how_russia_might_read_this.md`
+- `🌍_how_western_governments_might_read_this.md`
+- `🏔️_kashmir_and_the_reputational_cost_curve.md`
+- `🛰️_kashmir_and_international_virality.md`
+- `🌐_political_borders_are_not_information_borders.md`
+- `🌏_how_the_lesson_travels_regionally.md`
+- `🌐_what_other_democracies_should_recognise.md`
+- `🍉_palestine_advocacy_as_a_democratic_backsliding_test.md`
+
+## Colonial, partition and belonging frames
+
+- `🧱_colonial_information_architecture.md`
+- `🧭_inheritance_does_not_remove_agency.md`
+- `🧰_the_available_grammar_of_power.md`
+- `🪞_mimicking_the_coloniser.md`
+- `🕳️_partition_remains_an_information_wound.md`
+- `🇵🇰_the_external_muslim_other.md`
+- `🪞_the_rival_state_as_a_domestic_shortcut.md`
+- `🕌_muslimness_and_conditional_belonging.md`
+
+## How institutions absorb pressure
+
+- `🧽_how_institutions_absorb_pressure_without_changing.md`
+- `🧽_how_partial_concessions_absorb_pressure.md`
+- `🎭_narrative_management_and_narrative_captivity.md`
+- `🚪_strategic_concession_is_not_surrender.md`
+- `🧯_when_not_doubling_down_is_political_intelligence.md`
+
+---
+
+# 🌘 Did The System Become Tolerable?
+
+```text
+🌘_Did_The_System_Become_Tolerable/
+└── README.md
+```
+
+## What was conceded
+
+- `🎭_the_government_gave_up_the_headline.md`
+- `📋_what_was_actually_conceded.md`
+- `📋_three_demands_one_concession.md`
+- `📸_the_most_visible_concession.md`
+- `🧾_one_demand_won_two_forms_of_justice_pending.md`
+- `👤_a_resignation_is_not_a_system.md`
+- `🚪_the_minister_left_the_machinery_stayed.md`
+- `💰_compensation_redistributes_the_cost.md`
+- `⚖️_dropping_cases_withdraws_coercion.md`
+- `🏛️_reform_redistributes_authority.md`
+- `🎭_visible_accountability_is_not_material_justice.md`
+
+## Repair, coercion and machinery
+
+- `💰_was_the_harm_repaired.md`
+- `⚖️_was_the_coercion_withdrawn.md`
+- `🏛️_was_the_machinery_changed.md`
+- `📊_outputs_outcomes_and_structural_change.md`
+- `🔁_what_would_make_the_change_durable.md`
+- `🧷_what_would_count_as_a_durable_settlement.md`
+
+## Tolerance test
+
+- `🔍_the_tolerance_test.md`
+- `🔄_the_tolerance_test.md`
+- `🧷_the_theory_of_change.md`
+- `🧷_the_concession_closes_the_cycle_only_if.md`
+
+## Partial concession and movement fracture
+
+- `🧽_how_partial_concessions_absorb_pressure.md`
+- `🪓_when_a_victory_splits_the_coalition.md`
+- `🧽_partial_concessions_can_absorb_pressure.md`
+- `🎭_the_government_gave_up_the_headline.md`
+- `🚪_strategic_concession_is_not_surrender.md`
+
+## Pause, monitoring and re-entry
+
+- `⏸️_pause_is_not_the_same_as_trust.md`
+- `👁️_monitoring_implementation.md`
+- `👁️_monitoring_the_new_status_quo.md`
+- `🔁_when_the_public_re-enters_the_cycle.md`
+- `🔁_what_would_make_the_change_durable.md`
+- `🌏_how_the_cycle_travels.md`
+- `🌏_how_the_lesson_travels.md`
+- `🌏_how_the_lesson_travels_regionally.md`
+
+## Regional and democratic lessons
+
+- `🌐_india_is_not_a_local_network.md`
+- `🌏_south_asia_is_an_information_region.md`
+- `🪞_the_neighbouring_press_as_a_democratic_check.md`
+- `🪞_the_neighbouring_press_can_see_it.md`
+- `🧨_bangladesh_changed_the_risk_calculation.md`
+- `🏔️_kashmir_and_international_virality.md`
+- `🌐_democracies_learned_to_do_this_quietly.md`
+- `🇺🇸_what_project_2025_should_learn_from_india.md`
+- `🌐_what_other_democracies_should_recognise.md`
+
+### Neighbouring press subcluster
+
+```text
+🪞_The_Neighbouring_Press_Can_See_It/
+├── 🇵🇰_pakistan_can_name_indian_digital_repression.md
+├── 🇮🇳_india_can_name_pakistani_digital_repression.md
+├── ⚖️_hypocrisy_does_not_make_the_evidence_false.md
+├── 🔁_apply_the_same_standard_in_both_directions.md
+├── 📰_the_foreign_desk_as_hostile_auditor.md
+└── 🧵_criticism_and_source_control.md
+```
+
+---
+
+# 🗞️ For Readers And Newsrooms
+
+```text
+🗞️_For_Readers_And_Newsrooms/
+└── README.md
+```
+
+## Position and method
+
+- `🗞️_a_note_to_western_newsrooms.md`
+- `🪟_where_we_are_looking_from.md`
+- `🧭_before_you_explain_it_to_the_west.md`
+- `☎️_talk_to_people_first.md`
+- `🪑_pull_up_a_chair_first.md`
+- `🫖_you_need_time_to_shoot_the_sh.md`
+- `🧓_talk_to_the_person_trying_to_reach_the_pharmacy.md`
+- `📲_the_whatsapp_test.md`
+- `🌍_diaspora_knowledge_is_valuable_and_situated.md`
+- `🎓_the_good_immigrant_is_not_a_neutral_source_position.md`
+- `💷_cultural_explanation_is_work.md`
+- `🗣️_the_community_view_does_not_exist.md`
+- `🧪_more_voices_do_not_automatically_produce_the_truth.md`
+- `🧭_questions_for_editors.md`
+- `📰_what_western_coverage_commonly_misses.md`
+- `🧭_a_practical_reporting_method.md`
+
+## Language, translation and cultural references
+
+- `🗣️_preserve_the_language.md`
+- `🗣️_preserving_language_slogans_and_images.md`
+- `🔤_original_script_transliteration_translation.md`
+- `🎭_why_the_literal_translation_does_not_work.md`
+- `🎬_film_music_and_cultural_references.md`
+- `🧾_credit_the_person_who_explained_the_joke.md`
+- `📷_images_are_evidence_of_public_culture.md`
+- `🪳_the_meme_is_part_of_the_evidence.md`
+
+### Possible subcluster
+
+```text
+🗣️_Keep_The_Language/
+├── 🔤_original_script_transliteration_translation.md
+├── 🎭_why_the_literal_translation_does_not_work.md
+├── 🎬_film_music_and_cultural_references.md
+├── 🧾_credit_the_person_who_explained_the_joke.md
+├── 📷_images_are_evidence_of_public_culture.md
+└── 🪳_the_meme_is_part_of_the_evidence.md
+```
+
+## Source control and attribution
+
+- `🧭_keep_the_anger_make_the_attribution_exact.md`
+- `📰_the_headline_was_stronger_than_the_source.md`
+- `📄_what_the_un_report_actually_says.md`
+- `🎙️_what_we_cannot_verify_irene_khan_said.md`
+- `📊_where_the_separate_data_came_from.md`
+- `🧵_how_the_press_assembled_the_argument.md`
+- `⚖️_analytically_plausible_attributionally_weak.md`
+- `🧵_criticism_and_source_control.md`
+- `🪜_evidence_and_confidence.md`
+- `🧪_rival_explanations.md`
+
+## Neighbouring and foreign press
+
+- `🪞_the_neighbouring_press_can_see_it.md`
+- `🇵🇰_pakistan_can_name_indian_digital_repression.md`
+- `🇮🇳_india_can_name_pakistani_digital_repression.md`
+- `⚖️_hypocrisy_does_not_make_the_evidence_false.md`
+- `🔁_apply_the_same_standard_in_both_directions.md`
+- `📰_the_foreign_desk_as_hostile_auditor.md`
+
+---
+
+# 🧭 Reusable Findings
+
+```text
+🧭_Reusable_Findings/
+└── README.md
+```
+
+## Grievance and intolerability
+
+- `🌑_intolerability_is_a_political_threshold.md`
+- `⚖️_institutions_become_vulnerable_through_contradiction.md`
+- `🏛️_the_state_cannot_demand_perfection_while_failing_at_scale.md`
+- `🚪_allocation_systems_turn_error_into_displacement.md`
+- `🎓_the_exam_allocates_a_future.md`
+- `📊_merit_is_a_social_claim.md`
+
+## Cultural and memetic mechanisms
+
+- `🪳_the_meme_became_infrastructure.md`
+- `📦_political_compression_makes_entry_easier.md`
+- `🎭_reclamation_changes_who_controls_the_meaning.md`
+- `🌱_the_spectacle_had_a_root_system.md`
+- `🕳️_hidden_transcripts_can_become_public_interfaces.md`
+- `🚪_the_movement_became_a_permission_structure.md`
+- `🛠️_virality_is_not_organisation.md`
+- `🩹_care_is_operational_capacity.md`
+
+## Public reality and narration
+
+- `📺_the_broadcast_was_no_longer_one_way.md`
+- `📺_publics_can_break_a_one-way_broadcast.md`
+- `📉_political_control_often_depends_on_narrative_inevitability.md`
+- `🗞️_reporting_method_is_part_of_the_analysis.md`
+- `🪳_the_public_answered_back_in_his_language.md`
+
+## Unequal publics and repression
+
+- `🪜_the_public_is_not_flat.md`
+- `🪜_a_shared_public_is_not_an_equal_public.md`
+- `👁️_digital_repression_works_through_anticipation.md`
+- `📵_network_restrictions_remove_capacity_not_only_speech.md`
+- `📵_shutdowns_remove_coordination_not_only_content.md`
+
+## Governance and procurement
+
+- `🏢_authority_can_be_centralised_while_responsibility_is_outsourced.md`
+- `🧾_procurement_is_not_institutional_capability.md`
+- `💰_procurement_is_foreign_policy_with_invoices.md`
+- `🧾_capability_is_not_attribution.md`
+- `🌍_the_technique_travels_better_than_the_ideology.md`
+
+## Concession and settlement
+
+- `🧽_institutions_can_absorb_pressure_without_changing.md`
+- `🎭_the_cheapest_demand_may_be_conceded_first.md`
+- `🎭_visible_accountability_is_not_material_justice.md`
+- `🪓_concession_can_fragment_the_movement.md`
+- `⏸️_pause_is_not_the_same_as_trust.md`
+- `🔍_the_tolerance_test.md`
+- `🔁_re-entry_capacity_is_part_of_a_durable_settlement.md`
+- `🔄_the_reusable_cycle.md`
+
+## Borders and information systems
+
+- `🌐_political_borders_are_not_information_borders.md`
+- `🌐_india_is_not_a_local_network.md`
+- `🌏_south_asia_is_an_information_region.md`
+- `🪞_the_neighbouring_press_as_a_democratic_check.md`
+
+## Synthesis nodes
+
+- `🧭_what_this_case_teaches.md`
+- `🧷_compact_findings.md`
+- `🧷_the_theory_of_change.md`
+- `🧷_the_concession_closes_the_cycle_only_if.md`
+
+---
+
+# Possible Archive Arm If Restored Later
+
+This arm is **not currently in the lean shell**, but all of the following were proposed.
+
+```text
+🗄️_Sources_And_Archive/
+├── README.md
+├── 📚_Academic_And_Conceptual/
+├── ⚖️_Official_And_Legal/
+├── 📰_Press_Coverage/
+├── 📰_Indian_Press/
+├── 🌏_Regional_Press/
+├── 🌍_International_Press/
+├── 🖼️_Images_And_Memes/
+├── 🎶_Songs_And_Audio/
+├── 🗣️_Slogans_And_Translations/
+├── 🎥_Video_And_Public_Footage/
+├── 🧾_Procurement_And_Contracts/
+├── 🏢_Companies_And_Joint_Ventures/
+├── 📊_Data_And_Statistics/
+├── 🗓️_Chronology_And_Event_Log/
+├── 👥_Actors_And_Institutions/
+├── ⚖️_Legal_And_Official_Material/
+├── 🪜_evidence_and_confidence.md
+├── 🧪_rival_explanations.md
+└── 🧾_evidence_log.md
+```
+
+## Academic/source folders proposed
+
+- `Quiet_Acts_Clever_Subversions/`
+- `Digital_Authoritarianism_Surveillance_Control_Resistance/`
+- `Digital_Authoritarianism_And_Caste/`
+- `AI_And_The_Erosion_Of_Protest_Rights/`
+- `UN_Freedom_Of_Expression_In_New_Frontiers/`
+
+---
+
+# Title Variants And Likely Merges
+
+These are explicit alternatives or near-duplicates that should be resolved during editing rather than silently discarded.
+
+## Grievance
+
+- `🚪_the_exam_allocates_a_future.md`
+- `🎓_this_was_not_just_a_bad_exam.md`
+
+- `🧨_a_paper_leak_is_a_legitimacy_crisis.md`
+- `🧨_the_paper_leak_broke_the_merit_claim.md`
+
+- `🧑_students_are_people.md`
+- `🧑_students_have_lives.md`
+- `🧑_the_human_cost_of_the_allocation_system.md`
+
+- `⏰_two_minutes_and_an_entire_future.md`
+- `⏱️_a_future_should_not_ride_on_two_minutes.md`
+
+## Movement
+
+- `🧠_the_meme_became_infrastructure.md`
+- `🛠️_the_meme_had_a_back_end.md`
+- `🧰_movement_infrastructure.md`
+
+- `🩹_mutual_aid_is_operational_capacity.md`
+- `🩹_care_is_movement_infrastructure.md`
+- `🩹_care_is_operational_capacity.md`
+
+- `🚪_the_movement_as_a_permission_structure.md`
+- `🚪_the_movement_became_a_permission_structure.md`
+
+- `📺_when_the_public_broke_the_broadcast.md`
+- `📺_the_broadcast_was_no_longer_one_way.md`
+- `📺_publics_can_break_a_one-way_broadcast.md`
+
+## System
+
+- `🏛️_the_power_was_centralised_the_responsibility_was_outsourced.md`
+- `📦_the_power_was_centralised_the_responsibility_was_outsourced.md`
+- `🏛️_the_centre_set_the_rules_the_vendors_ran_the_system.md`
+- `🏢_centralised_authority_fragmented_responsibility.md`
+
+- `🧊_the_chilling_effect_is_a_policy_result.md`
+- `🧊_the_chilling_effect_raises_the_cost_of_entry.md`
+- `👁️_digital_repression_works_through_anticipation.md`
+
+- `💰_follow_the_money.md`
+- `💰_procurement_creates_capability.md`
+- `💰_procurement_is_foreign_policy_with_invoices.md`
+
+## Settlement
+
+- `🎭_the_government_gave_up_the_headline.md`
+- `📸_the_most_visible_concession.md`
+- `🚪_the_minister_left_the_machinery_stayed.md`
+- `🎭_visible_accountability_is_not_material_justice.md`
+
+- `🔍_the_tolerance_test.md`
+- `🔄_the_tolerance_test.md`
+
+- `👁️_monitoring_implementation.md`
+- `👁️_monitoring_the_new_status_quo.md`
+
+- `🌏_how_the_cycle_travels.md`
+- `🌏_how_the_lesson_travels.md`
+- `🌏_how_the_lesson_travels_regionally.md`
+
+## Newsroom
+
+- `🗞️_a_note_to_western_newsrooms.md`
+- `📰_what_western_coverage_commonly_misses.md`
+- `🧭_a_practical_reporting_method.md`
+
+- `🗣️_preserve_the_language.md`
+- `🗣️_preserving_language_slogans_and_images.md`
+
+---
+
+# Possible Nodes Probably Better Forked Elsewhere
+
+These were proposed in the conversation but may exceed the immediate Cockroach case.
+
+## DADA / digital-authoritarianism fork candidates
+
+- `🌐_democracies_learned_to_do_this_quietly.md`
+- `🗳️_digital_authoritarianism_inside_democratic_procedure.md`
+- `🇮🇳_india_as_an_early_democratic_test_case.md`
+- `🪜_normalisation_happens_one_exception_at_a_time.md`
+- `🌍_the_technique_travels_better_than_the_ideology.md`
+- `🍉_palestine_advocacy_as_a_democratic_backsliding_test.md`
+- `📣_rally_the_many_to_resist_the_few.md`
+- `🌐_legitimized_exclusion_zones.md`
+- `🤝_from_regulation_to_collusion_and_co-optation.md`
+- `👁️_the_transparent_citizen_and_the_opaque_state.md`
+
+## Procurement / Little Database of Horrors fork candidates
+
+- `💰_follow_the_money.md`
+- `🇮🇱_the_india-israel_defence_industrial_stack.md`
+- `🍉_the_occupation_to_export_pipeline.md`
+- `📱_digital_forensics_in_indian_policing.md`
+- `📷_who_supplied_the_facial_recognition.md`
+- `🚀_bel_iai_and_the_missile_relationship.md`
+- `🛩️_adani_elbit_and_the_drone_factory.md`
+- `📱_cellebrite_in_indian_policing.md`
+- `💰_what_bds_must_follow_after_the_first_sale.md`
+
+## Wider regional/history fork candidates
+
+- `🧱_colonial_information_architecture.md`
+- `🕳️_partition_remains_an_information_wound.md`
+- `🇵🇰_the_external_muslim_other.md`
+- `🕌_muslimness_and_conditional_belonging.md`
+- `🚨_women_are_the_smoke_alarm.md`
+- `🌐_women_as_a_transnational_recognition_public.md`
+- `🇺🇸_what_project_2025_should_learn_from_india.md`
+
+---
+
+# Editing Key
+
+For the next pass, each proposed node can be marked:
+
+- `[KEEP]` — likely standalone file
+- `[MERGE]` — retain as a heading inside another file
+- `[PARK]` — useful but not currently needed
+- `[FORK]` — belongs elsewhere in Polaris
+- `[DROP]` — no longer useful
+- `[RENAME]` — keep concept, change title
+- `[VERIFY]` — requires stronger factual sourcing before drafting
+
+
+----
+
+
 🌓_3_In_The_Moment/
 └── 📲_Press_Matters/
     └── 🔊_Turn_The_Public_Up/
