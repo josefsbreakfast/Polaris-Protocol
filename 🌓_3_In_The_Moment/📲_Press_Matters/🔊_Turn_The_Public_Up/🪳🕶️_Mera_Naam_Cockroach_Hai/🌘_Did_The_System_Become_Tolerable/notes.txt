@@ -1,16 +1,606 @@
 🌘_Did_The_System_Become_Tolerable/
-            │   ├── README.md
-            │   ├── 🎭_the_government_gave_up_the_headline.md
-            │   ├── 📋_what_was_actually_conceded.md
-            │   ├── 👤_a_resignation_is_not_a_system.md
-            │   ├── 💰_was_the_harm_repaired.md
-            │   ├── ⚖️_was_the_coercion_withdrawn.md
-            │   ├── 🏛️_was_the_machinery_changed.md
-            │   ├── 🔍_the_tolerance_test.md
-            │   ├── 🧽_how_partial_concessions_absorb_pressure.md
-            │   ├── 🪓_when_a_victory_splits_the_coalition.md
-            │   ├── ⏸️_pause_is_not_the_same_as_trust.md
-            │   ├── 👁️_monitoring_the_new_status_quo.md
-            │   ├── 🔁_when_the_public_re-enters_the_cycle.md
-            │   ├── 🌏_how_the_lesson_travels.md
-            │   └── 🧷_the_concession_closes_the_cycle_only_if.md
+├── README.md
+├── 📋_what_was_actually_conceded.md
+├── 👤_a_resignation_is_not_a_system.md
+├── ⚖️_withdrawal_of_cases_is_not_symbolic.md
+├── 💰_compensation_is_material_repair.md
+├── 🏛️_reform_only_exists_when_it_is_implemented.md
+├── 🧽_how_institutions_absorb_pressure_without_changing.md
+├── 🪓_when_a_victory_splits_the_coalition.md
+├── ⏸️_pause_is_not_the_same_as_trust.md
+├── 👁️_monitoring_the_new_status_quo.md
+└── 🔁_when_the_public_re-enters_the_cycle.md
+
+----
+
+🌘 README.md
+
+Include:
+
+* the lunar correspondence: the waning phase as assessment, dissipation, consolidation and possible return;
+* the central question: did the response make the system tolerable, or merely quieter?;
+* the distinction between public concession and structural repair;
+* the difference between:
+  * acknowledgement;
+  * resignation;
+  * withdrawal of coercion;
+  * compensation;
+  * procedural reform;
+  * redistribution of authority;
+* why one visible concession cannot stand in for all movement demands;
+* the tolerance test as a practical rather than emotional question;
+* whether affected students are safer, less burdened and more able to enforce their rights;
+* whether responsibility moved beyond one individual;
+* whether legal and administrative pressure was actually removed;
+* whether compensation reached people living with the harm;
+* whether reforms were implemented rather than announced;
+* whether recurrence became materially less likely;
+* whether the public retained records, relationships and re-entry capacity;
+* the difference between stabilisation, demobilisation and defeat;
+* the core assessment pathway:
+
+```text
+government response
+        ↓
+verify each concession
+        ↓
+measure material and institutional effect
+        ↓
+compare with the original harms
+        ↓
+ask whether recurrence and retaliation remain possible
+        ↓
+stabilise, monitor or re-enter mobilisation
+```
+
+* the caution that:
+
+```text
+resignation
+≠ accountability
+
+announcement
+≠ implementation
+
+quiet
+≠ consent
+
+pause
+≠ trust
+```
+
+* a brief map of the mega-nodes beneath it;
+* transition into 🧭_Reusable_Findings/ and the wider circular theory of change;
+* compact finding: the system becomes tolerable only when the cost of failure, coercion and recurrence is redistributed away from the public and back onto accountable institutions.
+
+⸻
+
+📋 what_was_actually_conceded.md
+
+Include:
+
+* a plain-language inventory of every reported government concession;
+* exact dates;
+* exact wording;
+* who announced each concession;
+* whether the concession was formal, provisional, partial or disputed;
+* which movement demand each concession purported to answer;
+* the difference between:
+  * resignation;
+  * withdrawal or review of cases;
+  * compensation;
+  * inquiry;
+  * procedural change;
+  * institutional reform;
+  * contractor action;
+* whether the movement received one concession, several concessions or only a headline;
+* whether later reporting repeated announcements without checking implementation;
+* whether different government bodies described the outcome differently;
+* whether the movement itself agreed that the concession had occurred;
+* what remained unresolved at the moment of apparent victory;
+* a concession matrix recording:
+  * demand;
+  * announced response;
+  * responsible body;
+  * implementation deadline;
+  * evidence of completion;
+  * current confidence;
+* the danger of treating a resignation as proof that all demands were met;
+* the distinction between the government conceding a point and accepting the movement’s diagnosis;
+* what evidence would justify calling the outcome a victory.
+
+Likely internal headings:
+
+## 📋 The Government’s Announced Response
+## 🗓️ Concession Chronology
+## 🔗 Which Demand Did Each Concession Answer?
+## 🧾 Formal, Partial, Provisional Or Disputed
+## 📊 The Concession Matrix
+## 📰 The Headline And The Implementation Record
+## 🧪 Rival Accounts Of What Was Won
+## ⚠️ What Remained Unresolved
+## 🧷 Compact Finding
+
+⸻
+
+👤 a_resignation_is_not_a_system.md
+
+Include:
+
+* resignation as visible political responsibility;
+* why resignation can matter;
+* why resignation may provide acknowledgement, blame allocation or an exit route;
+* the difference between personal fault and institutional design;
+* whether the resigning individual held:
+  * formal authority;
+  * operational control;
+  * budgetary control;
+  * contractor oversight;
+  * reform authority;
+* whether the machinery remained unchanged after the individual left;
+* whether resignation prevented deeper investigation;
+* whether a successor inherited the same incentives, contracts and procedures;
+* whether the government gave up the headline while preserving the system;
+* “minister left, machinery stayed” as a compact analytic test;
+* scapegoating versus legitimate political accountability;
+* how to distinguish:
+  * meaningful resignation;
+  * ritual sacrifice;
+  * managed replacement;
+  * negotiated exit;
+* whether resignation redistributed power or only visibility;
+* what additional measures would convert individual accountability into institutional accountability;
+* whether inquiry findings, records, contracts and decision trails survived the personnel change;
+* why movements may reasonably value resignation while still demanding more.
+
+Likely internal headings:
+
+## 👤 Why Resignation Matters
+## 🏛️ Personal Responsibility And Institutional Design
+## 🧾 What Authority Did The Individual Actually Hold?
+## 🎭 Scapegoat, Accountability Or Managed Exit?
+## 📰 The Government Gave Up The Headline
+## ⚙️ The Minister Left; The Machinery Stayed
+## 🔁 What The Successor Inherited
+## 🔍 What Would Make Resignation Substantive?
+## 🧷 Compact Finding
+
+⸻
+
+⚖️ withdrawal_of_cases_is_not_symbolic.md
+
+Include:
+
+* withdrawal of cases as the removal of coercive harm;
+* why legal pressure is distinct from public criticism or reputational damage;
+* exact cases, charges, disciplinary actions or administrative measures involved;
+* who had authority to withdraw, review or discontinue them;
+* the legal mechanism used;
+* whether cases were:
+  * withdrawn;
+  * stayed;
+  * dismissed;
+  * reduced;
+  * transferred;
+  * left inactive;
+* whether records remained;
+* whether bail conditions, travel restrictions, blacklists or disciplinary consequences remained;
+* whether withdrawn cases still affected future eligibility, employment or education;
+* whether all affected participants benefited equally;
+* whether informal retaliation continued after formal withdrawal;
+* why “no further action” can still leave a record or chilling effect;
+* whether legal fees, lost income or reputational harm were repaired;
+* what evidence would show that coercion had actually been removed;
+* distinction between ending prosecution and restoring the person’s position;
+* why case withdrawal may be one of the most concrete movement victories even when less visible than resignation.
+
+Likely internal headings:
+
+## ⚖️ Dropping Cases Withdraws Coercion
+## 📋 Which Cases Were Involved?
+## 🧾 Withdrawal, Stay, Dismissal Or Inactivity
+## 🪪 What Happened To The Record?
+## 🎓 Did Future Eligibility Recover?
+## 🧊 Did The Chilling Effect End?
+## 💷 Who Paid The Cost Of The Cases?
+## 🔍 What Would Count As Full Withdrawal?
+## 🧷 Compact Finding
+
+⸻
+
+💰 compensation_is_material_repair.md
+
+Include:
+
+* compensation as redistribution of material harm rather than charity;
+* who was eligible;
+* what harms were recognised;
+* whether compensation covered:
+  * examination fees;
+  * travel;
+  * accommodation;
+  * coaching;
+  * lost work;
+  * delayed education;
+  * medical costs;
+  * injury;
+  * disability;
+  * family care;
+  * legal costs;
+* why living harm must be included;
+* the difference between flat payments and individually assessed loss;
+* whether compensation acknowledged institutional responsibility;
+* whether accepting compensation required waiver, confidentiality or abandonment of legal claims;
+* whether the scheme was automatic or application-based;
+* evidentiary burdens placed on affected students and families;
+* whether the people most harmed were also least able to complete the claims process;
+* whether payments were actually delivered;
+* whether the amount matched the scale and duration of the harm;
+* how delay reduces the value of compensation;
+* whether compensation repaired past harm without reducing future risk;
+* distinction between:
+  * refund;
+  * ex gratia payment;
+  * damages;
+  * statutory compensation;
+  * welfare support;
+* why compensation can be both necessary and insufficient.
+
+Likely internal headings:
+
+## 💰 Compensation Redistributes The Cost
+## 🧾 What Harm Was Recognised?
+## 👥 Who Was Eligible?
+## 🏥 Living Harm Is Still Harm
+## 📋 The Burden Of Proving Loss
+## ⏳ Delay Reduces Repair
+## ⚖️ Payment, Waiver And Legal Rights
+## 📊 Was The Amount Proportionate?
+## 🔁 Repairing The Past Without Preventing Recurrence
+## 🧷 Compact Finding
+
+⸻
+
+🏛️ reform_only_exists_when_it_is_implemented.md
+
+Include:
+
+* the difference between reform announcement and operational change;
+* exact reforms promised;
+* responsible institutions;
+* implementation deadlines;
+* funding;
+* staffing;
+* procurement;
+* legal authority;
+* independent oversight;
+* whether students or affected groups were consulted;
+* whether reform changed:
+  * examination design;
+  * security;
+  * rescheduling;
+  * appeals;
+  * exception pathways;
+  * contractor oversight;
+  * data governance;
+  * disciplinary practice;
+  * legal protections;
+* whether the reform redistributed authority or merely added another portal, committee or technical layer;
+* whether new technology was substituted for governance reform;
+* whether contractors remained in place;
+* whether audit rights and transparency improved;
+* whether failure data was published;
+* whether complaint and appeal routes became enforceable;
+* whether recurrence tests were built into the reform;
+* whether the reform addressed the movement’s diagnosis or only the most visible symptom;
+* what evidence would show implementation;
+* distinction between:
+  * policy publication;
+  * administrative instruction;
+  * funded implementation;
+  * operational compliance;
+  * independent verification.
+
+Likely internal headings:
+
+## 🏛️ Reform Redistributes Authority
+## 📄 What Was Promised?
+## 💷 Was It Funded?
+## 👥 Who Was Responsible?
+## 🧑‍🎓 Were Students Consulted?
+## 🧑‍💻 Was Technology Used As A Substitute For Governance?
+## 🔍 How Would Implementation Be Verified?
+## 📊 Announcement, Operation And Independent Confirmation
+## 🔁 Did The Risk Of Recurrence Fall?
+## 🧷 Compact Finding
+
+⸻
+
+🧽 how_institutions_absorb_pressure_without_changing.md
+
+Include:
+
+* institutional absorption as a response to public pressure;
+* how institutions preserve legitimacy while limiting redistribution of power;
+* common absorption techniques:
+  * resignation;
+  * inquiry;
+  * contractor blame;
+  * portal creation;
+  * technical fix;
+  * limited compensation;
+  * rebranding;
+  * consultation without authority;
+  * delayed implementation;
+  * closed review;
+  * selective publication;
+* why some of these measures may still have real value;
+* the difference between absorption and total bad faith;
+* how partial concessions can divide movement attention;
+* how institutional tempo outlasts public attention;
+* how delay changes the political cost;
+* the use of complexity to make responsibility difficult to follow;
+* shifting the question from “who failed?” to “which procedure applies?”;
+* whether reform created a new layer without changing the old one;
+* whether institutions learned to communicate better without becoming more accountable;
+* how managed transparency can substitute for enforceability;
+* the difference between:
+  * pressure reduction;
+  * legitimacy restoration;
+  * material repair;
+  * structural change;
+* why absorption can stabilise a system that remains intolerable;
+* how to identify evidence of genuine institutional learning.
+
+Likely internal headings:
+
+## 🧽 How Institutions Absorb Pressure
+## 👤 Resignation
+## 🔍 Inquiry
+## 🏢 Contractor Blame
+## 🧑‍💻 The New Portal
+## 💰 Limited Compensation
+## ⏳ Delay As A Political Technology
+## 📰 Better Communication Without More Accountability
+## ⚖️ Pressure Reduction Is Not Structural Change
+## 🌱 What Genuine Institutional Learning Would Look Like
+## 🧷 Compact Finding
+
+⸻
+
+🪓 when_a_victory_splits_the_coalition.md
+
+Include:
+
+* partial victory creating different tolerability thresholds;
+* some participants obtaining what they needed while others remained harmed;
+* differences between:
+  * directly affected students;
+  * organisers;
+  * families;
+  * legal supporters;
+  * wider sympathisers;
+* pragmatists, maximalists and people too exhausted to continue;
+* disagreement over whether to accept a concession;
+* the political pressure to declare victory;
+* the political pressure to refuse compromise;
+* unequal ability to stay mobilised;
+* caste, class, gender, disability and family obligation shaping who can continue;
+* people returning to study, work and care responsibilities;
+* the danger of treating demobilisation as betrayal;
+* the danger of treating continued mobilisation as irrational;
+* how one demand being met can reorder the coalition;
+* how leadership, spokespeople and public visibility may change after concession;
+* whether internal disagreement was publicly visible or privately managed;
+* how authorities may exploit differences without creating them;
+* the distinction between coalition fracture, tactical disagreement and normal political pluralism;
+* preserving relationships across different decisions;
+* why a movement may succeed precisely by allowing people to leave safely.
+
+Likely internal headings:
+
+## 🪓 Partial Victory Creates Different Thresholds
+## 👥 Who Had Already Received Enough?
+## 🧑‍🎓 Who Was Still Living With The Harm?
+## ⏳ Not Everyone Can Stay Mobilised
+## ⚖️ Pragmatists, Maximalists And The Exhausted
+## 🎭 The Pressure To Declare Victory
+## 🚪 Leaving The Movement Is Not Always Betrayal
+## 🧩 Disagreement Is Not Necessarily Fracture
+## 🌱 Preserving The Coalition After Different Decisions
+## 🧷 Compact Finding
+
+⸻
+
+⏸️ pause_is_not_the_same_as_trust.md
+
+Include:
+
+* the difference between pause, settlement, stabilisation and trust;
+* why a movement may pause after partial concession;
+* exhaustion;
+* study, work, care and family obligations;
+* reduced immediate threat;
+* need to test implementation;
+* strategic preservation of capacity;
+* why pausing does not mean the original account was withdrawn;
+* why people may stop appearing publicly while remaining unconvinced;
+* provisional settlement;
+* conditional consent;
+* watchful stabilisation;
+* the value of returning to ordinary life;
+* the risk that institutions interpret quiet as approval;
+* how to record unresolved commitments before demobilisation;
+* preserving:
+  * documents;
+  * contacts;
+  * legal knowledge;
+  * archive copies;
+  * mutual-aid relationships;
+  * agreed re-entry thresholds;
+* why trust must be earned through repeated institutional performance;
+* distinction between emotional trust and practical reliance;
+* what would justify moving from pause to confidence.
+
+Likely internal headings:
+
+## ⏸️ Why Movements Pause
+## 🌱 Returning To Ordinary Life
+## 🧾 The Original Account Has Not Been Withdrawn
+## 👁️ Watchful Stabilisation
+## 📋 Record The Unfinished Commitments
+## 🫱🏽‍🫲🏾 Preserve Relationships And Capacity
+## ⚖️ Conditional Consent Is Not Trust
+## 🔁 What Would Earn Confidence?
+## 🧷 Compact Finding
+
+⸻
+
+👁️ monitoring_the_new_status_quo.md
+
+Include:
+
+* monitoring as part of settlement rather than evidence of paranoia or bad faith;
+* turning announcements into dated commitments;
+* who is responsible for checking implementation;
+* official reporting;
+* independent reporting;
+* participant and student monitoring;
+* public dashboards where appropriate;
+* records requests;
+* procurement notices;
+* court records;
+* budget documents;
+* contractor changes;
+* examination incident data;
+* complaint and appeal outcomes;
+* whether legal cases disappear from active systems and records;
+* whether compensation reaches recipients;
+* whether reforms operate during the next examination cycle;
+* whether the same failure recurs under a different name;
+* setting review dates;
+* setting evidence thresholds;
+* avoiding permanent emergency mobilisation;
+* distinguishing meaningful warning signs from ordinary implementation delay;
+* documenting both improvement and failure;
+* recognising institutional progress where it occurs;
+* preserving confidence labels and unresolved questions;
+* why monitoring should reduce repeated labour rather than become endless vigilance.
+
+Likely internal headings:
+
+## 👁️ Monitoring Is Part Of Settlement
+## 📅 Turn Promises Into Dated Commitments
+## 👥 Who Checks?
+## 📊 What Should Be Measured?
+## ⚖️ Cases, Records And Eligibility
+## 💰 Compensation Delivery
+## 🏛️ Reform In The Next Examination Cycle
+## 🔁 Recurrence Under A Different Name
+## 🪜 Evidence Thresholds And Confidence
+## 🌱 Recognising Genuine Improvement
+## 🧷 Compact Finding
+
+⸻
+
+🔁 when_the_public_re-enters_the_cycle.md
+
+Include:
+
+* re-entry as part of the original theory of change;
+* the public not remaining permanently mobilised;
+* the conditions that justify renewed mobilisation;
+* failure to implement;
+* recurrence;
+* retaliation;
+* new evidence;
+* broken deadlines;
+* exclusion of affected groups;
+* compensation failure;
+* legal pressure returning;
+* reforms creating new harms;
+* early warning signs;
+* agreed thresholds for re-entry;
+* graduated responses rather than immediate full escalation;
+* possible sequence:
+  * verify;
+  * document;
+  * contact;
+  * request correction;
+  * publish;
+  * organise;
+  * mobilise;
+* preserving proportionality;
+* avoiding both premature escalation and endless patience;
+* whether the same symbol, language or coalition should be reused;
+* whether the public that re-enters is the same public;
+* institutional memory versus movement memory;
+* how archived evidence reduces the cost of re-entry;
+* why re-entry does not mean the first mobilisation failed;
+* how a successful first mobilisation can create a credible future threat of public return;
+* transition into reusable findings.
+
+Likely internal headings:
+
+## 🔁 The Cycle Was Always Circular
+## 🚨 What Triggers Re-Entry?
+## 🧾 Verify Before Escalating
+## 📣 Graduated Public Response
+## ⏳ Avoiding Endless Patience
+## ⚖️ Avoiding Premature Escalation
+## 🪳 Does The Same Symbol Return?
+## 👥 Is It The Same Public?
+## 🧠 Movement Memory And Institutional Memory
+## 🧭 From Case Study To Reusable Finding
+## 🧷 Compact Finding
+
+⸻
+
+Working principle for all ten mega-nodes
+
+Each should contain:
+
+* a clear orientation;
+* one central assessment question;
+* factual material where relevant;
+* exact separation between announcement and implementation;
+* explicit evidence boundaries;
+* careful distinction between:
+  * documented concession;
+  * reported concession;
+  * promised action;
+  * implemented action;
+  * independently verified outcome;
+  * participant interpretation;
+  * analytical inference;
+* attention to the effects on different groups rather than only the movement’s visible leadership;
+* a compact finding;
+* cross-references;
+* no branching until a section becomes independently useful, evidentially distinct or too large to navigate.
+
+Key assessment test across the whole subsection:
+
+```text
+Did the response:
+
+1. acknowledge the harm?
+2. remove coercion?
+3. redistribute material cost?
+4. change institutional authority?
+5. reduce recurrence?
+6. preserve enforceability?
+7. leave the public able to re-enter if promises failed?
+```
+
+Material deliberately held for 🧭_Reusable_Findings/:
+
+* the general model of concession versus repair;
+* the reusable institutional-absorption checklist;
+* the broader typology of resignation, compensation, case withdrawal and reform;
+* cross-country comparison;
+* newsroom guidance for reporting partial victory;
+* reusable monitoring templates;
+* general lessons about movement re-entry;
+* the final synthesis of the full lunar cycle.
+
+Within 🌘, those ideas should remain anchored to the Cockroach case. The reusable abstraction belongs later.
