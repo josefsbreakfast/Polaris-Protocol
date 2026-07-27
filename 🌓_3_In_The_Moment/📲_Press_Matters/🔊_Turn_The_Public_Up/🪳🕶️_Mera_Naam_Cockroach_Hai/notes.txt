@@ -1281,3 +1281,700 @@ For the next pass, each proposed node can be marked:
                 ├── 🪜_evidence_and_confidence.md
                 ├── 🧪_rival_explanations.md
                 └── 🧾_evidence_log.md
+
+---
+
+# 🧩 Gap Analysis — What The At-A-Glance Note Deliberately Holds Back
+
+**Created:** 2026-07-27  
+**Purpose:** Internal organising note for deciding what should become later nodes beneath `🪳🕶️_Mera_Naam_Cockroach_Hai/`.
+
+This is not a criticism of `🪳_the_cockroach_at_a_glance.md`.
+
+The at-a-glance note is designed to do three jobs:
+
+1. give the factual and political spine of the case;
+2. explain the cockroach as a cultural and movement object;
+3. tell the reader what remains uncertain.
+
+It deliberately does **not** attempt to contain the complete case.
+
+The gaps below are therefore mostly intentional. They indicate where deeper notes may later be needed.
+
+---
+
+## 🗓️ Full Chronology
+
+The note gives only an executive sequence:
+
+```text
+examination failure
+        ↓
+shared grievance
+        ↓
+public mobilisation
+        ↓
+government response
+        ↓
+unresolved questions
+```
+
+It does not yet provide:
+
+- dated events;
+- first preserved appearance of the phrase;
+- first preserved appearance of the cockroach image;
+- protest dates;
+- escalation points;
+- government response dates;
+- dates of cases, withdrawals, inquiries or compensation;
+- later implementation milestones.
+
+### Possible destination
+
+- `🗓️_chronology.md`
+- or a chronology section inside the relevant lunar-phase README until it grows.
+
+---
+
+## 👥 Detailed Actor And Institution Map
+
+The note identifies broad actor groups but does not map:
+
+- exact examination authorities;
+- ministries;
+- office-holders;
+- police bodies;
+- examination centres;
+- prime contractors;
+- subcontractors;
+- platform actors;
+- movement organisers;
+- student organisations;
+- legal representatives;
+- journalists;
+- translators;
+- regional amplifiers.
+
+It also does not yet show who held:
+
+- formal authority;
+- operational control;
+- legal responsibility;
+- public visibility;
+- financial interest;
+- coercive capacity.
+
+### Possible destination
+
+- `👥_actors_and_institutions.md`
+- or `🏢_authority_delivery_and_responsibility.md`.
+
+---
+
+## 📋 Exact Demand History
+
+The note gives the demands as an analytical matrix, but holds back:
+
+- exact wording;
+- who issued each demand;
+- when each demand emerged;
+- whether the demand list changed;
+- whether all participants shared the same priorities;
+- whether reform was formally articulated or analytically inferred;
+- what was negotiable;
+- what was treated as non-negotiable.
+
+### Possible destination
+
+- `📋_the_three_demands.md`
+- or a broader `📋_demands_as_diagnosis.md`.
+
+---
+
+## 🏛️ Exact Government Response
+
+The note deliberately does not claim a settled factual account of:
+
+- who resigned;
+- why they resigned;
+- whether resignation was formally linked to the movement;
+- which cases were withdrawn;
+- whether compensation was promised or delivered;
+- what reform was announced;
+- whether any inquiry produced findings;
+- whether the machinery actually changed.
+
+The note frames the response as something requiring separate verification.
+
+### Possible destination
+
+- `📋_what_was_actually_conceded.md`
+- `👤_a_resignation_is_not_a_system.md`
+- `🔍_the_tolerance_test.md`.
+
+---
+
+## ⚖️ Legal And Administrative Detail
+
+The at-a-glance note identifies legal and administrative pressure as a category, but does not yet include:
+
+- charges;
+- case numbers;
+- statutes;
+- arrest or detention details;
+- disciplinary procedures;
+- blacklisting concerns;
+- eligibility rules;
+- case-withdrawal mechanisms;
+- court outcomes;
+- administrative records;
+- informal retaliation.
+
+### Possible destination
+
+- `⚖️_legal_and_administrative_pressure.md`
+- or within `🌕_What_The_Movement_Was_Up_Against/`.
+
+---
+
+## 🎓 The Examination System In Detail
+
+The note states that the examination allocates scarce futures, but holds back the full analysis of:
+
+- marks versus rank;
+- displacement;
+- paper leaks;
+- strict attendance rules;
+- travel and access;
+- coaching;
+- caste and class inequality;
+- language;
+- disability;
+- health;
+- family pressure;
+- merit as a social claim;
+- the difference between procedural and structural compassion.
+
+### Possible destination
+
+Primarily:
+
+- `🌑_The_System_Becomes_Intolerable/`
+
+Possible later nodes include:
+
+- `🚪_the_exam_allocates_a_future.md`
+- `⚖️_the_system_can_fail_but_the_student_cannot.md`
+- `📊_merit_is_a_social_claim.md`
+- `🧑_students_have_lives.md`.
+
+---
+
+## 🕯️ Suicide, Survival And Living Harm
+
+The executive note does not include the deeper material on:
+
+- suicide risk;
+- non-fatal attempts;
+- continuing injury;
+- family consequences;
+- gendered fatality;
+- clinical harm;
+- compensation for survivors;
+- institutional prevention duties;
+- careful causation language.
+
+This is held back because it requires its own care, warnings and evidentiary discipline.
+
+### Possible destination
+
+- `🕯️_the_pressure_can_end_in_more_than_one_way.md`
+- within `🌑_The_System_Becomes_Intolerable/`.
+
+---
+
+## 💊 Performance Pharmacology And Diagnosis
+
+The note does not include the wider argument about:
+
+- stimulant use;
+- ADHD;
+- diagnosis as an accommodation route;
+- the medicalisation of performance pressure;
+- institutional preference for measurable individual deficits;
+- historical performance pharmacology;
+- exhaustion being treated as personal failure.
+
+This was intentionally excluded because it is a substantial adjacent argument, not an executive fact of the cockroach case.
+
+### Possible destination
+
+- `💊_when_performance_becomes_a_clinical_problem.md`
+- probably inside `🌑_The_System_Becomes_Intolerable/`.
+
+---
+
+## 🕳️ Hidden Transcript And Infrapolitics
+
+The note says the symbol may have amplified quieter resistant practices, but does not yet develop:
+
+- coded speech;
+- private jokes;
+- disappearing content;
+- pseudonymity;
+- regional satire;
+- plausible deniability;
+- collective deniability;
+- the hidden transcript as a root system;
+- how the visible mascot emerged from prior culture.
+
+### Possible destination
+
+- `🕳️_the_hidden_transcript_found_a_mascot.md`
+- inside `🌒_The_Public_Comes_Outside/`.
+
+---
+
+## 🛠️ Organisation, Logistics And Mutual Aid
+
+The note states that the meme had a back end, but does not document:
+
+- organisers;
+- communication routes;
+- food;
+- water;
+- first aid;
+- transport;
+- legal support;
+- translation;
+- stewarding;
+- documentation;
+- archiving;
+- morale;
+- accessibility;
+- movement continuity.
+
+This is held back because organisational capacity must be evidenced rather than inferred from virality.
+
+### Possible destination
+
+- `🛠️_the_meme_had_a_back_end.md`
+- `🩹_care_is_movement_infrastructure.md`
+- inside `🌒_The_Public_Comes_Outside/`.
+
+---
+
+## 🎶 Music, Performance And Embodied Participation
+
+The note does not yet explore:
+
+- chants;
+- songs;
+- costumes;
+- gestures;
+- rhythm;
+- synchronisation;
+- performance;
+- soundtrack;
+- emotional regulation through collective expression.
+
+### Possible destination
+
+- `🎶_the_hidden_transcript_acquired_a_soundtrack.md`
+- inside `🌒_The_Public_Comes_Outside/`.
+
+---
+
+## 📺 The Broadcast And Media Ecosystem
+
+The note describes the publication pathway only at executive level.
+
+It does not yet analyse:
+
+- mainstream media narrowing;
+- ownership;
+- political access;
+- executive narration;
+- direct-to-public broadcasting;
+- public remixing;
+- evidentiary cover for journalists;
+- ridicule as narrative disruption;
+- loss of narrative inevitability;
+- platform-state interaction.
+
+### Possible destination
+
+- `📺_when_the_public_broke_the_broadcast.md`
+- inside `🌒_The_Public_Comes_Outside/`
+- and `🌕_What_The_Movement_Was_Up_Against/`.
+
+---
+
+## 🪜 Caste, Class And Unequal Participation
+
+The note flags unequal risk but does not yet develop:
+
+- caste hierarchy;
+- class;
+- language dominance;
+- regional access;
+- gender;
+- disability;
+- platform visibility;
+- moderation bias;
+- who became representative;
+- whose labour remained invisible;
+- whether the symbol carried anti-caste solidarity.
+
+This is held back because it requires careful sourcing and should not be reduced to a generic disclaimer.
+
+### Possible destination
+
+- `🪜_the_public_is_not_flat.md`
+- `🧱_caste_travels_through_the_platform.md`
+- inside `🌕_What_The_Movement_Was_Up_Against/`.
+
+---
+
+## 👁️ Surveillance And Chilling Effects
+
+The note acknowledges legal and administrative pressure but does not yet analyse:
+
+- identity-linked examination data;
+- candidate-to-protester profiles;
+- facial recognition;
+- platform records;
+- future eligibility;
+- predictive policing;
+- internet shutdowns;
+- platform enforcement;
+- chilling effects;
+- anticipated punishment.
+
+### Possible destination
+
+- `👁️_the_state_can_see_the_student.md`
+- `👁️_digital_repression_works_through_anticipation.md`
+- inside `🌕_What_The_Movement_Was_Up_Against/`.
+
+---
+
+## 🏢 Centralisation, Outsourcing And Contractor Failure
+
+The note does not yet map:
+
+- central authority;
+- outsourced delivery;
+- examination vendors;
+- software systems;
+- subcontractors;
+- security chains;
+- institutional capability;
+- accountability gaps;
+- the hollow centre;
+- who owns operational failure.
+
+### Possible destination
+
+- `🏛️_the_power_was_centralised_the_responsibility_was_outsourced.md`
+- inside `🌕_What_The_Movement_Was_Up_Against/`.
+
+---
+
+## 💰 Procurement And Foreign Dependency
+
+The note intentionally excludes the larger procurement trail:
+
+- contracting authority;
+- prime contractor;
+- technology owner;
+- ultimate beneficiary;
+- foreign IP;
+- maintenance;
+- upgrades;
+- export licences;
+- lifecycle dependency;
+- India–Israel security integration;
+- digital forensics;
+- facial recognition;
+- surveillance capability.
+
+This material is too large and too attribution-sensitive for an at-a-glance note.
+
+### Possible destination
+
+- `💰_follow_the_money.md`
+- `🇮🇱_the_india-israel_defence_industrial_stack.md`
+- possibly forked into DADA or Little Database of Horrors.
+
+---
+
+## 🧾 Capability, Access, Use And Attribution
+
+The note introduces evidence and confidence, but does not fully develop the distinction:
+
+```text
+capability
+≠ access
+≠ implementation
+≠ demonstrated use
+≠ attribution
+≠ causation
+```
+
+This should become a dedicated analytical safeguard wherever surveillance or procurement claims are made.
+
+### Possible destination
+
+- `🧾_capability_access_use_and_attribution.md`
+- inside `🌕_What_The_Movement_Was_Up_Against/`
+- or linked to the wider DADA capability framework.
+
+---
+
+## 🌍 Regional And International Information Effects
+
+The note mentions cross-platform and cross-border movement but does not yet explore:
+
+- South Asia as an information region;
+- neighbouring press;
+- diaspora circulation;
+- hostile auditing;
+- Bangladesh;
+- Pakistan;
+- Kashmir;
+- China;
+- Russia;
+- Western government interpretation;
+- regional policy learning;
+- global movement learning.
+
+### Possible destination
+
+- `🌍_the_region_is_watching.md`
+- `🌐_political_borders_are_not_information_borders.md`
+- either inside `🌕`, `🌘`, or `🧭_Reusable_Findings/`.
+
+---
+
+## 🧱 Colonial, Partition And Belonging Frames
+
+The note does not include the deeper historical arguments about:
+
+- colonial information architecture;
+- inherited administrative techniques;
+- partition;
+- the external Muslim other;
+- domestic belonging;
+- Pakistan as political shorthand;
+- how historical repertoires shape current governance.
+
+This was held back because it risks swallowing the immediate case unless separately developed and evidenced.
+
+### Possible destination
+
+- likely a forked or linked contextual cluster rather than an immediate Cockroach node.
+
+---
+
+## 🧽 How Institutions Absorb Pressure
+
+The note says that visible response is not necessarily structural change, but does not fully map institutional absorption techniques:
+
+- resignation;
+- inquiry;
+- contractor blame;
+- portal creation;
+- technical fixes;
+- limited compensation;
+- delay;
+- rebranding;
+- closed implementation;
+- managed demobilisation.
+
+### Possible destination
+
+- `🧽_how_institutions_absorb_pressure_without_changing.md`
+- in `🌕` or `🌘`.
+
+---
+
+## 🪓 Movement Fracture After Partial Victory
+
+The note does not yet explore:
+
+- who thought the concession was enough;
+- who remained harmed;
+- pragmatists and maximalists;
+- unequal tolerability thresholds;
+- exhaustion;
+- return to ordinary life;
+- pressure to stop;
+- how victory itself can divide a coalition.
+
+### Possible destination
+
+- `🪓_when_a_victory_splits_the_coalition.md`
+- inside `🌘_Did_The_System_Become_Tolerable/`.
+
+---
+
+## ⏸️ Watchful Stabilisation
+
+The note reaches the tolerance test but does not yet develop:
+
+- provisional settlements;
+- monitoring;
+- dated promises;
+- implementation checks;
+- preserving records;
+- preserving relationships;
+- re-entry thresholds;
+- pausing without trusting.
+
+### Possible destination
+
+- `⏸️_pause_is_not_the_same_as_trust.md`
+- `👁️_monitoring_the_new_status_quo.md`
+- `🔁_when_the_public_re-enters_the_cycle.md`
+- inside `🌘`.
+
+---
+
+## 📰 Full Newsroom Method
+
+The note includes only the source pathway.
+
+It does not yet contain the larger newsroom method:
+
+- situated reporting;
+- talk to people first;
+- the WhatsApp test;
+- diaspora knowledge;
+- source class and caste;
+- translation;
+- cultural labour;
+- image risk;
+- neighbouring press;
+- headline/source mismatch;
+- editor checklist.
+
+### Possible destination
+
+- `🗞️_For_Readers_And_Newsrooms/README.md`
+- with later child nodes only where necessary.
+
+---
+
+## 📚 Full Source Base
+
+The note gives source categories but not:
+
+- actual bibliography;
+- source links;
+- archival captures;
+- screenshots;
+- quotations;
+- translations;
+- confidence notes;
+- contradictions;
+- dead links;
+- hostile-source cautions;
+- source chronology.
+
+### Possible destination
+
+- future archive arm;
+- or a compact `📚_sources_and_reading.md` if the case remains lean.
+
+---
+
+## 🪶 Full Authorial And Ethical Position
+
+The author’s note is deliberately brief.
+
+It does not yet cover:
+
+- survivor authorship in detail;
+- handling identifiable participants;
+- consent;
+- visual risk;
+- cultural appropriation;
+- translation credit;
+- not reproducing surveillance;
+- whether to preserve deleted material;
+- harm thresholds for publication;
+- local review.
+
+### Possible destination
+
+- `🗞️_For_Readers_And_Newsrooms/`
+- or existing Polaris integrity and survivor-voice protocols.
+
+---
+
+## 🧭 What Was Held Back Because It Is Not Yet Securely Verified
+
+Several areas should remain explicitly provisional until sourced:
+
+- the exact first use of `Mera naam cockroach hai`;
+- the original designer of the cockroach;
+- whether the phrase originated as insult, self-naming or later reframing;
+- the exact chronology of image circulation;
+- whether the movement was centrally organised or loosely networked;
+- the exact demand wording;
+- exact legal cases and withdrawals;
+- exact compensation status;
+- the causal contribution of the meme to concession;
+- the extent of platform suppression;
+- any product-specific surveillance allegation;
+- any product-specific India–Israel claim;
+- any claim of “battle-testing” attached to a specific technology;
+- whether later accounts overstate the symbol’s early role.
+
+These are not empty spaces to be filled by confident prose.
+
+They are research tasks.
+
+---
+
+## 🧷 Compact Gap Finding
+
+The at-a-glance note contains:
+
+```text
+the factual spine
+        +
+the cultural doorway
+        +
+the movement mechanism
+        +
+the evidence cautions
+```
+
+It deliberately holds back:
+
+```text
+full chronology
+        +
+full institutional map
+        +
+deep social analysis
+        +
+legal detail
+        +
+organisational back end
+        +
+surveillance and procurement trails
+        +
+implementation evidence
+        +
+regional comparison
+        +
+the complete source archive
+```
+
+The next notes should therefore not repeat the executive summary.
+
+They should deepen one withheld layer at a time.
