@@ -11,4 +11,538 @@
 ├── 🇮🇱_the_india-israel_defence_industrial_stack.md
 └── 🌍_the_technique_travels_better_than_the_ideology.md
 
----
+----
+
+🌕 README.md
+
+Include:
+
+* the lunar correspondence: the full moon as the phase in which the machinery becomes fully visible;
+* the movement did not confront one minister, one examination authority or one broken test;
+* it confronted an institutional environment;
+* the distinction between formal authority, operational delivery and actual responsibility;
+* the contradiction between strict compliance demanded from students and weak discipline across institutional supply chains;
+* the movement becoming visible to institutions that already held student data;
+* unequal visibility and unequal risk;
+* information narrowing through ownership, access, platform pressure and executive narration;
+* procurement as a source of political and administrative capability;
+* the distinction between capability, access, implementation, demonstrated use, attribution and causation;
+* the danger of turning a plausible structural argument into an unsupported product-specific allegation;
+* the core system model:
+
+```text
+centralised authority
+        +
+outsourced delivery
+        +
+unequal public exposure
+        +
+information narrowing
+        +
+surveillance capability
+        +
+opaque procurement
+        ↓
+power becomes easier to exercise
+and harder to assign
+```
+
+* a brief map of the mega-nodes beneath it;
+* the transition into 🌘_Did_The_System_Become_Tolerable/;
+* compact finding: the movement was confronting a system able to centralise control, fragment responsibility and observe the public more clearly than the public could observe it.
+
+⸻
+
+🏛️ the_power_was_centralised_the_responsibility_was_outsourced.md
+
+Include:
+
+* why the relevant national examination authority was created;
+* movement from multiple examining bodies towards a national gateway;
+* centralised rule-setting;
+* outsourced examination delivery;
+* vendors, subcontractors and technology suppliers;
+* fragmented operational responsibility;
+* the hollow centre;
+* every handoff as a point of failure;
+* one national gateway creating one national crisis;
+* strictness with students versus looseness across the supply chain;
+* technology offered as a repair for governance failure;
+* procurement not being the same as institutional capability;
+* the difference between:
+  * contracting authority;
+  * examination authority;
+  * prime contractor;
+  * subcontractor;
+  * software owner;
+  * operator;
+  * regulator;
+* why contractor blame may be accurate but still politically incomplete;
+* what responsibility remains non-delegable;
+* what evidence would be needed to assign operational, legal and political responsibility;
+* how centralisation can amplify both efficiency and systemic failure;
+* distinction between centralisation as a design choice and corruption as a separate claim.
+
+Likely internal headings:
+
+## 🧭 Why The National Authority Was Created
+## 🏢 From Multiple Bodies To One National Gateway
+## 🕳️ The Hollow Centre
+## 📦 Centralised Authority, Outsourced Delivery
+## 🔗 Every Handoff Is A Point Of Failure
+## 🎯 One National Gateway, One National Crisis
+## ⏰ Strict With Students, Loose With The Supply Chain
+## 🧑‍💻 Can Technology Repair A Governance Problem?
+## 🧾 Procurement Is Not Institutional Capability
+## ⚖️ Who Owns The Failure?
+## 🧷 Compact Finding
+
+⸻
+
+🏫 the_curriculum_and_the_gate.md
+
+Include:
+
+* the relationship between curriculum, national narrative and institutional entry;
+* who gets to describe the nation;
+* who gets to enter its institutions;
+* centralised ideological authority with fragmented delivery;
+* examinations as gates into public institutions and professions;
+* merit as a government claim;
+* corruption moving rather than disappearing;
+* how centralisation can change the location of influence rather than remove it;
+* the contradiction young people can see between official merit language and lived institutional practice;
+* what happens when students stop believing the system;
+* distinction between:
+  * curriculum control;
+  * examination administration;
+  * ideological interpretation;
+  * corruption;
+  * procedural failure;
+* careful treatment of comparisons with other national projects;
+* comparisons used as recognition bridges rather than proof of equivalence;
+* the risk of collapsing educational governance, nationalist narrative and procurement into one unsupported causal story;
+* transition from the examination gate to the wider legitimacy structure.
+
+Likely internal headings:
+
+## 📚 Who Gets To Describe The Nation
+## 🚪 Who Gets To Enter Its Institutions
+## 🧱 Centralised Ideology, Fragmented Delivery
+## 🪪 Merit As A Government Claim
+## 🕳️ Corruption Did Not Disappear; It Moved
+## 🧠 Young People Can See The Contradiction
+## 🪳 When Students Stop Believing The System
+## 🌉 Comparison Is Not Equivalence
+## 🧷 Compact Finding
+
+⸻
+
+🪜 the_public_is_not_flat.md
+
+Include:
+
+* the institutional counterpart to the movement-side analysis in 🌒;
+* shared public identity not producing equal exposure;
+* caste;
+* class;
+* gender;
+* language;
+* geography;
+* disability;
+* digital access;
+* professional vulnerability;
+* unequal exposure to policing, discipline, academic sanctions and future employment consequences;
+* caste travelling through platforms;
+* whose hidden transcript becomes publicly legible;
+* unequal moderation;
+* outsourced moderation and cultural illiteracy;
+* dominant language and code appearing neutral;
+* who became the voice of the students;
+* who remained less visible;
+* whose labour remained less recognised;
+* a common mascot not creating equal risk;
+* whether naming caste is misclassified as caste hatred;
+* whether the cockroach could carry anti-caste solidarity;
+* the difference between:
+  * unequal participation;
+  * unequal visibility;
+  * unequal moderation;
+  * unequal punishment;
+* how institutional systems inherit social hierarchy without explicitly encoding it;
+* evidence needed before making claims about caste composition or representation;
+* the danger of treating a movement’s visible public as a complete demographic map.
+
+Likely internal headings:
+
+## 🪜 A Shared Public Is Not An Equal Public
+## 🧱 Caste Travels Through The Platform
+## 🗣️ Whose Hidden Transcript Becomes Public
+## 🪪 A Common Mascot Does Not Create Equal Risk
+## 🕳️ The Dominant Code Looks Neutral
+## ⚖️ Equal Rules, Unequal Moderation
+## 🧑‍💻 Outsourced Moderation And Cultural Illiteracy
+## 🚩 Naming Caste Is Not Caste Hatred
+## 🎙️ Who Became The Voice Of The Students
+## 🪳 Can The Cockroach Carry Anti-Caste Solidarity?
+## 🧷 Compact Finding
+
+⸻
+
+👁️ the_state_can_see_the_student.md
+
+Include:
+
+* students already existing as administrative data;
+* candidate profiles becoming potential protester profiles;
+* identity-linked examination systems;
+* photographs, biometrics and contact information;
+* facial recognition at demonstrations;
+* posts and platform activity becoming part of a record;
+* social-media scraping;
+* predictive policing and pre-emptive governance;
+* future educational or professional costs of identification;
+* internet shutdowns removing coordination rather than merely content;
+* platforms as possible enforcement intermediaries;
+* chilling effects as policy outcomes;
+* the shared avatar inside an identifying system;
+* the distinction between:
+  * capability;
+  * access;
+  * implementation;
+  * demonstrated use;
+  * attribution;
+  * causation;
+* surveillance working through anticipation even without universal enforcement;
+* what is known from previous Indian protest contexts;
+* what cannot be transferred automatically into the Cockroach case;
+* the danger of inferring specific surveillance from general capability;
+* the evidentiary difference between procurement, deployment and use against a named movement;
+* how uncertainty itself can produce chilling effects.
+
+Likely internal headings:
+
+## 📊 The State Already Has The Student As Data
+## 🪪 From Candidate Profile To Protester Profile
+## 📷 Facial Recognition At The Demonstration
+## 📱 The Post Becomes Part Of The Record
+## 🧠 Predictive Policing And Pre-Emptive Governance
+## 🎓 The Future Cost Of Being Identified
+## 📵 Shutdowns Remove Coordination, Not Only Content
+## 🧱 Platforms As Enforcement Intermediaries
+## 🧊 The Chilling Effect Is A Policy Result
+## 🪳 A Shared Avatar In An Identifying System
+## 🧾 Capability, Access, Use And Attribution
+## 🧷 Compact Finding
+
+⸻
+
+🪖 from_agnipath_to_cjp.md
+
+Include:
+
+* Agnipath as a comparison involving young people protesting a state-controlled future;
+* the state controlling both opportunity and punishment;
+* participation and eligibility;
+* risk of a permanent record;
+* protest affecting future employment, service or institutional entry;
+* the state as gatekeeper and adversary;
+* whether people can safely challenge the institution that will later judge them;
+* common structures across youth protest;
+* important differences between the cases;
+* why comparison should identify mechanisms rather than collapse histories;
+* evidence needed to claim institutional learning between protest contexts;
+* distinction between analogy, structural comparison and direct causal continuity;
+* how protest risk changes when the state controls access to the future being contested;
+* whether participation itself can become a new form of disqualification;
+* connection back to students being visible to the state.
+
+Likely internal headings:
+
+## 👦 Young People Protesting A State-Controlled Future
+## 📋 Participation And Eligibility
+## 🕵️ The Risk Of A Permanent Record
+## 🏛️ The State As Both Gatekeeper And Adversary
+## ⚖️ Can You Challenge The Institution That Will Judge You?
+## 🧪 What The Comparison Can And Cannot Show
+## 🧷 Compact Finding
+
+This may later shrink into a comparative insert if it does not sustain a full mega-node.
+
+⸻
+
+📰 the_information_system_was_narrowing.md
+
+Include:
+
+* the shrinking mainstream;
+* ownership, access and political alignment;
+* centralisation by ecosystem rather than one command centre;
+* the prime minister or executive as principal narrator;
+* managed official communication;
+* legitimised exclusion zones;
+* regulation shifting towards collusion or co-optation;
+* content takedowns without adequate safeguards;
+* the transparent citizen and opaque state;
+* digital authoritarianism inside democratic procedure;
+* India as an early democratic test case;
+* normalisation through accumulated exceptions;
+* democracies learning to do this quietly;
+* the difference between:
+  * censorship;
+  * access control;
+  * ownership pressure;
+  * algorithmic distribution;
+  * regulatory threat;
+  * state–corporate convergence;
+* how the information system shaped the movement’s room to communicate;
+* connection back to the public breaking the broadcast in 🌒;
+* strong international-law framing without turning the node into a generic global report;
+* the distinction between media concentration and direct state instruction;
+* how formal legality can coexist with substantively narrowed public communication;
+* why a narrowing information system may still contain dissenting outlets, journalists and publics.
+
+Likely internal headings:
+
+## 📰 The Shrinking Mainstream
+## 🏢 Ownership, Access And Alignment
+## 📡 Centralisation By Ecosystem
+## 🎙️ The Executive As Principal Narrator
+## 🌐 Legitimised Exclusion Zones
+## 🤝 From Regulation To Collusion And Co-Optation
+## 🇮🇳 Takedowns Without Safeguards
+## 👁️ The Transparent Citizen And The Opaque State
+## 🗳️ Digital Authoritarianism Inside Democratic Procedure
+## 🪜 Normalisation Happens One Exception At A Time
+## 🌐 Democracies Learned To Do This Quietly
+## 🧷 Compact Finding
+
+⸻
+
+🧾 the_source_was_weaker_than_the_headline.md
+
+Include:
+
+* the headline making a stronger claim than the source;
+* what the relevant UN or international report actually says;
+* what it does not say;
+* quotations attributed to officials that cannot be located;
+* separate datasets being combined in reporting;
+* how journalism assembles a larger argument from several sources;
+* the difference between:
+  * source statement;
+  * press paraphrase;
+  * headline claim;
+  * analytical synthesis;
+  * unsupported attribution;
+* analytically plausible but attributionally weak claims;
+* why a true general pattern does not validate a false quotation;
+* how to preserve useful structural analysis while correcting sourcing;
+* a source table recording claim, source, confidence and limits;
+* explicit correction protocol;
+* how repeated citation can make a weak attribution look stronger over time;
+* the difference between a source failing to support a claim and the claim being proven false;
+* why this node protects the integrity of the surveillance and procurement analysis that follows.
+
+Likely internal headings:
+
+## 📰 The Headline Was Stronger Than The Source
+## 📄 What The Report Actually Says
+## 🎙️ What We Cannot Verify Was Said
+## 📊 Where The Separate Data Came From
+## 🧵 How The Press Assembled The Argument
+## ⚖️ Analytically Plausible, Attributionally Weak
+## 🪜 Claim, Source, Confidence And Limit
+## 🛠️ Correction Without Analytical Collapse
+## 🧷 Compact Finding
+
+⸻
+
+💰 follow_the_money.md
+
+Include:
+
+* procurement creating access to capability;
+* contracting authorities;
+* Indian prime contractors;
+* subcontractors;
+* technology ownership;
+* foreign intellectual property;
+* licensing;
+* maintenance;
+* upgrades;
+* lifecycle dependency;
+* recurring contracts;
+* training;
+* data retention;
+* integration;
+* digital forensics in policing;
+* facial-recognition procurement;
+* replacement of Chinese hardware and what replaced it;
+* procurement becoming foreign policy;
+* financial beneficiaries;
+* the distinction between purchaser, operator, beneficiary, regulator and diplomatic sponsor;
+* capability not proving use;
+* access not proving implementation;
+* implementation not proving use in this protest;
+* procurement records, export licences and maintenance arrangements as evidence;
+* why mission statements should be checked against ownership and revenue;
+* the role of local manufacture in obscuring foreign IP or technical dependency;
+* why the Indian prime contractor may not be the end of the ownership trail;
+* how service contracts can matter as much as initial purchase;
+* when procurement creates institutional lock-in;
+* what evidence would justify moving from general capability to case-specific allegation.
+
+Likely internal headings:
+
+## 💰 Procurement Creates Capability
+## 🧾 How India Buys Surveillance
+## 🏛️ The Contracting Authority
+## 🏢 The Indian Prime Is Not The End Of The Trail
+## 🧠 Who Owns The Technology?
+## 🪆 Made In India, Foreign IP
+## 🔁 Licences, Maintenance And Lifecycle Dependency
+## 📱 Digital Forensics In Indian Policing
+## 📷 Who Supplied The Facial Recognition?
+## 🇨🇳 Replacing Chinese Hardware With What?
+## 🗳️ When Procurement Becomes Foreign Policy
+## 🧾 Capability, Access, Use And Attribution
+## 💰 Procurement Is Foreign Policy With Invoices
+## 🧷 Compact Finding
+
+This is one of the likeliest mega-nodes to fork later.
+
+⸻
+
+🇮🇱 the_india-israel_defence_industrial_stack.md
+
+Include:
+
+* India as customer, co-producer and adapter;
+* BEL–IAI relationships;
+* Adani–Elbit production;
+* Cellebrite or other digital-forensics suppliers where properly sourced;
+* public and private actors;
+* export licences;
+* local manufacture;
+* foreign IP;
+* maintenance and upgrades;
+* joint ventures;
+* integration with Indian policing or defence;
+* the relationship between defence procurement and domestic security capability;
+* what a BDS analysis needs to trace;
+* occupation-to-export claims;
+* “battle-tested” language and its sourcing;
+* careful distinction between:
+  * marketing claim;
+  * documented deployment;
+  * export relationship;
+  * Indian acquisition;
+  * specific domestic use;
+* why Palestine may be relevant to the supply-chain analysis without becoming a substitute for evidence;
+* connection to 🍉_Palestine_As_Rhizome/;
+* strict attribution boundaries;
+* the need to separate company-level, sector-level and state-level claims;
+* the role of co-production in blurring the line between import and domestic manufacture;
+* the importance of maintenance, upgrades, training and software support;
+* whether capability transfers through hardware, software, doctrine or institutional relationship.
+
+Likely internal headings:
+
+## 🇮🇳 India As Customer, Co-Producer And Adapter
+## 🚀 BEL, IAI And The Missile Relationship
+## 🛩️ Adani, Elbit And The Drone Factory
+## 📱 Digital Forensics In Indian Policing
+## 🧾 The Export Licence Is Part Of The Story
+## 🏢 Private Company, State-Regulated Market
+## 🔁 Maintenance, Upgrades And Dependence
+## 🍉 What A BDS Analysis Needs To Trace
+## ⚠️ “Battle-Tested” Requires A Source
+## 🧾 Capability Does Not Establish Use
+## 🧷 Compact Finding
+
+This is one of the likeliest mega-nodes to fork later.
+
+⸻
+
+🌍 the_technique_travels_better_than_the_ideology.md
+
+Include:
+
+* authoritarian technique moving between ideologically different states;
+* procurement carrying institutional assumptions;
+* democratic states acquiring capabilities developed for other settings;
+* technologies retaining affordances beyond their stated mission;
+* policy diffusion;
+* legal and administrative borrowing;
+* normalisation through security, efficiency and fraud-prevention language;
+* the occupation-to-export pipeline as one possible route, where evidenced;
+* the importing state adapting tools to different target groups;
+* democratic authoritarianism not requiring explicit ideological imitation;
+* why techniques may travel through:
+  * procurement;
+  * training;
+  * interoperability;
+  * consultancy;
+  * policing conferences;
+  * intelligence cooperation;
+  * emergency governance;
+* India as neither an isolated exception nor proof of one universal model;
+* what could travel onward to other democracies;
+* distinction between resemblance, diffusion and documented transfer;
+* the danger of inferring a transfer pathway from similar outcomes alone;
+* why institutional technique may survive political change more easily than ideology;
+* how mission language changes while capabilities remain;
+* connection to wider DADA and reusable-findings work;
+* transition into the later assessment of whether institutional response produced a tolerable system.
+
+Likely internal headings:
+
+## 🌍 The Technique Travels Better Than The Ideology
+## 🧳 Capabilities Travel With Institutional Assumptions
+## 🔁 Procurement Carries Policy
+## 🏛️ Democracies Do Not Need To Copy The Ideology
+## 🪪 Different States, Different Target Groups
+## 🚨 Emergency And Security As Transfer Languages
+## 🧭 Resemblance, Diffusion And Documented Transfer
+## 🇮🇳 India As A Test Case, Not A Universal Template
+## ➡️ From Domestic Machinery To Reusable Warning
+## 🧷 Compact Finding
+
+⸻
+
+Working principle for all ten mega-nodes
+
+Each should contain:
+
+* a clear orientation;
+* one central institutional or political-economy argument;
+* factual material where relevant;
+* explicit evidence boundaries;
+* careful separation of:
+  * documented fact;
+  * reported claim;
+  * participant interpretation;
+  * analytical inference;
+  * plausible but unresolved connection;
+* clear distinction between capability, access, implementation, use, attribution and causation;
+* internal headings from the old child-node inventory;
+* a compact finding;
+* cross-references;
+* no branching until a section becomes independently useful, evidentially distinct or too large to navigate.
+
+Material deliberately held for 🌘_Did_The_System_Become_Tolerable/:
+
+* full assessment of what the government conceded;
+* whether cases were actually withdrawn;
+* whether compensation was delivered;
+* whether reforms were implemented;
+* whether responsibility moved beyond one resignation;
+* whether vendors or officials were held accountable;
+* whether surveillance or coercive capacity changed;
+* whether the risk of recurrence materially fell;
+* whether the new settlement was enforceable;
+* how partial victory divided or stabilised the movement;
+* how and when the public might re-enter mobilisation.
+
+Within 🌕, concessions should appear only insofar as they reveal the structure the movement was confronting. The question of whether those concessions made the system tolerable belongs to 🌘.
