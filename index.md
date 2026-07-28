@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-28 23:21:50 UTC_
+_Generated on 2026-07-28 23:30:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6310,6 +6310,7 @@ _Generated on 2026-07-28 23:21:50 UTC_
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🌖_6_Learning_The_Skies/**](🌖_6_Learning_The_Skies/)
   - [**⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/**](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/)
+    - [`README.md`](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/README.md)
     - [`notes.txt`](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/notes.txt)
   - [**🌈_Gold_Pot_Chasers/**](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/)
     - [**🍃_Input_Stack/**](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🍃_Input_Stack/)
