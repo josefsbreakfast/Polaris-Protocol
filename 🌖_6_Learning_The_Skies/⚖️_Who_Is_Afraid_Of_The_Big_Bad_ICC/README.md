@@ -1,4 +1,4 @@
-# ⚖️ Who Is Afraid Of The Big Bad ICC  
+# ⚖️ Who Is Afraid Of The Big Bad ICC?  
 **First created:** 2026-07-29 | **Last updated:** 2026-07-29  
 *A public-domain learning cluster for mapping who benefits when international criminal accountability remains weak, selective, delayed, or commercially unenforceable.*
 
