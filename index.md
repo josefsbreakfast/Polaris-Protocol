@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-28 23:32:57 UTC_
+_Generated on 2026-07-28 23:42:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6310,8 +6310,26 @@ _Generated on 2026-07-28 23:32:57 UTC_
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🌖_6_Learning_The_Skies/**](🌖_6_Learning_The_Skies/)
   - [**⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/**](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/)
+    - [**⚖️_ICC_Jurisdiction_And_Limits/**](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/⚖️_ICC_Jurisdiction_And_Limits/)
+      - [`README.md`](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/⚖️_ICC_Jurisdiction_And_Limits/README.md)
+    - [**🌉_Repair_Precedent_And_Transfer/**](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/🌉_Repair_Precedent_And_Transfer/)
+      - [`README.md`](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/🌉_Repair_Precedent_And_Transfer/README.md)
     - [**🌑_Orientation/**](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/🌑_Orientation/)
       - [`README.md`](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/🌑_Orientation/README.md)
+    - [**🏢_Corporate_And_Executive_Exposure/**](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/🏢_Corporate_And_Executive_Exposure/)
+      - [`README.md`](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/🏢_Corporate_And_Executive_Exposure/README.md)
+    - [**🏦_Capital_Underwriting_And_Risk/**](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/🏦_Capital_Underwriting_And_Risk/)
+      - [`README.md`](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/🏦_Capital_Underwriting_And_Risk/README.md)
+    - [**📜_Historical_Impunity_Timeline/**](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/📜_Historical_Impunity_Timeline/)
+      - [`README.md`](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/📜_Historical_Impunity_Timeline/README.md)
+    - [**🗺️_Case_And_Actor_Cartography/**](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/🗺️_Case_And_Actor_Cartography/)
+      - [`README.md`](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/🗺️_Case_And_Actor_Cartography/README.md)
+    - [**🛠️_Public_Domain_Research_Toolkit/**](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/🛠️_Public_Domain_Research_Toolkit/)
+      - [`README.md`](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/🛠️_Public_Domain_Research_Toolkit/README.md)
+    - [**🛡️_Sanctions_Ostruction_And_Non_Cooperation/**](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/🛡️_Sanctions_Ostruction_And_Non_Cooperation/)
+      - [`README.md`](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/🛡️_Sanctions_Ostruction_And_Non_Cooperation/README.md)
+    - [**🧭_Interested_Parties/**](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/🧭_Interested_Parties/)
+      - [`README.md`](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/🧭_Interested_Parties/README.md)
     - [`README.md`](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/README.md)
     - [`notes.txt`](🌖_6_Learning_The_Skies/⚖️_Who_Is_Afraid_Of_The_Big_Bad_ICC/notes.txt)
   - [**🌈_Gold_Pot_Chasers/**](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/)
