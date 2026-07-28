@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-28 17:13:03 UTC_
+_Generated on 2026-07-28 17:14:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5615,6 +5615,7 @@ _Generated on 2026-07-28 17:13:03 UTC_
           - [`☔️_equal_rules_unequal_exposure.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌕_What_The_Movement_Was_Up_Against/☔️_equal_rules_unequal_exposure.md)
           - [`🏛️_the_power_was_centralised_the_responsibility_was_outsourced.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌕_What_The_Movement_Was_Up_Against/🏛️_the_power_was_centralised_the_responsibility_was_outsourced.md)
           - [`🏫_gating_the_curriculum.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌕_What_The_Movement_Was_Up_Against/🏫_gating_the_curriculum.md)
+          - [`👁️_the_state_can_see_the_student.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌕_What_The_Movement_Was_Up_Against/👁️_the_state_can_see_the_student.md)
         - [**🌘_Did_The_System_Become_Tolerable/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/notes.txt)
