@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-28 12:54:12 UTC_
+_Generated on 2026-07-28 12:56:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5603,6 +5603,7 @@ _Generated on 2026-07-28 12:54:12 UTC_
     - [**🔊_Turn_The_Public_Up/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/)
       - [**🪳🕶️_Mera_Naam_Cockroach_Hai/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/)
         - [**🌑_The_System_Becomes_Intolerable/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌑_The_System_Becomes_Intolerable/)
+          - [`.🌱_Still_Growing.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌑_The_System_Becomes_Intolerable/.🌱_Still_Growing.txt)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌑_The_System_Becomes_Intolerable/README.md)
           - [`⏰_two_minutes_and_an_entire_future.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌑_The_System_Becomes_Intolerable/⏰_two_minutes_and_an_entire_future.md)
           - [`🎓_students_have_lives.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌑_The_System_Becomes_Intolerable/🎓_students_have_lives.md)
