@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-28 01:22:44 UTC_
+_Generated on 2026-07-28 01:33:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5616,6 +5616,15 @@ _Generated on 2026-07-28 01:22:44 UTC_
         - [**🌒_The_Public_Comes_Outside/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/notes.txt)
+          - [`🌐_india_is_not_a_local_network.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/🌐_india_is_not_a_local_network.md)
+          - [`🌸_when_containment_becomes_content.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/🌸_when_containment_becomes_content.md)
+          - [`🎶_the_pressure_valve_had_a_soundtrack.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/🎶_the_pressure_valve_had_a_soundtrack.md)
+          - [`📺_when_the_public_broke_the_broadcast.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/📺_when_the_public_broke_the_broadcast.md)
+          - [`🕳️_the_hidden_transcript_found_a_mascot.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/🕳️_the_hidden_transcript_found_a_mascot.md)
+          - [`🗻_the_public_was_not_flat.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/🗻_the_public_was_not_flat.md)
+          - [`🦁_women_are_the_smoke_alarm.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/🦁_women_are_the_smoke_alarm.md)
+          - [`🧠_the_meme_became_infrastructure.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/🧠_the_meme_became_infrastructure.md)
+          - [`🪳_why_the_cockroach_worked.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/🪳_why_the_cockroach_worked.md)
         - [**🌕_What_The_Movement_Was_Up_Against/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌕_What_The_Movement_Was_Up_Against/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌕_What_The_Movement_Was_Up_Against/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌕_What_The_Movement_Was_Up_Against/notes.txt)
