@@ -2,7 +2,7 @@
 ├── README.md
 ├── 🏛️_the_power_was_centralised_the_responsibility_was_outsourced.md
 ├── 🏫_gating_the_curriculum.md
-├── 🪜_the_public_is_not_flat.md
+├── ☔️_equal_rules_unequal_exposure.md
 ├── 👁️_the_state_can_see_the_student.md
 ├── 🪖_from_agnipath_to_cjp.md
 ├── 📰_the_information_system_was_narrowing.md
