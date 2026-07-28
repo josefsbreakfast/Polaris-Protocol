@@ -1,0 +1,1 @@
+🏛️_the_power_was_centralised_the_responsibility_was_outsourced.md
