@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-29 08:35:06 UTC_
+_Generated on 2026-07-29 08:36:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5592,7 +5592,6 @@ _Generated on 2026-07-29 08:35:06 UTC_
           - [`🪳_why_the_cockroach_worked.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/🪳_why_the_cockroach_worked.md)
         - [**🌕_What_The_Movement_Was_Up_Against/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌕_What_The_Movement_Was_Up_Against/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌕_What_The_Movement_Was_Up_Against/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌕_What_The_Movement_Was_Up_Against/notes.txt)
           - [`☔️_equal_rules_unequal_exposure.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌕_What_The_Movement_Was_Up_Against/☔️_equal_rules_unequal_exposure.md)
           - [`🌍_the_technique_travels_better_than_the_ideology.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌕_What_The_Movement_Was_Up_Against/🌍_the_technique_travels_better_than_the_ideology.md)
           - [`🍉_connections_to_other_oppressions.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌕_What_The_Movement_Was_Up_Against/🍉_connections_to_other_oppressions.md)
