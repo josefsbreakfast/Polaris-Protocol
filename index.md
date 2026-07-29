@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-29 19:28:21 UTC_
+_Generated on 2026-07-29 19:33:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5604,6 +5604,16 @@ _Generated on 2026-07-29 19:28:21 UTC_
         - [**🌘_Did_The_System_Become_Tolerable/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/notes.txt)
+          - [`⏸️_pause_is_not_the_same_as_trust.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/⏸️_pause_is_not_the_same_as_trust.md)
+          - [`⚖️_withdrawal_of_cases_is_not_symbolic.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/⚖️_withdrawal_of_cases_is_not_symbolic.md)
+          - [`🏛️_reform_only_exists_when_it_is_implemented.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/🏛️_reform_only_exists_when_it_is_implemented.md)
+          - [`👁️_monitoring_the_new_status_quo.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/👁️_monitoring_the_new_status_quo.md)
+          - [`👤_a_resignation_is_not_a_system.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/👤_a_resignation_is_not_a_system.md)
+          - [`💰_compensation_is_material_repair.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/💰_compensation_is_material_repair.md)
+          - [`📋_what_was_actually_conceded.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/📋_what_was_actually_conceded.md)
+          - [`🔁_when_the_public_reenters_the_cycle.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/🔁_when_the_public_reenters_the_cycle.md)
+          - [`🧽_how_institutions_absorb_pressure_without_changing.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/🧽_how_institutions_absorb_pressure_without_changing.md)
+          - [`🪓_when_a_victory_splits_the_coalition.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/🪓_when_a_victory_splits_the_coalition.md)
         - [**🗞️_For_Readers_And_Newsrooms/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/notes.txt)
