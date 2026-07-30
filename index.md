@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-30 21:14:49 UTC_
+_Generated on 2026-07-30 21:22:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5629,7 +5629,6 @@ _Generated on 2026-07-30 21:14:49 UTC_
           - [`🧾_claim_source_confidence_and_limit.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/🧾_claim_source_confidence_and_limit.md)
         - [**🧭_Reusable_Findings/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/notes.txt)
           - [`⏸️_pause_is_not_the_same_as_trust.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/⏸️_pause_is_not_the_same_as_trust.md)
           - [`🏛️_centralised_power_can_hide_behind_fragmented_delivery.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/🏛️_centralised_power_can_hide_behind_fragmented_delivery.md)
           - [`👁️_capability_is_not_the_same_as_use.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/👁️_capability_is_not_the_same_as_use.md)
