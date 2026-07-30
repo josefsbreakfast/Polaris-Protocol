@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-30 12:56:43 UTC_
+_Generated on 2026-07-30 13:48:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5616,7 +5616,16 @@ _Generated on 2026-07-30 12:56:43 UTC_
         - [**🗞️_For_Readers_And_Newsrooms/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/notes.txt)
+          - [`✅_a_newsroom_checklist.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/✅_a_newsroom_checklist.md)
+          - [`🌈_images_are_evidence_and_exposure.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/🌈_images_are_evidence_and_exposure.md)
+          - [`🌍_diaspora_knowledge_is_valuable_and_situated.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/🌍_diaspora_knowledge_is_valuable_and_situated.md)
+          - [`🌐_neighbouring_press_is_not_secondary.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/🌐_neighbouring_press_is_not_secondary.md)
+          - [`💕_talk_to_people_before_you_explain_them.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/💕_talk_to_people_before_you_explain_them.md)
+          - [`📰_the_headline_must_not_outrun_the_source.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/📰_the_headline_must_not_outrun_the_source.md)
+          - [`📱_the_whatsapp_test.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/📱_the_whatsapp_test.md)
+          - [`🗺️_sources_are_not_socially_flat.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/🗺️_sources_are_not_socially_flat.md)
           - [`🛰️_what_this_case_can_and_cannot_show.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/🛰️_what_this_case_can_and_cannot_show.md)
+          - [`🥭_translation_is_part_of_the_reporting.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/🥭_translation_is_part_of_the_reporting.md)
           - [`🧾_claim_source_confidence_and_limit.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/🧾_claim_source_confidence_and_limit.md)
         - [**🧭_Reusable_Findings/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/README.md)
