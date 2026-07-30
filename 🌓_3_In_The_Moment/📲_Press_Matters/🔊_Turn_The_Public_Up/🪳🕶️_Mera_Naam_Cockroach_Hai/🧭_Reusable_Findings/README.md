@@ -1,782 +1,283 @@
 # 🧭 Reusable Findings  
-**First created:** 2026-07-27 | **Last updated:** 2026-07-27  
-*Transferable findings from the case: how grievance becomes public, how culture becomes infrastructure, how systems absorb pressure, and how movements decide whether to stabilise or re-enter the cycle.*  
+**First created:** 2026-07-27 | **Last updated:** 2026-07-30  
+*How to extract transferable mechanisms from the Cockroach case without pretending the case is universal, flattening its culture or quietly upgrading inference into theory.*  
 
 ---
 
 ## 🛰️ Orientation  
 
-This section extracts the findings that can travel beyond the immediate case.
+This section extracts findings that may travel beyond the immediate Cockroach case.
 
-The purpose is not to strip the movement of its local culture and turn it into a generic framework.
+Its purpose is not to:
 
-The purpose is to preserve what is distinctive while identifying mechanisms that may also appear elsewhere.
+- strip the movement of its local culture;
+- turn one national case into a universal protest model;
+- treat one memorable symbol as a formula;
+- convert uncertain case claims into settled general theory.
 
-A reusable finding should therefore do three things:
-
-1. remain grounded in the case;
-2. state the mechanism clearly;
-3. identify the limits of transfer.
+Its purpose is to preserve what was distinctive while identifying mechanisms that may also appear elsewhere.
 
 The central question is:
 
-> What can readers carry into another case without pretending that every movement, institution or public works the same way?
+> What can readers carry into another case without pretending that every movement, institution, public or state works the same way?
 
-This section gathers findings about:
+A reusable finding should do four things:
 
-- intolerable systems;
-- shared grievance;
-- humour and political compression;
-- hidden transcripts;
-- movement infrastructure;
-- unequal publics;
-- surveillance and anticipation;
-- media and platform power;
-- procurement;
-- partial concession;
-- tolerability;
-- monitoring;
-- political re-entry.
+1. remain grounded in the case;
+2. identify the mechanism clearly;
+3. preserve the conditions that made the mechanism possible;
+4. state what does not transfer.
 
 ---
 
-## 🧪 How To Use These Findings  
+## 🧪 From Case Fact To General Theory  
 
-These findings are analytical tools, not universal laws.
+This section distinguishes four levels of claim.
 
-They are most useful when treated as questions.
+### Case-Specific Fact  
+
+A documented fact belonging to this case.
+
+Examples may include:
+
+- a dated protest event;
+- a particular image;
+- a CJP statement;
+- a ministerial resignation;
+- a specific legal or administrative development.
+
+### Case-Derived Inference  
+
+An interpretation supported by several parts of the case.
+
+Example:
+
+> The cockroach appears to have helped make a dispersed grievance publicly recognisable.
+
+This is stronger than one isolated fact.
+
+It is still tied to the case.
+
+### Transferable Finding  
+
+A bounded mechanism that may be useful elsewhere.
+
+Example:
+
+> A culturally legible symbol can reduce the recognition and participation costs of a dispersed public.
+
+This is not a claim that every symbol does so.
+
+### General Theory  
+
+A broad proposition intended to explain many cases.
+
+Example:
+
+> Cultural objects reliably produce successful mobilisation.
+
+That claim would require substantially more comparative evidence.
+
+The abstraction ladder is:
+
+```text
+case-specific fact
+        ↓
+case-derived inference
+        ↓
+transferable mechanism
+        ↓
+comparative hypothesis
+        ↓
+general theory
+```
+
+Each step requires more evidence.
+
+---
+
+## ⚠️ Memorable Is Not Universal  
+
+A memorable symbol is especially vulnerable to over-abstraction.
+
+Keep separate:
+
+```text
+memorable in one case
+        ≠
+causal in that case
+        ≠
+reusable elsewhere
+        ≠
+universal
+```
+
+The cockroach may have been:
+
+- portable;
+- funny;
+- culturally legible;
+- easy to repeat;
+- difficult to monopolise.
+
+Those qualities are worth analysing.
+
+The reusable lesson is not:
+
+> Every movement needs a mascot.
+
+It is:
+
+> What public function did the cultural object perform here?
+
+The same function might be performed elsewhere by:
+
+- a phrase;
+- colour;
+- song;
+- gesture;
+- image;
+- costume;
+- ritual;
+- platform convention;
+- shared document.
+
+---
+
+## 🌍 One National Case Is Not A Global Model  
+
+The Cockroach case emerged from a specific combination of:
+
+- examination pressure;
+- student and family networks;
+- Indian political institutions;
+- caste and class structure;
+- multilingual circulation;
+- regional media;
+- legal and administrative systems;
+- cultural reference;
+- digital platforms;
+- government vulnerability.
+
+A case from another country may resemble it visually while operating through a different mechanism.
 
 For example:
 
-> Did humour lower the cost of participation here?
+- both may use humour;
+- both may have a mascot;
+- both may appear decentralised;
+- both may produce ministerial resignation.
 
-is stronger than:
+But the underlying causes may differ.
 
-> Humour always produces mobilisation.
+Mechanism-based comparison asks:
 
-Likewise:
+- what converted private harm into shared grievance?
+- what made the grievance legible?
+- what made participation possible?
+- what raised the cost of refusal?
+- what absorbed or changed the pressure?
+- what preserved re-entry capacity?
 
-> Did a partial concession absorb pressure without changing the machinery?
+Visual similarity is not enough.
 
-is stronger than:
+---
 
-> Every concession is a trap.
+## 🧭 The Transfer Test  
 
-Each finding should be tested against:
+Before treating a finding as reusable, ask:
 
-- local history;
-- movement structure;
-- social hierarchy;
-- political institutions;
-- media conditions;
-- available evidence;
-- the distribution of risk;
-- the actual government response.
+1. What exact part of the case supports it?
+2. Is this a fact, inference or abstraction?
+3. What mechanism is being identified?
+4. What alternative explanation remains?
+5. What cultural or institutional conditions made it possible?
+6. Which parts are specific to this movement?
+7. What evidence would be needed in another case?
+8. What would falsify the comparison?
+9. Who might face different risks elsewhere?
+10. Does the finding remain useful after those limits are stated?
+11. Is the comparison testing a mechanism, or merely rewarding visual resemblance?
+
+A finding should not survive only because its limits have been removed.
 
 A finding travels best when its limits travel with it.
 
 ---
 
-## 🌑 Intolerability Is A Political Threshold  
+## 🌑 🌒 🌕 🌘 The Full Lunar Sequence  
 
-Harm does not automatically produce mobilisation.
+The case is organised around a complete circular theory of change.
 
-People often respond to harmful systems by:
+### 🌑 The System Becomes Intolerable  
 
-- adapting;
-- blaming themselves;
-- seeking private remedies;
-- lowering expectations;
-- absorbing cost;
-- waiting;
-- leaving where possible.
+Private difficulty becomes politically legible as:
 
-A condition becomes politically intolerable when enough people can identify:
+- shared harm;
+- institutional contradiction;
+- public grievance.
 
-- a shared harm;
-- a common institution;
-- a contradiction the institution cannot justify;
-- a credible public language through which the problem can be named.
-
-The relevant sequence is:
-
-```text
-private difficulty
-        ↓
-pattern recognition
-        ↓
-shared grievance
-        ↓
-public legitimacy rupture
-        ↓
-mobilisation becomes possible
-```
-
-### Reusable question  
+The central question is:
 
 > What changed the meaning of the harm from “my problem” to “our system”?
 
----
+### 🌒 The Public Comes Outside  
 
-## ⚖️ Institutions Become Vulnerable Through Contradiction  
+A public forms through:
 
-Public anger often intensifies when institutions impose standards they do not meet themselves.
-
-The contradiction may be:
-
-```text
-strict individual compliance
-        versus
-tolerated institutional failure
-```
-
-or:
-
-```text
-public claims of neutrality
-        versus
-unequal or corrupt operation
-```
-
-or:
-
-```text
-demands for transparency from citizens
-        versus
-opacity inside the state
-```
-
-The failure matters not only because of its practical consequences.
-
-It weakens the institution’s moral authority to judge others.
-
-### Reusable question  
-
-> What does the institution demand from the public that it does not reliably demand from itself?
-
----
-
-## 🚪 Allocation Systems Turn Error Into Displacement  
-
-A high-stakes system does not merely record performance when it allocates scarce access.
-
-Examples include:
-
-- examinations;
-- housing;
-- immigration;
-- healthcare;
-- welfare;
-- employment;
-- public contracts;
-- legal status.
-
-Where places are scarce, one person’s advantage can become another person’s exclusion.
-
-The relevant structure is:
-
-```text
-measurement
-        ↓
-ranking or eligibility
-        ↓
-scarce allocation
-        ↓
-life consequence
-```
-
-Administrative failure therefore redistributes opportunity.
-
-### Reusable question  
-
-> Is the system measuring people, or allocating futures through the measurement?
-
----
-
-## 🪳 Political Compression Makes Entry Easier  
-
-A portable cultural object can compress a complex grievance into a form that is easier to recognise and reproduce.
-
-This object may be:
-
-- a meme;
-- mascot;
-- phrase;
-- colour;
-- song;
-- costume;
-- gesture;
-- joke;
-- image.
-
-Its value lies partly in allowing different levels of participation.
-
-A person may recognise the joke before understanding the policy.
-
-They may share the image before joining the organisation.
-
-Political compression creates a doorway.
-
-### Reusable question  
-
-> What small cultural object carried more political meaning than its size suggested?
-
----
-
-## 🎭 Reclamation Changes Who Controls The Meaning  
-
-An insult can sometimes be reclaimed when the people targeted by it alter:
-
-- who is speaking;
-- who is laughing;
-- what the word permits;
-- what relationship it creates;
-- whether shame remains the required response.
-
-Reclamation does not erase the violence of the original term.
-
-It changes who controls its next use.
-
-### Reusable question  
-
-> Did the movement deny the insult, survive it, parody it, or convert it into affiliation?
-
----
-
-## 🌱 The Spectacle Usually Has A Root System  
-
-Visible mobilisation can look sudden.
-
-It often depends on quieter prior practices:
-
-- coded speech;
-- local organising;
-- private circulation;
-- community memory;
-- pseudonymity;
-- mutual aid;
-- platform fluency;
-- small acts of refusal;
-- informal trust.
-
-The visible spectacle may be the bloom.
-
-The root system is what made it possible.
-
-### Reusable question  
-
-> What forms of recognition and organisation existed before the movement became publicly visible?
-
----
-
-## 🕳️ Hidden Transcripts Can Become Public Interfaces  
-
-People living under social or political pressure often develop ways to communicate that remain partially deniable.
-
-These may include:
-
-- jokes;
-- coded language;
-- references;
-- private messages;
-- disappearing content;
-- pseudonyms;
-- regional humour.
-
-A movement can convert this hidden transcript into a public interface without eliminating ambiguity.
-
-That allows participation across different levels of risk.
-
-### Reusable question  
-
-> What did people already know how to say indirectly before they began saying it together?
-
----
-
-## 🚪 Movements Can Become Permission Structures  
-
-Many people remain silent not because they agree with the system, but because they expect to stand alone.
-
-Visible participation changes that expectation.
-
-A movement becomes a permission structure when it tells people:
-
-- others recognise the same problem;
-- there is a shared language;
-- criticism already has a public form;
-- participation does not have to begin from scratch.
-
-### Reusable question  
-
-> What made private agreement feel publicly survivable?
-
----
-
-## 🩹 Care Is Operational Capacity  
-
-Care should not be treated as separate from strategy.
-
-A movement’s capacity depends on:
-
-- food;
-- water;
-- transport;
-- rest;
-- first aid;
-- legal support;
-- communication;
-- accessibility;
-- childcare;
-- emotional support;
-- information verification.
-
-Care determines who can stay, return and participate.
-
-Mutual aid turns symbolic affiliation into endurance.
-
-### Reusable question  
-
-> What practical systems made participation possible for people who could not otherwise remain present?
-
----
-
-## 🛠️ Virality Is Not Organisation  
-
-The following categories should not be collapsed:
-
-```text
-attention
-≠ participation
-≠ organisation
-≠ capacity
-≠ pressure
-≠ reform
-```
-
-A meme may travel widely without creating durable collective power.
-
-The analytical task is to identify what converted visibility into:
-
-- coordination;
-- repeated participation;
-- material support;
-- political cost;
-- institutional response.
-
-### Reusable question  
-
-> What existed behind the visible content that allowed attention to become pressure?
-
----
-
-## 📺 Publics Can Break A One-Way Broadcast  
-
-The public is not merely an audience.
-
-It can participate in producing political reality through:
-
-- documentation;
-- translation;
-- local reporting;
-- archiving;
-- remixing;
-- testimony;
-- verification;
+- recognition;
+- shared language;
+- culture;
+- humour;
 - circulation;
-- cultural interpretation.
+- care;
+- participation;
+- organisation.
 
-A public breaks the one-way broadcast when official narration is no longer the only sustainable account of events.
+The central question is:
 
-### Reusable question  
+> What made private agreement publicly survivable?
 
-> Who was producing, preserving and interpreting the public record besides the state and mainstream media?
+### 🌕 What The Movement Was Up Against  
 
----
+The public encounters:
 
-## 📉 Political Control Often Depends On Narrative Inevitability  
-
-A government does not need everyone to believe its account.
-
-It benefits when people behave as though no competing account can survive publicly.
-
-Ridicule, repetition and visible disagreement can weaken that inevitability.
-
-The result is not necessarily loss of institutional control.
-
-It is loss of sole narrative authority.
-
-### Reusable question  
-
-> When did the official story stop appearing inevitable?
-
----
-
-## 🪜 The Public Is Not Flat  
-
-A shared symbol does not create equal participation.
-
-Publics remain structured by:
-
-- class;
-- caste;
-- race;
-- gender;
-- language;
-- disability;
-- geography;
-- platform access;
-- professional vulnerability;
-- exposure to policing.
-
-Some people become visible more safely.
-
-Some are treated as representative more easily.
-
-Some perform essential labour without becoming audible.
-
-### Reusable question  
-
-> Who could participate, who could be heard, and who carried the greatest risk?
-
----
-
-## 👁️ Digital Repression Works Through Anticipation  
-
-Repression does not require punishment in every case.
-
-It can work by creating uncertainty about future consequences.
-
-People may self-limit because they fear effects on:
-
-- education;
-- employment;
-- eligibility;
-- travel;
-- policing;
-- family;
-- public reputation.
-
-The chilling effect is therefore not merely a side effect.
-
-It can be a policy result.
-
-### Reusable question  
-
-> What future dependency made participation feel dangerous before punishment occurred?
-
----
-
-## 📵 Network Restrictions Remove Capacity, Not Only Speech  
-
-Shutdowns and takedowns are often described as content controls.
-
-They also remove:
-
-- coordination;
-- emergency communication;
-- verification;
-- documentation;
-- legal support;
-- medical support;
-- contact with family.
-
-The result is a change in organisational capacity.
-
-### Reusable question  
-
-> What could the public no longer do once the network was restricted?
-
----
-
-## 🏢 Authority Can Be Centralised While Responsibility Is Outsourced  
-
-A recurring governance pattern is:
-
-```text
-authority centralised upward
-        ↓
-delivery fragmented outward
-        ↓
-consequences pushed downward
-```
-
-The institution retains rule-making power while relying on contractors, vendors or local bodies for operation.
-
-When failure occurs, responsibility becomes difficult to locate.
-
-### Reusable question  
-
-> Who set the rules, who delivered the system, and who absorbed the cost when it failed?
-
----
-
-## 🧾 Procurement Is Not Institutional Capability  
-
-Buying technology does not automatically create the ability to govern it.
-
-Institutions still need:
-
-- technical understanding;
-- oversight;
-- testing;
-- redundancy;
-- accountability;
-- independent audit;
-- remedies when failure occurs.
-
-Procurement can create dependence without creating competence.
-
-### Reusable question  
-
-> Did the institution understand and control the system it purchased, or merely acquire access to it?
-
----
-
-## 💰 Procurement Is Foreign Policy With Invoices  
-
-Long-term contracts can create material interests that outlast the original purchase.
-
-Relevant relationships include:
-
-- intellectual property;
-- export licences;
-- maintenance;
-- updates;
-- training;
-- spare parts;
-- integration;
-- joint ventures;
-- royalties.
-
-The contracting relationship may raise the political cost of foreign-policy rupture.
-
-### Reusable question  
-
-> What political dependency remained after the first sale?
-
----
-
-## 🧾 Capability Is Not Attribution  
-
-These categories must remain separate:
-
-```text
-capability
-≠ access
-≠ implementation
-≠ demonstrated use
-≠ attribution
-≠ causation
-```
-
-A government may possess a tool without using it in a particular case.
-
-A capability may shape fear without producing the alleged event.
-
-Exact attribution protects both the analysis and the people relying on it.
-
-### Reusable question  
-
-> What is documented, what is possible, what is alleged, and what remains unknown?
-
----
-
-## 🧽 Institutions Can Absorb Pressure Without Changing  
-
-Systems do not only repress movements.
-
-They may absorb pressure through:
-
-- resignation;
-- inquiry;
-- limited compensation;
-- contractor blame;
-- new portals;
-- technical fixes;
-- closed implementation processes;
-- delay;
-- rebranding.
-
-These actions may be real and meaningful.
-
-They may also preserve the underlying distribution of authority.
-
-### Reusable question  
-
-> What did the institution concede, and what power did it keep?
-
----
-
-## 🎭 The Cheapest Demand May Be Conceded First  
-
-Movement demands affect different layers of power.
-
-For example:
-
-```text
-resignation
-→ visible political responsibility
-
-withdrawal of cases
-→ coercive change
-
-compensation
-→ material change
-
-institutional reform
-→ administrative or structural change
-```
-
-The most visible demand may be cheaper to concede than the one that redistributes money, coercive power or authority.
-
-### Reusable question  
-
-> Did the government surrender the headline before surrendering the machinery?
-
----
-
-## 🪓 Concession Can Fragment The Movement  
-
-A concession changes the movement’s internal environment.
-
-It may:
-
-- validate mobilisation;
-- reduce urgency;
-- divide participants;
-- remove a shared symbol;
-- create permission to leave;
-- shift attention into procedure;
-- make continued protest look excessive.
-
-Different participants may judge the same settlement differently because they carry different unresolved harms.
-
-### Reusable question  
-
-> Who crossed the tolerability threshold after concession, and who remained below it?
-
----
-
-## ⏸️ Pause Is Not The Same As Trust  
-
-Movements do not have to choose only between permanent protest and complete confidence.
-
-They can enter watchful stabilisation:
-
-- escalation pauses;
-- gains are defended;
-- promises are dated;
-- implementation is monitored;
-- evidence is preserved;
-- re-entry conditions remain visible.
-
-### Reusable question  
-
-> What would allow people to return to ordinary life without abandoning the capacity to act again?
-
----
-
-## 🔍 The Tolerance Test  
-
-A settlement can be assessed through five questions.
-
-### 1. Has The Immediate Harm Stopped?  
-
-### 2. Has Past Harm Been Repaired?  
-
-### 3. Has Responsibility Been Assigned?  
-
-### 4. Has Recurrence Become Less Likely?  
-
-### 5. Can Affected People Enforce The New Arrangement?  
-
-The answers may produce:
-
-- an **acceptable settlement**;
-- a **provisional settlement**;
-- an **intolerable substitution**.
-
-### Reusable question  
-
-> Has the system become tolerable, merely less visibly intolerable, or temporarily tolerable on conditions that still require defence?
-
----
-
-## 🔁 Re-entry Capacity Is Part Of A Durable Settlement  
-
-Even satisfactory reforms can fail, be reversed or erode.
-
-A public can preserve re-entry capacity through:
-
-- archives;
-- relationships;
-- legal knowledge;
-- implementation records;
-- communication routes;
-- agreed thresholds;
-- movement memory.
-
-The goal is not permanent mobilisation.
-
-It is enough memory and capacity to recognise when the old condition returns.
-
-### Reusable question  
-
-> What would allow the public to know when the cycle needed to begin again?
-
----
-
-## 🌐 Political Borders Are Not Information Borders  
-
-Governments learn across borders.
-
-So do:
-
-- movements;
-- journalists;
-- vendors;
-- lawyers;
+- state machinery;
+- centralised authority;
+- fragmented delivery;
+- contractors;
 - platforms;
-- diasporas;
-- publics.
+- media narrowing;
+- surveillance capability;
+- coercion;
+- procurement systems.
 
-A domestic case may have regional and global audiences.
+The central question is:
 
-Neighbouring press can act as a hostile auditor.
+> What power structure had to absorb, resist or answer the public?
 
-Techniques of control and techniques of resistance can both travel.
+### 🌘 Did The System Become Tolerable?  
 
-### Reusable question  
+The public evaluates:
 
-> Who outside the jurisdiction was watching, learning, translating or preserving the case?
+- concession;
+- compensation;
+- withdrawal of coercion;
+- implementation;
+- repair;
+- recurrence;
+- trust;
+- re-entry.
 
----
+The central question is:
 
-## 🗞️ Reporting Method Is Part Of The Analysis  
-
-The quality of public understanding depends on:
-
-- source position;
-- translation;
-- cultural attribution;
-- image verification;
-- publication pathways;
-- confidence labels;
-- distinction between fact and inference.
-
-Reporting is not external to the movement’s information environment.
-
-It participates in it.
-
-### Reusable question  
-
-> Did the reporting preserve the public’s meaning, or replace it with a more convenient story?
+> Did the system become tolerable, provisionally tolerable or still intolerable?
 
 ---
 
-## 🔄 The Reusable Cycle  
+## 🔄 The Cycle Is Circular, Not Linear  
 
-The complete model is:
+The reusable cycle is:
 
 ```text
 intolerable condition
@@ -785,101 +286,593 @@ private harm becomes shared grievance
         ↓
 grievance becomes publicly legible
         ↓
-participation and organisation grow
+participation and organisation
         ↓
-pressure changes the government’s calculation
+pressure raises the cost of refusal
         ↓
-repression, refusal, concession or reform
+repression, concession, reform or absorption
         ↓
-public assessment of the new condition
+public assessment
         ↓
-is the system now tolerable?
-       ↙                         ↘
-     yes                         no
-      ↓                           ↓
-stabilise, monitor          reframe the grievance,
-and defend gains            rebuild capacity and
-                            re-enter mobilisation
+system becomes tolerable,
+provisionally tolerable
+or still intolerable
+        ↓
+stabilise, monitor
+or re-enter mobilisation
 ```
 
 The government response is not the end.
 
 It changes the conditions under which the public decides what to do next.
 
----
+A movement may:
 
-## 🧷 Compact Findings  
+- move forward;
+- stall;
+- split;
+- loop;
+- return to private coping;
+- re-enter mobilisation;
+- stabilise into monitoring.
 
-1. Private harm becomes political when people can identify a common institution and a shared contradiction.
-
-2. High-stakes allocation systems redistribute futures when they fail.
-
-3. Cultural objects can compress complex grievances and lower the cost of first participation.
-
-4. Visible spectacle often depends on quieter networks, coded language and prior resistant practice.
-
-5. Humour can widen participation, but organisation and care are what make participation durable.
-
-6. The public is not flat. Shared symbols do not erase unequal visibility, authority or risk.
-
-7. Digital repression often works through anticipated future consequences rather than universal punishment.
-
-8. Centralised authority can outsource delivery while retaining responsibility for failure.
-
-9. Procurement creates capability, dependency and political interests that survive the original contract.
-
-10. Institutions can concede the most visible demand while preserving money, coercive power and authority.
-
-11. A movement can pause without trusting the system.
-
-12. A settlement should be judged by repair, accountability, recurrence prevention and enforceability.
-
-13. Political borders do not contain information systems. Governments learn, but publics and journalists do too.
-
-14. The concession closes the cycle only if it changes the condition that opened it.
+Visible protest is only one stage.
 
 ---
 
-## 🗺️ Likely Contents  
+## ⚠️ Why Abstraction Comes Later  
 
-This section may grow to include short, reusable nodes on:
+Abstraction should happen only after the case has been described in enough detail to preserve:
 
-- intolerability;
-- institutional contradiction;
-- political compression;
-- hidden transcripts;
-- permission structures;
-- movement care;
-- unequal publics;
-- anticipatory repression;
-- outsourced responsibility;
-- procurement dependency;
-- partial concession;
-- watchful stabilisation;
-- the tolerance test;
-- re-entry capacity;
-- cross-border information systems.
+- chronology;
+- participant meaning;
+- institutional structure;
+- rival explanations;
+- social hierarchy;
+- evidence limits;
+- implementation status.
 
-A finding does not automatically earn a separate file. Material should remain inside this README until it becomes useful enough, distinct enough and developed enough to stand alone.
+Premature abstraction can:
+
+- flatten local language;
+- erase caste, class or regional difference;
+- turn uncertainty into confidence;
+- reward the most visible symbol;
+- treat later memory as early causation;
+- mistake one spokesperson for the whole public;
+- mistake concession for repair.
+
+The case must remain strong enough to resist the theory being extracted from it.
+
+---
+
+## 🧬 Evidence Boundaries While Abstracting  
+
+Keep separate:
+
+```text
+case fact
+≠ case-derived inference
+≠ transferable finding
+≠ general theory
+```
+
+```text
+description
+≠ causation
+
+visual resemblance
+≠ shared mechanism
+
+repetition
+≠ independent corroboration
+
+virality
+≠ representativeness
+```
+
+```text
+capability
+≠ access
+≠ implementation
+≠ deployment
+≠ demonstrated use
+≠ attribution
+≠ causation
+```
+
+```text
+concession
+≠ repair
+
+pause
+≠ trust
+
+monitoring
+≠ permanent mobilisation
+```
+
+A reusable node should state which level it is operating at.
+
+---
+
+## 🧱 Conditions Must Travel With The Mechanism  
+
+A mechanism does not operate in empty space.
+
+For each transferable finding, record:
+
+- political conditions;
+- institutional conditions;
+- technological conditions;
+- social hierarchy;
+- language;
+- media system;
+- risk distribution;
+- organisational capacity;
+- timing.
+
+Example:
+
+> Humour lowered participation costs.
+
+That claim may depend on:
+
+- prior shared grievance;
+- recognisable cultural reference;
+- low-cost circulation;
+- participants willing to reclaim the insult;
+- enough safety for repetition;
+- organisational capacity behind the symbol.
+
+Without those conditions, humour may produce only attention.
+
+---
+
+## 🔀 Rival Explanations Must Remain Visible  
+
+Reusable findings should not erase alternative explanations.
+
+If a case appears to show that a symbol produced mobilisation, rival explanations may include:
+
+- pre-existing networks;
+- examination crisis;
+- family pressure;
+- organiser skill;
+- legal support;
+- media attention;
+- government weakness;
+- timing.
+
+If a concession follows pressure, rival explanations may include:
+
+- internal party conflict;
+- electoral calculation;
+- institutional failure;
+- legal risk;
+- international attention;
+- bureaucratic exhaustion.
+
+The transferable question is not:
+
+> Which single cause won?
+
+It is:
+
+> Which mechanism is reasonably supported, and what else may have contributed?
+
+---
+
+## 🧭 What Does Not Transfer Cleanly  
+
+The following remain case-specific unless stronger evidence later supports abstraction:
+
+- exact claims about the origin of the cockroach;
+- exact chronology of CJP circulation;
+- exact legal outcomes;
+- exact government concessions;
+- exact procurement relationships;
+- exact product-specific capability claims;
+- culturally specific meanings that do not survive translation;
+- claims about caste, gender or regional participation not supported by evidence;
+- conclusions that depend on one retrospective account.
+
+Reusable findings should preserve the mechanism without stripping away the conditions that made it possible.
+
+---
+
+## 🧭 Map Of The Mega-Nodes  
+
+### 🔄 [The Full Change Cycle](./🔄_the_full_change_cycle.md)  
+
+The complete circular theory of change, its failure points, movement memory, institutional memory and re-entry capacity.
+
+### 🚪 [How Private Harm Becomes Public Action](./🚪_how_private_harm_becomes_public_action.md)  
+
+Recognition, naming, permission structures, participation thresholds and the movement from private harm to shared public action.
+
+### 🪳 [Culture Can Become Movement Infrastructure](./🪳_culture_can_become_movement_infrastructure.md)  
+
+Humour, image, song, gesture and performance as political compression, emotional regulation, memory and distributed public interface.
+
+### 🛠️ [Visibility Needs A Back End](./🛠️_visibility_needs_a_back_end.md)  
+
+The invisible labour, care, logistics, legal support, verification, archiving and continuity behind visible mobilisation.
+
+### 🗻 [The Public Is Never Flat](./🗻_the_public_is_never_flat.md)  
+
+Unequal power, visibility, risk, representation and legibility across caste, class, gender, language, disability, geography and professional status.
+
+### 🏛️ [Centralised Power Can Hide Behind Fragmented Delivery](./🏛️_centralised_power_can_hide_behind_fragmented_delivery.md)  
+
+Central authority, outsourced delivery, fragmented accountability, contractor blame and non-delegable responsibility.
+
+### 👁️ [Capability Is Not The Same As Use](./👁️_capability_is_not_the_same_as_use.md)  
+
+The evidentiary ladder from capability and procurement to access, implementation, deployment, demonstrated use, attribution and causation.
+
+### 🧽 [Concession Is Not The Same As Repair](./🧽_concession_is_not_the_same_as_repair.md)  
+
+Institutional absorption, resignation, compensation, reform, implementation, recurrence and the difference between pressure reduction and repair.
+
+### ⏸️ [Pause Is Not The Same As Trust](./⏸️_pause_is_not_the_same_as_trust.md)  
+
+Provisional tolerability, conditional consent, monitoring, ordinary life, preserved relationships and credible re-entry capacity.
+
+### 📰 [How To Report A Networked Public](./📰_how_to_report_a_networked_public.md)  
+
+The reusable newsroom model derived from the case: source tracing, translation, participant meaning, image risk, regional knowledge, correction and live implementation reporting.
+
+### 🧰 [A Reusable Case-Study Method](./🧰_a_reusable_case-study_method.md)  
+
+The practical Polaris method for orientation, factual spine, public interface, institutional machinery, settlement testing, source maps, evidence gaps and later abstraction.
+
+---
+
+## 🧩 How The Nodes Fit Together  
+
+```text
+🔄 full cycle
+        ↓
+🚪 grievance becomes public action
+        ↓
+🪳 culture becomes interface
+        ↓
+🛠️ visibility gains capacity
+        ↓
+🗻 unequal public is mapped
+        ↓
+🏛️ institutional machinery is traced
+        ↓
+👁️ capability claims are bounded
+        ↓
+🧽 concession is tested against repair
+        ↓
+⏸️ pause is tested against trust
+        ↓
+📰 reporting method is extracted
+        ↓
+🧰 future case-study method is formalised
+```
+
+The nodes are not independent theories.
+
+They are parts of one circular model.
+
+---
+
+## 🧰 Core Transfer Fields  
+
+Each mega-node should contain:
+
+- a clear transferable question;
+- direct grounding in the Cockroach case;
+- the case-derived finding;
+- the proposed mechanism;
+- rival explanations;
+- evidence boundaries;
+- conditions of transfer;
+- what does not transfer cleanly;
+- what evidence another case would require;
+- a compact finding;
+- cross-references to supporting phase nodes.
+
+This keeps the reusable section accountable to the case.
+
+---
+
+## 🧪 Reusable Finding Template  
+
+```text
+TRANSFERABLE QUESTION:
+What mechanism is being tested?
+
+CASE GROUNDING:
+Which part of the Cockroach case supports it?
+
+CLAIM LEVEL:
+Fact / case-derived inference / transferable finding / comparative hypothesis.
+
+MECHANISM:
+What process appears to connect cause and outcome?
+
+CONDITIONS:
+What cultural, institutional, technological or social conditions mattered?
+
+RIVAL EXPLANATIONS:
+What else may explain the outcome?
+
+EVIDENCE BOUNDARY:
+What is documented, inferred or unresolved?
+
+WHAT DOES NOT TRANSFER:
+Which elements remain case-specific?
+
+OTHER-CASE TEST:
+What evidence would be needed elsewhere?
+
+FALSIFICATION:
+What would show the comparison is wrong?
+
+COMPACT FINDING:
+The narrow reusable lesson.
+```
+
+---
+
+## ⚠️ Common Abstraction Failures  
+
+### Copy The Symbol  
+
+The analyst assumes another movement should find its own cockroach.
+
+### Copy The Tactic  
+
+The analyst treats one visible action as the movement’s causal engine.
+
+### Copy The Outcome  
+
+A resignation in one case becomes evidence that resignation is the correct measure of success everywhere.
+
+### Copy The Nation  
+
+One Indian case becomes a theory of all Indian publics.
+
+### Copy The Platform  
+
+One circulation route becomes a universal theory of digital mobilisation.
+
+### Copy The Hierarchy  
+
+The most visible participants become the representative public.
+
+### Copy The Villain  
+
+A contractor, minister or platform becomes the sole explanation for a distributed institutional failure.
+
+The correct approach is to compare mechanisms, conditions and consequences.
+
+---
+
+## 🧠 Movement Memory And Institutional Memory  
+
+Reusable findings should preserve two forms of memory.
+
+### Movement Memory  
+
+- what worked;
+- what failed;
+- who carried labour;
+- which promises were made;
+- what triggered re-entry;
+- which relationships survived.
+
+### Institutional Memory  
+
+- what pressure became costly;
+- which concession reduced mobilisation;
+- which delay exhausted attention;
+- which monitoring mechanisms remained active;
+- what the institution learned about public capacity.
+
+Success changes future bargaining power when both sides remember that mobilisation can return.
+
+---
+
+## 🩹 Culture, Organisation And Care  
+
+Culture can make a movement visible.
+
+Organisation can make it capable.
+
+Care can make it durable.
+
+Keep separate:
+
+```text
+culture
+        ↓
+recognition and entry
+
+organisation
+        ↓
+coordination and pressure
+
+care
+        ↓
+continuity and endurance
+```
+
+No one layer replaces the others.
+
+A movement may be culturally brilliant and organisationally fragile.
+
+It may be organisationally capable but publicly illegible.
+
+It may be visible and capable but unable to sustain the people doing the work.
+
+---
+
+## 🏛️ Media, Coercion, Procurement And Absorption  
+
+The reusable model must also include institutional response.
+
+Movements do not act against an empty state.
+
+They encounter:
+
+- official narratives;
+- media narrowing;
+- platform moderation;
+- policing;
+- legal coercion;
+- surveillance capability;
+- procurement systems;
+- fragmented contractors;
+- inquiries;
+- resignation;
+- compensation;
+- technical fixes;
+- delay;
+- rebranding;
+- managed transparency.
+
+The institution may:
+
+- repress;
+- concede;
+- reform;
+- absorb;
+- wait;
+- divide;
+- monitor.
+
+The public then has to assess what actually changed.
+
+---
+
+## 🔄 The Reusable Lesson Is The Cycle  
+
+The reusable lesson is not:
+
+> Copy the cockroach.
+
+It is:
+
+- understand how private harm became recognisable;
+- identify how recognition acquired public form;
+- examine what turned visibility into capacity;
+- map how institutions resisted or absorbed pressure;
+- test whether concession changed the original condition;
+- preserve enough memory and organisation to return if it did not.
+
+The symbol is one part of the cycle.
+
+The cycle is the transferable object.
+
+---
+
+## 🧪 Evidence Boundaries  
+
+Keep separate:
+
+```text
+one case
+≠ universal law
+
+one symbol
+≠ complete movement
+
+one movement
+≠ national public
+
+one concession
+≠ structural repair
+```
+
+```text
+mechanism-based comparison
+≠ visual analogy
+
+case-derived inference
+≠ settled causation
+
+transferable question
+≠ prescriptive formula
+```
+
+```text
+what travelled
+≠ what should be copied
+
+what worked once
+≠ what will work elsewhere
+```
+
+---
+
+## 🚧 What This Section Does Not Claim  
+
+This section does not claim that:
+
+- the Cockroach case is representative of all movements;
+- every movement follows the lunar sequence cleanly;
+- culture always lowers participation costs;
+- humour always produces mobilisation;
+- public visibility always creates pressure;
+- pressure always produces concession;
+- concession always conceals absorption;
+- a pause always preserves re-entry capacity;
+- procurement explains every institutional failure;
+- the same risks apply equally across countries;
+- one theory can replace local reporting;
+- abstraction should erase culturally specific meaning.
+
+It does claim that:
+
+- mechanism-based transfer is possible;
+- abstraction should follow detailed case description;
+- claim levels must remain visible;
+- conditions and rival explanations should travel with the finding;
+- what does not transfer must be stated;
+- the full cycle is more useful than copying one symbol or tactic;
+- re-entry capacity belongs inside the theory of change.
+
+---
+
+## 🧷 Compact Finding  
+
+The reusable lesson is not “copy the cockroach”.
+
+It is to understand:
+
+- how grievance becomes legible;
+- how a public becomes capable;
+- how culture, organisation and care interact;
+- how institutions absorb or answer pressure;
+- how concession is tested against repair;
+- how movements preserve the ability to return.
+
+A finding becomes reusable not when the case-specific detail has been removed, but when the mechanism remains useful after the conditions, limits and rival explanations are restored.
 
 ---
 
 ## 🌌 Constellations  
 
-🧭 🌑 🌒 🌕 🌘 — reusable movement analysis; grievance; public formation; institutional response; tolerability and political re-entry.
+🧭 🌑 🌒 🌕 🌘 — responsible abstraction; intolerability; public formation; institutional confrontation; settlement, monitoring and political re-entry.
 
 ---
 
 ## ✨ Stardust  
 
-theory of change, movement analysis, political grievance, meme infrastructure, hidden transcripts, movement care, unequal publics, digital repression, procurement, partial concession, tolerance test, implementation monitoring, political re-entry
+reusable findings, theory of change, case-derived inference, transferable mechanism, mechanism-based comparison, political grievance, movement infrastructure, unequal publics, procurement, concession, tolerability, implementation monitoring, political re-entry
 
 ---
 
 ## 🏮 Footer  
 
 *🧭 Reusable Findings* is a living analytical arm of the **Polaris Protocol**.  
-It preserves transferable mechanisms from *Mera Naam Cockroach Hai* without detaching them from the cultural, social and evidentiary conditions that made the original case legible.
+It extracts mechanism-level findings from *Mera Naam Cockroach Hai* while preserving the cultural, social, institutional and evidentiary conditions that made the original case legible.
 
 > 📡 Cross-references:
 >
@@ -888,8 +881,8 @@ It preserves transferable mechanisms from *Mera Naam Cockroach Hai* without deta
 > - [🌒 The Public Comes Outside](../🌒_The_Public_Comes_Outside/README.md) — *how culture, care and organisation created public capacity*  
 > - [🌕 What The Movement Was Up Against](../🌕_What_The_Movement_Was_Up_Against/README.md) — *how institutions, platforms, surveillance and procurement shaped the response*  
 > - [🌘 Did The System Become Tolerable?](../🌘_Did_The_System_Become_Tolerable/README.md) — *the tolerance test, monitoring and political re-entry*  
-> - [🗞️ For Readers And Newsrooms](../🗞️_For_Readers_And_Newsrooms/README.md) — *translation, attribution and reporting method*  
+> - [🗞️ For Readers And Newsrooms](../🗞️_For_Readers_And_Newsrooms/README.md) — *translation, attribution, source position and reporting method*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-27_
+_Last updated: 2026-07-30_
