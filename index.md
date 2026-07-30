@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-30 16:46:08 UTC_
+_Generated on 2026-07-30 17:53:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5616,7 +5616,6 @@ _Generated on 2026-07-30 16:46:08 UTC_
           - [`🪓_when_a_victory_splits_the_coalition.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/🪓_when_a_victory_splits_the_coalition.md)
         - [**🗞️_For_Readers_And_Newsrooms/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/notes.txt)
           - [`✅_a_newsroom_checklist.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/✅_a_newsroom_checklist.md)
           - [`🌈_images_are_evidence_and_exposure.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/🌈_images_are_evidence_and_exposure.md)
           - [`🌍_diaspora_knowledge_is_valuable_and_situated.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🗞️_For_Readers_And_Newsrooms/🌍_diaspora_knowledge_is_valuable_and_situated.md)
