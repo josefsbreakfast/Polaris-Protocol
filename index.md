@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-07-30 20:58:55 UTC_
+_Generated on 2026-07-30 21:05:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5630,6 +5630,17 @@ _Generated on 2026-07-30 20:58:55 UTC_
         - [**🧭_Reusable_Findings/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/notes.txt)
+          - [`⏸️_pause_is_not_the_same_as_trust.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/⏸️_pause_is_not_the_same_as_trust.md)
+          - [`🏛️_centralised_power_can_hide_behind_fragmented_delivery.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/🏛️_centralised_power_can_hide_behind_fragmented_delivery.md)
+          - [`👁️_capability_is_not_the_same_as_use.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/👁️_capability_is_not_the_same_as_use.md)
+          - [`📰_how_to_report_a_networked_public.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/📰_how_to_report_a_networked_public.md)
+          - [`🔄_the_full_change_cycle.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/🔄_the_full_change_cycle.md)
+          - [`🗻_the_public_is_never_flat.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/🗻_the_public_is_never_flat.md)
+          - [`🚪_how_private_harm_becomes_public_action.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/🚪_how_private_harm_becomes_public_action.md)
+          - [`🛠️_visibility_needs_a_back_end.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/🛠️_visibility_needs_a_back_end.md)
+          - [`🧰_a_reusable_case_study_method.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/🧰_a_reusable_case_study_method.md)
+          - [`🧽_concession_is_not_the_same_as_repair.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/🧽_concession_is_not_the_same_as_repair.md)
+          - [`🪳_culture_can_become_movement_infrastructure.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🧭_Reusable_Findings/🪳_culture_can_become_movement_infrastructure.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/README.md)
         - [`factcheck_notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/factcheck_notes.txt)
         - [`🪳_the_cockroach_at_a_glance.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🪳_the_cockroach_at_a_glance.md)
