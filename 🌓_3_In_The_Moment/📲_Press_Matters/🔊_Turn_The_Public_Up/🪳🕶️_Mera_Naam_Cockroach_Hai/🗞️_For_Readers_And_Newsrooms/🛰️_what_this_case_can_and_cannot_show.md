@@ -465,6 +465,99 @@ to replace:
 
 ---
 
+
+## 📉 Competitive Loss Of Attention  
+
+India and Pakistan do not need to disprove criticism in order to weaken it.
+
+If one government’s conduct begins receiving sustained domestic or international attention, that government or its allies can redirect part of the attention toward the other government’s abuses.
+
+The response may be factually valid.
+
+The neighbouring government may indeed be responsible for serious harm.
+
+But the timing and function still matter.
+
+```text
+scrutiny begins to concentrate
+        ↓
+counter-example is introduced
+        ↓
+coverage becomes comparative
+        ↓
+attention divides
+        ↓
+accountability weakens on both sides
+```
+
+This produces a competitive loss of attention.
+
+The public is invited to ask:
+
+- Which government is worse?
+- Which side is more hypocritical?
+- Which country has greater standing to criticise?
+- Which abuse should be treated as the more important one?
+
+Those questions can displace:
+
+- What happened here?
+- Who remains exposed?
+- What remedy is required?
+- Has the responsible institution changed?
+- Who is helping the people carrying the harm?
+
+A government can therefore benefit from a true allegation about its neighbour without answering the allegation against itself.
+
+The neighbouring government can then repeat the same manoeuvre in reverse.
+
+```text
+India points to Pakistan
+        ↓
+Pakistan points to India
+        ↓
+each allegation may be real
+        ↓
+sustained attention to either case
+becomes harder
+```
+
+This is not only competitive outrage.
+
+It is competitive interruption.
+
+Each side has an incentive to prevent the other side’s victims from holding concentrated domestic and international attention for long enough to produce political cost.
+
+The result can be:
+
+- more allegations in circulation;
+- more rhetorical heat;
+- more comparative coverage;
+- less sustained scrutiny of any one institution;
+- less time for remedies, implementation and follow-up.
+
+Kashmir is especially vulnerable to this dynamic because it is already used as:
+
+- evidence of state legitimacy or illegitimacy;
+- a rebuttal to unrelated criticism;
+- a test of foreign hypocrisy;
+- a permanent comparison point in India–Pakistan media conflict;
+- a mechanism for redirecting attention away from a current domestic failure.
+
+The newsroom must therefore distinguish:
+
+```text
+comparison that adds evidence
+        ≠
+comparison that disperses accountability
+```
+
+The key editorial question is:
+
+> Did introducing the neighbouring case deepen understanding, or did it interrupt scrutiny before anyone had to act?
+
+---
+
 ## 🌐 Regional Attention Can Still Be Useful  
 
 The existence of competitive attention does not mean neighbouring press should be dismissed.
@@ -738,6 +831,15 @@ circulation
 attention
 ≠ assistance
 
+comparative context
+≠ competitive distraction
+
+more allegations in view
+≠ more accountability
+
+divided attention
+≠ balanced reporting
+
 criticism
 ≠ repair
 
@@ -781,6 +883,8 @@ It does claim that:
 - later visibility may exaggerate early centrality;
 - regional attention can reveal real harm while instrumentalising it;
 - competitive accusation can displace practical assistance;
+- both governments can use real harms committed by the other to interrupt concentrated scrutiny;
+- divided attention can weaken accountability on both sides without disproving either allegation;
 - attention must be assessed by what it does for affected people;
 - stronger claims require stronger evidence.
 
@@ -817,6 +921,8 @@ It cannot, by itself, prove:
 Regional and neighbouring attention may expose real abuse.
 
 It may also create a competitive loop in which governments and media point at one another while affected people remain under-helped.
+
+Where one government begins to attract sustained domestic or international scrutiny, a true allegation about the other can still function as an interruption—dividing attention before accountability becomes costly.
 
 The final test is not:
 
