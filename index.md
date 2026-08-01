@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-01 17:32:01 UTC_
+_Generated on 2026-08-01 17:37:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5258,7 +5258,6 @@ _Generated on 2026-08-01 17:32:01 UTC_
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/README.md)
         - [`iran_war_essential_infrastructure_cyber_timeline.csv`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/iran_war_essential_infrastructure_cyber_timeline.csv)
         - [`iran_war_essential_infrastructure_cyber_timeline.xlsx`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/iran_war_essential_infrastructure_cyber_timeline.xlsx)
-        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/notes.txt)
         - [`⏱️_timeline_of_essential_infrastructure_attacks.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/⏱️_timeline_of_essential_infrastructure_attacks.md)
         - [`🇬🇧_britain_is_advertising_an_exploitable_seam.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🇬🇧_britain_is_advertising_an_exploitable_seam.md)
         - [`🏗️_what_counts_as_state_infrastructure.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🏗️_what_counts_as_state_infrastructure.md)
