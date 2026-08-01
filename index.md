@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-01 20:32:47 UTC_
+_Generated on 2026-08-01 20:53:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5302,6 +5302,7 @@ _Generated on 2026-08-01 20:32:47 UTC_
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/⚖️_Universal_Until_Tested/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/⚖️_Universal_Until_Tested/notes.txt)
         - [**🌱_What_Repression_Produces/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🌱_What_Repression_Produces/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🌱_What_Repression_Produces/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🌱_What_Repression_Produces/notes.txt)
         - [**🏛️_Home_Institutions/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🏛️_Home_Institutions/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🏛️_Home_Institutions/README.md)
