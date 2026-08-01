@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-01 17:37:08 UTC_
+_Generated on 2026-08-01 17:41:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5256,7 +5256,6 @@ _Generated on 2026-08-01 17:37:08 UTC_
         - [`🪱_the_estate_as_disaster_capitalism_macro.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/🪱_the_estate_as_disaster_capitalism_macro.md)
       - [**🇮🇷_Data_Wars_IRGC_Edition/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/README.md)
-        - [`iran_war_essential_infrastructure_cyber_timeline.csv`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/iran_war_essential_infrastructure_cyber_timeline.csv)
         - [`iran_war_essential_infrastructure_cyber_timeline.xlsx`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/iran_war_essential_infrastructure_cyber_timeline.xlsx)
         - [`⏱️_timeline_of_essential_infrastructure_attacks.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/⏱️_timeline_of_essential_infrastructure_attacks.md)
         - [`🇬🇧_britain_is_advertising_an_exploitable_seam.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🇬🇧_britain_is_advertising_an_exploitable_seam.md)
@@ -5264,6 +5263,7 @@ _Generated on 2026-08-01 17:37:08 UTC_
         - [`🏥_health_education_and_admin_are_not_soft_extras.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🏥_health_education_and_admin_are_not_soft_extras.md)
         - [`🏦_banks_are_part_of_the_battlespace.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🏦_banks_are_part_of_the_battlespace.md)
         - [`📉_small_disruptions_can_make_a_campaign.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/📉_small_disruptions_can_make_a_campaign.md)
+        - [`📊_iran_war_essential_infrastructure_cyber_timeline.csv`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/📊_iran_war_essential_infrastructure_cyber_timeline.csv)
         - [`📰_how_to_report_without_overclaiming.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/📰_how_to_report_without_overclaiming.md)
         - [`🔎_confidence_labels_and_source_rules.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🔎_confidence_labels_and_source_rules.md)
         - [`🕸️_attribution_is_not_a_light_switch.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🕸️_attribution_is_not_a_light_switch.md)
