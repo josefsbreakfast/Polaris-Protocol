@@ -1,6 +1,6 @@
 # 🥁 Why They Are Still Marching  
-**First created:** 2026-07-18 | **Last updated:** 2026-07-18  
-*Understanding protest persistence as evidence of unresolved harm, incomplete political response, institutional distrust, and continuing public obligation.*
+**First created:** 2026-07-18 | **Last updated:** 2026-08-01  
+*Understanding protest persistence as evidence of unresolved harm, incomplete political response, institutional distrust, changing participation, and continuing public obligation.*
 
 ---
 
@@ -25,21 +25,42 @@ This cluster begins from a different premise.
 
 Persistence is information.
 
-People continue returning to demonstrations when they believe that:
+People continue returning to demonstrations when they believe that some combination of the following remains active:
 
-- the originating harm remains active;
-- political responsibility remains unresolved;
-- institutional involvement continues;
-- promised remedies have not arrived;
-- legal processes have not produced meaningful protection or accountability;
-- public attention is being withdrawn too early;
-- or lawful democratic participation has not yet produced an adequate response.
+- material harm;
+- political responsibility;
+- legal obligation;
+- institutional involvement;
+- unanswered demands;
+- public grief;
+- democratic duty;
+- or distrust in the channels expected to provide remedy.
 
-Continued mobilisation does not prove that every marcher, organisation, slogan, or demand is correct.
+Continued mobilisation does not prove that every marcher, organisation, slogan, factual claim, tactic, or political demand is correct.
 
-It does show that the issue remains politically alive.
+It does establish that continued motivation, failed political closure, and unresolved legitimacy still require explanation.
 
-That persistence requires explanation rather than dismissal.
+The immediate target of a particular march may be:
+
+- a government decision;
+- an arms licence;
+- a university sanction;
+- an arrest;
+- a workplace dispute;
+- a media failure;
+- a charitable relationship;
+- or another domestic institutional act.
+
+The originating Palestinian conditions nevertheless remain the substantive centre of the wider mobilisation.
+
+This cluster explains why mobilisation persists.
+
+Other clusters examine in greater depth:
+
+- how the movement is reported;
+- how domestic institutions are materially connected;
+- how repression changes participation;
+- and how a large, plural movement should be described.
 
 ---
 
@@ -49,13 +70,14 @@ That persistence requires explanation rather than dismissal.
 
 It can also conceal several other questions:
 
-- Why have they not accepted the current political response?
+- Why have participants not accepted the current political response?
 - Why has public attention not moved elsewhere?
 - Why does this issue continue to occupy domestic political space?
 - Why have restrictions, arrests, criticism, or fatigue not ended participation?
 - Why do new people continue joining?
-- What would the marchers recognise as resolution?
-- Why do institutions appear unable to absorb the dispute?
+- What would participants recognise as meaningful progress?
+- What would they recognise as resolution?
+- Why do existing institutions appear unable to provide a credible route through the dispute?
 
 Sometimes the question is less about the marches than about discomfort with their persistence.
 
@@ -71,11 +93,11 @@ It keeps visible:
 
 The task is not to assume that persistence is virtuous.
 
-It is to ask what conditions continue to reproduce it.
+It is to ask which conditions continue to reproduce it.
 
 ---
 
-## 🌱 Persistence Is Information
+## 🌱 What Persistence Can And Cannot Show
 
 Repeated participation communicates that some combination of:
 
@@ -92,7 +114,7 @@ remains active.
 
 Persistence may indicate that:
 
-- the material conditions have not ended;
+- material conditions have not ended;
 - a temporary intervention did not amount to resolution;
 - new events have renewed concern;
 - legal developments have raised further questions;
@@ -100,9 +122,25 @@ Persistence may indicate that:
 - movement networks have become durable;
 - or participation has become part of people’s civic, professional, religious, or communal lives.
 
-The persistence itself does not tell us which explanation is correct.
+The recurrence itself does not tell us which explanation is correct.
 
 It tells us where inquiry should begin.
+
+Persistence can establish:
+
+- continuing motivation;
+- failed political closure;
+- unresolved public disagreement;
+- durable organisation;
+- or distrust in existing channels.
+
+It does not independently establish:
+
+- the accuracy of every factual claim;
+- the legitimacy of every tactic;
+- the representativeness of every speaker;
+- the coherence of every demand;
+- or the correctness of every political programme.
 
 A movement that returns repeatedly should not be treated as though it has supplied no information.
 
@@ -110,13 +148,13 @@ The recurrence is part of the evidence.
 
 ---
 
-## 🇵🇸 The Originating Conditions Remain Central
+## 🇵🇸 The Originating Palestinian Conditions
 
 The marches do not persist only because domestic institutions have handled them badly.
 
 They persist because Palestinian life, land, rights, safety, and political claims remain unresolved.
 
-These may include:
+These conditions may include:
 
 - killing and injury;
 - displacement;
@@ -142,7 +180,13 @@ The exact conditions vary across:
 
 They should not be compressed into one undifferentiated account.
 
-But the central question remains:
+A march may respond immediately to a domestic institution or decision.
+
+That does not mean Palestine has become incidental.
+
+The domestic target forms part of the story because it is materially, legally, politically, or ethically connected to Palestinian conditions.
+
+The central question remains:
 
 > Have the conditions that first brought people into the streets reached a legitimate and durable resolution?
 
@@ -150,32 +194,17 @@ Where the answer is no, continued mobilisation should not be surprising.
 
 ---
 
-## 🕊️ What Remains Open
+## 🕊️ The Unresolved Fields
 
 An issue can change significantly while remaining unresolved.
 
-The following may all matter without amounting to final resolution:
+A temporary ceasefire, increase in aid, court hearing, legal opinion, policy review, diplomatic statement, symbolic recognition, change in government language, or reduction in one form of military activity may all matter.
 
-- a temporary ceasefire;
-- an increase in aid;
-- a court hearing;
-- a legal opinion;
-- a policy review;
-- a diplomatic statement;
-- a symbolic recognition;
-- a change in government language;
-- a pause in one form of military activity;
-- or a reduction in media attention.
-
-Each development may alter the situation.
-
-None should be dismissed.
+None should be dismissed merely because it is incomplete.
 
 But the relevant question is not simply whether something changed.
 
-It is whether the change addressed the underlying conditions.
-
-The unresolved field may remain:
+It is whether the change addressed the underlying field of concern.
 
 ### Material
 
@@ -216,7 +245,7 @@ Is there a credible path towards:
 
 ### Institutional
 
-Have governments, companies, universities, charities, investors, regulators, and professional bodies addressed their own material relationships?
+Have governments, companies, universities, charities, investors, regulators, and professional bodies addressed their own material relationships and responsibilities?
 
 ### Democratic
 
@@ -227,7 +256,11 @@ Have people been shown that:
 - lawful participation remains meaningful;
 - and concern for Palestine does not place them outside ordinary civic belonging?
 
-Where these questions remain open, the marches remain intelligible.
+### Relational
+
+Have communities, professions, movements, and organisations developed durable obligations or solidarities that do not disappear when media attention declines?
+
+Where these fields remain open, the marches remain intelligible.
 
 ---
 
@@ -235,24 +268,47 @@ Where these questions remain open, the marches remain intelligible.
 
 One of the weakest assumptions in coverage is that repeated protest means the movement has failed to notice change.
 
-In reality, much may have changed since the marches began.
+In reality, several different kinds of change may have occurred since the marches began.
 
-The movement may have encountered:
+### Changes In Palestinian Conditions
 
-- new deaths;
+These may include:
+
+- new deaths and injuries;
 - new displacement;
+- changes in humanitarian access;
+- new destruction;
+- shifts in detention or movement restrictions;
+- new negotiations;
+- or changes in military activity.
+
+### Changes In Institutional Response
+
+These may include:
+
 - new legal findings;
-- new diplomatic initiatives;
-- new arms decisions;
-- new protest restrictions;
-- new arrests;
-- new institutional sanctions;
-- new political language;
-- and new forms of public participation.
+- diplomatic initiatives;
+- arms decisions;
+- policy reviews;
+- protest restrictions;
+- arrests;
+- university sanctions;
+- workplace discipline;
+- or changes in official language.
 
-The composition of the movement may also have changed.
+### Changes In Movement Composition And Strategy
 
-New routes may have opened through:
+These may include:
+
+- new participants;
+- new constituencies;
+- changing demands;
+- different institutional targets;
+- revised slogans;
+- new legal or professional campaigns;
+- or movement from street protest into other forms of action.
+
+New routes may open through:
 
 - healthcare;
 - law;
@@ -273,40 +329,67 @@ A march that looks visually familiar may therefore contain:
 - different institutional targets;
 - and a different political context.
 
-Persistence should not be confused with immobility.
+A movement can retain a stable moral or political centre while changing its evidence, constituencies, tactics, language, and routes into public life.
 
-The movement may be changing precisely because the unresolved field is changing around it.
+Continuity can coexist with change.
+
+Persistence should not be confused with immobility.
 
 ---
 
-## 🫒 Repetition And Political Maintenance
+## 🫒 What Repetition Does
 
-Repeated marches perform political work.
+Repeated marches perform several kinds of political and social work.
 
-They can:
+### Expressive Work
 
-- preserve public memory;
-- prevent premature closure;
-- demonstrate constituency;
-- maintain social networks;
-- bring new participants into the issue;
-- transmit knowledge;
+They may:
+
 - sustain grief;
-- protect political language from disappearance;
-- test democratic space;
-- and show that institutional responses have not settled the dispute.
+- express anger;
+- communicate solidarity;
+- preserve public memory;
+- and refuse premature closure.
 
-Repetition can also create ritual.
+### Organisational Work
 
-That ritual may help communities:
+They may:
+
+- maintain networks;
+- recruit new participants;
+- transmit knowledge;
+- develop shared language;
+- and create relationships that support later action.
+
+### Instrumental Work
+
+They may:
+
+- pressure decision-makers;
+- demonstrate constituency;
+- target institutions;
+- support campaigns;
+- and contribute to legal, political, financial, or professional leverage.
+
+### Democratic Work
+
+They may:
+
+- test the availability of public space;
+- demonstrate whether lawful participation remains possible;
+- expose selective enforcement;
+- and show whether institutions are capable of responding visibly to public concern.
+
+Repeated protest may also become ritual.
+
+That ritual can help communities:
 
 - mourn;
 - organise;
 - recognise one another;
-- develop shared language;
 - and remain politically present during periods of declining media attention.
 
-This does not mean repetition is always effective.
+Meaning does not guarantee effectiveness.
 
 Repeated protest may also produce:
 
@@ -316,6 +399,7 @@ Repeated protest may also produce:
 - internal conflict;
 - symbolic action without leverage;
 - message dilution;
+- ritual without escalation;
 - or the belief that marching alone is sufficient.
 
 The correct question is not:
@@ -328,9 +412,9 @@ It is:
 
 ---
 
-## 🌱 New Roots Of Participation
+## 🌱 New Roots, Suppression And Injury
 
-The movement does not only persist through the people who first joined it.
+The movement does not persist only through the people who first joined it.
 
 New participants may enter through events that occur later.
 
@@ -346,59 +430,75 @@ A person may become involved because of:
 - a religious or communal response;
 - or an institutional attempt to suppress discussion.
 
-This creates an important dynamic.
+Institutional responses may have several effects at once.
 
-An action intended to contain one expression of solidarity may generate another route into the wider struggle.
+They may:
 
-For example:
+### Suppress
 
-- closing an encampment may create a dispute about university governance;
-- disciplining a worker may create a professional-freedom campaign;
-- arresting protesters may create a civil-liberties constituency;
-- restricting a slogan may create a legal dispute about political expression;
-- or dismissing public concern may deepen distrust in existing democratic channels.
+- reduce turnout;
+- deter participation;
+- remove people from public space;
+- or make protest materially harder.
 
-This does not mean every restriction strengthens a movement.
+### Displace
 
-Repression can:
+- move activity into courts;
+- shift campaigns into workplaces;
+- redirect organising into professional bodies;
+- or transfer disputes into other institutions.
 
-- frighten;
-- exhaust;
-- isolate;
-- impoverish;
-- injure;
-- and silence people.
+### Generate
 
-But it does mean that containment should not be mistaken automatically for resolution.
+- create new grievances;
+- recruit new constituencies;
+- expose institutional relationships;
+- or produce additional legal and political questions.
+
+### Injure
+
+- frighten participants;
+- exhaust organisations;
+- destroy employment or educational security;
+- impoverish people;
+- isolate communities;
+- or reduce future capacity.
+
+Closing an encampment may create a dispute about university governance.
+
+Disciplining a worker may create a professional-freedom campaign.
+
+Arresting protesters may create a civil-liberties constituency.
+
+Restricting a slogan may create a legal dispute about political expression.
+
+But none of these outcomes means that repression reliably strengthens a movement.
+
+Containment may generate new roots while simultaneously damaging the people expected to sustain them.
+
+Suppression should not be mistaken automatically for resolution.
+
+Nor should injury be romanticised as movement growth.
 
 ---
 
-## 🗞️ How Reporting Misreads Persistence
+## 🗞️ How Reporting Freezes Persistence
 
 Coverage often treats repeated demonstrations as a single recurring event.
 
-This produces several distortions.
+The visual scene may appear familiar, and the reporting may therefore assume that:
 
-### The Frozen Movement
+- the participants are unchanged;
+- the evidence is unchanged;
+- the demands are unchanged;
+- the target is unchanged;
+- and nothing politically significant has happened since the previous march.
 
-The movement is described as though its:
+This produces a frozen movement.
 
-- participants;
-- evidence;
-- demands;
-- tactics;
-- and political context
+Reporting may focus on:
 
-have not changed.
-
-### The Irrational Protester
-
-Continued participation is framed as emotional excess, obsession, or refusal to move on.
-
-### The Missing Cause
-
-Reporting focuses on:
-
+- crowd size;
 - traffic;
 - policing;
 - arrests;
@@ -406,41 +506,30 @@ Reporting focuses on:
 - confrontation;
 - or public inconvenience
 
-while giving little space to the reason the march took place.
+while giving little space to:
 
-### The Spectacle Loop
+- what has changed;
+- what remains unresolved;
+- who has joined;
+- what institutions are now implicated;
+- and what the current march is trying to do.
 
-The same visually dramatic features are selected repeatedly, making every march appear identical.
-
-### The Implied Endpoint
-
-Coverage assumes that a previous:
-
-- ceasefire proposal;
-- government statement;
-- aid delivery;
-- court process;
-- or media cycle
-
-should have ended mobilisation without asking whether it addressed the movement’s demands.
-
-### The Search For One Explanation
-
-Reporters look for one leader, ideology, constituency, or hidden motive that can explain everyone present.
-
-A more accurate report asks:
+The relevant questions are:
 
 - What has happened since the previous march?
-- Which conditions remain unresolved?
-- Who has joined or left?
-- What new institutions are implicated?
+- Which original conditions remain active?
+- What new conditions have emerged?
+- Who is participating now?
+- What is the immediate target?
 - What are the current demands?
-- What political work is this march performing?
+- What work is repetition performing?
 - and what would participants recognise as meaningful change?
+
+The wider **🗞️ The Reporting Gap** cluster examines these reporting failures in greater depth.
 
 ---
 
-## 🧱 When Institutions Fail To Absorb A Dispute
+## 🧱 When Democratic Routes Lose Credibility
 
 Democratic institutions are expected to provide routes through which public concern can be:
 
@@ -448,9 +537,11 @@ Democratic institutions are expected to provide routes through which public conc
 - heard;
 - assessed;
 - contested;
-- and translated into decision-making.
+- answered;
+- translated into decision-making;
+- and, where appropriate, remedied.
 
-Persistent mobilisation may indicate that participants do not believe these routes are functioning adequately.
+Persistent mobilisation may indicate that participants do not believe these routes are functioning credibly.
 
 They may conclude that:
 
@@ -459,35 +550,50 @@ They may conclude that:
 - political representatives are unresponsive;
 - public standards are applied selectively;
 - professional channels punish rather than hear concern;
+- official review produces no visible effect;
 - or media coverage repeatedly misdescribes the issue.
 
-Where institutions do not absorb a dispute, the street remains one of the few visible places where it can continue to exist.
+Where institutions fail to provide credible routes for a dispute, the street remains one of the few visible places where it can continue to exist.
 
 This is not automatically evidence that the protesters are right.
 
-It is evidence that institutional legitimacy is part of the story.
+It is evidence that institutional legitimacy and democratic responsiveness are part of the story.
 
 The question becomes:
 
-> Why has this dispute remained outside, or returned repeatedly to, the ordinary channels through which democratic conflict is supposed to move?
+> Why has this dispute remained outside, or returned repeatedly to, the channels through which democratic conflict is supposed to move?
 
 ---
 
-## ⛓️‍💥 Conditions For Demobilisation
+## ⛓️‍💥 Resolution, Transformation And Decline
 
 Movements rarely end because someone announces that the public should move on.
 
-They demobilise when:
+Mobilisation may reduce when:
 
 - the originating harm stops;
 - a credible political process begins;
 - institutions respond materially;
 - accountability becomes visible;
 - demands narrow or are met;
-- participants believe continued mobilisation is no longer necessary;
+- participants believe continued mobilisation is less necessary;
 - or activity moves into other effective channels.
 
-The marches may not end all at once.
+But reduced mobilisation does not always mean resolution.
+
+A decline may indicate:
+
+- genuine progress;
+- strategic transformation;
+- movement into legal or political institutions;
+- exhaustion;
+- fear;
+- repression;
+- exclusion;
+- declining capacity;
+- or loss of hope.
+
+The decline itself does not identify the cause.
 
 Participation may:
 
@@ -511,7 +617,11 @@ A durable reduction in mobilisation would likely require some combination of:
 - changes in arms, procurement, investment, or institutional relationships;
 - and evidence that democratic participation can produce meaningful effect.
 
-The aim should not be to silence the visible symptom while leaving the underlying condition intact.
+The relevant aim is not demobilisation for its own sake.
+
+It is to understand what would make continued marching less necessary without relying on exhaustion, fear, exclusion, or suppression.
+
+The visible symptom should not be silenced while the underlying condition remains intact.
 
 ---
 
@@ -519,48 +629,85 @@ The aim should not be to silence the visible symptom while leaving the underlyin
 
 ### [🌱 Persistence Is Information](./🌱_persistence_is_information.md)
 
-Examines what continued mobilisation communicates about:
+Examines:
 
-- unresolved harm;
-- movement durability;
-- institutional legitimacy;
-- political responsiveness;
-- and the failure of existing channels to absorb public concern.
+- what continued mobilisation communicates;
+- what persistence can and cannot establish;
+- how recurrence indicates failed political closure;
+- how mobilisation can be treated as evidence without being romanticised;
+- and why persistence requires inquiry rather than dismissal.
+
+This node defines the evidential claim.
 
 ### [🕊️ What Remains Unresolved](./🕊️_what_remains_unresolved.md)
 
-Maps the material, legal, political, institutional, international, and human conditions that continue to sustain mobilisation.
+Maps the unresolved:
+
+- material;
+- legal;
+- political;
+- institutional;
+- democratic;
+- relational;
+- and human conditions
+
+that continue to sustain mobilisation.
+
+This node defines the open field.
 
 ### [🥀 What Has Changed Since The Marches Began](./🥀_what_has_changed_since_the_marches_began.md)
 
 Tracks changes in:
 
 - Palestinian conditions;
+- law and diplomacy;
+- institutional response;
 - movement composition;
 - public demands;
-- institutional response;
+- tactics and targets;
 - media framing;
 - and public understanding.
 
+This node records movement within persistence.
+
 ### [🫒 Repetition Is Not Stagnation](./🫒_repetition_is_not_stagnation.md)
 
-Explains the work performed by repeated demonstrations, including:
+Examines the:
 
-- memory;
-- recruitment;
-- education;
-- constituency building;
-- grief maintenance;
-- and democratic testing.
+- expressive;
+- organisational;
+- instrumental;
+- commemorative;
+- educational;
+- and democratic
+
+work performed by repeated demonstrations.
+
+It also examines:
+
+- exhaustion;
+- ritualisation;
+- strategic drift;
+- declining leverage;
+- and the limits of repetition.
+
+This node asks what repetition is doing now.
 
 ### [⛓️‍💥 What Would Allow The Marches To End](./⛓️‍💥_what_would_allow_the_marches_to_end.md)
 
-Identifies the conditions under which mobilisation might:
+Distinguishes among:
 
-- reduce;
-- transform;
-- move into other channels;
-- or become less necessary.
+- resolution;
+- partial progress;
+- strategic transformation;
+- movement into other channels;
+- exhaustion;
+- coerced decline;
+- and loss of capacity.
+
+It identifies the conditions under which mobilisation might become less necessary without mistaking suppression for political settlement.
+
+This node examines legitimate closure.
 
 ---
 
@@ -568,8 +715,10 @@ Identifies the conditions under which mobilisation might:
 
 When reporting or analysing persistent marches, ask:
 
-- What originating harm brought people into the streets?
+- What originating Palestinian condition brought people into the streets?
 - Which of those conditions remain active?
+- What is the immediate target of this particular march?
+- How is that target materially, legally, politically, or ethically connected to Palestine?
 - What has changed since the previous demonstration?
 - What has not changed?
 - Have legal or political developments produced material effect?
@@ -577,12 +726,13 @@ When reporting or analysing persistent marches, ask:
 - Who is participating now?
 - Which new routes into the movement have appeared?
 - What demands are currently being made?
-- What political work is repetition performing?
-- Has institutional response reduced harm or generated new grievances?
-- Are lawful democratic channels perceived as effective?
+- What expressive, organisational, instrumental, or democratic work is repetition performing?
+- Has institutional response suppressed participation, displaced activity, generated new grievances, caused injury, or produced several effects at once?
+- Are lawful democratic channels perceived as credible and effective?
 - Is one incident being made representative of the whole movement?
+- Is declining turnout being treated as proof of resolution without examining exhaustion, fear, or reduced capacity?
 - What would participants recognise as meaningful progress?
-- What would allow mobilisation to reduce without relying on exhaustion, fear, or suppression?
+- What would allow mobilisation to reduce without relying on coercion or abandonment?
 - What would disappear from public view if the marches stopped?
 
 ---
@@ -593,19 +743,19 @@ People are not still marching because nothing has changed.
 
 They are still marching because the changes that have occurred have not yet produced sufficient protection, accountability, political resolution, or institutional credibility.
 
-Persistence is not proof that every claim is correct.
+Persistence does not prove that every claim is correct.
 
-It is proof that the issue remains alive.
+It is evidence that continued motivation, unresolved conditions, and failed political closure remain active.
 
 ---
 
 ## 🌌 Constellations
 
-🥁 🌱 🕊️ 🫒 ⛓️‍💥 — protest persistence; unresolved harm; movement change; repetition as political maintenance; conditions for demobilisation.
+🥁 🌱 🕊️ 🫒 ⛓️‍💥 — protest persistence; unresolved harm; movement change; repetition as political maintenance; conditions for legitimate closure.
 
 ## ✨ Stardust
 
-Palestine, protest persistence, marches, mobilisation, unresolved harm, political response, institutional legitimacy, movement durability, repetition, demobilisation, public trust, democratic participation
+Palestine, protest persistence, marches, mobilisation, unresolved harm, political response, institutional legitimacy, movement durability, repetition, transformation, demobilisation, public trust, democratic participation
 
 ---
 
@@ -616,14 +766,16 @@ It examines continued Palestinian solidarity mobilisation as evidence of unresol
 
 > 📡 Cross-references:
 >
-> - [🌱 Persistence Is Information](./🌱_persistence_is_information.md) — *what continued mobilisation communicates and why recurrence requires explanation*
-> - [🕊️ What Remains Unresolved](./🕊️_what_remains_unresolved.md) — *the material, legal, political, institutional, and human conditions sustaining participation*
-> - [🥀 What Has Changed Since The Marches Began](./🥀_what_has_changed_since_the_marches_began.md) — *how the movement and the field around it have evolved*
-> - [🫒 Repetition Is Not Stagnation](./🫒_repetition_is_not_stagnation.md) — *the political, social, educational, and commemorative work performed by repetition*
-> - [⛓️‍💥 What Would Allow The Marches To End](./⛓️‍💥_what_would_allow_the_marches_to_end.md) — *conditions for durable de-escalation, transformation, or demobilisation*
+> - [🌱 Persistence Is Information](./🌱_persistence_is_information.md) — *what continued mobilisation communicates, what it can establish, and why recurrence requires explanation*
+> - [🕊️ What Remains Unresolved](./🕊️_what_remains_unresolved.md) — *the material, legal, political, institutional, democratic, relational, and human conditions sustaining participation*
+> - [🥀 What Has Changed Since The Marches Began](./🥀_what_has_changed_since_the_marches_began.md) — *how Palestinian conditions, institutional responses, and the movement itself have evolved*
+> - [🫒 Repetition Is Not Stagnation](./🫒_repetition_is_not_stagnation.md) — *the expressive, organisational, instrumental, educational, commemorative, and democratic work performed by repetition*
+> - [⛓️‍💥 What Would Allow The Marches To End](./⛓️‍💥_what_would_allow_the_marches_to_end.md) — *conditions for legitimate resolution, transformation, or reduced necessity*
 > - [🍉 Palestine As Rhizome](../README.md) — *root orientation for the wider working pack*
 > - [🛰️ Orientation](../🛰️_Orientation/README.md) — *conceptual, methodological, and editorial foundations for the pack*
+> - [🗞️ The Reporting Gap](../🗞️_The_Reporting_Gap/README.md) — *how event-based reporting misreads persistence, motive, and movement change*
+> - [🌱 What Repression Produces](../🌱_What_Repression_Produces/README.md) — *how containment may suppress, displace, generate, and injure at the same time*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-07-18_
+_Last updated: 2026-08-01_
