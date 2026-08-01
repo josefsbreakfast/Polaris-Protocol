@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-01 17:47:15 UTC_
+_Generated on 2026-08-01 17:53:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5299,6 +5299,7 @@ _Generated on 2026-08-01 17:47:15 UTC_
       - [**🍉_Palestine_As_Rhizome/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/)
         - [**⚖️_Universal_Until_Tested/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/⚖️_Universal_Until_Tested/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/⚖️_Universal_Until_Tested/README.md)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/⚖️_Universal_Until_Tested/notes.txt)
         - [**🌱_What_Repression_Produces/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🌱_What_Repression_Produces/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🌱_What_Repression_Produces/notes.txt)
         - [**🏛️_Home_Institutions/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🏛️_Home_Institutions/)
@@ -5321,6 +5322,7 @@ _Generated on 2026-08-01 17:47:15 UTC_
           - [`🛠️_labour_student_and_professional_routes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/🛠️_labour_student_and_professional_routes.md)
         - [**🗞️_The_Reporting_Gap/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🗞️_The_Reporting_Gap/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🗞️_The_Reporting_Gap/README.md)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🗞️_The_Reporting_Gap/notes.txt)
         - [**🛰️_Orientation/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🛰️_Orientation/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🛰️_Orientation/README.md)
           - [`🇵🇸_palestine_remains_central.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🛰️_Orientation/🇵🇸_palestine_remains_central.md)
@@ -5336,10 +5338,13 @@ _Generated on 2026-08-01 17:47:15 UTC_
           - [`🫒_repetition_is_not_stagnation.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🥁_Why_They_Are_Still_Marching/🫒_repetition_is_not_stagnation.md)
         - [**🧭_Movement_Legibility/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🧭_Movement_Legibility/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🧭_Movement_Legibility/README.md)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🧭_Movement_Legibility/notes.txt)
         - [**🧺_Tools/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🧺_Tools/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🧺_Tools/README.md)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🧺_Tools/notes.txt)
         - [**🪢_Solidarity_Without_Collapse/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🪢_Solidarity_Without_Collapse/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🪢_Solidarity_Without_Collapse/README.md)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🪢_Solidarity_Without_Collapse/notes.txt)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/notes.txt)
       - [**🦷_Political_Violence_Today/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/)
