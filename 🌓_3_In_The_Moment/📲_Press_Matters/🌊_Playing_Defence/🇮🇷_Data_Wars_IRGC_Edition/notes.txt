@@ -15,3 +15,7 @@
 ├── ⏱️_timeline_of_essential_infrastructure_attacks.md
 ├── 📊_iran_war_essential_infrastructure_cyber_timeline.csv
 └── 📚_sources_and_live_updates.md
+
+Maybe:  
+
+Do not wait for a spectacular national outage before recognising a campaign. Modern information warfare can work through accumulated breaches, local operational disruption, stolen public data, institutional confusion, proxy labour and unresolved attribution.
