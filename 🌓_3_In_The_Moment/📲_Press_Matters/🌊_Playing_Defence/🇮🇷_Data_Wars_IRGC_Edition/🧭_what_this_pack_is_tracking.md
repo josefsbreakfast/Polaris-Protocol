@@ -210,6 +210,70 @@ It is part of the wider ecology through which states, intelligence-linked actors
 
 ---
 
+
+## 🤐 Silence Can Advertise The Vulnerability  
+
+A blanket posture of:
+
+> We can neither confirm nor deny.  
+> We are not discussing the incident.  
+> We do not comment on operational matters.
+
+may protect some investigations.
+
+Used too broadly, it can also advertise that the state has no coherent way to protect the person whose data has been taken, copied, circulated, or weaponised.
+
+That matters because the old ransomware model was built around organisations:
+
+```text
+do not pay
+contain the breach
+restore from backups
+notify regulators
+resume operations
+```
+
+That model does not transfer cleanly to an individual whose personal information may expose them to further harm.
+
+A company can restore a server.
+
+A person cannot restore a previous identity, undo the circulation of intimate data, reverse reputational damage, or make hostile citizens, criminal actors, political networks, or foreign intelligence services forget what they have obtained.
+
+The question is therefore not only whether the state pays, attributes, or comments publicly.
+
+It is whether the state can:
+
+- tell the affected person what category of incident they are facing;
+- assess the risk of further exploitation;
+- coordinate across police, regulators, intelligence, health, and public bodies;
+- identify which protections are available;
+- preserve evidence;
+- and provide a written, accountable route through the aftermath.
+
+Where institutions refuse to acknowledge anything at all, the refusal may become part of the vulnerability.
+
+It tells an adversary that:
+
+- the victim may be left to manage the consequences alone;
+- responsibility is fragmented;
+- public bodies may hide behind each other's thresholds;
+- the state may protect the secrecy of the system more effectively than the safety of the person;
+- and further exploitation may occur before any institution accepts ownership.
+
+This is especially serious where the attacker does not need the state itself to cause all later harm.
+
+Once data is released or circulated, citizens of the target country, employers, journalists, political organisations, abusive relatives, stalkers, organised crime, or commercial intermediaries may continue the damage.
+
+The original intruder may only need to open the door.
+
+So silence is not always neutral.
+
+Sometimes it preserves operational security.
+
+Sometimes it signals that the state has identified a weakness and still has no citizen-protection pathway for it.
+
+That distinction belongs inside cyber defence analysis.
+
 ## 🔎 What The Pack Is Looking For  
 
 The timeline should not merely collect dramatic headlines.
