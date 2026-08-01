@@ -1,6 +1,6 @@
 # 🕸️ The Root Map  
-**First created:** 2026-07-18 | **Last updated:** 2026-07-18  
-*Mapping the different moral, historical, legal, communal, professional, and material routes through which people enter Palestinian solidarity — without replacing Palestine with the route through which they arrived.*
+**First created:** 2026-07-18 | **Last updated:** 2026-08-01  
+*Mapping the moral, historical, legal, communal, professional, embodied, and material routes through which people enter Palestinian solidarity — without replacing Palestine with the route through which they arrived.*
 
 ---
 
@@ -65,37 +65,58 @@ The Root Map protects against that displacement.
 
 > A route explains how concern becomes participation. It does not redefine Palestine in the image of the person who arrived through it.
 
+The seven routes in this cluster are working analytical categories.
+
+They are not fixed constituencies, mutually exclusive identities, or complete political positions.
+
 ---
 
-## 🕸️ What A Root Means Here
+## 🌱 Roots, Routes And Points Of Emergence
 
-A root is a route through which Palestinian life becomes connected to another area of public concern.
+A **root** is the concern, obligation, identity, relationship, experience, institution, or grievance that sustains connection.
 
-It may be:
+A **route** is the pathway through which that root develops into:
 
-- moral;
-- historical;
-- legal;
-- religious;
-- political;
-- professional;
-- economic;
-- technological;
-- or embodied.
+- inquiry;
+- solidarity;
+- scrutiny;
+- participation;
+- or action.
 
-A root may begin with recognition:
+A **point of emergence** is where the connection becomes publicly visible.
 
-> I know something about this kind of institution, harm, memory, or political mechanism.
+It may appear as:
 
-It may then deepen through inquiry:
+- a march;
+- a workplace dispute;
+- a court case;
+- a campus campaign;
+- a professional complaint;
+- a procurement review;
+- a religious statement;
+- or another form of public action.
 
-- What is happening here?
-- Which parts are genuinely comparable?
-- Which parts are specific to Palestine?
-- Who possesses authority?
-- What evidence exists?
-- What responsibility follows?
-- and what action is available?
+For example:
+
+```text
+professional obligation
+  ↓
+hospital protection
+  ↓
+medical-neutrality concern
+  ↓
+institutional advocacy
+```
+
+Here, professional obligation is the root.
+
+The sequence is the route.
+
+The public campaign is the point of emergence.
+
+A route records how concern became legible or actionable.
+
+It does not determine a person’s full ideology, identity, or preferred political settlement.
 
 A root becomes politically useful when it leads towards:
 
@@ -107,7 +128,7 @@ A root becomes politically useful when it leads towards:
 - democratic participation;
 - or interruption of harm.
 
-A root becomes distorting when it leads away from Palestinian:
+It becomes distorting when it leads away from Palestinian:
 
 - history;
 - land;
@@ -118,7 +139,7 @@ A root becomes distorting when it leads away from Palestinian:
 
 ---
 
-## 🌱 Why A Root Map Is Needed
+## 🌿 Why A Root Map Is Needed
 
 Public discussion often seeks one explanation for why people continue to mobilise around Palestine.
 
@@ -127,13 +148,13 @@ This produces narrow accounts such as:
 - the marches are only religious;
 - the movement is only student-led;
 - the issue is only humanitarian;
-- the concern is entirely ideological;
+- concern is entirely ideological;
 - participation is mainly imported from abroad;
-- or the protests continue because activists have become attached to protest itself.
+- or protesters have simply become attached to protest itself.
 
 These explanations fail because they assume one central route.
 
-The movement is more durable because multiple routes now connect Palestine to:
+The movement is more durable because multiple routes connect Palestine to:
 
 - civilian protection;
 - law;
@@ -150,21 +171,27 @@ The movement is more durable because multiple routes now connect Palestine to:
 - finance;
 - and war policy.
 
-When one route is blocked, another remains.
+Blocking one route may:
 
-When one institution withdraws, another becomes active.
+- leave others active;
+- displace participation into another institution;
+- generate a new grievance;
+- reduce the movement’s practical capacity;
+- or produce several effects at once.
 
-When one political frame loses force, another reveals a different unresolved problem.
+The map therefore traces both persistence and interruption.
 
-This is one reason the mobilisation behaves more like a rhizome than a conventional campaign with one leadership, one demand, or one institutional home.
+It does not assume that every act of suppression strengthens a movement.
 
 ---
 
-## 🇵🇸 Every Route Must Return To Palestine
+## 🇵🇸 Palestinian Centrality
 
-The Root Map begins and ends with Palestinian life.
+The Root Map begins with Palestinian life.
 
-Every route should return to questions such as:
+Every route should remain accountable to the Palestinian conditions and relationships that made it relevant.
+
+That means asking:
 
 - What is happening to Palestinians?
 - What do Palestinians themselves say?
@@ -194,9 +221,21 @@ These categories matter.
 
 None is sufficient on its own.
 
+The corrective is simple:
+
+> Return to Palestine.
+
+That means:
+
+- retain the originating connection;
+- identify Palestinian consequence;
+- preserve Palestinian agency;
+- avoid domestic self-centring;
+- and do not inflate a remote relationship into direct responsibility.
+
 ---
 
-## 🗺️ Routes Into Solidarity
+## 🗺️ The Seven Routes
 
 The Root Map traces seven major routes.
 
@@ -204,65 +243,23 @@ They overlap.
 
 They should remain distinguishable.
 
----
+### 🕊️ [Humanitarian And Civilian Protection](./🕊️_humanitarian_and_civilian_protection.md)
 
-## 🕊️ Humanitarian And Civilian Protection
+This route begins with immediate concern for civilian life, health, aid, displacement, infrastructure, disability, pregnancy, and recovery.
 
-This route often begins with immediate concern for life.
-
-It examines:
-
-- civilian protection;
-- hospitals;
-- medical workers;
-- food;
-- water;
-- shelter;
-- public health;
-- displacement;
-- evacuation;
-- disability;
-- pregnancy;
-- aid;
-- and the conditions required for recovery.
-
-It asks whether people are merely surviving or whether the systems supporting civilian life remain available.
-
-It also examines the limits of humanitarian framing.
-
-Aid may save lives.
-
-It cannot substitute for:
+Its principal guardrail is that humanitarian protection must not remove Palestinian political agency or substitute relief for:
 
 - rights;
 - return;
 - accountability;
-- political agency;
+- land;
 - and durable protection from recurrence.
 
 > Humanitarian protection keeps people alive. It must not become a substitute for the rights, agency, land, and political future of the people being protected.
 
-See: [🕊️ Humanitarian And Civilian Protection](./🕊️_humanitarian_and_civilian_protection.md)
+### ⚖️ [International Law And Accountability](./⚖️_international_law_and_accountability.md)
 
----
-
-## ⚖️ International Law And Accountability
-
-This route begins with the expectation that legal rules described as universal should apply when enforcement becomes politically difficult.
-
-It distinguishes:
-
-- allegation;
-- evidence;
-- legal argument;
-- procedural decision;
-- provisional measure;
-- advisory opinion;
-- warrant;
-- finding;
-- judgment;
-- enforcement;
-- and remedy.
+This route begins with the expectation that rules described as universal should remain enforceable when application becomes politically difficult.
 
 It examines:
 
@@ -276,23 +273,15 @@ It examines:
 - state responsibility;
 - individual criminal responsibility;
 - domestic judicial review;
-- and corporate or institutional duties.
+- and institutional duties.
 
-Its central concern is the enforcement gap.
-
-A court may identify an obligation.
-
-That does not guarantee that conduct changes.
+Its central concern is the enforcement gap between recognised obligation and altered conduct.
 
 > Law can name obligation and responsibility. It becomes politically credible only when findings alter conduct and powerful actors remain reachable.
 
-See: [⚖️ International Law And Accountability](./⚖️_international_law_and_accountability.md)
+### 🌍 [Colonial And Anti-Racist Routes](./🌍_colonial_and_anti_racist_routes.md)
 
----
-
-## 🌍 Colonial And Anti-Racist Routes
-
-This route examines how Palestine becomes legible through histories and structures involving:
+This route examines Palestine through histories and structures involving:
 
 - empire;
 - mandate government;
@@ -301,41 +290,19 @@ This route examines how Palestine becomes legible through histories and structur
 - settlement;
 - displacement;
 - border-making;
-- administrative control;
 - unequal legal status;
 - racial hierarchy;
 - and racialised security.
 
-It names:
+Its principal danger is comparative collapse.
 
-- anti-Palestinian racism;
-- anti-Arab racism;
-- Islamophobia;
-- antisemitism;
-- and the unequal recognition of testimony, grief, danger, and civilian life.
+Shared institutions, mechanisms, or histories may clarify a relationship without making distinct peoples or political situations interchangeable.
 
-It also governs comparison.
+> Historical connection should sharpen specificity, not flatten different peoples into one portable story.
 
-Palestine may share mechanisms with:
+### 🕯️ [Religious And Diasporic Routes](./🕯️_religious_and_diasporic_routes.md)
 
-- South African apartheid;
-- Irish history;
-- Indigenous dispossession;
-- partition;
-- Black liberation struggles;
-- and other anti-colonial histories.
-
-Shared mechanism does not establish total equivalence.
-
-> Historical connection can reveal institutions, methods, and inherited structures. It should sharpen specificity, not flatten different peoples into one portable story.
-
-See: [🌍 Colonial And Anti-Racist Routes](./🌍_colonial_and_anti_racist_routes.md)
-
----
-
-## 🕯️ Religious And Diasporic Routes
-
-This route examines how solidarity develops through:
+This route examines solidarity through:
 
 - faith;
 - sacred geography;
@@ -348,34 +315,15 @@ This route examines how solidarity develops through:
 - grief;
 - and traditions of moral witness.
 
-It includes:
+It includes Palestinian Muslim and Christian life, Jewish anti-Zionist and non-Zionist routes, Bundist and diasporist traditions, wider Muslim solidarity, Christian witness, interfaith organising, Holocaust memory, Nakba memory, and other histories of displacement and persecution.
 
-- Palestinian Muslim life;
-- Palestinian Christianity;
-- Jewish anti-Zionist and non-Zionist routes;
-- Bundist and diasporist traditions;
-- wider Muslim solidarity;
-- Christian witness;
-- interfaith organising;
-- Holocaust memory;
-- Nakba memory;
-- and other diasporic histories of displacement and persecution.
-
-The route resists theological and memorial ownership.
-
-Palestinian rights do not depend on validation from another faith or diaspora.
+Its principal guardrail is against theological or memorial ownership.
 
 > Faith and diaspora can create obligations of memory, witness, and solidarity. They do not confer ownership over Palestinian history or political agency.
 
-See: [🕯️ Religious And Diasporic Routes](./🕯️_religious_and_diasporic_routes.md)
+### 🛠️ [Labour, Student And Professional Routes](./🛠️_labour_student_and_professional_routes.md)
 
----
-
-## 🛠️ Labour, Student And Professional Routes
-
-This route follows Palestine into organised civic life.
-
-It examines how the issue enters:
+This route follows Palestine into:
 
 - workplaces;
 - trade unions;
@@ -392,31 +340,25 @@ It examines how the issue enters:
 - pension funds;
 - and professional bodies.
 
-People may encounter Palestine through:
+It examines:
 
 - professional duty;
 - institutional investment;
 - research;
 - procurement;
-- workplace conscience;
-- campus organising;
+- conscience;
+- organising;
 - whistleblowing;
-- disciplinary processes;
-- or concern about retaliation.
+- discipline;
+- and retaliation.
 
-This route protects both political participation and legitimate institutional governance.
+Its central discipline is to separate political belief, professional duty, institutional relationship, misconduct, discrimination, and material risk.
 
-Conduct should be assessed through specific, consistent, evidence-based, procedurally fair, and proportionate standards.
+> People do not leave conscience at the workplace door. Institutions still retain the duty to assess conduct through clear, consistent, and proportionate standards.
 
-> People do not leave conscience at the workplace door. Institutions still retain the right and duty to assess conduct through clear, consistent, and proportionate professional standards.
+### 🌈 [Feminist, Queer And Disability Routes](./🌈_feminist_queer_and_disability_routes.md)
 
-See: [🛠️ Labour, Student And Professional Routes](./🛠️_labour_student_and_professional_routes.md)
-
----
-
-## 🌈 Feminist, Queer And Disability Routes
-
-This route returns abstract political arguments to:
+This route returns abstract political argument to:
 
 - bodies;
 - healthcare;
@@ -427,48 +369,19 @@ This route returns abstract political arguments to:
 - dependence;
 - and unequal social value.
 
-It examines:
+It examines gendered violence, reproductive justice, queer Palestinian life, pinkwashing, outing, asylum, disability, evacuation, medication, rehabilitation, chosen family, and accessible organising.
 
-- gendered violence;
-- pregnancy;
-- childbirth;
-- reproductive justice;
-- menstruation;
-- sexual violence;
-- care work;
-- queer Palestinian life;
-- pinkwashing;
-- surveillance;
-- outing;
-- asylum;
-- trans healthcare;
-- disability;
-- evacuation;
-- infrastructure dependence;
-- medication;
-- rehabilitation;
-- chosen family;
-- and accessible organising.
+Its principal guardrail is against using marginalised people as moral alibis for violence.
 
-It rejects the use of marginalised people as moral alibis for violence.
+> A society’s internal prejudice does not make its civilians less protectable.
 
-A society’s internal prejudice does not make its civilians less protectable.
+### 🚀 [Anti-War, Arms And Procurement Routes](./🚀_anti_war_arms_and_procurement_routes.md)
 
-> Liberation is not universal when some women, queer people, disabled people, carers, and dependants are treated as acceptable collateral for the claimed freedom of others.
-
-See: [🌈 Feminist, Queer And Disability Routes](./🌈_feminist_queer_and_disability_routes.md)
-
----
-
-## 🚀 Anti-War, Arms And Procurement Routes
-
-This route traces how war becomes materially executable.
-
-It follows:
+This route traces how war becomes materially executable through:
 
 - political authorisation;
 - budgets;
-- export licences;
+- licences;
 - weapons;
 - components;
 - maintenance;
@@ -484,8 +397,7 @@ It follows:
 - ports;
 - logistics;
 - fuel;
-- labour;
-- and military supply chains.
+- and labour.
 
 It distinguishes:
 
@@ -495,17 +407,13 @@ It distinguishes:
 - investment from direct financing;
 - and symbolic distance from material interruption.
 
-The route asks where real leverage exists and what consequences an intervention would produce.
-
-> War is not sustained only by battlefield decisions. It is sustained through contracts, components, data, labour, finance, logistics, licensing, and institutions that can be mapped and scrutinised.
-
-See: [🚀 Anti-War, Arms And Procurement Routes](./🚀_anti_war_arms_and_procurement_routes.md)
+> War is sustained through contracts, components, data, labour, finance, logistics, licensing, and institutions that can be mapped and scrutinised.
 
 ---
 
-## 🔀 One Person May Travel Through Several Routes
+## 🔀 Routes Overlap Without Defining People
 
-These routes do not describe fixed political identities.
+The routes do not describe fixed political identities.
 
 A person may begin with humanitarian concern and later encounter:
 
@@ -548,18 +456,11 @@ A Muslim participant may begin with:
 - communal grief;
 - or the ummah
 
-and also organise through:
-
-- citizenship;
-- law;
-- unions;
-- medicine;
-- student politics;
-- or anti-racism.
+and also organise through citizenship, law, unions, medicine, student politics, or anti-racism.
 
 No route fully explains a person’s participation.
 
-The map shows movement rather than classification.
+The map describes movement through concerns, not permanent classification.
 
 ---
 
@@ -583,117 +484,102 @@ legal and political responsibility
 institutional action
 ```
 
-Or:
-
-```text
-workplace relationship
-  ↓
-procurement concern
-  ↓
-supply-chain research
-  ↓
-arms-transfer law
-  ↓
-worker organising
-  ↓
-material intervention
-```
-
-Or:
-
-```text
-diasporic memory
-  ↓
-historical recognition
-  ↓
-comparison
-  ↓
-anti-racist analysis
-  ↓
-solidarity
-  ↓
-protection of Palestinian agency
-```
-
 The route through which someone arrives need not remain the limit of their understanding.
+
+Recognition should lead towards greater specificity rather than permanent dependence on the first frame that made the issue familiar.
 
 ---
 
-## 🧱 Routes Are Not Proof Of Equivalence
+## 🧭 From Recognition To Responsibility
 
-Connection is not equivalence.
+A route into solidarity often begins with recognition.
 
-A shared concern may exist without identical:
+Recognition alone is not enough.
 
-- history;
-- law;
-- scale;
-- actors;
-- chronology;
-- political structure;
-- or outcome.
+The sequence should move towards responsibility:
 
-Two cases may share:
+```text
+recognition
+  ↓
+learning
+  ↓
+specificity
+  ↓
+relationship
+  ↓
+authority
+  ↓
+responsibility
+  ↓
+action
+  ↓
+review of consequence
+```
 
-- a mechanism;
-- institution;
-- narrative;
-- administrative tool;
-- or form of harm.
+Authority matters because not everyone connected to an issue carries the same responsibility.
 
-That does not make them the same case.
+A person may recognise colonial structure but possess no direct institutional power.
 
-A careful route should state what is being connected.
+Their action may involve:
 
-Possible forms include:
+- political education;
+- voting;
+- organising;
+- or supporting Palestinian-led work.
 
-### Structural Connection
+A worker may possess knowledge of a specific contract.
 
-The cases may share:
+Their route may involve:
 
-- displacement;
-- unequal legal systems;
-- settlement;
-- surveillance;
-- or racialised security.
+- internal escalation;
+- union support;
+- whistleblowing;
+- or professional review.
 
-### Institutional Connection
+A pension trustee may possess direct governance power.
 
-The same:
+Their responsibility differs from that of an ordinary pension member.
 
-- state;
-- company;
-- technology;
-- legal model;
-- university;
-- or financial institution
+The map should identify where actual knowledge, authority, contribution, and capacity to change the outcome sit.
 
-may appear in both.
+---
 
-### Historical Connection
+## 🧱 Route Strength And Evidential Limits
 
-One event, institution, or political tradition may have influenced another.
+Different routes support different kinds of claim.
 
-### Strategic Connection
+A financial relationship is not the same as a conceptual resemblance.
 
-Movements may share:
+A historical analogy is not the same as institutional transmission.
 
-- organising tactics;
-- legal arguments;
-- campaign forms;
-- or political education.
+A shared tactic is not proof of shared command or ideology.
 
-### Moral Connection
+A moral connection is not proof of legal responsibility.
 
-A person may recognise an obligation through the remembered harm of another community.
+A route should therefore be:
 
-### Symbolic Connection
+- identified;
+- classified;
+- evidenced;
+- limited;
+- and described with the differences preserved.
 
-One history may provide a public language through which another becomes visible.
+Different routes also require different evidence.
 
-These connections require different kinds of evidence.
+A legal claim, financial relationship, technical deployment, historical comparison, and testimonial account cannot be tested through one universal evidential form.
 
-They should not be treated as interchangeable.
+The relevant standard should be drawn from:
+
+- the nature of the claim;
+- the available evidence;
+- the degree of responsibility alleged;
+- and the consequence of getting it wrong.
+
+Detailed evidential methods belong in:
+
+- [🌀 Editorial Guardrails](../🛰️_Orientation/🌀_editorial_guardrails.md);
+- [🕸️ Connection Is Not Equivalence](../🛰️_Orientation/🕸️_connection_is_not_equivalence.md);
+- and the practical tools under [🧺 Tools](../🧺_Tools/README.md).
 
 ---
 
@@ -703,7 +589,7 @@ Every route creates a temptation to centre the person or institution using it.
 
 Humanitarian actors may centre their own rescue.
 
-Lawyers may centre the legal process.
+Lawyers may centre legal process.
 
 Religious communities may centre their moral tradition.
 
@@ -717,11 +603,7 @@ Anti-war campaigns may centre Western supply chains.
 
 Feminist or queer movements may centre their own political vocabulary.
 
-The corrective is simple:
-
-> Return to Palestine.
-
-Ask:
+The corrective is to ask:
 
 - What has become clearer about Palestinian life?
 - Which Palestinian voices have been heard?
@@ -767,113 +649,9 @@ Solidarity should not require Palestinians to become politically uniform.
 
 ---
 
-## 🧭 From Recognition To Responsibility
-
-A route into solidarity often begins with recognition.
-
-Recognition alone is not enough.
-
-The sequence should move towards responsibility:
-
-```text
-recognition
-  ↓
-learning
-  ↓
-specificity
-  ↓
-relationship
-  ↓
-responsibility
-  ↓
-action
-  ↓
-review of consequence
-```
-
-A person may recognise colonial structure but possess no direct institutional power.
-
-Their action may involve:
-
-- political education;
-- voting;
-- organising;
-- or supporting Palestinian-led work.
-
-A worker may possess knowledge of a specific contract.
-
-Their route may involve:
-
-- internal escalation;
-- union support;
-- whistleblowing;
-- or professional review.
-
-A pension trustee may possess direct governance power.
-
-Their responsibility differs from that of an ordinary pension member.
-
-The map should identify where actual authority sits.
-
----
-
-## 🏛️ Routes Into Domestic Institutions
-
-The root system explains why Palestine does not remain a distant foreign-policy issue.
-
-It enters domestic life through:
-
-- export decisions;
-- policing;
-- protest law;
-- education;
-- healthcare;
-- charity regulation;
-- public procurement;
-- investment;
-- employment;
-- equality duties;
-- speech rules;
-- and professional governance.
-
-This is not necessarily evidence that the issue has been improperly imported.
-
-Foreign policy already enters domestic life through:
-
-- taxes;
-- alliances;
-- contracts;
-- trade;
-- migration;
-- security;
-- diplomacy;
-- and law.
-
-Public mobilisation follows those relationships back towards the institutions responsible for them.
-
----
-
 ## 🧑‍🤝‍🧑 Routes Into Coalition
 
 Different roots can create coalitions among people who do not share one complete political analysis.
-
-A coalition may include:
-
-- humanitarian organisations;
-- lawyers;
-- faith groups;
-- Jewish anti-Zionists;
-- Muslim communities;
-- Palestinian organisers;
-- students;
-- trade unionists;
-- clinicians;
-- feminists;
-- queer groups;
-- disability activists;
-- veterans;
-- arms-control campaigners;
-- and technology workers.
 
 They may agree on:
 
@@ -903,57 +681,7 @@ It does require clarity about:
 - protected disagreement;
 - and conduct incompatible with participation.
 
----
-
-## 🪢 Solidarity Without Collapse
-
-The Root Map should help people connect struggles without collapsing them.
-
-This requires several disciplines.
-
-### Preserve Names
-
-Name the:
-
-- people;
-- place;
-- institution;
-- history;
-- and mechanism
-
-being discussed.
-
-### Preserve Difference
-
-State what does not transfer between cases.
-
-### Preserve Agency
-
-Do not turn affected people into passive symbols.
-
-### Preserve Evidence
-
-Connection should not substitute for proof.
-
-### Preserve Responsibility
-
-Do not replace decision-makers with collective ethnic, national, or religious blame.
-
-### Preserve Proportion
-
-A remote institutional relationship should not be described as though it carries the same responsibility as operational command.
-
-### Preserve Political Horizon
-
-The route should lead towards:
-
-- protection;
-- equality;
-- accountability;
-- freedom;
-- and durable political agency
-
-rather than fatalism or permanent communal conflict.
+The wider [🪢 Solidarity Without Collapse](../🪢_Solidarity_Without_Collapse/README.md) cluster develops these questions in greater depth.
 
 ---
 
@@ -973,13 +701,9 @@ Public concern is suspended until a final court judgment.
 
 Palestine is declared identical to another history without attention to difference.
 
-### Theological Ownership
+### Theological Or Memorial Ownership
 
-Sacred history is treated as exclusive political title.
-
-### Diasporic Appropriation
-
-Another community’s memory becomes the centre of Palestinian history.
+Faith or inherited memory is treated as political title over Palestinian history.
 
 ### Institutional Self-Centring
 
@@ -991,18 +715,11 @@ Women, queer people, disabled people, religious minorities, or survivors of sexu
 
 ### Supply-Chain Theatre
 
-A remote association is publicised without showing actual control, risk, or consequence.
+A remote association is publicised without showing actual control, responsibility, risk, or consequence.
 
 ### Collective Blame
 
-Responsibility spreads from decision-makers to an entire:
-
-- people;
-- religion;
-- ethnicity;
-- electorate;
-- workforce;
-- or diaspora.
+Responsibility spreads from decision-makers to an entire people, religion, ethnicity, workforce, electorate, or diaspora.
 
 ### Political Fatalism
 
@@ -1010,96 +727,7 @@ History is used to declare equality, coexistence, safety, or institutional chang
 
 ---
 
-## 🔍 Evidence Across Routes
-
-Different routes require different evidence.
-
-### Humanitarian Evidence
-
-May include:
-
-- clinical data;
-- aid records;
-- testimony;
-- public-health assessments;
-- satellite imagery;
-- and records of infrastructure.
-
-### Legal Evidence
-
-May include:
-
-- pleadings;
-- judgments;
-- orders;
-- official records;
-- licences;
-- witness evidence;
-- and verified documentation.
-
-### Historical Evidence
-
-May include:
-
-- archives;
-- maps;
-- oral history;
-- administrative records;
-- family documents;
-- and scholarship.
-
-### Institutional Evidence
-
-May include:
-
-- contracts;
-- policies;
-- disciplinary records;
-- investment holdings;
-- governance papers;
-- and internal procedures.
-
-### Financial Evidence
-
-May include:
-
-- loans;
-- shareholdings;
-- bond arrangements;
-- insurance;
-- fund structures;
-- and voting records.
-
-### Technical Evidence
-
-May include:
-
-- product documentation;
-- contracts;
-- architecture;
-- data flows;
-- model functions;
-- deployment records;
-- and audit trails.
-
-### Testimonial Evidence
-
-May include the accounts of:
-
-- Palestinians;
-- clinicians;
-- journalists;
-- aid workers;
-- detainees;
-- soldiers;
-- workers;
-- and witnesses.
-
-No one evidence form should automatically dominate every route.
-
----
-
-## 🧭 Root Discipline
+## 🧭 Root-Mapping Discipline
 
 Before adding or using a route, ask:
 
@@ -1116,11 +744,11 @@ Before adding or using a route, ask:
 ### Palestinian Centrality
 
 - Are Palestinian life, testimony, history, and political agency present?
-- Or has Palestine become a symbol within another argument?
+- Or has Palestine become a symbol inside another argument?
 
 ### Connection
 
-- Is the connection structural, institutional, historical, strategic, moral, or symbolic?
+- What kind of connection is being claimed?
 - Has it been mistaken for complete equivalence?
 
 ### Evidence
@@ -1129,7 +757,7 @@ Before adding or using a route, ask:
 - What remains uncertain?
 - Are allegation, inference, and finding distinguished?
 
-### Responsibility
+### Authority And Responsibility
 
 - Who had knowledge?
 - Who had authority?
@@ -1145,11 +773,6 @@ Before adding or using a route, ask:
 
 - What would the proposed intervention change?
 - Is the route producing protection or only symbolic alignment?
-
-### Universality
-
-- Are the stated principles being applied consistently?
-- Does protection depend on political, cultural, or ideological approval?
 
 ### Political Horizon
 
@@ -1202,15 +825,9 @@ Respond to the actual route rather than imposing one generic security frame.
 
 ### For Researchers
 
-Use the routes as distinct analytical categories.
+Use the routes as distinct but overlapping analytical categories.
 
-Track where they:
-
-- overlap;
-- reinforce one another;
-- or produce tension.
-
-Preserve the difference between comparison and equivalence.
+Track where they reinforce one another, diverge, or produce tension.
 
 ### For Movements
 
@@ -1228,7 +845,7 @@ Begin with the route closest to your existing knowledge.
 
 Then follow its connections outward.
 
-The aim is not to remain within the first frame that made the issue recognisable.
+The aim is not to remain inside the first frame that made the issue recognisable.
 
 The aim is to develop a fuller account.
 
@@ -1238,26 +855,27 @@ The aim is to develop a fuller account.
 
 When working with the Root Map, ask:
 
-- Through which route did this concern first become visible?
-- Which other routes are now connected?
+- What is the root?
+- What route developed from it?
+- Where did the connection emerge publicly?
 - What does the first route illuminate?
 - What does it conceal?
 - Is Palestine being treated as a specific political and historical case?
-- Are Palestinian voices central?
+- Are Palestinian voices and disagreements visible?
 - Which institutions exercise power?
 - What material relationships exist?
-- Are legal, moral, historical, and symbolic claims being distinguished?
+- Are legal, moral, historical, financial, technical, and symbolic claims being distinguished?
 - Has comparison preserved difference?
 - Are faith and memory creating responsibility or ownership?
 - Are professional and institutional rules being applied consistently?
 - Are marginalised identities being protected or instrumentalised?
 - Are supply chains being traced with adequate precision?
-- Has responsibility followed conduct, authority, knowledge, and contribution?
+- Has responsibility followed knowledge, authority, contribution, and capacity?
 - What action is available?
 - What would that action change?
 - Are civilian protection and political agency being held together?
 - Can coalition survive disagreement?
-- and does every route return to Palestinian life rather than replacing it?
+- and does the route remain accountable to Palestinian life rather than replacing it?
 
 ---
 
@@ -1281,7 +899,7 @@ They also create risks of:
 
 The governing discipline is:
 
-> Expand without displacement. Connect without collapse. Return every route to Palestinian life, rights, history, land, safety, and political agency.
+> Expand without displacement. Connect without collapse. Keep every route accountable to Palestinian life, rights, history, land, safety, and political agency.
 
 ---
 
@@ -1291,7 +909,7 @@ The governing discipline is:
 
 ## ✨ Stardust
 
-Palestine, rhizome, root map, solidarity, humanitarian protection, international law, colonialism, anti-racism, religion, diaspora, labour, students, professional ethics, feminism, queer liberation, disability justice, anti-war, arms, procurement, connection without equivalence
+Palestine, rhizome, root map, routes into solidarity, humanitarian protection, international law, colonialism, anti-racism, religion, diaspora, labour, students, professional ethics, feminism, queer liberation, disability justice, anti-war, arms, procurement, connection without equivalence
 
 ---
 
@@ -1315,7 +933,10 @@ It maps the distinct but interconnected routes through which Palestinian life en
 > - [🍉 Palestine As Rhizome](../README.md) — *root orientation for the wider working pack*
 > - [🛰️ Orientation](../🛰️_Orientation/README.md) — *conceptual and editorial foundations for the pack*
 > - [🥁 Why They Are Still Marching](../🥁_Why_They_Are_Still_Marching/README.md) — *why persistent mobilisation is itself politically meaningful*
+> - [🏛️ Home Institutions](../🏛️_Home_Institutions/README.md) — *how routes enter domestic institutions, powers, decisions, and responsibilities*
+> - [🪢 Solidarity Without Collapse](../🪢_Solidarity_Without_Collapse/README.md) — *how coalition can preserve disagreement, difference, and Palestinian agency*
+> - [🧺 Tools](../🧺_Tools/README.md) — *practical methods for mapping claims, evidence, institutions, and comparisons*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-07-18_
+_Last updated: 2026-08-01_
