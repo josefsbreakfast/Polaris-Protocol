@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-01 19:44:16 UTC_
+_Generated on 2026-08-01 19:45:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5313,7 +5313,6 @@ _Generated on 2026-08-01 19:44:16 UTC_
           - [`🩺_healthcare_and_professional_ethics.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🏛️_Home_Institutions/🩺_healthcare_and_professional_ethics.md)
         - [**🕸️_The_Root_Map/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/README.md)
-          - [`The_Root_Map_README_v2.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/The_Root_Map_README_v2.md)
           - [`⚖️_international_law_and_accountability.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/⚖️_international_law_and_accountability.md)
           - [`🌈_feminist_queer_and_disability_routes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/🌈_feminist_queer_and_disability_routes.md)
           - [`🌍_colonial_and_anti_racist_routes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🕸️_The_Root_Map/🌍_colonial_and_anti_racist_routes.md)
