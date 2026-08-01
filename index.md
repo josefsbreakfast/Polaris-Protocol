@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-01 21:17:20 UTC_
+_Generated on 2026-08-01 22:37:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6272,6 +6272,8 @@ _Generated on 2026-08-01 21:17:20 UTC_
           - [`🧾_procurement_contractors_and_outsourced_judgement.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🪴_Mushniks_Dashboard/🧾_procurement_contractors_and_outsourced_judgement.md)
         - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/README.md)
         - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/notes.txt)
+      - [**🦋_Digitised_Trafficking/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🦋_Digitised_Trafficking/)
+        - [`notes.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🦋_Digitised_Trafficking/notes.md)
       - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/README.md)
     - [`README.md`](🌔_4_Small_Steps/🚀_DADA/README.md)
     - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/notes.txt)
