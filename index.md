@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-01 09:24:30 UTC_
+_Generated on 2026-08-01 09:57:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5250,6 +5250,24 @@ _Generated on 2026-08-01 09:24:30 UTC_
         - [`🧮_association_leakage_and_metadata_escalation.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/🧮_association_leakage_and_metadata_escalation.md)
         - [`🧯_what_journalists_should_check_next.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/🧯_what_journalists_should_check_next.md)
         - [`🪱_the_estate_as_disaster_capitalism_macro.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/🪱_the_estate_as_disaster_capitalism_macro.md)
+      - [**🇮🇷_Data_Wars_IRGC_Edition/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/)
+        - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/README.md)
+        - [`iran_war_essential_infrastructure_cyber_timeline.csv`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/iran_war_essential_infrastructure_cyber_timeline.csv)
+        - [`iran_war_essential_infrastructure_cyber_timeline.xlsx`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/iran_war_essential_infrastructure_cyber_timeline.xlsx)
+        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/notes.txt)
+        - [`⏱️_timeline_of_essential_infrastructure_attacks.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/⏱️_timeline_of_essential_infrastructure_attacks.md)
+        - [`🇬🇧_britain_is_advertising_an_exploitable_seam.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🇬🇧_britain_is_advertising_an_exploitable_seam.md)
+        - [`🏗️_what_counts_as_state_infrastructure.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🏗️_what_counts_as_state_infrastructure.md)
+        - [`🏥_health_education_and_admin_are_not_soft_extras.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🏥_health_education_and_admin_are_not_soft_extras.md)
+        - [`🏦_banks_are_part_of_the_battlespace.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🏦_banks_are_part_of_the_battlespace.md)
+        - [`📉_small_disruptions_can_make_a_campaign.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/📉_small_disruptions_can_make_a_campaign.md)
+        - [`📰_how_to_report_without_overclaiming.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/📰_how_to_report_without_overclaiming.md)
+        - [`🔎_confidence_labels_and_source_rules.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🔎_confidence_labels_and_source_rules.md)
+        - [`🕸️_attribution_is_not_a_light_switch.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🕸️_attribution_is_not_a_light_switch.md)
+        - [`🗺️_who_iran_sees_as_inside_the_war.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🗺️_who_iran_sees_as_inside_the_war.md)
+        - [`🚰_when_cyber_reaches_the_machinery.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🚰_when_cyber_reaches_the_machinery.md)
+        - [`🧅_the_operator_may_not_know_the_customer.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🧅_the_operator_may_not_know_the_customer.md)
+        - [`🧭_what_this_pack_is_tracking.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🧭_what_this_pack_is_tracking.md)
       - [**🏝️_Chagos_Complexities/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/notes.txt)
         - [`🌊_neighbours_to_indian_ocean.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/🌊_neighbours_to_indian_ocean.md)
