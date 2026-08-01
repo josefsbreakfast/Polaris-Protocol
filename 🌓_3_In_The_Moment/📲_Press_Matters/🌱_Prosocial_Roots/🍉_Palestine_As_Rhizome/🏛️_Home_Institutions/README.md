@@ -1,5 +1,5 @@
 # 🏛️ Home Institutions  
-**First created:** 2026-07-18 | **Last updated:** 2026-07-19  
+**First created:** 2026-07-18 | **Last updated:** 2026-08-01  
 *How Palestine enters domestic institutional life through government, policing, education, healthcare, culture, employment, regulation, and the organisations that decide whose speech, evidence, grief, and participation remain publicly legitimate.*
 
 ---
@@ -60,11 +60,11 @@ A Jewish dissenter may be told that their political position excludes them from 
 
 A Palestinian or Muslim participant may find that ordinary political speech is interpreted through a security frame.
 
-Palestine therefore develops domestic roots.
+Palestine therefore develops domestic institutional routes.
 
 The issue is no longer only:
 
-**What is happening to Palestinians?**
+> What is happening to Palestinians?
 
 It also becomes:
 
@@ -73,13 +73,23 @@ It also becomes:
 - Who bears the cost of institutional caution?
 - What forms of participation remain possible?
 - Which warning capacities are being removed?
+- Which records and classifications are travelling?
 - And what powers are being normalised for later use?
 
-This cluster maps those domestic institutional routes.
+This cluster maps institutional actors, powers, decisions, information routes, and immediate consequences.
+
+Neighbouring clusters examine:
+
+- the wider social effects of repression;
+- whether declared principles survive difficult application;
+- how reporting reconstructs institutional action;
+- and how movements respond.
 
 ---
 
-## 🧭 Why These Institutions Belong Together
+## 🧭 Scope
+
+Within this branch, **home institutions** primarily means institutions operating within Britain and the wider UK constitutional, professional, civic, and regulatory system.
 
 The institutions in this cluster have different:
 
@@ -101,21 +111,133 @@ A hospital is not a political party.
 
 They should not be collapsed into one coordinated system.
 
-But they can still interact.
+They belong in one map because information, pressure, classification, money, risk, and consequence can travel between them.
 
-Information, pressure, and risk may travel between:
+The task is to identify:
+
+- which institution held which power;
+- what information it received;
+- what decision it made;
+- what formal or informal pressure operated;
+- what capacity was removed;
+- what record or classification remained;
+- and what correction, appeal, or accountability was available.
+
+---
+
+## 🏗️ Institutional Powers
+
+Institutions do not exercise only one kind of power.
+
+### Coercive Power
+
+This may include:
+
+- arrest;
+- search;
+- surveillance;
+- injunction;
+- suspension;
+- exclusion;
+- licensing;
+- discipline;
+- deregistration;
+- or compulsory compliance.
+
+### Allocative Power
+
+This may include control over:
+
+- employment;
+- funding;
+- contracts;
+- venues;
+- appointments;
+- candidacy;
+- grants;
+- investment;
+- education;
+- care;
+- and access to professional opportunity.
+
+### Interpretive Power
+
+This may include the power to decide:
+
+- which evidence is credible;
+- which person is risky;
+- which speech is legitimate;
+- which grief is recognisable;
+- which conduct is controversial;
+- which complaint requires action;
+- and which record will shape later decisions.
+
+Interpretive power is often less visible than coercive power.
+
+It can nevertheless determine who becomes:
+
+- trusted;
+- employable;
+- appointable;
+- professionally safe;
+- politically legitimate;
+- or available for public participation.
+
+---
+
+## 🕸️ How Institutions Relate
+
+Similar institutional outcomes do not automatically prove coordination.
+
+The cluster distinguishes several relationships.
+
+### Direct Coordination
+
+Institutions knowingly act together towards a shared decision or outcome.
+
+### Information Transmission
+
+One institution passes information, allegations, records, or assessments to another.
+
+### Policy Alignment
+
+Separate institutions apply the same:
+
+- law;
+- policy;
+- guidance;
+- standard;
+- or externally developed framework.
+
+### Anticipatory Compliance
+
+An institution acts because it expects future pressure from:
 
 - government;
-- police;
-- employers;
-- universities;
 - regulators;
-- charities;
-- professional bodies;
-- parties;
-- media organisations;
 - donors;
-- and appointment systems.
+- insurers;
+- clients;
+- party leaders;
+- professional bodies;
+- campaign organisations;
+- or media organisations.
+
+### Parallel Response
+
+Institutions respond similarly without evidence that they communicated or followed one common direction.
+
+### Cumulative Effect
+
+Separate actions combine to produce an outcome no single institution controlled.
+
+These categories may overlap.
+
+The analysis should not describe information transmission as direct coordination, or cumulative effect as proof of covert command.
+
+---
+
+## 🧭 Why These Institutions Belong Together
 
 A claim may begin in one setting and acquire force as it moves.
 
@@ -142,10 +264,22 @@ Together, those decisions can produce:
 - weakened warning;
 - and a durable political boundary.
 
-The cluster therefore examines both:
+Institutional opacity can also create an explanatory vacuum.
 
-- each institution separately;
-- and the routes through which their decisions compound.
+Where people can see that policy is difficult to change, relationships continue, and several institutions appear aligned, but cannot identify the real decision chain, they may replace missing evidence with conspiratorial, racialised, or religious explanations.
+
+Accurate identification of:
+
+- actors;
+- powers;
+- money;
+- meetings;
+- records;
+- and decisions
+
+is therefore an anti-racist safeguard.
+
+Institutional influence should be traced without treating Jewish people, Muslim people, Palestinians, or any other population as collectively responsible.
 
 ---
 
@@ -165,11 +299,9 @@ The cluster therefore examines both:
 
 ---
 
-## 🏛️ Parliament And Government
+## 🏛️ [Parliament And Government](./🏛️_parliament_and_government.md)
 
-[`🏛️_parliament_and_government.md`](🏛️_parliament_and_government.md)
-
-This node examines the institutions holding the most direct democratic and executive responsibility.
+This node examines institutions holding direct democratic and executive responsibility.
 
 It covers:
 
@@ -184,72 +316,61 @@ It covers:
 - advisers;
 - envoys;
 - lobbying;
-- party discipline;
 - devolved government;
 - local government;
 - and responsibility displacement.
 
+Its principal power is the authority to:
+
+- decide;
+- authorise;
+- fund;
+- license;
+- disclose;
+- withhold;
+- scrutinise;
+- and change policy.
+
 Its central question is:
 
-**What happens when government retains the power to act, preserves material relationships, withholds reasoning, and transfers the consequences of uncertainty onto individuals and subordinate institutions?**
-
-The node also examines the antisemitic explanatory vacuum created where government power remains opaque.
-
-When people can observe that:
-
-- policy is difficult to change;
-- defence relationships continue;
-- lobbying exists;
-- advice is withheld;
-- and institutional decisions appear coordinated,
-
-but cannot identify the real decision chain, some may falsely attribute state and political power to Jewish people collectively.
-
-The remedy is not silence about influence.
-
-It is accurate description of:
-
-- named actors;
-- legal powers;
-- financial relationships;
-- institutions;
-- meetings;
-- and decisions.
+> What happens when government retains the power to act, preserves material relationships, withholds its reasoning, and transfers the consequences of uncertainty onto individuals and subordinate institutions?
 
 ---
 
-## 🐼 Policing And Public Order
+## 🐼 [Policing And Public Order](./🐼_policing_and_public_order.md)
 
-[`🐼_policing_and_public_order.md`](🐼_policing_and_public_order.md)
-
-This node examines police as both:
-
-- public-order institutions;
-- and information-processing institutions.
-
-It follows the chain:
-
-**information → evaluation → intelligence → risk classification → law and policy → operational options → police action → new information**
+This node examines police as both coercive and information-processing institutions.
 
 It covers:
 
-- how information enters policing;
+- information intake;
 - source evaluation;
+- intelligence;
+- risk classification;
 - force-to-force sharing;
 - public-order powers;
 - counterterrorism mission creep;
-- media influence;
-- open-source intelligence;
-- manipulated information;
-- arrest without charge;
+- surveillance;
+- arrest;
+- custody;
+- device seizure;
 - records;
-- category drift;
 - accessibility;
-- and correction.
+- correction;
+- and category drift.
+
+Its principal powers are:
+
+- classification;
+- surveillance;
+- restriction;
+- arrest;
+- information sharing;
+- and record creation.
 
 Its central question is:
 
-**How does information about Palestine-related people and movements become coercive state action?**
+> How does information about Palestine-related people and movements become coercive state action?
 
 The node distinguishes:
 
@@ -260,50 +381,11 @@ The node distinguishes:
 - arrest from guilt;
 - and counterterrorism interest from terrorist conduct.
 
-It also examines how police intervention can become another root in the rhizome when:
-
-- arrests;
-- custody;
-- surveillance;
-- inaccurate records;
-- device seizure;
-- or public-order restrictions
-
-become new reasons for continued mobilisation.
-
 ---
 
-## 🎓 Universities And Schools
+## 🎓 [Universities And Schools](./🎓_universities_and_schools.md)
 
-[`🎓_universities_and_schools.md`](🎓_universities_and_schools.md)
-
-This node begins from an institutional contradiction.
-
-Universities and schools teach that:
-
-- evidence matters;
-- human rights should survive political pressure;
-- discrimination should be challenged;
-- professional ethics create duties;
-- and democratic participation has value.
-
-Students and staff then attempted to apply those lessons to:
-
-- civilian harm;
-- international law;
-- investments;
-- defence research;
-- procurement;
-- partnerships;
-- and institutional policy.
-
-The node examines what happened when institutions treated that application as:
-
-- reputational risk;
-- governance difficulty;
-- disciplinary concern;
-- safeguarding;
-- or public-order threat.
+This node examines institutions that teach evidence, rights, ethics, and democratic participation while also controlling access, discipline, research, investment, and safeguarding.
 
 It covers:
 
@@ -312,7 +394,7 @@ It covers:
 - teaching;
 - campus protest;
 - encampments;
-- civil injunctions;
+- injunctions;
 - police and private security;
 - discipline;
 - research;
@@ -323,15 +405,23 @@ It covers:
 - international partnerships;
 - and the treatment of children in compulsory settings.
 
+Its principal powers are:
+
+- educational authority;
+- discipline;
+- access;
+- funding;
+- investment;
+- safeguarding classification;
+- and control over academic participation.
+
 Its central question is:
 
-**What do students learn when an institution teaches liberal and democratic values but withdraws them when their application becomes materially costly?**
+> What do students and staff learn when an institution teaches liberal and democratic values but withdraws them when their application becomes materially costly?
 
 ---
 
-## 🩺 Healthcare And Professional Ethics
-
-[`🩺_healthcare_and_professional_ethics.md`](🩺_healthcare_and_professional_ethics.md)
+## 🩺 [Healthcare And Professional Ethics](./🩺_healthcare_and_professional_ethics.md)
 
 This node examines the relationship between:
 
@@ -340,62 +430,42 @@ This node examines the relationship between:
 - professional regulation;
 - employment;
 - patient trust;
-- and access to culturally legible care.
+- and culturally legible care.
 
-Clinicians are taught to:
+It covers:
 
-- protect life;
-- reduce suffering;
-- document accurately;
-- recognise preventable harm;
-- preserve dignity;
-- and warn where silence may expose people to danger.
-
-The node examines what happens when Palestinian, British Palestinian, and sympathetic clinicians face:
-
-- repeated complaints;
-- employer referrals;
-- professional scrutiny;
-- reputational pressure;
-- ambiguous standards;
-- and fear of regulatory consequences.
-
-It treats repeated referrals as a potential cumulative risk where they suppress:
-
-- Palestinian medical testimony;
+- clinical testimony;
+- professional referrals;
+- employer action;
+- regulation;
+- complaints;
 - documentation;
-- early warning;
-- professional advocacy;
-- and institutional recognition of serious harm.
+- advocacy;
+- warning capacity;
+- and the health effects of chilling professional speech.
 
-It does not treat every referral as proof of wrongdoing by the complainant or institution.
+Its principal powers are:
 
-Nor does it claim that every referral is automatically a breach of an international measure.
-
-It asks whether repeated, distributed, and plausibly deniable professional action is producing a foreseeable effect that institutions are obliged to examine.
-
-The node also follows the harm into the consultation room.
-
-When sympathetic or culturally literate clinicians are chilled, exhausted, or removed:
-
-- patients disclose less;
-- political and racialised stress becomes harder to discuss;
-- context is lost;
-- distress may be pathologised or misunderstood;
-- early help is delayed;
-- and the resulting health effects become less visible in institutional data.
+- employment;
+- referral;
+- regulation;
+- professional recognition;
+- access to practice;
+- and control over whose clinical warning remains institutionally legible.
 
 Its central question is:
 
-**What happens to patients and prevention when the professionals most able to recognise the moment become professionally unsafe?**
+> What happens to patients and prevention when the professionals most able to recognise the moment become professionally unsafe?
+
+The node does not treat every complaint or referral as malicious or unfounded.
+
+It asks whether repeated processes are producing foreseeable effects that institutions are obliged to assess.
 
 ---
 
-## 🧵 Charities And Cultural Bodies
+## 🧵 [Charities And Cultural Bodies](./🧵_charities_and_cultural_bodies.md)
 
-[`🧵_charities_and_cultural_bodies.md`](🧵_charities_and_cultural_bodies.md)
-
-This node examines the civic institutions through which people:
+This node examines institutions through which people:
 
 - care;
 - remember;
@@ -404,7 +474,6 @@ This node examines the civic institutions through which people:
 - organise;
 - fund;
 - archive;
-- perform;
 - and encounter unfamiliar histories.
 
 It covers:
@@ -417,53 +486,31 @@ It covers:
 - archives;
 - foundations;
 - faith organisations;
-- community bodies;
 - artists;
 - volunteers;
 - donors;
 - trustees;
-- and public funders.
+- public funders;
+- and regulators.
 
-These institutions often claim missions involving:
+Its principal powers are:
 
-- public benefit;
-- humanitarian care;
-- cultural freedom;
-- historical memory;
-- anti-racism;
-- social justice;
-- and community cohesion.
-
-The node asks whether those missions remain operative where Palestine creates:
-
-- donor concern;
-- regulatory caution;
-- venue pressure;
-- insurance risk;
-- political controversy;
-- or hostile media attention.
-
-It examines how cultural narrowing may occur without formal censorship through:
-
-- anticipatory cancellation;
-- non-commissioning;
-- funding delay;
-- venue conditions;
-- trustee caution;
-- informal blacklisting;
-- and unequal institutional mourning.
+- funding;
+- commissioning;
+- venue access;
+- public memory;
+- charitable recognition;
+- and cultural legitimacy.
 
 Its central question is:
 
-**What happens to public memory and civic life when institutions created to hold difficult truth become unable to carry its political cost?**
+> What happens to public memory and civic life when institutions created to hold difficult truth become unable to carry its political cost?
 
 ---
 
-## 🛠️ Workplaces And Trade Unions
+## 🛠️ [Workplaces And Trade Unions](./🛠️_workplaces_and_trade_unions.md)
 
-[`🛠️_workplaces_and_trade_unions.md`](🛠️_workplaces_and_trade_unions.md)
-
-This node examines the workplace as the point where foreign policy becomes:
+This node examines the workplace as a point where foreign policy becomes:
 
 - labour;
 - livelihood;
@@ -473,37 +520,14 @@ This node examines the workplace as the point where foreign policy becomes:
 - discipline;
 - and collective bargaining.
 
-Workers may discover that their organisations:
-
-- manufacture weapons or components;
-- provide logistics;
-- develop surveillance or artificial-intelligence systems;
-- insure or finance relevant activity;
-- maintain government contracts;
-- transport contested goods;
-- conduct defence research;
-- or provide administrative support.
-
-Others experience Palestine through:
+It covers:
 
 - workplace speech;
-- staff networks;
-- symbols;
-- complaints;
-- social media;
-- union policy;
-- grief;
-- racial hostility;
-- or family risk.
-
-The node covers:
-
-- workplace neutrality;
-- disciplinary action;
-- commercial secrecy;
-- dual-use work;
 - defence production;
+- dual-use technology;
 - logistics;
+- procurement;
+- commercial secrecy;
 - conscientious objection;
 - whistleblowing;
 - social media;
@@ -512,24 +536,23 @@ The node covers:
 - union democracy;
 - and industrial action.
 
-It also examines the difference between:
+Its principal powers are:
 
-- an organisation’s responsibility;
-- executive authority;
-- managerial implementation;
-- and the limited power of an individual worker.
+- employment;
+- discipline;
+- production;
+- contracting;
+- workplace access;
+- collective representation;
+- and material interruption.
 
 Its central question is:
 
-**What ethical and democratic power do workers possess over what their labour makes possible?**
-
-Trade unions matter because they can prevent the entire legal, professional, financial, and political cost of dissent from being transferred onto one worker.
+> What ethical and democratic power do workers possess over what their labour makes possible?
 
 ---
 
-## 🗳️ Parties, Regulators And Public Appointments
-
-[`🗳️_parties_regulators_and_public_appointments.md`](🗳️_parties_regulators_and_public_appointments.md)
+## 🗳️ [Parties, Regulators And Public Appointments](./🗳️_parties_regulators_and_public_appointments.md)
 
 This node examines the machinery between:
 
@@ -547,7 +570,6 @@ It covers:
 - internal discipline;
 - donations;
 - lobbying;
-- representative organisations;
 - regulatory discretion;
 - broadcasting regulation;
 - public appointments;
@@ -555,126 +577,59 @@ It covers:
 - commissioners;
 - advisers;
 - honours;
-- revolving doors;
 - think tanks;
-- security vetting;
+- vetting;
 - and political records.
 
-These institutions decide:
+Its principal powers are:
 
-- who may stand;
-- who is credible;
-- whose complaint is investigated;
-- which conduct is disqualifying;
-- who receives access;
-- and who may exercise public authority.
-
-The node examines how political exclusion may be produced through several formally separate decisions:
-
-**allegation → amplification → institutional concern → procedural action → political consequence → onward record**
-
-No institution may openly claim responsibility for the final result.
-
-The result may nevertheless be:
-
-- candidate exclusion;
-- appointment failure;
-- reputational disqualification;
-- reduced Palestinian representation;
-- and narrowing of the political choices eventually placed before voters.
+- selection;
+- eligibility;
+- investigation;
+- appointment;
+- access;
+- credibility;
+- and onward recording.
 
 Its central question is:
 
-**How much democratic choice has already been removed before the public is asked to choose?**
+> How much democratic choice has already been removed before the public is asked to choose?
 
 ---
 
 ## 🧩 Shared Institutional Mechanisms
 
-Across the cluster, several mechanisms recur.
+The following mechanisms recur across the cluster.
 
-They should not be assumed in every case.
-
-They are questions to test against evidence.
+They are questions to test against evidence, not assumptions to impose on every case.
 
 ### Distributed Responsibility
 
 Several institutions may each control one part of an outcome.
 
-One body:
+Every actor may accurately state that it did not control the whole process.
 
-- receives a complaint.
-
-Another:
-
-- opens an investigation.
-
-Another:
-
-- imposes an interim restriction.
-
-Another:
-
-- records the person as controversial.
-
-Another:
-
-- withdraws an opportunity.
-
-Every actor may accurately state that it did not control the entire process.
-
-The cumulative outcome may still be institutional exclusion.
-
-### Plausible Deniability
-
-A harmful pattern does not require a written instruction describing its full purpose.
-
-Decisions may be justified individually through:
-
-- safeguarding;
-- public confidence;
-- professional standards;
-- reputational risk;
-- eligibility;
-- security;
-- contractual necessity;
-- or ordinary administration.
-
-Those reasons may be genuine.
-
-The question is whether repeated use of those routes is producing a foreseeable cumulative effect.
+The cumulative outcome may still be exclusion.
 
 ### Anticipatory Compliance
 
-Institutions may act before receiving a direct instruction.
+Institutions may act before receiving a direct instruction because they believe they understand what power will later expect.
 
-They may anticipate the preferences of:
+The absence of an order does not establish the absence of influence.
 
-- government;
-- regulators;
-- donors;
-- clients;
-- party leaders;
-- insurers;
-- professional bodies;
-- campaign organisations;
-- or the media.
-
-The absence of an order does not mean the absence of influence.
-
-It may mean the institution enforced what it believed power would later expect.
+It also does not prove covert coordination.
 
 ### Process As Outcome
 
-An investigation, referral, suspension, injunction, or complaint process may produce consequences before any finding.
+An investigation, referral, suspension, injunction, complaint, or eligibility process may produce consequences before any final finding.
 
 These may include:
 
 - lost employment;
 - lost candidacy;
 - delayed qualification;
-- reduced income;
 - denied access;
+- reduced income;
 - damaged reputation;
 - interrupted care;
 - and withdrawal from public participation.
@@ -700,27 +655,13 @@ Repeated recording may gradually turn them into:
 - concerning;
 - controversial;
 - unsafe;
-- extremist-adjacent;
 - unsuitable;
+- extremist-adjacent;
 - or high risk.
 
-The label travels more readily than the uncertainty.
+The label may travel more readily than the uncertainty.
 
-### Correction Failure
-
-Information may be:
-
-- copied;
-- shared;
-- summarised;
-- reported;
-- and converted into new assessments.
-
-If the original allegation is corrected, closed, or disproved, that correction may not travel to every recipient.
-
-The result is institutional memory without institutional accuracy.
-
-### Loss Of Warning Capacity
+### Warning Loss
 
 Institutions depend upon people willing to raise:
 
@@ -731,7 +672,7 @@ Institutions depend upon people willing to raise:
 - unsafe practice;
 - and evidence of serious harm.
 
-If those people are repeatedly removed or intimidated, the institution may become quieter while losing the ability to recognise its own danger.
+If those people are repeatedly removed, exhausted, or intimidated, the institution may become quieter while losing the ability to recognise its own danger.
 
 ---
 
@@ -767,22 +708,24 @@ It provides a structure for asking:
 
 - where the original evidence entered;
 - who interpreted it;
+- what relationship existed between institutions;
 - which uncertainty was lost;
-- where coercive power appeared;
-- and how the institutional response changed the political field.
+- where coercive, allocative, or interpretive power appeared;
+- and how the response changed the political field.
 
 ---
 
-## 🧠 Intent, Effect, And Foreseeability
+## 🧠 Intent, Knowledge, Effect And Foreseeability
 
 The cluster distinguishes:
 
 - intent;
 - knowledge;
+- authority;
 - contribution;
 - effect;
 - foreseeability;
-- and failure to act after warning.
+- and response after warning.
 
 Not every participant in a harmful system shares the same motive.
 
@@ -806,11 +749,18 @@ An institution may not initially intend to suppress:
 - cultural expression;
 - or patient disclosure.
 
-But once it knows that its processes repeatedly produce that effect, continued inaction becomes harder to describe as accidental.
+But once an institution receives credible evidence that its processes repeatedly produce a foreseeable harmful effect, it acquires a responsibility to assess:
+
+- causation;
+- proportionality;
+- alternatives;
+- correction;
+- mitigation;
+- and its own capacity to prevent recurrence.
 
 The question is therefore not only:
 
-**What did this institution intend?**
+> What did this institution intend?
 
 It is also:
 
@@ -823,51 +773,54 @@ It is also:
 
 ---
 
-## 🕰️ Historical Comparison And Administrative Warning
+## 🗃️ Records, Correction And Downstream Memory
 
-Plausible deniability, distributed responsibility, anticipatory compliance, professional exclusion, licensing, administrative delay, and record-based suspicion have appeared in systems later categorised as:
+Institutional information may move through several stages:
 
-- genocide;
-- crimes against humanity;
-- racial persecution;
-- authoritarian repression;
-- colonial governance;
-- political blacklisting;
-- and widespread discriminatory administration.
+```text
+source allegation or event
+        ↓
+source record
+        ↓
+summary or referral
+        ↓
+risk classification
+        ↓
+onward disclosure
+        ↓
+operational or eligibility decision
+        ↓
+later correction, closure, or finding
+```
 
-This does not make every current institutional restriction equivalent to atrocity.
+Correction at the source does not automatically correct:
 
-The comparison concerns mechanisms.
+- derived summaries;
+- risk classifications;
+- copied records;
+- onward disclosures;
+- operational decisions;
+- or institutional memory.
 
-Serious repression does not always begin with one explicit order.
+A proper correction process should ask:
 
-It may develop through:
+- What was the original record?
+- Which later records were derived from it?
+- Who received them?
+- Was the classification changed?
+- Were recipients notified?
+- Was retention still justified?
+- Could the person identify and challenge the downstream effect?
 
-- ordinary procedures;
-- narrow remits;
-- dispersed actors;
-- locally defensible decisions;
-- and institutions refusing to examine their cumulative effect.
-
-Historical knowledge is useful before the final category becomes settled.
-
-Its preventive purpose is to help institutions recognise:
-
-- disproportionality;
-- repeated exclusion;
-- unequal scrutiny;
-- warning loss;
-- and responsibility displacement
-
-while intervention remains possible.
+Correcting the source record is not sufficient if the derived classification and downstream copies remain active.
 
 ---
 
-## ⚖️ The Three Shared Questions
+## ⚖️ The Institutional Test
 
-Every node in this cluster asks three core questions.
+Every node in this cluster should ask six questions.
 
-### 1. What Immediate Risk Was The Institution Addressing?
+### 1. What Risk Was Identified?
 
 Possible risks include:
 
@@ -889,9 +842,33 @@ Possibility should not be confused with probability.
 
 Reputational discomfort should not automatically be treated as public danger.
 
-### 2. What Capacity Did The Response Remove?
+### 2. What Evidence Supported It?
 
-Institutional action may remove or weaken:
+Ask:
+
+- What evidence existed?
+- Who supplied it?
+- How reliable was it?
+- Was contrary evidence considered?
+- Were allegation, intelligence, inference, and finding distinguished?
+
+### 3. What Power Was Exercised?
+
+Identify whether the institution used:
+
+- coercive;
+- allocative;
+- interpretive;
+- employment;
+- regulatory;
+- contractual;
+- educational;
+- political;
+- or professional power.
+
+### 4. What Capacity Was Removed?
+
+The response may weaken:
 
 - professional warning;
 - direct testimony;
@@ -905,9 +882,18 @@ Institutional action may remove or weaken:
 - evidence;
 - and moderate participation.
 
-The response should be assessed not only by what it stopped, but by what it made less possible.
+### 5. What Correction Or Appeal Existed?
 
-### 3. Could The Power Be Inherited?
+Ask:
+
+- Was the process reviewable?
+- Was the person informed?
+- Could they see the evidence?
+- Was there a time limit?
+- Could downstream records be corrected?
+- Did clearance restore the lost opportunity?
+
+### 6. What Precedent Was Created?
 
 A power developed against Palestine-related participation may later be used against:
 
@@ -926,47 +912,36 @@ A power developed against Palestine-related participation may later be used agai
 
 The immediate political target does not determine the power’s future owner.
 
-Institutions should ask whether the precedent they are creating would remain acceptable if inherited by a more authoritarian government or movement.
-
 ---
 
-## 🌱 Home Institutions And What Repression Produces
+## 🌱 Relationship To Neighbouring Clusters
 
 This cluster records:
 
-- authority;
-- conduct;
+- institutional actors;
+- powers;
 - information routes;
-- legal and institutional mechanisms;
+- decisions;
+- procedures;
 - and immediate consequences.
 
-The neighbouring cluster:
-
-[`🌱 What Repression Produces`](../🌱_What_Repression_Produces/README.md)
-
-examines the repeated effects produced across those institutions.
-
-These may include:
-
-- weakened warning capacity;
-- loss of moderate participants;
-- damaged opposition ecology;
-- reduced professional diversity;
-- under-recorded harm;
-- distrust of public systems;
-- alternative institution-building;
-- political purification;
-- conspiratorial explanation;
-- and powers available for later authoritarian use.
+The neighbouring [🌱 What Repression Produces](../🌱_What_Repression_Produces/README.md) cluster examines what those actions collectively change in society.
 
 The distinction is:
 
-- **Home Institutions** asks what each institution did and through which mechanism.
-- **What Repression Produces** asks what those actions collectively changed in society.
+- **Home Institutions** asks what an institution did, through which power, using what information, and with what immediate effect.
+- **What Repression Produces** asks what repeated institutional action does to participation, warning capacity, trust, opposition ecology, and future political power.
+
+Other neighbouring clusters provide related tests:
+
+- [⚖️ Universal Until Tested](../⚖️_Universal_Until_Tested/README.md) examines whether principles are applied consistently.
+- [🗞️ The Reporting Gap](../🗞️_The_Reporting_Gap/README.md) examines how institutional action is reported or obscured.
+- [🧭 Movement Legibility](../🧭_Movement_Legibility/README.md) examines how movement actors, events, organisations, and constituencies are described.
+- [🧺 Tools](../🧺_Tools/README.md) provides practical methods for reconstructing claims, records, decisions, and institutional chains.
 
 ---
 
-## 🗞️ A Shared Reporting Method
+## 🗞️ Shared Reporting Method
 
 Reporting across this cluster should distinguish:
 
@@ -975,6 +950,7 @@ Reporting across this cluster should distinguish:
 - inference;
 - timing;
 - pattern;
+- finding;
 - and uncertainty.
 
 A useful institutional reconstruction asks:
@@ -983,20 +959,21 @@ A useful institutional reconstruction asks:
 2. Who first reported it?
 3. What evidence existed?
 4. Who received the information?
-5. What legal or institutional power applied?
-6. Who made the decision?
-7. What reasons were recorded?
-8. What other pressures existed?
-9. What immediate consequence followed?
-10. What later finding or correction occurred?
-11. Who received that correction?
-12. What cumulative pattern may be emerging?
+5. What relationship existed between the institutions involved?
+6. What legal or institutional power applied?
+7. Who made the decision?
+8. What reasons were recorded?
+9. What other pressures or incentives existed?
+10. What immediate consequence followed?
+11. What later finding, closure, or correction occurred?
+12. Which downstream recipients received that correction?
+13. What cumulative pattern may be emerging?
 
 Where information is incomplete, say so.
 
 Where a pattern is plausible but unproven, describe it as a risk requiring investigation.
 
-Where several actors are involved, do not replace the evidence with an assumption of central coordination.
+Where several actors are involved, do not replace evidence with an assumption of central coordination.
 
 Where timing is suggestive, do not present timing alone as proof of causation.
 
@@ -1012,16 +989,12 @@ Do not collapse all home institutions into one coordinated system.
 
 Distinguish:
 
-- law;
-- policy;
-- guidance;
-- information;
-- influence;
-- operational discretion;
-- employment power;
-- regulatory power;
-- contractual power;
-- and political judgment.
+- direct coordination;
+- information transmission;
+- policy alignment;
+- anticipatory compliance;
+- parallel response;
+- and cumulative effect.
 
 Do not treat:
 
@@ -1037,16 +1010,16 @@ as proof of the underlying allegation.
 
 Do not treat the absence of a final finding as proof that every concern was malicious.
 
-Examine the process and its practical consequences.
+Examine both the process and its practical consequences.
 
-Do not assume that Palestine was the sole cause of every adverse institutional decision.
+Do not assume that Palestine was the sole cause of every adverse decision.
 
 Distinguish:
 
 - direct evidence;
 - stated reasons;
-- previous conflict;
 - timing;
+- previous conflict;
 - institutional incentives;
 - contributing factors;
 - cumulative patterns;
@@ -1054,7 +1027,9 @@ Distinguish:
 
 Do not use plausible deniability as proof of covert coordination.
 
-Use it to examine whether individually defensible decisions are producing a repeated collective effect.
+The absence of a central instruction does not prevent cumulative harm.
+
+It also does not establish covert command.
 
 Do not treat every restriction as repression.
 
@@ -1077,6 +1052,7 @@ The question is whether the intervention was:
 - proportionate;
 - consistent;
 - time-limited;
+- reviewable;
 - and correctable.
 
 Do not treat Jewish people as collectively responsible for:
@@ -1089,7 +1065,7 @@ Do not treat Jewish people as collectively responsible for:
 - professional complaints;
 - or institutional exclusion.
 
-Identify the actual actor and mechanism.
+Identify the actual actor, institution, power, and mechanism.
 
 Do not erase:
 
@@ -1150,12 +1126,12 @@ A democratic institution should be able to explain:
 - which power it exercised;
 - what alternatives it considered;
 - what capacity its decision removed;
-- how errors can be corrected;
+- how errors and downstream records can be corrected;
 - and whether it would accept the same precedent in less trustworthy hands.
 
 Institutions do not remain neutral by making their own role difficult to see.
 
-Where public power, private pressure, professional procedure, and political fear combine, responsibility must be reconstructed across the whole chain.
+Where public power, private pressure, professional procedure, and political fear combine, responsibility must be reconstructed across the chain.
 
 ---
 
@@ -1165,7 +1141,7 @@ Where public power, private pressure, professional procedure, and political fear
 
 ## ✨ Stardust
 
-Palestine, home institutions, government, Parliament, policing, public order, universities, schools, healthcare, professional ethics, charities, cultural bodies, workplaces, trade unions, political parties, regulators, public appointments, institutional contradiction, plausible deniability, anticipatory compliance, category drift, correction, warning capacity, democratic legitimacy
+Palestine, home institutions, government, Parliament, policing, public order, universities, schools, healthcare, professional ethics, charities, cultural bodies, workplaces, trade unions, political parties, regulators, public appointments, institutional power, distributed responsibility, information transmission, anticipatory compliance, category drift, correction, warning capacity, democratic legitimacy
 
 ---
 
@@ -1181,13 +1157,13 @@ It examines how lawful powers, ordinary procedures, indirect pressure, instituti
 
 > 📡 Cluster files:
 >
-> - [🏛️ Parliament And Government](🏛️_parliament_and_government.md) — *executive authority, Parliament, legal position, arms, lobbying, and responsibility*
-> - [🐼 Policing And Public Order](🐼_policing_and_public_order.md) — *information, intelligence, risk, protest, arrest, records, and correction*
-> - [🎓 Universities And Schools](🎓_universities_and_schools.md) — *education, research, protest, safeguarding, investment, and institutional contradiction*
-> - [🩺 Healthcare And Professional Ethics](🩺_healthcare_and_professional_ethics.md) — *medical warning, professional referral, patient trust, and culturally legible care*
-> - [🧵 Charities And Cultural Bodies](🧵_charities_and_cultural_bodies.md) — *public benefit, culture, memory, funding, faith, donors, and civic space*
-> - [🛠️ Workplaces And Trade Unions](🛠️_workplaces_and_trade_unions.md) — *labour, supply chains, conscience, employment discipline, and collective power*
-> - [🗳️ Parties, Regulators And Public Appointments](🗳️_parties_regulators_and_public_appointments.md) — *candidate selection, complaints, donations, regulation, appointments, and democratic gatekeeping*
+> - [🏛️ Parliament And Government](./🏛️_parliament_and_government.md) — *executive authority, Parliament, legal position, arms, lobbying, and responsibility*
+> - [🐼 Policing And Public Order](./🐼_policing_and_public_order.md) — *information, intelligence, risk, protest, arrest, records, and correction*
+> - [🎓 Universities And Schools](./🎓_universities_and_schools.md) — *education, research, protest, safeguarding, investment, and institutional contradiction*
+> - [🩺 Healthcare And Professional Ethics](./🩺_healthcare_and_professional_ethics.md) — *medical warning, professional referral, patient trust, and culturally legible care*
+> - [🧵 Charities And Cultural Bodies](./🧵_charities_and_cultural_bodies.md) — *public benefit, culture, memory, funding, faith, donors, and civic space*
+> - [🛠️ Workplaces And Trade Unions](./🛠️_workplaces_and_trade_unions.md) — *labour, supply chains, conscience, employment discipline, and collective power*
+> - [🗳️ Parties, Regulators And Public Appointments](./🗳️_parties_regulators_and_public_appointments.md) — *candidate selection, complaints, donations, regulation, appointments, and democratic gatekeeping*
 >
 > 📡 Wider cross-references:
 >
@@ -1196,7 +1172,9 @@ It examines how lawful powers, ordinary procedures, indirect pressure, instituti
 > - [🥁 Why They Are Still Marching](../🥁_Why_They_Are_Still_Marching/README.md) — *why unresolved material harm and domestic responses sustain mobilisation*
 > - [🌱 What Repression Produces](../🌱_What_Repression_Produces/README.md) — *the cumulative social effects of institutional containment*
 > - [⚖️ Universal Until Tested](../⚖️_Universal_Until_Tested/README.md) — *consistency, rights, equal protection, and institutional legitimacy*
+> - [🗞️ The Reporting Gap](../🗞️_The_Reporting_Gap/README.md) — *how institutional action, uncertainty, and cumulative effects are reported*
+> - [🧺 Tools](../🧺_Tools/README.md) — *practical methods for reconstructing institutional actors, powers, records, and decisions*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-07-19_
+_Last updated: 2026-08-01_
