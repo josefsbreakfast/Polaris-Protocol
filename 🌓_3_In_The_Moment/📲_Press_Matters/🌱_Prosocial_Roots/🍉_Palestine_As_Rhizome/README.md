@@ -1,5 +1,5 @@
 # 🍉 Palestine As Rhizome  
-**First created:** 2026-07-17 | **Last updated:** 2026-07-18  
+**First created:** 2026-07-17 | **Last updated:** 2026-08-01  
 *Reporting frameworks for understanding why Palestine remains a durable site of protest, political identification, institutional dispute, and interconnected public concern.*
 
 ---
@@ -472,4 +472,4 @@ It provides reporting frameworks for understanding why Palestine remains a durab
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-07-18_
+_Last updated: 2026-08-01_
