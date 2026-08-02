@@ -1,5 +1,5 @@
 # 🧠 The Meme Became Infrastructure  
-**First created:** 2026-07-28 | **Last updated:** 2026-07-28  
+**First created:** 2026-07-28 | **Last updated:** 2026-08-02  
 *How a recognisable image became part of a wider system of communication, care, logistics and coordination capable of sustaining public participation.*
 
 ---
@@ -1233,7 +1233,7 @@ Continue to:
 
 ---
 
-## 🧷 Compact Finding  
+## 💫 Compact Finding  
 
 The meme became infrastructure when people built systems around it.
 
@@ -1245,7 +1245,11 @@ The image did not organise the movement by itself. The infrastructure was people
 
 ## 🌌 Constellations  
 
-🧠 📡 🛠️ 🩹 🧾 🌐 📚 💼 — network-native communication; movement logistics; mutual aid; first aid; legal support; translation; archiving; future workforce.
+🧠 📡 🛠️ 🩹 🧾 🌐 📚 💼 — network-native communication; movement logistics; mutual aid; first aid; legal support; translation; archiving; future workforce.  
+
+*Further media:”  
+
+- [📰: The Times Of India: “Instagram vs WhatsApp: How CJP protests are different and why that matters”](http://m.timesofindia.com/articleshow/132605420.cms) – *“Police action, in this case, does not necessarily suppress the movement. It produces content for it.”*  
 
 ---
 
@@ -1275,4 +1279,4 @@ It examines how a recognisable political object became embedded in practical sys
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-28_
+_Last updated: 2026-08-02_
