@@ -1,5 +1,5 @@
 # 🕳️ The Hidden Transcript Found A Mascot  
-**First created:** 2026-07-28 | **Last updated:** 2026-07-28  
+**First created:** 2026-07-28 | **Last updated:** 2026-08-02  
 *How coded speech, private humour, pseudonymous circulation and informal recognition existed before the movement became fully visible—and how the cockroach gave that hidden political culture a public character.*
 
 ---
@@ -963,8 +963,11 @@ This does not prove secret central coordination. It shows that visible mobilisat
 
 ## 🌌 Constellations  
 
-🕳️ 🤫 🌱 🪳 🎭 📲 🚪 — hidden transcripts; infrapolitics; pseudonymity; regional satire; collective deniability; hidden participation; political permission.
+🕳️ 🤫 🌱 🪳 🎭 📲 🚪 — hidden transcripts; infrapolitics; pseudonymity; regional satire; collective deniability; hidden participation; political permission.  
 
+*Further media:*  
+
+- [Azadeh Moshiri for the BBC: “Mai ‘Chhota Cockroach’” 🥹🪳](https://youtube.com/shorts/fMs8fhsI_HQ?is=s81hdBYnQSJhQZ_F) – *Bahut bahut cute hai!* 💕💕  
 ---
 
 ## ✨ Stardust  
@@ -993,4 +996,4 @@ It examines the political culture that existed beneath visible mobilisation and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-28_
+_Last updated: 2026-08-02_
