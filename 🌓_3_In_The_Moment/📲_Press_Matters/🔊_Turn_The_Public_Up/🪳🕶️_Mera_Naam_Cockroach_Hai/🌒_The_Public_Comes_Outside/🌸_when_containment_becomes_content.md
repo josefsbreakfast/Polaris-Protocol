@@ -1,5 +1,5 @@
 # 🌸 When Containment Becomes Content  
-**First created:** 2026-07-28 | **Last updated:** 2026-07-28  
+**First created:** 2026-07-28 | **Last updated:** 2026-08-02  
 *How attempts to suppress, ridicule, police or narratively contain a movement can generate new evidence, new circulation and new public meaning—without assuming that repression always backfires.*
 
 ---
@@ -1001,7 +1001,7 @@ They would not erase the fact that containment produced a public record.
 
 ---
 
-## 🧷 Compact Finding  
+## 💫 Compact Finding  
 
 Containment became content when attempts to control the movement produced new evidence, new jokes, new witnesses and new reasons to circulate the grievance.
 
@@ -1013,7 +1013,11 @@ Strategic concession could therefore be more effective than doubling down—but 
 
 ## 🌌 Constellations  
 
-🌸 🪳 🔁 🎭 🧠 📺 🚪 — containment; suppression; distributed reproduction; narrative captivity; platform literacy; evidentiary amplification; strategic concession.
+🌸 🪳 🔁 🎭 🧠 📺 🚪 — containment; suppression; distributed reproduction; narrative captivity; platform literacy; evidentiary amplification; strategic concession.  
+
+*Further media:*  
+
+- [📬: Letters to The Guardian: “India’s gen Z have discovered the power of collective action”](https://www.theguardian.com/world/2026/aug/02/indias-gen-z-have-discovered-the-power-of-collective-action)  
 
 ---
 
@@ -1044,4 +1048,4 @@ It examines how attempts to suppress, police or narratively contain a distribute
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-28_
+_Last updated: 2026-08-02_
