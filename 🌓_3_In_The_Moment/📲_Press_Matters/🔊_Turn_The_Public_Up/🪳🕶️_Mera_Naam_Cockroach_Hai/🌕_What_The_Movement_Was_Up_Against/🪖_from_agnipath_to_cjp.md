@@ -1,5 +1,5 @@
 # 🪖 From Agnipath To CJP  
-**First created:** 2026-07-29 | **Last updated:** 2026-07-29  
+**First created:** 2026-07-29 | **Last updated:** 2026-08-02  
 *How youth protest changes when the state controls both the disputed future and the records that may determine who remains eligible to enter it.*  
 
 ---
@@ -133,7 +133,7 @@ When the state controls the calendar, time becomes part of the gate.
 
 ---
 
-## 👦 Young People Were Protesting A State-Controlled Future  
+## 🌀 Young People Were Protesting A State-Controlled Future  
 
 Agnipath protesters were not only objecting to a government announcement.
 
@@ -303,7 +303,7 @@ A record can become a gate before it becomes a judgement.
 
 ---
 
-## 🧑‍⚖️ Police Verification Is A Second Decision System  
+## 🐼 Police Verification Is A Second Decision System  
 
 Recruitment may formally depend on:
 
@@ -942,7 +942,7 @@ It is a sequence.
 
 ---
 
-## 🔗 Relationship To The Other Nodes  
+## 💫 Relationship To The Other Nodes  
 
 This node provides the controlled comparison between youth protest and future eligibility.
 
@@ -975,7 +975,11 @@ It can follow the protester back to the gate.
 
 ## 🌌 Constellations  
 
-🪖 👦 🪪 🧾 🎓 — youth futures; state-controlled entry; protest records; police verification; eligibility after dissent.
+🪖 👦 🪪 🧾 🎓 — youth futures; state-controlled entry; protest records; police verification; eligibility after dissent.  
+
+*Further media:*  
+
+- [📰: BBC: “India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts”](https://www.bbc.co.uk/news/articles/c74gwvygkjdo) – *”If it's confirmed that the forces used pellet guns in Delhi, this would be the first time that India would have used them on its citizens in its capital city.”*  
 
 ---
 
@@ -1019,4 +1023,4 @@ It uses Agnipath as a disciplined structural comparison for understanding youth 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-29_
+_Last updated: 2026-08-02_
