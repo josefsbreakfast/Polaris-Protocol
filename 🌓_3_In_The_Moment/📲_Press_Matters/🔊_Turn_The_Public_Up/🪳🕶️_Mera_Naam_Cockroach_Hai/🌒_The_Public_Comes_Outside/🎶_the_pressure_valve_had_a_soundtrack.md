@@ -1,5 +1,5 @@
 # 🎶 The Pressure Valve Had A Soundtrack  
-**First created:** 2026-07-28 | **Last updated:** 2026-07-28  
+**First created:** 2026-07-28 | **Last updated:** 2026-08-02  
 *How chants, songs, rhythm, costume, humour and replay helped participants regulate pressure, recognise one another and turn spectatorship into public participation.*
 
 ---
@@ -1212,7 +1212,7 @@ Continue to:
 
 ---
 
-## 🧷 Compact Finding  
+## 💫 Compact Finding  
 
 The pressure valve had a soundtrack.
 
@@ -1225,6 +1225,10 @@ The movement’s cultural language was plural: core slogans, authorised chants, 
 ## 🌌 Constellations  
 
 🎶 🫁 🥁 🎭 🎥 ✂️ 😂 — sound; emotional regulation; synchronisation; collective deniability; replay; remix; political mockery.
+
+*Further media:*  
+
+- [🎶: Spotify: “Cockroach Janta Party Official Playlist”](https://open.spotify.com/playlist/3oZu0WMmSRGF1WNXs2gV6N)  
 
 ---
 
@@ -1254,4 +1258,4 @@ It examines how sound, rhythm, humour, costume and recorded performance helped a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-28_
+_Last updated: 2026-08-02_
