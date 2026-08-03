@@ -1,5 +1,5 @@
 # 🛰️ The Immediate Crisis  
-**First created:** 2026-07-27 | **Last updated:** 2026-08-03  
+**First created:** 2026-07-27 | **Last updated:** 2026-07-27  
 *A factual spine for the examination crisis, political insult, public mobilisation and demands from which the Cockroach Janta Party’s street movement emerged.*
 
 ---
@@ -1502,4 +1502,4 @@ It records the chronology, actors, language, demands and evidentiary boundaries 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-03_
+_Last updated: 2026-07-27_
