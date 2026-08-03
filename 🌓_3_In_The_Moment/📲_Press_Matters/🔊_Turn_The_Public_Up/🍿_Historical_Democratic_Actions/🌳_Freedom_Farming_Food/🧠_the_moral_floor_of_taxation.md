@@ -1,5 +1,5 @@
 # 🧠 The Moral Floor of Taxation  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *Why redistribution stops working once it crosses survival logic — and why people feel this before they argue it.*  
 
 ---
@@ -164,4 +164,4 @@ It contributes cognitive and historical analysis on why taxation that destabilis
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
