@@ -1,5 +1,5 @@
 # 🎓 This Was Not Just A Bad Exam  
-**First created:** 2026-07-27 | **Last updated:** 2026-07-27  
+**First created:** 2026-07-27 | **Last updated:** 2026-08-03  
 *Why failure in a ranked entrance examination does more than inconvenience candidates: it can redistribute scarce educational places, professional pathways and entire futures.*
 
 ---
@@ -993,4 +993,4 @@ It explains why failure in a high-stakes ranked examination redistributes opport
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-27_
+_Last updated: 2026-08-03_
