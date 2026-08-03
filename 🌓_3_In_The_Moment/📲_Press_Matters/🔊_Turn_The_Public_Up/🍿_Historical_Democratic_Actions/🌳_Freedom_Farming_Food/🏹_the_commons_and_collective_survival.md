@@ -1,5 +1,5 @@
 # 🏹 The Commons and Collective Survival  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *Why shared land repeatedly reappears when survival outruns abstraction.*  
 
 ---
@@ -168,4 +168,4 @@ It contributes historical analysis on why shared land arrangements repeatedly re
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
