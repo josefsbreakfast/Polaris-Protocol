@@ -1,5 +1,5 @@
 # 📊 Merit Is A Social Claim  
-**First created:** 2026-07-27 | **Last updated:** 2026-07-27  
+**First created:** 2026-07-27 | **Last updated:** 2026-08-03  
 *Why examination performance is real without being socially self-explanatory—and why the word merit often hides the support, scarcity and institutional choices beneath rank.*
 
 ---
@@ -1131,4 +1131,4 @@ It examines how genuine examination performance becomes a broader moral claim ab
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-27_
+_Last updated: 2026-08-03_
