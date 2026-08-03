@@ -391,7 +391,7 @@ absence of a murder finding
 
 ---
 
-## 🎬 *3 Idiots* As Cultural Recognition  
+## 🎬 When *3 Idiots* Re-entered The Crisis  
 
 - *3 Idiots* is useful here as a cultural recognition bridge.
 
@@ -407,21 +407,75 @@ absence of a murder finding
   - NEET;
   - the CJP;
   - any individual death;
-  - prevalence.
+  - prevalence;
+  - the literal biography of Sonam Wangchuk.
 
 - Its relevance is cultural:
 
 > A large audience already recognises the story in which institutional pressure is formally described as individual failure after the student dies.
 
+- During Sonam Wangchuk’s 2026 hunger strike, that cultural recognition became part of the protest itself.
+
+- Wangchuk had long been popularly associated with Phunsukh Wangdu, the educational innovator revealed at the end of *3 Idiots*.
+
+- The literal attribution is disputed:
+  - Wangchuk has resisted being reduced to the fictional character;
+  - Aamir Khan said that he and the film’s writers had not known about Wangchuk when the film was made;
+  - the archive should therefore not state that Phunsukh Wangdu was straightforwardly “based on” Wangchuk.
+
+```text
+disputed biographical attribution
+≠ absent cultural association
+```
+
+- The public association nevertheless existed strongly enough to become protest language.
+
+- Omi Vaidya, who played Chatur in the film, appealed for Wangchuk during the fast by saying:
+
+> **“I don’t want Phunsukh Wangdu to die.”**
+
+- The line did more than attach a celebrity to a campaign.
+
+- It folded the film’s moral vocabulary back into a real educational crisis:
+
+```text
+film about educational pressure
+        ↓
+shared cultural recognition
+        ↓
+education reformer begins hunger strike
+        ↓
+fictional name becomes an appeal to protect a real body
+```
+
+- This produced an uncomfortable reversal.
+
+- Phunsukh Wangdu represents the possibility of:
+  - practical learning;
+  - educational imagination;
+  - institutional alternatives;
+  - refusing the system’s definition of failure.
+
+- Wangchuk’s hunger strike showed an education reformer placing his own body under escalating pressure because ordinary institutional channels had not produced an adequate response.
+
+- The person culturally associated with an alternative to the system was therefore placed in danger by the effort required to make that system answer.
+
+- The callback also sharpened this node’s central warning:
+
+> A public may understand that an institution is dangerous and still wait for a body to approach death before treating the danger as urgent.
+
+- *3 Idiots* is not a statistical source.
+- It is evidence that the social narrative was already legible.
+- Vaidya’s intervention is evidence that this narrative was consciously activated during the movement.
+
 - This helps explain why movement language about:
   - murder;
   - stolen futures;
   - institutional responsibility;
+  - bodily sacrifice;
+  - refusal to wait for another death;
 
-  may resonate immediately.
-
-- The film is not a statistical source.
-- It is evidence that the social narrative was already legible.
+  could resonate immediately.
 
 ---
 
@@ -988,6 +1042,8 @@ The pressure can end in more than one way.
 
 Some people die. Some survive attempts with injury or disability. Some enter psychiatric crisis, leave education or require years of care. Families may carry grief, debt and dependency long after the examination authority has closed the file.
 
+During Sonam Wangchuk’s hunger strike, *3 Idiots* ceased to be only an external analogy. Omi Vaidya’s appeal—“I don’t want Phunsukh Wangdu to die”—used the film’s familiar educational language to ask the public to recognise danger before another body became a memorial. The biographical attribution may be disputed; the cultural function is not.
+
 Complex causation should prevent simplistic claims. It should not erase institutional contribution. A humane system counts non-fatal harm, preserves careful attribution and treats survival as the beginning of possible repair rather than proof that the crisis was minor.
 
 ---
@@ -1000,7 +1056,7 @@ Complex causation should prevent simplistic claims. It should not erase institut
 
 ## ✨ Stardust  
 
-died by suicide, suicide attempt, non-fatal attempt, self-harm, suicidal thoughts, institutional contribution, causal contribution, proximate cause, protest language, murder accusation, compensation, ex gratia payment, injury, acquired disability, psychiatric crisis, family harm, 3 Idiots, diya, remembrance
+died by suicide, suicide attempt, non-fatal attempt, self-harm, suicidal thoughts, institutional contribution, causal contribution, proximate cause, protest language, murder accusation, compensation, ex gratia payment, injury, acquired disability, psychiatric crisis, family harm, 3 Idiots, Phunsukh Wangdu, Sonam Wangchuk, Omi Vaidya, cultural recognition, hunger strike, education reform, diya, remembrance
 
 ---
 
@@ -1012,7 +1068,7 @@ It records fatal, non-fatal and continuing harms associated with examination pre
 > 📡 Cross-references:
 >
 > - [🌑 The System Becomes Intolerable](./README.md) — *how examination failure accumulated into intolerable pressure*  
-> - [🛰️ The Immediate Crisis](./🛰️_the_immediate_crisis.md) — *the chronology, actors and reported student deaths*  
+> - [🛰️ The Immediate Crisis](./🛰️_the_immediate_crisis.md) — *the chronology of Wangchuk’s hunger strike and the film association’s entry into live protest language*  
 > - [🎓 Students Have Lives](./🎓_students_have_lives.md) — *the bodies, families, work and grief hidden by candidate records*  
 > - [💊 When Performance Becomes A Clinical Problem](./💊_when_performance_becomes_a_clinical_problem.md) — *the interaction of clinical need and institutional pressure*  
 > - [📊 Merit Is A Social Claim](./📊_merit_is_a_social_claim.md) — *how success and failure are socially interpreted*  
