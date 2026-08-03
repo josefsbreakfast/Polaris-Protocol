@@ -1,5 +1,5 @@
 # 💊 When Performance Becomes A Clinical Problem  
-**First created:** 2026-07-27 | **Last updated:** 2026-07-27  
+**First created:** 2026-07-27 | **Last updated:** 2026-08-03  
 *How real clinical need, institutional pressure, diagnosis, medication and unequal access become entangled when candidates are expected to remain continuously productive.*
 
 ---
@@ -1143,4 +1143,4 @@ It examines how genuine clinical need becomes entangled with institutional perfo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-27_
+_Last updated: 2026-08-03_
