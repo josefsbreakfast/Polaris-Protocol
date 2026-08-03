@@ -1,5 +1,5 @@
 # 🫀 A Question of Questions  
-**First created:** 2026-01-06 | **Last updated:** 2026-01-06  
+**First created:** 2026-01-06 | **Last updated:** 2026-08-03  
 *Prolonged starvation, parliamentary process, and democratic accountability*  
 
 ---
@@ -208,4 +208,4 @@ It examines how democratic and parliamentary processes respond to time-dependent
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-03_
