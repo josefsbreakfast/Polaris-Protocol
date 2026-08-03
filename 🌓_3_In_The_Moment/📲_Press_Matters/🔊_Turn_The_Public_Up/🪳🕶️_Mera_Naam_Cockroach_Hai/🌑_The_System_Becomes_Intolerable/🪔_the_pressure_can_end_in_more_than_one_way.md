@@ -1,5 +1,5 @@
 # 🪔 The Pressure Can End In More Than One Way  
-**First created:** 2026-07-27 | **Last updated:** 2026-07-27  
+**First created:** 2026-07-27 | **Last updated:** 2026-08-03  
 *Why examination pressure must be counted through death, non-fatal crisis, injury, disability, interrupted education and the continuing harm carried by families.*
 
 ---
@@ -1022,4 +1022,4 @@ It records fatal, non-fatal and continuing harms associated with examination pre
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-27_
+_Last updated: 2026-08-03_
