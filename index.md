@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-03 15:18:16 UTC_
+_Generated on 2026-08-03 15:25:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1072,16 +1072,6 @@ _Generated on 2026-08-03 15:18:16 UTC_
           - [`🪨_male_survivor_silence.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🪨_male_survivor_silence.md)
           - [`🫤_why_elite_denials_dont_work_anymore.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🫤_why_elite_denials_dont_work_anymore.md)
           - [`🫧_the_bleurgh_principle.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🫧_the_bleurgh_principle.md)
-        - [**💔_Against_The_Wall/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/💔_Against_The_Wall/)
-          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/💔_Against_The_Wall/README.md)
-          - [`🍉_whats_to_fear_with_a_keffiyah.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/💔_Against_The_Wall/🍉_whats_to_fear_with_a_keffiyah.md)
-          - [`🧱_gaza_as_containment_history.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/💔_Against_The_Wall/🧱_gaza_as_containment_history.md)
-          - [`🫒_the_great_nudge_of_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/💔_Against_The_Wall/🫒_the_great_nudge_of_2025.md)
-        - [**🥨_Bread_No_Roses/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/)
-          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/README.md)
-          - [`🍉_hunger_strikes_in_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/🍉_hunger_strikes_in_2025.md)
-          - [`🥔_why_states_starve_us_when_there_is_enough.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/🥔_why_states_starve_us_when_there_is_enough.md)
-          - [`🫛_why_community_gardens_get_precrimed.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/🫛_why_community_gardens_get_precrimed.md)
       - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/)
         - [**🌱_Invest_Appropriately/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/README.md)
@@ -4879,6 +4869,17 @@ _Generated on 2026-08-03 15:18:16 UTC_
       - [`🧩_the_one_of_us_glitch.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/Git_Intake_Drawer/🧩_the_one_of_us_glitch.md)
       - [`🧩_the_whiteness_of_suspicion.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/Git_Intake_Drawer/🧩_the_whiteness_of_suspicion.md)
       - [`🧪_voice_convergence_forensics_hinge.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
+    - [**🍿_Historical_Democratic_Actions/**](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/)
+      - [**💔_Against_The_Wall/**](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/💔_Against_The_Wall/)
+        - [`README.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/💔_Against_The_Wall/README.md)
+        - [`🍉_whats_to_fear_with_a_keffiyah.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/💔_Against_The_Wall/🍉_whats_to_fear_with_a_keffiyah.md)
+        - [`🧱_gaza_as_containment_history.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/💔_Against_The_Wall/🧱_gaza_as_containment_history.md)
+        - [`🫒_the_great_nudge_of_2025.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/💔_Against_The_Wall/🫒_the_great_nudge_of_2025.md)
+      - [**🥨_Bread_No_Roses/**](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/)
+        - [`README.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/README.md)
+        - [`🍉_hunger_strikes_in_2025.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/🍉_hunger_strikes_in_2025.md)
+        - [`🥔_why_states_starve_us_when_there_is_enough.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/🥔_why_states_starve_us_when_there_is_enough.md)
+        - [`🫛_why_community_gardens_get_precrimed.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/🫛_why_community_gardens_get_precrimed.md)
     - [`README.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/README.md)
     - [`☁️_the_literality_of_retirement_dreams.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/☁️_the_literality_of_retirement_dreams.md)
     - [`🌀_good_code_is_lean_code.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🌀_good_code_is_lean_code.md)
