@@ -1,5 +1,5 @@
 # 🥀 Bella Ciao  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *How a song about labour, land, and resistance became a warning that power keeps forgetting.*  
 
 ---
@@ -213,4 +213,4 @@ It contributes cultural–historical analysis on how songs rooted in agricultura
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
