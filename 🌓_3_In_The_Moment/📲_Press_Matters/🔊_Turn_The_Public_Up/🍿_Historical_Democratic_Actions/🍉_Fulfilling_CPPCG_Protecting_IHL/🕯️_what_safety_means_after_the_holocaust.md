@@ -1,5 +1,5 @@
 # 🕯️ What Safety Means After the Holocaust  
-**First created:** 2026-01-02 | **Last updated:** 2026-01-04  
+**First created:** 2026-01-02 | **Last updated:** 2026-08-03  
 *Why post-genocide societies struggle to distinguish protection from dominance.*
 
 ---
@@ -219,4 +219,4 @@ It exists to clarify how post-genocide fear can be weaponised into dominance, ho
 *Fear is understandable.*  
 *But fear cannot be allowed to govern who is protected.*
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-08-03_
