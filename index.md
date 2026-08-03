@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-03 15:38:26 UTC_
+_Generated on 2026-08-03 15:40:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1048,7 +1048,6 @@ _Generated on 2026-08-03 15:38:26 UTC_
             - [`🧟‍♀️_frankenstack_explainer_for_survivors.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_explainer_for_survivors.md)
             - [`🧟‍♀️_frankenstack_explainer_neurodivergent.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_explainer_neurodivergent.md)
             - [`🧬_data_twinning_exploitation_in_frankenstacks.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧬_data_twinning_exploitation_in_frankenstacks.md)
-          - [`🔮_post_legitimacy_landscape_2026_2030.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔮_post_legitimacy_landscape_2026_2030.md)
           - [`🕯️_the_moment_people_let_go.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🕯️_the_moment_people_let_go.md)
           - [`🕳️_the_leverage_economy.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🕳️_the_leverage_economy.md)
           - [`🕸️_harm_containment.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🕸️_harm_containment.md)
@@ -1058,7 +1057,6 @@ _Generated on 2026-08-03 15:38:26 UTC_
           - [`🧱_predation_logic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧱_predation_logic.md)
           - [`🩸_the_long_fuse_2010_2017.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🩸_the_long_fuse_2010_2017.md)
           - [`🩻_the_structural_revelation_2018_2022.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🩻_the_structural_revelation_2018_2022.md)
-          - [`🪨_male_survivor_silence.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🪨_male_survivor_silence.md)
       - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/)
         - [**🌱_Invest_Appropriately/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/README.md)
@@ -4867,8 +4865,10 @@ _Generated on 2026-08-03 15:38:26 UTC_
         - [`📦_posthumous_truth.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/📦_posthumous_truth.md)
         - [`🔗_chains_of_silence.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔗_chains_of_silence.md)
         - [`🔥_pink_pussyhats_the_backlash_cycle.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔥_pink_pussyhats_the_backlash_cycle.md)
+        - [`🔮_post_legitimacy_landscape_2026_2030.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔮_post_legitimacy_landscape_2026_2030.md)
         - [`🦤_predation_logic_vulnerability_power_targeting.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🦤_predation_logic_vulnerability_power_targeting.md)
         - [`🩸_moral_parasitism.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🩸_moral_parasitism.md)
+        - [`🪨_male_survivor_silence.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🪨_male_survivor_silence.md)
         - [`🫤_why_elite_denials_dont_work_anymore.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🫤_why_elite_denials_dont_work_anymore.md)
         - [`🫧_the_bleurgh_principle.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🫧_the_bleurgh_principle.md)
       - [**💔_Against_The_Wall/**](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/💔_Against_The_Wall/)
