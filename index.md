@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-03 12:29:18 UTC_
+_Generated on 2026-08-03 12:34:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3629,7 +3629,6 @@ _Generated on 2026-08-03 12:29:18 UTC_
       - [`🧪_repro_tests_playbook.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/🧪_repro_tests_playbook.md)
       - [`🪬_tos_non_compliance_as_stealthing.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/🪬_tos_non_compliance_as_stealthing.md)
     - [`README.md`](Disruption_Kit/Survivor_Tools/README.md)
-    - [`🧭_ordinary_seo_volatility_vs_pressure_patterns.md`](Disruption_Kit/Survivor_Tools/🧭_ordinary_seo_volatility_vs_pressure_patterns.md)
     - [`🧰_early_warning_signs_of_crawl_layer_pressure.md`](Disruption_Kit/Survivor_Tools/🧰_early_warning_signs_of_crawl_layer_pressure.md)
     - [`🧰_how_to_foia_sar_uk_embassies.md`](Disruption_Kit/Survivor_Tools/🧰_how_to_foia_sar_uk_embassies.md)
     - [`🧰_how_to_respond_to_overdiagnosis_claims.md`](Disruption_Kit/Survivor_Tools/🧰_how_to_respond_to_overdiagnosis_claims.md)
@@ -5948,6 +5947,7 @@ _Generated on 2026-08-03 12:29:18 UTC_
       - [`🧬_heat_budget_for_the_long_game.md`](🌔_4_Small_Steps/.🌱_Still_Growing/Survivor_Tools/🧬_heat_budget_for_the_long_game.md)
       - [`🧬_honeytrap_mechanics.md`](🌔_4_Small_Steps/.🌱_Still_Growing/Survivor_Tools/🧬_honeytrap_mechanics.md)
       - [`🧬_we_dont_want_your_cells_we_want_each_other.md`](🌔_4_Small_Steps/.🌱_Still_Growing/Survivor_Tools/🧬_we_dont_want_your_cells_we_want_each_other.md)
+      - [`🧭_ordinary_seo_volatility_vs_pressure_patterns.md`](🌔_4_Small_Steps/.🌱_Still_Growing/Survivor_Tools/🧭_ordinary_seo_volatility_vs_pressure_patterns.md)
       - [`🪷_name_reclamation_protocol.md`](🌔_4_Small_Steps/.🌱_Still_Growing/Survivor_Tools/🪷_name_reclamation_protocol.md)
       - [`🫥_presumption_as_erasure.md`](🌔_4_Small_Steps/.🌱_Still_Growing/Survivor_Tools/🫥_presumption_as_erasure.md)
     - [`README.md`](🌔_4_Small_Steps/.🌱_Still_Growing/README.md)
