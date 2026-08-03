@@ -1,5 +1,5 @@
 # 🪳🕶️ Mera Naam Cockroach Hai  
-**First created:** 2026-07-26 | **Last updated:** 2026-07-27  
+**First created:** 2026-07-26 | **Last updated:** 2026-08-03  
 *How an examination grievance became a humorous, distributed public movement — and how a public decides whether government response has made an intolerable system tolerable.*
 
 ---
@@ -278,7 +278,7 @@ student movements, examination justice, public grievance, political humour, meme
 
 ## 🏮 Footer  
 
-*Mera Naam Cockroach Hai* is a living case-study node of the **Polaris Protocol**.  
+*🪳🕶️ Mera Naam Cockroach Hai* is a living case-study node of the **Polaris Protocol**.  
 It traces how an examination grievance became a culturally legible public movement and uses the resulting government response to examine concession, tolerability, implementation and political re-entry.
 
 > 📡 Cross-references:
@@ -291,4 +291,4 @@ It traces how an examination grievance became a culturally legible public moveme
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-27_
+_Last updated: 2026-08-03_
