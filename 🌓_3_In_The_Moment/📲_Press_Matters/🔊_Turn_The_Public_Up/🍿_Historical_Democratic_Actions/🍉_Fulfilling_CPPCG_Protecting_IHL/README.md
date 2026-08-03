@@ -1,5 +1,5 @@
 # 🍉 Fulfilling the CPPCG & Protecting IHL  
-**First created:** 2026-01-02 | **Last updated:** 2026-01-02  
+**First created:** 2026-01-02 | **Last updated:** 2026-08-03  
 *Orientation node for genocide-prevention obligations, democratic dissent, and international humanitarian law*  
 
 ---
@@ -257,4 +257,4 @@ It contributes to the archive by situating democratic dissent, institutional beh
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-02_
+_Last updated: 2026-08-03_
