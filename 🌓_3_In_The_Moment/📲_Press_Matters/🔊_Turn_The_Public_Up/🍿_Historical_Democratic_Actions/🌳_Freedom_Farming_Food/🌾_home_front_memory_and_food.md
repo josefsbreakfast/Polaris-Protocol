@@ -1,5 +1,5 @@
 # 🌾 Home Front Memory and Food  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *Why wartime food memory never expired — and why farming still sits outside normal political logic.*  
 
 ---
@@ -156,4 +156,4 @@ It documents how wartime framing of agriculture continues to shape public legiti
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
