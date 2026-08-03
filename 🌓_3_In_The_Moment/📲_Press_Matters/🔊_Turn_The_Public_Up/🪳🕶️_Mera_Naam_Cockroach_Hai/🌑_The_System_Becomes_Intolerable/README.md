@@ -1,5 +1,5 @@
 # 🌑 The System Becomes Intolerable  
-**First created:** 2026-07-26 | **Last updated:** 2026-07-27  
+**First created:** 2026-07-26 | **Last updated:** 2026-08-03  
 *How accumulated pressure, institutional failure and unequal harm crossed the threshold from private difficulty into shared political grievance.*  
 
 ---
@@ -936,4 +936,4 @@ It examines the conditions under which private educational harm became recognisa
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-27_
+_Last updated: 2026-08-03_
