@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-03 13:55:14 UTC_
+_Generated on 2026-08-03 14:09:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1032,10 +1032,6 @@ _Generated on 2026-08-03 13:55:14 UTC_
         - [`🧿_the_british_d_notice_reflex.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/⚓️_Under_The_Sea/🧿_the_british_d_notice_reflex.md)
         - [`🪖_morale_is_not_automatically_propaganda.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/⚓️_Under_The_Sea/🪖_morale_is_not_automatically_propaganda.md)
       - [**🍿_Historical_Democratic_Actions/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/)
-        - [**🌳_Freedom_Farming_Food/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/)
-          - [`🧾_the_tax_collector_problem.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🧾_the_tax_collector_problem.md)
-          - [`🪵_land_without_stewardship.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🪵_land_without_stewardship.md)
-          - [`🫏_stewardship_without_sovereignty.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🫏_stewardship_without_sovereignty.md)
         - [**🍉_Fulfilling_CPPCG_Protecting_IHL/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/README.md)
           - [`🌀_when_prevention_looks_like_threat.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🌀_when_prevention_looks_like_threat.md)
@@ -1097,7 +1093,6 @@ _Generated on 2026-08-03 13:55:14 UTC_
           - [`🍉_hunger_strikes_in_2025.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/🍉_hunger_strikes_in_2025.md)
           - [`🥔_why_states_starve_us_when_there_is_enough.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/🥔_why_states_starve_us_when_there_is_enough.md)
           - [`🫛_why_community_gardens_get_precrimed.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🥨_Bread_No_Roses/🫛_why_community_gardens_get_precrimed.md)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/README.md)
       - [**💸_Money_Listens/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/)
         - [**🌱_Invest_Appropriately/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🌱_Invest_Appropriately/README.md)
@@ -5454,6 +5449,10 @@ _Generated on 2026-08-03 13:55:14 UTC_
           - [`🧠_the_moral_floor_of_taxation.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🧠_the_moral_floor_of_taxation.md)
           - [`🧨_where_revolutions_actually_come_from.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🧨_where_revolutions_actually_come_from.md)
           - [`🧩_bringing_farmers_environment_and_public_together.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🧩_bringing_farmers_environment_and_public_together.md)
+          - [`🧾_the_tax_collector_problem.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🧾_the_tax_collector_problem.md)
+          - [`🪵_land_without_stewardship.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🪵_land_without_stewardship.md)
+          - [`🫏_stewardship_without_sovereignty.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🫏_stewardship_without_sovereignty.md)
+        - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/README.md)
       - [**🪳🕶️_Mera_Naam_Cockroach_Hai/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/)
         - [**🌑_The_System_Becomes_Intolerable/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌑_The_System_Becomes_Intolerable/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌑_The_System_Becomes_Intolerable/README.md)
