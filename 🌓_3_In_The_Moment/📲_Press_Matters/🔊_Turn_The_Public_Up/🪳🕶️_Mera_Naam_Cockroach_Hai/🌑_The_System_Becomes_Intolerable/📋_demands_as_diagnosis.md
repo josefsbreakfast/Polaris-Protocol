@@ -1,5 +1,5 @@
 # 📋 Demands As Diagnosis  
-**First created:** 2026-07-27 | **Last updated:** 2026-08-02  
+**First created:** 2026-07-27 | **Last updated:** 2026-08-03  
 *How the Cockroach Janta Party’s immediate demands, public language and formal reform charter identified different forms of political, coercive, material and institutional harm.*  
 
 ---
@@ -1967,4 +1967,4 @@ It records how the Cockroach movement translated examination failure, coercive r
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-02_
+_Last updated: 2026-08-03_
