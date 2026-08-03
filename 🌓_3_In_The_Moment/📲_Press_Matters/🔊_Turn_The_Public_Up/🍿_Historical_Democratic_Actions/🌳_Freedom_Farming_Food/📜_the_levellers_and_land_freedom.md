@@ -1,5 +1,5 @@
 # 📜 The Levellers and Land Freedom  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *Why land, food, and political voice were never separate questions — and why that argument keeps returning.*  
 
 ---
@@ -151,4 +151,4 @@ It contributes historical analysis on why land access and food security function
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
