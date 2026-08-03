@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-03 15:33:04 UTC_
+_Generated on 2026-08-03 15:34:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1048,8 +1048,6 @@ _Generated on 2026-08-03 15:33:04 UTC_
             - [`🧟‍♀️_frankenstack_explainer_for_survivors.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_explainer_for_survivors.md)
             - [`🧟‍♀️_frankenstack_explainer_neurodivergent.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_explainer_neurodivergent.md)
             - [`🧬_data_twinning_exploitation_in_frankenstacks.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧬_data_twinning_exploitation_in_frankenstacks.md)
-          - [`🐈‍⬛_diy_pussy_hat_archive.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐈‍⬛_diy_pussy_hat_archive.md)
-          - [`📦_posthumous_truth.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/📦_posthumous_truth.md)
           - [`🔗_chains_of_silence.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔗_chains_of_silence.md)
           - [`🔥_pink_pussyhats_the_backlash_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔥_pink_pussyhats_the_backlash_cycle.md)
           - [`🔮_post_legitimacy_landscape_2026_2030.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔮_post_legitimacy_landscape_2026_2030.md)
@@ -4868,6 +4866,8 @@ _Generated on 2026-08-03 15:33:04 UTC_
         - [`⚖️_reputation_after_revelation.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_reputation_after_revelation.md)
         - [`🌍_crisis_absorption_logic.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🌍_crisis_absorption_logic.md)
         - [`🌪️_the_legitamacy_crisis_era_2023_2025.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🌪️_the_legitamacy_crisis_era_2023_2025.md)
+        - [`🐈‍⬛_diy_pussy_hat_archive.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐈‍⬛_diy_pussy_hat_archive.md)
+        - [`📦_posthumous_truth.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/📦_posthumous_truth.md)
         - [`🦤_predation_logic_vulnerability_power_targeting.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🦤_predation_logic_vulnerability_power_targeting.md)
         - [`🩸_moral_parasitism.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🩸_moral_parasitism.md)
         - [`🫧_the_bleurgh_principle.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🫧_the_bleurgh_principle.md)
