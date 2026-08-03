@@ -1,5 +1,5 @@
 # 🕸️ Food as National Infrastructure  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *Why food should be governed like power, water, and transport — not like a discretionary market.*  
 
 ---
@@ -182,4 +182,4 @@ It contributes a reframing lens that aligns historical memory, public intuition,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
