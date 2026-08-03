@@ -1,5 +1,5 @@
 # 🍞 Use-Value vs Hoarding  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *Why the public distinguishes between wealth that feeds people and wealth that merely accumulates.*  
 
 ---
@@ -154,4 +154,4 @@ It contributes analytical clarity on why the public distinguishes between produc
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
