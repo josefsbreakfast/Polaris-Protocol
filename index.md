@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-03 14:09:39 UTC_
+_Generated on 2026-08-03 15:03:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5428,6 +5428,7 @@ _Generated on 2026-08-03 14:09:39 UTC_
       - [**🍿_Historical_Democratic_Actions/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/)
         - [**🌳_Freedom_Farming_Food/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/README.md)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/notes.txt)
           - [`✂️_enclosure_as_efficiency_theatre.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/✂️_enclosure_as_efficiency_theatre.md)
           - [`🌱_land_trusts_custodianship_models.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌱_land_trusts_custodianship_models.md)
           - [`🌳_food_is_not_optional.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🌳_food_is_not_optional.md)
