@@ -1,5 +1,5 @@
 # 🦠 Farming Under Uninsurable Catastrophe  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *How disease policy, compulsory culls, and insurance failure force rational people into crisis behaviour.*  
 
 ---
@@ -181,4 +181,4 @@ It contributes structural analysis on how misallocated risk in disease policy de
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
