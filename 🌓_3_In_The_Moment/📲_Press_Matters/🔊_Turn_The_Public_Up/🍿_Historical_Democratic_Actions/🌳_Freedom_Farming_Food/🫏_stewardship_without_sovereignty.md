@@ -1,5 +1,5 @@
 # 🫏 Stewardship Without Sovereignty  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *Why demanding care without control reliably breaks systems — and why farming keeps being asked to do exactly that.*  
 
 ---
@@ -180,4 +180,4 @@ It contributes structural analysis on why assigning care without control reliabl
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
