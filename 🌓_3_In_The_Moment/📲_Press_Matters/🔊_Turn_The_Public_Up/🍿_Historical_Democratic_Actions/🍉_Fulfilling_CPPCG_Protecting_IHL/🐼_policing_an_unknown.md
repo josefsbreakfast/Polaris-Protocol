@@ -1,5 +1,5 @@
 # 🐼 Policing an Unknown  
-**First created:** 2026-01-02 | **Last updated:** 2026-01-03  
+**First created:** 2026-01-02 | **Last updated:** 2026-08-03  
 *How overreach happens without villains — when uncertainty hardens into authority.*  
 
 ---
@@ -336,4 +336,4 @@ It explains how ambiguity, precedent pressure, and misaligned leadership can dri
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-03_
+_Last updated: 2026-08-03_
