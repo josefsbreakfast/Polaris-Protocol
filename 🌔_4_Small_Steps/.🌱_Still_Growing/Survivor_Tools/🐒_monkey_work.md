@@ -1,4 +1,4 @@
-# 🧮 Monkey Work Node  
+# 🐒 Monkey Work Node  
 **First created:** 2025-10-05 | **Last updated:** 2025-10-05  
 *Low-effort, stabilising maintenance mode for when deep work isn’t possible.*
 
