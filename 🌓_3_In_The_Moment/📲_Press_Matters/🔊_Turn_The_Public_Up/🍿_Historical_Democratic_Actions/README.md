@@ -1,5 +1,5 @@
 # 🍿 Historical Democratic Actions  
-**First created:** 2025-11-12 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-03  
 *Movements that bent history, ruptured impunity, and forced elites to reckon with the public.*
 
 ---
@@ -98,4 +98,4 @@ It documents the movements that forced visibility into systems built on silence,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-08-03_
