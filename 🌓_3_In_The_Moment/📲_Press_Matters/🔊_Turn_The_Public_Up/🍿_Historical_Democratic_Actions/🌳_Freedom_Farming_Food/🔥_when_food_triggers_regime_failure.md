@@ -1,5 +1,5 @@
 # 🔥 When Food Triggers Regime Failure  
-**First created:** 2025-12-22 | **Last updated:** 2026-07-09  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *Why governments often survive inequality, corruption, and repression — but not food system misalignment.*
 
 ---
@@ -177,4 +177,4 @@ It contributes pattern-level analysis on why food system mismanagement accelerat
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-09_
+_Last updated: 2026-08-03_
