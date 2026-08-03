@@ -1,5 +1,5 @@
 # 💊 Antibiotics as Crisis Adaptation  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *Why practices condemned as unethical are often rational responses to uninsurable risk.*  
 
 ---
@@ -143,4 +143,4 @@ It contributes structural analysis on why antibiotic reliance in farming is a pr
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
