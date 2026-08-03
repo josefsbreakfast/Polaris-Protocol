@@ -1,5 +1,5 @@
 # 🌀 When Prevention Looks Like Threat  
-**First created:** 2026-01-02 | **Last updated:** 2026-01-03  
+**First created:** 2026-01-02 | **Last updated:** 2026-08-03  
 *How genocide-prevention behaviour is misrecognised as extremism under institutional pressure.*  
 
 ---
@@ -297,4 +297,4 @@ It contributes by naming a repeatable failure mode that appears when genocide-pr
 *Survivor authorship is sovereign.*  
 *Containment is never neutral.*  
 
-_Last updated: 2026-01-03_
+_Last updated: 2026-08-03_
