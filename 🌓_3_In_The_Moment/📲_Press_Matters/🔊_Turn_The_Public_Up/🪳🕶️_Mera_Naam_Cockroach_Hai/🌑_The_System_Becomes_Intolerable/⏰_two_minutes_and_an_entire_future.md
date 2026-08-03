@@ -1,5 +1,5 @@
 # ⏰ Two Minutes And An Entire Future  
-**First created:** 2026-07-27 | **Last updated:** 2026-07-27**  
+**First created:** 2026-07-27 | **Last updated:** 2026-08-03  
 *How a tiny delay at a high-stakes examination gate can become complete exclusion from a scarce educational future.*
 
 ---
@@ -1141,4 +1141,4 @@ It examines how a small non-academic delay can become complete exclusion from a 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-27_
+_Last updated: 2026-08-03_
