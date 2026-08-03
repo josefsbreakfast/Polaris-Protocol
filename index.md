@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-03 13:18:31 UTC_
+_Generated on 2026-08-03 13:23:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3601,13 +3601,6 @@ _Generated on 2026-08-03 13:18:31 UTC_
   - [**Survivor_Tools/**](Disruption_Kit/Survivor_Tools/)
     - [**📱_Digital_But_Make_It_Secure/**](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/)
       - [`README.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/README.md)
-      - [`⚙️_verification_and_watermarking_standards.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/⚙️_verification_and_watermarking_standards.md)
-      - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/⚡_rapid_response_forensic_protocol_first_24_hours.md)
-      - [`🎙️_cloneproof_protocol.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🎙️_cloneproof_protocol.md)
-      - [`🎣_greedy_crawler_or_normal_fishing.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🎣_greedy_crawler_or_normal_fishing.md)
-      - [`🎣_how_to_spot_greedy_crawlers.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🎣_how_to_spot_greedy_crawlers.md)
-      - [`📋_dual_officer_clarification_request.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📋_dual_officer_clarification_request.md)
-      - [`📋_ico_silence_recovery_checklist.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📋_ico_silence_recovery_checklist.md)
       - [`📋_rectification_notice_multi_agency.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📋_rectification_notice_multi_agency.md)
       - [`📜_ico_ready_contradiction_framing.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_ico_ready_contradiction_framing.md)
       - [`📜_incomplete_search_behaviour_diagnostics.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_incomplete_search_behaviour_diagnostics.md)
@@ -3615,10 +3608,7 @@ _Generated on 2026-08-03 13:18:31 UTC_
       - [`📨_foi_safeguards_against_allied_cybersecurity_abuse.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📨_foi_safeguards_against_allied_cybersecurity_abuse.md)
       - [`📮_osa_flag_clarification_request.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📮_osa_flag_clarification_request.md)
       - [`📱_app_security_basics_for_survivors.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📱_app_security_basics_for_survivors.md)
-      - [`🗂️_data_sharing_trace_mod_or_contractor_links.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🗂️_data_sharing_trace_mod_or_contractor_links.md)
       - [`🗣️_how_to_detect_if_your_voice_has_been_used_in_a_dataset.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🗣️_how_to_detect_if_your_voice_has_been_used_in_a_dataset.md)
-      - [`🧿_auditing_your_own_phone_for_hidden_surveillance.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🧿_auditing_your_own_phone_for_hidden_surveillance.md)
-      - [`🪐_verifying_app_encryption_and_privacy_claims.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/🪐_verifying_app_encryption_and_privacy_claims.md)
     - [**🪬_ToS_Non_Compliance_As_Stealthing/**](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/)
       - [`README.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/README.md)
       - [`⚖️_governance_levers.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/⚖️_governance_levers.md)
@@ -5949,6 +5939,17 @@ _Generated on 2026-08-03 13:18:31 UTC_
       - [`🪪_codename_patronymics.md`](🌔_4_Small_Steps/.🌱_Still_Growing/Survivor_Tools/🪪_codename_patronymics.md)
       - [`🪷_name_reclamation_protocol.md`](🌔_4_Small_Steps/.🌱_Still_Growing/Survivor_Tools/🪷_name_reclamation_protocol.md)
       - [`🫥_presumption_as_erasure.md`](🌔_4_Small_Steps/.🌱_Still_Growing/Survivor_Tools/🫥_presumption_as_erasure.md)
+    - [**📱_Digital_But_Make_It_Secure/**](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/)
+      - [`⚙️_verification_and_watermarking_standards.md`](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/⚙️_verification_and_watermarking_standards.md)
+      - [`⚡_rapid_response_forensic_protocol_first_24_hours.md`](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/⚡_rapid_response_forensic_protocol_first_24_hours.md)
+      - [`🎙️_cloneproof_protocol.md`](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/🎙️_cloneproof_protocol.md)
+      - [`🎣_greedy_crawler_or_normal_fishing.md`](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/🎣_greedy_crawler_or_normal_fishing.md)
+      - [`🎣_how_to_spot_greedy_crawlers.md`](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/🎣_how_to_spot_greedy_crawlers.md)
+      - [`📋_dual_officer_clarification_request.md`](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/📋_dual_officer_clarification_request.md)
+      - [`📋_ico_silence_recovery_checklist.md`](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/📋_ico_silence_recovery_checklist.md)
+      - [`🗂️_data_sharing_trace_mod_or_contractor_links.md`](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/🗂️_data_sharing_trace_mod_or_contractor_links.md)
+      - [`🧿_auditing_your_own_phone_for_hidden_surveillance.md`](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/🧿_auditing_your_own_phone_for_hidden_surveillance.md)
+      - [`🪐_verifying_app_encryption_and_privacy_claims.md`](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/🪐_verifying_app_encryption_and_privacy_claims.md)
     - [`README.md`](🌔_4_Small_Steps/.🌱_Still_Growing/README.md)
     - [`🧭_trail_hunting_timeline_staging_how_to_move_forward.md`](🌔_4_Small_Steps/.🌱_Still_Growing/🧭_trail_hunting_timeline_staging_how_to_move_forward.md)
     - [`🧮_forensic_transparency_toolkit.md`](🌔_4_Small_Steps/.🌱_Still_Growing/🧮_forensic_transparency_toolkit.md)
