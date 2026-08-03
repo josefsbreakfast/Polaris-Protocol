@@ -1,5 +1,5 @@
 # 🌳 Freedom, Farming, and Food  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *How land, food production, and democratic legitimacy repeatedly collide — and why the public notices.*  
 
 ---
@@ -102,4 +102,4 @@ It contributes long-memory analysis on how food systems act as a stabilising —
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
