@@ -1,5 +1,5 @@
 # 🌱 Land Trusts & Custodianship Models  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *How land can be protected for use without triggering expropriation panic — and why this space is consistently ignored.*  
 
 ---
@@ -166,4 +166,4 @@ It contributes design-level analysis on how land can be governed for continuity,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
