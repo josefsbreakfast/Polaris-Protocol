@@ -1,5 +1,5 @@
 # 🥖 Food, Taxation, and Revolution  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *Why states survive inequality but rarely survive food pressure combined with extraction.*  
 
 ---
@@ -170,4 +170,4 @@ It contributes comparative historical analysis on how food systems constrain tax
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
