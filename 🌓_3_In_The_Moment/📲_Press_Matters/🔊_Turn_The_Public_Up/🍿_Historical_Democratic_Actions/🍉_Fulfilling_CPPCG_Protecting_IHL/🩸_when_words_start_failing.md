@@ -1,5 +1,5 @@
 # 🩸 When Words Start Failing  
-**First created:** 2026-01-02 | **Last updated:** 2026-01-04  
+**First created:** 2026-01-02 | **Last updated:** 2026-08-03  
 *Where language fractures under moral load — and law begins to drift.*
 
 ---
@@ -336,4 +336,4 @@ and why safeguarding meaning is a core requirement of genocide prevention.
 
 *Survivorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-08-03_
