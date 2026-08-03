@@ -1,5 +1,5 @@
 # 🪵 Land Without Stewardship  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *How inherited title detached from use-value destabilises food, ecology, and legitimacy.*  
 
 ---
@@ -154,4 +154,4 @@ It contributes structural analysis on how land governance divorced from use-valu
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
