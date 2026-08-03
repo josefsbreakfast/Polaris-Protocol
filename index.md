@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-03 12:25:41 UTC_
+_Generated on 2026-08-03 12:29:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3629,7 +3629,6 @@ _Generated on 2026-08-03 12:25:41 UTC_
       - [`🧪_repro_tests_playbook.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/🧪_repro_tests_playbook.md)
       - [`🪬_tos_non_compliance_as_stealthing.md`](Disruption_Kit/Survivor_Tools/🪬_ToS_Non_Compliance_As_Stealthing/🪬_tos_non_compliance_as_stealthing.md)
     - [`README.md`](Disruption_Kit/Survivor_Tools/README.md)
-    - [`🧬_we_dont_want_your_cells_we_want_each_other.md`](Disruption_Kit/Survivor_Tools/🧬_we_dont_want_your_cells_we_want_each_other.md)
     - [`🧭_ordinary_seo_volatility_vs_pressure_patterns.md`](Disruption_Kit/Survivor_Tools/🧭_ordinary_seo_volatility_vs_pressure_patterns.md)
     - [`🧰_early_warning_signs_of_crawl_layer_pressure.md`](Disruption_Kit/Survivor_Tools/🧰_early_warning_signs_of_crawl_layer_pressure.md)
     - [`🧰_how_to_foia_sar_uk_embassies.md`](Disruption_Kit/Survivor_Tools/🧰_how_to_foia_sar_uk_embassies.md)
@@ -5575,6 +5574,7 @@ _Generated on 2026-08-03 12:25:41 UTC_
         - [`factcheck_notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/factcheck_notes.txt)
         - [`🪳_the_cockroach_at_a_glance.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🪳_the_cockroach_at_a_glance.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/README.md)
+      - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/notes.txt)
     - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/README.md)
   - [**🛰️_OSINT_Field_Operations/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/)
     - [**🍉_Academic_Liberty/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/)
@@ -5947,6 +5947,7 @@ _Generated on 2026-08-03 12:25:41 UTC_
       - [`🧬_cloneproof_training_set_mapping.md`](🌔_4_Small_Steps/.🌱_Still_Growing/Survivor_Tools/🧬_cloneproof_training_set_mapping.md)
       - [`🧬_heat_budget_for_the_long_game.md`](🌔_4_Small_Steps/.🌱_Still_Growing/Survivor_Tools/🧬_heat_budget_for_the_long_game.md)
       - [`🧬_honeytrap_mechanics.md`](🌔_4_Small_Steps/.🌱_Still_Growing/Survivor_Tools/🧬_honeytrap_mechanics.md)
+      - [`🧬_we_dont_want_your_cells_we_want_each_other.md`](🌔_4_Small_Steps/.🌱_Still_Growing/Survivor_Tools/🧬_we_dont_want_your_cells_we_want_each_other.md)
       - [`🪷_name_reclamation_protocol.md`](🌔_4_Small_Steps/.🌱_Still_Growing/Survivor_Tools/🪷_name_reclamation_protocol.md)
       - [`🫥_presumption_as_erasure.md`](🌔_4_Small_Steps/.🌱_Still_Growing/Survivor_Tools/🫥_presumption_as_erasure.md)
     - [`README.md`](🌔_4_Small_Steps/.🌱_Still_Growing/README.md)
