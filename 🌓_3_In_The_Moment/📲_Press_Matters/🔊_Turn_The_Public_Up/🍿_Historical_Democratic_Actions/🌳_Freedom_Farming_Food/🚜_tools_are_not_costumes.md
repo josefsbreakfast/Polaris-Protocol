@@ -1,5 +1,5 @@
 # 🚜 Tools Are Not Costumes  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *When the state criminalises the means of participation, it isn’t “public safety” — it’s civic filtering.*  
 
 ---
@@ -165,4 +165,4 @@ It documents a recurring containment method: restricting civic participation by 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
