@@ -1,5 +1,5 @@
 # 🌳 Food Is Not Optional  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *Why food collapses normal class logic — and why states keep forgetting this.*  
 
 ---
@@ -156,4 +156,4 @@ It contributes pattern-level analysis on how food production constrains governan
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2026-08-03_
