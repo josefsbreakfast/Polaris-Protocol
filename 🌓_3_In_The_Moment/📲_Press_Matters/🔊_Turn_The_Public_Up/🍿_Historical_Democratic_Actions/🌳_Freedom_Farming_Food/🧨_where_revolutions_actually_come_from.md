@@ -1,5 +1,5 @@
 # 🧨 Where Revolutions Actually Come From  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *Why successful revolutionary movements depend on cross-class bridges — and why their absence matters.*  
 
 ---
@@ -232,4 +232,4 @@ It contributes historical and analytical clarity on the structural conditions th
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
