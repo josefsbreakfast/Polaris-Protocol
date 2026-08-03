@@ -1,5 +1,5 @@
 # 🔥 Dissent as Diagnostic Evidence  
-**First created:** 2026-01-02 | **Last updated:** 2026-01-03  
+**First created:** 2026-01-02 | **Last updated:** 2026-08-03  
 *When systems misread warning signals as threats.*
 
 ---
@@ -379,4 +379,4 @@ It maps how dissent functions as an early signal under conditions of moral, lega
 > - [🩸 Bodily Risk as Political Speech](../../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🩸_bodily_risk_as_political_speech.md)  
 
 
-_Last updated: 2026-01-03_
+_Last updated: 2026-08-03_
