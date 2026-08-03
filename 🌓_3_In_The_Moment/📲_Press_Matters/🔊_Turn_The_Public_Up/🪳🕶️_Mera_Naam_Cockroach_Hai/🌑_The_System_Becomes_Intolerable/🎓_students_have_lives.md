@@ -1,5 +1,5 @@
 # 🎓 Students Have Lives  
-**First created:** 2026-07-27 | **Last updated:** 2026-07-27  
+**First created:** 2026-07-27 | **Last updated:** 2026-08-03  
 *Why examination candidates are young adults with bodies, families, work, grief, disability and responsibilities—not abstract units moving through an allocation system.*
 
 ---
@@ -1258,4 +1258,4 @@ It examines what examination and allocation systems erase when they treat young 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-27_
+_Last updated: 2026-08-03_
