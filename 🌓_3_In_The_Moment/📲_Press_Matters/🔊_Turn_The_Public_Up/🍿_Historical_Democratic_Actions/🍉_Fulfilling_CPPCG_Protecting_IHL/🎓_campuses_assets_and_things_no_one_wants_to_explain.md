@@ -1,5 +1,5 @@
 # 🎓 Campuses, Assets, and Things No One Wants to Explain  
-**First created:** 2026-01-02 | **Last updated:** 2026-01-03  
+**First created:** 2026-01-02 | **Last updated:** 2026-08-03  
 *(Where universities quietly intersect with defence, jurisdiction, and securitisation. Shhhh.)*
 
 ---
@@ -297,4 +297,4 @@ It documents how defence-adjacent infrastructure, jurisdictional ambiguity, and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-03_
+_Last updated: 2026-08-03_
