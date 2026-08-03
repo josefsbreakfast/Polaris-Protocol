@@ -1,5 +1,5 @@
 # 🛰️ The Immediate Crisis  
-**First created:** 2026-07-27 | **Last updated:** 2026-07-27  
+**First created:** 2026-07-27 | **Last updated:** 2026-08-03  
 *A factual spine for the examination crisis, political insult, public mobilisation and demands from which the Cockroach Janta Party’s street movement emerged.*
 
 ---
@@ -682,9 +682,43 @@ Sansad Chalo
 
 ---
 
-### June–July 2026 — Sonam Wangchuk’s Hunger Strike  
+### 28 June–23 July 2026 — Sonam Wangchuk’s Hunger Strike  
 
-- Sonam Wangchuk began a hunger strike that became a focal point of the wider movement.
+- Sonam Wangchuk joined the CJP protest at Jantar Mantar and began an indefinite hunger strike on 28 June.
+
+- Wangchuk was already nationally recognisable as:
+  - an education reformer;
+  - an engineer and innovator;
+  - a campaigner associated with Ladakh;
+  - a public figure widely connected in popular culture with Phunsukh Wangdu, Aamir Khan’s educational innovator in *3 Idiots*.
+
+- That last association requires careful wording.
+
+```text
+widely recognised public association
+≠ established biographical basis for the character
+```
+
+- Wangchuk has resisted being reduced to the label of a “real-life Phunsukh Wangdu.”
+- During the hunger strike, Aamir Khan also said that neither he nor the film’s writers had known about Wangchuk while making *3 Idiots* and rejected the claim that the character had been based on him.
+
+- The disputed attribution did not prevent the association from operating as public language.
+
+- Omi Vaidya, who played Chatur in *3 Idiots*, opened an appeal for Wangchuk with:
+
+> **“I don’t want Phunsukh Wangdu to die.”**
+
+- The appeal folded a familiar film about educational pressure back into a real movement about educational pressure.
+
+- It allowed audiences to recognise several things at once:
+  - the reformer associated with an imagined educational alternative;
+  - the physical danger created by the hunger strike;
+  - the film’s account of institutions waiting until a body is in crisis;
+  - the possibility that the public might again recognise the harm only when someone was close to death.
+
+- The comparison should not collapse Wangchuk into a fictional character.
+
+- Its significance is that *3 Idiots* had become part of the vocabulary through which the public was asked to understand his real bodily risk.
 
 - In South Asian political English, **hunger strike** carries a long history of:
   - moral witness;
@@ -692,11 +726,13 @@ Sansad Chalo
   - non-violent pressure;
   - refusal to allow administrative delay to remain abstract.
 
-- The strike lasted 26 days.
+- Wangchuk fasted for 26 days.
 
-- It increased pressure on the government and connected examination reform to a nationally recognisable public figure.
+- The strike increased pressure on the government and connected examination reform to a nationally recognisable public figure.
 
-- Wangchuk ended the fast following concerns about his health and after government engagement, while protesters continued to insist that the central demands had not yet been fully met.
+- Wangchuk ended the fast on 23 July after negotiations, concern about his health and assurances that education accountability would receive parliamentary attention.
+
+- Ending the fast did not establish that the movement’s demands had been fully implemented.
 
 ---
 
@@ -1046,7 +1082,7 @@ remedy failure
 
 ### Supporters And Political Actors  
 
-- Sonam Wangchuk.
+- Sonam Wangchuk — education reformer and hunger striker whose public association with *3 Idiots* became part of the movement’s wider cultural circulation.
 - Students’ organisations.
 - Parents and professionals.
 - Civil-society supporters.
@@ -1312,6 +1348,9 @@ script rendering
 - The movement demanded Dharmendra Pradhan’s resignation.
 - The CJP released a five-demand examination-reform charter on 15 July.
 - A major march towards Parliament was met by force.
+- Sonam Wangchuk fasted for 26 days in solidarity with the movement.
+- Omi Vaidya invoked the public association between Wangchuk and Phunsukh Wangdu while appealing for attention to the hunger strike.
+- Aamir Khan disputed the claim that Phunsukh Wangdu had been based on Wangchuk.
 - Government negotiations followed.
 - Dharmendra Pradhan resigned on 25 July.
 - Examination-reform measures were then announced.
@@ -1481,7 +1520,7 @@ The Cockroach Janta Party did not manufacture the examination grievance. It gave
 
 ## ✨ Stardust  
 
-NEET 2026, Cockroach Janta Party, Bharatiya Janata Party, CJP, BJP, political parody, Abhijeet Dipke, Main Bhi Cockroach, Janta, examination paper leaks, National Testing Agency, Jantar Mantar, student protests, Dharmendra Pradhan, Sonam Wangchuk, examination reform, candidates’ rights, protest language, Devanagari, Urdu script, Hindustani, code-switching
+NEET 2026, Cockroach Janta Party, Bharatiya Janata Party, CJP, BJP, political parody, Abhijeet Dipke, Main Bhi Cockroach, Janta, examination paper leaks, National Testing Agency, Jantar Mantar, student protests, Dharmendra Pradhan, Sonam Wangchuk, hunger strike, 3 Idiots, Phunsukh Wangdu, Omi Vaidya, cultural protest language, examination reform, candidates’ rights, protest language, Devanagari, Urdu script, Hindustani, code-switching
 
 ---
 
@@ -1493,6 +1532,7 @@ It records the chronology, actors, language, demands and evidentiary boundaries 
 > 📡 Cross-references:
 >
 > - [🌑 The System Becomes Intolerable](./README.md) — *how accumulated educational harm became a shared political grievance*  
+> - [🪔 The Pressure Can End In More Than One Way](./🪔_the_pressure_can_end_in_more_than_one_way.md) — *how the Wangchuk–Phunsukh Wangdu callback turned a familiar story about educational harm into live protest language*  
 > - [🎓 This Was Not Just A Bad Exam](./🎓_this_was_not_just_a_bad_exam.md) — *why examination failure redistributes rank and future opportunity*  
 > - [📋 Demands As Diagnosis](./📋_demands_as_diagnosis.md) — *how multilingual public language and formal demands identified different kinds of harm*  
 > - [🪳 The Cockroach At A Glance](../🪳_the_cockroach_at_a_glance.md) — *the cultural object through which the grievance became portable*  
@@ -1502,4 +1542,4 @@ It records the chronology, actors, language, demands and evidentiary boundaries 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-27_
+_Last updated: 2026-08-03_
