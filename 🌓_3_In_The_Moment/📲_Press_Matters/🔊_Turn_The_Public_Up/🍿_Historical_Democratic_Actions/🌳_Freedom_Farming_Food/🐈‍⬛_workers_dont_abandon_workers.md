@@ -1,5 +1,5 @@
 # 🐈‍⬛ Workers Don’t Abandon Workers  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *Why excluding farmers from “worker” politics was a strategic error — and how it enabled capture.*  
 
 ---
@@ -183,4 +183,4 @@ It contributes corrective analysis on how excluding food producers from worker s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
