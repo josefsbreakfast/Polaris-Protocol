@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-02 22:49:33 UTC_
+_Generated on 2026-08-03 10:41:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5224,6 +5224,7 @@ _Generated on 2026-08-02 22:49:33 UTC_
       - [`socialists_at_the_gc.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/socialists_at_the_gc.jpeg)
       - [`standard_issue_policy_man_printout.PNG`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/standard_issue_policy_man_printout.PNG)
       - [`that_signal_chat.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/that_signal_chat.jpeg)
+      - [`the_uncles_orc_1.PNG`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/the_uncles_orc_1.PNG)
       - [`tumblr_girl_tactics_001.PNG`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/tumblr_girl_tactics_001.PNG)
       - [`war_chat_cabinet_press_room.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/war_chat_cabinet_press_room.jpeg)
       - [`🤖_cybernetics_001.jpeg`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🦑_The_Real_Conspiracy/🤖_cybernetics_001.jpeg)
