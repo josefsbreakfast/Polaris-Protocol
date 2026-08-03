@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-03 15:03:48 UTC_
+_Generated on 2026-08-03 15:10:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1032,17 +1032,6 @@ _Generated on 2026-08-03 15:03:48 UTC_
         - [`🧿_the_british_d_notice_reflex.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/⚓️_Under_The_Sea/🧿_the_british_d_notice_reflex.md)
         - [`🪖_morale_is_not_automatically_propaganda.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/⚓️_Under_The_Sea/🪖_morale_is_not_automatically_propaganda.md)
       - [**🍿_Historical_Democratic_Actions/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/)
-        - [**🍉_Fulfilling_CPPCG_Protecting_IHL/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/)
-          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/README.md)
-          - [`🌀_when_prevention_looks_like_threat.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🌀_when_prevention_looks_like_threat.md)
-          - [`🎓_campuses_assets_and_things_no_one_wants_to_explain.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🎓_campuses_assets_and_things_no_one_wants_to_explain.md)
-          - [`🐼_policing_an_unknown.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🐼_policing_an_unknown.md)
-          - [`🔥_dissent_as_diagnostic_evidence.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🔥_dissent_as_diagnostic_evidence.md)
-          - [`🕯️_what_safety_means_after_the_holocaust.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🕯️_what_safety_means_after_the_holocaust.md)
-          - [`🗺️_cppcg_layers_who_carries_what.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🗺️_cppcg_layers_who_carries_what.md)
-          - [`🧬_why_it_is_easier_not_to_see_or_hear_or_speak.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🧬_why_it_is_easier_not_to_see_or_hear_or_speak.md)
-          - [`🩸_when_words_start_failing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🩸_when_words_start_failing.md)
-          - [`🫀_a_question_of_questions.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🫀_a_question_of_questions.md)
         - [**👾_Debugging_The_Men/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
           - [**🧬_Further_Potential_Male_Nonsense/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/)
             - [**Quick_Easy_Guides_Plain_Text/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/Quick_Easy_Guides_Plain_Text/)
@@ -5453,6 +5442,17 @@ _Generated on 2026-08-03 15:03:48 UTC_
           - [`🧾_the_tax_collector_problem.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🧾_the_tax_collector_problem.md)
           - [`🪵_land_without_stewardship.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🪵_land_without_stewardship.md)
           - [`🫏_stewardship_without_sovereignty.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🫏_stewardship_without_sovereignty.md)
+        - [**🍉_Fulfilling_CPPCG_Protecting_IHL/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/README.md)
+          - [`🌀_when_prevention_looks_like_threat.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🌀_when_prevention_looks_like_threat.md)
+          - [`🎓_campuses_assets_and_things_no_one_wants_to_explain.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🎓_campuses_assets_and_things_no_one_wants_to_explain.md)
+          - [`🐼_policing_an_unknown.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🐼_policing_an_unknown.md)
+          - [`🔥_dissent_as_diagnostic_evidence.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🔥_dissent_as_diagnostic_evidence.md)
+          - [`🕯️_what_safety_means_after_the_holocaust.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🕯️_what_safety_means_after_the_holocaust.md)
+          - [`🗺️_cppcg_layers_who_carries_what.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🗺️_cppcg_layers_who_carries_what.md)
+          - [`🧬_why_it_is_easier_not_to_see_or_hear_or_speak.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🧬_why_it_is_easier_not_to_see_or_hear_or_speak.md)
+          - [`🩸_when_words_start_failing.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🩸_when_words_start_failing.md)
+          - [`🫀_a_question_of_questions.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🫀_a_question_of_questions.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/README.md)
       - [**🪳🕶️_Mera_Naam_Cockroach_Hai/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/)
         - [**🌑_The_System_Becomes_Intolerable/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌑_The_System_Becomes_Intolerable/)
