@@ -1,5 +1,5 @@
 # 📉 Asset-Rich, Cash-Poor Farming  
-**First created:** 2025-12-22 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-03  
 *Why paper wealth breaks working farms — and why policy keeps pretending it doesn’t.*
 
 ---
@@ -182,4 +182,4 @@ It contributes structural analysis on how treating productive land as liquid wea
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-03_
