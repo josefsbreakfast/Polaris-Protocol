@@ -1,5 +1,5 @@
 # 🗺️ CPPCG Layers: Who Carries What  
-**First created:** 2026-01-02 | **Last updated:** 2026-01-06  
+**First created:** 2026-01-02 | **Last updated:** 2026-08-03  
 *Why genocide prevention fails when responsibility is misrouted.*
 
 ---
@@ -247,4 +247,4 @@ It exists to make prevention concrete, distributed, and actionable — and to sh
 *Prevention is not a baton to be passed upward.*  
 *It is a system that must function at every layer.*
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-03_
