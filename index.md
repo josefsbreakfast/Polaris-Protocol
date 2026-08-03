@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-03 13:23:00 UTC_
+_Generated on 2026-08-03 13:23:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3601,7 +3601,6 @@ _Generated on 2026-08-03 13:23:00 UTC_
   - [**Survivor_Tools/**](Disruption_Kit/Survivor_Tools/)
     - [**📱_Digital_But_Make_It_Secure/**](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/)
       - [`README.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/README.md)
-      - [`📋_rectification_notice_multi_agency.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📋_rectification_notice_multi_agency.md)
       - [`📜_ico_ready_contradiction_framing.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_ico_ready_contradiction_framing.md)
       - [`📜_incomplete_search_behaviour_diagnostics.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_incomplete_search_behaviour_diagnostics.md)
       - [`📜_tactical_contradiction_communication.md`](Disruption_Kit/Survivor_Tools/📱_Digital_But_Make_It_Secure/📜_tactical_contradiction_communication.md)
@@ -5947,6 +5946,7 @@ _Generated on 2026-08-03 13:23:00 UTC_
       - [`🎣_how_to_spot_greedy_crawlers.md`](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/🎣_how_to_spot_greedy_crawlers.md)
       - [`📋_dual_officer_clarification_request.md`](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/📋_dual_officer_clarification_request.md)
       - [`📋_ico_silence_recovery_checklist.md`](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/📋_ico_silence_recovery_checklist.md)
+      - [`📋_rectification_notice_multi_agency.md`](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/📋_rectification_notice_multi_agency.md)
       - [`🗂️_data_sharing_trace_mod_or_contractor_links.md`](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/🗂️_data_sharing_trace_mod_or_contractor_links.md)
       - [`🧿_auditing_your_own_phone_for_hidden_surveillance.md`](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/🧿_auditing_your_own_phone_for_hidden_surveillance.md)
       - [`🪐_verifying_app_encryption_and_privacy_claims.md`](🌔_4_Small_Steps/.🌱_Still_Growing/📱_Digital_But_Make_It_Secure/🪐_verifying_app_encryption_and_privacy_claims.md)
