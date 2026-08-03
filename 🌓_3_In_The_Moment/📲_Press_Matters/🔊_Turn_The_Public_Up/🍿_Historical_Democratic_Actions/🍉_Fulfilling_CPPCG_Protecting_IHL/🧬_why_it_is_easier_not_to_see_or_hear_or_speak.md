@@ -1,5 +1,5 @@
 # 🧬 Why It Is Easier Not to See, Not to Hear, Not to Speak  
-**First created:** 2026-01-02 | **Last updated:** 2026-01-04  
+**First created:** 2026-01-02 | **Last updated:** 2026-08-03  
 *How avoidance becomes a system, not a choice.*
 
 ---
@@ -258,4 +258,4 @@ It exists to show how atrocity blindness emerges without conspiracy, why recogni
 *Avoidance is not the absence of information.*  
 *It is the presence of threat.*
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-08-03_
