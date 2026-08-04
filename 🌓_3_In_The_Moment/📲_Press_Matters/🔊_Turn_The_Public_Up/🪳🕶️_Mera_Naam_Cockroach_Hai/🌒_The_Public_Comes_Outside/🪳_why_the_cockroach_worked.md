@@ -1,5 +1,5 @@
 # 🪳 Why The Cockroach Worked  
-**First created:** 2026-07-28 | **Last updated:** 2026-07-28  
+**First created:** 2026-07-28 | **Last updated:** 2026-08-04  
 *Why one small, reproducible image could carry disgust, survival, humour and political refusal across platforms, languages and publics without becoming the whole movement.*
 
 ---
@@ -53,6 +53,24 @@ low-cost participation
         ↓
 wider public legibility
 ```
+
+The participation sequence adds another dependency:
+
+```text
+discoverability
+        ↓
+recognition
+        ↓
+affiliation
+        ↓
+participation
+        ↓
+retention and preservation
+```
+
+People cannot decide whether to enter a public they cannot find.
+
+That makes discoverability part of the political story without making every change in reach evidence of deliberate suppression.
 
 That sequence still does not prove:
 
@@ -240,6 +258,12 @@ The cockroach could survive:
 - platform migration.
 
 It did not need visual perfection to remain itself.
+
+This also meant that the symbol could survive outside the recommendation systems that first exposed someone to it. A screenshot, forwarded message, hand-drawn placard or privately shared clip could preserve recognition after the original post became difficult to find.
+
+That resilience mattered.
+
+It did not make reduced public discoverability costless.
 
 ---
 
@@ -573,6 +597,8 @@ Distributed reproduction increases reach.
 
 It also increases semantic drift.
 
+The cockroach was therefore a packet, not the whole political contents of the movement. Its simple form helped the packet travel. The surrounding caption, language, speaker and setting determined how much of the grievance travelled with it.
+
 ---
 
 ## 📲 The Cockroach Crosses Platforms  
@@ -630,6 +656,88 @@ retrospective archive
 At each stage, context may be lost.
 
 The archive should not treat later visibility as proof of earlier centrality.
+
+---
+
+## 🗺️ Discoverability Was Part Of Participation  
+
+Before someone could:
+
+- share the mascot;
+- identify with it;
+- attend;
+- offer practical help;
+
+they normally had to encounter it.
+
+That encounter might come through:
+
+- search;
+- recommendation;
+- a public timeline;
+- a journalist;
+- a friend;
+- a family or university group;
+- a screenshot;
+- manual forwarding;
+- a placard seen offline.
+
+These routes were not interchangeable.
+
+Public discovery could introduce the movement to people beyond existing networks. Private circulation could preserve material and political participation when public routes narrowed, but it depended more heavily upon:
+
+- trust;
+- existing relationships;
+- manual labour;
+- access to the right group;
+- someone deciding what to forward.
+
+```text
+public discoverability narrows
+        ↓
+screenshots, reposts and private forwarding compensate
+        ↓
+some circulation survives
+        ↓
+participation becomes less visible and less measurable
+```
+
+The workaround does not erase the cost.
+
+It can change:
+
+- who finds the movement;
+- how quickly they find it;
+- which languages or regions remain connected;
+- whether newcomers can enter without an existing contact;
+- what evidence survives for later reconstruction.
+
+The archive must also distinguish among:
+
+- deletion;
+- account restriction;
+- removal from search;
+- reduced recommendation;
+- observed loss of reach;
+- personal non-encounter.
+
+These do not establish the same fact.
+
+```text
+change in discoverability
+≠ automatic proof of mechanism
+≠ automatic proof of coordination
+```
+
+Where a mechanism is documented, record it.
+
+Where only the effect is observed, describe the effect.
+
+Where participants report a pattern, preserve the report as testimony without silently upgrading it into attributable coordination.
+
+Going private did not mean becoming politically inactive.
+
+It often meant that the safest participation left the weakest public archive.
 
 ---
 
@@ -775,6 +883,8 @@ These belong to the movement’s cultural field even when they are not slogans i
 
 The cockroach lowered the cost of entry.
 
+It did not lower that cost equally for everyone.
+
 A person did not need to:
 
 - write an essay;
@@ -824,6 +934,27 @@ The careful claim is:
 
 > The symbol reduced the expressive cost of public affiliation.
 
+It did not remove the possible costs of:
+
+- being identified;
+- being doxxed;
+- facing disciplinary or family pressure;
+- losing access to education or employment;
+- absorbing gendered or sexualised abuse.
+
+For some people, the safest first step remained:
+
+- private forwarding;
+- anonymous remixing;
+- translation without attribution;
+- practical support without a public post.
+
+Equal access to the image did not create an equal ability to survive visibility.
+
+The fuller distribution of those risks continues in:
+
+[🗻 The Public Was Not Flat](./🗻_the_public_was_not_flat.md)
+
 ---
 
 ## 🧍 The Image Made Isolation Less Believable  
@@ -836,6 +967,8 @@ Private agreement can remain politically weak when each person believes:
 - retaliation will not be shared.
 
 Repeated cockroach imagery changed that perception.
+
+The repetition did not need to remain wholly public. A forwarded image or private joke could still reveal that another person recognised the grievance, even when neither person was safe enough to make that recognition searchable.
 
 Each reproduction became evidence that:
 
@@ -1112,6 +1245,15 @@ Each preserved cockroach object should record where possible:
 - whether it is movement, supporter, hostile or journalistic use;
 - confidence.
 
+Where discoverability itself is part of the claim, also record where possible:
+
+- whether the object remained searchable;
+- whether it appeared through recommendation or direct navigation;
+- whether the preserved copy is a screenshot or manual forward;
+- whether the original remains available;
+- when the change was first observed;
+- what evidence supports the stated mechanism.
+
 A useful archive record might distinguish:
 
 ```text
@@ -1225,19 +1367,19 @@ The cockroach worked because it could carry injury and attitude at the same time
 
 It preserved the original insult—disgust, disposability and contempt—while reversing its emotional direction through survival, repetition and sunglasses. The image was easy to redraw, wear, translate and remix, making it a distributed reproduction kit and a low-cost doorway into public affiliation.
 
-It did not replace organisation, and virality does not prove political strength. It gave an existing grievance a recognisable character that people could repeatedly remake while the movement behind it built the capacity to act.
+It did not replace organisation, and virality does not prove political strength. Discoverability affected who could encounter the doorway; private forwarding and degraded copies helped keep it open when public routes narrowed. The mascot gave an existing grievance a recognisable character that people could repeatedly remake while the movement behind it built the capacity to act.
 
 ---
 
 ## 🌌 Constellations  
 
-🪳 🕶️ 🎭 📦 📲 🚪 — reclaimed insult; political compression; distributed reproduction; semantic drift; movement entry; cultural evidence.
+🪳 🕶️ 📦 📲 🚪 — reclaimed insult; political compression; distributed reproduction; movement entry; cultural evidence.
 
 ---
 
 ## ✨ Stardust  
 
-Cockroach Janta Party, cockroach meme, Main Bhi Cockroach, Main Hoon Cockroach, Mera Naam Cockroach Hai, sunglasses, reclaimed insult, dehumanisation, survival, political compression, memeability, distributed reproduction, semantic drift, protest symbols, movement identity, cultural evidence, virality, provenance
+Cockroach Janta Party, cockroach meme, Main Bhi Cockroach, reclaimed insult, political compression, discoverability, private circulation, distributed reproduction, movement identity, provenance
 
 ---
 
@@ -1261,4 +1403,4 @@ It examines how a dehumanising insult became a reproducible political character,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-28_
+_Last updated: 2026-08-04_ 
