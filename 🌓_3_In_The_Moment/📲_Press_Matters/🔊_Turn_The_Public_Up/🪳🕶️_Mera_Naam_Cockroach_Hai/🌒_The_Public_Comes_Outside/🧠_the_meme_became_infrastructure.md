@@ -1,5 +1,5 @@
 # 🧠 The Meme Became Infrastructure  
-**First created:** 2026-07-28 | **Last updated:** 2026-08-02  
+**First created:** 2026-07-28 | **Last updated:** 2026-08-04  
 *How a recognisable image became part of a wider system of communication, care, logistics and coordination capable of sustaining public participation.*
 
 ---
@@ -46,6 +46,10 @@ infrastructure
 The node therefore follows the conversion from:
 
 ```text
+discoverability
+        ↓
+recognition
+        ↓
 attention
         ↓
 participation
@@ -73,6 +77,27 @@ attention
 A viral object may create an audience.
 
 Infrastructure determines whether that audience can become a public capable of remaining, returning and acting.
+
+That means following more than reach.
+
+```text
+discoverability
+→ who can find the movement
+
+participation
+→ who can enter it
+
+visibility
+→ whose involvement becomes public
+
+retention
+→ who can remain after friction or harassment
+
+preservation
+→ what survives long enough to become evidence or memory
+```
+
+Failure at one stage changes the public produced at every later stage.
 
 ---
 
@@ -201,6 +226,75 @@ It becomes politically useful when people develop practices for:
 - trusted relays;
 - context preservation.
 
+The routes were not interchangeable.
+
+A public post could widen discovery and leave a searchable record. A private message could preserve trust, safety or continuity after public reach narrowed. A screenshot could keep information moving after deletion or account restriction, but might lose metadata, provenance or context.
+
+```text
+public visibility
+≠ operational continuity
+
+reduced public visibility
+≠ political inactivity
+```
+
+Going private could therefore indicate withdrawal.
+
+It could also indicate that political work had moved into a less observable layer of the network.
+
+The archive should not infer the scale of that private activity merely because it was possible. It should, however, avoid treating the public timeline as the whole movement.
+
+---
+
+## 📲 Discoverability Is An Infrastructure Question
+
+People cannot decide whether to participate in a movement they cannot find.
+
+Discoverability may depend upon:
+
+- search;
+- recommendation;
+- hashtags;
+- trusted reposts;
+- local-language accounts;
+- screenshots;
+- direct forwarding;
+- links carried between platforms.
+
+Deletion is only one way for access to narrow.
+
+Material may remain technically online while becoming:
+
+- harder to search;
+- less likely to be recommended;
+- detached from its original account;
+- visible mainly to existing followers;
+- dependent upon manual forwarding.
+
+Those mechanisms should not be collapsed into a generic claim of suppression.
+
+```text
+documented deletion
+≠ documented downranking
+≠ observed loss of reach
+≠ personal non-encounter
+```
+
+But their participation effects can still be studied.
+
+If discovery narrows, the movement may have to spend more labour on:
+
+- mirror accounts;
+- repeated uploads;
+- private groups;
+- manual verification;
+- multilingual reposting;
+- restoring context to degraded copies.
+
+The workaround is evidence of resilience.
+
+It is also evidence that resilience has a cost.
+
 ---
 
 ## 🎛️ What Young People Know About Virality  
@@ -256,6 +350,18 @@ Platform knowledge does not automatically produce:
 - strategic coherence;
 - accurate attribution;
 - durable organisation.
+
+Nor does successful adaptation prove that the original friction was harmless.
+
+When participants compensate for disappearing posts, restricted accounts or fragmented circulation, the additional labour can be:
+
+- repetitive;
+- exhausting;
+- unevenly distributed;
+- difficult to document;
+- vulnerable to further disruption.
+
+Ingenious workarounds can keep a network alive while quietly consuming the people maintaining it.
 
 ---
 
@@ -727,6 +833,17 @@ Archiving requires decisions about:
 - security;
 - later use.
 
+It also requires a distinction between preserving evidence and maximising exposure.
+
+A record may be important to keep but unsafe to publish because it reveals:
+
+- a participant’s face;
+- a private account;
+- contact information;
+- route or location data;
+- medical or legal vulnerability;
+- the structure of a trusted network.
+
 A movement may document in real time for:
 
 - safety;
@@ -746,6 +863,17 @@ captured
 ≠ verified
 ≠ safe to publish
 ```
+
+When material survives mainly through screenshots or private forwarding, preserve where possible:
+
+- the original URL or account;
+- capture date and time;
+- platform and language;
+- the person who supplied the copy;
+- whether the copy is complete;
+- whether consent permits wider use.
+
+Private circulation can preserve political memory while producing a thinner public record. The safest participation may therefore be the hardest participation to count.
 
 ---
 
@@ -1054,6 +1182,16 @@ Less visible labour may include:
 - follow-up;
 - family negotiation.
 
+It may also include the compensatory labour created when ordinary communication routes fail:
+
+- checking whether an account is genuine;
+- rebuilding contact lists;
+- forwarding material by hand;
+- translating the same update repeatedly;
+- restoring dates and provenance;
+- warning others about harassment;
+- deciding what must remain private.
+
 This labour may be disproportionately performed by:
 
 - women;
@@ -1062,6 +1200,8 @@ This labour may be disproportionately performed by:
 - people with local knowledge.
 
 Visibility should not determine whose work is considered politically important.
+
+Nor should public silence be mistaken for organisational absence. Some of the work that keeps a movement inhabitable is deliberately quiet because visibility itself carries unequal risk.
 
 The unequal-public analysis continues in:
 
@@ -1082,6 +1222,16 @@ A movement with distributed infrastructure may respond to suppression by:
 
 This can turn containment into further content.
 
+It can also preserve operations without producing new public content at all.
+
+```text
+public workaround
+→ suppression may become visible
+
+private workaround
+→ participation may survive without spectacle
+```
+
 It does not mean suppression always fails.
 
 Infrastructure may still be:
@@ -1091,6 +1241,12 @@ Infrastructure may still be:
 - infiltrated;
 - financially constrained;
 - exposed to coercion.
+
+The deeper questions of platform action, reporting campaigns, surveillance, procurement and institutional coordination belong in:
+
+[🌕 What The Movement Was Up Against](../🌕_What_The_Movement_Was_Up_Against/README.md)
+
+This node asks the narrower 🌒 question: what happened to discovery, participation, continuity and evidence when people had to route around interference?
 
 The full containment analysis continues in:
 
@@ -1163,6 +1319,16 @@ Evidence of infrastructure may include:
 - documentation protocols;
 - repeated mobilisation.
 
+Stronger organisational claims require evidence such as:
+
+- named or verifiable coordination;
+- repeated mobilisation across time;
+- logistics and stewarding;
+- continuity after disruption;
+- collective decision processes;
+- sustained demands;
+- resource distribution.
+
 Research should distinguish:
 
 ```text
@@ -1171,6 +1337,19 @@ participant testimony
 ≠ inferred coordination
 ≠ confirmed organisational structure
 ```
+
+Where the evidence permits, use bounded provenance labels:
+
+```text
+origin unknown
+adaptation confirmed
+participant use confirmed
+organiser endorsement unknown
+```
+
+High engagement is evidence of attention.
+
+It is not, by itself, evidence of strong organisation.
 
 Preserve where possible:
 
@@ -1182,6 +1361,16 @@ Preserve where possible:
 - resource;
 - evidence of repetition;
 - confidence.
+
+For platform-friction claims, also distinguish:
+
+- content deleted;
+- account restricted;
+- search access changed;
+- recommendation changed;
+- reach appeared to fall;
+- participants reported non-discovery;
+- cause or coordination remains unknown.
 
 Avoid exposing:
 
@@ -1241,21 +1430,23 @@ The cockroach helped participants recognise one another and lowered the cost of 
 
 The image did not organise the movement by itself. The infrastructure was people, labour, trust and resources. The meme became one of the interfaces through which that infrastructure could be recognised and used.
 
+When public discovery narrowed, screenshots, reposts, private groups and trusted relays could preserve some continuity. They did not erase the cost of lost reach. They moved that cost into additional, often invisible labour.
+
 ---
 
 ## 🌌 Constellations  
 
-🧠 📡 🛠️ 🩹 🧾 🌐 📚 💼 — network-native communication; movement logistics; mutual aid; first aid; legal support; translation; archiving; future workforce.  
+🧠 📲 🛠️ 🌐 📚 — network-native communication; discoverability; movement logistics; translation; archiving and continuity.  
 
-*Further media:”  
+*Further media:*  
 
-- [📰: The Times Of India: “Instagram vs WhatsApp: How CJP protests are different and why that matters”](http://m.timesofindia.com/articleshow/132605420.cms) – *“Police action, in this case, does not necessarily suppress the movement. It produces content for it.”*  
+- [📰 The Times of India: “Instagram vs WhatsApp: How CJP protests are different and why that matters”](https://timesofindia.indiatimes.com/india/instagram-vs-whatsapp-how-cjp-protests-are-different-and-why-that-matters/articleshow/132605420.cms) — *a contemporary interpretation of CJP’s Instagram-native participation model; useful evidence of public framing, not proof of every underlying organisational claim.*  
 
 ---
 
 ## ✨ Stardust  
 
-movement infrastructure, meme infrastructure, Cockroach Janta Party, network-native communication, virality, participation, organisation, capacity, mutual aid, first aid, legal support, translation, documentation, archiving, morale, protest logistics, future workforce, blacklisting, invisible labour
+movement infrastructure, network-native communication, discoverability, participation, mutual aid, translation, evidence preservation, platform friction, invisible labour, organisational capacity
 
 ---
 
@@ -1279,4 +1470,4 @@ It examines how a recognisable political object became embedded in practical sys
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-02_
+_Last updated: 2026-08-04_
