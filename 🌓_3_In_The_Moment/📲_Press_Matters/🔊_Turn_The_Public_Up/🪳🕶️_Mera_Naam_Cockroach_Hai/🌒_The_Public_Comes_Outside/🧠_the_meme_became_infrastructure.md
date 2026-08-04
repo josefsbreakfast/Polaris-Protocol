@@ -1440,7 +1440,7 @@ When public discovery narrowed, screenshots, reposts, private groups and trusted
 
 *Further media:*  
 
-- [📰 The Times of India: “Instagram vs WhatsApp: How CJP protests are different and why that matters”](https://timesofindia.indiatimes.com/india/instagram-vs-whatsapp-how-cjp-protests-are-different-and-why-that-matters/articleshow/132605420.cms) — *a contemporary interpretation of CJP’s Instagram-native participation model; useful evidence of public framing, not proof of every underlying organisational claim.*  
+- [📰 The Times of India: “Instagram vs WhatsApp: How CJP protests are different and why that matters”](https://timesofindia.indiatimes.com/india/instagram-vs-whatsapp-how-cjp-protests-are-different-and-why-that-matters/articleshow/132605420.cms) – *“Police action, in this case, does not necessarily suppress the movement. It produces content for it.”*  
 
 ---
 
