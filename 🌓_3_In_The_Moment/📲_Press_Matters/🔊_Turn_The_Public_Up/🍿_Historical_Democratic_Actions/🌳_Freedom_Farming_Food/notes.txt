@@ -6,10 +6,9 @@
 ├── 🚨_Why_This_Cluster_Exists/
 │   ├── README.md
 │   ├── 🚨_why_the_policing_of_farming_looked_weird.md [new]
-│   ├── ❓_the_parliamentary_questions_did_not_match_the_problem.md [new]
+│   ├── ❓_what_was_asked_and_what_followed.md [new]
 │   ├── 🗓️_the_2024_2026_uk_farmers_protest_timeline.md [new]
-│   ├── 📋_what_farmers_were_actually_asking_for.md [new]
-│   └── 🕳️_the_follow_up_gap.md [new]
+│   └── 📋_what_farmers_were_actually_asking_for.md [new]
 │
 ├── 🌱_The_Live_British_Farming_Settlement/
 │   ├── README.md
@@ -33,12 +32,6 @@
 │   ├── 🌡️_heat_drought_and_changed_farm_operations.md [new]
 │   ├── 🌊_water_is_a_production_input.md [new]
 │   └── 🧫_disease_biosecurity_and_veterinary_capacity.md [new]
-│
-├── 🧰_Food_As_National_Resilience/
-│   ├── README.md
-│   ├── 🧰_food_security_is_a_defence_question.md [new]
-│   ├── 🌍_global_conflict_and_import_dependency.md [new]
-│   └── 🧮_stress_testing_the_british_food_system.md [new]
 │
 ├── 🍿_Historical_Memory_And_Democratic_Legitimacy/
 │   ├── README.md
@@ -68,9 +61,14 @@
 │       ├── 🔥_when_food_triggers_regime_failure.md [existing]
 │       └── 🧨_where_revolutions_actually_come_from.md [existing]
 │
-├── 🗺️_A_Workable_Farming_Settlement/
+├── 🧰_Food_As_National_Resilience/
 │   ├── README.md
-│   └── 🗺️_principles_for_a_workable_farming_settlement.md [new]
+│   ├── 🧰_food_security_is_a_defence_question.md [new]
+│   ├── 🌍_interdependence_imports_and_compound_shocks.md [new]
+│   ├── 🧮_stress_testing_continuity_and_recovery.md [new]
+│   └── 📣_tell_the_public_before_the_shelves_change.md [new]
+│
+├── 🗺️_principles_for_a_workable_farming_settlement.md [new]
 │
 └── 🔬_Evidence_And_Watchlists/
     ├── README.md
