@@ -1,5 +1,5 @@
 # 🕳️ The Hidden Transcript Found A Mascot  
-**First created:** 2026-07-28 | **Last updated:** 2026-08-02  
+**First created:** 2026-07-28 | **Last updated:** 2026-08-04  
 *How coded speech, private humour, pseudonymous circulation and informal recognition existed before the movement became fully visible—and how the cockroach gave that hidden political culture a public character.*
 
 ---
@@ -49,6 +49,24 @@ portable mascot
         ↓
 visible public
 ```
+
+Once the mascot entered wider circulation, a second pathway mattered:
+
+```text
+discoverability
+        ↓
+recognition
+        ↓
+participation
+        ↓
+visibility
+        ↓
+retention
+        ↓
+evidence preservation
+```
+
+This pathway was not equally open to everyone. A person could recognise the movement but remain private, participate without becoming visible, or withdraw from public posting while continuing to help through trusted networks.
 
 This should not be mistaken for:
 
@@ -193,6 +211,52 @@ The quiet act may be as small as:
 These are not equivalent to organising.
 
 They may still help create mutual legibility.
+
+---
+
+## 🛰️ Discoverability Before Affiliation  
+
+People cannot decide whether to join a public they cannot find.
+
+Discovery may occur through:
+
+- search;
+- recommendation feeds;
+- hashtags;
+- local creators;
+- news coverage;
+- screenshots;
+- reposts;
+- trusted private forwarding.
+
+These routes do not have the same reach, context or safety.
+
+A post may be:
+
+- still online but absent from recommendation;
+- searchable only through exact wording;
+- visible to existing followers but not new publics;
+- deleted from one account but preserved in screenshots;
+- encountered privately after its public reach has narrowed.
+
+The archive should therefore distinguish:
+
+```text
+deletion
+≠ downranking
+≠ loss of searchability
+≠ reduced recommendation
+≠ personal non-encounter
+```
+
+Reduced public discoverability may change:
+
+- who recognises the mascot;
+- who learns that others share the grievance;
+- who reaches practical information;
+- who feels safe enough to participate.
+
+Screenshots, mirrors and private relays can partially repair this loss. They do not reproduce the reach, provenance or context of the original route.
 
 ---
 
@@ -354,6 +418,25 @@ protest attendance
 ≠ total participation
 ```
 
+It also means:
+
+```text
+going private
+≠ becoming politically inactive
+```
+
+A person may stop posting publicly while continuing to:
+
+- share information in trusted groups;
+- translate;
+- archive;
+- donate;
+- arrange transport;
+- warn others;
+- provide professional or practical help.
+
+Public visibility and operational continuity are related, but they are not identical.
+
 But the reverse also matters:
 
 ```text
@@ -508,6 +591,8 @@ Private circulation can help build:
 - mutual warning;
 - later participation.
 
+It can also preserve continuity after public exposure becomes costly. A network may become less visible while remaining socially or practically active.
+
 It should not automatically be treated as:
 
 - covert coordination;
@@ -589,6 +674,14 @@ what survives
 
 This is an archival limit, not proof of hidden coordination.
 
+It also creates a political asymmetry:
+
+> The safest participation may leave the weakest public evidence.
+
+Preservation is therefore not simply a demand to save everything. Saving a private message, face, username or group membership can expose the very person whose participation the archive is trying to recognise.
+
+The task is to preserve enough context to support later analysis without turning safety practices into a new source of risk.
+
 ---
 
 ## 🚪 The Movement Became A Permission Structure  
@@ -665,6 +758,10 @@ These thresholds carry different:
 - commitment.
 
 A movement can widen when it allows people to enter without demanding the highest-risk form immediately.
+
+It can endure when people are also able to move back down the ladder without being treated as politically absent.
+
+Harassment, family pressure, disciplinary risk, doxxing or simple exhaustion may change the safest form of participation. Retention should therefore be measured not only by who remains publicly visible, but by whether people can continue contributing at a tolerable level of exposure.
 
 ---
 
@@ -764,6 +861,8 @@ The existence of one shared joke does not prove:
 The unequal-public analysis continues in:
 
 [🗻 The Public Was Not Flat](./🗻_the_public_was_not_flat.md)
+
+The point is not that private space is automatically safer. Family groups, student chats and pseudonymous networks can reproduce exclusion, surveillance and coercion. The point is narrower: public evidence systematically favours what was visible, durable and easy to attribute.
 
 ---
 
@@ -901,6 +1000,14 @@ Each item should record:
 - confidence;
 - identification risk.
 
+Where possible, it should also record:
+
+- how the item was discovered;
+- whether it remained searchable;
+- whether public reach or only private circulation can be demonstrated;
+- whether the surviving copy preserves the original caption and context;
+- whether retention would expose a participant.
+
 The archive should not:
 
 - publish private messages without consent;
@@ -955,15 +1062,15 @@ Continue to:
 
 The hidden transcript found a mascot.
 
-Coded speech, private jokes, pseudonymous circulation and regional satire helped people recognise shared grievance before they were willing or able to appear publicly. The cockroach made that recognition portable and gave a wider public a low-cost way to affiliate.
+Coded speech, private jokes, pseudonymous circulation and regional satire helped people recognise shared grievance before they were willing or able to appear publicly. The cockroach made that recognition portable and gave a wider public a low-cost way to affiliate. Screenshots, reposts and private relays could keep that recognition moving when public discovery narrowed, although they could not fully replace lost reach or context.
 
-This does not prove secret central coordination. It shows that visible mobilisation had a political root system—and that a public can become legible before every participant becomes individually explicit.
+This does not prove secret central coordination. It shows that visible mobilisation had a political root system—and that a public can become legible before every participant becomes individually explicit. Going private did not necessarily mean becoming politically inactive; it often meant that later observers would have less evidence of what participation had become.
 
 ---
 
 ## 🌌 Constellations  
 
-🕳️ 🤫 🌱 🪳 🎭 📲 🚪 — hidden transcripts; infrapolitics; pseudonymity; regional satire; collective deniability; hidden participation; political permission.  
+🕳️ 🌱 🪳 📲 🗝️ — hidden transcripts; infrapolitics; pseudonymity; discoverability; hidden participation; political permission.  
 
 *Further media:*  
 
@@ -972,7 +1079,7 @@ This does not prove secret central coordination. It shows that visible mobilisat
 
 ## ✨ Stardust  
 
-hidden transcript, public transcript, infrapolitics, Cockroach Janta Party, pseudonymous accounts, private jokes, coded speech, regional satire, disappearing content, intimate circulation, plausible deniability, collective deniability, permission structure, hidden participation, public legibility, authorised slogans
+hidden transcripts, public formation, infrapolitics, discoverability, pseudonymity, private circulation, collective deniability, hidden participation, archival asymmetry, public legibility
 
 ---
 
@@ -996,4 +1103,4 @@ It examines the political culture that existed beneath visible mobilisation and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-02_
+_Last updated: 2026-08-04_
