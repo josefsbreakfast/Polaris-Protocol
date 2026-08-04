@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-04 15:02:08 UTC_
+_Generated on 2026-08-04 15:06:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5467,7 +5467,6 @@ _Generated on 2026-08-04 15:02:08 UTC_
           - [`🛰️_the_immediate_crisis.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌑_The_System_Becomes_Intolerable/🛰️_the_immediate_crisis.md)
           - [`🪔_the_pressure_can_end_in_more_than_one_way.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌑_The_System_Becomes_Intolerable/🪔_the_pressure_can_end_in_more_than_one_way.md)
         - [**🌒_The_Public_Comes_Outside/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/)
-          - [`.🌱_Still_Growing.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/.🌱_Still_Growing.txt)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/README.md)
           - [`🌐_india_is_not_a_local_network.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/🌐_india_is_not_a_local_network.md)
           - [`🌸_when_containment_becomes_content.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌒_The_Public_Comes_Outside/🌸_when_containment_becomes_content.md)
