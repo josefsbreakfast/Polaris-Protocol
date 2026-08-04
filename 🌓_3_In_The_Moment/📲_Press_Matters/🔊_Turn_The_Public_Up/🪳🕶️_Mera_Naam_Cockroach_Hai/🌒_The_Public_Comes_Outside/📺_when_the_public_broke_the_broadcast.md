@@ -1,5 +1,5 @@
 # 📺 When The Public Broke The Broadcast  
-**First created:** 2026-07-28 | **Last updated:** 2026-07-28  
+**First created:** 2026-07-28 | **Last updated:** 2026-08-04  
 *How participants, local reporters, creators and networked publics became producers, recorders, translators and interpreters of the event rather than passive recipients of official narration.*
 
 ---
@@ -270,6 +270,47 @@ It cannot fully replace:
 
 ---
 
+## 🕳️ Non-Coverage Is Not One Condition  
+
+“The media did not cover it” can describe several different conditions.
+
+Coverage may be:
+
+- absent — no report appears;
+- delayed — reporting arrives after the decisive public moment;
+- buried — the report exists but receives little placement, repetition or follow-up;
+- distorted — the event is visible but its demands or causal sequence are misrepresented;
+- derivative — outlets repeat a wire, police, official or institutional account without additional reporting;
+- spectacularised — images, clashes or costumes are shown while the political diagnosis disappears.
+
+These mechanisms should not be collapsed.
+
+```text
+non-encounter by one reader
+≠ demonstrated absence of coverage
+
+one published item
+≠ sustained editorial attention
+```
+
+An omission claim needs an expected baseline.
+
+The archive should ask:
+
+- Which outlets would ordinarily be expected to cover an event of this scale or location?
+- When did their first report appear?
+- Where was it placed?
+- Was it updated or followed?
+- Which sources were quoted?
+- Did the report name the demands?
+- Did later outlets independently verify the account or reproduce the same source chain?
+
+The question is not only whether a story technically existed.
+
+It is whether the public could find it, understand what participants said the event was about, and continue following it after the first spectacle passed.
+
+---
+
 ## 🏢 Ownership, Access And Alignment  
 
 Media power may be shaped through an ecosystem rather than one explicit censorship order.
@@ -373,6 +414,49 @@ public refusal
 
 ---
 
+## 📣 The Four Chants Were A Broadcast Intervention  
+
+At Jantar Mantar, CJP spokesperson Ashutosh Ranka publicly instructed demonstrators to keep to four slogans:
+
+1. `भारत माता की जय — Bharat Mata ki Jai`
+2. `इंक़लाब ज़िंदाबाद — Inquilab Zindabad`
+3. `जय भीम — Jai Bhim`
+4. `धर्मेंद्र प्रधान इस्तीफ़ा दो — Dharmendra Pradhan istifa do`
+
+[Contemporary reporting](https://theprint.in/feature/4-slogans-cleared-cjp-for-protesters-to-chant-at-jantar-mantar/2993521/) recorded the instruction alongside his warning that hostile actors were “looking to make a narrative.”
+
+The four lines supplied a compact political grammar:
+
+```text
+national belonging
+        ↓
+revolutionary legitimacy
+        ↓
+anti-caste and constitutional justice
+        ↓
+concrete accountable demand
+```
+
+This was not merely crowd management.
+
+It was an attempt to make the movement’s own account:
+
+- repeatable;
+- quotable;
+- translatable;
+- difficult to detach from its demand;
+- less vulnerable to one stray phrase becoming the whole story.
+
+The protocol does not prove that every participant used only those slogans, or that every gathering adopted the instruction identically.
+
+It shows that the movement understood narrative construction as part of the political terrain.
+
+Detailed cultural analysis continues in:
+
+[🎶 The Pressure Valve Had A Soundtrack](./🎶_the_pressure_valve_had_a_soundtrack.md)
+
+---
+
 ## ✂️ Remixing The Government’s Own Output  
 
 Official communication supplied raw material.
@@ -448,6 +532,64 @@ lower reporting barrier
 This does not mean journalists should publish unverified material.
 
 It means the public can create a larger evidentiary field in which professional reporting becomes more possible.
+
+But an expanded evidentiary field does not guarantee reporting.
+
+Material may still be:
+
+- ignored;
+- treated as unverified without newsroom effort to verify it;
+- used as background while officials remain the only named interpreters;
+- published without linking the event to its underlying grievance;
+- harvested for images while participant testimony is excluded.
+
+Public documentation can lower one barrier.
+
+It cannot by itself overcome every editorial, commercial, legal or political incentive not to proceed.
+
+---
+
+## 🎙️ Who Was Allowed To Explain The Event?  
+
+A report may include participant footage without granting participants interpretive authority.
+
+The archive should distinguish:
+
+```text
+participant appears
+        ↓
+participant is quoted
+        ↓
+participant is named or safely attributed
+        ↓
+participant explains the grievance
+        ↓
+participant interpretation shapes the frame
+```
+
+These are not the same achievement.
+
+Coverage can remain source-dependent when it relies primarily upon:
+
+- ministers;
+- police;
+- examination bodies;
+- universities;
+- political parties;
+- wire services;
+- platform statements.
+
+Those sources may be necessary.
+
+The problem arises when the people experiencing the event supply the images but are denied the status of knowers.
+
+Questions include:
+
+- Were participants directly quoted?
+- Were women, regional-language speakers and lower-visibility participants translated?
+- Did a spokesperson become a substitute for the wider public?
+- Were official claims presented with attribution and challenge?
+- Did one institutional source become several apparently independent reports?
 
 ---
 
@@ -569,6 +711,33 @@ It was:
 > We will produce a register of our own.
 
 The cockroach became one of the recurring visual terms in that reply.
+
+That portability created a further editorial test.
+
+An outlet could report:
+
+- the name;
+- the mascot;
+- the sunglasses;
+- the humour;
+- the novelty of an internet movement;
+
+while omitting:
+
+- examination failure;
+- institutional responsibility;
+- student deaths;
+- material demands;
+- the movement’s own explanation of why the cockroach mattered.
+
+```text
+covering the meme
+≠ covering the movement
+```
+
+The mascot could open the door to reporting.
+
+It could also become a brightly coloured substitute for walking through it.
 
 ---
 
@@ -698,6 +867,32 @@ visibility
 ≠ narrative authority
 ```
 
+A fuller pathway is:
+
+```text
+discoverability
+        ↓
+visibility
+        ↓
+quotation
+        ↓
+attribution
+        ↓
+interpretive authority
+        ↓
+sustained public memory
+```
+
+Failure can occur at every step.
+
+A clip may circulate without being searchable later.
+
+A participant may be seen without being heard.
+
+A demand may be quoted without being treated as a credible diagnosis.
+
+A story may briefly trend without remaining available long enough to affect institutional memory.
+
 The movement gained narrative power when its own language became difficult to remove from interpretation.
 
 The cockroach, slogans and public recordings helped achieve that.
@@ -826,6 +1021,27 @@ That is a normal evidentiary condition, not a reason for automatic exclusion.
 
 ---
 
+## 🔖 Selected Contemporary Source Notes  
+
+These examples support particular observations.
+
+They are not an exhaustive audit of Indian or international coverage.
+
+- [ThePrint, 22 July 2026](https://theprint.in/feature/4-slogans-cleared-cjp-for-protesters-to-chant-at-jantar-mantar/2993521/) — reports the four authorised slogans and Ranka’s stated concern about hostile narrative construction.
+- [Reuters, 3 August 2026](https://www.reuters.com/world/india/leaked-exams-dashed-dreams-why-indias-cockroach-youth-turned-modi-2026-08-03/) — combines participant interviews, family and material context, photographs, public records and requests for official response; useful as an example of reporting that treats protesters as interpreters rather than only as imagery.
+
+The existence of strong individual reports does not settle:
+
+- when wider coverage began;
+- how stories were placed;
+- which accounts were syndicated;
+- whether demands remained visible across languages and outlets;
+- whether sustained attention matched the scale or duration of the event.
+
+Those questions require the coverage audit described below.
+
+---
+
 ## 🧪 Rival Explanations  
 
 ### The Public Broke The Broadcast  
@@ -870,6 +1086,19 @@ Research should preserve:
 - platform removals;
 - evidence of correction.
 
+For a coverage audit, also record:
+
+- expected outlet and geographic remit;
+- first-publication time;
+- homepage, section or broadcast placement where recoverable;
+- headline and later headline changes;
+- whether demands appeared in the headline, standfirst or body;
+- participant, official, police, institutional and expert source counts;
+- direct quotation versus paraphrase;
+- original reporting versus wire or syndicated copy;
+- follow-up and correction history;
+- language and translation route.
+
 For each major claim, record:
 
 - first known source;
@@ -885,6 +1114,10 @@ Avoid:
 - embedding unsafe personal data;
 - treating repeated reposts as independent confirmation;
 - assuming reach from engagement screenshots alone.
+- treating one reader’s non-encounter as proof of silence;
+- treating one article as proof of adequate coverage;
+- counting syndicated copies as independent reporting;
+- equating visual inclusion with participant voice.
 
 ---
 
@@ -937,19 +1170,21 @@ The public broke the broadcast when it stopped waiting to be narrated.
 
 Participants, local reporters, creators and networked publics recorded, translated, interpreted and remixed the event in real time. Their material created new evidence, new reporting pathways and an alternative emotional language through which official claims could be answered.
 
-This did not eliminate media concentration or executive narrative power. It made one-way narration less inevitable—and made the public an active producer of the political record.
+This did not eliminate media concentration or executive narrative power. Nor did visibility automatically confer narrative authority. The public could supply the footage while institutions retained the microphone.
+
+The broadcast broke when participants made one-way narration less inevitable, forced their own vocabulary into the record and gave journalists material through which official accounts could be tested. Whether the wider media then quoted, translated, contextualised and sustained that account remains a separate empirical question.
 
 ---
 
 ## 🌌 Constellations  
 
-📺 🎥 📰 📡 🎙️ ✂️ 🗞️ 😂 — broadcast power; participant documentation; shrinking mainstream; official narration; remix; evidentiary cover; public reply.
+📺 🎥 📰 📡 🎙️ — broadcast power; participant documentation; source pathways; narrative authority; public reply.
 
 ---
 
 ## ✨ Stardust  
 
-public documentation, broadcast media, Cockroach Janta Party, participant video, citizen evidence, local reporting, media concentration, official narration, prime minister, public remix, evidentiary cover, narrative inevitability, source pathways, image verification, consent, surveillance risk, public interpretation
+public documentation, broadcast media, participant evidence, local reporting, media silence, source dependency, narrative authority, four chants, coverage audit, public interpretation
 
 ---
 
@@ -974,4 +1209,4 @@ It examines how the public became a producer of evidence and interpretation with
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-28_
+_Last updated: 2026-08-04_
