@@ -1,5 +1,5 @@
 # 🗻 The Public Was Not Flat  
-**First created:** 2026-07-28 | **Last updated:** 2026-07-28  
+**First created:** 2026-07-28 | **Last updated:** 2026-08-04  
 *Why a shared symbol could widen participation without equalising who could appear, who was heard, who carried risk and who remained hidden beneath the public story.*
 
 ---
@@ -20,7 +20,8 @@ A shared mascot can make people recognisable to one another while leaving unequa
 - social protection;
 - exposure to retaliation;
 - access to media;
-- ability to remain physically present.
+- ability to remain physically present;
+- position within inherited legal, policing and social terrain.
 
 The central argument is:
 
@@ -245,6 +246,247 @@ A candidate with money may still face caste discrimination.
 A poor candidate outside a reserved category may still face severe economic exclusion.
 
 The public should therefore be analysed across multiple dimensions without flattening them into one generic disadvantage.
+
+This matters particularly for readers accustomed to a simple:
+
+```text
+upper class
++
+middle class
++
+lower class
+```
+
+Class language can describe material position.
+
+It cannot, by itself, explain:
+
+- caste location;
+- inherited occupation and stigma;
+- access to community networks;
+- marriage and kinship boundaries;
+- exposure to pollution ideology;
+- the political meaning of reservation categories;
+- why two people with similar income may encounter institutions differently.
+
+India is not socially flat merely because an English-language account has compressed it into familiar class terms.
+
+---
+
+## 🏛️ Independence Did Not Create A Clean Institutional Slate  
+
+India became independent in 1947.
+
+Its [Constitution](https://www.legislative.gov.in/static/uploads/2025/07/ca7ce5c746fa7480804bbdeb6cb704f0.pdf) then established a radically different normative order, including:
+
+- equality before law;
+- prohibitions on discrimination;
+- abolition of untouchability;
+- constitutional routes for representation and remedial action.
+
+Independent India has also produced its own:
+
+- legislation;
+- jurisprudence;
+- commissions;
+- police reforms;
+- anti-caste movements;
+- civil-liberties traditions;
+- arguments about what freedom should mean in practice.
+
+That history matters.
+
+So does institutional inheritance.
+
+The [Police Act 1861 remains recorded in India’s central statute archive](https://www.indiacode.nic.in/handle/123456789/2264?view_type=browse), although policing is a state subject and states have amended or replaced arrangements unevenly. Police organisation, custodial practice, evidential habits, public-order reasoning and the relationship between authority and the policed did not all restart at midnight on independence.
+
+India’s three principal criminal-law codes were replaced from 1 July 2024 by the:
+
+- Bharatiya Nyaya Sanhita;
+- Bharatiya Nagarik Suraksha Sanhita;
+- Bharatiya Sakshya Adhiniyam.
+
+The government described this as a [transition away from colonial legacies](https://www.mha.gov.in/sites/default/files/2024-05/Advisory_01052024_0.pdf). That is a material legal change and a political claim about decolonisation. It does not establish that every inherited power, doctrine, institutional incentive or lived encounter has disappeared. [Parliamentary and legislative analysis](https://prsindia.org/billtrack/overview-of-criminal-law-reforms) also records substantial retention within the new framework.
+
+```text
+formal statutory replacement
+≠ complete institutional transformation
+≠ equal lived encounter with law
+```
+
+For this node, the relevant question is not whether India is secretly still the Raj.
+
+It is:
+
+> Which inherited or reproduced structures continue to shape who can safely become public?
+
+The full legal and policing machinery belongs in `🌕_What_The_Movement_Was_Up_Against`.
+
+Here, it matters because unequal encounters with police and law change:
+
+- willingness to attend;
+- tactical preference;
+- ability to remain visible;
+- confidence that evidence will be believed;
+- the future cost of being identified.
+
+---
+
+## 🧭 Decolonial Rhetoric Is Not A Social Map  
+
+The BJP and the Modi government use postcolonial and decolonial registers.
+
+They may invoke:
+
+- removal of colonial laws;
+- recovery of Indian names and concepts;
+- national sovereignty;
+- civilisational renewal;
+- resistance to foreign judgement.
+
+These claims form part of India’s contemporary political argument.
+
+They should neither be dismissed as meaningless nor accepted as a completed description of social reality.
+
+```text
+naming a colonial inheritance
+≠ removing every colonial structure
+
+using decolonial language
+≠ equal freedom from inherited power
+```
+
+Political rhetoric describes the nation a party wishes to make legible.
+
+Lived experience records:
+
+- who is stopped;
+- who is believed;
+- who is detained;
+- whose language is institutionally fluent;
+- whose caste location remains consequential;
+- who can invoke patriotism without being treated as suspect.
+
+This is why the four authorised chants can combine:
+
+- national belonging;
+- anti-colonial revolution;
+- Ambedkarite anti-caste politics;
+- concrete ministerial accountability;
+
+without proving that every participant occupied those traditions equally.
+
+The rhetoric is part of the public.
+
+It is not a topographical survey of the terrain beneath it.
+
+---
+
+## 🧮 Caste Was Neither Invented Nor Left Untouched By The Raj  
+
+Caste long predates British rule.
+
+It should not be reduced to a colonial invention.
+
+It should also not be narrated as an ancient, uniform and unchanging system upon which colonial power had no effect.
+
+Colonial rule interacted with existing hierarchies through:
+
+- census classification;
+- ethnographic ranking;
+- land and revenue systems;
+- military and administrative recruitment;
+- occupational categorisation;
+- legal recognition;
+- industrial and labour reorganisation;
+- access to education and state employment.
+
+The effect was not identical across every region or community.
+
+But counting, naming and governing people through simplified categories could make those categories more administratively consequential. Scholarship on the colonial census shows that official classification could increase caste salience, override more ambiguous identities and encourage organised claims about rank and recognition. See, for example, [*Caste in the Census of India*](https://doi.org/10.1017/9781108779678.004) and the wider historical reappraisal in [*Caste and its Histories in Colonial India*](https://doi.org/10.1017/S0026749X16000453).
+
+```text
+pre-colonial hierarchy
++
+colonial classification and political economy
++
+post-independence reform, persistence and resistance
+        ↓
+contemporary caste cannot be explained by one origin story
+```
+
+This matters for movement analysis because caste may shape:
+
+- who has accumulated educational advantage;
+- whose speech sounds institutionally familiar;
+- who possesses transport, time and legal support;
+- whose family or community networks can absorb retaliation;
+- who is already exposed to police disbelief or occupational stigma;
+- who can treat a shared insult as playful and who hears an older pollution code inside it.
+
+The existence of `Jai Bhim` in the authorised chant set makes the anti-caste register visible.
+
+It does not make the terrain level.
+
+---
+
+## 🌐 The Diaspora Is A Selected Public  
+
+India’s diasporas were not produced through one migration route.
+
+They include different histories of:
+
+- indenture;
+- maritime and industrial labour;
+- postwar migration;
+- regional and family chains;
+- displacement;
+- study;
+- professional recruitment;
+- contemporary skilled-worker systems.
+
+Each route selected differently by:
+
+- region;
+- caste;
+- class;
+- religion;
+- gender;
+- language;
+- education;
+- access to capital and sponsorship.
+
+Migration may weaken some caste relations, reproduce others or create new forms of concealment and contestation. British evidence reviews have documented allegations of caste discrimination while also warning that the available data cannot provide a complete map of caste in Britain. The point is not that caste travels unchanged. It is that crossing a border does not automatically dissolve it. See the UK government’s [evidence review on caste discrimination and harassment](https://assets.publishing.service.gov.uk/media/5a78c135ed915d042206515b/caste-discrimination.pdf).
+
+```text
+visible diaspora voice
+≠ representative sample of India
+≠ representative sample of the diaspora
+```
+
+A prosperous, English-speaking or professionally established diaspora participant may have strong access to:
+
+- international media;
+- universities;
+- political institutions;
+- platform amplification;
+- transnational advocacy networks.
+
+Another participant may be present through:
+
+- family messaging;
+- regional-language circulation;
+- religious or community networks;
+- low-visibility labour;
+- private anti-caste organising.
+
+The diaspora can widen the movement’s reach while reproducing its unevenness.
+
+That fuller transnational circulation belongs in `🌐_india_is_not_a_local_network.md`.
+
+Here, the essential point is:
+
+> Neither British class shorthand nor the most visible migrant success story tells us whose India became audible abroad.
 
 ---
 
@@ -557,12 +799,27 @@ Others may rely on:
 
 Digital inequality affects:
 
+- who can discover the movement;
 - who originates content;
 - who becomes visible;
+- who can survive being visible;
+- who can recover after account loss or harassment;
+- who remains involved after the first wave of attention;
 - whose evidence survives;
 - whose account is treated as authoritative.
 
 The movement may be network-native without every participant having equal network capacity.
+
+```text
+equal access to a platform
+≠ equal ability to survive visibility
+```
+
+Reduced discoverability may prevent someone from finding the public at all.
+
+Harassment, reporting, doxxing or reputational attack may then affect whether they can remain within it.
+
+Private circulation may preserve participation while making that participation less visible to later researchers.
 
 ---
 
@@ -823,6 +1080,7 @@ A serious participation map would need evidence concerning:
 - media appearances;
 - care labour;
 - risk and retaliation.
+- diaspora location and migration route where relevant and safe.
 
 This evidence may be:
 
@@ -912,6 +1170,7 @@ For claims about visibility and representation, preserve:
 - through which outlet;
 - whether formally authorised;
 - whether repeatedly presented as representative.
+- whether domestic, diaspora or international audiences supplied the visibility.
 
 For claims about labour, preserve:
 
@@ -972,13 +1231,13 @@ Visibility was therefore an achievement, not proof of representativeness. A comm
 
 ## 🌌 Constellations  
 
-🗻 🧱 🗣️ 🎙️ 🩹 🪪 ♿ 🗺️ — unequal publics; caste; class; language; spokespersons; invisible labour; risk; disability; geography.
+🗻 🧱 🗣️ 🌐 ⚖️ — unequal publics; caste and class; institutional inheritance; diaspora selection; lived access to law and visibility.
 
 ---
 
 ## ✨ Stardust  
 
-public formation, unequal visibility, movement participation, caste, class, language, gender, disability, geography, digital access, social capital, spokespersons, invisible labour, media visibility, anti-caste solidarity, Jai Bhim, Cockroach Janta Party, movement equality, participation risk
+public formation, unequal visibility, caste and class, colonial continuity, decolonial rhetoric, policing, diaspora selection, digital access, movement equality, participation risk
 
 ---
 
@@ -1002,4 +1261,4 @@ It examines how a shared movement identity widened participation while leaving v
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-28_
+_Last updated: 2026-08-04_
