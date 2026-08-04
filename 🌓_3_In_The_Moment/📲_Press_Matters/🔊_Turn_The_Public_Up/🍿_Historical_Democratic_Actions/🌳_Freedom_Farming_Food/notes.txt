@@ -1,1 +1,80 @@
-
+🌳_Freedom_Farming_Food/
+│
+├── README.md
+├── 🧮_the_farm_is_where_policy_collisions_land.md [new]
+│
+├── 🚨_Why_This_Cluster_Exists/
+│   ├── README.md
+│   ├── 🚨_why_the_policing_of_farming_looked_weird.md [new]
+│   ├── ❓_the_parliamentary_questions_did_not_match_the_problem.md [new]
+│   ├── 🗓️_the_2024_2026_uk_farmers_protest_timeline.md [new]
+│   ├── 📋_what_farmers_were_actually_asking_for.md [new]
+│   └── 🕳️_the_follow_up_gap.md [new]
+│
+├── 🌱_The_Live_British_Farming_Settlement/
+│   ├── README.md
+│   ├── 🌳_food_is_not_optional.md [existing]
+│   ├── 🕸️_food_as_national_infrastructure.md [existing]
+│   ├── 📉_asset_rich_cash_poor_farming.md [existing]
+│   ├── 🚜_tools_are_not_costumes.md [existing]
+│   ├── 🍞_use_value_vs_hoarding.md [existing]
+│   ├── 🌀_the_post_brexit_farming_settlement.md [new]
+│   ├── 🧶_labour_migration_and_the_immigration_double_bind.md [new]
+│   ├── 📣_what_farming_campaigns_are_still_asking_for.md [new]
+│   ├── 🛰️_rural_crime_is_a_food_production_problem.md [new]
+│   ├── 🏛️_where_local_and_central_government_meet.md [new]
+│   └── 🗺️_farmers_protests_across_borders.md [new]
+│
+├── 🌊_Climate_Water_And_Biological_Risk/
+│   ├── README.md
+│   ├── 💊_antibiotics_as_crisis_adaptation.md [existing]
+│   ├── 🦠_farming_under_uninsurable_catastrophe.md [existing]
+│   ├── 🧩_bringing_farmers_environment_and_public_together.md [existing]
+│   ├── 🌡️_heat_drought_and_changed_farm_operations.md [new]
+│   ├── 🌊_water_is_a_production_input.md [new]
+│   └── 🧫_disease_biosecurity_and_veterinary_capacity.md [new]
+│
+├── 🧰_Food_As_National_Resilience/
+│   ├── README.md
+│   ├── 🧰_food_security_is_a_defence_question.md [new]
+│   ├── 🌍_global_conflict_and_import_dependency.md [new]
+│   └── 🧮_stress_testing_the_british_food_system.md [new]
+│
+├── 🍿_Historical_Memory_And_Democratic_Legitimacy/
+│   ├── README.md
+│   │
+│   ├── 🏹_Land_Ownership_And_Stewardship/
+│   │   ├── README.md
+│   │   ├── 🏹_the_commons_and_collective_survival.md [existing]
+│   │   ├── ✂️_enclosure_as_efficiency_theatre.md [existing]
+│   │   ├── 📜_the_levellers_and_land_freedom.md [existing]
+│   │   ├── 🪵_land_without_stewardship.md [existing]
+│   │   ├── 🫏_stewardship_without_sovereignty.md [existing]
+│   │   └── 🌱_land_trusts_custodianship_models.md [existing]
+│   │
+│   ├── 🌾_Culture_Labour_And_Public_Memory/
+│   │   ├── README.md
+│   │   ├── 🌾_home_front_memory_and_food.md [existing]
+│   │   ├── 📺_pastoral_memory_and_public_sympathy.md [existing]
+│   │   ├── 🐈‍⬛_workers_dont_abandon_workers.md [existing]
+│   │   └── 🥀_bella_ciao.md [existing]
+│   │
+│   └── 🎭_Taxation_Legitimacy_And_Rupture/
+│       ├── README.md
+│       ├── 🎭_procedure_without_legitimacy.md [existing]
+│       ├── 🧠_the_moral_floor_of_taxation.md [existing]
+│       ├── 🧾_the_tax_collector_problem.md [existing]
+│       ├── 🥖_food_taxation_and_revolution.md [existing]
+│       ├── 🔥_when_food_triggers_regime_failure.md [existing]
+│       └── 🧨_where_revolutions_actually_come_from.md [existing]
+│
+├── 🗺️_A_Workable_Farming_Settlement/
+│   ├── README.md
+│   └── 🗺️_principles_for_a_workable_farming_settlement.md [new]
+│
+└── 🔬_Evidence_And_Watchlists/
+    ├── README.md
+    ├── 🔎_source_and_claim_ledger.csv
+    ├── 🗓️_protest_policy_and_follow_up_register.csv
+    ├── 🌡️_emerging_farm_impacts_watchlist.csv
+    └── 🧮_food_resilience_risk_register.csv
