@@ -2,7 +2,9 @@
 **First created:** 2026-08-06 | **Last updated:** 2026-08-06  
 *An optional Yiddish pause for diaspora Jews who need grounding, company, or a small act of cultural repair after a difficult digital day.*  
 
-<!-- I will not be attempting a break, but I am acknowledging that the uncles are busy and I am coincidentally finding everything electronic to be taking one. -->
+<!-- I will not be attempting a break, but I am acknowledging that the uncles are busy and I am coincidentally finding everything electronic to be taking one. 
+
+A shame, because I had a great one about a yeti wandering down a mountain having perfected the spherical snowball, only to find apparently everyone had been arguing about the existence or not of said cryptid. A shande, I tell you. -->
 
 ---
 
