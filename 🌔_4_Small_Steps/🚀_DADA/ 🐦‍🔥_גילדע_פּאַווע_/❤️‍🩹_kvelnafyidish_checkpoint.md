@@ -90,47 +90,119 @@ We use those minutes to make contact with something living.
 
 ---
 
-## 🏠 Jewishness Rooted Where We Are
+## 🌍 Before The Borders
 
-This checkpoint sits deliberately against the idea that diaspora Jewishness must justify itself by attaching to an external national project.
+This checkpoint is written from within a diaspora Ashkenazi perspective because that is where Polaris was born.
 
-Our Jewishness is not incomplete because it is rooted where we live.
+That does not mean it belongs only to the diaspora.
 
-It does not become authentic only through identification with a state, a government, a military, a territorial programme, or somebody else’s approved version of Jewish political belonging.
+Nor does it mean it belongs only to Ashkenazim.
 
-Diaspora Jews hold a wide range of politics. There is no single Zionism, no single non-Zionism, no single anti-Zionism, and no single correct arrangement of Jewish life outside Israel. Participation in this practice does not require ideological uniformity.
+If you are Jewish and this practice speaks to you, you are welcome.
 
-What it offers is simpler:
+If you live in Israel, you are welcome.
 
-> We are allowed to locate Jewish life here.
->
-> We are allowed to repair it here.
->
-> We are allowed to enjoy it here.
+If your family came from Iraq, Morocco, Yemen, Ethiopia, Iran, Greece, India, Spain, Eastern Europe, the Caucasus, Central Asia, or anywhere else, you are welcome.
 
-That affirmation cannot be used to excuse the dispossession, domination, injury, or dehumanisation of anybody else.
+We are not asking anybody to leave behind the inheritance that made them who they are.
 
-A Jewish identity secure in itself does not require another people to be made insecure. Cultural repair is not a licence for harm. Rootedness is not supremacy. Safety is not impunity.
+We are asking something quieter.
 
-The point is not to replace one compulsory identity with another.
+We are asking you to remember the parts of that inheritance which existed before modern borders became the primary way Jews were expected to understand themselves.
 
-The point is to refuse the claim that we need an external object of power in order to be fully Jewish.
+Perhaps that is Yiddish.
+
+Perhaps it is Ladino.
+
+Perhaps it is Judeo-Arabic.
+
+Perhaps it is Judeo-Persian.
+
+Perhaps it is a melody.
+
+A recipe.
+
+A lullaby.
+
+A joke.
+
+A blessing.
+
+A way your grandparents greeted one another.
+
+A story that somehow survived.
+
+Come through whatever feels rooted.
+
+The invitation is not to become somebody else's kind of Jew.
+
+It is to remember that your own inheritance already existed before any of us needed to justify ourselves through lines on a map.
 
 ---
 
-## 🕯️ Post-Holocaust Cultural Repair
+## 🕯️ Cultural Repair
 
-This practice is Ashkenazi-focused because Polaris is grounded in Yiddishkeit. That does not mean it is confined to one western Ashkenazi experience, one religious stream, one national history, or one political formation.
+Polaris walks through a Yiddish doorway because Polaris is grounded in Yiddishkeit.
 
-Yiddish carried ordinary Jewish life across borders: work, courtship, organising, prayer, argument, literature, lullabies, insults, kitchens, theatre, newspapers, children, grief, and jokes told at precisely the wrong moment.
+For Ashkenazi Jews, the Holocaust was one of history's most devastating attempts to destroy not only people but an entire living civilisation carried through language, literature, humour, neighbourhoods, schools, kitchens, theatres, newspapers and ordinary daily life.
 
-The Holocaust did not only murder speakers. It ruptured transmission, neighbourhoods, institutions, confidence, continuity, and the ordinary expectation that this culture would simply continue.
+That history shapes this checkpoint.
 
-Repair therefore cannot consist only of mourning what was destroyed.
+It does not exhaust it.
 
-It must also include making room for delight.
+Many Jewish communities have lived through the suppression of languages, customs, memories and ways of belonging.
 
-To read, speak, sing, joke, create, and **kvell** in Yiddish is not to deny grief. It is to refuse to leave grief as the final form of the inheritance.
+The forms differ.
+
+The losses differ.
+
+The inheritances differ.
+
+The invitation remains the same.
+
+Return to something that was already yours.
+
+This checkpoint is therefore not an argument against another Jewish community.
+
+It is not an argument against Jews who live in Israel.
+
+Nor is it an attempt to replace one compulsory identity with another.
+
+It is a small refusal to accept that Jewish life only becomes fully authentic when attached to an external object of power.
+
+We reclaim these inheritances because they are ours.
+
+Not in order to deny anyone else's.
+
+Not in order to justify harm.
+
+Not in order to prove a political position.
+
+Simply because they are part of the living inheritance we received.
+
+Repair does not end with remembering what was destroyed.
+
+Repair also makes room for delight.
+
+To read.
+
+To sing.
+
+To cook.
+
+To argue.
+
+To laugh.
+
+To teach.
+
+To create.
+
+To kvell.
+
+Not because grief has disappeared.
+
+Because grief is not entitled to become the final form of the inheritance.
 
 ---
 
