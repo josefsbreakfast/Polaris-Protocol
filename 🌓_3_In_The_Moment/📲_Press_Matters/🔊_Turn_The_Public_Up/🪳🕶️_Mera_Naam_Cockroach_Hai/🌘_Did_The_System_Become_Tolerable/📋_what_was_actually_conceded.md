@@ -1,652 +1,406 @@
-# 📋 What Was Actually Conceded  
-**First created:** 2026-07-29 | **Last updated:** 2026-07-29  
-*An evidence-controlled inventory of the government response, separating formal concession, political assurance, legal implementation and unresolved promise.*  
+﻿# 📋 What Was Actually Conceded  
+**First created:** 2026-07-29 | **Last updated:** 2026-08-06  
+*A dated settlement ledger separating demand, assurance, formal instrument, delivery and independently verifiable effect.*  
 
 ---
 
 ## 🛰️ Orientation  
 
-On 25 July 2026, the Cockroach Janta Party announced that it was ending its agitation after the resignation of Union Education Minister Dharmendra Pradhan and talks with the central government.
+On 25 July 2026, the Cockroach Janta Party ended its nationwide agitation after Union Education Minister Dharmendra Pradhan resigned and CJP representatives appeared with Union ministers to announce a wider settlement.
 
-Headlines described:
+The public announcement joined several different things under one political headline:
 
-- victory;
-- acceptance of all demands;
-- withdrawal of police cases;
-- compensation;
-- education reform.
+- a completed resignation;
+- promised withdrawal of protest cases;
+- release and non-retaliation assurances;
+- compensation for bereaved families;
+- consideration of a five-point examination-reform charter.
 
-Those phrases did not all describe the same evidentiary condition.
+They did not all reach the same evidentiary stage.
 
-By 29 July, the settlement already contained visible gaps.
+By 6 August, the settlement had produced:
 
-Dharmendra Pradhan’s resignation had been formally accepted.
+- one completed personnel concession;
+- one enacted but limited legislative response;
+- a constituted examination-reform process that had not yet delivered reform;
+- substantial but uneven protection from protest-related coercion;
+- a compensation commitment without publicly verified delivery.
 
-Bihar and Assam had announced concrete state-level action on protest cases.
+The present verdict is:
 
-The Supreme Court had provided interim protection against coercive action while allowing investigations to continue.
+> **A major political concession inside a provisional settlement under active test.**
 
-But the central written guarantee reportedly promised for the withdrawal of FIRs had not arrived by the agreed deadline, and CJP was warning that mobilisation could resume.
+The government became responsive enough to secure a pause.
 
-The correct question is therefore not:
+The record does not yet establish that every agreed remedy was delivered or that the examination system became demonstrably tolerable.
 
-> Did the government announce that the demands were accepted?
-
-It is:
-
-> Which demand produced a completed institutional act, which produced only an assurance, and which remained disputed?
+**Position checked:** 2026-08-06.
 
 ---
 
-## 🧭 The Evidence Categories  
+## 🔖 How The Ledger Works  
 
-Every item in this node should be assigned one or more of the following labels:
+The old question—whether a concession was “documented” or “implemented”—is not one ladder.
+
+An official document can record only a future promise.
+
+A reported action can already have produced a practical effect.
+
+This node therefore keeps six fields separate.
+
+| Field | What it records | Typical values |
+|---|---|---|
+| **Demand** | What affected people asked the system to do | resignation, withdrawal, compensation, reform |
+| **Source status** | Where the claim comes from | official instrument, attributed statement, movement document, media report |
+| **Delivery status** | How far the response has travelled | demanded, assured, formalised, commenced, completed, independently verified |
+| **Scope** | Who and where the response covers | national, jurisdiction-specific, category-limited, unclear |
+| **Authority** | Who can perform the act | Union, state, court, police, ministry, examination body |
+| **Next checkpoint** | What evidence would change the classification | order, deadline, payment, report, implementation record |
+
+Confidence belongs to the claim being made.
+
+It does not belong permanently to the concession.
+
+For example:
+
+> Confidence is high that the task force was constituted.
+>
+> Confidence is low that task-force reform has yet changed examination practice.
+
+The distinction protects the record from a common substitution:
 
 ```text
-documented concession
-        ↓
-reported concession
-        ↓
-promised action
-        ↓
-implemented action
-        ↓
-independently verified outcome
-```
-
-Alongside these:
-
-```text
-participant interpretation
+proof that a promise exists
         ≠
-analytical inference
+proof that the promise was delivered
 ```
 
-### Documented concession
+---
 
-An official instrument records the action or commitment.
+## 📋 The Demand Set  
 
-### Reported concession
+The settlement cannot be evaluated only through the demands that dominated the 25 July headlines.
 
-Credible reporting records that a commitment was announced.
+### Immediate settlement demands  
 
-### Promised action
+Contemporary reporting and the joint announcement identify four immediate limbs:
 
-The responsible institution says that it will act later.
+1. Dharmendra Pradhan’s resignation.
+2. Withdrawal of FIRs and cases against covered protesters.
+3. Protection from further direct or indirect targeting.
+4. The maximum compensation available under applicable rules for families linked to examination-crisis deaths.
 
-### Implemented action
+CJP also secured a commitment that its five-point examination-reform charter would be considered in further talks.
 
-The relevant legal, administrative or financial step has occurred.
+The reported settlement language did **not** securely establish that the government accepted the movement’s requested ₹1 crore figure.
 
-### Independently verified outcome
+### The five-point reform charter  
 
-Evidence outside the announcing institution confirms the practical effect.
+CJP’s public charter, released before the settlement, asked for:
 
-### Participant interpretation
+1. a new **Public Examinations (Transparency, Accountability and Candidates’ Rights) Act**;
+2. replacement or statutory reform of national examination bodies, including the NTA and SSC;
+3. enforceable candidate rights covering refund, re-examination, compensation, age and attempt protection, transparency and timed redress;
+4. a **National Aspirant Welfare Fund**, alongside mental-health and coaching-sector protections;
+5. permanent parliamentary oversight, including public reporting and audit.
 
-The movement or affected people explain what they believe was won.
+The charter therefore asked for much more than stronger punishment after a paper leak.
 
-### Analytical inference
+It asked for new rights, new oversight, institutional redesign and remedies that students could use.
 
-The node draws a conclusion from the available record.
+### Related claims not silently converted into concessions  
 
-The categories can overlap.
+The wider protest record also contained demands and petitions concerning:
 
-A concession can begin as a reported promise and later become a documented, implemented and independently verified outcome.
+- independent investigation of alleged police excess;
+- preservation of surveillance and public-order evidence;
+- accountability for coercive policing;
+- release and safety of people involved in the mobilisation;
+- practical repair for students who lost fees, time, attempts or educational opportunity.
 
-That progression should never be assumed.
+These matters remain relevant to the settlement.
+
+They should not be described as accepted settlement terms unless an attributable announcement or formal instrument places them there.
+
+Sonam Wangchuk’s treatment materially shaped the mobilisation, but the sources reviewed for this ledger do not establish his release as a separate limb of the 25 July settlement.
 
 ---
 
-## 📋 The Government’s Announced Response  
+## 🧮 The Authoritative Concession Matrix  
 
-The settlement publicly associated with 25 July contained several distinct components.
-
-### 1. Resignation of Dharmendra Pradhan
-
-**Demand addressed:** visible political accountability for the examination crisis.
-
-**Reported action:** Dharmendra Pradhan announced that he had submitted his resignation as Union Education Minister.
-
-**Formal action:** the President of India, acting on the Prime Minister’s advice, accepted the resignation with immediate effect under Article 75(2).
-
-**Replacement:** Pralhad Joshi was assigned additional charge of the Ministry of Education.
-
-**Assessment on 29 July:** **formally completed**.
-
----
-
-### 2. Withdrawal of protest-related cases
-
-**Demand addressed:** removal of legal coercion and protection of student protesters.
-
-**Reported assurance on 25 July:** Union ministers reportedly agreed that cases against protesters would be withdrawn and that no future action would be taken.
-
-Some reporting described the assurance broadly as applying to all protesters.
-
-Other reports described it more narrowly as concerning Delhi and BJP- or NDA-governed states.
-
-The government was reportedly expected to provide the commitment in writing by Tuesday, 28 July.
-
-**Assessment on 29 July:** **partially implemented, geographically uneven and centrally disputed**.
-
-Concrete action had been announced in Bihar and Assam.
-
-The promised central written guarantee had reportedly not been delivered.
-
----
-
-### 3. Compensation for families of students who died by suicide
-
-**Demand addressed:** material recognition of deaths associated by the movement with the examination crisis.
-
-**Movement demand reported before settlement:** ₹1 crore for each affected family.
-
-**Government response reported on 25 July:** compensation would be provided.
-
-**Unresolved questions:**
-
-- Was ₹1 crore accepted?
-- Which deaths were included?
-- Which institution would decide eligibility?
-- Was causation to be individually assessed?
-- Was a written scheme issued?
-- Was funding allocated?
-- Had any payment been made?
-
-**Assessment on 29 July:** **reported political concession; implementation not established in the sources reviewed**.
-
----
-
-### 4. Broader education and examination reform
-
-**Demand addressed:** structural change beyond resignation and immediate case relief.
-
-**Reported movement action:** CJP submitted a five-point reform charter during talks.
-
-**Reported government response:** the points would be considered or discussed further.
-
-Some headlines described the government as accepting broader reform.
-
-The full five-point charter was not reproduced in the sources reviewed for this node.
-
-No completed reform package, funded implementation plan or independent verification was established.
-
-**Assessment on 29 July:** **reform discussion acknowledged; exact concession and implementation unresolved**.
-
----
-
-### 5. No future legal action against protesters
-
-**Demand addressed:** non-retaliation and future eligibility protection.
-
-**Reported assurance:** no further direct or indirect action would be taken against covered protesters.
-
-**Implementation problem:** a promise of non-retaliation depends on:
-
-- territorial scope;
-- legal authority;
-- the definition of covered conduct;
-- the treatment of existing FIRs;
-- the status of investigations;
-- whether state governments are bound;
-- whether administrative and educational action is included.
-
-The Supreme Court’s interim order restrained coercive action for covered protesters but reportedly allowed investigation of existing FIRs to continue.
-
-**Assessment on 29 July:** **partial interim protection; complete non-retaliation not established**.
-
----
-
-## 🗓️ Concession Chronology  
-
-### Before 25 July 2026
-
-The government had reportedly announced measures including:
-
-- fast-track courts for examination paper-leak cases;
-- proposed legislation or strengthened measures against cheating and corruption.
-
-These measures did not satisfy protesters, who argued that they did not answer political accountability.
-
-They should be recorded as **pre-settlement responses**, not silently converted into CJP-approved concessions.
-
----
-
-### 24 July 2026
-
-CJP representatives reportedly met Union ministers J. P. Nadda and Jitendra Singh.
-
-The movement described three demands as non-negotiable:
-
-- Dharmendra Pradhan’s resignation;
-- compensation for families of students who died by suicide;
-- no legal action against protesters.
-
-CJP also submitted a five-point charter concerning broader reform.
-
-The government said the demands and suggestions had been noted and further talks would occur.
-
-**Evidence status:** reported negotiation; no completed concession at that stage.
-
----
-
-### 25 July 2026 — resignation announced
-
-Dharmendra Pradhan publicly announced that he had submitted his resignation.
-
-His letter framed the decision around:
-
-- concern for youth;
-- preventing students’ futures becoming entangled in legal complexities;
-- national unity;
-- preventing “anti-national forces” from exploiting the situation.
-
-The letter did not plainly accept the movement’s full institutional diagnosis.
-
-It presented resignation as a response to the political situation and as an act intended to protect students and stability.
-
-**Evidence status:** public statement and submitted resignation.
-
----
-
-### 25 July 2026 — resignation formally accepted
-
-Rashtrapati Bhavan announced that the President had accepted Pradhan’s resignation with immediate effect, on the Prime Minister’s advice.
-
-Pralhad Joshi received additional charge of the Education Ministry.
-
-**Evidence status:** documented and implemented concession.
-
----
-
-### 25 July 2026 — joint announcement and movement withdrawal
-
-Union ministers J. P. Nadda and Jitendra Singh appeared with CJP spokespersons Ashutosh Ranka and Saurav Das.
-
-CJP announced that it would withdraw the agitation “in good faith” and asked participants to leave protest sites peacefully.
-
-Reporting associated the settlement with:
-
-- resignation;
-- withdrawal of protest-related cases;
-- compensation;
-- reform discussions;
-- protection from future action.
-
-A written assurance concerning the FIRs was reportedly due by Tuesday.
-
-**Evidence status:** reported political settlement and movement interpretation.
-
----
-
-### 27 July 2026 — Bihar announcement
-
-The Bihar government announced action concerning protests before **6 p.m. on 26 July 2026**.
-
-The reported measures included:
-
-- initiation of the legal process to withdraw FIRs;
-- withdrawal of criminal complaints;
-- withdrawal of show-cause notices;
-- immediate release of people arrested or detained in covered cases;
-- no future direct or indirect action regarding covered incidents.
-
-The cutoff matters.
-
-It limits the scope of the concession.
-
-**Evidence status:** documented or officially reported state-level action; legal completion should still be checked case by case.
-
----
-
-### 27–28 July 2026 — Assam announcement
-
-Assam’s Home and Political Department reportedly stated that:
-
-- five cases had been registered;
-- 13 people had been arrested;
-- withdrawal would be initiated according to law;
-- no further adverse legal action would be taken;
-- the matter would be treated as closed without future proceedings.
-
-**Evidence status:** documented or officially reported state-level commitment; completion and record correction require verification.
-
----
-
-### 28 July 2026 — Supreme Court interim protection
-
-The Supreme Court reportedly directed:
-
-- release of eligible minors arrested or detained;
-- release of other protesters without criminal antecedents;
-- no coercive action against students for the time being;
-- preservation of electronic evidence;
-- continuation of investigations in accordance with law.
-
-The Court’s intervention provided immediate protection.
-
-It did not amount to nationwide withdrawal or quashing of every FIR.
-
-**Evidence status:** implemented interim judicial protection; underlying investigations remained active.
-
----
-
-### 28 July 2026 — written-assurance deadline
-
-The reported deadline for the central written guarantee concerning FIR withdrawal passed without the assurance being delivered to CJP.
-
-**Evidence status:** reported non-performance of an agreed deadline.
-
----
-
-### 29 July 2026 — CJP threatens renewed mobilisation
-
-CJP said that:
-
-- the government had promised withdrawal of FIRs;
-- the promise had not been provided in writing;
-- officials had invoked the Supreme Court order allowing investigations to continue;
-- the movement would announce another nationwide protest if the government did not honour the settlement.
-
-This is significant.
-
-It means the movement’s declaration of victory on 25 July did not survive unchanged through 29 July.
-
-**Evidence status:** participant interpretation and reported settlement dispute.
-
----
-
-### 29 July 2026 — West Bengal position
-
-Reporting from Kolkata indicated:
-
-- 16 arrested protesters were granted bail following the Supreme Court order;
-- the state said no coercive measures would be taken against covered student protesters;
-- active FIRs had not been quashed;
-- investigations were continuing;
-- the state had not adopted the same case-withdrawal position as Bihar and Assam.
-
-**Evidence status:** interim protection and bail; withdrawal not completed.
-
----
-
-## 🔗 Which Demand Did Each Concession Answer?  
-
-### Demand: Dharmendra Pradhan must resign
-
-**Response:** resignation submitted and formally accepted.
-
-**Demand status:** completed at the level of personnel change.
-
-**Unresolved diagnosis:** whether the ministry, examination authority, contractor system and decision structure accepted responsibility or changed.
-
----
-
-### Demand: no legal action against protesters
-
-**Response:** central political assurance; state-level action in Bihar and Assam; Supreme Court interim protection; uneven implementation elsewhere.
-
-**Demand status:** partially met.
-
-**Unresolved diagnosis:** active FIRs, continuing investigations, territorial gaps, record effects and future eligibility.
-
----
-
-### Demand: compensation for affected families
-
-**Response:** agreement reported.
-
-**Demand status:** not yet evidenced as a functioning compensation scheme.
-
-**Unresolved diagnosis:** amount, eligibility, responsible body, payment date and relationship to broader living harm.
-
----
-
-### Demand: systemic education reform
-
-**Response:** five-point charter submitted; further discussion reportedly agreed.
-
-**Demand status:** acknowledged but not yet established as an implemented reform package.
-
-**Unresolved diagnosis:** whether authority, contractor oversight, appeals, security, data governance and recurrence risk changed.
-
----
-
-## 🧾 Formal, Partial, Provisional Or Disputed  
-
-### Formal
-
-- Dharmendra Pradhan’s resignation.
-- Presidential acceptance of the resignation.
-- Assignment of additional charge to Pralhad Joshi.
-
-### Partial
-
-- State-level case actions in Bihar and Assam.
-- Supreme Court protection against coercive action.
-- Bail and release of some arrested protesters.
-
-### Provisional
-
-- compensation;
-- broader education reform;
-- nationwide non-retaliation;
-- nationwide FIR withdrawal.
-
-### Disputed
-
-- whether the government had accepted “all” demands in an enforceable form;
-- whether the FIR commitment was nationwide;
-- whether the promised written assurance would be supplied;
-- whether continued investigation was compatible with the political settlement;
-- whether the movement should remain demobilised.
-
----
-
-## 📊 The Concession Matrix  
-
-| Demand | Announced response | Responsible body | Deadline or timing | Evidence of completion by 29 July | Current confidence |
+| Demand or settlement limb | Exact response located | Formal instrument | Delivery at 6 August | Remaining gap | Routed analysis |
 |---|---|---|---|---|---|
-| Education Minister’s resignation | Dharmendra Pradhan resigned | Prime Minister, President of India, Union executive | Immediate, 25 July | Presidential communiqué; successor given additional charge | **High — completed personnel concession** |
-| Withdrawal of Delhi protest cases | Cases reportedly to be withdrawn | Union government and Delhi authorities | Written assurance reportedly due 28 July | No written assurance reported by deadline | **Low to medium — promised, disputed** |
-| Withdrawal in BJP/NDA-governed states | Cases reportedly to be withdrawn; no future action | Relevant state governments | No single completed national timetable established | Bihar and Assam announced action; uneven elsewhere | **Medium — partial and geographically limited** |
-| Nationwide withdrawal of all protest FIRs | Broadly described in some reporting | Union and state governments; courts where required | Unclear | Supreme Court allowed investigations to continue; active FIRs remained in West Bengal | **Low — not established** |
-| Release of arrested protesters | Release promised or ordered for eligible people | State police, courts, Supreme Court | Immediate or prompt | Releases and bail documented in some jurisdictions | **Medium — substantial but not universally verified** |
-| No future legal action | Political assurance; state non-retaliation language; interim court protection | Union, states, police and institutions | Ongoing | Bihar and Assam issued assurances; central written guarantee absent; investigations continued | **Medium-low — partial** |
-| Compensation for bereaved families | Compensation reportedly accepted | Union government or designated ministry not yet clear | Follow-up expected | No scheme, eligibility decision or payment established in reviewed sources | **Low — announced, not implemented** |
-| ₹1 crore per affected family | Movement demand | Government response unclear | Unclear | No evidence reviewed that exact amount was accepted | **Low — demand, not verified concession** |
-| Five-point education reform charter | Further talks or consideration reported | Union government and Education Ministry | Follow-up meeting or process expected | Full charter and implementation plan not established | **Low — acknowledged discussion** |
-| Fast-track paper-leak courts | Announced before final settlement | Union government and relevant justice institutions | Unclear | Policy announcement reported; implementation not assessed here | **Medium as announcement; low as verified outcome** |
-| Stronger anti-cheating legislation | Announced before final settlement | Parliament and Union government | Legislative process | Later legislative activity requires separate verification | **Outside the completed settlement record** |
+| **Dharmendra Pradhan’s resignation** | Resignation submitted and accepted with immediate effect | Presidential communiqué under Article 75(2) | **Completed personnel concession**; Pralhad Joshi received additional charge | Whether authority, policy, contracts or examination governance changed | [👤 A Resignation Is Not A System](./👤_a_resignation_is_not_a_system.md) |
+| **Withdrawal of protest FIRs and cases** | Political assurance covering central and NDA-governed jurisdictions was reported; Bihar and Assam announced withdrawal processes; Delhi later dropped proceedings against most covered protesters | State announcements and jurisdiction-specific decisions; no single complete national withdrawal instrument located | **Partially implemented and geographically uneven** | Formal withdrawal rather than closure; excluded categories; active cases; record consequences; non-NDA jurisdictions | [⚖️ Withdrawal Of Cases Is Not Symbolic](./⚖️_withdrawal_of_cases_is_not_symbolic.md) |
+| **Release of arrested or detained protesters** | State action and Supreme Court interim directions produced release or bail for covered people | Court directions and state-level implementation | **Substantial interim delivery, not universally verified** | Person-by-person release status; exclusions based on antecedents or alleged conduct; continuing proceedings | [⚖️ Withdrawal Of Cases Is Not Symbolic](./⚖️_withdrawal_of_cases_is_not_symbolic.md) |
+| **No future direct or indirect targeting** | Political and state assurances; Supreme Court restrained coercive action and protected participant data while allowing investigation to continue | Interim judicial directions plus state-level assurances | **Interim and category-limited protection** | Retaliation outside arrest; surveillance; education and employment effects; duration; enforceability | [⚖️ Withdrawal Of Cases Is Not Symbolic](./⚖️_withdrawal_of_cases_is_not_symbolic.md) |
+| **Compensation for bereaved families** | Government representatives reportedly assured the maximum possible compensation under applicable rules | No complete public scheme, eligibility instrument or payment register located in this review | **Promised; delivery not independently verified** | Amount, eligible deaths, causation test, responsible authority, application route, payment dates | [💰 Compensation Is Material Repair](./💰_compensation_is_material_repair.md) |
+| **Requested ₹1 crore per family** | Movement demand remained visible; public settlement wording referred more cautiously to the maximum possible amount under rules | No instrument located accepting the exact figure | **Not verified as an accepted concession** | Whether any family qualifies for that amount and under which rule | [💰 Compensation Is Material Repair](./💰_compensation_is_material_repair.md) |
+| **Five-point examination-reform charter** | Government agreed to consider the charter and continue discussion | Attributed settlement statements; no instrument accepting every charter limb | **Acknowledged for consideration, not accepted in full** | Point-by-point response, owners, deadlines, funding and enforceability | [🏛️ Reform Only Exists When It Is Implemented](./🏛️_reform_only_exists_when_it_is_implemented.md) |
+| **Nandan Nilekani-led examination-reform task force** | Prime Minister announced that a high-powered task force had been constituted | Official PMO announcement | **Constituted; output and implementation pending** | Full terms, membership, consultation, report date, publication and adoption | [🏛️ Reform Only Exists When It Is Implemented](./🏛️_reform_only_exists_when_it_is_implemented.md) |
+| **Stronger anti-paper-leak law** | Amendment increased penalties, created faster investigation and trial mechanisms, and strengthened service-provider sanctions | Public Examinations (Prevention of Unfair Means) Amendment Act 2026, effective 31 July | **Enacted and commenced, but limited in analytical scope** | Prevention, candidate rights, ombudsman, vendor transparency, automatic remedies and examination-body redesign | [🏛️ Reform Only Exists When It Is Implemented](./🏛️_reform_only_exists_when_it_is_implemented.md) |
+| **Independent investigation or police accountability** | Supreme Court sought preservation of evidence and considered allegations of excess force; interim protections were ordered | Judicial proceedings and interim directions | **Active accountability process; not established here as a completed settlement concession** | Final investigation mechanism, findings, responsibility and remedy | [👁️ Monitoring The New Status Quo](./👁️_monitoring_the_new_status_quo.md) |
+| **Practical candidate remedies** | CJP charter proposed refund, free re-examination, compensation, age and attempt protection, transparency and timed redress | Movement charter; no complete corresponding government instrument located | **Demand documented; delivery not established** | Legal entitlement, administrative owner, automatic access and enforcement | [🏛️ Reform Only Exists When It Is Implemented](./🏛️_reform_only_exists_when_it_is_implemented.md) |
+
+The matrix is deliberately asymmetric.
+
+Some rows describe actions the government formally completed.
+
+Others record the continuing distance between a movement demand and an enforceable remedy.
 
 ---
 
-## 📰 The Headline And The Implementation Record  
+## 🗓️ Status-Changing Chronology  
 
-Several reports said:
+This chronology includes only events that changed—or materially clarified—a ledger status.
 
-- the government accepted all demands;
-- the movement ended after victory;
-- the legal cases would be withdrawn;
-- compensation and reform had been secured.
+### 15 July 2026 — reform benchmark published  
 
-Those headlines accurately reflected the political announcement and the movement’s position on 25 July.
+CJP published its five-point examination-reform charter.
 
-They did not establish that every concession had already been implemented.
+This established the movement’s structural benchmark before the settlement.
 
-By 29 July:
+**Status change:** reform demand documented in primary movement material.
 
-- one concession was formally complete;
-- some legal protections had been implemented;
-- some states had begun case withdrawal;
-- other FIRs remained active;
-- investigations continued;
-- the promised central written assurance was disputed;
-- compensation lacked an evidenced operational scheme;
-- reform detail remained incomplete.
+### 24 July 2026 — immediate demands placed in negotiation  
 
-The headline was real.
+CJP representatives met Union ministers and described resignation, compensation and non-retaliation as non-negotiable, while placing the five-point charter before the government.
 
-So was the implementation gap.
+**Status change:** demands entered attributed government–movement negotiation.
+
+### 25 July 2026 — resignation completed  
+
+Dharmendra Pradhan submitted his resignation.
+
+The President accepted it with immediate effect on the Prime Minister’s advice, and Pralhad Joshi received additional charge of the Education Ministry.
+
+**Status change:** personnel demand moved from demanded to formally completed.
+
+### 25 July 2026 — wider settlement announced  
+
+CJP withdrew the agitation “in good faith” after a joint appearance with Union ministers.
+
+The public account included case withdrawal, non-retaliation, maximum possible compensation and further consideration of the reform charter.
+
+A written assurance on FIRs was reportedly expected by 28 July.
+
+**Status change:** remaining limbs moved from demands to attributed political assurances.
+
+### 26 July 2026 — examination task force constituted  
+
+The Prime Minister announced a high-powered task force under Nandan Nilekani.
+
+**Status change:** a reform process became official; substantive reform did not yet become implemented.
+
+### 27 July 2026 — Bihar and Assam announce case action  
+
+Bihar and Assam announced jurisdiction-specific withdrawal, release or non-retaliation measures.
+
+**Status change:** the case assurance began producing state-level administrative action.
+
+### 28 July 2026 — interim judicial protection  
+
+The Supreme Court directed release for covered protesters, restrained coercive action, protected personal data and ordered preservation of public-order evidence.
+
+Investigations could continue.
+
+**Status change:** immediate safety improved; political withdrawal of all FIRs was not completed by the order.
+
+### 28–29 July 2026 — written-guarantee dispute  
+
+CJP said the promised central assurance had not arrived in the agreed form and warned that mobilisation could resume.
+
+**Status change:** the national case-withdrawal limb became openly disputed.
+
+### 29–30 July 2026 — amended law passes Parliament  
+
+The Public Examinations amendment passed the Lok Sabha on 29 July and the Rajya Sabha on 30 July.
+
+### 31 July 2026 — amended law takes effect  
+
+The amended Act entered the consolidated India Code record as Act 10 of 2026, effective 31 July.
+
+**Status change:** the punitive and procedural legislative response became enacted and commenced.
+
+### Late July–3 August 2026 — withdrawal route clarified, delivery remains uneven  
+
+Delhi dropped legal proceedings against most covered protesters while retaining exclusions.
+
+The Supreme Court subsequently clarified that its interim order did not prevent governments from withdrawing or closing FIRs.
+
+CJP continued to ask the Union and NDA state governments to perform the promised withdrawals.
+
+**Status change:** the legal route was clarified; complete nationwide delivery was not established.
+
+### 6 August 2026 — position checked  
+
+No public record located in this review established:
+
+- one complete central settlement instrument;
+- formal withdrawal of every covered FIR;
+- correction of every protest-related record;
+- delivery of compensation to every eligible family;
+- acceptance of all five reform limbs;
+- implementation of task-force recommendations;
+- practical candidate remedies equivalent to the charter.
+
+Absence from this review is not proof that no additional action occurred.
+
+It is a visible verification boundary.
 
 ---
 
-## 🧪 Rival Accounts Of What Was Won  
+## ⚖️ What The Current Classifications Mean  
 
-### Movement account on 25 July
+### Implemented  
 
-CJP declared victory and urged peaceful withdrawal from protest sites.
+- Pradhan’s resignation and presidential acceptance.
+- Transfer of additional ministerial charge.
+- Enactment and commencement of the amended anti-paper-leak law.
+- Interim judicial protections and some releases.
+- Some jurisdiction-specific case action.
 
-The resignation was treated as proof that sustained youth pressure could force accountability.
+### Constituted or commenced  
 
-The reported settlement was presented as including the remaining demands.
+- the Nilekani-led examination-reform task force;
+- state processes intended to withdraw or close cases.
 
-### Movement account by 29 July
+These categories record that machinery has started.
 
-CJP warned that the government risked betraying the settlement because the FIR assurance had not been delivered in writing.
+They do not certify its final effect.
 
-The movement threatened nationwide re-entry.
+### Promised or acknowledged  
 
-### Central-government account
+- maximum possible compensation under applicable rules;
+- fuller withdrawal and non-retaliation;
+- consideration of CJP’s five-point charter.
 
-Union ministers publicly participated in the settlement announcement.
+### Contested, limited or unverified  
 
-But the sources reviewed do not contain one complete central instrument setting out:
-
-- every accepted demand;
-- exact territorial scope;
-- compensation terms;
-- reform obligations;
-- implementation deadlines;
-- enforcement mechanisms.
-
-### State-government accounts
-
-Bihar and Assam issued comparatively concrete announcements.
-
-West Bengal offered interim non-coercion while keeping FIRs active and investigations open.
-
-Different jurisdictions therefore described and implemented the settlement differently.
-
-### Judicial account
-
-The Supreme Court intervened to reduce immediate coercion and secure releases, while preserving ongoing investigation.
-
-That position was not identical to political withdrawal of all cases.
+- national and category-wide FIR withdrawal;
+- treatment of protesters accused of violence or carrying criminal antecedents;
+- deletion or correction of protest records;
+- compensation amount, eligibility and payment;
+- point-by-point reform acceptance;
+- independent accountability for alleged police excess;
+- enforceable practical remedies for affected candidates.
 
 ---
 
-## ⚠️ What Remained Unresolved  
+## 🧱 The Headline And The Institutional Record  
 
-At the moment of apparent victory, the following remained unresolved:
+“All demands accepted” was a political description of the 25 July settlement.
 
-- the complete written settlement;
-- nationwide territorial scope;
-- the distinction between peaceful protesters and people accused of violence;
-- the status of active FIRs;
-- the legal mechanism for withdrawal;
-- record correction or deletion;
-- future eligibility consequences;
-- the precise compensation amount;
-- compensation eligibility;
-- payment delivery;
-- the full five-point reform charter;
-- government acceptance of each reform point;
-- responsible implementing institutions;
-- funding and deadlines;
-- whether fast-track courts and legislation addressed the movement’s diagnosis;
-- whether the successor inherited unchanged systems;
-- whether police-force allegations and protester allegations would receive independent investigation;
-- whether the movement remained satisfied after the missed deadline.
+It was not one self-executing legal instrument.
 
----
+The strongest reading is not that the headline was false.
 
-## 🧱 The Government Conceded A Point Without Necessarily Accepting The Diagnosis  
-
-Dharmendra Pradhan’s resignation was a direct political concession.
-
-But his letter did not plainly say:
-
-- the examination system was institutionally corrupt;
-- the ministry had failed in the way the movement alleged;
-- contractor governance was defective;
-- police action was unlawful;
-- the movement’s complete diagnosis was accepted.
-
-Instead, it framed resignation around:
-
-- youth welfare;
-- national unity;
-- legal complexity;
-- preventing exploitation by “anti-national forces.”
-
-This distinction matters.
+It is that the headline described the public bargain before every institution required to deliver it had acted.
 
 ```text
-government gives the movement
-the requested outcome
-        ≠
-government accepts
-the movement’s explanation
-of why the outcome was necessary
+movement demand
+        ↓
+political assurance
+        ↓
+formal authority
+        ↓
+administrative or legal act
+        ↓
+practical effect
+        ↓
+independent verification
 ```
 
-A concession may be real while the battle over historical meaning remains open.
+Different settlement limbs stopped at different points.
+
+That is why the resignation can be a completed victory while compensation remains a promise and FIR protection remains uneven.
+
+It is also why the amended Act must not swallow the reform charter.
+
+```text
+stronger punishment for a leak
+        ≠
+repair of the examination system
+```
+
+The 2026 amendment materially changed penalties, investigation timelines and trial structure.
+
+The charter also asked for:
+
+- candidate rights;
+- automatic remedies;
+- examination-body redesign;
+- vendor accountability;
+- an ombudsman;
+- welfare provision;
+- permanent parliamentary oversight.
+
+Those remain separate tests.
 
 ---
 
-## 🏆 What Would Justify Calling The Outcome A Victory?  
+## 👥 One Settlement, Several Publics  
 
-The outcome can already be called a **significant political victory** because:
+The same ledger does not produce one experience.
 
-- the principal resignation demand was achieved;
-- the resignation was formally completed;
-- the movement secured public negotiations;
-- the government publicly addressed legal protection and compensation;
-- state governments began withdrawing cases;
-- judicial intervention reduced immediate coercion;
-- the movement demonstrated credible re-entry capacity.
+A person released without an active case may experience the settlement as substantial relief.
 
-Calling the outcome a **complete victory** would require more.
+A person whose FIR remains open may experience the same announcement as unfinished.
 
-Evidence should establish that:
+A bereaved family may judge the settlement through payment, eligibility and recognition.
 
-- the case-withdrawal promise was implemented across the intended territory;
-- records and future consequences were addressed;
-- compensation reached eligible families;
-- the exact reform commitments were documented;
-- reform was funded and operational;
-- recurrence risk fell;
-- affected students could enforce the settlement;
-- retaliation did not continue through another route.
+A candidate facing lost attempts, fees or years may ask whether any practical remedy exists.
 
-The most accurate description on 29 July is:
+An organiser may judge whether the government kept the terms on which public mobilisation paused.
 
-> a major political victory followed by an unsettled and partially implemented settlement.
+The ledger therefore records institutional status.
+
+It does not overwrite the judgement of people still carrying the unresolved cost.
 
 ---
 
-## 🔍 Verification Tasks  
+## 🔍 Verification Queue  
 
-The next evidence pass should obtain:
+The next evidence pass should seek the following in this order.
 
-- the full text or recording of the 25 July joint press conference;
-- any written central settlement;
-- the exact promised FIR guarantee;
-- the full CJP five-point charter;
-- the Bihar Home Department notification;
-- the Assam Home and Political Department release;
-- the Supreme Court interim order;
-- Delhi FIR and release status;
-- state-by-state FIR tables;
-- compensation scheme documents;
-- payment records;
-- reform meeting minutes;
-- legislation and fast-track-court implementation;
-- participant confirmation of releases and record status.
+| Priority | Missing or changing evidence | Status question it answers | Primary downstream home |
+|---|---|---|---|
+| 1 | Complete written record of the 25 July agreement | What was accepted, by whom, for which territory and on what deadline? | `📋` |
+| 2 | State- and FIR-level withdrawal instruments | Was each case withdrawn, closed, quashed, left open or merely not pursued? | `⚖️` |
+| 3 | Release, bail and antecedent-exclusion records | Who became safer, and who remained exposed? | `⚖️` |
+| 4 | Compensation rules, applications and payment evidence | Did money reach families, in what amount and without what exclusions? | `💰` |
+| 5 | Task-force constitution, remit, membership and reporting timetable | What process exists beyond the announcement? | `🏛️` |
+| 6 | Point-by-point response to the CJP charter | Which structural demands were accepted, rejected, altered or deferred? | `🏛️` |
+| 7 | Rules, notifications and court designations under the amended Act | Did the enacted law become operational machinery? | `🏛️` |
+| 8 | Independent-investigation orders, reports and responsibility findings | Did preservation of evidence become accountability? | `👁️` |
+| 9 | Candidate refund, re-examination, age, attempt and grievance records | Did affected students receive practical repair? | `🏛️` and `💰` |
+| 10 | Dated promise-versus-practice dashboard | Has the provisional settlement stabilised, stalled or failed? | `👁️` and `🔁` |
 
-The absence of a document should remain visible as an absence.
+The queue must remain discoverable after street visibility recedes.
+
+A promise cannot be monitored if nobody can find the document, deadline or responsible authority.
+
+---
+
+## 🔗 Source Routing And Node Boundaries  
+
+This node keeps the smallest evidence needed to classify each concession.
+
+It does not repeat every consequence.
+
+- [👤 A Resignation Is Not A System](./👤_a_resignation_is_not_a_system.md) receives Pradhan’s letter, succession, authority and symbolic-substitution analysis.
+- [⚖️ Withdrawal Of Cases Is Not Symbolic](./⚖️_withdrawal_of_cases_is_not_symbolic.md) receives the state-by-state FIR, detention, release, investigation, record and retaliation evidence.
+- [💰 Compensation Is Material Repair](./💰_compensation_is_material_repair.md) receives amount, eligibility, scheme, application and payment evidence.
+- [🏛️ Reform Only Exists When It Is Implemented](./🏛️_reform_only_exists_when_it_is_implemented.md) receives the full charter, amended Act, task-force and candidate-remedy analysis.
+- [🧽 How Institutions Absorb Pressure Without Changing](./🧽_how_institutions_absorb_pressure_without_changing.md) receives communications, incorporation and pressure-release analysis.
+- [🪓 When A Victory Splits The Coalition](./🪓_when_a_victory_splits_the_coalition.md) receives disagreement over whether the settlement is sufficient.
+- [⏸️ Pause Is Not The Same As Trust](./⏸️_pause_is_not_the_same_as_trust.md) receives good-faith withdrawal, organisational retention and watchful-stabilisation analysis.
+- [👁️ Monitoring The New Status Quo](./👁️_monitoring_the_new_status_quo.md) receives deadlines, owners, changing documents and implementation verification.
+- [🔁 When The Public Reenters The Cycle](./🔁_when_the_public_reenters_the_cycle.md) receives breach thresholds and graduated routes back into public action.
+
+The routing rule is:
+
+> Keep the status here. Move the meaning, mechanism and consequence to the specialist node.
 
 ---
 
@@ -654,118 +408,104 @@ The absence of a document should remain visible as an absence.
 
 This node does not claim that:
 
-- the resignation was merely symbolic;
-- all cases remained active;
-- no protesters were released;
-- Bihar and Assam completed every legal withdrawal by announcement alone;
-- the Supreme Court quashed the FIRs;
-- the government accepted the ₹1 crore figure;
-- compensation had been paid;
-- the five-point charter had been accepted in full;
-- every headline was inaccurate;
-- the movement was wrong to declare victory;
-- the missed written deadline automatically voided every concession;
-- the entire settlement had collapsed by 29 July.
+- the resignation was meaningless because it did not repair the system;
+- every protest case remained active;
+- every case was formally withdrawn;
+- interim non-coercion equals permanent non-retaliation;
+- the exact ₹1 crore demand was accepted;
+- compensation was never paid;
+- constituting a task force implements reform;
+- enacting a stronger offence delivers the five-point charter;
+- every person or jurisdiction experienced the settlement identically;
+- the movement was wrong to pause or to describe the result as a victory.
 
 It does claim that:
 
-- the concessions were not all at the same stage;
+- the settlement contains different authorities, scopes and delivery stages;
 - resignation was formally completed;
 - legal relief was substantial but uneven;
-- central written assurance remained disputed;
-- compensation was not yet evidenced as material delivery;
-- reform remained insufficiently specified;
-- “all demands accepted” was a political description rather than a complete implementation record.
+- the amended law is real change with narrower scope than the charter;
+- compensation delivery was not publicly verified in the reviewed record;
+- the task force exists but its reform effect remains prospective;
+- “all demands accepted” cannot substitute for a dated implementation ledger.
 
 ---
 
-## 🔗 Relationship To The Other Nodes  
+## 📚 Sources And Evidentiary Roles  
 
-This node establishes the concession inventory.
+### Primary and official records  
 
-- `👤_a_resignation_is_not_a_system.md` assesses what changed when Dharmendra Pradhan left office.
-- `⚖️_withdrawal_of_cases_is_not_symbolic.md` follows each FIR, release, investigation, record and eligibility consequence.
-- `💰_compensation_is_material_repair.md` tests the amount, eligibility, application process and payment delivery.
-- `🏛️_reform_only_exists_when_it_is_implemented.md` reconstructs the five-point charter and tracks operational reform.
-- `🧽_how_institutions_absorb_pressure_without_changing.md` examines whether the visible response reduced pressure without redistributing authority.
-- `⏸️_pause_is_not_the_same_as_trust.md` examines the movement’s good-faith withdrawal and the later threat of return.
-- `👁️_monitoring_the_new_status_quo.md` turns each unresolved promise into a dated verification task.
-- `🔁_when_the_public_re-enters_the_cycle.md` examines the conditions under which the missed FIR commitment triggered renewed mobilisation.
+- [President of India — Press Communiqué, 25 July 2026](https://www.presidentofindia.gov.in/press_releases/press-communique-35) — formal acceptance of Dharmendra Pradhan’s resignation and assignment of additional charge to Pralhad Joshi.
+- [Cockroach Janta Party — Five Demands To End India’s Public Examination Crisis](https://www.cockroachjantaparty.org/charter) — primary statement of the structural reform benchmark.
+- [Prime Minister’s Office — High-powered task force on examination reforms](https://www.pmindia.gov.in/en/news_updates/pm-announces-constitution-of-high-powered-task-force-on-examination-reforms/) — official confirmation that the Nilekani-led task force was constituted.
+- [India Code — Public Examinations (Prevention of Unfair Means) Act, consolidated to 31 July 2026](https://upload.indiacode.nic.in/view-casepdf?id=AC_CEN_26_36_00009_A2024-01_1719556801892&type=act) — enacted amendment, commencement and consolidated statutory text.
+- [PRS Legislative Research — 2026 amendment bill record](https://prsindia.org/billtrack/the-public-examinations-prevention-of-unfair-means-amendment-bill-2026) — passage dates and clause-level summary.
+
+### Settlement and delivery reporting  
+
+- [Reuters — resignation and 25 July settlement](https://www.reuters.com/world/asia-pacific/indias-modi-under-pressure-youth-protest-leaders-set-more-talks-2026-07-25/) — contemporaneous account of the political bargain and movement withdrawal.
+- [LiveMint — CJP withdraws agitation “in good faith”](https://www.livemint.com/news/india/minister-resigned-firs-withdrawn-compensation-promised-cjp-withdraws-jantar-mantar-protest-11784981594557.html) — attributed settlement wording, including maximum possible compensation.
+- [Akashvani News — Bihar and Assam case announcements](https://newsonair.gov.in/bihar-and-assam-announce-withdrawal-of-cases-linked-to-neet-protests/) — state-level withdrawal, release and non-retaliation measures.
+- [Reuters — Supreme Court interim protection, 28 July 2026](https://www.reuters.com/world/india/indias-top-court-orders-no-coercive-action-against-youth-protesters-release-2026-07-28/) — releases, data protection, evidence preservation and the continuing accountability proceedings.
+- [Economic Times — Delhi drops proceedings against most covered protesters](https://m.economictimes.com/news/india/delhi-govt-drops-legal-action-against-most-cjp-protestors-those-with-criminal-antecedents-still-face-action/articleshow/132741145.cms) — category-limited Delhi implementation.
+- [Indian Express — states remain free to withdraw FIRs after the interim order](https://indianexpress.com/article/explained/explained-law/supreme-court-withdrawal-fir-cases-students-cjp-protests-10817770/) — legal clarification of the route available to governments.
+- [South First — CJP warns over the missed FIR assurance](https://thesouthfirst.com/beyond-south/cjp-urges-centre-to-honour-promise-to-withdraw-firs-against-protestors-warns-of-fresh-agitation/) — participant account of the implementation dispute and re-entry warning.
+
+### Source boundary  
+
+These sources establish that a concession, assurance, process or formal act existed.
+
+They do not, by themselves, establish:
+
+- the status of every individual FIR;
+- the correction of every police or administrative record;
+- the payment received by every family;
+- acceptance of every charter proposal;
+- implementation of recommendations not yet published;
+- recurrence prevention across the examination system.
+
+Those questions require the downstream ledgers.
 
 ---
 
 ## 🧷 Compact Finding  
 
-The government did not concede one thing.
+The settlement did not concede one thing.
 
-It produced a mixed settlement.
+It produced one completed resignation, one enacted but limited legal response, a reform process not yet converted into reform, uneven withdrawal of coercion, and material repair still awaiting public verification.
 
-The resignation was formal and complete.
+The headline was a real political victory.
 
-The withdrawal of coercion was real in some places, provisional in others and disputed at the centre.
-
-Compensation was announced without an evidenced delivery system.
-
-Reform was acknowledged without a complete implementation record.
-
-The movement won the headline.
-
-By 29 July, it was already having to fight over whether the headline would become an enforceable settlement.
+The ledger remains provisional because the institutions required to deliver the rest have not all produced the same answer.
 
 ---
 
 ## 🌌 Constellations  
 
-📋 🗓️ 👤 ⚖️ 🧾 — concession inventory; exact chronology; completed resignation; uneven legal relief; announcement separated from implementation.
+📋 👤 ⚖️ 💰 🏛️ — concession inventory; personnel accountability; withdrawal of coercion; material repair; structural implementation.
 
 ---
 
 ## ✨ Stardust  
 
-Cockroach Janta Party, concession matrix, Dharmendra Pradhan resignation, FIR withdrawal, protest cases, compensation, education reform, implementation, Supreme Court, Bihar, Assam, West Bengal, settlement verification
-
----
-
-## 📚 Sources And Starting Points  
-
-- [President of India — Press Communiqué, 25 July 2026](https://www.presidentofindia.gov.in/press_releases/press-communique-35) — formal acceptance of Dharmendra Pradhan’s resignation and assignment of additional Education Ministry charge to Pralhad Joshi.
-- [India Today — Full text of Dharmendra Pradhan’s resignation letter](https://www.indiatoday.in/education-today/news/story/read-full-text-of-dharmendra-pradhans-letter-announcing-resignation-2955970-2026-07-25) — translated resignation wording and stated rationale.
-- [The Indian Express — CJP–Centre talks and five-point reform charter](https://indianexpress.com/article/india/cjp-centre-talks-dharmendra-pradhan-resignation-jantar-mantar-protest-10802150/lite/) — reported non-negotiable demands and submission of a five-point reform charter.
-- [Associated Press — Movement calls off protests after resignation](https://apnews.com/article/india-cockroach-education-minister-56d69c289589f057c0e72cde0c3d75d3) — movement declaration, reported remaining demands and earlier government responses.
-- [Hindustan Times — CJP withdraws agitation in good faith](https://www.hindustantimes.com/india-news/government-agrees-to-withdraw-all-police-cases-against-protesters-cjp-abhijeet-dipke-pradhan-resigns-jantar-mantar-101784981021788.html/) — reported joint press conference and case-withdrawal assurance.
-- [The Week — Government assurances on cases, compensation and follow-up](https://www.theweek.in/news/india/2026/07/25/cjp-agitation-withdrawn-neet-victim-compensation-protester-cases-dropped.html) — reported written-assurance deadline and settlement terms.
-- [Onmanorama — Compensation, FIR rollback and reform talks](https://www.onmanorama.com/news/india/2026/07/25/cjp-protests-withdrawn-centre-talks.html) — reported settlement categories and five-point charter.
-- [Akashvani News — Bihar and Assam announce withdrawal of cases](https://newsonair.gov.in/bihar-and-assam-announce-withdrawal-of-cases-linked-to-neet-protests/) — state-level withdrawal, release and non-retaliation announcements.
-- [Times of India — CJP warns of renewed protest after written deadline](https://timesofindia.indiatimes.com/city/delhi/only-a-few-hours-remain-before-deadline-expires-another-warning-from-cjp-of-fresh-protest/articleshow/132698870.cms) — reported missed assurance, Supreme Court issue and renewed mobilisation warning.
-- [Times of India — Kolkata releases and active investigations](https://timesofindia.indiatimes.com/city/kolkata/jail-to-bail-in-3-hrs-all-16-neet-protesters-get-relief-after-sc-order-prompts-2nd-hearing/articleshow/132694307.cms) — bail, non-coercion, active FIRs and continuing investigations in West Bengal.
-
-These sources establish the public resignation, settlement reporting, state-level actions, judicial intervention and the dispute visible by 29 July.
-
-They do not yet establish:
-
-- one complete and enforceable central settlement;
-- nationwide withdrawal of every FIR;
-- record deletion;
-- payment of compensation;
-- acceptance of the exact ₹1 crore demand;
-- the full contents or implementation of the five-point reform charter.
+government concession, political settlement, protest cases, material repair, examination reform, implementation ledger, task force, candidate rights, verification, political re-entry
 
 ---
 
 ## 🏮 Footer  
 
 *📋 What Was Actually Conceded* is a living case-study node of the **Polaris Protocol**.  
-It records each reported response to the Cockroach movement and separates political announcement, formal action, legal implementation, independent verification and participant interpretation.
+It is the authoritative settlement ledger for the 🌘 cluster: recording what was demanded, what was answered, which authority acted, how far delivery travelled and what remains to be verified.
 
 > 📡 Cross-references:
 >
-> - [🌘 Did The System Become Tolerable?](./README.md) — *folder-level framework for testing concession, repair and re-entry*  
-> - [👤 A Resignation Is Not A System](./👤_a_resignation_is_not_a_system.md) — *the difference between personnel accountability and institutional change*  
-> - [⚖️ Withdrawal Of Cases Is Not Symbolic](./⚖️_withdrawal_of_cases_is_not_symbolic.md) — *case-by-case assessment of coercion, records and future consequence*  
-> - [💰 Compensation Is Material Repair](./💰_compensation_is_material_repair.md) — *whether announced compensation became proportionate payment*  
-> - [🏛️ Reform Only Exists When It Is Implemented](./🏛️_reform_only_exists_when_it_is_implemented.md) — *whether the reform charter became operational change*  
-> - [🔁 When The Public Re-Enters The Cycle](./🔁_when_the_public_re-enters_the_cycle.md) — *how the missed written commitment reopened mobilisation*  
+> - [🌘 Did The System Become Tolerable?](./README.md) — *the cluster-level tolerance test and current settlement verdict*  
+> - [👤 A Resignation Is Not A System](./👤_a_resignation_is_not_a_system.md) — *the next node in the sequence, testing personnel change against institutional continuity*  
+> - [⚖️ Withdrawal Of Cases Is Not Symbolic](./⚖️_withdrawal_of_cases_is_not_symbolic.md) — *the coercion and safety ledger*  
+> - [💰 Compensation Is Material Repair](./💰_compensation_is_material_repair.md) — *the material-delivery ledger*  
+> - [🏛️ Reform Only Exists When It Is Implemented](./🏛️_reform_only_exists_when_it_is_implemented.md) — *the structural-reform ledger*  
+> - [👁️ Monitoring The New Status Quo](./👁️_monitoring_the_new_status_quo.md) — *the shared implementation dashboard*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-29_
+_Last updated: 2026-08-06_
