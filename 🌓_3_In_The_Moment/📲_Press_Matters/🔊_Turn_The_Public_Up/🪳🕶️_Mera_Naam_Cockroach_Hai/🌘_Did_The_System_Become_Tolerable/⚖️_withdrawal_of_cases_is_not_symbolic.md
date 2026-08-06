@@ -1,862 +1,536 @@
 # ⚖️ Withdrawal Of Cases Is Not Symbolic  
-**First created:** 2026-07-30 | **Last updated:** 2026-07-30  
-*Why ending protest-related cases matters as the removal of coercive harm—and why withdrawal must be distinguished from bail, temporary restraint, inactivity, continuing investigation and actual restoration.*  
+**First created:** 2026-07-30 | **Last updated:** 2026-08-06  
+*A case-by-case test of whether protest-related legal coercion ended—not merely whether custody stopped, withdrawal was announced or authorities were permitted to act.*  
 
 ---
 
 ## 🛰️ Orientation  
 
-A resignation changes who holds office.
+The resignation changed who exercised ministerial authority.
 
-Withdrawal of cases changes what the state can continue doing to a person.
+Withdrawal of cases determined whether participants remained legally answerable to the state.
 
-That difference matters.
+That is not a symbolic distinction.
 
-A protest-related case can create:
+An FIR, complaint, arrest, notice or prosecution can redirect a person’s time, money, education, work, travel and future choices without ever producing a conviction. The person cannot simply leave the relationship. The state can still require attendance, disclosure, representation, compliance and waiting.
 
-- arrest;
-- detention;
-- bail conditions;
-- repeated police attendance;
-- legal expense;
-- missed study or work;
-- travel difficulty;
-- family fear;
-- institutional scrutiny;
-- reputational harm;
-- future eligibility problems;
-- a continuing reason to avoid political participation.
+The settlement therefore had to be tested at the level where coercion actually operated:
 
-The case does not need to end in conviction to produce these effects.
+```text
+political promise
+        ↓
+jurisdiction-specific instruction
+        ↓
+police or prosecutorial act
+        ↓
+court consent where required
+        ↓
+final case status
+        ↓
+accurate record and ended restrictions
+```
 
-The central assessment question is:
+By **6 August 2026**, substantial protection and several formal implementation steps had been documented. A complete national case-closure record had not.
 
-> Was coercion actually removed, or was immediate pressure reduced while the record, investigation and future risk remained?
-
-The public announcement that cases would be withdrawn was therefore not a decorative part of the settlement.
-
-For many participants, it was the part most directly connected to whether they could safely return to ordinary life.
+> **Verdict:** Meaningful interim protection and real jurisdictional implementation—but not yet verified closure of every covered case.
 
 ---
 
-## ⚖️ Dropping Cases Withdraws Coercion  
+## 📊 Position Checked On 6 August  
 
-Legal pressure is distinct from public criticism.
+| Question | Position checked 2026-08-06 |
+|---|---|
+| Was withdrawal promised? | **Yes—publicly, for covered protesters and organisers** |
+| Was the promise nationally self-executing? | **No—implementation required action by the competent jurisdiction and, in some cases, a court** |
+| Were detainees released or protected from immediate coercion? | **Substantial relief was documented** |
+| Did every FIR cease to exist? | **Not established in the reviewed public record** |
+| Did Bihar begin formal implementation? | **Yes; case-level completion remained unaudited** |
+| Did Assam begin formal implementation? | **Yes; case-level completion remained unaudited** |
+| Did Maharashtra move beyond the earlier absence of instructions? | **Yes; a formal direction to complete withdrawal was reported** |
+| Did West Bengal complete withdrawal? | **No complete state-level withdrawal instrument was located** |
+| Did Delhi provide protection from further action? | **A non-action position was reported; final case-level closure still required verification** |
+| Did the Supreme Court withdraw every FIR? | **No** |
+| Did the Court prevent states from withdrawing FIRs? | **No—the 3 August clarification left Delhi and other states free to close or withdraw covered FIRs according to law** |
+| Were records, property, eligibility and continuing effects repaired? | **Not comprehensively verified** |
 
-It is also distinct from reputational damage.
-
-The state can use legal and administrative systems to compel a person to:
-
-- appear;
-- answer questions;
-- obtain representation;
-- disclose information;
-- comply with bail;
-- remain within a jurisdiction;
-- surrender documents;
-- risk detention;
-- wait for a final decision.
-
-A case creates an institutional relationship that the affected person cannot simply leave.
+The governing distinction is:
 
 ```text
-case registered
+protection from immediate coercion
+        ≠
+permission to withdraw
+        ≠
+instruction to begin withdrawal
+        ≠
+case-level proof of closure
+```
+
+---
+
+## ⚖️ What Legal Coercion Looked Like  
+
+The covered legal field was not one national file. It included different acts by different authorities:
+
+- FIRs and criminal complaints;
+- arrests and detention;
+- bail and bail conditions;
+- police notices, summons and interviews;
+- show-cause notices;
+- continuing investigation;
+- prosecution already before a court;
+- device or property seizure;
+- police and verification records;
+- possible institutional or disciplinary consequences.
+
+Each produces a different state-person relationship.
+
+```text
+case or notice created
         ↓
-person becomes legally answerable
+person becomes answerable to an institution
         ↓
 time, money and future choices are redirected
         ↓
-coercion continues until
-the process is actually ended
+coercion continues until the relevant process ends
 ```
 
-That is why withdrawal may be one of the movement’s most concrete victories even when it receives less attention than a ministerial resignation.
+Stopping arrest matters.
+
+Ending custody matters.
+
+Neither proves that the underlying case has ended.
 
 ---
 
-## 📋 Which Cases Were Involved?  
+## 🏛️ Withdrawal Is A Procedure, Not A Button  
 
-The reported settlement concerned cases and other proceedings arising from the NEET protest cycle.
+Public language often says that a government will “withdraw an FIR.” The lawful mechanism depends upon the procedural stage.
 
-But “the cases” did not form one national legal file.
+### Before a prosecution reaches court
 
-They could include:
+Police may investigate and conclude that the matter should not proceed. A closure report may be filed where required. A superior court may also quash an FIR or proceeding through its own jurisdiction.
 
-- FIRs;
-- criminal complaints;
-- arrests;
-- detentions;
-- police notices;
-- summons;
-- show-cause notices;
-- university or institutional discipline;
-- allegations involving peaceful assembly;
-- allegations involving property damage;
-- allegations involving violence against people;
-- cases involving people whose relationship to CJP was disputed.
+### Once prosecution is before a court
 
-This means the inventory must be jurisdiction-specific.
+Under **section 360 of the Bharatiya Nagarik Suraksha Sanhita, 2023**, a Public Prosecutor or Assistant Public Prosecutor may, with the court’s consent, withdraw from prosecution before judgment. Depending upon when withdrawal occurs, the accused is discharged or acquitted. The provision also requires an opportunity for the victim to be heard. [India Code — BNSS section 360](https://www.indiacode.nic.in/show-data?abv=CEN&actid=AC_CEN_5_23_00049_202346_1719552320687&orderno=360&orgactid=AC_CEN_5_23_00049_202346_1719552320687&sectionId=91345&sectionno=360&statehandle=123456789%2F1362)
 
-For every case, record:
+The route can therefore involve several distinct authorities:
 
-| Field | Question |
-|---|---|
-| Jurisdiction | Which state, city, force or institution acted? |
-| Case or notice number | What is the traceable reference? |
-| Date | When was it registered or issued? |
-| Named people | Who was affected? |
-| Alleged conduct | What was said to have happened? |
-| Legal provision | Which offence or rule was cited? |
-| Current stage | Inquiry, FIR, arrest, bail, charge sheet, trial or closure? |
-| Movement relationship | Student, organiser, supporter, bystander or disputed? |
-| Promised remedy | Withdrawal, release, non-action or review? |
-| Implementing authority | Who can legally complete it? |
-| Record status | Active, corrected, closed, retained or unknown? |
-| Future effect | Education, employment, travel, verification or discipline? |
+- Union or state government;
+- Home Department;
+- police force or investigating officer;
+- Public Prosecutor;
+- magistrate or trial court;
+- High Court;
+- Supreme Court;
+- university or other administrative body for non-criminal proceedings.
 
-A national political promise must be converted into many local legal acts.
+The Union government could negotiate, coordinate and state a political commitment. It could not erase every state FIR by announcement alone.
 
----
-
-## 🗺️ The Position Was Uneven By Jurisdiction  
-
-By the end of July 2026, the reported position was not uniform.
-
-### Bihar
-
-Bihar’s Home Department announced that it would initiate the legal process to withdraw FIRs, criminal complaints and show-cause notices concerning covered protests registered before **6 p.m. on 26 July 2026**.
-
-It also announced:
-
-- immediate release of people arrested or detained in covered matters;
-- no future direct or indirect action concerning incidents before the cutoff.
-
-The cutoff is part of the concession.
-
-Conduct or cases outside it may remain unaffected.
-
-### Assam
-
-Assam’s Home and Political Department reported:
-
-- five registered cases;
-- 13 arrests;
-- prompt initiation of withdrawal according to law;
-- no further adverse police action;
-- treatment of the covered matter as closed without future proceedings.
-
-Again, initiation is not necessarily completed judicial withdrawal.
-
-### Maharashtra
-
-Despite the central assurance, Mumbai Police reportedly continued issuing notices and recording statements because officers had not received an instruction halting the investigations.
-
-Reporting also noted that the legal route to withdrawal may depend on the procedural stage and may require further government or court action.
-
-### West Bengal
-
-People arrested in Kolkata received bail after the Supreme Court’s interim intervention.
-
-But active FIRs and investigations reportedly remained.
-
-Bail reduced immediate custody.
-
-It did not quash the cases.
-
-### Delhi and other jurisdictions
-
-The central promise reportedly included peaceful protesters, but the complete written instrument, territorial scope and case-by-case implementation remained disputed.
-
-The legal map therefore looked like:
+The procedural vocabulary must remain exact:
 
 ```text
-political assurance
-        ↓
-different state instructions
-        ↓
-different police practice
-        ↓
-different court requirements
-        ↓
-unequal practical relief
+release ≠ bail ≠ non-coercion
+       ≠ withdrawal ≠ closure
+       ≠ quashing ≠ record correction
 ```
 
----
-
-## 🧾 Withdrawal, Stay, Dismissal Or Inactivity  
-
-These terms should not be used interchangeably.
-
-### Withdrawal
-
-The prosecution or authorised government body begins the legal mechanism to discontinue a case.
-
-Depending on the stage and applicable law, court permission may be required.
-
-### Quashing or dismissal
-
-A court formally ends the proceeding or invalidates the case.
-
-### Stay
-
-The matter remains legally alive, but specified action is temporarily halted.
-
-### Bail
-
-The person is released from custody subject to legal conditions.
-
-The underlying case ordinarily remains.
-
-### No coercive action
-
-The authorities are temporarily restrained from arresting or otherwise coercing the person.
-
-Investigation may continue.
-
-### Reduction
-
-Charges or alleged offences are narrowed.
-
-The case remains.
-
-### Transfer
-
-The case moves to another agency, court or jurisdiction.
-
-It is not ended.
-
-### Inactivity
-
-No visible action is being taken.
-
-The case may still exist and may become active later.
-
-### Closure report
-
-Investigators conclude that the case should not proceed, subject to applicable court procedure.
-
-### Acquittal
-
-The accused is found not guilty after adjudication.
-
-These outcomes have different legal and practical consequences.
-
-```text
-bail
-≠ withdrawal
-
-no coercive action
-≠ closure
-
-inactive file
-≠ erased record
-
-investigation continuing
-≠ settlement completed
-```
-
----
-
-## 🏛️ Who Had Authority To Withdraw?  
-
-The Union government could negotiate and coordinate.
-
-It could not necessarily erase every state FIR by announcement alone.
-
-Relevant authority may sit with:
-
-- state governments;
-- home departments;
-- police forces;
-- public prosecutors;
-- magistrates;
-- trial courts;
-- High Courts;
-- the Supreme Court;
-- universities or other administrative bodies.
-
-The lawful route depends on:
-
-- the offence;
-- the procedural stage;
-- whether a charge sheet has been filed;
-- whether the offence is compoundable;
-- whether court consent is required;
-- whether public or private injury is alleged.
-
-This does not make the political promise meaningless.
-
-It means the promise must include a delivery mechanism.
-
-A credible settlement should identify:
-
-- the cases;
-- the responsible jurisdiction;
-- the instruction;
-- the legal step;
-- the deadline;
-- the final proof of closure.
-
-Without that map, “all cases will be withdrawn” remains vulnerable to procedural drift.
-
----
-
-## 🧑‍⚖️ Peaceful Protest And Alleged Violence Were Contested Categories  
-
-Government sources later said the assurance did not extend to people accused of violence or those with criminal backgrounds.
-
-The Centre was reported as remaining committed to withdrawing cases against genuine or peaceful protesters.
-
-CJP argued that the government risked using continuing investigations to target students despite the settlement.
-
-The distinction between peaceful protest and serious violence is legitimate.
-
-But the label cannot be treated as self-proving.
-
-Ask:
-
-- Who classified the person?
-- What evidence supported the classification?
-- Was the person merely present?
-- Was identification reliable?
-- Was the conduct individualised?
-- Was an FIR treated as proof?
-- Was the person connected to CJP?
-- Could the classification be challenged?
-- Was comparable conduct treated consistently?
-
-The sequence must remain:
-
-```text
-allegation
-        ≠
-FIR
-        ≠
-charge
-        ≠
-proved conduct
-```
-
-A settlement can exclude established serious violence without allowing an untested allegation to become a permanent escape clause.
-
----
-
-## 🧑‍🤝‍🧑 Movement Membership Was Not Always Clear  
-
-The protest field contained:
-
-- CJP organisers;
-- students;
-- supporters;
-- allied organisations;
-- regional groups;
-- passers-by;
-- people accused of opportunistic violence;
-- people whose affiliation was disputed.
-
-In Kolkata, police described arrested people as troublemakers rather than students, while CJP denied that those accused of violence were associated with the movement.
-
-That creates two separate questions:
-
-1. Did the person commit the alleged conduct?
-2. Was the person part of CJP?
-
-Neither should be inferred from the other.
-
-A person does not gain immunity from serious wrongdoing by being a movement participant.
-
-A movement does not become responsible for every person appearing at a large public event.
-
-Case withdrawal must therefore be individualised without shrinking the wider protection promised to peaceful participants.
-
----
-
-## 🪪 What Happened To The Record?  
-
-Ending active prosecution is not the same as removing every record.
-
-Possible records include:
-
-- FIR databases;
-- station diaries;
-- arrest records;
-- custody records;
-- bail orders;
-- court files;
-- fingerprints;
-- photographs;
-- device-seizure records;
-- institutional correspondence;
-- media reports;
-- background-verification material.
-
-Ask:
-
-- Was the FIR marked withdrawn, closed or quashed?
-- Was the arrest record updated?
-- Did the person receive written proof?
-- Could another police force still see the original entry?
-- Did a verification system continue to report the case?
-- Were photographs or biometrics retained?
-- Could the record be corrected or sealed?
-- Did search results continue to associate the person with alleged violence?
-
-Some records cannot lawfully or practically be erased in full.
-
-That makes accuracy, status and access especially important.
-
-A closed record should not continue to appear as an unresolved accusation.
-
----
-
-## 🎓 Did Future Eligibility Recover?  
-
-Students may still need:
-
-- examinations;
-- admission;
-- scholarships;
-- internships;
-- public employment;
-- professional registration;
-- police verification;
-- visas;
-- institutional references.
-
-The practical test is not only whether a prosecutor stopped.
-
-It is whether the student’s future position was restored.
-
-Ask:
-
-- Must the case still be disclosed?
-- Does police verification show the FIR?
-- Can a university rely on the arrest?
-- Can an employer see the record?
-- Is the person excluded while an investigation remains open?
-- Does a “no adverse action” promise bind education and employment bodies?
-- Is there a correction route?
-- Who certifies that the matter is closed?
-
-```text
-prosecution ends
-        but
-eligibility remains damaged
-        ↓
-coercion has changed form
-rather than disappeared
-```
-
----
-
-## 🧊 Did The Chilling Effect End?  
-
-A legal case affects more than the named accused.
-
-Other people observe:
-
-- arrests;
-- notices;
-- police visits;
-- continuing investigations;
-- uncertainty over withdrawal;
-- differences between states.
-
-They may conclude:
-
-- the promise is unreliable;
-- peaceful participation can still become an FIR;
-- legal relief depends on location;
-- the movement cannot protect everyone;
-- the case may follow them into employment or education.
-
-A written, implemented and verifiable withdrawal can reduce that chilling effect.
-
-An ambiguous promise may not.
-
-The question is:
-
-> Did participants reasonably know that lawful protest would no longer expose them to unresolved legal jeopardy?
-
----
-
-## 💷 Who Paid The Cost Of The Cases?  
-
-Even a withdrawn case can leave material harm.
-
-Possible costs include:
-
-- legal fees;
-- bail expenses;
-- travel;
-- missed work;
-- missed examinations;
-- accommodation;
-- medical treatment;
-- device replacement;
-- lost income;
-- family care;
-- psychological harm;
-- reputational repair.
-
-Release is not reimbursement.
-
-Withdrawal is not compensation.
-
-A complete remedy should ask:
-
-- Who paid for representation?
-- Who lost wages?
-- Who missed study?
-- Who travelled to court repeatedly?
-- Who remained injured?
-- Who carried family debt?
-- Was any cost-recovery process available?
-
-The state should not describe itself as restoring the position while leaving the affected person to absorb the entire price of state action.
-
----
-
-## 🧍 Ending Prosecution Is Not Restoring The Person  
-
-Restoration may require:
-
-- release;
-- withdrawal or quashing;
-- record correction;
-- return of seized property;
-- cancellation of bail conditions;
-- written non-retaliation;
-- education or employment protection;
-- reimbursement;
-- public correction where allegations were widely circulated;
-- access to remedy for injury or unlawful treatment.
-
-The distinction is:
-
-```text
-ending the case
-        ↓
-stops part of the harm
-
-restoring the person
-        ↓
-repairs the position
-the case damaged
-```
-
-Both are valuable.
-
-They should not be collapsed.
-
----
-
-## 📵 Informal Retaliation Can Continue After Formal Withdrawal  
-
-Formal withdrawal may coexist with:
-
-- repeated informal police contact;
-- local pressure;
-- university scrutiny;
-- denial of venues;
-- account monitoring;
-- employer concern;
-- family harassment;
-- refusal to return seized devices;
-- reputational labelling;
-- selective future enforcement.
-
-These claims require evidence.
-
-The possibility should not be asserted as fact merely because a person fears it.
-
-But monitoring must include channels outside the criminal case.
-
-A settlement promising no direct or indirect adverse action recognises this wider risk.
-
-Its scope and enforceability therefore matter.
-
----
-
-## 🧑‍⚖️ The Supreme Court Order Was Protection, Not Final Disposal  
-
-The Supreme Court’s interim intervention reportedly restrained coercive action against covered students and facilitated release or bail for eligible protesters.
-
-At the same time, investigations into registered FIRs were allowed to continue.
-
-That produced immediate practical value:
-
-- reduced custody;
-- reduced arrest risk;
-- judicial scrutiny;
-- preservation of access to relief.
-
-It did not create:
-
-- nationwide quashing;
-- automatic closure;
-- record deletion;
-- a final finding on every allegation;
-- implementation of the complete political promise.
-
-```text
-interim protection
-        ≠
-final withdrawal
-```
-
-CJP’s objection was therefore structurally coherent.
-
-The movement had negotiated a political promise of withdrawal.
-
-The judicial order protected people while preserving a legal process that the movement believed should end.
-
----
-
-## ⏳ Delay Is Still Coercive  
-
-Even where authorities intend to withdraw a case, delay can continue the harm.
-
-During delay:
-
-- the person remains uncertain;
-- legal fees continue;
-- disclosure obligations may continue;
-- verification may remain affected;
-- future applications may be postponed;
-- family fear persists;
-- police may continue summons or investigation.
-
-Procedure may genuinely require time.
-
-But the burden of that time should not disappear from the assessment.
-
-A credible withdrawal process should publish:
-
-- the steps required;
-- responsible officials;
-- deadlines;
-- interim protection;
-- final proof of completion.
-
-Without those, lawful procedure can become an indefinite holding pattern.
-
----
-
-## 🔍 What Would Count As Full Withdrawal?  
-
-Full withdrawal should be assessed through the following sequence:
-
-```text
-covered cases identified
-        ↓
-competent authority issues instruction
-        ↓
-police and prosecutors act
-        ↓
-court approval obtained where required
-        ↓
-custody and restrictions end
-        ↓
-records updated accurately
-        ↓
-future eligibility protected
-        ↓
-property returned
-        ↓
-costs and continuing harm addressed
-        ↓
-independent verification
-```
-
-Not every case permits identical treatment.
-
-The standard is not administrative sameness.
-
-It is complete, lawful and reviewable removal of the promised coercion.
-
----
-
-## 📊 Case-Withdrawal Verification Matrix  
-
-| Test | Required evidence | Status at 30 July 2026 |
+| State | What it means | What it does not prove |
 |---|---|---|
-| Exact covered population identified | Written settlement or jurisdictional order | **Incomplete nationally** |
-| Exact cases identified | FIR and proceeding list | **Partial** |
-| Competent authority instructed withdrawal | Home Department, prosecution or court record | **Reported in Bihar and Assam** |
-| Arrested people released | Custody and court records | **Documented in several cases, not fully audited** |
-| No coercive action | Court or executive protection | **Substantial interim protection** |
-| Investigations ended | Closure, quashing or withdrawal orders | **Not generally established** |
-| Records corrected | Updated police and court status | **Unresolved** |
-| Future eligibility protected | Binding administrative direction | **Unresolved** |
-| Legal and material costs repaired | Compensation or costs process | **Not established** |
-| No informal retaliation | Participant and institutional monitoring | **Requires continuing review** |
+| Release | Custody ends | The case has ended |
+| Bail | Liberty is restored subject to conditions | The allegation or proceeding has disappeared |
+| No coercive action | Arrest or specified pressure is restrained | Investigation has stopped |
+| Executive instruction | Competent officials are directed to pursue relief | The required police, prosecutorial or judicial act is complete |
+| Closure report | Investigators recommend that the matter not proceed | Final court treatment in every case |
+| Withdrawal from prosecution | Prosecutor discontinues with required court consent | Erasure of every historic record |
+| Quashing | A court nullifies the FIR or proceeding | Repair of every downstream consequence |
+| Inactivity | No visible step is occurring | Legal finality |
 
 ---
 
-## 🧪 Evidence Ladder  
+## 🏛️ What The Supreme Court Changed  
 
-For each person or case:
+The judicial chronology mattered because the first interim order was being read as both protection and permission for investigations to continue.
 
 ```text
-political assurance
+25 July political withdrawal promise
         ↓
-written government instruction
+28 July interim protection and release
         ↓
-police or prosecutor action
+investigations initially permitted to continue
         ↓
-court order where required
+movement disputes the apparent conflict
         ↓
-release and restriction removal
+3 August clarification
         ↓
-case closure
+states expressly remain free to close or withdraw FIRs
         ↓
-record correction
-        ↓
-future-position restoration
-        ↓
-independent verification
+implementation still requires lawful state and court action
 ```
 
-Keep separate:
+On **28 July**, the Supreme Court reportedly barred coercive action against covered protesters, ordered the release of detained minors and required preservation of relevant data and footage. Those were material protections. They were not nationwide quashing. [Reuters — Supreme Court interim protection and release](https://www.reuters.com/world/india/indias-top-court-orders-no-coercive-action-against-youth-protesters-release-2026-07-28/)
+
+On **3 August**, the Court clarified that the NCT of Delhi and other states remained at liberty to close or withdraw FIRs in accordance with law. It also confined the disputed reference to “criminal antecedents” to grave and serious or heinous offences, rather than allowing any minor prior matter to become an automatic exclusion. [India Today — states free to close or withdraw FIRs](https://www.indiatoday.in/india/law-news/story/supreme-court-cjp-protest-firs-states-free-to-close-cases-grave-offences-excluded-2962335-2026-08-03)
+
+The clarification did not itself close the cases.
+
+It removed the argument that the earlier order prevented competent governments from honouring the settlement.
+
+```text
+judicial permission
+        ≠
+executive direction
+        ≠
+prosecutorial application
+        ≠
+court-approved withdrawal
+```
+
+The next reported judicial checkpoint was **18 August 2026**. That hearing belonged in the monitoring record, not in a claim that final relief had already been delivered.
+
+---
+
+## 🗺️ Jurisdiction-Status Ledger  
+
+The political assurance travelled through uneven state systems.
+
+| Jurisdiction | Covered field reported | Executive or public instruction | Immediate protection | Required next act | Completion evidence located by 6 August |
+|---|---|---|---|---|---|
+| Bihar | FIRs, complaints and show-cause notices connected to participation before 6 p.m. on 26 July | Home Department press release reported immediate initiation of withdrawal and no direct or indirect adverse action | Immediate release promised for covered detainees | Case identification; police, prosecutor or court action as applicable | **Instruction documented; complete case list and final orders not located** |
+| Assam | Five cases and thirteen arrests reported, subject to the same cutoff | Home and Political Department said withdrawal would be initiated promptly according to law and no further adverse action pursued | Review and release process promised | Formal closure or withdrawal in each case | **Instruction documented; complete final case-status record not located** |
+| Maharashtra | Cases linked to CJP-supported protests across the state | Chief Minister’s direction followed by a reported formal instruction to the DGP to complete the legal process and avoid punitive action | Non-punitive treatment directed | Compile cases; issue any further order; pursue the lawful withdrawal route | **Implementation commenced; case-by-case closure not established** |
+| West Bengal | Seven FIRs and sixteen Kolkata arrests were reported during the dispute | No comprehensive state withdrawal instrument located in the reviewed record | Bail and Supreme Court protection reduced immediate custody risk | State decision and case-specific police, prosecutorial or court action | **Complete withdrawal not established** |
+| Delhi | Parliament-march and related protest matters; exact inventory remained incomplete | Central assurance and a later non-action position were reported | Supreme Court protection applied; no-further-action protection was reported subject to exclusions | Obtain FIR list; classify covered cases; complete lawful closure or withdrawal | **Protection reported; final case-by-case closure not established** |
+| Other states | Incomplete national inventory | Unknown or variable | Supreme Court protection may cover eligible persons | Identify cases, competent authority and operative route | **National audit not located** |
+
+Bihar and Assam’s language was unusually important because it covered more than release: withdrawal, future action and—at least in Bihar—direct or indirect adverse legal action were expressly addressed. [The Wire — Bihar and Assam assurances](https://m.thewire.in/article/rights/bihar-govt-withdraws-youth-protest-link-cases-aisa-asks-students-to-be-vigilant/amp)
+
+Maharashtra’s status changed after the old draft. On 2 August, reporting described a formal state direction to the DGP to complete the withdrawal process, compile relevant cases and avoid punitive action. That moved Maharashtra from **instruction absent** to **implementation commenced**. It did not prove that every case had reached closure. [Times of India — Maharashtra direction to DGP](https://timesofindia.indiatimes.com/city/mumbai/maharashtra-govt-directs-dgp-to-immediately-complete-process-to-withdraw-cases-against-cjp-protesters/articleshow/132793447.cms)
+
+The ledger records the strongest public evidence located. “Not located” means precisely that. It does not silently become “did not happen.”
+
+---
+
+## 🔬 Who Was Covered?  
+
+The settlement was publicly framed around protesters and organisers, with later government accounts emphasising peaceful or genuine protesters and excluding serious violence.
+
+That requires three separate questions:
+
+1. Was the matter connected to the covered protest cycle?
+2. Was the person within the settlement’s protected class?
+3. Is serious individual conduct independently evidenced?
+
+The categories cannot be allowed to prove themselves.
 
 ```text
 presence
+≠ movement membership
 ≠ allegation
 ≠ FIR
-≠ arrest
 ≠ charge
-≠ conviction
+≠ proved conduct
 ```
 
-And:
+A person does not gain immunity from serious individual wrongdoing by participating in a movement.
 
-```text
-withdrawal announced
-≠ withdrawal initiated
-≠ withdrawal approved
-≠ record corrected
-≠ person restored
-```
+A movement does not become responsible for every person present at a large public event.
+
+An FIR is not a conviction, and an allegation of movement membership does not establish conduct.
+
+For every proposed inclusion or exclusion, record:
+
+| Field | Evidentiary question |
+|---|---|
+| Protest connection | Which event and conduct connected the matter to the protest cycle? |
+| Person’s role | Organiser, student, supporter, bystander, other participant or disputed? |
+| Alleged conduct | What individual act was alleged? |
+| Evidence status | Allegation, identification, charge, finding or conviction? |
+| Serious-offence exclusion | Is the exclusion based on a grave offence, and in what procedural state? |
+| Decision-maker | Who classified the person as covered or excluded? |
+| Review route | How can a mistaken classification be challenged? |
+
+Government sources publicly distinguished peaceful protesters from people accused of violence or possessing serious criminal backgrounds. That position must be attributed as a government interpretation of scope—not converted into proof against any individual. [The Indian Express — government account of the settlement’s limits](https://indianexpress.com/article/political-pulse/no-promise-was-made-to-spare-violent-protesters-govt-sources-counter-cjp-10807411/)
+
+One hearing report referred to **2,738 identified “offenders.”** This node does not use that number as a case total or excluded-person total. The public account did not make the unit sufficiently clear: protest FIRs, named individuals, antecedent cases and alleged offences cannot be treated as interchangeable.
 
 ---
 
-## 🚧 What This Node Does Not Claim  
+## 🔖 Cases Registered After The Settlement  
+
+Date of registration is not the same as date of alleged conduct.
+
+A complaint made after 25 July may concern:
+
+- conduct before the settlement;
+- the same protest incident already covered elsewhere;
+- genuinely new conduct after the cutoff;
+- a private complaint rather than state action;
+- an allegation that never became an FIR;
+- a later administrative or disciplinary response.
+
+Before treating a later development as either covered relief or proven retaliation, record:
+
+| Question | Why it matters |
+|---|---|
+| When did the alleged conduct occur? | Determines whether the settlement cutoff may apply |
+| When was the complaint, FIR or notice created? | Later registration can concern earlier conduct |
+| Is it the same incident? | Prevents one event being relabelled as a new matter |
+| Is genuinely new conduct alleged? | May place the matter outside the original promise |
+| Who acted? | Distinguishes police, prosecutor, institution and private complainant |
+| What instrument exists? | A complaint seeking action is not an FIR; a notice is not a charge |
+| What evidence supports retaliatory purpose? | Timing alone does not establish motive |
+
+The archive should neither manufacture breach from chronology alone nor let old conduct escape the settlement merely because paperwork appeared later.
+
+---
+
+## 🧬 The Record Can Survive The Case  
+
+A legally inactive case can still appear operationally unresolved elsewhere.
+
+Relevant records may include:
+
+- FIR and investigation databases;
+- arrest, custody and bail records;
+- court files;
+- fingerprints, photographs and biometrics;
+- device-seizure and property records;
+- university or employer correspondence;
+- police-verification material;
+- media reports and searchable allegations.
+
+Case-level verification must ask:
+
+- Was the FIR marked withdrawn, closed or quashed?
+- Was an arrest or custody record updated accurately?
+- Were bail conditions formally ended?
+- Was seized property returned or its status recorded?
+- Did the affected person receive written proof?
+- Could another force or verification system still see the original unresolved status?
+- Was correction, sealing or restricted access legally available?
+- Did downstream systems inherit the final status?
+
+Not every historic record can or should be erased.
+
+The minimum requirement is accuracy.
+
+> A closed matter should not continue to operate as an unresolved accusation.
+
+Education, employment, professional registration, scholarships, visas and police verification may all depend upon that difference. The detailed continuing-effects register belongs in `👁️_monitoring_the_new_status_quo.md`; this node defines the legal field it must monitor.
+
+---
+
+## 🪫 Ending The Case Does Not Repay Its Cost  
+
+Withdrawal stops future legal process. It does not reimburse:
+
+- representation and bail costs;
+- travel and accommodation;
+- lost wages or missed study;
+- healthcare;
+- damaged or retained property;
+- family debt;
+- the cost of correcting a public allegation.
+
+Those are not reasons to dilute the value of withdrawal.
+
+They are reasons to keep remedies distinct.
+
+```text
+withdrawal
+        = ending a compulsory legal relationship
+
+compensation
+        = addressing material harm already produced
+```
+
+The full cost and eligibility test belongs in `💰_compensation_is_material_repair.md`.
+
+---
+
+## 🚨 Informal Pressure Must Be Recorded Separately  
+
+Formal relief may coexist with later contact or consequences outside the criminal case:
+
+- informal police approaches;
+- university scrutiny;
+- employer action;
+- venue exclusion;
+- refusal to return property;
+- family pressure;
+- reputational labelling;
+- selective future enforcement.
+
+The possibility is real enough to monitor. It is not self-proving.
+
+Every incident should be recorded with:
+
+- date and actor;
+- act or communication;
+- available document or witness account;
+- connection to the covered protest;
+- formal legal status;
+- attribution and confidence;
+- possible alternative explanation;
+- remedy or escalation route.
+
+Do not infer coordination from similarity alone.
+
+Do not call every hostile consequence a settlement breach.
+
+Do not exclude a documented breach merely because it occurred outside an FIR.
+
+The question is:
+
+> Did the same coercive relationship continue through another route, or did a separate actor or genuinely new event create a different problem?
+
+The continuing incident register belongs in `👁️_monitoring_the_new_status_quo.md`. Thresholds for public re-entry belong in `🔁_when_the_public_reenters_the_cycle.md`.
+
+---
+
+## 📊 Two Linked Verification Instruments  
+
+This node owns the jurisdiction-status ledger.
+
+The monitoring node should maintain the person-and-case record.
+
+### A. Jurisdiction-status ledger
+
+```text
+jurisdiction
+→ covered population
+→ competent authority
+→ operative instrument
+→ present procedural stage
+→ missing completion proof
+```
+
+### B. Person-and-case verification record
+
+```text
+case number
+→ person
+→ alleged conduct
+→ procedural stage
+→ immediate protection
+→ withdrawal route
+→ final order
+→ record correction
+→ continuing effect
+```
+
+For each entry, keep provenance separate from delivery:
+
+| Field | Values |
+|---|---|
+| Source status | Official instrument; court order; attributed statement; participant account; media report |
+| Delivery status | Promised; directed; commenced; completed; independently verified |
+| Scope | National; jurisdiction-specific; category-limited; person-specific; unclear |
+| Authority | Union; state; police; prosecutor; court; institution |
+| Confidence | High; medium; low |
+| Next checkpoint | Missing document, deadline, hearing, order or record correction |
+
+This prevents a documented promise from being mistaken for documented completion.
+
+---
+
+## 🧪 Evidence Boundaries  
 
 This node does not claim that:
 
 - every protest-related FIR was false;
-- all accused people were CJP members;
+- every arrested person belonged to CJP;
 - no serious violence occurred;
-- peaceful protest and violence should be treated identically;
-- Bihar and Assam failed to act;
-- a government announcement has no legal value;
-- bail is meaningless;
-- the Supreme Court quashed the cases;
-- every record can or should be erased;
-- every person suffered future eligibility harm;
-- every delay was deliberate retaliation;
-- all jurisdictions had the same legal route.
+- serious individual conduct should be immunised;
+- the Centre could erase every state FIR itself;
+- Bihar, Assam or Maharashtra failed to act;
+- bail or interim protection was meaningless;
+- the Supreme Court withdrew every case;
+- every historic record can be erased;
+- every later complaint proves retaliation;
+- every jurisdiction used the same lawful route;
+- absence from the reviewed public record proves non-performance.
 
-It does claim that:
+It does establish that:
 
-- withdrawal of cases is a material removal of coercion;
-- the legal form of relief matters;
-- bail, non-coercion and continuing investigation are not final withdrawal;
-- implementation was geographically uneven;
-- allegations must be distinguished from established conduct;
-- record status and future eligibility form part of the remedy;
-- legal cost and lost time survive even after withdrawal;
-- full settlement requires restoration, not merely reduced prosecution.
-
----
-
-## 🔗 Relationship To The Other Nodes  
-
-This node assesses the removal of coercion.
-
-- `📋_what_was_actually_conceded.md` records the political promise and its uneven implementation.
-- `👤_a_resignation_is_not_a_system.md` explains why personnel change did not remove legal pressure.
-- `💰_compensation_is_material_repair.md` assesses the financial and living costs left by arrest, detention and proceedings.
-- `🏛️_reform_only_exists_when_it_is_implemented.md` should test whether future protest and examination governance gained enforceable safeguards.
-- `⏸️_pause_is_not_the_same_as_trust.md` examines why unresolved FIRs prevented quiet from becoming confidence.
-- `👁️_monitoring_the_new_status_quo.md` should maintain the case table, record status and eligibility checks.
-- `🔁_when_the_public_re-enters_the_cycle.md` examines renewed mobilisation if the withdrawal promise is not completed.
+- withdrawal was a material concession;
+- the legal form and competent authority mattered;
+- release, bail and non-coercion were not final closure;
+- implementation advanced unevenly across jurisdictions;
+- the 3 August clarification preserved states’ ability to honour the promise;
+- allegation, classification and proven conduct had to remain separate;
+- a final case status had to reach downstream records;
+- cost and informal pressure could survive formal legal relief.
 
 ---
 
-## 🧷 Compact Finding  
+## 🎯 Compact Finding  
 
-Withdrawal of cases was not a symbolic extra attached to the resignation.
+Withdrawal was material because it could end the state’s compulsory relationship with each affected person.
 
-It was the point at which the state either stopped coercing the people who had forced it to respond—or preserved a quieter route for pressure to continue.
+By 6 August, that concession had moved beyond rhetoric. Detainees had received relief. Bihar and Assam had issued formal assurances. Maharashtra had directed its police leadership to complete the process. The Supreme Court had clarified that states remained free to close or withdraw covered FIRs according to law.
 
-Bail was not withdrawal.
+But the evidence states still had to remain separate.
 
-No coercive action was not closure.
+```text
+announcement
+≠ release
+≠ protection
+≠ permission
+≠ implementation
+≠ closure
+≠ restored record
+```
 
-An inactive FIR was not a restored future.
+The settlement became complete only when every covered matter could be traced to a lawful final status—and the person no longer carried an unresolved accusation through education, employment, verification or ordinary public life.
 
-The concession became real only when the legal process ended, the record was corrected, restrictions were removed and the person could return to education, work and public life without carrying the unresolved cost of having protested.
+---
+
+## 🔬 Sources And Their Jobs  
+
+- [Akashvani — CJP withdraws agitation after government assurances](https://newsonair.gov.in/third-round-of-talks-between-centre-and-cjp-delegation-underway-in-new-delhi/) — public settlement wording on non-registration, withdrawal and provision of FIR copies.
+- [India Code — BNSS section 360](https://www.indiacode.nic.in/show-data?abv=CEN&actid=AC_CEN_5_23_00049_202346_1719552320687&orderno=360&orgactid=AC_CEN_5_23_00049_202346_1719552320687&sectionId=91345&sectionno=360&statehandle=123456789%2F1362) — statutory route for withdrawal from prosecution with court consent.
+- [Reuters — Supreme Court interim protection and release](https://www.reuters.com/world/india/indias-top-court-orders-no-coercive-action-against-youth-protesters-release-2026-07-28/) — 28 July protection, release and preservation directions.
+- [India Today — states free to close or withdraw FIRs](https://www.indiatoday.in/india/law-news/story/supreme-court-cjp-protest-firs-states-free-to-close-cases-grave-offences-excluded-2962335-2026-08-03) — 3 August clarification and narrowed antecedent category.
+- [The Wire — Bihar and Assam assurances](https://m.thewire.in/article/rights/bihar-govt-withdraws-youth-protest-link-cases-aisa-asks-students-to-be-vigilant/amp) — reported operative wording, cutoff, release and future-action protection.
+- [Times of India — Maharashtra direction to DGP](https://timesofindia.indiatimes.com/city/mumbai/maharashtra-govt-directs-dgp-to-immediately-complete-process-to-withdraw-cases-against-cjp-protesters/articleshow/132793447.cms) — later formal implementation direction and remaining procedural steps.
+- [The Indian Express — government account of scope](https://indianexpress.com/article/political-pulse/no-promise-was-made-to-spare-violent-protesters-govt-sources-counter-cjp-10807411/) — attributed distinction between covered peaceful protest and alleged serious violence, plus the West Bengal position at that stage.
+- [The Indian Express — earlier Maharashtra summons](https://indianexpress.com/article/cities/mumbai/despite-withdrawal-assurance-mumbai-police-keep-summoning-cjp-protesters-10806444/) — the pre-direction position that the later Maharashtra action changed.
+
+Together, these sources establish political commitment, statutory route, judicial protection and clarification, and several jurisdictional implementation steps.
+
+They do not establish a complete national FIR inventory, final closure of every matter, correction of every downstream record or absence of every later consequence.
 
 ---
 
 ## 🌌 Constellations  
 
-⚖️ 📋 🪪 🎓 💷 — withdrawal as removal of coercion; case-level verification; record status; future eligibility; costs that survive legal closure.
+⚖️ 🏛️ 🗺️ 🧬 👁️‍🗨️ — legal coercion; jurisdictional authority; procedural completion; record survival; continuing verification.
 
 ---
 
 ## ✨ Stardust  
 
-FIR withdrawal, protest cases, bail, no coercive action, criminal investigation, record correction, future eligibility, non-retaliation, legal costs, Bihar, Assam, Maharashtra, West Bengal, Supreme Court
-
----
-
-## 📚 Sources And Starting Points  
-
-- [Akashvani News — Bihar and Assam announce withdrawal of cases linked to NEET protests](https://newsonair.gov.in/bihar-and-assam-announce-withdrawal-of-cases-linked-to-neet-protests/) — reported state instructions concerning withdrawal, release and future adverse action.
-- [The Indian Express — Centre promises withdrawal; why the process may still take time](https://indianexpress.com/article/cities/mumbai/centre-promises-to-withdraw-neet-protest-firs-why-the-process-may-still-take-time-10807379/) — legal and procedural variation across states and stages.
-- [The Indian Express — Mumbai Police continue summons despite assurance](https://indianexpress.com/article/cities/mumbai/despite-withdrawal-assurance-mumbai-police-keep-summoning-cjp-protesters-10806444/) — continued investigation and notices in the absence of local instruction.
-- [The Indian Express — Government sources distinguish peaceful and violent protesters](https://indianexpress.com/article/political-pulse/no-promise-was-made-to-spare-violent-protesters-govt-sources-counter-cjp-10807411/) — reported government interpretation of the settlement’s scope.
-- [The Indian Express — Bihar and Assam release announcements; no equivalent West Bengal order](https://indianexpress.com/article/political-pulse/bihar-assam-to-release-neet-protesters-no-order-yet-from-west-bengal-10806390/) — jurisdictional differences and movement criticism.
-- [Times of India — CJP warns against use of the Supreme Court order](https://timesofindia.indiatimes.com/city/delhi/govt-must-not-weaponise-sc-order-cjp-says-fresh-stir-if-students-are-targeted/articleshow/132697219.cms) — movement interpretation of continuing investigations.
-- [Times of India — Sixteen Kolkata protesters granted bail after Supreme Court intervention](https://timesofindia.indiatimes.com/city/kolkata/jail-to-bail-in-3-hrs-all-16-neet-protesters-get-relief-after-sc-order-prompts-2nd-hearing/articleshow/132694307.cms) — bail and immediate judicial protection.
-- [The Indian Express — Arrests after Kolkata protest and disputed CJP affiliation](https://indianexpress.com/article/cities/kolkata/kolkata-neet-protest-dharmatala-violence-14-arrested-10804247/lite/) — police allegations and movement denial of association.
-
-These sources establish:
-
-- state-level promises and processes;
-- continued investigation in some jurisdictions;
-- the distinction drawn between peaceful and allegedly violent conduct;
-- bail and interim judicial protection;
-- dispute over the settlement’s scope.
-
-They do not yet establish:
-
-- completion of every withdrawal;
-- nationwide case closure;
-- correction of every record;
-- restoration of future eligibility;
-- reimbursement of legal and material costs;
-- the truth of every allegation against every arrested person.
+legal coercion, protest cases, FIR withdrawal, interim protection, prosecutorial withdrawal, case closure, jurisdiction ledger, record correction, non-retaliation, person-level verification
 
 ---
 
 ## 🏮 Footer  
 
 *⚖️ Withdrawal Of Cases Is Not Symbolic* is a living case-study node of the **Polaris Protocol**.  
-It assesses whether protest-related legal coercion was actually removed by distinguishing political assurance, release, bail, non-coercion, continuing investigation, withdrawal, case closure, record correction and restoration of the affected person’s future position.
+It tests whether a political promise ended protest-related legal coercion by separating release, bail, non-coercion, executive instruction, lawful withdrawal, final closure and accurate record status.
 
 > 📡 Cross-references:
 >
-> - [🌘 Did The System Become Tolerable?](./README.md) — *folder-level framework for testing concession, repair and re-entry*  
-> - [📋 What Was Actually Conceded](./📋_what_was_actually_conceded.md) — *the dated settlement inventory and jurisdictional implementation record*  
-> - [👤 A Resignation Is Not A System](./👤_a_resignation_is_not_a_system.md) — *why personnel accountability did not itself remove coercion*  
-> - [💰 Compensation Is Material Repair](./💰_compensation_is_material_repair.md) — *the costs that survive arrest, detention and eventual withdrawal*  
-> - [👁️ Monitoring The New Status Quo](./👁️_monitoring_the_new_status_quo.md) — *case tables, records, deadlines and future eligibility checks*  
-> - [🔁 When The Public Re-Enters The Cycle](./🔁_when_the_public_re-enters_the_cycle.md) — *renewed mobilisation if the legal settlement is not completed*  
+> - [🌘 Did The System Become Tolerable?](./README.md) — *cluster-level framework for concession, repair, monitoring and re-entry*  
+> - [📋 What Was Actually Conceded](./📋_what_was_actually_conceded.md) — *previous settlement ledger and authoritative status inventory*  
+> - [👤 A Resignation Is Not A System](./👤_a_resignation_is_not_a_system.md) — *previous personnel-accountability test*  
+> - [💰 Compensation Is Material Repair](./💰_compensation_is_material_repair.md) — *next test of costs that survive legal relief*  
+> - [⏸️ Pause Is Not The Same As Trust](./⏸️_pause_is_not_the_same_as_trust.md) — *why provisional protection does not itself produce confidence*  
+> - [👁️ Monitoring The New Status Quo](./👁️_monitoring_the_new_status_quo.md) — *case records, deadlines, continuing effects and verification*  
+> - [🔁 When The Public Re-enters The Cycle](./🔁_when_the_public_reenters_the_cycle.md) — *evidenced thresholds for selective public re-entry*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-30_
+_Last updated: 2026-08-06_
