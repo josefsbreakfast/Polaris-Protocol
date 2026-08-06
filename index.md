@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-05 19:36:48 UTC_
+_Generated on 2026-08-06 15:36:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5973,6 +5973,8 @@ _Generated on 2026-08-05 19:36:48 UTC_
   - [**🖍️_Art_As_Attack/**](🌔_4_Small_Steps/🖍️_Art_As_Attack/)
     - [`README.md`](🌔_4_Small_Steps/🖍️_Art_As_Attack/README.md)
   - [**🚀_DADA/**](🌔_4_Small_Steps/🚀_DADA/)
+    - [** 🐦‍🔥_גילדע_פּאַווע_/**](🌔_4_Small_Steps/🚀_DADA/ 🐦‍🔥_גילדע_פּאַווע_/)
+      - [`❤️‍🩹_kvelnafyidish_checkpoint.md`](🌔_4_Small_Steps/🚀_DADA/ 🐦‍🔥_גילדע_פּאַווע_/❤️‍🩹_kvelnafyidish_checkpoint.md)
     - [**💾_Capabilities/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/)
       - [**🥀_Little_Database_Of_Horrors/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/)
         - [**⚖️_Ethics_And_International_Law/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/⚖️_Ethics_And_International_Law/)
