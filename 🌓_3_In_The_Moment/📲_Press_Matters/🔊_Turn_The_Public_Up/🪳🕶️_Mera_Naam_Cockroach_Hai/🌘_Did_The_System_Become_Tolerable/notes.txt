@@ -1,2 +1,52 @@
 repeat pass order notes:  
 
+Yes x. The cleanest order is:
+
+1. 📋_what_was_actually_conceded.md
+2. 👤_a_resignation_is_not_a_system.md
+3. ⚖️_withdrawal_of_cases_is_not_symbolic.md
+4. 💰_compensation_is_material_repair.md
+5. 🏛️_reform_only_exists_when_it_is_implemented.md
+6. 🧽_how_institutions_absorb_pressure_without_changing.md
+7. 🪓_when_a_victory_splits_the_coalition.md
+8. ⏸️_pause_is_not_the_same_as_trust.md
+9. 👁️_monitoring_the_new_status_quo.md
+10. 🔁_when_the_public_reenters_the_cycle.md
+
+The reasoning chain becomes:
+
+What was conceded?
+        ↓
+What political consequence occurred?
+        ↓
+Was coercion withdrawn?
+        ↓
+Was material harm repaired?
+        ↓
+Was the machinery actually changed?
+        ↓
+Could the institution absorb the pressure anyway?
+        ↓
+How did partial victory affect the coalition?
+        ↓
+Can mobilisation pause without granting trust?
+        ↓
+How is the provisional settlement monitored?
+        ↓
+What triggers public re-entry?
+
+This is stronger than the current listing because it moves from:
+
+fact → classification → substantive tests → political consequences → provisional stabilisation → future action
+
+A few specific reasons:
+
+* 📋 must come first because every later node depends upon an accurate concession ledger.
+* 👤 → ⚖️ → 💰 → 🏛️ follows the change ladder: political, coercive, material, then administrative/structural.
+* 🧽 follows those tests because absorption can only be identified by comparing the visible response with what remained unchanged.
+* 🪓 follows absorption because partial and uneven concession creates the conditions in which different parts of the coalition reach different judgements.
+* ⏸️ then offers something more intelligent than either “victory achieved” or “keep everybody permanently mobilised”: watchful stabilisation.
+* 👁️ operationalises that pause.
+* 🔁 closes the cluster by defining what happens when monitoring shows that the provisional settlement has failed.
+
+So I’d treat this as our final working order—and reorder the README’s 🗺️ Section Map to match it when we next update the file.
