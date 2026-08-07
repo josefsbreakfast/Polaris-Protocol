@@ -1,5 +1,5 @@
 # 🇮🇷 Data Wars: IRGC Edition
-**First created:** 2026-08-01 | **Last updated:** 2026-08-01  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-07  
 *Tracking essential-state cyber disruption across the widening Iran war without pretending attribution is cleaner than it is.*
 
 ---
@@ -12,7 +12,9 @@ That means more than defence networks.
 
 It includes water, energy, health, education, government administration, policing and justice systems, transport, telecommunications, banking, payments, and the contracted infrastructure that keeps those systems operating.
 
-The war did not begin in cyberspace. It does not remain neatly outside it either.
+The war did not begin in cyberspace.
+
+It does not remain neatly outside it either.
 
 Iranian and Iran-linked cyber activity is often decentralised, deniable, layered through proxies, criminal operators, access brokers, hacktivist branding, contractors, and people who may not know who ultimately benefits from the task they have been given.
 
@@ -22,6 +24,16 @@ That makes two opposite mistakes especially dangerous:
 - treating every unattributed breach as strategically meaningless.
 
 This pack does neither.
+
+It also distinguishes between an intrusion into the computers surrounding an essential service and an intrusion that reaches the machinery through which that service is physically delivered.
+
+That distinction matters.
+
+A compromised administrative network can interrupt work.
+
+A compromised control system may alter what pumps, valves, wells, treatment systems, industrial processes, or other physical equipment actually do.
+
+Where cyber activity crosses from information systems into operational technology, the analytical threshold changes with it.
 
 ---
 
@@ -37,11 +49,31 @@ Some remain unattributed.
 
 Some may ultimately prove unrelated.
 
-Timing, clustering, repeated techniques, target selection, operational effect, and resemblance to known campaigns may justify scrutiny. They do not, by themselves, prove Iranian direction.
+Timing, clustering, repeated techniques, target selection, operational effect, and resemblance to known campaigns may justify scrutiny.
+
+They do not, by themselves, prove Iranian direction.
 
 Readers should consult the cited official advisories, affected institutions, technical research, and reputable reporting as investigations develop.
 
 Where attribution changes, the timeline should change with it.
+
+An incident can also carry several different attribution assessments at once.
+
+Technical investigators may identify resemblance to a known operator.
+
+Intelligence agencies may privately hold a stronger assessment.
+
+A government may use narrower language publicly.
+
+Prosecutors may require evidence connecting conduct to identifiable people.
+
+International humanitarian law raises a further question:
+
+> can the available evidence establish the connection between the operation, the armed conflict, the protected object, and the person or actor legally responsible?
+
+Those are related questions.
+
+They are not interchangeable.
 
 ---
 
@@ -53,18 +85,21 @@ The central question is not:
 
 The question is:
 
-> Are essential systems across states Iran regards as participating in the war showing a meaningful pattern of intrusion, disruption, data compromise, coercion, or operational degradation?
+> Are essential systems across states Iran regards as participating in the war showing a meaningful pattern of intrusion, disruption, data compromise, coercion, operational degradation, or movement into physical control systems?
 
 A modern cyber campaign may not arrive as one spectacular national outage.
 
 It may arrive as:
 
 - local water systems forced into manual operation;
+- programmable control systems losing trusted remote access;
 - public records removed from state custody;
 - banking disruption that weakens confidence without collapsing payments;
 - health or education systems losing access to data;
 - transport systems taking weeks to recover;
 - repeated breaches that reveal institutional seams;
+- apparently separate incidents using the same exposed technology;
+- geographically distributed attacks producing individually limited effects;
 - or citizens discovering that hostile actors can obtain their data more easily than they can obtain an accountable explanation from their own government.
 
 Small incidents can accumulate into strategic effect.
@@ -72,6 +107,61 @@ Small incidents can accumulate into strategic effect.
 Ambiguity can be part of the effect.
 
 Institutional exhaustion can be part of the effect.
+
+And an operation does not need to produce a spectacular national outage before access to essential physical systems becomes strategically serious.
+
+---
+
+## 🚰 When Cyber Reaches The Machinery
+
+Not every cyber incident affecting essential infrastructure is equal.
+
+There is an important difference between compromising the business systems used by a utility and compromising the operational technology used to control the underlying physical process.
+
+The distinction can be simplified as:
+
+```text
+administrative IT compromise
+→ records, communications, scheduling, billing, ordinary business systems
+
+operational technology compromise
+→ pumps, valves, controllers, sensors, treatment processes, physical machinery
+```
+
+Both matter.
+
+The second can create a more direct route from remote access to physical effect.
+
+Recent incidents affecting United States water and wastewater systems have therefore become particularly important to this pack.
+
+The significance is not merely that water utilities have experienced cyber incidents.
+
+It is that reporting and official warnings increasingly concern internet-accessible programmable logic controllers and other operational systems capable of affecting how infrastructure actually functions.
+
+Reported consequences across the wider cluster have included forms of operational interference such as:
+
+- loss of trusted remote monitoring or control;
+- changes to controller access or configuration;
+- movement to manual operation;
+- pressure disruption;
+- precautionary public-health measures;
+- and local physical effects.
+
+These incidents do not establish Iranian responsibility merely because Iranian or Iran-affiliated actors have previously targeted similar technology.
+
+They do establish why the control layer deserves separate analytical weight.
+
+Manual fallback is evidence of resilience.
+
+It can also be evidence that an intrusion reached far enough into the operational environment for fallback to become necessary.
+
+The question is therefore no longer only:
+
+> Was a utility hacked?
+
+It is also:
+
+> How close did the intrusion get to controlling the physical process?
 
 ---
 
@@ -93,6 +183,10 @@ Iran may still read that role as participation.
 
 This pack therefore tracks incidents across the wider coalition and support architecture, while keeping each country's degree of involvement distinct.
 
+That does not mean every state in the wider support architecture is legally situated in the conflict in the same way.
+
+Perceived participation, legal belligerency, operational support, and Iranian target selection must be recorded separately.
+
 ---
 
 ## 🕸️ Attribution Is Not A Light Switch
@@ -109,6 +203,8 @@ Real cyber attribution is usually slower, graded, and contested.
 A useful record separates:
 
 - confirmed state attribution;
+- public government attribution;
+- classified or undisclosed assessment where its existence is independently established;
 - probable or suspected attribution;
 - actor claims;
 - technical resemblance;
@@ -117,11 +213,116 @@ A useful record separates:
 - competing explanations;
 - and what remains unknown.
 
+It should also distinguish:
+
+```text
+technical attribution
+≠
+state responsibility
+≠
+public government attribution
+≠
+individual criminal responsibility
+```
+
+Evidence may move through those categories at different speeds.
+
+A government can possess information it does not publish.
+
+The public can therefore have less evidence available to it than the state assessing the incident.
+
+But government silence cannot simply be converted into proof that a hidden attribution exists.
+
+From outside, these two situations may look identical:
+
+```text
+we know more than we can publicly disclose
+
+and
+
+we genuinely do not yet know
+```
+
+That uncertainty has to remain visible.
+
 No public attribution does not mean no strategic relevance.
 
 Strategic relevance does not mean proven Iranian direction.
 
 Both propositions can be true at once.
+
+---
+
+## ⚖️ When Attribution Controls The Public War-Crime Claim
+
+Cyber operations conducted during armed conflict do not sit outside international humanitarian law merely because they are conducted through computers.
+
+Civilian infrastructure remains protected.
+
+Water infrastructure can attract particularly serious concern because installations indispensable to the survival of the civilian population receive specific protection under international humanitarian law.
+
+But several different propositions must not be collapsed into one another:
+
+```text
+serious cyber incident
+≠
+Iranian operation
+≠
+attack attributable to the Iranian state
+≠
+violation of international humanitarian law
+≠
+proved war crime
+```
+
+Whether conduct amounts to a war crime is a legal question.
+
+Whether the available public evidence permits governments, journalists, investigators, or this pack to responsibly describe a particular incident that way is an evidentiary question.
+
+Those can diverge.
+
+A cyber operation could potentially satisfy the relevant legal elements even while the public lacks enough evidence to identify its sponsor confidently.
+
+Conversely, strong evidence that Iran conducted an operation would not automatically establish that a war crime occurred.
+
+The nature of the target, the operation, the armed-conflict nexus, intent or knowledge, effects, applicable protections, and individual responsibility still matter.
+
+This creates a particular public-accountability problem in cyber conflict.
+
+A state may privately possess attribution evidence significantly stronger than anything it is prepared to disclose.
+
+If it publishes that evidence or attributes the operation publicly, it may expose intelligence sources, technical collection methods, access, partnerships, or capabilities.
+
+If it does not, it may be unable to use publicly the strongest legal and political description that its private evidence might support.
+
+The result can look like:
+
+```text
+strong classified attribution
+        +
+weak public attribution
+        ↓
+serious private security assessment
+        +
+limited public legal leverage
+```
+
+That is not a loophole in international humanitarian law.
+
+The law does not become inapplicable because attribution remains secret.
+
+It is an accountability problem created by the gap between what can be known internally and what can be demonstrated publicly.
+
+For this reason, this pack keeps separate records of:
+
+- operational effect;
+- technical attribution;
+- public state attribution;
+- armed-conflict relevance;
+- legal significance;
+- and what the public evidence can actually sustain.
+
+The distinction becomes especially important where cyber operations reach civilian physical infrastructure.
 
 ---
 
@@ -150,6 +351,14 @@ This is not unique to Iran.
 
 It is part of the wider ecology through which states, intelligence-linked actors, criminal organisations, and political networks can obtain deniable labour.
 
+It also creates a second attribution problem.
+
+Identifying the person who performed the intrusion does not necessarily identify the person who commissioned it.
+
+Identifying the intermediary does not necessarily identify the customer.
+
+And identifying a state beneficiary does not automatically prove state direction.
+
 ---
 
 ## 🏗️ What Counts As State Infrastructure
@@ -176,6 +385,16 @@ A private company may therefore appear where it is operating part of the country
 
 The issue is function, not branding.
 
+But **state infrastructure** is an analytical description here.
+
+It is not a claim that every system performing an important state function is a lawful military objective.
+
+Government ownership does not make a civilian object military.
+
+Civilian water, healthcare, administrative, educational, financial, transport, and telecommunications systems may remain protected even where the state depends heavily upon them.
+
+Functional importance and legal targetability are separate questions.
+
 ---
 
 ## 📉 Small Disruptions Can Make A Campaign
@@ -188,15 +407,29 @@ The pattern may be visible through:
 
 - repeated low-level operational disruption;
 - attacks across several sectors;
+- attacks distributed across several regions;
 - recurring use of weakly protected control systems;
+- repeated targeting of the same controller families or exposed interfaces;
 - data theft from institutions with public responsibilities;
 - incidents clustered around military escalation;
 - movement from reconnaissance into machinery;
+- repeated forced use of manual fallback;
+- cross-sector timing between water, energy, telecommunications, transport, or banking;
 - or a growing gap between what institutions know internally and what affected people are told.
 
 The campaign effect comes from accumulation.
 
+A mediocre intrusion into one local system may be opportunism.
+
+Similar intrusions appearing repeatedly across the same essential sector deserve greater scrutiny.
+
+Similar intrusions appearing across several interdependent sectors in the same geography or narrow time window would be a more serious signal again.
+
 The state does not need to stop functioning completely for confidence in the state to be damaged.
+
+Nor does every component of a campaign need to share the same operator.
+
+Strategic effect may emerge from coordinated activity, copied methods, proxy participation, opportunistic criminal exploitation, or several of these at once.
 
 ---
 
@@ -231,22 +464,40 @@ The reporting rule for this pack is simple:
 
 > Do not attribute beyond the evidence. Do not erase a developing strategic pattern merely because public attribution is incomplete.
 
+And where international humanitarian law may become relevant:
+
+> Do not call an incident a war crime merely because the target is civilian, the timing is wartime, or the suspected actor is Iranian. Do not erase the legal significance of an attack on protected civilian infrastructure merely because attribution remains unresolved.
+
 Each incident should be recorded with:
 
 - date;
 - country;
 - sector;
 - affected body;
+- IT or operational-technology layer;
 - operational effect;
+- physical effect, if any;
+- manual fallback, if required;
 - claimed actor;
 - official attribution;
 - other attribution;
 - confidence level;
 - relevance to the Iran war;
+- protected-object or IHL relevance where applicable;
 - rival explanations;
 - sources;
 - review date;
 - and correction status.
+
+For control-system incidents, the record should additionally ask:
+
+- what equipment or control layer was reached;
+- whether monitoring was lost;
+- whether commands, credentials, configurations, or set-points were altered;
+- whether operators retained local control;
+- whether manual fallback worked;
+- whether the event affected only visibility or changed the physical process;
+- and whether similar techniques appeared elsewhere.
 
 Repetition is not corroboration.
 
@@ -254,17 +505,29 @@ Ten articles may still trace back to one advisory, one vendor report, or one unv
 
 The source chain matters.
 
+So does the difference between:
+
+```text
+reported
+suspected
+assessed
+attributed
+demonstrated
+proved
+```
+
 ---
 
 ## 📂 Pack Map
 
 - [🧭 What This Pack Is Tracking](./🧭_what_this_pack_is_tracking.md) — *scope, perimeter, and analytical purpose*
 - [🗺️ Who Iran Sees As Inside The War](./🗺️_who_iran_sees_as_inside_the_war.md) — *the operational coalition map*
-- [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *graded attribution and uncertainty*
+- [🏗️ What Counts As State Infrastructure](./🏗️_what_counts_as_state_infrastructure.md) — *the functional inclusion test without confusing public function with lawful targetability*
+- [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *accumulation, clustering, ambiguity, and strategic effect*
+- [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *operational technology, control systems, manual fallback, and physical effects*
+- [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *technical, intelligence, public, state, and individual attribution*
+- [⚖️ When Attribution Controls The Public War-Crime Claim](./⚖️_when_attribution_controls_the_public_war_crime_claim.md) — *the gap between possible legal characterisation and publicly demonstrable responsibility*
 - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *proxy labour, recruitment funnels, and deniable tasking*
-- [🏗️ What Counts As State Infrastructure](./🏗️_what_counts_as_state_infrastructure.md) — *the functional inclusion test*
-- [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *accumulation, ambiguity, and strategic effect*
-- [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *operational technology and physical systems*
 - [🏦 Banks Are Part Of The Battlespace](./🏦_banks_are_part_of_the_battlespace.md) — *payments, liquidity, access, and confidence*
 - [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) — *civilian systems as state function*
 - [🇬🇧 Britain Is Advertising An Exploitable Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) — *fragmented responsibility as strategic weakness*
@@ -278,25 +541,27 @@ The source chain matters.
 
 ## 🌌 Constellations
 
-🇮🇷 🕸️ 🏗️ 📉 🇬🇧 — Iran war analysis; cyber attribution; essential infrastructure; cumulative disruption; British institutional seams.
+🇮🇷 🕸️ 🚰 ⚖️ 🏗️ 📉 🇬🇧 — Iran war analysis; cyber attribution; operational technology; civilian infrastructure protection; cumulative disruption; British institutional seams.
 
 ## ✨ Stardust
 
-iran, irgc, cyber warfare, critical infrastructure, state disruption, attribution, proxy operations, data breaches, operational technology, british resilience
+iran, irgc, cyber warfare, critical infrastructure, state disruption, attribution, proxy operations, data breaches, operational technology, industrial control systems, programmable logic controllers, water infrastructure, civilian infrastructure, international humanitarian law, cyber war crimes, british resilience
 
 ---
 
 ## 🏮 Footer
 
 *🇮🇷 Data Wars: IRGC Edition* is a living node of the **Polaris Protocol**.  
-It provides the orientation, scope, attribution discipline, and routing structure for a live analytical pack on cyber disruption across the widening Iran war.
+It provides the orientation, scope, attribution discipline, legal caution, and routing structure for a live analytical pack on cyber disruption across the widening Iran war.
 
 > 📡 Cross-references:
 >
 > - [🌊 Playing Defence](../) — *parent cluster for defence analysis, institutional readiness, and public-facing strategic interpretation*
+> - [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *the escalation from information systems into physical control*
+> - [⚖️ When Attribution Controls The Public War-Crime Claim](./⚖️_when_attribution_controls_the_public_war_crime_claim.md) — *public attribution, IHL, and the evidentiary gap*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *incident chronology and evidentiary spine*
 > - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *reporting discipline for unresolved and developing attribution*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-01_
+_Last updated: 2026-08-07_
