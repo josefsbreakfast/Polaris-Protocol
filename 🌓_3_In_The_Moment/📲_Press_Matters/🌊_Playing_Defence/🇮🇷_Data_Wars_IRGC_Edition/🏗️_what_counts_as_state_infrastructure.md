@@ -1,5 +1,5 @@
-# 🏗️ What Counts As State Infrastructure  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-01  
+# 🏗️ What Counts As State Infrastructure?  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-07  
 *The test is what the system does, not whether the organisation running it is formally part of the state.*  
 
 ---
@@ -565,4 +565,4 @@ It defines the functional perimeter for incidents included in the *🇮🇷 Data
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-01_
+_Last updated: 2026-08-07_
