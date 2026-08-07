@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-07 08:21:11 UTC_
+_Generated on 2026-08-07 09:49:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5452,7 +5452,6 @@ _Generated on 2026-08-07 08:21:11 UTC_
           - [`🪖_from_agnipath_to_cjp.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌕_What_The_Movement_Was_Up_Against/🪖_from_agnipath_to_cjp.md)
         - [**🌘_Did_The_System_Become_Tolerable/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/notes.txt)
           - [`⏸️_pause_is_not_the_same_as_trust.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/⏸️_pause_is_not_the_same_as_trust.md)
           - [`⚖️_withdrawal_of_cases_is_not_symbolic.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/⚖️_withdrawal_of_cases_is_not_symbolic.md)
           - [`🏛️_reform_only_exists_when_it_is_implemented.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌘_Did_The_System_Become_Tolerable/🏛️_reform_only_exists_when_it_is_implemented.md)
