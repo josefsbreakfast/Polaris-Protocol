@@ -1,0 +1,20 @@
+📂 Pack Map
+
+🧭 What This Pack Is Tracking — scope, perimeter, and analytical purpose
+🗺️ Who Iran Sees As Inside The War — the operational coalition map
+🕸️ Attribution Is Not A Light Switch — graded attribution and uncertainty
+🧅 The Operator May Not Know The Customer — proxy labour, recruitment funnels, and deniable tasking
+🏗️ What Counts As State Infrastructure — the functional inclusion test
+📉 Small Disruptions Can Make A Campaign — accumulation, ambiguity, and strategic effect
+🚰 When Cyber Reaches The Machinery — operational technology and physical systems
+🏦 Banks Are Part Of The Battlespace — payments, liquidity, access, and confidence
+🏥 Health, Education And Admin Are Not Soft Extras — civilian systems as state function
+🇬🇧 Britain Is Advertising An Exploitable Seam — fragmented responsibility as strategic weakness
+📰 How To Report Without Overclaiming — newsroom discipline under uncertainty
+🔎 Confidence Labels And Source Rules — claim, source, confidence, and limit
+⏱️ Timeline Of Essential Infrastructure Attacks — chronological incident record
+📊 Timeline CSV — structured working dataset
+📚 Sources And Live Updates — official notices, reporting, research, corrections, and re-entry points
+
+
+then + 👾_cyber_war_crimes.md
