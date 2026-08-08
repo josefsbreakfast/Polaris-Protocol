@@ -1,3 +1,5 @@
+1.  
+
 After preload context and reiterating topic connections, add factchecks, then:   
 
 🌓_3_In_The_Moment/
@@ -142,6 +144,8 @@ After preload context and reiterating topic connections, add factchecks, then:
 
 ——
 
+2.  
+
 Ask for path summaries, review and add/correct as required:  
 
 Yes. I’d treat each immediate subfolder of 🤑_Hot_Money_Politics/ as a daughter cluster, and give each one a tight two-sentence remit before we touch individual nodes.
@@ -209,6 +213,8 @@ learn the instrument → understand value → understand organised power → tes
 That feels much more intentional than simply having thirteen buckets of related nodes.
 
 ——-
+
+3.  
 
 Force it to niche down anything that is vulnerable to “forking”/“oh I’m so sorry darling, I forgot to go and get the milk from the shop” (istg chatgpt = a husband):  
 
@@ -340,6 +346,8 @@ Just an inventory of the examples/threads we’ve already raised, without trying
 That’s basically our working pile on the floor before we start sorting it into daughters and deciding what deserves a full node versus an example/case box.
 
 ——-
+
+4.  
 
 Start summarising in chunks (too big and it wobbles), correcting as required as early as possible so error doesn’t reiterate and over time:  
 
@@ -522,6 +530,11 @@ This daughter is basically the stress test: if the framework can handle these wi
 The progression is basically: map the power → identify the value → identify the capacity → identify the obligation → stop guilt-by-association → grade the claim correctly → test for symmetry → publish without reproducing prejudice.
 
 And that means we’ve now done the one-sentence remit pass for all fourteen daughter clusters and all of their current granddaughters.
+
+——
+
+5.  
+
 
 then request a gap analysis:
 
