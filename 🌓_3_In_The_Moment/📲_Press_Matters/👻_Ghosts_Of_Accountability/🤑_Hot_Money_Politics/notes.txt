@@ -372,5 +372,37 @@ Next would naturally be 💷 Money, Access And Obligation.
 
 This daughter has a very clear progression too: money → non-cash value → reciprocity → access → relationships → financial opacity → failure to recognise the problem.
 
+🏛️ Lobbying And Democratic Friction
+
+* 🏺 britain_never_had_lobby_free_politics.md — Sets the historical baseline that organised interests have shaped British politics for centuries, so the question is not how to restore some imaginary pre-lobbying purity but how to govern influence democratically.
+* 🍬 the_sugar_lobby_and_old_commercial_power.md — Uses plantation, sugar and West India interests as an early case study in how concentrated commercial wealth could translate into political access, institutional influence and resistance to policy change.
+* ⛓️ the_slave_economy_had_a_lobby.md — Makes explicit that the defence of slavery and the slave economy was itself an organised political interest, showing that lobbying can be procedurally ordinary while serving profoundly harmful ends.
+* 🗳️ concentrated_interests_and_distributed_publics.md — Explains why small groups with high stakes, money and organisation can exert more sustained pressure than very large publics whose individual stake is diffuse.
+* 🧱 lobbying_changes_the_friction_of_policy.md — Frames lobbying as altering the relative ease or difficulty of political choices by supplying expertise, relationships, warnings, implementation capacity and costs for saying no.
+* ♻️ incorporation_is_not_the_same_as_suppression.md — Distinguishes shutting an organisation out from bringing it inside the system, where increased access may be democratically valuable but can also change what confrontation costs.
+* 🪄 success_changes_the_incentives_of_the_successful.md — Shows how movements and organisations can acquire staff, status, funding, relationships and institutional assets that make them behave differently after they become successful.
+
+This one runs nicely as: history → morally hard historical case → collective-action asymmetry → friction → incorporation → incentive drift.
+
+🪧 Unions, Communities And Aggregated Power
+
+* 🪧 aggregation_is_not_automatically_capture.md — Establishes that bringing many people together to increase bargaining or political power is not itself evidence of manipulation, corruption or illegitimate influence.
+* 📯 who_gets_to_speak_for_the_group.md — Examines how leaders, spokespeople and umbrella organisations acquire authority to represent a wider membership or community, and how that authority should be tested rather than assumed.
+* 🧭 when_representatives_drift_from_the_represented.md — Looks at the point where the incentives, priorities or social position of representatives begin to diverge from those of the people whose collective power they exercise.
+* 🚪 when_outsiders_become_institutional_insiders.md — Explores what changes when movements or pressure groups gain regular access to government, employers, finance or other institutions they originally existed to challenge.
+* ⚖️ the_same_instrument_has_to_work_on_every_lobby.md — Sets the symmetry rule that unions, corporations, diaspora organisations, professional bodies and elite networks should all be assessed using the same questions about aggregation, representation, access, leverage and accountability.
+
+This one runs as: aggregation → representation → drift → incorporation → symmetry of analysis.
+
+🌍 Diaspora Money And Transnational Life
+
+* 🌉 transnational_connection_is_not_foreign_control.md — Establishes that family, religious, charitable, cultural, political and commercial ties across borders are ordinary features of modern British life and should not themselves be treated as evidence of foreign direction.
+* 💸 when_the_donor_does_not_know_the_endpoint.md — Examines cases where someone reasonably believes they are funding education, healthcare, relief or community support but cannot see how money, goods or institutional support may be redirected further downstream.
+* 🧾 who_should_carry_the_due_diligence_burden.md — Asks how responsibility for checking transnational flows should be distributed between ordinary donors, trustees, banks, regulators, charities and the state according to who actually has the information and capacity to investigate.
+* 🏥 the_school_the_clinic_and_the_downstream_network.md — Uses apparently straightforward charitable purposes such as schools and clinics to show how modern aid and community funding can pass through multiple organisations, intermediaries and jurisdictions before reaching its final use.
+* 🏺 britain_changed_but_the_security_categories_lagged.md — Traces how decolonisation, Commonwealth migration and the growth of large diaspora networks transformed British society while some inherited ideas about foreign allegiance, loyalty and security remained rooted in an earlier political world.
+* 🧿 behaviour_capability_and_control_not_identity.md — Sets the democratic safeguard for the daughter cluster: scrutiny should attach to evidence of direction, coercion, diversion, concealment, harmful capability or control rather than ethnicity, religion, ancestry or transnational identity.
+
+The progression here is basically: normalise transnational life → show where genuine risk can enter → allocate responsibility fairly → expose the complexity of the pathway → explain why the old British model struggles with it → replace identity-based suspicion with behaviour-and-capability analysis.
 
 
