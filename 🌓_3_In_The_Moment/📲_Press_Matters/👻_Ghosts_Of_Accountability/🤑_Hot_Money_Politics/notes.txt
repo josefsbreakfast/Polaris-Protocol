@@ -451,3 +451,19 @@ The progression is: vulnerability without intent → common technical dependency
 
 The progression here is: it does not look criminal → respectability can reassure us too quickly → map first, classify second → inspect origin and control → ask whether politics needs better recognition machinery.
 
+🏛️ Parliament, Compliance And Self-Regulation
+
+* 🏛️ elected_office_is_not_civil_service.md — Explains the unusual constitutional position of MPs: they encounter sensitive information, lobbying, donations and foreign interests, but cannot simply be managed through the employment and compliance structures used for ordinary civil servants.
+* 📚 what_every_mp_should_understand_anyway.md — Asks what minimum practical literacy elected representatives should have around conflicts of interest, information security, safeguarding, foreign influence, gifts, hospitality, financial risk and when something needs escalating.
+* 🎪 party_due_diligence_is_not_the_same_as_public_assurance.md — Examines the limitations of relying on political parties to perform important checking and compliance functions when parties are themselves interested organisations competing for money, candidates, relationships and power.
+* 🪞 politicians_are_also_self_regulating_systems.md — Treats political self-regulation as the same governance problem we recognise elsewhere: the people making the rules, interpreting them and benefiting from the system may also be the people expected to notice when that system is inadequate.
+* 🚨 what_happens_when_the_party_does_not_escalate.md — Follows the failure pathway when a warning, questionable relationship or compliance concern is noticed locally but never reaches an institution with the independence, information or authority needed to examine it properly.
+* 🔐 security_starts_by_knowing_who_is_in_the_room.md — Returns the problem to a basic operational principle: before sophisticated counter-influence systems can work, institutions need to understand who has access to people, conversations, information and decision-making spaces, and in what capacity.
+
+The progression is: why MPs are institutionally unusual → what they nevertheless need to know → limits of party-based assurance → the self-regulation problem → escalation failure → basic access control.
+
+And I think this daughter should stay quite deliberately non-punitive. Its argument isn’t “MPs are uniquely irresponsible”; it’s almost the reverse: we routinely put elected people into an unusually exposed information and influence environment, so have we actually designed the surrounding governance to match the job we’re asking them to do?
+
+((I gave it a lecture about parameters; that’s what it’s honouring)).  
+
+——
