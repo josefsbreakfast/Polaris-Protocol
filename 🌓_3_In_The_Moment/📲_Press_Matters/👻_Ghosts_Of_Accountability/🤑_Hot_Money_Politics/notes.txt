@@ -522,3 +522,175 @@ This daughter is basically the stress test: if the framework can handle these wi
 The progression is basically: map the power → identify the value → identify the capacity → identify the obligation → stop guilt-by-association → grade the claim correctly → test for symmetry → publish without reproducing prejudice.
 
 And that means we’ve now done the one-sentence remit pass for all fourteen daughter clusters and all of their current granddaughters.
+
+then request a gap analysis:
+
+
+Yes. Reading the whole pack as one system, it is already unusually coherent. The main gaps are not “we forgot the argument”; they are places where a reader could reasonably ask “okay, but where is the bridge that proves/defines that?” or where one of our examples is currently carrying more conceptual weight than it should.
+
+The existing cross-links are strong. In particular, 🧱 Dependency As Attack Surface genuinely belongs beside the Data Wars work, because that pack already treats shared suppliers, contractors, banking, data custody and cross-sector dependencies as infrastructure rather than background detail.   The Data Wars attribution model is also already doing exactly the epistemic work Hot Money needs: technical connection, state affiliation, direction and individual responsibility are kept separate rather than collapsed.   And 🥀 Little Database is conceptually compatible because the existing regional material already separates capability, access, intent, implementation, documented use, attribution and causation.  
+
+Factchecks / corrections before we let these claims replicate
+
+A few things in the working notes need tightening early.
+
+* “Fifth column”: yes, Spanish Civil War origin is the correct historical hinge. But the Black Hand/anarchist-bomb material should remain period visual/security context, not be presented as the genealogy of the fifth-column concept.
+* Spanish non-intervention: WWI losses and fear of another European war belong in the context, but British non-intervention cannot be reduced to “we need the men at home.” It involved preventing internationalisation of the Spanish war, European diplomacy, domestic ideological conflict and wider strategic calculations.
+* British lobbying for 400–500 years: directionally right if we mean organised petitioning, patronage and interest representation. We should avoid implying that the modern regulated profession called lobbying existed unchanged for five centuries.
+* “Sugar lobby”: the historically safer vocabulary will often be West India interest / plantation interest / colonial commercial interests. The specific claim about sugar wealth funding particular Whitehall buildings needs sourcing before it goes anywhere.
+* Slavery and lobbying: solid. Organised British interests defended the slave trade, plantation slavery and later slave-owner interests; abolitionists also organised politically. We absolutely want both sides because it demonstrates that lobbying is a mechanism, not a moral category.
+* Modern inherited wealth and reparations: we can demonstrate historical transmission of some slavery-derived wealth. We cannot infer that a present-day descendant opposes reparations to safeguard that wealth without evidence about that person. Structural incentive can be investigated; individual motive must be demonstrated.
+* “Human trafficking” and slavery: substantively useful, but the historical/legal language needs discipline. We can describe forced transportation, enslavement and trafficking-like conduct and explain how modern law would classify relevant conduct without pretending nineteenth-century actors were convicted under twenty-first-century offences.
+* Dreyfus: strong hinge. Espionage was a genuine security concern; Dreyfus was wrongfully convicted and antisemitism profoundly contaminated the process. That is exactly why “real offence exists” and “prejudice distorted investigation” can coexist.
+* MPs / political parties: this needs a proper current-law node before drafting. MPs are not simply employees of their political parties, and Parliament, parties, regulated donees, party treasurers, the Electoral Commission, the Parliamentary Commissioner for Standards and security functions have different responsibilities. Our conceptual question survives, but some of the conversational shorthand does not.
+* Likewise, we should not write that MPs receive “no training.” The stronger question is what training/advice exists, what is mandatory, who supplies it, and whether it is commensurate with the exposure of the job.
+* “Standards and Ethics Committee” needs correction to the actual parliamentary bodies applicable to whatever proposition we make.
+* Equality Act / prejudicial press coverage: discriminatory or racialised reporting is not automatically an Equality Act breach. The node needs to distinguish equality law, press regulation, hate-speech/criminal law, employment/service-provider duties and broader democratic information harms.
+* Prevent: expressing an ugly or extreme opinion is not by itself equivalent to meeting a Prevent referral threshold. That comparison needs to be made about differential risk scrutiny, not “teenager says X → Prevent.”
+* FDA/maggots-in-milk: excellent rant, terrible citation. 😂 The FDA’s regulatory history absolutely reflects serious adulteration and unsafe-food problems, but we should replace that particular image with a documented example.
+* Jimmy Savile as an elite “translator of youth”: plausible as an institutional-cultural hypothesis, but it needs real sourcing before Polaris asserts that this was an important reason establishment figures valued him.
+* Current Cambridge/plagiarism story and current attempts to seed LLM data: leave both as live verification items until we identify the exact actors, claims and evidence. Do not let either become a foundational example merely because current reporting repeats it.
+
+I also couldn’t complete the fresh web verification pass just now because live search was unavailable, so those current-law/current-story items should remain explicitly marked VERIFY BEFORE DRAFTING, rather than silently filled from memory.
+
+The substantive gaps
+
+Here are the places where I think the tree actually needs additions.
+
+* We are missing a UK-law map near the front. The pack currently teaches the analytical distinctions brilliantly, but nowhere gives the reader a clean map of lobbying / political donation / gift / conflict of interest / bribery / corruption / foreign influence / foreign interference / money laundering / sanctions. That leaves readers vulnerable to using these labels interchangeably — precisely what the rest of the pack tells them not to do.
+    I would add under 🧭_How_To_Read_The_System/ something like:
+    🗂️_the_labels_have_different_legal_thresholds.md
+* The distinction “foreign influence is not foreign interference” has somehow disappeared from the actual skeleton. This was one of the strongest propositions in the original conversation. It needs its own node under 💣.
+    ⚖️_foreign_influence_is_not_foreign_interference.md
+    That is also the natural home for the current UK state-threat/FIRS architecture once factchecked.
+* We don’t have “ordinary diplomacy is influence.” Allied embassies, defence showcases, conferences, state visits, trade missions and cultural diplomacy matter because the pack otherwise risks starting the foreign-influence spectrum halfway through.
+    Possibly:
+    🤝_diplomacy_is_also_influence.md
+    That makes the escalation continuum visible rather than implicitly treating foreign contact as already suspicious.
+* Political finance itself is strangely underrepresented. We have lots about influence but no basic node explaining how British political money legally reaches parties, candidates, MPs and campaigning organisations.
+    This is a real structural gap. I’d want either a small daughter or two nodes split across Parliament/Lobbying:
+    🗳️_how_money_legally_enters_british_politics.md
+    🧾_permissible_does_not_mean_risk_free.md
+* Third-party campaigning / issue campaigning / “dark money” needs a home. Particularly because political influence can be exerted without donating directly to a politician or party.
+* APPGs, think tanks, foundations and research institutes are doing too much work as examples without having a structural home. Given how central “expertise as purchased capacity” is to the argument, I think this deserves at least:
+    🎓_who_paid_for_the_expertise_in_the_room.md
+    Probably under Media Amplification or Lobbying.
+* Revolving doors are missing. Former minister → consultancy; regulator → industry; military/public official → contractor; lobbyist → government; etc. This is almost textbook Hot Money because no single relationship need be corrupt for accumulated personnel circulation to change institutional assumptions.
+    🚪_the_revolving_door_moves_knowledge_and_obligation.md
+* Procurement needs more than the cyber/dependency treatment. We currently cover contracts as attack surfaces, but not enough about contracts as political relationships: incumbency, vendor knowledge, switching costs, bespoke systems, lobbying around procurement, and “only supplier who knows how this works.”
+    Something like:
+    📑_the_contract_can_become_the_policy.md
+    This would be an excellent bridge between Hot Money and Data Wars.
+* Offshore structures / trusts / shell companies / beneficial ownership need one explicit structural node. source_of_funds_beneficial_ownership_and_escalation tells the investigator what to ask, but there is no explanatory node showing why legal ownership and practical control can differ.
+    🪆_ownership_is_not_always_control.md would be very Polaris.
+* Professional intermediaries deserve slightly more explicit treatment. Lawyers, accountants, wealth managers, bankers, lobbyists, PR firms and consultants can each perform lawful fragments of a larger chain without seeing or owning its whole purpose. This maps beautifully onto the existing Data Wars onion model, where several true statements can coexist inside a harmful chain and the operator may not know the eventual customer.  
+    I would strongly consider:
+    🧅_the_intermediary_may_only_see_their_layer.md
+* Charity regulation needs one structural node rather than only donor examples. We currently have school → clinic → downstream network and due-diligence burden, but not what the UK regulatory object actually is. That matters if we’re going to argue the architecture may lag modern transnational flows.
+    🏛️_what_charity_regulation_can_and_cannot_see.md
+* Remittances and informal transfer networks are absent. If included, this must be written exceptionally carefully so that ordinary family remittances aren’t securitised. But precisely for that reason it may be worth having:
+    💌_a_remittance_is_not_a_security_event.md
+    followed by how lawful/ordinary channels can differ from intentionally concealed finance.
+* Class needs more than appearing inside the media daughter. This is probably the biggest conceptual omission relative to the conversation. We spent a lot of time on the fact that some forms of transnational embeddedness look like Davos/networking/diplomacy and others look like diaspora/foreign allegiance.
+    At present that argument is split between diaspora_networks_and_elite_networks_need_the_same_test, britain_has_interests_abroad..., and when_the_newsroom_does_not_understand_its_audience.
+    I think it warrants one explicit node, perhaps:
+    🎩_some_networks_are_so_elite_they_stop_looking_foreign.md
+    Or, less cheekily:
+    🎩_class_changes_what_influence_looks_normal.md
+    That would catch hospitality norms, family networks, boarding-school/university connections, diplomatic familiarity and elite cosmopolitanism.
+* Public legitimacy is surprisingly missing. We repeatedly discussed the democratic problem where governments devote money, attention or strategic resources to things the public does not understand or no longer supports. That’s neither proof the public is right nor proof elites are captured.
+    We need:
+    🗳️_when_the_public_cannot_see_what_the_policy_is_for.md
+    It can separate bad communication, changed public preference, genuine strategic necessity and distorted decision-making.
+* There is no specific “counter-lobby” node. Abolitionists are currently only implied. Given our insistence on symmetry, I think they deserve one.
+    🕯️_abolition_was_also_organised_pressure.md
+    That immediately prevents the_slave_economy_had_a_lobby from accidentally teaching “lobby = malign”.
+* The slavery branch wants compensation as a bridge, not only reparations as a hard case. Slave-owner compensation is historically important because it demonstrates how changing the formal rule does not instantly dissolve entrenched economic interests.
+    💰_abolition_did_not_make_the_economic_interest_disappear.md
+* The unions daughter lacks a historical mechanism node. At present it gives us the abstract model but not the British evidence required to discuss incorporation/co-option responsibly.
+    I’d add:
+    🏭_why_british_union_power_changed.md
+    specifically so we don’t accidentally tell a monocausal story about hospitality/access when deindustrialisation, legislation, employment change, political change and major industrial defeats also mattered.
+* Hillsborough is conspicuously absent from the crowd daughter even though it was one of the strongest substantive examples. It may be more valuable than giving The Death of Stalin the only dedicated case node.
+    🚧_hillsborough_and_the_myth_of_the_irrational_crowd.md
+    The film can remain the accessible cultural companion.
+* Older crowd psychology versus modern crowd research needs a short bridge. Otherwise “crowds behave differently” can accidentally resurrect precisely the mob pathology literature we’re trying to avoid.
+    📚_from_mob_psychology_to_crowd_safety.md
+* Platforms and recommender systems are missing from Information Ecosystems. We discuss crowds, prestige and self-radicalisation, but not the machinery determining what people actually encounter.
+    📱_the_feed_changes_the_crowd_before_the_crowd_meets.md
+    This is an obvious bridge to contemporary radicalisation without requiring foreign direction.
+* AI/search information seeding needs a provisional node or research stub. Given the very question that prompted today’s caution:
+    🤖_when_the_future_reader_is_a_model.md
+    But I would mark it [research stub — do not draft factual case claims until verified]. Its question is excellent even if current examples later prove overstated: what happens when advocacy is written partly for retrieval systems, search ranking and model ingestion rather than only human readers?
+* Media ownership is on the inventory but does not really exist in the tree. Purchased capacity discusses PR/research etc., but ownership itself creates a different governance relationship.
+    📰_ownership_and_editorial_power_are_not_the_same_as_buying_a_story.md
+* Strategic litigation deserves its own treatment. At present litigation is buried inside research_pr_litigation_and_attention_infrastructure. But litigation can create facts, disclosure, costs, news hooks and deterrence.
+    ⚖️_litigation_can_be_information_infrastructure.md
+* The trusted-intermediary node needs Savile only as one possible sourced example. Do not build the node around him unless the historical evidence supports the specific mechanism. The general phenomenon stands perfectly well without him.
+* Race/Prejudice needs Dreyfus. I think this is a genuine missing node rather than an example box because it is our cleanest historical teaching case for the both/and principle:
+    ⚔️_dreyfus_the_offence_was_real_the_case_was_wrong.md
+    That title captures the whole lesson.
+* Race/Prejudice could also use a “wrong comparator” node. compare_like_with_like appears in the reporting kit, but there is a deeper problem where elite networks and diaspora networks aren’t even recognised as belonging to the same analytical class.
+* Anti-Palestinian racism needs careful differentiation from criticism of Palestinian politics/armed groups, just as the antisemitism node differentiates Jewish identity from particular organisations/state conduct. The symmetry should be visible in the actual node design, not merely stated.
+* Hard Cases currently mix three different kinds of hard case. This isn’t fatal, but it is worth knowing:
+    * difficult network attribution: Epstein;
+    * difficult political economy: Russian money, migration, anti-trans politics;
+    * difficult moral/legal responsibility: atrocity profit, exploitation, inherited wealth.
+    I would keep the daughter, but its README should explicitly say these cases are hard for different reasons.
+* There is no “what would disprove this?” node in the Reporting Kit. That’s a gap given Polaris’s evidence discipline elsewhere. The regional capability material already explicitly says to name disproof conditions.  
+    Definitely add:
+    🧯_what_would_make_us_change_our_minds.md
+* There is no temporal/versioning question. Relationships change. A donor may have been lawful when accepted and sanctioned later; an intermediary’s ownership changes; an organisation changes leadership; attribution strengthens years later.
+    Add:
+    🗓️_the_relationship_has_a_timeline.md
+    This echoes Data Wars, where later attribution can change the interpretation of an earlier incident without rewriting what was known at the time.  
+* There is no explicit rival-explanations prompt in the toolkit. Data Wars has this baked into its incident schema and repeatedly warns that timing/clustering do not prove common sponsorship.   Hot Money should inherit it directly:
+    🔀_what_else_could_explain_the_pattern.md
+* There is no “who was harmed?” prompt. We follow money and power very well, but a Press Matters tool should also ask where costs landed — taxpayer, worker, minority group, consumer, constituent, competitor, public institution.
+    🩹_who_carried_the_cost.md
+
+The most important structural correction
+
+I would not add everything above as a new node. That would turn a good cluster into an aircraft carrier. 😭
+
+If I were doing the first gap-fill pass, I’d prioritise only these:
+
+🧭_How_To_Read_The_System/
+├── 🗂️_the_labels_have_different_legal_thresholds.md
+└── 🗓️_the_relationship_has_a_timeline.md
+🏛️_Lobbying_And_Democratic_Friction/
+├── 🕯️_abolition_was_also_organised_pressure.md
+├── 🚪_the_revolving_door_moves_knowledge_and_obligation.md
+└── 📑_the_contract_can_become_the_policy.md
+🌍_Diaspora_Money_And_Transnational_Life/
+└── 🏛️_what_charity_regulation_can_and_cannot_see.md
+💣_Influence_State_Threats_And_The_Fifth_Column/
+├── ⚖️_foreign_influence_is_not_foreign_interference.md
+└── 🤝_diplomacy_is_also_influence.md
+🕸️_Information_Ecosystems_And_Crowd_Effects/
+├── 🚧_hillsborough_and_the_myth_of_the_irrational_crowd.md
+├── 📱_the_feed_changes_the_crowd_before_the_crowd_meets.md
+└── 🤖_when_the_future_reader_is_a_model.md [research stub]
+🏦_Dirty_Money_Without_The_Cartoon_Villain/
+├── 🪆_ownership_is_not_always_control.md
+└── 🧅_the_intermediary_may_only_see_their_layer.md
+🏛️_Parliament_Compliance_And_Self_Regulation/
+├── 🗳️_how_money_legally_enters_british_politics.md
+└── 🧾_permissible_does_not_mean_risk_free.md
+🧿_Race_Prejudice_And_Evidentiary_Discipline/
+├── ⚔️_dreyfus_the_offence_was_real_the_case_was_wrong.md
+└── 🎩_class_changes_what_influence_looks_normal.md
+🧰_Reporting_And_Investigation_Kit/
+├── 🔀_what_else_could_explain_the_pattern.md
+├── 🧯_what_would_make_us_change_our_minds.md
+└── 🩹_who_carried_the_cost.md
+
+That is 21 candidate additions, but I’d expect several to merge during drafting.
+
+The biggest current vulnerabilities to husband-going-for-milk syndrome are, in order: the actual UK legal/regulatory architecture; class; political-finance pathways; overt diplomacy versus foreign interference; counter-lobbies/abolition; platforms/AI information engineering; Dreyfus; and explicit falsification/rival-explanation rules.
+
+Everything else is enrichment.
+
+And one reassuring thing from checking the neighbouring Polaris material: the core discipline you’re trying to establish here is already consistent with the repo. Data Wars explicitly refuses to turn threat exposure into attribution, treats contractors through function/dependency rather than branding, separates public attribution from private assessment, and insists that capability does not prove consequence.   Hot Money is essentially taking that same epistemic machinery and applying it to money, relationships, prestige and political access rather than pumps, databases and suppliers.
+
+That’s the right connection to preserve when we start building.
