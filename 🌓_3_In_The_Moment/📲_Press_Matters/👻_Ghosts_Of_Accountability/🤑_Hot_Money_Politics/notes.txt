@@ -1,1 +1,138 @@
-
+🌓_3_In_The_Moment/
+└── 📲_Press_Matters/
+    └── 👻_Ghosts_Of_Accountability/
+        └── 🤑_Hot_Money_Politics/
+            ├── README.md
+            │
+            ├── 🧭_How_To_Read_The_System/
+            │   ├── README.md
+            │   ├── 🪄_mechanisms_transfer_findings_do_not.md
+            │   ├── 🕸️_follow_the_capacity_not_just_the_money.md
+            │   ├── 🪤_what_did_it_make_harder_to_refuse.md
+            │   ├── ⚖️_influence_is_not_the_same_as_corruption.md
+            │   ├── 🔮_threat_modelling_is_not_attribution.md
+            │   └── 🧮_connection_benefit_knowledge_control_culpability.md
+            │
+            ├── 💷_Money_Access_And_Obligation/
+            │   ├── README.md
+            │   ├── 💷_legal_money_can_still_change_the_system.md
+            │   ├── 🎁_gifts_in_kind_are_still_value.md
+            │   ├── 🥂_hospitality_and_the_social_cost_of_no.md
+            │   ├── 🗝️_access_is_an_asset.md
+            │   ├── 🧶_friendship_familiarity_and_invisible_collateral.md
+            │   ├── 🏦_when_finance_hides_the_shape_of_the_transaction.md
+            │   └── 🧾_when_good_people_do_not_recognise_the_compliance_problem.md
+            │
+            ├── 🏛️_Lobbying_And_Democratic_Friction/
+            │   ├── README.md
+            │   ├── 🏺_britain_never_had_lobby_free_politics.md
+            │   ├── 🍬_the_sugar_lobby_and_old_commercial_power.md
+            │   ├── ⛓️_the_slave_economy_had_a_lobby.md
+            │   ├── 🗳️_concentrated_interests_and_distributed_publics.md
+            │   ├── 🧱_lobbying_changes_the_friction_of_policy.md
+            │   ├── ♻️_incorporation_is_not_the_same_as_suppression.md
+            │   └── 🪄_success_changes_the_incentives_of_the_successful.md
+            │
+            ├── 🪧_Unions_Communities_And_Aggregated_Power/
+            │   ├── README.md
+            │   ├── 🪧_aggregation_is_not_automatically_capture.md
+            │   ├── 📯_who_gets_to_speak_for_the_group.md
+            │   ├── 🧭_when_representatives_drift_from_the_represented.md
+            │   ├── 🚪_when_outsiders_become_institutional_insiders.md
+            │   └── ⚖️_the_same_instrument_has_to_work_on_every_lobby.md
+            │
+            ├── 🌍_Diaspora_Money_And_Transnational_Life/
+            │   ├── README.md
+            │   ├── 🌉_transnational_connection_is_not_foreign_control.md
+            │   ├── 💸_when_the_donor_does_not_know_the_endpoint.md
+            │   ├── 🧾_who_should_carry_the_due_diligence_burden.md
+            │   ├── 🏥_the_school_the_clinic_and_the_downstream_network.md
+            │   ├── 🏺_britain_changed_but_the_security_categories_lagged.md
+            │   └── 🧿_behaviour_capability_and_control_not_identity.md
+            │
+            ├── 💣_Influence_State_Threats_And_The_Fifth_Column/
+            │   ├── README.md
+            │   ├── 📰_where_the_fifth_column_model_came_from.md
+            │   ├── 🧭_from_attribution_first_to_mechanism_first.md
+            │   ├── 🕳️_the_absence_of_headquarters_is_not_safety.md
+            │   ├── 🛰️_allies_have_interests_too.md
+            │   ├── 🛡️_practical_freedom_of_action_as_a_resilience_test.md
+            │   └── 🏛️_what_the_security_services_should_and_should_not_decide.md
+            │
+            ├── 🕸️_Information_Ecosystems_And_Crowd_Effects/
+            │   ├── README.md
+            │   ├── 🧫_biofilms_are_an_analogy_not_a_moral_claim.md
+            │   ├── 🪩_crowds_are_not_just_people_added_together.md
+            │   ├── 🔁_social_proof_silence_and_feedback_loops.md
+            │   ├── 🦚_prestige_is_an_information_channel.md
+            │   ├── 📯_successful_mobilisation_does_not_prove_coordination.md
+            │   ├── 🌀_self_radicalisation_and_autonomous_alignment.md
+            │   └── 🎭_the_death_of_stalin_and_partial_control_of_a_crowd.md
+            │
+            ├── 🧱_Dependency_As_Attack_Surface/
+            │   ├── README.md
+            │   ├── 🕳️_a_vulnerability_does_not_require_a_villain.md
+            │   ├── 🖥️_shared_software_shared_risk.md
+            │   ├── 🧱_stacks_contracts_and_common_dependencies.md
+            │   ├── 👣_low_friction_paths_become_default_paths.md
+            │   ├── 🗺️_where_peacetime_life_created_leverage.md
+            │   ├── 🇮🇷_what_data_wars_changes_about_the_question.md
+            │   └── 🥀_what_the_little_database_adds.md
+            │
+            ├── 🏦_Dirty_Money_Without_The_Cartoon_Villain/
+            │   ├── README.md
+            │   ├── 🧼_money_laundering_does_not_arrive_labelled.md
+            │   ├── 🎓_professional_respectability_can_hide_bad_structure.md
+            │   ├── 🏷️_classification_often_comes_after_the_relationship_map.md
+            │   ├── 🔎_source_of_funds_beneficial_ownership_and_escalation.md
+            │   └── 🪞_why_politics_needs_the_same_literacy_as_banking.md
+            │
+            ├── 🏛️_Parliament_Compliance_And_Self_Regulation/
+            │   ├── README.md
+            │   ├── 🏛️_elected_office_is_not_civil_service.md
+            │   ├── 📚_what_every_mp_should_understand_anyway.md
+            │   ├── 🎪_party_due_diligence_is_not_the_same_as_public_assurance.md
+            │   ├── 🪞_politicians_are_also_self_regulating_systems.md
+            │   ├── 🚨_what_happens_when_the_party_does_not_escalate.md
+            │   └── 🔐_security_starts_by_knowing_who_is_in_the_room.md
+            │
+            ├── 🧿_Race_Prejudice_And_Evidentiary_Discipline/
+            │   ├── README.md
+            │   ├── ✡️_antisemitism_is_not_a_veto_on_investigation.md
+            │   ├── 🇵🇸_anti_palestinian_racism_needs_the_same_seriousness.md
+            │   ├── ⚖️_prejudice_and_a_real_problem_can_coexist.md
+            │   ├── 🔎_selection_evidence_and_attribution_are_different_questions.md
+            │   ├── 🕊️_ordinary_citizens_do_not_represent_entire_peoples.md
+            │   ├── 🕸️_diaspora_networks_and_elite_networks_need_the_same_test.md
+            │   └── 🌍_britain_has_interests_abroad_foreign_interests_inside_britain.md
+            │
+            ├── 📺_Media_Amplification_And_Purchased_Capacity/
+            │   ├── README.md
+            │   ├── 📯_follow_the_capacity_the_money_bought.md
+            │   ├── 🪞_a_true_story_can_still_feed_a_false_frame.md
+            │   ├── 🎯_why_this_story_and_why_this_much.md
+            │   ├── 🏭_research_pr_litigation_and_attention_infrastructure.md
+            │   ├── 📻_when_the_newsroom_does_not_understand_its_audience.md
+            │   ├── 🚪_trusted_intermediaries_can_become_information_bottlenecks.md
+            │   └── 🎶_listening_is_a_resilience_function.md
+            │
+            ├── 🧨_Hard_Cases/
+            │   ├── README.md
+            │   ├── 🇷🇺_sanctioned_russian_money.md
+            │   ├── 🕸️_epstein_networks_and_shared_infrastructure.md
+            │   ├── ⚔️_who_profits_from_atrocity.md
+            │   ├── 🧸_who_profits_from_online_child_exploitation.md
+            │   ├── 🏳️‍⚧️_the_financing_of_anti_trans_politics.md
+            │   ├── 🚧_carcerality_migration_and_commercial_incentives.md
+            │   └── 🏺_historical_wealth_reparations_and_present_day_interest.md
+            │
+            └── 🧰_Reporting_And_Investigation_Kit/
+                ├── README.md
+                ├── 🕸️_who_gave_whom_the_ability_to_affect_what.md
+                ├── 🎁_what_did_they_receive.md
+                ├── 🗝️_what_did_it_make_easier.md
+                ├── 🪤_what_did_it_make_harder_to_refuse.md
+                ├── 🧮_connection_is_not_culpability.md
+                ├── 🏷️_label_the_claim_at_the_right_level.md
+                ├── ⚖️_compare_like_with_like.md
+                └── 🧿_how_to_investigate_power_without_reproducing_prejudice.md
