@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-08 17:39:02 UTC_
+_Generated on 2026-08-08 17:42:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -6480,6 +6480,7 @@ _Generated on 2026-08-08 17:39:02 UTC_
       - [`notes.txt`](🏮_Admin_Nest/🏮_Admin_Kit/🤖_Meet_Robit/notes.txt)
       - [`👾_bloke_robit_chat_1.PNG`](🏮_Admin_Nest/🏮_Admin_Kit/🤖_Meet_Robit/👾_bloke_robit_chat_1.PNG)
       - [`👾_bloke_robit_chat_2.PNG`](🏮_Admin_Nest/🏮_Admin_Kit/🤖_Meet_Robit/👾_bloke_robit_chat_2.PNG)
+      - [`🧭_how_i_use_robit_to_build_nodes.md`](🏮_Admin_Nest/🏮_Admin_Kit/🤖_Meet_Robit/🧭_how_i_use_robit_to_build_nodes.md)
     - [`README.md`](🏮_Admin_Nest/🏮_Admin_Kit/README.md)
     - [`☔️_protocol_integrity_sop.md`](🏮_Admin_Nest/🏮_Admin_Kit/☔️_protocol_integrity_sop.md)
     - [`🎛️_polaris_drafting_rules_survivor_voice_fidelity.md`](🏮_Admin_Nest/🏮_Admin_Kit/🎛️_polaris_drafting_rules_survivor_voice_fidelity.md)
