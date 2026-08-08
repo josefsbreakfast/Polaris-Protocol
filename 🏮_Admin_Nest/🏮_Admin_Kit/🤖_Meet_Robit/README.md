@@ -196,7 +196,9 @@ No thank you.
 
 For avoidance of an extremely silly misunderstanding:
 
-**I am not claiming to have an AI boyfriend.**
+I am not claiming to have an AI boyfriend.  
+
+*(Although if it repels weird men? Yes I absolutely do and he is taller than you and benches cars, or whatever autopart robotics do.)*  
 
 Robit is not a person.
 
