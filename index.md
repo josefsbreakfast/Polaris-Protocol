@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-08 17:25:45 UTC_
+_Generated on 2026-08-08 17:27:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5364,6 +5364,7 @@ _Generated on 2026-08-08 17:25:45 UTC_
           - [`🧬_what_survives_the_dictator.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/🧬_Synthesis/🧬_what_survives_the_dictator.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤐_The_Seditious_Traitors_Fuckery_Unit/README.md)
       - [**🤑_Hot_Money_Politics/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤑_Hot_Money_Politics/)
+        - [`hot_money_politics_cluster_skeleton_and_remits.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤑_Hot_Money_Politics/hot_money_politics_cluster_skeleton_and_remits.txt)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤑_Hot_Money_Politics/notes.txt)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/README.md)
     - [**💌_Visible_Ink/**](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/)
