@@ -429,3 +429,25 @@ The progression is: historical model → methodological update → decentralised
 
 The progression is: emergence → crowd behaviour → feedback → prestige → mobilisation without assumed command → autonomous alignment → a concrete cultural case of partial control.
 
+🧱 Dependency As Attack Surface
+
+* 🕳️ a_vulnerability_does_not_require_a_villain.md — Establishes that systems can become dangerously exploitable through ordinary design choices, accumulated dependencies or governance gaps even before any hostile actor appears.
+* 🖥️ shared_software_shared_risk.md — Looks at how multiple institutions relying on the same platforms, vendors, identity systems or software can quietly create common failure points across otherwise separate organisations.
+* 🧱 stacks_contracts_and_common_dependencies.md — Expands the analysis from individual suppliers to the wider technical and contractual stack, asking which shared layers of infrastructure, procurement and service delivery many institutions ultimately depend upon.
+* 👣 low_friction_paths_become_default_paths.md — Explains how the easiest, fastest or most familiar route for information, money, expertise or access tends to be reused until convenience itself creates dependency.
+* 🗺️ where_peacetime_life_created_leverage.md — Maps the ordinary relationships and optimisations of stable times that can become sources of coercive or strategic leverage once political conditions change.
+* 🇮🇷 what_data_wars_changes_about_the_question.md — Connects the cluster to the Iran Data Wars work by showing how contracts, shared technology, data access and institutional seams can become part of an adversary’s usable attack surface without proving any particular actor has exploited them.
+* 🥀 what_the_little_database_adds.md — Links the dependency model to the Little Database framework by asking who can know, classify, connect or act upon whom once technical, social and informational dependencies are mapped together.
+
+The progression is: vulnerability without intent → common technical dependency → stack-level dependency → convenience creating path dependence → peacetime leverage → wartime exploitation logic → person/network-level capability mapping.
+
+🏦 Dirty Money Without The Cartoon Villain
+
+* 🧼 money_laundering_does_not_arrive_labelled.md — Establishes that laundering, bribery, corruption and other problematic financial conduct are often presented through ordinary-looking transactions, relationships or services rather than obviously criminal forms.
+* 🎓 professional_respectability_can_hide_bad_structure.md — Examines how reputable firms, credentials, institutions or advisers can make a transaction feel legitimate even where the underlying ownership, purpose or flow of value remains problematic.
+* 🏷️ classification_often_comes_after_the_relationship_map.md — Shows why investigators may need to map who paid whom, who introduced whom, who controlled the entities and what happened downstream before they can sensibly decide whether the arrangement is lobbying, a conflict, laundering, bribery, fraud or something else.
+* 🔎 source_of_funds_beneficial_ownership_and_escalation.md — Introduces the basic due-diligence questions around where money came from, who ultimately owns or controls it, what intermediaries sit in between, and what signs justify deeper scrutiny or escalation.
+* 🪞 why_politics_needs_the_same_literacy_as_banking.md — Uses the logic behind modern financial compliance to ask whether politicians and political institutions need stronger shared literacy for recognising disguised influence, suspicious money and conflicts rather than relying mainly on instinct or party processes.
+
+The progression here is: it does not look criminal → respectability can reassure us too quickly → map first, classify second → inspect origin and control → ask whether politics needs better recognition machinery.
+
