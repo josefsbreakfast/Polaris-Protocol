@@ -1,5 +1,5 @@
 # 👾 Cyber War Crimes  
-**First created:** 2026-08-07 | **Last updated:** 2026-08-07  
+**First created:** 2026-08-07 | **Last updated:** 2026-08-09  
 *Cyber operations do not sit outside the laws of war merely because the weapon is code rather than explosives.*
 
 ---
@@ -26,7 +26,19 @@ STATE RESPONSIBILITY
 INDIVIDUAL CRIMINAL RESPONSIBILITY
 ```
 
-This node exists to stop those categories collapsing into one another.
+There is another distinction that matters:
+
+```text
+LAWFUL / UNLAWFUL RESORT TO FORCE
+≠
+LAWFUL / UNLAWFUL CONDUCT DURING HOSTILITIES
+```
+
+The legality of resorting to force and the legality of particular conduct during an armed conflict are separate questions.
+
+This node is principally concerned with the second.
+
+It exists to stop these categories collapsing into one another.
 
 The central questions are:
 
@@ -39,6 +51,8 @@ The central questions are:
 > Was the target civilian, military, or dual-use?
 
 > What harm was intended, expected, or caused?
+
+> What rules of international humanitarian law were engaged?
 
 > Who can the conduct be attributed to?
 
@@ -76,7 +90,15 @@ It is how established legal rules apply to cyber operations whose effects may be
 
 Those questions remain legally contested in some areas.
 
-The pack should therefore distinguish settled principle from disputed application.
+The pack should therefore distinguish:
+
+```text
+SETTLED IHL PRINCIPLE
+≠
+SETTLED CYBER-SPECIFIC APPLICATION
+```
+
+Where states, courts, expert bodies, or humanitarian organisations take different positions on the application of an established rule to cyber operations, the disagreement should remain visible.
 
 ---
 
@@ -153,8 +175,16 @@ civilian harm
 
 civilian harm
 ≠
+IHL violation
+
+IHL violation
+≠
 war crime
 ```
+
+The technical depth of an intrusion is evidence.
+
+It is not, by itself, the legal conclusion.
 
 ---
 
@@ -168,7 +198,8 @@ A civilian does not become lawfully targetable merely because:
 - they use government services;
 - their bank supports the national economy;
 - their water comes from public infrastructure;
-- or their data is strategically useful.
+- their data is strategically useful;
+- or they are politically aligned with one side.
 
 Likewise:
 
@@ -181,12 +212,28 @@ combatant
 and:
 
 ```text
-civilian inconvenience
+civilian status
 ≠
-lawful coercive target
+automatic lawful targetability
 ```
 
-The civilian character of the person remains the starting point unless the applicable law provides otherwise on the facts.
+There is an important qualification.
+
+Civilians are protected against attack **unless and for such time as they directly participate in hostilities**.
+
+Cyber activity can, on the facts, amount to such participation.
+
+That does not mean:
+
+```text
+civilian hacker
+=
+combatant
+```
+
+It means the legal analysis must distinguish civilian status from temporary loss of protection against attack arising from particular conduct.
+
+Ordinary use of government services, employment in the civilian economy, political alignment, possession of strategically interesting data, or residence in an enemy state does not by itself remove civilian protection.
 
 ---
 
@@ -224,6 +271,8 @@ part of the battlespace
 military objective
 ```
 
+The relevant inquiry concerns the actual function and use of the object and the applicable legal test for a military objective.
+
 That distinction applies throughout this pack.
 
 ---
@@ -257,19 +306,28 @@ Possible effects include:
 - loss of service;
 - or inability to maintain safe supply.
 
-Objects indispensable to the survival of the civilian population receive particular protection under IHL.
+Drinking-water installations and supplies are expressly recognised in IHL as objects indispensable to the survival of the civilian population.
 
-That means serious interference with civilian drinking-water infrastructure during armed conflict should trigger a legal review.
+They therefore attract legal protections beyond the ordinary observation that they are civilian infrastructure.
 
-But:
+The precise prohibition nevertheless depends on:
+
+- the applicable treaty and customary rules;
+- the function and use of the object;
+- the purpose and expected effects of the operation;
+- and any relevant exceptions or qualifications.
+
+So:
 
 ```text
 water system compromised
 ≠
+special-protection rule necessarily violated
+≠
 war crime established
 ```
 
-The remaining elements still have to be examined.
+But serious interference with civilian drinking-water infrastructure during armed conflict plainly warrants specific IHL review rather than treatment as an ordinary infrastructure outage.
 
 ---
 
@@ -286,8 +344,8 @@ Relevant systems include:
 - laboratories;
 - blood and transplant systems;
 - ambulance coordination;
-- medical devices;
-- and suppliers essential to care.
+- medical devices and systems used by protected medical services;
+- and supply or support infrastructure whose disruption may foreseeably impair medical care.
 
 A hospital does not need to collapse completely for harm to occur.
 
@@ -300,9 +358,13 @@ Cyber interference may produce:
 - unreliable medical information;
 - or loss of access to equipment.
 
-Medical services receive particular protection during armed conflict.
+Protected medical units, personnel and services receive particular protection during armed conflict.
 
-That makes confirmed cyber operations against them especially important to preserve carefully for legal analysis.
+Other suppliers or supporting infrastructure may remain civilian objects and may be critically important to proportionality and precautions without necessarily sharing the same special legal status.
+
+That distinction should be preserved.
+
+Confirmed cyber operations affecting protected medical services are especially important to record carefully for legal analysis.
 
 ---
 
@@ -321,7 +383,29 @@ They may:
 
 The legal treatment of some purely data-focused operations remains more contested than operations producing clear physical damage or injury.
 
+Two questions in particular remain contested:
+
+```text
+IS CIVILIAN DATA ITSELF AN "OBJECT"
+FOR IHL PURPOSES?
+```
+
+and:
+
+```text
+CAN LOSS OF FUNCTIONALITY WITHOUT PHYSICAL DAMAGE
+CONSTITUTE AN "ATTACK"?
+```
+
+States and expert bodies have not expressed identical positions on those questions.
+
+Some states have expressly recognised that cyber operations producing effects equivalent or similar to those produced by kinetic attacks may qualify as attacks for IHL purposes.
+
+The precise threshold for operations causing loss of functionality without physical destruction remains less uniformly settled.
+
 That means the pack should avoid pretending that every serious data breach automatically fits neatly into the legal category of an **attack**.
+
+It should also avoid presenting one cyber-specific interpretation as universally settled where material disagreement remains.
 
 But the absence of physical destruction does not make the incident strategically or legally irrelevant.
 
@@ -358,7 +442,13 @@ The existence of some military use does not erase civilian consequence.
 
 Shared infrastructure can support both.
 
-That makes accurate description of the system especially important.
+Nor does describing something as:
+
+> critical infrastructure
+
+answer the legal targeting question.
+
+That makes accurate description of the system, its function, and its use especially important.
 
 ---
 
@@ -399,7 +489,9 @@ and:
 FORESEEABLE REVERBERATING EFFECT
 ```
 
-where evidence permits.
+where the applicable legal rule and available evidence permit those consequences to be assessed.
+
+The further the claimed consequence moves down a dependency chain, the more carefully foreseeability and evidence should be recorded.
 
 ---
 
@@ -418,7 +510,9 @@ That can include:
 
 The existence of cyber precision does not guarantee lawful behaviour.
 
-But where less harmful alternatives were feasible, that may matter to the legal analysis.
+Nor does the theoretical existence of a more precise cyber technique automatically establish that it was feasible in the circumstances.
+
+But where feasible precautions or less harmful means were available, that may matter to the legal analysis.
 
 ---
 
@@ -428,17 +522,37 @@ Even where the conduct appears legally serious, the next problem is:
 
 > Who did it?
 
-That may require separate attribution at several levels:
+Technical attribution and legal attribution to a state are not the same inquiry.
+
+A useful sequence is:
 
 ```text
 TECHNICAL OPERATOR
         ↓
-ORGANISATION / PROXY
+ORGANISATION / INTERMEDIARY
         ↓
-STATE LINK
+POSSIBLE STATE CONNECTION
         ↓
-STATE DIRECTION OR CONTROL
+APPLICABLE ATTRIBUTION ROUTE
 ```
+
+Possible legal routes may include conduct by:
+
+```text
+STATE ORGAN
+OR
+ENTITY EXERCISING GOVERNMENTAL AUTHORITY
+OR
+ACTOR OPERATING ON STATE INSTRUCTIONS
+OR
+ACTOR UNDER RELEVANT STATE DIRECTION OR CONTROL
+OR
+CONDUCT ACKNOWLEDGED AND ADOPTED BY THE STATE
+OR
+OTHER APPLICABLE ATTRIBUTION RULE
+```
+
+The exact test depends upon the proposition being established and the applicable law.
 
 The pack should not jump from:
 
@@ -455,10 +569,10 @@ Likewise:
 ```text
 Iranian-affiliated operator
 ≠
-Iranian state responsibility
+conduct legally attributable to Iran
 ```
 
-without the evidence required to connect the conduct to the state.
+without the evidence required to establish an applicable route of attribution.
 
 ---
 
@@ -493,7 +607,21 @@ That means legal responsibility may sit at different layers.
 
 The fact that the first hacker did not know the ultimate customer does not resolve responsibility higher in the chain.
 
-The fact that a state benefited from the operation does not by itself prove it directed the operation either.
+The fact that a state benefited from the operation does not by itself prove the conduct is legally attributable to that state either.
+
+The pack should therefore preserve:
+
+```text
+OPERATOR
+≠
+CUSTOMER
+≠
+BENEFICIARY
+≠
+LEGAL ATTRIBUTION
+```
+
+unless the evidence actually joins those layers.
 
 ---
 
@@ -508,9 +636,10 @@ Relevant questions may include:
 - who performed the conduct;
 - who ordered it;
 - who planned it;
-- who facilitated it;
+- who facilitated or otherwise contributed to it;
 - who knew the relevant facts;
 - what intent or knowledge existed;
+- what mode of liability applies;
 - and what connection existed to the armed conflict.
 
 That means:
@@ -521,11 +650,25 @@ state responsibility
 individual criminal responsibility
 ```
 
+It also means:
+
+```text
+IHL VIOLATION
+≠
+WAR CRIME
+```
+
+Not every violation of international humanitarian law is a war crime.
+
+Individual criminal responsibility requires conduct falling within an applicable war-crime prohibition together with the required armed-conflict nexus, material elements, mental elements, and applicable mode of liability under the relevant criminal-law framework.
+
 A state may bear international responsibility without investigators yet being able to establish a criminal case against a particular person.
 
-The reverse evidentiary problems can also arise.
+An individual may also potentially incur criminal responsibility for conduct that is not legally attributable to a state.
 
-The pack should keep the two tracks separate.
+The two tracks may overlap.
+
+They do not depend upon one another in sequence.
 
 ---
 
@@ -545,7 +688,7 @@ Public attribution may require exposing:
 
 But without public attribution, the state may have less ability to say publicly:
 
-> this foreign state committed an unlawful wartime attack against our civilians.
+> this foreign state committed an unlawful wartime cyber operation against our civilians.
 
 The result may look like:
 
@@ -556,12 +699,30 @@ weak public attribution
 =
 strong internal threat assessment
 +
-limited public legal leverage
+limited public evidentiary case
 ```
 
 That does not change whether unlawful conduct actually occurred.
 
 It changes what can responsibly be demonstrated in public.
+
+It also means:
+
+```text
+NO PUBLIC ATTRIBUTION
+≠
+NO INTERNAL ASSESSMENT
+```
+
+but equally:
+
+```text
+POSSIBLE CLASSIFIED ASSESSMENT
+≠
+PUBLICLY PROVED ATTRIBUTION
+```
+
+The pack can preserve that gap without pretending to know what classified evidence contains.
 
 ---
 
@@ -586,35 +747,72 @@ Better:
 
 If attribution strengthens:
 
-> Officials have linked the operation to an Iranian-affiliated actor. Public evidence of state direction and individual criminal responsibility remains incomplete.
+> Officials have linked the operation to an Iranian-affiliated actor. Public evidence establishing attribution to the Iranian state and individual criminal responsibility remains incomplete.
+
+If the conduct itself appears unlawful but the criminal elements remain unresolved:
+
+> The operation may raise questions of compliance with international humanitarian law. Whether the conduct could amount to a war crime would require additional factual and legal findings.
 
 Legal seriousness does not require premature certainty.
 
 ---
 
-## 📰 A Useful Legal Reporting Ladder  
+## 📰 A Useful Legal Reporting Fork  
 
-The pack can describe developing cases through:
+Developing cases should not be forced through one linear ladder.
+
+Start with:
 
 ```text
 CYBER INCIDENT CONFIRMED
         ↓
 ARMED-CONFLICT NEXUS IDENTIFIED
         ↓
-CIVILIAN / PROTECTED OBJECT AFFECTED
+RELEVANT PERSON / OBJECT / SYSTEM IDENTIFIED
         ↓
-IHL ISSUE IDENTIFIED
+APPLICABLE IHL RULE IDENTIFIED
         ↓
 POSSIBLE IHL VIOLATION
         ↓
-CREDIBLE WAR-CRIME QUESTION
-        ↓
-STATE RESPONSIBILITY EVIDENCE
-        ↓
-INDIVIDUAL CRIMINAL RESPONSIBILITY EVIDENCE
+SERIOUS-VIOLATION / WAR-CRIME QUESTION
 ```
 
-Not every incident will move all the way down that ladder.
+Then separate the responsibility tracks:
+
+```text
+                    ┌─────────────────────────────┐
+                    │                             │
+                    ↓                             ↓
+
+          STATE RESPONSIBILITY          INDIVIDUAL CRIMINAL
+                 TRACK                  RESPONSIBILITY TRACK
+
+                    ↓                             ↓
+
+          APPLICABLE STATE              IDENTIFIED PERSON /
+          ATTRIBUTION RULE              RESPONSIBLE ACTOR
+
+                    ↓                             ↓
+
+          CONDUCT ATTRIBUTABLE          RELEVANT CONDUCT /
+          TO THE STATE                  CONTRIBUTION / ORDER /
+                                        OTHER MODE OF LIABILITY
+
+                    ↓                             ↓
+
+          BREACH OF AN                  REQUIRED MATERIAL AND
+          INTERNATIONAL                 MENTAL ELEMENTS
+          OBLIGATION
+
+                    ↓                             ↓
+
+          STATE RESPONSIBILITY          WAR-CRIME LIABILITY
+          QUESTION                      QUESTION
+```
+
+These tracks may overlap, but they do not depend upon one another in sequence.
+
+Not every incident will reach either endpoint.
 
 The purpose is to show where the evidence currently sits.
 
@@ -627,10 +825,16 @@ This node does not claim that:
 - every cyber operation during war is governed identically;
 - every intrusion is an attack for IHL purposes;
 - every attack on state infrastructure is unlawful;
-- every civilian effect establishes a war crime;
-- every cyberattack against water is automatically a war crime;
+- every civilian effect establishes an IHL violation;
+- every IHL violation is a war crime;
+- every cyberattack against water automatically violates the special rules protecting objects indispensable to civilian survival;
+- every cyber operation affecting healthcare is necessarily an attack on a specially protected medical unit;
+- every serious data operation necessarily qualifies as an attack;
 - every Iran-linked actor is state-directed;
+- every Iran-linked operation is legally attributable to Iran;
+- state responsibility requires proof of one universal direction-or-control test;
 - every unlawful state operation produces individual criminal liability;
+- individual war-crime responsibility depends upon establishing state responsibility;
 - or lack of public attribution means governments know nothing internally.
 
 It argues for keeping the legal questions visible without pretending they are simpler than they are.
@@ -654,16 +858,20 @@ SERVICE EFFECT:
 CIVILIAN EFFECT:
 CIVILIAN / MILITARY / DUAL-USE STATUS:
 SPECIAL PROTECTION:
+DIRECT PARTICIPATION QUESTION:
 EXPECTED REVERBERATING EFFECTS:
 PRECAUTION QUESTIONS:
+IHL RULE ENGAGED:
 IHL ISSUE:
 LEGAL STATUS:
 TECHNICAL OPERATOR:
 ORGANISATIONAL LINK:
 STATE AFFILIATION:
-STATE DIRECTION:
+POSSIBLE ATTRIBUTION ROUTE:
 PUBLIC STATE ATTRIBUTION:
 STATE RESPONSIBILITY STATUS:
+IDENTIFIED INDIVIDUAL / ACTOR:
+POSSIBLE MODE OF LIABILITY:
 INDIVIDUAL RESPONSIBILITY STATUS:
 CONFIDENCE:
 RIVAL INTERPRETATIONS:
@@ -683,33 +891,56 @@ without prematurely saying:
 WAR CRIME PROVED
 ```
 
+It should also be capable of recording:
+
+```text
+POSSIBLE STATE RESPONSIBILITY
+```
+
+without implying:
+
+```text
+INDIVIDUAL WAR-CRIME LIABILITY ESTABLISHED
+```
+
+and vice versa.
+
 ---
 
 ## 🧭 Working Rule  
 
 The working rule is:
 
-> Treat cyber operations during armed conflict as capable of engaging international humanitarian law, but preserve the distinction between technical incident, attack, unlawful attack, state responsibility, and individual war-crime responsibility.
+> Treat cyber operations during armed conflict as capable of engaging international humanitarian law, but preserve the distinctions between technical incident, attack, unlawful conduct, IHL violation, state responsibility, and individual war-crime responsibility.
 
 For every serious case ask:
 
 ```text
 WHAT HAPPENED?
 WHAT WAS AFFECTED?
-WHO WAS PROTECTED?
+WHO OR WHAT WAS PROTECTED?
+WHAT RULE APPLIES?
 WHAT EFFECT FOLLOWED?
 WHAT WAS FORESEEABLE?
 WHO OPERATED IT?
-WHO DIRECTED IT?
+WHO DIRECTED, CONTROLLED, ADOPTED OR OTHERWISE CONNECTED TO IT?
+WHAT ATTRIBUTION RULE COULD APPLY?
+WHO COULD BE INDIVIDUALLY RESPONSIBLE?
 WHAT CAN BE PROVED PUBLICLY?
 WHAT REMAINS UNKNOWN?
 ```
 
 Do not erase the legal issue because attribution is incomplete.
 
-Do not turn the legal issue into a verdict because the incident is frightening.
+Do not turn an IHL issue into a war-crime finding merely because the incident is frightening.
 
-Preserve the ladder.
+Do not make state responsibility and individual criminal responsibility stand in for one another.
+
+Preserve the branches.
+
+Preserve the uncertainty.
+
+Preserve the evidence.
 
 ---
 
@@ -719,7 +950,7 @@ Preserve the ladder.
 
 ## ✨ Stardust  
 
-cyber war crimes, international humanitarian law, cyber warfare, civilian infrastructure, water systems, hospitals, distinction, proportionality, precautions, attribution, state responsibility, individual criminal responsibility, IRGC, Iran war
+cyber war crimes, international humanitarian law, cyber warfare, civilian infrastructure, water systems, hospitals, distinction, proportionality, precautions, direct participation in hostilities, attribution, state responsibility, individual criminal responsibility, civilian data, loss of functionality, IRGC, Iran war
 
 ---
 
@@ -737,8 +968,9 @@ It provides the basic legal-routing framework for assessing when wartime cyber a
 > - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *technical attribution, state attribution, and responsibility*
 > - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *layered tasking and responsibility chains*
 > - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *legal and attribution language under uncertainty*
+> - [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) — *source, confidence, limits, and review status*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-07_
+_Last updated: 2026-08-09_
