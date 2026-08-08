@@ -341,3 +341,36 @@ That’s basically our working pile on the floor before we start sorting it into
 
 ——-
 
+Start summarising in chunks (too big and it wobbles), correcting as required as early as possible so error doesn’t reiterate and over time:  
+
+Yep. That’s the sensible way to do it: one daughter at a time, one sentence per granddaughter, and we can catch overlap or missing nodes before the skeleton hardens.
+
+Starting with:
+
+🧭 How To Read The System
+
+* 🪄 mechanisms_transfer_findings_do_not.md — Establishes the core Polaris rule that a mechanism observed in one domain can justify testing for it elsewhere, but evidence from one case cannot simply be transferred into another.
+* 🕸️ follow_the_capacity_not_just_the_money.md — Expands “follow the money” into an investigation of what resources actually created: staff, access, expertise, research, relationships, amplification, infrastructure or the practical ability to affect an outcome.
+* 🪤 what_did_it_make_harder_to_refuse.md — Introduces obligation and friction as analytical variables, asking whether money, kindness, friendship, prestige, hospitality or dependency increased the social or material cost of saying no.
+* ⚖️ influence_is_not_the_same_as_corruption.md — Keeps legitimate persuasion, lobbying, reciprocity, conflicts of interest, capture, bribery and corruption analytically separate rather than treating all influence as wrongdoing.
+* 🔮 threat_modelling_is_not_attribution.md — Explains why an actor can properly belong in the hypothesis space because it has capability, access, opportunity or motive without that constituting evidence that it actually caused the event.
+* 🧮 connection_benefit_knowledge_control_culpability.md — Provides the basic evidentiary ladder for network investigations, separating being connected to something, benefiting from it, knowing about it, controlling it and being legally or morally responsible for it.
+
+I think those six are doing distinct jobs and the order works: transferability → capacity → obligation → legitimate/illegitimate influence → attribution discipline → culpability discipline.
+
+Next would naturally be 💷 Money, Access And Obligation.
+
+💷 Money, Access And Obligation
+
+* 💷 legal_money_can_still_change_the_system.md — Establishes that money does not need to be illicit, undeclared or corrupt to alter incentives, dependencies, access and political behaviour.
+* 🎁 gifts_in_kind_are_still_value.md — Expands the analysis beyond cash to travel, accommodation, services, introductions, research support, staff time and other benefits that may carry influence even where no money changes hands directly.
+* 🥂 hospitality_and_the_social_cost_of_no.md — Examines how ordinary reciprocity and gratitude can make disagreement, refusal or criticism feel socially costly without requiring bribery or conscious quid pro quo.
+* 🗝️ access_is_an_asset.md — Treats privileged access to people, institutions, information, events or decision-making spaces as a form of value that can materially change somebody’s power even when it is impossible to price neatly.
+* 🧶 friendship_familiarity_and_invisible_collateral.md — Looks at how long relationships, trust and accumulated goodwill can function like invisible collateral, making people more reluctant to scrutinise, challenge or report someone they already know and value.
+* 🏦 when_finance_hides_the_shape_of_the_transaction.md — Explores how intermediaries, layered arrangements, investments, consultancy structures or ordinary financial products can obscure what value is actually moving between whom and for what purpose.
+* 🧾 when_good_people_do_not_recognise_the_compliance_problem.md — Uses compliance and AML-style thinking to show why people can participate in problematic arrangements without initially understanding their legal, ethical or institutional significance.
+
+This daughter has a very clear progression too: money → non-cash value → reciprocity → access → relationships → financial opacity → failure to recognise the problem.
+
+
+
