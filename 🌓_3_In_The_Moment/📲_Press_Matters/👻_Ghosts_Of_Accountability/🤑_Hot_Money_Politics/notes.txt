@@ -406,3 +406,26 @@ This one runs as: aggregation → representation → drift → incorporation →
 The progression here is basically: normalise transnational life → show where genuine risk can enter → allocate responsibility fairly → expose the complexity of the pathway → explain why the old British model struggles with it → replace identity-based suspicion with behaviour-and-capability analysis.
 
 
+💣 Influence, State Threats And The Fifth Column
+
+* 📰 where_the_fifth_column_model_came_from.md — Grounds the fifth-column idea in its Spanish Civil War and interwar context, explaining why internally situated actors working for an external enemy became such a powerful security model without treating that model as timeless.
+* 🧭 from_attribution_first_to_mechanism_first.md — Shows why modern security analysis cannot always begin by finding the directing actor, and instead may need to identify the mechanism, pathway and effect before attribution is resolved.
+* 🕳️ the_absence_of_headquarters_is_not_safety.md — Explains how self-radicalised, loosely aligned, networked or autonomous actors can still generate serious security effects even where there is no command centre, formal membership or obvious chain of orders.
+* 🛰️ allies_have_interests_too.md — Establishes that allied states can legitimately cooperate deeply with Britain while still pursuing their own strategic, commercial and political interests, so alliance should not be mistaken for identity of interest.
+* 🛡️ practical_freedom_of_action_as_a_resilience_test.md — Uses Britain’s real ability to choose a different course as a test for dependency, asking whether saying no remains practically possible without costs severe enough to distort independent decision-making.
+* 🏛️ what_the_security_services_should_and_should_not_decide.md — Draws the democratic boundary between intelligence services identifying hidden relationships, leverage and threats, and elected institutions deciding what Britain’s interests and acceptable political choices actually are.
+
+The progression is: historical model → methodological update → decentralised threat → friendly-state complication → dependency test → democratic boundary around intelligence power.
+
+🕸️ Information Ecosystems And Crowd Effects
+
+* 🧫 biofilms_are_an_analogy_not_a_moral_claim.md — Uses biofilms only to illustrate emergence: groups can develop properties that are not obvious from studying each individual unit alone, without implying that human beings are analogous to pathogens in any moral sense.
+* 🪩 crowds_are_not_just_people_added_together.md — Explains how collective settings can change behaviour, emotion, attention and decision-making, producing effects that cannot be understood simply by summing isolated individuals.
+* 🔁 social_proof_silence_and_feedback_loops.md — Shows how visible support, visible punishment, silence and perceived consensus can feed back into one another and alter what people feel safe or motivated to express.
+* 🦚 prestige_is_an_information_channel.md — Examines how status, reputation and perceived expertise can transmit beliefs or behavioural cues through a network even where no formal instruction or material incentive exists.
+* 📯 successful_mobilisation_does_not_prove_coordination.md — Keeps mass participation, rapid convergence and effective messaging separate from evidence of central direction, allowing for imitation, shared incentives, spontaneous uptake and distributed organisation.
+* 🌀 self_radicalisation_and_autonomous_alignment.md — Looks at how people can absorb narratives, tactics and ideological frames from an information environment and then act independently without ever entering a formal command structure.
+* 🎭 the_death_of_stalin_and_partial_control_of_a_crowd.md — Uses the funeral sequence as a cultural illustration of how powerful actors can alter transport, policing and information inputs while still failing to control the full emergent behaviour of the crowd.
+
+The progression is: emergence → crowd behaviour → feedback → prestige → mobilisation without assumed command → autonomous alignment → a concrete cultural case of partial control.
+
