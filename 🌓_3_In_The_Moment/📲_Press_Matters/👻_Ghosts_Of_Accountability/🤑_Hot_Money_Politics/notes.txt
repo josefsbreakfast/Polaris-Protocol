@@ -210,3 +210,134 @@ That feels much more intentional than simply having thirteen buckets of related 
 
 ——-
 
+Force it to niche down anything that is vulnerable to “forking”/“oh I’m so sorry darling, I forgot to go and get the milk from the shop” (istg chatgpt = a husband):  
+
+Just an inventory of the examples/threads we’ve already raised, without trying to organise them into nodes yet:
+
+* British lobbying as a centuries-old feature of politics rather than a new phenomenon.
+* Sugar / West India / plantation interests.
+* The organised political lobby defending transatlantic slavery and the slave economy.
+* Abolitionists as a counter-example: lobbying and organised pressure can also be emancipatory.
+* Human trafficking / forced transportation as part of the slavery and imperial wealth story.
+* Slave-owner compensation and the persistence/transmission of wealth after abolition.
+* Present-day inherited wealth with roots in slavery, colonial extraction or other practices we would understand very differently today.
+* Possible contemporary incentives around resisting reparations, restitution or particular accounts of imperial history.
+* Trade unions as legitimate aggregation of otherwise dispersed political/economic power.
+* Criticism from some union members that leadership can become detached from the people whose power it aggregates.
+* Incorporation/co-option of unions and movements through access, political relationships, finance, hospitality and institutional status.
+* Corporate and industry lobbying.
+* Banks and financial-sector influence.
+* AML as an example of regulation developing because people do not necessarily recognise problematic financial behaviour unaided.
+* Lawyers, accountants and other respectable professional intermediaries.
+* Political donations.
+* Gifts in kind.
+* Hospitality.
+* All-expenses-paid travel.
+* Introductions and networking.
+* Prestige/status as something of value.
+* Friendship and long-standing professional relationships.
+* The perfectly ordinary problem of finding it harder to challenge someone who has been your colleague for ten years.
+* Access itself as an asset.
+* Information itself as an asset.
+* Expertise and privileged briefings as assets.
+* Think tanks and research funding.
+* Universities / academics / expert networks.
+* Funding affecting what research, arguments or expertise become readily available without necessarily purchasing a conclusion.
+* Clubhouse-style elite/social networks: people following ideas or investments because somebody prestigious recommends them.
+* Media ownership and media interests.
+* PR infrastructure.
+* Litigation as political/information capacity.
+* Funding research, reports, FOIs, spokespeople, conferences and campaigns as ways of purchasing capacity, not simply advertising.
+* Why one story receives enormous sustained coverage while comparable stories receive little.
+* A substantially true story being capable of feeding a misleading or prejudicial wider narrative.
+* Anti-trans lobbying and campaigning.
+* Commercial interests around immigration detention, deportation, accommodation, surveillance and border enforcement.
+* The relationship between carceral policy and actors who financially benefit from greater carcerality.
+* Jewish political participation and Jewish organisations.
+* Israel-related lobbying and advocacy in Britain.
+* Historical antisemitic tropes concerning money, hidden control and divided loyalty.
+* The Dreyfus Affair as an example requiring proper historical treatment.
+* The principle that antisemitism can distort investigation without making the underlying subject immune from investigation.
+* Jewish people being entitled to ordinary British political citizenship rather than being treated either as proxies for Israel or as collectively protected from scrutiny.
+* Palestinians and Palestinian political advocacy.
+* Anti-Palestinian racism and presumptions of militancy/collective responsibility.
+* The asymmetry between developed public conversations about antisemitic framing and much less developed ones about anti-Palestinian framing.
+* British Muslim communities and the risk of treating ordinary transnational/religious connections as inherently security-relevant.
+* Indian, Pakistani, Bangladeshi, Sikh, Hindu and other South Asian diaspora networks as possible comparative cases.
+* Chinese/East Asian British communities and the need to separate Chinese-state activity from ethnicity or ordinary transnational relationships.
+* Russian communities versus Russian state interests versus oligarchic/sanctioned Russian wealth.
+* Diaspora charitable giving.
+* People donating to schools, clinics, welfare or relief while potentially not knowing where money eventually goes.
+* The question of how much due diligence can reasonably be expected of an ordinary diaspora donor.
+* The corresponding question of whether institutions should carry more of that burden.
+* Britain becoming much more diasporic and transnational after decolonisation while parts of its inherited security vocabulary remain older.
+* Allied-state influence.
+* The important proposition that allies have interests too.
+* US influence/relationships as an obvious case where extensive access can be completely normal while British and American interests still need not be identical.
+* Hostile/adversarial-state influence: Russia, China and Iran among the examples we’ve discussed.
+* The Spanish Civil War.
+* The original historical context of the fifth column idea.
+* British/non-intervention politics and the wider interwar fear of another European war.
+* WWI losses and interwar strategic thinking as context needing proper treatment rather than shorthand.
+* The Black Hand / anarchist-bomb / secret-cell security imagination as related period context — but not something to collapse historically into the fifth-column story.
+* The older security assumption that disruptive activity ought to have an identifiable directing actor.
+* Self-radicalisation.
+* Autonomous political actors inspired by something without being directed by it.
+* Distributed networks without headquarters.
+* Crowd psychology.
+* Social proof.
+* Silence functioning as information: nobody else seems worried, therefore perhaps I shouldn’t be worried.
+* Prestige functioning as an information channel.
+* QAnon as a crowd/network case.
+* January 6 as a mobilisation case.
+* Fascist and authoritarian movements’ use of crowd psychology.
+* The Death of Stalin funeral/train sequence as a cultural illustration of crowd management and partial control.
+* Hillsborough and the dangers of explaining systemic crowd disasters as irrational crowd behaviour.
+* Biofilms as an analogy for emergent aggregate behaviour — explicitly not an analogy equating human groups with bacteria.
+* Shared software.
+* Shared technical stacks.
+* Shared suppliers.
+* Contracts and procurement dependencies.
+* Information-access dependencies.
+* Intelligence-sharing dependencies.
+* Low-friction pathways becoming default pathways.
+* Peacetime optimisation creating wartime vulnerabilities.
+* The Iran/Data Wars work as the connection between ordinary dependency and exploitable infrastructure.
+* Little Database of Horrors as the connection to who can know, classify, connect or act upon whom.
+* The basic proposition that a vulnerability doesn’t require a villain.
+* MPs’ unusual institutional position compared with ordinary civil servants/employees.
+* Political-party responsibility for aspects of compliance/due diligence — with the precise current arrangements still needing proper checking before we state them.
+* Parliamentary self-regulation and where independent oversight enters.
+* Whether politicians need a more common baseline of security/compliance literacy.
+* “Who is actually in the room?” as an extremely basic security/safeguarding question.
+* Sanctioned Russian money.
+* Epstein-associated networks.
+* The need to distinguish appearing in a network from knowledge, facilitation, participation or culpability.
+* Economic interests benefiting from atrocities/armed conflict.
+* Online child-exploitation financial and technical infrastructure.
+* The danger of inferring common criminal purpose merely because different harms use common intermediaries or infrastructure.
+* Jimmy Savile as a potential example of elite institutions relying upon a trusted intermediary whom they believed understood an audience they didn’t.
+* Class differences in what hospitality, access and elite networking feel “normal”.
+* British political/media class composition and historical continuity — something we’d need to establish empirically rather than assert.
+* Colonial administration and the different family histories produced by empire: administrators, commercial beneficiaries, migrants, displaced populations and colonised peoples.
+* British charity law and whether inherited regulatory concepts adequately handle contemporary transnational networks.
+* The history of AML and financial due diligence.
+* The history of British lobbying itself.
+* The history of organised labour and the multiple causes of union decline.
+* Decolonisation and post-war migration changing the population to which older security concepts are being applied.
+* Information warfare as something broader than hostile-state propaganda.
+* Deliberate attempts to influence the information environment that search engines, retrieval systems and potentially AI systems encounter.
+* The recent claims/examples about campaigns deliberately seeking to affect material scraped or surfaced to LLMs — flagged for later verification rather than treated as established in the pack yet.
+* And the big common question underneath all of it: who gave whom the ability to affect what?
+* Followed by: what did they receive?
+* What did that make easier?
+* What did it make harder to refuse?
+* Who knew what?
+* Who controlled what?
+* Who benefited?
+* And crucially: what does the evidence actually allow us to attribute?
+
+That’s basically our working pile on the floor before we start sorting it into daughters and deciding what deserves a full node versus an example/case box.
+
+——-
+
