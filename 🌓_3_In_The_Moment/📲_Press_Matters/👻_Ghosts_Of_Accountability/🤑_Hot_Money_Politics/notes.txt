@@ -467,3 +467,58 @@ And I think this daughter should stay quite deliberately non-punitive. Its argum
 ((I gave it a lecture about parameters; that’s what it’s honouring)).  
 
 ——
+
+🧿 Race, Prejudice And Evidentiary Discipline
+
+* ✡️ antisemitism_is_not_a_veto_on_investigation.md — Establishes that historic and contemporary antisemitic tropes require unusually careful evidentiary discipline when investigating Jewish people or organisations, but cannot make genuine questions of money, influence, governance or wrongdoing impossible to examine.
+* 🇵🇸 anti_palestinian_racism_needs_the_same_seriousness.md — Applies the same standard to Palestinians, asking why presumptions of militancy, collective responsibility or suspect political allegiance are often treated with less institutional caution than comparable prejudicial framings elsewhere.
+* ⚖️ prejudice_and_a_real_problem_can_coexist.md — Makes explicit that a legitimate security, financial or governance concern can be real while racism, antisemitism or another prejudice simultaneously distorts who is selected for scrutiny, how evidence is interpreted or how responsibility is assigned.
+* 🔎 selection_evidence_and_attribution_are_different_questions.md — Separates why somebody came under suspicion from what the evidence actually shows and from whom the resulting conduct can fairly be attributed to.
+* 🕊️ ordinary_citizens_do_not_represent_entire_peoples.md — Defends ordinary democratic citizenship by insisting that the conduct of an individual donor, activist, businessman or organisation should not be converted into a judgement about an entire ethnic, religious, national or diaspora population.
+* 🕸️ diaspora_networks_and_elite_networks_need_the_same_test.md — Compares structurally similar forms of transnational embeddedness and asks whether elite business, diplomatic and social networks receive the same scrutiny as migrant, religious or diaspora networks when they move money, information and influence.
+* 🌍 britain_has_interests_abroad_foreign_interests_inside_britain.md — Examines the possible post-imperial asymmetry whereby elite overseas relationships are framed as Britain extending its interests outward while minority transnational relationships can be framed as suspect foreign interests entering Britain.
+
+The progression is: antisemitism safeguard → Palestinian counterpart → both/and principle → separate selection from evidence → stop collective attribution → test elite and diaspora networks symmetrically → interrogate the inherited post-imperial grammar itself.
+
+📺 Media Amplification And Purchased Capacity
+
+* 📯 follow_the_capacity_the_money_bought.md — Shifts attention from the existence of funding to the concrete capabilities it purchased, such as researchers, legal work, spokespeople, PR, events, data, advertising, staff time and sustained access to journalists.
+* 🪞 a_true_story_can_still_feed_a_false_frame.md — Explains how a substantially accurate individual story can still be selected, repeated or contextualised in ways that reinforce a misleading wider narrative about a group or political issue.
+* 🎯 why_this_story_and_why_this_much.md — Asks why one allegation or event receives intense, prolonged coverage while comparable cases do not, treating volume and persistence of attention as facts worth investigating rather than proof of manipulation.
+* 🏭 research_pr_litigation_and_attention_infrastructure.md — Maps the machinery that can keep an issue continuously newsworthy by producing reports, FOIs, court cases, expert commentary, polling, events and ready-made material for publication.
+* 📻 when_the_newsroom_does_not_understand_its_audience.md — Looks at how class, professional culture and social distance can leave media institutions dependent on intermediaries or assumptions when trying to understand publics they rarely encounter directly.
+* 🚪 trusted_intermediaries_can_become_information_bottlenecks.md — Examines the risk that one supposedly authoritative broker, expert, celebrity or community representative becomes the route through which institutions understand an entire population, giving that intermediary disproportionate power over what is seen and believed.
+* 🎶 listening_is_a_resilience_function.md — Argues that directly listening to varied members of the public is not merely good engagement practice but a resilience mechanism that reduces dependence on gatekeepers, distorted proxies and stale assumptions.
+
+The progression is: what resources bought → how factual material can still distort → why attention concentrates → what infrastructure sustains it → audience distance → intermediary dependence → listening as the corrective.
+
+
+🧨 Hard Cases
+
+* 🇷🇺 sanctioned_russian_money.md — Uses sanctioned and state-connected Russian wealth to examine how capital can remain politically and economically significant through banks, property, companies and professional intermediaries even after the underlying relationship has become a recognised security concern.
+* 🕸️ epstein_networks_and_shared_infrastructure.md — Uses Epstein-associated social and financial networks to stress-test the rule that proximity, shared advisers, common institutions or appearance in the same graph do not by themselves establish knowledge, participation or culpability.
+* ⚔️ who_profits_from_atrocity.md — Distinguishes direct facilitation, supply, investment, downstream benefit and ordinary commercial exposure when asking who materially gains from war crimes, atrocities or mass violence.
+* 🧸 who_profits_from_online_child_exploitation.md — Maps the financial, technical and platform infrastructure around online child exploitation while carefully separating direct offenders from intermediaries, service providers, negligent actors and entities that merely share infrastructure.
+* 🏳️‍⚧️ the_financing_of_anti_trans_politics.md — Examines how donors, advocacy organisations, litigation, media infrastructure, religious networks and transnational campaigns can increase the reach and institutional capacity of anti-trans politics without assuming every participant shares the same motive or coordination.
+* 🚧 carcerality_migration_and_commercial_incentives.md — Looks at how detention, deportation, surveillance, accommodation and border-enforcement markets can create commercial interests in more punitive migration systems, while keeping profit incentive distinct from the wider causes of anti-migrant politics.
+* 🏺 historical_wealth_reparations_and_present_day_interest.md — Asks how present-day wealth derived partly from slavery, empire or colonial extraction may create contemporary interests around restitution, reparations and historical interpretation without assigning inherited criminal guilt to descendants.
+
+The progression is: recognised dirty capital → socially explosive network analysis → atrocity profit → exploitation infrastructure → ideological financing → carceral commercial interests → inherited wealth and historical accountability.
+
+This daughter is basically the stress test: if the framework can handle these without collapsing into guilt-by-association, euphemism, or “money proves motive,” then the earlier methodological work has done its job.
+
+
+🧰 Reporting And Investigation Kit
+
+* 🕸️ who_gave_whom_the_ability_to_affect_what.md — Gives the reader a first-pass network question for identifying how money, access, information, infrastructure or relationships translated into practical power.
+* 🎁 what_did_they_receive.md — Prompts reporters to record the actual benefit received, including cash, hospitality, services, introductions, prestige, data, expertise or institutional support rather than looking only for formal payments.
+* 🗝️ what_did_it_make_easier.md — Asks what new access, influence, reach, capacity or decision-making opportunity became available because of the relationship or resource.
+* 🪤 what_did_it_make_harder_to_refuse.md — Tests for obligation, dependency and social or material pressure by asking what saying no, criticising, withdrawing or acting independently would now cost.
+* 🧮 connection_is_not_culpability.md — Provides the reporting safeguard that a shared network, intermediary, financial relationship or social connection is a lead to investigate rather than evidence of shared wrongdoing by itself.
+* 🏷️ label_the_claim_at_the_right_level.md — Requires journalists to distinguish carefully between evidence of contact, benefit, knowledge, facilitation, direction, control and legal responsibility so that the strongest label does not silently replace the evidence available.
+* ⚖️ compare_like_with_like.md — Encourages symmetrical comparison by asking whether equivalent conduct by another political, commercial, ethnic, religious or social network would be described, investigated and judged in the same way.
+* 🧿 how_to_investigate_power_without_reproducing_prejudice.md — Pulls the entire cluster together into a practical method for scrutinising powerful people and networks rigorously while avoiding collective blame, conspiratorial inference and inherited racial or religious stereotypes.
+
+The progression is basically: map the power → identify the value → identify the capacity → identify the obligation → stop guilt-by-association → grade the claim correctly → test for symmetry → publish without reproducing prejudice.
+
+And that means we’ve now done the one-sentence remit pass for all fourteen daughter clusters and all of their current granddaughters.
