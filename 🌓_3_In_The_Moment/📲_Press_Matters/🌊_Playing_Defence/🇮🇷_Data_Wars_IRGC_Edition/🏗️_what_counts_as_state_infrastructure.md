@@ -1,5 +1,5 @@
 # 🏗️ What Counts As State Infrastructure  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-07  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-09  
 *The test is what the system does, not whether the organisation running it is formally part of the state.*  
 
 ---
@@ -955,10 +955,10 @@ It defines the functional perimeter for incidents included in the *🇮🇷 Data
 > - [🗺️ Who Iran Sees As Inside The War](./🗺️_who_iran_sees_as_inside_the_war.md) — *threat exposure without collapsing it into legal targetability*
 > - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *how limited incidents accumulate*
 > - [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *operational technology, control systems, and physical effects*
-> - [⚖️ When Attribution Controls The Public War-Crime Claim](./⚖️_when_attribution_controls_the_public_war_crime_claim.md) — *civilian infrastructure, attribution, and legal significance*
+> - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
 > - [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) — *civilian systems as state function*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-07_
+_Last updated: 2026-08-09_
