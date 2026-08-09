@@ -1,5 +1,5 @@
 # 🧭 What This Pack Is Tracking  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-07  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-09  
 *Defining the perimeter of a live wartime cyber timeline without pretending that attribution is cleaner than it is.*  
 
 ---
@@ -673,11 +673,11 @@ It defines the evidentiary perimeter, inclusion rules, escalation indicators, an
 > - [🗺️ Who Iran Sees As Inside The War](./🗺️_who_iran_sees_as_inside_the_war.md) — *country and coalition perimeter*
 > - [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *operational technology, control systems, and physical effect*
 > - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *graded attribution and uncertainty*
-> - [⚖️ When Attribution Controls The Public War-Crime Claim](./⚖️_when_attribution_controls_the_public_war_crime_claim.md) — *legal significance, public attribution, and evidentiary limits*
+> - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
 > - [🏗️ What Counts As State Infrastructure](./🏗️_what_counts_as_state_infrastructure.md) — *functional inclusion test*
 > - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *clustering, accumulation, and campaign effect*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-07_
+_Last updated: 2026-08-09_
