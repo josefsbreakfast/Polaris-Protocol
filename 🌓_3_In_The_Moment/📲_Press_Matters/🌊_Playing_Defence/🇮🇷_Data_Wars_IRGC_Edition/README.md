@@ -1,5 +1,5 @@
 # 🇮🇷 Data Wars: IRGC Edition
-**First created:** 2026-08-01 | **Last updated:** 2026-08-07  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-09  
 *Tracking essential-state cyber disruption across the widening Iran war without pretending attribution is cleaner than it is.*
 
 ---
@@ -253,7 +253,7 @@ Both propositions can be true at once.
 
 ---
 
-## ⚖️ When Attribution Controls The Public War-Crime Claim
+## 👾 When Attribution Controls The Public War-Crime Claim
 
 Cyber operations conducted during armed conflict do not sit outside international humanitarian law merely because they are conducted through computers.
 
@@ -526,7 +526,7 @@ proved
 - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *accumulation, clustering, ambiguity, and strategic effect*
 - [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *operational technology, control systems, manual fallback, and physical effects*
 - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *technical, intelligence, public, state, and individual attribution*
-- [⚖️ When Attribution Controls The Public War-Crime Claim](./⚖️_when_attribution_controls_the_public_war_crime_claim.md) — *the gap between possible legal characterisation and publicly demonstrable responsibility*
+> - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *the gap between possible legal characterisation and publicly demonstrable responsibility*
 - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *proxy labour, recruitment funnels, and deniable tasking*
 - [🏦 Banks Are Part Of The Battlespace](./🏦_banks_are_part_of_the_battlespace.md) — *payments, liquidity, access, and confidence*
 - [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) — *civilian systems as state function*
@@ -558,10 +558,10 @@ It provides the orientation, scope, attribution discipline, legal caution, and r
 >
 > - [🌊 Playing Defence](../) — *parent cluster for defence analysis, institutional readiness, and public-facing strategic interpretation*
 > - [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *the escalation from information systems into physical control*
-> - [⚖️ When Attribution Controls The Public War-Crime Claim](./⚖️_when_attribution_controls_the_public_war_crime_claim.md) — *public attribution, IHL, and the evidentiary gap*
+> - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *incident chronology and evidentiary spine*
 > - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *reporting discipline for unresolved and developing attribution*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-07_
+_Last updated: 2026-08-09_
