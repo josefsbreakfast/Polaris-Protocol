@@ -68,10 +68,14 @@ date
 → affected function
 → technical depth
 → operational / physical / data effect
-→ attribution status
+→ incident / effect confidence
+→ operator / customer / attribution status
+→ relationship confidence
 → pattern significance
 → legal-routing significance
-→ sources
+→ recovery status
+→ source quality / provenance
+→ review history
 ```
 
 It does not assume that all incidents form one campaign.
@@ -80,42 +84,201 @@ It exists so that repeated small events, cross-sector movement, operational-tech
 
 ---
 
-## 🧮 Three Different Confidence Questions
+## 🧮 Confidence Belongs To The Proposition
 
 A single confidence label is no longer sufficient.
 
-The timeline should distinguish:
+The timeline should attach confidence to the **specific proposition being made**.
 
-### 1. Incident confidence
+That means separating, where relevant:
 
-> How confident are we that the reported event and effects occurred?
+### Incident Confidence
 
-### 2. Attribution confidence
+> How confident are we that the reported event occurred?
 
-> How confident are we about the operator, organisation, state affiliation, or state direction?
+### Scope Confidence
 
-### 3. Pattern confidence
+> How confident are we that the incident belongs inside this pack's essential-state-infrastructure perimeter?
 
-> How confident are we that the incident belongs to a meaningful recurring operational pattern?
+### Effect Confidence
+
+> How confident are we about the reported operational, physical, data, record-integrity, civilian, safety, or service consequences?
+
+### Attribution Confidence
+
+> How confident are we about the technical operator, organisation, intermediary, customer, state affiliation, or state direction?
+
+### Relationship Confidence
+
+> How confident are we that this incident is actually related to another incident or cluster?
+
+### Pattern Confidence
+
+> How confident are we that repeated incidents form a meaningful recurring pattern?
+
+### Legal Confidence
+
+> How far does the public evidence support a legal characterisation or justify legal review?
+
+### Recovery Confidence
+
+> How confident are we that technical, service, data, or person-centred recovery is actually complete?
 
 These can diverge.
 
 For example:
 
 ```text
-INCIDENT CONFIDENCE:
-HIGH
+INCIDENT:
+🟢 CONFIRMED
 
-ATTRIBUTION CONFIDENCE:
-LOW / MODERATE
+SCOPE:
+🟢 CONFIRMED
 
-PATTERN CONFIDENCE:
-HIGH
+OPERATIONAL EFFECT:
+🟢 CONFIRMED
+
+RELATIONSHIP TO WATER CLUSTER:
+🟡 PROBABLE
+
+TECHNICAL OPERATOR:
+🟡 PROBABLE
+
+STATE AFFILIATION:
+🟠 SUSPECTED
+
+STATE DIRECTION:
+⚪ OPEN
+
+PATTERN STATUS:
+🔴 ESTABLISHED CAMPAIGN PATTERN
+
+LEGAL REVIEW:
+REVIEW WARRANTED
 ```
 
 That is not contradictory.
 
+It is the point of the method.
+
 A campaign pattern may become visible before its sponsor can responsibly be named.
+
+---
+
+## 🚦 Traffic-Light Confidence
+
+The timeline uses the traffic-light system defined in [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md).
+
+The light belongs to the **specific proposition beside it**.
+
+It is not a severity scale.
+
+It is not a measure of strategic importance.
+
+It does not colour the entire incident.
+
+Use:
+
+```text
+🟢 ESTABLISHED / CONFIRMED
+
+The proposition is strongly supported
+by the available public evidence.
+
+
+🟡 PROBABLE
+
+The available evidence strongly favours
+the proposition, but an important gap remains.
+
+
+🟠 SUSPECTED / DEVELOPING
+
+There is a credible evidentiary basis
+for scrutiny, but material uncertainty remains.
+
+
+⚪ OPEN / UNATTRIBUTED
+
+The proposition has not been established.
+
+
+❌ EXCLUDED
+
+Later evidence no longer supports
+the proposition or inclusion.
+```
+
+Therefore:
+
+```text
+INCIDENT:
+🟢 CONFIRMED
+
+ATTRIBUTION:
+🟠 SUSPECTED
+
+COMMON CUSTOMER:
+⚪ OPEN
+```
+
+is a legitimate result.
+
+### 📣 Actor-Claimed Is A Modifier
+
+Actor claims remain separate from confidence.
+
+Use:
+
+```text
+CLAIM STATUS:
+📣 ACTOR-CLAIMED
+
+ATTRIBUTION CONFIDENCE:
+⚪ OPEN
+```
+
+where that is what the evidence supports.
+
+`📣 ACTOR-CLAIMED` means that a claim exists.
+
+It does not establish that the claimant caused the incident.
+
+### ⚪ Missing Information Is Not One Thing
+
+Where information is missing, distinguish:
+
+```text
+UNKNOWN
+```
+
+The answer has not been established.
+
+```text
+NOT PUBLIC
+```
+
+The information may exist but is not publicly available.
+
+```text
+NO EVIDENCE FOUND
+```
+
+A search was conducted but no supporting public evidence was located.
+
+```text
+WITHHELD / NCND
+```
+
+The relevant authority declined to confirm or deny.
+
+```text
+NOT APPLICABLE
+```
+
+The question does not apply.
+
+These statuses should not be collapsed into one blank field.
 
 ---
 
@@ -196,7 +359,7 @@ The timeline should record the deepest publicly supported level.
 
 ---
 
-# 📌 Current Chronology
+## 📌 Current Chronology
 
 ## 2026-02-28
 
@@ -631,7 +794,7 @@ The entry is relevant as background for assessing the wider hostile-state enviro
 
 ---
 
-# 🚰 The US Water / Wastewater OT Sequence
+## 🚰 The US Water / Wastewater OT Sequence
 
 The following entries should be read both individually and as successive observations of a developing campaign picture.
 
@@ -997,7 +1160,7 @@ It remains weaker than:
 
 ---
 
-# 📈 Campaign-Level Trend Since 28 February 2026
+## 📈 Campaign-Level Trend Since 28 February 2026
 
 The public record currently supports several different observations.
 
@@ -1256,11 +1419,37 @@ They are not a failure of it.
 
 ## 🧾 New-Entry Template
 
+The incident record should preserve enough structure to distinguish:
+
+```text
+event
+≠
+effect
+≠
+relationship
+≠
+pattern
+≠
+operator
+≠
+customer
+≠
+state direction
+≠
+legal conclusion
+```
+
+Use:
+
 ```text
 DATE:
 COUNTRY:
 SECTOR:
 AFFECTED BODY:
+
+IRAN-WAR RELEVANCE:
+SCOPE TRAFFIC LIGHT:
+SCOPE CONFIDENCE:
 
 WHAT HAPPENED:
 SYSTEM LAYER:
@@ -1268,54 +1457,134 @@ DEPTH OF ACCESS:
 
 OPERATIONAL EFFECT:
 PHYSICAL EFFECT:
-DATA EFFECT:
+DATA-CONFIDENTIALITY EFFECT:
+DATA-INTEGRITY EFFECT:
 RECORD-INTEGRITY EFFECT:
 CIVILIAN EFFECT:
+SAFETY EFFECT:
+SERVICE EFFECT:
 MANUAL / FALLBACK RESPONSE:
+
+SEVERITY:
+OPERATIONAL SIGNIFICANCE:
+STRATEGIC SIGNIFICANCE:
 
 TECHNICAL RECOVERY:
 PERSON-CENTRED RECOVERY:
+RECOVERY CONFIDENCE:
 
+CLAIM STATUS:
 CLAIMED ACTOR:
-TECHNICAL OPERATOR:
-ORGANISATIONAL LINK:
-STATE AFFILIATION:
-STATE DIRECTION:
-PUBLIC GOVERNMENT ATTRIBUTION:
 
+TECHNICAL OPERATOR:
+GROUP / ALIAS:
+TOOLING / INFRASTRUCTURE:
+CRIMINAL / ACCESS INTERMEDIARY:
+ACCESS BROKER:
+CONTRACTOR / PROXY:
+BUYER / CUSTOMER:
+STATE AFFILIATION:
+STATE RELATIONSHIP TYPE:
+STATE DIRECTION:
+FINAL BENEFICIARY:
+
+PUBLIC GOVERNMENT ATTRIBUTION:
+INTERNAL / INTELLIGENCE POSITION:
+PUBLIC SUPPORTING EVIDENCE:
+
+INCIDENT TRAFFIC LIGHT:
 INCIDENT CONFIDENCE:
+
+EFFECT TRAFFIC LIGHT:
+EFFECT CONFIDENCE:
+
+ATTRIBUTION TRAFFIC LIGHT:
 ATTRIBUTION CONFIDENCE:
+
+RELATIONSHIP CONFIDENCE:
 PATTERN STATUS:
 
-IRAN-WAR RELEVANCE:
 IHL / PROTECTED-INFRASTRUCTURE RELEVANCE:
-LEGAL STATUS:
-
-RIVAL EXPLANATIONS:
+LEGAL REVIEW:
 
 RELATED INCIDENTS:
 SHARED TECHNOLOGY / PROVIDER:
+COMMON VULNERABILITY:
 PATTERN SIGNIFICANCE:
+
+SOURCE TIER:
+SOURCE QUALITY:
+ORIGINAL SOURCE:
+SOURCE DATE:
+EVIDENCE CUTOFF:
+FIRST REPORT:
+LATER REPORTS:
+INDEPENDENT CORROBORATION:
+COMMON SOURCE DEPENDENCY:
+SOURCE PROVENANCE:
+
+EVIDENCE FOR:
+EVIDENCE AGAINST:
+NEGATIVE FINDINGS:
+LIMIT:
+RIVAL EXPLANATIONS:
+
+WHAT WOULD STRENGTHEN THIS:
+WHAT WOULD WEAKEN THIS:
+WHAT WOULD RULE THIS OUT:
 
 LEAD RESPONSE BODY:
 PROTECTION PATHWAY:
 
-SOURCES:
-INDEPENDENT CORROBORATION:
+OPERATIONAL HISTORY:
 ATTRIBUTION HISTORY:
+
 LAST REVIEWED:
+NEXT REVIEW:
+REVIEW TRIGGER:
 CORRECTION STATUS:
+EXCLUSION REASON:
 ```
 
 Not every field will be known.
 
-Unknown should remain:
+Where information is genuinely missing, use the appropriate explicit status:
 
 ```text
 UNKNOWN
+NOT PUBLIC
+NO EVIDENCE FOUND
+WITHHELD / NCND
+NOT APPLICABLE
 ```
 
-rather than being filled through inference.
+Do not fill an evidentiary gap through inference.
+
+For campaign relationships, remember:
+
+```text
+PATTERN ESTABLISHED
+≠
+COMMON OPERATOR ESTABLISHED
+
+COMMON OPERATOR
+≠
+COMMON CUSTOMER
+
+CRIMINAL OPERATOR
+≠
+NO STATE CUSTOMER
+
+CRIMINAL OPERATOR
+≠
+STATE CUSTOMER
+
+STATE AFFILIATION
+≠
+STATE DIRECTION
+```
+
+The template exists so those distinctions survive later updates.
 
 ---
 
