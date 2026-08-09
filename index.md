@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-09 18:37:29 UTC_
+_Generated on 2026-08-09 19:59:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4494,6 +4494,8 @@ _Generated on 2026-08-09 18:37:29 UTC_
       - [`🫀_who_absorbs_shock.md`](🌑_1_Origin_Points/🧄_Exousiología/🫀_Embodied_Signals/🫀_who_absorbs_shock.md)
       - [`🫀_withdrawal_and_exit.md`](🌑_1_Origin_Points/🧄_Exousiología/🫀_Embodied_Signals/🫀_withdrawal_and_exit.md)
     - [`README.md`](🌑_1_Origin_Points/🧄_Exousiología/README.md)
+  - [**🪿_Embodied_Information_Ecology/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/)
+    - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/notes.txt)
   - [**🫀_Body_Matters/**](🌑_1_Origin_Points/🫀_Body_Matters/)
     - [**🫁_Holistic_Health_In_Surveillant_Societies/**](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/)
       - [**📖_literature_review_funnel/**](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/)
