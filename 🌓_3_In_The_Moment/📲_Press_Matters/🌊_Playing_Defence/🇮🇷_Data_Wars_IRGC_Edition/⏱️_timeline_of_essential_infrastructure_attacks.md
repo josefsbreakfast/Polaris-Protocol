@@ -1,5 +1,5 @@
 # ⏱️ Timeline Of Essential Infrastructure Attacks
-**First created:** 2026-08-01 | **Last updated:** 2026-08-08  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-09  
 *A provisional open-source chronology of cyber incidents affecting essential state infrastructure during the Iran war.*
 
 ---
@@ -1397,4 +1397,4 @@ It provides the chronological evidentiary spine for the *🇮🇷 Data Wars: IRG
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-08_
+_Last updated: 2026-08-09_
