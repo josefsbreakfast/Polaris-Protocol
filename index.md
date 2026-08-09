@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-09 20:11:08 UTC_
+_Generated on 2026-08-09 20:12:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4518,6 +4518,7 @@ _Generated on 2026-08-09 20:11:08 UTC_
     - [**🫀🧿_The_Observed_Body/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/notes.txt)
     - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/notes.txt)
+    - [`wheretogo.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/wheretogo.txt)
   - [**🫀_Body_Matters/**](🌑_1_Origin_Points/🫀_Body_Matters/)
     - [**🫁_Holistic_Health_In_Surveillant_Societies/**](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/)
       - [**📖_literature_review_funnel/**](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/)
