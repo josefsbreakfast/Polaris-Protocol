@@ -309,7 +309,7 @@ The pack must preserve that uncertainty.
 
 For deeper treatment, see:
 
-[⚖️ When Attribution Controls The Public War-Crime Claim](./⚖️_when_attribution_controls_the_public_war_crime_claim.md)
+[👾 Cyber War Crimes](./👾_cyber_war_crimes.md)
 
 ---
 
