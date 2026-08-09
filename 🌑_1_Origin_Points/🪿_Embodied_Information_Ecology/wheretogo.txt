@@ -1,0 +1,25 @@
+                         NEW NOTE
+                            │
+                            ▼
+          Is this fundamentally about ONE domain?
+                    │                 │
+                   YES                NO
+                    │                 │
+                    ▼                 ▼
+          Which domain supplies      Is the note fundamentally
+          the main explanation?      about the RELATIONSHIP
+                    │                 between TWO domains?
+        ┌───────────┼───────────┐        │             │
+        │           │           │       YES            NO
+        ▼           ▼           ▼        │             │
+       🫀          ♻️          🕸️/🧿     ▼             ▼
+     DOMAIN       DOMAIN       DOMAIN   ROUTE TO     Does it require
+                                      PAIRWISE       3–4 domains or
+                                      INTERFACE      a recursive loop
+                                                    to explain it?
+                                                       │       │
+                                                      YES      NO
+                                                       │       │
+                                                       ▼       ▼
+                                                      🐣     REASSESS
+                                                 WHOLE ECOLOGY   SCOPE
