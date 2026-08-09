@@ -1,5 +1,5 @@
 # 🏥 Health, Education And Admin Are Not Soft Extras  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-07  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-09  
 *Civilian systems are not peripheral to the state. They are how the state recognises people, allocates rights, preserves continuity, and keeps ordinary life from collapsing.*  
 
 ---
@@ -1247,9 +1247,9 @@ It explains why civilian systems, authoritative public records, identity infrast
 > - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *layered acquisition, data transfer, and later exploitation*
 > - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *graded attribution and uncertainty*
 > - [🇬🇧 Britain Is Advertising An Exploitable Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) — *fragmented response as adversary-facing weakness*
-> - [⚖️ When Attribution Controls The Public War-Crime Claim](./⚖️_when_attribution_controls_the_public_war_crime_claim.md) — *attribution, civilian infrastructure, and public legal classification*
+> - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-07_
+_Last updated: 2026-08-09_
