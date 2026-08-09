@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-09 20:07:30 UTC_
+_Generated on 2026-08-09 20:11:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4495,6 +4495,28 @@ _Generated on 2026-08-09 20:07:30 UTC_
       - [`🫀_withdrawal_and_exit.md`](🌑_1_Origin_Points/🧄_Exousiología/🫀_Embodied_Signals/🫀_withdrawal_and_exit.md)
     - [`README.md`](🌑_1_Origin_Points/🧄_Exousiología/README.md)
   - [**🪿_Embodied_Information_Ecology/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/)
+    - [**♻️_Cybernetics/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/)
+      - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
+    - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
+      - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/notes.txt)
+    - [**♻️🧿_Observation_Becomes_Intervention/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/)
+      - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/notes.txt)
+    - [**🐣_The_Whole_Ecology/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/)
+      - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/notes.txt)
+    - [**🕸️_Information_Environments/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/)
+      - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
+    - [**🕸️🧿_The_Observed_Information_Space/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/)
+      - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/notes.txt)
+    - [**🧿_Surveillance_And_Observability/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/)
+      - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/notes.txt)
+    - [**🫀_Embodiment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/)
+      - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/notes.txt)
+    - [**🫀♻️_The_Body_In_The_Loop/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/)
+      - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/notes.txt)
+    - [**🫀🕸️_Information_Is_Experienced/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/)
+      - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/notes.txt)
+    - [**🫀🧿_The_Observed_Body/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/)
+      - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/notes.txt)
     - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/notes.txt)
   - [**🫀_Body_Matters/**](🌑_1_Origin_Points/🫀_Body_Matters/)
     - [**🫁_Holistic_Health_In_Surveillant_Societies/**](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/)
