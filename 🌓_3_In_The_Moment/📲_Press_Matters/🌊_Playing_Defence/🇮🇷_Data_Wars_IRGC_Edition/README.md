@@ -589,7 +589,7 @@ The detailed confidence, source, attribution, and review methodology lives in [�
 
 🇮🇷 🕸️ 🚰 ⚖️ 🏗️ 📉 🇬🇧 — Iran war analysis; cyber attribution; operational technology; civilian infrastructure protection; cumulative disruption; British institutional seams.  
 
-*Further media:*  
+*Follow the evidence:*  
 
 - [📰: Wall Street Journal: “The Cyberattack That Brought a Distant War to Small-Town Minnesota”](https://www.wsj.com/politics/national-security/the-cyberattack-that-brought-a-distant-war-to-small-town-minnesota-66451b93)
 - [📰: The Guardian: “US water facilities targeted by ‘malicious cyber actors’ – who’s to blame?”](https://www.theguardian.com/technology/2026/aug/04/us-cyber-attacks-water-minnesota-iran)
