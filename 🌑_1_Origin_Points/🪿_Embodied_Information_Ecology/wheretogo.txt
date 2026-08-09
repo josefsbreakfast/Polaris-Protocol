@@ -23,3 +23,289 @@
                                                        ▼       ▼
                                                       🐣     REASSESS
                                                  WHOLE ECOLOGY   SCOPE
+
+
+—— 
+
+Yes. I think we should make the routing rule mechanistic, because otherwise every interesting note will plausibly belong in three folders.
+
+The key distinction should be:
+
+Route by what the note is trying to explain, not merely by what it mentions.
+
+🪿 Routing flowchart
+
+                         NEW NOTE
+                            │
+                            ▼
+          Is this fundamentally about ONE domain?
+                    │                 │
+                   YES                NO
+                    │                 │
+                    ▼                 ▼
+          Which domain supplies      Is the note fundamentally
+          the main explanation?      about the RELATIONSHIP
+                    │                 between TWO domains?
+        ┌───────────┼───────────┐        │             │
+        │           │           │       YES            NO
+        ▼           ▼           ▼        │             │
+       🫀          ♻️          🕸️/🧿     ▼             ▼
+     DOMAIN       DOMAIN       DOMAIN   ROUTE TO     Does it require
+                                      PAIRWISE       3–4 domains or
+                                      INTERFACE      a recursive loop
+                                                    to explain it?
+                                                       │       │
+                                                      YES      NO
+                                                       │       │
+                                                       ▼       ▼
+                                                      🐣     REASSESS
+                                                 WHOLE ECOLOGY   SCOPE
+
+More concretely, the first question is what explanatory work is being done?
+
+The four domains
+
+🫀 Embodiment
+
+Route here when the note can substantially be understood by examining the embodied human organism itself.
+
+Includes perception, cognition, attention, affect, stress, arousal, nervous-system responses, memory, fatigue, pain, sensory processing, bodily regulation and embodied/situated cognition.
+
+Test: Could I write this note without needing an information system, feedback mechanism or observer to explain the central phenomenon?
+
+If yes → 🫀_Embodiment/
+
+⸻
+
+♻️ Cybernetics
+
+Route here when the central object is feedback, regulation or adaptation.
+
+Includes feedback loops, control, homeostasis, reinforcement, system response, recursive processes, adaptation, learning, signalling and the relationship between output and subsequent input.
+
+The critical distinction is:
+
+something changes
+≠ cybernetics
+something changes
+and that change feeds back into what happens next
+= potentially cybernetics
+
+If the note is principally explaining that mechanism → ♻️_Cybernetics/
+
+⸻
+
+🕸️ Information Environments
+
+Route here when the central object is the informational environment itself.
+
+Includes communication environments, media ecology, information availability, discoverability, information abundance/scarcity, networks, platforms, transmission, attention environments, epistemic conditions and how information is organised or encountered.
+
+The key distinction:
+
+information affecting a body
+→ probably 🫀🕸️
+structure/properties of the information environment
+→ 🕸️
+
+⸻
+
+🧿 Surveillance And Observability
+
+Route here when the central object is observation, visibility, legibility or monitoring.
+
+Includes surveillance, observability, data collection, monitoring, legibility, visibility, watchers and watched, asymmetrical visibility, classification based upon observation, and awareness of possible observation.
+
+Importantly:
+
+data exists
+≠ surveillance
+information can be observed/collected
+in relation to an actor or system
+→ observability
+observation is actually organised or exercised
+→ surveillance
+
+So this folder can discuss the conceptual machinery without assuming every observable system is actively surveilled.
+
+⸻
+
+The six interfaces
+
+The test here is stronger:
+
+If removing either domain destroys the phenomenon the note is trying to explain, it belongs at the interface.
+
+🫀♻️ The Body In The Loop
+
+Embodiment + feedback
+
+The body’s state or behaviour becomes part of a feedback/regulatory process.
+
+stimulus
+→ bodily response
+→ response affects subsequent stimulus/intervention
+→ new bodily response
+
+Conditioning, behavioural reinforcement, adaptive physiological regulation and human-in-the-loop feedback are obvious candidates.
+
+⸻
+
+🫀🕸️ Information Is Experienced
+
+Embodiment + information environment
+
+How informational conditions become perception, cognition, emotion or bodily experience.
+
+information environment
+        ↓
+attention / perception
+        ↓
+embodied experience
+
+Information overload, doomscrolling, attentional capture, affective information environments, sensory load, etc.
+
+The note isn’t merely about information or bodies. It’s about information encountering a body.
+
+⸻
+
+🫀🧿 The Observed Body
+
+Embodiment + surveillance
+
+What actual or anticipated observation does to embodied humans—and what embodied behaviour makes observable.
+
+Includes chilling effects, hypervigilance, self-presentation, behavioural modification under observation, bodily legibility and physiological consequences of surveillance.
+
+The useful test:
+
+Would the bodily phenomenon materially change if the possibility of observation disappeared?
+
+If yes, this interface is probably right.
+
+⸻
+
+♻️🕸️ The Feedback Environment
+
+Cybernetics + information environments
+
+Information environments that respond to behaviour and thereby alter subsequent information exposure.
+
+information
+→ behaviour
+→ system response
+→ changed information
+→ behaviour...
+
+Recommendation systems are the obvious example, but the category is much broader than algorithms.
+
+⸻
+
+♻️🧿 Observation Becomes Intervention
+
+Cybernetics + surveillance
+
+Observation becomes input into a regulatory or adaptive process.
+
+observe
+→ classify
+→ respond
+→ observe response
+→ update
+→ respond again
+
+This distinction is important because surveillance alone doesn’t require feedback.
+
+A CCTV camera recording continuously may primarily be 🧿.
+
+A system where observed behaviour changes how the subject is subsequently treated is ♻️🧿.
+
+⸻
+
+🕸️🧿 The Observed Information Space
+
+Information environment + surveillance
+
+Observation changes the conditions under which information is produced, distributed, encountered or understood.
+
+Includes monitored communication spaces, audience awareness, surveillance of information networks, visibility of communicative behaviour and information asymmetries created through observation.
+
+Again:
+
+someone watches a person
+→ 🧿
+being watched changes the person
+→ 🫀🧿
+someone watches an information environment
+→ 🕸️🧿
+observation triggers adaptive intervention
+→ ♻️🧿
+
+That gives us some genuinely useful boundaries.
+
+🐣 The Whole Ecology
+
+This should have the highest admission threshold.
+
+A note does not go here simply because it mentions three or four domains.
+
+It belongs here when the phenomenon cannot adequately be explained without their interaction.
+
+Especially:
+
+🕸️ information environment
+        ↓
+🫀 embodied perception
+        ↓
+behaviour
+        ↓
+🧿 observation
+        ↓
+♻️ classification / response
+        ↓
+changed 🕸️ information environment
+        ↓
+changed 🫀 experience
+        ↓
+...
+
+🐣 therefore contains emergence, multi-domain recursion and whole-system behaviour.
+
+Its test should be:
+
+Is the thing I am explaining an emergent property of the ecology rather than a property of one component or one interface?
+
+If yes → 🐣_The_Whole_Ecology/.
+
+The anti-chaos rules
+
+I’d put these directly into the eventual routing note:
+
+MENTION ≠ MEMBERSHIP
+Route by explanatory object,
+not by every concept appearing in the note.
+ONE DOMAIN
+→ domain folder
+TWO DOMAINS WHOSE RELATIONSHIP IS THE OBJECT
+→ interface folder
+THREE OR FOUR DOMAINS
+→ does NOT automatically mean Whole Ecology
+EMERGENT / RECURSIVE MULTI-DOMAIN PHENOMENON
+→ 🐣 Whole Ecology
+WHEN TWO LOCATIONS SEEM EQUALLY PLAUSIBLE:
+ask what would be lost if one domain were removed.
+If nothing important is lost:
+route to the simpler category.
+If the argument collapses:
+route to the interface.
+PREFER THE LOWEST SUFFICIENT LEVEL.
+Do not promote a note to an interface
+when one domain explains it.
+Do not promote a note to Whole Ecology
+when one interface explains it.
+
+That last principle is probably the one that will keep this usable six months from now:
+
+Route to the lowest level of ecological complexity sufficient to explain the phenomenon.
+
+That gives us an actual classification system rather than eleven attractive buckets.
