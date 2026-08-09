@@ -40,3 +40,143 @@
 │
 └── 🪿_The_Whole_Ecology/
     └── README.md
+
+——
+
+Yep. I’d freeze the remits like this before we generate a single child README.
+
+Folder	One-line remit	Fuller remit / admission test
+🫀 Embodiment	The human organism as an embodied perceiver, actor and regulator.	Foundational material about perception, cognition, attention, affect, memory, sensory processing, stress, fatigue, pain, disability and bodily regulation where another part of the ecology is not required to explain the phenomenon.
+♻️ Cybernetics	How systems regulate, adapt and change through feedback.	Foundational material about feedback, control, signalling, reinforcement, homeostasis, adaptation, learning and recursion. Admission requires more than change: an output/state must affect subsequent system behaviour or input.
+🕸️ Information Environments	The environments through which information exists, moves, becomes available and is encountered.	Foundational material about information structure, circulation, scarcity/abundance, discoverability, networks, platforms, media ecology, attention environments and epistemic conditions where the environment itself is the explanatory object.
+🧿 Surveillance And Observability	How people, behaviour and systems become visible, legible and observable.	Foundational material about observability, surveillance, monitoring, visibility, data collection, legibility and watcher/watched asymmetries. Must preserve the distinction between possible observation, actual observation, classification and intervention.
+🫀♻️ The Body In The Loop	How embodied states and behaviour participate in feedback and regulatory processes.	Requires a genuine loop involving embodiment: bodily state/behaviour affects what happens next, which can subsequently affect the body again. If the note merely describes bodily adaptation without an external/relational feedback process, return it to 🫀.
+🫀🕸️ Information Is Experienced	How informational environments become embodied perception and experience.	Requires both the properties/content of an information environment and their encounter with an embodied organism. Attention, cognitive load, affective response, sensory load and information-mediated stress can belong here when the relationship is the object.
+🫀🧿 The Observed Body	How being observable changes embodied experience and behaviour, and how bodies become legible.	Requires observation or anticipated observation to matter to the bodily phenomenon. Chilling, hypervigilance, self-monitoring, presentation and physiological responses fit where removing observability would materially change the explanation.
+♻️🕸️ The Feedback Environment	How information environments respond to behaviour and thereby alter subsequent informational conditions.	Requires feedback through the information environment: exposure → response → changed environment/exposure. Includes but is not limited to recommendation systems. Static information architecture stays in 🕸️.
+♻️🧿 Observation Becomes Intervention	How observation becomes an input into regulation, classification or adaptive response.	Requires observation to affect subsequent system behaviour: observe → classify/evaluate → respond → potentially observe again. Passive monitoring stays primarily 🧿; the interface begins when observation changes what happens next.
+🕸️🧿 The Observed Information Space	How information environments become observable and how observation alters communicative conditions.	Covers monitored communication spaces, network visibility, audience awareness, informational legibility and observation-generated asymmetries. If the central consequence is bodily, consider 🫀🧿; if observation drives adaptive intervention, consider ♻️🧿.
+🐣 The Whole Ecology	Emergent behaviour produced by recursive interaction across multiple parts of the ecology.	Highest threshold. Requires a phenomenon that cannot adequately be explained by one domain or one pairwise interface. The note should identify its component relationships and then demonstrate what emerges from their interaction.
+
+And I think there are several hard boundaries worth putting into the eventual READMEs because they’re exactly where future routing mistakes will happen.
+
+🫀 vs 🫀🕸️: “Humans have finite attention” is 🫀. “This information environment competes for finite human attention in this way” is 🫀🕸️.
+
+♻️ vs ♻️🕸️: “Feedback can stabilise or destabilise systems” is ♻️. “A platform changes subsequent information exposure in response to previous behaviour” is ♻️🕸️.
+
+🧿 vs ♻️🧿: “Behaviour is monitored” is 🧿. “Monitored behaviour changes how the system subsequently treats the person” is ♻️🧿.
+
+🧿 vs 🫀🧿: “A person is observable” is 🧿. “Anticipating that observation alters their behaviour, cognition or physiological state” is 🫀🧿.
+
+🕸️🧿 vs 🫀🧿: “Participants know communication in this space is observable” can still be 🕸️🧿 if we’re explaining the properties of the communicative space. If we’re explaining what that knowledge does to an individual, it’s 🫀🧿.
+
+♻️🕸️ vs ♻️🧿: the first needs information-environment adaptation; the second needs observation-driven intervention. A system can do both, but the note goes wherever its explanatory claim sits.
+
+And then the important one:
+
+Any interface vs 🐣: having three arrows in your diagram does not earn you a chick.
+
+🐣 is for emergence, not complexity. If the mechanism can still be adequately described as observation → classification → intervention, that’s ♻️🧿 even if bodies and information environments happen to appear somewhere in the case.
+
+What each README should contain
+
+Rather than eleven bespoke structures, I think we can freeze three templates.
+
+Domain README — 🫀 ♻️ 🕸️ 🧿
+
+Orientation
+Core definition
+Why this domain matters to Embodied Information Ecology
+Intellectual lineage / neighbouring scholarship
+Core concepts and vocabulary
+Internal distinctions
+What belongs here
+What does not belong here
+Routing test
+Common category errors
+Where this domain meets the ecology
+    → its three interface folders
+Likely child-node families
+Boundary With Neighbours
+Constellations
+Stardust
+Footer / parent navigation
+
+Interface README — the six pairs
+
+Orientation
+The relationship being studied
+What Domain A contributes
+What Domain B contributes
+What becomes visible only at the interface
+Core mechanisms / directional patterns
+The removal test
+What belongs here
+What does not belong here
+Boundary with Parent A
+Boundary with Parent B
+Boundary with neighbouring interfaces
+Escalation threshold → 🐣
+Likely child-node families
+Evidence / causal cautions where relevant
+Constellations
+Stardust
+Footer / parent + sibling navigation
+
+🐣 Whole Ecology README
+
+Orientation
+What "whole ecology" means
+Emergence versus mere complexity
+Multi-domain recursion
+Admission threshold
+Component-arrow requirement
+How to construct a whole-ecology model
+How to test/decompose that model
+Evidence requirements
+Capability ≠ occurrence
+Correlation ≠ causation
+Interaction ≠ coordination
+What belongs here
+What must remain in the interfaces
+Likely child-node families
+Worked abstract loop(s)
+Relationship to all four domains
+Relationship to all six interfaces
+Constellations
+Stardust
+Footer / navigation
+
+There is also a useful directionality rule for the interfaces. Their names shouldn’t imply that every relationship only operates one way. 🫀🕸️ Information Is Experienced, for instance, begins intuitively with environment → organism, but organisms also select, produce and alter information environments. Likewise the observed body can deliberately alter what it makes observable. Each interface README should therefore have a small ↔ Direction Of Travel section distinguishing one-way effects, reciprocal relationships and actual closed feedback loops.
+
+And I think the relationship architecture can be frozen as:
+
+                         🪿
+              EMBODIED INFORMATION ECOLOGY
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+         🫀             ♻️             🕸️             🧿
+          │╲           ╱│╲            ╱│╲            ╱│
+          │ ╲         ╱ │ ╲          ╱ │ ╲          ╱ │
+          │  🫀♻️       │  ♻️🕸️        │  🕸️🧿       │
+          │             │              │
+          ├──── 🫀🕸️ ───┤              │
+          │                             │
+          └──────── 🫀🧿          ♻️🧿 ──┘
+                 all may contribute to
+                         │
+                         ▼
+                        🐣
+                  THE WHOLE ECOLOGY
+
+One conceptual point I’d explicitly preserve when drafting: 🐣 isn’t hierarchically “better” than the interfaces. It’s simply a different scale of explanation. A clean two-domain mechanism should stay in its interface folder even if it could be embedded in a grander ecological model.
+
+So the architecture now has a fairly strong grammar:
+
+🫀 ♻️ 🕸️ 🧿 define the components.
+The six paired folders define relationships.
+🐣 studies emergence from interacting relationships.
+🪿 defines the framework within which all eleven can be studied.
+
+That is stable enough that I’d be comfortable generating the four domain READMEs first, then checking them against one another before moving into the six interfaces.
