@@ -1,11 +1,42 @@
 🪿_Embodied_Information_Ecology/notes.txt
 
-“ public health in the Information Age”.  
+“Public health in the Information Age”.  
 
-1. embodied/somatic systems.  
-
-2. cybernetics/feedback systems.  
-
-3. information environment   
-
-4. surveillance awareness.  
+🪿_Embodied_Information_Ecology/
+│
+├── README.md
+│
+│
+├── 🫀_Embodiment/
+│   └── README.md
+│
+├── ♻️_Cybernetics/
+│   └── README.md
+│
+├── 🕸️_Information_Environments/
+│   └── README.md
+│
+├── 🧿_Surveillance_And_Observability/
+│   └── README.md
+│
+│
+├── 🫀♻️_The_Body_In_The_Loop/
+│   └── README.md
+│
+├── 🫀🕸️_Information_Is_Experienced/
+│   └── README.md
+│
+├── 🫀🧿_The_Observed_Body/
+│   └── README.md
+│
+├── ♻️🕸️_The_Feedback_Environment/
+│   └── README.md
+│
+├── ♻️🧿_Observation_Becomes_Intervention/
+│   └── README.md
+│
+├── 🕸️🧿_The_Observed_Information_Space/
+│   └── README.md
+│
+└── 🪿_The_Whole_Ecology/
+    └── README.md
