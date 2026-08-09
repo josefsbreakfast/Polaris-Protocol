@@ -591,7 +591,11 @@ The detailed confidence, source, attribution, and review methodology lives in [�
 
 *Further media:*  
 
-- [📰: Wall Street Journal: “The Cyberattack That Brought a Distant War to Small-Town Minnesota”](https://www.wsj.com/politics/national-security/the-cyberattack-that-brought-a-distant-war-to-small-town-minnesota-66451b93)  
+- [📰: Wall Street Journal: “The Cyberattack That Brought a Distant War to Small-Town Minnesota”](https://www.wsj.com/politics/national-security/the-cyberattack-that-brought-a-distant-war-to-small-town-minnesota-66451b93)
+- [📰: The Guardian: “US water facilities targeted by ‘malicious cyber actors’ – who’s to blame?”](https://www.theguardian.com/technology/2026/aug/04/us-cyber-attacks-water-minnesota-iran)
+- [📰: Axios: “Cyberattacks expose U.S. water vulnerabilities”](https://www.axios.com/2026/08/06/us-drinking-water-cyberattacks-climate-change-risks)
+- [📰: Business Insider: “Hackers are targeting US water systems. Here’s what that means.”](https://www.businessinsider.com/hackers-target-us-water-utilities-cyberattacks-explained-2026-8)
+- [🏛️: EPA: “EPA, FBI, CISA, NSA Issue Joint Cybersecurity Advisory to Water System Regarding Iranian-Affiliated Cyber Attacks”](https://www.epa.gov/newsreleases/epa-fbi-cisa-nsa-issue-joint-cybersecurity-advisory-water-system-regarding-iranian)  
 
 ---
 
