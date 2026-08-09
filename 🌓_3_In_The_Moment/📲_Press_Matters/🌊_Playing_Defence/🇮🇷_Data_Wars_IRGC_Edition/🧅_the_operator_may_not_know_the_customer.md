@@ -1,5 +1,5 @@
 # 🧅 The Operator May Not Know The Customer  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-07  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-09  
 *The person carrying out the task may know only the layer directly above them — and the damage may not be visible until the layers are peeled back.*  
 
 ---
@@ -901,10 +901,10 @@ It maps the layered labour, recruitment, access, acquisition, resale, exploitati
 > - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *technical attribution, state responsibility, and evidentiary limits*
 > - [🧭 What This Pack Is Tracking](./🧭_what_this_pack_is_tracking.md) — *scope and inclusion rules*
 > - [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *operational technology and physical-system access*
-> - [⚖️ When Attribution Controls The Public War-Crime Claim](./⚖️_when_attribution_controls_the_public_war_crime_claim.md) — *public attribution, legal significance, and responsibility*
+> - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
 > - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *how distributed acts accumulate into strategic effect*
 > - [🇬🇧 Britain Is Advertising An Exploitable Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) — *fragmented response as adversary-facing weakness*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-07_
+_Last updated: 2026-08-09_
