@@ -468,26 +468,71 @@ And where international humanitarian law may become relevant:
 
 > Do not call an incident a war crime merely because the target is civilian, the timing is wartime, or the suspected actor is Iranian. Do not erase the legal significance of an attack on protected civilian infrastructure merely because attribution remains unresolved.
 
-Each incident should be recorded with:
+Confidence belongs to the **specific proposition being assessed**, not to the incident as a whole.
+
+Where relevant, the record should therefore keep separate:
+
+- incident confidence;
+- scope confidence;
+- effect confidence;
+- attribution confidence;
+- relationship confidence;
+- pattern confidence;
+- legal confidence or review status;
+- and recovery confidence.
+
+The pack uses the traffic-light confidence layer defined in [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md):
+
+```text
+🟢 ESTABLISHED / CONFIRMED
+🟡 PROBABLE
+🟠 SUSPECTED / DEVELOPING
+⚪ OPEN / UNATTRIBUTED
+❌ EXCLUDED
+```
+
+These lights describe evidentiary confidence in the proposition beside them.
+
+They are not a severity scale.
+
+`📣 ACTOR-CLAIMED` remains a claim-status modifier rather than a confidence category.
+
+The separate pattern scale also remains separate.
+
+An established campaign pattern does not establish a common operator, customer, sponsor, or state direction.
+
+Each incident should preserve, where relevant:
 
 - date;
 - country;
 - sector;
 - affected body;
-- IT or operational-technology layer;
-- operational effect;
-- physical effect, if any;
-- manual fallback, if required;
-- claimed actor;
-- official attribution;
-- other attribution;
-- confidence level;
+- system layer and depth of access;
+- operational, physical, data, record-integrity, civilian, safety, and service effects;
+- manual fallback and recovery;
+- claimed actor and technical operator;
+- intermediary, contractor, proxy, buyer, or customer layers where evidence exists;
+- public government attribution and other attribution;
+- proposition-specific confidence;
+- relationship and pattern status;
 - relevance to the Iran war;
 - protected-object or IHL relevance where applicable;
-- rival explanations;
-- sources;
-- review date;
+- rival explanations and evidence against the working assessment;
+- source quality, provenance, and independent corroboration;
+- review history;
 - and correction status.
+
+Where information is missing, distinguish between:
+
+```text
+UNKNOWN
+NOT PUBLIC
+NO EVIDENCE FOUND
+WITHHELD / NCND
+NOT APPLICABLE
+```
+
+Do not fill an evidentiary gap through inference.
 
 For control-system incidents, the record should additionally ask:
 
@@ -516,6 +561,8 @@ demonstrated
 proved
 ```
 
+The detailed confidence, source, attribution, and review methodology lives in [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md).
+
 ---
 
 ## 📂 Pack Map
@@ -526,7 +573,7 @@ proved
 - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *accumulation, clustering, ambiguity, and strategic effect*
 - [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *operational technology, control systems, manual fallback, and physical effects*
 - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *technical, intelligence, public, state, and individual attribution*
-> - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *the gap between possible legal characterisation and publicly demonstrable responsibility*
+- [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *the gap between possible legal characterisation and publicly demonstrable responsibility*
 - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *proxy labour, recruitment funnels, and deniable tasking*
 - [🏦 Banks Are Part Of The Battlespace](./🏦_banks_are_part_of_the_battlespace.md) — *payments, liquidity, access, and confidence*
 - [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) — *civilian systems as state function*
@@ -535,7 +582,6 @@ proved
 - [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) — *claim, source, confidence, and limit*
 - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *chronological incident record*
 - [📊 Timeline CSV](./📊_iran_war_essential_infrastructure_cyber_timeline.csv) — *structured working dataset*
-- [📚 Sources And Live Updates](./📚_sources_and_live_updates.md) — *official notices, reporting, research, corrections, and re-entry points*
 
 ---
 
