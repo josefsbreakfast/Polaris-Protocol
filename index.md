@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-09 20:12:30 UTC_
+_Generated on 2026-08-09 20:16:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4496,27 +4496,39 @@ _Generated on 2026-08-09 20:12:30 UTC_
     - [`README.md`](🌑_1_Origin_Points/🧄_Exousiología/README.md)
   - [**🪿_Embodied_Information_Ecology/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/)
     - [**♻️_Cybernetics/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/)
+      - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
     - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
+      - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/notes.txt)
     - [**♻️🧿_Observation_Becomes_Intervention/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/)
+      - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/notes.txt)
     - [**🐣_The_Whole_Ecology/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/)
+      - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/notes.txt)
     - [**🕸️_Information_Environments/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/)
+      - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
     - [**🕸️🧿_The_Observed_Information_Space/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/)
+      - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/notes.txt)
     - [**🧿_Surveillance_And_Observability/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/)
+      - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/notes.txt)
     - [**🫀_Embodiment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/)
+      - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/notes.txt)
     - [**🫀♻️_The_Body_In_The_Loop/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/)
+      - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/notes.txt)
     - [**🫀🕸️_Information_Is_Experienced/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/)
+      - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/notes.txt)
     - [**🫀🧿_The_Observed_Body/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/)
+      - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/notes.txt)
+    - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/README.md)
     - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/notes.txt)
     - [`wheretogo.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/wheretogo.txt)
   - [**🫀_Body_Matters/**](🌑_1_Origin_Points/🫀_Body_Matters/)
