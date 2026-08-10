@@ -1,5 +1,5 @@
 # 🇮🇷 Data Wars: IRGC Edition
-**First created:** 2026-08-01 | **Last updated:** 2026-08-09  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-10  
 *Tracking essential-state cyber disruption across the widening Iran war without pretending attribution is cleaner than it is.*
 
 ---
@@ -591,10 +591,12 @@ The detailed confidence, source, attribution, and review methodology lives in [�
 
 *Follow the evidence:*  
 
+- [📰: Washington Post: “Water systems are ripe for cyberattacks, experts warn after suspected Iranian hacks”](https://www.washingtonpost.com/national-security/2026/08/10/us-water-systems-are-low-hanging-fruit-cyberattacks-experts-warn-after-suspected-iranian-hacks/)  
 - [📰: Wall Street Journal: “The Cyberattack That Brought a Distant War to Small-Town Minnesota”](https://www.wsj.com/politics/national-security/the-cyberattack-that-brought-a-distant-war-to-small-town-minnesota-66451b93)
 - [📰: The Guardian: “US water facilities targeted by ‘malicious cyber actors’ – who’s to blame?”](https://www.theguardian.com/technology/2026/aug/04/us-cyber-attacks-water-minnesota-iran)
 - [📰: Axios: “Cyberattacks expose U.S. water vulnerabilities”](https://www.axios.com/2026/08/06/us-drinking-water-cyberattacks-climate-change-risks)
 - [📰: Business Insider: “Hackers are targeting US water systems. Here’s what that means.”](https://www.businessinsider.com/hackers-target-us-water-utilities-cyberattacks-explained-2026-8)
+- [📰: Reuters: “”]()  
 - [🏛️: EPA: “EPA, FBI, CISA, NSA Issue Joint Cybersecurity Advisory to Water System Regarding Iranian-Affiliated Cyber Attacks”](https://www.epa.gov/newsreleases/epa-fbi-cisa-nsa-issue-joint-cybersecurity-advisory-water-system-regarding-iranian)  
 
 ---
@@ -620,4 +622,4 @@ It provides the orientation, scope, attribution discipline, legal caution, and r
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-09_
+_Last updated: 2026-08-10_
