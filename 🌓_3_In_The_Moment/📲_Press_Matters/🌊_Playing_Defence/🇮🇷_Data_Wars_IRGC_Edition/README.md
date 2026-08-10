@@ -596,7 +596,7 @@ The detailed confidence, source, attribution, and review methodology lives in [�
 - [📰: The Guardian: “US water facilities targeted by ‘malicious cyber actors’ – who’s to blame?”](https://www.theguardian.com/technology/2026/aug/04/us-cyber-attacks-water-minnesota-iran)
 - [📰: Axios: “Cyberattacks expose U.S. water vulnerabilities”](https://www.axios.com/2026/08/06/us-drinking-water-cyberattacks-climate-change-risks)
 - [📰: Business Insider: “Hackers are targeting US water systems. Here’s what that means.”](https://www.businessinsider.com/hackers-target-us-water-utilities-cyberattacks-explained-2026-8)
-- [📰: Reuters: “”]()  
+- [📰: Reuters: “Trump says Iran not to blame for Minnesota cyberattack”](https://www.reuters.com/world/us/trump-says-iran-not-blame-minnesota-cyber-attack-2026-07-31/)  
 - [🏛️: EPA: “EPA, FBI, CISA, NSA Issue Joint Cybersecurity Advisory to Water System Regarding Iranian-Affiliated Cyber Attacks”](https://www.epa.gov/newsreleases/epa-fbi-cisa-nsa-issue-joint-cybersecurity-advisory-water-system-regarding-iranian)  
 
 ---
