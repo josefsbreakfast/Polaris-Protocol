@@ -2,7 +2,7 @@
 
 ## Guidance Notes On Lawful Escalation, Administrative Dread, and the Proper Care of One’s Conscience During Professionally Unfortunate Circumstances
 
-**First created:** 2025-10-12 | **Last updated:** 2026-05-06  
+**First created:** 2025-10-12 | **Last updated:** 2026-08-11  
 *“You have command / I have conscience” → restoring lawful accountability inside the seal.*
 
 ---
@@ -272,4 +272,4 @@ It does not endorse unauthorised disclosure, operational compromise, or unlawful
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-05-06*
+_Last updated: 2026-08-11_
