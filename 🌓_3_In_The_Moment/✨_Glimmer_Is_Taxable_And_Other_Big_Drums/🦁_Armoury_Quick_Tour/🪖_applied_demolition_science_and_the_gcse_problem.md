@@ -1,5 +1,5 @@
 # 🪖 Applied Demolition Science and the GCSE Problem  
-**First created:** 2025-11-12 | **Last updated:** 2026-02-19  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-11  
 *Army methodology as empirical pyrotechnics.*  
 <!--"I joined to make things go 'boom', Sir."-->
 ---
@@ -49,4 +49,4 @@ army, demolition science, field engineering, containment humour, risk culture
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-11_
