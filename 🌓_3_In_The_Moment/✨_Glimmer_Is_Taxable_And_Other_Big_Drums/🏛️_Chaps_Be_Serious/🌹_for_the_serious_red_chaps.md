@@ -1,5 +1,5 @@
 # 🌹 For The Serious Red Chaps: Labour as Alternative to Rupture  
-**First created:** 2025-11-15 | **Last updated:** 2026-05-08  
+**First created:** 2025-11-15 | **Last updated:** 2026-08-11  
 *Labour’s constitutional role as a democratic mechanism for negotiating economic strain, social pressure, and transitional reform.*
 
 ---
@@ -190,4 +190,4 @@ It documents Labour’s historical and constitutional function within British de
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-11_
