@@ -1,5 +1,5 @@
 # 🌹 Feel the Fear, and Fight Fascism Anyway  
-**First created:** 2025-10-23 | **Last updated:** 2026-02-19  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-11  
 *Courage is not the absence of fear — it is fidelity under surveillance.*  
 
 ---
@@ -130,4 +130,4 @@ The node links emotional intelligence with civic resistance, grounding political
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-11_
