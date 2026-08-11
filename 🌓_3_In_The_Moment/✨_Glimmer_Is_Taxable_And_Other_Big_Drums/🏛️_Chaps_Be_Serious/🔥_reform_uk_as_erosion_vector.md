@@ -1,5 +1,5 @@
 # 🔥 Reform UK as Erosion Vector  
-**First created:** 2025-11-22 | **Last updated:** 2026-05-07  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-11  
 *How outrage-driven political ecosystems can destabilise democratic governance even without securing conventional governing power.*
 
 ---
@@ -227,4 +227,4 @@ It documents how modern outrage-oriented populist ecosystems can destabilise dem
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-07_
+_Last updated: 2026-08-11_
