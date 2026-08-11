@@ -1,5 +1,5 @@
 # 🚢 Royal Navy & The Definite Reality of Underwater Threats  
-**First created:** 2025-11-17 | **Last updated:** 2026-02-19  
+**First created:** 2025-11-17 | **Last updated:** 2026-08-11  
 *Why navies throughout history — including the Royal Navy — have relied on exaggerated, unverifiable, and often completely imaginary underwater threats to justify budgets, prestige, and political leverage.*  
 
 ---
@@ -213,4 +213,4 @@ It uses humour to dissect how imaginary monsters and vague aquatic adversaries c
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_  
+_Last updated: 2026-08-11_  
