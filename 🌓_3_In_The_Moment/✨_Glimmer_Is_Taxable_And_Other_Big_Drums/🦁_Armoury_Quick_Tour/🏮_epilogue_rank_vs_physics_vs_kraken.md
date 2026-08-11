@@ -1,5 +1,5 @@
 # 🏮 Epilogue — Rank vs Physics vs Kraken  
-**First created:** 2025-11-12 | **Last updated:** 2026-02-19  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-11  
 *Tri-Service closing scene: the kettle as only responsible adult.*  
 
 ---
@@ -40,4 +40,4 @@ tri-service satire, kettle diplomacy, resilience, humour, containment ethics
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-11_
