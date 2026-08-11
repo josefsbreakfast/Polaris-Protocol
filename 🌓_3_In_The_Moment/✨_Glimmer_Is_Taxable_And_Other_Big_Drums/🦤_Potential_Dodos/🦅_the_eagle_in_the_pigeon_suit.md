@@ -1,7 +1,7 @@
 # 🦅 The Eagle in the Pigeon Suit  
 **Alternative Name:** Transatlantic Banter Failure  
 **Classification:** Cultural Mismatch / Predatory Mimicry Gone Wrong  
-**First Sighted:** 2025-12-23 | **Last Seen:** 2026-02-19  
+**First Sighted:** 2025-12-23 | **Last Seen:** 2026-08-11  
 
 ---
 
@@ -114,4 +114,4 @@ species best observed briefly, then ignored until they wander off.*
 > - [🏛️ Our Island, Our Realm, Our Rules (and Why That Includes Hospitality)](../../Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_our_island_our_realm_our_rules.md)  
 
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-11_
