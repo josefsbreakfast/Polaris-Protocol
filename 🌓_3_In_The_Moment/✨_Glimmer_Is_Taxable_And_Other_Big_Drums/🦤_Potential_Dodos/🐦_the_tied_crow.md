@@ -137,4 +137,4 @@ species whose intelligence requires continuous civic calibration.*
 
 ---
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-08-11_
