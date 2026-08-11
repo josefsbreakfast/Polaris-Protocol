@@ -1,5 +1,5 @@
 # 📺 GB Not-News  
-**First created:** 2025-10-27 | **Last updated:** 2026-02-19  
+**First created:** 2025-10-27 | **Last updated:** 2026-08-11  
 *A case study in regulatory cosplay — how to sell opinion as journalism and call it compliance.*  
 
 ---
@@ -287,4 +287,4 @@ proof that in post-truth Britain, even compliance can be performative art.
 > - [📻 Lobbying Killed the Radio Star](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/📻_lobbying_killed_the_radio_star.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-11_
