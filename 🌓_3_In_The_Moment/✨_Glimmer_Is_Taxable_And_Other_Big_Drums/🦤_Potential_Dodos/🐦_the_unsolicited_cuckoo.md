@@ -108,4 +108,4 @@ species requiring procedural containment before irreversible habitat distortion.
 
 ---
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-11_
