@@ -263,5 +263,5 @@ and replaces them with a structure that can actually survive the century.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-09_
+_Last updated: 2026-08-11_
 
