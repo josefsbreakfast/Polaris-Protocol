@@ -2,7 +2,7 @@
 **Common Name:** “Have You Tried Ordering a Curry?”  
 **Classification:** Imported Banter / Low-Energy Cruelty Meme  
 **Threat Level:** Socially Corrosive, Intellectually Embarrassing  
-**First Sighted:** 2025-12-23 | **Last Seen:** 2026-02-19  
+**First Sighted:** 2025-12-23 | **Last Seen:** 2026-08-11  
 
 ---
 
@@ -131,4 +131,4 @@ ideas that should never be allowed to breed.*
 > - [🔥 Hunger Strike Comparisons](../../🌀_System_Governance/⚖️_Legal_State_Governance/🔥_hunger_strike_comparisons.md)  
 > - [🤖 General Issue Robots](../../🪄_Expression_Of_Norms/🙀_Chronically_Online/🤖_general_issue_robots.md)  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-11_
