@@ -1,5 +1,5 @@
 # 🖌️ For The Serious Blue Chaps: Conservatives as the Counterbalance to Radical Change  
-**First created:** 2025-11-15 | **Last updated:** 2026-05-08  
+**First created:** 2025-11-15 | **Last updated:** 2026-08-11  
 *The Conservative Party’s historical role as a stabilising force within democratic governance and institutional continuity.*
 
 ---
@@ -214,4 +214,4 @@ It documents the historical stabilisation role often associated with conservativ
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-11_
