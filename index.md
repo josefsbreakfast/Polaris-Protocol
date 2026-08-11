@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-11 09:45:58 UTC_
+_Generated on 2026-08-11 09:52:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4965,6 +4965,9 @@ _Generated on 2026-08-11 09:45:58 UTC_
       - [`🇺🇸_project_2025_summary.yaml`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🍌_Project_2025_UK_Edition/🇺🇸_project_2025_summary.yaml)
       - [`🇺🇸_project_esther_summary.yaml`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🍌_Project_2025_UK_Edition/🇺🇸_project_esther_summary.yaml)
     - [**🏛️_Chaps_Be_Serious/**](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/)
+      - [**🦕_Political_Pokedex/**](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🦕_Political_Pokedex/)
+        - [`notes.txt`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🦕_Political_Pokedex/notes.txt)
+        - [`🦕_political_pokedex_nick_clegg_the_digital_diplomat.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🦕_Political_Pokedex/🦕_political_pokedex_nick_clegg_the_digital_diplomat.md)
       - [`README.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/README.md)
       - [`⚠️_alt_right_threat_to_both_parties.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/⚠️_alt_right_threat_to_both_parties.md)
       - [`🌹_for_the_serious_red_chaps.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🌹_for_the_serious_red_chaps.md)
@@ -4975,7 +4978,6 @@ _Generated on 2026-08-11 09:45:58 UTC_
       - [`🔥_reform_uk_as_erosion_vector.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🔥_reform_uk_as_erosion_vector.md)
       - [`🖌️_for_the_serious_blue_chaps.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🖌️_for_the_serious_blue_chaps.md)
       - [`🦔_anti_fascist_defence_league_parliamentary_edition.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🦔_anti_fascist_defence_league_parliamentary_edition.md)
-      - [`🦕_political_pokedex_nick_clegg_the_digital_diplomat.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🦕_political_pokedex_nick_clegg_the_digital_diplomat.md)
       - [`🪁_life_under_quiet_fascism.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🪁_life_under_quiet_fascism.md)
     - [**🦁_Armoury_Quick_Tour/**](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/)
       - [`README.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/README.md)
