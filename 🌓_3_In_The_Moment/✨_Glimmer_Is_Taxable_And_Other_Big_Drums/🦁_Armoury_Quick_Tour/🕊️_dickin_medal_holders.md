@@ -1,5 +1,5 @@
 # 🕊️ Dickin Medal Holders  
-**First created:** 2025-10-12 | **Last updated:** 2026-05-23  
+**First created:** 2025-10-12 | **Last updated:** 2026-08-11  
 *Animals recognised for extraordinary bravery in military or civil-defence service.*  
 
 ---
@@ -195,4 +195,4 @@ It documents our fabulous animal friends, many of whom have fought and died for 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-23_
+_Last updated: 2026-08-11_
