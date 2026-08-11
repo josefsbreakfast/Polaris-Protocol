@@ -1,5 +1,5 @@
 # 🦑 Kraken: Ground Zero  
-**First created:** 2025-12-14 | **Last updated:** 2026-05-10  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-11  
 *The moment institutional denial finally encounters computational reality.*  
 
 ---
@@ -181,4 +181,4 @@ It functions as a meta-containment and cultural diagnostic, using satire to expo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-10_
+_Last updated: 2026-08-11_
