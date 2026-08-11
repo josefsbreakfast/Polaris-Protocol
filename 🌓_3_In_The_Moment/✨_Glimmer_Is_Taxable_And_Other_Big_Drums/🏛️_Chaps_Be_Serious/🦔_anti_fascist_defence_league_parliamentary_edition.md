@@ -1,5 +1,5 @@
 # 🦔 Anti-Fascist Defence League — Parliamentary Edition  
-**First created:** 2026-01-11 | **Last updated:** 2026-05-07  
+**First created:** 2026-01-11 | **Last updated:** 2026-08-11  
 *A practical, mildly exasperated guide to defending parliamentary democracy without accidentally becoming unbearable about it.*
 
 ---
@@ -385,4 +385,4 @@ It documents practical democratic defence strategies focused on parliamentary li
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-07_
+_Last updated: 2026-08-11_
