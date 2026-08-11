@@ -1,5 +1,5 @@
 # ⚠️ Alt-Right Threat to Both Parties  
-**First created:** 2025-11-22 | **Last updated:** 2026-05-08  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-11  
 *How anti-institutional outrage ecosystems corrode both Labour and the Conservatives by degrading the operating conditions required for democratic governance.*  
 
 ---
@@ -169,4 +169,4 @@ It documents how anti-institutional outrage systems destabilise democratic gover
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-11_
