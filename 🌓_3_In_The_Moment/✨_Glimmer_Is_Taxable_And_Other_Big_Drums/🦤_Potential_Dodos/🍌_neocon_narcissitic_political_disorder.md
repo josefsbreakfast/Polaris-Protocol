@@ -1,5 +1,5 @@
 # 🍌 Neocon Narcissitic Political Disorder  
-**First created:** 2025-11-24 | **Last updated:** 2026-03-26  
+**First created:** 2025-11-24 | **Last updated:** 2026-08-11  
 *An unfortunately common phenomenon in the Cold War Baby class; the underlying cause of the Radioactive Jelly Baby Voter subtype.*
 
 ---
@@ -188,4 +188,4 @@ It analyses the narrative collapse point where male political self-importance, s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-03-26_
+_Last updated: 2026-08-11_
