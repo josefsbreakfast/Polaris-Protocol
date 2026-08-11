@@ -1,5 +1,5 @@
 # 🌀 CH↯FF — Signature Confusion for Power-Weighted Targeting  
-**First created:** 2025-10-23 | **Last updated:** 2026-05-06  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-11  
 *When you can’t block the lock, bend the lock-on.*  
 
 ---
@@ -133,4 +133,4 @@ It reframes “can’t stop the lock” situations into sensor-deception problem
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-06_
+_Last updated: 2026-08-11_
