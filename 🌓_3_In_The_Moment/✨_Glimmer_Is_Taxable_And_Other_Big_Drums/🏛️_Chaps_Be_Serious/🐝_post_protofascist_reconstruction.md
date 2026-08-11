@@ -1,5 +1,5 @@
 # 🐝 Post-Protofascist Reconstruction  
-**First created:** 2025-11-09 | **Last updated:** 2026-05-07  
+**First created:** 2025-11-09 | **Last updated:** 2026-08-11  
 *Democratic recovery, civic repair, and institutional renewal after periods of authoritarian drift and social fragmentation.*
 
 ---
@@ -215,4 +215,4 @@ It documents democratic recovery processes following periods of institutional de
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-07_
+_Last updated: 2026-08-11_
