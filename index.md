@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-11 09:56:12 UTC_
+_Generated on 2026-08-11 10:02:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4982,11 +4982,12 @@ _Generated on 2026-08-11 09:56:12 UTC_
     - [**💌_SWALK/**](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/)
       - [`notes.txt`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/notes.txt)
       - [`⚖️_two_way_seal.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/⚖️_two_way_seal.md)
-      - [`🌀_chaff.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/🌀_chaff.md)
       - [`🌊_fighting_on_the_beaches.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/🌊_fighting_on_the_beaches.md)
       - [`🌹_feel_the_fear_and_fight_fascism_anyway.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/🌹_feel_the_fear_and_fight_fascism_anyway.md)
       - [`📱_institutional_tech_archetypes_uk_state.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/📱_institutional_tech_archetypes_uk_state.md)
       - [`🛡️_this_is_the_home_front.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/🛡️_this_is_the_home_front.md)
+    - [**📻_Anti_Chatter_Technologies/**](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/📻_Anti_Chatter_Technologies/)
+      - [`🌀_chaff.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/📻_Anti_Chatter_Technologies/🌀_chaff.md)
     - [**🦁_Armoury_Quick_Tour/**](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/)
       - [`README.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/README.md)
       - [`⚓️_the_service_that_went_to_sea_and_never_came_back.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/⚓️_the_service_that_went_to_sea_and_never_came_back.md)
