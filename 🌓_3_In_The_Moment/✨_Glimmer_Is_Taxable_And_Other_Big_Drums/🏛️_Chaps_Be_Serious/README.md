@@ -1,5 +1,5 @@
 # 🏛️ Chaps, Be Serious.  
-**First created:** 2025-11-15 | **Last updated:** 2026-05-08  
+**First created:** 2025-11-15 | **Last updated:** 2026-08-11  
 *Satirical notes on Parliament, the Civil Service, and the maintenance of a functioning state.*
 
 <!--
@@ -131,4 +131,4 @@ british satire, parliament, civil service, governance, institutional integrity, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-11_
