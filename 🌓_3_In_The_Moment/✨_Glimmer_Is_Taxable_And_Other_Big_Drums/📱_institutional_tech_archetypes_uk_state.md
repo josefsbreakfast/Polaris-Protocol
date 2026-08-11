@@ -1,5 +1,5 @@
 # 📱 Institutional Tech Archetypes (UK State)  
-**First created:** 2025-12-14 | **Last updated:** 2026-05-06  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-11  
 *A cultural diagnostic of how British institutions relate to technology — and why that relationship shapes governance, security assumptions, and recurring organisational blind spots.*  
 
 ---
@@ -303,4 +303,4 @@ The archetypes presented here are intentionally exaggerated composites designed 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-06_
+_Last updated: 2026-08-11_
