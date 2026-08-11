@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-11 09:09:14 UTC_
+_Generated on 2026-08-11 09:14:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,13 +18,6 @@ _Generated on 2026-08-11 09:09:14 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**✨_Glimmer_Is_Taxable_And_Other_Big_Drums/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/)
       - [**🦁_Armoury_Quick_Tour/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/README.md)
-        - [`⚓️_the_service_that_went_to_sea_and_never_came_back.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/⚓️_the_service_that_went_to_sea_and_never_came_back.md)
-        - [`🏮_epilogue_rank_vs_physics_vs_kraken.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🏮_epilogue_rank_vs_physics_vs_kraken.md)
-        - [`🐧_budget_efficiency_and_community_outreach.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🐧_budget_efficiency_and_community_outreach.md)
-        - [`🔱_why_trident_is_lowkey_kraken_insurance.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🔱_why_trident_is_lowkey_kraken_insurance.md)
-        - [`🕊️_dickin_medal_holders.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🕊️_dickin_medal_holders.md)
-        - [`🕊️_gustav_and_the_network_of_impossible_messengers.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🕊️_gustav_and_the_network_of_impossible_messengers.md)
         - [`🚀_beyond_duel_use.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🚀_beyond_duel_use.md)
         - [`🚢_large_underwater_threats.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🚢_large_underwater_threats.md)
         - [`🛩️_the_april_fools_department_of_defence.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🛩️_the_april_fools_department_of_defence.md)
@@ -5010,6 +5003,14 @@ _Generated on 2026-08-11 09:09:14 UTC_
       - [`🦔_anti_fascist_defence_league_parliamentary_edition.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🦔_anti_fascist_defence_league_parliamentary_edition.md)
       - [`🦕_political_pokedex_nick_clegg_the_digital_diplomat.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🦕_political_pokedex_nick_clegg_the_digital_diplomat.md)
       - [`🪁_life_under_quiet_fascism.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🪁_life_under_quiet_fascism.md)
+    - [**🦁_Armoury_Quick_Tour/**](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/)
+      - [`README.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/README.md)
+      - [`⚓️_the_service_that_went_to_sea_and_never_came_back.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/⚓️_the_service_that_went_to_sea_and_never_came_back.md)
+      - [`🏮_epilogue_rank_vs_physics_vs_kraken.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🏮_epilogue_rank_vs_physics_vs_kraken.md)
+      - [`🐧_budget_efficiency_and_community_outreach.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🐧_budget_efficiency_and_community_outreach.md)
+      - [`🔱_why_trident_is_lowkey_kraken_insurance.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🔱_why_trident_is_lowkey_kraken_insurance.md)
+      - [`🕊️_dickin_medal_holders.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🕊️_dickin_medal_holders.md)
+      - [`🕊️_gustav_and_the_network_of_impossible_messengers.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🕊️_gustav_and_the_network_of_impossible_messengers.md)
     - [`README.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/README.md)
     - [`⚖️_two_way_seal.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/⚖️_two_way_seal.md)
     - [`🌀_chaff.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🌀_chaff.md)
