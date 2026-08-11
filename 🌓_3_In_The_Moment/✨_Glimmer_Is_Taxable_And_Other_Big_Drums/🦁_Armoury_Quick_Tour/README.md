@@ -1,5 +1,5 @@
 # 🦁 Armoury Quick Tour  
-**First created:** 2025-11-13 | **Last updated:** 2026-02-19  
+**First created:** 2025-11-13 | **Last updated:** 2026-08-11  
 *A brief orientation to the archive’s less sensible defensive assets.*  
 
 ---
@@ -60,4 +60,4 @@ satire, defence folklore, institutional humour, containment mythos, organisation
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-11_
