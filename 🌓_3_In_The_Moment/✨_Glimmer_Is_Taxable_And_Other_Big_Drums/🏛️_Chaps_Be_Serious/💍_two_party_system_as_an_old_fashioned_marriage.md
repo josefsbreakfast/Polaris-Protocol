@@ -1,5 +1,5 @@
 # 💍 Two-Party System as an Old-Fashioned Marriage  
-**First created:** 2025-11-17 | **Last updated:** 2026-05-07  
+**First created:** 2025-11-17 | **Last updated:** 2026-08-11  
 *"A marriage is a partnership — a little 'tit for tat'; you'd think a lifetime of watching us, might have taught [them] that."*  
 
 ---
@@ -184,4 +184,4 @@ It documents the interdependent stabilisation dynamics historically embedded wit
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-07_
+_Last updated: 2026-08-11_
