@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-11 09:14:20 UTC_
+_Generated on 2026-08-11 09:16:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,7 +18,6 @@ _Generated on 2026-08-11 09:14:20 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**✨_Glimmer_Is_Taxable_And_Other_Big_Drums/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/)
       - [**🦁_Armoury_Quick_Tour/**](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/)
-        - [`🚀_beyond_duel_use.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🚀_beyond_duel_use.md)
         - [`🚢_large_underwater_threats.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🚢_large_underwater_threats.md)
         - [`🛩️_the_april_fools_department_of_defence.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🛩️_the_april_fools_department_of_defence.md)
         - [`🦑_bring_back_pressganging.md`](Disruption_Kit/Big_Picture_Protocols/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_bring_back_pressganging.md)
@@ -6578,6 +6577,7 @@ _Generated on 2026-08-11 09:14:20 UTC_
         - [`🪬_displacement_writing.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/✨_Letters/🪬_displacement_writing.md)
         - [`🪻_why_them.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/✨_Letters/🪻_why_them.md)
       - [`README.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/README.md)
+      - [`🚀_beyond_duel_use.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🚀_beyond_duel_use.md)
     - [**🗄️_Room_101/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/)
       - [**Disruption_Kit/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/)
         - [**Field_Logs/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/)
