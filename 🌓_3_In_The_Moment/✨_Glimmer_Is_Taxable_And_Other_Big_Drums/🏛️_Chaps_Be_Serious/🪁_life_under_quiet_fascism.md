@@ -1,5 +1,5 @@
 # 🪁 Life Under Quiet Fascism  
-**First created:** 2025-01-20 | **Last updated:** 2026-05-07  
+**First created:** 2025-01-20 | **Last updated:** 2026-08-11  
 *Why democratic erosion rarely feels cinematic while it is happening — and why that makes it dangerous.*
 
 ---
@@ -314,4 +314,4 @@ It documents the psychological, institutional, and social dynamics through which
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-07_
+_Last updated: 2026-08-11_
