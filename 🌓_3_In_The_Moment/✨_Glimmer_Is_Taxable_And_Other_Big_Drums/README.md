@@ -1,5 +1,5 @@
 # ✨ Glimmer Is Taxable And Other Big Drums  
-**First created:** 2025-10-12 | **Last updated:** 2026-05-06  
+**First created:** 2025-10-12 | **Last updated:** 2026-08-11  
 *What ho, chaps, chapettes and chapettex...! All aboard for a wonderful deep dive into ethical quandary, complete with all the Czech hedgehogs and Mulberry harbours one could wish for!*  
 
 *Keep calm and, indeed, do carry on.*
@@ -84,4 +84,4 @@ It contributes to the archive by banter alone.
 
 *What. Ho.*  
 
-_Last updated: 2026-05-06_
+_Last updated: 2026-08-11_
