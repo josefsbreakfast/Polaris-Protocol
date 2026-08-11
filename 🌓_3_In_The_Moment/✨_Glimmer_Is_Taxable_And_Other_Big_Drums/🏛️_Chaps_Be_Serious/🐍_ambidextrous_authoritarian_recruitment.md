@@ -1,5 +1,5 @@
 # 🐍 Ambidextrous Authoritarian Recruitment  
-**First created:** 2025-11-18 | **Last updated:** 2026-05-07  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-11  
 *How authoritarian movements recruit across ideological boundaries through adaptive emotional storytelling.*
 
 ---
@@ -195,4 +195,4 @@ It documents how authoritarian ecosystems recruit across ideological and cultura
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-07_
+_Last updated: 2026-08-11_
