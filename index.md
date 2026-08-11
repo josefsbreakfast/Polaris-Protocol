@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-11 09:52:27 UTC_
+_Generated on 2026-08-11 09:53:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4979,6 +4979,8 @@ _Generated on 2026-08-11 09:52:27 UTC_
       - [`🖌️_for_the_serious_blue_chaps.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🖌️_for_the_serious_blue_chaps.md)
       - [`🦔_anti_fascist_defence_league_parliamentary_edition.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🦔_anti_fascist_defence_league_parliamentary_edition.md)
       - [`🪁_life_under_quiet_fascism.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🪁_life_under_quiet_fascism.md)
+    - [**💌_SWALK/**](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/)
+      - [`notes.txt`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/notes.txt)
     - [**🦁_Armoury_Quick_Tour/**](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/)
       - [`README.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/README.md)
       - [`⚓️_the_service_that_went_to_sea_and_never_came_back.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/⚓️_the_service_that_went_to_sea_and_never_came_back.md)
