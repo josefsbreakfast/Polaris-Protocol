@@ -1,45 +1,45 @@
-# 🫀🕸️ Information Is Experienced  
-**First created:** 2026-08-09 | **Last updated:** 2026-08-10  
-*Where the structure of an information environment becomes embodied perception, attention, affect, cognitive load, memory, and lived experience.*
+# 🫀🧿 The Observed Body  
+**First created:** 2026-08-09 | **Last updated:** 2026-08-11  
+*Where actual or anticipated observation becomes part of embodied experience, self-presentation, behaviour, physiology, and the body's available action space.*
 
 ---
 
 ## 🛰️ Orientation
 
-Information can exist without being encountered.
+A body can be observable without experiencing observation.
 
-It can be available without being found.
+A person can be watched without knowing it.
 
-It can be displayed without being noticed.
+A person can believe they are being watched when no observation has been established.
 
-It can be noticed without being understood.
+A person can know they are being observed and change nothing.
 
-And even when two people encounter the same informational object, they do not necessarily experience the same thing.
+And a person can alter posture, speech, movement, attention, affect, or behaviour because observation is actual, anticipated, possible, or socially salient.
 
-**🫀🕸️ Information Is Experienced** begins where an information environment meets an embodied organism.
+**🫀🧿 The Observed Body** begins where observation becomes part of embodied experience.
 
 The basic relationship is:
 
 ```text
-information environment
+actual / anticipated observation
         ↓
-conditions of encounter
+becomes part of the person's situation
         ↓
-embodied perception / attention
+embodied perception / appraisal
         ↓
-affect / cognition / physiology / memory
+attention / affect / physiology / self-presentation
         ↓
-experienced information
+behaviour or experienced action space
 ```
 
 This interface therefore sits between:
 
 - [🫀 Embodiment](../🫀_Embodiment/) — *the organism, perception, physiology, affect, attention, learning, and material constraint*; and
-- [🕸️ Information Environments](../🕸️_Information_Environments/) — *the structure, availability, discoverability, ordering, context, provenance, and circulation of information*.
+- [🧿 Surveillance And Observability](../🧿_Surveillance_And_Observability/) — *visibility, legibility, monitoring, recording, observer position, and the distinction between observable and observed*.
 
 Neither parent domain is sufficient on its own.
 
-The object here is **the embodied encounter with informational conditions**.
+The object here is **what observation, or the credible anticipation of observation, does when it becomes part of an embodied person's environment**.
 
 ---
 
@@ -47,647 +47,654 @@ The object here is **the embodied encounter with informational conditions**.
 
 The central question is:
 
-> **How do the conditions of an information environment become part of what an embodied person perceives, attends to, feels, remembers, understands, or can act upon?**
+> **How does actual, perceived, or anticipated observation become part of embodied experience or behaviour?**
 
-The informational condition might involve:
+The observation condition might involve:
 
-- abundance;
-- scarcity;
-- repetition;
-- prominence;
-- ordering;
-- discoverability;
-- fragmentation;
-- interruption;
-- context;
-- provenance;
-- uncertainty;
-- contradiction;
-- novelty;
-- persistence;
-- disappearance;
-- or competing streams of information.
+- direct watching;
+- cameras;
+- monitoring;
+- recording;
+- audit;
+- supervision;
+- visible tracking;
+- institutional review;
+- an audience;
+- known logging;
+- traceability;
+- or another credible possibility of later inspection.
 
 The embodied consequence might involve:
 
 - attention;
-- cognitive load;
-- salience;
-- arousal;
+- posture;
+- speech;
+- movement;
 - affect;
-- orientation;
-- memory;
+- arousal;
+- inhibition;
+- self-presentation;
+- performance;
+- avoidance;
+- compliance;
+- concealment;
+- disclosure;
 - fatigue;
-- confusion;
-- expectation;
-- habituation;
-- sensory load;
-- or available capacity for action.
+- or changes in perceived action possibilities.
 
-But co-occurrence is not enough.
+But the interface does not allow these to be collapsed into one claim.
 
-The interface is earned where both sides are necessary to explain the mechanism.
+```text
+OBSERVATION OCCURRED
+≠
+THE PERSON KNEW
+
+THE PERSON KNEW
+≠
+THE PERSON CHANGED BEHAVIOUR
+
+BEHAVIOUR CHANGED
+≠
+OBSERVATION CAUSED THE CHANGE
+```
+
+Each arrow needs its own support.
 
 ---
 
-## 🕸️ What Information Environments Contribute
+## 🧿 What Surveillance And Observability Contribute
 
-Information environments contribute the conditions of encounter.
+Surveillance and observability contribute the observation relationship.
 
-They determine or influence questions such as:
+They ask:
 
 ```text
-WHAT INFORMATION IS AVAILABLE?
+WHO OR WHAT CAN OBSERVE?
 
-WHAT CAN BE FOUND?
+WHAT IS VISIBLE?
 
-WHAT ARRIVES FIRST?
+AT WHAT RESOLUTION?
 
-WHAT IS REPEATED?
+THROUGH WHICH MECHANISM?
 
-WHAT IS PROMINENT?
+IS OBSERVATION ACTUAL OR MERELY POSSIBLE?
 
-WHAT IS BURIED?
+WHAT IS RECORDED?
 
-WHAT IS CONTEXTUALISED?
-
-WHAT IS FRAGMENTED?
-
-WHAT COMPETES FOR ATTENTION?
-
-WHAT IS MISSING?
-
-WHAT PERSISTS?
-
-WHAT DISAPPEARS?
+WHAT BLIND SPOTS EXIST?
 ```
 
-These properties can be described without making claims about what they do to a particular person.
+Those questions can be answered without making any claim about the observed person's experience.
 
-See [🕸️ Information Environments](../🕸️_Information_Environments/) for that foundational layer.
+See [🧿 Surveillance And Observability](../🧿_Surveillance_And_Observability/) for that foundational layer.
 
-This interface begins when those informational conditions become part of embodied experience.
+This interface begins when observation itself becomes part of the person's embodied situation.
 
 ---
 
 ## 🫀 What Embodiment Contributes
 
-Embodiment contributes the organism that encounters the environment.
+Embodiment contributes the organism that may experience being observed.
 
-That means the encounter is conditioned by:
+That means the effect of observation may depend on:
 
-- sensory capacity;
+- perception;
 - attention;
 - physiological state;
-- affect;
-- pain;
-- fatigue;
-- arousal;
-- memory;
+- prior experience;
 - expectation;
-- prior learning;
-- material access;
-- and current action capacity.
+- affect;
+- fatigue;
+- pain;
+- sensory capacity;
+- social context;
+- learned norms;
+- and material options for response.
 
 So:
 
 ```text
-SAME INFORMATIONAL CONDITION
+SAME OBSERVATION CONDITION
 +
-DIFFERENT EMBODIED STATE
+DIFFERENT EMBODIED / SOCIAL CONTEXT
 =
 POTENTIALLY DIFFERENT EXPERIENCE
 ```
 
-This does not mean information has no stable properties.
+There is no universal bodily response to being watched.
 
-It means those properties do not arrive inside a person without an encounter process.
-
-See [🫀 Embodiment](../🫀_Embodiment/) for the organism before informational structure becomes necessary to the explanation.
+See [🫀 Embodiment](../🫀_Embodiment/) for the foundational organism layer.
 
 ---
 
-## 🚪 Availability Is Not Encounter
+## 👁️ Observed Is Not The Same As Feeling Observed
 
-This is one of the most important distinctions in the interface.
+This distinction is foundational.
+
+A person may be observed without knowing it.
+
+A person may feel observed without observation being established.
+
+A person may know that observation is technically possible without believing anyone is currently watching.
+
+These are different states:
 
 ```text
-INFORMATION EXISTS
-≠
-INFORMATION IS AVAILABLE
+TECHNICALLY OBSERVABLE
 
-AVAILABLE
-≠
-DISCOVERABLE
+ACTUALLY OBSERVED
 
-DISCOVERABLE
-≠
-DISCOVERED
+KNOWS OBSERVATION IS POSSIBLE
 
-DISCOVERED
-≠
-ATTENDED TO
+KNOWS OBSERVATION IS OCCURRING
 
-ATTENDED TO
-≠
-UNDERSTOOD
+BELIEVES OBSERVATION MAY BE OCCURRING
 
-UNDERSTOOD
-≠
-REMEMBERED
+FEELS OBSERVED
 ```
 
-Each transition can have different conditions.
+They should not be substituted for one another.
 
-A person cannot experience information merely because it exists somewhere in the environment.
+For embodied analysis, the person's experienced condition matters.
 
-The route from existence to experience needs to be shown.
+For claims about surveillance, external evidence matters.
+
+The interface requires keeping both.
 
 ---
 
-## 🎯 Attention Is The Bottleneck
+## 🪞 Self-Presentation Can Change Under Observation
 
-Information environments can contain far more material than an organism can process at once.
+People sometimes alter how they present themselves when they know or expect that others can see them.
 
-Attention therefore becomes a crucial interface mechanism.
+That may affect:
 
-An informational environment may compete for attention through:
-
-- prominence;
-- repetition;
-- novelty;
-- interruption;
-- urgency;
-- emotional salience;
-- audiovisual intensity;
-- social relevance;
-- or sheer volume.
-
-At the same time, embodied conditions can change available attention through:
-
-- fatigue;
-- pain;
-- arousal;
-- sleep loss;
-- competing tasks;
-- sensory load;
-- prior expectation;
-- and current goals.
-
-So attention is not produced solely by the environment or solely by the person.
-
-It emerges at their meeting point.
-
-```text
-INFORMATIONAL SALIENCE
-+
-EMBODIED ATTENTIONAL CAPACITY
-=
-CONDITIONS OF NOTICE
-```
-
-That still does not establish what was actually noticed in a particular case.
-
----
-
-## 🌊 Abundance Can Become Load
-
-More information does not necessarily produce more usable knowledge.
-
-An environment with high informational volume may create:
-
-- attentional competition;
-- decision burden;
-- retrieval difficulty;
-- context switching;
-- memory demands;
-- uncertainty about relevance;
-- or difficulty distinguishing signal from surrounding material.
+- speech;
+- posture;
+- clothing;
+- movement;
+- emotional display;
+- disclosure;
+- task performance;
+- social behaviour;
+- or adherence to perceived norms.
 
 But:
 
 ```text
-HIGH INFORMATION VOLUME
+BEHAVIOUR UNDER OBSERVATION
 ≠
-COGNITIVE OVERLOAD
-```
-
-Overload is an embodied claim.
-
-To establish it, the analysis needs evidence about the person, task, conditions, or measured effects.
-
-The environment can create the conditions for load.
-
-The organism determines how those conditions are experienced.
-
----
-
-## 🕳️ Scarcity Can Become Uncertainty
-
-Too little information can also become an embodied condition.
-
-Where relevant information is:
-
-- unavailable;
-- difficult to discover;
-- delayed;
-- incomplete;
-- contradictory;
-- or stripped of context;
-
-a person may face greater uncertainty.
-
-That uncertainty may affect:
-
-- attention;
-- decision-making;
-- confidence;
-- memory demands;
-- information seeking;
-- or emotional state.
-
-But again:
-
-```text
-INFORMATION IS MISSING
-≠
-A PARTICULAR PERSON EXPERIENCED DISTRESS
-```
-
-The environmental condition and the embodied consequence should be evidenced separately before connecting them.
-
----
-
-## 🔁 Repetition Changes Encounter Conditions
-
-Repeated information occupies a different environment from information encountered once.
-
-Repetition can increase:
-
-- familiarity;
-- noticeability;
-- retrieval fluency;
-- perceived prevalence;
-- or the probability of later recall.
-
-It can also produce:
-
-- habituation;
-- fatigue;
-- irritation;
-- desensitisation;
-- or reduced attention.
-
-The direction is not automatic.
-
-```text
-REPETITION
-≠
-PERSUASION
-
-REPETITION
-≠
-BELIEF
-
-REPETITION
-≠
-HABITUATION
-
-REPETITION
-≠
-DISTRESS
-```
-
-The same structural feature can interact differently with different embodied states and contexts.
-
-That is precisely why the interface exists.
-
----
-
-## 🪜 Prominence Can Become Salience
-
-Prominence is a property of the information environment.
-
-Salience is partly a property of the encounter.
-
-Something may be placed:
-
-- first;
-- centrally;
-- repeatedly;
-- in larger form;
-- alongside a warning;
-- or in a visually dominant position.
-
-Those conditions may increase the probability of notice.
-
-But:
-
-```text
-PROMINENT
-≠
-NOTICED
-
-NOTICED
-≠
-IMPORTANT TO THE PERSON
-
-IMPORTANT TO THE PERSON
-≠
-BELIEVED
-```
-
-Environmental prominence and experiential salience should not be collapsed into one variable.
-
----
-
-## 🧩 Context Changes Experience
-
-The same informational object can be encountered differently depending on what surrounds it.
-
-Context may alter:
-
-- interpretation;
-- emotional meaning;
-- perceived credibility;
-- relevance;
-- memory;
-- or expectations about what follows.
-
-For example:
-
-```text
-MESSAGE
-+
-SOURCE LABEL
-+
-NEIGHBOURING MATERIAL
-+
-TIMING
-+
-PRIOR INFORMATION
-```
-
-is a different encounter from:
-
-```text
-MESSAGE ALONE
-```
-
-The propositional content may be identical.
-
-The experienced informational object is not necessarily identical.
-
----
-
-## 🧵 Provenance Can Become A Cognitive Cue
-
-People often use source information as part of interpretation.
-
-Visible provenance may influence judgments about:
-
-- credibility;
-- freshness;
-- authority;
-- relevance;
-- authenticity;
-- or uncertainty.
-
-But:
-
-```text
-SOURCE CUE
-≠
-ACCURACY
-
-TRUST
-≠
-TRUTH
-
-DISTRUST
-≠
-FALSEHOOD
-```
-
-This interface can analyse how provenance becomes part of experience without treating the resulting judgment as automatically correct.
-
----
-
-## 🧠 Memory Is Part Of The Encounter
-
-Information experience does not end at perception.
-
-What is retained may depend on:
-
-- attention;
-- repetition;
-- emotional salience;
-- prior knowledge;
-- sleep;
-- context;
-- interference;
-- cognitive load;
-- and retrieval conditions.
-
-So:
-
-```text
-INFORMATION WAS ENCOUNTERED
-≠
-INFORMATION WAS RETAINED
+FALSE BEHAVIOUR
 ```
 
 and:
 
 ```text
-INFORMATION WAS RETAINED
+SELF-PRESENTATION
 ≠
-IT WILL BE RETRIEVED ACCURATELY LATER
+DECEPTION
 ```
 
-An information environment can therefore influence later experience partly through what becomes memorable.
+All social behaviour occurs under conditions.
 
-Where remembered behaviour subsequently changes the environment, a feedback interface may also become relevant.
+Observation can be one of those conditions.
+
+The analytical question is whether it materially changes the behaviour being studied.
 
 ---
 
-## ⏱️ Timing Changes Experience
+## 🎭 Performance Is Not Proof Of Insincerity
 
-Information does not arrive into a timeless organism.
+Observation can make behaviour more performative.
 
-The same material may be encountered:
+That does not settle whether the behaviour is sincere.
 
-- before or after sleep;
-- during pain;
-- during another task;
-- immediately after related information;
-- repeatedly over a short period;
-- after a long gap;
-- or at a point of high or low physiological capacity.
+A person may:
 
-Likewise, the sequence of informational objects can matter.
+- become more formal;
+- become more careful;
+- explain themselves more fully;
+- suppress an expression;
+- exaggerate clarity;
+- follow a rule more visibly;
+- or avoid ambiguity.
 
-```text
-A THEN B
-```
+These can reflect strategic self-presentation.
 
-may not be experientially equivalent to:
-
-```text
-B THEN A
-```
-
-But temporal proximity does not establish causal effect.
-
-Timing is part of the encounter model.
-
-The claimed consequence still requires evidence.
-
----
-
-## 🧭 Prior Knowledge Changes The Information Environment A Person Can Use
-
-Discoverability is partly relational.
-
-A resource may be technically available but effectively inaccessible to someone who does not know:
-
-- the right term;
-- the relevant institution;
-- the expected format;
-- the naming convention;
-- the archive structure;
-- the technical vocabulary;
-- or that the resource exists at all.
-
-Prior knowledge can therefore alter the usable information environment.
-
-```text
-PUBLICLY AVAILABLE
-≠
-EQUALLY FINDABLE
-
-EQUALLY FINDABLE
-≠
-EQUALLY INTERPRETABLE
-```
-
-This is not merely an individual deficit.
-
-It is an interface property between environmental organisation and embodied knowledge.
-
----
-
-## 🦴 Material Access Shapes Informational Access
-
-Information may be digitally or institutionally available while remaining difficult for a particular body to encounter.
-
-Material conditions may include:
-
-- vision;
-- hearing;
-- mobility;
-- pain;
-- dexterity;
-- fatigue;
-- device access;
-- interface design;
-- physical location;
-- sensory environment;
-- or available time and energy.
+They can also reflect ordinary adaptation to an audience.
 
 So:
 
 ```text
-TECHNICALLY ACCESSIBLE
+AUDIENCE EFFECT
 ≠
-EMBODIEDLY ACCESSIBLE
+DISHONESTY
+
+CAREFUL PRESENTATION
+≠
+FABRICATION
+
+CHANGED PRESENTATION
+≠
+CHANGED UNDERLYING BELIEF
 ```
 
-This is a central reason to keep embodiment inside information ecology.
-
-Accessibility is not an optional layer applied after the informational system has been designed.
-
-It is part of whether information can become experienced at all.
+The observer should not mistake the effects of observation for transparent evidence about internal state.
 
 ---
 
-## 🪞 The Person Is Not A Passive Receiver
+## 🎯 Observation Can Redirect Attention
 
-An embodied person may alter their own information encounter by:
+Being observed can itself become an attentional demand.
 
-- searching;
-- scrolling;
-- stopping;
-- filtering;
-- asking;
-- ignoring;
-- revisiting;
-- saving;
-- leaving;
-- changing position;
-- changing device;
-- seeking another source;
-- or choosing not to continue.
+A person may allocate attention towards:
 
-So the interface is not necessarily:
+- the observer;
+- the camera;
+- their own behaviour;
+- rule compliance;
+- possible interpretation;
+- possible mistakes;
+- appearance;
+- or the consequences of being seen.
+
+That attention has an opportunity cost.
 
 ```text
-environment
-↓
-passive recipient
+ATTENTION TO BEING OBSERVED
+=
+ATTENTION NOT AVAILABLE ELSEWHERE
 ```
 
-It may be:
+But the size and direction of that effect are empirical questions.
+
+Do not assume that observation necessarily impairs performance.
+
+In some settings it may improve it.
+
+In others it may make little difference.
+
+---
+
+## 🫁 Observation Can Become Physiological
+
+Social evaluation, monitoring, or anticipated scrutiny can sometimes contribute to physiological arousal.
+
+Possible embodied dimensions include:
+
+- heart rate;
+- muscle tension;
+- breathing;
+- autonomic arousal;
+- sleep;
+- fatigue;
+- or stress response.
+
+But:
 
 ```text
-environment
-↕
-active embodied participant
+OBSERVATION CAN AFFECT PHYSIOLOGY
+≠
+IT DID SO HERE
 ```
 
-But once the person's output changes the subsequent information environment in a consequential return pathway, the explanatory object may become:
+and:
 
-[♻️🕸️ The Feedback Environment](../♻️🕸️_The_Feedback_Environment/)
+```text
+PHYSIOLOGICAL AROUSAL
+≠
+FEAR
+
+AROUSAL
+≠
+GUILT
+
+AROUSAL
+≠
+DECEPTION
+```
+
+Physiological signals are not transparent moral or psychological readouts.
+
+---
+
+## 🚪 Observation Can Change The Experienced Action Space
+
+A person may perceive different actions as available when they know or expect that they are being observed.
+
+They may become more or less willing to:
+
+- speak;
+- search;
+- ask;
+- associate;
+- disclose;
+- move;
+- experiment;
+- dissent;
+- make mistakes;
+- seek help;
+- or leave.
+
+This can be represented as:
+
+```text
+physical action space
++
+social / observational conditions
+=
+experienced action space
+```
+
+The important word is **experienced**.
+
+Observation does not have to physically prevent an action in order to become part of the person's decision environment.
+
+But a claimed chilling or enabling effect still needs evidence.
+
+---
+
+## 🧊 Chilling Effects Need Precision
+
+The term **chilling effect** is useful but can become too broad.
+
+For this cluster, a chilling effect should mean something like:
+
+> **A reduction, inhibition, or avoidance of otherwise available behaviour associated with actual or anticipated observation, monitoring, sanction, or later review.**
+
+That requires more than:
+
+```text
+surveillance exists
+```
 
 or:
 
-[🫀♻️ The Body In The Loop](../🫀♻️_The_Body_In_The_Loop/)
+```text
+behaviour is lower than expected
+```
 
-The existence of active information seeking alone does not prove a feedback loop.
+A useful analysis asks:
+
+- what behaviour changed;
+- compared with what baseline;
+- what observation condition was present;
+- whether the person knew or believed it was present;
+- what alternative explanations exist;
+- and what evidence connects the observation condition to the behavioural change.
+
+So:
+
+```text
+OBSERVABILITY
+≠
+CHILLING EFFECT
+
+OBSERVATION
+≠
+CHILLING EFFECT
+
+BEHAVIOURAL REDUCTION
+≠
+CHILLING EFFECT
+```
+
+The mechanism must be shown.
+
+---
+
+## 🌱 Observation Can Also Enable Behaviour
+
+Observation is not inherently inhibitory.
+
+Being seen can sometimes increase:
+
+- safety;
+- confidence;
+- accountability;
+- help-seeking;
+- performance;
+- participation;
+- rule adherence;
+- or willingness to act.
+
+For example, a person may feel more able to participate where they know that:
+
+- assistance is available;
+- misconduct can be witnessed;
+- a record exists;
+- or another person can verify what happened.
+
+So the interface is not:
+
+```text
+OBSERVATION → HARM
+```
+
+It is:
+
+```text
+OBSERVATION
++
+EMBODIED / SOCIAL CONTEXT
+→
+POSSIBLE CHANGE IN EXPERIENCE OR BEHAVIOUR
+```
+
+The direction has to be established rather than assumed.
+
+---
+
+## 🧠 Anticipation Can Matter Before Observation Occurs
+
+An embodied response can occur before any observation is demonstrated.
+
+If a person reasonably expects that:
+
+- a room is monitored;
+- activity is logged;
+- work will be reviewed;
+- a conversation may be recorded;
+- an audience will arrive;
+- or behaviour can later be inspected;
+
+that expectation can become part of the current environment.
+
+This produces an important evidential split:
+
+```text
+CLAIM A:
+THE PERSON ANTICIPATED OBSERVATION
+
+CLAIM B:
+OBSERVATION ACTUALLY OCCURRED
+```
+
+Claim A can sometimes be established without Claim B.
+
+Do not use evidence of an embodied response to prove the external surveillance claim.
+
+---
+
+## 🧬 Prior Experience Can Change Later Responses To Observation
+
+The meaning of observation may be learned.
+
+Previous experiences with:
+
+- supervision;
+- evaluation;
+- care;
+- punishment;
+- protection;
+- recording;
+- institutional review;
+- audiences;
+- or monitoring;
+
+may alter later expectations.
+
+So the same visible camera, observer, or audit process may carry different significance for different people.
+
+But:
+
+```text
+PAST EXPERIENCE MAY SHAPE RESPONSE
+≠
+PAST EXPERIENCE EXPLAINS THIS RESPONSE
+```
+
+Again, possibility is not proof.
+
+---
+
+## 🪟 The Observer's Presence Can Alter The Observed System
+
+This interface overlaps with the broad family of observer effects.
+
+At minimum:
+
+```text
+observer present
+↓
+person perceives observer
+↓
+person may change
+↓
+observed behaviour differs
+```
+
+This creates a methodological problem.
+
+If behaviour changes because it is being observed, the observation may not capture the same behaviour that would occur without the observer.
+
+But:
+
+```text
+OBSERVATION POSSIBLY AFFECTS BEHAVIOUR
+≠
+EVERY OBSERVED BEHAVIOUR IS DISTORTED
+```
+
+The magnitude and relevance of the effect depend on context.
+
+---
+
+## 🧭 Behaviour Is Not A Transparent Readout Of Awareness
+
+Suppose a person changes behaviour in a setting where observation is possible.
+
+That does not establish that they knew they were being watched.
+
+Behaviour might change because of:
+
+- another environmental cue;
+- social norms;
+- fatigue;
+- instruction;
+- prior learning;
+- coincidence;
+- a different audience;
+- or unrelated circumstances.
+
+So:
+
+```text
+BEHAVIOUR CONSISTENT WITH AWARENESS
+≠
+AWARENESS ESTABLISHED
+```
+
+Likewise:
+
+```text
+NO VISIBLE BEHAVIOURAL CHANGE
+≠
+UNAWARE OF OBSERVATION
+```
+
+People can know they are being observed and behave exactly as they otherwise would.
+
+---
+
+## 📏 The Body Can Become A Measurement Surface
+
+Observation may target embodied signals such as:
+
+- movement;
+- facial expression;
+- voice;
+- posture;
+- heart rate;
+- gaze;
+- reaction time;
+- sleep;
+- location;
+- or other behavioural and physiological variables.
+
+But this introduces a representational problem:
+
+```text
+BODY
+↓
+MEASURED SIGNAL
+↓
+INTERPRETATION
+```
+
+The measured signal is not the whole person.
+
+And:
+
+```text
+SIGNAL
+≠
+MEANING
+
+MEASUREMENT
+≠
+MOTIVE
+
+CORRELATE
+≠
+INDIVIDUAL TRUTH
+```
+
+If the measurement is then used to change treatment, classification, access, or conditions, the process may cross into:
+
+[♻️🧿 Observation Becomes Intervention](../♻️🧿_Observation_Becomes_Intervention/)
 
 ---
 
 ## 🚦 What Belongs Here
 
-A note belongs primarily in `🫀🕸️_Information_Is_Experienced/` where:
+A note belongs primarily in `🫀🧿_The_Observed_Body/` where:
 
-1. an information environment is part of the mechanism;
-2. an embodied person encounters or attempts to encounter that environment;
-3. perception, attention, affect, cognition, physiology, memory, or material access is necessary to explain the result; and
-4. the relationship between informational conditions and embodied experience is the explanatory object.
+1. an embodied person is part of the mechanism;
+2. actual, perceived, or anticipated observation is part of the person's situation;
+3. perception, physiology, affect, attention, self-presentation, behaviour, or experienced action space is necessary to explain the result; and
+4. the relationship between embodiment and observation is the explanatory object.
 
 Likely subjects include:
 
-- cognitive load;
-- information overload;
-- attention and informational competition;
-- repetition and habituation;
-- prominence and salience;
-- information scarcity and uncertainty;
-- fragmented information;
-- contextual framing;
-- source cues;
-- embodied accessibility;
-- sensory access;
-- memory and information environments;
-- prior knowledge and discoverability;
-- interruption;
-- notification burden;
-- and the difference between availability and actual encounter.
+- observer effects;
+- chilling effects;
+- self-presentation under observation;
+- behavioural inhibition;
+- social evaluation;
+- performance under scrutiny;
+- embodied effects of monitoring;
+- anticipation of review;
+- audience effects;
+- monitoring and help-seeking;
+- observation and disclosure;
+- physiological responses to scrutiny;
+- behavioural measurement;
+- and the distinction between being observed and feeling observed.
 
 The routing question is:
 
-> **Would the note stop making sense if either the embodied organism or the information environment were removed?**
+> **Would the note stop making sense if either the embodied person or the observation condition were removed?**
 
 If yes, this interface has probably earned the note.
 
@@ -697,50 +704,50 @@ If yes, this interface has probably earned the note.
 
 This folder is not a synonym for:
 
-- media effects;
-- psychology;
-- user experience;
-- information overload;
-- attention;
-- persuasion;
-- misinformation;
-- accessibility;
-- interface design;
-- or anything where a person encounters information.
+- surveillance;
+- anxiety;
+- privacy;
+- self-consciousness;
+- behaviour change;
+- cameras;
+- monitoring;
+- performance;
+- social pressure;
+- or anything involving a watched person.
 
 These are not sufficient on their own:
 
 ```text
-information was displayed
+a person was observable
 ```
 
 ```text
-a person saw something
+a camera existed
 ```
 
 ```text
-a person felt something
+a person behaved differently
 ```
 
 ```text
-content was repeated
+a person felt uncomfortable
 ```
 
 ```text
-information was difficult to find
+monitoring occurred
 ```
 
 ```text
-a person changed their mind
+a person knew records existed
 ```
 
-The embodied encounter with informational structure has to be the explanatory object.
+The embodied relationship with observation has to be the explanatory object.
 
-If the information environment can explain the phenomenon without embodiment being necessary, route towards:
+If the central problem is observation without embodied consequences being necessary, route towards:
 
-[🕸️ Information Environments](../🕸️_Information_Environments/)
+[🧿 Surveillance And Observability](../🧿_Surveillance_And_Observability/)
 
-If the body can explain the phenomenon without informational structure being necessary, route towards:
+If the central problem is embodiment without observation being necessary, route towards:
 
 [🫀 Embodiment](../🫀_Embodiment/)
 
@@ -757,16 +764,16 @@ what is the body doing?
 
 what physiological state matters?
 
-how does perception work?
+what is being perceived?
 
 what material constraint exists?
 ```
 
-Route here where informational conditions are necessary:
+Route here where observation is load-bearing:
 
 ```text
-WHAT ABOUT THE INFORMATION ENVIRONMENT
-IS THE ORGANISM ENCOUNTERING?
+WHAT ABOUT BEING OR FEELING OBSERVED
+CHANGES THE EMBODIED SITUATION?
 ```
 
 The distinction is:
@@ -775,340 +782,343 @@ The distinction is:
 EMBODIED PROCESS
 → 🫀
 
-EMBODIED ENCOUNTER WITH INFORMATIONAL STRUCTURE
-→ 🫀🕸️
+EMBODIED PROCESS SHAPED BY OBSERVATION
+→ 🫀🧿
 ```
 
-### 🕸️ Boundary With Information Environments
+### 🧿 Boundary With Surveillance And Observability
 
-Route to **🕸️ Information Environments** where the main question is:
+Route to **🧿 Surveillance And Observability** where the main question is:
 
 ```text
-what information exists?
+what can be observed?
 
-how is it organised?
+who can observe it?
 
-what is available?
+at what resolution?
 
-what is discoverable?
+what is recorded?
 
-what is prominent?
+what blind spots exist?
 ```
 
 Route here where the next question is necessary:
 
 ```text
-HOW DO THOSE CONDITIONS BECOME
-PERCEPTION OR EXPERIENCE FOR AN ORGANISM?
+WHAT DOES THAT OBSERVATION CONDITION
+DO TO THE EMBODIED PERSON?
 ```
 
 The distinction is:
 
 ```text
-CONDITIONS OF INFORMATION
-→ 🕸️
+OBSERVATION RELATIONSHIP
+→ 🧿
 
-EMBODIED EXPERIENCE OF THOSE CONDITIONS
-→ 🫀🕸️
+EMBODIED EXPERIENCE OF OBSERVATION
+→ 🫀🧿
 ```
 
 ---
 
 ## 🚧 Boundary With Neighbouring Interfaces
 
+### 🫀🕸️ Information Is Experienced
+
+If the central question is how informational conditions become embodied perception, attention, affect, or cognitive load, test:
+
+[🫀🕸️ Information Is Experienced](../🫀🕸️_Information_Is_Experienced/)
+
+The distinction is:
+
+```text
+INFORMATIONAL CONDITIONS SHAPE EXPERIENCE
+→ 🫀🕸️
+
+OBSERVATION CONDITIONS SHAPE EXPERIENCE
+→ 🫀🧿
+```
+
+An informational cue may tell someone they are being observed.
+
+Route by what is load-bearing in the explanation.
+
 ### 🫀♻️ The Body In The Loop
 
-If the central question is how information becomes embodied experience, stay here.
-
-If the embodied response then becomes consequential input into what happens next, test:
+If the person's embodied response becomes consequential input into what happens next, test:
 
 [🫀♻️ The Body In The Loop](../🫀♻️_The_Body_In_The_Loop/)
 
 The distinction is:
 
 ```text
-INFORMATION → EMBODIED EXPERIENCE
-→ 🫀🕸️
+OBSERVATION CHANGES THE PERSON
+→ 🫀🧿
 
-EMBODIED OUTPUT → RETURN PATHWAY
+THE PERSON'S RESPONSE CHANGES
+SUBSEQUENT CONDITIONS
 → 🫀♻️
 ```
 
-### ♻️🕸️ The Feedback Environment
-
-If the information environment changes in response to behaviour, engagement, output, or another registered signal, test:
-
-[♻️🕸️ The Feedback Environment](../♻️🕸️_The_Feedback_Environment/)
-
-The distinction is:
-
-```text
-INFORMATIONAL CONDITIONS ARE EXPERIENCED
-→ 🫀🕸️
-
-INFORMATIONAL CONDITIONS ADAPT THROUGH FEEDBACK
-→ ♻️🕸️
-```
-
-A process may contain both.
-
-Route by the mechanism the note is trying to explain.
-
-### 🫀🧿 The Observed Body
-
-If actual or anticipated observation is necessary to explain the person's embodied experience or behaviour, test:
-
-[🫀🧿 The Observed Body](../🫀🧿_The_Observed_Body/)
-
-The distinction is:
-
-```text
-INFORMATION ENVIRONMENT SHAPES EXPERIENCE
-→ 🫀🕸️
-
-OBSERVATION SHAPES EMBODIED EXPERIENCE
-→ 🫀🧿
-```
+If both occur recursively, more than one interface may be necessary.
 
 ### 🕸️🧿 The Observed Information Space
 
-If the information environment itself becomes the object of observation, rather than the primary object of embodied encounter, test:
+If the observed object is an information environment, communications network, metadata structure, or information flow, test:
 
 [🕸️🧿 The Observed Information Space](../🕸️🧿_The_Observed_Information_Space/)
 
 The distinction is:
 
 ```text
-PERSON EXPERIENCES INFORMATION SPACE
-→ 🫀🕸️
+BODY AS EXPERIENCING OBSERVATION
+→ 🫀🧿
 
-OBSERVER OBSERVES INFORMATION SPACE
+INFORMATION SPACE AS OBSERVED OBJECT
 → 🕸️🧿
 ```
+
+### ♻️🧿 Observation Becomes Intervention
+
+If observation becomes input into:
+
+- classification;
+- prioritisation;
+- restriction;
+- reward;
+- sanction;
+- adaptation;
+- treatment;
+- or another consequential response;
+
+test:
+
+[♻️🧿 Observation Becomes Intervention](../♻️🧿_Observation_Becomes_Intervention/)
+
+The distinction is:
+
+```text
+OBSERVATION AFFECTS THE PERSON
+→ 🫀🧿
+
+OBSERVATION AFFECTS THE SYSTEM'S RESPONSE
+→ ♻️🧿
+```
+
+These can occur together without being the same mechanism.
 
 ---
 
 ## ✂️ The Removal Test
 
-Remove embodiment.
+Remove observation.
 
-Does the note still work as an explanation of information availability, organisation, discoverability, context, or prominence?
-
-If yes:
-
-→ `🕸️`
-
-Remove the information environment.
-
-Does the note still work as an explanation of perception, physiology, affect, attention, or material constraint?
+Does the note still work as an explanation of physiology, perception, affect, attention, or behaviour?
 
 If yes:
 
 → `🫀`
 
+Remove embodiment.
+
+Does the note still work as an explanation of visibility, monitoring, recording, or observer position?
+
+If yes:
+
+→ `🧿`
+
 If removing either destroys the central mechanism:
 
-→ `🫀🕸️`
+→ `🫀🧿`
 
-If the embodied response changes subsequent conditions:
+If the embodied response becomes input into subsequent conditions:
 
 → test `🫀♻️`
 
-If the information environment adapts through feedback:
+If observed information drives intervention:
 
-→ test `♻️🕸️`
+→ test `♻️🧿`
 
-If observation becomes necessary:
+If informational conditions are independently necessary:
 
-→ test `🫀🧿` or `🕸️🧿`
+→ test `🫀🕸️` or `🕸️🧿`
 
 If several interfaces recursively alter one another:
 
 → test `🐣`
 
-The interface is not where a person and some information happen to coexist.
+The interface is not where a body and an observer happen to coexist.
 
-It is where **information becomes experience through an embodied encounter**.
+It is where **observation becomes part of embodied experience or behaviour**.
 
 ---
 
 ## 🐣 Escalation Threshold
 
-A complicated information experience does not automatically belong in **🐣 The Whole Ecology**.
+A strong observer effect does not automatically belong in **🐣 The Whole Ecology**.
 
-This can remain a `🫀🕸️` problem:
+This can remain a `🫀🧿` mechanism:
 
 ```text
-large information environment
+observer becomes salient
 ↓
-competition for attention
+person reallocates attention
 ↓
-embodied cognitive load
-↓
-different information is noticed
+self-presentation changes
 ```
 
-Even if many informational objects are involved.
+Even where the embodied effect is substantial.
 
-Escalation becomes useful where several interfaces become independently necessary and recursively alter one another.
+Escalation becomes useful where other interfaces become independently necessary and recursively alter one another.
 
 For example:
 
 ```text
-🕸️ information environment
+🧿 observation
         ↓
-🫀 embodied attention / behaviour
+🫀 behaviour changes
         ↓
-🧿 behaviour becomes observable
+🕸️ changed behaviour produces information
+        ↓
+🧿 information becomes observable
         ↓
 ♻️ system responds
         ↓
-changed 🕸️ information environment
-        ↓
-new 🫀 experience
+new conditions alter 🫀 behaviour
 ```
 
-At that point, no single pairwise interface adequately preserves the mechanism.
+At that point, body-observation interaction alone no longer preserves the mechanism.
 
-See [🐣 The Whole Ecology](../🐣_The_Whole_Ecology/) for multi-interface recursive processes.
+See [🐣 The Whole Ecology](../🐣_The_Whole_Ecology/) for recursive multi-interface processes.
 
-The chick hatches only when decomposition starts losing causal structure.
+The chick still does not hatch merely because somebody noticed a camera.
 
 ---
 
-## 🧪 Evidence Before Experience Claims
+## 🧪 Evidence Before Observer-Effect Claims
 
-This interface needs discipline because information environments and subjective experience are easy to connect too quickly.
+This interface is especially vulnerable to circular reasoning.
 
 Keep separate:
 
 ```text
-INFORMATION WAS AVAILABLE
+THE PERSON WAS OBSERVABLE
 ≠
-THE PERSON ENCOUNTERED IT
+THE PERSON WAS OBSERVED
 
-INFORMATION WAS DISPLAYED
+THE PERSON WAS OBSERVED
 ≠
-THE PERSON NOTICED IT
+THE PERSON KNEW
 
-THE PERSON NOTICED IT
+THE PERSON KNEW
 ≠
-THE PERSON UNDERSTOOD IT
+THE PERSON FELT SCRUTINISED
 
-THE PERSON UNDERSTOOD IT
+THE PERSON FELT SCRUTINISED
 ≠
-THE PERSON BELIEVED IT
+THEIR BEHAVIOUR CHANGED
 
-CONTENT WAS REPEATED
+THEIR BEHAVIOUR CHANGED
 ≠
-REPETITION CHANGED BELIEF
+OBSERVATION CAUSED THE CHANGE
 
-INFORMATION WAS ABUNDANT
+THE PERSON ANTICIPATED OBSERVATION
 ≠
-THE PERSON EXPERIENCED OVERLOAD
+OBSERVATION ACTUALLY OCCURRED
 
-INFORMATION WAS SCARCE
+THE PERSON CHANGED SELF-PRESENTATION
 ≠
-THE PERSON EXPERIENCED DISTRESS
+THE PERSON WAS DECEPTIVE
 
-A SOURCE CUE WAS PRESENT
+A PHYSIOLOGICAL RESPONSE OCCURRED
 ≠
-IT CHANGED CREDIBILITY JUDGMENT
+ITS MEANING IS KNOWN
 
-AN INFORMATIONAL CONDITION CAN AFFECT ATTENTION
+A CHILLING EFFECT IS POSSIBLE
 ≠
-IT DID SO IN THIS CASE
+A CHILLING EFFECT OCCURRED
 ```
 
-And:
+And crucially:
 
 ```text
-A PERSON REPORTS AN EXPERIENCE
+BEHAVIOUR THAT LOOKS LIKE
+A RESPONSE TO SURVEILLANCE
 ≠
-THE EXTERNAL CAUSE IS ESTABLISHED
-
-AN EXTERNAL INFORMATIONAL CONDITION EXISTS
-≠
-ITS EMBODIED EFFECT IS ESTABLISHED
+EVIDENCE THAT SURVEILLANCE OCCURRED
 ```
 
-The interface connects the two only where the evidence supports the connection.
+The external observation claim and the embodied response claim require separate evidence.
 
 ---
 
-## 🛠️ An Information-Is-Experienced Reading Tool
+## 🛠️ An Observed-Body Reading Tool
 
-When an informational condition appears to matter to embodied experience, ask:
+When observation appears to matter to embodied experience, ask:
 
 ```text
-WHAT IS THE INFORMATION ENVIRONMENT?
+WHAT IS THE OBSERVATION CONDITION?
 
-WHAT INFORMATION IS ACTUALLY AVAILABLE?
+IS THE PERSON TECHNICALLY OBSERVABLE?
 
-WHAT IS DISCOVERABLE?
+IS THERE EVIDENCE THEY WERE ACTUALLY OBSERVED?
 
-WHAT WAS ACTUALLY ENCOUNTERED?
+DID THE PERSON KNOW OBSERVATION WAS POSSIBLE?
 
-WHAT WAS PERCEIVABLE?
+DID THEY KNOW IT WAS OCCURRING?
 
-WHAT WAS NOTICED?
+DID THEY ANTICIPATE IT?
 
-WHAT COMPETED FOR ATTENTION?
+WHAT EVIDENCE SUPPORTS THAT AWARENESS?
 
-WHAT WAS PROMINENT?
+WHAT DID THEY EXPERIENCE?
 
-WHAT WAS REPEATED?
+WHAT CHANGED IN ATTENTION?
 
-WHAT WAS MISSING OR DIFFICULT TO FIND?
+WHAT CHANGED IN AFFECT?
 
-WHAT CONTEXT TRAVELLED WITH THE INFORMATION?
+WHAT CHANGED PHYSIOLOGICALLY?
 
-WHAT PROVENANCE WAS VISIBLE?
+WHAT CHANGED IN SELF-PRESENTATION?
 
-WHAT EMBODIED STATE MATTERS?
+WHAT CHANGED IN BEHAVIOUR?
 
-WHAT ROLE DO FATIGUE, PAIN, AROUSAL,
-SENSORY CAPACITY, MEMORY, OR PRIOR
-KNOWLEDGE PLAY?
+WHAT ACTIONS FELT MORE OR LESS AVAILABLE?
 
-WHAT MATERIAL ACCESS CONDITIONS MATTER?
+WHAT IS SELF-REPORTED?
 
-WHAT WAS UNDERSTOOD?
-
-WHAT WAS REMEMBERED?
-
-WHAT WAS SELF-REPORTED?
-
-WHAT WAS DIRECTLY OBSERVED?
+WHAT IS DIRECTLY OBSERVED?
 
 WHAT IS INFERRED?
 
-WHAT EVIDENCE CONNECTS THE INFORMATIONAL
-CONDITION TO THE EMBODIED EFFECT?
+WHAT BASELINE IS AVAILABLE?
+
+WHAT OTHER CONDITIONS CHANGED AT THE SAME TIME?
 
 WHAT ALTERNATIVE EXPLANATIONS FIT?
 
-DOES THE EMBODIED RESPONSE CHANGE
-WHAT HAPPENS NEXT?
+WHAT EVIDENCE CONNECTS OBSERVATION
+TO THE EMBODIED EFFECT?
 
-IF YES, HAS THE REAL OBJECT BECOME 🫀♻️?
+DID THE PERSON'S RESPONSE THEN CHANGE
+WHAT HAPPENED NEXT?
 
-DOES THE INFORMATION ENVIRONMENT
-ADAPT IN RESPONSE?
+IF YES, HAS 🫀♻️ BECOME NECESSARY?
 
-IF YES, HAS THE REAL OBJECT BECOME ♻️🕸️?
+DID OBSERVATION DRIVE A SYSTEM RESPONSE?
 
-IS OBSERVATION NECESSARY?
+IF YES, HAS ♻️🧿 BECOME NECESSARY?
 
-IF YES, HAS AN 🧿 INTERFACE BECOME CENTRAL?
+IS THE INFORMATION ENVIRONMENT
+INDEPENDENTLY LOAD-BEARING?
 
-DOES THIS STILL REQUIRE ONLY 🫀🕸️,
+IF YES, HAS A 🕸️ INTERFACE BECOME NECESSARY?
+
+DOES THIS STILL REQUIRE ONLY 🫀🧿,
 OR HAS THE WHOLE ECOLOGY BECOME NECESSARY?
 ```
 
-The purpose is not to treat people as passive recipients of media effects.
-
-It is to describe the conditions through which information becomes lived experience.
+The purpose is to analyse observer effects without using the effects themselves as proof that an observer existed.
 
 ---
 
@@ -1117,18 +1127,18 @@ It is to describe the conditions through which information becomes lived experie
 Possible daughter-node families include:
 
 ```text
-🚪_available_information_is_not_experienced_information.md
-🎯_attention_is_the_bottleneck_between_environment_and_experience.md
-🌊_abundance_can_become_cognitive_load.md
-🕳️_scarcity_can_become_uncertainty.md
-🔁_repetition_changes_the_conditions_of_encounter.md
-🪜_prominence_is_not_the_same_as_salience.md
-🧩_context_changes_the_experienced_information.md
-🧵_provenance_can_become_a_cognitive_cue.md
-🧠_encountered_is_not_the_same_as_remembered.md
-⏱️_timing_changes_the_information_encounter.md
-🧭_prior_knowledge_changes_what_can_be_found.md
-🦴_technical_access_is_not_embodied_access.md
+👁️_observed_is_not_the_same_as_feeling_observed.md
+🪞_self_presentation_changes_under_observation.md
+🎭_performance_is_not_proof_of_insincerity.md
+🎯_being_observed_can_consume_attention.md
+🫁_observation_can_become_physiological.md
+🚪_observation_can_change_the_experienced_action_space.md
+🧊_a_chilling_effect_needs_a_mechanism.md
+🌱_observation_can_enable_behaviour_too.md
+🧠_anticipation_can_matter_before_observation_occurs.md
+🧬_the_meaning_of_observation_can_be_learned.md
+🪟_the_observer_can_change_the_observed_system.md
+📏_the_body_can_become_a_measurement_surface.md
 ```
 
 These are candidate node families rather than a requirement to create them all.
@@ -1140,27 +1150,27 @@ Otherwise the material can remain here.
 ---
 
 ## 🌌 Constellations  
-🫀 🕸️ 🎯 🧠 🚪 — embodied information experience; attention and cognitive load; accessibility; salience; the path from availability to encounter.
+🫀 🧿 👁️ 🪞 🚪 — embodied observation; observer effects; self-presentation; chilling and enabling effects; the experienced action space.
 
 ## ✨ Stardust  
-embodiment, information ecology, information environments, embodied cognition, attention, cognitive load, salience, accessibility, perception, information experience
+embodiment, surveillance, observability, observer effects, self presentation, chilling effects, social evaluation, behavioural inhibition, monitoring, embodied experience
 
 ---
 
 ## 🏮 Footer  
 
-*🫀🕸️ Information Is Experienced* is a living node of the **Polaris Protocol**.  
-It defines the interface between embodiment and information environments: the point at which availability, discoverability, prominence, repetition, context, and other informational conditions become perception, attention, affect, memory, cognitive load, and lived experience. Its role is to preserve the distinction between information existing in an environment and information actually becoming part of an organism's experience.
+*🫀🧿 The Observed Body* is a living node of the **Polaris Protocol**.  
+It defines the interface between embodiment and observability: the point at which actual, perceived, or anticipated observation becomes part of bodily experience, attention, affect, self-presentation, behaviour, or the experienced action space. Its role is to preserve the distinction between external observation conditions and embodied responses, preventing either from being used as automatic proof of the other.
 
 > 📡 Cross-references:
 >
 > - [🪿 Embodied Information Ecology](../README.md) — *parent framework, routing rules, and the distinction between foundational domains, pairwise interfaces, and whole-ecology effects*  
 > - [🫀 Embodiment](../🫀_Embodiment/) — *parent domain for perception, physiology, affect, attention, learning, and material human constraints*  
-> - [🕸️ Information Environments](../🕸️_Information_Environments/) — *parent domain for informational structure, circulation, availability, discoverability, provenance, and context*  
+> - [🧿 Surveillance And Observability](../🧿_Surveillance_And_Observability/) — *parent domain for visibility, legibility, monitoring, recording, observer position, and evidential distinctions around observation*  
+> - [🫀🕸️ Information Is Experienced](../🫀🕸️_Information_Is_Experienced/) — *where informational conditions become embodied perception, attention, affect, memory, and cognitive load*  
 > - [🫀♻️ The Body In The Loop](../🫀♻️_The_Body_In_The_Loop/) — *where embodied states and behaviour become consequential inputs into feedback processes*  
-> - [♻️🕸️ The Feedback Environment](../♻️🕸️_The_Feedback_Environment/) — *where activity and output change subsequent informational conditions*  
-> - [🫀🧿 The Observed Body](../🫀🧿_The_Observed_Body/) — *where actual or anticipated observation becomes embodied experience or behavioural change*  
 > - [🕸️🧿 The Observed Information Space](../🕸️🧿_The_Observed_Information_Space/) — *where communications, networks, metadata, and informational structure become objects of observation*  
+> - [♻️🧿 Observation Becomes Intervention](../♻️🧿_Observation_Becomes_Intervention/) — *where observation becomes input into classification, regulation, intervention, or adaptation*  
 > - [🐣 The Whole Ecology](../🐣_The_Whole_Ecology/) — *where several interfaces interact recursively and produce emergent system behaviour*  
 >
 > 🏮 Return To:
@@ -1171,4 +1181,4 @@ It defines the interface between embodiment and information environments: the po
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-10_
+_Last updated: 2026-08-11_
