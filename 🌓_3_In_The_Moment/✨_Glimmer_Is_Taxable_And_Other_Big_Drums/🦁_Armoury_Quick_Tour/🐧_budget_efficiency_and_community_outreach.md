@@ -1,5 +1,5 @@
 # 🐧 Budget Efficiency and Community Outreach  
-**First created:** 2025-11-12 | **Last updated:** 2026-02-19  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-11  
 *Airshows, optics, and the economics of spectacle.*  
 
 ---
@@ -39,4 +39,4 @@ airshows, budget camouflage, patriotism, community outreach, spectacle economics
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-11_
