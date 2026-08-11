@@ -1,5 +1,5 @@
 # 🦤 Potential Dodos — Spotters’ Guide to Imported Authoritarian Fauna  
-**First created:** 2025-10-27 | **Last updated:** 2026-02-19  
+**First created:** 2025-10-27 | **Last updated:** 2026-08-11  
 *A museum of extinct ideas that keep trying to get passports.*  
 
 ---
@@ -92,4 +92,4 @@ It curates the evolutionary warning signs of antidemocratic behaviour so that ar
 > - [🕊️ Gustav and the Network of Impossible Messengers](../🦁_Armoury_Quick_Tour/🕊️_gustav_and_the_network_of_impossible_messengers.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-11_
