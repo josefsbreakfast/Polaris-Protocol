@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-11 09:53:31 UTC_
+_Generated on 2026-08-11 09:56:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4981,6 +4981,12 @@ _Generated on 2026-08-11 09:53:31 UTC_
       - [`🪁_life_under_quiet_fascism.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🪁_life_under_quiet_fascism.md)
     - [**💌_SWALK/**](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/)
       - [`notes.txt`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/notes.txt)
+      - [`⚖️_two_way_seal.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/⚖️_two_way_seal.md)
+      - [`🌀_chaff.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/🌀_chaff.md)
+      - [`🌊_fighting_on_the_beaches.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/🌊_fighting_on_the_beaches.md)
+      - [`🌹_feel_the_fear_and_fight_fascism_anyway.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/🌹_feel_the_fear_and_fight_fascism_anyway.md)
+      - [`📱_institutional_tech_archetypes_uk_state.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/📱_institutional_tech_archetypes_uk_state.md)
+      - [`🛡️_this_is_the_home_front.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/💌_SWALK/🛡️_this_is_the_home_front.md)
     - [**🦁_Armoury_Quick_Tour/**](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/)
       - [`README.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/README.md)
       - [`⚓️_the_service_that_went_to_sea_and_never_came_back.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/⚓️_the_service_that_went_to_sea_and_never_came_back.md)
@@ -5013,12 +5019,6 @@ _Generated on 2026-08-11 09:53:31 UTC_
       - [`🦤_dodo_importer_tommy_robinson.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🦤_dodo_importer_tommy_robinson.md)
       - [`🦤_the_just_eat_hunger_strike_tit.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦤_Potential_Dodos/🦤_the_just_eat_hunger_strike_tit.md)
     - [`README.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/README.md)
-    - [`⚖️_two_way_seal.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/⚖️_two_way_seal.md)
-    - [`🌀_chaff.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🌀_chaff.md)
-    - [`🌊_fighting_on_the_beaches.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🌊_fighting_on_the_beaches.md)
-    - [`🌹_feel_the_fear_and_fight_fascism_anyway.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🌹_feel_the_fear_and_fight_fascism_anyway.md)
-    - [`📱_institutional_tech_archetypes_uk_state.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/📱_institutional_tech_archetypes_uk_state.md)
-    - [`🛡️_this_is_the_home_front.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🛡️_this_is_the_home_front.md)
     - [`🧰_JSP_9-17A_Annex_D_Lawful_Escalation_Command_And_Conscience_Protocol.md`](🌓_3_In_The_Moment/✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🧰_JSP_9-17A_Annex_D_Lawful_Escalation_Command_And_Conscience_Protocol.md)
   - [**🌌_Polaris_Specific_Memeing/**](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/)
     - [**audit_risk_matrix/**](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/audit_risk_matrix/)
