@@ -1,5 +1,5 @@
 # 🛡️ This Is The Home Front  
-**First created:** 2025-12-23 | **Last updated:** 2026-05-06  
+**First created:** 2025-12-23 | **Last updated:** 2026-08-11  
 *Why defending democratic culture online is not escalation — it is civic responsibility.*  
 
 ---
@@ -228,4 +228,4 @@ The wartime and home-front imagery used throughout this node functions as cultur
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-06_
+_Last updated: 2026-08-11_
