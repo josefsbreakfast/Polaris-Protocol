@@ -1,5 +1,5 @@
 # ⚖️ Two-Way Seal  
-**First created:** 2025-10-12 | **Last updated:** 2026-05-06  
+**First created:** 2025-10-12 | **Last updated:** 2026-08-11  
 *When the Official Secrets Act forgets which side holds the wax.*  
 
 ---
@@ -185,4 +185,4 @@ sealed by the office of the Crown and sustained only by respect moving in both d
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-06_
+_Last updated: 2026-08-11_
