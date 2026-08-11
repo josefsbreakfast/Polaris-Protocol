@@ -1,5 +1,5 @@
 # 💦 Squirtle Squad Redeployment  
-**First created:** 2026-05-09 | **Last updated:** 2026-05-09  
+**First created:** 2026-05-09 | **Last updated:** 2026-08-11  
 *How oppositional identity groups can reflow into prosocial civic formations under conditions of recognition, responsibility, and meaningful integration.*
 
 ---
@@ -389,4 +389,4 @@ It examines how oppositional identity groups may transition toward prosocial civ
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-08-11_
