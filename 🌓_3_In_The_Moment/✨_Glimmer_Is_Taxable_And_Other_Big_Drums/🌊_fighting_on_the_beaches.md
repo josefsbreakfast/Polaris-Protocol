@@ -1,5 +1,5 @@
 # 🌊 Fighting On The Beaches: Embodied Interdependence at Dunkirk, D-Day, and Cable Street  
-**First created:** 2025-10-19 | **Last updated:** 2026-05-06  
+**First created:** 2025-10-19 | **Last updated:** 2026-08-11  
 *What unites us is not our uniform, but our shared refusal to let harm spread unchecked.*  
 
 ---
@@ -150,4 +150,4 @@ Its historical references function as cultural memory, moral folklore, and anti-
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-06_
+_Last updated: 2026-08-11_
