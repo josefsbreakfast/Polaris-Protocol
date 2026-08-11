@@ -13,4 +13,4 @@
 |     9 | Charity & third-sector capture            |          0.45 | Medium      | Medium         | No material structural change since Q4; investigations continue without expansion of oversight scope.                             |
 |    10 | Narrative securitisation of dissent       |          0.73 | High        | High           | Judicial rulings and recalibrated security messaging reduce dominance of securitisation narratives, though architecture remains.  |
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-08-11_
