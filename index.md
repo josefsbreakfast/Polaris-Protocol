@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-11 08:50:33 UTC_
+_Generated on 2026-08-11 08:53:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4553,6 +4553,7 @@ _Generated on 2026-08-11 08:50:33 UTC_
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/notes.txt)
     - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/README.md)
+    - [`llm_wheretogo.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/llm_wheretogo.txt)
     - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/notes.txt)
     - [`wheretogo.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/wheretogo.txt)
   - [**🫀_Body_Matters/**](🌑_1_Origin_Points/🫀_Body_Matters/)
