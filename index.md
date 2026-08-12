@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 20:22:28 UTC_
+_Generated on 2026-08-12 20:23:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1332,7 +1332,6 @@ _Generated on 2026-08-12 20:22:28 UTC_
             - [`☕️🫖_exceedingly_good_for_morale.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🫖_MI8_And_Boon/☕️🫖_exceedingly_good_for_morale.md)
             - [`💘_agent_boon_and_the_machine.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🫖_MI8_And_Boon/💘_agent_boon_and_the_machine.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md)
-        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/notes.txt)
         - [`☕_the_auntie_model_of_memetic_transmission.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/☕_the_auntie_model_of_memetic_transmission.md)
         - [`⚖️_safe_humanitarian_speech_in_high_risk_discursive_environments.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚖️_safe_humanitarian_speech_in_high_risk_discursive_environments.md)
         - [`⚡_structural_throughline.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚡_structural_throughline.md)
