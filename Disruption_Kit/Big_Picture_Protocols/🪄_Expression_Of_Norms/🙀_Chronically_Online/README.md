@@ -1,5 +1,5 @@
 # 🙀 Chronically Online  
-**First created:** 2025-10-26 | **Last updated:** 2025-10-28  
+**First created:** 2025-10-26 | **Last updated:** 2026-08-12  
 *Exploring how internet culture becomes normalised — a mode of being, a memetic economy, and a governance layer of norms.*
 
 ---
@@ -51,4 +51,4 @@ It studies the cultural, affective, and governance dimensions of life under perm
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-28_
+_Last updated: 2026-08-12_
