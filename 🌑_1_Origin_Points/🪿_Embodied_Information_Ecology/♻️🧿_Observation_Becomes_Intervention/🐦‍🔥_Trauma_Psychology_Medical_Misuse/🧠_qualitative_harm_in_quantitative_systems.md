@@ -1,5 +1,5 @@
 # 🧠 Qualitative Harm in Quantitative Systems  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-12  
 *Why institutions struggle to recognise, regulate, and respond to harm that cannot be easily counted.*
 
 ---
@@ -176,4 +176,4 @@ It articulates why existing governance frameworks repeatedly fail to recognise r
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-12_
