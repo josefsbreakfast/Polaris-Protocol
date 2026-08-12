@@ -1,5 +1,5 @@
 # 🛠️ Disabled Design Benefits You, Too
-**First created:** 2025-12-16 | **Last updated:** 2025-12-16  
+**First created:** 2025-12-16 | **Last updated:** 2026-08-12  
 *Why universal design is not a concession to disability — but one of the most reliable engines of collective progress.*
 
 ---
@@ -193,4 +193,4 @@ It reframes disability from cost to catalyst, documenting how inclusive design s
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-16_
+_Last updated: 2026-08-12_
