@@ -1,5 +1,5 @@
 # 🧿 Watch the Watchers  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-27 | **Last updated:** 2026-08-12  
 *Protocol branch tracing practices of counter-surveillance, citizen documentation, and exposure of covert power*  
 
 ---
@@ -41,4 +41,4 @@ It is not passive witness — it is active inversion, a survival tactic, and oft
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-12_
