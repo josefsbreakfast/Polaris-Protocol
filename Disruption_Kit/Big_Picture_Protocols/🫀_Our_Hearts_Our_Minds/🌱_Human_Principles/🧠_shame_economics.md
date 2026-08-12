@@ -1,5 +1,5 @@
 # 🧠 **Shame Economics — Why Visibility Breaks the Capture Loop**  
-**First created:** 2025-11-11 | **Last updated:** 2025-12-13  
+**First created:** 2025-11-11 | **Last updated:** 2026-08-12  
 *Shame is the control currency of abusive systems. Visibility is the counter-currency that bankrupts them.*
 
 ---
@@ -226,4 +226,4 @@ It maps shame as a systemic control mechanism and visibility as a structural cou
 
 *Survivor authorship is sovereign. Shame belongs to the abuser, not the survivor.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-08-12_
