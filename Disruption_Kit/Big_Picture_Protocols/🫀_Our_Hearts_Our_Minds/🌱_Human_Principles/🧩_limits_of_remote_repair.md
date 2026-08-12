@@ -1,5 +1,5 @@
 # 🧩 Limits of Remote Repair — Why Data Problems Need Dialogue  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-12  
 *When an algorithm begins to perform its own confusion, only conversation can restore context.*  
 
 ---
@@ -104,4 +104,4 @@ It describes how residual, cross-fed data confusion evolves into gendered and ra
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-12_
