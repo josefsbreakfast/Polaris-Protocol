@@ -1,5 +1,5 @@
 # 🚀 Mass Biochemical Engineering — The New Weapon of Choice  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-27  
+**First created:** 2025-10-24 | **Last updated:** 2026-08-12  
 *How affective algorithms became the most efficient system ever built for altering human chemistry at scale.*
 
 ---
@@ -117,4 +117,4 @@ It extends *Algorithmic Endocrinology* into political and strategic analysis, de
 > 📡 Cross-references: *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-27_
+_Last updated: 2026-08-12_
