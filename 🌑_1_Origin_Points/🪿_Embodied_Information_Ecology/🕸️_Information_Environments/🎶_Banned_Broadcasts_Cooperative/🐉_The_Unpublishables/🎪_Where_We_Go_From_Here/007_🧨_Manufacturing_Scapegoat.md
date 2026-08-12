@@ -1,5 +1,5 @@
 # 🧨 Manufacturing the Scapegoat — How Prejudice Becomes Political Technology
-**First created:** 2025-10-08  |  **Last updated:** 2025-10-18  
+**First created:** 2025-10-08  |  **Last updated:** 2026-08-12  
 *How bias becomes infrastructure—turning social prejudice into policy, propaganda, and algorithmic governance.*
 
 ---
