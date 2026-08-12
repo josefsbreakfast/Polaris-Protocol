@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 09:53:59 UTC_
+_Generated on 2026-08-12 09:57:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1519,7 +1519,6 @@ _Generated on 2026-08-12 09:53:59 UTC_
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/notes.txt)
-        - [`🌾_impunity_as_fertile_ground.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌾_impunity_as_fertile_ground.md)
         - [`🌿_lawful_illegality_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿_lawful_illegality_of_care.md)
         - [`🌿_the_maths_of_life.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿_the_maths_of_life.md)
         - [`🌿🦁_green_lion_as_liminality.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿🦁_green_lion_as_liminality.md)
@@ -4493,6 +4492,7 @@ _Generated on 2026-08-12 09:53:59 UTC_
         - [`🌱_love_is_antifascist.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🌱_love_is_antifascist.md)
         - [`🌲_campfire_stability_model_for_modern_citizens.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🌲_campfire_stability_model_for_modern_citizens.md)
         - [`🌲_rebuilding_spark_in_a_political_forest_fire.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🌲_rebuilding_spark_in_a_political_forest_fire.md)
+        - [`🌾_impunity_as_fertile_ground.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🌾_impunity_as_fertile_ground.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/notes.txt)
     - [**🫀♻️_The_Body_In_The_Loop/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/)
@@ -5141,6 +5141,7 @@ _Generated on 2026-08-12 09:53:59 UTC_
       - [**🇮🇷_Data_Wars_IRGC_Edition/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/README.md)
         - [`⏱️_timeline_of_essential_infrastructure_attacks.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/⏱️_timeline_of_essential_infrastructure_attacks.md)
+        - [`⛴️_do_ports_count.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/⛴️_do_ports_count.md)
         - [`🇬🇧_britain_is_advertising_an_exploitable_seam.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🇬🇧_britain_is_advertising_an_exploitable_seam.md)
         - [`🏗️_what_counts_as_state_infrastructure.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🏗️_what_counts_as_state_infrastructure.md)
         - [`🏥_health_education_and_admin_are_not_soft_extras.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🏥_health_education_and_admin_are_not_soft_extras.md)
