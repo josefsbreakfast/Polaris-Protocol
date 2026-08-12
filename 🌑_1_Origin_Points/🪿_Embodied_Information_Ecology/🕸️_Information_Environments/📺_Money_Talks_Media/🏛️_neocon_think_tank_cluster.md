@@ -1,5 +1,5 @@
 # 🏛️ Neocon Think Tank Cluster  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-16 | **Last updated:** 2026-08-12  
 *How “sensible” UK think tanks launder US-style neoliberal and neoconservative agendas*  
 
 ---
@@ -69,4 +69,4 @@ It documents how a network of UK policy institutes, branded as “sensible,” l
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2026-08-12_
