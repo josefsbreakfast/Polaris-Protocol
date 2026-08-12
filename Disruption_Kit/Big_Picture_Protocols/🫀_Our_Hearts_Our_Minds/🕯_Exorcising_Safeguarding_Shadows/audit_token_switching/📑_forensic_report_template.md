@@ -1,5 +1,5 @@
 # 📑 Forensic Report Template: Token Switching Audit  
-**First created:** 2025-09-30 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-12  
 *Use this structure to document findings. Paste evidence excerpts, queries, and results in place of placeholders.*  
 
 ---
@@ -49,4 +49,4 @@ It ensures audits are documented consistently and remain admissible.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
