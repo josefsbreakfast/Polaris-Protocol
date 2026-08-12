@@ -1,5 +1,5 @@
 # 🪽 Justice, Angels and Adversaries — Comparative Theology and Law
-**First created:** 2025-10-08  |  **Last updated:** 2025-10-18  
+**First created:** 2025-10-08  |  **Last updated:** 2026-08-12  
 *From Iblīs to ha-Satan to Lucifer: how the adversary became legal metaphor, and how theology continues to shape modern justice and moral panic.*
 
 ---
