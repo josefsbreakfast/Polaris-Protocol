@@ -1,5 +1,5 @@
 # 🍑 The Soft Boy Restoration Protocol  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-12  
 *A framework for returning misclassified, shame-wounded, algorithmically captured men back to their original emotional architecture.*  
 
 ---
@@ -210,4 +210,4 @@ It provides a structured, emotional, survivor-informed process for guiding men o
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-12_
