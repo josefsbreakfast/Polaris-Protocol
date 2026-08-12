@@ -1,5 +1,5 @@
 # 🧠 Depersonalised Systems as CPTSD Triggers  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-12  
 *Why opaque, impersonal systems reproduce abandonment-shaped stress responses*  
 
 ---
@@ -156,4 +156,4 @@ responses without hostility or intent.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-12_
