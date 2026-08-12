@@ -1,5 +1,5 @@
 # 🌊 On Being the Manual Override  
-**First created:** 2025-11-05 | **Last updated:** 2026-01-06  
+**First created:** 2025-11-05 | **Last updated:** 2026-08-12  
 *The human who notices when the system starts looping.*
 <!--Personally I think "Manual Override" works nicely as a blog name, but I was into 90s indie bands, so..-->
 ---
@@ -41,4 +41,4 @@ That person is not an error; they are the safety mechanism.
 > - [☕️ Tea, Toast, and Transparency](../../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☕️_tea_toast_and_transparency.md)
 > - [🍉 Collecting Intent Adjunct Material](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🍉_Collecting_Intent_Adjunct_Material/README.md)  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-12_
