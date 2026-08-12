@@ -1,5 +1,5 @@
 # ☔️ Stuck in Digital Quicksand  
-**First created:** 2025-12-27 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-27 | **Last updated:** 2026-08-12  
 *What it feels like when systems lose legibility — and why neither paranoia nor denial are irrational*
 
 ---
@@ -325,4 +325,4 @@ It documents the human experience produced when complex systems lose legibility 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-08-12_
