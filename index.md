@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 08:04:19 UTC_
+_Generated on 2026-08-12 08:05:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -259,6 +259,7 @@ _Generated on 2026-08-12 08:04:19 UTC_
         - [`🫀_genocide_by_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/🫀_genocide_by_containment.md)
       - [**💫_Containment_Logic/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/notes.txt)
         - [`☔️_compressed_privacy_and_freedom_of_thought.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☔️_compressed_privacy_and_freedom_of_thought.md)
         - [`☔️_digital_quicksand_101.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☔️_digital_quicksand_101.md)
         - [`☕_administrative_necromancy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/☕_administrative_necromancy.md)
