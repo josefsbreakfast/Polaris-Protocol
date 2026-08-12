@@ -1,5 +1,5 @@
 # 🔱 God as Plurality
-**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-12  
 *From Elohim’s grammar to Shiva–Shakti’s duality to survivor polyphony.*  
 
 ---
@@ -52,4 +52,4 @@ It articulates multiplicity as the foundation of relational truth.
 > - [📿 Strength as Gihasta]
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-12_
