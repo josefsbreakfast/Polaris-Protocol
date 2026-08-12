@@ -1,5 +1,5 @@
 # 🧩 Mixed-Gender Sociality as Antidote  
-**First created:** 2025-12-10 | **Last updated:** 2025-12-10  
+**First created:** 2025-12-10 | **Last updated:** 2026-08-12  
 *Why mixed-gender and queer-inclusive friendships weaken extremist pipelines, reduce grievance load, and stabilise insecure masculinity.*
 
 ---
@@ -134,4 +134,4 @@ It demonstrates how diverse, emotionally literate social environments dissolve t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-08-12_
