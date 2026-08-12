@@ -1,5 +1,5 @@
 # 🩻 Worker Health Is A Bipartisan Win  
-**First created:** 2026-05-17 | **Last updated:** 2026-05-17  
+**First created:** 2026-05-17 | **Last updated:** 2026-08-12  
 
 *An examination of how occupational health, rehabilitation, prevention, and long-term worker wellbeing frequently align with humanitarian, economic, conservative, labour, religious, and state-capacity interests simultaneously — and why institutional short-termism, class fragmentation, and fear of structural change often prevent this convergence from fully materialising.*  
 
