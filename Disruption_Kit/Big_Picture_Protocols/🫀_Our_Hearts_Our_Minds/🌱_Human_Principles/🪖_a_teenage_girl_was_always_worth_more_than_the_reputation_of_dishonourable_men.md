@@ -1,5 +1,5 @@
 # 🪖 A Teenage Girl Was Always Worth More Than the Reputation of Dishonourable Men  
-**First created:** 2025-12-24 | **Last updated:** 2026-01-04  
+**First created:** 2025-12-24 | **Last updated:** 2026-08-12  
 *Defence institutions do not exist to protect elite reputations at the expense of human life.*  
 <!--I mean, so were the several honourable men and women who got gagged with the OSA when they tried to help me, but I'm feeling a bit prickly.-->
 ---
@@ -153,4 +153,4 @@ It establishes a clear ethical boundary against the misuse of defence institutio
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-08-12_
