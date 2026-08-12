@@ -1,5 +1,5 @@
 # 👀 Public Perception Gap  
-**First created:** 2025-08-03 | **Last updated:** 2026-02-19  
+**First created:** 2025-08-03 | **Last updated:** 2026-08-12  
 *Analysis of how optics distort recognition of harm and enable institutional silencing.*  
 
 ---
@@ -104,5 +104,5 @@ It analyses how institutional optics distort harm recognition, creating narrativ
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-12_
 
