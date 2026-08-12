@@ -1,5 +1,5 @@
 # 🇬🇧 Safeguarding–Counterextremism Risk Convergence  
-**First created:** 2025-09-01 | **Last updated:** 2026-02-19  
+**First created:** 2025-09-01 | **Last updated:** 2026-08-12  
 *Forensic analysis of UK governance structures where safeguarding and counterextremism data are clustered, heightening risk of exploitation by powerful perpetrators.*
 
 ---
@@ -308,4 +308,4 @@ It documents how UK governance structures unintentionally amplify predation risk
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-12_
