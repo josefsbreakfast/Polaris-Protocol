@@ -1,5 +1,5 @@
 # 📊 Gen Z Procedural Protest & Spreadsheet Organising  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-17 | **Last updated:** 2026-08-12  
 *Why Gen Z approaches protest like a project-managed operation, and how their procedural culture reshapes collective action.*  
 
 ---
@@ -243,4 +243,4 @@ It supports the **Generational Dynamics** and **Digital Disruption** clusters th
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-12_
