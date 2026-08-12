@@ -1,5 +1,5 @@
 # 🛫 Frequent Flyers Club  
-**First created:** 2025-09-28 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-28 | **Last updated:** 2026-08-12  
 *Individuals repeatedly caught in overlapping surveillance loops.*
 
 ---
@@ -62,4 +62,4 @@ It documents the structural reasons why some individuals are permanently recycle
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-12_
