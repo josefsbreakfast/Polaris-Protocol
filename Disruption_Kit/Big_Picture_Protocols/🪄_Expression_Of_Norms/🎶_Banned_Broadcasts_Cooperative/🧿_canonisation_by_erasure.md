@@ -1,5 +1,5 @@
 # 🧿 Canonisation by Erasure  
-**First created:** 2025-09-29 | **Last updated:** 2025-12-25  
+**First created:** 2025-09-29 | **Last updated:** 2026-08-12  
 *When a work is buried, it becomes holy.*  
 
 ---
@@ -72,4 +72,4 @@ through curiosity, resistance, and memory.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_  
+_Last updated: 2026-08-12_  
