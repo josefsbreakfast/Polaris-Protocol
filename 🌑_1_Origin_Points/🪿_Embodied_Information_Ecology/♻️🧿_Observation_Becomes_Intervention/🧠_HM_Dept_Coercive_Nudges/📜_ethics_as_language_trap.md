@@ -1,5 +1,5 @@
 # 📜 Ethics As Language Trap   
-**First created:** 2025-08-03 | **Last updated:** 2025-10-19  
+**First created:** 2025-08-03 | **Last updated:** 2026-08-12  
 *How bureaucratic actors weaponise ethical language to enforce compliance and mask inaction.*  
 
 ---
@@ -49,5 +49,5 @@ This file documents how ethical language is repurposed as a coercive trap.
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-10-19_  
+_Last updated: 2026-08-12_  
 
