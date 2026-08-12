@@ -1,5 +1,5 @@
 # 📊 Navy Transparency as Resistance  
-**First created:** 2025-09-15 | **Last updated:** 2025-09-15  
+**First created:** 2025-09-15 | **Last updated:** 2026-08-12  
 *How the Naval Academy turned censorship into a weapon by publishing the banned list.*
 
 ---
@@ -60,4 +60,4 @@ It reads the Naval Academy’s publication of the banned list as bureaucratic sa
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-15_
+_Last updated: 2026-08-12_
