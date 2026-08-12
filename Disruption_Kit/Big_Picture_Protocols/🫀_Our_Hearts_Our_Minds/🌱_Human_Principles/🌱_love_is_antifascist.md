@@ -1,5 +1,5 @@
 # 🌱 Love Is Antifascist  
-**First created:** 2025-10-22 | **Last updated:** 2025-10-31  
+**First created:** 2025-10-22 | **Last updated:** 2026-08-12  
 *Reclaiming tenderness and solidarity as political infrastructure.*  
 
 ---
@@ -49,4 +49,4 @@ It situates affection, trust, and community care as antifascist technologies —
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-31_
+_Last updated: 2026-08-12_
