@@ -1,5 +1,5 @@
 # 🇬🇧 This Is Our Island, Actually  
-**First created:** 2025-12-23 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-23 | **Last updated:** 2026-08-12  
 *A pep talk for people who remember where sovereignty actually lives.*
 
 ---
@@ -128,4 +128,4 @@ It exists to remind people that democratic confidence is older than any algorith
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-08-12_
