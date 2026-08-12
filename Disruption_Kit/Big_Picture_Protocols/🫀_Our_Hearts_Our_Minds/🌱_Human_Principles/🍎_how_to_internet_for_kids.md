@@ -1,5 +1,5 @@
 # 🍎 How to Internet for Kids  
-**First created:** 2025-10-15 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-15 | **Last updated:** 2026-08-12  
 *Teaching children to navigate the web safely, curiously, and critically.*
 
 ---
@@ -42,4 +42,4 @@ It proposes practical methods to teach healthy digital behaviour without fear or
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2026-08-12_
