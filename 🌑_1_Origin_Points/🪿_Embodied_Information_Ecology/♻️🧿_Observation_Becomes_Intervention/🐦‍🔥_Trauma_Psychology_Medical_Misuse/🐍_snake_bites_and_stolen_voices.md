@@ -1,5 +1,5 @@
 # 🐍 Snake Bites and Stolen Voices  
-**First created:** 2025-08-13 | **Last updated:** 2026-01-22  
+**First created:** 2025-08-13 | **Last updated:** 2026-08-12  
 *Narrative reversal on suppression, theft, and clarity strikes.*  
 
 ---
@@ -193,4 +193,4 @@ It documents how narrative reversal destabilises suppression structures by expos
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-12_
