@@ -1,5 +1,5 @@
 # 💼 Lobbying Scandals & Stakeholder Networks  
-**First created:** 2025-09-27 | **Last updated:** 2025-09-30  
+**First created:** 2025-09-27 | **Last updated:** 2026-08-12  
 *Notes on companies linked to David Cameron, their dependencies, and key stakeholders.*  
 
 ---
@@ -54,4 +54,4 @@ It maps corporate entanglements and foreign wealth networks intersecting with UK
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
+_Last updated: 2026-08-12_  
