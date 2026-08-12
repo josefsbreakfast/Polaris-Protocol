@@ -1,5 +1,5 @@
 # 🗣️ Capture and Reclamation of Language  
-**First created:** 2025-10-03 | **Last updated:** 2026-01-04  
+**First created:** 2025-10-03 | **Last updated:** 2026-08-12  
 *How disabled people reclaim terms like “crip” — and why outsider use is not the same.*  
 
 ---
@@ -78,4 +78,4 @@ It situates language as both a tool of containment and a site of disabled resist
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_  
+_Last updated: 2026-08-12_  
