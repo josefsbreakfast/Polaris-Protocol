@@ -1,5 +1,5 @@
 # 🧭 Why Survivors See the Full Picture  
-**First created:** 2025-11-22 | **Last updated:** 2026-01-18  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-12  
 *Why individuals harmed by cross-silo failures become the only people who can see the entire multi-agency system — and why institutions cannot.*  
 
 ---
@@ -171,4 +171,4 @@ It reframes survivor clarity as a systems feature, not an emotional artefact.
 > - [*Pending:* 🩸 Soul as Product Lineage]  
 > - [🧠 Extracting Souls Of The Prosocial](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🧠_extracting_souls_of_the_prosocial.md)  
 
-_Last updated: 2026-01-18_
+_Last updated: 2026-08-12_
