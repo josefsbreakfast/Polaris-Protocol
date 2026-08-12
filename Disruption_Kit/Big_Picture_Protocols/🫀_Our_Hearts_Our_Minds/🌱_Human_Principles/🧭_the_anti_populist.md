@@ -1,5 +1,5 @@
 # 🧭 The Anti-Populist  
-**First created:** 2025-10-29 | **Last updated:** 2025-10-29  
+**First created:** 2025-10-29 | **Last updated:** 2026-08-12  
 *A temperament that resists mass gravity — voting, thinking, and creating for distribution rather than dominance.*
 
 ---
@@ -111,4 +111,4 @@ It defines a human-governance archetype that stabilises democracy by resisting m
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-29_
+_Last updated: 2026-08-12_
