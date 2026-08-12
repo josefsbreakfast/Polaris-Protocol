@@ -1,5 +1,5 @@
 # 🧬 Algorithmic Endocrinology  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-27  
+**First created:** 2025-10-24 | **Last updated:** 2026-08-12  
 *How algorithms rewrite human hormonal balance and metabolic homeostasis.*
 
 ---
@@ -118,4 +118,4 @@ It bridges human physiology and algorithmic design to show how digital systems r
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-27_
+_Last updated: 2026-08-12_
