@@ -1,5 +1,5 @@
 # 💎 Diamonds and Disappointment: Rings, Mobility, and Respectability  
-**First created:** 2025-10-08 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-08 | **Last updated:** 2026-08-12  
 *On how the performance of permanence became a portable credential, a safety device, and an unrealistic demand on modern life.*
 
 ---
@@ -68,4 +68,4 @@ It analyses how jewellery rituals became instruments of social control and how r
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-08-12_
