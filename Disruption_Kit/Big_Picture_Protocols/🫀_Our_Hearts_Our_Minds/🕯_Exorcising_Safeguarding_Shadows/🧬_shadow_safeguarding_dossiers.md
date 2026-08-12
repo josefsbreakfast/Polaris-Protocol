@@ -1,5 +1,5 @@
 # 🧬 Shadow Safeguarding Dossiers  
-**First created:** 2025-09-21 | **Last updated:** 2026-02-19  
+**First created:** 2025-09-21 | **Last updated:** 2026-08-12  
 *On the need to audit whether CSE reports and improvement dossiers are complete, transparent, and unaltered.*  
 
 ---
@@ -77,4 +77,4 @@ It demands forensic transparency of safeguarding reports and dossiers, recognisi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_  
+_Last updated: 2026-08-12_  
