@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 10:18:23 UTC_
+_Generated on 2026-08-12 10:20:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1519,8 +1519,6 @@ _Generated on 2026-08-12 10:18:23 UTC_
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/notes.txt)
-        - [`🧠_thresholds_of_change_liminal_spaces_as_cognitive_laboratories.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_thresholds_of_change_liminal_spaces_as_cognitive_laboratories.md)
-        - [`🧠_tolerators_as_targets.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_tolerators_as_targets.md)
         - [`🧩_dont_listen_to_the_algorithm.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_dont_listen_to_the_algorithm.md)
         - [`🧩_friction_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_friction_patterns.md)
         - [`🧩_limits_of_remote_repair.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_limits_of_remote_repair.md)
@@ -4493,6 +4491,8 @@ _Generated on 2026-08-12 10:18:23 UTC_
         - [`🧠_memory_safety_self_reconstruction.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🧠_memory_safety_self_reconstruction.md)
         - [`🧠_shame_economics.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🧠_shame_economics.md)
         - [`🧠_the_last_hill_un_concedable_terrains_of_ego.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🧠_the_last_hill_un_concedable_terrains_of_ego.md)
+        - [`🧠_thresholds_of_change_liminal_spaces_as_cognitive_laboratories.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🧠_thresholds_of_change_liminal_spaces_as_cognitive_laboratories.md)
+        - [`🧠_tolerators_as_targets.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🧠_tolerators_as_targets.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/notes.txt)
     - [**🫀♻️_The_Body_In_The_Loop/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/)
