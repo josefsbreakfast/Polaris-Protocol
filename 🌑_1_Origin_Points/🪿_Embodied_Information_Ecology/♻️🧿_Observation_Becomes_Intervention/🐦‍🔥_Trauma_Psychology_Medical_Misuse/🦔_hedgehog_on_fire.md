@@ -1,5 +1,5 @@
 # 🦔 Hedgehog on Fire  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-12  
 *A metaphor for trauma activation under cognitive overload and ambiguous safety*  
 
 ---
@@ -132,4 +132,4 @@ protective contraction under ambiguity and cognitive load.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-12_
