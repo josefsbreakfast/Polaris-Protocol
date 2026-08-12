@@ -1,5 +1,5 @@
 # 🧭 How Authoritarian Drift Feels From the Inside  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-12  
 *The lived, emotional, and sensory experience of realising your country is drifting authoritarian — often long before institutions or media acknowledge it.*  
 
 ---
@@ -204,4 +204,4 @@ Crosslinks:
 - 🧩 *asymmetric_democratic_policing*  
 - 📛 *bureaucratic_memory_failure_and_identity_contamination*
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-08-12_
