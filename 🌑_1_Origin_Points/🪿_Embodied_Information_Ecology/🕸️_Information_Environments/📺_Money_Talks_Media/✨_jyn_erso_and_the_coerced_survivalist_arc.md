@@ -1,5 +1,5 @@
 # ✨ Jyn Erso and the Coerced Survivalist Arc  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-12  
 *Why Jyn is the opposite of Kylo: not misclassified, but shaped by structural abandonment and survival coercion.*  
 
 ---
@@ -205,4 +205,4 @@ It serves as an emotional counterpoint to Kylo Ren, mapping the trauma pathway t
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-26_
+_Last updated: 2026-08-12_
