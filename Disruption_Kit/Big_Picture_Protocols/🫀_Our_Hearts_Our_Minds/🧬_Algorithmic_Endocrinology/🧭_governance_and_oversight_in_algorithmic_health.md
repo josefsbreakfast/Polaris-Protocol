@@ -1,5 +1,5 @@
 # 🧭 Governance and Oversight in Algorithmic Health  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-27  
+**First created:** 2025-10-24 | **Last updated:** 2026-08-12  
 *Mapping the regulatory vacuum where algorithms meet the human body.*
 
 ---
@@ -109,4 +109,4 @@ It maps the current regulatory vacuum and outlines a framework for governing alg
 > 📡 Cross-references: *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-27_
+_Last updated: 2026-08-12_
