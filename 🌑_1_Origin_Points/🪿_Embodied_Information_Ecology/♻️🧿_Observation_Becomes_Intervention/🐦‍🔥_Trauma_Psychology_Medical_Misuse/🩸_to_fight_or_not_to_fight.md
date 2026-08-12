@@ -1,5 +1,5 @@
 # 🩸 To Fight or Not to Fight — The Psychology of Prolonged Uncertainty  
-**First created:** 2025-10-21 | **Last updated:** 2025-10-21  
+**First created:** 2025-10-21 | **Last updated:** 2026-08-12  
 *When waiting feels indistinguishable from abandonment.*
 
 ---
@@ -77,4 +77,4 @@ It maps the emotional toll of delayed response and the survival logic of waiting
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-21_
+_Last updated: 2026-08-12_
