@@ -1,5 +1,5 @@
 # 🪢 Contact Dials  
-**First created:** 2025-09-10 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-10 | **Last updated:** 2026-08-12  
 *How behavioural nudges regulate the amount of contact between people by tuning friction, visibility, and affect.*
 
 ---
@@ -96,4 +96,4 @@ It documents how intimacy and distance are manipulated as behavioural levers ins
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_  
+_Last updated: 2026-08-12_  
