@@ -1,5 +1,5 @@
 # ⚙️ High-Friction People and Systemic Mismatch  
-**First created:** 2025-11-08 | **Last updated:** 2026-01-22  
+**First created:** 2025-11-08 | **Last updated:** 2026-08-12  
 *When curiosity meets bureaucracy, sparks are inevitable.*
 
 ---
@@ -96,4 +96,4 @@ It reframes disruptive intelligence as diagnostic signal: evidence that structur
 
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-12_
