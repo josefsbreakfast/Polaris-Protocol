@@ -1,5 +1,5 @@
 # 💄 Let's Play!: Surveillance or Pervert-with-a-Badge?  
-**First created:** 2025-08-28 | **Last updated:** 2025-10-19  
+**First created:** 2025-08-28 | **Last updated:** 2026-08-12  
 *A parlour game that turns spycraft into stalker-craft — and shows how thin the badge line really is!*  
 
 ---
@@ -174,4 +174,4 @@ The badge is the only thing separating “national security” from stalking —
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-12_
