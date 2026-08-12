@@ -1,5 +1,5 @@
 # 🔥 Suppression and Quasi-Suppression  
-**First created:** 2025-09-18 | **Last updated:** 2025-12-25  
+**First created:** 2025-09-18 | **Last updated:** 2026-08-12  
 *How both censorship and scarcity fuel the same rebound effect.*  
 
 ---
@@ -92,4 +92,4 @@ It highlights how stigma and scarcity amplify books as powerfully as direct bans
 
 *What power hides, readers hunt.*  
 
-_Last updated: 2025-12-25_  
+_Last updated: 2026-08-12_  
