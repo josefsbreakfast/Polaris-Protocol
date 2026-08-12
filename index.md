@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 17:39:14 UTC_
+_Generated on 2026-08-12 17:40:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1422,8 +1422,6 @@ _Generated on 2026-08-12 17:39:14 UTC_
             - [`🇸🇭_saint_helena_ascension_and_tristan_da_cunha.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/📍_Postcard_List/🇸🇭_saint_helena_ascension_and_tristan_da_cunha.md)
             - [`🇹🇨_turks_and_caicos_islands.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/📍_Postcard_List/🇹🇨_turks_and_caicos_islands.md)
             - [`🇻🇬_british_virgin_islands.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/📍_Postcard_List/🇻🇬_british_virgin_islands.md)
-          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/README.md)
-          - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/notes.txt)
           - [`🌿_get_some_good_photos_too.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/🌿_get_some_good_photos_too.md)
           - [`🗺️_the_sun_never_sets_on_your_to_do_list.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/🗺️_the_sun_never_sets_on_your_to_do_list.md)
           - [`🚢_big_boat_can_get_more_petrol.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/🚢_big_boat_can_get_more_petrol.md)
@@ -4464,6 +4462,9 @@ _Generated on 2026-08-12 17:39:14 UTC_
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/.🌱_Still_Growing/notes.txt)
       - [**📼_Politicians_Gone_Wild/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/)
+        - [**🛶_Flag_It_Yourself/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/)
+          - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/README.md)
+          - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/notes.txt)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/README.md)
       - [**🙀_Chronically_Online/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/README.md)
