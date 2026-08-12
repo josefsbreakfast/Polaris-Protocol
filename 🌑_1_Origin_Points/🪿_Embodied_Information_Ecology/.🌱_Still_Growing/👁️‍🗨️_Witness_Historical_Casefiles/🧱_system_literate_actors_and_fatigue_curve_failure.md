@@ -1,5 +1,5 @@
 # 🧱 System-literate actors and fatigue-curve failure  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-12  
 *Why some actors do not disengage when institutions expect them to.*
 
 ---
@@ -94,4 +94,4 @@ It documents why some actors persist beyond institutional expectations and how t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-12_
