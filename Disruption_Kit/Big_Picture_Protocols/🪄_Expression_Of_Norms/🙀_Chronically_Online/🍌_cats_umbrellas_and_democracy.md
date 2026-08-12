@@ -1,5 +1,5 @@
 # 🍌 Cats, Umbrellas, and Democracy  
-First created: 2026-06-05 | Last updated: 2026-06-05**  
+First created: 2026-06-05 | Last updated: 2026-08-12  
 How absurdity, affection, shared symbols, and internet-native humour reveal the democratic instability of ordinary human recognition.
 
 ---
@@ -461,4 +461,4 @@ It contributes to the archive by mapping how internet-native symbols, humour, ab
 
 Survivor authorship is sovereign. Containment is never neutral.
 
-_Last updated: 2026-06-05_
+_Last updated: 2026-08-12_
