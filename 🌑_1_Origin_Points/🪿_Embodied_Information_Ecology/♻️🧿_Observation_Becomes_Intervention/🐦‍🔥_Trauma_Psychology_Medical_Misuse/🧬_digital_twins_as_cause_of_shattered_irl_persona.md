@@ -1,5 +1,5 @@
 # 🧬 Digital Twins as Cause of Shattered IRL Persona  
-**First created:** 2025-10-02 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-02 | **Last updated:** 2026-08-12  
 *How digital twins and behavioural mirrors fracture the embodied self, producing depersonalisation as ego defence.*  
 
 ---
@@ -63,4 +63,4 @@ It documents how digital replication feeds back into selfhood, fracturing embodi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-08-12_
