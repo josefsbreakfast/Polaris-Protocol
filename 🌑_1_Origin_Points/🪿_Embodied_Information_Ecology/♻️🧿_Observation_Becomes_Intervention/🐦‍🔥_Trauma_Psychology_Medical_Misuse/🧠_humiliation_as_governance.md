@@ -1,5 +1,5 @@
 # 🧠 Humiliation as Governance  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-27 | **Last updated:** 2026-08-12  
 *Marking and degrading the “other” as a systemic tactic of European governance.*  
 
 ---
@@ -111,4 +111,4 @@ It traces the European lineage of humiliation-marking from medieval badges to Na
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
