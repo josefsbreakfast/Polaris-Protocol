@@ -1,5 +1,5 @@
 # ⛳️ Nudge to Sludge  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-20 | **Last updated:** 2026-08-12  
 *When behavioural science turns coercive: tracing the drift from nudge to sludge in UK governance.*  
 
 ---
@@ -67,4 +67,4 @@ It contributes to the **HM Dept Coercive Nudges** cluster by tracing how soft be
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-12_
