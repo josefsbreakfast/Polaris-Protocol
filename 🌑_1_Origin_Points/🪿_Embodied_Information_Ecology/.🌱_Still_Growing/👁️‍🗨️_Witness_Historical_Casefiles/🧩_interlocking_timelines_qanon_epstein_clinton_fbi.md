@@ -1,5 +1,5 @@
 # 🧩 Interlocking Timelines: QAnon / Epstein / Clinton–FBI  
-**First created:** 2025-10-05 | **First created:** 2025-10-15  
+**First created:** 2025-10-05 | **First created:** 2026-08-12  
 *Parallel chronologies of three entangled event streams (2015–2019).*
 
 ---
@@ -60,4 +60,4 @@ It charts the chronological convergence of institutional crisis, conspiracy prol
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-08-12_
