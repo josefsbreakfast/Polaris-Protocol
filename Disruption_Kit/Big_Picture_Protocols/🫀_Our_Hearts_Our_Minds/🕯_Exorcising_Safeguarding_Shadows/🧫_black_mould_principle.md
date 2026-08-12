@@ -1,5 +1,5 @@
 # 🧫 Black Mould Principle  
-**First created:** 2025-09-21 | **Last updated:** 2026-02-19  
+**First created:** 2025-09-21 | **Last updated:** 2026-08-12  
 *Why cosmetic fixes in safeguarding governance are equivalent to painting over black mould.*  
 
 ---
@@ -71,4 +71,4 @@ It sets out why cosmetic fixes in safeguarding are equivalent to painting over b
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-12_
