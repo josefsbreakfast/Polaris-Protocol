@@ -1,5 +1,5 @@
 # ☕️🫖 *Extremely Good for Morale*  
-**First created:** 2025-10-30 | **Last updated:** 2025-10-30  
+**First created:** 2025-10-30 | **Last updated:** 2026-08-12  
 *A love story about data integrity, plausible deniability, and the great British gift for distraction.*
 
 ---
@@ -89,4 +89,4 @@ It records the way a country turns scandal into comfort, and how affection—pub
 
 *Survivor authorship is sovereign.  Containment is never neutral.*  
 
-_Last updated: 2025-10-30_
+_Last updated: 2026-08-12_
