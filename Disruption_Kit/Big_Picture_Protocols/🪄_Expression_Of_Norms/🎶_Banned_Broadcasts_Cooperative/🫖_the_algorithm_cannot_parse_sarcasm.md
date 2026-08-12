@@ -1,5 +1,5 @@
 # 🫖 The Algorithm Cannot Parse Sarcasm  
-**First created:** 2025-11-17 | **Last updated:** 2025-11-17  
+**First created:** 2025-11-17 | **Last updated:** 2026-08-12  
 *Sarcasm as a cultural code the model cannot decode.*
 
 ---
@@ -64,4 +64,4 @@ It shows how British sarcasm destabilises literalist models.
 > - [Narrative Management](../../📚_Narrative_Management/)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-11-17_
+_Last updated: 2026-08-12_
