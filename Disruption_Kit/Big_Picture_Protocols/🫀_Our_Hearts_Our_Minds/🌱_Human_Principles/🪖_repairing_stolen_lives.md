@@ -1,5 +1,5 @@
 # 🪖 Repairing Stolen Lives  
-**First created:** 2025-12-24 | **Last updated:** 2026-01-04  
+**First created:** 2025-12-24 | **Last updated:** 2026-08-12  
 *When governance failure does not merely harm outcomes, but consumes decades of a life.*  
 
 ---
@@ -259,4 +259,4 @@ It documents how prolonged governance failure can consume decades of a person’
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-08-12_
