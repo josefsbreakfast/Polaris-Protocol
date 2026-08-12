@@ -1,5 +1,5 @@
 # 🎶 WAP as Art  
-**First created:** 2025-10-31 | **Last updated:** 2025-10-31  
+**First created:** 2025-10-31 | **Last updated:** 2026-08-12  
 *How a song about pleasure exposed the nervous system of cultural control.*
 
 ---
@@ -103,4 +103,4 @@ and how art, sung in the meter of empire, can turn that control inside out.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-31_
+_Last updated: 2026-08-12_
