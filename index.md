@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 10:51:11 UTC_
+_Generated on 2026-08-12 10:55:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1652,16 +1652,6 @@ _Generated on 2026-08-12 10:51:11 UTC_
         - [`🪹_it_is_not_ai_by_itself.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪹_it_is_not_ai_by_itself.md)
         - [`🫀_duty_of_care_reframed_as_reputational_risk.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🫀_duty_of_care_reframed_as_reputational_risk.md)
       - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/)
-        - [**audit_legal/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
-          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_legal/README.md)
-          - [`🧵_paper_as_containment_audit.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_legal/🧵_paper_as_containment_audit.md)
-        - [**audit_token_integrity/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/)
-          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/README.md)
-          - [`📊_sample_reporting_table.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/📊_sample_reporting_table.md)
-          - [`📚_references.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/📚_references.md)
-          - [`🧾_token_integrity_audit_template.yaml`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/🧾_token_integrity_audit_template.yaml)
-          - [`🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md)
-          - [`🪙_token_integrity_audit_overview.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/🪙_token_integrity_audit_overview.md)
         - [**audit_token_switching/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_switching/)
           - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_switching/README.md)
           - [`⚰️_death_review_integrity_audit.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/audit_token_switching/⚰️_death_review_integrity_audit.md)
@@ -4378,6 +4368,17 @@ _Generated on 2026-08-12 10:51:11 UTC_
     - [**♻️🧿_Observation_Becomes_Intervention/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/.🌱_Still_Growing/notes.txt)
+      - [**🕯_Exorcising_Safeguarding_Shadows/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/)
+        - [**audit_legal/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
+          - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_legal/README.md)
+          - [`🧵_paper_as_containment_audit.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_legal/🧵_paper_as_containment_audit.md)
+        - [**audit_token_integrity/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/)
+          - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/README.md)
+          - [`📊_sample_reporting_table.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/📊_sample_reporting_table.md)
+          - [`📚_references.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/📚_references.md)
+          - [`🧾_token_integrity_audit_template.yaml`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/🧾_token_integrity_audit_template.yaml)
+          - [`🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/🪙_token_integrity_audit_how_to_check_for_pseudonym_drift.md)
+          - [`🪙_token_integrity_audit_overview.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_token_integrity/🪙_token_integrity_audit_overview.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/notes.txt)
     - [**🐣_The_Whole_Ecology/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/)
