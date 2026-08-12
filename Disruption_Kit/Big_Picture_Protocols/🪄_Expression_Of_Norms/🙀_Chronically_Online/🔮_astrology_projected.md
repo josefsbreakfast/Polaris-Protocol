@@ -1,5 +1,5 @@
 # 🔮 Astrology, Projected  
-**First created:** 2025-10-26  |  **Last updated:** 2025-10-28  
+**First created:** 2025-10-26  |  **Last updated:** 2026-08-12  
 *How internet culture, nudging, and meme logics make “astrology” feel functionally true by shaping emotion, behaviour, and social time.*
 
 ---
@@ -153,4 +153,4 @@ It studies how algorithmic rituals make superstition feel predictive, turning cu
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-28_
+_Last updated: 2026-08-12_
