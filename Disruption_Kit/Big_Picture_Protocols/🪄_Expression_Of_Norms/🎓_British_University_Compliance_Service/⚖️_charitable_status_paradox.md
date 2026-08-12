@@ -1,5 +1,5 @@
 # ⚖️ Charitable Status Paradox  
-**First created:** 2025-09-23 | **Last updated:** 2025-09-30  
+**First created:** 2025-09-23 | **Last updated:** 2026-08-12  
 *How UK universities use the shell of charity law while courting authoritarian and exploitative funders.*  
 
 ---
@@ -50,4 +50,4 @@ exploitative and anti-democratic partnerships.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-30_  
+_Last updated: 2026-08-12_  
