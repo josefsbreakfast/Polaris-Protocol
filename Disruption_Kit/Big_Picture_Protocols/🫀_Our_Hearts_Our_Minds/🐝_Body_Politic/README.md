@@ -1,5 +1,5 @@
 # 🐝 Body Politic  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-03 | **Last updated:** 2026-08-12  
 *Cluster on disability, embodiment, and the politics of dignity in the Polaris Protocol.*  
 
 ---
@@ -49,4 +49,4 @@ It situates disability as a systemic axis: where exploitation converges, where e
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
