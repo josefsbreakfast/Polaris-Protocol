@@ -1,5 +1,5 @@
 # 🦎 Basking While the World Is Burning  
-**First created:** 2026-01-12 | **Last updated:** 2026-01-22  
+**First created:** 2026-01-12 | **Last updated:** 2026-08-12  
 *Staying alive, sane, and human when systems reward noise, urgency, and self-sacrifice.*  
 
 ---
@@ -229,4 +229,4 @@ It affirms rest, discernment, and embodied presence as legitimate responses to o
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-12_
