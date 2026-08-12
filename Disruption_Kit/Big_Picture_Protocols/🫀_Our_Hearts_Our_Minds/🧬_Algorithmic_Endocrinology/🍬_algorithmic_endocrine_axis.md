@@ -1,5 +1,5 @@
 # 🍬 Algorithmic Endocrine Axis  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-27  
+**First created:** 2025-10-24 | **Last updated:** 2026-08-12  
 *How engagement design maps onto the body’s hormonal control loops.*
 
 ---
@@ -134,4 +134,4 @@ It documents the biochemical mechanisms through which algorithms influence metab
 > 📡 Cross-references: *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-27_
+_Last updated: 2026-08-12_
