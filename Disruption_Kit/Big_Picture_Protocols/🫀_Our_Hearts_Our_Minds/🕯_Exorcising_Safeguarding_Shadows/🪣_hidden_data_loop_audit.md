@@ -1,5 +1,5 @@
 # 🪣 Hidden Data-Loop Audit  
-**First created:** 2025-10-06 | **Last updated:** 2026-02-19  
+**First created:** 2025-10-06 | **Last updated:** 2026-08-12  
 *Guide for recognising when cross-system data translation or identifier errors create invisible feedback loops that damage individual records.*  
 
 ---
@@ -88,4 +88,4 @@ It helps individuals and investigators recognise the symptoms of cross-system tr
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-12_
