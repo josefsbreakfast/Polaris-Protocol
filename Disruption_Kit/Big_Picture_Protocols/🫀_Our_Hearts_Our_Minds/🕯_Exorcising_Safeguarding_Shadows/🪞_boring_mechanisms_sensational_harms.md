@@ -1,5 +1,5 @@
 # 🪞 Boring Mechanisms, Sensational Harms  
-**First created:** 2025-10-05 | **Last Updated:** 2026-02-19  
+**First created:** 2025-10-05 | **Last Updated:** 2026-08-12  
 *A conceptual node on how sensational narratives obscure the slow, procedural operations of real harm.*  
 
 ---
@@ -75,4 +75,4 @@ It examines how sensationalised narratives clone real harms, divert attention, a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-12_
