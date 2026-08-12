@@ -1,5 +1,5 @@
 # 🃏 The Fool Protocol — AI Ethics Through Tarot  
-**First created:** 2025-11-05 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-05 | **Last updated:** 2026-08-12  
 *Using the 22 Major Arcana as a human-based curriculum for teaching AI what logic alone cannot hold.*
 
 ---
@@ -110,4 +110,4 @@ teaching systems to recognise consequence, care, and humility before scale.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-08-12_
