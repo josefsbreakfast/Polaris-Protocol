@@ -1,5 +1,5 @@
 # ⚖️ Audit + Legal Framework — Exorcising Safeguarding Shadows  
-**First created:** 2025-10-04  |  **Last updated:** 2025-10-15  
+**First created:** 2025-10-04  |  **Last updated:** 2026-08-12  
 *A technical sub-ledger translating safeguarding critique into verifiable audit and legal instruments.*
 
 ---
