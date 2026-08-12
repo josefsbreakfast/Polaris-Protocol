@@ -1,5 +1,5 @@
 # 🐦 The Canaries Are Still Singing  
-**First created:** 2025-12-23 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-23 | **Last updated:** 2026-08-12  
 *Why the people you’re least inclined to listen to may be the ones who can help most.*
 
 ---
@@ -134,4 +134,4 @@ It exists to translate lived experience into collective protection.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-08-12_
