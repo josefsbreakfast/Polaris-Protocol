@@ -1,5 +1,5 @@
 # 😴 Millennial Exhaustion as a Political Condition  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-17 | **Last updated:** 2026-08-12  
 *How a generation raised under permanent crisis became too tired to revolt, too traumatised to trust stability, and permanently convinced every building should be housing.*  
 
 ---
@@ -201,4 +201,4 @@ It contributes to the **Big Picture Protocols** cluster by tracing generational 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-12_
