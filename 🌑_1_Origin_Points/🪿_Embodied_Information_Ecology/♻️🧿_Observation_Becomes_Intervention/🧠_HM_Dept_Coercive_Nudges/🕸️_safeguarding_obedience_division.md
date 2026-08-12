@@ -1,5 +1,5 @@
 # 🕸️ Safeguarding Obedience Division  
-**First created:** 2025-08-03 | **Last updated:** 2025-10-19  
+**First created:** 2025-08-03 | **Last updated:** 2026-08-12  
 *How “support” becomes surveillance, and “care” becomes containment.*  
 
 ---
@@ -149,5 +149,5 @@ This file documents how safeguarding rhetoric is redeployed as a mechanism of co
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-10-19_  
+_Last updated: 2026-08-12_  
 
