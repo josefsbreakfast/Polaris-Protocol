@@ -1,5 +1,5 @@
 # ➰ Re-Justification Loop — Racial Logics Reborn as Safety  
-**First created:** 2025-10-06  |  **Last updated:** 2025-10-19  
+**First created:** 2025-10-06  |  **Last updated:** 2026-08-12  
 *How racial hierarchies return through the moral vocabulary of safety, civility, and risk management.*
 
 ---
@@ -85,4 +85,4 @@ It documents how racial hierarchies reappear under the banner of safety, transla
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_  
+_Last updated: 2026-08-12_  
