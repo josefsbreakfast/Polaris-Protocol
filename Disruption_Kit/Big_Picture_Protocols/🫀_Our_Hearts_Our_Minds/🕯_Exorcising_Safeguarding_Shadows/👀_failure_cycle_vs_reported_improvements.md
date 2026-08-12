@@ -1,5 +1,5 @@
 # 👀 Failure Cycle vs. Reported Improvements  
-**First created:** 2025-09-21 | **Last updated:** 2026-02-19  
+**First created:** 2025-09-21 | **Last updated:** 2026-08-12  
 *Diagnostic node mapping the recurring exploitation failure cycle against Newcastle’s reported reforms.*  
 
 ---
@@ -93,4 +93,4 @@ It maps how official reports of progress in Newcastle sit within a national patt
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-12_
