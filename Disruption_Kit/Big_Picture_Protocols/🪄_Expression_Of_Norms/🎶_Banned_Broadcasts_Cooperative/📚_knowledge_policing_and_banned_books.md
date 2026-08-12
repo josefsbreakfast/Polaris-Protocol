@@ -1,5 +1,5 @@
 # 📚 Knowledge Policing and Banned Books  
-**First created:** 2025-09-15 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-15 | **Last updated:** 2026-08-12  
 *DIY manuals treated as subversive while extremist arsenals slide through unremarked.*  
 
 ---
@@ -78,4 +78,4 @@ It documents how states criminalise DIY manuals while ignoring extremist arsenal
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2026-08-12_  
