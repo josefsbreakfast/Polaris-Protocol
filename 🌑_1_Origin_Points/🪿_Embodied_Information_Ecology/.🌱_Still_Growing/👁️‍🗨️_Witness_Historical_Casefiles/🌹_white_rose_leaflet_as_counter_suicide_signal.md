@@ -1,5 +1,5 @@
 # 🌹 White Rose Leaflet as Counter-Suicide Signal
-**First created:** 2025-11-03 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-03 | **Last updated:** 2026-08-12  
 *When a pamphlet became the refusal to die silently.*
 
 ---
@@ -64,4 +64,4 @@ It records how a small act of writing became a model for voice fidelity under to
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-08-12_
