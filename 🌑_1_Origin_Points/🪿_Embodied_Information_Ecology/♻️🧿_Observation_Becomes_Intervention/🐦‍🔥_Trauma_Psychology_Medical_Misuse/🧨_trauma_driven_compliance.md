@@ -1,5 +1,5 @@
 # 🧨 Trauma-Driven Compliance — When the Nervous System Says “Yes” to Stay Alive  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-12  
 *Compliance under trauma is not agreement. It is a survival algorithm executed under conditions of threat, exhaustion, and overwhelm.*  
 
 ---
@@ -242,4 +242,4 @@ It provides structural explanations for why survivors comply under stress and ho
 
 *Survivor authorship is sovereign. Compliance under threat is survival, not consent.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-12_
