@@ -1,5 +1,5 @@
 # 🫀 Yes, STEM Needs Humanities  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-06  
+**First created:** 2025-10-04 | **Last updated:** 2026-08-12  
 *Admitting we need the humanities — because science without conscience loops back to Nuremberg.*
 
 ---
@@ -65,4 +65,4 @@ It situates the British University Compliance Service as a warning system — a 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2026-08-12_
