@@ -1,5 +1,5 @@
 # 🕸️ Governance and Mitigation: Token Switching  
-**First created:** 2025-09-30 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-12  
 *For leadership, compliance, and procurement.*  
 
 ---
@@ -43,4 +43,4 @@ It translates technical audit findings into governance and procurement safeguard
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
