@@ -1,5 +1,5 @@
 # 🧬 Brains Are Not Flowcharts  
-**First created:** 2025-09-10 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-10 | **Last updated:** 2026-08-12  
 *Why behavioural-psych simplifications mislead, and how survivor symptomatology exposes the messiness of the brain.*  
 
 ---
@@ -219,4 +219,4 @@ It documents how survivor experience and anatomical messiness destabilise behavi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
