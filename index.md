@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 11:40:53 UTC_
+_Generated on 2026-08-12 11:45:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1518,9 +1518,6 @@ _Generated on 2026-08-12 11:40:53 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🐝_Body_Politic/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/)
-        - [`🗣️_capture_and_reclamation_of_language.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗣️_capture_and_reclamation_of_language.md)
-        - [`😴_millennial_exhaustion_as_a_political_condition.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/😴_millennial_exhaustion_as_a_political_condition.md)
-        - [`🛠️_disabled_design_benefits_you_too.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🛠️_disabled_design_benefits_you_too.md)
         - [`🦆_she_weighs_the_same_as_a_duck.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦆_she_weighs_the_same_as_a_duck.md)
         - [`🦴_anatomy_of_male_emotional_starvation.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦴_anatomy_of_male_emotional_starvation.md)
         - [`🦿_eugenics_as_everyday_metaphor.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦿_eugenics_as_everyday_metaphor.md)
@@ -4490,6 +4487,9 @@ _Generated on 2026-08-12 11:40:53 UTC_
         - [`🔮_archetype_of_the_uncooperative_woman.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🔮_archetype_of_the_uncooperative_woman.md)
         - [`🕯️_the_ethics_of_refusal_in_austerity_states.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🕯️_the_ethics_of_refusal_in_austerity_states.md)
         - [`🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md)
+        - [`🗣️_capture_and_reclamation_of_language.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🗣️_capture_and_reclamation_of_language.md)
+        - [`😴_millennial_exhaustion_as_a_political_condition.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/😴_millennial_exhaustion_as_a_political_condition.md)
+        - [`🛠️_disabled_design_benefits_you_too.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🛠️_disabled_design_benefits_you_too.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/notes.txt)
     - [**🫀♻️_The_Body_In_The_Loop/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/)
