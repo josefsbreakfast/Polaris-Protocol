@@ -1,5 +1,5 @@
 # 🧬 Shadow Audit Trails  
-**First created:** 2025-09-21 | **Last updated:** 2026-02-19  
+**First created:** 2025-09-21 | **Last updated:** 2026-08-12  
 *Asystematic but repeated patterns of report manipulation that evade central audits.*  
 
 ---
@@ -75,4 +75,4 @@ It documents how asystematic but repeated manipulations of inquiry reports evade
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-12_
