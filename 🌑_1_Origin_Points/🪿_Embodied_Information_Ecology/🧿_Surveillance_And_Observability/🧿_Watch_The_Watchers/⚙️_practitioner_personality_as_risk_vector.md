@@ -1,6 +1,5 @@
-# ⚙️ Practitioner Personality as Risk Vector
-
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
+# ⚙️ Practitioner Personality as Risk Vector  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-12  
 *Why Prevent and safeguarding referrals track practitioner psychology more than objective risk.*
 
 ---
@@ -122,4 +121,4 @@ practitioner psychology, referral bias, prevent implementation, authority orient
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+*Last updated: 2026-08-12*
