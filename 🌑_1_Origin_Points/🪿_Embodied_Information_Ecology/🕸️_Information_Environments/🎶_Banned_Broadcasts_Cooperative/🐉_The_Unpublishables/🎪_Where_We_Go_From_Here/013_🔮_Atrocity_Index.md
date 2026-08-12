@@ -1,5 +1,5 @@
 # 🔮 Atrocity-Recurrence Index (Map)
-**First created:** 2025-10-08  |  **Last updated:** 2025-10-18  
+**First created:** 2025-10-08  |  **Last updated:** 2026-08-12  
 *A living constellation map of recurrence: tracing how inequality, language, theology, and digital design re-align toward violence—and how resistance interrupts that orbit.*
 
 ---
