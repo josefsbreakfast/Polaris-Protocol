@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 08:14:54 UTC_
+_Generated on 2026-08-12 08:16:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -496,6 +496,7 @@ _Generated on 2026-08-12 08:14:54 UTC_
         - [`🪑_committee_red.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/🪑_committee_red.md)
       - [**🛡️_Defending_Realms/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/notes.txt)
         - [`☢️_polaris_trident_now_what.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/☢️_polaris_trident_now_what.md)
         - [`⚓️_holding_arms.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚓️_holding_arms.md)
         - [`⚖️_defend_forward_and_sovereign_cyber_response_ladder.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛡️_Defending_Realms/⚖️_defend_forward_and_sovereign_cyber_response_ladder.md)
