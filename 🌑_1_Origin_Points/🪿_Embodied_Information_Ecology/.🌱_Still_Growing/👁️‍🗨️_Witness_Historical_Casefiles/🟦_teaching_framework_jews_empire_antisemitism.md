@@ -1,5 +1,5 @@
 # 🟦 Teaching Framework: Jews, Empire, and Antisemitism  
-**First created:** 2025-09-06 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-06 | **Last updated:** 2026-08-12  
 *Pedagogical framework for teaching antisemitism within empire, centring Sephardi, Mizrahi, Baghdadi, and Desi Jewish histories.*
 
 ---
@@ -87,4 +87,4 @@ It provides a pedagogical scaffold and witness record of Jewish entanglements in
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
