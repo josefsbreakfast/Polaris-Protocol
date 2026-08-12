@@ -1,5 +1,5 @@
 # 📚 How to Find Muted Volumes, for Return to the Cemetery of Forgotten Books  
-**First created:** 2025-09-17 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-17 | **Last updated:** 2026-08-12  
 *Replicable protocol for checking whether a trade title has been published and then effectively muted (plausible-deniability suppression vs natural obscurity).*  
 
 ---
@@ -168,4 +168,4 @@ muted books, cemetery of forgotten books, metadata suppression, discoverability 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2026-08-12_  
