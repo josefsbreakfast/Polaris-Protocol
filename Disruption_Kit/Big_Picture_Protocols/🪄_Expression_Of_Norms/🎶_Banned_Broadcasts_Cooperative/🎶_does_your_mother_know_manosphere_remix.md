@@ -1,5 +1,5 @@
 # 🎶 Does Your Mother Know — Manosphere Remix  
-**First created:** 2026-04-26 | **Last updated:** 2026-04-26  
+**First created:** 2026-04-26 | **Last updated:** 2026-08-12  
 *A cultural remix node examining how a 1979 pop song challenges modern narratives around age, power, and “natural” male behaviour.*
 
 ---
@@ -195,4 +195,4 @@ It uses a widely recognised cultural artifact to demonstrate that expectations o
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-26_
+_Last updated: 2026-08-12_
