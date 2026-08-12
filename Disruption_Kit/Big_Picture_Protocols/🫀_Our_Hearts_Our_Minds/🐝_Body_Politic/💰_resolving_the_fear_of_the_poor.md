@@ -1,5 +1,5 @@
 # 💰 Resolving the Fear of the Poor — Class Anxiety as Design Logic  
-**First created:** 2025-10-14 | **Last updated:** 2025-10-21  
+**First created:** 2025-10-14 | **Last updated:** 2026-08-12  
 *On the reflexive anxiety of wealth toward the visibility of need.*
 
 ---
@@ -120,4 +120,4 @@ It examines class fear as a structural design principle — the emotional archit
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-21_
+_Last updated: 2026-08-12_
