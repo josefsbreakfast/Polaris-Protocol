@@ -1,5 +1,5 @@
 # 🕍 Shared Language for Shared Warnings — Why Atrocity Comparison Matters  
-**First created:** 2025-11-13 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-13 | **Last updated:** 2026-08-12  
 *How to talk about atrocity patterns without retraumatising Jewish communities — and without shutting down the analysis needed to prevent future violence.*  
 
 ## 🛰️ Orientation
@@ -107,4 +107,4 @@ ihra, jda, antisemitism, trauma-informed ethics, atrocity comparison, genocide p
 It restores the distinction between trauma protection and the analytic freedom required for genocide recognition and prevention.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-12_
