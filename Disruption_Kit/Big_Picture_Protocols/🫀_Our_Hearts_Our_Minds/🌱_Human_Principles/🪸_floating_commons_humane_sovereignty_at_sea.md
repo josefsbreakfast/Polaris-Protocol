@@ -1,5 +1,5 @@
 # 🪸 Floating Commons — Humane Sovereignty at Sea  
-**First created:** 2025-11-07 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-12  
 *Why ethical oceanic commons must be designed for consent and accountability — not escape from consequence.*  
 
 ---
@@ -173,4 +173,4 @@ It distinguishes ethical maritime commons from historical and contemporary escap
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-08-12_
