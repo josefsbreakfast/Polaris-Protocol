@@ -1,5 +1,5 @@
 # 🧠 AI Ethicswash  
-**First created:** 2025-11-03 | **Last updated:** 2025-12-29  
+**First created:** 2025-11-03 | **Last updated:** 2026-08-12  
 *How “ethical AI” rhetoric launders reputations and conceals extraction.*  
 
 ---
@@ -53,4 +53,4 @@ It traces how “responsibility” language can serve as camouflage for extracti
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_  
+_Last updated: 2026-08-12_  
