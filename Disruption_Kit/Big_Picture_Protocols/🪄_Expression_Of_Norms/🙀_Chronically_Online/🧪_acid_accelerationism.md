@@ -1,6 +1,6 @@
 # 🧪 Acid Accelerationism  
 
-First created: 2026-04-09 | Last updated: 2026-04-09  
+First created: 2026-04-09 | Last updated: 2026-08-12  
 Perceptual distortion and systemic instability under accelerated conditions  
 
 ---
@@ -154,4 +154,4 @@ accelerationism, perceptual distortion, time compression, systemic instability, 
 
 Survivor authorship is sovereign. Containment is never neutral.  
 
-_Last updated: 2026-04-09_
+_Last updated: 2026-08-12_
