@@ -1,5 +1,5 @@
 # 👚 Big on the Internet Loop  
-**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-26 | **Last updated:** 2026-08-12  
 *How niche visibility cycles between irony, legitimacy, and relief — and why that’s the healthiest place to land.*  
 
 ---
@@ -136,4 +136,4 @@ It documents how humour preserves scale, how irony protects authorship, and why 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-08-12_
