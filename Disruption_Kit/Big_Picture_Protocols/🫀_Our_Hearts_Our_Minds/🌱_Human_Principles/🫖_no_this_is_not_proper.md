@@ -1,5 +1,5 @@
 # 🫖 No, This Is Not Proper  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-04 | **Last updated:** 2026-08-12  
 *On the bureaucratic ethics of refusal and the civility that keeps the archive alive.*  
 
 ---
@@ -76,4 +76,4 @@ It studies the cultural mechanics of British refusal — how civility, paperwork
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-08-12_
