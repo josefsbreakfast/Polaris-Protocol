@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 11:39:40 UTC_
+_Generated on 2026-08-12 11:40:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1518,7 +1518,6 @@ _Generated on 2026-08-12 11:39:40 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🐝_Body_Politic/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/)
-        - [`🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md)
         - [`🗣️_capture_and_reclamation_of_language.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗣️_capture_and_reclamation_of_language.md)
         - [`😴_millennial_exhaustion_as_a_political_condition.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/😴_millennial_exhaustion_as_a_political_condition.md)
         - [`🛠️_disabled_design_benefits_you_too.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🛠️_disabled_design_benefits_you_too.md)
@@ -4490,6 +4489,7 @@ _Generated on 2026-08-12 11:39:40 UTC_
         - [`🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🔧_how_fascist_groomers_reverse_engineer_emotional_needs.md)
         - [`🔮_archetype_of_the_uncooperative_woman.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🔮_archetype_of_the_uncooperative_woman.md)
         - [`🕯️_the_ethics_of_refusal_in_austerity_states.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🕯️_the_ethics_of_refusal_in_austerity_states.md)
+        - [`🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/notes.txt)
     - [**🫀♻️_The_Body_In_The_Loop/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/)
