@@ -1,5 +1,5 @@
 # 🪞 Erosion of Duty of Care  
-**First created:** 2025-10-23 | **Last updated:** 2025-11-12  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-12  
 *How institutions reword responsibility until nothing remains.*
 
 ---
@@ -70,4 +70,4 @@ It documents how duty dissolved into compliance and how restoration requires mor
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-08-12_
