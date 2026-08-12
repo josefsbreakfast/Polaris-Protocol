@@ -1,5 +1,5 @@
 # 🎶 Pirate Radio as Policed Resistance  
-**First created:** 2025-09-15 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-15 | **Last updated:** 2026-08-12  
 *How Black and working-class sound cultures are criminalised, contained, and later sanitised for profit.*  
 
 ---
@@ -118,4 +118,4 @@ It maps how states and corporations criminalise community sound systems while la
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2026-08-12_  
