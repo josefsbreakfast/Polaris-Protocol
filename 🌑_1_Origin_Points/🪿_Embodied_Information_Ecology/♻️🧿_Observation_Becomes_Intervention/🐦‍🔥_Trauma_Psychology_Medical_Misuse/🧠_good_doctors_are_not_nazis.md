@@ -1,5 +1,5 @@
 # 🧠 Good Doctors Are Not Nazis  
-**First created:** 2025-08-26 | **Last updated:** 2025-10-15  
+**First created:** 2025-08-26 | **Last updated:** 2026-08-12  
 *Why medical ethics and state surveillance cannot coexist.*  
 
 ---
@@ -76,4 +76,4 @@ It documents the ethical line breached when medical practice is co-opted into se
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
