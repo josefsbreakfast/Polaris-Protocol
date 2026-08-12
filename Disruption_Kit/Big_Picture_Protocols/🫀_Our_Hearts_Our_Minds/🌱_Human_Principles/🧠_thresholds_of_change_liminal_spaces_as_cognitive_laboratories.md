@@ -1,5 +1,5 @@
 # 🧠 Thresholds of Change — Liminal Spaces as Cognitive Laboratories  
-**First created:** 2025-10-26 | **Last updated:** 2025-12-13  
+**First created:** 2025-10-26 | **Last updated:** 2026-08-12  
 *Integrating neuroscience of transition with survivor theory and institutional metamorphosis.*  
 
 ---
@@ -51,4 +51,4 @@ and cross-links to system and norm clusters exploring institutional pause and tr
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-08-12_
