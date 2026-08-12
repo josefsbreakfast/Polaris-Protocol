@@ -1,5 +1,5 @@
 # 💘 Agent Boon & the Machine  
-**First created:** 2025-11-10 | **Last updated:** 2025-11-10  
+**First created:** 2025-11-10 | **Last updated:** 2026-08-12  
 *A BBC-style spy-rom-com about bureaucratic affection and algorithmic enthusiasm.*
 
 ---
@@ -81,4 +81,4 @@ It extends the *MI-8 & Boon* continuity through humour, ethics, and the limits o
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-10_
+_Last updated: 2026-08-12_
