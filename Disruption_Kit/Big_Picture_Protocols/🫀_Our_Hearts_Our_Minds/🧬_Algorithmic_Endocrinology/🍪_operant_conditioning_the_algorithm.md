@@ -1,5 +1,5 @@
 # 🍪 Operant Conditioning the Algorithm  
-**First created:** 2025-11-07 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-12  
 *How platforms and users jointly train algorithms through reward, punishment, and deprivation loops.*  
 
 ---
@@ -170,4 +170,4 @@ It documents how reinforcement dynamics shape algorithmic behaviour and human ex
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-08-12_
