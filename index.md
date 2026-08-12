@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 08:54:55 UTC_
+_Generated on 2026-08-12 08:58:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4521,6 +4521,7 @@ _Generated on 2026-08-12 08:54:55 UTC_
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/.🌱_Still_Growing/notes.txt)
       - [**🫁_Holistic_Health_In_Surveillant_Societies/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/🫁_Holistic_Health_In_Surveillant_Societies/)
+        - [`🧠_residual_attentional_conditioning_injury.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/🫁_Holistic_Health_In_Surveillant_Societies/🧠_residual_attentional_conditioning_injury.md)
         - [`🧠_the_background_terror.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/🫁_Holistic_Health_In_Surveillant_Societies/🧠_the_background_terror.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/notes.txt)
@@ -4538,7 +4539,6 @@ _Generated on 2026-08-12 08:54:55 UTC_
       - [`🦅_overstimulated_prey_response.md`](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/🦅_overstimulated_prey_response.md)
       - [`🧠_context_deprivation_effect.md`](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/🧠_context_deprivation_effect.md)
       - [`🧠_cumulative_surveillance_burden.md`](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/🧠_cumulative_surveillance_burden.md)
-      - [`🧠_residual_attentional_conditioning_injury.md`](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/🧠_residual_attentional_conditioning_injury.md)
     - [`README.md`](🌑_1_Origin_Points/🫀_Body_Matters/README.md)
   - [`README.md`](🌑_1_Origin_Points/README.md)
 - [**🌒_2_Signs_Symptoms/**](🌒_2_Signs_Symptoms/)
