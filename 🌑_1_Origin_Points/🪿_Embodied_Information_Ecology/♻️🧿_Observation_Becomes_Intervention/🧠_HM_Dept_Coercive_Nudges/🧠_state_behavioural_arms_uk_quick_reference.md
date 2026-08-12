@@ -1,5 +1,5 @@
 # 🧠 State Behavioural Arms — UK (Quick Reference)  
-**First created:** 2025-10-05 | **Last updated:** 2025-10-13  
+**First created:** 2025-10-05 | **Last updated:** 2026-08-12  
 *A working list of UK agencies and programmes using behavioural science or psychological methods in covert, security, or governance contexts.*  
 
 ---
@@ -51,4 +51,4 @@ It indexes the key UK agencies embedding behavioural science within security and
 > - [🐦‍🔥 Trauma, Psychology, and Medical Misuse](../🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md)  
 > - [🧠 HM Dept Coercive Nudges](./README.md)  
 
-_Last updated: 2025-10-13_
+_Last updated: 2026-08-12_
