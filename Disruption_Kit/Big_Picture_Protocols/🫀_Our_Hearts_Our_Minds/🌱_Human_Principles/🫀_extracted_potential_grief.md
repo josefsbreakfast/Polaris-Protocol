@@ -1,5 +1,5 @@
 # 🫀 Extracted Potential Grief  
-**First created:** 2025-12-14 | **Last updated:** 2026-02-20  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-12  
 *The heartbreak of recognising how much human capacity is deliberately throttled under surveillance capital extraction.*  
 <!--We are not fully people to them, but we are people.-->
 ---
@@ -135,4 +135,4 @@ It documents an affective consequence of surveillance and extraction systems tha
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-08-12_
