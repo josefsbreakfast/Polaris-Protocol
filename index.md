@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 21:57:42 UTC_
+_Generated on 2026-08-12 22:14:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1212,14 +1212,6 @@ _Generated on 2026-08-12 21:57:42 UTC_
     - [**🪄_Expression_Of_Norms/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
       - [**🎓_British_University_Compliance_Service/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/)
         - [**compliance_audit/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/)
-          - [`🎓_BUCS_league_table_data_entry_template.csv`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_BUCS_league_table_data_entry_template.csv)
-          - [`🎓_anglia_ruskin_university_cambridge_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_anglia_ruskin_university_cambridge_compliance_profile.md)
-          - [`🎓_aston_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_aston_university_compliance_profile.md)
-          - [`🎓_birmingham_city_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_birmingham_city_university_compliance_profile.md)
-          - [`🎓_brunel_university_london_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_brunel_university_london_compliance_profile.md)
-          - [`🎓_cardiff_metropolitan_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_cardiff_metropolitan_university_compliance_profile.md)
-          - [`🎓_cardiff_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_cardiff_university_compliance_profile.md)
-          - [`🎓_city_university_of_london_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_city_university_of_london_compliance_profile.md)
           - [`🎓_coventry_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_coventry_university_compliance_profile.md)
           - [`🎓_edinburgh_napier_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_edinburgh_napier_university_compliance_profile.md)
           - [`🎓_glasgow_caledonian_university_compliance_profile.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/🎓_glasgow_caledonian_university_compliance_profile.md)
@@ -3931,6 +3923,14 @@ _Generated on 2026-08-12 21:57:42 UTC_
       - [**🎓_British_University_Compliance_Service/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/)
         - [**compliance_audit/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/)
           - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/README.md)
+          - [`🎓_BUCS_league_table_data_entry_template.csv`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/🎓_BUCS_league_table_data_entry_template.csv)
+          - [`🎓_anglia_ruskin_university_cambridge_compliance_profile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/🎓_anglia_ruskin_university_cambridge_compliance_profile.md)
+          - [`🎓_aston_university_compliance_profile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/🎓_aston_university_compliance_profile.md)
+          - [`🎓_birmingham_city_university_compliance_profile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/🎓_birmingham_city_university_compliance_profile.md)
+          - [`🎓_brunel_university_london_compliance_profile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/🎓_brunel_university_london_compliance_profile.md)
+          - [`🎓_cardiff_metropolitan_university_compliance_profile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/🎓_cardiff_metropolitan_university_compliance_profile.md)
+          - [`🎓_cardiff_university_compliance_profile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/🎓_cardiff_university_compliance_profile.md)
+          - [`🎓_city_university_of_london_compliance_profile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/🎓_city_university_of_london_compliance_profile.md)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/README.md)
         - [`post_CCRU_diaspora_network_diagram.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/post_CCRU_diaspora_network_diagram.png)
         - [`⚖️_charitable_status_paradox.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/⚖️_charitable_status_paradox.md)
