@@ -1,5 +1,5 @@
 # 🦴 The Anatomy of Male Emotional Starvation  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-12   
 *A map of how cultural, familial, and algorithmic systems deprive boys and men of emotional nourishment — and why this deprivation fuels radicalisation, shame, and loneliness.*  
 
 ---
@@ -257,4 +257,4 @@ It maps the structural deprivation of emotional nourishment experienced by men a
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-12_
