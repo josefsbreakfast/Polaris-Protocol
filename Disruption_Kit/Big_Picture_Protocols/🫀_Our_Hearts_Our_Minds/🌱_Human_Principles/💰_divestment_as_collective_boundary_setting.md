@@ -1,5 +1,5 @@
 # 💰 Ethics of Withdrawal — Divestment as Collective Boundary-Setting  
-**First created:** 2025-10-20 | **Last updated:** 2025-12-09  
+**First created:** 2025-10-20 | **Last updated:** 2026-08-12  
 *The moral geometry of stepping back: when refusal, retraction, and divestment become acts of care.*  
 
 ---
@@ -86,4 +86,4 @@ It treats withdrawal not as retreat but as design — the art of teaching system
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-08-12_
