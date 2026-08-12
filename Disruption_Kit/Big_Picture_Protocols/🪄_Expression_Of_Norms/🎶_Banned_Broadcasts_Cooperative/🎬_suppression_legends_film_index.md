@@ -1,5 +1,5 @@
 # 🎬 Suppression Legends Film Index  
-**First created:** 2025-09-29 | **Last updated:** 2025-12-25  
+**First created:** 2025-09-29 | **Last updated:** 2026-08-12  
 *Films that became cultural detonators precisely because someone tried to mute them.*  
 
 ---
@@ -63,4 +63,4 @@ and supports broader diagnostics of narrative control across media formats.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_  
+_Last updated: 2026-08-12_  
