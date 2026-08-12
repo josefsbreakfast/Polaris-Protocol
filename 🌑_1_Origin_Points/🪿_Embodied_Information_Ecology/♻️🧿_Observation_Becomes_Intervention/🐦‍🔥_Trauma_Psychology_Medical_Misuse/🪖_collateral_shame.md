@@ -1,5 +1,5 @@
 # 🪖 Collateral Shame: Moral Injury, Veterans, & the Counterinsurgency Age  
-**First created:** 2025-10-25 | **Last updated:** 2026-01-04  
+**First created:** 2025-10-25 | **Last updated:** 2026-08-12  
 *How modern warfare externalises responsibility and internalises trauma.*  
 
 ---
@@ -121,4 +121,4 @@ and how survivors—military and civilian alike—can reassemble accountability 
 
 *Repair begins when responsibility is shared, not shifted.*
 
-_Last update: 2026-01-04_
+_Last update: 2026-08-12_
