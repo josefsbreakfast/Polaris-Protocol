@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 07:39:21 UTC_
+_Generated on 2026-08-12 07:42:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1675,6 +1675,7 @@ _Generated on 2026-08-12 07:39:21 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md)
         - [`data_misuse_continuum_flowchart_detailed.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/data_misuse_continuum_flowchart_detailed.png)
         - [`medical_ethics_prevent_contamination.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/medical_ethics_prevent_contamination.png)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/notes.txt)
         - [`overengineered_manipulation_direct_interaction.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/overengineered_manipulation_direct_interaction.png)
         - [`palantir_cycle_diagram_branded.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/palantir_cycle_diagram_branded.png)
         - [`scl_successor_tree_polarisprotocol.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/scl_successor_tree_polarisprotocol.png)
@@ -1740,6 +1741,7 @@ _Generated on 2026-08-12 07:39:21 UTC_
         - [`black_mould_audit_checklist.csv`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/black_mould_audit_checklist.csv)
         - [`darvo_vs_prevent.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/darvo_vs_prevent.png)
         - [`full_report_metrics_with_flips_annotated.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/full_report_metrics_with_flips_annotated.png)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/notes.txt)
         - [`pp14_22_metrics_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/pp14_22_metrics_timeline.png)
         - [`pre_fork_gaza_fork_tree.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/pre_fork_gaza_fork_tree.png)
         - [`retained_removed_pie_chart_redacted.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/retained_removed_pie_chart_redacted.png)
@@ -1779,6 +1781,7 @@ _Generated on 2026-08-12 07:39:21 UTC_
         - [`🪣_hidden_data_loop_audit.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🪣_hidden_data_loop_audit.md)
       - [**🧬_Algorithmic_Endocrinology/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/notes.txt)
         - [`🌿_algorithmic_ecology.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🌿_algorithmic_ecology.md)
         - [`🌿_ecological_ethics_of_algorithmic_design.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🌿_ecological_ethics_of_algorithmic_design.md)
         - [`🍪_operant_conditioning_the_algorithm.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🍪_operant_conditioning_the_algorithm.md)
