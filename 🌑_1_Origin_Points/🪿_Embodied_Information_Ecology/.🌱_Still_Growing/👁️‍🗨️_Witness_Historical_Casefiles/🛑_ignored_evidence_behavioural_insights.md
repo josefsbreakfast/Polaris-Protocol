@@ -1,5 +1,5 @@
 # 🛑 Ignored Evidence Node — Behavioural Insights 2014–2016  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-20 | **Last updated:** 2026-08-12  
 *Records how evidence presented to the House of Lords Science & Technology Committee (2014 follow-up on Behaviour Change) raised sensible cautions, yet policy practice largely ignored them.*  
 
 ---
@@ -73,4 +73,4 @@ It records how measured cautions around nudging (2014–2016) were heard but lar
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
