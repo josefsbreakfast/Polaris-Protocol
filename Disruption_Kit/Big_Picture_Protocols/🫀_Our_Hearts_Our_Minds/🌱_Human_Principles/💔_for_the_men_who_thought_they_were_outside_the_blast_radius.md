@@ -1,5 +1,5 @@
 # 💔 For The Men Who Thought They Were Outside The Blast Radius  
-**First created:** 2025-11-23 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-23 | **Last updated:** 2026-08-12  
 *For the men who realise too late that patriarchy does not protect its foot soldiers.*
 
 ---
@@ -106,4 +106,4 @@ It documents the moment men realise patriarchal systems will ultimately harm the
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-08-12_
