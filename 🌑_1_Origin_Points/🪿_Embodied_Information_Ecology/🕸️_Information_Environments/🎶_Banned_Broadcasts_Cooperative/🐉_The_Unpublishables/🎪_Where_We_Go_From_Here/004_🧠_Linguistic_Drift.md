@@ -1,5 +1,5 @@
 # 🧠 Linguistic Drift of Scapegoating — From “Coloured” to “Woke”
-**First created:** 2025-10-08  |  **Last updated:** 2025-10-18  
+**First created:** 2025-10-08  |  **Last updated:** 2026-08-12  
 *How coded language evolves to preserve prejudice while appearing progressive; from colonial euphemism to digital derision.*
 
 ---
