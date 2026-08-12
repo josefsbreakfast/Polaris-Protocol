@@ -1,5 +1,5 @@
 # 🧬 Therapeutic Resistance as Acquired Immunity  
-**First created:** 2025-10-23 | **Last updated:** 2025-12-19  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-12  
 *When epistemic gaslighting re-codes the body’s capacity to receive care.*  
 
 ---
@@ -67,4 +67,4 @@ It guides designers, regulators, and clinicians toward recognising mistrust as a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-08-12_
