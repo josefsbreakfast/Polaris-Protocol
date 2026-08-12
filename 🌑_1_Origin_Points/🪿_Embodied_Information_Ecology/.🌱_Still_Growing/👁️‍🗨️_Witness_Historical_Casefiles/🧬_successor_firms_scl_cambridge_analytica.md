@@ -1,5 +1,5 @@
 # 🧬 Successor Firms After the SCL / Cambridge Analytica Collapse  
-**First created:** 2025-09-06 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-06 | **Last updated:** 2026-08-12  
 *Mapping the dispersal lineage post-ICO raids and the persistence of the behavioural-data complex.*
 
 ---
@@ -89,4 +89,4 @@ It traces how the spectacle of collapse masked a continuity of methods through s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
