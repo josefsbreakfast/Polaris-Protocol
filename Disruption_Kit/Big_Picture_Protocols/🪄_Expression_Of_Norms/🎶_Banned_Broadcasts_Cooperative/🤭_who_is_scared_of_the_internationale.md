@@ -1,5 +1,5 @@
 # 🤭 Who Is Scared of The Internationale?  
-**First created:** 2025-12-31 | **Last updated:** 2025-12-31  
+**First created:** 2025-12-31 | **Last updated:** 2026-08-12  
 *Transmission, suppression, and the fear of unsupervised collective coordination*  
 
 ---
@@ -234,4 +234,4 @@ It examines how large systems respond to emotive, memory-bearing cultural signal
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-31_
+_Last updated: 2026-08-12_
