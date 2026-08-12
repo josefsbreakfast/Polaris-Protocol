@@ -1,5 +1,5 @@
 # 🕍 Jewish Trauma Literacy for Non-Jewish Audiences
-**First created:** 2025-11-13 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-13 | **Last updated:** 2026-08-12  
 *A trauma-informed explainer on Jewish memory, retraumatisation, and respectful analogy ethics.*
 
 ## 🛰️ Orientation
@@ -24,4 +24,4 @@ jewish trauma, antisemitism, holocaust memory, analogy ethics
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-12_
