@@ -1,5 +1,5 @@
 # ⛳️ Flags Increase (Other, Common) Risks  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-12  
 *How vulnerability markers meant to protect people can instead create social, psychological, and institutional harm.*  
 
 ---
@@ -86,4 +86,4 @@ Vulnerability flags are often seen as purely protective. But in strained, risk-a
 > - PREVENT Misreads
 > - Opportunistic Escalation in Collapsing Systems
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-08-12_
