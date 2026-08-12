@@ -1,5 +1,5 @@
 # 🫀 Our Hearts Our Minds  
-**First created:** 2025-10-15 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-15 | **Last updated:** 2026-08-12  
 *How care, harm, and belief are administered through bodies and minds — and how they can be reclaimed.*  
 
 ---
@@ -31,11 +31,11 @@ Care, harm, and reform are not opposites here — they are phases of the same cy
 
 | Folder | Focus |
 |:--|:--|
-| [🐝 Body Politic](./🐝_Body_Politic/README.md) | Disability politics, embodiment, access, and rights. |
-| [🐦‍🔥 Trauma Psychology & Medical Misuse](./🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md) | Psychological weaponisation and recovery pathways. |
-| [👁️‍🗨️ Witness Historical Casefiles](./👁️‍🗨️_Witness_Historical_Casefiles/README.md) | Testimony, timelines, and evidential repair. |
-| [🕯 Exorcising Safeguarding Shadows](./🕯_Exorcising_Safeguarding_Shadows/README.md) | Failures of protection and institutional audits. |
-| [🌱 Human Principles](./🌱_Human_Principles/README.md) | Normative ethics, dignity, and survivor‑authorship foundations. |
+| [🐝 Body Politic] | Disability politics, embodiment, access, and rights. |
+| [🐦‍🔥 Trauma Psychology & Medical Misuse] | Psychological weaponisation and recovery pathways. |
+| [👁️‍🗨️ Witness Historical Casefiles] | Testimony, timelines, and evidential repair. |
+| [🕯 Exorcising Safeguarding Shadows] | Failures of protection and institutional audits. |
+| [🌱 Human Principles] | Normative ethics, dignity, and survivor‑authorship foundations. |
 
 ---
 
@@ -117,10 +117,10 @@ It integrates ethics, trauma, and embodiment research into a coherent framework 
 
 > 📡 Cross‑references:
 > 
-> - [🐍 Ouroborotic Violence](../🐍_Ouroborotic_Violence/README.md) — *recursive architectures of harm*  
-> - [🌀 System Governance](../🌀_System_Governance/README.md) — *structural accountability frameworks*  
-> - [🪄 Expression Of Norms](../🪄_Expression_Of_Norms/README.md) — *compliance and the moral performance of care*  
+> - [🐍 Ouroborotic Violence] — *recursive architectures of harm*  
+> - [🌀 System Governance] — *structural accountability frameworks*  
+> - [🪄 Expression Of Norms] — *compliance and the moral performance of care*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-12_
