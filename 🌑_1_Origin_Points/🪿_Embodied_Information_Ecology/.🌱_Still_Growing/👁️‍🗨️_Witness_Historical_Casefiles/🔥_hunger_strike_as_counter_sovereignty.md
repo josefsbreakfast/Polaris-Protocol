@@ -1,5 +1,5 @@
 # 🔥 Hunger Strike as Counter-Sovereignty  
-**First created:** 2025-12-12 | **Last updated:** 2026-01-04  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-12  
 *How the refusal to eat destabilises the state’s monopoly on moral, narrative, and bodily authority.*  
 
 ---
@@ -209,4 +209,4 @@ It maps the destabilising power of embodied refusal, analysing how hunger strike
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-08-12_
