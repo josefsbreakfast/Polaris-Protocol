@@ -1,5 +1,5 @@
 # 🕊️ From BLM to Palestine — The Suppression Switchboard  
-**First created:** 2025-10-06  |  **Last updated:** 2025-10-15  
+**First created:** 2025-10-06  |  **Last updated:** 2026-08-12  
 *How lessons from the 2020 BLM containment cycle were redeployed in the policing of Palestine solidarity and “woke” dissent.*
 
 ---
@@ -92,4 +92,4 @@ It traces how state and institutional actors repurposed anti-racism containment 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-08-12_
