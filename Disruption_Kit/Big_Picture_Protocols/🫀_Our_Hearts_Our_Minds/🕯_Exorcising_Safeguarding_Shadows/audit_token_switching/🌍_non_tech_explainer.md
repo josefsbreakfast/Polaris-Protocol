@@ -1,5 +1,5 @@
 # 🌍 Non-Tech Explainer: Token Switching  
-**First created:** 2025-09-30 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-12  
 *Plain-language guidance for operations, governance officers, and leadership.*  
 
 ---
@@ -41,4 +41,4 @@ It supports non-technical staff in understanding and escalating identity-token a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
