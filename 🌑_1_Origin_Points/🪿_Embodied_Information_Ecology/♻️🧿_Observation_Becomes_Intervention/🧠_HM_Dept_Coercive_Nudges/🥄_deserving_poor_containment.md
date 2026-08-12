@@ -1,5 +1,5 @@
 # 🥄 Deserving Poor Containment  
-**First created:** 2025-09-15 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-15 | **Last updated:** 2026-08-12  
 *From Poor Law to PIP: how conditionality frames disabled people as supplicants, not citizens.*  
 
 ---
@@ -191,4 +191,4 @@ It maps the historical and systemic roots of conditional welfare, showing how di
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_  
+_Last updated: 2026-08-12_  
