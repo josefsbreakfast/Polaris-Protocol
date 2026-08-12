@@ -1,5 +1,5 @@
 # 🎶 Good Taste vs Surveillance Taste  
-**First created:** 2025‑11‑07 | **Last updated:** 2025-12-08  
+**First created:** 2025‑11‑07 | **Last updated:** 2026-08-12  
 *When culture is recoded as compliance.*  
 
 ---
@@ -98,4 +98,4 @@ It supplies a conceptual scaffold for policy, technical, and ethical work around
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-08-12_
