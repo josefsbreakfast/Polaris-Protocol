@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-11 14:49:43 UTC_
+_Generated on 2026-08-12 07:32:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1253,6 +1253,7 @@ _Generated on 2026-08-11 14:49:43 UTC_
           - [`📊_compliance_league_table_London_cluster_scored_v2.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/📊_compliance_league_table_London_cluster_scored_v2.md)
           - [`📊_compliance_league_table_scored.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/compliance_audit/📊_compliance_league_table_scored.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/notes.txt)
         - [`post_CCRU_diaspora_network_diagram.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/post_CCRU_diaspora_network_diagram.png)
         - [`⚖️_charitable_status_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_charitable_status_paradox.md)
         - [`⚖️_rings_of_power_universities.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎓_British_University_Compliance_Service/⚖️_rings_of_power_universities.md)
@@ -1308,6 +1309,7 @@ _Generated on 2026-08-11 14:49:43 UTC_
             - [`☕️🫖_exceedingly_good_for_morale.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🫖_MI8_And_Boon/☕️🫖_exceedingly_good_for_morale.md)
             - [`💘_agent_boon_and_the_machine.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🫖_MI8_And_Boon/💘_agent_boon_and_the_machine.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/notes.txt)
         - [`☕_the_auntie_model_of_memetic_transmission.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/☕_the_auntie_model_of_memetic_transmission.md)
         - [`⚖️_safe_humanitarian_speech_in_high_risk_discursive_environments.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚖️_safe_humanitarian_speech_in_high_risk_discursive_environments.md)
         - [`⚡_structural_throughline.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚡_structural_throughline.md)
@@ -1353,6 +1355,7 @@ _Generated on 2026-08-11 14:49:43 UTC_
         - [`🫖_the_algorithm_cannot_parse_sarcasm.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🫖_the_algorithm_cannot_parse_sarcasm.md)
       - [**📺_Money_Talks_Media/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/notes.txt)
         - [`⚔️_war_on_woke_as_containment_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)
         - [`⚡️_panic_in_the_newsroom.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/⚡️_panic_in_the_newsroom.md)
         - [`✨_jyn_erso_and_the_coerced_survivalist_arc.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📺_Money_Talks_Media/✨_jyn_erso_and_the_coerced_survivalist_arc.md)
