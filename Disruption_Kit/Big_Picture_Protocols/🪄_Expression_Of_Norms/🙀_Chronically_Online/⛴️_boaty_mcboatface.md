@@ -1,5 +1,5 @@
 # ⛴️ Boaty McBoatface  
-First created: 2026-06-05 | Last updated: 2026-06-05  
+First created: 2026-06-05 | Last updated: 2026-08-12  
 How a silly ship-name poll exposed the difference between managed participation, public authorship, and institutional power.
 
 ---
@@ -319,4 +319,4 @@ It contributes to the archive by mapping a low-stakes internet naming controvers
 
 Survivor authorship is sovereign. Containment is never neutral.
 
-_Last updated: 2026-06-05_
+_Last updated: 2026-08-12_
