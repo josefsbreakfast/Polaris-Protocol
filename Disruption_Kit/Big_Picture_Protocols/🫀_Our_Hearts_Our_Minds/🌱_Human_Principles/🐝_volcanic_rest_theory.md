@@ -1,5 +1,5 @@
 # 🐝 Volcanic Rest Theory  
-**First created:** 2025-10-23 | **Last updated:** 2025-12-09  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-12  
 *Dormancy as chthonic process — where rest holds heat.*
 
 ---
@@ -89,4 +89,4 @@ It reclaims dormancy as a chthonic, life-bearing process — the magma beneath a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-08-12_
