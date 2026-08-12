@@ -1,5 +1,5 @@
 # 🪞 Fanon & the Algorithmic Unconscious — A Play in Three Acts  
-**First created:** 2025-10-11 | **Last updated:** 2026-01-06  
+**First created:** 2025-10-11 | **Last updated:** 2026-08-12  
 *How colonial psychology, digital surveillance, and algorithmic guilt form a single feedback system.*
 
 ---
@@ -109,4 +109,4 @@ It traces how empire’s psychic architecture re-emerges in digital form and how
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-12_
