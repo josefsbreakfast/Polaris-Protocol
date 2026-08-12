@@ -1,5 +1,5 @@
 # 🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures  
-**First created:** 2025-10-22 | **Last updated:** 2026-07-17  
+**First created:** 2025-10-22 | **Last updated:** 2026-08-12  
 *When abandoned architecture keeps singing.*  
 
 ---
@@ -92,4 +92,4 @@ It reframes abandoned architecture as civic instrument and explores how sound ca
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-17_
+_Last updated: 2026-08-12_
