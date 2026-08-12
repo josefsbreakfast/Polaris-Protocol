@@ -1,5 +1,5 @@
 # 🐾 Sanctuary Island Project  
-**First created:** 2025-11-07 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-12  
 *Non-verbal co-regulation between rescued animals and humans in recovery.*  
 
 ---
@@ -65,4 +65,4 @@ It sketches a model for slow, interspecies repair — a sanctuary for beings who
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-08-12_
