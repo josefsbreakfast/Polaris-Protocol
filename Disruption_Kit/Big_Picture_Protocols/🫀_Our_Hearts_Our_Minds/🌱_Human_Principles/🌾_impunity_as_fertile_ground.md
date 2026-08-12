@@ -1,5 +1,5 @@
 # 🌾 Impunity as Fertile Ground  
-**First created:** 2025-10-07 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-07 | **Last updated:** 2026-08-12  
 *On why rape prevention cannot exist without dismantling permission structures.*
 
 ---
@@ -81,4 +81,4 @@ It explores the cultural mechanics of permission and the limits of law in preven
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-08-12_
