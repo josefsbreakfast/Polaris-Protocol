@@ -1,5 +1,5 @@
 # 🌍 Soft Power and International Resentment  
-**First created:** 2025-09-23 | **Last updated:** 2025-10-01  
+**First created:** 2025-09-23 | **Last updated:** 2026-08-12  
 *How UK higher education relies on international students, and how hostile politics erodes that trust.*  
 
 ---
@@ -99,4 +99,4 @@ and records how political hostility undermines their very business model.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-01_  
+_Last updated: 2026-08-12_  
