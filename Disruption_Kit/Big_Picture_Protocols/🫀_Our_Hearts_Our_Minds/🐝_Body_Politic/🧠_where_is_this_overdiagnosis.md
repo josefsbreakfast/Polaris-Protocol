@@ -1,5 +1,5 @@
 # 🧠 Where Is This “Over-Diagnosis”?
-**First created:** 2025-12-16 | **Last updated:** 2025-12-16  
+**First created:** 2025-12-16 | **Last updated:** 2026-08-12  
 *A diagnostic challenge to a political claim that refuses to specify itself.*
 
 ---
@@ -227,4 +227,4 @@ It functions as an entry-point diagnostic, establishing evidentiary standards be
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-16_
+_Last updated: 2026-08-12_
