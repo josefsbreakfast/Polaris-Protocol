@@ -1,5 +1,5 @@
 # 🫖 MI8 & Boon  
-**First created:** 2025-10-30 | **Last updated:** 2025-10-30  
+**First created:** 2025-10-30 | **Last updated:** 2026-08-12  
 *A micro-archive of British distraction operations, romantic cover stories, and other morale-enhancing fictions.*
 
 ---
@@ -71,4 +71,4 @@ the place where classified morale is brewed, stirred, and quietly forgotten.
 >  
 > **End of transmission.**
 
-_Last updated: 2025-10-30_
+_Last updated: 2026-08-12_
