@@ -1,5 +1,5 @@
 # 🧪 Ego Insurance But Make It Personal  
-**First created:** 2025-09-21 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-21 | **Last updated:** 2026-08-12  
 *How a simple workplace bet over a “favourite case” metastasises into institutional vendetta.*  
 
 ---
@@ -288,4 +288,4 @@ It maps how petty rivalries and bruised egos metastasise into bureaucratic vende
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-08-12_
