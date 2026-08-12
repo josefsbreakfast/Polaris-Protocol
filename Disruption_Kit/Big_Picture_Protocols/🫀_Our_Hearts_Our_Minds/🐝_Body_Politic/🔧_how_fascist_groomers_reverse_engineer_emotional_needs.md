@@ -1,5 +1,5 @@
 # 🔧 How Fascist Groomers Reverse-Engineer Emotional Needs  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-11   
+**First created:** 2025-11-19 | **Last updated:** 2026-08-12  
 *An analysis of how extremist recruiters identify, map, and exploit the emotional vulnerabilities of lonely, shame-wounded, or misclassified men using precision psychological engineering.*  
 
 ---
@@ -260,4 +260,4 @@ It reveals extremist recruitment as a form of psychological engineering and repl
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-12_
