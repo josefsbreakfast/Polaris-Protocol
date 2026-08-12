@@ -1,5 +1,5 @@
 # 🎓 Why Some Institutions Attract Grievance Culture  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-12  
 *How selection pressure, hierarchy, and stress ecology produce grievance escalation as a predictable failure mode.*
 
 ---
@@ -186,4 +186,4 @@ It documents a recurring institutional failure mode in which selection pressure,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-12_
