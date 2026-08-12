@@ -1,5 +1,5 @@
 # ⚖️ Institutional Parasitism of Deradicalisation Work  
-**First created:** 2025-11-01 | **Last updated:** 2025-11-01  
+**First created:** 2025-11-01 | **Last updated:** 2026-08-12  
 *When the State benefits from cultural stabilisation but refuses to acknowledge the labour that achieved it.*
 
 ---
@@ -197,4 +197,4 @@ It documents how the State quietly depends on cultural intelligence work it cann
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-01_
+_Last updated: 2026-08-12_
