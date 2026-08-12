@@ -1,5 +1,5 @@
 # ⚡️ Panic! in the Newsroom
-**First created:** 2025-12-16 | **Last updated:** 2025-12-16  
+**First created:** 2025-12-16 | **Last updated:** 2026-08-12  
 *When editorial confidence collapses into litigation, something sacred has been touched.*
 <!--To the tune of "Danger! High Voltage" by Electric Six.-->
 ---
@@ -116,4 +116,4 @@ It contributes diagnostic analysis of media institutions under legitimacy threat
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-16_
+_Last updated: 2026-08-12_
