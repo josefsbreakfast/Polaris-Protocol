@@ -1,5 +1,5 @@
 # 🧠 Memory, Safety & Self-Reconstruction  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-26 | **Last updated:** 2026-08-12  
 *Exploring how rest, creativity, and release from constant scrutiny restore memory and the ability to piece together one’s own history.*  
 
 ---
@@ -68,4 +68,4 @@ It documents how conditions of rest and release repair fragmented memory, enabli
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
