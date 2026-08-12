@@ -1,5 +1,5 @@
 # 🏗️ 2010s Authoritarian-Adjacent Build  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-20 | **Last updated:** 2026-08-12  
 *Traces how, from 2010 onwards, counter-extremism policy (Prevent/Channel) and behavioural insights (nudges) converged into a wider governance architecture. This architecture normalised weak-signal surveillance and behaviour management, creating an authoritarian-adjacent frame for public services.*  
 
 ---
@@ -76,4 +76,4 @@ It records how counter-extremism and behavioural insights merged into a surveill
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_  
+_Last updated: 2026-08-12_  
