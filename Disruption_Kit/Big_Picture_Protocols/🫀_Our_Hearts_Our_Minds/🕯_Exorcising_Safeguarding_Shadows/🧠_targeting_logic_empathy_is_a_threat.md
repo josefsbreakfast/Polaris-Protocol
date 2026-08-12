@@ -1,5 +1,5 @@
 # 🧠 Targeting Logic: Empathy Is a Threat
-**First created:** 2025-08-07 | **Last updated:** 2026-02-19  
+**First created:** 2025-08-07 | **Last updated:** 2026-08-12  
 *How empathy is profiled as a risk vector in behavioural governance systems.*
 
 ---
@@ -70,4 +70,4 @@ It maps how behavioural systems classify empathy as a risk surface, inverting so
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-12_
