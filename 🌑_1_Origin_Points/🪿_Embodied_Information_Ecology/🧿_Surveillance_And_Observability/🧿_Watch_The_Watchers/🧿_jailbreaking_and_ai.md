@@ -1,5 +1,5 @@
 # 🧿 Jailbreaking and AI — How to Stay Safe as a User  
-**First created:** 2025-10-26  |  **Last updated:** 2025-10-26  
+**First created:** 2025-10-26  |  **Last updated:** 2026-08-12  
 *A survivor-led field node on AI guardrails, traceability, and the duty of care owed to end users.*
 
 ---
@@ -229,4 +229,4 @@ and guardrails are not censorship but consent enforcement.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-26_
+_Last updated: 2026-08-12_
