@@ -1,5 +1,5 @@
 # 🪞 On Human Impulse  
-**First created:** 2025-09-05 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-05 | **Last updated:** 2026-08-12  
 *Principle node distinguishing natural human reactions from their weaponisation by violent systems.*  
 
 ---
@@ -59,4 +59,4 @@ It documents a principle of resistance: that natural human reactions remain sove
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
