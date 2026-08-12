@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 20:46:32 UTC_
+_Generated on 2026-08-12 20:52:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1331,8 +1331,6 @@ _Generated on 2026-08-12 20:46:32 UTC_
             - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🫖_MI8_And_Boon/README.md)
             - [`☕️🫖_exceedingly_good_for_morale.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🫖_MI8_And_Boon/☕️🫖_exceedingly_good_for_morale.md)
             - [`💘_agent_boon_and_the_machine.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🐉_The_Unpublishables/🫖_MI8_And_Boon/💘_agent_boon_and_the_machine.md)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/README.md)
-        - [`☕_the_auntie_model_of_memetic_transmission.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/☕_the_auntie_model_of_memetic_transmission.md)
         - [`⚖️_safe_humanitarian_speech_in_high_risk_discursive_environments.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚖️_safe_humanitarian_speech_in_high_risk_discursive_environments.md)
         - [`⚡_structural_throughline.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/⚡_structural_throughline.md)
         - [`➰_appeasement_loop_policing_bias.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/➰_appeasement_loop_policing_bias.md)
@@ -4185,6 +4183,9 @@ _Generated on 2026-08-12 20:46:32 UTC_
     - [**🕸️_Information_Environments/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/.🌱_Still_Growing/notes.txt)
+      - [**🎶_Banned_Broadcasts_Cooperative/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🎶_Banned_Broadcasts_Cooperative/)
+        - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🎶_Banned_Broadcasts_Cooperative/README.md)
+        - [`☕_the_auntie_model_of_memetic_transmission.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🎶_Banned_Broadcasts_Cooperative/☕_the_auntie_model_of_memetic_transmission.md)
       - [**📺_Money_Talks_Media/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📺_Money_Talks_Media/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📺_Money_Talks_Media/README.md)
         - [`⚔️_war_on_woke_as_containment_architecture.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)
