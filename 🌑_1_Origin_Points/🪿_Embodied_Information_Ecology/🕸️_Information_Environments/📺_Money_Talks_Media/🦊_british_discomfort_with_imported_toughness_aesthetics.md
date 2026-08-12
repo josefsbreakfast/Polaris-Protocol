@@ -1,6 +1,5 @@
-# 🦊 British Discomfort with Imported Toughness Aesthetics
-
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
+# 🦊 British Discomfort with Imported Toughness Aesthetics  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-12  
 *Why certain performances of toughness register as culturally alien, coercive, or absurd in a British context.*
 
 ---
@@ -134,4 +133,4 @@ It documents an affective and ethical resistance to spectacle-driven toughness, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+*Last updated: 2026-08-12*
