@@ -1,5 +1,5 @@
 # 🩸 Surveillance-Induced Intimacy Breach 
-**First created:** 2025-10-18 | **Last updated:** 2026-03-30  
+**First created:** 2025-10-18 | **Last updated:** 2026-08-12  
 *The request from an owner of a hypertonic pelvis, to the men with too much time on their hands.*  
 
 ---
@@ -528,4 +528,4 @@ It documents an emergent category of harm at the intersection of surveillance, e
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-03-30_
+_Last updated: 2026-08-12_
