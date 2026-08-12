@@ -1,6 +1,5 @@
 # ⚙️ NHS Clinical Risk for Anti‑Occupation Jews
-
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
+**First created:** 2025-12-14 | **Last updated:** 2026-08-12  
 *Patient‑side harm created by Prevent and IHRA frameworks in healthcare settings.*
 
 ---
@@ -110,4 +109,4 @@ nhs clinical risk, jewish patients, prevent healthcare, ihra harm, mental health
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+*Last updated: 2026-08-12*
