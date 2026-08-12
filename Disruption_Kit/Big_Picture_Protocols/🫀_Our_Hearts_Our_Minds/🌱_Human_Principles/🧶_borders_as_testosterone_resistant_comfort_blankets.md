@@ -1,5 +1,5 @@
 # 🧶 Borders as Testosterone-Resistant Comfort Blankets  
-**First created:** 2026-01-18 | **Last updated:** 2026-01-18  
+**First created:** 2026-01-18 | **Last updated:** 2026-08-12  
 *International borders as affective artefacts that unevenly regulate human threat responses*
 
 ---
@@ -235,4 +235,4 @@ It contributes affective and structural analysis of borders as uneven emotional 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-18_
+_Last updated: 2026-08-12_
