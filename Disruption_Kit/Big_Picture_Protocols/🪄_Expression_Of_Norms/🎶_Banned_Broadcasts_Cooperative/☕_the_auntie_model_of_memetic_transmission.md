@@ -1,5 +1,5 @@
 # ☕ The Auntie Model of Memetic Transmission — Indigenous Analytics of Stickiness  
-**First created:** 2025-10-23  |  **Last updated:** 2025-10-28  
+**First created:** 2025-10-23  |  **Last updated:** 2026-08-12  
 *Everything Silicon Valley learned about virality, the aunties already knew.*
 
 ---
@@ -77,4 +77,4 @@ It honours communal intelligence as the original attention algorithm and re-cent
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-28_
+_Last updated: 2026-08-12_
