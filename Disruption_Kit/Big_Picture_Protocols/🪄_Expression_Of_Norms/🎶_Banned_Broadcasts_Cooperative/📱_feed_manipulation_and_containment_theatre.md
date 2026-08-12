@@ -1,5 +1,5 @@
 # 📱 Feed Manipulation and Containment Theatre  
-**First created:** 2025-09-15 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-15 | **Last updated:** 2026-08-12  
 *How platforms suppress by substitution and pastel distraction rather than silence.*  
 
 ---
@@ -76,4 +76,4 @@ It documents how platforms perform suppression through substitution, smothering 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2026-08-12_  
