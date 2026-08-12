@@ -1,5 +1,5 @@
 # 🎶 Book Discoverability Shift (2022 Title)  
-**First created:** 2025-09-27 | **Last updated:** 2025-12-27  
+**First created:** 2025-09-27 | **Last updated:** 2026-08-12  
 *Observation log of sudden visibility changes for the 2022 book.*  
 
 ---
@@ -65,4 +65,4 @@ It tracks visibility anomalies in book circulation, showing how metadata errors 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-27_  
+_Last updated: 2026-08-12_  
