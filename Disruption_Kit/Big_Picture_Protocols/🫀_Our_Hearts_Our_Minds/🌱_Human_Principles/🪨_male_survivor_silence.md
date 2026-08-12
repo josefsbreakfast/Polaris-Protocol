@@ -1,5 +1,5 @@
 # 🪨 Male Survivor Silence — How Patriarchy Forbids Men From Speaking About Their Trauma  
-**First created:** 2025-11-12 | **Last updated:** 2026-01-04  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-12  
 *Why so many men, boys, and trans men carry sexual trauma alone — and how silence is enforced structurally.*  
 
 ---
@@ -88,4 +88,4 @@ It restores visibility to male survivors whose trauma has been systemically eras
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-08-12_
