@@ -1,5 +1,5 @@
 # 🪙 Token Switching & Relationship Integrity Audit — Executive Overview  
-**First created:** 2025-11-10 | **Last updated:** 2025-11-11  
+**First created:** 2025-11-10 | **Last updated:** 2026-08-12  
 *Operational guide for identifying and correcting pseudonym and role-direction errors across justice and safeguarding data systems.*  
 
 ---
@@ -110,4 +110,4 @@ It functions as the **conceptual overview** for the Token Integrity Audit proces
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2026-08-12_
