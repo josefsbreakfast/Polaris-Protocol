@@ -1,5 +1,5 @@
 # 🪄 Expression Of Norms  
-**First created:** 2025-10-15 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-15 | **Last updated:** 2026-08-12  
 *Where morality is rehearsed, measured, and televised.*  
 
 ---
@@ -31,11 +31,11 @@ Every act of compliance hides a small act of resistance — the moment someone r
 
 | Folder | Focus |
 |:--|:--|
-| [🎓 British University Compliance Service](./🎓_British_University_Compliance_Service/) | Audit culture, pro‑social theatre, and the risk of institutional capture. |
-| [🎶 Banned Broadcasts Cooperative](./🎶_Banned_Broadcasts_Cooperative/) | Censorship, algorithmic invisibility, and the recovery of erased culture. |
-| [📺 Money Talks Media](./📺_Money_Talks_Media/) | Narrative management through donor and policy networks. |
-| [🧠 HM Dept Coercive Nudges](./🧠_HM_Dept_Coercive_Nudges/) | Behavioural government and the gentle art of control. |
-| [🧿 Watch The Watchers](./🧿_Watch_The_Watchers/) | Oversight and the recursion of accountability. |
+| [🎓 British University Compliance Service] | Audit culture, pro‑social theatre, and the risk of institutional capture. |
+| [🎶 Banned Broadcasts Cooperative] | Censorship, algorithmic invisibility, and the recovery of erased culture. |
+| [📺 Money Talks Media] | Narrative management through donor and policy networks. |
+| [🧠 HM Dept Coercive Nudges] | Behavioural government and the gentle art of control. |
+| [🧿 Watch The Watchers] | Oversight and the recursion of accountability. |
 
 ---
 
@@ -119,10 +119,10 @@ It maps the feedback systems that define good behaviour and the refusals that ma
 
 > 📡 Cross‑references:
 > 
-> - [🦕 Elder Influencers](../🦕_Elder_Influencers/README.md) — *legacy power and moral authority*  
-> - [🫀 Our Hearts Our Minds](../🫀_Our_Hearts_Our_Minds/README.md) — *trauma, ethics, and humane counter‑norms*  
-> - [✨ Glimmer Is Taxable](../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/README.md) — *satire of moral economy*  
+> - [🦕 Elder Influencers] — *legacy power and moral authority*  
+> - [🫀 Our Hearts Our Minds] — *trauma, ethics, and humane counter‑norms*  
+> - [✨ Glimmer Is Taxable] — *satire of moral economy*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-12_
