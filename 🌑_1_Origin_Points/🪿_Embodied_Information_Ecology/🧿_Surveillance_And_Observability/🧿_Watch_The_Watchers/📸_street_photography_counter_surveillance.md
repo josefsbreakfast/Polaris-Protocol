@@ -1,5 +1,5 @@
 # 📸 History of Street Photography as Counter-Surveillance  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-27 | **Last updated:** 2026-08-12  
 *Moments where the camera was turned back on the secret policeman, shifting street photography into survival and resistance.*  
 
 ---
@@ -160,4 +160,4 @@ It traces how cameras have been used to turn surveillance inside-out, across geo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_  
+_Last updated: 2026-08-12_  
