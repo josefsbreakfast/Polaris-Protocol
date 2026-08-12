@@ -1,5 +1,5 @@
 # 📚 Muted Book Investigation  
-**First created:** 2025-09-16 | **Last updated:** 2025-12-27  
+**First created:** 2025-09-16 | **Last updated:** 2026-08-12  
 *Replicable protocol for checking whether a trade title has been published and then effectively muted (plausible-deniability suppression vs natural obscurity).*  
 
 ---
@@ -183,4 +183,4 @@ It provides a replicable methodology for diagnosing whether a book’s low visib
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-27_  
+_Last updated: 2026-08-12_  
