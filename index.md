@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 09:18:24 UTC_
+_Generated on 2026-08-12 09:42:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1519,10 +1519,6 @@ _Generated on 2026-08-12 09:18:24 UTC_
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/notes.txt)
-        - [`☔️_stuck_in_digital_quicksand.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/☔️_stuck_in_digital_quicksand.md)
-        - [`♨️_prosocial_nudge_burnout_syndrome.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/♨️_prosocial_nudge_burnout_syndrome.md)
-        - [`⚙️_high_friction_people_and_systemic_mismatch.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/⚙️_high_friction_people_and_systemic_mismatch.md)
-        - [`🃏_the_fool_protocol_ai_ethics_through_tarot.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🃏_the_fool_protocol_ai_ethics_through_tarot.md)
         - [`🌌_tohu_vavohu_plurality.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌌_tohu_vavohu_plurality.md)
         - [`🌫️_metadata_as_mist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌫️_metadata_as_mist.md)
         - [`🌱_institutional_betrayal_reflex.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌱_institutional_betrayal_reflex.md)
@@ -4493,6 +4489,10 @@ _Generated on 2026-08-12 09:18:24 UTC_
       - [**🌱_Human_Principles/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/README.md)
         - [`uk_morale_post_2016.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/uk_morale_post_2016.png)
+        - [`☔️_stuck_in_digital_quicksand.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/☔️_stuck_in_digital_quicksand.md)
+        - [`♨️_prosocial_nudge_burnout_syndrome.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/♨️_prosocial_nudge_burnout_syndrome.md)
+        - [`⚙️_high_friction_people_and_systemic_mismatch.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/⚙️_high_friction_people_and_systemic_mismatch.md)
+        - [`🃏_the_fool_protocol_ai_ethics_through_tarot.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🃏_the_fool_protocol_ai_ethics_through_tarot.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/notes.txt)
     - [**🫀♻️_The_Body_In_The_Loop/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/)
