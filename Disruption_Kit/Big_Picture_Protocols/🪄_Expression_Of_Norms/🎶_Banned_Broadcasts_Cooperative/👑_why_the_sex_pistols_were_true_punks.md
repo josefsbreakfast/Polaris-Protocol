@@ -1,5 +1,5 @@
 # 👑 Why The Sex Pistols Were True Punks  
-**First created:** 2026-05-13 | **Last updated:** 2026-05-23  
+**First created:** 2026-05-13 | **Last updated:** 2026-08-12  
 *Punk as the refusal of institutional deference rather than merely an aesthetic of rebellion.*  
 
 ---
@@ -285,4 +285,4 @@ It contributes to the archive by examining how countercultural speech can functi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-23_
+_Last updated: 2026-08-12_
