@@ -1,5 +1,5 @@
 # ⚰️ Death Review Integrity Audit  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-04 | **Last updated:** 2026-08-12  
 *Audit protocol for detecting suppression, bias, and procedural irregularities in death-review and coroner referral processes.*  
 
 ---
@@ -114,4 +114,4 @@ It defines procedures for preserving evidence and detecting suppression in medic
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-08-12_
