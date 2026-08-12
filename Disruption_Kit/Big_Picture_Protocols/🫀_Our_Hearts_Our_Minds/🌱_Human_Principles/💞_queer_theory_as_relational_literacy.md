@@ -1,5 +1,5 @@
 # 💞 Queer Theory as Relational Literacy  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-12  
 *Queer theory as everyday emotional and structural competence.*  
 
 ---
@@ -61,4 +61,4 @@ It positions queer theory as foundational to sustainable human connection.
 > - [🏳️‍🌈 Queer-Adjacent Masculinity as Soft Boy Compass](./🏳️‍🌈_queer_adjacent_masculinity_as_soft_boy_compass.md)  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-12_
