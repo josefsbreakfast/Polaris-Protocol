@@ -1,5 +1,5 @@
 # 🎧 Media Visibility Gap Protocol  
-**First created:** 2025-10-01 | **Last updated:** 2025-10-01  
+**First created:** 2025-10-01 | **Last updated:** 2026-08-12  
 *Audit method for suppressed films, albums, podcasts, and broadcast media.*  
 
 ---
@@ -36,4 +36,4 @@ It applies suppression-audit methods to cultural broadcasts beyond books.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-01_  
+_Last updated: 2026-08-12_  
