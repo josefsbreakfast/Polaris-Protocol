@@ -1,5 +1,5 @@
 # 👁️‍🗨️ Mindfuck Reflex — Obama Lineage and UK Fragmentation  
-**First created:** 2025-09-23 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-23 | **Last updated:** 2026-08-12  
 *Tracing how US campaign microtargeting travelled into UK contexts, and how UK party structures complicate the left–right spectrum.*  
 
 ---
@@ -98,4 +98,4 @@ It records how survivor testimony intersects with systemic genealogy: from Obama
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-08-12_
