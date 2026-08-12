@@ -1,5 +1,5 @@
 # 🧠 Intuition as Skill  
-**First created:** 2025-09-23 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-23 | **Last updated:** 2026-08-12  
 *Type 1 recognition as a trainable, bounded skill — from safeguarding overrides to psychic theatre.*  
 
 ---
@@ -81,4 +81,4 @@ It reframes intuition as a legitimate, bounded practice — cultural, clinical, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
