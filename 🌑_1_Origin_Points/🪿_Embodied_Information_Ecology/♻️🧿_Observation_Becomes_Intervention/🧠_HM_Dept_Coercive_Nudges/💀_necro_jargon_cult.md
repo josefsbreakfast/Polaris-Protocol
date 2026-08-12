@@ -1,5 +1,5 @@
 # 💀 Necro Jargon Cult  
-**First created:** 2025-08-03 | **Last updated:** 2025-10-19  
+**First created:** 2025-08-03 | **Last updated:** 2026-08-12  
 *Why authoritarian personalities obsess over Latin.*  
 
 ---
@@ -39,4 +39,4 @@ This file documents the use of classical jargon as aesthetic control, weaponisin
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-10-19_  
+_Last updated: 2026-08-12_  
