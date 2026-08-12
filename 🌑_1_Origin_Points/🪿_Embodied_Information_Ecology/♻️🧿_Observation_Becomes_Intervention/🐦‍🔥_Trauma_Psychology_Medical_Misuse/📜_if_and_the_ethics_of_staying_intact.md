@@ -1,5 +1,5 @@
 # 📜 If— and the Ethics of Staying Intact  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-12  
 *Survivor psychology and emotional integration in Kipling’s manual for living through loss.*  
 
 ---
@@ -38,4 +38,4 @@ kipling, emotional literacy, containment, survivor psychology, ethics
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-08-12_
