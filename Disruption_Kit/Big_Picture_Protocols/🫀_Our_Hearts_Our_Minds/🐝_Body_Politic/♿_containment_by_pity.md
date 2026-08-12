@@ -1,5 +1,5 @@
 # ♿ Containment by Pity  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-03 | **Last updated:** 2026-08-12  
 *How compassion is weaponised into control.*  
 
 ---
@@ -46,4 +46,4 @@ It documents how pity disguises control, and asserts refusal as the path to dign
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
