@@ -1,5 +1,5 @@
 # 🐺 Dickwolves Survivors Guild  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-12  
 *A survivor-led account of a forgotten cultural hinge point in nerd culture — and why it still shapes power, governance, and AI today.*  
 
 *Or: Why Elon Musk cared enough to buy Twitter, despite the financial and infrastructural incongruency with acquisition vision.*  
@@ -277,4 +277,4 @@ It contributes survivor-led historical analysis documenting how cultural respons
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-08-12_
