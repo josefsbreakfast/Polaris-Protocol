@@ -1,5 +1,5 @@
 # 💕 For The Women Who Suddenly Realise They Are Here Too  
-**First created:** 2025-11-23 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-23 | **Last updated:** 2026-08-12  
 *For the moment you realise the “system” isn’t abstract — it has teeth, and they are in you.*  
 
 ---
@@ -132,4 +132,4 @@ It documents the gendered moment of system-realisation — the instant a woman r
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-08-12_
