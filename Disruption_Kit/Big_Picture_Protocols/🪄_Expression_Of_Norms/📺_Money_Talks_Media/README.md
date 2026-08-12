@@ -1,5 +1,5 @@
 # 📺 Money Talks Media  
-**First created:** 2025-09-28 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-28 | **Last updated:** 2026-08-12  
 *Where donor cash, political contractors, and broadcast ecosystems fuse into narrative manipulation.*
 
 ---
@@ -32,4 +32,4 @@ It situates donor pipelines and bought media ecosystems as core infrastructure o
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2026-08-12_
