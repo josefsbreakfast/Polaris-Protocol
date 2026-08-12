@@ -1,4 +1,4 @@
-# 🇸🇭 Saint Helena, Ascension And Tristan Da Cunha  
+# 🇸🇭 Saint Helena, Ascension, And Tristan Da Cunha  
 SATIRE. SATIRE. SATIRE.  
 Postcard stop for contestants who thought one flag emoji meant one place, and are about to discover three South Atlantic realities: Saint Helena, Ascension Island, and Tristan da Cunha, each with its own history, logistics, people, wildlife, infrastructure, and patience limit.
 
