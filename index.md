@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 12:35:20 UTC_
+_Generated on 2026-08-12 12:40:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1518,15 +1518,6 @@ _Generated on 2026-08-12 12:35:20 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**👁️‍🗨️_Witness_Historical_Casefiles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/)
-        - [`🏉_regaining_possession.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🏉_regaining_possession.md)
-        - [`🐦_the_canaries_are_still_singing.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🐦_the_canaries_are_still_singing.md)
-        - [`👁️‍🗨️_mindfuck_reflex.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/👁️‍🗨️_mindfuck_reflex.md)
-        - [`📅_blm_uk_2020_2025_timeline_outputs.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/📅_blm_uk_2020_2025_timeline_outputs.md)
-        - [`📚_student_default_faultline.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/📚_student_default_faultline.md)
-        - [`🔥_hunger_strike_as_counter_sovereignty.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md)
-        - [`🔬_operation_no_sanctuary.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔬_operation_no_sanctuary.md)
-        - [`🔮_folk_knowledge_occult_lineages_and_legitimacy.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🔮_folk_knowledge_occult_lineages_and_legitimacy.md)
-        - [`🕊️_from_blm_to_palestine_the_suppression_switchboard.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🕊️_from_blm_to_palestine_the_suppression_switchboard.md)
         - [`🗡_narrative_management_and_metadata_storage.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🗡_narrative_management_and_metadata_storage.md)
         - [`🚨_super_injunctions_and_slapps_in_rape_cases.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🚨_super_injunctions_and_slapps_in_rape_cases.md)
         - [`🛑_ignored_evidence_behavioural_insights.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🛑_ignored_evidence_behavioural_insights.md)
@@ -4214,6 +4205,15 @@ _Generated on 2026-08-12 12:35:20 UTC_
         - [`🌍_muslim_identity_racialisation_parallels_to_historic_antisemitism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🌍_muslim_identity_racialisation_parallels_to_historic_antisemitism.md)
         - [`🌲_navigating_elder_spaces_for_transparency.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🌲_navigating_elder_spaces_for_transparency.md)
         - [`🌹_white_rose_leaflet_as_counter_suicide_signal.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🌹_white_rose_leaflet_as_counter_suicide_signal.md)
+        - [`🏉_regaining_possession.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🏉_regaining_possession.md)
+        - [`🐦_the_canaries_are_still_singing.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🐦_the_canaries_are_still_singing.md)
+        - [`👁️‍🗨️_mindfuck_reflex.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/👁️‍🗨️_mindfuck_reflex.md)
+        - [`📅_blm_uk_2020_2025_timeline_outputs.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/📅_blm_uk_2020_2025_timeline_outputs.md)
+        - [`📚_student_default_faultline.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/📚_student_default_faultline.md)
+        - [`🔥_hunger_strike_as_counter_sovereignty.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🔥_hunger_strike_as_counter_sovereignty.md)
+        - [`🔬_operation_no_sanctuary.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🔬_operation_no_sanctuary.md)
+        - [`🔮_folk_knowledge_occult_lineages_and_legitimacy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🔮_folk_knowledge_occult_lineages_and_legitimacy.md)
+        - [`🕊️_from_blm_to_palestine_the_suppression_switchboard.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🕊️_from_blm_to_palestine_the_suppression_switchboard.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/notes.txt)
     - [**♻️_Cybernetics/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/.🌱_Still_Growing/)
