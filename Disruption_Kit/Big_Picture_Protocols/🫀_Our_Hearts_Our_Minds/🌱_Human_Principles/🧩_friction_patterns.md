@@ -1,5 +1,5 @@
 # 🧩 Friction Patterns  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-12  
 *Micro-resistances in digital interaction — and what they reveal about human emotion, cognition, and context.*
 
 ---
@@ -90,4 +90,4 @@ friction patterns, micro-hesitation, navigation residue, behavioural trace, inte
 *Friction Patterns* is a living node of the Polaris Protocol.  
 It describes the ordinary micro-resistances of digital behaviour and how they shape interaction without implying surveillance or diagnostic interpretation.
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-12_
