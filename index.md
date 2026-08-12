@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 09:57:39 UTC_
+_Generated on 2026-08-12 10:01:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1519,13 +1519,6 @@ _Generated on 2026-08-12 09:57:39 UTC_
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/notes.txt)
-        - [`🌿_lawful_illegality_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿_lawful_illegality_of_care.md)
-        - [`🌿_the_maths_of_life.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿_the_maths_of_life.md)
-        - [`🌿🦁_green_lion_as_liminality.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿🦁_green_lion_as_liminality.md)
-        - [`🍎_how_to_internet_for_kids.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍎_how_to_internet_for_kids.md)
-        - [`🍑_desire_without_shame.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍑_desire_without_shame.md)
-        - [`🍑_the_soft_boy_restoration_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍑_the_soft_boy_restoration_protocol.md)
-        - [`🍻_gullivar_syndrome_why_sailors_keep_washing_up_drunk.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍻_gullivar_syndrome_why_sailors_keep_washing_up_drunk.md)
         - [`🎶_theology_of_the_mix.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🎶_theology_of_the_mix.md)
         - [`🎺_rallying_call_and_loyal_hound.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🎺_rallying_call_and_loyal_hound.md)
         - [`🏚️_millennial_property_psychosis_everything_is_housing.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🏚️_millennial_property_psychosis_everything_is_housing.md)
@@ -4493,6 +4486,13 @@ _Generated on 2026-08-12 09:57:39 UTC_
         - [`🌲_campfire_stability_model_for_modern_citizens.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🌲_campfire_stability_model_for_modern_citizens.md)
         - [`🌲_rebuilding_spark_in_a_political_forest_fire.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🌲_rebuilding_spark_in_a_political_forest_fire.md)
         - [`🌾_impunity_as_fertile_ground.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🌾_impunity_as_fertile_ground.md)
+        - [`🌿_lawful_illegality_of_care.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🌿_lawful_illegality_of_care.md)
+        - [`🌿_the_maths_of_life.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🌿_the_maths_of_life.md)
+        - [`🌿🦁_green_lion_as_liminality.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🌿🦁_green_lion_as_liminality.md)
+        - [`🍎_how_to_internet_for_kids.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🍎_how_to_internet_for_kids.md)
+        - [`🍑_desire_without_shame.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🍑_desire_without_shame.md)
+        - [`🍑_the_soft_boy_restoration_protocol.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🍑_the_soft_boy_restoration_protocol.md)
+        - [`🍻_gullivar_syndrome_why_sailors_keep_washing_up_drunk.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🍻_gullivar_syndrome_why_sailors_keep_washing_up_drunk.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/notes.txt)
     - [**🫀♻️_The_Body_In_The_Loop/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/)
