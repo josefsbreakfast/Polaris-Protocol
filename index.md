@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 12:27:15 UTC_
+_Generated on 2026-08-12 12:28:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1521,7 +1521,6 @@ _Generated on 2026-08-12 12:27:15 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md)
         - [`data_misuse_continuum_flowchart_detailed.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/data_misuse_continuum_flowchart_detailed.png)
         - [`medical_ethics_prevent_contamination.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/medical_ethics_prevent_contamination.png)
-        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/notes.txt)
         - [`overengineered_manipulation_direct_interaction.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/overengineered_manipulation_direct_interaction.png)
         - [`palantir_cycle_diagram_branded.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/palantir_cycle_diagram_branded.png)
         - [`scl_successor_tree_polarisprotocol.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/scl_successor_tree_polarisprotocol.png)
