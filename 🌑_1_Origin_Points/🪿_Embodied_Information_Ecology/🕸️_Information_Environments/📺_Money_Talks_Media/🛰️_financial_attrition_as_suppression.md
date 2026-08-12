@@ -1,5 +1,5 @@
 # 🛰️ Financial Attrition as Suppression  
-**First created:** 2025-09-29 | **Last updated:** 2025-12-25  
+**First created:** 2025-09-29 | **Last updated:** 2026-08-12  
 *Not all censorship shouts. Some just starve the signal.*  
 
 ---
@@ -55,4 +55,4 @@ It documents non-overt forms of silencing via money, contracts, and institutiona
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-12_
