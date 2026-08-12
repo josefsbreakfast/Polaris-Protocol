@@ -1,5 +1,5 @@
 # 🌀 Docility Engine  
-**First created:** 2025-08-04 | **Last updated:** 2025-10-19  
+**First created:** 2025-08-04 | **Last updated:** 2026-08-12  
 *“Compliance isn’t forced — it’s engineered. The trick is making you run the loop yourself.”*  
 
 ---
@@ -133,5 +133,5 @@ This file documents the **Docility Engine** — a behavioural machinery of loops
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-10-19_  
+_Last updated: 2026-08-12_  
 
