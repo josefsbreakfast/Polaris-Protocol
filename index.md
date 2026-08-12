@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 09:43:30 UTC_
+_Generated on 2026-08-12 09:53:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1519,12 +1519,6 @@ _Generated on 2026-08-12 09:43:30 UTC_
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/notes.txt)
-        - [`🌌_tohu_vavohu_plurality.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌌_tohu_vavohu_plurality.md)
-        - [`🌫️_metadata_as_mist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌫️_metadata_as_mist.md)
-        - [`🌱_institutional_betrayal_reflex.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌱_institutional_betrayal_reflex.md)
-        - [`🌱_love_is_antifascist.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌱_love_is_antifascist.md)
-        - [`🌲_campfire_stability_model_for_modern_citizens.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌲_campfire_stability_model_for_modern_citizens.md)
-        - [`🌲_rebuilding_spark_in_a_political_forest_fire.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌲_rebuilding_spark_in_a_political_forest_fire.md)
         - [`🌾_impunity_as_fertile_ground.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌾_impunity_as_fertile_ground.md)
         - [`🌿_lawful_illegality_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿_lawful_illegality_of_care.md)
         - [`🌿_the_maths_of_life.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🌿_the_maths_of_life.md)
@@ -4493,6 +4487,12 @@ _Generated on 2026-08-12 09:43:30 UTC_
         - [`♨️_prosocial_nudge_burnout_syndrome.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/♨️_prosocial_nudge_burnout_syndrome.md)
         - [`⚙️_high_friction_people_and_systemic_mismatch.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/⚙️_high_friction_people_and_systemic_mismatch.md)
         - [`🃏_the_fool_protocol_ai_ethics_through_tarot.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🃏_the_fool_protocol_ai_ethics_through_tarot.md)
+        - [`🌌_tohu_vavohu_plurality.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🌌_tohu_vavohu_plurality.md)
+        - [`🌫️_metadata_as_mist.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🌫️_metadata_as_mist.md)
+        - [`🌱_institutional_betrayal_reflex.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🌱_institutional_betrayal_reflex.md)
+        - [`🌱_love_is_antifascist.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🌱_love_is_antifascist.md)
+        - [`🌲_campfire_stability_model_for_modern_citizens.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🌲_campfire_stability_model_for_modern_citizens.md)
+        - [`🌲_rebuilding_spark_in_a_political_forest_fire.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🌱_Human_Principles/🌲_rebuilding_spark_in_a_political_forest_fire.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/notes.txt)
     - [**🫀♻️_The_Body_In_The_Loop/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/)
