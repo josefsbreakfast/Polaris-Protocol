@@ -1,5 +1,5 @@
 # 🌑 Prevent as Britain’s Racialised Surveillance System  
-**First created:** 2025-11-22 | **Last updated:** 2026-02-19  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-12  
 *How Prevent functions as a racialised apparatus of surveillance, misclassification, and behavioural governance—regardless of stated intent.*
 
 ---
@@ -206,4 +206,4 @@ It maps how Prevent’s logic, history, and interpretive frameworks consistently
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-12_
