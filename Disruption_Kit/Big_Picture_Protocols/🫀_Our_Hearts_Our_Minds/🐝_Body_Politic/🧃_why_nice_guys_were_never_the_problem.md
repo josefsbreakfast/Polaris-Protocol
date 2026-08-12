@@ -1,5 +1,5 @@
 # 🧃 Why “Nice Guys” Were Never the Problem  
-**First created:** 2025-11-19  **Last updated:** 2025-12-11  
+**First created:** 2025-11-19  **Last updated:** 2026-08-12  
 *A rehabilitation of the so-called “nice guy” archetype — distinguishing genuinely gentle men from the shame-driven behaviours they were punished for.*  
 
 ---
@@ -249,4 +249,4 @@ It restores the reputation of soft, gentle men and exposes how cultural misident
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-12_
