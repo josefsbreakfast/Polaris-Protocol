@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 12:12:47 UTC_
+_Generated on 2026-08-12 12:16:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1518,11 +1518,6 @@ _Generated on 2026-08-12 12:12:47 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🐦‍🔥_Trauma_Psychology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/)
-        - [`🧠_depersonalised_systems_as_cptsd_triggers.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_depersonalised_systems_as_cptsd_triggers.md)
-        - [`🧠_good_doctors_are_not_nazis.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_good_doctors_are_not_nazis.md)
-        - [`🧠_humiliation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_humiliation_as_governance.md)
-        - [`🧠_qualitative_harm_in_quantitative_systems.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_qualitative_harm_in_quantitative_systems.md)
-        - [`🧠_transformative_learning_window.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_transformative_learning_window.md)
         - [`🧠_value_of_the_outlier.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_value_of_the_outlier.md)
         - [`🧨_trauma_driven_compliance.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧨_trauma_driven_compliance.md)
         - [`🧪_ego_insurance_but_make_it_personal.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧪_ego_insurance_but_make_it_personal.md)
@@ -4280,6 +4275,11 @@ _Generated on 2026-08-12 12:12:47 UTC_
         - [`🦔_orbicularis_panniculi_logic.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🦔_orbicularis_panniculi_logic.md)
         - [`🦴_the_pain_of_not_knowing.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🦴_the_pain_of_not_knowing.md)
         - [`🧠_behavioural_trajectories_lab_to_institution.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_behavioural_trajectories_lab_to_institution.md)
+        - [`🧠_depersonalised_systems_as_cptsd_triggers.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_depersonalised_systems_as_cptsd_triggers.md)
+        - [`🧠_good_doctors_are_not_nazis.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_good_doctors_are_not_nazis.md)
+        - [`🧠_humiliation_as_governance.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_humiliation_as_governance.md)
+        - [`🧠_qualitative_harm_in_quantitative_systems.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_qualitative_harm_in_quantitative_systems.md)
+        - [`🧠_transformative_learning_window.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_transformative_learning_window.md)
       - [**🕯_Exorcising_Safeguarding_Shadows/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/)
         - [**audit_legal/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
           - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_legal/README.md)
