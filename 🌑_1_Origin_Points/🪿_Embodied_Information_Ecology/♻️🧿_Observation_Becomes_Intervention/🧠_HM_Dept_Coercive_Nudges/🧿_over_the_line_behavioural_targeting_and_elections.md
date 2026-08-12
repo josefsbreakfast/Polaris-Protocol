@@ -1,5 +1,5 @@
 # ⚖️ Over the Line — Behavioural Targeting and Elections  
-**First created:** 2025-10-11 | **Last updated:** 2025-10-11  
+**First created:** 2025-10-11 | **Last updated:** 2026-08-12  
 *Where behavioural insight becomes electoral interference.*
 
 ---
@@ -77,4 +77,4 @@ It situates the ethics of behavioural insight within electoral law, clarifying w
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2026-08-12_
