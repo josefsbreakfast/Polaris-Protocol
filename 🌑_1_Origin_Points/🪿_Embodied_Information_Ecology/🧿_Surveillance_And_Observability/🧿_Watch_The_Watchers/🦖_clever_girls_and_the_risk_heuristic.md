@@ -1,5 +1,5 @@
 # 🦖 Clever Girls and the Risk Heuristic  
-**First created:** 2025-10-30 | **Last updated:** 2025-10-30  
+**First created:** 2025-10-30 | **Last updated:** 2026-08-12  
 *How brilliance becomes a behavioural anomaly.*
 
 ---
@@ -80,4 +80,4 @@ It documents how gendered heuristics transform intellect into suspicion and how 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-30_
+_Last updated: 2026-08-12_
