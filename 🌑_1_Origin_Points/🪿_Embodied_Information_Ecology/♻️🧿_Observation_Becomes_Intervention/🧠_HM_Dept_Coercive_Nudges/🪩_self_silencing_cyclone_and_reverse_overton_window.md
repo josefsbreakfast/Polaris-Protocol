@@ -1,5 +1,5 @@
 # 🪩 The Self-Silencing Cyclone and the Reverse Overton Window  
-**First created:** 2025-10-08 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-08 | **Last updated:** 2026-08-12  
 *How capitalist engagement metrics feed authoritarian quiet—and how collective normalisation can break the spell.*
 
 ---
@@ -98,4 +98,4 @@ It documents the descent from capitalist visibility regimes to authoritarian sil
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-12_
