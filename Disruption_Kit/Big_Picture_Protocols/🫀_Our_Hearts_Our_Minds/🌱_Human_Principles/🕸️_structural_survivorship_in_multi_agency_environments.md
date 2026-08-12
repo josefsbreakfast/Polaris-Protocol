@@ -1,5 +1,5 @@
 # 🕸️ Structural Survivorship in Multi-Agency Environments
-**First created:** 2025-11-14 | **Last updated:** 2025-12-18  
+**First created:** 2025-11-14 | **Last updated:** 2026-08-12  
 *Why survivors become long-term navigators inside multi-agency systems, and how the structure of those systems makes survivorship a permanent identity rather than a temporary phase.*
 
 ---
@@ -87,3 +87,5 @@ structural survivorship, multi-agency harm, survivor navigation, governance gaps
 
 ## 🏮 Footer  
 *Structural Survivorship in Multi-Agency Environments* reframes survivorship as a predictable structural position produced by fragmented governance and system architecture.
+
+2026-08-12
