@@ -1,5 +1,5 @@
 # 🧬 Selective Permeability — Navigating Power-Weighted Signals Online  
-**First created:** 2025-10-23 | **Last updated:** 2025-12-19  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-12  
 *Don’t out-power the system; re-gate the flow.*  
 
 ---
@@ -94,4 +94,4 @@ It defines adaptive boundary mechanics for maintaining coherence under asymmetri
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-08-12_
