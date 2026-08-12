@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 08:09:50 UTC_
+_Generated on 2026-08-12 08:13:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -485,6 +485,7 @@ _Generated on 2026-08-12 08:09:50 UTC_
         - [`🪜_temporal_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🪜_temporal_containment.md)
       - [**🚩_Angleland_Ahoy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/notes.txt)
         - [`♟️_rise_of_the_npm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/♟️_rise_of_the_npm.md)
         - [`📄_character_sheet.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/📄_character_sheet.md)
         - [`📖_start_here.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/📖_start_here.md)
@@ -568,6 +569,7 @@ _Generated on 2026-08-12 08:09:50 UTC_
         - [`🧿_unit_8200_is_not_hiding_what_it_is.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧿_unit_8200_is_not_hiding_what_it_is.md)
         - [`🩺_fixing_the_nhs_frankenstack.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🩺_fixing_the_nhs_frankenstack.md)
       - [**🧊_Antarctic_Biscuit_Defence_Directory/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/notes.txt)
         - [`☕️_biscuit_press_index.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_biscuit_press_index.md)
         - [`☕️_press_release_001.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_press_release_001.md)
         - [`☕️_press_release_002.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧊_Antarctic_Biscuit_Defence_Directory/☕️_press_release_002.md)
