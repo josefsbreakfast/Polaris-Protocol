@@ -1,5 +1,5 @@
 # 🫂 Mixed-Gender & Queer Sociality as Radicalisation Antidote  
-**First created:** 2025-11-19 | **Last updated:** 2026-01-04  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-12  
 *How friendships with women, queer people, and emotionally literate communities dismantle the conditions extremists rely on.*  
 
 ---
@@ -229,4 +229,4 @@ It details how relational diversity, emotional plurality, and community belongin
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-08-12_
