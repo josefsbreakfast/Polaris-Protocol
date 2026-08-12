@@ -1,5 +1,5 @@
 # 🪦 Mass Funeral as Information Control
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-12  
+**First created:** 2025-11-06  |  **Last updated:** 2026-08-12  
 *When collective mourning becomes the state’s most efficient press office.*  
 
 ---
@@ -51,4 +51,4 @@ It documents how mourning functions as an information firewall and emotional con
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-08-12_
