@@ -1,5 +1,5 @@
 # 🧿 Diaspora Disclosure Tactics  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-03 | **Last updated:** 2026-08-12  
 *How minority communities reposition culpability and invite outside regulators to uncover truth.*  
 
 ---
@@ -46,4 +46,4 @@ It maps how minority communities can survive hostile alignments by repositioning
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-12_
