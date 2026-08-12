@@ -1,5 +1,5 @@
 # 📡 Who Gets to Transmit  
-**First created:** 2025-09-15 | **Last updated:** 2026-04-14  
+**First created:** 2025-09-15 | **Last updated:** 2026-08-12  
 *Constellation thesis: containment is never about safety, it is about legitimacy.*  
 
 ---
@@ -67,4 +67,4 @@ It anchors the **Banned Broadcasts Cooperative**, mapping how states and corpora
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-14_  
+_Last updated: 2026-08-12_  
