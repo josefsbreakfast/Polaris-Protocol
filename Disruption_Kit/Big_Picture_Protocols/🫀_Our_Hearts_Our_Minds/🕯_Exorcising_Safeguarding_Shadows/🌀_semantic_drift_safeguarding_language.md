@@ -1,5 +1,5 @@
 # 🌀 Semantic Drift of Safeguarding Language  
-**First created:** 2025-11-16 | **Last updated:** 2026-02-19  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-12  
 *How safeguarding terms gradually expand, blur, and harden — shifting from protective concepts into tools of risk-classification and administrative control.*
 
 ---
@@ -236,4 +236,4 @@ It explains how safeguarding terms expand beyond their original intent, graduall
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-12_
