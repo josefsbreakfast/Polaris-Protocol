@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 08:13:09 UTC_
+_Generated on 2026-08-12 08:14:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -471,6 +471,7 @@ _Generated on 2026-08-12 08:13:09 UTC_
         - [`🫖_velvet_containment_machine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🫖_velvet_containment_machine.md)
       - [**🕰️_Chronos_Or_Kairos/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/notes.txt)
         - [`⏳_chronos_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/⏳_chronos_as_containment.md)
         - [`⏳_governance_latency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/⏳_governance_latency.md)
         - [`⏳_hinge_point_when_delay_becomes_liability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/⏳_hinge_point_when_delay_becomes_liability.md)
