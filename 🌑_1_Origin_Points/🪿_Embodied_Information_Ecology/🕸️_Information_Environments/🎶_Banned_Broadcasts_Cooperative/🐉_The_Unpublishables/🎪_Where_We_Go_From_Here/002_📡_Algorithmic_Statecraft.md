@@ -1,5 +1,5 @@
 # 📡 Algorithmic Statecraft — Digital Propaganda as Distributed Authoritarianism
-**First created:** 2025-10-08  |  **Last updated:** 2025-10-18  
+**First created:** 2025-10-08  |  **Last updated:** 2026-08-12  
 *How virality and engagement metrics replicate the function of centralised propaganda, converting attention into obedience and outrage into governance.*
 
 ---
