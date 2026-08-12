@@ -1,5 +1,5 @@
 # ⚖️ Landlord Remedies for Covert Surveillance Abuse  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-03 | **Last updated:** 2026-08-12  
 *Civil and tortious claims available when tenants covertly convert property into a surveillance hub.*  
 
 ---
@@ -123,4 +123,4 @@ It documents the civil, tortious, and regulatory claims available when landlords
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-12_
