@@ -1,5 +1,5 @@
 # 🔮 Folk Knowledge, Occult Lineages & Legitimacy  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-12  
 *How relational, oral, and symbolic knowledge is dismissed — until it is appropriated, sanitised, or masculinised.*
 
 ---
@@ -139,4 +139,4 @@ It documents how relational and symbolic knowledge is suppressed, appropriated, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-12_
