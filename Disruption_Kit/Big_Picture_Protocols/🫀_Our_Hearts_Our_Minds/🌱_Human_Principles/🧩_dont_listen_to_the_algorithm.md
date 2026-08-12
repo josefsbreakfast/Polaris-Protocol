@@ -1,5 +1,5 @@
 # 🧩 Don’t Listen to the Algorithm  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-12  
 *A sanity slip for when the emotional telemetry starts shouting.*
 
 ---
@@ -75,4 +75,4 @@ It offers a compact refusal practice for moments when the machine’s emotional 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-12_
