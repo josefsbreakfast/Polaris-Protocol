@@ -1,5 +1,5 @@
 # 🕸️ Algorithmic Hearing Is Not Listening  
-**First created:** 2025-11-11 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-11 | **Last updated:** 2026-08-12  
 *How “listening metrics” simulate responsiveness while erasing real political voice.*  
 
 ---
@@ -79,4 +79,4 @@ It maps how analytic tools simulate democratic responsiveness while structurally
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-12_
