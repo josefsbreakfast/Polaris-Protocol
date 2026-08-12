@@ -1,5 +1,5 @@
 # 🩻 Reflex Against Care — The Body as Vessel, Not Verdict  
-**First created:** 2025-10-25 | **Last updated:** 2025-11-13  
+**First created:** 2025-10-25 | **Last updated:** 2026-08-12  
 *When kindness collides with a nervous system trained to expect pain.*
 
 ---
@@ -118,6 +118,6 @@ It contributes to the archive by [describe purpose: analysis, tool, log, etc.].
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-13_
+_Last updated: 2026-08-12_
 
 ---
