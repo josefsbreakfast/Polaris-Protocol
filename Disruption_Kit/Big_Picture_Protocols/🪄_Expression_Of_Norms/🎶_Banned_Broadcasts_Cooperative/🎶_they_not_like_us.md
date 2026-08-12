@@ -1,6 +1,5 @@
 # 🎶 Broadcast vs. Lawsuit — *Not Like Us* Super Bowl  
-
-**First created:** 2025-10-01 | **Last updated:** 2025-10-06  
+**First created:** 2025-10-01 | **Last updated:** 2026-08-12  
 *A node documenting Kendrick Lamar’s performance of **Not Like Us** at Super Bowl LIX as one of the most powerful moments of survivor-centred broadcast, staged against Drake’s defamation lawsuit.*  
 
 ---
@@ -183,4 +182,4 @@ It documents how lawfare suppression attempts can be inverted by cultural broadc
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_  
+_Last updated: 2026-08-12_  
