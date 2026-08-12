@@ -1,5 +1,5 @@
 # 🧠 Gendered Susceptibility to Nudges (The Stepford Surface)  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-13  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-12  
 *Why nudging systems act disproportionately on women, especially maternal-coded or care-socialised women.*  
 
 ---
@@ -43,4 +43,4 @@ Cross-references:
 - Burnout / Over-Nudging
 - Countermeasures for Prosocial Individuals  
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-08-12_
