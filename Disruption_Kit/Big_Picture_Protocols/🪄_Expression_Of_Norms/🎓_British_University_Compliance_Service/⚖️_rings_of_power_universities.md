@@ -1,5 +1,5 @@
 # ⚖️ Rings of Power for Universities  
-**First created:** 2025-09-05 | **Last updated:** 2026-01-04  
+**First created:** 2025-09-05 | **Last updated:** 2026-08-12  
 *How universities are tempted with containment bargains: sovereignty traded for the illusion of stability.*  
 
 ---
@@ -30,4 +30,4 @@ It documents how containment bargains function as an industry, with universities
 > - [⚠️ Authoritarian Incentives in Universities](./⚠️_authoritarian_incentives_in_universities.md)
 > - [🌀 The Full Authoritarian Capture Lifecycle](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌀_authoritarian_capture_lifecycle.md)  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-08-12_
