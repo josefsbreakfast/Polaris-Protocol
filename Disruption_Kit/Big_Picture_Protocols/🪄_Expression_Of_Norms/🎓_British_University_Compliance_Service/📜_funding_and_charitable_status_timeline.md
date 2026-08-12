@@ -1,5 +1,5 @@
 # 📜 Funding and Charitable Status Timeline — UK Universities  
-**First created:** 2025-09-23 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-23 | **Last updated:** 2026-08-12  
 *A history of how UK universities became “charitable” bodies that act like corporations, shaped by policy vibes, marketisation, and global soft power shifts.*  
 
 ---
@@ -110,4 +110,4 @@ and contradictions between charity law, market economics, and global soft power.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2026-08-12_  
