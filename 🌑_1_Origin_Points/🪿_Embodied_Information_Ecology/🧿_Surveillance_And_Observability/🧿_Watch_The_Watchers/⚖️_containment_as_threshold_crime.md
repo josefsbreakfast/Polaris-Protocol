@@ -1,5 +1,5 @@
 # ⚖️ Containment as Threshold Crime  
-**First created:** 2025-10-07 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-07 | **Last updated:** 2026-08-12  
 *On when administrative containment passes from governance to atrocity.*
 
 ---
@@ -84,4 +84,4 @@ It formalises the question of when bureaucratic harm crosses from governance fai
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-12_
