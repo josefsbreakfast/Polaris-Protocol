@@ -1,5 +1,5 @@
 # 🎙 Congress Radio and Partition Cinema  
-**First created:** 2025-09-15 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-15 | **Last updated:** 2026-08-12  
 *Clandestine broadcasts of the Quit India movement and their cinematic afterlives, retold for the colonised British mind.*  
 
 ---
@@ -115,4 +115,4 @@ It documents clandestine broadcasts of the Quit India movement and their cinemat
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2026-08-12_  
