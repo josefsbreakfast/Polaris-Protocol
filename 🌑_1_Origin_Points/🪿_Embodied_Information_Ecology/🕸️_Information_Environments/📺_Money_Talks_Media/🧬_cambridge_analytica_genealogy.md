@@ -1,5 +1,5 @@
 # 🧬 Cambridge Analytica Genealogy  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-04  
+**First created:** 2025-09-14 | **Last updated:** 2026-08-12  
 *Tracing the persistence of data-driven psychological manipulation from Cambridge Analytica to its modern successors across media, politics, and crisis management.*
 
 ---
@@ -84,4 +84,4 @@ It maps the **evolutionary trail of data-manipulation firms** from Cambridge Ana
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-04_
+_Last updated: 2026-08-12_
