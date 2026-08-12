@@ -1,5 +1,5 @@
 # 🧭 Signal Alignment — Choosing Which Stream to Amplify  
-**First created:** 2025-10-23 | **Last updated:** 2025-12-19  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-12  
 *Selective tuning among competing data feeds.*  
 
 ---
@@ -91,4 +91,4 @@ It outlines adaptive tuning practices for maintaining coherence across competing
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-08-12_
