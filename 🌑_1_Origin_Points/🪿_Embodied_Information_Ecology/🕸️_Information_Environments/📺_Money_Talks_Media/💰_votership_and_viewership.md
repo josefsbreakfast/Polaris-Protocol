@@ -1,5 +1,5 @@
 # 💰 Votership and Viewership  
-**First created:** 2025-10-27  |  **Last updated:** 2025-10-27  
+**First created:** 2025-10-27  |  **Last updated:** 2026-08-12  
 *On how the ballot box and the comment section became the same stage.*
 
 ---
@@ -96,4 +96,4 @@ within *🪄 Expression of Norms* — the study of how communication becomes cho
 It tracks the monetisation of belief and the conversion of citizens into audience segments.  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-27_
+_Last updated: 2026-08-12_
