@@ -1,5 +1,5 @@
 # 🕯️ The Ethics of Refusal in Austerity States  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-17  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-12  
 *How refusal exposes the moral architecture of a state built on managed scarcity.*
 
 ---
@@ -108,4 +108,4 @@ It examines how voluntary deprivation exposes the moral architecture of governme
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2026-08-12_
