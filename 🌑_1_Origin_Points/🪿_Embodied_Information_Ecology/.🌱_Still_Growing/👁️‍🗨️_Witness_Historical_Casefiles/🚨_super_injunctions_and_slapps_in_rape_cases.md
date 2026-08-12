@@ -1,5 +1,5 @@
 # 🚨 Super-Injunctions and SLAPPs in Rape Cases  
-**First created:** 2025-09-04 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-04 | **Last updated:** 2026-08-12  
 *Mapping how legal secrecy regimes erase survivors’ testimony and entrench silencing.*  
 
 ---
@@ -82,4 +82,4 @@ It documents how legal secrecy in the UK transforms from protection into coercio
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
