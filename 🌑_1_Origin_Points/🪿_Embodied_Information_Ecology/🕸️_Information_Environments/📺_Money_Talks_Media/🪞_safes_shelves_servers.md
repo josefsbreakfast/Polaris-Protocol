@@ -1,5 +1,5 @@
 # 🪞 Safes, Shelves & Servers — The Evolution of Institutional Containment  
-**First created:** 2025-10-16 | **Last updated:** 2025-10-21  
+**First created:** 2025-10-16 | **Last updated:** 2026-08-12  
 *From moral cabinets to machine filters — how institutions learn to hide knowledge while pretending to preserve it.*
 
 ---
@@ -151,4 +151,4 @@ Every “safe space” is also a vault, and every vault teaches future systems w
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-21_
+_Last updated: 2026-08-12_
