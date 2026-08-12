@@ -1,5 +1,5 @@
 # 🩺 When Data Harm Becomes Physical Harm (Frailty Node)
-**First created:** 2025-11-14 | **Last updated:** 2025-12-18  
+**First created:** 2025-11-14 | **Last updated:** 2026-08-12  
 *How data errors, silencing, and multi-agency drift manifest as real, measurable deterioration in physical health.*
 
 ---
@@ -85,3 +85,5 @@ frailty, data harm, physical deterioration, chronic stress, silence-harm, system
 
 ## 🏮 Footer  
 *When Data Harm Becomes Physical Harm (Frailty Node)* reframes health decline as a structural consequence of digital and bureaucratic harm.
+
+2026-08-12
