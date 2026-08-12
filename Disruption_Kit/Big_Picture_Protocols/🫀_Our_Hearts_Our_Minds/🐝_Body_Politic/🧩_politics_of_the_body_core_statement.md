@@ -1,5 +1,5 @@
 # 🧩 Politics of the Body: Core Statement  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-03 | **Last updated:** 2026-08-12  
 *Why disability is not niche, and why ableism sustains every system of containment.*  
 
 ---
@@ -50,4 +50,4 @@ disability politics, body politic, ableism, eugenics, surveillance, dignity, int
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
