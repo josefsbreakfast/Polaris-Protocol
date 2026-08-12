@@ -1,5 +1,5 @@
 # 🧠 Memory Encoding Endings  
-**First created:** 2025-09-10 | **Last updated:** 2025-10-08  
+**First created:** 2025-09-10 | **Last updated:** 2026-08-12  
 *Why winding down carefully matters, and why abrupt endings scar memory.*
 
 ---
@@ -50,4 +50,4 @@ It frames endings not as weakness but as survivor strategy for healthy encoding.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_  
+_Last updated: 2026-08-12_  
