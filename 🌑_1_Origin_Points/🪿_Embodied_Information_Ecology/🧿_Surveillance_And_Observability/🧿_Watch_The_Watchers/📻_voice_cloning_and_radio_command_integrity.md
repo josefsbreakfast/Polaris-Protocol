@@ -1,5 +1,5 @@
 # 📻 Voice Cloning & Radio Command Integrity  
-**First created:** 2025-10-11 | **Last updated:** 2026-01-06  
+**First created:** 2025-10-11 | **Last updated:** 2026-08-12  
 *When a cloned voice can hijack a net faster than anyone can verify source.*  
 
 ---
@@ -119,4 +119,4 @@ It documents how AI audio manipulation threatens the operational core of radio-b
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-01-06_
+_Last updated: 2026-08-12_
