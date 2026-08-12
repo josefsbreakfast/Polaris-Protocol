@@ -1,5 +1,5 @@
 # 🎐 The Psychology of “Just Raising a Concern”  
-**First created:** 2025-11-16 | **Last updated:** 2026-02-19  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-12  
 *How vague, low-evidence concerns become institutional events with real-world consequences.*  
 
 ---
@@ -216,4 +216,4 @@ It analyses how vague, low-evidence concerns become high-impact institutional ev
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-12_
