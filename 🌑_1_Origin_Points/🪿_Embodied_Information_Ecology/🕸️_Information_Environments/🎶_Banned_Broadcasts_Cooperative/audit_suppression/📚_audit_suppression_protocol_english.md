@@ -1,5 +1,5 @@
 # 📚 English-Language Book Suppression — Audit Protocol  
-**First created:** 2025-10-01 | **Last updated:** 2025-10-01  
+**First created:** 2025-10-01 | **Last updated:** 2026-08-12  
 *Step-by-step method to detect, measure, and evidence suppression of English-language book titles across retail, libraries, and indexing systems*
 
 <a id="TOP"></a>
@@ -202,4 +202,4 @@ It provides a reproducible method to **measure suppression gaps** and preserve *
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-01_
+_Last updated: 2026-08-12_
