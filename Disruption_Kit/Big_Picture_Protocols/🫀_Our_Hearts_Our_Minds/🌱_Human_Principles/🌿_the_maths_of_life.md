@@ -1,5 +1,5 @@
 # 🌿 The Maths of Life  
-**First created:** 2025-12-16 | **Last updated:** 2025-12-16  
+**First created:** 2025-12-16 | **Last updated:** 2026-08-12  
 *Why biology, cognition, symbols, and data systems converge on the same structures.*
 
 ---
@@ -242,4 +242,4 @@ It grounds bioscience, cognition, and data governance in shared mathematical str
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-16_
+_Last updated: 2026-08-12_
