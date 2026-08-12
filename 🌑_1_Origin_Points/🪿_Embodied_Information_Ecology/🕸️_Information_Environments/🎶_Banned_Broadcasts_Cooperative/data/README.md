@@ -1,6 +1,5 @@
 # 📂 Banned Broadcasts Cooperative — Data & Analysis  
-
-**First created:** 2025-09-23 | **Last updated:** 2025-09-23  
+**First created:** 2025-09-23 | **Last updated:** 2026-08-12  
 *Structured evidence, datasets, and analytic notes underpinning muted and banned media cases.*  
 
 ---
