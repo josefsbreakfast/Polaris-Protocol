@@ -1,5 +1,5 @@
 # 🪖 Defence Is for All of Us  
-**First created:** 2025-12-24 | **Last updated:** 2026-01-04  
+**First created:** 2025-12-24 | **Last updated:** 2026-08-12  
 *National defence exists to protect the whole population, not to privilege the powerful.*  
 
 ---
@@ -146,4 +146,4 @@ It establishes a core principle: that national defence exists to protect people 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-08-12_
