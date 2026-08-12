@@ -1,5 +1,5 @@
 # 💔 The Women Drafted Into Each Other  
-**First created:** 2025-11-23 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-23 | **Last updated:** 2026-08-12  
 *For the women groomed into the back rooms—used to watch, manage, or contain other women.*
 
 ---
@@ -115,4 +115,4 @@ It documents the recruitment of women into emotional-surveillance and harm-trans
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-08-12_
