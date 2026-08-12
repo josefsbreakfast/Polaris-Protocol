@@ -1,5 +1,5 @@
 # 🗞️ Credibility Corrosion — Clone Newsrooms and the Erosion of Local Trust  
-**First created:** 2025-10-30 | **Last updated:** 2025-10-30  
+**First created:** 2025-10-30 | **Last updated:** 2026-08-12  
 *When every headline looks familiar, truth dissolves into déjà vu.*
 
 ---
@@ -77,4 +77,4 @@ It documents how information oversupply and algorithmic mimicry turn healthy ske
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-30_
+_Last updated: 2026-08-12_
