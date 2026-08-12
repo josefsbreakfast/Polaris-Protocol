@@ -1,5 +1,5 @@
 # 📻 Lobbying Killed the Radio Star
-**First created:** 2026-02-09 | **Last updated:** 2026-02-09  
+**First created:** 2026-02-09 | **Last updated:** 2026-08-12  
 *How anticipatory legal risk and commercial caution quietly hollow out broadcast journalism — and why this undermines UK democracy.*
 
 ---
@@ -323,4 +323,4 @@ It documents a structural democratic risk: the quiet retreat of journalism under
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-09_
+_Last updated: 2026-08-12_
