@@ -1,5 +1,5 @@
 # 🔁 Ritual and Refusal — Re-Enchantment After the Machine  
-**First created:** 2025-10-25 | **Last updated:** 2025-12-07  
+**First created:** 2025-10-25 | **Last updated:** 2026-08-12  
 *Why humans keep making ceremony even when systems erase it.*  
 
 ---
@@ -93,3 +93,5 @@ Ritual keeps the fire lit.
 
 ## ✨ Stardust  
 ritual-and-refusal, re-enchantment, trauma-and-grief, anti-machina, disability-justice, cultural-memory, slow-politics, post-industrial-humanity
+
+2026-08-12
