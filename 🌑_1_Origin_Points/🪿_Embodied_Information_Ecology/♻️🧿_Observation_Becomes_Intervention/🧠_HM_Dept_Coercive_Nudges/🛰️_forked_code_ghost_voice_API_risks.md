@@ -1,5 +1,5 @@
 # 🛰️ Forked Code + Ghost-Voice API Risks  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-04 | **Last updated:** 2026-08-12  
 *Threat brief on geotargeted “voice forks” and invisible decision trees.*  
 
 ---
@@ -31,4 +31,4 @@ ghost voice, geotargeting, invisible decision tree, SDK risk, provenance, detect
 A minimal surface map so product, policy, and ops teams can collaborate on controls.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-12_
