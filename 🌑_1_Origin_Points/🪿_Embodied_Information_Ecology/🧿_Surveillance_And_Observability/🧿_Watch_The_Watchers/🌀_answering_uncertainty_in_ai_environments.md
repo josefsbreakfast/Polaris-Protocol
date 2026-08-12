@@ -1,5 +1,5 @@
 # 🌀 Answering Uncertainty in AI Environments  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-12  
 *How AI should talk when it cannot know, must not guess, and must honour user intelligence.*  
 
 ---
@@ -133,4 +133,4 @@ Acknowledge when a fear reflects past harm rather than present risk.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_  
+_Last updated: 2026-08-12_  
