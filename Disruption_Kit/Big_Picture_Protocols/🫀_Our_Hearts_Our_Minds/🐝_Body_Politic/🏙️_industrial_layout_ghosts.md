@@ -1,5 +1,5 @@
 # 🏙️ Industrial Layout Ghosts — Why UK Towns Don’t Work for People  
-**First created:** 2025-10-14 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-14 | **Last updated:** 2026-08-12  
 *How the built logic of the nineteenth-century workforce still shapes twenty-first-century loneliness.*
 
 ---
@@ -113,4 +113,4 @@ It traces how the spatial logic of the nineteenth century continues to script tw
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2026-08-12_
