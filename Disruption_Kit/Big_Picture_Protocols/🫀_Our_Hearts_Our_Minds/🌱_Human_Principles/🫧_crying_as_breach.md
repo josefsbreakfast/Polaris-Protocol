@@ -1,5 +1,5 @@
 # 🫧 Crying as Breach — Emotional Containment and the Professional Body  
-**First created:** 2025-10-23 | **Last updated:** 2025-11-06  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-12  
 *When tears become a compliance violation.*
 
 ---
@@ -99,4 +99,4 @@ The node extends the **Meta-Trauma Layer** framework within *Therapeutic Resista
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-06_
+_Last updated: 2026-08-12_
