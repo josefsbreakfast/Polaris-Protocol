@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 08:58:57 UTC_
+_Generated on 2026-08-12 09:08:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4521,6 +4521,14 @@ _Generated on 2026-08-12 08:58:57 UTC_
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/.🌱_Still_Growing/notes.txt)
       - [**🫁_Holistic_Health_In_Surveillant_Societies/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/🫁_Holistic_Health_In_Surveillant_Societies/)
+        - [**📖_literature_review_funnel/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/)
+          - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/README.md)
+          - [`🐘_the_ghost_of_a_very_big_elephant.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/🐘_the_ghost_of_a_very_big_elephant.md)
+        - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/🫁_Holistic_Health_In_Surveillant_Societies/README.md)
+        - [`🌶️_WHOQOLBREF_surveillance_impact_scoring.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/🫁_Holistic_Health_In_Surveillant_Societies/🌶️_WHOQOLBREF_surveillance_impact_scoring.md)
+        - [`🦅_overstimulated_prey_response.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/🫁_Holistic_Health_In_Surveillant_Societies/🦅_overstimulated_prey_response.md)
+        - [`🧠_context_deprivation_effect.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/🫁_Holistic_Health_In_Surveillant_Societies/🧠_context_deprivation_effect.md)
+        - [`🧠_cumulative_surveillance_burden.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/🫁_Holistic_Health_In_Surveillant_Societies/🧠_cumulative_surveillance_burden.md)
         - [`🧠_residual_attentional_conditioning_injury.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/🫁_Holistic_Health_In_Surveillant_Societies/🧠_residual_attentional_conditioning_injury.md)
         - [`🧠_the_background_terror.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/🫁_Holistic_Health_In_Surveillant_Societies/🧠_the_background_terror.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/README.md)
@@ -4529,17 +4537,6 @@ _Generated on 2026-08-12 08:58:57 UTC_
     - [`llm_wheretogo.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/llm_wheretogo.txt)
     - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/notes.txt)
     - [`wheretogo.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/wheretogo.txt)
-  - [**🫀_Body_Matters/**](🌑_1_Origin_Points/🫀_Body_Matters/)
-    - [**🫁_Holistic_Health_In_Surveillant_Societies/**](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/)
-      - [**📖_literature_review_funnel/**](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/)
-        - [`README.md`](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/README.md)
-        - [`🐘_the_ghost_of_a_very_big_elephant.md`](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/📖_literature_review_funnel/🐘_the_ghost_of_a_very_big_elephant.md)
-      - [`README.md`](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/README.md)
-      - [`🌶️_WHOQOLBREF_surveillance_impact_scoring.md`](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/🌶️_WHOQOLBREF_surveillance_impact_scoring.md)
-      - [`🦅_overstimulated_prey_response.md`](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/🦅_overstimulated_prey_response.md)
-      - [`🧠_context_deprivation_effect.md`](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/🧠_context_deprivation_effect.md)
-      - [`🧠_cumulative_surveillance_burden.md`](🌑_1_Origin_Points/🫀_Body_Matters/🫁_Holistic_Health_In_Surveillant_Societies/🧠_cumulative_surveillance_burden.md)
-    - [`README.md`](🌑_1_Origin_Points/🫀_Body_Matters/README.md)
   - [`README.md`](🌑_1_Origin_Points/README.md)
 - [**🌒_2_Signs_Symptoms/**](🌒_2_Signs_Symptoms/)
   - [**.🌱_Still_Growing/**](🌒_2_Signs_Symptoms/.🌱_Still_Growing/)
