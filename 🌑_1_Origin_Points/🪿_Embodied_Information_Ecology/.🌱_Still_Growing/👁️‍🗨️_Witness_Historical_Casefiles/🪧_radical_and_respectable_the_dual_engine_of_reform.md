@@ -1,5 +1,5 @@
 # 🪧 Radical & Respectable — The Dual Engine of Reform  
-**First created:** 2025-11-07 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-12  
 *Why durable reform requires both disruptive pressure and institutional legibility — and why separating them weakens change.*  
 
 ---
@@ -174,4 +174,4 @@ It documents reform as a coupled system of disruption and translation, arguing t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-08-12_
