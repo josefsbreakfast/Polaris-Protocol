@@ -1,5 +1,5 @@
 # 🪬 Xenofeminism Link Note — Reclaiming the Engineered Body  
-**First created:** 2025-10-18 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-18 | **Last updated:** 2026-08-12  
 *Connecting surveillance-induced intimacy breach to xenofeminist technomaterialism.*
 
 ---
@@ -58,4 +58,4 @@ It connects survivor experience of surveillance-based sexualisation with xenofem
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-12_
