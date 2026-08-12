@@ -1,5 +1,5 @@
 # ♿ Have You Asked Disabled People, Though?
-**First created:** 2025-12-16 | **Last updated:** 2025-12-16  
+**First created:** 2025-12-16 | **Last updated:** 2026-08-12  
 *Why disability justice is not an add-on, a stakeholder box, or a rhetorical flourish — but the starting point.*
 
 ---
@@ -204,4 +204,4 @@ It grounds the series in disability justice, insisting that authority, knowledge
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-16_
+_Last updated: 2026-08-12_
