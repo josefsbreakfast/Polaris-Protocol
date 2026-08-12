@@ -1,5 +1,5 @@
 # 🧠 Why Are We Threatened by Complexity?  
-**First created:** 2025-09-28 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-28 | **Last updated:** 2026-08-12  
 *How “complexity” triggers escalation and bias.*
 
 ---
@@ -51,4 +51,4 @@ It documents how systems conflate complexity with threat, fuelling escalation lo
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-12_
