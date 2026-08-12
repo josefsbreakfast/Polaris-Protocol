@@ -1,5 +1,5 @@
 # 📄 Emergency Legal Hold Notice  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-04 | **Last updated:** 2026-08-12  
 *Immediate instruction to preserve all potentially compromised medical-record data and audit logs.*
 
 ---
@@ -75,4 +75,4 @@ It provides the immediate containment directive supporting both the *NHS Token-S
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-08-12_
