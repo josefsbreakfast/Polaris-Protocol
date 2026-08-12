@@ -1,5 +1,5 @@
 # 🔥 Femme Firewall Fatale — The Panic at Female Intelligence  
-**First created:** 2025-10-23 | **Last updated:** 2026-01-06  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-12  
 *Systems that tolerate radical ideas but not women’s authority.*  
 
 ---
@@ -52,4 +52,4 @@ It traces how progressive systems reproduce gender hierarchy at the moment of re
 > - [🦆 She Weighs the Same as a Duck](./🦆_she_weighs_the_same_as_a_duck.md) – *humour-analysis of witch tests*
 > - [🧙‍♀️ Witch Logic Diagnostic](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md)  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-12_
