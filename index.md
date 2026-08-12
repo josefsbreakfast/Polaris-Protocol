@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 12:04:05 UTC_
+_Generated on 2026-08-12 12:10:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1518,14 +1518,6 @@ _Generated on 2026-08-12 12:04:05 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🐦‍🔥_Trauma_Psychology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/)
-        - [`🎻_clash_of_forks.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🎻_clash_of_forks.md)
-        - [`🐍_snake_bites_and_stolen_voices.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)
-        - [`🐍_trauma_commodification.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_trauma_commodification.md)
-        - [`🐺_dickwolves_survivors_guild.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐺_dickwolves_survivors_guild.md)
-        - [`📛_pathway_fit_error.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/📛_pathway_fit_error.md)
-        - [`📜_if_and_the_ethics_of_staying_intact.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/📜_if_and_the_ethics_of_staying_intact.md)
-        - [`📧_it_could_have_been_an_email.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/📧_it_could_have_been_an_email.md)
-        - [`🥀_the_politics_of_male_loneliness.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🥀_the_politics_of_male_loneliness.md)
         - [`🦔_hedgehog_on_fire.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🦔_hedgehog_on_fire.md)
         - [`🦔_orbicularis_panniculi_logic.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🦔_orbicularis_panniculi_logic.md)
         - [`🦴_the_pain_of_not_knowing.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🦴_the_pain_of_not_knowing.md)
@@ -4280,6 +4272,14 @@ _Generated on 2026-08-12 12:04:05 UTC_
         - [`⚡_ptsd_is_not_a_jump_scare.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/⚡_ptsd_is_not_a_jump_scare.md)
         - [`🌊_on_being_the_manual_override.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🌊_on_being_the_manual_override.md)
         - [`🎙️_why_they_collect_audio.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🎙️_why_they_collect_audio.md)
+        - [`🎻_clash_of_forks.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🎻_clash_of_forks.md)
+        - [`🐍_snake_bites_and_stolen_voices.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)
+        - [`🐍_trauma_commodification.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_trauma_commodification.md)
+        - [`🐺_dickwolves_survivors_guild.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐺_dickwolves_survivors_guild.md)
+        - [`📛_pathway_fit_error.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/📛_pathway_fit_error.md)
+        - [`📜_if_and_the_ethics_of_staying_intact.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/📜_if_and_the_ethics_of_staying_intact.md)
+        - [`📧_it_could_have_been_an_email.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/📧_it_could_have_been_an_email.md)
+        - [`🥀_the_politics_of_male_loneliness.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🥀_the_politics_of_male_loneliness.md)
       - [**🕯_Exorcising_Safeguarding_Shadows/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/)
         - [**audit_legal/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
           - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_legal/README.md)
