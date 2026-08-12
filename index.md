@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 11:14:32 UTC_
+_Generated on 2026-08-12 11:20:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1651,18 +1651,6 @@ _Generated on 2026-08-12 11:14:32 UTC_
         - [`🪧_radical_and_respectable_the_dual_engine_of_reform.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪧_radical_and_respectable_the_dual_engine_of_reform.md)
         - [`🪹_it_is_not_ai_by_itself.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🪹_it_is_not_ai_by_itself.md)
         - [`🫀_duty_of_care_reframed_as_reputational_risk.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🫀_duty_of_care_reframed_as_reputational_risk.md)
-      - [**🕯_Exorcising_Safeguarding_Shadows/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/)
-        - [`🧠_targeting_logic_empathy_is_a_threat.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧠_targeting_logic_empathy_is_a_threat.md)
-        - [`🧨_real_vs_fake_duty_of_care.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧨_real_vs_fake_duty_of_care.md)
-        - [`🧪_did_unis_really_address_rape_epidemic_tho.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧪_did_unis_really_address_rape_epidemic_tho.md)
-        - [`🧫_black_mould_principle.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧫_black_mould_principle.md)
-        - [`🧬_NHS_token_switching_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧬_NHS_token_switching_integrity.md)
-        - [`🧬_report_twinning.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧬_report_twinning.md)
-        - [`🧬_report_twinning_index.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧬_report_twinning_index.md)
-        - [`🧬_shadow_audit_trails.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧬_shadow_audit_trails.md)
-        - [`🧬_shadow_safeguarding_dossiers.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🧬_shadow_safeguarding_dossiers.md)
-        - [`🪞_boring_mechanisms_sensational_harms.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🪞_boring_mechanisms_sensational_harms.md)
-        - [`🪣_hidden_data_loop_audit.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🕯_Exorcising_Safeguarding_Shadows/🪣_hidden_data_loop_audit.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/README.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
@@ -4378,6 +4366,17 @@ _Generated on 2026-08-12 11:14:32 UTC_
         - [`🕳️_exploitability_identifier_translation_weaknesses.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/🕳️_exploitability_identifier_translation_weaknesses.md)
         - [`🗂️_cse_scandals_post_2013.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/🗂️_cse_scandals_post_2013.md)
         - [`🦈_surveillance_by_misread_and_malice.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/🦈_surveillance_by_misread_and_malice.md)
+        - [`🧠_targeting_logic_empathy_is_a_threat.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/🧠_targeting_logic_empathy_is_a_threat.md)
+        - [`🧨_real_vs_fake_duty_of_care.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/🧨_real_vs_fake_duty_of_care.md)
+        - [`🧪_did_unis_really_address_rape_epidemic_tho.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/🧪_did_unis_really_address_rape_epidemic_tho.md)
+        - [`🧫_black_mould_principle.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/🧫_black_mould_principle.md)
+        - [`🧬_NHS_token_switching_integrity.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/🧬_NHS_token_switching_integrity.md)
+        - [`🧬_report_twinning.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/🧬_report_twinning.md)
+        - [`🧬_report_twinning_index.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/🧬_report_twinning_index.md)
+        - [`🧬_shadow_audit_trails.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/🧬_shadow_audit_trails.md)
+        - [`🧬_shadow_safeguarding_dossiers.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/🧬_shadow_safeguarding_dossiers.md)
+        - [`🪞_boring_mechanisms_sensational_harms.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/🪞_boring_mechanisms_sensational_harms.md)
+        - [`🪣_hidden_data_loop_audit.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/🪣_hidden_data_loop_audit.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/notes.txt)
     - [**🐣_The_Whole_Ecology/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/)
