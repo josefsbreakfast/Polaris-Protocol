@@ -1,5 +1,5 @@
 # 📜 Statutory Censorship Logics  
-**First created:** 2025-09-29 | **Last updated:** 2025-12-25  
+**First created:** 2025-09-29 | **Last updated:** 2026-08-12  
 *Not every silencing is illegal. Some are precisely lawful.*  
 
 ---
@@ -90,4 +90,4 @@ and how “freedom” is filtered at the level of compliance.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_  
+_Last updated: 2026-08-12_  
