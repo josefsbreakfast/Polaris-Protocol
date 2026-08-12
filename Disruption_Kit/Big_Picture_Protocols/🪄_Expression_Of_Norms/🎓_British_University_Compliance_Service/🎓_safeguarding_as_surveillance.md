@@ -1,5 +1,5 @@
 # 🎓 Safeguarding as Surveillance — University Case Pattern  
-**First created:** 2025-10-15 | **Last updated:** 2025-11-13  
+**First created:** 2025-10-15 | **Last updated:** 2026-08-12  
 *Diagnostic account of how UK university safeguarding and Prevent frameworks act as surveillance extensions when student distress conflicts with state or donor narratives.*
 
 ---
@@ -87,4 +87,4 @@ It traces how higher-education risk frameworks convert distress into data signal
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-13_
+_Last updated: 2026-08-12_
