@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 11:45:21 UTC_
+_Generated on 2026-08-12 11:52:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1517,20 +1517,6 @@ _Generated on 2026-08-12 11:45:21 UTC_
         - [`🪦_mass_funeral_as_information_control.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🪦_mass_funeral_as_information_control.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
-      - [**🐝_Body_Politic/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/)
-        - [`🦆_she_weighs_the_same_as_a_duck.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦆_she_weighs_the_same_as_a_duck.md)
-        - [`🦴_anatomy_of_male_emotional_starvation.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦴_anatomy_of_male_emotional_starvation.md)
-        - [`🦿_eugenics_as_everyday_metaphor.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🦿_eugenics_as_everyday_metaphor.md)
-        - [`🧃_why_nice_guys_were_never_the_problem.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧃_why_nice_guys_were_never_the_problem.md)
-        - [`🧠_where_is_this_overdiagnosis.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧠_where_is_this_overdiagnosis.md)
-        - [`🧩_mixed_gender_sociality_as_antidote.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧩_mixed_gender_sociality_as_antidote.md)
-        - [`🧩_politics_of_the_body_core_statement.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🧩_politics_of_the_body_core_statement.md)
-        - [`🩸_surveillance_induced_intimacy_breach.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🩸_surveillance_induced_intimacy_breach.md)
-        - [`🩺_diagnosis_as_agency.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🩺_diagnosis_as_agency.md)
-        - [`🩻_reflex_against_care.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🩻_reflex_against_care.md)
-        - [`🩻_worker_health_is_a_bipartisan_win.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🩻_worker_health_is_a_bipartisan_win.md)
-        - [`🫀_disabled_refusal_as_politics.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🫀_disabled_refusal_as_politics.md)
-        - [`🫂_mixed_gender_queer_sociality_as_radicalisation_antidote.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🫂_mixed_gender_queer_sociality_as_radicalisation_antidote.md)
       - [**🐦‍🔥_Trauma_Psychology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md)
         - [`battleplan_metadata_twinning_convergence_containment.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/battleplan_metadata_twinning_convergence_containment.png)
@@ -4490,6 +4476,19 @@ _Generated on 2026-08-12 11:45:21 UTC_
         - [`🗣️_capture_and_reclamation_of_language.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🗣️_capture_and_reclamation_of_language.md)
         - [`😴_millennial_exhaustion_as_a_political_condition.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/😴_millennial_exhaustion_as_a_political_condition.md)
         - [`🛠️_disabled_design_benefits_you_too.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🛠️_disabled_design_benefits_you_too.md)
+        - [`🦆_she_weighs_the_same_as_a_duck.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🦆_she_weighs_the_same_as_a_duck.md)
+        - [`🦴_anatomy_of_male_emotional_starvation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🦴_anatomy_of_male_emotional_starvation.md)
+        - [`🦿_eugenics_as_everyday_metaphor.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🦿_eugenics_as_everyday_metaphor.md)
+        - [`🧃_why_nice_guys_were_never_the_problem.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🧃_why_nice_guys_were_never_the_problem.md)
+        - [`🧠_where_is_this_overdiagnosis.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🧠_where_is_this_overdiagnosis.md)
+        - [`🧩_mixed_gender_sociality_as_antidote.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🧩_mixed_gender_sociality_as_antidote.md)
+        - [`🧩_politics_of_the_body_core_statement.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🧩_politics_of_the_body_core_statement.md)
+        - [`🩸_surveillance_induced_intimacy_breach.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🩸_surveillance_induced_intimacy_breach.md)
+        - [`🩺_diagnosis_as_agency.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🩺_diagnosis_as_agency.md)
+        - [`🩻_reflex_against_care.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🩻_reflex_against_care.md)
+        - [`🩻_worker_health_is_a_bipartisan_win.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🩻_worker_health_is_a_bipartisan_win.md)
+        - [`🫀_disabled_refusal_as_politics.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🫀_disabled_refusal_as_politics.md)
+        - [`🫂_mixed_gender_queer_sociality_as_radicalisation_antidote.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🫂_mixed_gender_queer_sociality_as_radicalisation_antidote.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/notes.txt)
     - [**🫀♻️_The_Body_In_The_Loop/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/)
