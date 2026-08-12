@@ -1,5 +1,5 @@
 # 🖨️ Print Culture as Precedent  
-**First created:** 2025-09-04 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-04 | **Last updated:** 2026-08-12  
 *How early print technologies amplified a handful of men into centuries of cultural distortion.*  
 
 ---
@@ -108,4 +108,4 @@ Within this precedent, *Project Esther* names the flattening of women’s surviv
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2026-08-12_  
