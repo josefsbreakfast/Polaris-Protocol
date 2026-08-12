@@ -1,5 +1,5 @@
 # 🌿 Algorithmic Ecology — Precision Without Context  
-**First created:** 2025-10-24 | **Last updated:** 2025-10-27  
+**First created:** 2025-10-24 | **Last updated:** 2026-08-12  
 *When interventions meant for individuals reshape the population ecosystem.*
 
 ---
@@ -105,4 +105,4 @@ It shows how the rhetoric of precision conceals ecological and biochemical colla
 > 📡 Cross-references: *TBC*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-27_
+_Last updated: 2026-08-12_
