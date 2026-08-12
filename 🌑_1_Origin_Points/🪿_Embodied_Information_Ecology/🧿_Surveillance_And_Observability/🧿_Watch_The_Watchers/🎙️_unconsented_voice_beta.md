@@ -1,5 +1,5 @@
 # 🎙️ Unconsented Voice Beta  
-**First created:** 2025-10-24 | **Last updated:** 2025-12-07  
+**First created:** 2025-10-24 | **Last updated:** 2026-08-12  
 *CVE R&D but make it somehow worse.*  
 
 ---
@@ -123,4 +123,4 @@ ai voice, middleware, consent, beta testing, outsourcing, whistleblowing, govern
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-08-12_
