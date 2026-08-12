@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 17:29:03 UTC_
+_Generated on 2026-08-12 17:31:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1431,10 +1431,6 @@ _Generated on 2026-08-12 17:29:03 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📼_Politicians_Gone_Wild/README.md)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📼_Politicians_Gone_Wild/notes.txt)
       - [**🙀_Chronically_Online/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/README.md)
-        - [`⛴️_boaty_mcboatface.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/⛴️_boaty_mcboatface.md)
-        - [`🌑_what_may_04_does_to_the_internet.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🌑_what_may_04_does_to_the_internet.md)
-        - [`🍌_cats_umbrellas_and_democracy.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🍌_cats_umbrellas_and_democracy.md)
         - [`🎮_fake_gamer_girl_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🎮_fake_gamer_girl_protocol.md)
         - [`👚_big_on_the_internet_loop.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/👚_big_on_the_internet_loop.md)
         - [`💾_what_its_like_being_a_child_of_the_90s_programmer_class.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/💾_what_its_like_being_a_child_of_the_90s_programmer_class.md)
@@ -4480,6 +4476,11 @@ _Generated on 2026-08-12 17:29:03 UTC_
     - [**🫀🕸️_Information_Is_Experienced/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/.🌱_Still_Growing/notes.txt)
+      - [**🙀_Chronically_Online/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/)
+        - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/README.md)
+        - [`⛴️_boaty_mcboatface.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/⛴️_boaty_mcboatface.md)
+        - [`🌑_what_may_04_does_to_the_internet.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🌑_what_may_04_does_to_the_internet.md)
+        - [`🍌_cats_umbrellas_and_democracy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🍌_cats_umbrellas_and_democracy.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/notes.txt)
     - [**🫀🧿_The_Observed_Body/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/)
