@@ -1,5 +1,5 @@
 # 🧠 Erosion of Extracurricular and Anatomy  
-**First created:** 2025-09-23 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-23 | **Last updated:** 2026-08-12  
 *How per-head funding logic strips away tacit skills and cultural experience.*  
 
 ---
@@ -65,4 +65,4 @@ It documents the tacit, cultural elements of British education that per-head log
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2026-08-12_  
