@@ -1,5 +1,5 @@
 # 🍑 Soft Boy Sexuality: Desire Without Shame  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-21  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-12  
 *Rebuilding a version of male desire that is gentle, playful, shame-free, and entirely incompatible with extremist or coercive identities.*  
 
 ---
@@ -256,4 +256,4 @@ It redefines male desire through tenderness, emotional literacy, queer-adjacent 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-08-12_
