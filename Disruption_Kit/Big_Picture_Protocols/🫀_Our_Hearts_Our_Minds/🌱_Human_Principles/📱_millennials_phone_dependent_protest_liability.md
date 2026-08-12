@@ -1,5 +1,5 @@
 # 📱 Millennials as Phone-Dependent Protest Liability  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-17 | **Last updated:** 2026-08-12  
 *Why millennials cannot turn their phones off at protests, and how this shapes risk, coordination, anxiety, and the emotional architecture of modern mobilisation.*  
 
 ---
@@ -214,4 +214,4 @@ It supports the **Generational Dynamics** and **Containment Studies** clusters b
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-12_
