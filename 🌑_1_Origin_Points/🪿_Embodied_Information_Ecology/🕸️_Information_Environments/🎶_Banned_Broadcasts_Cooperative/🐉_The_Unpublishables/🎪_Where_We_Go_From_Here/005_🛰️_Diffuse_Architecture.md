@@ -1,5 +1,5 @@
 # 🛰️ Diffuse Architecture of Persecution
-**First created:** 2025-10-08  |  **Last updated:** 2025-10-18  
+**First created:** 2025-10-08  |  **Last updated:** 2026-08-12  
 *How modern societies reproduce persecution through dispersed systems—bureaucracy, media, medicine, and policy—without needing a single dictator or camp.*
 
 ---
