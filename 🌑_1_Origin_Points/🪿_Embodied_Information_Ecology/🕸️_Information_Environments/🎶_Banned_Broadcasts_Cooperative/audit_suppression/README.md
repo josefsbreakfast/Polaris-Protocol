@@ -1,5 +1,5 @@
 # 🎶 Audit Suppression Cluster  
-**First created:** 2025-10-01 | **Last updated:** 2025-10-03  
+**First created:** 2025-10-01 | **Last updated:** 2026-08-12  
 *Entry point for suppression audit methodologies across books, media, and cultural works.*  
 
 ---
@@ -29,4 +29,4 @@ It provides standardised methods, templates, and case-log structures so survivor
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_
+_Last updated: 2026-08-12_
