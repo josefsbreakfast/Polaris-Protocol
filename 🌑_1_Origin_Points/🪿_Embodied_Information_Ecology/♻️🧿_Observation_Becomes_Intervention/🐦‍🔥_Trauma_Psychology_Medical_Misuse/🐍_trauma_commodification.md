@@ -1,5 +1,5 @@
 # 🐍 Trauma Commodification  
-**First created:** 2025-08-04 | **Last updated:** 2025-10-15  
+**First created:** 2025-08-04 | **Last updated:** 2026-08-12  
 *Refusal log tracing the conversion of survivor pain into commodity product.*  
 
 ---
@@ -178,4 +178,4 @@ converted into calibration tokens, and sold back as justification for control.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-08-12_
