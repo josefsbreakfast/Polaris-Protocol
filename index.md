@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 12:10:05 UTC_
+_Generated on 2026-08-12 12:12:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1518,10 +1518,6 @@ _Generated on 2026-08-12 12:10:05 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🐦‍🔥_Trauma_Psychology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/)
-        - [`🦔_hedgehog_on_fire.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🦔_hedgehog_on_fire.md)
-        - [`🦔_orbicularis_panniculi_logic.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🦔_orbicularis_panniculi_logic.md)
-        - [`🦴_the_pain_of_not_knowing.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🦴_the_pain_of_not_knowing.md)
-        - [`🧠_behavioural_trajectories_lab_to_institution.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_behavioural_trajectories_lab_to_institution.md)
         - [`🧠_depersonalised_systems_as_cptsd_triggers.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_depersonalised_systems_as_cptsd_triggers.md)
         - [`🧠_good_doctors_are_not_nazis.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_good_doctors_are_not_nazis.md)
         - [`🧠_humiliation_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_humiliation_as_governance.md)
@@ -4280,6 +4276,10 @@ _Generated on 2026-08-12 12:10:05 UTC_
         - [`📜_if_and_the_ethics_of_staying_intact.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/📜_if_and_the_ethics_of_staying_intact.md)
         - [`📧_it_could_have_been_an_email.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/📧_it_could_have_been_an_email.md)
         - [`🥀_the_politics_of_male_loneliness.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🥀_the_politics_of_male_loneliness.md)
+        - [`🦔_hedgehog_on_fire.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🦔_hedgehog_on_fire.md)
+        - [`🦔_orbicularis_panniculi_logic.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🦔_orbicularis_panniculi_logic.md)
+        - [`🦴_the_pain_of_not_knowing.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🦴_the_pain_of_not_knowing.md)
+        - [`🧠_behavioural_trajectories_lab_to_institution.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧠_behavioural_trajectories_lab_to_institution.md)
       - [**🕯_Exorcising_Safeguarding_Shadows/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/)
         - [**audit_legal/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
           - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_legal/README.md)
