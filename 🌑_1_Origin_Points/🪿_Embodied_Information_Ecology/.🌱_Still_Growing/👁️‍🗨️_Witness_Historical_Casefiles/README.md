@@ -1,5 +1,5 @@
 # 👁️‍🗨️ Witness & Historical Casefiles  
-**First created:** 2025-08-27 | **Last updated:** 2025-10-15  
+**First created:** 2025-08-27 | **Last updated:** 2026-08-12  
 *Hybrid forensic/big picture casefiles that preserve testimony, metadata, and community vulnerabilities.*  
 
 ---
@@ -86,4 +86,4 @@ It shows how metadata suppression intersects with lived history, and why preserv
 
 *Survivor memory is a signal. Suppression is a method. Archiving is resistance.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-08-12_
