@@ -1,5 +1,5 @@
 # 💫 The Middle Register  
-**First created:** 2025-11-12  |  **Last updated:** 2025-12-09  
+**First created:** 2025-11-12  |  **Last updated:** 2026-08-12  
 *Keeping warmth, sincerity, and ordinary affection legible in systems that only read extremes.*  
 
 ---
@@ -76,4 +76,4 @@ It restores nuance and warmth to communication systems that have forgotten the t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-08-12_
