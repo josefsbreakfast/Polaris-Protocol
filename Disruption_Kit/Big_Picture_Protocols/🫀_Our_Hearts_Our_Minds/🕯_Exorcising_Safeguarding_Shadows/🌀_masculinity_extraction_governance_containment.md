@@ -1,5 +1,5 @@
 # 🌀 Masculinity Extraction ↔ Governance Containment  
-**First created:** 2025-09-06 | **Last updated:** 2026-02-19  
+**First created:** 2025-09-06 | **Last updated:** 2026-08-12  
 *A diagnostic of how capitalism profits from men’s insecurity while governance denies and silences the harms that follow.*  
 
 ---
@@ -97,5 +97,5 @@ It documents how economic systems profit from male volatility while governance s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_  
+_Last updated: 2026-08-12_  
 
