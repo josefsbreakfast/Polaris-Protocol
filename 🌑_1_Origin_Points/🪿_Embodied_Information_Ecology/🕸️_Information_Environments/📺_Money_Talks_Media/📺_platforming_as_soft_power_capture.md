@@ -1,5 +1,5 @@
 # 📺 Platforming as Soft Power Capture  
-**First created:** 2025-12-22 | **Last updated:** 2026-01-09  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-12  
 *Why who is given airtime, legitimacy, and repetition matters more than formal appointments in modern influence environments.*  
 
 ---
@@ -159,4 +159,4 @@ It exists to ensure that media infrastructure is analysed as part of the threat 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-08-12_
