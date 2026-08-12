@@ -1,5 +1,5 @@
 # 📚 The Banned Book Paradox  
-**First created:** 2025-09-19 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-19 | **Last updated:** 2026-08-12  
 *Why censorship immortalises the very texts it seeks to erase.*  
 
 ---
@@ -37,4 +37,4 @@ It documents how prohibition generates aura, ensuring survival rather than silen
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2026-08-12_  
