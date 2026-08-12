@@ -1,5 +1,5 @@
 # 🔥 Controlled Fury in Analysis  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-12  
 *How justified anger functions as clarity rather than loss of control.*  
 
 ---
@@ -69,4 +69,4 @@ anger, clarity, narrative risk, political volatility, suppression, analysis tone
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-08-12_
