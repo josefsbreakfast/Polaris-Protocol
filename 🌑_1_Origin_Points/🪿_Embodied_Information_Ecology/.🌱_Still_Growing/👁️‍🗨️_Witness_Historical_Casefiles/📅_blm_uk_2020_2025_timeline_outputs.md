@@ -1,5 +1,5 @@
 # 📅 BLM UK 2020 – 2025 Timeline Outputs  
-**First created:** 2025-10-06  |  **Last updated:** 2025-10-15  
+**First created:** 2025-10-06  |  **Last updated:** 2026-08-12  
 *A factual chronology of United Kingdom outputs, responses, and transformations emerging from the 2020 Black Lives Matter movement through 2025.*
  
 ---
@@ -95,4 +95,4 @@ It records how the BLM moment in Britain evolved into institutional response, bu
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
