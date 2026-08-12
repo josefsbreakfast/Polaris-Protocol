@@ -1,5 +1,5 @@
 # 🧵 Paper as Containment — Mega Node
-**First created:** 2025-10-04 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-04 | **Last updated:** 2026-08-12  
 *Digitise liberty, not just crime: closing the UK’s Court of Protection / DoLS blind spot.*  
 
 ---
