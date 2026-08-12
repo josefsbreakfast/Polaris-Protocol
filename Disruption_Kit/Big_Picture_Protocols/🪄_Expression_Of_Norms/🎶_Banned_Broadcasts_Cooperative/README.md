@@ -1,5 +1,5 @@
 # 🎶 Banned Broadcasts Cooperative  
-**First created:** 2025-09-15 | **Last updated:** 2025-12-27  
+**First created:** 2025-09-15 | **Last updated:** 2026-08-12  
 *A cooperative archive of outlaw sound, banned books, and suppressed signals.*  
 
 ---
@@ -79,4 +79,4 @@ It documents the suppression of community transmission — and the ways those si
 
 🏮 [Return to Big Picture Protocols](../README.md)  
 
-_Last updated: 2025-12-27_  
+_Last updated: 2026-08-12_  
