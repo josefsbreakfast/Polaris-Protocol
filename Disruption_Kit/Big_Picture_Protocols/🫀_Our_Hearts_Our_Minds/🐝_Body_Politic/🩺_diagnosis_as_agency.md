@@ -1,5 +1,5 @@
 # 🩺 Diagnosis as Agency: What Medicine Is Actually For
-**First created:** 2025-12-16 | **Last updated:** 2025-12-16  
+**First created:** 2025-12-16 | **Last updated:** 2026-08-12  
 *Why diagnosis is a tool for freedom, not a fixation of identity — and what goes wrong when that distinction is erased.*
 
 ---
@@ -213,4 +213,4 @@ It grounds the series in clinical ethics and philosophical clarity, separating m
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-16_
+_Last updated: 2026-08-12_
