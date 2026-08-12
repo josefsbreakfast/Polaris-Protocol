@@ -1,5 +1,5 @@
 # 🎓 Reputation Management and University Protest Response  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-13  
+**First created:** 2025-11-03 | **Last updated:** 2026-08-12  
 *How reputation-management firms enter campus governance and reshape public protest into “brand risk.”*  
 
 ---
@@ -97,4 +97,4 @@ It documents how private-sector reputation logic infiltrates academic institutio
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-13_  
+_Last updated: 2026-08-12_  
