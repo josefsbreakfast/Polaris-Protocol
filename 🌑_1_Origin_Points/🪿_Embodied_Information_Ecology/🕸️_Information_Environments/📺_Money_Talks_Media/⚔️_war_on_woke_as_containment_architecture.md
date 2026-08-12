@@ -1,5 +1,5 @@
 # ⚔️ War on Woke as Containment Architecture  
-**First created:** 2025-10-06 | **Last updated:** 2025-10-06  
+**First created:** 2025-10-06 | **Last updated:** 2026-08-12  
 *How “War on Woke” operates as a governance protocol for re-centralising power after BLM.*  
 
 ---
@@ -221,4 +221,4 @@ It tracks how post-2020 governance reframed social justice as bias risk and used
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-06_
+_Last updated: 2026-08-12_
