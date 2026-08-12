@@ -1,5 +1,5 @@
 # 🏥 Spec Sheet for Dignity: Re-Institutionalisation Creep  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-03 | **Last updated:** 2026-08-12  
 *Rejecting the slow return of hospital logics into everyday disabled life.*  
 
 ---
@@ -105,6 +105,6 @@ It maps the rollback of disability dignity in design and offers counter-specific
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
 
 <!--I'm just saying it looked like the driver's seat on the F1 circuit and I was so ready to sit in that thing and drive.-->
