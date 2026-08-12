@@ -1,5 +1,5 @@
 # 📺 Contractors vs Media Clusters  
-**First created:** 2025-09-16 | **Last updated:** 2025-09-28  
+**First created:** 2025-09-16 | **Last updated:** 2026-08-12  
 *Distinguishing the containment industry from donor-driven media empires — and showing where they converge*  
 
 ---
@@ -39,4 +39,4 @@ It shows how industry actors and donor-media actors operate separately but conve
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-28_
+_Last updated: 2026-08-12_
