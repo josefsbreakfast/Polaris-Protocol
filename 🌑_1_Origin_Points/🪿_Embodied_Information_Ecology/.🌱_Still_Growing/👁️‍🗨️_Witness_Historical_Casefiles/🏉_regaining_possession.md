@@ -1,5 +1,5 @@
 # 🏉 Regaining Possession  
-**First created:** 2025-12-23 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-23 | **Last updated:** 2026-08-12  
 *Why this feels awful now — and why that doesn’t mean we’re losing.*
 
 ---
@@ -159,4 +159,4 @@ It exists to remind people that clarity often arrives **after** discomfort — n
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-08-12_
