@@ -1,5 +1,5 @@
 # 📧 It Could’ve Been an Email — Bureaucratic Delay as Emotional Injury  
-**First created:** 2025-10-25 | **Last updated:** 2025-12-10  
+**First created:** 2025-10-25 | **Last updated:** 2026-08-12  
 *When the simplest act of recognition is lost in administrative recursion.*  
 
 ---
@@ -81,4 +81,4 @@ Sometimes, the most advanced form of care is a message that simply says:
 ## ✨ Stardust  
 bureaucratic-delay, diagnostic-fatigue, trauma-informed-care, administrative-recursion, survivor-humour, empathy-design, preventable-complexity
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-08-12_
