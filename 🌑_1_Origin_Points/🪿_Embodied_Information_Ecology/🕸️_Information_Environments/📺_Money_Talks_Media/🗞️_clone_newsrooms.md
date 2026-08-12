@@ -1,5 +1,5 @@
 # 🗞️ Clone Newsrooms — Disinformation via Local-Press Mimicry  
-**First created:** 2025-10-30  |  **Last updated:** 2025-10-30  
+**First created:** 2025-10-30  |  **Last updated:** 2026-08-12  
 *When imitation replaces investigation.*
 
 ---
@@ -87,4 +87,4 @@ It documents how local news formats are weaponised to erode trust and launder in
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-30_
+_Last updated: 2026-08-12_
