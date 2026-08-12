@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 07:33:52 UTC_
+_Generated on 2026-08-12 07:38:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1409,6 +1409,7 @@ _Generated on 2026-08-12 07:33:52 UTC_
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/📼_Politicians_Gone_Wild/notes.txt)
       - [**🙀_Chronically_Online/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/notes.txt)
         - [`⛴️_boaty_mcboatface.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/⛴️_boaty_mcboatface.md)
         - [`🌑_what_may_04_does_to_the_internet.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🌑_what_may_04_does_to_the_internet.md)
         - [`🍌_cats_umbrellas_and_democracy.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🍌_cats_umbrellas_and_democracy.md)
@@ -1424,6 +1425,7 @@ _Generated on 2026-08-12 07:33:52 UTC_
         - [`🧪_acid_accelerationism.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🙀_Chronically_Online/🧪_acid_accelerationism.md)
       - [**🧠_HM_Dept_Coercive_Nudges/**](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/notes.txt)
         - [`suppression_experience_spectrum.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/suppression_experience_spectrum.png)
         - [`⚖️_heavy_bundle_cps_vps_centralisation.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/⚖️_heavy_bundle_cps_vps_centralisation.md)
         - [`⚡️_public_legitimacy_crisis_in_behavioural_governance.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/⚡️_public_legitimacy_crisis_in_behavioural_governance.md)
@@ -1461,6 +1463,7 @@ _Generated on 2026-08-12 07:33:52 UTC_
         - [`handover_theatre.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/handover_theatre.png)
         - [`hypothetical_uk_data_twinning_impact_pretty_swapped.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/hypothetical_uk_data_twinning_impact_pretty_swapped.png)
         - [`manchester_node_crossmap.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/manchester_node_crossmap.png)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/notes.txt)
         - [`peri_nda_middle_layer.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/peri_nda_middle_layer.png)
         - [`peri_nda_middle_layer_impacts.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/peri_nda_middle_layer_impacts.png)
         - [`peri_nda_theorised_middle_multiple_safeguarding.png`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/peri_nda_theorised_middle_multiple_safeguarding.png)
@@ -1493,6 +1496,7 @@ _Generated on 2026-08-12 07:33:52 UTC_
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🌱_Human_Principles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/notes.txt)
         - [`uk_morale_post_2016.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/uk_morale_post_2016.png)
         - [`☔️_stuck_in_digital_quicksand.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/☔️_stuck_in_digital_quicksand.md)
         - [`♨️_prosocial_nudge_burnout_syndrome.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/♨️_prosocial_nudge_burnout_syndrome.md)
@@ -1581,6 +1585,7 @@ _Generated on 2026-08-12 07:33:52 UTC_
         - [`🫧_crying_as_breach.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🫧_crying_as_breach.md)
       - [**🐝_Body_Politic/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/notes.txt)
         - [`♿_containment_by_pity.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/♿_containment_by_pity.md)
         - [`♿_have_you_asked_disabled_people_though.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/♿_have_you_asked_disabled_people_though.md)
         - [`♿️_refusing_convenience_disability_as_administrative_resistance.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/♿️_refusing_convenience_disability_as_administrative_resistance.md)
