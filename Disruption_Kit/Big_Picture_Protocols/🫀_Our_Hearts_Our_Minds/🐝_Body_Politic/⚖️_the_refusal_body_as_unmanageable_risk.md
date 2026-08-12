@@ -1,5 +1,5 @@
 # ⚖️ The Refusal Body as Unmanageable Risk  
-**First created:** 2025-12-12 | **Last updated:** 2026-01-06  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-12  
 *Why institutions cannot model bodies that refuse cooperation — and how hunger strikes expose the limits of risk governance.*
 
 ---
@@ -180,4 +180,4 @@ It explores how refusal destabilises the predictive architectures of governance 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-12_
