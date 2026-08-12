@@ -1,5 +1,5 @@
 # 🐄 Land Scarcity and Space Dignity  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-26 | **Last updated:** 2026-08-12  
 *Explores the myth of “no room” in the UK and the human implications of manufactured scarcity.*  
 
 ---
@@ -70,4 +70,4 @@ It challenges the scarcity narrative by grounding it in lived housing experience
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
