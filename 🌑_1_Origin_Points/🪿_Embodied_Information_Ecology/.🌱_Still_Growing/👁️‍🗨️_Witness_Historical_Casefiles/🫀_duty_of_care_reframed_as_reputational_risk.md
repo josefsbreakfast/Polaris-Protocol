@@ -1,5 +1,5 @@
 # 🫀 Duty of care reframed as reputational risk  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-12  
 *How care obligations are displaced by optics-focused governance.*
 
 ---
@@ -97,4 +97,4 @@ It documents how institutions transform care obligations into defensive mechanis
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-12_
