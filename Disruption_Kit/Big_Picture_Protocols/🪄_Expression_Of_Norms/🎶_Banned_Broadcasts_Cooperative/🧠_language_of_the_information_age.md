@@ -1,5 +1,5 @@
 # 🧠 Language of the Information Age  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-12  
 *How technical shorthand, metaphor, and opacity became power — and how to counter the mystique.*  
 
 ---
@@ -72,4 +72,4 @@ computing language, technical mystique, abstraction, security literacy, informat
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-12*
+*Last updated: 2026-08-12*
