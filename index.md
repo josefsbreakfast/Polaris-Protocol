@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 07:44:41 UTC_
+_Generated on 2026-08-12 07:47:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1013,11 +1013,13 @@ _Generated on 2026-08-12 07:44:41 UTC_
           - [`🧨_dual_use_frankenstack.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧨_dual_use_frankenstack.md)
           - [`🧿_dual_use_narratives_and_the_illusion_of_knowing.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🧿_dual_use_narratives_and_the_illusion_of_knowing.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/notes.txt)
         - [`💸_funding_the_uncertainty_economy.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/💸_funding_the_uncertainty_economy.md)
         - [`🔄_mod_arms_industry_revolving_door.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🔄_mod_arms_industry_revolving_door.md)
         - [`🧠🔢_calculus_of_religious_affect.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/💸_Money_Listens/🧠🔢_calculus_of_religious_affect.md)
       - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/notes.txt)
         - [`♻️_data_exhaust_uk_law.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/♻️_data_exhaust_uk_law.md)
         - [`⚖️_arms_exports_as_act_of_aggression.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md)
         - [`⚖️_case_note_dr_b_v_gmc_2023.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_case_note_dr_b_v_gmc_2023.md)
