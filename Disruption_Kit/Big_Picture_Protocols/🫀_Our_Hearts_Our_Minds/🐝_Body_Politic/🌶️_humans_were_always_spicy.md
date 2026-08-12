@@ -1,5 +1,5 @@
 # 🌶️ Humans Were Always Spicy  
-**First created:** 2026-01-04 | **Last updated:** 2026-02-09  
+**First created:** 2026-01-04 | **Last updated:** 2026-08-12  
 *Why human emotion, volatility, humour, fear, desire, and contradiction are not bugs — and why systems that deny this collapse.*
 
 ---
@@ -179,4 +179,4 @@ It documents the mismatch between idealised rational models and the embodied hum
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-09_
+_Last updated: 2026-08-12_
