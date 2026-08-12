@@ -1,5 +1,5 @@
 # 🪞 The Polite Othering — Philo-Semitism as Structural Anti-Semitism
-**First created:** 2025-11-06 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-06 | **Last updated:** 2026-08-12  
 *To map how “protective” or paternal attitudes toward Jews reproduce structural inequality in British civic and policy culture.*  
 
 ---
@@ -78,4 +78,4 @@ When the **IHRA definition** is used to silence legitimate critique of state pol
 
 *Purpose → To describe how apparently protective attitudes toward Jews can reproduce inequality when Jewish voices are treated as symbolic rather than authoritative.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-12_
