@@ -1,5 +1,5 @@
 # 🎓 Academic Un-Freedom in PREVENT Critique
-**First created:** 2025-11-18 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-12  
 *Why open, critical analysis of PREVENT is protected, necessary, and essential for democratic governance.*
 
 ---
@@ -82,4 +82,4 @@ Academic Freedom in PREVENT Critique is a node in the Governance & Prevent clust
 > - Intent-Free Authoritarian Drift
 > - PREVENT Misreads
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-08-12_
