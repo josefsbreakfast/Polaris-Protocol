@@ -1,5 +1,5 @@
 # 🧪 The Wall-Tester Type  
-**First created:** 2025-11-10 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-10 | **Last updated:** 2026-08-12  
 *Curiosity as integrity audit — when “rule-breaking” is really system diagnostics.*  
 
 ---
@@ -53,4 +53,4 @@ It explores diagnostic curiosity as a civic and psychological force — how the 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-08-12_
