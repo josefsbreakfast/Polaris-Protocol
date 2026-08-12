@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 11:52:36 UTC_
+_Generated on 2026-08-12 11:56:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1518,11 +1518,6 @@ _Generated on 2026-08-12 11:52:36 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**🐦‍🔥_Trauma_Psychology_Medical_Misuse/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md)
-        - [`battleplan_metadata_twinning_convergence_containment.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/battleplan_metadata_twinning_convergence_containment.png)
-        - [`metadata_twinning_divergence_convergence_amplification.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/metadata_twinning_divergence_convergence_amplification.png)
-        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/notes.txt)
-        - [`ouroboros_ihra_overreach.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/ouroboros_ihra_overreach.png)
         - [`overlaid_nda_mesh_local.jpeg`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/overlaid_nda_mesh_local.jpeg)
         - [`shadow_nda_redacted.pdf`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/shadow_nda_redacted.pdf)
         - [`triple_lock_audit_gap_flow.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/triple_lock_audit_gap_flow.png)
@@ -4280,6 +4275,11 @@ _Generated on 2026-08-12 11:52:36 UTC_
     - [**♻️🧿_Observation_Becomes_Intervention/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/.🌱_Still_Growing/notes.txt)
+      - [**🐦‍🔥_Trauma_Psychology_Medical_Misuse/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/)
+        - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md)
+        - [`battleplan_metadata_twinning_convergence_containment.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/battleplan_metadata_twinning_convergence_containment.png)
+        - [`metadata_twinning_divergence_convergence_amplification.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/metadata_twinning_divergence_convergence_amplification.png)
+        - [`ouroboros_ihra_overreach.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/ouroboros_ihra_overreach.png)
       - [**🕯_Exorcising_Safeguarding_Shadows/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/)
         - [**audit_legal/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
           - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_legal/README.md)
