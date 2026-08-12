@@ -1,5 +1,5 @@
 # 🦆 She Weighs the Same as a Duck  
-**First created:** 2025-11-15 | **Last updated:** 2026-02-20  
+**First created:** 2025-11-15 | **Last updated:** 2026-08-12  
 *Why certain women are treated as witches the moment they display signs of intelligence, literacy, or inconvenient accuracy.*  
 
 ---
@@ -195,4 +195,4 @@ It reframes cultural and institutional suspicion of intelligent women through th
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-08-12_
