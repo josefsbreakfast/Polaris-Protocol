@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 12:28:29 UTC_
+_Generated on 2026-08-12 12:35:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1518,21 +1518,6 @@ _Generated on 2026-08-12 12:28:29 UTC_
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
     - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
       - [**👁️‍🗨️_Witness_Historical_Casefiles/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md)
-        - [`data_misuse_continuum_flowchart_detailed.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/data_misuse_continuum_flowchart_detailed.png)
-        - [`medical_ethics_prevent_contamination.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/medical_ethics_prevent_contamination.png)
-        - [`overengineered_manipulation_direct_interaction.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/overengineered_manipulation_direct_interaction.png)
-        - [`palantir_cycle_diagram_branded.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/palantir_cycle_diagram_branded.png)
-        - [`scl_successor_tree_polarisprotocol.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/scl_successor_tree_polarisprotocol.png)
-        - [`☕️_the_eerie_of_elections_2026_edition.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/☕️_the_eerie_of_elections_2026_edition.md)
-        - [`⚖️_sanhedrin_rulings_on_trafficking.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/⚖️_sanhedrin_rulings_on_trafficking.md)
-        - [`⚙️_nhs_clinical_risk_for_anti_occupation_jews.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/⚙️_nhs_clinical_risk_for_anti_occupation_jews.md)
-        - [`⚽️_football_as_gateway_identity_politics.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/⚽️_football_as_gateway_identity_politics.md)
-        - [`⛳️_flags_increase_risks.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/⛳️_flags_increase_risks.md)
-        - [`🇬🇧_this_is_our_island_actually.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🇬🇧_this_is_our_island_actually.md)
-        - [`🌍_muslim_identity_racialisation_parallels_to_historic_antisemitism.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🌍_muslim_identity_racialisation_parallels_to_historic_antisemitism.md)
-        - [`🌲_navigating_elder_spaces_for_transparency.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🌲_navigating_elder_spaces_for_transparency.md)
-        - [`🌹_white_rose_leaflet_as_counter_suicide_signal.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🌹_white_rose_leaflet_as_counter_suicide_signal.md)
         - [`🏉_regaining_possession.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🏉_regaining_possession.md)
         - [`🐦_the_canaries_are_still_singing.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/🐦_the_canaries_are_still_singing.md)
         - [`👁️‍🗨️_mindfuck_reflex.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/👁️‍🗨️_mindfuck_reflex.md)
@@ -4213,6 +4198,22 @@ _Generated on 2026-08-12 12:28:29 UTC_
     - [`README.md`](🌑_1_Origin_Points/🧄_Exousiología/README.md)
   - [**🪿_Embodied_Information_Ecology/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/)
     - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/)
+      - [**👁️‍🗨️_Witness_Historical_Casefiles/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/)
+        - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/README.md)
+        - [`data_misuse_continuum_flowchart_detailed.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/data_misuse_continuum_flowchart_detailed.png)
+        - [`medical_ethics_prevent_contamination.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/medical_ethics_prevent_contamination.png)
+        - [`overengineered_manipulation_direct_interaction.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/overengineered_manipulation_direct_interaction.png)
+        - [`palantir_cycle_diagram_branded.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/palantir_cycle_diagram_branded.png)
+        - [`scl_successor_tree_polarisprotocol.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/scl_successor_tree_polarisprotocol.png)
+        - [`☕️_the_eerie_of_elections_2026_edition.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/☕️_the_eerie_of_elections_2026_edition.md)
+        - [`⚖️_sanhedrin_rulings_on_trafficking.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/⚖️_sanhedrin_rulings_on_trafficking.md)
+        - [`⚙️_nhs_clinical_risk_for_anti_occupation_jews.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/⚙️_nhs_clinical_risk_for_anti_occupation_jews.md)
+        - [`⚽️_football_as_gateway_identity_politics.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/⚽️_football_as_gateway_identity_politics.md)
+        - [`⛳️_flags_increase_risks.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/⛳️_flags_increase_risks.md)
+        - [`🇬🇧_this_is_our_island_actually.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🇬🇧_this_is_our_island_actually.md)
+        - [`🌍_muslim_identity_racialisation_parallels_to_historic_antisemitism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🌍_muslim_identity_racialisation_parallels_to_historic_antisemitism.md)
+        - [`🌲_navigating_elder_spaces_for_transparency.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🌲_navigating_elder_spaces_for_transparency.md)
+        - [`🌹_white_rose_leaflet_as_counter_suicide_signal.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🌹_white_rose_leaflet_as_counter_suicide_signal.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/notes.txt)
     - [**♻️_Cybernetics/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/.🌱_Still_Growing/)
