@@ -1,5 +1,5 @@
 # 🧠 The Last Hill — Un-Concedable Terrains of Ego  
-**First created:** 2025-10-23 | **Last updated:** 2025-12-13  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-12  
 *Where gentleness ends and pride begins.*  
 <!--Mine should be obvious, for example. Yours probably is, too. I imagine Polaris attracts a certain one.-->
 ---
@@ -74,4 +74,4 @@ It documents how pride and softness coexist, and how intellect remains the final
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-08-12_
