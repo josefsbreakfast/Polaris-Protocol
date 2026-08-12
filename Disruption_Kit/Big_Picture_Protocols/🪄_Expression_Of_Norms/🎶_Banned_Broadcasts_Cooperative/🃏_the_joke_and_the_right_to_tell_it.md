@@ -1,5 +1,5 @@
 # 🃏 The Joke and the Right to Tell It  
-**First created:** 2025-11-06 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-06 | **Last updated:** 2026-08-12  
 *Control, context, and agency in humour as a tool of survivor voice fidelity.*  
 
 ---
@@ -51,4 +51,4 @@ humour ethics, survivor voice, agency, control of frame, identity politics, powe
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-08-12_
