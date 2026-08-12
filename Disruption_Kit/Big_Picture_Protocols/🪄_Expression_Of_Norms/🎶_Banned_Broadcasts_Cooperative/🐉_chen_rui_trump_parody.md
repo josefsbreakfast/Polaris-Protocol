@@ -1,5 +1,5 @@
 # 🐉 Chen Rui / Ryan — Trump Parody from Chongqing  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-03  
+**First created:** 2025-09-20 | **Last updated:** 2026-08-12  
 *A viral impersonator who punctured strongman mythologies with humour, bridging Chinese and global audiences.*  
 
 ---
@@ -108,4 +108,4 @@ It documents how parody and impersonation act as banned-books-in-motion: resista
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-03_  
+_Last updated: 2026-08-12_  
