@@ -1,5 +1,5 @@
 # 💄 The Lipstick Range Rover Effect  
-**First created:** 2025-12-10 | **Last updated:** 2025-12-10  
+**First created:** 2025-12-10 | **Last updated:** 2026-08-12  
 *How colour, flamboyance, and aesthetic confidence reveal internal stability — and why insecure men panic at the signal.*
 
 ---
@@ -108,4 +108,4 @@ It maps how aesthetic expression reveals internal security and how rigid masculi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-08-12_
