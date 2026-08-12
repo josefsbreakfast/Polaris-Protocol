@@ -6,7 +6,7 @@
 
 ```markdown
 # ⚽️ Football As Gateway Identity Politics  
-**First created:** 2026-05-16 | **Last updated:** 2026-05-16  
+**First created:** 2026-05-16 | **Last updated:** 2026-08-12  
 
 *An examination of football as a mass emotional infrastructure through which identity, class, masculinity, nationalism, territoriality, and collective grievance become socially organised, ritualised, and mobilised.*  
 
