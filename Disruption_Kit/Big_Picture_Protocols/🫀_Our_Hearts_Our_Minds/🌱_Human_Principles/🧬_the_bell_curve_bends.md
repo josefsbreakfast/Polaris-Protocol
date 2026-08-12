@@ -1,5 +1,5 @@
 # 🧬 Non-Linear Intelligence and Asynchrony — When the Bell Curve Bends  
-**First created:** 2025-11-08 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-08 | **Last updated:** 2026-08-12  
 *At the high end of any curve, cognition stops behaving like the average it’s measured against.*
 
 ---
@@ -76,4 +76,4 @@ It summarises how psychology has only partly grasped the qualitative shifts that
 
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-08-12_
