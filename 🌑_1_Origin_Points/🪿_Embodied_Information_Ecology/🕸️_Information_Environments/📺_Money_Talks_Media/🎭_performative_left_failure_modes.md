@@ -1,5 +1,5 @@
 # 🎭 Performative Left Failure Modes  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-08  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-12  
 *How crisis exposed the gap between performative progressivism and actual left values.*  
 
 ---
@@ -79,4 +79,4 @@ performative left, crisis exposure, solidarity failure, purity politics, movemen
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-08-12_
