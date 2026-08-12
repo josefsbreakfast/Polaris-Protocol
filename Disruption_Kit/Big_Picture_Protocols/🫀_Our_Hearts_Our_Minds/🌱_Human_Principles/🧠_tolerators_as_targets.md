@@ -1,5 +1,5 @@
 # 🧠 Tolerators as Targets  
-**First created:** 2025-10-07  |  **Last updated:** 2025-10-15  
+**First created:** 2025-10-07  |  **Last updated:** 2026-08-12  
 *A focused node on why—and how—people who tolerate complexity or resist crude classification are targeted in processes that escalate to mass violence*
 
 ---
@@ -92,4 +92,4 @@ tolerators, epistemic threat, silencing, stress-intolerance, classification, cro
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-08-12_
