@@ -1,5 +1,5 @@
 # 🪞 The Visibility Trap — Why We Struggle to See Shared Oppression  
-**First created:** 2025-10-18 | **Last updated:** 2025-10-21  
+**First created:** 2025-10-18 | **Last updated:** 2026-08-12  
 *Perceptual fractures that block solidarity in accelerated systems.*
 
 ---
@@ -130,4 +130,4 @@ It analyses how accelerated systems fracture empathy and how collective visibili
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-21_
+_Last updated: 2026-08-12_
