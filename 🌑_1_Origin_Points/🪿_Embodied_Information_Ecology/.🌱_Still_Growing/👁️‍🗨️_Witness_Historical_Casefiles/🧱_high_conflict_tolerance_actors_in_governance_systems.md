@@ -1,5 +1,5 @@
 # 🧱 High-conflict-tolerance actors in governance systems  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-12  
 *Why some individuals do not retreat under procedural or reputational pressure.*
 
 ---
@@ -106,4 +106,4 @@ It documents why certain individuals remain engaged under pressure and why insti
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-12_
