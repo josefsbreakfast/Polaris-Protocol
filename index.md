@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 07:51:43 UTC_
+_Generated on 2026-08-12 07:53:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -674,6 +674,7 @@ _Generated on 2026-08-12 07:51:43 UTC_
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**💔_Violence_IRL/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/notes.txt)
         - [`💄_the_gendered_exposure_of_voice.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/💄_the_gendered_exposure_of_voice.md)
         - [`🕯️_memorial_voice_lives_lost.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/🕯️_memorial_voice_lives_lost.md)
         - [`🕸️_digitally_networked_sexual_violence.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/🕸️_digitally_networked_sexual_violence.md)
@@ -712,6 +713,7 @@ _Generated on 2026-08-12 07:51:43 UTC_
         - [`jewish_experience_diaspora_matrix_middleman_minorities.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/jewish_experience_diaspora_matrix_middleman_minorities.png)
         - [`jewish_intersections_global.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/jewish_intersections_global.png)
         - [`jewish_intersections_global_visual.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/jewish_intersections_global_visual.png)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/notes.txt)
         - [`scale_of_scapegoating.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/scale_of_scapegoating.png)
         - [`sound_ahavah_rabbah.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/sound_ahavah_rabbah.png)
         - [`sound_harmonic_c_minor.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/sound_harmonic_c_minor.png)
