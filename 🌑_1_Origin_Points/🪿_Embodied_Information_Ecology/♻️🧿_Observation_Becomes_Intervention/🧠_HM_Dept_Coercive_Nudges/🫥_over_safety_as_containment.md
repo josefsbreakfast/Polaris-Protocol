@@ -1,5 +1,5 @@
 # 🫥 Over-Safety as Containment  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-12  
 *How repeated reassurance, safety-checking, or clarifying statements can destabilise rather than protect.*  
 
 ---
@@ -45,4 +45,4 @@ over-safety, containment, reassurance loops, institutional tone, trauma communic
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-08-12_
