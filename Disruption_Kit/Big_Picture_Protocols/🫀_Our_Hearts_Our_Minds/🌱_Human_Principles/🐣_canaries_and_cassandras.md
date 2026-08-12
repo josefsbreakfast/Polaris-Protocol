@@ -1,5 +1,5 @@
 # 🐣 Canaries and Cassandras — Early Warnings in a System That Won’t Listen  
-**First created:** 2025-10-23 | **Last updated:** 2025-12-09  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-12  
 *The emotional and epistemic cost of being right too early.*  
 
 ---
@@ -65,4 +65,4 @@ The node contributes to the **Body Politic** cluster, aligning prophetic sensiti
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-08-12_
