@@ -1,5 +1,5 @@
 # 🩸 Bodily Risk as Political Speech  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-17  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-12  
 *How endangered bodies speak when political systems refuse to listen.*
 
 ---
@@ -136,4 +136,4 @@ It analyses the political function of embodied risk in austerity states and how 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-17_
+_Last updated: 2026-08-12_
