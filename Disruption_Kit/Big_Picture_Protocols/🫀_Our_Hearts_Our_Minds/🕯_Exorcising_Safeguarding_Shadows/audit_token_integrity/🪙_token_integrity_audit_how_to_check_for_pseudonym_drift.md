@@ -1,5 +1,5 @@
 # 🪙 Token Integrity Audit — How to Check for Pseudonym Drift  
-**First created:** 2025-11-11 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-11 | **Last updated:** 2026-08-12  
 *Verifying the cryptographic DNA of your dataset.*
 
 ---
@@ -106,4 +106,4 @@ It defines how to verify that pseudonymisation still means what it claims: one p
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-08-12_
