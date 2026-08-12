@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 07:38:22 UTC_
+_Generated on 2026-08-12 07:39:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1623,6 +1623,7 @@ _Generated on 2026-08-12 07:38:22 UTC_
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/README.md)
         - [`battleplan_metadata_twinning_convergence_containment.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/battleplan_metadata_twinning_convergence_containment.png)
         - [`metadata_twinning_divergence_convergence_amplification.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/metadata_twinning_divergence_convergence_amplification.png)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/notes.txt)
         - [`ouroboros_ihra_overreach.png`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/ouroboros_ihra_overreach.png)
         - [`overlaid_nda_mesh_local.jpeg`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/overlaid_nda_mesh_local.jpeg)
         - [`shadow_nda_redacted.pdf`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/shadow_nda_redacted.pdf)
