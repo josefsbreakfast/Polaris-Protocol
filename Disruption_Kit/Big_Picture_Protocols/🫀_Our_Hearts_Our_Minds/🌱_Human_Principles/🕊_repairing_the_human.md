@@ -1,5 +1,5 @@
 # 🕊 Repairing the Human — Collective Grief and the Work of Re-Connection  
-**First created:** 2025-10-25 | **Last updated:** 2025-12-11  
+**First created:** 2025-10-25 | **Last updated:** 2026-08-12  
 *How cultures behave after mass disorientation — and how we learn to rebuild trust.*  
 
 ---
@@ -95,4 +95,4 @@ collective-grief, repair-work, behavioural-psychology, scapegoating, authoritari
 
 ---
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-12_
