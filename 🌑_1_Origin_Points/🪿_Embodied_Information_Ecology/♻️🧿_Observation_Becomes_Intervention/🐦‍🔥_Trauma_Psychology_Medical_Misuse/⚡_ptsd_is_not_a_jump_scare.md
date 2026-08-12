@@ -1,5 +1,5 @@
 # ⚡ PTSD Is Not a Jump Scare — The Time Physics of the Body  
-**First created:** 2025-10-21 | **Last updated:** 2025-10-21  
+**First created:** 2025-10-21 | **Last updated:** 2026-08-12  
 *Why trauma flashbacks last hours or days after seconds of stimulus.*
 
 ---
@@ -197,4 +197,4 @@ It documents how trauma converts seconds of stimulus into days of systemic echo,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-21_
+_Last updated: 2026-08-12_
