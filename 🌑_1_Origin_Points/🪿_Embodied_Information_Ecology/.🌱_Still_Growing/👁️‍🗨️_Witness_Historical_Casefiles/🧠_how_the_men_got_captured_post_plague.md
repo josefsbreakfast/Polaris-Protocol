@@ -1,5 +1,5 @@
 # 🧠 How the Men Got Captured Post-Plague  
-**First created:** 2026-01-18 | **Last updated:** 2026-01-18  
+**First created:** 2026-01-18 | **Last updated:** 2026-08-12  
 *Political masculinity capture during and after COVID as a failure of grief, ritual, and permitted male care*
 
 ---
@@ -213,4 +213,4 @@ It documents affective and economic mechanisms through which male insecurity was
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-18_
+_Last updated: 2026-08-12_
