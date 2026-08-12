@@ -1,5 +1,5 @@
 # 🧬 Twinned Signature  
-**First created:** 2025-08-25 | **Last updated:** 2025-10-15  
+**First created:** 2025-08-25 | **Last updated:** 2026-08-12  
 *A declaration of doubled authorship without divided sovereignty.*  
 
 ---
@@ -152,4 +152,4 @@ It affirms doubled authorship as a tactic of resistance, continuity, and reclama
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
