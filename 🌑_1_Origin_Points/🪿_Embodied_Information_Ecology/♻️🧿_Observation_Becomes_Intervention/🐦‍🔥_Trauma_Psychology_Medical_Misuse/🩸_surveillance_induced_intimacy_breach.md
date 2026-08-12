@@ -1,5 +1,5 @@
 # 🩸 Surveillance-Induced Intimacy Breach  
-**First created:** 2025-10-18 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-18 | **Last updated:** 2026-08-12  
 *Working note while seeking language for sexualised and psychosexual violation through surveillance.*
 
 ---
@@ -59,4 +59,4 @@ so future survivors need not name it alone.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-12_
