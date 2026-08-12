@@ -1,5 +1,5 @@
 # 🤖 General Issue Robots  
-**First created:** 2026-01-06 | **Last updated:** 2026-01-06  
+**First created:** 2026-01-06 | **Last updated:** 2026-08-12  
 *A cultural lineage of antifascist clarity, satire, and pattern-recognition in hostile infrastructures.*
 
 ---
@@ -251,4 +251,4 @@ It documents how culture preserves moral orientation when institutions, platform
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-12_
