@@ -1,5 +1,5 @@
 # 🌿🦁 The Green Lion as Liminality  
-**First created:** 2025-12-08 | **Last updated:** 2025-12-08  
+**First created:** 2025-12-08 | **Last updated:** 2026-08-12  
 *How a medieval alchemical creature became a framework for understanding destabilisation, transition, and the dissolution of form.*
 
 ---
@@ -116,4 +116,4 @@ Working node — expand with cross-links to:
 🜄 *dissolution_as_system_behaviour*, and  
 🧪 *alchemy_as_transformation_map*.  
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-08-12_
