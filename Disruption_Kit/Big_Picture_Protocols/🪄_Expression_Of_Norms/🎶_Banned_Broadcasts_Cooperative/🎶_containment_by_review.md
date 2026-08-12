@@ -1,5 +1,5 @@
 # 🎶 Containment by Review — JSTOR (2018)  
-**First created:** 2025-09-27 | **Last updated:** 2025-12-27  
+**First created:** 2025-09-27 | **Last updated:** 2026-08-12  
 *Observation log of hostile review dynamics around the author’s pre-2022 book.*  
 
 ---
@@ -70,4 +70,4 @@ It captures how hostile reviews can function as **containment anchors**, shaping
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-27_  
+_Last updated: 2026-08-12_  
