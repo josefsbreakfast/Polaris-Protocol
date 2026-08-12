@@ -1,5 +1,5 @@
 # 🎶 HDZ — *L’algorithme* (Paroles Intake)  
-**First created:** 2025-09-17 | **Last updated:** 2025-10-06  
+**First created:** 2025-09-17 | **Last updated:** 2026-08-12  
 *Marker node for transcription and close analysis of the HDZ single.*  
 
 ---
