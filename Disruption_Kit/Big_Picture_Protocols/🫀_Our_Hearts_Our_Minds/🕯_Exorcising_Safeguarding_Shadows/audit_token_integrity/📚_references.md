@@ -1,5 +1,5 @@
 # 📚 References — Token Integrity & Relationship Direction Audit  
-**First created:** 2025-11-10 | **Last updated:** 2025-11-11  
+**First created:** 2025-11-10 | **Last updated:** 2026-08-12  
 *Collated reference frameworks, statutory instruments, and standards underpinning the Token Switching & Relationship Integrity Audit process.*  
 
 ---
@@ -88,4 +88,4 @@ It supports the Token Integrity Audit subfolder within
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-11_
+_Last updated: 2026-08-12_
