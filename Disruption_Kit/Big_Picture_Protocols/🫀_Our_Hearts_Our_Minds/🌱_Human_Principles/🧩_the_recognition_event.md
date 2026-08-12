@@ -1,5 +1,5 @@
 # 🧩 The Recognition Event: When You Realise You’re Not Imagining It  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-12  
 *The moment of emotional, cognitive, and political clarity when a person living through bureaucratic drift finally realises: “It wasn’t me. It was the system.”*  
 
 ---
@@ -221,4 +221,4 @@ Crosslinks:
 - ⚡ *why_some_people_become_systemic_lightning_rods*  
 - 🚫 *when_no_one_steps_in*
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-08-12_
