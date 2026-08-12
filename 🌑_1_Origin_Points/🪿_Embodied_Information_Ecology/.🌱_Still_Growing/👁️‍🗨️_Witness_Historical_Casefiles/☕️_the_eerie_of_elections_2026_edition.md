@@ -1,5 +1,5 @@
 # ☕️ The Eerie of Elections — 2026 Edition  
-**First created:** 2026-05-07 | **Last updated:** 2026-05-07  
+**First created:** 2026-05-07 | **Last updated:** 2026-08-12  
 *Notes on platform-mediated political affect, optimisation systems, behavioural abstraction, and the strange atmosphere surrounding contemporary elections.*
 
 ---
@@ -212,4 +212,4 @@ It documents the affective texture of contemporary electoral systems under platf
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-07_
+_Last updated: 2026-08-12_
