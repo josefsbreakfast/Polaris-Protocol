@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 07:57:17 UTC_
+_Generated on 2026-08-12 07:58:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -863,6 +863,7 @@ _Generated on 2026-08-12 07:57:17 UTC_
           - [`🩺_frankenstack_intake_and_response_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🩺_frankenstack_intake_and_response_protocol.md)
           - [`🪼_frankenstack_social_field_effects.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🪼_frankenstack_social_field_effects.md)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/notes.txt)
         - [`☕🫖_uk_gov_national_security_risk.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/☕🫖_uk_gov_national_security_risk.md)
         - [`✍️_crime_writing_as_normalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/✍️_crime_writing_as_normalisation.md)
         - [`❌_negative_evidence_index.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/❌_negative_evidence_index.md)
