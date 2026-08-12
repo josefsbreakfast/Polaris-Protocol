@@ -1,5 +1,5 @@
 # 🎶 Endorser Network Traces  
-**First created:** 2025-09-27 | **Last updated:** 2025-12-27  
+**First created:** 2025-09-27 | **Last updated:** 2026-08-12  
 *Observation log of foreword writers, blurbers, and endorsers tied to the book.*  
 
 ---
@@ -135,4 +135,4 @@ It explores whether endorsement networks are themselves targets, and how suppres
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-27_  
+_Last updated: 2026-08-12_  
