@@ -1,5 +1,5 @@
 # 🪞 Deference Politics as Containment Mechanism  
-**First created:** 2025-10-06  |  **Last updated:** 2025-10-19  
+**First created:** 2025-10-06  |  **Last updated:** 2026-08-12  
 *How moral deference and tokenised representation act as internal containment tools inside progressive movements.*
 
 ---
@@ -80,4 +80,4 @@ It documents how moral deference and tokenised representation sustain hierarchie
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_  
+_Last updated: 2026-08-12_  
