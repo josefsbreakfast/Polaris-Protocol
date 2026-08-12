@@ -1,5 +1,5 @@
 # 🌑 What May 04 Does to the Internet  
-**First created:** 2026-05-04 | **Last updated:** 2026-05-05  
+**First created:** 2026-05-04 | **Last updated:** 2026-08-12  
 *How calendar-triggered phrases collapse meaning into ritual, and how date-awareness functions as a coordination protocol across online culture.*
 
 ---
@@ -185,4 +185,4 @@ It maps how calendar-based triggers convert meaning into repeatable participatio
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-05_
+_Last updated: 2026-08-12_
