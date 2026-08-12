@@ -1,5 +1,5 @@
 # 🔧 Technical Audit Playbook: Token Switching  
-**First created:** 2025-09-30 | **Last updated:** 2025-10-15  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-12  
 *For sysadmins, forensic analysts, and SIEM operators.*  
 
 ---
@@ -60,4 +60,4 @@ It provides a reproducible process for forensic verification of identity-token m
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
