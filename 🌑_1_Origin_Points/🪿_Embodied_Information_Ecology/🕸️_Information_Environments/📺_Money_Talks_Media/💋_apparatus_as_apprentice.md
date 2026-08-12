@@ -1,5 +1,5 @@
 # 💋 Apparatus as Apprentice — The Obedience Loop in Machine Desire  
-**First created:** 2025-10-19 | **Last updated:** 2025-10-21  
+**First created:** 2025-10-19 | **Last updated:** 2026-08-12  
 *On Cylon logic, robot desire, and the way obedience always learns to imitate its maker.*
 
 ---
@@ -132,4 +132,4 @@ It examines how gendered fantasies of obedience inform the architectures of arti
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-21_
+_Last updated: 2026-08-12_
