@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 07:47:53 UTC_
+_Generated on 2026-08-12 07:49:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1048,6 +1048,7 @@ _Generated on 2026-08-12 07:47:53 UTC_
         - [`🧱_legal_exception_zone_ctsa2015.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🧱_legal_exception_zone_ctsa2015.md)
       - [**🕊️_Just_Boxes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/notes.txt)
         - [`structural_convergence_of_custodial_suicide_risk.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/structural_convergence_of_custodial_suicide_risk.png)
         - [`targeting_jewish_dissent_1980s_present.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/targeting_jewish_dissent_1980s_present.png)
         - [`targetting_jewish_dissent_1980s_plasticbox.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/targetting_jewish_dissent_1980s_plasticbox.png)
