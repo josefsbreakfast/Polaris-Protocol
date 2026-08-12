@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 08:05:25 UTC_
+_Generated on 2026-08-12 08:09:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -19,6 +19,7 @@ _Generated on 2026-08-12 08:05:25 UTC_
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**☕️_Post_Imperial_Weather/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/notes.txt)
         - [`☕️_britain_after_elizabeth.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/☕️_britain_after_elizabeth.md)
         - [`☕️_managing_postcolonial_melancholia.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/☕️_managing_postcolonial_melancholia.md)
         - [`☕️_the_country_house_after_empire.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/☕️_the_country_house_after_empire.md)
@@ -45,6 +46,7 @@ _Generated on 2026-08-12 08:05:25 UTC_
       - [**⚖️_Legal_State_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/README.md)
         - [`constitutional_fault_lines.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/constitutional_fault_lines.png)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/notes.txt)
         - [`uk_debates_overlap.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/uk_debates_overlap.png)
         - [`uk_online_safety_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/uk_online_safety_timeline.png)
         - [`↙️↙️↙️_accidentally_unantifascist.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/↙️↙️↙️_accidentally_unantifascist.md)
@@ -167,6 +169,7 @@ _Generated on 2026-08-12 08:05:25 UTC_
         - [`🫖_tea_minister.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🫖_tea_minister.md)
       - [**🃏_Political_Dramaturgy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/notes.txt)
         - [`☔️_restorative_justice_in_a_shame_culture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/☔️_restorative_justice_in_a_shame_culture.md)
         - [`⚖️_aequanimitas_and_the_stiff_upper_lip.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/⚖️_aequanimitas_and_the_stiff_upper_lip.md)
         - [`✈️_crash_logic_state_grief_and_erasure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/✈️_crash_logic_state_grief_and_erasure.md)
@@ -198,6 +201,7 @@ _Generated on 2026-08-12 08:05:25 UTC_
         - [`🪶_the_queen_as_national_emotional_container.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🃏_Political_Dramaturgy/🪶_the_queen_as_national_emotional_container.md)
       - [**🌍_National_Storytime/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/notes.txt)
         - [`⚔️_the_wars_of_the_roses_across_eurasia.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/⚔️_the_wars_of_the_roses_across_eurasia.md)
         - [`⚔️_the_wars_of_the_roses_never_ended.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/⚔️_the_wars_of_the_roses_never_ended.md)
         - [`✈️_the_delicacy_of_raf_legacy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🌍_National_Storytime/✈️_the_delicacy_of_raf_legacy.md)
@@ -223,6 +227,7 @@ _Generated on 2026-08-12 08:05:25 UTC_
       - [**👑_Ownership_Control/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/README.md)
         - [`bottleneck_mapping_log_template.csv`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/bottleneck_mapping_log_template.csv)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/notes.txt)
         - [`panic_deleting_evidence.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/panic_deleting_evidence.png)
         - [`⚖️_accountability_as_alignment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⚖️_accountability_as_alignment.md)
         - [`⚖️_acknowledgement_tradeoffs_in_data_fixing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/👑_Ownership_Control/⚖️_acknowledgement_tradeoffs_in_data_fixing.md)
