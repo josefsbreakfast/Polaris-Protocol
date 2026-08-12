@@ -1,5 +1,5 @@
 # 🧩 Academic Precarity as an Authoritarian Vector  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-12  
 *How humiliation and instability create openings for authoritarian capture.*  
 
 ---
@@ -36,4 +36,4 @@ academic precarity, humiliation, authoritarianism
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-12_
