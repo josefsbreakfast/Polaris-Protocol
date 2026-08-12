@@ -1,5 +1,5 @@
 # 🫀 Disabled Refusal as Politics  
-**First created:** 2025-10-03 | **Last updated:** 2026-01-04  
+**First created:** 2025-10-03 | **Last updated:** 2026-08-12  
 *Why “no” to hospital logic is systemic, not personal.*  
 
 ---
@@ -52,4 +52,4 @@ It asserts refusal as collective politics, not private stubbornness.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_  
+_Last updated: 2026-08-12_  
