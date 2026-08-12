@@ -1,5 +1,5 @@
 # 🗂️ Case Study Log Template  
-**First created:** 2025-10-01 | **Last updated:** 2025-10-01  
+**First created:** 2025-10-01 | **Last updated:** 2026-08-12  
 *Blank log for recording individual suppression case studies.*  
 
 ---
@@ -38,4 +38,4 @@ It standardises suppression case documentation for forensic continuity.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-01_  
+_Last updated: 2026-08-12_  
