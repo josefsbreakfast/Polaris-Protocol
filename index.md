@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 12:50:02 UTC_
+_Generated on 2026-08-12 13:03:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1516,8 +1516,6 @@ _Generated on 2026-08-12 12:50:02 UTC_
         - [`🪞_the_polite_othering.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🪞_the_polite_othering.md)
         - [`🪦_mass_funeral_as_information_control.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/🪦_mass_funeral_as_information_control.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
-    - [**🫀_Our_Hearts_Our_Minds/**](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
-      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/README.md)
     - [`README.md`](Disruption_Kit/Big_Picture_Protocols/README.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20260201_February_2026/**](Disruption_Kit/Field_Logs/20260201_February_2026/)
@@ -6611,6 +6609,9 @@ _Generated on 2026-08-12 12:50:02 UTC_
       - [`🚀_beyond_duel_use.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🚀_beyond_duel_use.md)
     - [**🗄️_Room_101/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/)
       - [**Disruption_Kit/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/)
+        - [**Big_Picture_Protocols/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/)
+          - [**🫀_Our_Hearts_Our_Minds/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
+            - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/README.md)
         - [**Field_Logs/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/)
           - [**20250701_July_2025/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250701_July_2025/)
             - [`🛰️_forkbreach_2025-07-24_redacted_V6.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250701_July_2025/🛰️_forkbreach_2025-07-24_redacted_V6.md)
