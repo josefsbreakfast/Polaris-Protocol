@@ -1,5 +1,5 @@
 # 🎞️ The BBC Is Not a Safe House  
-**First created:** 2026-02-09 | **Last updated:** 2026-02-09  
+**First created:** 2026-02-09 | **Last updated:** 2026-08-12  
 *Why unresolved accountability, power, and lawfare make institutional safety a claim, not a fact*
 
 ---
@@ -277,4 +277,4 @@ It contributes a structural, survivor-centred assessment of institutional safety
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-09_
+_Last updated: 2026-08-12_
