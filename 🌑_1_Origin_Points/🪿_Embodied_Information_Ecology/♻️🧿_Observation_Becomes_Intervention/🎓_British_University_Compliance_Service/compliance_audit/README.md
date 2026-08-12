@@ -1,5 +1,5 @@
 # 🎓 British University Compliance Service — Compliance Audit  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-04  
+**First created:** 2025-10-04 | **Last updated:** 2026-08-12  
 *Internal audit framework for assessing surveillance-adjacent compliance structures in UK higher education.*
 
 ---
@@ -54,4 +54,4 @@ This node provides an operational skeleton for exposing how compliance framework
 Use locally, fork for each institution, and merge findings upstream.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2026-08-12_
