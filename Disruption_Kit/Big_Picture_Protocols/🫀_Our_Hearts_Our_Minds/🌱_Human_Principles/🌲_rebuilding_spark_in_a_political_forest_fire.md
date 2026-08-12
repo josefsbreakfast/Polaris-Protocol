@@ -1,5 +1,5 @@
 # 🌲 Rebuilding Spark in a Political Forest Fire  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-12  
 *How to recognise, protect, and nurture early signs of recovery when the world around you still feels unstable, overwhelming, or dangerous.*  
 
 ---
@@ -200,4 +200,4 @@ Crosslinks:
 - 🔥 *your_emotional_campfire_care_kit*  
 - 🧯 *signs_your_brain_is_tired_because_society_is_batshit*
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-08-12_
