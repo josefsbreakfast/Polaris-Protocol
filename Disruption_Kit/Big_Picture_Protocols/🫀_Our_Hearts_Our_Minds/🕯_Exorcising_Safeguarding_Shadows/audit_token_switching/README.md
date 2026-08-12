@@ -1,5 +1,5 @@
 # 🛰️ Token Switching Audit  
-**First created:** 2025-09-30  |  **Last updated:** 2025-10-15  
+**First created:** 2025-09-30  |  **Last updated:** 2026-08-12  
 *Guidance for detecting and resolving identity-token manipulation in C4ISR / C5ISR digital-twin systems.*  
 
 ---
@@ -64,4 +64,4 @@ It documents detection, auditing, and governance responses to identity-token man
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
