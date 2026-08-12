@@ -1,5 +1,5 @@
 # 🏝️ Refusal, Retreat, and Extraction — The Politics of Fucking Off  
-**First created:** 2025-11-07 | **Last updated:** 2025-12-08  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-12  
 *On the human impulse to withdraw, and who gets to do it safely.*
 
 ---
@@ -16,4 +16,4 @@ It situates withdrawal within refusal economies and colonial afterlives.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-08-12_
