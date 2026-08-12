@@ -1,5 +1,5 @@
 # 🐝 Carceral Disability  
-**First created:** 2025-10-23 | **Last updated:** 2025-11-13  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-12  
 *How “care” infrastructures reproduce custody logics.*
 
 ---
@@ -57,4 +57,4 @@ It documents how disability policy and “safeguarding” architectures reproduc
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-13_
+_Last updated: 2026-08-12_
