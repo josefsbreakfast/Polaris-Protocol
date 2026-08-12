@@ -1,5 +1,5 @@
 # 🎶 Chant Restrictions as Metadata Control  
-**First created:** 2025-10-14 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-14 | **Last updated:** 2026-08-12  
 *Rhetorical elasticity and moral inversion in UK protest policing.*  
 
 ---
@@ -132,4 +132,4 @@ It documents how rhetorical vagueness and vulnerability coding liquefy democrati
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_  
+_Last updated: 2026-08-12_  
