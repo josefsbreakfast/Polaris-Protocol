@@ -1,5 +1,5 @@
 # 📰 DSMA Notices & Atrocity-Risk Reporting  
-**First created:** 2025-10-11 | **Last updated:** 2025-10-11  
+**First created:** 2025-10-11 | **Last updated:** 2026-08-12  
 *When advisory secrecy guidance collides with the duty to report potential mass-atrocity crimes.*
 
 ---
@@ -106,4 +106,4 @@ It supports journalists and researchers navigating advisory secrecy guidance whi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-11_
+_Last updated: 2026-08-12_
