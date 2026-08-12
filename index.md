@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-12 22:41:05 UTC_
+_Generated on 2026-08-12 22:50:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3885,8 +3885,8 @@ _Generated on 2026-08-12 22:41:05 UTC_
           - [`🎓_leeds_trinity_university_compliance_profile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/🎓_leeds_trinity_university_compliance_profile.md)
           - [`🎓_liverpool_hope_university_compliance_profile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/🎓_liverpool_hope_university_compliance_profile.md)
           - [`🎓_liverpool_john_moores_university_compliance_profile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/🎓_liverpool_john_moores_university_compliance_profile.md)
-          - [`🎓_london_school_of_economics_and_political_science_lse_compliance_profile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/🎓_london_school_of_economics_and_political_science_lse_compliance_profile.md)
           - [`🎓_london_south_bank_university_compliance_profile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/🎓_london_south_bank_university_compliance_profile.md)
+          - [`🎓_lse_compliance_profile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/🎓_lse_compliance_profile.md)
           - [`🎓_manchester_metropolitan_university_compliance_profile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/🎓_manchester_metropolitan_university_compliance_profile.md)
           - [`🎓_middlesex_university_compliance_profile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/🎓_middlesex_university_compliance_profile.md)
           - [`🎓_newcastle_university_compliance_profile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🎓_British_University_Compliance_Service/compliance_audit/🎓_newcastle_university_compliance_profile.md)
