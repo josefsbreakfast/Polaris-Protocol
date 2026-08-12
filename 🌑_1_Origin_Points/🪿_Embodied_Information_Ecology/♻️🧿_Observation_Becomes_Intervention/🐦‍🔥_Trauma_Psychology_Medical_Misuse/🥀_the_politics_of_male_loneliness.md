@@ -1,5 +1,5 @@
 # 🥀 The Politics of Male Loneliness  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-13  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-12  
 *How a generational epidemic of isolation, emotional deprivation, and relational collapse became one of the most politically significant forces of the 21st century.*  
 
 ---
@@ -250,4 +250,4 @@ It frames male loneliness as a structural and political phenomenon, not a person
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-08-12_
