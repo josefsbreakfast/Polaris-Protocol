@@ -1,5 +1,5 @@
 # 🧫 The Default: On Being Unbroken  
-**First created:** 2025-11-07 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-12  
 *Reclaiming empathy and humanness from the category of exception.*  
 
 ---
@@ -36,4 +36,4 @@ It repositions empathy as baseline, not exception — a reminder that what we ca
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-08-12_
