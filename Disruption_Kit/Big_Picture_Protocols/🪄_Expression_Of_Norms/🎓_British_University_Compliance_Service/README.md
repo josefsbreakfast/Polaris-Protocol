@@ -1,5 +1,5 @@
 # 🎓 British University Compliance Service  
-**First created:** 2025-09-23 | **Last updated:** 2025-09-23  
+**First created:** 2025-09-23 | **Last updated:** 2026-08-12  
 *Systemic mapping of how UK universities are weaponised through compliance logics.*  
 
 ---
@@ -51,4 +51,4 @@ a **containment layer** and a **surveillance service** for state and corporate a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-23_
+_Last updated: 2026-08-12_
