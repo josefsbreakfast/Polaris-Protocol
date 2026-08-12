@@ -1,5 +1,5 @@
 # ⚖️ Sanhedrin Punishments — Historical Halakhic Practice  
-**First created:** 2025-10-01 | **Last updated:** 2025-10-15  
+**First created:** 2025-10-01 | **Last updated:** 2026-08-12  
 *A completely hypothetical scenario explored through the lens of classical Jewish law, showing how a Sanhedrin might have ruled.  
 Expanded with sources, covenant vs. nationality sidebar, forgiveness limits, and modern parallels.*  
 
@@ -182,4 +182,4 @@ It documents how a Sanhedrin might hypothetically have judged trafficking, exclu
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_  
+_Last updated: 2026-08-12_  
