@@ -1,5 +1,5 @@
 # 🎻 Clash of Forks  
-**First created:** 2025-08-04 | **Last updated:** 2025-10-15  
+**First created:** 2025-08-04 | **Last updated:** 2026-08-12  
 *Forensic note on system breakdown when multiple high-risk datasets converge.*  
 
 ---
@@ -135,4 +135,4 @@ It documents the structural flaws that emerge when surveillance systems attempt 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-15_
+_Last updated: 2026-08-12_
