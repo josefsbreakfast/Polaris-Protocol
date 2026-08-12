@@ -153,4 +153,4 @@ It provides a cultural-text analysis, showing how a rap verse encodes algorithmi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-27_  
+_Last updated: 2026-08-12_  
