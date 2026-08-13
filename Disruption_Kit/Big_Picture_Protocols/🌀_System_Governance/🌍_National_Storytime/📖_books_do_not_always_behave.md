@@ -1,5 +1,5 @@
 # 📖 Books Do Not Always Behave  
-**First created:** 2026-05-28 | **Last updated:** 2026-05-28
+**First created:** 2026-05-28 | **Last updated:** 2026-08-13  
 *How narrative influence succeeds, leaks, backfires, and produces unintended afterlives.*
 
 ---
@@ -475,4 +475,4 @@ It documents the instability of narrative influence: how books may be written, f
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-05-28*
+*Last updated: 2026-08-13*
