@@ -1,5 +1,5 @@
 # 🐝 Fluellen Was Right  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *Procedural legitimacy, regional dignity, and the comic archetype of the person quietly holding the institution together.*  
 
 ---
@@ -298,4 +298,4 @@ It examines Fluellen as a recurring British archetype of procedural legitimacy: 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-13_
