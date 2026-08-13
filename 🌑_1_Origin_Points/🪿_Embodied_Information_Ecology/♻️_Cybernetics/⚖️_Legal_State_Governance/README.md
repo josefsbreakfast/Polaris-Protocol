@@ -1,5 +1,5 @@
 # ⚖️ Legal & State Governance  
-**First created:** 2025-10-13 | **Last updated:** 2025-12-15  
+**First created:** 2025-10-13 | **Last updated:** 2026-08-13  
 *Constitutional and statutory architectures of control — where legality sustains power rather than restrains it.*  
 
 ---
@@ -187,4 +187,4 @@ It documents how legality itself can become a containment interface — and how 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-08-13_
