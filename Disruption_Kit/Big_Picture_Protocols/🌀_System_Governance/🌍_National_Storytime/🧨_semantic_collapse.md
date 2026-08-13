@@ -1,5 +1,5 @@
 # 🧨 Semantic Collapse  
-**First created:** 2025-11-23 | **Last updated:** 2026-05-18  
+**First created:** 2025-11-23 | **Last updated:** 2026-08-13  
 *How meaning breaks down when liberal-democratic language collides with authoritarian moral frames — and how that terrain is exploited.*
 
 ---
@@ -356,4 +356,4 @@ It maps how shared language fractures across incompatible moral systems, and how
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-13_
