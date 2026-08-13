@@ -1,5 +1,5 @@
 # 👑 Asserting Sovereignty After Allied Interference  
-**First created:** 2025-10-26 | **Last updated:** 2026-05-08  
+**First created:** 2025-10-26 | **Last updated:** 2026-08-13  
 *How a Five Eyes or allied state reclaims jurisdiction when another partner’s operations breach its laws or harm its citizens.*  
 
 ---
@@ -199,4 +199,4 @@ It details the legal and diplomatic mechanisms by which a state reclaims jurisdi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
