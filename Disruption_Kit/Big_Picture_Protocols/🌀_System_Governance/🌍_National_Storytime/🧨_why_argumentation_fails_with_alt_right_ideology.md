@@ -1,5 +1,5 @@
 # 🧨 Why Argumentation Fails With Alt‑Right Ideology  
-**First created:** 2025-11-22 | **Last updated:** 2026-05-18  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-13  
 *Why the alt-right cannot be debated: the moral‑treason logic beneath their worldview.*  
 
 ---
@@ -119,4 +119,4 @@ alt‑right, debate collapse, moral treason, pluralism failure, worldview confli
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-13_
