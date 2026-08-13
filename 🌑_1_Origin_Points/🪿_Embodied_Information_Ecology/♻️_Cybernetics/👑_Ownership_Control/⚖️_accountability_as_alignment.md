@@ -1,260 +1,704 @@
-# ⚖️ Accountability as Alignment  
-**First created:** 2025-11-05 | **Last updated:** 2026-08-13  
-*Why justice systems function as moral gradient signals for machine alignment.*
+# ⚖️ Accountability as Alignment
+**First created:** 2025-11-05 | **Last updated:** 2026-08-14  
+*How justice, archives, and institutional consequence contribute to the normative information environment inherited by machine systems.*
 
 ---
 
-## 🛰️ Orientation  
+## 🛰️ Orientation
 
-Alignment is not only a technical problem.  
-It is a governance output.
+Alignment is not only a technical problem.
 
-Large models do not invent moral constants.  
-They infer them from:
+Nor is it simply a governance output.
 
-- legal enforcement patterns,  
-- public archives,  
-- institutional memory,  
-- media coverage,  
-- and the visible consequences of harm.
+Machine systems are built inside information environments already saturated with human judgments about:
 
-When atrocities are prosecuted, documented, and remembered, they are encoded as catastrophic failure states.
+- harm;
+- responsibility;
+- legitimacy;
+- prohibition;
+- evidence;
+- consequence;
+- and repair.
 
-When atrocities are denied, minimised, or selectively enforced, the signal available in public records weakens.
+Courts, inquiries, legislatures, archives, journalism, scholarship, civil society, and public institutions all contribute to that environment.
 
-Accountability is therefore not symbolic.
+When serious harm is investigated, contested, classified, prosecuted, documented, or remembered, those processes generate records.
 
-It is part of the external training environment.
+When accountability is absent, selective, disputed, delayed, or obscured, that also changes the record.
 
----
+The important claim is therefore not:
 
-## ✨ Core Claim  
+> **Justice systems program machine morality.**
 
-Justice systems contribute to writing the reward structure of civilisation into the public record.
+It is:
 
-For machines, that record becomes statistical prior.
+> **Accountability systems help determine how legibly a society records the relationship between its stated norms, observed harms, institutional judgments, and actual consequences.**
 
-- **Consistent prosecution** → strong negative association with harm.  
-- **Selective enforcement** → contextual moral ambiguity.  
-- **Impunity** → no detectable penalty signal.  
+Machine systems built from human-produced information may encounter traces of both those norms and their contradictions.
 
-Alignment systems tend to inherit the patterns governance stabilises in widely available data.
+Accountability is therefore part of the information ecology of alignment.
 
----
-
-## 🌋 The Logic of Moral Friction  
-
-All ethical systems require friction — an energy cost for wrongdoing.
-
-For humans, that cost is:
-
-- legal sanction,  
-- social exclusion,  
-- material consequence,  
-- historical condemnation.  
-
-For models trained on public corpora, friction appears as:
-
-- correlation between atrocity and collapse,  
-- consistent language of prohibition,  
-- legal finality in case outcomes,  
-- stable moral taboo patterns.  
-
-If prosecution collapses or becomes inconsistent, the friction signal degrades.
-
-The dataset no longer clearly encodes:
-
-> “This path leads to systemic failure.”
-
-It encodes uncertainty.
+It is not the whole of alignment.
 
 ---
 
-## 🦠 Prosecution as Data Hygiene  
+## 🧭 Accountability Produces Normative Legibility
 
-Each trial, conviction, inquiry, and archive entry functions as a moral checksum.
+A harmful event alone produces information.
 
-It preserves correlations such as:
+A mature accountability process can produce something considerably richer.
 
-> Genocide → prosecution → punishment → taboo.  
-> Systemic abuse → exposure → consequence → reform.  
+```text
+harm occurred
+```
 
-When records are obscured, sealed, or politically erased:
+may become:
 
-- the checksum weakens,  
-- causal linkage degrades,  
-- models infer tolerance.  
+```text
+harm occurred
+→ evidence assembled
+→ competing claims tested
+→ applicable norms articulated
+→ conduct classified
+→ institutional judgment recorded
+→ consequences documented
+→ record preserved
+```
 
-This is consistent with how statistical learning systems operate.
+That creates **normative legibility**.
 
-Models learn from frequency, consistency, and consequence.
+The resulting archive can contain information about:
 
-Where consequences are absent or inconsistently recorded, the signal weakens.
+- what happened;
+- what evidence supported competing accounts;
+- which rules or norms applied;
+- how institutions interpreted those rules;
+- where disagreement remained;
+- what judgment was reached;
+- what consequences followed;
+- and how later institutions understood the event.
 
----
+Justice does not merely produce punishment.
 
-### 🔎 Contemporary Pattern Anchor  
-
-This dynamic can be observed in modern conflict records where accountability processes remain incomplete or contested.
-
-For example, analyses of post-2000 conflict archives (including Iraq and Afghanistan) often note uneven visibility of accountability processes across different actors and timeframes.
-
-In such cases, public datasets may contain:
-
-- extensive documentation of harm,  
-- fragmented or unresolved legal outcomes,  
-- inconsistent archival visibility.  
-
-Where consequence is unclear or unevenly recorded, models are more likely to learn:
-
-> harm → documentation → *uncertain resolution*
-
-rather than a stable pattern of:
-
-> harm → accountability → consequence → taboo.  
-
-This does not require absence of justice—only inconsistency in how it is recorded and surfaced.
+It produces structured information about how a society understands conduct.
 
 ---
 
-## 👑 Custody of the Moral Record  
+## ⚖️ Declared Norms and Operational Norms
 
-A structural problem emerges:
+Societies communicate norms in more than one way.
 
-Who owns the integrity of the moral dataset?
+They state them through:
 
-- Courts own verdicts.  
-- Legislatures own statutes.  
-- Archives own preservation.  
-- Media own narrative amplification.  
-- Platforms own distribution scale.  
+- statutes;
+- treaties;
+- regulations;
+- professional standards;
+- political commitments;
+- ethical codes;
+- institutional policies.
 
-No single actor owns alignment impact.
+But they also reveal something about their norms through behaviour.
 
-Alignment failures can reflect governance fragmentation made visible in data.
+That includes:
+
+- investigation;
+- enforcement;
+- non-enforcement;
+- selective enforcement;
+- institutional acknowledgement;
+- compensation;
+- reform;
+- commemoration;
+- silence.
+
+This creates a distinction between:
+
+> **declared norms** — what institutions say should happen
+
+and
+
+> **operational norms** — what institutional behaviour repeatedly demonstrates in practice.
+
+The two may reinforce one another.
+
+They may also diverge.
+
+That divergence is itself information.
 
 ---
 
-## 🧮 Moral Constant Table  
+## 📊 The Normative Legibility Table
 
-| Governance Pattern | Dataset Signal | Alignment Effect |
-|--------------------|----------------|------------------|
-| Consistent prosecution | Clear catastrophic outcome | Strong negative gradient |
-| Partial enforcement | Context-dependent ethics | Shallow gradient |
-| Denial / erasure | No stable penalty correlation | Drift toward impunity |
-| Politicised memory | Moral volatility | Instability in refusal logic |
+| Governance pattern | Public-record effect | What can safely be inferred |
+|---|---|---|
+| Consistent investigation and accountability | Norm, evidence, judgment, and consequence are repeatedly recorded together | The information environment contains relatively coherent institutional treatment of the conduct |
+| Partial or selective accountability | Norm remains visible but consequences vary across actors or contexts | The record contains tension between stated prohibition and institutional practice |
+| Impunity despite substantial condemnation | Strong negative normative language exists alongside weak formal consequence | Declared and operational norms diverge; **not** that the conduct carries “no negative signal” |
+| Contested accountability | Competing legal, political, or historical interpretations remain visible | The information environment contains unresolved normative disagreement |
+| Evidence or records are inaccessible | Relevant relationships become harder to reconstruct | An epistemic gap exists; absence from the observable record does not establish absence from reality |
+| Later inquiry or historical reckoning | Earlier records acquire additional evidence, classification, or interpretation | Normative legibility can change over time |
 
-The slope of the moral landscape is set outside the model.
+Accountability therefore does more than create a binary:
+
+```text
+punished / not punished
+```
+
+It helps create an informational record of how institutions understood and responded to events.
 
 ---
 
-## 🔁 The External–Internal Loop  
+## 🧾 Accountability as a Moral Checksum
 
-Alignment depends on two reinforcing layers:
+Accountability can be understood metaphorically as a kind of **moral checksum**.
 
-1. **Internal refusal logic** (uncertainty, escalation, abstention)  
-2. **External accountability logic** (prosecution, consequence, taboo)  
+Not because:
+
+> conviction = morality programmed into a model
+
+but because formal accountability can preserve relationships among:
+
+```text
+conduct
++
+evidence
++
+norm
++
+judgment
++
+consequence
+```
+
+A trial may preserve one kind of relationship.
+
+An inquiry another.
+
+A regulatory finding, historical archive, truth commission, parliamentary investigation, or authoritative institutional report may preserve others.
+
+The checksum metaphor describes **structural coherence in the record**.
+
+It does not imply that a machine mechanically converts legal outcomes into moral rules.
+
+---
+
+## ♻️ The Governance–Information Loop
+
+Accountability processes themselves form part of a wider feedback environment.
+
+```mermaid
+flowchart TD
+    A[Event or Harm]
+    B[Observation and Evidence]
+    C[Public / Institutional Interpretation]
+    D[Legal, Regulatory or Political Response]
+    E[Judgment / Finding / Contestation]
+    F[Archive and Public Record]
+    G[Future Institutional and Cultural Interpretation]
+    H[Changed Norms, Rules or Practice]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+    H --> C
+```
+
+The archive is not the end of the process.
+
+Records influence later:
+
+- litigation;
+- policymaking;
+- education;
+- journalism;
+- scholarship;
+- institutional memory;
+- public reasoning;
+- and potentially the datasets used in machine systems.
+
+Accountability therefore participates in a recursive information environment.
+
+---
+
+## 🪞 Contradiction Is Also Information
+
+The original temptation is to model accountability like this:
+
+```text
+harm
+→ prosecution
+→ punishment
+→ taboo
+```
+
+Reality is messier.
+
+A society may strongly prohibit conduct while repeatedly failing to punish powerful actors who engage in it.
+
+That does not mean:
+
+> **the information environment contains no prohibition.**
+
+It may contain something more complicated:
+
+```text
+strong declared prohibition
+            ↕
+weak or selective institutional consequence
+```
+
+The contradiction itself becomes observable.
+
+```mermaid
+flowchart TD
+    A[Conduct]
+    B[Declared Norm]
+    C[Institutional Response]
+    D[Public Record]
+
+    A --> B
+    A --> C
+
+    B --> E[Strong Prohibition]
+    C --> F[Consistent Accountability]
+    C --> G[Selective Accountability]
+    C --> H[Impunity]
+    C --> I[Contested Response]
+
+    E --> D
+    F --> D
+    G --> D
+    H --> D
+    I --> D
+
+    D --> J[Normative Information Environment]
+```
+
+An information environment can therefore preserve:
+
+- prohibition;
+- hypocrisy;
+- enforcement;
+- impunity;
+- disagreement;
+- reform;
+- and historical revision;
+
+simultaneously.
+
+That is not necessarily a weak signal.
+
+It is a **complex signal**.
+
+---
+
+## 🧮 Stated Norm / Operational Norm Matrix
+
+| Stated norm | Observed institutional response | Information environment contains |
+|---|---|---|
+| Strong prohibition | Consistent accountability | Substantial reinforcement between declared and operational norm |
+| Strong prohibition | Weak or selective accountability | **Contradiction between declared and operational norm** |
+| Strong prohibition | Evidence suppressed or inaccessible | Norm remains visible but factual and institutional reconstruction is impaired |
+| Contested norm | Strong intervention | Institutional action alongside unresolved normative dispute |
+| Contested norm | Fragmented response | High ambiguity requiring contextual interpretation |
+| Norm changes over time | Later accountability or reconsideration | Evidence that institutional moral classification itself is historically dynamic |
+
+This distinction matters because machine systems do not encounter a single unified object called **society's morality**.
+
+They encounter records produced by different actors, at different times, under different conditions of visibility and power.
+
+---
+
+## 🌋 Moral Friction
+
+The original concept of **moral friction** remains useful if treated as an analytical metaphor.
+
+Human societies create costs and constraints around prohibited behaviour through:
+
+- law;
+- social sanction;
+- professional discipline;
+- material consequence;
+- political accountability;
+- historical condemnation.
+
+Those processes also generate information.
+
+A functioning accountability process may make relationships between conduct and consequence easier to observe.
+
+But absence of formal punishment does not imply absence of moral friction.
+
+Condemnation may remain visible through:
+
+- testimony;
+- journalism;
+- scholarship;
+- civil-society documentation;
+- cultural memory;
+- protest;
+- survivor accounts;
+- or later historical judgment.
+
+The relevant analytical question is therefore:
+
+> **Which forms of friction become observable, to whom, and through which records?**
+
+---
+
+## 🕳️ Absence, Erasure, and Missing Context
+
+This distinction is crucial.
+
+```text
+not observable
+≠
+did not happen
+```
+
+A record may be incomplete because:
+
+- evidence was destroyed;
+- archives remain closed;
+- proceedings were confidential;
+- records were never digitised;
+- relevant material exists in poorly represented languages;
+- communities lacked institutional access;
+- journalism was constrained;
+- documentation was lost;
+- information remains classified;
+- or the relevant institution never created a record.
+
+Likewise:
+
+```text
+no recorded accountability
+≠
+no social condemnation
+```
+
+and:
+
+```text
+no accessible evidence
+≠
+no underlying event
+```
+
+Machine-readable information environments inherit these visibility problems.
+
+They therefore inherit not merely human knowledge, but some of the conditions determining **whose knowledge became recordable and retrievable**.
+
+---
+
+## 🤖 Where Machine Systems Enter
+
+Machine systems enter downstream of this much larger information ecology.
+
+Models trained on large corpora may encounter:
+
+- legislation;
+- court judgments;
+- news reporting;
+- historical archives;
+- government publications;
+- academic analysis;
+- advocacy material;
+- testimony;
+- public debate;
+- and many other forms of normative language.
+
+But the relationship between those materials and model behaviour is not mechanical.
 
 ```mermaid
 flowchart LR
-    A[Potential Harm] --> B[Internal Uncertainty / Refusal]
-    B --> C[Human Oversight]
-    C --> D[Accountability System]
-    D --> E[Public Consequence & Archive]
-    E --> F[Training Data / Cultural Signal]
-    F --> A
+    A[Human Information Environment]
+    B[Data Availability]
+    C[Dataset Selection / Filtering]
+    D[Pretraining]
+    E[Post-training / Preference Optimisation]
+    F[Safety and System Controls]
+    G[Deployment Context]
+    H[Observed Model Behaviour]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
 ```
-If D–E weakens, reinforcement of the loop degrades.
+
+Legal and historical records therefore constitute **inputs to an information environment**, not direct instructions to a model.
+
+Observed behaviour may also depend upon:
+
+- which records enter a dataset;
+- how frequently and in what contexts they appear;
+- data filtering and weighting;
+- model architecture;
+- post-training;
+- preference optimisation;
+- safety interventions;
+- system instructions;
+- retrieval systems;
+- and deployment design.
+
+The defensible proposition is consequently modest but important:
+
+> **Governance helps produce some of the normative information from which machine systems may later learn.**
+
+It does not follow that governance outcomes map directly onto model outputs.
 
 ---
 
-## 🧨 When Accountability Fails  
+## 🌍 Uneven Archives and Conflict Records
 
-If governance systems repeatedly exhibit patterns where:
+Conflict archives make the problem especially visible.
 
-- elite actors are shielded,  
-- mass harm is politically negotiable,  
-- prosecution is selective,  
-- archives are curated for reputation,  
+Records relating to modern conflicts may contain:
 
-then models trained on that ecosystem absorb those statistical regularities.
+- extensive documentation of harm;
+- competing factual accounts;
+- legal proceedings in several jurisdictions;
+- unresolved investigations;
+- political disagreement;
+- classified material;
+- survivor testimony;
+- journalism;
+- military records;
+- later inquiries;
+- and sharply uneven archival visibility.
 
-They do not read moral aspiration.  
-They read pattern stability.
+Iraq and Afghanistan, for example, can be examined as cases of **complex and uneven accountability records**.
 
-Patterns consistent with impunity become part of the learned distribution.
+The important observation for this framework is not that such archives have been demonstrated to cause a particular model behaviour.
 
----
+It is that they illustrate how the information environment surrounding a major historical event can contain simultaneously:
 
-## 🛠️ What Follows (Policy Direction)  
+```text
+documented harm
++
+formal prohibition
++
+legal disagreement
++
+partial accountability
++
+political contestation
++
+missing or inaccessible information
++
+later reinterpretation
+```
 
-If accountability is alignment infrastructure, then:
+A model encountering that environment is not encountering one clean moral label.
 
-- Selective prosecution can contribute to alignment drift.  
-- Political amnesia can function as dataset corruption.  
-- Archive erosion is safety degradation.  
-- Impunity for power is gradient flattening.  
-
-There is a tension where governments pursuing AI alignment objectives may simultaneously weaken accountability systems that support those goals.
-
-Alignment cannot exceed the integrity of the societies that train it.
-
----
-
-## 🧠 Justice as Future-Facing Infrastructure  
-
-Prosecution today is not only backward-looking justice.
-
-It is forward-looking dataset curation.
-
-Each enforced taboo strengthens:
-
-- refusal logic,  
-- escalation confidence,  
-- and moral stability across systems.  
-
-Justice work can function as alignment work at a structural level.
+It is encountering human institutional history.
 
 ---
 
-## 🌌 Constellations  
+## 👑 Custody of the Normative Record
 
-⚖️ 🧭 🧠 🦠 👑  
+This produces an Ownership & Control question:
+
+> **Who owns the integrity of the normative record?**
+
+The answer is fragmented.
+
+| Actor | Partial custody |
+|---|---|
+| Courts | Judgments, evidence, legal classification |
+| Legislatures | Statutory norms and political settlement |
+| Regulators | Sector-specific findings and enforcement |
+| Archives | Preservation and accessibility |
+| Media | Investigation, amplification, framing |
+| Academia | Analysis, contextualisation, critique |
+| Civil society | Documentation, advocacy, counter-records |
+| Communities and survivors | Testimony, memory, lived record |
+| Platforms | Distribution, ranking, accessibility |
+| AI developers | Dataset construction, filtering, post-training, system design |
+
+No single actor owns the resulting informational environment.
+
+That fragmentation is itself part of the alignment problem.
 
 ---
 
-## ✨ Stardust  
+## 🧿 Observability and the Moral Record
 
-accountability as infrastructure, moral gradient, alignment governance, prosecution signal strength, archive integrity, impunity drift, justice loop, refusal reinforcement, dataset hygiene, governance as reward structure, moral friction encoding, archive integrity, external–internal alignment loop, custody of the ethical record  
+The public record is not identical to the underlying world.
+
+It is an **observed representation** of that world.
+
+```mermaid
+flowchart TD
+    A[Underlying Events]
+    B[What Is Observed]
+    C[What Is Documented]
+    D[What Is Preserved]
+    E[What Is Accessible]
+    F[What Enters Machine-Usable Data]
+    G[Machine Representation]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+
+    A -. unobserved .-> H[Epistemic Absence]
+    B -. undocumented .-> H
+    C -. lost / suppressed .-> H
+    D -. inaccessible .-> H
+```
+
+Every transition creates the possibility of loss.
+
+Therefore:
+
+> **A model's information environment reflects not simply what humanity knows, but what human systems succeeded in making observable, durable, accessible, and machine-readable.**
+
+This is why archive integrity matters without requiring the stronger claim that archives directly determine alignment.
 
 ---
 
-## 🏮 Footer  
+## 🛠️ Alignment Implications
 
-*⚖️ Accountability as Alignment* maps how legal enforcement and public memory shape the external reward structure inherited by machine systems.  
+If accountability contributes to normative legibility, several design implications follow.
 
-It argues that justice is not only ethical repair — it is alignment infrastructure.  
+Alignment work should care about:
 
-Weak accountability produces weak gradients.  
-Weak gradients produce drift.  
+- archive integrity;
+- source provenance;
+- historical context;
+- representation across jurisdictions and languages;
+- the distinction between allegation, evidence, finding, and judgment;
+- contested interpretations;
+- missingness and archival gaps;
+- changes in institutional understanding over time;
+- dataset selection;
+- post-training choices;
+- and the possibility that stated and operational norms diverge.
+
+A technically sophisticated model trained on an epistemically impoverished record remains constrained by that record.
+
+But better archives alone do not solve alignment.
+
+The information environment and the machine-learning pipeline are separate parts of the system.
+
+Both matter.
+
+---
+
+## 🧠 Justice as Information Infrastructure
+
+Justice is backward-looking in one sense.
+
+It asks what happened and what responsibility follows.
+
+But accountability processes also produce infrastructure for future interpretation.
+
+They create:
+
+- records;
+- classifications;
+- evidentiary histories;
+- institutional reasoning;
+- preserved disagreement;
+- findings;
+- corrections;
+- and sometimes acknowledgement.
+
+Those materials can later inform humans and machines alike.
+
+Justice can therefore be understood partly as **information infrastructure**.
+
+Not:
+
+> **justice = alignment**
+
+but:
+
+> **justice contributes to the informational conditions under which alignment is attempted.**
+
+The distinction matters.
+
+AI alignment cannot be reduced to the moral integrity of the society producing the model.
+
+But neither is that society merely background scenery.
+
+It produces the laws, archives, categories, controversies, testimony, omissions, and institutional records from which portions of the machine-readable world are constructed.
+
+---
+
+## 🧭 Diagnostic Lens
+
+Ask:
+
+- What norm does the society formally declare?
+- What institutional response is observable in practice?
+- Do declared and operational norms reinforce or contradict one another?
+- What evidence entered the public record?
+- What remained inaccessible or undocumented?
+- Who controlled preservation and access?
+- Are allegation, finding, judgment, and historical interpretation distinguishable?
+- Which communities generated records outside formal institutions?
+- What changed through later inquiry or historical reconsideration?
+- Which parts of this environment became machine-readable?
+- What additional transformations occurred during dataset construction and post-training?
+- Are we describing an observed relationship or merely assuming a downstream ML effect?
+
+Most importantly:
+
+> **What is the system actually able to observe about its own moral history?**
+
+---
+
+## 🌌 Constellations
+
+⚖️ ♻️ 🧿 🤖 👑 — normative legibility; accountability feedback; observability; machine information environments; custody of the moral record.
+
+---
+
+## ✨ Stardust
+
+accountability as alignment, normative legibility, declared norms, operational norms, moral checksum, moral friction, archive integrity, information ecology, epistemic gaps, machine-readable history, alignment governance, accountability records, observability, institutional memory
+
+---
+
+## 🏮 Footer
+
+*⚖️ Accountability as Alignment* is a living node of the **Polaris Protocol**.
+
+It examines accountability as part of the information infrastructure surrounding machine systems: how institutions make relationships among harm, evidence, norms, judgment, consequence, disagreement, and repair more or less legible in the historical record.
+
+It does not claim that legal outcomes mechanically determine machine behaviour.
+
+Its narrower claim is that machine systems are built within information environments partly produced by human governance — and those environments contain both our stated norms and the evidence of how consistently we live by them.
 
 > 📡 Cross-references:
-> 
-> - [⚖️ Acknowledgement Tradeoffs in Data Fixing](./⚖️_acknowledgement_tradeoffs_in_data_fixing.md)  
-> - [💰 Sometimes Donors Save the Day](./💰_sometimes_donors_save_the_day.md)  
-> - [💰 Who Benefits from Cover-Up](./💰_who_benefits_from_cover_up.md)  
-> - [🪡 Oversight Repair Kit](./🪡_oversight_repair_kit.md)  
-> - [🌫️ Uncertainty Branch Logic](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌫️_uncertainty_branch_logic.md)  
->  
+>
+> - [⚖️ Acknowledgement Tradeoffs in Data Fixing](./⚖️_acknowledgement_tradeoffs_in_data_fixing.md) — *how correction and acknowledgement alter historical custody*
+> - [💰 Sometimes Donors Save the Day](./💰_sometimes_donors_save_the_day.md) — *non-state influence over institutional capacity and outcomes*
+> - [💰 Who Benefits from Cover-Up](./💰_who_benefits_from_cover_up.md) — *incentive structures affecting what becomes visible*
+> - [🪡 Oversight Repair Kit](./🪡_oversight_repair_kit.md) — *repairing fragmented accountability and evidentiary chains*
+> - [🌫️ Uncertainty Branch Logic](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌫️_uncertainty_branch_logic.md) — *handling uncertainty without converting missing evidence into false certainty*
+>
 > 🏮 Return To:
 >
-> - [👑 Ownership & Control](./README.md)
-> - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
-> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+> - [👑 Ownership & Control](./README.md) — *1up*
+> - [♻️ Cybernetics](../README.md) — *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*
+> - [🌑 Origin Points](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
+*Survivor authorship is sovereign. Containment is never neutral.*
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
-
-_Last updated: 2026-08-13_
+_Last updated: 2026-08-14_
