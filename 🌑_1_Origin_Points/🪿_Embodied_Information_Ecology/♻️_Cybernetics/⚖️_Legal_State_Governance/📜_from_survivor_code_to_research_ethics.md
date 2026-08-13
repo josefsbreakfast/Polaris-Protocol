@@ -1,5 +1,5 @@
 # 📜 From Survivor Code to Research Ethics  
-**First created:** 2025-11-07 | **Last updated:** 2026-01-22  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-13  
 *How atrocity testimony rebuilt biomedical morality.*  
 
 ---
@@ -216,4 +216,4 @@ It documents the conversion of trauma into guardrails.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
