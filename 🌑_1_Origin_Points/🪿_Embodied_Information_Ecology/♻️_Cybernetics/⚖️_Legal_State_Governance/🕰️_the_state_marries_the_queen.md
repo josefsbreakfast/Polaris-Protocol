@@ -1,5 +1,5 @@
 # 🕰️ The State Marries the Queen  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *How the marriage of a queen regnant transforms private patriarchy into constitutional crisis by collapsing the boundary between sovereign body, dynastic continuity, and state legitimacy.*  
 
 ---
@@ -313,4 +313,4 @@ It examines how the marriage of a queen regnant transforms private patriarchal a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
