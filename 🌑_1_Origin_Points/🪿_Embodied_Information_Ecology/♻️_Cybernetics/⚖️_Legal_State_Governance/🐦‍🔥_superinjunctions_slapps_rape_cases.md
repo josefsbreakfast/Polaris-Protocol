@@ -1,5 +1,5 @@
 # 🐦‍🔥 Secrecy, Reputation Management, and Survivor Speech in Sexual Violence Cases  
-**First created:** 2025-09-04 | **Last updated:** 2026-05-11  
+**First created:** 2025-09-04 | **Last updated:** 2026-08-13  
 *Mapping how legal secrecy regimes, confidentiality pressures, and reputational risk can constrain survivor speech and erode trust in justice.*  
 
 ---
@@ -191,4 +191,4 @@ It examines tensions between confidentiality, institutional protection, and surv
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-13_
