@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-13 17:01:53 UTC_
+_Generated on 2026-08-13 17:03:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,7 +18,6 @@ _Generated on 2026-08-13 17:01:53 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**⚖️_Legal_State_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/)
-        - [`⚖️_how_many_adult_survivors_outlive_prosecution.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_how_many_adult_survivors_outlive_prosecution.md)
         - [`⚖️_how_the_cps_operates.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_how_the_cps_operates.md)
         - [`⚖️_inquiries_are_a_pressure_release_valve.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_inquiries_are_a_pressure_release_valve.md)
         - [`⚖️_international_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_international_laundering.md)
@@ -3826,6 +3825,7 @@ _Generated on 2026-08-13 17:01:53 UTC_
         - [`⚖️_election_candidacy_query.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_election_candidacy_query.md)
         - [`⚖️_elite_impunity_is_a_national_security_risk.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_elite_impunity_is_a_national_security_risk.md)
         - [`⚖️_harm_reduction_vs_adversarial_governance.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_harm_reduction_vs_adversarial_governance.md)
+        - [`⚖️_how_many_adult_survivors_outlive_prosecution.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_how_many_adult_survivors_outlive_prosecution.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
     - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
