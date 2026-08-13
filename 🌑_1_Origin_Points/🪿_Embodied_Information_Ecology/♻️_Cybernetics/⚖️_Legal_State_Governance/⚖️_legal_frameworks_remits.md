@@ -1,5 +1,5 @@
 # ⚖️ Legal Frameworks and Remits  
-**First created:** 2025-09-26 | **Last updated:** 2026-01-22  
+**First created:** 2025-09-26 | **Last updated:** 2026-08-13  
 *Statutory bases, oversight mechanisms, and shadow governance of UK surveillance.*  
 
 ---
@@ -311,4 +311,4 @@ It maps the statutory architectures, oversight systems, and shadow logics that d
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_  
+_Last updated: 2026-08-13_  
