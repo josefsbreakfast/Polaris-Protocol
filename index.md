@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-13 16:37:35 UTC_
+_Generated on 2026-08-13 16:41:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -19,11 +19,6 @@ _Generated on 2026-08-13 16:37:35 UTC_
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**☕️_Post_Imperial_Weather/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/notes.txt)
-        - [`💣_trident_as_modern_kraken_security_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/💣_trident_as_modern_kraken_security_theatre.md)
-        - [`📜_how_to_style_out_a_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/📜_how_to_style_out_a_crisis.md)
-        - [`📜_loss_management_performance_of_composure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/📜_loss_management_performance_of_composure.md)
-        - [`📺_beyond_regional_tv.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/📺_beyond_regional_tv.md)
-        - [`🕯️_elizabeth_ii_and_the_last_sacred_queen.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🕯️_elizabeth_ii_and_the_last_sacred_queen.md)
         - [`🕯️_the_british_blind_spot.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🕯️_the_british_blind_spot.md)
         - [`🗺️_the_last_generation_that_remembered_the_empire.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🗺️_the_last_generation_that_remembered_the_empire.md)
         - [`🥔_potatoes_not_bombs.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🥔_potatoes_not_bombs.md)
@@ -4403,6 +4398,11 @@ _Generated on 2026-08-13 16:37:35 UTC_
         - [`🎴_tarot_of_prime_ministers.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/🎴_tarot_of_prime_ministers.md)
         - [`👑_diana_and_the_postmodern_queen.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/👑_diana_and_the_postmodern_queen.md)
         - [`👻_the_postwar_ghost_in_british_identity.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/👻_the_postwar_ghost_in_british_identity.md)
+        - [`💣_trident_as_modern_kraken_security_theatre.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/💣_trident_as_modern_kraken_security_theatre.md)
+        - [`📜_how_to_style_out_a_crisis.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/📜_how_to_style_out_a_crisis.md)
+        - [`📜_loss_management_performance_of_composure.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/📜_loss_management_performance_of_composure.md)
+        - [`📺_beyond_regional_tv.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/📺_beyond_regional_tv.md)
+        - [`🕯️_elizabeth_ii_and_the_last_sacred_queen.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/🕯️_elizabeth_ii_and_the_last_sacred_queen.md)
       - [**📼_Politicians_Gone_Wild/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/)
         - [**🛶_Flag_It_Yourself/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/)
           - [**📍_Postcard_List/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/📍_Postcard_List/)
