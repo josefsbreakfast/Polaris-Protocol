@@ -1,5 +1,5 @@
 # 🗂️ Bureaucratic Attrition as Governance Strategy  
-**First created:** 2025-10-17 | **Last updated:** 2026-01-22  
+**First created:** 2025-10-17 | **Last updated:** 2026-08-13  
 *When delay and exhaustion become instruments of control.*  
 
 ---
@@ -49,4 +49,4 @@ attrition, opacity, process drag, accountability gap, systemic exhaustion
 
 > - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
-_Last updated: 2026-01-22_  
+_Last updated: 2026-08-13_  
