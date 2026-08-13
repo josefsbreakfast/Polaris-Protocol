@@ -1,5 +1,5 @@
 # ☂️ The Umbrella of Assurances: How the State Assesses Risk Before Granting Trust
-**First created:** 2026-04-24 | **Last updated:** 2026-04-24  
+**First created:** 2026-04-24 | **Last updated:** 2026-08-13  
 *Mapping how multiple assurance processes operate in parallel to assess risk, and positioning security vetting as one component within a distributed system of judgement under uncertainty.*
 
 ---
@@ -252,4 +252,4 @@ It maps how multiple assurance systems operate in parallel to assess different d
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-13_
