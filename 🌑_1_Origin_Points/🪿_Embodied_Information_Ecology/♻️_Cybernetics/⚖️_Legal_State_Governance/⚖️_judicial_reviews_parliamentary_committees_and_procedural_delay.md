@@ -1,5 +1,5 @@
 # ⚖️ Judicial Reviews, Parliamentary Committees, and Procedural Delay  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *How lawful process is used to manage exposure, absorb pressure, and preserve continuity.*  
 
 ---
@@ -464,4 +464,4 @@ It explains how **lawful process can coexist with preventable harm**, and why me
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
