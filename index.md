@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-13 17:19:07 UTC_
+_Generated on 2026-08-13 17:20:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,7 +18,6 @@ _Generated on 2026-08-13 17:19:07 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**⚖️_Legal_State_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/)
-        - [`⚖️_registered_professions_impact.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_registered_professions_impact.md)
         - [`⚖️_rights_on_paper_punishment_in_practice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_rights_on_paper_punishment_in_practice.md)
         - [`⚖️_risk_aversion_is_policy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_risk_aversion_is_policy.md)
         - [`⚖️_sentiment_data_and_coerced_service_risk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_sentiment_data_and_coerced_service_risk.md)
@@ -3825,6 +3824,7 @@ _Generated on 2026-08-13 17:19:07 UTC_
         - [`⚖️_protection_racket_as_system_design.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_protection_racket_as_system_design.md)
         - [`⚖️_public_inquiry_business_case.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_public_inquiry_business_case.md)
         - [`⚖️_redress_models_and_limits.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_redress_models_and_limits.md)
+        - [`⚖️_registered_professions_impact.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_registered_professions_impact.md)
         - [`🫖_tea_minister.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/🫖_tea_minister.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
