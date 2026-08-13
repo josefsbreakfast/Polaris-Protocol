@@ -1,5 +1,5 @@
 # ☕️ The Country House After Empire  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *How the British country house became a symbolic container for aristocratic continuity, imperial residue, curated nostalgia, and the museumification of class power after empire.*  
 
 ---
@@ -226,4 +226,4 @@ It examines how the British country house became a symbolic container for aristo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-13_
