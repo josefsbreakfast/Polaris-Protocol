@@ -1,5 +1,5 @@
 # 🦠 AI UK Due Diligence & Autoimmunity Map  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *AI infrastructure, inherited behavioural patterns, and the limits of piecemeal sovereignty in highly networked systems.*
 
 ---
@@ -414,4 +414,4 @@ Rather than treating AI as isolated software products, this node examines the op
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
