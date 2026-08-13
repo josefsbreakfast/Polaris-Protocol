@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-13 16:47:18 UTC_
+_Generated on 2026-08-13 16:49:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,10 +18,6 @@ _Generated on 2026-08-13 16:47:18 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**⚖️_Legal_State_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/README.md)
-        - [`constitutional_fault_lines.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/constitutional_fault_lines.png)
-        - [`uk_debates_overlap.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/uk_debates_overlap.png)
-        - [`uk_online_safety_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/uk_online_safety_timeline.png)
         - [`↙️↙️↙️_accidentally_unantifascist.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/↙️↙️↙️_accidentally_unantifascist.md)
         - [`☂️_the_umbrella_of_assurances.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/☂️_the_umbrella_of_assurances.md)
         - [`⚖️_authorisation_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_authorisation_and_oversight.md)
@@ -3825,6 +3821,11 @@ _Generated on 2026-08-13 16:47:18 UTC_
     - [**♻️_Cybernetics/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/.🌱_Still_Growing/notes.txt)
+      - [**⚖️_Legal_State_Governance/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/)
+        - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/README.md)
+        - [`constitutional_fault_lines.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/constitutional_fault_lines.png)
+        - [`uk_debates_overlap.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/uk_debates_overlap.png)
+        - [`uk_online_safety_timeline.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/uk_online_safety_timeline.png)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
     - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
