@@ -1,5 +1,5 @@
 # 🩸 Ideological Skinwalkers  
-**First created:** 2025-10-23  |  **Last updated:** 2026-05-18  
+**First created:** 2025-10-23  |  **Last updated:** 2026-08-13  
 *When conviction becomes costume.*  
 
 ---
@@ -189,4 +189,4 @@ It documents the late-modern shift from ideological conflict to aesthetic mimicr
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-13_
