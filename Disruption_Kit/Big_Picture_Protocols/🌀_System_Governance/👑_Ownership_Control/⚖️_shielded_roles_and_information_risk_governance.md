@@ -1,5 +1,5 @@
 # ⚖️ Shielded Roles and Information Risk Governance  
-**First created:** 2025-11-12 | **Last updated:** 2026-05-08  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-13  
 *How risk-aggregation roles can become custodial bottlenecks when authority and transparency are misaligned.*
 
 ---
@@ -220,4 +220,4 @@ It examines how protective anonymity interacts with ownership design — and how
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
