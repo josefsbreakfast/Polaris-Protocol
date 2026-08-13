@@ -1,5 +1,5 @@
 # ⚖️ Mary I and the Constitutional Crisis of Female Rule  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *How the accession of Mary I forced the English state to confront the constitutional, dynastic, and symbolic implications of female sovereignty inside a deeply patriarchal political order.*  
 
 ---
@@ -295,4 +295,4 @@ It examines how the accession of Mary I exposed unresolved tensions inside Engli
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
