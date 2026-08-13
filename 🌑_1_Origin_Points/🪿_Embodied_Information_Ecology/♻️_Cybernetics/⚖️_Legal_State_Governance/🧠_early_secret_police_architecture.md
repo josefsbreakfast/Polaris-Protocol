@@ -1,5 +1,5 @@
 # 🧠 Early Secret Police Architecture  
-**First created:** 2025-11-22 | **Last updated:** 2026-01-22  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-13  
 *Why the correct historical analogue for Prevent/Channel is not the SS or Gestapo, but the early administrative intelligence systems that precede authoritarian consolidation.*  
 
 ---
@@ -230,4 +230,4 @@ It clarifies the structural—not moral—analogue for Prevent/Channel by mappin
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
