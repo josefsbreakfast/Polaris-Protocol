@@ -1,5 +1,5 @@
 # 📖 Russia: A Cheat Sheet for the British  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *Using British historical instincts and political analogues to make Russian internal dynamics emotionally legible without flattening either country into the other.*  
 
 ---
@@ -301,4 +301,4 @@ It examines how British historical instincts surrounding monarchy, aristocracy, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-13_
