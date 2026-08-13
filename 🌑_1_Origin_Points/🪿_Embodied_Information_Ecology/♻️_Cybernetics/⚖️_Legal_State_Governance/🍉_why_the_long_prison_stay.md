@@ -1,5 +1,5 @@
 # 🍉 Why The Long Prison Stay?  
-**First created:** 2025-12-19 | **Last updated:** 2026-05-12  
+**First created:** 2025-12-19 | **Last updated:** 2026-08-13  
 *How prolonged remand happens, why it is exceptional, and what it costs the taxpayer.*  
 
 ---
@@ -372,4 +372,4 @@ It documents how prolonged remand emerges, why it is exceptional, and why it is 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-13_
