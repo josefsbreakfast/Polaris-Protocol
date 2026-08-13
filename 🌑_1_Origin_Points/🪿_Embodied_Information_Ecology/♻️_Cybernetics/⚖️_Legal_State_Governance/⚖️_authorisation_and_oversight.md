@@ -1,5 +1,5 @@
 # ⚖️ Authorisation and Oversight  
-**First created:** 2025-09-26 | **Last updated:** 2026-01-22  
+**First created:** 2025-09-26 | **Last updated:** 2026-08-13  
 *How intelligence powers are authorised — and how lawful systems drift away from consent.*  
 
 ---
@@ -336,4 +336,4 @@ It explains how intelligence warrants are issued and checked in the UK — and h
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
