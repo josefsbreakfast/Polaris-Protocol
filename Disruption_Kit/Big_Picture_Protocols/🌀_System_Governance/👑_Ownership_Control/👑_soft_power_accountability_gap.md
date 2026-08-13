@@ -1,5 +1,5 @@
 # 👑 Soft Power Accountability Gap  
-**First created:** 2025-11-02 | **Last updated:** 2026-05-08  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-13  
 *Influence without custodial consequence in Britain’s constitutional architecture.*
 
 ---
@@ -232,4 +232,4 @@ It examines how symbolic influence operates within constitutional design — and
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
