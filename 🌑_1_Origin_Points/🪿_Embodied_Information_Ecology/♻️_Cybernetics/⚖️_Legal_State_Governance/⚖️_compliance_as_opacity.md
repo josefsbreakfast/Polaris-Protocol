@@ -1,5 +1,5 @@
 # ⚖️ Compliance as Opacity  
-**First created:** 2025-09-16 | **Last updated:** 2026-01-22  
+**First created:** 2025-09-16 | **Last updated:** 2026-08-13  
 *How “compliance” and secrecy create plausible deniability, gaslighting, and governance failure, and how to remedy this.*  
 
 ---
@@ -130,4 +130,4 @@ It maps how secrecy dressed as “compliance” breeds gaslighting and systemic 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
