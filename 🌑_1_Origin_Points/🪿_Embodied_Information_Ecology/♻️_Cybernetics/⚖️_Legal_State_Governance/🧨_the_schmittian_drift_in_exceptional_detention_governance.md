@@ -1,5 +1,5 @@
 # 🧨 The Schmittian Drift in Exceptional Detention Governance  
-**First created:** 2025-12-12 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-13  
 *How emergency logic becomes ordinary governance — and why pretrial hunger strike crises expose this drift.*  
 
 ---
@@ -135,4 +135,4 @@ schmittian drift, exceptional detention, counter-terrorism overreach, pretrial g
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
