@@ -1,5 +1,5 @@
 # 💰 Who Benefits from Cover-Up?  
-**First created:** 2025-09-20 | **Last updated:** 2026-05-08  
+**First created:** 2025-09-20 | **Last updated:** 2026-08-13  
 *Incentive architecture and custody failure in siloed governance systems.*
 
 ---
@@ -216,4 +216,4 @@ It analyses how structural incentives and mandate fragmentation allow systemic h
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
