@@ -1,5 +1,5 @@
 # 🧨 We Are Already Paying the Cost  
-**First created:** 2025-12-20 | **Last updated:** 2026-05-08  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *Why non-ownership of harm is not frugality — it is systemic inefficiency.*
 
 ---
@@ -254,4 +254,4 @@ It reframes accountability not as moral luxury, but as fiscal discipline — sho
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
