@@ -1,5 +1,5 @@
 # 🏛️ Parliamentary Safeguards — The Missing Curriculum for Power  
-**First created:** 2025-10-23 | **Last updated:** 2026-01-22  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-13  
 *When the people shaping the law don’t understand its human subjects.*  
 
 ---
@@ -72,4 +72,4 @@ It documents the training void at the heart of governance and proposes a pedagog
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
