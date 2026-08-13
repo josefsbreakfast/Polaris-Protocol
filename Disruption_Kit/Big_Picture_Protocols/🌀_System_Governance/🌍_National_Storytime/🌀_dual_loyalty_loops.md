@@ -1,5 +1,5 @@
 # 🌀 Dual Loyalty Loops  
-**First created:** 2025-11-16 | **Last updated:** 2026-05-18  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-13  
 *How forced identity conflation creates no-win political traps for diaspora Jews.*  
 
 ---
@@ -194,4 +194,4 @@ focusing on the pressure structures that turn ordinary civic critique into sites
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-13_
