@@ -1,5 +1,5 @@
 # 👁️‍🗨️ Role Comparison, Not Identity Comparison  
-**First created:** 2026-05-28 | **Last updated:** 2026-05-30  
+**First created:** 2026-05-28 | **Last updated:** 2026-08-13  
 *How historical memory recognises dangerous roles without claiming total historical sameness.*
 
 ## 🛰️ Orientation
@@ -607,4 +607,4 @@ It maps how historical memory can recognise dangerous roles without claiming tot
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-30_
+_Last updated: 2026-08-13_
