@@ -1,5 +1,5 @@
 # 🦆 The Politic Is No Longer Heard  
-**First created:** 2025-11-16 | **Last updated:** 2026-01-22  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-13  
 *On the vanishing feedback loop between public life and political hearing.*  
 
 ---
@@ -75,4 +75,4 @@ It analyses the structural disappearance of direct democratic hearing and the ri
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
