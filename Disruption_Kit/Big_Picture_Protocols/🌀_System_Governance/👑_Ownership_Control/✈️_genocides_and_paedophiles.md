@@ -1,5 +1,5 @@
 # ✈️ Genocides and Paedophiles  
-**First created:** 2025-12-20 | **Last updated:** 2026-05-08  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *Shared governance failure patterns in high-exposure harm contexts.*  
 
 ---
@@ -227,4 +227,4 @@ It examines shared governance response patterns in high-exposure harm contexts �
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
