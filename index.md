@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-13 16:52:07 UTC_
+_Generated on 2026-08-13 16:54:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,9 +18,6 @@ _Generated on 2026-08-13 16:52:07 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**⚖️_Legal_State_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/)
-        - [`⚖️_cluedo_certainty_vs_court_certainty.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_cluedo_certainty_vs_court_certainty.md)
-        - [`⚖️_compliance_as_opacity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_compliance_as_opacity.md)
-        - [`⚖️_containment_contract_trace.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md)
         - [`⚖️_courts_as_sites_of_harm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_courts_as_sites_of_harm.md)
         - [`⚖️_decoupling_justice_from_incarceration.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_decoupling_justice_from_incarceration.md)
         - [`⚖️_due_diligence_as_moral_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_due_diligence_as_moral_defence.md)
@@ -3826,6 +3823,9 @@ _Generated on 2026-08-13 16:52:07 UTC_
         - [`↙️↙️↙️_accidentally_unantifascist.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/↙️↙️↙️_accidentally_unantifascist.md)
         - [`☂️_the_umbrella_of_assurances.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/☂️_the_umbrella_of_assurances.md)
         - [`⚖️_authorisation_and_oversight.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_authorisation_and_oversight.md)
+        - [`⚖️_cluedo_certainty_vs_court_certainty.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_cluedo_certainty_vs_court_certainty.md)
+        - [`⚖️_compliance_as_opacity.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_compliance_as_opacity.md)
+        - [`⚖️_containment_contract_trace.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
     - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
