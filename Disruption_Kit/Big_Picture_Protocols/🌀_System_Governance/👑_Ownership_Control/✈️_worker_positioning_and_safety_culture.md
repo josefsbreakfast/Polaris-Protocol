@@ -1,5 +1,5 @@
 # ✈️ Worker Positioning & Safety Culture  
-**First created:** 2025-12-12 | **Last updated:** 2026-05-08  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-13  
 *Why harm prevention collapses when no one holds custody of worker protection.*
 
 ---
@@ -220,4 +220,4 @@ It examines how fragmented worker protection creates escalation vacuums — and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
