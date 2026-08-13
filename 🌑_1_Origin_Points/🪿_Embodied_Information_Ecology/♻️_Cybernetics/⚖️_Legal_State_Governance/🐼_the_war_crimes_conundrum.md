@@ -1,5 +1,5 @@
 # 🐼 The War Crimes Conundrum  
-**First created:** 2026-05-05 | **Last updated:** 2026-05-11  
+**First created:** 2026-05-05 | **Last updated:** 2026-08-13  
 *How evidential limits, institutional caution, and communication opacity can produce legitimacy crises in modern war crimes discourse.*
 
 ---
@@ -363,4 +363,4 @@ It examines how evidential complexity, institutional caution, and communication 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-13_
