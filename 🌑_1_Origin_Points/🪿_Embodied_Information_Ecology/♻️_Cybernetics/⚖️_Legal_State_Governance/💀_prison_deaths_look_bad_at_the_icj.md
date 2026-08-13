@@ -1,5 +1,5 @@
 # 💀 Prison Deaths Look Bad at the ICJ  
-**First created:** 2025-12-17 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-17 | **Last updated:** 2026-08-13  
 *Domestic acceptance of foreseeable custodial death corrodes a state’s credibility in genocide-prevention litigation.*  
 
 ---
@@ -105,4 +105,4 @@ It documents how domestic governance failures reverberate into international leg
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
