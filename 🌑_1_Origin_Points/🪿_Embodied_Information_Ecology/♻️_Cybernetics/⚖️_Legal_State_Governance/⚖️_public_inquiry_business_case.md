@@ -1,5 +1,5 @@
 # ⚖️ Public Inquiry Business Case  
-**First created:** 2025-09-26 | **Last updated:** 2026-01-22  
+**First created:** 2025-09-26 | **Last updated:** 2026-08-13  
 *Evidential integrity and data-twin exploitation, requiring formal inquiry.*  
 
 ---
@@ -75,4 +75,4 @@ It frames the rationale, scope, and model for a formal inquiry into evidential w
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
