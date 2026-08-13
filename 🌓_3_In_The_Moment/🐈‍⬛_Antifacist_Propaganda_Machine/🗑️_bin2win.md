@@ -418,6 +418,10 @@ But:
 
 🐈‍⬛ 🗑️ ♻️ 🎭 🧿 — antifascist communication; democratic participation; feedback systems; political satire; challengeability and political literacy.
 
+*Follow the evidence:*  
+
+- [📰: The Independent: “Clacton by-election poll tracker: Could Count Binface deliver a huge upset to Nigel Farage?”](https://www.independent.co.uk/news/uk/politics/clacton-by-election-polls-nigel-farage-count-binface-b3032260.html) - *quality graphs*  
+
 ---
 
 ## ✨ Stardust
