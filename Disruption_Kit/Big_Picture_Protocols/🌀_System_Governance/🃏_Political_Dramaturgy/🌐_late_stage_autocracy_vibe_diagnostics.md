@@ -1,5 +1,5 @@
 # 🌐 Late-Stage Autocracy Vibe Diagnostics  
-**First created:** 2025-11-20 | **Last updated:** 2026-05-18  
+**First created:** 2025-11-20 | **Last updated:** 2026-08-13  
 *How regime instability becomes emotionally visible long before formal collapse.*  
 
 ---
@@ -331,4 +331,4 @@ The node treats “vibes” not as mystical intuition, but as distributed social
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-13_
