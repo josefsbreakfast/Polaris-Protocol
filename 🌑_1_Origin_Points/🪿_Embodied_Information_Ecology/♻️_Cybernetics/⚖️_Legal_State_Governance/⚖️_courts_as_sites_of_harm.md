@@ -1,5 +1,5 @@
 # ⚖️ Courts as Sites of Harm — When Justice Architecture Becomes Trauma Architecture  
-**First created:** 2025-12-10 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-10 | **Last updated:** 2026-08-13  
 *Why legal venues designed for justice routinely inflict secondary harm — especially on survivors, disabled claimants, and people targeted by false or malicious reporting.*  
 
 ---
@@ -180,4 +180,4 @@ It situates courts not only as forums of justice but as repeated environments of
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
