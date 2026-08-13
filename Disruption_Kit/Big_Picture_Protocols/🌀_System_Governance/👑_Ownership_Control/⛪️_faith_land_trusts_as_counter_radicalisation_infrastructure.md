@@ -1,5 +1,5 @@
 # ⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure  
-**First created:** 2025-10-08 | **Last updated:** 2026-05-08  
+**First created:** 2025-10-08 | **Last updated:** 2026-08-13  
 *When custodianship collapses, communities either lose buildings — or reclaim them.*
 
 ---
@@ -249,4 +249,4 @@ It examines how redundant faith buildings become sites of custodial drift — an
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
