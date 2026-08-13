@@ -1,5 +1,5 @@
 # 🍉 British Democracy Needs You  
-**First created:** 2025-12-23 | **Last updated:** 2026-05-08  
+**First created:** 2025-12-23 | **Last updated:** 2026-08-13  
 *Democracy is not self-driving. If we do not own it, someone else will.*  
 
 ---
@@ -194,4 +194,4 @@ democratic ownership, institutional hesitation, narrative capture, lobbying pres
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
