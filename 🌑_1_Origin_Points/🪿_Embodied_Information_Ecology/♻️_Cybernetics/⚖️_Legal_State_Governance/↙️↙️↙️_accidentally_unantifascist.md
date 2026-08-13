@@ -1,6 +1,5 @@
 # ↙️↙️↙️ Accidentally Un-Antifascist  
-**First created:** 2026-06-14  
-**Last updated:** 2026-06-14  
+**First created:** 2026-06-14 | **Last updated:** 2026-08-13  
 
 *A warning note on reactive governance, trauma-instrumental policy, and the administrative habits that make fascist politics easier even when the stated intent is anti-racist, anti-extremist, or protective.*
 
@@ -569,4 +568,4 @@ It is a diagnostic for policy drift, strategic absence, and harm-producing react
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-14_
+_Last updated: 2026-08-13_
