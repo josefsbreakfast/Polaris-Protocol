@@ -1,5 +1,5 @@
 # ⚖️ Visibility Is Enforcement  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *Why law that operates out of sight fails to deter, persuade, or protect.*  
 
 ---
@@ -189,4 +189,4 @@ It documents why accountability that cannot be seen fails to deter harm or susta
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
