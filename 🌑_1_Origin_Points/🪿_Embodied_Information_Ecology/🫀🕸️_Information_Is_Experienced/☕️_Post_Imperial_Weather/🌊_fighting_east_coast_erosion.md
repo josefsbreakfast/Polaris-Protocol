@@ -1,6 +1,5 @@
-# 🌊 Fighting East Coast Erosion
-
-**First created:** 2026-05-30 | **Last updated:** 2026-05-30
+# 🌊 Fighting East Coast Erosion  
+**First created:** 2026-05-30 | **Last updated:** 2026-08-13  
 *A systems node on east coast towns, multi-register erosion, and the strategic potential hidden inside places too often misread as decline zones.*
 
 ## 🛰️ Orientation
@@ -346,4 +345,4 @@ It maps east coast decline as a multi-register erosion problem, using Clacton as
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-05-30*
+*Last updated: 2026-08-13*
