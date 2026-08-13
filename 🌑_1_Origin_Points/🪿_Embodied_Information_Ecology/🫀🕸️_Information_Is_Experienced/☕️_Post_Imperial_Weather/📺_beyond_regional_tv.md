@@ -1,5 +1,5 @@
 # 📺 Beyond Regional TV  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *London media culture, regional flattening, and the tendency to compress historically distinct territories into symbolic peripheries.*  
 
 ---
@@ -318,4 +318,4 @@ It examines how London-centred media culture can flatten historically distinct t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-13_
