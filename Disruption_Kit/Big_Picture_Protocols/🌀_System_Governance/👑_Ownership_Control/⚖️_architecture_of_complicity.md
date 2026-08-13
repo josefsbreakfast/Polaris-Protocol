@@ -1,5 +1,5 @@
 # ⚖️ The Architecture of Complicity  
-**First created:** 2025-11-07 | **Last updated:** 2026-05-08  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-13  
 *How accountability flows downward when sponsorship ownership is structurally fragmented.*
 
 ---
@@ -268,4 +268,4 @@ It examines how jurisdictional design and ownership fragmentation shape where ac
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
