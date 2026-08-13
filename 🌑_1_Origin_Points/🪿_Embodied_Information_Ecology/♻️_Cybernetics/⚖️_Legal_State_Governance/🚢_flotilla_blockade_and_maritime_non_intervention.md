@@ -1,5 +1,5 @@
 # 🚢 Flotilla, Blockade, And Maritime Non-Intervention  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *How watching at sea became a choice — and why non-intervention hardened into acceptance.*  
 
 ---
@@ -155,4 +155,4 @@ It exists to show how prevention can fail **in full view**, and why watching fro
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
