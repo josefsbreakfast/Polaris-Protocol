@@ -438,7 +438,7 @@ Historically, this has **not** guaranteed:
 
 The framework is changing.
 
-The **English Devolution and Community Empowerment Act 2026** strengthens the model toward a Community Right to Buy, including a longer period for community purchasers and a first opportunity to buy listed assets under the new regime.
+The English Devolution and Community Empowerment Act 2026 establishes the new Community Right to Buy framework, including a first-opportunity-to-purchase mechanism for listed community assets. The reform received Royal Assent on 29 April 2026, but implementation is transitional and the precise operational timetable and procedures depend on commencement and subsequent guidance.
 
 The precise operation of these reforms depends upon commencement and implementing arrangements.
 
