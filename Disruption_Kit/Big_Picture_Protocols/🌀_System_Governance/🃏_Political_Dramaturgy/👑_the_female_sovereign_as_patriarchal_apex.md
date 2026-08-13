@@ -1,5 +1,5 @@
 # 👑 The Female Sovereign as Patriarchal Apex  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *How female monarchs often became intensified embodiments of patriarchal legitimacy rather than simple disruptions of patriarchal power.*  
 
 ---
@@ -320,4 +320,4 @@ It examines how female monarchs frequently became intensified embodiments of sov
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-13_
