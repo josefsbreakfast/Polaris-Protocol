@@ -1,5 +1,5 @@
 # 🏛️ Reputation Management Is Not Governance  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *Why substituting image control for accountability corrodes state capacity and democratic trust.*  
 
 ---
@@ -176,4 +176,4 @@ It documents how substituting image control for accountability undermines state 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
