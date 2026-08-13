@@ -1,5 +1,5 @@
 # 🫀 Genocide by Containment  
-**First created:** 2025-09-03 | **Last updated:** 2026-05-08  
+**First created:** 2025-09-03 | **Last updated:** 2026-08-13  
 *Legacy administrative architecture, outcome orphaning, and the normalisation of preventable harm.*
 
 ---
@@ -313,4 +313,4 @@ It examines how fragmented governance architectures can normalise preventable ha
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
