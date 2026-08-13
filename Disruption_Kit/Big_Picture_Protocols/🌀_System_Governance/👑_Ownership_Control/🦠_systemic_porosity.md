@@ -1,5 +1,5 @@
 # 🦠 Systemic Porosity  
-**First created:** 2025-10-13 | **Last updated:** 2026-05-08  
+**First created:** 2025-10-13 | **Last updated:** 2026-08-13  
 *A structural-risk sketch showing how loosely coupled UK oversight regimes create exploitable seams.*  
 
 ---
@@ -85,4 +85,4 @@ It is a theoretical systems-diagnostic intended to support oversight reform.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
