@@ -1,5 +1,5 @@
 # 🇷🇺🇬🇧 The Russia of the West; The UK of the East  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *Why Britain and Russia are often more historically and emotionally legible to one another than British discourse comfortably admits.*  
 
 ---
@@ -390,4 +390,4 @@ It examines how Britain and Russia remain unexpectedly legible to one another th
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-13_
