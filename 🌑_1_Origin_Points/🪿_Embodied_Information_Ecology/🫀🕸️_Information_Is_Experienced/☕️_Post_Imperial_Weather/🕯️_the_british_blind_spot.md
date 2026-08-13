@@ -1,5 +1,5 @@
 # 🕯️ The British Blind Spot  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *Post-imperial continuity myths, emotional self-perception, and the difficulty Britain has in recognising itself clearly.*  
 
 ---
@@ -321,4 +321,4 @@ It examines how Britain’s unusual continuity of institutions, monarchy, and po
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-13_
