@@ -1,5 +1,5 @@
 # 👻 The Postwar Ghost in British Identity  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *How postwar memory, austerity psychology, reconstruction culture, and inherited continuity narratives continue haunting British political identity long after the formal postwar era ended.*  
 
 ---
@@ -198,4 +198,4 @@ It examines how postwar memory, continuity mythology, wartime emotional culture,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-13_
