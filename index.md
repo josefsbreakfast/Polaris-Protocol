@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-13 19:20:56 UTC_
+_Generated on 2026-08-13 19:36:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5040,6 +5040,7 @@ _Generated on 2026-08-13 19:20:56 UTC_
     - [`🌱_plantseer_data_mining_coop.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🌱_plantseer_data_mining_coop.md)
     - [`🍄_meme_rewilding_pipelines.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🍄_meme_rewilding_pipelines.md)
     - [`🐽_sticky_scandal_effect.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🐽_sticky_scandal_effect.md)
+    - [`🗑️_bin2win.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🗑️_bin2win.md)
     - [`🦎_finding_ones_chirp.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🦎_finding_ones_chirp.md)
   - [**📲_Press_Matters/**](🌓_3_In_The_Moment/📲_Press_Matters/)
     - [**🌊_Playing_Defence/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/)
