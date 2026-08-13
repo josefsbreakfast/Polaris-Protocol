@@ -1,5 +1,5 @@
 # 🏛️ Soft Power Dies in Silence  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *How secrecy, selective accountability, and quiet containment collapse international credibility.*  
 
 ---
@@ -197,4 +197,4 @@ It documents how domestic non-accountability translates directly into internatio
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
