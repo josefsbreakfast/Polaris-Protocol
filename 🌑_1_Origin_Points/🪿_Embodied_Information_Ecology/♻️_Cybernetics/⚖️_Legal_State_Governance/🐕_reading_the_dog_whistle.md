@@ -1,5 +1,5 @@
 # 🐕 Reading the Dog Whistle — Bureaucratic Language and Atrocity Risk  
-**First created:** 2025-10-17 | **Last updated:** 2026-01-22  
+**First created:** 2025-10-17 | **Last updated:** 2026-08-13  
 *How coded language in official documents conceals intent and signals complicity.*  
 
 ---
@@ -65,4 +65,4 @@ It records how language disguises violence inside ordinary paperwork and why dec
 > - [🕌 Muslims as Primary Outgroup in Holocaust Mechanism](../../🦕_Elder_Influencers/🕸️_World_Webs/🕌_muslims_as_primary_outgroup_in_holocaust_mechanism.md) - *fascists copy-pasted antisemitism onto Muslims and they are ramping up violence, because they are the least creative people on the planet and desperately need an alternative (non-harmful) outlet*  
 > - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
