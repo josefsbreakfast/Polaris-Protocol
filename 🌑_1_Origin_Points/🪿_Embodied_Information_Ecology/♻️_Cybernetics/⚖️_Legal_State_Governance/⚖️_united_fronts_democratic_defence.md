@@ -1,5 +1,5 @@
 # ⚖️ United Fronts as Democratic Defence  
-**First created:** 2025-11-09 | **Last updated:** 2026-01-22  
+**First created:** 2025-11-09 | **Last updated:** 2026-08-13  
 *Cross-ideological coalitions as immune systems for democratic institutions.*  
 
 ---
@@ -89,4 +89,4 @@ It defines how cross-ideological coalitions act as defensive reflexes within dem
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
