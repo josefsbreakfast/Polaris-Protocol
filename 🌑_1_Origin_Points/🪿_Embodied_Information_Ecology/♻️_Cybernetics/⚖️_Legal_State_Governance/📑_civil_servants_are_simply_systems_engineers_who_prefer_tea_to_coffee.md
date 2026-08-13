@@ -1,5 +1,5 @@
 # 📑 Civil Servants Are Simply Systems Engineers Who Prefer Tea to Coffee
-**First created:** 2026-04-23 | **Last updated:** 2026-04-24  
+**First created:** 2026-04-23 | **Last updated:** 2026-08-13  
 *Explaining civil servants as constraint-bound operators maintaining a risk-managed state, rather than political actors.*  
 
 <!--Does the Dept of Systems Engineers need AI?-->
@@ -298,4 +298,4 @@ civil service, governance systems, constraint logic, developed vetting, administ
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-13_
