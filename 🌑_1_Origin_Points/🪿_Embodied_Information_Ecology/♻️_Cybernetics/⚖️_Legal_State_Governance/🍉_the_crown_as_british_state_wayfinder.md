@@ -1,5 +1,5 @@
 # 🍉 The Crown as British State Wayfinder  
-**First created:** 2025-12-29 | **Last updated:** 2026-05-03  
+**First created:** 2025-12-29 | **Last updated:** 2026-08-13  
 *How non-executive symbolism prepares the ground for state repositioning.*  
 
 ---
@@ -283,4 +283,4 @@ It documents how symbolic and non-executive actors prepare moral and institution
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_
+_Last updated: 2026-08-13_
