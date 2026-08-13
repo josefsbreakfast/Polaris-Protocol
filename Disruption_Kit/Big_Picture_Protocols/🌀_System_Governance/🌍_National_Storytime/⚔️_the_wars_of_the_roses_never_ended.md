@@ -1,5 +1,5 @@
 # ⚔️ The Wars of the Roses Never Ended  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *How the emotional geography, regional identities, and legitimacy tensions shaped during the Wars of the Roses continue to echo within modern British political culture.*  
 
 ---
@@ -293,4 +293,4 @@ It examines how the regional identities, legitimacy tensions, and symbolic geogr
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-13_
