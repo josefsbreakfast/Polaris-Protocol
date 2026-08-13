@@ -1,6 +1,5 @@
-# 🎬 British Narrative Metabolism of Dunkirk
-
-**First created:** 2026-05-28 | **Last updated:** 2026-05-28
+# 🎬 British Narrative Metabolism of Dunkirk  
+**First created:** 2026-05-28 | **Last updated:** 2026-08-13  
 *How Dunkirk functions as British emotional infrastructure through film, music, edits, and inherited wartime memory.*
 
 ## 🛰️ Orientation
@@ -778,4 +777,4 @@ It maps how film, music, viral edits, and inherited wartime memory metabolise Du
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-05-28*
+*Last updated: 2026-08-13*
