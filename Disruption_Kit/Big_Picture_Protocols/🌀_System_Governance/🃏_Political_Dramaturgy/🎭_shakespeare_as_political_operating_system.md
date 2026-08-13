@@ -1,5 +1,5 @@
 # 🎭 Shakespeare as Political Operating System  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *How Shakespeare continues to function as a living framework for British political archetypes, legitimacy narratives, regional identity, and institutional performance.*  
 
 ---
@@ -316,4 +316,4 @@ It examines how Shakespeare continues to function as a symbolic framework throug
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-13_
