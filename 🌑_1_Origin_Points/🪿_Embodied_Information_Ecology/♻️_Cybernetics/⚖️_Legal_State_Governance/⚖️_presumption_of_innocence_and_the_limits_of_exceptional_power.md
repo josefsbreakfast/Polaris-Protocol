@@ -1,5 +1,5 @@
 # ⚖️ Presumption of Innocence and the Limits of Exceptional Power  
-**First created:** 2025-12-12 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-13  
 *How pretrial exceptionalism destabilises the constitutional meaning of innocence — and why democratic systems rely on categorical protections.*  
 
 ---
@@ -138,4 +138,4 @@ presumption of innocence, exceptional power, constitutional erosion, hunger stri
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
