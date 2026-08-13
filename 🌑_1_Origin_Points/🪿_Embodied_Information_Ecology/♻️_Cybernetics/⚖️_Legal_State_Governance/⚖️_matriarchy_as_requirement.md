@@ -1,5 +1,5 @@
 # ⚖️ Matriarchy as Requirement  
-**First created:** 2025-09-05 | **Last updated:** 2026-01-22  
+**First created:** 2025-09-05 | **Last updated:** 2026-08-13  
 *Why survivor-led, female-patterned direction is not optional but essential for stability.*  
 
 ---
@@ -56,4 +56,4 @@ It records why female-patterned authorship and survivor sovereignty are necessar
 > - [💕 For The Women Who Suddenly Realise They Are Here Too](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/💕_for_the_women_who_suddenly_realise_they_are_here_too.md)
 > - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
