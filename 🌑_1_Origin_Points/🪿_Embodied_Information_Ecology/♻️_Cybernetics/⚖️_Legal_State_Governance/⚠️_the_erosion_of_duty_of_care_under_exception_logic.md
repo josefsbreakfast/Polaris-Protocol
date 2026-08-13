@@ -1,5 +1,5 @@
 # ⚠️ The Erosion of Duty of Care Under Exception Logic  
-**First created:** 2025-12-12 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-13  
 *How exceptional frameworks degrade the state’s custodial obligations — and why this threatens democratic stability.*  
 
 ---
@@ -147,4 +147,4 @@ duty of care, exceptional detention, constitutional obligation, hunger strike an
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
