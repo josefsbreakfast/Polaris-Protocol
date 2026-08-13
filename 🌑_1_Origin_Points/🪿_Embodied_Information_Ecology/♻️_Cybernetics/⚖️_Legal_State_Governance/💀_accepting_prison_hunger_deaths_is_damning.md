@@ -1,5 +1,5 @@
 # 💀 Accepting Prison Hunger Deaths Is Damning  
-**First created:** 2025-12-17 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-17 | **Last updated:** 2026-08-13  
 *When the state knowingly accepts the risk of death in custody, responsibility is no longer ambiguous.*  
 
 ---
@@ -65,4 +65,4 @@ It records a red-line governance failure where prevention was possible and refus
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
