@@ -1,5 +1,5 @@
 # 📡 The Governance of Bodies That Refuse  
-**First created:** 2025-12-12 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-13  
 *How states attempt to regulate non-cooperative bodies — and what refusal reveals about the limits of sovereign design.*  
 
 ---
@@ -153,4 +153,4 @@ It examines how governance architectures respond to non-cooperative bodies and w
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
