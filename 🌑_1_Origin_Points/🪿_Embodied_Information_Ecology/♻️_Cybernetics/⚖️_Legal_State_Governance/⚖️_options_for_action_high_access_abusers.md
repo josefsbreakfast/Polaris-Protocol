@@ -1,5 +1,5 @@
 # ⚖️ Options for Action — High-Access Abusers  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *Escalation pathways when harassment or surveillance is commissioned via professionals or institutions.*  
 
 ---
@@ -125,4 +125,4 @@ It functions as an escalation map for survivors facing commissioned harassment v
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
