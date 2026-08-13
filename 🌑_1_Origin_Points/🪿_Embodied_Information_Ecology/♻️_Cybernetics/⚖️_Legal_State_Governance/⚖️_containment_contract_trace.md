@@ -1,5 +1,5 @@
 # ⚖️ Containment Contract Trace  
-**First created:** 2025-08-07 | **Last updated:** 2026-01-22  
+**First created:** 2025-08-07 | **Last updated:** 2026-08-13  
 *How contractual over-extension, compliance logic, and extraction pipelines produce suppression, legal insulation, and forced visibility.*  
 
 ---
@@ -282,4 +282,4 @@ It documents how legality is manufactured through contracting and secrecy, produ
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
