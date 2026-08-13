@@ -1,5 +1,5 @@
 # ⚖️ Accountability as Alignment  
-**First created:** 2025-11-05 | **Last updated:** 2026-05-08  
+**First created:** 2025-11-05 | **Last updated:** 2026-08-13  
 *Why justice systems function as moral gradient signals for machine alignment.*
 
 ---
@@ -257,4 +257,4 @@ Weak gradients produce drift.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
