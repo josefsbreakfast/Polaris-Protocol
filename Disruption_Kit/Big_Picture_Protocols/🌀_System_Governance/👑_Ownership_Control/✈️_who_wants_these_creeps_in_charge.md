@@ -1,5 +1,5 @@
 # ✈️ Who Wants These Creeps in Charge?  
-**First created:** 2025-12-20 | **Last updated:** 2026-05-08  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *Embedded indispensability, complicity chains, and the erosion of democratic consent.*
 
 ---
@@ -228,4 +228,4 @@ It examines how embedded usefulness and distributed complicity can insulate expo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
