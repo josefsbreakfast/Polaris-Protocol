@@ -1,5 +1,5 @@
 # ⚖️ The Rule-of-Law Trust Deficit  
-**First created:** 2025-10-06 | **Last updated:** 2026-01-22  
+**First created:** 2025-10-06 | **Last updated:** 2026-08-13  
 *Governance analysis of unequal terrorism classification and its effect on public legitimacy.*  
 
 ---
@@ -188,4 +188,4 @@ It examines how unequal classification corrodes democratic legitimacy and outlin
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
