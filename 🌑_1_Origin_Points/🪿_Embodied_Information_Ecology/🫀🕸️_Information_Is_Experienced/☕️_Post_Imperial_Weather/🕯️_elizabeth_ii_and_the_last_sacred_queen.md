@@ -1,5 +1,5 @@
 # 🕯️ Elizabeth II and the Last Sacred Queen  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *How Elizabeth II became fused with continuity, ritual permanence, and the emotional infrastructure of post-imperial Britain.*  
 
 ---
@@ -305,4 +305,4 @@ It examines how Elizabeth II became psychologically fused with continuity, ritua
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-13_
