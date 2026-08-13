@@ -1,5 +1,5 @@
 # 🇵🇸 Aida Is Palestinian Sovereign Territory  
-**First created:** 2026-01-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-01-08 | **Last updated:** 2026-08-13  
 *Legal status of Aida Refugee Camp and implications for third-party institutional responsibility.*  
 
 ---
@@ -143,4 +143,4 @@ It documents the legal status of Aida Refugee Camp and clarifies the obligations
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
