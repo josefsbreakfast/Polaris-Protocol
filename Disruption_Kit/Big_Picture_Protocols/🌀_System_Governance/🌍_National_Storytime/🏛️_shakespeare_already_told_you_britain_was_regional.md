@@ -1,5 +1,5 @@
 # 🏛️ Shakespeare Already Told You Britain Was Regional  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *How Shakespeare’s histories demonstrate that Britain has long understood itself as regionally plural, emotionally layered, and politically uneven.*  
 
 ---
@@ -288,4 +288,4 @@ It examines how Shakespeare’s histories portray Britain as politically layered
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-13_
