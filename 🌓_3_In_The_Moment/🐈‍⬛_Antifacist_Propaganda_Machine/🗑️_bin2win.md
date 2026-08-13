@@ -420,7 +420,10 @@ But:
 
 *Follow the evidence:*  
 
-- [📰: The Independent: “Clacton by-election poll tracker: Could Count Binface deliver a huge upset to Nigel Farage?”](https://www.independent.co.uk/news/uk/politics/clacton-by-election-polls-nigel-farage-count-binface-b3032260.html) - *quality graphs*  
+- [📰: The Independent: “Clacton by-election poll tracker: Could Count Binface deliver a huge upset to Nigel Farage?”](https://www.independent.co.uk/news/uk/politics/clacton-by-election-polls-nigel-farage-count-binface-b3032260.html) - *quality graphs*
+- [📹: Supertanskiii: “Binface Mania In Clacton As Voters Reject Farage!”](https://youtube.com/shorts/j5UiawlA37c?is=KOHXX57PJB2vWkPr)
+- [📹: Onlooker:: “COUNT BINFACE: The Strange History of Britain's Political Jokers”](https://youtu.be/1JAPHyNJkzU?is=PpWVky58RbrH3GxG)
+- [🎞️: *The Great Dictator* speech](https://youtu.be/J7GY1Xg6X20?is=1Djd7ERUgh_jIqUP)  
 
 ---
 
@@ -445,7 +448,7 @@ It uses the 2026 Clacton by-election to examine political satire as democratic i
 _Last updated: 2026-08-13_
 
 
-notes:  
+<!--
 
 > I'm sorry, but I don't want to be an emperor. That's not my business. I don't want to rule or conquer anyone. I should like to help everyone if possible; Jew, Gentile, black man, white, we all want to help one another. Human beings are like that. We want to live by each other's happiness, not by each other's misery. We don't want to hate and despise one another. In this world there's room for everyone and the good Earth is rich and can provide for everyone. The way of life can be free and beautiful, but we have lost the way. Greed has poisoned men's souls, has barricaded the world with hate, has goose-stepped us into misery and bloodshed.
 > 
@@ -460,3 +463,5 @@ notes:
 > Then, in the name of democracy, let us use that power, let us all unite. Let us fight for a new world, a decent world that will give men a chance to work, that will give youth a future and old age of security. By the promise of these things, brutes have risen to power, but they lie. They do not fulfill that promise. They never will. Dictators free themselves, but they enslave the people.
 > 
 > Now want to just fight to fulfill that promise. Let us fight to free the world to do away with national barriers, to do away with greed, with hate and intolerance. Let us fight for a world of reason, a world where science and progress will lead to all men's happiness. Soldiers, in the name of democracy, let us all unite.
+
+-->
