@@ -1,6 +1,5 @@
 # 🇬🇧 Why Alt-Right Burqa Burlesque Play Feels Weird  
-**First created:** 2026-05-18 | **Last updated:** 2026-05-20  
-
+**First created:** 2026-05-18 | **Last updated:** 2026-08-13  
 *An examination of symbolic unveiling rituals, racialised spectacle, burlesque performance grammar, public kink ethics, differential vulnerability, and the unstable politics of civic theatricality within contemporary culture-war environments.*  
 
 ---
@@ -491,4 +490,4 @@ It examines symbolic unveiling rituals, racialised public spectacle, and the uns
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-20_
+_Last updated: 2026-08-13_
