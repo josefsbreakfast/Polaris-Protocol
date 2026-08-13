@@ -1,5 +1,5 @@
 # 🦮 Who Authorises Animal-Assisted VE Interventions in the UK?  
-**First created:** 2025-11-14 | **Last updated:** 2026-01-22  
+**First created:** 2025-11-14 | **Last updated:** 2026-08-13  
 *A governance-mapping node clarifying which UK actors could legitimately authorise, supervise, or deliver animal-assisted stabilisation work for individuals flagged for vulnerability or early-intervention risk — and why counter‑terrorism bodies are categorically excluded.*  
 
 ---
@@ -181,4 +181,4 @@ It defines the lawful, ethical paths and the hard boundaries separating these fr
 
 > - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
