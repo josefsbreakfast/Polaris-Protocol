@@ -1,5 +1,5 @@
 # 📜 Loss Management and the Performance of Composure  
-**First created:** 2025-11-12 | **Last updated:** 2026-05-14  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-13  
 *A cultural-analysis node examining composure, endurance, and reputational recovery through the “heap of all your winnings” stanza in Rudyard Kipling’s* If—*.*  
 
 ---
@@ -157,4 +157,4 @@ It examines how cultural ideals of restraint, endurance, and emotional disciplin
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-13_
