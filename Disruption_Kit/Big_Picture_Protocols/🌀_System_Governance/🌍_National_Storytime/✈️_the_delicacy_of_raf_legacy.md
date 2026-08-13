@@ -1,6 +1,5 @@
-# ✈️ The Delicacy of RAF Legacy
-
-**First created:** 2026-05-28 | **Last updated:** 2026-05-28
+# ✈️ The Delicacy of RAF Legacy  
+**First created:** 2026-05-28 | **Last updated:** 2026-08-13  
 *Why RAF symbolism is delicate in Britain, especially when air power appears connected to surveillance, aid, civilian harm, or the wrong moral role.*
 
 ## 🛰️ Orientation
@@ -526,4 +525,4 @@ It maps why RAF symbolism carries unusual delicacy in British cultural memory, e
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-05-28*
+*Last updated: 2026-08-13*
