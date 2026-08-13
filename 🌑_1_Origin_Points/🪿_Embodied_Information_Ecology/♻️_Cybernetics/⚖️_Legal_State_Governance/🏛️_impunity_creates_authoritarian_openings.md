@@ -1,5 +1,5 @@
 # 🏛️ Impunity Creates Authoritarian Openings  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *How selective enforcement hollows democratic legitimacy and prepares the ground for coercive power.*  
 
 ---
@@ -177,4 +177,4 @@ It documents how failure to enforce accountability against power creates structu
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
