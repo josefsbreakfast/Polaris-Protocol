@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-13 18:09:47 UTC_
+_Generated on 2026-08-13 18:11:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,7 +18,6 @@ _Generated on 2026-08-13 18:09:47 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**⚖️_Legal_State_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/)
-        - [`🛰️_civic_oversight_of_ai_partnerships.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🛰️_civic_oversight_of_ai_partnerships.md)
         - [`🦆_the_politic_is_no_longer_heard.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦆_the_politic_is_no_longer_heard.md)
         - [`🦤_bird_law_uk_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦤_bird_law_uk_edition.md)
         - [`🦮_who_authorises_animal_assisted_ve_interventions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/🦮_who_authorises_animal_assisted_ve_interventions.md)
@@ -3824,6 +3823,7 @@ _Generated on 2026-08-13 18:09:47 UTC_
         - [`🚨_red_flags_of_authoritarian_capture_in_policing.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/🚨_red_flags_of_authoritarian_capture_in_policing.md)
         - [`🛂_suspect_class_governance.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/🛂_suspect_class_governance.md)
         - [`🛡️_high_security_settlement_logic_data_exhaust.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/🛡️_high_security_settlement_logic_data_exhaust.md)
+        - [`🛰️_civic_oversight_of_ai_partnerships.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/🛰️_civic_oversight_of_ai_partnerships.md)
         - [`🫖_tea_minister.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/🫖_tea_minister.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
