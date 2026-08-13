@@ -1,5 +1,5 @@
 # ⚖️ Decoupling Justice From Incarceration  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *Why treating prison as the default endpoint of justice suppresses accountability and increases harm.*  
 
 ---
@@ -199,4 +199,4 @@ It documents how treating prison as the default endpoint of justice suppresses e
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
