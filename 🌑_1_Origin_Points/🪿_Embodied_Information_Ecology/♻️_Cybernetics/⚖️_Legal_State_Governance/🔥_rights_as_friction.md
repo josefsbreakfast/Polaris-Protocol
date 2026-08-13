@@ -1,5 +1,5 @@
 # 🔥 Rights as Friction  
-**First created:** 2025-12-26 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-26 | **Last updated:** 2026-08-13  
 *Why safeguards are treated as obstacles*  
 <!-- Cf. behavioural nudges pre-Brexit; valuable target non-state actor possibilities for same industry. To research/check. -->
 
@@ -246,4 +246,4 @@ It clarifies how rights and courts are reframed as “inefficiency” when gover
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
