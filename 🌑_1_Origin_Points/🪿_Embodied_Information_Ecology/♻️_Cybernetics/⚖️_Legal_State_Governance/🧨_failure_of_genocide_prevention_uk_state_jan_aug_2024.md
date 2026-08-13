@@ -1,5 +1,5 @@
 # 🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *How UK continuity, delay, and “risk management” displaced the Genocide Convention’s prevention duty into procedural fog.*  
 
 ---
@@ -209,4 +209,4 @@ It exists to pin down where prevention duties became operational, where UK lever
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
