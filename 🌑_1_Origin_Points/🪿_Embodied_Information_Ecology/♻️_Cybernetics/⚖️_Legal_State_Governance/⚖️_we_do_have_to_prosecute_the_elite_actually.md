@@ -1,5 +1,5 @@
 # ⚖️ We Do Have to Prosecute the Elite, Actually  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *Why elite non-prosecution is not prudence but democratic self-harm.*  
 
 ---
@@ -173,4 +173,4 @@ It documents why elite non-prosecution functions as systemic risk amplification 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
