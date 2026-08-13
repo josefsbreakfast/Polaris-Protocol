@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-13 16:57:09 UTC_
+_Generated on 2026-08-13 16:58:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,7 +18,6 @@ _Generated on 2026-08-13 16:57:09 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**⚖️_Legal_State_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/)
-        - [`⚖️_elbit_systems_uk_legal_structure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_elbit_systems_uk_legal_structure.md)
         - [`⚖️_election_candidacy_query.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_election_candidacy_query.md)
         - [`⚖️_elite_impunity_is_a_national_security_risk.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_elite_impunity_is_a_national_security_risk.md)
         - [`⚖️_harm_reduction_vs_adversarial_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/⚖️_harm_reduction_vs_adversarial_governance.md)
@@ -3826,6 +3825,7 @@ _Generated on 2026-08-13 16:57:09 UTC_
         - [`⚖️_courts_as_sites_of_harm.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_courts_as_sites_of_harm.md)
         - [`⚖️_decoupling_justice_from_incarceration.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_decoupling_justice_from_incarceration.md)
         - [`⚖️_due_diligence_as_moral_defence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_due_diligence_as_moral_defence.md)
+        - [`⚖️_elbit_systems_uk_legal_structure.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_elbit_systems_uk_legal_structure.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
     - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
