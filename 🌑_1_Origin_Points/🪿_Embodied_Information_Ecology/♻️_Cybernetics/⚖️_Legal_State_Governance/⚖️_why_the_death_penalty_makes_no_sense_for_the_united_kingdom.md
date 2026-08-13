@@ -1,5 +1,5 @@
 # ⚖️ Why the Death Penalty Makes No Sense for the United Kingdom  
-**First created:** 2025-11-12 | **Last updated:** 2026-01-22  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-13  
 *Evidence, ethics, and efficiency — the capital punishment trap.*  
 
 ---
@@ -111,4 +111,4 @@ It documents how capital punishment functions as moral theatre and activist cont
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
