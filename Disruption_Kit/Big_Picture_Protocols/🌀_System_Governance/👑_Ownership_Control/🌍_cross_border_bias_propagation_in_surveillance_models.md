@@ -1,5 +1,5 @@
 # 🌍 Cross-Border Bias Propagation in Surveillance Models  
-**First created:** 2025-11-18 | **Last updated:** 2026-05-08  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-13  
 *How behavioural data and risk models move between jurisdictions, carrying embedded bias across systems.*  
 
 ---
@@ -207,4 +207,4 @@ It maps how bias persists through system interoperability, shared standards, and
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
