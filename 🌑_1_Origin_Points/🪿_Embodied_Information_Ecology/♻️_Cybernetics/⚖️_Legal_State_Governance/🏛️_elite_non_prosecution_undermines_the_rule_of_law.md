@@ -1,5 +1,5 @@
 # 🏛️ Elite Non-Prosecution Undermines the Rule of Law  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *How selective enforcement erodes legal authority, democratic legitimacy, and civic compliance.*  
 
 ---
@@ -187,4 +187,4 @@ It documents how selective enforcement erodes legal authority and democratic con
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
