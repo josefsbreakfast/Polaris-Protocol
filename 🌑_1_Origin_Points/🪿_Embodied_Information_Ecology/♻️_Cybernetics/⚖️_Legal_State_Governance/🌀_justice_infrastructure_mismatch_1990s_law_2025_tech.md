@@ -1,5 +1,5 @@
 # 🌀 Justice Infrastructure Mismatch: 1990s Law × 2025 Tech  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-13  
 *How legacy legal assumptions collide with contemporary data, cloud, and R&D infrastructures—creating systemic risk rather than protection.*  
 
 ---
@@ -205,4 +205,4 @@ It situates justice-system data failures within a broader temporal mismatch betw
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
