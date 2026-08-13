@@ -1,6 +1,5 @@
-# 🧰 Poor Political Varnish
-
-**First created:** 2026-05-28 | **Last updated:** 2026-05-28
+# 🧰 Poor Political Varnish  
+**First created:** 2026-05-28 | **Last updated:** 2026-08-13  
 *Why “small boats as invasion” is a weak political coating over older British rescue memory, class grievance, and wartime contradiction.*
 
 ## 🛰️ Orientation
@@ -651,4 +650,4 @@ It maps why hostile “small boats” narratives struggle to bond with older Bri
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-05-28*
+*Last updated: 2026-08-13*
