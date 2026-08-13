@@ -1,5 +1,5 @@
 # 🤫 Collective Risk Silence Loop  
-**First created:** 2025-11-12 | **Last updated:** 2026-05-08  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-13  
 *How shared exposure and fragmented ownership produce sector-wide silence without coordination.*
 
 ---
@@ -249,4 +249,4 @@ It describes how sector-wide silence stabilises when exposure is shared but cons
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
