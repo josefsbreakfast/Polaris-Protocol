@@ -1,5 +1,5 @@
 # 💰 Sometimes Donors Save the Day  
-**First created:** 2025-12-16 | **Last updated:** 2026-05-08  
+**First created:** 2025-12-16 | **Last updated:** 2026-08-13  
 *Legitimacy pressure as substitute governance when ownership collapses.*
 
 ---
@@ -264,4 +264,4 @@ It documents how informal legitimacy pressure often substitutes for formal accou
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
