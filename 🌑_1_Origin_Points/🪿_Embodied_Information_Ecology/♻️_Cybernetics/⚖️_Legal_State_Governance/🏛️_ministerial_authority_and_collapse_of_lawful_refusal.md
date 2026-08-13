@@ -1,5 +1,5 @@
 # 🏛️ Ministerial Authority And The Collapse Of Lawful Refusal  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *How UK constitutional design concentrates moral authority upward while denying lawful refusal downward.*  
 
 ---
@@ -183,4 +183,4 @@ It exists to explain **why downstream actors could not stop**, even when they co
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
