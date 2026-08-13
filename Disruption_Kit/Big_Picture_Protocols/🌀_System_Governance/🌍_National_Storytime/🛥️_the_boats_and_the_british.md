@@ -1,6 +1,5 @@
-# 🛥️ The Boats and the British
-
-**First created:** 2026-05-28 | **Last updated:** 2026-05-28
+# 🛥️ The Boats and the British  
+**First created:** 2026-05-28 | **Last updated:** 2026-08-13  
 *Why small boats, humanitarian rescue, Dunkirk memory, and British wartime mythology make flotilla imagery politically explosive.*
 
 ## 🛰️ Orientation
@@ -711,4 +710,4 @@ It maps how small boats, humanitarian rescue, Dunkirk memory, and British wartim
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-05-28*
+*Last updated: 2026-08-13*
