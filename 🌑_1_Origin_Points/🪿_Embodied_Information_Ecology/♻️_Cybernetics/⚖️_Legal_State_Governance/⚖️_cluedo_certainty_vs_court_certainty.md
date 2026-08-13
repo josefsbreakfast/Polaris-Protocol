@@ -1,5 +1,5 @@
 # ⚖️ Cluedo Certainty vs Court Certainty  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *Why being sure is not the same as proving — and why evidence still matters even when the answer is obvious.*  
 
 ---
@@ -252,5 +252,5 @@ It clarifies the epistemic and governance gap between knowing and proving, and f
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
 
