@@ -1,5 +1,5 @@
 # 🩸 The Romanovs and British Aristocratic Imagination  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *Why the fall of the Romanovs resonated so powerfully within Britain, and how Russian aristocratic collapse became psychologically entangled with British fears surrounding legitimacy, continuity, and imperial fragility.*  
 
 ---
@@ -310,4 +310,4 @@ It examines how the fall of the Romanovs became psychologically entangled with B
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-13_
