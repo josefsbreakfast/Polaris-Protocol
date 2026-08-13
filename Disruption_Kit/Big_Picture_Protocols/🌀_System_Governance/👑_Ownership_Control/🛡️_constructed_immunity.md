@@ -1,5 +1,5 @@
 # 🛡️ Constructed Immunity  
-**First created:** 2025-11-12 | **Last updated:** 2026-05-08  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-13  
 *How accountability dissolves when responsibility fragments across legal, contractual, and reputational layers.*
 
 ---
@@ -237,4 +237,4 @@ It makes visible the architectures through which consequence dissolves when resp
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
