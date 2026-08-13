@@ -1,5 +1,5 @@
 # 🐴 The Legality Of Gift Horses  
-**First created:** 2026-05-28 | **Last updated:** 2026-05-28  
+**First created:** 2026-05-28 | **Last updated:** 2026-08-13  
 *How convenience-framed digital reform can carry infrastructure-level constitutional consequences.*  
 
 ---
@@ -219,4 +219,4 @@ It examines how convenience-framed public-sector technology can carry hidden con
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-28_
+_Last updated: 2026-08-13_
