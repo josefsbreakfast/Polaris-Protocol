@@ -1,5 +1,5 @@
 # 🇩🇪 Trauma Sovereignty as Foreign Policy  
-**First created:** 2025-11-20 | **Last updated:** 2026-05-18  
+**First created:** 2025-11-20 | **Last updated:** 2026-08-13  
 *How trauma-coded state identity, historical memory, and narrative coupling shaped German foreign-policy posture toward Russia — and how that framework destabilised after 2022.*
 
 ---
@@ -330,4 +330,4 @@ The node focuses on how stabilising postwar narratives can mediate contradiction
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-13_
