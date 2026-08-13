@@ -1,5 +1,5 @@
 # 🌀 Algorithmic Justice Loop  
-First created: 2026-06-02 | Last updated: 2026-06-02  
+First created: 2026-06-02 | Last updated: 2026-08-13  
 How outrage velocity starts behaving like an unofficial triage system for justice.
 
 ---
@@ -382,4 +382,4 @@ It names a feedback pattern in which overloaded justice systems begin to appear 
 
 Survivor authorship is sovereign. Containment is never neutral.  
 
-_Last updated: 2026-06-
+_Last updated: 2026-08-13_
