@@ -1,5 +1,5 @@
 # 🥬 Prime Ministerial Lettuce Duration Forecasting Using The Lettuce Volitility Index (LVIX)  
-**First created:** 2026-05-15 | **Last updated:** 2026-05-18  
+**First created:** 2026-05-15 | **Last updated:** 2026-08-13  
 *A satirical governance metric comparing the shelf life of British lettuce with the expected stability of political leadership.*  
 
 ---
@@ -184,4 +184,4 @@ It explains the balance of green leaf durability in context of British political
 
 *The meme often communicates the relationship before it communicates the idea.*  
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-08-13_
