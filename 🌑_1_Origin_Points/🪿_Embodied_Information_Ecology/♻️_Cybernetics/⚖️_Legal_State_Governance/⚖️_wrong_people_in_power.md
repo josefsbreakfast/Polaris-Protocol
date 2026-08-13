@@ -1,5 +1,5 @@
 # ⚖️ Wrong People in Power  
-**First created:** 2025-09-05 | **Last updated:** 2026-01-22  
+**First created:** 2025-09-05 | **Last updated:** 2026-08-13  
 *Why suppression operations persist when the authorising class is compromised or unwilling.*  
 
 ---
@@ -59,4 +59,4 @@ It documents how suppression operations are sustained by political actors who be
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
