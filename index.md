@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-13 16:26:51 UTC_
+_Generated on 2026-08-13 16:37:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,21 +18,7 @@ _Generated on 2026-08-13 16:26:51 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**☕️_Post_Imperial_Weather/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/README.md)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/notes.txt)
-        - [`☕️_britain_after_elizabeth.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/☕️_britain_after_elizabeth.md)
-        - [`☕️_managing_postcolonial_melancholia.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/☕️_managing_postcolonial_melancholia.md)
-        - [`☕️_the_country_house_after_empire.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/☕️_the_country_house_after_empire.md)
-        - [`☕️_the_death_of_the_british_eccentric.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/☕️_the_death_of_the_british_eccentric.md)
-        - [`☕️_the_henry_v_of_local_elections_day.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/☕️_the_henry_v_of_local_elections_day.md)
-        - [`🇬🇧_calm_down_its_just_british.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🇬🇧_calm_down_its_just_british.md)
-        - [`🇬🇧_flags_and_false_catharsis.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🇬🇧_flags_and_false_catharsis.md)
-        - [`🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md)
-        - [`🌊_fighting_east_coast_erosion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🌊_fighting_east_coast_erosion.md)
-        - [`🍿_imperial_core_drama_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🍿_imperial_core_drama_cycle.md)
-        - [`🎴_tarot_of_prime_ministers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🎴_tarot_of_prime_ministers.md)
-        - [`👑_diana_and_the_postmodern_queen.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/👑_diana_and_the_postmodern_queen.md)
-        - [`👻_the_postwar_ghost_in_british_identity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/👻_the_postwar_ghost_in_british_identity.md)
         - [`💣_trident_as_modern_kraken_security_theatre.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/💣_trident_as_modern_kraken_security_theatre.md)
         - [`📜_how_to_style_out_a_crisis.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/📜_how_to_style_out_a_crisis.md)
         - [`📜_loss_management_performance_of_composure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/📜_loss_management_performance_of_composure.md)
@@ -4402,6 +4388,21 @@ _Generated on 2026-08-13 16:26:51 UTC_
     - [**🫀🕸️_Information_Is_Experienced/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/.🌱_Still_Growing/notes.txt)
+      - [**☕️_Post_Imperial_Weather/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/)
+        - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/README.md)
+        - [`☕️_britain_after_elizabeth.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/☕️_britain_after_elizabeth.md)
+        - [`☕️_managing_postcolonial_melancholia.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/☕️_managing_postcolonial_melancholia.md)
+        - [`☕️_the_country_house_after_empire.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/☕️_the_country_house_after_empire.md)
+        - [`☕️_the_death_of_the_british_eccentric.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/☕️_the_death_of_the_british_eccentric.md)
+        - [`☕️_the_henry_v_of_local_elections_day.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/☕️_the_henry_v_of_local_elections_day.md)
+        - [`🇬🇧_calm_down_its_just_british.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/🇬🇧_calm_down_its_just_british.md)
+        - [`🇬🇧_flags_and_false_catharsis.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/🇬🇧_flags_and_false_catharsis.md)
+        - [`🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/🇬🇧_why_the_uk_likes_to_laugh_at_the_ruling_class.md)
+        - [`🌊_fighting_east_coast_erosion.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/🌊_fighting_east_coast_erosion.md)
+        - [`🍿_imperial_core_drama_cycle.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/🍿_imperial_core_drama_cycle.md)
+        - [`🎴_tarot_of_prime_ministers.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/🎴_tarot_of_prime_ministers.md)
+        - [`👑_diana_and_the_postmodern_queen.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/👑_diana_and_the_postmodern_queen.md)
+        - [`👻_the_postwar_ghost_in_british_identity.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/👻_the_postwar_ghost_in_british_identity.md)
       - [**📼_Politicians_Gone_Wild/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/)
         - [**🛶_Flag_It_Yourself/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/)
           - [**📍_Postcard_List/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/📍_Postcard_List/)
