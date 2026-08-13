@@ -1,5 +1,5 @@
 # ⚖️ Elbit Systems UK — Legal & Control Structure  
-**First created:** 2025-12-20 | **Last updated:** 2026-04-23  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *Formal ownership, control vectors, programme embedding, public pressure pathways, legal context, and limits of disclosure in the UK defence environment.*
 
 ---
@@ -371,4 +371,4 @@ elbit systems uk, defence structure, joint ventures, programme mapping, control 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-23_
+_Last updated: 2026-08-13_
