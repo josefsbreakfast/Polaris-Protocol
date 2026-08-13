@@ -1,5 +1,5 @@
 # 🐼 The Metropolitan Rabble  
-**First created:** 2025-12-22 | **Last updated:** 2026-05-08  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-13  
 *Why the Met looks less like a disciplined force and more like authority without internal coherence — and why that explains more than “corruption” ever did.*  
 
 ---
@@ -219,4 +219,4 @@ It contributes institutional analysis on why the Met’s behaviour is better exp
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
