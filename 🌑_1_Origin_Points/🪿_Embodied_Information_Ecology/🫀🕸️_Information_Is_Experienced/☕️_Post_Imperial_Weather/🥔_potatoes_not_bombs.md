@@ -1,5 +1,5 @@
 # 🥔 Potatoes Not Bombs  
-**First created:** 2026-05-29 | **Last updated:** 2026-05-29  
+**First created:** 2026-05-29 | **Last updated:** 2026-08-13  
 *An anti-war-consent node on material repair, classed sacrifice, bombardment inheritance, and why people with bombing memory may not be an easy audience for bombing campaigns.*
 
 ---
@@ -297,4 +297,4 @@ It maps the failure of bombing-consent narratives when addressed to communities 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-29_
+_Last updated: 2026-08-13_
