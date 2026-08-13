@@ -1,5 +1,5 @@
 # 🧬 Distributed Complicity In Modern Warfare  
-**First created:** 2025-12-20 | **Last updated:** 2026-05-08  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *How contemporary conflict fragments agency, redistributes responsibility, and creates custody gaps in ethical accountability.*
 
 ---
