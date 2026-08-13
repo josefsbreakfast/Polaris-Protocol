@@ -1,5 +1,5 @@
 # ☕️ Britain After Elizabeth  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *How the death of Elizabeth II marked not merely the loss of a monarch, but the weakening of a long-standing emotional infrastructure that helped stabilise British continuity, identity, and post-imperial self-perception.*  
 
 ---
@@ -315,4 +315,4 @@ It examines how the death of Elizabeth II marked the weakening of a major piece 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-13_
