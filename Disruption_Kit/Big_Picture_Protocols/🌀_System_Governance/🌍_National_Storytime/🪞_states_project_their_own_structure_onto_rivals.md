@@ -1,5 +1,5 @@
 # 🪞 States Project Their Own Structure Onto Rivals  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-18  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *How states repeatedly misinterpret rivals by unconsciously assuming that other political systems organise legitimacy, identity, hierarchy, and power in ways similar to themselves.*  
 
 ---
@@ -327,4 +327,4 @@ It examines how political systems repeatedly misinterpret rivals by unconsciousl
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-13_
