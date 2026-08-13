@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-13 16:41:31 UTC_
+_Generated on 2026-08-13 16:47:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -17,17 +17,9 @@ _Generated on 2026-08-13 16:41:31 UTC_
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
-      - [**☕️_Post_Imperial_Weather/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/)
-        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/notes.txt)
-        - [`🕯️_the_british_blind_spot.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🕯️_the_british_blind_spot.md)
-        - [`🗺️_the_last_generation_that_remembered_the_empire.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🗺️_the_last_generation_that_remembered_the_empire.md)
-        - [`🥔_potatoes_not_bombs.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🥔_potatoes_not_bombs.md)
-        - [`🩺_the_last_private_place_in_britain.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🩺_the_last_private_place_in_britain.md)
-        - [`🪞_the_monarchy_as_emotional_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/☕️_Post_Imperial_Weather/🪞_the_monarchy_as_emotional_infrastructure.md)
       - [**⚖️_Legal_State_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/README.md)
         - [`constitutional_fault_lines.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/constitutional_fault_lines.png)
-        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/notes.txt)
         - [`uk_debates_overlap.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/uk_debates_overlap.png)
         - [`uk_online_safety_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/uk_online_safety_timeline.png)
         - [`↙️↙️↙️_accidentally_unantifascist.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/↙️↙️↙️_accidentally_unantifascist.md)
@@ -4403,6 +4395,11 @@ _Generated on 2026-08-13 16:41:31 UTC_
         - [`📜_loss_management_performance_of_composure.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/📜_loss_management_performance_of_composure.md)
         - [`📺_beyond_regional_tv.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/📺_beyond_regional_tv.md)
         - [`🕯️_elizabeth_ii_and_the_last_sacred_queen.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/🕯️_elizabeth_ii_and_the_last_sacred_queen.md)
+        - [`🕯️_the_british_blind_spot.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/🕯️_the_british_blind_spot.md)
+        - [`🗺️_the_last_generation_that_remembered_the_empire.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/🗺️_the_last_generation_that_remembered_the_empire.md)
+        - [`🥔_potatoes_not_bombs.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/🥔_potatoes_not_bombs.md)
+        - [`🩺_the_last_private_place_in_britain.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/🩺_the_last_private_place_in_britain.md)
+        - [`🪞_the_monarchy_as_emotional_infrastructure.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/🪞_the_monarchy_as_emotional_infrastructure.md)
       - [**📼_Politicians_Gone_Wild/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/)
         - [**🛶_Flag_It_Yourself/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/)
           - [**📍_Postcard_List/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/📍_Postcard_List/)
