@@ -1,5 +1,5 @@
 # ⚖️ Risk Aversion Is Policy  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-13  
 *Why institutional “caution” is a value choice that actively shapes harm.*  
 
 ---
@@ -205,4 +205,4 @@ It documents how institutional caution functions as an unacknowledged governing 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
