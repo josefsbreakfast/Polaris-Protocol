@@ -1,5 +1,5 @@
 # 🌀 Rule of Law Failure Cascade  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-13  
 *How custody, opacity, and exceptionalism combine to erode legal accountability.*  
 
 ---
@@ -155,4 +155,4 @@ It provides a structural framework for understanding how lawful systems generate
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
