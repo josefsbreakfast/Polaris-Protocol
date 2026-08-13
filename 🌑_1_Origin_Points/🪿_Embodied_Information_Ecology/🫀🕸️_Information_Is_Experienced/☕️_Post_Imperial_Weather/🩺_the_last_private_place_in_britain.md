@@ -1,5 +1,5 @@
 # 🩺 The Last Private Place In Britain  
-**First created:** 2026-05-17 | **Last updated:** 2026-05-17  
+**First created:** 2026-05-17 | **Last updated:** 2026-08-13  
 *An examination of medical confidentiality, NHS data infrastructure, democratic legitimacy, and the collision between British privacy culture and modern governance systems.*  
 
 ---
