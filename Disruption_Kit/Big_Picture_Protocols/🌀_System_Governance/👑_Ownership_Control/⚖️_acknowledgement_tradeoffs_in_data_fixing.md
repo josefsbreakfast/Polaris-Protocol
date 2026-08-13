@@ -1,5 +1,5 @@
 # ⚖️ Acknowledgement Tradeoffs in Data Fixing  
-**First created:** 2025-11-12 | **Last updated:** 2026-05-08  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-13  
 *Why institutions repair systems without owning their history — and how custody avoidance reshapes accountability.*  
 
 ---
@@ -255,4 +255,4 @@ It examines how institutions balance operability against ownership — and how c
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
