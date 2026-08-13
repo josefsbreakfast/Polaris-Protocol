@@ -1,5 +1,5 @@
 # 🌳 The Lads Are Not Pro-Countryside  
-**First created:** 2026-01-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-01-08 | **Last updated:** 2026-08-13  
 *How fragmented ownership and governance vacuums turned rural Britain into grievance terrain — and why rhetoric cannot substitute for stewardship.*  
 
 ---
@@ -230,4 +230,4 @@ It is tighter governance.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
