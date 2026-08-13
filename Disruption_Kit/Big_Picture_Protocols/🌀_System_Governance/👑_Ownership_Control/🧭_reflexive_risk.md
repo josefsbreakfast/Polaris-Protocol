@@ -1,5 +1,5 @@
 # 🧭 Reflexive Risk  
-**First created:** 2025-10-20 | **Last updated:** 2026-05-08  
+**First created:** 2025-10-20 | **Last updated:** 2026-08-13  
 *When systems detect their own design flaws and treat introspection as destabilising.*
 
 ---
@@ -243,4 +243,4 @@ It maps the governance dynamics that can emerge when structural self-description
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
