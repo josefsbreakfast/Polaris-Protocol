@@ -1,5 +1,5 @@
 # 🧩 Distributed Executive Governance  
-**First created:** 2025-11-19 | **Last updated:** 2026-01-22  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-13  
 *Why power concentrated in one leader produces distortion, drift, and democratic instability — and how shared executive models offer structural resilience.*  
 
 ---
@@ -177,4 +177,4 @@ It maps how modern states can move from “monarch-in-disguise” executive mode
 > - [🔧 Democratic Resilience Architecture for 21st Century Britain](🦆_Digital_Disruption/🐝_All_In_Commons/🔧_democratic_resilience_architecture_for_21st_century_britain.md)
 > - [⚖️ Legal & State Governance - Return to README](./README.md)  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
