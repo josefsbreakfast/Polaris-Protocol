@@ -1,5 +1,5 @@
 # 🗺️ The Last Generation That Remembered the Empire  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *How generational transition transformed Britain from a state consciously managing imperial contraction into one increasingly inheriting empire atmospherically rather than directly remembering it.*  
 
 ---
@@ -171,4 +171,4 @@ It examines how Britain transitioned from direct imperial memory into inherited 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-13_
