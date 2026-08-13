@@ -1,5 +1,5 @@
 # 🪞 The Monarchy as Emotional Infrastructure  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *How modern monarchy often survives less as executive governance and more as a system of symbolic continuity, emotional reassurance, and national ritual.*  
 
 ---
@@ -331,4 +331,4 @@ It examines how modern monarchy frequently survives less through executive autho
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-13_
