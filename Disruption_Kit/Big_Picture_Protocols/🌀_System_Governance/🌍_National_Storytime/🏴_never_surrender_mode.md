@@ -1,6 +1,5 @@
-# 🏴 Never Surrender Mode
-
-**First created:** 2026-05-28 | **Last updated:** 2026-05-28
+# 🏴 Never Surrender Mode  
+**First created:** 2026-05-28 | **Last updated:** 2026-08-13  
 *How British wartime refusal activates when authority appears illegitimate, rescue is obstructed, or occupation is recognised.*
 
 ## 🛰️ Orientation
@@ -662,4 +661,4 @@ It maps how British wartime refusal activates when authority appears illegitimat
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-05-28*
+*Last updated: 2026-08-13*
