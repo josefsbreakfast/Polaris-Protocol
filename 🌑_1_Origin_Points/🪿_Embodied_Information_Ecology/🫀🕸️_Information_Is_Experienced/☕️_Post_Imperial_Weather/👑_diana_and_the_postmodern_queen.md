@@ -1,5 +1,5 @@
 # 👑 Diana and the Postmodern Queen  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-13  
 *How Diana transformed monarchy from distant sovereign theatre into emotionally intimate media symbolism, reshaping queenship for the postmodern age.*  
 
 ---
@@ -280,4 +280,4 @@ It examines how Diana transformed monarchy from distant sovereign theatre into e
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-13_
