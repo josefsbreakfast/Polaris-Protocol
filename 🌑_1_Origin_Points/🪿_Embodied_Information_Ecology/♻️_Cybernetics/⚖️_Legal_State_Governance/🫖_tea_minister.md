@@ -1,5 +1,5 @@
 # 🫖 Tea, Minister?
-**First created:** 2026-04-23 | **Last updated:** 2026-04-24  
+**First created:** 2026-04-23 | **Last updated:** 2026-08-13  
 *How civil service behaviour becomes culturally legible as “Britishness,” and how that surface style obscures the risk-managed logic underneath.*
 
 ---
@@ -257,4 +257,4 @@ It maps how civil service behaviour becomes culturally legible as “Britishness
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-13_
