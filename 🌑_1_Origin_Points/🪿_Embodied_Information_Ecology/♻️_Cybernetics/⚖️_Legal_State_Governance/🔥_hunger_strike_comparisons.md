@@ -1,5 +1,5 @@
 # 🔥 Hunger Strike Comparisons  
-**First created:** 2025-12-18 | **Last updated:** 2026-01-22  
+**First created:** 2025-12-18 | **Last updated:** 2026-08-13  
 *What hunger strikes across history reveal about democracy, coercion, and state tolerance of death.*  
 
 ---
@@ -82,4 +82,4 @@ It exists to make repetition visible before it becomes fatal.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
