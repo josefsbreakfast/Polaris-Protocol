@@ -1,5 +1,5 @@
 # 🌒 The No-Win Box  
-**First created:** 2025-11-16 | **Last updated:** 2026-05-08  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-13  
 *The structural constraint hostile actors can enter when a survivor becomes transparent, autonomous, and publicly witnessed.*  
 
 ---
@@ -208,4 +208,4 @@ It describes the structural constraints that can emerge when control-based dynam
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-13_
