@@ -1,5 +1,5 @@
 # 📜 How to Style Out a Crisis — Kipling for Modern Governance  
-**First created:** 2025-11-12 | **Last updated:** 2026-05-14  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-13  
 *A cultural-analysis node examining composure, resilience, and emotional governance through the lens of Rudyard Kipling’s* If—*.*  
 
 ---
@@ -146,4 +146,4 @@ It examines how emotional restraint, composure, and endurance became embedded wi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-13_
