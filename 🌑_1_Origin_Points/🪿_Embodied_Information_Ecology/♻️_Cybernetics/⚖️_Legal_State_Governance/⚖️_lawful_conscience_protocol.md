@@ -1,5 +1,5 @@
 # ⚖️ Lawful Conscience Protocol  
-**First created:** 2025-10-12 | **Last updated:** 2026-01-22  
+**First created:** 2025-10-12 | **Last updated:** 2026-08-13  
 *When secrecy becomes duress, conscience becomes jurisdiction.*  
 
 ---
@@ -88,4 +88,4 @@ it restores mutual respect to the marriage between Parliament and the Services.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-13_
