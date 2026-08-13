@@ -1,5 +1,5 @@
 # 🧠 Reputational Lock-In and British Institutions  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-18  
+**First created:** 2026-05-11 | **Last updated:** 2026-08-13  
 *Defensive containment, continuity anxiety, and the escalation dynamics of prestige systems.*  
 
 ---
@@ -397,4 +397,4 @@ It examines how prestige systems and continuity-oriented governance cultures bec
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-13_
