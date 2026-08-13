@@ -1,5 +1,5 @@
 # 🎭 Witch Girl vs Sensible Man Archetypes  
-**First created:** 2025-11-16 | **Last updated:** 2026-05-18  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-13  
 *A comparative archetype analysis of how articulate women become coded as destabilising while emotionally predictable men become coded as socially “safe” — and how these scripts shape family systems, institutions, and governance cultures.*  
 
 ---
@@ -418,4 +418,4 @@ It maps how gendered and class-coded archetypes shape perceptions of credibility
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-13_
