@@ -1,5 +1,5 @@
 # 🧩 Perpetrator Competence & System Harm  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-14  
 *Victims do not fail — perpetrators succeed.*  
 
 ---
@@ -85,4 +85,4 @@ It reframes coercion as an engineered practice, not a victim failure.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-14_
