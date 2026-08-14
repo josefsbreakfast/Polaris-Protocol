@@ -1,5 +1,5 @@
 # 🧊 The Freeze: Sector-Wide Silence Handling Pattern  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-13  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-14  
 *Why institutions go silent when too many actors become indirectly complicit.*  
 
 ---
@@ -81,4 +81,4 @@ It maps the systemic silence that emerges when too many actors have interacted w
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-08-14_
