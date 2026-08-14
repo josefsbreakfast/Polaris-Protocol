@@ -1,5 +1,5 @@
 # 🏛️ State Drift & Crisis Adoption  
-**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-26 | **Last updated:** 2026-08-14  
 *Why governments say "yes".*  
 
 ---
@@ -208,4 +208,4 @@ Yet the character of governance alters.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-08-14_
