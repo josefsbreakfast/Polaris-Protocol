@@ -1,5 +1,5 @@
 # 🧀 Swiss Cheese Multi-Agency Failure  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-21  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-14  
 *Applying the Swiss Cheese Model to safeguarding and multi-agency architectures.*  
 
 ---
@@ -63,4 +63,4 @@ It maps the layered failure modes of multi-agency safeguarding and Prevent-adjac
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-08-14_
