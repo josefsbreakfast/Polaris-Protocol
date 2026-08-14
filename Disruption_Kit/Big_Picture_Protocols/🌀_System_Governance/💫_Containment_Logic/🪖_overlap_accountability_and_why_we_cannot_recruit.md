@@ -1,5 +1,5 @@
 # 🪖 Overlap Accountability and Why We Cannot Recruit  
-**First created:** 2025-10-07 | **Last updated:** 2026-01-06  
+**First created:** 2025-10-07 | **Last updated:** 2026-08-14  
 *On structural accountability failures when UK and Israeli security systems interoperate.*  
 
 ---
@@ -219,5 +219,5 @@ It maps how British–Israeli security cooperation obscures accountability and p
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-14_
 
