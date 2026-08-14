@@ -1,5 +1,5 @@
 # 🛡️ Epistemic Exhaustion as an Attack Surface  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-14  
 *How population-level burnout collapses verification capacity and becomes a low-cost national security vulnerability.*  
 
 ---
@@ -170,4 +170,4 @@ It documents how population-level burnout undermines verification capacity and c
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-14_
