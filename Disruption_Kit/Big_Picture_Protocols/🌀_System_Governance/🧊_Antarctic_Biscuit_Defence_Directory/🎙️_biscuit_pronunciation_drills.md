@@ -1,5 +1,5 @@
 # 🎙️ Biscuit Pronunciation Drills  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *Official ABDD multilingual readiness exercise for agents operating across high-risk international biscuit environments and diplomatically unstable teatime zones.*  
 
 ---
@@ -271,4 +271,4 @@ It contributes to the archive by documenting the ABDD’s deeply serious approac
 
 *Global peace depends heavily on whether the operatives accidentally request cake instead of biscuits.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
