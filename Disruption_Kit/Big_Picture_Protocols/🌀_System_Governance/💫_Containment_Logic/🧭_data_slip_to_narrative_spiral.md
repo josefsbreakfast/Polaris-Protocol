@@ -1,5 +1,5 @@
 # 🧭 Data Slip → Narrative Spiral  
-**First created:** 2025-12-02 | **Last updated:** 2026-01-06  
+**First created:** 2025-12-02 | **Last updated:** 2026-08-14  
 *A concise, reader-facing case study of a clerical error, its political
 inflation, and the genocide‑prevention duties obscured in public
 debate.*
@@ -236,4 +236,4 @@ symbolic geopolitics and genocide‑prevention duties.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-14_
