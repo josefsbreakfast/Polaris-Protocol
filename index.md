@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-14 20:35:19 UTC_
+_Generated on 2026-08-14 20:38:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -117,9 +117,6 @@ _Generated on 2026-08-14 20:35:19 UTC_
         - [`🧿_unit_8200_is_not_hiding_what_it_is.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧿_unit_8200_is_not_hiding_what_it_is.md)
         - [`🩺_fixing_the_nhs_frankenstack.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🩺_fixing_the_nhs_frankenstack.md)
       - [**🧠_Apparatchik_Philosophy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/)
-        - [`🌫️_saint_petersburg_is_not_london.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🌫️_saint_petersburg_is_not_london.md)
-        - [`🏗️_skyscraper_over_pebbles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🏗️_skyscraper_over_pebbles.md)
-        - [`🏛️_olympus_syndrome.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🏛️_olympus_syndrome.md)
         - [`🏛️_why_london_is_moscow.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🏛️_why_london_is_moscow.md)
         - [`🐐_old_school_scapegoating.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🐐_old_school_scapegoating.md)
         - [`🗂️_when_the_system_realises_it_fucked_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🗂️_when_the_system_realises_it_fucked_up.md)
@@ -3748,6 +3745,9 @@ _Generated on 2026-08-14 20:35:19 UTC_
       - [**🧠_Apparatchik_Philosophy/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/README.md)
         - [`🌍_states_are_never_homogeneous.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🌍_states_are_never_homogeneous.md)
+        - [`🌫️_saint_petersburg_is_not_london.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🌫️_saint_petersburg_is_not_london.md)
+        - [`🏗️_skyscraper_over_pebbles.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🏗️_skyscraper_over_pebbles.md)
+        - [`🏛️_olympus_syndrome.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🏛️_olympus_syndrome.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
     - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
