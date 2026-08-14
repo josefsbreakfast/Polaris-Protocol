@@ -1,5 +1,5 @@
 # 🧩 Diaspora Instability Patterns  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-14  
 *Why diaspora-coded users consistently break behavioural models, risk engines, PR simulations, demographic segmentation, and synthetic personas — and why this is a failure of the system, not the diaspora.*  
 
 ---
