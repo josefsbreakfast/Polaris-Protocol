@@ -1,5 +1,5 @@
 # 🪞 Misunderstanding as Risk Signal — How Surveillance Turns Bias into Evidence  
-**First created:** 2025-10-30 | **Last updated:** 2026-05-13  
+**First created:** 2025-10-30 | **Last updated:** 2026-08-14  
 *When confusion becomes a data point.*  
 
 ---
@@ -87,4 +87,4 @@ It documents how confusion becomes codified as risk and why reflective systems m
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-08-14_
