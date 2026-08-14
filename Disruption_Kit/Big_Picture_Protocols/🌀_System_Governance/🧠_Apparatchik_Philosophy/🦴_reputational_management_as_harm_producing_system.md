@@ -1,5 +1,5 @@
 # 🦴 Reputational Management as a Harm-Producing System  
-**First created:** 2025-12-14 | **Last updated:** 2026-05-11  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-14  
 *How reputation-first governance produces secondary harm through process, not intent.*
 
 ---
@@ -145,4 +145,4 @@ It documents how reputation-first governance structures can generate harm throug
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
