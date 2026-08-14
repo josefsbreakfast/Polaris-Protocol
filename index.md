@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-14 21:47:15 UTC_
+_Generated on 2026-08-14 21:50:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -17,13 +17,6 @@ _Generated on 2026-08-14 21:47:15 UTC_
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
-      - [**📚_Narrative_Management/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/)
-        - [`🧬_narrative_as_state_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧬_narrative_as_state_infrastructure.md)
-        - [`🧭_political_mapping_the_two_axis_model.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧭_political_mapping_the_two_axis_model.md)
-        - [`🧯_reputational_management_as_governance_signal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🧯_reputational_management_as_governance_signal.md)
-        - [`🩸_operation_shande.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🩸_operation_shande.md)
-        - [`🫁_oxygen_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🫁_oxygen_and_oversight.md)
-        - [`🫖_velvet_containment_machine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🫖_velvet_containment_machine.md)
       - [**🛰️_Infrastructure_Procurement/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/README.md)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
@@ -4133,6 +4126,12 @@ _Generated on 2026-08-14 21:47:15 UTC_
         - [`🧠_the_men_are_arguing_about_the_state.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📚_Narrative_Management/🧠_the_men_are_arguing_about_the_state.md)
         - [`🧩_accountability_failures_and_public_trust.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📚_Narrative_Management/🧩_accountability_failures_and_public_trust.md)
         - [`🧩_myth_vs_mechanism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📚_Narrative_Management/🧩_myth_vs_mechanism.md)
+        - [`🧬_narrative_as_state_infrastructure.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📚_Narrative_Management/🧬_narrative_as_state_infrastructure.md)
+        - [`🧭_political_mapping_the_two_axis_model.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📚_Narrative_Management/🧭_political_mapping_the_two_axis_model.md)
+        - [`🧯_reputational_management_as_governance_signal.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📚_Narrative_Management/🧯_reputational_management_as_governance_signal.md)
+        - [`🩸_operation_shande.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📚_Narrative_Management/🩸_operation_shande.md)
+        - [`🫁_oxygen_and_oversight.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📚_Narrative_Management/🫁_oxygen_and_oversight.md)
+        - [`🫖_velvet_containment_machine.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📚_Narrative_Management/🫖_velvet_containment_machine.md)
       - [**📺_Money_Talks_Media/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📺_Money_Talks_Media/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📺_Money_Talks_Media/README.md)
         - [`⚔️_war_on_woke_as_containment_architecture.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📺_Money_Talks_Media/⚔️_war_on_woke_as_containment_architecture.md)
