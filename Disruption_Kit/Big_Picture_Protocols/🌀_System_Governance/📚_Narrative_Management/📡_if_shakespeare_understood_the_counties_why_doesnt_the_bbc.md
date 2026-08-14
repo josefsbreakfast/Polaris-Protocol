@@ -1,5 +1,5 @@
 # 📡 If Shakespeare Understood the Counties, Why Doesn't the BBC?  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-14  
 *How modern British media often flattens regional political identity more aggressively than Shakespearean drama did four hundred years ago.*  
 
 ---
@@ -283,4 +283,4 @@ It examines how modern British media systems often flatten regional political id
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-14_
