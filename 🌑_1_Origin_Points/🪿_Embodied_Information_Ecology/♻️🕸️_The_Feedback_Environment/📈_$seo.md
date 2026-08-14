@@ -1,7 +1,3 @@
-<!-- Look at 24hr $YETI. I’m howling. 
-
-I bet I can guess, and narrow it to /which/ bank.-->
-
 # 📈 \$SEO
 
 **First created:** 2026-08-14 \| **Last updated:** 2026-08-14\
@@ -721,6 +717,194 @@ The defender should ask:
 That question applies to banks, but also to exchanges, payment processors, data vendors, identity providers, major platforms, clearing infrastructure, index providers and other shared dependencies.
 
 It is the same spongy-bone problem at a different scale: find the load path before deciding who applied the force.
+
+---
+
+
+## 🧬 Semantic Lineage, Entity Resolution And Self-Reinforcing Error
+
+A highly connected automated system cannot be governed responsibly if it cannot reconstruct what object it thought it was acting on.
+
+This becomes especially important where the same token, name or phrase can refer to multiple unrelated things:
+
+- a person;
+- a cultural or literary reference;
+- a product;
+- a project;
+- an internal label;
+- a vendor-supplied entity;
+- a machine-derived association.
+
+The institution therefore needs to distinguish **shared language** from **shared identity**.
+
+A bank or other high-connectivity actor should be able to answer:
+
+- What exact object was classified?
+- How was its identity resolved?
+- Which source supplied the classification?
+- What evidence or features generated it?
+- Which model, vendor, product or rule transformed it?
+- Which downstream systems consumed the result?
+- What actions were triggered?
+- Which external systems could observe those actions?
+- What correction mechanism exists if the original association was wrong?
+
+This is not merely an explainability question.
+
+It is a **lineage and propagation** question.
+
+> **Show me the input object. Then show me how its identity was resolved. Then show me every downstream system that inherited it.**
+
+---
+
+## 🕸️ When Automation Amplifies A Small Semantic Error
+
+In a highly connected institution, a very small upstream error can produce a very large downstream footprint.
+
+A simplified failure chain is:
+
+**weak semantic association**  
+→ machine-readable classification  
+→ risk flag  
+→ automated policy response  
+→ downstream institutional effects  
+→ external observation of those effects  
+→ new machine-readable evidence  
+→ stronger apparent confidence in the original classification
+
+The danger is not only that the original association was wrong.
+
+The danger is that the system can begin **manufacturing corroboration from the consequences of its own earlier decision**.
+
+For example:
+
+**weak signal**  
+→ Bank A reacts  
+→ other systems observe Bank A's reaction  
+→ those reactions become secondary signals  
+→ Bank A later observes broader concern  
+→ the original weak signal now appears independently reinforced
+
+No later participant needs to fabricate anything.
+
+Each system may be responding legitimately to the evidence available to it.
+
+The feedback failure arises because the evidence is not independent.
+
+> **The system can manufacture confidence in its own mistake.**
+
+This is a provenance problem, a model-governance problem and a cybernetic feedback problem at the same time.
+
+---
+
+## 🔬 Amplification Increases The Governance Obligation
+
+Automation is not a defence against responsibility.
+
+If an architecture can turn one upstream classification into thousands of downstream consequences, then the capacity for amplification creates a stronger obligation to maintain:
+
+- provenance;
+- entity resolution;
+- data lineage;
+- model lineage;
+- explainability;
+- propagation monitoring;
+- auditability;
+- correction;
+- rollback;
+- notification where appropriate.
+
+The relevant principle is:
+
+> **The greater the amplification available to an automated control system, the stronger its obligations for provenance, entity resolution, lineage, observability and correction.**
+
+A system that produces small local effects can sometimes tolerate rougher classification.
+
+A system whose outputs propagate through banking, payments, trading, compliance, credit, identity or other connected infrastructures cannot.
+
+The scale of possible downstream consequence changes the standard of governance required upstream.
+
+---
+
+## 🧿 “Automation Did It” Is Not An Adequate Endpoint
+
+There is an important temporal distinction.
+
+At the beginning of a process, an automated response may be entirely ordinary:
+
+**input changes → threshold crossed → control fires**
+
+But if the outputs become sufficiently large, persistent, distributed or anomalous, continued reliance on:
+
+> **the system did it automatically**
+
+is no longer an adequate institutional explanation.
+
+At that point the governance question becomes:
+
+> **What product, model, feed, classifier or dependency are we actually tied to?**
+
+A competent operator should be able to trace the control chain back to its originating object and understand why the system believed the response was justified.
+
+This matters because the institution may otherwise be operating on an association whose meaning changed somewhere upstream, or whose identity was never resolved correctly in the first place.
+
+---
+
+## 🧭 Product Coupling And Hidden Dependencies
+
+The relevant risk may not originate inside the institution itself.
+
+A bank may consume:
+
+- third-party risk feeds;
+- identity-resolution products;
+- sanctions or compliance data;
+- fraud scores;
+- reputational-risk products;
+- adverse-media services;
+- cyber-threat intelligence;
+- external model outputs;
+- market-data services;
+- shared vendor infrastructure.
+
+A downstream institution can therefore inherit the assumptions, errors, naming collisions and classification logic of a product it did not build.
+
+That creates a critical governance question:
+
+> **What external product has entered our control loop, and what does it think the object is?**
+
+Understanding that dependency is necessary before interpreting the resulting behaviour as policy, judgement or intent.
+
+A product can become operationally consequential long before senior decision-makers understand its semantic assumptions.
+
+---
+
+## 🛠️ Audit Questions For High-Amplification Systems
+
+When an automated classification appears capable of producing broad downstream effects, ask:
+
+1. **What was the originating object?**
+2. **How was that object's identity resolved?**
+3. **Was the classification about the object itself, or about a shared token or association?**
+4. **Which product, model, vendor or feed introduced the relationship?**
+5. **What confidence or threshold was attached to it?**
+6. **Which controls inherited it automatically?**
+7. **Which actions were directly triggered by the classification?**
+8. **Which later signals may merely reflect those earlier actions?**
+9. **Are apparently independent corroborating signals actually downstream consequences of the same source?**
+10. **Can the institution roll back the classification and identify every system that consumed it?**
+11. **What audit trail shows when humans first became aware of the scale or anomaly?**
+12. **At what point did continued automation require active review?**
+
+The purpose is to distinguish:
+
+**independent corroboration**
+
+from:
+
+**feedback-generated corroboration**.
+
+That distinction can determine whether a risk system is detecting reality or recursively observing itself.
 
 ---
 
