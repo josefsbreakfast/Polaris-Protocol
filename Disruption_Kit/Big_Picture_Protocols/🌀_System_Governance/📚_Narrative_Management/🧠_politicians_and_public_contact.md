@@ -1,5 +1,5 @@
 # 🧠 Politicians and Public Contact  
-**First created:** 2025-11-12 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-14  
 *Examining the broken transmission between electorate and elected.*  
 
 ---
@@ -450,4 +450,4 @@ It maps how democratic systems increasingly replace reciprocal civic contact wit
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
