@@ -1,5 +1,5 @@
 # 🚫 When No One Steps In: Institutional Silence as a Warning Signal  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-17 | **Last updated:** 2026-08-14  
 *Why the absence of intervention, correction, or safeguarding by institutions is one of the clearest early warnings of democratic drift and bureaucratic breakdown.*  
 
 ---
@@ -192,4 +192,4 @@ Crosslinks:
 - 🗂️ *when_institutions_start_treating_you_as_a_category_not_a_person*  
 - 🧭 *how_authoritarian_drift_feels_from_the_inside*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-14_
