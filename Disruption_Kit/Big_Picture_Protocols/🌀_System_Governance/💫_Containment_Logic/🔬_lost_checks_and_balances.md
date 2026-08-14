@@ -1,5 +1,5 @@
 # 🔬 Lost Checks and Balances  
-**First created:** 2025-09-20 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-20 | **Last updated:** 2026-08-14  
 *How dissenting individuals were nudged away from panels and committees during the early behavioural insights rollout (2012–2016), reducing scrutiny and distorting the public record.*  
 
 ---
@@ -72,4 +72,4 @@ It documents how the absence of dissent in 2012–2016 weakened scrutiny and dis
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-14_
