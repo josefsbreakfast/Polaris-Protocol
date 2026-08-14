@@ -1,5 +1,5 @@
 # 🍪 CookieLeaks 002  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *An unofficial continuation of the CookieLeaks archive documenting operational failures, bureaucratic reframing, and the increasingly unstable ecology of ABDD containment systems.*  
 
 ---
@@ -161,4 +161,4 @@ It contributes to the archive by documenting the ongoing collapse of ABDD operat
 
 *The difference between a scandal and an operational exercise is often determined entirely by who controls the paperwork.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
