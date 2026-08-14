@@ -1,5 +1,5 @@
 # 🪖 SAS & Special Forces — Accountability and Complaints  
-**First created:** 2025-10-07 | **Last updated:** 2026-01-06  
+**First created:** 2025-10-07 | **Last updated:** 2026-08-14  
 *A Polaris node explaining who the UK’s special forces are, how they differ from police or private security, the legal framework for domestic deployment (MACA), and how civilians can seek accountability or file complaints.*  
 
 ---
@@ -127,4 +127,4 @@ This node summarises lawful domestic use of the armed forces and practical avenu
 
 *Survivor authorship is sovereign — containment is never neutral.*  
 
-_Last updated 2026-01-06_
+_Last updated 2026-08-14_
