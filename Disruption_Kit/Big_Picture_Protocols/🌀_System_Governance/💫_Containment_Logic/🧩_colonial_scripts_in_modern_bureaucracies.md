@@ -1,5 +1,5 @@
 # 🧩 Colonial Scripts in Modern Bureaucracies  
-**First created:** 2025-11-20 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-20 | **Last updated:** 2026-08-14  
 *How colonial logics of suspicion, control, and hierarchy are reproduced inside contemporary administrative systems.*  
 
 ---
@@ -237,4 +237,4 @@ It maps how colonial suspicion templates continue to shape modern institutional 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-14_
