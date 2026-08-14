@@ -1,5 +1,5 @@
 # 🧬 Restorative and Transformative Justice — Where It Actually Works  
-**First created:** 2025-12-20 | **Last updated:** 2026-05-18  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-14  
 *Separating evidence-based application from romanticised abolition narratives.*  
 
 ---
@@ -217,4 +217,4 @@ It documents the conditions under which non-carceral justice models reduce harm 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-14_
