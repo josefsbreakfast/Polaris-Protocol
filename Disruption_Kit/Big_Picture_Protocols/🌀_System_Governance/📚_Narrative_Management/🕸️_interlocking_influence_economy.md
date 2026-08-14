@@ -1,5 +1,5 @@
 # 🕸️ Interlocking Influence Economy  
-**First created:** 2025-11-03 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-03 | **Last updated:** 2026-08-14  
 *How corporate intelligence, strategic communications, behavioural analytics, lobbying, and security industries increasingly overlap within a shared market for influence and reputational management.*
 
 ---
@@ -204,4 +204,4 @@ It examines how strategic communications, behavioural analytics, lobbying, surve
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
