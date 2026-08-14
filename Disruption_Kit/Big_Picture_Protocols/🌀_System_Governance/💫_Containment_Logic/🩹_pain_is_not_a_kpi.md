@@ -1,5 +1,5 @@
 # 🩹 Pain Is Not a KPI  
-**First created:** 2025-11-10 | **Last updated:** 2026-01-06  
+**First created:** 2025-11-10 | **Last updated:** 2026-08-14  
 *Why unmeasured pain attracts technology instead of staffing.*  
 
 ---
@@ -183,4 +183,4 @@ It maps how unmeasured suffering becomes a target for technological “solutions
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-14_
