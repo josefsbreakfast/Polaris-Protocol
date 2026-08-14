@@ -1,5 +1,5 @@
 # 🧩 Institutional Defence Playbook — Data Exhaust  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-14  
 *How institutions predictably respond when challenged about data exhaust, identifiability, and harm.*
 
 ---
@@ -221,4 +221,4 @@ It catalogues the predictable strategies institutions deploy when challenged abo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-14_
