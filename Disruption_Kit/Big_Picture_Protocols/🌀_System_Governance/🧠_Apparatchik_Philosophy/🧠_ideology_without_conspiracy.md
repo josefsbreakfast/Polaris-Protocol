@@ -1,5 +1,5 @@
 # 🧠 Ideology Without Conspiracy  
-**First created:** 2025-12-26 | **Last updated:** 2026-05-13  
+**First created:** 2025-12-26 | **Last updated:** 2026-08-14  
 *How large-scale alignment happens without coordination, intent, or secret planning.*  
 
 ---
@@ -216,4 +216,4 @@ It provides a structural account of how power consolidates through alignment rat
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-08-14_
