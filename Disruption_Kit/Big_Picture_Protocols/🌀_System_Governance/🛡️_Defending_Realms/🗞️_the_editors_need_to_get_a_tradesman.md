@@ -1,5 +1,5 @@
 # 🗞️ The Editors Need To Get A Tradesman  
-**First created:** 2026-05-28 | **Last updated:** 2026-05-28  
+**First created:** 2026-05-28 | **Last updated:** 2026-08-14  
 *How tabloid outrage collapses when readers know what joists, wiring, listed buildings, Army memory, and old-house invoices actually mean.*
 
 ---
@@ -1460,4 +1460,4 @@ It documents a media-pattern failure in which practical infrastructure costs are
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-28_
+_Last updated: 2026-08-14_
