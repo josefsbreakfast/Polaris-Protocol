@@ -1,5 +1,5 @@
 # 🦩 From Disability to Trans Panic: The Reusable Script  
-**First created:** 2025-12-16 | **Last updated:** 2026-05-11  
+**First created:** 2025-12-16 | **Last updated:** 2026-08-14  
 *How moral panic is recycled across marginalised groups — and why the script stays recognisably similar even when the target changes.*
 
 ---
@@ -259,4 +259,4 @@ It documents how similar narrative machinery is repeatedly redeployed across dif
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
