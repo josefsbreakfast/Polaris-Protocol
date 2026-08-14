@@ -205,3 +205,37 @@ sources:
 
 - https://www.tenable.com/blog/coordinated-cyberattack-on-minnesota-water-utilities-what-you-need-to-know
 - https://apnews.com/article/cyberattack-minnesota-water-systems-77d52a1d7356e608500a1ddb0ec373a6
+
+nb:  
+
+in context that it was leaked that Iran used a psychological opinion for diplomatic negotiations a while back - deliberately backing into a rhetorical corner may be purposeful:  
+
+Yes — that materially changes how I’d read the rhetoric, with an important evidentiary caveat.
+
+I think the thing you remember is the June reporting from Jeremy Scahill. He said Iranian sources told him that Iran had added senior psychologists to its negotiating team, had them develop a psychological profile of Trump, and was running communications intended for him through those advisers. The sources also claimed that tailoring the communications had begun producing progress. That account is reported from unidentified Iranian sources, not independently confirmed Iranian-government documentation, so I would label the underlying fact something like 🟡 credible report / not independently verified.  
+
+There is useful corroborating context for the broader behaviour, though. Before Scahill’s disclosure, analysts were already observing that Abbas Araghchi was deliberately mirroring Trump’s rhetorical style, while reporting indicated that Iran’s Foreign Ministry had established a working group on a possible second Trump presidency as early as March 2024. In other words, systematic study and adaptation to Trump’s negotiating behaviour does not depend entirely on believing the psychologist story.  
+
+And that makes your “rhetorical corner” hypothesis worth keeping live.
+
+The important distinction would be:
+
+ordinary escalation: Iran says increasingly maximalist things because positions are hardening;
+
+versus
+
+negotiating architecture: Iran deliberately makes the publicly available choice-set narrower, so that the eventual counterparty is offered a small number of exits—ideally one that can still be presented domestically as their victory.
+
+That second interpretation fits particularly well with another detail in Scahill’s account. He reported that Iranian negotiators understood that Trump needed a victory narrative, and therefore considered language explicitly restating Iran’s existing position against acquiring a nuclear weapon something Trump could portray as a concession.  
+
+So I would be careful about interpreting every apparently self-defeating Iranian statement during this phase as accidental diplomatic inflexibility.
+
+There is a potentially quite sophisticated move available:
+
+Iran publicly removes A, B and C → Washington is pushed toward D → D was already tolerable to Iran → the American president can describe D as something he forced Iran to accept.
+
+That doesn’t mean that’s what is happening now. We’d need contemporaneous evidence about which positions Iran is foreclosing and whether the remaining exits correspond to things it previously signalled privately that it could tolerate. But the prior reporting means deliberate rhetorical constraint belongs among the competing explanations, rather than treating “they’ve talked themselves into a corner” as the default.
+
+And it has a rather interesting implication for the cyber/infrastructure cluster too: publicly bellicose infrastructure rhetoric and privately calibrated bargaining are not mutually exclusive. Threatening an expanding menu of consequences can increase the perceived cost of continued conflict while carefully preserving one negotiable exit. If Iran has actually institutionalised behavioural tailoring of diplomatic communications, we should probably watch not just how extreme the rhetoric becomes, but which exits it conspicuously leaves open.
+
+That may be the more informative variable.
