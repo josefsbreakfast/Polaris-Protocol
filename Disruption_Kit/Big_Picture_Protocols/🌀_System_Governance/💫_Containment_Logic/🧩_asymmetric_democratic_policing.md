@@ -1,5 +1,5 @@
 # 🧩 Asymmetric Democratic Policing  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-14  
 *Why the state “over-polices” some groups and “under-polices” others — and how these asymmetries destabilise democratic legitimacy and accelerate drift.*  
 
 ---
@@ -217,4 +217,4 @@ Crosslinks:
 - 🧷 *culture_war_risk_logic_in_uk_public_institutions*  
 - 📡 *cross-system_metadata_echo_chains*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-14_
