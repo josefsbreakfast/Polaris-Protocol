@@ -1,5 +1,5 @@
 # 📚 Meta-Silence and the Optimisation of Ignorance  
-**First created:** 2025-11-05 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-05 | **Last updated:** 2026-08-14  
 *How the reward systems of research and data teach machines—and people—to look away.*  
 
 ---
@@ -114,4 +114,4 @@ It documents how silence itself becomes an optimised behaviour in knowledge syst
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated:2025-12-10_
+_Last updated: 2026-08-14_
