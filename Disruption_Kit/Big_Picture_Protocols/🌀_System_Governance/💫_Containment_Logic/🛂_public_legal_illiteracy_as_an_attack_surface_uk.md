@@ -1,5 +1,5 @@
 # 🛂 Public Legal Illiteracy as an Attack Surface (UK)  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-14  
 *How confusion about law, rights, and governance becomes a vector for manipulation.*
 
 ---
@@ -144,4 +144,4 @@ It documents how confusion about law and rights is repeatedly exploited — and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-14_
