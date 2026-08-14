@@ -1,5 +1,5 @@
 # 🔺 The Alignment Triangle  
-**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-26 | **Last updated:** 2026-08-14  
 *How power consolidates without conspiracy*
 
 ---
@@ -294,4 +294,4 @@ It documents a recurring structural pattern explaining how high-risk systems emb
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-08-14_
