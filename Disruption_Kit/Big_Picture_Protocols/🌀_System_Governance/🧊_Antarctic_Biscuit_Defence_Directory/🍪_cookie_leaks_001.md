@@ -1,5 +1,5 @@
 # 🍪 CookieLeaks 001  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *Because some crumbs refuse to stay swept.*  
 
 ---
@@ -154,4 +154,4 @@ It contributes to the archive by documenting the operational incidents too embar
 
 *Every classified system eventually develops an unofficial archive maintained entirely by exhausted staff and poor impulse control.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
