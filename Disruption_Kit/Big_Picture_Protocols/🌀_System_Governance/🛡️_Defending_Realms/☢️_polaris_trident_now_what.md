@@ -1,5 +1,5 @@
 # ☢️ Polaris, Trident… Now What?  
-**First created:** 2026-05-17 | **Last updated:** 2026-05-17  
+**First created:** 2026-05-17 | **Last updated:** 2026-08-14  
 
 *An examination of British nuclear governance, sovereign legitimacy, regulatory bundling, democratic opacity, privatisation strain, and the unequal distribution of strategic risk within modern state systems.*  
 
