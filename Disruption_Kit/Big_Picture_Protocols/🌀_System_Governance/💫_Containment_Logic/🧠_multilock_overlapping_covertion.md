@@ -1,5 +1,5 @@
 # 🧠 Multi-Lock Hypothetical — When Overlapping Safeguards Become Covert Systems  
-**First created:** 2025-10-13 | **Last updated:** 2025-12-13  
+**First created:** 2025-10-13 | **Last updated:** 2026-08-14  
 *A theoretical stress-test of UK oversight architecture; not an allegation of real conduct.*  
 
 ---
@@ -65,4 +65,4 @@ It is **not a claim that such a program exists**; it is a stress-test for accoun
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-08-14_
