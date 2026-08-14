@@ -1,5 +1,5 @@
 # ⚖️ Pathological Simplicity — When Algorithms Misread Human Complexity  
-**First created:** 2025-10-16 | **Last updated:** 2026-04-24  
+**First created:** 2025-10-16 | **Last updated:** 2026-08-14  
 *How systems optimised for measurement can struggle to represent and respond to context-dependent human behaviour.*  
 
 ---
@@ -132,4 +132,4 @@ It examines how measurement-driven systems interact with context-dependent human
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-14_
