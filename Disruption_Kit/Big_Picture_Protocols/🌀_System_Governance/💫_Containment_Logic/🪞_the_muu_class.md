@@ -1,5 +1,5 @@
 # 🪞 The MUU Class — When Systems Confuse Intelligence with Threat  
-**First created:** 2025-10-30 | **Last updated:** 2026-01-06  
+**First created:** 2025-10-30 | **Last updated:** 2026-08-14  
 *“Miscellaneous / Unusual / Unclassified”: where cleverness goes to die.*  
 
 ---
@@ -83,4 +83,4 @@ It documents how institutional ignorance is recast as vigilance and how differen
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-14_
