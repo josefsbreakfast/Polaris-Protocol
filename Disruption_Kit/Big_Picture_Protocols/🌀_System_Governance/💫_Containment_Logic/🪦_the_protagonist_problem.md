@@ -1,5 +1,5 @@
 # 🪦 The Protagonist Problem: Why Billionaires Cannot See Systems  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-06  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-14  
 *How narrative self-exceptionalism collapses systems thinking — and why power concentrated in protagonists produces governance failure.*  
 
 ---
@@ -194,4 +194,4 @@ It documents how narrative self-exceptionalism undermines systems awareness, pro
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-14_
