@@ -1,5 +1,5 @@
 # 🍪 Biscuit Translation Table + Field Pronunciation Guide  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *A multilingual operational reference guide documenting biscuit terminology, pronunciation drift, and cross-cultural snack confusion for Antarctic Biscuit Defence Directorate personnel operating in high-risk teatime environments.*  
 
 ---
@@ -183,4 +183,4 @@ It contributes to the archive by documenting the catastrophic diplomatic potenti
 
 *International peace remains theoretically achievable provided nobody mistranslates “biscuit” during negotiations.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
