@@ -1,5 +1,5 @@
 # ⏳ Hinge Point: When Delay Becomes Liability  
-**First created:** 2025-12-14 | **Last updated:** 2026-05-12  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-14  
 *The moment institutional avoidance flips into procedural exposure.*  
 
 ---
@@ -314,4 +314,4 @@ It documents the predictable moment where postponement ceases to protect institu
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-12_  
+_Last updated: 2026-08-14_  
