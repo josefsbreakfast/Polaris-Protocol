@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-14 20:50:03 UTC_
+_Generated on 2026-08-14 20:55:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -116,13 +116,6 @@ _Generated on 2026-08-14 20:50:03 UTC_
         - [`🧲_what_bcg_takes_from_the_uk_and_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧲_what_bcg_takes_from_the_uk_and_palestine.md)
         - [`🧿_unit_8200_is_not_hiding_what_it_is.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧿_unit_8200_is_not_hiding_what_it_is.md)
         - [`🩺_fixing_the_nhs_frankenstack.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🩺_fixing_the_nhs_frankenstack.md)
-      - [**🧠_Apparatchik_Philosophy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/)
-        - [`🪞_asymmetrical_recognition_as_achilles_heel.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🪞_asymmetrical_recognition_as_achilles_heel.md)
-        - [`🪞_britain_misunderstands_russia_because_britain_misunderstands_itself.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🪞_britain_misunderstands_russia_because_britain_misunderstands_itself.md)
-        - [`🪞_cross_context_verification_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🪞_cross_context_verification_failure.md)
-        - [`🪞_misunderstanding_as_risk_signal.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🪞_misunderstanding_as_risk_signal.md)
-        - [`🪞_the_emperors_dashboard.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🪞_the_emperors_dashboard.md)
-        - [`🪞_the_i_got_got_moment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🪞_the_i_got_got_moment.md)
       - [**🧪_Development_Experimentation/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/README.md)
         - [`frankenstack_bad_sandwich_black.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/frankenstack_bad_sandwich_black.png)
@@ -3748,6 +3741,12 @@ _Generated on 2026-08-14 20:50:03 UTC_
         - [`🧠_the_men_had_a_plan.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🧠_the_men_had_a_plan.md)
         - [`🧠_the_ministry_of_overconfident_misreadings.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🧠_the_ministry_of_overconfident_misreadings.md)
         - [`🪖_why_intelligence_agencies_dont_understand_joy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🪖_why_intelligence_agencies_dont_understand_joy.md)
+        - [`🪞_asymmetrical_recognition_as_achilles_heel.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🪞_asymmetrical_recognition_as_achilles_heel.md)
+        - [`🪞_britain_misunderstands_russia_because_britain_misunderstands_itself.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🪞_britain_misunderstands_russia_because_britain_misunderstands_itself.md)
+        - [`🪞_cross_context_verification_failure.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🪞_cross_context_verification_failure.md)
+        - [`🪞_misunderstanding_as_risk_signal.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🪞_misunderstanding_as_risk_signal.md)
+        - [`🪞_the_emperors_dashboard.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🪞_the_emperors_dashboard.md)
+        - [`🪞_the_i_got_got_moment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🪞_the_i_got_got_moment.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
     - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
