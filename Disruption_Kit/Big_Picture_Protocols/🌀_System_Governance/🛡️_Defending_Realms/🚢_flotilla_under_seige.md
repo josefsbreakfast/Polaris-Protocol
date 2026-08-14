@@ -1,5 +1,5 @@
 # 🚢 Flotilla Under Siege  
-**First created:** 2026-05-20 | **Last updated:** 2026-05-24  
+**First created:** 2026-05-20 | **Last updated:** 2026-08-14  
 *How Israel’s expanding maritime interception posture in the Mediterranean reflects the long-term maintenance logic of the Gaza siege regime, the erosion of humanitarian legitimacy, and the growing collision between blockade doctrine, genocide-prevention obligations, alliance cohesion, and the survivability of the post-war international order.*
 
 ---
@@ -799,4 +799,4 @@ It examines how prolonged blockade maintenance, maritime interception doctrine, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-24_
+_Last updated: 2026-08-14_
