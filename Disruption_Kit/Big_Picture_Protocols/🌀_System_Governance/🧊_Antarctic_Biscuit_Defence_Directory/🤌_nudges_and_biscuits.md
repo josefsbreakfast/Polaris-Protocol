@@ -1,5 +1,5 @@
 # 🤌 Nudges and Biscuits  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *When surveillance fails, behavioural economics arrives carrying a clipboard, a wellness app, and deeply patronising biscuit notifications.*  
 
 ---
@@ -230,4 +230,4 @@ It contributes to the archive by satirising behavioural governance systems, soft
 
 *Every “gentle behavioural nudge” eventually becomes a man with a clipboard repositioning your biscuits.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
