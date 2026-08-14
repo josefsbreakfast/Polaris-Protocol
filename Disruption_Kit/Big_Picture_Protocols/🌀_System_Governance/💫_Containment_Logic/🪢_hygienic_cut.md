@@ -1,5 +1,5 @@
 # 🪢 Hygienic Cut  
-**First created:** 2025-11-16 | **Last updated:** 2026-01-06  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
 *Why institutions cannot act cleanly until a survivor is fully disentangled from a coercive actor, and how the “hygienic cut” becomes the precondition for safety.*  
 
 ---
@@ -185,4 +185,4 @@ hygienic cut, coercive actors, institutional risk, survivor access, procedural f
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-14_
