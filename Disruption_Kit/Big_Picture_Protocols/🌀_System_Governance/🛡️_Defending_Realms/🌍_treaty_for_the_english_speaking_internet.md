@@ -1,5 +1,5 @@
 # 🌍 Treaty for the English-Speaking Internet  
-**First created:** 2025-10-15 | **Last updated:** 2026-05-12  
+**First created:** 2025-10-15 | **Last updated:** 2026-08-14  
 *A proposal for an inter-English-language federation to fund, govern, and de-sludge the web.*  
 
 ---
@@ -90,4 +90,4 @@ It outlines a transnational framework for cleaning, governing, and decolonising 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-08-14_
