@@ -210,6 +210,9 @@ nb:
 
 in context that it was leaked that Iran used a psychological opinion for diplomatic negotiations a while back - deliberately backing into a rhetorical corner may be purposeful:  
 
+and >> But also this is notice me senpai behavior:  
+
+
 Yes — that materially changes how I’d read the rhetoric, with an important evidentiary caveat.
 
 I think the thing you remember is the June reporting from Jeremy Scahill. He said Iranian sources told him that Iran had added senior psychologists to its negotiating team, had them develop a psychological profile of Trump, and was running communications intended for him through those advisers. The sources also claimed that tailoring the communications had begun producing progress. That account is reported from unidentified Iranian sources, not independently confirmed Iranian-government documentation, so I would label the underlying fact something like 🟡 credible report / not independently verified.  
@@ -239,3 +242,23 @@ That doesn’t mean that’s what is happening now. We’d need contemporaneous 
 And it has a rather interesting implication for the cyber/infrastructure cluster too: publicly bellicose infrastructure rhetoric and privately calibrated bargaining are not mutually exclusive. Threatening an expanding menu of consequences can increase the perceived cost of continued conflict while carefully preserving one negotiable exit. If Iran has actually institutionalised behavioural tailoring of diplomatic communications, we should probably watch not just how extreme the rhetoric becomes, but which exits it conspicuously leaves open.
 
 That may be the more informative variable.
+
+Yes, completely.
+
+There is a very real “notice me senpai, but make it coercive statecraft” register to this kind of signaling. The public threat is not only about imposing cost; it is also about forcing the other side to acknowledge you as an actor whose preferences must be negotiated with.
+
+That can produce rhetoric which looks paradoxical from the outside. You say something dramatic enough that Washington cannot plausibly ignore it, but you leave just enough structure around the threat that the response still has to come back through you. The message is less “we have closed every door” than:
+
+you are going to look at us now, and the next move has to take account of what we just said.
+
+In bargaining terms, that can be useful because attention itself is a resource. If you think the other side is distracted, dismissive, or convinced it can manage the conflict without engaging you directly, escalating the salience of your threats can be a way of dragging the negotiation back onto your preferred terrain.
+
+So yes: alongside “deliberately backing into a rhetorical corner,” I would keep attention-forcing behavior as a separate hypothesis. They can overlap:
+
+make yourself impossible to ignore → narrow the available response set → preserve one exit you actually want them to take.
+
+Extremely geopolitical. Extremely “PLEASE PERCEIVE ME.”
+
+>>> can the men pls stop having a look how big I am competition pls the world is too hot and it is civilians that a lot of you are targeting on all “sides”  
+
+we could just stop the genocides. 
