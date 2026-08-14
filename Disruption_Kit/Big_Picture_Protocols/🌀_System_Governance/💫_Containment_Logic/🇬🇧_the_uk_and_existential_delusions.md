@@ -1,5 +1,5 @@
 # 🇬🇧 The UK and Existential Delusions  
-**First created:** 2025-12-17 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-17 | **Last updated:** 2026-08-14  
 *When states misclassify political difficulty as existential necessity, safeguards collapse.*  
 
 ---
@@ -114,4 +114,4 @@ It documents how misclassified threat perception distorts governance across doma
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-08-14_
