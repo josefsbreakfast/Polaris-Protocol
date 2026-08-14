@@ -1,5 +1,5 @@
 # 🧮 Optimisation and the Fascism of Efficiency  
-**First created:** 2025-11-05 | **Last updated:** 2026-01-06    
+**First created:** 2025-11-05 | **Last updated:** 2026-08-14  
 *How statistical clarity becomes authoritarian order.*  
 
 ---
@@ -117,4 +117,4 @@ It analyses how unchecked optimisation reproduces authoritarian logic and how st
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-14_
