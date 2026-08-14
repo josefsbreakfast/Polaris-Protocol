@@ -1,5 +1,5 @@
 # 🔥 Opportunistic Escalation, Peri-System Collapse  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-17 | **Last updated:** 2026-08-14  
 *Why institutional fragility creates openings for individuals to escalate concerns in harmful or self-serving ways.*  
 
 ---
@@ -85,4 +85,4 @@ Cross-references:
 - PREVENT Misreads
 - PREVENT & Escalatory Harm in Economic Crisis  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-14_
