@@ -1,5 +1,5 @@
 # 🖍️ The Colouring Book Experiment — Containment as Curriculum  
-**First created:** 2025-10-23 | **Last updated:** 2025-12-11  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-14  
 *When an instrument of supervision becomes a school for systems thinking.*  
 
 ---
@@ -86,4 +86,4 @@ The node belongs to **Expression of Norms / Watch the Watchers**, linking satire
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-14_
