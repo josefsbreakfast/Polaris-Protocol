@@ -1,5 +1,5 @@
 # 😶‍🌫 Institutional Freeze–Fog–Correction Cycle  
-**First created:** 2025-11-14 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-14 | **Last updated:** 2026-08-14  
 *A Polaris governance node mapping the three-stage emotional–procedural response institutions move through when internal harm is revealed.*  
 
 ---
@@ -157,4 +157,4 @@ freeze, fog, correction, institutional processing, emotional paralysis, governan
 *😶‍🌫 Institutional Freeze–Fog–Correction Cycle* is a core Polaris diagnostic node describing the predictable progression institutions undergo after discovering internal harm.  
 It stabilises survivor expectations and clarifies organisational behaviour.
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-14_
