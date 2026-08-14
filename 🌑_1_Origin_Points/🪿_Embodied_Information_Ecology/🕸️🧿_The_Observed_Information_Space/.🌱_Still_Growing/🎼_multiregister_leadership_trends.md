@@ -1,232 +1,485 @@
+# 🎼 Multiregister Leadership Trends
 
-🎼 Multiregister Leadership Trends
+- **Working observation:** a number of political leaders appear to be experimenting with a broader **multi-register leadership image**.
+  - This is more specific than generic political “relatability.”
+  - The important feature is the ability to move convincingly **between different registers of authority and identity**.
+  - Possible registers include:
+    - institutional authority;
+    - military / command authority;
+    - institutional insider or peer;
+    - international statesperson;
+    - domestic political leader;
+    - biographical / historical self;
+    - ordinary or domestic person;
+    - humour and banter;
+    - celebrity / aesthetic presentation;
+    - national or cultural symbolism.
 
-* Working observation: a number of political leaders appear to be experimenting with a broader multi-register leadership image.
-    * This is more specific than generic political “relatability.”
-    * The important feature is the leader’s ability to move convincingly between different registers of authority and identity.
-    * Possible registers include:
-        * institutional authority;
-        * military / command authority;
-        * institutional insider or peer;
-        * international statesperson;
-        * domestic political leader;
-        * biographical / historical self;
-        * ordinary or domestic person;
-        * humour and banter;
-        * celebrity / aesthetic presentation;
-        * national or cultural symbolism.
-* The pivot itself matters.
-    * The political image is not simply a collection of different photographs.
-    * Part of the performance is demonstrating that the leader can move comfortably down, across and back up social and institutional hierarchies.
-    * Authority therefore comes partly from apparent range:
-        * I can command this institution.
-        * I understand this institution.
-        * I can sit comfortably among the people within it.
-        * I can represent it internationally.
-        * I can return to formal command without any of those positions appearing contradictory.
-* Putin / Kuril Islands example
-    * The sequence moves between:
-        * head of state;
-        * Supreme Commander-in-Chief;
-        * naval/military insider;
-        * guarantor of territorial security;
-        * participant in a shared institutional task;
-        * lunch guest;
-        * dry conversational humour.
-    * The language itself pivots.
-        * Formal language about the security of the Russian state and its borders sits alongside table banter.
-        * Наша с вами обязанность frames security as “our shared duty / our obligation, yours and mine.”
-        * An officer jokes that “the sea loves the strong, and the strong need to eat well.”
-        * Putin replies Как мы с вами — “Like you and me.”
-    * The hierarchy does not disappear.
-        * Some younger sailors visibly appear extremely formal/tense, although their internal emotional state cannot be inferred from the footage.
-        * The senior figures appear considerably more comfortable with the conversational register.
-        * This actually makes the image interesting: conviviality occurs across a hierarchy that remains clearly legible.
-    * The location and military context also make this more than domestic relatability.
-        * The ordinary act of eating together occurs inside an assertion of state presence, territorial reach and military capacity.
-        * It therefore communicates both domestic leadership and external/state power.
-* Netanyahu example
-    * Social-media presentation similarly moves rapidly between registers.
-    * Examples include:
-        * deliberately unserious/cool personal branding;
-        * sunglasses and celebrity-style imagery;
-        * military biography;
-        * security credentials;
-        * prime-ministerial authority;
-        * diplomacy;
-        * treaty-making;
-        * photographs alongside other powerful international leaders.
-    * The juxtaposition matters:
-        * this informal/personality-driven individual
-        * is simultaneously
-        * someone who occupies the table where states negotiate and exercise power.
-    * This is therefore also about world-power presentation, not merely electoral relatability.
-* Different production systems should remain distinguishable.
-    * Netanyahu’s own social-media account is direct political self-presentation.
-    * The Putin material discussed here is mediated through Russian state/aligned broadcasting.
-    * Similar visual outcomes therefore do not establish identical production mechanisms.
-    * Useful questions include:
-        * Who chooses the register?
-        * Who packages the transition?
-        * Is it leader, campaign, state broadcaster, photographer, platform team or some combination?
-        * Which audience is each register addressing?
-* Compression may be one genuinely contemporary feature.
-    * Political leaders have always possessed multiple public images.
-    * Historically these might have been distributed between:
-        * official portraiture;
-        * newspapers;
-        * campaign posters;
-        * television interviews;
-        * documentaries;
-        * diplomatic photography;
-        * human-interest coverage.
-    * Social platforms can compress those registers into one feed or even one carousel.
-    * The viewer can move within seconds:
-        * humour → military biography → diplomacy → ordinary life → formal authority.
-    * Rather than asking audiences to choose which representation is authentic, the presentation encourages them to integrate all of them into one political person.
-* Zelenskyy is an obvious comparison point.
-    * This does not establish that other leaders consciously copied Zelenskyy.
-    * The stronger hypothesis is diffusion of a successful visual grammar.
-    * Zelenskyy’s wartime presentation made a particular combination unusually internationally legible:
-        * reduced ceremony;
-        * military-adjacent dress;
-        * physical proximity to personnel;
-        * visible work/fatigue;
-        * direct communication;
-        * continued presence inside danger;
-        * movement between ordinary-person, commander and international-statesman registers.
-    * Once a political register succeeds conspicuously, other political actors do not need to acknowledge its source for elements of it to enter the wider repertoire.
-    * Putin and Netanyahu would have particularly obvious political reasons not to describe Zelenskyy as an inspiration.
-    * Similarity therefore needs to be documented without overclaiming direct influence.
-* This is particularly interesting at the tail end of the strongman era.
-    * Classic strongman presentation often relies upon:
-        * distance;
-        * dominance;
-        * scale;
-        * certainty;
-        * exceptionalism;
-        * the leader positioned symbolically above other people and institutions.
-    * Zelenskyy’s successful wartime image often works through something closer to embedded authority:
-        * I remain inside the danger.
-        * I am working within the functioning state.
-        * I move among the people doing the work.
-    * If established strongman-era politicians begin incorporating parts of that grammar, this may indicate that visible dominance alone is becoming insufficient.
-* The emerging hybrid may therefore retain strong leadership while reducing remoteness.
-    * It can preserve:
-        * command;
-        * decisiveness;
-        * national embodiment;
-        * personal centrality.
-    * While adding:
-        * proximity;
-        * humour;
-        * institutional familiarity;
-        * visible participation;
-        * informality;
-        * movement between social roles.
-    * A possible shift in the desired image of authority is therefore:
-        * “I am powerful because I stand above events.”
-        * toward
-        * “I am powerful because I can move competently through every layer of events.”
-* This does not necessarily mean political leadership is becoming less personalised.
-    * Multi-register leadership may actually demand more personalisation.
-    * One individual is expected to embody:
-        * commander;
-        * colleague;
-        * diplomat;
-        * citizen;
-        * celebrity;
-        * historical figure;
-        * national symbol.
-    * The leader becomes the interface through which multiple parts of the state are made culturally legible.
-* There may be a flexibility advantage.
-    * A political image built around one extremely successful register can become path-dependent.
-    * If authority depends upon never appearing:
-        * vulnerable;
-        * ordinary;
-        * uncertain;
-        * subordinate;
-        * ridiculous;
-        * merely one competent person among other competent people;
-        * then many possible registers become difficult to inhabit convincingly.
-    * Surface cues can be copied — clothes, military settings, informality — but credible register-switching depends upon the audience accepting the transition.
-    * Politicians with broader existing repertoires may therefore adapt faster when the preferred image of leadership changes.
-* Narrow repertoires also become easier to read.
-    * If a political style repeatedly cycles through:
-        * dominance;
-        * grievance;
-        * mockery;
-        * transgression;
-        * enemy construction;
-        * escalation;
-            then audiences can eventually learn the mechanism.
-    * Once the response becomes predictable, what previously appeared spontaneous or disruptive can begin to appear scripted.
-    * A declining response may then encourage greater intensity rather than greater range.
-    * This potentially helps explain some of the exhaustion surrounding alt-right political aesthetics.
-    * Loss of the alt-right’s cultural/aesthetic dominance does not imply disappearance of far-right politics.
-    * It may instead indicate weakening of its ability to define the default political/internet register for everyone else.
-* The comparison may therefore be partly about flexibility rather than ideology.
-    * A multi-register political actor can potentially answer:
-        * seriousness with seriousness;
-        * humour with humour;
-        * institutions with institutional competence;
-        * international audiences with statesmanship;
-        * ordinary settings with ordinary behaviour.
-    * Most importantly, they can leave a register when it stops working.
-* Political actors can triangulate from one another.
-    * There does not need to be one leader whom everybody copies wholesale.
-    * Campaigns and communications systems can observe what succeeds and fails across multiple politicians.
-    * For example, different actors may notice successful elements of:
-        * wartime embeddedness;
-        * personality-brand saturation;
-        * ceremonial authority;
-        * diplomatic choreography;
-        * military credibility;
-        * humour;
-        * platform-native communication.
-    * These can then be recombined according to the leader’s existing biography and domestic political environment.
-* Useful distinctions for later analysis:
-    * Inheritance — registers already established within that politician’s historical image.
-    * Diffusion — techniques becoming generally available within political communication.
-    * Triangulation — apparent adaptation based on observed successes and failures elsewhere.
-    * Register pivot — the transition between political registers.
-    * Multi-register repertoire — the complete set of registers a political actor can credibly inhabit.
-    * Direct causal claims about triangulation or imitation require evidence; visual similarity alone is insufficient.
-* Early pivoters may be particularly useful indicators.
-    * Some experienced political operators are unusually quick to recognise changes in:
-        * audience expectation;
-        * media form;
-        * prestige;
-        * legitimacy;
-        * successful presentation elsewhere.
-    * Putin and Netanyahu are useful cases to watch because both possess long-established political images.
-    * New registers appearing around an already highly established persona may be more analytically informative than the same registers appearing around a new political figure.
-    * If similar changes subsequently spread across other leaders, early examples may function as lead indicators rather than representative cases.
-* This may therefore be an era-change marker.
-    * Political image grammar can change before political language explicitly acknowledges a change of era.
-    * Established operators experimenting with different forms of authority can indicate that the previous optimum is becoming insufficient.
-    * The old model does not need to disappear immediately.
-    * Transitional periods are likely to produce hybrids containing both old and emerging authority signals.
-    * In that sense, changing political presentation can function as a kind of cultural boundary marker in real time.
-* But representational adaptation must not be mistaken for substantive political adaptation.
-    * A state or leader can learn from feedback that:
-        * distance is unpopular;
-        * rigidity is limiting;
-        * audiences reward embeddedness;
-        * humour increases accessibility;
-        * multi-register presentation broadens appeal.
-    * They can respond by changing presentation without changing conduct.
-    * A successful image pivot can alter reception while underlying policy remains substantially unchanged.
-    * Improved political semiotics are therefore not evidence of improved governance.
-    * They could, indeed, stop fucking bombing things.
-* Working research question:
-    * Are we seeing isolated campaign experiments, or an emerging change in the culturally persuasive shape of political authority?
-    * If the latter:
-        * Which leaders moved first?
-        * Which registers are spreading?
-        * Which older registers are weakening?
-        * Which political systems produce different combinations?
-        * How much comes from direct political accounts versus broadcasters and other intermediaries?
-        * Does register-switching intensify around elections, war, diplomatic events or legitimacy crises?
-        * Which techniques survive once the immediate political pressure passes?
-        * And does substantive governance ever follow the representational pivot, or does the system merely learn to look different in response to feedback?
+- **The pivot itself matters.**
+  - The political image is not simply a collection of different photographs.
+  - Part of the performance is demonstrating that the leader can move comfortably **down, across and back up social and institutional hierarchies**.
+  - Authority therefore comes partly from apparent range:
+    - *I can command this institution.*
+    - *I understand this institution.*
+    - *I can sit comfortably among the people within it.*
+    - *I can represent it internationally.*
+    - *I can return to formal command without those positions appearing contradictory.*
+
+- **This creates at least two analytical dimensions.**
+  - **Domestic legitimacy ↔ international status.**
+  - **Institutional authority ↔ personal accessibility.**
+  - A single image or sequence can communicate across both axes at once.
+  - Military imagery, for example, may communicate domestically:
+    - competence;
+    - protection;
+    - proximity to servicemen;
+    - command.
+  - The same imagery may communicate internationally:
+    - territorial reach;
+    - institutional capacity;
+    - state presence;
+    - seriousness;
+    - military credibility.
+
+- **Putin / Kuril Islands example**
+  - The sequence moves between:
+    - head of state;
+    - Supreme Commander-in-Chief;
+    - naval/military insider;
+    - guarantor of territorial security;
+    - participant in a shared institutional task;
+    - lunch guest;
+    - dry conversational humour.
+  - The language itself pivots.
+    - Formal language about the security of the Russian state and its borders sits alongside table banter.
+    - `Наша с вами обязанность` frames security as **“our shared duty / our obligation, yours and mine.”**
+    - An officer jokes that *“the sea loves the strong, and the strong need to eat well.”*
+    - Putin replies `Как мы с вами` — **“Like you and me.”**
+  - The hierarchy does **not** disappear.
+    - Some younger sailors visibly appear extremely formal or tense, although internal emotional state cannot be inferred from the footage alone.
+    - Senior figures appear considerably more comfortable with the conversational register.
+    - Conviviality therefore occurs **across a hierarchy that remains clearly legible**.
+  - The location and military context make this more than domestic relatability.
+    - The ordinary act of eating together occurs inside an assertion of:
+      - state presence;
+      - territorial reach;
+      - military capacity;
+      - command continuity.
+    - The imagery therefore performs **domestic leadership and world-power presentation simultaneously**.
+
+- **Netanyahu example**
+  - Social-media presentation similarly moves rapidly between registers.
+  - Examples include:
+    - deliberately unserious or “cool” personal branding;
+    - sunglasses and celebrity-style imagery;
+    - military biography;
+    - security credentials;
+    - prime-ministerial authority;
+    - diplomacy;
+    - treaty-making;
+    - photographs alongside other powerful international leaders.
+  - The juxtaposition matters:
+    - *this informal/personality-driven individual*
+    - is simultaneously
+    - *someone who occupies the table where states negotiate and exercise power*.
+  - This is therefore also about **world-power presentation**, not merely electoral relatability.
+
+- **Different production systems should remain distinguishable.**
+  - Netanyahu’s own social-media account is direct political self-presentation.
+  - The Putin material discussed here is mediated through Russian state/aligned broadcasting.
+  - Similar visual outcomes therefore do not establish identical production mechanisms.
+  - Useful questions include:
+    - Who chooses the register?
+    - Who packages the transition?
+    - Is it leader, campaign, state broadcaster, photographer, platform team or some combination?
+    - Which audience is each register addressing?
+
+- **Compression may be one genuinely contemporary feature.**
+  - Political leaders have always possessed multiple public images.
+  - Historically these might have been distributed between:
+    - official portraiture;
+    - newspapers;
+    - campaign posters;
+    - television interviews;
+    - documentaries;
+    - diplomatic photography;
+    - human-interest coverage.
+  - Social platforms can compress those registers into one feed or even one carousel.
+  - The viewer can move within seconds:
+    - humour → military biography → diplomacy → ordinary life → formal authority.
+  - Rather than asking audiences to choose which representation is authentic, the presentation encourages them to integrate all of them into **one political person**.
+  - Research on political personalisation and visual social-media communication supports the broader point that leaders increasingly use images to collapse public, private and political identities into a personalised leadership image.  [oai_citation:0‡OUP Academic](https://oxfordre.com/communication/display/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-1509?d=%2F10.1093%2Facrefore%2F9780190228613.001.0001%2Facrefore-9780190228613-e-1509&p=emailAESs0MuuuxOx.&utm_source=chatgpt.com)
+
+- **Zelenskyy is an obvious comparison point.**
+  - This does **not** establish that other leaders consciously copied Zelenskyy.
+  - The stronger hypothesis is **diffusion of a successful visual grammar**.
+  - Zelenskyy’s wartime presentation made a particular combination unusually internationally legible:
+    - reduced ceremony;
+    - military-adjacent dress;
+    - physical proximity to personnel;
+    - visible work/fatigue;
+    - direct communication;
+    - continued presence inside danger;
+    - movement between ordinary-person, commander and international-statesman registers.
+  - Academic work on Zelenskyy’s wartime communication explicitly identifies flexibility in his textual and visual political performance, while research on his Instagram use notes the importance of wartime dress in signalling convergence with wartime conditions.  [oai_citation:1‡Frontiers](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1478639/full?utm_source=chatgpt.com)
+  - Once a political register succeeds conspicuously, other political actors do not need to acknowledge its source for elements of it to enter the wider repertoire.
+  - Similarity therefore needs to be documented without overclaiming direct influence.
+
+- **This is particularly interesting at the tail end of the strongman era.**
+  - Classic strongman presentation often relies upon:
+    - distance;
+    - dominance;
+    - scale;
+    - certainty;
+    - exceptionalism;
+    - the leader positioned symbolically above other people and institutions.
+  - Zelenskyy’s successful wartime image often works through something closer to **embedded authority**:
+    - *I remain inside the danger.*
+    - *I am working within the functioning state.*
+    - *I move among the people doing the work.*
+  - If established strongman-era politicians begin incorporating parts of that grammar, this may indicate that **visible dominance alone is becoming insufficient**.
+
+- **The emerging hybrid may therefore retain strong leadership while reducing remoteness.**
+  - It can preserve:
+    - command;
+    - decisiveness;
+    - national embodiment;
+    - personal centrality.
+  - While adding:
+    - proximity;
+    - humour;
+    - institutional familiarity;
+    - visible participation;
+    - informality;
+    - movement between social roles.
+  - A possible shift in the desired image of authority is therefore:
+    - **“I am powerful because I stand above events.”**
+    - toward
+    - **“I am powerful because I can move competently through every layer of events.”**
+
+- **This does not necessarily mean political leadership is becoming less personalised.**
+  - Multi-register leadership may actually demand **more** personalisation.
+  - One individual is expected to embody:
+    - commander;
+    - colleague;
+    - diplomat;
+    - citizen;
+    - celebrity;
+    - historical figure;
+    - national symbol.
+  - The leader becomes the interface through which multiple parts of the state are made culturally legible.
+
+- **There may be a flexibility advantage.**
+  - A political image built around one extremely successful register can become path-dependent.
+  - If authority depends upon never appearing:
+    - vulnerable;
+    - ordinary;
+    - uncertain;
+    - subordinate;
+    - ridiculous;
+    - merely one competent person among other competent people;
+    - then many possible registers become difficult to inhabit convincingly.
+  - Surface cues can be copied — clothes, military settings, informality — but **credible register-switching depends upon the audience accepting the transition**.
+  - Politicians with broader existing repertoires may therefore adapt faster when the preferred image of leadership changes.
+
+- **Narrow repertoires also become easier to read.**
+  - If a political style repeatedly cycles through:
+    - dominance;
+    - grievance;
+    - mockery;
+    - transgression;
+    - enemy construction;
+    - escalation;
+    then audiences can eventually learn the mechanism.
+  - Once the response becomes predictable, what previously appeared spontaneous or disruptive can begin to appear scripted.
+  - A declining response may then encourage greater intensity rather than greater range.
+  - This potentially helps explain some of the exhaustion surrounding alt-right political aesthetics.
+  - Loss of the alt-right’s cultural/aesthetic dominance does **not** imply disappearance of far-right politics.
+  - It may instead indicate weakening of its ability to define the default political/internet register for everyone else.
+
+- **The comparison may therefore be partly about flexibility rather than ideology.**
+  - A multi-register political actor can potentially answer:
+    - seriousness with seriousness;
+    - humour with humour;
+    - institutions with institutional competence;
+    - international audiences with statesmanship;
+    - ordinary settings with ordinary behaviour.
+  - Most importantly, they can **leave a register when it stops working**.
+
+- **Political actors can triangulate from one another.**
+  - There does not need to be one leader whom everybody copies wholesale.
+  - Campaigns and communications systems can observe what succeeds and fails across multiple politicians.
+  - Social media makes this especially visible because political actors receive rapid feedback through:
+    - engagement;
+    - virality;
+    - hostile reaction;
+    - meme uptake;
+    - imitation;
+    - platform-specific audience response.
+  - Research on social-media campaigning has explicitly discussed the possibility of politicians using platform feedback to refine campaign tactics.  [oai_citation:2‡arXiv](https://arxiv.org/abs/1704.02042?utm_source=chatgpt.com)
+  - Different actors may therefore borrow successful elements of:
+    - wartime embeddedness;
+    - personality-brand saturation;
+    - ceremonial authority;
+    - diplomatic choreography;
+    - military credibility;
+    - humour;
+    - platform-native communication.
+  - These can then be recombined according to the leader’s biography and political environment.
+
+- **Useful distinctions for later analysis:**
+  - **Inheritance** — registers already established within that politician’s historical image.
+  - **Diffusion** — techniques becoming generally available within political communication.
+  - **Triangulation** — apparent adaptation based on observed successes and failures elsewhere.
+  - **Register pivot** — the transition between political registers.
+  - **Multi-register repertoire** — the complete set of registers a political actor can credibly inhabit.
+  - Direct causal claims about triangulation or imitation require evidence; visual similarity alone is insufficient.
+
+- **Early pivoters may be particularly useful indicators.**
+  - Some experienced political operators are unusually quick to recognise changes in:
+    - audience expectation;
+    - media form;
+    - prestige;
+    - legitimacy;
+    - successful presentation elsewhere.
+  - Putin and Netanyahu are useful cases to watch because both possess long-established political images.
+  - New registers appearing around an already highly established persona may be more analytically informative than the same registers appearing around a new political figure.
+  - If similar changes subsequently spread across other leaders, early examples may function as **lead indicators rather than representative cases**.
+
+- **This may therefore be an era-change marker.**
+  - Political image grammar can change before political language explicitly acknowledges a change of era.
+  - Established operators experimenting with different forms of authority can indicate that the previous optimum is becoming insufficient.
+  - The old model does not need to disappear immediately.
+  - Transitional periods are likely to produce hybrids containing both old and emerging authority signals.
+  - In that sense, changing political presentation can function as a kind of **cultural boundary marker in real time**.
+
+- **International comparative examples — contemporary**
+  - **Volodymyr Zelenskyy — Ukraine**
+    - One of the clearest contemporary examples of movement between:
+      - ordinary civilian;
+      - wartime leader;
+      - military-adjacent figure;
+      - national symbol;
+      - international statesman.
+    - His clothing and setting became part of the message rather than incidental presentation.
+    - Particularly important as a possible source of **diffused visual grammar**, even where direct imitation cannot be established.  [oai_citation:3‡Frontiers](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1478639/full?utm_source=chatgpt.com)
+
+  - **Narendra Modi — India**
+    - Long-running multi-register repertoire includes:
+      - development/technocratic leader;
+      - nationalist strong leader;
+      - religious/civilisational figure;
+      - international statesman;
+      - ordinary-background / “man of the people” biography;
+      - highly personalised social-media figure.
+    - Research comparing Modi’s visual presentation with Pedro Sánchez found Modi using youth association, religious faith and memorial imagery as different personalised registers.  [oai_citation:4‡IIMB Research](https://research.iimb.ac.in/fac_pubs/261/?utm_source=chatgpt.com)
+    - In 2026, Modi’s team also visibly shifted toward more informal Instagram content aimed at younger voters, including selfie-style video, humour, music and casual clothing — a useful current example of an established leader widening his repertoire after a changing feedback environment.  [oai_citation:5‡Reuters](https://www.reuters.com/world/india/indias-modi-turns-instagram-woo-young-voters-after-gen-z-protest-2026-08-06/?utm_source=chatgpt.com)
+
+  - **Nayib Bukele — El Salvador**
+    - Strong example of merging:
+      - authoritarian/security leadership;
+      - youthful digital-native identity;
+      - technophile/futurist branding;
+      - humour and meme culture;
+      - international self-promotion;
+      - personalised diplomacy.
+    - Research has described Bukele’s strategy as strongly personalistic and has examined his direct use of Twitter for international image-management as well as domestic legitimacy-building.  [oai_citation:6‡Sage Journals](https://journals.sagepub.com/doi/10.1177/01925121251321566?utm_source=chatgpt.com)
+    - Useful **negative or cautionary case** because highly adaptive image politics can coexist with severe concerns over institutional weakening, media pressure and rights abuses.  [oai_citation:7‡AP News](https://apnews.com/article/5523937ba0e499af71e7f2ff7e72eeac?utm_source=chatgpt.com)
+
+  - **Recep Tayyip Erdoğan — Türkiye**
+    - Long-standing repertoire combining:
+      - strongman authority;
+      - religious/conservative identification;
+      - nationalist leadership;
+      - international statesmanship;
+      - “one of the people” imagery.
+    - Research on Erdoğan’s Instagram presentation specifically identifies visual construction of himself as **“one of the people”** alongside his wider leadership claim.  [oai_citation:8‡Taylor & Francis Online](https://www.tandfonline.com/doi/abs/10.1080/15358593.2023.2276394?utm_source=chatgpt.com)
+    - Useful comparison for how strongman leadership can already contain some multi-register capacity rather than being purely monumental.
+
+  - **Emmanuel Macron — France**
+    - Repertoire frequently shifts between:
+      - technocratic president;
+      - European/international statesman;
+      - intellectual;
+      - ordinary conversational figure;
+      - physical/masculine imagery;
+      - highly controlled presidential photography.
+    - Macron’s boxing photographs are a particularly clear example of deliberate visual movement toward a toughness/warrior register, and contemporary commentary explicitly compared the images with older strong-leader visual traditions.  [oai_citation:9‡AP News](https://apnews.com/article/7ee08a530f8b67a9c633e63c47fa3c81?utm_source=chatgpt.com)
+    - Useful as a case where **register experiments can look visibly constructed**, producing both approval and ridicule.
+
+  - **Jacinda Ardern — New Zealand**
+    - Different ideological and emotional model but highly relevant.
+    - Combined:
+      - prime-ministerial authority;
+      - crisis leadership;
+      - motherhood;
+      - domestic life;
+      - empathy;
+      - informal social-media communication;
+      - international statesperson.
+    - Research has specifically examined her use of motherhood on social media as political personalisation and her performance of empathy as part of leadership.  [oai_citation:10‡Edith Cowan University](https://ro.ecu.edu.au/ecuworks2022-2026/5860/?utm_source=chatgpt.com)
+    - Important because multi-register authority does not inherently require a strongman or masculine-dominance template.
+
+  - **Barack Obama — United States**
+    - Important precursor to the present compressed form.
+    - Combined:
+      - formal presidential authority;
+      - international statesmanship;
+      - family identity;
+      - humour;
+      - popular culture;
+      - sport;
+      - direct-to-digital communication.
+    - His White House deliberately used non-traditional digital formats, including online comedy and YouTube personalities, to reach audiences outside conventional political media.  [oai_citation:11‡WIRED](https://www.wired.com/2015/03/the-man-who-made-obama-viral?utm_source=chatgpt.com)
+    - Useful bridge between the television-era personalised presidency and the fully platform-native model.
+
+  - **Donald Trump — United States**
+    - Extremely successful example of a **narrower but intensely personalised register repertoire**:
+      - businessman;
+      - celebrity;
+      - grievance leader;
+      - combative strongman;
+      - entertainer;
+      - nationalist political figure.
+    - His Twitter presidency demonstrated the enormous power of direct, personalised political communication, but also illustrates how a limited repertoire can become repetitive and highly predictable.
+    - Research comparing Obama and Trump’s Twitter engagement found materially different patterns of public response, with Trump’s posts more frequently generating controversy-heavy reply dynamics.  [oai_citation:12‡arXiv](https://arxiv.org/abs/2006.03526?utm_source=chatgpt.com)
+    - Useful comparison for the transition from **single dominant register** toward broader multi-register flexibility.
+
+- **International comparative examples — historical / pre-social-media**
+  - **Franklin D. Roosevelt — United States**
+    - Important early example of collapsing distance between formal authority and conversational intimacy.
+    - The **fireside chats** transformed presidential radio communication into something framed as direct, domestic conversation with citizens.
+    - Roosevelt could therefore move between:
+      - commander-in-chief;
+      - institutional president;
+      - economic crisis manager;
+      - apparently intimate voice inside the home.
+    - The White House Historical Association records the fireside chats as a regular presidential communication practice during the 1930s.  [oai_citation:13‡WHHA (en-US)](https://www.whitehousehistory.org/photos/president-roosevelt-holds-a-fireside-chat-photo-1?utm_source=chatgpt.com)
+    - Strong historical ancestor of **proximity without surrendering authority**.
+
+  - **Charles de Gaulle — France**
+    - Combined:
+      - soldier;
+      - resistance leader;
+      - national embodiment;
+      - statesman;
+      - president;
+      - direct broadcaster to the nation.
+    - Radio was crucial to his construction as a political leader before he possessed conventional territorial authority.
+    - Later presidential communication retained the idea of the leader speaking directly to the nation through broadcast media.
+    - Useful historical case of **media technology enabling a leader to embody both person and state**.  [oai_citation:14‡elysee.fr](https://www.elysee.fr/en/charles-de-gaulle?utm_source=chatgpt.com)
+
+  - **John F. Kennedy — United States**
+    - The 1960 Kennedy–Nixon debates are a major marker of the transition into visual television-era political authority.
+    - The event demonstrated that political competence was increasingly judged through:
+      - appearance;
+      - composure;
+      - television fluency;
+      - physical presentation;
+      - spoken argument.
+    - Scholarship on the debate supports the proposition that television images themselves affected political perception.  [oai_citation:15‡JSTOR](https://www.jstor.org/stable/10.1111/1468-2508.t01-1-00015?utm_source=chatgpt.com)
+    - Useful historical example of **a new medium changing which leadership register looked credible**.
+
+  - **Ronald Reagan — United States**
+    - Particularly important because his professional background as an actor gave him unusually high fluency across:
+      - presidential ceremony;
+      - ideological storytelling;
+      - humour;
+      - warmth;
+      - patriotic spectacle;
+      - television performance.
+    - Reagan’s own admiration for Roosevelt’s communicative style predated his presidency; the Miller Center records him imitating Roosevelt’s inaugural speech as a young man.  [oai_citation:16‡Miller Center](https://millercenter.org/president/reagan/life-before-the-presidency?utm_source=chatgpt.com)
+    - Useful case of **one successful leadership grammar consciously inheriting from another**.
+
+  - **Winston Churchill — United Kingdom**
+    - Historical repertoire included:
+      - statesman;
+      - wartime commander;
+      - soldier;
+      - writer;
+      - aristocratic establishment figure;
+      - eccentric personality;
+      - national morale symbol.
+    - Important comparison because the different registers were distributed across speeches, newspapers, photography, film and later historical memory rather than compressed into one social-media feed.
+    - Also a warning against retrospectively treating every successful historical image as centrally planned: some leadership repertoires are partly produced by press, public culture and later mythology rather than solely by the leader.
+
+- **Historical pattern worth preserving**
+  - New communication technologies repeatedly alter what a politically effective leader is expected to look like.
+  - Radio privileged:
+    - voice;
+    - intimacy;
+    - direct national address.
+  - Television added:
+    - appearance;
+    - composure;
+    - visual charisma;
+    - movement.
+  - Social media adds:
+    - speed;
+    - compression;
+    - continuous self-presentation;
+    - humour;
+    - platform-native informality;
+    - direct feedback;
+    - rapid switching between registers.
+  - The novelty may therefore be less **“leaders have multiple images now”** than:
+    - the number of registers;
+    - the speed of movement between them;
+    - the amount of direct control leaders have over their presentation;
+    - the amount of feedback available about which presentation succeeds.
+
+- **Possible good / bad distinction**
+  - Multi-register leadership is **not intrinsically democratic, authoritarian, humane or malign**.
+  - It is a communicative capability.
+  - It can support:
+    - empathy;
+    - institutional accessibility;
+    - crisis reassurance;
+    - international diplomacy;
+    - broader social identification.
+  - It can equally support:
+    - personality cults;
+    - authoritarian personalisation;
+    - masking institutional weakness;
+    - image-management around coercive policy;
+    - substitution of representational adaptation for substantive reform.
+  - The relevant question is therefore not:
+    - *“Is this good leadership imagery?”*
+  - But:
+    - *“What political work is the register-switching doing, and what remains unchanged underneath it?”*
+
+- **Representational adaptation must not be mistaken for substantive political adaptation.**
+  - A state or leader can learn from feedback that:
+    - distance is unpopular;
+    - rigidity is limiting;
+    - audiences reward embeddedness;
+    - humour increases accessibility;
+    - multi-register presentation broadens appeal.
+  - They can respond by changing **presentation without changing conduct**.
+  - A successful image pivot can alter reception while underlying policy remains substantially unchanged.
+  - Improved political semiotics are therefore not evidence of improved governance.
+  - **They could, indeed, stop fucking bombing things.**
+
+- **Working research questions**
+  - Are we seeing isolated campaign experiments, or an emerging change in the culturally persuasive **shape of political authority**?
+  - Which leaders moved first?
+  - Which leaders appear to function as early pivoters?
+  - Which registers are spreading?
+  - Which older registers are weakening?
+  - Are strongman-era leaders becoming more embedded and conversational?
+  - Are previously “soft” or ordinary registers becoming compatible with perceptions of strength?
+  - Which political systems produce different combinations?
+  - How much comes from direct political accounts versus broadcasters and other intermediaries?
+  - Does register-switching intensify around:
+    - elections;
+    - war;
+    - diplomatic events;
+    - legitimacy crises;
+    - generational change;
+    - declining polling;
+    - emergence of successful rivals?
+  - Which techniques survive once immediate political pressure passes?
+  - Can we identify cases where one leader appears to triangulate from several others rather than imitate one model?
+  - What distinguishes genuine adaptation from surface costume change?
+  - Does substantive governance ever follow the representational pivot?
+  - Or does the system merely learn to **look different in response to feedback**?
