@@ -1,5 +1,5 @@
 # 🧬 Two-Sided Dependency — Why Harm Systems Trap Both Victims *and* Enforcers  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-16  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-14  
 *The architecture of abusive or authoritarian systems requires both sides of the hierarchy to feel equally trapped — just for different reasons.*  
 
 ---
@@ -259,4 +259,4 @@ It maps the symmetrical captivity inside harmful systems — showing how victims
 
 *Survivor authorship is sovereign. No one is free inside a structure built on fear.*
 
-_Last updated: 2025-12-16_
+_Last updated: 2026-08-14_
