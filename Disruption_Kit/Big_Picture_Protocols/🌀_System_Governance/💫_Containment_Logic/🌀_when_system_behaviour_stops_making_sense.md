@@ -1,5 +1,5 @@
 # 🌀 When System Behaviour Stops Making Sense: Cognitive Dissonance in Drift  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-29  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-14  
 *The eerie psychological, bureaucratic, and political moment when institutions begin behaving irrationally, inconsistently, or self-defeatingly — and why this is one of the most reliable indicators of authoritarian drift.*  
 
 ---
@@ -192,4 +192,4 @@ It validates the uncanny recognition that institutions are no longer behaving ra
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-08-14_
