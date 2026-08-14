@@ -1,5 +1,5 @@
 # 🧬 Harm Without Perpetrators: The Architecture Failure Model  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-17 | **Last updated:** 2026-08-14  
 *Understanding how modern institutions cause harm structurally rather than intentionally.*  
 
 ---
@@ -73,4 +73,4 @@ It reframes institutional failure as a product of design mismatch rather than in
 > - [🧿 Targeting_Logic_Metadata_Signatures] — misclassification patterns  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-19_
+_Last updated: 2026-08-14_
