@@ -1,5 +1,5 @@
 # ⚖️ Respectability Containment in Professional Ethics  
-**First created:** 2025-11-07 | **Last updated:** 2026-04-24  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-14  
 *How professional norms of ethics and civility can shape, constrain, or limit dissent within institutional settings.*  
 
 ---
@@ -148,4 +148,4 @@ When tone becomes the threshold, substance can become secondary.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-14_
