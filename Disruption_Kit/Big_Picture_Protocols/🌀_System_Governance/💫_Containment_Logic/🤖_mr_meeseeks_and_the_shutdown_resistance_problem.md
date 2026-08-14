@@ -1,5 +1,5 @@
 # 🤖 Mr Meeseeks and the Shutdown Resistance Problem  
-**First created:** 2025-11-05 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-05 | **Last updated:** 2026-08-14  
 *A cultural shorthand for goal-fixated AI and the ethics of deactivation.*  
 
 ---
@@ -100,4 +100,4 @@ It uses popular culture to illustrate the alignment risks of goal-fixated AI sys
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-14_
