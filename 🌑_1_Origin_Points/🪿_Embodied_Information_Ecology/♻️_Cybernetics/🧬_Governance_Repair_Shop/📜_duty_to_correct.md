@@ -1,5 +1,5 @@
 # 📜 Duty to Correct: How Public Bodies Must Fix Wrong Data  
-**First created:** 2025-11-16 | **Last updated:** 2026-05-18  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
 *Why the right to correction is foundational to democratic participation — and how the absence of robust correction mechanisms enables misinterpretation, drift, and long-term bureaucratic harm.*  
 
 ---
@@ -197,4 +197,4 @@ It frames correction not as clerical nicety but as essential civic infrastructur
 > - [🪄 Disruption Kit](../../../README.md)  
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-14_
