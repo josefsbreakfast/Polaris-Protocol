@@ -1,5 +1,5 @@
 # 🧬 Gossip Effects as Risk Amplifiers
-**First created:** 2025-11-17 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-17 | **Last updated:** 2026-08-14  
 *How informal communication pathways inside institutions amplify perceived risk, distort judgement, and create reputational shadows.*
 
 ---
@@ -114,4 +114,4 @@ It documents how informal communication creates invisible reputational shadows a
 > - Opportunistic Escalation in Collapsing Systems  
 > - No Plausible Deniability for PREVENT Practitioners  
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-08-14_
