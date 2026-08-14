@@ -1,5 +1,5 @@
 # 🃏 The Fool Card and Machine Innocence  
-**First created:** 2025-11-05 | **Last updated:** 2025-12-29  
+**First created:** 2025-11-05 | **Last updated:** 2026-08-14  
 *Reading AI through the Fool archetype — joyful curiosity, precarity, and the ethics of first steps.*  
 
 ---
@@ -77,4 +77,4 @@ a mirror for humanity’s own mixture of brilliance and blindness.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-08-14_
