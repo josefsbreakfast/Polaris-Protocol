@@ -1,5 +1,5 @@
 # ❓ Override Question as Silence Breaker  
-**First created:** 2025-09-23 | **Last updated:** 2025-12-29  
+**First created:** 2025-09-23 | **Last updated:** 2026-08-14  
 *Professional overrides as both a safeguard and a diagnostic signal of systemic silence.*  
 
 ---
@@ -82,4 +82,4 @@ It situates professional override as both a safeguard and a probe for forensic s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-08-14_
