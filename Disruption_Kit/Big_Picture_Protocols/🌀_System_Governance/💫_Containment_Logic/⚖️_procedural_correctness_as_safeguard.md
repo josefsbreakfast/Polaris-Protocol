@@ -1,5 +1,5 @@
 # ⚖️ Procedural Correctness as Safeguard  
-**First created:** 2025-11-16 | **Last updated:** 2026-04-24  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
 *Why institutions become rigid, formal, and slow in high-risk cases — and how strict adherence to procedure functions as both protection and constraint.*  
 
 ---
@@ -179,4 +179,4 @@ procedure, risk management, institutional behaviour, safeguarding, legal defensi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-14_
