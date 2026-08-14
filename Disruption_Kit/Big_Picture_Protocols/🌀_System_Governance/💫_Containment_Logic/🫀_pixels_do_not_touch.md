@@ -1,5 +1,5 @@
 # 🫀 Pixels Do Not Touch  
-**First created:** 2025-10-07 | **Last updated:** 2026-01-06  
+**First created:** 2025-10-07 | **Last updated:** 2026-08-14  
 *A reflection on human contact, isolation, and the limits of replication.*  
 
 ---
@@ -81,4 +81,4 @@ It argues that while technology can observe or simulate affection, only embodied
 
 Survivor authorship is sovereign. Containment is never neutral.
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-14_
