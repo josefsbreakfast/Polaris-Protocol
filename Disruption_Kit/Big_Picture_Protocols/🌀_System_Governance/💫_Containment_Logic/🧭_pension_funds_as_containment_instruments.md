@@ -1,5 +1,5 @@
 # 🧭 Pension Funds as Containment Instruments  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
 *How fiduciary conservatism and Cold-War inheritance keep public wealth inert and the working class contained.*  
 
 ---
@@ -71,4 +71,4 @@ It maps how fiduciary structures inherited from the Cold War neutralise democrat
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-08-14_
