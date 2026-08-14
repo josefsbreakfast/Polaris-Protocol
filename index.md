@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-14 17:09:56 UTC_
+_Generated on 2026-08-14 17:17:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,20 +18,6 @@ _Generated on 2026-08-14 17:09:56 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**💫_Containment_Logic/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/)
-        - [`❌_no_safe_exit_conditions_how_systems_trap_people_through_structure_not_chains.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/❌_no_safe_exit_conditions_how_systems_trap_people_through_structure_not_chains.md)
-        - [`❓_override_question_as_silence_breaker.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/❓_override_question_as_silence_breaker.md)
-        - [`⭕️_erosion_of_legitimacy_loops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⭕️_erosion_of_legitimacy_loops.md)
-        - [`🃏_the_fool_card_and_machine_innocence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🃏_the_fool_card_and_machine_innocence.md)
-        - [`🇬🇧_diet_authoritarianism_uk_homebrew.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🇬🇧_diet_authoritarianism_uk_homebrew.md)
-        - [`🇬🇧_the_uk_and_existential_delusions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🇬🇧_the_uk_and_existential_delusions.md)
-        - [`🌀_ambiguity_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_ambiguity_as_containment.md)
-        - [`🌀_behavioural_containment_when_governance_becomes_psychology.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_behavioural_containment_when_governance_becomes_psychology.md)
-        - [`🌀_fall_of_institutional_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_fall_of_institutional_integrity.md)
-        - [`🌀_managed_transition_vs_revolution.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_managed_transition_vs_revolution.md)
-        - [`🌀_parallel_channels.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_parallel_channels.md)
-        - [`🌀_self_consuming_cycles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_self_consuming_cycles.md)
-        - [`🌀_surveillance_as_self_fulfilling_cycle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_surveillance_as_self_fulfilling_cycle.md)
-        - [`🌀_systemic_coercion_in_federated_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_systemic_coercion_in_federated_governance.md)
         - [`🌀_when_system_behaviour_stops_making_sense.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌀_when_system_behaviour_stops_making_sense.md)
         - [`🌌_institutional_pattern_recognition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌌_institutional_pattern_recognition.md)
         - [`🎩_organisational_civility_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🎩_organisational_civility_as_containment.md)
@@ -3767,6 +3753,20 @@ _Generated on 2026-08-14 17:09:56 UTC_
         - [`⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md)
         - [`✂️_engineered_disjuncture_of_allies.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/✂️_engineered_disjuncture_of_allies.md)
         - [`✈_containment_by_crash_risk_management_and_symbolic_deletion.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/✈_containment_by_crash_risk_management_and_symbolic_deletion.md)
+        - [`❌_no_safe_exit_conditions_how_systems_trap_people_through_structure_not_chains.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/❌_no_safe_exit_conditions_how_systems_trap_people_through_structure_not_chains.md)
+        - [`❓_override_question_as_silence_breaker.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/❓_override_question_as_silence_breaker.md)
+        - [`⭕️_erosion_of_legitimacy_loops.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/⭕️_erosion_of_legitimacy_loops.md)
+        - [`🃏_the_fool_card_and_machine_innocence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🃏_the_fool_card_and_machine_innocence.md)
+        - [`🇬🇧_diet_authoritarianism_uk_homebrew.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🇬🇧_diet_authoritarianism_uk_homebrew.md)
+        - [`🇬🇧_the_uk_and_existential_delusions.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🇬🇧_the_uk_and_existential_delusions.md)
+        - [`🌀_ambiguity_as_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌀_ambiguity_as_containment.md)
+        - [`🌀_behavioural_containment_when_governance_becomes_psychology.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌀_behavioural_containment_when_governance_becomes_psychology.md)
+        - [`🌀_fall_of_institutional_integrity.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌀_fall_of_institutional_integrity.md)
+        - [`🌀_managed_transition_vs_revolution.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌀_managed_transition_vs_revolution.md)
+        - [`🌀_parallel_channels.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌀_parallel_channels.md)
+        - [`🌀_self_consuming_cycles.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌀_self_consuming_cycles.md)
+        - [`🌀_surveillance_as_self_fulfilling_cycle.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌀_surveillance_as_self_fulfilling_cycle.md)
+        - [`🌀_systemic_coercion_in_federated_governance.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌀_systemic_coercion_in_federated_governance.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
     - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
