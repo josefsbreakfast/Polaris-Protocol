@@ -1,5 +1,5 @@
 # 📜 Pre-Crime Governance in the UK  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-14  
 *How pre-crime logic entered UK civil governance through Prevent/Channel, reshaping risk, suspicion, and institutional behaviour across everyday life.*
 
 ---
@@ -236,4 +236,4 @@ It maps how pre-crime logic migrated from specialised intelligence settings into
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2026-08-14_
