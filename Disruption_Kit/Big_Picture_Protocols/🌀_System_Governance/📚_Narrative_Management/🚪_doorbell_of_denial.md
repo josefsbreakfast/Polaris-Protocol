@@ -1,5 +1,5 @@
 # 🚪 Doorbell of Denial  
-**First created:** 2025-11-03 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-03 | **Last updated:** 2026-08-14  
 *A Flowchart for Modern Accountability Encounters*  
 
 ---
@@ -133,4 +133,4 @@ It examines the ritual aesthetics of doorstep journalism and accountability enco
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
