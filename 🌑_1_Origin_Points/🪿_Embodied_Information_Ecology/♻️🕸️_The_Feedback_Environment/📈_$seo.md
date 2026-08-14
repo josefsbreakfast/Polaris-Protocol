@@ -2,9 +2,11 @@
 
 **First created:** 2026-08-14 \| **Last updated:** 2026-08-14\
 *How interventions in information systems can leak into markets, and
-market behaviour can leak back into information systems.*
+market behaviour can leak back into information systems.*  
 
-------------------------------------------------------------------------
+<!-- Look at 24hr $YETI. I’m howling. 🤣🤣🤣-->
+
+---
 
 ## 🛰️ Orientation
 
