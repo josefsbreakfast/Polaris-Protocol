@@ -1,5 +1,5 @@
 # 🛰️ Risk Logic & the Disappearing Public Surgery  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
 *How security cultures have replaced access cultures in representative democracy.*  
 
 ---
@@ -87,4 +87,4 @@ It documents how security frameworks have silently replaced the public’s right
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-14_
