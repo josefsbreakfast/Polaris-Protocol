@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-14 20:42:00 UTC_
+_Generated on 2026-08-14 20:50:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -117,22 +117,6 @@ _Generated on 2026-08-14 20:42:00 UTC_
         - [`🧿_unit_8200_is_not_hiding_what_it_is.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧿_unit_8200_is_not_hiding_what_it_is.md)
         - [`🩺_fixing_the_nhs_frankenstack.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🩺_fixing_the_nhs_frankenstack.md)
       - [**🧠_Apparatchik_Philosophy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/)
-        - [`🦴_reputational_management_as_harm_producing_system.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🦴_reputational_management_as_harm_producing_system.md)
-        - [`🧠_cognitive_feedback_and_bureaucratic_amplification.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_cognitive_feedback_and_bureaucratic_amplification.md)
-        - [`🧠_continuity_creates_blindness.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_continuity_creates_blindness.md)
-        - [`🧠_cross_silo_reflex_mismatch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_cross_silo_reflex_mismatch.md)
-        - [`🧠_didnt_apply_brain_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_didnt_apply_brain_loop.md)
-        - [`🧠_epistemic_asymmetry_in_security_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_epistemic_asymmetry_in_security_systems.md)
-        - [`🧠_how_reasonable_people_reach_the_wrong_conclusion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_how_reasonable_people_reach_the_wrong_conclusion.md)
-        - [`🧠_hypervigilance_as_governance_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_hypervigilance_as_governance_failure.md)
-        - [`🧠_ideology_without_conspiracy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_ideology_without_conspiracy.md)
-        - [`🧠_institutional_weather_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_institutional_weather_systems.md)
-        - [`🧠_political_black_box_logic.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_political_black_box_logic.md)
-        - [`🧠_principled_escalation_vs_risk_based_institutions.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_principled_escalation_vs_risk_based_institutions.md)
-        - [`🧠_the_black_box_of_executive_power.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_the_black_box_of_executive_power.md)
-        - [`🧠_the_men_had_a_plan.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_the_men_had_a_plan.md)
-        - [`🧠_the_ministry_of_overconfident_misreadings.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_the_ministry_of_overconfident_misreadings.md)
-        - [`🪖_why_intelligence_agencies_dont_understand_joy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🪖_why_intelligence_agencies_dont_understand_joy.md)
         - [`🪞_asymmetrical_recognition_as_achilles_heel.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🪞_asymmetrical_recognition_as_achilles_heel.md)
         - [`🪞_britain_misunderstands_russia_because_britain_misunderstands_itself.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🪞_britain_misunderstands_russia_because_britain_misunderstands_itself.md)
         - [`🪞_cross_context_verification_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🪞_cross_context_verification_failure.md)
@@ -3748,6 +3732,22 @@ _Generated on 2026-08-14 20:42:00 UTC_
         - [`🐐_old_school_scapegoating.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🐐_old_school_scapegoating.md)
         - [`🗂️_when_the_system_realises_it_fucked_up.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🗂️_when_the_system_realises_it_fucked_up.md)
         - [`🚀_procedure_vs_perception.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🚀_procedure_vs_perception.md)
+        - [`🦴_reputational_management_as_harm_producing_system.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🦴_reputational_management_as_harm_producing_system.md)
+        - [`🧠_cognitive_feedback_and_bureaucratic_amplification.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🧠_cognitive_feedback_and_bureaucratic_amplification.md)
+        - [`🧠_continuity_creates_blindness.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🧠_continuity_creates_blindness.md)
+        - [`🧠_cross_silo_reflex_mismatch.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🧠_cross_silo_reflex_mismatch.md)
+        - [`🧠_didnt_apply_brain_loop.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🧠_didnt_apply_brain_loop.md)
+        - [`🧠_epistemic_asymmetry_in_security_systems.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🧠_epistemic_asymmetry_in_security_systems.md)
+        - [`🧠_how_reasonable_people_reach_the_wrong_conclusion.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🧠_how_reasonable_people_reach_the_wrong_conclusion.md)
+        - [`🧠_hypervigilance_as_governance_failure.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🧠_hypervigilance_as_governance_failure.md)
+        - [`🧠_ideology_without_conspiracy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🧠_ideology_without_conspiracy.md)
+        - [`🧠_institutional_weather_systems.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🧠_institutional_weather_systems.md)
+        - [`🧠_political_black_box_logic.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🧠_political_black_box_logic.md)
+        - [`🧠_principled_escalation_vs_risk_based_institutions.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🧠_principled_escalation_vs_risk_based_institutions.md)
+        - [`🧠_the_black_box_of_executive_power.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🧠_the_black_box_of_executive_power.md)
+        - [`🧠_the_men_had_a_plan.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🧠_the_men_had_a_plan.md)
+        - [`🧠_the_ministry_of_overconfident_misreadings.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🧠_the_ministry_of_overconfident_misreadings.md)
+        - [`🪖_why_intelligence_agencies_dont_understand_joy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🪖_why_intelligence_agencies_dont_understand_joy.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
     - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
