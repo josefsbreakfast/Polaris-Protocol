@@ -1,5 +1,5 @@
 # 📡 Institutional Risk Posture Diagnostics  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
 *A diagnostic tool for reading an institution’s current risk posture through tone, behaviour, micro‑signals, and procedural choices — enabling survivors and analysts to understand what mode the institution is in without needing internal access.*  
 
 ---
@@ -223,4 +223,4 @@ Pairs with:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-08-14_
