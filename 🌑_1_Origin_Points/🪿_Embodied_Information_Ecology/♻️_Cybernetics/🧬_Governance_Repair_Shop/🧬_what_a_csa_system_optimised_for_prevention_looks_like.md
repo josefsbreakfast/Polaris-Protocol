@@ -1,5 +1,5 @@
 # 🧬 What a CSA System Optimised for Prevention Looks Like  
-**First created:** 2025-12-20 | **Last updated:** 2026-05-18  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-14  
 *Designing child sexual abuse prevention as public safety infrastructure, not moral aftercare.*  
 
 ---
@@ -248,4 +248,4 @@ It documents how child protection fails when systems prioritise punishment optic
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-14_
