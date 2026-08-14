@@ -1,5 +1,5 @@
 # 🗑️ Bin2Win
-**First created:** 2026-08-13 | **Last updated:** 2026-08-13  
+**First created:** 2026-08-13 | **Last updated:** 2026-08-14  
 *What a parody candidate can change without having to win.*
 
 ---
@@ -420,10 +420,13 @@ But:
 
 *Follow the evidence:*  
 
-- [📰: The Independent: “Clacton by-election poll tracker: Could Count Binface deliver a huge upset to Nigel Farage?”](https://www.independent.co.uk/news/uk/politics/clacton-by-election-polls-nigel-farage-count-binface-b3032260.html) - *quality graphs*
+- [📰: The Independent: “Clacton by-election poll tracker: Could Count Binface deliver a huge upset to Nigel Farage?”](https://www.independent.co.uk/news/uk/politics/clacton-by-election-polls-nigel-farage-count-binface-b3032260.html) - *quality graphs*  
 - [📹: Supertanskiii: “Binface Mania In Clacton As Voters Reject Farage!”](https://youtube.com/shorts/j5UiawlA37c?is=KOHXX57PJB2vWkPr)
 - [📹: Onlooker:: “COUNT BINFACE: The Strange History of Britain's Political Jokers”](https://youtu.be/1JAPHyNJkzU?is=PpWVky58RbrH3GxG)
-- [🎞️: *The Great Dictator* speech](https://youtu.be/J7GY1Xg6X20?is=1Djd7ERUgh_jIqUP)  
+- [🎞️: *The Great Dictator* speech](https://youtu.be/J7GY1Xg6X20?is=1Djd7ERUgh_jIqUP)
+- [📹: Sky News: “Count Binface spoke to Sky's Jon Craig as counting got underway at the Clacton by-election”](https://vm.tiktok.com/ZGdxa6tKs/)
+- [📹: Count Binface: Naze Tower](https://vm.tiktok.com/ZGdxadfC3/) – *“I believe Clacton deserves an MP who will spend their time shining a light on everything the area has to offer. And why wait till I'm elected? I've been to visit one of the constituency's most stunning landmarks.”*  
+- [📹: Count Binface: Manifesto on Martello Tower F](https://vm.tiktok.com/ZGdx5Tvy7/) – *”Oh I do like to be beside (Clacton) seaside. Oh I do like ice creams at 99p...”*  
 
 ---
 
@@ -445,7 +448,7 @@ It uses the 2026 Clacton by-election to examine political satire as democratic i
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-13_
+_Last updated: 2026-08-14_
 
 
 <!--
