@@ -1,5 +1,5 @@
 # 📠 The 72-Hour Comedy of Compliance  
-**First created:** 2025-10-31 | **Last updated:** 2025-12-10  
+**First created:** 2025-10-31 | **Last updated:** 2026-08-14  
 *Why the moment designed for transparency becomes the loudest silence in bureaucracy.*  
 
 ---
@@ -100,4 +100,4 @@ It belongs to the same constellation as:
 
 > *When silence is compliance, everyone sounds guilty.*
 
-_Last updated: 2025-12-10_  
+_Last updated: 2026-08-14_  
