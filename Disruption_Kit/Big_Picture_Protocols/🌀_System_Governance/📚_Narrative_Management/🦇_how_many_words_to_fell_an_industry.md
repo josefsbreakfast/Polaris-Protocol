@@ -1,5 +1,5 @@
 # 🦇 How Many Words to Fell an Industry  
-**First created:** 2025-11-04 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-04 | **Last updated:** 2026-08-14  
 *On the grammar of collapse and the violence of phrasing.*  
 
 ---
@@ -188,4 +188,4 @@ The node focuses on semantic erosion as an indicator of structural instability, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
