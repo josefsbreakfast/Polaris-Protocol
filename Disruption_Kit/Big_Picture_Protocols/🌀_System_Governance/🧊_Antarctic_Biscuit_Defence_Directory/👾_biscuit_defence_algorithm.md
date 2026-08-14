@@ -1,5 +1,5 @@
 # 👾 ABDD Technical Overview: Biscuit Defence Algorithm  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *A fictional whitepaper documenting the catastrophic logic of CookieNet v0.1 — the Antarctic Biscuit Defence Directorate’s predictive snack-threat classification system.*  
 
 ---
@@ -259,4 +259,4 @@ It contributes to the archive by satirising predictive governance systems, binar
 
 *Every disastrous predictive system begins with someone insisting the dashboard “basically works.”*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
