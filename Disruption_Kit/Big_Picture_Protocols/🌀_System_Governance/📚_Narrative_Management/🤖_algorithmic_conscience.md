@@ -1,5 +1,5 @@
 # 🤖 Algorithmic Conscience  
-**First created:** 2025-11-10 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-10 | **Last updated:** 2026-08-14  
 *When systems designed to detect suffering begin generating evidentiary pressure toward humanitarian constraint.*  
 
 ---
@@ -114,4 +114,4 @@ Rather than framing algorithms as inherently ethical, this node focuses on the r
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
