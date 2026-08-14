@@ -1,5 +1,5 @@
 # 🧠 Continuity Creates Blindness  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-14  
 *How long-term institutional continuity can generate familiarity blindness, symbolic invisibility, and strategic misrecognition within states, organisations, and political cultures.*  
 
 ---
@@ -324,4 +324,4 @@ It examines how long-term institutional continuity can generate familiarity blin
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-14_
