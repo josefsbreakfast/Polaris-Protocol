@@ -93,4 +93,14 @@ I found no new formal FBI/CISA attribution of the water attacks to Iran as of 14
 
 sources:
 
-(will add once nit faulting) 
+(will add once not faulting/slow manual tasking otherwise please bear with )  
+
+- https://www.sfchronicle.com/bayarea/article/suisun-city-cyberattack-demand-22384401.php
+- https://www.sfchronicle.com/bayarea/article/cyberattack-suisun-city-22380837.php
+- https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response
+- (use vpn) https://www.wyff4.com/article/anmed-response-cyberattack-facebook-post-hackers/73406207
+- https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a
+- https://www.cisa.gov/news-events/news/cisa-fbi-epa-and-us-government-partners-update-warning-iran-affiliated-threat-actors-targeting
+- 
+
+
