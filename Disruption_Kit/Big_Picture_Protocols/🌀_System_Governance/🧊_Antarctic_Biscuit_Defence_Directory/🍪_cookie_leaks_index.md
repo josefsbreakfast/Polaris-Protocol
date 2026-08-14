@@ -1,5 +1,5 @@
 # 🍪 CookieLeaks Index  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *A running archive of CookieLeaks disclosures — documenting operational mishaps, institutional embarrassment, bureaucratic spin, and the slow public collapse of Antarctic Biscuit Defence Directorate credibility.*  
 
 ---
@@ -137,4 +137,4 @@ It contributes to the archive by cataloguing the Antarctic Biscuit Defence Direc
 
 *Every institution eventually develops a leak archive longer than its official mission statement.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
