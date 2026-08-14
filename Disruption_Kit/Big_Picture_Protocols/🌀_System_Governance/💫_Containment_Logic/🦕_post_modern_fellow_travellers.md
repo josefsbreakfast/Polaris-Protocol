@@ -1,5 +1,5 @@
 # 🦕 Post-Modern Fellow Travellers  
-**First created:** 2025-11-16 | **Last updated:** 2026-03-17  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
 *How non-malicious actors enable authoritarian outcomes inside behavioural-surveillance systems.*
 
 ---
@@ -173,4 +173,4 @@ It examines how ordinary procedural behaviour — not malice — produces author
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-03-17_
+_Last updated: 2026-08-14_
