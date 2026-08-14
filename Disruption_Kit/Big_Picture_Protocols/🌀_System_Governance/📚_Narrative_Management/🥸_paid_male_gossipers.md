@@ -1,5 +1,5 @@
 # 🥸 Paid Male Gossipers  
-**First created:** 2025-11-04 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-04 | **Last updated:** 2026-08-14  
 *An anthropological field guide to the men who invoice for hearsay.*  
 
 ---
@@ -164,4 +164,4 @@ The node focuses less on individuals than on the broader prestige systems that c
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
