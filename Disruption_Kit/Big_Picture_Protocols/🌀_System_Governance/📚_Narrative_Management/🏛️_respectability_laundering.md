@@ -1,5 +1,5 @@
 # 🏛️ Respectability Laundering  
-**First created:** 2025-11-22 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-14  
 *How legitimacy, institutional aesthetics, and epistemic authority can shelter, transmit, soften, or normalise contested ideas.*  
 
 ---
@@ -326,4 +326,4 @@ It examines how institutions, aesthetics, and legitimacy systems shape public pe
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
