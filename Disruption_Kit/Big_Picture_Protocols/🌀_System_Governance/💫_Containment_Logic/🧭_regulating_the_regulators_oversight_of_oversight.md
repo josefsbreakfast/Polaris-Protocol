@@ -1,5 +1,5 @@
 # 🧭 Regulating the Regulators — Oversight of Oversight  
-**First created:** 2025-10-23 | **Last updated:** 2025-12-19  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-14  
 *When accountability itself requires supervision.*  
 
 ---
@@ -65,4 +65,4 @@ This node belongs to the **🧿 Watch the Watchers** cluster within *Expression 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-08-14_
