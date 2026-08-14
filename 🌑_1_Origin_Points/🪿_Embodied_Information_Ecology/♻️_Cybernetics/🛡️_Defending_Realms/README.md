@@ -1,5 +1,5 @@
 # 🛡️ Defending Realms  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-12 | **Last updated:** 2026-08-14  
 *How systems decide what must be protected, who is allowed inside the walls, and what forms of defence eventually become indistinguishable from containment.*  
 
 ---
@@ -197,4 +197,4 @@ It examines the governance of protection, continuity, resilience, and the unstab
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
