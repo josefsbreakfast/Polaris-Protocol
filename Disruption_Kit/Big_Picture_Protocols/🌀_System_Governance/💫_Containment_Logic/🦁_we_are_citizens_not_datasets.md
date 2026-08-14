@@ -1,5 +1,5 @@
 # 🦁 We Are Citizens, Not Datasets  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
 *How governance now hears statistical abstractions instead of human beings.*  
 
 ---
@@ -84,4 +84,4 @@ It examines how datafication has supplanted direct political hearing, and why re
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-08-14_
