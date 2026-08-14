@@ -1,5 +1,5 @@
 # ⚖️ Health vs Justice Reflex Split  
-**First created:** 2025-11-22 | **Last updated:** 2026-04-24  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-14  
 *A comparative governance node examining how healthcare and justice systems may respond differently to emerging risk—and how this divergence can affect multi-agency outcomes.*  
 
 ---
@@ -168,4 +168,4 @@ It examines how differing institutional mandates can produce contrasting respons
 > - [⚖️ Courts as Sites of Harm](../⚖️_Legal_State_Governance/⚖️_courts_as_sites_of_harm.md)  
 > - [🩺 Governing Doctors in the UK](../💫_Containment_Logic/🩺_governing_doctors_in_uk.md)  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-14_
