@@ -1,5 +1,5 @@
 # 📚 Crisis Theatre  
-**First created:** 2025-09-14 | **Last updated:** 2026-05-11  
+**First created:** 2025-09-14 | **Last updated:** 2026-08-14  
 *How emergencies, spectacle, and crisis framing can be used to expand governance powers, reshape public behaviour, and normalise exceptional measures.*
 
 ---
@@ -357,4 +357,4 @@ It examines how emergencies, media spectacle, and governance incentives can inte
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
