@@ -1,5 +1,5 @@
 # 🚩 Angleland Ahoy!  
-**First created:** 2025-09-29  |  **Last updated:** 2025-10-04  
+**First created:** 2025-09-29  |  **Last updated:** 2026-08-14  
 *A Capture-the-Flag-cum-Regime-Change parody RPG about who really runs Angleland when everyone claims to love the flag.*
 
 ---
@@ -84,4 +84,4 @@ Angleland was never invaded; it was **procured**.
 Roll for Public Consultation.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2026-08-14_
