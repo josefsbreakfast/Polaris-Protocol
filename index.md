@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-14 19:19:36 UTC_
+_Generated on 2026-08-14 19:30:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -118,7 +118,6 @@ _Generated on 2026-08-14 19:19:36 UTC_
         - [`🩺_fixing_the_nhs_frankenstack.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🩺_fixing_the_nhs_frankenstack.md)
       - [**🧠_Apparatchik_Philosophy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/README.md)
-        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/notes.txt)
         - [`🌍_states_are_never_homogeneous.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🌍_states_are_never_homogeneous.md)
         - [`🌫️_saint_petersburg_is_not_london.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🌫️_saint_petersburg_is_not_london.md)
         - [`🏗️_skyscraper_over_pebbles.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🏗️_skyscraper_over_pebbles.md)
