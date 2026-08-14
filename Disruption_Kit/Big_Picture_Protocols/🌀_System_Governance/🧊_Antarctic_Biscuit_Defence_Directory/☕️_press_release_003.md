@@ -1,5 +1,5 @@
 # ☕️ Biscuit Press: Release 003  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *Special correspondence edition compiling reader mail, operational denials, legal threats, and penguin complaints following the expanding ABDD disclosure crisis.*  
 
 ---
@@ -148,4 +148,4 @@ It contributes to the archive by documenting the fragmented civilian, legal, and
 
 *Every institutional crisis eventually reaches the letters page.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
