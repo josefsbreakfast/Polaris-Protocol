@@ -1,5 +1,5 @@
 # ⚡ Escalation Triggers — When HR Fails and Oversight Must Act  
-**First created:** 2025-10-26 | **Last updated:** 2026-04-24  
+**First created:** 2025-10-26 | **Last updated:** 2026-08-14  
 *Indicative thresholds at which a misclassified “HR issue” may require escalation into protective-security or governance handling.*  
 
 ---
@@ -132,4 +132,4 @@ It maps common signals indicating when incidents may require escalation beyond H
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-14_
