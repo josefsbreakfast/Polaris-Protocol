@@ -1,5 +1,5 @@
 # 🧭 Are We Fascist Yet?  
-**First created:** 2025-11-09 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-09 | **Last updated:** 2026-08-14  
 *A UK-specific diagnostic for recognising protofascist drift before collapse.*  
 
 ---
@@ -78,4 +78,4 @@ It documents the UK’s protofascist condition and maps civic strategies for con
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-08-14_
