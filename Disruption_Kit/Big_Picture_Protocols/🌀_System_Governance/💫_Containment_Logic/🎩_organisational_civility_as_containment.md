@@ -1,5 +1,5 @@
 # 🎩 Organisational Civility as Containment — How Etiquette Replaces Ethics  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-14  
 *Civility is never neutral. In abusive or compromised systems, it becomes a weapon that suppresses truth, protects power, and punishes moral clarity.*  
 
 ---
@@ -245,4 +245,4 @@ It documents how institutions wield etiquette to silence truth, protect power, a
 
 *Survivor authorship is sovereign. Civility protects power — not people.*
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-08-14_
