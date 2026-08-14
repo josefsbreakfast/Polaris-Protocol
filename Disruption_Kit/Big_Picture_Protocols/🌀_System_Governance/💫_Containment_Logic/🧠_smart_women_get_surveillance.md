@@ -1,5 +1,5 @@
 # 🧠 Smart Women Get Surveillance  
-**First created:** 2025-10-30 | **Last updated:** 2025-10-30  
+**First created:** 2025-10-30 | **Last updated:** 2026-08-14  
 *Why intelligence in the wrong packaging reads as threat.*
 
 ---
@@ -81,4 +81,4 @@ It documents how institutional bias transforms female intellect into anomaly and
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-30_
+_Last updated: 2026-08-14_
