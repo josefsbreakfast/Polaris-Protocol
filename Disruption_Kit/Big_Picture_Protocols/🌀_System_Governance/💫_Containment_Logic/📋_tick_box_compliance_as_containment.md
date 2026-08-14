@@ -1,5 +1,5 @@
 # 📋 Tick-Box Compliance as Containment  
-**First created:** 2025-09-25 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-25 | **Last updated:** 2026-08-14  
 *Institutional minimalism that simulates accountability while erasing systemic responsibility.*  
 
 ---
@@ -56,4 +56,4 @@ It documents how institutional minimalism transforms compliance into a tool of s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-14_
