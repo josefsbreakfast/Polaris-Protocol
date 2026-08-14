@@ -1,5 +1,5 @@
 # 🧭 Leadership, Management & Moral Containment  
-**First created:** 2025-11-10 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-10 | **Last updated:** 2026-08-14  
 *Why Polaris studies operational style even when the outcome is ethically fraught.*  
 
 ---
@@ -55,4 +55,4 @@ It explains why ethically ambiguous examples remain valuable: they show how oper
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-08-14_
