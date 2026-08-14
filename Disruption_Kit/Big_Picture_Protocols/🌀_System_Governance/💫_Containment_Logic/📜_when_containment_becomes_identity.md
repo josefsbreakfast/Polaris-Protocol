@@ -1,5 +1,5 @@
 # 📜 When Containment Becomes Identity  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-14  
 *Forcing heart and sinew to serve your turn: discipline after purpose collapses.*  
 
 ---
@@ -39,4 +39,4 @@ kipling, containment, discipline, identity, resilience
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-08-14_
