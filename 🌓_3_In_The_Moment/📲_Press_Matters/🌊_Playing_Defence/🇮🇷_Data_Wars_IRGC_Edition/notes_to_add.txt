@@ -203,5 +203,5 @@ The actor claim does not independently prove authorship, state tasking, or commo
 
 sources:  
 
-- 
-- 
+- https://www.tenable.com/blog/coordinated-cyberattack-on-minnesota-water-utilities-what-you-need-to-know
+- https://apnews.com/article/cyberattack-minnesota-water-systems-77d52a1d7356e608500a1ddb0ec373a6
