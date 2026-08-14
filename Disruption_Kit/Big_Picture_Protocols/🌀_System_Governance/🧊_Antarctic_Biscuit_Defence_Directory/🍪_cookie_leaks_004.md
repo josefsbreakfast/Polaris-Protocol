@@ -1,5 +1,5 @@
 # 🍪 CookieLeaks 004  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *Some leaks do not require hackers — only morale, hashtags, and catastrophically poor operational judgement.*  
 
 ---
@@ -158,4 +158,4 @@ It contributes to the archive by documenting the ABDD’s catastrophic encounter
 
 *No security architecture survives sustained exposure to hashtags and good lighting.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
