@@ -1,5 +1,5 @@
 # 🔍 Institutional Freeze Patterns  
-**First created:** 2025-11-16 | **Last updated:** 2026-01-06  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
 *Why institutions stall, slow down, or become hyper-formal around survivor cases involving coercive, litigious, or system-embedded actors — and how to recognise when freeze is a structural reflex rather than personal rejection.*  
 
 ---
@@ -199,4 +199,4 @@ institutional freeze, procedural fear, coercive actors, survivor support delay, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-14_
