@@ -1,5 +1,5 @@
 # 📚 Forensic Silence  
-**First created:** 2025-09-14 | **Last updated:** 2026-05-11  
+**First created:** 2025-09-14 | **Last updated:** 2026-08-14  
 *How absences, omissions, and missing records can become analytically meaningful within institutional, archival, and governance systems.*
 
 ---
@@ -211,4 +211,4 @@ It examines how absences, omissions, inaccessible records, and institutional non
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
