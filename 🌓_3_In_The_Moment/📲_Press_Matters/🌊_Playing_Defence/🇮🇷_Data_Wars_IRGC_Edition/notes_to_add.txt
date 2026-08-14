@@ -88,3 +88,9 @@ healthcare
 So the meaningful shift is more clustering across essential functions without corresponding convergence in attribution. That actually strengthens the pack’s need to keep pattern confidence separate from common-operator confidence. The U.S. water campaign remains the standout Iran-relevant element because federal warnings specifically describe ongoing Iranian-affiliated targeting of internet-connected OT, while the FBI’s current water alert documents attackers changing PLC settings, credentials and connectivity in ways that caused operational disruption.  
 
 I found no new formal FBI/CISA attribution of the water attacks to Iran as of 14 August, and no credible new energy, banking, defence or telecommunications incident that clears the threshold for notification.
+
+
+
+sources:
+
+(will add once nit faulting) 
