@@ -1,5 +1,5 @@
 # ☕️ Biscuit Press: Release 001  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *The inaugural ABDD media incident: leaked operational panic, emergency narrative management, and the first attempt to publicly explain the impossible without technically admitting anything.*  
 
 ---
@@ -136,4 +136,4 @@ It contributes to the archive by documenting the precise moment an impossible op
 
 *The first rule of the Egg Affair is that nobody explains the Egg Affair.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
