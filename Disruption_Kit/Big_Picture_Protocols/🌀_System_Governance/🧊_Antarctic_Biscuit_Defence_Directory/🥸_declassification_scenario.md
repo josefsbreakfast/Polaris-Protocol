@@ -1,5 +1,5 @@
 # 🥸 Declassification Scenario  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *A satirical contingency scenario modelling what happens when the Antarctic Biscuit Defence Directorate’s operational mythology collides catastrophically with public record, international press, and deeply online spectatorship.*  
 
 <!--"Can I offer you an egg, in this trying time?-->
@@ -287,4 +287,4 @@ It contributes to the archive by modelling the collapse of institutional secrecy
 
 *Every secret programme eventually becomes either a parliamentary inquiry or a meme thread. Occasionally both.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
