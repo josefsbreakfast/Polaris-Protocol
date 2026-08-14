@@ -1,5 +1,5 @@
 # 🌀 Behavioural Containment — When Governance Becomes Psychology  
-**First created:** 2025-11-11 | **Last updated:** 2025-12-29  
+**First created:** 2025-11-11 | **Last updated:** 2026-08-14  
 *When systems explain dissent as disorder.*  
 
 ---
@@ -106,4 +106,4 @@ It maps how systems use mental health framing to convert legitimate structural c
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-08-14_
