@@ -1,5 +1,5 @@
 # 🦠 Hybrid Threat Overlay — External Exploitation of Domestic Oversight Gaps  
-**First created:** 2025-10-13 | **Last updated:** 2026-05-12  
+**First created:** 2025-10-13 | **Last updated:** 2026-08-14  
 *A systems-risk model showing how foreign or unauthorised actors could exploit domestic legal porosity and R&D pilots.*  
 
 ---
@@ -163,4 +163,4 @@ It is not an allegation of real conduct and is written for governance-design ana
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-08-14_
