@@ -1,5 +1,5 @@
 # 🧩 The Last Archive Continuum — From Lepore to Metadata Sabotage  
-**First created:** 2025-10-30  |  **Last updated:** 2025-10-30  
+**First created:** 2025-10-30  |  **Last updated:** 2026-08-14  
 *What happened to truth, and how it was version-controlled to death.*
 
 ---
@@ -91,4 +91,4 @@ It maps how the historical collapse of shared truth continues through digital ar
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-30_
+_Last updated: 2026-08-14_
