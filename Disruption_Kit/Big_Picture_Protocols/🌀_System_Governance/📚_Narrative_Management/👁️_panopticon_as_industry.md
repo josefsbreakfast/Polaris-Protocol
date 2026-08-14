@@ -1,5 +1,5 @@
 # 👁️ Panopticon as Industry  
-**First created:** 2025-11-18 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-14  
 *How surveillance, behavioural visibility, and administrative legibility became scalable governance infrastructure in modern societies.*
 
 ---
@@ -385,4 +385,4 @@ It examines how surveillance technologies, behavioural visibility, and administr
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
