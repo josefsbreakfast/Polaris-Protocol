@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-14 01:10:40 UTC_
+_Generated on 2026-08-14 01:15:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3732,6 +3732,7 @@ _Generated on 2026-08-14 01:10:40 UTC_
       - [**👑_Ownership_Control/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/👑_Ownership_Control/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/👑_Ownership_Control/README.md)
         - [`bottleneck_mapping_log_template.csv`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/👑_Ownership_Control/bottleneck_mapping_log_template.csv)
+        - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/👑_Ownership_Control/notes.txt)
         - [`panic_deleting_evidence.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/👑_Ownership_Control/panic_deleting_evidence.png)
         - [`⚖️_accountability_as_alignment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/👑_Ownership_Control/⚖️_accountability_as_alignment.md)
         - [`⚖️_acknowledgement_tradeoffs_in_data_fixing.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/👑_Ownership_Control/⚖️_acknowledgement_tradeoffs_in_data_fixing.md)
