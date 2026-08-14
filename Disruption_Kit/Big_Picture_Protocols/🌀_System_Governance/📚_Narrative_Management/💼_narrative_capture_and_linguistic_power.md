@@ -1,5 +1,5 @@
 # 💼 Narrative Capture & Linguistic Power  
-**First created:** 2025-12-12 | **Last updated:** 2026-05-11  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-14  
 *How institutional incentives can shape public discourse around harm, responsibility, and governance through framing rather than overt suppression.*
 
 ---
@@ -185,4 +185,4 @@ It examines how institutional incentives, governance structures, and discourse-f
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
