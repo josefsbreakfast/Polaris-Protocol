@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-14 18:33:02 UTC_
+_Generated on 2026-08-14 18:39:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -67,21 +67,6 @@ _Generated on 2026-08-14 18:33:02 UTC_
         - [`🩸_operation_shande.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🩸_operation_shande.md)
         - [`🫁_oxygen_and_oversight.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🫁_oxygen_and_oversight.md)
         - [`🫖_velvet_containment_machine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/📚_Narrative_Management/🫖_velvet_containment_machine.md)
-      - [**🕰️_Chronos_Or_Kairos/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/README.md)
-        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/notes.txt)
-        - [`⏳_chronos_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/⏳_chronos_as_containment.md)
-        - [`⏳_governance_latency.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/⏳_governance_latency.md)
-        - [`⏳_hinge_point_when_delay_becomes_liability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/⏳_hinge_point_when_delay_becomes_liability.md)
-        - [`⚡_tempo_differential.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/⚡_tempo_differential.md)
-        - [`💣_austerity_as_time_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/💣_austerity_as_time_collapse.md)
-        - [`🕰️_citizen_follow_up_timeline_security_breach.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🕰️_citizen_follow_up_timeline_security_breach.md)
-        - [`🕰️_eta_drift_and_bureaucratic_time_inflation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🕰️_eta_drift_and_bureaucratic_time_inflation.md)
-        - [`🕰️_institutional_timescales_of_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🕰️_institutional_timescales_of_repair.md)
-        - [`🕰️_national_security_and_protective_marking_exemption_timelines.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🕰️_national_security_and_protective_marking_exemption_timelines.md)
-        - [`🕰️_why_exposure_persists.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🕰️_why_exposure_persists.md)
-        - [`🦯_algorithmic_delay_and_pacing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🦯_algorithmic_delay_and_pacing.md)
-        - [`🪜_temporal_containment.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🕰️_Chronos_Or_Kairos/🪜_temporal_containment.md)
       - [**🚩_Angleland_Ahoy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/README.md)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🚩_Angleland_Ahoy/notes.txt)
@@ -4355,6 +4340,20 @@ _Generated on 2026-08-14 18:33:02 UTC_
     - [**🫀♻️_The_Body_In_The_Loop/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/.🌱_Still_Growing/notes.txt)
+      - [**🕰️_Chronos_Or_Kairos/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/)
+        - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/README.md)
+        - [`⏳_chronos_as_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/⏳_chronos_as_containment.md)
+        - [`⏳_governance_latency.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/⏳_governance_latency.md)
+        - [`⏳_hinge_point_when_delay_becomes_liability.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/⏳_hinge_point_when_delay_becomes_liability.md)
+        - [`⚡_tempo_differential.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/⚡_tempo_differential.md)
+        - [`💣_austerity_as_time_collapse.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/💣_austerity_as_time_collapse.md)
+        - [`🕰️_citizen_follow_up_timeline_security_breach.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/🕰️_citizen_follow_up_timeline_security_breach.md)
+        - [`🕰️_eta_drift_and_bureaucratic_time_inflation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/🕰️_eta_drift_and_bureaucratic_time_inflation.md)
+        - [`🕰️_institutional_timescales_of_repair.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/🕰️_institutional_timescales_of_repair.md)
+        - [`🕰️_national_security_and_protective_marking_exemption_timelines.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/🕰️_national_security_and_protective_marking_exemption_timelines.md)
+        - [`🕰️_why_exposure_persists.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/🕰️_why_exposure_persists.md)
+        - [`🦯_algorithmic_delay_and_pacing.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/🦯_algorithmic_delay_and_pacing.md)
+        - [`🪜_temporal_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/🪜_temporal_containment.md)
       - [**🧬_Algorithmic_Endocrinology/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🧬_Algorithmic_Endocrinology/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🧬_Algorithmic_Endocrinology/README.md)
         - [`🌿_algorithmic_ecology.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🧬_Algorithmic_Endocrinology/🌿_algorithmic_ecology.md)
