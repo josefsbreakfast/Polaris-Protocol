@@ -1,5 +1,5 @@
 # 🐐 Old-School Scapegoating  
-**First created:** 2025-12-17 | **Last updated:** 2026-05-11  
+**First created:** 2025-12-17 | **Last updated:** 2026-08-14  
 *Why modern institutions still reproduce ancient blame-containment dynamics — even when framed as accountability.*
 
 ---
@@ -263,4 +263,4 @@ It examines how institutions under pressure may narrow responsibility, accelerat
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
