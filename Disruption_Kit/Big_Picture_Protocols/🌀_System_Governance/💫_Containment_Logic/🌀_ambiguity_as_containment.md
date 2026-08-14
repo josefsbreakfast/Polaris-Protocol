@@ -1,5 +1,5 @@
 # 🌀 Ambiguity as Containment  
-**First created:** 2025-09-14 | **Last updated:** 2025-12-29  
+**First created:** 2025-09-14 | **Last updated:** 2026-08-14  
 *Rules written so vaguely that survivors are trapped in a bureaucratic fog — uncertainty becomes the cage.*  
 
 ---
@@ -77,4 +77,4 @@ It maps how vague rules and unclear expectations create strategic fog that preve
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-08-14_
