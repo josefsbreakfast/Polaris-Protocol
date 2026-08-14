@@ -1,5 +1,5 @@
 # 🧮 DeepThought DataGov Problem  
-**First created:** 2025-11-03 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-03 | **Last updated:** 2026-08-14  
 *The moment when a civilisation builds a machine that knows everything except what it’s for.*  
 
 ---
@@ -76,4 +76,4 @@ It names the moment when knowledge exceeds governance, and proposes that the nex
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-19_  
+_Last updated: 2026-08-14_  
