@@ -1,5 +1,5 @@
 # ⚖️ Professional Influence & Bureaucratic Capture  
-**First created:** 2025-10-31 | **Last updated:** 2026-04-24  
+**First created:** 2025-10-31 | **Last updated:** 2026-08-14  
 *How credentials and credibility systems can allow institutional bias to be reinforced through formal process.*
 
 ---
@@ -148,4 +148,4 @@ professional authority · credential influence · bureaucratic reinforcement · 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-14_
