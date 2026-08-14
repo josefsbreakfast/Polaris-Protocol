@@ -1,5 +1,5 @@
 # 🧠 Bureaucratic Fast-Thinking and Reputational Harm  
-**First created:** 2025-11-10 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-10 | **Last updated:** 2026-08-14  
 *Reflex as policy ⸺ speed as virtue.*  
 
 ---
@@ -125,4 +125,4 @@ It maps how cognitive shortcuts and reputational anxiety harden into systemic co
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-14_
