@@ -1,5 +1,5 @@
 # 📚 Over Recognition  
-**First created:** 2025-09-14 | **Last updated:** 2026-05-11  
+**First created:** 2025-09-14 | **Last updated:** 2026-08-14  
 *How institutions can absorb critique through visibility, consultation, and symbolic acknowledgment without producing proportional structural change.*
 
 ---
@@ -168,4 +168,4 @@ It examines how institutional recognition, consultation, and visibility practice
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
