@@ -1,5 +1,5 @@
 # 🌀 The Fall of Institutional Integrity  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-29  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-14  
 *A structural autopsy of how democratic institutions decay — and how it always starts in language.*  
 
 ---
@@ -87,4 +87,4 @@ It documents the structural and linguistic processes through which democratic sy
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-08-14_
