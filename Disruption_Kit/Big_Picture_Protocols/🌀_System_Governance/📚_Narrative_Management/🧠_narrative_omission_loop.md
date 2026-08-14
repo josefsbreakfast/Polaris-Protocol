@@ -1,5 +1,5 @@
 # 🧠 Narrative Omission Loop  
-**First created:** 2026-05-02 | **Last updated:** 2026-05-11  
+**First created:** 2026-05-02 | **Last updated:** 2026-08-14  
 *Diagnostic flow for identifying persistent omissions in news narratives and tracing their structural causes.*
 <!--I am embarrassed but unsurprised with how poorly this is being reported by mainstream news vehicles.-->
 ---
@@ -253,4 +253,4 @@ It functions as a rapid assessment tool for identifying structural gaps in narra
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
