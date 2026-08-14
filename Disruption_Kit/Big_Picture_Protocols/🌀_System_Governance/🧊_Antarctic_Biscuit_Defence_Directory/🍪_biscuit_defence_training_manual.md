@@ -1,5 +1,5 @@
 # 🍪 Biscuit Defence Training Manual  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *A simplified operational handbook for Antarctic Biscuit Defence Directorate field personnel, illustrating how bureaucratic systems collapse ambiguity into rigid categories, procedural suspicion, and absurd behavioural enforcement.*  
 
 ---
@@ -178,4 +178,4 @@ It contributes to the archive by satirising the reduction of human complexity in
 
 *The moment nuance becomes operationally inconvenient, a training manual usually appears shortly afterwards.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
