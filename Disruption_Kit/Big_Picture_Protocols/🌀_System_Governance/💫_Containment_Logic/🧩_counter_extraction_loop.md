@@ -1,5 +1,5 @@
 # 🧩 Counter-Extraction Loop — Reclaiming Authorship  
-**First created:** 2025-11-08 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-08 | **Last updated:** 2026-08-14  
 *A model for turning knowledge extraction and false narratives into documented authorship and systemic learning.*  
 
 ---
@@ -97,4 +97,4 @@ It pairs with *🧠 Extraction Loop — Data vs Story* to illustrate both contai
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-14_
