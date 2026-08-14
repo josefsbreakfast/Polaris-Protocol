@@ -420,6 +420,7 @@ But:
 
 *Follow the evidence:*  
 
+- [📰: BBC: “Votes being counted in Clacton by-election - Farage says he has won, but won't attend declaration”](https://www.bbc.co.uk/news/live/c5y40d11zewt)  
 - [📰: The Independent: “Clacton by-election poll tracker: Could Count Binface deliver a huge upset to Nigel Farage?”](https://www.independent.co.uk/news/uk/politics/clacton-by-election-polls-nigel-farage-count-binface-b3032260.html) - *quality graphs*  
 - [📹: Supertanskiii: “Binface Mania In Clacton As Voters Reject Farage!”](https://youtube.com/shorts/j5UiawlA37c?is=KOHXX57PJB2vWkPr)
 - [📹: Onlooker:: “COUNT BINFACE: The Strange History of Britain's Political Jokers”](https://youtu.be/1JAPHyNJkzU?is=PpWVky58RbrH3GxG)
