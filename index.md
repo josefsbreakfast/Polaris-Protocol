@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-14 17:06:21 UTC_
+_Generated on 2026-08-14 17:09:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,13 +18,6 @@ _Generated on 2026-08-14 17:06:21 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**💫_Containment_Logic/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/)
-        - [`⚖️_respectability_containment_in_professional_ethics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_respectability_containment_in_professional_ethics.md)
-        - [`⚖️_the_history_of_justice_as_spectacle.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_the_history_of_justice_as_spectacle.md)
-        - [`⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md)
-        - [`⚗️_data_contamination_chain.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚗️_data_contamination_chain.md)
-        - [`⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md)
-        - [`✂️_engineered_disjuncture_of_allies.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/✂️_engineered_disjuncture_of_allies.md)
-        - [`✈_containment_by_crash_risk_management_and_symbolic_deletion.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/✈_containment_by_crash_risk_management_and_symbolic_deletion.md)
         - [`❌_no_safe_exit_conditions_how_systems_trap_people_through_structure_not_chains.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/❌_no_safe_exit_conditions_how_systems_trap_people_through_structure_not_chains.md)
         - [`❓_override_question_as_silence_breaker.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/❓_override_question_as_silence_breaker.md)
         - [`⭕️_erosion_of_legitimacy_loops.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/⭕️_erosion_of_legitimacy_loops.md)
@@ -3767,6 +3760,13 @@ _Generated on 2026-08-14 17:06:21 UTC_
         - [`⚖️_procedural_correctness_as_safeguard.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/⚖️_procedural_correctness_as_safeguard.md)
         - [`⚖️_professional_influence_and_bureaucratic_capture.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/⚖️_professional_influence_and_bureaucratic_capture.md)
         - [`⚖️_psed_protection_logic.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/⚖️_psed_protection_logic.md)
+        - [`⚖️_respectability_containment_in_professional_ethics.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/⚖️_respectability_containment_in_professional_ethics.md)
+        - [`⚖️_the_history_of_justice_as_spectacle.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/⚖️_the_history_of_justice_as_spectacle.md)
+        - [`⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/⚖️_trial_as_civic_rite_when_justice_becomes_personal_chore.md)
+        - [`⚗️_data_contamination_chain.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/⚗️_data_contamination_chain.md)
+        - [`⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md)
+        - [`✂️_engineered_disjuncture_of_allies.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/✂️_engineered_disjuncture_of_allies.md)
+        - [`✈_containment_by_crash_risk_management_and_symbolic_deletion.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/✈_containment_by_crash_risk_management_and_symbolic_deletion.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
     - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
