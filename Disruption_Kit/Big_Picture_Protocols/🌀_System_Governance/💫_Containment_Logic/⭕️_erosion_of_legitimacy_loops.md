@@ -1,5 +1,5 @@
 # ⭕️ Erosion of Legitimacy Loops  
-**First created:** 2025‑11‑02 | **Last updated:** 2025-12-29  
+**First created:** 2025‑11‑02 | **Last updated:** 2026-08-14  
 *How scandal feedback becomes a system of governance.*  
 
 ---
@@ -119,4 +119,4 @@ trust decay, legitimacy erosion, scandal feedback, governance psychology, politi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-08-14_
