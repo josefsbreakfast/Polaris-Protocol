@@ -1,5 +1,5 @@
 # 📖 Biscuit Field Phrasebook  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *A multilingual quick-reference guide for ABDD field operatives attempting to acquire biscuits abroad without triggering diplomatic incidents, sponge confusion, or accidental gravy deployment.*  
 
 ---
@@ -173,4 +173,4 @@ It contributes to the archive by documenting the ABDD’s highly procedural appr
 
 *International peace remains achievable provided nobody accidentally requests gravy biscuits during negotiations.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
