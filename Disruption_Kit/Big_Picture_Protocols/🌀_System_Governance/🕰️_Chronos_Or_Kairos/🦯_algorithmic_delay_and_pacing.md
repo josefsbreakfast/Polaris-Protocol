@@ -1,5 +1,5 @@
 # 🦯 Algorithmic Delay and Pacing  
-**First created:** 2025-09-14 | **Last updated:** 2026-05-12  
+**First created:** 2025-09-14 | **Last updated:** 2026-08-14  
 *How governance manipulates tempo — slowing translations, stretching timelines, throttling urgency until action dies.*  
 
 ---
@@ -113,4 +113,4 @@ It documents how containment scripts manipulate time itself — slowing, stretch
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-12_  
+_Last updated: 2026-08-14_  
