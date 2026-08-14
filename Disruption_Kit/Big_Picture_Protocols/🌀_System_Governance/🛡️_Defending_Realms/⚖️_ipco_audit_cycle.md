@@ -1,5 +1,5 @@
 # ⚖️ IPCO Audit Cycle  
-**First created:** 2025-09-26 | **Last updated:** 2026-05-12  
+**First created:** 2025-09-26 | **Last updated:** 2026-08-14  
 *Oversight inspections of UK intelligence services.*  
 
 ---
@@ -248,4 +248,4 @@ It outlines the inspection and compliance processes that govern MI5, MI6, and GC
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-08-14_
