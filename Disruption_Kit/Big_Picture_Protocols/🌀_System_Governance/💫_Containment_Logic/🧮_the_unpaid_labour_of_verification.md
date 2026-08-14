@@ -1,5 +1,5 @@
 # 🧮 Data Dividend — The Unpaid Labour of Verification  
-**First created:** 2025-11-16 | **Last updated:** 2026-01-06  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
 *Why security puzzles created an invisible workforce.*  
 
 ---
@@ -60,4 +60,4 @@ It advocates for recognising the unpaid cognitive labour embedded in verificatio
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-14_
