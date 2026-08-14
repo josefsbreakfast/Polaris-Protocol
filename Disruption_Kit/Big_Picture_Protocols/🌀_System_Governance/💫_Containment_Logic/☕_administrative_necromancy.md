@@ -1,5 +1,5 @@
 # ☕ Administrative Necromancy — How British Bureaucracy Waits Problems to Death  
-**First created:** 2025-10-30 | **Last updated:** 2026-04-24  
+**First created:** 2025-10-30 | **Last updated:** 2026-08-14  
 *When in doubt, adjourn until reality expires.*  
 
 ---
@@ -103,4 +103,4 @@ It captures a recurring pattern in administrative systems where time, rather tha
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-14_
