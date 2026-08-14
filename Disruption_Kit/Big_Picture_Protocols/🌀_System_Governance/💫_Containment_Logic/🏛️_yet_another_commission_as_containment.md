@@ -1,5 +1,5 @@
 # 🏛️ Yet Another Commission as Containment  
-**First created:** 2025-11-04 | **Last updated:** 2025-11-13  
+**First created:** 2025-11-04 | **Last updated:** 2026-08-14  
 *A meditation on inquiry as deferral: how the British Empire perfected the commission as a containment device.*
 
 ---
@@ -69,4 +69,4 @@ It analyses how the British imperial habit of inquiry operates as a mechanism of
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-13_
+_Last updated: 2026-08-14_
