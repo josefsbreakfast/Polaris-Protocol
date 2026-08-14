@@ -1,5 +1,5 @@
 # 📚 The Reflex to Hide the Book  
-**First created:** 2025-11-08 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-08 | **Last updated:** 2026-08-14  
 *When critique triggers containment faster than reflection.*  
 
 ---
@@ -52,4 +52,4 @@ It analyses how suppression behaviour validates the very critiques it seeks to e
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-14_
