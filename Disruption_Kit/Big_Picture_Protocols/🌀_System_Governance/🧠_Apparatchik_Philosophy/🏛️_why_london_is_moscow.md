@@ -1,5 +1,5 @@
 # 🏛️ Why London Is Moscow  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-14  
 *Capital-city gravity, metropolitan self-reference, and why Britain and Russia produce surprisingly similar centre/periphery political psychologies.*  
 
 ---
@@ -302,4 +302,4 @@ It examines how London and Moscow function as administrative gravity wells that 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-14_
