@@ -1,5 +1,5 @@
 # 🧠 Apparatchik Philosophy  
-**First created:** 2026-05-11 | **Last updated:** 2026-05-11  
+**First created:** 2026-05-11 | **Last updated:** 2026-08-14  
 *How institutions develop internal belief systems that justify procedure, hierarchy, and self-preservation.*
 
 ---
@@ -135,4 +135,4 @@ It maps how institutions develop internal cognitive systems, procedural worldvie
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
