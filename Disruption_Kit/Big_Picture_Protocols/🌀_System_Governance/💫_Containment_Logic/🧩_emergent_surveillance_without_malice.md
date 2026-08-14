@@ -1,5 +1,5 @@
 # 🧩 Emergent Surveillance Without Malice  
-**First created:** 2025-11-07 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-14  
 *How distributed automation and institutional separation enable surveillance outcomes without explicit intent.*  
 
 ---
@@ -61,4 +61,4 @@ It documents how automated and fragmented decision systems can yield surveillanc
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-14_
