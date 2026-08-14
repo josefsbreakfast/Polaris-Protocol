@@ -1,5 +1,5 @@
 # 🕳️ Never Really Leaving — Child Abuse, Britain, and the Non-Escape  
-**First created:** 2025-11-08 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-08 | **Last updated:** 2026-08-14  
 *“He’s in prison. I’m 35. I still haven’t escaped.”*  
 
 ---
@@ -93,4 +93,4 @@ It records how a survivor can do everything “right” and still find that abus
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-14_
