@@ -1,5 +1,5 @@
 # 🕰️ Citizen Follow-Up Timeline — Restoring Safety and Trust After a Security Breach  
-**First created:** 2025-10-26 | **Last updated:** 2026-05-12  
+**First created:** 2025-10-26 | **Last updated:** 2026-08-14  
 *When the system works: how government should maintain contact, care, and closure with a citizen affected by digital interference.*  
 
 ---
@@ -103,4 +103,4 @@ It defines the humane sequence that should follow any verified security incident
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-08-14_
