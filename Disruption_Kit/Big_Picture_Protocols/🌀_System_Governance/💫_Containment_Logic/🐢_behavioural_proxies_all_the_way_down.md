@@ -1,5 +1,5 @@
 # 🐢 Behavioural Proxies All the Way Down  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-14  
 *How fascist power operates through behavioural inference rather than articulated belief.*  
 
 ---
@@ -157,4 +157,4 @@ It contributes structural analysis explaining how coercive systems operate throu
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-08-14_
