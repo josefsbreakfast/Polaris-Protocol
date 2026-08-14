@@ -1,5 +1,5 @@
 # 🛰️ Predictive Logic Sans Predictive Infrastructure  
-**First created:** 2025-11-17 | **Last updated:** 2026-05-13  
+**First created:** 2025-11-17 | **Last updated:** 2026-08-14  
 *How institutions behave as if they are running predictive-policing systems even when no such technology exists.*  
 
 ---
@@ -77,4 +77,4 @@ Cross-references:
 • PREVENT as National Behaviour Dampener
 • PREVENT Misreads
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-08-14_
