@@ -1,5 +1,5 @@
 # 🛰️ Separation-of-Systems: University ↔ Prevent ↔ MoD  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-14  
 *Why UK institutional architectures cannot be bridged by a single actor, and how harm arises from system edges rather than cross-system access.*  
 
 ---
@@ -220,4 +220,4 @@ It clarifies that cross-system harm arises from **pattern entanglement**, not **
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-14_
