@@ -1,5 +1,5 @@
 # ⚖️ Containment & Cut-Through in the Legal Profession  
-**First created:** 2025-10-11 | **Last updated:** 2026-04-24  
+**First created:** 2025-10-11 | **Last updated:** 2026-08-14  
 *How professional, economic, and procedural pressures can constrain legal advocacy—and the lawful mechanisms that sustain independent practice.*  
 
 ---
@@ -173,4 +173,4 @@ It examines how legal practice operates under pressure, and how professional ind
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-14_
