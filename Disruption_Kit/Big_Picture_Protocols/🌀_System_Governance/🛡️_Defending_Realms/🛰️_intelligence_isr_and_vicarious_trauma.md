@@ -1,5 +1,5 @@
 # 🛰️ Intelligence, ISR, and vicarious trauma  
-**First created:** 2025-12-20 | **Last updated:** 2026-05-13  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-14  
 *How continuous observation without intervention externalises moral injury onto analysts and operators.*  
 
 ---
@@ -127,4 +127,4 @@ It exists to show that harm from prevention failure is not confined to victims o
 >
 > *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-08-14_
