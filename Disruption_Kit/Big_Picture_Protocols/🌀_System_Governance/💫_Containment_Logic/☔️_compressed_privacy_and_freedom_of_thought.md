@@ -1,5 +1,5 @@
 # ☔️ Article 8 & 9 Breach Pathways — When Lawful Systems Begin to Feel Coercive  
-**First created:** 2025-10-13 | **Last updated:** 2026-04-24  
+**First created:** 2025-10-13 | **Last updated:** 2026-08-14  
 *How overlapping “lawful” processes can cumulatively narrow the lived space for privacy, belief, and dissent.*  
 
 ---
@@ -158,4 +158,4 @@ It translates legal and technical dynamics into their lived effects, mapping how
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-14_
