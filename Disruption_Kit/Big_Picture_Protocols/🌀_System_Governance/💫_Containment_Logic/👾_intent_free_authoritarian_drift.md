@@ -1,5 +1,5 @@
 # 👾 Intent-Free Authoritarian Drift
-**First created:** 2025-11-18 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-14  
 *How collapsing systems, behavioural governance, and institutional fear create authoritarian outcomes without authoritarian intent.*  
 
 ---
@@ -98,4 +98,4 @@ If drift is not recognised, systems continue to tighten around vulnerable people
 > - Predictive Logic Without Predictive Infrastructure
 > - Opportunistic Escalation in Collapsing Systems
 
-_Last updated: 2025-12-09
+_Last updated: 2026-08-14_
