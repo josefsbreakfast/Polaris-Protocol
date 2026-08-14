@@ -1,5 +1,5 @@
 # 🦑 **Toxic Systems Don’t Need Monsters — Harm Emerges from the Water Itself**  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-14  
 *People do not need to be uniquely cruel to enact cruelty. In poisoned environments, ordinary humans behave like three-eyed fish.*
 
 ---
@@ -240,4 +240,4 @@ It reframes how harm emerges in hierarchical environments and why structural tox
 
 *Survivor authorship is sovereign. Fix the water, not the fish.*
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-14_
