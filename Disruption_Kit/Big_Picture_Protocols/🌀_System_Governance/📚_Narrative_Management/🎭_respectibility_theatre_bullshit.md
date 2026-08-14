@@ -1,5 +1,5 @@
 # 🎭 Respectability Theatre — The “Serious Cross-Section” Illusion  
-**First created:** 2025-11-22 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-14  
 *How institutions, political movements, and influence networks manufacture legitimacy through optics, association, and borrowed credibility.*
 
 ---
@@ -409,4 +409,4 @@ It examines how political and institutional actors manufacture legitimacy throug
 
 *Survivor authorship is sovereign. If the room urgently requires your credibility, it is worth asking why it cannot generate its own.*  
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
