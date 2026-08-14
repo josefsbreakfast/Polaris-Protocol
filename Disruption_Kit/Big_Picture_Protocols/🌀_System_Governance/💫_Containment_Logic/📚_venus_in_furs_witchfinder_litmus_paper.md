@@ -1,5 +1,5 @@
 # 📚 Venus in Furs as Witchfinder Litmus Paper  
-**First created:** 2025-10-24 | **Last updated:** 2025-12-10  
+**First created:** 2025-10-24 | **Last updated:** 2026-08-14  
 *How moral reflexes betray algorithmic repression.*
 
 ---
@@ -156,4 +156,4 @@ It proposes humour as method and literature as instrument: a way to detect repre
 > – [🧭 Governance and Oversight in Algorithmic Health] — *policy parallels*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-10_
+_Last updated: 2026-08-14_
