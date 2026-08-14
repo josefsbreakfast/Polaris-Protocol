@@ -1,5 +1,5 @@
 # 🪖 A Previous Cabinet’s Errors  
-**First created:** 2025-12-24 | **Last updated:** 2026-01-06  
+**First created:** 2025-12-24 | **Last updated:** 2026-08-14  
 *How a single governance error can compound, scale, and enlarge over time.*  
 
 ---
@@ -141,4 +141,4 @@ It documents how unresolved political and governance decisions can compound over
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-14_
