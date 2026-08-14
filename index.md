@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-14 17:47:11 UTC_
+_Generated on 2026-08-14 17:54:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,18 +18,6 @@ _Generated on 2026-08-14 17:47:11 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**💫_Containment_Logic/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/)
-        - [`🧩_asymmetric_democratic_policing.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_asymmetric_democratic_policing.md)
-        - [`🧩_colonial_scripts_in_modern_bureaucracies.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_colonial_scripts_in_modern_bureaucracies.md)
-        - [`🧩_containment_economics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_containment_economics.md)
-        - [`🧩_counter_extraction_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_counter_extraction_loop.md)
-        - [`🧩_cross_group_solidarity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_cross_group_solidarity.md)
-        - [`🧩_diaspora_instability_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_diaspora_instability_patterns.md)
-        - [`🧩_emergent_surveillance_without_malice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_emergent_surveillance_without_malice.md)
-        - [`🧩_existential_threat_response_loop.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_existential_threat_response_loop.md)
-        - [`🧩_institutional_defence_playbook_data_exhaust.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_institutional_defence_playbook_data_exhaust.md)
-        - [`🧩_lepore_continuum.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_lepore_continuum.md)
-        - [`🧩_perpetrator_competence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_perpetrator_competence.md)
-        - [`🧩_risk_vector_inversions_in_authoritarian_systems.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_risk_vector_inversions_in_authoritarian_systems.md)
         - [`🧩_swiss_cheese_failures_when_process_holes_align.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_swiss_cheese_failures_when_process_holes_align.md)
         - [`🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md)
         - [`🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md)
@@ -3767,6 +3755,18 @@ _Generated on 2026-08-14 17:47:11 UTC_
         - [`🧠_bureaucratic_fast_thinking_and_reputational_harm.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧠_bureaucratic_fast_thinking_and_reputational_harm.md)
         - [`🧠_multilock_overlapping_covertion.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧠_multilock_overlapping_covertion.md)
         - [`🧠_smart_women_get_surveillance.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧠_smart_women_get_surveillance.md)
+        - [`🧩_asymmetric_democratic_policing.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_asymmetric_democratic_policing.md)
+        - [`🧩_colonial_scripts_in_modern_bureaucracies.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_colonial_scripts_in_modern_bureaucracies.md)
+        - [`🧩_containment_economics.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_containment_economics.md)
+        - [`🧩_counter_extraction_loop.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_counter_extraction_loop.md)
+        - [`🧩_cross_group_solidarity.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_cross_group_solidarity.md)
+        - [`🧩_diaspora_instability_patterns.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_diaspora_instability_patterns.md)
+        - [`🧩_emergent_surveillance_without_malice.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_emergent_surveillance_without_malice.md)
+        - [`🧩_existential_threat_response_loop.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_existential_threat_response_loop.md)
+        - [`🧩_institutional_defence_playbook_data_exhaust.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_institutional_defence_playbook_data_exhaust.md)
+        - [`🧩_lepore_continuum.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_lepore_continuum.md)
+        - [`🧩_perpetrator_competence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_perpetrator_competence.md)
+        - [`🧩_risk_vector_inversions_in_authoritarian_systems.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_risk_vector_inversions_in_authoritarian_systems.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
     - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
