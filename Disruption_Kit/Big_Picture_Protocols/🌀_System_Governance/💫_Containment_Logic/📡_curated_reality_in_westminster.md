@@ -1,5 +1,5 @@
 # 📡 Curated Reality in Westminster  
-**First created:** 2025-12-26 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-26 | **Last updated:** 2026-08-14  
 *How policy comes to see the world.*
 
 ---
@@ -217,4 +217,4 @@ It documents how governance increasingly operates through mediated representatio
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-08-14_
