@@ -1,5 +1,5 @@
 # 🪖 Ribbons And Ranks  
-**First created:** 2026-05-22 | **Last updated:** 2026-05-22  
+**First created:** 2026-05-22 | **Last updated:** 2026-08-14  
 *How military legitimacy can be damaged when rank, ceremony, corporate prestige, and strategic modernisation are fused too quickly.*
 
 ---
@@ -777,4 +777,4 @@ It tracks how military institutions can become destabilised when operational mod
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-22_
+_Last updated: 2026-08-14_
