@@ -1,5 +1,5 @@
 # 📚 Narrative Management  
-**First created:** 2025-10-13 | **Last updated:** 2026-05-09  
+**First created:** 2025-10-13 | **Last updated:** 2026-08-14  
 *How speech, silence, storytelling, and legitimacy are engineered to stabilise power.*
 
 ---
@@ -228,4 +228,4 @@ The cluster examines how communication systems shape political reality — not o
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-08-14_
