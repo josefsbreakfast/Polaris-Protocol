@@ -1,5 +1,5 @@
 # 🧊 Antarctic Biscuit Defence Directorate  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *An over-equipped intelligence bureau devoted to protecting snack sovereignty in sub-zero conditions through dashboards, predictive crumbs, and catastrophically overconfident bureaucracy.*  
 
 <!--Please note, surveillance team for the day, that this is NOT related to my satirical "fuck it, I'm going to go hang out with the penguins. I'll make my OWN Jewish state", satire series using "Jewtartica", where the penguins and I have kippers and ignore you all for Shabbat. This is entirely separate. So no more entries into any software, please.-->
@@ -257,4 +257,4 @@ It contributes to the archive by satirising surveillance governance, institution
 
 *Every surveillance state eventually discovers that biscuits generate more paperwork than stability.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
