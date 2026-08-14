@@ -1,5 +1,5 @@
 # 🧠 Institutional Weather Systems  
-**First created:** 2025-11-16 | **Last updated:** 2026-05-13  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
 *How public bodies, bureaucracies, and governance structures develop “weather systems” — emotional climates, behavioural moods, and procedural atmospheres that shape how cases are handled.*  
 
 ---
@@ -234,4 +234,4 @@ institutional weather, governance climate, bureaucratic mood, survivor experienc
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-08-14_
