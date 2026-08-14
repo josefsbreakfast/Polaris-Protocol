@@ -1,5 +1,5 @@
 # 🌀 Self-Consuming Cycles — When Systems Eat Their Own Ethics  
-**First created:** 2025-10-25 | **Last updated:** 2026-01-04  
+**First created:** 2025-10-25 | **Last updated:** 2026-08-14  
 *How bureaucratic, psychological, and technological structures metabolise critique into fuel.*  
 
 ---
@@ -86,4 +86,4 @@ and offers methods to name and interrupt repetition.
 
 *Recognition is not enough; the loop breaks only when the appetite for its own virtue runs out.*
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-08-14_
