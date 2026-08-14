@@ -1,5 +1,5 @@
 # 🛬 Translation Null Zone  
-**First created:** 2025-08-09 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-09 | **Last updated:** 2026-08-14  
 *Language registers that evade machine translation and create camouflage zones.*  
 
 ---
@@ -91,4 +91,4 @@ It explores how archaic, poetic, or minority registers generate camouflage in ma
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-14_ 
