@@ -1,5 +1,5 @@
 # 🕰️ Chronos Or Kairos  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-14  
+**First created:** 2026-05-12 | **Last updated:** 2026-08-14  
 *When systems measure time mechanically, but humans experience it relationally.*  
 
 ---
@@ -159,4 +159,4 @@ It examines how systems govern through pacing, delay, urgency, ritual continuity
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
