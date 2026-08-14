@@ -1,5 +1,5 @@
 # 🛡️ Securitisation & Fragile Governance  
-**First created:** 2025-12-26 | **Last updated:** 2026-05-13  
+**First created:** 2025-12-26 | **Last updated:** 2026-08-14  
 *Why everything starts to look like a threat*  
 
 ---
@@ -197,4 +197,4 @@ It adapts to the new infrastructure.
 > - [🔮 Palantir as Infrastructure](../🛰️_Infrastructure_Procurement/🔮_palantir_as_infrastructure.md)  
 > - [🧨 Cyber Insecurity & Friction Systems](./🧨_cyber_insecurity_and_friction_systems.md)  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-08-14_
