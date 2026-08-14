@@ -1,5 +1,5 @@
 # ⚖️ The History of Justice as Spectacle  
-**First created:** 2025-10-14 | **Last updated:** 2026-04-24  
+**First created:** 2025-10-14 | **Last updated:** 2026-08-14  
 *How punishment has been staged, witnessed, and interpreted—and how visibility can shape perceptions of justice.*  
 
 ---
@@ -206,4 +206,4 @@ It traces how visibility has shaped the communication, perception, and stabilisa
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-14_
