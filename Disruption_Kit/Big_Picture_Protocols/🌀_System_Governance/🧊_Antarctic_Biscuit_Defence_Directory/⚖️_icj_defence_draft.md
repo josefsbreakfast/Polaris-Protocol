@@ -1,5 +1,5 @@
 # ⚖️ ICJ Defence Draft  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *A mock courtroom submission prepared by the Antarctic Biscuit Defence Directorate (ABDD) for hypothetical proceedings before the International Court of Justice, combining legal theatre, bureaucratic denial, and snack-security doctrine.*  
 
 ---
@@ -195,4 +195,4 @@ It contributes to the archive by satirising the transformation of institutional 
 
 *International law becomes considerably more complicated once biscuits acquire strategic status.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
