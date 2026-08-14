@@ -1,5 +1,5 @@
 # 🕸️ Web of Resilience  
-**First created:** 2025-09-03 | **Last updated:** 2026-05-11  
+**First created:** 2025-09-03 | **Last updated:** 2026-08-14  
 *A layered resilience framework for navigating destabilising, high-volume, or adversarial information environments across personal, communal, and systemic levels.*
 
 ---
@@ -423,4 +423,4 @@ It integrates personal regulation, communal trust practices, and systemic resili
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
