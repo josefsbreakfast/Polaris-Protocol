@@ -1,7 +1,7 @@
 **NB** Duplicate found, requires reconcile  
 
 # 📣 PR Simulation Breakdown  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-14  
 *Why political comms engines, crisis-response simulators, and audience-modelling tools collapse when confronted with real human complexity — especially diaspora solidarity and survivor-led moral clarity.*  
 
 ---
@@ -492,4 +492,4 @@ It lays the foundation for later nodes on:
 - **ethical centroid archetypes**,  
 - **why solidarity breaks propaganda tools**.
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-08-14_
