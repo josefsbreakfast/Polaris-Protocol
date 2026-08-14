@@ -1,12 +1,14 @@
+<!-- Look at 24hr $YETI. I’m howling. 
+
+I bet I can guess, and narrow it to /which/ bank.-->
+
 # 📈 \$SEO
 
 **First created:** 2026-08-14 \| **Last updated:** 2026-08-14\
 *How interventions in information systems can leak into markets, and
-market behaviour can leak back into information systems.*  
+market behaviour can leak back into information systems.*
 
-<!-- Look at 24hr $YETI. I’m howling. 🤣🤣🤣-->
-
----
+------------------------------------------------------------------------
 
 ## 🛰️ Orientation
 
@@ -588,6 +590,137 @@ A search platform may see discovery changes. A company may see traffic and sales
 No individual observer necessarily sees the whole chain.
 
 **Defence therefore requires information fusion without pretending that information fusion produces omniscience.**
+
+---
+
+
+## 🏦 High-Connectivity Actors And Automated Risk Propagation
+
+Large downstream effects do not necessarily imply proportionately large intent.
+
+A particularly important counter-example is the bank.
+
+Banks occupy highly connected positions across payment systems, custody, lending, brokerage, clearing, counterparty exposure, credit assessment, fraud controls, sanctions compliance and market access. A change introduced at one risk-control point can therefore propagate much farther than an equivalent decision made by an ordinary market participant.
+
+The analytical question should be:
+
+> **Does the observed scale require a powerful intentional actor, or merely a highly connected control point?**
+
+Those propositions are not equivalent.
+
+### Three different mechanisms
+
+Analysts should distinguish at least three superficially similar cases.
+
+**1. Discretionary or expressive action**
+
+A person or institution deliberately changes its economic behaviour because of a judgement, preference, political position or other conscious objective.
+
+**2. Risk-driven intervention**
+
+New information changes a recognised risk variable. Existing policy then requires exposure, access, limits, collateral, monitoring or another control to change.
+
+The motive is not necessarily expressive at all. The institution may simply be applying its ordinary risk criteria.
+
+**3. Automated propagation**
+
+A classification, score, limit or threshold changes upstream and downstream systems execute predetermined responses.
+
+At this stage, surprisingly large effects may occur without a human repeatedly deciding that each individual downstream action should happen.
+
+This creates an important rule:
+
+> **Scale does not establish emotional or political motivation.**
+
+A very large-looking footprint can be produced by a boring rule operating through highly connected infrastructure.
+
+### Apparent coordination without coordinated intent
+
+The problem becomes more difficult where multiple institutions rely upon:
+
+- similar risk models;
+- common regulatory requirements;
+- shared market data;
+- sanctions or compliance feeds;
+- common vendors;
+- correlated credit assumptions;
+- similar fraud indicators;
+- the same underlying public information.
+
+Several institutions may therefore respond in similar ways to the same input without coordinating with one another.
+
+The resulting pattern can look centrally organised from outside even where the causal structure is:
+
+**shared signal → similar independent rules → correlated responses**
+
+rather than:
+
+**central instruction → coordinated responses**
+
+This is another reason topology matters.
+
+A highly connected node, common dependency or shared classifier can generate broad synchronised-looking effects without requiring broad synchronised intent.
+
+---
+
+## 🧿 Risk Criteria As An Alternative Hypothesis
+
+Whenever an economic response appears unusually large, the defensive analysis should explicitly test the risk-governance hypothesis before attributing expressive intent.
+
+Ask:
+
+- Did a relevant classification or risk score change?
+- Was a threshold crossed?
+- Could an existing policy require the observed response?
+- Was the response automatic or discretionary?
+- Which downstream systems inherit the upstream classification?
+- Do multiple institutions consume the same source data?
+- Are common vendors or feeds involved?
+- Would ordinary compliance, credit, fraud, sanctions, liquidity or counterparty controls predict similar behaviour?
+- Did humans intervene after automation began, or did the system propagate without further discretionary decisions?
+- What audit trail should the relevant control system produce?
+
+The evidentiary expectations are different.
+
+A hypothesis of personal or political retaliation should predict evidence of discretionary intent.
+
+A hypothesis of automated risk propagation should predict evidence of classifications, thresholds, policy rules, system events and audit records.
+
+The visible outcome alone cannot distinguish them.
+
+---
+
+## 🕸️ Connectivity Can Matter More Than Power
+
+This produces a broader cybernetic principle.
+
+An actor does not need omnipotent control over an environment to produce a large effect.
+
+It may instead occupy a node through which many dependencies already pass.
+
+A small change at a poorly connected point may remain local.
+
+A small change at a highly connected point can propagate.
+
+Therefore:
+
+**input magnitude ≠ output magnitude**
+
+and:
+
+**output magnitude ≠ intent magnitude**
+
+The structure between input and output matters.
+
+For economic defence, mapping highly connected control points may consequently be more useful than constructing lists of actors presumed powerful enough to cause a given visible effect.
+
+The defender should ask:
+
+> **Where can an ordinary rule acquire extraordinary reach because of where it sits in the system?**
+
+That question applies to banks, but also to exchanges, payment processors, data vendors, identity providers, major platforms, clearing infrastructure, index providers and other shared dependencies.
+
+It is the same spongy-bone problem at a different scale: find the load path before deciding who applied the force.
 
 ---
 
