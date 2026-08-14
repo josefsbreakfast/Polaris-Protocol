@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-14 17:54:10 UTC_
+_Generated on 2026-08-14 17:58:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,9 +18,6 @@ _Generated on 2026-08-14 17:54:10 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**💫_Containment_Logic/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/)
-        - [`🧩_swiss_cheese_failures_when_process_holes_align.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_swiss_cheese_failures_when_process_holes_align.md)
-        - [`🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md)
-        - [`🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md)
         - [`🧬_harm_without_perpetrators_the_architecture_failure_model.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_harm_without_perpetrators_the_architecture_failure_model.md)
         - [`🧬_how_gossip_shapes_risk_flags.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_how_gossip_shapes_risk_flags.md)
         - [`🧬_multi_year_pipeline_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_multi_year_pipeline_architecture.md)
@@ -3767,6 +3764,9 @@ _Generated on 2026-08-14 17:54:10 UTC_
         - [`🧩_lepore_continuum.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_lepore_continuum.md)
         - [`🧩_perpetrator_competence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_perpetrator_competence.md)
         - [`🧩_risk_vector_inversions_in_authoritarian_systems.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_risk_vector_inversions_in_authoritarian_systems.md)
+        - [`🧩_swiss_cheese_failures_when_process_holes_align.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_swiss_cheese_failures_when_process_holes_align.md)
+        - [`🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md)
+        - [`🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
     - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
