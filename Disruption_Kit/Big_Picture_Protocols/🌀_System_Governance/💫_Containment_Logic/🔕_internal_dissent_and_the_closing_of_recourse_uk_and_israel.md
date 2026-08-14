@@ -1,5 +1,5 @@
 # 🔕 Internal Dissent And The Closing Of Recourse (UK and Israel)
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-14  
 *How systems under legal and moral stress suppress internal correction while preserving the appearance of choice.*
 
 ---
@@ -142,4 +142,4 @@ It exists to explain why warning signals failed to alter course, and how systems
 >
 > *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-08-14_
