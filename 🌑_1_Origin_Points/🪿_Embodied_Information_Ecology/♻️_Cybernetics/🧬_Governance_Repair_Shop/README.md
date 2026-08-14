@@ -1,5 +1,5 @@
 # 🧬 Governance Repair Shop  
-**First created:** 2026-05-12 | **Last updated:** 2026-05-18  
+**First created:** 2026-05-12 | **Last updated:** 2026-08-14  
 *Where broken systems are examined, patched, stabilised, or gently prevented from eating themselves alive.*  
 
 ---
@@ -243,4 +243,4 @@ It examines how institutions survive stress, repair legitimacy, contain failure,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-08-14_
