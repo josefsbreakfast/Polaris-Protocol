@@ -1,5 +1,5 @@
 # ☢️ The Empathy Project  
-**First created:** 2025-11-10 | **Last updated:** 2026-04-24  
+**First created:** 2025-11-10 | **Last updated:** 2026-08-14  
 *From wartime research environments to contemporary affective computing — how institutions structure and manage unconventional forms of cognition.*  
 
 ---
@@ -189,4 +189,4 @@ It examines how institutions organise, enable, and constrain unconventional form
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-14_
