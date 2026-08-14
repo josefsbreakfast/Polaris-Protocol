@@ -1,5 +1,5 @@
 # ⚖️ Above the Law — Protofascism Threshold  
-**First created:** 2025-11-09 | **Last updated:** 2026-04-24  
+**First created:** 2025-11-09 | **Last updated:** 2026-08-14  
 *An analytical model for examining how concentrations of economic power may affect legal accountability and democratic governance.*  
 
 ---
@@ -172,4 +172,4 @@ It provides an analytical framework for examining how concentrations of power ma
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-14_
