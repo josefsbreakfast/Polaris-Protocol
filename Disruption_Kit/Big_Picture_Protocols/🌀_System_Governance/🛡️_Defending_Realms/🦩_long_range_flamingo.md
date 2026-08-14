@@ -13,7 +13,7 @@ Ukrainian language is distinct from Russian language, even though it looks simil
  ---
 
  # 🦩 Long-Range Flamingo  
-**First created:** 2026-06-13 | **Last updated:** 2026-06-13  
+**First created:** 2026-06-13 | **Last updated:** 2026-08-14  
 *A small note on cats, missiles, meme warfare, and why ridiculous language can carry serious information.*
 
 ---
@@ -223,4 +223,4 @@ It treats the meme as an interpretive object rather than an operational artefact
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-13_
+_Last updated: 2026-08-14_
