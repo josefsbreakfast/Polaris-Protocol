@@ -1,5 +1,5 @@
 # 🩹 Patch Repair Governance  
-**First created:** 2025-09-25 | **Last updated:** 2026-05-12  
+**First created:** 2025-09-25 | **Last updated:** 2026-08-14  
 *Containment systems as stitched patchwork — holes covered until pressure elsewhere forces old rot to reopen.*  
 
 ---
@@ -53,4 +53,4 @@ It records how systemic containment functions like a rotten hull stitched with p
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-08-14_
