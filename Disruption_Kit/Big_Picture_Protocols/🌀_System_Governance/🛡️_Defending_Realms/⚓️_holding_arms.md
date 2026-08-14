@@ -1,6 +1,5 @@
-}
 # ⚓️ Holding Arms  
-First created: 2026-05-31 | Last updated: 2026-05-31  
+First created: 2026-05-31 | Last updated: 2026-08-14  
 How transit states, airspace rules, and logistics chokepoints become defence-governance instruments when military supply chains cross legal territory.
 
 ## 🧭 Orientation
@@ -293,4 +292,4 @@ It records how military supply chains become governable at the point of transit,
 
 Survivor authorship is sovereign. Containment is never neutral.
 
-_Last upda
+_Last updated: 2026-08-14_
