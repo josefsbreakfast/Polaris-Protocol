@@ -1,5 +1,5 @@
 # 🧩 Containment Economics — A No-Villain Dystopia  
-**First created:** 2025-10-24 | **Last updated:** 2025-12-14  
+**First created:** 2025-10-24 | **Last updated:** 2026-08-14  
 *How a perfectly rational system eats itself.*  
 
 ---
@@ -244,4 +244,4 @@ It offers release-valve design as the only sustainable counter-strategy.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-14_
