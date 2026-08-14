@@ -1,5 +1,5 @@
 # 📺 Cover-Up as Cultural Genre  
-**First created:** 2025-11-03 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-03 | **Last updated:** 2026-08-14  
 *A satirical cultural-analysis node examining concealment, procedural ambiguity, and reputational management through the conventions of British institutional storytelling.*
 
 ---
@@ -201,4 +201,4 @@ It examines how institutional communication styles, procedural language, and rep
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
