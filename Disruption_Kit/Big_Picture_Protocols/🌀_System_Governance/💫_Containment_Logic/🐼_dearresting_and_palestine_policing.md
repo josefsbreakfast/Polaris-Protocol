@@ -1,5 +1,5 @@
 # 🐼 De-arresting and Palestine Protest Policing  
-**First created:** 2026-01-04 | **Last updated:** 2026-01-04  
+**First created:** 2026-01-04 | **Last updated:** 2026-08-14  
 *How “arrest → de-arrest” functions as micro-containment at the edge of Article 11.*
 
 ---
@@ -178,4 +178,4 @@ It documents an emerging policing pattern at the intersection of public order la
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-08-14_
