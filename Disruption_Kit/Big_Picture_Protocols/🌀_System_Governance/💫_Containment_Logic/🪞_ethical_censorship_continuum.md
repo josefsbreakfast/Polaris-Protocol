@@ -1,5 +1,5 @@
 # 🪞 Ethical Censorship Continuum  
-**First created:** 2025-11-01 | **Last updated:** 2026-01-06  
+**First created:** 2025-11-01 | **Last updated:** 2026-08-14  
 *Mapping the moral terrain between concealment for protection and concealment for power.*  
 
 ---
@@ -124,4 +124,4 @@ ethical censorship, concealment continuum, survivor voice fidelity, hobbes kant 
 
 *Silence without expiry is not ethics; it’s inertia disguised as care.*
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-14_
