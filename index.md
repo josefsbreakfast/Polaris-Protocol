@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-14 20:59:47 UTC_
+_Generated on 2026-08-14 21:04:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -154,15 +154,6 @@ _Generated on 2026-08-14 20:59:47 UTC_
         - [`🪞_the_illusion_of_choice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪞_the_illusion_of_choice.md)
         - [`🪫_austerity_long_tail_data_instability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪫_austerity_long_tail_data_instability.md)
         - [`🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md)
-      - [**🧬_Governance_Repair_Shop/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/)
-        - [`🧬_how_to_prosecute_power_without_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_how_to_prosecute_power_without_collapse.md)
-        - [`🧬_keystone_rca.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_keystone_rca.md)
-        - [`🧬_restorative_and_transformative_justice_where_it_actually_works.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_restorative_and_transformative_justice_where_it_actually_works.md)
-        - [`🧬_transparency_as_antigenic_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_transparency_as_antigenic_defence.md)
-        - [`🧬_what_a_csa_system_optimised_for_prevention_looks_like.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_what_a_csa_system_optimised_for_prevention_looks_like.md)
-        - [`🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md)
-        - [`🪡_oversight_repair_kit.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🪡_oversight_repair_kit.md)
-        - [`🫀_ai_black_box_inquests.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🫀_ai_black_box_inquests.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
       - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/notes.txt)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
@@ -3747,6 +3738,14 @@ _Generated on 2026-08-14 20:59:47 UTC_
         - [`📜_duty_to_correct.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/📜_duty_to_correct.md)
         - [`🔁_post_realisation_phase.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🔁_post_realisation_phase.md)
         - [`🔮_daylight_in_governance.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🔮_daylight_in_governance.md)
+        - [`🧬_how_to_prosecute_power_without_collapse.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🧬_how_to_prosecute_power_without_collapse.md)
+        - [`🧬_keystone_rca.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🧬_keystone_rca.md)
+        - [`🧬_restorative_and_transformative_justice_where_it_actually_works.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🧬_restorative_and_transformative_justice_where_it_actually_works.md)
+        - [`🧬_transparency_as_antigenic_defence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🧬_transparency_as_antigenic_defence.md)
+        - [`🧬_what_a_csa_system_optimised_for_prevention_looks_like.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🧬_what_a_csa_system_optimised_for_prevention_looks_like.md)
+        - [`🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md)
+        - [`🪡_oversight_repair_kit.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🪡_oversight_repair_kit.md)
+        - [`🫀_ai_black_box_inquests.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🫀_ai_black_box_inquests.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
     - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
