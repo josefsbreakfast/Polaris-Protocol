@@ -1,5 +1,5 @@
 # ⚖️ The Trial as Civic Rite — When Justice Becomes a Personal Chore  
-**First created:** 2025-11-07 | **Last updated:** 2026-04-24  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-14  
 *How institutional failure can convert ordinary people into ongoing witnesses, advocates, and archivists of their own harm.*  
 
 ---
@@ -167,4 +167,4 @@ It examines how unresolved processes can shift the burden of justice onto indivi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-14_
