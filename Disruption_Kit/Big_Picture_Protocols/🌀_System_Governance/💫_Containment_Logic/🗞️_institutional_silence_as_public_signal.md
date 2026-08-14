@@ -1,5 +1,5 @@
 # 🗞️ *Institutional Silence as Public Signal*  
-**First created:** 2025-11-03 | **Last updated:** 2025-12-21  
+**First created:** 2025-11-03 | **Last updated:** 2026-08-14  
 *When Saying Nothing Becomes a Form of Communication*  
 
 ---
@@ -102,5 +102,5 @@ To break the spell, one must not shout — only listen carefully enough to hear 
 
 ---
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-08-14_
 **Stardust Tags:** #InstitutionalSilence #CulturalSemiotics #TrustDecay #BureaucraticPsychology #PolarisSystem  
