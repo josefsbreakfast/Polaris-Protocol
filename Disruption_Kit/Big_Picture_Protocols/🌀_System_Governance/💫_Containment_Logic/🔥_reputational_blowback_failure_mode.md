@@ -1,5 +1,5 @@
 # 🔥 Reputational blowback failure mode  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-14  
 *When attempts to contain reputational risk create greater exposure than the original issue.*
 
 ---
@@ -131,4 +131,4 @@ It documents how institutions generate reputational harm by attempting to contro
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-14_
