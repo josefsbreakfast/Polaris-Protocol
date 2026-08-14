@@ -1,5 +1,5 @@
 # ⚖️ Power, Play, and Containment — The Economics of Structured Desire  
-**First created:** 2025-10-18  |  **Last updated:** 2026-04-24  
+**First created:** 2025-10-18  |  **Last updated:** 2026-08-14  
 *How systems of control and obligation shape behaviour, performance, and the ways people negotiate power.*  
 
 ---
@@ -226,4 +226,4 @@ It examines how formal systems of control influence behaviour, interaction, and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-14_
