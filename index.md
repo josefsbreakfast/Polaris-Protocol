@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-14 20:55:03 UTC_
+_Generated on 2026-08-14 20:59:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -155,15 +155,6 @@ _Generated on 2026-08-14 20:55:03 UTC_
         - [`🪫_austerity_long_tail_data_instability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪫_austerity_long_tail_data_instability.md)
         - [`🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md)
       - [**🧬_Governance_Repair_Shop/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/README.md)
-        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/notes.txt)
-        - [`⚖️_institutional_realisation_to_remediation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/⚖️_institutional_realisation_to_remediation.md)
-        - [`🌅_rise_of_institutional_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🌅_rise_of_institutional_integrity.md)
-        - [`🏗️_corrective_governance_architecture.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🏗️_corrective_governance_architecture.md)
-        - [`👁️_restoring_epistemic_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/👁️_restoring_epistemic_integrity.md)
-        - [`📜_duty_to_correct.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/📜_duty_to_correct.md)
-        - [`🔁_post_realisation_phase.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🔁_post_realisation_phase.md)
-        - [`🔮_daylight_in_governance.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🔮_daylight_in_governance.md)
         - [`🧬_how_to_prosecute_power_without_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_how_to_prosecute_power_without_collapse.md)
         - [`🧬_keystone_rca.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_keystone_rca.md)
         - [`🧬_restorative_and_transformative_justice_where_it_actually_works.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧬_Governance_Repair_Shop/🧬_restorative_and_transformative_justice_where_it_actually_works.md)
@@ -3747,6 +3738,15 @@ _Generated on 2026-08-14 20:55:03 UTC_
         - [`🪞_misunderstanding_as_risk_signal.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🪞_misunderstanding_as_risk_signal.md)
         - [`🪞_the_emperors_dashboard.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🪞_the_emperors_dashboard.md)
         - [`🪞_the_i_got_got_moment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🪞_the_i_got_got_moment.md)
+      - [**🧬_Governance_Repair_Shop/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/)
+        - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/README.md)
+        - [`⚖️_institutional_realisation_to_remediation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/⚖️_institutional_realisation_to_remediation.md)
+        - [`🌅_rise_of_institutional_integrity.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🌅_rise_of_institutional_integrity.md)
+        - [`🏗️_corrective_governance_architecture.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🏗️_corrective_governance_architecture.md)
+        - [`👁️_restoring_epistemic_integrity.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/👁️_restoring_epistemic_integrity.md)
+        - [`📜_duty_to_correct.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/📜_duty_to_correct.md)
+        - [`🔁_post_realisation_phase.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🔁_post_realisation_phase.md)
+        - [`🔮_daylight_in_governance.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🔮_daylight_in_governance.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
     - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
