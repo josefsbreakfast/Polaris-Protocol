@@ -1,5 +1,5 @@
 # ⚖️ Official Secrets Reform and Accountability  
-**First created:** 2025-11-12 | **Last updated:** 2026-05-12  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-14  
 *Re-examining secrecy architecture, the “perpetual hook,” and accountability failure in hybrid state–commercial and cyber governance systems.*  
 
 ---
@@ -233,4 +233,4 @@ It documents how secrecy regimes fail under modern governance and cyber conditio
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-12_
+_Last updated: 2026-08-14_
