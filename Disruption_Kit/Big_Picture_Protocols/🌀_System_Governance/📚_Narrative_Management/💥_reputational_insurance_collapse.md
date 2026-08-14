@@ -1,5 +1,5 @@
 # 💥 Reputational Insurance Collapse Under Narrative Instability  
-**First created:** 2025-11-18 | **Last updated:** 2026-05-11  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-14  
 *How failures in narrative modelling, synthetic personas, and PR simulations can destabilise political risk markets, corporate crisis insurance, and reputational underwriting systems.*
 
 ---
@@ -273,4 +273,4 @@ It maps how synthetic persona failure, sentiment divergence, and narrative insta
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
