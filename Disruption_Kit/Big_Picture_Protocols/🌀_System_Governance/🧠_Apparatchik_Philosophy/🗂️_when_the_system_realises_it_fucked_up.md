@@ -1,5 +1,5 @@
 # 🗂️ When the System Realises It Fucked Up  
-**First created:** 2025-12-14 | **Last updated:** 2026-05-11  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-14  
 *The institutional recognition moment where procedural confidence collapses and systems begin reassessing their own internal logic.*
 
 ---
@@ -245,4 +245,4 @@ It examines the institutional inflection point where procedural confidence colla
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
