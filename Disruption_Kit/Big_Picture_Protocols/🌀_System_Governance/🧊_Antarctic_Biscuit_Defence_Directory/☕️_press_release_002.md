@@ -1,5 +1,5 @@
 # ☕️ Biscuit Press: Release 002  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *Special international edition documenting the global media reaction to the ABDD declassification leaks, subsequent diplomatic confusion, and the rapid weaponisation of biscuit-based headlines across multiple nations.*  
 
 ---
@@ -159,4 +159,4 @@ It contributes to the archive by documenting the internationalisation of the ABD
 
 *No geopolitical incident is too serious to become headline theatre within forty-eight hours.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
