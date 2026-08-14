@@ -1,5 +1,5 @@
 # 🕳️ The Grievance Sinkhole: How Shame Converts Into Reactionary Politics  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-14  
 *Why unprocessed male shame reliably collapses into grievance — and why grievance is the emotional fuel of reactionary and fascist movements.*  
 
 ---
@@ -246,4 +246,4 @@ It maps grievance as an emotional metabolite of shame and explains why processin
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-14_
