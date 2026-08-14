@@ -1,5 +1,5 @@
 # 🪞 Conditional Whiteness and Twinning as Containment  
-**First created:** 2025-11-07 | **Last updated:** 2026-01-06  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-14  
 *Diagnostic reflection on how institutions manage belonging through racial coding and oppositional pairing.*  
 
 ---
@@ -46,4 +46,4 @@ It explores how identity management and twinning operate as containment tools wi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-14_
