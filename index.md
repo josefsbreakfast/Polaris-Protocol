@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-14 20:38:32 UTC_
+_Generated on 2026-08-14 20:42:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -117,10 +117,6 @@ _Generated on 2026-08-14 20:38:32 UTC_
         - [`🧿_unit_8200_is_not_hiding_what_it_is.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧿_unit_8200_is_not_hiding_what_it_is.md)
         - [`🩺_fixing_the_nhs_frankenstack.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🩺_fixing_the_nhs_frankenstack.md)
       - [**🧠_Apparatchik_Philosophy/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/)
-        - [`🏛️_why_london_is_moscow.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🏛️_why_london_is_moscow.md)
-        - [`🐐_old_school_scapegoating.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🐐_old_school_scapegoating.md)
-        - [`🗂️_when_the_system_realises_it_fucked_up.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🗂️_when_the_system_realises_it_fucked_up.md)
-        - [`🚀_procedure_vs_perception.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🚀_procedure_vs_perception.md)
         - [`🦴_reputational_management_as_harm_producing_system.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🦴_reputational_management_as_harm_producing_system.md)
         - [`🧠_cognitive_feedback_and_bureaucratic_amplification.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_cognitive_feedback_and_bureaucratic_amplification.md)
         - [`🧠_continuity_creates_blindness.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧠_Apparatchik_Philosophy/🧠_continuity_creates_blindness.md)
@@ -3748,6 +3744,10 @@ _Generated on 2026-08-14 20:38:32 UTC_
         - [`🌫️_saint_petersburg_is_not_london.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🌫️_saint_petersburg_is_not_london.md)
         - [`🏗️_skyscraper_over_pebbles.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🏗️_skyscraper_over_pebbles.md)
         - [`🏛️_olympus_syndrome.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🏛️_olympus_syndrome.md)
+        - [`🏛️_why_london_is_moscow.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🏛️_why_london_is_moscow.md)
+        - [`🐐_old_school_scapegoating.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🐐_old_school_scapegoating.md)
+        - [`🗂️_when_the_system_realises_it_fucked_up.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🗂️_when_the_system_realises_it_fucked_up.md)
+        - [`🚀_procedure_vs_perception.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧠_Apparatchik_Philosophy/🚀_procedure_vs_perception.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
     - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
@@ -3755,6 +3755,7 @@ _Generated on 2026-08-14 20:38:32 UTC_
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/.🌱_Still_Growing/notes.txt)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/notes.txt)
+      - [`📈_$seo.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/📈_$seo.md)
     - [**♻️🧿_Observation_Becomes_Intervention/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/.🌱_Still_Growing/notes.txt)
