@@ -1,5 +1,5 @@
 # 🌀 Managed Transition vs Revolution  
-**First created:** 2025-09-27 | **Last updated:** 2025-12-29  
+**First created:** 2025-09-27 | **Last updated:** 2026-08-14  
 *Why blocked reform manufactures rupture — and why survivors resist “revolutionary purity”.*  
 
 ---
@@ -111,4 +111,4 @@ It maps how blocked reform produces rupture, and why survivors resist narratives
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-14_
