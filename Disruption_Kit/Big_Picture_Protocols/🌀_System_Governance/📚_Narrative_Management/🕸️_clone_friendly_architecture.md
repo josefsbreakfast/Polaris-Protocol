@@ -1,5 +1,5 @@
 # 🕸️ Clone-Friendly Architecture  
-**First created:** 2025-08-07 | **Last updated:** 2026-05-11  
+**First created:** 2025-08-07 | **Last updated:** 2026-08-14  
 *How certain institutional environments generate unusually rich conditions for behavioural modelling, synthetic personas, and communicative simulation systems.*
 
 ---
@@ -218,4 +218,4 @@ It examines how emotionally dense institutional systems can generate valuable be
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-11_
+_Last updated: 2026-08-14_
