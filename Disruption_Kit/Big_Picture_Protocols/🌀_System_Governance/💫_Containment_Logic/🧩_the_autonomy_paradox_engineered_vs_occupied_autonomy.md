@@ -1,5 +1,5 @@
 # 🧩 The Autonomy Paradox — Engineered vs. Occupied Autonomy  
-**First created:** 2025-10-18 | **Last updated:** 2025-12-15  
+**First created:** 2025-10-18 | **Last updated:** 2026-08-14  
 *Where liberation architectures replicate control logics.*  
 
 ---
@@ -66,4 +66,4 @@ It maps how movements for liberation can entangle with systems of control, and w
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-08-14_
