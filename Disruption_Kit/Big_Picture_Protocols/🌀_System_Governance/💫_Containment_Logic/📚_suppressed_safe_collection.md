@@ -1,5 +1,5 @@
 # 📚 Suppressed Safe Collection  
-**First created:** 2025-10-16 | **Last updated:** 2025-12-10  
+**First created:** 2025-10-16 | **Last updated:** 2026-08-14  
 *An anatomy of archival censorship disguised as library housekeeping.*  
 
 ---
@@ -81,4 +81,4 @@ It documents the genealogy of suppression as logistics — from the locked cabin
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-08-14_
