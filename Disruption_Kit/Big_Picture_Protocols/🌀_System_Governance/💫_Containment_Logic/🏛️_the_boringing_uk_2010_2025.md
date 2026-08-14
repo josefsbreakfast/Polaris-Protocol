@@ -1,5 +1,5 @@
 # 🏛️ The Boringing (UK 2010–2025)  
-**First created:** 2025-11-04 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-04 | **Last updated:** 2026-08-14  
 *Chronicle of how monotony became a governance strategy.*  
 
 ---
@@ -68,4 +68,4 @@ It documents monotony as an instrument of power and traces how bureaucratic calm
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-08-14_
