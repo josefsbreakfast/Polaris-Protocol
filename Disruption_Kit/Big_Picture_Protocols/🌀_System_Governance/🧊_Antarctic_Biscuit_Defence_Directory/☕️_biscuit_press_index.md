@@ -1,5 +1,5 @@
 # ☕️ Biscuit Press Index  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *An evolving index of Biscuit Press editions — the semi-official communications arm of the Antarctic Biscuit Defence Directorate (ABDD), where scandal management, snack logistics, and media absurdity collide.*  
 
 ---
@@ -124,4 +124,4 @@ It contributes to the archive by documenting the evolving media ecology, communi
 
 *Even catastrophic biscuit incidents eventually receive a press release.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
