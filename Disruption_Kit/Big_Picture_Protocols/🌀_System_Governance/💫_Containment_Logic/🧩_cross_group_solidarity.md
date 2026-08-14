@@ -1,5 +1,5 @@
 # 🧩 Cross-Group Solidarity as Algorithmic Destabiliser  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-14  
 *Why solidarity between racialised or minority groups breaks risk engines, PR simulations, predictive policing, and apartheid-style data systems.*  
 
 ---
@@ -215,4 +215,4 @@ It sets the stage for later nodes on:
 - democratic emergency mapping,  
 - and metadata sabotage through solidarity.
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-14_
