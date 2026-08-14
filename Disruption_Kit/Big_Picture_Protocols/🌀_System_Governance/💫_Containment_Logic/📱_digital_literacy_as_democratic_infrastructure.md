@@ -1,5 +1,5 @@
 # 📱 Digital Literacy as Democratic Infrastructure  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-14  
 *Why baseline public understanding of digital systems is now a prerequisite for democratic resilience.*  
 
 ---
@@ -180,4 +180,4 @@ It establishes digital understanding as a collective civic requirement and docum
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-14_
