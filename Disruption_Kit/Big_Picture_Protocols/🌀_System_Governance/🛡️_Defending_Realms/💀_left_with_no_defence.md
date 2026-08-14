@@ -1,5 +1,5 @@
 # 💀 Left With No Defence  
-First created: 2026-05-31 | Last updated: 2026-05-31**  
+First created: 2026-05-31 | Last updated: 2026-08-14  
 Why democratic defence cannot be rebuilt through messaging alone when public consent has already been damaged by legally contested war, managed evidence, and elite misuse of power.
 
 ## 🛰️ Orientation
@@ -445,4 +445,4 @@ It maps the legitimacy gap created when British left politics remembers militari
 
 Survivor authorship is sovereign. Containment is never neutral.
 
-_Last updated
+_Last updated: 2026-08-14_
