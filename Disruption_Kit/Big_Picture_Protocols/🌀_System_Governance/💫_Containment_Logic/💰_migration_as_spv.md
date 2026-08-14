@@ -1,5 +1,5 @@
 # 💰 Migration as SPV  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-24  
+**First created:** 2025-12-24 | **Last updated:** 2026-08-14  
 *How migration regimes operate as permanent emergency vehicles for authoritarian governance.*
 
 ---
@@ -81,4 +81,4 @@ It documents how migration regimes become infrastructure for authoritarian norma
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-08-14_
