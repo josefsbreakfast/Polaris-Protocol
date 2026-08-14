@@ -1,5 +1,5 @@
 # 🩸 Mary, Queen of Scots and the Failure of Symbolic Containment  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-14  
 *Why Mary, Queen of Scots could not be safely neutralised through imprisonment alone, and how rival sovereign symbols often remain politically dangerous even when physically contained.*  
 
 ---
@@ -312,4 +312,4 @@ It examines why Mary, Queen of Scots remained politically dangerous even while i
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-14_
