@@ -1,5 +1,5 @@
 # 🔐 Secrecy & The Inevitable Leak — Postmortem  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *A satirical governance postmortem examining why secretive institutional projects collapse under the combined pressure of bureaucracy, human behaviour, platform culture, and public narrative dynamics.*  
 
 <!--Extremely satirical. Much hypothesis.-->
@@ -428,4 +428,4 @@ It contributes to the archive by examining the structural fragility of secretive
 
 *Most secret programmes survive external attack far longer than they survive internal posting culture.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
