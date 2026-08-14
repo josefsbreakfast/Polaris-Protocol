@@ -1,5 +1,5 @@
 # 🫥 When You Don’t Want to Be Seen Touching It  
-**First created:** 2025-11-05 | **Last updated:** 2026-01-06  
+**First created:** 2025-11-05 | **Last updated:** 2026-08-14  
 *Why plausible deniability is the core product of the grey-zone market, and how to recognise when you’re starting to buy it.*  
 
 ---
@@ -95,4 +95,4 @@ It maps the decision logic that turns caution into complicity and explains why d
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-14_
