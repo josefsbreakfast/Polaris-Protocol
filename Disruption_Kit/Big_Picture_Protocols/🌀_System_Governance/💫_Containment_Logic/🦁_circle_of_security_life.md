@@ -1,5 +1,5 @@
 # 🦁 Circle of (Security) Life  
-**First created:** 2025-11-14 | **Last updated:** 2025-12-13  
+**First created:** 2025-11-14 | **Last updated:** 2026-08-14  
 *A systems-governance humour–serious node mapping the recursive career loops between policing, security, care, safeguarding, and back again.*
 
 ---
@@ -123,4 +123,4 @@ security loop, authoritarian drift, safeguarding reflexes, surveillance culture,
 *🦁 Circle of (Security) Life* is a satirical–analytic Polaris node describing the recycling of surveillance-adjacent reflexes across the UK’s care, policing, security, and safeguarding sectors.  
 It names no individuals. It identifies structural behaviours.  
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-08-14_
