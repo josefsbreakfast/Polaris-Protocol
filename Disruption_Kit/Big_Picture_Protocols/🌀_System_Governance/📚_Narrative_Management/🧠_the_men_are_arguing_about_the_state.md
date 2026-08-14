@@ -1,5 +1,5 @@
 # 🧠 The Men Are Arguing About the State  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-14  
 *How patriarchal political systems often displace struggles over legitimacy, sovereignty, continuity, and national identity onto the symbolic bodies of women.*  
 
 ---
@@ -320,4 +320,4 @@ It examines how patriarchal political systems frequently displace struggles over
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-14_
