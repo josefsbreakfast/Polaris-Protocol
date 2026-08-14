@@ -1,5 +1,5 @@
 # 🔁 Recursive Parliamentary Containment Loop  
-**First created:** 2025-11-17 | **Last updated:** 2026-02-19  
+**First created:** 2025-11-17 | **Last updated:** 2026-08-14  
 *How Labour and the Conservatives became trapped in a mutually weakening performance cycle that prevents either from fulfilling their constitutional function.*  
 
 ---
@@ -148,4 +148,4 @@ It supports the **Big Picture Protocols** cluster by mapping systemic dysfunctio
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-14_
