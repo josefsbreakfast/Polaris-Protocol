@@ -1,5 +1,5 @@
 # 🏚️ Seven Layers of Safeguard Breakdown  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-14  
 *A structural diagnostic map of the sequential failures required for unethical, coercive, or harmful data and behavioural practices to become possible inside an institution.*  
 
 ---
@@ -223,4 +223,4 @@ This node is a direct companion to:
 It forms the core diagnostic architecture for *why bad ideas happen*  
 and how institutions lose moral gravity long before they lose legitimacy.  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-14_
