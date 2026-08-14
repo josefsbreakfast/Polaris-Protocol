@@ -1,5 +1,5 @@
 # ⚖️ Legal Disentanglement & Risk Perception  
-**First created:** 2025-11-12 | **Last updated:** 2026-04-24  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-14  
 *How legal ambiguity around data linkage and ownership can influence institutional risk perception and decision-making.*  
 
 ---
@@ -157,4 +157,4 @@ It examines how legal uncertainty in complex data environments can shape institu
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-14_
