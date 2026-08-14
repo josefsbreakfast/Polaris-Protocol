@@ -1,5 +1,5 @@
 # 🔮 The Great Divination Machine  
-**First created:** 2025-10-20 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-20 | **Last updated:** 2026-08-14  
 *A semi-satirical myth of predictive governance and its priests.*
 
 ---
@@ -158,4 +158,4 @@ It translates predictive governance into myth so that the myth might one day exp
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2026-08-14_
