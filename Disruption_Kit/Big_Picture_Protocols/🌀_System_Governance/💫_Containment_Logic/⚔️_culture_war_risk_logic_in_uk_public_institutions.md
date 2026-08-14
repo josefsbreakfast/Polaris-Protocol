@@ -1,5 +1,5 @@
 # ⚔️ Culture War Risk Logic in UK Public Institutions  
-**First created:** 2025-11-16 | **Last updated:** 2026-04-24  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
 *How culture war narratives can influence institutional behaviour, shaping risk perception, decision-making, and governance priorities.*  
 
 ---
@@ -212,4 +212,4 @@ It examines how external narratives can influence institutional behaviour, parti
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-14_
