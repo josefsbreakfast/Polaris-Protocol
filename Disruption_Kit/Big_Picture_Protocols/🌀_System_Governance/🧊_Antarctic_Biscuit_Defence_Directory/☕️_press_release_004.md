@@ -1,5 +1,5 @@
 # ☕️ Biscuit Press: Release 004  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *Official ABDD clarification statement addressing social media exposure, operational embarrassment, fire ant complications, and the increasingly difficult task of presenting chaos as organised resilience.*  
 
 ---
@@ -141,4 +141,4 @@ It contributes to the archive by documenting the ABDD’s escalating efforts to 
 
 *Every disaster becomes a “community engagement exercise” if the press office survives long enough.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
