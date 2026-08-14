@@ -1,5 +1,5 @@
 # 💰 Elite Authoritarianism and SPVs  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-24  
+**First created:** 2025-12-24 | **Last updated:** 2026-08-14  
 *How extremist outcomes emerge from habitual elite risk-management rather than ideology or coordination.*
 
 ---
@@ -103,4 +103,4 @@ It provides the foundational analytic lens for understanding how extremist outco
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-24_
+_Last updated: 2026-08-14_
