@@ -1,5 +1,5 @@
 # 🕸️ Macro Containment Architecture  
-**First created:** 2025-11-08 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-08 | **Last updated:** 2026-08-14  
 *How government-level risk and communications systems cascade containment logic through public institutions.*  
 
 ---
@@ -64,4 +64,4 @@ It visualises how national risk and communications frameworks produce uniform co
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-14_
