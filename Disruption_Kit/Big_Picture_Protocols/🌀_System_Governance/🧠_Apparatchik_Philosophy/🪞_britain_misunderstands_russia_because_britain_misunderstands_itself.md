@@ -1,5 +1,5 @@
 # 🪞 Britain Misunderstands Russia Because Britain Misunderstands Itself  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-14  
 *How British continuity myths, imperial self-perception, and institutional familiarity distort Britain’s ability to interpret Russia clearly.*  
 
 ---
@@ -306,4 +306,4 @@ It examines how British continuity myths, imperial self-perception, and institut
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-14_
