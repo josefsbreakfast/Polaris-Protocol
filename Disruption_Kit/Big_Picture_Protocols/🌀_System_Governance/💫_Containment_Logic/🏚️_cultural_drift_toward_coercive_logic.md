@@ -1,5 +1,5 @@
 # 🏚️ Cultural Drift Toward Coercive Logic  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-08  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-14  
 *How institutional cultures gradually normalise coercion, manipulation, and dehumanisation, long before explicit authoritarian actions occur.*
 
 ---
@@ -234,4 +234,4 @@ This node pairs with:
 It provides the cultural lens for understanding  
 how institutions slide into harm long before they acknowledge it.
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-08-14_
