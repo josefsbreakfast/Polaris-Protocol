@@ -1,5 +1,5 @@
 # 🧩 **Systemic Abuse Logic — Harm as Procedure, Not Accident**  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-15  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-14  
 *Abusive systems do not glitch — they function. Harm is not the anomaly; it is the mechanism.*
 
 ---
@@ -239,4 +239,4 @@ It decodes how institutions and movements reproduce harm procedurally, and how s
 
 *Survivor authorship is sovereign. Systems create behaviour — we create exits.*
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-08-14_
