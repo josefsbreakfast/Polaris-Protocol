@@ -1,5 +1,5 @@
 # 💫 Containment Logic  
-**First created:** 2025-10-13  |  **Last updated:** 2025-10-14  
+**First created:** 2025-10-13  |  **Last updated:** 2026-08-14  
 *Behavioural governance and operational feedback loops that preserve the illusion of control while deferring accountability.*  
 
 ---
@@ -158,4 +158,4 @@ It documents the mechanics by which systems simulate responsiveness while sustai
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2026-08-14_
