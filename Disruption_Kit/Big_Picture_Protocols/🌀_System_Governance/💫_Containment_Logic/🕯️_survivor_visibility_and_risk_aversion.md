@@ -1,5 +1,5 @@
 # 🕯️ Survivor Visibility and Risk Aversion  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
 *Why institutions become wary, cautious, or avoidant when a survivor’s clarity, accuracy, or visibility intersects with a coercive actor — and how risk aversion shapes the survivor’s experience of being seen.*  
 
 ---
@@ -205,4 +205,4 @@ Pairs with:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-14_
