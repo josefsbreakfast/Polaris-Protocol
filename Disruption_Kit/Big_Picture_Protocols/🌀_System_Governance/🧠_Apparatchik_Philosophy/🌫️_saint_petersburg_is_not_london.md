@@ -1,5 +1,5 @@
 # 🌫️ Saint Petersburg Is Not London  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-14  
 *Why British observers often misread Russian geography by assuming every major Russian city functions like London, and why Saint Petersburg is psychologically closer to Edinburgh, York, or Durham than to Westminster.*  
 
 ---
@@ -296,4 +296,4 @@ It examines how British metropolitan assumptions can distort interpretations of 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-14_
