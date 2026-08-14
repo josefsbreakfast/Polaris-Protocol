@@ -1,5 +1,5 @@
 # ⚖️ Operational Dilemma: Fix It vs Chain of Command  
-**First created:** 2025-09-05 | **Last updated:** 2026-04-24  
+**First created:** 2025-09-05 | **Last updated:** 2026-08-14  
 *Comparing response pathways when an internal issue is identified: direct remediation, formal escalation, or hybrid approaches.*  
 
 ---
@@ -136,4 +136,4 @@ It provides a structured way to assess different response pathways when organisa
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-24_
+_Last updated: 2026-08-14_
