@@ -1,5 +1,5 @@
 # 🍪 CookieLeaks 003  
-**First created:** 2025-09-30 | **Last updated:** 2026-05-14  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-14  
 *An internal ABDD leak archive documenting sabotage, self-inflicted bureaucratic disasters, and the increasingly porous boundary between institutional secrecy and institutional incompetence.*  
 
 ---
@@ -180,4 +180,4 @@ It contributes to the archive by documenting the self-inflicted failures, proced
 
 *The most dangerous threat to institutional secrecy is usually the institution itself.*  
 
-_Last updated: 2026-05-14_
+_Last updated: 2026-08-14_
