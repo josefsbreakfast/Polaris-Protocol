@@ -101,6 +101,107 @@ sources:
 - (use vpn) https://www.wyff4.com/article/anmed-response-cyberattack-facebook-post-hackers/73406207
 - https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a
 - https://www.cisa.gov/news-events/news/cisa-fbi-epa-and-us-government-partners-update-warning-iran-affiliated-threat-actors-targeting
+- https://www.wmbfnews.com/2026/08/12/cybersecurity-incident-limits-some-services-darlington-county/
+- https://wpde.com/news/local/darlington-co-investigating-cybersecurity-incident-affecting-some-services-county-computer-systems-darlington-county-administrator-marion-charles-stewart-iii-911-communications-center
+- https://therecord.media/ceva-logistics-cyberattack-bol-steam-debijenkorf-ace-tate
+- https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/
+- https://www.techradar.com/pro/security/the-ceva-logistics-data-breach-is-having-major-knock-on-effects-across-europe-heres-what-we-know
+- https://www.fbi.gov/investigate/cyber/alerts/2026/malicious-cyber-actors-targeting-water-and-wastewater-sector-internet--facing-programmable-logic-controllers-causing-operational-disruptions
+
+also today re public attribution by us govt:  
+
+There is a meaningful attribution update, but it is not formal US government attribution.
+
+APT IRAN has now publicly claimed direct responsibility for the Minnesota water attacks and said the operation was conducted with CyberAv3ngers. Threat Beat, a project of Auburn University’s McCrary Institute, reported the Telegram statement; KSTP independently reported the claim and contacted Minnesota IT Services, the FBI and CISA. MNIT and the FBI said they were aware of the posts but declined further comment; CISA had not responded at publication.  
+
+That matters because CISA’s current advisory identifies APT Iran among the names used for the same Iranian-affiliated threat cluster associated with CyberAv3ngers, and longstanding US government reporting already characterises CyberAv3ngers as IRGC-affiliated.  
+
+So the attribution ladder has moved like this:
+
+* Formal FBI/CISA/NSA/EPA attribution of the July–August Minnesota/multi-state campaign: still absent. KSTP reports the FBI and MNIT remain publicly noncommittal.  
+* Reported investigative assessment: still materially Iran-facing; earlier reporting said US and state investigators thought Iranian-linked hackers were probably responsible.  
+* Actor claim: new and stronger — an actor already placed by US government reporting inside the CyberAv3ngers/IRGC-affiliated ecosystem is now explicitly claiming the Minnesota operation.  
+* Competing explanations: still preserved. CyberAv3ngers has a history of false or exaggerated claims, so the new claim strengthens the Iran-linked hypothesis but does not independently prove authorship, command, or that every incident in the wider multi-state wave shares the same operator.  
+* Evidence weakening Iran attribution: I found no new credible public evidence that materially weakens the Iran-linked assessment. The main counter-position remains President Trump’s July 31 public rejection of Iranian responsibility, which was not accompanied by an alternative technical attribution.  
+
+The clean update is therefore:
+
+Minnesota/core wave: Iran-linked assessment strengthened by an explicit responsibility claim from the APT Iran/CyberAv3ngers ecosystem; formal US attribution still withheld/absent; forensic corroboration of the claim remains necessary.
+
+That is enough of a change to justify a new attribution-history event, but not enough to change the field to FORMAL PUBLIC ATTRIBUTION: IRGC.
+
+There is a meaningful new attribution development: an Iran-linked actor has now claimed direct responsibility for the Minnesota attacks.
+
+On August 12, APT IRAN posted that the Minnesota operation was conducted jointly with CyberAv3ngers and that they “take direct responsibility” for it. The claim also framed the attacks as a warning tied to retaliation against countries threatening Iran.  
+
+That matters because CyberAv3ngers is not just a generic pro-Iran hacktivist label. The U.S. government already identifies it as affiliated with the IRGC Cyber-Electronic Command and says it has previously targeted U.S. industrial-control and water/wastewater systems.  
+
+But the evidentiary categories still need to stay separate:
+
+📣 ACTOR CLAIM:
+NEW — APT IRAN / CyberAv3ngers claim direct responsibility
+for the Minnesota attacks.
+IRGC RELATIONSHIP OF CYBERAV3NGERS:
+🟢 ESTABLISHED in prior U.S. government attribution.
+CURRENT CAMPAIGN → IRGC:
+🟡 Strong reported intelligence assessment
++ now an aligned actor claim.
+FORMAL PUBLIC FBI/CISA/NSA/EPA ATTRIBUTION
+OF THE JULY–AUGUST CAMPAIGN:
+⚪ STILL NOT MADE.
+
+The FBI and Minnesota IT Services told KSTP they were aware of the new posts but declined to validate or comment on the claim; CISA had not responded at publication.  
+
+Crucially, nothing new I found weakens the Iran hypothesis. The strongest independent reporting still says U.S. intelligence agencies assess Iran was likely behind the Minnesota campaign, while the investigation continues and formal agency attribution remains absent.  
+
+So this is not yet “formal U.S. attribution.” But it is a genuine evidentiary addition: the public record has moved from reported U.S. intelligence assessment + technical alignment to reported U.S. intelligence assessment + an explicit claim by actors already tied by the U.S. government to the IRGC cyber apparatus.
+
+There is a meaningful attribution update, but still no formal US federal attribution.
+
+APT IRAN has now publicly claimed direct responsibility for the Minnesota water attacks, saying the operation was conducted jointly with CyberAv3ngers. KSTP reported the claim on August 14, citing Threat Beat at Auburn University’s McCrary Institute; the reported Telegram statement said the groups “take direct responsibility” for the Minnesota attack.  
+
+That matters because CyberAv3ngers is already treated by the US government as affiliated with the IRGC Cyber-Electronic Command. So this is stronger than an anonymous or newly invented actor claim: it adds a direct claim from an actor ecosystem with an established IRGC relationship.  
+
+But the categories still remain separate. FBI/CISA/NSA/EPA have not formally attributed the July–August campaign publicly. The FBI and Minnesota authorities remain in investigative posture, while earlier reporting said US/state investigators considered Iranian responsibility probable.   President Trump’s July 31 statement rejecting Iranian responsibility remains the main contrary public position.  
+
+So the clean movement is:
+
+reported investigative assessment → Iran-linked probable
+actor claim → newly strengthened: APT IRAN/CyberAv3ngers explicitly claim Minnesota
+known CyberAv3ngers–IRGC relationship → established from prior US attribution
+formal public attribution of this campaign → still absent
+
+The actor claim does not independently prove authorship, state tasking, or common responsibility for every attack in the wider multi-state wave. Copycats, criminal exploitation and multiple operators remain viable for some incidents. But it materially strengthens the Iran-linked case for the Minnesota/core wave rather than weakening it.  
+
+sources:  
+
+- https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/
+- https://www.linkedin.com/pulse/cyber-briefing-81226-au-mccrary-institute-7cfre
+- https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a?enkwrd=%2A+&
+- https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/
+- https://www.reuters.com/world/us-cyber-defense-agency-warns-increased-hacker-targeting-water-utilities-2026-07-30/
+- https://www.reuters.com/world/us/trump-says-iran-not-blame-minnesota-cyber-attack-2026-07-31/
+- https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/
+- https://www.washingtonpost.com/national-security/2026/07/30/us-spy-agencies-suspect-iran-launched-cyberattack-minnesota-water-facilities/
+
+There is a meaningful attribution update, but still no formal US federal attribution.
+
+APT IRAN has now publicly claimed direct responsibility for the Minnesota water attacks, saying the operation was conducted jointly with CyberAv3ngers. KSTP reported the claim on August 14, citing Threat Beat at Auburn University’s McCrary Institute; the reported Telegram statement said the groups “take direct responsibility” for the Minnesota attack.  
+
+That matters because CyberAv3ngers is already treated by the US government as affiliated with the IRGC Cyber-Electronic Command. So this is stronger than an anonymous or newly invented actor claim: it adds a direct claim from an actor ecosystem with an established IRGC relationship.  
+
+But the categories still remain separate. FBI/CISA/NSA/EPA have not formally attributed the July–August campaign publicly. The FBI and Minnesota authorities remain in investigative posture, while earlier reporting said US/state investigators considered Iranian responsibility probable.   President Trump’s July 31 statement rejecting Iranian responsibility remains the main contrary public position.  
+
+So the clean movement is:
+
+reported investigative assessment → Iran-linked probable
+actor claim → newly strengthened: APT IRAN/CyberAv3ngers explicitly claim Minnesota
+known CyberAv3ngers–IRGC relationship → established from prior US attribution
+formal public attribution of this campaign → still absent
+
+The actor claim does not independently prove authorship, state tasking, or common responsibility for every attack in the wider multi-state wave. Copycats, criminal exploitation and multiple operators remain viable for some incidents. But it materially strengthens the Iran-linked case for the Minnesota/core wave rather than weakening it.  
+
+sources:  
+
 - 
-
-
+- 
