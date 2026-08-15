@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-15 21:38:27 UTC_
+_Generated on 2026-08-15 21:39:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,8 +18,6 @@ _Generated on 2026-08-15 21:38:27 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**🧪_Development_Experimentation/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/)
-        - [`🇬🇧🧪_how_not_to_do_mk_ultra_grimley_edition.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🇬🇧🧪_how_not_to_do_mk_ultra_grimley_edition.md)
-        - [`🌀_rune_the_dev.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🌀_rune_the_dev.png)
         - [`🎭_the_recognisable_researcher.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🎭_the_recognisable_researcher.md)
         - [`🐕‍🦺_animal_assisted_deradicalisation_pilots.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🐕‍🦺_animal_assisted_deradicalisation_pilots.md)
         - [`💔_romance_lens_as_ontology_failure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/💔_romance_lens_as_ontology_failure.md)
@@ -3611,6 +3609,8 @@ _Generated on 2026-08-15 21:38:27 UTC_
         - [`⚖️_non_consent_psych_experimentation_gap.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/⚖️_non_consent_psych_experimentation_gap.md)
         - [`⚖️_the_teaching_hospital_loophole.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/⚖️_the_teaching_hospital_loophole.md)
         - [`✨_defeated_by_audit.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/✨_defeated_by_audit.md)
+        - [`🇬🇧🧪_how_not_to_do_mk_ultra_grimley_edition.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🇬🇧🧪_how_not_to_do_mk_ultra_grimley_edition.md)
+        - [`🌀_rune_the_dev.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🌀_rune_the_dev.png)
       - [**🧬_Governance_Repair_Shop/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/README.md)
         - [`⚖️_institutional_realisation_to_remediation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/⚖️_institutional_realisation_to_remediation.md)
