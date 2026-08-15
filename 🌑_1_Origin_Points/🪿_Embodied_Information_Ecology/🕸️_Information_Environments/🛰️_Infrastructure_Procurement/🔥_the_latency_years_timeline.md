@@ -1,7 +1,5 @@
-🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🔥_the_latency_years_timeline.md
-
 # 🔥 The Latency Years Timeline  
-**First created:** 2025-10-13 | **Last updated:** 2026-01-28  
+**First created:** 2025-10-13 | **Last updated:** 2026-08-15  
 *Narrative chronology of a prolonged national‑scale digital crisis.*  
 
 ---
@@ -43,4 +41,4 @@ fictional crisis, national infrastructure, attrition, rebuild, latency era
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-28_
+_Last updated: 2026-08-15_
