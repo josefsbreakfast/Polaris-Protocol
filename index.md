@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-15 20:47:37 UTC_
+_Generated on 2026-08-15 20:49:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -20,7 +20,6 @@ _Generated on 2026-08-15 20:47:37 UTC_
       - [**🛰️_Infrastructure_Procurement/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/notes.txt)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
-        - [`🦎_strict_migration_helps_modern_enslavers.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🦎_strict_migration_helps_modern_enslavers.md)
         - [`🦤_contractor_chain_leakage.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🦤_contractor_chain_leakage.md)
         - [`🧠_austerity_as_security_doctrine.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧠_austerity_as_security_doctrine.md)
         - [`🧠_immortality_fantasies_of_the_ultra_rich.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🧠_immortality_fantasies_of_the_ultra_rich.md)
@@ -4143,6 +4142,7 @@ _Generated on 2026-08-15 20:47:37 UTC_
         - [`🛰️_vendor_lock_in.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🛰️_vendor_lock_in.md)
         - [`🦋_butterfly_effect_in_small_states.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🦋_butterfly_effect_in_small_states.md)
         - [`🦎_how_to_not_enslave_digitally.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🦎_how_to_not_enslave_digitally.md)
+        - [`🦎_strict_migration_helps_modern_enslavers.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🦎_strict_migration_helps_modern_enslavers.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
     - [**🕸️🧿_The_Observed_Information_Space/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/)
