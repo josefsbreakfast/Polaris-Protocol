@@ -1,5 +1,5 @@
 # 🧨 Cruelty as Innovation  
-**First created:** 2025-12-14 | **Last updated:** 2026-02-20  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-15  
 *How harm is reframed as skill, efficiency, and entrepreneurial insight*  
 
 ---
@@ -156,4 +156,4 @@ It documents a narrative inversion through which harm is reframed as competence,
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-08-15_
