@@ -1,11 +1,8 @@
-# 🌊 Riding Every Wave
+# 🌊 Riding Every Wave  
+**First created:** 2026-08-14 | **Last updated:** 2026-08-16  
+*How state campaigns, aligned actors, shared vulnerabilities, criminal follow-on and ordinary opportunism can overlap without sharing a command structure.*  
 
-**First created:** 2026-08-14 \| **Last updated:** 2026-08-15\
-*How state campaigns, aligned actors, shared vulnerabilities, criminal
-follow-on and ordinary opportunism can overlap without sharing a command
-structure.*
-
-------------------------------------------------------------------------
+---
 
 ## 🛰️ Orientation
 
@@ -35,7 +32,7 @@ It is also to ask:
 > **Which wave are we looking at, what produced it, and what kind of
 > relationship---if any---connects it to the waves around it?**
 
-------------------------------------------------------------------------
+---
 
 ## 🌊 One Conflict Can Produce Several Waves
 
@@ -137,7 +134,7 @@ actor to have joined the war.
 
 Sometimes war increases crime because war increases opportunity.
 
-------------------------------------------------------------------------
+---
 
 ### 🧬 Shared-vulnerability waves
 
@@ -189,7 +186,7 @@ organisations would mean something different from four interesting
 victims among fifty organisations reached through the same vulnerable
 platform.
 
-------------------------------------------------------------------------
+---
 
 ## 🧿 Downstream Is Not The Same As Directed
 
@@ -236,7 +233,7 @@ The state operation may therefore help explain **why the later crime
 became possible or profitable** while explaining nothing about **who
 ordered the later crime**.
 
-------------------------------------------------------------------------
+---
 
 ## 🪜 Initial Access And Later Use May Have Different Organising Logic
 
@@ -310,7 +307,7 @@ POSSIBLE LATER STATE CUSTOMER
 EVIDENCE OF A LATER STATE CUSTOMER
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 🌀 Conflict Changes The Opportunity Environment
 
@@ -346,7 +343,7 @@ Sometimes it is.
 
 Sometimes it is several actors riding the same wave.
 
-------------------------------------------------------------------------
+---
 
 ## 🧩 Several Relationships Can Exist At Once
 
@@ -395,7 +392,7 @@ Temporal clustering is useful for identifying patterns.
 
 It is not proof of common command.
 
-------------------------------------------------------------------------
+---
 
 ## ⚖️ Do Not Make Criminal Activity Do Too Much Evidentiary Work
 
@@ -419,7 +416,7 @@ disruption to be assigned to the state.
 
 Both errors flatten a mixed environment into a single story.
 
-------------------------------------------------------------------------
+---
 
 ## 🪆 Attribution Can Be Nested
 
@@ -455,7 +452,7 @@ in the surrounding period.
 
 It also allows confidence to change independently at each layer.
 
-------------------------------------------------------------------------
+---
 
 ## 🔎 Questions For Reading A Wave
 
@@ -492,7 +489,7 @@ impossible.
 The goal is to describe the relationships that the evidence actually
 supports.
 
-------------------------------------------------------------------------
+---
 
 ## 🧪 Worked Example — The Mid-August 2026 Waves
 
@@ -610,7 +607,7 @@ The pattern is becoming more differentiated as the evidence improves.
 
 That is analytical progress, not the disappearance of the campaign.
 
-------------------------------------------------------------------------
+---
 
 ## 🚨 Failure Mode: Everybody Works For Tehran
 
@@ -641,7 +638,7 @@ quietly becomes the attribution method.
 
 It is not one.
 
-------------------------------------------------------------------------
+---
 
 ## 🚨 Failure Mode: One Criminal Means No State Campaign
 
@@ -662,7 +659,7 @@ Mixed campaigns are allowed to be mixed.
 
 Finding an opportunist riding the wave does not prove there was no wave.
 
-------------------------------------------------------------------------
+---
 
 ## 🧭 What This Model Preserves
 
@@ -687,13 +684,15 @@ The purpose is not to make attribution weaker.
 
 It is to make attribution **more precise**.
 
-------------------------------------------------------------------------
+---
 
 ## 🌌 Constellations
 
 🌊 🕸️ 🧿 🪆 📊 --- campaign ecology; layered attribution; state-linked
 activity; criminal follow-on; causal versus organisational
-relationships.
+relationships.  
+
+---
 
 ## ✨ Stardust
 
@@ -702,31 +701,20 @@ follow-on, shared vulnerabilities, selective exploitation, access
 markets, opportunistic crime, campaign waves, causal relationships,
 command relationships, conflict ecology
 
-------------------------------------------------------------------------
+---
 
 ## 🏮 Footer
 
-*Riding Every Wave* is a living node of the **Polaris Protocol**.\
-It provides a reusable framework for distinguishing state-directed
-operations, affiliated or aligned participation, shared-vulnerability
-waves, criminal follow-on and ordinary opportunism within
-conflict-driven cyber campaigns. It is designed to preserve causal and
-technical relationships without converting them automatically into
-organisational attribution.
+*Riding Every Wave* is a living node of the **Polaris Protocol**.  
+It provides a reusable framework for distinguishing state-directed operations, affiliated or aligned participation, shared-vulnerability waves, criminal follow-on and ordinary opportunism within conflict-driven cyber campaigns.  
+It is designed to preserve causal and technical relationships without converting them automatically into organisational attribution.  
 
 > 📡 Cross-references:
 >
-> -   [🕸️ Attribution Is Not A Light
->     Switch](./🕸️_attribution_is_not_a_light_switch.md) ---
->     *confidence, evidence and the limits of binary attribution*\
-> -   [🔎 Confidence Labels And Source
->     Rules](./🔎_confidence_labels_and_source_rules.md) --- *separating
->     actor claims, investigative assessments and formal attribution*\
-> -   [⏱️ Timeline Of Essential Infrastructure
->     Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) ---
->     *incident-level chronology in which different campaign waves can
->     be recorded separately*
+> -   [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) --- *confidence, evidence and the limits of binary attribution*  
+> -   [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) --- *separating actor claims, investigative assessments and formal attribution*\
+> -   [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) --- *incident-level chronology in which different campaign waves can be recorded separately*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-15*
+_Last updated: 2026-08-16_
