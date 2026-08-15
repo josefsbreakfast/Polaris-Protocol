@@ -1,5 +1,5 @@
 # 💷 Procurement Culture and Departmental Clashes  
-**First created:** 2025-09-01 | **Last updated:** 2026-01-28  
+**First created:** 2025-09-01 | **Last updated:** 2026-08-15  
 *On UK government procurement logics, Treasury culture, and the cost of false fixes.*  
 
 ---
@@ -73,4 +73,4 @@ It documents how Treasury logics, procurement rituals, and “fixes” end up co
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-28_
+_Last updated: 2026-08-15_
