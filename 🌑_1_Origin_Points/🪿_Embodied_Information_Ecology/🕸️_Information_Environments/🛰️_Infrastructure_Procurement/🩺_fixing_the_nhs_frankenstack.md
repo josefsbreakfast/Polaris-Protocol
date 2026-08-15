@@ -1,5 +1,5 @@
 # 🩺 Fixing the NHS Frankenstack  
-**First created:** 2026-01-28 | **Last updated:** 2026-01-31  
+**First created:** 2026-01-28 | **Last updated:** 2026-08-15  
 *Why NHS interoperability must be fixed before analytics, AI, or efficiency claims are credible.*  
 <!--Recost it if you believe it's wrong.-->
 ---
@@ -366,4 +366,4 @@ As SCD relies on genotype most common in Black British and Black African groups 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-31_ 
+_Last updated: 2026-08-15_ 
