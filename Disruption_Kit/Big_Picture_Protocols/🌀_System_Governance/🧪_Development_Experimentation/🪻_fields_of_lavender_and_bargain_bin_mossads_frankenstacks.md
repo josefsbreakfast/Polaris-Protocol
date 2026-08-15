@@ -1,5 +1,5 @@
 # 🪻 Fields of Lavender, & Bargain Bin Mossad's Most Beloved Frankenstacks  
-**First created:** 2025-10-17 | **Last updated:** 2026-02-20  
+**First created:** 2025-10-17 | **Last updated:** 2026-08-15  
 *Open-source picture of how Israel’s Unit 8200–linked systems are reported to work: an LLM for intel triage plus ML targeters (Lavender / Gospel / “Where’s Daddy?”), and the policy “risk knobs” that shape harm.*
 <!--Firstly:  
 It's Day 2 of my period and even I can look at grown men naming a new toy, "Where's Daddy?" and think, "awww... they miss their dads, how sweet".  
@@ -96,4 +96,4 @@ The length of the menu below reflects the interconnectedness of the oppression f
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-08-15_
