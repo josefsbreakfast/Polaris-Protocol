@@ -1,5 +1,5 @@
 # 🧪 Development & Experimentation  
-**First created:** 2025-10-13 | **Last updated:** 2025-10-14  
+**First created:** 2025-10-13 | **Last updated:** 2026-08-15  
 *Where “innovation” meets containment — testing, failing, and rebranding control as progress.*  
 
 ---
@@ -141,4 +141,4 @@ It documents how experimentation, austerity, and broken prototypes become instru
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2026-08-15_
