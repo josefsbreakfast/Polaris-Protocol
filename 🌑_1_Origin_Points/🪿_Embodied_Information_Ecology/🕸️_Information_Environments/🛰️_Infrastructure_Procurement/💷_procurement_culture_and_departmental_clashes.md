@@ -1,5 +1,5 @@
 # 💷 Procurement Culture and Departmental Clashes  
-**First created:** 2025-09-29 | **Last updated:** 2026-01-28  
+**First created:** 2025-09-29 | **Last updated:** 2026-08-15  
 *How Treasury logics and departmental needs clash, shaping the adoption of surveillance and “fix” technologies.*  
 
 ---
@@ -69,4 +69,4 @@ It documents how Treasury logics and departmental needs clashed, shaping surveil
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-28_  
+_Last updated: 2026-08-15_  
