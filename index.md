@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-14 22:58:24 UTC_
+_Generated on 2026-08-15 07:07:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5502,6 +5502,8 @@ _Generated on 2026-08-14 22:58:24 UTC_
         - [`🪳_the_cockroach_at_a_glance.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🪳_the_cockroach_at_a_glance.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/README.md)
       - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/notes.txt)
+    - [**🪺_How_To_Handle_Carefully/**](🌓_3_In_The_Moment/📲_Press_Matters/🪺_How_To_Handle_Carefully/)
+      - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🪺_How_To_Handle_Carefully/notes.txt)
     - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/README.md)
   - [**🛰️_OSINT_Field_Operations/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/)
     - [**🍉_Academic_Liberty/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/)
