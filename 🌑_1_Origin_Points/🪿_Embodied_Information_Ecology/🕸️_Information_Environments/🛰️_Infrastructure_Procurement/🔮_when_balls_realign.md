@@ -1,5 +1,5 @@
 # 🔮 When Balls Realign  
-**First created:** 2026-05-05 | **Last updated:** 2026-05-05  
+**First created:** 2026-05-05 | **Last updated:** 2026-08-15  
 *Alignment signalling, audience prioritisation, and boundary-setting under systemic instability*
 
 ---
@@ -479,4 +479,4 @@ It maps how organisations prioritise audiences and construct alignment signals u
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-05_
+_Last updated: 2026-08-15_
