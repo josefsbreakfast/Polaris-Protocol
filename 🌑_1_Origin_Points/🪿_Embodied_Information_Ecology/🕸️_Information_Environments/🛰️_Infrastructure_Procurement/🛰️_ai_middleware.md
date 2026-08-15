@@ -1,5 +1,5 @@
 # 🛰️ AI Middleware  
-**First created:** 2025-09-14 | **Last updated:** 2026-01-28  
+**First created:** 2025-09-14 | **Last updated:** 2026-08-15  
 *Invisible algorithmic middle layers that implement policy while hiding accountability — “the system decided.”*  
 
 ---
@@ -89,4 +89,4 @@ It documents how invisible algorithmic layers transform guidance into de facto l
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-28_  
+_Last updated: 2026-08-15_  
