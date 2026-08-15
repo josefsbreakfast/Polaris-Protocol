@@ -1,5 +1,5 @@
 # 🧬 Accountability Is Infrastructure  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-28  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-15  
 *Why accountability is not a moral add-on but a load-bearing system of the state.*  
 
 ---
@@ -214,4 +214,4 @@ It frames accountability as a foundational system requirement without which just
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-28_
+_Last updated: 2026-08-15_
