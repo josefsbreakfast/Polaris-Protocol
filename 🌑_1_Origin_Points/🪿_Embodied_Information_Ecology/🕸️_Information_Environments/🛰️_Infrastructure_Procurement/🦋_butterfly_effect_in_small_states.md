@@ -71,4 +71,4 @@ It explains why transparency and documentation in compact nations can exert outs
 
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2026-02-09_
+_Last updated: 2026-08-15_
