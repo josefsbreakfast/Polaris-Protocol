@@ -1,5 +1,5 @@
 # 🧿 Unit 8200 Is Not Hiding What It Is  
-**First created:** 2026-01-04 | **Last updated:** 2026-01-28  
+**First created:** 2026-01-04 | **Last updated:** 2026-08-15  
 *Give me Hebrew cryptopunk but with a dash of DARPA and a heady base of British colonial policing.*  
 <!--"The unit is composed primarily of 18–21 year olds." And apparantly a spoonful of chan board gooning, for flavour.-->
 ---
@@ -176,4 +176,4 @@ It contributes semiotic analysis of intelligence infrastructure without mystific
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-28_
+_Last updated: 2026-08-15_
