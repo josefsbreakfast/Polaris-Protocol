@@ -1,5 +1,5 @@
 # 🇮🇷 Data Wars: IRGC Edition
-**First created:** 2026-08-01 | **Last updated:** 2026-08-10  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-16  
 *Tracking essential-state cyber disruption across the widening Iran war without pretending attribution is cleaner than it is.*
 
 ---
@@ -622,4 +622,4 @@ It provides the orientation, scope, attribution discipline, legal caution, and r
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-10_
+_Last updated: 2026-08-16_
