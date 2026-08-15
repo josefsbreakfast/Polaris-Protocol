@@ -1,6 +1,6 @@
 # ⏱️ Timeline Of Essential Infrastructure Attacks
 
-**First created:** 2026-08-01 \| **Last updated:** 2026-08-14\
+**First created:** 2026-08-01 \| **Last updated:** 2026-08-15\
 *A provisional open-source chronology of cyber incidents affecting
 essential state infrastructure during the Iran war.*
 
@@ -1465,6 +1465,369 @@ forcing every incident into one sponsor.
 
 See [🌊 Riding Every Wave](./🌊_riding_every_wave.md).
 
+------------------------------------------------------------------------
+
+## 🏥 2026-07-26 onward --- AnMed Healthcare Disruption And Extortion
+
+### 🇺🇸 United States --- South Carolina and Georgia
+
+AnMed identified a malware-related cyber incident on 26 July. The
+health system initially closed most of its facilities, postponed some
+appointments and elective procedures, and operated through downtime and
+recovery procedures while restoring records, communications, imaging,
+and other clinical services.
+
+The incident later acquired a separate coercive layer.
+
+On 11 August, AnMed's Facebook page displayed repeated ransom demands
+purporting to come from **The Gentlemen** ransomware group. The posts
+claimed that highly sensitive patient and institutional data had been
+exfiltrated. AnMed removed the unauthorised material, disabled platform
+access, and said the claims had not been verified.
+
+The social-media takeover establishes additional attacker-controlled
+access and coercive conduct.
+
+It does not establish that every claimed data category or volume was
+actually taken.
+
+``` text
+HEALTHCARE DISRUPTION:
+🟢 ESTABLISHED
+
+THE GENTLEMEN RESPONSIBILITY:
+🟡 PROBABLE
+
+CRIMINAL / EXTORTION MOTIVE:
+🟡 PROBABLE
+
+CLAIMED DATA VOLUME AND CONTENT:
+🟠 SUSPECTED / UNVERIFIED
+
+IRAN CONNECTION:
+⚪ NO EVIDENCE FOUND
+```
+
+This incident strengthens the conventional criminal explanation for at
+least part of the wider healthcare and essential-services noise.
+
+Sources:
+
+-   [AnMed recovery and service updates reported by HIPAA
+    Journal](https://www.hipaajournal.com/anmed-closes-almost-80-facilities-while-it-grapples-with-cyberattack/)
+-   [The Record: ransomware group hijacks AnMed's Facebook page during
+    recovery](https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response)
+-   [WYFF4: AnMed response to unauthorised ransom posts](https://www.wyff4.com/article/anmed-response-cyberattack-facebook-post-hackers/73406207)
+
+------------------------------------------------------------------------
+
+## 🚚 2026-07-29 onward --- CEVA Logistics Warehouse Disruption
+
+### 🇪🇺 Europe --- private transport and logistics
+
+A cyberattack beginning around 29 July affected contract-logistics
+operations at eight CEVA Logistics warehouses in Europe. Public
+reporting described shipment delays and later confirmed that some
+customer delivery information had been exposed.
+
+CEVA is part of the CMA CGM group and provides freight forwarding,
+warehousing, and transportation services across large commercial and
+industrial supply chains.
+
+The incident therefore belongs in the adjacent essential-logistics
+watch.
+
+It does not currently establish:
+
+-   compromise of port-control systems;
+-   compromise of transport operational technology;
+-   deliberate targeting of military logistics;
+-   or an Iranian connection.
+
+``` text
+OPERATIONAL LOGISTICS EFFECT:
+🟢 ESTABLISHED
+
+DATA EXPOSURE:
+🟢 ESTABLISHED in affected customer reporting; full scope developing
+
+ATTRIBUTION:
+⚪ OPEN
+
+IRAN CONNECTION:
+⚪ NO EVIDENCE FOUND
+```
+
+Its strategic relevance would rise if later evidence showed that the
+affected warehouses supported defence, fuel, food, medical, or other
+essential supply chains.
+
+Sources:
+
+-   [CEVA account and affected-customer reporting via
+    TechCrunch](https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/)
+-   [FreightWaves: shipment delays across eight European
+    warehouses](https://www.freightwaves.com/news/cyberattack-on-ceva-logistics-warehouses-in-europe-impacts-retailers)
+-   [SecurityWeek: CEVA contract-logistics operations
+    disrupted](https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/)
+
+------------------------------------------------------------------------
+
+## 🏛️ 2026-08-07 --- 2026-08-11 --- Suisun City Public-Safety And Administrative Disruption
+
+### 🇺🇸 United States --- California
+
+Malicious software compromised Suisun City's IT systems on 7 August.
+The city shut down its network to contain the incident and preserve
+evidence for a federal investigation.
+
+The disruption affected 911 routing, police and fire dispatch, records,
+and ordinary city services. Emergency calls were rerouted through
+Solano County while police and fire responses continued. City Hall and
+several public-facing services remained closed during recovery.
+
+On 11 August, the city council met in closed session to consider a
+demand from the perpetrators.
+
+That later development moves the motive assessment away from completely
+open attribution and towards a criminal-extortion explanation.
+
+It does not yet establish a named ransomware family or operator.
+
+``` text
+PUBLIC-SAFETY / ADMINISTRATIVE DISRUPTION:
+🟢 ESTABLISHED
+
+PERPETRATOR DEMAND:
+🟢 ESTABLISHED as an event considered by the city council
+
+CRIMINAL / EXTORTION EXPLANATION:
+🟠 SUSPECTED / DEVELOPING
+
+IRAN CONNECTION:
+⚪ NO EVIDENCE FOUND
+```
+
+Sources:
+
+-   [San Francisco Chronicle: initial cyberattack and emergency
+    declaration](https://www.sfchronicle.com/bayarea/article/cyberattack-suisun-city-22380837.php)
+-   [San Francisco Chronicle: city council considers perpetrator
+    demand](https://www.sfchronicle.com/bayarea/article/suisun-city-cyberattack-demand-22384401.php)
+
+------------------------------------------------------------------------
+
+## 🏘️ 2026-08-12 --- Darlington County Systems Taken Offline
+
+### 🇺🇸 United States --- South Carolina
+
+Darlington County disclosed a cybersecurity incident affecting computer
+systems and limiting some county services. Officials took systems
+offline, engaged external cybersecurity specialists and law
+enforcement, and began restoration work.
+
+Emergency services and the county's ability to receive and dispatch 911
+calls remained operational. Some ordinary phone lines and county
+functions were unavailable or operating at reduced capacity.
+
+No actor, malware family, ransomware demand, initial-access route, or
+data theft had been publicly identified in the reviewed reporting.
+
+``` text
+INCIDENT AND SERVICE EFFECT:
+🟢 ESTABLISHED
+
+ATTRIBUTION:
+⚪ OPEN
+
+IRAN CONNECTION:
+⚪ NO EVIDENCE FOUND
+```
+
+Darlington adds to the visible recurrence of US local-government
+disruption.
+
+It does not establish that the incidents share an operator or sponsor.
+
+Sources:
+
+-   [Darlington County statement reported by News and
+    Press](https://www.newsandpress.net/darlington-county-issues-statement-on-cybersecurity-incident/)
+-   [WMBF: limited services while emergency communications remained
+    operational](https://www.wmbfnews.com/2026/08/12/cybersecurity-incident-limits-some-services-darlington-county/)
+-   [WPDE: county investigation and service
+    effects](https://wpde.com/news/local/darlington-co-investigating-cybersecurity-incident-affecting-some-services-county-computer-systems-darlington-county-administrator-marion-charles-stewart-iii-911-communications-center)
+
+------------------------------------------------------------------------
+
+## 📣 2026-08-12 --- 2026-08-15 --- APT IRAN And CyberAv3ngers Claim Minnesota
+
+An account using the name **APT IRAN** reportedly said on Telegram that
+the Minnesota water operation had been conducted jointly with
+CyberAv3ngers and that the actors took direct responsibility for it.
+
+Threat Beat at Auburn University's McCrary Institute reported the
+statement. KSTP subsequently reported the claim and sought comment from
+Minnesota IT Services, the FBI, and CISA.
+
+Minnesota IT Services and the FBI said they were aware of the posts but
+did not validate them publicly. The state investigation remained open.
+
+The claim carries more weight than a statement from an unknown new
+persona because US government reporting has previously identified
+CyberAv3ngers as affiliated with the IRGC Cyber-Electronic Command and
+associated it with attacks on internet-connected PLCs.
+
+That prior relationship does not independently prove current authorship
+or current state direction.
+
+``` text
+ACTOR CLAIM:
+📣 ESTABLISHED AS A CLAIM
+
+PRIOR CYBERAV3NGERS--IRGC RELATIONSHIP:
+🟢 ESTABLISHED IN PRIOR US GOVERNMENT ATTRIBUTION
+
+MINNESOTA / CORE-WAVE IRAN-LINKED ASSESSMENT:
+🟡 PROBABLE / STRENGTHENED
+
+FORMAL PUBLIC ATTRIBUTION OF THE CURRENT CAMPAIGN:
+⚪ NOT IDENTIFIED
+
+FORENSIC VALIDATION OF THE CLAIM:
+NOT PUBLIC / NOT ESTABLISHED IN THE REVIEWED RECORD
+```
+
+The attribution history now reads:
+
+``` text
+investigation open
+→ Iranian involvement suspected
+→ reported investigative / intelligence assessment favours Iran
+→ known IRGC-affiliated actor ecosystem claims responsibility
+→ formal federal attribution still absent
+```
+
+Sources:
+
+-   [KSTP: APT IRAN and CyberAv3ngers claim the Minnesota
+    attacks](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)
+-   [McCrary Institute Threat Beat briefing](https://www.linkedin.com/pulse/cyber-briefing-81226-au-mccrary-institute-7cfre)
+-   [CISA and partners: prior attribution of IRGC-affiliated PLC
+    activity](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)
+-   [CISA: 2026 Iranian-affiliated PLC exploitation
+    advisory](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a)
+
+------------------------------------------------------------------------
+
+## 🧬 2026-08-13 --- Cl0p Windchill / FlexPLM Mass Extortion Campaign
+
+Cl0p claimed data theft from nearly 50 organisations, including Shell,
+Philips, GE, and Fiserv. Affected organisations reported different
+levels of confirmation: Philips confirmed and contained attempted
+compromise of a specific internal server; Shell and GE investigated;
+Fiserv said it had found no evidence that customer, banking,
+transaction, personal, or operational data had been compromised.
+
+Public reporting connected the mass-extortion activity to exploitation
+of PTC Windchill and FlexPLM, which are used for product-lifecycle and
+engineering-data management.
+
+This is a strong comparator for the wider timeline.
+
+One shared technical opportunity can generate a cross-sector victim
+list without deliberate selection of every victim by strategic sector.
+
+``` text
+CL0P CAMPAIGN:
+🟢 ESTABLISHED AS A MASS-EXTORTION CAMPAIGN
+
+INDIVIDUAL DATA-THEFT CLAIMS:
+🟠 / 🟡 / 🟢 AS SUPPORTED BY EACH ORGANISATION
+
+ORGANISING MECHANISM:
+🟡 PROBABLE SHARED-SOFTWARE EXPLOITATION
+
+ESSENTIAL-SERVICE OPERATIONAL EFFECT:
+NOT GENERALLY ESTABLISHED
+
+IRAN CONNECTION:
+⚪ NO EVIDENCE FOUND
+```
+
+The victimology may still justify examination of post-compromise
+selection.
+
+But the present evidence supports:
+
+``` text
+shared vulnerability
+→ scalable criminal access
+→ cross-sector extortion
+```
+
+more strongly than:
+
+``` text
+Iranian strategic selection
+→ coordinated state-disruption campaign
+```
+
+Sources:
+
+-   [Reuters: Cl0p claims mass data theft from Shell, Philips, GE,
+    Fiserv and others](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
+-   [PTC active advisory for the Windchill and FlexPLM remote-code
+    execution vulnerability](https://www.ptc.com/en/about/trust-center/advisory-center/active-advisories/windchill-flexplm-rce-vulnerability)
+
+------------------------------------------------------------------------
+
+## 🧭 Pattern Shift By 15 August 2026
+
+The timeline now supports a more differentiated finding:
+
+``` text
+WATER / OT
+→ repeated physical-control interference
+→ Iran-linked core-wave assessment strengthened
+
+HEALTHCARE
+→ serious service disruption
+→ conventional ransomware attribution strengthened
+
+LOCAL GOVERNMENT
+→ repeated administrative and public-safety disruption
+→ attribution mixed or unresolved
+
+TRANSPORT / LOGISTICS
+→ warehouse and shipment disruption
+→ attribution open
+
+ENTERPRISE ENGINEERING SYSTEMS
+→ cross-sector data extortion
+→ common-vulnerability criminal mechanism strongly favoured
+```
+
+Therefore:
+
+``` text
+CROSS-SECTOR PATTERN CONFIDENCE:
+INCREASING
+
+COMMON-SPONSOR CONFIDENCE:
+NOT INCREASING WITH IT
+```
+
+The water / OT campaign remains analytically exceptional because it
+combines repeated targeting of exposed control systems, operational and
+physical effects, prior government warnings about Iranian-affiliated
+activity against the same class of technology, reported investigative
+and intelligence assessments, and now an explicit responsibility claim
+from an actor ecosystem with an established IRGC relationship.
+
+The comparator incidents matter precisely because they show why that
+evidence cannot be inherited by every disruption elsewhere.
+
 ## 📈 Campaign-Level Trend Since 28 February 2026
 
 The public record currently supports several different observations.
@@ -1682,6 +2045,17 @@ IRANIAN INVOLVEMENT SUSPECTED
 
 2026-08-07
 IRAN-LINK STRENGTHENED / STILL NOT FORMALLY ATTRIBUTED
+
+↓
+
+2026-08-12
+APT IRAN / CYBERAV3NGERS RESPONSIBILITY CLAIM REPORTED
+
+↓
+
+2026-08-15
+CLAIM KNOWN TO FBI / MINNESOTA AUTHORITIES BUT NOT PUBLICLY VALIDATED;
+FORMAL FEDERAL ATTRIBUTION STILL ABSENT
 ```
 
 Use:
@@ -2021,4 +2395,4 @@ and legal significance as related but distinct questions.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-14*
+*Last updated: 2026-08-15*

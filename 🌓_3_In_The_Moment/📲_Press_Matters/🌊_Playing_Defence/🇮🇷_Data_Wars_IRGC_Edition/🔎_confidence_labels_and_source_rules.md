@@ -1,5 +1,5 @@
 # 🔎 Confidence Labels And Source Rules
-**First created:** 2026-08-01 | **Last updated:** 2026-08-09  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-15  
 *Keeping event, effect, pattern, attribution, sponsorship, source quality, recovery, and legal significance separate enough to remain useful when the evidence changes.*
 
 ---
@@ -361,6 +361,122 @@ It does not establish:
 - that the same people still control a familiar alias;
 - that a state directed the operation;
 - or that political branding reflects the real command chain.
+
+---
+
+## 📣 Worked Example — A Known Affiliation Makes A New Claim
+
+The August 2026 Minnesota water case shows why **claim status** and
+**attribution confidence** must remain separate even where the claimant
+has a relevant history.
+
+An account using the name **APT IRAN** reportedly claimed that the
+Minnesota operation had been conducted jointly with CyberAv3ngers and
+that the actors took direct responsibility for it.
+
+US government reporting had already described CyberAv3ngers as
+affiliated with the IRGC Cyber-Electronic Command and associated it with
+exploitation of programmable logic controllers.
+
+Those are two different propositions:
+
+```text
+PROPOSITION A:
+US government reporting previously identified
+CyberAv3ngers as IRGC-affiliated.
+
+CONFIDENCE:
+🟢 ESTABLISHED
+
+SOURCE:
+prior coordinated government advisory
+```
+
+```text
+PROPOSITION B:
+APT IRAN / CyberAv3ngers publicly claimed
+the Minnesota operation.
+
+CLAIM STATUS:
+📣 ACTOR-CLAIMED
+
+CONFIDENCE THAT THE CLAIM EXISTS:
+🟢 ESTABLISHED
+```
+
+```text
+PROPOSITION C:
+The claimants conducted the Minnesota operation.
+
+ATTRIBUTION CONFIDENCE:
+🟡 PROBABLE / strengthened by the relevant prior relationship,
+reported investigative assessment, target fit, and campaign context;
+still awaiting public forensic validation
+```
+
+```text
+PROPOSITION D:
+The IRGC directed the current Minnesota operation.
+
+ATTRIBUTION CONFIDENCE:
+NOT PUBLICLY ESTABLISHED BY THE CLAIM
+```
+
+```text
+PROPOSITION E:
+FBI / CISA / NSA / EPA formally attributed
+the July--August campaign to Iran.
+
+PUBLICATION STATUS:
+NO FORMAL PUBLIC ATTRIBUTION IDENTIFIED
+IN THE REVIEWED RECORD
+```
+
+The prior affiliation increases the relevance and weight of the claim.
+
+It does not convert the claim into independent corroboration of itself.
+
+The relevant provenance chain is:
+
+```text
+Telegram actor statement
+→ McCrary Institute / Threat Beat monitoring
+→ KSTP reporting
+→ Minnesota IT Services and FBI asked to validate
+→ agencies acknowledge awareness but do not validate publicly
+```
+
+If ten further outlets repeat the KSTP or Threat Beat account, the
+underlying claim still has one actor-origin route.
+
+Record:
+
+```text
+ORIGINAL SOURCE:
+actor statement on Telegram
+
+DISCOVERY / MONITORING SOURCE:
+McCrary Institute Threat Beat
+
+FIRST REVIEWED PUBLIC REPORT:
+KSTP
+
+AGENCY RESPONSE:
+aware of posts; public validation withheld / not provided
+
+INDEPENDENT TECHNICAL CORROBORATION OF CURRENT AUTHORSHIP:
+NOT PUBLICLY IDENTIFIED
+
+COMMON SOURCE DEPENDENCY:
+later reports may depend on the same Threat Beat / KSTP chain
+```
+
+Sources performing different functions:
+
+- [CISA and partners: IRGC-affiliated cyber actors exploiting PLCs](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a) — *historic actor relationship and technical context*
+- [CISA: 2026 Iranian-affiliated PLC exploitation advisory](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a) — *current threat context, not automatic attribution of Minnesota*
+- [KSTP: APT IRAN and CyberAv3ngers claim responsibility](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/) — *claim report and agency non-validation*
+- [McCrary Institute Threat Beat briefing](https://www.linkedin.com/pulse/cyber-briefing-81226-au-mccrary-institute-7cfre) — *specialist monitoring route*
 
 ---
 
@@ -2334,6 +2450,102 @@ They should not be treated as interchangeable.
 
 ---
 
+## 🧬 Worked Example — Cross-Sector Clustering With Different Mechanisms
+
+By mid-August 2026, cyber incidents were visible across water,
+healthcare, local government, logistics, finance, energy-adjacent, and
+industrial organisations.
+
+That supports a cross-sector threat-environment finding.
+
+It does not support one common sponsor without further evidence.
+
+Compare:
+
+```text
+US WATER / OT CORE WAVE
+ORGANISING MECHANISM:
+repeated targeting of exposed operational technology
+
+IRAN LINK:
+🟡 probable for the Minnesota / core wave
+
+COMMON SPONSOR ACROSS EVERY WATER INCIDENT:
+⚪ open
+```
+
+with:
+
+```text
+CL0P / WINDCHILL / FLEXPLM WAVE
+ORGANISING MECHANISM:
+probable exploitation of one shared enterprise-software vulnerability
+
+CRIMINAL EXTORTION LINK:
+🟡 probable / strong
+
+IRAN LINK:
+⚪ no evidence found
+```
+
+and:
+
+```text
+US LOCAL-GOVERNMENT DISRUPTIONS
+ORGANISING MECHANISM:
+unresolved; potentially several unrelated intrusions
+
+COMMON OPERATOR:
+⚪ open
+
+IRAN LINK:
+⚪ no evidence found for the newly reviewed incidents
+```
+
+The required additional field is:
+
+```text
+ORGANISING MECHANISM:
+```
+
+Possible values include:
+
+- common tasking;
+- common vulnerability;
+- common provider;
+- ransomware affiliate ecosystem;
+- copycat activity;
+- opportunistic exploitation;
+- attribution event;
+- political signalling;
+- several overlapping mechanisms;
+- or unresolved.
+
+This keeps the analyst from treating **what joins the incidents** as
+synonymous with **who sponsored them**.
+
+For the Cl0p comparator, Reuters reported a mass-extortion campaign
+affecting organisations including Shell, Philips, GE, and Fiserv, while
+PTC separately documented the critical Windchill and FlexPLM
+vulnerability requiring remediation. Those sources support the shared
+technical-opportunity hypothesis more strongly than geopolitical
+selection of each named victim.
+
+- [Reuters: Cl0p claims mass data theft from nearly 50 organisations](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
+- [PTC: Windchill and FlexPLM remote-code-execution advisory](https://www.ptc.com/en/about/trust-center/advisory-center/active-advisories/windchill-flexplm-rce-vulnerability)
+
+Therefore record separately:
+
+```text
+PATTERN CONFIDENCE:
+ORGANISING MECHANISM:
+COMMON OPERATOR CONFIDENCE:
+COMMON CUSTOMER CONFIDENCE:
+COMMON SPONSOR CONFIDENCE:
+```
+
+---
+
 ## 📋 Minimum Incident Record
 
 Every significant incident should be capable of holding:
@@ -2414,6 +2626,7 @@ SOURCE PROVENANCE:
 COMMON VENDOR / PROVIDER:
 COMMON VULNERABILITY:
 RELATED INCIDENTS:
+ORGANISING MECHANISM:
 
 EVIDENCE FOR:
 EVIDENCE AGAINST:
@@ -2467,6 +2680,7 @@ NUMBER OF SUSPECTED RELATED INCIDENTS:
 
 PATTERN TYPE:
 PATTERN STATUS:
+ORGANISING MECHANISM:
 
 AFFECTED TECHNOLOGY:
 COMMON VENDOR / PROVIDER:
@@ -2874,4 +3088,4 @@ It defines the evidentiary, provenance, confidence, relationship, attribution, c
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-09_
+_Last updated: 2026-08-15_

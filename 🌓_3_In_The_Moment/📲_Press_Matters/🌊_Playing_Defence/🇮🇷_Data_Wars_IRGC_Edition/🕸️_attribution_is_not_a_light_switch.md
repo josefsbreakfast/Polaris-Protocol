@@ -1,6 +1,6 @@
 # 🕸️ Attribution Is Not A Light Switch
 
-**First created:** 2026-08-01 \| **Last updated:** 2026-08-14\
+**First created:** 2026-08-01 \| **Last updated:** 2026-08-15\
 *Cyber attribution is usually graded, delayed, contested, politically
 managed, and legally consequential in different ways at different
 thresholds.*
@@ -1018,6 +1018,112 @@ That divergence is itself a fact worth recording.
 
 ------------------------------------------------------------------------
 
+## 📣 12--15 August 2026: A Known Ecosystem Made A New Claim
+
+The public attribution record then changed again.
+
+On 12 August, a Telegram account using the name **APT IRAN** reportedly
+said that the Minnesota operation had been conducted jointly with
+**CyberAv3ngers** and that the two actors took direct responsibility for
+it.
+
+Threat Beat, a project of Auburn University's McCrary Institute for
+Cyber and Critical Infrastructure Security, reported the statement.
+KSTP then reported the claim and sought comment from Minnesota IT
+Services, the FBI, and CISA.
+
+Minnesota IT Services and the FBI said they were aware of the posts but
+did not validate them publicly. Minnesota's investigation remained
+open. CISA had not responded by the time of the KSTP report.
+
+The claim matters because CyberAv3ngers is not an unknown name invented
+after the Minnesota incident.
+
+US government reporting has previously described CyberAv3ngers as
+affiliated with the IRGC Cyber-Electronic Command and associated it with
+exploitation of programmable logic controllers used in US water and
+other critical-infrastructure systems.
+
+That prior relationship changes the weight of the new claim.
+
+It does not change the kind of evidence the claim is.
+
+The correct separation is:
+
+``` text
+EXISTENCE OF THE RESPONSIBILITY CLAIM:
+🟢 ESTABLISHED
+
+PRIOR CYBERAV3NGERS--IRGC RELATIONSHIP:
+🟢 ESTABLISHED in prior US government attribution
+
+CURRENT MINNESOTA OPERATION CONDUCTED BY THE CLAIMANTS:
+🟡 PROBABLE / materially strengthened, still requiring forensic corroboration
+
+CURRENT MINNESOTA OPERATION DIRECTED BY THE IRGC:
+not independently established by the claim
+
+FORMAL PUBLIC FBI / CISA / NSA / EPA ATTRIBUTION
+OF THE JULY--AUGUST CAMPAIGN:
+still not identified in the reviewed public record
+```
+
+This is stronger than an unsupported claim by a newly created persona.
+
+It is weaker than:
+
+-   agency validation of the claimant's access;
+-   technical evidence connecting the claimant to the intrusion;
+-   recovered tasking;
+-   infrastructure or operator evidence tying the operation to the
+    previously attributed CyberAv3ngers activity;
+-   or a formal public attribution of the current campaign.
+
+A known relationship cannot be inherited across time without evidence
+of current operational continuity.
+
+Likewise:
+
+``` text
+KNOWN IRGC-AFFILIATED ACTOR
++
+NEW RESPONSIBILITY CLAIM
+≠
+AUTOMATICALLY PROVED IRGC-DIRECTED OPERATION
+```
+
+But the reverse mistake also has to be avoided.
+
+The claim cannot be treated as if it came from an actor with no
+documented history, no relevant target interest, and no prior US
+government attribution.
+
+The evidentiary movement is therefore real but bounded:
+
+``` text
+reported investigative / intelligence assessment
++
+relevant technical and historical context
++
+claim from an actor ecosystem with an established IRGC relationship
+↓
+Iran-linked assessment strengthened
+
+while
+
+formal public attribution
++
+forensic validation of the claim
++
+current state-direction finding
+remain absent or not public
+```
+
+That is what an attribution update looks like when the new evidence is
+meaningful but not dispositive.
+
+------------------------------------------------------------------------
+
 ## 🏛️ Attribution Can Become A Governance Output
 
 Public attribution is produced by institutions.
@@ -1133,6 +1239,65 @@ It is not the whole analysis.
 
 ------------------------------------------------------------------------
 
+## 🧾 Sources For The Live Water Attribution Record
+
+The following sources perform different evidentiary functions. They
+should not be counted as interchangeable votes for one conclusion.
+
+### Primary And Government Sources
+
+-   [CISA and partners: IRGC-affiliated cyber actors exploiting PLCs in
+    multiple sectors](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)
+    --- prior US government attribution of the CyberAv3ngers-associated
+    PLC activity; evidence of the historic actor relationship, not
+    proof of the 2026 Minnesota operation.
+-   [CISA: Iranian-affiliated cyber actors exploit programmable logic
+    controllers](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a)
+    --- current technical and threat context for Iranian-affiliated OT
+    exploitation.
+-   [FBI: malicious cyber actors targeting water and wastewater-sector
+    internet-facing PLCs](https://www.fbi.gov/investigate/cyber/alerts/2026/malicious-cyber-actors-targeting-water-and-wastewater-sector-internet--facing-programmable-logic-controllers-causing-operational-disruptions)
+    --- public operational warning and effect record; it does not name
+    Iran as the operator of the current wave.
+
+### Responsibility Claim And Local Investigative Reporting
+
+-   [KSTP: Iran-linked group claims responsibility for the Minnesota
+    water-system attack](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)
+    --- reports the Threat Beat account of the Telegram claim and records
+    that Minnesota IT Services and the FBI were aware of the posts but
+    declined to validate them publicly.
+-   [Auburn University McCrary Institute: Cyber Briefing, 12 August
+    2026](https://www.linkedin.com/pulse/cyber-briefing-81226-au-mccrary-institute-7cfre)
+    --- specialist monitoring route through which the actor statement
+    entered the wider public record.
+
+### National Reporting On The Attribution Dispute
+
+-   [Reuters: Trump says Iran was not to blame for the Minnesota
+    cyberattack](https://www.reuters.com/world/us/trump-says-iran-not-blame-minnesota-cyber-attack-2026-07-31/)
+    --- records the presidential position and the absence of a formal
+    FBI attribution at that stage.
+-   [Washington Post: US intelligence agencies suspect Iran launched
+    the Minnesota water attacks](https://www.washingtonpost.com/national-security/2026/07/30/us-spy-agencies-suspect-iran-launched-cyberattack-minnesota-water-facilities/)
+    --- reporting on the intelligence assessment; this is not itself a
+    published agency attribution document.
+
+The provenance chain for the new claim is therefore:
+
+``` text
+Telegram actor statement
+→ specialist monitoring report
+→ local news report
+→ agencies asked to validate
+→ agencies acknowledge awareness but do not validate publicly
+```
+
+Repetition of that chain by further outlets would not create additional
+independent corroboration.
+
+------------------------------------------------------------------------
+
 ## 🧭 Working Rule
 
 The pack should use this rule:
@@ -1212,4 +1377,4 @@ responsibility, and the confidence attached to each.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-14*
+*Last updated: 2026-08-15*

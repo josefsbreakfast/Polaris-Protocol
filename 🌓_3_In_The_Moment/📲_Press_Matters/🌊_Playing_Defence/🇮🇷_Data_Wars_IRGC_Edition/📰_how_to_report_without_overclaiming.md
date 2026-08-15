@@ -1,6 +1,6 @@
 # 📰 How To Report Without Overclaiming
 
-**First created:** 2026-08-01 \| **Last updated:** 2026-08-14\
+**First created:** 2026-08-01 \| **Last updated:** 2026-08-15\
 *Preserve the event, the source, the evidentiary layer, the confidence,
 the limit, the rival explanation, and what would change the assessment.*
 
@@ -173,6 +173,103 @@ A claim is evidence that somebody wants the public to associate them
 with the event.
 
 It is not automatically evidence that they caused it.
+
+------------------------------------------------------------------------
+
+## 📣 Worked Example — A Known Affiliated Actor Claims A New Operation
+
+The August 2026 Minnesota water case requires more care than either:
+
+> An unknown Telegram account claimed the attack.
+
+or:
+
+> Iran admitted attacking American water systems.
+
+An account using the name **APT IRAN** reportedly said the Minnesota
+operation was conducted jointly with **CyberAv3ngers** and that the two
+actors took direct responsibility.
+
+US government reporting had previously described CyberAv3ngers as
+affiliated with the IRGC Cyber-Electronic Command.
+
+That history makes the new claim materially relevant.
+
+It does not prove:
+
+-   current operator continuity;
+-   current IRGC tasking;
+-   the accuracy of every claimed effect;
+-   common responsibility for the wider multi-state wave;
+-   or formal US attribution of the current campaign.
+
+### Durable headline
+
+> Iran-linked actors claim Minnesota water attacks; US agencies do not
+> publicly validate claim
+
+### Durable first paragraph
+
+> APT IRAN and CyberAv3ngers have claimed responsibility for the July
+> attacks on Minnesota water systems. US government reporting has
+> previously identified CyberAv3ngers as affiliated with the IRGC's
+> cyber apparatus, but Minnesota authorities and the FBI did not
+> publicly validate the new claim and the investigation remains open.
+
+### Acceptable analytical follow-up
+
+> The claim strengthens the existing Iran-linked assessment because it
+> comes from an actor ecosystem with a relevant, previously attributed
+> history. It does not independently establish authorship, current
+> state direction, or responsibility for every incident in the wider
+> water-system wave.
+
+### Headline that outruns the evidence
+
+> IRGC admits attacking US water systems
+
+That formulation collapses:
+
+``` text
+prior actor affiliation
++
+new responsibility claim
+```
+
+into:
+
+``` text
+proved current IRGC direction
+```
+
+without the missing evidentiary steps.
+
+Report the propositions separately:
+
+``` text
+CLAIM EXISTS:
+🟢 ESTABLISHED
+
+PRIOR CYBERAV3NGERS--IRGC AFFILIATION:
+🟢 ESTABLISHED IN PRIOR US GOVERNMENT REPORTING
+
+CURRENT AUTHORSHIP:
+🟡 PROBABLE / STRENGTHENED, NOT PUBLICLY FORENSICALLY VALIDATED
+
+CURRENT IRGC DIRECTION:
+NOT PUBLICLY ESTABLISHED BY THE CLAIM
+
+FORMAL PUBLIC FEDERAL ATTRIBUTION:
+NOT IDENTIFIED
+```
+
+Sources:
+
+-   [KSTP: APT IRAN and CyberAv3ngers claim the Minnesota
+    attacks](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)
+-   [CISA and partners: prior attribution of IRGC-affiliated PLC
+    activity](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)
+-   [McCrary Institute Threat Beat briefing](https://www.linkedin.com/pulse/cyber-briefing-81226-au-mccrary-institute-7cfre)
 
 ------------------------------------------------------------------------
 
@@ -1559,6 +1656,78 @@ know why it exists.
 
 ------------------------------------------------------------------------
 
+## 🗣️ Worked Example — A Reported Joke Is Not A Presidential Retraction
+
+Political backtracking also needs a source label.
+
+On 14 August 2026, President Trump said that he would declare the Strait
+of Hormuz a territory of the United States and then added, **"It's
+true."**
+
+Subsequent reporting said an unnamed senior White House official
+described the territorial remark as a joke and said Trump had not
+discussed such a move with advisers.
+
+The durable record is not:
+
+> Trump formally announced the annexation of Hormuz.
+
+It is also not:
+
+> Trump retracted the statement and confirmed it was only a joke.
+
+The second sentence overstates what happened because the reviewed
+record contains an anonymous-official characterisation, not a direct
+presidential retraction or a formal published policy correction.
+
+Prefer:
+
+> Trump said he would declare the Strait of Hormuz US territory, then
+> added “It's true.” An unnamed senior White House official later told a
+> Wall Street Journal reporter that Trump had been joking and had not
+> discussed the proposal with advisers. Trump did not issue a direct
+> retraction in the reviewed record.
+
+Also preserve what the backtrack did **not** address.
+
+The joke explanation concerned the territorial declaration. Trump had
+also asserted that the United States controlled maritime passage
+through the strait. Do not treat a partial explanation as withdrawal of
+every surrounding claim.
+
+Record:
+
+``` text
+ORIGINAL STATEMENT:
+direct presidential remarks
+
+LATER CHARACTERISATION:
+unnamed senior White House official reported by a journalist
+
+DIRECT PRESIDENTIAL RETRACTION:
+not identified
+
+FORMAL POLICY PROCESS:
+official reportedly said no adviser discussion had occurred
+
+SURROUNDING CONTROL / BLOCKADE CLAIM:
+not withdrawn by the reported joke explanation
+```
+
+Sources:
+
+-   [The Guardian: original Hormuz territorial statement and uncertain
+    policy status](https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory)
+-   [Anadolu Agency: Wall Street Journal reporter cites unnamed senior
+    White House official describing the remark as a joke](https://www.aa.com.tr/en/americas/trump-was-joking-about-declaring-strait-of-hormuz-us-territory-us-media/4027928)
+-   [Middle East Monitor republication of the Anadolu
+    report](https://www.middleeastmonitor.com/20260815-trump-was-joking-about-declaring-strait-of-hormuz-us-territory-us-media/)
+
+The last two links are not independent corroboration of two White House
+officials. They preserve one underlying anonymous-official route.
+
+------------------------------------------------------------------------
+
 ## 🏛️ No Formal Attribution Does Not Mean No Government Assessment
 
 The phrase:
@@ -1638,6 +1807,62 @@ A war can increase ordinary cybercrime by creating:
 -   and more actors looking at the same systems.
 
 See [🌊 Riding Every Wave](./🌊_riding_every_wave.md).
+
+### Report The Organising Mechanism
+
+When several incidents appear together, report what presently joins
+them.
+
+Possible organising mechanisms include:
+
+-   common tasking;
+-   common vulnerability;
+-   common provider;
+-   ransomware affiliate ecosystem;
+-   opportunistic exploitation;
+-   copycat activity;
+-   or an unresolved mixture.
+
+This produces materially different reports.
+
+For example:
+
+> Cyber incidents have affected water, healthcare, local government,
+> logistics and major industrial organisations during the same wartime
+> period. Current evidence supports several different organising
+> mechanisms, including a probable Iran-linked water core, conventional
+> ransomware, unresolved municipal incidents and criminal exploitation
+> of shared enterprise software. Common sponsorship across the sectors
+> is not established.
+
+Do not compress that into:
+
+> Iran expands cyber campaign across hospitals, cities, logistics,
+> energy and finance.
+
+That second formulation improperly imports the strongest attribution
+from one part of the record into every neighbouring incident.
+
+The Cl0p campaign provides the useful comparator. Reuters reported a
+cross-sector mass-extortion campaign involving organisations including
+Shell, Philips, GE, and Fiserv. PTC separately documented the critical
+Windchill and FlexPLM vulnerability associated with the affected
+software environment. A broad victim list can therefore be organised
+by one exploitable platform rather than by one strategic state target
+list.
+
+-   [Reuters: Cl0p mass-extortion campaign](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
+-   [PTC: Windchill and FlexPLM vulnerability advisory](https://www.ptc.com/en/about/trust-center/advisory-center/active-advisories/windchill-flexplm-rce-vulnerability)
+
+Report separately:
+
+``` text
+PATTERN:
+ORGANISING MECHANISM:
+COMMON OPERATOR CONFIDENCE:
+COMMON CUSTOMER CONFIDENCE:
+COMMON SPONSOR CONFIDENCE:
+```
 
 ## 🚫 Common Reporting Failures
 
@@ -1806,4 +2031,4 @@ intermediaries, or wartime urgency to outrun the evidence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-14*
+*Last updated: 2026-08-15*
