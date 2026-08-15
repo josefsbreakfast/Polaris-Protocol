@@ -1,5 +1,5 @@
 # 🌀 Reverse Colonisation Timeline: Metadata and Outsourcing  
-**First created:** 2025-09-01 | **Last updated:** 2026-01-28  
+**First created:** 2025-09-01 | **Last updated:** 2026-08-15  
 *A fused timeline of UK surveillance law, procurement culture, and sovereign dependency (2000–2025).*  
 
 ---
@@ -133,4 +133,4 @@ It fuses surveillance law with procurement culture to show how the UK outsourced
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-28_
+_Last updated: 2026-08-15_
