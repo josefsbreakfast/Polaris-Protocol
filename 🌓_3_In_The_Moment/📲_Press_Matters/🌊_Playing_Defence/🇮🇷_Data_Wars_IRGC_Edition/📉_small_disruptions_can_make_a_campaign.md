@@ -1,5 +1,5 @@
 # 📉 Small Disruptions Can Make A Campaign  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-09  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-16  
 *Strategic effect can emerge through accumulation, ambiguity, repeated friction, and distributed operational pressure rather than one spectacular collapse.*  
 
 ---
@@ -801,6 +801,8 @@ That is why the small disruption belongs in the timeline.
 
 📉 🌧️ 🧯 🏘️ 🧵 🚰 🕸️ — cumulative disruption; institutional exhaustion; containment; local systems; fragmented response; operational technology; attribution development.
 
+---
+
 ## ✨ Stardust  
 
 small disruptions, campaign effect, accumulation, ambiguity, institutional exhaustion, local infrastructure, public confidence, data theft, strategic pressure, manual fallback, operational technology, industrial control systems, clustering, cross-sector timing
@@ -825,4 +827,4 @@ It explains how repeated, limited, distributed, and deniable incidents can accum
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-09_
+_Last updated: 2026-08-16_
