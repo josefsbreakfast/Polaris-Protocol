@@ -1,5 +1,5 @@
 # 💰 50 Years of British Confusion  
-**First created:** 2025-12-29 | **Last updated:** 2026-01-28  
+**First created:** 2025-12-29 | **Last updated:** 2026-08-15  
 *How fiscal fear, balance-sheet optics, and institutional trauma inverted British politics.*  
 
 ---
@@ -228,4 +228,4 @@ It maps the psychological and fiscal through-lines that reshaped British governa
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-28_
+_Last updated: 2026-08-15_
