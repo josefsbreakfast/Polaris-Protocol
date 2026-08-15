@@ -1,5 +1,5 @@
 # 🪆 Behavioural Modelling Failure Index  
-**First created:** 2025-12-14 | **Last updated:** 2026-02-20  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-15  
 *A structural map of recurring failure modes in behavioural modelling systems*
 
 ---
@@ -192,4 +192,4 @@ This index exists to prevent explanation from standing in for accountability, an
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-08-15_
