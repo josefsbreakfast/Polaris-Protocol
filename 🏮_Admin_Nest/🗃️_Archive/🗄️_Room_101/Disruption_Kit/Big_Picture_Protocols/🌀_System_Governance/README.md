@@ -1,5 +1,5 @@
 # 🌀 Systems & Governance  
-**First created:** 2025-08-27 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-27 | **Last updated:** 2026-08-15  
 *Where bureaucracy becomes myth, and order learns to parody itself.*  
 
 ---
@@ -139,10 +139,10 @@ It maps systemic containment architectures — and their parodies — showing ho
 
 > 📡 Cross‑references:
 > 
-> - [Disruption Kit](../../) — *countermeasures & suppression diagnostics*  
-> - [Metadata Sabotage Network](../../../Metadata_Sabotage_Network/) — *analysis of narrative interference & data lawfare*  
-> - [🐍 Ouroborotic Violence](../🐍_Ouroborotic_Violence/README.md) — *cycles of repression and recursion*  
+> - [Disruption Kit] — *countermeasures & suppression diagnostics*  
+> - [Metadata Sabotage Network] — *analysis of narrative interference & data lawfare*  
+> - [🐍 Ouroborotic Violence] — *cycles of repression and recursion*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-15_
