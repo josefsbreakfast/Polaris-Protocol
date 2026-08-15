@@ -1,5 +1,5 @@
 # 🍻 Why the Criticism of the Westminster Pint  
-**First created:** 2026-05-20 | **Last updated:** 2026-05-20  
+**First created:** 2026-05-20 | **Last updated:** 2026-08-15  
 *How parliamentary bar culture became entangled with legitimacy, class asymmetry, collapsing communal infrastructure, and perceptions of unequal standards within contemporary Britain.*  
 
 ---
@@ -559,4 +559,4 @@ It documents how parliamentary alcohol culture became symbolically entangled wit
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-20_
+_Last updated: 2026-08-15_
