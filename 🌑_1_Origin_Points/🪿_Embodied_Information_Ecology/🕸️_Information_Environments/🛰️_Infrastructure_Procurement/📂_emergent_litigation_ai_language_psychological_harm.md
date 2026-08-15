@@ -1,5 +1,5 @@
 # 📂 Emergent Litigation: AI, Language & Psychological Harm  
-**First created:** 2025-12-12 | **Last updated:** 2026-01-28  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-15  
 *When language-mediated risk shifts from theoretical concern to legal attention.*  
 
 ---
@@ -134,4 +134,4 @@ It records the moment when linguistic and psychological risk moves from theoreti
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-28_
+_Last updated: 2026-08-15_
