@@ -1,5 +1,5 @@
 # 🤖 The UK Could Have Had Hoverboards  
-First created: 2026-05-01 | Last updated: 2026-05-01  
+First created: 2026-05-01 | Last updated: 2026-08-15  
 Why the UK produced innovation without scaling it—and what would need to change
 <!--Further notes available. Human currently in battery-saver mode.-->
 ---
@@ -268,4 +268,4 @@ It maps the structural gap between invention and scale, showing how cultural, fi
 
 Survivor authorship is sovereign. Containment is never neutral.  
 
-_Last updated: 2026-05-01_
+_Last updated: 2026-08-15_
