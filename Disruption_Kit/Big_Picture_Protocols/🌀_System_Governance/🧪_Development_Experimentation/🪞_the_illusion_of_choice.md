@@ -1,5 +1,5 @@
 # 🪞 The Illusion of Choice  
-**First created:** 2025-08-11 | **Last updated:** 2026-02-20  
+**First created:** 2025-08-11 | **Last updated:** 2026-08-15  
 *On false autonomy, consent under duress, and the systemic use of coercive freedom.*  
 
 ---
@@ -132,6 +132,6 @@ It documents the systemic use of false autonomy as a containment strategy in bot
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-08-15_
 
 
