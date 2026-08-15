@@ -1,5 +1,5 @@
 # 👾 Cyber War Crimes  
-**First created:** 2026-08-07 | **Last updated:** 2026-08-09  
+**First created:** 2026-08-07 | **Last updated:** 2026-08-16  
 *Cyber operations do not sit outside the laws of war merely because the weapon is code rather than explosives.*
 
 ---
@@ -973,4 +973,4 @@ It provides the basic legal-routing framework for assessing when wartime cyber a
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-09_
+_Last updated: 2026-08-16_
