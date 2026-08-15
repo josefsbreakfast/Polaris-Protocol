@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-15 21:56:05 UTC_
+_Generated on 2026-08-15 21:59:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,14 +18,6 @@ _Generated on 2026-08-15 21:56:05 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**🧪_Development_Experimentation/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/)
-        - [`🦕_geological_timescale_economics_make_new_dinosaurs.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🦕_geological_timescale_economics_make_new_dinosaurs.md)
-        - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md)
-        - [`🧠_the_dev.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧠_the_dev.md)
-        - [`🧨_crisis_actor_dynamics.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧨_crisis_actor_dynamics.md)
-        - [`🧨_cruelty_as_innovation.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧨_cruelty_as_innovation.md)
-        - [`🧪_failure_recycling.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧪_failure_recycling.md)
-        - [`🧪_pilot_containments.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧪_pilot_containments.md)
-        - [`🧪_shadow_sandboxes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧪_shadow_sandboxes.md)
         - [`🧪_wartime_words_are_not_sentiment_proxies.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧪_wartime_words_are_not_sentiment_proxies.md)
         - [`🧯_governance_gap_explanation_vs_acceptability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧯_governance_gap_explanation_vs_acceptability.md)
         - [`🧲_the_magnet_doesnt_care.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧲_the_magnet_doesnt_care.md)
@@ -3611,6 +3603,14 @@ _Generated on 2026-08-15 21:56:05 UTC_
         - [`🤖_ai_big_tech_and_israeli_apartheid_as_deregulated_security_lab.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🤖_ai_big_tech_and_israeli_apartheid_as_deregulated_security_lab.md)
         - [`🤖_the_uk_could_have_had_hoverboards.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🤖_the_uk_could_have_had_hoverboards.md)
         - [`🦎_snow_leopard_geckos_against_modern_slavery.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🦎_snow_leopard_geckos_against_modern_slavery.md)
+        - [`🦕_geological_timescale_economics_make_new_dinosaurs.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🦕_geological_timescale_economics_make_new_dinosaurs.md)
+        - [`🧟‍♀️_the_frankenstack_problem.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md)
+        - [`🧠_the_dev.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🧠_the_dev.md)
+        - [`🧨_crisis_actor_dynamics.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🧨_crisis_actor_dynamics.md)
+        - [`🧨_cruelty_as_innovation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🧨_cruelty_as_innovation.md)
+        - [`🧪_failure_recycling.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🧪_failure_recycling.md)
+        - [`🧪_pilot_containments.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🧪_pilot_containments.md)
+        - [`🧪_shadow_sandboxes.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🧪_shadow_sandboxes.md)
       - [**🧬_Governance_Repair_Shop/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/README.md)
         - [`⚖️_institutional_realisation_to_remediation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/⚖️_institutional_realisation_to_remediation.md)
