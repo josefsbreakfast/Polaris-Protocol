@@ -1,5 +1,5 @@
 # 🚰 When Cyber Reaches The Machinery  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-09  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-15  
 *The threshold changes when a cyber incident begins reaching the systems that monitor, control, or physically alter water, energy, fuel, transport, or other essential processes.*  
 
 ---
@@ -230,6 +230,154 @@ If operators can no longer trust the digital controls, the system has already be
 Manual operation may preserve service.
 
 It can also show that the normal digital control environment has become unreliable enough that operators no longer consider it safe to use normally.
+
+---
+
+## 🇺🇸 The July Water Wave Crossed The Machinery Threshold  
+
+The July 2026 U.S. water incidents are no longer describable merely as:
+
+> hackers targeted water utilities.
+
+The joint FBI/EPA alert establishes several distinct steps along the operational
+control chain.
+
+Since 27 July, utilities in at least seven states reported incidents involving
+internet-facing Rockwell Automation/Allen-Bradley MicroLogix 1100 and 1400
+programmable logic controllers. The attackers remotely accessed devices and
+changed IP addresses and passwords. That caused loss of monitoring and control
+functionality. Across the affected systems, the FBI also recorded loss of view,
+loss of function, modified PLC project files, ladder-logic discrepancies, loss
+of water pressure and flooding.  
+[FBI and EPA — *Malicious Cyber Actors Targeting Water and Wastewater Sector
+Internet-Facing Programmable Logic Controllers, Causing Operational
+Disruptions*](https://www.fbi.gov/investigate/cyber/alerts/2026/malicious-cyber-actors-targeting-water-and-wastewater-sector-internet--facing-programmable-logic-controllers-causing-operational-disruptions)
+
+That evidence maps onto the depth ladder as follows:
+
+```text
+LEVEL 0 — TARGET DISCOVERY
+          internet-facing PLCs identified
+
+LEVEL 3 — CONTROL-INTERFACE ACCESS
+          remote access to operational devices demonstrated
+
+LEVEL 4 — CONTROLLER / CONFIGURATION ACCESS
+          PLC configuration and project-file access demonstrated
+
+LEVEL 5 — COMMAND / SETTING MANIPULATION
+          IP addresses and passwords changed;
+          ladder-logic discrepancies reported
+
+LEVEL 6 — PHYSICAL-PROCESS CHANGE
+          loss of pressure and flooding reported in parts of the wave
+
+LEVEL 7 — SAFETY / SERVICE / PHYSICAL HARM
+          operational degradation demonstrated;
+          severity varied by controller function and fallback capacity
+```
+
+This does **not** mean every affected facility reached Level 6 or Level 7.
+
+The FBI explicitly says impact depended on:
+
+- whether the PLC monitored or controlled equipment;
+- which model was installed;
+- which physical function it supported;
+- and whether operators could switch to manual operation.
+
+The correct unit of analysis is therefore both:
+
+```text
+THE WAVE
+→ demonstrated repeated movement into controller configuration
+→ included some physical-process effects
+```
+
+and:
+
+```text
+THE INDIVIDUAL FACILITY
+→ deepest demonstrated access
+→ exact equipment function
+→ exact operational consequence
+→ fallback outcome
+```
+
+Neither the worst consequence in the wave nor the least affected facility
+should be projected onto every other victim.
+
+---
+
+## 🧭 Technical Confidence Is Higher Than Attribution Confidence  
+
+The machinery finding and the actor finding are not at the same evidentiary
+stage.
+
+### 1. Federal Technical Finding — Confirmed  
+
+The FBI/EPA alert confirms malicious remote access, configuration changes and
+operational effects across the multi-state wave.
+
+### 2. Prior Iran-Linked Threat Pattern — Confirmed Context  
+
+Eight days earlier, CISA, the FBI, NSA, EPA and international partners warned
+that Iranian-affiliated actors were exploiting internet-connected PLCs with the
+intent to cause disruption. That advisory is strong evidence of an active and
+relevant threat pattern. It is not, by itself, attribution of every later
+incident using similar equipment.  
+[CISA and partners — *Iranian-Affiliated Cyber Actors Exploit Programmable
+Logic Controllers*](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a)
+
+### 3. Reported Investigative Assessment — Iran Likely  
+
+The Washington Post reported that U.S. intelligence agencies assessed Iran was
+likely behind the coordinated Minnesota attacks, while also reporting that the
+agencies had not reached a definitive conclusion. Reuters separately reported
+that no U.S. agency had formally attributed the attacks publicly.  
+[Washington Post — *U.S. spy agencies suspect Iran launched cyberattack on
+Minnesota water facilities*](https://www.washingtonpost.com/national-security/2026/07/30/us-spy-agencies-suspect-iran-launched-cyberattack-minnesota-water-facilities/)  
+[Reuters — *Trump says Iran not to blame for Minnesota cyber
+attack*](https://www.reuters.com/world/us/trump-says-iran-not-blame-minnesota-cyber-attack-2026-07-31/)
+
+### 4. Actor Claim — Material New Evidence, Not Independent Proof  
+
+On 12 August, APT IRAN reportedly stated that the Minnesota operation was
+conducted with CyberAv3ngers and that the groups took direct responsibility.
+KSTP reported the Telegram statement through Threat Beat at Auburn University's
+McCrary Institute. U.S. government reporting has previously described
+CyberAv3ngers as affiliated with the IRGC Cyber-Electronic Command.  
+[KSTP — *Hacking group linked to Iran claims responsibility for cyberattack on
+Minnesota water systems*](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)  
+[CISA — *IRGC-Affiliated Cyber Actors Exploit PLCs in Multiple
+Sectors*](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)
+
+The actor claim strengthens the Iran-linked assessment for the Minnesota core
+wave.
+
+It does not independently prove:
+
+- the claimants performed the intrusion;
+- Iranian state direction for this specific operation;
+- one common operator across every affected state;
+- or that every superficially similar water incident belongs to the same
+  campaign.
+
+The current analytic separation is:
+
+```text
+OT MANIPULATION:              CONFIRMED
+MULTI-STATE OPERATIONAL WAVE: CONFIRMED
+MINNESOTA IRAN-LINKED CASE:   STRENGTHENED / PROBABLE
+ACTOR RESPONSIBILITY CLAIM:   CONFIRMED AS A CLAIM
+FORMAL PUBLIC ATTRIBUTION:    NOT YET ISSUED
+COMMON ACTOR FOR EVERY SITE:  NOT ESTABLISHED
+```
+
+This is not timidity.
+
+It is what allows the technical finding to remain firm even if the attribution
+picture changes.
 
 ---
 
@@ -882,9 +1030,13 @@ HMI / CONTROL INTERFACE ACCESS:
 CONTROLLER / CONFIGURATION ACCESS:
 COMMAND CAPABILITY:
 WHAT WAS ALTERED:
+CONFIGURATION CHANGE:
+PROJECT / LOGIC FILE CHANGE:
 MONITORING / VISIBILITY LOST:
 CONTROL LOST:
 PHYSICAL EFFECT:
+PRESSURE / FLOW / LEVEL EFFECT:
+FLOODING / RELEASE EFFECT:
 MANUAL FALLBACK REQUIRED:
 MANUAL FALLBACK SUCCESSFUL:
 SAFETY IMPACT:
@@ -895,7 +1047,11 @@ SHARED CONTRACTOR OR TECHNOLOGY:
 CIVILIAN / MILITARY / DUAL-USE STATUS:
 IHL REVIEW NEEDED:
 ATTRIBUTION:
+ACTOR CLAIM:
+REPORTED INVESTIGATIVE ASSESSMENT:
+FORMAL PUBLIC ATTRIBUTION:
 CONFIDENCE:
+ORGANISING MECHANISM:
 RIVAL EXPLANATIONS:
 RECOVERY TIME:
 SOURCES:
@@ -1032,7 +1188,7 @@ That is where cyber reaches the machinery.
 
 ## ✨ Stardust  
 
-operational technology, industrial control systems, programmable logic controllers, water systems, water control, energy infrastructure, manual operation, physical disruption, cyber escalation, HMI, SCADA, controller access, physical process, civilian infrastructure, international humanitarian law
+operational technology, industrial control systems, programmable logic controllers, water systems, water control, energy infrastructure, manual operation, physical disruption, cyber escalation, HMI, SCADA, controller access, physical process, civilian infrastructure, international humanitarian law, MicroLogix, loss of view, configuration change, pressure loss, flooding, CyberAv3ngers, APT IRAN
 
 ---
 
@@ -1050,7 +1206,8 @@ It identifies and grades the threshold at which cyber activity moves from inform
 > - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *access brokerage, layered tasking, and later operational use*
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
+> - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *separating the Iran-facing OT wave from simultaneous criminal and administrative incidents*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-09_
+*Last updated: 2026-08-15*
