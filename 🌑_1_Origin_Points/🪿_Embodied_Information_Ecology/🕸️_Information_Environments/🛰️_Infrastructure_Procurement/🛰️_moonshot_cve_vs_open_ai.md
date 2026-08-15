@@ -1,6 +1,6 @@
 # 🛰️ Moonshot CVE vs OpenAI — Prevention vs 
 Platform  
-**First created:** 2025-11-06 | **Last updated:** 2026-01-28  
+**First created:** 2025-11-06 | **Last updated:** 2026-08-15  
 *Actor-map of harm-prevention logic and platform-growth logic in the algorithmic governance ecosystem.*  
 
 ---
@@ -135,4 +135,4 @@ It maps opposing logics of harm prevention and model proliferation to clarify wh
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-28_
+_Last updated: 2026-08-15_
