@@ -1,5 +1,5 @@
 # 🧲 What BCG Takes from the UK … and Palestine  
-**First created:** 2025-08-04 | **Last updated:** 2026-01-28  
+**First created:** 2025-08-04 | **Last updated:** 2026-08-15  
 *How analytical access enables extraction of population knowledge across unequal contexts — and why this creates shared downstream harm.*  
 
 ---
@@ -182,4 +182,4 @@ It documents how analytical access enables extraction of population-scale knowle
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-28_
+_Last updated: 2026-08-15_
