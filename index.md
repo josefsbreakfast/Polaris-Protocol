@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-15 20:10:00 UTC_
+_Generated on 2026-08-15 20:13:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -20,8 +20,6 @@ _Generated on 2026-08-15 20:10:00 UTC_
       - [**🛰️_Infrastructure_Procurement/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/notes.txt)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
-        - [`🔥_the_latency_years_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🔥_the_latency_years_timeline.md)
-        - [`🔮_palantir_as_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🔮_palantir_as_infrastructure.md)
         - [`🔮_when_balls_realign.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🔮_when_balls_realign.md)
         - [`🕸️_exploitability_and_defensive_strategy.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🕸️_exploitability_and_defensive_strategy.md)
         - [`🚀_mordernising_information_defence.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🚀_mordernising_information_defence.md)
@@ -4143,6 +4141,8 @@ _Generated on 2026-08-15 20:10:00 UTC_
         - [`📊_scale_of_effects_estimate.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/📊_scale_of_effects_estimate.md)
         - [`📊_skillset_risk_matrix.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/📊_skillset_risk_matrix.md)
         - [`📡_inquiry_convergence_theory.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/📡_inquiry_convergence_theory.md)
+        - [`🔥_the_latency_years_timeline.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🔥_the_latency_years_timeline.md)
+        - [`🔮_palantir_as_infrastructure.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🔮_palantir_as_infrastructure.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
     - [**🕸️🧿_The_Observed_Information_Space/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/)
