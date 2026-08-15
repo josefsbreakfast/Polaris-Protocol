@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-15 21:50:08 UTC_
+_Generated on 2026-08-15 21:53:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,9 +18,6 @@ _Generated on 2026-08-15 21:50:08 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**🧪_Development_Experimentation/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/)
-        - [`🛰️_counter_extremism_by_network.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🛰️_counter_extremism_by_network.md)
-        - [`🤖_ai_big_tech_and_israeli_apartheid_as_deregulated_security_lab.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🤖_ai_big_tech_and_israeli_apartheid_as_deregulated_security_lab.md)
-        - [`🤖_the_uk_could_have_had_hoverboards.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🤖_the_uk_could_have_had_hoverboards.md)
         - [`🦎_snow_leopard_geckos_against_modern_slavery.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🦎_snow_leopard_geckos_against_modern_slavery.md)
         - [`🦕_geological_timescale_economics_make_new_dinosaurs.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🦕_geological_timescale_economics_make_new_dinosaurs.md)
         - [`🧟‍♀️_the_frankenstack_problem.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md)
@@ -3611,6 +3608,9 @@ _Generated on 2026-08-15 21:50:08 UTC_
         - [`💔_romance_lens_as_ontology_failure.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/💔_romance_lens_as_ontology_failure.md)
         - [`💸_flipping_the_crypto_coin.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/💸_flipping_the_crypto_coin.md)
         - [`📁_absence_of_check_in.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/📁_absence_of_check_in.md)
+        - [`🛰️_counter_extremism_by_network.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🛰️_counter_extremism_by_network.md)
+        - [`🤖_ai_big_tech_and_israeli_apartheid_as_deregulated_security_lab.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🤖_ai_big_tech_and_israeli_apartheid_as_deregulated_security_lab.md)
+        - [`🤖_the_uk_could_have_had_hoverboards.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🤖_the_uk_could_have_had_hoverboards.md)
       - [**🧬_Governance_Repair_Shop/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/README.md)
         - [`⚖️_institutional_realisation_to_remediation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/⚖️_institutional_realisation_to_remediation.md)
