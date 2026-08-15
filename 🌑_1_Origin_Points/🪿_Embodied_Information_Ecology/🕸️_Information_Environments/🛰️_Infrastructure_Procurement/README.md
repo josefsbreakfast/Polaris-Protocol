@@ -1,5 +1,5 @@
 # 🛰️ Infrastructure & Procurement  
-**First created:** 2025-10-13 | **Last updated:** 2025-10-14  
+**First created:** 2025-10-13 | **Last updated:** 2026-08-15  
 *Where control becomes contract — tracing the supply chains of surveillance, data fusion, and outsourced governance.*
 
 ---
@@ -163,4 +163,4 @@ It documents how procurement culture, surveillance architecture, and vendor depe
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-14_
+_Last updated: 2026-08-15_
