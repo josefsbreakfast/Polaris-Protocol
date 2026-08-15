@@ -1,5 +1,5 @@
 # 🦎 Strict Migration Helps Modern Enslavers  
-**First created:** 2026-01-18 | **Last updated:** 2026-01-28  
+**First created:** 2026-01-18 | **Last updated:** 2026-08-15  
 *Why restrictive migration regimes reliably increase trafficking, debt bondage, and wage suppression.*  
 
 ---
@@ -271,4 +271,4 @@ It documents how border policy functions as labour-market architecture — shapi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-28_
+_Last updated: 2026-08-15_
