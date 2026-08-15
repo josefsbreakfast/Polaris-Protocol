@@ -1,5 +1,5 @@
 # 💰 Protest Law as a Cash-Flow Signal  
-**First created:** 2025-12-20 | **Last updated:** 2026-01-28  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-15  
 *Reading protest-law drift and unlawful practice as indicators of institutional budget stress.*  
 
 ---
@@ -173,4 +173,4 @@ It contributes diagnostic analysis showing how budget stress and capacity collap
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-28_
+_Last updated: 2026-08-15_
