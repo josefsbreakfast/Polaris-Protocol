@@ -1,3 +1,5 @@
+🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🛠️_fixing_the_uk_algorithmic_safety_stack.md
+
 # 🛠️ Fixing the UK Algorithmic Safety Stack  
 **First created:** 2025-11-05 | **Last updated:** 2026-05-08  
 *How to turn a patchwork of overlapping safety systems into a transparent, accountable digital infrastructure.*  
