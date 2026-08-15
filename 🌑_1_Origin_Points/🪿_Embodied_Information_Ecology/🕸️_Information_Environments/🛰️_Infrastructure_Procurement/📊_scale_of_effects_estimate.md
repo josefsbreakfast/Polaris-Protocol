@@ -1,5 +1,5 @@
 # 📊 Scale of Effects Estimate — Who Is Likely Affected  
-**First created:** 2025-09-20 | **Last updated:** 2026-01-28  
+**First created:** 2025-09-20 | **Last updated:** 2026-08-15  
 *Outlines which groups are most likely to be directly or indirectly affected by manufactured provenance, nudging, and data-twin exploitation. Provides a first-pass estimate of scale to help define an auditable population.*  
 
 ---
@@ -61,4 +61,4 @@ scale of effects, who is affected, manufactured provenance, data-twin exploitati
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-28_
+_Last updated: 2026-08-15_
