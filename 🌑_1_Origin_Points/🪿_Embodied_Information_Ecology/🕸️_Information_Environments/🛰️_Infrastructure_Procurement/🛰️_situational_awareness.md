@@ -1,3 +1,5 @@
+
+
 # 🛰️ Situational Awareness: Human vs Computational  
 **First created:** 2025-09-30 | **Last updated:** 2026-01-28  
 *How awareness is built in minds vs. machines, where failure surfaces lurk, and why a safety culture is overdue.*  
