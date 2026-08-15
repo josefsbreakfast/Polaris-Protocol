@@ -1,5 +1,5 @@
 # 🧠 Outsourcing the State’s Brain  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-28  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-15  
 *Why UK defence relies on consultancies — and how strategic outsourcing erodes democratic accountability.*  
 
 ---
@@ -162,4 +162,4 @@ It documents how reliance on consultancies for strategic thought reshapes defenc
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-28_
+_Last updated: 2026-08-15_
