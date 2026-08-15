@@ -1,11 +1,8 @@
-# 🕸️ Attribution Is Not A Light Switch
+# 🕸️ Attribution Is Not A Light Switch  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-16  
+*Cyber attribution is usually graded, delayed, contested, politically managed, and legally consequential in different ways at different thresholds.*
 
-**First created:** 2026-08-01 \| **Last updated:** 2026-08-15\
-*Cyber attribution is usually graded, delayed, contested, politically
-managed, and legally consequential in different ways at different
-thresholds.*
-
-------------------------------------------------------------------------
+---
 
 ## 🛰️ Orientation
 
@@ -18,8 +15,7 @@ Iran did not do it
 
 That is not how most cyber attribution works.
 
-The more accurate picture is a ladder of confidence built from different
-kinds of evidence:
+The more accurate picture is a ladder of confidence built from different kinds of evidence:
 
 -   technical indicators;
 -   infrastructure reuse;
@@ -48,27 +44,23 @@ The public discussion may ask:
 
 A government may be asking:
 
-> Which intelligence service, proxy, criminal network, contractor, or
-> access broker sits behind the operator?
+> Which intelligence service, proxy, criminal network, contractor, or access broker sits behind the operator?
 
 A lawyer may need to ask:
 
-> Can the operation be attributed to a state, connected to the armed
-> conflict, or tied to an identifiable person with the required
-> responsibility?
+> Can the operation be attributed to a state, connected to the armed conflict, or tied to an identifiable person with the required responsibility?
 
 Those are related questions.
 
 They are not interchangeable.
 
-So the absence of a definitive public statement does not make an
-incident analytically empty.
+So the absence of a definitive public statement does not make an incident analytically empty.
 
 It also does not permit the incident to be confidently assigned to Iran.
 
 Both limits matter.
 
-------------------------------------------------------------------------
+---
 
 ## 🎚️ Attribution Has Levels
 
@@ -76,9 +68,7 @@ This pack uses a graded model.
 
 ### Confirmed
 
-A competent public authority, affected institution, or well-supported
-technical investigation has made a clear attribution and provided enough
-basis to understand the claim.
+A competent public authority, affected institution, or well-supported technical investigation has made a clear attribution and provided enough basis to understand the claim.
 
 That may include:
 
@@ -95,9 +85,7 @@ It means the public record supports a high-confidence attribution.
 
 ### Probable
 
-The evidence strongly points towards an Iranian state, IRGC-linked,
-intelligence-linked, or proxy actor, but no definitive public
-governmental attribution has been made.
+The evidence strongly points towards an Iranian state, IRGC-linked, intelligence-linked, or proxy actor, but no definitive public governmental attribution has been made.
 
 This may rest on:
 
@@ -112,8 +100,7 @@ Probable should not be written as confirmed.
 
 ### Suspected
 
-There are credible indicators, but the evidence remains incomplete or
-disputed.
+There are credible indicators, but the evidence remains incomplete or disputed.
 
 This may include:
 
@@ -146,8 +133,7 @@ They do not control the record.
 
 No credible public attribution has yet been made.
 
-An unattributed incident may still be strategically important because
-of:
+An unattributed incident may still be strategically important because of:
 
 -   its timing;
 -   its sector;
@@ -172,12 +158,11 @@ An incident should be excluded where:
 
 Exclusion is part of analytical discipline.
 
-------------------------------------------------------------------------
+---
 
 ## 🪜 There Is More Than One Attribution Ladder
 
-One reason cyber debates become confused is that several separate
-attribution problems are treated as if they were one.
+One reason cyber debates become confused is that several separate attribution problems are treated as if they were one.
 
 A useful distinction is:
 
@@ -220,7 +205,7 @@ That is not analytical failure.
 
 It is a description of different evidentiary thresholds.
 
-------------------------------------------------------------------------
+---
 
 ## 🧱 Different Evidence Does Different Work
 
@@ -242,8 +227,7 @@ Technical similarity can support linkage.
 
 It does not always prove common sponsorship.
 
-Tools can be copied, leaked, bought, shared, deliberately imitated, or
-independently directed against the same weak technology.
+Tools can be copied, leaked, bought, shared, deliberately imitated, or independently directed against the same weak technology.
 
 ### Behavioural Evidence
 
@@ -263,8 +247,7 @@ It is weaker as a stand-alone attribution method.
 
 ### Timing
 
-An incident occurring immediately after military escalation may be
-relevant.
+An incident occurring immediately after military escalation may be relevant.
 
 Timing can support a hypothesis.
 
@@ -276,11 +259,9 @@ The world contains ordinary cybercrime even during war.
 
 Governments may hold intelligence that cannot be released publicly.
 
-That can produce a high-confidence internal attribution with a sparse
-public explanation.
+That can produce a high-confidence internal attribution with a sparse public explanation.
 
-The underlying evidence might include things unavailable to outside
-researchers:
+The underlying evidence might include things unavailable to outside researchers:
 
 -   intercepted communications;
 -   human intelligence;
@@ -293,13 +274,11 @@ researchers:
 
 This can be operationally necessary.
 
-It also creates an accountability problem where the affected public is
-asked to trust a conclusion it cannot inspect.
+It also creates an accountability problem where the affected public is asked to trust a conclusion it cannot inspect.
 
 ### Political Attribution
 
-States decide not only **whether** to attribute but **when, how, and at
-what level**.
+States decide not only **whether** to attribute but **when, how, and at what level**.
 
 A technically strong case may remain unspoken.
 
@@ -323,38 +302,26 @@ The underlying incident may not have changed.
 
 The government's willingness to describe responsibility has.
 
-------------------------------------------------------------------------
+---
 
 ## 🚰 The Water-Control Cases Show Why This Matters
 
-The widening United States water-system campaign is a useful live
-example.
+The widening United States water-system campaign is a useful live example.
 
-By late July and early August 2026, water and wastewater utilities
-across multiple states had reported intrusions affecting technology used
-to maintain and control physical water operations.
+By late July and early August 2026, water and wastewater utilities across multiple states had reported intrusions affecting technology used to maintain and control physical water operations.
 
-More than 30 Minnesota community water systems were targeted over 26--27
-July, and the FBI subsequently said utilities in at least seven states
-had reported incidents, some of which degraded water operations.
-Reporting by 4 August described affected systems across at least 12
-states.
+More than 30 Minnesota community water systems were targeted over 26--27 July, and the FBI subsequently said utilities in at least seven states had reported incidents, some of which degraded water operations.  
+Reporting by 4 August described affected systems across at least 12 states.
 
-Investigators and officials have treated Iranian involvement as a
-serious possibility.
+Investigators and officials have treated Iranian involvement as a serious possibility.
 
-Reporting has described the recent activity as likely linked to Iranian
-hackers, while federal agencies have previously attributed campaigns
-against internet-exposed programmable logic controllers to
-IRGC-affiliated actors.
+Reporting has described the recent activity as likely linked to Iranian hackers, while federal agencies have previously attributed campaigns against internet-exposed programmable logic controllers to IRGC-affiliated actors.
 
 But those two statements are not identical.
 
-The earlier advisory establishes that IRGC-affiliated actors have used
-this general target class and method.
+The earlier advisory establishes that IRGC-affiliated actors have used this general target class and method.
 
-It does not automatically attribute every later compromise of similar
-technology to the same actor.
+It does not automatically attribute every later compromise of similar technology to the same actor.
 
 The current analytical position can therefore look like:
 
@@ -377,11 +344,9 @@ not
 proved Iranian responsibility for every incident
 ```
 
-That distinction is exactly why this pack preserves unattributed and
-suspected incidents rather than forcing them prematurely into a
-confirmed category.
+That distinction is exactly why this pack preserves unattributed and suspected incidents rather than forcing them prematurely into a confirmed category.  
 
-------------------------------------------------------------------------
+---
 
 ## 🧬 Clustering Can Raise Significance Without Raising Attribution To Confirmed
 
@@ -416,10 +381,9 @@ this was one coordinated Iranian campaign
 
 That is an important distinction.
 
-Pattern recognition should increase scrutiny before it increases
-certainty.
+Pattern recognition should increase scrutiny before it increases certainty.
 
-------------------------------------------------------------------------
+---
 
 ## 🧅 The Chain May Be Layered
 
@@ -436,8 +400,7 @@ recruit
 → state customer
 ```
 
-That structure complicates attribution because different layers can be
-true at once.
+That structure complicates attribution because different layers can be true at once.
 
 The immediate operator may be a criminal.
 
@@ -451,8 +414,7 @@ A public statement that says:
 
 > This was criminal activity.
 
-may therefore describe one layer accurately while missing the wider
-operational relationship.
+may therefore describe one layer accurately while missing the wider operational relationship.
 
 The reverse is also possible.
 
@@ -460,7 +422,7 @@ A state may benefit from criminal activity it did not direct.
 
 Benefit is not the same as control.
 
-------------------------------------------------------------------------
+---
 
 ## 🎭 Proxy, Hacktivist, Criminal, Or State
 
@@ -498,14 +460,13 @@ The label should follow the evidence.
 
 It should not replace it.
 
-------------------------------------------------------------------------
+---
 
 ## ⚖️ State Responsibility And War-Crime Responsibility Are Not The Same Attribution Problem
 
 This distinction becomes especially important during armed conflict.
 
-Suppose investigators establish that an Iranian-linked operator
-interfered with civilian water infrastructure.
+Suppose investigators establish that an Iranian-linked operator interfered with civilian water infrastructure.
 
 That still leaves several separate questions:
 
@@ -525,8 +486,7 @@ Was there the required armed-conflict nexus?
 Which individuals knew, ordered, performed, or facilitated the conduct?
 ```
 
-A strong answer to one question does not automatically answer the
-others.
+A strong answer to one question does not automatically answer the others.
 
 That means:
 
@@ -554,27 +514,21 @@ The term requires more.
 
 For the deeper legal and public-attribution problem, see:
 
-[⚖️ When Attribution Controls The Public War-Crime
-Claim](./⚖️_when_attribution_controls_the_public_war_crime_claim.md)
+[⚖️ When Attribution Controls The Public War-Crime Claim](./⚖️_when_attribution_controls_the_public_war_crime_claim.md)
 
-------------------------------------------------------------------------
+---
 
 ## 🗣️ Public Attribution Creates Political Leverage
 
-Public attribution is not legally necessary for conduct to have
-occurred.
+Public attribution is not legally necessary for conduct to have occurred.
 
-It can nevertheless matter enormously for what governments can credibly
-say about it in public.
+It can nevertheless matter enormously for what governments can credibly say about it in public.
 
-Imagine a government privately assesses with high confidence that a
-foreign state directed an operation against protected civilian
-infrastructure.
+Imagine a government privately assesses with high confidence that a foreign state directed an operation against protected civilian infrastructure.
 
 If it attributes publicly, it may gain the ability to say:
 
-> this state attacked our civilian infrastructure during the armed
-> conflict.
+> this state attacked our civilian infrastructure during the armed conflict.
 
 Depending on the facts, that can support diplomatic condemnation,
 alliance coordination, sanctions, legal argument, criminal
@@ -609,7 +563,7 @@ That does not alter the underlying law.
 
 It alters what can be demonstrated and politically used in public.
 
-------------------------------------------------------------------------
+---
 
 ## 🤐 Silence Has More Than One Meaning
 
@@ -658,7 +612,7 @@ requires additional evidence.
 
 The distinction is essential.
 
-------------------------------------------------------------------------
+---
 
 ## 🤐 Non-Confirmation Can Also Become Part Of The Vulnerability
 
@@ -718,7 +672,7 @@ Sometimes it protects an operation.
 
 Sometimes it advertises the vulnerability.
 
-------------------------------------------------------------------------
+---
 
 ## 📰 Why Headlines Flatten The Problem
 
@@ -762,7 +716,7 @@ For example:
 
 That preserves both the evidence and the uncertainty.
 
-------------------------------------------------------------------------
+---
 
 ## 📊 The Confidence Label Must Travel With The Claim
 
@@ -807,7 +761,7 @@ copied the same source.
 
 Repetition is not corroboration.
 
-------------------------------------------------------------------------
+---
 
 ## 🧪 What Would Increase Confidence
 
@@ -837,7 +791,7 @@ Confidence should fall where:
 
 The timeline should be able to move in both directions.
 
-------------------------------------------------------------------------
+---
 
 ## 🔁 Attribution Changes Are Events
 
@@ -874,7 +828,7 @@ A later attribution can therefore change the meaning of an older event.
 The timeline should preserve that history rather than silently
 overwriting it.
 
-------------------------------------------------------------------------
+---
 
 ## 🧭 Attribution Confidence And Attribution Publication Are Different Axes
 
@@ -949,7 +903,7 @@ INTERAGENCY TECHNICAL FINDING
 
 The source and publication status must travel with the proposition.
 
-------------------------------------------------------------------------
+---
 
 ## 🚰 July--August 2026: The Water Case Became A Governance Problem
 
@@ -1016,7 +970,7 @@ may diverge.
 
 That divergence is itself a fact worth recording.
 
-------------------------------------------------------------------------
+---
 
 ## 📣 12--15 August 2026: A Known Ecosystem Made A New Claim
 
@@ -1122,7 +1076,7 @@ remain absent or not public
 That is what an attribution update looks like when the new evidence is
 meaningful but not dispositive.
 
-------------------------------------------------------------------------
+---
 
 ## 🏛️ Attribution Can Become A Governance Output
 
@@ -1170,7 +1124,7 @@ evidentiary act.
 Where credible reporting identifies a gap, record the gap rather than
 guessing why it exists.
 
-------------------------------------------------------------------------
+---
 
 ## 🌊 Attribution Must Follow The Wave, Not Flood The Whole Campaign
 
@@ -1237,7 +1191,7 @@ Attribution is one part of the analysis.
 
 It is not the whole analysis.
 
-------------------------------------------------------------------------
+---
 
 ## 🧾 Sources For The Live Water Attribution Record
 
@@ -1296,7 +1250,7 @@ Telegram actor statement
 Repetition of that chain by further outlets would not create additional
 independent corroboration.
 
-------------------------------------------------------------------------
+---
 
 ## 🧭 Working Rule
 
@@ -1325,13 +1279,15 @@ The first protects accuracy.
 
 The second protects situational awareness.
 
-------------------------------------------------------------------------
+---
 
 ## 🌌 Constellations
 
 🇮🇷 🕸️ 🧅 🔎 🤐 🚰 ⚖️ --- Iran war analysis; graded attribution; layered
 operators; source discipline; institutional silence; control systems;
 legal responsibility.
+
+---
 
 ## ✨ Stardust
 
@@ -1340,41 +1296,24 @@ hacktivists, criminal overlap, ncnd, intelligence, operational security,
 state responsibility, public attribution, individual criminal
 responsibility, water infrastructure, operational technology
 
-------------------------------------------------------------------------
+---
 
 ## 🏮 Footer
 
-*🕸️ Attribution Is Not A Light Switch* is a living node of the **Polaris
-Protocol**.\
-It defines how this pack separates technical attribution, public
-governmental attribution, state responsibility, individual
-responsibility, and the confidence attached to each.
+*🕸️ Attribution Is Not A Light Switch* is a living node of the **Polaris Protocol**.  
+It defines how this pack separates technical attribution, public governmental attribution, state responsibility, individual responsibility, and the confidence attached to each.  
 
 > 📡 Cross-references:
 >
-> -   [🇮🇷 Data Wars: IRGC Edition](./README.md) --- *root orientation
->     and pack map*
-> -   [🧭 What This Pack Is
->     Tracking](./🧭_what_this_pack_is_tracking.md) --- *scope and
->     inclusion rules*
-> -   [🚰 When Cyber Reaches The
->     Machinery](./🚰_when_cyber_reaches_the_machinery.md) ---
->     *operational technology, control systems, and physical effect*
-> -   [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) --- *separate
->     legal analysis for wartime cyber operations*
-> -   [🧅 The Operator May Not Know The
->     Customer](./🧅_the_operator_may_not_know_the_customer.md) ---
->     *layered tasking and deniable labour*
-> -   [🔎 Confidence Labels And Source
->     Rules](./🔎_confidence_labels_and_source_rules.md) --- *claim,
->     source, confidence, and limit*
-> -   [📰 How To Report Without
->     Overclaiming](./📰_how_to_report_without_overclaiming.md) ---
->     *newsroom discipline under uncertainty*
-> -   [⏱️ Timeline Of Essential Infrastructure
->     Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) ---
->     *live incident chronology*
+> -   [🇮🇷 Data Wars: IRGC Edition](./README.md) --- *root orientation and pack map*  
+> -   [🧭 What This Pack Is Tracking](./🧭_what_this_pack_is_tracking.md) --- *scope and inclusion rules*  
+> -   [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) --- *operational technology, control systems, and physical effect*  
+> -   [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) --- *separate legal analysis for wartime cyber operations*  
+> -   [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) --- *layered tasking and deniable labour*  
+> -   [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) --- *claim, source, confidence, and limit*  
+> -   [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) --- *newsroom discipline under uncertainty*  
+> -   [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) --- *live incident chronology*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-15*
+_Last updated: 2026-08-16_
