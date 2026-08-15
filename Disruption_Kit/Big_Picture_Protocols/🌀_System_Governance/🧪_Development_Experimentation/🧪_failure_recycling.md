@@ -1,5 +1,5 @@
 # 🧪 Failure Recycling  
-**First created:** 2025-09-14 | **Last updated:** 2026-02-20  
+**First created:** 2025-09-14 | **Last updated:** 2026-08-15  
 *Discredited models rebranded and reintroduced — failure dressed as innovation.*  
 
 ---
@@ -189,4 +189,4 @@ It documents the loop through which failed models are continually repackaged as 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-20_  
+_Last updated: 2026-08-15_  
