@@ -1,5 +1,5 @@
 # 🏦 Banks Are Part Of The Battlespace  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-15  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-16  
 *Money, access, confidence, payment continuity, and settlement are strategic infrastructure even when the institutions providing them are privately owned.*  
 
 ---
@@ -1217,4 +1217,4 @@ It explains why banking, payments, clearing, settlement, customer data, financia
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-15*
+_Last updated: 2026-08-16_
