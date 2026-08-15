@@ -1,6 +1,6 @@
 # ⛴️ Do Ports Count?
 
-**First created:** 2026-08-12 | **Last updated:** 2026-08-12  
+**First created:** 2026-08-12 | **Last updated:** 2026-08-15  
 *Why a cyber incident at a port belongs in an essential-state-infrastructure watch even when the cranes keep moving.*
 
 ---
@@ -264,6 +264,112 @@ That distinction is essential when reconstructing campaigns.
 
 ---
 
+## ✈️ CEVA — Logistics Disruption Does Not Automatically Become A Port Incident
+
+The July--August 2026 CEVA Logistics incident is a useful boundary
+correction.
+
+A cyberattack affected contract-logistics operations at eight European
+warehouses and caused shipment delays. Affected-customer reporting later
+identified exposure of some delivery and contact data.
+
+CEVA is part of CMA CGM, one of the world's largest shipping and
+logistics groups.
+
+That corporate relationship does not make every CEVA warehouse incident
+a port incident.
+
+The reviewed record currently supports:
+
+```text
+WAREHOUSE / CONTRACT-LOGISTICS DISRUPTION:
+🟢 ESTABLISHED
+
+SHIPMENT DELAYS:
+🟢 ESTABLISHED
+
+SOME CUSTOMER-DATA EXPOSURE:
+🟢 ESTABLISHED
+```
+
+It does not establish:
+
+```text
+PORT AUTHORITY COMPROMISED:
+NO EVIDENCE FOUND
+
+CONTAINER-TERMINAL SYSTEM COMPROMISED:
+NO EVIDENCE FOUND
+
+MARITIME OT COMPROMISED:
+NO EVIDENCE FOUND
+
+PORT THROUGHPUT DEGRADED:
+NOT ESTABLISHED
+
+IRAN CONNECTION:
+NO EVIDENCE FOUND
+```
+
+The correct current classification is:
+
+> **private logistics disruption adjacent to the maritime supply-chain
+> ecosystem.**
+
+The distinction matters because three relationships can be confused.
+
+### Corporate relationship
+
+The affected logistics operator belongs to a group with major shipping
+and maritime interests.
+
+### Supply-chain relationship
+
+Goods may have arrived through, or later moved through, ports even where
+the port itself experienced no cyber compromise.
+
+### Technical or operational relationship
+
+The same intrusion may have reached port, terminal, customs, shipping or
+maritime-control systems.
+
+Only the third would make the incident a direct port cyber event.
+
+The second can still produce downstream port consequences if delayed
+warehouse clearance causes cargo accumulation, missed collections,
+container dwell or altered routing.
+
+But those effects must be observed.
+
+Do not manufacture them from corporate structure.
+
+Use:
+
+```text
+PORT RELATIONSHIP:
+corporate / supply-chain / technical / operational / none established
+
+DIRECT PORT COMPROMISE:
+yes / no / open
+
+PORT OPERATIONAL EFFECT:
+none / suspected / demonstrated
+
+WAREHOUSE OPERATIONAL EFFECT:
+none / degraded / closure / manual fallback
+
+SECOND-ORDER PORT EFFECT:
+none / suspected / demonstrated
+```
+
+Sources:
+
+- [TechCrunch: CEVA warehouse disruption and customer-data effects](https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/)
+- [FreightWaves: shipment delays across eight European warehouses](https://www.freightwaves.com/news/cyberattack-on-ceva-logistics-warehouses-in-europe-impacts-retailers)
+- [SecurityWeek: CEVA contract-logistics operations disrupted](https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/)
+
+---
+
 ## 🇺🇸 Why The North Carolina Incident Belongs In The Watch
 
 The August 2026 North Carolina State Ports incident is useful precisely
@@ -431,6 +537,17 @@ evidence found
 military-logistical  
 **Confidence:** explicit
 
+And, for incidents connected only indirectly to maritime trade:
+
+```text
+PORT RELATIONSHIP:
+DIRECT PORT COMPROMISE:
+PORT OPERATIONAL EFFECT:
+WAREHOUSE / LOGISTICS EFFECT:
+SECOND-ORDER PORT EFFECT:
+EVIDENCE LINKING THE EFFECTS:
+```
+
 This prevents two opposite errors:
 
 > dismissing serious disruption because no machinery exploded;
@@ -479,8 +596,9 @@ cyber-to-physical propagation; attribution discipline.
 
 ## ✨ Stardust
 
-critical infrastructure, ports, maritime transport, logistics, cyber
-disruption, operational technology, supply chains, attribution, iran,
+critical infrastructure, ports, maritime transport, logistics,
+warehouses, cyber disruption, operational technology, supply chains,
+port relationships, second-order effects, attribution, iran,
 infrastructure coercion
 
 ---
@@ -512,7 +630,10 @@ without lowering the evidentiary threshold.
 >     Machinery](./🚰_when_cyber_reaches_the_machinery.md) ---
 >     *distinguishing information-system disruption from
 >     physical-process effects*
+> -   [One War, Many Threat
+>     Ecosystems](./🧬_one_war_many_threat_ecosystems.md) --- *keeping
+>     logistics, criminal and Iran-linked waves analytically separate*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-12*
+*Last updated: 2026-08-15*

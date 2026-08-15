@@ -1,5 +1,5 @@
 # 🏗️ What Counts As State Infrastructure  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-09  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-15  
 *The test is what the system does, not whether the organisation running it is formally part of the state.*  
 
 ---
@@ -545,6 +545,213 @@ A breach in one contractor can therefore create consequences across several publ
 
 ---
 
+## ✈️ CEVA — The Logistics Boundary Case
+
+CEVA Logistics shows why a private transport company cannot be classified
+by brand or scale alone.
+
+A cyberattack beginning around 29 July affected contract-logistics
+operations at eight CEVA warehouses in Europe. Public reporting
+described shipment delays, while affected-customer reporting later
+identified exposure of some delivery and contact data.
+
+That establishes:
+
+```text
+PRIVATE LOGISTICS OPERATOR:
+🟢 ESTABLISHED
+
+OPERATIONAL WAREHOUSE DISRUPTION:
+🟢 ESTABLISHED
+
+SHIPMENT DELAYS:
+🟢 ESTABLISHED
+
+SOME CUSTOMER-DATA EXPOSURE:
+🟢 ESTABLISHED
+```
+
+It does not currently establish:
+
+```text
+PORT-CONTROL COMPROMISE:
+NO EVIDENCE FOUND
+
+TRANSPORT OT COMPROMISE:
+NO EVIDENCE FOUND
+
+MILITARY-LOGISTICS TARGETING:
+NO EVIDENCE FOUND
+
+IRAN CONNECTION:
+NO EVIDENCE FOUND
+```
+
+The correct classification is therefore:
+
+> **adjacent essential logistics infrastructure, with significance
+> dependent on the affected supply chains.**
+
+CEVA's relevance would rise where evidence showed that the affected
+warehouses were necessary to:
+
+- food distribution;
+- medical or pharmaceutical supply;
+- fuel or energy operations;
+- defence logistics;
+- emergency response;
+- critical industrial production;
+- or recovery of another essential system.
+
+It would remain lower where the demonstrated effect was confined to
+ordinary discretionary retail shipments with adequate alternative
+capacity.
+
+The inclusion test is:
+
+```text
+WHAT GOODS OR SERVICES WERE MOVING?
++
+WHO DEPENDED ON THEM?
++
+WHAT ALTERNATIVE CAPACITY EXISTED?
++
+WHAT STOPPED OR BECAME UNSAFE?
+```
+
+Not:
+
+```text
+BIG LOGISTICS COMPANY
+=
+AUTOMATICALLY STATE INFRASTRUCTURE
+```
+
+Sources:
+
+- [TechCrunch: CEVA warehouse disruption and customer-data effects](https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/)
+- [FreightWaves: shipment delays across eight European warehouses](https://www.freightwaves.com/news/cyberattack-on-ceva-logistics-warehouses-in-europe-impacts-retailers)
+- [SecurityWeek: CEVA contract-logistics operations disrupted](https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/)
+
+---
+
+## 🪜 A Graduated Logistics Perimeter
+
+Logistics incidents should be placed on a graduated perimeter.
+
+### Direct essential-function infrastructure
+
+The affected system directly operates or controls:
+
+- emergency transport;
+- public transit;
+- customs or border movement;
+- fuel distribution;
+- medical supply;
+- food distribution;
+- defence logistics;
+- or another indispensable public function.
+
+### Critical supply-chain dependency
+
+The operator is private, but another essential service cannot continue
+normally without its warehouses, fleet, software, data or routing
+capacity.
+
+### Adjacent essential-logistics watch
+
+The operator has plausible essential-sector relevance, but the reviewed
+record does not yet show that the affected facilities served a critical
+function.
+
+CEVA presently sits here.
+
+### Commercial disruption only
+
+The incident delays ordinary commercial goods without demonstrated
+public-function, safety or strategic consequence.
+
+This may still be a serious cybercrime incident.
+
+It does not automatically belong in an essential-state infrastructure
+campaign.
+
+Record:
+
+```text
+LOGISTICS PERIMETER LEVEL:
+AFFECTED FACILITIES:
+AFFECTED GOODS / SERVICES:
+ESSENTIAL-SECTOR CUSTOMER:
+ALTERNATIVE CAPACITY:
+DURATION OF DISRUPTION:
+DOWNSTREAM SERVICE EFFECT:
+PUBLIC-SAFETY EFFECT:
+DATA EFFECT:
+OT / PORT / FLEET-CONTROL EFFECT:
+```
+
+---
+
+## 🧬 A Large Corporate Victim Is Not Automatically An Infrastructure Event
+
+The Cl0p campaign provides the second boundary test.
+
+Cl0p claimed data theft from nearly fifty organisations, including
+Shell, Philips, GE and Fiserv. Those names sit in energy,
+medical-technology, industrial and financial ecosystems.
+
+Their sectoral importance justifies scrutiny.
+
+It does not establish an essential-service operational effect.
+
+The reviewed record contained materially different positions from the
+named organisations. Philips confirmed and contained attempted
+compromise of a specific internal server. Shell and GE investigated.
+Fiserv said it had found no evidence that customer, banking,
+transaction, personal or operational data had been compromised.
+
+Therefore:
+
+```text
+ESSENTIAL-SECTOR COMPANY NAMED:
+🟢 ESTABLISHED
+
+ACTOR DATA-THEFT CLAIM:
+📣 ESTABLISHED AS A CLAIM
+
+ESSENTIAL PUBLIC FUNCTION DISRUPTED:
+NOT GENERALLY ESTABLISHED
+
+OPERATIONAL INFRASTRUCTURE COMPROMISED:
+NOT GENERALLY ESTABLISHED
+```
+
+The pack may retain such cases as **exposure evidence** or a
+**shared-dependency campaign** without upgrading every corporate breach
+into an infrastructure outage.
+
+That distinction protects the perimeter from becoming:
+
+```text
+LARGE COMPANY
++
+IMPORTANT SECTOR
+=
+STATE INFRASTRUCTURE ATTACK
+```
+
+The missing question remains:
+
+> **What essential function was actually affected?**
+
+Sources:
+
+- [Reuters: Cl0p claims mass data theft across major companies](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
+- [PTC: Windchill and FlexPLM remote-code-execution advisory](https://www.ptc.com/en/about/trust-center/advisory-center/active-advisories/windchill-flexplm-rce-vulnerability)
+
+---
+
 ## 📡 Telecommunications And State Connectivity  
 
 Telecommunications infrastructure includes:
@@ -893,6 +1100,10 @@ OPERATIONAL EFFECT:
 PHYSICAL EFFECT:
 MANUAL FALLBACK:
 SHARED CONTRACTOR OR TECHNOLOGY:
+LOGISTICS PERIMETER LEVEL:
+AFFECTED GOODS / SERVICES:
+ALTERNATIVE CAPACITY:
+DOWNSTREAM ESSENTIAL-SERVICE EFFECT:
 CIVILIAN / MILITARY / DUAL-USE STATUS:
 IHL REVIEW NEEDED:
 ```
@@ -939,7 +1150,7 @@ And where the system is civilian:
 
 ## ✨ Stardust  
 
-state infrastructure, critical infrastructure, essential services, public contractors, water, energy, health, education, banking, transport, telecommunications, government data, operational technology, industrial control systems, public function, civilian infrastructure, international humanitarian law
+state infrastructure, critical infrastructure, essential services, public contractors, water, energy, health, education, banking, transport, logistics, supply chains, telecommunications, government data, operational technology, industrial control systems, public function, civilian infrastructure, international humanitarian law
 
 ---
 
@@ -958,7 +1169,8 @@ It defines the functional perimeter for incidents included in the *🇮🇷 Data
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
 > - [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) — *civilian systems as state function*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
+> - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *separating essential-function effects from shared-vulnerability and criminal exposure patterns*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-09_
+_Last updated: 2026-08-15_

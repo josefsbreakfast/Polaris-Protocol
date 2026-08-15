@@ -1,5 +1,5 @@
 # 🏦 Banks Are Part Of The Battlespace  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-09  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-15  
 *Money, access, confidence, payment continuity, and settlement are strategic infrastructure even when the institutions providing them are privately owned.*  
 
 ---
@@ -409,6 +409,93 @@ Neither pattern proves sponsorship.
 But both deserve analysis beyond:
 
 > Bank A had an outage.
+
+---
+
+## 🧪 Fiserv — Financial Exposure Is Not Yet Financial Disruption  
+
+On 12–13 August 2026, the criminal extortion group Cl0p named nearly fifty
+organisations in a mass data-theft claim. The named organisations included
+Fiserv, a major financial-technology and payments provider.
+
+That makes the claim relevant to this watch.
+
+It does **not** establish that banking or payment infrastructure was impaired.
+
+Fiserv told Reuters that its investigation had found no evidence that customer,
+banking, transaction, personal or operational data was compromised. Reuters
+could not independently verify Cl0p's claimed theft volumes. Reporting also
+indicated that the campaign exploited widely deployed enterprise software,
+rather than demonstrating that each organisation had been individually chosen
+for its strategic function.  
+[Reuters — *Hacking group claims mass data theft from Shell, Philips, GE,
+Fiserv and dozens of others*](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
+
+Fiserv's inclusion is nevertheless a useful exposure signal. The company
+provides banking platforms, account processing, merchant acquiring, billing,
+payments and point-of-sale services. A confirmed compromise at the wrong layer
+could therefore propagate beyond one corporate network.  
+[Fiserv — company and service overview](https://www.fiserv.com/)
+
+The evidentiary position on 15 August is:
+
+```text
+ACTOR CLAIM:                     YES — Cl0p
+COMPANY INVESTIGATION:           YES
+COMPROMISE CONFIRMED BY FISERV:  NO
+CUSTOMER DATA IMPACT:            NOT DEMONSTRATED
+BANKING DATA IMPACT:             NOT DEMONSTRATED
+TRANSACTION DATA IMPACT:         NOT DEMONSTRATED
+OPERATIONAL DATA IMPACT:         NOT DEMONSTRATED
+PAYMENT SERVICE DISRUPTION:      NOT DEMONSTRATED
+CLEARING / SETTLEMENT EFFECT:    NOT DEMONSTRATED
+IRAN CONNECTION:                 NO EVIDENCE FOUND
+BEST CURRENT EXPLANATION:        MASS CRIMINAL DATA-EXTORTION CAMPAIGN
+```
+
+This is not a banking-service incident for timeline-counting purposes unless
+new evidence establishes compromise or operational effect.
+
+It is an **adjacent financial-infrastructure exposure event**.
+
+That distinction prevents three analytical errors:
+
+```text
+named financial company
+≠
+confirmed compromise
+
+confirmed compromise
+≠
+payment-system effect
+
+payment-system effect
+≠
+clearing or settlement failure
+```
+
+It also shows why provider concentration matters. U.S. banking regulators tell
+banks to assess third parties' operational resilience, incident-management
+processes and single-provider dependencies. Federal Reserve research likewise
+shows that an outage at a service provider used to transmit Fedwire payments
+can produce measurable effects across connected banks.  
+[Federal Reserve — *Interagency Guidance on Third-Party
+Relationships*](https://www.federalreserve.gov/frrs/guidance/interagency-guidance-on-third-party-relationships.htm)  
+[Federal Reserve — *Using Service Provider Connections to Model Operational
+Payment Networks*](https://www.federalreserve.gov/econres/notes/feds-notes/using-service-provider-connections-to-model-operational-payment-networks-20250103.html)
+
+The systemic question is therefore not merely:
+
+> Was a famous financial company named?
+
+It is:
+
+> Which function, data set or payment connection was actually reached—and what
+> stopped working as a result?
+
+For Fiserv, the public answer is presently: **none demonstrated**.
+
+That is a finding, not an absence of analysis.
 
 ---
 
@@ -945,8 +1032,10 @@ DATE:
 COUNTRY:
 INSTITUTION:
 INSTITUTION TYPE:
+INCIDENT STATUS — CLAIM / CONFIRMED / DISRUPTIVE:
 SYSTEM / FINANCIAL LAYER AFFECTED:
 SHARED PROVIDER OR INFRASTRUCTURE:
+PROVIDER CONNECTION DEMONSTRATED:
 ENTRY POINT:
 DEPTH-OF-ACCESS LEVEL:
 CUSTOMER ACCESS IMPACT:
@@ -970,6 +1059,7 @@ OFFICIAL ATTRIBUTION:
 OTHER ATTRIBUTION:
 CONFIDENCE:
 IRAN RELEVANCE:
+ORGANISING MECHANISM:
 RIVAL EXPLANATIONS:
 RECOVERY STATUS:
 PUBLIC COMMUNICATION:
@@ -1105,7 +1195,7 @@ It does not erase the distinction between strategic importance and lawful target
 
 ## ✨ Stardust  
 
-banks, payments, financial infrastructure, cyberattack, confidence, customer data, sanctions, fraud, payment continuity, economic disruption, clearing, settlement, financial integrity, systemic banking, government payments, dual-use infrastructure, international humanitarian law
+banks, payments, financial infrastructure, cyberattack, confidence, customer data, sanctions, fraud, payment continuity, economic disruption, clearing, settlement, financial integrity, systemic banking, government payments, dual-use infrastructure, international humanitarian law, Fiserv, Cl0p, third-party providers, shared vulnerabilities, exposure without disruption
 
 ---
 
@@ -1123,7 +1213,8 @@ It explains why banking, payments, clearing, settlement, customer data, financia
 > - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *graded attribution and uncertainty*
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
+> - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *separating shared-software criminal campaigns from Iran-linked infrastructure activity*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-09_
+*Last updated: 2026-08-15*

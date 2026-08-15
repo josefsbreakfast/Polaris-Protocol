@@ -1,8 +1,9 @@
 # 🌊 Riding Every Wave
 
-**First created:** 2026-08-14 \| **Last updated:** 2026-08-14 *How state
-campaigns, aligned actors, criminal follow-on and ordinary opportunism
-can overlap without sharing a command structure.*
+**First created:** 2026-08-14 \| **Last updated:** 2026-08-15\
+*How state campaigns, aligned actors, shared vulnerabilities, criminal
+follow-on and ordinary opportunism can overlap without sharing a command
+structure.*
 
 ------------------------------------------------------------------------
 
@@ -138,6 +139,58 @@ Sometimes war increases crime because war increases opportunity.
 
 ------------------------------------------------------------------------
 
+### 🧬 Shared-vulnerability waves
+
+One exploitable product can generate a cross-sector victim list without
+any actor selecting each victim for its strategic value.
+
+A shared-vulnerability wave may look like:
+
+``` text
+widely used software
+→ one exploitable flaw
+→ mass scanning or repeatable access
+→ victims across several sectors
+→ data theft or extortion at scale
+```
+
+The resulting victim list may include energy, healthcare, finance,
+defence, industrial, retail, and ordinary commercial organisations.
+
+That distribution can resemble strategic cross-sector targeting.
+
+The organising mechanism may instead be:
+
+> **Who was running the vulnerable product?**
+
+rather than:
+
+> **Which sectors did the attacker choose for geopolitical effect?**
+
+This does not make the campaign strategically irrelevant.
+
+It changes the attribution question.
+
+Record:
+
+``` text
+COMMON VULNERABILITY:
+COMMON PRODUCT:
+EXPOSURE POPULATION:
+COMPROMISED POPULATION:
+PUBLISHED / EXTORTED POPULATION:
+SELECTIVE POST-COMPROMISE BEHAVIOUR:
+```
+
+The denominator matters.
+
+Four geopolitically interesting victims among four compromised
+organisations would mean something different from four interesting
+victims among fifty organisations reached through the same vulnerable
+platform.
+
+------------------------------------------------------------------------
+
 ## 🧿 Downstream Is Not The Same As Directed
 
 One of the easiest analytical errors is to see a sequence like this:
@@ -182,6 +235,80 @@ created by an earlier campaign.
 The state operation may therefore help explain **why the later crime
 became possible or profitable** while explaining nothing about **who
 ordered the later crime**.
+
+------------------------------------------------------------------------
+
+## 🪜 Initial Access And Later Use May Have Different Organising Logic
+
+The first actor to enter a system may be selecting for ease.
+
+A later actor may select for value.
+
+The chain can look like:
+
+``` text
+mass scanning
+→ opportunistic compromise
+→ persistence or data access
+→ criminal sorting
+→ access sale or affiliate use
+→ later customer recognises strategic value
+```
+
+Or:
+
+``` text
+shared-vulnerability campaign
+→ broad victim pool
+→ selective extortion
+→ selective publication
+→ selective resale or follow-on tasking
+```
+
+This means two propositions can coexist:
+
+``` text
+INITIAL ACCESS WAS OPPORTUNISTIC
+```
+
+and:
+
+``` text
+LATER EXPLOITATION WAS SELECTIVE
+```
+
+But selective later use must be demonstrated.
+
+It cannot be inferred merely because some compromised organisations
+would be useful to a state at war.
+
+Useful evidence might include:
+
+-   which victims were compromised compared with the exposed customer
+    population;
+-   which victims received extortion demands;
+-   which victims were named publicly;
+-   which data categories were prioritised;
+-   evidence of access sale;
+-   later intrusion by a different actor;
+-   tasking or communications;
+-   or operational effects inconsistent with ordinary extortion.
+
+Without that evidence:
+
+``` text
+STRATEGICALLY INTERESTING VICTIM
+≠
+STRATEGICALLY SELECTED VICTIM
+```
+
+And:
+
+``` text
+POSSIBLE LATER STATE CUSTOMER
+≠
+EVIDENCE OF A LATER STATE CUSTOMER
+```
 
 ------------------------------------------------------------------------
 
@@ -338,6 +465,10 @@ campaign, ask:
 -   What is actually shared between the incidents?
 -   Are we seeing shared command, shared tooling, shared opportunity or
     merely shared timing?
+-   Is one vulnerable product producing the apparent cross-sector
+    pattern?
+-   What is the exposed-customer denominator behind the named victims?
+-   Was initial access opportunistic but later exploitation selective?
 -   Is the actor already known to have a relationship with the suspected
     state?
 -   If so, is there evidence connecting that relationship to **this
@@ -360,6 +491,124 @@ impossible.
 
 The goal is to describe the relationships that the evidence actually
 supports.
+
+------------------------------------------------------------------------
+
+## 🧪 Worked Example — The Mid-August 2026 Waves
+
+The infrastructure picture visible by 15 August contains several
+different waves.
+
+### 🚰 Water and operational technology
+
+The Minnesota / core water wave carries the strongest Iran-linked
+assessment.
+
+The public record includes:
+
+-   repeated interference with internet-facing PLCs;
+-   operational and some physical effects;
+-   prior government warnings about Iranian-affiliated targeting of the
+    same class of technology;
+-   reported investigative and intelligence assessments favouring
+    Iran;
+-   and a responsibility claim from APT IRAN / CyberAv3ngers, an actor
+    ecosystem with a previously established IRGC relationship.
+
+Formal public federal attribution of the current wave remains absent in
+the reviewed record, and the stronger assessment cannot automatically
+be inherited by every incident in every affected state.
+
+-   [KSTP: APT IRAN and CyberAv3ngers claim the Minnesota water
+    attacks](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)
+-   [CISA and partners: prior attribution of IRGC-affiliated PLC
+    activity](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)
+-   [FBI: current water-sector PLC operational-disruption
+    warning](https://www.fbi.gov/investigate/cyber/alerts/2026/malicious-cyber-actors-targeting-water-and-wastewater-sector-internet--facing-programmable-logic-controllers-causing-operational-disruptions)
+
+### 🏥 Healthcare ransomware
+
+The AnMed incident is increasingly consistent with a conventional
+ransomware and extortion wave. The Gentlemen claimed responsibility,
+and AnMed's Facebook page was later used to publish repeated ransom
+demands. The claimed volume and categories of stolen data had not been
+verified publicly.
+
+That criminal attribution does not weaken the separate evidence
+concerning the water core.
+
+-   [The Record: AnMed Facebook takeover and ransomware
+    demands](https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response)
+-   [AnMed recovery and service effects reported by HIPAA
+    Journal](https://www.hipaajournal.com/anmed-closes-almost-80-facilities-while-it-grapples-with-cyberattack/)
+
+### 🏛️ Local-government disruption
+
+Suisun City developed an extortion indicator when its council considered
+a perpetrator demand. Darlington County remained unattributed in the
+reviewed record.
+
+They belong to the same **local-government exposure watch**.
+
+That does not establish that they belong to the same operation.
+
+-   [San Francisco Chronicle: Suisun City considers a perpetrator
+    demand](https://www.sfchronicle.com/bayarea/article/suisun-city-cyberattack-demand-22384401.php)
+-   [Darlington County statement reported by News and
+    Press](https://www.newsandpress.net/darlington-county-issues-statement-on-cybersecurity-incident/)
+
+### 🧬 Cl0p and shared enterprise software
+
+Cl0p's claims concerning Shell, Philips, GE, Fiserv, and dozens of other
+organisations provide the clearest shared-vulnerability comparator.
+
+Reuters reported mass data-extortion claims across nearly fifty
+organisations. PTC separately documented a critical remote-code-
+execution vulnerability affecting Windchill and FlexPLM.
+
+The current organising mechanism is therefore better described as:
+
+``` text
+shared enterprise software
+→ scalable criminal exploitation
+→ cross-sector victim list
+```
+
+than:
+
+``` text
+one state sponsor
+→ strategic selection of every named sector
+```
+
+The possibility of selective post-compromise use remains a testable
+hypothesis, not a current finding.
+
+-   [Reuters: Cl0p mass-extortion campaign](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
+-   [PTC: Windchill and FlexPLM vulnerability advisory](https://www.ptc.com/en/about/trust-center/advisory-center/active-advisories/windchill-flexplm-rce-vulnerability)
+
+### Current wave assessment
+
+``` text
+COMMON WARTIME ENVIRONMENT:
+🟢 ESTABLISHED
+
+MULTIPLE OVERLAPPING THREAT ECOSYSTEMS:
+🟡 PROBABLE / STRONGLY SUPPORTED
+
+ONE COMMON OPERATOR:
+⚪ NOT ESTABLISHED
+
+ONE COMMON CUSTOMER:
+⚪ NOT ESTABLISHED
+
+ONE COMMON STATE SPONSOR:
+⚪ NOT ESTABLISHED
+```
+
+The pattern is becoming more differentiated as the evidence improves.
+
+That is analytical progress, not the disappearance of the campaign.
 
 ------------------------------------------------------------------------
 
@@ -449,7 +698,8 @@ relationships.
 ## ✨ Stardust
 
 cyber conflict, attribution, state operations, proxy actors, criminal
-follow-on, opportunistic crime, campaign waves, causal relationships,
+follow-on, shared vulnerabilities, selective exploitation, access
+markets, opportunistic crime, campaign waves, causal relationships,
 command relationships, conflict ecology
 
 ------------------------------------------------------------------------
@@ -458,10 +708,11 @@ command relationships, conflict ecology
 
 *Riding Every Wave* is a living node of the **Polaris Protocol**.\
 It provides a reusable framework for distinguishing state-directed
-operations, affiliated or aligned participation, criminal follow-on and
-ordinary opportunism within conflict-driven cyber campaigns. It is
-designed to preserve causal relationships without converting them
-automatically into organisational attribution.
+operations, affiliated or aligned participation, shared-vulnerability
+waves, criminal follow-on and ordinary opportunism within
+conflict-driven cyber campaigns. It is designed to preserve causal and
+technical relationships without converting them automatically into
+organisational attribution.
 
 > 📡 Cross-references:
 >
@@ -478,4 +729,4 @@ automatically into organisational attribution.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-14*
+*Last updated: 2026-08-15*
