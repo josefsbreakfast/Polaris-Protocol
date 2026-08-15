@@ -1,6 +1,5 @@
-# ⛴️ Do Ports Count?
-
-**First created:** 2026-08-12 | **Last updated:** 2026-08-15  
+# ⛴️ Do Ports Count?  
+**First created:** 2026-08-12 | **Last updated:** 2026-08-16  
 *Why a cyber incident at a port belongs in an essential-state-infrastructure watch even when the cranes keep moving.*
 
 ---
@@ -605,35 +604,19 @@ infrastructure coercion
 
 ## 🏮 Footer
 
-*Do Ports Count?* is a living node of the **Polaris Protocol**. It
-defines why maritime logistics belongs within
-essential-state-infrastructure monitoring while preserving the
-distinction between ordinary IT compromise, operational disruption, OT
-interference and state attribution. Its purpose is to widen the sensor
-without lowering the evidentiary threshold.
+*Do Ports Count?* is a living node of the **Polaris Protocol**.  
+It defines why maritime logistics belongs within essential-state-infrastructure monitoring while preserving the distinction between ordinary IT compromise, operational disruption, OT interference and state attribution.  
+Its purpose is to widen the sensor without lowering the evidentiary threshold.
 
 > 📡 Cross-references:
 >
-> -   [Timeline of Essential Infrastructure
->     Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) ---
->     *incident chronology and attribution tracking*
-> -   [What Counts as State
->     Infrastructure](./🏗️_what_counts_as_state_infrastructure.md) ---
->     *functional boundaries for inclusion in the watch*
-> -   [Attribution Is Not a Light
->     Switch](./🕸️_attribution_is_not_a_light_switch.md) --- *confidence
->     gradients and competing explanations*
-> -   [The Operator May Not Know the
->     Customer](./🧅_the_operator_may_not_know_the_customer.md) ---
->     *intermediaries, proxies, affiliates and obscured tasking*
-> -   [When Cyber Reaches the
->     Machinery](./🚰_when_cyber_reaches_the_machinery.md) ---
->     *distinguishing information-system disruption from
->     physical-process effects*
-> -   [One War, Many Threat
->     Ecosystems](./🧬_one_war_many_threat_ecosystems.md) --- *keeping
->     logistics, criminal and Iran-linked waves analytically separate*
+> -   [⏱️ Timeline of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) --- *incident chronology and attribution tracking*
+> -   [🏗️ What Counts as State Infrastructure](./🏗️_what_counts_as_state_infrastructure.md) --- *functional boundaries for inclusion in the watch*
+> -   [🕸️ Attribution Is Not a Light Switch](./🕸️_attribution_is_not_a_light_switch.md) --- *confidence gradients and competing explanations*
+> -   [🧅 The Operator May Not Know the Customer](./🧅_the_operator_may_not_know_the_customer.md) --- *intermediaries, proxies, affiliates and obscured tasking*
+> -   [🚰 When Cyber Reaches the Machinery](./🚰_when_cyber_reaches_the_machinery.md) --- *distinguishing information-system disruption from physical-process effects*
+> -   [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) --- *keeping logistics, criminal and Iran-linked waves analytically separate*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-15*
+_Last updated: 2026-08-16_
