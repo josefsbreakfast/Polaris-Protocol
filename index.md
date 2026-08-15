@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-15 19:28:29 UTC_
+_Generated on 2026-08-15 19:32:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -19,6 +19,7 @@ _Generated on 2026-08-15 19:28:29 UTC_
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
       - [**🛰️_Infrastructure_Procurement/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/README.md)
+        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/notes.txt)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
         - [`⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md)
         - [`🌀_prototype_surveillance_as_investor_pitch.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🌀_prototype_surveillance_as_investor_pitch.md)
