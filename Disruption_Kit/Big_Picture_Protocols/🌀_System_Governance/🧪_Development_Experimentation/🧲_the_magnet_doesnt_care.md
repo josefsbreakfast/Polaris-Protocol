@@ -1,5 +1,5 @@
 # 🧲 The Magnet Doesn’t Care: Applied Science vs Tech-Bro Cosmology  
-**First created:** 2025-12-14 | **Last updated:** 2026-02-20  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-15  
 *Why systems governed by physics, medicine, and engineering collide with Silicon Valley’s unlimited-innovation worldview.*  
 
 ---
@@ -203,4 +203,4 @@ It documents how abstraction-first innovation cultures fail when confronted with
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-08-15_
