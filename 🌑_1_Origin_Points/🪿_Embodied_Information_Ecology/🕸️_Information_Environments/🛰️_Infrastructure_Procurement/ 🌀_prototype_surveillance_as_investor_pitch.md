@@ -1,5 +1,5 @@
 # 🌀 Prototype Surveillance as Investor Pitch  
-**First created:** 2025-09-26 | **Last updated:** 2026-01-29  
+**First created:** 2025-09-26 | **Last updated:** 2026-08-15  
 *Hypothesis node examining whether surveillance operations function as investor-facing product prototypes, enabled by algorithmic targeting and federated system leakage.*
 
 ---
@@ -182,5 +182,5 @@ It contributes a governance-level hypothesis on how commercial incentives, algor
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-29_
+_Last updated: 2026-08-15_
 
