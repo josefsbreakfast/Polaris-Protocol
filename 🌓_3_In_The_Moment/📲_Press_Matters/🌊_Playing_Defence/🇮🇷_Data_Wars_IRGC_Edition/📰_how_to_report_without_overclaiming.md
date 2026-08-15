@@ -1,10 +1,8 @@
-# 📰 How To Report Without Overclaiming
+# 📰 How To Report Without Overclaiming  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-16  
+*Preserve the event, the source, the evidentiary layer, the confidence, the limit, the rival explanation, and what would change the assessment.*  
 
-**First created:** 2026-08-01 \| **Last updated:** 2026-08-15\
-*Preserve the event, the source, the evidentiary layer, the confidence,
-the limit, the rival explanation, and what would change the assessment.*
-
-------------------------------------------------------------------------
+---
 
 ## 🛰️ Orientation
 
@@ -71,15 +69,13 @@ recognise the pattern
 manufacture the customer
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 🚦 Use The Traffic Lights On The Proposition
 
-Reporting should use the traffic-light system defined in [🔎 Confidence
-Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md).
+Reporting should use the traffic-light system defined in [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md).
 
-The colour belongs to the **specific proposition**, not to the whole
-incident.
+The colour belongs to the **specific proposition**, not to the whole incident.
 
 ### 🟢 Established / Confirmed
 
@@ -127,7 +123,7 @@ That is not inconsistent.
 It is more informative than giving the entire story one confidence
 label.
 
-------------------------------------------------------------------------
+---
 
 ## 📣 Actor-Claimed Is Not A Confidence Level
 
@@ -174,7 +170,7 @@ with the event.
 
 It is not automatically evidence that they caused it.
 
-------------------------------------------------------------------------
+---
 
 ## 📣 Worked Example — A Known Affiliated Actor Claims A New Operation
 
@@ -265,13 +261,11 @@ NOT IDENTIFIED
 
 Sources:
 
--   [KSTP: APT IRAN and CyberAv3ngers claim the Minnesota
-    attacks](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)
--   [CISA and partners: prior attribution of IRGC-affiliated PLC
-    activity](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)
+-   [KSTP: APT IRAN and CyberAv3ngers claim the Minnesota attacks](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)
+-   [CISA and partners: prior attribution of IRGC-affiliated PLC activity](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)
 -   [McCrary Institute Threat Beat briefing](https://www.linkedin.com/pulse/cyber-briefing-81226-au-mccrary-institute-7cfre)
 
-------------------------------------------------------------------------
+---
 
 ## 🧱 Start With The Event
 
@@ -307,7 +301,7 @@ may not survive the next update.
 The most durable sentence is usually the one closest to the observable
 event.
 
-------------------------------------------------------------------------
+---
 
 ## 🧱 Separate Event From Effect
 
@@ -338,14 +332,13 @@ system compromise.
 
 Write only the effect the evidence supports.
 
-------------------------------------------------------------------------
+---
 
 ## 🪜 Report How Far Into The Machinery The Evidence Reaches
 
 Operational-technology reporting should distinguish access depth.
 
-Use the ladder from [🚰 When Cyber Reaches The
-Machinery](./🚰_when_cyber_reaches_the_machinery.md):
+Use the ladder from [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md):
 
 ``` text
 LEVEL 0 — EXTERNAL RECONNAISSANCE
@@ -390,7 +383,7 @@ loss of control
 attacker control
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 🧯 Manual Fallback Is Not No Effect
 
@@ -410,8 +403,7 @@ not:
 NO DISRUPTION
 ```
 
-Manual fallback can demonstrate resilience and operational impact at the
-same time.
+Manual fallback can demonstrate resilience and operational impact at the same time.
 
 Report:
 
@@ -421,9 +413,9 @@ Report:
 -   whether service changed;
 -   and what additional risk or workload was created.
 
-Resilience and harm can coexist.
+Resilience and harm can coexist.  
 
-------------------------------------------------------------------------
+---
 
 ## 🗣️ A Claim Is Not A Finding
 
@@ -467,7 +459,7 @@ clearly preserves who is making the assessment.
 A claim becomes a finding only when the evidence supports that
 transition.
 
-------------------------------------------------------------------------
+---
 
 ## 🔗 Preserve The Source Chain
 
@@ -503,7 +495,7 @@ It is:
 
 Circulation is not verification.
 
-------------------------------------------------------------------------
+---
 
 ## 🧬 Preserve Source Provenance
 
@@ -534,7 +526,7 @@ to one source.
 Source provenance prevents repetition from masquerading as
 corroboration.
 
-------------------------------------------------------------------------
+---
 
 ## 🧪 Source Type Is Not Source Quality
 
@@ -562,7 +554,7 @@ Two government statements may answer completely different questions.
 
 Do not treat the source hierarchy as an automatic truth hierarchy.
 
-------------------------------------------------------------------------
+---
 
 ## 🧪 Match The Source To The Claim
 
@@ -601,9 +593,9 @@ It is not authoritative merely by assertion about:
 
 > We caused the effect we are describing.
 
-Use each source only for the proposition it can reasonably support.
+Use each source only for the proposition it can reasonably support.  
 
-------------------------------------------------------------------------
+---
 
 ## ⚖️ Credible Sources Can Disagree
 
@@ -636,7 +628,7 @@ Possible reasons may include:
 
 If the conflict remains unresolved, write that it remains unresolved.
 
-------------------------------------------------------------------------
+---
 
 ## ⚪ Unknown Is Not One Thing
 
@@ -670,7 +662,7 @@ Do not turn all five into:
 
 They describe different evidentiary situations.
 
-------------------------------------------------------------------------
+---
 
 ## 🕳️ Absence Of Evidence Is Not A Finding Of Absence
 
@@ -693,7 +685,7 @@ Both exceed the evidence.
 
 Use the narrowest proposition the record supports.
 
-------------------------------------------------------------------------
+---
 
 ## ⚖️ The Headline Must Not Outrun The Source
 
@@ -734,7 +726,7 @@ Better, where pattern is stronger than sponsorship:
 
 The less dramatic headline may be more durable.
 
-------------------------------------------------------------------------
+---
 
 ## 🕸️ Distinguish Attribution From Relevance
 
@@ -762,9 +754,9 @@ For example:
 
 That is an explanation of inclusion.
 
-It is not an accusation.
+It is not an accusation.  
 
-------------------------------------------------------------------------
+---
 
 ## 🗺️ Country Relevance Is Not Attribution
 
@@ -797,7 +789,7 @@ IRANIAN ATTRIBUTION:
 
 Do not let one perform the work of the other.
 
-------------------------------------------------------------------------
+---
 
 ## 🎯 Target Selection Is Not Attribution
 
@@ -809,9 +801,9 @@ But many actors can share the same target interest.
 
 Target selection can strengthen interpretation.
 
-It cannot identify the operator by itself.
+It cannot identify the operator by itself.  
 
-------------------------------------------------------------------------
+---
 
 ## ⚠️ Timing Is Not Attribution
 
@@ -837,7 +829,7 @@ Chronology is evidence of chronology.
 
 Do not make it do more work than that.
 
-------------------------------------------------------------------------
+---
 
 ## 🎭 Branding Is Not Identity
 
@@ -866,7 +858,7 @@ Report the branding.
 
 Do not let the branding perform the attribution.
 
-------------------------------------------------------------------------
+---
 
 ## 🎭 A Familiar Alias May Not Mean Familiar Operators
 
@@ -885,7 +877,7 @@ TOOLING CONTINUITY:
 A historic attribution attached to an alias should not silently migrate
 to every later person using that name.
 
-------------------------------------------------------------------------
+---
 
 ## 🕸️ "Iran-Linked" Needs A Link
 
@@ -909,7 +901,7 @@ Those are not equivalent.
 
 Write the relationship rather than relying on the adjective.
 
-------------------------------------------------------------------------
+---
 
 ## 🎭 Proxy Is Not A Synonym For Aligned
 
@@ -934,7 +926,7 @@ That may include:
 
 Those relationships carry different implications.
 
-------------------------------------------------------------------------
+---
 
 ## 🕸️ State Relationship Terms Need Precision
 
@@ -977,7 +969,7 @@ STATE BENEFIT
 STATE CONTROL
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 🧅 The Operator And Customer May Differ
 
@@ -1018,7 +1010,7 @@ For example:
 
 That preserves the open question without inventing an answer.
 
-------------------------------------------------------------------------
+---
 
 ## 🧅 Criminal Does Not Finish The Attribution
 
@@ -1058,7 +1050,7 @@ Do not infer any of those relationships without evidence.
 But do not declare the customer question closed merely because the hands
 on the keyboard were criminal.
 
-------------------------------------------------------------------------
+---
 
 ## 🪜 The Customer May Enter Later
 
@@ -1083,7 +1075,7 @@ Report the chronology of the relationship where it is known.
 
 Do not flatten a layered ecosystem into one actor.
 
-------------------------------------------------------------------------
+---
 
 ## 🧪 Capability Is Not Use
 
@@ -1109,7 +1101,7 @@ Do not write:
 
 unless the rest of the attribution supports that conclusion.
 
-------------------------------------------------------------------------
+---
 
 ## 🪞 Similarity Is Not A Common Operator
 
@@ -1150,7 +1142,7 @@ copycat activity
 
 A reporter should ask which explanation the evidence actually supports.
 
-------------------------------------------------------------------------
+---
 
 ## 🌐 Report Shared Dependencies
 
@@ -1174,7 +1166,7 @@ unrelated victims.
 
 Both possibilities deserve examination.
 
-------------------------------------------------------------------------
+---
 
 ## 🎨 Pattern Is Not Sponsor
 
@@ -1202,7 +1194,7 @@ Pattern recognition should narrow the question.
 
 It should not manufacture the answer.
 
-------------------------------------------------------------------------
+---
 
 ## 🧪 Separate Evidence From Inference
 
@@ -1226,7 +1218,7 @@ Analysis is allowed.
 
 Disguised inference is not.
 
-------------------------------------------------------------------------
+---
 
 ## 🧯 Rival Explanations Should Be Real
 
@@ -1247,7 +1239,7 @@ That may include:
 -   technical failure;
 -   or unrelated incidents.
 
-------------------------------------------------------------------------
+---
 
 ## ➖ Negative Findings Matter
 
@@ -1265,7 +1257,7 @@ Examples include:
 
 Negative findings help define the incident.
 
-------------------------------------------------------------------------
+---
 
 ## 📉 Severity Is Not Confidence
 
@@ -1282,7 +1274,7 @@ A serious consequence does not make the attribution stronger.
 
 A strong attribution does not make the incident more damaging.
 
-------------------------------------------------------------------------
+---
 
 ## 🧍 Report The Human Continuation
 
@@ -1309,7 +1301,7 @@ The institution may be outside the technical incident.
 
 The affected person may still be inside it.
 
-------------------------------------------------------------------------
+---
 
 ## 🪪 Report Integrity Separately From Theft
 
@@ -1326,7 +1318,7 @@ AUTHORITATIVE RECORD STATUS:
 A system that remains online while its records can no longer be trusted
 may have suffered a serious operational effect.
 
-------------------------------------------------------------------------
+---
 
 ## 🤐 Report Silence Precisely
 
@@ -1336,9 +1328,9 @@ NCND is not exoneration.
 
 It is also not evidence that the concealed answer is yes.
 
-Record exactly what was said and what remains unanswered.
+Record exactly what was said and what remains unanswered.  
 
-------------------------------------------------------------------------
+---
 
 ## 🔐 Government Attribution Is A Fact About Government Position
 
@@ -1354,9 +1346,9 @@ and:
 IRAN DIRECTED THE INCIDENT
 ```
 
-Report them separately.
+Report them separately.  
 
-------------------------------------------------------------------------
+---
 
 ## 🔐 Public And Private Attribution Can Diverge
 
@@ -1377,7 +1369,7 @@ No public attribution does not prove that no internal assessment exists.
 Possible internal assessment does not prove that the hidden assessment
 is correct.
 
-------------------------------------------------------------------------
+---
 
 ## 🛡️ Protection Does Not Require Public Attribution
 
@@ -1388,7 +1380,7 @@ It does not necessarily reveal the source of that risk.
 Do not reverse-engineer a hidden attribution from protective action
 alone.
 
-------------------------------------------------------------------------
+---
 
 ## 👾 Legal Language Needs Another Evidentiary Brake
 
@@ -1408,10 +1400,9 @@ WAR CRIME
 INDIVIDUAL CRIMINAL RESPONSIBILITY
 ```
 
-Route substantive analysis to [👾 Cyber War
-Crimes](./👾_cyber_war_crimes.md).
+Route substantive analysis to [👾 Cyber War Crimes](./👾_cyber_war_crimes.md).
 
-------------------------------------------------------------------------
+---
 
 ## ⚖️ Public Legal Claims May Depend On Public Attribution
 
@@ -1427,7 +1418,7 @@ PUBLIC ATTRIBUTION
 LEGAL FINDING
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 🧵 Ask Who Owns The Response
 
@@ -1438,7 +1429,7 @@ The useful question is:
 Do not allow every institution to disappear behind another institution's
 remit.
 
-------------------------------------------------------------------------
+---
 
 ## 🧾 Suggested Incident Format
 
@@ -1497,7 +1488,7 @@ REVIEW TRIGGER:
 CORRECTION STATUS:
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 🔄 Corrections Are Part Of The Method
 
@@ -1511,9 +1502,9 @@ A responsible record should show:
     excluded.
 
 Correction demonstrates that the method can distinguish evidence from
-attachment to a theory.
+attachment to a theory.  
 
-------------------------------------------------------------------------
+---
 
 ## 🧭 Corrections Must Propagate
 
@@ -1532,7 +1523,7 @@ That may include:
 -   legal-routing status;
 -   and any reporting language based on the earlier finding.
 
-------------------------------------------------------------------------
+---
 
 ## 📰 Language Has To Preserve Evidentiary Distance
 
@@ -1567,7 +1558,7 @@ The available evidence independently establishes the proposition.
 Use sparingly and only where the relevant evidentiary standard genuinely
 supports it.
 
-------------------------------------------------------------------------
+---
 
 ## 🏛️ Report The Attribution Source Type
 
@@ -1617,7 +1608,7 @@ And neither is the same as:
 
 All three can coexist in the same public record.
 
-------------------------------------------------------------------------
+---
 
 ## 🧭 Political Statements Must Keep Their Own Label
 
@@ -1654,7 +1645,7 @@ For the US water cases, a durable formulation is:
 That sentence preserves the institutional conflict without pretending to
 know why it exists.
 
-------------------------------------------------------------------------
+---
 
 ## 🗣️ Worked Example — A Reported Joke Is Not A Presidential Retraction
 
@@ -1716,17 +1707,14 @@ not withdrawn by the reported joke explanation
 
 Sources:
 
--   [The Guardian: original Hormuz territorial statement and uncertain
-    policy status](https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory)
--   [Anadolu Agency: Wall Street Journal reporter cites unnamed senior
-    White House official describing the remark as a joke](https://www.aa.com.tr/en/americas/trump-was-joking-about-declaring-strait-of-hormuz-us-territory-us-media/4027928)
--   [Middle East Monitor republication of the Anadolu
-    report](https://www.middleeastmonitor.com/20260815-trump-was-joking-about-declaring-strait-of-hormuz-us-territory-us-media/)
+-   [The Guardian: original Hormuz territorial statement and uncertain policy status](https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory)
+-   [Anadolu Agency: Wall Street Journal reporter cites unnamed senior White House official describing the remark as a joke](https://www.aa.com.tr/en/americas/trump-was-joking-about-declaring-strait-of-hormuz-us-territory-us-media/4027928)
+-   [Middle East Monitor republication of the Anadolu report](https://www.middleeastmonitor.com/20260815-trump-was-joking-about-declaring-strait-of-hormuz-us-territory-us-media/)
 
 The last two links are not independent corroboration of two White House
 officials. They preserve one underlying anonymous-official route.
 
-------------------------------------------------------------------------
+---
 
 ## 🏛️ No Formal Attribution Does Not Mean No Government Assessment
 
@@ -1764,7 +1752,7 @@ The absence of a press release should not erase the reported assessment.
 The reported assessment should not be promoted into a formal
 attribution.
 
-------------------------------------------------------------------------
+---
 
 ## 🌊 Report Campaign Layers Separately
 
@@ -1904,7 +1892,7 @@ Avoid:
 -   failing to preserve source disagreement;
 -   and ending the story when the institution restores service.
 
-------------------------------------------------------------------------
+---
 
 ## 🧭 Working Rule
 
@@ -1971,12 +1959,14 @@ A good report should leave the reader knowing:
 
 That is how to report without overclaiming.
 
-------------------------------------------------------------------------
+---
 
 ## 🌌 Constellations
 
 📰 🚦 🔗 🕸️ 🔄 --- reporting discipline; confidence; source chains;
-layered attribution; correction.
+layered attribution; correction.  
+
+---
 
 ## ✨ Stardust
 
@@ -1984,51 +1974,26 @@ cyber reporting, source provenance, traffic lights, attribution, actor
 claims, pattern recognition, newsroom method, corrections, evidentiary
 limits
 
-------------------------------------------------------------------------
+---
 
 ## 🏮 Footer
 
-*📰 How To Report Without Overclaiming* is a living node of the
-**Polaris Protocol**.\
-It provides a newsroom and research method for reporting
-essential-infrastructure cyber incidents without allowing headlines,
-repetition, actor branding, incomplete attribution, criminal
-intermediaries, or wartime urgency to outrun the evidence.
+*📰 How To Report Without Overclaiming* is a living node of the **Polaris Protocol**.  
+It provides a newsroom and research method for reporting essential-infrastructure cyber incidents without allowing headlines, repetition, actor branding, incomplete attribution, criminal intermediaries, or wartime urgency to outrun the evidence.  
 
 > 📡 Cross-references:
 >
-> -   [🇮🇷 Data Wars: IRGC Edition](./README.md) --- *root orientation,
->     analytical perimeter, and pack routing*
-> -   [🔎 Confidence Labels And Source
->     Rules](./🔎_confidence_labels_and_source_rules.md) --- *traffic
->     lights, source quality, confidence, provenance, and evidentiary
->     limits*
-> -   [🕸️ Attribution Is Not A Light
->     Switch](./🕸️_attribution_is_not_a_light_switch.md) --- *technical
->     attribution, state attribution, and unresolved sponsorship*
-> -   [🧅 The Operator May Not Know The
->     Customer](./🧅_the_operator_may_not_know_the_customer.md) ---
->     *operators, brokers, customers, and layered tasking*
-> -   [📉 Small Disruptions Can Make A
->     Campaign](./📉_small_disruptions_can_make_a_campaign.md) ---
->     *pattern recognition and cumulative operational effect*
-> -   [🚰 When Cyber Reaches The
->     Machinery](./🚰_when_cyber_reaches_the_machinery.md) --- *OT
->     depth, manual fallback, and physical-process reporting*
-> -   [🏥 Health, Education And Admin Are Not Soft
->     Extras](./🏥_health_education_and_admin_are_not_soft_extras.md)
->     --- *civilian systems, record integrity, and person-centred
->     recovery*
-> -   [🇬🇧 Britain Is Advertising An Exploitable
->     Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) ---
->     *fragmented response, institutional ownership, and protection
->     pathways*
-> -   [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) --- *separate
->     legal analysis for wartime cyber operations*
-> -   [⏱️ Timeline Of Essential Infrastructure
->     Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) ---
->     *live chronology, confidence movement, and campaign status*
+> -   [🇮🇷 Data Wars: IRGC Edition](./README.md) --- *root orientation, analytical perimeter, and pack routing*
+> -   [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) --- *traffic lights, source quality, confidence, provenance, and evidentiary limits*
+> -   [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) --- *technical attribution, state attribution, and unresolved sponsorship*
+> -   [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) --- *operators, brokers, customers, and layered tasking*
+> -   [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) --- *pattern recognition and cumulative operational effect*
+> -   [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) --- *OT depth, manual fallback, and physical-process reporting*
+> -   [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) --- *civilian systems, record integrity, and person-centred recovery*
+> -   [🇬🇧 Britain Is Advertising An Exploitable Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) --- *fragmented response, institutional ownership, and protection pathways*
+> -   [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) --- *separate legal analysis for wartime cyber operations*
+> -   [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) --- *live chronology, confidence movement, and campaign status*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-15*
+_Last updated: 2026-08-16_
