@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-15 22:07:13 UTC_
+_Generated on 2026-08-15 22:09:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -16,8 +16,6 @@ _Generated on 2026-08-15 22:07:13 UTC_
   - [`workspace.json`](.obsidian/workspace.json)
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
-    - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
-      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**💔_Violence_IRL/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/README.md)
@@ -6524,6 +6522,8 @@ _Generated on 2026-08-15 22:07:13 UTC_
     - [**🗄️_Room_101/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/)
       - [**Disruption_Kit/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/)
         - [**Big_Picture_Protocols/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/)
+          - [**🌀_System_Governance/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
+            - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
           - [**🪄_Expression_Of_Norms/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
             - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
           - [**🫀_Our_Hearts_Our_Minds/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
