@@ -1,5 +1,5 @@
 # 🧪 Shadow Sandboxes  
-**First created:** 2025-09-14 | **Last updated:** 2026-02-20  
+**First created:** 2025-09-14 | **Last updated:** 2026-08-15  
 *Unaccountable experimental environments for governance tech trials.*  
 
 ---
@@ -172,4 +172,4 @@ It documents how unaccountable experimental environments allow states to trial g
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-20_  
+_Last updated: 2026-08-15_  
