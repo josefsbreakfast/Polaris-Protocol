@@ -1,6 +1,6 @@
-# 🐴 The Legality Of Gift Horses  
-**First created:** 2026-05-28 | **Last updated:** 2026-08-13  
-*How convenience-framed digital reform can carry infrastructure-level constitutional consequences.*  
+# 🐴 The Legality Of Gift Horses
+**First created:** 2026-05-28 | **Last updated:** 2026-08-15  
+*How convenience-framed digital reform can carry infrastructure-level constitutional consequences.*
 
 ---
 
@@ -10,7 +10,9 @@ This node examines the “gift horse” problem in AI-enabled digital government
 
 The public-facing offer is simple: easier services, less paperwork, faster access, better fraud prevention, modern public administration.
 
-The legal and constitutional question is less simple: what, exactly, is being accepted when the public is asked to consent to a digital identity layer, AI-enabled public services, enterprise procurement, data-linkage architecture, and public-private technical partnerships under one convenience frame?  
+The legal and constitutional question is less simple: what, exactly, is being accepted when the public is asked to consent to a digital identity layer, AI-enabled public services, enterprise procurement, data-linkage architecture, and public-private technical partnerships under one convenience frame?
+
+The ownership question sits underneath the convenience question. Who builds, owns, maintains, modifies, audits, and ultimately controls infrastructure matters when that infrastructure begins to mediate access between a person and the state.
 
 ---
 
@@ -27,6 +29,8 @@ But a public-sector gift horse becomes legally significant when:
 - the burden of error falls on citizens rather than institutions;
 - consent is inferred from general political support rather than specific public authorisation.
 
+The problem is therefore not merely whether a particular technology is lawful in isolation. It is whether multiple individually describable systems can accumulate into an infrastructure of control whose combined function was never clearly described, authorised, or scrutinised as such.
+
 ---
 
 ## ⚖️ The Constitutional Issue
@@ -37,11 +41,13 @@ The issue is whether a government may treat broad electoral consent for modernis
 
 In a system with an uncodified constitution, that question becomes sharper, not softer. If constitutional safeguards are distributed across statute, convention, common law, parliamentary scrutiny, procurement rules, data protection law, and administrative remedies, then clarity of description matters enormously.
 
-A vague object cannot receive meaningful consent.  
+A vague object cannot receive meaningful consent.
+
+Nor does describing infrastructure as convenient settle the question of who controls it. A service can be easy to use while simultaneously creating dependencies, concentrating administrative power, or moving consequential public functions into technical systems whose ownership and accountability arrangements are difficult for the public to see.
 
 ---
 
-## 🧩 The Category Collapse
+## 🕸️ The Category Collapse
 
 “Digital ID” may mean:
 
@@ -66,7 +72,50 @@ Likewise, “AI in public services” may mean:
 - public-facing chatbots;
 - or strategic partnerships with large AI firms.
 
-Those are also not the same thing.  
+Those are also not the same thing.
+
+Category collapse matters because different systems create different relationships between ownership, control, access, dependency, accountability, and legal consequence.
+
+A productivity tool used to summarise an internal document is not constitutionally equivalent to an identity system controlling access to a public service. A commercial model procured for administrative assistance is not organisationally equivalent to a sovereign system built and controlled by the state. A credential is not automatically a data-linkage architecture.
+
+Calling all of them “digital transformation” does not make those differences disappear.
+
+---
+
+## 👑 Ownership Is Part Of The Legal Architecture
+
+Ownership does not answer the legality question by itself.
+
+It does, however, change the structure of the question.
+
+For consequential public infrastructure, scrutiny needs to distinguish between:
+
+- legal ownership;
+- technical control;
+- operational control;
+- data control;
+- model or software ownership;
+- maintenance responsibility;
+- procurement dependency;
+- intellectual-property restrictions;
+- audit access;
+- modification rights;
+- termination rights;
+- and practical ability to replace a supplier.
+
+A system can formally belong to the state while remaining operationally dependent on a private supplier.
+
+A privately supplied component can perform a limited and appropriately governed function without transferring meaningful sovereign control.
+
+The relevant question is therefore not simply:
+
+**Who owns it?**
+
+It is:
+
+**What forms of control travel with that ownership, contract, dependency, or technical position?**
+
+That distinction matters most when the system controls or influences identity, eligibility, access, routing, enforcement, or the ability of a person to challenge the state.
 
 ---
 
@@ -81,7 +130,13 @@ The legality of the gift horse depends partly on whether the public, Parliament,
 - which gates the horse opens;
 - what data the horse carries;
 - what decisions the horse influences;
+- who can alter the horse after deployment;
+- what dependencies prevent the horse from being replaced;
 - and who is liable when the horse kicks someone.
+
+This is why procurement cannot be treated as merely administrative plumbing.
+
+Where procurement choices determine who can operate, inspect, modify, audit, or replace consequential public infrastructure, procurement becomes part of the control architecture.
 
 ---
 
@@ -120,27 +175,41 @@ The useful questions are more specific:
 
 9. What procurement routes were used?
 
-10. What data can each supplier access, process, store, or infer?
+10. Who owns the relevant software, models, infrastructure, and intellectual property?
 
-11. Are any models trained, fine-tuned, evaluated, or improved using public-sector data?
+11. What does government own outright, and what does it merely license or purchase as a service?
 
-12. Where is the data hosted?
+12. What data can each supplier access, process, store, or infer?
 
-13. Who audits the system?
+13. Are any models trained, fine-tuned, evaluated, or improved using public-sector data?
 
-14. Who is legally liable when the system gets something wrong?
+14. Where is the data hosted?
 
-15. Can a person find out whether AI affected their case?
+15. Who maintains the system?
 
-16. Is there a human appeal route with real power to override the system?
+16. Who can modify it?
 
-17. Will public bodies be required to publish registers of AI systems in use?
+17. Who audits the system?
 
-18. What parts of this programme were explicitly put before the public at election time?
+18. Does an independent auditor have sufficient technical and contractual access to inspect it properly?
 
-19. What parts are being introduced through procurement, guidance, pilots, departmental policy, or secondary legislation?
+19. Who is legally liable when the system gets something wrong?
 
-20. What would count as a red line?
+20. Can a person find out whether AI affected their case?
+
+21. Is there a human appeal route with real power to override the system?
+
+22. Will public bodies be required to publish registers of AI systems in use?
+
+23. What happens if government needs to replace the supplier?
+
+24. Can public services continue to operate during that transition?
+
+25. What parts of this programme were explicitly put before the public at election time?
+
+26. What parts are being introduced through procurement, guidance, pilots, departmental policy, or secondary legislation?
+
+27. What would count as a red line?
 
 ---
 
@@ -168,7 +237,15 @@ Policymakers should be required to say:
 - what affects enforcement;
 - what is subject to human override;
 - what is subject to independent audit;
+- what is publicly owned;
+- what is commercially supplied;
+- what the state must remain capable of operating independently;
+- what happens if a supplier fails, withdraws, changes terms, or becomes unsuitable;
 - and what is prohibited.
+
+The point is not that public infrastructure must never involve private suppliers.
+
+The point is that the distribution of ownership and control should be visible enough to govern.
 
 ---
 
@@ -188,35 +265,60 @@ They are:
 - Can I see what data was used?
 - Can I correct mistakes?
 - Can private companies see or process my information?
+- Who actually controls the system?
+- What happens if the company providing it changes?
+- Can the government replace that company without disrupting my access to public services?
 - Can the system be expanded later without asking the public again?
 
 If these questions cannot be answered clearly, then the programme is not ready for public consent.
 
 ---
 
+## 🧿 What The Gift-Horse Test Is Actually Testing
+
+The gift-horse test is not a demand to reject digital government.
+
+It is a demand to inspect the object being offered.
+
+The relevant sequence is:
+
+**description → ownership → control → dependency → function → consequence → accountability**
+
+If the description is too vague to identify the infrastructure, the remaining questions become difficult to ask.
+
+If ownership is visible but practical control is not, formal ownership can mislead.
+
+If individual components are scrutinised but their convergence is not, the constitutional significance of the resulting system can disappear between categories.
+
+And if a person cannot meaningfully refuse, correct, challenge, or route around an erroneous system, then “convenience” has ceased to describe the whole relationship.
+
+That is when looking the gift horse in the mouth becomes basic governance hygiene.
+
+---
+
 ## 🌌 Constellations
 
-🐴 ⚖️ 🧩 🛠️ 🧿 — digital identity; public consent; constitutional plumbing; procurement opacity; administrative risk.
+⚖️ 🛠️ 🧿 🕸️ 👁️‍🗨️ — constitutional scrutiny; ownership and control; public infrastructure; dependency; administrative visibility.
 
 ---
 
 ## ✨ Stardust
 
-digital identity, digital id, public consent, ai governance, constitutional law, procurement, state modernisation, administrative justice, public services
+digital government, digital identity, public consent, ai governance, ownership and control, constitutional law, procurement dependency, administrative justice, public infrastructure, service access
 
 ---
 
 ## 🏮 Footer
 
 *🐴 The Legality Of Gift Horses* is a living node of the **Polaris Protocol**.  
-It examines how convenience-framed public-sector technology can carry hidden constitutional, procurement, and administrative consequences. The node sits at the boundary between digital government, AI governance, identity infrastructure, and democratic consent.
+It examines how convenience-framed public-sector technology can carry constitutional, procurement, administrative, and ownership consequences. Within **👑 Ownership Control**, the node asks who builds, owns, maintains, modifies, audits, and bears responsibility for infrastructure that increasingly mediates access between citizens and the state.
 
 > 📡 Cross-references:
 >
-> - [🌀 System Governance](../) — *state architecture, public administration, and governance legitimacy*
-> - [⚖️ Legal State Governance](../⚖️_Legal_State_Governance/) — *constitutional, administrative, and legal scrutiny layer*
-> - [📚 Narrative Management](../📚_Narrative_Management/) — *public framing, consent language, and institutional storycraft*
+> - [👑 Ownership Control](./) — *ownership, control, accountability, and dependency across consequential infrastructure*
+> - [♻️ Cybernetics](../) — *feedback, control, system behaviour, and governing infrastructures*
+> - [🪿 Embodied Information Ecology](../../) — *the wider ecology through which information systems become material conditions of access, agency, and institutional power*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-13_
+_Last updated: 2026-08-15_
