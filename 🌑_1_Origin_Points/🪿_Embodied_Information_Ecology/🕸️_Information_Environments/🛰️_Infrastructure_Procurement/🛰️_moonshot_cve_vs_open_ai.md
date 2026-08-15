@@ -1,4 +1,5 @@
-# 🛰️ Moonshot CVE vs OpenAI — Prevention vs Platform  
+# 🛰️ Moonshot CVE vs OpenAI — Prevention vs 
+Platform  
 **First created:** 2025-11-06 | **Last updated:** 2026-01-28  
 *Actor-map of harm-prevention logic and platform-growth logic in the algorithmic governance ecosystem.*  
 
