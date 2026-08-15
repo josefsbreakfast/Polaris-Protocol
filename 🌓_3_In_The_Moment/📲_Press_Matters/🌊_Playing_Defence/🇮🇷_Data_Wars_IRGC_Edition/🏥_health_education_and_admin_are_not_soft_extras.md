@@ -1,5 +1,5 @@
 # 🏥 Health, Education And Admin Are Not Soft Extras  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-15  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-16  
 *Civilian systems are not peripheral to the state. They are how the state recognises people, allocates rights, preserves continuity, and keeps ordinary life from collapsing.*  
 
 ---
@@ -1399,6 +1399,8 @@ That is the real measure of the incident.
 
 🏥 🎓 🏢 ⚖️ 🧍 🪪 🧾 — health; education; administration; justice; person-centred risk; identity; authoritative records.
 
+---
+
 ## ✨ Stardust  
 
 health infrastructure, education systems, public administration, safeguarding data, justice systems, personal data, civilian infrastructure, state capacity, record integrity, identity infrastructure, authoritative records, communications provenance, coercive messaging, person-centred recovery, data dependencies, international humanitarian law
@@ -1426,4 +1428,4 @@ It explains why civilian systems, authoritative public records, identity infrast
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-15_
+_Last updated: 2026-08-16_
