@@ -1,5 +1,5 @@
 # 🚀 Modernising Information Defence  
-**First created:** 2025-12-06 | **Last updated:** 2026-07-09  
+**First created:** 2025-12-06 | **Last updated:** 2026-08-15  
 *Why national security doctrine must replace PR logic in hostile information environments.*  
 
 ---
@@ -242,4 +242,4 @@ It documents the doctrinal shift required for democratic states to defend their 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-07-09_
+_Last updated: 2026-08-15_
