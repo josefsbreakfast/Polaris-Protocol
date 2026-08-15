@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-15 20:40:56 UTC_
+_Generated on 2026-08-15 20:42:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -20,7 +20,6 @@ _Generated on 2026-08-15 20:40:56 UTC_
       - [**🛰️_Infrastructure_Procurement/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/notes.txt)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
-        - [`🛰️_surveillance_infrastructure.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_surveillance_infrastructure.md)
         - [`🛰️_vendor_lock_in.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🛰️_vendor_lock_in.md)
         - [`🦋_butterfly_effect_in_small_states.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🦋_butterfly_effect_in_small_states.md)
         - [`🦎_how_to_not_enslave_digitally.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/🦎_how_to_not_enslave_digitally.md)
@@ -4143,6 +4142,7 @@ _Generated on 2026-08-15 20:40:56 UTC_
         - [`🛰️_moonshot_cve_vs_open_ai.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🛰️_moonshot_cve_vs_open_ai.md)
         - [`🛰️_post_9_11_surveillance_industry_legacy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🛰️_post_9_11_surveillance_industry_legacy.md)
         - [`🛰️_situational_awareness.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🛰️_situational_awareness.md)
+        - [`🛰️_surveillance_infrastructure.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🛰️_surveillance_infrastructure.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
     - [**🕸️🧿_The_Observed_Information_Space/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/)
