@@ -1,5 +1,5 @@
 # 🧪 A Theoretical Experiment That Cannot Succeed  
-**First created:** 2025-12-19 | **Last updated:** 2026-02-20  
+**First created:** 2025-12-19 | **Last updated:** 2026-08-15  
 *Why language-proxy sentiment analysis collapses under wartime governance logics.*
 
 <!--
@@ -522,4 +522,4 @@ It documents methodological failure under asymmetrical risk and wartime governan
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-08-15_
