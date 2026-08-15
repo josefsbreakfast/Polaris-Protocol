@@ -1,5 +1,5 @@
 # 🌀 Recursive Risk Logic in Private Intelligence  
-**First created:** 2025-11-03 | **Last updated:** 2026-01-29  
+**First created:** 2025-11-03 | **Last updated:** 2026-08-15  
 *How data breaches, talent drift, and market incentives regenerate the very risks the intelligence industry claims to control.*
 
 ---
@@ -99,4 +99,4 @@ It traces how the private-intelligence economy perpetuates its own necessity thr
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-29_
+_Last updated: 2026-08-15_
