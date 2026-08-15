@@ -946,7 +946,9 @@ Preserve the evidence.
 
 ## 🌌 Constellations  
 
-👾 ⚖️ 🚰 🏥 🕸️ 🧅 🧍 — cyber conflict; international humanitarian law; water; medical systems; attribution; layered tasking; individual responsibility.
+👾 ⚖️ 🚰 🏥 🕸️ 🧅 🧍 — cyber conflict; international humanitarian law; water; medical systems; attribution; layered tasking; individual responsibility.  
+
+---
 
 ## ✨ Stardust  
 
