@@ -1,3 +1,5 @@
+
+
 # 🔮 Palantir as Infrastructure  
 **First created:** 2025-12-26 | **Last updated:** 2026-01-28  
 *Why Palantir is not “just software”, and why that distinction matters.*  
