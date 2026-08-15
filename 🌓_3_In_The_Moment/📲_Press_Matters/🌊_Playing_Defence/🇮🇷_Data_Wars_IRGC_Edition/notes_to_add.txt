@@ -264,3 +264,121 @@ Extremely geopolitical. Extremely “PLEASE PERCEIVE ME.”
 we could just stop the genocides. 
 
 - https://apnews.com/article/fact-check-trump-minnesota-prescriptions-immigration-7adb2340586cabc2162c39d6f4bc9d92
+
+---
+
+There is **one credible new cross-sector development worth logging**, but it should sit outside the Iran-attributed line for now.
+
+A **Cl0p mass-extortion campaign** has surfaced across nearly 50 companies, including **Shell (energy), Philips (health technology), GE (industrial/energy-adjacent) and Fiserv (financial infrastructure)**. Reuters reported the claims on **13 August 2026**; Shell acknowledged a possible incident, Philips confirmed and contained an attempted compromise of an internal server, GE activated its cyber-response process, and Fiserv said it found **no evidence that customer, banking, transaction, personal or operational data was compromised**. Reuters could not independently verify Cl0p’s claimed data volumes. ([Reuters][1])
+
+The likely access route is important. PTC has confirmed a critical remote-code-execution vulnerability, **CVE-2026-12569**, in Windchill and FlexPLM, software used for engineering/product-lifecycle management; PTC says the flaw can permit unauthorised remote code execution and requires immediate remediation. ([PTC][2]) Security reporting links Cl0p’s current campaign to exploitation of that shared software rather than bespoke targeting of individual victims. ([Reuters][1])
+
+For the infrastructure watch I would record it as follows:
+
+**🇬🇧/🇳🇱 Shell — energy.** Operational impact: **none publicly established**. Cl0p claims roughly 89 GB of material including engineering drawings, facility photographs, testing reports and project plans; Shell has confirmed only that it is investigating a potential incident. **Attribution: 🟡 probable Cl0p criminal extortion; Iran connection: ⚪ no evidence found.** ([BleepingComputer][3])
+
+**🇳🇱 Philips — healthcare technology.** Philips confirms compromise activity against a specific internal-data server but says customer environments were unaffected. **Operational healthcare impact: none established. Attribution: 🟡 probable Cl0p; Iran connection: ⚪ none evidenced.** ([Reuters][1])
+
+**🇺🇸 Fiserv — financial/payments infrastructure.** Fiserv is investigating the claim but says its review found **no compromise of banking, transaction, customer or operational data**. That means it currently fails the threshold for a banking-service disruption event, but it is useful exposure evidence. **Attribution: actor-claimed Cl0p; operational consequence: none demonstrated; Iran connection: ⚪ none.** ([Reuters][1])
+
+The pattern significance is therefore **not another infrastructure outage**. It is a demonstration of how one exploitable enterprise platform can simultaneously expose organisations in **energy, healthcare/medical technology, industrial engineering and financial services**. That matters to the post-28-February picture because it reinforces the need to distinguish:
+
+```text
+cross-sector clustering
+        ≠
+common strategic targeting
+        ≠
+common state sponsor
+```
+
+Here the best-supported explanation is a **Russian-speaking criminal data-extortion operation exploiting a scalable technical opportunity**, rather than Iranian wartime targeting. Reuters' reporting describes Cl0p as professional data extortionists that go after vulnerable software broadly rather than selecting each victim individually. ([Reuters][1])
+
+That actually sharpens the Iran analysis. The **U.S. water campaign remains unusual** because it combines repeated targeting of exposed OT with **actual changes to industrial-control settings and operational water effects**; the new Cl0p cluster demonstrates what a contemporaneous cross-sector criminal campaign looks like when the organising principle is a shared vulnerability instead. The FBI still publicly describes the water actors only as “malicious cyber actors”; its July 30 alert records incidents in at least seven states and operational degradation but does not publicly name Iran. ([FBI][4])
+
+**Trend judgment since 28 February:** infrastructure cyber activity remains unusually noisy across sectors, but the evidence is increasingly supporting **multiple overlapping threat ecosystems**, not one expanding Iranian campaign. The water/OT line remains the strongest Iran-relevant anomaly. The Cl0p line is useful precisely as a comparator: major simultaneous targets, common technique, clear criminal incentive—and, so far, **no demonstrated state-disruption effect or Iranian nexus**.
+
+[1]: https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/?utm_source=chatgpt.com "Hacking group claims mass data theft from Shell, Philips, GE, Fiserv and dozens of others"
+[2]: https://www.ptc.com/en/about/trust-center/advisory-center/active-advisories/windchill-flexplm-rce-vulnerability?srsltid=AfmBOor2Vxw1PmTWc7Hog-2kTthznUcrP8y9u3R3dU1lCMFMM2mKGVbx&utm_source=chatgpt.com "Remote Code Execution Vulnerability in PTC's Windchill ..."
+[3]: https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/?utm_source=chatgpt.com "Shell investigates 'potential incident' after Clop data theft ..."
+[4]: https://www.fbi.gov/investigate/cyber/alerts/2026/malicious-cyber-actors-targeting-water-and-wastewater-sector-internet--facing-programmable-logic-controllers-causing-operational-disruptions?utm_source=chatgpt.com "Malicious Cyber Actors Targeting Water and Wastewater ..."
+
+
+---
+
+Not **all** of them, at least not in the strong sense of “current official BDS priority targets.”
+
+The BDS National Committee’s current corporate priority guide explicitly names companies such as Chevron, Intel, Dell, Siemens, HP, Microsoft, Carrefour, AXA, Reebok, Disney+, SodaStream, RE/MAX, Google/Amazon, Booking/Airbnb/Expedia and Teva. **Shell, Philips, GE and Fiserv are not on that current priority list.** ([BDS Movement][1])
+
+That said, your instinct is still analytically interesting because BDS itself distinguishes between a narrow **priority target list** and the much larger universe of companies considered complicit or suitable for divestment/exclusion pressure. Its guide explicitly says that divestment and exclusion efforts extend beyond the named consumer targets, especially toward arms, technology and financial companies. ([BDS Movement][1]) So “BDS-relevant corporate ecosystem” is a broader category than “official BDS target.”
+
+And **GE in particular** is the one I would inspect carefully rather than dismiss. Depending on which GE entity Cl0p actually hit—GE Aerospace versus another surviving GE business—the military/aviation relationship could make it strategically interesting in an Iran/Israel war context. Shell likewise sits in the energy ecosystem, which Iran-linked actors have repeatedly shown interest in. Fiserv is financial/payment infrastructure. Philips is the weakest fit to an obvious geopolitical-targeting hypothesis unless there is a specific Israel/defence/medical-supply relationship that turns up.
+
+But there is a major evidentiary brake here: Reuters’ reporting on this Cl0p wave says the group appears to have exploited **PTC Windchill/FlexPLM at scale** and that the threat-intelligence assessment is that Cl0p generally chooses a vulnerable software product and then compromises exposed customers, rather than manually selecting each victim. ([Reuters][2]) That mechanism can produce a victim list which *looks* geopolitically curated simply because Windchill is disproportionately used by large engineering, manufacturing, aerospace and industrial companies.
+
+So I’d formulate the hypothesis more narrowly:
+
+> **The victimology is unusually compatible with Iranian strategic interests, but current evidence supports shared-software exploitation more strongly than deliberate IRGC victim selection.**
+
+Where it becomes genuinely spicy is if, among the **~50 compromised Windchill organisations**, publication/extortion choices prove selective.
+
+For example, suppose Cl0p had access to 50 firms, but disproportionately **published, pressured, stole particular categories of material from, or inflicted greater disruption on** companies tied to Israel, defence, energy or finance. Then “they merely scanned for Windchill” stops answering the interesting question. Initial access can be opportunistic while **post-compromise tasking is selective**.
+
+That is quite compatible with what we know about the broader Iranian-linked ecosystem. U.S. authorities warn that Iranian-affiliated actors frequently exploit exposed or weakly secured infrastructure opportunistically, while Iranian operations also use proxies/hacktivist personas and target sectors including energy, water and other critical infrastructure. ([CISA][3]) In other words:
+
+**opportunistic access + strategic exploitation is not a contradiction.**
+
+That is the test I’d run next: take the full Cl0p Windchill victim list and code each organisation for **Israel nexus / BDS relevance / defence / energy / finance / healthcare / state importance**, then compare the *published victims* against the underlying Windchill customer population. If the apparent political pattern survives that denominator, then we have something much more interesting than “four names felt IRGC-ish.”
+
+And yes — **Shell + GE + Fiserv together absolutely set off the “hmm, those are awfully useful things to have access to during a war” detector.** Just not yet the “therefore IRGC” detector.
+
+[1]: https://bdsmovement.net/Guide-to-BDS-Boycott "Guide to BDS Boycott & Pressure Corporate Priority Targeting | BDS Movement"
+[2]: https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/?utm_source=chatgpt.com "Hacking group claims mass data theft from Shell, Philips, GE, Fiserv and dozens of others"
+[3]: https://www.cisa.gov/topics/cyber-threats-and-advisories/advanced-persistent-threats/iran?utm_source=chatgpt.com "Iran Threat Overview and Advisories"
+
+
+---
+
+Yes. He really did say it. On **14 August 2026**, Trump said that after defeating Iran he would declare the **Strait of Hormuz “a territory of the United States”**, after already saying on 12 August that the U.S. had “total control” of the strait and “I THINK WE WILL KEEP IT!” ([The Times of Israel][1])
+
+There is reporting that the territory line may have been intended as a joke, but given the surrounding statements about control, blockade and keeping the strait, it is not exactly operating in a vacuum. ([Yeni Şafak English][2])
+
+And yes, in the context we were just discussing, it is almost absurdly useful evidence of **rhetorical corner-building**. Iran says, effectively, “Hormuz is ours and you cannot dictate terms here.” Trump responds with “actually we control it and may annex it.” Suddenly the symbolic stakes are much higher than simply reopening shipping.
+
+That makes compromise harder because the object being negotiated is no longer merely:
+
+**How do we restore safe passage?**
+
+It starts becoming:
+
+**Who has demonstrated sovereignty, who has yielded, and who gets to narrate the outcome as defeat?**
+
+Which is exactly the sort of escalation where behavioural profiling and face-saving architecture become relevant. If Iranian negotiators already believe Trump needs to emerge with an obvious, personally legible “win,” this kind of statement gives them useful information about what he wants the win to *look like*. At the same time, it gives Tehran a very easy anti-colonial propaganda line: an American president is publicly talking about taking possession of one of the world's most strategically important waterways beside Iran.
+
+So: **“glad to see he’s taking the war well”** is doing quite a lot of work here. 😭
+
+More seriously, I’d now watch whether Iranian rhetoric responds by becoming *more* territorial and absolutist, or instead carefully separates **Iranian sovereignty** from some negotiable arrangement for **international navigation/security guarantees**. The latter would look a lot like deliberately leaving Trump a large shiny exit labelled **VICTORY**, while refusing the actual sovereignty claim.
+
+* [The Guardian](https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory?utm_source=chatgpt.com)
+* [Reuters](https://www.reuters.com/world/us/trump-urges-americans-accept-higher-gas-prices-he-escalates-iran-rhetoric-2026-08-14/?utm_source=chatgpt.com)
+* [marketwatch.com](https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-poised-for-a-struggle-with-retail-sales-data-ahead/card/trump-suggests-he-ll-declare-strait-of-hormuz-as-u-s-territory-Rh1ujL3EvPW77KmsvWjh?utm_source=chatgpt.com)
+* [apnews.com](https://apnews.com/article/023413c38373d4a6ba033612a1f552c6?utm_source=chatgpt.com)
+
+[1]: https://www.timesofisrael.com/liveblog_entry/trump-says-he-will-soon-declare-strait-of-hormuz-a-us-territory/?utm_source=chatgpt.com "Trump claims he will soon declare Strait of Hormuz a US ..."
+[2]: https://en.yenisafak.com/world/trumps-hormuz-territory-claim-was-a-joke-us-media-reports-3721932?utm_source=chatgpt.com "Trump's Hormuz territory claim was a joke, US media reports"
+
+
+---
+
+Yeah. That is the ugly implication **if** the water incidents ultimately prove to be Iranian retaliation and **if** the administration knowingly accepts increased infrastructure risk while escalating over Hormuz.
+
+The important evidentiary distinction is that we cannot yet compress those two *ifs* into “Trump knowingly chose Iranian attacks on American water systems.” Public attribution still hasn't established that chain.
+
+But as a **risk-governance** criticism, your formulation bites. Once the government has credible warning that a belligerent has both the capability and incentive to interfere with poorly defended civilian infrastructure, leadership decisions have to price that risk in. You don't get to treat domestic water resilience as somebody else's boring cybersecurity problem while simultaneously escalating the confrontation that may activate the threat.
+
+And the contrast with the Hormuz rhetoric is particularly stark: **symbolic sovereignty and face-saving at the top; very unsymbolic pumps, pressure and drinking water at the bottom.**
+
+That is exactly why the water incidents matter even if nobody ever produces the satisfying Hollywood attribution slide saying `IRGC → WATER TOWER`. The governance question exists one level earlier:
+
+> *What civilian consequences were foreseeable, what mitigations were available, and how much additional risk was leadership prepared to impose in pursuit of its war aims?*
+
+That question survives whichever actor eventually gets named.
