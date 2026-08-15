@@ -2337,21 +2337,14 @@ It provides the chronological evidentiary spine for the *🇮🇷 Data Wars: IRG
 > 📡 Cross-references:
 >
 > -   [🇮🇷 Data Wars: IRGC Edition](./README.md) --- *root orientation and pack map*
-> -   [🧭 What This Pack Is Tracking](./🧭_what_this_pack_is_tracking.md) --- *scope and
->     inclusion rules*
-> -   [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) --- *graded
->     attribution*
-> -   [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) --- *source and
->     confidence method*
-> -   [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) ---
->     *pattern analysis*
-> -   [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) --- *OT
->     depth, control access, and physical-process effects*
-> -   [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) ---
->     *layered tasking and ultimate sponsorship*
+> -   [🧭 What This Pack Is Tracking](./🧭_what_this_pack_is_tracking.md) --- *scope and inclusion rules*
+> -   [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) --- *graded attribution*
+> -   [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) --- *source and confidence method*
+> -   [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) --- *pattern analysis*
+> -   [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) --- *OT depth, control access, and physical-process effects*
+> -   [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) --- *layered tasking and ultimate sponsorship*
 > -   [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) --- *civilian functions, data integrity, and person-centred recovery*
-> -   [🇬🇧 Britain Is Advertising An Exploitable Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) --- *institutional ownership, fragmented response, and protection
->     pathways*
+> -   [🇬🇧 Britain Is Advertising An Exploitable Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) --- *institutional ownership, fragmented response, and protection pathways*
 > -   [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) --- *IHL routing for cyber operations affecting civilian and specially protected infrastructure*
 > -   [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) --- *reporting discipline under evolving attribution*
 > -   [📊 Timeline CSV](./📊_iran_war_essential_infrastructure_cyber_timeline.csv) --- *structured working dataset*
