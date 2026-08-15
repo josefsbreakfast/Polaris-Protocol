@@ -1,3 +1,5 @@
+
+
 # 🛰️ Vendor Lock-In  
 **First created:** 2025-09-14 | **Last updated:** 2026-01-28  
 *Procurement inertia: once states buy a surveillance stack, governance logic bends to vendor terms.*  
