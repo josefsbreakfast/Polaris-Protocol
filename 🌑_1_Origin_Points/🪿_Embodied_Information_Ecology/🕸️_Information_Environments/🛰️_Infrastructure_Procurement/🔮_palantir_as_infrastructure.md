@@ -1,7 +1,5 @@
-
-
 # 🔮 Palantir as Infrastructure  
-**First created:** 2025-12-26 | **Last updated:** 2026-01-28  
+**First created:** 2025-12-26 | **Last updated:** 2026-08-15  
 *Why Palantir is not “just software”, and why that distinction matters.*  
 
 ---
@@ -235,4 +233,4 @@ It contributes a structural analysis of how data platforms operate as governance
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-28_
+_Last updated: 2026-08-15_
