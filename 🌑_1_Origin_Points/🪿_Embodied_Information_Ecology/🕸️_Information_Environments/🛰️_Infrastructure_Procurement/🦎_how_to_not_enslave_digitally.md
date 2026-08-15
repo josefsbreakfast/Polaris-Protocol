@@ -1,3 +1,5 @@
+
+
 # 🦎 How to Not Enslave Digitally  
 **First created:** 2026-01-20 | **Last updated:** 2026-01-28  
 *Using leopard geckos to explain what ethical systems must refuse to do.*  
