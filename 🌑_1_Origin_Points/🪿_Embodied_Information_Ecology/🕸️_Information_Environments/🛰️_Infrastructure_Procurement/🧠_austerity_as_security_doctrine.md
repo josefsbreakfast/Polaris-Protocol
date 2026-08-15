@@ -1,5 +1,5 @@
 # 🧠 Austerity as Security Doctrine  
-**First created:** 2025-11-12 | **Last updated:** 2026-01-28  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-15  
 *Privatisation drift and moral exhaustion in defence governance.*  
 
 ---
@@ -40,4 +40,4 @@ austerity, privatisation, governance drift, mod culture, accountability
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-28_
+_Last updated: 2026-08-15_
