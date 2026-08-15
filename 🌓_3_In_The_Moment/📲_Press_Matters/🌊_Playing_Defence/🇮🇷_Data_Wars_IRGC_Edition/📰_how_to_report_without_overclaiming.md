@@ -1883,16 +1883,13 @@ That is how to report without overclaiming.
 
 ## 🌌 Constellations
 
-📰 🚦 🔗 🕸️ 🔄 --- reporting discipline; confidence; source chains;
-layered attribution; correction.  
+📰 🚦 🔗 🕸️ 🔄 --- reporting discipline; confidence; source chains; layered attribution; correction.  
 
 ---
 
 ## ✨ Stardust
 
-cyber reporting, source provenance, traffic lights, attribution, actor
-claims, pattern recognition, newsroom method, corrections, evidentiary
-limits
+cyber reporting, source provenance, traffic lights, attribution, actor claims, pattern recognition, newsroom method, corrections, evidentiary limits
 
 ---
 
