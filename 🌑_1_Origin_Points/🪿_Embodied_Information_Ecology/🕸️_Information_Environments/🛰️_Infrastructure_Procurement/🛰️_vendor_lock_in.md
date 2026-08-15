@@ -1,7 +1,5 @@
-
-
 # 🛰️ Vendor Lock-In  
-**First created:** 2025-09-14 | **Last updated:** 2026-01-28  
+**First created:** 2025-09-14 | **Last updated:** 2026-08-15  
 *Procurement inertia: once states buy a surveillance stack, governance logic bends to vendor terms.*  
 
 ---
@@ -63,4 +61,4 @@ It documents how procurement inertia embeds surveillance vendors into governance
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-28_  
+_Last updated: 2026-08-15_  
