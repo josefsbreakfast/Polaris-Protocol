@@ -6,8 +6,7 @@
 
 ## 🛰️ Orientation
 
-Cyber reporting becomes unreliable when uncertainty is compressed before
-the evidence is ready.
+Cyber reporting becomes unreliable when uncertainty is compressed before the evidence is ready.
 
 The familiar failure looks like:
 
@@ -163,12 +162,11 @@ Do not turn:
 
 into:
 
-> The group carried out the attack.
+> The group carried out the attack.  
 
-A claim is evidence that somebody wants the public to associate them
-with the event.
+A claim is evidence that somebody wants the public to associate them with the event.  
 
-It is not automatically evidence that they caused it.
+It is not automatically evidence that they caused it.  
 
 ---
 
@@ -182,14 +180,11 @@ or:
 
 > Iran admitted attacking American water systems.
 
-An account using the name **APT IRAN** reportedly said the Minnesota
-operation was conducted jointly with **CyberAv3ngers** and that the two
-actors took direct responsibility.
+An account using the name **APT IRAN** reportedly said the Minnesota operation was conducted jointly with **CyberAv3ngers** and that the two actors took direct responsibility.  
 
-US government reporting had previously described CyberAv3ngers as
-affiliated with the IRGC Cyber-Electronic Command.
+US government reporting had previously described CyberAv3ngers as affiliated with the IRGC Cyber-Electronic Command.  
 
-That history makes the new claim materially relevant.
+That history makes the new claim materially relevant.  
 
 It does not prove:
 
@@ -201,24 +196,17 @@ It does not prove:
 
 ### Durable headline
 
-> Iran-linked actors claim Minnesota water attacks; US agencies do not
-> publicly validate claim
+> Iran-linked actors claim Minnesota water attacks; US agencies do not publicly validate claim.  
 
 ### Durable first paragraph
 
-> APT IRAN and CyberAv3ngers have claimed responsibility for the July
-> attacks on Minnesota water systems. US government reporting has
-> previously identified CyberAv3ngers as affiliated with the IRGC's
-> cyber apparatus, but Minnesota authorities and the FBI did not
-> publicly validate the new claim and the investigation remains open.
+> APT IRAN and CyberAv3ngers have claimed responsibility for the July attacks on Minnesota water systems.  
+> US government reporting has previously identified CyberAv3ngers as affiliated with the IRGC's cyber apparatus, but Minnesota authorities and the FBI did not publicly validate the new claim and the investigation remains open.
 
 ### Acceptable analytical follow-up
 
-> The claim strengthens the existing Iran-linked assessment because it
-> comes from an actor ecosystem with a relevant, previously attributed
-> history. It does not independently establish authorship, current
-> state direction, or responsibility for every incident in the wider
-> water-system wave.
+> The claim strengthens the existing Iran-linked assessment because it comes from an actor ecosystem with a relevant, previously attributed history.  
+> It does not independently establish authorship, current state direction, or responsibility for every incident in the wider water-system wave.  
 
 ### Headline that outruns the evidence
 
@@ -287,8 +275,7 @@ Write the event before the theory.
 
 For example:
 
-> A regional water operator moved part of its system to manual control
-> after unauthorised access was detected.
+> A regional water operator moved part of its system to manual control after unauthorised access was detected.
 
 That sentence may remain valid even if attribution changes three times.
 
@@ -305,8 +292,7 @@ event.
 
 ## 🧱 Separate Event From Effect
 
-Even after the event is established, the effect may require its own
-confidence assessment.
+Even after the event is established, the effect may require its own confidence assessment.
 
 Distinguish where relevant:
 
@@ -321,14 +307,11 @@ RECORD-INTEGRITY EFFECT:
 CIVILIAN EFFECT:
 ```
 
-A confirmed intrusion does not automatically establish a confirmed
-physical-process change.
+A confirmed intrusion does not automatically establish a confirmed physical-process change.
 
-A confirmed breach does not automatically establish that records were
-altered.
+A confirmed breach does not automatically establish that records were altered.
 
-A temporary service interruption does not automatically establish wider
-system compromise.
+A temporary service interruption does not automatically establish wider system compromise.
 
 Write only the effect the evidence supports.
 
@@ -453,11 +436,9 @@ Not:
 
 > No customer data was affected.
 
-unless that proposition is independently established or the sentence
-clearly preserves who is making the assessment.
+unless that proposition is independently established or the sentence clearly preserves who is making the assessment.
 
-A claim becomes a finding only when the evidence supports that
-transition.
+A claim becomes a finding only when the evidence supports that transition.
 
 ---
 
@@ -520,18 +501,15 @@ security vendor
 → aggregation
 ```
 
-The final article may look independent even where every branch returns
-to one source.
+The final article may look independent even where every branch returns to one source.
 
-Source provenance prevents repetition from masquerading as
-corroboration.
+Source provenance prevents repetition from masquerading as corroboration.
 
 ---
 
 ## 🧪 Source Type Is Not Source Quality
 
-An official source, technical report, reputable newspaper, specialist
-analyst, and actor claim perform different evidentiary jobs.
+An official source, technical report, reputable newspaper, specialist analyst, and actor claim perform different evidentiary jobs.
 
 But source category alone is not enough.
 
@@ -547,8 +525,7 @@ IS THE CLAIM FIRST-HAND OR SECOND-HAND?
 IS THERE INDEPENDENT CORROBORATION?
 ```
 
-Two reputable news reports may have radically different evidentiary
-weight.
+Two reputable news reports may have radically different evidentiary weight.
 
 Two government statements may answer completely different questions.
 
@@ -678,8 +655,7 @@ Do not silently upgrade that into:
 
 But do not make the opposite leap either:
 
-> No public evidence exists, therefore officials must secretly know Iran
-> did it.
+> No public evidence exists, therefore officials must secretly know Iran did it.
 
 Both exceed the evidence.
 
@@ -721,8 +697,7 @@ Bad:
 
 Better, where pattern is stronger than sponsorship:
 
-> Multi-State Water Cyber Campaign Expands; Iranian Link Remains Under
-> Investigation
+> Multi-State Water Cyber Campaign Expands; Iranian Link Remains Under Investigation
 
 The less dramatic headline may be more durable.
 
@@ -730,8 +705,7 @@ The less dramatic headline may be more durable.
 
 ## 🕸️ Distinguish Attribution From Relevance
 
-An incident can belong in the Iran-war timeline without being attributed
-to Iran.
+An incident can belong in the Iran-war timeline without being attributed to Iran.
 
 Its relevance may arise from:
 
@@ -748,9 +722,8 @@ Write why the incident is being watched.
 
 For example:
 
-> The breach remains unattributed. It is included because it affected
-> essential state infrastructure during the war period and because its
-> relationship to a wider cluster remains open.
+> The breach remains unattributed.  
+> It is included because it affected essential state infrastructure during the war period and because its relationship to a wider cluster remains open.
 
 That is an explanation of inclusion.
 
@@ -760,8 +733,7 @@ It is not an accusation.
 
 ## 🗺️ Country Relevance Is Not Attribution
 
-A state may be highly relevant to the Iranian operational map because it
-is:
+A state may be highly relevant to the Iranian operational map because it is:
 
 -   a direct belligerent;
 -   a basing state;
@@ -793,9 +765,7 @@ Do not let one perform the work of the other.
 
 ## 🎯 Target Selection Is Not Attribution
 
-Water, energy, hospitals, government administration, banks, transport,
-telecommunications, defence systems, or dissidents may all be
-strategically attractive targets.
+Water, energy, hospitals, government administration, banks, transport, telecommunications, defence systems, or dissidents may all be strategically attractive targets.
 
 But many actors can share the same target interest.
 
@@ -807,8 +777,7 @@ It cannot identify the operator by itself.
 
 ## ⚠️ Timing Is Not Attribution
 
-An incident occurring immediately after military escalation, a public
-threat, or a major strike may deserve scrutiny.
+An incident occurring immediately after military escalation, a public threat, or a major strike may deserve scrutiny.
 
 It does not prove causation.
 
@@ -874,8 +843,7 @@ INFRASTRUCTURE CONTINUITY:
 TOOLING CONTINUITY:
 ```
 
-A historic attribution attached to an alias should not silently migrate
-to every later person using that name.
+A historic attribution attached to an alias should not silently migrate to every later person using that name.
 
 ---
 
@@ -905,11 +873,9 @@ Write the relationship rather than relying on the adjective.
 
 ## 🎭 Proxy Is Not A Synonym For Aligned
 
-Do not write **Iranian proxy** merely because a non-state actor appears
-politically sympathetic to Iran.
+Do not write **Iranian proxy** merely because a non-state actor appears politically sympathetic to Iran.
 
-Where proxy language is used, identify the relationship actually
-supported by evidence.
+Where proxy language is used, identify the relationship actually supported by evidence.
 
 That may include:
 
@@ -1004,9 +970,8 @@ Where evidence supports only one layer, report that layer.
 
 For example:
 
-> Investigators linked the intrusion to a criminal access broker. No
-> public evidence has established who ultimately purchased or used the
-> access.
+> Investigators linked the intrusion to a criminal access broker.  
+> No public evidence has established who ultimately purchased or used the access.
 
 That preserves the open question without inventing an answer.
 
@@ -1047,8 +1012,7 @@ The actor may also:
 
 Do not infer any of those relationships without evidence.
 
-But do not declare the customer question closed merely because the hands
-on the keyboard were criminal.
+But do not declare the customer question closed merely because the hands on the keyboard were criminal.
 
 ---
 
@@ -1068,8 +1032,7 @@ initial compromise
 → downstream exploitation
 ```
 
-Evidence about the initial operator may therefore say little about the
-final customer.
+Evidence about the initial operator may therefore say little about the final customer.
 
 Report the chronology of the relationship where it is known.
 
@@ -1161,8 +1124,7 @@ VULNERABILITY:
 
 A shared provider may explain apparent clustering.
 
-It may also reveal a campaign relationship hidden beneath apparently
-unrelated victims.
+It may also reveal a campaign relationship hidden beneath apparently unrelated victims.
 
 Both possibilities deserve examination.
 
@@ -1170,8 +1132,7 @@ Both possibilities deserve examination.
 
 ## 🎨 Pattern Is Not Sponsor
 
-The reporting language should allow a pattern to become strong before
-the sponsor does.
+The reporting language should allow a pattern to become strong before the sponsor does.
 
 Use the separate pattern scale:
 
@@ -1315,8 +1276,7 @@ PROVENANCE:
 AUTHORITATIVE RECORD STATUS:
 ```
 
-A system that remains online while its records can no longer be trusted
-may have suffered a serious operational effect.
+A system that remains online while its records can no longer be trusted may have suffered a serious operational effect.
 
 ---
 
@@ -1366,8 +1326,7 @@ WHAT THE STATE CAN PUBLICLY ESTABLISH
 
 No public attribution does not prove that no internal assessment exists.
 
-Possible internal assessment does not prove that the hidden assessment
-is correct.
+Possible internal assessment does not prove that the hidden assessment is correct.
 
 ---
 
@@ -1377,8 +1336,7 @@ Protective action may reveal assessed risk.
 
 It does not necessarily reveal the source of that risk.
 
-Do not reverse-engineer a hidden attribution from protective action
-alone.
+Do not reverse-engineer a hidden attribution from protective action alone.
 
 ---
 
@@ -1426,8 +1384,7 @@ The useful question is:
 
 > Who has accepted ownership of the continuing risk?
 
-Do not allow every institution to disappear behind another institution's
-remit.
+Do not allow every institution to disappear behind another institution's remit.
 
 ---
 
@@ -1501,15 +1458,13 @@ A responsible record should show:
 -   and whether the assessment was upgraded, downgraded, withdrawn, or
     excluded.
 
-Correction demonstrates that the method can distinguish evidence from
-attachment to a theory.  
+Correction demonstrates that the method can distinguish evidence from attachment to a theory.  
 
 ---
 
 ## 🧭 Corrections Must Propagate
 
-Where a material finding changes, update every place relying on the old
-assessment.
+Where a material finding changes, update every place relying on the old assessment.
 
 That may include:
 
@@ -1562,8 +1517,7 @@ supports it.
 
 ## 🏛️ Report The Attribution Source Type
 
-The July--August 2026 US water campaign shows why **who holds the
-assessment** must be reported alongside the confidence.
+The July--August 2026 US water campaign shows why **who holds the assessment** must be reported alongside the confidence.
 
 Use, where relevant:
 
@@ -1595,8 +1549,7 @@ into one.
 
 For example:
 
-> US intelligence reportedly assesses Iranian responsibility as highly
-> likely.
+> US intelligence reportedly assesses Iranian responsibility as highly likely.
 
 is not the same claim as:
 
@@ -1612,8 +1565,7 @@ All three can coexist in the same public record.
 
 ## 🧭 Political Statements Must Keep Their Own Label
 
-A president, minister, governor, or other political principal may make
-an attribution statement.
+A president, minister, governor, or other political principal may make an attribution statement.
 
 Record it.
 
@@ -1629,21 +1581,15 @@ AGREES WITH INVESTIGATIVE ASSESSMENT:
 YES / NO / UNCLEAR
 ```
 
-Where a political statement conflicts with reported investigative or
-intelligence assessments, the correct reporting move is not to choose
-one and erase the other.
+Where a political statement conflicts with reported investigative or intelligence assessments, the correct reporting move is not to choose one and erase the other.
 
 Preserve the disagreement.
 
 For the US water cases, a durable formulation is:
 
-> US and state officials were reported to assess Iranian responsibility
-> as likely or highly likely, while no formal public federal attribution
-> had been issued and President Trump publicly rejected the Iran
-> explanation.
+> US and state officials were reported to assess Iranian responsibility as likely or highly likely, while no formal public federal attribution had been issued and President Trump publicly rejected the Iran explanation.
 
-That sentence preserves the institutional conflict without pretending to
-know why it exists.
+That sentence preserves the institutional conflict without pretending to know why it exists.
 
 ---
 
@@ -1651,13 +1597,10 @@ know why it exists.
 
 Political backtracking also needs a source label.
 
-On 14 August 2026, President Trump said that he would declare the Strait
-of Hormuz a territory of the United States and then added, **"It's
-true."**
+On 14 August 2026, President Trump said that he would declare the Strait of Hormuz a territory of the United States and then added, **"It's
+true."**  
 
-Subsequent reporting said an unnamed senior White House official
-described the territorial remark as a joke and said Trump had not
-discussed such a move with advisers.
+Subsequent reporting said an unnamed senior White House official described the territorial remark as a joke and said Trump had not discussed such a move with advisers.
 
 The durable record is not:
 
@@ -1667,24 +1610,18 @@ It is also not:
 
 > Trump retracted the statement and confirmed it was only a joke.
 
-The second sentence overstates what happened because the reviewed
-record contains an anonymous-official characterisation, not a direct
-presidential retraction or a formal published policy correction.
+The second sentence overstates what happened because the reviewed record contains an anonymous-official characterisation, not a direct presidential retraction or a formal published policy correction.
 
 Prefer:
 
-> Trump said he would declare the Strait of Hormuz US territory, then
-> added “It's true.” An unnamed senior White House official later told a
-> Wall Street Journal reporter that Trump had been joking and had not
-> discussed the proposal with advisers. Trump did not issue a direct
-> retraction in the reviewed record.
+> Trump said he would declare the Strait of Hormuz US territory, then added “It's true.”  
+> An unnamed senior White House official later told a Wall Street Journal reporter that Trump had been joking and had not discussed the proposal with advisers.  
+> Trump did not issue a direct retraction in the reviewed record.  
 
 Also preserve what the backtrack did **not** address.
 
-The joke explanation concerned the territorial declaration. Trump had
-also asserted that the United States controlled maritime passage
-through the strait. Do not treat a partial explanation as withdrawal of
-every surrounding claim.
+The joke explanation concerned the territorial declaration. Trump had also asserted that the United States controlled maritime passage through the strait.  
+Do not treat a partial explanation as withdrawal of every surrounding claim.
 
 Record:
 
@@ -1711,8 +1648,7 @@ Sources:
 -   [Anadolu Agency: Wall Street Journal reporter cites unnamed senior White House official describing the remark as a joke](https://www.aa.com.tr/en/americas/trump-was-joking-about-declaring-strait-of-hormuz-us-territory-us-media/4027928)
 -   [Middle East Monitor republication of the Anadolu report](https://www.middleeastmonitor.com/20260815-trump-was-joking-about-declaring-strait-of-hormuz-us-territory-us-media/)
 
-The last two links are not independent corroboration of two White House
-officials. They preserve one underlying anonymous-official route.
+The last two links are not independent corroboration of two White House officials. They preserve one underlying anonymous-official route.
 
 ---
 
@@ -1722,9 +1658,7 @@ The phrase:
 
 > no government attribution
 
-can become misleading where credible reporting says government
-investigators or intelligence agencies have reached an assessment but
-the government has not formally published it.
+can become misleading where credible reporting says government investigators or intelligence agencies have reached an assessment but the government has not formally published it.
 
 Prefer:
 
@@ -1736,8 +1670,7 @@ where that is what is actually meant.
 
 Then record any credible reported assessment separately.
 
-This distinction is especially important where the public record
-contains:
+This distinction is especially important where the public record contains:
 
 ``` text
 reported high-confidence intelligence assessment
@@ -1749,8 +1682,7 @@ contrary political statement
 
 The absence of a press release should not erase the reported assessment.
 
-The reported assessment should not be promoted into a formal
-attribution.
+The reported assessment should not be promoted into a formal attribution.
 
 ---
 
@@ -1798,8 +1730,7 @@ See [🌊 Riding Every Wave](./🌊_riding_every_wave.md).
 
 ### Report The Organising Mechanism
 
-When several incidents appear together, report what presently joins
-them.
+When several incidents appear together, report what presently joins them.
 
 Possible organising mechanisms include:
 
@@ -1815,29 +1746,19 @@ This produces materially different reports.
 
 For example:
 
-> Cyber incidents have affected water, healthcare, local government,
-> logistics and major industrial organisations during the same wartime
-> period. Current evidence supports several different organising
-> mechanisms, including a probable Iran-linked water core, conventional
-> ransomware, unresolved municipal incidents and criminal exploitation
-> of shared enterprise software. Common sponsorship across the sectors
-> is not established.
+> Cyber incidents have affected water, healthcare, local government, logistics and major industrial organisations during the same wartime period.  
+>  Current evidence supports several different organising mechanisms, including a probable Iran-linked water core, conventional ransomware, unresolved municipal incidents and criminal exploitation of shared enterprise software.  
+> Common sponsorship across the sectors is not established.  
 
 Do not compress that into:
 
-> Iran expands cyber campaign across hospitals, cities, logistics,
-> energy and finance.
+> Iran expands cyber campaign across hospitals, cities, logistics, energy and finance.
 
-That second formulation improperly imports the strongest attribution
-from one part of the record into every neighbouring incident.
+That second formulation improperly imports the strongest attribution from one part of the record into every neighbouring incident.
 
-The Cl0p campaign provides the useful comparator. Reuters reported a
-cross-sector mass-extortion campaign involving organisations including
-Shell, Philips, GE, and Fiserv. PTC separately documented the critical
-Windchill and FlexPLM vulnerability associated with the affected
-software environment. A broad victim list can therefore be organised
-by one exploitable platform rather than by one strategic state target
-list.
+The Cl0p campaign provides the useful comparator. Reuters reported a cross-sector mass-extortion campaign involving organisations including Shell, Philips, GE, and Fiserv.  
+PTC separately documented the critical Windchill and FlexPLM vulnerability associated with the affected software environment.  
+A broad victim list can therefore be organised by one exploitable platform rather than by one strategic state target list.
 
 -   [Reuters: Cl0p mass-extortion campaign](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
 -   [PTC: Windchill and FlexPLM vulnerability advisory](https://www.ptc.com/en/about/trust-center/advisory-center/active-advisories/windchill-flexplm-rce-vulnerability)
@@ -1898,8 +1819,7 @@ Avoid:
 
 The working rule is:
 
-> Preserve the chain from event to source to evidentiary layer to
-> confidence to limit.
+> Preserve the chain from event to source to evidentiary layer to confidence to limit.
 
 Then interpret.
 
