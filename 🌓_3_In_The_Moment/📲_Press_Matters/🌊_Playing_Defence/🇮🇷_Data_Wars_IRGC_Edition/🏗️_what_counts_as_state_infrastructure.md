@@ -1,5 +1,5 @@
 # 🏗️ What Counts As State Infrastructure  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-15  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-16  
 *The test is what the system does, not whether the organisation running it is formally part of the state.*  
 
 ---
@@ -1146,7 +1146,9 @@ And where the system is civilian:
 
 ## 🌌 Constellations  
 
-🏗️ 🚰 ⚡ 🏥 🏦 🕸️ ⚖️ — essential infrastructure; water; energy; health; banking; shared dependencies; civilian protection.
+🏗️ 🚰 ⚡ 🏥 🏦 🕸️ ⚖️ — essential infrastructure; water; energy; health; banking; shared dependencies; civilian protection.  
+
+---
 
 ## ✨ Stardust  
 
@@ -1173,4 +1175,4 @@ It defines the functional perimeter for incidents included in the *🇮🇷 Data
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-15_
+_Last updated: 2026-08-16_
