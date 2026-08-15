@@ -1,5 +1,5 @@
 # ⚖️ Threats and Countermeasures to Democracy from Machine Learning  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-15  
 *How large-scale machine learning amplifies existing tools of manipulation — and how civic systems can defend themselves.*
 
 ---
@@ -144,4 +144,4 @@ It connects technical amplification to civic defence, providing a roadmap for re
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-08-15_
