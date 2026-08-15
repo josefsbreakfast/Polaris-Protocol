@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-15 19:49:41 UTC_
+_Generated on 2026-08-15 19:53:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4135,13 +4135,13 @@ _Generated on 2026-08-15 19:49:41 UTC_
         - [`🪞_safes_shelves_servers.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📺_Money_Talks_Media/🪞_safes_shelves_servers.md)
         - [`🪞_the_visibility_trap.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📺_Money_Talks_Media/🪞_the_visibility_trap.md)
       - [**🛰️_Infrastructure_Procurement/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/)
-        - [` ⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/ ⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md)
-        - [` 🌀_prototype_surveillance_as_investor_pitch.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/ 🌀_prototype_surveillance_as_investor_pitch.md)
-        - [` 🌀_recursive_risk_logic_in_private_intelligence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/ 🌀_recursive_risk_logic_in_private_intelligence.md)
-        - [` 🌀_reverse_colonisation_timeline_metadata_outsourcing.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/ 🌀_reverse_colonisation_timeline_metadata_outsourcing.md)
-        - [` 🌦️_hope_for_the_best_expect_the_worst.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/ 🌦️_hope_for_the_best_expect_the_worst.md)
-        - [` 🍻_why_the_criticism_of_the_westminster_pint.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/ 🍻_why_the_criticism_of_the_westminster_pint.md)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/README.md)
+        - [`⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/⚖️_threats_and_countermeasures_to_democracy_from_machine_learning.md)
+        - [`🌀_prototype_surveillance_as_investor_pitch.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🌀_prototype_surveillance_as_investor_pitch.md)
+        - [`🌀_recursive_risk_logic_in_private_intelligence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🌀_recursive_risk_logic_in_private_intelligence.md)
+        - [`🌀_reverse_colonisation_timeline_metadata_outsourcing.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🌀_reverse_colonisation_timeline_metadata_outsourcing.md)
+        - [`🌦️_hope_for_the_best_expect_the_worst.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🌦️_hope_for_the_best_expect_the_worst.md)
+        - [`🍻_why_the_criticism_of_the_westminster_pint.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🍻_why_the_criticism_of_the_westminster_pint.md)
         - [`🏛️_oversight_capacity_viability_check.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🏛️_oversight_capacity_viability_check.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
