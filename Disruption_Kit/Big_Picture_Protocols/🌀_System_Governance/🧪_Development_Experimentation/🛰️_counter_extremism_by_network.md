@@ -1,5 +1,5 @@
 # 🛰️ Counter-Extremism by Network — Anatomy of Prevent and CVE Tooling  
-**First created:** 2025-11-06 | **Last updated:** 2026-02-20  
+**First created:** 2025-11-06 | **Last updated:** 2026-08-15  
 *Analytical node outlining how UK and allied counter-violent-extremism programmes use behavioural and network methods, based entirely on open-source documentation.*  
 
 ---
@@ -119,4 +119,4 @@ It documents open-source knowledge on how behavioural and counter-extremism syst
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-08-15_
