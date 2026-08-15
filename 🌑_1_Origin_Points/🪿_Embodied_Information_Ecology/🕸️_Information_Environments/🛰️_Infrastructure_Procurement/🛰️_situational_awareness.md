@@ -1,7 +1,5 @@
-
-
 # 🛰️ Situational Awareness: Human vs Computational  
-**First created:** 2025-09-30 | **Last updated:** 2026-01-28  
+**First created:** 2025-09-30 | **Last updated:** 2026-08-15  
 *How awareness is built in minds vs. machines, where failure surfaces lurk, and why a safety culture is overdue.*  
 
 <a id="top"></a>
@@ -159,4 +157,4 @@ It argues for aviation-grade safety culture across civilian C4/C5-ISR deployment
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-28_  
+_Last updated: 2026-08-15_  
