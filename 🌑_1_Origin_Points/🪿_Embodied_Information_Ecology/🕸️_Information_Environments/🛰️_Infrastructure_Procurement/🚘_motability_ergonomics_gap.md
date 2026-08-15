@@ -1,7 +1,5 @@
-🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🚘_motability_ergonomics_gap.md
-
 # 🚘 Motability Ergonomics Gap
-**First created:** 2026-05-05 | **Last updated:** 2026-05-05  
+**First created:** 2026-05-05 | **Last updated:** 2026-08-15  
 *Structural access failure when vehicle ergonomics fall outside cost-optimised scheme design.*
 
 ---
@@ -267,4 +265,4 @@ It documents the structural gap between system-level vehicle provision and body-
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-05_
+_Last updated: 2026-08-15_
