@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-15 19:57:15 UTC_
+_Generated on 2026-08-15 19:58:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -20,7 +20,6 @@ _Generated on 2026-08-15 19:57:15 UTC_
       - [**🛰️_Infrastructure_Procurement/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/notes.txt)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
-        - [`💷_procurement_culture_and_departmental_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/💷_procurement_culture_and_departmental_clashes.md)
         - [`💷_procurement_culture_dept_clashes.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/💷_procurement_culture_dept_clashes.md)
         - [`💸_repression_cost_capital.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/💸_repression_cost_capital.md)
         - [`📂_emergent_litigation_ai_language_psychological_harm.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🛰️_Infrastructure_Procurement/📂_emergent_litigation_ai_language_psychological_harm.md)
@@ -4143,6 +4142,7 @@ _Generated on 2026-08-15 19:57:15 UTC_
         - [`🏛️_oversight_capacity_viability_check.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🏛️_oversight_capacity_viability_check.md)
         - [`💰_50_years_of_british_confusion.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/💰_50_years_of_british_confusion.md)
         - [`💰_protest_law_as_cash_flow_signal.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/💰_protest_law_as_cash_flow_signal.md)
+        - [`💷_procurement_culture_and_departmental_clashes.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/💷_procurement_culture_and_departmental_clashes.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
     - [**🕸️🧿_The_Observed_Information_Space/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/)
