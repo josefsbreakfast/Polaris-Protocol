@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-15 22:03:35 UTC_
+_Generated on 2026-08-15 22:07:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -17,13 +17,7 @@ _Generated on 2026-08-15 22:03:35 UTC_
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🌀_System_Governance/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
-      - [**🧪_Development_Experimentation/**](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/)
-        - [`🪆_behavioural_modelling_failure_index.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪆_behavioural_modelling_failure_index.md)
-        - [`🪞_the_illusion_of_choice.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪞_the_illusion_of_choice.md)
-        - [`🪫_austerity_long_tail_data_instability.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪫_austerity_long_tail_data_instability.md)
-        - [`🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧪_Development_Experimentation/🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
-      - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/notes.txt)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**💔_Violence_IRL/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/README.md)
@@ -3611,6 +3605,10 @@ _Generated on 2026-08-15 22:03:35 UTC_
         - [`🧯_governance_gap_explanation_vs_acceptability.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🧯_governance_gap_explanation_vs_acceptability.md)
         - [`🧲_the_magnet_doesnt_care.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🧲_the_magnet_doesnt_care.md)
         - [`🩸_behavioural_intervention_during_period.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🩸_behavioural_intervention_during_period.md)
+        - [`🪆_behavioural_modelling_failure_index.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🪆_behavioural_modelling_failure_index.md)
+        - [`🪞_the_illusion_of_choice.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🪞_the_illusion_of_choice.md)
+        - [`🪫_austerity_long_tail_data_instability.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🪫_austerity_long_tail_data_instability.md)
+        - [`🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🪻_fields_of_lavender_and_bargain_bin_mossads_frankenstacks.md)
       - [**🧬_Governance_Repair_Shop/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/README.md)
         - [`⚖️_institutional_realisation_to_remediation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/⚖️_institutional_realisation_to_remediation.md)
