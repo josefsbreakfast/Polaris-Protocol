@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-15 19:23:25 UTC_
+_Generated on 2026-08-15 19:28:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4417,6 +4417,7 @@ _Generated on 2026-08-15 19:23:25 UTC_
         - [`🧪_acid_accelerationism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🧪_acid_accelerationism.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/notes.txt)
+      - [`🪓_kissingers_little_leninist.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🪓_kissingers_little_leninist.md)
     - [**🫀🧿_The_Observed_Body/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/.🌱_Still_Growing/notes.txt)
