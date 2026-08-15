@@ -1,5 +1,5 @@
 # 🧅 The Operator May Not Know The Customer  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-09  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-16  
 *The person carrying out the task may know only the layer directly above them — and the damage may not be visible until the layers are peeled back.*  
 
 ---
@@ -652,6 +652,210 @@ The pack should keep those claims separate.
 
 ---
 
+## 🧬 The Layers Need Names Before They Can Be Tested  
+
+“Operator” and “customer” are not enough on their own.
+
+A live incident may contain several distinguishable roles:
+
+```text
+INITIAL-ACCESS ACTOR
+→ first obtains credentials, exposure or foothold
+
+ACCESS BROKER
+→ packages, advertises, transfers or sells access
+
+HANDS-ON OPERATOR
+→ conducts the intrusion or manipulation
+
+TOOL / INFRASTRUCTURE PROVIDER
+→ supplies malware, hosting, accounts or command channels
+
+PUBLIC PERSONA
+→ claims, brands or narrates the operation
+
+AFFILIATE / CONTRACTOR
+→ has an evidenced organisational or commercial relationship
+
+TARGET SELECTOR
+→ decides which victim or function matters
+
+CUSTOMER / TASKER
+→ requests, purchases or directs the result
+
+BENEFICIARY
+→ gains strategic, political, intelligence or financial value
+
+AMPLIFIER
+→ spreads the material or threat after compromise
+```
+
+One actor may perform several roles.
+
+Several actors may share one role.
+
+And some roles may be absent.
+
+The value of the model is not that it makes every chain complicated.
+
+It prevents one visible name from being assigned every invisible function.
+
+---
+
+## 🇮🇷 APT IRAN And CyberAv3ngers — What The Claim Changes  
+
+On 12 August 2026, APT IRAN reportedly stated that the Minnesota water attacks
+were conducted with CyberAv3ngers and that the groups took direct
+responsibility. KSTP reported the Telegram statement through Threat Beat at
+Auburn University's McCrary Institute.  
+[KSTP — *Iran-linked group claims responsibility for Minnesota water
+attacks*](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)
+
+The claim materially strengthens the Iran-linked hypothesis for the Minnesota
+core.
+
+It does not make every layer identical.
+
+The U.S. government separately identifies CyberAv3ngers as affiliated with the
+IRGC Cyber-Electronic Command and links named IRGC-CEC officials to malicious
+activity against industrial-control and critical-infrastructure systems.  
+[CISA — *IRGC-Affiliated Cyber Actors Exploit PLCs in Multiple
+Sectors*](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)  
+[U.S. Treasury — *Sanctions actors responsible for malicious cyber activities
+on critical infrastructure*](https://home.treasury.gov/news/press-releases/jy2072)  
+[Rewards for Justice — *CyberAv3ngers*](https://rewardsforjustice.net/rewards/cyberav3ngers/)
+
+That historical affiliation evidence is strong.
+
+For the July Minnesota operation, the public record should still distinguish:
+
+```text
+PUBLIC CLAIMANT:
+APT IRAN
+
+CO-CLAIMED ACTOR:
+CyberAv3ngers
+
+KNOWN ORGANISATIONAL AFFILIATION:
+CyberAv3ngers ↔ IRGC-CEC — established in prior U.S. government reporting
+
+HANDS-ON OPERATOR FOR THIS INCIDENT:
+not independently established in the public record
+
+INITIAL ACCESS SOURCE:
+internet-facing PLC exposure demonstrated across the wider wave;
+person or team obtaining first access unresolved
+
+TARGET SELECTOR:
+unresolved
+
+SPECIFIC STATE TASKING OR DIRECTION:
+not publicly established
+
+FORMAL U.S. ATTRIBUTION OF THE JULY WAVE:
+not issued publicly as of 16 August
+```
+
+This does not downgrade the actor claim to irrelevance.
+
+It places the claim at the layer it actually evidences.
+
+The claimant may know the whole chain.
+
+The hands-on operator may know the customer.
+
+The title of this node is a warning about possible architecture, not a finding
+of ignorance in every operation.
+
+The pack should never convert:
+
+```text
+may not know
+```
+
+into:
+
+```text
+therefore did not know
+```
+
+---
+
+## 🛒 Access Brokerage Is An Observed Market, Not A Decorative Hypothesis  
+
+The layered model does not depend on proving that an access broker participated
+in the Minnesota incidents.
+
+It rests on a documented cybercrime market that investigators should test for
+where evidence permits.
+
+CISA describes intrusion brokers selling access to compromised systems to
+other cybercriminals. Its remote-access guidance likewise warns that initial
+access brokers may sell network access created through remote-management
+software. The FBI has described Genesis Market as a prolific initial-access
+broker that made stolen credentials searchable and usable by later criminals.  
+[CISA — *Karakurt Data Extortion Group*](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-152a)  
+[CISA, NSA and partners — *Guide to Securing Remote Access
+Software*](https://www.cisa.gov/sites/default/files/2023-06/guide_to_securing_remote_access_software_final_508c_v3.pdf)  
+[U.S. Department of Justice — FBI testimony on Genesis Market and the
+cybercrime service ecosystem](https://www.justice.gov/ola/media/1379826/dl?inline=)
+
+The evidentiary question is therefore:
+
+> Is there evidence that access changed hands here?
+
+not:
+
+> Do access brokers exist?
+
+Their existence is established.
+
+Their participation in a particular incident must still be proved.
+
+---
+
+## 🧬 Cl0p Shows Why Shared Victims Do Not Prove Shared Strategic Selection  
+
+The August Cl0p claims provide a useful comparator.
+
+Cl0p named nearly fifty companies across energy, health technology, industrial
+engineering and finance. Reuters reported that the group typically exploits
+widely deployed software at scale for data extortion rather than necessarily
+selecting every company for its individual strategic identity. The claimed
+theft volumes were not independently verified.  
+[Reuters — *Hacking group claims mass data theft from Shell, Philips, GE,
+Fiserv and dozens of others*](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
+
+That pattern can look strategically curated after the victim list is assembled.
+
+The better-supported sequence may be:
+
+```text
+shared vulnerable software
+→ scalable exploitation
+→ many organisations exposed
+→ attacker monetises whichever victims were reachable
+```
+
+rather than:
+
+```text
+one strategic customer
+→ individually selects every victim
+→ operator compromises them one by one
+```
+
+This is why victimology must be tested against the access mechanism.
+
+A target set compatible with Iranian interests is not proof that Iran selected
+it.
+
+A criminal campaign can still generate data or access later useful to a state.
+
+That later-use hypothesis requires later-use evidence.
+
+---
+
 ## ⚖️ Layered Tasking Complicates Legal Responsibility  
 
 The onion also matters legally.
@@ -723,12 +927,19 @@ where the evidence actually supports something narrower.
 A better model is:
 
 ```text
+INITIAL-ACCESS ACTOR:
+ACCESS BROKER:
 OPERATOR:
+PUBLIC PERSONA:
+TOOL / INFRASTRUCTURE PROVIDER:
 INTERMEDIARY:
 ACCESS SOURCE:
+TARGET SELECTOR:
 CUSTOMER:
 BENEFICIARY:
+AMPLIFIER:
 STATE LINK:
+STATE DIRECTION:
 PUBLIC ATTRIBUTION:
 LEGAL RESPONSIBILITY:
 ```
@@ -803,6 +1014,17 @@ WHO BENEFITED?
 The answers may not point to one organisation.
 
 They may reveal an ecosystem.
+
+For each role, record:
+
+```text
+IDENTITY:
+EVIDENCE TYPE:
+CONFIDENCE:
+KNOWLEDGE OF WIDER OPERATION:
+RELATIONSHIP TO NEXT LAYER:
+WHAT REMAINS UNKNOWN:
+```
 
 ---
 
@@ -882,11 +1104,11 @@ That is how the onion becomes visible.
 
 ## 🌌 Constellations  
 
-🧅 🕸️ 🎭 🪜 🚰 ⚖️ 🧍 — layered tasking; attribution; proxy overlap; recruitment funnels; operational access; legal responsibility; person-centred harm.
+🧅 🕸️ 🎭 🚰 ⚖️ — layered tasking; attribution; proxy overlap; operational access; legal responsibility; person-centred harm.
 
 ## ✨ Stardust  
 
-operator, customer, access broker, proxy, cybercrime, recruitment, grooming funnel, compartmentalisation, state tasking, data exploitation, operational technology, access resale, layered attribution, state responsibility
+operator, customer, access broker, proxy, cybercrime, compartmentalisation, state tasking, access resale, layered attribution, state responsibility
 
 ---
 
@@ -904,7 +1126,9 @@ It maps the layered labour, recruitment, access, acquisition, resale, exploitati
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
 > - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *how distributed acts accumulate into strategic effect*
 > - [🇬🇧 Britain Is Advertising An Exploitable Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) — *fragmented response as adversary-facing weakness*
+> - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *distinguishing shared access mechanisms, operators, customers and strategic campaigns*
+> - [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) — *recording provenance and confidence at the layer actually evidenced*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-09_
+_Last updated: 2026-08-16_

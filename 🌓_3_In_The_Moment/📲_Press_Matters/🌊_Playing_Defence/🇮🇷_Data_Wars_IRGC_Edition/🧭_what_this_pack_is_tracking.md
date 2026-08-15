@@ -1,5 +1,5 @@
 # 🧭 What This Pack Is Tracking  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-09  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-16  
 *Defining the perimeter of a live wartime cyber timeline without pretending that attribution is cleaner than it is.*  
 
 ---
@@ -7,6 +7,10 @@
 ## 🛰️ Orientation  
 
 This pack tracks cyber incidents affecting the systems through which states continue to function during the Iran war.
+
+It also tracks the cluster, attribution, policy, rhetoric and stakeholder
+developments needed to interpret those incidents without turning context into
+proof.
 
 That means more than defence networks.
 
@@ -75,6 +79,79 @@ That distinction becomes especially important for systems such as:
 - and telecommunications.
 
 State dependence does not automatically transform a civilian object into a military objective.
+
+---
+
+## 🚦 Four Routing Outcomes  
+
+Not every relevant development should be promoted into the same evidentiary
+category.
+
+The pack therefore uses four routing outcomes.
+
+### 1. Core Timeline Incident  
+
+Use where there is credible evidence of an actual cyber incident affecting an
+essential function, system or operational dependency.
+
+Examples include:
+
+- confirmed service disruption;
+- demonstrated data compromise with public-function consequences;
+- confirmed operational-technology access;
+- manipulation of configuration or control;
+- forced fallback;
+- or a verified effect on an essential-sector provider.
+
+### 2. Adjacent Watch Event  
+
+Use where the target or exposure is strategically relevant but the threshold
+for an essential-infrastructure incident has not yet been met.
+
+Examples include:
+
+- an attacker naming a major payments provider without confirmed compromise;
+- a logistics incident with shipment delays but no demonstrated port or
+  strategic-cargo effect;
+- a claim that has not been corroborated;
+- or evidence of exposure without evidence of operational consequence.
+
+### 3. Context Event  
+
+Use for developments that change motive, exposure, interpretation or likely
+consequence without themselves being cyber incidents.
+
+Examples include:
+
+- a public threat against water or energy infrastructure;
+- a new basing decision;
+- a responsibility claim;
+- a formal attribution statement;
+- a presidential territorial statement and subsequent backtrack;
+- or a material change in public, allied or executive confidence.
+
+### 4. Excluded Or Rejected  
+
+Use where the evidence does not clear the pack's minimum threshold, the event is
+duplicated, the claim is false, the incident is unrelated, or the source chain
+cannot support the proposed description.
+
+Exclusion should be recorded where the rejected item has already circulated
+widely enough that it may re-enter later research.
+
+The routing rule is:
+
+```text
+relevant enough to watch
+≠
+strong enough to count
+
+strong enough to count
+≠
+strong enough to attribute
+```
+
+This preserves weak signals without quietly upgrading them.
 
 ---
 
@@ -402,6 +479,73 @@ But it can determine when apparently isolated events should stop being analysed 
 
 ---
 
+## 🧬 One War Can Contain Several Threat Ecosystems  
+
+The pack does not assume that the wartime cluster has one organising actor.
+
+By 16 August, the evidence supports several overlapping ecosystems:
+
+```text
+IRAN-FACING OT ACTIVITY
+→ U.S. water/PLC wave; operational effects confirmed;
+  Minnesota Iran linkage strengthened but not formally attributed
+
+SHARED-SOFTWARE CRIMINAL EXTORTION
+→ Cl0p claims across energy, health technology, industry and finance;
+  no demonstrated Iran nexus
+
+LOGISTICS DISRUPTION
+→ CEVA warehouse delays and delivery-data exposure;
+  no demonstrated port-control or maritime-OT effect
+
+LOCAL-GOVERNMENT / ADMINISTRATIVE DISRUPTION
+→ recurring municipal effects with mixed and often criminal explanations
+```
+
+The U.S. water wave is anchored by the FBI/EPA finding that malicious actors
+accessed internet-facing PLCs, changed network and password configurations and
+caused loss of monitoring, control and—in parts of the wave—physical-process
+effects.  
+[FBI and EPA — *Malicious Cyber Actors Targeting Water and Wastewater Sector
+PLCs*](https://www.fbi.gov/investigate/cyber/alerts/2026/malicious-cyber-actors-targeting-water-and-wastewater-sector-internet--facing-programmable-logic-controllers-causing-operational-disruptions)
+
+The Iran-facing assessment for the Minnesota core was later strengthened by a
+reported APT IRAN/CyberAv3ngers responsibility claim. The claim remains a claim;
+it does not substitute for forensic corroboration or formal public
+attribution.  
+[KSTP — *Iran-linked group claims responsibility for Minnesota water
+attacks*](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)
+
+The Cl0p comparator is anchored by Reuters reporting of a mass data-extortion
+claim involving nearly fifty companies. The reported organising mechanism was
+scalable exploitation of shared enterprise software rather than demonstrated
+strategic selection of every victim.  
+[Reuters — *Hacking group claims mass data theft from Shell, Philips, GE,
+Fiserv and dozens of others*](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
+
+CEVA is retained as adjacent logistics evidence because shipment delays and
+delivery-data exposure were reported, while port operation, maritime control
+and Iranian direction were not demonstrated.  
+[TechCrunch — *CEVA Logistics breach ripples across banks and
+retailers*](https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/)
+
+These ecosystems can produce one cumulative burden on defenders without
+forming one common campaign.
+
+The pack therefore records four confidence judgements separately:
+
+```text
+PATTERN CONFIDENCE:
+ORGANISING-MECHANISM CONFIDENCE:
+COMMON-OPERATOR CONFIDENCE:
+STRATEGIC-CAMPAIGN CONFIDENCE:
+```
+
+High confidence in recurrence does not authorise high confidence in common
+sponsorship.
+
+---
+
 ## 🧅 Why The Operator May Not Know The Customer  
 
 Cyber operations can be assembled through layers.
@@ -544,6 +688,29 @@ The point is not to force every incident into one theory.
 
 The point is to notice when several incidents begin to form a pattern that cannot be seen from one headline alone.
 
+The pack now tracks five linked objects:
+
+```text
+INCIDENT
+→ what happened to one system or organisation
+
+CLUSTER
+→ what recurs across several incidents
+
+ATTRIBUTION DEVELOPMENT
+→ how operator, affiliation, direction and confidence change
+
+CONTEXT DEVELOPMENT
+→ threats, rhetoric, basing, policy and adversary response
+
+STAKEHOLDER CONSEQUENCE
+→ who carries the service, economic, military, political or alliance effect
+```
+
+Those objects may share a date.
+
+They should not be forced into one row if doing so destroys the distinction.
+
 ---
 
 ## 🚫 What This Pack Does Not Claim  
@@ -574,11 +741,15 @@ Each incident should be recorded with:
 
 ```text
 DATE:
+RECORD TYPE — INCIDENT / CLUSTER / CONTEXT / CONSEQUENCE:
+ROUTING STATUS — CORE / ADJACENT / CONTEXT / EXCLUDED:
 COUNTRY:
 SECTOR:
 AFFECTED BODY:
 SYSTEM LAYER:
 WHAT HAPPENED:
+CONFIRMED FACTS:
+CLAIMED FACTS:
 OPERATIONAL EFFECT:
 PHYSICAL EFFECT:
 MANUAL FALLBACK:
@@ -587,9 +758,16 @@ OFFICIAL ATTRIBUTION:
 OTHER ATTRIBUTION:
 CONFIDENCE:
 IRAN RELEVANCE:
+ORGANISING MECHANISM:
+PATTERN CONFIDENCE:
+ORGANISING-MECHANISM CONFIDENCE:
+COMMON-OPERATOR CONFIDENCE:
+STRATEGIC-CAMPAIGN CONFIDENCE:
 IHL / PROTECTED-OBJECT RELEVANCE:
 RIVAL EXPLANATIONS:
+STAKEHOLDER EFFECT:
 SOURCES:
+SOURCE PROVENANCE:
 LAST REVIEWED:
 CORRECTION STATUS:
 ```
@@ -620,6 +798,44 @@ Repetition is not corroboration.
 Ten articles may still trace back to one advisory, one vendor report, or one unverified actor claim.
 
 The source chain matters.
+
+### Cross-Domain Source Rule  
+
+Where possible, material claims should be supported across different source
+functions rather than by repeating one report through several outlets.
+
+Useful source functions include:
+
+- affected operator or public authority;
+- technical advisory;
+- regulator or law-enforcement notice;
+- independent news reporting;
+- specialist sector reporting;
+- company statement;
+- research or polling body;
+- and primary actor statement, clearly labelled as a claim.
+
+For example:
+
+```text
+FBI/EPA technical finding
++
+state or operator account
++
+independent reporting
++
+actor claim recorded separately
+```
+
+is stronger than:
+
+```text
+four articles repeating one Telegram post
+```
+
+Cross-domain does not mean every source agrees.
+
+It means the pack can see which part of the claim each source actually knows.
 
 ---
 
@@ -654,11 +870,11 @@ It is a record of what happened, what was claimed, what was established, what ch
 
 ## 🌌 Constellations  
 
-🇮🇷 🧭 🕸️ 🚰 ⚖️ 🏗️ 📉 — Iran war analysis; scope control; graded attribution; operational technology; civilian infrastructure; cumulative disruption.
+🇮🇷 🧭 🕸️ 🚰 📉 — Iran war analysis; scope control; graded attribution; operational technology; cumulative disruption.
 
 ## ✨ Stardust  
 
-iran, irgc, cyber warfare, critical infrastructure, state disruption, attribution, proxy operations, data breaches, operational technology, industrial control systems, water infrastructure, wartime infrastructure, international humanitarian law, clustering
+iran, irgc, cyber warfare, critical infrastructure, attribution, operational technology, inclusion rules, threat ecosystems, source provenance, clustering
 
 ---
 
@@ -677,7 +893,10 @@ It defines the evidentiary perimeter, inclusion rules, escalation indicators, an
 > - [🏗️ What Counts As State Infrastructure](./🏗️_what_counts_as_state_infrastructure.md) — *functional inclusion test*
 > - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *clustering, accumulation, and campaign effect*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
+> - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *organising mechanisms and confidence axes across the wider cluster*
+> - [🇺🇸 Potential Impacts On Americans](./🇺🇸_potential_impacts_on_americans.md) — *stakeholder consequences across services, politics, defence, technology and alliances*
+> - [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) — *evidence grading, provenance and update discipline*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-09_
+_Last updated: 2026-08-16_

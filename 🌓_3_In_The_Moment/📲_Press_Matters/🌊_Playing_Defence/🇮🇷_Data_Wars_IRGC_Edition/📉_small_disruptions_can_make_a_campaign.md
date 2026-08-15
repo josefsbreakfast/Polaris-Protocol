@@ -342,6 +342,136 @@ It is a reason to stop analysing each event in isolation.
 
 ---
 
+## 🧬 One Campaign Effect Can Contain Several Threat Ecosystems  
+
+By mid-August 2026, the cross-sector picture is noisy enough that two errors are
+possible.
+
+The first is to treat every incident as isolated.
+
+The second is to treat every incident as one Iranian operation.
+
+The evidence supports neither extreme.
+
+At least four organising mechanisms are visible in the same wartime period:
+
+1. **Iran-facing operational-technology activity** — the U.S. water wave
+   includes repeated access to internet-facing PLCs, configuration changes,
+   loss of view and control, and some physical-process effects. The FBI/EPA
+   confirmed incidents in at least seven states; an Iran-linked actor later
+   claimed the Minnesota core, strengthening—but not completing—the attribution
+   chain.  
+   [FBI and EPA — *Malicious Cyber Actors Targeting Water and Wastewater Sector
+   PLCs*](https://www.fbi.gov/investigate/cyber/alerts/2026/malicious-cyber-actors-targeting-water-and-wastewater-sector-internet--facing-programmable-logic-controllers-causing-operational-disruptions)  
+   [KSTP — *Iran-linked group claims responsibility for Minnesota water
+   attacks*](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)
+
+2. **Shared-software criminal extortion** — Cl0p named nearly fifty companies,
+   including Shell, Philips, GE and Fiserv. The best-supported organising
+   mechanism is scalable exploitation of common enterprise software for data
+   extortion. Operational infrastructure effects and an Iranian nexus were not
+   demonstrated.  
+   [Reuters — *Hacking group claims mass data theft from Shell, Philips, GE,
+   Fiserv and dozens of others*](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
+
+3. **Logistics disruption and data exposure** — CEVA's European warehouse
+   incident caused shipment delays and exposed some delivery data. That is a
+   real supply-chain effect, but no public evidence currently establishes port
+   control, maritime OT compromise, Iranian direction or deliberate selection
+   of strategic cargo.  
+   [TechCrunch — *A data breach at shipping giant CEVA Logistics is rippling
+   across banks, retailers, Steam gamers and
+   beyond*](https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/)
+
+4. **Local-government and administrative disruption** — municipal incidents
+   can degrade public-safety, records and payment functions while still fitting
+   ordinary criminal or opportunistic explanations better than one state-led
+   infrastructure campaign.
+
+These ecosystems can coexist and still produce one cumulative defensive
+problem:
+
+```text
+different operators
++
+different motives
++
+different entry points
++
+same finite pool of defenders, engineers, investigators and public trust
+=
+shared state-capacity pressure
+```
+
+The cumulative effect is real even where common sponsorship is not.
+
+That means **campaign** must be used carefully. It may describe:
+
+- a technically linked operation by one actor;
+- a strategically linked set of operations by one sponsor;
+- a repeated threat pattern produced by several related actors;
+- or the cumulative defensive environment produced by several unrelated
+  ecosystems.
+
+Those are not interchangeable findings.
+
+---
+
+## 🎚️ Four Confidence Axes Prevent False Unification  
+
+For any apparent cluster, the pack should state four judgements separately.
+
+### Pattern Confidence  
+
+How confident are we that the incidents form a meaningful recurrence rather
+than ordinary background noise?
+
+### Organising-Mechanism Confidence  
+
+How confident are we about what joins the incidents—shared equipment, shared
+software, common provider, copied method, target selection, timing or command?
+
+### Common-Operator Confidence  
+
+How confident are we that the same actor or operational team conducted the
+incidents?
+
+### Strategic-Campaign Confidence  
+
+How confident are we that the incidents were selected, directed or exploited
+to produce a common strategic effect?
+
+The axes can diverge.
+
+For the current picture:
+
+| Cluster | Pattern | Organising mechanism | Common operator | Strategic campaign |
+|---|---|---|---|---|
+| U.S. multi-state water/PLC wave | High | High for exposed PLC/configuration pattern | Developing; stronger for Minnesota core | Developing / Iran-facing |
+| Cl0p cross-sector claims | High | High for scalable shared-software extortion | Probable Cl0p ecosystem | High criminal-extortion confidence; no Iran evidence |
+| CEVA logistics incident | Confirmed single incident | Developing | Open | No common campaign established |
+| Wider municipal disruption | Moderate recurrence | Mixed / unresolved | Low | Not established |
+
+This table should change when the evidence changes.
+
+It prevents:
+
+```text
+high pattern confidence
+→ wrongly reported as
+high common-operator confidence
+```
+
+and:
+
+```text
+high cumulative state burden
+→ wrongly reported as
+proof of one hostile command structure
+```
+
+---
+
 ## 🔗 Cross-Sector Timing Can Reveal Strategic Pressure  
 
 Essential systems depend on one another.
@@ -754,11 +884,18 @@ NUMBER OF INCIDENTS:
 COMMON TECHNOLOGY:
 COMMON TECHNIQUE:
 COMMON OPERATIONAL EFFECT:
+ORGANISING MECHANISM:
+PATTERN CONFIDENCE:
+ORGANISING-MECHANISM CONFIDENCE:
+COMMON-OPERATOR CONFIDENCE:
+STRATEGIC-CAMPAIGN CONFIDENCE:
 MANUAL FALLBACK:
 PHYSICAL EFFECT:
 GEOGRAPHIC CLUSTER:
 MILITARY-TIMING RELEVANCE:
 ATTRIBUTION STATUS:
+ACTOR CLAIM:
+FORMAL PUBLIC ATTRIBUTION:
 RIVAL EXPLANATIONS:
 TREND CHANGE:
 REVIEW DATE:
@@ -801,11 +938,9 @@ That is why the small disruption belongs in the timeline.
 
 📉 🌧️ 🧯 🏘️ 🧵 🚰 🕸️ — cumulative disruption; institutional exhaustion; containment; local systems; fragmented response; operational technology; attribution development.
 
----
-
 ## ✨ Stardust  
 
-small disruptions, campaign effect, accumulation, ambiguity, institutional exhaustion, local infrastructure, public confidence, data theft, strategic pressure, manual fallback, operational technology, industrial control systems, clustering, cross-sector timing
+small disruptions, campaign effect, accumulation, ambiguity, institutional exhaustion, local infrastructure, public confidence, data theft, strategic pressure, manual fallback, operational technology, industrial control systems, clustering, cross-sector timing, multiple threat ecosystems, organising mechanism, pattern confidence, common-operator confidence, cumulative defensive burden
 
 ---
 
@@ -824,7 +959,8 @@ It explains how repeated, limited, distributed, and deniable incidents can accum
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
 > - [🇬🇧 Britain Is Advertising An Exploitable Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) — *fragmented state response as strategic weakness*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
+> - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *separating common effect, common mechanism, common operator, and common sponsorship*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-16_
+*Last updated: 2026-08-16*

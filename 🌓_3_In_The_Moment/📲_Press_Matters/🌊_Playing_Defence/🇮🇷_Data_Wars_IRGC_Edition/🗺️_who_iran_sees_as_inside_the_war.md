@@ -1,5 +1,5 @@
 # 🗺️ Who Iran Sees As Inside The War  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-09  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-16  
 *The operational coalition map is wider than the formal list of belligerents.*  
 
 ---
@@ -90,6 +90,132 @@ The distributed structure of US essential infrastructure matters.
 An adversary does not need to penetrate one national control system where it can repeatedly reach smaller local systems performing the same essential function.
 
 That makes geographically distributed water, energy, transport, and municipal systems particularly important to monitor.
+
+### The Minnesota Claim Makes The Civilian Perimeter Explicit  
+
+The late-July water wave moves this analysis beyond inferred motive.
+
+On 12 August, APT IRAN reportedly stated that the attacks against Minnesota
+water systems were carried out with CyberAv3ngers and that the groups took
+direct responsibility. The statement described the operation as a warning of
+the ability to retaliate against countries posing a threat to Iran. KSTP
+reported the Telegram statement through Threat Beat at Auburn University's
+McCrary Institute.  
+[KSTP — *Hacking group linked to Iran claims responsibility for cyberattack on
+Minnesota water systems*](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)
+
+U.S. government reporting has previously described CyberAv3ngers as affiliated
+with the IRGC Cyber-Electronic Command. The FBI/EPA has separately confirmed
+that the wider multi-state wave involved malicious access to internet-facing
+PLCs, configuration changes, loss of monitoring and control, and—in parts of
+the wave—loss of pressure and flooding.  
+[CISA — *IRGC-Affiliated Cyber Actors Exploit PLCs in Multiple
+Sectors*](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)  
+[FBI and EPA — *Malicious Cyber Actors Targeting Water and Wastewater Sector
+PLCs*](https://www.fbi.gov/investigate/cyber/alerts/2026/malicious-cyber-actors-targeting-water-and-wastewater-sector-internet--facing-programmable-logic-controllers-causing-operational-disruptions)
+
+The claim does not independently prove authorship, state direction or one
+operator across every affected state.
+
+It does establish something narrower about the declared war map:
+
+```text
+small American municipal water systems
++
+civilian operational technology
++
+geographically distributed local targets
+=
+publicly presented by an Iran-linked actor as wartime warning infrastructure
+```
+
+That is an important shift.
+
+The actor's declared perimeter is not limited to:
+
+- the Pentagon;
+- federal networks;
+- military contractors;
+- or nationally administered infrastructure.
+
+It can include the machinery beneath ordinary local life.
+
+The political diversity of the affected jurisdictions also matters. A
+distributed infrastructure wave does not respect the domestic red-state/
+blue-state narrative boundary. That wider American consequence belongs in the
+separate U.S. stakeholder node; here, its significance is that **locality does
+not place a system outside the adversary's claimed war map**.
+
+---
+
+## 🌊 Hormuz Rhetoric Can Redraw The Perceived Map Before Policy Changes  
+
+On 12 August, President Trump said the United States had “total control” of the
+Strait of Hormuz. On 14 August, he said that after defeating Iran he would
+declare the strait “a territory of the United States,” adding that the United
+States had the blockade and controlled which ships passed.  
+[Reuters — *Trump says US has total control over Strait of
+Hormuz*](https://www.reuters.com/world/trump-says-us-has-total-control-over-strait-hormuz-2026-08-12/)  
+[Al Jazeera — *Trump says he will declare Strait of Hormuz a US
+territory*](https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory)
+
+On 15 August, a White House official reportedly told Wall Street Journal
+reporter Brian Schwartz that the territorial remark was a joke and that Trump
+had held no meetings with advisers about such a move. That is a reported
+explanation from an unnamed official—not a published policy document or a
+formal presidential withdrawal.  
+[Anadolu Agency via Yeni Şafak — *Trump's Hormuz territory claim was a joke,
+US media reports*](https://en.yenisafak.com/world/trumps-hormuz-territory-claim-was-a-joke-us-media-reports-3721932)
+
+The backtrack matters.
+
+It weakens the case that the remark announced a developed territorial policy.
+
+It does not make the original statement analytically disappear.
+
+Iranian officials had already been making competing claims that the strait was
+under Iranian management and control. The public U.S. territorial language
+therefore entered an existing contest over sovereignty, navigation, blockade
+and coercive authority.  
+[Reuters — *Iran, US make competing claims over control of Strait of
+Hormuz*](https://www.reuters.com/world/iran-says-strait-hormuz-is-under-its-control-fars-news-reports-2026-08-13/)
+
+For threat mapping, the sequence is:
+
+```text
+PRESIDENTIAL STATEMENT
+→ public territorial claim enters the information environment
+
+IRANIAN RESPONSE
+→ statement is interpreted inside an existing sovereignty conflict
+
+ANONYMOUS OFFICIAL EXPLANATION
+→ developed policy intent becomes less likely
+
+SIGNALLING EFFECT
+→ cannot be fully recalled
+```
+
+This is why the pack should record three separate fields:
+
+```text
+PUBLIC RHETORIC:
+FORMAL POLICY:
+ADVERSARY INTERPRETATION OR RESPONSE:
+```
+
+A “joke” can still:
+
+- harden the adversary's public framing;
+- make compromise appear like territorial surrender;
+- widen the audience for anti-colonial propaganda;
+- raise the domestic political cost of de-escalation;
+- and alter what an opponent believes the U.S. president wants from the war.
+
+The operational map is partly material.
+
+It is also built from statements that governments later wish had remained
+inside the room.
 
 ---
 
@@ -702,8 +828,15 @@ BASING OR LOGISTICS ROLE:
 DEFENSIVE OR INTERCEPTION ROLE:
 MARITIME OR ECONOMIC ROLE:
 IRANIAN PUBLIC WARNING OR THREAT:
+IRAN-LINKED ACTOR CLAIM:
+DECLARED TARGET OR RETALIATION LOGIC:
+PUBLIC RHETORIC:
+FORMAL POLICY:
+BACKTRACK / CLARIFICATION:
+ADVERSARY RESPONSE:
 KNOWN CYBER INCIDENTS SINCE 28 FEBRUARY 2026:
 ATTRIBUTION STATUS:
+FORMAL PUBLIC ATTRIBUTION:
 ESSENTIAL INFRASTRUCTURE EXPOSURE:
 OT / CONTROL-SYSTEM EXPOSURE:
 CROSS-SECTOR DEPENDENCIES:
@@ -744,6 +877,19 @@ This node draws on the source set established when the node was created, includi
 - Reuters reporting, 6 August 2026 — Saudi assessment of possible Iranian-aligned attacks against energy facilities, ports, airports, and other civilian and economic infrastructure.
 - UK government reporting confirming the wider British and allied air-defence, basing, maritime, and regional-support architecture.
 
+### Added on 2026-08-16
+
+- FBI/EPA confirmation of the multi-state U.S. water/PLC wave and its
+  operational effects.
+- KSTP/Threat Beat reporting of the APT IRAN and CyberAv3ngers responsibility
+  claim for the Minnesota core.
+- Reuters and Al Jazeera reporting on U.S. claims of control and possible
+  territorial treatment of the Strait of Hormuz.
+- Anadolu Agency reporting that a White House official subsequently described
+  the territorial remark as a joke and said no policy meetings had occurred.
+- Reuters reporting on the competing Iranian claim of management and control of
+  the strait.
+
 The map should be reviewed whenever:
 
 - a country authorises new basing;
@@ -764,7 +910,7 @@ The map should be reviewed whenever:
 
 ## ✨ Stardust  
 
-iran, irgc, war map, coalition, belligerents, basing, defensive support, gulf, europe, cyber targeting, critical infrastructure, water infrastructure, energy infrastructure, operational technology, proxy operations
+iran, irgc, war map, coalition, belligerents, basing, defensive support, gulf, europe, cyber targeting, critical infrastructure, water infrastructure, energy infrastructure, operational technology, proxy operations, Minnesota, CyberAv3ngers, APT IRAN, Strait of Hormuz, territorial rhetoric, signalling, policy backtrack
 
 ---
 
@@ -782,7 +928,8 @@ It maps the wider operational coalition that may shape Iranian and Iran-linked c
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
 > - [🏗️ What Counts As State Infrastructure](./🏗️_what_counts_as_state_infrastructure.md) — *functional infrastructure perimeter*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *incident chronology*
+> - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *keeping declared Iran-linked retaliation separate from simultaneous criminal and opportunistic activity*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-09_
+*Last updated: 2026-08-16*
