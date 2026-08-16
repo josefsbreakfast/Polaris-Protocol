@@ -1,5 +1,5 @@
 # 🔥 Shame as the Master Key of Fascist Manipulation  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-16  
 *Why shame — not hate, not ideology, not anger — is the primary fuel, tool, hook, and battlefield of authoritarian recruitment.*  
 
 ---
@@ -250,4 +250,4 @@ It illuminates shame as the primary emotional vector of radicalisation and provi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-16_
