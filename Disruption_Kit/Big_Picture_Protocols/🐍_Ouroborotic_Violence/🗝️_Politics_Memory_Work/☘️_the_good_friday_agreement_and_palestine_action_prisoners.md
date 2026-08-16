@@ -1,5 +1,5 @@
 # ☘️ The Good Friday Agreement and Palestine Action Prisoners  
-**First created:** 2025-12-17 | **Last updated:** 2026-01-15  
+**First created:** 2025-12-17 | **Last updated:** 2026-08-16  
 *How contemporary custodial practices erode the trust architecture of peace agreements.*  
 
 ---
@@ -72,4 +72,4 @@ It situates present conduct within the ethical framework of peace maintenance.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-15_
+_Last updated: 2026-08-16_
