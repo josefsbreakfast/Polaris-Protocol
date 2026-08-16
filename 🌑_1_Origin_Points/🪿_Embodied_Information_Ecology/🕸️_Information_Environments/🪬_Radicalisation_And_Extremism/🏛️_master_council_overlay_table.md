@@ -1,5 +1,5 @@
 # 🏛️ Master Council Overlay Table  
-**First created:** 2025-09-19 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-19 | **Last updated:** 2026-08-16  
 *Overlay table mapping CSE reports, political control, and far-right mobilisation across local councils.*  
 
 ---
@@ -31,4 +31,4 @@ It consolidates CSE report references, electoral shifts, and far-right mobilisat
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-168_
