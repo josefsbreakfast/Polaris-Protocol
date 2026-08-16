@@ -1,5 +1,5 @@
 # ⛳️ Section 159 Is a Linesman, Not a Punishment  
-**First created:** 2026-02-20 | **Last updated:** 2026-02-20  
+**First created:** 2026-02-20 | **Last updated:** 2026-08-17  
 *Clarifying the tie-break clause in the Equality Act as a boundary marker, not a quota mechanism.*
 
 ---
@@ -124,4 +124,4 @@ It contributes to the archive by clarifying statutory boundary conditions within
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-08-17_
