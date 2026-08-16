@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 20:43:29 UTC_
+_Generated on 2026-08-16 20:48:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -17,18 +17,6 @@ _Generated on 2026-08-16 20:43:29 UTC_
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
-      - [**🦎_Normalisation_Of_Redomination/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/)
-        - [`IMG_5799.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/IMG_5799.png)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/README.md)
-        - [`🌐_cia_scorpios_tia.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🌐_cia_scorpios_tia.md)
-        - [`🌷_limits_of_amab_led_subversion.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🌷_limits_of_amab_led_subversion.md)
-        - [`🐍_rocket_fuel_drinking_ouroboros.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🐍_rocket_fuel_drinking_ouroboros.md)
-        - [`👑_underinformed_sinker_of_ships_and_conspiracy_theorist.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/👑_underinformed_sinker_of_ships_and_conspiracy_theorist.md)
-        - [`💾_compu_global_hyper_mega_net.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/💾_compu_global_hyper_mega_net.md)
-        - [`😿_where_did_the_cheeseburger_go.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/😿_where_did_the_cheeseburger_go.md)
-        - [`🩸_the_witch_wound_jeffery_and_women_in_stem.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🩸_the_witch_wound_jeffery_and_women_in_stem.md)
-        - [`🪹_where_does_the_wind_take_the_feathers.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🪹_where_does_the_wind_take_the_feathers.md)
-        - [`🪹_why_se_asia_eats_the_west_for_breakfast_academically.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🪹_why_se_asia_eats_the_west_for_breakfast_academically.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**⚓️_Under_The_Sea/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/⚓️_Under_The_Sea/)
@@ -3390,6 +3378,18 @@ _Generated on 2026-08-16 20:43:29 UTC_
         - [`🪖_how_politicians_legally_strangle_the_mod.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🛡️_Defending_Realms/🪖_how_politicians_legally_strangle_the_mod.md)
         - [`🪖_respectfully_asking_the_mod_to_declassify.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🛡️_Defending_Realms/🪖_respectfully_asking_the_mod_to_declassify.md)
         - [`🪖_ribbons_and_ranks.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🛡️_Defending_Realms/🪖_ribbons_and_ranks.md)
+      - [**🦎_Normalisation_Of_Redomination/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🦎_Normalisation_Of_Redomination/)
+        - [`IMG_5799.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🦎_Normalisation_Of_Redomination/IMG_5799.png)
+        - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🦎_Normalisation_Of_Redomination/README.md)
+        - [`🌐_cia_scorpios_tia.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🦎_Normalisation_Of_Redomination/🌐_cia_scorpios_tia.md)
+        - [`🌷_limits_of_amab_led_subversion.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🦎_Normalisation_Of_Redomination/🌷_limits_of_amab_led_subversion.md)
+        - [`🐍_rocket_fuel_drinking_ouroboros.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🦎_Normalisation_Of_Redomination/🐍_rocket_fuel_drinking_ouroboros.md)
+        - [`👑_underinformed_sinker_of_ships_and_conspiracy_theorist.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🦎_Normalisation_Of_Redomination/👑_underinformed_sinker_of_ships_and_conspiracy_theorist.md)
+        - [`💾_compu_global_hyper_mega_net.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🦎_Normalisation_Of_Redomination/💾_compu_global_hyper_mega_net.md)
+        - [`😿_where_did_the_cheeseburger_go.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🦎_Normalisation_Of_Redomination/😿_where_did_the_cheeseburger_go.md)
+        - [`🩸_the_witch_wound_jeffery_and_women_in_stem.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🦎_Normalisation_Of_Redomination/🩸_the_witch_wound_jeffery_and_women_in_stem.md)
+        - [`🪹_where_does_the_wind_take_the_feathers.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🦎_Normalisation_Of_Redomination/🪹_where_does_the_wind_take_the_feathers.md)
+        - [`🪹_why_se_asia_eats_the_west_for_breakfast_academically.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🦎_Normalisation_Of_Redomination/🪹_why_se_asia_eats_the_west_for_breakfast_academically.md)
       - [**🧊_Antarctic_Biscuit_Defence_Directory/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧊_Antarctic_Biscuit_Defence_Directory/)
         - [`☕️_biscuit_press_index.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧊_Antarctic_Biscuit_Defence_Directory/☕️_biscuit_press_index.md)
         - [`☕️_press_release_001.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧊_Antarctic_Biscuit_Defence_Directory/☕️_press_release_001.md)
