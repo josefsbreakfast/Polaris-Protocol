@@ -1,5 +1,5 @@
 # 🧿 Dual-Use Narratives and the Illusion of Knowing
-**First created:** 2025-10-07  |  **Last updated:** 2025-10-19  
+**First created:** 2025-10-07  |  **Last updated:** 2026-08-16  
 *How information abundance replaces verification when walls, blockades, and dual‑use architectures shape what the world gets to “know.”*
 
 ---
@@ -137,4 +137,4 @@ dual‑use narratives; verification vacuum; DARVO; journalist targeting; epistem
 > - [🐝 HoneyBot Underwriting Fails] *TBC*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated 2025-10-19_
+_Last updated 2026-08-16_
