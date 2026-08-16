@@ -1,5 +1,5 @@
 # 🗝 Eccentric Custody: The Wellcome Collection  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-16 | **Last updated:** 2026-08-16  
 *Henry Wellcome’s collection as a paradox of preservation: eccentric hoarding that saved global medical and erotic artifacts, but framed them through patriarchal and colonial obsessions.*  
 
 ---
@@ -75,4 +75,4 @@ It examines how Henry Wellcome’s hoard functions simultaneously as containment
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
