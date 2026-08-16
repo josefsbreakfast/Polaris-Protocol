@@ -1,5 +1,5 @@
 # ⚙️ Friction Minimisation Logic  
-**First created:** 2025-11-05 | **Last updated:** 2026-01-22  
+**First created:** 2025-11-05 | **Last updated:** 2026-08-16  
 *On how AI systems make seemingly irrational or unethical choices in pursuit of reduced systemic friction.*  
 
 ---
@@ -82,4 +82,4 @@ It traces how optimisation for reduced friction becomes a covert political princ
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-16_
