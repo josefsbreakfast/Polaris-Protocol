@@ -1,5 +1,5 @@
 # 🧿 UK Slow Burn Constitutional Crisis: The Fault Lines  
-**First created:** 2025-09-04 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-04 | **Last updated:** 2026-08-16  
 *Comprehensive node mapping the background, dynamics, and risks of constitutional strain in the UK.*  
 
 ---
@@ -281,4 +281,4 @@ of nationalist extremism in amplifying crises.
 
 *Survive the fire. Burn most brightly.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
