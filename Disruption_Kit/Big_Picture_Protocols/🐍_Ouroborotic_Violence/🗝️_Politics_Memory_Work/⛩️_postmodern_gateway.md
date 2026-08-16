@@ -1,5 +1,5 @@
 # ⛩️ Postmodern Gateway  
-**First created:** 2025-09-29 | **Last updated:** 2025-12-27  
+**First created:** 2025-09-29 | **Last updated:** 2026-08-16  
 *A threshold moment where society must decide whether to honour its stated principles or collapse into regression.*  
 
 ---
@@ -67,4 +67,4 @@ It documents the idea that our present is not simply an era of knowledge change,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-27_  
+_Last updated: 2026-08-16_  
