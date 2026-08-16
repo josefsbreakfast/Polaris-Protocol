@@ -1,5 +1,5 @@
 # 🏛️ The Wannsee Template: How Bureaucratic Genocide Operates  
-**First created:** 2025-10-17 | **Last updated:** 2025-12-15  
+**First created:** 2025-10-17 | **Last updated:** 2026-08-16  
 *A practical explainer of the administrative pattern behind mass atrocity: vague authorisation, coded language, and coordinated logistics — without a single explicit order.*
 
 ---
@@ -140,4 +140,4 @@ The node exists to train early recognition of language drift, coordination ritua
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-08-16_
