@@ -1,5 +1,5 @@
 # 🧩 Structural Lethality in Custody  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-04 | **Last updated:** 2026-08-17  
 *Using the Epstein and McAfee deaths to examine how confinement architectures generate suicide risk — and how survivor narratives are displaced in the process.*
 
 ---
@@ -89,4 +89,4 @@ It situates high-profile custodial deaths within the wider landscape of carceral
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-17_
