@@ -1,5 +1,5 @@
 # 💔 When Violence Becomes IRL  
-**First created:** 2025-10-27 | **Last updated:** 2025-10-27  
+**First created:** 2025-10-27 | **Last updated:** 2026-08-16  
 *On the migration of networked harm from timeline to body.*
 
 ---
@@ -54,4 +54,4 @@ It documents the threshold where mediated hostility incarnates, reminding that n
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-27_
+_Last updated: 2026-08-16_
