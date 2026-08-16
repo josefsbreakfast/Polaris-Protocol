@@ -1,5 +1,5 @@
 # 🪬 Christian Nationalism as Fascist Laundering  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-27 | **Last updated:** 2026-08-16  
 *How “moderate” framings of Christian nationalism in the UK act to normalise authoritarian logics.*
 
 ---
@@ -63,7 +63,7 @@ This rhetorical move is a laundering mechanism. It makes Christian nationalism �
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
 
 ---
 
