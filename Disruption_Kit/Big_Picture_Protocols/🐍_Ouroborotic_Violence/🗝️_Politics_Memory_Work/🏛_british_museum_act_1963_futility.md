@@ -1,5 +1,5 @@
 # 🏛 British Museum Act (1963 Futility)  
-**First created:** 2025-09-13 | **Last updated:** 2026-05-02  
+**First created:** 2025-09-13 | **Last updated:** 2026-08-16  
 *How a post-imperial statute converted contested artefacts into permanent holdings, locking restitution into a cycle of legal denial and strategic fatigue.*
 
 ---
@@ -75,4 +75,4 @@ It documents how statute functions as containment: transforming contested owners
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-02_
+_Last updated: 2026-08-16_
