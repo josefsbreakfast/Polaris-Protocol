@@ -1,5 +1,5 @@
 # 🍷 Crypto Before It Was Cool  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-16  
 *On crypto-Judaism as a survival technology, identity firewall, and imperial recursion pattern.*
 
 ---
@@ -142,4 +142,4 @@ crypto-judaism, marranos, conversos, identity encryption, diaspora survival, imp
 > - [🎭 Narrative & Psych Ops](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md) — identity suppression and misclassification  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-16_
