@@ -1,5 +1,5 @@
 # 🌋 Why Fascist Recruiters Promise Visibility (“We See You”)  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-16  
 *Breaking down the weaponised emotional script behind “You are not invisible” — the foundational spell of every authoritarian pipeline.*  
 
 ---
@@ -231,4 +231,4 @@ It frames visibility as an essential emotional nutrient manipulated by authorita
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-26_
+_Last updated: 2026-08-16_
