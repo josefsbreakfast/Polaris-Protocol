@@ -1,5 +1,5 @@
-# ☕🫖 Is the Current UK Government a Threat to National Security?  
-**First created:** 2025-08-04 | **Last updated:** 2026-04-26  
+# ☕🫖 Is the Current UK Government a Threat to National Security? (c. 2024 Cabinet)  
+**First created:** 2025-08-04 | **Last updated:** 2026-08-16  
 *Threat assessment: whether UK government conduct presents systemic risks to national security and citizen safety.*  
 
 ---
@@ -211,4 +211,4 @@ It maps systemic governance risks where state actions may impact democratic resi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-26_  
+_Last updated: 2026-08-16_  
