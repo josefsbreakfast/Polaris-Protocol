@@ -1,5 +1,5 @@
 # ✨ Misinterpretation Risk in Geopolitical Signalling  
-**First created:** 2025-11-20 | **Last updated:** 2026-05-03  
+**First created:** 2025-11-20 | **Last updated:** 2026-08-17  
 *How diplomatic phrasing can be reinterpreted, mirrored, and repurposed across adversarial information environments.*  
 
 ---
@@ -129,4 +129,4 @@ It examines how diplomatic language moves across information environments, and h
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_  
+_Last updated: 2026-08-17_  
