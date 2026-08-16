@@ -1,5 +1,5 @@
 # 🦤 Nazi Nuclear Homeopathy Science  
-**First created:** 2025-02-14 | **Last updated:** 2025-12-11  
+**First created:** 2025-02-14 | **Last updated:** 2026-08-16  
 *How Nazi racism produced pseudo-physics so incoherent that it collapsed their own nuclear programme — an example of racist epistemology melting down in real time.*  
 
 ---
@@ -187,4 +187,4 @@ heavy water, nazi physics, christian supremacy, algorithmic misclassification, m
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_  
+_Last updated: 2026-08-16_  
