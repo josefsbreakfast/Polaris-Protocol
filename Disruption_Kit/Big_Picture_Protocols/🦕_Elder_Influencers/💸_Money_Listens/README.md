@@ -1,5 +1,5 @@
 # 💸 Money Listens  
-**First created:** 2025-10-06 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-06 | **Last updated:** 2026-08-16  
 *Lobbying, corporate interests, and the capture of the public domain.*  
 
 ---
@@ -39,4 +39,4 @@ It documents how wealth redefines the boundaries of public speech and state acco
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_  
+_Last updated: 2026-08-16_  
