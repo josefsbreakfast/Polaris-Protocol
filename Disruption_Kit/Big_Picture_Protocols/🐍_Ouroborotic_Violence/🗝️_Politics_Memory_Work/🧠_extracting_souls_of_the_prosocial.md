@@ -1,5 +1,5 @@
 # 🧠 Extracting Souls Of The Prosocial  
-**First created:** 2025-11-18 | **Last updated:** 2026-01-18  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-16  
 *How systems quietly extract labour, compliance, and emotional regulation from cooperative individuals.*  
 
 ---
@@ -53,4 +53,4 @@ Cross-references:
 • Weaponised Empathy
 • Gendered Susceptibility (Stepford Surface)
 
-_Last updated: 2026-01-18_
+_Last updated: 2026-08-16_
