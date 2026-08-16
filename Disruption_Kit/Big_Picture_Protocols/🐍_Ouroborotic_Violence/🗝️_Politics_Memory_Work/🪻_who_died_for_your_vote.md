@@ -1,5 +1,5 @@
 # 🪻 Who Died For Your Vote?  
-**First created:** 2025-12-18 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-18 | **Last updated:** 2026-08-16  
 *Remembering the women whose imprisonment, starvation, and deaths secured democratic rights in Britain.*  
 
 ---
@@ -89,4 +89,4 @@ It restores historical accuracy where sanitisation has replaced truth.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-08-16_
