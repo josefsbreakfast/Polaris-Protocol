@@ -1,5 +1,5 @@
 # 🧠 Swiss-Cheese Suicide Model in Custody  
-**First created:** 2025-10-04 | **Last updated:** 2026-02-05  
+**First created:** 2025-10-04 | **Last updated:** 2026-08-17  
 *Why “outlier” narratives mislead; how stacked biases punch holes in the net.*
 
 ---
@@ -89,4 +89,4 @@ Its purpose is not to speculate on intent but to expose how repeated institution
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-05_
+_Last updated: 2026-08-17_
