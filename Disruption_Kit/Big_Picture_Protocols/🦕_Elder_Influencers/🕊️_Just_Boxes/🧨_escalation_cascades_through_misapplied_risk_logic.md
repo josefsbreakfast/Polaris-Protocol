@@ -1,5 +1,5 @@
 # 🧨 Escalation cascades through misapplied risk logic  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-17  
 *How internal “high risk” signalling amplifies harm instead of containing it.*
 
 ---
@@ -164,4 +164,4 @@ It maps how institutions transform uncertainty into harm by repeatedly escalatin
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-17_
