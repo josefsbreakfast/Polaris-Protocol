@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 19:36:25 UTC_
+_Generated on 2026-08-16 19:43:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,16 +18,6 @@ _Generated on 2026-08-16 19:36:25 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/README.md)
-        - [`appeasement_loop_neon.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/appeasement_loop_neon.png)
-        - [`data_misuse_continuum_with_resilience_flowchart.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/data_misuse_continuum_with_resilience_flowchart.png)
-        - [`dual_use_tech_procurement_theorised.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/dual_use_tech_procurement_theorised.png)
-        - [`jewish_experience_diaspora_matrix_middleman_minorities.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/jewish_experience_diaspora_matrix_middleman_minorities.png)
-        - [`jewish_intersections_global.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/jewish_intersections_global.png)
-        - [`jewish_intersections_global_visual.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/jewish_intersections_global_visual.png)
-        - [`scale_of_scapegoating.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/scale_of_scapegoating.png)
-        - [`sound_ahavah_rabbah.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/sound_ahavah_rabbah.png)
-        - [`sound_harmonic_c_minor.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/sound_harmonic_c_minor.png)
         - [`sound_maqam_haqiz.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/sound_maqam_haqiz.png)
         - [`☕️_the_discombobulatory_mental_overload.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/☕️_the_discombobulatory_mental_overload.md)
         - [`☘️_the_good_friday_agreement_and_palestine_action_prisoners.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/☘️_the_good_friday_agreement_and_palestine_action_prisoners.md)
@@ -3036,6 +3026,17 @@ _Generated on 2026-08-16 19:36:25 UTC_
         - [`🪧_radical_and_respectable_the_dual_engine_of_reform.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🪧_radical_and_respectable_the_dual_engine_of_reform.md)
         - [`🪹_it_is_not_ai_by_itself.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🪹_it_is_not_ai_by_itself.md)
         - [`🫀_duty_of_care_reframed_as_reputational_risk.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🫀_duty_of_care_reframed_as_reputational_risk.md)
+      - [**🗝️_Politics_Memory_Work/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/)
+        - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/README.md)
+        - [`appeasement_loop_neon.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/appeasement_loop_neon.png)
+        - [`data_misuse_continuum_with_resilience_flowchart.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/data_misuse_continuum_with_resilience_flowchart.png)
+        - [`dual_use_tech_procurement_theorised.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/dual_use_tech_procurement_theorised.png)
+        - [`jewish_experience_diaspora_matrix_middleman_minorities.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/jewish_experience_diaspora_matrix_middleman_minorities.png)
+        - [`jewish_intersections_global.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/jewish_intersections_global.png)
+        - [`jewish_intersections_global_visual.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/jewish_intersections_global_visual.png)
+        - [`scale_of_scapegoating.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/scale_of_scapegoating.png)
+        - [`sound_ahavah_rabbah.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/sound_ahavah_rabbah.png)
+        - [`sound_harmonic_c_minor.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/sound_harmonic_c_minor.png)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/notes.txt)
     - [**♻️_Cybernetics/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/.🌱_Still_Growing/)
