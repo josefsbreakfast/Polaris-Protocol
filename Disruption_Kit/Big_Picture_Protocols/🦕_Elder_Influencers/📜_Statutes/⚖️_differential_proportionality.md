@@ -1,5 +1,5 @@
 # ⚖️ Differential Proportionality  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-06 | **Last updated:** 2026-08-17  
 *How proportionality standards in surveillance and enforcement expand or contract depending on social power.*
 
 ---
@@ -81,4 +81,4 @@ It traces how the legal ideal of proportionality bends under social and institut
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-08-17_
