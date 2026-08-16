@@ -1,5 +1,5 @@
 # 🧵 Policy Born in Fear  
-**First created:** 2025-12-12 | **Last updated:** 2026-01-04  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-17  
 *How post‑7/7 and post‑9/11 fear hardened into institutional architecture, producing governance systems driven by panic rather than evidence.*  
 
 ---
@@ -119,4 +119,4 @@ It documents how crisis‑driven responses solidify into long‑term governance 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-08-17_
