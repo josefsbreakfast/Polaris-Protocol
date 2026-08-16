@@ -1,6 +1,6 @@
 # 🧠 Philosemitism as Soft Expulsion Logic
 
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
+**First created:** 2025-12-14 | **Last updated:** 2026-08-16  
 *How non-Jewish Zionism reproduces exclusionary antisemitic outcomes through liberal, protective framing.*
 
 ---
@@ -121,4 +121,4 @@ philosemitism, non-jewish zionism, soft expulsion, conditional belonging, christ
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+*Last updated: 2026-08-16*
