@@ -1,5 +1,5 @@
 # 🐍 How a CVE Tool Becomes a Vector for Extremism  
-**First created:** 2025-11-01 | **Last updated:** 2026-02-20  
+**First created:** 2025-11-01 | **Last updated:** 2026-08-16  
 *When a counter-extremism model reproduces the very networks it was built to contain.*  
 
 ---
@@ -112,4 +112,4 @@ It documents how counter-extremism architectures reproduce their own subject mat
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-08-16_
