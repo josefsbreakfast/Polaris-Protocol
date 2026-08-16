@@ -1,5 +1,5 @@
 # 🍷 Next Year in Jerusalem  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-16  
 *On Seder liturgy, metaphorical geography, and the violence of forcing ritual language into nationalist literalism.*
 
 ---
@@ -98,4 +98,4 @@ seder, passover liturgy, next year in jerusalem, diaspora judaism, galut, ritual
 > - [🗝️ Power Is Not a Mitzvah](./🗝️_power_is_not_a_mitzvah.md) — responsibility, restraint, and authority  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-16_
