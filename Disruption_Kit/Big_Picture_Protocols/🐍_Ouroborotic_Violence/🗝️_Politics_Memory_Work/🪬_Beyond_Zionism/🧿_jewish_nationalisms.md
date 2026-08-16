@@ -1,5 +1,5 @@
 # 🧿 Jewish Nationalisms  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-16  
 *Exploring Jewish political imaginaries beyond the nation-state as salvation.*  
 
 ---
@@ -166,4 +166,4 @@ It contributes historical and political context for understanding Jewish self-de
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-08-16_
