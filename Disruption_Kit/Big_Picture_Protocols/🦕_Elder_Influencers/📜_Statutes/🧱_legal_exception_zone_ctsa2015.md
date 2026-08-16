@@ -1,5 +1,5 @@
 # 🧱 The Legal Exception Zone  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-17  
 *How CTSA 2015 created a statutory blind spot where Channel panels operate without transparency, oversight, or democratic accountability.*
 
 ---
@@ -201,4 +201,4 @@ It documents how CTSA 2015 created an administrative blind spot where Channel op
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2026-08-17_
