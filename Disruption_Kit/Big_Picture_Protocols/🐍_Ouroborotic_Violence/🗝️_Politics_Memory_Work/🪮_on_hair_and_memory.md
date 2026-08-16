@@ -1,5 +1,5 @@
 # 🪮 On Hair and Memory  
-**First created:** 2025-10-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-10-02 | **Last updated:** 2026-08-16  
 *On the forgetting and the rediscovery — how bodies archive politics when archives fail.*
 
 ---
@@ -83,4 +83,4 @@ It examines how bodily regrowth and material traces act as counter-archives agai
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-08-16_
