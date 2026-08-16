@@ -1,5 +1,5 @@
 # 🇺🇸 Why The US Is Willing To Risk Europe  
-**First created:** 2026-05-03 | **Last updated:** 2026-05-03  
+**First created:** 2026-05-03 | **Last updated:** 2026-08-17  
 *The strategic trade-offs that lead the United States to accept increased risk in Europe, and how those choices interact with alliance behaviour, deterrence, and long-term system stability.*
 
 ---
@@ -281,4 +281,4 @@ It maps the strategic trade-offs driving US decision-making and how those choice
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_
+_Last updated: 2026-08-17_
