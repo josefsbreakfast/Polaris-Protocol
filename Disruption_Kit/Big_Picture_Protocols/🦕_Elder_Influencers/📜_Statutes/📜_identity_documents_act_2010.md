@@ -1,5 +1,5 @@
 # 📜 Identity Documents Act 2010
-**First created:** 2025-09-26 | **Last updated:** 2025-11-03  
+**First created:** 2025-09-26 | **Last updated:** 2026-08-17  
 *Repeal law that ended the UK Identity Cards scheme — yet its logic traces directly to colonial and crisis-based systems of population control.*
 
 ---
@@ -120,4 +120,4 @@ It connects a seemingly technical repeal to the deeper imperial grammar of ident
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-03_
+_Last updated: 2026-08-17_
