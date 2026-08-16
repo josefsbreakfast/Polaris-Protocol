@@ -1,5 +1,5 @@
 # 🎭 Hypocrisy Profile — Blair-era Cabinet (2005–2010)  
-**First created:** 2025-08-29 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-29 | **Last updated:** 2026-08-16  
 *"Do as I say, not as I do."*  
 
 ---
@@ -34,4 +34,4 @@
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
