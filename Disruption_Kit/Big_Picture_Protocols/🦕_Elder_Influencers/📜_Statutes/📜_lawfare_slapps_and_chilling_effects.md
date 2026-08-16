@@ -1,5 +1,5 @@
 # 📜 Lawfare, SLAPPs & Chilling Effects  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-17  
 *How legal pressure replaces censorship — and why critique disappears without being banned.*
 
 ---
@@ -146,4 +146,4 @@ It documents how legal mechanisms can suppress critique indirectly — and why p
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-17_
