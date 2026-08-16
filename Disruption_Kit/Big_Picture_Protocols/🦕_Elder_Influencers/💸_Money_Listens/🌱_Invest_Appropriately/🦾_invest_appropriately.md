@@ -1,5 +1,5 @@
 # 🦾 Invest Appropriately  
-**First created:** 2025-10-03  |  **Last updated:** 2025-10-19  
+**First created:** 2025-10-03  |  **Last updated:** 2026-08-16  
 *On how the “deserving poor” mythology and the charitable-arms complex hollow out democracy from within.*
 
 ---
@@ -74,4 +74,4 @@ It maps how the charity system and moral-prestige economy deform democratic stru
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-16_
