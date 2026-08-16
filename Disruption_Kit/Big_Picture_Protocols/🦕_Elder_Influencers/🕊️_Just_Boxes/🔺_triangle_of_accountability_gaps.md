@@ -1,5 +1,5 @@
 # 🔺 Triangle of Accountability Gaps  
-**First created:** 2025-11-06 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-06 | **Last updated:** 2026-08-17  
 *How UK surveillance, data, and charity law combine to let private monitoring operate without oversight.*
 
 ---
@@ -118,4 +118,4 @@ It explains how UK surveillance, data, and charity frameworks intersect to creat
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-08-17_
