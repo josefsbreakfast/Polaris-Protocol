@@ -1,5 +1,5 @@
 # 💔 Social Injury and Radicalisation
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-16  
 *How extremism vulnerability emerges from social injury, humiliation, exclusion, and blocked life paths — not religion. Why belonging and dignity are the core protective factors.*  
 
 ---
@@ -118,4 +118,4 @@ It documents how extremism vulnerability emerges from social and emotional harm,
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-16_
