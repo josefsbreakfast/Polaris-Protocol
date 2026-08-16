@@ -1,5 +1,5 @@
 # 🌱 Invest Appropriately — Folder Overview
-**First created:** 2025-10-06 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-06 | **Last updated:** 2026-08-16  
 *Sub-cluster exploring the moral economy, philanthropy, and democratic capture by the charity regime.*
 
 ---
@@ -29,4 +29,4 @@ It includes both structural analysis and remedy design for rebalancing civic pow
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-16_
