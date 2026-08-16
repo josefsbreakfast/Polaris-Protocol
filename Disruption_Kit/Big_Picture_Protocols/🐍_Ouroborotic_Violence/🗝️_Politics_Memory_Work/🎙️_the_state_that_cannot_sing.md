@@ -1,5 +1,5 @@
 # 🎙️ The State That Cannot Sing
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-13  
+**First created:** 2025-11-06  |  **Last updated:** 2026-08-16  
 *On the silence that follows the Alexandrov Ensemble, and the risk of grief to power.*  
 
 ---
@@ -78,4 +78,4 @@ It interprets the un-reformed Alexandrov Ensemble as a sign of political hesitat
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-13_
+_Last updated: 2026-08-16_
