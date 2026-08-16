@@ -1,5 +1,5 @@
 # ⚖️ Prison Contractor Questions
-**First created:** 2025-12-17 | **Last updated:** 2025-12-19  
+**First created:** 2025-12-17 | **Last updated:** 2026-08-16  
 *Key governance questions raised when medical access in custody requires extraordinary external intervention.*
 
 ---
@@ -98,4 +98,4 @@ It provides a structured inquiry frame for assessing custodial healthcare failur
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-08-16_
