@@ -1,5 +1,5 @@
 # 🐻 Introjects and Idealising Other Men  
-**First created:** 2026-05-10 | **Last updated:** 2026-05-10  
+**First created:** 2026-05-10 | **Last updated:** 2026-08-16  
 *How unstable masculine identity structures can produce fixation, rivalry, imitation, and symbolic jealousy between similar men.*
 <!--She does know, sweet.-->
 ---
@@ -232,4 +232,4 @@ It maps how paternal inheritance, symbolic masculinity, and unstable identity st
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-10_
+_Last updated: 2026-08-16_
