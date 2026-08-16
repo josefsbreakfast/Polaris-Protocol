@@ -1,5 +1,5 @@
 # ⚖️ Strategic Lawsuits Against Public Participation (SLAPPs)  
-**First created:** 2025-09-04 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-04 | **Last updated:** 2026-08-16  
 *Mapping SLAPPs as systemic silencing: definitions, legal timelines, global context, case examples, and their unique dangers when applied to Palestine solidarity, Crown servants, and survivor testimony.*
 
 ---
@@ -176,4 +176,4 @@ By mapping legal timelines, global context, survivor erasure, Crown property rul
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
