@@ -1,5 +1,5 @@
 # 🪬 Authoritarianism Beyond Left Right  
-**First created:** 2025-09-19 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-19 | **Last updated:** 2026-08-16  
 *Why fascism adapts dynamically across the political spectrum and why ideological classification fails to contain it.*  
 
 ---
@@ -63,4 +63,4 @@ It maps how fascist and authoritarian behaviours transcend ideology, exposing bl
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
