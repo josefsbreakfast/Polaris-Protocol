@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 11:19:43 UTC_
+_Generated on 2026-08-16 12:41:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,10 +18,7 @@ _Generated on 2026-08-16 11:19:43 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**💔_Violence_IRL/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/README.md)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/notes.txt)
-        - [`💄_the_gendered_exposure_of_voice.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/💄_the_gendered_exposure_of_voice.md)
-        - [`🕯️_memorial_voice_lives_lost.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/🕯️_memorial_voice_lives_lost.md)
         - [`🕸️_digitally_networked_sexual_violence.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/🕸️_digitally_networked_sexual_violence.md)
         - [`🧨_marriage_camps_legalise_rape.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/💔_Violence_IRL/🧨_marriage_camps_legalise_rape.md)
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
@@ -4370,6 +4367,10 @@ _Generated on 2026-08-16 11:19:43 UTC_
         - [`🥔_potatoes_not_bombs.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/🥔_potatoes_not_bombs.md)
         - [`🩺_the_last_private_place_in_britain.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/🩺_the_last_private_place_in_britain.md)
         - [`🪞_the_monarchy_as_emotional_infrastructure.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/☕️_Post_Imperial_Weather/🪞_the_monarchy_as_emotional_infrastructure.md)
+      - [**💔_Violence_IRL/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/💔_Violence_IRL/)
+        - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/💔_Violence_IRL/README.md)
+        - [`💄_the_gendered_exposure_of_voice.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/💔_Violence_IRL/💄_the_gendered_exposure_of_voice.md)
+        - [`🕯️_memorial_voice_lives_lost.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/💔_Violence_IRL/🕯️_memorial_voice_lives_lost.md)
       - [**📼_Politicians_Gone_Wild/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/)
         - [**🛶_Flag_It_Yourself/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/)
           - [**📍_Postcard_List/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/📍_Postcard_List/)
