@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 23:20:53 UTC_
+_Generated on 2026-08-16 23:41:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -19,7 +19,6 @@ _Generated on 2026-08-16 23:20:53 UTC_
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/README.md)
-        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/notes.txt)
         - [`♻️_data_exhaust_uk_law.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/♻️_data_exhaust_uk_law.md)
         - [`⚖️_arms_exports_as_act_of_aggression.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md)
         - [`⚖️_case_note_dr_b_v_gmc_2023.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_case_note_dr_b_v_gmc_2023.md)
@@ -48,7 +47,6 @@ _Generated on 2026-08-16 23:20:53 UTC_
         - [`🧱_legal_exception_zone_ctsa2015.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🧱_legal_exception_zone_ctsa2015.md)
       - [**🕊️_Just_Boxes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/README.md)
-        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/notes.txt)
         - [`structural_convergence_of_custodial_suicide_risk.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/structural_convergence_of_custodial_suicide_risk.png)
         - [`targeting_jewish_dissent_1980s_present.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/targeting_jewish_dissent_1980s_present.png)
         - [`targetting_jewish_dissent_1980s_plasticbox.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕊️_Just_Boxes/targetting_jewish_dissent_1980s_plasticbox.png)
@@ -174,7 +172,6 @@ _Generated on 2026-08-16 23:20:53 UTC_
         - [`🪩_weaponised_joy.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪩_weaponised_joy.md)
       - [**🛟_Borders_Boats_Walls/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/README.md)
-        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/notes.txt)
         - [`⚖️_coercive_control_in_border_policy.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md)
         - [`⚖️_containment_contract_trace_hotel_edition.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_containment_contract_trace_hotel_edition.md)
         - [`🌀_forced_migration_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🌀_forced_migration_as_governance.md)
