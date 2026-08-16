@@ -1,5 +1,5 @@
 # 🕯 Containment Through Loneliness  
-**First created:** 2025-09-07 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-07 | **Last updated:** 2026-08-16  
 *Mapping loneliness as an engineered containment strategy across state, digital, and institutional systems.*  
 
 ---
@@ -52,4 +52,4 @@ It documents isolation as a deliberate tactic of suppression, showing its recurr
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
