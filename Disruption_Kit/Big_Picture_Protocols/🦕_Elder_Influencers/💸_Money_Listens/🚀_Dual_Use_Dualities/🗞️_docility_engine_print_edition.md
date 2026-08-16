@@ -1,5 +1,5 @@
 # 🗞️ Docility Engine Print Edition  
-**First created:** 2025-10-20 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-20 | **Last updated:** 2026-08-16  
 *On the algorithmic training of calmness, and the quieting of the written word.*
 
 ---
@@ -195,4 +195,4 @@ It investigates how moderation architectures trained to reduce harm can, in seco
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2026-08-16_
