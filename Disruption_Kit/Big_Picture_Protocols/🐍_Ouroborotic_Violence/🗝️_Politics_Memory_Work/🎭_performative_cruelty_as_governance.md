@@ -1,5 +1,5 @@
 # 🎭 Performative Cruelty as Governance  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-08  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-16  
 *How spectacle, punishment, and insecurity replace legality as a source of authority.*  
 
 ---
@@ -148,4 +148,4 @@ It documents how punishment spectacle replaces legality as a source of authority
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-08-16_
