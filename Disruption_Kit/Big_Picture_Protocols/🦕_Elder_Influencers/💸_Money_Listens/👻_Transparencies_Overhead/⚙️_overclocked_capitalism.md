@@ -1,5 +1,5 @@
 # ⚙️ Overclocked Capitalism — When Systems Outrun the Body  
-**First created:** 2025-10-18 | **Last updated:** 2025-12-09  
+**First created:** 2025-10-18 | **Last updated:** 2026-08-16  
 *Acceleration, exhaustion, and the political economy of attention.*  
 
 ---
@@ -118,4 +118,4 @@ It interprets burnout, polarisation, and diagnosis not as personal crises but as
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-08-16_
