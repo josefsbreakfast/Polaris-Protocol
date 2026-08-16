@@ -1,5 +1,5 @@
 # 🇪🇺 Two Speed Europe In Defence  
-**First created:** 2026-05-03 | **Last updated:** 2026-05-03  
+**First created:** 2026-05-03 | **Last updated:** 2026-08-17  
 *How geography, history, and threat perception create divergent defence timelines within Europe, and why defence behaviour does not map cleanly onto EU political structure.*
 
 ---
@@ -228,4 +228,4 @@ It maps how geography, history, and capability create divergent timelines within
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_
+_Last updated: 2026-08-17_
