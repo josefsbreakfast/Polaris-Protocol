@@ -1,5 +1,5 @@
 # 🩸 The Repetition Mechanism
-**First created:** 2025-10-06 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-06 | **Last updated:** 2026-08-16  
 *Selective enforcement as a rehearsal of genocidal permissibility.*
 
 ---
@@ -47,4 +47,4 @@ It situates contemporary classification bias within historical patterns of permi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
