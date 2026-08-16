@@ -1,5 +1,5 @@
 # 🐦‍🔥 Polaris Node: The Signature Trap  
-**First created:** 2025-08-11 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-11 | **Last updated:** 2026-08-16  
 *How a solidarity petition became a data ingestion trap for behavioural profiling and containment.*  
 
 ---
@@ -68,5 +68,5 @@ It records how collective acts of solidarity can be inverted into raw material f
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
 
