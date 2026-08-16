@@ -1,5 +1,5 @@
 # ⚖️ Retrospective Law in a Prospective World  
-**First created:** 2025-11-04 | **Last updated:** 2026-01-04  
+**First created:** 2025-11-04 | **Last updated:** 2026-08-17  
 *On the temporal gap between harm and accountability.*  
 
 ---
@@ -97,4 +97,4 @@ It analyses how legal systems trail behind technological power, mapping the stru
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-08-17_
