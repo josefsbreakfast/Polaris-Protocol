@@ -1,5 +1,5 @@
 # 💍 Marriage as State Containment Trope  
-**First created:** 2025-11-07 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-17  
 *How marriage is repeatedly mobilised as a symbolic and administrative container for social risk, dependency, and dissent.*  
 
 ---
@@ -181,4 +181,4 @@ It documents how marriage is repeatedly leveraged as a state-level containment m
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-08-17_
