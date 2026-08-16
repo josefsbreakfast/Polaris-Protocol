@@ -1,5 +1,5 @@
 # 🧥 Empire’s Old Coat  
-**First created:** 2025-10-01 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-01 | **Last updated:** 2026-08-16  
 *On Britain’s white commentary about Israel/Palestine and the recycled colonial wardrobe it comes from.*  
 
 ---
@@ -45,4 +45,4 @@ It traces how British commentary on Israel/Palestine repeats colonial tones, era
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
