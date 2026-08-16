@@ -1,5 +1,5 @@
 # 🩺 Frankenstack Intake & Response Protocol  
-**First created:** 2025-10-05  |  **Last updated:** 2025-10-18  
+**First created:** 2025-10-05  |  **Last updated:** 2026-08-16  
 *A clinician-style playbook for recognising, documenting, and de-escalating stack-induced dysregulation — and introducing the concept to the public, safely.*  
 
 ---
@@ -95,4 +95,4 @@ It establishes a common language for recognising and mitigating psychosocial har
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
