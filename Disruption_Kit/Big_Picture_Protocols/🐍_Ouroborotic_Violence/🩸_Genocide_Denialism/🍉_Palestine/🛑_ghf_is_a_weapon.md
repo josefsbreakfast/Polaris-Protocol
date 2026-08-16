@@ -1,5 +1,5 @@
 # 🛑 GHF Is a Weapon  
-**First created:** 2025-08-02 | **Last updated:** 2026-01-08  
+**First created:** 2025-08-02 | **Last updated:** 2026-08-16  
 *A pacification operation deployed after ceasefire to neutralise Western moral pressure.*  
 
 ---
@@ -160,4 +160,4 @@ It documents how humanitarian framing can be deployed as a post-ceasefire contai
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-08-16_
