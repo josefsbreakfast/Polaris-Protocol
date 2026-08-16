@@ -1,5 +1,5 @@
 # 🗝️ Illusion of Caldicott Compliance  
-**First created:** 2025-09-21 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-21 | **Last updated:** 2026-08-16  
 *The dangerous fiction of relying on decayed custodianship and historic record-keepers as if Caldicott standards were timelessly enforced.*  
 
 ---
@@ -109,4 +109,4 @@ It exposes how institutions invoke historic principles as cover for neglect, tre
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
