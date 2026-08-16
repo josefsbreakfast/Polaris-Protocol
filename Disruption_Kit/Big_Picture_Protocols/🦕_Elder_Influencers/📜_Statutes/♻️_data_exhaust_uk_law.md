@@ -1,5 +1,5 @@
 # ♻️ Data Exhaust in UK Law  
-**First created:** 2025-12-08 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-08 | **Last updated:** 2026-08-17  
 *How UK data protection law treats the “leftover” traces of digital behaviour.*  
 
 ---
@@ -491,4 +491,4 @@ data exhaust, uk gdpr, pecr, behavioural profiling, metadata, zombie data, right
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-17_
