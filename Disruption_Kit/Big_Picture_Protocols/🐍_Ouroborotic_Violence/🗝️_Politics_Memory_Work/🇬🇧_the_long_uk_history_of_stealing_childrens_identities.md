@@ -1,5 +1,5 @@
 # 🇬🇧 The Long UK History of Stealing Children’s Identities  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-24 | **Last updated:** 2026-08-16  
 *How British institutions repeatedly treated children’s identities as usable state resources.*  
 
 ---
@@ -206,4 +206,4 @@ It documents how British institutions repeatedly treated children’s identities
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-08-16_
