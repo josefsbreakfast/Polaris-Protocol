@@ -1,5 +1,5 @@
 # 🪬 Appeasement Economics  
-**First created:** 2025-09-19 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-19 | **Last updated:** 2026-08-16  
 *How economic alignment with authoritarian regimes creates systemic blind spots and accelerates fascist capture.*  
 
 ---
@@ -63,4 +63,4 @@ It documents how capital alignment accelerates authoritarian capture and weakens
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
