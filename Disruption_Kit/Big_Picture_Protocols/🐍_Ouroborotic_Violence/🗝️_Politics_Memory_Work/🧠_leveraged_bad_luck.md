@@ -1,5 +1,5 @@
 # 🧠 Leveraged Bad Luck  
-**First created:** 2025-08-20 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-20 | **Last updated:** 2026-08-16  
 *A doctrine file mapping how crises emerge through factor convergence and opportunistic leverage, rather than authorship or prophecy.*  
 
 ---
@@ -81,4 +81,4 @@ It maps how crises emerge through opportunistic convergence, puncturing myths of
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
