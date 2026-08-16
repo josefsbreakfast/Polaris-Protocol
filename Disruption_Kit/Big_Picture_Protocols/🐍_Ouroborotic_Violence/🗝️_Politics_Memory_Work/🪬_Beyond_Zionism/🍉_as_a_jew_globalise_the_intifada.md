@@ -1,5 +1,5 @@
 # 🍉 As a Jew: “Globalise the Intifada”  
-**First created:** 2025-12-17 | **Last updated:** 2026-01-24  
+**First created:** 2025-12-17 | **Last updated:** 2026-08-16  
 *A Jewish, UK-based analysis of how political rhetoric misuses antisemitism frameworks, collapses Jewish plurality, and heightens risk for racialised groups.*  
 
 ---
@@ -226,4 +226,4 @@ It documents a survivor-led, historically grounded intervention into contemporar
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-24_
+_Last updated: 2026-08-16_
