@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 12:52:39 UTC_
+_Generated on 2026-08-16 12:59:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -201,13 +201,6 @@ _Generated on 2026-08-16 12:52:39 UTC_
           - [`🩺_frankenstack_intake_and_response_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🩺_frankenstack_intake_and_response_protocol.md)
           - [`🪼_frankenstack_social_field_effects.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🪼_frankenstack_social_field_effects.md)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/notes.txt)
-        - [`❌_the_alt_right_is_not_the_far_right.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/❌_the_alt_right_is_not_the_far_right.md)
-        - [`🌀_authoritarian_personality_loop.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌀_authoritarian_personality_loop.md)
-        - [`🌋_why_fascist_recruiters_promise_visibility.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌋_why_fascist_recruiters_promise_visibility.md)
-        - [`🌍_climate_panic_routing.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌍_climate_panic_routing.md)
-        - [`🌐_pre_infiltration_of_digital_male_spaces.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🌐_pre_infiltration_of_digital_male_spaces.md)
-        - [`🍌_nazis_are_the_og_mediocre_white_men.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🍌_nazis_are_the_og_mediocre_white_men.md)
-        - [`🎧_music_as_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🎧_music_as_pipeline.md)
         - [`🏛️_elite_normalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🏛️_elite_normalisation.md)
         - [`🏛️_master_council_overlay.csv`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🏛️_master_council_overlay.csv)
         - [`🏛️_master_council_overlay_table.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🏛️_master_council_overlay_table.md)
@@ -4126,11 +4119,18 @@ _Generated on 2026-08-16 12:52:39 UTC_
         - [`🧲_what_bcg_takes_from_the_uk_and_palestine.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🧲_what_bcg_takes_from_the_uk_and_palestine.md)
         - [`🧿_unit_8200_is_not_hiding_what_it_is.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🧿_unit_8200_is_not_hiding_what_it_is.md)
         - [`🩺_fixing_the_nhs_frankenstack.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🩺_fixing_the_nhs_frankenstack.md)
-      - [**🪬_Radicalisation_Extremism/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_Extremism/)
-        - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_Extremism/README.md)
-        - [`☕🫖_uk_gov_national_security_risk.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_Extremism/☕🫖_uk_gov_national_security_risk.md)
-        - [`✍️_crime_writing_as_normalisation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_Extremism/✍️_crime_writing_as_normalisation.md)
-        - [`❌_negative_evidence_index.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_Extremism/❌_negative_evidence_index.md)
+      - [**🪬_Radicalisation_And_Extremism/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/)
+        - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/README.md)
+        - [`☕🫖_uk_gov_national_security_risk.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/☕🫖_uk_gov_national_security_risk.md)
+        - [`✍️_crime_writing_as_normalisation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/✍️_crime_writing_as_normalisation.md)
+        - [`❌_negative_evidence_index.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/❌_negative_evidence_index.md)
+        - [`❌_the_alt_right_is_not_the_far_right.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/❌_the_alt_right_is_not_the_far_right.md)
+        - [`🌀_authoritarian_personality_loop.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🌀_authoritarian_personality_loop.md)
+        - [`🌋_why_fascist_recruiters_promise_visibility.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🌋_why_fascist_recruiters_promise_visibility.md)
+        - [`🌍_climate_panic_routing.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🌍_climate_panic_routing.md)
+        - [`🌐_pre_infiltration_of_digital_male_spaces.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🌐_pre_infiltration_of_digital_male_spaces.md)
+        - [`🍌_nazis_are_the_og_mediocre_white_men.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🍌_nazis_are_the_og_mediocre_white_men.md)
+        - [`🎧_music_as_pipeline.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🎧_music_as_pipeline.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
     - [**🕸️🧿_The_Observed_Information_Space/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/)
