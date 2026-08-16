@@ -1,5 +1,5 @@
 # 🇬🇧 Why the UK Is in the Falklands  
-**First created:** 2026-04-24 | **Last updated:** 2026-05-03  
+**First created:** 2026-04-24 | **Last updated:** 2026-08-17  
 *History, population, sovereignty, ecology, and the wider strategic system shaping British control of the Falkland Islands.*  
 
 ---
@@ -243,4 +243,4 @@ It provides structured context for understanding a sovereignty dispute shaped by
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_  
+_Last updated: 2026-08-17_  
