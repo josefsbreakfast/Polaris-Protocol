@@ -1,5 +1,5 @@
 # ⚖️ Legal Hooks for Muted Books  
-**First created:** 2025-09-17 | **Last updated:** 2026-01-15  
+**First created:** 2025-09-17 | **Last updated:** 2026-08-16  
 *Legal, historical, and structural frameworks for understanding suppression of books and authors through silence rather than prohibition.*  
 
 ---
@@ -370,4 +370,4 @@ It documents how contemporary suppression operates through silence, risk logic, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-15_
+_Last updated: 2026-08-16_
