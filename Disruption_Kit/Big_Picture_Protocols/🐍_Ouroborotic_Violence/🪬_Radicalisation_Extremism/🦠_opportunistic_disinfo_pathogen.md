@@ -1,5 +1,5 @@
 # 🦠 Opportunistic Disinformation Pathogen  
-**First created:** 2025-10-05 | **Last updated:** 2026-01-09  
+**First created:** 2025-10-05 | **Last updated:** 2026-08-16  
 *How disinformation evolved by exploiting an open digital host rather than following a central plan.*  
 
 ---
@@ -164,4 +164,4 @@ It documents how disinformation escalated through ecological opportunity rather 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-08-16_
