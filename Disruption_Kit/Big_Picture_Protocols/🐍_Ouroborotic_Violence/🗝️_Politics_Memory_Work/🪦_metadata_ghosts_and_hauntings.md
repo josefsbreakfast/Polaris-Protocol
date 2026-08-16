@@ -1,5 +1,5 @@
 # 🪦 Metadata Ghosts and Hauntings  
-**First created:** 2025-08-12 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-12 | **Last updated:** 2026-08-16  
 *Containment & anomaly typologies in Polaris visibility diagnostics.*  
 
 ---
@@ -98,5 +98,5 @@ It defines ghost and haunting phenomena in visibility metrics and situates them 
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
 
