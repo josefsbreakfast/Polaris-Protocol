@@ -1,5 +1,5 @@
 # 🦕 Elder Influencers  
-**First created:** 2025-10-15 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-15 | **Last updated:** 2026-08-16  
 *Where empire ages but never dies — the long shadow of legacy power.*  
 
 ---
@@ -29,11 +29,11 @@ Each subfolder maps one artery in the living body of empire — its financial bl
 
 | Folder | Focus |
 |:--|:--|
-| [💸 Money Listens](./💸_Money_Listens/README.md) | Philanthropy, charity reform, and donor influence disguised as virtue. |
-| [📜 Statutes](./📜_Statutes/README.md) | Legal architectures that fossilise elite power and moralise hierarchy. |
-| [🕊️ Just Boxes](./🕊️_Just_Boxes/README.md) | Custodial violence and the lethal edges of respectability. |
-| [🕸️ World Webs](./🕸️_World_Webs/README.md) | Geopolitical entanglements and diasporic continuities of empire. |
-| [🛟 Borders, Boats, Walls](./🛟_Borders_Boats_Walls/README.md) | Nationhood as containment — migration and belonging under inherited logics. |
+| [💸 Money Listens] | Philanthropy, charity reform, and donor influence disguised as virtue. |
+| [📜 Statutes] | Legal architectures that fossilise elite power and moralise hierarchy. |
+| [🕊️ Just Boxes] | Custodial violence and the lethal edges of respectability. |
+| [🕸️ World Webs] | Geopolitical entanglements and diasporic continuities of empire. |
+| [🛟 Borders, Boats, Walls] | Nationhood as containment — migration and belonging under inherited logics. |
 
 ---
 
@@ -113,10 +113,10 @@ It maps the persistence of old power and its modern guises — tracing how empir
 
 > 📡 Cross‑references:
 > 
-> - [✨ Glimmer Is Taxable](../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/README.md) — *moral satire of virtue economies*  
-> - [🪄 Expression Of Norms](../🪄_Expression_Of_Norms/README.md) — *cultural compliance and narrative enforcement*  
-> - [🌀 Systems & Governance](../🌀_System_Governance/README.md) — *bureaucratic architectures of control*  
+> - [✨ Glimmer Is Taxable] — *moral satire of virtue economies*  
+> - [🪄 Expression Of Norms] — *cultural compliance and narrative enforcement*  
+> - [🌀 Systems & Governance] — *bureaucratic architectures of control*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-16_
