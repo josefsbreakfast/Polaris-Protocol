@@ -1,5 +1,5 @@
 # 🇬🇧 Cross-Legal & Law-Enforcement Response to Genocide Risk  
-**First created:** 2025-10-11 |  **Last updated:** 2026-01-06  
+**First created:** 2025-10-11 |  **Last updated:** 2026-08-16  
 *How parallel tiers of law and enforcement must activate when domestic capture blocks prevention duties.*
 
 ---
@@ -145,4 +145,4 @@ It describes how legal, oversight, and professional systems interlock to meet bo
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-16_
