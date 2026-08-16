@@ -1,5 +1,5 @@
 # 🦎 Normalisation Of Redomination  
-**First created:** 2026-02-02 | **Last updated:** 2026-05-04  
+**First created:** 2026-02-02 | **Last updated:** 2026-08-16  
 *How STEM-adjacent systems regress under pressure by reframing power consolidation as rational stability*
 
 ---
@@ -258,4 +258,4 @@ It documents how high-legitimacy systems regress under pressure by reframing pow
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-20_
+_Last updated: 2026-08-16_
