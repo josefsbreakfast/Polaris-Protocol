@@ -1,5 +1,5 @@
 # ♻️ Declining Ore Grades & The End Of Substitution Myths  
-**First created:** 2025-12-14 | **Last updated:** 2026-05-03  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-17  
 *Why material depletion constrains substitution and challenges “just substitute it” economic assumptions.*  
 
 ---
@@ -179,4 +179,4 @@ It examines how physical depletion constrains economic assumptions, particularly
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_  
+_Last updated: 2026-08-17_  
