@@ -1,5 +1,5 @@
 # 🧮 Krill Not Doris
-**First created:** 2026-05-31 | **Last updated:** 2026-05-31  
+**First created:** 2026-05-31 | **Last updated:** 2026-08-16  
 *A governance node on strategic compute, maritime resilience, and why routine citizen scoring is a bad use of national data capability.*
 
 ## 🛰️ Orientation
@@ -147,4 +147,4 @@ It distinguishes necessary national data capability from unsustainable domestic 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-31_
+_Last updated: 2026-08-16_
