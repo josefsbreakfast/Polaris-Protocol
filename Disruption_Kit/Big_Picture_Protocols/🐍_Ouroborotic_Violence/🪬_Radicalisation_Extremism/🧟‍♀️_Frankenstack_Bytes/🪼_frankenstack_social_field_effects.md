@@ -1,5 +1,5 @@
 # 🪼 Frankenstack Social Field Effects  
-**First created:** 2025-10-05 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-05 | **Last updated:** 2026-08-16  
 *Hybrid stacks not only modulate individuals but also destabilise their networks — using excitability and inhibition at scale.*
 
 ---
@@ -70,4 +70,4 @@ It complements *The Frankenstack Problem* and *Frankenstack Radicalisation Hypot
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
