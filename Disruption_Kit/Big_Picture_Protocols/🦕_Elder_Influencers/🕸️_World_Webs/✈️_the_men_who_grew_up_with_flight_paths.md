@@ -1,5 +1,5 @@
 # ✈️ The Men Who Grew Up With Flight Paths  
-**First created:** 2026-01-09 | **Last updated:** 2026-05-03  
+**First created:** 2026-01-09 | **Last updated:** 2026-08-17  
 *How historical security conditioning, aviation signalling, and ambiguity interact to shape perception and escalation risk.*  
 
 ---
@@ -162,4 +162,4 @@ It examines how aviation data, historical conditioning, and interpretive dynamic
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_  
+_Last updated: 2026-08-17_  
