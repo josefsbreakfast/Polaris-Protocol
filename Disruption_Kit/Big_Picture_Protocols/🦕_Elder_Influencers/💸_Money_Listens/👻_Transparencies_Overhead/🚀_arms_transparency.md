@@ -1,5 +1,5 @@
 # 🚀 Arms Transparency  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-04 | **Last updated:** 2026-08-16  
 *On the performative language of transparency in the arms trade — where disclosure becomes its own camouflage.*
 
 ---
@@ -102,4 +102,4 @@ It examines how the rhetoric of openness in the arms sector conceals material pi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-16_
