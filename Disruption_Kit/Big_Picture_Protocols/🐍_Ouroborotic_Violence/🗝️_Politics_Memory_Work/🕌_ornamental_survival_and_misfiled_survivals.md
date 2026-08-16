@@ -1,5 +1,5 @@
 # 🕌 Ornamental Survival & Misfiled Survivals — A Mega Node (Berlin/Vienna 1910–1945 → Archive Politics Today)
-**First created:** 2025-10-02 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-02 | **Last updated:** 2026-08-16  
 *How ornamental “Islam” survived while living communities were erased; how paperwork hid what bodies remembered; and why archive politics (incl. Israel’s) still gate the record.*
 
 ---
@@ -162,4 +162,4 @@ It documents how ornamental forms persist while communities are erased, and equi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
