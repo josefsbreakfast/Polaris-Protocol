@@ -1,5 +1,5 @@
 # 🦾 Dual Uses That Never Come  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-04 | **Last updated:** 2026-08-16  
 *On the permanent promise of “dual-use” innovation — and how veterans’ trauma becomes a marketing loop for more weapons.*
 
 ---
@@ -83,5 +83,5 @@ It documents how trauma and rehabilitation are recycled as justification for fur
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-16_
 
