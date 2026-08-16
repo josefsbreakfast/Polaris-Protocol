@@ -1,5 +1,5 @@
 # 🍯 HoneyBot™ — A Dual-Use Thought Experiment  
-**First created:** 2025-10-07 | **Last updated:** 2025-12-15  
+**First created:** 2025-10-07 | **Last updated:** 2026-08-16  
 *A satire that drifts into a policy warning about sex-tech, surveillance, and dual-use research.*
 
 > *Or: British men, once again, being undone by their love of bossy women.*  
@@ -100,4 +100,4 @@ Because there is a non-zero chance that The Men™, left unattended for more tha
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-08-16_
