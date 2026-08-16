@@ -1213,16 +1213,6 @@ Most importantly:
 
 ### Citation Notes
 
-[^1]: HMICFRS, [*An inspection of vetting, misconduct, and misogyny in the police service*](https://hmicfrs.justiceinspectorates.gov.uk/publication-html/an-inspection-of-vetting-misconduct-and-misogyny-in-the-police-service/); HMICFRS, [*A report into the effectiveness of integrity arrangements in the Metropolitan Police Service*](https://hmicfrs.justiceinspectorates.gov.uk/publication-html/metropolitan-police-integrity-report-july-2026/). These reports establish documented governance and culture failures; they do not establish that every adverse outcome has the same cause.
-[^2]: College of Policing, [*Code of Ethics*](https://www.college.police.uk/ethics/code-of-ethics) and [*Ethical policing principles*](https://www.college.police.uk/ethics/code-of-ethics/principles), revised 2024.
-[^3]: Home Office, [*From local to national: a new model for policing*](https://www.gov.uk/government/publications/from-local-to-national-a-new-model-for-policing/from-local-to-national-a-new-model-for-policing-accessible), 26 January 2026. This is a government proposal and diagnosis, not an independent finding that centralisation will produce the claimed benefits.
-[^4]: *The Times*, [*Police chiefs warn Andy Burnham over early release scheme*](https://www.thetimes.com/uk/politics/article/andy-burnham-early-release-keep-pc-harper-killers-jail-8px3fp6w0), 11 August 2026. This source is used only for the fact and content of the collective intervention. The node draws its own structural inference from that demonstrated capacity to coordinate.
-[^5]: [*The Policing Protocol Order 2023*](https://www.legislation.gov.uk/uksi/2023/649/made), especially the schedule governing the Home Secretary, police and crime commissioners and chief constables. See also HMICFRS, [*Greater clarity on the definition of operational independence needed to maintain police impartiality*](https://hmicfrs.justiceinspectorates.gov.uk/news/news-feed/greater-clarity-on-definition-of-operational-independence-needed-to-maintain-police-impartiality/), 10 September 2024, for the continuing ambiguity identified by the inspectorate.
-[^6]: IOPC, [*Deaths during or following police contact 2025/26: overall findings*](https://www.policeconduct.gov.uk/our-work/research-and-statistics/deaths-during-or-following-police-contact-2025-2026/overall-findings), 30 July 2026. The IOPC warns that the five categories vary widely and should not be aggregated for trend analysis; inclusion does not itself establish police causation or misconduct.
-[^7]: Home Office, [*Future of the Undercover Policing Inquiry*](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry), published 16 July and updated 29 July 2026; and [*Consultation on the future of the Undercover Policing Inquiry*](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry/consultation-on-the-future-of-the-undercover-policing-inquiry). The consultation excludes Tranches 1–3 and does not reopen evidence.
-[^8]: Home Office, [*Public perceptions of policing: a review of research and literature*](https://www.gov.uk/government/publications/public-perceptions-of-policing-a-review-of-research-and-literature/public-perceptions-of-policing-a-review-of-research-and-literature), March 2023; College of Policing, [*Procedural justice in stop and search*](https://www.college.police.uk/article/procedural-justice-stop-search), 29 November 2024; Home Office, [*Definition of policing by consent*](https://www.gov.uk/government/publications/policing-by-consent/definition-of-policing-by-consent), 10 December 2012. “Legitimacy is partly an information asset” remains Polaris's systems interpretation of that evidence.
-
-
 <details>
 <summary>Sources for policing structure and reform</summary>
 
@@ -1351,6 +1341,7 @@ Most importantly:
 - [The Times — Police chiefs warn Andy Burnham over early-release scheme](https://www.thetimes.com/uk/politics/article/andy-burnham-early-release-keep-pc-harper-killers-jail-8px3fp6w0)
 
 </details>
+
 ---
 
 ## 🌌 Constellations
