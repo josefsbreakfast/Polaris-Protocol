@@ -1,5 +1,5 @@
 # 🌊 Cables Are The System
-**First created:** 2026-05-31 | **Last updated:** 2026-05-31  
+**First created:** 2026-05-31 | **Last updated:** 2026-08-16  
 *A plain-language explainer for why undersea cables are not background plumbing but the load-bearing infrastructure of digital society.*
 
 ## 🛰️ Orientation
@@ -101,4 +101,4 @@ It establishes the baseline infrastructure claim for the seabed cluster: digital
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-31_
+_Last updated: 2026-08-16_
