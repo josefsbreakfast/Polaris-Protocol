@@ -1,5 +1,5 @@
 # ☕️ The Discombobulatory Mental Overload (That No One Asked For)  
-**First created:** 2026-05-09 | **Last updated:** 2026-05-09  
+**First created:** 2026-05-09 | **Last updated:** 2026-08-16  
 *The cognitive burden produced by contested narratives, politicised identity, and unstable informational environments.*
 
 ---
@@ -421,4 +421,4 @@ It documents the cognitive burden produced when individuals and communities are 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-08-16_
