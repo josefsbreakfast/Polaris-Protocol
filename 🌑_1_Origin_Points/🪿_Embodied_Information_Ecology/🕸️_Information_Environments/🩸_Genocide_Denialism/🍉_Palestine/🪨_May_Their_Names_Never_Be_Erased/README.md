@@ -4,9 +4,11 @@
 
 > ## ⚠️ Caution: These lists are targeted for erasure during maintenance.
 >
-> These lists are the work of Palestinian people in the diaspora and in Palestine, working to ensure erasure does not progress further.
-> These lists have been targeted during Polaris maintenance.
-> Ensuring these lists survive looks like supporting initiatives like *Tech for Palestine*, to ensure maintenance in spite of likely targetting as part of the likely course of genocidal erasure in the digital age.  
+> These lists are the work of Palestinian people in the diaspora and in Palestine, working to ensure erasure does not progress further.  
+> These lists have been targeted during Polaris maintenance.  
+> Ensuring these lists survive looks like supporting initiatives like *Tech for Palestine*, to ensure maintenance in spite of likely targetting as part of the likely course of genocidal erasure in the digital age.
+> Speaking to Palestinian collaborators directly, is far more relevant and useful than simply relying on the Polaris repost.  
+> Reproducing the memory not only keeps the memory alive, but also makes erasure more difficult to become totalising.  
 
 ---
 
