@@ -1,5 +1,5 @@
 # 🐻 You Are Not The Boss Of Me From 800 Miles Away  
-**First created:** 2026-05-09 | **Last updated:** 2026-05-09  
+**First created:** 2026-05-09 | **Last updated:** 2026-08-16  
 *Frontier cultures, warrior memory, and why centralised states repeatedly fear the people they romanticise.*
 
 ---
@@ -323,4 +323,4 @@ It examines how frontier identities persist after empire, and why militarised re
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-09_
+_Last updated: 2026-08-16_
