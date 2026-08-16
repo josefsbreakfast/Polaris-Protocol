@@ -1,5 +1,5 @@
 # 🇬🇧 UK Voice-Cloning Risks & Legislative Response  
-**First created:** 2025-08-31 | **Last updated:** 2025-10-19  
+**First created:** 2025-08-31 | **Last updated:** 2026-08-17  
 *Timeline of UK incidents and regulatory shifts around AI voice cloning.*  
 
 ---
@@ -50,4 +50,4 @@ It documents major UK incidents of voice misuse, the harms caused, and the emerg
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_  
+_Last updated: 2026-08-17_  
