@@ -1,5 +1,5 @@
 # 📜 Book of Esther (FOI Edition)  
-**First created:** 2025-11-23 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-23 | **Last updated:** 2026-08-16  
 *A satirical midrash on lawful disclosure, matriarchal archetypes, and bureaucratic feminism.*  
 
 ---
@@ -94,4 +94,4 @@ esther doctrine, foi satire, bureaucratic feminism, jewish humour, metadata, sub
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-08-16_
