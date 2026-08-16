@@ -1,5 +1,5 @@
 # 🫜 Case Note: Asymmetric Discourse Policing  
-**First created:** 2025-09-06 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-06 | **Last updated:** 2026-08-16  
 *Forensic note on how criticism of some states is normalised, while others are conflated with identity-based attacks.*
 
 ---
@@ -48,4 +48,4 @@ It documents how speech infrastructures treat different states unevenly, flatten
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
