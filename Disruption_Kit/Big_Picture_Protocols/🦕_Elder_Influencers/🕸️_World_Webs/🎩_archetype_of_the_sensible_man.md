@@ -1,5 +1,5 @@
 # 🎩 Archetype of the Sensible Man  
-**First created:** 2025-11-16 | **Last updated:** 2026-01-08  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-17  
 *Why certain men are culturally coded as “safe, boring, stable” — and how this archetype functions as a counterweight to chaos, danger, or class-coded suspicion.*  
 
 ---
@@ -196,4 +196,4 @@ Pairs with:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-08-17_
