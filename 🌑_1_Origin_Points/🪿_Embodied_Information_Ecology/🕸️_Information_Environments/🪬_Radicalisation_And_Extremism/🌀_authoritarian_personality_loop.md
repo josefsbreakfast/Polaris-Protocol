@@ -1,5 +1,5 @@
 # 🌀 The Authoritarian Personality Loop  
-**First created:** 2025-12-10 | **Last updated:** 2025-12-10  
+**First created:** 2025-12-10 | **Last updated:** 2026-08-16  
 *Why certain insecure identity structures repeatedly drift toward authoritarian narratives across eras.*
 
 ---
@@ -150,4 +150,4 @@ It explains the emotional pattern underpinning repeated historical and digital-a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-08-16_
