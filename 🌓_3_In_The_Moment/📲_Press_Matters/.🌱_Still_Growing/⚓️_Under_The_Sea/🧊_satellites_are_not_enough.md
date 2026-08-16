@@ -1,5 +1,5 @@
 # 🧊 Satellites Are Not Enough
-**First created:** 2026-05-31 | **Last updated:** 2026-05-31  
+**First created:** 2026-05-31 | **Last updated:** 2026-08-16  
 *A resilience note on why satellite systems matter but do not currently replace the undersea cable layer.*
 
 ## 🛰️ Orientation
@@ -99,4 +99,4 @@ It prevents cable-risk analysis from collapsing into false reassurance by distin
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-31_
+_Last updated: 2026-08-16_
