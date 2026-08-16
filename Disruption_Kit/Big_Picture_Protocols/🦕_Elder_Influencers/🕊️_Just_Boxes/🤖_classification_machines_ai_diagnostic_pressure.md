@@ -1,5 +1,5 @@
 # 🤖 Classification Machines: AI, Platforms, and Diagnostic Pressure
-**First created:** 2025-12-16 | **Last updated:** 2025-12-16  
+**First created:** 2025-12-16 | **Last updated:** 2026-08-17  
 *How technology, austerity, and stress create diagnosis without deception — and what could actually be done instead.*
 
 ---
@@ -226,4 +226,4 @@ It maps how diagnosis emerges from system design under pressure, and why blaming
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-16_
+_Last updated: 2026-08-17_
