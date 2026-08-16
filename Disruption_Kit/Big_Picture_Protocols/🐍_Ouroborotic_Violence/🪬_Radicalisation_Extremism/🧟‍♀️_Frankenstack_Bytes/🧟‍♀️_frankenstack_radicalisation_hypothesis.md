@@ -1,5 +1,5 @@
 # 🧟‍♀️ Frankenstack Radicalisation Hypothesis  
-**First created:** 2025-10-05 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-05 | **Last updated:** 2026-08-16  
 *Hybrid stacks as dual/multi-use engines that can tip fear into violence.*  
 
 ---
@@ -65,4 +65,4 @@ It extends *The Frankenstack Problem* into the radicalisation domain, showing ho
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
