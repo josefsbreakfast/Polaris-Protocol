@@ -1,5 +1,5 @@
 # 🗝 Custodianship Illusion  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-14 | **Last updated:** 2026-08-16  
 *The pretence of neutral stewardship of archives and records while access is tightly rationed, curated, and withheld.*  
 
 ---
@@ -64,4 +64,4 @@ It documents how the pretense of neutral archival stewardship functions as a pol
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
