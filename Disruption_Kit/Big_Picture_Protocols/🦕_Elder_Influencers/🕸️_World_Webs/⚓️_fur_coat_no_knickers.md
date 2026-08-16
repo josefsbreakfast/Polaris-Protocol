@@ -1,5 +1,5 @@
 # ⚓️ Fur Coat; No Knickers  
-**First created:** 2026-01-08 | **Last updated:** 2026-07-09  
+**First created:** 2026-01-08 | **Last updated:** 2026-08-17  
 *Why prestige signalling can persist alongside reduced operational autonomy in contemporary British governance.*  
 *Or: Why we provided the getaway dinghy (and became the Dad Taxi™️).*  
 
@@ -324,4 +324,4 @@ It analyses how symbolic capability can persist alongside constrained autonomy, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-07-09_
+_Last updated: 2026-08-17_
