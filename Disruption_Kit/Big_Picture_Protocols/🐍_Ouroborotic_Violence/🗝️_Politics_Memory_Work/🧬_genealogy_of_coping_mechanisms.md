@@ -1,5 +1,5 @@
 # 🧬 Genealogy of Coping Mechanisms  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-27 | **Last updated:** 2026-08-16  
 *Traces how cultural myths, pseudoscience, and erasure developed as coping responses to crises of empire and Enlightenment knowledge.*  
 
 ---
@@ -64,4 +64,4 @@ It documents how elites responded to crises of knowledge with myth, pseudoscienc
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
