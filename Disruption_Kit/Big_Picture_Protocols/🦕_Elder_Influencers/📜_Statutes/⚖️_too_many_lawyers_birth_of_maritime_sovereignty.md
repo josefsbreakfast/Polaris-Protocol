@@ -1,5 +1,5 @@
 # ⚖️ Too Many Lawyers — The Birth of Maritime Sovereignty  
-**First created:** 2025-11-07 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-17  
 *How legal overload on land produced the sea as a negative legal space — and why that logic keeps returning.*  
 
 ---
@@ -167,4 +167,4 @@ It documents how legal exhaustion repeatedly produces new sovereignties by carvi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-08-17_
