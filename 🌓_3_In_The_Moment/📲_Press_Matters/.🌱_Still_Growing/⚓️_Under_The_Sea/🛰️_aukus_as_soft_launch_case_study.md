@@ -1,5 +1,5 @@
 # 🛰️ AUKUS As Soft Launch Case Study  
-**First created:** 2026-05-31 | **Last updated:** 2026-05-31  
+**First created:** 2026-05-31 | **Last updated:** 2026-08-16  
 *A defence media-literacy case study on quiet prominence, undersea autonomy, and how positive strategic news can be public while still under-explained.*
 
 ## 🛰️ Orientation
@@ -227,4 +227,4 @@ The node supports defence media literacy by separating evidence of suppression f
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-31_
+_Last updated: 2026-08-16_
