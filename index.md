@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 20:02:08 UTC_
+_Generated on 2026-08-16 20:03:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,7 +18,6 @@ _Generated on 2026-08-16 20:02:08 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
-        - [`📜_book_of_esther_foi_edition.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📜_book_of_esther_foi_edition.md)
         - [`📜_freedom_of_information_loopholes.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📜_freedom_of_information_loopholes.md)
         - [`📜_teen_poetry_as_pretext.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📜_teen_poetry_as_pretext.md)
         - [`📡_fisher_surveillance_addendum.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📡_fisher_surveillance_addendum.md)
@@ -3037,6 +3036,7 @@ _Generated on 2026-08-16 20:02:08 UTC_
         - [`💸_hypothetical_case_state_actor_funding.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/💸_hypothetical_case_state_actor_funding.md)
         - [`📖_erased_archives_and_survival_bias.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/📖_erased_archives_and_survival_bias.md)
         - [`📜_blavatsky_case_study_cairo_ban.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/📜_blavatsky_case_study_cairo_ban.md)
+        - [`📜_book_of_esther_foi_edition.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/📜_book_of_esther_foi_edition.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/notes.txt)
     - [**♻️_Cybernetics/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/.🌱_Still_Growing/)
