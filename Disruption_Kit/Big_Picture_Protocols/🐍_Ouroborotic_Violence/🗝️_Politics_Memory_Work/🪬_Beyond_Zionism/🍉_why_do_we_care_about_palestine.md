@@ -1,5 +1,5 @@
 # 🍉 Why Do We Care About Palestine  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-16  
 *Why Jewish and global political destinies remain knotted to Palestine, and how empire engineered the bind.*
 
 ---
@@ -147,4 +147,4 @@ palestine, zionism, christian zionism, jewish identity, diaspora politics, antis
 > - [🎭 Narrative & Psych Ops](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md) — discourse shaping and identity capture  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-16_
