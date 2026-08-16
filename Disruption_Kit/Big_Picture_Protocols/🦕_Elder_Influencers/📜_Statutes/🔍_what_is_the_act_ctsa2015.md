@@ -1,5 +1,5 @@
 # 🔍 What Is the Act?  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-17  
 *A plain-language guide to the hidden powers and democratic risks embedded in the Counter-Terrorism and Security Act 2015 (CTSA 2015).*
 
 ---
@@ -246,4 +246,4 @@ It distils the structure, intent, and democratic implications of CTSA 2015, mapp
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2026-08-17_
