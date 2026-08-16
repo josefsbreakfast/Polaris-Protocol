@@ -1,5 +1,5 @@
 # 🧠 Who Goes Beta?  
-**First created:** 2025-12-10 | **Last updated:** 2025-12-10  
+**First created:** 2025-12-10 | **Last updated:** 2026-08-16  
 *A Dorothy-Thompson-inflected diagnostic on which men drift toward brittle ideology, and which remain secure, prosocial, and unradicalised.*
 
 ---
@@ -179,4 +179,4 @@ It adapts Dorothy Thompson’s psychological lens to modern radicalisation dynam
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-08-16_
