@@ -1,5 +1,5 @@
 # 🩸 Structural Suppression of Rape Prosecutions  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-16  
 *How contemporary justice infrastructures quietly depress rape reporting, progression, and conviction without explicit policy intent.*
 
 ---
@@ -176,4 +176,4 @@ It situates individual case failures within a recursive system where data practi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-16_
