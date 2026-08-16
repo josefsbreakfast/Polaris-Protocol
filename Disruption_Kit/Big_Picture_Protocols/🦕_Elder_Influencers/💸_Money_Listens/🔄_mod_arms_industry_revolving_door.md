@@ -1,5 +1,5 @@
 # 🔄 MOD–Arms Industry Revolving Door  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-16  
 *How lawful career circulation shapes risk tolerance, precedent anxiety, and reluctance to draw red lines.*  
 <!--It's been that long since I had a free lunch in the NHS that I forgot to pur them in the node...-->
 ---
@@ -131,4 +131,4 @@ It exists to explain why lawful systems can still resist decisive action under s
 >
 > *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-08-16_
