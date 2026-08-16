@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 20:51:26 UTC_
+_Generated on 2026-08-16 20:52:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -271,7 +271,6 @@ _Generated on 2026-08-16 20:51:26 UTC_
         - [`🦕_partition_loop.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🦕_partition_loop.md)
         - [`🧭_migration_crisis_as_a_consultancy_revenue_environment.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🧭_migration_crisis_as_a_consultancy_revenue_environment.md)
         - [`🩸_jura_sanguinis_et_soli_protofascism_risk.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🩸_jura_sanguinis_et_soli_protofascism_risk.md)
-      - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/README.md)
   - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
     - [**20260201_February_2026/**](Disruption_Kit/Field_Logs/20260201_February_2026/)
       - [`IMG_2681.png`](Disruption_Kit/Field_Logs/20260201_February_2026/IMG_2681.png)
@@ -6519,6 +6518,8 @@ _Generated on 2026-08-16 20:51:26 UTC_
             - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
           - [**🐍_Ouroborotic_Violence/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
             - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
+          - [**🦕_Elder_Influencers/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
+            - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/README.md)
           - [**🪄_Expression_Of_Norms/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
             - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
           - [**🫀_Our_Hearts_Our_Minds/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🫀_Our_Hearts_Our_Minds/)
