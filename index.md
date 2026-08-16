@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 15:36:30 UTC_
+_Generated on 2026-08-16 15:41:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -19,10 +19,6 @@ _Generated on 2026-08-16 15:36:30 UTC_
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
         - [**🪬_Beyond_Zionism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/)
-          - [`🍷_next_year_in_jerusalem.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍷_next_year_in_jerusalem.md)
-          - [`🍷_trauma_is_not_halakha.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍷_trauma_is_not_halakha.md)
-          - [`🍷_why_rabbinic_judaism_is_anticapitalist.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍷_why_rabbinic_judaism_is_anticapitalist.md)
-          - [`🏛️_welcome_to_western_imperialism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🏛️_welcome_to_western_imperialism.md)
           - [`👑_projection_esther.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/👑_projection_esther.md)
           - [`🕯️_kabbalah_interlock_strength.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🕯️_kabbalah_interlock_strength.md)
           - [`🕯️_kol_nidre_and_european_viral_ignorance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🕯️_kol_nidre_and_european_viral_ignorance.md)
@@ -2825,6 +2821,10 @@ _Generated on 2026-08-16 15:36:30 UTC_
       - [`🍉_as_a_jew_globalise_the_intifada.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/🍉_as_a_jew_globalise_the_intifada.md)
       - [`🍉_why_do_we_care_about_palestine.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md)
       - [`🍷_crypto_before_it_was_cool.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/🍷_crypto_before_it_was_cool.md)
+      - [`🍷_next_year_in_jerusalem.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/🍷_next_year_in_jerusalem.md)
+      - [`🍷_trauma_is_not_halakha.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/🍷_trauma_is_not_halakha.md)
+      - [`🍷_why_rabbinic_judaism_is_anticapitalist.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/🍷_why_rabbinic_judaism_is_anticapitalist.md)
+      - [`🏛️_welcome_to_western_imperialism.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/🏛️_welcome_to_western_imperialism.md)
     - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/README.md)
   - [**🌸_Containment_Studies/**](🌑_1_Origin_Points/🌸_Containment_Studies/)
     - [**🌙_Everyday_Containment/**](🌑_1_Origin_Points/🌸_Containment_Studies/🌙_Everyday_Containment/)
