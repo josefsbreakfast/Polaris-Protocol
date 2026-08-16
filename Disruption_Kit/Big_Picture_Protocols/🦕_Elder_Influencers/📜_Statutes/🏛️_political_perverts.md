@@ -1,5 +1,5 @@
 # 🏛️ Political Perverts  
-**First created:** 2025-10-01 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-01 | **Last updated:** 2026-08-17  
 *A satirical lens on the UK’s surveillance class: how ministers become addicted to their own warrants, stroking renewal papers every six months as if secrecy itself were a kink.*  
 
 ---
@@ -46,4 +46,4 @@ It preserves the forensic mechanics of surveillance renewals but frames them thr
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-17_
