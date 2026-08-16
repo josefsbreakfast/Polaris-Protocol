@@ -1,5 +1,5 @@
 # 💣 The Cultural Bomb  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-27 | **Last updated:** 2026-08-16  
 *Ngũgĩ wa Thiong’o’s concept of colonial culture as a weapon of erasure.*  
 
 ---
@@ -135,4 +135,4 @@ It situates Ngũgĩ’s insight within survivor memory work, tracing how colonia
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
