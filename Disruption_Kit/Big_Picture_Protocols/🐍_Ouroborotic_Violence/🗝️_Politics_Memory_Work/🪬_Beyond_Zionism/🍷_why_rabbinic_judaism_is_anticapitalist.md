@@ -1,5 +1,5 @@
 # 🍷 Why Rabbinic Judaism Is Anticapitalist  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-16  
 *How Jewish law encodes limits on extraction, why Shabbat is a weekly strike, and why capitalism will always chafe against covenantal life.*
 
 ---
@@ -168,4 +168,4 @@ rabbinic judaism, shabbat, capitalism critique, time sovereignty, debt remission
 > - [🍉 Why Do We Care About Palestine](./🍉_why_do_we_care_about_palestine.md) — western incentives and entanglement  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-16_
