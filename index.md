@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 19:47:38 UTC_
+_Generated on 2026-08-16 19:49:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,10 +18,6 @@ _Generated on 2026-08-16 19:47:38 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
-        - [`⚙️_efficiency_bias_and_the_fascism_of_optimisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚙️_efficiency_bias_and_the_fascism_of_optimisation.md)
-        - [`⚙️_friction_minimisation_logic.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚙️_friction_minimisation_logic.md)
-        - [`⚠️_rejection_as_existential_threat.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚠️_rejection_as_existential_threat.md)
-        - [`⛩️_postmodern_gateway.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⛩️_postmodern_gateway.md)
         - [`✝️_protestant_work_ethic_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/✝️_protestant_work_ethic_as_containment.md)
         - [`🇬🇧_the_history_of_the_child_as_asset.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🇬🇧_the_history_of_the_child_as_asset.md)
         - [`🇬🇧_the_long_uk_history_of_stealing_childrens_identities.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🇬🇧_the_long_uk_history_of_stealing_childrens_identities.md)
@@ -3037,6 +3033,10 @@ _Generated on 2026-08-16 19:47:38 UTC_
         - [`⚖️_operatic_capture_and_risks.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/⚖️_operatic_capture_and_risks.md)
         - [`⚖️_selective_memory_erasure.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/⚖️_selective_memory_erasure.md)
         - [`⚖️_the_history_of_justice_as_spectacle.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/⚖️_the_history_of_justice_as_spectacle.md)
+        - [`⚙️_efficiency_bias_and_the_fascism_of_optimisation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/⚙️_efficiency_bias_and_the_fascism_of_optimisation.md)
+        - [`⚙️_friction_minimisation_logic.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/⚙️_friction_minimisation_logic.md)
+        - [`⚠️_rejection_as_existential_threat.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/⚠️_rejection_as_existential_threat.md)
+        - [`⛩️_postmodern_gateway.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/⛩️_postmodern_gateway.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/notes.txt)
     - [**♻️_Cybernetics/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/.🌱_Still_Growing/)
