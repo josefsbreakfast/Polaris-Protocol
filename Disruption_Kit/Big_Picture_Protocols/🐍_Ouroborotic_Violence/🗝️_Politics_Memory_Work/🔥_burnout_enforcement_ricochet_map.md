@@ -1,5 +1,5 @@
 # 🔥 Burnout → Enforcement Ricochet Map  
-**First created:** 2025-12-13 | **Last updated:** 2025-12-13  
+**First created:** 2025-12-13 | **Last updated:** 2026-08-16  
 *A diagnostic map showing how institutional pressure displaces enforcement harm away from its source and onto those least able to resist it.*
 
 ---
@@ -159,4 +159,4 @@ It documents how institutional stress redirects enforcement harm away from power
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-08-16_
