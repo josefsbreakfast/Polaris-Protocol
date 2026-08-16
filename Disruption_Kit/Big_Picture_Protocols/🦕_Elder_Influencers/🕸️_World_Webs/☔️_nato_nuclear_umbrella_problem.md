@@ -1,5 +1,5 @@
 # ☔️ The NATO Nuclear Umbrella Problem  
-**First created:** 2026-05-03 | **Last updated:** 2026-05-03  
+**First created:** 2026-05-03 | **Last updated:** 2026-08-17  
 *How extended nuclear deterrence underpins alliance trust, and how instability within that system increases long-term systemic risk.*
 
 ---
@@ -229,4 +229,4 @@ It maps how the credibility of extended deterrence shapes alliance stability and
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_
+_Last updated: 2026-08-17_
