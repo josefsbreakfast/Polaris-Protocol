@@ -1,5 +1,5 @@
 # 🧮 Algorithmic Exposure Bias in Whistleblower Systems  
-**First created:** 2025-10-06 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-06 | **Last updated:** 2026-08-17  
 *How repetitive pattern exposure reshapes perception and credibility inside whistleblower and safeguarding systems.*
 
 ---
@@ -98,4 +98,4 @@ It documents how both humans and algorithms develop bias through repeated exposu
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-17_
