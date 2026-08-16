@@ -1,5 +1,5 @@
 # 🌊 Seabed Internet And Undersea Deterrence
-**First created:** 2026-05-31 | **Last updated:** 2026-05-31  
+**First created:** 2026-05-31 | **Last updated:** 2026-08-16  
 *A cluster for reading undersea cables, autonomous maritime systems, Trident concealment, and domestic compute priorities as one strategic terrain.*
 
 ## 🛰️ Orientation
@@ -63,4 +63,4 @@ It routes April 2026 field notes on cables, krill swarms, Russian submarine sign
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-31_
+_Last updated: 2026-08-16_
