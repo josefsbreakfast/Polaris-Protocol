@@ -1,5 +1,5 @@
 # 🗞️ Not Every Quiet Story Is Suppression  
-**First created:** 2026-05-31 | **Last updated:** 2026-05-31  
+**First created:** 2026-05-31 | **Last updated:** 2026-08-16  
 *A media-literacy node for reading quiet defence coverage without collapsing into either naivety or conspiracy.*
 
 ## 🛰️ Orientation
@@ -212,4 +212,4 @@ The node supports a disciplined middle analysis: public defence stories can be c
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-31_
+_Last updated: 2026-08-16_
