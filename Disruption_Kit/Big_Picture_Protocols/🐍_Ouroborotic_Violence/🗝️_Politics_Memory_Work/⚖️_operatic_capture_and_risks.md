@@ -1,5 +1,5 @@
 # ⚖️ Operatic Capture & Risks  
-**First created:** 2025-10-31 | **Last updated:** 2026-01-15  
+**First created:** 2025-10-31 | **Last updated:** 2026-08-16  
 *When escalation becomes performance and procedure mistakes itself for morality.*  
 
 ---
@@ -93,4 +93,4 @@ procedural theatre · escalation fatigue · reputational triage · virtue perfor
 
 > *Every institution loves a finale; few survive the encore.*
 
-_Last updated: 2026-01-15_
+_Last updated: 2026-08-16_
