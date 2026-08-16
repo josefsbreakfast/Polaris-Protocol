@@ -1,5 +1,5 @@
 # ❌ Negative Evidence Index  
-**First created:** 2025-09-21 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-21 | **Last updated:** 2026-08-16  
 *Tracking the disappearance of CSE improvement reports as evidence in itself.*  
 
 ---
@@ -77,4 +77,4 @@ It demonstrates that absence itself is evidence: where councils have erased safe
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
