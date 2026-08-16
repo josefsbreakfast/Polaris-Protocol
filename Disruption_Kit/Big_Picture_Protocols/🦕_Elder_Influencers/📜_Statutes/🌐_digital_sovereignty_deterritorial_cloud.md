@@ -1,5 +1,5 @@
 # 🌐 Digital Sovereignty & the Deterritorial Cloud  
-**First created:** 2025-10-13 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-13 | **Last updated:** 2026-08-17  
 *Re-defining sovereignty when data and compute ignore borders.*
 
 ---
@@ -139,4 +139,4 @@ The node follows the evolution of law into code, and of borders into protocols.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2026-08-17_
