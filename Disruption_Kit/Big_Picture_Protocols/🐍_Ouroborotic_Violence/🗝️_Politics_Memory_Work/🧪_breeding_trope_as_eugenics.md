@@ -1,5 +1,5 @@
 # 🧪 Breeding Trope as Eugenics  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-27 | **Last updated:** 2026-08-16  
 *Tracks the recycling of the insult “breeding like rabbits” as a containment trope across class, race, and religion.*  
 
 ---
@@ -75,4 +75,4 @@ It documents how a recurring insult encodes eugenics logic across class, religio
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
