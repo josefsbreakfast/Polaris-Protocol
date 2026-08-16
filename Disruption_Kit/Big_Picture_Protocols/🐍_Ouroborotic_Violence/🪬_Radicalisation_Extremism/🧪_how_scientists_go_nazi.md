@@ -1,5 +1,5 @@
 # 🧪 How Scientists Go Nazi
-**First created:** 2025-11-13 | **Last updated:** 2026-07-02  
+**First created:** 2025-11-13 | **Last updated:** 2026-08-16  
 *Why technical fields become recruitment pools for fascism, futurist authoritarianism, and “rationalist” extremism.*  
 
 ---
@@ -216,4 +216,4 @@ scientific radicalisation, fascism, futurism, prestige capture, humiliation, ins
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-07-02_
+_Last updated: 2026-08-16_
