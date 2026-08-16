@@ -1,6 +1,12 @@
 # 🪨 May Their Names Never Be Erased  
 **First created:** 2025-10-07 | **Last updated:** 2026-08-16  
-*A living memorial dataset: holding reference lists of those murdered in Gaza, affirming their lives when even the number of dead is contested.*
+*A living memorial dataset: holding reference lists of those murdered in Gaza, affirming their lives when even the number of dead is contested.*  
+
+> ## ⚠️ Caution: These lists are targeted for erasure during maintenance.
+>
+> These lists are the work of Palestinian people in the diaspora and in Palestine, working to ensure erasure does not progress further.
+> These lists have been targeted during Polaris maintenance.
+> Ensuring these lists survive looks like supporting initiatives like *Tech for Palestine*, to ensure maintenance in spite of likely targetting as part of the likely course of genocidal erasure in the digital age.  
 
 ---
 
