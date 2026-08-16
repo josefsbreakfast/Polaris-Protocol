@@ -1,5 +1,5 @@
 # 🕸️ Frankenstack Multi-Modal Response Frame  
-**First created:** 2025-10-05 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-05 | **Last updated:** 2026-08-16  
 *Why single-path “treatments” fail against hybrid stacks — and how to build a broad, community-anchored response instead.*
 
 ---
@@ -65,4 +65,4 @@ It complements *Frankenstack Intake & Response Protocol* by outlining why hybrid
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
