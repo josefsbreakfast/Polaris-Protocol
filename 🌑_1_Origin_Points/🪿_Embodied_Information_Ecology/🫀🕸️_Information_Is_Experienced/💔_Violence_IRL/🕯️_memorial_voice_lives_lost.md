@@ -1,5 +1,5 @@
 # 🕯️ Memorial — Voice Lives Lost  
-**First created:** 2025-10-27 | **Last updated:** 2026-02-20  
+**First created:** 2025-10-27 | **Last updated:** 2026-08-16  
 *Remembering creators whose visibility and voice became vectors of fatal harm.*  
 
 ---
@@ -56,4 +56,4 @@ It preserves the names of those whose visibility became vulnerability, refusing 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-08-16_
