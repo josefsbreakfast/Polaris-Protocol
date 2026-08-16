@@ -1,5 +1,5 @@
 # 🧭 North Atlantic Tripwire
-**First created:** 2026-05-31 | **Last updated:** 2026-05-31  
+**First created:** 2026-05-31 | **Last updated:** 2026-08-16  
 *A strategic geography node on UK–Norway cooperation, Russian submarine probing, cable corridors, and public deterrence signalling.*
 
 ## 🛰️ Orientation
@@ -101,4 +101,4 @@ It situates UK–Norway cooperation and Russian submarine activity within the wi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-31_
+_Last updated: 2026-08-16_
