@@ -1,5 +1,5 @@
 # ⚖️ The Alt-Right Is Not the Far-Right  
-**First created:** 2025-10-19  | **Last updated:** 2025-10-20  
+**First created:** 2025-10-19  | **Last updated:** 2026-08-16  
 
 ---
 
@@ -188,3 +188,5 @@ alt-right, far-right, totalitarian left, horseshoe theory, accelerationism, auth
 
 *⚖️ The Alt-Right Is Not the Far-Right* is a living node of the **Polaris Protocol**.  
 It distinguishes authoritarian acceleration from conservative reaction and redefines ideological space not as a line, but as a field of control and containment.  
+
+2026-08-16
