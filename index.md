@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 14:46:57 UTC_
+_Generated on 2026-08-16 14:51:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -180,19 +180,6 @@ _Generated on 2026-08-16 14:46:57 UTC_
         - [`🏛️_wannsee_template_bureaucratic_genocide.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🏛️_wannsee_template_bureaucratic_genocide.md)
         - [`🧠_cognitive_dissonance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🧠_cognitive_dissonance.md)
         - [`🩸_the_repetition_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md)
-      - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/)
-        - [`🪜_upstream_prevention_models.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪜_upstream_prevention_models.md)
-        - [`🪞_domestic_psyops_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪞_domestic_psyops_paradox.md)
-        - [`🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md)
-        - [`🪦_memory_erasure_in_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪦_memory_erasure_in_radicalisation.md)
-        - [`🪩_no_fap_fascism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪩_no_fap_fascism.md)
-        - [`🪬_appeasement_economics.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_appeasement_economics.md)
-        - [`🪬_authoritarianism_beyond_left_right.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_authoritarianism_beyond_left_right.md)
-        - [`🪬_christian_nationalism_as_fascist_laundering.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_christian_nationalism_as_fascist_laundering.md)
-        - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
-        - [`🪬_racialised_threat_construction.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_racialised_threat_construction.md)
-        - [`🪬_violence_against_jews_yom_kippur_fixation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪬_violence_against_jews_yom_kippur_fixation.md)
-        - [`🪶_folk_accountability.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🪶_folk_accountability.md)
       - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**⚓️_Under_The_Sea/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/⚓️_Under_The_Sea/)
@@ -4130,6 +4117,18 @@ _Generated on 2026-08-16 14:46:57 UTC_
         - [`🧿_uk_slow_burn_constitutional_crisis.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧿_uk_slow_burn_constitutional_crisis.md)
         - [`🩸_cyclical_physiology_and_algorithmic_misread.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🩸_cyclical_physiology_and_algorithmic_misread.md)
         - [`🪆_misdiagnosis_of_radicalisation_models.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🪆_misdiagnosis_of_radicalisation_models.md)
+        - [`🪜_upstream_prevention_models.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🪜_upstream_prevention_models.md)
+        - [`🪞_domestic_psyops_paradox.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🪞_domestic_psyops_paradox.md)
+        - [`🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🪞_the_harpers_principle_vulnerability_ego_and_fascist_capture.md)
+        - [`🪦_memory_erasure_in_radicalisation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🪦_memory_erasure_in_radicalisation.md)
+        - [`🪩_no_fap_fascism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🪩_no_fap_fascism.md)
+        - [`🪬_appeasement_economics.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🪬_appeasement_economics.md)
+        - [`🪬_authoritarianism_beyond_left_right.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🪬_authoritarianism_beyond_left_right.md)
+        - [`🪬_christian_nationalism_as_fascist_laundering.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🪬_christian_nationalism_as_fascist_laundering.md)
+        - [`🪬_from_christian_zionism_to_diaspora_radicalisation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🪬_from_christian_zionism_to_diaspora_radicalisation.md)
+        - [`🪬_racialised_threat_construction.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🪬_racialised_threat_construction.md)
+        - [`🪬_violence_against_jews_yom_kippur_fixation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🪬_violence_against_jews_yom_kippur_fixation.md)
+        - [`🪶_folk_accountability.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🪶_folk_accountability.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
     - [**🕸️🧿_The_Observed_Information_Space/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/)
