@@ -1,5 +1,5 @@
 # 🧠 Big Picture Protocols  
-**First created:** 2025-08-11 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-11 | **Last updated:** 2026-08-16  
 *Big ideas to defeat the small ideologies.*  
 
 ---
@@ -142,10 +142,10 @@ It organises the conceptual architecture through which containment systems are n
 
 > 📡 Cross-references:
 > 
-> - [Disruption Kit](../README.md) — *tactical field frameworks*  
-> - [Survivor Tools](../Survivor_Tools/README.md) — *applied countermeasures*  
-> - [Containment Scripts](../Containment_Scripts/README.md) — *platform and policy mechanisms*  
+> - [Disruption Kit] — *tactical field frameworks*  
+> - [Survivor Tools] — *applied countermeasures*  
+> - [Containment Scripts] — *platform and policy mechanisms*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
