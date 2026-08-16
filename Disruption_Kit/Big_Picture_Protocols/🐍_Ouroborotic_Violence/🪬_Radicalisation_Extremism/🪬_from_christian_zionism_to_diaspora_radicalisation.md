@@ -1,5 +1,5 @@
 # 🪬 From Christian Zionism to Diaspora Radicalisation  
-**First created:** 2025-08-19 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-19 | **Last updated:** 2026-08-16  
 *Tracing how US Christian Zionist comms toolkits morphed into diaspora “radicalisation” audits and campus scorecards.*  
 
 ---
@@ -235,4 +235,4 @@ It documents how US evangelical comms toolkits migrated into Israeli politics an
 
 *Survivors radiate sovereignty. Compassion is the extremis of survival.* 
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
