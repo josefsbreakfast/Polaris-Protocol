@@ -1,5 +1,5 @@
 # 🪞 Fate as Statecraft — Accidents in Authoritarian Regimes
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-12  
+**First created:** 2025-11-06  |  **Last updated:** 2026-08-16  
 *On the political utility of accident — when fate is designed to look natural.*  
 
 ---
@@ -51,4 +51,4 @@ It explores how states manufacture “accidents” to refresh fear and maintain 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-08-16_
