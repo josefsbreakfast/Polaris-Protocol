@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 14:32:51 UTC_
+_Generated on 2026-08-16 14:37:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -181,13 +181,6 @@ _Generated on 2026-08-16 14:32:51 UTC_
         - [`🧠_cognitive_dissonance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🧠_cognitive_dissonance.md)
         - [`🩸_the_repetition_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md)
       - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/)
-        - [`🧠_the_cognitive_vulnerability_stack_of_lonely_men.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_the_cognitive_vulnerability_stack_of_lonely_men.md)
-        - [`🧠_the_masculinity_gap.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_the_masculinity_gap.md)
-        - [`🧠_utilisation_of_vulnerability.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_utilisation_of_vulnerability.md)
-        - [`🧠_who_goes_beta.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_who_goes_beta.md)
-        - [`🧨_differential_classification_as_radicalisation_fuel.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_differential_classification_as_radicalisation_fuel.md)
-        - [`🧨_securitisation_feedback_loop.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_securitisation_feedback_loop.md)
-        - [`🧨_spectacle_of_raids.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_spectacle_of_raids.md)
         - [`🧨_the_pua_to_fascist_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_the_pua_to_fascist_pipeline.md)
         - [`🧩_fragmented_identities_as_feedstock.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧩_fragmented_identities_as_feedstock.md)
         - [`🧩_why_the_left_looks_scary_during_deradicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧩_why_the_left_looks_scary_during_deradicalisation.md)
@@ -4130,6 +4123,13 @@ _Generated on 2026-08-16 14:32:51 UTC_
         - [`🧠_far_right_feeders_flipbook.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧠_far_right_feeders_flipbook.md)
         - [`🧠_fascism_as_scaled_coercive_control.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧠_fascism_as_scaled_coercive_control.md)
         - [`🧠_radicalisation_pipelines_and_platform_culture.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧠_radicalisation_pipelines_and_platform_culture.md)
+        - [`🧠_the_cognitive_vulnerability_stack_of_lonely_men.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧠_the_cognitive_vulnerability_stack_of_lonely_men.md)
+        - [`🧠_the_masculinity_gap.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧠_the_masculinity_gap.md)
+        - [`🧠_utilisation_of_vulnerability.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧠_utilisation_of_vulnerability.md)
+        - [`🧠_who_goes_beta.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧠_who_goes_beta.md)
+        - [`🧨_differential_classification_as_radicalisation_fuel.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧨_differential_classification_as_radicalisation_fuel.md)
+        - [`🧨_securitisation_feedback_loop.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧨_securitisation_feedback_loop.md)
+        - [`🧨_spectacle_of_raids.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧨_spectacle_of_raids.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
     - [**🕸️🧿_The_Observed_Information_Space/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/)
