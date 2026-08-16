@@ -1,5 +1,5 @@
 # 🧨 The PUA-to-Fascist Pipeline  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-16  
 *How pickup-artist grooming tactics were repurposed into political recruitment mechanisms.*  
 
 ---
@@ -207,4 +207,4 @@ It explains how authoritarian movements recycle interpersonal coercive technolog
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-26_
+_Last updated: 2026-08-16_
