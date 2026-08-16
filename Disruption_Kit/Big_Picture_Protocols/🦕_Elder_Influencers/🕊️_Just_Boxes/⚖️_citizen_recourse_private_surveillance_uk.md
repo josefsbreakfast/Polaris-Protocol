@@ -1,5 +1,5 @@
 # ⚖️ Citizen Recourse: Private Surveillance in the UK  
-**First created:** 2025-11-03 | **Last updated:** 2026-01-04  
+**First created:** 2025-11-03 | **Last updated:** 2026-08-17  
 *What citizens can actually do when confronted with covert monitoring, influence, or data collection by state or private actors.*  
 
 ---
@@ -105,4 +105,4 @@ It consolidates fragmented oversight mechanisms into a single civic map of recou
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_  
+_Last updated: 2026-08-17_  
