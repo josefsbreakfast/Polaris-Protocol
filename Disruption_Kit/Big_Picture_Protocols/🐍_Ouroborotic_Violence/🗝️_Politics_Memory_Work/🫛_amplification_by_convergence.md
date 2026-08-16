@@ -97,5 +97,5 @@ It outlines a theoretical process where overlapping metadata is amplified and re
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-12_  
+_Last updated: 2026-08-16_  
 
