@@ -33,7 +33,7 @@ When harms surface downstream — commercial, diplomatic, regulatory, reputation
 
 ---
 
-## 👑 I. Custody of Influence vs Custody of Outcome  
+## 👑 Custody of Influence vs Custody of Outcome  
 
 Soft power operates through:
 
@@ -76,7 +76,7 @@ That is the narrower claim.
 
 ---
 
-## 🧩 II. Mandate Misfit  
+## 🧩 Mandate Misfit  
 
 Oversight mechanisms in the UK are organised around statutory categories:
 
@@ -109,7 +109,7 @@ Existing mechanisms can identify who authorised a visit, spent public money, gov
 
 ---
 
-## 🏛 III. Politeness as Cultural Firewall  
+## 🏛 Politeness as Cultural Firewall  
 
 Beyond formal law, this node proposes that Britain may also operate an informal protocol: deference.
 
@@ -137,7 +137,7 @@ Ownership fades in the space between convention and statute.
 
 ---
 
-## 🌍 IV. Downstream Harm in the Larger System  
+## 🌍 Downstream Harm in the Larger System  
 
 The soft-power accountability gap becomes visible when harms emerge elsewhere:
 
@@ -162,7 +162,7 @@ Diffuse origin points create diffuse accountability.
 
 ---
 
-## ⚖️ V. Architectural Consequences  
+## ⚖️ Architectural Consequences  
 
 The soft-power accountability gap produces several structural effects:
 
@@ -178,7 +178,7 @@ Constitutional monarchy supplies a particularly visible test case because ceremo
 
 ---
 
-## 🪶 VI. Repair Without Rupture  
+## 🪶 Repair Without Rupture  
 
 Addressing the gap does not require constitutional upheaval.
 
@@ -243,14 +243,6 @@ In its current form, this source base is weighted towards legislation, parliamen
 - [HM Treasury — Annual Report and Accounts 2025–26](https://www.gov.uk/government/publications/hm-treasury-annual-report-and-accounts-2025-to-2026/annual-report-and-accounts-of-hm-treasury-year-to-the-31-march-2026)
 
 - [House of Commons Committee of Public Accounts — The Sovereign Grant](https://publications.parliament.uk/pa/cm201314/cmselect/cmpubacc/665/665.pdf)
-
-### Citation Notes
-
-[^1]: The [Cabinet Manual](https://www.gov.uk/government/publications/cabinet-manual) describes the Sovereign’s constitutional role and the conventions through which formal powers are ordinarily exercised on ministerial advice. Constitutional convention and legal power should not be collapsed into a claim that the Sovereign has no formal functions.
-[^2]: The Royal Household’s accounts of [State Visits](https://www.royal.uk/what-is-a-state-visit), [diplomacy](https://www.royal.uk/the-king-and-diplomacy) and [the Royal Family’s role](https://www.royal.uk/the-role-of-the-royal-family) state that official overseas activity is advised, invited or requested through government, particularly the FCDO. These pages are institutional descriptions and do not independently evaluate downstream effects.
-[^3]: Charity law assigns governance duties to trustees. See the Charity Commission’s [guidance on conflicts of interest](https://www.gov.uk/government/publications/identifying-and-managing-conflicts-of-interest-in-a-charity-cc29/conflicts-of-interest-a-guide-for-charity-trustees). The precise authority of a patron depends upon the organisation’s governing documents and actual arrangements; the title alone should not be treated as trusteeship.
-[^4]: See the NAO’s [*Royal Household spending and accountability*](https://www.nao.org.uk/reports/royal-household-spending-and-accountability/), the Commons Library’s [*Finances of the Monarchy*](https://commonslibrary.parliament.uk/research-briefings/cbp-9807/), and the [Sovereign Grant Act 2011](https://www.legislation.gov.uk/ukpga/2011/15/contents). These establish substantial financial accountability arrangements; the node’s narrower question concerns influence effects not necessarily captured by expenditure audit.
-[^5]: [Section 37 of the Freedom of Information Act 2000](https://www.legislation.gov.uk/ukpga/2000/36/section/37), as amended through the [Constitutional Reform and Governance Act 2010](https://www.legislation.gov.uk/ukpga/2010/25/contents), protects specified categories of information involving the Sovereign, Royal Family and Royal Household. The scope and whether an exemption is absolute or qualified depend upon the statutory category; this node does not treat all royal-related information as categorically inaccessible.
 
 ---
 
