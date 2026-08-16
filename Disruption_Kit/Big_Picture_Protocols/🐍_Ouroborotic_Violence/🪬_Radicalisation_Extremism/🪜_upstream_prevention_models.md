@@ -1,6 +1,5 @@
-# 🪜 Upstream Prevention Models
-
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12
+# 🪜 Upstream Prevention Models  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-16  
 *Evidence-based approaches that reduce extremist vulnerability by strengthening belonging, dignity, and life pathways — rather than policing identity or belief.*
 
 ---
@@ -134,4 +133,4 @@ It documents evidence-based approaches that reduce extremist vulnerability by st
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-16_
