@@ -1,5 +1,5 @@
 # 💷 Survivor Costing Estimate  
-**First created:** 2025-09-06 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-06 | **Last updated:** 2026-08-16  
 *A forensic ledger of what it costs to contain a survivor. Numbers tell their own story of liability.*  
 
 ---
@@ -86,4 +86,4 @@ It translates lived surveillance into financial language — turning harm into l
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-16_
