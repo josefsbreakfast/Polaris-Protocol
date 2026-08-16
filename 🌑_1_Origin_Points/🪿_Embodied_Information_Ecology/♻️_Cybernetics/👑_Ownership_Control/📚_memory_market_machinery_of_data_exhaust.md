@@ -1,5 +1,5 @@
 # 📚 Memory, Market, and the Machinery of Data Exhaust  
-**First created:** 2025-12-14 | **Last updated:** 2026-08-13  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-16  
 *Extractive custody, ownership drift, and the orphaning of digital governance problems.*
 
 ---
@@ -13,6 +13,8 @@ When human behaviour, memory, and cultural participation generate residual data,
 > Who owns what is left behind — and who owns the problems that follow?
 
 Data exhaust is not only a technical artefact or economic opportunity. It represents a transfer of custodial power over human residue. Once behavioural traces are captured at scale, ownership drifts — and downstream harms often lack a clear institutional custodian.
+
+Here, **ownership** is used mainly in the cybernetic sense: practical power to retain, combine, interpret, reuse, and act on information. It does not mean that every platform necessarily acquires unrestricted legal title to every trace, or that data protection rights disappear at collection.
 
 This is not merely extraction.  
 It is governance architecture shifting without explicit redesign.
@@ -44,14 +46,14 @@ But residue is not ownerless simply because it is incidental.
 The defining feature of surveillance capitalism is not the generation of data.  
 It is the quiet reassignment of custody.
 
-Platforms assume de facto ownership over:
+Platforms can acquire de facto control over:
 
 - behavioural traces,  
 - historical queries,  
 - predictive signals,  
 - inferred characteristics.
 
-Individuals rarely retain meaningful control once extraction occurs.
+Individuals may retain legal rights while lacking equivalent practical visibility, bargaining power, or control over downstream inference and reuse.
 
 This is ownership drift — the gradual relocation of custodial authority from person to platform.
 
@@ -81,6 +83,8 @@ The metaphor softens appropriation.
 
 Ownership transfer is reframed as innovation.
 
+That is an analytical warning, not a claim that every secondary use is unlawful or harmful. Reuse can be legitimate, socially useful, and privacy-preserving. The question is whether its purpose, limits, beneficiaries, and routes of challenge remain legible.
+
 ---
 
 ## 📊 III. Behavioural Surplus and Predictive Leverage  
@@ -105,19 +109,33 @@ It requires only an optimisation function that:
 
 When optimisation outruns ownership accountability, extraction becomes structural.
 
+```text
+ordinary participation
+        ↓
+behavioural traces
+        ↓  collection + linkage + inference
+predictive or classificatory model
+        ↓
+choice architecture / targeting / institutional decision
+        ↓
+new behaviour → new traces → stronger model
+```
+
+This loop is a Polaris analytical model. It shows a plausible feedback structure; by itself, it does not establish the purpose, legality, accuracy, or effect of any particular system.
+
 ---
 
 ## 🏛 IV. Competing Custody Models: Libraries vs Platforms  
 
-Libraries provide a contrasting model of memory custody.
+Libraries provide a contrasting professional ideal of memory custody.
 
-They treat:
+At their privacy-protective best, they treat:
 - questions as service,  
 - reading histories as private,  
 - archives as civic trust,  
 - memory as something to be protected.
 
-Platform infrastructures treat:
+Advertising-funded platform infrastructures can treat:
 - queries as signal,  
 - history as asset,  
 - attention as commodity,  
@@ -133,17 +151,17 @@ It is a governance design difference.
 
 ## 🧟‍♀️ V. Zombie Data and the Refusal To Release  
 
-Data is rarely deleted because:
+Some organisations retain data beyond its immediate operational use because:
 
 - storage is inexpensive,  
 - speculative value is assumed,  
 - deletion has no profit incentive.
 
 Retained data becomes capital in suspended animation.
+  
+“Zombie data” names data that remains available for possible future use after its original practical purpose has faded. Its persistence may reflect speculative value, weak deletion incentives, legal holds, technical dependencies, or poor information governance. Those causes should not be collapsed into a single motive.
 
-“Zombie data” persists not because it is needed, but because infinite retention aligns with extractive logic.
-
-The **Right to Be Forgotten** is therefore not a mere compliance mechanism.  
+The legal **right to erasure**, sometimes called the “right to be forgotten”, is qualified rather than absolute. Within those limits, it is more than an administrative mechanism:  
 It is a structural boundary on ownership drift.
 
 It asserts:
@@ -202,6 +220,8 @@ Data protection law addresses lawful processing.
 Competition law addresses dominance and market fairness.  
 Security agencies address external threat vectors.
 
+These descriptions are deliberately schematic. Regulators do cooperate, and their remits overlap; the claim is not that nobody acts, but that cumulative effects can be harder to see and own than violations falling cleanly within one statutory frame.
+
 But who owns the cross-domain question of whether behavioural extraction is reshaping governance power, distorting civic infrastructure, or producing long-term structural harm?
 
 When responsibility is divided by statutory category rather than by systemic outcome, complex problems fall between domains.
@@ -223,7 +243,7 @@ Private actors gain:
 - predictive modelling leverage,  
 - infrastructure-level influence.
 
-Ownership of memory migrates.
+Practical control over recorded and inferred memory migrates.
 
 This alters the balance between:
 
@@ -259,6 +279,29 @@ More fundamental redesign would ask:
 These are not purely economic questions.  
 They are ownership questions.
 
+They are also design questions: who can observe the system, who may change it, who bears its externalities, and who can force deletion, correction, or restraint?
+
+---
+
+## 📚 Sources
+
+The terms **ownership drift**, **zombie data**, and **problem orphaning** are Polaris analytical language. They organise questions about practical control and institutional responsibility; they are not statutory categories, and the feedback diagram above does not prove causation in any particular case.
+
+### Sources Cited Directly in This Node
+
+- [ICO — A guide to the data protection principles](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/a-guide-to-the-data-protection-principles/)
+- [ICO — Purpose limitation](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/a-guide-to-the-data-protection-principles/purpose-limitation/)
+- [ICO — Data minimisation](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/a-guide-to-the-data-protection-principles/data-minimisation/)
+- [ICO — Storage limitation](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/a-guide-to-the-data-protection-principles/storage-limitation/)
+- [EUR-Lex — General Data Protection Regulation, Article 17: right to erasure](https://eur-lex.europa.eu/eli/reg/2016/679/art_17/oj/eng)
+- [Competition and Markets Authority — Online platforms and digital advertising market study](https://www.gov.uk/cma-cases/online-platforms-and-digital-advertising-market-study)
+- [CMA — Appendix F: the role of data in digital advertising](https://www.gov.uk/find-digital-market-research/online-platforms-and-digital-advertising-market-study-appendix-f-the-role-of-data-in-digital-advertising-2020-cma)
+- [CMA — Appendix G: the role of tracking in digital advertising](https://www.gov.uk/find-digital-market-research/online-platforms-and-digital-advertising-market-study-appendix-g-the-role-of-tracking-in-digital-advertising-2020-cma)
+- [CMA — Appendix K: consumer controls over platforms’ data collection](https://www.gov.uk/find-digital-market-research/online-platforms-and-digital-advertising-market-study-appendix-k-consumer-controls-over-platforms-data-collection-2020-cma)
+- [CILIP — Protecting the individual’s right to privacy](https://www.cilip.org.uk/page/ProtectingTheIndividualPrivacy)
+- [FTC — Order prohibiting X-Mode Social and Outlogic from selling sensitive location data](https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-order-prohibits-data-broker-x-mode-social-outlogic-selling-sensitive-location-data)
+- [FTC — Order banning Mobilewalla from selling sensitive location data](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-finalizes-order-banning-mobilewalla-selling-sensitive-location-data)
+
 ---
 
 ## 🌌 Constellations  
@@ -280,22 +323,22 @@ It analyses how behavioural residue becomes subject to extractive custody — an
 
 > 📡 Cross-references:
 > 
-> - [👁️ Restoring Epistemic Integrity](./👁️_restoring_epistemic_integrity.md)  
-> - [🦎 Algorithmic Autotomy](./🦎_algorithmic_autotomy.md)  
-> - [🦠 Systemic Porosity](./🦠_systemic_porosity.md)  
-> - [🦠 AI UK Due Diligence & Autoimmunity Map](./🦠_ai_uk_due_diligence_and_autoimmunity_map.md)  
-> - [🧭 Reflexive Risk](./🧭_reflexive_risk.md)  
-> - [🧨 We Are Already Paying the Cost](./🧨_we_are_already_paying_the_cost.md)  
+> - [👁️ Restoring Epistemic Integrity](./👁️_restoring_epistemic_integrity.md) — how institutions preserve the conditions for knowing.  
+> - [🦎 Algorithmic Autotomy](./🦎_algorithmic_autotomy.md) — how systems shed accountable parts while preserving the larger organism.  
+> - [🦠 Systemic Porosity](./🦠_systemic_porosity.md) — how information and risk cross nominal boundaries.  
+> - [🦠 AI UK Due Diligence & Autoimmunity Map](./🦠_ai_uk_due_diligence_and_autoimmunity_map.md) — institutional checks on AI-related risk.  
+> - [🧭 Reflexive Risk](./🧭_reflexive_risk.md) — how observation and intervention alter the system observed.  
+> - [🧨 We Are Already Paying the Cost](./🧨_we_are_already_paying_the_cost.md) — externalised costs that remain socially real.  
 >  
 > 🏮 Return To:
 >
 > - [👑 Ownership & Control](./README.md)
-> - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
+> - [♻️ Cybernetics](../README.md)  
+> - [🪿 Embodied Information Ecology](../../README.md)
+> - [🌑 Origin Points](../../../README.md)
 > - [🌌 Polaris Protocol - Root](../../../../README.md)  
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-13_
+_Last updated: 2026-08-16_
