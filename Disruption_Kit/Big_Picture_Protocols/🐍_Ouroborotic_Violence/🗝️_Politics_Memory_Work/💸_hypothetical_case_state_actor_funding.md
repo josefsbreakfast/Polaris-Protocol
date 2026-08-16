@@ -1,5 +1,5 @@
 # 💸 Hypothetical Case Study: State Actor Funding Absurd Scenarios  
-**First created:** 2025-09-06 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-06 | **Last updated:** 2026-08-16  
 *Diagnostic mapping of how absurd or shocking scenarios are weaponised against state actors through narrative control.*
 
 ---
@@ -57,4 +57,4 @@ It documents how absurd narratives operate as containment through stigma and met
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
