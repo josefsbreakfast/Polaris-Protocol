@@ -1,5 +1,5 @@
 # ğŸ­ Industrialisation of Misogyny  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-16  
 *How diffuse misogyny was converted into scalable, monetised systems of harm*
 
 ---
@@ -139,4 +139,4 @@ It documents how gendered harm crossed a threshold from subculture into system â
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-16_
