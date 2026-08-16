@@ -1,5 +1,5 @@
 # 🎧 Music as Pipeline  
-**First created:** 2025-09-12  |  **Last updated:** 2025-10-18  
+**First created:** 2025-09-12  |  **Last updated:** 2026-08-16  
 *On how extremist subcultures use music scenes as incubators for radicalisation, laundering ideology through culture.*
 
 ---
@@ -88,4 +88,4 @@ Every movement has a soundtrack.
 This node listens for who is holding the mic when the chorus hits.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
