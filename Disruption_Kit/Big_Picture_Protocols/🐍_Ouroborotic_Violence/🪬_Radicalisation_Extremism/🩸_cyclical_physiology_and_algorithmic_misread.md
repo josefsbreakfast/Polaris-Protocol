@@ -1,5 +1,5 @@
 # 🩸 Cyclical Physiology and Algorithmic Misread  
-**First created:** 2025-10-17  | **Last updated:** 2025-10-18  
+**First created:** 2025-10-17  | **Last updated:** 2026-08-16  
 *How female pain and hormonal cycles are mistranslated as deviance inside digital risk systems.*  
 
 ---
@@ -154,4 +154,4 @@ menstrual bias, adenomyosis, endometriosis, algorithmic misunderstanding, behavi
 It asks a simple question of every behavioural-risk model:  
 **what happens when the human body’s rhythm is treated as a glitch?**  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
