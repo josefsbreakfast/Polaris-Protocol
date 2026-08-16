@@ -1,5 +1,5 @@
 # 🔮 Magical Thinking As An Economic Operating System  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-04  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-16  
 *How faith in self-correcting markets, infinite growth, and innovation-as-salvation became a governing ideology rather than a cognitive error.*  
 
 ---
@@ -166,4 +166,4 @@ It identifies recurring belief structures that enable repeated economic harm whi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-08-16_
