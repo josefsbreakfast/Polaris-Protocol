@@ -1,5 +1,5 @@
 # ✝️ Protestant Work Ethic as Containment  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-27 | **Last updated:** 2026-08-16  
 *How Puritan moralism turned work into fetish, cruelty into discipline, and seeded colonial/industrial containment logics.*  
 
 ---
@@ -61,4 +61,4 @@ It documents how moralised labour became a system of control, linking Puritan di
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
