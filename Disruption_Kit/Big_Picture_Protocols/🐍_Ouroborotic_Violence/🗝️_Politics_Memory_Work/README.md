@@ -1,5 +1,5 @@
 # 🗝️ Political Economy & Memory Work  
-**First created:** 2025-08-27 | **Last updated:** 2025-08-27  
+**First created:** 2025-08-27 | **Last updated:** 2026-08-16  
 *Doctrine on memory, surveillance, and the political economy of trauma and containment.*  
 
 ---
@@ -139,5 +139,5 @@ It gathers together doctrines on how memory, surveillance, and the political eco
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-08-30_  
+_Last updated: 2026-08-16_  
 
