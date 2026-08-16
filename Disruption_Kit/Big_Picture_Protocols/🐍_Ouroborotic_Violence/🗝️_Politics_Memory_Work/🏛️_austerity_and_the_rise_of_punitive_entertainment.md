@@ -1,6 +1,5 @@
-# 🏛️ Austerity and the Rise of Punitive Entertainment
-
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
+# 🏛️ Austerity and the Rise of Punitive Entertainment  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-16  
 *How economic punishment migrated into cultural spectacle.*
 
 ---
@@ -157,4 +156,4 @@ It documents how economic discipline was mirrored and reinforced through enterta
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+*Last updated: 2026-08-16*
