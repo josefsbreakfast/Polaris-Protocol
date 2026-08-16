@@ -1,5 +1,5 @@
 # 💌 Letter by Letter: Erasure Protocol  
-**First created:** 2025-08-08 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-08 | **Last updated:** 2026-08-16  
 *Linguistic erasure as a tool of profiling and control.*  
 
 ---
@@ -84,6 +84,6 @@ It documents how language and transliteration are weaponised to flatten cultural
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
 
 
