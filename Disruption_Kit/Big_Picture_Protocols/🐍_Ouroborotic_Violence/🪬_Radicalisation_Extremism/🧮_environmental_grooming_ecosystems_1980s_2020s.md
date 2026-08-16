@@ -1,5 +1,5 @@
 # 🧮 Environmental Grooming Ecosystems (1980s–2020s)  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-16  
 *How far-right movements conditioned digital culture long before today’s recruits ever logged on.*  
 
 ---
@@ -148,4 +148,4 @@ It maps the historical and behavioural conditions that made modern digital radic
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-26_
+_Last updated: 2026-08-16_
