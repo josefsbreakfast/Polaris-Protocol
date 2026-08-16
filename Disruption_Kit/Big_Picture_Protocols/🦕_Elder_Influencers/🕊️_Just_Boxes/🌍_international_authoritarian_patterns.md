@@ -1,5 +1,5 @@
 # 🌍 International Pattern Library  
-**First created:** 2025-12-13 | **Last updated:** 2025-12-13  
+**First created:** 2025-12-13 | **Last updated:** 2026-08-17  
 *A comparative library of recurring structural patterns through which authoritarian capture emerges across different regimes, eras, and political systems.*
 
 ---
@@ -175,4 +175,4 @@ It situates contemporary governance risks within a longer historical pattern, en
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-08-17_
