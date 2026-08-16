@@ -12,10 +12,10 @@ Those categories overlap, but they are not interchangeable.
 
 For this node, it is necessary to distinguish:
 
-- **the Sovereign acting constitutionally**, ordinarily on ministerial advice;[^1]
-- **members of the Royal Family undertaking official duties**, including visits requested or advised by government;[^2]
+- **the Sovereign acting constitutionally**, ordinarily on ministerial advice;  
+- **members of the Royal Family undertaking official duties**, including visits requested or advised by government;  
 - **the Royal Household as an organisation and recipient of public funding**;
-- **royal patronage**, which does not ordinarily transfer trustees’ legal duties;[^3]
+- **royal patronage**, which does not ordinarily transfer trustees’ legal duties;  
 - **private, charitable or commercial entities associated with individual members**, each governed through its own legal form.
 
 Within this structure exists a recurring governance tension:
@@ -96,8 +96,8 @@ Examples of structural tension:
 | Ministerial activity | Parliamentary responsibility, Ministerial Code and departmental records | Prestige may influence context without constituting a ministerial decision |
 | Official overseas visits | FCDO advice and government coordination | The downstream value of ceremonial access may not be separately recorded |
 | Charities | Trustee duties, accounts and Charity Commission regulation | A patron’s reputational contribution is different from trusteeship and may be difficult to quantify |
-| Public finance | Sovereign Grant accounts, Treasury oversight, NAO audit and parliamentary scrutiny | Financial audit does not necessarily trace every non-financial influence effect[^4] |
-| Public information | Departmental disclosure and Freedom of Information Act duties | Section 37 creates specific protections for some communications involving the Sovereign, Royal Family and Royal Household[^5] |
+| Public finance | Sovereign Grant accounts, Treasury oversight, NAO audit and parliamentary scrutiny | Financial audit does not necessarily trace every non-financial influence effect |
+| Public information | Departmental disclosure and Freedom of Information Act duties | Section 37 creates specific protections for some communications involving the Sovereign, Royal Family and Royal Household |
 
 No single body is mandated to trace:
 
