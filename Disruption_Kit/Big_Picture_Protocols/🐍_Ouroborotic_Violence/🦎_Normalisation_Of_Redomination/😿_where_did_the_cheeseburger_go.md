@@ -1,5 +1,5 @@
 # 😿 Where Did the Cheeseburger Go  
-**First created:** 2026-05-04 | **Last updated:** 2026-05-04  
+**First created:** 2026-05-04 | **Last updated:** 2026-08-16  
 *Cultural node: loss of exploratory space and human-scale creativity in digital industries*
 <!--In my head, it's to the tune of, "Where have all the good men gone?"-->
 ---
@@ -210,4 +210,4 @@ It maps the cultural consequences of optimisation and acceleration, identifying 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-04_
+_Last updated: 2026-08-16_
