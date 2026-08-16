@@ -1,5 +1,5 @@
 # 🇬🇧 Britain After the Queen  
-**First created:** 2025-10-20 | **Last updated:** 2026-05-03  
+**First created:** 2025-10-20 | **Last updated:** 2026-08-17  
 *On symbolic transition, cultural vacuum, and the growing role of data systems in interpreting national mood.*  
 
 ---
@@ -182,4 +182,4 @@ It examines how symbolic transition interacts with modern data systems, and how 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_  
+_Last updated: 2026-08-17_  
