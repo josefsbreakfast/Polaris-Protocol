@@ -1,5 +1,5 @@
 # 🪬 Beyond Zionism  
-**First created:** 2025-10-24 | **Last updated:** 2025-12-12  
+**First created:** 2025-10-24 | **Last updated:** 2026-08-16  
 *Reframing Jewish political identity outside the 19th–20th century Zionist constraint, and mapping how empire, antisemitism, and modern bureaucracies distort the terrain.*
 
 ---
@@ -109,4 +109,4 @@ zionism, jewish identity, empire studies, antisemitism discourse, class politics
 > - [🎭 Narrative & Psych Ops](../../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/README.md) — discourse manipulation and identity capture  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-16_
