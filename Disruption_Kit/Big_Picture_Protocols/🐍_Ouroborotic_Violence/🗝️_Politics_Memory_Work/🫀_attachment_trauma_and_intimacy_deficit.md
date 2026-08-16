@@ -1,5 +1,5 @@
 # 🫀 Attachment Trauma and Intimacy Deficit  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-16  
 *How unmet attachment needs are rerouted into control, dominance, and coercion*
 
 ---
@@ -158,4 +158,4 @@ It documents the psychological conditions that allow coercive systems to feel st
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-16_
