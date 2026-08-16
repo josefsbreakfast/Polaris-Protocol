@@ -1,5 +1,5 @@
 # 🎩 Edwardian Occult as Live-Action Privilege
-**First created:** 2025-11-18 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-16  
 *Golden Dawn aristocrats and the uncredited labour of Pamela Colman Smith.*
 
 ---
@@ -56,4 +56,4 @@ It documents how class performance obscured the real creators of esoteric cultur
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-08-16_
