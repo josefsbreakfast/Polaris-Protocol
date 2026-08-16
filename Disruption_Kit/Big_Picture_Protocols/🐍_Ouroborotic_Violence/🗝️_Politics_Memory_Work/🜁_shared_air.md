@@ -1,5 +1,5 @@
 # 🜁 Shared Air — Intellectual Proximity and the Myth of Innocent Silence  
-**First created:** 2025-10-23 | **Last updated:** 2025-12-12  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-16  
 *When proximity of thought becomes participation in atmosphere.*  
 
 ---
@@ -94,4 +94,4 @@ It documents how ideas survive moral collapse by continuing to breathe the same 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-16_
