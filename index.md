@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 19:54:39 UTC_
+_Generated on 2026-08-16 19:59:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,13 +18,6 @@ _Generated on 2026-08-16 19:54:39 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
-        - [`🐦‍🔥_the_signature_trap.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🐦‍🔥_the_signature_trap.md)
-        - [`🐻_you_are_not_the_boss_of_me_from_800_miles_away.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🐻_you_are_not_the_boss_of_me_from_800_miles_away.md)
-        - [`💌_letter_by_letter_erasure_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/💌_letter_by_letter_erasure_protocol.md)
-        - [`💌_survivor_consent_is_not_yours.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/💌_survivor_consent_is_not_yours.md)
-        - [`💣_the_cultural_bomb.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/💣_the_cultural_bomb.md)
-        - [`💸_hypothetical_case_state_actor_funding.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/💸_hypothetical_case_state_actor_funding.md)
-        - [`📖_erased_archives_and_survival_bias.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📖_erased_archives_and_survival_bias.md)
         - [`📜_blavatsky_case_study_cairo_ban.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📜_blavatsky_case_study_cairo_ban.md)
         - [`📜_book_of_esther_foi_edition.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📜_book_of_esther_foi_edition.md)
         - [`📜_freedom_of_information_loopholes.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/📜_freedom_of_information_loopholes.md)
@@ -3037,6 +3030,13 @@ _Generated on 2026-08-16 19:54:39 UTC_
         - [`🏛️_austerity_and_the_rise_of_punitive_entertainment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/🏛️_austerity_and_the_rise_of_punitive_entertainment.md)
         - [`🏭_industrialisation_of_misogyny.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/🏭_industrialisation_of_misogyny.md)
         - [`🐝_sanctions_as_loyalty_test.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/🐝_sanctions_as_loyalty_test.md)
+        - [`🐦‍🔥_the_signature_trap.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/🐦‍🔥_the_signature_trap.md)
+        - [`🐻_you_are_not_the_boss_of_me_from_800_miles_away.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/🐻_you_are_not_the_boss_of_me_from_800_miles_away.md)
+        - [`💌_letter_by_letter_erasure_protocol.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/💌_letter_by_letter_erasure_protocol.md)
+        - [`💌_survivor_consent_is_not_yours.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/💌_survivor_consent_is_not_yours.md)
+        - [`💣_the_cultural_bomb.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/💣_the_cultural_bomb.md)
+        - [`💸_hypothetical_case_state_actor_funding.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/💸_hypothetical_case_state_actor_funding.md)
+        - [`📖_erased_archives_and_survival_bias.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/📖_erased_archives_and_survival_bias.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/notes.txt)
     - [**♻️_Cybernetics/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/.🌱_Still_Growing/)
