@@ -1,5 +1,5 @@
 # 🧠 Bargain Bin Mossad  
-**First created:** 2025-08-26 | **Last updated:** 2026-01-15  
+**First created:** 2025-08-26 | **Last updated:** 2026-08-16  
 *A forensic satire of crude psyops, clumsy bureaucrats, and the misuse of clinical shorthand as containment theatre.*  
 
 ---
@@ -194,4 +194,4 @@ It satirises the crude migration of psychometric and clinical shorthand into sur
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2026-01-15_  
+_Last updated: 2026-08-16_  
