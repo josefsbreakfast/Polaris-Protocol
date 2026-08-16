@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 14:08:18 UTC_
+_Generated on 2026-08-16 14:17:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -181,7 +181,6 @@ _Generated on 2026-08-16 14:08:18 UTC_
         - [`🧠_cognitive_dissonance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🧠_cognitive_dissonance.md)
         - [`🩸_the_repetition_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md)
       - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/)
-        - [`📍_postcode_harm_ecology.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/📍_postcode_harm_ecology.md)
         - [`📣_mainstream_visibility_gaps.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/📣_mainstream_visibility_gaps.md)
         - [`📱_algorithmic_recruitment.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/📱_algorithmic_recruitment.md)
         - [`🔊_voice_as_recruitment_channel.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🔊_voice_as_recruitment_channel.md)
@@ -4130,6 +4129,7 @@ _Generated on 2026-08-16 14:08:18 UTC_
         - [`💔_social_injury_and_radicalisation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/💔_social_injury_and_radicalisation.md)
         - [`💞_connection_as_leverage.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/💞_connection_as_leverage.md)
         - [`💸_shame_as_control_currency_the_architecture_of_self_silencing.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/💸_shame_as_control_currency_the_architecture_of_self_silencing.md)
+        - [`📍_postcode_harm_ecology.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/📍_postcode_harm_ecology.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
     - [**🕸️🧿_The_Observed_Information_Space/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/)
