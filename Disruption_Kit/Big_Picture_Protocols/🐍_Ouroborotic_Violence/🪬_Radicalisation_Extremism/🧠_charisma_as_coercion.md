@@ -1,5 +1,5 @@
 # 🧠 Charisma Is Just Coercion  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-16  
 *Fascist “charisma” is a myth. The behaviours being described are coercive-control techniques, not magic.*  
 
 ---
@@ -188,4 +188,4 @@ It provides survivor-framed clarity for recognising manipulative political actor
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-26_
+_Last updated: 2026-08-16_
