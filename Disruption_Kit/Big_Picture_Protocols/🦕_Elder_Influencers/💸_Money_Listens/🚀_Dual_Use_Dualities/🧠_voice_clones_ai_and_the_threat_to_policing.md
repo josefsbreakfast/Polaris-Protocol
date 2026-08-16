@@ -1,5 +1,5 @@
 # 🧠 Voice Clones, AI & the Threat to Policing  
-**First created:** 2025-10-11 | **Last updated:** 2026-01-06  
+**First created:** 2025-10-11 | **Last updated:** 2026-08-16  
 *How synthetic audio undermines evidential integrity, command confidence, and public trust.*
 
 ---
@@ -93,4 +93,4 @@ It documents how synthetic audio technologies compromise operational trust, evid
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-16_
