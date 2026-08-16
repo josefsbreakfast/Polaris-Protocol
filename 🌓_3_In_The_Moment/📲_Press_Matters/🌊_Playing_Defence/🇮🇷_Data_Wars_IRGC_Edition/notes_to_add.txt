@@ -1,0 +1,38 @@
+update 2026-08-16 am:  
+
+There is one credible new development worth adding.
+
+🇫🇷 France — government administration / national tax infrastructure. France’s Finance Ministry confirmed on 13–14 August 2026 that an attacker breached the Directorate General of Public Finances (DGFiP), the national tax authority, and extracted taxpayer data. The intrusion itself occurred in late June but only became public after an actor using the name ZeroBytes advertised stolen material on a cybercrime forum on 12 August. French authorities say access was terminated during a routine check in June, but they did not initially detect the data exfiltration.  
+
+The operational effect is currently confidentiality loss rather than demonstrated service disruption. More than 600,000 detailed taxpayer/business records appear in the material offered for sale; reporting describes addresses, phone numbers, income information, tax rates and household information among the exposed fields. The attacker has claimed much broader access and continuing access to other DGFiP systems, but those claims have not been independently established.  
+
+Attribution confidence: 🟠 probable financially motivated criminal intrusion; state sponsorship ⚪ open but unsupported. The attacker openly offered the database for sale, reportedly described use of stolen credentials and an MFA bypass, and offered access to the compromised environment. That provides a straightforward cybercriminal explanation. There is presently no public evidence connecting the operation to Iran, the IRGC, an Iranian proxy, or wartime tasking.  
+
+Methodologically, it overlaps with techniques Iranian actors also use—particularly credential theft, identity abuse, VPN access and exploitation of weak authentication—but those techniques are far too generic to carry attribution weight. CISA’s established Iranian reporting documents brute-force and credential-access operations, so the method fits but the victimology + monetisation behaviour currently fit ordinary criminal intrusion better.  
+
+The more interesting pattern change is on the French side. This is not an isolated French-government compromise: Le Monde notes a February breach involving the database of bank accounts opened in France and a 31 July Education Ministry disclosure affecting a significant number of employees. That creates a developing French public-administration exposure cluster, although there is currently no evidence that the incidents share an operator or sponsor.  
+
+Since 28 February 2026, I would therefore update the picture this way:
+
+IRAN-RELEVANT DISRUPTION
+water / OT
+→ repeated operational effects
+→ Iranian-linked assessment remains plausible and materially distinct
+PUBLIC-ADMINISTRATION EXPOSURE
+US municipalities → ransomware / service disruption
+France → repeated government data compromise
+→ increasing pattern confidence
+→ common sponsor NOT established
+CRIMINAL / SHARED-VULNERABILITY ACTIVITY
+Cl0p / enterprise platforms / extortion
+→ substantial cross-sector reach
+→ currently stronger criminal explanation
+COMMON IRANIAN CAMPAIGN
+→ still not supported across the whole incident set
+
+The French breach therefore widens the wartime attack-surface pattern without strengthening Iranian attribution. The U.S. water/OT line remains the anomaly with the strongest combination of physical effects, repeated technique, strategic timing and prior Iranian-linked precedent. CISA’s July advisory still explicitly describes Iranian-affiliated actors targeting internet-exposed PLCs with disruptive intent.  
+
+I found no newer credible water, energy, defence, transport, telecom, healthcare or systemically important banking incident published on 15–16 August that clears the notification threshold.
+
+---
+
