@@ -1,5 +1,5 @@
 # 🚀 Dual Use Dualities — README  
-**First created:** 2025-10-08 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-08 | **Last updated:** 2026-08-16  
 *Analytical and satirical cluster exposing how dual-use economics blur the line between innovation, coercion, and moral theatre.*
 
 ---
@@ -66,4 +66,4 @@ It anchors both the analytical and satirical interrogation of dual-use ethics �
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-16_
