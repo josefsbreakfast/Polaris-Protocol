@@ -1,5 +1,5 @@
 # 📜 Statutes  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-04 | **Last updated:** 2026-08-17  
 *A live ledger of statutory, contractual, and quasi-legal instruments that scaffold suppression.*
 
 ---
@@ -56,4 +56,4 @@ Every statute here is both artefact and warning: proof that law can speak the la
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-17_
