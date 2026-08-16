@@ -1,5 +1,5 @@
 # 👻 Transparencies Overhead  
-**First created:** 2025-10-13 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-13 | **Last updated:** 2026-08-16  
 *Tracing how the appearance of “transparency” in economic and algorithmic systems can itself obscure the direction of power.*  
 
 ---
@@ -49,4 +49,4 @@ It interrogates how the rhetoric of visibility can obscure the architectures of 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2026-08-16_
