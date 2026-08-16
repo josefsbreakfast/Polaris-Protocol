@@ -1,5 +1,5 @@
 # 🍸 Borders as Nightclub Entry Doors  
-**First created:** 2026-01-18 | **Last updated:** 2026-01-18  
+**First created:** 2026-01-18 | **Last updated:** 2026-08-17  
 *Borders as discretionary access mechanisms rather than fixed lines of protection*
 
 ---
@@ -201,4 +201,4 @@ It reframes border regimes as discretionary access systems rather than defensive
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-18_
+_Last updated: 2026-08-17_
