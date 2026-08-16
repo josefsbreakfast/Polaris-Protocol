@@ -1,5 +1,5 @@
 # 🕯️ Shabbat Is Anticapitalist  
-**First created:** 2025-10-24 | **Last updated:** 2025-12-19  
+**First created:** 2025-10-24 | **Last updated:** 2026-08-16  
 *Why enforced rest, limits on extraction, and time made holy stand in permanent tension with empire.*
 
 ---
@@ -229,4 +229,4 @@ It contributes ethical and cultural analysis showing how Jewish temporal law fun
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-08-16_
