@@ -1,5 +1,5 @@
 # 🕸️ Digitally Networked Sexual Violence  
-**First created:** 2025-11-23 | **Last updated:** 2026-02-20  
+**First created:** 2025-11-23 | **Last updated:** 2026-08-16  
 *Definition and diagnostic mapping of the emerging harm-pattern in which groups of men use digital platforms to coordinate, validate, or enact sexual violence.*  
 
 ---
@@ -161,4 +161,4 @@ It formalises an emerging harm-pattern currently invisible to policing, safeguar
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-08-16_
