@@ -1,5 +1,5 @@
 # 🕳️ Denial of Genocide & Denial of Vicarious Trauma  
-**First created:** 2025-12-16 | **Last updated:** 2025-12-16  
+**First created:** 2025-12-16 | **Last updated:** 2026-08-16  
 *How large-scale atrocity denial and the dismissal of secondary trauma function as the same containment move at different scales.*
 
 ---
@@ -132,4 +132,4 @@ It documents how harm is systematically narrowed to preserve power, and how witn
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-16_
+_Last updated: 2026-08-16_
