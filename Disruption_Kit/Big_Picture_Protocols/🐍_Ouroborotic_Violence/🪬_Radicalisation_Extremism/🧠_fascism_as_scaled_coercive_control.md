@@ -1,5 +1,5 @@
 # 🧠 Fascism as Scaled Coercive Control  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-16  
 *Fascism is not “charisma” or ideology — it is coercive control expanded from the household to the state.*  
 
 ---
@@ -167,4 +167,4 @@ It supports survivor-led deradicalisation analysis by reframing authoritarianism
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-26_
+_Last updated: 2026-08-16_
