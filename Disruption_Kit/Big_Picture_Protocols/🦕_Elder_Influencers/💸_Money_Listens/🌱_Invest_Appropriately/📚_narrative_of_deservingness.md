@@ -1,5 +1,5 @@
 # 📚 Narrative of Deservingness  
-**First created:** 2025-10-10 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-10 | **Last updated:** 2026-08-16  
 *How stories of virtue and austerity shape who is deemed fundable, curable, or worth saving.*  
 
 ---
@@ -150,4 +150,4 @@ It traces how centuries-old moral code still governs allocation, credibility, an
 > - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *emotional governance logic*  
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-16_
