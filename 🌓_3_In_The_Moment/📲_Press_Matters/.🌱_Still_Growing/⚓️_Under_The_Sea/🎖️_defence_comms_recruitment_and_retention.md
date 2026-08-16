@@ -1,5 +1,5 @@
 # 🎖️ Defence Comms Recruitment And Retention  
-**First created:** 2026-05-31 | **Last updated:** 2026-05-31  
+**First created:** 2026-05-31 | **Last updated:** 2026-08-16  
 *A defence media-literacy node on public meaning, service purpose, recruitment, retention, and why good defence communication cannot be reduced to propaganda.*
 
 ## 🛰️ Orientation
@@ -271,4 +271,4 @@ The node supports a wider defence-governance frame in which morale, scrutiny, an
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-31_
+_Last updated: 2026-08-16_
