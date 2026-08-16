@@ -1,5 +1,5 @@
 # ⚖️ Contingent Conservatism and Long-Horizon Politics  
-**First created:** 2025-11-07 | **Last updated:** 2026-05-03  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-17  
 *How conditional restraint is used to preserve power, defer accountability, and shape political outcomes across long time horizons.*  
 
 ---
@@ -216,4 +216,4 @@ It documents how conditional restraint functions as a long-horizon governance st
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_
+_Last updated: 2026-08-17_
