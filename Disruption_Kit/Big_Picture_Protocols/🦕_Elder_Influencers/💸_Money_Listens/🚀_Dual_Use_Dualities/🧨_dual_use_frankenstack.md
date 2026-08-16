@@ -1,5 +1,5 @@
 # 🧨 Dual-Use Frankenstack  
-**First created:** 2025-11-08 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-08 | **Last updated:** 2026-08-16  
 *Hypothetical composite stack illustrating how civilian behavioural-tech layers could hybridise into a coercive governance system.*  
 
 ---
@@ -98,4 +98,4 @@ It maps how well-intentioned behavioural systems could fuse into coercive infras
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-16_
