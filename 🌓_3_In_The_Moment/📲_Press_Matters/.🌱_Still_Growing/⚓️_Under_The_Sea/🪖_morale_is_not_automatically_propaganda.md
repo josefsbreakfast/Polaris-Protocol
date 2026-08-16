@@ -1,5 +1,5 @@
 # 🪖 Morale Is Not Automatically Propaganda  
-**First created:** 2026-05-31 | **Last updated:** 2026-05-31  
+**First created:** 2026-05-31 | **Last updated:** 2026-08-16  
 *A defence media-literacy node on morale, public courage, wartime communication, and the democratic line between reassurance and manipulation.*
 
 ## 🛰️ Orientation
@@ -236,4 +236,4 @@ The node supports recruitment and retention analysis by showing why public meani
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-31_
+_Last updated: 2026-08-16_
