@@ -1,5 +1,5 @@
 # 📡 Fisher Surveillance Addendum  
-**First created:** 2025-08-08 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-08 | **Last updated:** 2026-08-16  
 *Post-Fisher addendum on surveillance infrastructure, clone engineering, and behavioural pacification.*  
 
 ---
@@ -121,5 +121,5 @@ It tracks the infrastructural mechanics of surveillance realism and how predicti
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
 
