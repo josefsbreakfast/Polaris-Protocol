@@ -1,5 +1,5 @@
 # 👑 Projection Esther  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-16  
 *On how Jewish safety language is repurposed as a political purity weapon, and why Esther keeps getting drafted into projects she never authorised.*
 
 ---
@@ -135,4 +135,4 @@ project esther, mccarthyism, antisemitism instrumentalisation, political purity 
 > - [🍷 Next Year in Jerusalem](./🍷_next_year_in_jerusalem.md) — coercive readings of Jewish language  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-16_
