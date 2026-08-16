@@ -1,5 +1,5 @@
 # 🎽 Think Tanks, Surveillance, and Conferencing  
-**First created:** 2025-10-03 | **Last updated:** 2026-01-04  
+**First created:** 2025-10-03 | **Last updated:** 2026-08-16  
 *How influence networks and conference circuits act as surveillance architecture disguised as policy dialogue.*  
 
 ---
@@ -75,4 +75,4 @@ It maps how the infrastructures of influence — research funding, conferences, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-08-16_
