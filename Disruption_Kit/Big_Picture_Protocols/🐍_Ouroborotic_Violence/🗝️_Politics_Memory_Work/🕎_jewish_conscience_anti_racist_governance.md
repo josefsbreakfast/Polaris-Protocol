@@ -1,5 +1,5 @@
 # 🕎 Jewish Conscience & Anti-Racist Governance  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-16  
 *Why Jewish ethical frameworks align with divestment.*  
 
 ---
@@ -34,4 +34,4 @@ jewish ethics, anti racism, divestment
 *🕎 Jewish Conscience & Anti-Racist Governance* is a living node of the Polaris Protocol.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-16_
