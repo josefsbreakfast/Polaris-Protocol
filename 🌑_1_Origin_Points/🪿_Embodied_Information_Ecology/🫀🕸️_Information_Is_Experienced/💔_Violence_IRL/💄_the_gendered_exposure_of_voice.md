@@ -1,5 +1,5 @@
 # 💄 The Gendered Exposure of Voice  
-**First created:** 2025-10-27 | **Last updated:** 2026-02-20  
+**First created:** 2025-10-27 | **Last updated:** 2026-08-16  
 *Why feminine affect remains a high-value capture vector in digital economies of attention and harm.*
 
 ---
@@ -72,4 +72,4 @@ It insists that risk assessment without gender analysis is not ethics — it is 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-08-16_
