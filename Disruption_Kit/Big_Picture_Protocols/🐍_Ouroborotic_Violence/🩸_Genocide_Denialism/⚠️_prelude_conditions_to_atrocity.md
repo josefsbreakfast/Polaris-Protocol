@@ -1,5 +1,5 @@
 # ⚠️ Prelude Conditions to Atrocity  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-16  
 *How democratic systems generate the conditions for mass harm before violence becomes explicit.*  
 
 ---
@@ -169,4 +169,4 @@ It documents how structural, legal, and narrative conditions converge to make ma
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-16_
