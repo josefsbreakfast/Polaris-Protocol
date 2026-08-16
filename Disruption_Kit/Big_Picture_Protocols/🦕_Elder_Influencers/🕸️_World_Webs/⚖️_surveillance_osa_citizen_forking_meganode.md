@@ -1,5 +1,5 @@
 # ⚖️ Surveillance, OSA, and Citizen Forking — MEGA NODE  
-**First created:** 2025-09-05 | **Last updated:** 2026-05-03  
+**First created:** 2025-09-05 | **Last updated:** 2026-08-17  
 *A longform diagnostic of UK surveillance opacity, cyberforensic spoofing, and how structural conditions can limit citizen visibility and contestability.*  
 
 ---
@@ -247,4 +247,4 @@ It examines how surveillance law, data systems, and oversight mechanisms interac
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-05-03*
+*Last updated: 2026-08-17*
