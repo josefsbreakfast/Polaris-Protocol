@@ -1,5 +1,5 @@
 # 👑 Crown Immunity and Integrity  
-**First created:** 2025-10-21 | **Last updated:** 2025-10-21  
+**First created:** 2025-10-21 | **Last updated:** 2026-08-17  
 *Constitutional accountability, safeguarding, and credibility under royal exceptionalism.*
 
 ---
@@ -397,4 +397,4 @@ Its purpose is to design mid-range accountability architectures where precedent 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-21_
+_Last updated: 2026-08-17_
