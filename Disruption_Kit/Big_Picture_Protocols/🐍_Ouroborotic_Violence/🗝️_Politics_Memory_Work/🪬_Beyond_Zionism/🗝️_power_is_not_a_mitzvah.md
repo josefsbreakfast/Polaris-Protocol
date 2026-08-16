@@ -1,5 +1,5 @@
 # 🗝️ Power Is Not a Mitzvah  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-16  
 *On why Jewish tradition treats power as dangerous, conditional, and often better refused.*
 
 ---
@@ -84,4 +84,4 @@ power and judaism, halakha, sovereignty critique, temple mount, rabbinic ethics,
 > - [🍷 Next Year in Jerusalem](./🍷_next_year_in_jerusalem.md) — liturgy vs sovereignty  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-16_
