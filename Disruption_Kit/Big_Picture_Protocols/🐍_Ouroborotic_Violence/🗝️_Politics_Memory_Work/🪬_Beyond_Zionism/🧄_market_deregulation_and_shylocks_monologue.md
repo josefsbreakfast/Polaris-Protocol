@@ -1,5 +1,5 @@
 # 🧄 Market Deregulation and Shylock’s Monologue  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-16  
 *How coerced “middleman economies” become scapegoats — and how deregulated frontier markets keep the archetype alive.*
 
 ---
@@ -192,4 +192,4 @@ It contributes structural analysis of how coerced intermediary roles become scap
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-08-16_
