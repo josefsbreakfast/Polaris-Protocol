@@ -1,5 +1,5 @@
 # 🛑 Rabbinic Silence as Theological Collapse  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-16  
 *How institutional rabbinic silence on Palestinian torture constitutes a breach in Torah’s moral architecture.*  
 
 ---
@@ -55,4 +55,4 @@ It interrogates how trauma, power, and fear corrode moral leadership.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-16_
