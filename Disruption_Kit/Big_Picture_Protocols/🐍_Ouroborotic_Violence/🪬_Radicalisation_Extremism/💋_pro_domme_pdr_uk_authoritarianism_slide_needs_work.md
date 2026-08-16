@@ -1,5 +1,5 @@
 # 🇬🇧 Professional Dominatrix PDR of the UK — Authoritarian Stress Test  
-**First created:** 2025-10-01 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-01 | **Last updated:** 2026-08-16  
 *A school report on Britain’s democratic resilience under authoritarian stress, using Timothy Snyder’s **On Tyranny** as the syllabus.*  
 
 ---
@@ -58,4 +58,4 @@ It cross-links to survivor-authored analyses of suppression and governance drift
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
