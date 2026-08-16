@@ -1,5 +1,5 @@
 # 🛰️ Cultural Capture of Internet Boys  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-16  
 *How fascist, manosphere, and extremist movements strategically rewrote the emotional culture of online boyhood.*
 
 ---
@@ -203,4 +203,4 @@ It situates modern radicalisation within a 30-year emotional and cultural hijack
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-16_
