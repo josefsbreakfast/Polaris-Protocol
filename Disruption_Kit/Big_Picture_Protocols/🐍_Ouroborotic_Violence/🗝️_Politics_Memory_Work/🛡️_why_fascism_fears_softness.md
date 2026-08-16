@@ -1,5 +1,5 @@
 # 🛡️ Why Fascism Fears Softness  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-16  
 *Why the gentleness, empathy, creativity, and emotional honesty of soft boys, queer communities, and progressive subcultures represent an existential threat to authoritarian power.*  
 
 ---
@@ -243,4 +243,4 @@ It articulates the strategic, emotional, and political threat softness poses to 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-26_
+_Last updated: 2026-08-16_
