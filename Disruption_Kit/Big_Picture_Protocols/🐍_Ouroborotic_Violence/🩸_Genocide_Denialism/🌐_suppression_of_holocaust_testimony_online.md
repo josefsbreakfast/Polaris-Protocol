@@ -1,5 +1,5 @@
 # 🌐 Suppression of Holocaust Testimony Online  
-**First created:** 2025-10-02 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-02 | **Last updated:** 2026-08-16  
 *Tracing how Holocaust desecrations tied to Yom Kippur vanish from the English web, and what that suppression reveals.*  
 
 ---
@@ -97,4 +97,4 @@ holocaust denial, algorithmic suppression, yom kippur, lodz ghetto, babi yar, tr
 *Suppression of Holocaust Testimony Online* is a methodological node of the Polaris Protocol.  
 It records how the public web flattens desecrations of Yom Kippur, and how survivor voices re-emerge when suppression is exposed.  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
