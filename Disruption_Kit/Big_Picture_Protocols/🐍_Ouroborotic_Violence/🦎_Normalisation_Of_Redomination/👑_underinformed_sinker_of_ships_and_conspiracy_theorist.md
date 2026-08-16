@@ -1,5 +1,5 @@
 # 👑 Underinformed Sinker of Ships and Conspiracy Theorist  
-First created: 2026-05-28 | Last updated: 2026-05-28  
+First created: 2026-05-28 | Last updated: 2026-08-16  
 Diagnostic node: money-boy logic, loyalty failure, and domination culture mistaking access for intelligence.
 
 ---
@@ -760,4 +760,4 @@ It maps the figure of the over-networked, under-loyal actor whose danger lies no
 
 Survivor authorship is sovereign. Containment is never neutral.  
 
-_Last updated: 2026-05-28
+_Last updated: 2026-08-16_
