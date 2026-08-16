@@ -1,5 +1,5 @@
 # ⚠️ Rejection as Existential Threat  
-**First created:** 2025-12-14 | **Last updated:** 2026-01-15  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-16  
 *How refusal is experienced as annihilation within coercive masculinity systems*
 
 ---
@@ -160,4 +160,4 @@ It documents how unmet attachment needs and identity fragility distort relationa
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-15_
+_Last updated: 2026-08-16_
