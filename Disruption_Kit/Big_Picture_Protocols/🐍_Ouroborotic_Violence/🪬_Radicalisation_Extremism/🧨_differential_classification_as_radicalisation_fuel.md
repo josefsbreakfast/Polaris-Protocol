@@ -1,5 +1,5 @@
 # 🧨 Differential Classification as Radicalisation Fuel  
-**First created:** 2025-10-06 | **Last updated:** 2026-05-13  
+**First created:** 2025-10-06 | **Last updated:** 2026-08-16  
 *How unequal classification of ideologically motivated violence can undermine public trust and contribute to radicalisation conditions.*  
 
 ---
@@ -116,4 +116,4 @@ It examines how perceived inconsistency in the classification of ideologically m
 
 *This node is diagnostic, not accusatory. It examines structural perceptions, governance effects, and classification dynamics rather than asserting coordinated intent.*  
 
-_Last updated: 2026-05-13_
+_Last updated: 2026-08-16_
