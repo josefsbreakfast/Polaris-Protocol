@@ -1,5 +1,5 @@
 # 🗝 Contingency Erasure  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-14 | **Last updated:** 2026-08-16  
 *The deletion of drafts, working notes, and decision traces that once revealed process — leaving only curated final versions and erasing dissent from the record.*
 
 ---
@@ -88,4 +88,4 @@ It documents how **draft destruction and metadata purging** operate as tools of 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
