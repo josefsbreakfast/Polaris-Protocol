@@ -1,5 +1,5 @@
 # 🏛️ Procedural Gatekeeping — Speaker & Leader Alignment  
-**First created:** 2025-10-11 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-11 | **Last updated:** 2026-08-17  
 *How institutional alignment between the Speaker and the Leader of the House shapes access to scrutiny.*  
 
 ---
@@ -78,4 +78,4 @@ It documents how structural alignment between the Speaker and the Leader of the 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-17_
