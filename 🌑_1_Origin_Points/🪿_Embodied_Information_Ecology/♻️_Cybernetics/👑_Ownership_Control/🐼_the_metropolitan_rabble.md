@@ -1,5 +1,5 @@
 # 🐼 The Metropolitan Rabble
-**First created:** 2025-12-22 | **Last updated:** 2026-08-14  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-16  
 *Authority is not the same thing as coherence — and policing becomes dangerous when coercive power outruns organisational learning.*
 
 ---
@@ -35,6 +35,8 @@ Policing has documented histories of:
 - institutional defensiveness;
 - unlawful behaviour;
 - and serious failures of accountability.
+
+Those are not merely rhetorical categories. HMICFRS has documented failures in vetting, misconduct handling, misogyny, supervision and organisational learning across policing, including specific inspection work on the Metropolitan Police. The Met is therefore being used here as a documented case study, not as a synonym for every police force.[^1]
 
 But **corruption cannot safely become a catch-all explanation for every institutional failure**.
 
@@ -211,6 +213,8 @@ The people who control most about the system may know least about an encounter.
 
 Good policing therefore depends upon the quality of the interfaces between them.
 
+The diagram is an **analytical model**, not a claim that every command chain or encounter follows the same route. It can be tested against inspection findings, complaint and misconduct records, incident reviews, training changes and evidence about whether lessons reach later practice.
+
 ---
 
 ## 🧠 4. Status Games Where Governance Should Be
@@ -311,6 +315,8 @@ But:
 > **an institution cannot learn if changing your mind is coded as weakness.**
 
 The cultural reference therefore matters because policing is governed not only by formal policy but by ideas about **what a proper police officer looks like**.
+
+The 2024 Code of Ethics provides a useful institutional counter-model: courage is paired with accountability; respect with listening; and public service with trust and confidence. It explicitly treats reflection and professional improvement as part of ethical policing.[^2]
 
 ---
 
@@ -430,7 +436,7 @@ It can also produce:
 - uneven capability;
 - and difficult ownership of cross-force problems.
 
-The Government's January 2026 policing white paper explicitly identifies the existing 43-force structure as fragmented and proposes fewer forces alongside a new **National Police Service**, intended to provide national strategic leadership and stronger standards while retaining locally responsive policing.
+The Government's January 2026 policing white paper explicitly identifies the existing 43-force structure as fragmented and proposes fewer forces alongside a new **National Police Service**, intended to provide national strategic leadership and stronger standards while retaining locally responsive policing.[^3]
 
 That is a live governance experiment.
 
@@ -481,7 +487,7 @@ It is:
 
 August 2026 supplied a useful counter-example to the idea that police leadership is simply too fragmented to act collectively.
 
-All **43 chief constables in England and Wales** joined a public intervention concerning the proposed early release arrangements affecting the men convicted of the manslaughter of PC Andrew Harper.
+All **43 chief constables in England and Wales** joined a public intervention concerning proposed early-release arrangements, including the possible effect upon the men convicted of the manslaughter of PC Andrew Harper.[^4]
 
 Whatever one's view of that intervention, its structural significance is straightforward:
 
@@ -595,6 +601,8 @@ The tension cannot be eliminated.
 
 It has to be governed.
 
+This is also a legal-governance design, not simply a convention. The **Policing Protocol Order 2023** safeguards chief constables' operational independence while preserving accountability through police and crime commissioners and the Home Secretary's national responsibilities.[^5]
+
 ---
 
 ## 🚨 12. Enforcement Without Situational Intelligence
@@ -695,13 +703,13 @@ That terminology matters.
 
 The category covers very different circumstances and does **not**, by itself, establish that police action caused a death or that misconduct occurred.
 
-The 2024/25 IOPC statistics, for example, recorded:
+The latest published IOPC statistics, covering **2025/26**, recorded:
 
-- 26 road-traffic fatalities;
-- 2 fatal police shootings;
-- 17 deaths in or following police custody;
-- 60 apparent suicides following police custody;
-- and 50 other deaths following police contact that were independently investigated.
+- 15 road-traffic fatalities;
+- 4 fatal police shootings;
+- 27 deaths in or following police custody;
+- 67 apparent suicides following police custody;
+- and 63 other deaths following police contact that were independently investigated.[^6]
 
 Those categories cannot responsibly be collapsed into a single causal claim.
 
@@ -768,9 +776,9 @@ Historic undercover policing raises another set of unresolved accountability que
 
 The **Undercover Policing Inquiry** was established in 2015 under the Inquiries Act 2005 to examine undercover policing in England and Wales since 1968.
 
-As of **16 July 2026**, the Home Office is consulting on the future structure, scope and format of the Inquiry.
+As of **16 August 2026**, the Home Office is consulting on the future structure, scope and format of the Inquiry.
 
-The consultation closes at **11:59pm on 20 August 2026**.
+The consultation was originally due to close on 20 August, but the official page was updated on 29 July. It now closes at **11:59pm on 20 September 2026**.[^7]
 
 The Government says ministers are concerned about:
 
@@ -1135,6 +1143,8 @@ the institution becomes less able to perceive the environment it is supposed to 
 
 > **Legitimacy is therefore partly an information asset.**
 
+This is an analytical compression of an established empirical relationship, not a free-standing factual finding. Home Office and College of Policing material links procedural justice and perceived legitimacy with trust, cooperation, reporting and willingness to provide information.[^8]
+
 ---
 
 ## 🧭 Diagnostic Questions
@@ -1169,6 +1179,180 @@ Most importantly:
 
 ---
 
+## 📚 Sources
+
+### Sources Cited Directly in This Node
+
+- [HMICFRS — An inspection of vetting, misconduct, and misogyny in the police service](https://hmicfrs.justiceinspectorates.gov.uk/publication-html/an-inspection-of-vetting-misconduct-and-misogyny-in-the-police-service/)
+
+- [HMICFRS — A report into the effectiveness of integrity arrangements in the Metropolitan Police Service](https://hmicfrs.justiceinspectorates.gov.uk/publication-html/metropolitan-police-integrity-report-july-2026/)
+
+- [College of Policing — Code of Ethics](https://www.college.police.uk/ethics/code-of-ethics)
+
+- [College of Policing — Ethical policing principles](https://www.college.police.uk/ethics/code-of-ethics/principles)
+
+- [Home Office — From local to national: a new model for policing](https://www.gov.uk/government/publications/from-local-to-national-a-new-model-for-policing/from-local-to-national-a-new-model-for-policing-accessible)
+
+- [The Times — Police chiefs warn Andy Burnham over early release scheme](https://www.thetimes.com/uk/politics/article/andy-burnham-early-release-keep-pc-harper-killers-jail-8px3fp6w0)
+
+- [UK legislation — The Policing Protocol Order 2023](https://www.legislation.gov.uk/uksi/2023/649/made)
+
+- [HMICFRS — Greater clarity on the definition of operational independence needed to maintain police impartiality](https://hmicfrs.justiceinspectorates.gov.uk/news/news-feed/greater-clarity-on-definition-of-operational-independence-needed-to-maintain-police-impartiality/)
+
+- [IOPC — Deaths during or following police contact 2025/26: overall findings](https://www.policeconduct.gov.uk/our-work/research-and-statistics/deaths-during-or-following-police-contact-2025-2026/overall-findings)
+
+- [Home Office — Future of the Undercover Policing Inquiry](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry)
+
+- [Home Office — Consultation on the future of the Undercover Policing Inquiry](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry/consultation-on-the-future-of-the-undercover-policing-inquiry)
+
+- [Home Office — Public perceptions of policing: a review of research and literature](https://www.gov.uk/government/publications/public-perceptions-of-policing-a-review-of-research-and-literature/public-perceptions-of-policing-a-review-of-research-and-literature)
+
+- [College of Policing — Procedural justice in stop and search](https://www.college.police.uk/article/procedural-justice-stop-search)
+
+- [Home Office — Definition of policing by consent](https://www.gov.uk/government/publications/policing-by-consent/definition-of-policing-by-consent)
+
+### Citation Notes
+
+[^1]: HMICFRS, [*An inspection of vetting, misconduct, and misogyny in the police service*](https://hmicfrs.justiceinspectorates.gov.uk/publication-html/an-inspection-of-vetting-misconduct-and-misogyny-in-the-police-service/); HMICFRS, [*A report into the effectiveness of integrity arrangements in the Metropolitan Police Service*](https://hmicfrs.justiceinspectorates.gov.uk/publication-html/metropolitan-police-integrity-report-july-2026/). These reports establish documented governance and culture failures; they do not establish that every adverse outcome has the same cause.
+[^2]: College of Policing, [*Code of Ethics*](https://www.college.police.uk/ethics/code-of-ethics) and [*Ethical policing principles*](https://www.college.police.uk/ethics/code-of-ethics/principles), revised 2024.
+[^3]: Home Office, [*From local to national: a new model for policing*](https://www.gov.uk/government/publications/from-local-to-national-a-new-model-for-policing/from-local-to-national-a-new-model-for-policing-accessible), 26 January 2026. This is a government proposal and diagnosis, not an independent finding that centralisation will produce the claimed benefits.
+[^4]: *The Times*, [*Police chiefs warn Andy Burnham over early release scheme*](https://www.thetimes.com/uk/politics/article/andy-burnham-early-release-keep-pc-harper-killers-jail-8px3fp6w0), 11 August 2026. This source is used only for the fact and content of the collective intervention. The node draws its own structural inference from that demonstrated capacity to coordinate.
+[^5]: [*The Policing Protocol Order 2023*](https://www.legislation.gov.uk/uksi/2023/649/made), especially the schedule governing the Home Secretary, police and crime commissioners and chief constables. See also HMICFRS, [*Greater clarity on the definition of operational independence needed to maintain police impartiality*](https://hmicfrs.justiceinspectorates.gov.uk/news/news-feed/greater-clarity-on-definition-of-operational-independence-needed-to-maintain-police-impartiality/), 10 September 2024, for the continuing ambiguity identified by the inspectorate.
+[^6]: IOPC, [*Deaths during or following police contact 2025/26: overall findings*](https://www.policeconduct.gov.uk/our-work/research-and-statistics/deaths-during-or-following-police-contact-2025-2026/overall-findings), 30 July 2026. The IOPC warns that the five categories vary widely and should not be aggregated for trend analysis; inclusion does not itself establish police causation or misconduct.
+[^7]: Home Office, [*Future of the Undercover Policing Inquiry*](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry), published 16 July and updated 29 July 2026; and [*Consultation on the future of the Undercover Policing Inquiry*](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry/consultation-on-the-future-of-the-undercover-policing-inquiry). The consultation excludes Tranches 1–3 and does not reopen evidence.
+[^8]: Home Office, [*Public perceptions of policing: a review of research and literature*](https://www.gov.uk/government/publications/public-perceptions-of-policing-a-review-of-research-and-literature/public-perceptions-of-policing-a-review-of-research-and-literature), March 2023; College of Policing, [*Procedural justice in stop and search*](https://www.college.police.uk/article/procedural-justice-stop-search), 29 November 2024; Home Office, [*Definition of policing by consent*](https://www.gov.uk/government/publications/policing-by-consent/definition-of-policing-by-consent), 10 December 2012. “Legitimacy is partly an information asset” remains Polaris's systems interpretation of that evidence.
+
+
+<details>
+<summary>Sources for policing structure and reform</summary>
+
+- [Home Office — White paper sets out reforms to policing](https://www.gov.uk/government/news/white-paper-sets-out-reforms-to-policing)
+
+- [Home Office — From local to national: a new model for policing](https://www.gov.uk/government/publications/from-local-to-national-a-new-model-for-policing/from-local-to-national-a-new-model-for-policing-accessible)
+
+- [Home Office — Independent review of police force structures: terms of reference](https://www.gov.uk/government/publications/independent-review-of-police-force-structures-terms-of-reference/independent-review-of-police-force-structures-terms-of-reference)
+
+- [Home Office — Commissioner’s response to the Independent Review of Police Force Structures call for evidence](https://www.gov.uk/government/publications/commissioners-response-to-call-for-evidence-on-police-reform/commissioners-response-to-the-independent-review-of-police-force-structures-call-for-evidence-accessible)
+
+- [Local Government Association — Policing White Paper: implications for local government and local policing](https://www.local.gov.uk/parliament/briefings-and-responses/policing-white-paper-implications-local-government-local)
+
+- [Wiltshire Police and Crime Commissioner — Police reform](https://www.wiltshire-pcc.gov.uk/get-involved/police-reform/)
+
+- [Wiltshire Police and Crime Commissioner — Share your views on police reform](https://www.wiltshire-pcc.gov.uk/get-involved/police-reform/share-your-views-on-police-reform/)
+
+- [Kent Police and Crime Commissioner — Residents invited to comment on proposed police-force mergers and technology](https://www.kent-pcc.gov.uk/news-menu/press-releases/2026/kent-residents-invited-to-share-their-views-on-proposed-police-force-mergers-and-technology/)
+
+- [Home Office — PoliceAI to speed up investigations and fight crime](https://www.gov.uk/government/news/policeai-to-speed-up-investigations-and-fight-crime)
+
+- [Home Office — Policing Productivity Review](https://www.gov.uk/government/publications/policing-productivity-review/policing-productivity-review-accessible)
+</details>
+
+<details>
+<summary>Sources for police governance and operational independence</summary>
+
+- [UK legislation — The Policing Protocol Order 2023](https://www.legislation.gov.uk/uksi/2023/649/made)
+
+- [UK legislation — The Policing Protocol Order 2023: chief-constable responsibilities](https://www.legislation.gov.uk/uksi/2023/649/schedule/paragraph/23/data.xht?view=snippet&wrap=true)
+
+- [Home Office — Government response: changes to the Policing Protocol](https://www.gov.uk/government/consultations/changes-to-the-policing-protocol/outcome/government-response-changes-to-the-policing-protocol-accessible)
+
+- [HMICFRS — Greater clarity on operational independence needed to maintain police impartiality](https://hmicfrs.justiceinspectorates.gov.uk/news/news-feed/greater-clarity-on-definition-of-operational-independence-needed-to-maintain-police-impartiality/)
+
+- [Home Office — Evidence to the Senior Salaries Review Body 2026–27: chief police officers](https://www.gov.uk/government/publications/evidence-to-the-ssrb-2026-to-2027-chief-police-officers/home-office-evidence-to-the-senior-salaries-review-body-2026-to-2027-chief-police-officers-accessible)
+
+- [HMICFRS — State of Policing: annual assessment 2024–25](https://hmicfrs.justiceinspectorates.gov.uk/publication-html/state-of-policing-the-annual-assessment-of-policing-in-england-and-wales-2024-25/)
+</details>
+
+<details>
+<summary>Sources for Metropolitan Police, culture, integrity and learning</summary>
+
+- [HMICFRS — A report into the effectiveness of integrity arrangements in the Metropolitan Police Service](https://hmicfrs.justiceinspectorates.gov.uk/publication-html/metropolitan-police-integrity-report-july-2026/)
+
+- [HMICFRS — An inspection of vetting, misconduct and misogyny in the police service](https://hmicfrs.justiceinspectorates.gov.uk/publication-html/an-inspection-of-vetting-misconduct-and-misogyny-in-the-police-service/)
+
+- [HMICFRS — Metropolitan Police response to lessons from the Stephen Port murders](https://hmicfrs.justiceinspectorates.gov.uk/publication-html/inspection-of-the-metropolitan-police-services-response-to-lessons-from-the-stephen-port-murders/)
+
+- [HMICFRS — Metropolitan Police handling of the sexual and criminal exploitation of children](https://hmicfrs.justiceinspectorates.gov.uk/publication-html/metropolitan-police-service-handling-of-sexual-and-criminal-exploitation-of-children/)
+
+- [HMICFRS — Metropolitan PEEL Assessment 2021/22](https://hmicfrs.justiceinspectorates.gov.uk/peel-reports/metropolitan-2021-22/)
+
+- [HMICFRS — Criminal Justice Alliance stop-and-search super-complaint](https://hmicfrs.justiceinspectorates.gov.uk/publication-html/report-on-the-criminal-justice-alliances-stop-and-search-super-complaint/)
+
+- [HMICFRS — Tees Valley Inclusion Project super-complaint](https://hmicfrs.justiceinspectorates.gov.uk/publication-html/tees-valley-inclusion-project-super-complaint/)
+</details>
+
+<details>
+<summary>Sources for policing ethics, discretion and professional culture</summary>
+
+- [College of Policing — Code of Ethics](https://www.college.police.uk/ethics/code-of-ethics)
+
+- [College of Policing — Ethical policing principles](https://www.college.police.uk/ethics/code-of-ethics/principles)
+
+- [College of Policing — Code of Ethics launched](https://www.college.police.uk/article/code-of-ethics)
+
+- [College of Policing — Guidance for ethical and professional behaviour in policing](https://www.college.police.uk/ethics/code-of-ethics/guidance)
+
+- [College of Policing — Code of Practice for Ethical Policing](https://www.college.police.uk/ethics/code-of-practice)
+
+- [College of Policing — Code of Ethics: rapid evidence assessment](https://assets.college.police.uk/s3fs-public/2024-01/Code-of-Ethics-rapid-evidence-assessment.pdf?v=1706085464)
+
+- [College of Policing — National policing culture and inclusion strategy 2025–2030](https://www.college.police.uk/support-forces/diversity-and-inclusion/culture-and-inclusion-strategy)
+
+- [College of Policing — Competency and values framework](https://www.college.police.uk/career-learning/competency-and-values-framework)
+
+- [College of Policing — Professional values](https://www.college.police.uk/career-learning/competency-and-values-framework/values)
+</details>
+
+<details>
+<summary>Sources for policing legitimacy, consent and cooperation</summary>
+
+- [Home Office — Definition of policing by consent](https://www.gov.uk/government/publications/policing-by-consent/definition-of-policing-by-consent)
+
+- [Home Office — Public perceptions of policing: a review of research and literature](https://www.gov.uk/government/publications/public-perceptions-of-policing-a-review-of-research-and-literature/public-perceptions-of-policing-a-review-of-research-and-literature)
+
+- [College of Policing — Procedural justice in stop and search](https://www.college.police.uk/article/procedural-justice-stop-search)
+
+- [College of Policing — Stop and search](https://www.college.police.uk/app/stop-and-search/stop-and-search)
+
+- [College of Policing — Neighbourhood policing guidelines: supporting material for senior leaders](https://assets.college.police.uk/s3fs-public/2020-11/NPG_supporting_material_senior_leaders.pdf)
+
+- [Greater London Authority — Policing with Consent](https://www.london.gov.uk/node/59395)
+</details>
+
+<details>
+<summary>Sources for deaths during or following police contact</summary>
+
+- [IOPC — Annual deaths during or following police contact statistics](https://www.policeconduct.gov.uk/our-work/research-and-statistics/annual-deaths-statistics)
+
+- [IOPC — Deaths during or following police contact 2025/26: overall findings](https://www.policeconduct.gov.uk/our-work/research-and-statistics/deaths-during-or-following-police-contact-2025-2026/overall-findings)
+
+- [IOPC — Latest statistics on deaths during or following police contact in England and Wales](https://www.policeconduct.gov.uk/news/iopc-publishes-latest-statistics-deaths-during-or-following-police-contact-england-and-wales)
+
+- [IOPC — Deaths during or following police contact 2025/26: background note](https://www.policeconduct.gov.uk/our-work/research-and-statistics/deaths-during-or-following-police-contact-2025-2026/background-note)
+
+- [IOPC — Annual deaths during or following police contact report 2024/25](https://www.policeconduct.gov.uk/publications/annual-deaths-during-or-following-police-contact-report-202425)
+</details>
+
+<details>
+<summary>Sources for undercover policing</summary>
+
+- [Home Office — Future of the Undercover Policing Inquiry](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry)
+
+- [Home Office — Consultation on the future of the Undercover Policing Inquiry](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry/consultation-on-the-future-of-the-undercover-policing-inquiry)
+
+- [Home Office — Undercover Policing Inquiry consultation privacy notice](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry/undercover-policing-inquiry-consultation-privacy-notice)
+
+- [Home Office — Undercover Policing Inquiry consultation support services](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry/support-services)
+</details>
+
+<details>
+<summary>Sources for collective police intervention</summary>
+
+- [The Times — Police chiefs warn Andy Burnham over early-release scheme](https://www.thetimes.com/uk/politics/article/andy-burnham-early-release-keep-pc-harper-killers-jail-8px3fp6w0)
+
+</details>
+---
+
 ## 🌌 Constellations
 
 🐼 👑 ♻️ 🧿 ❤️‍🩹 — policing culture; distributed discretion; command architecture; institutional learning; safer encounters.
@@ -1177,7 +1361,7 @@ Most importantly:
 
 ## ✨ Stardust
 
-Metropolitan Police, policing culture, police governance, organisational indiscipline, corruption distinction, distributed discretion, command distance, police accountability, policing by consent, officer safety, public safety, deaths following police contact, Undercover Policing Inquiry, institutional learning, national policing, local policing, police legitimacy, organisational feedback, coercive authority, situational intelligence
+metropolitan police, policing culture, police governance, organisational indiscipline, corruption distinction, distributed discretion, command distance, police accountability, policing by consent, officer safety, public safety, deaths following police contact, undercover policing inquiry, institutional learning, national policing, local policing, police legitimacy, organisational feedback, coercive authority, situational intelligence
 
 ---
 
@@ -1236,4 +1420,4 @@ And its central ownership question is:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-08-16_
