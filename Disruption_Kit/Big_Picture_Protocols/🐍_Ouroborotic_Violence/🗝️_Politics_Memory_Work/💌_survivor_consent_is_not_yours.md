@@ -1,5 +1,5 @@
 # 💌 Survivor Consent Is Not Yours  
-**First created:** 2025-09-15 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-15 | **Last updated:** 2026-08-16  
 *My name and story are not political footballs. Consent does not extend to opportunistic power games.*  
 
 ---
@@ -36,4 +36,4 @@ It documents the sovereign refusal of survivors to have their names, bodies, or 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
