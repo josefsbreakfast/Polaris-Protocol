@@ -1,5 +1,5 @@
 # 🧿 UK Persuasion Engine on Palestine  
-**First created:** 2025-10-03 | **Last updated:** 2026-01-08  
+**First created:** 2025-10-03 | **Last updated:** 2026-08-16  
 *Mapping the UK ecosystem of reputational suppression, smear tactics, and discrediting campaigns around Palestine.*  
 
 ---
@@ -152,4 +152,4 @@ It also logs perceptions of **external or opaque influence** — “fingerprints
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-08-16_
