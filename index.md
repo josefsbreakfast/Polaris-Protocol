@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 19:43:20 UTC_
+_Generated on 2026-08-16 19:44:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,9 +18,6 @@ _Generated on 2026-08-16 19:43:20 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
-        - [`sound_maqam_haqiz.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/sound_maqam_haqiz.png)
-        - [`☕️_the_discombobulatory_mental_overload.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/☕️_the_discombobulatory_mental_overload.md)
-        - [`☘️_the_good_friday_agreement_and_palestine_action_prisoners.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/☘️_the_good_friday_agreement_and_palestine_action_prisoners.md)
         - [`⚖️_encampment_paperwork_comparative.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_encampment_paperwork_comparative.md)
         - [`⚖️_legal_hooks_for_muted_books.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md)
         - [`⚖️_operatic_capture_and_risks.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_operatic_capture_and_risks.md)
@@ -3037,6 +3034,9 @@ _Generated on 2026-08-16 19:43:20 UTC_
         - [`scale_of_scapegoating.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/scale_of_scapegoating.png)
         - [`sound_ahavah_rabbah.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/sound_ahavah_rabbah.png)
         - [`sound_harmonic_c_minor.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/sound_harmonic_c_minor.png)
+        - [`sound_maqam_haqiz.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/sound_maqam_haqiz.png)
+        - [`☕️_the_discombobulatory_mental_overload.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/☕️_the_discombobulatory_mental_overload.md)
+        - [`☘️_the_good_friday_agreement_and_palestine_action_prisoners.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/☘️_the_good_friday_agreement_and_palestine_action_prisoners.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/notes.txt)
     - [**♻️_Cybernetics/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/.🌱_Still_Growing/)
