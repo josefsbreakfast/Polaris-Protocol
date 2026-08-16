@@ -1,5 +1,5 @@
 # 🧭 Mutual Aid vs Charity  
-**First created:** 2025-10-16 | **Last updated:** 2026-01-09  
+**First created:** 2025-10-16 | **Last updated:** 2026-08-16  
 *Why mutual aid and charity are not variants of the same system, but opposing governance architectures for care, power, and legitimacy.*  
 
 ---
@@ -169,4 +169,4 @@ It contrasts hierarchical benevolence with reciprocal solidarity, articulating t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-08-16_
