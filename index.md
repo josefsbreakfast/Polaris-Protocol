@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 19:49:54 UTC_
+_Generated on 2026-08-16 19:54:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,18 +18,6 @@ _Generated on 2026-08-16 19:49:54 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
-        - [`✝️_protestant_work_ethic_as_containment.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/✝️_protestant_work_ethic_as_containment.md)
-        - [`🇬🇧_the_history_of_the_child_as_asset.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🇬🇧_the_history_of_the_child_as_asset.md)
-        - [`🇬🇧_the_long_uk_history_of_stealing_childrens_identities.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🇬🇧_the_long_uk_history_of_stealing_childrens_identities.md)
-        - [`🇬🇧_the_price_of_a_childs_life.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🇬🇧_the_price_of_a_childs_life.md)
-        - [`🌒_charisma_as_container.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🌒_charisma_as_container.md)
-        - [`🎙️_the_state_that_cannot_sing.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🎙️_the_state_that_cannot_sing.md)
-        - [`🎭_hypocrisy_profile_uk_blair_cabinet.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🎭_hypocrisy_profile_uk_blair_cabinet.md)
-        - [`🎭_performative_cruelty_as_governance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🎭_performative_cruelty_as_governance.md)
-        - [`🏛_british_museum_act_1963_futility.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🏛_british_museum_act_1963_futility.md)
-        - [`🏛️_austerity_and_the_rise_of_punitive_entertainment.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🏛️_austerity_and_the_rise_of_punitive_entertainment.md)
-        - [`🏭_industrialisation_of_misogyny.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🏭_industrialisation_of_misogyny.md)
-        - [`🐝_sanctions_as_loyalty_test.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🐝_sanctions_as_loyalty_test.md)
         - [`🐦‍🔥_the_signature_trap.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🐦‍🔥_the_signature_trap.md)
         - [`🐻_you_are_not_the_boss_of_me_from_800_miles_away.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🐻_you_are_not_the_boss_of_me_from_800_miles_away.md)
         - [`💌_letter_by_letter_erasure_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/💌_letter_by_letter_erasure_protocol.md)
@@ -3037,6 +3025,18 @@ _Generated on 2026-08-16 19:49:54 UTC_
         - [`⚙️_friction_minimisation_logic.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/⚙️_friction_minimisation_logic.md)
         - [`⚠️_rejection_as_existential_threat.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/⚠️_rejection_as_existential_threat.md)
         - [`⛩️_postmodern_gateway.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/⛩️_postmodern_gateway.md)
+        - [`✝️_protestant_work_ethic_as_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/✝️_protestant_work_ethic_as_containment.md)
+        - [`🇬🇧_the_history_of_the_child_as_asset.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/🇬🇧_the_history_of_the_child_as_asset.md)
+        - [`🇬🇧_the_long_uk_history_of_stealing_childrens_identities.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/🇬🇧_the_long_uk_history_of_stealing_childrens_identities.md)
+        - [`🇬🇧_the_price_of_a_childs_life.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/🇬🇧_the_price_of_a_childs_life.md)
+        - [`🌒_charisma_as_container.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/🌒_charisma_as_container.md)
+        - [`🎙️_the_state_that_cannot_sing.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/🎙️_the_state_that_cannot_sing.md)
+        - [`🎭_hypocrisy_profile_uk_blair_cabinet.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/🎭_hypocrisy_profile_uk_blair_cabinet.md)
+        - [`🎭_performative_cruelty_as_governance.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/🎭_performative_cruelty_as_governance.md)
+        - [`🏛_british_museum_act_1963_futility.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/🏛_british_museum_act_1963_futility.md)
+        - [`🏛️_austerity_and_the_rise_of_punitive_entertainment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/🏛️_austerity_and_the_rise_of_punitive_entertainment.md)
+        - [`🏭_industrialisation_of_misogyny.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/🏭_industrialisation_of_misogyny.md)
+        - [`🐝_sanctions_as_loyalty_test.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/🐝_sanctions_as_loyalty_test.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/notes.txt)
     - [**♻️_Cybernetics/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/.🌱_Still_Growing/)
