@@ -1,5 +1,5 @@
 # 🌿 The Paradox of Recognition — Polaris in the Wild
-**First created:** 2025-10-23 | **Last updated:** 2025-11-06  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-17  
 *When critique becomes curriculum and the watcher starts to quote the watched.*
 
 ---
@@ -94,4 +94,4 @@ It records the recursive moment when critique becomes source code and open docum
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-06_
+_Last updated: 2026-08-17_
