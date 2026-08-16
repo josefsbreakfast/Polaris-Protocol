@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 13:30:02 UTC_
+_Generated on 2026-08-16 13:31:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -201,7 +201,6 @@ _Generated on 2026-08-16 13:30:02 UTC_
           - [`🩺_frankenstack_intake_and_response_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🩺_frankenstack_intake_and_response_protocol.md)
           - [`🪼_frankenstack_social_field_effects.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🪼_frankenstack_social_field_effects.md)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/notes.txt)
-        - [`🐇_qanon_vocabulary_origins.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🐇_qanon_vocabulary_origins.md)
         - [`🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🐍_how_a_CVE_tool_becomes_a_vector_for_extremism.md)
         - [`👹_coercive_engineers_intentional_radicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/👹_coercive_engineers_intentional_radicalisation.md)
         - [`👾_is_it_preventing_extremism_from_all_classes.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/👾_is_it_preventing_extremism_from_all_classes.md)
@@ -4131,6 +4130,7 @@ _Generated on 2026-08-16 13:30:02 UTC_
         - [`🏛️_master_council_overlay.csv`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🏛️_master_council_overlay.csv)
         - [`🏛️_master_council_overlay_table.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🏛️_master_council_overlay_table.md)
         - [`🏨_hotels_protests_and_power_consolidation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🏨_hotels_protests_and_power_consolidation.md)
+        - [`🐇_qanon_vocabulary_origins.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🐇_qanon_vocabulary_origins.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
     - [**🕸️🧿_The_Observed_Information_Space/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/)
