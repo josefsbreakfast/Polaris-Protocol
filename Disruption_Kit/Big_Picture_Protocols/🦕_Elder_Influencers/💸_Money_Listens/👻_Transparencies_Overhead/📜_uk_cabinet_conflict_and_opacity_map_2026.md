@@ -1,5 +1,5 @@
 # 📜 UK Cabinet Conflict & Opacity Map (2026)
-**First created:** 2025-10-06 | **Last updated:** 2026-04-23  
+**First created:** 2025-10-06 | **Last updated:** 2026-08-16  
 *Mapping conflict exposure, disclosure asymmetry, and managed opacity across the January 2026 UK Cabinet.*
 
 ---
@@ -242,4 +242,4 @@ It tracks how ministerial disclosure frameworks do not simply reveal or conceal 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-23_
+_Last updated: 2026-08-16_
