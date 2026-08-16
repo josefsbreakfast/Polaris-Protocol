@@ -1,5 +1,5 @@
 # 🧿 AsAJew  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-16  
 *On “as a Jew” as a political insult, Cold War residue, and the disciplining of Jewish dissent.*
 
 ---
@@ -148,4 +148,4 @@ asajew, jewish dissent, mccarthyism, useful idiots, iron swords discourse, loyal
 > - [🍉 Why Do We Care About Palestine](./🍉_why_do_we_care_about_palestine.md) — coercive positioning of Jews  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-16_
