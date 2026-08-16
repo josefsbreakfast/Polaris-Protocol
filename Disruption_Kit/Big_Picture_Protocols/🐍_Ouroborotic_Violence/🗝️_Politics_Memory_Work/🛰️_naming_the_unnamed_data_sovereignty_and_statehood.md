@@ -1,5 +1,5 @@
 # 🛰️ Naming the Unnamed — Data Sovereignty & Statehood  
-**First created:** 2025-11-08 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-08 | **Last updated:** 2026-08-16  
 *Two recognitions that make silence impossible.*  
 
 ---
@@ -75,4 +75,4 @@ It records two public recognitions where ambiguity finally gave way to accountab
 
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-16_
