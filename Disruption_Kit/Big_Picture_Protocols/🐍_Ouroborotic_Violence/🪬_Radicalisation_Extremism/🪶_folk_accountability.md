@@ -1,5 +1,5 @@
 # 🪶 Folk Accountability — When Public Silence Breeds Private Justice  
-**First created:** 2025-10-21 | **Last updated:** 2025-10-21  
+**First created:** 2025-10-21 | **Last updated:** 2026-08-16  
 *How moral vacuum becomes conspiracy fuel.*
 
 ---
@@ -61,4 +61,4 @@ It connects the ethics of transparency with the mechanics of radicalisation, map
 
 > 📡 Cross-references: *TBC* 
 
-_Last updated: 2025-10-21_
+_Last updated: 2026-08-16_
