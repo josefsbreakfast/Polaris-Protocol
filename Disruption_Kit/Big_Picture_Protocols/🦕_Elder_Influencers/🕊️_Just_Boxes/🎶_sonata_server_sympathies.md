@@ -1,5 +1,5 @@
 # 🎶 Sonata Server Sympathies
-**First created:** 2025-10-07 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-07 | **Last updated:** 2026-08-17  
 *A Polaris governance node examining the 2016 “Sonata” data-deletion incident, the structural risks it exposed in outsourced defence IT, and remodel steps for prevention and witness safety.*
 
 ---
@@ -104,4 +104,4 @@ It captures how a single act of deletion exposed systemic weaknesses between sec
 > - [🍯 Dual-Use Thought Experiment](../../🦕_Elder_Influencers/💸_Money_Listens/🚀_Dual_Use_Dualities/🍯_honeybot_dual_use_thought_experiment.md) - *1000% satire, but if yoi know humans, you know there's one type of violence which ultimately breaks everyone best, whether direct or vicarious, so you can't rile out putting network ties in something like this, either*
 <!--Sadly, I have met this half of the humans we call The Men™️, and some of them really do think up stiff like this, so one learms to be vigilant. It's satire, though. Obviously.-->
 *Survivor authorship is sovereign; containment is never neutral.*  
-_Last updated 2025-10-19_
+_Last updated 2026-08-17_
