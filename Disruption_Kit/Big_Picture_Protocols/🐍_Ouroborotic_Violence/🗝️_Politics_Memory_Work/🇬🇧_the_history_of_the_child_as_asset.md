@@ -1,5 +1,5 @@
 # 🇬🇧 The History of the Child as Asset  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-24 | **Last updated:** 2026-08-16  
 *How British systems repeatedly treated children as economic, political, and administrative resources.*  
 
 ---
@@ -200,4 +200,4 @@ It documents how British systems repeatedly treated children as resources to be 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-08-16_
