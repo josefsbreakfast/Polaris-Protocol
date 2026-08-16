@@ -1,5 +1,5 @@
 # 🇬🇧 The Price of a Child’s Life  
-**First created:** 2025-12-24 | **Last updated:** 2025-12-29  
+**First created:** 2025-12-24 | **Last updated:** 2026-08-16  
 *What it means when a state quietly decides some harms are affordable.*  
 
 ---
@@ -163,4 +163,4 @@ It names the moral failure that underlies repeated institutional harm: the attem
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-29_
+_Last updated: 2026-08-16_
