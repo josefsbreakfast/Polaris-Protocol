@@ -1,5 +1,5 @@
 # 🧊 Managed Cruelty  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-24  
+**First created:** 2026-06-23 | **Last updated:** 2026-08-16  
 *How preventable suffering gets converted into process language, elite crisis management, and private-public authority with no clean democratic mandate.*  
 
 ---
@@ -1087,4 +1087,4 @@ It names the political style by which preventable suffering is converted into se
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-24_
+_Last updated: 2026-08-16_
