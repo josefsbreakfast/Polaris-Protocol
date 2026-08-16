@@ -1,5 +1,5 @@
 # 🧾 Data Is Their Cage Too  
-**First created:** 2025-08-16 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-16 | **Last updated:** 2026-08-16  
 *Data possession as both containment mechanism and systemic vulnerability.*  
 
 ---
@@ -100,5 +100,5 @@ It reframes data hoarding as systemic entrapment: each act of surveillance becom
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
 
