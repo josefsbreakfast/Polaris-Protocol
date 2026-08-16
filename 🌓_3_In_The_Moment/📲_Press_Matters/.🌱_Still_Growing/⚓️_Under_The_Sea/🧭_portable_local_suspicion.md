@@ -1,5 +1,5 @@
 # 🧭 Portable Local Suspicion  
-First created: 2026-05-31 | Last updated: 2026-05-31  
+First created: 2026-05-31 | Last updated: 2026-08-16  
 A defence media-literacy node on how broad counter-terrorism duties, local implementation, portable categories, and crude risk systems can drift into recruitment harm.
 
 ## 🛰️ Orientation
@@ -311,4 +311,4 @@ The node supports defence media literacy by showing how systems built to manage 
 
 Survivor authorship is sovereign. Containment is never neutral.  
 
-_Last updat
+_Last updated: 2026-08-16_
