@@ -1,5 +1,5 @@
 # 🗝 Guardianship as Nonstate Custody  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-16 | **Last updated:** 2026-08-16  
 *How private dynasties act as nonstate guardians of archives and artifacts, preserving material while enclosing it behind class barriers.*  
 
 ---
@@ -65,4 +65,4 @@ It documents the ambiguous role of private dynasties in preserving archives and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
