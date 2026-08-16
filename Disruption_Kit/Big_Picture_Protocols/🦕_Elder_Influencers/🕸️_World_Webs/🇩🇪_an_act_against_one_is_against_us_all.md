@@ -1,5 +1,5 @@
 # 🇩🇪 An Act Against One Is Against Us All  
-**First created:** 2026-05-03 | **Last updated:** 2026-05-03  
+**First created:** 2026-05-03 | **Last updated:** 2026-08-17  
 *How actions directed at a single ally propagate across NATO as system-wide signals, reshaping trust, coordination, and long-term alliance structure.*
 
 ---
@@ -273,4 +273,4 @@ It maps how localised actions within alliances generate system-wide effects, res
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_
+_Last updated: 2026-08-17_
