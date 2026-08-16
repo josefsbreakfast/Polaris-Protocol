@@ -1,5 +1,5 @@
 # 🦐 Krill Swarms And Ocean Opacity
-**First created:** 2026-05-31 | **Last updated:** 2026-05-31  
+**First created:** 2026-05-31 | **Last updated:** 2026-08-16  
 *A defence-governance node on undersea autonomy, counter-swarms, Trident’s losing edge, and the risk of turning the seabed into another junk-filled operating theatre.*
 
 ## 🛰️ Orientation
@@ -120,4 +120,4 @@ It converts April 2026 field notes on krill and counter-krill into a strategic w
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-31_
+_Last updated: 2026-08-16_
