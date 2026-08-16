@@ -1,5 +1,5 @@
 # 🐘 The Elephant Shaped Hole  
-First created: 2026-05-31 | Last updated: 2026-05-31  
+First created: 2026-05-31 | Last updated: 2026-08-16  
 A defence media-literacy node on how suppression, denial, chaff, and signal burial can disclose the shape of the thing they are trying to hide.
 
 ## 🛰️ Orientation
@@ -245,4 +245,4 @@ The node supports defence media literacy by distinguishing responsible operation
 
 Survivor authorship is sovereign. Containment is never neutral.  
 
-_Last updated:
+_Last updated: 2026-08-16_
