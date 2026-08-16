@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 12:50:08 UTC_
+_Generated on 2026-08-16 12:52:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4128,11 +4128,11 @@ _Generated on 2026-08-16 12:50:08 UTC_
         - [`🩺_fixing_the_nhs_frankenstack.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🩺_fixing_the_nhs_frankenstack.md)
       - [**🪬_Radicalisation_Extremism/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_Extremism/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_Extremism/README.md)
+        - [`☕🫖_uk_gov_national_security_risk.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_Extremism/☕🫖_uk_gov_national_security_risk.md)
+        - [`✍️_crime_writing_as_normalisation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_Extremism/✍️_crime_writing_as_normalisation.md)
+        - [`❌_negative_evidence_index.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_Extremism/❌_negative_evidence_index.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
-      - [`☕🫖_uk_gov_national_security_risk.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/☕🫖_uk_gov_national_security_risk.md)
-      - [`✍️_crime_writing_as_normalisation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/✍️_crime_writing_as_normalisation.md)
-      - [`❌_negative_evidence_index.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/❌_negative_evidence_index.md)
     - [**🕸️🧿_The_Observed_Information_Space/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/.🌱_Still_Growing/notes.txt)
