@@ -1,5 +1,5 @@
 # 🧠 The Masculinity Gap  
-**First created:** 2025-12-10 | **Last updated:** 2025-12-10  
+**First created:** 2025-12-10 | **Last updated:** 2026-08-16  
 *Why secure men thrive, insecure men radicalise, and how masculinity becomes weaponised when identity is hollow.*
 
 ---
@@ -180,4 +180,4 @@ It examines how performance-based masculinity becomes a vulnerability factor for
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-08-16_
