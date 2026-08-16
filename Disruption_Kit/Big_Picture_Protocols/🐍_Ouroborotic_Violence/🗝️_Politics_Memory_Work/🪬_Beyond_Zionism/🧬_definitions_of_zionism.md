@@ -1,5 +1,5 @@
 # 🧬 Definitions of Zionism — Why the Word Breaks Conversations  
-**First created:** 2025-11-02 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-16  
 *Why “Zionism” is a radically plural concept in Jewish thought, a flattened proxy elsewhere, and how this semantic collapse damages antiracist work.*  
 
 ---
@@ -181,4 +181,4 @@ It documents how definitional collapse around Zionism distorts ethical debate, u
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-08-16_
