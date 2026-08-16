@@ -1,5 +1,5 @@
 # 🦁 Individualism as Containment Edge  
-**First created:** 2025-10-03 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-03 | **Last updated:** 2026-08-16  
 *How virtues of initiative, autonomy, and leadership are reframed as threat vectors under surveillance logics, with a Jewish case study of symbolic inversion.*  
 
 ---
@@ -94,4 +94,4 @@ and how historic symbolic inversions of Jewish identity echo into present miscla
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
