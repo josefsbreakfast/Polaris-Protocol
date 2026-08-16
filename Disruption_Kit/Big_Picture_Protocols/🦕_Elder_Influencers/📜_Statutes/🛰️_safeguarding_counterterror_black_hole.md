@@ -1,5 +1,5 @@
 # 🛰️ Why Safeguarding + Counterterrorism = A Democratic Black Hole  
-**First created:** 2025-11-22 | **Last updated:** 2025-11-22  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-17  
 *Why merging safeguarding with pre-crime counterterrorism logic produces opacity, bias, and democratic erosion at system scale.*
 
 ---
@@ -230,4 +230,4 @@ It documents how two governance logics with opposite assumptions collapsed into 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-22_
+_Last updated: 2026-08-17_
