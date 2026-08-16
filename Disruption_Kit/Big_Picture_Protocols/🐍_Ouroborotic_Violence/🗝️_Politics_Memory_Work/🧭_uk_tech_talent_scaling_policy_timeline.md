@@ -1,5 +1,5 @@
 # 🧭 UK Tech Talent, Scaling, and Policy Timeline  
-**First created:** 2025-09-01 | **Last updated:** 2026-01-29  
+**First created:** 2025-09-01 | **Last updated:** 2026-08-16  
 *Tracing decisions since 2000 that shaped the UK’s dependence on foreign contractors.*  
 
 ---
@@ -82,4 +82,4 @@ It documents the cumulative effect of 25 years of decisions that entrenched outs
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-29_
+_Last updated: 2026-08-16_
