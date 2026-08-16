@@ -1,5 +1,5 @@
 # 🧠 Fisher Fork Theory  
-**First created:** 2025-08-07 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-07 | **Last updated:** 2026-08-16  
 *Affective capture, metadata fog, and the emotional governance of resistance.*  
 
 ---
@@ -157,4 +157,4 @@ It builds on Mark Fisher’s work to map containment realism, metadata mood mana
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
