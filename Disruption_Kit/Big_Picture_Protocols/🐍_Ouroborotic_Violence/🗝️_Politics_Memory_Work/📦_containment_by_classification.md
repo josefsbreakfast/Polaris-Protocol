@@ -1,5 +1,5 @@
 # 📦 Containment by Classification  
-**First created:** 2025-09-29 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-29 | **Last updated:** 2026-08-16  
 *How misidentification, racialisation, and demographic boxes are weaponised as suppression tactics.*  
 
 ---
@@ -75,4 +75,4 @@ It records how rigid categories — racial, religious, or demographic — are us
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
