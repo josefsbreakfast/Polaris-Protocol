@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 23:50:27 UTC_
+_Generated on 2026-08-16 23:58:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -81,7 +81,6 @@ _Generated on 2026-08-16 23:50:27 UTC_
         - [`israel_eurozone_financial_watchlist.png`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/israel_eurozone_financial_watchlist.png)
         - [`natcon_speakers_2023_2025.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/natcon_speakers_2023_2025.csv)
         - [`natcon_speakers_2023_2025_full.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/natcon_speakers_2023_2025_full.csv)
-        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/notes.txt)
         - [`☄️_ww3_started_years_ago.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/☄️_ww3_started_years_ago.md)
         - [`☔️_nato_nuclear_umbrella_problem.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/☔️_nato_nuclear_umbrella_problem.md)
         - [`♻️_declining_ore_grades_and_the_end_of_substitution_myths.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/♻️_declining_ore_grades_and_the_end_of_substitution_myths.md)
