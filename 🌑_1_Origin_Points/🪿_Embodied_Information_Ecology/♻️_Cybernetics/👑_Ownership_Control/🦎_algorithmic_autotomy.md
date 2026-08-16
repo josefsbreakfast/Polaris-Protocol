@@ -1,415 +1,283 @@
 # 🦎 Algorithmic Autotomy  
-**First created:** 2026-01-12 | **Last updated:** 2026-08-13  
-*Why resilient systems must be able to shed load-bearing components — and why human-anchored models fail without a built-in break.*  
+**First created:** 2026-01-12 | **Last updated:** 2026-08-16  
+*Why resilient systems need pre-designed ways to shed dependencies without collapse, substitution, or punishment.*  
 
 ---
 
-## 🛰️ Orientation
+## 🛰️ I. Orientation
 
-Autotomy is a biological escape mechanism in which an organism deliberately sheds a non-vital part (e.g. a lizard’s tail) to survive predation.
+Autotomy is a biological escape mechanism in which an animal sheds a body part to survive an immediate threat. The part is expendable relative to survival, but not necessarily costless: lizard tails may contribute to locomotion, balance, signalling and energy storage, and regeneration itself has costs.
 
-This node explores **algorithmic autotomy** as a systems principle:
-> the capacity of a system to detach from a dependency **without collapse, coercion, or retaliation**.
+This node proposes **algorithmic autotomy** as Polaris analytical language for:
 
-The focus here is **mathematical and systems-theoretic**, not legal or ethical (though those follow naturally).
+> the capacity of a system to detach safely from a dependency without collapse, capture, retaliation, or the quiet recruitment of a replacement.
 
----
-
-## 🦎 Biological Autotomy (Minimal Facts)
-
-In lizards:
-
-- detachment occurs at **pre-formed fracture planes**
-- the lost part continues to move, distracting the threat
-- the organism survives without explanation or escalation
-- the tail was never essential to identity or survival
-- regeneration may occur, but survival does *not* depend on it
-
-Autotomy is **pre-designed loss tolerance**, not failure.
+It is a systems-design proposal, not an established term of art, a legal category, or a theorem already recognised across machine learning. Its ingredients are familiar—graceful degradation, fault isolation, selective prediction, abstention, redundancy, recovery and clear human–system roles. The synthesis is the insistence that these properties must also support a **safe human exit**.
 
 ---
 
-## 🧠 The Core Translation to Systems Theory  
+## 🦎 II. What Biology Actually Gives Us
 
-**Algorithmic autotomy** is the property of a system that allows it to:
+In many lizards:
 
-- remove a component that has become a liability
-- without destabilising outputs
-- without transferring harm to the detached component
-- without immediately substituting another human or fragile proxy
+- detachment occurs along specialised fracture planes;
+- the severed tail may continue moving and distract a predator;
+- the animal can escape without winning the confrontation;
+- survival is possible after loss, although performance and fitness costs may follow;
+- regeneration may restore some function, but the regenerated tail is not simply the original returned.
+
+Autotomy is therefore not proof that the tail never mattered. It is **pre-designed loss tolerance under threat**.
+
+That qualification matters. A system can survive detachment while still owing attention to what was lost, what function degraded, and who carries the cost.
 
 ---
 
-## 🧮 Formal Framing
+## 🧠 III. The Core Translation
 
-Let:
+Algorithmic autotomy requires a system to be able to:
 
-- $\( O_t \)$ = system output at time $\( t \)$  
-- $\( U_t \)$ = population-level or aggregate inputs  
-- $\( A_t \)$ = anchor- or human-derived signal  
+- identify a dependency that has become unsafe, unavailable or inappropriate;
+- isolate the coupling locally;
+- continue in a bounded degraded mode;
+- expose the resulting uncertainty;
+- retain an auditable account of the dependency without continuing to operationalise it;
+- avoid transferring the same burden to another person;
+- avoid punishing the detached person for leaving.
 
-Typical brittle systems implicitly model:  
+The design target is not uninterrupted performance at any cost. It is **survival without coercive continuity**.
+
+```mermaid
+flowchart TD
+    A["Human-derived signal becomes unreliable or unavailable"] --> B{"Fracture plane exists?"}
+    B -- "Yes" --> C["Isolate dependency"]
+    C --> D["Lower confidence or abstain"]
+    D --> E["Audit, recover, redesign"]
+    B -- "No" --> F["Extract, freeze or substitute"]
+    F --> G["Dependency survives in another form"]
+```
+
+---
+
+## 🧮 IV. Formal Framing
+
+Let $O_t$ be system output, $U_t$ aggregate inputs, $A_t$ an anchor- or human-derived signal, and $\lambda_t \in [0,1]$ the permitted weight of that signal.
+
+A brittle system behaves as though:
 
 $$
-\[
 O_t = f(U_t, A_t)
-\]
-$$  
-
-where $\( A_t \)$ becomes load-bearing.
-
----
-
-### Autotomy Requirement
-
-For autotomy to exist, the system must support:
-
-$$
-O_t = f(U_t, \lambda_t A_t) \quad \text{with} \quad \lambda_t \to 0
 $$
 
-and remain **stable** as $\( \lambda_t \)$ decays.
+while concealing that $A_t$ has become load-bearing. An autotomy-capable design supports:
 
-If the system collapses as $\( \lambda \to 0 \)$, the component was not auxiliary — it was structural.
+$$
+O_t = f(U_t, \lambda_t A_t), \qquad \lambda_t \rightarrow 0
+$$
 
----
+without uncontrolled output or harm propagation. Output continuity alone is insufficient. A safer design also constrains system risk and refuses simply to export it:
 
-## ⚡️ Fracture Planes (The Missing Design Element)
+$$
+R_{system}(\lambda_t \rightarrow 0) \leq R_{max}, \qquad \Delta R_{detached} \not\gg 0
+$$
 
-Biological autotomy works because:
+These are design conditions, not a proved universal theorem. Stability, acceptable degradation and harm require operational definitions and testing.
 
-- break points are **designed in advance**
-- detachment is local, not systemic
-- loss does not propagate damage
-
-Algorithmic fracture planes are:
-
-- explicit dependency boundaries
-- documented coupling points
-- reversible isolation switches
-- confidence penalties instead of hard failure
-
-Most systems lack these entirely.
+If performance collapses as $\lambda_t \to 0$, the signal was structurally important regardless of whether the organisation described it as auxiliary.
 
 ---
 
-## ⚓️ Why Human Anchors Prevent Autotomy
+## ⚡️ V. Fracture Planes
 
-Humans are:
+Biological autotomy works because the break is prepared before the emergency. Algorithmic fracture planes may include:
 
-- non-stationary  
-- adaptive  
-- stateful  
-- feedback-sensitive  
+- explicit dependency boundaries and data lineage;
+- documented coupling points;
+- circuit breakers, bulkheads and isolation switches;
+- fallback modes with reduced capability;
+- confidence penalties or abstention instead of fabricated certainty;
+- time-limited use of human-derived signals;
+- consent and withdrawal paths for continuing participation;
+- revocation reaching caches, derived features and downstream consumers;
+- recovery tests performed before a crisis.
 
-When a human becomes part of the **control loop** rather than the data distribution:
-
-- removal looks like sabotage
-- disengagement looks like instability
-- drift looks like risk
-- change looks like failure
-
-That is not because humans are unreliable —  
-it is because the system **misclassified what they were**.
+A kill switch that removes the visible interface while leaving embeddings, profiles, proxy features or derived rankings in use is not a clean fracture plane. It is a cosmetic amputation with a ghost limb still operating the machinery.
 
 ---
 
-## 🚫 What Autotomy Is *Not*
+## ⚓️ VI. Why Human Anchors Make Detachment Hard
 
-Algorithmic autotomy is **not**:
+Humans are non-stationary, adaptive, stateful and feedback-sensitive. They are also rights-bearing people with lives outside the system.
 
-- backfilling with another person  
-- swapping one anchor for another  
-- freezing a historical snapshot forever  
-- suppressing the detached component  
-- pretending the dependency never existed  
+When a person is treated as part of the control loop rather than as a bounded contributor, subject, user, reviewer or source:
 
-Those are **dependency substitution**, not autotomy.
+- removal looks like sabotage;
+- disengagement looks like instability;
+- ordinary change looks like drift;
+- refusal looks like missing data;
+- the system seeks more observation to restore confidence;
+- historical traces remain active as substitute presence.
 
----
+That is not evidence that humans are inherently unreliable. It is evidence that the system failed to define their role, the dependency’s duration and the conditions under which they could leave.
 
-## ✅ What Autotomy Actually Requires
-
-### 1. Confidence Loss, Not Control Loss
-When the anchor detaches:
-- the system should become *less confident*
-- not more aggressive
-- not more extractive
-
-### 2. Abstention Modes
-A healthy system can say:
-> “We do not know.”
-
-Autotomy replaces false certainty with **explicit uncertainty**.
-
-### 3. No Ghost Anchors
-Detached components must not:
-- continue influencing outputs indirectly
-- persist as frozen ground truth
-- remain silently load-bearing
-
-Biology does not keep using severed tails as nervous tissue.
+NIST’s AI Risk Management Framework does not use the term *algorithmic autotomy*, but it does require organisations to define and differentiate responsibilities in human–AI configurations and manage risk across the lifecycle. Polaris pushes the design question one step further: **what happens when the human is no longer available, willing, safe or appropriate?**
 
 ---
 
-## 🧬 Why This Is a Purely Mathematical Requirement
+## 🚫 VII. What Autotomy Is Not
 
-Autotomy follows directly from:
+Algorithmic autotomy is not:
 
-- control theory (graceful degradation)
-- robustness engineering (loss tolerance)
-- information theory (non-identifiability under small-n)
-- biology (survival under predation)
-- safety engineering (single-point-of-failure elimination)
+- deleting a person while keeping the value extracted from them operational;
+- freezing a historical snapshot as permanent ground truth;
+- suppressing the detached person so the system appears stable;
+- backfilling with another person from the same exposed group;
+- transferring review work to an unresourced human;
+- cutting off access without explanation, appeal or audit trace;
+- destroying evidence of how the dependency arose;
+- calling ordinary model retirement “autotomy” when no human dependency is involved.
 
-No ethics are required to reach this conclusion.
-
----
-
-## 🧠 The Key Theorem (Informal)
-
-> **Any system that cannot survive the removal of a non-essential component has misidentified what is essential.**
-
-Human-anchored systems fail this test immediately.
+Those mechanisms may be deletion, abandonment, substitution, concealment or ordinary decommissioning. Autotomy is a narrower claim: **the dependency itself has been safely severed**.
 
 ---
 
-## 🦎 Closing Note
+## ✅ VIII. Operational Requirements
 
-Lizards do not:
-- negotiate exits
-- justify detachment
-- prove innocence
-- escalate conflict
+| Requirement | Healthy response | Anti-pattern |
+| --- | --- | --- |
+| Confidence loss | Reduce confidence or coverage | Become more aggressive or extractive |
+| Abstention | Say “we do not know” and route safely | Produce false certainty |
+| Dependency removal | Stop operational use across the chain | Preserve a ghost anchor in derived data |
+| Human exit | Permit withdrawal without punishment | Treat disengagement as sabotage |
+| Auditability | Preserve provenance and decision records | Erase evidence of the dependency |
+| Recovery | Test degraded modes and redesign | Recruit a replacement anchor immediately |
+| Distributional safety | Check who receives abstentions and errors | Export uncertainty to burdened groups |
 
-They survive because the system was built expecting loss.
-
-Algorithmic autotomy is not radical.
-It is **what competence looks like in hostile environments**.
-
----
-
-## 🔗 Linkage: Snow Leopard Geckos and Algorithmic Autotomy
-
-This node is a direct companion to:
-
-🦎 _snow_leopard_geckos_against_modern_slavery.md_
-
-The snow leopard gecko node establishes the **diagnostic condition**:
-> harmless, irrelevant behaviour surfacing system fragility.
-
-Algorithmic autotomy establishes the **design principle** that should have followed:
-> the system must be able to shed a dependency once fragility is revealed.
-
-Together, they describe a full failure loop:
-
-1. A system quietly relies on a gentle, legible, non-threatening anchor.
-2. Ordinary variance (the “geckos”) propagates instead of decaying.
-3. Dependency becomes visible.
-4. The system panics — because it has no fracture plane.
-5. Without autotomy, the only remaining options are suppression or capture.
-
-The geckos reveal the problem.  
-Autotomy is the missing solution.
+Abstention is useful, but not automatically fair. Selective-classification research shows that trading coverage for accuracy can distribute errors and rejected cases unevenly. A system must inspect **who receives the uncertainty**, not merely congratulate itself for expressing some.
 
 ---
 
-## 🧠 Why Most Modern ML Systems Lack Autotomy
+## 🧩 IX. Autotomy, Redundancy and Replacement
 
-Algorithmic autotomy is rare not because it is difficult, but because it is **organisationally inconvenient**.
+### Autotomy — detachment
 
-Most modern ML systems are built under assumptions that explicitly exclude it.
+The dependency is removed without immediate substitution. Capability or confidence may fall, but the system remains bounded and the detached component is not punished.
 
-### 1. Optimisation Over Survival
+### Redundancy — load sharing
 
-ML systems are optimised for:
-- accuracy
-- engagement
-- efficiency
-- throughput
-- confidence
+Multiple components reduce single-point failure only if failures are not correlated. Five humans recruited from the same institutional position may be five copies of one assumption.
 
-Biological systems are optimised for:
-- survival
-- damage tolerance
-- escape
-- recovery
+### Replacement — substitution
 
-Autotomy sacrifices performance to preserve life.  
-Most ML objectives do not allow sacrifice.
+One component leaves and another enters the same load-bearing role. Performance may recover while the dependency architecture remains unchanged.
+
+### Decommissioning — retirement
+
+A component or system is deliberately withdrawn. This may overlap with autotomy, but does not necessarily involve an emergent threat, detachable dependency or protected human exit.
+
+> Redundancy and replacement keep the function supplied.  
+> Autotomy asks whether the system can survive without demanding that function from that component at all.
 
 ---
 
-### 2. Humans Are Misclassified as Stable Infrastructure
+## 🧠 X. Why Modern ML Systems Often Resist It
 
-Modern systems frequently treat humans as:
-- calibration references
-- norm anchors
-- “ground truth” sources
-- behavioural baselines
+### Optimisation over survivability
 
-Once a human is treated as **infrastructure**, removing them is seen as:
-- sabotage
-- system failure
-- unreliability
+Systems are rewarded for accuracy, engagement, throughput, coverage and apparent confidence. Detachment may temporarily worsen each metric while improving long-term safety.
 
-Autotomy requires the opposite assumption:
-> humans are *environmentally sensitive agents*, not fixed components.
+### Humans treated as infrastructure
 
----
+Annotators, moderators, evaluators, affected communities and unusually legible users can become calibration references or behavioural baselines without the dependency being formally recorded.
 
-### 3. Confidence Is Valued More Than Abstention
+### Abstention treated as failure
 
-Autotomy replaces certainty with uncertainty.
+If refusal to output is punished, the system will preserve questionable signals, invent continuity or route uncertainty into an invisible human queue.
 
-Most systems are punished for:
-- saying “we don’t know”
-- refusing to output
-- lowering confidence scores
-- abstaining under ambiguity
+### Exit paths have weak owners
 
-So instead of shedding a risky dependency, systems:
-- double down
-- freeze references
-- substitute another human
-- hallucinate stability
+Features, scale and retention have obvious sponsors. Safe disappearance, dependency removal and degraded-mode testing often do not.
 
-This is the opposite of graceful degradation.
+### Derived data outlives the relationship
+
+Removing a raw record does not necessarily remove features, labels, embeddings, scores, caches or models derived from it. “No ghost anchors” requires lineage and an explicit decision about what must be deleted, retrained, quarantined or retained only for audit.
 
 ---
 
-### 4. No One Is Rewarded for Designing Exit Paths
+## 🧪 XI. What Would Demonstrate Autotomy?
 
-Autotomy is an **exit design problem**.
+1. Can the organisation name the human-derived dependency?
+2. Can it trace where the signal travels and what it influences?
+3. Can the signal weight reach zero without uncontrolled failure?
+4. Does the system enter a declared degraded or abstention mode?
+5. Are downstream derivatives addressed rather than ignored?
+6. Is the former contributor free from retaliation, renewed extraction or coerced re-entry?
+7. Is the burden transferred to another person or group?
+8. Are provenance and incident records retained for accountability?
+9. Does the organisation learn why the dependency became load-bearing?
+10. Is the fracture plane tested again after redesign?
 
-Most engineering incentives reward:
-- adding features
-- scaling up
-- increasing coverage
-- retaining users / signals
-
-Very few reward:
-- letting go
-- designing for loss
-- making dependency removable
-- allowing safe disappearance
-
-Evolution rewards exit.
-Institutions usually don’t.
+A passed interface test is not enough. The proof sits in the dependency graph, output behaviour, burden distribution and post-exit treatment.
 
 ---
 
-## 🧩 Autotomy vs Redundancy vs Replacement
+## 🧠 XII. The Key Proposition
 
-These three are often confused. They are not the same.
+> **Any system that describes a component as non-essential but cannot survive its safe removal has misdescribed either the component or the system.**
 
----
+This is a Polaris proposition, not a formal theorem. It makes concealed dependence visible before a person’s ordinary variance, refusal or departure is treated as an attack.
 
-### 🦎 Autotomy (Detachment)
+Lizards do not negotiate exits, justify detachment, prove innocence or win the predator’s agreement. They survive because the possibility of loss was already inside the design.
 
-**What it is:**
-- removing a dependency
-- without replacing it
-- while preserving system survival
-
-**Key properties:**
-- confidence drops, not control
-- uncertainty is explicit
-- no new human is recruited
-- the detached component is not punished
-
-**Biological analogue:**
-- lizard drops tail
-- survives without it
-- may regenerate later, but doesn’t need to
+Algorithmic autotomy is not radical. It is what competence looks like in hostile environments.
 
 ---
 
-### 🕸️ Redundancy (Load Sharing)
+## 🔗 XIII. Snow Leopard Geckos and Algorithmic Autotomy
 
-**What it is:**
-- adding more components so no single one is critical
+This node is a companion to [🦎 Snow Leopard Geckos Against Modern Slavery](../🧪_Development_Experimentation/🦎_snow_leopard_geckos_against_modern_slavery.md), which supplies the diagnostic condition: harmless or irrelevant behaviour revealing hidden system fragility.
 
-**Key properties:**
-- reduces single-point failure
-- still requires components to behave predictably
-- fails if all components share the same assumptions
+Together, the nodes describe a failure loop:
 
-**Biological analogue:**
-- multiple limbs
-- paired organs
+1. A system quietly relies on a gentle, legible or non-threatening human anchor.
+2. Ordinary variance—the geckos—propagates instead of decaying.
+3. The dependency becomes visible.
+4. The system panics because it has no fracture plane.
+5. Without autotomy, its remaining options become extraction, suppression, freezing or capture.
 
-**Failure mode:**
-- redundant humans with the same social position ≠ real redundancy
+The geckos reveal the problem. Autotomy is the missing design response.
 
 ---
 
-### 🪱 Replacement (Substitution)
+## 🦎 XIV. The Reptile Extended Universe™
 
-**What it is:**
-- removing one component
-- inserting another to serve the same function
+### Leopard gecko
 
-**Key properties:**
-- dependency persists
-- risk is transferred, not resolved
-- often framed as “fixing the problem”
+**Trait:** gentle, beautiful, nocturnal, heat from residue.  
+**System analogue:** humans used as passive stabilisers, radiating “calm” from past legitimacy.
 
-**Biological analogue:**
-- parasite host swapping
+### Tail
 
-**Why it’s dangerous:**
-- replacement preserves exploitation
-- it prevents learning
-- it guarantees recurrence
+**Trait:** detachable under threat, useful but survivable to lose.  
+**System analogue:** human-derived signals that must not become permanently load-bearing.
 
----
+### Camouflage
 
-### ⚠️ The Core Distinction
+**Trait:** avoids detection rather than winning confrontation.  
+**System analogue:** low-salience behaviour that avoids capture until dependency makes invisibility impossible.
 
-> Redundancy and replacement keep the system working.  
-> Autotomy keeps the system *alive*.
+### Constrictor — anti-pattern
 
----
+**Trait:** control through tightening.  
+**System analogue:** systems that respond to instability by extracting more from the same human.
 
-## 🦎 The Reptile Extended Universe™ (Working Taxonomy)
+### Extinct reptile
 
-### 🦎 Leopard Gecko
-**Trait:** Gentle, beautiful, nocturnal, heat-from-residue  
-**System analogue:**  
-Humans used as passive stabilisers, radiating “calm” from past legitimacy.
+**Trait:** too large, too slow, no usable escape mechanism.  
+**System analogue:** institutions that cannot shed dependencies and collapse under stress.
 
 ---
 
-### 🦎 Tail (Autotomy Subsystem)
-**Trait:** Detachable, distracting, non-essential  
-**System analogue:**  
-Human-derived control signals that should never be load-bearing.
-
----
-
-### 🦎 Camouflage
-**Trait:** Avoid detection, not confrontation  
-**System analogue:**  
-Low-salience behaviour that avoids capture — until dependency makes invisibility impossible.
-
----
-
-### 🐍 Constrictor (Anti-Pattern)
-**Trait:** Control through tightening dependency  
-**System analogue:**  
-Systems that respond to instability by extracting more from the same human.
-
----
-
-### 🦖 Extinct Reptile
-**Trait:** Too large, too slow, no escape mechanism  
-**System analogue:**  
-Institutions that cannot shed dependencies and collapse under stress.
-
----
-
-## 🪨 Warm Stone  
+## 🪨 XV. Warm Stone
 
 This node was written under residual heat.
 
@@ -417,8 +285,8 @@ Not active fire.
 Not crisis heat.  
 Just the warmth that lingers in stone after a long day.
 
-If something here felt calm, survivable, or quietly obvious,  
-that’s because it was never meant to be sharp.
+If something here felt calm, survivable or quietly obvious,  
+that is because it was never meant to be sharp.
 
 Autotomy is not rupture.  
 Camouflage is not deceit.  
@@ -427,14 +295,13 @@ Detachment is not defeat.
 Some systems are built to fight.  
 Some are built to last the night.
 
-Leopard geckos know which is which.  
+Leopard geckos know which is which.
 
 ---
 
-## 🌞 Afterglow  
+## 🌞 XVI. Afterglow
 
-This entire cluster exists because biology solved problems  
-that optimisation culture keeps re-inventing badly.
+This cluster exists because biology solved problems that optimisation culture keeps reinventing badly.
 
 Lizards do not argue with predators.  
 They do not moralise escape.  
@@ -446,53 +313,59 @@ They survive by letting go.
 
 ---
 
-## 🌌 Constellations  
+## 📚 Sources
 
-🦎 🔢 🧠 🧱 🔁 — graceful degradation, loss tolerance, fracture-plane design, control theory, abstention under uncertainty, human–system decoupling.
+In the current form, the source base is predominantly technical and biological. Further sources on labour, consent, data lineage, withdrawal and the distribution of automated-system burdens can be added within narrow bounds as the model develops.
+
+- [Royal Society — Tail regeneration after autotomy revives survival](https://royalsocietypublishing.org/rspb/article/284/1847/20162538/84482/Tail-regeneration-after-autotomy-revives-survival)
+- [Royal Society — Flip, flop and fly: motor control after tail autotomy](https://royalsocietypublishing.org/doi/10.1098/rsbl.2009.0577)
+- [Royal Society — Shake it off: drivers and outcomes of autotomy](https://royalsocietypublishing.org/rsbl/article/20/5/20240015/63625/Shake-it-off-exploring-drivers-and-outcomes-of)
+- [NIST — Artificial Intelligence Risk Management Framework 1.0](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)
+- [NIST AI Resource Center — AI RMF Core](https://airc.nist.gov/airmf-resources/airmf/5-sec-core/)
+- [NIST AI Resource Center — AI RMF Playbook: Manage](https://airc.nist.gov/airmf-resources/playbook/manage/)
+- [PMLR — Selective Classification via One-Sided Prediction](https://proceedings.mlr.press/v130/gangrade21a.html)
+- [PMLR — Fair Selective Classification via Sufficiency](https://proceedings.mlr.press/v139/lee21b.html)
+- [PMLR — Classification with Abstention but Without Disparities](https://proceedings.mlr.press/v161/schreuder21a.html)
+- [PMLR — Combating Label Noise in Deep Learning Using Abstention](https://proceedings.mlr.press/v97/thulasidasan19a.html)
+- [Martin Fowler — Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
+- [ISO — Systems resilience concepts](https://www.iso.org/obp/ui/#iso:std:iso-iec:9837:ed-1:v1:en)
 
 ---
 
-## ✨ Stardust  
+## 🌌 Constellations
 
-algorithmic autotomy, graceful degradation, fracture planes, control theory, robustness engineering, human-in-the-loop risk, anchor dependency, confidence decay, abstention modes, loss tolerance, decoupling, non-substitution design, exit paths, survival-first systems
+🦎 🧠 🧩 ⚡️ 🕸️ — graceful degradation, fracture-plane design, abstention, human–system decoupling and safe exit.
 
 ---
 
-## 🏮 Footer  
+## ✨ Stardust
 
-*🦎 Algorithmic Autotomy* is a living node of **Our Hearts / Our Minds**, within the **Polaris Protocol**.
+systems resilience, algorithmic autotomy, graceful degradation, fracture planes, human-system dependency, selective prediction, abstention, confidence decay, data lineage, safe exit
 
-It names a design truth that optimisation culture resists:  
-that systems built to survive must be able to let go.
+---
 
-This node does not argue for better humans, stricter controls, or tighter loops.  
-It argues for **designed loss**, explicit uncertainty, and exits that do not punish the detached.
+## 🏮 Footer
 
-Competent systems expect variance.  
-Resilient systems expect loss.  
-Living systems plan for both.  
+*🦎 Algorithmic Autotomy* is a living node of **Our Hearts / Our Minds**, within the **Polaris Protocol**. It names a design principle that optimisation culture resists: systems built to survive must be able to let go without punishing what they release.
 
 > 📡 Cross-references:
-> 
-> - [🦎 Snow Leopard Geckos Against Modern Slavery](../🧪_Development_Experimentation/🦎_snow_leopard_geckos_against_modern_slavery.md)  
-> - [🦎 Basking While the World Is Burning](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦎_basking_while_the_world_is_burning.md)  
-> - [🐍 Snake Bites and Stolen Voices](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)
-> - [👁️ Restoring Epistemic Integrity](./👁️_restoring_epistemic_integrity.md)  
-> - [📚 Memory, Market & Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md)  
-> - [🦠 Systemic Porosity](./🦠_systemic_porosity.md)  
-> - [🦠 AI UK Due Diligence & Autoimmunity Map](./🦠_ai_uk_due_diligence_and_autoimmunity_map.md)  
-> - [🧭 Reflexive Risk](./🧭_reflexive_risk.md)  
-> - [🧨 We Are Already Paying the Cost](./🧨_we_are_already_paying_the_cost.md)  
->  
+>
+> - [🦎 Snow Leopard Geckos Against Modern Slavery](../🧪_Development_Experimentation/🦎_snow_leopard_geckos_against_modern_slavery.md) — *harmless variance revealing hidden dependence*  
+> - [🦎 Basking While the World Is Burning](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🦎_basking_while_the_world_is_burning.md) — *survival and residue within the reptile register*  
+> - [🐍 Snake Bites and Stolen Voices](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md) — *capture, voice and retaliatory control*  
+> - [👁️ Restoring Epistemic Integrity](./👁️_restoring_epistemic_integrity.md) — *repair after compromised signals*  
+> - [📚 Memory, Market & Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md) — *persistence of behavioural traces and derived data*  
+> - [🦠 Systemic Porosity](./🦠_systemic_porosity.md) — *signals crossing nominal boundaries*  
+> - [🧭 Reflexive Risk](./🧭_reflexive_risk.md) — *systems changing what they measure*  
+>
 > 🏮 Return To:
 >
-> - [👑 Ownership & Control](./README.md)
-> - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
-> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+> - [👑 Ownership & Control](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
+*Survivor authorship is sovereign. Containment is never neutral.*
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
-
-_Last updated: 2026-08-13_
+_Last updated: 2026-08-16_
