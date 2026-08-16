@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 12:44:59 UTC_
+_Generated on 2026-08-16 12:46:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -200,7 +200,6 @@ _Generated on 2026-08-16 12:44:59 UTC_
           - [`🧟‍♀️_frankenstack_radicalisation_hypothesis.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🧟‍♀️_frankenstack_radicalisation_hypothesis.md)
           - [`🩺_frankenstack_intake_and_response_protocol.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🩺_frankenstack_intake_and_response_protocol.md)
           - [`🪼_frankenstack_social_field_effects.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🪼_frankenstack_social_field_effects.md)
-        - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/README.md)
         - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/notes.txt)
         - [`☕🫖_uk_gov_national_security_risk.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/☕🫖_uk_gov_national_security_risk.md)
         - [`✍️_crime_writing_as_normalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/✍️_crime_writing_as_normalisation.md)
@@ -4130,6 +4129,8 @@ _Generated on 2026-08-16 12:44:59 UTC_
         - [`🧲_what_bcg_takes_from_the_uk_and_palestine.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🧲_what_bcg_takes_from_the_uk_and_palestine.md)
         - [`🧿_unit_8200_is_not_hiding_what_it_is.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🧿_unit_8200_is_not_hiding_what_it_is.md)
         - [`🩺_fixing_the_nhs_frankenstack.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/🩺_fixing_the_nhs_frankenstack.md)
+      - [**🪬_Radicalisation_Extremism/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_Extremism/)
+        - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_Extremism/README.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
     - [**🕸️🧿_The_Observed_Information_Space/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/)
