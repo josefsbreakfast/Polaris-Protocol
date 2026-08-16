@@ -1,5 +1,5 @@
 # 🍷 Trauma Is Not Halakha  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-16  
 *On fear, post-Shoah reasoning, and why survival logic cannot replace Jewish law or ethics.*
 
 ---
@@ -80,4 +80,4 @@ trauma and ethics, post-holocaust reasoning, fear politics, halakha, genocide wa
 > - [🍉 Why Do We Care About Palestine](./🍉_why_do_we_care_about_palestine.md) — fear, survival narratives, and complicity  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-16_
