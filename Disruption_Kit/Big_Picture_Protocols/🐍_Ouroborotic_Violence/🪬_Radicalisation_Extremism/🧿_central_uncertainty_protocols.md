@@ -1,5 +1,5 @@
 # 🧿 Central Uncertainty Protocols  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-04 | **Last updated:** 2026-08-16  
 *When the UK state no longer fully trusts its own intelligence lattice and converts uncertainty into total command.*
 
 ---
@@ -108,4 +108,4 @@ It documents how the UK converts internal mistrust into extraordinary command an
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
