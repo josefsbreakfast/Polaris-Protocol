@@ -1,5 +1,5 @@
 # ⚖️ Recourse for Behavioural Containment  
-**First created:** 2025-10-30 | **Last updated:** 2025-11-12  
+**First created:** 2025-10-30 | **Last updated:** 2026-08-17  
 *How to prise open a closed data loop.*
 
 ---
@@ -39,4 +39,4 @@ ICO, IPT, judicial review, tort, national security exemption, equality duty
 *⚖️ Recourse for Behavioural Containment* is a living node of the Polaris Protocol.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-08-17_
