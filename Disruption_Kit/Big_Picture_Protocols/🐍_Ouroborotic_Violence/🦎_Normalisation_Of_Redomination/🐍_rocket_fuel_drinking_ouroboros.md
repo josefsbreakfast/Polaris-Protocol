@@ -1,5 +1,5 @@
 # 🐍 Rocket Fuel Drinking Ouroboros  
-**First created:** 2026-05-04 | **Last updated:** 2026-05-04  
+**First created:** 2026-05-04 | **Last updated:** 2026-08-16  
 *Mechanism node: bubble economics and capital-driven acceleration in digital industries*
 
 ---
@@ -203,4 +203,4 @@ It maps the acceleration mechanics of digital industries under capital pressure,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-04_
+_Last updated: 2026-08-16_
