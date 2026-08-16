@@ -1,5 +1,5 @@
 # 🪞 Humiliation as Spectacle — Echoes Across Genocides  
-**First created:** 2025-10-21 | **Last updated:** 2025-11-12  
+**First created:** 2025-10-21 | **Last updated:** 2026-08-16  
 *On the performative destruction of dignity — from pogroms to Palestine to the present day.*  
 
 ---
@@ -389,4 +389,4 @@ It traces the choreography of humiliation from colonial empire to contemporary g
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-08-16_
