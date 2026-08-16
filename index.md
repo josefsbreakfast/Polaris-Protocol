@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 14:25:39 UTC_
+_Generated on 2026-08-16 14:28:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -181,10 +181,6 @@ _Generated on 2026-08-16 14:25:39 UTC_
         - [`🧠_cognitive_dissonance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🧠_cognitive_dissonance.md)
         - [`🩸_the_repetition_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md)
       - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/)
-        - [`🛜_transnational_networks.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🛜_transnational_networks.md)
-        - [`🛰️_cultural_capture_of_internet_boys.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🛰️_cultural_capture_of_internet_boys.md)
-        - [`🟥_right_wing_coup_diagnostic_checklist.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🟥_right_wing_coup_diagnostic_checklist.md)
-        - [`🦁_individualism_as_edge.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦁_individualism_as_edge.md)
         - [`🦆_why_tech_bros_were_sitting_ducks.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦆_why_tech_bros_were_sitting_ducks.md)
         - [`🦠_opportunistic_disinfo_pathogen.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🦠_opportunistic_disinfo_pathogen.md)
         - [`🧠_charisma_as_coercion.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧠_charisma_as_coercion.md)
@@ -4130,6 +4126,10 @@ _Generated on 2026-08-16 14:25:39 UTC_
         - [`🕎_rising_kahanist_violence_risk.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🕎_rising_kahanist_violence_risk.md)
         - [`🕳️_denial_genocide_denial_vicarious_trauma.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🕳️_denial_genocide_denial_vicarious_trauma.md)
         - [`🕹️_gamified_extremism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🕹️_gamified_extremism.md)
+        - [`🛜_transnational_networks.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🛜_transnational_networks.md)
+        - [`🛰️_cultural_capture_of_internet_boys.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🛰️_cultural_capture_of_internet_boys.md)
+        - [`🟥_right_wing_coup_diagnostic_checklist.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🟥_right_wing_coup_diagnostic_checklist.md)
+        - [`🦁_individualism_as_edge.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🦁_individualism_as_edge.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
     - [**🕸️🧿_The_Observed_Information_Space/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/)
