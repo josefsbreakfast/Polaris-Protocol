@@ -1,5 +1,5 @@
 # 🛟 Borders, Boats & Walls  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-05  
+**First created:** 2025-09-27 | **Last updated:** 2026-08-17  
 *Migration and border containment logics: coercive control, liability shields, harm-reduction frames, and the contractor economy.*  
 
 ---
@@ -127,4 +127,4 @@ It exposes the coercive architectures of migration — where humanitarian langua
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-05_
+_Last updated: 2026-08-17_
