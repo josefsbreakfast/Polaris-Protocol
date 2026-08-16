@@ -1,5 +1,5 @@
 # ⚖️ Arms Exports as Act of Aggression  
-**First created:** 2025-10-11 | **Last updated:** 2026-02-19  
+**First created:** 2025-10-11 | **Last updated:** 2026-08-17  
 *When defence becomes denial; when trade becomes complicity.*  
 
 ---
@@ -139,4 +139,4 @@ It maps the legal terrain where trade, knowledge, and silence converge — and r
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-19_
+_Last updated: 2026-08-17_
