@@ -1,5 +1,5 @@
 # 🧿 Dependency on Western Definitions  
-**First created:** 2025-11-02 | **Last updated:** 2025-11-02  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-16  
 *How reliance on Western institutional definitions constrains memory, ethics, and political imagination — especially in post-trauma contexts.*
 
 ---
@@ -204,4 +204,4 @@ It contributes a structural critique of how moral authority is centralised, expo
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-08-16_
