@@ -1,5 +1,5 @@
 # 🚁 Arms Exports, Dual-Use Technology, & UAV Drift  
-**First created:** 2025-12-20 | **Last updated:** 2026-02-20  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-16  
 *How dual-use framing and UAV ecosystems turn precautionary controls into continuity engines.*
 
 ---
@@ -145,4 +145,4 @@ It exists to show how modern export control regimes can facilitate harm through 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-08-16_
