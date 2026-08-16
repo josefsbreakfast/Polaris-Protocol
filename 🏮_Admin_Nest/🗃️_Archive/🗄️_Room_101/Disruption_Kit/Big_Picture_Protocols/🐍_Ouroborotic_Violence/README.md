@@ -112,11 +112,11 @@ It serves as the diagnostic cluster for systemic violence recursion — linking 
 
 > 📡 Cross-references:
 > 
-> - [🫀 Our Hearts, Our Minds](../🫀_Our_Hearts_Our_Minds/README.md) — *ethics, trauma, and humane response*  
-> - [🌀 Systems & Governance](../🌀_System_Governance/README.md) — *containment frameworks and authority chains*  
-> - [🩸 Genocide Denialism](./🩸_Genocide_Denialism/README.md) — *repetition and revision mechanisms*  
-> - [🪬 Radicalisation & Extremism](./🪬_Radicalisation_Extremism/README.md) — *Prevent architecture and contagion logic*  
-> - [🗝️ Political Economy & Memory Work](./🗝️_Politics_Memory_Work/README.md) — *memory, apology, and bureaucratic amnesia*  
+> - [🫀 Our Hearts, Our Minds] — *ethics, trauma, and humane response*  
+> - [🌀 Systems & Governance] — *containment frameworks and authority chains*  
+> - [🩸 Genocide Denialism] — *repetition and revision mechanisms*  
+> - [🪬 Radicalisation & Extremism] — *Prevent architecture and contagion logic*  
+> - [🗝️ Political Economy & Memory Work] — *memory, apology, and bureaucratic amnesia*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
