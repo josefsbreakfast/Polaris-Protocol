@@ -1,5 +1,5 @@
 # 🩸 Genocide Denialism  
-**First created:** 2025-10-02  |  **Last updated:** 2025-10-04  
+**First created:** 2025-10-02  |  **Last updated:** 2026-08-16  
 *On the rewriting, erasure, and digital manipulation of atrocity memory in the network age.*
 
 ---
@@ -92,4 +92,4 @@ Writing this hurts because forgetting kills again.
 This node exists so the record can’t be quietly replaced.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-04_
+_Last updated: 2026-08-16_
