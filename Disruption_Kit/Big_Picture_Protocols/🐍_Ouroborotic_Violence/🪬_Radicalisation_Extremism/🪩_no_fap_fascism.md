@@ -1,5 +1,5 @@
 # 🪩 No Fap Fascism  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-03 | **Last updated:** 026-08-16  
 *It’s all fascism; all the way down.*  
 
 ---
@@ -56,4 +56,4 @@ It maps how centuries of discipline ideology condensed into a viral challenge an
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-08-16_
