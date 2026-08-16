@@ -1,5 +1,5 @@
 # 📖 Erased Archives & Survival Bias  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-16 | **Last updated:** 2026-08-16  
 *Explores how destroyed or looted archives create “holes” in history, shaping what we think is normal through survival bias.*  
 
 ---
@@ -73,4 +73,4 @@ It documents how erasure functions as containment, and how survival bias warps p
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
