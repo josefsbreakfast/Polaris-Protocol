@@ -1,5 +1,5 @@
 # 🧨 Spectacle of Raids  
-**First created:** 2025-09-12 | **Last updated:** 2026-04-26  
+**First created:** 2025-09-12 | **Last updated:** 2026-08-16  
 *On how high-visibility policing operations function as media events that convert structural failure into displays of control.*
 
 ---
@@ -128,4 +128,4 @@ It situates policing not only as practice, but as performance within a broader m
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-26_
+_Last updated: 2026-08-16_
