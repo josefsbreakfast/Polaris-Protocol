@@ -1,5 +1,5 @@
 # 💰 Capital First: What “Choice” Means Under Extraction
-**First created:** 2025-12-16 | **Last updated:** 2025-12-16  
+**First created:** 2025-12-16 | **Last updated:** 2026-08-16  
 *How disability exposes the limits of capitalist freedom — and where political loyalty actually lies.*
 
 ---
@@ -227,4 +227,4 @@ It exposes how disability functions as a stress test for capitalist claims about
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-16_
+_Last updated: 2026-08-16_
