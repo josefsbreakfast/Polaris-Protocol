@@ -1,5 +1,5 @@
 # 🐝 Sanctions as Loyalty Test — When ‘Dialogue’ Prevents Action  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-16  
 *When “dialogue” and “remembrance” are used to prevent action — and to test who will comply with power.*
 
 ---
@@ -246,4 +246,4 @@ It analyses how systems use civility, remembrance, and “balance” as tools to
 
 *Survivor authorship is sovereign. Action is clarity.*
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-08-16_
