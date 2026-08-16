@@ -1,5 +1,5 @@
 # 🀄️ To Reveal Our Hand  
-**First created:** 2025-10-20 | **Last updated:** 2026-05-03  
+**First created:** 2025-10-20 | **Last updated:** 2026-08-17  
 *On revelation as counter-intelligence, and the conditions under which visibility becomes strategy.*  
 
 ---
@@ -190,4 +190,4 @@ It frames revelation as a structural shift in information systems, where visibil
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_  
+_Last updated: 2026-08-17_  
