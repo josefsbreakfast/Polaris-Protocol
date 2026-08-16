@@ -1,5 +1,5 @@
 # ✈️ They Always Think They Are Geniuses  
-**First created:** 2025-12-24 | **Last updated:** 2026-05-03  
+**First created:** 2025-12-24 | **Last updated:** 2026-08-17  
 *Why power, insulation, and deference can distort self-perception and be mistaken for intelligence.*  
 <!--Tldr: JE was not a genius. He just had proximity to power and money, and knew how to shoot the shit.-->
 
@@ -171,4 +171,4 @@ It examines how power, insulation, and institutional reinforcement can distort p
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_  
+_Last updated: 2026-08-17_  
