@@ -1,5 +1,5 @@
 # 🟥 Right-Wing Coup Diagnostic Checklist (UK 2025)  
-**First created:** 2025-08-26 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-26 | **Last updated:** 2026-08-16  
 *Forensic indicators of creeping / constitutional coup dynamics in the UK.*  
 
 ---
@@ -56,5 +56,5 @@ It documents forensic indicators of creeping authoritarian capture and bureaucra
 
 *Survivors radiate sovereignty. Compassion is the extremis of survival.* 
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
 
