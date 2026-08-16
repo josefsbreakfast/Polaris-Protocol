@@ -296,11 +296,11 @@ It maps the governance dynamics that can emerge when structural self-description
 >   
 > 🏮 Return To:
 >
-> - [👑 Ownership & Control](./README.md)
-> - [🌀 Systems & Governance](../README.md)  
-> - [🧠 Big Picture Protocols](../../README.md)
-> - [🪄 Disruption Kit](../../../README.md)
-> - [🌌 Polaris Protocol - Root](../../../../README.md)  
+> - [👑 Ownership & Control](./README.md) — *1up*
+> - [♻️ Cybernetics](../README.md) — *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*
+> - [🌑 Origin Points](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
