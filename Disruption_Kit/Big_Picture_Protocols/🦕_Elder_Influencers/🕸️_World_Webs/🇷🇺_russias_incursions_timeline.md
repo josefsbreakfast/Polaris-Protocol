@@ -1,5 +1,5 @@
 # 🇷🇺 Russia’s Incursions Timeline  
-**First created:** 2025-09-20 | **Last updated:** 2026-05-03  
+**First created:** 2025-09-20 | **Last updated:** 2026-08-17  
 *Chronology of Russian military and coercive operations across Ukraine and the Caucasus, with parallel metadata anchors for systemic overlap.*
 
 ---
@@ -137,4 +137,4 @@ It documents a structured chronology of Russian operations alongside parallel sy
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_
+_Last updated: 2026-08-17_
