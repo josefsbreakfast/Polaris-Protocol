@@ -1,5 +1,5 @@
 # 🧠 Far Right Feeders Flipbook  
-**First created:** 2025-08-26 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-26 | **Last updated:** 2026-08-16  
 *Timeline of how data harvesting and opportunistic networks fed far-right ascendancy in the Anglophone sphere.*  
 
 ---
@@ -88,5 +88,5 @@ It traces how harvested datasets and opportunistic geopolitical networks converg
 
 *Survivors radiate sovereignty. Compassion is the extremis of survival.* 
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
 
