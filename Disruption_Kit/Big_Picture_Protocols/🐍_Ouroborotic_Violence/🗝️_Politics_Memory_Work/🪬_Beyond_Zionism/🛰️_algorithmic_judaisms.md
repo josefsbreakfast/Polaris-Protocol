@@ -1,5 +1,5 @@
 # 🛰️ Algorithmic Judaisms  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-21  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-16  
 *How ritual time, multilingual religious expression, and diasporic Jewish practice are misclassified as threat under Anglophone security logics*
 
 ---
@@ -196,4 +196,4 @@ It documents how automated systems misclassify religious and cultural self-regul
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-08-16_
