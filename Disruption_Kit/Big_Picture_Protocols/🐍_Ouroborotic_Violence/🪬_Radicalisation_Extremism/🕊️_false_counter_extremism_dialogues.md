@@ -1,5 +1,5 @@
 # 🕊️ False Counter-Extremism Dialogues  
-**First created:** 2025-09-12  |  **Last updated:** 2025-10-18  
+**First created:** 2025-09-12  |  **Last updated:** 2026-08-16  
 *On Prevent-style programmes that simulate “community engagement” while embedding surveillance and narrative control.*
 
 ---
@@ -62,4 +62,4 @@ This node marks the quiet places where conversation was offered in exchange for 
 It listens for what was never meant to be said aloud.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
