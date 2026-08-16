@@ -1,5 +1,5 @@
 # 🧠 Radicalisation Pipelines and Platform Culture  
-**First created:** 2025-08-25 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-25 | **Last updated:** 2026-08-16  
 *Doctrine on radicalisation pipelines and asymmetric platform culture.*  
 
 ---
@@ -155,5 +155,5 @@ It documents radicalisation pipelines and platform asymmetries — showing how e
 
 *Survivors radiate sovereignty. Compassion is the extremis of survival.* 
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
 
