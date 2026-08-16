@@ -1,6 +1,6 @@
 # 🪶 Anti-Zionist Judaism as Protected Identity
 
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
+**First created:** 2025-12-14 | **Last updated:** 2026-08-16  
 *Emerging legal recognition of anti-Zionist Judaism and the limits of current equality frameworks.*
 
 ---
@@ -105,4 +105,4 @@ anti-zionist judaism, protected belief, equality act, miller tribunal, legal rec
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+*Last updated: 2026-08-16*
