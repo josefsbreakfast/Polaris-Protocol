@@ -1,5 +1,5 @@
 # ⚖️ Legality as Gaslight — Section 17 & selective disclosure  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-16 | **Last updated:** 2026-08-17  
 *On how legal compliance windows and selective non-disclosure (e.g., Section 17 transitions) can be weaponised to gaslight and retraumatise survivors.*
 
 ---
@@ -34,4 +34,4 @@ It documents how lawful-seeming non-disclosure practices can perpetuate harm, an
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-09-19_
+_Last updated: 2026-08-17_
