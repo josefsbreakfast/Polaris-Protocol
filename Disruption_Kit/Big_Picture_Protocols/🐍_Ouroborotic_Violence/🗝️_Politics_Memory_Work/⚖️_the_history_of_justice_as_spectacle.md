@@ -1,5 +1,5 @@
 # ⚖️ The History of Justice as Spectacle  
-**First created:** 2025-11-12 | **Last updated:** 2026-01-15  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-16  
 *How punishment became performance — and why the crowd never leaves unchanged.*  
 
 ---
@@ -77,4 +77,4 @@ It examines how punishment becomes performance and how abolition reclaims moral 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-15_
+_Last updated: 2026-08-16_
