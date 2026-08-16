@@ -1,5 +1,5 @@
 # 🧊 Conspiracy Icebergs — Field Manual  
-**First created:** 2025-10-23 | **Last updated:** 2025-10-23  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-16  
 *Reading the layers of modern myth: from fandom logic to fascism.*
 
 ---
@@ -81,4 +81,4 @@ It offers practical diagnostics and engagement techniques for working with moder
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-10-23_
+_Last updated: 2026-08-16_
