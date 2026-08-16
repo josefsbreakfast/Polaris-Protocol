@@ -1,5 +1,5 @@
 # 📜 Charity Regime Reform  
-**First created:** 2025-10-15 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-15 | **Last updated:** 2026-08-16  
 *Policy design for transitional legislation toward democratic mutual aid.*
 
 ---
@@ -144,4 +144,4 @@ It proposes a lawful transition from traditional charity governance to democrati
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-16_
