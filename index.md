@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 15:15:40 UTC_
+_Generated on 2026-08-16 15:21:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -19,7 +19,6 @@ _Generated on 2026-08-16 15:15:40 UTC_
     - [**🐍_Ouroborotic_Violence/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
       - [**🗝️_Politics_Memory_Work/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/)
         - [**🪬_Beyond_Zionism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/)
-          - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/README.md)
           - [`🍉_as_a_jew_globalise_the_intifada.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍉_as_a_jew_globalise_the_intifada.md)
           - [`🍉_why_do_we_care_about_palestine.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍉_why_do_we_care_about_palestine.md)
           - [`🍷_crypto_before_it_was_cool.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🪬_Beyond_Zionism/🍷_crypto_before_it_was_cool.md)
@@ -2824,6 +2823,8 @@ _Generated on 2026-08-16 15:15:40 UTC_
       - [`📿_whole_tree_process_stack.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🌾_Granary_Management/📿_whole_tree_process_stack.md)
     - [**🍷_Always_Spiritually_In_Jerusalem/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🍷_Always_Spiritually_In_Jerusalem/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🍷_Always_Spiritually_In_Jerusalem/README.md)
+    - [**🪬_Beyond_Zionism/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/)
+      - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/README.md)
     - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/README.md)
   - [**🌸_Containment_Studies/**](🌑_1_Origin_Points/🌸_Containment_Studies/)
     - [**🌙_Everyday_Containment/**](🌑_1_Origin_Points/🌸_Containment_Studies/🌙_Everyday_Containment/)
