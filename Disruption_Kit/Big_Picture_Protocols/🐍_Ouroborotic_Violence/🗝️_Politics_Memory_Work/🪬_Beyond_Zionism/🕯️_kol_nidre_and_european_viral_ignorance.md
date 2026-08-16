@@ -1,5 +1,5 @@
 # 🕯️ Kol Nidre And European Viral Ignorance  
-**First created:** 2025-11-01 | **Last updated:** 2026-01-18  
+**First created:** 2025-11-01 | **Last updated:** 2026-08-16  
 *A memory-work node tracing how European misreadings of Jewish ritual became durable technologies of suspicion, coercion, and transferable racial violence.*
 
 ---
@@ -318,4 +318,4 @@ It documents how ritual ignorance and legal coercion became transferable technol
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-18_
+_Last updated: 2026-08-16_
