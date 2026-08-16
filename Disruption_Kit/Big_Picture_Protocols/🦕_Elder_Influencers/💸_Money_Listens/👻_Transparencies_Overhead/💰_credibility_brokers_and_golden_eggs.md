@@ -1,5 +1,5 @@
 # 💰 Credibility Brokers & Golden Eggs  
-**First created:** 2025-11-12 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-16  
 *How trust, legitimacy, and “good standing” are converted into tradable assets — and why institutions protect them at all costs.*  
 
 ---
@@ -164,4 +164,4 @@ It documents how trust and legitimacy are marketised, brokered, and protected as
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-08-16_
