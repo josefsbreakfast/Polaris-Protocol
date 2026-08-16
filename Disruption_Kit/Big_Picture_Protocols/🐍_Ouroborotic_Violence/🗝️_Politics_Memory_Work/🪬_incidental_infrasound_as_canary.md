@@ -1,5 +1,5 @@
 # 🪬 "Incidental" Infrasound as Canary  
-**First created:** 2025-12-08 | **Last updated:** 2026-01-06  
+**First created:** 2025-12-08 | **Last updated:** 2026-08-16  
 *How “background noise” becomes a coercive technique when burnout, tempo and impunity line up.*
 
 ---
@@ -248,4 +248,4 @@ It uses incidental low-frequency noise as a worked example of how coercive pract
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-06_
+_Last updated: 2026-08-16_
