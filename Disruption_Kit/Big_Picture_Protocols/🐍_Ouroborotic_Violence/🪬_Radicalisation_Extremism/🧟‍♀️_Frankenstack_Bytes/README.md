@@ -1,5 +1,5 @@
 # 🧟‍♀️ Frankenstack Bytes  
-**First created:** 2025-10-05 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-05 | **Last updated:** 2026-08-16  
 *Frankenstack spin-offs — focused nodes tracing how hybrid behavioural systems generate and manage radicalisation, social-field effects, and recovery responses.*  
 
 ---
@@ -53,4 +53,4 @@ It extends **🪬 Radicalisation & Extremism** by gathering practical, clinical,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16
