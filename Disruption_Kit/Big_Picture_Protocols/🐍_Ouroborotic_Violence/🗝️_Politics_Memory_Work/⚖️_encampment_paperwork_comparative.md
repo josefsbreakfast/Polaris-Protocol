@@ -1,5 +1,5 @@
 # ⚖️ Encampment Paperwork — Columbia vs Nottingham  
-**First created:** 2025-09-22 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-22 | **Last updated:** 2026-08-16  
 *Evidence node comparing paperwork and legal tactics used to dismantle student encampments at Columbia (NYC) and Nottingham (UK).*  
 
 ---
@@ -26,4 +26,4 @@
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
