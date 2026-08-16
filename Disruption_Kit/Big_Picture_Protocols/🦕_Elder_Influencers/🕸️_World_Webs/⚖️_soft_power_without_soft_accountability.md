@@ -1,5 +1,5 @@
 # ⚖️ Soft Power Without Soft Accountability  
-**First created:** 2025-11-02 | **Last updated:** 2026-05-03  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-17  
 *Examining how prestige‑driven diplomacy can thrive without any traceable audit trail.*  
 
 ---
@@ -94,4 +94,4 @@ It maps how Britain’s prestige‑based diplomatic architecture can operate wit
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-03_
+_Last updated: 2026-08-17_
