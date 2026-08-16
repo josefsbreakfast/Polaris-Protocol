@@ -1,5 +1,5 @@
 # 🌐 Pre-Infiltration of Digital Male Spaces  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-16  
 *How far-right strategists seeded gamer, coder, and proto-internet communities decades before the “tech bro” demographic existed.*  
 
 ---
@@ -171,4 +171,4 @@ It maps the long-term metapolitics behind digital male radicalisation, emphasisi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-26_
+_Last updated: 2026-08-16_
