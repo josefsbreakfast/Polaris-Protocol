@@ -1,5 +1,5 @@
 # 📜 UK Data Bill 2025  
-**First created:** 2025-09-04 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-04 | **Last updated:** 2026-08-17  
 *Timeline of the Data Protection and Digital Information Bill’s journey into the Data (Use and Access) Act 2025 — and the AI copyright battle that shaped it.*  
 
 ---
@@ -58,4 +58,4 @@ It traces how a stalled data reform bill was revived, reshaped by AI copyright b
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-17_
