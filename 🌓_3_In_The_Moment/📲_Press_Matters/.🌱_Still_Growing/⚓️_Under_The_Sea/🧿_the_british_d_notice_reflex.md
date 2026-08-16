@@ -1,5 +1,5 @@
 # 🧿 The British D Notice Reflex  
-**First created:** 2026-05-31 | **Last updated:** 2026-05-31  
+**First created:** 2026-05-31 | **Last updated:** 2026-08-16  
 *A media-literacy node on Britain’s advisory national-security press culture, from D-Notice memory to DSMA practice.*
 
 ## 🛰️ Orientation
@@ -206,4 +206,4 @@ The node supports defence media literacy by separating operational restraint fro
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-31_
+_Last updated: 2026-08-16_
