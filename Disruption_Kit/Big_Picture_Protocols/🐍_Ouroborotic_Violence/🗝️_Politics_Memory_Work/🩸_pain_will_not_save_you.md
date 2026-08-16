@@ -1,5 +1,5 @@
 # 🩸 Pain Will Not Save You  
-**First created:** 2026-01-08 | **Last updated:** 2026-01-08  
+**First created:** 2026-01-08 | **Last updated:** 2026-08-16  
 *On punishment, pain-as-absolution, and the colonial afterlife of moral cruelty*
 
 ---
@@ -398,4 +398,4 @@ It names and rejects the logic that equates suffering with virtue, documenting h
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-08_
+_Last updated: 2026-08-16_
