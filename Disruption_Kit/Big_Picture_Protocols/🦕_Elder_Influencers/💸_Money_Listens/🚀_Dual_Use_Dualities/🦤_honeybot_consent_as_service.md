@@ -1,5 +1,5 @@
 # 🦤 HoneyBot: Consent-as-Service  
-**First created:** 2025-10-08 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-08 | **Last updated:** 2026-08-16  
 *A satirical dual-use prototype exploring the commodification of consent under current legal and tech frameworks.*
 
 ---
@@ -87,4 +87,4 @@ It functions as both speculative provocation and evidentiary critique, illustrat
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-16_
