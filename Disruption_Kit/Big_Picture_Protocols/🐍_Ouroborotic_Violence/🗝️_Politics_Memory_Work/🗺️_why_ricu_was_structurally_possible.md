@@ -1,5 +1,5 @@
 # 🗺️ Why RICU Was Structurally Possible  
-**First created:** 2025-12-12 | **Last updated:** 2026-01-04  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-16  
 *The policy, legal, and bureaucratic conditions that allowed RICU to exist: national‑security exceptionalism, evidence gaps, political pressure, and institutional inertia.*  
 
 ---
@@ -129,4 +129,4 @@ It synthesises political, legal, and bureaucratic dynamics to explain how ethica
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-01-04*
+*Last updated: 2026-08-16*
