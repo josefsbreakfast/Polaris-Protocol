@@ -1,5 +1,5 @@
 # ✍️ Crime Writing as Normalisation  
-**First created:** 2025-09-12 | **Last updated:** 2026-04-26  
+**First created:** 2025-09-12 | **Last updated:** 2026-08-16  
 *On how crime media trains audiences to internalise surveillance, moral certainty, and policing logics.*
 
 ---
@@ -134,4 +134,4 @@ It treats crime media as an active component of ideological infrastructure rathe
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-26_
+_Last updated: 2026-08-16_
