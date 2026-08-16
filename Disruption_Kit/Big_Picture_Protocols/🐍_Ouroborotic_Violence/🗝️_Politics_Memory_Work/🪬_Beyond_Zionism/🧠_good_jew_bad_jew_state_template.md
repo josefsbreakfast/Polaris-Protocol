@@ -1,6 +1,5 @@
-# 🧠 Good Jew / Bad Jew State Template
-
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
+# 🧠 Good Jew / Bad Jew State Template  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-16  
 *How state and institutional frameworks sort Jewish people into compliant and non-compliant archetypes.*
 
 ---
@@ -124,4 +123,4 @@ good jew bad jew, conditional inclusion, institutional compliance, ihra framewor
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+*Last updated: 2026-08-16*
