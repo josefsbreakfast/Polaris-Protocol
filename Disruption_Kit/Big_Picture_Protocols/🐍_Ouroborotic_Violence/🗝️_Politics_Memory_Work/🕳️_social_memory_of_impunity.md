@@ -1,5 +1,5 @@
 # 🕳️ Social Memory of Impunity — When Cover-Ups Become Cultural Reflex  
-**Date Created:** 2025-11-02 | **Last updated:** 2025-12-21  
+**Date Created:** 2025-11-02 | **Last updated:** 2026-08-16  
 
 ---
 
@@ -108,4 +108,4 @@ To reverse the memory of impunity, states must do more than punish wrongdoing �
 they must rebuild the *expectation* that accountability is possible.  
 
 ---
-_Last updated: 2025-12-21_
+_Last updated: 2026-08-16_
