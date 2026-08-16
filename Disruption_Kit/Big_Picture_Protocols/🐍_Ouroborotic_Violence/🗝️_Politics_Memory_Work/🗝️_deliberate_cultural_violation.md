@@ -1,5 +1,5 @@
 # 🗝️ Deliberate Cultural Violation  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-27 | **Last updated:** 2026-08-16  
 *When empire’s “mistakes” became systemic tools of humiliation.*  
 
 ---
@@ -50,4 +50,4 @@ It traces how empire weaponised religious and cultural taboos as governance, and
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
