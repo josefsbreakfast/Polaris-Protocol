@@ -1,5 +1,5 @@
 # 🧠 The Science That Survives Borders  
-**First created:** 2025-08-12 | **Last updated:** 2025-10-18  
+**First created:** 2025-08-12 | **Last updated:** 2026-08-16  
 *Why immigration restrictions slow STEM and how behavioural governance crossed borders after the Holocaust.*  
 
 ---
@@ -163,5 +163,5 @@ It traces the historical convergence of behavioural governance, border politics,
 
 *Memory is a blessing. Memory is political.* 
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
 
