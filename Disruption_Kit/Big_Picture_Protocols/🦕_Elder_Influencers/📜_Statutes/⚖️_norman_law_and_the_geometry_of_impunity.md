@@ -1,5 +1,5 @@
 # ⚖️ Norman Law and the Geometry of Impunity  
-**First created:** 2025-11-06  |  **Last updated:** 2025-11-06  
+**First created:** 2025-11-06  |  **Last updated:** 2026-08-17  
 *How a feudal property skeleton still shapes who can be hurt - and who can litigate forever - in English law.*
 
 ---
@@ -88,4 +88,4 @@ feudal law, english law, property rights, fiduciary duty, tech feudalism, litiga
 *⚖️ Norman Law and the Geometry of Impunity* is a living node of the **Polaris Protocol**.  
 It traces how the Crown’s feudal logic survives inside modern finance and digital architecture — a geometry that still decides who owns the courtroom, the platform, and the future.  
 
-_Last updated: 2025-11-06_
+_Last updated: 2026-08-17_
