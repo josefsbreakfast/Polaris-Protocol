@@ -1,5 +1,5 @@
 # 🦂 Fanon: Symbolic Possession & Racialised Sexual Domination  
-**First created:** 2025-11-20 | **Last updated:** 2025-12-13  
+**First created:** 2025-11-20 | **Last updated:** 2026-08-16  
 *Colonial masculinity, sexual entitlement, and the woman-as-land paradigm.*  
 
 ---
@@ -190,4 +190,4 @@ It anchors modern racialised entitlement dynamics in Fanon’s anti-colonial fra
 > - 🦁 Why Men Label Women Terrorists When Rejected  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-13_
+_Last updated: 2026-08-16_
