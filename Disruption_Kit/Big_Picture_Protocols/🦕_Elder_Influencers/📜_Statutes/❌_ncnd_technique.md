@@ -1,5 +1,5 @@
 # ❌ NCND Technique  
-**First created:** 2025-10-01 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-01 | **Last updated:** 2026-08-17  
 *A satirical take on the bureaucrat’s favourite safe word: “Neither Confirm Nor Deny.” A kink for opacity, whispered like a mantra whenever the truth gets too close.*  
 
 ---
@@ -50,4 +50,4 @@ It captures the choreography of opacity: a refusal dressed as neutrality, deploy
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-17_
