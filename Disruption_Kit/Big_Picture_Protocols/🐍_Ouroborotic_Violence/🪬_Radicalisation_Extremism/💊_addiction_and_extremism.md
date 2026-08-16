@@ -1,5 +1,5 @@
 # 💊 Addiction and Extremism  
-**First created:** 2025-09-12 | **Last updated:** 2025-10-31  
+**First created:** 2025-09-12 | **Last updated:** 2026-08-16  
 *How sedation economies, digital dopamine, and purity cults recycle dependency into recruitment.*
 
 > ⚠️ *Reader Note:*  
@@ -164,4 +164,4 @@ It maps how gyms, gambling, pornography, self-help, and wellness industries buil
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-31_
+_Last updated: 2026-08-16_
