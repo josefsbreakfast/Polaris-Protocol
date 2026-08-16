@@ -1,5 +1,5 @@
 # 📚 The Suppressed Scholar  
-**First created:** 2025-10-20 | **Last updated:** 2025-10-20  
+**First created:** 2025-10-20 | **Last updated:** 2026-08-17  
 *An OSINT case study in how truth disappears when it crosses every discipline at once.*
 
 ---
@@ -152,4 +152,4 @@ It is dedicated to every researcher whose work disappeared and to those who quie
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-20_
+_Last updated: 2026-08-17_
