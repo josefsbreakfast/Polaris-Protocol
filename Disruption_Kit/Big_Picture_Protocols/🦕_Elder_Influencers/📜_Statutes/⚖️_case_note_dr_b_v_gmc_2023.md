@@ -1,8 +1,5 @@
-
-
-
 # ⚖️ Case Note — Dr B v General Medical Council (2023)  
-**First created:** 2025-10-19 | **Last updated:** 2025-12-15  
+**First created:** 2025-10-19 | **Last updated:** 2026-08-17  
 *Judicial recognition of distress-only damages and data-misuse accountability in regulatory contexts.*  
 
 ---
@@ -104,4 +101,4 @@ The node illustrates how courts interpret emotional injury as a legally recognis
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-08-17_
