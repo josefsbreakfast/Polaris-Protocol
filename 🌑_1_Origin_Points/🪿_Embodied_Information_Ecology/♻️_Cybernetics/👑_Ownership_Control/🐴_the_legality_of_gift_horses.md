@@ -1,5 +1,5 @@
-# 🐴 The Legality Of Gift Horses
-**First created:** 2026-05-28 | **Last updated:** 2026-08-15  
+# 🐴 The Legality of Gift Horses
+**First created:** 2026-05-28 | **Last updated:** 2026-08-16  
 *How convenience-framed digital reform can carry infrastructure-level constitutional consequences.*
 
 ---
@@ -10,7 +10,7 @@ This node examines the “gift horse” problem in AI-enabled digital government
 
 The public-facing offer is simple: easier services, less paperwork, faster access, better fraud prevention, modern public administration.
 
-The legal and constitutional question is less simple: what, exactly, is being accepted when the public is asked to consent to a digital identity layer, AI-enabled public services, enterprise procurement, data-linkage architecture, and public-private technical partnerships under one convenience frame?
+The legal and constitutional question is less simple: what, exactly, is being accepted when the public is asked to support a digital identity layer, AI-enabled public services, enterprise procurement, data-linkage architecture, and public-private technical partnerships under one convenience frame?
 
 The ownership question sits underneath the convenience question. Who builds, owns, maintains, modifies, audits, and ultimately controls infrastructure matters when that infrastructure begins to mediate access between a person and the state.
 
@@ -37,11 +37,13 @@ The problem is therefore not merely whether a particular technology is lawful in
 
 The issue is not “AI bad.”
 
-The issue is whether a government may treat broad electoral consent for modernisation as sufficient authority to reshape the citizen-state access layer through digital identity and AI-enabled administration.
+The issue is whether a government may treat broad electoral support for modernisation as sufficient democratic justification for reshaping the citizen-state access layer through digital identity and AI-enabled administration.
+
+That is partly distinct from strict legality. An electoral mandate is not itself the legal basis for processing personal data, exercising a statutory power, awarding a contract, or making an administrative decision. Conversely, a programme may have a lawful route through existing powers while still raising serious questions about constitutional significance, cumulative function, parliamentary scrutiny, and democratic legitimacy.
 
 In a system with an uncodified constitution, that question becomes sharper, not softer. If constitutional safeguards are distributed across statute, convention, common law, parliamentary scrutiny, procurement rules, data protection law, and administrative remedies, then clarity of description matters enormously.
 
-A vague object cannot receive meaningful consent.
+A vaguely described programme cannot receive meaningful public authorisation. Nor should public or electoral consent be confused with the specific forms of consent recognised in data protection law.
 
 Nor does describing infrastructure as convenient settle the question of who controls it. A service can be easy to use while simultaneously creating dependencies, concentrating administrative power, or moving consequential public functions into technical systems whose ownership and accountability arrangements are difficult for the public to see.
 
@@ -82,7 +84,7 @@ Calling all of them “digital transformation” does not make those differences
 
 ---
 
-## 👑 Ownership Is Part Of The Legal Architecture
+## 👑 Ownership Is Part of the Legal Architecture
 
 Ownership does not answer the legality question by itself.
 
@@ -137,6 +139,30 @@ The legality of the gift horse depends partly on whether the public, Parliament,
 This is why procurement cannot be treated as merely administrative plumbing.
 
 Where procurement choices determine who can operate, inspect, modify, audit, or replace consequential public infrastructure, procurement becomes part of the control architecture.
+
+---
+
+## ⚖️ Legal Governance Map
+
+There is no single legal test called the gift-horse test. It is an analytical device for asking which existing legal regimes are engaged and whether their combined effect is visible.
+
+Depending on the system and the public function involved, the relevant questions may arise under:
+- **statutory authority and public law** — whether the public body has legal power to establish or use the system, has addressed relevant considerations, has avoided improper delegation or fettering of discretion, and has acted rationally and fairly;
+- **data protection law** — including purpose limitation, data minimisation, accuracy, transparency, security, accountability, data-subject rights, and the safeguards applicable to significant automated decisions;
+- **equality law** — including discrimination risks and the public sector equality duty where a public authority develops, procures, or deploys a system;
+- **human rights law** — where identity, surveillance, data linkage, exclusion, family life, expression, association, or effective access to essential state functions engages protected rights;
+- **procurement and contract law** — including transparency, conflicts, award procedure, contract terms, audit access, intellectual property, exit rights, continuity, and supplier dependency;
+- **administrative justice** — including notice, reasons, review, correction, human reconsideration, appeal, and an effective route to remedy;
+- **sector-specific duties** — because health, welfare, immigration, policing, taxation, housing, and local-government systems do not operate under one interchangeable legal mandate.
+
+The applicable answer will depend on the system's actual design, legal basis, deployment context, and effect. Use of AI does not displace the ordinary duties of the public body using it, and procurement does not outsource the state's responsibility for the legality of the resulting public function.
+
+Two current governance mechanisms are particularly relevant but should not be overstated:
+
+- The **Algorithmic Transparency Recording Standard** is mandatory within its stated central-government scope for qualifying algorithmic tools; it is a transparency mechanism, not a substitute for legality, equality, data-protection compliance, or individual remedy.
+- The **Procurement Act 2023** creates transparency and conflicts-related requirements for covered procurement, but publication of procurement information does not by itself answer who possesses practical control, whether affected people can challenge a decision, or whether the resulting system is lawful in operation.
+
+The law governing automated decision-making is also developing. The **Data (Use and Access) Act 2025** changed the framework for significant solely automated decisions and retained safeguards around matters including information, representations, human intervention, and challenge. Any applied assessment should therefore identify the provisions in force at the relevant date rather than relying on an older summary of Article 22.
 
 ---
 
@@ -270,7 +296,7 @@ They are:
 - Can the government replace that company without disrupting my access to public services?
 - Can the system be expanded later without asking the public again?
 
-If these questions cannot be answered clearly, then the programme is not ready for public consent.
+If these questions cannot be answered clearly, then the programme is not ready to claim informed public acceptance. That conclusion is about governance and legitimacy; the programme's strict legality still requires analysis of its particular powers, purposes, safeguards, and effects.
 
 ---
 
@@ -296,6 +322,19 @@ That is when looking the gift horse in the mouth becomes basic governance hygien
 
 ---
 
+## 📚 Primary Legal and Governance Sources
+
+- [Data (Use and Access) Act 2025](https://www.legislation.gov.uk/ukpga/2025/18/contents) — *current statutory framework, including digital verification services and automated decision-making reforms*
+- [Data (Use and Access) Act 2025: commencement plans](https://www.gov.uk/guidance/data-use-and-access-act-2025-plans-for-commencement) — *dates on which major data-protection and digital-identity provisions took effect*
+- [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents) — *domestic data-protection regimes and safeguards*
+- [ICO guidance on AI and data protection](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/) — *regulatory guidance on fairness, accountability, transparency, rights, and risk*
+- [Procurement Act 2023](https://www.legislation.gov.uk/ukpga/2023/54/contents) — *procurement duties, notices, transparency, and conflicts architecture*
+- [Algorithmic Transparency Recording Standard guidance](https://www.gov.uk/government/publications/guidance-for-organisations-using-the-algorithmic-transparency-recording-standard/algorithmic-transparency-recording-standard-guidance-for-public-sector-bodies) — *scope and publication expectations for qualifying public-sector algorithmic tools*
+
+These sources establish relevant frameworks; they do not determine the legality of a particular system without its facts, statutory setting, and deployment design.
+
+---
+
 ## 🌌 Constellations
 
 ⚖️ 🛠️ 🧿 🕸️ 👁️‍🗨️ — constitutional scrutiny; ownership and control; public infrastructure; dependency; administrative visibility.
@@ -310,7 +349,7 @@ digital government, digital identity, public consent, ai governance, ownership a
 
 ## 🏮 Footer
 
-*🐴 The Legality Of Gift Horses* is a living node of the **Polaris Protocol**.  
+*🐴 The Legality of Gift Horses* is a living node of the **Polaris Protocol**.  
 It examines how convenience-framed public-sector technology can carry constitutional, procurement, administrative, and ownership consequences. Within **👑 Ownership Control**, the node asks who builds, owns, maintains, modifies, audits, and bears responsibility for infrastructure that increasingly mediates access between citizens and the state.
 
 > 📡 Cross-references:
@@ -321,4 +360,4 @@ It examines how convenience-framed public-sector technology can carry constituti
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-15_
+_Last updated: 2026-08-16_
