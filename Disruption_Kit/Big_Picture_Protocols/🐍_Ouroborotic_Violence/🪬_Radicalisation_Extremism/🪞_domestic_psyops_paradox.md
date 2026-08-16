@@ -1,5 +1,5 @@
 # 🪞 Domestic PsyOps Paradox  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-16  
 *The ethical incoherence of using Cold‑War influence methods on domestic minority populations — and how national‑security logic suppresses democratic safeguards.*
 
 ---
@@ -127,4 +127,4 @@ It documents how foreign‑policy influence methods, when redeployed domesticall
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-16_
