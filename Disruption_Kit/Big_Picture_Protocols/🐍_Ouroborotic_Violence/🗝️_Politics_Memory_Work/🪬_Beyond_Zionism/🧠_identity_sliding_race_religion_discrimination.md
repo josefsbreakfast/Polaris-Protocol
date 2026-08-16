@@ -1,6 +1,6 @@
 # 🧠 Identity Sliding: Race–Religion Discrimination
 
-**First created:** 2025-12-14 | **Last updated:** 2025-12-14
+**First created:** 2025-12-14 | **Last updated:** 2026-08-16  
 *How discrimination against anti-Zionist Jews shifts between race and religion depending on the discriminator’s frame.*
 
 ---
@@ -121,4 +121,4 @@ identity sliding, equality act failure, race religion discrimination, anti-zioni
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-14*
+*Last updated: 2026-08-16*
