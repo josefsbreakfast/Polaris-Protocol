@@ -1181,6 +1181,8 @@ Most importantly:
 
 ## 📚 Sources
 
+In the current form, sources are predominantly selected from sources within or supportive of policing as a whole. Over time, critique of policing or current and historical practices will be added, wherever possible within narrow bounds to pinpoint the exact arguments and sentiments. This will be done with respect to the increasing demand on policing attention and increasing pressure, whilst recognising the mirror increasing concern within impacted groups. The goal remains bridging to a place where alternative or uncomfortable viewpoints are understood and can be met where they are.  
+
 ### Sources Cited Directly in This Node
 
 - [HMICFRS — An inspection of vetting, misconduct, and misogyny in the police service](https://hmicfrs.justiceinspectorates.gov.uk/publication-html/an-inspection-of-vetting-misconduct-and-misogyny-in-the-police-service/)
