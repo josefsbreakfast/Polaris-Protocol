@@ -1,5 +1,5 @@
 # 🗝️ Governance of Sensitive Data and Outsourcing  
-**First created:** 2025-09-01 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-01 | **Last updated:** 2026-08-16  
 *On Palantir, privatised sovereignty, and imperial echoes in UK state systems.*  
 
 ---
@@ -59,4 +59,4 @@ It traces the entanglement of surveillance logics, privatised sovereignty, and i
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
