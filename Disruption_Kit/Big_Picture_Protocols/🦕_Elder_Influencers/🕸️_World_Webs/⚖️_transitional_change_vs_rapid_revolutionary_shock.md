@@ -1,5 +1,5 @@
 # ⚖️ Transitional Change vs Rapid Revolutionary Shock  
-**First created:** 2025-11-17 | **Last updated:** 2026-05-03  
+**First created:** 2025-11-17 | **Last updated:** 2026-08-17  
 *Why pace influences institutional stability, and how transitional sequencing can reduce systemic stress during reform.*  
 
 ---
@@ -193,4 +193,4 @@ It examines how the speed and sequencing of reform interact with institutional c
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_  
+_Last updated: 2026-08-17_  
