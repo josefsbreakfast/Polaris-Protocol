@@ -1,5 +1,5 @@
 # 🔥 Suppression as Signal  
-**First created:** 2025-09-18 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-18 | **Last updated:** 2026-08-16  
 *How the act of burying a book becomes its own marketing engine.*  
 
 ---
@@ -105,4 +105,4 @@ It documents how deliberate erasure transforms into cultural amplification, and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
