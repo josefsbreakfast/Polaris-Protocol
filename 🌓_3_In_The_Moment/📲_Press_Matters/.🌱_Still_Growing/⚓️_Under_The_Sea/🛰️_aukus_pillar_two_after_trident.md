@@ -1,5 +1,5 @@
 # 🛰️ AUKUS Pillar Two After Trident
-**First created:** 2026-05-31 | **Last updated:** 2026-05-31  
+**First created:** 2026-05-31 | **Last updated:** 2026-08-16  
 *A strategic reading of AUKUS Pillar II as an allied response to undersea infrastructure risk, autonomous warfare, and the losing edge of submarine concealment.*
 
 ## 🛰️ Orientation
@@ -134,4 +134,4 @@ It reads AUKUS Pillar II as a response to the undersea losing edge: the possibil
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-31_
+_Last updated: 2026-08-16_
