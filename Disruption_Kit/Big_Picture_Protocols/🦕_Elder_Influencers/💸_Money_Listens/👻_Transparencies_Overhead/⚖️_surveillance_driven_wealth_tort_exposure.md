@@ -1,5 +1,5 @@
 # ⚖️ Surveillance-Driven Wealth — Tort Exposure at the Top of the Table  
-**First created:** 2025-10-29  |  **Last updated:** 2025-10-31  
+**First created:** 2025-10-29  |  **Last updated:** 2026-08-16  
 *How long-term surveillance, creative exploitation, and wealth concentration reshape civil-liability scale.*  
 
 ---
@@ -126,4 +126,4 @@ It models how extreme wealth concentration and data exploitation converge to cre
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
-_Last updated: 2025-10-31_
+_Last updated: 2026-08-16_
