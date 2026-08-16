@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 15:07:28 UTC_
+_Generated on 2026-08-16 15:10:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4017,10 +4017,7 @@ _Generated on 2026-08-16 15:07:28 UTC_
         - [**🍉_Palestine/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/🍉_Palestine/)
           - [**🪨_May_Their_Names_Never_Be_Erased/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/)
             - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/README.md)
-            - [`T4P-KiG-Names-2025-07-31-full.csv`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/T4P-KiG-Names-2025-07-31-full.csv)
-            - [`killed-in-gaza-1.csv`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/killed-in-gaza-1.csv)
             - [`killed-in-gaza.csv`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/killed-in-gaza.csv)
-            - [`killed-in-gaza.min.json`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/🍉_Palestine/🪨_May_Their_Names_Never_Be_Erased/killed-in-gaza.min.json)
           - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/🍉_Palestine/README.md)
           - [`⚖️_slapps_uk_global_palestine.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/🍉_Palestine/⚖️_slapps_uk_global_palestine.md)
           - [`🛑_ghf_is_a_weapon.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/🍉_Palestine/🛑_ghf_is_a_weapon.md)
