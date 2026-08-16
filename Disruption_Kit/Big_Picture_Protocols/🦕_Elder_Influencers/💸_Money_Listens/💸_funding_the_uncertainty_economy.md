@@ -1,5 +1,5 @@
 # 💸 Funding the Uncertainty Economy  
-**First created:** 2025-12-20 | **Last updated:** 2025-12-21  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-16  
 *How money, legitimacy, and selective doubt reshape child-abuse forensics without coordination.*  
 
 ---
@@ -258,4 +258,4 @@ The node is intended as a **diagnostic and anticipatory tool**: to recognise lev
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-21_
+_Last updated: 2026-08-16_
