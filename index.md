@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 14:37:30 UTC_
+_Generated on 2026-08-16 14:41:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -181,10 +181,6 @@ _Generated on 2026-08-16 14:37:30 UTC_
         - [`🧠_cognitive_dissonance.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🧠_cognitive_dissonance.md)
         - [`🩸_the_repetition_mechanism.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🩸_Genocide_Denialism/🩸_the_repetition_mechanism.md)
       - [**🪬_Radicalisation_Extremism/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/)
-        - [`🧨_the_pua_to_fascist_pipeline.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧨_the_pua_to_fascist_pipeline.md)
-        - [`🧩_fragmented_identities_as_feedstock.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧩_fragmented_identities_as_feedstock.md)
-        - [`🧩_why_the_left_looks_scary_during_deradicalisation.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧩_why_the_left_looks_scary_during_deradicalisation.md)
-        - [`🧪_how_scientists_go_nazi.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧪_how_scientists_go_nazi.md)
         - [`🧭_respectability_pipelines.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧭_respectability_pipelines.md)
         - [`🧮_behavioural_risk_scoring_and_internet_triage_systems.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧮_behavioural_risk_scoring_and_internet_triage_systems.md)
         - [`🧮_datafication_as_risk_vector.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧮_datafication_as_risk_vector.md)
@@ -4130,6 +4126,10 @@ _Generated on 2026-08-16 14:37:30 UTC_
         - [`🧨_differential_classification_as_radicalisation_fuel.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧨_differential_classification_as_radicalisation_fuel.md)
         - [`🧨_securitisation_feedback_loop.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧨_securitisation_feedback_loop.md)
         - [`🧨_spectacle_of_raids.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧨_spectacle_of_raids.md)
+        - [`🧨_the_pua_to_fascist_pipeline.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧨_the_pua_to_fascist_pipeline.md)
+        - [`🧩_fragmented_identities_as_feedstock.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧩_fragmented_identities_as_feedstock.md)
+        - [`🧩_why_the_left_looks_scary_during_deradicalisation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧩_why_the_left_looks_scary_during_deradicalisation.md)
+        - [`🧪_how_scientists_go_nazi.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🧪_how_scientists_go_nazi.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
     - [**🕸️🧿_The_Observed_Information_Space/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/)
