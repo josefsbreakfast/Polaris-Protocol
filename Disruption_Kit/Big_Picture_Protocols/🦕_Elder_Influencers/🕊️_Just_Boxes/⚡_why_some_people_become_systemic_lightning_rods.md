@@ -1,5 +1,5 @@
 # ⚡ Why Some People Become Systemic Lightning Rods  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-07  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-17  
 *Understanding why certain individuals attract disproportionate bureaucratic attention, political anxiety, or misinterpretation during periods of democratic drift.*
 
 ---
@@ -210,4 +210,4 @@ Crosslinks:
 - 🗂️ *when_institutions_start_treating_you_as_a_category_not_a_person*  
 - 📛 *bureaucratic_memory_failure_and_identity_contamination*
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-08-17_
