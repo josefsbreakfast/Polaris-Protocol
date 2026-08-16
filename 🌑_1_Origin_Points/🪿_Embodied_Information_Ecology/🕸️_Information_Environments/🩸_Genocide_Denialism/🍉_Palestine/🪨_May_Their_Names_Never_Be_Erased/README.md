@@ -13,7 +13,8 @@ Whole families were lost. Erased in the flesh.
 So we remember their names in the data at least.  
 
 Primary dataset:  
-> [Killed in Gaza — Tech for Palestine (up to July 2025)](https://data.techforpalestine.org/docs/killed-in-gaza/)  
+> [Killed in Gaza — Tech for Palestine (up to July 2025)](https://data.techforpalestine.org/docs/killed-in-gaza/)
+> [Tech for Palestine datasets via Github](https://github.com/TechForPalestine/palestine-datasets)  
 > *(Operation Iron Swords and subsequent assaults, Gaza only)*  
 > _Note: Gaza treated as a separate municipality under the current illegal occupation of Palestine._
 
