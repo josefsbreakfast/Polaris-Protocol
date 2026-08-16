@@ -1,5 +1,5 @@
 # 🍉 Palestine  
-**First created:** 2025-10-08 | **Last updated:** 2025-10-08  
+**First created:** 2025-10-08 | **Last updated:** 2026-08-16  
 *Analytical and testimonial cluster tracing mechanisms of genocide denialism in Palestine, and the systemic suppression of its documentation.*
 
 ---
@@ -58,4 +58,4 @@ It documents, analyses, and resists the systemic erasure of Palestinian experien
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-08_
+_Last updated: 2026-08-16_
