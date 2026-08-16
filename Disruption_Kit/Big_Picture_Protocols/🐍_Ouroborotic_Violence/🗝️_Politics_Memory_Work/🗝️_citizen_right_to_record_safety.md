@@ -1,5 +1,5 @@
 # 🗝️ Citizen Right to Record Safety  
-**First created:** 2025-09-15 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-15 | **Last updated:** 2026-08-16  
 *The refusal to confirm the safety of sealed CSA/rape records, even after signs of breach, becomes structural cruelty.*  
 
 ---
@@ -41,4 +41,4 @@ It documents how the refusal to confirm the safety of sealed CSA/rape records �
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
