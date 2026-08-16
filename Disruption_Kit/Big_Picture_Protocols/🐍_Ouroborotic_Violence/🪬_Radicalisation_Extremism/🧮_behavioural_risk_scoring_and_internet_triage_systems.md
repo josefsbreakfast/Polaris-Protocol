@@ -1,5 +1,5 @@
 # 🧮 Behavioural Risk Scoring and Internet Triage Systems  
-**First created:** 2025-10-16 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-16 | **Last updated:** 2026-08-16  
 *Mapping the global infrastructure that quantifies “risk” in online behaviour for counter-terrorism and social control.*  
 
 ---
@@ -189,4 +189,4 @@ risk scoring, Prevent Assessment Framework, Horizon 2020 Secure Societies, Redir
 *🧮 Behavioural Risk Scoring and Internet Triage Systems* is a living node of the **Polaris Protocol**.  
 It records the moment a society recognises that its safety machinery and its democratic reflexes are locked in the same loop — and that the next move must be a collective decision about what *prevention* is for.
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
