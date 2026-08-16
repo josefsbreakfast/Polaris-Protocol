@@ -1,5 +1,5 @@
 # 📜 Freedom of Information Loopholes  
-**First created:** 2025-10-04 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-04 | **Last updated:** 2026-08-16  
 *How transparency law is bent, deferred, or re-interpreted to keep survivor-relevant data sealed.*
 
 ---
@@ -82,4 +82,4 @@ It documents how **transparency legislation is re-weaponised** into a delay and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
