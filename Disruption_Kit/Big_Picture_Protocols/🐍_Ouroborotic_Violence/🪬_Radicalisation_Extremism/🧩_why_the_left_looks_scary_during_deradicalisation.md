@@ -1,5 +1,5 @@
 # 🧩 Why “The Left” Looks Scary During De-Radicalisation  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-16  
 *Understanding why newly de-radicalising men often perceive left spaces as hostile, chaotic, or judgmental — and why this perception is an artefact of shame, not reality.*  
 <!--We are absolutely crackers over here, but there are decent people. The food is also pretty good.-->
 ---
@@ -266,4 +266,4 @@ It clarifies the psychological reasons de-radicalising men misread left spaces a
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-26_
+_Last updated: 2026-08-16_
