@@ -1,5 +1,5 @@
 # 🎊 Multi-Party Data Twinning  
-**First created:** 2025-09-17 | **Last updated:** 2026-01-19  
+**First created:** 2025-09-17 | **Last updated:** 2026-08-16  
 *How overlapping state and corporate interests fuse datasets through intermediaries.*  
 
 ---
@@ -117,4 +117,4 @@ It documents how overlapping interests in surveillance and governance exploit in
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-19_
+_Last updated: 2026-08-16_
