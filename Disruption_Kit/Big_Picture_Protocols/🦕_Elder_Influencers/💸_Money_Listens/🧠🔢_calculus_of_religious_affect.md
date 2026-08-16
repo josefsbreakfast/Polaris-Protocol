@@ -1,5 +1,5 @@
 # 🧠🔢 Calculus of Religious Affect  
-**First created:** 2025-11-23 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-23 | **Last updated:** 2026-08-16  
 *Why behavioural A/B pairing in the age of music‑first algorithms was doomed from the start — and why you should have listened to the person making the “are you sure you want to spend money on this?” face.*  
 
 ---
@@ -215,4 +215,4 @@ abrahamic modal analysis, music-first algorithms, affect calculus, behavioural p
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-16_
