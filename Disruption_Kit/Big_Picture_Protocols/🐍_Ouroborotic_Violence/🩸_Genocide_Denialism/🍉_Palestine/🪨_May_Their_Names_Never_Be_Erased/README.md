@@ -1,5 +1,5 @@
 # 🪨 May Their Names Never Be Erased  
-**First created:** 2025-10-07 | **Last updated:** 2025-11-02  
+**First created:** 2025-10-07 | **Last updated:** 2026-08-16  
 *A living memorial dataset: holding reference lists of those murdered in Gaza, affirming their lives when even the number of dead is contested.*
 
 ---
@@ -52,4 +52,4 @@ It preserves public reference datasets documenting those killed in Gaza, ensurin
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-02_
+_Last updated: 2026-08-16_
