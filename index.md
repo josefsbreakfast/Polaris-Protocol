@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-16 20:36:51 UTC_
+_Generated on 2026-08-16 20:43:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -20,7 +20,6 @@ _Generated on 2026-08-16 20:36:51 UTC_
       - [**🦎_Normalisation_Of_Redomination/**](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/)
         - [`IMG_5799.png`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/IMG_5799.png)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/README.md)
-        - [`notes.txt`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/notes.txt)
         - [`🌐_cia_scorpios_tia.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🌐_cia_scorpios_tia.md)
         - [`🌷_limits_of_amab_led_subversion.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🌷_limits_of_amab_led_subversion.md)
         - [`🐍_rocket_fuel_drinking_ouroboros.md`](Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/🦎_Normalisation_Of_Redomination/🐍_rocket_fuel_drinking_ouroboros.md)
