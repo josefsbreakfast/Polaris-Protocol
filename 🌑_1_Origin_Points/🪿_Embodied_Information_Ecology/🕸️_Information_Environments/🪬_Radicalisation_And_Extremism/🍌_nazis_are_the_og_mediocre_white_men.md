@@ -1,5 +1,5 @@
 # 🍌 Nazis Are the OG Mediocre White Men  
-**First created:** 2025-11-24 | **Last updated:** 2026-04-26  
+**First created:** 2025-11-24 | **Last updated:** 2026-08-16  
 *A structural account of how Nazism was not a story of genius villains, but of overconfident, under-disciplined men whose ideology degraded their ability to think, govern, or survive.*
 
 ---
@@ -183,4 +183,4 @@ It reframes fascism as a failure of epistemology rather than an excess of strate
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-04-26_
+_Last updated: 2026-08-16_
