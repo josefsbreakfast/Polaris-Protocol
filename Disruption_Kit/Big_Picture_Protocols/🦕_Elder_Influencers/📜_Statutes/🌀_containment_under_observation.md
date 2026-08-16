@@ -1,5 +1,5 @@
 # 🌀 Containment Under Observation — The Subtle Phase of Oversight Capture  
-**First created:** 2025-10-26 | **Last updated:** 2025-12-25  
+**First created:** 2025-10-26 | **Last updated:** 2026-08-17  
 *When overt interference gives way to monitored ambiguity, and a case becomes both specimen and shield.*  
 
 ---
@@ -146,7 +146,7 @@ It records the shift from overt interference to supervised ambiguity, where inst
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-17_
 
 ---
 
