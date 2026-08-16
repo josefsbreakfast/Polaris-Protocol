@@ -1,5 +1,5 @@
 # 🇷🇺🇬🇧 The Russia of the West; The UK of the East  
-**First created:** 2026-05-08 | **Last updated:** 2026-05-08  
+**First created:** 2026-05-08 | **Last updated:** 2026-08-17  
 *Comparative notes on Britain and Russia as historically legible imperial states shaped by legitimacy, geography, and symbolic power.*
 
 ---
@@ -320,4 +320,4 @@ It maps comparative emotional and political structures between Britain and Russi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_  
+_Last updated: 2026-08-17_  
