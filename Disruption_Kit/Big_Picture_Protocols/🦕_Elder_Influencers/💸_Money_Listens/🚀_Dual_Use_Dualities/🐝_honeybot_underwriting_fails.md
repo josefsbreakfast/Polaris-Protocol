@@ -1,5 +1,5 @@
 # 🐝 HoneyBot Underwriting Fails — and How to Rectify Them  
-**First created:** 2025-10-07 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-07 | **Last updated:** 2026-08-16  
 *A governance note on why dual-use or ethically volatile research collapses under weak underwriting, and what fixes restore accountability.*
 
 ---
@@ -78,4 +78,4 @@ It outlines how insurance and compliance frameworks must evolve to recognise eth
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-16_
