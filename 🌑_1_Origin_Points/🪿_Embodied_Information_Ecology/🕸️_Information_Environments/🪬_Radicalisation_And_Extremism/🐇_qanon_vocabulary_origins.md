@@ -1,5 +1,5 @@
 # 🐇 QAnon Vocabulary Origins  
-**First created:** 2025-10-05 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-05 | **Last updated:** 2026-08-16  
 *Pulp procedure, prophecy syntax, and gamer logic fused into a radicalisation dialect.*
 
 ---
@@ -154,4 +154,4 @@ It maps the linguistic genealogy through which pulp, prophecy, and orphaned idio
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
