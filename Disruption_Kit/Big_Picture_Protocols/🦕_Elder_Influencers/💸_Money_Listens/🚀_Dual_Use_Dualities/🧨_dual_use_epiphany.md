@@ -1,5 +1,5 @@
 # 🧨 Dual-Use Epiphany  
-**First created:** 2025-11-08 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-08 | **Last updated:** 2026-08-16  
 *Social and institutional conditions that make dual-use convergence plausible.*  
 
 ---
@@ -54,4 +54,4 @@ It captures the enabling conditions through which civilian projects morph into c
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-16_
