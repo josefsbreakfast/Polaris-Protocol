@@ -1,5 +1,5 @@
 # ⚙️ Efficiency Bias and the Fascism of Optimisation  
-**First created:** 2025-11-05 | **Last updated:** 2026-01-15  
+**First created:** 2025-11-05 | **Last updated:** 2026-08-16  
 *On why centralising for efficiency can save lives — and why it can also quietly erase them.*  
 
 ---
@@ -87,4 +87,4 @@ The sweet spot lies where coordination serves life, not the algorithm.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-15_
+_Last updated: 2026-08-16_
