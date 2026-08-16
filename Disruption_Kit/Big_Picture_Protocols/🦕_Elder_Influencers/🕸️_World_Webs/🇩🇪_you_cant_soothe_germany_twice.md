@@ -1,5 +1,5 @@
 # 🇩🇪 You Can’t Soothe Germany Twice  
-**First created:** 2025-11-13 | **Last updated:** 2026-05-03  
+**First created:** 2025-11-13 | **Last updated:** 2026-08-17  
 *How reassurance-based diplomacy interacted with Germany’s post-war restraint—and why that dynamic breaks after threshold events.*
 
 ---
@@ -209,4 +209,4 @@ It maps how reassurance-based diplomacy interacts with strategic culture and why
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_
+_Last updated: 2026-08-17_
