@@ -1,5 +1,5 @@
 # 🧬 The Policies We Never Reckoned With
-**First created:** 2025-12-16 | **Last updated:** 2025-12-16  
+**First created:** 2025-12-16 | **Last updated:** 2026-08-17  
 *How unresolved eugenic logics persist in modern policy — not as ideology, but as structure.*
 
 ---
@@ -188,4 +188,4 @@ It documents how discredited ideas persist through administrative structure, and
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-16_
+_Last updated: 2026-08-17_
