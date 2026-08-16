@@ -1,5 +1,5 @@
 # ⚖️ Selective Memory & Erasure  
-**First created:** 2025-09-16 | **Last updated:** 2026-01-15  
+**First created:** 2025-09-16 | **Last updated:** 2026-08-16  
 *On reports of selective recall, redaction, and inconsistent memory behaviour in CVE contexts.*  
 
 ---
@@ -56,4 +56,4 @@ It records reported phenomena of inconsistent recall and proposes mitigations an
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-15_
+_Last updated: 2026-08-16_
