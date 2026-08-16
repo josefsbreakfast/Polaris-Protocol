@@ -1,5 +1,5 @@
 # 📜 Cold War Methodology Inheritance  
-**First created:** 2025-12-12 | **Last updated:** 2025-12-12  
+**First created:** 2025-12-12 | **Last updated:** 2026-08-17  
 *How IRD‑style thinking migrated into modern domestic counter‑extremism strategies — the unseen lineage shaping contemporary governance instincts.*
 
 ---
@@ -115,4 +115,4 @@ It documents how influence frameworks developed under Cold‑War conditions pers
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2025-12-12*
+*Last updated: 2026-08-17*
