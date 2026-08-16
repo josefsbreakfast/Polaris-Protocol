@@ -1,5 +1,5 @@
 # 🍉 Friction, Erasure, and the Machine View of Resistance  
-**First created:** 2025-11-05 | **Last updated:** 2026-01-22  
+**First created:** 2025-11-05 | **Last updated:** 2026-08-16  
 *How untrained AI logic learns to treat Palestinian life — and other marginalised resistance — as systemic friction.*
 
 ---
@@ -101,4 +101,4 @@ and that safeguarding life requires continuous retraining so that genocide remai
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-08-16_
