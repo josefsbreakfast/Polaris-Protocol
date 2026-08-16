@@ -1,5 +1,5 @@
 # 🏛️ Welcome to Western Imperialism  
-**First created:** 2025-11-02 | **Last updated:** 2025-12-16  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-16  
 *How empire launders itself through memory, migration pressure, reparations avoidance, and selective resistance.*
 
 ---
@@ -507,4 +507,4 @@ It contributes structural analysis of how unresolved antisemitism, reparations a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-16_
+_Last updated: 2026-08-16_
