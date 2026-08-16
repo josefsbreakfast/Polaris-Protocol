@@ -1,5 +1,5 @@
 # 🧠 Cognitive Dissonance  
-**First created:** 2025-10-07 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-07 | **Last updated:** 2026-08-16  
 *On the psychic split that sustains denial in the face of atrocity.*
 
 ---
@@ -69,4 +69,4 @@ It contributes to the *🩸 Genocide Denialism* cluster by tracing how psycholog
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
