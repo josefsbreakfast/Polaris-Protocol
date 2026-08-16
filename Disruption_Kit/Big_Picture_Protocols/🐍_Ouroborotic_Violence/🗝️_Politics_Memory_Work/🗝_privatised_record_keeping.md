@@ -1,5 +1,5 @@
 # 🗝 Privatised Record Keeping  
-**First created:** 2025-09-14 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-14 | **Last updated:** 2026-08-16  
 *How public records are quietly rerouted into private custody, enclosing survivor histories behind contractual and commercial secrecy.*
 
 ---
@@ -80,4 +80,4 @@ It documents how **outsourcing and legal privilege** reshape access to truth, en
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
