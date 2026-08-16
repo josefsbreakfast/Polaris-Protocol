@@ -1,5 +1,5 @@
 # 🦇 Background Weirdness  
-**First created:** 2025-12-07 | **Last updated:** 2025-12-07  
+**First created:** 2025-12-07 | **Last updated:** 2026-08-16  
 *The deep-context drawer: all the strange cultural, psychological, and ideological sediments that make modern radicalisation feel like badly-cached lore.*
 
 ---
@@ -79,4 +79,4 @@ It provides the contextual strata behind modern radicalisation, mapping the ambi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-07_
+_Last updated: 2026-08-16_
