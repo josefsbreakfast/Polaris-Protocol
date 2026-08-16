@@ -1,5 +1,5 @@
 # 🧿 MODA Grants  
-**First created:** 2025-11-04 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-04 | **Last updated:** 2026-08-16  
 *How “diaspora care” funding creates impossible ethical positions when state policy breaches international law.*
 
 ---
@@ -186,4 +186,4 @@ It contributes structural analysis of how diaspora “care” funding can become
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-08-16_
