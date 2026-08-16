@@ -1,5 +1,5 @@
 # 🔥 Hot Coals Theory of Insults  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-18  
+**First created:** 2025-09-16 | **Last updated:** 2026-08-16  
 *How insults are recycled down social hierarchies, keeping anger lateral and containment intact.*  
 
 ---
@@ -74,4 +74,4 @@ It tracks how class insults are recycled into racial insults, sustaining contain
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_  
+_Last updated: 2026-08-16_  
