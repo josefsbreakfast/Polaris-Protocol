@@ -1,5 +1,5 @@
 # 🦆 Why Tech Bros Were Sitting Ducks  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-26  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-16  
 *How a generation of clever, lonely, emotionally earnest men became the ideal demographic for extremist grooming.*  
 
 ---
@@ -226,4 +226,4 @@ It reframes alt-right recruitment not as an inevitability, but as a deliberate e
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-26_
+_Last updated: 2026-08-16_
