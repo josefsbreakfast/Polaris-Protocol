@@ -1,5 +1,5 @@
 # 🧾 Mass Symbolic Arrests — Street Processing & Cost Snapshot
-**First created:** 2025-10-05 | **Last updated:** 2026-01-04  
+**First created:** 2025-10-05 | **Last updated:** 2026-08-17  
 *How passive-resistance arrests (lying down, relaxing the body) inflate police resource use, cost, and data capture.*  
 
 ---
@@ -54,4 +54,4 @@ Mass arrests where the 'offence' is symbolic expression (holding a placard signa
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-08-17_
