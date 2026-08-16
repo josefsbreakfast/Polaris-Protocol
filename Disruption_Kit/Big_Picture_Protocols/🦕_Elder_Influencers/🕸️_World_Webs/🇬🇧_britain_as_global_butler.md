@@ -1,5 +1,5 @@
 # 🇬🇧 Britain as Global Butler  
-**First created:** 2025-09-17 | **Last updated:** 2026-05-03  
+**First created:** 2025-09-17 | **Last updated:** 2026-08-17  
 *An analytical frame for understanding Britain’s role as a service-oriented intermediary within global systems.*  
 
 ---
@@ -137,4 +137,4 @@ It provides an analytical lens for understanding how Britain operates as a servi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_  
+_Last updated: 2026-08-17_  
