@@ -1,5 +1,5 @@
 # 📜 UK House of Lords 2025  
-**First created:** 2025-09-04 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-04 | **Last updated:** 2026-08-17  
 *Timeline of the House of Lords (Hereditary Peers) Bill 2024–2025 — from manifesto pledge to Lords pushback and public response.*  
 
 ---
@@ -74,4 +74,4 @@ It documents the contested removal of hereditary peers, the amendments that dilu
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-17_
