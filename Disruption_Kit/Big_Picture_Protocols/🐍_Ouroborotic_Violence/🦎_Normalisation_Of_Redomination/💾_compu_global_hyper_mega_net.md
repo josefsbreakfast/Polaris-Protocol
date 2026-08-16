@@ -1,5 +1,5 @@
 # 💾 Compu-Global-Hyper-Mega-Net  
-**First created:** 2026-05-04 | **Last updated:** 2026-05-04  
+**First created:** 2026-05-04 | **Last updated:** 2026-08-16  
 *Diagnostic node: the normalisation of redomination in digital industries*
 
 ---
@@ -232,4 +232,4 @@ It maps the structural tendency of digital industries to reassert control over e
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-04_
+_Last updated: 2026-08-16_
