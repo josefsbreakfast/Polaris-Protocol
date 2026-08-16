@@ -1,5 +1,5 @@
 # 🐍 Ouroborotic Violence  
-**First created:** 2025-10-15 | **Last updated:** 2025-10-18  
+**First created:** 2025-10-15 | **Last updated:** 2026-08-16  
 *Where violence consumes itself, and memory is the only cure.*  
 
 ---
@@ -120,4 +120,4 @@ It serves as the diagnostic cluster for systemic violence recursion — linking 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-18_
+_Last updated: 2026-08-16_
