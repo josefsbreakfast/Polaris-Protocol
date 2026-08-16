@@ -1,5 +1,5 @@
 # ✂🌹 Machine Pruning Logic  
-**First created:** 2025-11-05  |  **Last updated:** 2026-05-08
+**First created:** 2025-11-05  |  **Last updated:** 2026-08-17  
 *Why optimisation without correction becomes slow erasure.*  
 
 ---
@@ -89,4 +89,4 @@ It traces how optimisation engines slide from correction to eradication, and why
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-08-17_
