@@ -1,5 +1,5 @@
 # 📯 Soundline: Bark to Trumpet  
-**First created:** 2025-11-01 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-01 | **Last updated:** 2026-08-17  
 *A mythographic-acoustic study of how revelation travels through vibration — from the bark of instinct to the trumpet of judgment.*  
 
 ---
@@ -134,4 +134,4 @@ soundline, bark to trumpet, acoustic theology, vibration and meaning, revelation
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-08-17_
