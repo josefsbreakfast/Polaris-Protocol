@@ -1,5 +1,5 @@
 # 🦕 Partition Loop — Borders as Violence  
-**First created:** 2025-09-24 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-24 | **Last updated:** 2026-08-17  
 *How rigid borders manufacture itinerancy and unleash cycles of violence.*  
 
 ---
@@ -58,4 +58,4 @@ the earth remembers no straight lines.
 Rivers meander. Roots cross beneath fences.  
 What was cut apart seeks its way back together.  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-17_
