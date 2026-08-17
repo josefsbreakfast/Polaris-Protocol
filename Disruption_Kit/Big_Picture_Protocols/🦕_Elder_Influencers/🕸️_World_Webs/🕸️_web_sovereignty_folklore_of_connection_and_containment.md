@@ -1,5 +1,5 @@
 # 🕸️ Web Sovereignty — Folklore of Connection and Containment  
-**First created:** 2025-10-23 | **Last updated:** 2025-12-12  
+**First created:** 2025-10-23 | **Last updated:** 2026-08-17  
 *Every thread is both sensor and shield.*
 
 ---
@@ -71,4 +71,4 @@ It braids mythic weaving, biological design, and digital boundary practice into 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-17_
