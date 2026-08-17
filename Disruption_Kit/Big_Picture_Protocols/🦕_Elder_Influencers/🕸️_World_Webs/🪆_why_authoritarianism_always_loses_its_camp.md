@@ -1,5 +1,5 @@
 # 🪆 Why Authoritarianism Always Loses Its Camp  
-**First created:** 2025-11-13 | **Last updated:** 2026-01-02  
+**First created:** 2025-11-13 | **Last updated:** 2026-08-17  
 *The structural reasons autocracies shed flamboyance, humour, spectacle, and charisma as they radicalise.*  
 
 ---
@@ -53,4 +53,4 @@ camp, authoritarianism, humour suppression, paranoia, aesthetics, spectacle
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-02_
+_Last updated: 2026-08-17_
