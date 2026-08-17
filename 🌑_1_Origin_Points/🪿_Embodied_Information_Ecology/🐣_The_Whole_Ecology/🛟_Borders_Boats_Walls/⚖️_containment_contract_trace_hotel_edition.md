@@ -1,5 +1,5 @@
 # ⚖️ Containment Contract Trace: Hotel Edition  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-16 | **Last updated:** 2026-08-17  
 *Mapping the corporations profiting from asylum accommodation, detention, and border enforcement.*  
 
 ---
@@ -87,4 +87,4 @@ It documents the corporate ecosystem that profits from migrant containment, and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_  
+_Last updated: 2026-08-17_  
