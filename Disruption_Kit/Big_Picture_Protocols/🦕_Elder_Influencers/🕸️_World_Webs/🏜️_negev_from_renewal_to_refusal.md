@@ -1,5 +1,5 @@
 # 🏜️ Negev — From Renewal to Refusal  
-**First created:** 2025-11-07 | **Last updated:** 2026-01-09  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-17  
 *How a landscape once framed as renewal became a site of refusal, detention, and disappearance.*  
 
 ---
@@ -154,4 +154,4 @@ It examines how landscapes inherit ideology, and how the use of space exposes th
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-09_
+_Last updated: 2026-08-17_
