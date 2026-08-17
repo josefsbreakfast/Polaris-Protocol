@@ -1,5 +1,5 @@
 # 🪩 Weaponised Joy  
-**First created:** 2025-11-13 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-13 | **Last updated:** 2026-08-17  
 *How joy, charisma, and spectacle operate as the strongest form of geopolitical soft power.*
 
 ---
@@ -53,4 +53,4 @@ soft power, joy, charisma, spectacle, synchrony, affective influence
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-17_
