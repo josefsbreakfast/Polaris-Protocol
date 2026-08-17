@@ -1,5 +1,5 @@
 # 🧠 Cognitive Immunology  
-**First created:** 2025-12-14 | **Last updated:** 2025-12-25  
+**First created:** 2025-12-14 | **Last updated:** 2026-08-17  
 *A framework for understanding how societies resist or succumb to epistemic harm at population scale.*  
 
 ---
@@ -179,4 +179,4 @@ It provides a conceptual framework for understanding how epistemic harm spreads,
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-17_
