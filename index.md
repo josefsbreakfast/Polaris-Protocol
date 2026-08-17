@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-17 17:38:12 UTC_
+_Generated on 2026-08-17 17:39:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1564,7 +1564,6 @@ _Generated on 2026-08-17 17:38:12 UTC_
       - [`IMG_8679.png`](Disruption_Kit/Field_Logs/20260501_May_2026/IMG_8679.png)
       - [`IMG_8680.png`](Disruption_Kit/Field_Logs/20260501_May_2026/IMG_8680.png)
     - [`README.md`](Disruption_Kit/Field_Logs/README.md)
-  - [`README.md`](Disruption_Kit/README.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
     - [**㊙_Containment_Contracts/**](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/)
@@ -9358,6 +9357,7 @@ _Generated on 2026-08-17 17:38:12 UTC_
         - [**🔖_Tag_Pack/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/🔖_Tag_Pack/)
           - [`🔖_Polaris_Tags_v1.0.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/🔖_Tag_Pack/🔖_Polaris_Tags_v1.0.md)
           - [`🕯️_SIGNALS.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/🔖_Tag_Pack/🕯️_SIGNALS.md)
+        - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/README.md)
       - [**SCP-VoiceX_Casefiles/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/)
         - [**Institutional_Breach_And_Dataflow/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/SCP-VoiceX_Casefiles/Institutional_Breach_And_Dataflow/README.md)
