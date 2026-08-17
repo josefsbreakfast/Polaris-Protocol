@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-17 01:35:28 UTC_
+_Generated on 2026-08-17 16:47:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,16 +18,7 @@ _Generated on 2026-08-17 01:35:28 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/)
-        - [`🇬🇧_britain_is_queenless_now.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_britain_is_queenless_now.md)
-        - [`🇬🇧_why_the_uk_is_in_the_falklands.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_why_the_uk_is_in_the_falklands.md)
-        - [`🇮🇱_zionism_is_racism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇮🇱_zionism_is_racism.md)
-        - [`🇷🇺_russias_incursions_timeline.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_russias_incursions_timeline.md)
         - [`🇷🇺_the_end_of_russias_camp_era.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)
-        - [`🇷🇺🇬🇧_russia_west_uk_east.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺🇬🇧_russia_west_uk_east.md)
-        - [`🇺🇸_why_the_us_is_willing_to_risk_europe.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇺🇸_why_the_us_is_willing_to_risk_europe.md)
-        - [`🇺🇸🇬🇧_us_uk_group_easter_egg_hunt.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇺🇸🇬🇧_us_uk_group_easter_egg_hunt.md)
-        - [`🌍_apartheid_algorithm_dependency_theory.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌍_apartheid_algorithm_dependency_theory.md)
-        - [`🌍_when_virtual_minds_govern_a_physical_planet.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md)
         - [`🌏_brics_bridgework_middle_corridors.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_brics_bridgework_middle_corridors.md)
         - [`🌏_china_soft_ops_vs_russia_hard_ops.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_china_soft_ops_vs_russia_hard_ops.md)
         - [`🌏_from_escalation_to_play.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_from_escalation_to_play.md)
@@ -2617,6 +2608,8 @@ _Generated on 2026-08-17 01:35:28 UTC_
     - [`🏢_when_the_court_is_hidden_in_the_apartment_block.md`](🌑_1_Origin_Points/🍌_Why_Kafka/🏢_when_the_court_is_hidden_in_the_apartment_block.md)
     - [`🗄️_when_the_offices_show_the_system_violence.md`](🌑_1_Origin_Points/🍌_Why_Kafka/🗄️_when_the_offices_show_the_system_violence.md)
     - [`🧭_why_polaris_protocol.md`](🌑_1_Origin_Points/🍌_Why_Kafka/🧭_why_polaris_protocol.md)
+  - [**🍔_Burger_Basics/**](🌑_1_Origin_Points/🍔_Burger_Basics/)
+    - [`notes.txt`](🌑_1_Origin_Points/🍔_Burger_Basics/notes.txt)
   - [**🧄_Exousiología/**](🌑_1_Origin_Points/🧄_Exousiología/)
     - [**🌍_Comparative_Systems/**](🌑_1_Origin_Points/🧄_Exousiología/🌍_Comparative_Systems/)
       - [`README.md`](🌑_1_Origin_Points/🧄_Exousiología/🌍_Comparative_Systems/README.md)
@@ -3924,6 +3917,15 @@ _Generated on 2026-08-17 01:35:28 UTC_
         - [`🇩🇪_you_cant_soothe_germany_twice.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇩🇪_you_cant_soothe_germany_twice.md)
         - [`🇪🇺_two_speed_europe.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇪🇺_two_speed_europe.md)
         - [`🇬🇧_britain_as_global_butler.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇬🇧_britain_as_global_butler.md)
+        - [`🇬🇧_britain_is_queenless_now.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇬🇧_britain_is_queenless_now.md)
+        - [`🇬🇧_why_the_uk_is_in_the_falklands.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇬🇧_why_the_uk_is_in_the_falklands.md)
+        - [`🇮🇱_zionism_is_racism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇮🇱_zionism_is_racism.md)
+        - [`🇷🇺_russias_incursions_timeline.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇷🇺_russias_incursions_timeline.md)
+        - [`🇷🇺🇬🇧_russia_west_uk_east.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇷🇺🇬🇧_russia_west_uk_east.md)
+        - [`🇺🇸_why_the_us_is_willing_to_risk_europe.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇺🇸_why_the_us_is_willing_to_risk_europe.md)
+        - [`🇺🇸🇬🇧_us_uk_group_easter_egg_hunt.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇺🇸🇬🇧_us_uk_group_easter_egg_hunt.md)
+        - [`🌍_apartheid_algorithm_dependency_theory.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🌍_apartheid_algorithm_dependency_theory.md)
+        - [`🌍_when_virtual_minds_govern_a_physical_planet.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md)
       - [**🛰️_Infrastructure_Procurement/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/README.md)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
