@@ -1,5 +1,5 @@
 # 🕯️ Crash Sites as Temporal Loops  
-**First created:** 2025-11-06  |  **Last updated:** 2025-12-11  
+**First created:** 2025-11-06  |  **Last updated:** 2026-08-17  
 *How disaster sites fold time — replaying power until recognition arrives.*  
 
 ---
@@ -58,4 +58,4 @@ It closes the Crash Constellation by tracing how repetition itself becomes the s
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-17_
