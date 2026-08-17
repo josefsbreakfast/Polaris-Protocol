@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-17 17:22:14 UTC_
+_Generated on 2026-08-17 17:27:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -17,15 +17,6 @@ _Generated on 2026-08-17 17:22:14 UTC_
 - [**Disruption_Kit/**](Disruption_Kit/)
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
-      - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/)
-        - [`🧬_exit_exploitation_and_immortality_the_thiel_paradox.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧬_exit_exploitation_and_immortality_the_thiel_paradox.md)
-        - [`🧬_monsters_of_the_machine.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧬_monsters_of_the_machine.md)
-        - [`🧶_nato_knitting_circle.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🧶_nato_knitting_circle.md)
-        - [`🪆_why_authoritarianism_always_loses_its_camp.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪆_why_authoritarianism_always_loses_its_camp.md)
-        - [`🪞_gitmo_as_western_moral_rupture.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪞_gitmo_as_western_moral_rupture.md)
-        - [`🪞_mirror_ideologies.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪞_mirror_ideologies.md)
-        - [`🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md)
-        - [`🪩_weaponised_joy.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🪩_weaponised_joy.md)
       - [**🛟_Borders_Boats_Walls/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/)
         - [`README.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/README.md)
         - [`⚖️_coercive_control_in_border_policy.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md)
@@ -3926,6 +3917,14 @@ _Generated on 2026-08-17 17:22:14 UTC_
         - [`🧩_great_replacement_as_multigroup_elimination_myth.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🧩_great_replacement_as_multigroup_elimination_myth.md)
         - [`🧪_futurism_as_fascist_aesthetic.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🧪_futurism_as_fascist_aesthetic.md)
         - [`🧬_affective_infrastructure.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🧬_affective_infrastructure.md)
+        - [`🧬_exit_exploitation_and_immortality_the_thiel_paradox.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🧬_exit_exploitation_and_immortality_the_thiel_paradox.md)
+        - [`🧬_monsters_of_the_machine.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🧬_monsters_of_the_machine.md)
+        - [`🧶_nato_knitting_circle.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🧶_nato_knitting_circle.md)
+        - [`🪆_why_authoritarianism_always_loses_its_camp.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🪆_why_authoritarianism_always_loses_its_camp.md)
+        - [`🪞_gitmo_as_western_moral_rupture.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🪞_gitmo_as_western_moral_rupture.md)
+        - [`🪞_mirror_ideologies.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🪞_mirror_ideologies.md)
+        - [`🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🪞_post_imperial_recruitment_and_cultural_risk_in_private_intelligence.md)
+        - [`🪩_weaponised_joy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🪩_weaponised_joy.md)
       - [**🛰️_Infrastructure_Procurement/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/README.md)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
