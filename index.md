@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-17 00:30:01 UTC_
+_Generated on 2026-08-17 00:33:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,13 +18,6 @@ _Generated on 2026-08-17 00:30:01 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
-        - [`⚖️_differential_proportionality.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_differential_proportionality.md)
-        - [`⚖️_kkl_court_of_protection_case_2020.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_kkl_court_of_protection_case_2020.md)
-        - [`⚖️_legality_as_gaslight.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_legality_as_gaslight.md)
-        - [`⚖️_norman_law_and_the_geometry_of_impunity.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_norman_law_and_the_geometry_of_impunity.md)
-        - [`⚖️_retrospective_law_in_a_prospective_world.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_retrospective_law_in_a_prospective_world.md)
-        - [`⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md)
-        - [`⛳️_section_159_is_linesman_not_a_punishment.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/⛳️_section_159_is_linesman_not_a_punishment.md)
         - [`❌_ncnd_technique.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/❌_ncnd_technique.md)
         - [`🇬🇧_uk_voicecloning_risks_legislative_response.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🇬🇧_uk_voicecloning_risks_legislative_response.md)
         - [`🌀_containment_under_observation.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🌀_containment_under_observation.md)
@@ -3555,6 +3548,13 @@ _Generated on 2026-08-17 00:30:01 UTC_
         - [`⚖️_arms_exports_as_act_of_aggression.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/⚖️_arms_exports_as_act_of_aggression.md)
         - [`⚖️_case_note_dr_b_v_gmc_2023.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/⚖️_case_note_dr_b_v_gmc_2023.md)
         - [`⚖️_data_bill_peers_bill_genocide_duties.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/⚖️_data_bill_peers_bill_genocide_duties.md)
+        - [`⚖️_differential_proportionality.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/⚖️_differential_proportionality.md)
+        - [`⚖️_kkl_court_of_protection_case_2020.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/⚖️_kkl_court_of_protection_case_2020.md)
+        - [`⚖️_legality_as_gaslight.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/⚖️_legality_as_gaslight.md)
+        - [`⚖️_norman_law_and_the_geometry_of_impunity.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/⚖️_norman_law_and_the_geometry_of_impunity.md)
+        - [`⚖️_retrospective_law_in_a_prospective_world.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/⚖️_retrospective_law_in_a_prospective_world.md)
+        - [`⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md)
+        - [`⛳️_section_159_is_linesman_not_a_punishment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/⛳️_section_159_is_linesman_not_a_punishment.md)
       - [**🕯_Exorcising_Safeguarding_Shadows/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/)
         - [**audit_legal/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
           - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_legal/README.md)
