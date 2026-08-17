@@ -1,5 +1,5 @@
 # 🧃 COGAT Is a Containment Operation  
-**First created:** 2025-09-26 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-26 | **Last updated:** 2026-08-17  
 *Aid choreography as narrative weapon; humanitarian calm as camouflage for genocide.*
 
 ---
@@ -137,4 +137,4 @@ It documents how humanitarian language, logistical choreography, and emotional m
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-17_
