@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-17 00:33:45 UTC_
+_Generated on 2026-08-17 00:35:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,8 +18,6 @@ _Generated on 2026-08-17 00:33:45 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
-        - [`❌_ncnd_technique.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/❌_ncnd_technique.md)
-        - [`🇬🇧_uk_voicecloning_risks_legislative_response.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🇬🇧_uk_voicecloning_risks_legislative_response.md)
         - [`🌀_containment_under_observation.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🌀_containment_under_observation.md)
         - [`🌐_digital_sovereignty_deterritorial_cloud.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🌐_digital_sovereignty_deterritorial_cloud.md)
         - [`🏛️_political_perverts.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🏛️_political_perverts.md)
@@ -3555,6 +3553,8 @@ _Generated on 2026-08-17 00:33:45 UTC_
         - [`⚖️_retrospective_law_in_a_prospective_world.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/⚖️_retrospective_law_in_a_prospective_world.md)
         - [`⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/⚖️_too_many_lawyers_birth_of_maritime_sovereignty.md)
         - [`⛳️_section_159_is_linesman_not_a_punishment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/⛳️_section_159_is_linesman_not_a_punishment.md)
+        - [`❌_ncnd_technique.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/❌_ncnd_technique.md)
+        - [`🇬🇧_uk_voicecloning_risks_legislative_response.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/🇬🇧_uk_voicecloning_risks_legislative_response.md)
       - [**🕯_Exorcising_Safeguarding_Shadows/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/)
         - [**audit_legal/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
           - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_legal/README.md)
