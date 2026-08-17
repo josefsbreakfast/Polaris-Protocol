@@ -1,5 +1,5 @@
 # 📯 Visions of Isiah: Jerusalem Escalation Tripwire Stack  
-**First created:** 2026-03-18 | **Last updated:** 2026-03-18  
+**First created:** 2026-03-18 | **Last updated:** 2026-08-17  
 *Compound symbolic–security conditions that compress escalation timelines in Jerusalem and create state-level miscalculation risk*
 
 ---
@@ -293,4 +293,4 @@ It documents how symbolic access restrictions, ideological mobilisation, and inf
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-03-18_
+_Last updated: 2026-08-17_
