@@ -1,5 +1,5 @@
 # ⚖️ Coercive Control in Border Policy
-**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-16 | **Last updated:** 2026-08-17  
 *How coercive control logics are embedded in border regimes, visa systems, and migration governance.*  
 
 ---
@@ -95,4 +95,4 @@ border coercion, migration governance, empire legacy, scarcity narrative, depend
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-17_
