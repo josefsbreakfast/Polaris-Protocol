@@ -1,5 +1,5 @@
 # 🧊 The Bunker Has No Vibes  
-**First created:** 2025-11-13 | **Last updated:** 2025-12-13  
+**First created:** 2025-11-13 | **Last updated:** 2026-08-17  
 *How authoritarian states lose their aesthetic charisma as they radicalise — from camp spectacle to bunker silence.*  
 
 ---
@@ -59,4 +59,4 @@ authoritarian aesthetics, bunker energy, vibe collapse, soft power decay, specta
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-08-17_
