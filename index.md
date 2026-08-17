@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-17 00:35:43 UTC_
+_Generated on 2026-08-17 00:37:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,9 +18,6 @@ _Generated on 2026-08-17 00:35:43 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**📜_Statutes/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/)
-        - [`🌀_containment_under_observation.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🌀_containment_under_observation.md)
-        - [`🌐_digital_sovereignty_deterritorial_cloud.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🌐_digital_sovereignty_deterritorial_cloud.md)
-        - [`🏛️_political_perverts.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🏛️_political_perverts.md)
         - [`🏛️_procedural_gatekeeping.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/🏛️_procedural_gatekeeping.md)
         - [`👑_crown_immunity_and_integrity.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/👑_crown_immunity_and_integrity.md)
         - [`📜_identity_documents_act_2010.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/📜_Statutes/📜_identity_documents_act_2010.md)
@@ -3555,6 +3552,9 @@ _Generated on 2026-08-17 00:35:43 UTC_
         - [`⛳️_section_159_is_linesman_not_a_punishment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/⛳️_section_159_is_linesman_not_a_punishment.md)
         - [`❌_ncnd_technique.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/❌_ncnd_technique.md)
         - [`🇬🇧_uk_voicecloning_risks_legislative_response.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/🇬🇧_uk_voicecloning_risks_legislative_response.md)
+        - [`🌀_containment_under_observation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/🌀_containment_under_observation.md)
+        - [`🌐_digital_sovereignty_deterritorial_cloud.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/🌐_digital_sovereignty_deterritorial_cloud.md)
+        - [`🏛️_political_perverts.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/📜_Statutes/🏛️_political_perverts.md)
       - [**🕯_Exorcising_Safeguarding_Shadows/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/)
         - [**audit_legal/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_legal/)
           - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🕯_Exorcising_Safeguarding_Shadows/audit_legal/README.md)
