@@ -1,5 +1,5 @@
 # 🪄 Disruption Kit  
-**First created:** 2025-08-08 | **Last updated:** 2025-12-15  
+**First created:** 2025-08-08 | **Last updated:** 2026-08-17  
 *Operational tools, forensic logs, and countermeasures for resisting behavioural containment.*  
 
 ---
@@ -61,15 +61,15 @@ Entries often include screenshots, timestamps, and immediate interpretive notes.
 
 A connected sequence of logs documenting scraper removal, monitoring state shifts, and metadata purges.  
 
-- [🛰️ Reset State Analysis](./Field_Logs/🛰️_reset_state_analysis_2025-08-13.md)  
+- [🛰️ Reset State Analysis]  
   *(2025-08-07 to 2025-08-13)*  
   LinkedIn scraper removal evidence, baseline comparison, and three-layer monitoring map.  
 
-- [🛰️ Purge Sequence (Aug 11–13)](./Field_Logs/🛰️_purge_sequence_2025-08-11_to_2025-08-13.md)  
+- [🛰️ Purge Sequence (Aug 11–13)]  
   *(2025-08-11 to 2025-08-13)*  
   Coordinated metadata removal and anomaly patterns during reset window.  
 
-- [🛰️ ICC Tag Thread Containment](./Field_Logs/🛰️_icc_tag_thread_containment.md)  
+- [🛰️ ICC Tag Thread Containment]  
   *(2025-08-07)*  
   ICC/ICJ-tagged LinkedIn reply sequence triggering systemic stutter and containment.  
 
@@ -82,8 +82,8 @@ It documents the operational layers of resistance — from strategy to survival 
 
 > 📡 Cross-references:
 > 
-> - [Survivor Tools](./Survivor_Tools) — survivor-led countermeasures and guides  
+> - [Survivor Tools] — survivor-led countermeasures and guides  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-15_
+_Last updated: 2026-08-17_
