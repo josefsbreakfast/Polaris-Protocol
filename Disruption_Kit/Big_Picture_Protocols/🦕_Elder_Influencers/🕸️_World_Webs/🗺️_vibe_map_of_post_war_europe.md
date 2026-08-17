@@ -1,5 +1,5 @@
 # 🗺️ Vibe Map of Post-War Europe
-**First created:** 2025-11-13 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-13 | **Last updated:** 2026-08-17  
 *A forensic-cartoonish emotional map of Europe’s postwar vibe architectures.*  
 
 ---
@@ -45,4 +45,4 @@ europe, vibes, emotional map, trauma, national identity
 *🗺️ Vibe Map of Post-War Europe* is a living node of the **Polaris Protocol**.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-17_
