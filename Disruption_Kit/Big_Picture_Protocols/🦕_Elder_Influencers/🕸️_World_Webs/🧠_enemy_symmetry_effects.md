@@ -1,5 +1,5 @@
 # 🧠 Enemy Symmetry Effects  
-**First created:** 2025-11-20 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-20 | **Last updated:** 2026-08-17  
 *How adversaries manufacture stability to mirror allied progress and dilute geopolitical critique.*  
 
 ---
@@ -105,4 +105,4 @@ symmetry effects, parity theatre, narrative camouflage, legitimacy laundering, h
 > - [🛰️ Ally Productivity Paradox] — allied side of the symmetry  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-17_
