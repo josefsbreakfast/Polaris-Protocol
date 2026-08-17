@@ -1,4 +1,4 @@
-# 🧃 COGAT Is a Containment Operation  
+# 🧊 COGAT Is a Containment Operation  
 **First created:** 2025-09-26 | **Last updated:** 2026-08-17  
 *Aid choreography as narrative weapon; humanitarian calm as camouflage for genocide.*
 
