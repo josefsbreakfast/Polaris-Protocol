@@ -1,5 +1,5 @@
 # 💰 BRICS and Petrol Dollars  
-**First created:** 2025-12-22 | **Last updated:** 2026-07-09  
+**First created:** 2025-12-22 | **Last updated:** 2026-08-17  
 *How energy pricing, currency settlement, and tolerated instability shape geopolitical pressure — and why conflicts around Venezuela, Ukraine, and Gaza cannot be separated from monetary power.*  
 
 ---
@@ -199,4 +199,4 @@ It exists to situate security, cyber, and narrative events within the monetary s
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-07-09_
+_Last updated: 2026-08-17_
