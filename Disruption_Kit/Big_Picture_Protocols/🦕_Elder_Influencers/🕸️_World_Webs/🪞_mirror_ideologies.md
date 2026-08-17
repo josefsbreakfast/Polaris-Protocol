@@ -1,5 +1,5 @@
 # 🪞 Mirror Ideologies — Future-Worship vs Nostalgia-Fascism  
-**First created:** 2025-11-22  |  **Last updated:** 2025-12-11  
+**First created:** 2025-11-22  |  **Last updated:** 2026-08-17  
 *A micro-node describing the dual ideological poles that sustain authoritarian drift.*  
 
 ---
@@ -114,4 +114,4 @@ It provides a reusable theoretical axis for understanding how opposing narrative
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-17_
