@@ -1,5 +1,5 @@
 # 🧩 Great Replacement as Multigroup Elimination Myth  
-**First created:** 2025-11-18 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-17  
 *How the Great Replacement Theory coordinates eliminationist logic across Muslims, Black communities, Jews, and queer people.*  
 
 ---
@@ -56,4 +56,4 @@ It dissects the underlying narrative architecture linking today’s fascist orga
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-17_
