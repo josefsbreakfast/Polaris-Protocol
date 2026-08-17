@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-17 22:25:15 UTC_
+_Generated on 2026-08-17 22:26:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -14,9 +14,6 @@ _Generated on 2026-08-17 22:25:15 UTC_
   - [`core-plugins.json`](.obsidian/core-plugins.json)
   - [`graph.json`](.obsidian/graph.json)
   - [`workspace.json`](.obsidian/workspace.json)
-- [**Disruption_Kit/**](Disruption_Kit/)
-  - [**Field_Logs/**](Disruption_Kit/Field_Logs/)
-    - [`README.md`](Disruption_Kit/Field_Logs/README.md)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
   - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
     - [**㊙_Containment_Contracts/**](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/)
@@ -9253,6 +9250,7 @@ _Generated on 2026-08-17 22:25:15 UTC_
           - [`hillside_brightness_histogram.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/hillside_brightness_histogram.png)
           - [`hillside_patch_grid.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/hillside_patch_grid.png)
           - [`i_remain_curious_of_who_precisely_gets_this_upset.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/i_remain_curious_of_who_precisely_gets_this_upset.png)
+          - [`interim_README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/interim_README.md)
           - [`it_was_50£_at_cex_but_this_is_the_wishlist_inspo.HEIC`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/it_was_50£_at_cex_but_this_is_the_wishlist_inspo.HEIC)
           - [`it_was_too_funny_but_also_gtfo_my_azure_ad.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/it_was_too_funny_but_also_gtfo_my_azure_ad.png)
           - [`polaris_threat_visibility_map_2025-08_corrected.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/polaris_threat_visibility_map_2025-08_corrected.png)
