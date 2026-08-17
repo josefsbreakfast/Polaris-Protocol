@@ -1,5 +1,5 @@
 # 🎭 NatCon 2023–25 Hinge Point  
-**First created:** 2025-11-22 | **Last updated:** 2025-12-08  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-17  
 *How the National Conservatism conferences became the mask‑slip moment for Britain’s respectability pipelines.*  
 
 ---
@@ -92,4 +92,4 @@ natcon, alt‑right, extremism pipeline, prestige laundering, mask slip, hinge p
 *🎭 NatCon 2023–25 Hinge Point* is a living node of the Polaris Protocol.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-08-17_
