@@ -1,5 +1,5 @@
 # 💷 Migration as Liability Shield  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-16 | **Last updated:** 2026-08-17  
 *How anti-migrant policy serves to deflect reparations and shield elite wealth while shifting costs onto taxpayers.*  
 
 ---
@@ -61,4 +61,4 @@ It documents how migration politics act as a deflection system, shielding elite 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-17_
