@@ -1,5 +1,5 @@
 # 📦 Containment as Industry  
-**First created:** 2025-09-16 | **Last updated:** 2025-12-25  
+**First created:** 2025-09-16 | **Last updated:** 2026-08-17  
 *How border enforcement, asylum backlogs, and detention are turned into revenue streams.*  
 
 ---
@@ -94,4 +94,4 @@ It documents how migration policy is converted into a revenue stream, rooted in 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_  
+_Last updated: 2026-08-17_  
