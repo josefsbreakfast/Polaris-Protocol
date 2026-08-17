@@ -1,5 +1,5 @@
 # 🩸 Jura Sanguinis et Soli — Protofascism Risk
-**First created:** 2026-01-06 | **Last updated:** 2026-01-06  
+**First created:** 2026-01-06 | **Last updated:** 2026-08-17  
 *How blood-and-soil citizenship regimes embed fascist failure modes within the modern nation-state*
 
 ---
