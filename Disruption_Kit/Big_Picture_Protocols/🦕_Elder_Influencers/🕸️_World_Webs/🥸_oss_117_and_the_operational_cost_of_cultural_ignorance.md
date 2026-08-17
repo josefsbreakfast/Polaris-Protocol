@@ -1,5 +1,5 @@
 # 🥸 OSS 117 and the Operational Cost of Cultural Ignorance  
-**First created:** 2025-11-06 | **Last updated:** 2025-12-13  
+**First created:** 2025-11-06 | **Last updated:** 2026-08-17  
 *A parable of how incuriosity, arrogance, and automation corrode intelligence work.*  
 
 ---
@@ -96,4 +96,4 @@ It traces how satire can function as risk analysis: the comedy of a man who neve
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-08-17_
