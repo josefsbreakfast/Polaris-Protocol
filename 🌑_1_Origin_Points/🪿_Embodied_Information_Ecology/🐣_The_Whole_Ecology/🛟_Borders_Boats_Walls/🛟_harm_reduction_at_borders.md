@@ -1,5 +1,5 @@
 # 🛟 Harm Reduction at Borders  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-16 | **Last updated:** 2026-08-17  
 *Practical and policy measures to cut deaths and exploitation at points of entry, without waiting for full reform.*  
 
 ---
@@ -70,4 +70,4 @@ It documents how harm reduction principles apply at borders to reduce mortality 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_  
+_Last updated: 2026-08-17_  
