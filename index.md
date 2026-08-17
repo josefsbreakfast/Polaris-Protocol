@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-17 16:51:24 UTC_
+_Generated on 2026-08-17 17:02:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,19 +18,6 @@ _Generated on 2026-08-17 16:51:24 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/)
-        - [`🌏_china_soft_ops_vs_russia_hard_ops.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_china_soft_ops_vs_russia_hard_ops.md)
-        - [`🌏_from_escalation_to_play.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_from_escalation_to_play.md)
-        - [`🍌_racism_as_epistemic_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🍌_racism_as_epistemic_collapse.md)
-        - [`🍞_the_great_british_imperial_starvation_machine.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🍞_the_great_british_imperial_starvation_machine.md)
-        - [`🍸_borders_as_nightclub_entry_doors.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🍸_borders_as_nightclub_entry_doors.md)
-        - [`🎩_archetype_of_the_sensible_man.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🎩_archetype_of_the_sensible_man.md)
-        - [`🎭_natcon_2023_25_hinge_point.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🎭_natcon_2023_25_hinge_point.md)
-        - [`🎶_state_voice_fidelity_the_choral_body_as_archive.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🎶_state_voice_fidelity_the_choral_body_as_archive.md)
-        - [`🎺_the_red_army_choir_doctrine.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🎺_the_red_army_choir_doctrine.md)
-        - [`🏒_ice_and_ideology_the_vvs_hockey_team_crash.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🏒_ice_and_ideology_the_vvs_hockey_team_crash.md)
-        - [`🏚️_the_economics_of_apartheid_and_fascism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🏚️_the_economics_of_apartheid_and_fascism.md)
-        - [`🏛️_osa_misclassification_uk_israel_mous_survivor_records.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)
-        - [`🏜️_negev_from_renewal_to_refusal.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🏜️_negev_from_renewal_to_refusal.md)
         - [`🐡_men_exaggerate_object_size_by_six_inches_maritime_edition.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🐡_men_exaggerate_object_size_by_six_inches_maritime_edition.md)
         - [`🐾_canine_constellation_guardians_at_the_threshold.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🐾_canine_constellation_guardians_at_the_threshold.md)
         - [`💣_energy_rents_and_strongman_panic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💣_energy_rents_and_strongman_panic.md)
@@ -3926,6 +3913,19 @@ _Generated on 2026-08-17 16:51:24 UTC_
         - [`🌍_apartheid_algorithm_dependency_theory.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🌍_apartheid_algorithm_dependency_theory.md)
         - [`🌍_when_virtual_minds_govern_a_physical_planet.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md)
         - [`🌏_brics_bridgework_middle_corridors.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🌏_brics_bridgework_middle_corridors.md)
+        - [`🌏_china_soft_ops_vs_russia_hard_ops.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🌏_china_soft_ops_vs_russia_hard_ops.md)
+        - [`🌏_from_escalation_to_play.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🌏_from_escalation_to_play.md)
+        - [`🍌_racism_as_epistemic_collapse.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🍌_racism_as_epistemic_collapse.md)
+        - [`🍞_the_great_british_imperial_starvation_machine.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🍞_the_great_british_imperial_starvation_machine.md)
+        - [`🍸_borders_as_nightclub_entry_doors.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🍸_borders_as_nightclub_entry_doors.md)
+        - [`🎩_archetype_of_the_sensible_man.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🎩_archetype_of_the_sensible_man.md)
+        - [`🎭_natcon_2023_25_hinge_point.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🎭_natcon_2023_25_hinge_point.md)
+        - [`🎶_state_voice_fidelity_the_choral_body_as_archive.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🎶_state_voice_fidelity_the_choral_body_as_archive.md)
+        - [`🎺_the_red_army_choir_doctrine.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🎺_the_red_army_choir_doctrine.md)
+        - [`🏒_ice_and_ideology_the_vvs_hockey_team_crash.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🏒_ice_and_ideology_the_vvs_hockey_team_crash.md)
+        - [`🏚️_the_economics_of_apartheid_and_fascism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🏚️_the_economics_of_apartheid_and_fascism.md)
+        - [`🏛️_osa_misclassification_uk_israel_mous_survivor_records.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)
+        - [`🏜️_negev_from_renewal_to_refusal.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🏜️_negev_from_renewal_to_refusal.md)
       - [**🛰️_Infrastructure_Procurement/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/README.md)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
