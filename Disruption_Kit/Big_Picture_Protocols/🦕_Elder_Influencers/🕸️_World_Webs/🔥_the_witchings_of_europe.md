@@ -1,5 +1,5 @@
 # 🔥 The Witchings of Europe — Algorithmic Purge as Political Reflex  
-**First created:** 2025-10-24 | **Last updated:** 2025-12-11  
+**First created:** 2025-10-24 | **Last updated:** 2026-08-17  
 *When the architecture of fear repeats itself through code.*  
 
 ---
@@ -302,4 +302,4 @@ It connects early-modern persecution logics to contemporary algorithmic containm
 > – [🧩 Ecological Ethics of Algorithmic Design] — ethical counterpart  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-17_
