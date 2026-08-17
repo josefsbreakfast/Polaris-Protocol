@@ -1,5 +1,5 @@
 # 🧪 Futurism as Fascist Aesthetic
-**First created:** 2025-11-13 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-13 | **Last updated:** 2026-08-17  
 *How futurism, accelerationism, and techno-optimisation form a natural bridge into authoritarian politics.*  
 
 ---
@@ -37,4 +37,4 @@ futurism, accelerationism, eugenics, techno-optimism, hierarchy
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-17_
