@@ -1,5 +1,5 @@
 # 🕰️ Political Time Orientations — Utopia, Present, Journey  
-**First created:** 2025-11-07 | **Last updated:** 2025-12-22  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-17  
 *How political actors orient themselves toward time — and how that orientation shapes power, harm, and legitimacy.*
 
 ---
@@ -199,4 +199,4 @@ It provides a temporal diagnostic for analysing governance, movements, and insti
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-22_
+_Last updated: 2026-08-17_
