@@ -1,5 +1,5 @@
 # 🛰️ Ally Productivity Paradox  
-**First created:** 2025-11-20 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-20 | **Last updated:** 2026-08-17  
 *How allied stability generates unintended strategic symmetry in adversarial ecosystems.*  
 
 ---
@@ -97,4 +97,4 @@ ally stability, parity illusion, narrative mirroring, signalling distortion, geo
 > - [🌀 Systems & Governance] — structural reading of international behaviour  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-17_
