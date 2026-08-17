@@ -1,5 +1,5 @@
 # 🦁 Iran as Geostrategic Chokepoint (Resources + Position)  
-**First created:** 2026-01-18 | **Last updated:** 2026-01-18  
+**First created:** 2026-01-18 | **Last updated:** 2026-08-17  
 *Why Iran’s geography and resources place it at the centre of long‑running strategic pressure — independent of regime ideology.*  
 
 ---
@@ -173,4 +173,4 @@ It documents how Iran’s geography and resources drive sustained strategic pres
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-01-18_
+_Last updated: 2026-08-17_
