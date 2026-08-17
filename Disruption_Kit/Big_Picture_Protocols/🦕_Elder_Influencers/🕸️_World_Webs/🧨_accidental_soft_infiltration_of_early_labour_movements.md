@@ -1,5 +1,5 @@
 # 🧨 Accidental Soft-Infiltration of Early Labour Movements  
-**First created:** 2025-11-17 | **Last updated:** 2025-12-25  
+**First created:** 2025-11-17 | **Last updated:** 2026-08-17  
 *How middle-class norms, emotional expectations, and “respectability politics” entered labour organising unintentionally — and reshaped the movement from within.*  
 
 ---
@@ -201,4 +201,4 @@ It supports the **Big Picture Protocols** cluster and the **Political Homeostasi
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-25_
+_Last updated: 2026-08-17_
