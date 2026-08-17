@@ -1,5 +1,5 @@
 # 🌀 Forced Migration as Governance  
-**First created:** 2025-09-27 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-27 | **Last updated:** 2026-08-17  
 *How empire displaced populations to fracture cohesion and control labour.*  
 
 ---
@@ -57,4 +57,4 @@ It maps how empire displaced populations to prevent cohesion, and how ritual sab
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-17_
