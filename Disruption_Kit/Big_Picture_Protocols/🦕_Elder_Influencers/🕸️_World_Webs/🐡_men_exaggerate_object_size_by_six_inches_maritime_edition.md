@@ -1,5 +1,5 @@
 # 🐡 Men Exaggerate Object Size by Six Inches (Maritime Edition)  
-**First created:** 2025-11-19 | **Last updated:** 2025-12-09  
+**First created:** 2025-11-19 | **Last updated:** 2026-08-17  
 *A Polaris comedic-anthropological analysis of why sailors consistently exaggerated the size of sea creatures, ship damage, threats, and “things encountered at sea” — and how this behaviour helped create the Kraken myth.*  
 
 ---
@@ -174,4 +174,4 @@ Crosslinks:
 - 🦑 *kraken-based_defence_budget_satire*  
 - 🚢 *royal_navy_and_the_myth_of_underwater_threats*
 
-_Last updated: 2025-12-09_
+_Last updated: 2026-08-17_
