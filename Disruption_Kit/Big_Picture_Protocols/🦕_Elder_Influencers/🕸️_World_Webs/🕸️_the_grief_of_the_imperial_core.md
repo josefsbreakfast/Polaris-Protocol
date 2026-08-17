@@ -1,5 +1,5 @@
 # 🕸️ The Grief of the Imperial Core  
-**First created:** 2025-10-22 | **Last updated:** 2025-12-12  
+**First created:** 2025-10-22 | **Last updated:** 2026-08-17  
 *Reconciling moral injury, complicity, and loss within the heart of empire.*  
 
 ---
@@ -43,4 +43,4 @@ It situates emotional processing as political work: reckoning with benefit, loss
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-17_
