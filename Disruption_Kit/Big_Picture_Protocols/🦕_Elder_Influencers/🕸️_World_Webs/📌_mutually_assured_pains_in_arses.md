@@ -1,6 +1,5 @@
 # 📌 Mutually Assured Pains in Arses  
-
-First created: 2026-04-09 | Last updated: 2026-04-09  
+First created: 2026-04-09 | Last updated: 2026-08-17  
 Systemic constraint through shared disruption rather than catastrophic deterrence  
 
 ---
@@ -167,4 +166,4 @@ mutual disruption, systemic risk, deterrence theory, interdependence, escalation
 
 Survivor authorship is sovereign. Containment is never neutral.  
 
-_Last updated: 2026-04-09_
+_Last updated: 2026-08-17_
