@@ -1,5 +1,5 @@
 # 🏚️ The Economics of Apartheid and Fascism, Or: Why Authoritarian Regimes Always Bankrupt Themselves  
-**First created:** 2025-10-26 | **Last updated:** 2025-12-08  
+**First created:** 2025-10-26 | **Last updated:** 2026-08-17  
 *Short-term shine, long-term collapse.*  
 
 ---
@@ -200,4 +200,4 @@ fascism-economics, apartheid-collapse, propaganda-vs-reality, dose-response-auth
 
 ---
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-08-17_
