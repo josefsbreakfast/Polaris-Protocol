@@ -1,5 +1,5 @@
 # 🧩 From Diffusion to Forum Cross-Pollination  
-**First created:** 2025-11-03 | **Last updated:** 2025-12-14  
+**First created:** 2025-11-03 | **Last updated:** 2026-08-17  
 *How early anonymous boards and structured forums shaped the spread of masculine-discipline memes online.*  
 
 ---
@@ -50,4 +50,4 @@ It documents how ephemeral joke economies on anonymous boards harden into persis
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-14_
+_Last updated: 2026-08-17_
