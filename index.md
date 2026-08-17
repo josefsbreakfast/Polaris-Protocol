@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-17 23:18:46 UTC_
+_Generated on 2026-08-17 23:20:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -14,8 +14,6 @@ _Generated on 2026-08-17 23:18:46 UTC_
   - [`core-plugins.json`](.obsidian/core-plugins.json)
   - [`graph.json`](.obsidian/graph.json)
   - [`workspace.json`](.obsidian/workspace.json)
-- [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
-  - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
     - [`README.md`](🌑_1_Origin_Points/.🌱_Still_Growing/README.md)
@@ -2982,6 +2980,7 @@ _Generated on 2026-08-17 23:18:46 UTC_
         - [`🫠_projection_leak_signature.md`](🌒_2_Signs_Symptoms/🛰️_Metadata_Sabotage_Network/🧬_Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🫠_projection_leak_signature.md)
       - [`README.md`](🌒_2_Signs_Symptoms/🛰️_Metadata_Sabotage_Network/🧬_Structural_Analysis/README.md)
       - [`notes.txt`](🌒_2_Signs_Symptoms/🛰️_Metadata_Sabotage_Network/🧬_Structural_Analysis/notes.txt)
+    - [`README.md`](🌒_2_Signs_Symptoms/🛰️_Metadata_Sabotage_Network/README.md)
     - [`notes.txt`](🌒_2_Signs_Symptoms/🛰️_Metadata_Sabotage_Network/notes.txt)
   - [**🩻_Weirdness_Screening/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/)
     - [**🌐_Connection_Hiccups/**](🌒_2_Signs_Symptoms/🩻_Weirdness_Screening/🌐_Connection_Hiccups/)
